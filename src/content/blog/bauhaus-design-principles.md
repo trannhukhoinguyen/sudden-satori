@@ -2,9 +2,14 @@
 title: "Understanding Bauhaus: Form, Function, and the Modern Web"
 date: "2025-06-07"
 description: "A deep dive into how Bauhaus principles continue to shape contemporary digital design"
+author: ""
 excerpt: "From the workshops of Weimar to the screens of today, the Bauhaus movement's radical approach to design continues to influence how we think about digital spaces."
 categories: ["Design", "History", "Web Development"]
 tags: ["Bauhaus", "Design Theory", "Modernism", "UI Design"]
+audioUrls: [
+  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
+]
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
 # Understanding Bauhaus: Form, Function, and the Modern Web

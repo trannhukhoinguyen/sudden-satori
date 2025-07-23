@@ -5,6 +5,10 @@ description: "Tracing the revolutionary changes in typography from movable type 
 excerpt: "Typography has evolved from hand-carved letters to algorithmic type design. This journey reveals how technological advances have democratized the written word."
 categories: ["Typography", "History", "Design"]
 tags: ["Fonts", "Type Design", "History", "Web Typography"]
+audioUrls: [
+  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
+]
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
 # The Evolution of Typography: From Gutenberg to Google Fonts

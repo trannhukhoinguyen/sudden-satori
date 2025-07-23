@@ -5,6 +5,10 @@ description: "Exploring the fascinating intersection between Bauhaus functionali
 excerpt: "An examination of how opposing design philosophies can create compelling visual narratives in contemporary digital spaces."
 categories: ["Design", "Typography", "History"]
 tags: ["Bauhaus", "Modernism", "Web Design", "Visual Culture"]
+audioUrls: [
+  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
+]
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
 # The Aesthetic Tension of Modernist Design
@@ -61,4 +65,4 @@ This is design as conversation, where each element speaks only when it has somet
 
 ---
 
-*This post demonstrates the core principles of the Volks-Typo theme in action, showing how historical design languages can inform contemporary digital experiences.*
+*This post demonstrates the core principles of the Sudden Satori theme in action, showing how historical design languages can inform contemporary digital experiences.*

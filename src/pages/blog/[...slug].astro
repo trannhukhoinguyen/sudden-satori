@@ -3,14 +3,15 @@ import Layout from '../../components/Layout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import { extractHeadings, filterHeadingsForTOC } from '../../utils/table-of-contents';
 import { calculateReadingTime, extractTextFromMarkdown } from '../../utils/reading-time';
+import MediaArea from "../../components/MediaArea.astro";
 
 export async function getStaticPaths() {
   // Support both .md and .mdx files
   const mdPostsGlob = import.meta.glob('../../content/blog/*.md', { eager: true });
   const mdxPostsGlob = import.meta.glob('../../content/blog/*.mdx', { eager: true });
-  
+
   const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
-  
+
   return allPosts.map((post: any) => {
     // For import.meta.glob, access raw content through compiledContent or body
     const rawContent = post.body || post.rawContent?.() || '';
@@ -18,7 +19,7 @@ export async function getStaticPaths() {
     const readingTime = calculateReadingTime(plainText);
     const allHeadings = extractHeadings(rawContent);
     const tocHeadings = filterHeadingsForTOC(allHeadings);
-    
+
     return {
       params: { slug: post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '') },
       props: { post, readingTime, tocHeadings }
@@ -34,8 +35,8 @@ const base = import.meta.env.BASE_URL;
 const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString() : undefined;
 ---
 
-<Layout 
-  title={pageTitle} 
+<Layout
+  title={pageTitle}
   description={frontmatter.description || frontmatter.excerpt}
   type="article"
   publishedTime={publishedTime}
@@ -43,7 +44,7 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
   <article class="blog-post">
     <header class="post-header">
       <h1 class="post-title">{frontmatter.title}</h1>
-      
+
       <div class="post-meta">
         <time class="post-date" datetime={frontmatter.date}>
           {new Date(frontmatter.date).toLocaleDateString('en-US', {
@@ -52,9 +53,9 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
             day: 'numeric'
           })}
         </time>
-        
+
         <span class="post-reading-time">{readingTime}</span>
-        
+
         {frontmatter.categories && frontmatter.categories.length > 0 && (
           <div class="post-categories">
             {frontmatter.categories.map((category: string) => (
@@ -65,17 +66,23 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
           </div>
         )}
       </div>
-      
+
       {frontmatter.excerpt && (
         <p class="post-excerpt">{frontmatter.excerpt}</p>
       )}
-      
+
       <!-- Monumental Blood Red Rule -->
       <hr class="monumental-rule" />
     </header>
 
     <TableOfContents headings={tocHeadings} />
 
+    <!-- Media Area -->
+    <div class="post-content">
+      <MediaArea entry={post} />
+    </div>
+
+    <!-- Content -->
     <div class="post-content">
       <Content />
     </div>
@@ -91,7 +98,7 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
           </div>
         </div>
       )}
-      
+
       <div class="post-navigation">
         <a href={`${base}/blog`} class="back-to-blog">← Back to Blog</a>
       </div>

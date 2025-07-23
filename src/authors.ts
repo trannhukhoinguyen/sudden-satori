@@ -1,20 +1,14 @@
-export interface SiteConfig {
-  title: string;
-  description: string;
-  author: {
-    name: string;
-    bio: string;
-    avatar?: string;
+export interface author {
+  name: string;
+  bio: string;
+  avatar?: string;
+  references?: {
+    link_1?: string;
+    link_2?: string;
   };
-  social: {
-    x_twitter?: string;
-    facebook?: string;
-    youtube?: string;
-  };
-  siteUrl: string;
 }
 
-export const config: SiteConfig = {
+export const authors: author[] = {
   title: "Đốn Ngộ",
   description: "Trực chỉ minh tâm, Kiến tánh thành Phật",
   author: {
@@ -29,7 +23,3 @@ export const config: SiteConfig = {
   },
   siteUrl: "https://sudden-satori.vercel.app"
 };
-
-// Export constants for SEO component
-export const SITE_TITLE = config.title;
-export const SITE_DESCRIPTION = config.description;

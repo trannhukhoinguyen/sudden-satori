@@ -5,6 +5,10 @@ description: "How industrial designers use color to communicate function and emo
 excerpt: "Color in industrial design isn't decoration—it's communication. From safety warnings to brand identity, color choices shape how we interact with objects."
 categories: ["Design", "Color Theory"]
 tags: ["Industrial Design", "Color", "Product Design", "Psychology"]
+audioUrls: [
+  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
+]
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
 # Color Theory in Industrial Design

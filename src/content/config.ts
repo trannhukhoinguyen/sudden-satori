@@ -11,6 +11,9 @@ const blog = defineCollection({
     tags: z.array(z.string()).default([]),
     author: z.string().default('Anonymous'),
     image: z.string().optional(),
+    audioUrl: z.string().url().optional(),
+    audioUrls: z.array(z.string().url()).optional(),
+    videoUrl: z.string().url().optional(),
   }),
 });
 

@@ -5,6 +5,10 @@ description: "How CSS Grid enables us to create layouts inspired by Bauhaus and 
 excerpt: "CSS Grid isn't just a layout tool—it's a design philosophy made manifest in code. Learn how to create modernist-inspired layouts that would make Mondrian proud."
 categories: ["Web Development", "Design", "CSS"]
 tags: ["CSS Grid", "Layout", "Modernism", "Frontend"]
+audioUrls: [
+  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
+]
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
 # Building Modernist Layouts with CSS Grid

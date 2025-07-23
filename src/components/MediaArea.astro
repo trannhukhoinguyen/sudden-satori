@@ -1,0 +1,61 @@
+---
+import LogoYoutube from "./LogoYoutube.astro";
+
+// Get the entry data
+const { entry } = Astro.props;
+---
+
+<div class="mb-8 space-y-6">
+    {
+        entry.data?.videoUrl && (
+                    <div>
+                        <h3 class="text-xl font-bold mb-4" title="Watch">
+                            <LogoYoutube className="h-6 w-6" />
+                        </h3>
+                        <div
+                            class="
+                                aspect-w-16
+                                aspect-h-9
+                                rounded-lg
+                                overflow-hidden
+                            "
+                        >
+                            <iframe
+                                src={entry.data.videoUrl}
+                                title={entry.data.title}
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen
+                                class="w-full h-full"
+                            ></iframe>
+                        </div>
+                    </div>
+        )
+    }
+
+    <!--      {
+            entry.data?.audioUrl && (
+              <div>
+                <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
+                <audio controls class="w-full">
+                  <source src={entry.data.audioUrl} type="audio/mpeg">
+                  Your browser does not support the audio element.
+                </audio>
+              </div>
+            )
+          } -->
+    {
+        entry.data?.audioUrls?.length && (entry.data?.audioUrls?.map((url, index) => <div>
+            {
+                index === 0
+                    ? <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
+                    : ''
+            }
+                <h4 class="text-xl font-bold mb-4" title={url}>{index + 1}</h4>
+                <audio controls class="w-full">
+                    <source src={url} type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+        ))
+    }
+</div>

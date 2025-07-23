@@ -1,4 +1,4 @@
-# Volks-Typo Screenshots
+# Sudden Satori Screenshots
 
 This directory contains screenshots for the Astro theme portal submission and documentation.
 

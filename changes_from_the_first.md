@@ -1,5 +1,5 @@
 
-# The Evolution of Volks-Typo: From Vision to Reality
+# The Evolution of Sudden Satori: From Vision to Reality
 
 ## The Journey Begins
 
@@ -50,4 +50,4 @@ The most recent addition—a conversation saving system—hints at the project's
 
 What began as a single-purpose Astro theme has evolved into something more significant: a complete platform for thoughtful, design-conscious blogging. The journey from 303 lines of changes to over 13,000 additions tells the story of a project that found its identity not through addition but through purposeful subtraction, not through complexity but through focused simplicity.
 
-The Volks-Typo project demonstrates that the best software isn't built in isolation but through iteration, experimentation, and the courage to remove what doesn't serve the core vision. It's a testament to the power of focused design thinking and the value of knowing when to say no to features that don't align with the project's essential purpose.
+The Sudden Satori project demonstrates that the best software isn't built in isolation but through iteration, experimentation, and the courage to remove what doesn't serve the core vision. It's a testament to the power of focused design thinking and the value of knowing when to say no to features that don't align with the project's essential purpose.

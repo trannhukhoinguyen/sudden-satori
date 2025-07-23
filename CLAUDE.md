@@ -1,4 +1,4 @@
-# Volks-Typo Astro Theme
+# Sudden Satori Astro Theme
 
 ## Project Overview
 A minimalist Astro blog theme with bold typography and a strong geometric design system. The theme emphasizes clarity, readability, and modern web aesthetics while maintaining a distinctive industrial character.

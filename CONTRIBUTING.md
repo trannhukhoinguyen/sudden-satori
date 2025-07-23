@@ -1,6 +1,6 @@
-# Contributing to Volks-Typo
+# Contributing to Sudden Satori
 
-Thank you for your interest in contributing to Volks-Typo! This minimalist Astro blog theme follows Bauhaus design principles, and we welcome contributions that align with our design philosophy.
+Thank you for your interest in contributing to Sudden Satori! This minimalist Astro blog theme follows Bauhaus design principles, and we welcome contributions that align with our design philosophy.
 
 ## 🎨 Design Philosophy
 

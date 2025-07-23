@@ -5,6 +5,10 @@ description: "How architectural minimalism shapes modern web interfaces"
 excerpt: "From Mies van der Rohe's 'Less is more' to modern UI design, minimalist architecture continues to influence how we build digital spaces."
 categories: ["Architecture", "Design", "UI/UX"]
 tags: ["Minimalism", "Architecture", "Interface Design", "Modernism"]
+audioUrls: [
+   "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
+]
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
 # Minimalist Architecture in Digital Design

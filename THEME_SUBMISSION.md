@@ -1,6 +1,6 @@
-# Volks-Typo - Astro Theme Submission Guide
+# Sudden Satori - Astro Theme Submission Guide
 
-This guide helps you prepare and submit Volks-Typo to the Astro theme portal.
+This guide helps you prepare and submit Sudden Satori to the Astro theme portal.
 
 ## Pre-Submission Checklist
 
@@ -32,7 +32,7 @@ All screenshots are optimized and ready for submission.
 
 ### Theme Info
 
-**Theme name:** Volks-Typo
+**Theme name:** Sudden Satori
 
 **Is your theme free or paid?** Free
 
@@ -47,7 +47,7 @@ A bold, minimalist Astro blog theme combining Bauhaus modernism with striking ty
 
 **Full description for the theme detail page:**
 ```
-Volks-Typo is a bold, minimalist Astro blog theme that combines Bauhaus modernism with striking typography for a professional, high-impact aesthetic.
+Sudden Satori is a bold, minimalist Astro blog theme that combines Bauhaus modernism with striking typography for a professional, high-impact aesthetic.
 
 Key Features:
 • Bold typography with uppercase headings and strong visual hierarchy

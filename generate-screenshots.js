@@ -12,7 +12,7 @@ async function generateScreenshots() {
   // Base URL - GitHub Pages live site
   const baseURL = 'https://jdrhyne.github.io/volks-typo';
   
-  console.log('🎨 Generating Volks-Typo theme screenshots for submission...\n');
+  console.log('🎨 Generating Sudden Satori theme screenshots for submission...\n');
   
   // Desktop screenshots (1200px width for high quality)
   const desktopPage = await context.newPage();

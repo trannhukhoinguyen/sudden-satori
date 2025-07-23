@@ -76,7 +76,7 @@ Session ID: ${SESSION_ID}
 Date: ${new Date().toISOString()}
 
 ## Overview
-This session focused on cleaning up the Volks-Typo theme repository by separating marketing-related files into a dedicated private repository.
+This session focused on cleaning up the Sudden Satori theme repository by separating marketing-related files into a dedicated private repository.
 
 ## Major Accomplishments
 

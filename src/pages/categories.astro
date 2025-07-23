@@ -20,7 +20,7 @@ allPosts.forEach((post: any) => {
 // Create category map with post counts
 const categoryMap: Record<string, any[]> = {};
 Array.from(allCategories).forEach((category: string) => {
-  categoryMap[category] = allPosts.filter((post: any) => 
+  categoryMap[category] = allPosts.filter((post: any) =>
     post.frontmatter.categories && post.frontmatter.categories.includes(category)
   );
 });
@@ -35,12 +35,12 @@ const sortedCategories = Object.entries(categoryMap)
   });
 ---
 
-<Layout title="Categories - Volks-Typo" description="Browse articles by category" showSidebar={true}>
+<Layout title="Categories - Sudden Satori" description="Browse articles by category" showSidebar={true}>
   <div class="categories-page">
     <header class="page-header">
       <h1 class="page-title">Categories</h1>
       <p class="page-description">
-        Browse articles organized by category. Click on any category to see related posts.
+        ...
       </p>
       <hr class="page-rule" />
     </header>
@@ -60,7 +60,7 @@ const sortedCategories = Object.entries(categoryMap)
 
     {sortedCategories.length === 0 && (
       <div class="no-categories">
-        <p>No categories found. Add categories to your blog posts in the frontmatter.</p>
+        <p>No categories found.</p>
       </div>
     )}
   </div>

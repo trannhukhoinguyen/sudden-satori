@@ -47,4 +47,4 @@ Link to any related feature requests or issues.
 - [ ] I have searched the existing issues to make sure this is not a duplicate
 - [ ] I have clearly described the feature and its benefits
 - [ ] I have considered the impact on existing features
-- [ ] This feature aligns with the minimalist design philosophy of Volks-Typo
+- [ ] This feature aligns with the minimalist design philosophy of Sudden Satori

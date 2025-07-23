@@ -9,16 +9,19 @@ const sortedPosts = allPosts
   .slice(0, 3);
 ---
 
-<Layout title="Volks-Typo: Bauhaus Meets Monumental Design" description="An Astro blog theme exploring the aesthetic tension between Bauhaus modernism and WW2-era monumental design. Where functionalism meets grandeur in dissonant harmony." showSidebar={false}>
+<Layout
+    title="Sudden Satori: Nhất Thiết Phật Ngữ Tâm"
+    description=""
+    showSidebar={false}
+>
   <div class="landing-page">
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">
-        <h1 class="hero-title">Volks-Typo</h1>
-        <p class="hero-subtitle">Bauhaus Meets Monumental</p>
+        <h1 class="hero-title">Đốn Ngộ</h1>
+        <p class="hero-subtitle">Nhất Thiết Phật Ngữ Tâm</p>
         <p class="hero-description">
-          An aesthetic exploration where Bauhaus functionalism collides with 
-          monumental grandeur. Form follows function, with a twist.
+          Trực chỉ minh tâm, Kiến tánh thành Phật
         </p>
         <hr class="hero-rule" />
         <div class="hero-actions">
@@ -33,10 +36,9 @@ const sortedPosts = allPosts
       <div class="container">
         <h2 class="section-title">Live Demo</h2>
         <p class="demo-description">
-          See the theme in action with sample blog posts that demonstrate all typography, 
-          layout, and design elements working together in perfect dissonant harmony.
+          Trực chỉ minh tâm, Kiến tánh thành Phật
         </p>
-        
+
         {sortedPosts.length > 0 && (
           <div class="demo-posts">
             {sortedPosts.map(post => (
@@ -44,7 +46,7 @@ const sortedPosts = allPosts
                 <h3 class="demo-post-title">
                   <a href={post.url}>{post.frontmatter.title}</a>
                 </h3>
-                
+
                 <div class="demo-post-meta">
                   <time class="demo-post-date" datetime={post.frontmatter.date}>
                     {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
@@ -55,11 +57,11 @@ const sortedPosts = allPosts
                   </time>
                   <span class="demo-post-reading-time">5 min read</span>
                 </div>
-                
+
                 {post.frontmatter.excerpt && (
                   <p class="demo-post-excerpt">{post.frontmatter.excerpt}</p>
                 )}
-                
+
                 {post.frontmatter.categories && (
                   <div class="demo-post-categories">
                     {post.frontmatter.categories.map((category: string) => (
@@ -71,7 +73,7 @@ const sortedPosts = allPosts
             ))}
           </div>
         )}
-        
+
         <div class="demo-actions">
           <a href={`${import.meta.env.BASE_URL}blog`} class="btn btn-primary">View Blog</a>
         </div>
@@ -118,18 +120,18 @@ const sortedPosts = allPosts
         <p class="typography-description">
           Work Sans provides exceptional readability across all text sizes and contexts
         </p>
-        
+
         <div class="typography-samples">
           <div class="type-sample">
             <h1 class="sample-h1">MONUMENTAL TYPE</h1>
             <p class="type-meta">Cormorant Garamond • 900 Weight • Blood Red</p>
           </div>
-          
+
           <div class="type-sample">
             <p class="sample-body">Bauhaus-inspired body text in Inter creates perfect readability. Function meets form in every letterform, optimized for modern screens.</p>
             <p class="type-meta">Inter • 400 Weight • Charcoal Black</p>
           </div>
-          
+
           <div class="type-sample">
             <code class="sample-code">npm install volks-typo</code>
             <p class="type-meta">JetBrains Mono • Monospace Code</p>
@@ -151,7 +153,7 @@ const sortedPosts = allPosts
 cd volks-typo</code></pre>
             </div>
           </div>
-          
+
           <div class="step">
             <h3 class="step-number">02</h3>
             <div class="step-content">
@@ -159,7 +161,7 @@ cd volks-typo</code></pre>
               <pre class="code-block"><code>npm install</code></pre>
             </div>
           </div>
-          
+
           <div class="step">
             <h3 class="step-number">03</h3>
             <div class="step-content">

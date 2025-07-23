@@ -10,12 +10,12 @@ const sortedPosts = allPosts
   .sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
 ---
 
-<Layout title="Blog | Volks-Typo" description="All blog posts from the Volks-Typo theme">
+<Layout title="Blog | Sudden Satori" description="All blog posts from the Sudden Satori theme">
   <div class="blog-page">
     <header class="blog-header">
       <h1 class="blog-title">Blog</h1>
       <p class="blog-description">
-        Exploring design, typography, and the intersection of historical aesthetics with modern functionality.
+        ...
       </p>
       <hr class="blog-rule" />
     </header>
@@ -27,7 +27,7 @@ const sortedPosts = allPosts
             <h2 class="post-title">
               <a href={`${base}/blog/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>{post.frontmatter.title}</a>
             </h2>
-            
+
             <div class="post-meta">
               <time class="post-date" datetime={post.frontmatter.date}>
                 {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
@@ -36,9 +36,9 @@ const sortedPosts = allPosts
                   day: 'numeric'
                 })}
               </time>
-              
+
               <span class="post-reading-time">5 min read</span>
-              
+
               {post.frontmatter.categories && (
                 <div class="post-categories">
                   {post.frontmatter.categories.map((category: string) => (
@@ -47,18 +47,18 @@ const sortedPosts = allPosts
                 </div>
               )}
             </div>
-            
+
             {post.frontmatter.excerpt && (
               <p class="post-excerpt">{post.frontmatter.excerpt}</p>
             )}
-            
+
             <a href={`${base}/blog/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="read-more">Read More →</a>
           </article>
         ))}
       </div>
     ) : (
       <div class="no-posts">
-        <p>No posts available yet. Start writing by creating files in <code>src/pages/blog/</code></p>
+        <p>No posts available yet.</p>
       </div>
     )}
   </div>
