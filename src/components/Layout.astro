@@ -58,7 +58,7 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
           <slot />
         </div>
 
-{showSidebar && (
+        {showSidebar && (
           <aside class="sidebar">
             <Sidebar />
           </aside>
@@ -108,7 +108,7 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
     }
     
     .sidebar {
-      order: 1;
+      order: 2;
       padding-top: calc(var(--grid-unit) * 3);
     }
   }
