@@ -1,5 +1,5 @@
 ---
-import Layout from '../components/Layout.astro';
+import Layout from '../../components/Layout.astro';
 const base = import.meta.env.BASE_URL;
 
 const mdPostsGlob = import.meta.glob('../content/blog/*.md', { eager: true });
@@ -52,7 +52,7 @@ const sortedPosts = allPosts
               <p class="post-excerpt">{post.frontmatter.excerpt}</p>
             )}
 
-            <a href={`${base}/blog/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="read-more">Read More →</a>
+            <a href={`/blog/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="read-more">Read More →</a>
           </article>
         ))}
       </div>

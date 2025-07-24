@@ -10,7 +10,7 @@ async function generateScreenshots() {
   const context = await browser.newContext();
   
   // Base URL - GitHub Pages live site
-  const baseURL = 'https://jdrhyne.github.io/volks-typo';
+  const baseURL = 'https://sudden-satori.vercel.app';
   
   console.log('🎨 Generating Sudden Satori theme screenshots for submission...\n');
   
