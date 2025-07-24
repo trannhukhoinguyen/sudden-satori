@@ -7,7 +7,6 @@ export interface SiteConfig {
     avatar?: string;
   };
   social: {
-    x_twitter?: string;
     facebook?: string;
     youtube?: string;
   };
@@ -23,7 +22,6 @@ export const config: SiteConfig = {
     // avatar: "/images/avatar.jpg" // Uncomment and add your avatar image to public/images/
   },
   social: {
-    x_twitter: "https://x.com/yourusername",
     facebook: "https://linkedin.com/in/yourusername",
     youtube: "your.email@example.com"
   },
