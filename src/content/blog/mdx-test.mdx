@@ -11,30 +11,59 @@ audioUrls: [
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
-# Welcome to MDX!
+```css
+.architectural-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+```
 
-This is a test post to demonstrate that MDX is working correctly in the Sudden Satori theme.
+*Grid systems in architecture and web design create order and rhythm*
 
-## What is MDX?
+```html
+<nav class="architectural-nav">
+  <div class="structural-column">Logo</div>
+  <div class="open-space">
+    <a href="#" class="nav-beam">About</a>
+    <a href="#" class="nav-beam">Work</a>
+    <a href="#" class="nav-beam">Contact</a>
+  </div>
+</nav>
+```
 
-MDX lets you use JSX in your markdown content. This means you can:
+```css
+.flexible-space {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-unit);
+}
 
-1. Import and use components
-2. Write JSX directly in your content
-3. Create interactive documentation
+@media (min-width: 768px) {
+  .flexible-space {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+}
+```
 
-## Example: Using JSX
-
-Here's a simple example of JSX in MDX:
+```css
+/* Example of the typographic hierarchy */
+h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #dc2626;
+}
+```
 
 <div style={{ padding: '20px', backgroundColor: '#f5f5f5', borderRadius: '8px', marginBottom: '20px' }}>
-  <h3 style={{ color: '#dc2626', marginBottom: '10px' }}>This is a JSX component!</h3>
-  <p>You can use inline styles and create custom layouts right in your content.</p>
+    <h3 style={{ color: '#dc2626', marginBottom: '10px' }}>This is a JSX component!</h3>
+    <p>You can use inline styles and create custom layouts right in your content.</p>
 </div>
-
-## Code Examples
-
-You can still use regular markdown code blocks:
 
 ```javascript
 function greet(name) {
@@ -42,13 +71,384 @@ function greet(name) {
 }
 ```
 
-## Interactive Elements
-
 <details>
-  <summary style={{ cursor: 'pointer', fontWeight: 'bold', marginBottom: '10px' }}>Click to expand!</summary>
-  <p>This is a native HTML details element that provides interactivity without JavaScript.</p>
+    <summary style={{ cursor: 'pointer', fontWeight: 'bold', marginBottom: '10px' }}>Click to expand!</summary>
+    <p>This is a native HTML details element that provides interactivity without JavaScript.</p>
 </details>
 
-## Conclusion
+```css
+.status-operational { color: #22c55e; } /* Green */
+.status-warning { color: #f59e0b; }     /* Orange */
+.status-error { color: #ef4444; }       /* Red */
+.status-inactive { color: #6b7280; }    /* Gray */
+```
 
-MDX support opens up a world of possibilities for creating rich, interactive content in your blog posts!
+```css
+:root {
+  --grid-unit: 8px;
+  --grid-2: calc(var(--grid-unit) * 2);   /* 16px */
+  --grid-3: calc(var(--grid-unit) * 3);   /* 24px */
+  --grid-4: calc(var(--grid-unit) * 4);   /* 32px */
+  --grid-6: calc(var(--grid-unit) * 6);   /* 48px */
+  --grid-8: calc(var(--grid-unit) * 8);   /* 64px */
+  --grid-12: calc(var(--grid-unit) * 12); /* 96px */
+}
+```
+
+```css
+.bauhaus-layout {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: auto;
+  gap: var(--grid-3);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: var(--grid-4);
+}
+
+.header {
+  grid-column: 1 / -1;
+  background: #c13127; /* Bauhaus red */
+  color: white;
+  padding: var(--grid-8) var(--grid-4);
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+
+.sidebar {
+  grid-column: 1 / 4;
+  background: #f0e9d6;
+  padding: var(--grid-4);
+}
+
+.main-content {
+  grid-column: 4 / 10;
+  background: white;
+  padding: var(--grid-6);
+}
+
+.accent-block {
+  grid-column: 10 / -1;
+  background: #e8a100; /* Bauhaus yellow */
+  padding: var(--grid-4);
+}
+```
+
+```css
+.mondrian-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 3fr;
+  grid-template-rows: 1fr 2fr 1fr 1fr;
+  gap: var(--grid-2);
+  height: 100vh;
+  background: #000;
+}
+
+.mondrian-grid > * {
+  background: #fff;
+}
+
+.block-red {
+  background: #dc2626;
+  grid-column: 1 / 3;
+  grid-row: 1 / 3;
+}
+
+.block-blue {
+  background: #005a8d;
+  grid-column: 4;
+  grid-row: 2 / 4;
+}
+
+.block-yellow {
+  background: #e8a100;
+  grid-column: 2 / 4;
+  grid-row: 4;
+}
+
+/* White blocks fill the remaining space */
+```
+
+```css
+.constructivist-poster {
+  display: grid;
+  grid-template-columns: repeat(24, 1fr);
+  grid-template-rows: repeat(32, 1fr);
+  height: 100vh;
+  background: #f0e9d6;
+}
+
+.diagonal-text {
+  grid-column: 3 / 20;
+  grid-row: 5 / 15;
+  transform: rotate(-45deg);
+  font-size: clamp(3rem, 8vw, 8rem);
+  font-weight: 900;
+  color: #dc2626;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vertical-accent {
+  grid-column: 21 / 23;
+  grid-row: 1 / -1;
+  background: #2c2c2c;
+  writing-mode: vertical-rl;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: var(--grid-4);
+  font-size: 1.5rem;
+  letter-spacing: 0.5em;
+}
+```
+
+```css
+.responsive-bauhaus {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--grid-4);
+}
+
+@media (min-width: 768px) {
+  .responsive-bauhaus {
+    grid-template-columns: repeat(12, 1fr);
+  }
+
+  .feature-block {
+    grid-column: span 6;
+  }
+
+  .sidebar-block {
+    grid-column: span 3;
+  }
+
+  .full-width {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (min-width: 1200px) {
+  .feature-block {
+    grid-column: span 4;
+  }
+
+  .hero-block {
+    grid-column: span 8;
+    grid-row: span 2;
+  }
+}
+```
+
+```css
+.swiss-grid {
+  display: grid;
+  grid-template-columns:
+    [full-start] minmax(var(--grid-4), 1fr)
+    [main-start] repeat(12, [col-start] 1fr [col-end])
+    [main-end] minmax(var(--grid-4), 1fr)
+    [full-end];
+  row-gap: var(--grid-unit);
+}
+
+.swiss-grid > * {
+  grid-column: main;
+}
+
+.swiss-full-bleed {
+  grid-column: full;
+}
+
+.swiss-narrow {
+  grid-column: col-start 3 / col-end 10;
+}
+
+.swiss-sidebar {
+  grid-column: col-start 1 / col-end 3;
+}
+
+.swiss-main {
+  grid-column: col-start 4 / col-end 12;
+}
+```
+
+```css
+.rhythm-grid {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-auto-rows: var(--grid-8);
+  gap: var(--grid-2);
+}
+
+.rhythm-grid > :nth-child(4n+1) {
+  grid-column: span 3;
+  grid-row: span 4;
+  background: #c13127;
+}
+
+.rhythm-grid > :nth-child(4n+2) {
+  grid-column: span 2;
+  grid-row: span 2;
+  background: #005a8d;
+}
+
+.rhythm-grid > :nth-child(4n+3) {
+  grid-column: span 3;
+  grid-row: span 3;
+  background: #e8a100;
+}
+
+.rhythm-grid > :nth-child(4n) {
+  grid-column: span 5;
+  grid-row: span 2;
+  background: #2c2c2c;
+}
+```
+
+```css
+.overlap-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+}
+
+.background-block {
+  grid-column: 2 / 10;
+  grid-row: 1 / 7;
+  background: #f0e9d6;
+  z-index: 1;
+}
+
+.foreground-block {
+  grid-column: 6 / 13;
+  grid-row: 3 / 9;
+  background: #dc2626;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
+.accent-line {
+  grid-column: 1 / 4;
+  grid-row: 4 / 5;
+  background: #2c2c2c;
+  z-index: 3;
+}
+```
+
+```css
+/* Avoid overly complex grids */
+.simple-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr; /* Simple ratios */
+}
+
+/* Use grid-template-areas for clarity */
+.semantic-grid {
+  display: grid;
+  grid-template-areas:
+    "header header header"
+    "nav main aside"
+    "footer footer footer";
+  grid-template-columns: 200px 1fr 200px;
+  grid-template-rows: auto 1fr auto;
+}
+
+.header { grid-area: header; }
+.nav { grid-area: nav; }
+.main { grid-area: main; }
+.aside { grid-area: aside; }
+.footer { grid-area: footer; }
+```
+
+```css
+.debug-grid {
+  position: relative;
+}
+
+.debug-grid::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      rgba(255, 0, 0, 0.1),
+      rgba(255, 0, 0, 0.1) 1px,
+      transparent 1px,
+      transparent var(--grid-unit)
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255, 0, 0, 0.1),
+      rgba(255, 0, 0, 0.1) 1px,
+      transparent 1px,
+      transparent var(--grid-unit)
+    );
+  pointer-events: none;
+  z-index: 9999;
+}
+```
+
+```css
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('font.eot');
+}
+```
+
+
+```css
+@font-face {
+  font-family: 'VariableFont';
+  src: url('font.woff2') format('woff2-variations');
+  font-weight: 100 900;
+  font-stretch: 50% 200%;
+}
+
+.dynamic-text {
+  font-variation-settings:
+    'wght' 650,
+    'wdth' 120,
+    'slnt' -15;
+}
+```
+
+
+```css
+@font-face {
+  font-family: 'ColorFont';
+  src: url('colorfont.woff2') format('woff2');
+}
+```
+
+**Responsive Typography:**
+```css
+:root {
+  font-size: clamp(16px, 2vw, 22px);
+}
+
+h1 {
+  font-size: clamp(2rem, 5vw, 4rem);
+  line-height: calc(1em + 0.5vw);
+}
+```
+
+```html
+<!-- Preload critical fonts -->
+<link rel="preload" href="font.woff2" as="font" type="font/woff2" crossorigin>
+
+<!-- Font display swap -->
+@font-face {
+  font-display: swap;
+}
+```
