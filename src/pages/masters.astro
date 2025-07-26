@@ -1,6 +1,5 @@
 ---
 import Layout from '../components/Layout.astro';
-import { masters } from '../authors';
 
 const pageDescription = "";
 ---
@@ -12,79 +11,9 @@ const pageDescription = "";
       <hr class="page-rule" />
     </header>
 
-    {
-      masters?.map(author =>
-          <!--Author 1: Tăng Phụng Nghi-->
-          <div class="author-section">
-            <div class="author-avatar">
-              {author.avatar ? (
-                  <img src={author.avatar} alt={author.name} />
-              ) : (
-                  <div class="avatar-placeholder">
-                    <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <!-- Circular mask to contain the silhouette -->
-                      <defs>
-                        <clipPath id="circleClip">
-                          <circle cx="40" cy="40" r="39" />
-                        </clipPath>
-                      </defs>
-                      <g clip-path="url(#circleClip)">
-                        <!-- Head (oval shape) -->
-                        <ellipse cx="40" cy="28" rx="13" ry="15" fill="currentColor"/>
-                        <!-- Neck -->
-                        <path d="M33 40 Q33 44 35 46 L45 46 Q47 44 47 40 Z" fill="currentColor"/>
-                        <!-- Shoulders -->
-                        <path d="M35 46 Q28 48 22 54 Q16 60 14 70 L14 80 L66 80 L66 70 Q64 60 58 54 Q52 48 45 46 Z" fill="currentColor"/>
-                      </g>
-                    </svg>
-                  </div>
-              )}
-            </div>
 
-            <h2 class="author-name">{author.name}</h2>
-            <p class="author-bio">{author.bio}</p>
 
-            <div class="reference-links">
-              {author.references && author.references.link_1 && (
-                  <a href={author.references.link_1} target="_blank" rel="noopener noreferrer" aria-label="Reference Link 1">
-                    <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M14.851 11.923c-.179-.641-.521-1.246-1.025-1.749-1.562-1.562-4.095-1.563-5.657 0l-4.998 4.998c-1.562 1.563-1.563 4.095 0 5.657 1.562 1.563 4.096 1.561 5.656 0l3.842-3.841.333.009c.404 0 .802-.04 1.189-.117l-4.657 4.656c-.975.976-2.255 1.464-3.535 1.464-1.28 0-2.56-.488-3.535-1.464-1.952-1.951-1.952-5.12 0-7.071l4.998-4.998c.975-.976 2.256-1.464 3.536-1.464 1.279 0 2.56.488 3.535 1.464.493.493.861 1.063 1.105 1.672l-.787.784zm-5.703.147c.178.643.521 1.25 1.026 1.756 1.562 1.563 4.096 1.561 5.656 0l4.999-4.998c1.563-1.562 1.563-4.095 0-5.657-1.562-1.562-4.095-1.563-5.657 0l-3.841 3.841-.333-.009c-.404 0-.802.04-1.189.117l4.656-4.656c.975-.976 2.256-1.464 3.536-1.464 1.279 0 2.56.488 3.535 1.464 1.951 1.951 1.951 5.119 0 7.071l-4.999 4.998c-.975.976-2.255 1.464-3.535 1.464-1.28 0-2.56-.488-3.535-1.464-.494-.495-.863-1.067-1.107-1.678l.788-.785z"/></svg>
-                  </a>
-              )}
 
-              {author.references && author.references.link_2 && (
-                  <a href={author.references.link_2} target="_blank" rel="noopener noreferrer" aria-label="Reference Link 2">
-                    <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M14.851 11.923c-.179-.641-.521-1.246-1.025-1.749-1.562-1.562-4.095-1.563-5.657 0l-4.998 4.998c-1.562 1.563-1.563 4.095 0 5.657 1.562 1.563 4.096 1.561 5.656 0l3.842-3.841.333.009c.404 0 .802-.04 1.189-.117l-4.657 4.656c-.975.976-2.255 1.464-3.535 1.464-1.28 0-2.56-.488-3.535-1.464-1.952-1.951-1.952-5.12 0-7.071l4.998-4.998c.975-.976 2.256-1.464 3.536-1.464 1.279 0 2.56.488 3.535 1.464.493.493.861 1.063 1.105 1.672l-.787.784zm-5.703.147c.178.643.521 1.25 1.026 1.756 1.562 1.563 4.096 1.561 5.656 0l4.999-4.998c1.563-1.562 1.563-4.095 0-5.657-1.562-1.562-4.095-1.563-5.657 0l-3.841 3.841-.333-.009c-.404 0-.802.04-1.189.117l4.656-4.656c.975-.976 2.256-1.464 3.536-1.464 1.279 0 2.56.488 3.535 1.464 1.951 1.951 1.951 5.119 0 7.071l-4.999 4.998c-.975.976-2.255 1.464-3.535 1.464-1.28 0-2.56-.488-3.535-1.464-.494-.495-.863-1.067-1.107-1.678l.788-.785z"/></svg>
-                  </a>
-              )}
-            </div>
-
-            <div class="compositions">
-              <div>
-                {author.compositions && author.compositions.pdf_1 && (
-                    <a href={author.compositions.pdf_1.link} target="_blank" rel="noopener noreferrer" aria-label={author.compositions.pdf_1.title}>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11.363 2c4.155 0 2.637 6 2.637 6s6-1.65 6 2.457v11.543h-16v-20h7.363zm.826-2h-10.189v24h20v-14.386c0-2.391-6.648-9.614-9.811-9.614zm4.811 13h-2.628v3.686h.907v-1.472h1.49v-.732h-1.49v-.698h1.721v-.784zm-4.9 0h-1.599v3.686h1.599c.537 0 .961-.181 1.262-.535.555-.658.587-2.034-.062-2.692-.298-.3-.712-.459-1.2-.459zm-.692.783h.496c.473 0 .802.173.915.644.064.267.077.679-.021.948-.128.351-.381.528-.754.528h-.637v-2.12zm-2.74-.783h-1.668v3.686h.907v-1.277h.761c.619 0 1.064-.277 1.224-.763.095-.291.095-.597 0-.885-.16-.484-.606-.761-1.224-.761zm-.761.732h.546c.235 0 .467.028.576.228.067.123.067.366 0 .489-.109.199-.341.227-.576.227h-.546v-.944z"/></svg>
-                      {author.compositions.pdf_1.title}
-                    </a>
-                )}
-              </div>
-              <div>
-                {author.compositions && author.compositions.pdf_2 && (
-                    <a href={author.compositions.pdf_2.link} target="_blank" rel="noopener noreferrer" aria-label={author.compositions.pdf_2.title}>
-                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M11.363 2c4.155 0 2.637 6 2.637 6s6-1.65 6 2.457v11.543h-16v-20h7.363zm.826-2h-10.189v24h20v-14.386c0-2.391-6.648-9.614-9.811-9.614zm4.811 13h-2.628v3.686h.907v-1.472h1.49v-.732h-1.49v-.698h1.721v-.784zm-4.9 0h-1.599v3.686h1.599c.537 0 .961-.181 1.262-.535.555-.658.587-2.034-.062-2.692-.298-.3-.712-.459-1.2-.459zm-.692.783h.496c.473 0 .802.173.915.644.064.267.077.679-.021.948-.128.351-.381.528-.754.528h-.637v-2.12zm-2.74-.783h-1.668v3.686h.907v-1.277h.761c.619 0 1.064-.277 1.224-.763.095-.291.095-.597 0-.885-.16-.484-.606-.761-1.224-.761zm-.761.732h.546c.235 0 .467.028.576.228.067.123.067.366 0 .489-.109.199-.341.227-.576.227h-.546v-.944z"/></svg>
-                      {author.compositions.pdf_2.title}
-                    </a>
-                )}
-              </div>
-              <div>
-                {author.compositions && author.compositions.pdf_3 && (
-                    <a href={author.compositions.pdf_3.link} target="_blank" rel="noopener noreferrer" aria-label={author.compositions.pdf_3.title}>
-                      {author.compositions.pdf_3.title}
-                    </a>
-                )}
-              </div>
-            </div>
-          </div>)
-    }
 
   
   </div>
