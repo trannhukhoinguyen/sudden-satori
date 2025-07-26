@@ -28,7 +28,7 @@ audioUrls: [
   "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/24_Kinh-Lang-Nghiem.mp3",
 ]
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
-categories: ["Design", "History", "Web Development"]
+categories: ["Kinh"]
 tags: ["Kinh Lăng Nghiêm", "Thích Duy Lực"]
 draft: false
 ---

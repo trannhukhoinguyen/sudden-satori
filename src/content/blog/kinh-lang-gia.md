@@ -9,7 +9,7 @@ audioUrls: [
   "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%205.mp3",
 ]
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-categories: ["Design", "History", "Web Development"]
+categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT. Thích Duy Lực"]
 draft: false
 ---
