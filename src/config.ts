@@ -22,8 +22,8 @@ export const config: SiteConfig = {
     // avatar: "/images/avatar.jpg" // Uncomment and add your avatar image to public/images/
   },
   social: {
-    facebook: "https://linkedin.com/in/yourusername",
-    youtube: "your.email@example.com"
+    facebook: "https://www.facebook.com/Nhohoivanhin/",
+    youtube: "https://www.youtube.com/c/tongphongtosuthien"
   },
   siteUrl: "https://sudden-satori.vercel.app"
 };
