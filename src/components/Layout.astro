@@ -51,9 +51,9 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
   <body>
     <div class="site-wrapper">
       <Header />
-      
+
       <main class="main-content" class:list={{ 'with-sidebar': showSidebar }}>
-        
+
         <div class="content">
           <slot />
         </div>
@@ -63,9 +63,9 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
             <Sidebar />
           </aside>
         )}
-        
+
       </main>
-      
+
       <Footer />
     </div>
   </body>
@@ -99,17 +99,21 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
 
   .sidebar {
     order: 1;
-    padding-top: calc(var(--grid-unit) * 3);
+    padding-top: calc(var(--grid-unit) * 1);
   }
 
+/* Desktop: 2 cột */
   @media (min-width: 1024px) {
     .main-content.with-sidebar {
-      grid-template-columns: var(--sidebar-width) 1fr;
+      grid-template-columns: 3fr 1fr; /* Content 3 phần, Sidebar 1 phần */
     }
-    
+
+    .content {
+      grid-column: 1; /* Cột bên trái */
+    }
+
     .sidebar {
-      order: 2;
-      padding-top: calc(var(--grid-unit) * 3);
+      grid-column: 2; /* Cột bên phải */
     }
   }
 </style>
