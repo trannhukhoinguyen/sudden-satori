@@ -1,0 +1,37 @@
+---
+---
+
+<template>
+  <SectionMuted class="'border-b border-muted-200 dark:border-muted-800'">
+    <Container>
+      <SectionTitle
+        title="Our great masters"
+        subtitle="..."
+        minititle="Healthcare Professionals"
+        class="'mx-auto text-center'"
+      />
+
+      <div id="doctors" x-data="doctors()"  x-intersect="activeStep = 'spy-1'">
+        <Toolbar />
+
+        <!--Grid wrapper-->
+        <div class="py-10">
+          <div class="grid grid-cols-12 md:gap-12 pb-20">
+            <!--Filters-->
+            <div class="hidden lg:block col-span-12 lg:col-span-3">
+              <Filters />
+            </div>
+            <!--Content-->
+            <div class="col-span-12 lg:col-span-9">
+              <!--Subgrid-->
+              <Grid />
+            </div>
+          </div>
+          <div class="flex items-center justify-center mt-10">
+            <ButtonMain to="#" class="'w-64 !h-14 max-w-full'">View All Masters</ButtonMain>
+          </div>
+        </div>
+      </div>
+    </Container>
+  </SectionMuted>
+</template>
