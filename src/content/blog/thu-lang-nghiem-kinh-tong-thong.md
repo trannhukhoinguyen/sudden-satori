@@ -2135,17 +2135,9 @@ Ngài Đoan Sư Tử đọc Lăng Nghiêm có bài tụng :
 Có thể nói là bực có con mắt đầy đủ.
 
 
-
-
-	PHÓNG QUANG NÊU RA
-
-TÁNH THẤY VIÊN MÃN SÁNG
-SUỐT
+#### PHÓNG QUANG NÊU RA TÁNH THẤY VIÊN MÃN SÁNG SUỐT
 
 Kinh : Bấy giờ từ mặt Đức Thế Tôn phóng ra các thứ hào quang, ánh sáng rực rỡ như trăm nghìn mặt trời. Khắp
-
-179
-
 
 các thế giới của chư Phật, sáu thứ chấn động. Các cõi nước nhiều như vi trần của mười phương hiện ra trong một lúc. Oai thần của Phật khiến các thế giới hợp lại thành một thế giới. Trong thế giới này, tất cả các vị Bồ Tát hiện có đều an trụ ở nước mình chấp tay nghe lời Phật dạy.
 
@@ -2162,20 +2154,13 @@ Pháp Thân thanh tịnh của Thế Tôn không bờ không bến thì khắp c
 
 Thiền sư Viên Chiếu(100) lên tòa giảng, nói rằng : “Hãy xem ! Ánh sáng tốt lành rực rỡ, chiếu sáng cả Đại Thiên thế giới. Trăm ức vi trần cõi nước, trăm ức đại hải, trăm ức núi Tu Di, trăm ức mặt trời, mặt trăng, trăm ức bốn Châu thiên hạ, cho đến cõi Phật vi trần đều ở
 
-181
-
 
 trong ánh sáng phát hiện ra cùng một lúc. Các nhân giả ! Có thấy chăng ? Nếu thấy được, thì chính các ông đang tự thân ở trong ánh sáng tốt lành ấy. Không thấy được, đừng nói là ánh sáng tốt lành chẳng có chiếu soi. Hãy tham !”
 
 Ai ai cũng đều có ánh sáng này. Vì sao Tổ Viên Chiếu thấy còn mọi người chẳng thấy ? Đó là ngộ với chẳng ngộ vậy. Pháp Tánh vốn khắp cả, vọng trần chẳng ngăn cách được. Cái Trí Cảnh vốn tròn đầy, thức tình nào ngăn ngại được. Nếu ngộ Tự Tâm, bèn biết hết thảy, đấy đều là việc trong nhà.
 
-182
 
-
-
-
-
-III. HAI THỨ CĂN BẢN
+### III. HAI THỨ CĂN BẢN
 
 Kinh : Phật bảo Ông Anan : “Hết thảy chúng sanh từ vô thủy đến nay, đủ thứ điên đảo, mầm giống Nghiệp tự nhóm lại như chùm quả ác xoa. Những người tu hành không thành được Bồ Đề Vô Thượng, đến nỗi riêng thành Thanh Văn, Duyên Giác hoặc thành ngoại đạo, Chư Thiên, Ma Vương, hay bà con quyến thuộc của Ma. Tất cả đều do không biết hai loại căn bản, lầm lộn tu tập, cũng như nấu cát mà muốn thành món ngon, dầu trải qua số kiếp nhiều như bụi, rốt cũng chẳng được.
 
@@ -31484,15 +31469,9 @@ Thông rằng : Đầy dẫy thất bảo khắp cả hư không, thế gian là
 
 huống là “Nguyện đem toàn thể thân tâm này phụng sự cõi nước nhiều như bụi, thế mới gọi là báo Phật Ân”, thì có thể khiến cho người người đều đến kho báu. Cái của báu xuất thế này phân biệt với đồ báu của thế gian, nên đồ báu thế gian nào so sánh được. Không chỉ được phước, mà còn tiêu tội. Phước thì có phước báo, tội thì có tội báo. Phước, tội cả hai không đo lường nhau được. Nên tuy được phước cõi trời, cũng chẳng miễn khỏi cái khổ địa ngục. Tội thì không gì nặng hơn tội ngũ nghịch : giết cha, hại mẹ, làm thân Phật chảy máu, phá sự hòa hợp của Tăng Già, đốt thiêu kinh tượng. Đây chỉ nêu ra bốn, vì cha mẹ xem như một, còn Tam Bảo thì không thể thay đổi. Ở trước, nói Tứ
 
-2672
-
-
 Khí là chỉ Sát, Đạo, Dâm, Vọng, lại nói Bát Khí; ở đây nói mười tập nhân và sáu giao báo ở trước. Tội nghiệp nặng thì địa ngục Vô Gián mười phương, mỗi mỗi đều trải qua, khổ sở biết bao.
 
 Chỉ một niệm hồi tâm, đem pháp bảo này chỉ bày cho người chưa học, chuyển mê thành ngộ, chuyển phiền não thành Bồ Đề thì tuy ở trong biển sanh tử mà tự có cái vui Niết Bàn. Đây là tự gây tội thì tự sám hối, tự gây nghiệp thì tự giải thoát, tuy Phật cũng không thể giúp cho sức về chỗ đó. Không có tội, tức là được phước. Không có khổ tức là hưởng an vui. Bởi thế, đem pháp bảo mà chỉ bày cho người thì không những tự mình khỏi tội mà còn khiến người người được
-
-2673
-
 
 phước. Không chỉ tự mình được của báu mà còn khiến người người đều được cái rất báu. Cái báu đầy ngập thế gian, nào có nơi chốn. Há chỉ lấy cái phước do cúng Phật bảy thứ báu mà so sánh được ư ?
 
@@ -31501,12 +31480,6 @@ Lời Phật chân thật, khỏi tội được phước, có vô lượng côn
 Có nhà sư hỏi thiền sư Đại Lãnh : “Sao là tất cả chốn thanh tịnh ?”
 
 Tổ Lãnh nói : “Bẻ cành cây quỳnh, tấc tấc là của báu. Cắt cây chiên đàn, miếng miếng toàn là hương”.
-
-2674
-
-
-
-
 
 Ngài Đơn Hà tụng rằng
 
@@ -31634,9 +31607,6 @@ Ngài Hoa Nghiêm nói : “Như hai bánh của xe, như hai cánh của chim�
 
 Tòa Chủ nói : “Ngỡ rằng Thiền Môn riêng có chỗ kỳ đặc, té ra chẳng ra ngoài giáo ý !”
 
-2683
-
-
 Sau này, nghe Tổ Giáp Sơn giáo hóa thịnh hành, lại bảo đệ tử sang hỏi câu trên.
 
 Tổ Sơn nói : “Chạm cát không đủ bàn chạm ngọc, đền ơn trái với ý đạo nhân !”
@@ -31647,16 +31617,13 @@ Há chẳng nghe có nhà sư hỏi Tổ Mục Châu : “Tổ Ý, Giáo Ý là 
 
 Tổ Châu nói : “Núi xanh tự núi xanh, mây trắng tự mây trắng”.
 
-Ngài Thiên Đồng nêu rằng : “Nếu hướng về trong ấy biết được Mục Châu
-
-2684
-
-
-thì Thích Ca ra đời, Đạt Ma Tây sang đều là tay không biết thủ phận ! Lại biết được chăng ? Tay dài, ống áo ngắn; chân gầy, giày cỏ dư (rộng) !” Có nhà sư hỏi Tổ Lạc Phố : “Tổ Ý, Giáo Ý là đồng hay khác ?” Tổ Phố nói :
+Ngài Thiên Đồng nêu rằng : “Nếu hướng về trong ấy biết được Mục Châu thì Thích Ca ra đời, Đạt Ma Tây sang đều là tay không biết thủ phận ! Lại biết được chăng ? Tay dài, ống áo ngắn; chân gầy, giày cỏ dư (rộng) !” Có nhà sư hỏi Tổ Lạc Phố : “Tổ Ý, Giáo Ý là đồng hay khác ?” Tổ Phố nói :
 
 “Trời, trăng cùng xoay sáng Ai nói có riêng đường”.
 
-Nhà sư hỏi : “Như vậy thì sáng tối khác đường, phải quấy một lối ?” Tổ Phố nói : “Chỉ tự chẳng quên dê, nào phải là đường rẽ !” Ngài Đơn Hà tụng rằng :
+Nhà sư hỏi : “Như vậy thì sáng tối khác đường, phải quấy một lối ?” 
+
+Tổ Phố nói : “Chỉ tự chẳng quên dê, nào phải là đường rẽ !” Ngài Đơn Hà tụng rằng :
 
 
 
@@ -31666,7 +31633,7 @@ Nhật chiếu lòng ao, trời dưới trên
 Rực rỡ đương không, chẳng chánh Ngọ
 Đêm thu vành vạnh, biết chi tròn”.
 
-2685
+
 
 
 Hiểu chỗ này thì chỗ mặt trời, mặt trăng chẳng đến, riêng có một Càn Khôn ! Đâu phải hạng bo bo Tông Giáo làm kế sanh nhai có thể nghĩ

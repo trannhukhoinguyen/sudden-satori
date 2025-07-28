@@ -3816,7 +3816,7 @@ dĩ thị cố bồ tát nhất xiển đề bất ban niết bàn 。
 
 ***
 
-Quyển 3
+## Quyển 3
 
 (ngụy vân tập nhất thiết phật pháp phẩm đệ tam chi nhị )。
 
@@ -5884,5 +5884,8392 @@ thần lực nhân trung tôn đại nguyện tất thanh tịnh tam ma đề qu
    　vân kiến hà năng phiêu hương tượng do bá trượng ngôn thập địa thượng hữu như thị phiền não
    　như hương tượng độ hà kỉ vi sở phiêu phật an đắc bất gia trì chi tai 。
 
-Quyển 3 HẾT
+
+**HẾT Quyển 3**
+
+***
+
+## Quyển 4
+
+(ngụy vân tập nhất thiết phật pháp phẩm đệ tam chi tam )。
+
+nhĩ thời đại tuệ bồ tát ma ha tát phục bạch phật ngôn thế tôn phật thuyết duyên khởi tức
+thị thuyết nhân duyên bất tự thuyết đạo (ngụy vân như thế tôn thuyết thập nhị nhân duyên tùng nhân sinh quả bất thuyết tự tâm vọng tưởng phân biệt kiến lực
+nhi sinh )thế tôn ngoại đạo diệc thuyết nhân duyên vị thắng tự tại thời vi trần sinh như thị chư
+tính sinh nhiên thế tôn sở vị nhân duyên sinh chư tính ngôn thuyết hữu gian tất đàn vô gian
+tất đàn (đường vân thế tôn đãn dĩ dị danh thuyết tác duyên khởi phi nghĩa hữu biệt )thế tôn ngoại đạo diệc thuyết hữu vô hữu sinh
+thế tôn diệc thuyết vô hữu sinh sinh dĩ diệt (ngụy vân ngoại đạo diệc thuyết tùng ư hữu vô nhi sinh chư pháp thế tôn thuyết ngôn chư pháp
+bản vô y tứ duyên sinh sinh dĩ hoàn diệt )như thế tôn sở thuyết vô minh duyên hành nãi chí lão tử thử thị
+thế tôn vô nhân thuyết phi hữu nhân thuyết thế tôn kiến lập tác như thị thuyết thử hữu cố
+bỉ hữu phi kiến lập tiêm sinh (đường vân nhược nhất thời kiến lập phi thứ đệ tướng đãi giả kì nghĩa bất thành )quan ngoại đạo thuyết
+thắng phi như lai dã sở dĩ giả hà thế tôn ngoại đạo thuyết nhân bất tùng duyên sinh nhi
+hữu sở sinh thế tôn thuyết quan nhân hữu sự quan sự hữu nhân (đường vân thế tôn sở thuyết quả đãi ư nhân nhân phục
+đãi quả )như thị nhân duyên tạp loạn như thị triển chuyển vô cùng phật cáo đại tuệ ngã phi vô
+nhân thuyết cập nhân duyên tạp loạn thuyết thử hữu cố bỉ hữu giả nhiếp sở nhiếp phi tính giác
+tự tâm hiện lượng đại tuệ nhược nhiếp sở nhiếp kế trước bất giác bất tri tự tâm hiện lượng
+ngoại cảnh giới tính phi tính bỉ hữu như thị quá phi ngã thuyết duyên khởi (đường vân nhược bất liễu chư pháp duy
+tâm sở hiện kế hữu năng thủ cập dĩ sở thủ chấp trước ngoại cảnh nhược hữu nhược vô bỉ hữu thị quá phi ngã sở thuyết )ngã thường thuyết ngôn nhân duyên
+hòa hợp nhi sinh chư pháp phi vô nhân sinh 。
+   　thông viết thử đại tuệ dĩ nhân duyên thiết nan chính hiển duyên khởi vô tính dĩ phá ngoại
+   　đạo ngôn thuyết sự tướng nhị chủng tự tính kế trước dã cố vấn thế tôn sở thuyết thập
+   　nhị nhân duyên pháp đãn dĩ dị danh thuyết tác duyên khởi phi tự thể khởi tức thị tùng
+   　nhân sinh quả nhân duyên sinh pháp đãn bất tự thuyết tùng tự tâm vọng tưởng phân biệt chi
+   　đạo nhi sinh nhĩ bỉ ngoại đạo diệc thuyết nhân duyên sở vị thắng tính tự tại thời vi
+   　trần đẳng như thị chủng chủng năng sinh nhất thiết chủng chủng chư tính bất li nhân duyên nhiên
+   　thế tôn sở thuyết nhân duyên năng sinh chư pháp dĩ thử tất đàn giáo hoá chúng sinh dữ
+   　ngoại đạo ngôn thuyết vi hữu gian biệt vi vô gian biệt thử nhân duyên chi nghĩa phi hữu
+   　biệt dã ngoại đạo diệc thuyết hữu giả tùng hữu nhân sinh vô hữu giả tùng vô nhân sinh
+   　tùng ư hữu vô nhi sinh chư pháp phật thuyết nhất thiết chư pháp bản vô hữu sinh đãn
+   　y chư duyên sinh sinh dĩ hoàn diệt diệc bất li ư hữu vô như thập nhị nhân duyên
+   　pháp vô minh duyên hành nãi chí lão tử y nhãn thức đẳng sinh nhất thiết pháp thử thị
+   　vô nhân thuyết phi hữu nhân thuyết bất tùng nhân sinh giả nhất thời vô tiền hậu thế tôn
+   　kiến lập vị thử vô minh hữu tắc bỉ hành chí lão tử nhất thời giai hữu vô minh
+   　diệt tắc bỉ hành chí lão tử nhất thời giai diệt thử hữu cố bỉ hữu đãn dĩ vô
+   　minh hư vọng luân chuyển phi hữu thật pháp thứ đệ kiến lập dĩ tiêm nhi sinh cố vị
+   　chi vô nhân thuyết dã quan ngoại đạo sở thuyết thắng tính tùng thần ngã chủ đế vi minh
+   　sơ tùng minh sơ sinh giác tùng giác sinh ngã tâm tùng ngã tâm sinh ngũ trần tùng ngũ
+   　trần sinh ngũ đại tùng ngũ đại sinh thập nhất căn cộng nhị thập ngũ pháp nhi dĩ thần
+   　ngã vi thắng tính vi sinh nhân như thử kiến lập tiêm thứ nhi sinh phi như như lai
+   　vô nhân chi thuyết sở dĩ giả hà bỉ ngoại đạo thuyết thắng tính vi nhân bất tùng tha
+   　duyên sinh nhi nhất thiết chư pháp tùng minh sơ lưu xuất thật hữu sở sinh phu nhân bất
+   　tùng duyên sinh nhân tự vi nhân vô đãi ư quả dã sở sinh thật vô nhân quả tự
+   　vi quả vô đãi ư nhân dã như thử nhân quả phân minh nguyên vô triển chuyển tắc bỉ
+   　ngoại đạo sở thuyết vô nhân sinh giả vị tận phi dã nhược thế tôn thuyết thập nhị nhân
+   　duyên dĩ vô minh vi nhân sinh hành vi quả hựu dĩ hành vi nhân sinh thức vi quả
+   　chí lão tử vi nhân hựu sinh vô minh vi quả tức thử nhất pháp hựu tác nhân hựu
+   　tác quả nhân trung hữu sự sự trung hữu nhân như thị tạp loạn triển chuyển vô cùng vô
+   　nãi diệc nhân diệc quả hồ vô nãi vô nhân vô quả hồ vô nãi vô nhân sinh quả
+   　hồ phản dĩ ngoại đạo nhân duyên chi thuyết vi quá kì cố hà dã thử đại tuệ đãn
+   　ư cảnh thượng ban nhân duyên bất tri ư tính thượng quan duyên khởi cố thế tôn dĩ duyên
+   　khởi vô sinh tối thượng nhất lộ ngữ chi bỉ ngoại đạo sở lập nhân quả vô nhân chi
+   　pháp diệc tùng nhân sinh ngữ tự tướng vi ngã phi như bỉ vô nhân thuyết dã ngã thuyết
+   　chư pháp tùng nhân duyên sinh phi vô nhân duyên diệc bất tạp loạn diệc vô triển chuyển vô
+   　cùng chi quá dã duy giác liễu chư pháp sở sinh duy tâm sở hiện thuyết thử hữu cố
+   　bỉ hữu giả nội vô năng thủ chi tâm ngoại vô sở thủ chi cảnh nhiếp sở nhiếp bản
+   　vô tự tính như kính trung hiện tượng duyên khởi bản tự vô sinh sinh bản bất hữu hà
+   　thuyết vô nhân vô nhân thả vô hựu hà nhân duyên tạp loạn chi hữu nhược bỉ ngoại đạo
+   　chủng chủng kế trước kí hữu năng thủ cập dĩ sở thủ bất giác chư pháp duy tâm sở
+   　hiện ngoại cảnh giới tính bản vô tự tính chấp trước ngoại cảnh nhược hữu nhược vô ư bất
+   　nhị pháp trung tác hữu vô kiến bỉ cái thuần ư ngoại cảnh giới sự tướng kế trước dĩ
+   　vi thật hữu do vô thuỷ hư nguỵ tập khí sở huân hữu như thị quá phi ngã sở
+   　thuyết duyên khởi chi pháp ư duyên nhi li duyên ư cảnh nhi li cảnh bản li hữu vô
+   　hựu hà hữu năng thủ sở thủ chi quá da thả ngô sở thuyết vô sinh phi thị nhất
+   　hướng bất sinh đồng ư đoạn/đoán diệt dã ngã thường thuyết ngôn nhân duyên hòa hợp nhi sinh chư
+   　pháp phi thị vô nhân nhi sinh nhiên nhân tất đãi duyên nhi sinh nhân bất tự sinh dã
+   　duyên tất đãi nhân nhi sinh duyên bất tự sinh dã thị chư pháp tùng nhân duyên hòa hợp
+   　sinh bản tự vô sinh ngoại đạo trí bất cập thử vị nhất thiết vô nhân sinh phi do
+   　nhân duyên hòa hợp nhi sinh sinh kí vô nhân thùy vi chi nhân vô duyên sở sinh thùy
+   　vi chi quả vô nhân vô quả minh thị đoạn/đoán kiến phi ngô duyên khởi vô sinh chi chỉ
+   　dã bá môn nghĩa hải viết đạt vô sinh giả vi trần thị tâm duyên tâm vi trần nhân
+   　nhân duyên hòa hợp ảo tướng phương sinh do tùng duyên sinh tất vô tự tính hà dĩ cố
+   　kim trần bất tự duyên khởi đãi ư tâm tâm bất tự tâm tất đãi ư duyên do tướng
+   　đãi cố tắc vô định thuộc duyên sinh tắc danh vô sinh phi khứ duyên sinh thuyết vô sinh
+   　dã chỉ thử số ngữ túc vi thử thiên chứng cứ 。
+đại tuệ phục bạch phật ngôn thế tôn phi ngôn thuyết hữu tính hữu nhất thiết tính da thế tôn
+nhược vô tính giả ngôn thuyết bất sinh thị cố ngôn thuyết hữu tính hữu nhất thiết tính phật cáo
+đại tuệ vô tính nhi tác ngôn thuyết vị thỏ giác quy mao đẳng thế gian hiện ngôn thuyết đại
+tuệ phi tính phi phi tính đãn ngôn thuyết nhĩ như nhữ sở thuyết ngôn thuyết hữu tính hữu nhất
+thiết tính giả nhữ luận tắc hoại (đường vân tuy vô chư pháp diệc hữu ngôn thuyết khởi bất hiện kiến quy mao thỏ giác thạch ngưu nhi đẳng thế nhân ư trung
+giai khởi ngôn thuyết bỉ phi hữu phi phi hữu nhi đãn hữu ngôn thuyết nhĩ đại tuệ như nhữ sở thuyết hữu ngôn thuyết cố hữu chư pháp giả thử luận tắc hoại )đại tuệ phi
+nhất thiết sa độ hữu ngôn thuyết ngôn thuyết giả thị tác nhĩ hoặc hữu phật sa chiêm thị hiển
+pháp hoặc hữu tác tướng hoặc hữu dương mi hoặc hữu động tình hoặc tiếu hoặc khiếm hoặc khánh khái
+hoặc niệm sa độ hoặc động dao đại tuệ như chiêm thị cập hương tích thế giới (đường vân bất thuấn thế giới
+diệu hương thế giới )phổ hiền như lai quốc độ đãn dĩ chiêm thị linh chư bồ tát đắc vô sinh pháp
+nhẫn cập chư thắng tam muội thị cố phi ngôn thuyết hữu tính hữu nhất thiết tính đại tuệ kiến
+thử thế giới văn nhuế huỷ nghĩ thị đẳng chúng sinh vô hữu ngôn thuyết nhi các biện sự nhĩ
+thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+như hư không thỏ giác cập dĩ bàn thái tử (nhị dịch tác thạch nữ nhi )vô nhi hữu ngôn thuyết như thị
+tính vọng tưởng nhân duyên hòa hợp pháp phàm ngu khởi vọng tưởng bất năng như thật tri luân hồi
+tam hữu trạch 。
+   　thông viết thượng ngôn nhân duyên hòa hợp nhi sinh chư pháp chính hiển vô tự tính chi diệu
+   　đại tuệ phản nghi phi vô nhân sinh tức hệ thật hữu tự tính khả đắc cố vị ngôn
+   　thuyết hữu tính tức hữu nhất thiết pháp tính nhược chư pháp vô thật tính giả ngôn thuyết y
+   　hà nhi khởi thử vị ngôn bất hư sinh tất hữu chư pháp thật tính nhi hậu sinh pháp
+   　bất tự hiển tất hữu ngôn thuyết thật tính nhi hậu hiển thế tôn nhưng tức lưỡng đoan nhi
+   　phá chi thế gian diệc hữu chư pháp vô thật tính nhi tác ngôn thuyết giả thuyết thỏ chi
+   　giác quy chi mao thạch nữ nhi đẳng bản vô thị sự nhi hiện hữu thử thuyết dĩ sự
+   　quan chi tắc phi hữu dĩ ngôn thuyết quan chi tắc vị thường bất hữu thỏ giác đẳng tuy
+   　vô nhi bất phương hữu thuyết thị ngôn thuyết bất tất nhân hữu chư pháp nhi sinh an tại
+   　nhất thiết kì hữu tự tính dã nhữ vị nhược vô chư pháp ngôn thuyết hà khởi kì luận
+   　tắc hoại hựu nhất thiết thế gian thật hữu thị pháp nhi vô đãi ư ngôn thuyết giả thị
+   　ngôn thuyết duy thị nhân tâm phân biệt đãn giả an lập nhĩ hữu phật quốc độ trực thị
+   　bất thuấn danh vi thuyết pháp hữu phật quốc độ hoặc hiện dị tướng danh vi thuyết pháp hữu
+   　phật quốc độ đãn động mi tướng danh vi thuyết pháp hữu phật quốc độ duy động nhãn tướng
+   　danh vi thuyết pháp hữu phật quốc độ tiếu danh thuyết pháp hữu phật quốc độ khiếm khư danh
+   　thuyết pháp hữu phật quốc độ khánh khái danh thuyết pháp hữu phật quốc độ ức niệm danh thuyết
+   　pháp hữu phật quốc độ dĩ thân động dao danh thuyết pháp như vô thuấn thế giới cập diệu
+   　hương thế giới ư phổ hiền như lai phật độ chi trung chư bồ tát đẳng quan sát như
+   　lai mục bất tạm thuấn đắc vô sinh pháp nhẫn diệc đắc vô lượng thắng tam muội phi do
+   　ngôn thuyết nhi hữu chư pháp an tại ngôn thuyết kì hữu tự tính dã nhữ vị ngôn thuyết
+   　hữu tính tức hữu nhất thiết tính kì nghĩa bất thành hựu thử thế giới trung như trùng nghĩ
+   　đẳng giai vô ngôn thuyết các ư tự sự nhi đắc thành biện thị ngôn thuyết hựu ác túc
+   　quý tai kệ phục thân minh như hư không bản vô diệc hữu hư không danh tự thỏ giác
+   　đẳng bản vô diệc hữu thỏ giác đẳng danh tự bản vô thị sự nhi hữu ngôn thuyết thuyết
+   　bản vô thật tính dã nhi kế dĩ vi hữu tự tính dĩ như thị ngôn thuyết tự tính
+   　hư vọng phân biệt vị nhất thiết pháp như thị duy ư nhân duyên hòa hợp pháp trung bản
+   　tự bất sinh bản vô thật tính giả phàm ngu khởi vọng tưởng thỉnh thật hữu sinh thật hữu
+   　tự tính bất năng như thật nhi tri tự tâm hiện lượng duyên khởi vô sinh phi ngôn thuyết
+   　sở cập nãi thủ ngoại cảnh nhược hữu nhược vô vọng sinh phân biệt thị sở chấp giả sinh
+   　diệt chi pháp chung bất xuất ư sinh tử hải trung luân chuyển tam giới vô hữu dĩ thời
+   　lương do ư ngôn thuyết tự tính tướng kế trước cố hữu thị quá dã dược sơn cửu bất
+   　thăng tòa viện chủ bạch vân đại chúng cửu tư thị hối thỉnh hòa thượng vi chúng thuyết pháp
+   　sơn linh đả chung chúng phương tập sơn thăng tòa lương cửu tiện hạ tòa quy phương trượng chủ
+   　tùy hậu vấn hòa thượng đích lai hứa vi chúng thuyết pháp vân hà bất thùy nhất ngôn sơn
+   　vân kinh hữu kinh sư luận hữu luận sư tranh quái đắc lão tăng thiên đồng tụng vân si
+   　nhi khắc ý chỉ đề tiền lương tứ truy phong cố ảnh tiên vân tảo trường không sào nguyệt
+   　hạc hàn thanh nhập cốt bất thành miên minh đắc thế tôn thuyết pháp như chỉ đề tiền bản
+   　tự vô thuyết đệ ư lương cửu xứ cố tiên ảnh nhi hành hựu vị thường vô chỉ thị
+   　dã khả tri ư ngôn thuyết tự tính tướng kế trước giả chân si 。
+nhĩ thời đại tuệ bồ tát ma ha tát phục bạch phật ngôn thế tôn thường thanh giả hà sự
+thuyết phật cáo đại tuệ vi hoặc loạn (đường vân y vọng pháp thuyết )dĩ bỉ hoặc loạn chư thánh diệc hiện nhi
+phi điên đảo đại tuệ như xuân thời diễm hoả luân thùy phát kiền thát bà thành ảo mộng kính
+tượng thế gian điên đảo phi minh trí dã nhiên phi bất hiện đại tuệ bỉ hoặc loạn giả hữu
+chủng chủng hiện phi hoặc loạn tác vô thường sở dĩ giả hà vị li tính phi tính cố đại
+tuệ vân hà li tính phi tính hoặc loạn vị nhất thiết ngu phu chủng chủng cảnh giới cố (đường vân
+vọng pháp hiện thời vô lượng sai biệt nhiên phi vô thường hà dĩ cố li hữu vô cố vân hà li hữu vô nhất thiết ngu phu chủng chủng trí cố )như bỉ hằng hà
+ngạ quỷ kiến bất kiến cố vô hoặc loạn tính ư dư hiện cố phi vô tính như thị hoặc
+loạn chư thánh li điên đảo bất điên đảo thị cố hoặc loạn thường vị tướng tướng bất hoại cố
+đại tuệ phi hoặc loạn chủng chủng tướng vọng tưởng tướng hoại thị cố hoặc loạn thường (đường vân như hằng hà thuỷ
+hữu kiến bất kiến ngạ quỷ bất kiến bất khả ngôn hữu dư sở kiến cố bất khả ngôn vô thánh ư vọng pháp li điên đảo kiến đại tuệ vọng pháp thị thường tướng bất dị cố phi chư vọng pháp
+hữu sai biệt tướng dĩ phân biệt cố nhi hữu biệt dị thị cố vọng pháp kì thể thị thường )đại tuệ vân hà hoặc loạn chân thật nhược phục
+nhân duyên chư thánh ư thử hoặc loạn bất khởi điên đảo giác phi bất điên đảo giác đại tuệ
+trừ chư thánh ư thử hoặc loạn hữu thiểu phân tưởng phi thánh trí sự tướng đại tuệ phàm hữu
+giả ngu phu vọng thuyết phi thánh ngôn thuyết 。
+   　thông viết đại tuệ nhân thượng ngôn niết bàn phi đoạn/đoán phi thường tức thị chân thường thường bất
+   　khả hiển nhi thanh hiển chi cố dĩ thử thường vi thanh giáo đương y hà sự nhi thuyết
+   　tất dục y sự tướng nhi thuyết giả chính thị sự tự tướng kế trước dã nhược vị li
+   　sự tướng nhi biệt hữu chân thường giả hựu thị nhị thừa không kiến cố phật dĩ tâm ngoại
+   　vô pháp pháp ngoại vô tâm sở ngôn chân thường tức y bỉ hoặc loạn vọng pháp nhi thuyết
+   　dĩ bỉ vọng pháp hoặc loạn dị ư điên đảo chư thánh duy kiến kì chân thật tuy hiện
+   　hữu hoặc loạn nhi phi điên đảo cố vi minh trí phàm phu bất giác kì hoặc loạn ư
+   　phi hữu trung chấp vi thật hữu như dương diễm hoả luân ảo mộng kính tượng đẳng thị danh
+   　thế gian điên đảo kiến giải phi minh trí dã bỉ hữu trí giả phi vị hoặc loạn chi
+   　cảnh nhất thiết tổng vô đãn ư tự tâm sở hiện bất sinh phân biệt nhi phi bất kiến
+   　bỉ hoặc loạn chi sự bỉ hoặc loạn vọng pháp hiện thời chủng chủng sai biệt tự hồ vô
+   　thường nhiên phi vọng pháp hữu vô thường tính năng tác vô thường sở dĩ giả hà bỉ hoặc
+   　loạn tự thể bất tự ngôn hữu bất tự ngôn vô bản li hữu vô cố kí li hữu
+   　vô vân hà hựu vị chi hoặc loạn đãn nhất thiết pháp bản bất hữu ngu phu chủng chủng
+   　tác hữu giải nhất thiết pháp bản bất vô ngu phu chủng chủng tác vô giải ư hữu vô
+   　cảnh giới thượng tự sinh hoặc loạn nhi bỉ li hữu vô giả cố tự thường dã như bỉ
+   　hằng hà chi thuỷ bản phi thị hoả nhi ngạ quỷ đãn kiến vi hoả bất kiến vi thuỷ
+   　thử hoặc loạn tính đãn ư ngạ quỷ hiện nhĩ kì vô hoặc loạn tính ư dư nhân vị
+   　thường bất hiện phi vô kì thuỷ dã hoặc loạn chi sự diệc phục như thị ư chủng chủng
+   　cảnh giới khởi hữu kiến giả thị điên đảo dã ư chủng chủng cảnh giới bất khởi hữu kiến
+   　giả thị bất điên đảo dã chư thánh viễn li hữu vô li ư điên đảo diệc li ư
+   　bất điên đảo phàm ngu sở hoặc loạn giả chư thánh bất vi chi hoặc loạn dã thị cố
+   　hoặc loạn thường sở dĩ danh vi thường giả vị phân biệt bất khởi pháp pháp bất dị tướng
+   　tướng bất hoại bất dĩ thử tướng hoại bỉ tướng cố hoặc loạn chủng chủng tướng ngoại tướng dã
+   　vọng tưởng phân biệt tướng nội tướng dã dĩ hư vọng phân biệt cố phá hoại chủng chủng tướng
+   　tức hữu điên đảo kiến cập bất điên đảo kiến nhược vô phân biệt chư pháp tự thể vô
+   　sai biệt tướng phi hoặc loạn chủng chủng tướng hoại diệc phi vọng tưởng phân biệt tướng hoại chư
+   　tướng bất dị vạn pháp giai như thị cố vị hoặc loạn thường kí vị chi thường chân thật
+   　bất biến chi vị dã vân hà hoặc loạn tức thị chân thật vị nhất thiết vọng pháp bất
+   　li nhân duyên hòa hợp nhi đắc hiện khởi bản tự vô sinh chư thánh ư thử bất khởi
+   　phàm phu điên đảo giác chấp trước vi hữu diệc bất khởi nhị thừa phi điên đảo giác chấp
+   　trước vi vô viễn li hữu vô nhị chủng phân biệt nhất thiết chư pháp bản tự tịch diệt
+   　tướng cố vị hoặc loạn tức thị chân thật dã trừ chư thánh giả dĩ chứng chân thật bất
+   　tác ư tưởng tức nhất thiết hoặc loạn mạc phi thánh trí sự tướng dư tu hành giả nhược
+   　ư thử hoặc loạn vọng pháp hữu thiểu phân tưởng nhất niệm tài động tức quai pháp thể ư
+   　thánh trí sự tướng tướng khứ viễn hĩ phàm hữu thiểu phân tưởng giả đương tri tức thị ngu
+   　phu hí luận phi thánh ngôn thuyết bỉ duy y vọng tưởng sự tướng nhi thuyết chấp trước dương
+   　diễm hoả luân đẳng dĩ vi thật hữu chung thuộc sinh diệt phi thường dã nhược y thánh trí
+   　sự tướng nhi thuyết tức hoặc loạn tức chân thật sinh diệt pháp trung nhi bất sinh bất diệt
+   　giả tự tại thị chân thường dã cố tri vọng tưởng sự tướng phi thường nhi thánh trí sự
+   　tướng thị thường tắc dĩ thường vi ngôn thuyết giả kì diệc thận sở y hồ thụy nham vấn
+   　nham đầu như hà thị bản thường lí đầu viết động dã nham viết động thời như hà đầu
+   　viết bất kiến bản thường lí nham trữ tư đầu viết khẳng tức vị thoát căn trần bất khẳng
+   　tức vĩnh trầm sinh tử nham nãi lễ bái thiên đồng tụng vân viên châu bất huyệt đại phác
+   　bất trác đạo nhân sở quý vô lăng giác niêm khước khẳng lộ căn trần không thoát thể vô
+   　y hoạt trác trác thử nham đầu ư chân thường kiến chi tối triệt cố vị bất khẳng tức
+   　vĩnh trầm sinh tử toạ khước điên đảo nhất lộ khẳng tức vị thoát căn trần toạ khước phi
+   　điên đảo nhất lộ nhiên hậu thoát thể vô y bất bát chư tướng nhi chân thường tự tại 。
+bỉ hoặc loạn giả đảo bất đảo vọng tưởng khởi nhị chủng chủng tính vị thánh chủng tính cập ngu
+phu chủng tính thánh chủng tính giả tam chủng phân biệt vị thanh văn thừa duyên giác thừa phật thừa
+vân hà ngu phu vọng tưởng khởi thanh văn thừa chủng tính vị tự cộng tướng kế trước khởi thanh
+văn thừa chủng tính thị danh vọng tưởng khởi thanh văn thừa chủng tính đại tuệ tức bỉ hoặc loạn
+vọng tưởng khởi duyên giác thừa chủng tính vị tức bỉ hoặc loạn tự cộng tướng bất thân kế trước
+khởi duyên giác thừa chủng tính vân hà trí giả tức bỉ hoặc loạn khởi phật thừa chủng tính vị
+giác tự tâm hiện lượng ngoại tính phi tính bất vọng tưởng tướng khởi phật thừa chủng tính thị danh
+tức bỉ hoặc loạn khởi phật thừa chủng tính hựu chủng chủng sự tính phàm phu hoặc tưởng khởi ngu
+phu chủng tính (đường vân hữu chư ngu phu phân biệt vọng pháp chủng chủng sự vật quyết định như thị quyết định bất dị thử tắc thành tựu sinh tử thừa tính )bỉ phi
+hữu sự phi vô sự thị danh chủng tính nghĩa đại tuệ tức bỉ hoặc loạn bất vọng tưởng chư
+thánh tâm ý ý thức quá tập khí tự tính pháp chuyển biến tính thị danh vi như thị cố
+thuyết như li tâm ngã thuyết thử cú hiển thị li tưởng tức thuyết li nhất thiết tưởng 。
+   　thông viết thượng ngôn chư thánh ư thử hoặc loạn bất khởi điên đảo giác phi bất điên đảo
+   　giác thị đảo bất đảo vọng tưởng giai y hoặc loạn nhi khởi nhược phân biệt bỉ hoặc loạn
+   　pháp thị đảo phi đảo tắc năng thành tựu nhị chủng chủng tính vị thánh chủng tính cập ngu
+   　phu chủng tính thánh chủng tính giả tam chủng phân biệt vị thanh văn thừa duyên giác thừa phật
+   　thừa thanh văn thừa giả ư hoặc loạn ngũ âm đẳng pháp kiến hữu tự tướng cộng tướng nhi
+   　sinh kế trước khởi áp li tưởng áp khổ tập hân đạo diệt giai ư tướng thượng kế trước
+   　cố danh thanh văn thừa chủng tính duyên giác thừa giả ư bỉ hoặc loạn thập nhị nhân duyên
+   　đẳng pháp liễu đạt duyên sinh tự tướng cộng tướng giai hư vọng bất thật cố li ư hội
+   　náo bất lạc/nhạc/nhạo thân tập cận kế trước thị danh duyên giác thừa chủng tính thị nhị giả giai
+   　kiến hữu phiền não khả đoạn/đoán do vị ngộ phiền não chi tức vi bồ đề dã cố phi
+   　minh trí nhược trí giả tức bỉ hoặc loạn nhập phật tri kiến sở vị giác liễu nhất thiết
+   　giai thị tự tâm sở hiện kiến bỉ năng kiến khả kiến duy thị tự tâm vô hữu ngoại
+   　pháp ngoại tính phi tính hữu vô vọng tưởng hà tự nhi khởi tức bỉ hoặc loạn đương thể
+   　chân như cố danh phật thừa chủng tính thử tam giả giai ư chủng chủng sự tướng vô điên
+   　đảo tưởng cố vị chi thánh nhược chư phàm phu ư chủng chủng sự vật khởi hoặc loạn vọng
+   　tưởng quyết định như thị quyết định bất dị hư vọng phân biệt chủng chủng pháp thể thử tắc
+   　thành tựu sinh tử thừa tính luân hồi tam giới điên đảo bất tức cố vị chi ngu hà
+   　dĩ danh vi chủng tính nghĩa da bỉ hoặc loạn pháp phi thị thật sự như dương diễm đẳng
+   　bất khả định chấp vi hữu diệc phi bất thật sự chủng chủng hiện kiến bất khả định chấp
+   　vi vô tịnh danh vân vô tác vô tạo vô thụ giả thiện ác chi nghiệp diệc bất vong
+   　thị danh chủng tính nghĩa dã thị chủng tính giả thánh ngu sở đồng nhiên tại triền tức vị
+   　chi bát thức xuất triền tức vị chi như lai tạng ngu phu vị năng chuyển thức nhi vi
+   　thức sở chuyển vô túc luận dĩ chư thánh tức bỉ hoặc loạn bất vọng phân biệt tác điên
+   　đảo tưởng cập bất điên đảo tưởng lương do chư thánh trí giả tâm ý ý thức chư ác
+   　tập khí tự tính pháp chuyển y cố chuyển sinh diệt y niết bàn chuyển phiền não y bồ
+   　đề tức thuyết thử vọng danh vi chân như thị cố thuyết chân như li ư tâm thức phi
+   　thị li tâm thức ngoại biệt hữu nhất chân như dã đãn li kì tưởng nhĩ ngã thuyết thử
+   　cú pháp sở dĩ hiển thị chân như pháp thể li phân biệt tưởng tức thuyết bỉ chân như
+   　trung vô hư vọng phân biệt pháp tinh li nhất thiết tưởng bất đãn li điên đảo tưởng diệc
+   　li bất điên đảo tưởng vi nhất thiết tưởng do tâm ý thức sinh tự tính biến nhi vi
+   　tâm ý thức tắc danh viết quá tập khí tâm ý thức chuyển nhi vi trí tức danh viết
+   　chân như kí danh chân như tức bỉ tâm ý thức li bỉ tâm ý thức nhi tưởng an
+   　tùng sinh chư thánh bất vọng tưởng tướng cái như thử khởi tín luận vân nhất thiết chư pháp
+   　duy y vọng niệm nhi hữu sai biệt nhược li tâm niệm tắc vô nhất thiết cảnh giới chi
+   　tướng thị cố nhất thiết pháp tùng bản dĩ lai li ngôn thuyết tướng li danh tự tướng li
+   　tâm duyên tướng tất cánh bình đẳng vô hữu biến dị bất khả phá hoại duy thị nhất tâm
+   　cố danh vi như tức thử chỉ dã hoàng sơn triệu văn nhụ thường tác tụng viết vọng tưởng
+   　nguyên lai bản tự chân trừ thời hựu khởi nhất trùng trần ngôn tư động tĩnh thừa thùy lực
+   　tử tế khán lai vô biệt nhân tu như thử giải phương danh chứng chân như dã 。
+đại tuệ bạch phật ngôn thế tôn hoặc loạn vi hữu vi vô phật cáo đại tuệ như ảo vô
+kế trước tướng nhược hoặc loạn hữu kế trước tướng giả kế trước tính bất khả diệt duyên khởi ưng
+như ngoại đạo thuyết nhân duyên sinh pháp (đường vân như ảo vô chấp trước tướng cố nhược chấp trước tướng thể thị hữu giả ưng bất khả chuyển tắc chư duyên
+khởi ưng như ngoại đạo thuyết tác giả sinh )đại tuệ bạch phật ngôn thế tôn nhược hoặc loạn như ảo giả phục đương
+dữ dư hoặc tác nhân phật cáo đại tuệ phi ảo hoặc nhân bất khởi quá cố đại tuệ ảo
+bất khởi quá vô hữu vọng tưởng (đường vân phi chư ảo sự vi vọng hoặc nhân dĩ ảo bất sinh chư quá ác cố dĩ chư ảo sự vô phân biệt cố )
+đại tuệ ảo giả tùng tha minh xứ sinh phi tự vọng tưởng quá tập khí xứ sinh thị cố
+bất khởi quá đại tuệ thử thị ngu phu tâm hoặc kế trước phi thánh hiền dã 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+thánh bất kiến hoặc loạn trung gian diệc vô thật trung gian nhược chân thật hoặc loạn tức chân thật
+xả li nhất thiết hoặc nhược hữu tướng sinh giả thị diệc vi hoặc loạn bất tịnh do như ế 。
+   　thông viết đại tuệ hựu nghi kí li nhất thiết tưởng dĩ kì năng trừ nhất thiết pháp hồ
+   　cố vấn nhất thiết vọng pháp tất cánh thị hữu thị vô phật dĩ hoặc loạn vọng pháp bất
+   　khả vị chi hữu bất khả vị chi vô đãn như ảo nhĩ ảo tuy hiện khởi chủng chủng
+   　tướng nguyên vô tự tính cố tướng tức vô tướng vô chấp trước tướng khả đắc cố nhược hoặc
+   　loạn pháp hữu kế trước tướng giả tức hữu thật thể ưng bất khả chuyển chư thánh trí giả
+   　tâm ý ý thức chuyển biến thời an đắc hồn hoá yểu vô tung tích duy kì vô căn
+   　cố khả dĩ chuyển nhược bất như ảo tất bất khả diệt tắc nhất thiết duyên khởi hoặc loạn
+   　chư pháp ưng như ngoại đạo sở thuyết nhân duyên sinh pháp tác giả vi nhân tất cánh thị
+   　hữu hữu dĩ hoàn diệt tất cánh thị vô đãn ư hữu vô cảnh thượng kế trước bất xả
+   　như lai sở thuyết duyên khởi như ảo chi pháp cố bất như thị dã đại tuệ hựu nghi
+   　nhược hoặc loạn như ảo bản vô tự tính bất đồng nhân duyên sinh pháp giả nhiên dư hoặc
+   　sinh sinh bất tức ưng thị ảo vi chi nhân dã phật vị phi chư ảo sự vi vọng
+   　hoặc nhân dĩ ảo bất khởi chư quá ác cố sở dĩ bất khởi quá giả dĩ chư ảo
+   　sự vô tình thức phân biệt cố sở dĩ vô tình thức giả dĩ y nhân công minh xảo
+   　chú thuật nhi sinh phi tự vọng tưởng phiền não tập khí nhi sinh thị cố bất khởi quá
+   　dã lăng nghiêm vân như thế xảo ảo sư ảo tác chư nam nữ tuy kiến chư căn động
+   　yếu dĩ nhất cơ trục tức cơ quy tịch nhiên chư ảo thành vô tính nhất thiết hoặc loạn
+   　vọng pháp như ảo vô tính khởi năng dữ dư hoặc tác nhân hoặc bất dữ hoặc tác nhân
+   　khởi năng hoặc nhân tai duy ngu phu tâm tiên tự hoặc ư ảo vọng cảnh giới kế trước
+   　vi thật khởi điên đảo tưởng thử tức vọng tưởng tập khí sở sinh khởi chư quá ác luân
+   　chuyển tam giới như trĩ tử lộng ảnh vi ảnh sở lộng phi chư thánh hiền bất vi hoặc
+   　loạn sở hoặc dã thử chính phá ư sự tự tính tướng kế trước giả bất giác tự tâm
+   　sở hiện phân tề bất đãn phàm phu điên đảo giác vi nhiên tức nhị thừa bất điên đảo
+   　giác diệc vị li hồ tướng dã cố kệ trung đạn phá nhị thừa chủng tính hiển tối thượng
+   　nhất thừa pháp môn vị thánh giả kiến hoặc loạn tức phi hoặc loạn kì cố hà dã dĩ
+   　thử hoặc loạn trung gian liễu vô thật tính khả đắc kí vô kì tính tức vô kì tướng
+   　tính tướng câu dân tức thử hoặc loạn trung gian thuần nhiên chân thật kí thị chân thật tức
+   　vọng tức chân tức chân tức vọng bất kiến hữu hoặc loạn khả xả bất kiến hữu chân thật
+   　khả đắc như minh tịnh nhãn nhất cắng tình không sở dĩ bất kiến hữu hoặc loạn dã nhược
+   　xả li nhất thiết hoặc loạn nhi kiến hữu chân thật tướng sinh giả tức thử chân thật hoàn
+   　danh hoặc loạn tuy li phiền não chướng vị li sở tri chướng sở tri chướng chướng tuệ tuệ
+   　bất giải thoát thị thanh biên cấu diệc vi bất tịnh như ế mục nhân vọng kiến không hoa
+   　bất tri kì trung gian diệc vô thật dã sở dĩ thanh văn duyên giác vận danh thánh chủng
+   　vị nhược phật thừa siêu xuất nhị thừa chi thượng vi tối thượng đệ nhất nghĩa dã bàng cư
+   　sĩ kệ viết đãn tự vô tâm ư vạn vật hà phương vạn vật thường vi nhiễu thiết ngưu
+   　bất phạ sư tử hống kháp tự mộc nhân kiến hoa điểu hoa điểu phùng nhân diệc bất kinh
+   　mộc nhân bản thể tự vô tình tâm cảnh như như chỉ giá thị hà lự bồ đề đạo
+   　bất thành thử tức thánh bất kiến hoặc loạn vi diệu nghĩa dã 。
+phục thứ đại tuệ phi ảo vô hữu tướng tự kiến nhất thiết pháp như ảo đại tuệ bạch phật
+ngôn thế tôn vi chủng chủng ảo tướng kế trước ngôn nhất thiết pháp như ảo vi dị tướng kế
+trước (đường vân vi dị y thử chấp trước điên đảo tướng da )nhược chủng chủng ảo tướng kế trước ngôn nhất thiết tính như ảo
+giả thế tôn hữu tính bất như ảo giả sở dĩ giả hà vị sắc chủng chủng tướng phi nhân
+thế tôn vô hữu nhân sắc chủng chủng tướng hiện như ảo thế tôn thị cố vô chủng chủng ảo
+tướng kế trước tướng tự tính như ảo (ngụy vân vi chấp trước chư pháp như ảo tướng cố như ảo vi chấp trước chư pháp điên đảo tướng cố ngôn chư
+pháp như ảo nhược chấp trước chư pháp như ảo tướng giả bất đắc ngôn nhất thiết pháp giai như ảo tướng nhược chấp trước chư pháp điên đảo tướng cố ngôn như ảo giả bất đắc ngôn nhất thiết pháp như
+ảo hà dĩ cố thế tôn sắc hữu chủng chủng nhân tướng kiến cố thế tôn vô hữu dị nhân sắc hữu chư tướng khả kiến như ảo thị cố thuyết ngôn bất đắc chấp trước nhất thiết chư pháp như ảo )。
+phật cáo đại tuệ phi chủng chủng ảo tướng kế trước tướng tự nhất thiết pháp như ảo đại tuệ
+nhiên bất thật nhất thiết pháp tốc diệt như điện thị tắc như ảo đại tuệ thí như điện quang
+sa na khoảnh hiện hiện dĩ tức diệt phi ngu phu hiện (ngụy vân tức kiến tức diệt phàm phu bất kiến đường vân thế gian phàm ngu
+tất giai hiện kiến )như thị nhất thiết tính tự vọng tưởng tự cộng tướng quan sát vô tính phi hiện sắc
+tướng kế trước (đường vân dĩ bất năng quan sát vô sở hữu cố nhi vọng kế trước chủng chủng sắc tướng )。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+phi ảo vô hữu thí thuyết pháp tính như ảo bất thật tốc như điện thị cố thuyết như ảo 。
+   　thông viết thượng ngôn hoặc loạn tức chân thật chân thật cố phi ảo dã hà dĩ phi ảo
+   　tức thị như ảo như ảo tức thị phi ảo nhiên phi ảo chân thể vô hữu tướng tự
+   　thuyết tự nhất vật tức bất trung thử phi ảo bất thị vô dã năng kiến nhất thiết pháp
+   　như ảo kiến ảo giả bất ảo cố viết phi ảo nhiên chư pháp xả ảo vô khả thí
+   　dụ thị cố thuyết như ảo dã đại tuệ nãi vấn như ảo vi y chấp trước chủng chủng
+   　ảo tướng ngôn nhất thiết pháp như ảo da vi y dị thử ảo tướng chấp trước điên đảo
+   　ngôn nhất thiết pháp như ảo da do vân y điên đảo tướng nhi ngôn điên đảo da ức
+   　y bất điên đảo tướng nhi ngôn điên đảo da vi dị tướng kế trước giả ảo tướng tự
+   　ảo tướng điên đảo tự điên đảo pháp bản tự dị cố bất đắc ngôn như ảo dĩ nhược
+   　ư chủng chủng ảo tướng kế trước ngôn nhất thiết pháp như ảo giả nhiên chư pháp hữu tính
+   　bất như ảo giả an đắc khái dĩ như ảo mục chi hà dĩ minh kì bất như ảo
+   　dã hiện tiền sắc pháp chủng chủng giai hữu nhân tướng nhược ngôn như ảo tắc phi nhân hĩ
+   　ảo bất dữ dư hoặc tác nhân tất vô hữu nhân nhi sắc tướng chủng chủng hiển hiện nãi
+   　khả như ảo nhiên nhi sắc tướng chủng chủng cố hữu nhân dã thế gian vô hữu dị nhân
+   　linh sắc hữu chư tướng khả kiến như ảo giả thị cố thế tôn bất khả thuyết ngôn y
+   　ư chấp trước chủng chủng ảo tướng ngôn nhất thiết pháp dữ ảo tướng tự thử đãn ư tướng
+   　biện tướng bất tri ư phi tướng biện tướng đãn ư ảo biện ảo bất tri ư phi ảo
+   　biện ảo cố thế tôn ngôn bất y chấp trước chủng chủng ảo tướng hữu nhân vô nhân chư
+   　tướng tự tính ngôn nhất thiết pháp như ảo đãn dĩ nhất thiết pháp bất thật tốc diệt như
+   　lôi cố thuyết như ảo duy luận vô hữu thật tính phi luận vô hữu nhân tính nhược dĩ
+   　vô nhân luận giả do tồn hồ thật thử dĩ vô thật luận giả tinh vô kì nhân thị
+   　nhất thiết pháp bất thật thùy vi chân thật giả nhất thiết pháp tốc diệt thùy vi bất diệt
+   　giả cố kiến như ảo tức kiến phi ảo dã ảo hà dĩ bất thật da thí như điện
+   　quang tức kiến tức diệt tại sa na khoảnh tuy sinh nhi bất sinh dã phàm ngu bất kiến
+   　hồ thử tất dĩ điện quang hiện kiến chấp vi thật hữu nhất thiết chư pháp diệc phục như
+   　thị dĩ nhất thiết pháp tính giai tự tâm vọng tưởng sở hiện do vọng tưởng phân biệt cố
+   　hữu tự cộng tướng khả đắc năng thiện quan sát tự tâm hiện lượng giả tức thử tự cộng
+   　tướng bản tự vô tính bản tự phi hiện nhất vô sở hữu hà sắc tướng chi khả kế
+   　trước da hựu hà vấn kì hữu nhân vô nhân da duy bất năng quan sát vô sở hữu
+   　cố ư chư sắc tướng chủng chủng kế trước thị vi điên đảo hoặc loạn phi ảo hoặc nhân
+   　nhi nhân hoặc ư ảo dã cố vị chi ngu thả chư pháp bất thật tốc diệt như ảo
+   　giả phi đồ thuyết như ảo dã chính dĩ hiển phi ảo chi chỉ thử khả dữ trí giả
+   　đạo nhĩ kệ ngôn phi ảo vô hữu thí thế gian vật vô hữu tướng tự giả cố vô
+   　khả thuyết đãn thuyết nhất thiết chư pháp như ảo phi vị chủng chủng tính tướng dữ ảo tướng
+   　tự đãn dĩ kì bất thật tốc diệt như điện hiện dĩ tức diệt vô hữu thật tính thị
+   　cố thuyết như ảo dã quả năng quan sát nhất thiết chư pháp bản tự vô tính bản tự
+   　phi hiện dữ điện quang vô dị tức bỉ như ảo chi trung nhi phi ảo chi thể bản
+   　tự như như ngã cố viết hoặc loạn tức chân thật dĩ thử tăng vấn tào sơn ư tướng
+   　hà chân sơn viết tức tướng tức chân viết đương hà hiển thị sơn thụ khởi bật tử hựu
+   　vấn viết ảo bản hà chân viết ảo bản nguyên chân viết đương ảo hà hiển sơn viết tức
+   　ảo tức hiển viết nhẫm ma tắc thuỷ chung bất li ư ảo dã sơn viết mịch ảo tướng
+   　bất khả đắc tào sơn thuyết tổ sư thiền nhất nhất dữ thử phù khế cố tri sơ tổ
+   　sở vân thử tứ quyển kinh khả dĩ chứng tâm tín tai 。
+đại tuệ phục bạch phật ngôn như thế tôn sở thuyết nhất thiết tính vô sinh cập như ảo tương
+vô thế tôn tiền hậu sở thuyết tự tướng vi da thuyết vô sinh tính như ảo phật cáo đại
+tuệ phi ngã thuyết vô sinh tính như ảo tiền hậu tướng vi quá sở dĩ giả hà vị sinh
+vô sinh giác tự tâm hiện lượng hữu phi hữu ngoại tính phi tính vô sinh hiện (đường vân ngã liễu ư sinh
+tức thị vô sinh duy thị tự tâm chi sở kiến cố nhược hữu nhược vô nhất thiết ngoại pháp kiến kì vô tính bản bất sinh cố )đại tuệ phi ngã tiền hậu
+thuyết tướng vi quá nhiên hoại ngoại đạo nhân sinh cố ngã thuyết nhất thiết tính vô sinh đại tuệ
+ngoại đạo si tụ dục linh hữu vô hữu sinh phi tự vọng tưởng chủng chủng kế trước duyên đại
+tuệ ngã phi hữu vô hữu sinh thị cố ngã dĩ vô sinh thuyết nhi thuyết đại tuệ thuyết tính
+giả vi nhiếp thụ sinh tử cố hoại vô kiến đoạn/đoán kiến cố vi ngã đệ tử nhiếp thụ chủng
+chủng nghiệp thụ sinh xứ cố dĩ thanh tính thuyết nhiếp thụ sinh tử (đường vân thuyết chư pháp giả vi linh đệ tử tri y
+chư nghiệp nhiếp thụ sinh tử già kì vô hữu đoạn/đoán diệt kiến cố )đại tuệ thuyết ảo tính tự tính tướng vi li tính tự tính
+tướng cố đoạ ngu phu ác kiến tướng hi vọng bất tri tự tâm hiện lượng hoại nhân sở tác
+sinh duyên tự tính tướng kế trước thuyết ảo mộng tự tính tướng nhất thiết pháp bất linh ngu phu
+ác kiến hi vọng kế trước tự cập tha nhất thiết pháp như thật xứ kiến tác bất chính luận
+(đường vân thuyết chư pháp tướng do như ảo giả linh li chư pháp tự tính tướng cố vi chư phàm ngu đoạ ác kiến dục bất tri chư pháp duy tâm sở hiện vi linh viễn li chấp trước nhân duyên
+sinh khởi chi tướng thuyết nhất thiết pháp như ảo như mộng bỉ chư ngu phu chấp trước ác kiến khi cuống tự tha bất năng minh kiến nhất thiết chư pháp như thật trụ xứ )đại tuệ
+như thật xứ kiến nhất thiết pháp giả vị siêu tự tâm hiện lượng 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+vô sinh tác phi tính hữu tính nhiếp sinh tử (đường vân vô tác cố vô sinh y nghiệp thuyết sinh tử )quan sát như ảo
+đẳng ư tướng bất vọng tưởng 。
+   　thông viết thuyết nhất thiết tính tức hữu sinh bất ưng thuyết vô sinh kí thuyết vô sinh tức
+   　vô ảo bất ưng thuyết như ảo thử đãn nê ư ngôn cú tướng vi nhĩ bất tri thuyết
+   　vô sinh giả phi thị nhất hướng bất sinh dã vị nhất thiết chư pháp sinh tức vô sinh
+   　ngã duy giác tự tâm chi sở hiện kiến nhược hữu nhược phi hữu nhất thiết ngoại pháp vị
+   　thường bất sinh suy cầu tự tính liễu bất khả đắc bản tự bất sinh dĩ vô sinh nhi
+   　hiện sinh phi như ảo nhi hà cố phi tiền hậu thuyết tướng vi quá dã nhiên sở dĩ
+   　thuyết vô sinh giả vi phá ngoại đạo nhân sinh kiến cố bỉ sở kiến lập nhân quả nghĩa
+   　bất tướng đương cố ngã thuyết chư pháp giai tất bất sinh bỉ ngoại đạo ngu si quần tụ
+   　vị nhất thiết pháp hữu tùng hữu nhân sinh vô tùng vô nhân sinh phi tự vọng tưởng chủng
+   　chủng chấp trước phân biệt vi duyên thị biệt hữu dị nhân tùng tác giả sinh dã bỉ đãn
+   　ư nhất thiết hữu vô chư pháp cộng hưng ác kiến ngã thuyết chư pháp sinh tức bất sinh
+   　diệc hữu bất sinh hà đắc ngôn hữu diệc vô bất sinh hà đắc ngôn vô cố ngã dĩ
+   　vô sinh thuyết nhi thuyết phi hữu nhân sinh diệc phi vô nhân sinh bỉ ngoại đạo dục linh
+   　hữu vô hữu sinh kì thuyết tự hoại hĩ kí thuyết vô sinh nhi hựu thuyết nhất thiết chư
+   　pháp hữu tính giả hà dã vi linh ngã pháp đệ tử tri hữu nhị pháp nhất giả nhiếp
+   　thụ thế gian sinh tử nghiệp cố nhị giả già kì vô kiến đoạn/đoán kiến cố ngoại đạo vị
+   　nhất thiết pháp phi tự vọng tưởng chấp trước phân biệt vi duyên tức bất tri hữu sinh tử
+   　cố thường tại sinh tử nhược tri kiến thụ tập khí chủng chủng chư nghiệp vi sinh tử nhân
+   　chí tam giới thụ sinh xứ vi sinh tử quả tri y chư nghiệp nhiếp thụ sinh tử cố
+   　năng siêu ư sinh tử ngã thuyết hữu chư pháp giả sở dĩ nhiếp thụ thế gian thế gian
+   　bất vô hà đắc ngôn vô chính dĩ già ngoại đạo nhất thiết vô hữu đoạn/đoán diệt kiến dã
+   　tuy thuyết nhất thiết pháp hữu đãn dĩ danh cú văn thân vi thể dĩ thanh tính thuyết diệc
+   　phi thật sự tức hữu nhi vị thường hữu dã nhiên sở dĩ thuyết chư pháp như ảo giả
+   　dĩ ảo tính ảo tướng bản phi thật hữu vi linh ngu phu tri kì như ảo viễn li
+   　chư pháp tự tính tự tướng cố ngu phu đoạ hữu vô ác kiến hi vọng đắc quả bất
+   　đạt ngũ uẩn chư pháp duy thị tự tâm sở hiện bản tự vô tác bản tự vô sinh
+   　nãi vọng kế tác giả dĩ vi sinh nhân kế trước tự tính tự tướng dĩ vi thật hữu
+   　ngã vi hoại bỉ nhân sở tác sinh bỉ sở nhân giả thị kì sở tác phi năng tác
+   　dã sở tác cố bất năng sinh kì sở nhân giả phi dã hựu duyên sinh khởi chi tướng
+   　kế trước thật hữu tự tính kì sở duyên giả phi dã cố thuyết ngũ uẩn chư pháp duyên
+   　sinh như ảo bất thật như mộng tính tức vô tính tướng tức vô tướng nhất thiết pháp như
+   　thị bất linh ngu phu vọng kế tự tướng tha tướng hi vọng đắc quả chấp trước ác kiến
+   　khi cuống tự tha bất năng minh kiến nhất thiết chư pháp như thật trụ xứ phản dĩ như
+   　thật xứ kiến tác bất chính luận dĩ bỉ trước tướng giả vi chính nhi dĩ như ảo giả
+   　vi phi chính dã bất tri trụ như thật xứ kiến nhất thiết pháp giả tức tự tâm hiện
+   　lượng siêu tự tâm hiện lượng li tính tự tính tướng vô nhất pháp khả đắc thị chân bất
+   　sinh diệt pháp dã cố vi chính luận bỉ vị li tính tự tính tướng hữu tự tướng tha
+   　tướng khả đắc vị siêu tâm lượng do thị sinh tử biên sự chân vi bất chính luận dã
+   　vi phá bỉ bất chính luận cố y chân như thật tế xứ nhi thuyết nhất thiết pháp như
+   　ảo duy kì vô sinh cố thuyết như ảo duy kì như ảo cố thuyết vô sinh hựu hà
+   　tướng vi chi quá tai kệ phục thân minh vô sinh như ảo chỉ thị nhất ý ngoại đạo
+   　thuyết nhất thiết pháp bất sinh đãn nhân tác giả sinh bỉ nhân sở tác vô sinh tính an
+   　năng sinh tai thị tắc báng nhân quả phi như thật chính kiến ngã thuyết vô sinh duy tự
+   　tâm hiện lượng bản vô sở tác canh hà hữu sinh chính dĩ phá ngoại đạo sở tác chi
+   　phi tính dã hựu thuyết hữu tính giả dục linh đệ tử y nghiệp nhiếp thụ thế gian sinh
+   　tử bất thị nhất hướng vô hữu chính dĩ phá ngoại đạo đoạn/đoán diệt chi kiến dã sinh tức
+   　bất sinh hữu tức phi hữu thị thuyết vô sinh tức sở dĩ thuyết như ảo dã ngoại đạo
+   　ác kiến hi vọng chấp trước tự tướng tha tướng cố ngã thuyết như ảo đẳng chính phá bỉ
+   　ngu phu ư tướng sinh vọng tưởng dã nhược năng quan sát như ảo tức ư chư tướng bất
+   　khởi phân biệt phân biệt bất sinh tướng tức phi tướng tâm cảnh tịch diệt tức thị vô sinh
+   　cố thuyết như ảo tức dĩ thuyết vô sinh dã thị thậm thâm nghĩa thú khởi khả dĩ ngôn
+   　cú tướng vi nhi sinh nghi tai tích tri viễn thiền sư tại báo từ vấn như hà thị
+   　chân như phật tính từ viết thùy vô sâm thối thủ toạ vấn nhữ đích lai vấn hòa thượng
+   　thoại hoàn hội ma viết bất hội tòa viết hòa thượng nhẫm ma từ bi nhữ vi thập ma
+   　bất hội chân như phật tính thùy vô nãi chí tứ sinh lục đạo tất giai cụ túc viễn
+   　cảm tạ thời thủ chứng thiền sư tại bàng giảo xỉ viết giá lão hán tự gia vô nhãn
+   　canh hạt tha nhân nãi triệu viễn vấn thủ tòa đích lai thuyết cá thập ma viễn viết mỗ
+   　đương thời bất hội đắc tha thuyết phá cụ như tiền cử chứng viết thượng tòa phật pháp bất
+   　thị giá cá đạo lí nhữ nhược bất tín khứ vấn thủ đường đầu viễn thượng đường đầu cụ
+   　thuyết tiền giải từ diệc viết phật pháp bất thị giá cá đạo lí viễn viết đích lai vấn
+   　đệ tam tòa tha diệc bất khẳng cố giáo lai vấn thả vọng từ bi vi mỗ quyết phá
+   　từ viết nhữ khước vấn thủ đệ tam tòa khứ viễn hạ lai lễ vấn chứng viết nhữ đãn
+   　vấn lai viễn tiện vấn như hà thị chân như phật tính chứng viết thùy hữu viễn ư ngôn
+   　hạ khế ngộ thủ chứng tức hộ quốc tịnh quả đại sư dã tăng vấn hộ quốc hạc lập
+   　khô tùng thời như hà quốc vân địa hạ để nhất trường mạ [di -đài +la ]tăng vân trích thuỷ trích
+   　đống thời như hà quốc vân nhật xuất hậu nhất trường mạ [di -đài +la ]tăng vân hội xương sa thải
+   　thời hộ pháp thiện thần hướng thậm ma xứ khứ dã quốc vân tam môn đầu lưỡng cá nhất
+   　trường mạ [di -đài +la ]thiên đồng tụng vân tráng sĩ lăng lăng mấn vị thu nam nhi bất quán bất
+   　phong hầu phiên tư thanh bạch truyền gia khách tẩy nhĩ khê đầu bất ẩm ngưu hội thử tức
+   　tri vô sinh như ảo mật mật ý 。
+phục thứ đại tuệ đương thuyết danh cú hình thân tướng thiện quan danh cú hình thân (đường vân văn thân )bồ
+tát ma ha tát tùy nhập nghĩa cú hình thân tật đắc a nậu đa la tam miệu tam bồ
+đề như thị giác dĩ giác nhất thiết chúng sinh đại tuệ danh thân giả vị nhược y sự lập
+danh thị danh danh thân cú thân giả vị cú hữu nghĩa thân tự tính quyết định cứu cánh thị
+danh cú thân hình thân giả vị hiển thị danh cú thị danh hình thân hựu hình thân giả vị
+trường đoản cao hạ hựu cú thân giả vị kính tích như tượng mã nhân thú đẳng sở hành kính
+tích đắc cú thân danh đại tuệ danh cập hình giả vị dĩ danh thuyết vô sắc tứ uẩn cố
+thuyết danh tự tướng hiện cố thuyết hình (đường vân danh vị phi sắc tứ uẩn dĩ danh thuyết cố văn vị danh chi tự tướng dĩ văn hiển cố )thị
+danh danh cú hình thân thuyết danh cú hình thân tướng phân tề ưng đương tu học 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+danh thân dữ cú thân cập hình thân sai biệt phàm phu ngu kế trước như tượng nịch thâm nê 。
+   　thông viết nhân đại tuệ nghi vô sinh như ảo nhị thuyết hữu tướng vi quá đệ ư danh
+   　cú thượng chấp nê bất đạt kì nghĩa cố giáo dĩ đương thiện quan danh cú văn thân tướng
+   　nhân tướng nhi đắc nghĩa nhập ư nghĩa cú hình thân nhi vô hồ danh cú hình thân tức
+   　tri ngôn thuyết như ảo tính bản vô sinh cố đắc vô thượng chính đẳng chính giác như thị
+   　giác dĩ tức dĩ danh cú văn thân biểu hiển đệ nhất nghĩa đế linh nhất thiết chúng sinh
+   　giai giác vô thượng bồ đề tư tắc tức ngôn thuyết li ngôn thuyết cố dữ bồ đề tướng
+   　ưng dã khởi khả dĩ ngôn thuyết đồng dị nhi biện bồ đề tai hà dĩ vị chi danh
+   　thân vị y sự lập danh năng thuyên tự tính như thuyết lục căn đãn vân nhãn nhĩ đẳng
+   　danh tức thị thân thị vị danh thân hà dĩ vị chi cú thân vị cú các hữu quyết
+   　định nghĩa năng thuyên sai biệt như thuyết thị nhãn thị phật nhãn đẳng chủng chủng sai biệt quyết
+   　định cứu cánh bất tướng hồn hạm thị danh cú thân hà dĩ vị chi hình thân văn tự
+   　hữu hình sở dĩ hiển thị danh cú thị danh cú sở y dã thuyết văn vân y loại
+   　tượng hình vi tự hình thanh tướng xưng vi văn đường hữu phục thứ đại tuệ cú thân giả
+   　vị cú sự cứu cánh danh thân giả vị chư tự danh các các sai biệt như tùng a
+   　tự nãi chí a tự văn thân giả vị trường đoản cao hạ ngụy vân vị thanh trường đoản
+   　âm vận cao hạ thân giả do thể dã các tự hữu thể bất tướng tạp cố thử thượng
+   　thích danh cú hình thân chi tướng hạ tức minh tùy nhập nghĩa cú chi chỉ cố vị cú
+   　thân giả quyết định cứu cánh như kính tích nhĩ vị tầm kính tích dĩ tri tượng mã đẳng
+   　sở tại dụ nhân cú nhi đắc nghĩa đắc nghĩa tắc vô ngôn như đắc tượng mã đẳng tư
+   　di kì tích hĩ nãi nhược danh cú y sự lập danh bất đãn hữu sắc khả chỉ giả
+   　cố thuyết danh tức phi sắc tứ uẩn thụ tưởng hành thức yểu vô tướng trạng diệc khả dĩ
+   　hư danh lập thuyết cố thuyết danh chí ư hình cú hiển thị danh cú bất đãn sắc tướng
+   　hiển hiện giả cố thuyết hình tức phi sắc tứ uẩn kí hữu kì danh tức hữu tự tướng
+   　diệc khả dĩ văn tự biểu hiển cố thuyết hình thị danh cập hình bất đãn thuyết sắc biên
+   　sự diệc năng thuyết vô sắc biên sự hợp sắc vô sắc kính tích dĩ tri thật nghĩa sở
+   　tại thị chi vị tùy nhập nghĩa cú hình thân kì phân tề thâm viễn phi tiên cận khả
+   　khuy dã kí tri danh cú hình thân tướng hựu như danh cú hình thân phân tề tư thiện
+   　hồ quan danh cú hình thân nhi bất đồ nê kì từ hĩ kệ vị danh thân cú thân
+   　văn tự thân sai biệt bất đồng yếu dĩ hiển thị đệ nhất nghĩa đế li văn tự tướng
+   　li ngôn thuyết tướng đương thể tịch diệt bản tự bất sinh cố năng tật đắc vô thượng bồ
+   　đề phàm ngu đồ ư danh cú hình thân tùy thanh phân biệt kế trước bất xả như tượng
+   　nịch thâm nê vô xuất thân chi lộ an vọng kì đắc vô thượng bồ đề tai vân môn
+   　thị chúng vân trực đắc xúc mục vô trệ đạt đắc danh thân nhất thiết pháp không sơn hà
+   　đại địa thị danh thân diệc bất khả đắc hoán tác tam muội tính hải câu bị do thị
+   　vô phong táp táp chi ba trực đắc vong tri ư giác giác tức phật tính hĩ hoán tác
+   　vô sự nhân canh tu tri hữu hướng thượng nhất khiếu tại thiên đồng niêm vân tân chủ bất
+   　hài nhị câu hữu quá các dữ nhị thập bổng chi như hướng thượng nhất khiếu hựu tác ma
+   　sinh tê nhân ngoạn nguyệt văn sinh giác tượng bí lôi kinh hoa nhập nha ư thử sâm thấu
+   　phương khả tật đắc vô thượng bồ đề 。
+phục thứ đại tuệ vị lai thế trí giả dĩ li nhất dị câu bất câu kiến tướng ngã sở
+thông nghĩa vấn vô trí giả bỉ tức đáp ngôn thử phi chính vấn vị sắc đẳng thường vô thường
+vi dị bất dị như thị niết bàn chư hành tướng sở tướng cầu na sở cầu na (đường vân y sở
+y )tạo sở tạo kiến sở kiến trần cập vi trần (ngụy vân nê đoàn vi trần )tu dữ tu giả như thị
+tỉ triển chuyển tướng như thị đẳng vấn nhi ngôn phật thuyết vô kí chỉ luận (đường vân thử như thị đẳng bất khả
+kí sự thứ đệ nhi vấn thế tôn thuyết thử đương chỉ kí đáp )phi bỉ si nhân chi sở năng tri vị văn tuệ bất cụ
+cố như lai ưng cung đẳng chính giác linh bỉ li khủng bố cú cố thuyết ngôn vô kí bất
+vi kí thuyết hựu chỉ ngoại đạo kiến luận cố nhi bất vi thuyết đại tuệ ngoại đạo tác như
+thị thuyết vị mệnh tức thị thân như thị đẳng vô kí luận đại tuệ bỉ chư ngoại đạo ngu
+si ư nhân tác vô kí luận phi ngã sở thuyết (ngụy vân ngoại đạo mê ư nhân quả nghĩa cố thị cố vô kí phi ngã pháp trung
+danh vô kí dã )đại tuệ ngã sở thuyết giả li nhiếp sở nhiếp vọng tưởng bất sinh vân hà chỉ bỉ
+đại tuệ nhược nhiếp sở nhiếp kế trước giả bất tri tự tâm hiện lượng cố chỉ bỉ đại tuệ
+như lai ưng cung đẳng chính giác dĩ tứ chủng kí luận vi chúng sinh thuyết pháp đại tuệ chỉ
+kí luận giả ngã thời thời thuyết vi căn vị thục bất vi thục giả 。
+   　thông viết thượng ngôn danh cú văn thân yếu tại thông đạt đệ nhất nghĩa đế tuy ngôn do
+   　bất ngôn dã thử hạ thị dĩ bất thuyết diệc thuyết hựu hà danh cú văn thân nhi khả
+   　kế trước tai cố vị đương lai thế trí giả dĩ ngã sở thuyết li tứ cú tuyệt bá
+   　phi thông đạt thật nghĩa tối thượng pháp môn vấn ư vô trí giả bỉ vô trí giả dĩ
+   　tà kiến tâm chấp trước danh tướng li như thật nghĩa phản dĩ thử vi bất chính chi vấn
+   　bỉ vị sắc đẳng âm nhập xứ giới hữu thường hữu bất thường vi dị vi bất dị như
+   　thị kế trước chí ư niết bàn diệc hữu năng tu hành tướng năng chứng sở tướng chứng giả
+   　vi năng y niết bàn vi sở y thị hữu vi chư hành vi nhất vi dị tứ đại
+   　chủng vi năng tạo tứ đại vi sở tạo tứ đại trung sắc hương vị xúc vi nhất vi
+   　dị như thị tướng trung hữu năng kiến hữu sở kiến nãi chí tạo sở tạo như nê đoàn
+   　vi trần vi nhất vi dị tu dữ tu giả đường vân trí dữ trí giả vi dị vi
+   　bất dị như thị tỉ độ triển chuyển tướng nhân câu các hữu tướng khả đắc nhược thuyết li
+   　tứ cú tuyệt bá phi như thị đẳng vấn vô năng tướng vô sở tướng vô dị tướng vô
+   　bất dị tướng thật bất khả kí sự cố phi chính vấn thế tôn thuyết thử vi vô kí
+   　bất khả tri bất khả thuyết đương chỉ luận đáp bỉ vô trí giả tác như thị đáp thị
+   　vi báng phật khởi năng đắc như lai chỉ luận chi ý hồ phật thuyết vô kí hựu thuyết
+   　chỉ luận các hữu thâm ý phi bỉ si nhân chi sở năng tri bỉ si nhân cửu viễn
+   　dĩ lai bất huân chính pháp văn tuệ bất cụ cố dã như lai ưng cung đẳng chính giác
+   　dục vi chúng sinh thuyết tối thượng nhất thừa pháp vô trí giả văn chi khủng kì lạc không
+   　mang nhiên bất tri sở vị như lai linh bỉ li khủng bố cố cố bất vi thuyết sở
+   　dĩ thuyết ngôn vô kí bất vi kí thuyết nhược bỉ vô khủng bố giả vị thường bất thuyết
+   　dã hựu chỉ chư ngoại đạo tự vô thuỷ dĩ lai huân tập chủng chủng hí luận bất li
+   　hữu vô tứ cú ác kiến sở thành nhược nhất nhất dữ chi tướng ban bất năng khư hoặc
+   　nhi phản tư kì hoặc cố chỉ nhi bất thuyết linh bỉ mặc nhiên tư nhi thủ giải nhược
+   　phi ác kiến luận giả hựu hà thường trí đáp dã thả ngã thuyết ngôn vô kí bất vi
+   　kí thuyết phi như ngoại đạo sở thuyết bỉ ngoại đạo dĩ thần ngã vi mệnh vị mệnh tức
+   　thị ngũ uẩn thân trung dĩ tức âm li âm nhi kế ngã cố cố thuyết mệnh tức thị
+   　thân mệnh dị thân dị cứu cánh quy ư bất khả tri bất khả thuyết thị chân vô kí
+   　luận dã như thị đẳng luận do bỉ ngu si mê ư nhân quả chi nghĩa vọng kế nhân
+   　sở tác sinh vị tác giả vô nhân sinh phi tự vọng tưởng chủng chủng kế trước vi duyên
+   　bát vô nhân quả quy ư minh nhiên võng giác như thị vô kí tức đoạn/đoán diệt luận phi
+   　ngã sở thuyết vô kí dã nhược ngã sở thuyết giả li tứ cú đẳng pháp nội vô năng
+   　thủ chi tâm ngoại vô sở thủ chi cảnh năng sở câu dân vọng tưởng phân biệt tịch nhiên
+   　bất sinh đương kì vô phân biệt tâm nãi sở vị bạch tịnh vô kí tính phi đoạn/đoán diệt
+   　vô kí giả tỉ dã cố ngã pháp trung nguyên vô vọng kế tức vô hữu trí đáp vân
+   　hà vi vô kí luận vân hà chỉ bỉ nhi bất đáp giả hồ bỉ chư ngoại đạo chấp
+   　thủ minh đế dĩ vi niết bàn nhược hữu năng thủ nhược hữu sở thủ kế trước bất xả
+   　ư sinh diệt pháp trung kế bất sinh diệt bất tri tự tâm hiện lượng sinh tức bất sinh
+   　diệt tức bất diệt cố ưng chỉ bỉ trí nhi bất luận nhược đoạt bỉ năng sở tướng quy
+   　vô năng sở đoạt bỉ đoạn/đoán diệt kiến quy vô sinh diệt bỉ kí bất ngộ tự tâm hiện
+   　lượng khởi năng tín nhập bất như chỉ luận tính dĩ chỉ bỉ chi luận bỉ luận bất khởi
+   　thứ kỉ kì hữu hối ngộ hồ cố bất thuyết tức sở dĩ vi thuyết dã thả thử chỉ
+   　luận phi đồ vi ngoại đạo nhi thiết như lai dĩ tứ chủng kí luận vi chúng sinh thuyết
+   　pháp hữu trực đáp giả hữu phản cật đáp giả hữu phân biệt tường đáp giả hữu trí đáp
+   　giả trí đáp tức chỉ luận như lai thường thuyết chỉ chỉ bất tu thuyết ngã pháp diệu nan
+   　tư đãn vi đệ tử căn vị thục giả bất dữ khinh đàm nhược căn thục giả tức chung
+   　nhật dữ chi ngôn li tứ cú tuyệt bá phi đẳng pháp bỉ tự khế ngộ cố dữ trí
+   　giả thuyết thuyết tức bất thuyết dữ vô trí giả bất thuyết bất thuyết tức thuyết thuyết dữ bất
+   　thuyết vô phi hiển thị đệ nhất nghĩa đế li ngôn thuyết tướng cố danh cú văn thân bất
+   　khả hữu sở chấp trước dã tăng vấn hoàng bách vân tịnh danh mặc nhiên văn thù tán thán
+   　vân thị chân nhập bất nhị pháp môn như hà bách vân bất nhị pháp môn tức nễ bản
+   　tâm dã thuyết dữ bất thuyết tức hữu khởi diệt vô ngôn thuyết thời vô sở hiển thị cố
+   　văn thù tán thán tăng vân tịnh danh bất thuyết thanh hữu đoạn/đoán diệt phủ bách vân ngữ tức
+   　mặc mặc tức ngữ ngữ mặc bất nhị cố vân thanh chi thật tính diệc vô đoạn/đoán diệt văn
+   　thù bản văn diệc bất đoạn/đoán diệt sở dĩ như lai thường thuyết vị tằng hữu bất thuyết thời
+   　như lai thuyết tức thị pháp pháp tức thị thuyết pháp thuyết bất nhị cố nãi chí báo hoá
+   　nhị thân bồ tát thanh văn sơn hà đại địa thuỷ điểu thụ lâm nhất thời thuyết pháp sở
+   　dĩ ngữ diệc thuyết mặc diệc thuyết chung nhật thuyết nhi vị thường thuyết kí nhược như thị đãn
+   　dĩ mặc vi bản thử như lai sở dĩ vô trí luận hựu vị thường vô trí luận dã 。
+phục thứ đại tuệ nhất thiết pháp li sở tác nhân duyên bất sinh vô tác giả cố nhất thiết
+pháp bất sinh đại tuệ hà cố nhất thiết tính li tự tính dĩ tự giác quan thời tự cộng
+tính tướng bất khả đắc cố thuyết nhất thiết pháp bất sinh hà cố nhất thiết pháp bất khả trì
+lai bất khả trì khứ dĩ tự cộng tướng dục trì lai vô sở lai dục trì khứ vô sở
+khứ thị cố nhất thiết pháp li trì lai khứ đại tuệ hà cố nhất thiết chư pháp bất diệt
+vị tính tự tính tướng vô cố nhất thiết pháp bất khả đắc cố nhất thiết pháp bất diệt đại
+tuệ hà cố nhất thiết pháp vô thường vị tướng khởi vô thường tính thị cố thuyết nhất thiết pháp
+vô thường đại tuệ hà cố nhất thiết pháp thường vị tướng khởi vô sinh tính vô thường thường cố
+thuyết nhất thiết pháp thường 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+kí luận hữu tứ chủng nhất hướng phản cật vấn phân biệt cập chỉ luận dĩ chế chư ngoại đạo
+hữu cập phi hữu sinh tăng khư tì xá sư (đường vân số luận dữ thắng luận )nhất thiết tất vô kí bỉ
+như thị hiển thị chính giác sở phân biệt tự tính bất khả đắc dĩ li ư ngôn thuyết cố
+thuyết li tự tính 。
+   　thông viết thượng ngôn bỉ chư ngoại đạo ngu si ư nhân tác vô kí luận phi ngã sở
+   　thuyết đại tuệ ngã sở thuyết giả li nhiếp sở nhiếp vọng tưởng bất sinh thử hạ phản phục
+   　tường minh thử ý cố vị ngoại đạo bất li sở tác nhân duyên thuyết ngôn vô kí đãn
+   　đoạn/đoán diệt kiến nhĩ kì thật vị thường bất sinh dã ngã sở vị vọng tưởng bất sinh tức
+   　nhất thiết pháp bất sinh dĩ nhất thiết pháp li năng sở thủ li ư tác giả cập nhân
+   　nhân duyên bất cụ thị cố bất sinh dĩ vô tác giả cố kí vô năng tác hựu vô
+   　sở tác pháp an tùng sinh cố ngã thuyết nhất thiết pháp bất sinh nhất thiết pháp giai hữu
+   　tự tính tướng hà dĩ năng li chi nhi vị chi bất sinh da dĩ phàm phu bất tri
+   　tự tâm hiện lượng tiện vị nhất thiết pháp hữu tự cộng tướng khả đắc nhược dĩ tự giác
+   　thánh trí quan sát nhất thiết pháp vô tự tướng khả đắc diệc vô đồng tướng khả đắc bất
+   　kiến nhất pháp hữu thật thể tướng tướng bản tự li sinh tức vô sinh cố ngã thuyết nhất
+   　thiết pháp bất sinh phu vị chi bất sinh giả bất kiến kì lai bất kiến kì khứ nhất
+   　thiết pháp hà cố vô lai khứ da thế gian phàm khả thủ giả khả dĩ trì lai phàm
+   　khả xả giả khả dĩ trì khứ kim tự cộng tướng lai vô sở tùng khứ vô sở chí
+   　thật bất khả đắc bất khả trì chi nhi lai vị thường kiến kì sinh dã bất khả trì
+   　chi nhi khứ vị thường kiến kì diệt dã như như bất động li trì lai khứ cố thuyết
+   　nhất thiết pháp bất sinh dã thị bất sinh giả tức chư tướng phi chư tướng bất khả dữ
+   　đoạn/đoán diệt tịnh luận dã hà cố vị nhất thiết chư pháp bất diệt da vị nhất thiết tính
+   　tự tính tướng bản lai vô cố hữu tính tướng giả tức khả đắc vô tính tướng giả tức
+   　bất khả đắc phàm khả đắc giả tức khả diệt bất khả đắc giả tức vô khả diệt nhất
+   　thiết pháp tự tướng đồng tướng tích bản vô sinh kim diệc vô diệt cố thuyết nhất thiết pháp
+   　bất diệt tức thị thuyết nhất thiết pháp bất sinh dã ngoại đạo diệc thuyết thường vô thường tính
+   　bỉ đãn ư sinh diệt pháp trung kế thường vô thường vi dị bất dị nhược ngã sở thuyết
+   　vô thường giả vị chư tướng khởi thời thúc khởi thúc diệt sa na bất trụ vô hữu thường
+   　tính vô thường tính tức vô thường tướng nhất thiết pháp vô thường tức phi thật hữu cố ngã
+   　thuyết nhất thiết pháp vô thường tức thị thuyết nhất thiết pháp bất sinh dã nhược ngã sở thuyết
+   　thường giả vị chư tướng khởi tức thị bất khởi tuy hiện hữu sinh nguyên vô sinh tính cố
+   　nhất thiết pháp thúc khởi thúc diệt danh vô thường tính giả tức thị chân thường li thử vô
+   　thường ngoại biệt cầu sở vị thường giả liễu bất khả đắc cố ngã thuyết nhất thiết pháp thường
+   　tức thị thuyết nhất thiết pháp bất sinh dã nhiên tắc ngã sở thuyết li tứ cú giả li
+   　nhiếp sở nhiếp vọng tưởng bất sinh nhiếp sở nhiếp khả li nhi li giả vị thường diệt dã
+   　vọng tưởng tự bất sinh nhi bất sinh giả vị thường diệt dã thử tự giác thánh trí cảnh
+   　giới khởi khả dữ vô trí giả cộng luận hồ kệ phục thân minh kí luận hữu tứ chủng
+   　đáp vị trực đáp phản chất đáp phân biệt đáp trí đáp duy trí đáp sở dĩ chế chư
+   　ngoại đạo bất linh hữu vô tà kiến hoành sinh cố dã tăng khư số luận sư dã số
+   　luận kế hữu cố lập nhị thập ngũ minh đế tì xá thắng luận suý dã thắng tính kế
+   　phi hữu cố lập lục cú nhất thật nhị đức tam nghiệp tứ đại hữu ngũ đồng dị lục
+   　hòa hợp bỉ như thị đẳng pháp giai sở dĩ hiển thị tác giả vô nhân nhất thiết tất
+   　quy ư vô kí nhi dĩ thị vô kí luận giả bỉ sở hiển thị tắc nhiên tổng bất
+   　li hữu vô tứ cú đẳng pháp nãi như lai ưng cung đẳng chính giác sở phân biệt tứ
+   　cú hữu cú tự tính bất khả đắc vô cú tự tính bất khả đắc diệc hữu diệc vô
+   　cú tự tính bất khả đắc phi hữu phi vô cú tự tính bất khả đắc duy bất khả
+   　đắc cố bất khả ngôn thuyết tức đệ nhất nghĩa đế tịch diệt nhất tâm dã li ngôn thuyết
+   　tướng li danh tự tướng dĩ li ư ngôn thuyết cố thuyết li tự tính tướng thử li tự
+   　tính tướng tức li nhiếp sở nhiếp mục cộng tướng nhất thiết hữu vô vọng tưởng bất sinh sở
+   　dĩ chế chư ngoại đạo tà kiến luận giả khởi tất dĩ ngôn thuyết tai tích hoà sơn phổ
+   　thiền sư tạo hoàng long thỉnh ích a nan vấn ca diệp thế tôn phó kim lan ngoại truyền
+   　hà pháp ca diệp hô a nan nan ưng nặc diệp viết đảo khước môn tiền sa can trước
+   　ý chỉ như hà nam công viết thượng nhân xuất thục tằng đáo ngọc toàn phủ viết tằng đáo
+   　hựu vấn tằng quải đáp phủ viết nhất triêu tiện phát nam công viết trí giả đạo trường quan
+   　tương quân đả cung dữ kết duyên kỉ thời hà phương phổ mặc nhiên lương cửu hựu lí tiền
+   　vấn nam công phủ thủ phổ xu xuất đại kinh viết tây xuyên nghĩa hổ bất tiêu thử lão
+   　nhất thoá thử sở vị trí đáp đãi hữu thậm ư đáp giả hĩ 。
+nhĩ thời đại tuệ bồ tát ma ha tát phục bạch phật ngôn thế tôn duy nguyện vi thuyết chư
+tu đà hoàn tu đà hoàn thú sai biệt thông tướng nhược bồ tát ma ha tát thiện giải tu
+đà hoàn thú sai biệt thông tướng cập tư đà hàm a na hàm a la hán phương tiện tướng
+phân biệt tri dĩ như thị như thị vi chúng sinh thuyết pháp vị nhị vô ngã tướng cập nhị
+chướng tịnh độ chư địa tướng cứu cánh thông đạt đắc chư như lai bất tư nghị cứu cánh cảnh
+giới như chúng sắc ma ni thiện năng nhiêu ích nhất thiết chúng sinh dĩ nhất thiết pháp cảnh giới
+vô tận thân tài nhiếp dưỡng nhất thiết phật cáo đại tuệ đế thính đế thính thiện tư niệm chi
+kim vi nhữ thuyết đại tuệ bạch phật ngôn thiện tai thế tôn duy nhiên thính thụ phật cáo đại
+tuệ hữu tam chủng tu đà hoàn tu đà hoàn quả sai biệt vân hà vi tam vị hạ trung
+thượng hạ giả cực thất hữu sinh trung giả tam ngũ hữu sinh nhi ban niết bàn thượng giả tức
+bỉ sinh nhi ban niết bàn thử tam chủng hữu tam kết hạ trung thượng vân hà tam kết vị
+thân kiến nghi giới thủ thị tam kết sai biệt thượng thượng thăng tấn đắc a la hán 。
+   　thông viết thượng ngôn hoặc loạn khởi thanh văn thừa chủng tính nhiên thanh văn trung hữu tứ quả
+   　sai biệt cố đại tuệ phục hữu thử vấn tự sơ quả tu đà hoàn cập tu đà hoàn
+   　hướng sở tu nhân hành hữu sai biệt tướng hữu thông tướng kết sứ hữu thượng trung hạ đoạn/đoán
+   　trừ diệc hữu thượng trung hạ kì sai biệt tướng dã cứu cánh chứng nhập niết bàn thành a
+   　la hán kì thông tướng dã a la hán hữu phương tiện tướng nãi phật dữ bồ tát sở
+   　biến hoá ư thử nhất nhất phân biệt tri tứ quả tướng dĩ vi chúng sinh thuyết pháp linh
+   　đắc nhân pháp nhị vô ngã tịnh trừ phiền não sở tri nhị chướng siêu chư thập địa chí
+   　như lai bất tư nghị cảnh giới ưng vật hiện hình như chúng sắc ma ni dĩ vô lượng
+   　thân tài nhiêu ích chúng sinh cố phật ngữ dĩ sơ quả đẳng hữu tam chủng sai biệt hạ
+   　giả cập thất phản sinh trung giả tam sinh ngũ sinh thượng giả tức thử nhất sinh đắc a
+   　la hán thử tam chủng nhân tức chỉ sơ quả nhị quả tam quả sở đoạn/đoán kết sứ hữu
+   　hạ trung thượng ước hữu cửu phẩm sở vị thượng thượng nãi chí hạ hạ vân hà vi kết
+   　vị thân kiến cập nghi dữ giới thủ tam giả đoạn/đoán hoặc chứng quả thượng thượng thăng tấn chí
+   　ư đắc a la hán nhi hậu dĩ tường như tha kinh sở thuyết tứ quả chi trung sơ
+   　vi kiến đạo thứ nhị tu đạo hậu nhất vô học sơ kiến đạo giả vị thập lục tâm
+   　đoạn/đoán tam giới tứ đế hạ bát thập bát sứ kiến hoặc vân hà thập lục tâm vị dục
+   　giới tứ đế hạ các nhất nhẫn nhất trí dĩ thành bát tâm hựu hợp thượng nhị giới vi
+   　nhất tứ đế loại hạ dục giới quan đoạn/đoán diệc các nhất nhẫn nhất trí dĩ thành bát tâm
+   　tức thập lục tâm dã nhẫn tức vô gian đạo thị chính đoạn/đoán hoặc thời trí tức giải thoát
+   　đạo thị đoạn/đoán liễu thời sở vị khổ pháp trí nhẫn khổ pháp trí khổ loại trí nhẫn khổ
+   　loại trí nãi chí đạo pháp trí nhẫn đạo pháp trí đạo loại trí nhẫn đạo loại trí đoạn/đoán
+   　chí thập ngũ tâm đạo loại trí nhẫn danh sơ quả hướng chí đệ thập lục tâm đạo loại
+   　trí thời danh chứng sơ quả nhân thiên nhị biệt cực thất phản sinh hà cố thất sinh dư
+   　thất kết cố thất kết giả hà vị dục giới tham si cập sân sắc vô sắc giới ái
+   　điệu mạn vô minh tùng trung phục đoạn/đoán dục giới trung tu sở đoạn/đoán hoặc hữu tứ tức tham
+   　sân si mạn thử thị câu sinh tế hoặc nhâm vận khởi giả dĩ nan đoạn/đoán cố phân vi
+   　cửu phẩm sở vị thượng thượng nãi chí hạ hạ thử cửu phẩm hoặc nhị quả nhân đoạn/đoán chi
+   　đoạn/đoán chí ngũ phẩm danh nhị quả hướng đoạn/đoán lục phẩm tận danh đệ nhị quả nhị quả hướng
+   　vị trung hữu nhị chủng gia gia vị thiên cập nhân thiên gia gia giả vị ư thiên thú
+   　hoặc ư nhất thiên hoặc nhị tam thiên chư gia lưu chuyển nhi ban niết bàn nhân gia gia
+   　giả vị ư nhân thú hoặc ư thử châu hoặc dư châu trung chư gia lưu chuyển nhi ban
+   　niết bàn dĩ quyên lục sinh đãn dư nhất sinh thị cố nhất vãng thiên thượng canh tu nhất
+   　lai nhân gian đoạn/đoán dư hoặc dã như thị thứ đệ phục đoạn/đoán nhị phẩm nhất sinh vi gian
+   　đương ban niết bàn thị tức danh tam quả hướng cửu phẩm vĩnh đoạn/đoán danh đệ tam quả canh
+   　bất hoàn sinh ư dục giới đỗ tuyệt hu bán cố vô tái lai tức dĩ kiến đạo bát
+   　phẩm vô vi cập tu đạo cửu phẩm vô vi vi thử quả thể thử nhị tam quả nhân
+   　đoạn/đoán hoặc do như tiệt mộc hoành đoạn/đoán nhi dĩ như thị phục đoạn/đoán sơ thiền địa dục nãi
+   　chí hữu đỉnh đệ cửu phẩm vô gian đạo thời nhất thiết thuyết danh a la hán hướng thử
+   　vô gian đạo diệc danh kim cương dụ định dĩ năng vĩnh hoại chư hoặc tùy miên chí giải
+   　thoát đạo danh tận trí dữ lậu tận đắc đồng thời sinh cố như thị danh trụ a la
+   　hán quả tổng dĩ bát thập cửu phẩm vô vi vi thử quả thể sở vị ngã sinh dĩ
+   　tận phạm hành dĩ lập sở tác dĩ biện bất thụ hậu hữu tiền tam cú tức thị tận
+   　trí hậu cú tức thị vô sinh trí vị bất hướng tam giới chi trung thụ hữu khổ thân
+   　dã như thị hướng thượng canh hữu thập địa bồ tát cập như lai bất tư nghị cảnh giới
+   　phi dĩ a la hán vi cực quả dã trường khánh hữu thời vân ninh thuyết a la hán
+   　hữu tam độc bất thuyết như lai hữu nhị chủng ngữ bất đạo như lai vô ngữ chỉ thị
+   　vô nhị chủng ngữ bảo phúc vân tác ma sinh thị như lai ngữ khánh vân lung nhân tranh
+   　đắc văn bảo phúc vân tình tri nễ hướng đệ nhị đầu đạo khánh vân tác ma sinh thị
+   　như lai ngữ bảo phúc vân cật trà khứ tuyết đậu tụng vân đầu hề đệ nhất đệ nhị
+   　ngoạ long bất giám chỉ thuỷ vô xứ hữu nguyệt ba trừng hữu xứ vô phong lang khởi lăng
+   　thiền khách lăng thiền khách tam nguyệt vũ môn tao điểm ngạch nhược ư thử ngộ đắc như lai
+   　ngữ phương tín đạo a la hán chân thị hữu tam độc 。
+đại tuệ thân kiến hữu nhị chủng vị câu sinh cập vọng tưởng như duyên khởi vọng tưởng tự tính
+vọng tưởng thí như y duyên khởi tự tính chủng chủng vọng tưởng tự tính kế trước sinh dĩ bỉ
+phi hữu phi vô phi hữu vô vô thật vọng tưởng tướng cố ngu phu vọng tưởng chủng chủng vọng
+tưởng tự tính tướng kế trước (đường vân bỉ pháp đãn thị phân biệt tướng phi hữu phi vô phi diệc hữu diệc vô phàm phu ngu si nhi hoành chấp trước )như
+nhiệt thời diễm lộc hạt thuỷ tưởng thị tu đà hoàn vọng tưởng thân kiến bỉ dĩ nhân vô ngã
+nhiếp thụ vô tính đoạn/đoán trừ cửu viễn vô tri kế trước (ngụy vân dĩ vô trí cố vô thuỷ thế lai hư vọng thủ tướng thử thân
+kiến cấu kiến nhân vô ngã nãi năng viễn li )đại tuệ tu đà hoàn thân kiến tự tha thân đẳng tứ âm vô sắc
+tướng cố sắc sinh tạo cập sở tạo cố triển chuyển tướng nhân tướng cố đại chủng cập sắc bất
+tập cố (đường vân dĩ phổ quan sát tự tha chi thân thụ đẳng tứ uẩn vô sắc tướng cố sắc do đại chủng nhi đắc sinh cố thị chư đại chủng hỗ tướng nhân cố )tu
+đà hoàn quan hữu vô phẩm bất hiện thân kiến tắc đoạn/đoán như thị thân kiến đoạn/đoán tham tắc bất
+sinh thị danh thân kiến tướng 。
+   　thông viết tham sân si mạn thân kiến nghi giới thủ giai cửu phẩm hoặc trung sở ưng đoạn/đoán
+   　giả tư lược cử kì tam dĩ lệ kì dư diệc phương tiện pháp môn nhĩ hà dĩ đoạn/đoán
+   　thân kiến kết hoặc da thân kiến hữu nhị chủng vị câu sinh thân kiến cập vọng tưởng thân
+   　kiến thị câu sinh dữ vọng tưởng tướng y nhi khởi như duyên khởi tự tính dữ vọng tưởng
+   　tự tính tướng y nhi khởi vọng tưởng thân kiến tức sắc uẩn dã câu sinh thân kiến tức
+   　thụ tưởng hành thức dã y ngũ uẩn khởi vọng tưởng thân kiến thí như y chư nhân duyên
+   　pháp tướng hư vọng phân biệt nhi sinh thật tướng chủng chủng vọng kế chấp trước tính sinh bất
+   　tri bỉ nhân duyên pháp trung bất khả vị chi hữu bất khả vị chi vô bất khả vị
+   　chi diệc hữu diệc vô kí phi hữu vô tức vô thật thể đãn dĩ vọng tưởng phân biệt
+   　nhi hiện hữu thân tướng cố ngu phu vô trí vô thuỷ thế lai hư vọng thủ tướng chủng
+   　chủng vọng tưởng nhi hoành chấp trước như hạt lộc trục diễm dĩ vi thật thuỷ thử thân kiến
+   　cấu hồn nhiên thị vọng tu đà hoàn dĩ nhân vô ngã quan nhiếp thụ lục căn lai vô
+   　tự tính đoạn/đoán trừ cửu viễn dĩ lai vô chân thật tri vọng tưởng kế trước thử năng viễn
+   　li vọng tưởng thân kiến dã câu sinh thân kiến giả tức dữ sắc câu tu đà hoàn phổ
+   　quan tự tha chi thân thụ tưởng hành thức tứ âm hữu danh vô thể bản vô sắc tướng
+   　cố sắc âm sinh thời do tứ đại chủng nhi đắc sinh cố tứ đại chủng hữu năng tạo
+   　sở tạo triển chuyển tướng nhân các bất tướng tri cố thị tứ đại chủng dữ sắc các vô
+   　chủ tể thùy năng hợp tập nhi thành sắc da sắc vô tự tính tức sắc tức không sắc
+   　kí bất hữu tứ âm tương hà sở y nhi câu sinh hồ tu đà hoàn tác thị quan
+   　dĩ kí tri chư sắc tướng đại chủng cập sắc bất tập hữu phẩm bất hiện hựu tri tự
+   　tha tứ âm bản vô sắc tướng vô phẩm diệc bất hiện như thị tắc câu sinh thân kiến
+   　cập vọng tưởng thân kiến tức thời xả li nhi thân kiến đoạn/đoán hĩ hữu thân khả ái tức
+   　tham dục tùng sinh thân kí vô hĩ tham tương an phụ tham bất sinh giả bất nhập lục
+   　trần nhi sinh kì tâm dã bất nhập thế lưu tức nhập thánh lưu cố tu đà hoàn vi
+   　dự lưu quả thị danh tu đà hoàn đoạn/đoán thân kiến chi tướng tích hữu trước thân kiến giả
+   　cầu độ ư tứ tổ ưu bà 毱đa tổ viết cầu độ chi pháp yếu tín ngô ngôn
+   　bất vi ngô giáo nhân viết kí lai đầu sư cố đương văn mệnh tổ nãi hoá nhất hiểm
+   　nhai sơn tủng kiều mộc linh kì thượng thụ hựu ư thụ hạ hoá tác đại khanh thâm quảng
+   　thiên trửu tổ linh phóng cước kì nhân thụ giáo tức phóng nhị cước linh phóng nhất thủ tức
+   　phóng nhất thủ linh phục phóng thủ kì nhân đáp ngôn viết nhược phục phóng thủ tiện đoạ khanh
+   　tử tổ viết tiên ước thụ giáo như hà vi ngã kì nhân thân ái tức diệt phóng thủ
+   　nhi đoạ bất kiến khanh thụ tức chứng đạo quả tổ sư gia năng sứ nhân lập địa thành
+   　phật cố như thử tai 。
+đại tuệ nghi tướng giả vị đắc pháp thiện kiến tướng cố cập tiên nhị chủng thân kiến vọng tưởng
+đoạn/đoán cố nghi pháp bất sinh bất ư dư xứ khởi đại sư kiến vi tịnh bất tịnh thị danh
+nghi tướng tu đà hoàn đoạn/đoán 。
+   　thông viết hà dĩ danh đoạn/đoán nghi kết dã nghi hữu tam chủng vị nghi lí nghi pháp nghi
+   　sư đắc pháp thiện kiến tướng tức đắc nhân vô ngã pháp thiện kiến chân đế bất vi pháp
+   　tướng sở hoặc cập tiên nhị chủng thân kiến đoạn/đoán cố bất vi giả pháp sở hoặc nhị nghi
+   　bất sinh dĩ ư lí pháp vô nghi hĩ pháp kí bất nghi tức bất ư dư xứ khởi
+   　đại sư kiến thế gian nhất thiết vô hữu như pháp giả tức thế gian nhất thiết vô hữu
+   　như phật giả sứ hữu nhất pháp quá ư như lai tiện hữu tịnh bất tịnh kiến nghi an
+   　đắc trừ cố bất nghi lí bất nghi pháp bất nghi sư phương danh nghi tướng đoạn/đoán dã tăng
+   　vấn trường khánh như hà đắc bất nghi khứ khánh triển lưỡng thủ đầu tử tụng viết triển thủ
+   　chi thời vạn nhận toả khô hà vô thuỷ nguyệt vô lai nhược nghi biệt vấn bàng cư sĩ
+   　thạch nữ hoàng mai thùy cộng bồi khánh thường hữu tụng vân vạn tượng chi trung độc lộ thân
+   　duy nhân tự khẳng nãi phương thân tích thời mậu hướng đồ trung mịch kim nhật khán lai hoả
+   　lí băng tu tri trường khánh hoả lí băng phương đắc bất nghi khứ 。
+đại tuệ giới thủ giả vân hà tu đà hoàn bất thủ giới vị thiện kiến thụ sinh xứ khổ
+tướng cố thị cố bất thủ đại tuệ thủ giả vi ngu phu quyết định thụ tập khổ hành vi
+chúng cụ lạc/nhạc/nhạo cố cầu thụ sinh bỉ tắc bất thủ trừ hồi hướng tự giác thắng li vọng tưởng
+vô lậu pháp tướng hành phương tiện thụ trì giới chi thị danh tu đà hoàn thủ giới tướng đoạn/đoán
+(đường vân duy cầu sở chứng tông thắng vô lậu vô phân biệt pháp tu hành giới phẩm thị danh giới cấm thủ tướng )tu đà hoàn đoạn/đoán tam kết tham si
+bất sinh nhược tu đà hoàn tác thị niệm thử chư kết ngã bất thành tựu giả ưng hữu nhị
+quá đoạ thân kiến cập chư kết bất đoạn/đoán (ngụy vân nhược tu đà hoàn sinh như thị tâm thử thị tam kết ngã li tam kết giả thị danh kiến
+tam pháp đoạ ư thân kiến bỉ nhược như thị bất li tam giới )。
+   　thông viết hà dĩ đoạn/đoán giới thủ kết dã giới thủ vân giả trì giới nhi hữu sở thủ
+   　dã tu đà hoàn sở dĩ bất thủ giả vị thiện kiến vị lai thụ sinh lạc/nhạc/nhạo xứ tức
+   　hữu chư khổ thị cố bất thủ ngoại đạo sở dĩ thủ giả bỉ ngu vô tri thụ tập
+   　khổ hành trì ngưu cẩu đẳng giới quyết định tinh tấn cầu lạc/nhạc/nhạo cảnh giới sinh chư thiên trung
+   　thử nãi nhân thiên hữu lậu chi nhân bỉ tu đà hoàn cố bất thủ dã nhiên diệc thụ
+   　trì giới chi giả hà tai trừ vi hồi hướng tự thân nội chứng tối thắng xứ cố tự
+   　giác thánh trí bản li vọng tưởng nhược hữu sở hi cầu tức thị vọng dã tự giác thánh
+   　trí nhất niệm bất lậu nhược hữu sở hi kí tức vi lậu dã li chư vọng tưởng tu
+   　vô lậu giới phân phương tiện tu hành bất cầu quả báo cố thụ thử giới thử sở vị
+   　định cộng giới dĩ vô thủ vi thủ vô giới vi giới dã thị danh giới thủ kết đoạn/đoán
+   　tam kết kí đoạn/đoán tham si bất sinh tiền thân kiến đoạn/đoán tham tắc bất sinh thử nghi giới
+   　thủ đoạn/đoán si tắc bất sinh tham si đẳng bất sinh tức phiền não chướng tịnh kí đoạn/đoán tam
+   　kết bất phục tác đoạn/đoán tam kết tưởng tức sở tri chướng tịnh nhược viết thử chư kết sứ
+   　ngã năng đoạn/đoán chi bất phục thành tựu tác như thị niệm ưng hữu nhị chủng quá vị tồn
+   　năng đoạn/đoán chi tâm tắc pháp ngã vị vô tức đoạ thân kiến quá nhất vân thử thị tam
+   　kết ngã đoạn/đoán tam kết đối đãi uyển nhiên tức thị kết sứ vị tận bất li tam kết
+   　quá nhị tu đà hoàn bất tác thị niệm cố năng chứng vô lậu pháp tướng dã tung nhạc
+   　nguyên khuê thiền sư sơ tập tì ni vô giải hậu yết an quốc sư đốn ngộ huyền chỉ
+   　bốc lư ư nhạc chi bàng ổ nhất nhật hữu dị nhân nga quan khố tập nhi chí sư
+   　đổ kì hình mạo phi thường nãi dụ chi viết thiện lai nhân giả hà vi nhi chí bỉ
+   　viết sư ninh thức ngã da sư viết ngô quan phật dữ chúng sinh đẳng ngô nhất mục chi
+   　khởi phân biệt da bỉ viết ngã thử nhạc thần dã năng sinh tử ư nhân sư an đắc
+   　nhất mục ngã tai sư viết ngô bản bất sinh nhữ yên năng tử ngô thị thân dữ không
+   　đẳng thị ngô dữ nhữ đẳng nhữ năng hoại không dữ nhữ hồ cẩu năng hoại không cập nhữ
+   　ngô tắc bất sinh bất diệt dã nhữ thượng bất năng như thị hựu yên năng sinh tử ngô
+   　da thần kê thủ viết ngã diệc thông minh chính trực ư dư thần cự tri sư hữu quảng
+   　đại chi trí ban hồ nguyện thụ dĩ chính giới linh ngã độ thế sư viết nhữ kí khí
+   　giới tức kí giới dã sở dĩ giả hà giới ngoại vô giới hựu hà giới tai thần viết
+   　thử lí dã ngã văn mang muội chỉ cầu sư giới ngã thân vi môn đệ tử sư tức
+   　vi trương tòa bỉnh lô chính kỉ viết phó nhữ ngũ giới nhược năng phụng trì tức ưng viết
+   　năng bất năng tức viết phủ viết cẩn thụ giáo sư viết nhữ năng bất dâm hồ viết ngã
+   　diệc thú dã sư viết phi vị thử dã vị vô la dục dã viết năng sư viết nhữ
+   　năng bất đạo hồ viết hà phạp ngã dã yên hữu đạo thủ tai sư viết phi vị thử
+   　dã vị hưởng nhi phúc dâm bất cung nhi hoạ thiện dã viết năng sư viết nhữ năng bất
+   　sát hồ viết thật ti kì bính yên viết bất sát sư viết phi vị thử dã vị hữu
+   　hạm ngộ nghi hồn dã viết năng sư viết nhữ năng bất vọng hồ viết ngã chính trực yên
+   　hữu vọng hồ sư viết phi vị thử dã vị tiên hậu bất hợp thiên tâm dã viết năng
+   　sư viết nhữ năng bất tao tửu bại hồ viết năng sư viết như thượng thị vi phật giới
+   　dã hựu ngôn dĩ hữu tâm phụng trì nhi vô tâm câu chấp dĩ hữu tâm vi vật nhi
+   　vô tâm tưởng thân năng như thị tắc tiên thiên địa sinh bất vi tinh hậu thiên địa tử
+   　bất vi lão chung nhật biến hoá nhi bất vi động tất tận tịch mặc nhi bất vi hưu
+   　tín thử tắc tuy thú phi thê dã tuy hưởng phi thủ dã tuy bính phi quyền dã tuy
+   　tác phi cố dã tuy tuý phi hôn dã nhược năng vô tâm ư vạn vật tắc la dục
+   　bất vi dâm phúc dâm hoạ thiện bất vi đạo hạm ngộ nghi hồn bất vi sát tiên hậu
+   　vi thiên bất vi vọng hôn hoang y đảo bất vi tuý thị vị vô tâm dã vô tâm
+   　tắc vô giới vô giới tắc vô tâm vô phật vô chúng sinh vô nhữ cập vô ngã thục
+   　vị giới tai thần lễ tạ nhi khứ nhược nguyên khuê thuyết giới như cổn bàn chi châu khả
+   　vị đắc tự giác thắng xứ vô lậu pháp tướng phương tiện thụ trì giả hĩ 。
+đại tuệ bạch phật ngôn thế tôn thế tôn thuyết chúng đa tham dục bỉ hà giả tham đoạn/đoán phật
+cáo đại tuệ ái lạc/nhạc/nhạo nữ nhân triền miên tham trước chủng chủng phương tiện thân khẩu ác nghiệp thụ
+hiện tại lạc/nhạc/nhạo chủng vị lai khổ bỉ tắc bất sinh sở dĩ giả hà đắc tam muội chính thụ
+lạc/nhạc/nhạo cố thị cố bỉ đoạn/đoán phi thú niết bàn tham đoạn/đoán 。
+   　thông viết tham hữu đa chủng nhi phật đạn cử sắc dục ngôn giả lục căn chi dục duy
+   　sắc nan đoạn/đoán tu đà hoàn tri hiện tại thân khẩu tế cốt dục lạc/nhạc/nhạo thị vị lai khổ
+   　nhân cố vĩnh đoạn/đoán dâm tâm bất sinh tham trước sở dĩ giả hà dĩ thiền định giải thoát
+   　chi lạc/nhạc/nhạo cử thân mao khổng hi điềm hân duyệt phi thế gian ngũ dục chi lạc/nhạc/nhạo khả tỉ
+   　do đắc tam muội chính thụ lạc/nhạc/nhạo cố cố năng đoạn/đoán bỉ nữ nhân triền miên ái lạc/nhạc/nhạo dã
+   　thử tuy li ư hữu do trước ư không tuy đoạn/đoán dục tham vị đoạn/đoán pháp tham bỉ duy
+   　tham tịch diệt lạc/nhạc/nhạo ẩm thanh văn tửu ngoạ vô vi sàng cố viết phi thú niết bàn tham
+   　đoạn/đoán tích tung nhạc an thiền sư đồng nam dương trung quốc sư vi vũ tắc thiên nghênh nhập
+   　đại nội cung dưỡng tắc thiên mệnh chư cung nữ vi nhị sư mộc dục trung quốc sư từ
+   　bất phó an thiền sư thính chư cung nữ dục thản nhiên tự nhược tắc thiên vấn trung quốc
+   　sư hà dĩ bất phó an đối viết nhập thuỷ kiến trường nhân thử nhị tôn tú tức nữ
+   　sắc li nữ sắc khởi tu đà hoàn nhân sở cập 。
+đại tuệ vân hà tư đà hàm tướng vi đốn chiếu sắc tướng vọng tưởng sinh tướng kiến tướng bất
+sinh thiện kiến thiền thú tướng cố (ngụy vân vị nhất vãng kiến sắc tướng hiện tiền sinh tâm phi hư vọng phân biệt tưởng kiến dĩ thiện kiến thiền tu hành tướng
+cố )đốn lai thử thế tận khổ tế đắc niết bàn thị cố danh tư đà hàm 。
+   　thông viết tu đà hoàn tham thú niết bàn thượng vị đắc niết bàn cố tam sinh ngũ sinh
+   　dĩ cập thất sinh nãi khả đắc chi nhược tư đà hàm dĩ đoạn/đoán dục giới nhất địa lục
+   　phẩm tư hoặc đốn chiếu hiện tiền sắc tướng khởi sắc phân biệt chi kiến tức thị vọng tưởng
+   　sinh tướng ư sinh tướng chi sơ tức dĩ chiếu phá thị vọng nhi vọng kiến chi tướng ư
+   　thị bất sinh vị chi viết đốn chiếu bất giả tư nghị phát khởi quan chiếu phi hư vọng
+   　phân biệt chi kiến dã duy hư vọng chi kiến bất sinh tức thiện kiến thiền na thú vị
+   　đam tịch tĩnh lạc/nhạc/nhạo nhi thế gian chủng chủng vô túc dĩ động kì niệm giả đãn dĩ dư
+   　hoặc vị tận tu nhất vãng thiên thượng nhất lai nhân gian đốn trừ dư hoặc đoạn/đoán khổ biên
+   　tế chúng khổ sở bất đáo tức đắc niết bàn chân lạc/nhạc/nhạo cố danh chi viết nhất vãng lai
+   　vi nhị quả hành tướng dã huyền sa sơ dục biến lịch chư phương sâm tầm tri thức huề
+   　nang xuất lĩnh trúc trước cước chỉ lưu huyết thống sở thán viết thị thân phi hữu thống tùng
+   　hà lai tiện hồi tuyết phong phong vấn na cá thị bị đầu đà sa viết chung bất cảm
+   　cuống ư nhân hựu nhất nhật phong triệu viết bị đầu đà hà bất biến sâm khứ sa viết
+   　đạt ma bất lai đông độ nhị tổ bất vãng tây thiên phong nhiên chi cố năng tự tín
+   　như huyền sa tức thiện kiến thiền thú tướng hựu hà tất vãng lai dã 。
+đại tuệ vân hà a na hàm vị quá khứ vị lai hiện tại sắc tướng tính phi tính sinh
+kiến quá hoạn sứ vọng tưởng bất sinh cố cập kết đoạn/đoán cố danh a na hàm 。
+   　thông viết a na hàm giả dĩ đoạn/đoán tận dục giới nhất địa cửu phẩm tư hoặc đãn sinh
+   　ư sắc giới bất sinh dục giới bỉ quan quá khứ vị lai hiện tại sắc tướng bất đắc
+   　vị chi hữu bất đắc vị chi vô nhược ư kì trung khởi hữu vô phân biệt kiến tức
+   　hữu chư kết sứ sinh diệt quá hoạn hữu vô tướng khuynh vị miễn luân chuyển cố dĩ không
+   　vô lậu trí sứ hữu vô vọng tưởng phân biệt bất sinh vọng tưởng bất sinh tức bất ư
+   　vị lai thụ sinh cập chư cửu phẩm kết sứ đoạn/đoán tận vô phục dục giới sinh duyên cố
+   　danh viết bất lai vi đệ tam quả dã tăng vấn trùng vân 腪thiền sư như hà thị
+   　quy căn đắc chỉ vân viết tảo thị vô khước bất ức trần sinh hựu vấn như hà thị
+   　tùy chiếu thất tông vân viết gia bần tao sa hựu vấn bất ức trần sinh như hà thị
+   　tấn thân nhất lộ vân viết túc hạ dĩ sinh thảo tiền trình vạn trượng khanh lục tổ đạo
+   　diệp lạc quy căn lai thời vô khẩu vân diệc bất mưu nhi hợp đạo tảo thị vô khước
+   　bất ức trần sinh đầu tử tụng vân gia phá nhân vong hà sở y vô tâm vô tự
+   　thoại cầu quy thập niên vô tận lai thời lộ tạm ức ta nhi tổng bất tri thử đoạn
+   　công án túc vi a na hàm truyền thần hĩ 。
+đại tuệ a la hán giả vị chư thiền tam muội giải thoát lực minh phiền não khổ vọng tưởng
+phi tính cố danh a la hán đại tuệ bạch phật ngôn thế tôn thế tôn thuyết tam chủng a
+la hán thử thuyết hà đẳng a la hán thế tôn vi đắc tịch tĩnh nhất thừa đạo vi bồ
+tát ma ha tát phương tiện thị hiện a la hán vi phật hoá hoá (đường vân phật sở biến hoá )phật cáo
+đại tuệ đắc tịch tĩnh nhất thừa đạo thanh văn phi dư (đường vân thử thuyết thú tịch phi thị kì dư )dư giả hành
+bồ tát hành cập phật hoá hoá xảo phương tiện bản nguyện cố ư đại chúng trung thị hiện thụ
+sinh vi trang nghiêm phật quyến thuộc cố 。
+   　thông viết a la hán giả thử vân vô sinh sát tặc ưng cung tức tiền sinh kiến quá
+   　hoạn giai dĩ bất sinh khổ tế dĩ tận vô phục tặc hại tam giới cửu địa tư hoặc
+   　tất đoạn/đoán kham thụ nhân thiên cung dưỡng chí thử vị giả tu hành tứ thiền cập tam tam
+   　muội bát giải thoát đẳng vô bất liễu đạt phân chứng thập lực tam minh lục thông tất dĩ
+   　thành tựu chí ư phiền não phát nghiệp sở kiều chư khổ nhất thiết vô minh vọng tưởng phân
+   　biệt câu vô thật tính dĩ chứng niết bàn bất thụ hậu hữu cố danh a la hán a
+   　la hán hữu tam chủng nhất phật sở hoá nhị bồ tát thị hiện tam thú tịch thanh văn
+   　thử sở thuyết giả nãi thanh văn quả phi dư nhị chủng dã thanh văn đắc tịch tĩnh nhất
+   　thừa đạo nhất thừa giả tức phật thừa dã đãn phật bất nhất hướng thú tịch nhi thanh văn
+   　quyết định tịch diệt thử kì sở dĩ dị nhĩ dư nhị chủng nhân tức hành bồ tát hành
+   　cập phật sở hoá dã nhược phật sở biến hoá a la hán dĩ thiện xảo phương tiện quảng
+   　đại hành nguyện thành thục chúng sinh nhi thị hiện cố nhược bồ tát ư đại chúng trung thụ
+   　sinh a la hán dĩ trang nghiêm quyến thuộc trợ dương xiển hoá hành bồ tát hành cố chính
+   　thị bất đam tịch diệt lạc/nhạc/nhạo xứ dữ định tính thanh văn huýnh nhiên tự biệt thuý vi vô
+   　học thiền sư cung dưỡng la hán thứ tăng vấn đan hà thiêu mộc phật hòa thượng vi thậm
+   　ma cung dưỡng la hán sư viết thiêu dã bất thiêu trước cung dưỡng diệc nhất nhâm cung dưỡng
+   　viết cung dưỡng la hán la hán hoàn lai dã vô sư viết nhữ mỗi nhật hoàn cật phạn
+   　ma tăng vô đối sư viết thiểu hữu linh lợi để ngộ đắc vô học ngữ la hán dữ
+   　phật cập chúng sinh tổng vô sai biệt 。
+đại tuệ ư vọng tưởng xứ chủng chủng thuyết pháp vị đắc quả đắc thiền thiền giả nhập thiền tất
+viễn li cố thị hiện đắc tự tâm hiện lượng đắc quả tướng thuyết danh đắc quả (đường vân ư hư vọng xứ
+thuyết chủng chủng pháp sở vị chứng quả thiền giả cập thiền giai tính li cố tự tâm sở kiến đắc quả tướng cố )phục thứ đại tuệ dục siêu thiền vô
+lượng vô sắc giới giả đương li tự tâm hiện lượng tướng (đường vân ưng li tự tâm sở hiện chư tướng )đại tuệ thụ
+tưởng chính thụ siêu tự tâm hiện lượng giả bất nhiên hà dĩ cố hữu tâm lượng cố 。
+   　thông viết thượng dĩ thuyết tứ quả cánh nhiên tứ quả phi cực quả dã cố phật chỉ xuất
+   　hướng thượng nhất lộ thị chân niết bàn phi tứ quả sở cập thử thượng tứ quả đệ ư
+   　ngoại tự cộng tướng vọng tưởng phân biệt xứ thuyết tam giới cửu phẩm hoặc chủng chủng đối trị
+   　chi pháp sơ nhập lưu vị đắc sơ quả đoạn/đoán lục phẩm hoặc vị đắc nhị quả đoạn/đoán dục
+   　giới hoặc tận vị đắc tam quả kết hoặc bất sinh vị đắc tứ quả tự thiện kiến thiền
+   　thú tiêm nhập đắc niết bàn lạc/nhạc/nhạo sinh tứ thiền thiên tức vị đắc thiền đãn nhất hướng xu
+   　tịch vị đắc tịch diệt hiện tiền nhược tịch diệt hiện tiền giả thiền giả cập thiền năng sở
+   　câu li bản vô sở đắc tứ quả nhân ư vô sở đắc trung vọng hữu chứng đắc thị
+   　hiện đắc tự tâm sở hiện tứ chủng đắc quả chi tướng thuyết danh đắc quả tiền hậu chuyển
+   　tấn tướng bất trừ diệt thị danh ngu phu sở hành thiền phi như lai thanh tịnh thiền dã
+   　nhược dục siêu quá tứ thiền tứ vô lượng tâm tứ vô sắc định sở vị cửu thứ đệ
+   　định giả ư thử siêu xuất kì thượng thị chi vị siêu thiền siêu chi vân giả tức siêu
+   　tự tâm hiện lượng bản lai nhất vô sở hữu chi vị dã cố đương viễn li tự tâm
+   　sở hiện đắc quả chư tướng kiến hữu niết bàn khả đắc tức thị trước tướng nhược vị diệt
+   　thụ tưởng định tức năng siêu tự tâm hiện lượng giả kì nghĩa bất nhiên hà dĩ minh kì
+   　bất nhiên dã bỉ thụ tưởng chính thụ phi đắc chân bất sinh diệt vi nhân địa tâm đãn
+   　ư vọng tưởng xứ chủng chủng thuyết pháp tuy đắc vô tâm do hữu tâm lượng tại cố tất
+   　li tự tâm hiện lượng tướng chí ư pháp giới lượng diệt nãi chân giải thoát thử khởi tứ
+   　quả nhân sở cảm vọng da luận vân hiện tiền lập thiểu vật vị thị duy thức tính dĩ
+   　hữu sở đắc cố phi thật trụ duy thức cố tri đắc quả đắc thiền giả phi cứu cánh
+   　cực quả dã bá trượng vân thuyết đạo dục giới vô thiền diệc thị đái nhất chích nhãn nhân
+   　ngữ kí vân dục giới vô thiền bằng hà đắc chí sắc giới tiên nhân địa thượng tập nhị
+   　chủng định nhiên hậu đắc chí sơ thiền hữu tưởng định vô tưởng định hữu tưởng định sinh sắc
+   　giới tứ thiền đẳng thiên vô tưởng định sinh vô sắc giới tứ không đẳng thiên dục giới chước
+   　nhiên vô thiền thiền thị sắc giới vấn như kim thuyết thử độ hữu thiền như hà trượng vân
+   　bất động bất thiền thị như lai thiền li sinh thiền tưởng hựu hữu pháp sư vấn 鵞hồ
+   　đại nghĩa thiền sư dục giới vô thiền thiền cư sắc giới thử độ bằng hà nhi lập sư
+   　viết pháp sư chi tri dục giới vô thiền bất tri thiền giới vô dục viết như hà thị
+   　thiền sư dĩ thủ điểm không pháp sư vô đối hiến tông viết pháp sư giảng vô cùng kinh
+   　luận chi giá nhất điểm thượng bất nại hà nhược năng minh đắc thử tắc công án tức vị
+   　siêu thiền 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+chư thiền tứ vô lượng vô sắc tam ma đề nhất thiết thụ tưởng diệt tâm lượng bỉ vô hữu
+(tiền ngũ vô gian chủng tính kệ ngôn chư thiền vô lượng đẳng vô sắc tam ma đề thụ tưởng tất tịch diệt diệc vô hữu tâm lượng dữ thử kệ lược canh số tự )tu đà
+bàn na quả vãng lai cập bất hoàn cập dữ a la hán tư đẳng tâm hoặc loạn (thử dữ tiền ngũ
+vô gian chủng tính kệ ngữ đồng )thiền giả thiền cập duyên đoạn/đoán tri kiến chân đế (đường vân thiền giả thiền sở duyên đoạn/đoán hoặc kiến chân đế )
+thử kiến vọng tưởng lượng nhược giác đắc giải thoát 。
+   　thông viết tiền ngũ vô gian chủng tính tiên tụng tứ quả hậu tụng phật thừa dĩ vi cứu
+   　cánh dữ thử thiên trường hành đại ý lược đồng nhi kệ nãi tiên tụng siêu thiền thứ cập
+   　tứ quả thị dĩ giải thoát chi phương diệc tùng hoành ngôn chi tái thân tiền chỉ vân nhĩ
+   　tứ vô lượng tức từ bi hỉ xả tứ vô lượng tâm nãi quảng quả thiên nhân vi trừ
+   　chúng sinh sân não bất duyệt tăng ái cố tu thử tứ tâm sở vị dị sinh hữu lậu
+   　thiền phi đồng phật chi tứ vô lượng tâm dã bỉ thanh văn thừa sở tu tứ thiền tứ
+   　vô lượng vô sắc định nãi chí nhất thiết thụ tưởng diệt định tiện dĩ vi đắc quả tổng
+   　bất li tự tâm sở hiện vọng tưởng tâm lượng nhược thông đạt duy tâm hiện lượng giả nhất
+   　thiết bản lai vô hữu như bỉ đắc quả đắc thiền cửu thứ đệ định giai bất khả đắc
+   　thử chính ý dã tiền vân diệc vô hữu tâm lượng tự hồ vô tâm lượng nhĩ thử vân
+   　tâm lượng bỉ vô hữu đãn bỉ dĩ vi vô nhi thật vị thường vô dã ý diệc vi
+   　uyển tứ quả nhân tâm phi hoặc loạn vị ư hoặc loạn xứ cầu viễn li tức hữu đối
+   　đãi thị diệc hoặc loạn dã cố kì sở đắc thiền định cập thiền định sở duyên chi pháp
+   　hữu năng hữu sở bất li tri kiến phân biệt tri tức thị hoặc đoạn/đoán tri đoạn/đoán hoặc thiện
+   　kiến thiền thú tuy chứng chân đế do lạc thiên không thử tắc vọng tưởng tâm lượng bất li
+   　vọng kiến thủ niết bàn tướng bỉ tuy tự vị năng li sinh tử dĩ vi giải thoát kì
+   　thật vị đắc nhất thiết giải thoát hà dĩ cố bỉ vô nhân ngã kiến phọc thượng hữu pháp
+   　ngã kiến phọc nhược năng giác tri tâm lượng bản vô sở hữu tự tâm sở hiện đắc quả
+   　chi tướng thị vọng phi chân tức năng siêu hồ tâm lượng đắc đại giải thoát hĩ kí siêu
+   　tâm lượng tức siêu tứ quả thị chi vị siêu thiền phật quả cần yết trương vô tận kịch
+   　đàm hoa nghiêm chỉ yếu viết hoa nghiêm hiện lượng cảnh giới lí sự toàn chân sơ vô giả
+   　pháp sở dĩ tức nhất nhi vạn liễu vạn vi nhất nhất phục nhất vạn phục vạn hạo nhiên
+   　mạc cùng tâm phật chúng sinh tam vô sai biệt quyển thư tự tại vô ngại viên dung thử
+   　tuy cực tắc chung thị vô phong táp táp chi ba công ư thị bất giác xúc tháp cần
+   　toại vấn viết đáo thử dữ tổ sư tây lai ý vi đồng vi biệt công viết đồng hĩ
+   　cần viết thả đắc một giao thiệp công sắc vi chi uấn cần viết bất kiến vân môn đạo
+   　sơn hà đại địa vô ti hào quá hoạn do thị chuyển cú bất kiến nhất sắc thuỷ thị
+   　bán đề canh tu tri hữu hướng thượng toàn đề thời tiết bỉ đức sơn lâm tế khởi phi
+   　toàn đề hồ công nãi thủ khẳng nhất nhật phục cử sự pháp giới lí pháp giới chí sự
+   　lí vô ngại pháp giới cần hựu vấn thử khả thuyết thiền hồ công viết chính hảo thuyết thiền
+   　dã cần viết hựu bất nhiên chính thị pháp giới lượng lí tại cái pháp giới lượng vị diệt
+   　nhược đáo sự sự vô ngại pháp giới pháp giới lượng diệt thuỷ hảo thuyết thiền như hà thị
+   　phật kiền thỉ quyết như hà thị phật ma tam cân thị cố chân tịnh kệ viết sự sự
+   　vô ngại như ý tự tại thủ bả trư đầu khẩu tụng tịnh giới sấn xuất dâm phòng vị
+   　hoàn tửu trái thập tự nhai đầu giải khai bố đại công viết mĩ tai chi luận khởi đắc
+   　dị văn hồ minh thử tắc siêu tự tâm hiện lượng chi huyền chỉ khả mặc thức hĩ 。
+phục thứ đại tuệ hữu nhị chủng giác vị quan sát giác cập vọng tưởng tướng nhiếp thụ kế trước
+kiến lập giác (đường vân vị quan sát trí cập thủ tướng phân biệt chấp trước kiến lập trí )đại tuệ quan sát giác giả vị nhược giác
+tính tự tính tướng soát trạch li tứ cú bất khả đắc thị danh quan sát giác đại tuệ bỉ
+tứ cú giả vị li nhất dị câu bất câu hữu vô phi hữu phi vô thường vô thường thị
+danh tứ cú đại tuệ thử tứ cú li thị danh nhất thiết pháp (đường vân thị cố thuyết ngôn nhất thiết pháp li )đại
+tuệ thử tứ cú quan sát nhất thiết pháp ưng đương tu học 。
+   　thông viết thượng ngôn ngu phu hành sở thiền chỉ khiếm nhất giác tự cố viết nhược giác đắc
+   　giải thoát thử ngôn quan sát tướng nghĩa thiền hữu nhị chủng giác vị quan sát giác cập thủ
+   　tướng phân biệt chấp trước kiến lập giác nhị giác tịnh cử giả chính dục thiền giả xả tà
+   　giác nhi quy chính giác dã sở vị quan sát giác giả vi giác nhất thiết pháp tính tự
+   　tính tướng bản lai không tịch liễu bất khả đắc vân hà bất khả đắc vi soát trạch li
+   　tứ cú bất khả đắc bỉ nhị thừa nhân tự tướng cộng tướng ngoại đạo tự tha câu tướng
+   　tổng bất xuất tứ cú kiến lập nhược nhất nhất suy cầu soát trạch thử chư pháp thể tất
+   　cánh phi hữu tất cánh phi vô tất cánh phi diệc hữu diệc vô tất cánh phi phi hữu
+   　phi vô li nhất dị đoạn/đoán thường diệc như thị tứ cú câu li vị hữu nhất pháp chân
+   　thật khả đắc thị danh quan sát giác thử quan sát giác tức ban nhược trí bất đãn quan
+   　nhân vô ngã tinh quan pháp vô ngã bất đãn phiền não chướng tịnh tinh sở tri chướng diệc
+   　tịnh cố tứ cú li tức nhất thiết pháp li siêu quá tam giới sở hữu pháp tức siêu
+   　quá tự tâm hiện lượng sở vị nhược giác đắc giải thoát giả thử giác thị dã ưng đương
+   　tu học bá trượng vân thử ngữ thị chư nhân bản hữu chư phật bồ tát hoán tác thị
+   　châu nhân tùng lai bất thị cá vật bất dụng tri cừ giải cừ bất dụng thị cừ phi
+   　cừ đãn cát đoạn/đoán lưỡng đầu cú cát đoạn/đoán hữu cú bất hữu cú cát đoạn/đoán vô cú bất
+   　vô cú lưỡng đầu tích bất hiện lưỡng đầu tróc nhữ bất trước lượng số quản nhữ bất đắc
+   　bất thị khiếm thiểu bất thị cụ túc phi phàm phi thánh phi minh phi ám bất thị hữu
+   　tri bất thị vô tri bất thị hệ phọc bất thị giải thoát bất thị nhất thiết danh mục
+   　hà dĩ bất thị thật ngữ nhược vi điêu trác hư không tác đắc phật tướng mạo nhược vi
+   　thuyết đạo hư không thị thanh hoàng xích bạch tác đắc như vân pháp vô hữu tỉ vô khả
+   　dụ cố pháp thân vô vi bất đoạ chư số cố vân thánh thể vô danh bất khả thuyết
+   　như thật lí không môn nan thấu dụ như thái mạt trùng xứ xứ năng bạc duy bất năng
+   　bạc ư hoả diễm chi thượng chúng sinh diệc nhĩ xứ xứ năng duyên duy bất năng duyên ư
+   　ban nhược chi thượng thử quan sát giác tức như hoả diễm chúng pháp sở bất năng duyên cố
+   　năng soát trạch li tứ cú bất khả đắc 。
+đại tuệ vân hà vọng tưởng tướng nhiếp thụ kế trước kiến lập giác vị vọng tưởng tướng nhiếp thụ
+kế trước kiên thấp noãn động bất thật vọng tưởng tướng tứ đại chủng tông nhân tướng thí dụ kế
+trước bất thật kiến lập nhi kiến lập thị danh vọng tưởng tướng nhiếp thụ kế trước kiến lập giác
+thị danh nhị chủng giác tướng 。
+   　thông viết tại phật hữu thật trí hữu quyền trí thử quan sát giác tức thật trí dã thử
+   　thủ tướng phân biệt chấp trước kiến lập giác tự quyền trí nhi phi dã quyền trí thông hồ
+   　chúng sinh chủng chủng phân biệt yếu dĩ bất li tự tính vi tông tuy quyền diệc thật dã
+   　nhược bỉ ngoại đạo bất giác tính tự tính tướng liễu bất khả đắc vọng kế chư pháp thật
+   　hữu tự tính ư bỉ kiên thấp noãn động tứ đại chủng tính hư vọng bất thật giả thủ
+   　tướng chấp trước vọng sinh phân biệt kiến lập vi tông kiến kì hữu giả chấp vi thường dĩ
+   　thường vi tông kiến kì vô giả chấp vi vô thường dĩ vô thường vi tông như ngoại đạo
+   　vọng kế chấp thanh vi thường ư thanh minh trung lập lượng vân thanh thị hữu pháp định thường
+   　vi tông nhân vân sở tác tính cố đồng dụ như hư không nhiên nhi hư không phi sở
+   　tác tính tắc nhân thượng bất chuyển dẫn dụ bất tề lập thanh vi thường bất thành nhược phật
+   　pháp trung thanh thị vô thường cố lập lượng vân thanh thị hữu pháp định vô thường vi tông
+   　nhân vân sở tác tính cố đồng dụ như bình bồn tức dĩ kì thuyết phá chi đại đô
+   　vọng tưởng kế độ bất li trần cảnh kì sở vi tông giả phi thật tông sở vị nhân
+   　giả phi thật nhân sở vị dụ giả giai vọng dụ dã kế trước bất thật kiến lập nhi
+   　kiến lập thử tứ cú pháp đồng ư thỏ giác nguyên phi thật hữu nhiếp thụ kế trước khởi
+   　bất thị vọng như thử giác giả phi chính giác dã nhược tri thử giác thị vọng tất cầu
+   　tấn ư quan sát giác nhi hậu khả bá trượng vân bất nhất bất dị bất đoạn/đoán bất thường
+   　bất lai bất khứ thị sinh ngữ tự thị xuất triệt ngữ cú bất minh bất ám bất phật
+   　bất chúng sinh tổng dữ ma dã lai khứ đoạn/đoán thường phật dữ chúng sinh thị tử ngữ biến
+   　bất biến đồng dị đoạn/đoán thường đẳng thị ngoại đạo nghĩa ban nhược ba la mật thị tự kỉ
+   　phật tính nhược thủ trụ tự kỉ tri giác hựu thành tự nhiên ngoại đạo bất dụng thủ như
+   　kim giám giác bất dụng biệt cầu phật nhược canh biệt cầu hựu thuộc nhân duyên ngoại đạo thử
+   　độ sơ tổ vân tâm hữu sở thị tất hữu sở phi nhược quý nhất vật tắc bí nhất
+   　vật hoặc nhược trùng nhất vật tắc bí nhất vật hoặc tín bí tín hoặc bất tín hựu thành
+   　báng mạc quý mạc bất quý mạc tín mạc bất tín phật diệc bất thị vô vi tuy bất
+   　thị vô vi hựu bất thị minh mạc do như hư không phật thị đại thân chúng sinh giám
+   　giác thanh tịnh tham sân quỷ tróc tha bất trước cố giám giác thanh tịnh giả danh quan sát
+   　giác tâm hữu sở thị giả danh thủ tướng phân biệt giác thử nhị giác cố hữu ban 。
+nhược bồ tát ma ha tát thành tựu thử nhị giác tướng nhân pháp vô ngã tướng cứu cánh thiện
+tri phương tiện vô sở hữu giác quan sát hành địa đắc sơ địa (đường vân tri thử trí tướng tức năng thông đạt nhân pháp
+vô ngã dĩ vô tướng trí ư giải hành địa thiện xảo quan sát nhập ư sơ địa )nhập bá tam muội đắc sai biệt tam muội kiến bá
+phật cập bá bồ tát tri tiền hậu tế các bá kiếp sự quang chiếu bá sa độ tri thượng
+thượng địa tướng đại nguyện thù thắng thần lực tự tại pháp vân quán đỉnh đương đắc như lai tự
+giác địa thiện hệ tâm thập vô tận cú thành thục chúng sinh chủng chủng biến hoá quang minh trang
+nghiêm đắc tự giác thánh lạc/nhạc/nhạo tam muội chính thụ 。
+   　thông viết thành tựu nhị giác tướng giả phi nhị câu thành tựu đệ chiếu phá vọng tưởng giác
+   　thành tựu quan sát giác nhĩ tứ cú kí li đắc pháp vô ngã nhân pháp vô ngã cứu
+   　cánh phương tiện vô sở hữu phi nhất hướng thị vô dã tức dĩ thử vô tướng trí quan
+   　sát giải hành địa sở vị tín trụ hành hướng nhất nhất thiện xảo quan sát nhập ư sơ
+   　địa đắc bá tam muội y thắng tam muội lực cố nhi đắc chứng nhập nhiếp luận vân bồ
+   　tát nhập sơ địa thời chứng thập bá minh môn ư nhất sa na khoảnh nhất chứng bá tam
+   　ma địa nhị dĩ tịnh thiên nhãn kiến bá phật quốc tam dĩ thần thông lực năng động bá
+   　phật thế giới tứ năng vãng bá phật sa giáo hoá chúng sinh ngũ năng dĩ nhất thân hoá
+   　bá loại thân hình linh hữu tình kiến diệc năng thành tựu bá loại sở hoá hữu tình thất
+   　nhược vi lợi ích năng lưu thân trụ thế bá sa bát năng tri tiền hậu tế bá sa
+   　sự cửu năng dĩ trí tuệ nhập bá pháp minh môn đỗng đạt hiểu liễu thập năng dĩ thân
+   　quan bá loại quyến thuộc dư địa bội bội tăng thắng do sơ địa nhi thượng dĩ đại nguyện
+   　thù thắng lực thần thông tự tại lực tiêm thứ tăng tấn chí pháp vân địa danh quán đỉnh
+   　bồ tát đương thiệu phật vị đắc đẳng diệu nhị giác địa thiện hệ tâm thập vô tận cú
+   　giả sở vị chúng sinh giới vô tận thế giới vô tận hư không giới vô tận pháp giới
+   　vô tận niết bàn giới vô tận phật xuất hiện vô tận như lai trí vô tận tâm sở
+   　duyên vô tận phật trí sở nhập vô tận chuyển pháp luân trí vô tận giai dĩ vô công
+   　dụng hành quảng độ chúng sinh linh kì thành thục do thị chủng chủng biến hoá vi hoá thân
+   　phật quang minh trang nghiêm vi báo thân phật đắc tự giác thánh lạc/nhạc/nhạo tam muội chính thụ vi
+   　pháp thân phật tam thân thành tựu tức như lai tự giác địa dã tiền đại tuệ sở vấn
+   　độ chư địa tướng cứu cánh thông đạt đắc chư như lai bất tư nghị cứu cánh cảnh giới
+   　như chúng sắc ma ni thiện năng nhiêu ích nhất thiết chúng sinh thử đáp lược tận bá trượng
+   　vân xúc ác trụ ác danh chúng sinh giác xúc thiện trụ thiện danh thanh văn giác bất trụ
+   　thiện ác nhị biên bất y trụ tương vi thị giả danh nhị thừa giác diệc danh tị chi
+   　phật giác kí bất y trụ thiện ác nhị biên diệc bất tác bất y trụ tri giải danh
+   　bồ tát giác kí bất y trụ diệc bất tác vô y trụ tri giải thuỷ đắc danh vi
+   　phật giác như vân phật bất trụ phật danh chân phúc điền nhược ư thiên vạn nhân trung hốt
+   　hữu nhất nhân đắc giả danh vô giá bảo năng ư nhất thiết xứ vi đạo sư vô phật
+   　xứ vân thị phật vô pháp xứ vân thị pháp vô tăng xứ vân thị tăng danh chuyển đại
+   　pháp luân chỉ thử số cú cai tận thử thiên vi chỉ 。
+phục thứ đại tuệ bồ tát ma ha tát đương thiện tứ đại tạo sắc vân hà bồ tát thiện
+tứ đại tạo sắc đại tuệ bồ tát ma ha tát tác thị giác bỉ chân đế giả tứ đại
+bất sinh ư bỉ tứ đại bất sinh tác như thị quan sát quan sát dĩ giác danh tướng vọng
+tưởng phân tề tự tâm hiện phân tề ngoại tính phi tính thị danh tâm hiện vọng tưởng phân tề
+vị tam giới (đường vân quan bỉ chư đại chủng chân thật bất sinh dĩ chư tam giới đãn thị phân biệt duy tâm sở hiện vô hữu ngoại vật )quan bỉ tứ
+đại tạo sắc tính li tứ cú thông tịnh li ngã ngã sở như thật tướng tự tướng phân đoạn
+trụ vô sinh tự tướng thành (đường vân trụ như thật xứ thành vô sinh tướng )。
+   　thông viết nhân thượng ngôn ngoại đạo kế trước tứ đại chủng kiến lập tông nhân dụ tam chi
+   　pháp bất thật vị phi chân như thật tế phân tề dã cố giáo bồ tát tu học quan
+   　sát giác đương thiện tứ đại tạo sắc bất đương ư tứ đại quan tứ đại nhi đương ư
+   　chân đế quan tứ đại dã bỉ chân như thật tế trung nhất vật bất hữu tứ đại bản
+   　tự bất sinh tứ đại kí bản bất sinh tứ đại tùng hà tạo sắc nhi hữu tứ trần
+   　tướng hồ tác như thị quan sát dĩ tức giác tri tứ đại danh tướng vọng tưởng phân tề
+   　tức thị tự tâm hiện lượng phân tề dĩ kiến ngoại trần vô hữu thật vật duy thị nhất
+   　tâm sở hiện vị tam giới chủng chủng danh tướng đãn thị danh tự phân biệt tâm kiến thị
+   　danh tự tâm sở hiện vọng tưởng phân tề như thị quan thời ngoại tính phi hữu tứ đại
+   　nguyên vô đại chủng sở tạo tất giai tính li sở vị tam giới li ư tứ đại cập
+   　trần tướng kiến liễu vô tự tính khả đắc tức chân thật bất sinh hà sở dong kiến lập
+   　tứ cú pháp hồ siêu quá tứ cú kiến kiến thanh tịnh pháp tức vô năng tạo tứ đại
+   　giả nhi vi chi ngã diệc vô sở tạo tứ đại giả nhi vi chi ngã sở li ngã
+   　ngã sở phân biệt câu dân tức trụ ư chân như thật tế tự tướng pháp trung sở vân
+   　trụ như thật tự tướng pháp trung giả vị trụ ư kiến lập chư pháp phân đoạn sinh tử
+   　pháp trung như thật tự tướng bản tự bất sinh phân đoạn sinh tử tuy sinh nhi bất sinh
+   　bất tất bát vô tứ đại nhi vô sinh tự tướng thành ư kì trung hĩ tức tứ đại
+   　phi tứ đại cố viết thiện tứ đại tạo sắc tăng vấn tử ngọc sơn đạo thông thiền sư
+   　như hà xuất đắc tam giới khứ sư viết nhữ tại lí hứa đa thiểu thời dã viết như
+   　hà đắc li sư viết thanh sơn bất ngại bạch vân phi tất như thị kiến đắc phương khả
+   　ngữ thiện tứ đại tạo sắc hĩ 。
+đại tuệ bỉ tứ đại chủng vân hà sinh tạo sắc vị tân nhuận vọng tưởng đại chủng sinh nội
+ngoại thuỷ giới kham năng (ngụy vân noãn tăng trường lực )vọng tưởng đại chủng sinh nội ngoại hoả giới phiêu động vọng
+tưởng đại chủng sinh nội ngoại phong giới đoạn/đoán tiệt sắc (đường vân sắc phân đoạn )vọng tưởng đại chủng sinh nội
+ngoại địa giới sắc cập hư không câu kế trước tà đế ngũ âm tập tụ tứ đại tạo sắc
+sinh đại tuệ thức giả nhân lạc/nhạc/nhạo chủng chủng tích cảnh giới cố dư thú tướng tục đại tuệ địa
+đẳng tứ đại cập tạo sắc đẳng hữu tứ đại duyên phi bỉ tứ đại duyên sở dĩ giả hà
+vị tính hình tướng xứ sở tác phương tiện vô tính đại chủng bất sinh đại tuệ tính hình tướng
+xứ sở tác phương tiện hòa hợp sinh phi vô hình (đường vân hà dĩ cố vị nhược hữu pháp hữu hình tướng giả tắc thị sở tác phi
+vô hình giả )thị cố tứ đại tạo sắc tướng ngoại đạo vọng tưởng phi ngã 。
+   　thông viết thiện tứ đại tạo sắc giả dĩ chân đế quan sát tứ đại bản tự bất sinh
+   　bất thiện tứ đại tạo sắc giả dĩ tà đế kế trước vị tứ đại năng sinh năng tạo
+   　sắc bất tri tứ đại vi sở sinh nhi phi năng sinh dã tứ đại vi sở tạo nhi
+   　phi năng tạo dã nhược dĩ vọng tưởng phân biệt vị tân nhuận thành thuỷ diễm thịnh thành hoả
+   　phiêu động thành phong sắc chất thành độ nội vi chính báo ngoại vi y báo tứ đại ư
+   　thị hồ sinh thị dĩ thấp nhuận đẳng vi năng tạo dã thử hệ vọng tưởng phân biệt dĩ
+   　sắc cộng hư không sinh nội ngoại tướng do chấp trước hư vọng nội ngoại tà kiến như ngoại
+   　đạo sở chấp tà đế vị tùng thần ngã vi minh sơ sinh đế tùng minh sinh giác tùng
+   　giác sinh ngã tâm tùng ngã tâm sinh ngũ trần tùng ngũ trần sinh ngũ đại tùng ngũ đại
+   　sinh thập nhất căn sở vân ngũ đại tức tứ đại cập hư không dã sở vân thập nhất
+   　nhãn tức ngũ âm dã bỉ vị ngũ đại sinh thập nhất căn thị dĩ sắc cập hư không
+   　hòa hợp nhi ngũ âm tích tụ chi tướng tùng tứ đại tạo sắc sinh dã ngũ âm trung
+   　sắc âm tứ đại hợp thành do khả ngôn tạo thụ tưởng hành thức tứ âm bản phi sắc
+   　dã khởi tứ đại sở năng tạo hồ thả ngũ âm trung thức âm giả nhân ái lạc/nhạc/nhạo lục
+   　trần chủng chủng hữu tích cảnh giới niêm đam phát tri tham trước bất xả cố ư dư thú
+   　thụ sinh cảm y chính báo tướng tục bất đoạn/đoán thị thức năng ư dư thú sinh tứ đại
+   　phi tứ đại năng ư dư thú tướng tục dã nhược thức quả do tứ đại tạo sắc sinh
+   　giả kì sắc diệt thời thức ưng hưng chi câu diệt thùy vi dư thú tướng tục luân chuyển
+   　bất tức hồ do thử ngôn chi bỉ địa đẳng tứ đại cập sở tạo ngũ uẩn trung sắc
+   　pháp đẳng tự hữu dữ bỉ vi duyên giả phi bỉ tứ đại năng tự vi duyên dã tứ
+   　đại do bát pháp thành tựu kiên thấp noãn động vi năng sắc hương vị xúc vi sở giai
+   　dĩ vọng tưởng vi nhân tứ đại duyên chi nhi khởi tuần nghiệp phát hiện giai do ư thức
+   　thị thức năng đái nghiệp nhi sinh sắc phi sắc năng tạc không nhi sinh thức dã sắc bất
+   　năng sinh thức kì bất năng tự vi duyên nhi tạo sắc dã thẩm hĩ tứ đại sở dĩ
+   　bất năng tạo sắc giả kì cố hà dã vị ư tứ đại tân nhuận đẳng tính sắc tướng
+   　các biệt đẳng hình cập sở tạo tác đẳng phương tiện cầu kì tự tính giai bất khả đắc
+   　tứ đại bản vô tình chi vật vô tình kí vô chủng vô tính diệc vô sinh cố viết
+   　đại chủng bất sinh kí bản bất sinh thùy vi năng tạo tức sứ năng tạo bỉ hữu tính
+   　hình tướng xứ giả khả dĩ sở tác phương tiện hòa hợp nhi sinh phi năng sinh vô hình
+   　giả nhược thụ tưởng hành thức cố vô hình giả khởi tính hình tướng xứ sở tác phương tiện
+   　hữu hình chi pháp nhi năng sinh hồ kí bất năng sinh vô hình giả diệc tất bất năng
+   　sinh hữu hình giả cố vị ngũ âm tập tụ tứ đại tạo sắc sinh thị ngoại đạo vọng
+   　tưởng tướng nhiếp thụ kế trước bất thật kiến lập nhi kiến lập phi ngã tứ đại bất sinh
+   　tác như thị quan sát giác chi vị dã tăng vấn lâm tế như hà thị tứ chủng vô
+   　tướng cảnh tế viết nễ nhất niệm tâm nghi bí địa lai ngại nễ nhất niệm tâm ái bí
+   　thuỷ lai nịch nễ nhất niệm tâm sân bí hoả lai thiêu nễ nhất niệm tâm hỉ bí phong
+   　lai phiêu nhược năng như thị ban đắc bất bí cảnh chuyển xứ xứ dụng cảnh đông dũng tây
+   　một nam dũng bắc một trung dũng biên một biên dũng trung một lí thuỷ như địa nhập địa
+   　như thuỷ duyên hà như thử vi đạt tứ đại như mộng như ảo cố đạo lưu nễ chi
+   　kim thính pháp giả bất kiến nễ tứ đại năng dụng nễ tứ đại nhược như thị kiến đắc
+   　tiện nãi khứ trụ tự do lâm tế đỗng kiến chân đế liễu đạt tứ đại như mộng như
+   　ảo bất vi tứ đại sở ngại thị chân năng trụ như thật pháp trung giả 。
+phục thứ đại tuệ đương thuyết chư âm tự tính tướng vân hà chư âm tự tính tướng vị ngũ
+âm vân hà ngũ vị sắc thụ tưởng hành thức bỉ tứ âm phi sắc vị thụ tưởng hành thức
+đại tuệ sắc giả tứ đại cập tạo sắc các các dị tướng đại tuệ phi vô sắc hữu tứ
+số như hư không thí như hư không quá số tướng li ư số nhi vọng tưởng ngôn nhất hư
+không đại tuệ như thị âm quá số tướng li ư số li tính phi tính li tứ cú số
+tướng giả ngu phu ngôn thuyết phi thánh hiền dã đại tuệ thánh giả như ảo chủng chủng sắc tượng
+li dị bất dị thí thiết hựu như mộng ảnh sĩ phu thân li dị bất dị cố đại tuệ
+thánh trí thú đồng âm vọng tưởng hiện (ngụy vân như thánh nhân trí tu hành phân biệt kiến ngũ âm hư vọng đường vân bất liễu thánh trí sở hành cảnh
+cố kiến hữu chư âm phân biệt hiện tiền )thị danh chư âm tự tính tướng nhữ đương trừ diệt diệt dĩ thuyết tịch
+tĩnh pháp đoạn/đoán nhất thiết phật sa chư ngoại đạo kiến đại tuệ thuyết tịch tĩnh thời pháp vô ngã
+kiến tịnh cập nhập bất động địa nhập bất động địa dĩ vô lượng tam muội tự tại cập đắc
+ý sinh thân đắc như ảo tam muội thông đạt cứu cánh lực minh tự tại cứu nhiếp nhiêu ích
+nhất thiết chúng sinh do như đại địa tái dục chúng sinh bồ tát ma ha tát phổ tế chúng
+sinh diệc phục như thị 。
+   　thông viết nhân thượng ngôn ngũ âm tập tụ tứ đại tạo sắc sinh thị ngoại đạo kế trước
+   　tà đế tứ đại bản tự bất sinh tiền dĩ minh tất ngũ âm diệc bản phi hữu kim
+   　đương thuyết chi sắc vị tứ đại cập sở tạo sắc tứ đại ngoại tứ đại dã tạo sắc
+   　nội tứ đại dã thử chư tướng các dị bỉ thử bất tướng đồng sắc nhược y tứ đại
+   　sinh giả y địa thuỷ tắc vi hoả phong y hoả phong tắc vi địa thuỷ tứ đại cố
+   　bất năng sinh sắc dã phi sắc tứ uẩn vô hữu hình tướng do như hư không vân hà
+   　đắc thành tứ chủng số tướng bản vô tứ số nhi danh vi tứ uẩn giả thí như hư
+   　không siêu quá số tướng phi số chi sở năng tận bản li ư số phi số chi sở
+   　khả cập đãn dĩ hư vọng phân biệt ngôn thử thị hư không đãn nhất hư không nhĩ như
+   　thị vô sắc tứ âm diệc quá ư số tướng li ư số tướng li ư hữu vô li
+   　ư tứ cú liễu vô số tướng khả đắc nhi vọng tưởng phân biệt vị thử thị thụ thử
+   　thị tưởng thử thị hành thử thị thức kì thật bản vô tứ âm dã thử ư phi số
+   　tướng trung tác số tướng hội bất đạt chân không lí thú nãi ngu phu ngôn thuyết phi thánh
+   　hiền chân đế giác dã nhược thánh trí quan sát hiện tiền chủng chủng sắc tượng như ảo bất
+   　thật sở vị liễu đạt duyên sinh vô tính kì thể giai không bất ư sắc tượng thượng tác
+   　nhất dị đẳng kiến duy y giả danh thí thiết thuyết chư tướng như ảo nhĩ vân hà li
+   　dị bất dị như mộng trung sĩ phu chi thân hựu như kính trung sĩ phu chi ảnh dĩ
+   　vi dị tắc thể bản vô nhị cố phi dị dã dĩ vi bất dị tắc chân vọng lịch
+   　nhiên hựu phi bất dị dã cố thuyết như ảo vô biệt sở hữu như thánh nhân trí sở
+   　hành cảnh giới kiến sắc như ảo diệc đồng phi sắc tứ âm hư vọng phân biệt hiện nhĩ
+   　nhược kiến hữu chư âm phân biệt hiện tiền kì hà dĩ ngữ trí hồ cố dĩ hư không
+   　lệ phi sắc tứ âm đãn dĩ hư vọng lập danh thử phi sắc tứ âm tự tính tướng
+   　dã trừ diệt số lượng tức bản hư không dĩ phi sắc tứ âm lệ sắc âm đãn như
+   　ảo sự duy giả thí thiết thử sắc âm tự tính tướng dã trừ diệt ảo cảnh diệc bản
+   　hư không nhữ đẳng năng li ngũ âm hư vọng phân biệt chi tướng đương thể tức thị tịch
+   　diệt kí chứng vô sinh tức năng thuyết tịch tĩnh chi pháp sở vị tịch tĩnh giả bất li
+   　sinh diệt chứng bất sinh diệt phi đồng ngoại đạo li sinh diệt pháp nhi biệt hữu sở vị
+   　tịch tĩnh giả dã cố năng đoạn/đoán nhất thiết sa chư ngoại đạo tà kiến ngoại đạo tà kiến
+   　đãn đắc nhân vô ngã vị đắc pháp vô ngã cố vi bất tịnh chi kiến kim thuyết tịch
+   　tĩnh pháp thời bất đãn đắc pháp vô ngã tức hữu pháp vô ngã kiến diệc tiêu dung thanh
+   　tịnh nhập ư đệ bát bất động địa kí nhập bát địa dĩ chứng hậu đắc trí vô lượng
+   　tam muội tự tại đắc ý sinh thân tùy ý sở vãng đắc như ảo tam muội biến hiện
+   　vô cùng thần thông tam minh thập lực tự tại thông đạt cứu cánh dĩ từ bi nguyện lực
+   　nhiêu ích chúng sinh đương cứu hộ giả cứu chi đương nhiếp thụ giả nhiếp chi do như thiên
+   　địa tái dục vạn vật vô bất trì tái vô bất phát dục phổ tế chúng sinh diệc như
+   　thị dã chỉ vi chúng sinh vi ngũ âm sở phú bất đắc xuất thân chi lộ bồ tát
+   　chiếu kiến ngũ âm giai không cố năng độ nhất thiết khổ ách khởi như ngoại đạo đam tịch
+   　diệt lạc/nhạc/nhạo nhi vô tế sinh chi tâm giả hồ vĩnh gia vân minh tri nhất niệm chi trung
+   　ngũ uẩn giả vị lịch lịch phân minh tức thị thức âm lĩnh nạp tại tâm tức thị thụ
+   　âm tâm duyên thử lí tức thị tưởng âm hành dụng thử lí tức thị hành âm uế ô
+   　chân tính tức thị sắc âm thử ngũ âm giả cử thể tức thị nhất niệm nhất niệm giả
+   　cử thể tức thị ngũ âm lịch lịch kiến tại nhất niệm chi trung vô hữu chủ tể tức
+   　thị nhân không tuệ kiến như ảo hoá tức thị pháp không tuệ như vĩnh gia sở ngôn nhân
+   　không pháp không ám dữ thử kinh phù nghi hồ vi lục tổ sở trùng 。
+phục thứ đại tuệ chư ngoại đạo hữu tứ chủng niết bàn vân hà vi tứ vị tính tự tính
+phi tính niết bàn chủng chủng tướng tính phi tính niết bàn tự tướng tự tính phi tính giác niết
+bàn chư âm tự cộng tướng tướng tục lưu chú đoạn/đoán niết bàn thị danh chư ngoại đạo tứ chủng
+niết bàn phi ngã sở thuyết pháp đại tuệ ngã sở thuyết giả vọng tưởng thức diệt danh vi niết
+bàn (đường vân phân biệt nhĩ diễm thức niết danh vi niết bàn )。
+   　thông viết nhân thượng ngôn thuyết tịch tĩnh pháp đoạn/đoán nhất thiết phật sa chư ngoại đạo kiến cố
+   　thuyết chư ngoại đạo tà kiến hữu tứ chủng niết bàn tuy tự ư tịch tĩnh phi ngã sở
+   　thuyết pháp dã tứ giả vân hà nhất tự thể tướng niết bàn vị chư pháp tự tính vô
+   　tính tức minh đế dã nhị chủng chủng tướng hữu phi hữu niết bàn bỉ kế tứ đại chủng
+   　hữu dĩ hoàn diệt thị dĩ diệt tướng vi niết bàn dã tự tha tướng diệt do hữu giác
+   　tồn tam tự giác tướng tính phi tính niết bàn bỉ kế vi trần tự tướng nhi hữu tri
+   　giác thảo mộc vi nhân vô tri nhi hữu tri nhân vi thảo mộc hữu tri nhi vô tri
+   　thị dĩ diệt giác vi niết bàn dã tri giác thể diệt lưu chú do tồn tứ ư chư
+   　âm tự cộng tướng đoạn/đoán tinh tướng tục lưu chú diệc đoạn/đoán niết bàn ngũ âm các hữu tự
+   　thể tức thị tự tướng đồng nhất âm thể tức thị cộng tướng bát thức lưu chuyển tự vô
+   　thuỷ dĩ lai thị diệt bất đắc giả bỉ vị tướng tục diệt lưu chú diệc diệt thị dĩ
+   　diệt thức vi niết bàn dã như thượng chủng chủng tướng niết bàn đãn sắc âm diệt nhĩ giác
+   　tự tướng niết bàn đãn tưởng âm diệt nhĩ tự thể tính niết bàn đãn thụ âm diệt nhĩ
+   　tướng tục lưu chú đoạn/đoán niết bàn đãn hành âm diệt nhĩ bỉ kiến tướng tục thức đoạn/đoán tiện
+   　vị vô thuỷ lưu chú diệc đoạn/đoán dĩ diệt nghiên cùng ư vô tận trung phát tuyên tận tính
+   　giai vọng tưởng phân biệt hữu niết bàn tướng khả đắc thật bất xuất thức âm khu vũ phi
+   　ngã sở thuyết chân niết bàn dã ngã sở thuyết chân niết bàn giả tức bỉ chủng chủng thủ
+   　tướng vọng tưởng phân biệt vị li hồ thức giả tiêu diệt tịnh tận nãi danh niết bàn tiền
+   　vân chứng tự trí cảnh giới chuyển sở y tạng thức vi đại niết bàn hựu vân nhất thiết
+   　thức tự tính tập khí tạng ý ý thức kiến tập chuyển dĩ ngã cập chư phật thuyết danh
+   　niết bàn tiền vân chuyển thử vân diệt duy chuyển tư diệt duy diệt tư chuyển tiên hậu nhất
+   　triệt đương thiện hội chi túc tông vấn trung quốc sư bá niên hậu sở tu hà vật sư
+   　vân dữ lão tăng tác cá vô phúng đáp đế vân thỉnh sư đáp dạng sư lương cửu vân
+   　hội ma đế vân bất hội sư vân ngô hữu phó pháp đệ tử đam nguyên khước am thử
+   　sự hậu đế chiếu đam nguyên vấn thử ý như hà nguyên viết tương chi nam đàm chi bắc
+   　trung hữu hoàng kim sung nhất quốc vô ảnh thụ hạ hợp đồng thuyền lưu li điện thượng vô
+   　tri thức thiên đồng tụng vân cô huýnh huýnh viên đà đà nhãn lực tận xứ cao nga nga
+   　nguyệt lạc đàm không dạ sắc trùng vân thâu sơn sấu thu dong đa bát quái vị chính ngũ
+   　hành khí hòa thân tiên tại lí kiến lai ma nam dương phụ tử hề khước tự tri hữu
+   　tây trúc phật tổ hề vô như nại hà liễu thử tắc tri phật sở thuyết niết bàn tướng
+   　hĩ 。
+đại tuệ bạch phật ngôn thế tôn bất kiến lập bát thức da phật ngôn kiến lập đại tuệ bạch
+phật ngôn nhược kiến lập giả vân hà li ý thức phi thất thức phật cáo đại tuệ bỉ nhân
+cập bỉ phàn duyên cố thất thức bất sinh (đường vân vân hà đãn thuyết ý thức diệt phi thất thức diệt phật cáo đại tuệ dĩ bỉ vi nhân cập
+sở duyên cố thất thức câu sinh )ý thức giả cảnh giới phân đoạn kế trước sinh tập khí trường dưỡng tạng thức
+ý câu ngã ngã sở kế trước tư duy nhân duyên sinh bất hoại thân tướng (đường vân ý thức phân biệt cảnh giới
+khởi chấp trước thời sinh chư tập khí trường dưỡng tạng thức do thị ý câu ngã ngã sở chấp tư lượng tùy chuyển vô biệt thể tướng )tạng thức nhân phàn duyên tự
+tâm hiện cảnh giới kế trước tâm tụ sinh triển chuyển tướng nhân thí như hải lang tự tâm hiện
+cảnh giới phong xuy nhược sinh nhược diệt diệc như thị thị cố ý thức diệt thất thức diệc diệt 。
+   　thông viết phật ngôn vọng tưởng thức diệt danh vi niết bàn ngữ ý thâm viễn dĩ hư minh
+   　dung thông vọng tưởng luận tắc vọng tưởng phân biệt đãn thuộc ngũ thức lục thức dĩ u ẩn
+   　võng tượng vọng tưởng luận tắc vọng tưởng khởi diệt diệc thuộc thất thức bát thức bát thức lưu
+   　chú tuy bất khả diệt nhiên chuyển sinh diệt y bất sinh diệt tức vi bạch tịnh thức dã
+   　đại tuệ nhân phật bất ngôn chuyển nhi ngôn diệt toại nghi bát thức câu khả diệt bất phục
+   　kiến lập da phật ngôn bát thức thị như lai tạng thị diệt bất đắc giả cố viết kiến
+   　lập nhược kiến lập giả hữu bát thức tức hữu thất thức hữu thất thức tức hữu lục thức
+   　bát thức cố bất khả diệt vân hà độc thuyết li phân biệt ý thức phi li thất thức
+   　da phật ngôn dĩ bỉ bát thức vi nhân cập bỉ lục thức vi duyên cố thất thức truyền
+   　tống kì gian bản vô tự thể sinh tức bất sinh kì hữu dã y bỉ niệm hữu tắc
+   　hữu kì vô dã y bỉ niệm vô tắc vô cố lục thức duyên diệt thất thức diệc diệt
+   　phi li ý thức ngoại hựu li thất thức dã thất thức hà dĩ dữ tạng thức ý thức
+   　câu da ý thức giả cố phân biệt tiền ngũ phân đoạn cảnh giới nhi đắc danh đương phân
+   　biệt thời tức khởi kế trước sinh chư tập khí trường dưỡng ư tạng thức trung thị hiện hành
+   　huân chủng tử thất thức truyền tống nhi nhập ý tức dữ bát thức câu dã do thị ý
+   　câu tiện sinh ngã chấp nhân nhi kế trước thử thị ngã bất li bát thức chủ tể thử
+   　thị ngã sở bất li lục thức cảnh giới tư lượng tùy chuyển do nội đạt ngoại nhi nhân
+   　duyên sinh hĩ nhân giả nhân bát thức duyên giả duyên lục thức thị dĩ chủng tử huân hiện
+   　hành nhi ý tức dữ lục thức câu dã nội dữ bát thức câu ngoại dữ lục thức câu
+   　vô biệt thể tướng nhiên hữu truyền tống ảnh minh tùy lục nhập nội ngoại môn chuyển vị chi
+   　chuyển thức diệc danh thất thức nhược dĩ vô biệt thể cố bất lập thất thức chi danh thị
+   　hoại tướng dã cố viết bất hoại thân tướng bỉ tạng thức hà dĩ vi nhân dã tạng thức
+   　tức thị tự tâm lục trần nãi tự tâm sở hiện tướng phân dã ngũ lục thất thức nãi
+   　tự tâm sở hiện kiến phân dã nhân lục thức phàn duyên tự tâm sở hiện cảnh giới hình
+   　tướng phân đoạn tức thị tiền ngũ sở nhiếp kế trước bất xả huân thành chủng tử tức thị
+   　thất thức sở nhiếp dĩ thử tích tụ ư tâm tức thị tập khởi danh chi viết tâm tích
+   　tụ đa sinh chủng tử ư trung bất thời phát sinh ư ngoại do nội huân ngoại do ngoại
+   　huân nội triển chuyển tướng nhân nhi dĩ tạng thức vi chủ tể cố vị bát thức vi nhân
+   　nhi lục thức vi duyên dã thí như hải lang nhiên tạng thức do hải dã thất thức do
+   　lang dã ý thức bôn dật lục trần tức vi cảnh giới phong sở động dã cố cảnh giới
+   　phong xuy tức kiến hải lang sinh cảnh giới phong tức tức kiến hải lang diệt thị hải bản
+   　vô sinh diệt nhân phong cổ lang nhi kiến lang sinh lang diệt tạng thức diệc vô sinh diệt
+   　nhân ý thức trục cảnh nhi kiến ý sinh ý diệt thị cố ý thức diệt thất thức diệc
+   　diệt thử thất thức diệt đãn tựu bán phân y phàn duyên giả nhi ngôn diệt nhĩ nhược tạng
+   　thức bản tự bất sinh cố diệc bất diệt thất thức bán phân vi tế y a lại da
+   　thức giả diệc tự bất sinh bất diệt tiền ngôn thất thức bất sinh thử ngôn thất thức diệc
+   　diệt hỗ văn nhĩ tăng vấn trường sa sầm viết đệ lục đệ thất thức dữ đệ bát thức
+   　tất cánh vô thể vân hà đắc danh chuyển đệ bát vi đại viên kính trí sầm thị kệ
+   　viết thất sinh y nhất diệt nhất diệt trì thất sinh nhất diệt diệt diệc diệt lục thất vĩnh
+   　vô thiên trường sa vị bát thức diệc diệt tức thị tịch diệt cảnh giới 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+ngã bất niết bàn tính sở tác cập dữ tướng vọng tưởng nhĩ diễm thức thử diệt ngã niết bàn
+bỉ nhân bỉ phàn duyên ý thú đẳng thành thân dữ nhân giả thị tâm vi thức chi sở y
+như thuỷ đại lưu tận ba lang tắc bất khởi như thị ý thức diệt chủng chủng thức bất sinh 。
+   　thông viết ngoại đạo hữu tứ chủng niết bàn giai hữu niết bàn tính khả đắc tổng bất li
+   　sở tác pháp phi vô tướng giả ngã bất thủ niết bàn diệc bất xả tác tướng bất như
+   　bỉ ngoại đạo sở thuyết duy vọng tưởng phân biệt cảnh thức sở vị nhĩ diễm thức giả giai
+   　dĩ diệt tận chuyển diệt hư vọng tâm chứng bất sinh diệt tính thử tắc ngã sở thuyết niết
+   　bàn dã nhiên ngoại đạo niết bàn chí vị tướng tục lưu chú diệc đoạn/đoán bất tri thất thức
+   　khả diệt nhi bát thức bất khả diệt dã cố bỉ thất thức dĩ bát thức vi nhân dĩ
+   　lục thức vi phàn duyên nhi ý thú truyền tống xuất nhập tuy vô biệt thể nhiên ý thú
+   　chuyển động xứ tức thị thân tướng sở dĩ dữ chi vi nhân giả bát thức tự tâm thị
+   　dã thị tâm nãi chúng nghiệp sở tập vi chư thức chi sở y chỉ cố thất thức y
+   　chi nhi kế trước lục thức y chi nhi phân biệt ngũ thức y chi nhi lãm cảnh nhất
+   　thiết vạn pháp giai tùng thử khởi cố danh chi viết như lai tạng dã như lai tạng tức
+   　thị niết bàn tự thể bản tự bất sinh cố diệc bất diệt đệ do ý thức lãm cảnh
+   　toại sinh kế trước niệm khởi niệm diệt vô khoảnh khắc đình do như đại hải ba lang phong
+   　bất tức cố lang bất tức dã trường hành ngôn lang thử ngôn ba trường hành chỉ ngôn thất
+   　thức diệt thử ngôn chủng chủng thức bất sinh trường hành chỉ ngôn cảnh giới phong thử ngôn đại
+   　lưu tận giai hữu thâm chỉ cảnh giới phong dụ lục thức lang dụ thất thức hà dĩ hựu
+   　ngôn ba ba giả vi tế lang dã vô phong táp táp chi ba dụ vi tế sở tri
+   　ngu chỉ nhĩ diễm thức dã hữu hải thuỷ cố kiều cảnh giới phong do hữu đối đãi tại
+   　như thuỷ đại lưu tận bản tự vô thuỷ hà xứ sinh lang cái dĩ chuyển bát thức vi
+   　bạch tịnh thức chuyển sinh diệt nhi y bất sinh diệt đam nhập hợp đam dĩ chí diệu đam
+   　bất động chi địa cố tuy hữu cảnh giới phong nhi lang vô tự khởi dã như thị ý
+   　thức phân biệt vọng tưởng diệt tức nhất thiết thức diệt hà đãn thất thức bất sinh nhi dĩ
+   　tai chủng chủng thức bất sinh tức diệc bất diệt nãi ngã sở thuyết niết bàn dã nhược ngoại
+   　đạo sở tác cập dữ tướng thượng bất li thức tự tính tập khí kì khả ngữ chân niết
+   　bàn hồ tăng vấn hương nghiêm như hà thị đạo nghiêm viết khô mộc lí long ngâm tăng vân
+   　như hà thị đạo trung nhân nghiêm vân độc lâu lí nhãn tình tăng cử vấn thạch sương như
+   　hà thị khô mộc lí long ngâm sương vân do đái hỉ tại tăng vân như hà thị độc
+   　lâu lí nhãn tình sương vân do đái thức tại hựu vấn tào sơn như hà thị khô mộc
+   　lí long ngâm sơn viết huyết mạch bất đoạn/đoán tăng viết như hà thị độc lâu lí nhãn tình
+   　sơn viết kiền bất tận tăng viết vị thẩm hoàn hữu đắc văn giả phủ sơn viết tận đại
+   　địa vị hữu nhất cá bất văn giả tăng vân vị thẩm long ngâm thị hà chương cú sơn
+   　viết bất tri thị hà chương cú văn giả giai tang sơn dĩ kệ thị chi viết khô mộc
+   　long ngâm chân kiến đạo độc lâu vô thức nhãn sơ minh hỉ thức tận thời tiêu tức tận
+   　đương nhân na biện trược trung thanh thiên đồng niêm vân vương cư môn lí thần bất xuất môn
+   　ư thử ngộ đắc hỉ thức câu tận tức thị niết bàn chân cảnh giới 。
+phục thứ đại tuệ kim đương thuyết vọng tưởng tự tính phân biệt thông tướng nhược vọng tưởng tự tính
+phân biệt thông tướng thiện phân biệt nhữ cập dư bồ tát ma ha tát li vọng tưởng đáo tự
+giác thánh ngoại đạo thông thú thiện kiến giác nhiếp sở nhiếp vọng tưởng đoạn/đoán duyên khởi chủng chủng tướng
+vọng tưởng tự tính hành bất phục vọng tưởng (ngụy vân viễn li chủng chủng hư vọng phân biệt nhân duyên pháp thể tướng viễn li dĩ bất phục phân biệt
+hư vọng chi tướng )đại tuệ vân hà vọng tưởng tự tính phân biệt thông tướng vị ngôn thuyết vọng tưởng sở
+thuyết sự vọng tưởng tướng vọng tưởng lợi vọng tưởng tự tính vọng tưởng nhân vọng tưởng kiến vọng tưởng
+thành vọng tưởng sinh vọng tưởng bất sinh vọng tưởng tướng tục vọng tưởng phọc bất phọc vọng tưởng tự
+tính phân biệt thông tướng đại tuệ vân hà ngôn thuyết vọng tưởng vị chủng chủng diệu âm ca vịnh
+mĩ lạc/nhạc/nhạo kế trước thị danh ngôn thuyết vọng tưởng 。
+   　thông viết thượng ngôn vọng tưởng thức diệt danh vi niết bàn nhiên vọng tưởng tự tính sai biệt
+   　tướng phi khả nhất đoan nhi tận cố tường thuyết chi đường vân linh chư bồ tát siêu chư
+   　vọng tưởng chứng thánh trí cảnh tri ngoại đạo pháp viễn li năng thủ sở thủ phân biệt ư
+   　y tha khởi chủng chủng tướng trung bất canh thủ trước vọng sở kế tướng nhiên vọng tưởng tự
+   　tính sai biệt tướng hữu thập nhị chủng nhất giả ngôn thuyết phân biệt nhị giả sở thuyết phân
+   　biệt ngụy vân khả tri tam giả tướng tứ giả tài ngụy vân nghĩa ngũ giả tự thể lục
+   　giả nhân thất giả kiến bát giả lí ngụy vân kiến lập cửu viết sinh thập viết bất sinh
+   　thập nhất viết tướng tục ngụy vân hòa hợp thập nhị viết phọc bất phọc tổng bất xuất ngôn
+   　thuyết tự tính tướng kế trước sự tự tính tướng kế trước nhị chủng nhi dĩ vọng tưởng thuộc
+   　lục thức phân biệt ý căn dụng sự phàm phu bất li tục đế hướng ngũ trần kế trước
+   　vọng tưởng ngoại đạo bất li tà kiến hướng pháp trần kế trước vọng tưởng nhị thừa thuỷ hướng
+   　chân đế ư li trần xứ kế trước vọng tưởng bất ngộ chân như tổng quy ư vọng thử
+   　ư ngôn thuyết vọng tưởng tướng độc cử thanh trần giả cử nhất dĩ lệ kì dư cố chủng
+   　chủng diệu âm ca vịnh chi thanh tùng khẩu nhi xuất giả mĩ hảo âm lạc/nhạc/nhạo tùng khí nhi
+   　xuất giả văn chi ư nhĩ trước chi ư tâm thị ư ngôn thuyết kế trước vọng tưởng dã
+   　huyền sa đáo bồ điền huyền bá hí nghênh chi thứ nhật vấn tiểu đường trường lão tạc nhật
+   　hứa đa huyên náo hướng thậm ma xứ khứ dã tiểu đường đề khởi ca sa giác sa vân
+   　[liêu -điểu +hiệt ]thiêu vô giao thiệp đại quy đề vân đại quy tức bất nhiên hoặc hữu vấn đãn minh
+   　chỉ nhất hạ pháp nhãn biệt vân tạc nhật hữu đa thiểu huyên náo pháp đăng vân kim nhật
+   　canh hảo tiếu thiên đồng tụng vân dạ hác tạng chu trừng nguyên trước trác long ngư vị tri
+   　thuỷ vi mệnh chiết trợ bất phương liêu nhất giảo huyền sa sư tiểu đường lão hàm cái tiến
+   　phong thám can ảnh thảo tiềm súc dã lão quy tạng liên du hí dã hoa lân lộng tảo
+   　thử chư tôn tú ư huyên náo trường trung phát minh hướng thượng sự khả vị tức vọng tức
+   　chân 。
+đại tuệ vân hà sở thuyết sự vọng tưởng vị hữu sở thuyết sự tự tính thánh trí sở tri
+y bỉ nhi sinh ngôn thuyết vọng tưởng thị danh sở thuyết sự vọng tưởng (ngụy vân vị tác thị tư duy ưng hữu tiền
+pháp thật sự chi tướng thánh nhân tu hành tri y bỉ pháp sinh ư ngôn ngữ như thị phân biệt thị danh khả tri phân biệt )。
+   　thông viết ngôn thuyết vọng tưởng đãn ư ngôn âm mĩ hảo nhi sinh kế trước nhiên ngôn thuyết
+   　giả tất hữu sở chỉ chi sự kim khí kì ngôn thuyết nhi ư sự thượng kế trước vọng
+   　tưởng vị hữu sở thuyết thật sự chi tướng nhất thiết thánh trí tu hành tri y bỉ pháp
+   　nhi sinh ngôn thuyết như sở vị bồ đề niết bàn chân như phật tính đệ nhất nghĩa đế
+   　xuất thế đẳng pháp dĩ vi thật hữu tự tính như thị phân biệt thị danh sở thuyết sự
+   　vọng tưởng lâm tế vân thế xuất thế chư pháp giai vô tự tính diệc vô sinh tính đãn
+   　hữu không danh danh tự diệc không nễ chi ma nhận tha nhàn danh vi thật đại thác liễu
+   　dã thiết hữu giai thị y biến chi cảnh hữu cá bồ đề y niết bàn y giải thoát
+   　y tam thân y cảnh trí y bồ tát y phật y nễ hướng y biến quốc độ trung
+   　mịch thậm ma vật nãi chí tam thừa thập nhị phân giáo giai thị thức bất tịnh cố chỉ
+   　phật thị ảo hoá thân tổ thị lão tỉ khâu nễ hoàn thị nương sinh dĩ phủ nễ nhược
+   　cầu phật tức bí phật ma nhiếp nễ nhược cầu tổ tức bí tổ ma phọc nễ nhược hữu
+   　cầu giai khổ bất như vô sự thử khả vi sở thuyết sự vọng tưởng giả quýnh giới 。
+đại tuệ vân hà tướng vọng tưởng vị tức bỉ sở thuyết sự như lộc hạt tưởng chủng chủng kế
+trước nhi kế trước vị kiên thấp noãn động tướng nhất thiết tính vọng tưởng thị danh tướng vọng tưởng 。
+   　thông viết sở vị sự vọng tưởng giả duy ư sự thượng kế trước sự hữu vô tướng biên
+   　sự diệc hữu hữu tướng biên sự thử sở vân tướng vọng tưởng giả tức bỉ sở thuyết sự
+   　trung kiên thấp noãn động tứ đại chủng tướng chủng chủng kế trước chấp vi thật hữu như xuân
+   　thời dương diễm bản phi thuỷ dã nhi hạt lộc kiến chi sinh ư thuỷ tưởng bôn trục tham
+   　trước sở vị cầu hoả quang minh lạc/nhạc/nhạo thuỷ thanh tịnh ái phong chu lưu quan trần thành tựu
+   　ư kiên thấp noãn động nhất thiết chư pháp chấp hữu tự tính đãn ư hữu tướng pháp trung
+   　chủng chủng kế trước vọng tưởng phân biệt phi sở kế nhi kế phi sở trước nhi trước thị
+   　danh tướng vọng tưởng dã lâm tế vân vô phật khả cầu vô đạo khả thành vô pháp khả
+   　đắc ngoại cầu hữu tướng phật dữ nễ bất tướng tự dục thức nhữ bản tâm phi hợp diệc
+   　phi li đạo lưu chân phật vô hình chân đạo vô thể chân pháp vô tướng tam pháp hồn
+   　dung hòa hợp nhất xứ ban kí bất đắc hoán tác mang mang nghiệp thức chúng sinh thử khả
+   　tri trước tướng vọng tưởng giả chân ngoại đạo tà kiến dã 。
+đại tuệ vân hà lợi vọng tưởng vị lạc/nhạc/nhạo chủng chủng kim ngân trân bảo thị danh lợi vọng tưởng 。
+   　thông viết thế đế phàm phu duy tham thanh đẳng ngũ trần cố dĩ kim ngân trân bảo vi
+   　lợi chân đế nhị thừa duy tham pháp trần cố dĩ thánh trí sở chứng vi bảo tà kiến
+   　ngoại đạo tuy bất đồng ư phàm phu chi tham diệc bất năng như nhị thừa sở chứng bảo
+   　phi sở bảo lợi phi sở lợi nhi tổng quy ư vọng dã tăng vấn vân cư ưng thiền
+   　sư sơn hà đại địa tùng hà nhi hữu ưng viết tùng vọng tưởng hữu tăng viết dữ mỗ
+   　giáp tưởng xuất nhất đĩnh kim đắc ma ưng tiện hưu khứ tăng bất khẳng hậu vân môn niêm
+   　vân dĩ thị cát đằng bất năng chiết hợp đắc đãi y đạo tưởng xuất nhất đĩnh kim đắc
+   　ma niêm trụ trượng tiện đả thử chính thị đoạn/đoán vọng tưởng lợi khí giác hưu khứ canh lợi 。
+đại tuệ vân hà tự tính vọng tưởng vị tự tính trì thử như thị bất dị ác kiến vọng
+tưởng thị danh tự tính vọng tưởng (đường vân vị dĩ ác kiến như thị phân biệt thử tự tính quyết định phi dư )。
+   　thông viết tự tính vọng tưởng tức vọng tưởng tự tính dã cái chỉ lục thức nhi ngôn ngoại
+   　đạo dĩ lục thức lực lượng tối đại năng trì nhất thiết pháp cố kì vọng tưởng phân biệt
+   　ư bất khả chấp trước giả vọng hữu chấp trì chuyên niệm hữu pháp tự thể hình tướng viết
+   　thử pháp như thị viết thử pháp bất dị thử phi chính kiến phân biệt nãi ác kiến sở
+   　phệ lao bất khả phá ư vọng tưởng tự tính trung tồn ngã kiến dã cố viết tự tính
+   　vọng tưởng huyền sa vân canh hữu ban thuyết chiêu chiêu linh linh linh đài trí tính năng kiến
+   　năng văn hướng ngũ uẩn thân điền trung tác chủ tể nhẫm ma vi thiện tri thức đại trám
+   　nhân tri ma ngã kim vấn nhữ nhược nhận chiêu chiêu linh linh thị nhữ chân thật vi thậm
+   　ma hạp thụy thời hựu bất thành chiêu chiêu linh linh nhược hạp thụy thời bất thị vi thậm
+   　ma hữu chiêu chiêu thời hoàn hội ma giá cá hoán tố nhận tặc tác tử thị sinh tử
+   　căn bản vọng tưởng duyên khí nhữ dục thức căn do ma ngã hướng nễ đạo chiêu chiêu linh
+   　linh chi nhân tiền trần sắc thanh hương đẳng pháp nhi hữu phân biệt tiện đạo thử thị chiêu
+   　chiêu linh linh nhược vô tiền trần nhữ thử chiêu chiêu linh linh đồng ư quy mao thỏ giác
+   　nhân giả chân thật tại thậm ma xứ thử khả tri vọng tưởng vô tự tính dã bỉ duy
+   　chấp hữu tự tính cố danh ác kiến 。
+đại tuệ vân hà nhân vọng tưởng vị nhược nhân nhược duyên hữu vô phân biệt nhân tướng sinh thị
+danh nhân vọng tưởng 。
+   　thông viết ngoại đạo vọng kế nhất thiết pháp giai hữu sinh nhân hoặc kế vi hữu nhân nhược
+   　duyên sinh hoặc kế vi vô nhân nhược duyên sinh ư nhân duyên pháp trung phân biệt hữu vô
+   　thị vị dị nhân dĩ hữu vô nhân tướng năng sinh nhất thiết pháp nhi sinh ư phân biệt
+   　cố viết nhân vọng tưởng tích sơ sơn đáo quy sơn lại an xứ tiện vấn thừa sư hữu
+   　ngôn hữu cú vô cú như đằng ỷ thụ hốt nhiên thụ đảo đằng khô cú quy hà xứ
+   　quy sơn a a đại tiếu sơ sơn vân mỗ giáp tứ thiên lí mại bố đạn lai hòa
+   　thượng hà đắc tướng lộng quy hoán thị giả thủ tiền hoàn giá thượng tòa toại chúc vân hướng
+   　hậu hữu độc nhãn long vi tử điểm phá khứ tại hậu đáo minh kiều cử tiền thoại chiêu
+   　vân quy sơn khả vị đầu chính vĩ chính chỉ thị bất ngộ tri âm sơ tiện vấn thụ
+   　đảo đằng khô cú quy hà xứ chiêu vân canh sứ quy sơn tiếu chuyển tân sơ ư ngôn
+   　hạ hữu tỉnh nãi tán quy sơn nguyên lai tiếu lí hữu đao thiên đồng tụng vân đằng khô
+   　thụ đảo vấn quy sơn đại tiếu a a khởi đẳng nhàn tiếu lí hữu đao khuy đắc phá
+   　ngôn tư vô lộ tuyệt cơ quan ngộ thử nhân duyên tắc bỉ ngoại đạo hữu vô phân biệt
+   　giả chân khả phó chi nhất tiếu 。
+đại tuệ vân hà kiến vọng tưởng vị hữu vô nhất dị câu bất câu ác kiến ngoại đạo vọng
+tưởng kế trước vọng tưởng thị danh kiến vọng tưởng 。
+   　thông viết ngoại đạo lục đại sư các trì sở kiến tổng bất li hữu vô tứ cú nhất
+   　dị tứ cú đoạn/đoán thường tứ cú giai ư vọng pháp nhi sinh kế trước kiến kì thiên nhi
+   　bất kiến kì toàn kiến kì vọng nhi bất kiến kì chân cố danh chi viết kiến vọng tưởng
+   　hoàng bách vân phàm phu bất thú đạo duy tứ lục tình hành lục đạo học đạo nhân nhất
+   　niệm kế sinh tử tức lạc ma đạo nhất niệm khởi chư kiến tức lạc ngoại đạo kiến hữu
+   　sinh thú kì diệt tức lạc thanh văn đạo bất kiến hữu sinh duy kiến hữu diệt tức lạc
+   　duyên giác đạo pháp bản bất sinh kim diệc bất diệt bất khởi nhị kiến bất hân bất áp
+   　nhất thiết chư pháp duy thị nhất tâm nhiên hậu nãi vi phật thừa dã 。
+đại tuệ vân hà thành vọng tưởng vị ngã ngã sở tưởng thành quyết định luận thị danh thành vọng
+tưởng (ngụy vân ư ngũ uẩn trung thủ ngã ngã sở tướng thuyết hư vọng pháp )。
+   　thông viết tiền bá bát cú thành vi hữu kỉ chủng đường vân đạo lí hữu kỉ chủng thử
+   　thành vọng tưởng đường vân lí phân biệt thị thành chi vi ngôn tuy bất khả ngữ thành tự
+   　tính diệc cận ư lí cố bỉ sở kế ngũ âm vi ngã tứ đại vi ngã sở tự
+   　hữu nhất định chi lí thành quyết định luận nhiên ngũ âm tứ đại giai hư vọng bất thật
+   　cố danh chi viết thành vọng tưởng hoàng bách vân học đạo nhân mạc nghi tứ đại vi thân
+   　tứ đại vô ngã ngã diệc vô chủ cố tri thử thân vô ngã diệc vô chủ ngũ âm
+   　vi tâm ngũ âm vô ngã diệc vô chủ cố tri thử tâm vô ngã diệc vô chủ lục
+   　căn lục trần lục thức hòa hợp sinh diệt diệc phục như thị thập bát giới kí không nhất
+   　thiết giai không duy hữu bản tâm đãng nhiên thanh tịnh do hoàng bách ngôn vô ngã ngã sở
+   　phương khả thành quyết định luận dã 。
+đại tuệ vân hà sinh vọng tưởng vị duyên hữu vô tính sinh kế trước thị danh sinh vọng tưởng 。
+   　thông viết ngoại đạo bất liễu ngoại tính phi tính đệ ư nhân duyên sở sinh pháp vọng kế
+   　hữu vô hoặc dĩ vi hữu nhân sinh hoặc dĩ vi vô nhân sinh nhược hữu nhược vô giai
+   　tùng duyên sinh vọng tưởng kế trước thật hữu sinh tướng khả đắc tiền ư nhân kế nhân thử
+   　ư nhân kế sinh nhân giả kì sinh chi thuỷ sinh giả kì nhân chi thành dã sinh tùng
+   　nhân duyên sinh diệt tùng nhân duyên diệt bản vô tự tính ư thử phân biệt dĩ vi tính
+   　sinh chân thị vọng tưởng thạch sương sơ tại quy sơn tác mễ đầu nhất nhật si mễ thứ
+   　quy sơn viết thí chủ vật mạc phao tản sương viết bất phao tản quy ư địa thượng xả
+   　đắc nhất lạp viết nhữ đạo bất phao tản giá cá thị thậm ma sương vô đối quy hựu
+   　viết mạc khinh giá nhất lạp bá thiên lạp tùng giá nhất lạp sinh sương vân bá thiên lạp
+   　tùng giá nhất lạp sinh vị thẩm giá nhất lạp tùng thậm xứ sinh quy a a đại tiếu
+   　quy phương trượng quy chí vãn thượng đường viết đại chúng mễ lí hữu trùng chư nhân hảo khán
+   　nhược cứu cánh đắc giá nhất lạp sinh xứ tức bất danh vọng tưởng hĩ 。
+đại tuệ vân hà bất sinh vọng tưởng vị nhất thiết tính bản vô sinh vô chủng nhân duyên sinh
+vô nhân thân thị danh bất sinh vọng tưởng (đường vân vị kế chư pháp bản lai bất sinh vị hữu chư duyên nhi tiên hữu thể bất tùng nhân khởi )。
+   　thông viết phàm phu chỉ bằng lục thức dụng sự nhất hướng trục cảnh ngoại đạo kiến lập minh
+   　đế suy chi bất kiến kì thuỷ dẫn chi bất kiến kì chung vị nhất thiết pháp bản lai
+   　bất sinh đồ kiến bát vạn kiếp lai thế giới chúng sinh giai vô nhân tự hữu dĩ vô
+   　chủng cố vị hữu chư duyên nhi tiên hữu thể thuỷ sinh cố vô nhân dã đãn y ngoại
+   　nhân duyên pháp nhi sinh hữu quả thân kì quả bất tùng nhân khởi thị vô nhân thân dã
+   　nhân kí vô chủng nhân bản bất sinh thân kí vô nhân quả diệc bất sinh cố vị nhất
+   　thiết pháp bản lai bất sinh thị bát vô nhân quả đoạn/đoán kiến ngoại đạo dã sở vân bất
+   　sinh giả chấp hữu bất sinh chi thể tại phi ư sinh diệt pháp trung nhi kiến kì bất
+   　sinh dã cố viết bất sinh vọng tưởng hoàn ngộ dẫn tam tổ tín tâm minh vân chấp chi
+   　thất độ tất nhập tà lộ phóng chi tự nhiên thể vô khứ trụ nhược hướng giá lí đạo
+   　vô phật vô pháp hựu đả nhập quỷ quật lí khứ cổ nhân vị chi giải thoát thâm khanh
+   　bản thị thiện nhân nhi kiều ác quả sở dĩ đạo vô vi vô sự nhân do tao kim
+   　鎻nan dã tu cùng đáo để thuỷ đắc nhược hướng vô ngôn xứ ngôn đắc hành bất đắc
+   　xứ hành đắc phương khả hữu chuyển thân nhất lộ 。
+đại tuệ vân hà tướng tục vọng tưởng vị bỉ câu tướng tục như kim lũ thị danh tướng tục
+vọng tưởng (đường vân vị thử dữ bỉ đệ tướng hệ thuộc như châm dữ tuyến )。
+   　thông viết thượng ngôn bất sinh vọng tưởng thị đoạn/đoán kiến thử tướng tục vọng tưởng thị thường kiến
+   　vị bỉ câu tướng tục như kim lũ giả bỉ chỉ bát thức lục thức tức thượng bỉ nhân
+   　bỉ duyên chi bỉ dã câu chỉ thất thức tức thượng ý câu chi câu dã bỉ dữ thử
+   　đệ tướng hệ thuộc vị thất thức nội y bát thức ngoại y lục thức triển chuyển tướng nhân
+   　như châm dữ tuyến châm bất li tuyến tuyến bất li châm truyền tống xuất nhập tướng tục bất
+   　đoạn/đoán thử dụ ư tướng tục thức canh thiết như dĩ kim vi lũ lũ tức kim kim tức
+   　lũ tướng thức bất đoạn/đoán diệc thị hòa hợp chi nghĩa dã cố danh tướng tục vọng tưởng chân
+   　yết liễu thiền sư vấn tăng lưu li điện thượng ngọc nữ thoán thoa minh thậm ma biên sự
+   　viết hồi hỗ bất đương cơ sư viết hoàn hữu đoạn/đoán tục dã vô viết cổ kim bất tằng
+   　gian sư viết chính đương bất tằng gian thời như hà tăng trân trùng tiện xuất hựu đồng an
+   　mẫn thiền sư sơ sâm đỗng sơn vấn chư thánh dĩ hà vi mệnh sơn viết dĩ bất gian
+   　đoạn/đoán sư viết hoàn hữu hướng thượng sự dã vô sơn viết hữu sư viết như hà thị hướng
+   　thượng sự viết bất tùng gian đoạn/đoán sư ư ngôn hạ hữu tỉnh thị nhị tôn tú thâm minh
+   　tướng tục diệu chỉ cố bất danh vọng 。
+đại tuệ vân hà phọc bất phọc vọng tưởng vị phọc bất phọc nhân duyên kế trước như sĩ phu
+phương tiện nhược phọc nhược giải thị danh phọc bất phọc vọng tưởng (đường vân vị chấp nhân năng phọc nhi hữu sở phọc như nhân dĩ
+thằng phương tiện lực cố phọc dĩ phục giải ngụy vân như nhân phương tiện kết thằng tác kết kết dĩ hoàn giải )。
+   　thông viết tiền thập nhất chủng vọng tưởng thuộc phàm phu ngoại đạo thử nhất chủng vọng tưởng thuộc
+   　nhị thừa dĩ nhị thừa bất đạt phiền não tính không cố dĩ phiền não vi phọc nhi dĩ
+   　niết bàn vi thoát tổng bất xuất thức âm khu vũ lăng nghiêm tự ngũ thập chủng âm ma
+   　nhi dĩ nhị thừa chung chi diệc thị thử ý phọc bất phọc nhân duyên dĩ thập nhị nhân
+   　duyên luận vô minh duyên hành nãi chí lão tử thị phọc vô minh diệt tận chí lão tử
+   　diệt tận thị bất phọc dĩ tứ đế luận khổ tập thị phọc đạo diệt thị bất phọc kì
+   　sở vân phọc giả hữu năng hữu sở nhân hữu năng phọc nhi hữu sở phọc như nhân kết
+   　thằng tác kết thằng giả kì năng phọc nhi kết giả kì sở phọc dã dĩ đại phạm thiên
+   　sĩ phu phương tiện lực cố khổ lạc/nhạc/nhạo nhị vong kết dĩ hoàn giải thử đãn ư nhân duyên
+   　pháp trung hư vọng kế trước hữu nhược phọc giả hữu nhược giải giả phi chân giải thoát khả
+   　tỉ cố danh phọc bất phọc vọng tưởng tăng vấn trung quốc sư như hà thị giải thoát sư
+   　viết chư pháp bất tướng đáo đương xứ giải thoát viết nhẫm ma tức đoạn/đoán khứ dã sư viết
+   　hướng nhữ đạo chư pháp bất tướng đáo đoạn/đoán thậm ma hựu tăng vấn thạch đầu như hà thị
+   　giải thoát đầu viết thùy phọc nhữ vấn như hà thị tịnh độ đầu viết thùy cấu nhữ vấn
+   　như hà thị niết bàn đầu viết thùy tương sinh tử dữ nhữ nhược ư thử đẳng cú đắc
+   　triệt tức khả tri chân giải thoát cảnh giới 。
+ư thử vọng tưởng tự tính phân biệt thông tướng nhất thiết ngu phu kế trước hữu vô đại tuệ
+kế trước duyên khởi nhi kế trước giả chủng chủng vọng tưởng kế trước tự tính như ảo thị hiện
+chủng chủng chi thân phàm phu vọng tưởng kiến chủng chủng dị ảo (đường vân ư duyên khởi trung chấp trước chủng chủng vọng tưởng tự tính
+như y ư ảo kiến chủng chủng vật phàm ngu phân biệt kiến dị ư ảo )đại tuệ ảo dữ chủng chủng phi dị phi bất dị nhược
+dị giả ảo phi chủng chủng nhân nhược bất dị giả ảo dữ chủng chủng vô sai biệt nhi kiến
+sai biệt thị cố phi dị phi bất dị thị cố đại tuệ nhữ cập dư bồ tát ma ha
+tát như ảo duyên khởi vọng tưởng tự tính dị bất dị hữu vô mạc kế trước 。
+   　thông viết thử thượng vọng tưởng tự tính phân biệt thông tướng tổng bất xuất ư hữu vô nhị
+   　chủng bất li tiền cảnh sinh diệt chi pháp ngu phu vô trí vọng dĩ vi thật ư trung
+   　kế trước hữu vô lương do bất tri nhất thiết như ảo dã bỉ nhất thiết hữu vô chư
+   　pháp nãi y tha duyên khởi giả ư y tha duyên khởi trung thiên kế hữu vô chư pháp
+   　chấp trước chủng chủng vọng tưởng tự tính thị vọng tưởng tự tính y duyên khởi tự tính nhi
+   　sinh như y ư ảo thị hiện chủng chủng chi thân đương duyên khởi thời vô trung sinh hữu
+   　dữ ảo vô dị cập duyên sinh chủng chủng sự vật phàm phu vô trí vọng tưởng phân biệt
+   　tiện dĩ vô thật như kiến chủng chủng chi thân vi dị ư ảo dĩ vi thật hữu yếu
+   　chi duyên khởi vô tính vọng tưởng diệc vô tính y tha vô tính thiên kế diệc vô tính
+   　nhất thiết như ảo hà ư chủng chủng kế trước dĩ vi thật cảnh hồ bỉ phàm ngu phân
+   　biệt kiến dị ư ảo giả bất tri ảo dữ chủng chủng phi dị phi bất dị dã nhược
+   　quả dị giả ảo tức phi chủng chủng nhân chủng chủng sự vật ưng biệt hữu nhân bất tùng
+   　ảo xuất kim chủng chủng nhân ảo nhi hiện cố tri phi dị dã nhược quả bất dị giả
+   　ảo tức ư chủng chủng vô sai biệt bất ưng dị kiến nhiên nhi thử thị ảo thử thị
+   　chủng chủng nhi kiến sai biệt cố tri phi bất dị dã nhữ đẳng bồ tát đương tri duyên
+   　khởi như ảo bất ưng ư ảo xuất chủng chủng tác dị bất dị hữu vô vọng tưởng kế
+   　trước tư ư ngoại đạo thông thú thiện kiến viễn li năng sở vọng tưởng đáo tự giác thánh
+   　trí cảnh giới hĩ tì bà thi phật kệ viết thân tùng vô tướng trung thụ sinh do như
+   　ảo xuất chư hình tượng ảo nhân tâm thức bản lai vô tội phúc giai không vô sở trụ
+   　thi khí phật kệ viết khởi chư thiện pháp bản thị ảo tạo chư ác nghiệp diệc thị ảo
+   　thân như tụ mạt tâm như phong ảo xuất vô căn vô thật tính tì xá phù phật kệ
+   　viết giả tá tứ đại dĩ vi thân tâm bản vô sinh nhân cảnh hữu tiền cảnh nhược vô
+   　tâm diệc vô tội phúc như ảo khởi diệc diệt thất phật như lai giai đàm như ảo pháp
+   　cố thế tôn vỉ vỉ ngôn chi bất áp 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+tâm phọc ư cảnh giới giác tưởng trí tùy chuyển vô sở hữu cập thắng bình đẳng trí tuệ sinh 。
+   　thông viết thập nhị vọng tưởng trung duy phọc bất phọc vọng tưởng chứng thiên không lí do tồn
+   　nhị kiến bất năng đắc bình đẳng trí cố phật dĩ thắng giải thoát minh chi bỉ nhất thiết
+   　cảnh giới giai tự tâm sở hiện dĩ tự tâm kiến phân duyên tự tâm tướng phân tham trước
+   　bất xả tiện vi sở phọc nhi nhị thừa nhân hữu giác tưởng trí tức tùy bỉ cảnh giới
+   　nhi sinh tùy phọc tùy chuyển nhất thiết đoạn/đoán diệt bất vi sở phọc nhi quy ư vô sở
+   　hữu nhiên phi vô sở hữu tối thắng xứ dã vi bỉ diệt chư cảnh giới nhi chứng niết
+   　bàn cố kì giải thoát vi liệt duy dĩ tự tâm vô sở hữu trí đỗng quan nhất thiết
+   　bản vô sở hữu tức cảnh giới phi cảnh giới bất li nhất thiết chứng vô sở hữu phương
+   　danh tối thắng vô sở hữu dã cảnh giới bản tự phi hữu hà tùng vi phọc kí vô
+   　sở phọc hà tùng vi thoát vô phọc vô thoát tâm cảnh như như nhất thiết bình đẳng thị
+   　chi vị chính trí cố viết bình đẳng trí tuệ sinh dã bỉ phọc ư cảnh giả cảnh thường
+   　ngại tâm cố bất đắc bình đẳng bất phọc ư cảnh giả tâm vị vọng cảnh diệc bất đắc
+   　bình đẳng duy vô sở hữu tối thắng xứ tâm tức vi cảnh cảnh tức vi tâm nãi đắc
+   　xưng bình đẳng trí dã hoàng bách vân phàm phu giai trục cảnh sinh tâm tâm toại hân áp
+   　nhược dục vô cảnh đương vô kì tâm tâm vọng tức cảnh không cảnh không tức tâm diệt nhược
+   　bất vô tâm nhi đãn trừ cảnh cảnh bất khả trừ chi ích phân nhiễu cố vạn pháp duy
+   　tâm tâm diệc bất khả đắc phục hà cầu tai học ban nhược nhân bất kiến hữu nhất pháp
+   　khả đắc tuyệt ý tam thừa duy nhất chân thật bất khả chứng đắc vị ngã năng chứng năng
+   　đắc giai tăng thượng mạn nhân dã pháp hoa hội thượng bật y nhi khứ giả giai tư loại
+   　dã cố phật ngôn ngã ư bồ đề thật vô sở đắc mặc khế nhi dĩ hoàng bách thử
+   　ngữ dữ thử kệ đại chỉ nhược hợp phù tiết 。
+vọng tưởng tự tính hữu ư duyên khởi tắc vô vọng tưởng hoặc nhiếp thụ duyên khởi phi vọng tưởng
+(đường vân tại vọng kế thị hữu ư duyên khởi tắc vô vọng kế mê hoặc thủ duyên khởi li phân biệt )chủng chủng chi phân sinh như ảo tắc bất
+thành bỉ tướng hữu chủng chủng vọng tưởng tắc bất thành bỉ tướng tắc thị quá giai tùng tâm phọc
+sinh vọng tưởng vô sở tri ư duyên khởi vọng tưởng thử chư vọng tưởng tính tức thị bỉ duyên
+khởi vọng tưởng hữu chủng chủng ư duyên khởi vọng tưởng 。
+   　thông viết tiền tứ cú kệ tụng phọc thoát nghĩa dĩ cai nhất thiên chi đại chỉ thử tiền
+   　bát cú kệ tụng năng tác như ảo quan giả tức đắc giải thoát thứ bát cú kệ tụng
+   　bất năng như ảo quan giả tức bất đắc giải thoát vi ư vọng tưởng tự tính hữu đạt
+   　hữu bất đạt cố dã vọng tưởng hà dĩ như ảo da quan vọng tưởng ư biến kế tắc
+   　vọng tưởng thị hữu như y đằng kế xà quan vọng tưởng ư duyên khởi tắc vọng tưởng thị
+   　vô như tri đằng phi xà vọng kế thập dĩ thị hữu vi mê hoặc tiền cảnh nhiếp thụ
+   　kế trước cố kiến kì hữu duyên khởi hà dĩ thị vô vi bất tri tha lực sinh li
+   　ư phân biệt cố kiến kì vô duy duyên khởi phi vọng tưởng tắc vọng tưởng vô căn cố
+   　chủng chủng duyên sinh pháp như thập nhị nhân duyên các hữu chi phân giai phi chân thật như
+   　ảo nhân tác ảo sự phi thị thật giả tuy hữu sở sinh bất thành tựu kì hữu dã
+   　hà dĩ bất thành tựu kì hữu bỉ duyên sinh chi tướng tuy hiện hữu chủng chủng chi phân
+   　nhiên thuộc vọng tưởng phân biệt vọng vô tự tính đương thể tức không cố bỉ tướng bất thành
+   　tuy sinh do bất sinh dã tướng bản bất thành nhi dĩ như ảo quan chi nãi khả xưng
+   　trí bỉ trước ư tướng giả dĩ vi thật hữu như thị chi pháp tắc thị vô thuỷ dĩ
+   　lai hư vọng chi quá tùng tâm phọc cảnh giới nhi sinh cảnh bất phọc tâm nhi tâm phọc
+   　ư cảnh cố thành kì quá dĩ vọng kế giả vô trí bất liễu duyên sinh như ảo nãi
+   　ư duyên khởi pháp trung vọng tưởng phân biệt kế hữu kế vô bất tri thử chư vọng tưởng
+   　thể tức thị duyên khởi pháp duyên khởi li phân biệt vọng tưởng diệc li phân biệt nhược tri
+   　li phân biệt giả tức nhất thiết vô vọng tưởng khả dã bỉ ngu vọng tưởng hữu chủng chủng
+   　chi phân đệ ư duyên khởi pháp trung vọng sinh phân biệt dĩ cảnh vi duyên dĩ tâm vi
+   　tưởng kế trước hữu vô nhất dị dĩ cảnh giới tự phọc hà do đắc giải thoát hồ cố
+   　duyên khởi phi vọng tưởng tắc vọng tưởng tức thị chân như ư duyên khởi vọng tưởng tắc chân
+   　như phiên vi danh tướng duy đắc bình đẳng trí giả khả dĩ li thử quá hĩ lâm tế
+   　vân đại đức tứ đại sắc tự thị vô thường nãi chí tì vị can đảm mao phát trảo
+   　xỉ duy kiến chư pháp không tướng nễ nhất niệm tâm yết đắc xứ hoán tác bồ đề thụ
+   　nễ nhất niệm tâm bất năng yết đắc xứ hoán tác vô minh thụ vô minh vô thuỷ chung
+   　nễ nhược niệm niệm tâm yết bất đắc tiện thượng tha vô minh thụ tiện nhập lục đạo tứ
+   　sinh phi mao đái giác nễ nhược yết đắc tiện thị thanh tịnh thân giới nễ nhất niệm bất
+   　sinh tiện thị thượng bồ đề thụ tam giới thần thông biến hoá ý sinh hoá thân pháp hỉ
+   　thiền duyệt thân quang tự chiếu tư y la ỷ thiên trùng tư thực bá vị cụ túc canh
+   　vô hoành bệnh bồ đề vô trụ xứ thị cố vô đắc giả đạo lưu đại trượng phu hán
+   　canh nghi cá thập ma mục tiền dụng xứ canh thị a thùy bả đắc tiện dụng mạc trước
+   　danh tự hiệu vi huyền chỉ dữ ma kiến đắc vô hiềm để pháp cổ nhân vân tâm tùy
+   　vạn cảnh chuyển chuyển xứ thật năng u tùy lưu nhận đắc tính vô hỉ diệc vô ưu đạo
+   　lưu như thiền tông kiến giải tử hoạt tuần nhiên sâm học chi nhân đại tu tử tế 。
+thế đế đệ nhất nghĩa đệ tam vô nhân sinh vọng tưởng thuyết thế đế đoạn/đoán tắc thánh cảnh giới
+thí như tu hành sự ư nhất chủng chủng hiện ư bỉ vô chủng chủng vọng tưởng tướng như thị
+thí như chủng chủng ế vọng tưởng chúng sắc hiện ế vô sắc phi sắc duyên khởi bất giác nhiên
+thí như luyện chân kim viễn li chư cấu uế hư không vô vân ế vọng tưởng tịnh diệc nhiên
+vô hữu vọng tưởng tính cập hữu bỉ duyên khởi kiến lập cập phỉ báng tất do vọng tưởng hoại
+vọng tưởng nhược vô tính nhi hữu duyên khởi tính vô tính nhi hữu tính hữu tính vô tính sinh
+y nhân ư vọng tưởng nhi đắc bỉ duyên khởi tướng danh thường tướng tùy nhi sinh chư vọng tưởng
+cứu cánh hữu thành tựu tắc độ chư vọng tưởng nhiên hậu trí thanh tịnh thị danh đệ nhất nghĩa 。
+   　thông viết thượng ngôn vô sở hữu cập thắng bình đẳng trí tuệ sinh sở vị bình đẳng giả
+   　thế đế tức thị đệ nhất nghĩa đệ nhất nghĩa tức thị thế đế bất đoạn/đoán thế đế nhi
+   　chân như thật tế tức trụ kì trung thị chi vị đệ nhất nghĩa dã nhược ngoại đạo sở
+   　vân vô sở hữu giả đãn kế trước vô nhân sinh đệ nhất tùng minh sơ sinh giác đệ
+   　nhị tùng giác sinh ngã tâm đệ tam tùng ngã tâm sinh sắc thanh hương vị xúc đẳng bất
+   　tri duyên khởi căn bản nhi cứu cánh quy ư minh đế dĩ vi vô nhân sinh thật xuất
+   　ư nhị đế chi ngoại nhiên phàm phu vọng tưởng trước ư trần cảnh thuyết danh thế đế thế
+   　đế tướng tự hữu phi vô nhân sinh dã nhược đoạn/đoán vọng tưởng thế đế chứng ư tịch tĩnh
+   　tư tắc tự giác thánh trí cảnh giới thánh cảnh giới tự chân diệc phi vô nhân sinh dã
+   　hà dĩ đoạn/đoán vọng tưởng da dĩ chư vọng tưởng bản vô tính cố thí như tu hành quan
+   　tưởng chi sự nhược quan thanh thời thiên địa vạn vật giai thanh nãi chí hoàng xích bạch đẳng
+   　giai nhiên ư nhất sắc pháp tùy tâm chuyển biến hiện chủng chủng tướng nhiên kì sở hiện giả
+   　do quan tưởng thành ư bỉ thật vô chủng chủng chi tướng phi hữu nhi hiện hữu cố danh
+   　chi viết vọng tưởng tướng dã vọng tưởng bản phi thật hữu hà vị y duyên khởi nhi sinh
+   　da thí như ế mục nhân ư vô sắc tướng xứ vọng kiến hữu thanh hoàng xích bạch chủng
+   　chủng chúng sắc hiển hiện nhiên ế bản vô sắc diệc vô phi sắc ế dữ sắc li nhi
+   　bất giác kiến vọng y chi nhi khởi duyên khởi diệc như thị bản li vọng tưởng nhi bất
+   　giác vọng tưởng y chi nhi khởi thị duyên khởi tự bất giác tha lực sinh hà dĩ năng
+   　sinh vọng dã cố vọng tưởng vị đoạn/đoán như kim tạp ư khoáng duyên khởi vị đoạn/đoán như không
+   　trung hữu vân mục trung hữu ế giai vị đắc thanh tịnh nhược đoạn/đoán vọng tưởng tướng giả thí
+   　như đoán luyện chân kim nhi cấu uế viễn li nhược đoạn/đoán duyên khởi tướng giả thí như nhất
+   　cắng tình không vân ế bất sinh tư tư vọng diệt nhi chân hiện phàm tình tận nhi thánh
+   　quả thành hĩ cố vọng tưởng tịnh giả diệc do hồ thị tịnh chi vân giả cố sở dĩ
+   　đoạn/đoán chi dã nhược kiến hữu vọng tưởng khả đoạn/đoán diệc vị đắc vi tịnh trí dã nhiên vọng
+   　tưởng vô tính cầu chi ư ngoại bất kiến hữu vọng tưởng tính khả đắc cầu chi ư nội
+   　bất kiến hữu duyên khởi tính khả đắc bản vô vọng tưởng duyên khởi hà xứ khả đoạn/đoán bỉ
+   　ngoại đạo kiến lập vi hữu giả đãn ư phi hữu kế hữu cập phỉ báng vi vô giả
+   　đãn ư phi vô kế vô dĩ thử kiến hoại bỉ kiến giai do vọng tưởng phân biệt tự
+   　dị ư như thật chi kiến cẩu vô vọng tưởng nhi hữu vô dị kiến hà tự nhi sinh
+   　tai bỉ dĩ vô hoại hữu nhất thiết đoạn/đoán diệt nhược tri vọng tưởng bản vô tự tính nhi
+   　hựu vị biệt hữu dị nhân thật hữu duyên khởi tự tính giả tại vọng tưởng vi vô tính
+   　tại duyên khởi vi hữu tính vô pháp nhi hữu pháp thị li nhân ưng sinh pháp hĩ hữu
+   　pháp tùng vô pháp sinh thị hư pháp sinh thật pháp hĩ vọng tưởng kí vô tính nhi duyên
+   　khởi an đắc hữu tính dã duy y nhân ư vọng tưởng chi tướng nhi đắc bỉ duyên khởi
+   　chi tướng y nhân ư vọng tưởng chi danh nhi đắc bỉ duyên khởi chi danh thị duyên khởi
+   　danh tướng thường tướng tùy ư vọng tưởng kí dĩ vọng tưởng sinh danh tướng phục ư danh tướng
+   　sinh vọng tưởng vọng tưởng tác chân tắc danh tướng diệc phi chân danh tướng phi chân tắc duyên
+   　khởi diệc phi chân dĩ duyên khởi y vọng tưởng cứu cánh phi thật bất năng hữu sở thành
+   　tựu dĩ vô tính tùy duyên tắc lí bất thành tựu dĩ tùy duyên vô tính tắc sự bất
+   　thành tựu dã tác như thị kiến giả bất tu đoạn/đoán vọng tưởng nhi vọng tưởng bản vô bất
+   　tu đoạn/đoán duyên khởi nhi duyên khởi bản vô độ việt chư vọng tưởng cảnh giới hồn thành nhất
+   　chân như cảnh giới hĩ bỉ đoạn/đoán thế đế vọng tưởng giả chí thử nhiên hậu phiền não chướng
+   　tịnh nhi sở tri chướng diệc tịnh tức bỉ vọng tưởng nhi thành chính trí bất li danh tướng
+   　nhi chứng như như cố danh đệ nhất nghĩa dã thử chứng tam hiền thập thánh sở bất cảm
+   　vọng nhi phàm phu ngoại đạo khởi năng khuy kì phiên li da thiên đài trí giả đạo hữu
+   　nhân ảo li hương niên trường huyết khí phương cương văn phụ tại hương trung vi ác thiểu niên
+   　sở khi hàm hận hoàn hương đồ tuyết phụ sỉ lộ nhân tướng bạn tương chí phụ xá hốt
+   　phùng kì cừu đồng bạn hí chi chỉ vi kì phụ quy nhân bái quỵ minh bão cảm khấp
+   　đồng bạn tiếu viết thật nhữ phụ cừu quy nhân dục đả thủ bất năng cử cập chí kiến
+   　phụ diệc bất cảm khấp thử dụ vô tác tứ đế khổ tức thị diệt tập tức thị đạo
+   　vô diệt đạo khả tu vô khổ tập khả đoạn/đoán thượng sinh kinh đạo bất tu thiền định bất
+   　đoạn/đoán phiền não phật kí thử nhân thành phật vô nghi trần tú ngọc học sĩ thường vấn vạn
+   　tùng di lặc bồ tát vi thập ma bất tu thiền định bất đoạn/đoán phiền não vạn tùng đạo
+   　chân tâm bản tịnh cố bất tu thiền định vọng tưởng bản không cố bất đoạn/đoán phiền não phục
+   　vấn hương sơn đại nhuận hòa thượng sơn viết thiền tâm dĩ định bất tu canh tu đoạn/đoán tận
+   　phiền não bất tu canh đoạn/đoán phục vấn trúc lâm hải cự xuyên xuyên viết bản vô thiền định
+   　phiền não sĩ viết duy thử vi khoái nhĩ thử chư tôn tú ngữ thật đắc thử đoạn tinh
+   　tuỷ 。
+vọng tưởng hữu thập nhị duyên khởi hữu lục chủng tự giác trí nhĩ diễm bỉ vô hữu sai biệt
+ngũ pháp vi chân thật tự tính hữu tam chủng tu hành phân biệt thử bất việt ư như như
+chúng tướng cập duyên khởi bỉ danh khởi vọng tưởng bỉ chư vọng tưởng tướng tùng bỉ duyên khởi sinh
+giác tuệ thiện quan sát vô duyên vô vọng tưởng thành dĩ vô hữu tính vân hà vọng tưởng giác
+(đường vân chân thật trung vô vật vân hà khởi phân biệt thử hạ canh hữu tứ cú vân viên thành nhược thị hữu thử tắc li hữu vô kí dĩ li hữu vô vân hà hữu nhị tính )bỉ
+vọng tưởng tự tính kiến lập nhị tự tính vọng tưởng chủng chủng hiện thanh tịnh thánh cảnh giới vọng
+tưởng như hoạch sắc duyên khởi kế vọng tưởng nhược dị vọng tưởng giả tắc y ngoại đạo luận vọng
+tưởng thuyết sở tưởng nhân kiến hòa hợp sinh (đường vân dĩ chư vọng kiến cố vọng kế ư vọng kế )li nhị vọng tưởng giả
+như thị tắc vi thành 。
+   　thông viết thử thiên tụng thập nhị vọng tưởng tự tính tướng hà vi thông tụng ngũ pháp tam
+   　tự tính dã cái danh tướng vọng tưởng chính trí như như ngũ pháp bản tướng nhân cố nhi
+   　vọng tưởng duyên khởi viên thành tam tự tính bản nhất thể cố sở dĩ nhất tính tụng xuất
+   　thượng kí phát minh đệ nhất nghĩa đế liễu chư vọng tưởng giai vô tự tính bất đoạn/đoán vọng
+   　tưởng nhi chứng chân như thử sở vị bình đẳng trí tuệ dã kí sinh thử trí tức danh
+   　chính trí hựu hà cảnh giới chi bất như hồ nhiên vọng tưởng hữu thập nhị chủng viết ngôn
+   　thuyết viết sở thuyết sự viết tướng viết lợi viết tự tính viết nhân viết kiến viết thành viết
+   　sinh viết bất sinh viết tướng tục viết phọc bất phọc vọng tưởng nhược thị kì sai biệt dã
+   　duyên khởi hữu lục chủng viết nhân duyên viết sở duyên duyên viết đẳng vô gian duyên viết tăng
+   　thượng duyên viết phân biệt duyên viết đãi duyên duyên khởi nhược thị kì sai biệt dã vọng tưởng
+   　duyên khởi giai vị thế đế năng đoạn/đoán thế đế danh nhĩ diễm trí năng liễu thế đế tức
+   　đệ nhất nghĩa danh tự giác thanh tịnh trí kí đắc thanh tịnh trí tự chứng chân như cảnh
+   　tức bỉ vọng tưởng duyên khởi nhĩ diễm chủng chủng canh vô sai biệt nhi danh tướng vọng tưởng
+   　chính trí như như đồng quy ư chân thật hĩ ngũ pháp kí vi chân thật nhi vọng tưởng
+   　tự tính duyên khởi tự tính thành tự tính tam chủng diệc nhiên tu hành giả quan thử tổng
+   　bất việt ư như như dã hà dĩ tam tự tính bất việt ư như như da bỉ ngũ
+   　pháp trung tướng giả đương duyên khởi chi thời tức đắc kì tướng ngũ pháp trung danh giả nhân
+   　hữu thử danh toại khởi chủng chủng phân biệt kí hữu danh tướng bỉ chư vọng tưởng chi tướng
+   　phân nhiên tạp xuất giai tùng bỉ duyên khởi tự tính nhi sinh duy vô chính trí quan sát
+   　cố kiến hữu duyên khởi hữu vọng tưởng nhược dĩ chân chính giác tuệ nhi thiện quan chi tức
+   　duyên khởi vô duyên khởi tính khả đắc tức vọng tưởng vô vọng tưởng tính khả đắc viễn li
+   　y tha biến kế hồn nhiên nhất viên thành thật tính hĩ kí dĩ chứng thành tự tính tức
+   　thị như như cảnh giới chân như thật tế trung bản vô nhất vật bản vô hữu tính vân
+   　hà khởi vọng tưởng phân biệt hoặc giác kì hữu hoặc giác kì vô da duy viên thành thật
+   　tính viễn li ư hữu vô hà xứ hữu duyên khởi vọng tưởng nhị pháp sở dĩ kiến lập
+   　duyên khởi vọng tưởng nhị tự tính giả do bỉ vọng tưởng tự tính vọng sinh phân biệt ư
+   　biến kế chủng chủng giả tắc danh chi viết vọng tưởng tự tính ư y tha duyên sinh giả
+   　tắc danh chi viết duyên khởi tự tính thị nhị pháp thể giai giả danh thí thiết nhân phân
+   　biệt hữu bản tự vô căn cố vọng tưởng chủng chủng hiện xứ tức thị tự tâm sở hiện
+   　tức vọng tức chân nhất thiết thanh tịnh tư tức tự giác thánh trí cảnh giới đạt vọng nguyên
+   　hư tức phàm tâm nhi kiến phật thử danh đệ nhất nghĩa đế bất li vọng tưởng nhi chứng
+   　như như dã bỉ thị vọng tưởng chủng chủng như sở hoạch chi sắc tuy hữu phân biệt nhi
+   　vô thật thể ư bỉ duyên khởi pháp trung kế trước vọng tưởng bất xuất thế tục chi kiến
+   　năng liễu thế gian giai hoạ bản vô thật tính bất tất biệt dị thế đế vọng tưởng nhi
+   　đệ nhất nghĩa đế tự tại kì trung nhược vị nhất thiết phi tự vọng tưởng chấp trước duyên
+   　sinh nhi ngôn chư pháp biệt hữu dị nhân tùng vi trần tự tại đẳng sinh giả tắc đoạ
+   　ư ngoại đạo tà kiến luận dĩ chư vọng kiến cố vọng kế ư sở vọng kế chi sự
+   　sở thuyết chủng chủng chi phân bất đồng thử bất li biến kế chấp dã nhân kiến ngoại duyên
+   　hòa hợp nhi sinh chư pháp toại dĩ tác giả vi sinh nhân thử bất li y tha chấp
+   　dã thử nhị giai tùng vọng tưởng kiến lập như ma thằng xà dụ biến kế như xà y
+   　tha như thằng tổng chi giai vọng nhược li thử nhị vọng tưởng phi xà dã phi thằng dã
+   　đãn ma nhĩ như thị tắc vi thành tự tính thành tức vi chân thật pháp vô duyên khởi
+   　vọng tưởng nhị tự tính khả đắc nhất thiết như như nhất thiết bình đẳng cố viết tự tính
+   　hữu tam chủng bất việt ư như như dã tăng vấn hoàng bách vân như kim hiện hữu chủng
+   　chủng vọng niệm hà dĩ ngôn vô bách vân vọng bản vô thể tức thị nhữ tâm sở khởi
+   　nhữ nhược thức tâm thị phật tâm bản vô vọng na đắc khởi tâm canh nhận ư vọng nhữ
+   　nhược bất sinh tâm động niệm tự nhiên vô vọng sở dĩ vân tâm sinh tắc chủng chủng pháp
+   　sinh tâm diệt tắc chủng chủng pháp diệt vân kim chính vọng niệm khởi thời phật tại hà xứ
+   　bách vân nhữ kim giác vọng khởi thời giác chính thị phật khả trung nhược vô vọng niệm phật
+   　diệc vô hà cố như thử vi nhữ khởi tâm tác phật kiến tiện vị hữu phật khả thành
+   　tác chúng sinh kiến vị hữu chúng sinh khả độ khởi tâm động niệm tổng thị nhữ kiến xứ
+   　nhược vô nhất thiết kiến phật hữu hà xứ sở sở dĩ văn thù tài khởi phật kiến tiện
+   　biếm hướng nhị thiết vi sơn vân kim chính ngộ thời phật tại hà xứ bách vân vấn tùng
+   　hà lai giác tùng hà khởi ngữ mặc động tĩnh nhất thiết thanh sắc tận thị phật sự hà
+   　xứ mịch phật bất khả canh đầu thượng an đầu chuỷ thượng gia chuỷ đãn mạc sinh dị kiến
+   　sơn thị sơn thuỷ thị thuỷ tăng thị tăng tục thị tục sơn hà đại địa nhật nguyệt tinh
+   　thần tổng bất xuất nhữ tâm tam thiên thế giới đô lai thị nhữ cá tự kỉ hà xứ
+   　hữu đa ban thử hoàng bách số ngữ phát tận thử thiên vi chỉ vị lăng già khả dữ
+   　ấn tâm ích tín 。
+đại tuệ bồ tát ma ha tát phục bạch phật ngôn thế tôn duy nguyện vi thuyết tự giác thánh
+trí tướng cập nhất thừa nhược tự giác thánh trí tướng cập nhất thừa ngã cập dư bồ tát thiện
+tự giác thánh trí tướng cập nhất thừa bất do ư tha thông đạt phật pháp phật cáo đại tuệ
+đế thính đế thính thiện tư niệm chi đương vi nhữ thuyết đại tuệ bạch phật ngôn duy nhiên thụ
+giáo phật cáo đại tuệ tiền thánh sở tri chuyển tướng truyền thụ vọng tưởng vô tính bồ tát ma
+ha tát độc nhất tĩnh xứ tự giác quan sát bất do ư tha li kiến vọng tưởng thượng thượng
+thăng tấn nhập như lai địa thị danh tự giác thánh trí tướng đại tuệ vân hà nhất thừa tướng
+vị đắc nhất thừa đạo giác ngã thuyết nhất thừa vân hà đắc nhất thừa đạo giác vị nhiếp sở
+nhiếp vọng tưởng như thật xứ bất sinh vọng tưởng thị danh nhất thừa giác đại tuệ nhất thừa giác
+giả phi dư ngoại đạo thanh văn duyên giác phạm thiên vương đẳng chi sở năng đắc duy trừ như
+lai dĩ thị cố thuyết danh nhất thừa 。
+   　thông viết thượng ngôn nhiên hậu trí thanh tịnh thị danh đệ nhất nghĩa thanh tịnh chi trí tức
+   　thị tự giác thánh trí dã đệ nhất nghĩa đế tức thị nhất thừa dã đại tuệ tất dục
+   　thông đạt kì tướng thành tựu tuệ thân ư phật pháp trung bất do tha ngộ phật vị tiền
+   　thánh sở tri chuyển tướng truyền thụ vọng tưởng vô tính chỉ thử nhất ngữ tiện vi bí mật
+   　tạng sở vị tự giác thánh trí giả giác thử vọng tưởng vô tính chi trí dã sở vị
+   　nhất thừa giả chứng thử vọng tưởng vô tính chi lí dã khởi biệt hữu nhất pháp dữ nhân
+   　da cố hành nhân y chư thánh giáo tại tịch tĩnh xứ độc toạ tư duy tự nội trí
+   　tuệ quan sát chư pháp bất do tha ngộ li phân biệt kiến giác đắc vọng tưởng vô tính
+   　tính bản tự li nhất giác tiện li bất tu phương tiện thượng thượng thăng tấn nãi chí vô
+   　vọng khả trừ vô kiến khả diệt tâm cảnh như như nhập như lai địa thị năng khai thị
+   　ngộ nhập phật chi tri kiến thị danh tự giác thánh trí tướng dã nhược nhất thừa tướng giả
+   　vị như thật giác tri nhất thừa đạo cố thuyết danh nhất thừa hà dĩ vi nhất thừa giác
+   　da bỉ hữu năng thủ sở thủ phân biệt tức nhị tam kì tâm bất đắc danh nhất duy
+   　bất phân biệt khả thủ năng thủ cảnh giới trụ như thật xứ tức nhất thiết pháp bất sinh
+   　hà canh sinh vọng tưởng phân biệt chư pháp hồ hiện tiền chư pháp bản tự tịch diệt tướng
+   　nhất niệm tướng ưng như như bất động thị danh nhất thừa giác dã thử duy phật dữ phật
+   　nãi năng cứu tận phi dư ngoại đạo thanh văn duyên giác phạm thiên đẳng chi sở năng đắc
+   　chỉ thử nhất sự thật vô nhị diệc vô tam cố vị chi nhất thừa dã đạo an vấn
+   　ti không sơn bản tĩnh thiền sư viết đạo kí giả danh phật diệc vọng lập thập nhị phân
+   　giáo diệc thị tiếp vật độ sinh nhất thiết thị vọng dĩ hà vi chân tĩnh viết vi hữu
+   　vọng cố tương chân đối vọng suy cùng vọng tính bản không chân diệc hà tằng thị hữu cố
+   　tri chân vọng tổng thị giả danh nhị sự đối trị đô vô thật thể cùng kì căn bản
+   　nhất thiết giai không viết kí ngôn nhất thiết thị vọng vọng diệc đồng chân chân vọng vô thù
+   　phục hà thị vật tĩnh viết nhược ngôn hà vật hà vật diệc vọng kinh vân vô tướng tự
+   　vô tỉ huống ngôn ngữ đạo đoạn/đoán như điểu phi không an tàm phục tịnh hữu kệ viết suy
+   　chân chân vô tướng cùng vọng vọng vô hình phản quan suy cùng tâm tri tâm diệc giả danh
+   　hội đạo diệc như thử đáo đầu diệc chỉ ninh hựu đạt tính vấn viết thiền sư chí diệu
+   　chí vi chân vọng song dân phật đạo lưỡng vong tu hành tính không danh tướng bất thật thế
+   　giới như ảo nhất thiết giả danh tác thử giải thời bất khả đoạn/đoán tuyệt chúng sinh thiện ác
+   　nhị căn tịnh viết thiện ác nhị căn giai nhân tâm hữu cùng tâm nhược hữu căn diệc phi
+   　hư suy tâm kí vô căn nhân hà lập kinh vân thiện bất thiện pháp tùng tâm hoá sinh
+   　thiện ác nghiệp duyên bản vô hữu thật phục hữu kệ viết thiện kí tùng tâm sinh ác khởi
+   　li tâm hữu thiện ác thị ngoại duyên ư tâm thật bất hữu xả ác tống hà xứ thủ
+   　thiện linh thùy thủ thương ta nhị kiến nhân phàn duyên lưỡng đầu tẩu nhược ngộ bản vô tâm
+   　thuỷ hối tùng tiền cữu tiền thánh sở tri chuyển tướng truyền thụ vọng tưởng vô tính duy ti
+   　không sơn bản tịnh thiền sư kiến tối triệt 。
+đại tuệ bạch phật ngôn thế tôn hà cố thuyết tam thừa nhi bất thuyết nhất thừa phật cáo đại
+tuệ bất tự ban niết bàn pháp cố bất thuyết nhất thiết thanh văn duyên giác nhất thừa dĩ nhất
+thiết thanh văn duyên giác như lai điều phục thụ tịch diệt phương tiện nhi đắc giải thoát phi tự
+kỉ lực thị cố bất thuyết nhất thừa phục thứ đại tuệ phiền não chướng nghiệp tập khí bất đoạn/đoán
+cố bất thuyết nhất thiết thanh văn duyên giác nhất thừa bất giác pháp vô ngã bất li phân đoạn
+tử (đường vân vị danh bất tư nghị biến dị tử )cố thuyết tam thừa đại tuệ bỉ chư nhất thiết khởi phiền não quá
+tập khí đoạn/đoán cập giác pháp vô ngã bỉ nhất thiết khởi phiền não quá tập khí đoạn/đoán tam muội
+lạc/nhạc/nhạo vị trước phi tính vô lậu giới giác (đường vân nhược bỉ năng trừ nhất thiết quá tập giác pháp vô ngã thị thời nãi li tam muội sở tuý
+ư vô lậu giới nhi đắc giác ngộ )giác dĩ phục nhập xuất thế gian thượng thượng vô lậu giới mãn túc chúng cụ
+(đường vân tu chư công đức phổ sứ mãn túc )đương đắc như lai bất tư nghị tự tại pháp thân 。
+   　thông viết đại tuệ kí văn tự giác thánh trí tướng cập nhất thừa tướng chỉ thị giác liễu
+   　vọng tưởng vô tính tâm như cảnh như nhất thiết bình đẳng canh vô dư thừa hà cố thế
+   　tôn hựu thuyết tam thừa nhi bất thuyết nhất thừa dã thế tôn vị nhất thừa giác giả phi
+   　thanh văn duyên giác chi sở năng đắc thanh văn duyên giác đam tịch tĩnh lạc/nhạc/nhạo thủ chứng niết
+   　bàn bỉ duy tự ban niết bàn pháp cố ư nhất thừa chi lí thật nan khế hội như
+   　lai dĩ độ sinh vi cấp bất tự ban niết bàn pháp cố bất vi nhất thiết thanh văn
+   　duyên giác thuyết nhất thừa dã nhất thừa chi đạo bất tu phương tiện tịch diệt hiện tiền duy
+   　khả tự ngộ bất do hồ tha nhược thanh văn duyên giác đãn dĩ như lai sở thụ tịch
+   　tĩnh phương tiện chi pháp điều phục kì tâm tiêm đắc giải thoát thị y giáo nhi nhập phi
+   　tự kỉ lực tuy chứng niết bàn vị li công huân nhược dữ chi ngữ tối thượng nhất thừa
+   　bỉ hữu phật y nhi khứ nhĩ cố bất thuyết nhất thừa bất vi định tính thanh văn đẳng
+   　thuyết dã thả bỉ thanh văn duyên giác sở vi tịch tĩnh giả đãn dĩ công lực án phục
+   　phiền não chướng nghiệp phiền não tuy đoạn/đoán nhi khởi phiền não giả vị đoạn/đoán chướng nghiệp tuy tiêu
+   　nhi tập khí chủng tử vị tiêu mậu vị dĩ đắc niết bàn nhi bất canh cầu tiền tấn
+   　ngô hà vi bỉ thuyết nhất thừa tai bỉ tuy đắc nhân vô ngã thượng vị giác pháp vô
+   　ngã tuy li phân đoạn/đoán tử thượng vị danh bất tư nghị biến dị tử vi pháp sở phọc
+   　thượng hữu pháp ngã tại ác năng chứng bất tư nghị tự tại pháp thân dã thị cố quyền
+   　thuyết tam thừa y quá khứ chư phật thuyết sơ trung hậu thiện dương lộc đẳng cơ thị thuyết
+   　tam thừa tức sở dĩ tiêm thứ dẫn nhập đồng quy nhất thừa dã thử nhất thừa giả nhân
+   　nhân cố hữu khởi dĩ thanh văn duyên giác nhi bất cụ tai nhược bỉ thanh văn duyên giác
+   　năng trừ nhất thiết sinh khởi phiền não quá tập cập giác pháp vô ngã bất vi tam muội
+   　tửu sở tuý tuy đắc tam muội lạc/nhạc/nhạo tri kì phi tính ư vô lậu giới nhi đắc giác
+   　ngộ bỉ sơ mê hữu lậu thiên tác vô vi giải chí thử vô minh lậu tận ngộ vô
+   　sinh lí cố tri kì phi tính dã kí giác ngộ dĩ phục hồi hướng đại thừa nhập ư
+   　xuất thế gian thượng thượng vô lậu giới trung thuỷ dã giả điều phục nhi đắc tịch tĩnh kim
+   　tắc bất tu điều phục nhi tự tịch tĩnh thuỷ dã giả phương tiện nhi đắc giải thoát kim
+   　tắc bất tu phương tiện nhi tự giải thoát nhất thiết thanh tĩnh nhất thiết viên mãn tu chư
+   　công đức phổ giai mãn túc phúc túc tuệ túc đương đắc như lai bất tư nghị tự tại
+   　pháp thân thanh tịnh bản nhiên chu biến pháp giới chí thử chỉ hữu nhất thừa canh vô dư
+   　thừa cố vị thuyết tam thừa tức thuyết nhất thừa khả dã hựu hà thường bất vi thanh văn
+   　duyên giác thuyết tai tích pháp đạt yết lục tổ niệm pháp hoa kinh chí phương tiện phẩm tổ
+   　viết chỉ thử kinh nguyên lai dĩ nhân duyên xuất thế vi tông túng thuyết đa chủng thí dụ
+   　diệc vô việt ư thử hà giả nhân duyên duy nhất đại sự nhất đại sự tức phật tri
+   　kiến dã nhữ thận vật thác giải kinh ý kiến tha đạo khai thị ngộ nhập tự thị phật
+   　chi tri kiến ngã bối vô phân nhược tác thử giải nãi thị báng kinh huỷ phật dã bỉ
+   　kí thị phật dĩ cụ tri kiến hà dụng canh khai nhữ kim đương tín phật tri kiến giả
+   　chỉ nhữ tự tâm canh vô biệt thể cái vi nhất thiết chúng sinh tự tế quang minh tham
+   　thụ trần cảnh ngoại duyên nội tham cam thụ khu trì tiện lao tùng tam muội khởi chủng chủng
+   　khổ khẩu khuyến linh tẩm tức mạc hướng ngoại cầu dữ phật vô nhị cố vân khai phật tri
+   　kiến nhữ thường lao lao chấp niệm vi công khoá giả hà dị li ngưu ái vĩ dã đạt
+   　viết nhược nhiên giả đãn đắc giải nghĩa bất lao tụng kinh da tổ viết kinh hữu hà quá
+   　khởi chướng nhữ niệm chỉ vi mê ngộ tại nhân tổn ích do nhữ thính ngô kệ ngôn tâm
+   　mê pháp hoa chuyển tâm ngộ chuyển pháp hoa tụng cửu bất minh dĩ dữ nghĩa tác thù gia
+   　vô niệm niệm tức chính hữu niệm niệm thành tà hữu vô câu bất kế trường ngữ bạch ngưu
+   　xa đạt tái khải viết kinh vân chư đại thanh văn nãi chí bồ tát giai tận tư độ
+   　lượng bất năng trắc ư phật trí kim linh phàm phu đãn ngộ tự tâm tiện minh phật chi
+   　tri kiến tự phi thượng căn vị miễn nghi báng hựu kinh thuyết tam xa đại ngưu chi xa
+   　dữ bạch ngưu xa như hà khu biệt nguyện hòa thượng tái thùy tuyên thuyết tổ viết kinh ý
+   　phân minh nhữ tự mê bội chư tam thừa nhân bất năng trắc phật trí giả hoạn tại độ
+   　lượng dã nhiêu y tận tư cộng suy chuyển gia huyền viễn phật bản vi phàm phu thuyết bất
+   　vi phật thuyết thử lí nhược bất khẳng tín giả tùng tha thối tịch thù bất tri toạ khước
+   　bạch ngưu xa canh ư môn ngoại mịch tam xa huống kinh hựu minh hướng nhữ đạo vô nhị
+   　diệc vô tam nhữ hà bất tỉnh tam xa thị giả vi tích thời cố nhất thừa thị thật
+   　vi kim thời cố chỉ giáo nễ khứ giả quy thật quy thật chi hậu thật diệc vô danh
+   　ưng tri sở hữu trân bảo tận thuộc ư nhữ do nhữ thụ dụng canh bất tác phụ tưởng
+   　diệc bất tác tử tưởng diệc vô dụng tưởng thị danh trì pháp hoa kinh tùng kiếp chí kiếp
+   　thủ bất thích quyển tùng trú chí dạ vô bất niệm thời dã đạt hào khải phát dĩ kệ
+   　tán viết tụng kinh tam thiên bộ tào khê nhất cú vong vị minh xuất thế chỉ ninh yết
+   　luy sinh cuồng dương lộc ngưu quyền thiết sơ trung hậu thiện dương thùy tri hoả trạch nội nguyên
+   　thị pháp trung vương tổ viết nhữ kim hậu phương khả vi niệm kinh tăng dã thử đoạn khai
+   　thị nãi pháp hoa yếu chỉ khước dữ thử đoạn kinh văn hỗ kiến 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+chư thiên cập phạm thừa thanh văn duyên giác thừa chư phật như lai thừa ngã thuyết thử chư thừa
+nãi chí hữu tâm chuyển chư thừa phi cứu cánh nhược bỉ tâm diệt tận vô thừa cập thừa giả
+vô hữu thừa kiến lập ngã thuyết vi nhất thừa dẫn đạo chúng sinh cố phân biệt thuyết chư thừa
+giải thoát hữu tam chủng cập dữ pháp vô ngã phiền não trí tuệ đẳng giải thoát tắc viễn li
+thí như hải phù mộc thường tùy ba lang chuyển thanh văn ngu diệc nhiên tướng phong sở phiêu đãng
+bỉ tùy phiền não diệt dư tập phiền não ngu vị trước tam muội lạc/nhạc/nhạo an trụ vô lậu giới
+vô hữu cứu cánh thú diệc phục bất thối hoàn đắc chư tam muội thân nãi chí kiếp bất giác
+thí như hôn tuý nhân tửu tỉnh nhiên hậu giác bỉ giác pháp diệc nhiên đắc phật vô thượng thân 。
+   　thông viết thử đạn tụng nhất thừa tướng nhi tự giác thánh trí tự tại kì trung mạt cú
+   　bỉ giác pháp diệc nhiên đắc phật vô thượng thân duy hữu thử giác cố năng chứng nhất thừa
+   　dã hà dĩ vị chi tam thừa hữu chư thiên cập phạm thừa tu thế gian trí giả chi
+   　sở thừa dã hữu thanh văn duyên giác thừa tu xuất thế trí giả chi sở thừa dã hữu
+   　chư phật như lai thừa tu xuất thế gian thượng thượng trí giả chi sở thừa dã ngã thuyết
+   　thử tam thừa vị li hồ tâm lượng hữu tâm lượng tức hữu chuyển biến do thị sinh diệt
+   　pháp cố vị chư thừa phi cứu cánh dã nhược bỉ tâm lượng diệt tận vô thừa cập thừa
+   　giả kí vô sở chứng chi thừa diệc vô năng chứng chi nhân năng sở song vong tức vô
+   　hữu chư thừa khả dĩ kiến lập tuy phật thừa diệc bất kiến lập thị chi vị phi thừa
+   　nãi ngã sở thuyết vi nhất thừa dã duy thử nhất thừa canh vô dư thừa cố danh cứu
+   　cánh kí duy nhất thừa hà dĩ hựu thuyết tam thừa vi dẫn đạo chúng sinh cố sứ chi
+   　tiêm cận bảo sở quyền lập hoá thành cố phân biệt thuyết chư thừa hữu tiểu thừa hữu đại
+   　thừa hữu tối thượng thừa tổng bất ngoại tam chủng giải thoát sở vị không vô tướng vô nguyện
+   　đẳng pháp cập nhị chủng vô ngã pháp vi phiền não chướng chướng tâm tâm bất giải thoát kết
+   　nghiệp thụ báo cố thuyết nhân vô ngã vi sở tri chướng chướng tuệ tuệ bất giải thoát bất
+   　liễu pháp không cố thuyết pháp vô ngã nhược phiền não chướng trí tuệ chướng nhị câu giải thoát
+   　tắc phàm tình thánh giải đãng nhiên nhất không nhi tâm lượng kỉ hồ diệt tận hĩ hà sinh
+   　diệt chi bất viễn li tai cố quyền thuyết tam thừa tức vi thuyết nhất thừa dã bỉ thanh
+   　văn duyên giác thừa dĩ chứng tịch tĩnh chí bất sinh diệt hà dĩ vị chi hữu tâm chuyển
+   　da vi bỉ đãn đoạn/đoán tứ trụ phiền não vị đoạn/đoán câu sinh vô minh thí như hải trung
+   　phù mộc thường tùy ba lang chuyển phù mộc tuy bất động nhi ba lang thường động dĩ phong
+   　xúc ba dĩ ba chuyển mộc mặc mặc thường chuyển bất tự giác tri dĩ bỉ thanh văn ngu
+   　chấp chấp hữu niết bàn khả chứng bất li phù mộc khởi năng miễn ư tướng phong chi phiêu
+   　đãng tai vi bỉ sở đoạn/đoán tùy phiền não giả hiện khởi phiền não tuy diệt dư huân tập
+   　chủng tử vi tế phiền não thượng tồn câu sinh vô minh vị đoạn/đoán chấp trước thật ngã thật
+   　pháp hữu pháp khả đắc tuy đắc nhân vô ngã vị đắc pháp vô ngã sở dĩ vị trước
+   　tam muội chi lạc/nhạc/nhạo an trụ vô lậu chi giới tấn bất năng thú cứu cánh chi địa thối
+   　bất phục hoàn sinh tử chi đồ vi tam muội sở trì kinh kiếp bất giác hoặc nhị vạn
+   　kiếp hoặc lục vạn kiếp hoặc bát vạn kiếp định lực kí tiêu nãi phục hữu giác như hôn
+   　tuý nhân tửu tiêu nãi tỉnh bỉ tố dĩ như lai điều phục chi cố ư vô lậu giới
+   　trung hốt nhiên ngộ tri trụ hữu dư địa vị vi cứu cánh hồi tâm tức hướng đại thừa
+   　thử nhất giác dã đỗng nhiên minh bạch giác pháp vô ngã phục nhập xuất thế gian thượng thượng
+   　vô lậu giới viên mãn chúng cụ đương như lai vô thượng pháp thân ngô sơ vị bất vi
+   　thanh văn nhân thuyết nhất thừa giả ý tại kích bỉ liệt giải tốc tấn bảo sở tư chính
+   　dẫn quyền quy thật chi mật ý nhĩ hà thường bất thuyết nhất thừa tai bá trượng vân phu
+   　học đạo nhân nhược ngộ chủng chủng khổ lạc/nhạc/nhạo xưng ý bất xưng ý sự tâm vô thối quật
+   　bất niệm nhất thiết danh văn lợi dưỡng y thực bất tham nhất thiết công đức lợi ích bất
+   　vi thế gian chư pháp chi sở trệ ngại vô thân vô ái khổ lạc/nhạc/nhạo bình hoài thô y
+   　già hàn lệ thực hoạt mệnh ô ô như ngu như lung như á tướng tự sảo hữu tướng
+   　ưng phân nhược ư tâm trung quảng học tri giải cầu phúc cầu trí giai thị sinh tử ư
+   　lí vô ích khước bí tri giải cảnh phong chi sở phiêu nịch hoàn quy sinh tử hải lí
+   　phật thị vô cầu nhân cầu chi lí quai lí thị vô cầu lí cầu chi tức thất nhược
+   　trước vô cầu phục đồng ư hữu cầu nhược trước vô vi phục đồng ư hữu vi cố kinh
+   　vân bất thủ ư pháp bất thủ phi pháp bất thủ phi phi pháp hựu vân như lai sở
+   　đắc pháp thử pháp vô thật diệc vô hư đãn năng nhất sinh tâm như mộc thạch tướng tự
+   　bất bí âm giới chư nhập ngũ dục bát phong chi sở phiêu nịch tức sinh tử nhân đoạn/đoán
+   　khứ trụ tự do bất vi nhất thiết hữu vi nhân quả sở phọc bất bí hữu lậu sở
+   　câu tha thời hoàn dĩ vô tự phọc vi nhân đồng sự lợi ích dĩ vô trước tâm ưng
+   　nhất thiết vật dĩ vô ngại tuệ giải nhất thiết phọc diệc vân ưng bệnh dữ dược thử bá
+   　trượng dĩ vô thượng tâm ấn giác ngộ quần mê nhược ư thử hữu giác tức đắc phật vô
+   　thượng thân dã 。
+
+**HẾT Quyển 4**
+
+***
+
+Quyển 5
+
+nhất thiết phật ngữ tâm phẩm đệ tam 　(ngụy vân phật tâm phẩm đệ tứ đường vân vô thường phẩm đệ tam chi nhất )。
+
+nhĩ thời thế tôn cáo đại tuệ bồ tát ma ha tát ngôn ý sinh thân phân biệt thông tướng
+ngã kim đương thuyết đế thính đế thính thiện tư niệm chi đại tuệ bạch phật ngôn thiện tai thế
+tôn duy nhiên thụ giáo phật cáo đại tuệ hữu tam chủng ý sinh thân vân hà vi tam sở
+vị tam muội lạc/nhạc/nhạo chính thụ ý sinh thân giác pháp tự tính tính ý sinh thân chủng loại câu
+sinh vô hành tác (đường vân vô tác hành )ý sinh thân tu hành giả liễu tri sơ địa thượng thượng tăng
+tấn tướng đắc tam chủng thân 。
+   　thông viết tiền nhị quyển sơ phật ngôn thành tựu tứ pháp đắc tu hành giả đại phương tiện
+   　chí trụ đệ bát địa đắc li tâm ý ý thức ngũ pháp tự tính nhị vô ngã tướng
+   　đắc ý sinh thân ý sinh thân giả thí như ý khứ tốc tật vô ngại cố danh ý
+   　sinh dĩ tiền đãn thuyết bát địa sở đắc cố vân thông tướng kim ngôn địa địa giai đắc
+   　cố vân phân biệt tức thông tướng trung hữu thử tam chủng nhất giả tam muội lạc/nhạc/nhạo chính thụ
+   　ý sinh thân nãi y lục thức khởi nhị không trí chứng bình đẳng chân như thị tức chuyển
+   　đệ thất thức vi bình đẳng tính trí như như bất động danh vi chính định dĩ chính định
+   　lạc/nhạc/nhạo vi kì thụ dụng cố vân đắc tam muội lạc/nhạc/nhạo chính thụ ý sinh thân chí xả tam
+   　muội lạc/nhạc/nhạo quảng tu xưng tính độ sinh chi nghiệp thị tùng bình đẳng chân như phát đại lợi
+   　dụng nãi y bình đẳng tính trí khởi diệu quan sát trí đắc như ảo tam muội thông đạt
+   　chư pháp tự tính tướng cố thị danh giác pháp tự tính tính ý sinh thân chí nhược dĩ
+   　kim cương tâm đoạn/đoán bỉ sinh tướng vô minh chuyển đệ bát thức thành đại viên kính trí tắc
+   　tiền ngũ thức nhất thời câu chuyển vi thành sở tác trí dĩ y đại viên kính trí bình
+   　đẳng hiển hiện tắc thiên chủng vạn loại chi thân nhất thời phổ hiện cố vân chủng loại câu
+   　sinh vô tác hành ý sinh thân thị tam chủng ý sinh thân giai do li tâm ý ý
+   　thức ngũ pháp tự tính nhị vô ngã nhi đắc nhiên tam muội lạc/nhạc/nhạo chính thụ tùng sơ địa
+   　chí thất địa chi tướng giác pháp tự tính tính tùng bát địa chí thập địa chi tướng chủng
+   　loại câu sinh vô tác hành tùng đẳng nhập diệu thượng thượng tăng tấn chi tướng kì tướng tự
+   　hữu sai biệt thử ý sinh thân phân biệt thông tướng tu hành giả sở ưng liễu tri dã
+   　nhược dĩ pháp báo tam thân nghĩ chi phi thị tam thị nhất thể nãi diệu giác cảnh giới
+   　ninh hữu thượng thượng tăng tấn thứ đệ tai tăng vấn đại nguyên ẩn thiền sư số gia đàn
+   　việt thỉnh vị thẩm phó thùy gia nguyên vân nguyệt ấn thiên giang thuỷ môn môn tận hữu tăng
+   　đan hà tụng vân diệu viên vô tướng kiếp tiền nhân tùy loại quyền phân bá ức thân nguyệt
+   　dạ ngữ lâu tài báo hiểu bình minh lục quốc tận phùng xuân lâm toàn đạo nhất khí bất
+   　ngôn hàm hữu tượng vạn linh hà xứ tạ vô tư duy như thị kiến đắc cố năng chứng
+   　tam chủng ý sinh thân 。
+đại tuệ vân hà tam muội lạc/nhạc/nhạo chính thụ ý sinh thân vị đệ tam đệ tứ đệ ngũ địa
+tam muội lạc/nhạc/nhạo chính thụ cố chủng chủng tự tâm tịch tĩnh an trụ tâm hải khởi lang thức tướng
+bất sinh tri tự tâm hiện cảnh giới tính phi tính (đường vân tâm hải bất khởi chuyển thức ba lang liễu cảnh tâm hiện giai vô sở hữu )
+thị danh lạc/nhạc/nhạo chính tam muội thụ ý sinh thân 。
+   　thông viết thập địa bồ tát tự sơ địa chí thất địa xu tịch chi ý đa cố chủng
+   　chủng tự tâm tịch tĩnh vị chi viết an trụ tâm hải lang thức bất sinh bất vi lục
+   　thức cảnh giới phong sở cổ đãng nhi chuyển thức ba lang tịch nhiên an chỉ cái dĩ đoạn/đoán
+   　câu sinh ngã chấp chuyển đệ thất thức vi bình đẳng tính trí hĩ liễu tri tự tâm sở
+   　hiện cảnh giới hữu tức phi hữu cảnh kí phi hữu tâm tương an y tâm kí vô y
+   　đam nhiên trừng tịch thử dĩ tam muội lạc/nhạc/nhạo vi sở thụ dụng dữ nhị thừa nhân đam tịch
+   　diệt lạc/nhạc/nhạo giả tướng tự đãn nhị thừa nhân tức dĩ thử thủ chứng niết bàn nhi thất địa
+   　bồ tát canh năng phát khởi độ sinh chi tâm sở dĩ bất đồng nhĩ đại vu thị giả
+   　đáo đông sơn tuệ thiền sư sở tuệ vấn kim cương chính định nhất thiết giai nhiên thu khứ
+   　đông lai thả tác ma sinh giả viết bất phương hòa thượng tá vấn tuệ viết tức kim tức
+   　đắc khứ hậu tác ma sinh giả viết thùy cảm vấn trước mỗ giáp tuệ viết đại vu hoàn
+   　đắc ma giả viết do yếu biệt nhân điểm kiểm tại tuệ viết phụ bật tông sư bất phế
+   　quang thể thị giả lễ bái thử khả tri kim cương chính định bất thị nhất hướng vô hữu
+   　tự dữ thiên không giả đốn thù 。
+đại tuệ vân hà giác pháp tự tính tính ý sinh thân vị đệ bát địa quan sát giác liễu
+như ảo đẳng pháp tất vô sở hữu thân tâm chuyển biến đắc như ảo tam muội cập dư tam
+muội môn vô lượng tướng lực tự tại minh (đường vân liễu pháp như ảo giai vô hữu tướng tâm chuyển sở y trụ như ảo định cập dư tam muội
+năng hiện vô lượng tự tại thần thông )như diệu hoa trang nghiêm tấn tật như ý do như ảo mộng thuỷ nguyệt kính
+tượng phi tạo phi sở tạo như tạo sở tạo nhất thiết sắc chủng chủng chi phân cụ thị trang
+nghiêm (ngụy vân phi tứ đại sinh tự tứ đại tướng cụ túc thân phân )tùy nhập nhất thiết phật sa đại chúng thông đạt tự tính
+pháp cố thị danh giác pháp tự tính tính ý sinh thân 。
+   　thông viết thất địa dĩ tiền tùng sinh tử giả nhập niết bàn không bát địa dĩ hậu tùng
+   　niết bàn không nhập sinh tử giả cái dĩ chứng chân như tâm cố phát chân như dụng dã
+   　liễu tri nhất thiết chư pháp như ảo đương thể giai vọng tức đương thể giai không dĩ chứng
+   　vô sở hữu cảnh giới nhược dĩ niết bàn vi sở y tiện lạc thiên không do bỉ phát
+   　khởi độ sinh chi tâm năng chuyển sở y bất trụ ư không thân tâm chuyển biến biến hiện
+   　tự tại cố đắc như ảo tam muội cập dư chủng chủng tam muội năng hiện vô lượng tự
+   　tại thần thông viết tướng lực tức hiện tướng chi thần lực dã viết minh giả tức tam minh
+   　lục thông dã như diệu liên hoa khai phu chủng chủng trang nghiêm nhất thiết sở vãng đắc như
+   　ý tự tại sở dĩ trang nghiêm kì thân giả do như ảo nhân tác ảo sự mộng trung
+   　chi thân thuỷ trung chi nguyệt kính trung chi tượng phi hữu kiên thấp noãn động nhi vi năng
+   　tạo phi hữu sắc hương vị xúc nhi vi sở tạo tự hữu năng tạo sở tạo tứ đại
+   　chi chủng nhi nhất thiết sắc tướng uyển nhiên cụ túc chủng chủng thân phân kì trang nghiêm giả
+   　dĩ thần lực nhi trang nghiêm dã tùy nhập nhất thiết phật sa đại chúng chi trung thừa sự
+   　thập phương chư phật tùy ý sở vãng đắc vô sở ngại kì tấn tật giả dĩ thần lực
+   　nhi tấn tật dã lương do thông đạt tự tính pháp cố pháp pháp các hữu tự tính như
+   　vạn vật các cụ nhất thái cực chi vị nhiên pháp tự tính chi tính duy thị nhất tâm
+   　như vạn vật thống thể nhất đại cực chi vị kí thông đạt nhất thiết do tâm tạo cố
+   　như thị trang nghiêm như thị tấn tật tổng bất ngoại như ảo tam muội thần biến vô lượng
+   　lợi lạc/nhạc/nhạo hữu tình tùy nhập đại chúng giám cơ thuyết pháp thị danh giác pháp tự tính tính
+   　ý sinh thân dã mã minh đại sĩ ư hoa thị viên chuyển diệu pháp luân hốt hữu lão
+   　nhân tòa tiền bộc địa tổ viết thử phi dung lưu đương hữu dị tướng nga địa dũng nhất
+   　kim sắc nhân phục hoá vi nữ tử chỉ tổ thuyết kệ viết kê thủ trường lão tôn đương
+   　thụ như lai kí kim ư thử địa thượng tuyên thông đệ nhất nghĩa miết nhiên bất kiến tổ
+   　viết tương hữu ma lai dữ ngô giác lực hữu khoảnh phong vũ bạo chí thiên địa hối minh
+   　tổ viết ma chi lai tín hĩ ngô đương trừ chi tức chỉ không trung kiến nhất đại kim
+   　long phấn phát uy thần chấn động sơn nhạc tổ nghiễm nhiên ư tòa ma sự tùy diệt kinh
+   　thất nhật hữu nhất tiểu trùng tiềm hình tòa hạ tổ dĩ thủ thủ chi thị chúng viết tư
+   　nãi ma chi sở biến đạo thính ngô pháp nhĩ nãi phóng chi linh khứ ma bất năng động
+   　tổ viết nhữ đãn quy y tam bảo tức đắc thần thông toại phục bản hình tác lễ sám
+   　hối tổ viết tận nhữ thần lực biến hoá nhược hà viết ngã hoá cự hải cực vi tiểu
+   　sự tổ viết nhữ hoá tính hải đắc phủ viết hà vị tính hải ngã vị thường tri tổ
+   　tức vi thuyết tính hải viết sơn hà đại địa giai y kiến lập tam muội lục thông do
+   　tư phát hiện lão nhân văn ngôn toại phát tín tâm nhân đắc thế độ phó dĩ chính pháp
+   　nhãn tạng thử giác pháp tự tính tính ý sinh thân chi nhất nghiệm dã 。
+đại tuệ vân hà chủng loại câu sinh vô hành tác ý sinh thân sở vị giác nhất thiết phật
+pháp duyên tự đắc lạc/nhạc/nhạo tướng (đường vân liễu đạt chư phật tự chứng pháp tính )thị danh chủng loại câu sinh vô hành tác
+ý sinh thân đại tuệ ư bỉ tam chủng thân tướng quan sát giác liễu ưng đương tu học 。
+   　thông viết tiền thập địa bồ tát đãn năng thừa sự chư phật chứng bồ tát quả kim tùng
+   　đẳng nhập diệu liễu đạt chư phật tự chứng pháp tính đắc tự giác thánh trí thiện lạc/nhạc/nhạo nhất
+   　thiết chư pháp giai thị phật pháp nhất thiết pháp tướng giai thị lạc/nhạc/nhạo tướng tự thân nội chứng
+   　thâm nhập diệu trang nghiêm hải nghịch lưu nhi xuất hiện thập giới thân vô tư nhi ưng vô
+   　duyên nhi khởi ưng vật hiện hình nhất thời câu hiện thị bất khả tư nghị cảnh giới cố
+   　viết chủng loại câu sinh vô tác hành ý sinh thân dã tu hành giả ư thử tam chủng
+   　ý sinh thân phân biệt thông tướng quan sát giác liễu kì thuỷ dã đắc bồ tát tam muội
+   　chính thụ thần lực năng kiến chư phật thân diện ngôn thuyết kì kí dã đắc bồ tát thủ
+   　quán đỉnh thần lực năng hiện liên hoa cung điện chủng chủng trang nghiêm kì chung dã đắc chư
+   　phật vô lượng thần lực lợi an chúng sinh thiên chủng vạn loại chi thân nhất thời phổ ưng
+   　vô nhất vật bất chương già na diệu thể vô nhất thời bất tu phổ hiền hành môn nãi
+   　tối thượng nhất thừa phân tề dã nhữ đẳng bồ tát ưng đương tu học tăng vấn lâm tế
+   　như hà thị tam nhãn quốc độ tế vân ngã cộng nễ nhập tịnh diệu quốc độ trung trước
+   　thanh tịnh y thuyết pháp thân phật hựu nhập vô sai biệt quốc độ trung trước vô sai biệt
+   　y thuyết báo thân phật hựu nhập giải thoát quốc độ trung trước quang minh y thuyết hoá thân
+   　phật thử tam nhãn quốc độ giai thị y biến ước kinh luận gia thủ pháp thân vi căn
+   　bản báo hoá nhị thân vi dụng sơn tăng kiến xứ pháp thân tức bất giải thuyết pháp sở
+   　dĩ cổ nhân vân thân y nghĩa lập độ cứ thể luận pháp tính thân pháp tính độ minh
+   　tri thị kiến lập chi pháp y thông quốc độ không quyền hoàng diệp dụng cuống tiểu nhi tật
+   　lê lăng thứ khô cốt thượng mịch thập ma hiệp tâm ngoại vô pháp nội diệc bất khả đắc
+   　cầu thập ma vật tất như lâm tế ngôn nội diệc bất khả đắc phương khả minh tự thân
+   　nội chứng nhất thiết chư pháp như thật lạc/nhạc/nhạo tướng 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+phi ngã thừa đại thừa (ngụy vân ngã thừa phi đại thừa đường vân ngã đại thừa phi thừa )phi thuyết diệc phi tự phi đế phi
+giải thoát phi vô hữu cảnh giới nhiên thừa ma ha diễn (thử vân đại thừa )tam ma đề (thử vân chính định )tự
+tại chủng chủng ý sinh thân tự tại hoa trang nghiêm 。
+   　thông viết tiền ngũ vô gian chủng tính chương kệ vân tam thừa dữ nhất thừa phi thừa ngã
+   　sở thuyết thượng chương kệ vân vô thừa cập thừa giả vô hữu thừa kiến lập ngã thuyết vi
+   　nhất thừa nhân thượng thuyết tự giác thánh trí tướng cập nhất thừa tướng cánh toại chỉ xuất tam
+   　chủng sinh ý thân tiền nhị chủng ý sinh thân thuộc đại thừa biên sự hậu nhất chủng ý
+   　sinh thân thuộc phi thừa biên sự cố kệ trung đạn tụng chủng loại câu sinh vô hành tác
+   　ý sinh thân chỉ thử nhất thừa canh vô dư thừa thử nhất thừa tức thị phi thừa thử
+   　phi thừa bất dữ đại thừa đồng nhật ngữ dã vị chi viết đại thừa hữu thuyết hữu tự
+   　hữu đế hữu giải thoát hữu cảnh giới tức hữu thừa kiến lập bất khả ngữ ư vô tác
+   　hành dã ngã sở thuyết vô tác hành ý sinh thân tức thị phi thừa li ngôn ngữ tướng
+   　li văn tự tướng phi tứ thánh đế phi tam giải thoát bất giả tu tập đam nhiên tịch
+   　tĩnh hựu phi nhất hướng vô hữu đồng ư thiên không cảnh giới nhiên vô nhi bất vô thị
+   　vi chân vô hữu nhi bất hữu thị vi diệu hữu cố thừa ma ha diễn đại thừa chi
+   　pháp nhi sở chứng tam ma đề chính thụ đắc thần lực tự tại vị chi viết tự tại
+   　tắc phi tam muội lạc/nhạc/nhạo chính thụ ý sinh thân sở khả kỉ dã cập chí chủng loại câu
+   　sinh hiện chủng chủng ý sinh thân hữu như diệu hoa trang nghiêm kì thân diệc đắc thần lực
+   　tự tại vị chi viết tự tại tắc phi giác tự tính tính ý sinh thân sở khả kỉ
+   　dã thị tự tại giả tức vô hành tác thị vô hành tác ý sinh thân vô hữu năng
+   　thừa cập dĩ sở thừa tuy bất li đại thừa kì thật phi thừa kí phi hữu thừa kiến
+   　lập cố viết phi ngã thừa đại thừa dã lâm tế vân sơn tăng kiến xứ vô phật vô
+   　chúng sinh vô cổ vô kim đắc giả tiện đắc bất lịch thời tiết vô tu vô chứng vô
+   　đắc vô thất nhất thiết thời trung canh vô biệt pháp thiết hữu nhất pháp quá thử giả ngã
+   　thuyết như mộng như hoá sơn tăng sở thuyết giai thị đạo lưu tức kim mục tiền cô minh
+   　lịch lịch địa thính giả thử nhân xứ xứ bất trệ thông quán thập phương tam giới tự tại
+   　nhập nhất thiết cảnh sai biệt bất năng hồi hoán nhất sa na gian thấu nhập pháp giới phùng
+   　phật thuyết phật phùng tổ thuyết tổ phùng la hán thuyết la hán phùng ngạ quỷ thuyết ngạ quỷ
+   　hướng nhất thiết xứ du lí quốc độ giáo hoá chúng sinh vị tằng li nhất niệm tùy xứ
+   　thanh tịnh quang thấu thập phương vạn pháp nhất như đạo lưu đại trượng phu nhi kim nhật phương
+   　tri bản lai vô sự chi vi nễ tín bất cập niệm niệm trì cầu xả đầu mịch đầu
+   　tự bất năng yết như viên đốn bồ tát nhập pháp giới hiện thân hướng tịnh độ trung áp
+   　phàm hân thánh như thử chi lưu thủ xả vị vô nhiễm tịnh tâm tại như thiền tông kiến
+   　giải hựu thả bất nhiên trực thị kiến kim canh vô thời tiết thử lâm tế vô thượng tâm
+   　ấn khước dữ thử đoạn ấn trước 。
+nhĩ thời đại tuệ bồ tát ma ha tát bạch phật ngôn thế tôn như thế tôn thuyết nhược nam
+tử nữ nhân hành ngũ vô gian nghiệp bất nhập vô trạch địa ngục thế tôn vân hà nam tử
+nữ nhân hành ngũ vô gian nghiệp bất nhập vô trạch địa ngục phật cáo đại tuệ đế thính đế
+thính thiện tư niệm chi đương vi nhữ thuyết đại tuệ bạch phật ngôn thiện tai thế tôn duy nhiên
+thụ giáo phật cáo đại tuệ vân hà ngũ vô gian nghiệp sở vị sát phụ mẫu cập hại la
+hán phá hoại chúng tăng ác tâm xuất phật thân huyết đại tuệ chúng sinh mẫu vị ái canh thụ
+sinh tham hỉ câu (ngụy vân canh thụ hậu sinh tham hỉ câu xuất )như duyên mẫu lập (nhị dịch hữu hà giả vi phụ mẫu )vô minh vi
+phụ sinh nhập xứ tụ lạc đoạn/đoán nhị căn bản danh hại phụ mẫu 。
+   　thông viết tiền hữu ngũ vô gian chủng tính cập tu hành vô gian đắc ý sinh thân tư
+   　hựu cử ngũ vô gian nghiệp vô gian tuy đồng nghĩa các hữu thuộc vô gian chủng tính giả
+   　bất tướng gian tạp chi vị dã tu hành vô gian giả lí bản vô gian hành diệc vô
+   　gian dã thử vô gian nghiệp nãi vô gian địa ngục chi nghiệp u trầm cực khổ tuy thử
+   　thế giới hoại do nhập tha phương vô gian địa ngục thụ báo tác như thử nghiệp nhi bất
+   　thụ thử báo giả cái thế tôn phương tiện ngôn chi siêu phật việt tổ chi đàm phi tầm
+   　thường sở trắc thẩn kì sở vị nghiệp giả giai thiện nghiệp dã đặc tá ngũ vô gian vi
+   　dụ nhĩ sở vị thiện ngôn ác ngữ giai quy đệ nhất nghĩa đế kì khả bất thiện tư
+   　niệm chi hồ viết sát phụ mẫu giả phi sát kì phụ mẫu chi vị dã ngô thân trung
+   　tự hữu phụ mẫu yên vân hà vi mẫu vị ái vi mẫu lưu ái vi chủng canh thụ
+   　hậu sinh tham hỉ nhị giả dữ ái câu xuất thị tham sinh hỉ sắc chi hoài bất năng
+   　tự lập duyên ái nhi lập như thử kiên cố vọng tưởng sắc thân bất năng tự lập duyên
+   　mẫu nhi lập cố vị ái vi mẫu dã vân hà vi phụ vị vô minh vi phụ vô
+   　minh hữu nhị nhất phát nghiệp vô minh nãi đa sinh tập khí chủng tử nhất nhuận sinh vô
+   　minh nãi thụ sinh thời kiến sở ái cảnh nhi nạp thai giả dã hữu thử vô minh toại
+   　sinh khởi lục căn thập nhị xứ ngũ âm tụ lạc hòa hợp nhi thành thân cố vị vô
+   　minh vi phụ dã thị ngũ âm chi thân nhất giả ái vi căn bản phi ái tắc bất
+   　năng nhuận sinh nhị giả vô minh vi căn bản phi vô minh tắc bất năng phát nghiệp hữu
+   　thử nhị căn bản cố sinh tử luân hồi vô hưu yết thời nhược năng dĩ nhân vô ngã
+   　quan đoạn/đoán nhị căn bản linh chư kết sứ bất phục canh sinh cố danh hại phụ mẫu dã
+   　tăng vấn dược sơn học nhân nghĩ quy hương thời như hà sơn viết nhữ phụ mẫu biến thân
+   　hồng lạn ngoạ tại kinh cức lâm trung nhữ quy hà sở viết nhẫm ma tắc bất quy khứ
+   　dã sơn viết nhữ khước tu quy khứ nhữ nhược quy khứ ngã thị nhữ cá hưu lương phương
+   　tử viết tiện thỉnh sơn viết nhị thời thượng đường bất đắc giảo phá nhất lạp mễ tất như
+   　dược sơn ngôn chung nhật khiết phạn bất tằng giảo trước nhất lạp mễ phương năng đoạn/đoán ái đoạn/đoán
+   　vô minh dã 。
+bỉ chư sứ bất hiện như thử độc phát chư pháp cứu cánh đoạn/đoán bỉ danh hại la hán 。
+   　thông viết thử hại la hán chư kinh hữu tác huỷ kinh thiêu tượng vân giả tổng vi hoại
+   　pháp bảo cố thử diệc vân bỉ chư sứ bất hiện chư pháp cứu cánh đoạn/đoán bỉ đoạn/đoán pháp
+   　tức sở dĩ hại la hán dã chư sứ vị bát thập bát sứ tức thượng tham ái vô
+   　minh đẳng kiến lập vi tam giới cửu phẩm hoặc dĩ tứ niệm trụ đẳng pháp tiêm thứ án
+   　phục năng linh bất hiện đãn tạm thời bất hiện nhĩ ngộ duyên tức phát như thử niết nhân
+   　sang tuy dĩ dũ nhiên độc tạng ư trung ngộ lôi tức phát thử chư pháp đãn đoạn/đoán thô
+   　hoặc vị đoạn/đoán tế hoặc đãn đoạn/đoán kết sứ vị đoạn/đoán tập khí cố bất hồi tâm độn a
+   　la hán tuy nhập phi phi tưởng định bát vạn kiếp mãn phục thụ hậu hữu nhược năng dĩ
+   　pháp vô ngã quan cứu cánh đoạn/đoán bỉ vi tế kết tập nhất nhất đãng trừ như tiền đãn
+   　tri kiến sở đoạn/đoán pháp thử tắc tấn ư tu sở đoạn/đoán pháp cố danh hại la hán dã
+   　thử chư sứ bất hiện thị độn a la hán pháp cứu cánh đoạn/đoán bỉ thứ kỉ pháp không
+   　tích hoàng bách du thiên đài phùng nhất tăng như cựu thức đồng hành thuộc giản thuỷ bạo trướng
+   　bách ỷ trượng nhi lập kì tăng suất bách đồng quá bách vân thỉnh huynh tiên quá kì tăng
+   　tức phù lạp ư thuỷ thượng tiện quá bách vân ngã khước cộng cá sao tử tác đội hối
+   　bất nhất bổng đả sát kì tăng ư thuỷ thượng hợp chưởng tán thán vân chân đại thừa khí
+   　dã phi ngã sở cập như hoàng bách giả chân năng hại la hán giả dã 。
+vân hà phá tăng vị dị tướng chư âm hòa hợp tích tụ cứu cánh đoạn/đoán bỉ danh vi phá
+tăng 。
+   　thông viết tăng giả vị chư tỉ khâu vô ngã tướng vô nhân tướng hòa hợp tụ vi nhất
+   　chúng thử phá hòa hợp tăng giả vị sắc âm hữu tướng sắc bất tự sắc dĩ hữu dị
+   　sắc tứ âm thụ tưởng hành thức vi chi hòa hợp cố hữu sắc tướng thị dị tướng chư
+   　âm dĩ vi phi sắc thật năng tích tụ nhi thành sắc dĩ vi vô tướng thật năng hòa
+   　hợp nhi thành tướng tuy năng tích tụ nhi vô kì hình tuy năng hòa hợp nhi vô kì
+   　chất kim cứu cánh đoạn/đoán bỉ thụ tưởng hành thức thứ đệ tiêu tận sứ hòa hợp giả tán
+   　tích tụ giả hoại bất đãn dân kì tướng tinh duyên khởi thị tướng giả nhi dân chi hĩ
+   　hữu tứ âm vi duyên tắc hữu hòa hợp vô duyên thùy vi hòa hợp cố dị tướng chư
+   　âm phá danh vi phá tăng dã tiền chư sứ bất hiện đãn diệt thụ tưởng thứ đoạn/đoán pháp
+   　chấp hành âm sảo trừ kim bát thức hiện khởi kiến tướng nhị phân giai do thất thức vi
+   　chi hòa hợp thử phá hòa hợp giả chính phá thất thức bán phân ngoại y ư lục thức
+   　giả dã xứ châu pháp hải lập thiền sư nhân triêu đình hữu chỉ cức bản tự vi thần
+   　tiêu cung sư thăng tòa vị chúng viết đô duyên vị triệt sở dĩ thuyết thị thuyết phi cái
+   　vi bất chân tiện nãi phân bỉ phân thử ngã thân thượng thả bất hữu thân ngoại ô túc
+   　đạo tai chính nhãn quan lai nhất trường tiếu cụ kim tắc thánh quân thùy chỉ canh tăng tự
+   　tác thần tiêu phật đầu thượng thiêm cá quan nhi hữu hà bất khả sơn tăng kim nhật bất
+   　miễn hoành đam trụ trượng cao quải bát nang hướng vô phúng đáp trung an thân lập mệnh ư
+   　vô căn thụ hạ sất nguyệt ngâm phong nhất nhâm thừa vân tiên khách giá hạc cao nhân lai
+   　thử chú thuỷ thư phù khấu nha tác pháp tha niên thành đạo bạch nhật thượng thăng kham báo
+   　bất báo chi ân dĩ trợ vô vi chi hoá chi khủng bất thị ngọc thị ngọc dã đại
+   　kì nhiên tuy như thị thả đạo sơn tăng chuyển thân nhất cú tác ma sinh đạo hoàn uy
+   　tất ma trịch hạ bật tử cánh nhĩ thú tịch thử đường vũ tông phá hòa hợp tăng đãn
+   　năng phá hữu hình tăng nhĩ bất như lập thiền sư hướng vô phúng đáp trung an thân lập
+   　mệnh trực phá ngũ âm nhi xuất chân năng hành vô gian hành giả 。
+đại tuệ bất giác ngoại tự cộng tướng tự tâm hiện lượng thất thức thân dĩ tam giải thoát vô
+lậu ác tưởng cứu cánh đoạn/đoán bỉ thất chủng thức phật (đường vân bát thức thân phật )danh vi ác tâm xuất phật
+thân huyết 。
+   　thông viết nhất thiết kiến phân tướng phân giai thị tự tâm hiện lượng bỉ đoạn/đoán chư âm hòa
+   　hợp tích tụ tướng giả giác tâm ngoại hữu pháp phi cứu cánh đoạn/đoán dã bỉ duy bất giác
+   　ngoại pháp chư âm các hữu tự thể nhi vi tự tướng chư âm hòa hợp vi nhân nhi
+   　vi cộng tướng giai thị tự tâm hiện lượng đãn dĩ thất thức thân vi tự phật tính nhiễm
+   　tịnh tuy dân ngã chấp thượng tồn thử chủng thức bất khả bất đoạn/đoán dã thất thức bán phân
+   　vi tế nội y ư bát thức đường tác đoạn/đoán bỉ bát thức thân phật nhiên bát thức lưu
+   　chú thị diệt bất đắc giả duy thất thức vi nhiễm tịnh y đa sinh huân tập nhiễm tịnh
+   　chủng tử dữ bát thức tướng y khả dĩ đãng trừ tất dĩ tam giải thoát không vô tướng
+   　vô nguyện chi pháp tất dĩ tam vô lậu giới định tuệ chi pháp thị đại thừa hữu lực
+   　ác tưởng túc đảo thất thức xu huyệt bát thức tức như lai pháp thân thất thức tức kì
+   　lưu chú chi huyết cứu cánh đoạn/đoán bỉ thất thức chủng tử phật tính câu sinh vô minh tịnh
+   　tận dị thục giai không cố danh ác tâm xuất phật thân huyết dã thử tức vọng như điềm
+   　tĩnh vô phong táp táp chi ba năng phá thử chủng thức tức năng chuyển thức thành trí nhi
+   　chứng như lai thanh tịnh pháp thân hĩ vân môn cử thế tôn sơ giáng sinh nhất thủ chỉ
+   　thiên nhất thủ chỉ địa chu hành thất bộ mục cố tứ phương vân thiên thượng thiên hạ duy
+   　ngã độc tôn môn viết ngã đương thời nhược kiến nhất bổng đả sát dữ cẩu tử khiết quý
+   　đồ thiên hạ thái bình hậu trường linh trác tụng viết chu hành thất bộ tiện xưng tôn gia
+   　xú na kham phóng xuất môn chỉ hướng mẫu thai độ nhân tất dã tu nhất bổng nhất điều
+   　ngân thiên mục lễ tụng vân vị tằng tràng nhập ma da phúc lưỡng thủ tri tha thậm xứ
+   　an hữu hiếp xuất lai ma cảnh hiện chỉ kham trù trướng bất kham quan thử chư tôn tú
+   　khả vị ác tâm xuất phật thân huyết giả 。
+nhược nam tử nữ nhân hành thử vô gian sự giả danh ngũ vô gian diệc danh vô gian đẳng
+(ngụy vân danh chứng như thật pháp đường vân tức đắc hiện chứng thật pháp )phục thứ đại tuệ hữu ngoại ngũ vô gian kim đương diễn
+thuyết nhữ cập dư bồ tát ma ha tát văn thị nghĩa dĩ ư vị lai thế bất đoạ ngu
+si vân hà ngũ vô gian vị tiên sở thuyết vô gian nhược hành thử giả ư tam giải thoát
+nhất nhất bất đắc vô gian đẳng pháp trừ thử dĩ dư hoá thần lực hiện vô gian đẳng vị
+thanh văn hoá thần lực bồ tát hoá thần lực như lai hoá thần lực vi dư tác vô gian
+tội giả trừ nghi hối quá vi khuyến phát cố thần lực biến hoá hiện vô gian đẳng vô hữu
+nhất hướng tác vô gian sự bất đắc vô gian đẳng trừ giác tự tâm hiện lượng li thân tài
+vọng tưởng li ngã ngã sở nhiếp thụ hoặc thời ngộ thiện tri thức giải thoát dư thú tướng tục
+vọng tưởng 。
+   　thông viết chân như thật tế bản vô gian đoạn/đoán kim ngũ vô gian nghiệp xu hướng chân như
+   　danh vô gian hành hữu thử hành tức chứng thử pháp cố đắc hiện chứng chân như thật tế
+   　dữ vô gian đẳng thử tá ngoại ngũ vô gian dĩ dụ nội vô gian hành đãn hữu kì
+   　danh nhĩ phi thật hữu thị sự dã nhược ngoại ngũ vô gian hữu ưng đoạ giả hữu bất
+   　ưng đoạ giả hữu ưng đoạ nhi tốt bất đoạ giả kì nghĩa phi nhất nhược chấp nhất vi
+   　thị tức đoạ ngu si vân hà vi ngoại ngũ vô gian vị tiên sở thuyết sát phụ mẫu
+   　hại la hán phá hòa hợp tăng xuất phật thân huyết nhược thật hữu thử hành giả tức ư
+   　tam giải thoát chứng đắc bất đắc không bất đắc chứng vô tướng bất đắc chứng vô nguyện bất
+   　đắc chứng vi bỉ tội nghiệp thâm trùng phiền não triền phọc tuy hành tam giải thoát pháp môn
+   　nhất nhất bất đắc chứng vô gian đẳng pháp ưng tu thường nghiệp nhập vô gian ngục dã trừ
+   　thử tạo nghiệp giả tất nhập vô gian ngục vô hoặc kỉ tha nhược như lai chư đại bồ
+   　tát cập đại thanh văn tức thượng tam chủng ý sinh thân thần lực biến hoá hiện ngũ vô
+   　gian nghiệp vi dư chúng sinh tạo vô gian nghiệp giả vi dục khuyến phát linh kì cải quá
+   　vi dục khai thị linh kì trừ nghi dĩ thần thông lực thị kì đồng sự sứ bỉ tạo
+   　nghiệp giả tầm tức hối quá trừ nghi chứng ư giải thoát thử giai hoá hiện phi thị thật
+   　tạo vị hữu nhất hướng thật tạo vô gian sự nhi bất nhập vô gian ngục giả nhiên tắc
+   　tạo nghiệp giả tất cánh bất khả miễn hồ duy trừ giác tự tâm hiện lượng sinh tử niết
+   　bàn bình đẳng nhất như tức bất kiến vô gian đẳng khả đắc lương do nội li thân kiến
+   　vọng tưởng năng đoạn/đoán ái dữ vô minh nhị căn bản hoặc ngoại li đắc pháp tư tài vọng
+   　tưởng năng li chư sứ bất hiện chư pháp li ngũ âm hòa hợp tự tâm nhi vi chi
+   　ngã cập ngũ âm hòa hợp sắc pháp nhi vi chi ngã sở kí vô năng thủ hựu vô
+   　sở thủ ư thất chủng thức phá trừ đãi tận hoặc ư đa sinh tằng chủng ban nhược duyên
+   　thục hoặc ngộ như lai hoặc ngộ bồ tát hoặc ngộ thanh văn đắc văn chính pháp khai ngộ
+   　bản tâm tức đắc giải thoát dư thú tướng tục sinh tử luân hồi chủng chủng vọng tưởng kí
+   　vô vọng tưởng tức chứng chân như thị ư tam giải thoát đắc vô gian đẳng pháp mục tiền
+   　kí vô sinh tử khả đắc hựu hà vô gian địa ngục chi hữu thử ngoại ngũ vô gian
+   　nghĩa bất khả bất ban dã thế tôn nhân linh sơn hội thượng ngũ bá tỉ khâu đắc tứ
+   　thiền định cụ ngũ thần thông vị đắc pháp nhẫn dĩ tú mệnh trí thông các các tự kiến
+   　quá khứ sát phụ hại mẫu cập chư trùng tội ư tự tâm nội các các hoài nghi ư
+   　thậm thâm pháp bất năng chứng nhập ư thị văn thù thừa phật thần lực toại thủ ác lợi
+   　kiếm trì bức như lai thế tôn nãi vị văn thù viết trụ trụ bất ưng tác nghịch vật
+   　đắc hại ngô ngô tất bí hại vi thiện bí hại văn thù sư lợi nhĩ tùng bản dĩ
+   　lai vô hữu ngã nhân đãn dĩ nội tâm kiến hữu ngã nhân nội tâm khởi thời ngã tất
+   　bí hại tức danh vi hại ư thị ngũ bá tỉ khâu tự ngộ bản tâm như mộng như
+   　ảo ư mộng ảo trung vô hữu ngã nhân nãi chí năng sinh sở sinh phụ mẫu ư thị
+   　ngũ bá tỉ khâu đồng tán thán viết văn thù đại trí sĩ thâm viễn pháp nguyên để tự
+   　thủ ác lợi kiếm trì bức như lai thân như kiếm phật diệc nhĩ nhất tướng vô hữu nhị
+   　vô tướng vô sở sinh thị trung vân hà sát thủ thử đoạn kinh văn hợp nhi quan chi
+   　tắc như lai thần lực biến hoá linh chư tác vô gian tội giả giai đắc giải thoát tín
+   　tri nhất thiết do tâm tạo dã 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+tham ái danh vi mẫu vô minh tắc vi phụ giác cảnh thức vi phật chư sứ vi la hán
+âm tập danh vi tăng vô gian thứ đệ đoạn/đoán vị thị ngũ vô gian bất nhập vô trạch ngục 。
+   　thông viết hành ngoại ngũ vô gian nghiệp giả sở vị phụ mẫu phật pháp tăng giai tại ngoại
+   　hữu định vị khả chỉ tạo thử nghiệp giả tất nhập vô gian ngục vô nghi dĩ nhược hành
+   　nội ngũ vô gian nghiệp giả đãn dĩ tham ái vi mẫu vô minh vi phụ giác cảnh giới
+   　thất chủng thức vi phật năng đoạn/đoán chư sứ bất hiện vi la hán ngũ âm hòa hợp tụ
+   　tập vi tăng giai tự bát thức điền trung trước ngã nhân chúng sinh thọ giả đẳng tướng cố
+   　lập thử danh năng dĩ vô gian hành thứ đệ đoạn/đoán trừ tức vô ngã nhân chúng sinh thọ
+   　giả đẳng tướng nhi chứng ư vô gian chân thật pháp hĩ hành thị ngũ vô gian giả bất
+   　tác phật cầu bất tác pháp cầu bất tác tăng cầu phật pháp tăng thả vô chi hĩ hựu
+   　hà vô trạch địa ngục chi hữu địa ngục kí vô thùy vi nhập giả ngô cố vị nhược
+   　nam tử nữ nhân hành ngũ vô gian nghiệp bất nhập vô trạch địa ngục giả dĩ thử tăng
+   　vấn lâm tế như hà thị ngũ vô gian nghiệp tế vân sát phụ hại mẫu xuất phật thân
+   　huyết phá hòa hợp tăng phần thiêu kinh tượng đẳng thử thị ngũ vô gian nghiệp vân hà thị
+   　phụ tế vân vô minh thị phụ nễ nhất niệm tâm cầu khởi diệt xứ bất đắc như hưởng
+   　ưng không tùy xứ vô sự danh vi sát phụ vân hà thị mẫu tế vân tham ái vi
+   　mẫu nễ nhất niệm tâm nhập dục giới trung cầu kì tham ái duy kiến chư pháp không tướng
+   　xứ xứ vô trước danh vi hại mẫu vân hà thị xuất phật thân huyết tế vân nễ hướng
+   　thanh tịnh pháp giới trung vô nhất niệm tâm sinh giải tiện xứ xứ hắc ám thị xuất phật
+   　thân huyết vân hà thị phá hòa hợp tăng tế vân nễ nhất niệm tâm chính đạt phiền não
+   　kết sứ như không vô sở y thị phá hòa hợp tăng vân hà thị phần thiêu kinh tượng
+   　tế vân kiến nhân duyên không tâm không pháp không nhất niệm quyết định đoạn/đoán huýnh nhiên vô sự
+   　tiện thị phần thiêu kinh tượng đại đức nhược như thị đạt đắc miễn bí tha phàm thánh danh
+   　ngại thử lâm tế dĩ hướng thượng nhất lộ phát minh ngũ vô gian nghiệp sở vị tâm ngộ
+   　chuyển pháp hoa giả phi da 。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn duy nguyện vi thuyết phật chi tri giác
+thế tôn hà đẳng thị phật chi tri giác phật cáo đại tuệ giác nhân pháp vô ngã liễu tri
+nhị chướng li nhị chủng tử đoạn/đoán nhị phiền não thị danh phật chi tri giác thanh văn duyên giác
+đắc thử pháp giả diệc danh vi phật dĩ thị nhân duyên cố ngã thuyết nhất thừa 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+thiện tri nhị vô ngã nhị chướng phiền não đoạn/đoán vĩnh li nhị chủng tử thị danh phật tri giác 。
+   　thông viết nhất đại sự nhân duyên danh phật tri kiến khai thị ngộ nhập chi giả đãn hữu
+   　nhất thừa canh vô dư thừa bản pháp hoa chỉ dã thử diệc ngôn phi ngã thừa đại thừa
+   　thị phật chi tri giác tuy đại thừa bồ tát bất dị trắc dã cố nguyện phật thuyết ngôn
+   　phật vị giác nhất thiết phật pháp giả danh vi chính giác tri vọng bàn nhược bất tu phương
+   　tiện nhân pháp nhị chấp vi hoặc nhị không vi trí kí dĩ nhị không không kì nhị chấp
+   　thị vô hoặc chướng năng không chi trí diệc dân thị vô trí chướng nhiên hoặc chướng nãi phân
+   　đoạn sinh tử căn nhân trí chướng nãi biến dị sinh tử căn nhân nhân diệt tắc quả diệt
+   　cố li phân đoạn biến dị nhị tử nhị phiền não giả nhất kiến hoặc danh phân biệt phiền
+   　não nhị tu hoặc danh câu sinh phiền não chí cực quả phương năng đoạn/đoán tận phật chi tri
+   　giác giác thử nhi dĩ nhược thanh văn duyên giác pháp chấp vị vô sở tri chướng tại bất
+   　li biến dị tử câu sinh phiền não vị đoạn/đoán năng ư chư quá nhất nhất giác phá đắc
+   　cứu cánh viễn li đồng ư phật giác tức danh vi phật dĩ thị nhân duyên cố ngã thuyết
+   　đãn hữu nhất thừa canh vô dư thừa dã kệ viết thiện tri thiện chi nhất tự hữu vị
+   　nhị thừa tri nhân vô ngã bồ tát tri pháp vô ngã đại phí công lực bất khả vị
+   　thiện chư đại bồ tát năng đoạn/đoán nhị chướng năng đoạn/đoán nhị phiền não do thuộc đối trị bất
+   　nhược như lai nhị chướng phiền não tự đoạn/đoán nhị thừa li phân đoạn tử bất li biến dị
+   　tử bồ tát tuy li nhị tử vị đắc vĩnh li tất như thị cứu tận phương khả danh
+   　phật chi tri giác dã nhập thử tri giác sở vị phi ngã thừa đại thừa giả khả mặc
+   　thức hĩ bá trượng vân trí trược chiếu thanh tuệ thanh thức trược tại phật danh chiếu tuệ tại
+   　bồ tát danh trí tại nhị thừa cập chúng sinh biên danh thức diệc danh phiền não tại phật
+   　danh quả trung thuyết nhân tại chúng sinh danh nhân trung thuyết quả tại phật danh chuyển pháp luân
+   　tại chúng sinh danh pháp luân chuyển tại bồ tát danh anh lạc trang nghiêm cụ tại chúng sinh
+   　danh ngũ âm tùng lâm tại phật danh bản địa vô minh thị vô minh minh cố vân vô
+   　minh vi đạo thể bất đồng chúng sinh ám tế vô minh tất minh ư bá trượng vô minh
+   　chi thuyết nhiên hậu khả khuy phật chi tri giác phi chiêu chiêu linh linh giả khả nghĩ 。
+nhĩ thời đại tuệ bồ tát bạch phật ngôn thế tôn hà cố thế tôn ư đại chúng trung xướng
+như thị ngôn ngã thị quá khứ nhất thiết phật cập chủng chủng thụ sinh ngã nhĩ thời tác mạn
+đà chuyển luân thánh vương lục nha đại tượng cập anh vũ điểu thích đề hoàn nhân thiện nhãn tiên
+nhân như thị đẳng bá thiên sinh kinh thuyết (đường vân thuyết bá thiên bản sinh chi sự )。
+phật cáo đại tuệ dĩ tứ đẳng cố (đường vân y tứ bình đẳng bí mật ý cố )như lai ưng cung đẳng chính giác
+ư đại chúng trung xướng như thị ngôn ngã nhĩ thời tác câu lưu tôn câu na hàm mâu ni
+ca diệp phật vân hà tứ đẳng vị tự đẳng ngữ đẳng pháp đẳng thân đẳng thị danh tứ đẳng
+dĩ tứ chủng đẳng cố như lai ưng cung đẳng chính giác ư đại chúng trung xướng như thị ngôn
+vân hà tự đẳng nhược tự xưng ngã vi phật bỉ tự diệc xưng nhất thiết chư phật (đường vân vị ngã
+danh phật nhất thiết như lai diệc danh vi phật )bỉ tự tự tính vô hữu sai biệt thị danh tự đẳng 。
+   　thông viết phật giác tức thị pháp thân pháp thân nhất nhi dĩ hĩ cố thuyết nhất thừa nhược
+   　dĩ pháp thân bản nhất nhi nghi báo hoá chi thân chủng chủng bất đồng đãn ư tướng thượng
+   　tự sinh chướng ngại nhĩ dĩ phật trí quan chi nhất thiết bình đẳng hà bá thiên bản sinh
+   　chi sự bất quy ư nhất tai phật dĩ quá khứ vi đỉnh sinh vương vi đế thích vi
+   　tiên nhân nãi chí vi tượng nhược anh vũ đẳng thuyết thị pháp thân nan dĩ cự tín cố
+   　thuyết quá khứ nhất thiết phật thị ngã dĩ tự bình đẳng ngữ bình đẳng pháp bình đẳng thân
+   　bình đẳng tứ giả tướng đẳng mật ý nhi thuyết tức thị ngã dã vân hà vị tự bình
+   　đẳng da nhược bỉ tự xưng ngã danh phật quá khứ nhất thiết như lai diệc đồng bỉ tự
+   　nhi xưng vi phật phật tự tự tính vô dị vô biệt hữu thị thật tức hữu thị danh
+   　hữu thị danh tức hữu thị tự nhược bồ tát nhi hạ tức bất đắc thử danh danh đồng
+   　tự đồng vị ngã thị quá khứ nhất thiết phật hề bất khả dã ngưỡng sơn vấn tam thánh
+   　nhữ danh thập ma thánh vân tuệ tịch ngưỡng vân tuệ tịch thị ngã thánh vân ngã danh tuệ
+   　nhiên ngưỡng sơn a a đại tiếu tuyết đậu tụng vân song thu song phóng nhược vi tông kị
+   　hổ do lai yếu tuyệt công tiếu bãi bất tri hà xứ khứ chỉ ưng thiên cổ động bi
+   　phong nhược nhị tôn tú bỉ thử hỗ hoán bả thủ tịnh hành thật thị nan trắc tất khế
+   　hồ thử phương giải tự đẳng 。
+vân hà ngữ đẳng vị ngã lục thập tứ chủng phạm âm ngôn ngữ tướng sinh bỉ chư như lai
+ưng cung đẳng chính giác diệc như thị lục thập tứ chủng phạm âm ngôn ngữ tướng sinh vô tăng
+vô giảm vô hữu sai biệt ca lăng tần già (thử vân diệu thanh điểu )phạm âm thanh tính 。
+   　thông viết lục thập tứ chủng phạm âm như mật tích lực sĩ kinh thuyết phật thanh hữu bát
+   　chuyển vị thể nghiệp cụ vi tùng thuộc ư hô thị bát chuyển thanh các cụ bát đức vị
+   　điều hòa thanh nhu nhuyễn thanh đế liễu thanh dị giải thanh vô thác mậu thanh vô thư tiểu
+   　thanh quảng đại thanh thâm viễn thanh bát bát tức thành lục thập tứ thanh ngôn ngữ tướng sinh
+   　bất li phạm âm nhất thiết chư phật giai nhiên chính pháp niệm kinh vân ca lăng tần già
+   　xuất diệu âm thanh nhược thiên nhược nhân khẩn na la đẳng vô năng cập giả duy trừ như
+   　lai âm thanh cố phật dĩ nhất âm diễn pháp tùy loại các giải phi cụ túc thử âm
+   　thanh tính nhi năng nhiên hồ duy ư âm thanh tính vô tăng giảm vô sai biệt cố lục
+   　thập tứ chủng phạm âm dữ nhất thiết chư phật đẳng dã nam toàn hoán viện chủ chủ ưng
+   　nặc toàn viết phật cửu thập nhật tại đao lợi thiên vi mẫu thuyết pháp thời ưu điền vương
+   　tư phật thỉnh mục liên vận thần thông tam chuyển nhiếp tượng nhân vãng bỉ điêu phật tượng chi
+   　điêu đắc tam thập nhất tướng vi thậm ma phạm âm tướng điêu bất đắc chủ vấn như hà
+   　thị phạm âm tướng toàn viết trám sát nhân dược sơn nhất dạ đăng sơn kinh hành hốt vân
+   　khai kiến nguyệt đại sất nhất thanh ưng lễ dương đông cửu thập lí hứa cư dân tận vị
+   　đông gia minh thần điệt tướng suy vấn trực chí dược sơn đồ chúng viết tạc dạ hòa thượng
+   　sơn đỉnh đại sất lí cao tặng chi thi viết soát đắc u cư khiếp dã tình chung niên
+   　vô tống diệc vô nghênh hữu thời trực thượng cô phong đỉnh nguyệt hạ phi vân sất nhất thanh
+   　tức dược sơn thanh văn cửu thập lí khả tri như lai ca lăng tiên âm biến thập phương
+   　giới đãi phi hư ngữ 。
+vân hà thân đẳng vị ngã dữ chư phật pháp thân cập sắc thân tướng hảo vô hữu sai biệt
+trừ vi điều phục bỉ bỉ chư thú sai biệt chúng sinh cố thị hiện chủng chủng sai biệt sắc
+thân thị danh thân đẳng 。
+   　thông viết pháp thân cập sắc thân tướng hảo chỉ pháp báo hoá tam thân dữ chư phật vô
+   　dị nhiên pháp thân duy nhất báo thân hữu nhị vị tự thụ dụng cập tha thụ dụng tự
+   　thụ dụng giả hằng tự thụ dụng quảng đại pháp lạc/nhạc/nhạo tha thụ dụng giả linh bồ tát chúng
+   　thụ dụng đại thừa pháp lạc/nhạc/nhạo hoá thân hữu tam vị đại hoá thiên trượng lô xá na cập
+   　vô biên tướng hảo đẳng tiểu hoá trượng lục thích ca tùy loại hoá tức sở vân chủng chủng
+   　thụ sinh đỉnh sinh thiên đế đại tượng anh vũ đẳng vô xứ bất nhập nhiên chuyển diệt tam
+   　tâm tức đắc tam thân nhất căn bản tâm tức đệ bát thức chuyển đắc pháp thân nhị y
+   　bản tâm tức đệ thất thức chuyển đắc báo thân tam khởi sự tâm tức tiền lục thức chuyển
+   　đắc hoá thân phật phật hàm chứng thử tâm cố thân đẳng dã sơ sơn thượng đường vân bệnh
+   　tăng hàm thông niên tiền hội đắc pháp thân biên sự hàm thông niên hậu hội đắc pháp thân
+   　hướng thượng sự vân môn xuất vấn như hà thị pháp thân biên sự sơn viết khô xuân viết
+   　như hà thị pháp thân hướng thượng sự sơn viết phi khô xuân môn viết hoàn hứa mỗ giáp
+   　thuyết đạo lí dã vô sơn viết hứa môn viết khô thung khởi bất thị minh pháp thân biên
+   　sự sơn viết thị môn viết phi khô thung khởi bất thị minh pháp thân hướng thượng sự sơn
+   　viết thị môn viết chi như pháp thân hoàn cai nhất thiết dã vô sơn viết pháp thân chu
+   　biến khởi đắc bất cai môn chỉ tịnh bình viết chi như tịnh bình hoàn cai pháp thân ma
+   　sơn viết xà lê mạc hướng tịnh bình biên mịch môn tiện lễ bái cổ đức vân trường giả
+   　trường pháp thân đoản giả đoản pháp thân thiên đồng niêm vân thả đạo thuấn nhược đa thần hoán
+   　thậm ma tác pháp thân lương cửu vân hoàn hội ma bất khả tục phù tiệt hạc di nhạc
+   　doanh hác khứ dã thử ngữ chánh khủng nhân hướng hư không lí đinh quyết khứ tại 。
+vân hà pháp đẳng vị ngã cập bỉ phật đắc tam thập thất bồ đề phân pháp lược thuyết phật
+pháp vô chướng ngại trí thị danh tứ đẳng thị cố như lai ưng cung đẳng chính giác ư đại
+chúng trung xướng như thị ngôn 。
+   　thông viết tam thập thất bồ đề phân pháp viết tứ niệm xứ viết tứ chính cần viết tứ
+   　thần túc viết ngũ căn viết ngũ lực viết thất giác chi viết bát thánh đạo hà vị tứ
+   　niệm trụ vị thân niệm trụ thụ niệm trụ tâm niệm trụ pháp niệm trụ ư nội thân ngoại
+   　thân nội ngoại thân đẳng bất khởi tầm tư cụ chính niệm tri vi dục điều phục thế tham
+   　ưu đẳng trụ tập diệt quan vô sở y chỉ hà vị tứ chính đoạn/đoán vị vị sinh ác
+   　bất sinh dĩ sinh ác vĩnh đoạn/đoán vị sinh thiện linh sinh dĩ sinh thiện bất vô hà vị
+   　tứ thần túc vị dục tam ma địa cần tam ma địa tâm tam ma địa quan tam ma
+   　địa y li y áp y diệt hồi hướng ư xả hà vị ngũ căn vị tín căn tinh
+   　tấn căn niệm căn định căn tuệ căn hà vị ngũ lực vị tín lực tinh tấn lực niệm
+   　lực định lực tuệ lực hà vị thất đẳng giác vị niệm đẳng giác chi trạch pháp đẳng giác
+   　chi tinh tấn đẳng giác chi hỉ đẳng giác chi khinh an đẳng giác chi định đẳng giác chi
+   　xả đẳng giác chi hà vị bát thánh đạo vị chính kiến chính tư duy chính ngữ chính nghiệp
+   　chính mệnh chính tinh tấn chính niệm chính định giai sở dĩ đoạn/đoán trừ phiền não nhi xu hướng
+   　bồ đề chi diệu pháp dã tổng dĩ dụ hiển pháp tính như địa niệm xứ như chủng tử
+   　chính cần vi chủng thực thần túc như trừu nha ngũ căn như sinh căn ngũ lực như hành
+   　diệp tăng trường khai thất giác hoa kết bát chính quả nhất thiết chư phật sở chứng vô dị
+   　chư phật dĩ thử hoá đạo chúng sinh ngã diệc vô dị cố danh pháp đẳng phật pháp chí
+   　đại nhược ư kì trung vi hữu chướng ngại tức bất tướng đẳng ngã duy ư phật pháp đắc
+   　vô chướng ngại trí nhất chân bình đẳng pháp giới vô hữu bỉ thử sai biệt đãn lược thuyết
+   　hữu thử tứ đẳng nhĩ nhược cứu nhi ngôn chi pháp pháp giai đẳng ninh đãn tứ giả nhi
+   　dĩ tai thị cố như lai ư đại chúng trung xướng như thị ngôn ngã thị quá khứ nhất
+   　thiết phật phật chi tri giác kí vô lưỡng ban phật chi tam thân tự đồng nhất triệt cố
+   　ngã thuyết nhất thừa dã tích tăng vấn triệu châu vạn pháp quy nhất nhất quy hà xứ châu
+   　vân ngã tại thanh châu tác nhất lĩnh bố sam trùng thất cân tuyết đậu tụng vân biến tị
+   　tằng ai lão cổ trùy thất cân sam trùng kỉ nhân tri như kim phao trịch tây hồ lí
+   　hạ tái thanh phong phó dữ thùy hựu tăng vấn cổ đức thâm sơn huyền nhai huýnh tuyệt vô
+   　nhân xứ hoàn hữu phật pháp dã vô cổ đức vân hữu tăng vân như hà thị thâm sơn
+   　lí phật pháp cổ đức vân thạch đầu đại để đại tiểu để tiểu thả đạo hữu phật pháp
+   　thương lượng dã vô nhược đạo tha hữu phật pháp tha hựu hà tằng thuyết tâm thuyết tính thuyết
+   　huyền thuyết diệu nhược đạo vô phật pháp chỉ thú tha hựu bất tằng cô phụ nễ vấn đầu
+   　minh đắc thử ý phương tri hạ tái thanh phong dã 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+ca diệp câu lưu tôn câu na hàm thị ngã dĩ thử tứ chủng đẳng ngã vi phật tử thuyết 。
+   　thông viết kiến tại hiền kiếp đệ nhất tôn viết câu lưu tôn phật thử vân sở ưng đoạn/đoán
+   　đệ nhị tôn viết câu na hàm mâu ni thử vân kim tịch đệ tam tôn viết ca diệp
+   　thử vân ẩm quang câu lưu tôn thuyết pháp kệ viết kiến thân vô thật thị phật thân liễu
+   　tâm như ảo thị phật ảo liễu đắc thân tâm bản tính không tư nhân dữ phật hà thù
+   　biệt câu na hàm thuyết pháp kệ viết phật bất kiến thân tri thị phật nhược thật hữu tri
+   　biệt vô phật trí giả năng tri tội tính không thản nhiên bất bố ư sinh tử ca diệp
+   　phật thuyết pháp kệ viết nhất thiết chúng sinh tính thanh tịnh tùng bản vô sinh vô khả diệt
+   　tức thử thân tâm thị ảo sinh ảo hoá chi trung vô tội phúc thích ca mâu ni thử
+   　vân năng nhân thị đệ tứ tôn nhiên ư đại chúng trung mỗi thuyết ca diệp câu lưu tôn
+   　câu na hàm thị ngã vi đắc phật pháp vô chướng ngại trí cố tự đẳng ngữ đẳng thân
+   　đẳng pháp đẳng dĩ thử tứ chủng tướng đẳng dữ nhất thiết phật canh vô sai biệt thử khả
+   　dữ phật tử đạo nan vi chúng nhân ngôn dã thế tôn thường dữ a nan hành thứ kiến
+   　nhất cổ phật đáp thế tôn tiện tác lễ a nan viết thử thị thậm ma nhân đáp thế
+   　tôn viết thử thị quá khứ chư phật đáp a nan viết quá khứ chư phật thị thậm ma
+   　nhân đệ tử thế tôn viết thị ngô đệ tử a nan viết ưng đương như thị bá trượng
+   　đồng tử thời tùy mẫu nhập tự bái phật chỉ tôn tượng vấn mẫu thử thị hà vật mẫu
+   　viết thị phật đồng vân hình dong tự nhân vô dị ngã hậu diệc đương tác yên cố tri
+   　bá trượng cụ hữu như lai chủng tính kì thiệu long phật pháp dã hà nghi 。
+đại tuệ phục bạch phật ngôn như thế tôn sở thuyết ngã tùng mỗ dạ đắc tối chính giác nãi
+chí mỗ dạ nhập ban niết bàn ư kì trung gian nãi chí bất thuyết nhất tự diệc bất dĩ
+thuyết đương thuyết bất thuyết thị phật thuyết (ngụy vân phật ngữ phi ngữ )thế tôn như lai ưng cung đẳng chính giác
+hà nhân thuyết ngôn bất thuyết thị phật thuyết phật cáo đại tuệ ngã nhân nhị pháp cố tác như
+thị thuyết vân hà nhị pháp vị duyên tự đắc pháp cập bản trụ pháp thị danh nhị pháp nhân
+thử nhị pháp cố ngã như thị thuyết vân hà duyên tự đắc pháp nhược bỉ như lai sở đắc
+ngã diệc đắc chi vô tăng vô giảm duyên tự đắc pháp cứu cánh cảnh giới li ngôn thuyết vọng
+tưởng li tự nhị thú (đường vân chứng trí sở đắc li ngôn ngữ tướng li phân biệt tướng li danh tự tướng )。
+   　thông viết thượng ngôn phật chi tri giác dữ nhất thiết phật vô dị sở vị giác nhất thiết
+   　phật pháp giả khả dĩ ngôn thuyết thị dã chí duyên tự đắc lạc/nhạc/nhạo tướng đãn khả tự tri
+   　bất dong ngôn thuyết cố đại tuệ phục cử thế tôn tứ thập cửu niên bất tằng thuyết trước
+   　nhất tự thị hướng thượng nhất lộ ngôn thuyết bất cập bất thuyết tức thị phật thuyết phật thuyết
+   　tức thị bất thuyết quá khứ phật như thị đương lai phật diệc như thị y hà đẳng nghĩa
+   　tác như thị thuyết phật dĩ duyên tự đắc pháp cập bản trụ pháp nhị giả giai bất dong
+   　ngôn thuyết cố dã vân hà duyên tự đắc pháp nhược bỉ như lai thức tự bản tâm kiến
+   　tự bản tính ư vô thượng bồ đề hữu sở chứng đắc ngã diệc tùng trung chứng đắc vô
+   　tăng vô giảm duy vô nhất pháp khả đắc cố vô tăng giảm nhược khả tăng khả giảm tức
+   　hữu khả thuyết duy vô tăng giảm tức thị tự đắc pháp cứu cánh cảnh giới li ngôn thuyết
+   　tướng bất khả dĩ hữu thanh phân biệt thuyết li văn tự tướng bất khả dĩ vô thanh phân
+   　biệt thuyết li thử nhị thú đãn khả tự tri tự giải thử duyên tự đắc pháp cố bất
+   　thuyết dã vân môn vân phật pháp đại sát hữu chi thị thiệt đầu đoản phục tự vân trường
+   　dã thiên đồng niêm vân vân môn đại sư tuy nhiên tự khởi tự đảo yếu thả xa bất
+   　hoành suy lí vô khúc đoạn/đoán hựu ô thạch linh quan thiền sư vân nhược ngôn ngã bất đạo
+   　tức á khước ngã khẩu nhược ngôn ngã đạo tức ngốc khước ngã thiệt giác phạm vân phật pháp
+   　đại hữu chi thị nha thống chư tôn tú đắc tự giác thánh trí thiện lạc/nhạc/nhạo như á tử
+   　khiết khổ qua bất năng thuyết tự ư nhân tín tri như lai hữu bất thuyết thuyết dã 。
+vân hà bản trụ pháp vị cổ tiên thánh đạo như kim ngân đẳng tính pháp giới thường trụ nhược
+như lai xuất thế nhược bất xuất thế pháp giới thường trụ như thú bỉ thành đạo thí như sĩ
+phu hành khoáng dã trung kiến hướng cổ thành bình thản chính đạo tức tùy nhập thành thụ như ý
+lạc/nhạc/nhạo (đường vân vị pháp bản tính như kim tại khoáng nhược phật xuất thế nhược bất xuất thế pháp trụ pháp vị pháp giới pháp tính giai tất thường trụ thí như hữu nhân hành khoáng dã trung kiến hướng
+cổ thành bình thản cựu đạo tức tiện tùy nhập chỉ tức du hí )đại tuệ ư ý vân hà bỉ tác thị đạo cập thành trung
+chủng chủng lạc/nhạc/nhạo da đáp ngôn bất dã (ngụy vân bỉ nhân thuỷ tác thị đạo tùy nhập thành da thuỷ tác chủng chủng chư trang nghiêm da )phật cáo
+đại tuệ ngã cập quá khứ nhất thiết chư phật pháp giới thường trụ diệc phục như thị (đường vân ngã cập
+chư phật sở chứng chân như thường trụ pháp tính diệc phục như thị )thị cố thuyết ngôn ngã tùng mỗ dạ đắc tối chính giác nãi
+chí mỗ dạ nhập ban niết bàn ư kì trung gian bất thuyết nhất tự diệc bất dĩ thuyết đương
+thuyết 。
+   　thông viết vân hà bản trụ pháp bất dong thuyết dã ngôn pháp tính bản tự thường trụ sở
+   　vị chư pháp tùng bản lai thường tự tịch diệt tướng thị pháp trụ pháp vị thế gian tướng
+   　thường trụ thị dã như kim tại khoáng tại khoáng bất tăng xuất khoáng bất giảm thử kim ngân
+   　tính dã cố hữu phật bất tăng vô phật bất giảm thử pháp giới pháp dã pháp giới thường
+   　trụ bất tăng bất giảm tức thị bình thản đạo lộ chúng thánh cộng do do thử đạo giả
+   　tức đăng bỉ ngạn thụ như ý lạc/nhạc/nhạo lương do thử đạo phi do thuỷ tác cập nhập thành
+   　trung chủng chủng thụ lạc/nhạc/nhạo diệc phi thuỷ tác dĩ vô tác cố bản vô khả thuyết đại đạo
+   　bình thản thụ dụng tự tại tùng cổ dĩ nhiên phi đãi kim nhật ngã cập chư phật sở
+   　chứng chân như thường trụ pháp tính diệc phục như thị duy tại tự hành tự tri mặc khế
+   　nhi dĩ dĩ tự đắc giả tức bản trụ pháp câu bất khả thuyết thị cố thuỷ chung trung
+   　gian bất thuyết nhất tự tăng vấn thiên trụ sơn sùng tuệ thiền sư đạt ma vị lai thử
+   　độ thời hoàn hữu phật pháp dã vô sư viết vị lai thả trí tức kim sự tác ma
+   　sinh viết mỗ giáp bất hội khí sư chỉ thị sư viết vạn cổ trường không nhất triêu phong
+   　nguyệt tăng vô ngữ sư phục viết xà lê hội ma viết bất hội sư viết tự kỉ phân
+   　thượng tác ma sinh can tha đạt ma lai dữ bất lai tác ma tha gia lai đại tự
+   　mại bốc hán kiến nhữ bất hội vi nhữ trùy phá quái văn tài sinh cát hung tận tại
+   　nhữ phân thượng nhất thiết tự khán tăng viết như hà thị giải bốc để nhân sư viết nhữ
+   　tài xuất môn thời tiện bất trung dã vấn như hà thị đại thông trí thắng phật sư viết
+   　khoáng đại kiếp lai bất tằng ủng trệ bất thị đại thông trí thắng phật thị thậm ma viết
+   　vi thậm ma phật pháp bất hiện tiền sư viết chỉ vi nhữ bất hội sở dĩ thành bất
+   　hiện tiền nhữ nhược hội khứ diệc vô phật khả thành vấn tùng thượng chư thánh hữu hà ngôn
+   　thuyết sư viết nhữ kim kiến ngô hữu hà ngôn thuyết quan tuệ thiền sư chủng chủng thuyết thoại
+   　đại tự thử đoạn nghĩa sơ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+ngã mỗ dạ thành đạo chí mỗ dạ niết bàn ư thử nhị trung gian ngã đô vô sở thuyết
+duyên tự đắc pháp trụ cố ngã tác thị thuyết bỉ phật cập dữ ngã tất vô hữu sai biệt 。
+   　thông viết tiền thuyết tự đẳng ngữ đẳng thân đẳng pháp đẳng vị thường vô thuyết dã sở khả
+   　thuyết giả giác nhất thiết phật pháp nhĩ chí duyên tự đắc lạc/nhạc/nhạo tướng tịnh vô khai khẩu xứ
+   　sở dĩ thuỷ ư thành đạo chung vu niết bàn ư nhị trung gian bất thuyết nhất tự duyên
+   　bản trụ pháp bản tự tịch diệt bản tự thường trụ đắc thử pháp giả li ngôn thuyết tướng
+   　li văn tự tướng phi thuyết chi sở khả cập cố đô vô sở thuyết dã thử hướng thượng
+   　nhất lộ bất dong ngôn thuyết ngã cập chư phật tất vô sai biệt diệc bất dĩ thuyết đương
+   　thuyết cố vị bất thuyết thị phật thuyết dã tăng vấn quảng đức nghĩa thiền sư cổ nhân vân
+   　ngôn ngữ đạo đoạn/đoán phi khứ lai kim thử lí như hà đức vân di lặc niết bàn tri
+   　kỉ kiếp hộ minh do vị giáng ca duy đan hà tụng vân diệu đam viên minh đệ nhất
+   　cơ giáng sinh thành đạo niết bàn thời ca duy ma kiệt song lâm thụ nhận trước nguyên lai
+   　bất thị y lâm toàn đạo hoàn tri ngôn ngữ đạo đoạn/đoán phi khứ lai kim xứ ma nhất
+   　đường phong lãnh đạm thiên cổ ý phân minh 。
+nhĩ thời đại tuệ bồ tát phục thỉnh thế tôn duy nguyện vi thuyết nhất thiết pháp hữu vô hữu
+tướng linh ngã cập dư bồ tát ma ha tát li hữu vô hữu tướng tật đắc a nậu đa
+la tam miệu tam bồ đề phật cáo đại tuệ đế thính đế thính thiện tư niệm chi đương vi
+nhữ thuyết đại tuệ bạch phật ngôn thiện tai thế tôn duy nhiên thụ giáo phật cáo đại tuệ thử
+thế gian y hữu nhị chủng vị y hữu cập vô đoạ tính phi tính dục kiến bất li li
+tưởng (ngụy vân dĩ kiến hữu chư pháp kiến vô chư pháp phi cứu cánh pháp sinh cứu cánh tưởng )。
+   　thông viết nhân thượng ngôn quá khứ phật thị ngã tắc tự hữu tướng hựu ngôn bất thuyết nhất
+   　tự tắc tự vô tướng tu li thử hữu vô nhị tướng phương đắc vô thượng bồ đề cố
+   　thỉnh thế tôn tường ngôn chi tịnh danh vân bản tế bất khả đắc dĩ sinh tử niết bàn
+   　bản lai bình đẳng hữu vô nhị câu li cố thế gian chúng sinh y hữu khởi kiến giả
+   　bất xuất sinh tử pháp y vô khởi kiến giả bất xuất niết bàn pháp đoạ hữu giả vị
+   　thật hữu thị tính cố thị dục kiến đoạ vô giả vị hữu dĩ hoàn vô nhất thiết phi
+   　tính diệc thị dục kiến bỉ đoạ hữu dục kiến giả cố vị năng xuất li sinh tử bỉ
+   　đoạ vô dục kiến giả diệc bất năng xuất li sinh tử vọng vị xuất li bản phi cứu
+   　cánh pháp sinh cứu cánh tưởng thị đoạ hữu giả bất túc luận nhi đoạ vô giả đương thâm
+   　ban dã đại luận vân nhược bất đắc ban nhược phương tiện nhập a tì đàm tức đoạ hữu
+   　trung nhập không tức đoạ vô trung đảo chấp chính pháp hoàn thành tà nhân thế cố hữu học
+   　phật pháp thành ngoại đạo kiến giả an khả bất thâm ban hồ bá trượng vân văn thù thị
+   　thất phật tổ sư diệc vân thị sa bà thế giới đệ nhất chủ thủ bồ tát vô đoan
+   　tác kiến phật tưởng vấn pháp tưởng bí phật uy thần lực cố tả giáng nhị thiết vi sơn
+   　bất thị bất giải đặc dữ chư học nhân tác tiêu tắc linh chư hậu học nhân mạc tác
+   　dữ ma kiến văn đãn vô nhất thiết hữu vô đẳng pháp hữu vô đẳng kiến nhất cá cá
+   　thấu quá tam cú ngoại thị danh như ý bảo thị danh bảo hoa thừa túc nhược tác phật
+   　kiến pháp kiến đãn thị nhất thiết hữu vô đẳng kiến danh nhãn ế kiến sở kiến cố diệc
+   　danh kiến triền diệc danh kiến cái diệc danh kiến nghiệt chi như kim niệm niệm cập nhất thiết
+   　kiến văn giác tri cập nhất thiết trần cấu khư đắc tận đãn thị nhất trần nhất sắc tổng
+   　thị nhất phật đãn khởi nhất niệm tổng thị nhất phật tam thế ngũ âm niệm niệm thùy tri
+   　kì số thị danh phật bức tắc hư không thị danh phân thân phật thị danh bảo đáp kiến
+   　tất như bá trượng sở vân phương danh cứu cánh pháp dã 。
+đại tuệ vân hà thế gian y hữu vị hữu thế gian nhân duyên sinh phi bất hữu tùng hữu
+sinh phi vô hữu sinh (đường vân vị hữu nhân duyên nhi sinh chư pháp thật phi bất hữu thật hữu chư pháp tùng nhân duyên sinh phi vô pháp sinh )đại tuệ
+bỉ như thị thuyết giả thị thuyết thế gian vô nhân 。
+   　thông viết nhược liễu thế gian chư pháp bản tự vô sinh tắc hữu nhi bất hữu thị vị
+   　diệu hữu vị thường bất giả nhân duyên hòa hợp sinh nhiên tức nhân duyên phi nhân duyên cố
+   　bất trước ư hữu dã nhược thế gian y hữu kiến giả vị thật hữu nhân duyên nhi sinh
+   　chư pháp phi vô nhân duyên dã thật hữu chư pháp tùng nhân duyên sinh phi vô chư pháp
+   　dã bỉ tác như thị thuyết giả vị thế gian thật hữu sinh nhân ngô dĩ vi thị vô
+   　nhân thuyết dã ngoại đạo vọng kế tác giả dĩ vi sinh nhân như thắng tính tứ đại thời
+   　hòa hợp vi trần tự tại đẳng dĩ vi sinh pháp chi bản nhiên thử số giả thị sở
+   　tác phi thị năng tác thị sở sinh phi thị năng sinh bản bất năng sinh nhi vọng dĩ
+   　vi sinh nhân thị vô nhân dã thế khởi hữu vô nhân nhi năng sinh giả hồ cố tri
+   　thế gian ư phi nhân kế nhân thị ư phi hữu kế hữu dã đoạ hữu kiến giả thành
+   　vọng luật sư pháp minh vị đại châu viết thiền sư gia đa lạc không châu viết đô thị
+   　tòa chủ gia lạc không minh đại kinh viết hà đắc lạc không châu viết kinh luân thị chỉ
+   　mặc văn tự giả câu thị không thiết ư thanh thượng kiến lập danh cú đẳng pháp vô phi
+   　thị không tòa chủ chấp trệ giáo thể khởi bất lạc không minh viết thiền sư lạc không phủ
+   　châu viết bất lạc không minh viết hà đắc khước bất lạc không châu viết văn tự đẳng giai
+   　tùng trí tuệ nhi sinh đại dụng hiện tiền na đắc lạc không tri thử tắc tri y hữu
+   　giả vô nhân 。
+đại tuệ vân hà thế gian y vô vị thụ tham khuể si tính dĩ nhiên hậu vọng tưởng kế
+trước tham khuể si tính phi tính đại tuệ nhược bất thủ hữu tính giả tính tướng tịch tĩnh cố
+(ngụy vân vô hữu chư pháp dĩ bất kiến chư vật tướng cố )vị chư như lai thanh văn duyên giác bất thủ tham khuể si
+tính vi hữu vi vô đại tuệ thử trung hà đẳng vi hoại giả đại tuệ bạch phật ngôn thế
+tôn nhược bỉ thủ tham khuể si tính hậu bất phục thủ phật cáo đại tuệ thiện tai thiện tai
+nhữ như thị giải đại tuệ phi đãn tham khuể si tính phi tính vi hoại giả ư thanh văn
+duyên giác cập phật diệc thị hoại giả sở dĩ giả hà vị nội ngoại bất khả đắc cố phiền
+não tính dị bất dị cố đại tuệ tham khuể si nhược nội nhược ngoại bất khả đắc tham khuể
+si tính vô thân cố vô thủ cố phi phật thanh văn duyên giác thị hoại giả phật thanh văn
+duyên giác tự tính giải thoát cố phọc dữ phọc nhân phi tính cố đại tuệ nhược hữu phọc giả
+ưng hữu phọc thị phọc nhân cố đại tuệ như thị thuyết hoại giả thị danh vô hữu tướng 。
+   　thông viết sở vị thế gian y vô kiến giả vị bỉ thụ tham khuể si tính tri kì
+   　tạo chủng chủng nghiệp bất miễn ư khổ dĩ toại dục đoạn/đoán bỉ tham khuể si tính vọng tưởng
+   　phân biệt kế trước hữu dĩ hoàn vô nhất thiết giai không dĩ vi niết bàn phu tiên thụ
+   　chi nhi hậu đoạn/đoán chi kiến hữu vật tướng dĩ vi đối trị phi chân tịch tĩnh pháp dã
+   　nhược bất thủ thế gian chư hữu tướng giả bất kiến hữu tham khuể si tính khả thủ tức
+   　bất kiến hữu tham khuể si tính khả đoạn/đoán tính tướng như như bản tự tịch tĩnh cố thử
+   　tịch tĩnh chi pháp phi nhất thiết phàm ngu sở khả kỉ dã vị chư như lai thanh văn
+   　duyên giác bất thủ thế gian tham khuể si tính duy kì bất thủ an sở kiến kì hữu
+   　hồ phu kí bất hữu an sở kiến kì vô hồ thử tam thừa thánh nhân vô tham khuể
+   　si tính phi tiên hữu hậu vô chi vị dã nhiên bản lai tịch tĩnh chi lí dữ bỉ
+   　ngoại đạo đoạn/đoán diệt chi kiến đốn thù nhị giả bất khả vô ban cố vấn đại tuệ hà
+   　giả vi hoại đại tuệ tắc dĩ tiên thủ tham đẳng hậu bất phục thủ danh chi viết hoại
+   　phu tiên thủ chi kí kiến kì hữu hậu bất phục thủ hựu kiến kì vô thị dục hoại
+   　diệt sở hữu tương vô sở bất hoại giả cố phật vị thử nhân phi đãn bất thủ tham
+   　si đẳng tính tiên hữu hậu vô vi thị đoạn/đoán diệt bỉ ư tam thừa thánh nhân sở chứng
+   　bất sinh bất diệt chi pháp diệc thị đoạn/đoán diệt cứu cánh diệc vô tam thừa danh tự đồng
+   　quy ư hoại nhi dĩ bất tri tam thừa thánh nhân sở chứng phi đoạn/đoán diệt tỉ sở dĩ
+   　giả hà vị tham sân si đẳng nội nhi thân tâm ngoại nhi trần cấu nhất thiết liễu bất
+   　khả đắc cố tham sân si tính tức thị phiền não thử phiền não tính tức thị bồ đề
+   　như băng chi dữ thuỷ dị bất dị cố phu tham khuể si tính nhược nội thân trung bất
+   　khả đắc nhược ngoại pháp trung diệc bất khả đắc thị tham khuể si tính bản vô thể cố
+   　kí vô thể tính tức vô khả thủ kí vô khả thủ tức vô khả hoại cố như lai
+   　thanh văn duyên giác hữu ngộ vu thử đãn kiến chư pháp tịch tĩnh bản vô khả thủ phi
+   　dữ tham khuể si tác đối nhi dục hoại chi dã tam thừa thánh nhân kí phi thị hoại
+   　giả hà dĩ năng vô tham khuể si da dĩ tam thừa thánh nhân sở chứng chân như tự
+   　tính bản tự giải thoát cố tâm cảnh bất tướng đáo đương xứ giải thoát ngoại bất kiến hữu
+   　vi chi phọc giả nội bất kiến hữu vi phọc chi nhân giả phọc dữ phọc nhân bản phi
+   　hữu cố phiền não vi phọc phiền não tính tự không vô minh vô phọc chi nhân vô minh
+   　tính tự không phọc dữ phọc nhân câu không an đắc bất giải thoát dã nhược kiến hữu tham
+   　khuể si tính vi phọc giả ưng hữu ngũ trụ phiền não vi phọc chi nhân dục đoạn/đoán kì
+   　phọc tất đoạn/đoán kì nhân thị kiến phọc dữ phọc nhân vi hữu tính cố bất ngộ phiền não
+   　tính dị bất dị cố nãi dục nhất nhất nhi đoạn/đoán hoại chi dĩ vi phi hữu thị ư
+   　bản phi hữu giả vọng kế vi hữu ư bản phi vô giả vọng kế vi vô như thị
+   　thuyết hoại giả thị tiêu nha bại chủng đoạn/đoán phật chủng tính giả dã thị danh nhất thiết vô
+   　hữu tướng thế gian y ư vô kiến nhi thủ vô tướng giả như thử tăng vấn đại châu
+   　như hà đắc đại niết bàn châu viết bất tạo sinh tử nghiệp viết như hà thị sinh tử
+   　nghiệp châu viết cầu đại niết bàn thị sinh tử nghiệp xả cấu thủ tịnh thị sinh tử nghiệp
+   　hữu đắc hữu chứng thị sinh tử nghiệp bất thoát đối trị môn thị sinh tử nghiệp viết vân
+   　hà tức đắc giải thoát châu viết bản tự vô phọc bất dụng cầu giải trực dụng trực hành
+   　thị vô đẳng đẳng tri thử tắc tri y vô giả phi chân niết bàn dã 。
+đại tuệ nhân thị cố ngã thuyết ninh thủ nhân kiến như tu di sơn bất khởi vô sở hữu
+tăng thượng mạn không kiến đại tuệ vô sở hữu tăng thượng mạn giả thị danh vi hoại đoạ tự
+cộng tướng kiến hi vọng bất tri tự tâm hiện lượng (đường vân đoạ tự cộng kiến dục lạc/nhạc/nhạo chi trung bất liễu chư pháp duy tâm sở hiện )
+kiến ngoại tính vô thường sa na triển chuyển hoại âm giới nhập tướng tục lưu chú biến diệt li
+văn tự tướng vọng tưởng thị danh vi hoại giả 。
+   　thông viết đường vân ngã y thử nghĩa mật ý nhi thuyết ninh khởi ngã kiến như tu di
+   　sơn bất khởi không kiến hoài tăng thượng mạn bỉ dĩ nhất thiết vô sở hữu duy kiến nhất
+   　không thế gian vạn pháp vô túc gia kì thượng giả dĩ thị mạn hĩ cập văn chân không
+   　bất không chi thuyết đương hạ tịch diệt bất giả công huân tiện nãi bật y nhi khứ thử
+   　sở vị tăng thượng mạn dã như thử không kiến tức như vĩnh gia sở vân hoát đạt không
+   　bát nhân quả mãng mãng đãng đãng kiều ương hoạ thị dĩ cố thế tôn mật ý nhi thuyết
+   　ninh khởi ngã kiến bất khởi không kiến thậm ngôn không kiến chi bất khả khởi dã nhi đoạn/đoán
+   　diệt không kiến danh vi hoại giả đoạ tại thiên không thủ chứng hữu niết bàn tướng khả đắc
+   　hữu năng chứng niết bàn giả nhi vi chi tự tướng hữu sở chứng niết bàn giả nhi vi
+   　chi cộng tướng đãn kiến niết bàn vi khả dục lạc/nhạc/nhạo dĩ thử hi vọng đắc quả bất tri
+   　nhất thiết vạn pháp duy tâm sở hiện bản tự tịch diệt bất tất hoại dã bỉ duy trì
+   　nhất hoại kiến hà sở bất hoại cố kiến ngoại nhi khí giới tính bản vô thường sa na
+   　chi gian triển chuyển biến hoại thị ư ngoại vô sở bất không dã hựu kiến nội nhi căn
+   　thân âm giới nhập đẳng tướng tục lưu chú giai tùng biến diệt thị ư nội vô sở bất
+   　không dã toại vị viễn li ngôn ngữ văn tự đẳng tướng vọng tưởng phân biệt dĩ vi nhất
+   　thiết giai vô thị y ư vô giả danh chi vi hoại dã bỉ đãn kiến nhất thiết chư
+   　pháp sinh dĩ hoàn diệt bất liễu bản lai vô sinh diệt nghĩa chí ư vô thuỷ lưu chú
+   　bất khả diệt giả diệc dục diệt chi thị đoạn/đoán diệt như lai chủng tính giả vi hại tối
+   　đại cố phật vị ninh khởi ngã kiến bất khởi không kiến dã vĩnh gia tập quan tâm đệ
+   　tam ngữ vân tâm dữ không tướng ưng tắc ki huỷ tán dự hà ưu hà hỉ thân dữ
+   　không tướng ưng tắc đao cát hương đồ hà khổ hà lạc/nhạc/nhạo y báo dữ không tướng ưng tắc
+   　thí dữ kiếp đoạt hà đắc hà thất tâm dữ không bất không tướng ưng tắc ái kiến đô
+   　vô từ bi phổ cứu thân dữ không bất không tướng ưng tắc nội đồng khô mộc ngoại kiến
+   　uy nghi y báo dữ không bất không tướng ưng tắc vĩnh tuyệt tham cầu tư tài cấp tế
+   　tâm dữ không bất không phi không phi bất không tướng ưng tắc thật tướng sơ minh khai phật
+   　tri kiến thân dữ không bất không phi không phi bất không tướng ưng tắc nhất trần nhập chính
+   　thụ chư trần tam muội khởi y báo dữ không bất không phi không phi bất không tướng ưng
+   　tắc hương đài bảo các nghiêm độ hoá sinh tất như thử nhất nhất thấu quá phương đắc chân
+   　không chi lí khởi vô sở hữu không kiến tiện vi cứu cánh 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+hữu vô thị nhị biên nãi chí tâm cảnh giới (đường vân tâm sở hành )tịnh trừ bỉ cảnh giới bình đẳng
+tâm tịch diệt vô thủ cảnh giới tính diệt phi vô sở hữu hữu sự tất như như như hiền
+thánh cảnh giới 。
+   　thông viết thử tụng nhược bất thủ hữu tính giả tính tướng tịch tĩnh cố hữu vô nhị biên
+   　như hữu tham đẳng như vô tham đẳng thị ngoại cảnh giới chí tâm kiến kì hữu nhi thủ
+   　chi dĩ vi hữu tâm kiến kì vô nhi bất thủ dĩ vi vô nãi tâm sở hành chi
+   　cảnh giới dã thử nhị giai hoặc tổng danh bất tịnh nhược tịnh trừ bỉ nhị chủng cảnh giới
+   　phi duy bất trước ư sự ức thả bất tồn ư tâm tắc thử tâm phi hữu phi vô
+   　hoát nhiên bình đẳng bất tác hữu kiến bất tác vô kiến nhất tâm đam nhiên thường tự tịch
+   　diệt thử tịch diệt tính đãn bất thủ hữu vô cảnh giới nhi kiến kì diệt nhĩ phi nhất
+   　vô sở hữu nhi vị chi diệt dã nhược diệt nhi nhất vô sở hữu tức đoạ ư vô
+   　tướng cảnh giới hĩ tức đoạn/đoán diệt nhất thiết hữu sự hĩ an đắc vị chi như như nhất
+   　thiết vạn pháp tất thị chân như năng như chân như tức nhất thiết tịch tĩnh kim bình đẳng
+   　tịch diệt tính giả đương vô sự thời cố tự như như tức hữu sự thời tất giai như
+   　như tâm cảnh như như tịch nhiên bất động bất tất đoạn/đoán diệt ngoại cảnh nhi hậu kiến kì
+   　bất động dã thử như như cảnh giới khởi phàm phu sở cập tai nãi thánh hiền tự đắc
+   　sinh trí thiện lạc/nhạc/nhạo cảnh giới sa na vô hữu sinh tướng sa na vô hữu diệt tướng bản
+   　tự bất sinh yên kiến kì hữu bản tự bất diệt yên kiến kì vô thử hữu vô nhị
+   　câu li sở vị tính tướng tịch tĩnh giả thử dã phổ minh hòa thượng thị chúng vân tổ
+   　sư tâm pháp đỗng quán thập phương kim cổ hằng nhiên pháp nhĩ như thị như thị chi pháp
+   　bất giả tu nhi tự tựu bất giả đắc nhi tự viên nhất thiết hiện thành danh bất động
+   　địa dụng nhi phi hữu bất dụng phi vô diệu thể đam nhiên hằng thường bất biến thể hợp
+   　diệu dụng ưng bị vô vi ánh hiện trùng trùng vô biên sắc tướng tâm vô tự tính xúc
+   　sự toàn chương bất động đạo trường biến thập phương giới như tư cảnh giới lược tạm hồi quang
+   　bội giác hợp trần vọng vi ảnh sự thử chi sự ý như vương đại lộ hành chi tức
+   　thị giả sứ bất hành diệc tại kì lộ như tư sở luận do thị hoá môn chi thuyết
+   　nhược dĩ cử xướng tông thừa duy hữu nhất thời tán khứ hảo nhược ngộ đắc tán khứ tiêu
+   　tức bất đãn hữu vô cảnh giới bất trước tức tịch tĩnh cảnh giới diệc vô trước xứ 。
+vô chủng nhi hữu sinh sinh dĩ nhi phục diệt nhân duyên hữu phi hữu bất trụ ngã giáo pháp
+phi ngoại đạo phi phật phi ngã diệc phi dư nhân duyên sở tập khởi vân hà nhi đắc vô
+thùy tập nhân duyên hữu nhi phục thuyết ngôn vô tà kiến luận sinh pháp vọng tưởng kế hữu vô
+nhược tri vô sở sinh diệc phục vô sở diệt quan thử tất không tịch hữu vô nhị câu li 。
+   　thông viết thử tụng thế gian y hữu cập vô giả bất đạt thánh hiền cảnh giới dã bỉ
+   　chư ngoại đạo thuyết vô nhân nhi hữu sinh tắc đoạ hữu kiến thuyết sinh dĩ nhi phục diệt
+   　tắc đoạ vô kiến kì sở vị hữu giả đãi nhân duyên nhi hữu kì sở vị vô giả
+   　đãi nhân duyên nhi vô nhân duyên tức thị sinh diệt pháp phi trụ ngã giáo trung bất sinh
+   　bất diệt chi pháp dã ngã pháp tịch tĩnh tướng phi ngoại đạo sở tác diệc phi phật sở
+   　tác phi ngã sở tác diệc phi dư chúng sở tác chư pháp tùng duyên sinh chư pháp tùng
+   　duyên diệt bản tự vô sinh bản vô khả hoại do nhân duyên hòa hợp tập tụ nhi khởi
+   　giả bản vị thường vô dã nhiên nhân duyên các vô tự tính thùy vi tập tụ nhân duyên
+   　nhi vi chi hữu kí vô dữ tập giả tắc nhân duyên đương thể không tịch chư pháp nguyên
+   　tự phi hữu hà tất canh thuyết ngôn vô tai cố tri thuyết hữu giả đãn luận vô nhân
+   　sinh pháp cố thị tà kiến kì thuyết hữu dĩ hoàn vô giả vọng kế nhất thiết đoạn/đoán diệt
+   　diệc thuộc vọng tưởng lương do bất tri ngã giáo pháp bất sinh bất diệt chi diệu cố chí
+   　ư thử nhược tri nhất thiết pháp duy tâm sở hiện bản tự vô sinh diệc phục vô diệt
+   　sinh diệt kí vô tịch diệt hiện tiền quan thử tự tính tự tướng bản tự không tịch vô
+   　sự như thị hữu sự diệc như thị thường tự như như đam nhiên bất động bỉ hữu vô
+   　nhị kiến hà tùng nhi khởi tai hữu vô câu li tật đắc vô thượng bồ đề thử hiền
+   　thánh cảnh giới khởi ngoại đạo sở cảm vọng dã tích thất tổ bà tu mật tôn giả phó
+   　pháp phật đà nan đề nãi thuyết kệ viết tâm đồng hư không giới thị đẳng hư không pháp
+   　chứng đắc hư không thời vô thị vô phi pháp tức nhập từ tâm tam muội thời phạm vương
+   　đế thích cập chư thiên chúng câu lai tác lễ nhi thuyết kệ ngôn hiền kiếp chúng thánh tổ
+   　nhi đương đệ thất vị tôn giả ai niệm ngã thỉnh vi thuyết phật địa tôn giả tùng tam
+   　muội khởi thị chúng viết ngã sở đắc pháp nhi phi hữu cố nhược thức phật địa li hữu
+   　vô cố ngữ dĩ hoàn nhập tam muội thị niết bàn tướng thử hữu vô nhị câu li tức
+   　vô thượng tâm ấn dã 。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn duy nguyện vi ngã cập chư bồ tát
+thuyết tông thông tướng nhược thiện phân biệt tông thông tướng giả ngã cập chư bồ tát thông đạt thị
+tướng thông đạt thị tướng dĩ tốc thành a nậu đa la tam miệu tam bồ đề bất tùy giác
+tưởng cập chúng ma ngoại đạo phật cáo đại tuệ đế thính đế thính thiện tư niệm chi đương vi
+nhữ thuyết đại tuệ bạch phật ngôn duy nhiên thụ giáo phật cáo đại tuệ nhất thiết thanh văn duyên
+giác bồ tát hữu nhị chủng thông tướng vị tông thông cập thuyết thông (ngụy vân vi ngã cập chư bồ tát kiến lập tu hành
+chính pháp chi tướng phật đáp vân hữu nhị chủng pháp nhất giả kiến lập chính pháp tướng nhị giả thuyết kiến lập chính pháp tướng )đại tuệ tông thông giả vị duyên
+tự đắc thắng tấn tướng li ngôn thuyết văn tự vọng tưởng thú vô lậu giới tự giác địa tự
+tướng viễn li nhất thiết hư vọng giác tưởng giáng phục nhất thiết ngoại đạo chúng ma duyên tự giác
+thú quang minh huy phát thị danh tông thông tướng (ngụy vân năng thủ vô lậu chính giới chứng chư địa tu hành tướng pháp li chư ngoại đạo hư
+vọng giác quan chư ma cảnh giới giáng phục nhất thiết ngoại đạo chư ma hiển thị tự thân nội chứng chi pháp đường vân siêu quá nhất thiết bất chính tư giác phục ma ngoại đạo sinh trí tuệ quang )。
+   　thông viết thượng ngôn bất sinh bất diệt hữu vô câu li thị ngã giáo pháp thị tự tính
+   　tông dã nhược tự tính tông thông tức năng kiến lập chính pháp bất tùy nhất thiết vọng tưởng
+   　tà giải tốc chứng bồ đề mạc yếu ư thử thế tôn đán cập thuyết thông giả bất đãn
+   　tự độ kiêm năng độ nhân dã tông thông vân giả vị duyên tự đắc thắng tấn nghĩa tướng
+   　đắc ý vô ngôn viễn li ngôn thuyết văn tự phân biệt đãn khả tự tri vân nhĩ tự
+   　đắc thắng tấn chi tướng vân hà vị năng thủ vô lậu chính giới chứng chư địa tu hành
+   　tướng pháp sở vị tam vô lậu học do giới nhi định nhi tuệ cố chính giới vi tiên
+   　tự hữu lậu thú vô lậu chí vô lậu giới tắc nhất niệm tướng ưng tự đắc kì bản
+   　tâm danh tự giác địa đắc phân chứng chân như do thị tăng tấn thập địa tức thị thắng
+   　tấn chi tướng thử giác địa tự tướng phi nhân khả tri cố viết tự đắc đãn hữu nhất
+   　chân thật canh vô dư chi diệp nhất thiết ma ngoại hư vọng giác tưởng câu dĩ viễn li
+   　kí dĩ siêu quá nhất thiết bất chính tư giác cố năng giáng phục ma ngoại sinh trí tuệ
+   　quang thử trí tuệ quang tức ban nhược trí nãi giáng phục ma ngoại chi lợi kiếm dã duyên
+   　tự giác thú hiển thị tự thân nội chứng chi pháp vô sư trí tự nhiên trí quang minh
+   　huy phát như đại địa hoả phát xúc trước tiện thiêu hà ma ngoại nhi bất giáng phục giả
+   　hồ thị vị kiến lập chính pháp tướng tức vị chi tông thông tướng dã bá chi cử dã
+   　hồ nhân duyên thứ hoàng bách tiện vấn cổ nhân thác đối nhất chuyển ngữ lạc tại dã hồ
+   　thân kim nhật chuyển chuyển bất thác thị như hà trượng vân cận tiền lai hướng nhữ đạo hoàng
+   　bách cận tiền đả sư nhất chưởng trượng bác thủ tiếu vân tương vị hồ tu xích canh hữu
+   　xích tu hồ quy sơn cử tiền thoại vấn ngưỡng sơn ngưỡng vân hoàng bách thường dụng thử cơ
+   　quy vân nhữ đạo thiên sinh đắc tùng nhân đắc ngưỡng vân diệc thị bẩm thụ sư thừa diệc
+   　thị tự tông thông quy vân như thị như thị tuyết phong vấn đức sơn tùng thượng tông thừa
+   　học nhân hoàn hữu phân dã vô sơn đả nhất bổng vân đạo thậm ma viết bất hội chí
+   　minh nhật thỉnh ích sơn viết ngã tông vô ngữ cú thật vô nhất pháp dữ nhân phong nhân
+   　thử hữu tỉnh nham đầu văn chi viết đức sơn lão nhân nhất điều tích lương cốt ngạnh tự
+   　thiết ao bất chiết nhiên tuy như thử ư xướng giáo môn trung do giác ta tử dĩ thượng
+   　nhị tắc tức tông thông dạng tử dã 。
+vân hà thuyết thông tướng vị thuyết cửu bộ chủng chủng giáo pháp li dị bất dị hữu vô đẳng
+tướng dĩ xảo phương tiện tùy thuận chúng sinh như ưng thuyết pháp linh đắc độ thoát thị danh thuyết
+thông tướng đại tuệ nhữ cập dư bồ tát ưng đương tu học 。
+   　thông viết cửu bộ thập nhị bộ trung chi cửu bộ dã tiểu thừa cửu bộ vô phương quảng
+   　vô vô vấn tự thuyết vô thụ kí đại thừa cửu bộ vô nhân duyên thí dụ nghị luận
+   　thuyết thị pháp giả phi vị thiện năng giảng thuyết kì nghĩa yếu tại liễu đạt bản lai vô
+   　thuyết vô thị li dị bất dị hữu vô tứ cú đẳng tướng li tứ cú tuyệt bá phi
+   　tức thượng viễn li ngôn thuyết văn tự vọng tưởng nhi dĩ thiện xảo phương tiện tùy thuận chúng
+   　sinh ưng cơ thuyết pháp giai thuyết tự đắc thắng tấn chi pháp linh bỉ chúng sinh li chư
+   　hí luận chứng ư thật tướng các đắc độ thoát sinh diệt liễu tri tính tướng không tịch nhập
+   　ngã giáo pháp đồng nhất tông thông cố danh thuyết thông dã thuyết thông tức thuyết kiến lập chính
+   　pháp tướng phi hữu tông giáo chi biệt sở vị liễu pháp bất tại ngôn thiện nhập vô ngôn
+   　tế nhi năng thị ngôn thuyết như hưởng biến thế gian thị dã tăng vấn ngũ tổ diễn như
+   　hà thị lâm tế hạ sự diễn viết ngũ nghịch văn lôi viết như hà thị vân môn hạ
+   　sự diễn viết hồng kì thiểm thước viết như hà thị quy ngưỡng hạ sự diễn viết đoạn/đoán bi
+   　hoành cổ lộ viết như hà thị tào đỗng hạ sự diễn viết trì thư bất đáo gia tăng
+   　lễ bái diễn viết hà bất vấn pháp nhãn hạ sự viết lưu dữ hòa thượng diễn viết tuần
+   　nhân phạm dạ thử ngũ gia tông thú tu nhất nhất thiện kì chỉ phương danh thuyết thông 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+tông cập thuyết thông tướng duyên tự dữ giáo pháp (đường vân tự chứng cập giáo pháp )thiện kiến thiện phân biệt bất
+tùy chư giác tưởng phi hữu chân thật tính như ngu phu vọng tưởng vân hà khởi vọng tưởng phi
+tính vi giải thoát quan sát chư hữu vi sinh diệt đẳng tướng tục tăng trường ư nhị kiến điên
+đảo vô sở tri nhất thị vi chân đế vô tội vi niết bàn (đường vân niết bàn li tâm thức duy thử nhất pháp thật )
+quan sát thế vọng tưởng như ảo mộng ba tiêu tuy hữu tham khuể si nhi thật vô hữu nhân
+tùng ái sinh chư âm hữu giai như ảo mộng 。
+   　thông viết tông thuyết nhị thông trường hành song minh chi tụng trung hợp minh chi vị tông cập
+   　thuyết thông tướng duyên tự đắc pháp nhi dĩ giáo nhân kí năng thiện kiến tự tính dĩ minh
+   　tông thú hựu thiện phân biệt chư pháp linh nhân độ thoát ngoạn nhất thiện tự bất giả tư
+   　duy bất dong nghĩ nghị xưng tính nhi hành tự đắc kì diệu bất tùy chư ma ngoại bất
+   　chính giác tưởng sở chuyển sở dĩ bất tùy chư giác tưởng giả dĩ ngã sở tự đắc giai
+   　chân thật tính nhi bỉ sở giác tưởng phi hữu chân thật tính dã thật vô ngoại cảnh chư
+   　pháp như bỉ phàm phu chủng chủng vọng tưởng phân biệt kí vô thật pháp đương thể không tịch
+   　vân hà ư trung khởi tham khuể si dục kiến nhi giác tưởng vi hữu tai vân hà thủ
+   　tham khuể si phi phi tính dĩ vi giải thoát nhi giác tưởng vi vô tai thí quan thế
+   　gian chư hữu vi pháp sinh dĩ hoàn diệt diệt dĩ phục sinh sinh diệt tướng tục đệ tướng
+   　thiên cải phi chân thật tính kiến kì sinh giả tắc dĩ vi hữu kiến kì diệt giả tắc
+   　dĩ vi vô sinh nhi diệt diệt nhi sinh ngoại cảnh vô cùng tăng trường ư nhị kiến y
+   　ư hữu giả trục cảnh thiên lưu danh viết điên đảo cố vi vô tri y ư vô giả
+   　mê hữu lậu thiên tác vô vi giải thác loạn tu tập diệc thị điên đảo thử nhị kiến
+   　điên đảo đãn bằng tâm thức các thị kì kiến tạo chư tội quá chung tùng luân đoạ khởi
+   　đắc vi chân niết bàn hồ niết bàn duy hữu nhất thị vi kì viễn li tâm thức bất
+   　tác hữu vô nhị kiến duy thử nhất pháp thật cố danh chân đế chứng ư chân đế tức
+   　vô sinh tử tội chướng nãi vi chân niết bàn dã chứng thử chân thật trụ như thật xứ
+   　quan sát thế gian nhất thiết vọng tưởng phân biệt giai như ảo mộng như ba tiêu phi hữu
+   　chân thật ảo mộng dụ tâm thức tứ âm ba tiêu dụ sắc âm giai cứu cánh vô thật
+   　kí năng liễu thử thân tâm bất thật tắc ngã chấp đốn không túng hữu tham khuể si tính
+   　nhi thật vô tác giả thật vô thụ giả tâm cảnh song vong đắc nhân không tuệ nhi hữu
+   　kiến hà tùng khởi hồ nhiên thử chư âm tùng vô thuỷ lai ái vi căn bản sinh chư
+   　ngũ âm ái hữu sinh diệt phi chân thật tính cố sinh khởi ngũ âm tuy hữu diệc phi
+   　chân thật đương xứ hư vọng như ảo như mộng bất khả định chấp vi hữu dã kí bất
+   　khả chấp chi vi hữu hựu hà tất đoạn/đoán chi sứ vô hữu vô câu li đắc pháp không
+   　tuệ bỉ y ư vô nhi dĩ tham khuể si phi tính phi giải thoát giả hựu hà tự
+   　nhi khởi tai nhị kiến bất khởi câu li điên đảo tức danh kiến lập chính pháp thuyết thử
+   　kiến lập chính pháp linh nhân vô tội cộng chứng niết bàn tức sở vị thiện phân biệt dã
+   　tông thông thuyết thông như hậu trùng xuất đãn tứ cú kệ nhĩ phi hữu chân thật tính dĩ
+   　hạ thập lục cú kệ ưng thuộc thượng văn hữu vô nhị câu li hậu xuyết nhi độc chi
+   　kì nghĩa tự quán lâm tế vân học đạo nhân bất liễu vi chấp danh cú bí tha phàm
+   　thánh danh ngại sở dĩ chướng kì đạo nhãn bất đắc phân minh chi vi thập nhị phân giáo
+   　giai thị biểu hiển chi thuyết học giả bất hội tiện hướng biểu hiển danh cú thượng sinh giải
+   　giai thị y ỷ lạc tại nhân quả vị miễn tam giới sinh tử nễ nhược dục đắc sinh
+   　tử khứ trụ thoát trước tự do tức kim thức thủ thính pháp để nhân vô hình vô tướng
+   　vô căn vô bản vô trụ xứ hoạt bát bát địa ưng thị vạn chủng thí thiết dụng xứ
+   　chi thị vô xứ sở dĩ mịch trước chuyển viễn cầu chi chuyển quai hiệu chi vi bí mật
+   　đạo lưu nễ mạc nhận trước cá mộng ảo bạn tử trì vãn trung gian tiện quy vô thường
+   　nễ hướng thử thế giới trung mịch thập ma vật tác giải thoát như lâm tế sở kiến phương
+   　danh thiện kiến phương danh chân giải thoát 。
+nhĩ thời đại tuệ bồ tát bạch phật ngôn thế tôn duy nguyện vi thuyết bất thật vọng tưởng tướng
+bất thật vọng tưởng vân hà nhi sinh thuyết hà đẳng pháp danh bất thật vọng tưởng kim hà đẳng
+pháp trung bất thật vọng tưởng (đường vân thị hà nhi sinh nhân hà nhi sinh thùy chi sở sinh )phật cáo đại tuệ thiện tai thiện
+tai năng vấn như lai như thị chi nghĩa đa sở nhiêu ích đa sở an lạc/nhạc/nhạo ai mẫn thế
+gian nhất thiết thiên nhân đế thính đế thính thiện tư niệm chi đương vi nhữ thuyết đại tuệ bạch
+phật ngôn thiện tai thế tôn duy nhiên thụ giáo phật cáo đại tuệ chủng chủng nghĩa chủng chủng bất
+thật vọng tưởng kế trước vọng tưởng sinh đại tuệ nhiếp sở nhiếp kế trước bất tri tự tâm hiện
+lượng cập đoạ hữu vô kiến tăng trường ngoại đạo kiến vọng tưởng tập khí kế trước ngoại chủng chủng
+nghĩa tâm tâm số vọng tưởng kế trước ngã ngã sở sinh (đường vân nhất thiết chúng sinh ư chủng chủng cảnh bất năng liễu đạt tự tâm
+sở hiện kế năng sở thủ hư vọng chấp trước khởi chư phân biệt đoạ hữu vô kiến tăng trường ngoại đạo vọng kiến tập khí tâm tâm sở pháp tướng ưng khởi thời chấp hữu ngoại nghĩa chủng chủng khả đắc
+kế trước ư ngã cập dĩ ngã sở thị cố danh vi hư vọng phân biệt )。
+   　thông viết nhân thượng ngôn quan sát thế vọng tưởng như mộng ảo ba tiêu thử tức vọng tưởng
+   　vô tính chi chỉ tiền thánh chuyển tướng truyền thụ bất việt hồ thử cố đại tuệ vấn thị
+   　chư vọng tưởng tướng minh tri bất thật kí thị bất thật tắc vô căn hĩ vân hà nhi
+   　sinh thuyết hà đẳng bất thật chi pháp danh chi viết bất thật vọng tưởng thử cứu cánh vọng
+   　tưởng chi thể dã ư hà đẳng bất thật pháp trung phàn duyên vọng tưởng thử cứu cánh vọng
+   　tưởng sở duyên chi xứ dã thế tôn dĩ nhất thiết thiên nhân giai do vọng tưởng luân chuyển
+   　nhược tri hư vọng bất thật tức ngộ vọng tưởng vô tính chi chỉ đương hạ tức đắc an
+   　lạc/nhạc/nhạo cố năng cứu cánh thử nghĩa giả nhiêu ích vi đa bỉ thế gian chủng chủng nghĩa hữu
+   　danh hữu tướng khả đắc giả giai hư vọng bất thật nhất thiết chúng sinh dĩ thất thức bất
+   　thật vọng tưởng kế trước chủng chủng hư vọng chi pháp nhi lục thức vọng tưởng nhân chi sinh
+   　hĩ át ngôn hồ kế trước chi vi vọng dã bỉ kế trước giả hữu năng thủ hữu sở
+   　thủ lương do bất tri tự tâm hiện lượng nội ngoại tâm cảnh duy tâm sở hiện như thuỷ
+   　trung nguyệt bất khả chấp thủ kim kế năng thủ giả tâm sở thủ giả cảnh hư vọng chấp
+   　trước thật chi dĩ vi hữu tắc đoạ phàm phu hữu kiến không chi dĩ vi vô tắc đoạ
+   　nhị thừa vô kiến hựu tùng nhi phân biệt dĩ vi diệc hữu diệc vô phi hữu phi vô
+   　tắc tăng trường ngoại đạo tà kiến do thị vọng tưởng huân nhiễm bát thức điền trung nhi vi
+   　tập khí chủng tử phi nhất triêu nhất tịch chi cố hĩ chấp trước ngoại nghĩa chủng chủng khả
+   　đắc tâm tâm số pháp tướng ưng nhi khởi tổng bất li kế trước bát thức tâm vương nhi
+   　vi chi ngã cập ngũ thập nhất tâm số nhi vi chi ngã sở thị ngã cập ngã sở
+   　đồ ư ngoại chủng chủng nghĩa kế trước bất tri ngoại tính phi tính bản tự bất thật dã
+   　do thị nhi tri thuyết hữu vô nhị kiến pháp thuyết tăng trường ngoại đạo kiến pháp danh bất
+   　thật vọng tưởng chi thể ư tâm tâm số pháp vọng tưởng ư ngã ngã sở kế trước vi
+   　vọng tưởng sở duyên chi xứ bất thật vọng tưởng chi sở dĩ sinh do kế trước chủng chủng
+   　ngoại pháp bất thật nhi sinh dã nhược tri tự tâm hiện lượng ngoại tính phi tính tức chứng
+   　ư chân thật hĩ quy sơn vấn ngưỡng sơn hốt hữu nhân vấn nhất thiết chúng sinh đãn hữu
+   　nghiệp thức mang mang vô bản khả cứ tử tác ma sinh nghiệm ngưỡng vân nhược hữu tăng lai
+   　tức triệu vân mỗ giáp tăng hồi thủ nãi vân thị thậm ma đãi y nghĩ nghị hướng đạo
+   　phi duy nghiệp thức mang mang diệc nãi vô bản khả cứ quy viết thiện tai thiên đồng tụng
+   　vân nhất hoán hồi đầu thức ngã bất y hi la nguyệt hựu thành câu thiên kim chi tử
+   　tài lưu lạc mạc mạc cùng đồ hữu hứa sầu vạn tùng đạo vi thậm ma chư phật bất
+   　động trí đáo chúng sinh phân thượng hoán tác nghiệp thức mang mang tảo tri đăng thị hoả phạn
+   　thục dĩ đa thời 。
+đại tuệ bạch phật ngôn thế tôn nhược chủng chủng nghĩa chủng chủng bất thật vọng tưởng kế trước vọng
+tưởng sinh nhiếp sở nhiếp kế trước bất tri tự tâm hiện lượng cập đoạ hữu vô kiến tăng trường
+ngoại đạo kiến vọng tưởng tập khí kế trước ngoại chủng chủng nghĩa tâm tâm số vọng tưởng ngã ngã
+sở kế trước sinh (đường vô thử đoạn )thế tôn nhược như thị ngoại chủng chủng nghĩa tướng đoạ hữu vô tướng
+li tính phi tính li kiến tướng thế tôn đệ nhất nghĩa diệc như thị li lượng căn phân thí
+nhân tướng (đường vân li chư căn lượng tông nhân thí dụ )thế tôn hà cố nhất xứ vọng tưởng bất thật nghĩa chủng chủng
+tính kế trước vọng tưởng sinh phi kế trước đệ nhất nghĩa xứ tướng vọng tưởng sinh tương vô thế
+tôn thuyết tà nhân luận da (ngụy vân đoạ thế gian luận đường vân sở ngôn quai lí )thuyết nhất sinh nhất bất sinh phật cáo
+đại tuệ phi vọng tưởng nhất sinh nhất bất sinh sở dĩ giả hà vị hữu vô vọng tưởng bất
+sinh cố ngoại hiện tính phi tính giác tự tâm hiện lượng vọng tưởng bất sinh đại tuệ ngã thuyết
+dư ngu phu tự tâm chủng chủng vọng tưởng tướng cố sự nghiệp tại tiền chủng chủng vọng tưởng tính
+tướng kế trước sinh vân hà ngu phu đắc li ngã ngã sở kế trước kiến li tác sở tác
+nhân duyên quá giác tự vọng tưởng tâm lượng thân tâm chuyển biến cứu cánh minh giải nhất thiết địa
+như lai tự giác cảnh giới li ngũ pháp tự tính sự kiến vọng tưởng dĩ thị nhân duyên cố
+ngã thuyết vọng tưởng tùng chủng chủng bất thật nghĩa kế trước sinh tri như thật nghĩa đắc giải thoát
+tự tâm chủng chủng vọng tưởng 。
+   　thông viết đại tuệ nhân thế tôn ngôn bất thật vọng tưởng tùng kế trước chủng chủng bất thật
+   　nghĩa sinh cố điệp thượng phật ngữ nhi vấn nhược thị ngoại chủng chủng nghĩa tướng phàm phu kiến
+   　kì hữu nhị thừa kiến kì vô thử sở đoạ hữu vô tướng cứu cánh bất thật li tính
+   　phi tính nhi vọng tưởng phân biệt chi kiến diệc cứu cánh bất thật li ư kiến tướng thí
+   　cố ảo sự chủng chủng phi thật phân biệt diệc nhĩ hữu vô tướng li nhược như thị giả
+   　dữ đệ nhất nghĩa đế vô dị đệ nhất nghĩa đế sở dĩ dị ư thế đế giả dĩ
+   　kì viễn li a hàm thánh sở thuyết pháp viễn li chư căn cập kiến lập tam chủng lượng
+   　ngũ phân luận tông nhân thí dụ đẳng tướng cố danh chân thật đệ nhất nghĩa nhược ngoại chủng
+   　chủng nghĩa tướng li tính phi tính li ư kiến tướng dữ đệ nhất nghĩa vô dị giả tức
+   　thị bình đẳng vô nhị danh vi nhất xứ đệ nhất nghĩa xứ vọng tưởng kí bản bất sinh
+   　tắc chủng chủng nghĩa xứ vọng tưởng diệc bất dong sinh hà cố kế trước chủng chủng nghĩa tướng
+   　tức vọng tưởng sinh nhi kế trước đệ nhất nghĩa tướng tức vọng tưởng bất sinh thế tôn tương
+   　vô đồng ư ngoại đạo tà nhân luận nhất xứ thuyết sinh nhất xứ thuyết bất sinh da thử
+   　nghi tối vi vị chân vọng bản vô nhị thể hà cố ư vọng thuyết sinh ư chân bất
+   　thuyết sinh nhược kế trước vọng xứ vi sinh tắc kế trước chân xứ diệc sinh quái thế tôn
+   　bất nghi thuyết vọng tưởng sinh dã thế tôn minh ngữ chi cố luận bản lai vọng tưởng bất
+   　sinh đãn ư ngu phu bất kiến bản lai giả thuyết vọng tưởng sinh dục linh ngu phu ngộ
+   　tri bản lai tức bản bất sinh hà thường thuyết vọng tưởng sinh tai cố vị vọng tưởng tính
+   　phi nhất xứ sinh nhất xứ bất sinh dã bản lai tịch tĩnh bản vô sinh diệt sở dĩ
+   　giả hà vị chư pháp bản bất hữu nhi vọng tưởng vi hữu giả bất sinh cố chư pháp
+   　bản bất vô nhi vọng tưởng vi vô giả bất sinh cố bỉ vọng tưởng chi sở duyên giả
+   　ngoại cảnh dã ngoại chủng chủng nghĩa tuy hiện hữu danh tướng tính tức phi tính đương thể hư
+   　vọng bất kiến nhất thiết hữu vô tướng khả đắc duy giác nhất thiết pháp tuy hiện hữu chủng
+   　chủng nghĩa giai tự tâm hiện lượng như kính trung hoa như thuỷ trung nguyệt phi hữu phi vô
+   　vô sở dong kì phân biệt thử vọng tưởng chi sở dĩ bất sinh dã vọng tưởng bất sinh
+   　an sở kiến kì sinh nhi vị chi sinh da hựu an sở kiến kì bất sinh nhi vị
+   　chi bất sinh da cố vị phi vọng tưởng nhất sinh nhất bất sinh dã thử đãn khả dữ
+   　tự giác thánh trí giả đạo nhĩ nhược dư ngu phu ư tự tâm sở hiện chư pháp tự
+   　sinh phân biệt tức hữu chủng chủng vọng tưởng chi tướng tổng bất li tại tiền sở tác sự
+   　nghiệp tùy tiên tâm sinh chủng chủng phân biệt tiền ngũ thức lãm cảnh lục thức phân biệt thất
+   　thức kế trước bát thức hàm tạng các các chấp trước hữu tướng sinh chư vọng tưởng cố ngã
+   　thuyết vọng tưởng sinh giả thuyết dư ngu phu bất năng giác tự tâm hiện lượng cố hữu thị
+   　quá nhược bất thuyết giả vân hà ngu phu đắc li ngã ngã sở kế trước vọng tưởng chi
+   　kiến cập li năng tác sở tác thiện ác sự nghiệp nhân duyên quá hoạn như thật giác tri
+   　ư ngã ngã sở sinh phân biệt giả thị lục thức vọng tưởng chi tâm lượng dã ư ngã
+   　ngã sở kế trước giả thị thất thức vọng tưởng chi tâm lượng dã ư tác sở tác nhân
+   　duyên giả thị tiền ngũ thức vọng tưởng chi tâm lượng dã hàm tạng tập khí chủng tử vi
+   　vô thuỷ quá hoạn giả thị bát thức vọng tưởng chi tâm lượng dã giác tri vọng tưởng tâm
+   　lượng duy thị tự tâm hiện lượng thân tâm chuyển biến chuyển bát thức thành tứ trí tức thử
+   　phàm thân nhi chứng thánh quả cứu cánh minh giải thập địa thứ đệ đáo như lai tự giác
+   　cảnh giới ngũ pháp tam tự tính câu li bất đãn li danh tướng vọng tưởng dĩ dã nhi
+   　chính trí như như tu chứng sự kiến diệc li bất đãn li duyên khởi vọng tưởng tự tính
+   　dĩ dã nhi thành tự tính tu chứng sự kiến diệc li thử bất đãn kế trước chủng chủng
+   　nghĩa tướng vọng tưởng bất sinh tức kế trước đệ nhất nghĩa xứ vọng tưởng diệc bất sinh như
+   　thị tâm lượng tức chân như thật tế cảnh giới bản tự vô sinh bản tự giải thoát dĩ
+   　thị phương tiện nhân duyên khai đạo ngu phu chi cố ngã thuyết vọng tưởng tùng ngoại chủng chủng
+   　nghĩa chủng chủng bất thật kế trước sinh tức bất li sinh tử yên năng giải thoát nhược giác
+   　tự vọng tưởng tâm lượng đáo như lai tự giác cảnh giới tri như thật nghĩa chân thật bất
+   　hư chứng ư đệ nhất nghĩa đế tức đắc giải thoát tự tâm chủng chủng vọng tưởng bất vi
+   　ngã ngã sở kế trước sở phọc bất vi tác sở tác nhân duyên quá hoạn sở khổ hiện
+   　tiền chủng chủng nghĩa tướng tức thị như như tự thể hựu hà vọng tưởng chi hữu vọng tưởng
+   　kí vô hựu thùy vi sinh thùy vi bất sinh tai cố thuyết vọng tưởng sinh giả chính dục
+   　chúng sinh ngộ tri vọng tưởng vô tính đồng quy ư vô sinh nhi dĩ lâm tế thị chúng
+   　vân kim nhật học phật pháp giả thả yếu cầu chân chính kiến giải nhược đắc chân chính kiến
+   　giải sinh tử bất nhiễm khứ trụ tự do bất yếu cầu thù thắng thù thắng tự chí đạo
+   　lưu chi như tự cổ tiên đức giai hữu xuất nhập để lộ như sơn tăng chỉ thị nhân
+   　xứ chi yếu nễ bất thụ nhân hoặc yếu dụng tiện dụng canh mạc trì nghi như kim học
+   　giả bất đắc bệnh tại thậm xứ bệnh tại bất tự tín xứ nễ nhược tự tín bất cập
+   　tức tiện mang mang địa tuẫn nhất thiết cảnh chuyển bí tha vạn cảnh hồi hoán bất đắc tự
+   　do nễ nhược năng yết đắc niệm niệm trì cầu tâm tiện dữ tổ sư bất biệt nễ dục
+   　đắc thức phật tổ ma chi nễ diện tiền thính pháp để thị học nhân tín bất cập tiện
+   　hướng ngoại trì cầu thiết cầu đắc giả giai thị văn tự thắng tướng chung bất đắc tha hoạt
+   　tổ ý mạc thác thử lâm tế đáo như lai tự giác cảnh giới cố kì ngôn trực tiệp
+   　như thử 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+chư nhân cập dữ duyên tùng thử sinh thế gian vọng tưởng trước tứ cú bất tri ngã sở thông
+thế gian phi hữu sinh diệc phục phi vô sinh bất tùng hữu vô sinh diệc phi phi hữu vô
+chư nhân cập dữ duyên vân hà ngu vọng tưởng phi hữu diệc phi vô diệc phục phi hữu vô
+như thị quan thế gian tâm chuyển đắc vô ngã 。
+   　thông viết thử tụng giác tự vọng tưởng tâm lượng thân tâm chuyển biến chi nghĩa trường hành tự
+   　lược kệ nãi tường chi ngã thuyết chư nhân duyên pháp sinh chư thế gian giả ý hiển chư
+   　pháp bản vô sinh cố nhi ngu phu bất đạt nãi phản y nhân duyên kế trước tứ cú
+   　vọng tưởng phân biệt thử bất tri ngã sở thông nghĩa dã ngã sở thông nghĩa thế gian chư
+   　pháp phi tùng hữu sinh phi tùng vô sinh phi tùng hữu vô câu sinh diệc phi li hữu
+   　vô bất câu sinh chư nhân cập dữ duyên bản tự vô sinh thế gian pháp như thị bản
+   　li tứ cú vân hà ngu phu y chư nhân duyên vọng tưởng phân biệt đoạ hữu vô kiến
+   　bất tri thử thế gian hữu vô chư tính bản phi hữu dã bản phi vô dã diệc phục
+   　phi phi hữu phi phi vô dã nhược năng như thị quan ư thế gian pháp bản vô sinh
+   　vọng y hà lập cố tâm bất vi cảnh sở chuyển nhi năng chuyển hồ cảnh bất y ư
+   　vọng nhi y ư chân bất kế trước ư ngã bất kế trước ư ngã sở tức thân tâm
+   　chuyển biến đắc nhị vô ngã li tứ cú tuyệt bá phi bất việt thế gian nhi đắc giải
+   　thoát thử ngã sở thông chi nghĩa dã hoàng bách vân nhất đẳng thị học trực tu vô học
+   　vô phàm vô thánh vô tịnh vô cấu vô đại vô tiểu vô lậu vô vi như thị nhất
+   　tâm trung phương tiện cần trang nghiêm thính nhữ học đắc tam thừa thập nhị phân giáo hữu nhất
+   　thiết kiến giải tổng tu xả khước sở dĩ trừ khứ sở hữu duy trí nhất sàng tẩm tật
+   　nhi ngoạ chi thị bất khởi chư kiến vô nhất pháp khả đắc bất bí pháp chướng thấu thoát
+   　tam giới phàm thánh cảnh vực thuỷ đắc danh vi xuất thế phật sở dĩ vân kê thủ như
+   　không vô sở y xuất quá ngoại đạo tâm kí bất dị pháp diệc bất dị tâm kí vô
+   　vi pháp diệc vô vi vạn pháp tận do tâm biến sở dĩ ngã tâm không cố chư pháp
+   　không thiên phẩm vạn vị tất giai đồng tận thập phương không giới đồng nhất tâm thể tâm bản
+   　bất dị pháp diệc bất dị chi vi nhữ kiến giải bất đồng sở dĩ dị nhĩ hoàng bách
+   　cố đắc thân tâm chuyển biến diệu xứ xuất ngữ tự biệt 。
+nhất thiết tính bất sinh dĩ tùng duyên sinh cố nhất thiết duyên sở tác sở tác phi tự hữu
+sự bất tự sinh sự hữu nhị sự quá cố vô nhị sự quá cố phi hữu tính khả đắc
+quan chư hữu vi pháp li phàn duyên sở duyên vô tâm chi tâm lượng ngã thuyết vi tâm lượng
+lượng giả tự tính xứ duyên tính nhị câu li tính cứu cánh diệu tịnh ngã thuyết vi tâm lượng 。
+   　thông viết thử tụng ngoại hiện tính phi tính giác tự tâm hiện lượng chi chỉ dã thừa thượng
+   　ngôn chư nhân cập dữ duyên tùng thử sinh thế gian nghiệp dĩ sinh hĩ hà dĩ vị chi
+   　vô sinh dã do nhất thiết vạn pháp tính bản bất sinh đãn tùng duyên sinh cố sinh đãn
+   　duyên sinh phi tự sinh dã tác đãn duyên tác phi tự tác dã nhất thiết duyên sở tác
+   　cố đãi duyên nhi hữu giả phi sở tác tự hữu tính tắc quả bất năng tự sinh quả
+   　quả bất tự quả tất do ư hoa nhược bất đãi hoa nhi quả tắc quả hữu nhị quả
+   　chi quá quả thượng sinh quả tất vô thử sự tắc sở tác sự tự tính liễu bất khả
+   　đắc duy vô tự tính khả đắc thị duyên tất đãi hồ nhân duyên bất tự sinh dã nhân
+   　tất đãi hồ duyên nhân bất tự sinh dã cố vị nhất thiết tính bất sinh dã nhược giác
+   　nhất thiết tính bất sinh tắc quan chư thế gian hữu vi chư pháp vị thường bất sinh nhiên
+   　nội li vu năng duyên chi tâm ngoại li vu sở duyên chi cảnh tâm cảnh câu vong đương
+   　hạ vô tâm khả đắc thị vô tâm chi tâm lượng tức thị tự tâm hiện lượng bất nhập
+   　kế độ bất lạc phương sở kì lượng vô nhai lượng chi vân giả tức như lai tạng tính
+   　chu biến sung mãn chi tự tính xứ tịch nhĩ linh tri huýnh nhiên độc lộ năng duyên sở
+   　duyên nhị tính câu li thử tự tính xứ cứu cánh diệu tịnh tức thế gian li thế gian
+   　tức hữu vi li hữu vi nhiễm nhi bất nhiễm danh viết diệu tịnh cố ngã thuyết danh tâm
+   　lượng bản lai bất sinh giả thử dã đại điên thượng đường viết phu học đạo nhân tu thức
+   　tự gia bản tâm đa kiến thời bối chi nhận dương mi thuấn mục nhất ngữ nhất mặc mạch
+   　nhiên ấn khả dĩ vi tâm yếu thử thật vị liễu ngô kim vi nhữ phân minh thuyết xuất
+   　các tu thính thủ đãn trừ khước nhất thiết vọng vận tưởng niệm hiện lượng tức thị chân tâm
+   　thử tâm dữ trần cảnh cập thủ tĩnh mặc thời toàn vô giao thiệp tức tâm thị phật bất
+   　đãi tu trị hà dĩ cố ưng cơ tự chiếu lãnh lãnh tự dụng cùng kì dụng xứ liễu
+   　bất khả đắc hoán tác diệu dụng nãi thị bản tâm thử ngữ đại sát phân minh khước dữ
+   　thử đoạn trùng trùng phu diễn 。
+thí thiết thế đế ngã bỉ tắc vô thật sự chư âm âm thí thiết vô sự diệc phục nhiên
+hữu tứ chủng bình đẳng tướng cập nhân tính sinh đệ tam vô ngã đẳng đệ tứ tu tu giả 。
+   　thông viết thượng ngôn tính cứu cánh diệu tịnh vị tức thế gian xuất thế gian bất li duyên
+   　sinh nhi chứng vô sinh hà dĩ trăn thử diệu dã bỉ hữu kiến ư thế gian thí thiết
+   　giả danh vi ngã giả cứu cánh vô ngã diệc vô chủ vô thật sự khả đắc chư âm
+   　các các thí thiết tự kế vi ngã giả cứu cánh vô ngã diệc vô chủ diệc vô thật
+   　sự khả đắc vô thế đế ngã tức vô nhân ngã chấp vô chư âm thí thiết nhị thập
+   　thân kiến đẳng tức vô pháp ngã chấp nhân pháp câu dân nội ngoại lưỡng vô tức đắc nhất
+   　thiết xứ bình đẳng lược phân chi hữu tứ chủng bình đẳng nhất giả tướng bình đẳng tướng tức
+   　ngũ âm âm không tắc tướng dữ vô tướng bình đẳng nhị giả nhân quả bình đẳng quả giả
+   　nhân sở sinh sinh dữ sở sinh câu vô tự sinh tức nhân quả nhất khế đệ tam ngã
+   　vô ngã bình đẳng nhân ngã pháp ngã câu không tắc câu sinh ngã chấp tận dung đồng quy
+   　ư thái hư cố dữ vô ngã đẳng đệ tứ vô ngã giả thị sở tu chi pháp tâm
+   　chuyển đắc vô ngã giả thị năng tu chi nhân chí ư vô ngã tắc vô tu vô chứng
+   　nhi tu dữ tu giả câu bình đẳng hĩ vi ngũ lục thất bát thức sở chuyển tức vi
+   　thế đế thiên lưu bất đắc bình đẳng bất đắc danh tịnh duy năng chuyển thức chứng ư vô
+   　tâm tắc tức vọng tức chân nhất thiết bình đẳng nhất thiết xứ giai tịnh cố thượng sở vân
+   　diệu tịnh giả ư bình đẳng nhi kiến kì tịnh dã hoàng bách vân học đạo nhân mạc nghi
+   　tứ đại vi thân tứ đại vô ngã ngã diệc vô chủ cố như thử thân vô ngã diệc
+   　vô chủ ngũ âm vi tâm ngũ âm vô ngã diệc vô chủ cố tri thử tâm vô ngã
+   　diệc vô chủ lục căn lục trần lục thức hòa hợp sinh diệt diệc phục như thị thập bát
+   　giới kí không nhất thiết giai không duy hữu bản tâm đãng nhiên thanh tịnh thử số ngữ tức
+   　dữ thử đoạn phù khế 。
+vọng tưởng tập khí chuyển hữu chủng chủng tâm sinh cảnh giới ư ngoại hiện thị thế tục tâm lượng
+ngoại hiện nhi phi hữu tâm kiến bỉ chủng chủng kiến lập ư thân tài ngã thuyết vi tâm lượng
+li nhất thiết chư kiến cập li tưởng sở tưởng vô đắc diệc vô sinh ngã thuyết vi tâm lượng
+phi tính phi phi tính tính phi tính tất li vị bỉ tâm giải thoát ngã thuyết vi tâm lượng
+như như dữ không tế niết bàn cập pháp giới chủng chủng ý sinh thân ngã thuyết vi tâm lượng 。
+   　thông viết thượng dĩ tường giác tự tâm hiện lượng vọng tưởng bất sinh chi nghĩa thử hạ phục
+   　tường thân tâm chuyển biến đáo như lai tự giác cảnh giới chi thật dã bỉ dư ngu phu
+   　tự tâm chủng chủng vọng tưởng tướng giả giai do thức chuyển bất năng chuyển thức cố vọng tưởng
+   　phân biệt giả lục thức dã tập khí nhiễm ô giả thất thức dã hàm tạng chủng tử giả
+   　bát thức dã hiện đối ngoại cảnh giả ngũ thức dã bỉ duy vi ngũ lục thất bát sở
+   　chuyển cố lục thức vọng tưởng y thất thức nhiễm ô dẫn khởi bát thức hàm tạng tập khí
+   　chủng tử huân phát chuyển biến nhi hữu chủng chủng phân biệt tâm sinh hoặc đoạ hữu kiến hoặc
+   　đoạ vô kiến tổng ư ngoại hiện cảnh giới chấp vi thật ngã thật pháp chủng chủng vọng tưởng
+   　tướng sinh thị vi thế tục ngu phu chi tâm lượng dã nhược tự giác thánh trí giả tắc
+   　bất nhiên bát thức hiện khởi hữu tướng phân hữu kiến phân tâm kiến sở đối ngoại cảnh vị
+   　nhập phân biệt giả danh tiền ngũ thức thị vi hiện lượng ngu phu ư ngoại hiện cảnh giới
+   　chấp chi vi hữu trí giả ư ngoại hiện cảnh giới bất kiến kì hữu duy thị tự tâm
+   　sở hiện bỉ chủng chủng kiến lập nội nhi căn thân ngoại nhi tư tài giai bát thức chi
+   　sở hiển hiện tâm ngoại vô pháp pháp ngoại vô tâm tâm cảnh song dung tức tướng bình đẳng
+   　thử chuyển tiền ngũ thức vi thành sở tác trí dã cố ngã thuyết vi tâm lượng phi thế
+   　sở thông dã chí đệ lục thức hữu nhân ngã kiến hữu pháp ngã kiến hữu năng tưởng hữu
+   　sở tưởng giai bất li lục thức tác dụng kiến giả ý kiến thuộc lợi sứ tưởng giả tình
+   　tưởng thuộc độn sứ nhị sứ câu li đắc vô sở đắc phi đãn vô đắc diệc bản vô
+   　sinh hậu vô sở đắc chi quả tiền vô năng sinh chi nhân nhị câu vô tính tức nhân
+   　quả bình đẳng thử chuyển đệ lục thức vi diệu quan sát trí dã cố ngã thuyết vi tâm
+   　lượng phi thế tục sở thông dã thất thức vi nhiễm tịnh y nguyên vô thật thể ngoại đãn
+   　y ư lục thức phi hữu hữu tự tính dã nội đãn y ư bát thức phi hữu vô
+   　tự tính dã tính dữ phi tính câu li vị bỉ ư tiền lục thức đỗ tuyệt tung tích
+   　hữu kí bất lập ư hậu bát thức đãng địch chủng tử vô diệc vô y hữu vô câu
+   　quyên đắc đại giải thoát vô thuỷ ngã chấp tiêu dung đãi tận tức dữ vô ngã đẳng thử
+   　chuyển đệ lục thức vi bình đẳng tính trí dã cố ngã thuyết vi tâm lượng phi thế tục
+   　sở thông dã chí đệ bát thức tức như lai tạng y ư sinh diệt tắc danh tại triền
+   　như lai tạng y ư bất sinh diệt tắc danh xuất triền như lai tạng đối biến dị cố
+   　thuyết như như đối hữu cố thuyết không đối vô cố thuyết thật tế đối sinh tử cố thuyết
+   　niết bàn đối lục đạo cố thuyết pháp giới đối ngũ âm cố thuyết ý sinh thân đáo như
+   　lai tự giác cảnh giới nãi năng nhất nhất minh tận cứu cánh tu dữ tu giả nhất thiết
+   　bình đẳng thử chuyển đệ bát thức vi đại viên kính trí dã cố ngã thuyết vi tâm lượng
+   　phi thế tục sở thông dã thân tâm chuyển biến nhất chí ư thị năng duyên sở duyên câu
+   　dĩ viễn li tức vọng tưởng tức tâm lượng tức thế gian xuất thế gian sở vân tính cứu
+   　cánh diệu tịnh giả tất chí thị vi cực dã giác thử tâm lượng tri như thật nghĩa hựu
+   　hà bất thật vọng tưởng chi hữu tai thiên ninh thượng đường vân pháp thân giả lí diệu ngôn
+   　huyền đốn siêu chung thuỷ chi hoạn chư nhân giả mạc thị ảo thân ngoại biệt hữu pháp thân
+   　ma mạc thị ảo thân tiện thị pháp thân ma nhược dã nhẫm ma hội khứ tận thị y
+   　tha tác giải mông muội lưỡng kì pháp nhãn vị đắc thông minh bất kiến tăng vấn giáp sơn
+   　như hà thị pháp thân sơn vân pháp thân vô tướng như hà thị pháp nhãn sơn viết pháp
+   　nhãn vô hà sở dĩ đạo ngô vân vị hữu sư tại hốt hữu nhân vấn lão tăng như
+   　hà thị pháp thân dương tiện kiền xứ ngoạ như hà thị pháp nhãn lư tiện thấp xứ tuy
+   　canh hữu nhân vấn tác ma sinh thị pháp thân mãi mạo tướng đầu tác ma sinh thị pháp
+   　nhãn khanh khảm đôi phụ nhược điểm kiểm tương lai giáp sơn chi thị học xứ bất minh như
+   　lưu tục khuê cáp lí vật bất năng xả khước trí sứ tình quan cố bế thức 鎻nan
+   　khai lão tăng kim nhật nhược bất đương dương hiển thị hậu học nan dĩ tri quy khuyến nhữ
+   　chư nhân bất dụng cầu chân duy tu tức kiến chư kiến nhược tức hôn vụ bất sinh tự
+   　nhiên trí giám đỗng minh canh vô tha vật chư nhân giả hoàn hội ma châu trung hữu hoả
+   　quân tu tín hưu hướng thiên biên vấn thái dương đan hà tụng vân đạo hợp bình thường tuyệt
+   　dị đoan hành nhân hà tất lịch gian nan tùng kim mạc vấn tôn tẫn ngoại quy xác vô
+   　linh bất dụng toàn do tư dĩ đàm thức 鎻nan khai tu như thị trùng trùng chuyển tận
+   　thuỷ đắc 。
+nhĩ thời đại tuệ bồ tát bạch phật ngôn thế tôn như thế tôn sở thuyết bồ tát ma ha
+tát đương thiện ngữ nghĩa vân hà vi bồ tát thiện ngữ nghĩa vân hà vi ngữ vân hà vi
+nghĩa phật cáo đại tuệ đế thính đế thính thiện tư niệm chi đương vi nhữ thuyết đại tuệ bạch
+phật ngôn thiện tai thế tôn duy nhiên thụ giáo phật cáo đại tuệ vân hà vi ngữ vị ngôn
+tự vọng tưởng hòa hợp y ân hầu thần thiệt xỉ ngân giáp phụ nhân bỉ ngã ngôn thuyết vọng
+tưởng tập khí kế trước sinh thị danh vi ngữ đại tuệ vân hà vi nghĩa vị li nhất thiết
+vọng tưởng tướng ngôn thuyết tướng thị danh vi nghĩa đại tuệ bồ tát ma ha tát ư như thị
+nghĩa độc nhất tĩnh xứ văn tư tu tuệ duyên tự giác liễu hướng niết bàn thành tập khí thân
+chuyển biến dĩ tự giác cảnh giới (đường vân dĩ văn tư tu tuệ tư duy quan sát hướng niết bàn đạo tự trí cảnh giới chuyển chư tập khí )quan
+địa địa trung gian thắng tấn nghĩa tướng thị danh bồ tát ma ha tát thiện nghĩa 。
+   　thông viết tiền đại tuệ vấn nhất thiết tính vô sinh cập như ảo thế tôn ngữ dĩ như
+   　thật xứ kiến nhất thiết pháp giả vị siêu tự tâm hiện lượng kệ viết quan sát như ảo
+   　đẳng ư tướng bất vọng tưởng tùy tức vị thiện quan danh cú hình thân tùy nhập nghĩa cú
+   　hình thân tức thế tôn sở thuyết đương thiện ngữ nghĩa chi chỉ dã thứ đáp li hữu vô
+   　hữu tướng kệ viết quan thử tất không tịch hữu vô nhị câu li đại tuệ tức thỉnh thuyết
+   　tông thông tướng nhi thế tôn tinh dĩ thuyết thông ngữ chi diệc thế tôn sở thuyết đương thiện
+   　ngữ nghĩa chi chỉ dã kim đại tuệ hựu vấn hà giả vi ngữ hà giả vi nghĩa hà
+   　giả vi thiện ngữ nghĩa thế tôn tiền thuyết tứ chủng ngôn thuyết vọng tưởng tướng dĩ bị ngôn
+   　tự vọng tưởng hòa hợp chi chỉ thử phục vân y ân hầu thần thiệt xỉ ngân giáp phụ
+   　giả tức tiền đầu hung hầu tị thần thiệt xỉ ngân hòa hợp xuất âm thanh chi vị dã
+   　nha xỉ thiệt hầu thần phân biệt thương cung giác chuỷ vũ tức tự dã nhân bỉ ngã tướng
+   　đối đàm thuyết lí sự tức ngôn dã vọng tưởng kế trước tập khí chủng tử dĩ vi chi
+   　nhân nhi ngôn ngữ ư thị hồ sinh thử ngôn dữ tự dữ vọng tưởng hòa hợp nhi thành
+   　ngữ dã thử ngôn thuyết tướng bất li hồ thức nhược phu nghĩa giả chuyển thức thành trí biên
+   　sự cố li nhất thiết vọng tưởng phân biệt chi tướng vọng tưởng kí vô ngôn ngữ hà y
+   　sở vị ngôn ngữ đạo đoạn/đoán tâm hành xứ diệt nãi tối thượng đệ nhất nghĩa dã nhược chư
+   　bồ tát đương y ư như thị nghĩa mạc trước ngôn thuyết đãn khả độc nhất tĩnh xứ không
+   　nhàn độc toạ tùng văn tư tu tam tuệ phương tiện tư duy quan sát đắc tự giác liễu
+   　thú bất sinh diệt hướng niết bàn đạo chuyển chư tập khí thân tâm chuyển biến chứng tự trí
+   　cảnh giới quan địa địa trung gian kim cương tuệ tâm nhất nhất đoạn/đoán trừ tiền địa sở chứng
+   　thắng tấn nghĩa tướng thị chi vị thiện nghĩa tức sở vị tông thông dã triệu châu thượng đường
+   　bồ đề niết bàn chân như phật tính tận thị thiếp thể y phục diệc danh phiền não thật
+   　tế lí địa thậm ma xứ trước nhất tâm bất sinh vạn pháp vô cữu nhữ đãn cứu lí
+   　toạ khán tam nhị thập niên nhược bất hội tiệt thủ lão tăng đầu khứ mộng ảo không hoa
+   　đồ lao bả tróc tâm nhược bất dị vạn pháp nhất như kí bất tùng ngoại đắc canh câu
+   　chấp tác ma như dương tướng tự loạn thập vật an hướng khẩu lí lão tăng kiến dược sơn
+   　đạo hữu nhân vấn trước đãn giáo hợp thủ cẩu khẩu lão tăng diệc giáo hợp thủ cẩu khẩu
+   　thủ ngã thị cấu bất thủ ngã thị tịnh nhất tự lạp cẩu chuyên dục đắc vật khiết phật
+   　pháp tại thậm ma xứ thiên nhân vạn nhân tận thị mịch phật hán tử ư trung mịch nhất
+   　cá đạo nhân vô nhược dữ không vương vi đệ tử mạc giáo tâm bệnh tối nan y thử
+   　li vọng tưởng tướng ngôn thuyết tướng đệ nhất nghĩa dã nghi bội phục chi 。
+phục thứ đại tuệ thiện ngữ nghĩa bồ tát ma ha tát quan ngữ dữ nghĩa phi dị phi bất
+dị quan nghĩa dữ ngữ diệc phục như thị nhược ngữ dị nghĩa giả tắc bất nhân ngữ ban nghĩa
+nhi dĩ ngữ nhập nghĩa như đăng chiếu sắc (đường vân thí như hữu nhân trì đăng chiếu vật )phục thứ đại tuệ bất sinh
+bất diệt tự tính niết bàn tam thừa nhất thừa tâm tự tính đẳng như duyên ngôn thuyết nghĩa kế
+trước đoạ kiến lập cập phỉ báng kiến dị kiến lập dị vọng tưởng như ảo chủng chủng vọng tưởng
+hiện thí như chủng chủng ảo phàm ngu chúng sinh tác dị vọng tưởng phi thánh hiền dã (đường vân nhược hữu
+ư bất sinh bất diệt tự tính niết bàn tam thừa nhất thừa ngũ pháp chư tâm tự tính đẳng trung như ngôn thủ nghĩa tắc đoạ kiến lập cập phỉ báng kiến dĩ dị ư bỉ khởi phân biệt cố như
+kiến ảo sự kế dĩ vi thật thị ngu phu kiến phi thánh hiền dã )。
+   　thông viết tiền ngôn thuyết vọng tưởng tướng chương dĩ minh ngôn thuyết dữ vọng tưởng phi dị phi
+   　bất dị thế tôn vị ngôn thuyết sở nhập thị đệ nhất nghĩa phi ngôn thuyết thị đệ nhất
+   　nghĩa kí viết ngôn thuyết sở nhập thị đệ nhất nghĩa tắc phi dị hĩ hựu viết phi ngôn
+   　thuyết thị đệ nhất nghĩa tắc phi bất dị hĩ cố thiện ngữ nghĩa bồ tát quan ngữ dữ
+   　nghĩa phi dị phi bất dị nhược dị giả ngữ tự ngữ nghĩa tự nghĩa tắc bất nhân ngôn
+   　ngữ thanh cố nhi ban ư nghĩa duy nghĩa nhân ngôn ngữ liễu biệt tắc dĩ ngữ nhập nghĩa
+   　như trì đăng chiếu vật đắc vật tắc vô kì đăng hĩ nhân đăng kiến vật bất đắc ngôn
+   　dị vật phi đăng dã bất đắc ngôn nhất cố tri nhân ngôn ngữ đăng nhập li ngôn thuyết
+   　tự chứng cảnh giới phi dị phi bất dị dã nhược chấp trước phi dị phi bất dị nhi
+   　dĩ ngữ năng ban nghĩa giả vị chư pháp thể tướng đồng ngôn ngữ thanh nghĩa nghĩa như ngữ
+   　ngữ như nghĩa đẳng vô hữu dị ư trung y chúng duyên thủ tướng nhược bất sinh bất diệt
+   　giả nhược tự tính niết bàn giả nhược tam thừa nhất thừa giả nhược ngũ pháp tam tự tính
+   　đẳng đãn y ngôn thuyết thủ nghĩa nhất thiết chấp vi thật hữu thị nhân ngôn thuyết nhi vi
+   　hữu dã nhân ngôn thuyết nhi hữu giả diệc nhân vô ngôn thuyết nhi vô cố đoạ kiến lập
+   　cập phỉ báng nhị chủng tà kiến kí kiến kì hữu hựu kiến kì vô dĩ dị ư bỉ
+   　khởi phân biệt kiến thị vị dị kiến lập dị phân biệt vận chi vi vọng tưởng dã an
+   　tại kì nghĩa như ngữ ngữ như nghĩa đẳng vô hữu dị hồ bỉ đãn dĩ ngữ hiển nghĩa
+   　như ảo nhân tác ảo sự chủng chủng biến hiện hoặc thuyết bất sinh bất diệt hoặc thuyết tự
+   　tính niết bàn hoặc thuyết tam thừa nhất thừa hoặc thuyết ngũ pháp tam tự tính kì sở vi
+   　nghĩa giả phi ảo dã nhi kì sở vi ngữ giả như ảo dã nhược thánh hiền giả quan
+   　bỉ như ảo tức tri phi ảo bất ư ngôn thuyết tác dị vọng tưởng bỉ phàm ngu chúng
+   　sinh kiến dĩ vi bất dị giả tắc chấp vi thật hữu kiến dĩ vi dị giả tắc chấp
+   　vi thật vô như kiến chủng chủng ảo sự kế dĩ vi thật ư trung tác chủng chủng dị
+   　phân biệt kiến đoạ tại phàm ngu vọng tưởng phi thánh hiền dã thánh hiền giả quan sát như
+   　ảo đẳng ư tướng bất vọng tưởng do thông ư đệ nhất nghĩa cố nhữ đẳng bồ tát đương
+   　thiện ngữ nghĩa tăng vấn phong huyệt ngữ mặc thiệp li vi như hà thông bất phạm huyệt vân
+   　thường ức giang nam tam nguyệt lí giá cô đề xứ bá hoa hương tuyết đậu vân phách phúc
+   　oan tâm thiên đồng niêm vân lộ loã loã viên đà đà trực thị vô lăng phúng thả đạo
+   　phong huyệt vô lăng phúng hà tự tuyết đậu vô lăng phúng hoàn hội ma hòa quang nhạ sự
+   　quát đốc thành gia triệu pháp sư bảo tạng luận li vi thể diệu phẩm vân kì xuất vi
+   　kì nhập li tri nhập li ngoại trần vô sở y tri xuất vi nội tâm vô sở vi
+   　nội tâm vô sở vi chư kiến bất năng di ngoại trần vô sở y vạn hữu bất năng
+   　ki cái ngữ thiệp ư vi mặc thiệp ư li cố vân ngữ mặc thiệp li vi ngữ thị
+   　báng mặc thị cuống vị chi cuống báng quan phàm hữu tam trùng đạn song bất phạm thử đặc
+   　tam quan chi nhất dã 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+bỉ ngôn thuyết vọng tưởng kiến lập ư chư pháp dĩ bỉ kiến lập cố tử đoạ nê lê trung
+âm trung vô hữu ngã âm phi tức thị ngã bất như bỉ vọng tưởng diệc phục phi vô ngã
+nhất thiết tất hữu tính như phàm ngu vọng tưởng nhược như bỉ sở kiến nhất thiết ưng kiến đế
+nhất thiết pháp vô tính tịnh uế tất vô hữu bất thật như bỉ kiến diệc phi vô sở hữu 。
+   　thông viết thuyết thiện ngữ nghĩa nhi độc tường ư kiến lập phỉ báng giả dĩ ngoại đạo kiến
+   　dị kiến bất dị bất li vọng tưởng phân biệt cố ư ngữ nghĩa bất thiện nhược tri phi
+   　dị phi bất dị giả tuy phục bất y ngôn ngữ đạo diệc phục bất trước vô ngôn thuyết
+   　tự vô thử nhị quá hĩ bỉ dĩ ngôn thuyết vọng tưởng kiến lập ư chư pháp giả pháp
+   　bản li ngôn thuyết tướng nhi dĩ ngôn thuyết kiến lập vi hữu thị ngôn thuyết tồn tắc tồn
+   　ngôn thuyết vong tắc vong dĩ bất sinh bất diệt chi pháp đoạ ư sinh diệt trung kì luân
+   　hồi sinh tử vô túc quái hĩ chí phỉ báng kiến lập giả tác dị kiến lập vọng tưởng
+   　như ngũ âm kiến lập thuyết âm trung hữu ngã thuyết âm tức thị ngã bỉ tắc vị âm
+   　trung vô ngã âm phi thị ngã bất như bỉ kiến lập vọng tưởng tự phá nhị thập chủng
+   　thân kiến nhiên thức âm thị diệt bất đắc giả nãi nhất thiết đoạn/đoán diệt quy ư vô hữu
+   　bất tri phân biệt vô ngã giả tức thị ngã dã phi ngã thùy tri thị vô cố viết
+   　diệc phục phi vô ngã thử vô ngã vọng kiến hà dĩ bất đoạ nê lê trung vi bỉ
+   　tà giải sở trì sinh vô tưởng thiên kiếp mãn tất nhập luân hồi dã thả bỉ kiến lập
+   　giả vị nhất thiết tất hữu tính như phàm ngu y hữu vọng tưởng phân biệt sở kiến nhược
+   　quả hữu tính giả tắc nhất thiết ngôn thuyết ưng kiến chân đế như thuyết niết bàn tức kiến
+   　niết bàn thuyết nhất thừa tức kiến nhất thừa kim ngôn thuyết tự ngôn thuyết chân đế tự chân
+   　đế cố tri nhất thiết ngôn thuyết bản vô tính dã kí bản vô tính an đắc định chấp
+   　vi hữu hồ bỉ phỉ báng giả vị nhất thiết pháp vô tính như phàm ngu y vô vọng
+   　tưởng phân biệt sở kiến tịnh nghiệp uế nghiệp tổng quy ư vô nhất thiết vô thật sự khả
+   　đắc thị đoạn/đoán diệt chủng tính dã nhược quả vô tính giả tắc chân thường lưu chú ưng đoạn/đoán
+   　nhiên tự vô thuỷ dĩ lai thật bất khả đoạn/đoán tịnh uế khả đoạn/đoán nhi đoạn/đoán tịnh uế giả
+   　thật bất khả đoạn/đoán cố tri nhất thiết pháp diệc phi vô sở hữu dã kí phi vô hữu
+   　tắc bỉ kiến bất thật an đắc định chấp vi vô hồ bỉ kiến vi hữu giả phi chân
+   　hữu kiến vi vô giả phi chân vô tri kì phi chân nhi giác liễu ư đệ nhất nghĩa
+   　đế tức thuyết hữu thuyết vô tổng ư nghĩa tướng bất tướng vi bội tư thiện ư ngữ nghĩa
+   　nhi hướng ư niết bàn đạo hĩ hà chí hữu vô tướng khuynh nhi bất miễn ư luân hồi
+   　hồ tăng vấn bá trượng như hà thị hữu tình vô phật tính vô tình hữu phật tính trượng
+   　vân tùng nhân chí phật thị thánh tình chấp tùng nhân chí địa ngục thị phàm tình chấp chi
+   　như kim đãn ư phàm thánh nhị cảnh cập nhất thiết hữu vô chư pháp đô vô thủ xả
+   　tâm diệc vô vô thủ xả tri giải thị danh vô tình hữu phật tính chi thị vô kì
+   　tình hệ cố danh vô tình bất đồng mộc thạch thái hư hoàng hoa thuý trúc chi vô tình
+   　tương vi hữu phật tính nhược ngôn hữu giả hà cố kinh trung bất kiến thụ kí nhi đắc
+   　thành phật giả chi như kim giám giác đãn bất bí hữu tình cải biến dụ như thuý trúc
+   　vô bất ưng cơ vô bất tri thời dụ như hoàng hoa hựu vân nhược đạp phật giai thê
+   　vô tình hữu phật tính nhược vị đạp phật giai thê hữu tình vô phật tính như bá trượng
+   　ngôn chấp trước hữu vô giả giai tình dã ư đệ nhất nghĩa hà hữu 。
+phục thứ đại tuệ trí thức tướng kim đương thuyết nhược thiện phân biệt trí thức tướng giả nhữ cập
+chư bồ tát tắc năng thông đạt trí thức chi tướng tật đắc a nậu đa la tam miệu tam
+bồ đề đại tuệ bỉ trí hữu tam chủng vị thế gian xuất thế gian xuất thế gian thượng thượng
+vân hà thế gian trí vị nhất thiết ngoại đạo phàm phu kế trước hữu vô vân hà xuất thế
+gian trí vị nhất thiết thanh văn duyên giác đoạ tự cộng tướng hi vọng kế trước vân hà xuất
+thế gian thượng thượng trí vị chư phật bồ tát quan vô sở hữu pháp kiến bất sinh bất diệt
+li hữu vô phẩm như lai địa nhân pháp vô ngã duyên tự đắc sinh đại tuệ bỉ sinh diệt
+giả thị thức bất sinh bất diệt giả thị trí phục thứ đoạ tướng vô tướng cập đoạ hữu vô
+chủng chủng tướng nhân thị thức siêu hữu vô tướng thị trí phục thứ trường dưỡng tướng thị thức phi
+trường dưỡng tướng thị trí phục thứ hữu tam chủng trí vị tri sinh diệt tri tự cộng tướng tri
+bất sinh bất diệt phục thứ vô ngại tướng thị trí cảnh giới chủng chủng ngại tướng thị thức (đường vân
+trước cảnh giới tướng thị thức bất trước cảnh giới tướng thị trí )phục thứ tam sự hòa hợp sinh phương tiện tướng thị thức vô
+sự phương tiện tự tính tướng thị trí (đường vân tam hòa hợp tướng ưng sinh thị thức vô ngại tướng ưng tự tính tướng thị trí )phục thứ
+đắc tướng thị thức bất đắc tướng thị trí tự đắc thánh trí cảnh giới bất xuất bất nhập cố
+như thuỷ trung nguyệt 。
+   　thông viết nhân thượng thiện ngữ nghĩa chương quan ngữ dữ nghĩa phi dị phi bất dị tức trí
+   　tướng quan ngữ dữ nghĩa hoặc dị hoặc bất dị tác hữu vô đẳng kiến đắc thức tướng cố
+   　thế tôn vị trí thức tướng kim đương thuyết kì trí tướng giả hữu tam phẩm thế gian trí
+   　giả chư phàm phu đẳng kế trước nhất thiết pháp hữu nhất thiết pháp vô cập kế trước hữu
+   　vô sinh nhân bất li thế gian cảnh giới thị danh thế gian trí xuất thế gian trí giả
+   　chư nhị thừa nhân tri thế gian ngũ uẩn sinh tử khả áp kế trước niết bàn khả chứng
+   　hi vọng đắc xuất thế quả hư vọng phân biệt năng chứng giả vi tự tướng sở chứng giả
+   　vi cộng tướng tuy miễn lưu chuyển thật đoạ thiên không thị danh xuất thế gian trí nhược xuất
+   　thế gian thượng thượng trí giả chư phật bồ tát quan bản lai nhất vô sở hữu chi pháp
+   　kiến tự tính bất sinh bất diệt li hữu vô phẩm bất đoạ thế gian ngoại đạo phàm phu
+   　sinh diệt chi kiến chứng nhập như lai địa nhân pháp câu không bất đoạ nhị thừa pháp ngã
+   　vị vô chi kiến thử trí nãi vô sư trí tự nhiên trí duyên tự đắc sinh phi do
+   　công huân tích luy sở đáo dã do thử ngôn chi thế gian trí xuất thế gian trí tuy
+   　hữu trí chi danh vị li hồ thức tất chí ư xuất thế gian thượng thượng trí tình kiến
+   　câu dân nãi đắc danh vi trí dã cố thế gian phàm phu kế trước nhất thiết hữu vô
+   　giai thị sinh diệt pháp nhi kế trước sinh diệt pháp giả thuộc lục thức phân biệt dụng sự
+   　thị vị chi thức nhược chư phật bồ tát quan vô sở hữu pháp kiến bản lai bất sinh
+   　diệc bản bất diệt dĩ li chư thức cảnh giới cố vị chi trí thế gian ngoại đạo đoạ
+   　tướng vô tướng kiến vị ngoại pháp hữu dĩ hoàn diệt đãn ư tướng thượng phân biệt cập đoạ
+   　hữu vô chủng chủng tướng nhân vị hữu chủng vô chủng hữu nhân vô nhân cập hữu dị nhân
+   　vi tác giả đãn dĩ thần ngã vi chủ đế thị vị chi thức nhược chư phật bồ tát
+   　quan vô sở hữu pháp li hữu vô phẩm dĩ li tứ cú tuyệt bá phi siêu quá hữu
+   　vô đẳng tướng cố vị chi trí nhất thiết thanh văn duyên giác thủ chứng niết bàn bất li
+   　thọ giả tướng đãn dĩ tích tập chư pháp nhi tự trường dưỡng nhiên tồn ngã giác ngã thượng
+   　tại thị vị chi thức nhược chư phật bồ tát quan vô sở hữu pháp chứng nhập như lai
+   　địa nhân pháp câu không hào mạt bất tồn cố vị chi trí bỉ trường dưỡng tướng giả tuy
+   　đắc nhân vô ngã vị đắc pháp vô ngã phi trường dưỡng tướng giả pháp ngã diệc không thức
+   　âm đô tận nãi danh chân trí dã dĩ thượng phân biệt trí thức tướng khả vị tường hĩ
+   　nhi hựu vị hữu tam chủng trí giả vị xuất thế gian thượng thượng trí năng kiêm tiền nhị
+   　chủng trí nhi tiền nhị chủng trí bất năng kiêm thượng thượng trí dã vị tri phàm phu ngoại
+   　đạo chư sinh diệt pháp duy tri cố bất kế trước hữu vô thị vị nhất thiết trí dã
+   　tri nhị thừa tự cộng tướng pháp duy tri cố bất đoạ tự cộng tướng hi vọng thị vị
+   　đạo tướng trí dã tri chư phật bồ tát bất sinh bất diệt pháp duy tri cố chứng nhập
+   　như lai địa thị vị nhất thiết chủng trí dã tri thử tam giả phi thế gian trí phi
+   　xuất thế gian trí nãi xuất thế gian thượng thượng trí dã thị xuất thế gian thượng thượng trí
+   　khởi năng li thế gian pháp cập xuất thế gian pháp nhi biệt hữu sở vị tối thượng thừa
+   　tai đãn phàm phu trước cảnh giới tướng kế hữu kế vô bất việt lục thức phân biệt tiện
+   　vi chủng chủng cảnh ngại duy bất trước cảnh giới tướng chuyển đệ lục thức vi diệu quan sát
+   　trí tuy xứ sinh diệt chi trung bất vi sinh diệt sở ngại cố hữu ngại giả thị thức
+   　nhi vô ngại giả thị trí dã ngoại đạo kế trước thần ngã dĩ vi tác giả tức thất
+   　thức dã do tam sự hòa hợp phương tiện tướng ưng nhi sinh tam sự giả nhất căn bản
+   　duyên tức bát thức nhị tác ý tức tự thể tam chủng tử tức lục thức sở huân thị
+   　do tam hòa hợp duyên tác phương tiện sinh giả phi tự tính tướng duy chuyển đệ thất thức
+   　vi bình đẳng tính trí bất tạ duyên sinh bất sự phương tiện tự sinh giải thoát duyên khởi
+   　vô ngại cố y duyên giả thị thức nhi tự tính tướng ưng giả thị trí dã nhị thừa
+   　nhân đoạ tự cộng tướng hi vọng thật hữu niết bàn tướng khả đắc hữu đắc hữu chứng do
+   　thị bát thức sinh diệt biên sự duy chuyển đệ bát thức vi đại viên kính trí tắc xả
+   　li sinh diệt y bất sinh diệt ư vô thượng niết bàn liễu bất khả đắc cố đắc tướng
+   　giả thị thức nhi bất đắc tướng giả thị trí dã bỉ đắc tướng giả đam nhập hợp đam
+   　hữu xuất nhập tướng khả đắc cố vị li hồ thức thử vô sở đắc tướng danh chi vi
+   　trí dĩ tự thân nội chứng đắc thánh trí cảnh giới phi tự ngoại nhập phi do trung xuất
+   　như như tự thể thanh tịnh chu biến thức tức thị tính tính tức thị thức như nguyệt chi
+   　tại thuỷ lai vô sở tùng khứ vô sở chí bất xuất bất nhập đam nhiên thường tịch thử
+   　thánh trí cảnh giới đãn khả tự ngộ cố viết duyên tự đắc sinh thị trí thức tướng bất
+   　khả bất thiện thông đạt dã lâm tế vân đạo lưu phật pháp vô dụng công xứ chi thị
+   　bình thường vô sự a thỉ tống tuy trước y cật phạn khốn lai tức ngoạ ngu nhân tiếu
+   　ngã trí nãi tri yên cổ nhân vân hướng ngoại tác công phu chi thị si ngoan hán nễ
+   　thả tùy xứ tác chủ lập xứ giai chân cảnh lai hồi hoán bất đắc túng hữu tùng lai
+   　tập khí ngũ vô gian nghiệp tự vi giải thoát đại hải kim thời học giả tổng bất thức
+   　pháp do như xúc tị dương phùng trước vật an tại khẩu lí nô lang bất ban tân chủ
+   　bất phân như thị chi lưu tà tâm nhập đạo náo xứ tức nhập bất đắc danh vi chân
+   　xuất gia nhân chính thị chân tục gia nhân phu xuất gia giả tu ban đắc bình thường chân
+   　chính kiến giải ban phật ban ma ban chân ban nguỵ ban phàm ban thánh nhược như thị ban
+   　đắc danh chân xuất gia nhược phật ma bất ban chính thị xuất nhất gia nhập nhất gia hoán
+   　tác tạo nghiệp chúng sinh vị đắc danh vi chân xuất gia chi như kim hữu nhất cá phật
+   　ma đồng thể bất phân như thuỷ nhũ hợp nga vương khiết nhũ như minh nhãn đạo lưu ma
+   　phật câu đả nễ nhược ái thánh tăng phàm sinh tử hải lí phù trầm tất như lâm tế
+   　sở kiến phương danh xuất thế gian thượng thượng trí 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+thái tập nghiệp vi thức bất thái tập vi trí quan sát nhất thiết pháp thông đạt vô sở hữu
+đãi đắc tự tại lực thị tắc danh vi tuệ (ngụy vân thức năng tập chư nghiệp trí năng liễu phân biệt tuệ năng đắc vô tướng cập diệu trang
+nghiêm cảnh )phọc cảnh giới vi tâm giác tưởng sinh vi trí vô sở hữu cập thắng tuệ tắc tùng thị
+sinh (tiền thập nhị vọng tưởng chương kệ vân tâm phọc ư cảnh giới giác tưởng trí tùy chuyển vô sở hữu cập thắng bình đẳng trí tuệ sinh )。
+   　thông viết thử tụng bị thuyết thức trí tướng thức ngoại vô trí duy năng chuyển thức giả vi
+   　trí nhiên thức hà do nhi chuyển phi phát tuệ giả bất năng chuyển tuệ hà do nhi sinh
+   　tất do quan sát vô sở hữu nhi sinh cố kệ trung đề xuất nhất tuệ tự yếu nhân
+   　tự tu tự ngộ nhiên hậu năng chứng xuất thế gian thượng thượng trí dã tiền thuyết tạng thức
+   　hải lang pháp thân cảnh giới kệ viết tâm danh thái tập nghiệp ý danh quảng thái tập chư
+   　thức thức sở thức hiện đẳng cảnh thuyết ngũ thử đãn dĩ thái tập nghiệp vi thức phu tích
+   　tập chủng tử giả tuy hệ bát thức nhiên quảng lãm thái tập giả vi thất thức tạo chủng
+   　chủng nghiệp giả vi lục thức đối cảnh trục trần giả vi tiền ngũ thức tổng bất li tạng
+   　thức hải chuyển biến cố đãn cử bát thức dĩ cai kì dư hĩ chư nghiệp thiện ác vô
+   　kí đẳng giai thuộc sinh diệt pháp tích tập ư tâm chủng chủng biến hiện chư thức triển chuyển
+   　tướng nhân vận vị chi thức nhược năng không chư sở hữu bất thái tập chư nghiệp tắc linh
+   　quang do diệu huýnh thoát căn trần thiện năng phân biệt nhất thiết nãi vị chi trí lương do
+   　quan sát nhất thiết pháp bản lai vô sở hữu kiến chư tướng phi tướng cập thắng diệu trang
+   　nghiêm cảnh giới đãi đắc tự tại uy quang thị danh tuệ lực cụ túc đắc đại tự tại
+   　cố danh xuất thế gian thượng thượng trí dã hựu dẫn tiền thập nhị vọng tưởng chương kệ dĩ
+   　thân minh chi sở vân thái tập nghiệp giả tức tâm vi cảnh giới sở phọc hữu phọc tức
+   　bất danh trí cố vi thức dã sở vân bất thái tập giả tức giác liễu vọng tưởng bất
+   　vi vọng tưởng sở phọc tức đắc danh trí vị năng chuyển hồ thức dã trước ư cảnh giới
+   　giả kiến kì hữu bất trước ư cảnh giới giả kiến kì vô sở hữu nhiên thị vô sở
+   　hữu vị nhập thắng diệu diệc vị vi tuệ duy bất li nhất thiết chư pháp nhi kiến vô
+   　sở hữu nãi vi thắng diệu thử phát quang diễm tuệ tùng bất tư nghị sinh nhất thiết bình
+   　đẳng nhất thiết tự tại nãi xuất thế gian thượng thượng trí dã hoa nghiêm kinh xuất hiện phẩm
+   　vân phật tử vô nhất chúng sinh nhi bất cụ hữu như lai trí tuệ đãn dĩ vọng tưởng
+   　điên đảo chấp trước nhi bất chứng đắc nhược li vọng tưởng nhất thiết trí tự nhiên trí vô
+   　ngại trí tắc đắc hiện tiền thiên đồng tụng vân thiên cái địa tái thành đoàn tác khối chu
+   　pháp giới nhi vô biên tích lân hư nhi vô nội cập tận huyền vi thùy phân hướng bội
+   　phật tổ lai thường khẩu nghiệp trái vấn thủ nam toàn vương lão sư nhân nhân chỉ khiết nhất
+   　hành thái nhược liễu đắc khiết nhất hành thái tức chu pháp giới nhi vô biên giả nãi đắc
+   　danh tuệ 。
+tâm ý cập dữ thức viễn li tư duy tưởng đắc vô tư tưởng pháp phật tử phi thanh văn
+tịch tĩnh thắng tấn nhẫn như lai thanh tịnh trí sinh ư thiện thắng nghĩa sở hành tất viễn li
+ngã hữu tam chủng trí thánh khai phát chân thật ư bỉ tưởng tư duy tất nhiếp thụ chư tính
+nhị thừa bất tướng ưng trí li chư sở hữu (ngụy vân ngã hữu tam chủng tuệ y bỉ đắc thánh danh đường vân phân biệt ư chư tướng khai
+thị nhất thiết pháp ngã trí li chư tướng siêu quá ư nhị thừa )kế trước ư tự tính tùng chư thanh văn sinh siêu độ chư
+tâm lượng như lai trí thanh tịnh (đường vân dĩ chư thanh văn đẳng chấp trước chư pháp hữu như lai trí vô cấu liễu đạt duy tâm cố )。
+   　thông viết trường hành trung tam ban thức trí tướng đãn chỉ tâm chỉ ý chỉ thức nhi bất
+   　cập ngũ thức giả hà tiền ngũ thức thuộc hiện lượng vị nhập tư duy tưởng nãi vô kí
+   　tính sở nhiếp nhược dĩ vô kí tính vi vô phân biệt tức đương căn bản trí giả thị
+   　thanh văn kiến giải dã cố thử trùng tụng quan vô sở hữu cập thắng đắc bình đẳng trí
+   　tuệ giả phi năng li tâm ý cập thức nhi biệt hữu tuệ sinh dã đãn ư thức viễn
+   　li trước cảnh giới sinh diệt tư duy tưởng ư ý viễn li đoạ hữu vô hòa hợp sinh
+   　nhân tư duy tưởng ư tâm viễn li đắc trường dưỡng tướng tư duy tưởng chí nhất vô sở
+   　tư nhất vô sở tưởng bất vi cảnh giới sở phọc tức đắc bất sinh bất diệt pháp tức
+   　đắc siêu hữu vô tướng pháp tức đắc phi trường dưỡng tướng pháp như thị giả bất tất đoạn/đoán
+   　diệt chư thức nhi chứng vô sở hữu phi đắc tự tại tuệ lực giả bất năng duy thị
+   　phật tử bồ tát vị trung nãi hữu thử trí phi thanh văn sở khả cập dã thị vô
+   　tư tưởng pháp tức thị tịch tĩnh tối thắng chi pháp do thử phật tử thánh trí thắng tấn
+   　bất dĩ tức thị như lai thanh tịnh trí nhân vương kinh trung thuyết hữu ngũ nhẫn vị phục
+   　nhẫn tín nhẫn thuận nhẫn vô sinh nhẫn tịch diệt nhẫn tam hiền đãn phục nhẫn sơ địa chí
+   　cửu địa đắc tín nhẫn thuận nhẫn vô sinh nhẫn chí thập địa đẳng diệu giác đắc tịch diệt
+   　nhẫn thị tịch tĩnh nhẫn tối vi thắng tấn cố như lai thanh tịnh trí sinh ư thắng nghĩa
+   　đế chi tối thiện giả bất đãn viễn li phàm phu ngoại đạo nhị thừa tư duy tưởng tức
+   　thập địa bồ tát sở hành cảnh giới tất giai viễn li như thị chi trí tức đăng địa
+   　bồ tát diệc bất năng trắc nhi huống ư nhị thừa hồ cố phật ngôn ngã hữu tam chủng
+   　trí tuệ sở vị tri sinh diệt tri tự cộng tướng tri bất sinh bất diệt y bỉ thế
+   　gian pháp xuất thế gian pháp xuất thế gian thượng thượng pháp nhi đắc thánh trí chi danh duy
+   　hữu thử thánh trí cố năng khai phát chân thật đệ nhất nghĩa đế bất đãn đắc thật trí
+   　thả đắc quyền trí ư bỉ phàm phu ngoại đạo tư duy tưởng pháp tất năng nhiếp thụ tất
+   　năng phân biệt khai thị nhất thiết hữu vô sinh diệt chư pháp dữ ngô chân thật bất tướng
+   　ưng ư bỉ nhị thừa sở đắc tự cộng tướng pháp hữu đắc hữu chứng bất li chư tướng
+   　dữ ngô chân thật diệc bất tướng ưng do ngã thánh trí li chư sở hữu ư tướng nhi
+   　li tướng bất hoại tướng nhi chứng vô tướng sở dĩ siêu quá ư nhị thừa chi thượng dã
+   　bỉ nhị thừa nhân kế trước ư tự tính niết bàn thật hữu niết bàn khả chứng tuy viết
+   　vô tướng phiên thành hữu tướng đãn tùng thanh giáo nhi nhập y ngôn chứng đạo phi do tự
+   　đắc sinh cố như lai chi trí duyên tự đắc sinh liễu đạt chư pháp duy tâm sở hiện
+   　bản lai tịch tĩnh nhất vô sở hữu cố năng siêu độ chư tâm lượng bất vi tâm lượng
+   　sở phọc nhị thừa sở chứng niết bàn vị li tâm lượng vị đắc thanh tịnh duy như lai
+   　tự đắc thánh trí thanh tịnh vô cấu sinh ư thiện thắng nghĩa liễu vô tâm lượng khả đắc
+   　cố vị chi xuất thế gian thượng thượng trí dã lâm tế vân như chư phương học nhân lai
+   　sơn tăng thử gian tác tam chủng căn khí đoạn/đoán như trung hạ căn khí lai ngã tiện đoạt
+   　kì cảnh nhi bất trừ kì pháp hoặc trung thượng căn khí lai ngã tiện cảnh pháp câu đoạt
+   　như thượng thượng căn khí lai ngã tiện cảnh pháp nhân câu đoạt như hữu xuất cách kiến giải
+   　nhân lai sơn tăng thử gian tiện toàn thể tác dụng bất lịch căn khí đại đức đáo giá
+   　lí học nhân trước lực xứ bất thông phong thạch hoả điện quang tức quá liễu dã học nhân
+   　nhược nhãn định động tức một giao thiệp nghĩ tâm tức sai động niệm tức quai hữu nhân giải
+   　giả bất li mục tiền đại đức nễ đam bát nang thỉ đãn tử bàng gia tẩu cầu phật
+   　cầu pháp tức kim dữ ma trì cầu để nễ hoàn thức cừ ma hoạt bát bát địa chi
+   　thị vật căn chu ủng bất tụ bát bất tán cầu trước tức chuyển viễn bất cầu hoàn tại
+   　mục tiền linh âm chúc nhĩ nhược nhân bất tín đồ lao bá niên lâm tế cố đắc như
+   　lai thanh tịnh trí giả nãi tất nhiếp thụ chư tính khai phát chân thật nghĩa như thử 。
+phục thứ đại tuệ ngoại đạo hữu cửu chủng chuyển biến luận ngoại đạo chuyển biến kiến sinh sở vị
+hình xứ chuyển biến tướng chuyển biến nhân chuyển biến thành chuyển biến kiến chuyển biến tính chuyển biến duyên
+phân minh chuyển biến sở tác phân minh chuyển biến sự chuyển biến đại tuệ thị danh cửu chủng chuyển
+biến kiến nhất thiết ngoại đạo nhân thị khởi hữu vô sinh chuyển biến luận vân hà hình xứ chuyển
+biến vị hình xứ dị kiến thí như kim biến tác chư khí vật tắc hữu chủng chủng hình xứ
+hiển hiện phi kim tính biến nhất thiết tính biến diệc phục như thị hoặc hữu ngoại đạo tác như
+thị vọng tưởng nãi chí sự biến vọng tưởng bỉ phi như phi dị vọng tưởng cố (đường vân chư dư ngoại đạo
+chủng chủng kế trước giai phi như thị diệc phi biệt dị đãn phân biệt cố )như thị nhất thiết tính chuyển biến đương tri như nhũ lạc
+tửu quả đẳng thục ngoại đạo chuyển biến vọng tưởng bỉ diệc vô hữu chuyển biến nhược hữu nhược vô
+tự tâm hiện ngoại tính phi tính (đường vân tự tâm sở kiến vô ngoại vật cố )đại tuệ như thị phàm ngu chúng sinh
+tự vọng tưởng tu tập sinh đại tuệ vô hữu pháp nhược sinh nhược diệt như kiến ảo mộng sắc
+sinh (đường vân như nhân ảo mộng sở kiến chư sắc như thạch nữ nhi thuyết hữu sinh tử )。
+   　thông viết nhân thượng ngôn nhất thiết ngoại đạo phàm phu kế trước hữu vô cập đoạ hữu vô
+   　chủng chủng tướng nhân tuy vân thế gian trí tổng bất li thức tình sở chuyển thử phục tường
+   　luận ngoại đạo cửu chủng chuyển biến giai do vọng kiến sở sinh nhất giả hình xứ chuyển biến
+   　chỉ lưu chuyển lục đạo hình trạng bất đồng dã nhị giả tướng chuyển biến chỉ ngũ âm tứ
+   　đại sinh trụ dị diệt bất đồng dã tam giả nhân chuyển biến chỉ chủng tử vi nhân nhân
+   　diệt quả khởi tứ giả thành chuyển biến đường vân tướng ưng chỉ nhân sở thành pháp hữu thành
+   　hữu hoại ngũ giả kiến chuyển biến vị tùy vật thiên di tiền kiến vi thị hậu kiến vi
+   　phi dã lục giả tính chuyển biến tức thời chí chuyển sinh tác thục biến cam vi khổ kì
+   　tính các biệt dã thất giả duyên chuyển biến chỉ thập nhị nhân duyên sinh diệt bất trụ phân
+   　minh chuyển biến bát giả sở tác chuyển biến chỉ duyên sở tác quả hữu dĩ hoàn diệt phân
+   　minh chuyển biến cửu giả sự chuyển biến chỉ căn thân khí giới chư hữu vi pháp chung tùng
+   　biến hoại như thử chuyển biến cửu chủng hoặc vô nhi hữu hoặc hữu nhi vô nhân thị vọng
+   　sinh phân biệt tác chuyển biến luận thử giai ư sinh diệt pháp trung khởi kiến duy y ư
+   　thức bất y ư trí cố phi chính luận bỉ vị hình xứ chuyển biến giả đãn ư hình
+   　xứ sinh dị kiến nhĩ thí như kim tác chư khí hoàn xuyến anh lạc chủng chủng bất đồng
+   　tắc hữu chư hình hiển hiện phi thật kim tính biến dã bất kiến kì tính đãn kiến kì
+   　hình tắc dĩ hình xứ thật hữu chuyển biến nhi bất tri hình xứ như ảo bản vị thường
+   　biến vị thường bất biến dã suy chi nhất thiết tính biến giai như hình xứ chân tính bất
+   　biến giai như kì kim bất khả tác biệt dị kiến dã chư dư ngoại đạo tác chủng chủng
+   　phân biệt vị tướng vị nhân vị thành vị kiến vị tính vị sở tác nãi chí sự đẳng
+   　chủng chủng chuyển biến thật hữu biệt dị bất tri bỉ chủng chủng chư pháp diệc phi như thị
+   　phi bất như thị đãn dĩ vọng tưởng phân biệt cố hữu thử dị kiến nhĩ như thị tắc
+   　bỉ sở vân nhất thiết tính chuyển biến giả đương tri như nhũ lạc tửu quả đẳng thời chí
+   　tắc thục kì vị tức biến đãn biến kì vị bất biến kì thấp đãn biến kì hình bất
+   　biến kì tính ngoại đạo vọng tưởng phân biệt vị nhất thiết tính chuyển biến bất tri bỉ diệc
+   　vô hữu chuyển biến dã sở dĩ giả hà dĩ chư pháp vô thật thể cố an sở kiến
+   　kì hữu nhi vị chi chuyển an sở kiến kì vô nhi vị chi biến nhất thiết ngoại pháp
+   　nhược hữu nhược vô giai tự tâm sở hiện kì thật ngoại vật phi hữu tự tính bản vô
+   　nhất vật khả đắc kí vô thật tính thùy vi chuyển biến cố viết bỉ diệc vô hữu chuyển
+   　biến dã bản vô chuyển biến nhi ngoại đạo phàm ngu vọng vị thật hữu chuyển biến tự hình
+   　xứ dĩ chí sự biến chủng chủng phân biệt giai tự vô thuỷ vọng tưởng tập khí sở sinh
+   　phi nhất triêu nhất tịch chi cố hĩ pháp bản vô sinh diệt nhi phàm ngu vọng vị hữu
+   　sinh diệt pháp bản vô biệt dị nhi phàm ngu vọng vị hữu biệt dị như kiến ảo mộng
+   　trung sắc tướng nhược sinh nhược diệt nhi sinh dị kiến nhĩ ảo mộng sở kiến phi thật hữu
+   　thị sự diệc vị thường vô sắc phàm ngu vô tri ư trung thuyết hữu thuyết vô thuyết sinh
+   　thuyết diệt kiến lập cửu chủng chuyển biến luận khởi bất bội tai hậu thất vô thường luận đại
+   　suất loại thử tổng chi đoạ tướng vô tướng cập đoạ hữu vô chủng chủng tướng nhân thị thức
+   　phi trí dã tào sơn sơ yết đỗng sơn đỗng vấn xà lê danh thậm ma tào vân bản
+   　tịch đỗng viết na cá nễ tào vân bất danh bản tịch đỗng thâm khí chi tự thử nhập
+   　thất bàn hoàn số tái nãi từ khứ đỗng viết tử hướng thậm ma xứ khứ tào vân bất
+   　biến dị xứ khứ đỗng viết bất biến dị xứ khởi hữu khứ da tào vân khứ diệc bất
+   　biến dị đan hà tụng vân gia gia môn yểm thiềm thừ nguyệt xứ xứ oanh đề dương liễu
+   　phong nhược vị túng hoành vô biến dị do như trịch kiếm nghĩ huy không nhược minh đắc tào
+   　sơn vô biến dị xứ tắc ngoại đạo cửu chủng biến dị luận bất công tự phá hĩ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+hình xứ thời chuyển biến tứ đại chủng chư căn trung âm tiêm thứ sinh vọng tưởng phi minh trí
+tối thắng ư duyên khởi phi như bỉ vọng tưởng nhiên thế gian duyên khởi như kiền thát bà thành 。
+   　thông viết ngoại đạo bất đạt ư như ảo chi chỉ cố hữu cửu chủng chuyển biến chi luận
+   　như hình xứ chuyển biến vị do thời tiết tiêm thứ nhi sinh thuỷ dã dĩ tứ đại chủng
+   　vi bản kí dã dĩ thanh tịnh tứ đại sinh khởi chư căn nhiên thử căn dĩ diệt bỉ
+   　căn vị sinh nhị giả trung gian diệc thả hữu ngũ âm vị chi trung âm thân trung âm
+   　tự trạch phụ mẫu dữ kỉ tam duyên hòa hợp nhi thiên nhân lục đạo hình xứ ư thị
+   　hồ sinh kì tiêm thứ chuyển biến như thử tổng chi vị siêu hồ hình vị li hồ thức
+   　phân biệt chủng chủng chuyển biến thứ đệ vận thuộc vọng tưởng phi minh trí dã minh giả minh
+   　bỉ hình xứ đẳng chi vi vọng trí giả đãn y ư tính bất y ư thức dã duy
+   　phật hữu tối thắng chi hiệu tối thắng ư thế gian duyên khởi hình xứ sự tướng đẳng pháp
+   　phi như bỉ ngoại đạo vọng sinh phân biệt đãn quan như kiền thát bà thành ư hư không
+   　trung chủng chủng trang nghiêm phi hữu thật pháp bất khả định chấp vi hữu bất khả định chấp
+   　vi vô giai tự tâm sở hiện nhĩ bỉ ngoại đạo bất liễu như ảo kế dĩ vi thật
+   　cố tác cửu chủng chuyển biến luận bất khả ngữ ư tối thắng chi môn dã bác lăng vương
+   　vấn ngưu đầu dung thiền viết cảnh phát vô xứ sở duyên giác liễu tri sinh cảnh tạ giác
+   　hoàn chuyển giác nãi biến vi cảnh nhược dĩ tâm duệ tâm hoàn vi giác sở giác tùng chi
+   　tùy tùy khứ bất li sinh diệt tế sư đáp viết sắc tâm tiền hậu trung thật vô duyên
+   　khởi cảnh nhất niệm tự nghi vô thùy năng kế động tĩnh thử tri tự vô tri tri tri
+   　duyên bất hội đương tự kiểm bản hình hà tu cầu vực ngoại tiền cảnh bất biến tạ hậu
+   　niệm bất lai kim cầu nguyệt chấp huyền ảnh thảo tích trục phi cầm dục tri tâm bản tính
+   　hoàn như thị mộng lí thí chi lục nguyệt băng xứ xứ giai tướng tự tị không chung bất
+   　thoát cầu không phục bất thành tá vấn kính trung tượng tâm tùng hà xứ sinh bỉ kệ thử
+   　kệ đẳng vô hữu dị 。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn duy nguyện vi thuyết nhất thiết pháp tướng
+tục nghĩa giải thoát nghĩa (đường vân thâm mật nghĩa cập giải thoát )nhược thiện phân biệt nhất thiết pháp tướng tục bất tướng
+tục tướng ngã cập chư bồ tát thiện giải nhất thiết tướng tục xảo phương tiện bất đoạ như sở
+thuyết nghĩa kế trước tướng tục thiện ư nhất thiết chư pháp tướng tục bất tướng tục tướng cập li
+ngôn ngữ văn tự vọng tưởng giác (đường vân bất đoạ như ngôn thủ nghĩa thâm mật chấp trước li văn tự ngữ ngôn hư vọng phân biệt )du hành
+nhất thiết chư phật sa độ vô lượng đại chúng lực tự tại thông tổng trì chi ấn chủng chủng
+biến hoá quang minh chiếu diệu giác tuệ thiện nhập thập vô tận cú vô phương tiện hành do như
+nhật nguyệt ma ni tứ đại ư nhất thiết địa li tự vọng tưởng tướng kiến (đường vân trụ ư chư địa li phân
+biệt kiến )kiến nhất thiết pháp như ảo mộng đẳng nhập phật địa thân ư nhất thiết chúng sinh giới tùy
+kì sở ưng nhi vi thuyết pháp nhi dẫn đạo chi tất linh an trụ nhất thiết chúng sinh như
+ảo mộng đẳng li hữu vô phẩm cập sinh diệt vọng tưởng dị ngôn thuyết nghĩa kì thân chuyển thắng
+(đường vân đoạn/đoán sinh diệt chấp bất trước ngôn thuyết linh chuyển sở y )phật cáo đại tuệ thiện tai thiện tai đế thính đế thính thiện
+tư niệm chi đương vi nhữ thuyết đại tuệ bạch phật ngôn duy nhiên thụ giáo phật cáo đại tuệ
+vô lượng nhất thiết chư pháp như sở thuyết nghĩa kế trước tướng tục (đường vân ư nhất thiết pháp như ngôn thủ nghĩa chấp trước
+thâm mật kì số vô lượng )sở vị tướng kế trước tướng tục duyên kế trước tướng tục tính phi tính kế trước
+tướng tục sinh bất sinh vọng tưởng kế trước tướng tục diệt bất diệt vọng tưởng kế trước tướng tục
+thừa phi thừa vọng tưởng kế trước tướng tục hữu vi vô vi vọng tưởng kế trước tướng tục địa
+địa tự tướng vọng tưởng kế trước tướng tục tự vọng tưởng vô gian vọng tưởng kế trước tướng tục
+hữu vô phẩm ngoại đạo y vọng tưởng kế trước tướng tục tam thừa nhất thừa vô gian vọng tưởng
+kế trước tướng tục phục thứ đại tuệ thử cập dư phàm ngu chúng sinh tự vọng tưởng tướng tục
+dĩ thử tướng tục cố phàm ngu vọng tưởng như tàm tác kiển dĩ vọng tưởng ti tự triền triền
+tha hữu vô hữu tướng tục tướng kế trước 。
+   　thông viết nhân thượng ngôn cửu chủng chuyển biến nhi tri chư pháp hữu tướng tục chi nghĩa nhân
+   　thượng ngôn như kiền thát bà thành nhi tri chư pháp hữu giải thoát chi nghĩa tướng tục tức
+   　phọc bất tướng tục tức giải đường vân thâm mật nghĩa cập giải thoát nãi chỉ thất thức tế
+   　mật lưu chú tướng tục tu đắc thiện xảo phương tiện thuỷ khả giải thoát bỉ như ngôn thủ
+   　nghĩa chấp vi thật ngã thật pháp chính thị thất thức hư vọng phân biệt tân tân bất trụ
+   　nhược ư tướng tục trung đắc bất tướng tục tức năng viễn li ngữ ngôn văn tự vọng tưởng
+   　chi giác vọng tận thuần chân tức danh giác tuệ giác tuệ phát dụng đắc đại tổng trì phổ
+   　nhập nhất thiết chư phật quốc độ thần lực tự tại chủng chủng biến hiện quang minh chiếu diệu
+   　tức thử giác tuệ thiện trụ chúng sinh pháp giới thập vô tận nguyện tự độ độ tha đắc
+   　vô công dụng hành do như nhật nguyệt vô y nhi tự vận như ma ni tùy phương nhi
+   　hiện sắc như tứ đại chu biến nhi vô ngại trụ ư chư địa dĩ kim cương như ảo
+   　thậm thâm trí tuệ li tự phân biệt tướng kiến phổ quan nhất thiết chư pháp như ảo mộng
+   　đẳng chứng nhập đẳng diệu giác thân tùy cơ thuyết pháp linh chư chúng sinh kiến nhất thiết pháp
+   　diệc như ảo mộng đẳng bất trước ư hữu nhi vi tướng tục vọng tưởng bất trước ư vô
+   　nhi vi bất tướng tục vọng tưởng tướng tục bất tướng tục giai vị li sinh diệt chấp duy
+   　nhất thiết như ảo tức chuyển sinh diệt y bất sinh diệt tức ngôn thuyết dị ngôn thuyết nghĩa
+   　linh chuyển sở y chứng tối thắng pháp thân kì thân chuyển thắng thị vi chân giải thoát dã
+   　bỉ dĩ như ngôn thủ nghĩa kế trước tướng tục giai do thất thức truyền tống nhập ư tạng
+   　thức vi sinh diệt chủng tử chấp trước thâm mật kì số vô lượng sở vị vô lượng giả
+   　vị nhất thiết tướng như ngũ âm đẳng tướng nhất thiết duyên như thập nhị nhân duyên đẳng bất
+   　ngoại thế gian ngũ âm lục nhập thập nhị xứ thập bát giới thất đại đẳng pháp hoặc dĩ
+   　vi hữu dĩ hoàn vô hoặc dĩ vi sinh nhi bất sinh hoặc dĩ vi diệt nhi bất diệt
+   　thủ chứng bất sinh bất diệt giả tắc dĩ vi thừa bất thủ chứng giả tắc dĩ vi phi
+   　thừa y ư sinh diệt giả giai hữu vi pháp dã y ư bất sinh diệt giả giai vô
+   　vi pháp dã kí nhập vô vi nhiên địa địa tự tướng phân biệt thủ chứng vị đoạn/đoán câu
+   　sinh vô minh do thuộc vọng tưởng đại để bất li tự vọng tưởng như lục thức chi phân
+   　biệt cập vô gian vọng tưởng như thất thức chi tướng tục ư trung chủng chủng chấp trước dã
+   　thị tính phi tính hữu vô phẩm nãi ngoại đạo sở tông thanh văn kiến kì sinh duyên giác
+   　kiến kì diệt chư địa bồ tát kiến kì bất sinh bất diệt danh vi tam thừa siêu tam
+   　thừa nhi thượng chi danh vi nhất thừa diệc viết phi thừa ngoại đạo hữu vi pháp y lục
+   　thức vọng tưởng phân biệt kế trước tướng tục tam thừa vô vi pháp y vô gian vọng tưởng
+   　thâm mật kế trước tướng tục như thử tướng tục hữu vô lượng chủng thử ngô nội giáo đệ
+   　tử cập dư ngoại đạo phàm ngu ư thử vọng tưởng phân biệt nhi mật chấp trước tướng tục
+   　như tàm tác kiển dĩ thử tự phọc diệc dĩ thử phọc tha tổng bất li hữu vô nhị
+   　chủng vọng tưởng tướng dục lạc/nhạc/nhạo kiên mật tướng tục bất đoạn/đoán tức bất li phân đoạn biến dị
+   　nhị tử sinh tử luân hồi vị đắc giải thoát an vọng kì năng chuyển sở y nhi vi
+   　tối thắng thân hồ tăng vấn thiều quốc sư như hà thị bất chứng nhất pháp sư viết đãi
+   　ngôn ngữ tại viết như hà thị chứng chư pháp sư viết tuý tác ma nãi viết chi như
+   　sơn tăng nhẫm ma đối tha chư thượng tòa tác ma sinh thể hội mạc thị chân thật tướng
+   　vi ma mạc thị chính nhẫm ma thời vô nhất pháp khả chứng ma mạc thị thức y lai
+   　xứ ma mạc thị toàn thể hiển lộ ma mạc thác hội hảo như thử kiến giải hoán tác
+   　y thảo phụ mộc dữ phật pháp thiên địa huyền cách giả nhiêu đáp thoại giản biện như huyền
+   　hà chi thành đắc cá điên đảo tri kiến nhược chi quý đáp thoại giản biện hữu thậm ma
+   　nan đãn khủng vô ích ư nhân phiên thành trám ngộ như thượng tòa tùng tiền sở học giản
+   　biện vấn đáp trì thuyết đạo lí cực đa vi thậm ma nghi tâm bất tức văn cổ thánh
+   　phương tiện đặc địa bất hội chi vi đa hư thiểu thật thượng tòa bất như tùng cước căn
+   　hạ nhất thời thứ phá khán thị thậm ma đạo lí hữu đa thiểu pháp môn dữ thượng tòa
+   　tác nghi cầu giải thuỷ tri tùng tiền sở học để sự chi thị sinh tử căn nguyên âm
+   　giới lí hoạt kế sở dĩ cổ nhân đạo kiến văn bất thoát như thuỷ lí nguyệt vô sự
+   　trân trùng cố năng bất đoạ như sở thuyết nghĩa chủng chủng tướng tục bất vi âm giới sở
+   　phú thuỷ hữu giải thoát phân 。
+phục thứ đại tuệ bỉ trung diệc vô tướng tục cập bất tướng tục tướng kiến nhất thiết pháp tịch
+tĩnh vọng tưởng bất sinh cố bồ tát ma ha tát kiến nhất thiết pháp tịch tĩnh (đường vân thử trung thật vô
+mật bất mật tướng dĩ bồ tát ma ha tát kiến nhất thiết pháp trụ tịch tĩnh cố vô phân biệt cố )phục thứ đại tuệ giác ngoại tính phi tính
+tự tâm hiện tướng vô sở hữu tùy thuận quan sát tự tâm hiện lượng hữu vô nhất thiết tính
+vô tướng kiến tướng tục tịch tĩnh cố ư nhất thiết pháp vô tướng tục bất tướng tục tướng (đường vân
+nhược liễu chư pháp duy tâm sở hiện vô hữu ngoại vật giai đồng vô tướng tùy thuận quan sát ư nhược hữu nhược vô phân biệt mật chấp tất kiến tịch tĩnh thị cố vô hữu mật phi mật tướng )。
+phục thứ đại tuệ bỉ trung vô hữu nhược phọc nhược giải dư đoạ bất như thật giác tri hữu
+phọc hữu giải sở dĩ giả hà vị ư nhất thiết pháp hữu vô hữu vô chúng sinh khả đắc
+cố (đường vân nhất thiết chư pháp nhược hữu nhược vô cầu kì thể tính bất khả đắc cố )。
+   　thông viết ư tướng tục kế trước giả trước ư tướng tục chi tướng dã ư bất tướng tục
+   　kế trước giả trước ư bất tướng tục chi tướng dã bỉ chân như tính trung diệc vô tướng
+   　tục tướng diệc vô bất tướng tục tướng chư pháp tùng bản lai đương tự tịch diệt tướng nhược
+   　kiến nhất thiết pháp bản lai tịch tĩnh giả nhi vọng tưởng phân biệt tức tự bất sinh cố
+   　chư bồ tát chứng nhập đẳng diệu giác giả kí vô phàm tình diệc vô thánh giải đãn kiến
+   　nhất thiết pháp tịch tĩnh nhi dĩ an sở dong kì phân biệt da phu chư pháp sâm nhiên
+   　hà dĩ năng nhất thiết tịch tĩnh dã vị giác liễu chư pháp duy tâm sở hiện như kính
+   　hiện tượng tuy ngoại hiện chư tướng giai vô tự tính kí vô kì tính tức vô kì tướng
+   　cố tự tâm hiện tướng giai đồng vô tướng thị nhất thiết tịch tĩnh giả phi tất li nhất
+   　thiết ngoại vật nhi hậu kiến kì tịch tĩnh dã đãn tùy thuận ngoại vật quan sát tự tâm
+   　hiện lượng nhược hữu nhược vô nhất thiết tính phi tính giai vô kì tướng tức giai vô kì
+   　kiến bất phân biệt hữu bất phân biệt vô nhi mật chấp trước thị ư tướng tục trung nhi
+   　kiến kì tịch tĩnh dã cố ư nhất thiết pháp nhược tướng nhược duyên nhược tính phi tính nhược
+   　sinh diệt bất sinh diệt nhược thừa phi thừa nhược hữu vi vô vi nhược địa địa tự tướng
+   　kí vô tướng tục tướng kiến diệc vô bất tướng tục tướng kiến đương hạ tịch tĩnh đắc đại
+   　giải thoát thị tức tướng tục nghĩa cập giải thoát chi vị dã nhiên giải thoát vân giả bản
+   　tự vô phọc kim hựu hà thoát bỉ trung thật vô nhược phọc nhược giải chi tướng thử duy
+   　như thật giác tri tự tâm hiện lượng cố đắc thử chân giải thoát nhĩ dư nhị thừa nhân
+   　đoạ bất như thật giác tri đãn bằng vọng tưởng trắc độ vị như thị tướng tục tức vi
+   　phọc như thị bất tướng tục tức vi giải hữu phọc hữu giải tức phi bản lai tịch tĩnh
+   　chi vị sở dĩ giả hà kiến hữu nhất thiết pháp nhi không chi vị năng vô hồ pháp
+   　dã kiến hữu nhất thiết chúng sinh nhi độ chi vị năng vô hồ chúng sinh dã tuy viết
+   　giải phọc vị li hồ phọc bất khả ngữ ư chân như thật tế cảnh giới dã nhược như
+   　thật giác giả tức nhất thiết pháp bất kiến hữu nhất thiết pháp khả đắc ư pháp nhi li
+   　pháp dã tức nhất thiết chúng sinh bất kiến hữu nhất thiết chúng sinh khả đắc ư chúng sinh
+   　nhi li chúng sinh dã hữu vô thể tính bất khả đắc cố kiến nhất thiết pháp như ảo
+   　mộng đẳng chúng sinh thể tính bất khả đắc cố linh an trụ nhất thiết pháp như ảo mộng
+   　đẳng thử duy bồ tát kiến nhất thiết pháp tịch tĩnh cố năng thiện xảo phương tiện bất đoạ
+   　vọng tưởng giác khởi ngoại đạo nhị thừa sở khả cập tai hoàng bách vân thử tâm minh tịnh
+   　do như hư không vô nhất điểm tướng mạo cử tâm động niệm tức quai pháp thể tức vi
+   　trước tướng vô thuỷ dĩ lai vô trước tướng phật tu lục độ vạn hành dục cầu thành phật
+   　tức thị thứ đệ vô thuỷ dĩ lai vô thứ đệ phật đãn ngộ nhất tâm canh vô thiểu
+   　pháp khả đắc thử tức chân phật phật dữ chúng sinh nhất tâm vô dị do như hư không
+   　vô tạp vô hoại như đại nhật luân chiếu tứ thiên hạ nhật thăng chi thời minh biến thiên
+   　hạ hư không bất tằng minh nhật một chi thời ám biến thiên hạ hư không bất tằng ám
+   　minh ám chi cảnh tự tướng lăng đoạt hư không chi tính khuếch nhiên bất biến phật cập chúng
+   　sinh tâm diệc như thử nhược quan phật tác thanh tịnh quang minh giải thoát chi tướng quan chúng
+   　sinh tác cấu trược ám muội sinh tử chi tướng tác thử giải giả lịch hà sa kiếp chung
+   　bất đắc bồ đề vi trước tướng cố duy thử nhất tâm canh vô vi trần hứa pháp khả
+   　đắc tức tâm thị phật như kim học đạo nhân bất ngộ thử tâm thể tiện ư tâm thượng
+   　sinh tâm hướng ngoại cầu phật trước tướng tu hành giai thị ác pháp phi bồ đề đạo hoàng
+   　bách ngữ cực tinh diệu thật thử thiên bí mật vi chỉ khả tri hữu phọc hữu giải ư
+   　đại hư trung giả diệc do minh ám chi tướng đại ư kì tiền dã ư tịch tĩnh chi
+   　thể hữu hà can thiệp 。
+phục thứ đại tuệ ngu phu hữu tam tướng tục vị tham khuể si cập ái vị lai hữu hỉ
+ái câu (đường vân cập ái lai sinh dữ tham hỉ câu )dĩ thử tướng tục cố hữu thú tướng tục bỉ tướng tục giả
+tục ngũ thú đại tuệ tướng tục đoạn/đoán giả vô hữu tướng tục bất tướng tục tướng phục thứ đại
+tuệ tam hòa hợp duyên tác phương tiện kế trước thức tướng tục vô gian sinh phương tiện kế trước
+tắc hữu tướng tục tam hòa hợp duyên thức đoạn/đoán kiến tam giải thoát nhất thiết tướng tục bất sinh 。
+   　thông viết tiền thập nhất tướng tục nhược tướng nhược duyên nhược tính nhược sinh diệt đẳng tức thử
+   　tam tướng tục đãn phàm phu hữu nhĩ tham sân si tam nãi phát nghiệp vô minh lưu ái
+   　vi chủng dĩ cập lai sinh dữ tham hỉ câu nãi nhuận sinh vô minh dĩ thử nhị chủng
+   　vô minh tướng tục bất đoạn/đoán linh chư chúng sinh tục sinh ngũ thú vị nhân cập tu la
+   　ngạ quỷ địa ngục súc sinh bất ngôn thiên dữ tiên giả vi thiên dữ tiên vô tham khuể
+   　si đẳng nghiệp cố tam giả bất đoạn/đoán tức luân hồi ngũ thú hữu sinh tử tướng tục tướng
+   　duy nhị chủng vô minh tướng tục đoạn/đoán giả tức vô hữu tướng tục bất tướng tục chi tướng
+   　tướng tục bất tướng tục câu bất khả đắc tức chân tịch tĩnh tức chân giải thoát hựu hà
+   　luân chuyển sinh tử chi hữu thử tam tướng tục tuy vân lục thức dụng sự sở dĩ truyền
+   　tống kì gian giả thất thức dã thất thức cụ tam chủng duyên nhất căn bản duyên tức đệ
+   　bát thức nhị tác ý duyên tức động niệm xứ tam chủng tử duyên tức nhiễm tịnh y thử
+   　tam duyên hòa hợp phương tiện kế trước hoặc do ngoại dĩ truyền ư nội hoặc do nội dĩ
+   　truyền ư ngoại chư thức mật phọc thứ đệ nhi khởi tướng tục vô gian chi thức tức thử
+   　nhi sinh duy kì phương tiện hoặc nội hoặc ngoại nguyên vô định sở duy kì kế trước hoặc
+   　nhiễm hoặc tịnh chấp thủ bất vô hữu thử phương tiện kế trước tắc hữu thâm mật hệ phọc
+   　tướng tục bất đoạn/đoán do thử mạt na thất thức song kế thô tế ngã pháp nhị chấp cố
+   　nhất thiết tham khuể si đẳng tướng tục nhi sinh nhược tam hòa duyên thức đoạn/đoán giả kiến tam
+   　chủng giải thoát ngoại bất y ư lục thức tức phương tiện tịnh giải thoát nội bất y ư
+   　bát thức tức tính tịnh giải thoát đương hạ tức vô thất thức tự tướng khả đắc tức viên
+   　tịnh giải thoát chứng tam giải thoát tức đắc không vô tướng vô nguyện đại thừa pháp môn khởi
+   　đãn ngu phu tam tướng tục bất sinh tức tiền thập nhất tướng tục câu bất sinh khởi đãn
+   　tướng tục tướng vô tự nhi sinh tức bất tướng tục tướng diệc vô tự nhi sinh nhất thiết
+   　tướng tục bất sinh tức đại giải thoát sở vị thâm mật nghĩa cập giải thoát giả nghĩa tất
+   　ư thử thần đỉnh thượng đường cử đỗng sơn viết tham sân si đại vô tri lại ngã kim
+   　triêu thức đắc y hành tiện đả toạ tiện đôi phân phó tâm vương tử tế suy vô lượng
+   　kiếp lai bất giải thoát vấn nhữ tam nhân tri bất tri cổ nhân dữ ma đạo thần đỉnh
+   　tắc bất nhiên tham sân si thật vô tri thập nhị thời trung nhâm tùng y hành tức vãng
+   　toạ tức tùy phân phó tâm vương nghĩ hà vi vô lượng kiếp lai nguyên giải thoát hà tu
+   　canh vấn tri bất tri cứ nhị tôn tú giải thoát lộ biệt minh nhãn giả biện thủ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+bất chân thật vọng tưởng thị thuyết tướng tục tướng nhược tri bỉ chân thật tướng tục võng tắc đoạn/đoán
+ư chư tính vô tri tùy ngôn thuyết nhiếp thụ thí như bỉ tàm trùng kết võng nhi tự triền
+ngu phu vọng tưởng phọc tướng tục bất quan sát 。
+   　thông viết chân thật giả tức chân như thật tế bản lai tịch tĩnh vân hà hữu vọng vân
+   　hà hữu tưởng duy li bỉ chân thật chủng chủng phân biệt tức danh vọng tưởng thị bất chân
+   　thật vọng tưởng bất đãn tham khuể si đẳng thô tưởng vi nhiên tức tam hiền thập địa pháp
+   　ngã vị vô diệc phi chân thật vận danh viết vọng cố tổng thuyết danh tướng tục tướng dã
+   　nhược tri bỉ chân thật giác liễu chư pháp duy tâm sở hiện tâm bản vô sinh pháp diệc
+   　vô sinh chư pháp bản không canh hà dong tưởng cố bất tất đoạn/đoán diệt chư pháp nhi hậu
+   　hiển kì chân thật dã tức bỉ tướng tục vọng tưởng trung nhi chân thật cụ tại tức vọng
+   　tức chân đương thể vô sinh giải thoát thượng vô khởi hữu mật chấp nhi tướng tục trần võng
+   　tự nhiên đoạn/đoán hĩ bỉ chi sở dĩ vi tướng tục võng phọc giả do bất năng quan sát
+   　chân thật cố dã nội giáo đệ tử ư chư tính vô tri bất tri ngoại tính phi tính
+   　pháp pháp bất tướng đáo pháp pháp bất tướng tri đãn tùy ngôn thuyết nhiếp thụ ư tâm như
+   　ngôn thủ nghĩa chủng chủng bất xả như tàm kết võng chi tự triền phọc thử sở tri chướng
+   　bất đắc giải thoát cố do ư bất thiện quan sát dã nhất thiết ngu phu vi tham khuể
+   　si vọng tưởng sở phọc diệc như tàm huỷ kết võng tự phọc thử phiền não chướng bất đắc
+   　giải thoát diệc do ư bất thiện quan sát dã nhược tri bỉ chân thật tướng tục võng tắc
+   　đoạn/đoán duy bồ tát tùy thuận quan sát tự tâm hiện lượng nhược hữu nhược vô tướng tục tịch
+   　tĩnh cố ư nhất thiết pháp vô tướng tục bất tướng tục tướng thử tướng tục nghĩa cập giải
+   　thoát chi chỉ dã bá trượng vân bản bất thị phật hướng cừ thuyết thị phật minh thể kết
+   　chi như kim đãn mạc tác phật tri giải diệc vô bất y trụ tri giải thị danh kết
+   　diệt diệc danh chân như diệc danh thể như cầu phật cầu bồ đề danh hiện thân ý chi
+   　như kim đãn hữu nhất thiết cầu tâm tận danh hiện thân ý như vân cầu bồ đề tuy
+   　thị thắng cầu trùng tăng trần luy cầu phật thị phật chúng cầu nhất thiết hữu vô chư pháp
+   　thị chúng sinh chúng chi như kim giám giác đãn bất y trụ nhất thiết hữu vô chư pháp
+   　thị bất nhập chúng số chi như kim ư nhất nhất thanh hương vị xúc pháp đẳng bất ái
+   　ư nhất nhất cảnh bất tham đãn vô thập cú trược tâm thị liễu nhân thành phật học văn
+   　cú mịch giải giả danh duyên nhân thành phật kiến phật tri phật tắc đắc thuyết phật hữu tri
+   　hữu kiến khước thị báng phật nhược vân phật tri phật kiến phật văn phật thuyết tức bất đắc
+   　kiến hoả tức đắc hoả kiến tức bất đắc như đao cát vật tức đắc vật cát đao tức
+   　bất đắc tri phật nhân kiến phật nhân văn phật nhân thuyết phật nhân như hằng hà sa thị
+   　phật tri thị phật kiến thị phật văn thị phật thuyết vạn trung vô nhất chi vi tự vô
+   　nhãn y tha tác nhãn giáo trung hoán tác tỉ lượng trí như kim tham phật tri giải diệc
+   　thị tỉ lượng trí quan thử tắc tri tùy ngôn thuyết nhiếp thụ như tàm tự triền giả tổng
+   　thị duyên nhân phi liễu nhân dã tu tự cụ nhãn thuỷ đắc 。
+
+**HẾT Quyển 5**
+
+***
+
+## Quyển 6
+
+Nhất thiết phật ngữ tâm phẩm đệ tam chi dư
+
+Đại tuệ phục bạch phật ngôn như thế tôn sở thuyết dĩ bỉ bỉ vọng tưởng vọng tưởng bỉ bỉ
+tính phi hữu bỉ tự tính đãn vọng tưởng tự tính nhĩ (đường vân như thế tôn thuyết do chủng chủng tâm phân biệt chư pháp phi chư
+pháp hữu tự tính đãn vọng kế nhĩ )thế tôn nhược đãn vọng tưởng tự tính phi tính tự tính tướng đãi giả phi
+vi thế tôn như thị thuyết phiền não thanh tịnh vô tính quá da nhất thiết pháp vọng tưởng tự
+tính phi tính cố (ngụy vân thế tôn nhược duy tự tâm phân biệt phi bỉ pháp tướng giả như thế tôn thuyết nhất thiết chư pháp ưng vô nhiễm tịnh hà dĩ cố như lai
+thuyết ngôn nhất thiết chư pháp vọng phân biệt kiến vô thật thể cố )phật cáo đại tuệ như thị như thị như nhữ sở thuyết đại
+tuệ phi như ngu phu tính tự tính vọng tưởng chân thật thử vọng tưởng tự tính phi hữu tính
+tự tính tướng nhiên (đường vân nhất thiết phàm ngu phân biệt chư pháp nhi chư pháp tính phi như thị hữu thử đãn vọng chấp vô hữu tính tướng )đại tuệ như
+thánh tri hữu tính tự tính thánh tri thánh kiến thánh tuệ nhãn như thị tính tự tính tri 。
+   　thông viết đại tuệ tiền vấn bất thật vọng tưởng tướng thế tôn đáp dĩ chủng chủng nghĩa chủng
+   　chủng bất thật vọng tưởng kế trước vọng tưởng sinh thị chủng chủng vọng tưởng phân biệt chủng chủng
+   　chư pháp bản vô thật tính đãn hư vọng phân biệt nhĩ nhược đãn vọng tưởng tự tính phi
+   　hữu bỉ pháp tự tính tướng đãi nhi khởi giả tắc chư pháp tuyệt vô tự tính hĩ khởi
+   　bất thị thế tôn thuyết phiền não nhiễm tập dữ thanh tịnh niết bàn tổng giai vô tính da
+   　nhược nhiễm tịnh tất hoại tương vô đoạ đoạn/đoán diệt chư pháp quá da hà dĩ cố dĩ thế
+   　tôn thuyết nhất thiết pháp đãn thị vọng tưởng phân biệt vô thật thể cố nhất thiết pháp vô
+   　thật thể khởi bất thành đoạn/đoán diệt da bất tri nhất thiết pháp vô thật thể nãi sở dĩ
+   　vi chân như thật tế dã cố phật dĩ đại tuệ sở thuyết chư pháp vô tự tính vi
+   　thị phi như phàm phu hư vọng phân biệt chư pháp thể tướng dĩ vi thật hữu nhi bỉ
+   　chư pháp thật vị thường hữu dã thử đãn vọng tưởng chấp trước tự tính phi hữu bỉ pháp
+   　tự tính tướng khả đắc tính tướng câu vô tức vô thật thể thử phàm phu chi sở chấp
+   　vi chân thật giả phi chân thật dã nhữ chi ngôn thành nhiên dã nhiên phàm phu hữu phân
+   　biệt tổng quy ư hư nhi thánh trí vô phân biệt nãi khả ngôn thật vị khả dĩ chư
+   　pháp vô tính nhi tinh nghi thanh tịnh niết bàn vô tính dã cố thánh trí tri nhất thiết
+   　chư pháp hữu tính tự tính giả phi như phàm phu vọng tưởng tri kiến nãi y thánh nhân
+   　tri y thánh nhân kiến y thánh tuệ nhãn kiến kì hữu nhi bất hữu bất hữu nhi hữu
+   　như thật tri chư pháp tự thể tướng như thị tính tự tính tri khởi hữu đoạn/đoán diệt chi
+   　quá tai luận vân do bỉ bỉ biến kế biến kế chủng chủng vật thử biến kế sở chấp
+   　tự tính vô sở hữu y tha khởi tự tính phân biệt duyên sở sinh viên thành thật ư
+   　bỉ thường viễn li tiền tính tiền ngu phu tính tự tính tức biến kế y tha nhị tự
+   　tính thuộc vọng tưởng phân biệt bất khả hữu dã hậu thánh trí tính tự tính tức viên thành
+   　thật tính viễn li tiền nhị tính giả vị thường vô dã tiền vân vọng tưởng vô tính thử
+   　nãi thánh trí chi sở dĩ vi tính dã tích phật tại thời hữu đệ huynh tam nhân văn
+   　tì da li quốc hữu dâm nữ viết am la bà lợi hựu xá vệ quốc hữu dâm nữ
+   　viết tu mạn na hựu vương xá thành hữu dâm nữ viết ưu bát la bàn na giai hữu
+   　mĩ sắc trú dạ niệm chi tiện mộng dữ chi tùng sự giác dĩ niệm viết bỉ nữ bất
+   　lai ngã diệc bất vãng nhi dâm sự bất ban nhân thị nhi ngộ nhất thiết chư pháp giai
+   　như thị da ư thị đốn chứng duy tâm nhược thử tam nhân giả năng minh vọng tưởng vô
+   　tính tức chứng duy tâm khả bất vị cụ thánh trí nhãn hồ 。
+đại tuệ bạch phật ngôn nhược sứ như thánh dĩ thánh tri thánh kiến thánh tuệ nhãn phi thiên nhãn
+phi nhục nhãn tính tự tính như thị như phi như ngu phu vọng tưởng thế tôn vân hà ngu
+phu li thị vọng tưởng bất giác thánh tính sự cố thế tôn bỉ diệc phi điên đảo phi bất
+điên đảo sở dĩ giả hà vị bất giác thánh sự tính tự tính cố bất kiến li hữu vô
+tướng cố thế tôn thánh diệc bất như thị kiến như sự vọng tưởng bất dĩ tự tướng cảnh giới
+vi cảnh giới cố thế tôn bỉ diệc tính tự tính tướng vọng tưởng tự tính như thị hiện bất
+thuyết nhân vô nhân cố vị đoạ tính tướng kiến cố (đường vân thánh diệc bất như phàm sở phân biệt như thị đắc cố phi tự sở hành
+cảnh giới tướng cố bỉ diệc kiến hữu chư pháp tính tướng như vọng chấp tính nhi hiển hiện cố bất thuyết hữu nhân cập vô nhân cố đoạ ư chư pháp tính tướng kiến cố )dị cảnh
+giới phi như bỉ đẳng như thị vô cùng quá thế tôn bất giác tính tự tính tướng cố (ngụy vân
+dư nhân kiến cảnh bất như thị kiến như thị thuyết giả hữu vô cùng quá hà dĩ cố dĩ bất giác tri sở hữu pháp tướng vô tự thể tướng cố )。
+   　thông viết đại tuệ nhân phật thuyết thánh trí hữu tính tự tính như thị tính tự tính tri
+   　dĩ thánh tri thánh kiến thánh tuệ nhãn nhi tri phi như thiên nhãn nhục nhãn phàm phu vọng
+   　tưởng phân biệt nhi tri thị vọng tưởng bốc độ bất túc dĩ kiến tính minh hĩ vân hà
+   　ngu phu đắc li thị vọng tưởng da duy như thật giác tri thánh nhân cảnh giới chuyển hư
+   　vọng thức cố năng viễn li tiền trần vọng tưởng phân biệt dĩ bất giác liễu thánh tính sự
+   　cố tức bất li vọng tưởng bất li vọng tưởng tức bất năng như thị tính tự tính tri
+   　cứ bỉ phàm phu năng phân biệt chủng chủng pháp phi điên đảo kiến dã nhiên bất năng li
+   　chủng chủng phân biệt phi bất điên đảo kiến dã hà dĩ cố dĩ bất năng kiến thánh nhân
+   　cảnh giới như thật pháp cố thánh nhân sở kiến pháp viễn li hữu vô tướng cố át ngôn
+   　hồ thánh nhân cảnh giới viễn li hữu vô tướng dã thánh nhân diệc hữu phân biệt đãn bất
+   　như phàm phu sở phân biệt như sự vọng tưởng tưởng bất li sự tức trước ư tướng trước
+   　tướng giả phàm phu cảnh giới dã bất trước tướng giả tự sở hành cảnh giới dã cố thánh
+   　nhân bất dĩ tự tướng cảnh giới vi phàm phu cảnh giới nhi tự tâm kiến cảnh giới tướng
+   　duy nhất vô tướng dã vô tướng chi thể tức thị pháp thể bỉ chư thánh nhân diệc kiến
+   　hữu pháp thể tính tự tính tướng ư trung phân biệt pháp tướng diệc như phàm phu vọng tưởng
+   　tự tính như thị hiển hiện đãn bất thuyết hữu nhân nhi vị chi hữu diệc bất thuyết vô
+   　nhân nhi vị chi vô sở dĩ bất thuyết hữu vô giả vị thuyết hữu thuyết vô tức đoạ
+   　chư pháp tính tướng kiến cố duy bất đoạ ư tướng kiến nãi tự tướng cảnh giới cố phi
+   　phàm phu sở cập kì dư phàm phu cảnh giới dị thử cảnh giới bất như thị kiến hoặc
+   　kiến dĩ vi hữu nhân nhi đoạ ư hữu hoặc kiến dĩ vi vô nhân nhi đoạ ư vô
+   　như thị thuyết giả hữu vô cùng quá hà dĩ cố dĩ bất giác tính tự tính tướng cố
+   　tính tự tính vô tự thể tướng cố hà đắc dĩ hữu vô vọng phân biệt da thử thánh
+   　trí cảnh giới phi phàm phu vọng tưởng sở trắc dã đỗng sơn vấn tăng thế gian thậm ma
+   　vật tối khổ tăng vân địa ngục tối khổ sơn vân bất nhiên hướng thử y tuyến hạ bất
+   　minh đại sự thuỷ thị khổ đan hà tụng viết hoạch thang lô thán kỉ đa ban địa ngục
+   　tam độc vị khổ toan tu tín tân phong thân thiết ngữ ca sa chi hạ mạc man han
+   　thử khả tri bất giác thánh tính sự giả hữu vô cùng quá 。
+thế tôn diệc phi vọng tưởng tự tính nhân tính tự tính tướng (ngụy vân phi nhân phân biệt hữu pháp thể tướng )bỉ vân
+hà vọng tưởng phi vọng tưởng như thật tri vọng tưởng thế tôn vọng tưởng dị tự tính tướng dị
+thế tôn bất tướng tự nhân vọng tưởng tự tính tướng bỉ vân hà các các bất vọng tưởng nhi
+ngu phu bất như thật tri (đường vân chư pháp tính tướng bất nhân phân biệt vân hà nhi ngôn dĩ phân biệt cố nhi hữu chư pháp chư pháp tướng dị vọng tưởng
+tướng dị vân hà chư pháp nhi do phân biệt phục dĩ hà cố phàm ngu phân biệt bất như thị thật hữu )nhiên vi chúng sinh li vọng tưởng cố
+thuyết như vọng tưởng tướng bất như thật hữu thế tôn hà cố già chúng sinh hữu vô hữu kiến
+sự tự tính kế trước thánh trí sở hành cảnh giới kế trước đoạ hữu kiến thuyết không pháp phi
+tính nhi thuyết thánh trí tự tính sự (đường vân linh chúng sinh xả phân biệt thuyết như phân biệt sở kiến pháp tướng vô như thị pháp hà cố linh chúng
+sinh li hữu vô kiến sở chấp trước pháp nhi phục chấp trước thánh trí cảnh giới đoạ ư hữu kiến hà dĩ cố bất thuyết tịch tĩnh không vô chi pháp nhi thuyết thánh trí tự tính sự cố )。
+   　thông viết thượng ngôn vọng tưởng phân biệt bất năng tri tính tự tính tướng diệc dĩ vọng tưởng
+   　tự tính phi tính tự tính chi nhân cố bất năng đắc tính tự tính chi tướng thị bất
+   　nhân phân biệt hữu pháp thể tướng kì lí thậm minh nhiên thánh nhân kiến hữu pháp thể diệc
+   　như phàm phu vọng tưởng như thị hiện vân hà dĩ vọng tưởng phân biệt nhi năng phân biệt
+   　phi phân biệt giả phi phân biệt giả nãi pháp thể thật tướng dã chân như thật tế lí
+   　địa như thị tri như thị phân biệt kiến hữu chư pháp tính tướng khả đắc tự vị li
+   　hồ vọng tưởng dã nhiên chư pháp tướng dị vọng tưởng tướng dị bản bất tướng tự vọng tưởng
+   　hữu phân biệt chư pháp vô phân biệt bất tướng tự tức bất tướng vi nhân vân hà chư
+   　pháp do vọng tưởng phân biệt nhi hữu dĩ bỉ bỉ phân biệt pháp thể tướng dị nhân hữu
+   　vọng tưởng tự tính tướng hà đắc vị thánh trí các các bất phân biệt da kí thánh trí
+   　dĩ các các phân biệt đắc như thật tri vân hà phàm phu các các phân biệt nhi bất
+   　như thật tri hữu tính tự tính hồ tại thánh trí phân biệt tức tri hữu tại phàm ngu
+   　phân biệt tức bất như thị thật hữu khởi vọng tưởng tự tính hữu dị da nhiên thế tôn
+   　dục linh chúng sinh xả vọng tưởng cố tác như thị thuyết như vọng chấp tính nhi hiển hiện
+   　vị chi viết như tự vọng tưởng phi vọng tưởng bất như thật hữu tức bất khả vị chi
+   　hữu bất khả vị chi vô dã thị thế tôn linh chư chúng sinh li hữu vô kiến ư
+   　sự tự tính tướng bất hứa kế trước hà cố hựu thuyết tính tự tính như thị tri ư
+   　thánh trí sở hành cảnh giới kế trước ninh bất đoạ ư hữu kiến hồ sở vân đoạ ư
+   　hữu kiến giả phi đồng phàm phu chấp trước sự tướng chi hữu dã vị thế tôn thuyết tịch
+   　tĩnh không vô chi pháp vô hữu tự tính tức bất ưng hữu không tướng khả đắc nhi kim
+   　thuyết thánh tri thánh kiến thánh tuệ nhãn như thị tính tự tính tri tức thị thánh trí tự
+   　tính sự diệc hữu sự tướng khả đắc hữu khả đắc giả tức vị chi tướng trước ư tướng
+   　giả tức vị chi hữu cố vị thế tôn đoạ hữu kiến vi đoạ tính tướng kiến dã đại
+   　tuệ thử nghi diệc cụ hướng thượng thủ nhãn bất dong khinh thứ tu sơn chủ thùy ngữ vân
+   　cụ túc phàm phu pháp phàm phu bất tri cụ túc thánh nhân pháp thánh nhân bất hội thánh
+   　nhân nhược hội tức đồng phàm phu phàm phu nhược tri tức thị thánh nhân thiên đồng niêm vân
+   　thâu đắc an nam hựu ưu tắc bắc đáo giá lí thập thành để sự nhất thời dương khước
+   　thuỷ đắc ổn toạ địa hoàn đoan đích ma nhất đẳng bình hoài dân nhiên tự tận hựu bùi
+   　hưu tác viên giác kinh tự vân chung nhật viên giác nhi vị thường viên giác giả phàm phu
+   　dã cụ túc viên giác nhi trụ trì viên giác giả như lai dã kính sơn bảo ấn thiền
+   　sư đảo kì ngữ viết cụ túc viên giác trụ trì viên giác giả phàm phu dã chung nhật
+   　viên giác vị thường viên giác giả như lai dã hợp nhị tắc quan chi khả tri tiên hậu
+   　sở kiến lược đồng 。
+phật cáo đại tuệ phi ngã thuyết không pháp phi tính diệc bất đoạ hữu kiến thuyết thánh trí tự
+tính sự nhiên vi linh chúng sinh li khủng bố cú cố chúng sinh vô thuỷ dĩ lai kế trước
+tính tự tính tướng thánh trí sự tự tính kế trước tướng kiến thuyết không pháp đại tuệ ngã bất
+thuyết tự tính tướng đại tuệ đãn ngã trụ tự đắc như thật không pháp li loạn tướng kiến li
+tự tâm hiện tính phi tính kiến đắc tam giải thoát như thật ấn sở ấn ư tính tự tính
+đắc duyên tự giác quan sát trụ li hữu vô sự kiến tướng 。
+   　thông viết đại tuệ sở nghi phi vị thế tôn đoạ hữu vô kiến như phàm phu nhị thừa
+   　sở kiến đệ vị thế tôn thuyết hữu không pháp tức đoạ ư không thuyết thánh trí tự tính
+   　sự tức đoạ ư tướng cố vị vi hữu dã kì nghi thậm vi cố thế tôn vị phi
+   　ngã thuyết không pháp vô tính nhi đoạ ư không kiến diệc phi ngã thuyết thánh trí tự tính
+   　sự nhi trước ư hữu kiến nhiên sở dĩ thuyết thánh trí tự tính sự thị thật hữu giả
+   　vi linh chúng sinh li khủng bố cú cố chúng sinh văn không sinh bố khủng thành đoạn/đoán diệt
+   　dục sứ chi xả vọng tưởng chi giả quy tự tính chi chân cố thuyết thánh trí tự tính
+   　sự thị quyền dã phi thật dã sở dĩ thuyết không pháp giả vi chúng sinh vô thuỷ dĩ
+   　lai kế trước tính tự tính tướng hữu pháp thể khả đắc kế trước thánh trí tự tính sự
+   　tướng hữu tự hành cảnh giới khả đắc tổng chi bất li hồ kiến cố thuyết sở kiến pháp
+   　tướng vô như thị pháp linh kì xả ngoan không nhi quy chi chân không diệc quyền dã phi
+   　thật dã nhiên ngã sở thuyết tính tự tính như thị tri liễu vô tính tự tính tướng khả
+   　đắc sở vân thánh tri thánh kiến thánh tuệ nhãn duy bất trước ư tướng phương vị chi thánh
+   　ngã cố vị thường thuyết tính tự tính tướng dã nhiên ngã bất thuyết tính tự tính tướng bất
+   　thuyết ngôn pháp thể hữu vô đãn ư ngôn thuyết ban pháp thể dã ngã thuyết tự thân như
+   　thật chứng pháp duy thị tự đắc như thật không pháp không pháp nhi vị chi như thật không
+   　nhi bất không thị vị chân không như lai thường trụ ư trung tự tính bản không liễu vô
+   　nhất pháp khả đắc thử đãn khả dĩ tự ngộ tự đắc nhi bất khả dĩ vọng tưởng phân
+   　biệt giả dĩ văn ngã pháp tu hành tịch tĩnh đắc chân như vô tướng cảnh giới viễn li
+   　phàm phu hoặc loạn vọng tưởng tướng kiến diệc li nhị thừa tự tâm hiện tính phi tính kiến
+   　viết tính phi tính giả kiến ngoại pháp hữu dĩ hoàn vô giai tự tâm sở hiện hư vọng
+   　tà kiến năng viễn li chi đắc không vô tướng vô nguyện tam đại giải thoát pháp môn phi
+   　ngoan không tỉ dã nãi chân như thật tế tâm ấn sở ấn thiện ấn chư pháp tâm tâm
+   　bất dị ư tính tự tính chân như pháp thể đắc duyên tự giác quan sát trụ tự tính
+   　tự giác tự quan tự trụ dĩ tự tính duyên tự tính như thị nhi tri bất do vọng
+   　tưởng phân biệt dã do chuyển đệ lục thức vi diệu quan sát trí tức phân biệt phi phân
+   　biệt tức li hoặc loạn vọng tưởng nhi bất đoạ ư hữu sự kiến tướng hĩ tức li tính
+   　phi tính tà kiến nhi bất đoạ ư vô sự kiến tướng hĩ nhược hữu nhược vô hữu thị
+   　nhị tất giai li bản tự tịch diệt bản tự vô sự thị chi vị như thật không pháp
+   　vi tự giác chi cảnh giới hựu hà tướng kiến chi hữu ngã bất thuyết tính tự tính tướng
+   　giả dĩ thử chướng tế ma vương lĩnh chư quyến thuộc nhất thiên niên tùy kim cương tề bồ
+   　tát mịch khởi xứ bất đắc hốt nhất nhật đắc kiến nãi vấn viết nhữ đương y hà nhi
+   　trụ ngã nhất thiên niên mịch nhữ khởi xứ bất đắc tề viết ngã bất y hữu trụ nhi
+   　trụ bất y vô trụ nhi trụ như thị nhi trụ cố tri kim cương tề bồ tát như
+   　thị nhi trụ ma vương mịch khởi xứ bất đắc tắc tri thế tôn trụ tự đắc như thật
+   　không pháp liễu vô tính tự tính tướng cảnh giới hĩ 。
+phục thứ đại tuệ nhất thiết pháp bất sinh giả bồ tát ma ha tát bất ưng lập thị tông
+sở dĩ giả hà vị tông nhất thiết tính phi tính cố cập bỉ nhân sinh tướng cố thuyết nhất
+thiết pháp bất sinh tông bỉ tông tắc hoại bỉ tông nhất thiết pháp bất sinh bỉ tông hoại giả
+dĩ tông hữu đãi nhi sinh cố 。
+   　thông viết thượng ngôn đãn ngã trụ tự đắc như thật không pháp vị vọng tưởng dữ thánh trí
+   　câu không chân vọng câu khiển bản tự vô sinh phi nhất thiết pháp bất sinh chi vị dã
+   　nhất thiết pháp bất sinh giả đối vạn pháp nhi hiển kì bất sinh thị hữu đối đãi thị
+   　ngoại đạo tà kiến thế tôn khủng kì tướng hồn cố tường phá chi vị nhất thiết pháp bất
+   　sinh thử ngôn tuy tự ư vô sinh chi thuyết nội giáo đệ tử bất ưng dĩ thị vi
+   　tông kì cố hà dã bỉ ngoại đạo tông nhất thiết tính phi tính dĩ vi bất sinh thị
+   　hữu dĩ hoàn vô tựu diệt xứ kiến kì bất sinh dã cập bỉ biệt hữu dị nhân năng
+   　sinh chư pháp vị thị tác giả tựu sinh xứ kiến kì bất sinh dã tác giả như tiền
+   　chỉ sĩ phu vi trần đẳng tác giả nguyên thuộc sở sinh phi năng sinh giả dĩ bất năng
+   　sinh giả vi sinh nhân dĩ thị tà kiến huống hữu sinh tướng khả đắc hồ nãi vị nhất
+   　thiết pháp bất sinh da cố dĩ nhất thiết pháp bất sinh vi tông giả bỉ tông tắc hoại
+   　hà vị chi hoại vị bỉ tự hoại bất sinh chi nghĩa cố bỉ tông nhất thiết tính phi
+   　tính dĩ chư pháp diệt tận nhi vị chi bất sinh dã bỉ tông tác giả vi nhân dĩ
+   　tác giả bất sinh nhi vị chi bất sinh dã diệt nhiên hậu kiến bất sinh thị bất sinh
+   　đãi diệt nhi hậu sinh dã nhân tác giả nhi hậu kiến bất sinh thị bất sinh đãi tác
+   　giả nhi hậu sinh dã hữu đãi nhi sinh minh thị sinh nghĩa bất sinh chi nghĩa bất thành
+   　cố vị bỉ tông nhất thiết pháp bất sinh bỉ tông tắc hoại dã tăng vấn lặc đàm hội
+   　thiền sư tự tri sinh xứ phủ sư vân vị tằng tử hà dụng luận sinh tri sinh tức
+   　thị vô sinh pháp vô li sinh pháp hữu vô sinh tổ sư viết đương sinh tức bất sinh
+   　viết bất kiến tính nhân diệc đắc như thử phủ sư vân tự bất kiến tính bất thị vô
+   　tính hà dĩ cố kiến tức thị tính vô tính bất năng kiến thức tức thị tính cố danh
+   　thức tính liễu tức thị tính hoán tác liễu tính năng sinh vạn pháp hoán tác pháp tính diệc
+   　danh pháp thân mã minh vân sở ngôn pháp giả vị chúng sinh tâm nhược tâm sinh cố nhất
+   　thiết pháp sinh nhược tâm vô sinh pháp vô tùng sinh diệc vô danh tự nhược như thử bất
+   　sinh lập tông giả tức bất khả hoại 。
+
+hựu bỉ tông bất sinh nhập nhất thiết pháp cố bất hoại tướng bất sinh cố lập nhất thiết pháp
+bất sinh tông giả bỉ thuyết tắc hoại đại tuệ hữu vô bất sinh tông bỉ tông nhập nhất thiết
+tính hữu vô tướng bất khả đắc đại tuệ nhược sứ bỉ tông bất sinh nhất thiết tính bất sinh
+nhi lập tông như thị bỉ tông hoại dĩ hữu vô tính tướng bất sinh cố bất ưng lập tông
+ngũ phân luận đa quá cố triển chuyển nhân dị tướng cố cập vi tác cố bất ưng lập tông
+phân vị nhất thiết pháp bất sinh như thị nhất thiết pháp không như thị nhất thiết pháp vô tự
+tính bất ưng lập tông (đường vân hựu bỉ tông tức nhập nhất thiết pháp trung bất sinh tướng diệc bất sinh cố hựu bỉ tông chư phân nhi thành cố hựu bỉ tông hữu
+vô pháp giai bất sinh thử tông tức nhập nhất thiết pháp trung hữu vô tướng diệc bất sinh cố thị cố nhất thiết pháp bất sinh thử tông tự hoại bất ưng như thị lập chư phân đa quá cố triển
+chuyển nhân dị tướng cố như bất sinh nhất thiết pháp không vô tự tính diệc như thị )。
+   　thông viết thừa thượng văn ngôn bỉ tông hữu đãi nhi sinh bất sinh chi nghĩa bất thành kì
+   　tông hoại hĩ hựu bỉ dĩ bất sinh chi tông nhập ư nhất thiết pháp trung vị nhất thiết
+   　pháp giai tất bất sinh nhiên nhất thiết pháp hữu khả hoại tướng giả hữu bất khả hoại tướng
+   　giả khả hoại tướng giả thuyết danh bất sinh kì thuyết do khả bất hoại tướng giả thuyết vi
+   　bất sinh kì khả thông hồ như vô thuỷ lưu chú thị diệt bất đắc giả bỉ diệc diệt
+   　chi thị ư bất sinh bất diệt chính pháp diệc dĩ vi bất sinh dã bỉ tông do chư
+   　phân nhi thành sở lập nhất thiết pháp bất sinh dĩ tam pháp ngũ pháp bỉ bỉ nhân bất
+   　đồng cố sinh tướng uyển nhiên ngôn tự tướng vi kì thuyết tự hoại bỉ thuyết hữu vô bất
+   　sinh tông vị sinh tướng bất sinh nhất thiết hữu pháp bất khả đắc dã bất sinh tướng diệc
+   　bất sinh nhất thiết vô pháp bất khả đắc dã phi đãn ư tướng thượng kiến kì bất sinh
+   　bỉ tông nhập ư nhất thiết pháp tính chi trung vị hữu vô chi tính bất khả đắc cố
+   　như thị thuyết giả bất đồ đoạn/đoán diệt kì tướng thả đoạn/đoán diệt kì tính hĩ nhược sứ bỉ
+   　tông sở vị bất sinh giả dĩ nhất thiết tính bất sinh nhi lập tông hữu vô câu bất
+   　khả đắc bỉ tương y hà xứ nhi lập tông da như thị tắc bỉ tông hoại dĩ hữu
+   　vô tính tướng câu bất sinh cố sở dĩ bất ưng như thị lập tông dã hựu bỉ lập
+   　nhất thiết pháp bất sinh tông giả y chư phân nhi thành hữu ngũ phân luận nhất tông nhị
+   　nhân tam dụ tứ hợp ngũ kết kì trung đa hữu tướng vi chi quá tông hữu cửu quá
+   　nhân hữu thập tứ quá đồng dụ hữu ngũ quá dị dụ hữu ngũ quá cộng hữu tam thập
+   　tam quá tường cụ nhân minh nhập chính lí luận đại đô triển chuyển tướng nhân kiến lập hứa
+   　đa sinh pháp sở vân tác hữu vi vô thường nhân bất chuyển dụ bất tề dị tướng hiển
+   　nhiên cố bất sinh chi thuyết hoại kì thuyết kí hoại cố bất ưng lập tông phân như nhất
+   　thiết pháp bất sinh kí bất khả lập tông tắc vị nhất thiết pháp không nghĩa diệc như thị
+   　vị nhất thiết pháp vô tự tính nghĩa diệc như thị câu bất ưng lập tông dã tiền vân
+   　tự cộng tính tướng bất khả đắc cố thuyết nhất thiết pháp bất sinh hà cố ư thử thuyết
+   　nhất thiết pháp bất sinh bất ưng lập tông tiền vân nhất thiết chư pháp li tác giả cập
+   　nhân thị cố bất sinh thị phật thuyết nhất thiết pháp bất sinh li tác giả cập nhân thị
+   　chân bất sinh dã ngoại đạo thuyết nhất thiết pháp bất sinh bất li tác giả cập nhân do
+   　thuộc sinh diệt biên sự cố bất ưng lập tông bỉ duy đối nhất thiết pháp thuyết không thuyết
+   　bất sinh thuyết vô tự tính đối sinh diệt nhi hiển bất sinh diệt đãn hí luận nhĩ văn
+   　thù vấn am đề già nữ viết sinh dĩ hà vi nghĩa nữ viết sinh dĩ bất sinh sinh
+   　vi sinh nghĩa thù viết như hà thị sinh dĩ bất sinh sinh vi sinh nghĩa nữ viết nhược
+   　năng minh tri địa thuỷ hoả phong tứ duyên vị thường tự đắc hữu sở hòa hợp nhi năng
+   　tùy kì sở nghi thị vi sinh nghĩa thù viết tử dĩ hà vi nghĩa nữ viết tử dĩ
+   　bất tử tử vi tử nghĩa thù viết như hà thị tử dĩ bất tử tử vi tử nghĩa
+   　nữ viết nhược năng minh tri địa thuỷ hoả phong tứ duyên vị thường tự đắc hữu sở li
+   　tán nhi năng tùy kì sở nghi thị vi tử nghĩa am đề già nữ vấn văn thù viết
+   　minh tri sinh thị bất sinh chi lí vi thậm ma khước bí sinh chi sở lưu chuyển thù
+   　viết kì lực vị sung phu minh tri bất sinh chi lí thượng thả bất miễn lưu chuyển huống
+   　bỉ phi đắc chân bất sinh nghĩa hà đắc vọng tự lập tông tai 。
+
+đại tuệ nhiên bồ tát ma ha tát thuyết nhất thiết pháp như ảo mộng hiện bất hiện tướng cố
+cập kiến giác quá cố đương thuyết nhất thiết pháp như ảo mộng tính trừ vi ngu phu li khủng
+bố cú cố đại tuệ ngu phu đoạ hữu vô kiến mạc linh bỉ khủng bố viễn li ma ha
+diễn (ngụy vân dĩ phàm phu văn như ảo như mộng sinh kinh bố cố viễn li đại thừa )。
+   　thông viết nhất thiết pháp bất sinh bất ưng lập tông vi đoạ vô kiến phi đại thừa pháp
+   　dã nhiên đại thừa bồ tát thuyết nhất thiết pháp như ảo như mộng bỉ ảo mộng tuy hiện
+   　khởi chủng chủng sự kì thật vị thường hiện dã nhi chúng sinh kiến giác chấp vi thật hữu
+   　nhất thiết giai thị hoặc loạn tướng mê hoặc kiến trí thị ngu si chi quá dã cố bồ
+   　tát đương thuyết nhất thiết pháp như ảo mộng tính ảo mộng tính tức thị chân tính dĩ vi
+   　hữu vị thường hữu dã dĩ vi vô vị thường vô dã hữu nhi bất hữu vô nhi bất
+   　vô tức thị trung đạo đế tức thị đại thừa pháp phàm phu đoạ hữu vô kiến văn thuyết
+   　như ảo như mộng tức sinh khủng bố khủng đoạ ư không vi linh ngu phu li khủng bố
+   　cú cố quyền thuyết thánh trí tự tính sự tính tự tính như thị tri linh bỉ tri thú
+   　đại thừa bất đoạ hữu vô đẳng kiến kì thật tính tự tính tướng liễu bất khả đắc bản
+   　tự vô sinh phi nhất thiết pháp bất sinh chi vị dã cố ngoại đạo thuyết nhất thiết pháp
+   　bất sinh tất đoạn/đoán diệt nhất thiết pháp nhi hậu vị chi bất sinh dã thị thuộc đoạn/đoán kiến
+   　bồ tát thuyết nhất thiết pháp như ảo mộng tức nhất thiết pháp sinh nhi kiến kì bất sinh
+   　dã thị vi chính tông nhược nghi tính tự tính bất li hồ hữu nhi nhất thiết không chi
+   　ninh bất đoạ ngoại đạo tà kiến hồ sở dĩ phật ban chi tường dã tăng vấn lợi sơn
+   　hòa thượng bất lịch tăng kì hoạch pháp thân thỉnh sư trực chỉ sư viết tử thừa phụ nghiệp
+   　viết như hà lĩnh hội sư viết biếm bác bất thí viết nhẫm ma tắc đại chúng hữu lại
+   　khứ dã sư viết đại chúng thả trí tác ma sinh thị pháp thân tăng vô đối sư viết
+   　nhữ vấn ngã dữ nhữ đạo tăng vấn như hà thị pháp thân sư viết không hoa dương diễm
+   　thả đạo lợi sơn thuyết không hoa dương diễm thị pháp thân bất thị pháp thân ư thử xứ
+   　lí hội thấu thoát phương khả dữ lợi sơn tướng kiến 。
+
+Nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+
+vô tự tính vô thuyết vô sự vô tướng tục bỉ ngu phu vọng tưởng như tử thi ác giác
+nhất thiết pháp bất sinh phi bỉ ngoại đạo tông chí cánh vô sở sinh tính duyên sở thành tựu
+(đường vân dĩ bỉ sở hữu sinh phi duyên sở thành cố )nhất thiết pháp bất sinh tuệ giả bất tác tưởng bỉ tông nhân sinh
+cố giác giả tất trừ diệt 。
+
+Thông viết nhất thiết pháp bất sinh giả tức thị nhất thiết pháp vô tự tính tức thị nhất
+   　thiết pháp không duy vô tự tính tức vô khả ngôn thuyết duy không tức vô hữu sự tướng
+   　vô thuyết vô sự tức vô kế trước tướng tục cập a lại da thức vô y xứ dã
+   　bỉ ngu phu ư thử vọng tưởng phân biệt thuyết nhất thiết pháp bất sinh tức vô thuỷ lưu
+   　chú diệc thuyết đoạn/đoán diệt thị vi ác giác như tử thi nhiên bỉ tử giả bất sinh thị
+   　đoạn/đoán diệt tướng dĩ thử lập nhất thiết pháp bất sinh phi vi tuệ giả cố ngã thuyết nhất
+   　thiết pháp bất sinh bất ưng lập tông bỉ ngoại đạo dĩ thị vi tông thành phi dã bỉ
+   　vị chư pháp tất cánh bất sinh phàm sở hữu sinh pháp phi nhân duyên sở năng thành tựu
+   　cánh vô sở sinh cánh vô thành tựu như thị nhất thiết pháp bất sinh duy bỉ ác giác
+   　ngoại đạo tác thị vọng tưởng phân biệt tại tuệ giả bất ưng tác như thị tưởng kiến lập
+   　như thị pháp dã bỉ tông nhân sinh cố vị hữu dị nhân vi tác giả dĩ tác giả
+   　bất sinh năng vi sinh nhân kí hữu sinh tướng tức phi bất sinh chi chỉ nhân tướng bất
+   　đồng kì thuyết bất thành thị cố bỉ sở kiến lập nhất thiết pháp bất sinh nãi thị ác
+   　giác tác thử giác giả nhất thiết tất quy ư trừ diệt tương chí đoạn/đoán phật chủng tính cố
+   　danh vi ác giác dã tích ngoạ luân hữu kệ vân ngoạ luân hữu kĩ lưỡng năng đoạn/đoán bá
+   　tư tưởng đối cảnh tâm bất khởi bồ tát nhật nhật trường lục tổ văn chi vị thử kệ
+   　vị minh tâm địa nhược y nhi hành chi thị gia hệ phọc nhân thị nhất kệ viết tuệ
+   　năng một kĩ lưỡng bất đoạn/đoán bá tư tưởng đối cảnh tâm số khởi bồ đề tác ma trường
+   　thử khả tri tà chính chi ban hĩ thiên đồng niêm vân quỳ hoa hướng nhật liễu nhứ tùy
+   　phong canh tu lánh cụ nhất song nhãn thuỷ đắc 。
+thí như ế mục thị vọng kiến thùy phát tướng kế trước tính diệc nhiên ngu phu tà vọng tưởng
+thí thiết ư tam hữu vô hữu sự tự tính thí thiết sự tự tính tư duy khởi vọng tưởng
+tướng sự thiết ngôn giáo ý loạn cực chấn điệu phật tử năng siêu xuất viễn li chư vọng tưởng
+(đường vân tam hữu duy giả danh vô hữu thật pháp thể do thử giả thí thiết phân biệt vọng kế độ giả danh chư sự tướng động loạn ư tâm thức phật tử tất siêu quá du hành vô phân biệt )。
+   　thông viết bỉ ngoại đạo sở lập nhất thiết pháp bất sinh thí như ế mục vọng kiến mao
+   　luân bỉ không trung bản vô thùy phát tướng dĩ mục ế cố kiến hữu kì tướng ngoại đạo
+   　ư nhất thiết hữu vô chư pháp sinh chủng chủng kế trước tính nãi thị phàm ngu hư vọng
+   　kiến vọng sinh phân biệt sở vân nhất thiết pháp bất sinh bất li tam giới sự tướng nhi
+   　sinh kế độ sứ tam giới sự tướng chân hữu giả bỉ sở kế độ lương bất hư dã
+   　nhiên tam hữu đãn giả danh thí thiết nhĩ canh vô hữu chân thật pháp thể vi sự tự
+   　tính giả ư thử giả danh thí thiết chấp vi thật sự dĩ hữu tự tính khả đắc tư
+   　duy vọng tưởng chủng chủng kế độ hoặc dĩ vi tính phi tính hoặc dĩ vi tác giả vô
+   　nhân sinh ư giả danh chư sự tướng thượng thuyết nhất thiết pháp bất sinh hà dị ư không
+   　trung mao luân vọng sinh phân biệt dã bỉ sở thiết ngôn giáo như ngũ phân luận đẳng bất
+   　li tướng sự chi li hoán mạn động loạn ư tâm thức tâm ý kí loạn chấn điệu bất
+   　ninh chung đương luân chuyển tam giới sở vị bất sinh giả an tại hồ phật tử sở dĩ
+   　năng siêu xuất tam giới giả chính duy viễn li chư vọng tưởng nhĩ phân biệt bất khởi tâm
+   　thức câu dung ngưng nhiên trấn định bản tự vô sinh hà tất canh thuyết nhất thiết pháp bất
+   　sinh da phật tử siêu xuất tam hữu bất ư tam hữu trung hư vọng phân biệt như tình
+   　minh nhãn duy kiến nhất không cố phi ngoại đạo ác giác sở cảm vọng dã huyền sa thượng
+   　đường ngã kim vấn nhữ chư nhân thả thừa đương cá thậm ma sự tại hà thế giới an
+   　thân lập mệnh hoàn ban đắc ma nhược ban bất đắc kháp tự niết mục sinh hoa kiến sự
+   　tiện sai tri ma như kim mục tiền kiến hữu sơn hà đại địa sắc không minh ám chủng
+   　chủng chư vật giai thị cuồng lao hoa tướng hoán tác điên đảo tri kiến phu xuất gia nhân
+   　thức tâm đạt bản nguyên cố hiệu vi sa môn nhữ kim kí dĩ thế phát phi truy vi
+   　sa môn tướng tức tiện hữu tự lợi lợi tha phân như kim khán trước tận hắc mạn mạn
+   　địa mặc hiệp tướng tự tự cứu thượng bất đắc tranh giải vi đắc nhân nhân giả phật pháp
+   　nhân duyên sự đại mạc tác đẳng nhàn tướng tự tụ đầu loạn thuyết tạp thoại sấn 謴quá
+   　thời quang âm nan đắc khả tích hứa đại trượng phu nhi hà bất tự tỉnh sát khán thị
+   　thậm ma sự chi như tùng thượng tông thừa thị chư phật đỉnh tộc nhữ kí thừa đương bất
+   　đắc sở dĩ ngã phương tiện khuyến nhữ đãn tùng ca diệp môn tiếp tục đốn siêu khứ thử
+   　nhất môn siêu phàm thánh nhân quả siêu tì lô diệu trang nghiêm thế giới hải siêu tha thích
+   　ca phương tiện môn trực hạ vĩnh kiếp bất giáo hữu nhất vật dữ nhữ tác nhãn kiến hà
+   　bất tự cấp cấp cứu thủ vị tất đạo ngã thả đãi tam sinh lưỡng sinh cửu tích tịnh
+   　nghiệp nhân giả tông thừa thị thậm ma sự bất khả do nhữ dụng công trang nghiêm tiện đắc
+   　khứ bất khả tha tâm tú mệnh tiện đắc khứ hội ma chi như thích ca xuất đầu lai
+   　tác hứa đa biến lộng thuyết thập nhị phân giáo như bình tả thuỷ đại tác nhất trường phật
+   　sự hướng thử môn trung dụng nhất điểm bất đắc dụng nhất mao đầu kĩ lưỡng bất đắc tri
+   　ma như đồng mộng sự diệc như mị ngữ sa môn bất ưng xuất đầu lai bất đồng mộng
+   　sự cái vi thức đắc tri ma thức đắc tức thị đại xuất thoát đại triệt đầu nhân sở
+   　dĩ siêu phàm siêu thánh xuất sinh li tử li nhân li quả siêu tì lô việt thích ca
+   　bất bí phàm thánh nhân quả sở man nhất thiết xứ vô nhân thức đắc nhữ tri ma nhược
+   　chi trường luyến sinh tử ái võng bí thiện ác nghiệp câu tương khứ vô tự do phân nhiêu
+   　nhữ luyện đắc thân tâm đồng hư không khứ nhiêu nhữ đáo tinh minh đam bất dao xứ bất
+   　xuất thức âm cổ nhân hoán tác như cấp lưu thuỷ lưu cấp bất giác vọng vi điềm tĩnh
+   　nhẫm ma tu hành tận xuất tha luân hồi tế bất đắc y tiền bí luân hồi khứ sở
+   　dĩ đạo chư hành vô thường chân thị tam thừa công quả như thị khả úy nhược vô đạo
+   　nhãn diệc bất cứu cánh hà tự như kim bác địa phàm phu bất dụng nhất hào công phu
+   　tiện đốn siêu khứ giải tỉnh tâm lực ma hoàn nguyện lạc/nhạc/nhạo ma khuyến nhữ như kim lập địa
+   　đãi nhữ câu khứ canh bất giáo nhữ gia công luyện hành như kim bất nhẫm ma canh đãi
+   　hà thời hoàn khẳng ma tiện hạ tòa thử đoạn cát đằng đại tự thử đoạn kệ ngữ chú
+   　cước thật chỉ thị phật tử năng siêu xuất tam hữu nhất đoạn đại sự 。
+phi thuỷ thuỷ tưởng thụ tư tùng hạt ái sinh ngu phu như thị hoặc thánh kiến tắc bất nhiên
+thánh nhân kiến thanh tịnh tam thoát tam muội sinh viễn li ư sinh diệt du hành vô sở hữu
+tu hành vô sở hữu diệc vô tính phi tính tính phi tính bình đẳng tùng thị sinh thánh quả
+(đường vân thường hành vô tướng cảnh tu hành vô tướng cảnh diệc phục vô hữu vô hữu vô tất bình đẳng thị cố sinh thánh quả )vân hà tính phi tính vân
+hà vi bình đẳng vị bỉ tâm bất tri nội ngoại cực phiêu động nhược năng hoại bỉ giả tâm
+tắc bình đẳng kiến 。
+   　thông viết thượng trùng tụng nhất thiết pháp bất sinh bất ưng lập tông dĩ cánh thử hạ trùng
+   　tụng trụ tự đắc như thật không pháp li hoặc loạn hữu kiến li tự tâm hiện tính phi
+   　tính kiến đắc tam giải thoát như thật ấn sở ấn cố vị ngu phu sở dĩ hữu hoặc
+   　loạn giả dĩ ư tam giới giả danh thí thiết kiến vi thật hữu như hạt lộc trục diễm
+   　ư phi thuỷ xứ tác thuỷ tưởng ái tư tùng hạt cực sinh ái cố ư phi thuỷ tác
+   　thuỷ tưởng dã ngu phu tùng ái khởi hoặc tham trước tam hữu diệc phục như thị duy kì
+   　hoặc loạn tức bất năng thanh tịnh tiện tùy tam giới luân nịch bất li sinh tử thánh nhân
+   　tắc bất nhiên thánh nhân kiến địa thanh tịnh sở kiến tam giới không đỗng vô vật do ư
+   　đắc không vô tướng vô nguyện tam giải thoát pháp môn tức thử chứng định hoạch như thật ấn
+   　chứng ư tịch tĩnh viễn li ư thế gian sinh diệt chi pháp sinh diệt bất đình giả vi
+   　trước tướng cố dã kim kí li tướng tức thường hành vô tướng cảnh tu hành vô tướng cảnh
+   　bất đãn li ư hữu tướng diệc thả li ư vô tướng hữu vô câu dân tính tự bình
+   　đẳng thử bình đẳng tính trí tức thị thánh quả tùng thánh nhân kiến thanh tịnh nhi sinh dã
+   　phu tam giới duy nhất vân hà phàm phu kiến hữu kiến vô nghiệp quả tướng tục vân hà
+   　thánh nhân nhất thiết bình đẳng toại thành thánh quả vị bỉ ngu phu bất liễu tam giới duy
+   　tâm bất tri tự tâm sở hiện nội ngoại chư pháp nhất thiết vô thường ư bỉ vọng sinh
+   　kế trước bất liễu nội pháp tư vi nội pháp sở động bất liễu ngoại pháp tư vi ngoại
+   　pháp sở động như hải ba nhân phong phiêu động bất đắc ninh tĩnh nhược năng hoại bỉ sở
+   　kiến bất tác hữu kiến bất tác vô kiến nhất niệm bất sinh vạn pháp giai như như phong
+   　điềm lang tức ba văn bất sinh phi bình đẳng nhi hà thượng ngôn đắc duyên tự giác quan
+   　sát trụ chuyển đệ lục thức vi diệu quan sát trí dã thử vân tâm tắc bình đẳng kiến
+   　chuyển đệ thất thức vi bình đẳng tính trí dã duy năng chuyển thức thành trí cố vân thánh
+   　tri thánh kiến thánh tuệ nhãn khởi thức tưởng phân biệt sở năng cập hồ tích quy sơn nhất
+   　nhật chỉ điền vấn ngưỡng sơn giá khâu điền na đầu cao giá đầu đê ngưỡng viết khước thị
+   　giá đầu cao na đầu đê quy viết nễ nhược bất tín hướng trung gian lập khán lưỡng đầu
+   　ngưỡng viết bất tất lập trung gian diệc mạc trụ lưỡng đầu quy viết nhược như thị trước thuỷ
+   　khán thuỷ năng bình vật ngưỡng viết thuỷ diệc vô định đãn cao xứ cao bình đê xứ đê
+   　bình quy tiện hưu quy ngưỡng phụ tử thuyết bình đẳng xứ trùng trùng quan 鎻kì nghĩa vô
+   　tận duy đắc như thật ấn sở ấn phương giải kì diệu 。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn như thế tôn thuyết như phàn duyên sự
+trí tuệ bất đắc thị thiết thí lượng kiến lập thí thiết sở nhiếp thụ phi tính nhiếp thụ diệc
+phi tính dĩ vô nhiếp thụ cố trí tắc bất sinh duy thí thiết danh nhĩ (đường vân như phật sở thuyết nhược tri
+cảnh giới đãn thị giả danh đô bất khả đắc tắc vô sở thủ vô sở thủ cố diệc vô năng thủ năng thủ sở thủ nhị câu vô cố bất khởi phân biệt thuyết danh vi trí )vân hà
+thế tôn vi bất giác tính tự tướng cộng tướng dị bất dị cố trí bất đắc da vi tự
+tướng cộng tướng chủng chủng tính tự tính tướng ẩn tế cố trí bất đắc da vi sơn nham thạch
+bích địa thuỷ hoả phong chướng cố trí bất đắc da vi cực viễn cực cận cố trí bất đắc
+da vi lão tiểu manh minh chư căn bất cụ cố trí bất đắc da thế tôn nhược bất giác
+tự cộng tướng dị bất dị trí bất đắc giả bất ưng thuyết trí ưng thuyết vô trí dĩ hữu
+sự bất đắc cố nhược phục chủng chủng tự cộng tướng tính tự tính tướng ẩn tế cố trí bất
+đắc giả bỉ diệc vô trí phi thị trí thế tôn hữu nhĩ diễm cố trí sinh phi vô tính
+hội nhĩ diễm cố danh vi trí (đường vân dĩ tri ư cảnh thuyết danh vi trí phi bất tri cố )nhược sơn nham thạch bích địa
+thuỷ hoả phong cực viễn cực cận lão tiểu manh minh chư căn bất cụ trí bất đắc giả thử
+diệc phi trí ưng thị vô trí dĩ hữu sự bất khả đắc cố 。
+   　thông viết nhân thượng thí thiết ư tam hữu vô hữu sự tự tính thánh nhân kiến thanh tịnh
+   　tam thoát tam muội sinh cố vấn như thế tôn thuyết thánh nhân trí tuệ quan sát ư tiền
+   　cảnh phàn duyên chư pháp bất kiến hữu nhất pháp khả đắc đãn thị giả danh thí thiết vô
+   　pháp khả thủ diệc vô năng thủ năng thủ sở thủ nhị câu vô cố trí diệc bất năng
+   　phân biệt nhi thủ phân biệt bất sinh thuyết danh vi trí trí danh diệc thị giả thí thiết
+   　nhĩ cố vị bất đắc tướng thị trí nhiên tắc trí chi sở dĩ bất đắc tướng giả vi
+   　trí bất năng tri cảnh da vi cảnh tướng ẩn tế nhi trí bất năng tri da cảnh tướng
+   　như sơn nham thạch bích đẳng như cực viễn cực cận đẳng vận vi cảnh túc dĩ chướng trí
+   　nhi trí bất đắc da ức vi lão tiểu manh minh bất năng tất tri chư căn bất cụ
+   　bản vô năng tri vận vi trí bất năng đạt cảnh nhi trí bất đắc da phật sở vân
+   　trí tuệ bất đắc tất cư nhất ư thử hĩ nhược bất giác âm giới nhập xứ tự tướng
+   　cộng tướng diệc dị diệc bất dị danh bất đắc giả bất ưng thuyết trí dĩ hữu cảnh giới
+   　nhi bất tri thử tâm bất chiếu hồ cảnh cố phi trí dã nhược tự cộng tướng chư pháp
+   　tự tính ẩn tế ngô trí danh bất đắc giả diệc phi thị trí hà dĩ cố dĩ hữu
+   　sở tri chi cảnh cố năng tri chi trí sinh phi vô năng tri chi tính hợp hội sở
+   　tri chi cảnh nhi đắc danh vi trí giả thử cảnh bất hội ư tâm diệc phi trí dã
+   　bỉ tự cộng tướng tính tự tính tướng do viết ẩn tế bất khả đổ giả nhược sơn nham
+   　thạch bích cực viễn cực cận giả ninh vô hiện tiền chi thật cảnh da bỉ ngoại cảnh tự
+   　hữu trí bất năng đắc do viết cảnh chướng ư tâm nhi bất đắc dã nhược lão giả manh
+   　tiểu giả minh chư căn khiếm khuyết trí bất cụ túc cố hữu thật sự nhi bất đắc da
+   　vận chi bất khả danh trí phu sở quý hồ trí giả vi kì năng phân biệt tiền cảnh
+   　dã nhược dĩ trí tuệ bất đắc vi trí thành sở vị giải thị đại tuệ sở nghi đãn
+   　tri hữu phân biệt vi trí nhi bất tri vô phân biệt vi trí dã đãn dĩ đối cảnh
+   　liễu tri giả vi trí nhi bất tri đối cảnh vô tâm giả vi trí dã từ châu thần
+   　tạng thiền sư thượng đường tri nhi vô tri bất thị vô tri nhi thuyết vô tri tiện hạ
+   　tòa nam toàn vân nhẫm ma y sư đạo thuỷ đạo đắc nhất bán hoàng bách vân bất thị
+   　nam toàn yếu bác địa yếu viên tiền thoại nhiên tắc hà dĩ viên tha thoại tương vô viết
+   　vô tri nhi tri bất thị tri nhi thuyết tri ư thử phẫu tích phân minh tức đắc thánh
+   　trí thánh kiến thánh tuệ nhãn 。
+phật cáo đại tuệ bất như thị vô trí ưng thị trí phi phi trí ngã bất như thị ẩn
+phú thuyết phàn duyên sự trí tuệ bất đắc thị thí thiết lượng kiến lập giác tự tâm hiện lượng
+hữu vô hữu ngoại tính phi tính tri nhi sự bất đắc bất đắc cố trí ư nhĩ diễm bất
+sinh thuận tam giải thoát trí diệc bất đắc phi vọng tưởng giả vô thuỷ tính phi tính hư nguỵ
+tập trí tác như thị tri thị tri bỉ bất tri cố ư ngoại sự xứ sở tướng tính vô
+tính vọng tưởng bất đoạn/đoán tự tâm hiện lượng kiến lập thuyết ngã ngã sở tướng nhiếp thụ kế trước
+(đường vân thử thật thị tri phi như nhữ thuyết ngã chi sở thuyết phi ẩn phú thuyết ngã ngôn cảnh giới duy thị giả danh bất khả đắc giả dĩ liễu đãn thị tự tâm sở kiến ngoại pháp hữu vô
+trí tuệ ư trung tất cánh vô đắc dĩ vô đắc cố nhĩ diễm bất khởi nhập tam thoát môn trí thể diệc vô phi như nhất thiết giác tưởng phàm phu vô thuỷ dĩ lai hí luận huân tập kế trước
+ngoại pháp hữu vô hình tướng như thị nhi tri danh vi bất tri )bất giác tự tâm hiện lượng ư trí nhĩ diễm nhi khởi vọng
+tưởng vọng tưởng cố ngoại tính phi tính quan sát bất đắc y ư đoạn/đoán kiến 。
+   　thông viết đại tuệ dĩ trí tuệ bất đắc vi trí bất năng tri cảnh toại nghi vi phi
+   　trí thị dĩ năng phân biệt giả vi trí dã cố thế tôn ngữ chi bất như thị thuyết
+   　nhữ đãn tri hữu tri chi trí nhi bất tri vô tri chi trí dã thử trí tắc bất
+   　sinh tuy nhược vô trí ưng thật thị trí phi vi phi trí ngã chi sở thuyết phi ẩn
+   　phú thuyết kì thật minh bạch hiển thị dong dị hiểu liễu ngã thuyết phàn duyên sự trí tuệ
+   　bất đắc giả đãn thị giả danh thí thiết kiến lập thật vô nhất pháp khả đắc dĩ giác
+   　liễu nhất thiết ngoại pháp giai thị tự tâm hiện lượng nhược hữu nhược vô giai vô tự tính
+   　tính tức phi tính sinh bản vô sinh như thị nhi tri tri nhi bất tri tuy hữu giác
+   　tri nhi sự cảnh giới cánh bất khả đắc dĩ vô hữu cảnh giới dữ trí tướng đối trí
+   　diệc bất năng phân biệt nhi thủ cố trí ư nhĩ diễm bất sinh nhĩ diễm sở tri chi
+   　cảnh dã cảnh bất khả đắc tắc cảnh bất sinh tâm bất khả đắc tắc trí bất sinh tâm
+   　cảnh vô sinh tức tùy thuận nhập ư tam giải thoát pháp môn kí nhập tam giải thoát không
+   　vô tướng vô nguyện tức năng tri chi trí diệc bất khả đắc thử trí thể diệc vô tức
+   　ban nhược trí tất do chính ngộ nãi năng tri chi phi như nhất thiết giác tưởng phàm phu
+   　vô thuỷ dĩ lai kế trước ngoại pháp hữu vô hình tướng hư nguỵ tập trí như thị nhi
+   　tri thị danh bất tri vi bất tri vô tri chi tri ư cảnh nhi vô cảnh cố viết
+   　thị tri bỉ bất tri bỉ duy ư ngoại sự cảnh giới xứ sở nhược hữu nhược vô chủng
+   　chủng hình tướng vọng tưởng phân biệt tướng tục bất đoạn/đoán ư tự tâm hiện lượng sở kiến kiến
+   　lập vi hữu bản vô sự tự tính nhi vi chi ngã diệc vô thí thiết sự tự tính
+   　nhi vi chi ngã sở thuyết hữu ngã cập ngã sở tướng nhiếp thụ kế trước nội hữu năng
+   　thủ chi tâm ngoại hữu sở thủ chi cảnh y ư thường kiến thử cố danh vi phi trí
+   　dã hựu hữu bất giác tự tâm hiện lượng ngoại tính phi tính bản tự không tịch vô sở
+   　dong kì phân biệt nãi nội khởi năng tri chi trí ngoại hội sở tri chi cảnh tùng trung
+   　phân biệt vị nhất thiết sự tướng hữu dĩ hoàn vô chung quy đoạn/đoán diệt như thị quan sát
+   　dĩ vi bất đắc giả y ư đoạn/đoán kiến thử diệc danh vi phi trí dã thử vô thuỷ
+   　hư nguỵ tập trí tổng thuộc vọng tưởng cố bất danh trí nhược phàn duyên sự trí tuệ bất
+   　đắc giả tuy nhược vô trí thật nãi chính trí khởi khả vị chi phi trí hồ tích nam
+   　toàn thị chúng vân tam thế chư phật bất tri hữu li nô bạch cổ khước tri hữu tăng
+   　vấn trường sa vi thậm ma tam thế chư phật bất tri hữu sa vân vị nhập lộc uyển
+   　thời do giác ta tử tăng vân li nô bạch cổ vi thậm ma khước tri hữu sa vân
+   　nhữ tranh quái đắc y thiên đồng tụng vân bả bả khế khế [giam *mao ][giam *mao ]tam tam bá bất
+   　khả thủ nhất vô sở kham mặc mặc tự tri điền địa ổn đằng đằng thùy vị đỗ bì
+   　ham phổ chu pháp giới hồn thành phạn tị khổng luy thùy tín bão sâm thử tri hữu bất
+   　tri hữu quan đầu tu tùng hữu trí vô trí sâm nhập 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+hữu chư phàn duyên sự trí tuệ bất quan sát thử vô trí phi trí thị vọng tưởng giả thuyết
+ư bất dị tướng tính trí tuệ bất quan sát chướng ngại cập viễn cận thị danh vi tà trí
+lão tiểu chư căn minh nhi trí tuệ bất sinh nhi thật hữu nhĩ diễm thị diệc thuyết tà trí 。
+   　thông viết hữu chư phàn duyên sự bất hoại thế gian tướng dã trí tuệ quan sát nhi bất
+   　kiến hữu nhất pháp khả đắc tâm cảnh bất tướng đáo dã thử nhược vô trí thật nãi chính
+   　trí nhược dĩ thử vô trí vi phi trí giả nãi vọng tưởng phân biệt chi thuyết đồ tri
+   　hữu phân biệt giả vi trí nhi bất tri vô phân biệt giả vi trí dã bỉ kí lạc
+   　ư phân biệt an năng phân biệt vô phân biệt giả hồ cố vong tri chi trí phi bỉ
+   　vọng tưởng giả sở tri nhược tất dĩ hữu tri vi trí thị thế gian chi tà trí phi
+   　chính trí dã cố ư tự cộng tướng dị bất dị quan sát bất đắc sơn bích đẳng chướng
+   　ngại cập viễn cận quan sát bất đắc vị cảnh năng chướng tâm bất dĩ vi trí tức sứ
+   　năng kiến chủng chủng cảnh giới đãn danh tà trí bất danh chính trí vị kì trục vật vi
+   　tà dã 。hựu vị lão nhi manh 。tiểu nhi minh 。cập chư căn bất cụ 。tự vô năng tri
+   　chi trí 。phi vô sở tri chi cảnh 。dĩ thị vi bất trí giả 。diệc đãn thuyết tà trí
+   　bất thuyết chính trí 。vị kì dĩ lục dụng vi trí thể dã 。thử thế gian tà kiến bất
+   　vi chính luận 。ngô cố vị nhữ thuyết phi thị đương tín vô trí ưng thị trí dã 。tăng
+   　vấn hoàng bách 。kí ngôn tính tức kiến 。kiến tức tính 。chi như tính tự vô chướng ngại vô
+   　tề hạn 。vân hà cách vật tức bất kiến 。hựu ư hư không trung 。cận tức kiến viễn tức
+   　bất kiến giả như hà 。sư vân 。thử thị nễ vọng sinh dị kiến 。nhược ngôn cách vật bất
+   　kiến 。vô vật ngôn kiến 。tiện vị tính hữu cách ngại giả 。toàn vô giao thiệp 。tính thả phi
+   　kiến phi bất kiến 。pháp diệc phi kiến phi bất kiến 。nhược kiến tính nhân hà xứ bất thị
+   　ngã chi bản tính 。sở dĩ lục đạo tứ sinh sơn hà đại địa 。tổng thị ngã chi tính
+   　tịnh minh thể 。cố vân kiến sắc tiện kiến tâm 。sắc tâm bất dị 。cố chi vi thủ tướng 。
+   　tác kiến văn giác tri 。khứ khước tiền vật thuỷ nghĩ đắc kiến giả 。tức đoạ nhị thừa nhân
+   　trung 。y thông kiến giải dã 。hư không trung cận tắc kiến 。viễn tắc bất kiến 。thử thị ngoại
+   　đạo trung thu phân minh 。đạo phi nội diệc phi ngoại 。phi cận diệc phi viễn 。cận nhi bất
+   　khả kiến giả 。vạn vật chi tính dã 。cận thượng bất khả kiến 。canh đạo viễn nhi bất khả
+   　kiến hữu thập ma ý chỉ 。hoàng bách thử đoạn thuyết thoại 。đích dữ thử kệ phù khế 。
+phục thứ đại tuệ 。ngu si phàm phu vô thuỷ hư nguỵ ác tập vọng tưởng chi sở hồi chuyển 。
+hồi chuyển thời tự tông thông cập thuyết thông bất thiện liễu tri 。trước tự tâm hiện ngoại tính tướng
+cố 。trước phương tiện thuyết 。ư tự tông tứ cú thanh tịnh thông tướng 。bất thiện phân biệt 。
+   　thông viết 。thượng ngôn phi vọng tưởng giả 。vô thuỷ tính phi tính hư nguỵ tập trí tác như
+   　thị tri 。thị tri bỉ bất tri 。bỉ hà dĩ bất tri thị tri dã 。lương do ngu si
+   　phàm phu y vô thuỷ dĩ lai hữu vô hí luận phiền não vọng tưởng chi sở hồi chuyển 。
+   　tính bất năng chuyển vật nhi vi vật sở chuyển 。cố ư như thật tự tông cập ngôn thuyết
+   　pháp 。bất thiện liễu tri 。tự tông tính tông dã 。thuyết tức thuyết thử tính tông dã 。thiện liễu
+   　tri giả bất trước ư tướng bất trước ư thuyết 。tức thiện phân biệt tự tâm hiện lượng 。danh
+   　chi viết tông thông cập thuyết thông 。bỉ ngoại đạo bất minh hồ thử 。tức trước tự tâm sở
+   　hiện ngoại cảnh tính tướng 。bất trước ư hữu tức trước ư vô 。kí trước ư tướng 。khứ tự
+   　tính tông viễn hĩ 。ư thị hữu sở ngôn thuyết 。tức sở hiện ngoại cảnh tính tướng phương tiện
+   　nhi thuyết 。hoặc ngôn hữu hoặc ngôn vô 。hoặc ngôn diệc hữu diệc vô 。hoặc ngôn phi hữu phi
+   　vô 。chấp trước danh tự chương cú ngôn thuyết 。nhi bất năng tu tập chính hành ư chân thật
+   　tự tông li tứ cú thanh tịnh chi pháp 。bất thiện phân biệt kì nghĩa 。kì thuyết diệc viễn
+   　ư tự tông hĩ 。kí bất thiện tự tông thông tướng 。hựu bất thiện ngôn thuyết thông tướng 。cố
+   　viết thị tri bỉ bất tri dã 。lâm tế vân 。nễ nhất niệm tâm 。chi hướng không quyền chỉ
+   　thượng sinh thật giải 。căn cảnh pháp trung hư niết quái 。tự khinh nhi thối quật 。ngôn ngã thị
+   　phàm phu tha thị thánh nhân 。ngốc lũ sinh hữu thậm tử cấp 。phi tha sư tử bì 。khước
+   　tác dã can minh 。đại trượng phu hán bất tác trượng phu khí tức 。tự gia ốc lí vật
+   　bất khẳng tín 。chi ma hướng ngoại mịch thượng tha cổ nhân nhàn danh cú 。ỷ âm bác dương 。
+   　bất năng đặc đạt 。phùng cảnh tiện duyên 。phùng trần tiện chấp 。xúc xứ hoặc khởi 。tự vô chuẩn
+   　định 。đạo lưu mạc thủ sơn tăng thuyết xứ 。hà cố 。thuyết vô bằng cứ 。nhất kì gian đồ
+   　hoạ hư không 。như thể hoạ tượng đẳng dụ 。thử lâm tế tông thông cập thuyết thông 。cố thiện
+   　năng liễu tri thiện năng phân biệt như thử 。
+đại tuệ bạch phật ngôn 。thành như tôn giáo 。duy nguyện thế tôn 。vi ngã phân biệt thuyết thông cập
+tông thông 。ngã cập dư bồ tát ma ha tát thiện ư nhị thông 。lai thế phàm phu thanh văn
+duyên giác bất đắc kì đoản 。phật cáo đại tuệ 。thiện tai thiện tai 。đế thính đế thính thiện tư
+niệm chi 。đương vi nhữ thuyết 。đại tuệ bạch phật ngôn 。duy nhiên thụ giáo 。phật cáo đại tuệ 。tam
+thế như lai hữu nhị chủng pháp thông 。vị thuyết thông cập tự tông thông 。thuyết thông giả 。vị tùy
+chúng sinh tâm chi sở ưng 。vi thuyết chủng chủng chúng cụ khế kinh 。thị danh thuyết thông 。tự tông
+thông giả 。vị tu hành giả li tự tâm hiện chủng chủng vọng tưởng 。vị bất đoạ nhất dị câu
+bất câu phẩm 。siêu độ nhất thiết tâm ý ý thức 。tự giác thánh cảnh giới 。li nhân thành kiến
+tướng 。(đường vân li chư nhân duyên tướng ưng kiến tướng )nhất thiết ngoại đạo thanh văn duyên giác đoạ nhị biên giả sở bất
+năng tri 。ngã thuyết thị danh tự tông thông pháp 。đại tuệ 。thị danh tự tông thông cập thuyết thông
+tướng 。nhữ cập dư bồ tát ma ha tát ưng đương tu học 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+ngã vị nhị chủng thông 。tông thông cập ngôn thuyết 。thuyết giả thụ đồng mông 。tông vi tu hành giả 。
+   　thông viết 。tự tông thông cập thuyết thông 。cố phi phàm phu nhị thừa sở tri 。nhiên bất thiện
+   　phân biệt nhị thông 。bỉ phản đắc chấp kì đoản 。hà dĩ sứ lai thế ngoại đạo nhị thừa
+   　bất đoạ tà kiến hồ 。cố đại tuệ trùng thỉnh thuyết thông tông thông nhị chủng pháp 。vi độ
+   　sinh quỹ phạm dã 。cố phật cáo dĩ thuyết thông giả 。tùy chúng sinh tâm ưng thuyết hà pháp 。
+   　vi thuyết chủng chủng phương tiện chúng cụ khế kinh 。phạm ngữ tu đa la thử vân khế kinh 。
+   　vị khế lí khế cơ dã 。khế lí tắc diệu phù trung đạo 。khế cơ tắc xảo bí tam
+   　căn 。dĩ kinh hàm đa nghĩa 。cố vân chúng cụ 。vị lí vô bất cai 。cơ vô bất nhiếp
+   　dã 。thị chi vị thuyết thông 。tự tông thông giả 。vị bồ tát tu hành giả li tự tâm
+   　hiện chủng chủng phân biệt 。vị bất phân biệt hữu vô tứ cú nhất dị câu bất câu phẩm 。
+   　thử ngoại đạo hư nguỵ ác tập giai tùng tâm ý ý thức sở hiện 。vi bỉ hữu vô
+   　đẳng vọng tưởng hồi chuyển 。tức trước ư ngoại cảnh tính tướng 。bất năng siêu xuất 。duy tu hành
+   　giả li bỉ vọng tưởng 。tức siêu độ nhất thiết tâm ý ý thức cảnh giới 。nhi chứng nhập
+   　tự giác thánh trí cảnh giới 。phu tự giác thánh trí cảnh giới giả 。bản tự như như bản
+   　tự viên thành 。bất dong nghĩ nghị bất dong tạo tác 。nhược tác nhân duyên kiến nhược tác tự
+   　nhiên tướng ưng kiến 。nhân công hành nhi thành tựu giả 。giai vị li hồ tướng 。phi tự giác
+   　thánh trí cảnh giới dã 。thử tự giác cảnh giới viễn li chư tướng 。đãn khả tự tri 。phi
+   　nhân sở tri 。huống nhất thiết ngoại đạo nhị thừa đoạ hữu vô nhị biên kiến giả khởi năng
+   　tri chi tai 。thị chi vị tự tông thông pháp 。tiền đại tuệ vấn tông thông tướng nhi kiêm
+   　cập ư thuyết 。phật vị nhất thiết thanh văn duyên giác bồ tát hữu nhị chủng thông tướng 。sở
+   　vân tông thông giả 。duyên tự đắc thắng tấn tướng thú vô lậu giới 。duyên tự giác thú quang
+   　minh huy phát 。tự thuộc tiêm thứ 。thử tắc li tâm ý ý thức tức tự giác thánh cảnh
+   　giới tắc đốn hĩ 。sở vân thuyết thông giả 。tùy thuận chúng sinh như ưng thuyết pháp 。đãn cửu
+   　bộ giáo pháp 。thử tắc chúng cụ khế kinh 。vô sở bất bị hĩ 。nhi hựu quy chi tam
+   　thế như lai kiến lập nhị chủng pháp 。khởi đãn ngoại đạo nhị thừa tà kiến bất đắc kì
+   　đoản 。thật vi lai thế thuyết pháp lợi sinh chi định thức dã 。cố kệ phục thân minh thuyết
+   　thông sở dĩ tiếp sơ cơ thuyết 。tức sở dĩ thuyết hồ tông dã 。tông thông sở dĩ vi
+   　tu hành giả thiết 。vị kì du hành vô sở hữu 。tu hành vô sở hữu 。tức li ngôn
+   　thuyết tướng khả dã 。tông thông phi ngôn thuyết sở cập 。khởi vọng tưởng phân biệt giả sở năng
+   　tri hồ 。nhi hựu hà dĩ năng đắc kì đoản 。tiền kệ diệc vân 。tông cập thuyết thông tướng 。
+   　duyên tự dữ giáo pháp 。thiện kiến thiện phân biệt 。bất tùy chư giác tưởng 。duy bất tùy chư
+   　giác tưởng chuyển 。cố năng chuyển chư giác tưởng phàm phu dã 。lương toại thiền sư sâm ma cốc 。
+   　cốc kiến lai 。tiện tương sừ đầu khứ sừ thảo 。sư đáo sừ thảo xứ 。cốc thù bất cố 。
+   　quy phương trượng 。bế khước môn 。sư thứ nhật phục khứ 。cốc hựu bế môn 。sư nãi xao môn 。
+   　cốc vấn a thùy 。sư viết lương toại 。tài xưng danh 。hốt nhiên khế ngộ 。viết hòa thượng mạc
+   　man lương toại 。lương toại nhược bất lai lễ bái hòa thượng 。bạc bí kinh luận trám quá nhất
+   　sinh 。cốc tiện khai môn tướng kiến 。cập quy giảng tứ 。vị chúng viết 。chư nhân tri xứ 。lương
+   　toại tổng tri 。lương toại tri xứ 。chư nhân bất tri 。hà ý thiên tái nhi hạ hữu lương
+   　toại thiền sư vi thử đoạn kinh văn chứng cứ 。
+(ngụy vân lô già da phẩm đệ ngũ )。
+nhĩ thời đại tuệ bồ tát bạch phật ngôn 。thế tôn 。như thế tôn nhất thời thuyết ngôn 。thế gian
+chư luận chủng chủng ban thuyết thận vật tập cận 。nhược tập cận giả nhiếp thụ tham dục bất nhiếp
+thụ pháp 。thế tôn 。hà cố tác như thị thuyết 。phật cáo đại tuệ 。thế gian ngôn luận chủng chủng
+cú vị 。nhân duyên thí dụ thái tập trang nghiêm 。dụ dẫn cuống hoặc ngu si phàm phu 。bất nhập
+chân thật tự thông 。bất giác nhất thiết pháp 。vọng tưởng điên đảo đoạ ư nhị biên 。phàm ngu si
+hoặc nhi tự phá hoại 。chư thú tướng tục bất đắc giải thoát 。(đường vân tùy thuận thế gian hư vọng ngôn thuyết 。bất như ư nghĩa
+bất xưng ư lí 。bất năng chứng nhập chân thật cảnh giới 。bất năng giác liễu nhất thiết chư pháp 。hằng đoạ nhị biên 。tự thất chính đạo diệc linh tha thất 。luân hồi chư thú vĩnh bất xuất li )bất
+năng giác tri tự tâm hiện lượng 。bất li ngoại tính tự tính 。vọng tưởng kế trước 。thị cố thế
+gian ngôn luận chủng chủng ban thuyết 。bất thoát sinh lão bệnh tử ưu bi khổ não 。cuống hoặc mê
+loạn 。
+   　thông viết 。thượng ngôn tông thông cập thuyết thông 。phàm phu ngoại đạo bất đắc kì đoản 。nhi thế
+   　tôn hựu giới nội giáo đệ tử 。ư thế gian ác luận thận vật tập cận 。nhược tập kì
+   　thuyết cận kì nhân 。đãn nhiếp thế gian dục vị 。bất nhiếp xuất thế pháp vị 。hà cố giáo
+   　giới chi nghiêm nhược thử da 。phật thuyết thế gian ngôn luận chủng chủng ban tài xảo diệu từ
+   　cú 。đãn sức văn tự trang nghiêm 。cuống hoặc phàm ngu 。bất y như pháp thuyết 。bất y như
+   　nghĩa thuyết 。đãn tùy thế gian tình sở lạc/nhạc/nhạo cố thuyết thế tục sự 。bất năng chứng nhập chân
+   　thật cảnh giới 。bất thiện tông thông 。bất năng giác liễu nhất thiết chư pháp 。bất thiện thuyết thông 。
+   　chi bằng vọng tưởng phân biệt điên đảo tri kiến hư vọng ngôn thuyết 。hằng đoạ hữu vô nhị
+   　biên 。tự thất chính đạo diệc linh tha thất 。bất đãn tự phá hoại 。diệc năng phá hoại ư
+   　nhân 。phàm ngu vi kì sở hoặc 。đam trước dục vị luân hồi chư thú 。tướng tục bất dĩ
+   　vĩnh bất xuất li 。hà đắc hữu giải thoát chi kì hồ 。lương do bất năng giác tri nhất
+   　thiết chư pháp giai tự tâm hiện lượng 。li hữu vô tướng li ngôn thuyết tướng 。ngoại tính phi
+   　tính 。nãi ư ngoại pháp chấp vi thật hữu 。vọng tưởng kế trước ngôn luận chủng chủng 。bất li
+   　ngoại pháp tự tính nhi sinh phân biệt 。tuy hữu xảo diệu ban tài lạc/nhạc/nhạo thuyết chư pháp 。thất
+   　chính lí cố 。bất đắc xuất li sinh lão bệnh tử ưu bi khổ não 。chư thú tướng tục
+   　luân chuyển bất tức 。thử đãn dĩ chủng chủng ban thuyết cuống hoặc ư nhân 。bỉ thử mê loạn
+   　bất đắc giải thoát 。ngô cố vị bất nhiếp thụ pháp vị giả dĩ thử 。thiều quốc sư thượng
+   　đường 。chi như chư phương lão tú 。ngôn giáo tại thế như hằng hà sa 。như lai nhất đại
+   　tạng kinh 。quyển quyển giai thuyết phật lí 。cú cú tận ngôn phật tâm 。nhân thậm ma đắc bất
+   　hội khứ 。nhược nhất hướng chức lạc ngôn giáo 。ý thức giải hội 。nhiêu thượng tòa kinh trần sa
+   　kiếp diệc bất năng đắc triệt 。thử hoán tác điên đảo tri kiến thức tâm hoạt kế 。tịnh vô
+   　đắc lực xứ 。thử cái vi căn cước hạ bất minh 。nhược cứu tận chư phật pháp nguyên 。hà
+   　sa đại tạng nhất thời hiện tiền 。bất khiếm ti hào 。bất thặng ti hào 。chư phật thời thường
+   　xuất thế 。thời thường thuyết pháp độ nhân 。vị tằng gian yết 。nãi chí viên đề điểu khiếu thảo
+   　mộc tùng lâm 。thường trợ thượng tòa phát cơ 。vị hữu nhất thời bất vi thượng tòa 。hữu như
+   　thị kì đặc xứ 。khả tích hứa chư thượng tòa 。đại gia cứu thủ linh pháp cửu trụ thế
+   　gian 。tăng ích nhân thiên thọ mệnh quốc vương an lạc/nhạc/nhạo 。vô sự trân trùng 。do thị nhi quan 。
+   　nhược bất nhập chân thật tự tông thông giả 。tức phật thuyết diệc bất nghi tập cận 。huống thế
+   　luận hồ 。
+đại tuệ 。thích đề hoàn nhân quảng giải chúng luận 。tự tạo thanh luận 。bỉ thế luận giả hữu nhất
+đệ tử 。trì long hình tượng 。(đường vân hiện tác long hình )nghệ thích thiên cung 。kiến lập luận tông 。yếu hoại đế
+thích thiên phúc chi luân 。tùy ngã bất như 。đoạn/đoán nhất nhất đầu dĩ tạ sở quật 。tác thị yếu
+dĩ 。tức dĩ thích pháp (đường vân luận pháp )toả phục đế thích 。thích đoạ phụ xứ 。tức hoại kì xa 。hoàn
+lai nhân gian 。như thị đại tuệ 。thế gian ngôn luận nhân thí trang nghiêm nãi chí súc sinh 。(ngụy vân
+hiện súc sinh thân )diệc năng dĩ chủng chủng cú vị 。hoặc bỉ chư thiên cập a tu la trước sinh diệt
+kiến 。nhi huống ư nhân 。thị cố đại tuệ 。thế gian ngôn luận ưng đương viễn li 。dĩ năng kiều
+trí khổ sinh nhân cố 。thận vật tập cận 。đại tuệ 。thế luận giả 。duy thuyết thân giác cảnh giới
+nhi dĩ 。đại tuệ 。bỉ thế luận giả nãi hữu bá thiên 。đãn ư hậu thời hậu ngũ bá niên 。
+đương phá hoại kết tập 。ác giác nhân kiến thịnh cố ác đệ tử thụ 。như thị đại tuệ 。thế
+luận phá hoại kết tập 。chủng chủng cú vị nhân thí trang nghiêm 。thuyết ngoại đạo sự 。trước tự nhân
+duyên 。vô hữu tự thông 。đại tuệ 。bỉ chư ngoại đạo vô tự thông luận 。ư dư thế luận quảng
+thuyết vô lượng bá thiên sự môn 。vô hữu tự thông 。diệc bất tự tri ngu si thế luận 。
+   　thông viết 。luận ngoại đạo chi ác luận 。khởi đãn tự hoại hoại nhân 。chư thú tướng tục nhi
+   　dĩ tai 。tích thích đề hoàn nhân quảng giải chúng luận 。tự tạo thanh luận 。nhất lạc thanh ngôn 。
+   　tiện khả chỉ trích 。cố thế luận đệ tử chứng thế gian thông hiện tác long hình 。trực nghệ
+   　thiên cung kiến lập sở tập luận pháp 。tác thị yếu ngôn 。kiêu thi ca ngã cộng nhữ luận 。
+   　nhữ nhược bất như 。nhữ đương tùy ngã phá nhữ thiên phúc chi luân 。ngã nhược bất như 。ninh
+   　tiết tiết phân giải dĩ tạ sở quật 。nhân thiên chúng tiền tác thị yếu dĩ 。tức dĩ đế
+   　thích sở tạo luận pháp vi nan 。toả phục đế thích 。đế thích bất thắng 。tức hoại kì xa 。
+   　hoàn lai nhân gian 。như thị thế gian ngôn luận 。kì ngôn chi hữu lí 。kì trì chi hữu
+   　cứ 。nãi chí hiện súc sinh hình 。y chủng chủng văn từ 。thượng năng mê hoặc chư thiên tu
+   　la 。quật bỉ thanh luận 。hữu quật hữu thân 。trước sinh diệt kiến 。bất đắc giải thoát 。hà huống
+   　ư nhân hữu bất vi kì dụ dẫn cuống hoặc giả tai 。dĩ thị nghĩa cố 。ưng đương viễn
+   　li thế luận 。bất ưng thân cận 。dĩ nhân bỉ thuyết năng sinh khổ tụ 。thị sinh khổ chi
+   　nhân 。luân chuyển chư thú 。khởi khả tập cận chi da 。thả bỉ thế luận duy thuyết thân giác
+   　cảnh giới 。hữu thân tất hữu giác 。suy nguyên sở tự 。tùng minh sơ sinh giác 。tiêm cập ngũ
+   　âm tứ đại nhị thập ngũ pháp 。tốt quy ư thần ngã 。đại ước bất li thế gian tướng
+   　thuyết thế gian pháp nhi dĩ 。cố vị chi thế luận 。bỉ thế luận giả hữu bá thiên tự
+   　cú chủng chủng trang nghiêm 。ư tối hậu ngũ bá niên chính pháp đương diệt thời 。bỉ đương kiến
+   　lập luận tông 。phân vi đa bộ 。các các dị danh 。ác kiến quai li 。phá hoại kết tập 。
+   　ngô pháp thập nhị bộ kinh giáo vi bỉ hoại diệt 。do bỉ ác giác sí thịnh thế gian 。
+   　các chấp tự nhân các trì tự kiến 。nhân kiến kí thịnh kì luận 。ích sí ác kiến 。đệ
+   　tử lạc/nhạc/nhạo thụ kì pháp 。thị cố hậu thế tà chúng băng tán phá hoại kết tập 。phân thành
+   　đa bộ 。sở vi chủng chủng cú vị nhân thí trang nghiêm 。đãn thuyết ngoại đạo tà kiến sự 。
+   　hoặc thuyết hữu hoặc thuyết vô 。chấp trước tự nhân duyên tướng 。bất dĩ vi hữu nhân tắc dĩ
+   　vi vô nhân 。tổng bất việt thân giác cảnh giới nhi dĩ 。chí ư phi thân sở giác phi
+   　giác sở tri 。phi nhân duyên phi tự nhiên 。đãn khả tự ngộ tự thông 。bất dong dĩ ngôn
+   　luận thị nhân giả 。bỉ cố vị chi giác dã 。bỉ chư ngoại đạo nội tâm kí vô hữu
+   　như thật giải 。tự tông bất thông tắc bất tri hữu tự giác thánh trí sự 。diệc tức bất
+   　năng kiến lập giáo pháp hữu tự thông luận 。dĩ phát minh tự tính chi chỉ nhi vi nhân
+   　thuyết 。đãn ư dư đệ tử tập thế luận giả 。quảng thuyết bá thiên sự môn 。chi li mạn
+   　diên 。khứ tính dũ viễn 。diệc giai vô hữu tự thông 。phu bất thông tự tính nhi phàn duyên
+   　ư bá thiên sự pháp giả 。vị chi ngu si 。bỉ diệc bất tự tri ngu si thế luận
+   　năng kiều trí khổ quả 。thường tại sinh diệt nhi bất tự giác 。diệc khả ai dã dĩ 。bỉ
+   　thế luận ác giác hữu như thị quá 。cố ngô giới chư đệ tử thận vật tập cận chi
+   　dã 。thế tôn nhân trường trảo phạm chí sách luận nghĩa dự ước viết ngã nghĩa nhược đoạ ngã
+   　tự trảm thủ 。thế tôn viết nhữ nghĩa dĩ hà vi tông 。chí viết ngã dĩ nhất thiết bất
+   　thụ vi tông 。thế tôn viết thị kiến thụ phủ 。chí bật tụ nhi khứ 。hành chí trung lộ
+   　nãi tỉnh 。vị đệ tử viết ngã đương hồi khứ trảm thủ dĩ tạ thế tôn 。đệ tử viết 。
+   　nhân thiên chúng tiền 。hạnh đương đắc thắng 。hà dĩ trảm thủ 。chí viết ngã ninh ư hữu trí
+   　nhân tiền trảm thủ 。bất ư vô trí nhân tiền đắc thắng 。nãi thán viết ngã nghĩa lưỡng xứ
+   　phụ đoạ 。thị kiến nhược thụ 。phụ môn xứ thô 。thị kiến bất thụ 。phụ môn xứ tế 。nhất
+   　thiết nhân thiên nhị thừa giai bất tri ngã nghĩa đoạ xứ 。duy hữu thế tôn chư đại bồ
+   　tát tri ngã nghĩa đoạ 。hồi chí thế tôn tiền viết 。ngã nghĩa lưỡng xứ phụ đoạ 。cố đương
+   　trảm thủ dĩ tạ 。thế tôn viết 。ngã pháp trung vô như thị sự 。nhữ đương hồi tâm hướng
+   　đạo 。ư thị đồng ngũ bá đồ chúng nhất thời đầu phật xuất gia 。chứng a la hán 。phu
+   　phạm chí cảm dữ thế tôn luận nghĩa 。thị bỉ yếu ước đế thích giả 。bất xí quá chi 。
+   　nãi thế tôn tốt năng toả phục phạm chí 。nhi đế thích phản vi thế luận sở quật 。thế
+   　luận chi ác giác thành vị dị phá 。mạt pháp thời an đắc thâm minh thế tôn ý chỉ
+   　giả nhi hoá đạo chi hồ 。
+nhĩ thời đại tuệ bạch phật ngôn 。thế tôn 。nhược ngoại đạo thế luận chủng chủng cú vị nhân thí
+trang nghiêm 。vô hữu tự thông tự sự kế trước giả 。thế tôn diệc thuyết thế luận vi chủng chủng
+dị phương chư lai hội tụ thiên nhân a tu la 。quảng thuyết vô lượng chủng chủng cú vị 。diệc
+phi tự thông da 。diệc nhập nhất thiết ngoại đạo trí tuệ ngôn thuyết số da 。phật cáo đại tuệ 。
+ngã bất thuyết thế luận 。diệc vô lai khứ 。duy thuyết bất lai bất khứ 。đại tuệ 。lai giả thú
+tụ hội sinh 。khứ giả tán hoại 。bất lai bất khứ giả thị bất sinh bất diệt 。ngã sở thuyết
+nghĩa bất đoạ thế luận vọng tưởng số trung 。sở dĩ giả hà 。vị bất kế trước ngoại tính phi
+tính tự tâm hiện xứ 。nhị biên vọng tưởng sở bất năng chuyển 。tướng cảnh phi tính 。giác tự tâm
+hiện tắc tự tâm hiện vọng tưởng bất sinh 。vọng tưởng bất sinh giả 。không vô tướng vô tác 。nhập
+tam thoát môn 。danh vi giải thoát 。
+   　thông viết 。đại tuệ vấn ngoại đạo chủng chủng luận thuyết 。chấp trước tự tông phi như thật pháp
+   　giả 。nhiên tắc thế tôn diệc vi thập phương quốc độ chư lai hội chúng quảng thuyết chủng chủng
+   　cú vị 。diệc dĩ thế gian chủng chủng danh tự chương cú thí dụ thuyết pháp 。bất thuyết tự
+   　thân nội trí chứng pháp 。nhược nhĩ diệc tức đồng ư ngoại đạo tự pháp trung trí tuệ ngôn
+   　thuyết số lượng da 。phật vị ngã vi dị phương chư lai hội chúng quảng thuyết chủng chủng cú
+   　vị 。bất thuyết thế luận pháp 。thế luận kiến hữu nhân thiên lai khứ tướng 。bất tri nhân thiên
+   　thật vô lai khứ dã 。ngã duy thuyết bất lai bất khứ chi pháp 。phu lai giả duyên hội
+   　nhi sinh 。khứ giả duyên tán nhi diệt 。đãn ư tướng thượng kiến hữu lai khứ 。tức thuộc sinh
+   　diệt pháp 。ngã thuyết bất lai bất khứ tức thị bất sinh bất diệt pháp 。ngã sở thuyết bất
+   　sinh bất diệt nghĩa 。thú lai vô sở 。tùng khứ vô sở 。chí thị chân như thật tế cảnh
+   　giới 。bất đoạ thế luận hư vọng phân biệt số trung 。hà dĩ bất đoạ bỉ số trung dã 。
+   　bỉ duy bất giác tự tâm hiện lượng ngoại tính phi tính 。nãi ư ngoại cảnh vọng tưởng phân
+   　biệt thuyết hữu thuyết vô 。vi nhị kiến sở chuyển 。bất đắc giải thoát 。ngã tắc bất kế trước
+   　ngoại cảnh hữu vô 。duy kiến lập thuyết ư tự tâm sở hiện 。cố hữu vô nhị biên vọng
+   　tưởng phân biệt bất năng chuyển ngã nhi vi ngã sở chuyển 。dĩ ngã như thật liễu tri ngoại
+   　cảnh vô tính 。đãn do tự tâm sở hiện 。như mộng như ảo 。bất đắc vị chi hữu bất
+   　đắc vị chi vô 。cố tự tâm sở hiện vọng tưởng phân biệt vô tự nhi sinh 。tướng cảnh
+   　phi tính 。cảnh bất sinh dã 。vọng tưởng bất sinh 。tâm bất sinh dã 。tâm cảnh vô sinh 。tức
+   　chứng nhập không vô tướng vô tác tam giải thoát môn 。viễn li sinh diệt chư thú tướng tục 。
+   　danh vi giải thoát 。ngã duy liễu tri tâm cảnh câu không bản tự bất sinh bất diệt pháp 。
+   　năng chuyển sinh diệt nhi bất vi sinh diệt sở chuyển 。cố bất đoạ ư thế luận vọng tưởng
+   　số trung 。khởi diệc vô hữu tự thông da 。hữu thái thủ dương huyễn chi vấn ư sơ tổ
+   　viết 。tây thiên ngũ ấn 。sư thừa vi tổ 。kì đạo như hà 。tổ viết 。minh phật tâm tông 。
+   　hành giải tướng ưng 。danh chi viết tổ 。hựu vấn thử ngoại như hà 。tổ viết 。tu minh tha
+   　tâm 。tri kì kim cổ 。bất áp hữu vô 。ư pháp vô thủ 。bất hiền bất ngu 。vô mê
+   　vô ngộ 。nhược năng thị giải 。cố xưng vi tổ 。hựu viết đệ tử quy tâm tam bảo diệc
+   　hữu niên hĩ 。nhi trí tuệ hôn mông thượng mê chân lí 。đích thính sư ngôn 。võng tri du
+   　thố 。nguyện sư từ bi khai thị tông chỉ 。tổ tri khẩn đáo 。tức thuyết kệ viết 。diệc bất
+   　đổ ác nhi sinh hiềm 。diệc bất quan hỉ nhi cần tích 。diệc bất xả trí nhi cận ngu 。
+   　diệc bất phao mê nhi tựu ngộ 。đạt đại đạo hề quá lượng 。thông phật tâm hề xuất độ 。
+   　bất dữ phàm thánh đồng triền 。siêu nhiên danh chi viết tổ 。tổ sư môn hạ 。phàm thánh câu
+   　li 。ninh đồng ư ngoại đạo da 。
+đại tuệ 。ngã niệm nhất thời ư nhất xứ trụ 。hữu thế luận bà la môn lai nghệ ngã sở
+bất thỉnh không nhàn 。tiện vấn ngã ngôn 。cù đàm 。nhất thiết sở tác da 。ngã thời báo ngôn 。nhất
+thiết sở tác thị sơ thế luận 。bỉ phục vấn ngôn 。nhất thiết phi sở tác da 。ngã phục báo
+ngôn 。nhất thiết phi sở tác thị đệ nhị thế luận 。bỉ phục vấn ngôn 。nhất thiết thường da nhất
+thiết vô thường da 。nhất thiết sinh da nhất thiết bất sinh da 。ngã thời báo ngôn 。thị lục thế
+luận 。đại tuệ 。bỉ phục vấn ngã ngôn 。nhất thiết nhất da nhất thiết dị da 。nhất thiết câu da
+nhất thiết bất câu da 。nhất thiết nhân chủng chủng thụ sinh hiện da 。(đường vân nhất thiết giai do chủng chủng nhân duyên nhi thụ
+sinh da )ngã thời báo ngôn 。thị thập nhất thế luận 。đại tuệ 。bỉ phục vấn ngôn 。nhất thiết vô kí
+da nhất thiết kí da 。hữu ngã da vô ngã da 。hữu thử thế da vô thử thế da 。hữu
+tha thế da vô tha thế da 。hữu giải thoát da vô giải thoát da 。nhất thiết sa na da
+(ngụy vân không da )nhất thiết bất sa na da 。hư không da 。phi số diệt da 。niết bàn da 。cù đàm 。
+tác da phi tác da 。(đường vân hư không niết bàn cập phi trạch diệt thị sở tác da phi sở tác da )hữu trung âm da vô trung
+âm da 。đại tuệ 。ngã thời báo ngôn 。bà la môn 。như thị thuyết giả tất thị thế luận 。phi
+ngã sở thuyết 。thị nhữ thế luận 。ngã duy thuyết vô thuỷ hư nguỵ vọng tưởng tập khí chủng chủng
+chư ác tam hữu chi nhân 。bất năng giác tri tự tâm hiện lượng nhi sinh vọng tưởng 。phàn duyên
+ngoại tính 。như ngoại đạo pháp 。ngã chư căn nghĩa tam hợp tri sinh 。(đường vân như ngoại đạo thuyết ngã cập căn cảnh tam hòa
+hợp sinh )ngã bất như thị 。bà la môn 。ngã bất thuyết nhân bất thuyết vô nhân 。duy thuyết vọng tưởng
+nhiếp sở nhiếp tính thí thiết duyên khởi 。phi nhữ cập dư đoạ thụ ngã tướng tục giả sở năng
+giác tri 。(ngụy vân duy thuyết tự tâm phân biệt kiến hữu khả thủ năng thủ cảnh giới chi tướng 。ngã thuyết giả danh nhân duyên tập cố nhi sinh chư pháp 。phi nhữ bà la môn cập dư cảnh
+giới 。dĩ đoạ ngã kiến cố )đại tuệ 。niết bàn hư không diệt phi hữu tam chủng 。đãn số hữu tam nhĩ 。(đường vân
+hư không niết bàn cập phi trạch diệt đãn hữu tam số 。bản vô thật thể 。hà huống nhi thuyết tác dữ phi tác )。
+   　thông viết 。thử thế tôn quảng minh thế luận 。dục linh lai thế đỗng tri kì phi 。bất phục
+   　tập cận chi dã 。bà la môn tự xưng kì tổ tự phạm thiên khẩu sinh 。nhân tùng phạm
+   　tính 。hoặc vân phạm chí 。tức thử chi loại 。kì chủng các hữu kinh luận thế thừa vi nghiệp 。
+   　cố trường ư biện thuyết 。bỉ tự phụ kì biện 。cự vấn thế tôn dĩ nhất thiết pháp vi
+   　sở tác vi phi sở tác 。sở tác thị hữu vi pháp 。phi sở tác thị vô vi pháp 。
+   　đại đoạn bất xuất thử nhị kiến 。kiến kì hữu tác tắc dĩ vi thường dĩ vi sinh dĩ
+   　vi nhất dĩ vi câu kiến 。kì vô tác tắc dĩ vi đoạn/đoán dĩ vi diệt dĩ vi dị
+   　dĩ vi bất câu 。thượng chí phạm thiên hạ cập chúng sinh 。viễn cập bát vạn kiếp 。tế chí
+   　vi trần 。tùng trung phân biệt 。tác hữu vô tứ cú nghị luận 。kì cật tuệ giả căn cứu
+   　sinh nhân 。kiến chủng chủng nhân duyên sinh pháp 。vị do tác giả sinh 。thuyết thử thế tha thế 。
+   　tự thân hậu hữu tướng vô tướng 。thuyết giải thoát sa na niệm niệm thiên lưu 。tự hậu hậu
+   　hữu vi 。thuyết hư không niết bàn cập phi trạch diệt tam vô vi pháp 。tự duyên giác thanh
+   　văn 。ư thử phục vấn hữu tác vô tác 。lộ xuất bản tướng 。tác tắc mê ư hữu vi 。
+   　phi tác tắc nhập ư vô tưởng 。hựu vấn trung âm thân 。hữu vi phân minh chấp trước thần
+   　ngã 。bất xuất thức âm khu vũ 。học đạo chi nhân bất thức chân 。chỉ vi tùng lai nhận
+   　thức thần 。vô thuỷ dĩ lai sinh tử bản 。si nhân hoán tác bản lai nhân 。chính thử thị
+   　dã 。cố phật đáp dĩ như thử thế luận phi ngã sở thuyết 。túng nhữ thuyết đắc chủng chủng
+   　phân minh bất li thế pháp 。nhược siêu xuất tam giới giả tổng bất tác như thị kiến dã 。
+   　ngã duy thuyết vô thuỷ hư nguỵ vọng tưởng tập khí chủng chủng chư ác 。vi tam giới chi
+   　nhân 。dục giới sắc giới vô sắc giới nhiễm tịnh bất đồng 。hà dĩ vị giai vị chi ác 。
+   　dĩ dục giới thị sắc giới 。tắc sắc giới vi thiện 。dĩ tam giới thị siêu xuất tam giới
+   　giả 。tắc sắc dữ vô sắc vị vi thuần thiện dã 。nhược bất năng giác tri tam giới chư
+   　pháp giai tự tâm hiện lượng 。ngoại pháp phi tính thật vô khả đắc 。ư trung sinh khởi vọng
+   　tưởng phân biệt 。phàn duyên chư pháp 。hoặc dĩ vi hữu tác 。hoặc dĩ vi vô tác 。như ngoại
+   　đạo chủng chủng nghị luận 。thuyết hữu ngã cập căn cảnh tam duyên hòa hợp nhi tri thức sinh 。
+   　thị dĩ nhất thiết pháp tùng nhân duyên sinh dã 。dĩ vi hữu nhân sinh giả vị minh sơ
+   　sinh giác 。dĩ vi vô nhân sinh giả vị hữu dị nhân 。đãn ư ngoại tính kế trước 。tác
+   　hữu vô phân biệt 。tổng quy hí luận 。ngã bất như thị thuyết dã 。ngã thuyết tam giới chư
+   　pháp duy tâm sở hiện 。ư nhất thiết pháp 。bất thuyết hữu nhân bất thuyết vô nhân 。duy thuyết
+   　vô thuỷ hư nguỵ vọng tưởng 。kiến hữu năng thủ sở thủ cảnh giới chi tướng 。ngã thuyết thử
+   　nhiếp sở nhiếp tính đãn danh 。giả danh thí thiết 。nhân duyên tập cố nhi sinh chư pháp 。y
+   　duyên nhi khởi giả bản tự vô căn 。sinh tức bất sinh 。an sở kiến kì hữu hồ 。an
+   　sở kiến kì vô hồ 。bất kiến kì hữu cố bất thuyết hữu nhân 。bất kiến kì vô cố
+   　bất thuyết vô nhân 。thử phi nhữ bà la môn cập dư thế luận đệ tử đoạ thụ ngã
+   　kiến chấp trước thần ngã sinh tử tướng tục giả chi sở năng tri dã 。nhữ duy thủ trước
+   　ngã tướng nhiếp sở nhiếp tính 。bất li tam giới 。thường đoạ luân chuyển 。ngã duy vô ngã 。li
+   　nhiếp sở nhiếp 。siêu xuất tam giới 。nhữ khởi năng trắc tai 。thả hư không vô vi 。niết bàn
+   　vô vi cập phi trạch diệt vô vi 。tại ngã pháp trung 。đãn hữu tam số 。bản vô thể
+   　tính 。vân hà nhi thuyết tác dữ phi tác 。bỉ phàn duyên ngoại pháp 。thuyết tác phi tác 。hư
+   　vọng phân biệt 。do chi khả dã 。chí tam vô vi li ngôn thuyết tướng li danh tự tướng 。
+   　nãi dĩ sinh diệt tâm thuyết bất sinh diệt pháp 。an đắc vi trí 。cố phật bất dữ chi
+   　ngữ nhi dĩ ngữ đại tuệ dã 。tam tổ tín tâm minh viết 。chí đạo vô nan 。duy hiềm
+   　giản trạch 。đãn mạc tăng ái 。đỗng nhiên minh bạch 。hào hi hữu sai 。thiên địa huyền cách 。dục
+   　đắc hiện tiền 。mạc tồn thuận nghịch 。vi thuận tướng tranh 。thị vi tâm bệnh 。bất thức huyền chỉ 。
+   　đồ lao niệm tĩnh 。viên đồng thái hư 。vô khiếm vô dư 。lương do thủ xả 。sở dĩ bất
+   　như 。mạc trục hữu duyên 。vật trụ không nhẫn 。nhất chủng bình hoài 。dân nhiên tự tận 。chỉ động
+   　quy chỉ 。chỉ canh di động 。duy trệ lưỡng biên 。ninh tri nhất chủng 。nhất chủng bất thông 。lưỡng
+   　xứ thất công 。khiển hữu một hữu 。tùng không giai không 。đa ngôn đa lự 。chuyển bất tướng ưng 。
+   　tuyệt ngôn tuyệt lự 。vô xứ bất thông 。quy căn đắc chỉ 。tùy chiếu thất tông 。tu du phản
+   　chiếu 。thắng khước tiền không 。tiền không chuyển biến 。giai do vọng kiến 。bất dụng cầu chân 。duy tu
+   　tức kiến 。nhị kiến bất trụ 。thận mạc truy tầm 。tài hữu thị phi 。phân nhiên thất tâm 。nhị
+   　do nhất hữu 。nhất diệc mạc tầm 。nhất tâm bất sinh 。vạn pháp vô cữu 。vô cữu vô pháp 。
+   　bất sinh bất tâm 。năng do cảnh diệt 。cảnh trục năng trầm 。cảnh do năng cảnh 。năng do cảnh
+   　năng 。dục tri lưỡng đoạn 。nguyên thị nhất không 。nhất không đồng lưỡng 。tề hàm vạn tượng 。bất kiến
+   　tinh thô 。ninh hữu thiên đảng 。đại đạo thể khoan 。vô dị vô nan 。tiểu kiến hồ nghi 。chuyển
+   　cấp chuyển trì 。chấp chi thất độ 。tất nhập tà lộ 。phóng chi tự nhiên 。thể vô khứ trụ 。
+   　nhâm tính hợp đạo 。tiêu dao tuyệt não 。hệ niệm quai chân 。hôn trầm bất hảo 。bất hảo lao
+   　thần 。hà dụng sơ thân 。dục thủ nhất thừa 。vật ác lục trần 。lục trần bất ác 。hoàn đồng
+   　chính giác 。trí giả vô vi 。ngu nhân tự phọc 。pháp vô dị pháp 。vọng tự ái trước 。tương
+   　tâm dụng tâm 。khởi phi thái thác 。mê sinh tịch loạn 。ngộ vô hảo ác 。nhất thiết nhị biên 。
+   　lương do châm chước 。mộng ảo không hoa 。hà lao bả tróc 。đắc thất thị phi 。nhất thời phóng
+   　khước 。nhãn nhược bất thụy 。chư mộng tự trừ 。tâm nhược bất dị 。vạn pháp nhất như 。nhất như
+   　thể huyền 。ô nhĩ vô duyên 。vạn pháp tề quan 。quy phục tự nhiên 。dân kì sở dĩ 。bất
+   　khả phương tỉ 。chỉ động vô động 。động chỉ vô chỉ 。lưỡng kí bất thành 。nhất hà hữu nhĩ 。
+   　cứu cánh cùng cực 。bất tồn quỹ tắc 。khế tâm bình đẳng 。sở tác câu tức 。hồ nghi tận
+   　tịnh 。chính tín điều trực 。nhất thiết bất lưu 。vô khả kí ức 。hư minh tự nhiên 。bất lao
+   　tâm lực 。phi tư lượng xứ 。thức tình nan trắc 。chân như pháp giới 。vô tha vô tự 。yếu
+   　cấp tướng ưng 。duy ngôn bất nhị 。bất nhị giai đồng 。vô bất bao dong 。thập phương trí giả 。
+   　giai nhập thử tông 。tông phi xúc diên 。nhất niệm vạn niên 。vô tại bất tại 。thập phương mục
+   　tiền 。cực tiểu đồng đại 。vô tuyệt cảnh giới 。cực đại đồng tiểu 。bất kiến biên biểu 。hữu tức
+   　thị vô 。vô tức thị hữu 。nhược bất như thị 。tất bất tu thủ 。nhất tức nhất thiết 。nhất
+   　thiết tức nhất 。đãn năng như thị 。hà lự bất tất 。tín tâm bất nhị 。bất nhị tín tâm 。
+   　ngôn ngữ đạo đoạn/đoán 。phi khứ lai kim 。tam tổ tự tông thông 。ngôn ngôn phá đích 。trung đa
+   　chỉ mê cảnh thác chi từ 。bất đãn khư ngoại đạo tà kiến ngã pháp trung 。ngoại đạo đương
+   　vi hàn lưu 。
+phục thứ đại tuệ 。nhĩ thời thế luận bà la môn phục vấn ngã ngôn 。si ái nghiệp nhân cố
+hữu tam hữu da 。vi vô nhân da 。ngã thời báo ngôn 。thử nhị giả diệc thị thế luận nhĩ 。
+bỉ phục vấn ngôn 。nhất thiết tính giai nhập tự cộng tướng da 。ngã phục báo ngôn 。thử diệc thế
+luận 。bà la môn 。nãi chí ý lưu vọng kế ngoại trần giai thị thế luận 。phục thứ đại tuệ 。
+nhĩ thời thế luận bà la môn phục vấn ngã ngôn 。phả hữu phi thị luận giả bất 。ngã thị
+nhất thiết ngoại đạo chi tông 。thuyết chủng chủng cú vị nhân duyên thí dụ trang nghiêm 。ngã phục báo
+ngôn 。hữu phi nhữ hữu giả 。phi vi phi tông phi thuyết phi bất thuyết 。chủng chủng cú vị 。phi
+bất nhân thí trang nghiêm 。bà la môn ngôn 。hà đẳng vi phi thế luận phi phi tông phi phi
+thuyết 。ngã thời báo ngôn 。bà la môn 。hữu phi thế luận 。nhữ chư ngoại đạo sở bất năng tri 。
+dĩ ư ngoại tính bất thật vọng tưởng hư nguỵ kế trước cố 。vị vọng tưởng bất sinh 。giác liễu
+hữu vô tự tâm hiện lượng 。vọng tưởng bất sinh bất thụ ngoại trần 。vọng tưởng vĩnh tức 。thị danh
+phi thế luận 。thử thị ngã pháp phi nhữ hữu dã 。bà la môn 。lược thuyết bỉ thức 。nhược lai
+nhược khứ 。nhược tử nhược sinh 。nhược lạc/nhạc/nhạo nhược khổ 。nhược nịch nhược kiến 。nhược xúc nhược trước chủng chủng
+tướng 。nhược hòa hợp tướng tục 。nhược ái nhược nhân kế trước 。bà la môn 。như thị tỉ giả thị
+nhữ đẳng thế luận 。phi thị ngã hữu 。đại tuệ 。thế luận bà la môn tác như thị vấn 。ngã
+như thị đáp 。bỉ tức mặc nhiên bất từ nhi thối 。(đường vân bất vấn ư ngã tự tông thật pháp mặc nhiên nhi khứ )tư tự
+thông xứ 。tác thị niệm ngôn 。sa môn thích tử xuất ư thông ngoại 。thuyết vô sinh vô tướng vô
+nhân 。giác tự vọng tưởng hiện tướng 。vọng tưởng bất sinh 。(ngụy vân sa môn thích tử ngoại ư ngã pháp thị khả lân mẫn thuyết nhất thiết pháp
+vô nhân vô duyên vô hữu sinh tướng 。duy thuyết tự tâm phân biệt kiến pháp 。nhược năng giác tri tự tâm kiến tướng tắc phân biệt bất sinh )đại tuệ 。thử tức thị
+nhữ hướng sở vấn 。ngã hà cố thuyết tập cận thế luận chủng chủng biện thuyết nhiếp thụ tham dục
+bất nhiếp thụ pháp 。
+   　thông viết 。ngoại đạo nhân thế tôn thuyết vô thuỷ hư nguỵ vọng tưởng tập khí chủng chủng chư
+   　ác tam hữu chi nhân 。toại phục vấn si ái nghiệp vi nhân 。năng sinh tam hữu da 。ức
+   　bản vô nhân da 。hựu vấn nhất thiết tính giai nhập ngũ âm tự cộng tướng da 。bỉ diệc
+   　tri vọng tưởng tập khí chủng chủng chư ác bất xuất ngũ âm tự cộng tướng 。vô minh dữ
+   　ái năng khởi hoặc tạo nghiệp 。vi tam hữu nhân 。diệc bàng phất tự phật bình nhật sở thuyết 。
+   　thử nãi học phật pháp trung ngoại đạo 。bất năng xả hữu nhân vô nhân kiến 。kì kiến sở
+   　phân biệt xứ tức thị tâm thức lưu động vọng kế ngoại trần 。bất li ngoại cảnh nhi sinh
+   　phân biệt 。túng thuyết đáo bản phân nội tự cộng tướng 。diệc thị pháp trần 。cố vận chi thuộc
+   　thế luận dã 。bà la môn kĩ lưỡng kí tận 。nãi vấn hữu phi thế luận giả phủ 。ý
+   　dĩ nhất thiết ngoại đạo sở hữu từ luận chủng chủng văn cú nhân dụ trang nghiêm 。mạc bất
+   　giai tùng ngã pháp trung xuất 。an đắc hữu phi thế luận giả 。thế tôn thuyết hữu chi đãn
+   　phi nhữ hữu 。nhữ sở hữu giả bất xuất tác 。vi tông nhân dụ đẳng pháp 。ngã sở hữu
+   　giả phi vi phi bất vi 。phi tông phi bất tông 。phi thuyết phi bất thuyết 。bản vô ngôn
+   　thuyết nhi diệc vị thường vô nhân thí trang nghiêm 。phi nhữ ngoại đạo sở năng tri dã 。nhữ
+   　đẳng sở dĩ bất tri giả 。dĩ vọng kế trước ngoại bất thật pháp phân biệt hí luận 。cố
+   　ngô sở vị phi thế gian luận giả 。nhất thiết vọng tưởng phân biệt bất sinh 。sở vân vọng
+   　tưởng bất sinh giả 。phi vị hữu vọng tưởng nhi diệt trừ chi chi vị dã 。vị giác liễu
+   　hiện tiền hữu vô chư cảnh 。giai thị tự tâm sở hiện 。tâm ngoại vô pháp 。pháp ngoại vô
+   　tâm 。tức chân tức vọng 。tức vọng tức chân 。cố vọng tưởng vô tự nhi sinh dã 。nhược kiến
+   　hữu ngoại trần 。tắc tâm dữ cảnh đối 。vọng do vị tận tức dã 。duy tâm cảnh lưỡng vô 。
+   　ngoại bất kiến trần 。nội vô thụ giả 。tuy dục phân biệt ngoại trần 。nguyên vô ngoại trần khả
+   　đắc 。vọng tưởng hà sở y nhi lập hồ 。sở dĩ vọng tưởng vĩnh tức 。trụ tự trụ xứ
+   　tịch tĩnh cảnh giới bất sinh bất diệt 。cố bất sinh bất diệt giả 。bất khởi phân biệt 。siêu
+   　xuất tam giới 。thị danh phi thế luận 。thử thị ngã pháp 。phi nhữ hữu giả 。lược thuyết nhữ
+   　pháp 。bất li chư thức tâm ý lưu chuyển 。nhược lai khứ nhược tử sinh nhược lạc/nhạc/nhạo khổ nhược
+   　trầm nịch nhược hiển kiến nhược xúc trước chủng chủng chư tướng 。ư trung vọng kế 。nhược hòa hợp
+   　tướng tục giả bất li thất thức 。nhược tham ái vi duyên giả bất li lục thức 。nhược minh
+   　sơ vi nhân giả lược cận bát thức 。nhữ sở vân si ái nghiệp nhân nhất thiết tính nhập
+   　tự cộng tướng 。như thị tỉ lượng phân biệt kiến lập tông thuyết 。chấp hữu thần ngã 。lưu chuyển
+   　tam giới 。thử danh thế luận 。phi ngã hữu giả 。bà la môn văn thị phi thế luận pháp 。
+   　đương tức vấn ngã tự tông thật pháp vân hà kiến lập 。nãi mặc nhiên nhi khứ 。tư sở
+   　tự thông xứ 。đãn năng thông ư bình nhật hữu vô vọng kiến 。nhi bất năng thông ư vô
+   　sinh chi chỉ 。phản vị sa môn sở kiến xuất ư ngã thông chi ngoại 。thuyết nhất thiết pháp
+   　vô nhân vô duyên vô hữu sinh tướng 。nghi hồ nhất thiết giai vô dĩ 。hựu thuyết năng giác
+   　tri tự tâm kiến tướng 。tắc phân biệt bất sinh 。kí hữu tự tâm kiến tướng 。tức thị tướng 。
+   　tức thị sinh 。hựu thuyết vọng tưởng bất sinh 。thành ngô sở vị giải dã 。vị kì ngữ ý 。
+   　chỉ thị tham luyến hữu vô tà kiến chủng chủng cú vị 。nhi bất năng tín thụ duyên khởi
+   　vô sinh chi chính pháp 。chư thú tướng tục bất đắc giải thoát 。diệc đại khả ai dã 。dĩ
+   　ngã cố thuyết tập cận thế luận đãn nhiếp thụ dục bất nhiếp thụ pháp 。tức thử thị dã 。
+   　tích thập thất tổ tăng già nan đề tôn giả độ trì giám đồng tử 。canh danh già da
+   　xá đa 。phó pháp nhãn kệ viết 。tâm địa bản vô sinh 。nhân địa tùng duyên khởi 。duyên chủng
+   　bất tướng phương 。hoa quả diệc phục nhĩ 。hậu thập bát tổ già da xá đa phó pháp ư
+   　cưu ma la đa 。kệ viết 。hữu chủng hữu tâm địa 。nhân duyên năng phát manh 。ư duyên bất
+   　tướng ngại 。đương sinh sinh bất sinh 。thử duyên khởi vô sinh chỉ dã 。khởi ngoại đạo sở năng
+   　trắc hồ 。
+đại tuệ bạch phật ngôn 。thế tôn 。nhiếp thụ tham dục cập pháp hữu hà cú nghĩa 。phật cáo đại
+tuệ 。thiện tai thiện tai 。nhữ nãi năng vi vị lai chúng sinh 。tư duy tư tuân như thị cú
+nghĩa 。đế thính đế thính thiện tư niệm chi 。đương vi nhữ thuyết 。đại tuệ bạch phật ngôn 。duy nhiên
+thụ giáo 。phật cáo đại tuệ 。sở vị tham giả 。nhược thủ nhược xả nhược xúc nhược vị 。(đường vân sở ngôn
+tài giả khả xúc khả thụ khả thủ khả vị )hệ trước ngoại trần đoạ nhị biên kiến 。phục sinh khổ âm sinh lão bệnh
+tử ưu bi khổ não 。như thị chư hoạn giai tùng ái khởi 。tư do tập cận thế luận cập
+thế luận giả 。ngã cập chư phật thuyết danh vi tham 。thị danh nhiếp thụ tham dục bất nhiếp thụ
+pháp 。đại tuệ 。vân hà nhiếp thụ pháp 。vị thiện giác tri tự tâm hiện lượng 。kiến nhân vô ngã
+cập pháp vô ngã tướng 。vọng tưởng bất sinh 。thiện tri thượng thượng địa 。li tâm ý ý thức 。nhất
+thiết chư phật trí tuệ quán đỉnh 。cụ túc nhiếp thụ thập vô tận cú 。ư nhất thiết pháp vô
+khai phát tự tại 。(tiền vân vô khai phát hành tự tâm tự tại )thị danh vi pháp 。sở vị bất đoạ nhất thiết kiến
+nhất thiết hư nguỵ nhất thiết vọng tưởng nhất thiết tính nhất thiết nhị biên 。đại tuệ 。đa hữu ngoại
+đạo si nhân đoạ ư nhị biên 。nhược thường nhược đoạn/đoán 。phi hiệt tuệ giả 。thụ vô nhân luận tắc
+khởi thường kiến 。ngoại nhân hoại nhân duyên phi tính tắc khởi đoạn/đoán kiến 。đại tuệ 。ngã bất kiến sinh
+trụ diệt cố thuyết danh vi pháp 。đại tuệ 。thị danh tham dục cập pháp 。nhữ cập dư bồ tát
+ma ha tát ưng đương tu học 。
+   　thông viết 。thế tôn thường thuyết thế gian chư luận chủng chủng biện thuyết thận vật tập cận 。nhược
+   　tập cận giả nhiếp thụ tham dục bất nhiếp thụ pháp 。tiền dĩ tường đáp 。chí thị đại tuệ
+   　hựu dục phân biệt cú nghĩa 。hà giả danh tham cú nghĩa 。hà giả danh pháp cú nghĩa 。phi
+   　như ngoại đạo đãn tư tự thông xứ nhi bất tư tuân chính pháp dã 。cố phật thiện chi 。
+   　nãi vị tham giả vị kì hữu thủ hữu xả hữu xúc hữu thụ 。hệ trước ngoại trần nhi
+   　sinh phân biệt 。đoạ tại hữu vô nhị kiến 。tự thất chính đạo 。ư thị chư thú tướng tục 。
+   　bất thoát khổ âm sinh lão bệnh tử ưu bi khổ não 。như thị chư hoạn giai tùng nhất
+   　niệm ái sinh 。sở vị vô minh duyên hành 。hành duyên thức 。thức duyên tham ái thủ 。nãi chí
+   　sinh lão bệnh tử khổ 。do bỉ tham ái chủng chủng cú vị tập cận thế luận tinh tập
+   　cận thiện vi thế luận giả 。ngã cập chư phật siêu xuất thế ngoại 。thuyết thử đẳng bối tổng
+   　thuộc ư tham 。đãn nhiếp thụ dục thực bất nhiếp thụ pháp thực dã 。sở vị pháp giả vị
+   　thiện giác tri nhất thiết pháp duy tâm sở hiện ngoại tính phi tính 。vô thủ vô xả vô
+   　xúc vô vị 。kiến nhân vô ngã đoạn/đoán phiền não chướng 。cập pháp vô ngã đoạn/đoán sở tri chướng 。
+   　bất đãn phân biệt ngoại cảnh chi vọng tưởng bất sinh 。tức phân biệt nội pháp chi vọng tưởng
+   　diệc bất sinh dã 。câu sinh vô minh tiêm thứ đoạn/đoán tận 。do nhất địa nhập nhất địa chí
+   　ư thượng thượng địa 。viễn li tâm ý ý thức 。chuyển thức thành trí 。sở vị chuyển tiền ngũ
+   　thức vi thành sở tác trí 。chuyển đệ lục thức vi diệu quan sát trí 。chuyển đệ thất thức
+   　vi bình đẳng tính trí 。chuyển đệ bát thức vi đại viên kính trí 。chí đại viên kính trí
+   　tức cụ nhất thiết chư phật trí tuệ 。nãi pháp vân quán đỉnh vị dã 。chư phật thủ quán
+   　kì đỉnh 。quang quang tướng ánh thụ như lai vị 。tức cụ túc thập vô tận cú 。nhất chúng
+   　sinh giới vô tận 。nhị thế giới vô tận 。tam hư không giới vô tận 。tứ pháp giới vô
+   　tận 。ngũ niết bàn giới vô tận 。lục phật xuất hiện vô tận 。thất như lai trí vô tận 。
+   　bát tâm sở duyên vô tận 。cửu phật trí sở nhập vô tận 。thập chuyển pháp luân trí vô
+   　tận 。nhất thiết nhiếp thụ ư nhất thiết pháp 。vô công dụng hành tự tâm tự tại thị danh
+   　vi pháp 。nhược tha nhất thiết kiến nhất thiết hư nguỵ nhất thiết vọng tưởng nhất thiết tính nhất
+   　thiết nhị biên 。giai vô thuỷ dĩ lai hư vọng tưởng tướng 。bất li tâm ý ý thức chuyển
+   　biến 。năng thiện giác tri tự tâm hiện lượng 。tự bất đoạ bỉ nhất thiết hí luận 。bỉ ngoại
+   　đạo thuyết chủng chủng pháp bất quá đoạn/đoán thường nhị kiến 。đa linh si nhân đoạ ư nhị biên 。
+   　phi hiệt tuệ giả đoạ ư nhị biên 。duy vô trí giả thụ bỉ vô nhân luận 。kế tứ
+   　đại bất tùng nhân sinh 。vị tùng lai như thử tắc khởi thường kiến 。hoặc kế tạo sắc ngoại
+   　nhân hoại diệt bất phục canh sinh 。vị nhân duyên chi tính bản vô tắc khởi đoạn/đoán kiến 。bỉ
+   　luận tuy đa 。đại ước bất xuất nhị giả 。bỉ duy kiến ngoại pháp sinh trụ diệt tướng 。nhi
+   　bất kiến tự tính bản vô sinh diệt 。cố bất đắc danh chính pháp 。ngã duy bất trước ư
+   　tướng 。bất kiến hữu sinh trụ dị diệt khả đắc 。đoạn/đoán thường nhị kiến hà tùng nhi khởi 。như
+   　thị tắc nhất thiết giác liễu bất đoạ ư kiến 。nhất thiết chân thật bất đoạ hư nguỵ 。nhất
+   　thiết chính tư duy bất đoạ vọng tưởng 。nhất thiết vô tự tính bất đoạ ư tính 。nhất thiết
+   　trung đạo bất đoạ nhị biên 。nãi tùng thượng chư phật sở thuyết danh vi pháp thực giả dã 。
+   　thị danh tham dục cập pháp lưỡng giả cú nghĩa 。nhữ cập dư bồ tát ưng đương tu học 。
+   　sứ vị lai chúng sinh chước tri chính pháp sở tại 。vô vi thế luận sở hoặc 。hoàng bách
+   　vân 。kim thời nhân chỉ dục đắc đa tri giải quảng cầu văn nghĩa 。hoán tác tu hành 。bất
+   　tri đa tri đa giải phiên thành Ủng tắc 。duy tri đa dữ nhi tô nhũ khiết 。tiêu dữ
+   　bất tiêu đô tổng bất tri 。tam thừa học đạo nhân giai thị thử [đả -đinh +dạng ]。tận danh thực bất
+   　tiêu giả 。sở vị tri giải bất tiêu giai vi độc dược 。tận hướng sinh diệt trung thu 。chân
+   　như chi trung đô vô thử sự 。cố vân ngã vương khố nội vô như thị đao 。tùng tiền
+   　sở hữu nhất thiết giải xứ tận tu tính khước 。linh không canh vô phân biệt 。tức thị không
+   　như lai tạng 。như lai tạng giả canh vô tiêm trần khả hữu 。tức thị phá hữu 。pháp vương
+   　xuất hiện thế gian diệc vân ngã ư nhiên đăng phật sở vô thiểu pháp khả đắc 。thử ngữ
+   　chỉ vi không nhữ tình giải tri lượng 。đãn tiêu dung biểu lí tình tận đô vô y chấp
+   　thị vô sự nhân 。tam thừa giáo võng chỉ thị ưng cơ chi dược 。tùy nghi sở thuyết các
+   　các bất đồng 。đãn năng liễu tri tức bất bí hoặc 。đệ nhất bất đắc ư nhất cơ nhất
+   　cảnh biên thủ văn tác giải 。hà dĩ như thử 。thật vô hữu định pháp như lai khả thuyết 。
+   　ngã thử tông môn bất luận thử sự 。đãn tri tức tâm tức hưu 。canh bất dụng tư tiền
+   　lự hậu 。do hoàng bách ngôn 。nội giáo nghị luận thượng bất khả chấp 。huống thế luận chủng chủng
+   　vô ích ư thân tâm giả hồ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa 。nhi thuyết kệ ngôn 。
+(nhị dịch giai hữu ngã nhiếp thủ chúng sinh y giới giáng chư ác trí tuệ diệt tà kiến tam giải thoát tăng trường )nhất thiết thế gian luận ngoại đạo hư
+vọng thuyết vọng kiến tác sở tác 。bỉ tắc vô tự tông 。duy ngã nhất tự tông 。li ư tác
+sở tác vi chư đệ tử thuyết 。viễn li chư thế luận 。tâm lượng bất khả kiến 。bất quan sát
+nhị tâm nhiếp sở nhiếp phi tính 。đoạn/đoán thường nhị câu li 。nãi chí tâm lưu chuyển 。thị tắc vi
+thế luận vọng tưởng bất chuyển giả 。thị nhân kiến tự tâm 。lai giả vi sự sinh 。khứ giả sự
+bất hiện minh liễu tri khứ lai 。vọng tưởng bất phục sinh 。hữu thường cập vô thường 。sở tác vô
+sở tác thử thế tha thế đẳng 。tư giai thế luận thông 。
+   　thông viết 。thế tôn vị bỉ chư ngoại đạo vô tự thông luận 。nãi ư kệ ngôn trùng phát
+   　kì chỉ 。vị ngã điều phục chúng sinh 。dĩ giới giáng chư ác 。dĩ trí tuệ diệt chư kiến 。
+   　linh tam giải thoát đắc dĩ tăng trường 。thử ngã sở thuyết pháp dã 。nhược nhất thiết thế gian
+   　hữu vô đẳng luận giai thị ngoại đạo hư vọng chi thuyết 。dĩ bỉ hoành kế nhân quả hữu
+   　năng tác giả hữu sở tác giả 。đãn tựu hư vọng ngoại cảnh vi tông 。thật vô tự tông 。
+   　duy ngã kiến lập nhất tâm dĩ vi tự tông 。bất trước ư năng tác sở tác 。li bỉ
+   　hư vọng nhân kiến 。vi chư đệ tử thuyết ngoại đạo thế luận đãn nhiếp thụ dục thực bất
+   　nhiếp thụ pháp thực 。thận vật tập cận viễn li chư thế luận khả dã 。bỉ thế luận sở
+   　dĩ vô tự thông giả 。vị ư tự tâm hiện lượng bất thiện quan sát 。duy tâm vô sở
+   　hữu cảnh giới 。dĩ vô nhị biên tâm 。cố năng thủ sở thủ phi tính 。đoạn/đoán kiến thường kiến
+   　câu li 。bất lạc hữu vô bất lạc phương sở 。nãi thị tự tâm bản thể 。bỉ duy bất
+   　kiến bản thể 。tự tông bất thông nãi chí chủng chủng hư vọng phân biệt 。tâm vi cảnh chuyển 。
+   　lưu lang bất tức 。bất đãn phàn duyên ngoại tính danh vi trục vật 。tức phân biệt pháp tướng
+   　diệc thị ý lưu 。tổng quy ư thế luận dã 。nhược năng quan sát vọng tưởng vô tính 。bất
+   　vi sở chuyển 。thị nhân tắc kiến tự tâm hiện lượng 。bản tự tịch diệt bản vô động dao 。
+   　sở vị tự tông thông giả dã 。ngoại đạo ninh hữu thử hồ 。nhiên ngoại đạo vi vọng tưởng
+   　sở chuyển tắc hà dĩ cố 。dĩ bất minh ư sinh diệt chi tướng 。cố lai giả kiến nhân
+   　sinh 。khứ giả kiến quả diệt 。bất tri nhất thiết chư pháp lai giả tạm hiện như điện tốc
+   　diệt 。khứ tắc bất hiện bản vô sở hữu 。năng như thật minh liễu khứ lai sinh diệt chi
+   　tướng bản tự vô sinh 。phân biệt an tùng khởi hồ 。vọng tưởng bất sinh 。tâm vô lưu chuyển 。
+   　tức thị bất sinh bất diệt chi pháp 。ngã sở thuyết pháp đãn dĩ nhất tâm vi tự tông
+   　giả thử dã 。nhược phu thường dữ vô thường 。tác dữ vô tác 。thử thế cập tha thế đẳng 。
+   　tổng bất li hữu vô nhị biên 。tức thị thế gian khứ lai chi tướng 。nhi ngoại đạo chấp
+   　chi dĩ vi thật hữu 。tư giai bất li thế gian kiến lập luận tông 。bỉ các tự dĩ
+   　vi thông nhi bất tri kì hư vọng dã 。nội giáo đệ tử diệc thận sở tập tai 。tăng
+   　vấn hoàng bách 。như hà thị thế đế 。bách vân 。thuyết cát đằng tác thập ma 。bản lai thanh
+   　tịnh 。hà giả ngôn thuyết vấn đáp 。đãn vô nhất thiết tâm 。tức danh vô lậu trí 。nhữ mỗi
+   　nhật hành trụ toạ ngoạ nhất thiết ngôn ngữ 。đãn mạc trước hữu vi pháp 。xuất ngôn thuấn mục
+   　tận đồng vô lậu 。như kim mạt pháp hướng khứ 。đa thị học thiền đạo giả 。giai trước nhất
+   　thiết thanh sắc 。hà bất dữ ngã tâm tâm đồng hư không khứ 。như khô mộc thạch đầu khứ 。
+   　như hàn hôi tử hoả khứ 。phương hữu thiểu phân tướng ưng 。nhược bất như thị 。tha nhật tận
+   　bí diêm lão tử khảo nễ tại 。ta hồ 。chư thú tướng tục 。bất đắc giải thoát 。khả úy
+   　như thị 。học giả chỉ tham cú vị hà tai 。
+(ngụy vân niết bàn phẩm đệ lục )。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn 。thế tôn 。sở ngôn niết bàn giả 。thuyết hà đẳng
+pháp danh vi niết bàn 。nhi chư ngoại đạo các khởi vọng tưởng 。phật cáo đại tuệ 。đế thính đế
+thính thiện tư niệm chi 。đương vi nhữ thuyết 。như chư ngoại đạo vọng tưởng niết bàn 。phi bỉ vọng
+tưởng tùy thuận niết bàn 。(đường vân như chư ngoại đạo phân biệt niết bàn giai bất tùy thuận niết bàn chi tướng )đại tuệ bạch phật ngôn 。duy
+nhiên thụ giáo 。phật cáo đại tuệ 。hoặc hữu ngoại đạo 。âm giới nhập diệt cảnh giới li dục kiến
+pháp vô thường 。tâm tâm pháp phẩm bất sinh 。bất niệm khứ lai hiện tại cảnh giới 。chư thụ âm
+tận như đăng hoả diệt như chủng tử hoại 。vọng tưởng bất sinh 。tư đẳng ư thử tác niết bàn
+tưởng 。đại tuệ 。phi dĩ kiến hoại danh vi niết bàn 。
+   　thông viết 。nhân thượng phật vị đại tuệ viết niết bàn hư không diệt phi hữu tam chủng 。đãn
+   　số hữu tam nhĩ 。vị tằng phát minh niết bàn chí nhất chi xứ 。khủng hồn ư ngoại đạo 。
+   　cố đại tuệ vấn hà đẳng pháp phương danh niết bàn 。nhi chư ngoại đạo các khởi vọng tưởng
+   　phân biệt vi đắc chân niết bàn phủ 。bỉ chư ngoại đạo phân biệt niết bàn giai bất tùy
+   　thuận niết bàn chi tướng 。thả niết bàn chân tướng phi bỉ vọng tưởng sở cập 。cố thế tôn
+   　nhất nhất xuất kì quá 。nhi dĩ ngã pháp thuyết danh niết bàn giả thị chi 。tổng chi ngoại
+   　đạo vô hữu tự thông 。hoặc hữu ngoại đạo ư ngũ âm lục nhập thập bát giới diệt xứ 。
+   　li dục giới hệ phọc 。bất tham cảnh giới 。kiến nhất thiết pháp vô thường 。dĩ tâm cập tâm
+   　số pháp bất hiện tại tiền 。trì tâm nhất cảnh 。bất kiến hữu quá khứ vị lai hiện tại
+   　tam thế chi tướng 。thử do chư thụ âm tận 。đãn dĩ nhất thiết bất thụ vi tông 。cố
+   　ư âm giới nhập chủng chủng dục trần án phục bất khởi 。như đăng hoả diệt bất linh phục
+   　minh 。như chủng tử hoại bất linh phục sinh 。chư thủ bất khởi phân biệt bất sinh 。thử đãn
+   　trừ diệt nhất thiết cảnh giới nhi vị chi bất sinh nhĩ 。tức lăng nghiêm sở vân dĩ vĩnh
+   　diệt y vi sở quy y 。tư ngoại đạo luận sư đẳng ư thử tác niết bàn tưởng 。thả
+   　dĩ kiến diệt vi niết bàn 。cố bất tri niết bàn diệu quả 。chuyển chư sinh diệt thành bất
+   　sinh diệt 。sa na vô hữu sinh tướng 。sa na vô hữu diệt tướng 。nhất thiết hiện tiền nhất
+   　thiết tịch diệt 。bất kiến hữu diệt tướng khả đắc 。khởi khả dĩ kiến nhất thiết pháp hoại toại
+   　danh vi niết bàn hồ 。thử ngoại đạo phân biệt niết bàn bất năng tùy thuận niết bàn chi
+   　tướng nhất dã 。đề bà luận dĩ thử vi đệ nhất tiểu thừa ngoại đạo thuyết 。hoàng bách vân 。
+   　phàm phu thủ cảnh 。đạo nhân thủ tâm 。tâm cảnh song vô 。nãi thị chân pháp 。vọng cảnh do
+   　dị 。vô tâm chí nan 。nhân bất cảm vô tâm khủng lạc không 。vô lao mô xứ 。bất tri
+   　không bản vô không 。duy nhất chân pháp giới nhĩ 。thử linh giác tính vô thuỷ dĩ lai dữ
+   　hư không đồng thọ 。vị tằng sinh vị tằng diệt 。vị tằng hữu vị tằng vô 。vị tằng uế
+   　vị tằng tịnh 。vị tằng huyên vị tằng tịch 。vị tằng thiểu vị tằng lão 。vô phương sở vô
+   　nội ngoại 。vô số lượng vô hình tướng 。vô sắc tượng vô âm thanh 。bất khả mịch bất khả
+   　cầu 。bất khả dĩ trí tuệ thức 。bất khả dĩ ngữ ngôn thủ 。bất khả dĩ cảnh vật hội 。
+   　bất khả dĩ công dụng đáo 。chư phật bồ tát dữ nhất thiết xuẩn động hàm linh 。đồng thử
+   　đại niết bàn tính 。tính tức thị tâm 。tâm tức thị phật 。phật tức thị pháp 。nhất niệm li
+   　chân giai vi vọng tưởng 。bất khả dĩ tâm canh cầu ư tâm 。bất khả dĩ phật canh cầu
+   　ư phật 。bất khả dĩ pháp canh cầu ư pháp 。cố học đạo nhân 。trực hạ vô tâm 。mặc
+   　khế nhi dĩ 。năng thấu hoàng bách ngữ 。tức tri niết bàn chân tướng sở tại 。
+đại tuệ 。hoặc dĩ tùng phương chí phương danh vi giải thoát 。thân cảnh giới tưởng diệt do như phong
+chỉ 。hoặc phục dĩ giác sở giác kiến hoại danh vi giải thoát 。hoặc kiến thường vô thường tác giải
+thoát tưởng 。(đường vân hoặc vị bất kiến năng giác sở giác hoặc vị bất khởi phân biệt thường vô thường kiến )hoặc kiến chủng chủng tướng tưởng kiều trí
+khổ sinh nhân 。tư duy thị dĩ 。bất thiện giác tri tự tâm hiện lượng 。bố úy ư tướng nhi
+kiến vô tướng 。thâm sinh ái lạc/nhạc/nhạo tác niết bàn tưởng 。
+   　thông viết 。ngoại đạo niết bàn chi tưởng bất xuất đoạn/đoán diệt kiến 。như lăng nghiêm vân hoặc kế
+   　thân diệt 。hoặc dục tận diệt hoặc khổ tận diệt 。hoặc cực lạc/nhạc/nhạo diệt hoặc cực xả diệt 。thử
+   　kì đại lược dã 。tiền đoạn cảnh giới li dục thị dục tận diệt ngoại đạo dã 。thử tùng
+   　phương chí phương thị kế thân diệt 。bất kiến năng giác sở giác thị cực lạc/nhạc/nhạo diệt 。bất khởi
+   　phân biệt thường vô thường kiến thị cực xả diệt 。úy tướng kiều khổ thị khổ tận diệt 。đãn
+   　thác tống cử chi nhĩ 。tùng phương chí phương giả đệ nhị ngoại đạo phương luận sư thuyết 。tối
+   　sơ sinh chư phương 。tùng phương sinh thế gian nhân 。tùng nhân sinh thiên địa 。thiên địa diệt một
+   　hoàn nhập bỉ xứ 。thuyết phương thị thường 。danh niết bàn nhân 。thân cảnh giới tưởng diệt do như
+   　phong chỉ giả đệ tam ngoại đạo phong tiên luận sư thuyết 。vị phong năng sinh vật 。phong năng
+   　sát vật 。thân cảnh giới hữu sinh diệt nhi phong vô sinh diệt 。thuyết phong vi thường 。thị niết
+   　bàn nhân 。kim hợp vi nhất do vân xả sinh thú sinh như phong tạm chỉ nhĩ 。giác sở
+   　giác kiến hoại giả 。bất kỉ ư li giác sở giác hồ 。bỉ đãn ư năng giác sở giác
+   　chi kiến án phục bất hành 。thú tịch diệt lạc/nhạc/nhạo 。bất giác hữu lạc/nhạc/nhạo khổ tướng 。thị cực lạc/nhạc/nhạo
+   　diệt ngoại đạo dã 。luận dĩ vi đà luận sư thuyết 。đại liên hoa sinh phạm thiên đẳng ngữ
+   　đa bất kinh dữ thử bất phù 。ư thường vô thường kiến bất khởi phân biệt giả 。bất kỉ
+   　ư li đoạn/đoán thường hồ 。bỉ đãn dĩ khổ lạc/nhạc/nhạo thị vô thường 。duy xả thị thường 。bái kì
+   　xả nhi vô chi 。bất tác phân biệt kiến 。thị cực xả diệt ngoại đạo dã 。luận dĩ đệ
+   　ngũ ngoại đạo y 賖na luận sư thuyết 。hình bất khả kiến biến nhất thiết xứ 。năng sinh
+   　vạn vật 。năng sinh thị thường 。sở sinh thị vô thường 。tự vi cận lí chủng chủng tướng tưởng
+   　giả 。phân biệt chủng chủng dị tướng năng sinh chư khổ 。bất tri tướng tức tự tâm sở hiện 。
+   　nãi bố úy ư tướng nhi trước ư vô tướng 。áp khổ đoạn/đoán tập 。tham ái thiên không 。thị
+   　khổ tận diệt ngoại đạo dã 。luận dĩ vi loã hành ngoại đạo luận sư sở thuyết 。bỉ kì
+   　tập khổ hành dã 。chính dục miễn ư khổ nhĩ 。thân thuộc dục giới kiêm nhân dữ thiên 。dục
+   　tận thuộc sơ thiền 。nhiếp khổ tận thuộc nhị thiền 。nhiếp cực lạc/nhạc/nhạo thuộc tam thiền 。nhiếp cực xả
+   　kiêm tứ thiền vô sắc nhị chủng 。thử nhập vô tưởng thiên ngoại đạo 。sở vị cùng tận thất
+   　tế hiện tiền tiêu diệt 。giai dĩ tử hậu đoạn/đoán diệt vi niết bàn giả dã 。cứ sở kiến
+   　xứ diệc phi tầm thường 。tranh nại bất xuất tam giới hà 。tăng vấn vân môn 。bất khởi nhất
+   　niệm hoàn hữu quá dã vô 。môn vân 。tu di sơn 。bạch vân đoan tụng vân 。tu di sơn
+   　hề tắc vũ trụ 。thiên nhãn đại bi khán bất thấu 。trừ phi tự giải đảo kị ngưu 。nhất
+   　sinh bất trước tùy nhân hậu 。thiên đồng tụng vân 。bất khởi nhất niệm tu di sơn 。thiều dương
+   　pháp thí ý phi khan 。khẳng lai lưỡng thủ tướng phân phó 。nghĩ khứ thiên tầm bất khả phàn 。
+   　thương hải khoát 。bạch vân nhàn 。mạc tương hào phát trước kì gian 。giả kê thanh vận nan man
+   　ngã 。vị khẳng mô hồ phóng quá quan 。bỉ chư ngoại đạo tuy diệt tận niệm niệm chí đam
+   　bất dao xứ 。diệc thị giả kê thanh vận nhĩ 。khởi đắc vi chân niết bàn hồ 。
+hoặc hữu giác tri nội ngoại chư pháp tự tướng cộng tướng khứ lai hiện tại hữu tính bất hoại 。
+tác niết bàn tưởng 。hoặc vị ngã nhân chúng sinh thọ mệnh nhất thiết pháp hoại 。tác niết bàn tưởng 。
+hoặc dĩ ngoại đạo ác thiêu trí tuệ 。kiến tự tính cập sĩ phu bỉ nhị hữu gian 。sĩ phu
+sở xuất danh vi tự tính 。như minh sơ tỉ cầu na chuyển biến cầu na thị tác giả 。tác
+niết bàn tưởng 。hoặc vị phúc phi phúc tận 。(ngụy vân ngoại đạo thuyết như thị tội tận cố phúc đức diệc tận danh vi niết bàn )hoặc vị
+chư phiền não tận 。hoặc vị trí tuệ 。(đường vân hoặc kế bất do trí tuệ chư phiền não tận )hoặc kiến tự tại thị chân
+thật tác sinh tử giả 。tác niết bàn tưởng 。hoặc vị triển chuyển tướng sinh sinh tử canh vô dư
+nhân 。như thị tức thị kế trước nhân nhi bỉ ngu si bất năng giác tri dĩ bất tri cố 。
+tác niết bàn tưởng 。
+   　thông viết 。giác tri nội ngoại chư pháp hữu tính bất hoại giả 。như lăng nghiêm tứ biến thường
+   　luận 。nội pháp như lục căn tâm cảnh tuần hoàn bất thất 。ngoại pháp như tứ đại đẳng 。hàm
+   　giai thể hằng kế vi trần thường dĩ vi bất hoại 。thử thường kiến ngoại đạo dã 。luận dĩ
+   　vi đệ thất tì thế sư luận sư thuyết 。ngã nhân chúng sinh thọ mệnh câu diệt thử đoạn/đoán
+   　tận chứng ngộ liễu giác tứ tướng 。sở vị kiến khổ đoạn/đoán tập 。chứng diệt tu đạo 。cư diệt
+   　dĩ hưu canh bất tiền tấn giả 。nãi định tính thanh văn sở chứng 。diệc hệ thiên không phi
+   　chính giác dã 。luận dĩ vi đệ bát khổ hành luận sư thuyết 。hoặc dĩ ngoại đạo ác kiến
+   　hoả thiêu diệt trí tuệ giả 。kế hữu tự tính ngã kiến chi bản dã 。cập hữu sĩ phu
+   　thập lục kiến chi nhất dã 。kiến đắc tự tính cập sĩ phu nhị giả vi hữu gian cách 。
+   　vị sĩ phu thần ngã năng sinh tự tính 。thị sĩ phu sở xuất giả 。danh vi tự tính 。
+   　như minh sơ sinh giác chi tỉ tỉ loại dã 。cầu na giả trần dã y dã 。vị thử
+   　vi trần năng y chư duyên chuyển biến tác nhất thiết vật 。kế thử cầu na thị vi tác
+   　giả 。vị tùng vi trần nhi sinh tứ đại 。dữ tùng sĩ phu nhi sinh tự tính tỉ loại
+   　tướng đồng 。thử tức chấp hữu thần ngã biến thập phương giới nhất thiết chúng sinh giai ngã thân
+   　trung nhất loại lưu xuất chi kiến dã 。luận dĩ vi đệ cửu ngoại đạo nữ nhân quyến thuộc
+   　thuyết 。ma 醘thủ la tác bát nữ nhân sinh thiên long bát bộ đẳng 。dĩ thị vi niết
+   　bàn giả khả tiếu 。hoặc vị phúc phi phúc tận vị tội phúc giai không 。thử chính bát vô
+   　nhân quả ngoại đạo dã 。luận dĩ vi đệ thập ngoại đạo hành khổ hành luận sư thuyết 。hoặc
+   　vị phiền não tận y trí tuệ cố 。đường vân bất do trí tuệ tu đoạn/đoán nhi chư phiền
+   　não tự tận 。thử chính kế lũ hoàn số cực thời thục đắc đạo tự nhiên 。phiền não dữ
+   　trí tuệ y dã 。luận dĩ vi thập nhất ngoại đạo tịnh chiếu luận sư thuyết 。hoặc kiến tự
+   　tại thiên năng tạo tác chúng sinh 。toại kế bỉ thiên thị chân thật năng ti nhân sinh tử
+   　giả 。thử tức tự nghi thân tâm tùng bỉ lưu xuất thập phương hư không hàm kì sinh khởi
+   　chi kiến dã 。luận dĩ vi thập nhị ngoại đạo ma đà la luận sư thuyết 。hoặc vị chúng
+   　sinh triển chuyển tướng sinh 。tử thử sinh bỉ 。luân hồi bất tức 。bát vạn kiếp lai vô nhân
+   　tự hữu 。cố vị sinh tử canh vô dư nhân 。bất tri như thị kế trước tức thị sinh
+   　tử chi nhân 。nhi bỉ ngoại đạo ngu si bất năng giác liễu vô minh ái nghiệp vi kì
+   　căn bản 。dĩ bất tri cố nãi vị sinh tử vô nhân 。toại chỉ vô nhân dĩ vi niết
+   　bàn 。luận dĩ vi ni kiền tử luận sư thuyết 。dĩ thượng thất chủng tổng bất xuất đoạn/đoán thường
+   　nhị kiến 。bất khả ngữ ư phật tri kiến dã 。trung quốc sư vấn tăng 。hà phương lai 。viết
+   　nam phương lai 。sư viết 。nam phương tri thức như hà thị nhân 。viết bỉ phương tri thức trực
+   　hạ thị học nhân tức tâm tức phật 。phật thị giác nghĩa 。nhữ kim tất cụ kiến văn giác
+   　tri chi tính 。thử tính thiện năng 。dương mi thuấn mục khứ lai vận dụng 。biến ư thân trung 。
+   　trất đầu đầu tri 。trất cước cước tri 。cố danh chính biến tri 。li thử chi ngoại canh vô
+   　biệt phật 。thử thân tức hữu sinh diệt 。tâm tính vô thuỷ dĩ lai vị tằng sinh diệt 。thân
+   　sinh diệt giả 。như long hoán cốt xà thuế bì 。nhân xuất cố trạch 。tức thân thị vô thường
+   　kì tính thường dã 。nam phương sở thuyết mộc ước như thử 。sư viết 。nhược nhiên giả dữ bỉ
+   　tiên ni ngoại đạo vô hữu sai biệt 。bỉ vân ngã thử thân trung hữu nhất thần tính 。thử
+   　tính năng tri thống dưỡng 。thân hoại chi thời thần tắc xuất khứ 。như xá bí thiêu 。xá chủ
+   　xuất khứ 。xá tức vô thường 。xá chủ thường hĩ 。thẩm như thử giả tà chính mạc ban 。thục
+   　vi thị hồ 。ngô tỉ du phương 。đa kiến thử sắc 。cận quang thịnh hĩ 。tụ khước tam ngũ
+   　bá chúng 。mục thị vân hán 。vân thị nam phương tông chỉ 。bả tha đàn kinh cải hoán 。thiêm
+   　nhữu bỉ đàm 。tước trừ thánh ý 。hoặc loạn hậu đồ 。khởi thành ngôn giáo 。khổ tai 。ngô tông
+   　tang hĩ 。nhược dĩ kiến văn giác tri thị phật tính giả 。tịnh danh bất ưng vân pháp li
+   　kiến văn giác tri 。nhược hành kiến văn giác tri thị tắc kiến văn giác tri 。phi cầu pháp
+   　dã 。tăng hựu vấn 。pháp hoa liễu nghĩa khai phật tri kiến 。thử phục nhược vi 。sư viết 。tha
+   　vân khai phật tri kiến 。bất ngôn bồ tát nhị thừa 。khởi dĩ chúng sinh điên đảo tiện đồng
+   　phật chi tri kiến hồ 。tức thử khả tri ngoại đạo sở chỉ niết bàn 。giai bất năng tùy
+   　thuận niết bàn chi tướng dã 。
+hoặc hữu ngoại đạo ngôn đắc chân đế đạo 。tác niết bàn tưởng 。(đường vân hoặc kế chứng ư đế đạo hư vọng phân biệt dĩ vi
+niết bàn )hoặc kiến công đức công đức sở khởi hòa hợp nhất dị câu bất câu 。tác niết bàn tưởng 。
+hoặc kiến tự tính sở khởi khổng tước văn thể chủng chủng tạp bảo cập lợi thứ đẳng tính kiến
+dĩ 。tác niết bàn tưởng 。(đường vân hoặc kế chư vật tùng tự nhiên sinh khổng tước văn thể cức châm tiêm lợi sinh bảo chi xứ xuất chủng chủng bảo như thử đẳng sự
+thị thùy năng tác 。tức chấp tự nhiên dĩ vi niết bàn )đại tuệ 。hoặc hữu giác nhị thập ngũ chân thật 。hoặc vương thủ hộ
+quốc thụ lục đức luận 。tác niết bàn tưởng 。(đường vân hoặc hữu thuyết ngôn năng thụ lục phân thủ hộ chúng sinh tư đắc niết bàn )hoặc kiến
+thời thị tác giả 。thời tiết thế gian như thị giác giả 。tác niết bàn tưởng 。hoặc vị tính hoặc
+vị phi tính 。hoặc vị tri tính phi tính 。(ngụy vân ngoại đạo ngôn kiến hữu vật kiến vô vật kiến hữu vô vật như thị phân biệt )hoặc
+kiến hữu giác dữ niết bàn sai biệt 。tác niết bàn tưởng 。(đường vân hoặc kế chư vật dữ niết bàn vô biệt tác niết bàn tưởng )。
+   　thông viết 。ngôn đắc chân đế đạo giả 。nãi đệ thập tứ ngoại đạo tăng khư luận sư thuyết 。
+   　vị tùng tự tính sinh đại 。tùng đại sinh ý 。tùng ý sinh trí 。tùng trí sinh ngũ phân 。
+   　tùng ngũ phân sinh ngũ tri căn 。tùng ngũ tri căn sinh ngũ nghiệp căn 。tùng ngũ nghiệp căn
+   　sinh ngũ đại 。thị danh nhị thập ngũ đế 。tự tính thị thường 。năng sinh chư pháp 。hoàn nhập
+   　tự tính 。tức li nhất thiết sinh tử 。thử kế minh đế dĩ vi chân đế tác niết bàn
+   　tưởng giả dã 。hoặc kiến công đức đẳng luận thuyết 。hữu tác sở tác nhi cộng hòa hợp 。đường
+   　vân hoặc kế cầu na dữ cầu na giả nhi cộng hòa hợp 。thử thắng luận sư kế lục
+   　cú vi sinh sinh chi nhân 。vị nhất thật nhị đức tam nghiệp tứ đại hữu ngũ hòa hợp
+   　lục đồng dị 。hựu tùng thật cú trung chấp hữu cửu pháp 。vị địa thuỷ hoả phong không thời
+   　phương hòa hợp 。hựu kế vi trần dĩ thành khí giới 。đường dịch sở vị cầu na dữ cầu
+   　na giả 。chỉ vi trần sinh khởi thế giới 。vi trần tức thị năng tác 。thế giới tức thị
+   　sở tác 。năng tác tức thị công đức 。sở tác tức thị công đức sở khởi 。hòa hợp nhi
+   　thành địa thuỷ hoả phong không đẳng 。bất khả vị nhất 。bất khả vị dị 。bất khả vị nhất
+   　dị câu 。bất khả vị nhất dị bất câu 。thử thuyết thậm vi 。luận dĩ vi ma 醘thủ
+   　la luận sư thuyết 。vị nhất thiết tùng tự tại thiên sinh 。tùng tự tại thiên diệt 。tam giới
+   　hồn nhiên nhất tự tại thiên thân dã 。ngữ đa bất kinh 。hoặc kiến tự tính sở khởi giả 。
+   　luận dĩ vi thập lục ngoại đạo vô nhân luận sư thuyết 。vô nhân vô duyên sinh nhất thiết
+   　vật 。như cức thứ châm vô nhân tác 。khổng tước đẳng chủng chủng hoạch sắc giai vô nhân tác 。
+   　tự nhiên nhi hữu 。tức lăng nghiêm sở vân 。ô tùng lai hắc 。hộc tùng lai bạch kế 。tự
+   　nhiên ngoại đạo dã 。hoặc hữu giác nhị thập ngũ đế chân thật giả 。tức giác tiền số luận
+   　sư sở kế minh đế dĩ vi chân thật giả dã 。hoặc thụ lục đức luận giả 。tức thụ
+   　tiền thắng luận sư sở kế lục cú vi sinh nhân giả dã 。năng giải thử nhị pháp 。thủ
+   　hộ chúng sinh linh đắc an lạc/nhạc/nhạo 。an lạc/nhạc/nhạo chi tùng tức thị niết bàn 。luận vô thử đoạn 。
+   　tự thuộc trùng xuất 。hoặc kiến thời thị tác giả 。luận dĩ vi thập thất ngoại đạo thời luận
+   　sư thuyết 。dĩ thời tiết vi nhân năng sinh thế gian pháp 。thời bất chí bất sinh 。thời bất
+   　chí bất diệt 。thế gian nhất thiết vô thường 。thời thị thường 。hoặc vị tính giả luận tác kiến
+   　hữu vật danh niết bàn 。nãi thập bát ngoại đạo phục thuỷ luận sư thuyết 。vị thuỷ năng sinh
+   　vật thuỷ năng hoại vật 。thuyết thuỷ thị thường 。hoặc vị phi tính giả luận tác kiến vô vật
+   　danh niết bàn 。nãi thập cửu ngoại đạo khẩu lực luận sư thuyết 。vị hư không thị vạn vật
+   　nhân 。nhất thiết tùng không sinh hoàn tùng không diệt 。thuyết hư không thị thường 。hoặc vị tri tính
+   　phi tính giả luận tác kiến hữu vô vật thị niết bàn nhân 。nãi nhị thập ngoại đạo an
+   　đồ luận sư thuyết 。vị bản vô nhật nguyệt tinh thần hư không cập địa 。duy hữu đại thuỷ 。
+   　thời đại an đồ sinh như kê tử phá vi nhị đoạn 。tại thượng tác thiên 。tại hạ tác
+   　địa 。bỉ nhị trung gian sinh phạm thiên nhất thiết chúng sinh 。tùng phạm thiên sinh hoàn quy bỉ
+   　xứ 。danh vi niết bàn 。thử tam chủng bất li địa thuỷ hoả phong không nhi sinh kế trước 。
+   　bất xuất hữu vô cập diệc hữu diệc vô kiến dã 。hoặc kiến hữu giác dữ niết bàn sai
+   　biệt giả 。đường tác hoặc kế chư vật dữ niết bàn vô biệt 。vị vạn vật thị huyên động 。
+   　niết bàn thị tịch tĩnh 。thử nhị vô biệt 。ư trung phân biệt tinh thô 。sơ quyết chân nguỵ 。
+   　hữu giác giả tồn niết bàn tức bất ưng hữu giác 。thử hữu giác giả bất li niết bàn 。
+   　tức phi tưởng phi phi tưởng cảnh giới bỉ chi sở vị niết bàn dã 。đề bà luận quyết
+   　thử nhất chủng 。tinh tiền tiểu thừa ngoại đạo luận sư cập khổ hành luận sư giai vô phát
+   　minh 。thâm đàm lí đế tắc bỉ sở vô 。lược năng kí thuật thô tiên giả nhĩ 。tự phi
+   　chân xuất đề bà sở truyền 。trí giả đương năng chúc chi 。hữu đạo lưu vấn đại châu viết 。
+   　thế gian hoàn hữu pháp quá ư tự nhiên phủ 。châu viết hữu 。viết hà pháp quá đắc 。viết
+   　năng tri tự nhiên giả 。viết nguyên khí thị đạo phủ 。châu viết nguyên khí tự nguyên khí 。đạo
+   　tự đạo 。viết nhược thị giả tắc ưng hữu nhị dã 。châu viết tri vô lưỡng nhân 。hựu vấn 。
+   　vân hà vi tà 。vân hà vi chính 。châu viết tâm trục vật vi tà 。vật tùng tâm vi
+   　chính 。chỉ thử số ngữ 。nhi chủng chủng tà chính chi ban tự kiến ư ngôn ngoại 。
+hữu như thị tỉ chủng chủng vọng tưởng ngoại đạo sở thuyết 。bất thành sở thành 。trí giả sở khí 。
+đại tuệ 。như thị nhất thiết tất đoạ nhị biên tác niết bàn tưởng 。như thị đẳng ngoại đạo niết
+bàn vọng tưởng 。bỉ trung đô vô nhược sinh nhược diệt 。(đường vân ư thử vô hữu nhược trụ ư xuất )đại tuệ 。bỉ nhất
+nhất ngoại đạo niết bàn bỉ đẳng tự luận 。trí tuệ quan sát đô vô sở lập 。như bỉ vọng
+tưởng 。tâm ý lai khứ phiêu lưu trì động 。nhất thiết vô hữu đắc niết bàn giả 。
+   　thông viết 。dĩ thượng nhị thập nhất chủng niết bàn 。đãn lược cử kì tối trước giả nhĩ 。thử
+   　ngoại cửu thập dư chủng hữu như thị tỉ loại chủng chủng vọng tưởng sở thuyết niết bàn 。đại
+   　suất hư mậu tà kiến nhi thuyết chư luận 。bất dữ như thật chính pháp tướng ưng 。bất như
+   　ư lí 。bất thành kì thuyết 。trí giả sở khí nhi viễn li chi dã 。như thị nhất thiết
+   　thuyết hữu thuyết vô 。thuyết thường thuyết vô thường 。tấn chi thuyết diệc hữu diệc vô 。diệc thường diệc
+   　vô thường 。hựu tấn chi thuyết phi hữu phi vô 。phi thường phi vô thường 。phàm lục thập nhị
+   　kiến 。hư vọng phân biệt tất đoạ nhị biên 。bất li đối đãi tác niết bàn tưởng 。như thị
+   　hư vọng phân biệt dĩ vi niết bàn 。bỉ trung đô vô trụ ư thế gian 。nhi nhược sinh
+   　giả diệc vô nhập ư niết bàn 。nhi nhược diệt giả nhất thiết đoạn/đoán diệt thùy vi sinh diệt 。
+   　bỉ chư ngoại đạo đẳng y bỉ tự tông kiến lập tự luận 。dĩ chính trí chính tuệ quan
+   　sát chi 。vi bội chính lí 。tự tướng phá hoại 。vô như thật tri 。đô vô sở lập 。kì
+   　thuyết kí chi li kiểu loạn 。đồ thác dụng tâm 。vọng vi phân biệt 。linh kì tâm ý điệu
+   　tán 。vãng lai phiêu trì 。vô hữu ninh chỉ 。tâm ý kí lưu 。niệm niệm bất đình 。chính một
+   　nịch ư sinh tử khổ hải trung chư thú tướng tục bất đắc giải thoát khởi hữu chân đắc
+   　niết bàn giả hồ cố viết nhất thiết vô hữu đắc niết bàn giả thử chư ngoại đạo vọng
+   　kế niết bàn giai bất tùy thuận niết bàn chi tướng phi ngã pháp sở danh vi niết bàn
+   　giả dã vân cái sơn chí nguyên thiền sư nhân đàm châu đạo chính biểu văn mã vương khí
+   　sư luận nghĩa vương thỉnh sư thượng điện tướng kiến trà bãi sư tựu vương khí kiếm sư ác
+   　kiếm vấn đạo chính viết nễ giáo trung đạo hoảng hoảng hốt hốt kì trung hữu vật thị hà
+   　vật yểu yểu minh minh kì trung hữu tinh thị hà tinh đạo đắc bất trảm đạo bất đắc
+   　tức trảm đạo chính mang nhiên tiện lễ bái sám hối sư vị vương viết hoàn thức thử nhân
+   　phủ vương viết thức sư viết thị thùy vương viết đạo chính sư viết bất thị kì đạo nhược
+   　chính hợp đối đắc sơn tăng chi thị cá vô chủ cô hồn nhân tư đạo sĩ canh bất
+   　phân vân trực nhiêu đối đắc phân minh dã bất xuất minh đế dữ bản lai nhân đại tướng
+   　viễn tại 。
+đại tuệ như ngã sở thuyết niết bàn giả vị thiện giác tri tự tâm hiện lượng bất trước ngoại
+tính li ư tứ cú kiến như thật xứ bất đoạ tự tâm hiện vọng tưởng nhị biên nhiếp sở
+nhiếp bất khả đắc nhất thiết độ lượng bất kiến sở thành ngu ư chân thật (đường vân bất nhập chư lượng bất trước
+chân thật )bất ưng nhiếp thụ khí xả bỉ dĩ đắc tự giác thánh pháp tri nhị vô ngã li nhị
+phiền não tận trừ nhị chướng vĩnh li nhị tử thượng thượng địa như lai địa (đường vân chuyển tu chư địa nhập ư
+phật địa )như ảnh ảo đẳng chư thâm tam muội li tâm ý ý thức thuyết danh niết bàn đại tuệ
+nhữ cập dư bồ tát ma ha tát ưng đương tu học đương tật viễn li nhất thiết ngoại đạo
+chư niết bàn kiến 。
+   　thông viết thượng kí ban chư ngoại đạo vô hữu đắc niết bàn giả thử hạ nãi tường ngã
+   　pháp niết bàn phi ngoại đạo sở năng khuy dã như ngã sở thuyết niết bàn vị thiện giác
+   　liễu tự tâm hiện lượng tâm ngoại vô pháp pháp ngoại vô tâm bất trước ngoại cảnh nhi sinh
+   　phân biệt viễn li hữu vô nhất dị câu bất câu tứ cú tà kiến thật kiến đắc chân
+   　như thật tế bất sinh bất diệt chi xứ cố bất đoạ ư tự tâm sở hiện phân biệt
+   　hữu vô nhị biên tà kiến tức năng thu sở thủ tâm lượng diệc bất khả đắc hà dĩ
+   　li năng sở thủ dã kiến thế gian nhất thiết kiến lập bất xuất vọng tưởng độ lượng hư
+   　vọng bất thật vô sở thành tựu do kì ngu muội mê chân thật lí thị bất ưng nhiếp
+   　thụ giả nhiếp sở nhiếp bất khả đắc nhất thiết khí xả bất thủ chư pháp tức danh chân
+   　thật tư đắc tự giác thánh trí sở hiện chứng pháp sở chứng chi pháp vị hà vị tri
+   　nhân pháp nhị vô ngã viễn li căn bản chi mạt nhị phiền não tịnh trừ hoặc trí nhị
+   　chướng vĩnh siêu phân đoạn biến dị nhị sinh tử tiêm lịch chư địa chí ư phật địa đắc
+   　như ảo đẳng chư thâm tam muội giác tự tâm sở hiện như ảo do vị vi thâm dã
+   　tức ảo tức chân tức chân tức ảo nhất thiết ngoại cảnh thường tự tịch diệt nãi vi thâm
+   　tam muội dã thử duy chuyển thức thành trí giả phương năng chứng thử cố chuyển tâm ý ý
+   　thức sinh diệt chủng tử thành bất sinh diệt trí dụng nhiên hậu hiệu danh niết bàn dã tam
+   　đức niết bàn như y tam điểm vi như lai bí mật chi tạng thử trung tự giác thánh
+   　thể tức thị chân như tri nhị vô ngã đẳng tức thị ban nhược vĩnh li nhị tử tức
+   　thị giải thoát tam nhất viên dung cố danh niết bàn tuyệt tư tuyệt nghị như thị an trụ
+   　khởi ngoại đạo sở năng trắc tai nhữ đẳng bồ tát ưng đương tu học viễn li nhất thiết
+   　ngoại đạo chư niết bàn kiến khả dã tăng chí đạo vấn lục tổ viết học nhân tự xuất
+   　gia lãm niết bàn kinh thập tái hữu dư vị minh đại ý nguyện hòa thượng thùy hối tổ
+   　viết nhữ hà xứ vị minh viết chư hành vô thường thị sinh diệt pháp sinh diệt diệt dĩ
+   　tịch diệt vi lạc/nhạc/nhạo ư thử nghi hoặc tổ viết nhữ tác ma sinh nghi viết nhất thiết chúng
+   　sinh giai hữu nhị thân vị sắc thân pháp thân dã sắc thân vô thường hữu sinh hữu diệt
+   　pháp thân vô thường hữu tri vô giác kinh vân sinh diệt diệt dĩ tịch diệt vi lạc/nhạc/nhạo giả
+   　bất thẩm hà thân tịch diệt hà thân thụ lạc/nhạc/nhạo nhược sắc thân giả sắc thân diệt thời tứ
+   　đại phân tán toàn nhiên thị khổ khổ bất khả ngôn lạc/nhạc/nhạo nhược pháp thân tịch diệt tức đồng
+   　thảo mộc ngoã thạch thùy đương thụ lạc/nhạc/nhạo hựu pháp tính thị sinh diệt chi thể ngũ âm thị
+   　sinh diệt chi dụng nhất thể ngũ dụng sinh diệt thị thường sinh tắc tùng thể khởi dụng diệt
+   　tắc nhiếp dụng quy thể nhược thính canh sinh tức hữu tình chi loại bất đoạn/đoán bất diệt nhược
+   　bất thính canh sinh tắc vĩnh quy tịch diệt đồng ư vô tình chi vật như thị tắc nhất
+   　thiết chư pháp bí niết bàn chi sở cấm phục thượng bất đắc sinh hà lạc/nhạc/nhạo chi hữu tổ
+   　viết nhữ thị thích tử hà tập ngoại đạo đoạn/đoán thường tà kiến nhi nghị tối thượng thừa pháp
+   　cứ nhữ sở thuyết tức thanh sắc ngoại biệt hữu pháp thân li sinh diệt cầu ư tịch diệt
+   　hựu suy niết bàn thường lạc/nhạc/nhạo ngôn thân hữu thụ dụng tư nãi chấp lận sinh tử đam trước
+   　thế lạc/nhạc/nhạo nhữ kim đương tri phật vi nhất thiết mê nhân nhận ngũ âm hòa hợp vi tự
+   　thể tướng phân biệt nhất thiết pháp vi ngoại trần tướng hảo sinh ác tử niệm niệm thiên lưu
+   　bất tri mộng ảo hư giả uổng thụ luân hồi dĩ thường lạc/nhạc/nhạo niết bàn phiên vi khổ tướng
+   　chung nhật trì cầu phật mẫn thử cố nãi thị niết bàn chân lạc/nhạc/nhạo sa na vô hữu sinh
+   　tướng sa na vô hữu diệt tướng canh vô sinh diệt khả diệt thị tắc tịch diệt hiện tiền
+   　đương hiện tiền thời diệc vô hiện tiền chi lượng nãi vị thường lạc/nhạc/nhạo thử lạc/nhạc/nhạo vô hữu thụ
+   　giả diệc vô bất thụ giả khởi hữu nhất thể ngũ dụng chi danh hà huống canh ngôn niết
+   　bàn cấm phục chư pháp linh vĩnh bất sinh tư nãi báng phật báng pháp thính ngô kệ viết
+   　vô thượng đại niết bàn viên minh thường tịch chiếu phàm ngu vị chi tử ngoại đạo chấp vi
+   　đoạn/đoán chư cầu nhị thừa nhân mục dĩ vi vô tác tận thuộc tình sở kế lục thập nhị
+   　kiến bản vọng lập hư giả danh hà vi chân thật nghĩa duy hữu quá lượng nhân thông đạt
+   　vô thủ xả dĩ tri ngũ uẩn pháp cập dĩ uẩn trung ngã ngoại hiện chúng sắc tướng nhất
+   　nhất âm thanh tướng bình đẳng như ảo mộng bất khởi phàm thánh kiến bất tác niết bàn giải
+   　nhị biên tam tế đoạn/đoán thường ưng chư căn dụng nhi bất khởi dụng tưởng phân biệt nhất thiết
+   　pháp bất khởi phân biệt tưởng kiếp hoả thiêu hải để phong xuy sơn tướng kích chân thường tịch
+   　diệt lạc/nhạc/nhạo niết bàn tướng như thị ngô kim cường ngôn thuyết linh nhữ xả tà kiến nhữ vật
+   　tùy ngôn giải hứa nhữ tri thiểu phân chí đạo văn kệ đại ngộ lễ bái nhi thối lục
+   　tổ nhất kệ cai tận thử thiên diệu nghĩa truyền phật tâm ấn khởi tại ngôn ngữ văn tự
+   　gian da 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+ngoại đạo niết bàn kiến các các khởi vọng tưởng tư tùng tâm tưởng sinh vô giải thoát phương tiện
+ngu ư phọc phọc giả viễn li thiện phương tiện ngoại đạo giải thoát tưởng giải thoát chung bất sinh
+chúng trí các dị thú ngoại đạo sở kiến thông bỉ tất vô giải thoát ngu si vọng tưởng cố
+nhất thiết si ngoại đạo vọng kiến tác sở tác hữu vô hữu phẩm luận bỉ tất vô giải thoát
+phàm ngu lạc/nhạc/nhạo vọng tưởng bất văn chân thật tuệ ngôn ngữ tam khổ bản chân thật diệt khổ nhân
+thí như kính trung tượng tuy hiện nhi phi hữu ư vọng tưởng tâm kính ngu phu kiến hữu nhị
+bất thức tâm cập duyên tắc khởi nhị vọng tưởng liễu tâm cập cảnh giới vọng tưởng tắc bất sinh
+tâm giả tức chủng chủng viễn li tướng sở tướng sự hiện nhi vô hiện như bỉ ngu vọng tưởng
+tam hữu duy vọng tưởng ngoại nghĩa tất vô hữu vọng tưởng chủng chủng hiện phàm ngu bất năng liễu
+kinh kinh thuyết vọng tưởng chung bất xuất ư danh nhược li ư ngôn thuyết diệc vô hữu sở thuyết 。
+   　thông viết thử tụng thượng ngoại đạo niết bàn chi kiến như tiền nhị thập nhất chủng đãn tùng
+   　các các tự tâm vọng tưởng sở khởi thử vọng phân biệt kí tùng tâm tưởng lưu động sở
+   　sinh phi hữu giải thoát thiện xảo phương tiện chi pháp ngoại đạo chấp hữu niết bàn khả thủ
+   　dĩ vi sở phọc canh dĩ vọng kiến thủ chi thị vi năng phọc bỉ ngu vi năng phọc
+   　bất tự giác ngộ nãi phục viễn li thiện xảo phương tiện chi pháp tuy tác giải thoát tưởng
+   　nhi giải thoát chung bất sinh dã bỉ ngoại đạo chúng các xuất tà trí các các dị thú
+   　hoặc kiến kì thường tắc dĩ thường vi giải thoát hoặc kiến kì đoạn/đoán tắc dĩ đoạn/đoán vi giải
+   　thoát cứ bỉ tự sở thông xứ các các tự vị giải thoát kì thật tất vô giải thoát
+   　dã tắc hà dĩ cố duy trí khả dĩ phá ngu duy chân khả dĩ trừ vọng bỉ kí
+   　ngu ư phọc phọc bất li hồ si ý tưởng phiêu lưu bất li hồ vọng tức vô thiện
+   　xảo phương tiện kì hà dĩ đắc giải thoát hồ cố nhất thiết si ngoại đạo vọng kiến năng
+   　tác sở tác hoặc dĩ vi vô nhân hoặc dĩ vi hữu nhân kiến lập hữu phẩm vô phẩm
+   　chư luận tất vô hữu đắc giải thoát giả vi bỉ phàm ngu đãn lạc/nhạc/nhạo hư vọng phân biệt
+   　bất văn chân thật giải thoát chi tuệ cố chí thử nhĩ bỉ hư vọng phân biệt giả bất
+   　li ngôn ngữ ngôn ngữ nãi tam khổ chi bản tam khổ vị khổ khổ hoại khổ hành khổ
+   　khổ khổ giả vị tam giới dĩ khổ dục giới phục khổ hoại khổ giả vị lạc/nhạc/nhạo hoại thời
+   　khổ đẳng ư tam đồ hành khổ giả tức xứ trung khổ thông ư vô sắc thử tam khổ
+   　bất li dục giới sắc giới vô sắc giới ngoại đạo sở kiến lập ngôn luận bất quá phân
+   　biệt tam giới sinh diệt chư pháp thật tam khổ chi bản dã khởi năng siêu xuất tam giới
+   　nhi đắc giải thoát da nhược chân thật tuệ giả bất tác hữu kiến bất tác vô kiến bản
+   　vô năng tác diệc vô sở tác chân như thật tế trung bất khởi nhất niệm phân biệt bản
+   　vô tam giới chi tướng khả đắc hà tùng hữu tam giới chi khổ hồ thị chân thật tuệ
+   　giả thật diệt khổ chi nhân thị chân giải thoát thị chân niết bàn bỉ cố vị chi văn
+   　dã sở vân diệt khổ nhân giả khởi tất đoạn/đoán diệt tam giới nhất thiết đẳng pháp nhi hậu
+   　vô khổ tai thí như kính trung chi tượng tuy hiện nhi phi hữu dã chân như thật tế
+   　tức kính dã tam giới đẳng pháp tức tượng dã tam giới đẳng pháp duy tự tâm sở hiện
+   　bất khả vị chi hữu bất khả vị chi vô ngu phu ư tự tâm kính trung sở hiện
+   　chi tướng vọng tưởng phân biệt hoặc kiến vị chi hữu hoặc kiến vị chi vô tác thử nhị
+   　kiến lương do bất thức tự tâm bản thể cập ngoại duyên cảnh giới như kính trung tượng tượng
+   　hữu khứ lai kính vô sinh diệt duyên hữu khứ lai tâm vô sinh diệt bỉ bất y chân
+   　thật nhi y hư vọng khởi nhị phân biệt kiến lập hữu phẩm vô phẩm ngôn luận tự tạo
+   　khổ nhân vô túc quái giả nhược năng liễu tâm cập cảnh giới giác tri tự tâm hiện lượng
+   　ngoại tính phi tính như kính trung tượng tuy hiện nhi phi hữu khởi hữu ư hư vọng ảnh
+   　tượng nhi sinh hư vọng phân biệt giả hồ kì bất sinh vọng tưởng giả hà dã dĩ tam
+   　giới chư pháp duy tâm sở hiện thị tâm tức chủng chủng chủng chủng tức tâm tâm cảnh nhất
+   　như bản lai tịch diệt viễn li năng tướng sở tướng năng sở kí vô tức vô thật sự
+   　khả đắc hiện khởi tam giới chủng chủng sự nghiệp hiện nhi vô hiện bất khả định chấp vi
+   　hữu như bỉ phàm ngu ngoại đạo chủng chủng vọng tưởng phân biệt dã thả tam giới sở hữu
+   　chủng chủng chư pháp bất xuất sinh diệt khứ lai ảnh tướng duy thị vọng tưởng phân biệt kiến
+   　lập ư ngoại cảnh giới chấp vi thật nghĩa bất tri ngoại tính phi tính nhất thiết ảnh tướng
+   　nguyên vô sở hữu dĩ vọng tưởng cố hiện hữu chủng chủng sự pháp chủng chủng sở hiện kí
+   　tùng vọng tưởng sinh vọng bản vô căn tức thị bất sinh thử tự tâm hiện lượng vị dị
+   　khuy dã phàm ngu bất năng liễu thử luân chuyển tam giới bất đắc giải thoát diệc đại khả
+   　ai tai bất đồ ngoại đạo ngôn ngữ vi tam khổ bản đãn hữu ngôn thuyết đô vô thật
+   　nghĩa tức như chư kinh sở thuyết vọng tưởng vân giả dục linh chúng sinh phản vọng quy chân
+   　an trụ niết bàn nhiên chung bất xuất ư danh ngôn kí lạc danh ngôn tức phi chân thật
+   　nhược đạt danh ngôn thể không ư ngôn thuyết nhi li ngôn thuyết mặc khế bất khả tư nghị
+   　cảnh giới tức sở thuyết chi pháp diệc bất khả đắc nhất pháp bất tồn phương chứng chân thật
+   　thị vi ngã sở thuyết niết bàn nghĩa dã khởi phàm ngu sở năng liễu hồ tạp hoa kệ
+   　viết nhãn nhĩ tị thiệt thân tâm ý chư tình căn dĩ thử thường lưu chuyển nhi vô năng
+   　chuyển giả pháp tính bản vô sinh thị hiện nhi hữu sinh thị trung vô năng hiện diệc vô
+   　sở hiện vật nhãn nhĩ tị thiệt thân tâm ý chư tình căn nhất thiết không vô tính vọng
+   　tâm phân biệt hữu như thị nhi quan sát nhất thiết giai vô tính thử kệ đại chỉ thật
+   　dữ thử kệ vô nhị thanh châu pháp bản thiền sư thượng đường dương thanh chỉ hưởng bất tri
+   　thanh thị hưởng căn lộng ảnh đào hình bất tri hình vi ảnh bản dĩ pháp vấn pháp bất
+   　tri pháp bản phi pháp dĩ tâm truyền tâm bất tri tâm bản vô tâm tâm bản vô tâm
+   　tri tâm như ảo liễu pháp phi pháp tri pháp như mộng tâm pháp bất thật mạc man truy
+   　tầm mộng ảo không hoa hà lao bả tróc đáo giá lí tam thế chư phật nhất đại tạng
+   　giáo tổ sư ngôn cú thiên hạ lão hòa thượng lộ bố cát đằng tận sứ bất trước hà
+   　cố thái bình bản thị tương quân trí bất hứa tương quân kiến thái bình tiện hạ tòa nhược
+   　thử đẳng ngôn thuyết nhi vô thuyết tuy chung nhật giảo tước bất vi phân ngoại 。
+
+**HẾT Quyển 6**
+
+    Đề bà bồ tát thích lăng già kinh trung ngoại đạo tiểu thừa niết bàn luận (tạng trung lục xuất bị lãm )。
+   　Vạn vân nguyên bản lục xuất toàn văn kim nhượng tạng trung tư tỉnh lược yên 。
+
+***
+
+## Quyển 7
+
+Nhất thiết phật ngữ tâm phẩm đệ tứ 　(ngụy vân pháp thân phẩm đệ thất đường vân vô thường phẩm đệ tam chi nhị )。
+
+Nhĩ thời đại tuệ bồ tát bạch phật ngôn thế tôn duy nguyện vi thuyết tam miệu (thử vân chính giác )tam
+phật đà (thử vân chính giác )ngã cập dư bồ tát ma ha tát thiện ư như lai tự tính tự giác
+giác tha phật cáo đại tuệ tứ sở dục vấn ngã đương vi nhữ tùy sở vấn thuyết đại tuệ
+bạch phật ngôn thế tôn như lai ưng cung đẳng chính giác vi tác da vi bất tác da vi
+sự da (đường vân vi quả )vi nhân da vi tướng da vi sở tướng da vi thuyết da vi sở thuyết
+da vi giác da vi sở giác da như thị đẳng từ cú vi dị vi bất dị phật cáo
+đại tuệ như lai ưng cung đẳng chính giác ư như thị đẳng từ cú phi sự phi nhân sở
+dĩ giả hà câu hữu quá cố đại tuệ nhược như lai thị sự giả hoặc tác hoặc vô thường
+vô thường cố nhất thiết sự ưng thị như lai ngã cập chư phật giai sở bất dục nhược phi
+sở tác giả vô sở đắc cố phương tiện tắc không đồng ư thỏ giác bàn đại chi tử (thử vân
+thạch nữ nhi )dĩ vô sở hữu cố đại tuệ nhược vô sự vô nhân giả tắc phi hữu phi vô
+nhược phi hữu phi vô tắc xuất ư tứ cú tứ cú giả thị thế gian ngôn thuyết nhược xuất
+tứ cú giả tắc bất đoạ tứ cú bất đoạ tứ cú cố trí giả sở thủ nhất thiết như
+lai cú nghĩa diệc như thị tuệ giả đương tri 。
+   　thông viết như lai chính đẳng chính giác như như tự tính tức pháp thân chân ngã dã nhược
+   　thiện thử nghĩa dĩ chi tự giác tức đáo tự giác thánh trí cảnh giới dĩ chi giác tha
+   　linh chuyển mê quy ngộ cộng chứng bồ đề thử chính thế tôn độ sinh bản tâm cố hứa
+   　đại tuệ tứ sở vấn dã nhiên vị chi viết chính biến tri nội nhi pháp thân tự tính
+   　ngoại nhi thế gian chư pháp vô sở bất tri thị chính biến tri siêu quá nhất thiết phi
+   　khả dĩ thế gian trí khuy trắc chi dã thế gian sở vân tác giả thị hữu vi pháp
+   　sở vân bất tác giả thị vô vi pháp hoặc nhân hoặc quả hoặc tướng hoặc sở tướng hoặc
+   　thuyết hoặc sở thuyết hoặc giác hoặc sở giác tổng bất xuất hữu vi vô vi nhị chủng độ
+   　lượng nhược vị vô thượng chính đẳng chính giác dị thử đẳng từ cú biệt hữu pháp thân tắc
+   　bất đắc vị biến tri hĩ nhược vị vô thượng chính đẳng chính giác bất dị thử đẳng từ
+   　cú đồng chư sở giác tắc bất đắc danh chính giác hĩ như hà viễn li dị bất dị
+   　nhi trực hiển pháp thân hồ phật dĩ đẳng chính giác ư như thị từ cú tổng vân phi
+   　dã vi kì quả phi chính quả nhân phi chính nhân dĩ pháp thân tự tính quan chi câu
+   　hữu quá cố hà ngôn hồ kì hữu quá dã nhược ngôn như lai pháp thân thị sự giả
+   　tắc đồng hữu tác phàm hữu tác giả giai vô thường dĩ vô thường vi pháp thân giả tắc
+   　nhất thiết thế gian vô thường chi sự giai như lai hĩ thử nãi sinh diệt pháp ngã cập
+   　chư phật giai bất hứa dã nhược ngôn như lai phi sở tác giả tắc pháp thân tuyệt vô
+   　thể tính khả đắc tuy thiết lập chủng chủng phương tiện pháp môn tất không vô ích đồng ư
+   　thỏ giác thạch nữ chi tử tất cánh vô cố thử nãi đoạn/đoán diệt pháp ngã cập chư phật
+   　diệc bất hứa dã cố viết nhị câu hữu quá ngôn tác giả đoạ ư hữu ngôn bất tác
+   　giả đoạ ư vô hựu hữu ngôn vô quả vô nhân giả tức phi hữu phi vô thị phi
+   　hữu phi vô kiến giả tuy khiển hữu vô nhị biên thật bất li hữu vô tứ cú phân
+   　biệt pháp viết hữu cú viết vô cú viết diệc hữu diệc vô cú viết phi hữu phi vô
+   　cú thử tứ cú pháp giả nãi thế gian ngoại đạo vọng tưởng ngôn thuyết trí giả sở bất
+   　đạo dã nhược năng siêu xuất tứ cú ngoại giả tắc bất đoạ tứ cú tà kiến trung li
+   　tứ cú tuyệt bá phi độc lộ chân thường bất vi tà luận sở hoặc cố vi trí giả
+   　sở thủ ngã cập nhất thiết như lai cú nghĩa li nhân quả li năng sở li nhất dị
+   　câu bất câu diệc như thị bất đoạ tứ cú dã bất đoạ tứ cú tức vô chư quá
+   　cụ tuệ nhãn giả năng li nhất thiết hữu vô chư kiến đương năng ban thử hĩ bá trượng
+   　vân sâm thiện tri thức cầu mịch nhất tri nhất giải thị thiện tri thức ma sinh ngữ kiến
+   　cố nhược phát tứ hoằng thệ nguyện độ nhất thiết chúng sinh tận nhiên hậu ngã thuỷ thành phật
+   　thị bồ tát pháp trí ma thệ nguyện bất tướng xả cố nhược trì trai giới tu thiền học
+   　tuệ thị hữu lậu thiện túng nhiên toạ đạo trường thị hiện thành đẳng chính giác độ hằng sa
+   　số nhân tận chứng tị chi phật quả thị thiện căn ma khởi tham trước cố nhược ư chư
+   　pháp đô vô tham nhiễm thần lí độc tồn trụ thậm thâm thiền định canh bất thăng tấn thị
+   　tam muội ma cửu đam ngoạn cố chí vô thượng niết bàn li dục tịch tĩnh thị ma nghiệp
+   　nhược trí tuệ thoát nhược can ma võng bất khứ túng giải bá bản vi di kinh tận thị
+   　địa ngục chỉ nhược mịch như phật tướng tự vô hữu thị xứ như kim văn thuyết bất trước
+   　thiện ác hữu vô đẳng pháp tức vi đoạ không bất tri khí bản trục mạt khước thị đoạ
+   　không dã cầu phật cầu bồ đề cập nhất thiết hữu vô đẳng pháp thị khí bản trục mạt
+   　chi như kim thô thực trợ mệnh bổ phá già hàn hạt tắc cúc thuỷ khiết dư ngoại đãn
+   　thị nhất thiết hữu vô đẳng pháp đô vô tiêm hào hệ niệm thử nhân tiêm hữu khinh minh
+   　phân thiện tri thức bất chấp hữu bất chấp vô thoát đắc thập cú ma ngữ xuất ngữ bất
+   　hệ phọc nhân sở hữu ngôn thuyết bất tự xưng sư thuyết như cốc hưởng ngôn mãn thiên hạ
+   　vô khẩu quá kham y chỉ nhược đạo ngã năng thuyết năng giải thuyết ngã thị hòa thượng nhữ
+   　thị đệ tử giá cá đồng ư ma thuyết vô đoan thuyết đạo mục kích đạo tồn thị phật
+   　bất thị phật thị bồ đề niết bàn giải thoát đẳng vô đoan thuyết nhất tri nhất giải kiến
+   　cử nhất thủ thụ nhất chỉ vân thị thiền thị đạo giá cá ngữ hệ phọc nhân vị hữu
+   　trụ thời chi thị trùng tăng tỉ khâu thằng sách túng nhiên bất thuyết diệc hữu khẩu quá ninh
+   　tác tâm sư bất sư ư tâm bất liễu nghĩa giáo hữu nhân thiên sư hữu đạo sư liễu
+   　nghĩa giáo trung bất vi nhân thiên sư bất sư ư pháp vị năng y đắc huyền giám thả
+   　y đắc liễu nghĩa giáo do hữu tướng thân phân nhược thị bất liễu nghĩa giáo kì hợp lung
+   　tục nhân tiền thuyết chi như kim đãn bất y trụ nhất thiết hữu vô chư pháp diệc bất
+   　tác vô y trụ diệc bất tác bất y trụ tri giải thị danh đại thiện tri thức diệc
+   　vân duy phật nhất nhân thị đại thiện tri thức vi vô lưỡng nhân dư giả tận danh ngoại
+   　đạo diệc danh ma thuyết quan thử túc tri vô thượng chính đẳng chính giác cố phi hữu vô
+   　tứ cú chư pháp sở khả nghĩ dã 。
+như ngã sở thuyết nhất thiết pháp vô ngã đương tri thử nghĩa vô ngã tính thị vô ngã nhất
+thiết pháp hữu tự tính vô tha tính như ngưu mã (đường vân như ngã sở thuyết chư pháp vô ngã dĩ chư pháp trung vô hữu ngã tính
+cố thuyết vô ngã phi thị vô hữu chư pháp tự tính )đại tuệ thí như phi ngưu mã tính phi mã ngưu tính kì thật
+phi hữu phi vô bỉ phi vô tự tính như thị (đường vân thí như ngưu vô mã tính mã vô ngưu tính phi vô tự tính nhất thiết
+chư pháp diệc phục như thị )đại tuệ nhất thiết chư pháp phi vô tự tướng hữu tự tướng đãn phi vô ngã
+ngu phu chi sở năng tri dĩ vọng tưởng cố như thị nhất thiết pháp không vô sinh vô tự
+tính đương như thị tri 。
+   　thông viết nhất thiết như lai cú nghĩa bất đoạ tứ cú pháp trung hà dĩ tất tuệ giả
+   　nhiên hậu tri dã như ngã sở thuyết nhất thiết pháp vô ngã phi thị luân ư đoạn/đoán diệt
+   　nhất vô sở hữu chi vị dã đương tri thử nghĩa vị nhất thiết pháp vô hữu chủ tể
+   　bản vô thật tính danh viết vô ngã đãn trừ vọng ngã nhĩ phi trừ chân ngã dã nhất
+   　thiết pháp giai tự tâm sở hiện các các hữu chân thật tự tính vô tha phân biệt vọng
+   　tưởng chi tính thí như tha nhân thân trung vô hữu ngã tính ngã tự thân trung vô hữu
+   　tha tính phi vô tự tính dã như ngưu mã nhiên thí như phi ngưu hữu mã tính phi
+   　mã hữu ngưu tính ngưu thể thượng bất đắc thuyết mã tính thị hữu thị vô nhiên phi vô
+   　ngưu tự tính dã mã thể thượng bất đắc thuyết ngưu tính thị hữu thị vô nhiên phi vô
+   　mã tự tính dã nhất thiết chư pháp diệc phục như thị phi ngã nhi vọng chấp vi ngã
+   　tức thị phân biệt tức thị tha tính chân như tính trung vô ngã khả đắc tức vô phân
+   　biệt tức thị tự tính cố nhất thiết chư pháp vô hữu tự tướng nhi phi hữu tức hữu
+   　phi vô chân thật tự tính thật hữu chân thật tự tính chân thật tự tính tức thường trụ
+   　tự tướng đãn phi đoạn/đoán diệt vô ngã ngu phu ngoại đạo chi sở năng tri dã dĩ bỉ
+   　vọng tưởng phân biệt chấp phi ngã nhi vi ngã tưởng tức đoạn/đoán diệt chí vô ngã chi địa
+   　diệc do vọng tưởng phân biệt tuy vô ngã diệc ngã dã bỉ kí chấp hư vọng chi ngã
+   　khởi năng tri chân thật chi ngã hồ nhược năng ngộ tri chân thật tự tướng giả như thị
+   　nhất thiết pháp không như thị nhất thiết pháp vô sinh như thị nhất thiết pháp vô tự tính
+   　tức thị ngã sở thuyết vô ngã nghĩa dã thuyết không khởi thiên không tai chân không cố bất
+   　không dã thuyết vô không khởi đoạn/đoán diệt bất sinh tai thường sinh tức bất sinh dã thuyết vô
+   　tự tính khởi chân vô tính tai đãn vô tha tính nhĩ thuyết vô ngã khởi chân vô ngã
+   　tai đãn vô vọng ngã nhĩ minh ư thị nghĩa phương khả ngữ tuệ tuệ giả đương như thị
+   　tri khởi phàm ngu sở năng tri hồ ôn tháo thượng thư vấn khuê phong thiền sư viết ngộ
+   　lí tức vọng chi nhân bất kết nghiệp nhất kì thọ chung chi hậu linh tính hà y sư
+   　viết nhất thiết chúng sinh vô bất cụ hữu giác tính linh minh không tịch dữ phật vô thù
+   　đãn dĩ vô thuỷ kiếp lai vị tằng liễu ngộ vọng chấp thân vi ngã tướng cố sinh ái
+   　ác đẳng tình tùy tình tạo nghiệp tùy nghiệp thụ báo sinh lão bệnh tử trường kiếp luân hồi
+   　nhiên thân trung giác tính vị tằng sinh tử như mộng bí khu dịch nhi thân bản an nhàn
+   　như thuỷ tác băng nhi thấp tính bất dị nhược năng ngộ thử tính tức thị pháp thân bản
+   　tự vô sinh hà hữu y thác linh linh bất muội liễu liễu thường tri vô sở tùng lai
+   　diệc vô sở khứ nhiên đa sinh vọng chấp tập dĩ tính thành hỉ nộ ai lạc/nhạc/nhạo vi tế
+   　lưu chú chân lí tuy nhiên đốn đạt thử tinh nan dĩ tốt trừ tu trường trường giác sát
+   　tổn chi hựu tổn như phong đốn chỉ ba lang tiêm đình khởi khả nhất sinh sở tu tiện
+   　đồng chư phật lực dụng đãn khả dĩ không tịch vi tự thể vật nhận sắc thân dĩ linh
+   　tri vi tự tâm vật nhận vọng niệm vọng niệm nhược khởi đô bất tùy chi tức lâm mệnh
+   　chung thời tự nhiên nghiệp bất năng hệ tuy hữu trung âm sở hướng tự do thiên thượng nhân
+   　gian tùy ý kí thác nhược ái ác chi niệm dĩ dân tức bất thụ phân đoạn chi thân
+   　tự năng viên đoản vi trường dị thô vi diệu nhược vi tế lưu chú nhất thiết tịch diệt
+   　duy dị giác đại trí lãng nhiên độc tồn tức tùy cơ ưng hiện thiên bá ức hoá thân
+   　độ hữu duyên chúng sinh danh chi vi phật ngoạn khuê phong ngữ nhi chân ngã vọng ngã chi
+   　ban đương tự liễu nhiên 。
+như thị như lai dữ âm phi dị phi bất dị nhược bất dị âm giả ưng thị vô thường
+nhược dị giả phương tiện tắc không nhược nhị giả ưng hữu dị như ngưu giác tướng tự cố bất
+dị trường đoản sai biệt cố hữu dị nhất thiết pháp diệc như thị đại tuệ như ngưu hữu giác
+dị tả giác tả giác dị hữu giác như thị trường đoản chủng chủng sắc các các dị đại tuệ
+như lai ư âm giới nhập phi dị phi bất dị 。
+   　thông viết thượng ngôn vô ngã phi vô tự tướng hữu tự tướng thử tự tướng tức như lai
+   　pháp thân dã nhược vị như lai pháp thân li ngũ âm sắc thân nhi hậu hiển giả tức
+   　thị ngoại đạo tà kiến cố vị như lai pháp thân dữ ngũ âm sắc thân phi dị phi
+   　bất dị nhược pháp thân dữ ngũ âm bất dị giả ngũ âm thị sở tác pháp thiên tạ
+   　vô thường pháp thân diệc ưng vô thường nhược pháp thân dữ ngũ âm dị giả tắc pháp thân
+   　đoạ tại ngoan không nhất thiết tu chứng phương tiện giai vô sở thí thị pháp thân dữ âm
+   　nhược nhị vật giả ưng li ngũ âm nhi hữu pháp thân li pháp thân nhi hữu ngũ âm
+   　bất khả vi nhất dã kim pháp thân tức tại ngũ âm chi trung ngũ âm tức tại pháp
+   　thân chi trung bất khả vị dị ư thử sinh dị bất dị kiến giả như ngưu lưỡng giác
+   　hỗ tướng tự cố bản bất dị nhiên dĩ trường đoản sai biệt cố thuyết danh vi dị nhất
+   　thiết chư pháp giai diệc như thị ưng vô dị tướng nhi hữu dị tướng dã như ngưu hữu
+   　giác dữ tả dị tả giác dữ hữu dị nãi chí trường đoản bất đồng sắc tướng phân biệt
+   　chủng chủng sai thù nhiên diệc phi dị hình hữu trường đoản phi li ngưu giác nhi hữu trường
+   　đoản dã sắc hữu hắc bạch phi li ngưu giác nhi hữu hắc bạch dã như thiêu cung điện
+   　viên lâm kiến chủng chủng diệm hoả tính thị nhất sở xuất quang diệm do tân lực cố trường
+   　đoản đại tiểu các các sai thù sở dĩ như lai pháp thân chi tướng ư ngũ âm lục
+   　nhập thập bát giới trung bất khả thuyết nhất bất khả thuyết dị nhược thuyết nhất giả hữu nhị
+   　nhiên hậu thuyết nhất bỉ vị thường nhị hà dụng thuyết nhất nhược thuyết dị giả phi đồng nhiên
+   　hậu thuyết dị bỉ bản thị đồng hà dụng thuyết dị duy kì phi dị phi bất dị cố
+   　phi ngôn luận sở cập đãn khả tuệ giả tự tri nhi dĩ hoàng bách vân học đạo nhân
+   　nhược dục tri yếu quyết đãn mạc ư tâm thượng trước nhất vật ngôn phật chân pháp thân do
+   　nhược hư không thử dụ pháp thân tức hư không hư không tức pháp thân thường nhân vị pháp
+   　thân biến hư không xứ hư không trung hàm dong pháp thân bất tri pháp thân tức hư không
+   　hư không tức pháp thân dã nhược định ngôn hữu hư không hư không bất thị pháp thân nhược
+   　định ngôn hữu pháp thân pháp thân bất thị hư không đãn mạc tác hư không giải hư không
+   　tức pháp thân mạc tác pháp thân giải pháp thân tức hư không hư không dữ pháp thân vô
+   　dị tướng phật dữ chúng sinh vô dị tướng sinh tử dữ niết bàn vô dị tướng phiền não
+   　dữ bồ đề vô dị tướng li nhất thiết tướng tức thị phật cố bất dĩ trường đoản chủng
+   　chủng sắc quan ngưu giác giả ngưu giác đãn nhất nhi dĩ 。
+như thị như lai giải thoát phi dị phi bất dị như thị như lai dĩ giải thoát danh thuyết
+nhược như lai dị giải thoát giả ưng sắc tướng thành sắc tướng thành cố ưng vô thường nhược bất
+dị giả tu hành giả đắc tướng ưng vô phân biệt nhi tu hành giả kiến phân biệt thị cố
+phi dị phi bất dị (ngụy vân nhược như lai pháp thân bất dị giải thoát giả tắc vô năng chứng sở chứng sai biệt nhi tu hành giả tắc kiến năng chứng cập dĩ
+sở chứng phi bất dị dã )。
+   　thông viết thượng ngôn pháp thân dữ ngũ âm phi dị phi bất dị như lai tạng tính bản
+   　như thị nhiên hữu tại triền xuất triền chi biệt cố xuất triền giả danh vi giải thoát giải
+   　thoát giả thị như lai tướng ưng hành bất khả thuyết nhất bất khả thuyết dị vị giải thoát
+   　thời tắc pháp thân ẩn kí giải thoát thời tắc pháp thân hiển như thị y giải thoát cố
+   　thuyết danh như lai pháp thân chi tướng hà ngôn hồ phi dị phi bất dị dã nhược ngôn
+   　dị giả giải thoát nhất vô sở hữu pháp thân bất li ư hữu kí hữu pháp thân khả
+   　đắc ưng thị sắc tướng sở thành sắc tướng vô thường chung quy hoại diệt pháp thân bất như
+   　thị dã cố bất khả ngôn dị nhược ngôn bất dị giả tắc vô năng chứng sở chứng sai
+   　biệt tu hành giả dĩ giải thoát nhi đắc pháp thân chi tướng ưng vô phân biệt nhiên nhi
+   　tu hành giả tắc kiến giải thoát vi năng chứng chi pháp pháp thân vi sở chứng chi lí
+   　phân biệt lịch nhiên hựu vị thường bất dị dã duy kì phi dị phi bất dị giản biện
+   　bất xuất cố bất khả thuyết thị nhất bất khả thuyết thị dị dã tăng vấn trung quốc sư
+   　như hà thị giải thoát sư viết chư pháp bất tướng đáo đương xứ giải thoát viết nhẫm ma
+   　tức đoạn/đoán khứ dã sư viết hướng nhữ đạo chư pháp bất tướng đáo đoạn/đoán thậm ma hựu tăng
+   　vấn nhược vi đắc thành phật khứ sư viết phật dữ chúng sinh nhất thời phóng khước đương xứ
+   　giải thoát viết tác ma sinh đắc tướng ưng khứ sư viết thiện ác bất tư tự kiến phật
+   　tính viết nhược vi đắc chứng pháp thân sư viết việt tì lô chi cảnh giới viết thanh tịnh
+   　pháp thân tác ma sinh đắc sư viết bất trước phật cầu nhĩ viết a na cá thị phật
+   　sư viết tức tâm thị phật viết tâm hữu phiền não phủ sư viết phiền não tính tự li
+   　viết khởi bất đoạn/đoán da sư viết đoạn/đoán phiền não giả tức danh nhị thừa phiền não bất sinh
+   　danh đại niết bàn quốc sư chủng chủng thuyết thoại tổng phát minh như lai giải thoát phi dị
+   　phi bất dị cảnh giới 。
+như thị trí cập nhĩ diễm phi dị phi bất dị đại tuệ trí cập nhĩ diễm phi dị phi
+bất dị giả phi thường phi vô thường phi tác phi sở tác phi hữu vi phi vô vi phi
+giác phi sở giác phi tướng phi sở tướng phi âm phi dị âm phi thuyết phi sở thuyết phi
+nhất phi dị phi câu phi bất câu phi nhất phi dị phi câu phi bất câu cố tất li
+nhất thiết lượng li nhất thiết lượng tắc vô ngôn thuyết vô ngôn thuyết tắc vô sinh vô sinh tắc
+vô diệt vô diệt tắc tịch diệt tịch diệt tắc tự tính niết bàn tự tính niết bàn tắc vô
+sự vô nhân vô sự vô nhân tắc vô phàn duyên vô phàn duyên tắc xuất quá nhất thiết hư
+nguỵ xuất quá nhất thiết hư nguỵ tắc thị như lai như lai tắc thị tam miệu tam phật đà
+đại tuệ thị danh tam miệu tam phật đà phật đà đại tuệ tam miệu tam phật đà phật đà
+giả li nhất thiết căn lượng 。
+   　thông viết thượng ngôn tu hành giả đắc tướng ưng vô phân biệt nhi tu hành giả kiến phân
+   　biệt nhiên hữu phân biệt giả nhĩ diễm thức dã nhất niệm tướng ưng vô phân biệt giả ban
+   　nhược trí dã nhĩ diễm thử vân sở tri kí pháp thân dữ giải thoát phi dị bất dị
+   　như thị ban nhược chi trí cập sở tri chi cảnh diệc bất khả thuyết nhất diệc bất khả
+   　thuyết dị hà ngôn hồ phi dị phi bất dị dã ban nhược chân trí chư pháp sở bất
+   　năng duyên duy bất năng duyên cố năng tức sở tri li sở tri dã duy tức sở tri
+   　bất kiến kì dị duy li sở tri bất kiến kì bất dị dĩ vô nhất pháp khả đắc
+   　cố như tiền đại tuệ sở cử tác phi tác thị thường vô thường nghĩa giác phi giác thị
+   　hữu vi vô vi nghĩa tướng sở tướng tức âm phi âm nghĩa thuyết phi thuyết tức nhất dị
+   　câu bất câu nghĩa dĩ thượng chủng chủng từ cú các dĩ kiến văn giác tri vi lượng nhi
+   　thuyết nhất thiết pháp tổng bất li sở tri số lượng tổng bất li ngôn thuyết phân biệt thật
+   　bất xuất tứ cú pháp dã ban nhược trí trung nhất vô sở hữu viễn li nhất thiết tâm
+   　lượng phi nhất thiết tâm lượng sở cập tức viễn li nhất thiết ngôn thuyết phi nhất thiết ngôn
+   　thuyết sở cập kí vô ngôn thuyết tức bản vô sinh đại phàm hữu sinh tức hữu diệt kí
+   　vô sở sinh tắc vô sở diệt đại phàm hữu diệt giả tức hệ công huân sở trí duy
+   　vô sở diệt tắc bản tự tịch nhiên bất đãi diệt chi nhi hậu diệt dã thử tịch diệt
+   　giả tức thị tự tính niết bàn bất sinh bất diệt duy tự tính niết bàn bất sinh bất
+   　diệt cố viễn li ư sinh diệt phàm thế gian hữu sở chứng chi quả cập sở tu chi
+   　nhân tổng thuộc sinh diệt biên sự thử niết bàn hư không phi tác phi sở tác tức vô
+   　sự vô nhân khả đắc kí vô nhân quả nhi nhất thiết ý tưởng hà sở phàn duyên thử
+   　niết bàn hư không phi giác phi sở giác tức vô vọng tưởng phàn duyên khả đắc kí vô
+   　phàn duyên tắc siêu quá thế gian nhất thiết hư nguỵ như ngoại đạo nhị thừa đẳng kiến bất
+   　li tứ cú hí luận đẳng pháp thử niết bàn hư không phi thuyết phi sở thuyết duy thử
+   　nhất sự thật dư nhị tắc phi chân tức thử chứng ư chân như thật tế cố danh viết
+   　như lai dã như lai giả tức thị phật đà duy thành vô thượng chính đẳng chính giác cố
+   　danh viết tam miệu tam phật đà phật đà dã phu tam miệu tam phật đà phật đà giả
+   　ư thế xuất thế gian đẳng pháp vô sở bất tri cụ nhất thiết trí cố viết biến giác
+   　năng tự khai giác cụ nhất thiết chủng trí cố viết chính giác sứ vị siêu xuất nhất thiết
+   　căn lượng tức đoạ ư nhất thiết căn lượng chi trung nhi nhĩ diễm thức vị vô khứ ban
+   　nhược trí thượng viễn duy năng viễn li tâm ý ý thức chư căn lượng đẳng chuyển thức thành
+   　trí đỗng triệt vô ngại biến giác tức thị chính giác chính giác tức thị biến giác cố viết
+   　trí cập nhĩ diễm phi dị phi bất dị dã hợp tiền pháp thân dữ giải thoát phi dị
+   　phi bất dị thị pháp thân ban nhược giải thoát tam đức viên dung tổng danh tự tính niết
+   　bàn dã vĩnh gia vân pháp thân bất nghi tức ban nhược ban nhược vô trước tức giải thoát
+   　giải thoát tịch diệt tức pháp thân như viên y tam điểm phi dị phi bất dị niết bàn
+   　diệu đức như thị phi phật đà bất chứng dã hạo nguyệt cung phụng vấn trường sa sầm viết
+   　thiên hạ thiện tri thức chứng tam đức niết bàn dã vị sư viết đại đức vấn quả thượng
+   　niết bàn nhân trung niết bàn viết vấn quả thượng niết bàn viết thiên hạ thiện tri thức vị
+   　chứng viết vi thậm vị chứng sư viết công vị tề ư chư thánh viết công vị tề ư
+   　chư thánh hà danh vi thiện tri thức sư viết minh kiến phật tính diệc đắc danh vi thiện
+   　tri thức viết vị thẩm công tề hà đạo danh chứng đại niết bàn sư thị kệ viết ma
+   　ha ban nhược chiếu giải thoát thậm thâm pháp pháp thân tịch diệt thể tam nhất lí viên thường
+   　dục thức công tề xứ thử danh thường tịch quang viết quả thượng tam đức niết bàn dĩ mông
+   　khai thị như hà thị nhân trung niết bàn sư viết đại đức thị thử kinh thuyết vô sự
+   　vô nhân trường sa thuyết quả thượng niết bàn cập nhân trung niết bàn thiện quan chi diệc phi
+   　dị phi bất dị 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+tất li chư căn lượng vô sự diệc vô nhân dĩ li giác sở giác diệc li tướng sở tướng
+âm duyên đẳng chính giác nhất dị mạc năng kiến (ngụy vân chư duyên cập ngũ âm phật bất kiến nhất pháp )nhược vô hữu kiến
+giả vân hà nhi phân biệt phi tác phi bất tác phi sự diệc phi nhân phi âm phi tại
+âm diệc phi hữu dư tạp (đường vân phi âm phi bất âm diệc bất li dư vật ngụy vân phi âm phi li âm diệc bất tại dư xứ )diệc phi
+hữu chư tính như bỉ vọng tưởng kiến đương tri diệc phi vô thử pháp pháp diệc nhĩ dĩ hữu
+cố hữu vô dĩ vô cố hữu hữu nhược vô bất ưng thụ nhược hữu bất ưng tưởng (đường vân vô kí
+bất khả thủ hữu diệc bất ưng thuyết )thành ư ngã phi ngã ngôn thuyết lượng lưu liên trầm nịch ư nhị biên tự
+hoại hoại thế gian giải thoát nhất thiết quá chính quan sát ngã thông thị danh vi chính quan bất
+huỷ đại đạo sư 。
+   　thông viết thử tổng tụng chính đẳng chính giác viễn li chư quá dã căn lượng bất li kiến
+   　văn giác tri cảnh giới đãn dĩ bát thức vi căn chuyển thức thành trí viễn li chư pháp
+   　căn lượng tức chứng ư thanh tịnh pháp thân bản vô quả sự diệc vô tu nhân như thị
+   　nhất thiết giai li dĩ li năng giác chi nhân diệc li sở giác chi pháp vân hà canh
+   　hữu ngũ âm chi tướng cập ngũ âm sở duyên chi tướng hồ viết li tướng sở tướng phi
+   　nhất thiết vô tướng chi vị dã ngũ âm cập chư duyên dĩ đẳng chính giác quan chi dữ
+   　tự tính pháp thân bình đẳng vô nhị bất kiến kì nhất bất kiến kì dị kí vô nhất
+   　dị khả kiến an sở phân biệt chi viết phi nhất phi dị phi câu phi bất câu da
+   　như thị phân biệt kí vô tức phi bỉ đạo ngoại sở vân tác bất tác diệc phi bỉ
+   　nhị thừa sở vân quả dữ nhân nhi tự tính thanh tịnh pháp thân phi tức ngũ âm phi
+   　li ngũ âm diệc bất tạp ư dư vật chung bất xuất ư ngũ âm cập duyên chi tướng
+   　dã nhiên nhi thử âm cập duyên chi tướng kiến kì hữu giả vọng tưởng chấp chi dĩ vi
+   　hữu kiến kì vô giả vọng tưởng chấp chi dĩ vi vô kì thật phi hữu tự tính như
+   　bỉ vọng tưởng phân biệt kiến nhất thiết hữu diệc phi luân ư hư vô như bỉ vọng tưởng
+   　phân biệt kiến nhất thiết vô thử pháp pháp tự nhĩ pháp pháp giai như bất hữu bất vô
+   　nhất thiết bình đẳng thử nhất thiết chư pháp bản tự như thị bỉ hữu vô vọng kiến nhân
+   　đối đãi nhi thành dĩ tiên hữu cố ngôn vô dĩ tiên vô cố ngôn hữu nhược vô đối
+   　đãi tức hữu vô bất thành thị cố ư vô bất ưng thủ trước nhi thuyết vô dĩ vô
+   　diệc vô tự tính cố ư hữu bất ưng phân biệt nhi thuyết hữu dĩ hữu diệc vô tự
+   　tính cố hữu vô nhị pháp phi hữu tự tính tắc bỉ sở vân tác bất tác cập quả
+   　dữ nhân giả bất li hồ tướng sở tướng ác năng miễn ư quá tai bỉ duy mê hoặc
+   　ư ngũ âm trung kế sắc trung ngã ngã trung sắc li sắc thị ngã li ngã thị sắc
+   　phàm nhị thập chủng ngã kiến bất liễu ngã phi ngã chân như thật nghĩa duy nhất chân ngã
+   　vô bỉ vọng ngã liễu chân ngã giả tức li ngôn thuyết bỉ duy bất liễu đãn trước ư
+   　ngôn thuyết số lượng lưu liên bất xả trầm nịch ư hữu vô đoạn/đoán thường nhị biên bất độc
+   　tự hoại thả hoại thế gian đoạ hữu giả chư thú tướng tục đoạ vô giả đoạn/đoán diệt chủng
+   　tính hữu như thị quá hà do nhi đắc giải thoát hồ nhược năng thông ư ngã pháp như
+   　lai pháp thân ư âm giới nhập phi dị phi bất dị tức bất đoạ nhị biên tà kiến
+   　tức bất đoạ tứ cú ngôn thuyết số lượng siêu nhiên giải thoát viễn li nhất thiết hư nguỵ
+   　chi quá do ư chính niệm quan sát đắc tự tông thông ư nhất thiết pháp liễu vô nhất
+   　dị khả đắc thị danh vi chính quan thị danh vi chính biến chính giác bất báng như lai
+   　đại pháp thừa dã cố viết bất huỷ đại đạo sư bá trượng vân tu ban chủ khách ngữ
+   　tham nhiễm nhất thiết hữu vô cảnh pháp bí nhất thiết hữu vô cảnh hoặc loạn tự tâm thị
+   　ma vương chiếu dụng thuộc ma dân chi như kim giám giác đãn bất y trụ nhất thiết hữu
+   　vô chư pháp thế gian xuất thế gian pháp diệc bất tác bất y trụ tri giải diệc bất
+   　y trụ vô tri giải tự tâm thị phật chiếu dụng thị bồ tát tâm thị chủ tể chiếu
+   　dụng thuộc khách trần như li ba thuyết thuỷ chiếu vạn tượng dĩ vô công nhược năng tịch chiếu
+   　bất tự huyền bá tự nhiên quán quán ư cổ kim như vân thần vô chiếu công chí công
+   　thường tồn năng nhất thiết xứ vi đạo sư cố bá trượng hữu như thị chính quan sở dĩ
+   　vi bá thế sư dã 。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn như thế tôn thuyết tu đa la nhiếp
+thụ bất sinh bất diệt hựu thế tôn thuyết bất sinh bất diệt thị như lai dị danh vân hà
+thế tôn vi vô tính cố thuyết bất sinh bất diệt vi thị như lai dị danh (đường vân như phật kinh trung
+phân biệt nhiếp thủ bất sinh bất diệt ngôn thử tức thị như lai dị danh thế tôn nguyện vi ngã thuyết bất sinh bất diệt thử tắc vô pháp vân hà thuyết thị như lai dị danh như thế tôn thuyết
+nhất thiết pháp bất sinh bất diệt đương tri thử tắc đoạ hữu vô kiến )phật cáo đại tuệ ngã thuyết nhất thiết pháp bất sinh bất
+diệt hữu vô phẩm bất hiện đại tuệ bạch phật ngôn thế tôn nhược nhất thiết pháp bất sinh giả
+tắc nhiếp thụ pháp bất khả đắc nhất thiết pháp bất sinh cố nhược danh tự trung hữu pháp giả
+duy nguyện vi thuyết phật cáo đại tuệ thiện tai thiện tai đế thính đế thính thiện tư niệm chi
+ngô đương vi nhữ phân biệt giải thuyết đại tuệ bạch phật ngôn duy nhiên thụ giáo phật cáo đại
+tuệ ngã thuyết như lai phi vô tính diệc phi bất sinh bất diệt nhiếp nhất thiết pháp diệc bất
+đãi duyên cố bất sinh bất diệt diệc phi vô nghĩa đại tuệ ngã thuyết ý sinh pháp thân như
+lai danh hiệu (đường vân ngã thuyết vô sinh tức thị như lai ý sinh pháp thân biệt dị chi danh )bỉ bất sinh giả nhất thiết ngoại đạo
+thanh văn duyên giác thất trụ bồ tát phi kì cảnh giới đại tuệ bỉ bất sinh tức như lai
+dị danh đại tuệ thí như nhân đà la thích ca bất lan đà la (phạm ngữ thích ca đề bà nhân đà la thử
+vân đế thích hựu vân phú lan đà hựu vân kiêu thi ca giai đế thích dị danh )như thị đẳng chư phật nhất nhất các hữu đa danh
+diệc phi đa danh nhi hữu đa tính diệc phi vô tự tính (đường vân thí như đế thích địa cập hư không nãi chí thủ túc
+tùy nhất nhất vật các hữu đa danh phi dĩ đa danh nhi hữu đa thể diệc phi vô thể )。
+   　thông viết thượng ngôn pháp thân giải thoát ban nhược vi nhất thể dĩ li tướng hĩ chí thử
+   　hựu dục li danh cố đại tuệ vấn thế tôn sở thuyết khế kinh xứ xứ thuyết ngôn chư
+   　pháp bất sinh bất diệt thế tôn phục ngôn bất sinh bất diệt giả thị như lai dị danh
+   　nhiên thế tôn vi nhất thiết pháp giai vô tự tính cố thuyết bất sinh bất diệt da vi
+   　kiến như lai dị danh bất sinh bất diệt da nhược thuyết chư pháp bất sinh bất diệt vi
+   　vô tính giả kí đoạ ư vô hựu thuyết thị như lai dị danh giả phục đoạ ư hữu
+   　thử tắc đoạ hữu vô kiến phật thuyết nhất thiết pháp bất sinh bất diệt phi thế gian hữu
+   　vô kiến sở hiện khởi hữu vô pháp dã duy bất sinh tắc bất hữu duy bất diệt tắc
+   　bất vô bất hữu bất vô tức siêu xuất hữu vô chi lượng nguyên phi hữu vô cố hữu
+   　vô phẩm bất hiện đại tuệ phục dĩ hữu vô bất hiện tức nhất thiết pháp bất sinh nhược
+   　nhất thiết pháp bản bất sinh tắc khế kinh sở nhiếp thụ giả diệc bất khả đắc vân hà
+   　hữu nhất thiết pháp pháp kí bất hữu thùy vi lập danh nhược y thí thiết danh tự trung
+   　biệt hữu pháp hợp ư bất sinh nghĩa giả duy nguyện thuyết chi phật thuyết như lai pháp thân
+   　phi thị vô vật bất đoạ ư vô dã diệc phi kinh quả nhiếp thụ bất sinh bất diệt
+   　pháp nhi bất sinh bất diệt quả nhiếp thụ nhất thiết pháp thật hữu pháp tướng khả đắc bất
+   　đoạ ư hữu dã tuy li hữu vô diệc phi đãi hữu vô sinh diệt duyên tận nhi hậu
+   　hiển kì bất sinh bất diệt dã bản tự bất sinh bất diệt cố kí bản bất sinh bất
+   　diệt nhi hựu thí thiết danh tự đẳng pháp phi hư vọng thuyết kì thật hữu nghĩa cố kì
+   　nghĩa vân hà ngã thuyết ý sinh pháp thân bất sinh nhi sinh sinh nhi vô sinh tức thị
+   　như lai dị danh bỉ bất sinh cảnh giới duy bát địa dĩ hạ thật chứng bình đẳng chân
+   　như phương năng liễu tri sinh tức bất sinh bất sinh tức sinh ư trung canh vô dị tướng
+   　khả đắc nhược nhất thiết ngoại đạo thanh văn duyên giác cập thất trụ bồ tát sở chứng tịch
+   　diệt vị năng xả tạng sinh diệt do tồn khởi năng tri thử bất sinh bất diệt chân cảnh
+   　giới da cố y ý sinh thân hữu vô sinh danh y vô sinh nghĩa hữu như lai danh
+   　phi vô chân thật chi nghĩa ngô cố vị bất sinh tức như lai dị danh dã thí như
+   　đế thích nhất danh thích đề hoàn nhân nhất danh phú lan đà nhất danh kiêu thi ca nãi
+   　chí địa cập hư không thủ túc đẳng chư vật nhất nhất các hữu đa danh đế thích như
+   　thị chư phật diệc như thị phi dĩ đa danh nhi hữu đa thể danh tuy đa nhi thể
+   　tắc nhất dã diệc phi vô tự thể tính chung luân ư hư vô nhi hậu vị chi bất
+   　sinh dã hà đắc vị nhất thiết pháp bất sinh toại bất ưng hữu dị danh da tích nam
+   　toàn vấn tăng giảng thậm ma kinh viết di lặc hạ sinh kinh toàn viết di lặc kỉ thời
+   　hạ sinh viết kiến tại thiên cung đương lai hạ sinh toàn viết thiên thượng vô di lặc địa
+   　hạ vô di lặc vân cư ưng vấn đỗng sơn thiên thượng vô di lặc địa hạ vô di
+   　lặc vị thẩm thùy dữ an danh đỗng sơn bí vấn trực đắc thiền sàng chấn động nãi viết
+   　ưng xà lê ngô tại vân nham tằng vấn lão nhân trực đắc hoả lô chấn động kim nhật
+   　bí tử nhất vấn trực đắc thông thân hàn lưu đỗng sơn tương viên tịch vị chúng viết ngô
+   　hữu nhàn danh tại thế thùy nhân vi ngô trừ đắc chúng giai vô đối thời sa di xuất
+   　viết thỉnh hòa thượng pháp hiệu sơn viết ngô nhàn danh dĩ tạ hậu thạch sương trước ngữ vân
+   　vô nhân đắc tha khẳng vân cư viết nhược hữu nhàn danh phi ngô tiên sư tào sơn vân
+   　tùng cổ chí kim vô nhân ban đắc sơ sơn vân long hữu xuất thuỷ chi thế vô nhân
+   　ban đắc nhược ư thử chư lão tú cú hạ sâm thấu đương tri bất sinh tức như lai
+   　dị danh dị danh tức tự bất sinh 。
+như thị đại tuệ ngã ư thử sa a (thử vân kham nhẫn )thế giới hữu tam a tăng kì (thử vân vô số )
+bá thiên danh hiệu ngu phu tất văn các thuyết ngã danh nhi bất giải ngã như lai dị danh
+đại tuệ hoặc hữu chúng sinh tri ngã như lai giả hữu tri nhất thiết trí giả hữu tri phật
+giả hữu tri cứu thế giả hữu tri tự giác giả hữu tri đạo sư giả hữu tri quảng đạo
+giả hữu tri nhất thiết đạo giả hữu tri tiên nhân giả hữu tri phạm giả hữu tri tì nữu
+(thử vân đại lực )giả hữu tri tự tại giả hữu tri thắng giả hữu tri ca tì la giả (phật sinh bỉ thành )
+hữu tri chân thật biên giả hữu tri nguyệt giả hữu tri nhật giả hữu tri vương giả hữu tri
+vô sinh giả hữu tri vô diệt giả hữu tri không giả hữu tri như như giả hữu tri đế
+giả hữu tri thật tế giả hữu tri pháp tính giả hữu tri niết bàn giả hữu tri thường giả
+hữu tri bình đẳng giả hữu tri bất nhị giả hữu tri vô tướng giả hữu tri giải thoát giả
+hữu tri đạo giả hữu tri ý sinh giả đại tuệ như thị đẳng tam a tăng kì bá thiên
+danh hiệu bất tăng bất giảm thử cập dư thế giới giai tất tri ngã như thuỷ trung nguyệt bất
+xuất bất nhập bỉ chư ngu phu bất năng tri ngã đoạ nhị biên cố nhiên tất cung kính cung
+dưỡng ư ngã nhi bất thiện giải tri từ cú nghĩa thú bất phân biệt danh bất giải tự thông
+kế trước chủng chủng ngôn thuyết chương cú ư bất sinh bất diệt tác vô tính tưởng bất tri như
+lai danh hiệu sai biệt như nhân đà la thích ca bất lan đà la bất giải tự thông hội
+quy chung cực ư nhất thiết pháp tùy thuyết kế trước 。
+   　thông viết thượng ngôn phi dĩ đa danh nhi hữu đa tính diệc phi vô tự tính thử hạ
+   　phục tường minh chi như lai hữu thập hiệu giả vị như lai ưng cung chính biến tri minh
+   　hành túc thiện thệ thế gian giải vô thượng sĩ điều ngữ trượng phu thiên nhân sư phật thế
+   　tôn vô thượng thế gian giải bản nhất hiệu niêm thượng thiện thệ giả phi dã chư phật giai
+   　nhiên vô số bá thiên danh hiệu ý bất xuất thử viết nhật viết nguyệt tức nhật quang nguyệt
+   　quang nhật diện nguyệt diện chi loại nhị dịch hữu ngưu vương sư tử như thuỷ như phong đẳng
+   　giai dĩ dụ danh hoa nghiêm danh hiệu phẩm vân như lai hữu tứ bá ức thập thiên danh
+   　pháp hoa thọ lượng phẩm vân ngã ư dư quốc tác phật canh hữu dị danh tính thị bất
+   　đồng danh hiệu phân biệt tuy hữu đa danh nhi thể bất dị bất tăng bất giảm vô khứ
+   　vô lai thử cập dư thế giới giai tất tri ngã giả như thuỷ trung nguyệt bất xuất bất
+   　nhập thuỷ dụ chúng sinh chi tâm nguyệt dụ như lai ưng thân chúng sinh tâm tịnh như lai
+   　tức hiện lương do pháp thân phổ ưng chúng sinh bình đẳng hiển hiện nhi vô khứ lai chi
+   　tướng như nhất nguyệt phổ hiện nhất thiết thuỷ nhất thiết thuỷ nguyệt nhất nguyệt nhiếp bất xuất bất
+   　nhập tức vô sinh diệt khả đắc vị chi ý sinh thân khả dã vị chi vô sinh diệc
+   　khả dã cố vị vô sinh tức như lai dị danh diệc khả dã bỉ chư ngu nhân tuy
+   　văn tuy thuyết nhi bất tri thị như lai dị danh do bỉ đoạ tại hữu vô nhị biên
+   　tà kiến tuy nhật cung kính cung dưỡng ư ngã do như thuỷ trược bất kiến minh nguyệt bất
+   　thiện giải tri từ cú nghĩa thú chí ư như lai chủng chủng dị danh y nghĩa nhi lập
+   　nghĩa tức thị danh danh tức thị nghĩa nguyên bất phân biệt thử bất phân biệt danh duy giải
+   　tự tông thông giả phương năng liễu tri bỉ vô tự thông đồ ư ngôn thuyết chương cú chủng
+   　chủng kế trước ư bất sinh bất diệt chi pháp siêu quá hữu vô chi biểu giả tác vô
+   　tính tưởng thị dĩ hữu vô nhị kiến phân biệt bất sinh bất diệt pháp dã thử tức bất
+   　li nhị biên tà kiến kí ư bất sinh bất diệt kiến dĩ vi vô hựu ư như lai
+   　dị danh kiến dĩ vi hữu bất tri thử bất sinh bất diệt tức thị như lai sai biệt
+   　danh hiệu diệc như đế thích chủng chủng dị danh ngôn tuy đa nhi thể tắc nhất dã bỉ
+   　duy bất giải tự thông bất năng quyết định danh dữ chân thật hội quy chung cực chi địa
+   　chỉ thử bất sinh bất diệt kì nghĩa thậm thâm bản li ngôn thuyết nãi ư nhất thiết pháp
+   　như ngôn thủ nghĩa nghĩa vi từ yểm do dĩ thuỷ trung nguyệt vi hữu xuất nhập dã bất
+   　diệc thâm khả mẫn tai tích mã đại sư bất an viện chủ vấn hòa thượng cận nhật tôn
+   　hậu như hà đại sư vân nhật diện phật nguyệt diện phật tuyết đậu tụng vân nhật diện phật
+   　nguyệt diện phật ngũ đế tam hoàng thị hà vật nhị thập niên lai tằng khổ tâm vi quân
+   　kỉ hạ thương long quật quật kham thuật minh nhãn nạp tăng mạc khinh hốt thiên đồng tụng vân
+   　nhật diện nguyệt diện tinh lưu điện quyển kính đối tượng nhi vô tư châu tại bàn nhi tự
+   　chuyển quân bất kiến siêm đôi tiền bá luyện chi kim đao xích hạ nhất cơ chi tuyến minh
+   　đắc thử đoạn công án vô nhất danh bất bá như lai chi hiệu vô nhất vật bất xiển
+   　già na chi hình tức dữ thử thậm thâm nghĩa tướng phù 。
+đại tuệ bỉ chư si nhân tác như thị ngôn nghĩa như ngôn thuyết nghĩa thuyết vô dị sở dĩ
+giả hà vị nghĩa vô thân cố ngôn thuyết chi ngoại canh vô dư nghĩa duy chỉ ngôn thuyết đại
+tuệ bỉ ác thiêu trí bất tri ngôn thuyết tự tính bất tri ngôn thuyết sinh diệt nghĩa bất sinh
+diệt đại tuệ nhất thiết ngôn thuyết đoạ ư văn tự nghĩa tắc bất đoạ li tính phi tính cố
+vô thụ sinh diệc vô thân (đường vân li hữu li vô cố vô sinh vô thể cố )đại tuệ như lai bất thuyết đoạ văn
+tự pháp văn tự hữu vô bất khả đắc cố trừ bất đoạ văn tự đại tuệ nhược hữu thuyết
+ngôn như lai thuyết đoạ văn tự pháp giả thử tắc vọng thuyết pháp li văn tự cố thị cố
+đại tuệ ngã đẳng chư phật cập chư bồ tát bất thuyết nhất tự bất đáp nhất tự sở dĩ
+giả hà pháp li văn tự cố phi bất nhiêu ích nghĩa thuyết ngôn thuyết giả chúng sinh vọng tưởng
+cố 。
+   　thông viết nhân thượng ngôn bất thiện giải tri từ cú nghĩa thú bất phân biệt danh vị danh
+   　đa thể nhất thể kí thị nhất tắc danh hữu đa chủng diệc vô phân biệt thị hữu phân
+   　biệt giả từ cú dã vô phân biệt giả nghĩa thú dã bỉ chư si nhân chấp trước danh
+   　tức thị nghĩa nghĩa tức thị danh chi thuyết tiện tác thị ngôn nghĩa dữ ngôn thuyết vô dị
+   　hữu đa danh tức ưng hữu đa nghĩa sở dĩ giả hà nghĩa vô thể đắc ngôn thuyết nhi
+   　thành thể cố ngôn thuyết chi ngoại canh vô dư nghĩa đãn chỉ ngôn thuyết nhi dĩ bỉ ác
+   　trí sở thiêu bất tri ngôn thuyết thể tướng bất tri ngôn thuyết hữu sinh diệt nhi nghĩa thú
+   　vô sinh diệt dã ngôn thuyết hà dĩ hữu sinh diệt vi kì đoạ ư ngữ ngôn văn tự
+   　dã hữu ngữ ngôn văn tự tức hữu sinh tướng khả kiến tức hữu định thể khả đắc hữu
+   　sinh giả tất diệt hữu thể giả tất hoại thị thuộc sinh diệt biên sự phi chân thật pháp
+   　dã nghĩa hà dĩ bất sinh diệt vi kì nhân văn tự nhi hiển thật bất đoạ ư văn
+   　tự trung dã nghĩa bản vô hình bất khả vị chi hữu kì thật hữu nghĩa bất khả vị
+   　chi vô kí bất thuộc hữu vô tức bản bất thụ sinh kí bản vô thụ sinh tức tự
+   　vô thể vô sinh tắc vô diệt vô thể tắc vô hoại cố vị nghĩa bất sinh diệt dã
+   　ngôn thuyết hữu tận nhi nghĩa vô tận thùy vị ngôn thuyết chi ngoại canh vô dư nghĩa hồ
+   　sở dĩ như lai thuyết pháp bất li văn tự diệc bất đoạ văn tự kí danh thuyết pháp
+   　hà dĩ bất đoạ văn tự dã dĩ pháp li ư hữu vô cố sở thuyết văn tự diệc
+   　li ư hữu vô thuyết tức mặc mặc tức thuyết cầu hữu vô chi tướng liễu bất khả đắc
+   　trừ li hữu vô bất đoạ văn tự chi thuyết như lai thường thuyết nhược hữu thuyết ngôn như
+   　lai thuyết pháp hữu văn tự tướng khả đắc thử tức vọng thuyết bất tri nhất thiết chư pháp
+   　li văn tự cố pháp siêu ư văn tự chi ngoại tức phi ngôn thuyết sở cập thị cố
+   　ngã kinh trung thuyết chư phật bồ tát bất thuyết nhất tự bất đáp nhất tự phương dữ bản
+   　pháp tướng ưng tài lạc ngữ ngôn tiện phi thật nghĩa sở dĩ giả hà nhất thiết chư pháp
+   　li văn tự cố sở dĩ chư phật bồ tát bất đoạ văn tự pháp dã nhiên chư phật
+   　bồ tát vi nhiêu ích nhất thiết chúng sinh cố phi bất tùy nghĩa phân biệt nhi thuyết duy
+   　thuyết quy ư nghĩa thuyết tức vô thuyết chúng sinh bất minh ư nghĩa dĩ vi thật hữu ngôn
+   　thuyết giả thử đãn chúng sinh vọng tưởng phân biệt kiến nhĩ bất tri pháp li văn tự cố
+   　vân môn thượng đường vân ngã sự bất hoạch dĩ hướng nễ chư nhân đạo trực hạ vô sự
+   　tảo thị tướng mai một liễu dã canh dục đạp bộ hướng tiền tầm ngôn trục cú giải hội
+   　thiên sai vạn biệt quảng thiết vấn nan doanh đắc nhất trường khẩu cốt khứ đạo chuyển viễn hữu
+   　thậm ma hưu yết thời thử sự nhược tại ngôn cú thượng tam thừa thập nhị phân giáo khởi
+   　thị vô ngôn ngữ nhân thậm canh đạo giáo ngoại biệt truyền nhược tùng học giải cơ trí đắc
+   　chỉ như thập địa thánh nhân thuyết pháp như vân như vũ do bí ha trách kiến tính như
+   　cách la hộc dĩ thử cố tri nhất thiết hữu tâm thiên địa huyền thù tuy nhiên như thử
+   　nhược thị đắc để nhân đạo hoả bất tằng thiêu khẩu chung nhật thuyết sự vị thường trụ trước
+   　thần xỉ vị thường đạo trước nhất tự chung nhật trước y khiết phạn vị thường xúc nhất lạp
+   　mễ quải nhất lũ ti tuy nhiên như thử do thị môn đình chi thuyết dã tu thị thật
+   　đắc nhẫm ma thuỷ đắc nhược ước nạp tăng môn hạ cú lí trình cơ độc lao trữ tư
+   　trực nhiêu nhất cú hạ thừa đương do thị hạp thụy hán thời hữu tăng vấn như hà thị
+   　nhất cú sư viết cử cổ đức vân bất lộ phong cốt cú vị ngữ tiên phân phó tấn
+   　bộ khẩu nam nam tri quân đại võng thố tông môn trung nhất đoạn kì đặc dĩ ư thử
+   　kinh tuyên duệ đãi tận phi chư tôn tú cố nan huyền hợp thử chỉ 。
+đại tuệ nhược bất thuyết nhất thiết pháp giả giáo pháp tắc hoại giáo pháp hoại giả tắc vô chư
+phật bồ tát duyên giác thanh văn nhược vô giả thùy thuyết vi thùy thị cố đại tuệ bồ tát
+ma ha tát mạc trước ngôn thuyết tùy nghi phương tiện diễn thuyết kinh pháp dĩ chúng sinh hi vọng
+phiền não bất nhất cố ngã cập chư phật vi bỉ chủng chủng dị giải chúng sinh nhi thuyết chư
+pháp linh li tâm ý ý thức cố bất vi đắc tự giác thánh trí xứ đại tuệ ư nhất
+thiết pháp vô sở hữu giác tự tâm hiện lượng li nhị vọng tưởng chư bồ tát ma ha tát
+y ư nghĩa bất y văn tự (đường vân linh tri chư pháp tự tâm sở hiện vô ngoại cảnh giới li thuyết sở thuyết nhị chủng vọng tưởng )。
+   　thông viết thượng ngôn pháp li văn tự cố ưng vô pháp khả thuyết nhi như lai hựu thuyết
+   　nhất thiết pháp giả hà dã nhược bất thuyết nhất thiết pháp giả chư phật tùng lai lập giáo
+   　chi pháp tức hoại giáo pháp kí hoại tức vô chư phật bồ tát nhi vi chứng pháp giả
+   　diệc vô duyên giác thanh văn nhi vi y giáo giả nhất tổng đô vô thùy thị thuyết pháp
+   　giả nhi phục vi thùy thuyết pháp da sở vị tuy phục bất y ngôn ngữ đạo diệc phục
+   　bất trước vô ngôn thuyết tức thử chỉ dã thị cố đại thừa bồ tát ưng đương cứu cánh
+   　đệ nhất nghĩa đế mạc trước ngôn thuyết chí ư tùy nghi phương tiện quảng thuyết nhất thiết kinh
+   　pháp đãn dĩ chúng sinh trung hữu hi vọng đắc quả vị li sở tri chướng giả hữu trầm
+   　mê căn cảnh vị thoát phiền não chướng giả chủng chủng bất nhất cố ngã cập chư phật vi
+   　bỉ chủng chủng dị giải chúng sinh thuyết chủng chủng pháp nhất âm diễn pháp tùy loại đắc giải
+   　linh bỉ li tâm ý ý thức cố phàm phu phọc ư căn trần bất li ý thức ngoại
+   　đạo chấp ư đoạn/đoán thường bất li thất thức nhị thừa hữu chứng hữu đắc bất li bát thức
+   　vi thức sở mê tức bất đắc tự giác thánh trí cảnh giới nhược năng chuyển thức thành trí
+   　đáo tự giác thánh trí xứ bỉ tức li ngôn ngữ tướng li văn tự tướng ngã tắc bất
+   　vi thuyết dã sở vị phật thuyết nhất thiết pháp vi trị nhất thiết tâm nhược vô nhất thiết
+   　tâm hà dụng nhất thiết pháp cố vân bất vi đắc tự giác thánh trí xứ thuyết dã sở
+   　dĩ bất vi đắc tự giác thánh trí thuyết giả dĩ bỉ ư nhất thiết pháp như thật liễu
+   　tri vô sở hữu cố giác tam giới chư pháp duy tự tâm sở hiện vô ngoại cảnh giới
+   　khả đắc cố ngoại vô kì cảnh nội vô kì tâm tức li năng thuyết sở thuyết nhị chủng
+   　vọng tưởng thị chư đại thừa bồ tát đãn y ư nghĩa bất y văn tự dĩ viễn li
+   　tâm ý ý thức vô sự ư phương tiện chi thuyết dĩ chứng tự giác thánh trí cảnh giới
+   　hựu phi ngôn ngữ khả đáo chi địa cố bất vi thánh tự chứng xứ kiến lập chư pháp
+   　dã tích kinh nam tiết độ sứ thành nhuế nhập vân cư thiết cung vấn viết thế tôn hữu
+   　mật ngữ ca diệp bất phục tạng như hà thị thế tôn mật ngữ sư triệu thượng thư thư
+   　ưng nặc sư viết hội ma thư viết bất hội sư viết nhữ nhược bất hội thế tôn hữu
+   　mật ngữ nhữ nhược hội ca diệp bất phú tạng khả tri thế tôn bất thuyết đoạ văn tự
+   　pháp duy ca diệp bất y văn tự giả nãi năng tín thụ dã 。
+nhược thiện nam tử thiện nữ nhân y văn tự giả tự hoại đệ nhất nghĩa diệc bất năng giác
+tha đoạ ác kiến tướng tục nhi vi chúng thuyết bất thiện liễu tri nhất thiết pháp nhất thiết địa
+nhất thiết tướng diệc bất tri chương cú (đường vân y văn tự giả đoạ ư ác kiến chấp trước tự tông nhi khởi ngôn thuyết bất năng thiện liễu nhất thiết
+pháp tướng văn từ chương cú kí tự tổn hoại diệc hoại ư 〔địa 〕bất năng linh nhân tâm đắc giải ngộ )nhược thiện nhất thiết pháp nhất thiết địa nhất
+thiết tướng thông đạt chương cú cụ túc tính nghĩa bỉ tắc năng dĩ chính vô tướng lạc/nhạc/nhạo nhi tự
+ngu lạc/nhạc/nhạo bình đẳng đại thừa kiến lập chúng sinh (đường vân diệc năng linh tha an trụ đại thừa chính vô tướng lạc/nhạc/nhạo )đại tuệ nhiếp
+thụ đại thừa giả tắc nhiếp thụ chư phật bồ tát duyên giác thanh văn nhiếp thụ chư phật bồ
+tát duyên giác thanh văn giả tắc nhiếp thụ nhất thiết chúng sinh nhiếp thụ nhất thiết chúng sinh giả
+tắc nhiếp thụ chính pháp nhiếp thụ chính pháp giả tắc phật chủng bất đoạn/đoán phật chủng bất đoạn/đoán giả
+tắc năng liễu tri đắc thù thắng nhập xứ (ngụy vân nhất thiết thắng diệu sinh xứ )tri đắc thù thắng nhập xứ bồ
+tát ma ha tát thường đắc hoá sinh kiến lập đại thừa thập tự tại lực hiện chúng sắc tượng
+thông đạt chúng sinh hình loại hi vọng phiền não chư tướng như thật thuyết pháp như thật giả bất
+dị (đường vân chân thật pháp giả vô biệt vô dị )như thật giả bất lai bất khứ tướng nhất thiết hư nguỵ tức thị
+danh như thật đại tuệ thiện nam tử thiện nữ nhân bất ưng nhiếp thụ tùy thuyết kế trước chân
+thật giả li văn tự cố 。
+   　thông viết thượng ngôn chư bồ tát ma ha tát y ư nghĩa bất y văn tự hà dĩ
+   　bất y văn tự dã dĩ thánh trí đệ nhất nghĩa đế bất lạc ngữ ngôn văn tự cố
+   　nhược y văn tự ngữ ngôn tức tự hoại đệ nhất nghĩa thú bất đãn tự hoại diệc hoại
+   　ư tha bất đắc linh nhân tâm đắc giác ngộ kì cố hà dã dĩ tự tông bất thông
+   　tức đoạ ác kiến tướng tục đãn y tự luận dị kiến ngôn thuyết vi chúng thuyết pháp bất
+   　năng thiện liễu nhất thiết pháp tướng văn từ chương cú bất liễu pháp tướng kí bất tri thật
+   　tế sở nghệ bất thiện chương cú hựu bất tri danh ngôn sở chỉ hà dĩ giác tha linh
+   　đắc đệ nhất nghĩa hồ nhược năng bất y văn tự thiện tri nhất thiết thế xuất thế gian
+   　chi pháp thiện tri nhất thiết địa địa thượng tấn chi lộ thiện tri nhất thiết hữu vi vô
+   　vi tướng ưng chi tướng thông đạt chương cú hội quy ư nghĩa cụ túc tính nghĩa nghĩa căn
+   　ư tính nghĩa năng duyệt tâm bỉ tắc năng dĩ chính vô tướng lạc/nhạc/nhạo nhi tự ngu lạc/nhạc/nhạo sở
+   　vị tự giác thánh trí thiện lạc/nhạc/nhạo phi nhị thừa ngoại đạo hữu tướng chi lạc/nhạc/nhạo dã lạc/nhạc/nhạo viết
+   　vô tướng phi ưu phi lạc/nhạc/nhạo tức thị chúng sinh bình đẳng tâm dã kí đắc chúng sinh bình
+   　đẳng chi tâm tức vi chúng sinh kiến lập bình đẳng đại thừa chi pháp linh chư chúng sinh
+   　an trụ đại thừa chính vô tướng lạc/nhạc/nhạo thị tính phân chi lạc/nhạc/nhạo nhân nhân cụ túc ngã năng
+   　lạc/nhạc/nhạo chi nhi bất năng dĩ ngôn thị nhân năng đắc chi nhi bất tất dĩ ngôn cầu đãn
+   　y ư nghĩa bất hoạn bất năng giác dã thị kiến lập đại thừa chi pháp tức thị tu
+   　đa la khế lí khế cơ nhiếp thụ bất sinh bất diệt chi pháp thị nhiếp thụ đại thừa
+   　giả giáo pháp bất hoại tắc nhiếp thụ chư phật bồ tát duyên giác thanh văn nhi hữu chứng
+   　pháp chi nhân kí hữu chứng ư bất sinh bất diệt giả tắc nhiếp thụ nhất thiết chúng sinh
+   　chuyển bỉ sinh diệt nhi quy ư bất sinh bất diệt kí linh chúng sinh quy ư bất sinh
+   　diệt pháp tắc thế gian nhất thiết hư nguỵ vọng tưởng pháp bất năng dao hoặc nhi nhiếp thụ
+   　như lai chính pháp hĩ kí nhiếp thụ chính pháp tắc đương lai thế giai năng y giáo tu
+   　hành nhi phật chủng bất chí đoạn/đoán tuyệt phật chủng bất đoạn/đoán giả kí phi luân chuyển tam giới
+   　hựu phi đoạ ư không vong tự năng liễu tri thắng diệu sinh xứ hoặc diệu tịch quang độ
+   　hoặc thật báo trang nghiêm độ hoặc phàm thánh đồng cư tịnh độ thắng diệu trang nghiêm quá ư
+   　nhất thiết kí tri đắc thù thắng nhập xứ thử đại bồ tát khởi khẳng đam tịch tĩnh lạc/nhạc/nhạo
+   　nhi bất vi độ sinh kế hồ thường đắc ý sinh hoá thân tùy xứ kiến lập bình đẳng
+   　đại thừa chi pháp dĩ thập tự tại lực hiện chúng sắc tượng sở vị xứ phi xứ lực
+   　nghiệp lực định lực căn lực dục lực tính lực chí xứ đạo lực tú mệnh lực thiên nhãn
+   　lực lậu tận lực hữu thử thập lực phổ hiện sắc thân tùy chư chúng sinh hi vọng phiền
+   　não tam chướng chủng chủng chư tướng ưng thời ưng căn thuyết như thật pháp thị chân như thật
+   　tế chi pháp dữ nhất thiết chúng sinh vô biệt vô dị cố danh bình đẳng hà vị chi
+   　như dĩ lai vô sở tùng khứ vô sở chí thể tự như như cố danh viết như hà
+   　vị chi thật dĩ nhất thiết giai hữu sinh diệt thử độc bất sinh diệt hữu sinh diệt giả
+   　vi hư nguỵ vô sinh diệt giả vi chân thật cố danh viết thật thử như thật nhị tự
+   　diệc thị văn tự bất ưng nhiếp thụ văn tự tùy thuyết kế trước nhược giải chân thật nghĩa
+   　giả đương tri bất lai bất khứ giả quả hà vật hồ bất sinh bất diệt giả quả hà
+   　tượng hồ bản li văn tự tướng cố bất ưng đoạ văn tự nhi thuyết pháp dã hoàng bách
+   　vân phu cầu pháp giả bất trước phật cầu bất trước pháp cầu bất trước chúng cầu ưng vô
+   　sở cầu bất trước phật cầu cố vô phật bất trước pháp cầu cố vô pháp bất trước chúng
+   　cầu cố vô tăng vấn hòa thượng kiến kim thuyết pháp hà đắc ngôn vô tăng diệc vô pháp
+   　sư vân nhữ nhược kiến hữu pháp khả thuyết tức thị dĩ âm thanh cầu ngã nhược kiến hữu
+   　ngã tức thị xứ sở pháp diệc vô pháp pháp tức thị tâm sở dĩ tổ sư vân phó
+   　thử tâm pháp thời pháp pháp hà tằng pháp vô pháp vô bản tâm thuỷ giải tâm tâm pháp
+   　thật vô nhất pháp khả đắc danh toạ đạo trường đạo trường giả chi thị bất khởi chư kiến
+   　ngộ pháp bản không hoán tác không như lai tạng bản lai vô nhất vật hà xứ hữu trần
+   　ai nhược đắc thử trung ý tiêu dao hà sở luận thử tức năng dĩ chính vô tướng lạc/nhạc/nhạo
+   　nhi tự ngu lạc/nhạc/nhạo dã tuyết phong thị chúng vân ngã nhược đông đạo tây đạo nhữ đẳng tắc
+   　tầm ngôn trục cú ngã nhược linh dương quải giác nhữ đẳng hướng thậm ma xứ môn mô tăng
+   　vấn bảo phúc chỉ như tuyết phong hữu thậm ma ngôn giáo tiện tự linh dương quải giác phúc
+   　vân mạc thị dữ tuyết phong tác tiểu sư bất đắc ma hựu kính thanh vấn tuyết phong cổ
+   　nhân hữu ngôn phong tiện đảo ngoạ lương cửu khởi vân vấn thậm ma thanh tái vấn phong vân
+   　hư sinh lang tử hán đầu tử tụng vân tầm thường ái khách hận như lai cập chí nhân
+   　lai lại thoại bồi không ngoạ tảo tri miên bất đương hư lao hồng diệm lạc hàn hôi thử
+   　tuyết phong như thật thuyết pháp xứ dục linh học nhân y ư nghĩa bất y văn tự thật
+   　thử kinh chi di củ dã 。
+đại tuệ như vi ngu phu dĩ chỉ chỉ vật ngu phu quan chỉ bất đắc thật nghĩa như thị
+ngu phu tùy ngôn thuyết chỉ nhiếp thụ kế trước chí cánh bất xả chung bất năng đắc li ngôn
+thuyết chỉ đệ nhất thật nghĩa đại tuệ thí như anh nhi ưng thực thục thực bất ưng thực sinh
+nhược thực sinh giả tắc linh phát cuồng bất tri thứ đệ phương tiện thục cố đại tuệ như thị
+bất sinh bất diệt bất phương tiện tu tắc vi bất thiện thị cố ưng đương thiện tu phương tiện
+mạc tùy ngôn ngữ như thị chỉ đoan thị cố đại tuệ ư chân thật nghĩa đương phương tiện tu
+chân thật nghĩa giả vi diệu tịch tĩnh thị niết bàn nhân ngôn thuyết giả vọng tưởng hợp vọng tưởng
+giả tập sinh tử đại tuệ chân thật nghĩa giả tùng đa văn giả đắc đại tuệ đa văn giả
+vị thiện ư nghĩa phi thiện ngôn thuyết thiện nghĩa giả bất tùy nhất thiết ngoại đạo kinh luận thân
+tự bất tùy diệc bất linh tha tùy thị tắc danh viết đại đức đa văn thị cố dục cầu
+nghĩa giả đương thân cận đa văn sở vị thiện nghĩa dữ thử tướng vi kế trước ngôn thuyết ưng
+đương viễn li 。
+   　thông viết thượng ngôn thiện nam tử thiện nữ nhân bất ưng nhiếp thụ tùy thuyết kế trước chân
+   　thật giả li văn tự cố hà ngôn hồ chân thật đệ nhất nghĩa li văn tự tướng dã
+   　thí như vi ngu phu bất kiến vật giả dĩ chỉ chỉ vật thị chi vật giả chân thật
+   　dã chỉ giả ngôn thuyết dã bỉ ngu bất sát đãn quan kì chỉ bất đắc kì vật đãn
+   　quan ngôn thuyết bất đắc thật nghĩa như thị ngu phu đãn dĩ chỉ vi vật dã dĩ ngôn
+   　thuyết vi thật nghĩa dã tùy ngôn thuyết chỉ nhiếp thụ kế trước chí ư một thân chung bất
+   　năng đắc li chỉ chi vật đương tại hà xứ li ngôn thuyết chi đệ nhất nghĩa đương tại
+   　hà xứ bất năng xả văn tự chi chỉ thủ đệ nhất nghĩa cố danh viết ngu nhiên thuyết
+   　pháp giả do đương cụ tùy nghi phương tiện nhi chỉ thị chi dã thí như anh nhi ưng
+   　thực thục thực hữu nhân bất giải thành thục thứ đệ bất thung bất xuy nhi dĩ sinh thực
+   　thực chi nhược thực sinh vật tắc phát cuồng loạn như thị bất sinh bất diệt đệ nhất nghĩa
+   　đế li ngôn thuyết tướng li văn tự tướng nhược bất phương tiện thứ đệ nhi tu như thực
+   　anh nhi dĩ sinh thực dã bỉ bất đắc kì chỉ bất đắc cụ túc trang nghiêm pháp thân
+   　phản dĩ vi bất thiện chi pháp như bỉ si nhân bất tri xuân xuy đạm văn tự cốc
+   　bất đắc nghĩa thực dĩ thị nghĩa cố ư chân thật đệ nhất nghĩa đế thiện nam tử thiện
+   　nữ nhân ưng đương phương tiện tu tập thứ ư bất sinh bất diệt chi nghĩa đắc kì tư
+   　vị bất nghi ư ngữ ngôn văn tự hữu sở chấp trước như thị chỉ đoan nhi chung bất
+   　tri sở chỉ chi vật vi hà tại dã phu ư chân thật nghĩa đương phương tiện tu giả
+   　hà dã vị chân thật đệ nhất nghĩa giả bất sinh bất diệt tịch mặc trấn tĩnh tối vi
+   　vi diệu phi tầm thường tịch tĩnh giả khả tỉ thị vi vô dư niết bàn chi chính nhân
+   　dã niết bàn diệu đức thường lạc/nhạc/nhạo ngã tịnh danh vi quả địa tu chứng tất dĩ bất sinh
+   　bất diệt vi nhân địa tâm cố chân thật nghĩa đương phương tiện tu dã phu ư ngôn thuyết
+   　bất nghi kế trước giả hà dã nhất thiết ngôn thuyết dữ vọng tưởng hợp vọng tưởng giả hư
+   　vọng phát sinh hư vọng diệt tận phân biệt tướng tục thị sinh tử pháp lưu chuyển sinh tử
+   　giả bất đắc niết bàn cố ngôn thuyết bất nghi nhiếp thụ kế trước dã nhiên chân thật chi
+   　nghĩa tất giả ngôn thuyết nhi hiển dục cầu chân thật nghĩa tận phế ngôn thuyết khả hồ thị
+   　chân thật nghĩa bất khả bất tu tất tùng đa văn thiện tri thức nhi đắc sở vị đa
+   　văn giả vị nghĩa xảo phương tiện thiện ư đệ nhất nghĩa phi thanh xảo phương tiện thiện ư
+   　chủng chủng ngôn thuyết dã bỉ vi thiện nghĩa chân tri tự tính bất sinh bất diệt phàm nhất
+   　thiết ngoại đạo kinh luận hoặc hữu nhân hoặc vô nhân chung bất li sinh diệt pháp tất bất
+   　tùy thuận kì thuyết kí thân tự bất tùy diệc bất linh tha tùy viễn li nhất thiết ác
+   　thiêu trí hội quy chung cực đãn nhất bất sinh bất diệt thị tắc danh viết đại đức đa
+   　văn dục cầu chân thật nghĩa giả đương thân cận thử đa văn thiện tri thức khả dã bỉ
+   　sở vị thiện nghĩa vi thiện phương tiện thứ đệ tu tập năng thiện khai đạo ư tha phi
+   　như thực anh nhi dĩ sinh thực giả tỉ cố đương thân nhi cận chi dã nhược dữ thử
+   　đa văn tướng vi tướng bội giả đãn thiện ngôn thuyết bất thiện ư nghĩa vi viễn niết bàn
+   　bất li sinh tử ưng đương viễn li kì khả thân cận chi hồ hoàng long duy thanh thiền
+   　sư ấn tâm ư hối đường mỗi vị nhân viết kim chi học giả vị thoát sinh tử bệnh
+   　tại thậm xứ bệnh tại thâu tâm vị tử nhĩ nhiên phi kì tội vi sư giả chi tội
+   　dã như hán cao đế đãi hàn tín nhi sát chi tín tuy tử kì tâm quả tử hồ
+   　cổ chi học giả ngôn hạ thoát sinh tử hiệu tại thậm xứ tại thâu tâm dĩ tử nhiên
+   　phi học giả tự năng nhĩ thật vi sư giả kiềm đôi diệu mật dã như lương vũ đế
+   　ngữ đại điện kiến hầu cảnh bất động thanh khí nhi cảnh chi tâm dĩ khô kiệt vô dư
+   　hĩ chư phương sở thuyết phi bất mĩ lệ yếu chi như triệu xương hoạ hoa hoa tuy bức
+   　chân nhi phi chân hoa dã kinh văn nghiệp hữu tam dụ thử canh tăng nhập tam dụ uyển
+   　chuyển thuyết pháp vô phi linh nhân nhân chỉ kiến nguyệt vô vi hoạ hoa sở mê 。
+nhĩ thời đại tuệ bồ tát phục thừa phật uy thần nhi bạch phật ngôn thế tôn thế tôn hiển
+thị bất sinh bất diệt vô hữu kì đặc sở dĩ giả hà nhất thiết ngoại đạo nhân diệc bất
+sinh bất diệt thế tôn diệc thuyết hư không phi số duyên diệt cập niết bàn giới bất sinh bất
+diệt thế tôn ngoại đạo thuyết nhân sinh chư thế gian thế tôn diệc thuyết vô minh ái nghiệp vọng
+tưởng vi duyên sinh chư thế gian bỉ nhân thử duyên danh sai biệt nhĩ ngoại vật nhân duyên diệc
+như thị thế tôn dữ ngoại đạo luận vô hữu sai biệt vi trần thắng diệu tự tại chúng sinh
+chủ đẳng như thị cửu vật bất sinh bất diệt thế tôn diệc thuyết nhất thiết tính bất sinh bất
+diệt hữu vô bất khả đắc ngoại đạo diệc thuyết tứ đại bất hoại tự tính bất sinh bất diệt
+tứ đại thường thị tứ đại nãi chí chu lưu chư thú bất xả tự tính thế tôn sở thuyết
+diệc phục như thị thị cố ngã ngôn vô hữu kì đặc duy nguyện thế tôn vi ngôn sai biệt
+sở dĩ kì đặc thắng chư ngoại đạo nhược vô sai biệt giả nhất thiết ngoại đạo giai diệc thị
+phật dĩ bất sinh bất diệt cố nhi thế tôn thuyết nhất thế giới trung đa phật xuất thế giả
+vô hữu thị xứ như hướng sở thuyết nhất thế giới trung ưng hữu đa phật vô sai biệt cố
+phật cáo đại tuệ ngã thuyết bất sinh bất diệt bất đồng ngoại đạo bất sinh bất diệt sở dĩ
+giả hà bỉ chư ngoại đạo hữu tính tự tính đắc bất sinh bất biến tướng (đường vân ngoại đạo sở thuyết hữu thật
+tính tướng bất sinh bất biến )ngã bất như thị đoạ hữu vô phẩm đại tuệ ngã giả li hữu vô phẩm li
+sinh diệt phi tính phi vô tính như chủng chủng ảo mộng hiện cố phi vô tính vân hà vô
+tính vi sắc vô tự tính tướng nhiếp thụ hiện bất hiện cố nhiếp bất nhiếp cố dĩ thị cố
+nhất thiết tính vô tính phi vô tính (đường vân ngã sở thuyết pháp phi hữu phi vô li sinh li diệt vân hà phi vô như ảo như mộng sắc chủng
+chủng kiến cố vân hà phi hữu sắc tướng tự tính phi thị hữu cố kiến bất kiến cố thủ bất thủ cố thị cố ngã thuyết nhất thiết chư pháp phi hữu phi vô )đãn giác tự
+tâm hiện lượng vọng tưởng bất sinh an ổn khoái lạc/nhạc/nhạo thế sự vĩnh tức 。
+   　thông viết nhân thượng ngôn đại đức đa văn bất tùy nhất thiết ngoại đạo kinh luận dĩ ẩn
+   　nhiên chỉ xuất vi diệu niết bàn bất sinh bất diệt phi ngoại đạo sở chấp bất sinh bất
+   　diệt giả tỉ đại tuệ thừa phật uy thần tường tế phiên xuất nhất vị ngoại đạo kế tác
+   　giả vi nhân chư pháp sinh diệt nhi tác giả bất sinh bất diệt dữ thế tôn sở thuyết
+   　hư không vô vi phi trạch diệt vô vi cập niết bàn vô vi bất sinh bất diệt pháp
+   　vô dị nhị vị ngoại đạo y chư nhân duyên sinh chư chúng sinh dữ thế tôn sở thuyết
+   　vô minh ái nghiệp vọng tưởng vi duyên sinh chư thế gian bỉ nhân thử duyên danh dị thật
+   　đồng nãi chí ngoại vật như nê đoàn vi trần y ngoại nhân duyên nhi sinh chư pháp diệc
+   　phục như thị tam vị ngoại đạo kế vi trần đẳng cửu vật nhất thời nhị phương tam hư
+   　không tứ vi trần ngũ tứ đại chủng lục đại phạm thiên thất thắng diệu thiên bát đại tự
+   　tại thiên cửu chúng sinh chủ tức thần ngã dã giai bất sinh diệt dữ thế tôn thuyết nhất
+   　thiết tính bất sinh bất diệt vô dị tứ vị ngoại đạo kế tứ đại bất hoại chu lưu
+   　chư thú bất xả tự tính vi bất sinh diệt dữ thế tôn sở thuyết tứ đại tính chân
+   　chu thiên pháp giới vô dị nhất thiết vô phi ngoại đạo dĩ thuyết vô hữu kì đặc thắng
+   　quá ngoại đạo giả nhược hữu bất đồng nguyện phật vi diễn hữu hà sở dĩ phật thuyết vi
+   　thắng nhược thế tôn thuyết pháp dữ ngoại đạo vô biệt giả ngoại đạo giai diệc thị phật thế
+   　tôn thuyết nhất thế giới trung vô hữu đa phật kim ưng hữu đa phật hĩ dĩ sở thuyết
+   　bất sinh bất diệt pháp vô sai biệt cố phật nãi vị ngã thuyết bất sinh bất diệt dữ
+   　ngoại đạo dị diệc bất đồng bỉ bất sinh vô thường luận dã sở dĩ giả hà ngoại đạo
+   　sở kế bất sinh bất diệt vị nhất thiết hữu thật tính tướng bất sinh bất biến đãn ư
+   　hữu vô tướng thượng ban nhĩ kiến chư pháp sinh diệt vô thường nhi hiển tự tính bất sinh
+   　diệt thường dĩ hữu hiển vô cứu cánh sở vị vô giả diệc vô thường luận nhĩ cố đoạ
+   　ư hữu vô pháp trung ngã bất như thị thuyết dã ngã sở thuyết chân ngã giả li hữu
+   　li vô bản vô sinh diệt phi bỉ hữu tự tính chi thuyết dã diệc phi vô tự tính
+   　chi thuyết dã vân hà phi vô như ảo mộng sắc chủng chủng hiện cố bất khả vị chi
+   　vô dã vân hà phi hữu mộng ảo sắc tướng bản vô tự tính khả nhiếp thụ cố bất
+   　khả vị chi hữu dã vị thường bất hiện nhi thật vị thường hiện vị thường bất nhiếp nhi
+   　thật vị thường nhiếp hữu nhi bất hữu vô nhi bất vô thị cố ngã thuyết nhất thiết chư
+   　pháp phi hữu phi vô đãn năng giác liễu nhất thiết chư pháp duy tự tâm sở hiện như
+   　thuỷ trung nguyệt như kính trung tượng nguyên tự phi hữu bất ư hữu thượng sinh vọng tưởng phân
+   　biệt nguyên tự phi vô bất ư vô thượng sinh vọng tưởng phân biệt li hữu li vô thùy
+   　vi sinh diệt sinh diệt kí vô tịch diệt vi lạc/nhạc/nhạo sở dĩ định ổn khoái lạc/nhạc/nhạo siêu việt
+   　tam giới thế sự vĩnh tức đắc đại giải thoát ngã chi sở dĩ dị ư ngoại đạo giả
+   　thử dã ngoại đạo bất li thế sự vọng vi phân biệt chung quy sinh diệt bất đắc an
+   　ổn bỉ chấp hữu tướng cố bất thắng dã tường như hạ văn sở minh hà vị thế tôn
+   　vô hữu kì đặc hồ tích tiết giản vấn lục tổ viết kinh thành thiền đức giai vân dục
+   　đắc hội đạo tất tu toạ thiền tập định bất nhân thiền định nhi đắc giải thoát giả vị
+   　chi hữu dã vị thẩm sư sở thuyết pháp hà như tổ viết đạo do tâm ngộ khởi tại
+   　toạ dã kinh vân nhược kiến như lai nhược ngoạ nhược toạ thị hành tà đạo hà cố vô
+   　sở tùng lai diệc vô sở khứ nhược vô sinh diệt thị như lai thanh tịnh thiền chư pháp
+   　không tịch thị như lai thanh tịnh toạ cứu cánh vô chứng khởi huống toạ da giản viết đệ
+   　tử hồi chủ thượng tất vấn nguyện hòa thượng từ bi chỉ thị tâm yếu tổ viết đạo vô
+   　minh ám minh ám thị đại tạ chi nghĩa minh ám vô tận diệc thị hữu tận tướng đãi
+   　lập danh cố kinh vân pháp vô hữu tỉ vô tướng đãi cố giản viết minh dụ trí tuệ
+   　ám huống phiền não tu đạo chi nhân thảng bất dĩ trí tuệ chiếu phá phiền não vô thuỷ
+   　sinh tử bằng hà xuất li tổ viết phiền não tức thị bồ đề vô nhị vô biệt nhược
+   　dĩ trí tuệ chiếu phiền não giả thử thị nhị thừa tiểu kiến dương lộc đẳng cơ đại trí
+   　thượng căn tất bất như thị giản viết như hà thị đại thừa kiến giải tổ viết minh dữ
+   　vô minh kì tính vô nhị vô nhị chi tính tức thị thật tính thật tính giả xứ phàm
+   　ngu nhi bất giảm tại thánh hiền nhi bất tăng trụ phiền não nhi bất loạn cư thiền định
+   　nhi bất tịch bất đoạn/đoán bất thường bất lai bất khứ bất tại trung gian cập kì nội ngoại
+   　bất sinh bất diệt tính tướng như như thường trụ bất thiên danh chi viết đạo giản viết sư
+   　thuyết bất sinh bất diệt hà dị ngoại đạo tổ viết ngoại đạo sở thuyết bất sinh bất diệt
+   　giả tương diệt chỉ sinh dĩ sinh hiển diệt diệt do bất diệt sinh thuyết bất sinh ngã thuyết
+   　bất sinh bất diệt giả bản tự vô sinh kim diệc vô diệt sở dĩ bất đồng ngoại đạo
+   　nhữ nhược dục tri tâm yếu nhất thiết thiện ác đô mạc tư lượng tự nhiên đắc nhập thanh
+   　tịnh tâm thể đam nhiên thường tịch diệu dụng hằng sa giản mông chỉ thị hoát nhiên đại ngộ
+   　thử kinh hứa đa nghi nan chỉ lục tổ số ngữ tiện tự liễu nhiên truyền phật tâm ấn
+   　giả đắc nhất nhất phù khế như thử 。
+ngu si phàm phu vọng tưởng tác sự phi chư thánh hiền bất thật vọng tưởng như kiền thát bà
+thành cập ảo hoá nhân đại tuệ như kiền thát bà thành cập ảo hoá nhân chủng chủng chúng sinh
+thương cổ xuất nhập ngu phu vọng tưởng vị chân xuất nhập nhi thật vô hữu xuất giả nhập giả
+đãn bỉ vọng tưởng cố như thị đại tuệ ngu si phàm phu khởi bất sinh bất diệt hoặc bỉ
+diệc vô hữu hữu vi vô vi như ảo nhân sinh kì thật vô hữu nhược sinh nhược diệt tính
+vô tính vô sở hữu cố nhất thiết pháp diệc như thị li ư sinh diệt ngu si phàm phu
+đoạ bất như thật khởi sinh diệt vọng tưởng phi chư thánh hiền bất như thật giả bất nhĩ (đường vân
+ngôn hư vọng giả bất như pháp tính khởi điên đảo kiến )như tính tự tính vọng tưởng diệc bất dị (ngụy vân như tâm phân biệt thử pháp như thị
+như thị nhi bỉ pháp bất như thị như thị diệc phi điên đảo phân biệt )nhược dị vọng tưởng giả kế trước nhất thiết tính tự tính
+bất kiến tịch tĩnh bất kiến tịch tĩnh giả chung bất li vọng tưởng thị cố đại tuệ vô tướng
+kiến thắng phi tướng kiến tướng kiến giả thụ sinh nhân cố bất thắng đại tuệ vô tướng giả vọng
+tưởng bất sinh bất khởi bất diệt ngã thuyết niết bàn đại tuệ niết bàn giả như chân thật nghĩa
+kiến li tiên vọng tưởng tâm tâm số pháp đãi đắc như lai tự giác thánh trí ngã thuyết thị
+niết bàn 。
+   　thông viết ngã duy giác tự tâm hiện lượng vọng tưởng bất sinh cố li hữu li vô li
+   　sinh li diệt an ổn khoái lạc/nhạc/nhạo thế sự vĩnh tức kí bất ư thế sự sinh vọng tưởng
+   　hà xứ hữu sinh diệt hồ bỉ ngoại đạo ngu si dĩ thế sự vi thật tùng trung vọng
+   　tưởng hoặc dĩ vi hữu hoặc dĩ vi vô đãn ư hữu tác sự thượng hư vọng phân biệt
+   　bất đổ chân thật vô sinh chi diệu phi thánh hiền trí tuệ giả luân dã bỉ duy ư
+   　bất thật chi sự chấp dĩ vi thật bất tri thử bất thật vọng tưởng giả thí như kiền
+   　thát bà thành không trung trang nghiêm cập ảo hoá nhân biến hiện chủng chủng chúng sinh tượng mã
+   　đẳng vật hoặc hiện thương cổ xuất nhập đẳng sự ngu phu vọng tưởng vị chân hữu xuất nhập
+   　đẳng tướng kì thật vô hữu xuất giả nhập giả đãn do bỉ mê tâm phân biệt dĩ vi
+   　chân hữu cố bỉ phàm ngu sở kiến sinh dữ bất sinh diệt dữ bất diệt hữu vi vô
+   　vi tất diệc như thị tổng bất li ảo hoá cảnh thượng khởi bất sinh bất diệt hoặc dã
+   　bất tri bỉ chân thật xứ nguyên vô thử hữu vi như phàm phu đẳng kiến diệc vô thử
+   　vô vi như nhị thừa đẳng kiến tức như ảo sư sở tác thương cổ xuất nhập hoặc kiến
+   　kì sinh hoặc kiến kì diệt nhi bỉ ảo nhân kì thật vô hữu nhược sinh nhược diệt nhược
+   　hữu tự tính nhược vô tự tính chủng chủng phân biệt đô vô sở hữu cố nhất thiết chư
+   　pháp duy tự tâm sở hiện diệc phục như thị vô hữu nhược sinh nhược diệt phi tính phi
+   　vô tính bản tự li ư sinh diệt cố ngu si phàm phu chấp ảo dĩ vi chân chấp
+   　cảnh dĩ vi thật đoạ ư hữu vô phẩm bất như thật pháp trung hoặc khởi sinh diệt tưởng
+   　hoặc khởi bất sinh diệt tưởng kì sở vị sinh diệt giả cố vọng nhi sở vị bất sinh
+   　diệt giả diệc vọng dã chấp vi sinh diệt giả cố hoặc nhi chấp vi bất sinh diệt giả
+   　diệc hoặc dã điên đảo phân biệt phi chư thánh hiền nhược thánh hiền giả giác tự tâm sở
+   　hiện minh tri ảo sự bất vi ảo hoá sở hoặc cố danh vi trí bỉ đoạ bất như
+   　thật vọng tưởng giả bất nhiên bất như pháp tính khởi điên đảo kiến viết thử pháp như thị
+   　bỉ pháp bất như thị thị điên đảo phân biệt diệc phi điên đảo phân biệt phi thật hữu
+   　sở dị dã chân như tự tính tức thị vọng tưởng vọng tưởng tự tính tức thị chân như
+   　tức chân tức vọng tức vọng tức chân cố như như chi thể dữ bất thật vọng tưởng diệc
+   　vô hữu dị nhược khởi dị kiến phân biệt kế trước nhất thiết pháp thật hữu tính tự tính
+   　tướng vị chân như dữ vọng tưởng dị nhi vọng tưởng chi ngoại biệt hữu chân như như thị
+   　kế trước do bất kiến bản lai tịch tĩnh cố bất kiến chư pháp tùng bản lai thường tự
+   　tịch tĩnh tướng tức bất chứng nhập chân như thật tế cảnh giới chung bất li ư hư vọng
+   　phân biệt chấp trước tự hữu nhi vô dĩ vi niết bàn tổng điên đảo kiến nhĩ thị tri
+   　kiến bản lai tịch tĩnh giả tức bất kiến hữu tính tự tính tướng thị danh vô tướng kiến
+   　kế trước nhất thiết thật hữu thể tính giả tức bất kiến tịch diệt hiện tiền thị danh tướng
+   　kiến nhị giả đề hoành nhi luận đương thị vô tướng kiến giả danh vi thắng phi thị tướng
+   　kiến giả danh vi thắng dĩ bỉ tướng kiến giả kiến hữu sinh kiến hữu diệt tuy chí diệt
+   　tận chung đương phục sinh kí vi thụ sinh chi nhân tiện phi chân diệt sinh diệt diệt sinh
+   　luân chuyển tam giới bất đắc niết bàn cố bất thắng dã thử vô tướng kiến giả đương thể
+   　tịch tĩnh bất kiến kì hữu nhi hữu vi vọng tưởng bất sinh bất kiến kì vô nhi vô
+   　vi vọng tưởng bất sinh kí vô hữu khởi tức vô kì diệt bản tự li ư sinh diệt
+   　ngã sở thuyết danh vi chân niết bàn dã vị chi niết bàn giả vị kiến chư pháp như
+   　thật trụ xứ bản lai tịch tĩnh viễn li phân biệt điên đảo chi kiến phàm tiên sở cử
+   　ngoại đạo vọng tưởng hoặc chấp nội pháp nhi danh chi viết tâm hoặc chấp ngoại pháp nhi danh
+   　chi viết tâm sở kì số bất nhất tổng bất xuất lục thất bát thức sở chuyển nhất thiết
+   　viễn li liễu vô nhất tướng khả đắc chuyển thức thành trí chứng ư như lai tự giác thánh
+   　trí cảnh giới thử thánh trí cảnh giới tức đệ nhất nghĩa đế đãn khả tự chứng tự giác
+   　bản tự bất sinh bất diệt ngã sở thuyết danh niết bàn giả thử dã khởi ngoại đạo sở
+   　chấp hữu tướng kiến giả khả đồng nhật ngữ hồ huyền sa thượng đường phật đạo nhàn khoáng vô
+   　hữu trình đồ vô môn giải thoát chi môn vô ý đạo nhân chi ý bất tại tam tế
+   　cố bất khả thăng trầm kiến lập quai chân phi thuộc tạo tác động tắc khởi sinh tử chi
+   　bản tĩnh tắc tuý hôn trầm chi hương động tĩnh song dân tức lạc không vong động tĩnh song
+   　thu man han phật tính tất tu đối trần đối cảnh như khô mộc hàn hôi lâm thời ưng
+   　dụng bất thất kì nghi kính chiếu chư tượng bất loạn quang huy điểu phi không trung bất tạp
+   　không sắc sở dĩ thập phương vô ảnh tượng tam giới tuyệt hành tung bất đoạ vãng lai cơ
+   　bất trụ trung gian ý chung trung vô cổ hưởng cổ trung vô chung thanh chung cổ bất tướng
+   　giao cú cú vô tiền hậu như tráng độ triển tí bất tạ tha lực sư tử du hành
+   　khởi cầu bạn lữ cửu tiêu tuyệt ế hà tại xuyên thông nhất đoạn quang minh vị tằng hôn
+   　muội nhược đáo giá lí thể tịch tịch thường đích đích nhật hách diễm vô biên biểu viên giác
+   　không trung bất động dao thôn thước kiền khôn huýnh nhiên chiếu như huyền sa ngữ siêu quá nhất
+   　thiết chứng nhập tự giác thánh trí cảnh giới vô tướng kiến thắng cực kì viên diệu ngoại đạo
+   　hữu thử đẳng kì đặc da 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+diệt trừ bỉ sinh luận (đường vân vi trừ hữu sinh chấp )kiến lập bất sinh nghĩa ngã thuyết như lai pháp (ngụy vân
+ngã thuyết pháp vô nhân )ngu phu bất năng tri nhất thiết pháp bất sinh vô tính vô sở hữu (đường vân diệc phi
+thị vô pháp )kiền thát bà ảo mộng hữu tính giả vô nhân bất sinh vô tự tính hà nhân không
+đương thuyết dĩ li ư hòa hợp giác tri tính bất hiện thị cố không bất sinh ngã thuyết vô
+tự tính (đường vân dĩ thị cố ngã thuyết không vô sinh vô tính )vị nhất nhất hòa hợp tính hiện nhi phi hữu phân tích
+vô hòa hợp phi như ngoại đạo kiến mộng ảo cập thùy phát dã mã kiền thát bà thế gian
+chủng chủng sự vô nhân nhi tướng kiến chiết phục hữu nhân luận thân sướng vô sinh nghĩa thân sướng
+vô sinh giả pháp lưu vĩnh bất đoạn/đoán sí nhiên vô nhân luận khủng bố chư ngoại đạo 。
+   　thông viết thử tụng thượng vô tướng kiến thắng tướng kiến giả thụ sinh nhân cố bất thắng dã
+   　bỉ tướng kiến giả vọng kiến nhất thiết hữu toại sinh hữu nhân luận vọng kiến nhất thiết vô
+   　toại sinh vô nhân luận thị hữu vô tà chấp giai sinh luận dã kí hữu thụ sinh chi
+   　nhân bất miễn luân chuyển tam giới ngô dục diệt trừ bỉ luận cố kiến lập li hữu li
+   　vô bản tự bất sinh chi nghĩa ngã thuyết như thị pháp duy chư thánh hiền phương năng minh
+   　liễu phi bỉ phàm ngu sở năng tri dã sở vị nhất thiết pháp bất sinh giả phi thị
+   　vô tính tức thử vô tính diệc vô sở hữu bất đắc ngôn vô dã như kiền thát bà
+   　thành kiến ư hư không như ảo mộng trung hiện chư sắc tướng tuy hiện hữu chủng chủng sự
+   　nhi thật vô nhân dã cố ngã thuyết vô nhân tức bất sinh chi nghĩa dã kí vô sinh
+   　nhân tức li ngôn thuyết nhi hựu thuyết nhất thiết pháp không nhất thiết pháp bất sinh nhất thiết
+   　pháp vô tự tính thị hà nhân da ngã sở đương thuyết dã dĩ ngã sở kiến lập bất
+   　sinh chi nghĩa bản tự không tịch li ư thế gian nhân duyên hòa hợp chư hữu vi tướng
+   　nhi giác tri chi tính diệc tự bất hiện tuy hữu trí tuệ mạc năng khuy chi ngoại li
+   　hòa hợp kí không kì cảnh nội vô giác tri hựu không kì tâm nội ngoại câu không bản
+   　tự bất sinh thị cố không bất sinh tức thị vô tự tính chi thuyết ngã thường thuyết không
+   　vô sinh vô tự tính ý bản tướng quán vô dị thuyết dã hựu sở vị li chư hòa
+   　hợp giả ninh bất kiến hữu hòa hợp chư duyên da vị thế gian nhất thiết chư pháp giai
+   　nhất nhất nhân duyên hòa hợp nhi đắc sinh khởi tuy hiện nhi phi hữu dã kí dĩ hiện
+   　hĩ hà vị phi hữu vị ư hòa hợp chư pháp nhất nhất nhi phân tích chi vô dữ
+   　hòa giả vô dữ hợp giả các vô tự tính bản tự vô vật tức hòa hợp vô hòa
+   　hợp phi như ngoại đạo sở kiến tích hữu hòa hợp kim vô hòa hợp chi luận dã ngã
+   　sở thuyết như mộng chi cảnh như ảo chi biến như không trung 埀phát như dã mã dương
+   　diễm cập kiền thát bà thành đẳng dĩ dụ thế gian chủng chủng nhân duyên hòa hợp sở tác
+   　chi sự giai vô nhân nhi tướng hiện dĩ vi hữu nhi thật vị thường hữu dã dĩ vi
+   　vô nhi thật vị thường vô dã sinh tức vô sinh hiện tức bất hiện thử ngã sở kiến
+   　lập bất sinh chi nghĩa dã sở dĩ chiết phục ngoại đạo hữu nhân chi luận bỉ hữu nhân
+   　luận giả kiến nhất thiết chư pháp tùng nhân duyên hòa hợp nhi sinh toại vị nhất thiết hữu
+   　kiến nhất thiết chư pháp li nhân duyên hòa hợp nhi diệt toại vị nhất thiết vô bất li
+   　hòa hợp hiện hữu chi pháp phân biệt hữu vô tuy thuyết vô nhân diệc hữu nhân dã bất
+   　li hữu nhân tức thụ sinh diệt khởi chân hữu bất sinh bất diệt chi nghĩa hồ ngã sở
+   　dĩ chiết phục bỉ luận chính dĩ thân sướng ngã vô sinh chi thuyết ngã sở vị vô sinh
+   　giả bất đoạn/đoán duyên khởi nhi tịch diệt hiện tiền thử thuyết kí sướng vô sinh chi nghĩa hằng
+   　tồn nhi như lai chính pháp diệc tướng tục bất đoạn/đoán khởi nhược ngoại đạo sở vị vô nhân
+   　giả nhất thiết đoạn/đoán diệt linh như lai chủng tính diệc đoạn/đoán da cố ngã thuyết vô nhân luận
+   　vị vô sinh nhân tức bỉ đoạn/đoán diệt kiến vi thụ sinh nhân giả diệc viễn li chi sí
+   　nhiên thuyết vô gian thuyết linh bỉ ngoại đạo tri bình nhật sở vị hữu nhân vô nhân luận
+   　giai vi sinh luận kí thụ sinh nhân bất li sinh tử ninh bất tri khủng bố hồ bỉ
+   　nhược tri kinh bố thứ kỉ cải đồ li bỉ tướng kiến thử ngã sở vị bất như vô
+   　tướng thắng dã huyền sa vân kim thời nhân bất ngộ cá trung đạo lí vọng tự thiệp sự
+   　thiệp trần xứ xứ nhiễm trước đầu đầu hệ bán túng ngộ tắc trần cảnh phân vân danh tướng
+   　bất thật tiện nghĩ ngưng tâm liễm niệm nhiếp sự quy không bế mục tạng tình tài hữu niệm
+   　khởi toàn toàn phá trừ tế tưởng tài sinh tức tiện át nại như thử kiến giải tức thị
+   　lạc không vong để ngoại đạo hồn bất tán để tử nhân minh minh mạc mạc vô giác vô
+   　tri tắc nhĩ thâu linh đồ tự khi cuống giá lí phân minh tắc bất nhiên dã bất thị
+   　ôi môn bàng hộ cú cú hiện tiền bất đắc thương lượng bất thiệp văn mặc bản tuyệt trần
+   　cảnh bản vô vị thứ quyền danh cá xuất gia nhi tất cánh vô tung tích chân như phàm
+   　thánh địa ngục nhân thiên chi thị liệu cuồng tử chi phương hư không thượng vô cải biến đại
+   　đạo khởi hữu thăng trầm ngộ tắc túng hoành bất li bản tế nhược đáo giá lí phàm thánh
+   　dã vô lập xứ nhược hướng cú trung tác ý tắc một nịch sát nhân nhược hướng ngoại trì
+   　cầu hựu lạc ma giới như như hướng thượng một khả an bài kháp tự diệm lô bất tạng
+   　văn nhuế thử lí bản lai bình thản hà dụng sản trừ động tĩnh dương mi thị chân giải
+   　thuyết đạo bất cương vi ý độ kiến lập quai chân nhược đáo giá lí tiêm hào bất thụ
+   　thố ý tắc sai tiện thị thiên thánh xuất đầu lai dã an nhất tự bất đắc huyền sa
+   　như hứa cát đằng cực lực đề tỉnh vô tướng tiêu tức cứ bản phân trung tiêm hào sinh
+   　kiến thượng bất hứa xuất đầu huống ngoại đạo chủng chủng sinh luận hồ 。
+nhĩ thời đại tuệ dĩ kệ vấn viết 。
+vân hà hà sở nhân bỉ dĩ hà cố sinh ư hà xứ hòa hợp nhi tác vô nhân luận 。
+nhĩ thời thế tôn phục dĩ kệ đáp 。
+quan sát hữu vi pháp phi vô nhân hữu nhân bỉ sinh diệt luận giả sở kiến tùng thị diệt 。
+   　thông viết thế tôn kiến lập bất sinh nghĩa vi trừ ngoại đạo sinh luận dã chí sí nhiên
+   　vô nhân luận vi trừ ngoại đạo hữu sở nhân dã đại tuệ phục dĩ kệ vấn ngoại đạo
+   　hữu hà sở nhân phục dĩ hà cố nhi lập vi sinh luận hữu nhân hữu sinh tất duyên
+   　hòa hợp nhi khởi bỉ ư hà xứ nhân duyên hòa hợp vi trước ư hữu nhi thế tôn
+   　tác vô nhân luận dĩ chiết phục chi dã vi bất minh ư vô nhân chi chỉ khủng đồng
+   　ư ngoại đạo vô nhân chi thuyết cố thiết thử vấn bất tri thế tôn sở vị vô nhân
+   　giả kiêm bỉ hữu nhân vô nhân nhi tịnh vô chi dã thế tôn cô trí bỉ hà nhân
+   　hà sinh hà xứ hòa hợp dĩ sĩ hậu đáp nhi tiên minh sở thuyết vô nhân luận giả
+   　vị quan sát thế gian nhất thiết hữu vi chư pháp như mộng như ảo phi hữu nhân nhi
+   　hữu diệc phi vô nhân nhi hữu bản tự li ư hữu vô nhị kiến ngoại đạo bất sát
+   　nãi ư sinh diệt cảnh thượng hoặc kiến kì hữu hoặc kiến kì vô toại lập vi hữu nhân
+   　vô nhân chi luận thị hữu nhân vô nhân tổng bất li ư sinh diệt nhược năng giác tri
+   　ngô sở thuyết vô nhân chi luận li hữu li vô bản vô nhân duyên tướng khả đắc li
+   　sinh li diệt bản vô sinh diệt pháp khả đắc nhi tà kiến tự thử tức hĩ tà kiến
+   　kí tức hà tùng hữu sinh luận hồ cố tác vô nhân luận giả vi đoạn/đoán bỉ hữu vô
+   　chấp phi dữ bỉ vô kiến đồng dã huyền sa vấn cảnh thanh cổ nhân đạo bất kiến nhất
+   　pháp thị đại quá hoạn nễ thả đạo bất kiến thậm ma pháp thanh chỉ lộ trụ vân mạc
+   　thị giá cá pháp ma sa vân chiết trung thanh thuỷ bạch mễ tùng nễ khiết phật pháp vị
+   　mộng kiến tại thiên đồng niêm vân kính thanh đương thời nhẫm ma đáp huyền sa mạt hậu nhẫm
+   　ma đạo hoàn tướng khế dã vô nhiên tắc kính thanh cửu bất tác phật pháp mộng dã tu
+   　thị huyền sa đồng sâm thuỷ đắc cứ nhị tôn tú tướng kiến xứ tức phật pháp dã vô
+   　huống hữu vô kiến hồ 。
+nhĩ thời đại tuệ thuyết kệ vấn viết 。
+vân hà vi vô sinh vi thị vô tính da vi cố thị chư duyên hữu pháp danh vô sinh
+danh bất ưng vô nghĩa duy vi phân biệt thuyết 。
+nhĩ thời thế tôn phục dĩ kệ đáp 。
+phi vô tính vô sinh diệc phi cố chư duyên phi hữu tính nhi danh danh diệc phi vô nghĩa
+nhất thiết chư ngoại đạo thanh văn cập duyên giác thất trụ phi cảnh giới thị danh vô sinh tướng
+viễn li chư nhân duyên diệc li nhất thiết sự duy hữu vi tâm trụ tưởng sở tưởng câu li
+kì thân tùy chuyển biến ngã thuyết thị vô sinh vô ngoại tính phi tính diệc vô tâm nhiếp thụ
+đoạn/đoán trừ nhất thiết kiến ngã thuyết thị vô sinh như thị vô tự tính không đẳng ưng phân biệt
+phi không cố thuyết không vô sinh cố thuyết không 。
+   　thông viết đại tuệ kí lĩnh vô sinh chi nghĩa vi trừ ngoại đạo sinh luận nãi phục vấn
+   　phật thuyết vô sinh dĩ hà nghĩa đắc danh vi chư pháp vô tính nhất hướng thị vô da
+   　vi quan sát chư duyên phi hữu tự tính nhi đắc danh da kì nghĩa hà cư phật vị
+   　dĩ nhất hướng vô tính vi vô sinh giả tắc đoạ ư không dĩ chư duyên phi hữu tính
+   　vi vô sinh giả tắc trục ư cảnh cảnh khứ tắc vô vô sinh hĩ cố giai phi dã
+   　yếu dĩ vô sinh chi danh y ư tự thể vô sinh chi nghĩa duy bát địa xả tạng
+   　nãi năng chứng tri nhất thiết ngoại đạo thanh văn duyên giác cập thất địa bồ tát giai phi
+   　kì cảnh giới bỉ xứ vô sinh tướng khả đắc cố dĩ thị nghĩa đắc danh dã hà ngôn
+   　hồ vô sinh tướng da bỉ viễn li thế gian nhân duyên nhất thiết hữu vi chi pháp diệc
+   　li tức diệt nhân duyên nhất thiết vô vi chi sự hữu vô câu li vô hữu năng tác
+   　giả duy y vi diệu tịch tĩnh tâm đam nhiên thường trụ thị danh bất động địa thị danh
+   　trụ địa duy nhất tâm kiến lập ngã thuyết thị vô sinh dã chư pháp kí vô nhân duyên
+   　li ư hữu vô phân biệt tắc năng tưởng sở tưởng câu li vạn niệm câu dân ngã thuyết
+   　thị vô sinh dã duy thức tưởng câu đoạn/đoán đắc chuyển sở y kì thân chuyển biến hoạch ý
+   　sinh thân sinh bản bất sinh ngã thuyết thị vô sinh dã bỉ sở kiến ngoại vật hữu tức
+   　phi hữu vô thật bất thật kì tâm vô sở nhiếp thủ thị như ảo mộng mao luân kiền
+   　thành dương diễm đẳng đoạn/đoán trừ nhất thiết vọng phân biệt kiến ngã thuyết thị vô sinh dã nhược
+   　dĩ chư duyên phi hữu tính vi vô sinh cập dĩ nhất hướng vô tính vi vô sinh giả
+   　khái dĩ nhất thiết đoạn/đoán diệt bất sinh vi vô sinh dã vận thất kì nghĩa hĩ như thị
+   　tắc hướng sở vân vô tự tính cập không đẳng văn cú ưng đương tức thử phân biệt nhi
+   　thuyết dĩ không phi không cố thuyết danh vi không dĩ sinh vô sinh cố thuyết danh vi không
+   　hữu nhi bất hữu cố vi diệu hữu vô nhi bất vô cố vi chân vô khởi dĩ vô
+   　tự tính nhi khái đồng ư vô da hoàng bách vân thanh văn giả nhân thanh đắc ngộ cố
+   　vị chi thanh văn đãn bất liễu tự tâm ư thanh giáo thượng khởi giải hoặc nhân thần thông
+   　hoặc nhân thụy tướng ngôn ngữ vận động văn hữu bồ đề niết bàn tam a tăng kì kiếp
+   　tu thành phật đạo giai thuộc thanh văn đạo vị chi thanh văn phật duy trực hạ đốn liễu
+   　tự tâm bản lai thị phật vô nhất pháp khả đắc vô nhất hành khả tu thử thị vô
+   　thượng đạo thử thị chân như phật học đạo nhân chi phạ nhất niệm hữu tức dữ đạo cách
+   　hĩ niệm niệm vô tướng niệm niệm vô vi tức thị vô học đạo nhân nhược dục đắc thành
+   　phật nhất thiết phật pháp tổng bất dụng học duy học vô cầu vô trước vô cầu tức tâm
+   　bất sinh vô trước tức tâm bất diệt bất sinh bất diệt tức thị phật bát vạn tứ thiên
+   　pháp môn đối bát vạn tứ thiên phiền não chi thị giáo hoá tiếp dẫn môn bản vô nhất
+   　thiết pháp li tức thị pháp tri li giả thị phật đãn li nhất thiết phiền não thị vô
+   　pháp khả đắc thử hoàng bách vô nhất pháp khả đắc trực hiển vô sinh chi chỉ thật dữ
+   　thử đoạn ám hợp 。
+nhân duyên số hòa hợp tắc hữu sinh hữu diệt li chư nhân duyên số vô biệt hữu sinh diệt
+xả li nhân duyên số canh vô hữu dị tính nhược ngôn nhất dị giả thị ngoại đạo vọng tưởng
+hữu vô tính bất sinh phi hữu diệc phi vô trừ kì số chuyển biến thị tất bất khả đắc
+(đường vân duy trừ chúng duyên hội ư trung kiến khởi diệt )đãn hữu chư tục số triển chuyển vi câu 鎻li bỉ nhân duyên
+鎻sinh nghĩa bất khả đắc sinh vô tính bất khởi li chư ngoại đạo quá đãn thuyết duyên câu
+鎻phàm ngu bất năng liễu 。
+   　thông viết thượng ngôn viễn li chư nhân duyên diệc li nhất thiết sự ngã thuyết thị vô sinh
+   　hà giả vi nhân duyên hà dĩ vị chi li tai thế gian nhân duyên pháp hữu thập nhị
+   　số viết vô minh chí lão tử thị dã nhược nhất niệm vô minh sinh dữ thập nhị nhân
+   　duyên số hòa hợp tức hữu sinh hữu diệt bất li khổ hải nhược nhất niệm vô minh diệt
+   　dữ thập nhị nhân duyên số li thử ngoại canh vô biệt pháp năng vi sinh diệt giả cố
+   　năng xả li nhân duyên số đương hạ tức thị vô sinh vô minh thật tính tức thị phật
+   　tính khởi canh hữu dị tính tai nhược ngôn tính thị nhất thập nhị nhân duyên thị dị ư
+   　trung phục lập nhất dị câu bất câu kiến giai thị ngoại đạo vọng tưởng phân biệt như trừ
+   　khí quan không thuyết không thị nhất bỉ đại hư không hà thường hữu nhất dị tai kí phi
+   　nhất dị tức phi hữu vô cố hữu tính vô tính bất sinh hữu vô chi tính kí bất
+   　khả đắc tắc phi hữu phi vô diệc bất khả đắc duy trừ chúng duyên hòa hợp kì số
+   　chuyển biến kiến hữu sinh diệt sinh diệt duy thị kì số thị chư nhất dị hữu vô tất
+   　bất khả đắc dã sở vị kì số chuyển biến giả đãn chư thế tục vị minh chân đế
+   　thuyết hữu thập nhị nhân duyên giả danh thí thiết triển chuyển sinh diệt như câu như 鎻liên
+   　hoàn bất đoạn/đoán nhiên chân như tính trung li bỉ nhân duyên phi hữu phi vô bản tự phi
+   　phọc hà canh cầu thoát dữ bỉ nhân duyên câu 鎻liễu vô can thiệp nhi sinh diệt hà
+   　tự sinh hồ ngã sở thuyết vô sinh chi nghĩa tức nhân duyên li nhân duyên cầu kì sinh
+   　nghĩa bất khả đắc dã sinh tức vô nghĩa tức vô sinh tính kí vô sinh tính sinh tức
+   　bất sinh thị sinh vô tự tính nguyên bất sinh khởi bất li sinh pháp nhi hiển vô sinh
+   　li chư ngoại đạo nhất thiết vô hữu đoạn/đoán diệt chi quá đãn ngã thuyết nhân duyên câu 鎻
+   　đương hạ bản tự vô sinh tắc phi bỉ phàm ngu sở năng liễu dã chư nhân bất tự
+   　nhân tất đãi ư duyên duyên bất tự duyên tất đãi ư nhân nhân duyên các bản vô sinh
+   　thử duy thánh trí sở giác nhi ngoại đạo khởi năng trắc tai tăng vấn thạch sương như hà
+   　thị hòa thượng thâm thâm xứ sương vân vô tu 鎻tử lưỡng đầu dao đầu tử tụng vân
+   　tam canh nguyệt lạc lưỡng sơn minh cổ đạo trình dao đài mãn sinh kim 鎻dao thời vô
+   　thủ bả bích ba tâm nguyệt thỏ thường hành hựu tăng vấn thạch sương chân thân hoàn xuất thế
+   　dã vô sương vân bất xuất thế tăng vân tranh nại chân thân hà sương vân lưu li bình
+   　tử khẩu thiên đồng niêm vân thông thân cập tận triệt để vô công tản thủ hưng lai tùy
+   　xứ đắc dụng hoàn thức thạch sương lão hán ma đương đường vô ảnh tích biến giới bất tằng
+   　tạng ư thử nhị tắc công án khám phá phương giải sinh tức vô sinh chi chỉ 。
+nhược li duyên câu 鎻biệt hữu sinh tính giả thị tắc vô nhân luận phá hoại câu 鎻nghĩa
+như đăng hiển chúng tượng câu 鎻hiện nhược nhiên thị tắc li câu 鎻biệt canh hữu chư tính
+vô tính vô hữu sinh như hư không tự tính nhược li ư câu 鎻tuệ vô sở phân biệt
+phục hữu dư vô sinh hiền thánh sở đắc pháp bỉ sinh vô sinh giả thị tắc vô sinh nhẫn 。
+   　thông viết đãn thuyết duyên câu 鎻bản tự vô sinh thử phàm ngu bất năng liễu dã do
+   　bỉ chấp trước ngoại duyên chư pháp dĩ vi hữu nhất hữu dị vị chư nhân duyên thị sinh
+   　diệt pháp biệt hữu tác giả thị bất sinh bất diệt pháp nhược li nhân duyên câu 鎻biệt
+   　hữu sinh tính giả thị tắc vô nhân chi luận vị nhất thiết thuyết vô nhân sinh phi tùng
+   　vô minh vọng tưởng duyên sinh sở dĩ phá hoại nhân duyên chi nghĩa như thắng diệu vi trần
+   　đẳng thị vị biệt hữu dị nhân bỉ đồ kiến nhân duyên câu 鎻sinh diệt hiển hiện thường
+   　tại mục tiền đãn như đăng chiếu chúng tượng đăng tự đăng tượng tự tượng bất tướng vi sinh
+   　dã nhân duyên câu 鎻như chúng tượng hiện chúng tượng tiên hữu đãi đăng nhi kiến li chúng
+   　tượng ngoại biệt hữu đăng tính thị tắc li câu 鎻ngoại biệt canh hữu chư tính chư tính
+   　bất dữ câu 鎻tướng sinh cứu cánh vô nhân cứu cánh đoạn/đoán diệt thị dĩ cố thị chư
+   　duyên phi hữu tính nhi danh vô sinh giả kì khả thông hồ hoặc vị nhất thiết vô tính
+   　cố vô hữu sinh thể tướng như hư không tướng tự nguyên vô sở hữu thử bất năng tức
+   　câu 鎻li câu 鎻tất li khứ câu 鎻nhi hậu hiển kì vô sinh dã thử nãi
+   　nhị thừa ngu phu sở chứng thiên không chi kiến nhược tất li ư câu 鎻đãng nhiên nhất
+   　không tuy hữu trí tuệ diệc vô sở thí ư thùy phân biệt sinh bất sinh nghĩa hồ thử
+   　dĩ vô tính vi vô sinh giả diệc phi dã phục hữu dư vô sinh hữu tự ư nhị
+   　thừa nhi thật phi nhị thừa giả nãi tam hiền thập thánh sở đắc chi pháp bỉ ư sinh
+   　nhi vô sinh bất li câu 鎻nhi diệc bất phọc ư câu 鎻thị tắc tiêm chứng vô
+   　sinh do nhất địa nhập nhất địa chí đắc vô sinh pháp nhẫn nhẫn lực kiên định bất phục
+   　canh sinh sở vị duy hữu vi tâm trụ tưởng sở tưởng câu li giả dã thử ngã sở
+   　vị vô sinh chi nghĩa khởi bỉ phàm ngu sở năng liễu hồ thuý nham chân thị chúng vân
+   　bất kiến nhất pháp thị đại quá hoạn sơn hà đại địa nhật nguyệt tinh thần sắc không minh
+   　ám bất thị nhất pháp niêm khởi trụ trượng vân phàm phu kiến trụ trượng hoán tác trụ trượng
+   　thanh văn nhân kiến trụ trượng nhận đắc ngoan không bát vô trụ trượng bồ tát nhân kiến trụ
+   　trượng kỉ tằng trụ trước xỉ nha cơ lai khiết phạn khốn lai đả thụy hàn lai hướng hoả
+   　nhiệt tắc thủ lương bất kiến đạo nhất thiết trí trí thanh tịnh nhẫm ma thuyết thoại tiếu phá
+   　độ địa tị khổng thuyết đáo nhất thiết trí trí thanh tịnh nhất thiết tịch tĩnh nhất thiết vô
+   　sinh ư hướng thượng ba tị thượng cách nhất trần sâm 。
+nhược sứ chư thế gian quan sát câu 鎻giả nhất thiết li câu 鎻tùng thị đắc tam muội
+si ái chư nghiệp đẳng thị tắc nội câu 鎻toàn toại nê đoàn luân chủng tử đẳng danh ngoại
+nhược sứ hữu tha tính nhi tùng nhân duyên sinh bỉ phi câu 鎻nghĩa thị tắc bất thành tựu
+nhược sinh vô tự tính bỉ vi thùy câu 鎻triển chuyển tướng sinh cố đương tri nhân duyên nghĩa
+kiên thấp noãn động pháp phàm ngu sinh vọng tưởng li số vô dị pháp thị tắc thuyết vô tính
+như y liệu chúng bệnh vô hữu nhược can luận dĩ bệnh sai biệt cố vi thiết chủng chủng trị
+ngã vi bỉ chúng sinh phá hoại chư phiền não tri kì căn ưu liệt vi bỉ thuyết độ môn
+phi phiền não căn dị nhi hữu chủng chủng pháp duy thuyết nhất thừa pháp thị tắc vi đại thừa 。
+   　thông viết ngoại đạo phàm phu phá hoại câu 鎻giả bất tri nhất thiết thế gian vô phi
+   　câu 鎻thật bất khả phá dã nhị thừa ngu phu dục li câu 鎻giả bất tri li
+   　câu 鎻cầu pháp thử tâm chung bất đắc định dã nhược sứ chư thế gian nhân y hiền
+   　thánh sở đắc pháp quan sát câu 鎻chi nghĩa giải ngộ thập nhị duyên sinh bản vô tự
+   　tính tức nhất thiết li ư câu 鎻bất vi câu 鎻sở phọc tùng thị nhi nhập chứng
+   　ư tam muội đắc tịch tĩnh lạc/nhạc/nhạo dữ tiền thánh hiền bất viễn hĩ vân hà quan sát bỉ
+   　nhân duyên câu 鎻hữu nội hữu ngoại như vô minh si ái đẳng thập nhị nhân duyên luân
+   　chuyển tam thế vi nội câu 鎻như toàn toại đắc hoả nê đoàn thành bình chủng tử sinh
+   　nha đẳng vi ngoại nhân duyên các hữu tự tính tướng duyên nhi khởi nhược sứ hữu tha tính
+   　dị nhân năng vi thế gian nhân duyên sinh pháp giả tắc toàn toại khả dĩ sinh nha chủng
+   　tử khả dĩ thành bình nhi lão tử bệnh khổ bất do si ái nghiệp sinh phi câu 鎻
+   　chi nghĩa hĩ như thị tắc phàm bất li câu 鎻giả giai đắc tam muội thế gian hữu
+   　thị sự hồ cố bỉ vô nhân chi thuyết bất thành tựu dã nhược nhất hướng đoạn/đoán diệt sinh
+   　vô tự tính bỉ hiện tiền hữu sinh hiện tiền hữu diệt phục vi thùy câu 鎻nhi bất
+   　đắc giải thoát da thị tắc vô minh si ái triển chuyển tướng sinh sinh sinh tử tử luân
+   　hồi bất tức đương tri thị nhân duyên chi nghĩa chiêu nhiên nhĩ mục cố bất khả đắc nhi
+   　phá hoại dã chí ư kiên thấp noãn động vi địa thuỷ hoả phong tứ đại chi tính phàm
+   　ngu vọng tưởng dĩ vi vô chủng nhân duyên sinh vô nhân thân cố thị chư duyên nhất nhất
+   　vô hữu tự tính bất tri thử tứ đại pháp nội hữu thân tướng phân ngoại hữu sơ tướng
+   　phân giai tùng vô minh sinh khởi tân nhuận sinh thuỷ diễm thịnh sinh hoả phiêu động sinh phong
+   　phân đoạn sinh địa li thập nhị nhân duyên chi số canh vô biệt dị pháp nhi vi danh
+   　sắc duyên giả địa thuỷ hoả phong giai danh sắc dã bỉ đãn duyên nhất thiết vô sở hữu
+   　pháp thuyết các các vô hữu tự tính li thử nhân duyên câu 鎻nhi thuyết tứ đại bản
+   　vô tính sinh dã nhược như thị thuyết vô sinh giả nhất thiết bản vô canh hà hữu bệnh
+   　canh hà giả ư tu trị hồ cố ngã thuyết vô sinh nhân duyên thể không bản tự bất
+   　sinh vi chư chúng sinh nghiệp duyên câu 鎻thế sự bất tức hữu chư phiền não bất đắc
+   　an ổn khoái lạc/nhạc/nhạo như bệnh giả chi bệnh chủng chủng sai biệt nhi y giả vi thiết chủng
+   　chủng trị pháp yếu ư khứ bệnh nhi chỉ vô hữu nhược can hư vọng luận thuyết dã ngã
+   　vi chúng sinh diệt trừ phiền não bệnh hữu chi mạt phiền não hữu căn bản phiền não tri
+   　kì căn khí ưu liệt bất đồng vi thuyết đại tiểu tam thừa chi pháp dĩ độ thoát chi
+   　phi vị phiền não căn dị nhi hữu chủng chủng đối pháp chi pháp dã bất li câu 鎻
+   　tức vi phiền não năng li câu 鎻tức vi bồ đề tại chư chúng sinh năng tự quan
+   　sát hà như nhĩ cố ngã vi bỉ thuyết chư độ môn tuy hữu chủng chủng kiến lập duy
+   　thuyết nhất thừa chi pháp linh bỉ chúng sinh ngộ nhập vô sinh pháp nhẫn khai phật tri kiến
+   　đương hạ giải thoát liễu vô câu 鎻khả đắc thử tắc tức câu 鎻li câu 鎻tức
+   　nhân duyên phi nhân duyên phiền não tức thị bồ đề sinh tử tức thị niết bàn thị danh
+   　vi đại thừa chi pháp dã pháp hoa vân duy hữu nhất thừa pháp vô nhị diệc vô tam
+   　trừ phật phương tiện thuyết đãn dĩ giả danh tự dẫn đạo ư chúng sinh nhập đại thừa vi
+   　bản thử chi vị dã bá trượng vân chi như kim ư nhất nhất cảnh bất hoặc bất loạn
+   　bất sân bất hỉ ư tự kỉ lục căn môn đầu quát tước tính đương đắc tịnh khiết thị
+   　vô sự nhân thắng nhất thiết tri giải đầu đà tinh tấn thị danh thiên nhãn diệc danh liễu
+   　chiếu vi nhãn thị danh pháp giới tính thị tác xa tái nhân quả phật xuất thế độ chúng
+   　sinh tắc tiền niệm bất sinh hậu niệm bất tục tiền niệm nghiệp tạ danh độ chúng sinh tiền
+   　niệm nhược sân tức tương hỉ dược trị chi tức danh hữu phật độ chúng sinh đãn thị nhất
+   　thiết ngôn giáo chi thị trị bệnh vi bệnh bất đồng dược diệc bất đồng sở dĩ hữu thời
+   　thuyết hữu phật hữu thời thuyết vô phật thật ngữ trị bệnh bệnh nhược đắc ta cá cá thị
+   　thật ngữ trị bệnh nhược bất ta cá cá thị hư vọng ngữ thật ngữ thị hư vọng ngữ
+   　sinh kiến cố hư vọng thị thật ngữ đoạn/đoán chúng sinh điên đảo cố vi bệnh thị hư vọng
+   　chi hữu hư vọng dược tướng trị phật xuất thế độ chúng sinh thị cửu bộ giáo ngữ thị
+   　bất liễu nghĩa giáo ngữ sân cập hỉ bệnh cập dược tổng thị tự kỉ canh vô lưỡng nhân
+   　hà xứ hữu phật xuất thế hà xứ hữu chúng sinh khả độ như kinh vân thật vô chúng
+   　sinh đắc diệt độ giả diệc vân bất ái phật bồ đề bất tham nhiễm hữu vô chư pháp
+   　danh vi độ tha diệc bất thủ trụ tự kỉ danh vi tự độ chí tai ngôn hồ thuyết
+   　đáo bệnh cập dược tổng thị tự kỉ canh vô lưỡng nhân tu cụ tông nhãn thuỷ đắc 。
+(ngụy vân vô thường phẩm đệ bát )。
+nhĩ thời đại tuệ bồ tát ma ha tát phục bạch phật ngôn thế tôn nhất thiết ngoại đạo giai
+khởi vô thường vọng tưởng thế tôn diệc thuyết nhất thiết hành vô thường thị sinh diệt pháp thử nghĩa
+vân hà vi tà vi chính vi hữu kỉ chủng vô thường phật cáo đại tuệ nhất thiết ngoại đạo
+hữu thất chủng vô thường phi ngã pháp dã hà đẳng vi thất bỉ hữu ngôn thuyết tác dĩ nhi
+xả thị danh vô thường hữu thuyết hình xứ hoại thị danh vô thường hữu thuyết tức sắc thị vô
+thường hữu thuyết sắc chuyển biến trung gian thị danh vô thường vô gian tự chi tán hoại như nhũ
+lạc đẳng chuyển biến trung gian bất khả kiến vô thường huỷ hoại nhất thiết tính chuyển (đường vân nhất thiết chư pháp
+tướng tục bất đoạn/đoán năng linh biến dị tự nhiên quy diệt do như nhũ lạc tiền hậu biến dị tuy bất khả kiến nhiên tại pháp trung hoại nhất thiết pháp )hữu thuyết tính vô
+thường hữu thuyết tính vô tính vô thường hữu thuyết nhất thiết pháp bất sinh vô thường nhập nhất thiết
+pháp 。
+   　thông viết thế tôn thuyết chủng chủng pháp dẫn đạo chúng sinh trừ phiền não bệnh chứng vô sinh
+   　nhẫn hữu thật nhân duyên hữu thật giải thoát phi nhược ngoại đạo hư vọng luận nghị dã đại
+   　tuệ hựu dục thế tôn ban minh ngoại đạo vô thường vọng tưởng dữ ngã giáo sở thuyết chư
+   　hành vô thường thị sinh diệt pháp thùy tà thùy chính dục linh tương lai bất đoạ bỉ pháp
+   　chủng chủng tà luận dã thế tôn lược cử ngoại đạo hữu thất chủng vô thường thử kì tối
+   　tinh giả bất dong bất ban ngã pháp vị tứ đại phi hữu ngũ âm giai không thử chính
+   　luận dã ngoại đạo dục không tứ đại nhi thất kì chân dục không ngũ âm nhi di kì
+   　bán dĩ tri sắc thụ tưởng đương không cùng chí hành âm tân tân bất trụ chi địa toại
+   　dĩ vô thường vi chân thể dã hành âm trung u ẩn bất khả khuy xứ tắc dĩ vi
+   　minh đế đoạ ư đoạn/đoán kiến trung gian ngã chấp bất khả diệt xứ tắc dĩ vi thần ngã
+   　đoạ ư thường kiến hữu thuyết hình xứ biến hoại thị vô thường giả hữu thuyết sắc đẳng tức
+   　thị vô thường giả thị dĩ tứ đại sở tạo sắc vi vô thường dã cố bất năng không
+   　tứ đại hữu thuyết thuỷ tác tức xả thị danh vô thường giả hữu thuyết vật vô thường giả
+   　hữu thuyết tính vô tính hữu pháp vô pháp nhi tất vô thường giả vị vô năng tác sở
+   　tác hựu vô tứ đại khả không hữu thuyết nhất thiết pháp bất sinh vô thường nhập nhất thiết
+   　pháp giả hữu thuyết sắc chuyển biến trung gian thị danh vô thường giả vị sinh diệt pháp trung
+   　hữu bất sinh giả tại sắc chuyển biến trung hữu bất biến giả tồn như kì ngôn dã khởi
+   　bất cận lí bỉ đãn đối sinh diệt nhi cầu bất sinh li chuyển biến nhi cầu bất biến
+   　thử giai bất li ngoại pháp hữu vô tác thường vô thường kiến dã tây vực quật đa tam
+   　tạng giả thiên trúc nhân dã ư lục tổ ngôn hạ khế ngộ hậu du ngũ đài kiến nhất
+   　tăng kết am tĩnh toạ vấn viết sư cô toạ hề vi viết quan tĩnh sư viết quan giả
+   　hà nhân tĩnh giả hà vật kì tăng tác lễ vấn viết thử lí hà như sư viết nhữ
+   　hà bất tự quan tự tĩnh bỉ tăng mang nhiên sư viết nhữ xuất thùy môn da viết tú
+   　thiền sư sư viết ngã tây vực dị đạo tối hạ chủng giả bất đoạ thử kiến ô nhiên
+   　không toạ ư đạo hà ích kì tăng khước vấn sư sở sư giả hà nhân sư viết ngã
+   　sư lục tổ nhữ hà bất tốc vãng tào khê quyết kì chân yếu kì tăng tức vãng sâm
+   　lục tổ lục tổ thùy hối dữ sư phù hợp tăng tức ngộ nhập sứ bất ngộ tam tạng
+   　điểm phá kỉ hà bất vi ngoại đạo kiến dã 。
+đại tuệ tính vô tính vô thường giả vị tứ đại cập sở tạo tự tướng hoại tứ đại tự
+tính bất khả đắc bất sinh (đường vân năng tạo sở tạo kì tướng diệt hoại đại chủng tự tính bản lai bất khởi )bỉ bất sinh vô thường
+giả phi thường vô thường nhất thiết pháp hữu vô bất sinh (đường vân vị thường dữ vô thường hữu vô đẳng pháp như thị nhất thiết giai
+vô hữu khởi )phân tích nãi chí vi trần bất khả kiến thị bất sinh nghĩa phi sinh thị danh bất
+sinh vô thường tướng nhược bất giác thử giả đoạ nhất thiết ngoại đạo sinh vô thường nghĩa 。
+   　thông viết ngoại đạo thất vô thường luận tổng bất xuất hữu vô đoạn/đoán thường nhị kiến thế tôn
+   　tiên chỉ xuất đệ lục đệ thất nhị chủng đoạn/đoán kiến phá chi tính vô tính đường vân vật
+   　vô vật vị tứ đại chi vật cập sở tạo chi vật tự tính câu hoại tứ đại năng
+   　tạo kí tạo sắc dĩ tự thể dĩ hoại nhi sở tạo giả phi bản tứ đại hựu diệc
+   　tùy hoại như chủng sinh nha nhị câu vô thường kí vô năng tạo hựu vô sở tạo tắc
+   　tứ đại chi tính liễu bất khả đắc kí vô tự tính tức thị bản lai bất sinh thử
+   　sở vị tiêu nha bất tác nha sự phá bình bất tác bình sự đoạn/đoán diệt chủng tính giả
+   　dã bỉ bất sinh vô thường nhập nhất thiết pháp giả phi thị nhất thiết pháp thường dữ vô
+   　thường cập hữu dữ vô nhị câu bất sinh chi vị dã bỉ dĩ bất sinh vô thường thiên
+   　trụ nhất thiết chư pháp chi trung nãi chí phân tích sinh pháp chí ư vi trần diệc vô
+   　sở kiến dĩ thị chi cố thuyết danh bất sinh thị bỉ bất sinh chi nghĩa dĩ sinh hiển
+   　bất sinh đãn khả vị chi phi sinh do vân hữu dĩ hoàn vô phi phục tích nhật chi
+   　hữu vân nhĩ an khả vị chi bất sinh hồ thị danh bất sinh vô thường chi tướng hữu
+   　bất sinh vô thường tướng khả đắc tuy thuyết bất sinh nãi thị sinh vô thường luận dã ngã
+   　pháp đệ tử nhược bất giác thử vọng kế bất sinh hoàn thành sinh pháp giả tức đoạ bỉ
+   　sinh vô thường luận bỉ đồ kiến chư pháp quy diệt dĩ vi bất sinh bất tri sinh diệt
+   　tướng nhưng diệt tức thị sinh cố dĩ sinh vi vô thường giả kì luận tắc hoại chỉ y
+   　đạo giả lai sâm tào sơn sơn vấn mạc thị chỉ y đạo giả phủ giả viết bất cảm
+   　sơn viết như hà thị chỉ y hạ sự giả viết nhất cừu tài quải thể vạn pháp tất
+   　giai tri sơn viết như hà thị chỉ y hạ dụng giả cận tiền ưng nặc tiện lập thoát
+   　sơn viết nhữ chi giải nhẫm ma khứ hà bất nhẫm ma lai giả hốt khai nhãn vấn viết
+   　nhất linh chân tính bất giả bào thai thời như hà sơn viết vị thị diệu giả viết như
+   　hà thị diệu sơn viết bất tá tá giả trân trùng hạ tăng đường tiện hoá sơn thị tụng
+   　viết giác tính viên minh vô tướng thân mạc tương tri kiến vọng sơ thân niệm dị tiện ư
+   　huyền thể muội tâm sai bất dữ đạo vi lân tình phân vạn pháp trầm tiền cảnh thức giám
+   　đa đoan tang bản chân như thị cú trung toàn hiểu hội liễu nhiên vô sự tích thời nhân
+   　như ngoại đạo tình phân vạn pháp trầm tiền cảnh giả cố vô túc đạo ngã pháp trung thức
+   　giám đa đoan đoạ sinh vô thường luận giả kì khả bất tri sở trạch hồ 。
+đại tuệ tính vô thường giả thị tự tâm vọng tưởng phi thường vô thường tính sở dĩ giả hà
+vị vô thường tự tính bất hoại đại tuệ thử thị nhất thiết tính vô tính vô thường sự trừ
+vô thường vô hữu năng linh nhất thiết pháp tính vô tính giả như trượng ngoã thạch phá hoại chư
+vật (đường vân bỉ lập vô thường tự bất diệt hoại năng hoại chư pháp nhược vô vô thường hoại nhất thiết pháp pháp chung bất diệt thành ư vô hữu như trượng đôi ngoã thạch năng hoại ư vật nhi
+tự bất hoại thử diệc như thị )hiện kiến các các bất dị thị tính vô thường sự phi tác sở tác hữu
+sai biệt thử thị vô thường thử thị sự tác sở tác vô dị giả nhất thiết tính thường vô
+nhân tính (đường vân vô sai biệt cố năng tác sở tác ưng câu thị thường bất kiến hữu nhân năng linh chư pháp thành ư vô cố )đại tuệ nhất thiết tính
+vô tính hữu nhân phi phàm ngu sở tri phi nhân bất tướng tự sự sinh nhược sinh giả nhất
+thiết tính tất giai vô thường thị bất tướng tự sự tác sở tác vô hữu biệt dị nhi tất
+kiến hữu dị (đường vân nhược năng sinh giả nhất thiết dị pháp ưng tịnh tướng sinh bỉ pháp thử pháp năng sinh sở sinh ưng vô hữu biệt hiện kiến hữu biệt vân hà dị nhân sinh ư
+dị quả )nhược tính vô thường giả đoạ tác nhân tính tướng nhược đoạ giả nhất thiết tính bất cứu cánh
+nhất thiết tính tác nhân tướng đoạ giả tự vô thường ưng vô thường vô thường vô thường cố nhất
+thiết tính bất vô thường ưng thị thường (đường vân nhược vô thường tính thị hữu pháp giả ưng đồng sở tác tự thị vô thường tự vô thường cố sở vô
+thường pháp giai ưng thị thường )nhược vô thường nhập nhất thiết tính giả ưng đoạ tam thế bỉ quá khứ sắc dữ
+hoại câu vị lai bất sinh sắc bất sinh cố hiện tại sắc dữ hoại tướng câu sắc giả tứ
+đại tích tập sai biệt tứ đại cập tạo sắc tự tính bất hoại li dị bất dị cố (ngụy vân
+dĩ bỉ bỉ bất tướng li cố )nhất thiết ngoại đạo nhất thiết tứ đại bất hoại nhất thiết tam hữu tứ đại
+cập tạo sắc tại sở tri hữu sinh diệt li tứ đại tạo sắc nhất thiết ngoại đạo ư hà
+sở tư duy tính vô thường tứ đại bất sinh tự tính tướng bất hoại cố (đường vân nhất thiết ngoại đạo kế tứ
+đại chủng thể tính bất hoại sắc giả tức thị đại chủng sai biệt đại chủng tạo sắc li dị bất dị cố kì tự tính diệc bất hoại diệt đại tuệ nhị hữu chi trung năng tạo sở tạo mạc bất
+giai thị sinh trụ diệt tướng khởi canh biệt hữu vô thường chi tính năng sinh ư vật nhi bất diệt da )。
+   　thông viết ngoại đạo sở thuyết tính vô thường giả ngụy vân dĩ vô vật cố danh vi vô
+   　thường vị ư phi thường phi vô thường xứ hư vọng phân biệt chư pháp phi thường thị vô
+   　thường tính kì nghĩa vân hà dĩ tự tính bất diệt cố tự tính bất diệt giả vô thường
+   　chi tính thường bất hoại diệt cố tự tính bất hoại năng hoại chư pháp thử nhất thiết pháp
+   　hoại diệt vô thường chi sự sở do thành dã nhược trừ thử vô thường tự tính tức bất
+   　năng linh nhất thiết pháp hữu dĩ hoàn vô quy ư hoại diệt như trượng trùy ngoã thạch đẳng
+   　năng hoại chư vật nhi tự thể bất hoại thử vô thường tính diệc do thị dã dĩ tính
+   　vô thường cố hiện kiến chư pháp vô thường các các bất dị chủng chủng lưu chuyển chủng chủng
+   　biến hiện thị sự chi vô thường giai thử vô thường vi chi tính dã thị tính vô thường
+   　sự như lăng nghiêm kinh vân tính nhất thiết tâm vô hữu năng tác sở tác sai biệt tuy
+   　hữu trí giả bất năng phẫu tích vạn tượng tùng trung phân biệt thử thị vô thường thử thị
+   　sở tác sự thị năng tác dữ sở tác vô dị dã như thị thuyết giả hữu quá dĩ
+   　bỉ nhân quả vô sai biệt cố nhược tác sở tác vô dị giả tắc năng tác sở tác
+   　câu giai thị thường bất kiến hữu nhân năng linh chư pháp hoại diệt quy ư vô thường nhi
+   　bỉ sở lập vô thường vi tác giả kì nghĩa bất thành dĩ nhất thiết pháp vô nhân tính
+   　cố nhiên nhất thiết chư pháp hữu tính vô tính sinh khởi hoại diệt thật diệc hữu nhân vô
+   　luận nhân thiên y chính hữu vô tướng khuynh nãi chí nhất nhân phát tâm quy nguyên thập phương
+   　hư không câu vẫn mạc bất hữu nhân đãn phi phàm ngu chi sở năng tri nhĩ hữu thị
+   　nhân tắc hữu thị quả quả dữ nhân tất tướng tự nhược bản phi nhân nhi bất tướng tự
+   　quả sinh thị vị dị nhân nhược dị nhân năng sinh dị quả giả tắc nhất thiết dị pháp
+   　ưng tịnh tướng sinh lí ưng sinh đào đào ưng sinh lí giai vô thường tính giai bất tướng
+   　tự như thị tắc bỉ pháp thử pháp năng sinh sở sinh ưng vô sai biệt nhi kim hiện
+   　tiền chư pháp tất kiến hữu dị các hữu năng tác sở tác nhân quả lịch nhiên vân hà
+   　dị nhân năng sinh dị quả cố vị bỉ vô nhân tính giả hữu quá nhược vị tính vô
+   　thường thị hữu vật giả tất nhiên năng tác tất nhiên vi nhân thị hữu tác nhân tính tướng
+   　ưng đồng nhân thể sở tác chi sự đoạ hữu vi pháp bất đắc vị chi tính dã phục
+   　canh hữu quá vị chi tính giả ư nhất pháp trung tức ưng cụ túc nhất thiết chư pháp
+   　nhược đoạ ư hữu giả duy thị nhất thiết sinh diệt pháp bất năng cứu cánh nhất thiết bất
+   　sinh diệt pháp dĩ đồng nhất thiết sở tác nhân quả nghiệp tướng vô sai biệt cố phục canh
+   　hữu quá tự tính kí đoạ ư hữu tác tắc tự vô thường ưng đồng sở tác vô thường
+   　nhi bất đắc kế năng tác giả vi tính thường hĩ duy năng tác vô thường sở tác vô
+   　thường cố tắc sở tác nhất thiết vô thường chi pháp bất thị vô thường ưng đồng năng tác
+   　bất hoại chi thường hĩ sở tác chi sự kí bất khả hoại hà đắc hữu vô thường chi
+   　tính năng hoại chi da hựu vị vô thường tính tức trụ nhất thiết pháp trung nhi vô thường
+   　tính thị thường giả ưng đồng chư pháp đoạ ư tam thế đồng quy ư hoại hà giả nhược
+   　nhập quá khứ quá khứ sắc dĩ hoại nhược nhập vị lai vị lai sắc vị sinh nhược nhập
+   　hiện tại hiện tại sắc bất trụ sa na biến diệt dữ hoại tướng câu sắc kí hoại nhi
+   　vô thường tính diệc dữ chi câu hoại an đắc thường bỉ ngoại đạo vọng kế tứ đại chủng
+   　thể tính bất hoại cập sở tạo sắc tự tính diệc bất hoại đãn dĩ sắc giả tức thị
+   　tứ đại tích tập nhi thành tức thị tứ đại sai biệt nhi hiện thể tính vô nhị li
+   　dị bất dị cố dĩ vi dị tắc tứ đại tích tập vi sở tạo nhân cố phi dị
+   　dã dĩ vi bất dị tắc sắc dĩ hợp thành các các sai biệt phi phục tứ đại hựu
+   　phi bất dị dã dĩ bỉ bỉ bất tướng li cố nhất thiết ngoại đạo dĩ nhất thiết tứ
+   　đại tự tính bất hoại nhập ư nhất thiết tam hữu pháp trung nhi vô thường chi tính thường
+   　tự bất hoại kim quan tam hữu chi trung nhất thiết giai y tứ đại cập sở tạo sắc
+   　tại tại xứ xứ mạc bất giai thị sinh trụ diệt tướng nhân nhân giai tri tứ đại hoại
+   　tắc sắc diệc hoại thế gian khởi hữu li tứ đại tạo sắc ngoại biệt hữu nhất vô thường
+   　chi tính da li tứ đại tạo sắc ngoại tức thị ngoan không canh vô tứ đại chư trần
+   　đẳng pháp ngoại đạo ư hà sở tư duy thuyết hữu tính vô thường tứ đại tính bản bất
+   　sinh năng sinh ư vật nhi tự thể tướng thường bất hoại da ngô cố vị nhược vô thường
+   　nhập nhất thiết tính giả ưng đoạ tam thế đồng quy ư hoại dã kí đồng quy ư hoại
+   　nhi sở lập vật bất hoại chi tông đoạ hĩ tăng vấn triệu châu thế giới hoại thời thử
+   　tính bất hoại như hà thị thử tính châu viết tứ đại ngũ âm tăng vân thử do thị
+   　hoại để như hà thị thử tính châu viết tứ đại ngũ âm pháp nhãn vân thị nhất cá
+   　thị lưỡng cá thị hoại bất hoại thả tác ma sinh hội thí đoạn/đoán khán tu ư thử thứ
+   　đắc phá phương bất đoạ ngoại đạo tà kiến giải 。
+li thuỷ tạo vô thường giả phi tứ đại phục hữu dị tứ đại các các dị tướng tự tướng
+cố phi sai biệt khả đắc bỉ vô sai biệt tư đẳng bất canh tạo nhị phương tiện bất tác
+đương tri thị vô thường (đường vân phi đại chủng hỗ tạo đại chủng dĩ các biệt cố phi tự tướng tạo dĩ vô dị cố phi phục cộng tạo dĩ quai li cố đương
+tri phi thị thuỷ tạo vô thường )bỉ hình xứ hoại vô thường giả vị tứ đại cập tạo sắc bất hoại chí
+cánh bất hoại đại tuệ cánh giả phân tích nãi chí vi trần quan sát hoại tứ đại cập tạo
+sắc hình xứ dị kiến trường đoản bất khả đắc phi tứ đại tứ đại bất hoại hình xứ hoại
+hiện đoạ tại số luận (đường vân thử phi năng tạo cập sở tạo hoại đãn hình trạng hoại kì nghĩa vân hà vị phân tích sắc nãi chí vi trần đãn diệt hình trạng
+trường đoản đẳng kiến bất diệt năng tạo sở tạo sắc thể )sắc tức vô thường giả vị sắc tức thị thường bỉ tắc hình xứ
+vô thường phi tứ đại nhược tứ đại vô thường giả phi tục số ngôn thuyết thế tục ngôn thuyết
+phi tính giả tắc đoạ thế luận kiến nhất thiết tính đãn hữu ngôn thuyết bất kiến tự tướng sinh
+chuyển biến vô thường giả vị sắc dị tính hiện phi tứ đại như kim tác trang nghiêm cụ chuyển
+biến hiện phi kim tính hoại đãn trang nghiêm cụ xứ sở hoại như thị dư tính chuyển biến đẳng
+diệc như thị như thị đẳng chủng chủng ngoại đạo vô thường kiến vọng tưởng hoả thiêu tứ đại thời
+tự tướng bất thiêu các các tự tướng tướng hoại giả tứ đại tạo sắc ưng đoạn/đoán (đường vân như thị đẳng chủng
+chủng ngoại đạo hư vọng phân biệt kiến vô thường tính bỉ tác thị thuyết hoả bất năng thiêu chư đại tự tướng đãn các phân tán nhược năng hoại giả năng tạo sở tạo tắc giai đoạn/đoán diệt )。
+   　thông viết dĩ thượng tam đoan cùng tứ đại phi hữu lưu nhập ư đoạn/đoán thử hạ tứ đoan
+   　cùng tứ đại tạo sắc vô thường tự tính thị thường vị li hồ hữu nhất giả vị tác
+   　dĩ nhi xả dĩ li thuỷ tạo vi vô thường dã bỉ thuyết phát khởi tác sự chi sơ
+   　thật vị thường tác dĩ vi hỗ tạo phi hữu tứ đại phục tạo dị tứ đại dĩ các
+   　các dị tướng cố phi hỗ tạo dã dĩ vi tự tạo tắc tự tướng phi hữu sai biệt
+   　khả đắc an năng phân nhi vi tứ phi tự tạo dã dĩ vi cộng tạo tắc bỉ vô
+   　sai biệt tính các các quai li bất năng phương tiện hòa hợp tức bỉ bất năng hỗ tạo
+   　ư thử canh vô năng tác nhị phương tiện giả tư tứ đại đẳng bất phục canh cộng tạo
+   　dã do thử ngôn chi bản vô tác giả kí vô thuỷ tác bất kiến kì đồng bất kiến
+   　kì dị đương tri li bỉ thuỷ tạo tức thị vô thường vị năng tác giả vi vô thường
+   　dã nhị giả vị hình xứ hoại vô thường kì thuyết tối thố tiên vị năng tạo tứ đại
+   　cập sở tạo sắc câu bất hoại đãn hình xứ hoại cứu cánh phân tích kì sắc nãi chí
+   　vi trần quan sát kì trung thục vi hoại giả đãn tứ đại cập sở tạo sắc hình xứ
+   　trường đoản biến hoại bất khả đắc phi tứ đại năng tạo sở tạo thể tính hoại dã tứ
+   　đại bất hoại đãn hình xứ hoại dị tướng hiện thử tăng khư ngoại đạo sở kế tứ đại
+   　chi tính chu lưu chư thú thể hằng bất biến cố vị tứ đại thường dã tam giả vị
+   　sắc tức vô thường diệc tức hình xứ vô thường chi kiến phi tứ đại vô thường chi vị
+   　dã nhược tứ đại vô thường giả tắc chư thế gian nhất thiết vô thường bất đắc dĩ tục
+   　số ngữ ngôn luận thuyết thế sự dĩ vô thế sự khả đắc cố nhược dĩ thế tục ngôn
+   　thuyết luận thế sự giả thị chư thế sự diệc phi thật hữu đương tri đoạ ư thế luận
+   　tà kiến dĩ thuyết nhất thiết chư pháp duy hữu hư giả danh tự ngôn thuyết bất thật kiến
+   　hữu vô thường tự tướng sinh cố nhược kiến tự tướng sinh giả tức sắc tức không tức tri
+   　chư hành vô thường thị sinh diệt pháp thử ngã pháp trung thu phi thế luận khả tỉ dã
+   　tứ giả kế chuyển biến trung gian vô thường vị năng tạo sở tạo câu thường đãn lưỡng sắc
+   　trung gian hữu vô thường tính năng sứ sắc pháp tướng tục chuyển biến cố nhất thiết sắc dị
+   　tính hiện tắc vị chi hoại phi tứ đại tự tính hoại dã như kim tác trang nghiêm cụ
+   　trang nghiêm cụ hữu chuyển biến tắc vị chi hoại phi kim tính hoại thử như thị dư tính
+   　chuyển biến diệc như thị như nhũ tác tô lạc đẳng tô lạc hữu chuyển biến tắc vị chi
+   　hoại phi nhũ tính hoại như thị chủng chủng ngoại đạo hư vọng phân biệt tác vô thường kiến
+   　thuyết hoả thiêu tứ đại thời tứ đại tự thể câu các phân tán nhi tự tướng thật bất
+   　thiêu nhược hoả năng thiêu tứ đại giả tứ đại tạo sắc đương ưng đoạn/đoán diệt thùy phục vi
+   　năng tạo sở tạo hồ dĩ thượng tứ chủng tà kiến vị tứ đại hữu hình giả tất cánh
+   　hữu diệt tứ đại vô hình giả chung bất năng hoại thử dĩ thường vi vô thường dĩ vô
+   　thường vi thường nhất thiết kiểu loạn tức bán sinh bán diệt bán bất sinh diệt chi luận dã
+   　ngưỡng sơn chỉ tuyết sư tử vân hoàn hữu quá đắc thử sắc giả ma vân môn vân đương
+   　thời tiện dữ suy đảo tuyết đậu vân chỉ giải suy đảo bất giải phù khởi vạn tùng đạo
+   　kí xưng vi sắc tất dữ nhãn đối quá bạch chi sắc duy vô sắc giả bất dữ nhãn
+   　đối vân môn sở dĩ đạo đương thời tiện dữ suy đảo nhược hướng chí bạch vô bạch xứ
+   　nhận trước chính thị đoạ tại vô sắc giới trung tuyết đậu biệt chỉ xuất nhất điều hoạt lộ
+   　hướng suy đảo xứ khước giáo phù khởi phật nhãn vân nhược hướng giá lí phù trì khởi lai
+   　thậm sinh thứ đệ sự phật giác tụng vân nhất sắc vô quá chỉ thị nhân bạch ngân thế
+   　giới lí tần thân siêu nhiên suy đảo hoàn phù khởi tranh tự đông phong hú nhật tân thiên
+   　đồng tụng vân nhất đảo nhất khởi tuyết đình sư tử thận ư phạm nhi hoài nhân dũng ư
+   　vi nhi kiến nghĩa thanh quang chiếu nhãn tự mê gia minh bạch chuyển thân hoàn đoạ vị nạp
+   　tăng gia liễu vô kí đồng sinh đồng tử hà bỉ hà thử noãn tín phá mai hề xuân
+   　đáo hàn chi lương 颷thoát diệp hề thu trừng lạo thuỷ cứ tông môn trung vô sắc biên
+   　thượng bất khả trụ nhi huống hữu các các tự tướng bất hoại giả hồ 。
+đại tuệ ngã pháp khởi phi thường phi vô thường sở dĩ giả hà vị ngoại tính bất quyết định
+cố (ngụy vân ngã bất thuyết ngoại cảnh giới hữu cố )duy thuyết tam hữu vi tâm (đường vân tam giới duy tâm cố )bất thuyết chủng chủng
+tướng hữu sinh hữu diệt tứ đại hợp hội sai biệt tứ đại cập tạo sắc cố vọng tưởng nhị
+chủng sự nhiếp sở nhiếp tri nhị chủng vọng tưởng li ngoại tính vô tính nhị chủng kiến (đường vân bất thuyết
+chư tướng cố đại chủng tính xứ chủng chủng sai biệt bất sinh bất diệt cố phi năng tạo sở tạo cố năng thủ sở thủ nhị chủng thể tính nhất thiết giai tùng phân biệt khởi cố như thật nhi tri
+nhị thủ tính cố )giác tự tâm hiện lượng vọng tưởng giả tư duy tác hành sinh phi bất tác hành li
+tâm tính vô tính vọng tưởng thế gian xuất thế gian xuất thế gian thượng thượng nhất thiết pháp phi
+thường phi vô thường bất giác tự tâm hiện lượng đoạ nhị biên ác kiến tướng tục nhất thiết ngoại
+đạo bất giác tự vọng tưởng thử phàm phu vô hữu căn bản vị thế gian xuất thế gian xuất
+thế gian thượng thượng tùng thuyết vọng tưởng sinh phi phàm ngu sở giác 。
+   　thông viết dĩ thượng thất chủng vô thường giai ngoại đạo tà kiến phi ngã pháp dã nhược ngã
+   　pháp sở khởi duy thuyết đại chủng cập chư trần phi thường phi vô thường thị vị chân thường
+   　siêu quá ngoại đạo tâm lượng sở dĩ giả hà ngoại đạo ư ngoại cảnh giới khởi kiến hoặc
+   　vị thường hoặc vị vô thường bất tri ngoại cảnh giới bất quyết định hữu ngã bất thuyết ngoại
+   　cảnh giới cố ngã thuyết tam giới nội ngoại vô hữu nhất pháp bất tùng vi diệu chân thật
+   　tâm sinh đãn thuyết tam giới duy tâm bản vô sinh diệt bất thuyết chủng chủng chư tướng hữu
+   　sinh hữu diệt cập tứ đại chủng hợp hội sai biệt chi tướng dữ tứ đại năng tạo cập
+   　sở tạo chi sắc dĩ tứ đại chủng duy thị nhân duyên hòa hợp phi đại cập trần thị
+   　thật hữu pháp thị cố thuyết ngôn bất sinh bất diệt cố phi năng tạo sở tạo cố bỉ
+   　ngoại đạo dĩ hư vọng tâm phân biệt năng sở nhị chủng thể tính kiến hữu năng thủ sở
+   　thủ chi sự nhiếp thụ kế trước nhất thiết giai tùng vọng phân biệt khởi cố như thật nhi
+   　tri nhị chủng phân biệt bản giai hư vọng tức bất kiến hữu năng thủ sở thủ viễn li
+   　ngoại pháp hữu vô nhị kiến bất kiến kì hữu cố bất thủ ư hữu bất kiến kì vô
+   　cố bất thủ ư vô duy giác nhất thiết chư pháp giai thị tự tâm hiện lượng như thuỷ
+   　trung nguyệt bất khả vị chi hữu bất khả vị chi vô cố năng li hữu vô kiến nhi
+   　bất phân biệt năng tạo sở tạo hữu sinh hữu diệt dã ngoại đạo nhị chủng kiến khởi ư
+   　vọng tưởng giả do tư tưởng tác hành nhi sinh phân biệt sở tác nghiệp tướng danh vọng tưởng
+   　sinh phi bất tư tưởng tác hành nhi danh vi vọng tưởng dã nhược bất sinh ư tư bất
+   　khởi ư tưởng tức li ư tự tâm sở hiện hữu vô phân biệt li thử vọng tưởng dĩ
+   　tức năng liễu tri thế gian pháp xuất thế gian pháp xuất thế gian thượng thượng pháp nhất thiết
+   　như thật duy thị nhất tâm phi thường phi vô thường dĩ hữu thế gian cập xuất thế gian
+   　thượng thượng chư pháp thị cố bất đắc thuyết ngôn thị thường dĩ năng giác tri duy thị tự
+   　tâm phân biệt kiến cố thị cố phi vô thường nhi chư ngoại đạo bất giác tự tâm hiện
+   　lượng đoạ tại nhị biên ác kiến tướng tục kiến lập thất chủng vô thường luận thử chư ngoại
+   　đạo bất giác tự tâm hư vọng phân biệt vô hữu căn bản trí cố phi chư thánh nhân
+   　phân biệt vô thường hữu căn bản trí cố sở dĩ nhất thiết ngoại đạo bất năng giải liễu
+   　thử tam chủng pháp nhất giả thế gian pháp tướng nhị giả xuất thế gian pháp tướng tam giả
+   　xuất thế gian thượng thượng thắng pháp tướng bỉ vị tam pháp giai y ngôn ngữ chủng chủng thuyết
+   　pháp toại dĩ vi vọng tưởng phân biệt cảnh giới bất tri sở hữu ngôn thuyết kí viết phi
+   　thường 。hựu viết phi vô thường 。khởi bỉ phàm ngu chi sở giác hồ 。bỉ duy bất giác tự
+   　tâm hiện lượng 。tức bất năng li nhiếp sở nhiếp vọng tưởng 。tức bất năng li ngoại pháp hữu
+   　vô nhị chủng ác kiến 。ác kiến tướng tục cố vị chi ngu 。vân môn thượng đường 。chư hòa
+   　thượng tử mạc vọng tưởng 。thiên thị thiên địa thị địa 。sơn thị sơn thuỷ thị thuỷ 。tăng thị
+   　tăng tục thị tục 。lương cửu viết 。dữ ngã niêm án sơn lai 。tăng tiện vấn 。học nhân kiến
+   　sơn thị sơn thuỷ thị thuỷ thời như hà 。sư viết tam môn vi thậm ma kị phật điện
+   　tùng giá lí quá 。viết nhẫm ma tắc bất vọng tưởng khứ dã 。sư viết hoàn ngã thoại đầu
+   　lai 。thả đạo vân môn bất vọng tưởng tác như hà thoại hội 。tu ư thử công án liễu
+   　liễu 。phương danh hữu căn bản tri kiến 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+viễn li ư sở tạo 。cập dữ hình xứ dị 。tính dữ sắc vô thường 。ngoại đạo ngu vọng tưởng
+chư tính vô hữu hoại 。đại đại tự tính trụ 。ngoại đạo vô thường tưởng 。một tại chủng chủng kiến
+bỉ chư ngoại đạo đẳng 。vô nhược sinh nhược diệt 。đại đại tính tự thường 。hà vị vô thường tưởng
+(đường vân bỉ chư ngoại đạo chúng 。giai 〔tùng 〕bất sinh diệt 。chư đại tính tự 〔đương 〕。thùy thị vô thường pháp )nhất thiết duy tâm lượng 。nhị chủng tâm lưu
+chuyển nhiếp thụ cập sở nhiếp 。vô hữu ngã ngã sở 。phạm thiên vi thụ căn 。chi diệp phổ chu
+biến như thị ngã sở thuyết 。duy thị bỉ tâm lượng (ngụy vân tam giới thượng hạ pháp 。ngã thuyết giai thị tâm 。li ư chư tâm pháp 。canh
+vô hữu khả đắc )。
+   　thông viết 。tiền trường hành trung phân phá thất chủng vô thường diệc kí bị hĩ 。thử phục tổng
+   　quát kì chỉ nhi phá chi 。vị nhất giả tác dĩ nhi xả 。vị năng tạo vô thường viễn
+   　li ư sở tạo 。nhị giả hình xứ dị 。tam giả sắc vô thường 。vị sở tạo vô thường
+   　nhi năng tạo tứ đại thị thường 。dữ sơ kế tướng phản 。ngũ giả tính vô thường 。lục giả
+   　tính vô tính vô thường 。vị năng tạo sở tạo câu hoại 。trung hữu cá vô thường tự tính
+   　bất hoại 。dữ thượng kế câu phản 。khả bất vị chi ngu hồ 。tứ giả vị chuyển biến trung
+   　gian hữu bất hoại tính 。thất giả vị nhất thiết pháp bất sinh 。biến trụ ư chư pháp chi
+   　trung 。tứ đại tự tính thường trụ bất diệt 。kí vân bất hoại hựu vân thường trụ 。nhi ngoại
+   　đạo ư trung tác vô thường tưởng 。dĩ thường vi vô thường 。dĩ vô thường vi thường 。một tại
+   　chủng chủng vọng phân biệt kiến 。vô luận bỉ sở vị thường giả phi chân 。thả kì ngôn tự
+   　tướng vi dã 。bỉ chư ngoại đạo đẳng giai thuyết nhất thiết pháp bất sinh cập vật bất hoại
+   　bất diệt 。tứ đại các các bất tướng hoại nhi tự tính thường trụ 。nhược thị giả nhất thiết
+   　thị thường dã 。thùy thị vô thường pháp nhi tác vô thường tưởng hồ 。cố bỉ sở vị thất
+   　vô thường giả kì nghĩa bất thành 。nhược ngã sở thuyết pháp 。tam giới sở hữu nhất thiết duy
+   　thị tự tâm hiện lượng 。tức hữu vô li hữu vô 。tức sinh diệt li sinh diệt 。bản vô
+   　năng sở khả đắc 。nhược bỉ năng sở nhị chủng phân biệt vọng tưởng giai tùng tự tâm lưu
+   　chuyển tác ý nhi sinh 。kiến hữu năng thủ cập dĩ sở thủ 。thủ trước hữu tắc dĩ vi
+   　vô thường 。thủ trước vô tắc dĩ vi vô thường 。kì thật vô hữu năng thủ giả nhi vi
+   　chi ngã 。diệc vô hữu sở thủ giả nhi vi chi ngã sở 。đãn do thức tâm trục vọng
+   　lưu chuyển cố hữu nhị chủng thủ nhĩ 。nhược tâm bất lưu chuyển tức nguyên vô hữu ngã 。thùy
+   　vi năng thủ 。nguyên vô ngã sở 。thùy vi sở thủ 。nhị thủ tính kí li 。an sở kiến
+   　kì hữu nhi vị chi thường 。an sở kiến kì vô nhi vị chi vô thường 。cố ngã sở
+   　thuyết giả phi thường phi vô thường dã 。hựu ngoại đạo kế đại phạm thiên sơ tạo chúng sinh
+   　vi hữu tình bản 。như thụ căn nhiên phát vi chi điều phổ biến thế gian 。như thị thuyết
+   　giả hữu thụ căn nhi vi chi ngã 。hữu chi điều chu biến nhi vi chi ngã sở 。duy
+   　thị bỉ ngoại đạo vọng tưởng tâm lượng 。phi ngã pháp sở thu 。nhược ngã sở thuyết tam giới
+   　thượng hạ duy thị nhất tâm 。li tâm canh bất khả đắc 。giác liễu duy tâm hiện lượng 。thị
+   　vi hữu căn bản trí 。minh ư thế gian cập xuất thế gian thượng thượng đẳng pháp 。phi thường
+   　phi vô thường 。bỉ dĩ phạm thiên thắng diệu vi trần vi năng tác giả 。thị vi vô căn
+   　bản trí 。đãn ư chi diệp thượng tác chủng chủng phân biệt kiến lập thất vô thường luận 。tổng
+   　quy ư vọng nhi dĩ 。lam điền chân thiền sư thượng đường 。thành sơn giả tựu ư thuỷ quĩ 。
+   　tu đồ thác chí ư sơ bộ 。thượng tòa 。đích lai tùng địa lô biên lai 。hoàn dữ sơ
+   　bộ đồng biệt 。nhược ngôn đồng tức bất hội bất thiên 。nhược ngôn biệt diệc bất hội bất thiên 。
+   　thượng tòa tác ma sinh hội 。hoàn hội ma 。giá lí bất thị na lí 。na lí bất thị
+   　giá lí 。thả đạo thị nhất xứ lưỡng xứ 。thị thiên bất thiên 。thị lai khứ bất thị lai
+   　khứ 。nhược ư thử hiển minh đắc tiện nãi cổ kim nhất như sơ chung 。tự nhĩ niệm niệm
+   　vô thường tâm tâm vĩnh diệt 。sở dĩ đạo 。quan phương tri bỉ khứ 。khứ giả bất chí phương 。
+   　thượng tòa đích lai nhẫm ma lai khước thỉnh nhẫm ma khứ 。sâm thử số ngữ 。phát minh niệm
+   　niệm vô thường tâm tâm vĩnh diệt 。hội đắc chân thật bất thiên xứ 。khước dữ duy tâm chi
+   　chỉ ám phù 。
+(ngụy vân nhập đạo phẩm đệ cửu đường vân hiện chứng phẩm đệ tứ )。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn 。thế tôn 。duy nguyện vi thuyết nhất thiết bồ tát
+thanh văn duyên giác diệt chính thụ thứ đệ tướng tục 。nhược thiện ư diệt chính thụ thứ đệ tướng
+tục tướng giả 。ngã cập dư bồ tát chung bất vọng xả diệt chính thụ lạc/nhạc/nhạo môn 。bất đoạ nhất
+thiết thanh văn duyên giác ngoại đạo ngu si 。phật ngôn đại tuệ 。đế thính đế thính thiện tư niệm
+chi 。đương vi nhữ thuyết 。đại tuệ bạch phật ngôn 。thế tôn 。duy nguyện vi thuyết 。phật cáo đại tuệ 。
+lục địa bồ tát ma ha tát cập thanh văn duyên giác nhập diệt chính thụ 。đệ thất địa bồ
+tát ma ha tát 。niệm niệm chính thụ li nhất thiết tính tự tính tướng chính thụ 。phi thanh văn
+duyên giác 。chư thanh văn duyên giác đoạ hữu hành giác nhiếp sở nhiếp tướng diệt chính thụ 。thị cố
+thất địa phi niệm chính thụ 。đắc nhất thiết pháp vô sai biệt tướng phi phân 。đắc chủng chủng tướng
+tính 。giác nhất thiết pháp thiện bất thiện tính tướng chính thụ 。thị cố thất địa vô thiện niệm chính
+thụ 。(ngụy vân bồ tát ư thất địa trung niệm niệm nhập diệt tận định 。dĩ chư bồ tát tất năng viễn li nhất thiết chư pháp hữu vô tướng cố 。thanh văn tị chi phật bất năng niệm niệm nhập
+diệt tận định 。dĩ duyên hữu vi hành nhập diệt tận định 。đoạ tại khả thủ năng thủ cảnh giới 。thị cố thanh văn tị chi phật bất năng nhập thất địa trung niệm niệm diệt tận định 。dĩ giác chư pháp
+chủng chủng dị tướng hữu pháp vô pháp thiện bất thiện pháp đồng tướng dị tướng nhi nhập diệt tận định 。thị cố thanh văn duyên giác bất năng nhập thất địa trung niệm niệm diệt tận định 。dĩ vô thiện xảo
+phương tiện trí cố )。
+   　thông viết 。nhân thượng ngôn ngoại đạo bất sinh bất diệt dữ phật vô dị 。kí chỉ xuất thất
+   　chủng vô thường thị sinh diệt pháp 。tắc ngoại đạo sở thuyết niết bàn bất túc luận dĩ 。nhiên
+   　nhất thiết bồ tát cập nhị thừa đẳng đồng đoạn/đoán tam giới phiền não nhập diệt tận định 。bỉ
+   　hữu thứ đệ sai đẳng 。địa địa tướng tục nhi tấn 。các các vị đắc niết bàn 。nhược thiện
+   　kì tướng tắc tri vô thượng niết bàn diệt chính thụ lạc/nhạc/nhạo thị chân thật cảnh giới 。bất đoạ
+   　nhị thừa cập ngoại đạo ngu si kiến dã 。thế tôn nhất nhất phân biệt nhi ngữ chi 。vị
+   　sơ địa chí lục địa bồ tát đắc nhân vô ngã nhập diệt chính thụ 。dữ thanh văn duyên
+   　giác vô dị 。dĩ định hữu xuất nhập vị năng niệm niệm nhập dã 。chí thất địa niệm niệm
+   　nhập chính thụ 。toại li nhất thiết hữu vô chư tướng 。tức hữu niết bàn tính tự tính tướng
+   　diệc bất thủ trước 。cố phi nhị thừa sở cập 。chư nhị thừa nhân niệm chính thụ lạc/nhạc/nhạo 。kiến
+   　hữu chính thụ nhi nhiếp thủ chi 。duyên hữu vi hành nhập diệt tận định 。đoạ tại năng sở
+   　thủ cảnh giới 。bất năng nhập thất địa trung niệm niệm diệt tận định 。thị cố thất địa niệm
+   　niệm chính thụ phi niệm chính thụ 。phi dĩ chính thụ vi thiện nhi niệm nhập chi 。dĩ đắc
+   　nhất thiết pháp vô sinh tử niết bàn sai biệt tướng cố 。phi bỉ nhị thừa phân lượng sở
+   　cập dã 。bỉ nhị thừa nhân đoạ hữu hành giác giả hữu chủng chủng tướng tính khả đắc 。sở
+   　vị giác nhất thiết chư pháp hữu pháp vô pháp thiện bất thiện pháp đồng tướng dị tướng nhi
+   　nhập diệt tận định 。kiến hữu sinh tử khả áp 。kiến hữu tịch diệt khả lạc/nhạc/nhạo 。dĩ vô thiện
+   　xảo phương tiện trí bất năng ư sinh diệt pháp trung nhi chứng niết bàn dã 。bỉ dĩ niết
+   　bàn vi thiện nhi nhiếp thủ chi 。chính danh thiện niệm chính thụ 。phi niệm niệm chính thụ dã 。
+   　thất địa niệm niệm chính thụ thiện thả vô chi 。cố đắc nhất thiết pháp vô sai biệt tướng 。
+   　khởi nhị thừa sở cảm vọng hồ 。hữu tăng tư [khâu -khâu +ích ]vấn ngưỡng sơn 。thiền tông đốn ngộ nhập
+   　môn đích ý như hà 。ngưỡng viết thử ý cực nan 。nhược thị tổ tông môn hạ thượng căn
+   　thượng trí 。nhất văn thiên ngộ đắc đại tổng trì 。kì hữu căn vi trí liệt nhược bất an
+   　thiền tĩnh xứ 。đáo giá lí tổng tu mang nhiên 。viết trừ thử nhất lộ biệt canh hữu nhập
+   　xứ phủ 。ngưỡng viết hữu 。viết như hà tức thị 。ngưỡng viết nhữ thị thậm xứ nhân 。viết u
+   　châu nhân 。ngưỡng viết nhữ hoàn tư bỉ phủ 。viết thường tư 。ngưỡng viết 。năng tư giả thị tâm 。
+   　sở tư giả thị cảnh 。bỉ xứ lâu đài lâm uyển nhân mã biền điền 。nhữ phản tư tư
+   　để hoàn hữu hứa đa ban ma 。viết mỗ giáp đáo giá lí tổng bất kiến hữu 。ngưỡng viết 。
+   　tín vị tức thị 。nhân vị vị thị 。viết trừ khước giá cá biệt canh hữu ý dã vô 。
+   　ngưỡng viết 。biệt hữu biệt vô 。tức bất kham dã 。viết đáo giá lí như hà tức thị 。ngưỡng
+   　viết 。cứ nhữ sở giải chi đắc nhất huyền 。đắc toạ phi y hướng hậu tự khán 。thiên đồng
+   　tụng vân 。vô ngoại nhi dong vô ngại nhi xung 。môn tường ngạn ngạn quan toả trùng trùng 。tửu
+   　thường hàm nhi ngoạ khách 。phạn tuy bão nhi đồi nông 。đột xuất hư không hề phong đoàn diệu
+   　kiều 。đạp phiên thương hải hề lôi tống du long 。nhị thừa nhân bất năng nhập thất địa chính
+   　thụ 。chi đắc nhất huyền 。đam tam muội lạc/nhạc/nhạo chân như 。tửu hàm phạn bão dã 。an năng đột
+   　xuất hư không tai 。
+đại tuệ 。bát địa bồ tát cập thanh văn duyên giác 。tâm ý ý thức vọng tưởng tướng diệt 。sơ
+địa nãi chí thất địa bồ tát ma ha tát 。quan tam giới tâm ý ý thức lượng 。li ngã
+ngã sở tự vọng tưởng tu đoạ ngoại tính chủng chủng tướng 。(đường vân bất kiến ngoại pháp chủng chủng chư tướng )ngu phu nhị
+chủng tự tâm nhiếp sở nhiếp 。hướng vô tri bất giác vô thuỷ quá ác hư nguỵ tập khí sở
+huân 。đại tuệ 。bát địa bồ tát ma ha tát thanh văn duyên giác niết bàn 。bồ tát giả tam
+muội giác sở trì 。thị cố tam muội môn lạc/nhạc/nhạo bất ban niết bàn 。nhược bất trì giả như lai
+địa bất mãn túc khí xả nhất thiết hữu vi chúng sinh tướng 。cố phật chủng tắc ưng đoạn/đoán 。chư
+phật thế tôn vi thị như lai bất khả tư nghị vô lượng công đức 。thanh văn duyên giác tam
+muội môn đắc lạc/nhạc/nhạo sở khiên cố 。tác niết bàn tưởng 。đại tuệ 。ngã phân bộ thất địa 。thiện tu
+tâm ý ý thức tướng 。thiện tu ngã ngã sở nhiếp thụ nhân pháp vô ngã sinh diệt tự cộng
+tướng 。thiện tứ vô ngại quyết định lực tam muội môn địa thứ đệ tướng tục 。nhập đạo phẩm pháp 。
+bất linh bồ tát ma ha tát bất giác tự cộng tướng bất thiện thất địa đoạ ngoại đạo tà
+kính 。cố lập địa thứ đệ 。đại tuệ 。bỉ thật vô hữu nhược sinh nhược diệt 。trừ tự tâm hiện
+lượng 。sở vị địa thứ đệ tướng tục cập tam giới chủng chủng hành 。ngu phu sở bất giác ngu
+phu sở bất giác giả 。vị ngã cập chư phật thuyết địa thứ đệ tướng tục 。cập thuyết tam giới
+chủng chủng hành 。
+   　thông viết 。thượng ngôn nhị thừa diệt chính thụ bất năng nhập thất địa diệt chính thụ 。vi bất
+   　năng đắc nhất thiết pháp vô sai biệt tướng 。cố chí ư bát địa xả li tạng thức 。bất
+   　đãn nhất thiết pháp chủng chủng tướng diệt 。nãi chí thanh văn duyên giác tâm ý ý thức hư
+   　vọng phân biệt tưởng diệc diệt 。ngụy vân thất địa bồ tát chuyển diệt thanh văn duyên giác tâm
+   　ý ý thức 。chí bát địa chuyển diệt đãi tận 。thức âm đô tận 。danh bất động địa 。sơ
+   　địa chí thất địa sở tu quan hành 。kiến ư tam giới nhất thiết chư pháp duy thị tâm
+   　ý ý thức sở hiện chi lượng 。tâm tức vô tâm 。ý tức vô ý 。thức tức vô thức 。
+   　bản li ngã ngã sở chấp 。bất kiến ngoại pháp chủng chủng chư tướng 。bỉ ư tự tâm khởi
+   　vọng tưởng phân biệt hư vọng tu tập 。kiến hữu ngoại pháp khả đắc 。tức đoạ ngoại tính chủng
+   　chủng tướng 。thử ngoại đạo ngu phu nhị chủng thủ trước dĩ tự tâm nhiếp tự tâm 。kiến hữu
+   　năng thủ sở thủ chi pháp 。tiện vị nhất thiết đoạn/đoán diệt nhất hướng vô tri 。đoạ ư vô
+   　tưởng cảnh giới 。bất giác vô thuỷ hư nguỵ tập khí sở huân 。đoạn/đoán diệt chủng tính 。tức thị
+   　quá ác 。hữu nhiếp sở nhiếp 。bất li ngã ngã sở 。thị ngoại đạo niết bàn hư nguỵ vọng
+   　tưởng 。chí bát địa phương diệt tận dã 。hà dã 。bát địa bồ tát sở đắc tam muội dữ
+   　nhị thừa niết bàn đại lược tướng tự 。nhiên bồ tát giả ư tam muội trung hữu chính giác
+   　sở trì 。dĩ chư phật lực sở gia trì cố 。tuy hữu tam muội chi lạc/nhạc/nhạo nhi bất đam
+   　trước 。cố bất nhập ư niết bàn 。nhược vô chính giác sở trì giả 。tiện dĩ tiểu thừa tự
+   　an 。bất năng mãn túc như lai chi địa 。khí xả nhất thiết chúng sinh 。bất vi thuyết hữu
+   　vi chư pháp tiêm thứ dẫn nhập như lai tri kiến 。phật chủng tắc ưng đoạn/đoán 。thị cố chư
+   　phật như lai ư bát địa bồ tát tam muội bất khởi 。đốt vân 。thiện nam tử 。đương khởi
+   　độ sinh 。nhữ sở đắc tam muội nhị thừa diệc đắc 。ư thị vi thị như lai vô duyên
+   　chi từ 。tùng diệu giác hải lưu xuất bất khả tư nghị vô lượng công đức 。linh kì cứu
+   　cánh mãn túc thiệu long phật chủng 。cố bất nhập ư niết bàn 。nhược thanh văn duyên giác đắc
+   　tam muội môn lạc/nhạc/nhạo 。vi lạc/nhạc/nhạo sở khiên 。đắc thiểu vi túc 。bất năng hồi tâm hướng đại 。độ
+   　thoát chúng sinh 。thị cố ư trung tác niết bàn tưởng 。do thử ngôn chi 。thất địa dĩ tiền
+   　nhập diệt chính thụ giả nhị thừa sở cộng 。cố đương thiện vi phòng phạm 。ngã sở dĩ phân
+   　bộ thất địa 。đương thiện xảo phương tiện tu tâm ý ý thức tướng 。viễn li ngã ngã sở
+   　chấp 。vô năng sở thủ dĩ đắc nhân vô ngã trí 。canh tấn chi đắc pháp vô ngã 。bất
+   　kiến tự cộng tướng khả đắc 。dĩ nhị thừa sở chứng niết bàn hữu tự cộng tướng khả đắc 。
+   　chung thuộc sinh diệt 。ưng thiện quan sát nhi viễn li chi 。thiện giải tứ vô ngại ban 。sở
+   　vị nghĩa vô ngại pháp vô ngại từ vô ngại lạc/nhạc/nhạo thuyết vô ngại 。đắc quyết định lực ư
+   　tam muội môn nhi đắc tự tại 。niệm niệm diệt chính thụ vô xuất nhập tướng 。chí thử thuần
+   　vô tướng quan phương năng tiêm thăng bát địa nãi chí thập địa chư địa thứ đệ tướng tục 。
+   　nhập ư tam thập thất trợ đạo phẩm bồ đề phân pháp 。ngã sở dĩ phân bộ chư pháp
+   　linh thiện tu chi giả 。khủng chư bồ tát bất thiện liễu tri tự tướng cộng tướng 。bất thiện
+   　thất địa dĩ tiền tu hành thứ đệ 。đoạ ư ngoại đạo đoạn/đoán thường tà kính 。cố kiến lập
+   　địa địa thứ đệ 。tiền địa sở sinh hậu địa diệt chi 。chí ư kim cương đạo hậu diệt
+   　vô sở diệt 。phương chứng nhập bất sinh bất diệt vô dư niết bàn dã 。yếu nhi ngôn chi 。
+   　bỉ thật vô hữu nhược sinh nhược diệt 。nhất thiết chư pháp duy tâm sở hiện 。tâm bản vô
+   　tâm 。hiện bản vô hiện 。trừ tự tâm hiện lượng nguyên vô sinh diệt 。thử duy hữu căn bản
+   　trí giả thuỷ năng giác liễu 。chí sở vị địa địa thứ đệ tướng tục cập đoạn/đoán tam giới
+   　cửu phẩm hoặc chủng chủng chư hành 。phàm dĩ đối trị chúng sinh chi bệnh 。thử vô trí ngu
+   　phu sở bất giác dã 。sở bất giác giả hà dã 。vị bất giác ngã cập chư phật kiến
+   　lập chư pháp vi linh chúng sinh chứng nhập bất sinh bất diệt vô dư niết bàn 。thuyết tức
+   　vô thuyết tướng tức vô tướng 。nãi vị ngã cập chư phật thuyết địa thứ đệ tướng tục tướng
+   　cập thuyết tam giới chủng chủng hành tướng 。đãn ư ngôn thuyết nhi sinh chấp trước bản vô căn
+   　bản trí 。vị như lai nhất thiết pháp tùng ngôn thuyết vọng tưởng sinh 。thử kì sở dĩ vi
+   　ngu dã 。tăng vấn mã tổ 。như hà thị tu đạo 。tổ viết 。đạo bất thuộc tu 。nhược ngôn
+   　tu đắc 。tu thành hoàn hoại tức đồng thanh văn 。nhược ngôn bất tu tức đồng phàm phu 。hựu
+   　vấn 。tác hà kiến giải tức đắc đạt đạo 。tổ viết 。tự tính bản lai cụ túc 。đãn ư
+   　thiện ác sự trung bất trệ 。hoán tác tu đạo nhân 。thủ thiện xả ác quan không nhập định 。
+   　tức thuộc tạo tác 。canh nhược hướng ngoại trì cầu 。chuyển sơ chuyển viễn 。đãn tận tam giới tâm
+   　lượng 。nhất niệm vọng tâm tức thị tam giới sinh tử căn bản 。đãn vô nhất niệm 。tức trừ
+   　sinh tử căn bản 。tức đắc pháp vương vô thượng trân vị 。vô lượng kiếp lai phàm phu vọng
+   　tưởng siểm khúc tà nguỵ ngã mạn cống cao hợp vi nhất thể 。cố kinh vân đãn dĩ chúng
+   　pháp hợp thành thử thân 。khởi thời duy pháp khởi 。diệt thời duy pháp diệt 。thử pháp khởi thời
+   　bất ngôn ngã khởi 。diệt thời bất ngôn ngã diệt 。tiền niệm hậu niệm trung niệm 。niệm niệm bất
+   　tướng đãi 。niệm niệm tịch diệt 。hoán tác hải ấn tam muội 。nhiếp nhất thiết pháp như bá thiên
+   　dị lưu đồng quy đại hải đô danh hải thuỷ 。trụ ư nhất vị tức nhiếp chúng vị trụ
+   　ư đại hải tức hồn chúng lưu 。như nhân tại đại hải trung dục tức dụng nhất thiết thuỷ 。
+   　sở dĩ thanh văn ngộ mê phàm phu mê ngộ 。thanh văn bất tri thánh tâm bản vô địa
+   　vị nhân quả giai cấp 。tâm lượng vọng tưởng tu nhân chứng quả 。trụ ư không định bát vạn
+   　kiếp nhị vạn kiếp 。tuy tức dĩ ngộ 。ngộ dĩ khước mê 。chư bồ tát quan như địa ngục
+   　khổ 。trầm không trệ tịch 。bất kiến phật tính 。nhược thị thượng căn chúng sinh hốt nhĩ ngộ thiện
+   　tri thức chỉ thị 。ngôn hạ lĩnh hội 。canh bất lịch ư giai cấp địa vị 。đốn ngộ bản
+   　tính 。cố kinh vân phàm phu hữu phản phú tâm nhi thanh văn vô dã 。mã tổ như hứa
+   　cát đằng 。khước tùng toạ thiền học phật phiên nhiên nhi ngộ 。ma chuyên phi kính tiên xa bất
+   　hành 。nhất minh tâm yếu 。tiện ngữ ngữ đạp sát thiên hạ nhân 。
+phục thứ đại tuệ 。thanh văn duyên giác đệ bát bồ tát địa diệt tam muội môn lạc/nhạc/nhạo tuý sở
+tuý 。bất thiện tự tâm hiện lượng 。tự cộng tướng tập khí sở chướng 。đoạ nhân pháp vô ngã pháp
+nhiếp thụ kiến 。vọng tưởng niết bàn tưởng 。phi tịch diệt trí tuệ giác 。đại tuệ 。bồ tát giả kiến
+diệt tam muội môn lạc/nhạc/nhạo 。bản nguyện ai mẫn đại bi thành tựu 。tri phân biệt thập vô tận cú 。
+bất vọng tưởng niết bàn tưởng 。bỉ dĩ niết bàn vọng tưởng bất sinh cố 。(đường vân dĩ nhập niết bàn bất sinh quả cố )
+li nhiếp sở nhiếp vọng tưởng 。giác liễu tự tâm hiện lượng nhất thiết chư pháp vọng tưởng bất sinh 。
+bất đoạ tâm ý ý thức ngoại tính tự tính tướng kế trước vọng tưởng 。phi phật pháp nhân bất
+sinh 。tùy trí tuệ sinh đắc như lai tự giác địa 。như nhân mộng trung phương tiện độ thuỷ vị
+độ nhi giác 。giác dĩ tư duy vi chính vi tà 。phi chính phi tà 。dư vô thuỷ kiến văn
+giác thức nhân tưởng 。chủng chủng tập khí chủng chủng hình xứ 。tùy hữu vô tưởng tâm ý ý thức
+mộng hiện 。đại tuệ 。như thị bồ tát ma ha tát 。ư đệ bát bồ tát địa 。kiến vọng tưởng
+sinh 。(ngụy vân kiến phân biệt tâm )tùng sơ địa chuyển tấn chí đệ thất địa 。kiến nhất thiết pháp như ảo đẳng
+phương tiện 。độ nhiếp sở nhiếp tâm vọng tưởng hành dĩ 。tác phật pháp phương tiện 。vị đắc giả linh
+đắc 。đại tuệ 。thử thị bồ tát niết bàn phương tiện bất hoại 。(đường vân sở đắc niết bàn phi hoại diệt dã )li tâm
+ý ý thức đắc vô sinh pháp nhẫn 。đại tuệ 。ư đệ nhất nghĩa vô thứ đệ tướng tục 。thuyết
+vô sở hữu vọng tưởng tịch diệt pháp 。(đường vân đệ nhất nghĩa trung vô hữu thứ đệ diệc vô tướng tục 。viễn li nhất thiết cảnh giới phân biệt 。thử tắc
+danh vi tịch diệt chi pháp )。
+   　thông viết 。thượng ngôn tự tâm hiện lượng kì thật vô hữu nhược sinh nhược diệt 。chư pháp tùng
+   　bản lai thường tự tịch diệt tướng 。nhược năng giác thử giả sở vị tịch diệt trí tuệ giác
+   　dã 。chư nhị thừa nhân đãn đắc nhân không vị đắc pháp không 。thượng vị năng chứng nhập sơ
+   　địa 。hà huống bát địa tịch diệt lạc/nhạc/nhạo môn 。phật thuyết thanh văn thừa hữu nhị chủng 。thử thị
+   　tiên tu bồ tát hành thối đoạ thanh văn vị giả 。hoàn y bản tâm tu bồ tát hành 。
+   　tức nhập đệ bát địa diệt chính thụ môn lạc/nhạc/nhạo 。vi tịch diệt tửu chi sở hôn tuý 。nhất
+   　vị đam tịch bất thiện liễu đạt tự tâm hiện lượng 。tâm ngoại vô pháp pháp ngoại vô tâm 。
+   　kiến hữu niết bàn tự tướng cộng tướng khả đắc 。bất tri vi vô thuỷ thức âm tập khí
+   　sở chướng 。đoạ nhân pháp vô ngã kiến 。dĩ nhân vô ngã chi pháp tức niết bàn pháp 。kiến
+   　hữu năng chứng sở chứng nhi nhiếp thủ chi 。thử đãn dĩ hư vọng phân biệt danh vi niết
+   　bàn 。nhi bất năng tri chư pháp bản tự tịch tĩnh 。bản vô sinh diệt phi hữu trí tuệ
+   　giác dã 。nhược bát địa bồ tát tuy kiến hữu tịch diệt tam muội môn lạc/nhạc/nhạo 。nhi bất đam
+   　trước ức niệm độ sinh bản nguyện 。ai mẫn nhất thiết trí bi song vận 。tư dục thành tựu
+   　nhi cụ túc chi 。tri phân biệt tu hành thập vô tận cú 。sở vị chúng sinh giới vô
+   　tận thế giới vô tận 。hư không giới vô tận pháp giới vô tận 。niết bàn giới vô tận
+   　phật xuất hiện vô tận 。như lai trí vô tận tâm sở duyên vô tận 。phật trí sở nhập
+   　vô tận chuyển pháp luân trí vô tận 。như thật nhi tri cứu cánh mãn túc như lai bất
+   　khả tư nghị vô lượng công đức 。dĩ thị chi cố bất vọng tưởng niết bàn quả nhi tự
+   　thủ chứng 。bất tức nhập ư niết bàn 。bỉ dĩ tự tính niết bàn 。nhi hư vọng phân biệt
+   　đắc quả chi tâm bất sinh 。cố viễn li năng thủ sở thủ vọng tưởng cảnh giới 。giác liễu
+   　chư pháp duy thị tự tâm hiện lượng 。thị cố bất sinh nhất thiết phân biệt chi tâm 。nội
+   　bất đoạ ư tâm ý ý thức nhi phân biệt pháp tướng 。ngoại bất kế trước hữu vô chư
+   　pháp nhi phân biệt sự tướng 。dĩ phi thị phật pháp chính nhân cố 。cố vọng tưởng phân biệt
+   　bất sinh 。vọng tưởng tịch diệt bản lai bất sinh tức thị phật pháp chính nhân 。thử phi thuyết
+   　tình khả đáo 。tùy chuyển thức thành trí tuệ dụng hiện tiền nhi đắc sinh khởi 。dĩ thử bất
+   　sinh vi nhân địa tâm 。cố năng đắc nhập như lai tự chứng chi địa 。viên thành quả vị
+   　chân bất sinh diệt 。như nhân mộng trung độ đại hải thuỷ 。khởi đại phương tiện dục độ tự
+   　thân 。vị độ trung gian hốt nhiên tiện giác 。tác thị tư duy 。thử vi thị thật vi thị
+   　hư vọng 。tiện phục tư duy như thị chi tướng phi thật phi hư phi chính phi tà 。duy
+   　dư vô thuỷ hư vọng phân biệt kiến văn giác tri vi nhân 。thử nhân phi phật pháp nhân 。
+   　cố sinh ư tưởng 。kiến chủng chủng sắc hình tướng điên đảo 。bất li hữu vô nhị pháp 。lương
+   　do tâm ý ý thức đa sinh huân tập 。ư mộng trung hiện giác dĩ tức vô tâm ý
+   　ý thức khả đắc 。cố bát địa bồ tát bất đoạ ư tâm ý ý thức giả 。năng chuyển
+   　thức nhi thành trí 。trí năng ban thức 。bất vi thức sở chuyển 。sở dĩ năng kiến vọng tưởng
+   　phân biệt tâm sinh thử vọng tưởng tâm 。như mộng trung sở kiến sinh tử đại hải chủng chủng
+   　phân biệt tâm dã 。nãi tùng sơ địa chuyển tấn chí ư thất địa 。kiến nhất thiết tu hành
+   　chi pháp giai như ảo đẳng đãn dĩ phương tiện độ thoát 。li chư năng thủ sở thủ vọng
+   　tưởng phân biệt chi tâm 。thị hữu vi công hành 。như thị hành dĩ 。canh tấn chi cần tác
+   　phật pháp phương tiện quảng đại công dụng 。vi ư vị đắc thượng thượng phật pháp tu hành giả 。
+   　linh đắc như mộng trung thiết lập thuyền phạt phương tiện 。linh vị độ giả đắc độ dã 。bồ
+   　tát dĩ thử phương tiện đắc nhập niết bàn 。thị dĩ tu hành thắng pháp danh vi niết bàn 。
+   　phi nhất thiết hoại diệt chi vị dã 。kí bất hoại niết bàn phương tiện 。viễn li tâm ý
+   　ý thức hư vọng phân biệt 。sa na vô hữu sinh tướng 。sa na vô hữu diệt tướng 。đắc
+   　chứng nhập vô sinh pháp nhẫn 。thử vô sinh pháp nhẫn ư đệ nhất nghĩa nhi bất động 。vô
+   　công khả thí 。vô hành khả tu 。như mộng kí giác 。bất phục dụng phương tiện công lực dã 。
+   　đệ nhất nghĩa trung bản vô địa địa thứ đệ tướng tục 。bản vô tam giới chủng chủng hành
+   　tướng 。viễn li nhất thiết cảnh giới phân biệt 。ngã ư đệ nhất nghĩa trung thuyết chư pháp vô
+   　sở hữu phân biệt vô sở thí thị danh vọng tưởng tịch diệt chi pháp 。thị chân niết bàn 。
+   　duy khả dữ trí giả đạo 。khởi ngu phu sở năng tri hồ 。tăng vấn ba tiêu triệt hòa
+   　thượng 。hữu nhất nhân bất xả sinh tử bất chứng niết bàn 。sư hoàn đề huề dã vô 。triệt
+   　vân bất đề huề 。tăng vân vi thậm ma bất đề huề 。triệt vân lão tăng thố thức hảo
+   　ác 。đầu tử tụng vân 。bá tuế nhi đồng xuất hộ lai 。mãn thân hồng lạn nhạ trần ai 。
+   　hoả trung nhàn bộ thanh lương địa 。thức giả vô nhân cảm cận đài 。thử đệ nhất nghĩa trung
+   　thanh lương tịch diệt chi pháp 。bất li hoả trạch sinh tử nhi chứng niết bàn 。tức niết bàn
+   　diệc bất trụ trước 。minh hồ thử giả thứ tri hảo ác hĩ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+tâm lượng vô sở hữu 。thử trụ cập phật địa 。khứ lai cập hiện tại 。tam thế chư phật thuyết
+tâm lượng địa đệ thất 。vô sở hữu đệ bát 。nhị địa danh vi trụ 。phật địa danh tối thắng
+tự giác trí cập tịnh 。thử tắc thị ngã địa 。tự tại tối thắng xứ 。thanh tịnh diệu trang nghiêm
+chiếu diệu như thịnh hoả 。quang minh tất biến chí 。sí diễm bất hoại mục 。chu luân hoá tam hữu
+(đường vân ma ê tối thắng xứ 。sắc cứu cánh trang nghiêm 。thí như đại hoả tụ 。quang diệm sí nhiên pháp 。hoá hiện ư tam hữu 。duyệt ý nhi thanh lương )hoá hiện tại tam
+hữu hoặc hữu tiên thời hoá 。ư bỉ diễn thuyết thừa 。giai thị như lai địa 。thập địa tắc vi
+sơ sơ tắc vi bát địa 。đệ cửu tắc vi thất 。thất diệc phục vi bát 。đệ nhị vi đệ
+tam đệ tứ vi đệ ngũ 。đệ tam vi đệ lục 。vô sở hữu hà thứ 。
+   　thông viết 。thử bản đại tuệ sở vấn nhất thiết bồ tát nhị thừa diệt chính thụ thứ đệ
+   　tướng tục 。thế tôn vi phân biệt chư địa thiện tu hành pháp 。nhi thị dĩ đệ nhất nghĩa
+   　vô thứ đệ tướng tục 。thử tâm lượng vô sở hữu tịch diệt pháp môn 。duy trụ địa bồ
+   　tát cập như lai tự giác địa khả dữ cứu cánh 。nãi tam thế chư phật sở thuyết bất
+   　khả tư nghị vô lượng công đức chi pháp dã 。hà dĩ vị chi trụ địa da 。đệ thất
+   　địa sở tu nhân pháp nhị vô ngã trí nhất thiết viễn li 。danh viễn hành địa 。thượng dư
+   　tạng thức tâm lượng vị diệt 。chí đệ bát địa xả li 。tạng thức tâm lượng đô diệt 。danh
+   　bất động địa 。phương chứng pháp không nhất vô sở hữu 。thử nhị vận vị chi trụ địa 。đắc
+   　bất thối chuyển 。bất danh tối thắng dã 。duy đẳng diệu giác chứng nhập phật địa diệu trang nghiêm
+   　hải 。phương danh cứu cánh quả địa 。canh vô thắng ư thử giả 。bỉ sở đắc tự giác thánh
+   　trí diệc thả viễn li 。vô năng giác sở giác 。chí cực thanh tịnh 。thử tắc giác nhi vô
+   　giác 。cố danh diệu giác 。nãi phật sở tự chứng chi địa dã 。nhiên như lai pháp thân bất
+   　giải thoát pháp 。duy pháp tự lưu xuất báo hoá phật thân phương giải thuyết pháp 。cố phật ư
+   　sắc cứu cánh thiên tối thắng chi xứ thành đẳng chính giác 。thị hiện thanh tịnh trang nghiêm chi
+   　thân 。quang minh chiếu diệu như thịnh hoả sí diễm 。hoá hiện tam hữu 。chu tất biến chí 。độc
+   　long phóng quang tức tổn nhân mục 。như lai quang minh bất tổn nhân mục 。kiến giả tự đắc
+   　duyệt ý nhi thanh lương dã 。kì sở hoá hiện chu luân tam giới nhi hoá chúng sinh 。bất
+   　trụ trước ư nhất xứ 。xứ xứ giai hữu phật dã 。hoặc hữu tiên thời nhi hoá giả 。dĩ
+   　thời vị chí vị khả tức thuyết nhất thừa pháp 。ư bỉ diễn thuyết chư thừa chi pháp 。tuy
+   　thuyết tam thừa kì thật giai thị nhất thừa 。cứu cánh quy ư như lai tự giác địa nhi
+   　dĩ 。kí dĩ nhất thừa vi giáo pháp 。tuy thiết lập chư địa nhi thật vô chư địa thứ
+   　đệ tướng tục chi tướng 。cố thập khả vi sơ sơ khả vi bát 。cửu khả vi thất thất
+   　diệc khả vi bát 。nhị khả vi tam 。tứ khả vi ngũ 。tam khả vi lục 。bỉ vô sở
+   　hữu trung nhất thiết tịch diệt 。canh hà thứ đệ khả đắc tai 。ư đệ nhất nghĩa vô thứ
+   　đệ tướng tục 。thử thị khứ lai kim chư phật chi sở thuyết dã 。bỉ ngu phu duy đam
+   　trước diệt chính thụ dĩ vi niết bàn 。kì khả dữ ngữ thử hồ 。thanh nguyên tư thiền sư
+   　vấn lục tổ viết 。đương hà sở vụ tức bất lạc giai cấp 。tổ viết nhữ tằng tác thậm
+   　ma lai 。tư vân thánh đế diệc bất vi 。tổ viết lạc hà giai cấp 。tư vân thánh đế
+   　thượng bất vi 。hà giai cấp chi hữu 。tổ thâm khí chi 。linh tư thủ chúng 。kí nãi mệnh
+   　hoá nhất phương 。kệ viết 。tâm địa hàm chư chủng 。phổ vũ tất giai manh 。đốn ngộ hoa tình
+   　dĩ 。bồ đề quả tự thành 。đầu tử tụng vân 。vô kiến đỉnh lộ vân toàn cấp 。kiếp ngoại
+   　linh chi bất đái xuân 。na biên bất toạ không vương điện 。tranh khẳng vân miêu hướng nhật luân 。
+   　đan hà tụng vân 。trác nhĩ nan tương chính nhãn khuy 。huýnh siêu kim cổ loại hà tề 。đài
+   　phong cổ điện vô nhân thị 。nguyệt 鎻thương ngô phụng bất thê 。tăng vấn thụy nham 。tác ma
+   　sinh thương lượng tức đắc bất lạc giai cấp 。nham vân bài bất xuất 。viết vi thậm ma bài
+   　bất xuất 。nham viết tha tùng tiền vô giai cấp 。viết vị thẩm cư hà vị thứ 。nham viết
+   　bất toạ phổ quang điện 。viết hoàn lí hoá dã vô 。nham viết 。danh văn tam giới trùng 。hà
+   　xứ bất quy triêu 。hợp nhị tắc tế ngoạn chi sở vân bất toạ không vương điện 。tức bất
+   　trụ trước niết bàn dã 。nhiên hoá phật thuyết pháp hoá hiện tam hữu 。hựu hà xứ phi như
+   　lai chi địa hồ 。tất thâm minh vô giai cấp thứ đệ 。nhiên hậu khả phân hoá nhất phương
+   　dã 。
+(ngụy vân vấn như lai thường vô thường phẩm đệ thập đường vân như lai thường vô thường phẩm đệ ngũ )。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn 。thế tôn 。như lai ưng cung đẳng chính giác vi
+thường vi vô thường 。phật cáo đại tuệ 。như lai ưng cung đẳng chính giác phi thường phi vô thường 。
+vị nhị câu hữu quá 。nhược thường giả hữu tác chủ quá 。thường giả nhất thiết ngoại đạo thuyết tác
+giả vô sở tác 。thị cố như lai thường phi thường 。phi tác thường hữu quá cố 。nhược như lai
+vô thường giả hữu tác vô thường quá 。âm sở tướng tướng vô tính 。âm hoại tắc ưng đoạn/đoán nhi
+như lai bất đoạn/đoán 。đại tuệ 。nhất thiết sở tác giai vô thường 。như bình y đẳng 。nhất thiết giai
+vô thường quá 。nhất thiết trí chúng cụ phương tiện ưng vô nghĩa 。dĩ sở tác cố 。nhất thiết sở
+tác giai ưng thị như lai 。vô sai biệt nhân tính cố 。thị cố đại tuệ 。như lai phi thường
+phi vô thường 。(ngụy vân đại tuệ nhược ngôn nhất thiết giai vô thường giả 。nhất thiết trí nhất thiết trí nhân nhất thiết công đức diệc ưng vô thường dĩ đồng nhất thiết tác pháp tướng cố 。hựu
+phục hữu quá nhược ngôn nhất thiết giai vô thường giả chư phật như lai ưng thị tác pháp nhi phật như lai phi thị tác pháp dĩ vô canh thuyết hữu thắng nhân cố )。
+   　thông viết 。nhân thượng văn chỉ phá ngoại đạo thất vô thường luận 。chí ngã pháp khởi phi thường
+   　phi vô thường thượng vị tường thị 。cố đại tuệ phục hữu thử vấn 。thượng ngôn ngoại đạo vọng
+   　tưởng giả tư tưởng tác hành sinh phi bất tác hành 。diệc ngôn chi vị tường 。chí thử nãi
+   　tường xuất kì quá 。thường dữ vô thường nhị câu hữu quá 。nhược như lai thị thường giả hữu
+   　năng tác quá 。nhất thiết ngoại đạo thuyết vi trần đẳng vi tác giả 。tác giả bất sinh bản
+   　vô sở tác 。cố dĩ vi thường 。kí hữu tác giả hựu kế thị thường 。tức thị tác thường
+   　phi chân thường dã 。thị cố như lai chân thường thượng thả vô thường tướng khả đắc 。huống tác
+   　nhi vi thường giả hồ 。tác nhi thường giả tức bất năng thường 。cố thuyết thường giả hữu quá
+   　dã 。nhược như lai thị vô thường giả diệc hữu sở tác quá 。vị vô thường phi tự vô
+   　thường 。nhân tác nhi hậu kiến kì vô thường 。bỉ dĩ ngũ âm thị sở tác giả 。ngũ âm
+   　năng kiến chi tướng cập sở kiến chi tướng giai vô tự tính tất cánh đoạn/đoán diệt 。thị vô
+   　thường do tác nhi thành dã 。thị dĩ ngũ âm hoại diệt vi vô thường dã 。nhược ngũ âm
+   　hoại diệt giả chư phật như lai diệc ưng đoạn/đoán diệt 。nhi chư phật như lai phi đoạn/đoán diệt
+   　pháp thường trụ bất hoại 。an sở kiến kì vô thường da 。cố thuyết vô thường giả diệc hữu
+   　quá dã 。phu vô thường hà dĩ diệc vị chi tác 。bỉ dĩ sinh tất hữu diệt 。tác tất
+   　hữu hoại 。nhất thiết tác pháp giai thị vô thường như bình y xa ốc đẳng 。hữu tác hữu
+   　hoại tất cánh vô thường 。nhược như thị thuyết giả hữu vô cùng quá 。sở tác kí giai vô
+   　thường 。tắc như lai nhất thiết trí sở tác nhất thiết công đức chúng cụ vạn hành phương tiện
+   　quyền xảo hữu nghĩa tồn yên 。giai ưng vô thường 。tổng không vô ích 。dĩ đồng sở tác pháp
+   　tướng cố 。hựu phục hữu quá 。nhược nhất thiết giai vô thường giả 。như lai công hành đồng ư
+   　sở tác 。tắc thế gian nhất thiết sở tác chư pháp giai ưng thị như lai pháp 。canh vô
+   　sai biệt tướng hĩ 。nhiên nhi chư phật như lai phi thị tác pháp 。dĩ hữu sai biệt thắng
+   　nhân tính 。cố ngoại đạo tất đãi tác pháp nhi hậu hiển kì vô thường phi thắng nhân dã 。
+   　như lai bất đãi tác pháp nhi hiển kì chân thường thị thắng nhân dã 。nhược vô tác pháp
+   　tức vô vô thường 。cố vị ngoại đạo vô thường diệc thị tác dã 。thường dữ vô thường giai
+   　hữu tác chủ quá 。thị cố như lai viễn li bỉ quá 。phi thường phi vô thường dã 。tăng
+   　vấn trường sa sầm thiền sư viết 。bản lai nhân hoàn thành phật phủ 。sa viết nễ đạo đại
+   　đường thiên tử hoàn cát mao ngải thảo ma 。đầu tử tụng vân 。đài điện trùng trùng tử khí
+   　thâm 。tinh phân thần vị chính kiền khôn 。kim luân bất ngữ diêm phù cảnh 。khởi cộng chư hầu
+   　bảo ấn tôn 。bỉ hữu vi chính pháp trí giả sở bất tiết 。huống ngoại đạo tà kiến hồ 。
+phục thứ đại tuệ 。như lai phi như hư không thường 。như hư không thường giả 。tự giác thánh trí
+chúng cụ vô nghĩa quá 。đại tuệ 。thí như hư không phi thường phi vô thường 。li thường vô thường
+nhất dị câu bất câu thường vô thường quá 。cố bất khả thuyết 。thị cố như lai phi thường 。phục
+thứ đại tuệ 。nhược như lai vô sinh thường giả 。như thỏ mã đẳng giác 。dĩ vô sinh thường cố 。
+phương tiện vô nghĩa 。dĩ vô sinh thường quá cố 。như lai phi thường 。phục thứ đại tuệ 。canh hữu
+dư sự tri như lai thường 。sở dĩ giả hà 。vị vô gian sở đắc trí thường 。cố như lai
+thường 。đại tuệ 。nhược như lai xuất thế nhược bất xuất thế 。pháp tất định trụ 。thanh văn duyên giác
+chư phật như lai 。vô gian trụ bất trụ hư không 。diệc phi ngu phu chi sở giác tri 。đại
+tuệ 。như lai sở đắc trí 。thị ban nhược sở huân 。phi tâm ý ý thức bỉ chư âm giới
+nhập xứ sở huân 。đại tuệ 。nhất thiết tam hữu giai thị bất thật vọng tưởng sở sinh 。như lai
+bất tùng bất thật hư vọng tưởng sinh 。đại tuệ 。dĩ nhị pháp cố hữu thường vô thường phi bất
+nhị 。bất nhị giả tịch tĩnh 。nhất thiết pháp vô nhị sinh tướng cố 。thị cố như lai ưng cung
+đẳng chính giác phi thường phi vô thường 。đại tuệ 。nãi chí ngôn thuyết phân biệt sinh 。tắc hữu thường
+vô thường quá 。phân biệt giác diệt giả 。tắc li ngu phu thường vô thường kiến bất tịch tĩnh tuệ
+giả 。vĩnh li thường vô thường 。phi thường vô thường huân 。
+   　thông viết 。ngoại đạo sở vị thường vô thường giả dĩ hữu tác quá 。như lai phi thường phi
+   　vô thường giả dĩ vô tác dã 。nhiên tắc vô tác ninh bất đồng ư hư không hồ 。như
+   　lai phi như hư không thường dã 。nhược như hư không giả bất đãi nhân thành ngoan không vô
+   　tri 。nhi như lai tự giác thánh trí linh giác bất muội chúng cụ trang nghiêm bất xả nhất
+   　pháp ưng vô thật nghĩa 。khởi bất hữu đoạn/đoán diệt chi quá 。như lai thường ngôn viên đồng thái
+   　hư vô khiếm vô dư 。đãn dĩ thủ thí thật thể đam nhiên thường tịch 。viễn li thường vô
+   　thường nhất dị câu bất câu chủng chủng hí luận tất đoạ thường vô thường nhị kiến quá 。cố
+   　dĩ tự thể chân thường thật bất khả thuyết 。nãi dĩ hư không thủ thí nhi như lai phi
+   　hư không thường dã 。cố viết phi thường vô tác kí bất đồng ư hư không 。vô nãi dĩ
+   　vô sinh vi thường hồ 。như lai diệc phi vô sinh thường dã 。nhược chấp trước vô sinh dĩ
+   　vi thường giả 。tức như ngoại đạo thỏ mã đẳng giác tà kiến 。tất cánh bất sinh chấp dĩ
+   　vi thường 。nhiên tắc như lai sở tu vạn hành phương tiện pháp môn 。không vô thật nghĩa câu
+   　bất tất sinh 。dĩ vô sinh vi thường giả hữu như thị tuyệt vô chi quá 。nhi như lai
+   　phi vô sinh thường dã 。cố viết phi thường kí phi hư không hựu phi vô sinh 。nhiên tắc
+   　hà dĩ kiến như lai chi thường da 。canh hữu dư sự tri như lai thường 。tức tiền phục
+   　hữu dư vô sinh hiền thánh sở đắc pháp 。bỉ sinh vô sinh giả thị tắc vô sinh nhẫn 。
+   　vị ư sinh nhi chứng vô sinh 。ư nhất thiết vô thường pháp trung nhi chứng chân thường chi
+   　lí 。bỉ li sinh pháp dĩ vi vô sinh giả 。tắc ư sinh hữu gian 。kim duy bất li
+   　sinh pháp nhi đắc vô sinh chi trí 。bất li vô thường nhi đắc chân thường chi trí 。thị
+   　danh vô gian chi trí dã 。trí vô gian đoạn/đoán 。khởi bất thị thường 。hữu thử vô gian thánh
+   　trí 。cố tri như lai thị thường dã 。thử vô gian thánh trí giả tự giác chi cảnh giới 。
+   　tiền hậu trí đoạn/đoán phi khứ lai kim 。cố bất luận hữu phật xuất thế vô phật xuất thế 。
+   　thử pháp tất cánh vô gian nhi trụ 。đường vân chư phật như lai sở chứng pháp tính pháp
+   　trụ pháp vị 。như lai xuất thế nhược bất xuất thế thường trụ bất dị 。tại ư nhất thiết
+   　nhị thừa ngoại đạo sở đắc pháp trung phi thị không vô 。nhiên phi phàm ngu chi sở năng
+   　tri 。phu thanh văn duyên giác giai hữu như lai vô gian trí tính nhi bất năng tri như
+   　lai thường giả 。vi bất năng li tâm ý ý thức hư vọng phân biệt 。cố luân chuyển tam
+   　giới bất đắc chân thường nhĩ 。nhược như lai sở đắc vô gian thánh trí nãi thị tự tính
+   　ban nhược sở huân 。hà dĩ vị chi ban nhược 。thế gian trí lự bất xuất tâm ý ý
+   　thức sở huân 。nhi ban nhược phi tâm ý ý thức dã 。thế gian trí lự bất xuất âm
+   　giới nhập xứ sở huân 。nhi ban nhược phi âm giới nhập xứ dã 。nhất thiết trí lự sở
+   　bất năng duyên cố vị chi ban nhược 。ban nhược trí vô gian cố như lai danh vi thường
+   　dã 。nhất thiết tam hữu bất xuất tâm ý ý thức bất thật vọng tưởng sở sinh 。cố hữu
+   　sinh diệt cố bất năng thường 。như lai bất tùng tâm ý ý thức bất thật vọng tưởng sở
+   　sinh 。thị vi như thật thị vi chân thường 。duy nhất chân thật canh vô sinh diệt 。thử sở
+   　vị tịch tĩnh nhất tâm dã 。nhi thường vô thường kiến hà tự nhi khởi hồ 。dĩ kiến hữu
+   　nhị pháp cố 。hoặc vị chi thường hoặc vị chi vô thường 。hư vọng phân biệt phi chân thật
+   　bất nhị chi kiến dã 。nhược kiến ư bất nhị giả 。phiền não tức thị bồ đề 。sinh tử
+   　tức thị niết bàn 。bản lai tịch tĩnh bất sinh 。nhất thiết pháp vô nhị vô biệt 。hà tùng
+   　kiến kì thường nhi sinh nhất thường tướng da 。hựu hà tùng kiến kì vô thường nhi sinh nhất
+   　vô thường tướng da 。thị cố như lai nhất thiết tịch tĩnh 。phi thường phi vô thường dã 。bất
+   　đãn tác thường vô thường kiến giả vọng kế hữu vô 。hữu chi li chi quá 。đãn hữu ngôn
+   　thuyết phân biệt tâm sinh thử thị thường thử thị vô thường 。thử thị phi thường phi vô thường 。
+   　tức vi ý lưu 。tức đoạ thường vô thường quá cữu 。nhược nhất thiết phân biệt giác diệt giả 。
+   　bất phân biệt vọng diệc bất phân biệt chân 。chân vọng lưỡng vô 。huyên tịch vô nhị 。tắc viễn
+   　li ngoại đạo chi quá hĩ 。bỉ ngu phu thường vô thường kiến chủng chủng phân biệt chủng chủng
+   　hư vọng thường tại sinh diệt 。túng hữu hiệt tuệ diệc bất tịch tĩnh 。lương do bình tích vi
+   　thường vô thường pháp sở huân cố dã 。nhược diệt thử bất tịch tĩnh tuệ giả 。duy tại vĩnh
+   　li bỉ thường vô thường pháp 。vật linh thiểu trụ 。kí bất tập cận kì thuyết 。tức phi thường
+   　vô thường sở huân nhi vi ban nhược sở huân dã 。huân ư ban nhược trí giả thị vi
+   　vô gian trí 。thị vi tự giác thánh trí đắc tận phân biệt bất sinh phân biệt 。kí vô
+   　phân biệt tức phi thường vô thường 。phi thường vô thường tức thị chân thường 。như thị chân thường
+   　tự hư không phi hư không 。tự vô sinh phi vô sinh 。khởi ngoại đạo phàm ngu sở khả
+   　trắc hồ 。từ minh trụ thạch sương 。đương giải hạ 。vị chúng viết 。tạc nhật tác anh hài 。kim
+   　triêu niên dĩ lão 。vị minh tam bát cửu 。nan đạp cổ hoàng đạo 。thủ thước hoàng hà kiền 。
+   　cước thích tu di đảo 。phù sinh mộng ảo thân 。nhân mệnh tịch nan bảo 。thiên đường tinh địa
+   　ngục 。giai do tâm sở tạo 。nam sơn bắc lĩnh tùng 。bắc lĩnh nam sơn thảo 。nhất vũ nhuận
+   　vô biên 。căn miêu tráng khô cảo 。ngũ hồ sâm học nhân 。đãn vấn hư không thảo 。tử thoát
+   　hạ thiên sam 。sinh phi đông nguyệt áo 。phân minh vô sự nhân 。đặc địa sinh phiền não 。ái
+   　nhất ái 。hạ tòa 。nhược thạch sương tư ngữ 。trực ư vô thường cảnh giới độc lộ chân thường 。
+   　khả vị đắc vô gian trí hĩ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa 。nhi thuyết kệ ngôn 。
+chúng cụ vô nghĩa giả 。sinh thường vô thường quá 。nhược vô phân biệt giác 。vĩnh li thường vô thường
+(đường vân viễn li thường vô thường 。nhi hiện thường vô thường 。hằng như thị quan phật 。bất sinh ư ác kiến 。nhược thường vô thường giả 。sở tập giai vô ích 。vi trừ phân biệt giác 。bất thuyết thường vô thường )
+tùng kì sở lập tông 。tắc hữu chúng tạp nghĩa 。đẳng quan tự tâm lượng 。ngôn thuyết bất khả đắc
+(ngụy vân sở hữu lập pháp giả 。giai hữu chư quá thất 。nhược năng kiến duy tâm 。bỉ bất đoạ chư quá )。
+   　thông viết 。đường ngụy nhị dịch giai hữu tiền tứ cú 。vị như lai viễn li ư thường vô
+   　thường nhị pháp cố 。hiện nhi vi thường phi đồng ngoại đạo chi thường dã 。hiện nhi vi vô
+   　thường phi đồng ngoại đạo chi vô thường dã 。cố viết phi thường phi vô thường 。nhược như thị
+   　quan phật giả 。tắc viễn li chư quá hĩ 。nhược ngoại đạo ác kiến kiến lập thường vô thường
+   　luận 。ngôn thường tắc chúng cụ bất sinh 。ngôn vô thường tắc chúng cụ đồng hoại 。nhất thiết công
+   　đức đồng quy đoạn/đoán diệt 。giai sinh ư thường vô thường chi quá 。nhược như lai đệ tử bất
+   　ư thử nhị pháp sinh ngôn thuyết phân biệt giác giả 。tức bất vi thường vô thường sở huân 。
+   　phân biệt kí vô 。đam nhiên tịch tĩnh 。vĩnh li thường vô thường nhị biên ác kiến hĩ 。thả
+   　bỉ thường vô thường giai do ư tác 。tùng kì sở lập tông 。tắc hữu chúng đa tạp loạn
+   　tông nhân thí dụ chủng chủng đa đoan tự ngữ tướng vi 。vô quyết định nghĩa 。bỉ duy bất
+   　ngộ duy tâm sở hiện 。đãn ư ngoại cảnh tự sinh phân biệt 。cố bất năng li ư ngôn
+   　thuyết quá nhĩ 。nhược năng đẳng quan tự tâm hiện lượng 。sinh tử dữ niết bàn vô dị tướng 。
+   　thường dữ vô thường vô dị tướng 。đãn nhất tịch tĩnh canh vô phân biệt 。tức ngôn thuyết diệc
+   　bất khả đắc 。huống phục kiến lập thường vô thường luận nhi đoạ chư ác kiến hồ 。ngô cố
+   　vị như lai phi thường phi vô thường dã 。tích hành xương vấn ư lục tổ viết 。đệ tử
+   　thường lãm niết bàn kinh 。vị hiểu thường vô thường nghĩa 。khí vi giải thuyết 。tổ viết 。vô thường
+   　giả tức phật tính dã 。hữu thường giả tức nhất thiết thiện ác chư pháp phân biệt tâm dã 。
+   　viết hòa thượng sở thuyết đại vi kinh văn 。tổ viết 。ngô truyền phật tâm ấn 。an cảm vi
+   　ư phật kinh 。viết kinh thuyết phật tính thị thường 。hòa thượng khước ngôn vô thường 。thiện ác chư
+   　pháp nãi chí bồ đề tâm giai thị vô thường 。hòa thượng khước ngôn thường 。thử tức tướng vi 。
+   　linh học nhân chuyển gia nghi hoặc 。tổ viết 。niết bàn kinh ngô thính ni vô tận tạng tụng
+   　độc nhất biến 。tiện vi giảng thuyết 。vô nhất tự nhất nghĩa bất hợp kinh văn 。nãi chí vi
+   　nhữ chung vô nhị thuyết 。viết học nhân thức lượng tiên muội 。nguyện hòa thượng uy khúc khai thị 。
+   　tổ viết 。nhữ tri phủ 。phật tính nhược thường 。canh thuyết thập ma thiện ác chư pháp 。nãi chí
+   　cùng kiếp vô hữu nhất nhân phát bồ đề tâm giả 。cố ngô thuyết vô thường chính thị phật
+   　thuyết chân thường chi đạo dã 。hựu nhất thiết chư pháp nhược vô thường giả 。tức vật vật giai
+   　hữu tự tính dong thụ sinh tử nhi chân thường tính hữu bất biến chi xứ 。cố ngô thuyết
+   　thường giả chính thị phật thuyết chân vô thường nghĩa 。phật tỉ vi phàm phu ngoại đạo chấp ư
+   　tà thường 。chư nhị thừa nhân ư thường kế vô thường cộng thành bát đảo 。cố ư niết bàn
+   　liễu nghĩa giáo trung phá bỉ thiên kiến nhi hiển thuyết chân thường chân lạc/nhạc/nhạo chân ngã chân tịnh 。
+   　nhữ kim bội nghĩa 。dĩ đoạn/đoán diệt vô thường cập xác định tử thường nhi thác giải phật chi
+   　viên diệu tối hậu vi ngôn 。túng lãm thiên biến 。hữu hà sở ích 。hành xương hốt nhiên đại
+   　ngộ 。nãi thuyết kệ viết 。nhân thủ vô thường tâm 。phật thuyết hữu thường tính 。bất tri phương tiện
+   　giả 。do xuân trì thập lịch 。ngã kim bất thí công 。phật tính nhi hiện tiền 。phi sư tướng
+   　thụ dữ 。ngã diệc vô sở đắc 。tổ viết 。nhữ kim triệt dã 。nghi danh chí triệt 。lễ tạ
+   　nhi thối 。thử thường vô thường thậm thâm nghĩa 。khước dữ thử đoạn kinh văn tướng khế 。
+(ngụy vân phật tính phẩm đệ thập nhất đường vân sa na phẩm đệ lục )。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn 。thế tôn 。duy nguyện thế tôn 。canh vi ngã thuyết
+âm giới nhập sinh diệt 。bỉ vô hữu ngã thùy sinh thùy diệt 。ngu phu giả y ư sinh diệt
+bất giác khổ tận 。bất thức niết bàn 。phật ngôn 。thiện tai đế thính 。đương vi nhữ thuyết 。đại tuệ
+bạch phật ngôn 。duy nhiên thụ giáo 。phật cáo đại tuệ 。như lai chi tạng thị thiện bất thiện nhân 。
+năng biến hưng tạo nhất thiết thú sinh 。thí như kĩ nhi biến hiện chư thú li ngã ngã sở 。
+bất giác bỉ cố 。tam duyên hòa hợp phương tiện nhi sinh 。ngoại đạo bất giác kế trước tác giả 。
+vi vô thuỷ hư nguỵ ác tập sở huân 。danh vi thức tạng 。sinh vô minh trụ địa dữ thất
+thức câu 。như hải lang thân trường sinh bất đoạn/đoán 。li vô thường quá li ư ngã luận 。tự tính
+vô cấu tất cánh thanh tịnh 。
+   　thông viết 。đại tuệ nhân thế tôn thuyết nhất thiết tam hữu giai thị bất thật vọng tưởng sở
+   　sinh 。do bỉ âm giới nhập xứ sở huân 。thị âm giới nhập thật hữu sinh diệt 。nhược ngũ
+   　âm vô chủ tức vô hữu ngã 。kí vô hữu ngã 。thùy sinh thùy diệt 。tam giới ngu phu
+   　thường tại sinh diệt chi trung 。dữ sinh diệt tướng y 。bất kiến sinh tử khổ tận 。thị cố
+   　bất tri niết bàn chi tướng 。cố nguyện thế tôn vi thuyết sinh diệt nhân sinh diệt thức bất
+   　sinh diệt dã 。phật ngôn âm giới nhập thật vô hữu ngã 。dĩ như lai tạng vi nhất thiết
+   　chúng sinh căn bản 。cố thị thế gian thiện bất thiện nhân 。năng biến hưng tạo lục đạo sinh
+   　tử hình sắc 。thật bất dữ lục đạo tác sinh tử nhân duyên 。thí như kĩ nhi biến hiện
+   　chư thú 。chư thú chủng chủng tướng trạng bất đồng 。kì trung vô ngã vô hân vô áp 。cố
+   　như lai tạng tính biến khởi nhất thiết 。bản li ngã ngã sở nhi ngoại đạo bất tri bất
+   　giác 。cố vị âm giới nhập tùng căn trần thức tam duyên hòa hợp nhi sinh 。thị cố tam
+   　giới sinh tử nhân duyên bất đoạn/đoán 。chư ngoại đạo đẳng bất năng như thật kiến như lai tạng 。
+   　ư bỉ nhân duyên hòa hợp sinh pháp chấp vi tác giả 。kế trước minh sơ sinh khởi nhị
+   　thập ngũ đế yếu quy ư thần ngã 。thử thần ngã giả hư nguỵ bất thật chung tùng biến
+   　diệt 。nhi ngoại đạo vi vô thuỷ ác tập sở huân kế trước bất xả 。di thất chân thường 。
+   　đoạ vô thường chi quá 。thử như lai tạng tính bản vô sinh diệt 。vi hữu vô thuỷ huân
+   　tập dữ sinh diệt hòa hợp cố 。danh vi thức tạng thị đệ bát thức 。hàm tạng thiện bất
+   　thiện nhân tức vi sinh diệt chủng tử 。danh vi vô minh trụ địa dữ đệ thất thức câu 。
+   　thiện pháp vi tịnh 。bất thiện pháp vi nhiễm 。nhiễm tịnh nhị giả giai thị vô minh giai dĩ
+   　thất thức vi y 。thất thức tế phân nội y ư bát thức 。cố bát thức vi vô minh
+   　trụ địa 。bát thức bản vô sinh diệt 。dĩ dữ thất thức câu cố như hải lang thân 。bát
+   　thức như hải thất thức như lang 。hải bản đam nhiên lang hữu sinh diệt 。kì thể tướng tục
+   　lưu chú 。trường kiến kì sinh vị thường đoạn/đoán tuyệt 。cố tam giới thiện bất thiện pháp hữu vô
+   　tướng khuynh 。giai do như lai tạng nhất niệm vô minh biến khởi nhi âm giới nhập thật vô
+   　tự tính dã 。nhược năng giác tri vô ngã ngã sở 。viễn li ngoại đạo vô thường đoạn/đoán diệt
+   　chi kiến 。diệc li ư sở chấp thần ngã hữu thường chi luận 。như phong điềm lang tĩnh đại
+   　hải viên trừng 。như lai tạng tự tính bản tự vô cấu 。bất đãn vô trược biên cấu 。diệc
+   　thả vô thanh biên cấu 。vô cấu tức vô vô minh 。nhi thiện bất thiện nghiệp hà tự nhi
+   　khởi 。tam giới sinh tử hà tùng nhi xuất 。tất cánh thanh tịnh tất cánh thường trụ 。thị vi
+   　niết bàn chi chân tướng dã 。đại mai thượng đường vân 。nhữ đẳng chư nhân các tự hồi tâm
+   　đạt bản 。mạc trục kì mạt 。đãn đắc kì bản 。kì mạt tự chí 。nhược dục thức bản 。duy
+   　liễu tự tâm 。thử tâm nguyên thị nhất thiết thế gian xuất thế gian pháp căn bản 。cố tâm
+   　sinh chủng chủng pháp sinh 。tâm diệt chủng chủng pháp diệt 。tâm thả bất phụ nhất thiết thiện ác
+   　nhi sinh vạn pháp 。bản tự như như 。hựu lỗ tổ vấn nam toàn 。ma ni châu nhân bất
+   　thức 。như lai tạng lí thân thâu đắc 。như hà thị tạng 。toàn vân 。vương lão sư dữ nhữ
+   　vãng lai giả thị 。tổ viết bất vãng lai giả 。toàn vân diệc thị tạng 。tổ viết như hà
+   　thị châu 。toàn triệu vân sư tổ 。tổ ưng nặc 。toàn vân 。khứ 。nhữ bất hội ngã ngữ 。thiên
+   　đồng tụng vân 。biệt thị phi danh đắc tang ưng chi tâm chỉ chư chưởng 。vãng lai bất vãng
+   　lai 。chỉ giá câu thị tạng 。luân vương thưởng chi hữu công 。hoàng đế đắc chi võng tượng 。chuyển
+   　xu cơ 。năng kĩ lưỡng 。minh nhãn nạp tăng vô lỗ mãng 。phật quả vân 。tận đại địa thị
+   　như lai tạng 。hướng thậm ma xứ trước châu 。tận đại địa thị ma ni châu 。hoán thậm ma
+   　tác tạng 。tuyết đậu biệt vân 。hiểm 。bá trượng can đầu tác kĩ lưỡng 。bất thị hảo thủ 。giá
+   　lí tác đắc cá nhãn 。tân chủ hỗ hoán 。tiện năng thâm nhập hổ huyệt 。hoặc bất nhẫm ma 。
+   　túng nhiêu sư tổ ngộ khứ 。dã thị long đầu xà vĩ 。nhiên tắc như lai tạng tính phi
+   　cụ thượng nhãn thượng trí giả bất đạt 。hà quái hồ ngoại đạo 。
+kì dư chư thức hữu sinh hữu diệt 。ý ý thức đẳng niệm niệm hữu thất 。nhân bất thật vọng
+tưởng 。thủ chư cảnh giới chủng chủng hình xứ kế trước danh tướng 。bất giác tự tâm sở hiện sắc
+tướng 。bất giác khổ lạc/nhạc/nhạo bất chí giải thoát 。danh tướng chư triền tham sinh sinh tham 。nhược nhân nhược
+phàn duyên 。bỉ chư thụ căn diệt thứ đệ bất sinh dư tự tâm vọng tưởng bất tri khổ lạc/nhạc/nhạo 。
+nhập diệt thụ tưởng chính thụ đệ tứ thiền thiện chân đế giải thoát tu hành giả tác giải thoát
+tưởng 。bất li bất chuyển 。danh như lai tạng thức tạng 。thất thức lưu chuyển bất diệt 。(đường vân hoặc phục thiện nhập
+chư đế giải thoát tiện vọng sinh ư đắc giải thoát tưởng 。nhi thật vị xả vị chuyển như lai tạng trung thức tạng chi danh 。ngụy vân như lai tạng thức bất tại a lê da thức trung thị cố thất
+chủng thức hữu sinh hữu diệt như lai tạng thức bất sinh bất diệt )sở dĩ giả hà 。bỉ nhân phàn duyên chư thức sinh cố 。phi
+thanh văn duyên giác tu hành cảnh giới 。bất giác vô ngã tự cộng tướng 。nhiếp thụ sinh âm giới
+nhập 。kiến như lai tạng ngũ pháp tự tính 。nhân pháp vô ngã tắc diệt 。địa thứ đệ tướng tục
+chuyển tấn 。dư ngoại đạo kiến bất năng khuynh động 。thị danh trụ bồ tát bất động địa 。đắc thập
+tam muội đạo môn lạc/nhạc/nhạo 。tam muội giác sở trì quan sát bất tư nghị phật pháp 。tự nguyện bất
+thụ tam muội môn lạc/nhạc/nhạo cập thật tế 。(đường vân vi tam muội lực chư phật sở trì quan sát bất tư nghị phật pháp cập bản nguyện lực bất trụ thật
+tế cập tam muội lạc/nhạc/nhạo )hướng tự giác thánh thú 。bất cộng nhất thiết thanh văn duyên giác cập chư ngoại đạo
+sở tu hành đạo 。đắc thập hiền thánh chủng tính đạo cập thân trí ý sinh 。li tam muội hành 。
+thị cố đại tuệ 。bồ tát ma ha tát dục cầu thắng tấn giả 。đương tịnh như lai tạng cập
+thức tạng danh 。
+   　thông viết 。thượng ngôn tự tính vô cấu tất cánh thanh tịnh 。tức thị như lai tạng thức bản
+   　vô sinh diệt 。kì dư chư thức tắc hữu sinh diệt 。vị ý dữ ý thức đẳng thất thức
+   　niệm niệm sinh diệt tân tân bất trụ 。nhiên bỉ thất thức sở dĩ sinh diệt giả 。dĩ bất
+   　thật vọng tưởng vi nhân 。ngoại thủ cảnh giới chủng chủng hình sắc vi duyên hòa hợp nhi sinh
+   　chư thức 。kế trước danh tướng dĩ vi thật hữu 。bất tri thử cảnh giới sắc đẳng chư pháp
+   　duy thị tự tâm chi sở hiển hiện 。dĩ bất liễu cố tham trước danh tướng nghịch thuận cảnh
+   　giới 。sinh tăng ái tâm 。khởi khổ lạc/nhạc/nhạo thụ 。bất đắc giải thoát 。vi bỉ ư chủng chủng danh
+   　tướng canh tướng triền phọc 。kí tùng tham sinh phục sinh ư tham 。chủng tử huân khởi hiện hành
+   　danh tham sinh 。hiện hành phục huân chủng tử danh sinh tham 。thất thức luân chuyển sinh diệt bất
+   　đình 。nhất thiết ngu phu y ư sinh diệt 。bất tri khổ tận 。bất thức niết bàn 。lương dĩ
+   　thử dã 。nhược vọng tưởng vi nhân sở vị thất thức giả diệt 。nhược cảnh giới vi duyên sở
+   　vị đệ lục thức giả diệt 。tắc bỉ chư thủ cảnh căn sở vị tiền ngũ thức giả diệt 。
+   　niệm niệm đình tức bất tướng tục sinh 。đãn dư tự tâm tuệ 。năng phân biệt khổ lạc/nhạc/nhạo bất
+   　sinh khổ lạc/nhạc/nhạo thụ giả 。hoặc li khổ hoặc li lạc/nhạc/nhạo hoặc khổ lạc/nhạc/nhạo câu xả 。dĩ áp khổ
+   　thú tịch 。hoặc nhập thiểu tưởng định chứng diệt tận định 。hoặc nhập tam ma bạt đề chính thụ
+   　chí đệ tứ thiền đắc tịch diệt lạc/nhạc/nhạo 。hoặc phục thiện tu tứ đế xuất ư tam giới đắc
+   　chân đế giải thoát 。chứng thiên không lí như nhị thừa sở chứng 。chư tu hành giả tiện các
+   　tự vị niết bàn 。vọng sinh ư đắc giải thoát tưởng 。thử đãn hôi diệt lục thức 。đắc li
+   　tiền cảnh giải thoát 。vị đắc nhất thiết xứ giải thoát 。kì thật vị li hồ thức 。vị chuyển
+   　hồ thức 。đãn danh vi như lai tạng trung chi thức tạng nhĩ 。sở vị tại triền như lai
+   　tạng dã 。xuất triền như lai tạng tức vô sinh diệt 。tại triền như lai tạng do hữu sinh
+   　diệt vị chi bát thức 。bát thức vị chuyển 。chủng tử tập khí thượng tại 。cố thất thức lưu
+   　chuyển bất diệt 。sở dĩ giả hà 。thất thức sở dĩ lưu chuyển bất diệt giả 。nhân bỉ bát
+   　thức cập lục thức phàn duyên y chi nhi đắc sinh 。cố tạng thức vị xả sinh diệt 。do
+   　tồn trung gian vi tế chi hoặc 。khởi dị cứu tận 。nhiên phi nhất thiết ngoại đạo nhị thừa
+   　chư tu hành giả sở tri cảnh giới 。dĩ bỉ duy liễu nhân vô ngã chấp 。bất liễu pháp
+   　vô ngã chấp 。ư âm giới xứ thủ ư tự tướng cập cộng tướng cố 。nhiếp thụ tự cộng
+   　tướng giả vị hữu niết bàn khả chứng cập hữu chứng niết bàn giả 。bất li năng sở thủ 。
+   　tức dĩ li âm giới nhập 。tức vi thức âm sở phú 。an năng tri thức tạng trung hữu
+   　ngã chi quá tai 。nhược năng chuyển hồ thức tạng nhi kiến như lai tạng chân bất sinh diệt
+   　tính 。tắc sở vị ngũ pháp giả dĩ li danh tướng vọng tưởng nhi chứng ư chính trí như
+   　như 。sở vị tam tự tính giả dĩ li vọng tưởng duyên khởi nhi chứng ư viên thành thật
+   　tính 。sở vị nhị vô ngã giả bất đãn đắc nhân vô ngã thả đắc pháp vô ngã 。hướng
+   　sở vân thất thức lưu chuyển giả đương hạ tùy diệt 。dĩ ngũ pháp đẳng giai y tạng thức
+   　nhi lập 。cố kim thức chuyển nhi đắc pháp vô ngã 。tấn ư bát địa 。do tiền ngộ nhập
+   　đắc dự sơ địa 。địa địa chuyển tấn 。nhất thiết ngoại đạo ác kiến bất năng khuynh động 。chí
+   　thử sinh diệt kí diệt 。đối trị diệc vong 。vô công khả dụng 。thị danh bồ tát trụ bất
+   　động địa 。trụ thử địa dĩ 。tức đắc thập chủng tam muội môn lạc/nhạc/nhạo 。sở vị li trước hư
+   　không bất nhiễm tam muội 。hữu nhất bá bát danh 。li trước hư không diệc tự li trước 。vi
+   　tam muội lực chư phật sở trì quan sát bất khả tư nghị phật pháp vô lượng công đức
+   　cập bản nguyện lực bi mẫn chúng sinh 。sở dĩ bất thụ tam muội chi lạc/nhạc/nhạo 。tuy chứng niết
+   　bàn nhi bất trụ ư thật tế 。hồi không hướng giả 。hồi trí hướng bi 。thú hướng tự giác
+   　thánh trí cứu cánh chi quả 。bất cộng nhất thiết nhị thừa ngoại đạo thủ chứng niết bàn canh
+   　bất tiền tấn sở tu hành lộ 。đắc tam hiền thập thánh bồ tát chủng tính 。nhập ư như
+   　lai ý sinh thân trí thân 。như thập bá minh môn 。năng dĩ nhất thân hoá bá loại thân
+   　vãng bá phật quốc 。giáo hoá chúng sinh 。địa địa tăng tấn 。cố năng li tam muội lạc/nhạc/nhạo nhi
+   　bất thủ trước dã 。nhược đam trước tam muội hữu pháp khả cực lạc/nhạc/nhạo 。thức trung tiện bất thanh
+   　tịnh 。bất đắc danh vi như lai tạng 。duy bồ tát trụ bất động địa 。li tam muội hành 。
+   　bất động địa tiền tài xả tạng 。dĩ xả thử tạng thức nhiễm ô chi danh 。tức thị như
+   　lai thanh tịnh chi tạng 。chư bồ tát dục cầu thắng tấn mãn túc như lai địa giả 。đương
+   　tịnh như lai tạng trung tạng thức chi danh 。thử nhất như lai tạng dã 。năng biến hiện chư
+   　thú cố hữu âm giới nhập 。phàm phu luân chuyển thất thức tắc vi bất thiện nhân 。nhị thừa
+   　năng diệt thất thức tắc vi thiện nhân 。bồ tát năng chuyển bát thức tắc thiện bất thiện nhân
+   　câu diệt 。ngô cố vị tự tính vô cấu tất cánh thanh tịnh 。hà sinh diệt chi hữu 。mã
+   　tổ vân 。nhất thiết chúng sinh tùng vô lượng kiếp lai 。bất xuất pháp tính tam muội 。trường tại
+   　pháp tính tam muội trung trước y khiết phạn ngôn đàm chi đối 。lục căn vận dụng nhất thiết
+   　thí vi tận thị pháp tính 。bất giải phản nguyên tùy danh trục tướng 。mê tình vọng khởi tạo
+   　chủng chủng nghiệp 。nhược năng nhất niệm phản chiếu 。toàn thể thánh tâm 。nhữ đẳng chư nhân các đạt
+   　tự tâm 。mạc kí ngô ngữ 。túng nhiêu thuyết đắc hà sa đạo lí kì tâm diệc bất tăng 。
+   　túng thuyết bất đắc kì tâm diệc bất giảm 。thuyết đắc diệc thị nhữ tâm 。thuyết bất đắc diệc
+   　thị nhữ tâm 。nãi chí phân thân phóng quang hiện thập bát biến 。bất như hoàn ngã tử hôi
+   　lai 。lâm quá tử hôi vô lực dụ thanh văn vọng tu nhân chứng quả 。vị lâm quá tử
+   　hôi hữu lực dụ bồ tát đạo nghiệp thuần thục chư ác bất nhiễm 。nhược thuyết như lai quyền
+   　giáo tam tạng 。hà sa kiếp thuyết bất tận 。do như câu 鎻diệc bất đoạn/đoán tuyệt 。nhược ngộ
+   　thánh tâm tổng vô dư sự 。cửu lập trân trùng 。mã tổ thâm nhập lăng già cảnh giới 。thử
+   　đoạn cát đằng 。nhất nhất dữ kinh văn tướng khế 。sở vị truyền phật tâm ấn 。tín bất hư
+   　dã 。
+đại tuệ 。nhược vô thức tạng danh 。như lai tạng giả tắc vô sinh diệt 。đại tuệ 。nhiên chư phàm
+thánh tất hữu sinh diệt 。tu hành giả tự giác thánh trí hiện pháp lạc/nhạc/nhạo trụ bất xả phương tiện 。
+đại tuệ 。thử như lai tạng thức tạng 。nhất thiết thanh văn duyên giác tâm tưởng sở kiến 。tuy tự
+tính thanh tịnh 。khách trần sở phú cố do kiến bất tịnh 。phi chư như lai 。đại tuệ 。như lai
+giả hiện tiền cảnh giới 。do như chưởng trung thị a ma lặc quả 。(thử quả tự hồ đào )đại tuệ 。ngã
+ư thử nghĩa dĩ thần lực kiến lập 。linh thắng man phu nhân cập lợi trí mãn túc chư bồ
+tát đẳng tuyên dương diễn thuyết như lai tạng cập thức tạng danh thất thức câu sinh thanh văn kế
+trước 。kiến nhân pháp vô ngã 。(đường vân linh 〔thức 〕thanh văn kiến pháp vô ngã )cố thắng man phu nhân thừa phật uy thần 。
+duy phật cập dư lợi trí y nghĩa bồ tát trí tuệ cảnh giới 。thị cố nhữ cập dư bồ
+tát ma ha tát 。ư như lai tạng thức tạng 。đương cần tu học 。mạc đãn văn giác tác tri
+túc tưởng 。(đường vân ngã vi thắng man phu nhân cập dư thâm diệu tịnh trí bồ tát thuyết như lai tạng danh thức tạng dữ thất thức câu khởi 。linh chư thanh văn kiến pháp vô ngã 。đại tuệ 。
+vi thắng man phu nhân thuyết phật cảnh giới phi thị ngoại đạo nhị thừa cảnh giới 。đại tuệ 。thử như lai tạng 。tạng thức thị phật cảnh giới dữ nhữ đẳng tỉ tịnh trí bồ tát tùy thuận nghĩa giả sở
+hành chi xứ 。phi thị nhất thiết chấp trước văn tự ngoại đạo nhị thừa chi sở hành xứ )。
+   　thông viết 。thừa thượng ngôn đương tịnh như lai tạng cập thức tạng danh 。nhược năng chuyển thức thành
+   　trí 。tức bất danh thức tạng nhi danh như lai tạng hĩ 。thức tạng y sinh diệt hữu phân
+   　biệt 。như lai tạng y bất sinh diệt vô phân biệt 。thuần thị trí thể cố vô sinh diệt 。
+   　nhiên nhất thiết phàm phu cập chư thánh nhân y bỉ thức tạng cố tất hữu sinh diệt 。phàm
+   　phu bất tri tu hành hữu sinh hữu diệt vô túc quái dĩ 。vị chi viết thánh sở vị
+   　tu hành giả hà dĩ diệc hữu sinh diệt da 。dĩ y a lại da thức cố nhập tự
+   　nội thân đắc tự giác thánh trí hiện pháp lạc/nhạc/nhạo trụ nhi bất xả 。ư dũng mãnh tinh tấn
+   　phương tiện hữu tu hữu chứng tức hữu sinh hữu diệt 。thử như lai tạng trung chi thức tạng
+   　dã 。luận như lai tạng bản tự thanh tịnh bản li tâm tưởng 。nhất thiết thanh văn duyên giác
+   　dĩ tâm tưởng ức độ khởi kiến vị hữu niết bàn khả chứng 。tuy như lai tạng tự tính
+   　thanh tịnh 。dĩ thử khách trần chi kiến phú chi do kiến bất tịnh 。tâm tưởng sở kiến 。hữu
+   　khứ lai danh chi viết khách 。hữu động dao danh chi viết trần 。thử thức tạng vi tế khách
+   　trần chướng ư bản thể tức vi bất tịnh 。đãn kiến bất tịnh 。bất kiến bản lai thanh tịnh 。
+   　tức bất năng phân biệt chân như 。tức bất năng hiện chứng chân như 。phi chư như lai cảnh
+   　giới dã 。nhược như lai giả ư như lai tạng tính phân minh hiện kiến 。đại dụng hiện tiền
+   　như quan chưởng trung am ma lặc quả 。bồ tát quan phật tính thượng thả như cách hộc kiến
+   　nguyệt 。duy như lai tịch diệt hiện tiền như quan chưởng quả 。phương vi cứu cánh thanh tịnh 。khởi
+   　nhị thừa tâm tưởng sở khả cập hồ 。thị cố phật ư thử như lai tạng đệ nhất nghĩa 。
+   　dĩ thần lực kiến lập bất khả tư nghị cảnh giới 。vi thắng man phu nhân cập dư thâm
+   　diệu tịnh trí bồ tát tuyên dương diễn thuyết như lai tạng cập thức tạng danh dữ thất thức
+   　câu sinh 。linh chư thanh văn dĩ li nhân ngã kế trước pháp ngã giả 。ư thử xả li
+   　tạng thức 。kiến pháp vô ngã nhi chứng ư thanh tịnh như lai tạng dã 。thắng man phu nhân
+   　tức ba tư nặc vương nữ 。vi du xà vương phu nhân 。thắng man kinh trung thuyết nhị chủng
+   　như lai tạng 。nhất không như lai tạng thoát li nhất thiết phiền não 。nhị bất không như lai
+   　tạng cụ quá hằng sa bất tư nghị phật pháp 。phật vi thắng man phu nhân thuyết thử nhị
+   　chủng như lai tạng 。phi thắng man phu nhân bất năng thừa phật uy thần thuyết ư như lai
+   　bất tư nghị cảnh giới 。thử phi ngoại đạo nhị thừa cảnh giới 。ngoại đạo sở chấp thần ngã
+   　đoạ tại thất thức 。nhị thừa sở chứng thiên không vị li bát thức 。đãn kiến thức tạng bất
+   　kiến như lai tạng 。thử nhị chủng không bất không như lai tạng tức thị thức tạng 。thức tạng
+   　tức thị như lai tạng 。thị phật cảnh giới duy phật dữ dư thượng căn lợi trí bồ tát
+   　tùy thuận ư nghĩa 。bất y văn tự trí tuệ hiện tiền năng liễu phân biệt thử nhị chủng
+   　pháp 。chư dư ngoại đạo nhị thừa vô trí tuệ giả chấp trước văn tự 。bất năng liễu tri
+   　như thử nhị pháp 。thị cố nhữ đẳng bồ tát ư như lai tạng thức 。đương cần quan sát 。
+   　chân kiến hiện tiền dữ phật vô nhị 。bất khả dĩ văn tri giác liễu tiện tác chỉ túc
+   　chi tưởng dã 。dục thức niết bàn chân tướng 。tất chí thị nhi cực hồ 。bá trượng vân 。bảo
+   　tích kinh vân pháp thân bất khả dĩ kiến văn giác tri cầu 。phi nhục nhãn sở kiến dĩ
+   　vô sắc cố 。phi thiên nhãn sở kiến dĩ vô vọng cố 。phi tuệ nhãn sở kiến dĩ li
+   　tướng cố 。phi pháp nhãn sở kiến dĩ li chư hành cố 。phi phật nhãn sở kiến dĩ li
+   　chư thức cố 。nhược bất tác như thị kiến 。thị danh phật kiến 。đồng sắc phi hình sắc danh
+   　chân sắc 。đồng không phi đại hư danh chân không 。sắc không diệc thị dược bệnh tướng trị ngữ 。
+   　pháp giới quan vân 。bất khả ngôn tức sắc bất tức sắc 。diệc bất khả ngôn tức không bất
+   　tức không 。nhãn nhĩ tị thiệt thân ý bất nạp nhất thiết hữu vô chư pháp 。danh chuyển nhập
+   　đệ thất địa 。thất địa bồ tát bất thối 。hướng thượng tam địa bồ tát tâm địa minh bạch 。
+   　dị nhiễm thuyết hoả tức thiêu 。tùng sắc giới hướng thượng 。bố thí thị bệnh 。khan tham thị dược 。
+   　tùng sắc giới hướng hạ 。khan tham thị bệnh 。bố thí thị dược 。hữu tác giới giả cát đoạn/đoán
+   　thế gian pháp 。đãn bất thân thủ tác vô quá danh vô tác giới diệc vân vô biểu giới 。
+   　diệc vân vô lậu giới 。đãn hữu cử tâm động niệm tận danh phá giới 。chi như kim đãn
+   　bất bí nhất thiết hữu vô chư cảnh hoặc loạn 。diệc bất y trụ bất hoặc loạn diệc vô
+   　bất y trụ tri giải thị danh biến học 。thị danh cần tán niệm thị danh quảng lưu bố 。
+   　vị ngộ vị giải thời danh mẫu 。ngộ liễu danh tử 。diệc vô vô ngộ giải tri giải thị
+   　danh mẫu tử câu tang 。diệu tai chí luận 。khả vi thử thiên lợi trí bồ tát cần học
+   　như lai tạng chi pháp thức dã 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+thậm thâm như lai tạng 。nhi dữ thất thức câu 。nhị chủng nhiếp thụ sinh 。trí giả tắc viễn li
+như kính tượng hiện tâm 。vô thuỷ tập sở huân 。như thật quan sát giả 。chư sự tất vô sự
+như ngu kiến chỉ nguyệt 。quan chỉ bất quan nguyệt 。kế trước danh tự giả 。bất kiến ngã chân thật
+tâm vi công kĩ nhi 。ý như hòa kĩ giả 。ngũ thức vi bạn lữ 。vọng tưởng quan kĩ chúng 。
+   　thông viết 。bản nhất như lai tạng nhi viết thậm thâm như lai tạng giả 。vị không như lai
+   　tạng li ư sinh diệt nhân sở dị tri 。bất không như lai tạng bất xả phương tiện thị
+   　hiện sinh diệt dữ thất thức câu sinh 。nhân sở nan trắc cố viết thậm thâm dã 。duy kì
+   　dữ thất thức câu 。phàm ngu bất liễu nhiễm tịnh chư duyên y chi nhi lập 。kiến hữu năng
+   　thủ sở thủ nhị chủng nhiếp thụ tức quy sinh diệt 。trí giả liễu đạt nhiễm tịnh câu phi
+   　tâm cảnh câu vong 。nhi năng thủ sở thủ chi tướng đương hạ viễn li 。không tức bất định 。
+   　bất không tức không 。ngộ nhập thậm thâm như lai tạng cố danh vi trí dã 。sở vân viễn
+   　li giả khởi li cảnh dĩ cầu tâm tai 。tam giới chư pháp duy tâm sở hiện 。như chủng
+   　chủng hình tượng hiện ư kính trung 。phi hữu phi vô 。dĩ vô thuỷ nhiễm tịnh nhị tập chi
+   　sở huân cố đãn như kì tượng nhĩ 。ư kính liễu vô can thiệp 。nhược năng chân thật quan
+   　sát thậm thâm như lai tạng giả 。cầu ư khứ lai mê ngộ sinh tử liễu bất khả đắc 。
+   　chủng chủng chư sự tất bản vô sự 。chủng chủng chư tướng tất bản vô tướng 。vô thuỷ tập
+   　khí kì thật phi hữu 。cố năng viễn li ư nhiếp thụ dã 。thử thậm thâm như lai tạng
+   　tức sự nhi vô sự 。tức tượng nhi vô tượng 。đương y ư nghĩa mạc y danh tự 。danh
+   　tự giả như tiêu nguyệt chỉ 。ngu nhân kiến chỉ chỉ nguyệt 。đãn quan kì chỉ bất quan kì
+   　nguyệt 。kế trước danh tự bất kiến chân thật giả diệc do thị dã 。như thật quan sát giả
+   　tức dĩ như thật chi trí quan sát như thật chi thể 。bất trước ngữ ngôn văn tự 。cố
+   　năng kiến ư chân thật chi nghĩa 。kiến chân thật nghĩa giả viễn li tâm ý ý thức dĩ 。
+   　chuyển thức nhi thành trí 。cố kiến trí vi chân thật thức vi xứ giả dã 。dĩ quan kì
+   　tâm tắc tùy duyên hiện biến như công kĩ nhi 。dĩ quan kì ý tắc truyền tống xuất nhập
+   　như hòa kĩ giả 。dĩ quan ngũ thức tắc lãm cảnh trục trần dữ thức câu khởi hữu như
+   　bạn lữ 。dĩ quan lục thức tắc vọng tưởng phân biệt chấp vi thật hữu như quan kĩ chúng 。
+   　nhất thiết như ảo bản lai bất hữu 。nhược kế trước tâm ý ý thức danh tự giả 。tức
+   　nhiếp thụ ảo cảnh 。bất kiến ư như lai tạng chân thật nghĩa hĩ 。vương văn công quan bài
+   　ưu kệ viết 。chư ưu hí trường trung 。nhất quý phục nhất tiện 。tâm tri bản tự đồng 。sở
+   　dĩ vô hân oán 。nhược thử kệ diệc khả vị như thật quan sát giả 。ngũ tổ diễn thiền
+   　sư thị chúng vân 。sơn tăng tạc nhật nhập thành 。kiến nhất bằng ổi lỗi 。bất miễn cận tiền
+   　khán 。hoặc kiến đoan nghiêm kì đặc hoặc kiến xú lậu bất kham 。động chuyển hành toạ thanh hoàng
+   　xích bạch nhất nhất kiến liễu 。tử tế khán thời 。nguyên lai thanh bố mạn lí hữu nhân 。sơn
+   　tăng nhẫn tuấn bất cấm 。nãi vấn trường sử cao tính 。tha đạo 。lão hòa thượng khán tiện hưu 。
+   　vấn thậm ma tính 。sơn tăng bí tha nhất cú 。trực đắc vô ngôn khả đối vô lí khả
+   　thân 。hoàn hữu nhân vi sơn tăng đạo đắc ma 。tạc nhật na lí lạc tiết 。kim nhật giá
+   　lí bạt bản 。nhược minh đắc bạt bản tiêu tức 。tức năng viễn li nhiếp thụ nhi kiến như
+   　lai tạng tính hĩ 。
+
+**HẾT Quyển 7**
+
+***
+
+## Quyển 8
+
+(Ngụy vân pháp môn phẩm đệ thập nhị )。
+
+Nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn duy nguyện vi thuyết ngũ pháp tự tính
+thức nhị chủng vô ngã cứu cánh phân biệt tướng ngã cập dư bồ tát ma ha tát ư nhất
+thiết địa thứ đệ tướng tục phân biệt thử pháp nhập nhất thiết phật pháp nhập nhất thiết phật pháp
+giả nãi chí như lai tự giác địa phật cáo đại tuệ đế thính đế thính thiện tư niệm chi
+đại tuệ bạch phật ngôn duy nhiên thụ giáo phật cáo đại tuệ ngũ pháp tự tính thức nhị chủng
+vô ngã phân biệt thú tướng giả vị danh tướng vọng tưởng chính trí như như nhược tu hành giả
+tu hành nhập như lai tự giác thánh thú li ư đoạn/đoán thường hữu vô đẳng kiến hiện pháp lạc/nhạc/nhạo
+chính thụ trụ hiện tại tiền đại tuệ bất giác bỉ ngũ pháp tự tính thức nhị vô ngã tự
+tâm hiện ngoại tính phàm phu vọng tưởng phi chư thánh hiền đại tuệ bạch phật ngôn thế tôn vân
+hà ngu phu vọng tưởng sinh phi chư thánh hiền phật cáo đại tuệ ngu phu kế trước tục số
+danh tướng tùy tâm lưu tán lưu tán dĩ chủng chủng tướng tượng mạo đoạ ngã ngã sở kiến hi
+vọng kế trước diệu sắc kế trước dĩ vô tri phú chướng cố sinh nhiễm trước nhiễm trước dĩ tham
+khuể si sở sinh nghiệp tích tập tích tập dĩ vọng tưởng tự triền như tàm tác kiển đoạ sinh
+tử hải chư thú khoáng dã như cấp đán luân dĩ ngu si cố bất năng tri như ảo dã
+mã thuỷ nguyệt tự tính li ngã ngã sở khởi ư nhất thiết bất thật vọng tưởng li tướng sở
+tướng cập sinh trụ diệt tùng tự tâm vọng tưởng sinh phi tự tại thời tiết vi trần thắng diệu
+sinh ngu si phàm phu tùy danh tướng lưu (đường vân phàm ngu bất tri danh thị giả lập tâm tùy lưu động kiến chủng chủng tướng kế ngã
+ngã sở nhiễm trước ư sắc phú chướng thánh trí khởi tham sân si tạo tác chư nghiệp như tàm tác kiển vọng tưởng tự triền đoạ ư chư thú sinh tử đại hải như cấp đán luân tuần hoàn bất tuyệt
+bất tri chư pháp như ảo như diễm như thuỷ trung nguyệt tự tâm sở kiến vọng phân biệt khởi li năng sở thủ cập sinh trụ diệt vị tùng tự tại thời tiết vi trần thắng tính nhi sinh tùy danh
+tướng lưu )。
+
+Thông viết ngũ pháp tam tự tính bát thức nhị vô ngã tiền dĩ lịch lịch phát minh bất
+   　xí tái tam hĩ nhi hựu vi thử vấn giả cái dục cứu cánh phân biệt thú tướng hỗ
+   　tướng nhiếp nhập hỗ tướng dung thông nãi chí nhập nhất thiết phật pháp vô sở bất cai phương
+   　khả danh như lai tự giác địa nhĩ phật nãi nhất nhất nhi tường ngữ chi vị ngũ pháp
+   　giả tức cai nhất thiết pháp nhược tu hành giả li ư đoạn/đoán thường hữu vô đẳng kiến tức
+   　bất lạc danh tướng vọng tưởng hiện pháp lạc/nhạc/nhạo chính thụ trụ hiện tại tiền tức chư địa bồ
+   　tát phân chứng chân như trụ hiện tiền địa tư danh chính trí nãi đắc nhập như lai tự
+   　giác thánh thú chứng ư như như hĩ phàm ngu bất liễu ngũ pháp tự tính chư thức vô
+   　ngã ư tâm sở hiện kiến hữu ngoại vật nhi khởi phân biệt đoạn/đoán thường hữu vô đẳng kiến
+   　phi thánh nhân dã hà giả nhất thiết danh tướng giai thị giả lập nguyên phi thật hữu ngu
+   　phu kế trước thế tục danh tự tùy thuận sinh pháp tâm tùy lưu động kiến chủng chủng tướng
+   　nhân danh đắc tướng đoạ ngã ngã sở tà kiến hi vọng kế trước tâm trung cụ túc nhất
+   　thiết pháp tướng diệu thiện chi sắc bất giác nhập vu vô minh hắc ám phú chướng chi xứ
+   　hữu thử nhiễm trước tức khởi tham tâm khởi tham tâm dĩ tức năng tạo tác tham sân si
+   　nghiệp tạo nghiệp hành dĩ bất năng tự chỉ như tàm tác kiển dĩ phân biệt tâm nhi tự
+   　triền thân đoạ ư lục đạo chư thú sinh tử đại hải hiểm nan vô biên không khoáng vô
+   　tế như cấp đán luân tuần hoàn bất tuyệt bất tri chư pháp danh tướng như ảo như diễm
+   　như thuỷ trung nguyệt tuy hiện hữu ảnh tướng kì trung nguyên vô chủ tể nhi vi chi ngã
+   　diệc vô y chỉ nhi vi chi ngã sở kí vô ngã ngã sở tức phi thật hữu bỉ
+   　kế trước diệu sắc tích tập chư nghiệp giai tùng vu bất thật danh tướng vọng tưởng phân biệt
+   　nhi sinh khởi cố bất tri tự tính li ngã ngã sở tức li năng tướng sở tướng an
+   　sở đắc diệu thiện chi sắc dã kí li khả kiến năng kiến tức vô sinh trụ dị diệt
+   　lưu chuyển khả đắc an sở hữu tích tập chi nghiệp dã thử chư danh tướng giai tùng tự
+   　tâm vọng phân biệt khởi phi tùng tự tại thời vi trần thắng diệu đẳng sinh ngu si phàm
+   　phu vị tự tại thiên cập thời tiết vi trần thần ngã thắng tính năng sinh nhất thiết thử
+   　số giả kí hữu kì danh tức thị hữu tướng hữu tướng giả tức thị sở sinh phi thị
+   　năng sinh ư bất năng sinh giả nhi kế sinh thị ư sinh diệt pháp trung nhi vọng kế
+   　dĩ vi tác giả nhất thiết bất thật cố danh viết vọng thử chư ngu phu đãn tùy danh
+   　tướng lưu nhĩ khởi khả ngữ ư thánh hiền chân thật bất sinh bất diệt chi thú hồ tích
+   　bàng cư sĩ thường du giảng tứ tùy hỉ kim cương kinh chí vô ngã vô nhân xứ trí
+   　vấn viết tòa chủ kí vô ngã vô nhân thị thùy giảng thùy thính chủ vô đối sĩ viết
+   　mỗ giáp tuy thị tục nhân thố tri tín hướng chủ viết chi như cư sĩ ý tác ma
+   　sinh sĩ dĩ kệ đáp viết vô ngã phục vô nhân tác ma hữu sơ thân khuyến quân hưu
+   　lịch tòa bất tự trực cầu chân kim cương ban nhược tính ngoại tuyệt nhất tiêm trần ngã văn
+   　tinh tín thụ tổng thị giả danh trần chủ văn kệ hân nhiên ngưỡng thán nhược cư sĩ giả
+   　chân năng hiện pháp lạc/nhạc/nhạo trụ nãi đắc hiện tiền 。
+đại tuệ bỉ tướng giả nhãn thức sở chiếu danh vi sắc nhĩ tị thiệt thân ý ý thức sở
+chiếu danh vi thanh hương vị xúc pháp thị danh vi tướng đại tuệ bỉ vọng tưởng giả thí thiết
+chúng danh hiển thị chư tướng như thử bất dị (đường vân thử sự như thị quyết định bất dị )tượng mã xa bộ nam
+nữ đẳng danh thị danh vọng tưởng đại tuệ chính trí giả bỉ danh tướng bất khả đắc do như
+quá khách chư thức bất sinh bất đoạn/đoán bất thường bất đoạ nhất thiết ngoại đạo thanh văn duyên giác
+chi địa phục thứ đại tuệ bồ tát ma ha tát dĩ thử chính trí bất lập danh tướng phi
+bất lập danh tướng xả li nhị kiến kiến lập cập phỉ báng tri danh tướng bất sinh thị danh
+như như đại tuệ bồ tát ma ha tát trụ như như giả đắc vô sở hữu cảnh giới cố
+đắc bồ tát hoan hỉ địa đắc bồ tát hoan hỉ địa dĩ vĩnh li nhất thiết ngoại đạo ác
+thú chính trụ xuất thế gian thú pháp tướng thành thục phân biệt ảo đẳng nhất thiết pháp tự giác
+pháp thú tướng li chư vọng tưởng kiến tính dị tướng (đường vân li ức độ kiến )thứ đệ nãi chí pháp vân
+địa ư kì trung gian tam muội lực tự tại thần thông khai phu đắc như lai địa dĩ chủng
+chủng biến hoá viên chiếu thị hiện thành thục chúng sinh như thuỷ trung nguyệt thiện cứu cánh mãn túc
+thập vô tận cú vi chủng chủng ý giải chúng sinh phân biệt thuyết pháp pháp thân li ý sở
+tác thị danh bồ tát nhập như như sở đắc 。
+   　thông viết thượng ngôn danh tức thị tướng dĩ cánh thử hạ chỉ tướng diệc hữu danh bỉ sở
+   　vị tướng giả vị nhãn thức sở đối hình hình sắc sắc đỗng nhiên lãng chiếu giai danh vi
+   　sắc sắc cố hữu hình chi tướng dã chí ư nhĩ sở đối thanh tị sở đối hương thiệt
+   　sở đối vị thân sở đối xúc giai hữu thật cảnh khả chỉ diệc vi hữu hình chi tướng
+   　dã nhược ý dữ ý thức sở chiếu li chư tiền cảnh nội duyên pháp trần đãn danh giả
+   　sắc sở vị vô hình chi tướng dã ngũ pháp trung viết danh viết tướng giả như thử bỉ
+   　sở vị vọng tưởng giả ư thượng thí thiết chủng chủng giả danh cập hiển thị nhất thiết chư
+   　tướng tùng trung vọng sinh phân biệt viết thử sự như thị viết thử sự bất dị như tượng
+   　mã xa bộ nam nữ đẳng danh danh y tướng lập tướng trục danh sinh danh tướng bản giai
+   　thị vọng ư trung kế trước vọng sinh phân biệt cố danh vi vọng tưởng dã vọng tưởng tức
+   　bất đắc xưng vi chính trí nhược chính trí giả ư bỉ thí thiết hiển thị chủng chủng danh
+   　tướng vi tế quan sát cầu kì thật tướng liễu bất khả đắc dĩ bỉ điệt cộng nhân sinh
+   　cố hỗ vi kì khách kí điệt cộng sinh do như quá khách tắc tướng phi thường trụ chư
+   　thức bất phục sinh khởi hư vọng phân biệt thử đãn chư thức bất sinh phi thị đoạn/đoán diệt
+   　kì tướng dã cố bất đoạ ư đoạn/đoán diệc bất chấp trước kì tướng dã cố bất đoạ ư
+   　thường bất đoạ ư nhất thiết ngoại đạo nhị thừa chi địa cố danh viết chính trí dã bỉ
+   　ngoại đạo nhị thừa diệc năng chư thức bất sinh hà vi bỉ tức bất chính nhi thử vi
+   　chính dã bỉ đãn tri bất lập danh tướng tất dục nhất thiết nhi không chi tổng ư danh
+   　tướng thượng kiến lập phỉ báng nhị câu tướng vi hà dĩ năng như thử chính trí giả tuy
+   　bất lập danh tướng nhi đoạ ư hữu diệc vị thường bất lập danh tướng nhi đoạ ư vô
+   　kí bất chấp chi vi hữu nhi sinh nhất thường kiến diệc bất chấp chi vi vô nhi sinh
+   　nhất đoạn/đoán kiến xả li bỉ kiến lập cập phỉ báng nhị chủng tà kiến tri danh tướng bản
+   　tự bất sinh do như quá khách liễu bất khả đắc nhi chư thức hà tự sinh hồ cố
+   　danh tướng bất sinh giả cảnh như dã tri danh tướng bất sinh giả tâm như dã tâm cảnh
+   　nhất như cố danh như như nhược bồ tát do chính trí nhi trụ ư như như giả chiếu
+   　nhi vô chiếu đắc nhập vô tướng tịch tĩnh cảnh giới kiến chư tướng phi tướng tức đắc phân
+   　chứng chân như nhập sơ địa trụ trụ sơ địa giả chứng bá kim cương tam muội minh môn
+   　vĩnh li thế gian nhị thập ngũ hữu nhất thiết sinh diệt pháp như ngoại đạo niết bàn ác
+   　thú diệc bất trụ trước nhi chính trụ ư như lai gia xuất thế gian bất sinh diệt pháp
+   　chân như cảnh giới như thật tu hành pháp tướng thành thục như ngũ pháp tướng như ảo như
+   　mộng thiện năng phân biệt nhất thiết chư pháp duy tâm sở hiện tự giác pháp thú chứng tự
+   　thánh trí tu hành chi pháp như thị triển chuyển viễn li hư vọng phân biệt kiến tính dị
+   　tướng phàm kiến dữ tính dị giả sảo thiệp ức độ tiện ư pháp thể hữu dị cố viết
+   　dị tướng li ức độ kiến dĩ như thị địa địa tăng tấn thứ đệ nãi chí thập địa
+   　ư kì trung gian phi bất các đắc tam muội thần lực phi bất các hữu tự tại thần
+   　thông chí thử tắc thành thục chi cực nhi khai phu hĩ như chúng hoa khai phu trang nghiêm
+   　như lai chi địa như lai quán đỉnh thụ phật vị phân toạ liên hoa cung phóng đại quang
+   　minh cố hữu chủng chủng biến hoá viên chiếu pháp giới thị hiện báo hoá thành thục chúng sinh
+   　thành thục bồ tát tắc hiện báo thân thành thục hữu tình tắc hiện hoá thân như thuỷ trung
+   　nguyệt bất xuất bất nhập thiện năng cứu cánh đệ nhất nghĩa đế bí hoằng thệ giáp cụ túc
+   　thành mãn thập vô tận cú sở vị chúng sinh giới vô tận thế giới vô tận hư không
+   　giới vô tận pháp giới vô tận niết bàn giới vô tận phật xuất hiện vô tận như lai
+   　trí vô tận tâm sở duyên vô tận phật trí sở nhập vô tận chuyển pháp luân trí vô
+   　tận vi chủng chủng ý giải chúng sinh tùy kì dục lạc/nhạc/nhạo phân biệt thuyết pháp nhất âm diễn
+   　pháp tùy loại các giải tuy vi ý giải chúng sinh thuyết pháp nhi pháp thân tự giác li
+   　ý sở tác phi hữu ý phi vô ý phi hữu thuyết phi vô thuyết viễn li tâm ý
+   　ý thức đương thể như như thị danh bồ tát nhập như như cảnh giới đắc phật địa trung
+   　như thị như thị vô lượng vô biên pháp sở vị danh tướng vọng tưởng chính trí như như
+   　ngũ pháp phân biệt tướng giả đại ước như thử hoa nghiêm xuất hiện phẩm vân phật tử vô
+   　nhất chúng sinh nhi bất cụ hữu như lai trí tuệ đãn dĩ vọng tưởng điên đảo chấp trước
+   　nhi bất chứng đắc nhược li vọng tưởng nhất thiết trí tự nhiên trí vô sư trí tắc đắc
+   　hiện tiền hựu vân nhĩ thời như lai dĩ vô chướng ngại thanh tịnh trí nhãn phổ quan pháp
+   　giới nhất thiết chúng sinh nhi tác thị ngôn kì tai kì tai thử chư chúng sinh vân hà
+   　cụ hữu như lai trí tuệ ngu si mê hoặc bất tri bất kiến đương giáo dĩ chính đạo
+   　linh kì vĩnh li vọng tưởng chấp trước tự ư thân trung đắc kiến như lai quảng đại trí
+   　tuệ dữ phật vô dị thiên đồng lược cử vân ngã kim phổ kiến nhất thiết chúng sinh cụ
+   　hữu như lai trí tuệ đức tướng đãn dĩ vọng tưởng chấp trước nhi bất chứng đắc tụng viết
+   　thiên cái địa tái thành đoàn tác khối chu pháp giới nhi vô biên tích lân hư nhi vô
+   　nội cập tận huyền vi thùy phân hướng bội phật tổ lai thường khẩu nghiệp trái vấn thủ nam
+   　toàn vương lão sư nhân nhân chỉ khiết nhất hành thái nhiên tắc thử ngũ pháp kiến lập diệc
+   　thường khẩu nghiệp trái nhĩ nhược chứng như như thùy phân hướng bội 。
+nhĩ thời đại tuệ bồ tát bạch phật ngôn thế tôn vân hà thế tôn vi tam chủng tự tính
+nhập ư ngũ pháp vi các hữu tự tướng tông phật cáo đại tuệ tam chủng tự tính cập bát
+thức nhị chủng vô ngã tất nhập ngũ pháp đại tuệ bỉ danh cập tướng thị vọng tưởng tự tính
+đại tuệ nhược y bỉ vọng tưởng sinh tâm tâm pháp danh câu thời sinh như nhật quang câu chủng
+chủng tướng các biệt phân biệt trì thị danh duyên khởi tự tính (đường vân dĩ y bỉ phân biệt tâm tâm sở pháp câu thời nhi
+khởi như nhật dữ quang thị duyên khởi tính )đại tuệ chính trí như như giả bất khả hoại cố danh thành tự tính
+phục thứ đại tuệ tự tâm hiện vọng tưởng bát chủng phân biệt vị thức tạng ý ý thức cập
+ngũ thức thân tướng giả bất thật tướng vọng tưởng cố ngã ngã sở nhị nhiếp thụ diệt nhị vô
+ngã sinh (đường vân nhược năng xả li nhị chủng ngã chấp nhị vô ngã trí tức đắc sinh trường )thị cố đại tuệ thử ngũ pháp giả thanh
+văn duyên giác bồ tát như lai tự giác thánh trí chư địa tướng tục thứ đệ nhất thiết phật
+pháp tất nhập kì trung phục thứ đại tuệ ngũ pháp giả tướng danh vọng tưởng như như chính trí
+đại tuệ tướng giả nhược xứ sở hình tướng sắc tượng đẳng hiện thị danh vi tướng nhược bỉ hữu
+như thị tướng danh vi bình đẳng tức thử phi dư thị thuyết vi danh thí thiết chúng danh hiển
+thị chư tướng bình đẳng tâm tâm pháp thị danh vọng tưởng bỉ danh bỉ tướng tất cánh bất khả
+đắc thuỷ chung vô giác ư chư pháp vô triển chuyển li bất thật vọng tưởng thị danh như như
+(đường vân bỉ danh bỉ tướng tất cánh vô hữu đãn thị vọng tâm triển chuyển phân biệt như thị quan sát nãi chí giác diệt thị danh như như )chân thật quyết định cứu
+cánh tự tính bất khả đắc bỉ thị như tướng ngã cập chư phật tùy thuận nhập xứ phổ vi
+chúng sinh như thật diễn thuyết thí thiết hiển thị ư bỉ tùy nhập chính giác bất đoạn/đoán bất thường
+vọng tưởng bất khởi tùy thuận tự giác thánh thú nhất thiết ngoại đạo thanh văn duyên giác sở bất
+đắc tướng thị danh chính trí đại tuệ thị danh ngũ pháp tam chủng tự tính bát thức nhị chủng
+vô ngã nhất thiết phật pháp tất nhập kì trung thị cố đại tuệ đương tự phương tiện học diệc
+giáo tha nhân vật tùy ư tha 。
+   　thông viết tiền đại tuệ vấn phân biệt thử pháp nhập nhất thiết phật pháp diệc tri ngũ pháp
+   　năng nhiếp tận chư pháp cố thử tái thân tiền thỉnh thế tôn phục tường ngữ chi bỉ danh
+   　cập tướng vọng tưởng sở duyên nhược vô danh tướng phân biệt hà khởi thị biến kế vọng tưởng
+   　tự tính nhập ngũ pháp trung danh tướng dã nhược y bỉ vọng tưởng sở sinh tâm tâm sở
+   　pháp câu thời nhi khởi như nhật dữ quang câu thời nhi sinh nhật giả thất thức dã quang
+   　giả lục thức dã tiền ngũ sở đối chủng chủng tướng các biệt nhi lục thức tùng trung phân
+   　biệt chi thất thức tức tùng trung chấp trì chi hỗ tướng y trì tướng duyên nhi khởi thị
+   　thất thức danh duyên khởi tự tính dữ lục thức vọng tưởng câu thời nhi khởi cố y tha
+   　duyên khởi tự tính nhập ngũ pháp trung vọng tưởng dã nhược chính trí như như viễn li chư
+   　vọng chứng ư chân thật bỉ vọng tức hữu hoại chân tức bất khả hoại bất khả hoại giả
+   　bất sinh bất diệt vô khiếm vô dư tức thị viên thành thật tính cố như lai tạng thành
+   　tự tính nhập ngũ pháp trung chính trí như như dã sở vị tam chủng tự tính tất nhập
+   　ngũ pháp giả như thử nhược tự tâm sở hiện vọng pháp thị vi danh tướng ư thử chấp
+   　trước sinh khởi bát chủng phân biệt tức thị vọng tưởng sở vị thức tạng giả bát thức dã
+   　ý giả thất thức dã ý thức giả lục thức dã ngũ thức thân giả tiền ngũ thức dã
+   　thử bát chủng sai biệt tướng giai thị bất thật đãn dĩ vọng tưởng phân biệt triển chuyển sinh
+   　khởi cố vị chuyển thức giả danh vi thức tạng kí chuyển thức giả danh vi như lai tạng
+   　tức thị chính trí như như thử bát thức nhập ngũ pháp trung dã thức âm vị phá tắc
+   　thủ thức tạng vi ngã cập thức sở phân biệt tiền cảnh vi ngã sở thử chi vị nhân
+   　chấp kí xả tạng hĩ tắc thủ năng xả giả vi ngã thủ sở chứng vô ngã giả vi
+   　ngã sở thử chi vị pháp chấp ngã ngã sở bất li danh tướng nhị chủng nhiếp thụ tức
+   　thị vọng tưởng nhược nhị nhiếp thụ diệt nhị vô ngã sinh tức thị chính trí như như thử
+   　nhân pháp nhị vô ngã diệc nhập ngũ pháp trung dã thử ngũ pháp giả bất đãn bát thức
+   　nhị vô ngã tất nhập kì trung tức thanh văn duyên giác bồ tát như lai nhược nhân nhược
+   　quả nhất thiết phật pháp tất năng cai nhiếp tổng nhất như lai tạng tính vị chí như như
+   　chi cảnh tắc vọng hữu tiên thâm bất tề trí diệc hữu sinh thục bất đẳng kí chí như
+   　như đãn nhất chân tính tự giác thánh trí dĩ thử vi cực chư địa tướng tục dĩ thử
+   　vi quy hà sở bất nhiếp tai dĩ thượng phân biệt ngũ pháp nhập nhất thiết phật pháp dĩ
+   　hà dĩ năng chí như lai tự giác địa tai luận pháp thể tắc tiên chính trí nhi hậu
+   　như như luận tu chứng tắc tiên như như nhi hậu chính trí phi ban nhược cố bất năng
+   　chứng bồ đề nhiên phi kiến bồ đề chân thật diệc bất danh ban nhược cố phục thân ngôn
+   　danh tướng vọng tưởng sở vị tướng giả tức bỉ hình trạng sắc tượng thị dã sở vị danh
+   　giả tức bỉ bình tướng an lập bình danh thị dã sở vị vọng tưởng giả dĩ thí thiết
+   　chi giả danh hiển hư vọng chi chúng tướng tức bỉ bình đẳng nãi chí tâm tâm sở pháp
+   　vọng sinh phân biệt thị dã nhược ư bỉ danh bỉ tướng cứu cánh bất khả đắc tự thuỷ
+   　chí chung vô nhất niệm phân biệt ư chư pháp vô triển chuyển phân biệt tức li ư bất
+   　thật vọng tưởng nhi chư thức bất sinh nãi chí giác diệt ngoại vô sở giác chi cảnh thị
+   　cảnh như dã nội vô năng giác chi tâm thị tâm như dã tâm cảnh nhất như cố danh
+   　như như chân thật cứu cánh chí tự giác pháp tính diệc bất khả đắc như thập địa sở
+   　chứng hữu tự tính khả đắc giả tức thị dị tướng tức bất danh như tất quyết định vô
+   　nhất pháp khả đắc phương thị như tướng ngã cập chư phật tùy thuận như lai tạng tính sở
+   　chứng nhập xứ phổ vi chúng sinh khai thị diễn thuyết diệc thuyết thử như như thật tướng tức
+   　bỉ danh tướng thí thiết hiển thị cứu cánh bất khả đắc tức danh tướng li danh tướng tùy
+   　thuận nhập ư chính giác cảnh giới nhược năng ư thử tùy thuận ngộ giải bất chí li danh
+   　tướng nhi đoạ ư đoạn/đoán diệc bất chấp danh tướng nhi đoạ ư thường hữu vô vọng tưởng phân
+   　biệt bất sinh đãn tùy thuận tự giác thánh thú tức cảnh tức tâm tức tâm tức cảnh bản
+   　tự như như nhất thiết ngoại đạo nhị thừa sở bất đắc tướng bỉ ngoại đạo nhị thừa bất
+   　li tâm ý ý thức ác kiến bằng đảng giai bất chính trí thử tự giác thánh thú tâm
+   　thức bất đáo xứ cố phi bỉ sở đắc dã nhất thiết vọng tưởng sở bất năng duyên tức
+   　thị ban nhược trí thị danh chính trí phi chính trí bất năng khế như như phi nhập ư
+   　như như cảnh giới diệc bất danh chính trí sở vị đáo như lai tự giác địa giả dĩ
+   　thử thị danh ngũ pháp dữ tam tự tính bát thức nhị vô ngã hỗ tướng thiệp nhập hỗ
+   　tướng dung quán nhất thiết phật pháp tất nhập kì trung nhữ đẳng bồ tát đương tự phương tiện
+   　tu học nhược vô phương tiện tức đoạ ư ngoại đạo đoạn/đoán kiến cập nhị thừa thiên không diệc
+   　dĩ thử phương tiện giáo nhân vật tùy ư tha ngoại đạo nhị thừa tà chấp do phương tiện
+   　sinh chính trí do chính trí chứng như như hà như lai địa chi bất khả chí tai lâm
+   　tế vân đạo lưu thiết yếu cầu chân chính kiến giải hướng thiên hạ hoành hành miễn bí giá
+   　nhất ban tinh mị hoặc loạn vô sự thị quý nhân đãn yếu tạo tác chi thị bình thường
+   　nễ nghĩ hướng ngoại cầu quá mịch cước thủ thác liễu dã chi nghĩ cầu phật phật thị danh
+   　cú nễ hoàn thức trì cầu để ma tam thế thập phương phật tổ xuất lai dã chi vi
+   　cầu pháp như kim sâm học đạo lưu dã chi vi cầu pháp đắc pháp thuỷ liễu vị đắc
+   　y tiền luân hồi ngũ đạo vân hà thị pháp pháp giả thị tâm pháp tâm pháp vô hình
+   　thông quán thập phương mục tiền hiện dụng nhân tín bất cập tiện nãi nhận danh nhận cú hướng
+   　văn tự trung cầu ý độ phật pháp thiên địa huyền thù đạo lưu sơn tăng thuyết pháp thuyết
+   　thập ma pháp thuyết tâm địa pháp tiện năng nhập phàm nhập thánh nhập tịnh nhập uế nhập chân
+   　nhập tục yếu thả bất thị nễ chân tục phàm thánh năng dữ nhất thiết chân tục phàm thánh
+   　an trước danh tự chân tục phàm thánh dữ thử nhân an trước danh tự bất đắc đạo lưu
+   　bả đắc tiện dụng canh bất trước danh tự hiệu chi vi huyền chỉ thử lâm tế chân chính
+   　kiến giải tức thị chính trí năng viễn li nhất thiết phàm thánh danh tướng đáo ư như lai
+   　tự giác địa xứ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+ngũ pháp tam tự tính cập dữ bát chủng thức nhị chủng vô hữu ngã tất nhiếp ma ha diễn
+danh tướng hư vọng tưởng tự tính nhị chủng tướng chính trí cập như như thị tắc vi thành tướng 。
+   　thông viết tiên tụng ngũ pháp nhiếp tam tự tính cập bát thức nhị vô ngã tất nhiếp nhất
+   　thiết phật pháp tổng quy ư đại thừa giả dĩ sở thuyết chính trí như như thị tối thượng
+   　đệ nhất nghĩa tức chuyển vọng thành chân chuyển thức thành trí chí nhị ngã bất sinh giai đại
+   　thừa phật pháp phi như nhị thừa đẳng chấp tướng nhi tu chung nhập ư tiểu thừa dã thứ
+   　tụng ngũ pháp nhiếp tam tự tính như tiền thủ đáp chi nghĩa vị danh tướng thị vọng nhi
+   　ư danh tướng sinh tưởng giả vưu vi hư vọng bất thật vọng tưởng duyên khởi nhị tự tính
+   　tại kì trung hĩ hư vọng bất thật chung quy hoại diệt nhược chính trí như như nhất thiết
+   　chân thật bản tự bất sinh cố diệc bất diệt kí vô hoại diệt bản tự viên thành thị
+   　tắc thành tự tính chi thật tướng dã tất chứng ư viên thành thật tính phương chí như lai
+   　tự giác địa kì khả bất phương tiện tu học tai tăng vấn hộ quốc chứng thiền sư như
+   　hà thị bản lai tâm quốc vân tê nhân ngoạn nguyệt văn sinh giác tượng bí lôi kinh hoa
+   　nhập nha đan hà thuần tụng vân tam cước linh quy hoang kính tẩu nhất chi thụy thảo loạn
+   　phong thùy côn cương hàm ngọc sơn tiên nhuận lương thỏ hoài thai nguyệt vị tri thử nhị tôn
+   　tú thuyết bản lai tâm câu dĩ dụ hiển đan hà tự xuất thủ nhãn yếu dữ hộ quốc
+   　tướng kiến tam cước linh quy hoang kính tẩu giả vọng tưởng tâm dã nhất chi thụy thảo loạn
+   　phong thùy giả bản lai tâm dã sơn hàm ngọc nhi tự nhuận kì thể như như dã thỏ
+   　hoài thai nhi vị tri kì dụng như như dã cố tri văn sinh giác hoa nhập nha tức
+   　thị thỏ hoài thai cảnh giới tổng nhất bất khả tư nghị phi thân đáo như lai tự giác
+   　địa giả tốt nan ngữ thử 。
+(ngụy vân hằng hà sa phẩm đệ thập tam )。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn như thế tôn sở thuyết cú quá khứ
+chư phật như hằng hà sa vị lai hiện tại diệc phục như thị vân hà thế tôn vi như
+thuyết nhi thụ vi canh hữu dư nghĩa duy nguyện như lai ai mẫn giải thuyết phật cáo đại tuệ
+mạc như thuyết thụ tam thế chư phật lượng phi như hằng hà sa sở dĩ giả hà quá thế
+gian vọng phi thí sở thí dĩ phàm ngu kế thường ngoại đạo vọng tưởng (đường vân ngã dĩ phàm ngu chư ngoại đạo đẳng
+tâm hằng chấp trước thường dữ vô thường )trường dưỡng ác kiến sinh tử vô cùng dục linh áp li sinh tử thú luân
+tinh cần thắng tấn cố vi bỉ thuyết ngôn chư phật dị kiến phi như ưu đàm bát hoa nan
+đắc kiến cố tức phương tiện cầu hữu thời phục quan chư thụ hoá giả tác thị thuyết ngôn phật
+nan trực ngộ như ưu đàm bát hoa ưu đàm bát hoa vô dĩ kiến kim kiến đương kiến như
+lai giả thế gian tất kiến bất dĩ kiến lập tự thông cố thuyết ngôn như lai xuất thế như
+ưu đàm bát hoa (thử vân thụy ưng liên hoa )đại tuệ tự kiến lập tự thông giả quá thế gian vọng bỉ
+chư phàm ngu sở bất năng tín tự giác thánh trí cảnh giới vô dĩ vi thí chân thật như
+lai quá tâm ý ý thức sở kiến chi tướng bất khả vi thí 。
+   　thông viết tiền dĩ ngũ pháp tổng nhiếp chư pháp quy ư như như thử như như tức pháp
+   　thân cảnh giới tam thế chư phật pháp thân thường trụ cố đại tuệ dục minh pháp giới bình
+   　đẳng chân như nãi cử thế tôn thường thuyết tam thế chư phật như hằng hà sa đương như
+   　phật sở thuyết nhi tín thụ da ức canh hữu biệt nghĩa da phật vị mạc như ngôn thuyết
+   　nhi thụ tam thế chư phật tâm lượng siêu quá nhất thiết vô dữ đẳng giả phi đãn như
+   　hằng hà hà sa nhi dĩ dã vi kì siêu xuất thế gian tức phi thế gian chiêm vọng
+   　sở cập an đắc dĩ thế gian khả kiến thí dụ nhi thí chi cố kinh vân tam giới
+   　hữu vô nhất thiết pháp bất năng dữ phật vi thí dụ nhiên ngã tác như thị thuyết giả
+   　bỉ phàm ngu kế thường ngoại đạo kế vô thường trường dưỡng ác kiến luân hồi sinh tử thú
+   　trung bất năng kiến ư chân như cảnh giới ngã dục linh bỉ áp li sinh tử phát thắng
+   　hi vọng cố thuyết chư phật dị kiến dị khả phùng trực như hằng hà sa phi như ưu
+   　đàm hoa chi nan kiến dã nhược thuyết phật nan trực ngộ như ưu đàm hoa bỉ tất thối
+   　khiếp bất cần tinh tấn tức bỉ phương tiện cầu pháp chi tâm phi sở dĩ dụ kì tấn
+   　dã thị cố ngã thuyết như hằng hà sa nhược hữu căn thục kham thụ hoá giả hữu thời
+   　phục thuyết phật nan trực ngộ như ưu đàm hoa sứ sinh hạt ngưỡng kiệt lực cần cầu thử
+   　diệc phương tiện chi thuyết phi thật nhiên dã ưu đàm hoa vô dĩ kiến kim kiến đương kiến
+   　chi giả nhi như lai xuất thế tất tri tất kiến khởi ưu đàm hoa tỉ da đãn thuyết
+   　kì nan ngộ như ưu đàm hoa nhĩ bất dĩ như lai tự kiến lập tự chứng xứ thuyết
+   　như ưu đàm hoa nhiên tự kiến lập tự thông pháp giả nãi nội chứng thánh trí pháp thân
+   　cảnh giới thế gian vô dữ đẳng giả ngưỡng vọng bất cập phi bỉ phàm ngu sở năng tín
+   　giải cố tự giác thánh trí cảnh giới quá chư thí dụ sở dĩ giả hà thế gian sở
+   　khả kiến giả bất quá tâm ý ý thức suy trắc nhi tri như lai chuyển thức thành trí
+   　dĩ viễn li tâm ý ý thức cảnh giới khởi khả dĩ thế gian tâm ý ý thức sở
+   　kiến chi tướng nhi vi dụ da tâm ý ý thức giai phi chân thật nhi như lai chứng
+   　xứ tối vi chân thật giả cố bất khả dĩ dụ chân dã cố viết tam thế chư phật
+   　lượng phi như hằng hà sa mạc như thuyết thụ khả dã tam tổ tín tâm minh viết viên
+   　đồng đại hư vô khiếm vô dư lương do thủ xả sở dĩ bất như như tam tổ ngôn
+   　vị thường bất khả vi dụ đãn bất khả thủ xả nhĩ nhược vô thủ xả tức dụ diệc
+   　bất khả đắc hữu tăng vấn trí môn tộ thiền sư viết liên hoa vị xuất thuỷ thời như
+   　hà môn vân liên hoa tăng vân xuất thuỷ hậu như hà môn vân hà diệp thiên đồng niêm
+   　vân linh quy vô quái triệu không xác bất lao toàn hựu tăng vấn tịnh chúng thiền sư viết
+   　liên hoa vị xuất thuỷ thời như hà chúng vân hạm đạm mãn địa lưu tăng vân xuất thuỷ
+   　hậu như hà chúng vân diệp lạc bất tri thu thiên đồng niêm vân lí lăng trì hán tiết
+   　phan lãng/lang đảo kị lư thử diệc nhất liên hoa dã túng đàm đa dụ vị thường bất dữ
+   　tự chứng xứ tướng ưng 。
+đại tuệ nhiên ngã thuyết thí phật như hằng hà sa vô hữu quá cữu đại tuệ thí như hằng
+sa nhất thiết ngư miết du thu ma la (vân sát tử ngư )sư tử tượng mã nhân thú tiễn đạp sa
+bất niệm ngôn bỉ não loạn ngã nhi sinh vọng tưởng tự tính thanh tịnh vô chư cấu ô như
+lai ưng cung đẳng chính giác tự giác thánh trí hằng hà đại lực thần thông tự tại đẳng sa
+nhất thiết ngoại đạo chư nhân thú đẳng nhất thiết não loạn như lai bất niệm nhi sinh vọng tưởng
+như lai tịch nhiên vô hữu niệm tưởng như lai bản nguyện dĩ tam muội lạc/nhạc/nhạo an chúng sinh cố
+vô hữu não loạn do như hằng sa đẳng vô hữu dị hựu đoạn/đoán tham khuể cố 。
+   　thông viết như lai pháp thân kí vô khả thí nhiên phật thường thuyết thí vị tam thế chư
+   　phật như hằng hà sa giả vô tự ngữ tướng vi quá cữu dĩ hữu biệt nghĩa cố như
+   　hạ văn sở cử thất chủng biệt nghĩa tiên dĩ pháp thân li niệm xứ ngôn chi bỉ hằng
+   　hà sa nhất thiết ngư miết ngưu dương tượng mã cập sát tử ngư đẳng tiễn đạp kì thượng
+   　bất sinh phân biệt bất sân bất khuể diệc bất sinh tâm bỉ não loạn ngã dĩ bất vọng
+   　tưởng phân biệt cố hằng thanh tịnh vô cấu chư phật như lai diệc phục như thị nội thân
+   　chứng đắc tự giác thánh trí thanh tịnh vô tướng tiễn đạp sở bất đáo như bỉ hằng hà
+   　nhiên mãn túc chư lực thần thông tự tại công đức hiển hiện như hằng hà sa duy kì
+   　lực đại cố năng thắng chư não loạn nhất thiết thiên ma ngoại đạo ngu si ngư miết dĩ
+   　sân khuể tâm não loạn như lai như lai bất động bất sinh nhất niệm phân biệt đãn dĩ
+   　từ bi tam muội nhiếp chi tuy hiện khởi thần thông giáng phục chúng ma hằng tự tịch nhiên
+   　vô hữu niệm tưởng như lai bản nguyện dục linh nhất thiết chúng sinh giai nhập vô dư niết
+   　bàn nhi diệt độ chi dĩ tam muội chính thụ chi lạc/nhạc/nhạo an ổn chúng sinh linh mãn túc
+   　cố bất phân biệt phân biệt li chư não loạn như hằng hà sa vô hữu ái tăng đẳng
+   　vô hữu dị ngã thuyết chư phật như lai như hằng hà sa đẳng hựu dĩ bản nguyện phổ
+   　an chúng sinh như hằng hà sa đẳng đẳng giả bình đẳng vô hữu dị tướng dĩ li ái
+   　thân vô hữu tham khuể cố tham khuể kí đoạn/đoán phân biệt hà tùng nhi khởi cố vị chư
+   　phật như hằng hà sa giả dĩ li phân biệt cố thử kì vô quá cữu giả nhất dã
+   　hoàng bách vân kim học đạo nhân bất hướng tự tâm trung ngộ nãi ư tâm ngoại trước tướng
+   　thủ cảnh giai dữ đạo bội ngộ hà sa giả phật thuyết thị sa chư phật bồ tát thích
+   　phạm chư thiên bộ lí nhi quá sa diệc bất hỉ ngưu dương trùng nghĩ tiễn đạp nhi hành
+   　sa diệc bất nộ trân bảo hinh hương sa diệc bất tham phẩn nịch xú uế sa diệc bất
+   　ác thử tâm tức vô tâm chi tâm li nhất thiết tướng chúng sinh chư phật canh vô sai
+   　biệt đãn năng vô tâm tiện thị cứu cánh học đạo nhân nhược bất trực hạ vô tâm luy
+   　kiếp tu hành chung bất thành đạo hoàng bách diệc dĩ hằng hà sa phát minh hướng thượng nhất
+   　lộ tổng dữ tự giác thánh trí cảnh giới bất tướng vi bội 。
+thí như hằng sa thị địa tự tính kiếp tận thiêu thời thiêu nhất thiết địa nhi bỉ địa đại
+bất xả tự tính dữ hoả đại câu sinh cố kì dư ngu phu tác địa thiêu tưởng nhi địa
+bất thiêu dĩ hoả nhân cố như thị đại tuệ như lai pháp thân như hằng sa bất hoại 。
+   　thông viết thượng ngôn tự tính thanh tịnh vô hữu não loạn tức sứ não loạn diệc vô tán
+   　thất cố dĩ pháp thân bất hoại ngôn chi bỉ hằng hà sa hữu hình ngại thị địa tự
+   　tính dã kiếp số tương tận tam tai kế khởi đại địa bí thiêu nhi bỉ sa bất thất
+   　tự tính dĩ sa dữ hoả câu sinh cố ngu phu vị địa bí thiêu nhi địa thật bất
+   　thiêu địa dĩ hoả vi nhân cố hoả năng sinh độ cố địa dữ hoả câu sinh dã như
+   　lai pháp thân diệc như thị ngu phu tương vị phiền não hoả thiêu pháp thân diệc hoại bất
+   　tri phiền não tức thị bồ đề bất nhân phiền não vô dĩ hiển bồ đề phiền não dữ
+   　bồ đề vô nhị tính cố sở dĩ pháp thân bất hoại diệc như hằng sa bất hoại dã
+   　tăng vấn đại tùy kiếp hoả đỗng nhiên đại thiên câu hoại vị thẩm giá cá hoại bất hoại
+   　tùy vân hoại tăng vân nhẫm ma tắc tùy tha khứ dã tùy vân tùy tha khứ tăng vấn
+   　long tế kiếp hoả đỗng nhiên đại thiên câu hoại vị thẩm giá cá hoại bất hoại tế vân
+   　bất hoại tăng vân vi thậm bất hoại tăng vân vi đồng đại thiên tuyết đậu đạn tụng đại
+   　tùy thoại vân kiếp hoả quang trung lập vấn đoan nạp tăng do trệ lưỡng trùng quan khả lân
+   　nhất cú tùy tha ngữ vạn lí khu khu độc vãng hoàn thiên đồng thiêm nhập tu sơn chủ
+   　thoại tụng vân hoại bất hoại tùy tha khứ dã đại thiên giới cú lí liễu vô câu 鎻
+   　cơ cước đầu đa bí cát đằng ngại hội bất hội phân minh để sự đinh ninh sái tri
+   　tâm niêm xuất vật thương lượng du ngã đương hành tướng mãi mại chỉ vi đồng đại thiên nhất
+   　ngữ khước dữ thử đoạn kinh văn nhất đôi lưỡng đương 。
+đại tuệ thí như hằng sa vô hữu hạn lượng như lai quang minh diệc phục như thị vô hữu
+hạn lượng vi thành thục chúng sinh cố phổ chiếu nhất thiết chư phật đại chúng 。
+   　thông viết pháp thân bất hoại chân như chi thể dã hữu thị thể tất hữu thị dụng cố
+   　dĩ quang minh vô lượng ngôn chi bỉ hằng hà sa bất khả dĩ số hạn bất khả dĩ
+   　số lượng như lai quang minh diệc phục như thị khởi tín luận vân sở vị tự thể hữu
+   　đại trí tuệ quang minh nghĩa cố biến chiếu pháp giới nghĩa cố vi thành thục chúng sinh chi
+   　cố dĩ trí tuệ quang minh phổ chiếu hằng hà chư phật quốc độ hữu nhất chúng sinh căn
+   　khí tương thành thục giả tất hiện kì thân nhi vi thuyết pháp thế giới vô hạn quang minh
+   　diệc vô hạn dã trường sa sầm thượng đường ngã nhược nhất hướng cử dương tông giáo pháp đường
+   　lí tu thảo thâm nhất trượng sự bất hoạch dĩ hướng nhữ chư nhân đạo tận thập phương thế
+   　giới thị sa môn nhãn tận thập phương thế giới thị sa môn toàn thân tận thập phương thế
+   　giới thị tự kỉ quang minh tận thập phương thế giới tại tự kỉ quang minh lí tận thập
+   　phương thế giới vô nhất nhân bất thị tự kỉ ngã thường hướng nhữ chư nhân đạo tam thế
+   　chư phật pháp giới chúng sinh thị ma ha ban nhược quang quang vị phát thời nhữ đẳng chư
+   　nhân hướng thậm ma xứ uy tất quang vị phát thời thượng vô phật vô chúng sinh tiêu tức
+   　hà xứ đắc sơn hà quốc độ lai thời hữu tăng vấn như hà thị sa môn nhãn sầm
+   　viết trường trường xuất bất đắc hựu viết thành phật thành tổ xuất bất đắc lục đạo luân hồi
+   　xuất bất đắc tăng viết vị thẩm xuất cá thậm ma bất đắc sầm viết trú kiến nhật dạ
+   　kiến tinh viết học nhân bất hội sầm viết diệu cao sơn sắc thanh hựu thanh thử đoạn kinh
+   　nghĩa đắc trường sa khai diễn canh vi chương chước 。
+đại tuệ thí như hằng sa biệt cầu dị sa vĩnh bất khả đắc như thị đại tuệ như lai
+ưng cung đẳng chính giác vô sinh tử sinh diệt hữu nhân duyên đoạn/đoán cố 。
+   　thông viết thượng ngôn thành thục chúng sinh nhược chúng sinh vị thành thục giả tắc hữu phân đoạn
+   　sinh tử cập biến dị sinh diệt giai vị đoạn/đoán tam hữu nhân duyên cố như lai tắc bất
+   　nhiên thí như hằng sa canh bất sinh tướng như bỉ vi trần vi trần thể tướng như thị
+   　nhi trụ hằng sa tự tính bất canh cải biến nhi tác dư vật biệt cầu dị sa vĩnh
+   　bất khả đắc như lai đẳng chính giác diệc phục như thị chuyển sinh diệt y bất sinh diệt
+   　canh vô phân đoạn biến dị nhị chủng sinh tử dĩ vĩnh đoạn/đoán tam hữu sinh tử nhân cố
+   　chân như tính trung cầu ư khứ lai mê ngộ sinh tử liễu bất khả đắc diệc như hằng
+   　sa chi vô dị sa dã giáp sơn dữ định sơn đồng hành ngôn thoại thứ định sơn viết
+   　sinh tử trung vô phật tức vô sinh tử giáp sơn viết sinh tử trung hữu phật tức bất
+   　mê sinh tử hỗ tướng bất khẳng đồng thượng đại mai giáp sơn tiện cử vấn vị thẩm nhị
+   　nhân kiến xứ na cá giác thân mai viết nhất thân nhất sơ giáp sơn phục vấn na cá
+   　thân mai viết thả khứ minh nhật lai giáp sơn minh nhật tái thượng vấn mai viết thân giả
+   　bất vấn vấn giả bất thân giáp sơn trụ hậu tự vân đương thời thất nhất chích nhãn ư
+   　thử ngộ nhập đương tri khoáng kí thành kim kim bất phục khoáng 。
+đại tuệ thí như hằng sa tăng giảm bất khả đắc tri như thị đại tuệ như lai trí tuệ
+thành thục chúng sinh bất tăng bất giảm phi thân pháp cố thân pháp giả hữu hoại như lai pháp
+thân phi thị thân pháp (đường vân thí như hằng sa thủ bất tri giảm đầu bất kiến tăng chư phật diệc nhĩ dĩ phương tiện trí thành thục chúng sinh vô giảm vô tăng
+hà dĩ cố như lai pháp thân vô hữu thân cố )。
+   　thông viết thượng ngôn như lai trí tuệ quang minh thành thục chúng sinh yếu quy ư vô sinh
+   　diệt đoạn/đoán hữu nhân duyên bỉ hữu nhân duyên giả cố hữu hoại dã nhi như lai pháp thân
+   　hà dĩ bất hoại thí như hằng sa thủ chi nhi xuất ư hà bất kiến kì giảm đầu
+   　chi nhi nhập ư hà bất kiến kì tăng diệc bất khởi tâm ngã xuất nhập hà dĩ tự
+   　thể vô hạn lượng cố như lai trí tuệ diệc phục như thị tức thập phương chúng sinh giai
+   　thủ như lai trí tuệ nhi như lai bất giảm tức thập phương chúng sinh giai dĩ thành thục
+   　dữ phật trí tuệ vô nhị nhi như lai bất tăng dĩ pháp thân vô tướng phi như thân
+   　pháp hữu hình cố thân pháp hữu hình giả tức khả tăng khả giảm cứu cánh hữu hoại nhi
+   　như lai pháp thân phi thị thân pháp vô khả tăng giảm nhi diệc hà hoại chi hữu linh
+   　vân thượng đường vân chư nhân giả sở hữu trường đoản tận tại bất thường thả quan tứ thời
+   　thảo mộc diệp lạc hoa khai hà huống trần kiếp lai thiên nhân thất thú địa thuỷ hoả phong
+   　thành hoại luân chuyển nhân quả tương tận tam ác đạo khổ mao phát bất tăng thiêm giảm duy
+   　căn đế thần thức thường tồn thượng căn giả ngộ thiện hữu thân minh đương xứ giải thoát tiện
+   　thị đạo trường trung hạ si ngu bất năng giác chiếu trầm mê tam giới lưu chuyển sinh tử
+   　thích tôn vi y thiên thượng nhân gian thiết giáo chứng minh hiển phát chí đạo nhữ đẳng hoàn
+   　hội ma tăng vấn như hà đắc xuất li sinh lão bệnh tử vân viết thanh sơn nguyên bất
+   　động phù vân nhâm khứ lai nhược minh đắc linh vân kiến xứ bất đãn như lai trí tuệ
+   　vô tăng giảm nhi chúng sinh trí tuệ diệc vô tăng giảm 。
+như áp hằng sa du bất khả đắc như thị nhất thiết cực khổ chúng sinh bức bách như lai
+nãi chí chúng sinh vị đắc niết bàn bất xả pháp giới tự tam muội nguyện lạc/nhạc/nhạo dĩ đại bi
+cố (ngụy vân chư phật như lai vi chư chúng sinh khổ não sở áp sân bất khả đắc )。
+   　thông viết bất đãn chúng sinh thành thục dữ bất thành thục như hằng hà sa nguyên vô tăng
+   　giảm thí như hữu nhân dục đắc tô du áp hằng hà sa chung bất khả đắc vô tô
+   　du cố chúng sinh tại cực khổ trung như lai dĩ phương tiện lực linh kì giải thoát nhiên
+   　chư chúng sinh thụ đại khổ não bức áp như lai nãi chí bất đắc chứng ư niết bàn
+   　ưng hữu sân hận chư phật như lai cửu li sân khuể tất cánh sân bất khả đắc dĩ
+   　bất xả pháp giới tướng quảng đại vô biên tự tam muội lạc/nhạc/nhạo cố tức dĩ thử tự tam
+   　muội lạc/nhạc/nhạo độ nhất thiết chúng sinh nguyện lực sở trì cố dĩ đắc cụ túc đại từ đại
+   　bi ngã nhược bất linh nhất thiết chúng sinh nhập niết bàn giả ngã thân diệc bất nhập ư
+   　niết bàn bất xả bản nguyện dữ chúng sinh lạc/nhạc/nhạo cố tam muội trung sân bất khả đắc như
+   　áp sa cầu du chung bất khả đắc dã lục tổ vân dục nghĩ hoá tha nhân tự tu
+   　hữu phương tiện vật linh bỉ hữu nghi tức thị tự tính hiện phật pháp tại thế gian bất
+   　li thế gian giác li thế giác bồ đề kháp như cầu thỏ giác chính kiến danh xuất thế
+   　tà kiến danh thế gian tà chính tận đả khước bồ đề tính uyển nhiên chính pháp sở dĩ
+   　bạt chúng sinh cực khổ chính pháp diệc đả khước sở dĩ siêu nhập ư niết bàn thử tự
+   　giác giác tha đắc vô vi cự tức vô sân hận 。
+đại tuệ thí như hằng sa tùy thuỷ nhi lưu phi vô thuỷ dã như thị đại tuệ như lai
+sở thuyết nhất thiết chư pháp tùy niết bàn lưu thị cố thuyết ngôn như hằng hà sa như lai
+bất tùy chư khứ lưu chuyển khứ thị hoại nghĩa cố đại tuệ sinh tử bản tế bất khả tri
+bất tri cố vân hà thuyết khứ đại tuệ khứ giả đoạn/đoán nghĩa nhi ngu phu bất tri 。
+   　thông viết như lai thuyết pháp thí như hằng sa tùy thuỷ nhi lưu chung bất nghịch lưu sở
+   　dĩ lưu chuyển giả thuỷ dã phi thuỷ tắc sa vô tự lưu cố phi vô kì thuỷ dã
+   　chư phật như lai vi chúng sinh thuyết pháp tuy thuyết nhất thiết chư pháp thật tùy thuận niết
+   　bàn nhi xuất chư pháp như sa tất y ư thuỷ niết bàn như thuỷ bất li hồ sa
+   　cố năng sứ chư pháp lưu thông thật bất tùy chư thú lưu chuyển nhi khứ chư thú hữu
+   　khứ lai thị sinh diệt nghĩa niết bàn thị sinh tử bản tế li ư sinh diệt bất khả
+   　dĩ sinh diệt tri kiến nhi tri tri thả bất năng vân hà thuyết khứ cố như lai thuyết
+   　pháp tùy niết bàn lưu phi vô niết bàn tuy tại sinh diệt pháp trung nhi thật vô sinh
+   　diệt như hằng sa tùy thuỷ phi vô thuỷ dã đại niết bàn hải thị như lai diệu giác
+   　cảnh giới chư bồ tát thuận lưu nhi nhập sở dĩ hoàn nguyên như lai nghịch lưu nhi xuất
+   　sở dĩ độ sinh tuy hữu xuất nhập thật vô sinh diệt nhược tùy chư thú lưu chuyển nhi
+   　khứ giả nhập ư hữu tắc vi phàm phu cố bất li ư sinh diệt nhập ư vô tắc
+   　vi ngoại đạo nhị thừa bỉ sở vị niết bàn bất đãn vô sa tinh vô kì thuỷ tức
+   　thị đoạn/đoán diệt nghĩa nhi ngu phu cố bất tri bất giác sinh tử bản tế thật bất sinh
+   　bất diệt dã dĩ thượng giai dĩ hằng sa thủ thí các hữu biệt nghĩa tổng chi vô quá
+   　cữu dã trường sa sầm nhất nhật du sơn quy chí môn thủ thủ tòa vấn hòa thượng thập
+   　ma xứ khứ lai sa vân du sơn lai thủ tòa vân đáo thập ma xứ lai sa vân
+   　thuỷ tùy phương thảo khứ hựu trục lạc hoa hồi tòa vân đại tự xuân ý sa vân dã
+   　thắng thu lộ trích phù cừ tuyết đậu trước ngữ vân tạ đáp ngữ tụng vân đại địa tuyệt
+   　tiêm ai hà nhân nhãn bất khai thuỷ tùy phương thảo khứ hựu trục lạc hoa hồi luy hạc
+   　kiều hàn mộc cuồng viên sất cổ đài trường sa vô hạn ý đốt thử chư tôn tú tùy
+   　niết bàn lưu chân thị bất khả hiểu 。
+đại tuệ bạch phật ngôn thế tôn nhược chúng sinh sinh tử bản tế bất khả tri giả vân hà
+giải thoát khả tri phật cáo đại tuệ vô thuỷ hư nguỵ quá ác vọng tưởng tập khí nhân diệt
+tự tâm hiện tri ngoại nghĩa vọng tưởng thân chuyển giải thoát bất diệt (đường vân liễu tri ngoại cảnh tự tâm sở hiện phân biệt
+chuyển y danh vi giải thoát phi hoại diệt dã )thị cố vô biên phi đô vô sở hữu vi bỉ vọng tưởng tác vô
+biên đẳng dị danh quan sát nội ngoại li ư vọng tưởng vô dị chúng sinh trí cập nhĩ diễm
+nhất thiết chư pháp tất giai tịch tĩnh (đường vân li phân biệt tâm vô biệt chúng sinh dĩ trí quan sát nội ngoại chư pháp tri dữ sở tri tất giai
+tịch diệt )bất thức tự tâm hiện vọng tưởng cố vọng tưởng sinh nhược thức tắc diệt 。
+   　thông viết đại tuệ nhân thế tôn thuyết sinh tử bản tế bất khả tri kí bất khả tri
+   　vân hà như lai nhi đắc giải thoát phục linh chúng sinh đắc ư giải thoát tại sinh tử
+   　trung đắc giải thoát giả hựu khả tri da bất tri sở vị giải thoát vân giả li ư
+   　nhất thiết hí luận phiền não vô thuỷ huân tập phân biệt tâm cố nhiên vô thuỷ hư nguỵ
+   　tập khí chi nhân sở nội diệt giả đãn dĩ tự tâm như thật liễu tri ngoại cảnh nhất
+   　thiết chư pháp duy tâm sở hiện hiện khởi ngoại nghĩa sở phân biệt tâm mạc phi vọng dã
+   　trục vọng lưu chuyển tức phi giải thoát liễu bỉ vọng nhân phân biệt chuyển y chuyển sinh diệt
+   　y bất sinh diệt tức danh giải thoát vọng tưởng khả diệt nhi tri vọng giả bất diệt cố
+   　giải thoát giả thật bất diệt dã hà vi bất khả tri da vị đắc giải thoát tức vi
+   　sinh tử sở phọc cố hữu biên tế khả trắc kí đắc giải thoát viễn li sinh tử cảnh
+   　giới thị vi niết bàn thật tế vô lượng vô biên nan khả khuy trắc cố vị bản tế
+   　vô biên bất khả tri giả phi đô vô sở hữu nhất thiết đoạn/đoán diệt chi vị dã vi
+   　bỉ vọng tưởng phân biệt sở bất năng đáo tác thử vô biên đẳng dị danh nhĩ danh dị
+   　thể bất dị dã niết bàn tức thị chúng sinh sinh tử bản tế giải thoát tức thị chúng
+   　sinh minh liễu tự tâm li phân biệt tâm canh vô chúng sinh tức thử phân biệt danh vi
+   　chúng sinh nhược năng dĩ trí quan sát nội ngoại chư pháp li ư vọng tưởng vô phân biệt
+   　tâm thử vô phân biệt tức thị chân như phi li chúng sinh vọng tưởng ngoại biệt hữu nhất
+   　chân như dã nguyên vô dị ư chúng sinh vô nhị vô biệt cố bản tế thử chân như
+   　dã chúng sinh diệc thử chân như dã dĩ giai như cố tri dữ sở tri tất giai tịch
+   　diệt kí đắc tịch diệt nội vô năng tri chi tâm ngoại vô sở tri chi cảnh cố vị
+   　bản tế bất khả tri dã duy bất thức tự tâm sở hiện dĩ tâm ngoại hữu pháp vọng
+   　vi phân biệt cố vọng tưởng sinh vọng tưởng sinh tắc mê ư bản tế lưu lang sinh tử
+   　nhược liễu duy tâm tắc vọng tưởng đốn diệt vọng tưởng kí diệt tắc nội ngoại chư pháp tất
+   　giai tịch diệt tịch diệt giả tức thị niết bàn dĩ thử tri niết bàn giải thoát phi thị
+   　diệt pháp dã hoàng bách vân chư phật dữ nhất thiết chúng sinh duy thị nhất tâm canh vô
+   　biệt pháp thử tâm vô thuỷ dĩ lai bất tằng sinh bất tằng diệt bất thanh bất hoàng vô
+   　hình vô tướng bất thuộc hữu vô bất kế tân cựu phi trường phi đoản phi đại phi tiểu
+   　siêu quá nhất thiết hạn lượng danh ngôn tung tích đối đãi đương thể tiện thị động niệm tiện
+   　quai do như hư không vô hữu biên tế bất khả trắc độ duy thử nhất tâm tức thị
+   　phật phật dữ chúng sinh canh vô biệt dị đãn thị chúng sinh trước tướng ngoại cầu cầu chi
+   　chuyển thất sứ phật mịch phật tương tâm tróc tâm cùng kiếp tận hình chung bất năng đắc bất
+   　tri tức niệm vô lự phật tự hiện tiền thử tâm tức thị phật phật tức thị chúng sinh
+   　vi chúng sinh thời thử tâm bất giảm vi chư phật thời thử tâm bất thiêm nãi chí lục
+   　độ vạn hành hà sa công đức bản tự cụ túc bất giả tu thiêm ngộ duyên tức thí
+   　duyên tức tức tịch nhược bất quyết định tín thử thị phật nhi dục trước tướng tu hành dĩ
+   　cầu công dụng giai thị vọng tưởng dữ đạo tướng quai hoàng bách thử đoạn thật hợp thử kinh
+   　tinh thâm vi diệu chi chỉ 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+quan sát chư đạo sư do như hằng hà sa bất hoại diệc bất khứ diệc phục bất cứu cánh
+thị tắc vi bình đẳng quan sát chư như lai do như hằng sa đẳng tất li nhất thiết quá
+tùy lưu nhi tính thường thị tắc phật chính giác 。
+   　thông viết thử tụng thông dung tiền hậu thất dụ như hằng sa hoả thiêu bất hoại như hằng
+   　sa tùy lưu bất khứ cứu cánh giải thoát bất chí đoạn/đoán diệt thử tắc bình đẳng pháp thân
+   　bất lai bất khứ bất sinh bất diệt nhược tác như thị quan sát giả thị danh kiến chư
+   　đạo sư thật tướng dã nãi chí như hằng sa vô niệm li tăng ái quá như hằng sa
+   　vô dị li nhân duyên quá như hằng sa vô du li khổ bức quá quang minh phổ chiếu
+   　tùy lưu thuyết pháp nhi tự tính thường trụ thử tắc như lai chính giác bất tùy lưu chuyển
+   　nhược tác như thị quan sát giả thị danh kiến chư như lai thật thể dã thí như hằng
+   　sa hữu chủng chủng biệt nghĩa như thử khởi vị như hằng sa chi đa tiện túc nghĩ ư
+   　như lai quá lượng chi trí tai hoàng bách vân thị pháp bình đẳng vô hữu cao hạ thị
+   　danh bồ đề tức thử bản nguyên thanh tịnh tâm dữ chúng sinh chư phật thế giới sơn hà
+   　hữu tướng vô tướng biến thập phương giới nhất thiết bình đẳng vô bỉ ngã tướng thử bản nguyên
+   　thanh tịnh tâm thường tự viên minh biến chiếu thế nhân bất ngộ chỉ nhận kiến văn giác tri
+   　vi tâm vi kiến văn giác tri sở phú sở dĩ bất đổ tinh minh bản thể đãn trực
+   　hạ vô tâm bản thể tự hiện như đại nhật luân thăng ư hư không biến chiếu thập phương
+   　canh vô chướng ngại cố học đạo nhân duy nhận kiến văn giác tri thí vi động tác không
+   　khước kiến văn giác tri tức tâm lộ tuyệt vô nhập xứ đãn ư kiến văn giác tri xứ
+   　nhận bản tâm nhiên bản tâm bất thuộc kiến văn giác tri diệc bất li kiến văn giác tri
+   　đãn mạc ư kiến văn giác tri thượng khởi kiến giải mạc ư kiến văn giác tri thượng động
+   　niệm diệc mạc li kiến văn giác tri mịch tâm diệc mạc xả kiến văn giác tri thủ pháp
+   　bất tức bất li bất trụ bất trước túng hoành tự tại vô phi đạo trường hoàng bách thuyết
+   　bình đẳng chính giác xứ cực vi minh tất túc bị thử kệ quan sát như lai chi tinh
+   　nghĩa dã 。
+(ngụy vân sa na phẩm đệ thập tứ )。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn duy nguyện vi thuyết nhất thiết chư pháp
+sa na hoại tướng thế tôn vân hà nhất thiết pháp sa na phật cáo đại tuệ đế thính đế
+thính thiện tư niệm chi đương vi nhữ thuyết phật cáo đại tuệ nhất thiết pháp giả vị thiện bất
+thiện vô kí hữu vi vô vi thế gian xuất thế gian hữu tội vô tội hữu lậu vô lậu
+thụ bất thụ đại tuệ lược thuyết tâm ý ý thức cập tập khí thị ngũ thụ âm nhân thị
+tâm ý ý thức tập khí trường dưỡng (đường vân ngũ thủ uẩn pháp dĩ tâm ý ý thức tập khí vi nhân nhi đắc trường dưỡng )phàm ngu
+thiện bất thiện vọng tưởng đại tuệ tu tam muội lạc/nhạc/nhạo tam muội chính thụ hiện pháp lạc/nhạc/nhạo trụ danh
+vi hiền thánh thiện vô lậu đại tuệ thiện bất thiện giả vị bát thức hà đẳng vi bát vị
+như lai tạng danh thức tạng tâm ý ý thức cập ngũ thức thân phi ngoại đạo sở thuyết đại
+tuệ ngũ thức thân giả tâm ý ý thức câu thiện bất thiện tướng triển chuyển biến hoại tướng tục
+lưu chú bất hoại thân sinh diệc sinh diệc diệt (đường vân vô dị thể sinh sinh dĩ tức diệt )bất giác tự tâm hiện
+thứ đệ diệt dư thức sinh hình tướng sai biệt nhiếp thụ ý thức ngũ thức tướng ưng sinh sa
+na thời bất trụ danh vi sa na (đường vân bất liễu ư cảnh tự tâm sở hiện thứ đệ diệt thời biệt thức sinh khởi ý thức dữ bỉ ngũ thức
+cộng câu thủ ư chủng chủng sai biệt hình tướng sa na bất trụ ngã thuyết thử đẳng danh sa na pháp )。
+   　thông viết đại tuệ nhân phật ngôn như lai pháp thân như hằng sa bất hoại bất hoại giả
+   　tức vô sinh diệt nhiên như lai thường thuyết nhất thiết chư pháp sa na hoại tướng đương thị
+   　hà đẳng chư pháp sa na sa na niệm niệm bất trụ quy ư sinh diệt da phật ngôn
+   　nhất thiết pháp giả bất ngoại thế gian xuất thế gian phàm thánh chi pháp dĩ thiện bất thiện
+   　vô kí tam tính vi duyên hữu vi hữu tội hữu lậu thị bất thiện pháp tức danh thế
+   　gian vô vi vô tội vô lậu thị thiện pháp tức danh xuất thế thụ giả nội pháp sở
+   　vị niết bàn nhiếp thụ thị dã bất thụ giả ngoại pháp dĩ nhất thiết bất thụ vi tông
+   　thị dã thị vô kí sở nhiếp cử yếu ngôn chi bất xuất ngũ âm ngũ âm dĩ tâm
+   　ý ý thức chủng chủng tập khí vi nhân nhi đắc tăng trường âm giả súc uẩn chư nghiệp
+   　cái phú tự tính chi nghĩa tập khí trùng giả tắc cái phú thâm tập khí khinh giả tắc
+   　cái phú tiên tiêm tích tiêm tăng hữu trường dưỡng chi nghĩa phàm ngu bất năng phá âm nhi
+   　xuất tức ư tâm ý ý thức huân tập trung phân biệt thiện bất thiện pháp y chi tạo
+   　nghiệp tắc vi phàm phu y chi khởi kiến tắc vi ngoại đạo niệm niệm bất trụ vận vi
+   　hữu lậu phi thánh hiền dã nhược tam hiền thập thánh phá trừ ngũ âm tu tam muội lạc/nhạc/nhạo
+   　vọng tưởng diệt tận đắc tam muội chính thụ diệt tận định trung tự tại thụ dụng dĩ đắc
+   　pháp vi lạc/nhạc/nhạo hiện pháp lạc/nhạc/nhạo trụ trụ thị lạc/nhạc/nhạo giả tức bất niệm niệm thiên lưu thị danh
+   　thiện vô lậu pháp phi thánh hiền bất chứng dã bất vi ngũ âm sở phú tức năng xuất
+   　thế tức danh thánh hiền thử nhất ngũ âm dã thiện tu chi tắc thiện bất thiện tu chi
+   　tắc bất thiện sở vân nhân ư tâm ý ý thức tập khí trường dưỡng giả kì tường hà
+   　như bỉ thiện bất thiện nhiễm tịnh nhị pháp tức hữu sinh diệt sở vị bát thức hà giả
+   　vi bát vị ư như lai tạng trung y vô thuỷ vô minh huân tập sở khởi dĩ kì
+   　năng hàm tạng chủng tử tắc danh chi viết thức tạng tức đệ bát thức dã dĩ kì năng
+   　truyền tống xuất nhập tắc danh chi viết ý tức đệ thất thức dã dĩ kì năng phân biệt
+   　trù độ tắc danh chi viết ý thức tức đệ lục thức dã dĩ kì đối cảnh tức hiện
+   　tắc danh chi viết tiền ngũ thức ngũ thức bất li tứ đại sắc chất cố viết ngũ thức
+   　thân dã dĩ thượng bát chủng thức giai do vô minh huân biến chân như nhi như lai tạng
+   　tùy nhiễm duyên khởi tức danh bát thức nhi hữu sinh diệt bát thức tập khí trường dưỡng ngũ
+   　âm sở vị đà na vi tế thức tập khí thành bộc lưu trung gian vi tế sinh diệt
+   　sa na bất trụ phi bỉ ngoại đạo sở tri cố bất năng thuyết hà dĩ minh sa na
+   　bất dị tri dã bỉ ngũ thức thân giả tuy bất li tứ đại sắc chất dĩ kì vi
+   　bát thức kiến phân đương nhất niệm sơ động lãm cảnh chi thời nhi tâm ý ý thức giai
+   　dữ chi câu cố năng liễu biệt tiền cảnh thiện bất thiện tướng tâm động duyên khởi duyên hội
+   　tâm sinh triển chuyển biến hoại tướng tục bất đoạn/đoán ngũ thức minh liễu chuyển biến vi lục thức
+   　phân biệt lục thức phân biệt chuyển biến vi thất thức kế trước thất thức kế trước chuyển biến
+   　vi bát thức chủng tử thất thức tướng tục giả hoại bát thức lưu chú giả bất hoại nhiên
+   　bát thức dữ thất thức vô dị thể sinh cố tiền thất triển chuyển sinh diệt nhi bát thức
+   　diệc tùy thuận sinh pháp diệc sinh diệc diệt lương do bất giác tiền cảnh giai tự tâm sở
+   　hiện nguyên vị thường sinh nguyên vị thường diệt bỉ kiến hư vọng cảnh giới nhi sinh thủ trước
+   　tùy thủ tùy diệt cố hữu thứ đệ diệt tùy thứ đệ diệt xứ dư biệt thức sinh lãm
+   　hình tướng giả ngũ thức dã tri sai biệt giả ý thức dã nhiếp thụ chấp trước giả thất
+   　thức bát thức dã ngũ thức diệt nhi lục thức sinh lục thức diệt nhi thất thức bát thức
+   　sinh cố vị thứ đệ diệt dư thức sinh dã nhiên hữu đồng thời ý thức giả dữ tiền
+   　ngũ thức câu tiền ngũ dĩ lục thức vi phân biệt y lục thức dĩ tiền ngũ thức vi
+   　minh liễu môn tướng ưng nhi sinh thủ ư chủng chủng sai biệt hình tướng niệm niệm lưu chuyển
+   　sa na thời bất trụ nhất sa na khoảnh hữu bát thập chủng sinh diệt như bát thập căn
+   　ti nhất đao cát đoạn/đoán trung gian căn căn đoạn/đoán thời lược hữu thứ đệ ngã thuyết thử đẳng
+   　danh vi sa na phi như lai ngoại đạo sở thuyết kì khả dị tri hồ tai tăng vấn
+   　triệu châu sơ sinh hài tử hoàn cụ lục thức dã vô châu vân cấp thuỷ thượng đả cầu
+   　tử tăng phục vấn đầu tử cấp thuỷ thượng đả cầu tử ý chỉ như hà tử vân niệm
+   　niệm bất đình lưu tuyết đậu tụng vân lục thức vô công thân nhất vấn tác gia tằng cộng
+   　ban lai đoan mang mang cấp thuỷ thượng đả cầu tử lạc xứ bất đình thùy giải khán đại
+   　tuệ sở vấn sa na hoại tướng ý tại ư hoại thế tôn dĩ sa na vi thời thời
+   　phi khả hoại giả tuyết đậu vị lạc xứ bất đình thùy giải khán diệc dĩ bất đình vi
+   　tự tính dã khước dữ thử đoạn ý phù 。
+đại tuệ sa na giả danh thức tạng như lai tạng (ngụy vân a lê da thức danh như lai tạng )ý câu sinh thức
+tập khí sa na vô lậu tập khí phi sa na phi phàm ngu sở giác kế trước sa na
+luận cố bất giác nhất thiết pháp sa na phi sa na dĩ đoạn/đoán kiến hoại vô vi pháp đại
+tuệ thất thức bất lưu chuyển bất thụ khổ lạc/nhạc/nhạo phi niết bàn nhân đại tuệ như lai tạng giả
+thụ khổ lạc/nhạc/nhạo dữ nhân câu nhược sinh nhược diệt tứ trụ địa vô minh trụ địa sở tuý phàm
+ngu bất giác sa na kiến vọng tưởng huân tâm phục thứ đại tuệ như kim kim cương phật xá
+lợi năng kì đặc tính chung bất tổn hoại đại tuệ nhược đắc vô gian (đường vân nhược đắc chứng pháp )hữu sa
+na giả thánh ưng phi thánh nhi thánh vị tằng bất thánh như kim kim cương tuy kinh kiếp số
+xưng lượng bất giảm vân hà phàm ngu bất thiện ư ngã ẩn phú chi thuyết ư nội ngoại nhất
+thiết pháp tác sa na tưởng 。
+   　thông viết thượng sở vân sa na giả niệm niệm bất trụ thủ trước thiện bất thiện tướng tức
+   　tiền sở vị bát thức danh chi viết thức tạng thử thức tạng tức như lai tạng hà dĩ
+   　hữu sinh diệt da vi thị như lai tạng dữ thất thức ý câu nhân nhi truyền tống xuất
+   　nhập sinh khởi phân biệt sự thức dĩ chủng tử huân hiện hành dĩ hiện hành huân chủng tử
+   　hỗ tướng huân nhiễm tích thành tập khí niệm niệm bất đình lưu chú bất tức cố danh sa
+   　na nhược dĩ tam muội chính thụ thiện vô lậu tập khí huân chi tắc nhất niệm đốn tức
+   　tức phi sa na thử phi sa na cảnh giới đãn đoạn/đoán kì niệm bất đoạn/đoán kì thể đãn
+   　đoạn/đoán tập khí bất đoạn/đoán chân như phi bỉ phàm ngu sở giác bỉ phàm ngu kế trước thiện
+   　bất thiện vọng tưởng đãn kế trước sa na sinh diệt chi luận bất giác nhất thiết pháp tức
+   　sa na phi sa na tức sinh diệt phi sinh diệt tức bỉ tướng tục lưu chú bản tự
+   　tịch diệt tướng thị chân vô vi pháp dã phàm ngu bất giác nãi vị sa na hoại tướng
+   　niệm bất phục sinh dĩ đoạn/đoán diệt kiến hoại vô vi pháp vị niết bàn vô vi giả nhất
+   　thiết vô hữu thị phá hoại vô vi chính pháp dã hà dĩ minh kì hoại vô vi pháp
+   　dã bỉ nhị thừa giả dĩ đoạn/đoán phiền não chướng thất thức bất lưu chuyển đường vân ngũ thức
+   　thân phi lưu chuyển cái thất thức kí bất lưu chuyển tức vô xuất nhập kí vô xuất nhập
+   　tức vô nhiễm tịnh kí vô nhiễm tịnh tức vô khổ lạc/nhạc/nhạo thị khổ lạc/nhạc/nhạo tuy ngũ thức thân
+   　thụ nhi thất thức thật vi chi nhân kí bất thụ khổ lạc/nhạc/nhạo bất thụ hậu hữu nhiên phi
+   　niết bàn chính nhân dã niết bàn giả tức như lai tạng bất sinh bất diệt chi thể phi
+   　khả đoạn/đoán diệt cố cố viết thất thức bất lưu chuyển phi niết bàn nhân nhược như lai tạng
+   　giả bất li nhất thiết nhất thiết giai như tuy thụ khổ lạc/nhạc/nhạo bất vi khổ lạc/nhạc/nhạo sở phọc
+   　tuy dữ khổ lạc/nhạc/nhạo nhân câu bất vi tập nhân sở phú chân như tính trung liễu vô sinh
+   　diệt khả đắc nhược kiến kì sinh nhược kiến kì diệt giả y ư tứ chủng huân tập tuý
+   　cố tứ trụ địa vô minh viết dục ái vô minh sắc ái vô minh hữu ái vô minh
+   　kiến ái vô minh thử tứ vô minh hữu phú vô kí trụ ư bát thức điền trung cố
+   　danh trụ địa vi thử tứ chủng vô minh tửu sở tuý tức kiến hữu niết bàn khả đắc
+   　phàm ngu bất giác vi tế sinh diệt sa na bất trụ ư trung hiển kiến đãn dĩ niết
+   　bàn vọng tưởng huân nhiễm kì tâm vị sa na dĩ đoạn/đoán bất thụ hậu hữu thử dĩ đoạn/đoán
+   　kiến hoại vô vi pháp nhi bất tri kì phi niết bàn nhân dã bỉ li sinh diệt chứng
+   　bất sinh diệt tức tâm ngoại hữu pháp thị danh hữu gian hữu gian phi chân chứng dã nhược
+   　như lai tạng bất li sinh diệt chứng bất sinh diệt tức tâm ngoại vô pháp pháp ngoại vô
+   　tâm thị danh vô gian vô gian giả thị chân chứng dã chứng ư như lai tạng diệu chân
+   　như tính giả như kim trung chi kim cương phật thân trung chi xá lợi đắc kì đặc tính
+   　siêu quá nhất thiết phàm vật chung bất tổn hoại nhược đắc chứng ư tự giác thánh trí vô
+   　gian chính pháp thị đại niết bàn tùy thời tùy xứ giai vô sinh diệt nhi vị hựu hữu
+   　sa na sinh diệt tướng giả tắc thánh nhân diệc đồng ư phàm phu cảnh giới bất đắc vị
+   　chi thánh hĩ nhiên thánh nhân ái khổ lạc/nhạc/nhạo dữ nhân vô dị phàm phu nhi diệc vị tằng
+   　bất thánh tuy tại sinh diệt chi trung vô thất bất sinh diệt tính như kim kim cương thân
+   　phân cực túc tuy kinh luy kiếp xưng lượng bất giảm thử chân vô vi pháp phi đoạn/đoán kiến
+   　khả luân dã vân hà phàm ngu bất thiện ư ngã sa na phi sa na ẩn phú chi
+   　thuyết ư nội ngoại nhất thiết pháp tác sa na hoại tướng tưởng ngoại đạo thủ ư ngoại cảnh
+   　kiến hữu dĩ hoàn vô tiện vị sa na hoại nhị thừa thủ ư nội pháp kiến niệm bất
+   　phục sinh tiện vị sa na hoại thị giai bất tri sa na ẩn vi chi tướng nhi khả
+   　dữ chi luận hoại bất hoại hồ duy chiếu thiền sư thượng đường bản tự bất sinh kim diệc
+   　vô diệt thị tử bất đắc để dạng tử đương xứ xuất sinh tùy xứ diệt tận thị hoạt
+   　sinh thụ để quy mô đại trượng phu hán trực tu xứ sinh tử lưu ngoạ kinh cức lâm
+   　phủ ngưỡng quật thân tùy cơ thí thiết năng như thị dã vô lượng phương tiện trang nghiêm tam
+   　muội đại giải thoát môn đãng nhiên đốn khai kì hoặc bất nhiên vô lượng phiền não nhất thiết
+   　trần lao nhạc lập diện tiền tắc khước cổ lộ tức thử khả tri dữ chư tập khí câu
+   　thị sa na pháp vô lậu tập khí phi sa na pháp nhi kim cương bất hoại chi tính
+   　duy thánh giả chứng chi 。
+nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+không vô thường sa na ngu phu vọng tưởng tác như hà đăng chủng tử nhi tác sa na tưởng
+sa na tức phiền loạn tịch tĩnh li sở tác nhất thiết pháp bất sinh ngã thuyết sa na nghĩa
+vật sinh tắc hữu diệt bất vi ngu giả thuyết vô gian tướng tục tính vọng tưởng chi sở huân
+vô minh vi kì nhân tâm tắc tùng bỉ sinh nãi chí sắc vị sinh trung gian hữu hà phân
+(ngụy vân nhược vô minh vi nhân năng sinh chư tâm giả nãi chí sắc vị sinh trung vấn y hà trụ )tướng tục thứ đệ diệt dư tâm tùy bỉ
+sinh bất trụ ư sắc thời hà sở duyên nhi sinh dĩ tùng bỉ sinh cố bất như thật nhân
+sinh vân hà vô sở thành nhi tri sa na hoại (đường vân nhược duyên bỉ tâm khởi kì nhân tắc hư vọng nhân vọng thể bất thành vân
+hà sa na hoại )。
+   　thông viết trường hành trung phá sa na hoại tướng chi thuyết thượng vị cập tường đãn vân vân
+   　hà phàm ngu bất thiện ư ngã ẩn phú chi thuyết ư nội ngoại nhất thiết pháp tác sa
+   　na tưởng cố tụng trung tường ngôn chi vị phàm ngu sở thuyết sa na hoại giả vị nhất
+   　thiết pháp không vị nhất thiết pháp vô thường do phàm ngu vọng tưởng phân biệt nhi tác thử
+   　kiến ngã thường thuyết ngôn như hà lưu như đăng diệm như chủng tử tấn tốc thiên thệ sa
+   　na bất trụ đãn vị hành âm thiên lưu tân tân bất trụ nhi phi vị kì niệm niệm
+   　không niệm niệm vô thường dã bỉ ngu bất giác ư thử tác không vô thường sa na tưởng
+   　cứu cánh quy ư đoạn/đoán diệt thất kì nghĩa hĩ nhiên sa na tức diệt giả vị vi vô
+   　nghĩa vị tức bỉ niệm niệm bất trụ phiền loạn vọng tưởng đắc tam muội chính thụ chứng ư
+   　tịch tĩnh hiện pháp lạc/nhạc/nhạo trụ li ư sở tác sinh diệt chư pháp nãi chí nhất thiết pháp
+   　bất sinh thị ngã sở thuyết sa na tức diệt chi nghĩa sở vân bất sinh giả phi tất
+   　diệt chi nhi hậu bất sinh dã đương vật sơ sinh chi thời tức hữu kì diệt đương sinh
+   　tức bất sinh bất li sinh pháp chứng ư tịch tĩnh tức sa na phi sa na thử ngã
+   　ẩn phú chi thuyết đãn khả dữ trí giả đạo bất vi ngu giả thuyết dã hà dĩ minh
+   　kì đương sinh tức bất sinh dã bỉ đẳng lưu vô gian tướng tục sinh diệt chi tính tối
+   　vi vi tế do ư vọng kiến lục đạo luân chuyển chư thú phân biệt vi vô thuỷ vọng
+   　tưởng bất tư nghị sở huân vị chi viết huân bản tự vô căn nguyên bất sinh dã tương
+   　vị vô thuỷ vô minh dĩ vi kì nhân năng sinh bỉ sa na chư tâm hồ thử tâm
+   　bất li vô minh dĩ duyên cảnh vi tính cảnh chí tắc hữu cảnh khứ tắc vô nãi chí
+   　sắc vị sinh thời sắc kí vị lai tâm diệc vị khởi đương thử trung gian thử tâm trụ
+   　ư hà xứ hà sở phân biệt hồ thử tắc nội vô sở y tâm bản tịch tĩnh cố
+   　vị thường sinh dã tương vị vô gian tướng tục hữu sinh hữu diệt đương thứ đệ diệt thời
+   　diệt thử sinh bỉ tức hữu dư tâm tùy bỉ câu sinh hồ thử dữ cảnh câu sinh dữ
+   　cảnh câu diệt đãn dĩ tâm trụ ư sắc ngôn nhĩ nhược tâm bất trụ ư sắc thời tâm
+   　tức bất duyên chư cảnh tương hà sở duyên nhi sinh hồ thử tắc ngoại vô sở duyên tâm
+   　bản tịch tĩnh diệc vị thường sinh dã nhược vị thất thức lưu chuyển nhân lục thức phân biệt
+   　nhi sinh thử tâm duyên bỉ tâm nhi khởi giả bỉ tâm chủng chủng phân biệt nguyên thị hư
+   　vọng phi như thật nhân tính nhân kí thị vọng thể thật bất sinh như thạch nữ sinh nhi
+   　cánh vô thành tựu nhiên tắc thử sa na tướng bản vô thành dã vân hà sa na nguyên
+   　vô sở thành nhi vị hữu sa na hoại tướng khả tri hồ thử ngã sở vị tức sa
+   　na phi sa na duy trí giả năng tự minh liễu cố bất khả dữ ngu giả đạo dã
+   　đại ninh khoan thiền sư thượng đường vô niệm vi tông vô trụ vi bản chân không vi thể
+   　diệu hữu vi dụng sở dĩ đạo tận đại địa thị chân không biến pháp giới thị diệu hữu
+   　thả đạo thị thậm ma nhân dụng đắc tứ thời vận dụng nhật nguyệt thường minh pháp bản bất
+   　thiên đạo vô phương sở tùy duyên tự tại trục vật thăng trầm thử độ tha phương nhập phàm
+   　nhập thánh tuy nhiên như thị thả đạo nhập hương tùy tục nhất cú tác ma sinh đạo lương
+   　cửu viết tây thiên phạm ngữ thử độ đường ngôn thử đại ninh khoan minh đắc tận đại địa
+   　thị chân không cố tùy duyên tự tại nhi pháp bản bất thiên hựu hà sa na hoại tướng
+   　chi hữu 。
+tu hành giả chính thụ kim cương phật xá lợi quang âm thiên cung điện thế gian bất hoại sự
+trụ ư chính pháp đắc như lai trí cụ túc tỉ khâu đắc bình đẳng vân hà kiến sa na
+kiền thát bà ảo đẳng sắc vô hữu sa na ư bất thật sắc đẳng thị chi nhược chân thật 。
+   　thông viết phàm ngu vi ngũ âm sở phú bất giác nhất thiết pháp sa na phi sa na
+   　đoạ vọng tưởng kiến luân chuyển sinh diệt vô túc luận dĩ nhược ngã pháp trung chính tu hành
+   　giả tu tam muội lạc/nhạc/nhạo tức chư phiền loạn chứng ư tịch tĩnh thường trụ chân tâm cứu cánh
+   　kiên cố do như kim kim cương phật xá lợi quang âm thiên cung thuỷ hoả bất cập thường
+   　trụ thế gian bất khả tổn hoại thế gian kì đặc sự thượng thả như thử hà huống an
+   　trụ chính pháp hiện pháp lạc/nhạc/nhạo trụ đắc như lai thánh trí cụ túc viên mãn cập tỉ khâu
+   　chứng đắc bình đẳng chân như phiền não tức thị bồ đề sinh tử tức thị niết bàn chư
+   　pháp tính thường trụ vân hà kiến hữu sa na sinh diệt chi tướng hồ nguyên bất kiến hữu
+   　sa na chi tướng vân hà canh hữu sa na hoại da bỉ nhất thiết chư pháp như mộng
+   　như ảo như kiền thát bà thành đẳng tuy hiện hữu sắc tướng vô hữu sa na tướng khả
+   　đắc hà cố phi sa na da bỉ chư sắc đẳng nguyên vô thật tính kí vô thật tính
+   　vân hà năng tạo sắc kí vô tứ đại tạo sắc sắc tức phi thật vân hà phàm ngu
+   　ư bất thật sắc đẳng nãi chí âm nhập xứ giới nhất nhất thị nhược chân thật vị nhất
+   　thiết pháp tướng tục lưu chú thật hữu sinh diệt nhi kiến hữu sa na hoại tướng hồ ngô
+   　cố vị bỉ phàm ngu bất thiện ư ngã ẩn phú chi thuyết ư nội ngoại nhất thiết pháp
+   　tác sa na tưởng giả thử chi vị dã thụy nham tài thiền sư thượng đường vân thiên bình
+   　đẳng cố thường phú địa bình đẳng cố thường tái nhật nguyệt bình đẳng cố tứ thời thường minh
+   　niết bàn bình đẳng cố thánh phàm bất nhị nhân tâm bình đẳng cố cao đê vô tránh niêm
+   　trụ trượng trác nhất hạ viết chư thiền giả giá trụ trượng tử trú dạ vi chư nhân thuyết
+   　bình đẳng pháp môn hoàn văn ma nhược văn khứ cảm bảo chư nhân hành cước sự tất nhược
+   　ngôn bất văn diệc hứa chư nhân đỉnh môn nhãn chính hà cố thị pháp bình đẳng vô hữu
+   　cao hạ thị danh a nậu đa la tam miệu tam bồ đề lương cửu tiếu viết hướng hạ
+   　văn trường cứ thụy nham kiến xứ nhất thiết bình đẳng cố năng thường hà xứ hữu sa na
+   　hoại tướng khả đắc 。
+đại tuệ bồ tát phục bạch phật ngôn thế tôn như thế tôn thuyết lục ba la mật mãn túc
+đắc thành chính giác hà đẳng vi lục phật cáo đại tuệ ba la mật hữu tam chủng phân biệt
+vị thế gian xuất thế gian xuất thế gian thượng thượng đại tuệ thế gian ba la mật giả ngã
+ngã sở nhiếp thụ kế trước nhiếp thụ nhị biên vi chủng chủng thụ sinh xứ lạc/nhạc/nhạo sắc thanh hương
+vị xúc cố mãn túc đàn ba la mật giới nhẫn tinh tấn thiền định trí tuệ diệc như thị
+phàm phu thần thông cập sinh phạm thiên đại tuệ xuất thế gian ba la mật giả thanh văn duyên
+giác đoạ nhiếp thụ niết bàn cố hành lục ba la mật lạc/nhạc/nhạo tự kỉ niết bàn lạc/nhạc/nhạo xuất thế
+gian thượng thượng ba la mật giả giác tự tâm hiện vọng tưởng lượng nhiếp thụ cập tự tâm nhị
+cố bất sinh vọng tưởng ư chư thú nhiếp thụ phi phân tự tâm sắc tướng bất kế trước vi
+an lạc/nhạc/nhạo nhất thiết chúng sinh cố sinh đàn ba la mật khởi thượng thượng phương tiện tức ư bỉ
+duyên vọng tưởng bất sinh giới thị thi ba la mật tức bỉ vọng tưởng bất sinh nhẫn tri nhiếp
+sở nhiếp thị sạn đề ba la mật sơ trung hậu dạ tinh cần phương tiện tùy thuận tu hành
+phương tiện vọng tưởng bất sinh thị tì lê da ba la mật vọng tưởng tất diệt bất đoạ thanh
+văn niết bàn nhiếp thụ thị thiền ba la mật tự tâm vọng tưởng phi tính trí tuệ quan sát
+bất đoạ nhị biên tiên thân chuyển thắng (đường vân chuyển tịnh sở y )nhi bất khả hoại đắc tự giác thánh thú
+thị ban nhược ba la mật 。
+   　thông viết đại tuệ nhân phật ngôn tu hành giả chính thụ đắc như lai trí cụ túc như
+   　kim cương phật xá lợi đẳng bất hoại nhiên tu hành đắc chính thụ đắc như lai trí giả
+   　mạc như lục ba la mật năng đáo bỉ ngạn vân hà mãn túc lục ba la mật đắc
+   　thành chính giác phật dĩ ba la mật hữu tam chủng phân biệt nhất giả thế gian tức nhân
+   　thiên hành nhị giả xuất thế gian tức nhị thừa hành tam giả xuất thế gian thượng thượng tức
+   　nhất thừa hành nhược thế gian ba la mật giả vị chư phàm ngu trước ngã ngã sở chấp
+   　thủ nhị biên kế ngã năng thí kế hữu sở thí vật bất li năng sở nhị biên vi
+   　ư tự thân cầu sinh nhân thiên thắng xứ tham mộ sắc đẳng ngũ trần chi lạc/nhạc/nhạo nhi hành
+   　thế gian bố thí mãn túc đàn ba mật la chí giới nhẫn tinh tấn thiền định trí tuệ
+   　diệc như thị dĩ hữu lậu nhân cảm hữu lậu quả cố đắc thành tựu ngũ thông sinh ư
+   　phạm thế tuy định khả sinh thông giới khả nhập tịnh bất xuất thế gian luân chuyển cố danh
+   　thế gian vĩnh gia vân trụ tướng bố thí sinh thiên phúc do như ngưỡng tiến xạ hư không
+   　thế lực tận tiến hoàn trụy kiều đắc lai sinh bất như ý tức thử vị dã nhược xuất
+   　thế gian ba la mật giả vị nhị thừa nhân áp xả sinh tử thú hướng niết bàn tu
+   　tập tứ đế thập nhị nhân duyên chi pháp nãi lục chủng liệt vô lậu hành đãn cầu lạc/nhạc/nhạo
+   　tự kỉ niết bàn chi lạc/nhạc/nhạo nhi dĩ vô phục độ sinh chi tâm duy khả tự độ bất
+   　năng độ nhân cố danh tiểu thừa tuy năng tu tập xuất thế gian ba la mật hành nhi
+   　phi cứu cánh lạc/nhạc/nhạo dã nhược xuất thế gian thượng thượng ba la mật giả giác nhất thiết ngoại
+   　pháp như sắc thanh hương đẳng giai tự tâm sở hiện giác nhất thiết nội pháp như nhiếp thụ
+   　niết bàn đẳng giai vọng tưởng tâm lượng ư tự tâm sở hiện nhi lạc/nhạc/nhạo thủ chi cố thị
+   　dữ tự tâm nhị lạc/nhạc/nhạo tự kỉ niết bàn hữu năng chứng hữu sở chứng diệc thị dữ tự
+   　tâm nhị như thật giác tri nhị giả giai thị hư vọng phân biệt tức bất sinh vọng tưởng
+   　tức bất phân biệt hư vọng phân biệt ư chư thú sở nhiếp thụ niết bàn đẳng nội pháp
+   　dữ bản lai tự tính liễu vô can thiệp cố viết phi phân hà chấp trước chi hữu ư
+   　tự tâm sở hiện sắc tướng đẳng ngoại pháp bản tự bất sinh hựu hà tham trước chi hữu
+   　đãn vi an lạc/nhạc/nhạo nhất thiết chúng sinh cố hành ư bố thí hoặc dĩ tài thí hoặc dĩ
+   　pháp thí khởi thượng thượng phương tiện bất kiến thí giả bất kiến thụ giả bất kiến sở thí
+   　vật tuy hành bố thí bất trụ ư tướng bất trụ tướng bố thí tức dữ tự tâm nhất
+   　cố danh đáo bỉ ngạn dã tức ư bỉ thí thụ nhất thiết nhiễm tịnh nhị duyên bất sinh
+   　phân biệt thị tắc tùy thuận thanh lương vi tu hành giới ba la mật vô trì vô phạm
+   　giới tướng như không thị tịnh giới thượng thượng phương tiện đắc đáo bỉ ngạn dã tức bỉ trì
+   　phạm bất khởi phân biệt chi thời nhất niệm bất sinh dĩ thử vô sinh pháp nhẫn khả ư
+   　tâm như thật nhi tri năng thủ sở thủ cảnh giới phi thật tính không tịch cố thị vi
+   　tu hành nhẫn nhục thượng thượng phương tiện đắc đáo bỉ ngạn dã tinh tấn phương tiện hữu nhị
+   　chủng nhất biệt tướng vị tụng kinh đẳng nhị thông tướng vị kiêm ngũ độ nhi tu chi cố
+   　sơ trung hậu dạ cần tu phỉ giải tùy thuận như thật tu hành phương tiện diệc đoạn/đoán chư
+   　phân biệt bất khởi phương tiện chi tưởng luận vân dĩ tri pháp tính vô thân tâm tướng li
+   　giải đãi cố thị vi tinh tấn ba la mật dã tiền vân vọng tưởng bất sinh vị đắc
+   　thiền tịch chí thử vọng tưởng tất diệt viễn li tâm ý ý thức vọng tưởng chứng ư tịch
+   　tĩnh dĩ thượng thượng phương tiện tuy đắc niết bàn nhi bất thủ chứng bất đoạ thanh văn niết
+   　bàn hữu năng chứng sở chứng chấp vi đắc quả canh bất cầu tấn dĩ bất nhiếp thụ niết
+   　bàn cố bất trụ ư tướng thị vi thiền ba la mật dã tự tâm vọng tưởng vô hữu
+   　thật tính dĩ vi thật hữu nhi trừ diệt chi giả phi trí tuệ dã nhược dĩ trí tuệ
+   　quan sát tích bản vô sinh kim diệc vô diệt bất trụy hữu vô nhị biên kiến giải tiên
+   　dĩ diệt sinh diệt chứng niết bàn đắc thanh tịnh thân hĩ chí thử đắc trí tuệ thân chuyển
+   　thắng ư tiền bất li sinh diệt chứng bất sinh diệt tại tại xứ xứ bất khả hoại diệt
+   　thị đắc tự giác thánh thú như lai pháp thân cầu sinh diệt tướng liễu bất khả đắc như
+   　kim cương phật xá lợi chung vô tổn hoại thử vô thượng ban nhược phi tầm thường trí tuệ
+   　khả cập ngô vị như lai trí cụ túc giả thử dã như thị mãn túc giả đắc a
+   　nậu đa la tam miệu tam bồ đề cố vị xuất thế gian thượng thượng ba la mật dã
+   　vân cư ưng thiền sư thượng đường nhữ đẳng chư nhân trực nhiêu học đắc phật biên sự tảo
+   　thị thác dụng tâm bất kiến cổ nhân giảng đắc thiên hoa lạc thạch điểm đầu diệc bất can
+   　tự kỉ sự tự dư thị thậm ma nhàn nghĩ tương hữu hạn thân tâm hướng vô hạn trung
+   　dụng như tương phương mộc đậu viên khổng đa thiểu 誵ngoa nhược vô nhẫm ma sự nhiêu nễ
+   　toàn hoa tộc cẩm diệc vô dụng xứ vị li tình thức tại nhất thiết sự tu hướng giá
+   　lí cập tận nhược hữu nhất hào khứ bất tận tức bí trần luy khởi huống canh đa sai
+   　chi hào hi quá phạm sơn nhạc bất kiến cổ nhân đạo học xứ bất huyền tận thị lưu
+   　tục khuê cáp trung vật xả bất đắc câu vi sấm lậu trực tu hướng giá lí cập thủ
+   　cập khứ cập lai tính tận nhất thiết sự thuỷ đắc vô quá như nhân đầu đầu thượng liễu
+   　vật vật thượng thông chi hoán tác liễu sự nhân chung bất hoán tác tôn quý tương tri tôn
+   　quý nhất lộ tự biệt bất kiến đạo tùng môn nhập giả phi bảo bổng thượng bất thành long
+   　tri ma thử khả tri đệ nhất ba la mật chí tôn chí quý ngũ độ phi thử chung
+   　bất năng đáo bỉ ngạn 。
+(ngụy vân hoá phẩm đệ thập ngũ đường vân biến hoá phẩm đệ thất )。
+nhĩ thời đại tuệ bồ tát phục bạch phật ngôn thế tôn thế tôn kí a la hán đắc thành
+a nậu đa la tam miệu tam bồ đề dữ chư bồ tát đẳng vô sai biệt nhất thiết chúng
+sinh pháp bất niết bàn thùy chí phật đạo (nhất nghi )tùng sơ đắc phật chí ban niết bàn ư kì
+trung gian bất thuyết nhất tự diệc vô sở đáp như lai thường định cố diệc vô lự diệc vô
+sát hoá phật hoá tác phật sự (nhị nghi )hà cố thuyết thức sa na triển chuyển hoại tướng (tam nghi )kim
+cương lực sĩ thường tùy thị vệ (tứ nghi )hà bất thí thiết bản tế (ngũ nghi )hiện ma ma nghiệp ác
+nghiệp quả báo chiên già ma nạp tôn đà lợi nữ không bát nhi xuất ác nghiệp chướng hiện vân
+hà như lai đắc nhất thiết chủng trí nhi bất li chư quá (lục nghi )。
+(đường vân thế tôn như lai hà cố thụ a la hán a nậu đa la tam miệu tam bồ đề kí hà cố phục thuyết vô ban niết bàn pháp chúng sinh đắc thành phật đạo hựu hà cố thuyết tùng
+sơ đắc phật chí ban niết bàn ư kì trung gian bất thuyết nhất tự hựu ngôn như lai tại ư định vô giác vô quan hựu ngôn phật sự giai thị hoá tác hựu ngôn chư thức sa na biến hoại
+hựu ngôn kim cương thần thường tùy vệ hộ hựu ngôn tiền tế bất khả tri nhi thuyết hữu ban niết bàn hựu hiện hữu ma cập dĩ ma sự hựu hữu dư báo vị chiên già bà la môn nữ tôn
+đà lợi ngoại đạo nữ cập không bát nhi hoàn đẳng sự thế tôn kí hữu như thị nghiệp chướng vân hà đắc thành nhất thiết chủng trí kí dĩ thành ư nhất thiết chủng trí vân hà bất li như thị
+chư quá )。
+   　thông viết đại tuệ nhân thế tôn thuyết thanh văn xuất thế gian nhiếp thụ niết bàn lạc/nhạc/nhạo sở
+   　hành lục ba la mật dữ bồ tát vô dị hà dĩ bất mông thụ kí cố vấn thế
+   　tôn hà cố thụ kí thanh văn a la hán đẳng đắc thành chính giác dữ chư bồ tát
+   　đẳng vô sai biệt ưng câu đắc niết bàn hĩ nhi hựu thuyết chư phật như lai bất nhập
+   　niết bàn dục linh nhất thiết chúng sinh giai nhập niết bàn cố bất ban niết bàn nhược dĩ
+   　nhất thiết chúng sinh cố vô ban niết bàn pháp tức dữ chúng sinh thường tại sinh tử thùy
+   　chí phật đạo hồ nhiên thế tôn hựu hà cố thuyết tùng sơ đắc phật ư hà đẳng dạ
+   　chứng đại bồ đề ư hà đẳng dạ nhập ban niết bàn ư kì trung gian bất thuyết nhất
+   　tự diệc vô sở đáp hiển nhiên hữu phật đạo hữu niết bàn dã hựu ngôn như lai thường
+   　tại ư định vô giác vô quan vô lự vô sát kí vô niệm lự hựu vô quan sát
+   　tức vô ngôn vô thuyết trụ vô phân biệt định ưng bất năng hiện khởi nhất thiết phật sự
+   　hựu ngôn phật sự giai thị hoá tác chủng chủng ưng hoá độ chư chúng sinh thị hoá phật
+   　phi pháp phật dã pháp phật thường định hoá phật diệc ưng thường định hà cố hựu thuyết chư
+   　thức sa na niệm niệm bất trụ triển chuyển biến hoại chi tướng kì hoá tác phật sự hựu
+   　ngôn kim cương mật tích thường tùy thị vệ sở vị thường định giả an tại dã kí thị
+   　hoá phật thuyết pháp thuận niết bàn lưu nhi sinh tử bản tế bất khả tri bản tế tức
+   　pháp phật tự thể dã hà bất thí thiết bản tế dĩ đệ nhất nghĩa tâm nhi vi giáo
+   　pháp vân hà canh thuyết chúng sinh đắc giải thoát cập ban niết bàn đẳng sự nhược nhập niết
+   　bàn ưng hữu bản tế hà vi bất khả tri dã nhược thị bản tế bất khả tri quá
+   　thế gian vọng viễn li phiền não tức vô oán địch vân hà hiện hữu chư ma cập dĩ
+   　ma nghiệp hựu hữu dư ác nghiệp quả báo đẳng sự hồ phật hữu cửu não vị thiên ma
+   　hưng binh trì khổ cụ hướng phật phật dĩ từ tâm tam muội nhiếp chi giai hoá liên hoa
+   　thử ma nghiệp dã chiên già bà la môn nữ dĩ mộc vu hệ yêu dữ tôn đà lợi
+   　ngoại đạo sát nữ cộng báng phật thử ác nghiệp dã hựu phật nhập bà lê na thôn khí
+   　thực vô thí không bát nhi xuất cập thực mã mạch đầu thống bội thống thứ thương túc điều
+   　đạt suy sơn áp phật thiết hoả khanh tuý tượng độc phạn đẳng giai quả báo dã thế gian
+   　kí hiện hữu như thị nghiệp chướng vân hà đắc thành nhất thiết chủng trí kí dĩ thành ư
+   　nhất thiết chủng trí vân hà bất li như thị chư quá như lai bất li chư quá tức
+   　bất li phiền não tức phi niết bàn vân hà thuyết thanh văn niết bàn vi phi thử nghi
+   　triển chuyển đa đoan tống phân vi lục đường phân vi thập kì thật chỉ thị nhất ý chỉ
+   　nghi nhị thừa hành lục ba la mật đắc niết bàn lạc/nhạc/nhạo dữ a la hán vô dị hà
+   　dĩ thế tôn độc thụ kí a la hán năng hành bồ tát hành da bồ tát nhất xiển
+   　đề bất nhập niết bàn thùy chứng phật đạo phật hựu thuyết vô ngôn vô đáp vô lự vô
+   　sát thường tại ư không hà cố hựu thuyết chư thức sa na triển chuyển chi tướng kí thị
+   　hoá phật thí thiết hà bất trực thị bản tế thường không chi tướng nhi sở thị hiện giả
+   　chủng chủng ma nghiệp ác nghiệp phản dữ niết bàn tướng vi hà vị nhị thừa sở đắc niết
+   　bàn vi phi hồ cố phật dĩ đãn hữu nhất thừa canh vô dư thừa đáp chi bá trượng
+   　vân chi như kim hữu nhân dĩ phúc trí tứ sự cung dưỡng tứ bá vạn ức a tăng
+   　chi thế giới lục thú tứ sinh tùy kì sở dục mãn bát thập niên dĩ hậu tác thị
+   　niệm nhiên thử chúng sinh giai dĩ suy lão ngã đương dĩ phật pháp nhi huấn đạo chi linh
+   　đắc tu đà hoàn quả nãi chí a la hán đạo như thị thí chủ đãn thí nhất thiết
+   　chúng sinh lạc/nhạc/nhạo cụ công đức thượng tự vô lượng hà huống linh đắc tu đà hoàn quả nãi
+   　chí a la hán đạo công đức vô lượng vô biên do bất như đệ ngũ thập nhân văn
+   　kinh tùy hỉ công đức báo ân kinh vân ma da phu nhân sinh ngũ bá thái tử tận
+   　đắc tị chi phật quả nhi giai diệt độ các các khởi đáp cung dưỡng nhất nhất lễ bái
+   　thán ngôn bất như sinh ư nhất tử đắc vô thượng bồ đề tỉnh ngã tâm lực chi như
+   　kim ư bá thiên vạn chúng hữu nhất nhân đắc giả giá trực tam thiên đại thiên thế giới
+   　sở dĩ thường khuyến chúng nhân tu huyền giải tự lí tự lí nhược huyền sứ đắc phúc trí
+   　như quý sứ tiện diệc như vô trụ xa nhược thủ thử tác giải danh kế trung châu diệc
+   　danh hữu giá bảo châu diệc danh vận phẩn nhập diệc danh vận phẩn xuất phật trực thị triền
+   　ngoại nhân khước lai triền nội dữ ma tác phật trực thị sinh tử na biên nhân trực thị
+   　huyền tuyệt na biên nhân khước lai hướng giá ngạn dữ ma tác phật tức thử nhi quan hoá
+   　phật hoá tác phật sự nguyên vi hoá đạo chúng sinh đắc vô thượng bồ đề nhi dĩ khởi
+   　nhị thừa đam niết bàn lạc/nhạc/nhạo giả khả cộng ngữ hồ 。
+phật cáo đại tuệ đế thính đế thính thiện tư niệm chi đương vi nhữ thuyết đại tuệ bạch phật
+ngôn thiện tai thế tôn duy nhiên thụ giáo phật cáo đại tuệ vi vô dư niết bàn cố thuyết
+dụ tấn hành bồ tát hành giả cố thử cập dư thế giới tu bồ tát hành giả lạc/nhạc/nhạo thanh
+văn thừa niết bàn vi linh li thanh văn thừa tấn hướng đại thừa hoá phật thụ thanh văn kí
+phi thị pháp phật đại tuệ nhân thị cố kí chư thanh văn dữ bồ tát bất dị đại tuệ
+bất dị giả thanh văn duyên giác chư phật như lai phiền não chướng đoạn/đoán giải thoát nhất vị phi
+trí chướng đoạn/đoán đại tuệ trí chướng giả kiến pháp vô pháp chư thắng thanh tịnh phiền não chướng giả
+tiên tập kiến nhân vô ngã đoạn/đoán thất thức diệt pháp chướng giải thoát thức tạng tập diệt cứu cánh
+thanh tịnh 。
+   　thông viết phật vi nhất đại sự nhân duyên xuất hiện ư thế khai thị ngộ nhập phật chi
+   　tri kiến chỉ hữu nhất thừa canh vô dư thừa cố vi tằng hành bồ tát hành chư thanh
+   　văn đẳng y vô dư niết bàn cố nhi dữ thụ kí dụ tấn bỉ khiếp nhược chúng sinh
+   　sinh dũng mãnh tâm tu bồ tát hành nhiên thử giới tha phương hữu sơ phát tâm bồ tát
+   　lạc/nhạc/nhạo trước thanh văn niết bàn chi lạc/nhạc/nhạo bất khởi ư định vô độ sinh tâm vi linh bỉ
+   　xả tiểu xu đại tấn tu đại thừa thủ đại bồ đề đồng chứng vô dư niết bàn cố
+   　dữ thụ kí thử nãi hoá phật dữ ưng hoá thanh văn nhi thụ kí biệt phi pháp tính
+   　phật sở thuyết dã nhân thị chi cố thụ kí chư a la hán đẳng dữ bồ tát bất
+   　dị thị bí mật thuyết vô phi dụ tấn chi ý khởi vị kì bất chí phật đạo tai
+   　thả thanh văn nhân sở dĩ bất dị bồ tát giả vị nhị thừa dữ chư phật như lai
+   　ư tam giới thô hoặc phiền não chướng tất đoạn/đoán sở đắc biến không danh vi giải thoát đãn
+   　thử nhất vị tướng đồng nhĩ phi vị sở tri chướng diệc đoạn/đoán dữ phật vô dị dã trí
+   　chướng đoạn/đoán giả kiến pháp vô ngã giải thoát pháp chấp giác tiền đắc nhân vô ngã thanh tịnh
+   　canh vi thù thắng bỉ phiền não chướng đoạn/đoán giả đãn sơ tu tập đoạn/đoán phiền não hoặc kiến
+   　nhân vô ngã tuy đắc nhân không vị đắc pháp không vị vi cứu cánh thanh tịnh dã thị
+   　cố phiền não chướng đoạn/đoán giả đãn thị chuyển thất thức diệt nhĩ ý thức bất hành ngã chấp
+   　đốn đoạn/đoán thị danh đắc nhân không tuệ nhược pháp chướng giải thoát giả dĩ chuyển a lê da
+   　thức huân tập cố hàm tạng tập khí vô minh chủng tử diệt tận phương danh bạch tịnh thức
+   　thị danh đắc pháp không tuệ thuỷ vi cứu cánh thanh tịnh dã thử cố nhị thừa sở bất
+   　năng chí nhi khả dữ bồ tát bất dị da lạc phố nguyên thật thiền sư cửu sâm lâm
+   　tế vi thị giả tế thường vân lâm tế môn hạ nhất chích tiến thùy cảm đương phong nhất
+   　nhật từ tế tế vấn hà vãng viết nam phương khứ tế trụ trượng nhất hoạch vân quá đắc
+   　giá cá tiện khứ phố nãi ái tế tiện đả phố tác lễ nhi khứ tế ngữ nhân viết
+   　lâm tế môn hạ hữu cá xích sao lí ngư dao đầu bãi vĩ hướng nam phương khứ dã
+   　bất tri hướng thùy gia tê úng lí yêm sát hậu lạc phố du lịch bãi chí giáp sơn
+   　đỉnh thượng trác am kinh nhất niên giáp sơn tri khiển thị tăng trì thư đáo phố tiếp đắc
+   　tiện toạ khước tái triển thủ sách tăng vô ngữ phố tiện đả vân quy khứ cử tự hòa
+   　thượng tăng hồi cử chi sơn vân giá tăng khán thư tam nhật nội tất lai bất khán thư
+   　bất khả cứu dã phố tam nhật hậu lai bất lễ bái đương diện nhi lập sơn vân kê
+   　thê phụng sào phi kì đồng loại xuất khứ phố vân tự viễn xu phong khí sư nhất tiếp
+   　sơn vân mục tiền vô xà lê thử gian vô lão tăng phố tiện ái sơn vân trụ trụ
+   　thả mạc thảo thảo thông thông vân nguyệt thị đồng khê sơn các dị tiệt đoạn/đoán thiên hạ nhân
+   　thiệt đầu tức bất vô tranh giáo vô thiệt nhân giải ngữ phố vô ngữ sơn tiện đả phố
+   　tùng thử phục ưng quả nhiên hướng giáp sơn tê úng lí yêm sát bất cô lâm tế thụ
+   　kí thiên đồng tụng vân dao đầu bãi vĩ xích sao lân triệt để vô y giải chuyển thân
+   　tiệt đoạn/đoán thiệt đầu nhiêu hữu thuật duệ hồi tị khổng diệu thông thần dạ minh liêm ngoại hề
+   　phong nguyệt như trú khô mộc nham tiền hề hoa huỷ thường xuân vô thiệt nhân vô thiệt nhân
+   　chính linh toàn đề nhất cú tân độc toạ hoàn trung minh liễu liễu nhâm tùng thiên hạ lạc/nhạc/nhạo
+   　hân hân lạc phố bất năng thấu quá lâm tế nhất hoạ cập đáo giáp sơn môn hạ thuỷ
+   　giải chuyển thân nhân tri vô thượng bồ đề vị dị cứu cánh dã 。
+nhân bản trụ pháp cố tiền hậu phi tính vô tận bản nguyện cố như lai vô lự vô sát
+nhi diễn thuyết pháp chính trí sở hoá cố niệm bất vọng cố vô lự vô sát tứ trụ địa
+vô minh trụ địa tập khí đoạn/đoán cố nhị phiền não đoạn/đoán li nhị chủng tử giác nhân pháp vô
+ngã cập nhị chướng đoạn/đoán đại tuệ tâm ý ý thức nhãn thức đẳng thất sa na tập khí nhân
+thiện vô lậu phẩm li bất phục luân chuyển đại tuệ như lai tạng giả luân chuyển niết bàn khổ
+lạc/nhạc/nhạo nhân không loạn ý tuệ (đường vân vọng trước ư không )ngu si phàm phu sở bất năng giác 。
+   　thông viết thượng thuyết thụ kí thanh văn giả vô phi dụ tấn hành bồ tát hành chứng ư
+   　vô dư niết bàn nhĩ vô dư niết bàn giả cứu cánh thanh tịnh phi bỉ đãn đắc nhân
+   　vô ngã giả sở năng chứng nhập nhược như lai thất thức diệt cập thức tạng tập diệt chứng
+   　vô gian pháp thị bản tế chân như dã sở vị chư pháp thật tướng hữu phật vô phật
+   　pháp giới thường trụ nhân bản trụ pháp cố tiền hậu tế đoạn/đoán phi hữu thật tính cố vô
+   　sơ thành phật hậu canh thuyết pháp chi sự tức hữu văn tự chương cú diệc y bản pháp
+   　tiên cụ như thị canh bất sinh pháp cố vân bất thuyết nhất tự dã nhiên vô khả thuyết
+   　trung nhi hữu thuyết giả dĩ chư phật như lai khoáng kiếp tu nhân sở phát cứu hộ chúng
+   　sinh vô tận bản nguyện chi cố ư đam nhiên pháp giới vô lự vô sát thường định tâm
+   　trung ưng chúng sinh cơ nhi diễn thuyết pháp tức kì sở thuyết nãi tùng chính trí xưng tính
+   　sở lưu đương như ý tri thường bất thất niệm niệm bản bất vọng bất đãi tư lự nhiên
+   　hậu thuyết dã sở dĩ vô tư vô lự giả dĩ như lai cửu dĩ đoạn/đoán tận tứ trụ
+   　địa vô minh viết dục ái viết sắc ái viết hữu ái viết kiến ái vô thuỷ dĩ lai
+   　trụ địa tập khí giai dĩ đoạn/đoán cố li thử tứ chủng địa dĩ cố căn bản phiền não
+   　cập chi mạt phiền não nhị phiền não câu đoạn/đoán phân đoạn sinh tử cập biến dị sinh tử
+   　nhị chủng tử câu li như thật giác nhân vô ngã pháp vô ngã nhi phiền não chướng sở
+   　tri chướng nhị chướng câu đoạn/đoán chư chướng vĩnh đoạn/đoán chư vọng vĩnh tức cố thường định tâm trung
+   　tự hữu bất tư nghị nghiệp dụng nhi năng hoá tác phật sự vô thuyết thị thuyết phi thân
+   　hiện thân yếu bất li ư bản trụ pháp dã hựu sở thuyết chư thức sa na triển chuyển
+   　hoại tướng giả vị tâm ý ý thức cập tiền ngũ thức đẳng thất chủng thức niệm niệm thiên
+   　lưu sa na bất trụ nhân hư vọng tập khí tạng ư bát thức điền trung cố bát thức
+   　tâm vương diệc dữ thất thức đẳng câu sinh câu diệt vị đắc vô lậu chung tùng luân chuyển
+   　bỉ thánh giả tu tam muội lạc/nhạc/nhạo chứng ư thiện vô lậu phẩm tức năng viễn li tâm ý
+   　ý thức sa na tức diệt bất phục luân chuyển câu diệt kì niệm phi diệt như lai tạng
+   　dã thả như lai tạng giả bất lai bất khứ thường hằng bất biến phi thị khả diệt cố
+   　thế gian luân chuyển thử như lai tạng dã luân chuyển diệc như dã thế gian niết bàn thử
+   　như lai tạng dã niết bàn diệc như dã thế gian khổ lạc/nhạc/nhạo nhân thử như lai tạng dã
+   　khổ lạc/nhạc/nhạo nhân diệc như dã tuy dữ niết bàn khổ lạc/nhạc/nhạo nhân câu bất vi niết bàn khổ
+   　lạc/nhạc/nhạo nhân sở chuyển tức sinh diệt phi sinh diệt tức sa na phi sa na thử nãi ẩn
+   　phú chi thuyết duy trí giả năng liễu nhược bỉ phàm ngu ngoại đạo vọng trước ư không dĩ
+   　không loạn ý tuy đắc không tuệ đãn giác kì không bất năng giác kì không nhi bất không
+   　thử như lai tạng sa na chân thật chi nghĩa phi bỉ sở năng giác dã nhược giác ư
+   　như lai tạng sa na chân thật nghĩa giả tức thị bản trụ pháp hựu hà triển chuyển hoại
+   　tướng chi hữu hồ tích tào sơn vấn đức thượng tòa phật chân pháp thân do nhược hư không
+   　ưng vật hiện hình như thuỷ trung nguyệt tác ma sinh thuyết cá ưng để đạo lí đức vân
+   　như lư thứ đán sơn vân đạo tức đại sát đạo chỉ đạo đắc bát thành đức vân hòa
+   　thượng hựu như hà sơn vân như đán thứ lư thiên đồng tụng vân lư thứ đán đán thứ
+   　lư trí dong vô ngoại tịnh hàm hữu dư trửu hậu thùy phân ấn gia trung bất súc thư
+   　cơ ti bất quải thoa đầu sự văn thể túng hoành ý tự thù tông môn trung hiện khởi
+   　hứa đa kì trì bất tri thử kinh tiên dĩ đạo phá tuy nhiên đáo thử điền địa khởi
+   　dong dị trí đắc 。
+đại tuệ kim cương lực sĩ sở tùy hộ giả thị hoá phật nhĩ phi chân như lai đại tuệ
+chân như lai giả li nhất thiết căn lượng nhất thiết phàm phu thanh văn duyên giác cập ngoại đạo
+căn lượng tất diệt đắc hiện pháp lạc/nhạc/nhạo trụ vô gian pháp trí nhẫn cố phi kim cương lực sĩ
+sở hộ nhất thiết hoá phật bất tùng nghiệp sinh hoá phật giả phi phật bất li phật nhân đào
+gia luân đẳng chúng sinh sở tác tướng nhi thuyết pháp phi tự thông xứ thuyết tự giác cảnh giới
+phục thứ đại tuệ ngu phu y thất thức thân diệt khởi đoạn/đoán kiến bất giác thức tạng cố khởi
+thường kiến tự vọng tưởng cố bất tri bản tế tự vọng tưởng tuệ diệt cố giải thoát tứ trụ
+địa vô minh trụ địa tập khí đoạn/đoán cố nhất thiết quá đoạn/đoán 。
+   　thông viết thượng ngôn như lai vô lự vô sát nhi diễn thuyết pháp chính trí sở hoá cố
+   　vô lự vô sát thường tại ư định thử pháp phật chi thể dã pháp phật bất thuyết pháp
+   　duy thị chính trí sở hoá hoá phật nhi diễn thuyết pháp cố kim cương lực sĩ tiền hậu
+   　vi nhiễu thường tùy vệ hộ giả thị hoá phật nhĩ phi pháp phật dã pháp thân phật giả
+   　thị chân như thật tế căn bản như lai viễn li nhất thiết chư căn đại tiểu số lượng
+   　nhất thiết phàm phu nhị thừa ngoại đạo căn lượng tất diệt nhị thừa ngoại đạo sở bất năng
+   　tri sở bất năng kiến như thật tu hành đắc bỉ chân như lạc/nhạc/nhạo xứ hiện pháp lạc/nhạc/nhạo trụ
+   　tam muội chính thụ chi trung phi tầm thường hữu gian chi pháp khả tỉ nãi trụ ư vô
+   　gian pháp trí nhẫn chi lực tối thượng hữu vô gian pháp trí chứng thị trí dĩ hữu vô
+   　gian pháp trí nhẫn tức sở vị kim cương định dã như lai thường tại định bất giả kim
+   　cương lực sĩ sở hộ kì sở tùy hộ giả đãn ưng hoá phật nhĩ thả nhất thiết hoá
+   　phật giả phi thị nghiệp báo sở sinh vị chi viết hoá tức phi chân phật nhiên nhân duyên
+   　chính trí sở hoá diệc bất li ư chân phật phi tức thị phật diệc phi phi phật thí
+   　như đào sư sở tác khí vật dĩ luân thằng nê thuỷ vi nhân biến hoá chư khí dĩ
+   　ưng chúng sinh chi dụng pháp phật sở tác hoá phật diệc dĩ chúng sinh sở tác sự tướng
+   　vi nhân hiện khởi tam thập nhị tướng nhi vi chúng sinh thuyết pháp dĩ ưng chúng sinh chi
+   　cầu thị hình hài căn lượng nguyên phi tự thông chân như thật tế chi xứ đãn tùy cơ
+   　phương tiện dị chân thật tướng nhi thuyết pháp chí nội sở chứng tự giác thánh trí đệ nhất
+   　nghĩa tâm cảnh giới cố bất năng cử dĩ thị nhân dã sở vị bất thuyết nhất tự diệc
+   　vô sở đáp cái dĩ thử nhĩ bỉ ngu phu y thất thức niệm niệm diệt xứ khởi ư
+   　đoạn/đoán kiến dĩ thất thức bất truyền tống xuất nhập tiện vị đoạn/đoán tuyệt nhất thiết vô thường hựu
+   　hữu bất giác thức tạng vi tế sinh diệt khởi ư thường kiến dĩ bát thức điềm tĩnh chi
+   　cảnh tức thị niết bàn thường trụ bất huỷ thử nhị giả giai tự vọng tưởng phân biệt cố
+   　bất tri bản tế chân bất sinh bất diệt địa dã tự tâm phân biệt thị kì bản tế
+   　cố bất khả đắc tiện vị thế gian vô bản tế cố bất khả tri nhược năng viễn li
+   　phân biệt như đoạn/đoán thường nhị kiến tà tuệ tiêu diệt tức đắc chuyển thức thành trí chứng ư
+   　giải thoát đắc niết bàn quả chư phật như lai dĩ giải thoát cố viễn li tứ trụ địa
+   　vô minh trụ địa tập khí huân nhiễm a lê da thức vị dị đoạn/đoán trừ dục ái vị
+   　trừ tức kiều khổ quả cố nhất thiết chư quá vị dị đoạn/đoán dã kim trụ địa tập khí
+   　đoạn/đoán cố nhất thiết quá đoạn/đoán nhược hiện ma hiện báo chủng chủng nghiệp chướng tuy ngoại thị chư
+   　quá nội vô sở dĩ dẫn chi giả tuy hữu diệc vô dã nội vô kì ưng ngoại bất
+   　năng vi cố nhất thiết quá đoạn/đoán đoạn/đoán chi ư bản tế dã thuyết đáo bản tế phi kim
+   　cương lực sĩ sở hộ diệc phi chư ác tội nghiệp sở chướng bỉ nhị thừa nhân nhiếp thụ
+   　niết bàn vi tứ trụ địa vô minh sở tuý tức bất năng li nhất thiết quá hà đắc
+   　khái dữ a la hán nhi thụ kí hồ hoàng bách vân tổ sư tây lai duy truyền tâm
+   　phật trực chỉ nhữ đẳng tâm bản lai thị phật tâm tâm bất dị cố danh vi tổ nhược
+   　trực hạ kiến thử ý tức đốn siêu tam thừa nhất thiết chư vị bản lai thị phật bất
+   　giả tu thành vân nhược như thử chư phật xuất thế thuyết ư hà pháp bách vân thập phương
+   　chư phật xuất thế chi cộng thuyết nhất tâm pháp sở dĩ phật mật phó dữ ma ha ca
+   　diệp thử nhất tâm pháp thể tận hư không biến pháp giới danh vi chư phật lí luận giá
+   　cá pháp khởi thị nhữ ư ngôn cú thượng giải đắc tha diệc bất thị ư nhất cơ nhất
+   　cảnh kiến đắc tha thử ý duy thị mặc khế đắc giá nhất môn danh vi vô vi pháp
+   　môn nhược dục hội đắc đãn tri vô tâm hốt ngộ tức đắc nhược dụng tâm nghĩ học thủ
+   　tức chuyển viễn khứ nhược vô kì lộ tâm nhất thiết thủ xả tâm tâm như mộc thạch thuỷ
+   　hữu học đạo phân như hoàng bách sở vân vô kì lộ tâm vô thủ xả tâm tâm như
+   　mộc thạch tức năng đoạn/đoán tứ trụ địa vô minh tập khí viễn li đoạn/đoán thường nhị kiến nhi
+   　chứng ư bản tế niết bàn dị dị hĩ 。
+
+Nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+tam thừa diệc phi thừa như lai bất ma diệt (đường vân vô hữu phật niết bàn )nhất thiết phật sở kí thuyết
+li chư quá ác vi chư vô gian trí cập vô dư niết bàn dụ tấn chư hạ liệt thị
+cố ẩn phú thuyết chư phật sở khởi trí tức phân biệt thuyết đạo chư thừa phi vi thừa bỉ
+tắc phi niết bàn dục sắc hữu cập kiến thuyết thị tứ trụ địa ý thức chi sở khởi thức
+trạch ý sở trụ ý cập nhãn thức đẳng đoạn/đoán diệt thuyết vô thường hoặc tác niết bàn kiến nhi
+vi thuyết thường trụ (đường vân kiến ý thức nhãn đẳng vô thường cố thuyết đoạn/đoán mê ý thức khởi thường tà trí vị niết bàn )。
+   　thông viết tụng trung duy ban nhị thừa niết bàn chi phi túc tri trường hành hứa đa nghi
+   　nan chỉ vi thử nhất đoan phi phiếm cử dã cố như lai thường thuyết tam thừa diệc phi
+   　thừa nhị tiểu thừa cập bồ tát đại thừa bất khả ngữ ư nhất thừa vị phi phật thừa
+   　dã như lai bất tiêu ma diệt tận giả vị vô năng chứng chi nhân cập sở chứng chi
+   　lí tức phật thừa diệc phi dã thử nãi tối thượng đệ nhất nghĩa ngộ thử nghĩa giả nhất
+   　thiết chư phật thụ kí thị nhân định đương tác phật vị kì nhất thiết phiền não câu đoạn/đoán
+   　li chư quá ác cố dã tức bỉ li chư quá ác nhi thành tựu cứu cánh vô gian
+   　chi trí cập chứng vô dư niết bàn dữ chư phật đẳng vô sai biệt thị thụ kí chi
+   　thuyết sở dĩ dụ tấn chư khiếp nhược hạ liệt chúng sinh lạc/nhạc/nhạo trước thanh văn niết bàn linh
+   　bỉ xả li tiểu tâm thú hướng đại thừa thị cố mật ý ẩn phú nhi thuyết thuyết hữu
+   　vô gian trí thuyết hữu vô dư niết bàn sứ bỉ sinh tinh tấn tâm nhĩ nhược dĩ chư
+   　phật sở chứng căn bản thật trí tức y chứng trí nhi khởi phân biệt thuyết thập phương phật
+   　độ trung duy thử nhất thừa pháp canh vô dư thừa chư thừa giai phi cố bỉ nhị thừa
+   　sở chấp hữu dư niết bàn chung quy sinh diệt phi chân niết bàn dã sở dĩ bất hứa
+   　nhị thừa niết bàn giả vi bỉ vi tứ trụ địa vô minh sở tuý vị li nhất thiết
+   　quá cố tứ trụ địa giả vị dục ái trụ địa sắc ái trụ địa hữu ái trụ địa
+   　kiến nhất thiết trụ địa thử tứ phiền não nãi ý thức chi sở khởi nhi đệ thất mạt
+   　na chấp thụ nội huân bát thức kiên trụ dĩ vi sinh tử chủng tử chủng tử hàm tạng
+   　ư bát thức điền trung cố vân thức trạch ý sở trụ ý trụ ư thức trạch thị vi
+   　tứ trụ địa vô minh sở vị câu sinh ngã chấp câu sinh pháp chấp vị dị tiêu diệt
+   　giả dã bỉ nhị thừa nhân kiến ý thức cập nhãn đẳng lục thức án phục bất hành vị
+   　thị đoạn/đoán diệt thuyết danh vô thường hoặc mê ư ý dữ tạng vi tế sinh diệt lưu cấp
+   　bất kiến vọng như điềm tĩnh tiện dĩ vi thường trụ nhi tác niết bàn tưởng bất tri vi
+   　trụ địa vô minh sở tuý đãn chấp nhân vô ngã kiến dĩ vi niết bàn bất ngộ pháp
+   　vô ngã kiến bất năng xả tạng khứ chân niết bàn thượng viễn cố luận tối thượng nhất lộ
+   　vô hữu phật niết bàn vô hữu niết bàn phật hà đắc hữu niết bàn khả chứng thử nhị
+   　thừa chi sở dĩ vi phi thừa dã tăng vấn đỗng sơn thuyên thiền sư thanh tịnh hành giả
+   　bất thượng thiên đường phá giới tỉ khâu bất nhập địa ngục thời như hà sơn vân độ tận
+   　vô di ảnh hoàn tha việt niết bàn đan hà tụng vân tướng hảo nguy nguy đại trượng phu
+   　nhất sinh vô trí kháp như ngu tùng lai phật tổ do nan vọng địa ngục thiên không khởi
+   　khả câu cứ đỗng sơn đáp xứ bất đãn vô thiên đường địa ngục ảnh tử ức thả vô
+   　niết bàn khả đắc thử sở vị bản tế bất khả tri khởi tầm thường sở năng khuy trắc
+   　hồ 。
+
+(ngụy vân già thực nhục phẩm đệ thập lục đường vân đoạn/đoán thực nhục phẩm đệ bát )。
+
+nhĩ thời đại tuệ bồ tát dĩ kệ vấn viết 。
+bỉ chư bồ tát đẳng chí cầu phật đạo giả tửu nhục cập dữ song ẩm thực vi vân hà
+duy nguyện vô thượng tôn ai mẫn vi diễn thuyết ngu phu sở tham trước xú uế vô danh xưng
+hổ lang sở cam thị vân hà nhi khả thực thực giả sinh chư quá bất thực vi phúc thiện
+duy nguyện vi ngã thuyết thực bất thực tội phúc 。
+đại tuệ bồ tát thuyết kệ vấn dĩ phục bạch phật ngôn duy nguyện thế tôn vi ngã đẳng thuyết
+thực bất thực nhục công đức quá ác ngã cập chư bồ tát ư hiện tại vị lai thường vi
+chủng chủng hi vọng thực nhục chúng sinh phân biệt thuyết pháp linh chư chúng sinh từ tâm tướng hướng
+đắc từ tâm dĩ các ư trụ địa thanh tịnh minh liễu (đường vân linh xả nhục vị cầu ư pháp vị ư nhất thiết chúng sinh khởi
+đại từ tâm canh tướng thân ái như nhất tử tưởng trụ bồ tát địa )tật đắc cứu cánh vô thượng bồ đề thanh văn duyên giác
+tự địa chỉ tức dĩ diệc đắc tốc thành vô thượng bồ đề ác tà luận pháp chư ngoại đạo
+bối tà kiến đoạn/đoán thường điên đảo kế trước thượng hữu già pháp bất thính thực nhục huống phục như
+lai thế gian cứu hộ chính pháp thành tựu nhi thực nhục da phật cáo đại tuệ thiện tai thiện
+tai đế thính đế thính thiện tư niệm chi đương vi nhữ thuyết đại tuệ bạch phật ngôn duy nhiên
+thụ giáo phật cáo đại tuệ hữu vô lượng nhân duyên bất ưng thực nhục nhiên ngã kim đương vi
+nhữ lược thuyết vị nhất thiết chúng sinh tùng bản dĩ lai triển chuyển nhân duyên thường vi lục thân
+dĩ thân tưởng cố bất ưng thực nhục lư la lạc đà hồ cẩu ngưu mã nhân thú đẳng nhục
+đồ giả tạp mại cố bất ưng thực nhục bất tịnh khí phân sở sinh trường cố bất ưng thực
+nhục chúng sinh văn khí tất sinh khủng bố như chiên đà la (thử vân đồ giả )cập đàm bà đẳng (thử vân
+lạp sư )cẩu kiến tăng ác kinh bố quần phệ cố bất ưng thực nhục hựu linh tu hành giả từ
+tâm bất sinh cố bất ưng thực nhục phàm ngu sở thị xú uế bất tịnh vô thiện danh xưng
+cố bất ưng thực nhục linh chư chú thuật bất thành tựu cố bất ưng thực nhục dĩ sát sinh
+giả kiến hình khởi thức thâm vị trước cố bất ưng thực nhục bỉ thực nhục giả chư thiên sở
+khí cố bất ưng thực nhục linh khẩu khí xú cố bất ưng thực nhục đa ác mộng cố bất
+ưng thực nhục không nhàn lâm trung hổ lang văn hương cố bất ưng thực nhục linh ẩm thực vô
+tiết cố bất ưng thực nhục linh tu hành giả bất sinh áp li cố bất ưng thực nhục ngã
+thường thuyết ngôn phàm sở ẩm thực tác thực tử nhục tưởng tác phục dược tưởng cố bất ưng thực
+nhục thính thực nhục giả vô hữu thị xứ 。
+
+Thông viết lăng già bảo sơn dạ xoa vương quyến thuộc vãng tích tằng nghênh quá khứ chư phật
+   　ư kì thành trung thuyết hải lang pháp thân nhất thiết phật ngữ tâm phẩm kì trung diệc hữu
+   　chí cầu phật đạo giả đãn thực nhục nhất đoan nãi kì nghiệp báo tập khí chính sở vị
+   　trụ địa vô minh dã thế tôn thuyết nhị thừa nhân vi trụ địa vô minh sở tuý cố
+   　đại tuệ vị dạ xoa thực nhục diệc sở đương đoạn/đoán do bất tri công đức quá ác thiện
+   　ác nghiệp báo sở tại thỉnh thế tôn phân biệt thuyết chi ngã cập chư bồ tát tri kì
+   　nghĩa dĩ vi linh vị lai hiện tại phi tập sở huân thực nhục chúng sinh xả ư nhục
+   　vị cầu ư pháp vị ư nhất thiết chúng sinh khởi đại từ tâm canh tướng thân ái như
+   　nhất tử tưởng trụ bồ tát địa như thật tu hành trụ địa thanh tịnh minh liễu tứ trụ
+   　địa câu đoạn/đoán tật đắc vô thượng bồ đề phục linh chúng sinh nhập ư nhị thừa chỉ tức
+   　chi xứ tự sở chứng niết bàn đam trước pháp vị diệc linh chỉ tức tự địa tức dĩ
+   　diệc đắc tốc thành vô thượng bồ đề tu thánh đạo giả cố bất ưng thực nhục dã chư
+   　ngoại đạo đẳng thuyết tà kiến pháp đoạ ư đoạn/đoán thường hữu vô kiến trung thượng già thực nhục
+   　tự kỉ bất thực bất thính tha thực huống phục như lai thanh tịnh chính pháp cứu hộ thế
+   　gian bất linh tạo nghiệp tỉ thành tựu phạm hành giả nãi thính nhục thực bất nhất cấm chế
+   　da phật vi lược thuyết thực nhục quá hoạn nhất giả tằng vi lục thân quyến thuộc dị sinh
+   　nhi thụ điểu thú đẳng thân đương dĩ đồng thể chi từ thị chi la sa văn thuyết thượng
+   　phát từ tâm huống ngã đệ tử nhi bất dĩ thân tưởng giả hồ nhị giả cù lộ thị
+   　tứ chư mại nhục nhân hoặc tương khuyển mã nhân thú đẳng nhục tạp mại như thị uế ác
+   　vân hà khả thực tam giả nhất thiết chư nhục giai thị tinh huyết bất tịnh khí phân sở
+   　thành cầu thanh tịnh nhân vân hà thủ thực tứ giả thực nhục chi nhân chúng sinh văn khí
+   　tất giai kinh bố như đồ nhi lạp sư bộ ngư điểu nhân cẩu kiến kinh phệ thú kiến
+   　bôn tẩu chúng sinh dao kiến hàm tác thị niệm thử nhân tất đương sát ngã vi hộ mệnh
+   　cố tất giai tẩu tị bồ tát tu hành từ bi vi nhiếp chư chúng sinh cố bất ưng
+   　thực nhục ngũ giả chúng sinh giai tri bồ tát vi như lai từ tâm chi chủng năng dữ
+   　chúng sinh tác quy y xứ nhược thực nhục giả từ tâm bất sinh chúng sinh tức thất nhất
+   　thiết tín tâm bồ tát vi hộ chúng sinh tín tâm tu hành ư từ cố bất ưng thực
+   　nhục lục giả vi hộ thế gian báng tam bảo cố nhược ngã đệ tử thực đạm ư nhục
+   　do như phàm ngu sở thị xú uế hoại thanh tịnh hành linh chư thế nhân xướng như thị
+   　ngôn hà xứ hữu thật sa môn bà la môn tu tịnh hành giả sinh như thị báng vô
+   　thiện danh xưng giai do thực nhục giả quá cố bất ưng thực thất giả chư thiện nam tử
+   　ư trủng gian lâm hạ hoặc trì chú thuật hoặc cầu giải thoát hoặc thú đại thừa dĩ thực
+   　nhục cố nhất thiết chướng ngại bất đắc thành tựu thị cố bồ tát dục lợi tự tha bất
+   　ưng thực nhục bát giả cửu viễn thực nhục chúng sinh sát tâm tập thục kiến kì hình sắc
+   　tắc dĩ sinh ư tham tư vị tâm bồ tát từ niệm nhất thiết chúng sinh do như kỉ
+   　thân vân hà kiến chi nhi tác thực tưởng cửu giả xả ư thánh nhân bản sở ưng thực
+   　thực chúng sinh nhục do như la sa chư thiên viễn li hà huống thánh nhân bồ tát vi
+   　kiến thánh nhân đương tu từ bi bất ưng thực nhục thập giả như thiêu tử thi xú khí
+   　bất tịnh vân hà khả khứu nhi trước khẩu trung nhất thiết chư nhục linh khẩu khí xú cố
+   　bất ưng thực thập nhất giả thực nhục chi nhân thụy miên diệc khổ khởi thời diệc khổ đa
+   　ư mộng trung kiến chủng chủng ác kinh bố mao thụ tâm thường bất an cố bất ưng thực
+   　thập nhị giả vô từ tâm cố phạp chư thiện lực nhược kì độc tại không nhàn chi xứ
+   　đa vi phi nhân nhi tứ kì tiện hổ lang sư tử diệc lai tứ cầu dục thực kì
+   　nhục bất đắc an ổn cố bất ưng thực thập tam giả chư thực nhục nhân thực bất tri
+   　túc tăng trường tật bệnh hằng bí chư huỷ chi sở xiệp thực chủng chủng bất tịnh nhân sở
+   　áp ác cố bất ưng thực thập tứ giả bồ tát tu hành vi cầu xuất li sinh tử
+   　kiến chư ẩm thực như nùng huyết tưởng hệ niệm thánh đạo bất vi tham vị kham thụ nhất
+   　thiết nhân thiên cung dưỡng nhược sinh tham trước tức bất năng sinh áp li bất ưng thụ ư
+   　thế gian tín thí cố bất ưng thực thị cố ngã thường thuyết ngôn phàm phu vi cầu tịnh
+   　mệnh đạm ư tịnh thực thượng ưng dĩ lục thân quan như thực tử tưởng dĩ hữu bệnh quan
+   　như phục dược tưởng hà huống thính thực phi thánh nhân thực nhục bất thanh tịnh sinh chư tội
+   　ác bại chư công đức như thượng lược thuyết vân hà nhi hứa đệ tử thực da nhược thị
+   　mĩ tịnh chi thực như canh mễ mạch đậu đẳng thử thị quá khứ chư phật sở hứa cửu
+   　thực thiện căn giả sở ưng đắc thực nhược thính thực nhục giả vô hữu thị xứ trù bố
+   　nạp vấn tào sơn phi mao đái giác thị thậm ma đoạ sơn viết thị loại đoạ viết bất
+   　đoạn/đoán thanh sắc thị thậm ma đoạ sơn viết thị tùy đoạ viết bất thụ thực thị thậm ma
+   　đoạ sơn viết thị tôn quý đoạ nãi viết thực giả tức thị bản phân sự tri hữu bất
+   　thủ cố viết tôn quý đoạ nhược chấp sơ tâm tri hữu tự kỉ cập thánh vị cố viết
+   　loại đoạ nhược sơ tâm tri hữu kỉ sự hồi quang chi thời tấn khước sắc thanh hương vị
+   　xúc pháp đắc ninh tức thành công huân khước bất chấp lục trần đẳng sự tùy phân nhi muội
+   　nhâm chi tắc ngại sở dĩ ngoại đạo lục sư thị nhữ chi sư bỉ sư sở đoạ nhữ
+   　diệc tùy đoạ nãi khả thủ thực thực giả tức thị chính mệnh thực dã diệc thị tựu lục
+   　căn môn đầu kiến văn giác tri chi thị bất bí tha nhiễm ô tương vi đoạ thả bất
+   　thị đồng hướng tiền vận tha bản phân sự thượng bất thủ khởi huống kì dư sự dã sư
+   　phàm ngôn đoạ giả vị hồn bất đắc loại bất tề phàm ngôn sơ tâm giả sở vị ngộ
+   　liễu đồng vị ngộ nhĩ hậu đại dương cảnh huyền thiền sư thích thử tam chủng đoạ viết thử
+   　tam ngữ tu minh đắc chuyển vị thuỷ đắc nhất tác thuỷ cổ ngưu thị loại đoạ sư viết
+   　thị sa môn chuyển thân ngữ thị dị loại trung sự nhược bất hiểu thử ý tức hữu sở
+   　trệ trực thị yếu y nhất niệm vô tư tức hữu xuất thân chi lộ nhị bất thụ thực
+   　thị tôn quý đoạ sư viết tu tri na biên liễu khước lai giá biên hành lí nhược bất
+   　hư thử vị tức toạ tại tôn quý tam bất đoạn/đoán thanh sắc thị tùy đoạ sư viết dĩ
+   　bất minh thanh sắc cố tùy xứ đoạ tu hướng thanh sắc lí hữu xuất thân chi lộ tác
+   　ma sinh thị thanh sắc ngoại nhất cú nãi viết thanh bất tự thanh sắc bất tự sắc cố
+   　vân bất đoạn/đoán chỉ chưởng đương chỉ hà chưởng dã thử nhị tôn tú sở vân bất thụ thực
+   　giả bất thủ tôn quý nhất lộ cố năng tốc thành vô thượng bồ đề nhi huống thế gian
+   　uế ác chi thực khởi tiết thủ da 。
+phục thứ đại tuệ quá khứ hữu vương danh sư tử tô đà sa thực chủng chủng nhục toại chí
+thực nhân thần dân bất kham tức tiện mưu phản đoạn/đoán kì phụng lộc dĩ thực nhục giả hữu như
+thị quá cố bất ưng thực nhục (đường vân đại tuệ thích đề hoàn nhân xứ thiên vương vị dĩ ư quá khứ thực nhục dư tập biến thân vi ưng nhi trục
+ư cáp ngã thời tác vương danh viết thi tì mẫn niệm kì cáp tự cát thân nhục dĩ đại kì mệnh đại tuệ đế thích dư tập thượng não chúng sinh huống dư vô tàm thường thực nhục giả đương tri
+thực nhục tự não não tha thị cố bồ tát bất ưng thực nhục đại tuệ tích hữu nhất vương thừa mã du lạp mã kinh bôn dật nhập ư sơn hiểm kí vô quy lộ hựu tuyệt nhân cư hữu tẫn
+sư tử dữ đồng du xứ toại hành xú hành sinh chư tử tức kì tối trường giả danh viết ban túc hậu đắc tác vương lĩnh thất ức gia thực nhục dư tập phi nhục bất thực sơ thực cầm thú
+hậu nãi chí nhân sở sinh nam nữ tất thị la sa chuyển thử thân dĩ phục sinh sư tử sài lang hổ báo điêu tựu đẳng trung dục cầu nhân thân chung bất khả đắc huống xuất sinh tử niết bàn
+chi đạo )phục thứ đại tuệ phàm chư sát giả vi tài lợi cố sát sinh đồ phiến bỉ chư ngu
+si thực nhục chúng sinh dĩ tiền vi võng nhi bộ chư nhục bỉ sát sinh giả nhược dĩ tài
+vật nhược dĩ câu võng thủ bỉ không hành thuỷ lục chúng sinh chủng chủng sát hại đồ phiến cầu
+lợi đại tuệ diệc vô bất giáo bất cầu bất tưởng nhi hữu ngư nhục dĩ thị nghĩa cố bất
+ưng thực nhục (ngụy vân ngã quan thế gian vô hữu thị nhục nhi phi mệnh giả cố ngã thuyết thực nhục chi tội đoạn/đoán như lai chủng )đại tuệ ngã hữu
+thời thuyết già ngũ chủng nhục hoặc chế thập chủng kim ư thử kinh nhất thiết chủng nhất thiết thời
+khai trừ phương tiện nhất thiết tất đoạn/đoán đại tuệ như lai ưng cung đẳng chính giác thượng vô sở
+thực huống thực ngư nhục diệc bất giáo nhân dĩ đại bi tiền hành cố thị nhất thiết chúng sinh
+do như nhất tử thị cố bất thính linh thực tử nhục (đường vân thanh văn duyên giác cập chư bồ tát thượng duy pháp thực khởi huống
+như lai đại tuệ như lai pháp thân phi tạp thực thân đại tuệ ngã dĩ tẩy địch nhất thiết tập khí ngã dĩ thiện trạch chư tâm trí tuệ đại bi bình đẳng phổ thị chúng sinh do như nhất tử
+vân hà nhi hứa thanh văn đệ tử thực ư tử nhục hà huống tự thực tác thị thuyết giả vô hữu thị xứ )。
+   　thông viết thượng ngôn thực nhục bất tịnh hữu chủng chủng quá thượng vị cập kì báo dã thử
+   　ngôn sư tử tô đà sa đam trước nhục vị nãi chí thực nhân toại vong kì quốc thử
+   　hiện tại báo dã hựu hữu nhất vương dữ tẫn sư tử giao nhi sinh ban túc sơ thực
+   　cầm thú hậu nãi chí nhân kì sở sinh nam nữ giai vi la sa chuyển thân phục nhập
+   　sư tử sài hổ chi quần thử tương lai báo dã đế thích dư tập thượng thực ưng thân
+   　kinh trục ư cáp thử quá khứ vô lượng thế lai vị dị trừ chi đạo dã phu thực
+   　nhục giả hữu như thị đẳng vô lượng quá phàm ngu bất tri như thị tổn ích nãi vị
+   　thực nhục vô dữ ư sát sinh cố khả vô tội bất tư phàm sát sinh giả đa vi
+   　nhân thực nhược nhân bất thực diệc vô sát sự thị cố thực nhục dữ sát đồng tội bỉ
+   　chư sát giả tuy bất tự thực dĩ tài lợi cố chủng chủng sát hại thị tiền vi chi
+   　vị dã bỉ thực nhục giả tuy bất tự sát dĩ cầu vị cố đắc chủng chủng nhục thị
+   　tiền vi chi võng dã nhân tài đắc vị nhân võng đắc tài thiết chư phương tiện sát hại
+   　chúng sinh la sơn trí địa tiệt hà yển hải thuỷ lục không hành vô bất tường hại nhược
+   　vị phi tự sát phi tha sát tâm bất nghi sát nhi khả thực giả thế gian nhược hữu
+   　thị nhục bất tùng mệnh xuất hà cố bất thính nhân thực biến cầu thế gian vô như thị
+   　nhục khởi hữu bất giáo nhân thủ bất cầu tự chí bất tưởng nhục vị nhi hữu ngư nhục
+   　tam tịnh vật tai cố thực nhục giả tức dữ sát sinh vô dị thương chúng sinh mệnh đoạn/đoán
+   　như lai chủng dĩ thị nghĩa cố bất ưng thực dã nhiên ngã ư dư kinh trung diệc tằng
+   　bất hứa thực ngũ chủng tịnh nhục vị bất kiến bất văn bất nghi điểu tàn tự tử giả
+   　già bất linh thực hoặc đoạn/đoán thập chủng vật vị nhân xà tượng mã long hồ trư cẩu sư
+   　tử mi hầu đẳng chế bất hứa thực giai tiêm thứ cấm đoạn/đoán linh kì tu học vi nhất
+   　thời phương tiện chi thuyết kim ư lăng già thử hội nhất thiết chủng nhục đô bất hứa thực
+   　hướng thời sở lập phương tiện quyền giáo nhất thiết đoạn/đoán trừ phàm thị nhục thực ư xuất gia
+   　nhân tất thị bất tịnh nhược vị như lai thính hứa thực nhục diệc tự thực giả thị nhân
+   　ác nghiệp sở triền tất đương vĩnh đoạ bất nhiêu ích xứ ngã chi sở hữu chư thánh đệ
+   　tử thực ư pháp thực phi thực ẩm thực hà huống như lai chư phật như lai pháp thực
+   　pháp trụ phi ẩm thực thân phi chư nhất thiết ẩm thực trụ thân thượng vô phàm phu đoạn
+   　thực huống thực ngư nhục bất tịnh chi thực kì giáo chư thánh đệ tử đãn duy pháp thực
+   　diệc bất dĩ thực nhục nhi giáo chi dã dĩ ngã địch trừ nhất thiết tập khí li chư
+   　tư sinh ái hữu cầu đẳng thiện phân biệt tri tâm tâm trí tuệ đại bi tiền hành đắc
+   　bất cộng pháp phổ thị chúng sinh bình đẳng lân mẫn do như nhất tử lương dĩ pháp thân
+   　lưu chuyển ngũ đạo danh viết chúng sinh nhi nhất thiết chúng sinh giai dĩ như lai pháp thân
+   　vi thể cố thảng thực kì nhục khởi phi tường pháp thân đoạn/đoán tuệ mệnh da vân hà nhi
+   　hứa thanh văn đệ tử thực ư tử nhục cố ngã ư thử kinh khai trừ phương tiện nhất
+   　thiết tất đoạn/đoán dã kí bất hứa thanh văn đệ tử thực nhục nhi lăng già vương đẳng chí
+   　cầu phật đạo giả khả bất mãnh nhiên tỉnh dịch cải tâm dị lự phá trừ báo tập cầu
+   　sinh thắng xứ dĩ chứng vô thượng bồ đề hồ kinh triệu phủ hiện tử hòa thượng bất tri
+   　hà hứa nhân dã sự tích phả dị cư vô định sở tự ấn tâm ư đỗng sơn hồn
+   　tục mân xuyên bất súc đạo cụ bất tuần luật nghi đông hạ duy phi nhất nạp trục nhật
+   　duyên giang ngạn thái xuyết hà hiện dĩ sung kì phúc dạ tức tú đông sơn bạch mã miếu
+   　chỉ tiền trung cư dân mục vi hiện tử hòa thượng hoa nghiêm tĩnh thiền sư văn chi dục
+   　quyết chân giả tiên tiềm nhập chỉ tiền trung thâm dạ sư quy nghiêm bả trụ viết như hà
+   　thị tổ sư tây lai ý sư cự đáp viết thần tiền tửu đài bàn nghiêm phóng thủ viết
+   　bất hư dữ ngã đồng căn sinh nghiêm hậu phó trang tông chiếu nhập trường an sư diệc tiên
+   　chí mỗi nhật ca xướng tự bác hoặc nãi dương cuồng nê tuyết khứ lai câu vô tung tích
+   　quyết hậu bất tri sở chung thị tức phật sở thuyết bồ tát thị hiện giả tuy hoại luật
+   　nghi vi trừ chấp cố tuy hiện thực nhục thật vô sở thực tuyên luật sư sở ngộ thần
+   　tăng đại suất loại thử 。
+
+Nhĩ thời thế tôn dục trùng tuyên thử nghĩa nhi thuyết kệ ngôn 。
+tằng tất vi thân thuộc bỉ uế bất tịnh tạp bất tịnh sở sinh trường văn khí tất khủng bố
+nhất thiết nhục dữ song cập chư phỉ toán đẳng chủng chủng phóng dật tửu tu hành trường viễn li
+diệc thường li ma du cập chư xuyên khổng sàng dĩ bỉ chư tế trùng ư trung cực khủng bố
+ẩm thực sinh phóng dật phóng dật sinh chư giác tùng giác sinh tham dục thị cố bất ưng thực
+do thực sinh tham dục tham linh tâm mê tuý mê tuý trường ái dục sinh tử bất giải thoát
+vi lợi sát chúng sinh dĩ tài võng chư nhục nhị câu thị ác nghiệp tử đoạ khiếu hô ngục
+nhược vô giáo tưởng cầu tắc vô tam tịnh nhục bỉ phi vô nhân hữu thị cố bất ưng thực
+bỉ chư tu hành giả do thị tất viễn li thập phương phật thế tôn nhất thiết hàm ha trách
+triển chuyển canh tướng thực tử đoạ hổ lang loại xú uế khả áp ác sở sinh thường ngu si
+đa sinh chiên đà la lạp sư đàm bà chủng hoặc sinh đà di ni (ngụy vân la sa nữ )cập chư
+thực nhục tính la sa miêu li đẳng biến ư thị trung sinh 。
+   　thông viết trường hành trung văn ước nghĩa giản kệ trung phục thân ngôn chi sở vị lược thuyết
+   　thực nhục quá hoạn giả phiếm nhiên vi chư tu hành giả thuyết dã vô luận tằng vi quyến
+   　thuộc bất nhẫn thực bỉ uế bất tịnh bất khả thực tạp chư nhân súc bất nghi thực thú
+   　kiến khủng bố bất đương thực dĩ bất tịnh chi cố bất đãn nhục bất ưng thực suy chi
+   　song phỉ toán tửu đẳng năng sinh phóng dật diệc đương li chi dĩ chúng sinh khủng bố chi
+   　cố bất đãn thực nhục kinh phệ suy chi ma du xuyên khổng sàng diệc hữu tế trùng khủng
+   　bố đương viễn li chi ẩm thực năng sinh phóng dật bất sinh chư quá do chi khả dã
+   　kí phóng dật dĩ tiện sinh tà giác kí tà giác dĩ tiện sinh tham dục do thực sinh
+   　tham tham linh tâm mê tâm tuý ư tham trường dưỡng sắc dục sắc ái triền phọc trường tại
+   　sinh tử sinh tử luân chuyển bất đắc giải thoát do tửu song đẳng vi trợ nhân tăng trường
+   　vô minh bất đắc giải thoát xuất thế chi lợi thử hà khả bất đoạn/đoán dã sứ đãn bất
+   　đắc giải thoát vị hữu tội báo do chi khả dã nãi bỉ sát sinh giả dĩ tài nhi
+   　vi thực bỉ thực nhục giả dĩ tài nhi vi võng nhị câu ác nghiệp đoạ khiếu hô ngục
+   　vô túc luận dĩ nhược vị phi tự sát phi tha sát tâm bất nghi sát vi tam tịnh
+   　nhục nhi khả thực giả kỉ vị chi cầu nhân mạc chi dữ nhân tại ư ngã quá bất
+   　tại nhân kì cứu diệc dữ sát sinh giả đồng tội cố thập phương như lai nhất thiết ha
+   　cấm nhi tu hành giả đương viễn li chi dã sứ li địa ngục khổ miễn ư thù thường
+   　do chi khả dã cập phục sinh thế gian canh tướng thực đạm đoạ hổ lang loại nhân nhi
+   　hổ lang kì tính tắc vi đồ giả vi lạp sư vi la sa nữ bất li hồ ngu
+   　si súc nhi hổ lang kì tính tắc vi miêu vi li đẳng biến sinh thử loại trung bất
+   　li hồ xú uế tư giai thực nhục chi báo chư phật như lai sở áp ác dã an
+   　đắc bất cấm chỉ thực nhục linh chư chúng sinh miễn ư ác báo nhi thứ kỉ hữu giải
+   　thoát chi kì hồ triệu châu vấn viện chủ thậm ma xứ khứ lai chủ viết tống sinh lai
+   　châu vân nha vi thậm ma phi khứ chủ viết phạ mỗ giáp châu vân nhữ thập niên tri
+   　sự tác nhẫm ma ngữ thoại chủ khước vấn nha vi nhẫm ma phi khứ châu vân viện chủ
+   　vô sát tâm châu niêm khởi bát vân tam thập niên hậu nhược kiến lão tăng lưu thủ cung
+   　dưỡng nhược bất kiến tức phốc phá biệt tăng vân tam thập niên hậu cảm đạo kiến hòa thượng
+   　châu nãi phốc phá hựu hữu tục sĩ vấn quang hiếu giác thiền sư mỗ giáp bình sinh sát
+   　ngưu hoàn hữu tội phủ sư vân vô tội viết vi thậm ma vô tội sư viết sát nhất
+   　cá hoàn nhất cá do triệu châu ngôn hạ ngộ khứ tức đắc giải thoát nhược quang hiếu sở
+   　đáp tục sĩ nghiệp báo y nhiên kì khả bất úy hồ 。
+phọc tượng dữ đại vân ương quật lợi ma la (đường vân tượng hiếp dữ đại vân niết bàn ương quật ma ngụy vân niết bàn thắng man kinh )
+cập thử lăng già kinh ngã tất chế đoạn/đoán nhục chư phật cập bồ tát thanh văn sở ha trách
+thực dĩ vô tàm quý sinh sinh thường si minh tiên thuyết kiến văn nghi dĩ đoạn/đoán nhất thiết nhục
+vọng tưởng bất giác tri cố sinh thực nhục xứ như bỉ tham dục quá chướng ngại thánh giải thoát
+tửu nhục song phỉ toán tất vi thánh đạo chướng vị thế thế chúng sinh ư nhục ngu si thuyết
+ngôn thử tịnh vô tội phật thính ngã đẳng thực thực như phục dược tưởng diệc như thực tử nhục
+tri túc sinh áp li tu hành hành khí thực an trụ từ tâm giả ngã thuyết thường áp li
+hổ lang chư ác thú hằng khả đồng du chỉ nhược thực chư huyết nhục chúng sinh tất khủng bố
+thị cố tu hành giả từ tâm bất thực nhục thực nhục vô từ tuệ vĩnh bội chính giải thoát
+cập vi thánh biểu tướng thị cố bất ưng thực đắc sinh phạm chí chủng cập chư tu hành xứ
+trí tuệ phú quý gia tư do bất thực nhục (đường vân tất sinh hiền thánh trung phong tài cụ trí tuệ )。
+   　thông viết thượng ngôn thực nhục quả báo thậm thị khả úy sở dĩ vi chúng nhân thuyết dã
+   　nhược ngã pháp đệ tử canh đương tôn thủ luật nghi cẩn khiết vô phạm như ngã hữu thời
+   　thuyết tượng hiếp kinh dữ đại vân kinh niết bàn kinh ương quật ma kinh cập thử lăng già
+   　kinh tất chế đoạn/đoán nhục dĩ chư phật bồ tát thánh hiền đệ tử giai sinh áp ác nhi
+   　a trách chi vị thực giả vô tàm vô quý sinh sinh thế thế thường tại si minh cố
+   　dã ngã tiên thuyết kiến sát văn sát nghi sát giai bất khả thực dĩ thị đoạn/đoán nhất thiết
+   　nhục thế gian khởi hữu bất kiến bất văn bất nghi chi nhục nhi khả thực giả phàm ngu
+   　vọng tưởng bất giác mật ý nhi thuyết tiện vị như lai hứa thực tam chủng tịnh nhục toại
+   　sinh thực nhục chi tưởng nhi tâm mỗi trì ư thực nhục chi xứ khả vị vô tàm quý
+   　chi cực dã như bỉ chúng sinh tâm tuý ư tham trường dưỡng ái dục dục chướng kí trùng
+   　bất đắc giải thoát hữu như thị quá lương dĩ tửu nhục song phỉ toán đẳng vi chi trợ
+   　nhân tất vi thánh đạo chi chướng dã ngã pháp đệ tử dục cầu giải thoát chứng ư thánh
+   　đạo kì khả đồng bỉ tham dục chi quá hồ nãi mạt pháp chúng sinh vọng tưởng thực nhục
+   　tác ngu si thuyết ngôn thực tam tịnh nhục giả khả dĩ vô tội phật thính ngã thực kì
+   　diệc bất thiện ư quan sát nhi cầu giải thoát giả hĩ nhược chân tu hành nhi cầu giải
+   　thoát giả thực tịnh thực thời thượng tác phục dược chi tưởng niệm đồng pháp thân như thực tử
+   　tưởng đương hạ tri túc sinh ư áp li bất phục tham cầu duy y như lai tu hành
+   　chi pháp tuần hành khí thực ư thực đẳng giả ư pháp diệc đẳng an trụ từ tâm hệ
+   　niệm thánh đạo bất vi tham vị như ngã sở thuyết thường sinh áp li chi tâm thụ chư
+   　ẩm thực như đồ ung sang kí viễn nhục thực tức vô tinh uế tuy hổ lang ác thú
+   　khả dữ đồng du nhược thực chư huyết nhục cẩu văn chi nhi phệ thú kiến chi nhi tẩu
+   　khủng bố chúng sinh khởi tu hành giả sở nghi hữu hồ thị cố tu hành cầu thánh giải
+   　thoát giả đương an trụ từ tâm bất ưng thực nhục dã nhược thực nhục giả bất niệm đồng
+   　thể chủng chủng sát hại tức thị vô từ từ tâm bất sinh tức vô chính tri kiến hà
+   　hữu ư tuệ tuệ kí bất sinh hệ phọc tà giác hà đắc giải thoát kí vô giải thoát
+   　luân chuyển sinh tử tức thị phàm lưu hà hữu ư thánh biểu tướng sở quý ư thánh biểu
+   　tướng giả vi kì hữu từ bi pháp hoặc hữu hộ sinh uy nghi năng độ chúng sinh đáo
+   　ư bỉ ngạn vi chúng sinh chi biểu suất phương khả xưng vi thánh giả kim dĩ thực nhục
+   　chi cố dữ thánh giải thoát đại tướng vi bội cố tu hành giả bất ưng thực dã nhược
+   　bất thực nhục viễn li bất tịnh đắc sinh phạm chí chủng tộc năng thuận pháp giáo thường sinh
+   　tu hành chi xứ dĩ xả ngu si cố sinh trí tuệ dĩ năng hàm dục chúng sinh cố
+   　sinh phú quý chi gia tư do bất thực nhục chi cố sinh sinh thế thế thường sinh ư
+   　thánh hiền trung kì sinh báo hậu báo hữu đại công đức như thử tu hành giả hà vi
+   　nhi bất cấm đoạn/đoán nhục thực tai phu năng cấm sở thực nhục sinh ư phú quý trí tuệ
+   　gia khởi vị kì hưởng thế gian phúc nhi dĩ da hữu phúc hữu tuệ năng thú vô thượng
+   　bồ đề sinh như lai gia thiệu long phật chủng giai thử bất thực nhục vi chi cơ dã
+   　khởi phi tu hành giả chi cấp vụ hồ nghiêm dương tôn giả vấn triệu châu nhất vật bất
+   　tương lai thời như hà châu viết phóng hạ trước nghiêm vân nhất vật bất tương lai phóng hạ
+   　cá thậm ma châu viết thậm ma tắc đam thủ khứ nghiêm ư ngôn hạ đại ngộ hậu sở
+   　cư đương nhất xà nhất hổ thủ trung dữ thực cố nhân dĩ tôn giả xưng chi hoàng long
+   　tụng vân nhất vật bất tương lai lưỡng kiên đam bất khởi ngôn hạ hốt tri phi tâm trung
+   　vô hạn hỉ độc ác kí vô hoài xà hổ vi tri kỉ liêu liêu thiên bá niên thanh
+   　phong do vị dĩ thiên đồng tụng vân bất phòng tế hành du tiên thủ tự giác tâm thô
+   　quý tràng đầu cục phá yêu gian phủ kha lạn tẩy thanh phàm cốt cộng tiên du tư khả
+   　vị hổ lang chư ác thú hằng khả đồng du chỉ giả dã tăng vấn hoàng bách như hà
+   　đắc bất lạc giai cấp bách vân đãn chung nhật khiết phạn vị tằng giảo trước nhất lạp mễ
+   　chung nhật hành vị tằng đạp trước nhất phiến địa dữ ma thời vô nhân vô ngã đẳng tướng
+   　chung nhật bất li nhất thiết sự bất bí chư cảnh hoặc phương danh tự tại nhân niệm niệm
+   　bất kiến nhất thiết tướng mạc nhận tiền hậu tam tế tiền tế vô khứ kim tế vô trụ
+   　hậu tế vô lai an nhiên đoan toạ nhâm vận bất câu phương danh giải thoát nỗ lực nỗ
+   　lực thử môn trung thiên nhân vạn nhân chi đắc tam cá ngũ cá nhược bất tương vi sự
+   　thụ ương hữu nhật tại cố vân trước lực kim sinh tu liễu khước thùy năng luy kiếp thụ
+   　dư ương quan hoàng bách thuyết đáo giá điền địa hoàn khả sinh thực nhục tưởng hồ 。
+
+**HẾT Quyển 8**
+
+
+
+
+## Hậu tự
+
+    Vãng bất nịnh bị viên điển yết chi thự tự cố kiển tiên hà túc khuynh hải nội hiền
+   　hào trường giả hạ tế chi quang nhi thiết hà đường ông lưu lão tiên sinh nhãn hồi thanh
+   　nhi xỉ tân cập ấp giáo vị kỉ ông phụng
+   　giản mệnh thị quýnh trừ dương trừ cố ngã
+   　thánh tổ triệu cơ xứ dã kì hưng dã dĩ mã thượng đắc chi nhi công chi thành dã dĩ
+   　tỉ ư tức mã hoa sơn chi liệt duật kê quýnh mệnh thận liêu chính bộc bật hiến thiên
+   　tử tắc thiên phòng trùng ti vi thần ỷ ỷ trùng cửu hĩ đệ kim súc mục chi chánh
+   　cải vi chiết chuỷ nhi quýnh thự giang biểu toại xưng ưu du dưỡng vọng chi địa lang da
+   　thứ tử hiến tú ngưng bích cao hòe cổ thu hoàn thuý thiên chương mỗi chí dạ khí phát
+   　tiên li thanh bá chuyển nhất tỉnh thần độ tư kì thời tục nhĩ nhược hoán trần cảnh đốn
+   　hoát hữu bất nguyện phi thân ấp hàng dới thổ tử thanh kim túc sở vị hằng hữu chi
+   　ngữ tai nghi ngã ông phiên nhiên thưởng âm tại thuyên đề ngoại dã ông thị triện tam táp
+   　nguyệt trì nhất trát lăng giang dĩ lai nhã ý lăng già tông thông chi lưu bố ông chi
+   　ngôn viết tằng kim giản tiên sinh khổ tâm số tự hĩ thế khởi phạp phú tam đô hoạn
+   　vô hoàng phủ mật nhĩ tuyên nhi hành chi tương tại chấp sự (thiện )tạ duy duy nhi dĩ
+   　nhũng dư tốt nghiệp cái tống trương văn định ngụ lang da tăng xá hoảng nhiên thức kì vi
+   　tiền sinh sở lục dã giả ông lị trừ dĩ sưu cố chỉ vi kiến duyệt kinh đài canh
+   　tư bất hủ kì số bá tái dĩ thượng chi tâm ấn thả phủ [lãm -kiến +thủ ]bất tiêu cộng xương
+   　tông phong thị bất tiêu hạnh yêu huệ vu ông hoạch tùy hậu trần nhi bất trí dân muội
+   　ư tốt thế giả dã đệ thế nho đa câu vọng vị thiền lí chi mĩ bổ tế thế
+   　nhi văn định đinh hữu tống hi bình chi vận vĩ hồ xưng nhất đại danh thần chí ư
+   　kim kim giản tiên sinh hào thù chi ngã ông biểu chương chi ông vưu thạc đức côi vọng
+   　hải nội ti nam vân các lăng yên phương vị hữu ngải phi cụ tiêu tiêu trần ngoại đại
+   　địa sơn hà chi trí hà năng vận hiên yết tấu sùng long yếu duy thị tịnh lí thiền
+   　tông sâm ngộ giả viễn tắc cức dục tông thông chi quảng bá nhi dữ phương hiền trác thức
+   　cộng nhiếp linh đài vu không đỗng ông uyên tâm đãi chí thị hồ ninh đệ trừ dương sơn
+   　thuỷ linh bí ích tăng ngã
+   　thánh tổ đương niên sở vi đầu qua nhi giảng chấp ngã
+   　liệt thánh nhị bá niên sở vi khoan dân lực nhi hưu dưỡng ông cố tương dĩ tịnh nghiệp vãn
+   　thệ ba chi mĩ nhi lương tục diễm hĩ nhiên tắc vị vi toàn thứ tử vi ưu nhàn
+   　đích tính chi địa do khuy ngoại phiên nhi vị khấu ông mật vi dã phu (thiện )bất mẫn
+   　cảm tại hạ phong nguyện giả dư niên chứng kim tiên chi nhất giác đệ khủng khí thuỷ tiêu
+   　nha hậu thời di hối duy ông vật cận tường chiếu mê đồ kính tạ thử biên chi tử
+   　dụng sư kì hưởng vân 。
+
+Vạn lịch nhâm tử thu trọng mạt lăng tôn minh thiện mậu thành phủ đốn thủ soạn
+
+***
 
