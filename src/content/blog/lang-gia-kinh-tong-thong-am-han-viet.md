@@ -29,18 +29,10 @@ tập lăng già tông thông thành dư tốt nghiệp ư cổ thủ tài tốn
 minh tinh ngộ đạo niêm hoa phá nhan thụ thụ giai tông tông thịnh ư đông nhi đông độ bích quan môn phong hiểm tuấn độc phó nhị tổ thị kinh vị khả ấn tâm cố tri minh tông minh
 kinh phi nhất phi nhị duy thị nghĩa học phong chấp trệ ngại nhất thiết phân nhiên thủ xá toại linh kinh hối li tích danh tướng thậm chí thiền giảng lưỡng gia nhuế tạc thuỷ hoả phân môn giao
 kích duy bất thông tông chi cố nhược phu cuồng giải hậu sinh để chưởng thiền duyệt đồi ba đảo lan nhất xướng bá hòa bất khả thu thập hựu sứ ưu thời quân tử kế vô phục chi tông
-thông vị hà nhi phi tông chi quá dã cố phi thượng căn dị trí túc chướng băng giải phàn
-duyên tận tịnh mậu xưng thiền na chi linh thương giáo vô hữu thị xứ ta hồ tông chi nan
-ngôn cửu hĩ dư tính lại vu chư nội điển bất năng khái độc dịch thủ khả thường tụng số
-chủng gian hữu giải lĩnh mậu vị hội tâm duy thán lăng già từ chỉ giản áo mỗi độc trung
-xuyết dĩ vi nghiệp trùng cố nhiên thử sinh dĩ hĩ nhất hoạch thuấn chuỷ sở tập đảo ngữ cức
-cú thuỷ hữu phân sơ cương đề lĩnh khế thố nhàn nghĩa thú tá dĩ quần tông cổ đức đạn
-đề chư tắc sâm kê hợp ấn thị kinh phật ngữ tâm tự giác thánh trí chân xán nhiên chỉ
-chưởng phu sản tước văn tự thuyết pháp sí nhiên mê giả tướng phỉ tri giả giai vi đạo sư
-thuấn chuỷ sở tập phú hĩ dư thị chi đẳng ư bích quan thuấn chuỷ dĩ vi hà như dư
-phương dục thị biên lưu thông kích dương đại sự nhi quang lộc tôn quân mậu thành quyên như can
-kim tử hành trường can gia kì thị thiện dũng trợ thứ thị ngữ thụ chi tỉ chất ư chư
-phương cao lưu cương học quân tử 。
+thông vị hà nhi phi tông chi quá dã cố phi thượng căn dị trí túc chướng băng giải phàn duyên tận tịnh mậu xưng thiền na chi linh thương giáo vô hữu thị xứ ta hồ tông chi nan
+ngôn cửu hĩ dư tính lại vu chư nội điển bất năng khái độc dịch thủ khả thường tụng số chủng gian hữu giải lĩnh mậu vị hội tâm duy thán lăng già từ chỉ giản áo mỗi độc trung xuyết dĩ vi nghiệp trùng cố nhiên thử sinh dĩ hĩ nhất hoạch thuấn chuỷ sở tập đảo ngữ cức cú thuỷ hữu phân sơ cương đề lĩnh khế thố nhàn nghĩa thú tá dĩ quần tông cổ đức đạn
+đề chư tắc sâm kê hợp ấn thị kinh phật ngữ tâm tự giác thánh trí chân xán nhiên chỉ chưởng phu sản tước văn tự thuyết pháp sí nhiên mê giả tướng phỉ tri giả giai vi đạo sư thuấn chuỷ sở tập phú hĩ dư thị chi đẳng ư bích quan thuấn chuỷ dĩ vi hà như dư phương dục thị biên lưu thông kích dương đại sự nhi quang lộc tôn quân mậu thành quyên như can
+kim tử hành trường can gia kì thị thiện dũng trợ thứ thị ngữ thụ chi tỉ chất ư chư phương cao lưu cương học quân tử 。
 
 
 
@@ -14229,6 +14221,7 @@ trí tuệ phú quý gia tư do bất thực nhục (đường vân tất sinh h
 
 **HẾT Quyển 8**
 
+***
 
 ## Hậu tự
 
@@ -14248,21 +14241,18 @@ nhũng dư tốt nghiệp cái tống trương văn định ngụ lang da tăng 
 tiền sinh sở lục dã giả ông lị trừ dĩ sưu cố chỉ vi kiến duyệt kinh đài canh
 tư bất hủ kì số bá tái dĩ thượng chi tâm ấn thả phủ [lãm -kiến +thủ ]bất tiêu cộng xương
 tông phong thị bất tiêu hạnh yêu huệ vu ông hoạch tùy hậu trần nhi bất trí dân muội
-ư tốt thế giả dã đệ thế nho đa câu vọng vị thiền lí chi mĩ bổ tế thế
-nhi văn định đinh hữu tống hi bình chi vận vĩ hồ xưng nhất đại danh thần chí ư
+ư tốt thế giả dã đệ thế nho đa câu vọng vị thiền lí chi mĩ bổ tế thế nhi văn định đinh hữu tống hi bình chi vận vĩ hồ xưng nhất đại danh thần chí ư
 kim kim giản tiên sinh hào thù chi ngã ông biểu chương chi ông vưu thạc đức côi vọng
 hải nội ti nam vân các lăng yên phương vị hữu ngải phi cụ tiêu tiêu trần ngoại đại
 địa sơn hà chi trí hà năng vận hiên yết tấu sùng long yếu duy thị tịnh lí thiền
 tông sâm ngộ giả viễn tắc cức dục tông thông chi quảng bá nhi dữ phương hiền trác thức
 cộng nhiếp linh đài vu không đỗng ông uyên tâm đãi chí thị hồ ninh đệ trừ dương sơn
-thuỷ linh bí ích tăng ngã
-thánh tổ đương niên sở vi đầu qua nhi giảng chấp ngã
+thuỷ linh bí ích tăng ngã thánh tổ đương niên sở vi đầu qua nhi giảng chấp ngã
 liệt thánh nhị bá niên sở vi khoan dân lực nhi hưu dưỡng ông cố tương dĩ tịnh nghiệp vãn
 thệ ba chi mĩ nhi lương tục diễm hĩ nhiên tắc vị vi toàn thứ tử vi ưu nhàn
 đích tính chi địa do khuy ngoại phiên nhi vị khấu ông mật vi dã phu (thiện )bất mẫn
 cảm tại hạ phong nguyện giả dư niên chứng kim tiên chi nhất giác đệ khủng khí thuỷ tiêu
-nha hậu thời di hối duy ông vật cận tường chiếu mê đồ kính tạ thử biên chi tử
-dụng sư kì hưởng vân 。
+nha hậu thời di hối duy ông vật cận tường chiếu mê đồ kính tạ thử biên chi tử dụng sư kì hưởng vân 。
 
 Vạn lịch nhâm tử thu trọng mạt lăng tôn minh thiện mậu thành phủ đốn thủ soạn
 
