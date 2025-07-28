@@ -43,7 +43,7 @@ const { tocSelector = "#table-of-contents" } = Astro.props;
 document.addEventListener("DOMContentLoaded", () => {
   const btnTop = document.getElementById("btnBackToTop");
   const btnToc = document.getElementById("btnToc");
-  const tocEl = document.querySelector(Astro.props.tocSelector);
+  const tocEl = document.querySelector(tocSelector);
 
   // Scroll to top
   btnTop.addEventListener("click", () => {
