@@ -1,7 +1,7 @@
 ---
 title: "Kim Cang Kinh Tông Thông"
-date: "1900-01-01"
-description: ""
+date: "1610-01-01"
+description: "NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ ☸ THÍCH NHUẬN CHÂU chuyển ngữ Việt văn - Hạ An cư-2006"
 author: "Tăng Phụng Nghi"
 audioUrls: [
   "https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445",
@@ -12,75 +12,62 @@ tags: ["Kim Cang Kinh", "Kim Cang Kinh Tông Thông"]
 draft: false
 ---
 
-Kim Cang Tông Thông
-NAM NHẠC SƠN TRƯƠNG KIM GIẢN
-TĂNG PHỤNG NGHI THUẤN TRƯNG
-THIẾT ĐỀ.
-☸
-THÍCH NHUẬN CHÂU
-chuyển ngữ Việt văn.
-Hạ An cư-2006
-Tựa
-☸
+NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ.
+THÍCH NHUẬN CHÂU chuyển ngữ Việt văn - Hạ An cư 2006
+
+## Tựa
+
 Kinh Kim Cang Là bộ Kinh quan trọng của tư tưởng Đại thừa.
-Từ tư tưởng chủ đạo của Kinh nầy mà hình thành nên những tông phái như
+Từ tư tưởng chủ đạo của Kinh nầy mà hình thành nên những tông phái như Trung quán, Duy thức, Tam luận tông. 
+Những pháp môn tu tập như Thiền tông, Tịnh độ tông, Mật tông... đều rút tỉa những tư tưởng chính trong Kinh để hành trì nhằm nhận ra chân tâm, hàng phục vọng tâm và an trụ trong bản tâm. Và chính là qua Kinh nầy mà giáo lý Bát-nhã được nghiên cứu cũng như hành trì sâu rộng.
+Chúng ta biết được sự truyền thừa của kinh nầy qua việc ấn chứng từ Ngũ tổ Hoằng Nhẫn cho ngài Huệ Năng. 
 
-Trung quán, Duy thức, Tam luận tông. Những pháp môn tu tập như Thiền tông, Tịnh độ tông, Mật tông... đều rút tỉa những tư tưởng chính trong Kinh để hành trì nhằm nhận ra chân tâm, hàng phục vọng tâm và an trụ trong bản tâm. Và chính là qua Kinh nầy mà giáo lý Bát-nhã được nghiên cứu cũng như hành trì sâu rộng.
-Chúng ta biết được sự truyền thừa của kinh nầy qua việc ấn chứng từ Ngũ tổ Hoằng Nhẫn cho ngài Huệ Năng. Trước đó, từ Sơ tổ Bồ-đề Đạt-ma truyền cho ngài Huệ Khả, ngài truyền Kinh Lăng Già để làm tâm ấn. Nhưng từ Ngũ tổ Hoằng Nhẫn, Thiền tông đã khởi sắc và phát triển theo một chiều hướng mới để thích nghi với căn cơ
+Trước đó, từ Sơ tổ Bồ-đề Đạt-ma truyền cho ngài Huệ Khả, ngài truyền Kinh Lăng Già để làm tâm ấn. 
+Nhưng từ Ngũ tổ Hoằng Nhẫn, Thiền tông đã khởi sắc và phát triển theo một chiều hướng mới để thích nghi với căn cơ và nền tảng văn hóa Trung Hoa, nên Ngài mới dùng Kinh Kim Cang để truyền thừa thay vì kinh Lăng-già. Từ đó, Kinh Kim Cang đã đóng một vai trò đặc biệt rất then chốt trong sự lan toả mạnh mẽ của Phật giáo cũng như Thiền tông Trung Hoa và sau đó lan rộng ra các nước Đông Nam Á.
+Khi Thiền tông đã đưa Phật giáo Trung Hoa đến đỉnh cao nhất thì cũng là lúc Kinh Kim Cang được chú ý đến nhiều nhất của mọi giới, từ giới hành trì tu chứng cho đến giới trí thức học giả chuyên nghiên cứu Phật giáo. Trào lưu nầy đã đẩy mạnh việc phiên dịch Kinh Kim Cang đến chỗ hoàn chỉnh nhất với sáu bản dịch từ tiếng Sanskrit  sang  Hán  văn.  
+Và  số  bảndịch ấy, cho đến ngày nay vẫn không tăng thêm một bản nào được xem là có giá trị ngang tầm với 6 bản đó, đã chứng thực cho nhân định nầy.
 
-và nền tảng văn hóa Trung Hoa, nên Ngài mới dùng Kinh Kim Cang để truyền thừa thay vì kinh Lăng-già. Từ đó, Kinh Kim Cang đã đóng một vai trò đặc biệt rất then chốt trong sự lan toả mạnh mẽ của Phật giáo cũng như Thiền tông Trung Hoa và sau đó lan rộng ra các nước Đông Nam Á.
-Khi Thiền tông đã đưa Phật giáo Trung Hoa đến đỉnh cao nhất thì cũng là lúc Kinh Kim Cang được chú ý đến nhiều nhất của mọi giới, từ giới hành trì tu chứng cho đến giới trí thức học giả chuyên nghiên cứu Phật giáo. Trào lưu nầy đã đẩy mạnh việc phiên dịch Kinh Kim Cang đến chỗ hoàn chỉnh nhất với sáu bản dịch từ tiếng Sanskrit  sang  Hán  văn.  Và  số  bản
-
-dịch ấy, cho đến ngày nay vẫn không tăng thêm một bản nào được xem là có giá trị ngang tầm với 6 bản đó, đã chứng thực cho nhân định nầy.
-Sáu bản dịch đó, được sắp xếp theo thời gian như sau:
+6 bản dịch đó, được sắp xếp theo thời gian như sau:
 Cưu-ma-la-thập (s: Kumārajīva): nhan đề Kim Cang Bát-nhã Ba-la-mật Kinh, được dịch đầu thế kỷ 5 (Đại Chính Tạng, tập 8).
 Bồ-đề Lưu-chi (s: Bodhiruci): Nhan đề Kim Cang Bát-nhã Ba-la- mật Kinh. Dịch đầu thế kỷ 6–Niên hiệu Vĩnh Bình nguyên niên –508)
 Chân Đế (s: Paramārtha; 499-569. Nhan đề Kim Cang Bát-nhã Ba-la- mật Kinh. Dịch vào giữa thế kỷ 6–
-Cấp-đa,  (s:  Dharmagupta,  (590-
-
-619), Hán dịch Pháp Mật). Tên kinh Kim Cang Năng Đoạn Bát Nhã Ba La Mật Đa Kinh. Dịch vào cuối thế kỷ 6
+Cấp-đa,  (s:  Dharmagupta,  (590-619), Hán dịch Pháp Mật). Tên kinh Kim Cang Năng Đoạn Bát Nhã Ba La Mật Đa Kinh. Dịch vào cuối thế kỷ 6
 Huyền Tráng: Tên kinh Năng Đoạn Kim Cang Bát Nhã Ba La Mật Đa Kinh, Dịch vào giữa thế kỷ 7.
 Nghĩa Tịnh (635-713). Tên kinh Phật Thuyết Năng Đoạn Kim Cang Bát Nhã Ba La Mật Đa Kinh. Dịch vào đầu thế kỷ 8.
-Dịch từ Sanskrit sang tiếng Anh: Có
-1 bản dịch: của Edward Conze, Luân đôn, 1957. Bản dịch Việt của Lệ Pháp.
-Còn nhiều bản dịch tiếng Anh của nhiều tác giả khác, nhưng phần nhiều đều dịch từ bản tiếng Hán của ngài
 
-Cưu-ma-la-thập. Chỉ có bản của dịch của Edward Conze là dịch từ tiếng Sanskrit, có tính nguyên uỷ hơn, và tất nhiên được giới nghiên cứu căn cứ nhiều hơn.
+Dịch từ Sanskrit sang tiếng Anh: Có 1 bản dịch: của Edward Conze, Luân đôn, 1957. Bản dịch Việt của Lệ Pháp.
+Còn nhiều bản dịch tiếng Anh của nhiều tác giả khác, nhưng phần nhiều đều dịch từ bản tiếng Hán của ngài Cưu-ma-la-thập. 
+Chỉ có bản của dịch của Edward Conze là dịch từ tiếng Sanskrit, có tính nguyên uỷ hơn, và tất nhiên được giới nghiên cứu căn cứ nhiều hơn.
 Khi một bản Kinh đã có sự định hướng cũng như khơi động rất mạnh tận chiều sâu tâm thức con người như vậy, tất sẽ có các pháp môn tu tập hình thành từ Kinh Kim Cang, từ đó phải cần có những luận giải, chú thích, giảng luận về bộ kinh nầy để đáp ứng cho việc hành trì. Chính Lục tổ Huệ Năng, đương thời cũng đã dùng Kinh Kim Cang để giảng giải và sau nầy, môn đệ đã ghi chép lại thành một tập, nhan đề là Kinh Kim Cang Khẩu quyết.
 
 Các bản luận giải tạm ghi nhận như sau:
+
 *Tiếng Sanskrit:
 Bát thập kệ của Bồ-tát Di-lặc. Còn gọi Di-lặc Bồ-tát tụng.
-K
-im cang Bát-nhã Luậncủa Ngài Vô Trước.
-K
-im cang Bát-nhã Ba-la-mật-đa Kinh Luận của Ngài Thế Thân.
-K
-im cang Bát-nhã Ba-la-mật-đa Kinh Phá thủ tướng Bất hoại Giả danh Luận của ngài Công Đức Thi
+Kim cang Bát-nhã Luậncủa Ngài Vô Trước.
+Kim cang Bát-nhã Ba-la-mật-đa Kinh Luận của Ngài Thế Thân.
+Kim cang Bát-nhã Ba-la-mật-đa Kinh Phá thủ tướng Bất hoại Giả danh Luận của ngài Công Đức Thi
+
 *Tiếng Hán:
-
--Kim cang kinh chú của ngài Tăng Triệu, đời Hậu Tần.
-- Kim cang Kinh nghĩa sớcủa ngài Cát Tạng. Đời Tuỳ.
-  Kim cang Kinh sớ của ngài Trí Khải. Đời Tuỳ.
-  Kim cang kinh Chú sớ của ngài Huệ Tịnh. Đời Đường.
-  Kim cang Kinh Lược sớ, của ngài Trí Nghiễm, Đời Đường.
-  Kim cang kinh toản thuật, của ngài Khuy Cơ, Đời Đường.
-  Kim cang kinh giải nghĩa, Kim Cang Kinh Khẩu Quyết, của Lục tổ Huệ Năng, Đời Đường.
-
-Kim cang Kinh Sớ luận Toản yếu, của ngài Khuê Phong Tông Mật, Đời Đường.
-Kim cang Bát-nhã ba-la-mật kinh giảng kí, của ngài Ấn Thuận, thời cận đại.
+- Kim cang kinh chú của ngài Tăng Triệu - Đời Hậu Tần.
+- Kim cang Kinh nghĩa sớ của ngài Cát Tạng - Đời Tuỳ.
+- Kim cang Kinh sớ của ngài Trí Khải - Đời Tuỳ.
+- Kim cang kinh Chú sớ của ngài Huệ Tịnh - Đời Đường.
+- Kim cang Kinh Lược sớ, của ngài Trí Nghiễm - Đời Đường.
+- Kim cang kinh toản thuật, của ngài Khuy Cơ - Đời Đường.
+- Kim cang kinh giải nghĩa, Kim Cang Kinh Khẩu Quyết, của Lục tổ Huệ Năng - Đời Đường.
+- Kim cang Kinh Sớ luận Toản yếu, của ngài Khuê Phong Tông Mật - Đời Đường.
+- Kim cang Bát-nhã ba-la-mật kinh giảng kí, của ngài Ấn Thuận - thời cận đại.
+- 
 Về các luận giải từ tiếng Sanskrit, chúng ta thấy một điều đặc biệt là các nhà tạo luận đều là tị tổ của Du-già hành tông (Yogācāra), hay còn gọi là Duy thức hay Pháp tướng tông. Cho chúng ta thấy qua cái nhìn của các vị nầy, từ khởi thuỷ của nền học thuật và tư tưởng trên chính mảnh đất quê hương Ấn Độ, Kinh Kim Cang đã có một vai trò rất lớn trong Du-già hành tông. Nên chẳng ngạc nhiên gì khi ngài Huyền Trang đã có một bản dịch
-
-rất đắc sắc về kinh nầy. Và sau đó, môn đệ của ngài là Khuy Cơ cũng góp phần bằng một bản luận giải. Nhưng điều đáng chú ý là Khuy Cơ đã không dùng bản dịch của ngài Huyền Trang, thầy mình, mà lại dùng bản dịch của ngài Cưu-ma-la-thập để chú giải.
+rất đắc sắc về kinh nầy. Và sau đó, môn đệ của ngài là Khuy Cơ cũng góp phần bằng một bản luận giải. 
+Nhưng điều đáng chú ý là Khuy Cơ đã không dùng bản dịch của ngài Huyền Trang, thầy mình, mà lại dùng bản dịch của ngài Cưu-ma-la-thập để chú giải.
 
 ☸
 
-VỀ TÁC GIẢ VÀ CÁC LUẬN GIẢI ĐƯỢC DÙNG TRONG SÁCH NẦY
+## VỀ TÁC GIẢ VÀ CÁC LUẬN GIẢI ĐƯỢC DÙNG TRONG SÁCH NẦY
 
-
-Tăng Phụng Nghi là một Cư sĩ Phật giáo người Trung Quốc, sống vào đời
-
-Minh, quê ở Hành Châu (nay là huyện Hành Dương, tỉnh Hồ Nam), tự là Thuấn Trưng, hiệu Kim Giản. Làm quan đến chức Lễ Bộ Lang Trung.
+Tăng Phụng Nghi là một Cư sĩ Phật giáo người Trung Quốc, sống vào đời Minh, quê ở Hành Châu (nay là huyện Hành Dương, tỉnh Hồ Nam), tự là Thuấn Trưng, hiệu Kim Giản. Làm quan đến chức Lễ Bộ Lang Trung.
 Ông rất thông minh và hiếu học, chuộng lý học của Lục Tượng Sơn. Sau khi lui về quê ẩn cư, ông lập trường giảng dạy, môn đồ rất đông. Tình cờ gặp một vị tăng. Hai người tranh luận, trải ba ngày ông mới chịu khuất phục. Từ đó ông kính tin Phật pháp, giữ giới ăn chay, nghiên cứu kinh luận, nỗ lực tham cứu. Một hôm thấy mặt trăng lặn, mặt trời mọc, hoát nhiên đại ngộ, nghi ngại tiêu sạch, được ý chân thật của cả Nho và Phật. Sau đó viết sách, lập thuyết lưu truyền.
 
 Tác phẩm của ông gồm có: Thủ-lăng- nghiêm Kinh Tông Thông,Lăng-già Kinh Tông Thông, Kim Cang Tông Thông Kinh.1[1]
@@ -4245,22 +4232,26 @@ Pháp Nhãn đáp: Ông chẳng biết vị tăng ấy.
 
 Kinh văn:
 
-佛說是經已，長老須菩提及諸比丘
-、比丘尼、優婆塞、優婆夷、一切世間天人阿脩羅，聞佛所說，皆大歡喜，信受奉行。
-Phật thuyết kinh này rồi, Trưởng lão
-Tu-bồ-đề cùng các vị tỷ-khưu, tỷ-khưu ni, ưu-bà-tắc, ưu-bà-di, hết thảy thế gian, trời, người, a-tu-la, nghe Phật thuyết dạy đều hết sức hoan hỷ, tin nhận, làm theo lời dạy.
+佛說是經已，長老須菩提及諸比丘、比丘尼、優婆塞、優婆夷、一切世間天人阿脩羅，聞佛所說，皆大歡喜，信受奉行。
+Phật thuyết kinh này rồi, Trưởng lão Tu-bồ-đề cùng các vị tỷ-khưu, tỷ-khưu ni, ưu-bà-tắc, ưu-bà-di, hết thảy thế gian, trời, người, a-tu-la, nghe Phật thuyết dạy đều hết sức hoan hỷ, tin nhận, làm theo lời dạy.
+
 San định ký nói rằng:
-Đức Phật đã nói xong kinh nầy rồi. Vốn do Không Sinh (Tu-bồ-đề) hết lòng hỏi, nên Đức Phật mới trả lời về hàng phục tâm, an trụ tâm và phát tâm tu hành. Hỏi đáp đã xong,  là
 
-cũng hoàn tất thời thuyết kinh. Nhưng do vết tích xen vào mà khởi nghi, nên liên hoàn có đến 27 đoạn. Cơ hồ với văn nầy, những niệm nghi nan được giải thích như băng tan. Nếu Thiện Cát (Tu-bồ-đề) đã không hỏi, thì Đức Phật đã không nói rõ. Trong một quyển kinh tuy chỉ gồm có thầy trò, đã là sự thành tựu to lớn rồi, nên chỉ nói là Đức Phật thuyết, mọi người đều vô cùng hoan hỷ, tin nhận, làm theo lời dạy. Hoan hỷ làm theo lời dạy: Điều nầy có 3 nghĩa:
+> Đức Phật đã nói xong kinh nầy rồi. Vốn do Không Sinh (Tu-bồ-đề) hết lòng hỏi, nên Đức Phật mới trả lời về hàng phục tâm, an trụ tâm và phát tâm tu hành. 
+Hỏi đáp đã xong,  là cũng hoàn tất thời thuyết kinh. Nhưng do vết tích xen vào mà khởi nghi, nên liên hoàn có đến 27 đoạn. 
+Cơ hồ với văn nầy, những niệm nghi nan được giải thích như băng tan. 
+Nếu Thiện Cát (Tu-bồ-đề) đã không hỏi, thì Đức Phật đã không nói rõ. 
+Trong một quyển kinh tuy chỉ gồm có thầy trò, đã là sự thành tựu to lớn rồi, nên chỉ nói là Đức Phật thuyết, mọi người đều vô cùng hoan hỷ, tin nhận, làm theo lời dạy. 
+> Hoan hỷ làm theo lời dạy: Điều nầy có 3 nghĩa:
 Người nói thanh tịnh: không bị nhiễm ô bởi sự thủ trước lợi dưỡng.
-Giáo thyết thanh tịnh: Dùng pháp thể như thật trí để nói, nói lý
-
-như lý, nói sự như sự.
+Giáo thyết thanh tịnh: Dùng pháp thể như thật trí để nói, nói lý như lý, nói sự như sự.
 Được quả thanh tịnh, ngay chỗ hiểu mà thực hành, đắc được quả vô lậu.
-Trong hội chúng gồm Tỷ-khưu, Tỷ- khưu ni, Ưu-bà-tắc, Ưu-bà-di, gọi là thường tuỳ bốn chúng. Nghe kinh nầy rồi, tín tâm chẳng nghịch, chẳng có luận bàn gì nữa. Nếu tất cả chúng sinh ở cõi trờim cõi người, a-tu-la, cho đến chư thiên ở cõi vô sắc, cõi sắc giới, gọi là hữu sắc vô sắc, hữu tưởng vô tưởng, phi hữu tưởng phi vô tưởng, đều có trong giới nầy. Chỉ đề cập đến loài trời, loài người, a-tu- la đều có trong nầy! Tất cả đều tin nhận làm theo. Kinh nói rằng đều khiến cho họ được nhập vào vô dư
 
-niết-bàn, là đã quá rõ ràng và có căn cứ. Do vậy nên Thế tôn mới phó chúc và hộ niệm cho hàng Bồ-tát, ngoài ý nghĩa nầy đâu có gì khác!
+Trong hội chúng gồm Tỷ-khưu, Tỷ- khưu ni, Ưu-bà-tắc, Ưu-bà-di, gọi là thường tuỳ 4 chúng. 
+Nghe kinh nầy rồi, tín tâm chẳng nghịch, chẳng có luận bàn gì nữa. 
+Nếu tất cả chúng sinh ở cõi trờim cõi người, a-tu-la, cho đến chư thiên ở cõi vô sắc, cõi sắc giới, gọi là hữu sắc vô sắc, hữu tưởng vô tưởng, phi hữu tưởng phi vô tưởng, đều có trong giới nầy. Chỉ đề cập đến loài trời, loài người, a-tu- la đều có trong nầy! Tất cả đều tin nhận làm theo. 
+Kinh nói rằng đều khiến cho họ được nhập vào vô dư niết-bàn, là đã quá rõ ràng và có căn cứ. 
+Do vậy nên Thế tôn mới phó chúc và hộ niệm cho hàng Bồ-tát, ngoài ý nghĩa nầy đâu có gì khác!
 Xưa Thiền sư Cổ Linh Thần Tán được gặp thiền sư Bá Trượng mà được khai ngộ. Trở về muốn báo đáp ân đức thọ nghiệp.
 Thầy Bổn sư của Linh Tán hỏi: Con rời ta đi tham học đã lâu, đã được sự nghiệp gì?
 Linh Tán đáp: Chẳng có sự nghiệp gì. Bèn sai làm việc hầu thầy như trước. Một hôm nhân tắm rửa cho thầy, khi
