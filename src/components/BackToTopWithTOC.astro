@@ -39,7 +39,7 @@ const { tocSelector = "#table-of-contents" } = Astro.props;
 <button id="btnBackToTop" class="btn-floating">⬆</button>
 <button id="btnToc" class="btn-floating">📖</button>
 
-<script>
+<script is:inline>
 document.addEventListener("DOMContentLoaded", () => {
   const btnTop = document.getElementById("btnBackToTop");
   const btnToc = document.getElementById("btnToc");
