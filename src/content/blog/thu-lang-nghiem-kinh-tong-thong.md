@@ -133,92 +133,47 @@ Kinh lăng Già : Phật dạy Ông Đại Huệ : Tất cả Thanh Văn, Duyên
 
 Đông Chú nói : Tông ấy là gốc của Đạo. Thuyết ấy là dấu tích của pháp giáo.
 
-Chứng Đạo Ca nói : Tông cũng thông,
+Chứng Đạo Ca nói : Tông cũng thông, Thuyết cũng thông. Định Huệ tròn sáng, chẳng trệ nơi không.
 
+***
 
-
-
-Thuyết cũng thông. Định Huệ tròn sáng, chẳng trệ nơi không.
-
-
-
-
-
-
-
-
-
-QUYỂN I - ĐẠI PHẬT ĐẢNH, NHƯ LAI MẬT NHÂN, TU CHỨNG LIỄU NGHĨA, CHƯ BỒ TÁT VẠN HẠNH, KINH THỦ LĂNG NGHIÊM TÔNG THÔNG.
+## QUYỂN I - ĐẠI PHẬT ĐẢNH, NHƯ LAI MẬT NHÂN, TU CHỨNG LIỄU NGHĨA, CHƯ BỒ TÁT VẠN HẠNH, KINH THỦ LĂNG NGHIÊM TÔNG THÔNG.
 
 Đời Đường, Ngài Bát Lạt Mật Đế, sa môn xứ Thiên Trúc, dịch; Ngài Di Già Thích Ca, Sa môn xứ Ô Trường, dịch ngữ. Trần Chánh Nghị Đại Phu Phòng Dung, Bồ Tát Giới đệ tử chép.
 
-Đời Minh, Bồ Tát Giới đệ tử Tiền Phụng Huấn Đại Phu, Lễ Bộ Từ Tế
-
-30
-
-
-Thanh Sử Tư Viên Ngoại Lang, Nam Nhạc Tăng Phụng Nghi, Tông Thông.
+Đời Minh, Bồ Tát Giới đệ tử Tiền Phụng Huấn Đại Phu, Lễ Bộ Từ Tế Thanh Sử Tư Viên Ngoại Lang, Nam Nhạc Tăng Phụng Nghi, Tông Thông.
 
 Thông rằng : Kinh này tại sao lại đặt tên là “Đại Phật Đảnh, Như Lai Mật Nhân, Tu Chứng Liễu Nghĩa, Chư Bồ Tát Vạn Hạnh, Thủ Lăng Nghiêm” ? Kinh chép : “Khi ấy, Đức Văn Thù Sư Lợi Pháp Vương Tử từ trong đại chúng, rời khỏi chỗ ngồi, đảnh lễ chân Phật mà thưa rằng : “Phải gọi kinh này tên gì ? Tôi cùng với chúng sanh làm thế nào phụng trì ?”
 
 Phật dạy Ngài Văn Thù Sư Lợi rằng : “Kinh này tên Đại Phật Đảnh, Tát Đát Đa Bát Đát Ra (Bạch Tán Cái), ấn báu vô thượng, Hải Nhãn trong sạch của mười phương Như Lai. Cũng gọi là
-
-31
-
-
 cứu hộ người thân, độ thoát A Nan, và Tánh Tỳ kheo ni ở trong hội này, đắc tâm Bồ Đề, bước vào biển Biến Trí. Cũng gọi là “Như Lai Mật Nhân, Tu Chứng Liễu Nghĩa”. Cũng gọi là “Đại Phương Quảng, Diệu Liên Hoa Vương, Thập Phương Phật Mẫu Đà La Ni chú”. Cũng gọi là “Quán Đảnh Chương Cú, Chư Bồ Tát Vạn Hạnh, Thủ Lăng Nghiêm”. Ông nên thọ trì”.
 
-Đoạn kinh trên gồm nhiều nghĩa, chỉ cần ba chữ “Đại Phật Đảnh” là bao gồm hết. Bởi vì Phật Đảnh thần chú, tức là mười phương Phật Mẫu Đà La Ni chú, tức là Quán Đảnh Chương Cú, tức là độ thoát Anan và Tỳ kheo ni Tánh, do đó khỏi lập lại. Chú này là “Ma Ha Tát Đát Đa Bát Đát Ra”, dịch
+Đoạn kinh trên gồm nhiều nghĩa, chỉ cần ba chữ “Đại Phật Đảnh” là bao gồm hết. Bởi vì Phật Đảnh thần chú, tức là mười phương Phật Mẫu Đà La Ni chú, tức là Quán Đảnh Chương Cú, tức là độ thoát Anan và Tỳ kheo ni Tánh, do đó khỏi lập lại. Chú này là “Ma Ha Tát Đát Đa Bát Đát Ra”, dịch là “Đại Bạch Tán Cái”, là cái Lọng Trắng Lớn Che Trùm. 
+Ròng trắng phau trong sạch, trùm che hết thảy, nên gọi là lớn. Đại Phật Đảnh thần chú này, chẳng thể nghĩ bàn, mới gọi là Nhân Địa Bí Mật(01) của Như Lai, cái Liễu Nghĩa của Tu Chứng. Vạn Hạnh của Bồ Tát do đây mà sẵn đủ, nên cả thảy rốt ráo bền chắc vậy. Pháp có thể Tiệm mà không thể Đốn, thì không thể gọi là Đại. Có thể Đốn mà không thể Viên, thì cũng không gọi là Đại (lớn) được. Nay nói là Mật, là Liễu, tức là đã gồm nghĩa Đốn. Nói là Tu Chứng, nói là Vạn Hạnh là ngầm nghĩa Viên.
+Duy cái pháp môn Viên Đốn(02) nầy, cùng với Đại Phương Quảng Phật Hoa Nghiêm Kinh và Diệu Pháp Liên Hoa Kinh, không khác. 
+Từ Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng cho đến Diệu Giác là đã bao gồm trong Hoa Nghiêm; còn Nhĩ Căn Viên Thông trọn cùng phẩm Phổ Môn tương ứng. Gồm đủ chỉ thú của hai bộ kinh trên, kinh Lăng Nghiêm thật rộng lớn biết bao !
 
-32
-
-
-là “Đại Bạch Tán Cái”, là cái Lọng Trắng Lớn Che Trùm. Ròng trắng phau trong sạch, trùm che hết thảy, nên gọi là lớn. Đại Phật Đảnh thần chú này, chẳng thể nghĩ bàn, mới gọi là Nhân Địa Bí Mật(01) của Như Lai, cái Liễu Nghĩa của Tu Chứng. Vạn Hạnh của Bồ Tát do đây mà sẵn đủ, nên cả thảy rốt ráo bền chắc vậy. Pháp có thể Tiệm mà không thể Đốn, thì không thể gọi là Đại. Có thể Đốn mà không thể Viên, thì cũng không gọi là Đại (lớn) được. Nay nói là Mật, là Liễu, tức là đã gồm nghĩa Đốn. Nói là Tu Chứng, nói là Vạn Hạnh là ngầm nghĩa Viên. Duy cái pháp môn Viên Đốn(02) nầy, cùng với Đại Phương Quảng Phật Hoa Nghiêm Kinh và Diệu Pháp Liên Hoa Kinh,
-
-33
-
-
-không khác. Từ Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng cho đến Diệu Giác là đã bao gồm trong Hoa Nghiêm; còn Nhĩ Căn Viên Thông trọn cùng phẩm Phổ Môn tương ứng. Gồm đủ chỉ thú của hai bộ kinh trên, kinh Lăng Nghiêm thật rộng lớn biết bao !
-
-Chưa ngộ, thì chuyển Cái chẳng có Sanh Diệt thành ra Cái Sanh Diệt, tức chẳng phải Liễu Nghĩa. Ngộ rồi, thì chuyển Cái Sanh Diệt thành ra Cái Chẳng Có Sanh Diệt, tức là nghĩa “Hết thảy rốt ráo kiên cố”. Cho nên, một đường đi lên(03), không ngộ thì không được. Thế thì Chú và Ngộ liên quan thế nào, Ngộ và Chú quan hệ với nhau ra sao, mà đều cũng gọi là Đại Phật Đảnh ? Chú không thể nghĩ bàn, Ngộ cũng
-
-34
-
-
-không thể nghĩ bàn. Chú tức là cảnh giới của Ngộ, Ngộ tức là cảnh giới của Chú. Đây là chỗ “Ngôn ngữ đạo đoạn, tâm hành xứ tuyệt”, thấy do lìa cái Thấy, thì cái Thấy là siêu việt. Cho nên giữ cái Phật Đảnh, lìa cái Tướng Thấy của mình là vậy. Các dòng giống của Phật Đảnh, một phen vượt lên nhập thẳng vào, đó là pháp môn cực tôn cực quý vậy. Hiệp Luận đặt tên là Tôn Đảnh vì lẽ này.
+Chưa ngộ, thì chuyển Cái chẳng có Sanh Diệt thành ra Cái Sanh Diệt, tức chẳng phải Liễu Nghĩa. Ngộ rồi, thì chuyển Cái Sanh Diệt thành ra Cái Chẳng Có Sanh Diệt, tức là nghĩa “Hết thảy rốt ráo kiên cố”. Cho nên, một đường đi lên(03), không ngộ thì không được. Thế thì Chú và Ngộ liên quan thế nào, Ngộ và Chú quan hệ với nhau ra sao, mà đều cũng gọi là Đại Phật Đảnh ? Chú không thể nghĩ bàn, Ngộ cũng không thể nghĩ bàn. Chú tức là cảnh giới của Ngộ, Ngộ tức là cảnh giới của Chú. Đây là chỗ “Ngôn ngữ đạo đoạn, tâm hành xứ tuyệt”, thấy do lìa cái Thấy, thì cái Thấy là siêu việt. Cho nên giữ cái Phật Đảnh, lìa cái Tướng Thấy của mình là vậy. Các dòng giống của Phật Đảnh, một phen vượt lên nhập thẳng vào, đó là pháp môn cực tôn cực quý vậy. Hiệp Luận đặt tên là Tôn Đảnh vì lẽ này.
 
 Có vị tăng hỏi Ngài Hoàng Bá rằng : “Vô Biên Thân Bồ Tát(04) vì sao chẳng thấy Đảnh Tướng của Như Lai ?”
 
 Ngài Bá đáp : “Thật không thể thấy. Vì sao thế? Vô Biên Thân Bồ Tát tức là
 
-35
+Như Lai, không thể trở lại thấy. Chỉ cần ông không tạo ra cái Phật Kiến thì không rơi vào Phật Biên. Không tạo ra cái Thấy Chúng Sanh thì không lạc vào giới hạn chúng sanh. Không gây ra cái Thấy Có thì không lạc vào giới hạn của cái Có. Không tạo ra cái Thấy Không thì không rơi vào giới hạn của cái Không. Không tạo ra cái Thấy của phàm phu thì không rơi vào giới hạn của phàm phu. Không tạo ra cái Thấy của Thánh thì không rơi vào giới hạn của Thánh. Chỉ Không tất cả mọi cái Thấy, tức là Vô Biên Thân. Nếu có chỗ Thấy, tức là ngoại đạo. Ngoại đạo thì ham các cái Thấy. Bồ Tát nơi mọi cái Thấy mà chẳng động. Như Lai là nghĩa Như của tất cả các Pháp, nên nói “Di Lặc cũng là Như(05)”. Như tức là không có Sanh ra, Như tức là không có Diệt mất. Như tức là không có Thấy, Như tức là không có Nghe. Đảnh tức là Viên (tròn), cũng không có cái thấy Viên, nên chẳng rơi vào biên giới của Viên. Bởi thế, thân Phật là Vô Vi, không rơi vào giới hạn. Tạm lấy Hư Không làm thí dụ. Tròn đầy như Hư Không rộng lớn, không thiếu không dư. Hãy nhàn nhã vô sự, chớ gắng gượng biện biệt cảnh giới giác ngộ, biện biệt thì thành Thức”.
 
-
-Như Lai, không thể trở lại thấy. Chỉ cần ông không tạo ra cái Phật Kiến thì không rơi vào Phật Biên. Không tạo ra cái Thấy Chúng Sanh thì không lạc vào giới hạn chúng sanh. Không gây ra cái Thấy Có thì không lạc vào giới hạn của cái Có. Không tạo ra cái Thấy Không thì không rơi vào giới hạn của cái Không. Không tạo ra cái Thấy của phàm phu thì không rơi vào giới hạn của phàm phu. Không tạo ra cái Thấy của Thánh thì không rơi vào giới hạn của Thánh. Chỉ Không tất cả mọi cái Thấy, tức là Vô Biên Thân. Nếu có chỗ Thấy, tức là ngoại đạo. Ngoại đạo thì ham các cái Thấy. Bồ Tát nơi mọi cái Thấy mà chẳng động. Như Lai là nghĩa Như của tất cả các Pháp, nên nói “Di
-
-36
-
-
-Lặc cũng là Như(05)”. Như tức là không có Sanh ra, Như tức là không có Diệt mất. Như tức là không có Thấy, Như tức là không có Nghe. Đảnh tức là Viên (tròn), cũng không có cái thấy Viên, nên chẳng rơi vào biên giới của Viên. Bởi thế, thân Phật là Vô Vi, không rơi vào giới hạn. Tạm lấy Hư Không làm thí dụ. Tròn đầy như Hư Không rộng lớn, không thiếu không dư. Hãy nhàn nhã vô sự, chớ gắng gượng biện biệt cảnh giới giác ngộ, biện biệt thì thành Thức”.
-
-Lại có vị tăng hỏi Tổ Bá Trượng : “Bồ
-Tát  Vô Biên  Thân  không thấy Đảnh
-
-Tướng của Như Lai là vì sao ?”
-
-37
+Lại có vị tăng hỏi Tổ Bá Trượng : “Bồ Tát  Vô Biên  Thân  không thấy Đảnh Tướng của Như Lai là vì sao ?”
 
 
 Tổ Trượng rằng : “Vì gây ra cái Thấy Hữu Biên, cái Thấy Vô Biên, nên chẳng thấy được Đảnh Tướng Như Lai. Chỉ như bây giờ đây trọn không có cả thảy cái Thấy Hữu Vô, cũng không phải là không có cái Thấy, thì đó là thấy Đảnh Tướng”.
 
 Xem hai vị tôn túc nói ra nghĩa Phật Đảnh, thật như viên ngọc tròn lăn trên bàn. Nếu biết chỗ ấy mới cho là trên cửa Đảnh, có được con mắt lẻ(06). Đã nói là Như Lai Mật Nhân, tức chẳng cậy mượn sự Tu Chứng. Lại nói Tu chứng liễu nghĩa(07) là để phân biệt với Chẳng có liễu nghĩa(08) vậy. Như Lai, ấy là nói về quả vậy. Kinh Kim Cang : “Nếu có người nói “Như Lai có đến, có đi, có ngồi, có nằm”, thì người
 
-38
+
 
 
 ấy chẳng hiểu nghĩa chỗ ta nói. Vì sao thế ? Như Lai là không từ chỗ nào đến, cũng không đi về đâu, nên gọi là Như Lai”. “Đến không từ chỗ nào, đi không về đâu”, quả là vật gì ? Thế mới gọi là Mật vậy. Phật Đảnh Thần Chú là Mật Ngữ của Như Lai, thì hai cái Mật (Mật Ngữ và Như Lai) đó không phải là hai. Lấy cái Mật này làm Nhân, tức lấy cái Mật ấy đắc quả. Như đóa bông sen, nhân quả đồng thời sẵn đủ. Dùng cái này mà tu, thì tu mà không tu. Dùng cái này để chứng, thì chứng mà không chứng. Kinh nói “Nào mượn sự cực nhọc tu chứng”, đây tức là ý chỉ của Liễu Nghĩa. Nếu không được như thế là vì chưa liễu ngộ vậy.
 
-39
+
 
 
 Xưa, Huệ Minh đuổi kịp Đức Lục Tổ để dành y bát.
