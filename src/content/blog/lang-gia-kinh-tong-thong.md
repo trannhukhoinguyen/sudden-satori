@@ -12,7 +12,7 @@ tags: ["Lăng Già Kinh", "Lăng Già Kinh Tông Thông"]
 draft: false
 ---
 
-DUYÊN KHỞI
+## DUYÊN KHỞI
 
 Ta từng ở quê nhà, lo việc gia đình, rồi may mắn gặp được bậc hiền đức mở kho tàng bí mật.
 Từ đó, ta theo lời dạy mà vui thích tu thiền, hân hoan thực hành ngoài khuôn khổ trần tục.
@@ -25,7 +25,7 @@ Ta tỉnh dậy, liền tìm đọc kinh Lăng Già, càng đọc càng vui, nhi
 Trước kia ta chỉ học đạo lý, nay nhờ nhân duyên này mà thấy rõ nghĩa Phật, chẳng còn hồ nghi.
 Vì thế ta viết ra bộ “Tông Thông” này, mong người sau dựa vào đó mà hiểu ý chỉ của kinh.
 
-ĐỀ TỪ
+## ĐỀ TỪ
 
 Ta vốn ẩn cư nơi Lư Lăng, vui thú với tre trúc, chẳng màng danh lợi.
 Nhân duyên rộng khắp, nhiều năm tìm học mà chưa có ngày nào uổng phí.
@@ -34,6 +34,5 @@ Nay lại soạn “Lăng Già Tông Thông”, coi như việc học đã thàn
 Kinh Lăng Già này vốn sâu xa khó hiểu, các bậc cổ đức đều khen là yếu chỉ của Phật tâm ấn.
 Người học đời sau nếu không rõ yếu chỉ này, chỉ lo bàn luận danh tướng, sẽ khó mà thấu hiểu.
 Ta nay gom góp những chỗ cốt yếu, gạn lọc lời chú cũ, dung hòa ba bản dịch, để ai đọc cũng dễ hiểu.
-Nguyện cho người học nhờ đây mà soi được tâm mình, khỏi bị mắc kẹt nơi danh tướng, được khế hợp ý Phật,
-và mau chứng nhập cảnh giới tự giác.
+Nguyện cho người học nhờ đây mà soi được tâm mình, khỏi bị mắc kẹt nơi danh tướng, được khế hợp ý Phật, và mau chứng nhập cảnh giới tự giác.
 
