@@ -3634,7 +3634,8 @@ pháp bất trước chư nhân duyên pháp cố )chủng chủng tự thân ch
 văn thuyết thị thời kì tâm tùy nhập (đường vân hữu thời văn thuyết hiện chủng chủng thân hoặc tụ hoặc tán thần thông biến hoá kì tâm tín thụ )nhược
 tri bỉ duyên giác thừa vô gian chủng tính dĩ tùy thuận vi thuyết duyên giác chi thừa thị danh
 duyên giác thừa vô gian chủng tính tướng 。
-   　thông viết duyên giác hữu nhị chủng xuất vô phật thế quan hoá tri vô vị chi độc giác
+💥
+   　⚡️thông viết duyên giác hữu nhị chủng xuất vô phật thế quan hoá tri vô vị chi độc giác
    　xuất hữu phật thế y giáo nhi tu quan duyên ngộ đạo vị chi duyên giác thử vân các
    　biệt duyên vô gian giả tức thập nhị nhân duyên pháp tam thế nhân quả tướng duyên vô gian
    　dã bất tướng cận duyên sở hữu bất trước giả li hội náo duyên vô sở nhiễm trước tức
