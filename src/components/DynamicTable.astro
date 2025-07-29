@@ -3,6 +3,28 @@ import masters from '../../src/data/masters.ts';
 
 const sampleStructureOfMaster = masters[0];
 const sampleColumns = Object.keys(sampleStructureOfMaster)?.map(key => key.charAt(0).toUpperCase() + key.slice(1));
+
+// Collect Raw Data
+const masterData = masters.map(master => ({
+  nameVi: master.nameVi || "?",
+  nameEn: master.nameEn || "?",
+  nameZh: master.nameZh || "?",
+  nameJp: master.nameJp || "?",
+  era: master.era || "?",
+  country: master.country || "?",
+  schools: master.schools?.join(', ') || "?",
+  branchSchool: master.branchSchool || "?",
+  teacher: master.teacher || "?",
+  disciples: master.disciples?.join(', ') || "?",
+}));
+
+// Handle pagination (server-side)
+const pageSize = 10;
+const currentPage = 1;
+const start = (currentPage - 1) * pageSize;
+const end = start + pageSize;
+const paginatedData = masterData.slice(start, end);
+const columns = Object.keys(masterData[0] || {});
 ---
 
 <body>
@@ -25,22 +47,30 @@ const sampleColumns = Object.keys(sampleStructureOfMaster)?.map(key => key.charA
         </tr>
       </thead>
       <tbody>
-      <!-- Sample data - in practice, this would be populated dynamically -->
+        {
+          paginatedData.map(row => (
+            <tr>
+              {columns.map(col => (
+                  <td>{row[col]}</td>
+              ))}
+            </tr>
+          ))
+        }
       </tbody>
     </table>
     <div class="pagination" role="navigation" aria-label="Pagination">
       <div class="pagination-info">
-        Showing <span class="current-range">1-10</span> of <span class="total-items">0</span> items
+        Đang xem vị thứ <span class="current-range">1-10</span> trong <span class="total-items">0</span> vị
       </div>
       <div class="pagination-controls">
-        <button class="prev-page" aria-label="Previous page" disabled>Previous</button>
-        <span class="current-page" aria-label="Current page">Page 1</span>
-        <button class="next-page" aria-label="Next page">Next</button>
+        <button class="prev-page" aria-label="Previous page" disabled>Trước đó</button>
+        <span class="current-page" aria-label="Current page">Trang 1</span>
+        <button class="next-page" aria-label="Next page">Tiếp theo</button>
         <select class="page-size-select" aria-label="Items per page">
-          <option value="5">5 per page</option>
-          <option value="10" selected>10 per page</option>
-          <option value="25">25 per page</option>
-          <option value="50">50 per page</option>
+          <option value="5">5 mỗi trang</option>
+          <option value="10" selected>10 mỗi trang</option>
+          <option value="25">25 mỗi trang</option>
+          <option value="50">50 mỗi trang</option>
         </select>
       </div>
     </div>
