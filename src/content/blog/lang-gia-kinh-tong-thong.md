@@ -36,8 +36,6 @@ Người học đời sau nếu không rõ yếu chỉ này, chỉ lo bàn luậ
 Ta nay gom góp những chỗ cốt yếu, gạn lọc lời chú cũ, dung hòa ba bản dịch, để ai đọc cũng dễ hiểu.
 Nguyện cho người học nhờ đây mà soi được tâm mình, khỏi bị mắc kẹt nơi danh tướng, được khế hợp ý Phật, và mau chứng nhập cảnh giới tự giác.
 
-## Quyển 1 
-
 Kinh Lăng Già A Bạt Đa La Bảo, do Tam Tạng Sa-môn Cầu-na-bạt-đà-la ở Thiên Trúc dịch lần đầu, Tam Tạng Sa-môn Bồ-đề-lưu-chi ở Bắc Ngụy dịch lần thứ 2, và Tam Tạng Sa-môn Thật-nghĩa-nan-đà ở Vu-điền dịch lần thứ 3.
 
 Người soạn Tông Thông là Tăng Phụng Nghi, đệ tử Bồ-tát Giới, từng giữ chức Viên Ngoại Lang.
@@ -47,4 +45,4 @@ Núi này như viên ngọc quý, rất kiên cố, ví như bảo vật không 
 Trên đỉnh núi có một thành, nơi Dạ-xoa cư trú, ban đêm thường phát ra ánh sáng rực rỡ. 
 Những ai ở trong cảnh giới này nếu tâm còn phân biệt thì không thấy Phật; chỉ khi nào dứt phân biệt, tâm thanh tịnh, mới thấy được Phật thuyết kinh tại đây.
 
-
+## Quyển 1 
