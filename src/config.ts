@@ -9,6 +9,7 @@ export interface SiteConfig {
   social: {
     facebook?: string;
     youtube?: string;
+    bookcase?: string;
   };
   siteUrl: string;
 }
@@ -23,7 +24,8 @@ export const config: SiteConfig = {
   },
   social: {
     facebook: "https://www.facebook.com/Nhohoivanhin/",
-    youtube: "https://www.youtube.com/c/tongphongtosuthien"
+    youtube: "https://www.youtube.com/c/tongphongtosuthien",
+    bookcase: "https://pubhtml5.com/bookcase/wuxzq/"
   },
   siteUrl: "https://sudden-satori.vercel.app"
 };

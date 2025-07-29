@@ -1,0 +1,1497 @@
+---
+const { jsonUrl } = Astro.props
+---
+
+<section class="base-template">
+    <div class="wrapper base-template__wrapper">
+        <div class="base-template__content">
+            <div class="table-view">
+
+                <!-- Table Filter -->
+
+                <div id="filter" class="filter">
+                    <div id="filter-search" class="filter-search">
+                        <input type="text" name="search" placeholder="Search">
+                        <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/search.svg" alt="Search">
+                    </div>
+
+                    <div class="filter__controls">
+                        <div class="filter-selection">
+                            <div class="filter-selection__label">Status</div>
+
+                            <div id="filter-select" class="filter-select">
+                                <input readonly type="text" name="status" value="All">
+                                <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/select.svg" alt="Search">
+
+                                <ul class="filter-select__options">
+                                    <li tabindex="0" data-option class="selected">All</li>
+                                    <li tabindex="0" data-option>Success</li>
+                                    <li tabindex="0" data-option>Pending</li>
+                                    <li tabindex="0" data-option>Rejected</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <a title="Export JSON" href="https://bato-web-agency.github.io/bato-shared/table-view/assets/data.json" target="_blank" class="filter-export">
+                            <span>JSON</span>
+                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/export.svg" alt="Export JSON">
+                        </a>
+                    </div>
+                </div>
+
+                <div id="table" class="table">
+                    <div data-simplebar data-simplebar-auto-hide="false" class="table__inner">
+                        <div class="table__scroll">
+                            <!-- Table Head -->
+
+                            <div id="head" class="table__head">
+                                <div class="table__tr">
+                                    <div class="table__td table__th fixed">
+                                        <div data-control="checkbox" data-select="all" class="table-checkbox">
+                                            <label title="Select all rows" tabindex="0">
+                                                <input hidden type="checkbox">
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th link fixed">
+                                        <div title="Sort" tabindex="0" data-control="invoice" data-sort="desc" class="table-control">
+                                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/sort.svg" alt="Sort">
+                                            <span>Invoice ID</span>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th contact">
+                                        <div title="Sort" tabindex="0" data-control="contact" data-sort="desc" class="table-control">
+                                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/sort.svg" alt="Sort">
+                                            <span>Initiator</span>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th">
+                                        <div title="Sort" tabindex="0" data-control="company" data-sort="desc" class="table-control">
+                                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/sort.svg" alt="Sort">
+                                            <span>Company</span>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th progress">
+                                        <div title="Sort" tabindex="0" data-control="progress" data-sort="desc" class="table-control">
+                                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/sort.svg" alt="Sort">
+                                            <span>Completion</span>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th">
+                                        <div class="table-control">
+                                            <span>Details</span>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th datetime">
+                                        <div title="Sort" tabindex="0" data-control="datetime" data-sort="desc" class="table-control">
+                                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/sort.svg" alt="Sort">
+                                            <span>Invoice Date</span>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th status">
+                                        <div title="Sort" tabindex="0" data-control="status" data-sort="desc" class="table-control">
+                                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/sort.svg" alt="Sort">
+                                            <span>Status</span>
+                                        </div>
+                                    </div>
+                                    <div class="table__td table__th amount fixed">
+                                        <div title="Sort" tabindex="0" data-control="amount" data-sort="desc" class="table-control">
+                                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/sort.svg" alt="Sort">
+                                            <span>Amount</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Table Body: generated -->
+
+                            <div id="body" class="table__body"></div>
+                        </div>
+                    </div>
+
+                    <!-- Table Footer -->
+
+                    <div class="table__footer">
+                        <div class="table-counter">
+                            <span class="table-counter__label">Showing</span>
+                            <span data-limit>0</span>/<span data-total>0</span>
+                        </div>
+
+                        <div title="Load more" tabindex="0" class="load-more" data-load-more>
+                            <span>Load more</span>
+                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/arrow-down.svg" alt="Load more">
+                        </div>
+
+                        <div class="table-counter"></div> <!-- positioning fix -->
+                    </div>
+
+                    <!-- Nothing Found template -->
+
+                    <template id="empty">
+                        <div class="table-empty">
+                            <img src="https://bato-web-agency.github.io/bato-shared/table-view/img/empty.svg" alt="Empty">
+                            <div class="table-empty__data">
+                                <div class="table-empty__title">Nothing was found for your request.</div>
+                                <div class="table-empty__text">Expand your search parameters.</div>
+                            </div>
+                        </div>
+                    </template>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<style>
+    :root {
+        --color-table-text: #bbbbbb;
+        --color-table-text-light: #606074;
+        --color-table-secondary: #343442;
+        --color-table-highlight: #23232b;
+        --color-table-accent: #05fbff;
+
+        --color-table-success: rgba(1, 255, 204, 0.7);
+        --color-table-danger: rgba(255, 129, 129, 0.7);
+
+        --table-cell-width: 60px;
+        --table-row-height: 54px;
+        --table-transition-hover: 0.4s ease;
+    }
+    body {
+        overflow-y: scroll;
+        scroll-behavior: smooth;
+    }
+
+    body::before,
+    body::after {
+        position: fixed;
+    }
+
+    .table-view {
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+        font-size: 16px;
+        line-height: 1.25;
+        font-weight: 400;
+        color: var(--color-table-text);
+    }
+
+    /**
+     * Table Instance
+     */
+
+    .table {
+        width: 100%;
+        overflow: hidden;
+        border-radius: 10px 10px 0 0;
+    }
+
+    .table__inner {
+        width: 100%;
+    }
+
+    .table__scroll {
+        min-width: 100%;
+        width: max-content;
+    }
+
+    .table__head,
+    .table__body {
+        min-width: 100%;
+        width: max-content;
+        background: linear-gradient(
+                91.89deg,
+                #23232b -8.76%,
+                rgba(35, 35, 43, 0.6) 103.97%
+        );
+        overflow: clip;
+    }
+
+    .table__body {
+        position: relative;
+        min-height: calc(var(--table-row-height) * 5);
+        border-top: solid 1px var(--color-table-secondary);
+    }
+
+    /**
+     * Table Empty State
+     */
+
+    .table-empty {
+        position: sticky;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        column-gap: 15px;
+        width: fit-content;
+        max-width: 100%;
+        padding: var(--table-row-height) 20px;
+    }
+
+    .table-empty img {
+        display: block;
+        width: 12px;
+        height: 12px;
+    }
+
+    .table-empty__data {
+        display: flex;
+        flex-direction: column;
+        row-gap: 3px;
+    }
+
+    .table-empty__title {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .table-empty__text {
+        font-size: 14px;
+        color: var(--color-table-text-light);
+    }
+
+    /**
+     * Table Rows
+     */
+
+    @keyframes fade-up {
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .table__tr {
+        display: flex;
+        column-gap: 20px;
+        min-width: 100%;
+        width: max-content;
+        height: var(--table-row-height);
+        padding: 0 10px;
+        border-top: solid 1px var(--color-table-secondary);
+        transition: background-color var(--table-transition-hover);
+    }
+
+    .table__tr:first-child {
+        border-top: none;
+    }
+
+    .table__tr.animate {
+        opacity: 0;
+        transform: translateY(50%);
+        animation: fade-up 0.8s ease forwards;
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .table__tr:hover {
+            background-color: rgba(52, 52, 66, 0.25);
+        }
+    }
+
+    /**
+     * Table Header
+     */
+
+    .table__head .table__tr {
+        background-color: transparent;
+        border-top: none;
+    }
+
+    .table__th.status .table-control,
+    .table__th.amount .table-control {
+        margin: 0 auto;
+    }
+
+    .table-control {
+        display: flex;
+        align-items: center;
+        column-gap: 8px;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 0.05em;
+        transition: opacity var(--table-transition-hover);
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table-control {
+            font-size: 14px;
+        }
+    }
+
+    .table-control[data-control] {
+        cursor: pointer;
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .table-control[data-control]:hover {
+            opacity: 0.75;
+        }
+    }
+
+    .table-control img {
+        display: block;
+        width: 6px;
+        height: 6px;
+    }
+
+    .table-control span {
+        display: block;
+        padding-top: 1px;
+    }
+
+    /**
+     * Table Columns
+     */
+
+    .table__td {
+        display: flex;
+        align-items: center;
+        width: calc(var(--table-cell-width) * 2.5);
+        height: var(--table-row-height);
+        padding: 0 10px;
+        white-space: nowrap;
+        overflow: clip;
+    }
+
+    .table__td:has(> .table-checkbox) {
+        width: var(--table-cell-width);
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table__td:has(> .table-checkbox) {
+            width: calc(var(--table-cell-width) / 1.5);
+        }
+    }
+
+    .table__th.link,
+    .table__td:has(> .table-link) {
+        width: calc(var(--table-cell-width) * 1.85);
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table__th.link,
+        .table__td:has(> .table-link) {
+            width: calc(var(--table-cell-width) * 1.5);
+        }
+    }
+
+    .table__th.amount,
+    .table__td:has(> .table-text.amount) {
+        width: calc(var(--table-cell-width) * 1.625);
+    }
+
+    .table__th.contact,
+    .table__th.progress,
+    .table__td:has(> .table-contact),
+    .table__td:has(> .table-progress) {
+        width: calc(var(--table-cell-width) * 3.3);
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table__th.progress,
+        .table__td:has(> .table-progress) {
+            width: calc(var(--table-cell-width) * 2);
+        }
+    }
+
+    .table__th.datetime,
+    .table__td:has(> .table-datetime) {
+        width: calc(var(--table-cell-width) * 2.25);
+    }
+
+    .table__th.status,
+    .table__td:has(> .table-status) {
+        width: calc(var(--table-cell-width) * 1.5);
+    }
+
+    .table__td.fixed {
+        position: sticky;
+        left: 10px;
+        background-color: var(--color-table-highlight);
+        box-shadow: -11px 0 0 0 var(--color-table-highlight),
+        11px 0 0 0 var(--color-table-highlight);
+        z-index: 1;
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table__td.fixed {
+            position: static;
+            background-color: transparent;
+            box-shadow: none;
+        }
+    }
+
+    .table__th.link.fixed,
+    .table__td.fixed:has(> .table-link) {
+        left: calc(var(--table-cell-width) + 30px);
+    }
+
+    .table__th.amount.fixed,
+    .table__td.fixed:has(> .table-text.amount) {
+        right: 10px;
+    }
+
+    /**
+     * Table Components
+     */
+
+    /* Component: Checkbox */
+
+    .table-checkbox {
+        margin: 0 auto;
+    }
+
+    .table-checkbox label {
+        position: relative;
+        display: block;
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+    }
+
+    .table-checkbox label::before {
+        content: "";
+        display: block;
+        width: 235%;
+        height: 235%;
+        border-radius: 50%;
+        background-color: var(--color-table-text-light);
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%) scale(0);
+        transform-origin: center center;
+        opacity: 0;
+        transition: transform var(--table-transition-hover),
+        opacity var(--table-transition-hover);
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .table-checkbox label:hover::before {
+            transform: translate(-50%, -50%) scale(1);
+            opacity: 0.15;
+        }
+    }
+
+    .table-checkbox label::after {
+        content: "";
+        position: relative;
+        display: block;
+        width: 100%;
+        height: 100%;
+        border: solid 1px var(--color-table-text);
+        border-radius: 4px;
+    }
+
+    .table-checkbox label:has(> input[type="checkbox"]:checked)::before {
+        background-color: rgba(5, 251, 255, 0.25);
+    }
+
+    .table-checkbox label:has(> input[type="checkbox"]:checked)::after {
+        background-color: var(--color-table-accent);
+        border-color: var(--color-table-accent);
+        background-image: url("data:image/svg+xml,%3Csvg width='14' height='10' viewBox='0 0 14 10' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12.3332 1L4.99984 8.33333L1.6665 5' stroke='%2323232B' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
+        background-size: 14px 10px;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+
+    /* Component: Text */
+
+    .table-text.details {
+        font-size: 14px;
+        color: var(--color-table-text-light);
+        white-space: wrap;
+    }
+
+    .table-text.amount {
+        margin: 0 auto;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 0.05em;
+        text-align: center;
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table-text.amount {
+            font-size: 14px;
+        }
+    }
+    /* Component: Link */
+
+    .table-link {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        font-size: 18px;
+        font-weight: 500;
+        letter-spacing: 0.05em;
+        color: var(--color-table-text);
+        text-decoration: none;
+        transition: opacity var(--table-transition-hover);
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table-link {
+            font-size: 14px;
+        }
+    }
+
+    .table-link::after {
+        content: "";
+        display: block;
+        width: 18px;
+        height: 18px;
+        background-image: url("data:image/svg+xml,%3Csvg width='18' height='18' viewBox='0 0 18 18' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.75008 8.81268C9.60758 8.81268 9.46508 8.76018 9.35258 8.64768C9.13508 8.43018 9.13508 8.07018 9.35258 7.85268L15.5026 1.70268C15.7201 1.48518 16.0801 1.48518 16.2976 1.70268C16.5151 1.92018 16.5151 2.28018 16.2976 2.49768L10.1476 8.64768C10.0351 8.76018 9.89258 8.81268 9.75008 8.81268Z' fill='%2305FBFF'/%3E%3Cpath d='M16.5004 5.6625C16.1929 5.6625 15.9379 5.4075 15.9379 5.1V2.0625H12.9004C12.5929 2.0625 12.3379 1.8075 12.3379 1.5C12.3379 1.1925 12.5929 0.9375 12.9004 0.9375H16.5004C16.8079 0.9375 17.0629 1.1925 17.0629 1.5V5.1C17.0629 5.4075 16.8079 5.6625 16.5004 5.6625Z' fill='%2305FBFF'/%3E%3Cpath d='M11.25 17.0625H6.75C2.6775 17.0625 0.9375 15.3225 0.9375 11.25V6.75C0.9375 2.6775 2.6775 0.9375 6.75 0.9375H8.25C8.5575 0.9375 8.8125 1.1925 8.8125 1.5C8.8125 1.8075 8.5575 2.0625 8.25 2.0625H6.75C3.2925 2.0625 2.0625 3.2925 2.0625 6.75V11.25C2.0625 14.7075 3.2925 15.9375 6.75 15.9375H11.25C14.7075 15.9375 15.9375 14.7075 15.9375 11.25V9.75C15.9375 9.4425 16.1925 9.1875 16.5 9.1875C16.8075 9.1875 17.0625 9.4425 17.0625 9.75V11.25C17.0625 15.3225 15.3225 17.0625 11.25 17.0625Z' fill='%2305FBFF'/%3E%3C/svg%3E%0A");
+        background-size: 100% 100%;
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .table-link:hover {
+            opacity: 0.75;
+        }
+    }
+
+    /* Component: Contact */
+
+    .table-contact {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        color: var(--color-table-text);
+        text-decoration: none;
+        transition: opacity var(--table-transition-hover);
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .table-contact:hover {
+            opacity: 0.75;
+        }
+    }
+
+    .table-contact__image {
+        display: block;
+        width: 40px;
+        height: 40px;
+        border-radius: 6px;
+    }
+
+    .table-contact__data {
+        display: flex;
+        flex-direction: column;
+        row-gap: 2px;
+    }
+
+    .table-contact__email {
+        font-size: 14px;
+        color: var(--color-table-text-light);
+    }
+
+    /* Component: Progress */
+
+    .table-progress {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+        width: 100%;
+    }
+
+    .table-progress__bar {
+        flex: 1;
+        min-width: 150px;
+        height: 10px;
+        background-color: var(--color-table-secondary);
+        border-radius: 100px;
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .table-progress__bar {
+            min-width: 100px;
+        }
+    }
+
+    @keyframes progress {
+        to {
+            max-width: 100%;
+        }
+    }
+
+    @keyframes progress-blinking {
+        0%,
+        100% {
+            filter: brightness(1);
+            box-shadow: none;
+        }
+
+        50% {
+            filter: brightness(1.5);
+            box-shadow: rgba(3, 239, 255, 0.25) 0 0 10px;
+        }
+    }
+
+    .table-progress__bar span {
+        display: block;
+        width: 0;
+        max-width: 0;
+        height: 10px;
+        background: linear-gradient(
+                303.71deg,
+                rgba(6, 255, 255, 0.8) 30.34%,
+                rgba(3, 239, 255, 0.8) 43.1%,
+                rgba(0, 219, 255, 0.8) 55.85%,
+                rgba(0, 203, 244, 0.8) 64.97%,
+                rgba(0, 162, 215, 0.8) 82.28%,
+                rgba(0, 158, 212, 0.8) 84.11%
+        );
+        border-radius: 100px;
+        animation: progress 1s ease-in-out forwards,
+        progress-blinking 5s ease-in-out infinite;
+    }
+
+    .table-progress__value {
+        width: 45px;
+    }
+
+    /* Component: Datetime */
+
+    .table-datetime {
+        display: flex;
+        align-items: center;
+        column-gap: 10px;
+    }
+
+    .table-datetime__time {
+        color: var(--color-table-text-light);
+    }
+
+    /* Component: Status */
+
+    .table-status {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: var(--table-cell-width);
+        height: 30px;
+        margin: 0 auto;
+        font-size: 14px;
+        text-align: center;
+        text-transform: capitalize;
+        border: solid 1px var(--color-table-secondary);
+        border-radius: 4px;
+    }
+
+    @keyframes status-success-blinking {
+        0%,
+        100% {
+            box-shadow: none;
+        }
+
+        50% {
+            box-shadow: rgba(1, 255, 204, 0.15) 0 0 10px;
+        }
+    }
+
+    .table-status.success {
+        color: var(--color-table-success);
+        border-color: var(--color-table-success);
+        animation: status-success-blinking 5s ease-in-out infinite;
+    }
+
+    @keyframes status-rejected-blinking {
+        0%,
+        100% {
+            box-shadow: none;
+        }
+
+        50% {
+            box-shadow: rgba(255, 129, 129, 0.15) 0 0 10px;
+        }
+    }
+
+    .table-status.rejected {
+        color: var(--color-table-danger);
+        border-color: var(--color-table-danger);
+        animation: status-rejected-blinking 5s ease-in-out infinite;
+    }
+
+    /**
+     * Table Footer
+     */
+
+    .table__footer {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px 40px;
+        margin: 20px 0 0;
+    }
+
+    .table-counter {
+        width: 120px;
+        font-size: 14px;
+        color: var(--color-table-text-light);
+    }
+
+    .table-counter__label,
+    .table-counter span[data-limit] {
+        color: var(--color-table-text);
+    }
+
+    /**
+     * Filter Components
+     */
+
+    .filter {
+        position: sticky;
+        top: -1px;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px 40px;
+        padding: 20px;
+        background-color: var(--color-table-highlight);
+        border-radius: 12px;
+        box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+        z-index: 1;
+    }
+
+    @media screen and (max-width: 991.9px) {
+        .filter {
+            position: static;
+        }
+    }
+
+    .filter__controls {
+        flex: 1;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 20px 40px;
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .filter__controls {
+            max-width: 100%;
+        }
+    }
+
+    @media screen and (max-width: 575.9px) {
+        .filter__controls {
+            max-width: 100%;
+        }
+    }
+
+    /* Component: Search */
+
+    .filter-search {
+        position: relative;
+        width: 100%;
+        max-width: 380px;
+    }
+
+    @media screen and (max-width: 767.9px) {
+        .filter-search {
+            max-width: 100%;
+        }
+    }
+
+    .filter-search img {
+        position: absolute;
+        top: 50%;
+        left: 15px;
+        display: block;
+        width: 4px;
+        height: 4px;
+        transform: translateY(-50%);
+        pointer-events: none;
+    }
+
+    .filter-search input {
+        display: block;
+        width: 100%;
+        height: 48px;
+        padding: 0 15px 0 40px;
+        background-color: transparent;
+        border: solid 1px #606074;
+        border-radius: 8px;
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: var(--color-table-text);
+        outline: none;
+        transition: border-color var(--table-transition-hover);
+    }
+
+    .filter-search input:focus {
+        border-color: var(--color-table-text);
+    }
+
+    .filter-search input::placeholder {
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: var(--color-table-text-light);
+    }
+
+    /* Component: Export */
+
+    .filter-export {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        column-gap: 8px;
+        width: 100%;
+        max-width: 120px;
+        height: 48px;
+        border: solid 1px #606074;
+        border-radius: 8px;
+        font-size: 16px;
+        color: var(--color-table-text);
+        text-decoration: none;
+        transition: border-color var(--table-transition-hover);
+    }
+
+    @media screen and (max-width: 575.9px) {
+        .filter-export {
+            max-width: 100%;
+        }
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .filter-export:hover {
+            border-color: var(--color-table-accent);
+        }
+    }
+
+    .filter-export span {
+        display: block;
+        padding-top: 1px;
+    }
+
+    /* Component: Selection */
+
+    .filter-selection {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 10px 20px;
+    }
+
+    @media screen and (max-width: 575.9px) {
+        .filter-selection {
+            width: 100%;
+        }
+    }
+
+    .filter-select {
+        position: relative;
+        width: 100%;
+        max-width: 170px;
+        z-index: 1;
+    }
+
+    @media screen and (max-width: 575.9px) {
+        .filter-select {
+            max-width: 100%;
+        }
+    }
+
+    .filter-select input {
+        display: block;
+        width: 100%;
+        height: 48px;
+        padding: 0 15px;
+        background-color: transparent;
+        border: solid 1px #606074;
+        border-radius: 8px;
+        font-family: "Montserrat", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: var(--color-table-text);
+        outline: none;
+        transition: border-color var(--table-transition-hover);
+        cursor: pointer;
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .filter-select input:hover {
+            border-color: var(--color-table-text);
+        }
+    }
+
+    .filter-select.active input {
+        border-color: var(--color-table-text);
+    }
+
+    .filter-select img {
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        display: block;
+        width: 4px;
+        height: 4px;
+        transform: translateY(-50%);
+        transition: transform var(--table-transition-hover);
+        pointer-events: none;
+    }
+
+    .filter-select.active img {
+        transform: translateY(-50%) rotate(180deg);
+    }
+
+    .filter-select__options {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        display: none;
+        flex-direction: column;
+        row-gap: 5px;
+        margin: 10px 0 0;
+        padding: 10px 5px;
+        width: 100%;
+        background-color: var(--color-table-highlight);
+        border: solid 1px #606074;
+        border-radius: 8px;
+        list-style: none;
+    }
+
+    .filter-select.active .filter-select__options {
+        display: flex;
+    }
+
+    .filter-select__options li {
+        padding: 10px;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: background-color var(--table-transition-hover);
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .filter-select__options li:not(.selected):hover {
+            background-color: var(--color-table-secondary);
+        }
+    }
+
+    .filter-select__options li.selected {
+        background-color: var(--color-table-text);
+        color: #23232b;
+        pointer-events: none;
+    }
+
+    /**
+     * Load More
+     */
+
+    .load-more {
+        display: flex;
+        column-gap: 16px;
+        color: var(--color-table-accent);
+        cursor: pointer;
+    }
+
+    .load-more.hidden {
+        display: none;
+    }
+
+    .load-more img {
+        display: block;
+        width: 4px;
+        height: auto;
+        transition: transform var(--table-transition-hover);
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .load-more:hover img {
+            transform: translateY(3px);
+        }
+    }
+
+    /**
+     * Simplebar Styles
+     */
+
+    .simplebar-track.simplebar-horizontal {
+        position: relative;
+        height: 15px;
+        margin: 10px 0 0;
+        background-color: var(--color-table-highlight);
+        border-radius: 100px;
+    }
+
+    .simplebar-scrollbar {
+        pointer-events: all;
+        cursor: pointer;
+    }
+
+    .simplebar-scrollbar::before {
+        top: 3px;
+        bottom: 3px;
+        left: 3px;
+        right: 3px;
+        height: 9px;
+        background-color: var(--color-table-text);
+        transition: background-color var(--table-transition-hover) !important;
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .simplebar-scrollbar:hover::before {
+            background-color: #eaeaea;
+        }
+    }
+</style>
+
+<script is:inline>
+    function debounce(func, delay) {
+        let timeoutId;
+
+        return function (...args) {
+            const context = this;
+
+            clearTimeout(timeoutId);
+
+            timeoutId = setTimeout(() => func.apply(context, args), delay);
+        };
+    }
+
+    /**
+     * Table Instance
+     */
+
+    const defaults = {
+        data: [],
+        elements: { table: "#table", body: "#body", empty: "#empty" }
+    };
+
+    class Table {
+        constructor(config = {}) {
+            this.config = Object.assign({}, defaults, config);
+
+            this.table = document.querySelector(this.config.elements.table);
+            this.body = document.querySelector(this.config.elements.body);
+            this.empty = document.querySelector(this.config.elements.empty);
+
+            this.initial = this.config.data;
+
+            this.data = [...this.initial];
+            this.columns = [
+                "checkbox",
+                "invoice",
+                "contact",
+                "company",
+                "progress",
+                "details",
+                "datetime",
+                "status",
+                "amount"
+            ];
+            this.rows = [];
+            this.total = this.initial.length;
+
+            this.init();
+        }
+
+        init() {
+            this.validate();
+
+            this.limit = 5;
+            this.total = this.initial.length;
+
+            this.sort("datetime", "asc");
+
+            this.limitEl = this.table.querySelector("[data-limit]");
+            this.totalEl = this.table.querySelector("[data-total]");
+            this.loadMoreEl = document.querySelector("[data-load-more]");
+
+            if (this.limitEl) this.limitEl.textContent = this.limit;
+            if (this.totalEl) this.totalEl.textContent = this.total;
+
+            if (this.loadMoreEl) {
+                this.loadMoreEl.addEventListener("click", () => this.loadMore());
+            }
+        }
+
+        // Data Methods
+
+        retrieve(item, key) {
+            if (key === "invoice") return item.invoice.title;
+            if (key === "contact") return item.contact.title;
+            if (key === "company") return item.company;
+            if (key === "progress") return parseInt(item.progress);
+            if (key === "datetime")
+                return new Date(`${item.datetime.date} ${item.datetime.time}`).getTime();
+            if (key === "status") return item.status;
+            if (key === "amount") return parseFloat(item.amount.replace(",", ""));
+
+            return null;
+        }
+
+        create(key, value) {
+            const cell = document.createElement("div");
+
+            cell.classList.add("table__td");
+
+            switch (key) {
+                case "checkbox":
+                    cell.classList.add("fixed");
+
+                    cell.innerHTML = `
+                    <div class="table-checkbox">
+                        <label title="Select row" tabindex="0">
+                            <input hidden type="checkbox" ${
+                        value ? "checked" : ""
+                    }>
+                        </label>
+                    </div>
+                `;
+                    break;
+                case "invoice":
+                    cell.classList.add("fixed");
+
+                    cell.innerHTML = `
+                    <a title="${value.title}" href="${value.url}" target="_blank" class="table-link">
+                        <span>${value.title}</span>
+                    </a>
+                `;
+                    break;
+                case "contact":
+                    cell.innerHTML = `
+                    <a title="${value.title}" href="mailto:${value.email}" class="table-contact">
+                        <img src="${value.img_url}" alt="${value.title}" class="table-contact__image">
+                        <div class="table-contact__data">
+                            <div class="table-contact__name">${value.title}</div>
+                            <div class="table-contact__email">${value.email}</div>
+                        </div>
+                    </a>
+                `;
+                    break;
+                case "company":
+                    cell.innerHTML = `
+                    <div class="table-text">${value}</div>
+                `;
+                    break;
+                case "progress":
+                    cell.innerHTML = `
+                    <div class="table-progress">
+                        <div class="table-progress__bar"><span style="width: ${value}%"></span></div>
+                        <div class="table-progress__value">${value}%</div>
+                    </div>
+                `;
+                    break;
+                case "details":
+                    cell.innerHTML = `
+                    <div class="table-text details">${value}</div>
+                `;
+                    break;
+                case "datetime":
+                    cell.innerHTML = `
+                    <div class="table-datetime">
+                        <div class="table-datetime__date">${value.date}</div>
+                        <div class="table-datetime__time">${value.time}</div>
+                    </div>
+                `;
+                    break;
+                case "status":
+                    cell.innerHTML = `
+                    <div class="table-status ${value}">${value}</div>
+                `;
+                    break;
+                case "amount":
+                    cell.classList.add("fixed");
+
+                    cell.innerHTML = `
+                    <div class="table-text amount">$${value}</div>
+                `;
+                    break;
+            }
+
+            return cell;
+        }
+
+        // Data Actions
+
+        sort(key, type = "asc") {
+            this.data = this.initial.sort((a, b) => {
+                const valA = this.retrieve(a, key);
+                const valB = this.retrieve(b, key);
+
+                let result;
+                if (typeof valA === "number" && typeof valB === "number") {
+                    result = valA - valB;
+                } else {
+                    result = String(valA).localeCompare(String(valB), undefined, {
+                        numeric: true
+                    });
+                }
+
+                if (key === "datetime") result *= -1;
+
+                return type === "desc" ? -result : result;
+            });
+
+            this.total = this.data.length;
+            this.limit = Math.min(5, this.total);
+            this.update();
+        }
+
+        filter(key, value) {
+            if (value === "all") {
+                this.data = this.initial;
+                this.total = this.initial.length;
+                this.limit = Math.min(5, this.total);
+                this.loadMoreEl.classList.remove("hidden");
+            } else {
+                this.data = this.initial.filter(
+                    (item) => this.retrieve(item, key) === value
+                );
+                this.total = this.data.length;
+                this.limit = Math.min(5, this.total);
+            }
+
+            this.update();
+        }
+
+        search(keys, value) {
+            if (!value) {
+                this.data = this.initial;
+                this.total = this.initial.length;
+                this.limit = Math.min(5, this.total);
+                this.update();
+
+                return;
+            }
+
+            const search = value.toLowerCase().replaceAll(" ", "");
+
+            this.data = this.initial.filter((item) => {
+                const values = keys.map((key) => {
+                    return this.retrieve(item, key).toLowerCase().replaceAll(" ", "");
+                });
+
+                return values.some((val) => val.includes(search));
+            });
+
+            this.total = this.data.length;
+            this.limit = Math.min(this.limit, this.total);
+            this.update();
+        }
+
+        select(value) {
+            const updateCheckboxes = () => {
+                const checkboxes = this.body.querySelectorAll('input[type="checkbox"]');
+                if (!checkboxes.length) return;
+                checkboxes.forEach((checkbox) => (checkbox.checked = value));
+            };
+
+            updateCheckboxes();
+
+            const observer = new MutationObserver(updateCheckboxes);
+            observer.observe(this.body, { childList: true, subtree: true });
+        }
+
+        // Table Actions
+
+        validate() {
+            if (!this.table) throw new Error("Mount point is not defined");
+            if (!this.body) throw new Error("Table body is not defined");
+
+            if (!this.empty) console.warn('"Nothing Found" template is not defined');
+        }
+
+        loadMore() {
+            const prevLimit = this.limit;
+            this.limit = Math.min(this.limit + 5, this.total);
+
+            if (this.limit >= this.total) {
+                this.loadMoreEl.classList.add("hidden");
+            }
+
+            this.appendRows(prevLimit);
+        }
+
+        appendRows(start) {
+            const rows = this.data.slice(start, this.limit).map((item, index) => {
+                const row = document.createElement("div");
+
+                row.classList.add("table__tr", "animate");
+                row.style.animationDelay = `${index * 0.2}s`;
+
+                this.columns.forEach((key) => {
+                    const cell = this.create(key, item[key]);
+
+                    row.appendChild(cell);
+                });
+
+                return row;
+            });
+
+            rows.forEach((row) => this.body.appendChild(row));
+
+            if (this.limitEl) this.limitEl.textContent = this.limit;
+        }
+
+        update() {
+            const rows = [];
+
+            this.data.slice(0, this.limit).forEach((item) => {
+                const row = document.createElement("div");
+
+                row.classList.add("table__tr");
+                row.classList.add("animate");
+
+                this.columns.forEach((key) => {
+                    const cell = this.create(key, item[key]);
+
+                    row.appendChild(cell);
+                });
+
+                rows.push(row);
+            });
+
+            this.rows = rows;
+
+            this.mount();
+
+            if (this.loadMoreEl) {
+                if (this.limit < this.total) {
+                    this.loadMoreEl.classList.remove("hidden");
+                } else {
+                    this.loadMoreEl.classList.add("hidden");
+                }
+            }
+        }
+
+        mount() {
+            this.body.innerHTML = "";
+
+            if (!this.rows.length && this.empty) {
+                const empty = this.empty.content.cloneNode(true);
+
+                this.body.appendChild(empty);
+
+                return;
+            }
+
+            this.rows.forEach((row, index) => {
+                setTimeout(() => {
+                    this.body.appendChild(row);
+                }, 200 * index);
+            });
+
+            if (this.limitEl) this.limitEl.textContent = this.limit;
+            if (this.totalEl) this.totalEl.textContent = this.total;
+        }
+    }
+
+    document.addEventListener("DOMContentLoaded", async () => {
+        try {
+            const response = await fetch(
+                "https://bato-web-agency.github.io/bato-shared/table-view/assets/data.json?v=1"
+            );
+
+            const data = await response.json();
+
+            const table = new Table({ data: data.data });
+
+            /**
+             * Table controls
+             */
+
+            /* Checkboxes */
+            const selection = document.querySelector("#head [data-control=checkbox]");
+
+            selection.addEventListener("change", () => {
+                if (selection.dataset.select === "all") {
+                    table.select(true);
+                    selection.setAttribute("data-select", "none");
+                    return;
+                }
+
+                if (selection.dataset.select === "none") {
+                    table.select(false);
+                    selection.setAttribute("data-select", "all");
+                    return;
+                }
+            });
+
+            /* Sort */
+            const controls = [
+                ...document.querySelectorAll(
+                    "#head [data-control]:not([data-control=checkbox])"
+                )
+            ];
+
+            controls.forEach((control) => {
+                function sortHandler() {
+                    table.sort(control.dataset.control, control.dataset.sort);
+
+                    if (control.dataset.sort === "desc") {
+                        control.setAttribute("data-sort", "asc");
+                        return;
+                    }
+
+                    if (control.dataset.sort === "asc") {
+                        control.setAttribute("data-sort", "desc");
+                        return;
+                    }
+                }
+
+                control.addEventListener("click", debounce(sortHandler, 250));
+            });
+
+            /* Search */
+            const search = document.querySelector("#filter-search input[name=search]");
+
+            function searchHandler() {
+                table.search(["invoice", "contact", "company"], search.value.toLowerCase());
+            }
+
+            search.addEventListener("input", debounce(searchHandler, 500));
+
+            /* Filter */
+            const select = document.querySelector("#filter-select");
+
+            document.addEventListener("click", (event) => {
+                event.stopPropagation();
+                select.classList.remove("active");
+            });
+
+            const trigger = select.querySelector("input[name=status]");
+            const options = [...select.querySelectorAll("[data-option]")];
+
+            select.addEventListener("click", (event) => {
+                event.stopPropagation();
+                select.classList.toggle("active");
+            });
+
+            options.forEach((option) => {
+                option.addEventListener("click", (event) => {
+                    event.stopPropagation();
+                    options.forEach((option) => option.classList.remove("selected"));
+
+                    trigger.value = option.textContent;
+                    trigger.dispatchEvent(new Event("change"));
+
+                    option.classList.add("selected");
+                    select.classList.remove("active");
+                });
+            });
+
+            function filterHandler() {
+                table.filter("status", trigger.value.toLowerCase());
+            }
+
+            trigger.addEventListener("change", debounce(filterHandler, 250));
+        } catch (error) {
+            console.error("Error loading JSON:", error);
+        }
+    });
+
+</script>
