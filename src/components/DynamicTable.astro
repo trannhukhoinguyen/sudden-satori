@@ -1,0 +1,428 @@
+---
+import masters from '../../src/data/masters.ts';
+
+const sampleStructureOfMaster = masters[0];
+const sampleColumns = Object.keys(sampleStructureOfMaster)?.map(key => key.charAt(0).toUpperCase() + key.slice(1));
+---
+
+<body>
+  <div class="table-container" role="region" aria-label="Master data" tabindex="0">
+    <table aria-label="Masters">
+      <!--<caption>Danh sách Thiền sư</caption>-->
+      <thead>
+        <tr>
+          {
+            sampleColumns?.map(key => <th scope="col">
+              <button class="sort-button" aria-label={`Sort by ${key}`}>
+                {key}
+                <svg class="sort-icon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path fill="currentColor" d="M7 10l5 5 5-5z"/>
+                </svg>
+              </button>
+              <input type="text" class="column-filter" placeholder={`Filter by ${key}`} aria-label={`Filter by ${key}`}>
+            </th>)
+          }
+        </tr>
+      </thead>
+      <tbody>
+      <!-- Sample data - in practice, this would be populated dynamically -->
+      </tbody>
+    </table>
+    <div class="pagination" role="navigation" aria-label="Pagination">
+      <div class="pagination-info">
+        Showing <span class="current-range">1-10</span> of <span class="total-items">0</span> items
+      </div>
+      <div class="pagination-controls">
+        <button class="prev-page" aria-label="Previous page" disabled>Previous</button>
+        <span class="current-page" aria-label="Current page">Page 1</span>
+        <button class="next-page" aria-label="Next page">Next</button>
+        <select class="page-size-select" aria-label="Items per page">
+          <option value="5">5 per page</option>
+          <option value="10" selected>10 per page</option>
+          <option value="25">25 per page</option>
+          <option value="50">50 per page</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</body>
+
+<style>
+.table-container {
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 2rem auto;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  max-height: 500px;
+  color: #0a0a0a;
+  border: 1px solid #0a0a0a;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: system-ui, -apple-system, sans-serif;
+
+    caption {
+      padding: 1rem;
+      font-size: 1.25rem;
+      font-weight: 600;
+      text-align: left;
+      background: #f8f9fa;
+      border-radius: 8px 8px 0 0;
+      position: sticky;
+      top: 0;
+      z-index: 3;
+    }
+
+    thead {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      background: #f8f9fa;
+    }
+
+    th {
+      background: #f8f9fa;
+      font-weight: 600;
+      text-align: left;
+      padding: 1rem;
+      border-bottom: 2px solid #dee2e6;
+
+      /* Filter inputs */
+      .column-filter {
+        width: 100%;
+        padding: 0.5rem;
+        margin-top: 0.5rem;
+        border: 1px solid #dee2e6;
+        border-radius: 4px;
+        font-size: 0.875rem;
+      }
+
+      .column-filter:focus {
+        outline: 2px solid #4299e1;
+        border-color: #4299e1;
+      }
+
+      /* Sort button styles */
+      .sort-button {
+        background: none;
+        border: none;
+        padding: 0.25rem 0.5rem;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        font-weight: 600;
+        color: inherit;
+      }
+
+      .sort-button:hover {
+        background: #e9ecef;
+        border-radius: 4px;
+      }
+
+      .sort-icon {
+        margin-left: 0.5rem;
+        width: 0.75rem;
+        height: 0.75rem;
+        transition: transform 0.2s;
+      }
+    }
+
+    /* Focus styles */
+    th:focus,
+    td:focus {
+      outline: 2px solid #4299e1;
+      outline-offset: -2px;
+    }
+  }
+
+  td {
+    min-width: 150px;
+    padding: 1rem;
+    border-bottom: 1px solid #dee2e6;
+  }
+
+  tbody tr:hover {
+    background-color: #f8f9fa;
+  }
+
+  /* Pagination styles */
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+    position: sticky;
+    bottom: 0;
+    z-index: 2;
+  }
+
+  .pagination-controls {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  .pagination button {
+    padding: 0.5rem 1rem;
+    border: 1px solid #dee2e6;
+    background: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .pagination button:hover:not(:disabled) {
+    background: #e9ecef;
+  }
+
+  .pagination button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .page-size-select {
+    padding: 0.5rem;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    margin-left: 0.5rem;
+  }
+
+  /* Responsive styles */
+  @media (max-width: 640px) {
+    th, td {
+      padding: 0.75rem;
+    }
+
+    caption {
+      font-size: 1rem;
+    }
+
+    .pagination {
+      flex-direction: column;
+      gap: 1rem;
+    }
+  }
+}
+</style>
+
+<script is:inline>
+  const inlineMasters = {masters};
+  console.log('inlineMasters', inlineMasters)
+  const sampleStructureOfMaster =  inlineMasters[0];
+  const sampleColumns = Object.keys(sampleStructureOfMaster)?.map(key => key.charAt(0).toUpperCase() + key.slice(1));
+
+  const masterData = inlineMasters?.map(master => ({
+    nameVi: master.nameVi || "?",
+    nameEn: master.nameEn || "?",
+    nameZh: master.nameZh || "?",
+    nameJp: master.nameJp || "?",
+    era: master.era || "?",
+    country: master.country || "?" || ['Chinese', 'Indian', 'Vietnamese', 'Korean', 'Japanese'][Math.floor(Math.random() * 5)],
+    schools: master.schools?.join(', ') || "" || ['Linji', 'Guiyang', 'Caodong', 'Fayan', 'Yunmen'][Math.floor(Math.random() * 5)],
+    branchSchool: master.branchSchool || "?",
+    teacher: master.teacher || "?",
+    disciples: master.disciples?.join(', ') || "?",
+  }));
+
+  // Table state
+  let currentPage = 1;
+  let pageSize = 10;
+  let sortColumn = null;
+  let sortDirection = 'ascending';
+  let filters = {
+    nameVi: '',
+    nameEn: '',
+    nameZh: '',
+    nameJp: '',
+    era: '',
+    country: '',
+    schools: '',
+    branchSchool: '',
+    teacher: '',
+    disciples: '',
+  };
+
+  // DOM elements
+  const table = document.querySelector('table');
+  const tbody = table.querySelector('tbody');
+  const prevButton = document.querySelector('.prev-page');
+  const nextButton = document.querySelector('.next-page');
+  const pageSizeSelect = document.querySelector('.page-size-select');
+  const currentRange = document.querySelector('.current-range');
+  const totalItems = document.querySelector('.total-items');
+  const filterInputs = document.querySelectorAll('.column-filter');
+
+  // Filter data
+  function filterData(data) {
+    return data.filter(item =>
+        item.nameVi.toLowerCase().includes(filters.nameVi.toLowerCase()) &&
+        item.nameEn.toLowerCase().includes(filters.nameEn.toLowerCase()) &&
+        item.nameZh.toLowerCase().includes(filters.nameZh.toLowerCase()) &&
+        item.nameJp.toLowerCase().includes(filters.nameJp.toLowerCase()) &&
+          item.country.toLowerCase().includes(filters.country.toLowerCase()) &&
+          item.teacher.toLowerCase().includes(filters.teacher.toLowerCase()) &&
+          item.branchSchool.toLowerCase().includes(filters.branchSchool.toLowerCase()) &&
+            item.schools?.map(school => school.toLowerCase().includes(filters.schools.toLowerCase())) &&
+            item.disciples?.map(disciple => disciple.toLowerCase().includes(filters.disciples.toLowerCase()))
+    );
+  }
+
+  // Sort data
+  function sortData(data) {
+    if (!sortColumn) return data;
+
+    return [...data].sort((a, b) => {
+      const aValue = a[sortColumn].toLowerCase();
+      const bValue = b[sortColumn].toLowerCase();
+      const direction = sortDirection === 'ascending' ? 1 : -1;
+      return aValue.localeCompare(bValue) * direction;
+    });
+  }
+
+  // Paginate data
+  function paginateData(data) {
+    const start = (currentPage - 1) * pageSize;
+    return data.slice(start, start + pageSize);
+  }
+
+  // Update table
+  function updateTable() {
+    let filteredData = filterData(masterData);
+    const totalFilteredItems = filteredData.length;
+
+    filteredData = sortData(filteredData);
+    const paginatedData = paginateData(filteredData);
+
+    // Update pagination info
+    totalItems.textContent = totalFilteredItems.toString();
+    const start = Math.min((currentPage - 1) * pageSize + 1, totalFilteredItems);
+    const end = Math.min(currentPage * pageSize, totalFilteredItems);
+    currentRange.textContent = `${start}-${end}`;
+
+    // Update pagination buttons
+    prevButton.disabled = currentPage === 1;
+    nextButton.disabled = end >= totalFilteredItems;
+
+    // Clear existing rows
+    tbody.innerHTML = '';
+
+    // Add new rows
+    paginatedData.forEach(item => {
+      const row = document.createElement('tr');
+      Object.values(item).forEach(value => {
+        const cell = document.createElement('td');
+        cell.textContent = value;
+        cell.setAttribute('tabindex', '0');
+        row.appendChild(cell);
+      });
+      tbody.appendChild(row);
+    });
+
+    // Announce update to screen readers
+    announceToScreenReader(`Đang xem vị thứ ${start} đến ${end} trong ${totalFilteredItems} vị`);
+  }
+
+  // Event listeners
+  prevButton.addEventListener('click', () => {
+    if (currentPage > 1) {
+      currentPage--;
+      updateTable();
+    }
+  });
+
+  nextButton.addEventListener('click', () => {
+    currentPage++;
+    updateTable();
+  });
+
+  pageSizeSelect.addEventListener('change', (e) => {
+    pageSize = parseInt(e.target.value);
+    currentPage = 1;
+    updateTable();
+  });
+
+  // Setup column filters
+  Array.from(filterInputs).forEach((input, index) => {
+    const column = sampleColumns[index];
+    input.addEventListener('input', (e) => {
+      filters[column] = e.target.value;
+      currentPage = 1;
+      updateTable();
+    });
+  });
+
+  // Setup sorting
+  const sortButtons = document.querySelectorAll('.sort-button');
+  Array.from(sortButtons).forEach((button, index) => {
+    const column = sampleColumns[index];
+    button.addEventListener('click', () => {
+      if (sortColumn === column) {
+        sortDirection = sortDirection === 'ascending' ? 'descending' : 'ascending';
+      } else {
+        sortColumn = column;
+        sortDirection = 'ascending';
+      }
+
+      // Update sort indicators
+      Array.from(sortButtons).forEach(btn => btn.removeAttribute('aria-sort'));
+      button.setAttribute('aria-sort', sortDirection);
+
+      updateTable();
+    });
+  });
+
+  // Keyboard navigation
+  function handleTableKeyboard(e) {
+    const currentCell = e.target;
+    if (!currentCell || !currentCell.parentElement) return;
+
+    const currentRow = currentCell.parentElement;
+    const rows = Array.from(table.rows || []);
+    const currentRowIndex = rows.indexOf(currentRow);
+    const currentCellIndex = Array.from(currentRow.cells || []).indexOf(currentCell);
+
+    switch (e.key) {
+      case 'ArrowRight':
+        if (currentRow.cells[currentCellIndex + 1]) {
+          currentRow.cells[currentCellIndex + 1].focus();
+        }
+        break;
+      case 'ArrowLeft':
+        if (currentRow.cells[currentCellIndex - 1]) {
+          currentRow.cells[currentCellIndex - 1].focus();
+        }
+        break;
+      case 'ArrowDown':
+        if (rows[currentRowIndex + 1]) {
+          rows[currentRowIndex + 1].cells[currentCellIndex].focus();
+        }
+        break;
+      case 'ArrowUp':
+        if (rows[currentRowIndex - 1]) {
+          rows[currentRowIndex - 1].cells[currentCellIndex].focus();
+        }
+        break;
+    }
+  }
+
+  table.addEventListener('keydown', handleTableKeyboard);
+
+  // Helper function to announce changes to screen readers
+  function announceToScreenReader(message) {
+    const announcement = document.createElement('div');
+    announcement.setAttribute('aria-live', 'polite');
+    announcement.setAttribute('class', 'sr-only');
+    announcement.textContent = message;
+    document.body.appendChild(announcement);
+    setTimeout(() => announcement.remove(), 1000);
+  }
+
+  // Initial table render
+  updateTable();
+</script>

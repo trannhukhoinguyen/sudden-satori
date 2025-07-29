@@ -77,11 +77,11 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
     <TableOfContents headings={tocHeadings} />
 
     <!-- Nút BackToTop & TOC -->
-    <BackToTopWithTOC tocSelector=".table-of-contents" client:only />
+    <BackToTopWithTOC tocSelector=".table-of-contents" />
 
     <!-- Media Area -->
     <div class="post-content">
-      <!-- <MediaArea entry={post} /> -->
+      <MediaArea entry={post} />
     </div>
 
     <!-- Content -->

@@ -8,7 +8,16 @@
     "dist"
   ],
   "compilerOptions": {
-    "jsx": "react-jsx",
-    "jsxImportSource": "preact"
+    "types": ["astro/client"],
+    "baseUrl": ".",
+    "paths": {
+      "@/images/*": ["public/images/*"],
+      "@/data/*": ["src/data/*"],
+      "@/components/*": ["src/components/*"],
+      "@/content/*": ["src/content/*"],
+      "@/styles/*": ["src/styles/*"],
+      "@/utils/*": ["src/utils/*"],
+      "@/*": ["./*"],
+    }
   }
 }

@@ -14,37 +14,20 @@ draft: false
 
 KINH THỦ LĂNG NGHIÊM TÔNG THÔNG
 
-TÂY TẠNG TỰ - BÌNH DƯƠNG
-Đời Đường: Ngài Bát Lạt Mật Đế, Sa Môn xứ Thiên Trúc dịch.
-
-Ngài Di Già Thích Ca, Sa Môn xứ Ô Trường dịch ngữ.
-
-Trần Chánh Nghị Đại Phu Phòng Dung, Bồ Tát Giới Đệ Tử chép.
-
-Đời Minh: Bồ Tát Giới Đệ Tử Tiền Phụng Huấn Đại Phu, Lễ Bộ Từ Tế Thanh Sử Tư Viên Ngoại Lang, Nam Nhạc Tăng Phụng Nghi tông thông.
-
-Việt Dịch : Thubten Osall Lama - Nhẫn Tế thiền sư
-
-Biên tập : Chúng đệ tử Đời Thứ Ba - Tây Tạng Tự ẤN BẢN LẦN THỨ NHẤT 1997
+- Đời Đường: Ngài Bát Lạt Mật Đế, Sa Môn xứ Thiên Trúc dịch.
+- Ngài Di Già Thích Ca, Sa Môn xứ Ô Trường dịch ngữ.
+- Trần Chánh Nghị Đại Phu Phòng Dung, Bồ Tát Giới Đệ Tử chép.
+- Đời Minh: Bồ Tát Giới Đệ Tử Tiền Phụng Huấn Đại Phu, Lễ Bộ Từ Tế Thanh Sử Tư Viên Ngoại Lang, Nam Nhạc Tăng Phụng Nghi tông thông.
+- Việt Dịch : Thubten Osall Lama - Nhẫn Tế thiền sư
+- Biên tập : Chúng đệ tử Đời Thứ Ba - Tây Tạng Tự ẤN BẢN LẦN THỨ NHẤT 1997
 
 ## Lời Nói Đầu
 
-Bộ kinh Lăng Nghiêm Tông Thông này được Ngài Thubten Osall Lama, tức Nhẫn Tế thiền sư, Đức Sơ Tổ Tây Tạng Tự, dịch và chú thích thêm từ bản Hán văn sang Việt văn vào năm 1944, đến năm 1950 thì hoàn tất.
-
-Nay, với mong muốn để nhiều người có cơ hội được đọc bộ kinh này, vì muốn được sự liễu ngộ Phật Đạo mà không đọc đến bộ kinh Lăng Nghiêm Tông Thông thì khó bề được mỹ mãn. Nên chúng tôi, chúng đệ tử Tây Tạng Tự đời thứ ba, sau khi được sự chấp thuận của Thầy Bổn Sư, Hòa Thượng Thượng Tịch Hạ Chiếu, Nhị Tổ Tây Tạng Tự, đã biên tập lại bản dịch của Đức Sơ Tổ Thubten Osall Lama theo ngữ văn đương thời.
-
-Trong công tác biên tập này, chúng tôi xin biết ơn chư tôn đức đã dịch kinh Lăng Nghiêm và các kinh khác sang Việt văn. 
-Nhờ công trình của quí vị mà chúng tôi có được những danh từ chính xác, những chỉ dẫn bổ ích hỗ trợ cho công việc vốn khó khăn và quá sức chúng tôi.
-
-Chúng tôi xin sám hối với chư Tổ và quí độc giả về những lỗi lầm ắt có trong việc giản lược một số chú thích và biên tập lại bản dịch nguyên được Ngài Thubten Osall Lama trong Định, Huệ viết ra. Ngưỡng mong nhận được những chỉ giáo quí báu của các bậc thiện tri thức.
-
-Nguyện đem công đức này, hướng về khắp tất cả, đệ tử và chúng sanh đều tròn thành Phật Đạo.
-
-Chúng đệ tử đời thứ ba Tây Tạng Tự.
+Bộ kinh Lăng Nghiêm Tông Thông này được Ngài Thubten Osall Lama, (Nhẫn Tế thiền sư), Đức Sơ Tổ Tây Tạng Tự, dịch và chú thích, Hán sang Việt, 1944 - 1950.
 
 ## TIỂU SỬ NGÀI THUBTEN OSALL LAMA (NHẪN TẾ THIỀN SƯ)
 
-Ngài sanh ngày Rằm tháng Bảy năm Kỷ Sửu (1888), tại làng An Thạnh thuộc Búng - Lái Thiêu Tỉnh Bình Dương, trong một gia đình khá giả.
+Ngài sanh ngày rằm tháng 7 năm Kỷ Sửu (1888), tại làng An Thạnh thuộc Búng - Lái Thiêu Tỉnh Bình Dương, trong một gia đình khá giả.
 
 Từ thơ ấu Ngài đã thọ quy y với Hòa Thượng trụ trì Chùa Sắc Tứ Thiên Tôn Tự (ở Búng), được đặt pháp danh Nhẫn Tế. Sau đó, Ngài thọ giới cụ túc với Hòa Thượng Thiên Thai (ở Bà Rịa) làm chủ Giới Đàn, được đặt pháp hiệu Minh Tịnh.
 
@@ -76,32 +59,19 @@ Vị kế thế Ngài là Hoà Thượng Thượng Tịch Hạ Chiếu hiện tr
 
 Đề tựa : Núi Nam Nhạc, Quan Trương Kim Giản tên là Tăng Phụng Nghi, Thuấn Trưng Phụ.
 
-Xưa, Ngài Thiên Thai Trí Giả theo học Đạo thiền sư Huệ Tư ở núi Nam Nhạc, đắc Pháp Hoa Tam Muội, thấy được pháp hội Linh Sơn nghiễm nhiên chưa tan. Từ đó xem Kinh, Luật hoát nhiên thông suốt. Đến khi Ngài giải thích ý nghĩa sáu Căn trong sạch trong kinh Pháp Hoa thì trầm ngâm rất lâu. Có một vị tăng người Ấn nói với Ngài : “Chỉ có kinh Thủ Lăng Nghiêm là nói rõ ràng công đức của sáu Căn, đủ để y chứng”. Từ đó, Ngài Trí Giả khao khát ngưỡng mộ. Suốt mười sáu năm, mỗi sáng tối hướng về phương Tây lễ bái. 
-phía trái chùa Thiên Thai ở núi Nam Nhạc vẫn còn Đài Kinh. Sau Ngài hơn một trăm năm, kinh Lăng Nghiêm mới vào Trung Quốc. Kinh do Tể Tướng
-
-
-
-
-Phòng Dung ghi chép, văn tự tao nhã, bởi thế các bậc học sĩ đại phu đều tụng kinh này. Tôi từng ba lần đến Bái Kinh Đài, lần nào cũng bồi hồi chẳng muốn về, thầm than : “Người xưa ngưỡng mộ kinh này hơn mười mấy năm mà chẳng được thấy. Nay Lăng Nghiêm bày đầy thì người ta lại chẳng hề xem ! Tại sao thế ?”. Nhơn đó, tôi bèn phát tâm viết bộ Lăng Nghiêm lên đá, thuê thợ chạm rồi xếp thành một tòa thạch thất, khiến người đến viếng Bái Kinh Đài sẽ đọc được mà đều nói : Kinh đã đến đây rồi
+Xưa, Ngài Thiên Thai Trí Giả theo học Đạo thiền sư Huệ Tư ở núi Nam Nhạc, đắc Pháp Hoa Tam Muội, thấy được pháp hội Linh Sơn nghiễm nhiên chưa tan. 
+Từ đó xem Kinh, Luật hoát nhiên thông suốt. 
+Đến khi Ngài giải thích ý nghĩa sáu Căn trong sạch trong kinh Pháp Hoa thì trầm ngâm rất lâu. 
+Có một vị tăng người Ấn nói với Ngài : “Chỉ có kinh Thủ Lăng Nghiêm là nói rõ ràng công đức của sáu Căn, đủ để y chứng”. 
+Từ đó, Ngài Trí Giả khao khát ngưỡng mộ. Suốt 16 năm, mỗi sáng tối hướng về phương Tây lễ bái. 
+Phía trái chùa Thiên Thai ở núi Nam Nhạc vẫn còn Đài Kinh. Sau Ngài hơn một trăm năm, kinh Lăng Nghiêm mới vào Trung Quốc. 
+Kinh do Tể Tướng Phòng Dung ghi chép, văn tự tao nhã, bởi thế các bậc học sĩ đại phu đều tụng kinh này. Tôi từng ba lần đến Bái Kinh Đài, lần nào cũng bồi hồi chẳng muốn về, thầm than : “Người xưa ngưỡng mộ kinh này hơn mười mấy năm mà chẳng được thấy. Nay Lăng Nghiêm bày đầy thì người ta lại chẳng hề xem ! Tại sao thế ?”. Nhơn đó, tôi bèn phát tâm viết bộ Lăng Nghiêm lên đá, thuê thợ chạm rồi xếp thành một tòa thạch thất, khiến người đến viếng Bái Kinh Đài sẽ đọc được mà đều nói: Kinh đã đến đây rồi
 
 Như là vì Ngài Trí Giả mà bổ sung cho một sự thiếu sót. Vừa cầm bút định viết, chợt nghĩ : chỗ ta viết đây là chữ, chẳng phải là nghĩa vậy ! Ngài Trí Giả mong bộ Kinh này đến đây là mong
-
-
-
-
 người người hiểu nghĩa của Kinh. Như Ngài Huyền Sa Sư Bị, nhân đọc Lăng Nghiêm mà phát minh tâm yếu, đó là thâm nhập vào nghĩa vậy. Cho đến thiền sư Linh Nham An, Trường Thủy Tuyền, Trúc Am Khuê, Hoàng Long Nam, Thiệu Long An Dân... đều do Lăng Nghiêm mà ngộ. Như vậy là các Ngài đã không cô phụ sự truyền sang của bộ kinh này. Nếu theo văn mà giải nghĩa, chú thích câu chữ, đến mấy mươi nhà mà nghĩa kinh càng ngày càng xa, đó là lỗi lầm do chẳng cầu ở tâm mình. Nếu tỏ ngộ tự tâm, thì tuy là kinh này chưa đến, mà chỗ y giáo lập nghĩa của Ngài Trí Giả, mỗi mỗi đều hợp với Lăng Nghiêm. Không ngộ được tự tâm, tuy là có kinh Lăng
-
-
-
-
 Nghiêm trước mặt, thì cũng như kinh ở tại Ấn vậy. Tức là kinh điển đầy nhà mà nào có ích ! Việc nhà của các thiền sư là quét sạch văn tự kiến giải cho là chẳng đủ để sùng thượng, thật có lý lắm thay ! Nhưng khi tiếp dẫn hàng sơ cơ, xuất lời thổ khí, lời lẽ ý tứ thật tợ Lăng Nghiêm. Cho đến sự phát minh hướng thượng, chứng nhập Bồ Đề, thì cùng với hai mươi lăm chỗ chứng viên thông, cơ duyên không khác. Tức là chẳng tụng Lăng Nghiêm, mà Lăng Nghiêm đã sẵn đủ hiện giờ. Tức là Lăng Nghiêm chưa đến cõi này, mà cõi này chẳng phải là chưa có Lăng Nghiêm.
 
-Tôi chẳng biết tự lượng sức, góp khắp lời của Tông Môn, phối hợp vào kinh
-
-
-
-
-văn. Hoặc để thầm hợp, hoặc để cùng thấy, hoặc suy rộng ý kinh, hoặc bày tỏ chỗ chưa bày tỏ. Tôi cũng không ngờ mình làm nổi. Trong khoảng trời đất làm sao có được thứ nghị luận này. Âu cũng do túc nguyện nhiều đời vậy.
+Tôi chẳng biết tự lượng sức, góp khắp lời của Tông Môn, phối hợp vào kinh văn. Hoặc để thầm hợp, hoặc để cùng thấy, hoặc suy rộng ý kinh, hoặc bày tỏ chỗ chưa bày tỏ. Tôi cũng không ngờ mình làm nổi. Trong khoảng trời đất làm sao có được thứ nghị luận này. Âu cũng do túc nguyện nhiều đời vậy.
 
 Đây là tôi nhờ các vị Lão Túc để làm rõ nghĩa kinh chứ chẳng phải tự do tôi, và lấy Thiền Tông để soi sáng kinh chớ chẳng phải lấy văn tự kiến giải mà giảng. Bèn đặt tên là Tông Thông[01]. Tông Thông cùng với Thuyết Thông. Phải tự đắc Bản Tâm thì mới cùng với các bậc Lão Túc mặc áo gặp nhau. Chẳng những một hội Lăng Nghiêm nghiễm nhiên chưa tan, mà Ngài Trí Giả đến nay cũng vẫn còn đó.
 
@@ -163,35 +133,24 @@ Như Lai, không thể trở lại thấy. Chỉ cần ông không tạo ra cái
 
 Lại có vị tăng hỏi Tổ Bá Trượng : “Bồ Tát  Vô Biên  Thân  không thấy Đảnh Tướng của Như Lai là vì sao ?”
 
-
 Tổ Trượng rằng : “Vì gây ra cái Thấy Hữu Biên, cái Thấy Vô Biên, nên chẳng thấy được Đảnh Tướng Như Lai. Chỉ như bây giờ đây trọn không có cả thảy cái Thấy Hữu Vô, cũng không phải là không có cái Thấy, thì đó là thấy Đảnh Tướng”.
 
 Xem hai vị tôn túc nói ra nghĩa Phật Đảnh, thật như viên ngọc tròn lăn trên bàn. Nếu biết chỗ ấy mới cho là trên cửa Đảnh, có được con mắt lẻ(06). Đã nói là Như Lai Mật Nhân, tức chẳng cậy mượn sự Tu Chứng. Lại nói Tu chứng liễu nghĩa(07) là để phân biệt với Chẳng có liễu nghĩa(08) vậy. Như Lai, ấy là nói về quả vậy. Kinh Kim Cang : “Nếu có người nói “Như Lai có đến, có đi, có ngồi, có nằm”, thì người
-
-
-
-
 ấy chẳng hiểu nghĩa chỗ ta nói. Vì sao thế ? Như Lai là không từ chỗ nào đến, cũng không đi về đâu, nên gọi là Như Lai”. “Đến không từ chỗ nào, đi không về đâu”, quả là vật gì ? Thế mới gọi là Mật vậy. Phật Đảnh Thần Chú là Mật Ngữ của Như Lai, thì hai cái Mật (Mật Ngữ và Như Lai) đó không phải là hai. Lấy cái Mật này làm Nhân, tức lấy cái Mật ấy đắc quả. Như đóa bông sen, nhân quả đồng thời sẵn đủ. Dùng cái này mà tu, thì tu mà không tu. Dùng cái này để chứng, thì chứng mà không chứng. Kinh nói “Nào mượn sự cực nhọc tu chứng”, đây tức là ý chỉ của Liễu Nghĩa. Nếu không được như thế là vì chưa liễu ngộ vậy.
-
-
-
 
 Xưa, Huệ Minh đuổi kịp Đức Lục Tổ để dành y bát.
 
-Tổ dạy : “Ông đã vì Pháp mà đến, hãy an dừng các duyên, không sanh một niệm, ta sẽ vì ông mà nói”.
+Tổ dạy: “Ông đã vì Pháp mà đến, hãy an dừng các duyên, không sanh một niệm, ta sẽ vì ông mà nói”.
 
-Ông Huệ Minh im lặng hồi lâu, Tổ nói
+Ông Huệ Minh im lặng hồi lâu, Tổ nói:
 
-	“Không nghĩ thiện, không nghĩ ác, ngay khi ấy, là Bản Lai Diện Mục(09) của Minh Thượng Tọa”.
+> Không nghĩ thiện, không nghĩ ác, ngay khi ấy, là Bản Lai Diện Mục(09) của Minh Thượng Tọa.
 
 Ông Huệ Minh nghe xong, đại ngộ.
 
-Lại hỏi : “Ngoài lời mật, ý mật ấy, còn cái ý mật nào không ?”
+Lại hỏi: “Ngoài lời mật, ý mật ấy, còn cái ý mật nào không ?”
 
-Tổ đáp : “Đã nói cùng ông, tức chẳng phải Mật. Nếu ông soi trở lại, thì Mật ở tại bên ông”.
-
-40
-
+Tổ đáp: “Đã nói cùng ông, tức chẳng phải Mật. Nếu ông soi trở lại, thì Mật ở tại bên ông”.
 
 Thầy Minh thưa : “Tôi mặc dầu ở Huỳnh Mai, mà thật chưa tỏ ngộ được mặt mũi của mình. Nay nhờ ơn chỉ bày, như người uống nước, lạnh nóng tự biết. Nay hành giả tức là thầy của tôi vậy”.
 
@@ -203,17 +162,11 @@ Tổ An nói : “Sao không hỏi cái ý của chính ông?”
 
 Ngài bèn hỏi : “Thế nào là ý của chính mình ?”
 
-41
-
-
 Tổ Sơn đáp : “Cần quán xét cái Mật Nhiệm tạo nên cái Dụng”.
 
 Hỏi : “Như thế nào là cái Mật Nhiệm tạo nên cái Dụng ?”
 
 Tổ Sơn dùng mắt mở, nhắm chỉ bày đó.
-
-
-
 
 Sư Nhượng không lãnh hội được. Tổ Sơn bèn bảo Ngài ra mắt Đức Lục Tổ.
 
@@ -227,9 +180,6 @@ Trải qua tám năm, mới bạch với Tổ rằng : “Tôi đã có chỗ am
 
 Tổ hỏi : “Như thế nào ?”
 
-42
-
-
 Ngài đáp : “Nói giống như một vật là chẳng trúng !”
 
 Tổ hỏi : “Lại có thể tu chứng chăng ?”
@@ -242,84 +192,61 @@ Như hai vị tôn túc ấy, khế hợp sâu xa cái Mật Ý, được Tu Ch�
 
 Sau, có vị sư hỏi Tổ Bá Trượng : “Trước đến giờ, chư Tổ đều có Mật Ngữ trao truyền cho nhau là thế nào ?”
 
-43
-
-
 Tổ đáp : “Không có lời Mật. Như Lai không có Bí Mật Tạng. Chỉ như bây giờ soi tỏ ý nghĩa cho rõ ràng, tìm kiếm hình tướng, rõ là bất khả đắc, đó là Mật Ngữ. Từ bậc Tu Đà Hoàn (Nhập Lưu) trở lên cho đến Thập Địa, bất quá chỉ có Chữ và Lời (Ngữ Cú), còn là thuộc về pháp Trần Cấu hết thảy. Chỉ có lời nói, còn trọn cả đều nằm trong phiền não. Chỉ có lời nói, còn trọn cả đều thuộc về Bất Liễu Nghĩa. Chỉ có lời nói, tức chẳng được chấp nhận vậy. Liễu Nghĩa Giáo đều chẳng phải là gì hết thảy (Phi), thì còn tìm kiếm Mật Ngữ nào ?”
 
-Theo chỗ thấy của Tổ Bá Trượng, thì một chữ Mật cũng phải mửa ra luôn, Liễu Nghĩa Giáo cũng chẳng lập, mới
-
-44
-
-
-có thể gọi là hướng lên ngàn Phật Đảnh mà đi.
+Theo chỗ thấy của Tổ Bá Trượng, thì một chữ Mật cũng phải mửa ra luôn, Liễu Nghĩa Giáo cũng chẳng lập, mới có thể gọi là hướng lên ngàn Phật Đảnh mà đi.
 
 Các vị Bồ Tát muôn Hạnh chưa lìa tu chứng thì sao lại gọi là “Hết thảy rốt ráo kiên cố” ? Sở dĩ như vậy vì các Bồ Tát chưa tới địa vị Quán Đảnh, phải có tu, có chứng. Đến địa vị Quán Đảnh rồi, tức là siêu nhập đồng đẳng bậc Diệu Giác, thì có cái gì tu chứng ? Các Hành tuy vô thường, nhưng từ trong Diệu Giác lưu xuất ra tất cả sự pháp, đương xứ tịch diệt, nên gọi là rốt ráo kiên cố.
 
-Kinh nói “Có cái Tam Ma Địa(11) (Chánh Định), gọi là Đại Phật Đảnh Thủ Lăng Nghiêm Vương, sẵn đủ muôn Hạnh. Mười phương Như Lai do
+Kinh nói “Có cái Tam Ma Địa (Chánh Định), gọi là Đại Phật Đảnh Thủ Lăng Nghiêm Vương, sẵn đủ muôn Hạnh. 
+Mười phương Như Lai do một cửa này mà siêu xuất, đây là con đường Diệu Trang Nghiêm”. 
+Tam Ma Đề này là Đại Định Thủ Lăng Nghiêm, lối Diệu Trang Nghiêm sẵn đủ muôn Hạnh, chẳng phải rời lìa muôn Hạnh mà riêng có cái gọi là Định. 
+Tất cả đều Định, nên gọi là tất cả sự rốt ráo kiên cố. Đức Phó Đại Sĩ, ngày thì kinh doanh gây tạo, đêm thì hành Đạo. 
+Thấy Đức Thích Ca, Đức Kim Túc, Đức Định Quang ba vị Phật phóng quang phủ lên mình Ngài. Đại Sĩ mới nói : “Ta được Định Thủ Lăng Nghiêm”. Thuở đó, kinh này chưa đến mà tên Định đã nêu, lạ lùng thay.
 
-45
-
-
-một cửa này mà siêu xuất, đây là con đường Diệu Trang Nghiêm”. Tam Ma Đề này là Đại Định Thủ Lăng Nghiêm, lối Diệu Trang Nghiêm sẵn đủ muôn Hạnh, chẳng phải rời lìa muôn Hạnh mà riêng có cái gọi là Định. Tất cả đều Định, nên gọi là tất cả sự rốt ráo kiên cố. Đức Phó Đại Sĩ, ngày thì kinh doanh gây tạo, đêm thì hành Đạo. Thấy Đức Thích Ca, Đức Kim Túc, Đức Định Quang ba vị Phật phóng quang phủ lên mình Ngài. Đại Sĩ mới nói : “Ta được Định Thủ Lăng Nghiêm”. Thuở đó, kinh này chưa đến mà tên Định đã nêu, lạ lùng thay.
-
-
-Tứ Tổ Đạo Tín(12) dạy
-
-	núi Ngưu Đầu rằng pháp môn đều quy về
+Tứ Tổ Đạo Tín dạy núi Ngưu Đầu rằng pháp môn đều quy về
 
 
-Ngài Lại Dung
+Ngài Lại Dung:
 
-	“Trăm ngàn Tâm, hằng sa
-
-46
-
-
-Diệu Đức gồm tại nguồn Tâm. Tất cả Giới Môn, Định Môn, Huệ Môn, thần thông biến hóa đều tự sẵn đủ, chẳng rời tâm ông. Hết thảy Phiền Não, Nghiệp Chướng xưa nay rỗng rang vắng lặng. Hết thảy Nhân Quả đều như mộng huyễn. Chẳng có ba cõi để lìa, không có Bồ Đề nào để tìm cầu. Người cùng chẳng phải người, Tánh Tướng bình đẳng. Đại Đạo rỗng suốt, tuyệt nghĩ, tuyệt lo. Cái Pháp như thế, ông nay đã được, tuyệt không thiếu hụt, cùng Phật không khác, nào có Pháp nào khác nữa. Ông chỉ mặc dùng tự tại, chớ khởi Quán Hạnh, cũng chẳng lóng Tâm, chẳng khởi Tham Sân, chẳng giữ lo buồn, thênh thang vô ngại, mặc ý dọc ngang. Chẳng làm các điều thiện,
-
-47
-
-
+> Trăm ngàn Tâm, hằng sa Diệu Đức gồm tại nguồn Tâm. Tất cả Giới Môn, Định Môn, Huệ Môn, thần thông biến hóa đều tự sẵn đủ, chẳng rời tâm ông. Hết thảy Phiền Não, Nghiệp Chướng xưa nay rỗng rang vắng lặng. Hết thảy Nhân Quả đều như mộng huyễn. Chẳng có ba cõi để lìa, không có Bồ Đề nào để tìm cầu. Người cùng chẳng phải người, Tánh Tướng bình đẳng. Đại Đạo rỗng suốt, tuyệt nghĩ, tuyệt lo. Cái Pháp như thế, ông nay đã được, tuyệt không thiếu hụt, cùng Phật không khác, nào có Pháp nào khác nữa. Ông chỉ mặc dùng tự tại, chớ khởi Quán Hạnh, cũng chẳng lóng Tâm, chẳng khởi Tham Sân, chẳng giữ lo buồn, thênh thang vô ngại, mặc ý dọc ngang. Chẳng làm các điều thiện,
 không gây các điều ác. Đi, đứng, nằm, ngồi, chạm mắt gặp duyên, thảy đều là Diệu Dụng của Phật. Vui sướng không lo nên gọi là Phật”.
 
 Được nghe thế, Ngài Lại Dung mở ra một chi phái, gọi là Quán Đảnh Chương Cú.
 
-Ngài Pháp Nhãn dạy : “Tu hành trải qua ba đời sáu chục kiếp, bốn đời một trăm kiếp hay tăng kỳ kiếp cho đến thành quả mà cổ nhơn còn nói là chẳng bằng một niệm duyên khởi Vô Sanh, siêu quá hàng Tam Thừa Quyền Học”. Nên chi nói rằng : Gảy móng tay mà viên thành tám vạn Pháp Môn, trong sát na dứt hết ba a tăng kỳ kiếp. Trong Thiền Tông quả có chuyện kỳ đặc đó,
+Ngài Pháp Nhãn dạy: 
 
-48
+> Tu hành trải qua ba đời sáu chục kiếp, bốn đời một trăm kiếp hay tăng kỳ kiếp cho đến thành quả mà cổ nhơn còn nói là chẳng bằng một niệm duyên khởi Vô Sanh, siêu quá hàng Tam Thừa Quyền Học”. Nên chi nói rằng : Gảy móng tay mà viên thành tám vạn Pháp Môn, trong sát na dứt hết ba a tăng kỳ kiếp. 
+> Trong Thiền Tông quả có chuyện kỳ đặc đó, há phải vạn hạnh đầy đủ, rồi sau mới đắc Định Thủ Lăng Nghiêm ư ?
+> Kinh là Thường Đạo vậy. Cuốn Thuyết Văn Giải Tự viết : “Dệt vải có sợi dọc (kinh), sợi ngang (vĩ) : sợi dọc thì thường hằng, mà sợi ngang thì thay đổi. Kinh này do Ngài Long Thọ ở dưới Long Cung mặc tụng đem lên. Vua Ngũ Thiên(13) trân trọng giữ kín chẳng có truyền ra. Há chẳng biết rằng quyển kinh này người người sẵn có, đâu có ai không ! Thế mới là Thường Đạo, nào phải là bí mật.
 
+Có vị tăng hỏi Ngài Thủ Sơn: “Tất cả Chư Phật đều do kinh này mà có ra. Thế nào là kinh này?
 
-há phải vạn hạnh đầy đủ, rồi sau mới đắc Định Thủ Lăng Nghiêm ư ?
+Tổ Sơn đáp : “Nói nhỏ ! Nói nhỏ !” 
 
-Kinh là Thường Đạo vậy. Cuốn Thuyết Văn Giải Tự viết : “Dệt vải có sợi dọc (kinh), sợi ngang (vĩ) : sợi dọc thì thường hằng, mà sợi ngang thì thay đổi. Kinh này do Ngài Long Thọ ở dưới Long Cung mặc tụng đem lên. Vua Ngũ Thiên(13) trân trọng giữ kín chẳng có truyền ra. Há chẳng biết rằng quyển kinh này người người sẵn có, đâu có ai không ! Thế mới là Thường Đạo, nào phải là bí mật”.
-
-Có vị tăng hỏi Ngài Thủ Sơn : “Tất cả
-Chư Phật đều do kinh này mà có ra.
-Thế nào là kinh này ?”
-
-49
-
-
-Tổ Sơn đáp : “Nói nhỏ ! Nói nhỏ !”
 Vị tăng hỏi : “Thọ trì thế nào ?”
 
 Tổ Sơn rằng : “Chẳng nhiễm ô”.
-Ngài Đầu Tử(14) tụng rằng :
 
-“Nước chảy Côn Luân, núi nổi mây Người đến, tiều ngư chẳng có hay Nếu biết núi cao, sông tràn nước Ắt chẳng quăng rìu với bỏ dây”.
+Ngài Đầu Tử tụng rằng :
 
+> Nước chảy Côn Luân, núi nổi mây 
+> 
+> Người đến, tiều ngư chẳng có hay 
+> 
+> Nếu biết núi cao, sông tràn nước 
+> 
+> Ắt chẳng quăng rìu với bỏ dây.
 
+(Thủy xuất Côn Luân, sơn khởi vân 
+Điếu nhân, tiều phụ muội lai nhân 
+Chỉ tri hồng lãng, nham loan khoát 
+Bất khẳng phao ty khí phụ cân)
 
+Tổ Dược Sơn bình thường không cho người ta xem kinh. 
+Có lần tự Ngài xem kinh. 
 
-(Thủy xuất Côn Luân, sơn khởi vân Điếu nhân, tiều phụ muội lai nhân Chỉ tri hồng lãng, nham loan khoát Bất khẳng phao ty khí phụ cân)
-
-Tổ Dược Sơn bình thường không cho người ta xem kinh. Có lần tự Ngài xem kinh. Một vị tăng hỏi : “Hòa Thượng
-
-50
-
-
-bình thường không cho người xem kinh, sao Hòa Thượng lại xem ?”
+Một vị tăng hỏi : “Hòa Thượng bình thường không cho người xem kinh, sao Hòa Thượng lại xem ?”
 
 Tổ Sơn rằng : “Ta chỉ cần che mắt”.
 

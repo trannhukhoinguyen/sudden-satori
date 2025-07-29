@@ -1,5 +1,6 @@
 ---
 import Layout from '../components/Layout.astro';
+import rules from '@/data/rules.ts';
 
 const mdPostsGlob = import.meta.glob('../content/blog/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blog/*.mdx', { eager: true });
@@ -24,17 +25,17 @@ const sortedPosts = allPosts
         <p class="hero-description">Kiến tánh thành Phật</p>
         <hr class="hero-rule" />
         <div class="hero-actions">
-          <a href="#demo" class="btn btn-primary">View Demo</a>
-          <a href="#installation" class="btn btn-secondary">Get Started</a>
+          <a href="#demo" class="btn btn-primary">Xem Demo</a>
+          <a href="#rules" class="btn btn-secondary">10 Quy Ước</a>
         </div>
       </div>
     </section>
 
-    <!-- Demo Section -->
+    <!-- Demo Blog Section -->
     <section class="demo-section" id="demo">
       <div class="container">
-        <h2 class="section-title">Live Demo</h2>
-        <p class="demo-description">Kiến tánh thành Phật</p>
+        <h2 class="section-title">Demo Blog</h2>
+        <p class="demo-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
 
         {sortedPosts.length > 0 && (
           <div class="demo-posts">
@@ -72,40 +73,22 @@ const sortedPosts = allPosts
         )}
 
         <div class="demo-actions">
-          <a href={`${import.meta.env.BASE_URL}blog`} class="btn btn-primary">View Blog</a>
+          <a href={`${import.meta.env.BASE_URL}blog`} class="btn btn-primary">Xem Blog</a>
         </div>
       </div>
     </section>
 
     <!-- Features Section -->
-    <section class="features" id="features">
+    <section class="rules" id="rules">
       <div class="container">
-        <h2 class="section-title">Design Philosophy</h2>
-        <div class="features-grid">
-          <div class="feature-card">
-            <h3 class="feature-title">Dissonant Harmony</h3>
-            <p class="feature-description">Bauhaus minimalism meets monumental design. Clean aesthetics with bold, commanding presence.</p>
-          </div>
-          <div class="feature-card">
-            <h3 class="feature-title">Perfect Readability</h3>
-            <p class="feature-description">Optimized typography with ideal line lengths and spacing for maximum comprehension.</p>
-          </div>
-          <div class="feature-card">
-            <h3 class="feature-title">Left Aligned</h3>
-            <p class="feature-description">Natural reading flow with consistent left alignment throughout all content.</p>
-          </div>
-          <div class="feature-card">
-            <h3 class="feature-title">Typographic Tension</h3>
-            <p class="feature-description">Cormorant Garamond meets Inter. Classical serif headings contrast modern sans-serif body.</p>
-          </div>
-          <div class="feature-card">
-            <h3 class="feature-title">Constructivist Grid</h3>
-            <p class="feature-description">8-point grid system creates structural order. Blood-red rules command attention.</p>
-          </div>
-          <div class="feature-card">
-            <h3 class="feature-title">Fast Performance</h3>
-            <p class="feature-description">Zero JavaScript, minimal CSS, self-hosted fonts for blazing speed.</p>
-          </div>
+        <h2 class="section-title">10 Quy Ước Bắt Buộc</h2>
+        <div class="rules-grid">
+          {
+            rules?.map(rule => <div class="rule-card">
+              <h3 class="rule-title">{ rule.title }</h3>
+              <p class="rule-description">{ rule.description }</p>
+            </div>)
+          }
         </div>
       </div>
     </section>
@@ -246,7 +229,7 @@ const sortedPosts = allPosts
     border-color: var(--color-accent);
   }
 
-  .features {
+  .rules {
     padding: calc(var(--grid-unit) * 8) 0;
   }
 
@@ -261,13 +244,13 @@ const sortedPosts = allPosts
     text-align: center;
   }
 
-  .features-grid {
+  .rules-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: calc(var(--grid-unit) * 4);
   }
 
-  .feature-card {
+  .rule-card {
     background-color: var(--color-surface);
     border: 1px solid var(--color-border);
     border-radius: 8px;
@@ -276,17 +259,17 @@ const sortedPosts = allPosts
     transition: transform 0.3s ease, border-color 0.3s ease;
   }
 
-  .feature-card:hover {
+  .rule-card:hover {
     transform: translateY(-4px);
     border-color: var(--color-accent);
   }
 
-  .feature-icon {
+  .rule-icon {
     font-size: 3rem;
     margin-bottom: calc(var(--grid-unit) * 2);
   }
 
-  .feature-title {
+  .rule-title {
     font-family: var(--font-heading-secondary);
     font-size: 1.25rem;
     font-weight: 700;
@@ -296,7 +279,7 @@ const sortedPosts = allPosts
     margin-bottom: calc(var(--grid-unit) * 1.5);
   }
 
-  .feature-description {
+  .rule-description {
     color: var(--color-text-secondary);
     line-height: 1.6;
     margin: 0;
@@ -573,7 +556,7 @@ const sortedPosts = allPosts
       align-items: center;
     }
 
-    .features-grid {
+    .rules-grid {
       grid-template-columns: 1fr;
     }
 
