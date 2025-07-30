@@ -23,7 +23,7 @@ const masters = defineCollection({
   type: 'content',
   schema: z.object({
     name: z.string(),
-    stage_name: z.string(),
+    dynasty: z.string(),
     genre: z.string(),
     image: z.object({
       src: z.string(),
