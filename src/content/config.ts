@@ -39,7 +39,7 @@ const masters = defineCollection({
 });
 
 const teachings = defineCollection({
-  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/contents/records" }),
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/contents/teachings" }),
   schema: z.object({
     name: z.string(),
     name_en: z.string() || null,
