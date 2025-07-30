@@ -58,7 +58,7 @@ Kim cang Bát-nhã Ba-la-mật-đa Kinh Phá thủ tướng Bất hoại Giả d
 - Kim cang kinh giải nghĩa, Kim Cang Kinh Khẩu Quyết, của Lục tổ Huệ Năng - Đời Đường.
 - Kim cang Kinh Sớ luận Toản yếu, của ngài Khuê Phong Tông Mật - Đời Đường.
 - Kim cang Bát-nhã ba-la-mật kinh giảng kí, của ngài Ấn Thuận - thời cận đại.
-- 
+
 Về các luận giải từ tiếng Sanskrit, chúng ta thấy một điều đặc biệt là các nhà tạo luận đều là tị tổ của Du-già hành tông (Yogācāra), hay còn gọi là Duy thức hay Pháp tướng tông. Cho chúng ta thấy qua cái nhìn của các vị nầy, từ khởi thuỷ của nền học thuật và tư tưởng trên chính mảnh đất quê hương Ấn Độ, Kinh Kim Cang đã có một vai trò rất lớn trong Du-già hành tông. Nên chẳng ngạc nhiên gì khi ngài Huyền Trang đã có một bản dịch
 rất đắc sắc về kinh nầy. Và sau đó, môn đệ của ngài là Khuy Cơ cũng góp phần bằng một bản luận giải. 
 Nhưng điều đáng chú ý là Khuy Cơ đã không dùng bản dịch của ngài Huyền Trang, thầy mình, mà lại dùng bản dịch của ngài Cưu-ma-la-thập để chú giải.
@@ -100,7 +100,8 @@ nên còn lưu lại bài kệ bốn câu: Như lộ diệc như điển. Lại 
 Về các luận giải dùng trong sách nầy, về các tác giả Ấn Độ, Tăng Phụng Nghi đã trích dẫn nhiều nhất là Bát thập kệ của Bồ-tát Di-lặc, còn gọi Di- lặc Bồ-tát tụng. Bản thứ hai là Kim cang Bát-nhã Ba-la-mật-đa Kinh Phá thủ tướng Bất hoại Giả danh Luận của ngài Công Đức Thi, do Sa-môn
 
 Địa-bà-ha-la 沙門地婆訶羅 dịch vào đời Đường.
-Các luận giải của các Tăng sĩ Trung Hoa được Tăng Phụng Nghi dùng trong tập sách nầy là Lương Triều Phó Đại sĩ tụng Kim Cang Kinh.4[4] Về tác giả nầy, có nhiều nét khá kỳ đặc xin ghi nhận vài điều như sau:
+Các luận giải của các Tăng sĩ Trung Hoa được Tăng Phụng Nghi dùng trong tập sách nầy là Lương Triều Phó Đại sĩ tụng Kim Cang Kinh.4[4] 
+Về tác giả nầy, có nhiều nét khá kỳ đặc xin ghi nhận vài điều như sau:
 Phó Đại sĩ (497-569), tên là Phó Hấp. Còn gọi: Thiện Huệ Đại Sĩ, Ngư Hành Đại Sĩ, Song Lâm Đại Sĩ, Đông Dương Đại Sĩ, Ô Thương Cư sĩ.
 Cư sĩ Trung Quốc sống vào đời Lương thuộc Nam Triều, người Ô Thương, Đông Dương (nay là huyện Nghĩa Ô, Chiết Giang), tự Huyền Phong,  hiệu  Thiện  Huệ,  cùng  với
 
@@ -108,24 +109,12 @@ Cư sĩ Trung Quốc sống vào đời Lương thuộc Nam Triều, người Ô
 
 Ngài Bảo Chí (Chí Công) được tôn xưng là hai vị Đại Sĩ đời Lương.
 Khi chưa gặp đạo, ngài thường cùng người làng lưới cá, mỗi lần được cá thì đựng vào lồng tre, dìm sâu xuống nước và nói: “Con nào muốn đi thì đi, không muốn đi thì ở lại.” Người đời cho Ngài là ngu. Năm 16 tuổi, Ngài cưới con gái họ Lưu là Diệu Quang sanh hai con là Phổ Kiến, Phổ Thành. Năm 24 tuổi, lúc đang đánh cá ở sông Nghi, Ngài gặp được vị tăng Ấn Độ là Tung Đầu-đà ( có thuyết cho đó là ngài Đạt-ma) liền bỏ ngư cụ đi vào núi Tùng, huyện Ô Thương, kết am dưới cây song đào tu tập.
-Đời Lương, năm 534, Ngài sai đệ tử là Phó Vãng dâng thư lên vua Vũ Đế
-
-hiến sách lược về ba điều lành thượng, trung, hạ. Tháng 12 nhuận, Vua mời Ngài vào cung, giảng kinh ở điện Trùng Vân. Vua đích thân đến nghe. Mọi người thấy Vua đến đều đứng dậy, chỉ mình Ngài ngồi im, quần thần gạn hỏi, Ngài nói: “Đất pháp nếu động thì tất cả chẳng an.” Việc nầy về sau được truyền tụng thành giai thoại trong Thiền lâm.
-Năm 535, Ngài về núi Tùng, năm năm sau lại đến Chung Sơn, bàn luận chân đế với Vua ở điện Thọ Quang, làm kệ tụng trình Vua. Năm 540 có thuyết nói năm 539, Ngài xây cất điện Phật, tháp gạch 9 tầng giữa các cây song đào ở núi Tùng, tức chùa Song Lâm, ở tại đây Ngài biên chép hơn
-
-1000 quyển kinh, luật.
+Đời Lương, năm 534, Ngài sai đệ tử là Phó Vãng dâng thư lên vua Vũ Đế hiến sách lược về ba điều lành thượng, trung, hạ. Tháng 12 nhuận, Vua mời Ngài vào cung, giảng kinh ở điện Trùng Vân. Vua đích thân đến nghe. Mọi người thấy Vua đến đều đứng dậy, chỉ mình Ngài ngồi im, quần thần gạn hỏi, Ngài nói: “Đất pháp nếu động thì tất cả chẳng an.” Việc nầy về sau được truyền tụng thành giai thoại trong Thiền lâm.
+Năm 535, Ngài về núi Tùng, năm năm sau lại đến Chung Sơn, bàn luận chân đế với Vua ở điện Thọ Quang, làm kệ tụng trình Vua. Năm 540 có thuyết nói năm 539, Ngài xây cất điện Phật, tháp gạch 9 tầng giữa các cây song đào ở núi Tùng, tức chùa Song Lâm, ở tại đây Ngài biên chép hơn 1000 quyển kinh, luật.
 Đời Trần, năm 569, Ngài nhóm đệ tử lại răn dạy xong, ngồi kiết-già thị tịch, thọ 73 tuổi. Đệ tử an táng trên đỉnh núi Song Lâm, hiệu là Di-lặc Hạ Sanh.
 Tác phẩm gồm có Tâm Vương Minh, Ngữ Lục 4 quyển, Hoàn Nguyên Thi. Luận  giải  thứ  hai  của  các  Tăng  sĩ
-Trung  Hoa  được  Tăng  Phụng  Nghi
-dùng trong tập sách nầy là San định ký5[5] của ngài Tử Tuyền. Ngài là một Cao Tăng Trung Quốc (965-1038), thuộc tông Hoa Nghiêm, sống vào đời Bắc Tống, người ở Tiền Đường, Hàng Châu (có thuyết nói là Gia Hưng,  Tú  Châu),  Trung  Quốc,  họ
-
-
-5[5] 宋 嘉禾長水法師 子璿 金剛刊定記
-
-Trịnh, hiệu Đông Bình, còn gọi là Trường Thuỷ Đại Sư.
-Năm 9 tuổi, Sư thờ ngài Khế Tông chùa Phổ Huệ làm thầy, chuyên trì tụng Kinh Lăng Nghiêm. Năm 13 tuổi Sư thọ giới Cụ túc. Lúc đầu, Sư học giáo pháp Hoa Nghiêm nơi ngài Tú Châu Hồng Mẫn, sau tham yết ngài Lang Da Huệ Giác mà có tỉnh ngộ, ngài Huệ Giác bảo sư trở về quê mở mang giáo pháp Hoa Nghiêm. Sư trụ trì chùa Trường Thuỷ, lập giảng đường dạy Hoa Nghiêm, Lăng Nghiêm. Đồ chúng đến ngàn vị. Sư có công rất lớn trong việc chấn hưng lại tông Hoa Nghiêm đời Tống. Năm 1013, Hàn Lâm học sỹ Tiền Công Dị tâu vua ban cho Sư tử y đồng thời ban
-
-hiệu Trường Thuỷ Sớ Chủ Lăng Nghiêm Đại Sư.
+Trung  Hoa  được  Tăng  Phụng  Nghi dùng trong tập sách nầy là San định ký5[5] của ngài Tử Tuyền. Ngài là một Cao Tăng Trung Quốc (965-1038), thuộc tông Hoa Nghiêm, sống vào đời Bắc Tống, người ở Tiền Đường, Hàng Châu (có thuyết nói là Gia Hưng,  Tú  Châu),  Trung  Quốc,  họ 5[5] Trịnh, hiệu Đông Bình, còn gọi là Trường Thuỷ Đại Sư.
+Năm 9 tuổi, Sư thờ ngài Khế Tông chùa Phổ Huệ làm thầy, chuyên trì tụng Kinh Lăng Nghiêm. Năm 13 tuổi Sư thọ giới Cụ túc. Lúc đầu, Sư học giáo pháp Hoa Nghiêm nơi ngài Tú Châu Hồng Mẫn, sau tham yết ngài Lang Da Huệ Giác mà có tỉnh ngộ, ngài Huệ Giác bảo sư trở về quê mở mang giáo pháp Hoa Nghiêm. Sư trụ trì chùa Trường Thuỷ, lập giảng đường dạy Hoa Nghiêm, Lăng Nghiêm. Đồ chúng đến ngàn vị. Sư có công rất lớn trong việc chấn hưng lại tông Hoa Nghiêm đời Tống. Năm 1013, Hàn Lâm học sỹ Tiền Công Dị tâu vua ban cho Sư tử y đồng thời ban hiệu Trường Thuỷ Sớ Chủ Lăng Nghiêm Đại Sư.
 Sư thị tịch năm 1038, thọ 74 tuổi.
 Tác phẩm gồm có: Thủ-lăng-nghiêm Nghĩa Sớ Chú Kinh 20 quyển, Thủ- lăng-nghiêm Kinh khoa 2 quyển, Kim Cang Bát Nhã Kinh Toản Yếu Khoa 1 quyển, Đại Thừa Khởi Tín Luận Bút Tước Ký 20 quyển.
 Về bố cục trong sách nầy, đã dựa theo cách đề ra 27 mối nghi về tư tưởng Kinh Kim Cang từ trong Luận giải của Thế Thân nhan đề Kim cang Bát- nhã Ba-la-mật-đa Kinh Luận. Như Tăng Phụng Nghi trình bày trong phần duyên khởi:
