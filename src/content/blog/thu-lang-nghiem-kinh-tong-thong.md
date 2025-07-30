@@ -4047,7 +4047,7 @@ Trang Tử giải thích Quách Tượng ?
 
 Như Lai biết đại chúng tâm niệm rối loạn, sanh lòng thương xót, an ủi Ông Anan và đại chúng rằng : “Này các trai lành, bậc Vô Thượng Pháp Vương, thật là Chân Thật Ngữ : như tánh Chân Như mà nói, không dối, không vọng, không phải là bốn thứ nghị luận càn dở Bất Tử của nhóm Mạt Già Lê. Ông hãy suy nghĩ chín chắn, chớ phụ lòng thương mến của Ta”.
 
-404
+
 
 
 ⚡️ Thông rằng : “Mờ mịt chẳng biết nghĩa ấy trước sau thế nào ?” Trước là, “Cái Thấy chẳng phải là vật”. Sau là, “Cái Thấy chẳng phải là không phải vật”. Cái trước tức là “Chân Tánh hiện tiền”, cái sau tức là “Không thể chỉ ra được”. Cho nên mờ mịt mất chỗ bám níu vậy.
@@ -15837,7 +15837,7 @@ Trong chúng kia có thầy Ba La Đề đáp rằng : “Tôi rõ không có T�
 
 Tổ nói : “Tâm ông chẳng hiện, lấy gì mà rõ ?”
 
-1404
+
 
 
 Người ấy nói : “Tôi rõ Vô Tướng, tâm không lấy bỏ, ngay khi rõ biết, cũng không có gì đảm đương”.
@@ -27622,12 +27622,12 @@ Lại nữa, thiện nam tử kia, Thọ Ấm đã hư diệu, không còn mắc
 
 “Lại nữa, thiện nam tử kia, Thọ Ấm đã hư diệu, không còn mắc các tà lự, Định tròn đầy phát sáng, trong Tam Ma Đề, tâm lại ưa biết cái cội gốc, nơi sự vật biến hóa, muốn xét rõ cùng tột chung thủy. Thúc cái tâm sáng suốt thêm, tham cầu phân biệt, chia chẻ. Bấy giờ Thiên Ma chờ được dịp ấy, cho tinh thần gá vào người khác, miệng nói kinh pháp. Người đó thật không biết bị Ma gá vào, rồi tự bảo đã đắc Vô Thượng Niết Bàn, đến chỗ thiện nam tử cầu biết cái cội gốc kia, trải tòa thuyết pháp. Người đó có uy thần làm cho những người cầu pháp đều kính
 
-2404
+
 
 
 phục, khiến cho thính chúng dưới pháp tòa tuy chưa nghe pháp, tự nhiên tâm đã phục rồi. Cả bọn họ đều cho rằng Niết Bàn, Bồ Đề, Pháp Thân của Phật chính là cái xác thịt hiện tiền của ta đây; cha con sanh nhau, đời này sang đời khác, tức là Pháp Thân thường trụ chẳng dứt; đều chỉ hiện tại tức là cõi Phật, không có Tịnh Độ và Tướng Sắc Vàng nào khác. Người tu hành tin nhận, quên mất Tự Tâm, đem thân mạng mà quy y, được sự chưa từng có. Người ấy mê dại, lầm cho là Bồ Tát, tu hành theo tâm ấy, phá Luật Nghi Phật, lén làm chuyện tham dục. Miệng Ma ưa nói rằng mắt, tai, mũi, lưỡi đều là Tịnh Độ; hai căn nam, nữ là chỗ đích thực của Bồ Đề, Niết Bàn ! Hạng
 
-2405
+
 
 
 không biết kia đều tin lời dơ uế đó. Đây gọi là Cổ Độc Quỉ và Áp Thắng Quỉ, lâu năm thành Ma, khuấy rối người tu hành. Khuấy rối chán rồi, bỏ thân người không gá nữa thì đệ tử cùng thầy đều sa vào lưới pháp luật. Ông nên tỏ biết trước thì khỏi lọt luân hồi, còn mê lầm không biết thì đọa ngục Vô Gián.

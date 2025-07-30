@@ -19,32 +19,39 @@ const blog = defineCollection({
 });
 
 const masters = defineCollection({
-  // loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/masters" }),
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/contents/masters" }),
   schema: z.object({
     name: z.string(),
-    dynasty: z.string(),
-    genre: z.string(),
+    name_en: z.string() || null,
+    name_vi: z.string() || null,
+    name_zh: z.string() || null,
+    name_jp: z.string() || null,
+    life_time: z.array(z.string()) || null,
+    dynasty: z.string() || null,
+    sect: z.string() || null, // e.g. Linji (Rinzai), Caodong (Soto), Yunmen (Unmon), Fayan (Hogen), Guiyang (Igyō (潙仰宗)),
+    color: z.string() || null,
+    disciples: z.array(z.string()) || null,
     image: z.object({
-      src: z.string(),
-      alt: z.string(),
+      src: z.string() || null,
+      alt: z.string() || null,
     }),
   }),
 });
 
 const teachings = defineCollection({
-  // loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/teachings" }),
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/contents/records" }),
   schema: z.object({
     name: z.string(),
+    name_en: z.string() || null,
+    name_vi: z.string() || null,
+    name_zh: z.string() || null,
+    name_jp: z.string() || null,
     image: z.object({
       src: z.string(),
       alt: z.string(),
     }),
     publishDate: z.date(), // e.g. 2024-09-17
-    tracks: z.array(z.string()),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
+    chapters: z.array(z.string()),
     master: reference('masters'),
   }),
 });
