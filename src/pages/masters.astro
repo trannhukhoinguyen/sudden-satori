@@ -1,8 +1,7 @@
 ---
-import Layout from '../components/Layout.astro';
+import GridLayout from '../layouts/GridLayout.astro';
 import MasterGrid from "../components/masterUi/MasterGrid.astro";
 import MasterGridHeader from "../components/masterUi/MasterGridHeader.astro";
-import Preloader from "../components/masterUi/Preloader.astro";
 import {getCollection} from "astro:content";
 
 const title = "Thiền sư";
@@ -11,11 +10,10 @@ const allMasters = await getCollection("masters");
 const mastersTotal = allMasters.length;
 ---
 
-<Layout title={title} description={description}>
-  <Preloader />
+<GridLayout title={title} description={description}>
   <MasterGridHeader mastersTotal={mastersTotal} />
   <MasterGrid masters={allMasters} />
-</Layout>
+</GridLayout>
 
 <style>
 

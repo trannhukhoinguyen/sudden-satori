@@ -19,7 +19,8 @@ const blog = defineCollection({
 });
 
 const masters = defineCollection({
-  loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/masters" }),
+  // loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/masters" }),
+  type: 'content',
   schema: z.object({
     name: z.string(),
     stage_name: z.string(),
@@ -32,7 +33,8 @@ const masters = defineCollection({
 });
 
 const teachings = defineCollection({
-  loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/teachings" }),
+  // loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/teachings" }),
+  type: 'content',
   schema: z.object({
     name: z.string(),
     image: z.object({

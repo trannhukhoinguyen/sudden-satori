@@ -1,0 +1,101 @@
+---
+import '@fontsource/oswald/300.css';
+import '@fontsource/oswald/400.css';
+import '@fontsource/oswald/500.css';
+import '@fontsource/oswald/600.css';
+import '@fontsource/oswald/700.css';
+import '@fontsource/roboto-condensed/300.css';
+import '@fontsource/roboto-condensed/400.css';
+import '@fontsource/roboto-condensed/700.css';
+import '@fontsource/work-sans/400.css';
+import '@fontsource/work-sans/500.css';
+import '@fontsource/work-sans/600.css';
+import '@fontsource/jetbrains-mono/400.css';
+import '@fontsource/jetbrains-mono/700.css';
+import '../styles/global.css';
+
+import Header from '../components/Header.astro';
+import Sidebar from '../components/Sidebar.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import { ClientRouter } from "astro:transitions";
+import SmoothScroll from "../components/masterUi/SmoothScroll.astro";
+
+export interface Props {
+  title: string;
+  description?: string;
+  showSidebar?: boolean;
+  image?: string;
+  type?: 'website' | 'article';
+  publishedTime?: string;
+  canonical?: string;
+}
+
+const { title, description, showSidebar = true, image, type, publishedTime, canonical } = Astro.props;
+const currentPage = Astro.url.pathname.replace(/\/$/, "").split("/").pop() || "home";
+---
+
+<!DOCTYPE html>
+<html lang="en" data-page={currentPage}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <SEO
+      title={title}
+      description={description}
+      image={image}
+      type={type}
+      publishedTime={publishedTime}
+      canonical={canonical}
+    />
+    <ClientRouter />
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <SmoothScroll />
+      <Header />
+
+      <main class="main-content">
+
+        <div class="content">
+          <slot />
+        </div>
+
+      </main>
+
+      <Footer />
+      <script src="../scripts/imageFade.js"></script>
+    </div>
+  </body>
+</html>
+
+<style>
+  .site-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+
+  .main-content {
+    flex: 1;
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 0 var(--content-padding);
+    width: 100%;
+  }
+
+  .content {
+    min-width: 0;
+    padding: calc(var(--grid-unit) * 3) 0;
+  }
+
+/* Desktop: 2 cột */
+  @media (min-width: 1024px) {
+    .content {
+      grid-column: 1; /* Cột bên trái */
+    }
+  }
+</style>
+
+<script is:inline src="/theme-init.js"></script>
