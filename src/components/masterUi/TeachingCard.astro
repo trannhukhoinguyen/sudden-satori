@@ -1,0 +1,61 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+type Props = {
+  teaching: CollectionEntry<"teachings">;
+};
+
+const { teaching } = Astro.props;
+---
+
+<a class="teaching-card" href={`/${teaching.data.master.id}/teachings/${teaching.id}`}>
+  <div>
+    <img
+      class="fade-in"
+      loading="lazy"
+      src={teaching.data.image.src}
+      alt={teaching.data.image.alt}
+    />
+  </div>
+  <h3>{teaching.data.name}</h3>
+  <p>{new Date(teaching.data.publishDate).getFullYear()}</p>
+</a>
+
+<style>
+  .teaching-card {
+    --color-text: #000;
+    --color-text-alt: #6a6a6a;
+    --color-faded: #c9c9c9;
+    --color-bg: #fff;
+    --border-color: #ccc;
+    --color-link: #000;
+    --color-link-hover: #999;
+    --color-placeholder: #f8f8f8;
+    --font-size-s: 0.85rem;
+    --font-size-l: clamp(1.25rem, 3vw, 1.75rem);
+    --font-size-xl: clamp(1.5rem, 5vw, 2.75rem);
+  }
+  .teaching-card {
+    display: flex;
+    gap: 0.5rem;
+    flex-direction: column;
+    align-content: start;
+    max-width: 300px;
+  }
+  div {
+    aspect-ratio: 1;
+    grid-area: img;
+    background: var(--color-placeholder);
+  }
+  h3,
+  p {
+    margin: 0;
+  }
+  h3 {
+    grid-area: title;
+  }
+  p {
+    justify-self: end;
+    grid-area: meta;
+  }
+</style>

@@ -1,4 +1,5 @@
-import { defineCollection, z } from 'astro:content';
+import {defineCollection, reference, z} from 'astro:content';
+import { glob } from 'astro/loaders';
 
 const blog = defineCollection({
   type: 'content',
@@ -17,4 +18,32 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+const masters = defineCollection({
+  loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/masters" }),
+  schema: z.object({
+    name: z.string(),
+    stage_name: z.string(),
+    genre: z.string(),
+    image: z.object({
+      src: z.string(),
+      alt: z.string(),
+    }),
+  }),
+});
+
+const teachings = defineCollection({
+  loader: glob({ pattern: '**/*.{md, mdx}', base: "./src/content/teachings" }),
+  schema: z.object({
+    name: z.string(),
+    image: z.object({
+      src: z.string(),
+      alt: z.string(),
+    }),
+    publishDate: z.date(), // e.g. 2024-09-17
+    tracks: z.array(z.string()),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    master: reference('masters'),
+  }),
+});
+export const collections = { blog, masters, teachings };

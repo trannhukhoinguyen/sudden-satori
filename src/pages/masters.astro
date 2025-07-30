@@ -1,57 +1,22 @@
 ---
 import Layout from '../components/Layout.astro';
-import GoogleSheetTable from '../components/GoogleSheetTable.astro';
+import MasterGrid from "../components/masterUi/MasterGrid.astro";
+import MasterGridHeader from "../components/masterUi/MasterGridHeader.astro";
+import Preloader from "../components/masterUi/Preloader.astro";
+import {getCollection} from "astro:content";
 
-const pageDescription = "";
+const title = "Thiền sư";
+const description = "...";
+const allMasters = await getCollection("masters");
+const mastersTotal = allMasters.length;
 ---
 
-<Layout title={`Thiền sư`} description={pageDescription}>
-  <div class="about-page">
-    <header class="page-header">
-      <h1 class="page-title">Thiền sư</h1>
-      <hr class="page-rule" />
-    </header>
-    <table>
-      <tbody>
-
-      </tbody>
-    </table>
-  </div>
+<Layout title={title} description={description}>
+  <Preloader />
+  <MasterGridHeader mastersTotal={mastersTotal} />
+  <MasterGrid masters={allMasters} />
 </Layout>
 
 <style>
-  .about-page {
-    max-width: 800px;
-    margin: 0 auto;
-  }
 
-  .page-header {
-    text-align: center;
-    margin-bottom: calc(var(--grid-unit) * 6);
-  }
-
-  .page-title {
-    font-family: 'Oswald', sans-serif;
-    font-size: 3.5rem;
-    font-weight: 700;
-    color: var(--color-accent);
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
-    line-height: 1.1;
-    margin-bottom: calc(var(--grid-unit) * 4);
-  }
-
-  .page-rule {
-    height: 4px;
-    background-color: var(--color-accent);
-    border: none;
-    width: 120px;
-    margin: 0 auto;
-  }
-
-  @media (max-width: 768px) {
-    .page-title {
-      font-size: 2.5rem;
-    }
-  }
 </style>

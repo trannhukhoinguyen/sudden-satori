@@ -550,7 +550,7 @@ Kinh văn:
 復次須菩提。菩薩於法應無所住行於布施。所謂不住色布施。不住聲香味觸法布施。須菩提。菩薩應如是布施不住於相。何以故。若菩薩不住相布施。其福德不可思量。須菩提。於意云何。東方虛空可思量不。不也世尊。須菩提。南西北方四維上下虛空可思量不。不也世尊
 。須菩提。菩薩無住相布施福德。亦復如是不可思量。須菩提。菩薩
 
-但應如所教住 。
+但應如所教住。
 Lại nữa, Tu-bồ-đề! Bồ-tát theo đúng pháp, nên lấy tâm không chỗ trụ mà làm việc bố thí. Nghĩa là chẳng nên trụ nơi hình sắc mà bố thí, chẳng nên trụ nơi âm thanh, hương thơm, mùi vị, cảm xúc, pháp tướng mà bố thí.
 Tu-bồ-đề! Bồ-tát nên không trụ nơi tướng như vậy mà bố thí.
 Sao vậy? Nếu Bồ-tát bố thí với tâm không trụ tướng, phước đức ấy chẳng thể suy lường.
@@ -3884,7 +3884,7 @@ Vì sao vậy? Nếu thế giới là có thật, tức là một tướng hòa 
 
 109[109]sacedbhagavan	lokadhāturabhaviṣyat	sa	eva	piṇḍagrāho'bhaviṣyat	yaścaiva piṇḍagrāhastathāgatena bhāṣito 'grāhaḥ sa tathāgatena bhāṣitaḥ | tenocyate piṇḍagrāha iti | Vì sao? Thưa Thế Tôn, nếu đã có một thế giới thì đã có nhất hợp chấp và cái được Như Lai dạy là nhất hợp chấp đó chính là cái phi chấp được Như Lai dạy. Thế nên nó được gọi là nhất hợp chấp.
 Bản dịch Huyền Trang:
-何以故。世尊。若世界是實有者即為一合 。如來說一合執即為非執故名一合執。
+何以故。世尊。若世界是實有者即為一合。如來說一合執即為非執故名一合執。
 Bản dịch Chân Đế dùng chữ Tụ nhất chấp.
 何以故。世尊若執世界為實有者。是聚一執。此聚一執如來說非執故。說聚一執。
 

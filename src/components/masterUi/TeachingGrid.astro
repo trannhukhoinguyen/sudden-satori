@@ -1,0 +1,23 @@
+---
+import type { CollectionEntry } from "astro:content";
+import TeachingCard from "./TeachingCard.astro";
+
+type Props = {
+    teachings: CollectionEntry<"teachings">[];
+};
+
+const { teachings } = Astro.props;
+---
+
+<section>
+  {teachings.map((teaching) => <TeachingCard teaching={teaching} />)}
+</section>
+
+<style>
+  section {
+    display: flex;
+    width: 100%;
+    gap: 2rem;
+    flex-direction: column;
+  }
+</style>
