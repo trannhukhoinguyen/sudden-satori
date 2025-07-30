@@ -1,8 +1,8 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import { getCollection, render, getEntry } from "astro:content";
-import BaseLayout from "../../../layouts/BaseLayout.astro";
-import Separator from "../../../components/Separator.astro";
+import GridLayout from "../../../layouts/GridLayout.astro";
+import Separator from "../../../components/masterUi/Separator.astro";
 
 export const getStaticPaths = async () => {
   // Fetch all teachings from the 'teachings' collection
@@ -56,7 +56,7 @@ const { master, teaching } = Astro.props; // Extract master and teaching data fr
 const { Content } = await render(teaching);
 ---
 
-<BaseLayout title={teaching.data.name}>
+<GridLayout title={teaching.data.name}>
   <section>
     <header class="title-header">
       <h2>
@@ -81,4 +81,4 @@ const { Content } = await render(teaching);
       </div>
     </div>
   </section>
-</BaseLayout>
+</GridLayout>
