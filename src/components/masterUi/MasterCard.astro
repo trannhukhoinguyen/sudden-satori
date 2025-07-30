@@ -2,27 +2,103 @@
 import type { CollectionEntry } from "astro:content";
 
 type Props = {
-  master: CollectionEntry<"masters">;
+    master: CollectionEntry<"masters">;
 };
 
 const { master } = Astro.props;
 ---
 
 <a
-  href={`/${master.id}`}
-  class="master"
-  style={`--image: url('${master.data.image.src}');`}
-  data-stagename={master.data.stage_name}
-  data-name={master.data.name}
-  data-genre={master.data.genre}
-  data-astro-prefetch
-  aria-label={master.data.name}></a>
+        href={`/${master?.id}`}
+        class="master"
+        data-stagename={master?.data?.dynasty}
+        data-name={master?.data?.name}
+        data-sect={master?.data?.sect || ""}
+        data-astro-prefetch
+        aria-label={master?.data?.name}
+>
+    <span class=`tag ${master?.data?.color}`>{master?.data?.name_vi}</span>
+</a>
 
 <style>
-  a {
-    background-image: var(--image);
-    background-size: cover;
-    background-position: 50% 0%;
-    aspect-ratio: 0.8;
-  }
+    .tag {
+        background: #e1e366;
+        display: inline-block;
+        height: 50px;
+        line-height: 50px;
+        padding: 0 8px;
+        margin: 0 0 8px 16px;
+        border-radius: 9px;
+        color: #2d313a;
+        position: relative;
+        z-index: 1;
+    }
+
+    span.tag:before {
+        content: "";
+        display: block;
+        height: 39px;
+        width: 39px;
+        position: absolute;
+        left: -13px;
+        top: 6px;
+        border-radius: 9px;
+        transform: rotate(45.1deg);
+        background: #e1e366;
+        z-index: -1;
+    }
+
+    span.tag:after {
+        content: "";
+        display: block;
+        background: #2d313a;
+        height: 11px;
+        width: 11px;
+        position: absolute;
+        left: -5px;
+        top: 19px;
+        border-radius: 100%;
+    }
+
+
+    .tag.gold, .tag.gold:before {
+        background: gold;
+    }
+    .tag.orange, .tag.orange:before {
+        background: orange;
+    }
+    .tag.brown, .tag.brown:before {
+        background: brown;
+    }
+    .tag.LightSkyBlue, .tag.LightSkyBlue:before {
+        background: LightSkyBlue;
+    }
+    .tag.blue, .tag.blue:before {
+        background: blue;
+    }
+    .tag.green, .tag.green:before {
+        background: green;
+    }
+    .tag.teal, .tag.teal:before {
+        background: teal;
+    }
+    .tag.purple, .tag.purple:before {
+        background: purple;
+    }
+    .tag.HotPink, .tag.HotPink:before {
+        background: HotPink;
+    }
+    .tag.indianred, .tag.indianred:before {
+        background: indianred;
+    }
+    .tag.mediumvioletred, .tag.mediumvioletred:before {
+        background: mediumvioletred;
+    }
+    .tag.red, .tag.red:before {
+        background: red;
+    }
+
+    .tag:after {
+        background: white;
+    }
 </style>
