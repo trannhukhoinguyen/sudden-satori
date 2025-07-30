@@ -1,7 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import { getCollection, render } from "astro:content";
-import BaseLayout from "../layouts/Layout.astro";
+import GridLayout from "../layouts/GridLayout.astro";
 import Separator from "../components/masterUi/Separator.astro";
 import TeachingGrid from "../components/masterUi/TeachingGrid.astro";
 
@@ -50,7 +50,7 @@ const teachings = await getCollection(
 const { Content } = await render(master);
 ---
 
-<BaseLayout title={master.data.name}>
+<GridLayout title={master.data.name}>
   <section>
     <header class="title-header">
       <h2>
@@ -87,7 +87,7 @@ const { Content } = await render(master);
       }
     </div>
   </section>
-</BaseLayout>
+</GridLayout>
 <style>
   .content-wrap {
     grid-template-areas: "img" "content" "teachings";
