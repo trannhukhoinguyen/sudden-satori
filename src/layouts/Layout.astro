@@ -99,21 +99,18 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
 
   .sidebar {
     order: 1;
-    padding-top: calc(var(--grid-unit) * 1);
+    padding-top: calc(var(--grid-unit) * 3);
   }
 
 /* Desktop: 2 cột */
   @media (min-width: 1024px) {
     .main-content.with-sidebar {
-      grid-template-columns: 3fr 1fr; /* Content 3 phần, Sidebar 1 phần */
+      grid-template-columns: var(--sidebar-width) 1fr;
     }
-
-    .content {
-      grid-column: 3; /* Cột bên trái */
-    }
-
+    
     .sidebar {
-      grid-column: 1; /* Cột bên phải */
+      order: 1;
+      padding-top: calc(var(--grid-unit) * 1);
     }
   }
 </style>
