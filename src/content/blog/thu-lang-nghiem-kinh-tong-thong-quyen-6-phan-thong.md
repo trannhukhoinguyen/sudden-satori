@@ -1,5 +1,5 @@
 ---
-title: "Thủ Lăng Nghiêm Kinh Tông Thông (phần Thông)"
+title: "Thủ Lăng Nghiêm Kinh Tông Thông - Quyển 6 (phần Thông)"
 date: "1590-01-01"
 description: "NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ"
 author: "Tăng Phụng Nghi"

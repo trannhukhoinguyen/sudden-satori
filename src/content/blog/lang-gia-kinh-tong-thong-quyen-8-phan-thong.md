@@ -1,5 +1,5 @@
 ---
-title: "Lăng Già Kinh Tông Thông - Quyển 8"
+title: "Lăng Già Kinh Tông Thông - Quyển 8 (phần Thông)"
 date: "1600-01-01"
 description: "1600-1615"
 author: "Tăng Phụng Nghi"

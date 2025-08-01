@@ -1,5 +1,5 @@
 ---
-title: "Lăng Già Kinh Tông Thông - Quyển 3"
+title: "Lăng Già Kinh Tông Thông - Quyển 3 (phần Thông)"
 date: "1600-01-01"
 description: "1600-1615"
 author: "Tăng Phụng Nghi"
