@@ -98,18 +98,18 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
   }
 
   .sidebar {
-    order: 1;
+    order: 2;
     padding-top: calc(var(--grid-unit) * 3);
   }
 
 /* Desktop: 2 cột */
   @media (min-width: 1024px) {
     .main-content.with-sidebar {
-      grid-template-columns: var(--sidebar-width) 1fr;
+      grid-template-columns: 3fr 1fr;
     }
-    
+
     .sidebar {
-      order: 1;
+      order: 2;
       padding-top: calc(var(--grid-unit) * 1);
     }
   }
