@@ -110,19 +110,7 @@ const sortedPosts = allPosts
         <div class="typography-samples">
           {
             principles?.map(principle => <div class="type-sample">
-              <h1 class="sample-h1">{ principle.title }</h1>
-              <p class="type-meta">{ principle.description }</p>
-            </div>)
-          }
-          {
-            principles?.map(principle => <div class="type-sample">
-              <p class="sample-body">{ principle.title }</p>
-              <p class="type-meta">{ principle.description }</p>
-            </div>)
-          }
-          {
-            principles?.map(principle => <div class="type-sample">
-              <code class="sample-code">{ principle.title }</code>
+              <h4 class="sample-h1">{ principle.title }</h4>
               <p class="type-meta">{ principle.description }</p>
             </div>)
           }
