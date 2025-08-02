@@ -18,27 +18,40 @@ draft: false
 
 108 nghĩa đúng với thực tướng như xa rời thế gian. 39 môn phái ý kiến giải, mà tuyên truyền chính pháp. Hiểu rõ danh và tướng đều là giả trá bởi mê vọng thường ấp ủ, dựa chính trí để hiểu chân như giác ngộ lý duyên khởi mà quy chân lý màu nhiệm.
 
-Gió cảnh đã tắt, sóng thức mới yên. Ba tự tính cũng đều không.
+Gió cảnh đã tắt, sóng thức mới yên. 
+Ba tự tính cũng đều không.
+Hai vô ngã cũng tắt. 
+Vào cả Như Lai tạng tới cửa giải thoát.
 
-Hai vô ngã cũng tắt, vào cả Như Lai tạng tới cửa giải thoát.
-
-Đó là trích bài tựa ở kinh Đại thừa nhập Lăng Già "bản dịch đời nhà Đường?” Kinh Lăng Già gồm có 4 bản dịch bây giờ còn có 3:
+Đó là trích bài tựa ở kinh Đại thừa nhập Lăng Già "bản dịch đời nhà Đường?”.
+Kinh Lăng Già gồm có 4 bản dịch bây giờ còn có 3:
 
 (1) 4 quyển Lăng Già A bạt đa la bảo kinh đời Lưu Tống, Ngài Cầu Na Bạt đà la dịch.
 
 (2) Nhập lăng Già Kinh, 10 quyền đời nhà Nguyên Ngụy, Ngài Bồ - Đề - Lưu - Chi dịch.
 
-(3) Đai thừa Nhập - Lăng - Già Kinh 7 quyền, đời nhà Đường Ngài Thực Xoa Nan Đà cùng với nhón các Ngài Phục Lễ dịch. Tuy ý kinh thi dịch có khác nhau, nhưng tên vẫn là Lăng Già.
+(3) Đai thừa Nhập - Lăng - Già Kinh 7 quyền, đời nhà Đường Ngài Thực Xoa Nan Đà cùng với nhón các Ngài Phục Lễ dịch. 
 
+Tuy ý kinh thi dịch có khác nhau, nhưng tên vẫn là Lăng Già.
 Lăng Già dịch "không thể tới được", không thế "vào được"!
+Còn là tên của Thành. Bởi vì trên đỉnh núi có thành Dạ Xoa. 
+Thuở xưa đức Thích Tôn thuyết pháp ở đó nhân địa điểm mà đặt tên. 
+Cho nên kinh đề là Lăng Già. 
 
-Còn là tên của Thành. Bởi vì trên đỉnh núi có thành Dạ Xoa. Thuở xưa đức Thích Tôn thuyết pháp ở đó nhân địa điểm mà đặt tên. Cho nên kinh đề là Lăng Già. Nay dùng công thức luận Nhân-minh, hiểu nghĩa kinh thế này: Các pháp đều là huyễn hóa (tông); bởi vì duy tâm hiện ra, theo các loài thấy hay không (nhân). Như người thấy sông Hằng, quỷ thấy lửa.
-
+Nay dùng công thức luận Nhân-minh, hiểu nghĩa kinh thế này: 
+Các pháp đều là huyễn hóa (tông); bởi vì duy tâm hiện ra, theo các loài thấy hay không (nhân). 
+Như người thấy sông Hằng, quỷ thấy lửa.
 Nói đến luận nhân minh, hơi giống luận lý học phương Tây.
 
 Nguồn gốc từ Phật thuyết, văn thì nghĩa thì rải rác ở khắp các kinh, về sau có Bồ tát Trần Na, và môn nhân là Thương yết La, Đàm Ấn, Tinh Nguyệt, đều có tu chính những pháp lập phá, thành lập trở thành xác đáng.
 
-Luận có phép 3 chi là Tông, Nhân, Dụ. Tông thiết nên ý cho nên nêu ra trước. Kinh Lăng Gìa này lập (các pháp đều huyễn hóa là "Tông".) Nhưng huyễn hóa vốn không phải không có, bởi vì có tướng "huyền" tuy có mà không thực: không thực cho nên không thể chấp là có: vì có huyền tướng cho nên không phải là không. Chẳng không, chẳng có, chẳng thực, thế là nghĩa huyễn.
+Luận có phép 3 chi là Tông, Nhân, Dụ. 
+Tông thiết nên ý cho nên nêu ra trước. 
+Kinh Lăng Gìa này lập (các pháp đều huyễn hóa là "Tông"). 
+Nhưng huyễn hóa vốn không phải không có, bởi vì có tướng "huyền" tuy có mà không thực.
+Không thực cho nên không thể chấp là có. 
+Vì có huyền tướng cho nên không phải là không. 
+Chẳng không, chẳng có, chẳng thực, thế là nghĩa huyễn.
 
 Chu pháp: là một danh từ phổ thông, phàm tất cả có gì đều bao gồm hết. 
 Các pháp đều huyễn là tất cả đều huyễn hoá, nói cho rõ ràng ra, là những pháp hữu lậu, vô lậu, hữu vi, vô vi đều là huyễn cả. 
