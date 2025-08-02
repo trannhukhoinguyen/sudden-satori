@@ -37,7 +37,7 @@ const ZongjingLu  = defineCollection({
   }),
 });
 
-const koan  = defineCollection({
+const koans  = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
@@ -55,4 +55,4 @@ const koan  = defineCollection({
   }),
 });
 
-export const collections = { blog, ZongjingLu, koan };
+export const collections = { blog, ZongjingLu, koans };
