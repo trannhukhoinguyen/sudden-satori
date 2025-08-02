@@ -1,14 +1,10 @@
 ---
 title: "CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU "
+date: "2025-06-14"
 description: ""
-date: 2025-06-14
-tags:
-  - "CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU"
-  - "BÍCH NHAM LỤC"
-  - "công án"
-authors:
-  - "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
-updatedDate: 2025-06-14
+author: "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
+categories: ["Công án"]
+tags: ["BÍCH NHAM LỤC", "TRIỆU CHÂU Thiền Sư"]
 draft: false
 ---
 

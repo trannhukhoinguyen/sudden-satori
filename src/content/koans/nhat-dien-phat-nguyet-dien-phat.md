@@ -1,18 +1,12 @@
 ---
 title: "MÃ SƯ BẤT AN"
+date: "2025-06-14"
 description: ""
-date: 2025-06-14
-tags:
-  - "MÃ SƯ BẤT AN"
-  - "BÍCH NHAM LỤC"
-  - "công án"
-authors:
-  - "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
-updatedDate: 2025-06-14
+author: "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
+categories: ["Công án"]
+tags: ["BÍCH NHAM LỤC", "MÃ TỔ Thiền Sư"]
 draft: false
 ---
-
-# CÔNG ÁN
 
 ## THÙY:
 

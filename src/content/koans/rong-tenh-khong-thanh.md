@@ -1,18 +1,12 @@
 ---
-title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA"
+title: "Cái Trống Không của Đạt Ma Tổ Sư"
+date: "2000-01-01"
 description: ""
-date: 2025-06-13
-tags:
-  - "CÁI TRỐNG KHÔNG CỦA ĐẠT MA"
-  - "BÍCH NHAM LỤC"
-  - "công án"
-authors:
-  - "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
-updatedDate: 2025-06-13
+author: "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
+categories: ["Công án"]
+tags: ["BÍCH NHAM LỤC", "Đạt Ma Tổ Sư"]
 draft: false
 ---
-
-# CÔNG ÁN
 
 ## THÙY:
 
