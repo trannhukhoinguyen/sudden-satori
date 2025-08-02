@@ -15,7 +15,7 @@ export interface SiteConfig {
 }
 
 export const config: SiteConfig = {
-  title: "Đốn Ngộ",
+  title: "TỒ SƯ THIỀN - Đốn Ngộ",
   description: "Kiến tánh thành Phật",
   author: {
     name: "Nhất Thiết Phật Ngữ Tâm",

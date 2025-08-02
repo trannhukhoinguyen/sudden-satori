@@ -1,35 +1,41 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { config } from '../config';
+import rules from '@/data/rules.ts';
+import principles from '@/data/principles.ts';
 
 const { title, description, author, social } = config;
-const pageDescription = `Learn more about ${author.name} and the ${title} blog`;
 ---
 
-<Layout title={`About | ${title}`} description={pageDescription}>
+<Layout title={`About | ${title}`} description={description}>
   <div class="about-page">
     <header class="page-header">
-      <h1 class="page-title">About</h1>
+      <h1 class="page-title">{title}</h1>
       <hr class="page-rule" />
     </header>
 
     <div class="content-section">
-      <h2>About This Blog</h2>
+      <h2>{title}</h2>
       <p>{description}</p>
 
-      <h2>Design Philosophy</h2>
-      <p>
-        Sudden Satori explores the fascinating intersection between Bauhaus modernism and
-        bold typography. This theme creates a minimalist aesthetic that is
-        visually striking, functional, and conceptually rich.
-      </p>
-
-      <h2>Core Principles</h2>
+      <h2>10 Quy Ước</h2>
       <ul>
-        <li><strong>Bold Typography</strong>: Strong typographic hierarchy with uppercase headings</li>
-        <li><strong>Minimalism as a Base</strong>: Clean, uncluttered aesthetic with generous white space</li>
-        <li><strong>Geometric Structure</strong>: Consistent 8-point grid system for layout harmony</li>
-        <li><strong>High Contrast</strong>: Clear visual separation between elements</li>
+        {
+          rules?.map(rule => <li>
+            <h4>{ rule.title }</h4>:
+            <p>{ rule.description }</p>
+          </li>)
+        }
+      </ul>
+
+      <h2>2 Tâm Niệm</h2>
+      <ul>
+        {
+          principles?.map(principle => <li>
+            <h4>{ principle.title }</h4>:
+            <p>{ principle.description }</p>
+          </li>)
+        }
       </ul>
     </div>
   </div>
