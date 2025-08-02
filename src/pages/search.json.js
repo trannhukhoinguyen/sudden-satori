@@ -1,13 +1,22 @@
 export async function GET() {
   // Get all blog posts
-  const posts = await import.meta.glob('../content/blog/*.md');
-  
+  const blogPostsMd = await import.meta.glob('../content/blog/*.md');
+  const blogPostsMdx = await import.meta.glob('../content/blog/*.mdx');
+  const koanPostsMd = await import.meta.glob('../content/koans/*.md');
+  const koanPostsMdx = await import.meta.glob('../content/koans/*.mdx');
+  const posts = [
+      ...blogPostsMd,
+      ...blogPostsMdx,
+      ...koanPostsMd,
+      ...koanPostsMdx,
+  ];
+
   const searchData = [];
-  
+
   for (const path in posts) {
     const post = await posts[path]();
     const url = path.replace('../content', '').replace('.md', '');
-    
+
     searchData.push({
       title: post.frontmatter.title || 'Untitled',
       url: url,
@@ -16,10 +25,10 @@ export async function GET() {
       categories: post.frontmatter.categories || []
     });
   }
-  
+
   // Sort by date (newest first)
   searchData.sort((a, b) => new Date(b.date) - new Date(a.date));
-  
+
   return new Response(JSON.stringify(searchData), {
     headers: {
       'Content-Type': 'application/json',

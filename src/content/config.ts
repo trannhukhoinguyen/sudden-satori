@@ -1,4 +1,4 @@
-import {defineCollection, reference, z} from 'astro:content';
+import {defineCollection, z} from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const blog = defineCollection({
@@ -19,8 +19,8 @@ const blog = defineCollection({
   }),
 });
 
-const ZongjingLu  = defineCollection({
-  type: 'content',
+const zongjinglu  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/zongjinglu" }),
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
@@ -38,7 +38,7 @@ const ZongjingLu  = defineCollection({
 });
 
 const koans  = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans" }),
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
@@ -55,4 +55,4 @@ const koans  = defineCollection({
   }),
 });
 
-export const collections = { blog, ZongjingLu, koans };
+export const collections = { blog, zongjinglu, koans };
