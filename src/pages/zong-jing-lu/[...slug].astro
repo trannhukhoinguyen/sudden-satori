@@ -7,8 +7,8 @@ import { calculateReadingTime, extractTextFromMarkdown } from '../../utils/readi
 import MediaArea from "../../components/MediaArea.astro";
 
 export async function getStaticPaths() {
-  const mdPostsGlob = import.meta.glob('../../content/blog/*.md', { eager: true });
-  const mdxPostsGlob = import.meta.glob('../../content/blog/*.mdx', { eager: true });
+  const mdPostsGlob = import.meta.glob('../../content/zongjinglu/*.md', { eager: true });
+  const mdxPostsGlob = import.meta.glob('../../content/zongjinglu/*.mdx', { eager: true });
 
   const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
 
@@ -102,7 +102,7 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
       )}
 
       <div class="post-navigation">
-        <a href={`${base}/blog`} class="back-to-blog">← Xem Tất cả Blog</a>
+        <a href={`${base}/ZongjingLu`} class="back-to-blog">← Xem Tất cả ZongjingLu</a>
       </div>
     </footer>
   </article>

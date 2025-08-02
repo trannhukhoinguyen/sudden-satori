@@ -1,10 +1,12 @@
 export interface author {
+  id: number;
   name: string;
   bio: string;
   avatar?: string;
   references?: {
     link_1?: string;
     link_2?: string;
+    link_3?: string[];
   };
   compositions: {
     pdf_1?: {
@@ -20,10 +22,13 @@ export interface author {
       link?: string;
     }
   },
+  lectures?: string[],
+  youtubeIds?: string[],
 }
 
 export const authors: author[] = [
     {
+      id: 1,
       name: "Tăng Phụng Nghi",
       bio: "Tự Thuấn Vi, hiệu Kim Giản, quê ở Hành Dương, Hồ Nam, đậu Tiến Sĩ đời Vạn Lịch nhà Minh. " +
           "Ông từng gặp một vị Tăng, cùng nhau tranh luận 3 ngày không dứt. " +
@@ -49,5 +54,41 @@ export const authors: author[] = [
           link: "",
         },*/
       },
-    }
+    },
+    {
+      id: 2,
+      name: "Thích Duy Lực",
+      bio: "",
+      avatar: "",
+      references: {
+        link_1: "https://tosuthien.com/",
+        link_2: "https://duylucthien.wordpress.com/about/",
+        link_3: [
+          "https://thuvienhoasen.org/author/post/792/1/thich-duy-luc",
+          "https://ph.tinhtong.vn/Home/MP3?p=MP3*-+T+Duy+Luc",
+          "https://tosuthien.net/",
+          "https://tosuthien.info/",
+          "https://apps.apple.com/ai/app/tosuthien/id1660073789",
+          "https://www.mixcloud.com/tosuthien/",
+          "https://tosuthien.blogspot.com/",
+          "http://tuvien.com/to_su_thien/",
+        ],
+      },
+      compositions: {
+        pdf_1: {
+          title: "ĐƯỜNG LỐI THỰC HÀNH THAM TỒ SƯ THIỀN",
+          link: "https://phapthihoi.org/kinh/Ebooks/Thien-Tong/Hoc-Thien/Duong-Loi-Thuc-Hanh-Tham-To-Su-Thien-HT-Duy-Luc.pdf",
+        },
+        pdf_2: {
+          title: "KINH LĂNG GIÀ",
+          link: "http://tosuthien.info/kinh_sach_storage/kinh%20lang%20gia.pdf",
+        },
+      },
+      lectures: [
+        "https://thamtosuthien.net/videos/chua-phan-loai/thay-duy-luc-day-tham-thoai-dau-phu-de-anh-ngu-quan-thoai-18.html)",
+      ],
+      youtubeIds: [
+        "DLS2VpXg3N8", // "https://www.youtube.com/embed/DLS2VpXg3N8?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1)",
+      ],
+    },
 ];

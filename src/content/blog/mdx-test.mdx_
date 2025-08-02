@@ -1,14 +1,10 @@
 ---
 title: "Testing MDX Support"
 date: "2025-01-12"
-author: "Bill Gates"
-excerpt: "Demonstrating the power of MDX in our Astro theme"
+author: ""
+excerpt: ""
 categories: ["Development", "Features"]
 tags: ["mdx", "astro", "components"]
-audioUrls: [
-"http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
-]
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 ---
 
 ```css

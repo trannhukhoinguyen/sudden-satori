@@ -12,12 +12,12 @@ export async function GET(context) {
       link: `/blog/${slug}/`,
     };
   });
-  
+
   return rss({
     title: config.title,
     description: config.description,
     site: context.site,
     items: items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate)),
-    customData: `<language>en-us</language>`,
+    customData: `<language>vi</language>`,
   });
 }

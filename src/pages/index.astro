@@ -1,6 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import rules from '@/data/rules.ts';
+import principles from '@/data/principles.ts';
+import gates from '@/data/gates.ts';
 
 const mdPostsGlob = import.meta.glob('../content/blog/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blog/*.mdx', { eager: true });
@@ -78,15 +80,58 @@ const sortedPosts = allPosts
       </div>
     </section>
 
-    <!-- Features Section -->
+    <!-- Rule Section -->
     <section class="rules" id="rules">
       <div class="container">
-        <h2 class="section-title">10 Quy Ước Bắt Buộc</h2>
+        <h2 class="section-title">10 Quy Ước</h2>
+        <p class="section-description">
+          Người tham Tổ Sư Thiền phải chú ý những điều sau đây.
+        </p>
+
         <div class="rules-grid">
           {
             rules?.map(rule => <div class="rule-card">
               <h3 class="rule-title">{ rule.title }</h3>
               <p class="rule-description">{ rule.description }</p>
+            </div>)
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- Principle Section -->
+    <section class="typography-showcase">
+      <div class="container">
+        <h2 class="section-title">2 Tâm Niệm</h2>
+        <p class="typography-description">
+          Muốn đạt đến kiến tánh giải thoát, hành giả tham tổ sư thiền cần phải thực hành đúng theo cơ bản như sau.
+        </p>
+
+        <div class="typography-samples">
+          {
+            principles?.map(principle => <div class="type-sample">
+              <h4 class="sample-h1">{ principle.title }</h4>
+              <p class="type-meta">{ principle.description }</p>
+            </div>)
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- 3 Satori Gates Section -->
+    <section class="installation" id="installation">
+      <div class="container">
+        <h2 class="section-title">3 Quan Ải Giác Ngộ</h2>
+        <div class="install-steps">
+          {
+            gates?.map(gate => <div class="step">
+              <h3 class="step-number">{ gate.id }</h3>
+              <div class="step-content">
+                <h4 class="step-title">{ gate.title }</h4>
+                <pre class="code-block">
+                  <code>{ gate.description }</code>
+                </pre>
+              </div>
             </div>)
           }
         </div>
