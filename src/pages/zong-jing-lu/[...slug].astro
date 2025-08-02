@@ -7,8 +7,8 @@ import { calculateReadingTime, extractTextFromMarkdown } from '../../utils/readi
 import MediaArea from "../../components/MediaArea.astro";
 
 export async function getStaticPaths() {
-  const mdPostsGlob = import.meta.glob('../../content/ZongjingLu/*.md', { eager: true });
-  const mdxPostsGlob = import.meta.glob('../../content/ZongjingLu/*.mdx', { eager: true });
+  const mdPostsGlob = import.meta.glob('../../content/zongjinglu/*.md', { eager: true });
+  const mdxPostsGlob = import.meta.glob('../../content/zongjinglu/*.mdx', { eager: true });
 
   const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
 
