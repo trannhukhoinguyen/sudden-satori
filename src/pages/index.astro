@@ -4,8 +4,8 @@ import rules from '@/data/rules.ts';
 import principles from '@/data/principles.ts';
 import gates from '@/data/gates.ts';
 
-const mdPostsGlob = import.meta.glob('../content/blog/*.md', { eager: true });
-const mdxPostsGlob = import.meta.glob('../content/blog/*.mdx', { eager: true });
+const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
+const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
 
 const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
 const sortedPosts = allPosts

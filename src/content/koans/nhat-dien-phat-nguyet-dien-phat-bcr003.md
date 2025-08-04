@@ -83,7 +83,9 @@ Tuyết Đậu trực tiếp chú giải (Mã Tổ). Cho nên mới có lời n�
 
 Chỉ một câu này đã chấm dứt bài tụng. Sau đó, Tuyết Đậu lại vụng về việc nổ lực tham thiền cả đời của thầy ta.
 
-“Hai mười năm nay bao tân khổ, vì người mấy bận vào hang rồng”. Tuyết Đậu giống cái gì? Giống như một người vào hang rồng để tìm ngọc.
+“Hai mười năm nay bao tân khổ, vì người mấy bận vào hang rồng”. 
+
+Tuyết Đậu giống cái gì? Giống như một người vào hang rồng để tìm ngọc.
 
 Sau đó mới phá tan vô minh.
 
@@ -102,9 +104,13 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 
 ***
 
+> Nguồn: https://hoavouu.com/p26a12725/4/tac-thu-ba-ma-su-bat-an
+>
+> Nguồn: https://quangduc.com/p1241a43253/2-tac-01-tac-03
+>
 > Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01
 >
-> Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html
+> Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
 
 

@@ -26,11 +26,20 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <nav class="main-navigation" role="navigation" aria-label="Main navigation">
         <ul class="nav-list">
           <li><a href={base} class="nav-link">Home</a></li>
-          <li><a href={base + "blog"} class="nav-link">Blog</a></li>
-          <li><a href={base + "categories"} class="nav-link">Categories</a></li>
-          <li><a href={base + "about"} class="nav-link">About</a></li>
-          <li><a href={base + "authors"} class="nav-link">Authors</a></li>
+          <li><a href={base + "sutras"} class="nav-link">Kinh</a></li>
+          <li><a href={base + "interpretations"} class="nav-link">Luận</a></li>
           <li><a href={base + "koans"} class="nav-link">Công án</a></li>
+          <li><a href={base + "practices"} class="nav-link">Thực hành</a></li>
+          <li><a href={base + "blog"} class="nav-link">Blog</a></li>
+          <li>
+            <select id="nav-select" class="nav-select" aria-label="Main navigation">
+              <option value="" disabled selected hidden>Khác</option>
+              <option value={base + "categories"}>Categories</option>
+              <option value={base + "about"}>Giới thiệu</option>
+              <option value={base + "authors"}>Tác giả</option>
+              <option value={base + "poems"}>Thơ Thiền</option>
+            </select>
+          </li>
         </ul>
       </nav>
 
@@ -61,11 +70,15 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
   <ul class="mobile-nav-list">
     <li><a href={base} class="mobile-nav-link">Home</a></li>
+    <li><a href={base + "sutras"} class="mobile-nav-link">Kinh</a></li>
+    <li><a href={base + "interpretations"} class="mobile-nav-link">Luận</a></li>
+    <li><a href={base + "koans"} class="mobile-nav-link">Công án</a></li>
+    <li><a href={base + "practices"} class="mobile-nav-link">Thực hành</a></li>
     <li><a href={base + "blog"} class="mobile-nav-link">Blog</a></li>
     <li><a href={base + "categories"} class="mobile-nav-link">Categories</a></li>
-    <li><a href={base + "about"} class="mobile-nav-link">About</a></li>
-    <li><a href={base + "authors"} class="mobile-nav-link">Authors</a></li>
-    <li><a href={base + "koans"} class="mobile-nav-link">Công án</a></li>
+    <li><a href={base + "about"} class="mobile-nav-link">Giới thiệu</a></li>
+    <li><a href={base + "authors"} class="mobile-nav-link">Tác giả</a></li>
+    <li><a href={base + "poems"} class="mobile-nav-link">Thơ Thiền</a></li>
   </ul>
 </nav>
 
@@ -248,6 +261,14 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   } else {
     init();
   }
+
+  // Select Menu
+  document.addEventListener("DOMContentLoaded", () => {
+    const select = document.getElementById("nav-select") as HTMLSelectElement;
+    select.addEventListener("change", (e) => {
+      window.location.href = (e.target as HTMLSelectElement).value;
+    });
+  })
 </script>
 
 <style>
@@ -514,7 +535,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     flex-shrink: 0;
   }
 
-  .nav-list {
+  .nav-list, .nav-select {
     display: flex;
     list-style: none;
     margin: 0;
@@ -522,7 +543,19 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     gap: calc(var(--grid-unit) * 3);
   }
 
-  .nav-link {
+  .nav-select {
+    font-family: var(--font-heading-secondary);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-primary);
+    background-color: #e3222f;
+    padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+  }
+
+  .nav-link, .nav-select option {
     font-family: var(--font-heading-secondary);
     font-weight: 700;
     text-transform: uppercase;
@@ -534,7 +567,9 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .nav-link:hover,
-  .nav-link:focus {
+  .nav-link:focus,
+  #nav-select option:hover,
+  #nav-select option:focus {
     color: var(--color-accent);
     border-bottom-color: var(--color-accent);
     text-decoration: none;

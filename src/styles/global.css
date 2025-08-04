@@ -8,10 +8,10 @@
   --color-medium-gray: #888888;
   --color-dark-gray: #333333;
   --color-black: #000000;
-  
+
   /* Accent Color */
   --color-accent-red: #dc2626;
-  
+
   /* Semantic Colors */
   --color-background: var(--color-white);
   --color-surface: var(--color-light-gray);
@@ -20,13 +20,13 @@
   --color-text-muted: var(--color-medium-gray);
   --color-border: var(--color-medium-gray);
   --color-accent: var(--color-accent-red);
-  
+
   /* Typography */
   --font-heading-primary: 'Oswald', sans-serif;
   --font-heading-secondary: 'Roboto Condensed', sans-serif;
   --font-body: 'Work Sans', sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
-  
+
   /* Layout */
   --grid-unit: 8px;
   --max-width: 1200px;
@@ -141,6 +141,16 @@ ul, ol {
 }
 
 li {
+  margin-bottom: calc(var(--grid-unit) / 2);
+}
+
+/* Selects */
+select {
+  margin-bottom: calc(var(--grid-unit) * 2);
+  padding-left: calc(var(--grid-unit) * 3);
+}
+
+option {
   margin-bottom: calc(var(--grid-unit) / 2);
 }
 

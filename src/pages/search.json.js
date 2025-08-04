@@ -1,10 +1,6 @@
 export async function GET() {
   // Get all blog posts
-  const blogPostsMd = await import.meta.glob('../content/blog/*.md');
-  const blogPostsMdx = await import.meta.glob('../content/blog/*.mdx');
-  const koanPostsMd = await import.meta.glob('../content/koans/*.md');
-  const koanPostsMdx = await import.meta.glob('../content/koans/*.mdx');
-  const posts = blogPostsMd || blogPostsMdx || koanPostsMd || koanPostsMdx;
+  const posts = await import.meta.glob('../content/blogs/*.md');
 
   const searchData = [];
 

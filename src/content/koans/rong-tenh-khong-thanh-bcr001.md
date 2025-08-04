@@ -1,10 +1,10 @@
 ---
-title: "Cái Trống Không của Đạt Ma Tổ Sư"
+title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ"
 date: "2000-01-01"
 description: ""
 author: "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "Đạt Ma Tổ Sư"]
+tags: ["BÍCH NHAM LỤC", "ĐẠT MA Tổ Sư"]
 draft: false
 ---
 
@@ -161,6 +161,10 @@ Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này
 
 ***
 
+> Nguồn: https://hoavouu.com/p26a12723/4/tac-thu-nhat-cai-trong-khong-cua-dat-ma
+>
+> Nguồn: https://quangduc.com/p1241a43253/2-tac-01-tac-03
+>
 > Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01
 >
-> Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html
+> Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1

@@ -2,7 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const postsGlob = import.meta.glob('../../content/blog/*.md', { eager: true });
+  const postsGlob = import.meta.glob('../../content/blogs/*.md', { eager: true });
   const allPosts = Object.values(postsGlob) as any[];
 
   // Extract all unique categories
@@ -50,7 +50,7 @@ const base = import.meta.env.BASE_URL;
       {posts.map((post: any) => (
         <article class="post-item">
           <h2 class="post-title">
-            <a href={`${base}blog/${post.file.split('/').pop()?.replace('.md', '')}`}>
+            <a href={`${base}blogs/${post.file.split('/').pop()?.replace('.md', '')}`}>
               {post.frontmatter.title}
             </a>
           </h2>
@@ -69,7 +69,7 @@ const base = import.meta.env.BASE_URL;
             <p class="post-excerpt">{post.frontmatter.excerpt}</p>
           )}
 
-          <a href={`${base}blog/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
+          <a href={`${base}blogs/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
             Read More →
           </a>
         </article>

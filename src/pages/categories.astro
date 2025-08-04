@@ -2,9 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 
 const base = import.meta.env.BASE_URL;
+const title = "Categories";
+const titleFull = title + "Sudden Satori";
+const description = "Xem các category";
 
 // Get all blog posts
-const postsGlob = import.meta.glob('../content/blog/*.md', { eager: true });
+const postsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
 const allPosts = Object.values(postsGlob) as any[];
 
 // Extract all categories from posts
@@ -35,10 +38,10 @@ const sortedCategories = Object.entries(categoryMap)
   });
 ---
 
-<Layout title="Categories - Sudden Satori" description="Browse articles by category" showSidebar={true}>
+<Layout title={titleFull} description={description} showSidebar={true}>
   <div class="categories-page">
     <header class="page-header">
-      <h1 class="page-title">Categories</h1>
+      <h1 class="page-title">{title}</h1>
       <p class="page-description">
         ...
       </p>
