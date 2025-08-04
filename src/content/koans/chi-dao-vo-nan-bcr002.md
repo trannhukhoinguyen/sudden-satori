@@ -1,5 +1,5 @@
 ---
-title: "CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU "
+title: "CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU"
 date: "2025-06-14"
 description: ""
 author: "Thiền Sư - Phật Quả Viên Ngộ Khắc Cần"
