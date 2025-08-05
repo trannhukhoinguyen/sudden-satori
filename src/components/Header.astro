@@ -537,12 +537,38 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     flex-shrink: 0;
   }
 
-  .nav-list, .nav-select {
+  .nav-list {
     display: flex;
     list-style: none;
     margin: 0;
     padding: 0;
     gap: calc(var(--grid-unit) * 3);
+  }
+
+  .nav-link {
+    font-family: var(--font-heading-secondary);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-primary);
+    padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+  }
+
+  .nav-link:hover,
+  .nav-link:focus {
+    color: var(--color-accent);
+    border-bottom-color: var(--color-accent);
+    text-decoration: none;
+  }
+
+  .nav-select {
+      display: flex;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      gap: calc(var(--grid-unit) * 3);
   }
 
   .nav-select {
@@ -557,7 +583,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     transition: all 0.2s ease;
   }
 
-  .nav-link, .nav-select option {
+  .nav-select option {
     font-family: var(--font-heading-secondary);
     font-weight: 700;
     text-transform: uppercase;
@@ -568,8 +594,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     transition: all 0.2s ease;
   }
 
-  .nav-link:hover,
-  .nav-link:focus,
   #nav-select option:hover,
   #nav-select option:focus {
     color: var(--color-accent);
