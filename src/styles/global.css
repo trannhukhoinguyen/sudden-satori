@@ -235,7 +235,7 @@ hr {
   border: 0;
 }
 
-ul li {
+ul[role="tablist"] li[role="presentation"] {
   margin-right: 50px;
   font-size: 1.5rem;
   font-weight: 700;
