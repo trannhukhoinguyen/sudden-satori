@@ -15,10 +15,8 @@ const postsBlogGlobMd = import.meta.glob('../content/blogs/*.md', { eager: true 
 const postsBlogGlobMdx = import.meta.glob('../content/blogs/*.mdx', { eager: true });
 const allBlogPostsMd = Object.values(postsBlogGlobMd) as any[];
 const allBlogPostsMdx = Object.values(postsBlogGlobMdx) as any[];
-[
-    ...allBlogPostsMd,
-    ...allBlogPostsMdx,
-].forEach((post: any) => {
+const allBlogPosts = allBlogPostsMd.concat(allBlogPostsMdx);
+allBlogPosts.forEach((post: any) => {
   if (post.frontmatter.categories) {
     post.frontmatter.categories.forEach((category: string) => {
       allCategories.add(category);
@@ -32,10 +30,8 @@ const postsInterpretationGlobMd = import.meta.glob('../content/interpretations/*
 const postsInterpretationGlobMdx = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
 const allInterpretationPostsMd = Object.values(postsInterpretationGlobMd) as any[];
 const allInterpretationPostsMdx = Object.values(postsInterpretationGlobMdx) as any[];
-[
-    ...allInterpretationPostsMd,
-    ...allInterpretationPostsMdx,
-].forEach((post: any) => {
+const allInterpretationPosts = allInterpretationPostsMd.concat(allInterpretationPostsMdx);
+allInterpretationPosts.forEach((post: any) => {
   if (post.frontmatter.categories) {
     post.frontmatter.categories.forEach((category: string) => {
       allCategories.add(category);
@@ -49,10 +45,8 @@ const postsKoanGlobMd = import.meta.glob('../content/koans/*.md', { eager: true 
 const postsKoanGlobMdx = import.meta.glob('../content/koans/*.mdx', { eager: true });
 const allKoanPostsMd = Object.values(postsKoanGlobMd) as any[];
 const allKoanPostsMdx = Object.values(postsKoanGlobMdx) as any[];
-[
-    allKoanPostsMd,
-    allKoanPostsMdx,
-].forEach((post: any) => {
+const allKoanPosts = allKoanPostsMd.concat(allKoanPostsMdx);
+allKoanPosts.forEach((post: any) => {
   if (post.frontmatter.categories) {
     post.frontmatter.categories.forEach((category: string) => {
       allCategories.add(category);
@@ -66,10 +60,8 @@ const postsPoemGlobMd = import.meta.glob('../content/poems/*.md', { eager: true 
 const postsPoemGlobMdx = import.meta.glob('../content/poems/*.mdx', { eager: true });
 const allPoemPostsMd = Object.values(postsPoemGlobMd) as any[];
 const allPoemPostsMdx = Object.values(postsPoemGlobMdx) as any[];
-[
-    allPoemPostsMd,
-    allPoemPostsMdx,
-].forEach((post: any) => {
+const allPoemPosts = allPoemPostsMd.concat(allPoemPostsMdx);
+allPoemPosts.forEach((post: any) => {
   if (post.frontmatter.categories) {
     post.frontmatter.categories.forEach((category: string) => {
       allCategories.add(category);
@@ -83,10 +75,8 @@ const postsSutraGlobMd = import.meta.glob('../content/sutras/*.md', { eager: tru
 const postsSutraGlobMdx = import.meta.glob('../content/sutras/*.mdx', { eager: true });
 const allSutraPostsMd = Object.values(postsSutraGlobMd) as any[];
 const allSutraPostsMdx = Object.values(postsSutraGlobMdx) as any[];
-[
-    allSutraPostsMd,
-    allSutraPostsMdx,
-].forEach((post: any) => {
+const allSutraPosts = allSutraPostsMd.concat(allSutraPostsMdx);
+allSutraPosts.forEach((post: any) => {
   if (post.frontmatter.categories) {
     post.frontmatter.categories.forEach((category: string) => {
       allCategories.add(category);
@@ -100,10 +90,8 @@ const postsZongjingluGlobMd = import.meta.glob('../content/zongjinglus/*.md', { 
 const postsZongjingluGlobMdx = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
 const allZongjingluPostsMd = Object.values(postsZongjingluGlobMd) as any[];
 const allZongjingluPostsMdx = Object.values(postsZongjingluGlobMdx) as any[];
-[
-    allZongjingluPostsMd,
-    allZongjingluPostsMdx,
-].forEach((post: any) => {
+const allZongjingluPosts = allZongjingluPostsMd.concat(allZongjingluPostsMdx);
+allZongjingluPosts.forEach((post: any) => {
   if (post.frontmatter.categories) {
     post.frontmatter.categories.forEach((category: string) => {
       allCategories.add(category);
@@ -114,18 +102,12 @@ const allZongjingluPostsMdx = Object.values(postsZongjingluGlobMdx) as any[];
 
 // Create paths for each category
 const allPosts = [
-  ...allBlogPostsMd,
-  ...allBlogPostsMdx,
-  ...allInterpretationPostsMd,
-  ...allInterpretationPostsMdx,
-  ...allKoanPostsMd,
-  ...allKoanPostsMdx,
-  ...allPoemPostsMd,
-  ...allPoemPostsMdx,
-  ...allSutraPostsMd,
-  ...allSutraPostsMdx,
-  ...allZongjingluPostsMd,
-  ...allZongjingluPostsMdx,
+  ...allBlogPosts,
+  ...allInterpretationPosts,
+  ...allKoanPosts,
+  ...allPoemPosts,
+  ...allSutraPosts,
+  ...allZongjingluPosts,
 ];
 
 // Create category map with post counts

@@ -14,7 +14,7 @@ export default defineConfig({
   integrations: [
     sitemap(),
     starlight({
-      title: 'My delightful docs site',
+      title: 'Tham thiền Đốn ngộ',
     }),
 
     // Always integrate mdx() in the last position
