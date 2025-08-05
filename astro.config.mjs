@@ -2,7 +2,6 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,9 +12,6 @@ export default defineConfig({
   base: process.env.BASE_PATH || undefined,
   integrations: [
     sitemap(),
-    starlight({
-      title: 'Tham thiền Đốn ngộ',
-    }),
 
     // Always integrate mdx() in the last position
     mdx(),
