@@ -3,25 +3,132 @@ import Layout from '../layouts/Layout.astro';
 
 const base = import.meta.env.BASE_URL;
 const title = "Categories";
-const titleFull = title + "Sudden Satori";
-const description = "Xem các category";
+const path = "categories";
+const titleFull = title + " | Sudden Satori";
+const description = "Xem " + title;
 
-// Get all blog posts
-const postsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
-const allPosts = Object.values(postsGlob) as any[];
-
-// Extract all categories from posts
 const allCategories = new Set<string>();
-allPosts.forEach((post: any) => {
+const categoryMap: Record<string, any[]> = {};
+
+// Blog posts
+const postsBlogGlobMd = import.meta.glob('../content/blogs/*.md', { eager: true });
+const postsBlogGlobMdx = import.meta.glob('../content/blogs/*.mdx', { eager: true });
+const allBlogPostsMd = Object.values(postsBlogGlobMd) as any[];
+const allBlogPostsMdx = Object.values(postsBlogGlobMdx) as any[];
+[
+    ...allBlogPostsMd,
+    ...allBlogPostsMdx,
+].forEach((post: any) => {
   if (post.frontmatter.categories) {
     post.frontmatter.categories.forEach((category: string) => {
       allCategories.add(category);
     });
+    post.frontmatter.group = "blogs";
   }
 });
 
+// Interpretation posts
+const postsInterpretationGlobMd = import.meta.glob('../content/interpretations/*.md', { eager: true });
+const postsInterpretationGlobMdx = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
+const allInterpretationPostsMd = Object.values(postsInterpretationGlobMd) as any[];
+const allInterpretationPostsMdx = Object.values(postsInterpretationGlobMdx) as any[];
+[
+    ...allInterpretationPostsMd,
+    ...allInterpretationPostsMdx,
+].forEach((post: any) => {
+  if (post.frontmatter.categories) {
+    post.frontmatter.categories.forEach((category: string) => {
+      allCategories.add(category);
+    });
+    post.frontmatter.group = "interpretations";
+  }
+});
+
+// Koan posts
+const postsKoanGlobMd = import.meta.glob('../content/koans/*.md', { eager: true });
+const postsKoanGlobMdx = import.meta.glob('../content/koans/*.mdx', { eager: true });
+const allKoanPostsMd = Object.values(postsKoanGlobMd) as any[];
+const allKoanPostsMdx = Object.values(postsKoanGlobMdx) as any[];
+[
+    allKoanPostsMd,
+    allKoanPostsMdx,
+].forEach((post: any) => {
+  if (post.frontmatter.categories) {
+    post.frontmatter.categories.forEach((category: string) => {
+      allCategories.add(category);
+    });
+    post.frontmatter.group = "koans";
+  }
+});
+
+// Poem posts
+const postsPoemGlobMd = import.meta.glob('../content/poems/*.md', { eager: true });
+const postsPoemGlobMdx = import.meta.glob('../content/poems/*.mdx', { eager: true });
+const allPoemPostsMd = Object.values(postsPoemGlobMd) as any[];
+const allPoemPostsMdx = Object.values(postsPoemGlobMdx) as any[];
+[
+    allPoemPostsMd,
+    allPoemPostsMdx,
+].forEach((post: any) => {
+  if (post.frontmatter.categories) {
+    post.frontmatter.categories.forEach((category: string) => {
+      allCategories.add(category);
+    });
+    post.frontmatter.group = "poems";
+  }
+});
+
+// Sutra posts
+const postsSutraGlobMd = import.meta.glob('../content/sutras/*.md', { eager: true });
+const postsSutraGlobMdx = import.meta.glob('../content/sutras/*.mdx', { eager: true });
+const allSutraPostsMd = Object.values(postsSutraGlobMd) as any[];
+const allSutraPostsMdx = Object.values(postsSutraGlobMdx) as any[];
+[
+    allSutraPostsMd,
+    allSutraPostsMdx,
+].forEach((post: any) => {
+  if (post.frontmatter.categories) {
+    post.frontmatter.categories.forEach((category: string) => {
+      allCategories.add(category);
+    });
+    post.frontmatter.group = "sutras";
+  }
+});
+
+// Zongjinglu posts
+const postsZongjingluGlobMd = import.meta.glob('../content/zongjinglus/*.md', { eager: true });
+const postsZongjingluGlobMdx = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
+const allZongjingluPostsMd = Object.values(postsZongjingluGlobMd) as any[];
+const allZongjingluPostsMdx = Object.values(postsZongjingluGlobMdx) as any[];
+[
+    allZongjingluPostsMd,
+    allZongjingluPostsMdx,
+].forEach((post: any) => {
+  if (post.frontmatter.categories) {
+    post.frontmatter.categories.forEach((category: string) => {
+      allCategories.add(category);
+    });
+    post.frontmatter.group = "zongjinglus";
+  }
+});
+
+// Create paths for each category
+const allPosts = [
+  ...allBlogPostsMd,
+  ...allBlogPostsMdx,
+  ...allInterpretationPostsMd,
+  ...allInterpretationPostsMdx,
+  ...allKoanPostsMd,
+  ...allKoanPostsMdx,
+  ...allPoemPostsMd,
+  ...allPoemPostsMdx,
+  ...allSutraPostsMd,
+  ...allSutraPostsMdx,
+  ...allZongjingluPostsMd,
+  ...allZongjingluPostsMdx,
+];
+
 // Create category map with post counts
-const categoryMap: Record<string, any[]> = {};
 Array.from(allCategories).forEach((category: string) => {
   categoryMap[category] = allPosts.filter((post: any) =>
     post.frontmatter.categories && post.frontmatter.categories.includes(category)
@@ -42,16 +149,14 @@ const sortedCategories = Object.entries(categoryMap)
   <div class="categories-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
-      <p class="page-description">
-        ...
-      </p>
+      <p class="page-description">{description}</p>
       <hr class="page-rule" />
     </header>
 
     <div class="categories-grid">
       {sortedCategories.map(([category, posts]: [string, any[]]) => (
         <div class="category-card">
-          <a href={`${base}categories/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
+          <a href={`${base}${path}/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
             <h2 class="category-title">{category}</h2>
             <p class="category-count">
               {posts.length} article{posts.length === 1 ? '' : 's'}
@@ -80,7 +185,7 @@ const sortedCategories = Object.entries(categoryMap)
   }
 
   .page-title {
-    font-family: var(--font-heading-primary);
+    font-family: var(--font-heading-primary),serif;
     font-size: 3rem;
     font-weight: 700;
     color: var(--color-accent);
@@ -133,7 +238,7 @@ const sortedCategories = Object.entries(categoryMap)
   }
 
   .category-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 1.1rem;
     font-weight: 700;
     margin-bottom: calc(var(--grid-unit) / 2);
@@ -148,7 +253,7 @@ const sortedCategories = Object.entries(categoryMap)
   }
 
   .category-count {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     font-size: 0.75rem;
     color: var(--color-text-muted);
     text-transform: uppercase;

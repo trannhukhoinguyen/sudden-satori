@@ -4,13 +4,13 @@ import { calculateReadingTime, extractTextFromMarkdown } from '../utils/reading-
 import {extractHeadings, filterHeadingsForTOC} from "../utils/table-of-contents";
 
 const base = import.meta.env.BASE_URL;
-const title = "Luận giải";
-const path = "interpretations";
+const title = "Thơ Thiền";
+const path = "poems";
 const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
 
-const mdPostsGlob = import.meta.glob('../content/interpretations/*.md', { eager: true });
-const mdxPostsGlob = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
+const mdPostsGlob = import.meta.glob('../content/poems/*.md', { eager: true });
+const mdxPostsGlob = import.meta.glob('../content/poems/*.mdx', { eager: true });
 
 const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
 const sortedPosts = allPosts

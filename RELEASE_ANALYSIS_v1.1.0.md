@@ -24,12 +24,12 @@ After conducting a systematic 5-step analysis of the Sudden Satori v1.1.0 codeba
 
 ### 🔴 1. Complete Build System Failure
 **Error**: `post.rawContent is not a function`  
-**Location**: `src/pages/blog/[...slug].astro:15,17`  
+**Location**: `src/pages/blogs/[...slug].astro:15,17`  
 **Impact**: Cannot create production build  
 **Root Cause**: Using deprecated rawContent() API incompatible with modern Astro content collections
 
 ```typescript
-// BROKEN CODE in src/pages/blog/[...slug].astro
+// BROKEN CODE in src/pages/blogs/[...slug].astro
 const plainText = extractTextFromMarkdown(post.rawContent()); // Line 15
 const allHeadings = extractHeadings(post.rawContent());       // Line 17
 ```
@@ -40,7 +40,7 @@ const allHeadings = extractHeadings(post.rawContent());       // Line 17
 **Error Count**: 72 TypeScript errors across codebase  
 **Primary Locations**:
 - `src/components/Header.astro` - 28 errors in search functionality
-- `src/pages/blog/[...slug].astro` - Type errors with post objects
+- `src/pages/blogs/[...slug].astro` - Type errors with post objects
 - `src/pages/categories/[category].astro` - Multiple implicit any types
 
 **Impact**: Code reliability completely compromised, runtime errors likely
@@ -111,7 +111,7 @@ npm run lint
 - `src/components/TableOfContents.astro` - ✅ TOC functionality implemented
 
 ### Page Analysis
-- `src/pages/blog/[...slug].astro` - ❌ Critical build failures with rawContent()
+- `src/pages/blogs/[...slug].astro` - ❌ Critical build failures with rawContent()
 - `src/pages/blog.astro` - ⚠️ Partially migrated to import.meta.glob()
 - `src/pages/categories/[category].astro` - ❌ Still uses deprecated Astro.glob()
 - `src/pages/index.astro` - ⚠️ Partially migrated to import.meta.glob()

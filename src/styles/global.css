@@ -234,3 +234,13 @@ hr {
   white-space: nowrap;
   border: 0;
 }
+
+ul li {
+  margin-right: 50px;
+  font-size: 1.5rem;
+  font-weight: 700;
+
+  a {
+    color: white;
+  }
+}

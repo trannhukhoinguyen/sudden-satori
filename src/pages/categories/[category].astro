@@ -2,20 +2,89 @@
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {
-  const postsGlob = import.meta.glob('../../content/blogs/*.md', { eager: true });
-  const allPosts = Object.values(postsGlob) as any[];
-
-  // Extract all unique categories
   const allCategories = new Set<string>();
-  allPosts.forEach((post: any) => {
+
+  // Blog posts
+  const postsBlogGlob = import.meta.glob('../../content/blogs/*.md', { eager: true });
+  const allBlogPosts = Object.values(postsBlogGlob) as any[];
+  allBlogPosts.forEach((post: any) => {
     if (post.frontmatter.categories) {
       post.frontmatter.categories.forEach((category: string) => {
         allCategories.add(category);
       });
+      post.frontmatter.group = "blogs";
+    }
+  });
+
+  // Interpretation posts
+  const postsInterpretationGlob = import.meta.glob('../../content/interpretations/*.md', { eager: true });
+  const allInterpretationPosts = Object.values(postsInterpretationGlob) as any[];
+  allInterpretationPosts.forEach((post: any) => {
+    if (post.frontmatter.categories) {
+      post.frontmatter.categories.forEach((category: string) => {
+        allCategories.add(category);
+      });
+      post.frontmatter.group = "interpretations";
+    }
+  });
+
+  // Koan posts
+  const postsKoanGlob = import.meta.glob('../../content/koans/*.md', { eager: true });
+  const allKoanPosts = Object.values(postsKoanGlob) as any[];
+  allKoanPosts.forEach((post: any) => {
+    if (post.frontmatter.categories) {
+      post.frontmatter.categories.forEach((category: string) => {
+        allCategories.add(category);
+      });
+      post.frontmatter.group = "koans";
+    }
+  });
+
+  // Poem posts
+  const postsPoemGlob = import.meta.glob('../../content/poems/*.md', { eager: true });
+  const allPoemPosts = Object.values(postsPoemGlob) as any[];
+  allPoemPosts.forEach((post: any) => {
+    if (post.frontmatter.categories) {
+      post.frontmatter.categories.forEach((category: string) => {
+        allCategories.add(category);
+      });
+      post.frontmatter.group = "poems";
+    }
+  });
+
+  // Sutra posts
+  const postsSutraGlob = import.meta.glob('../../content/sutras/*.md', { eager: true });
+  const allSutraPosts = Object.values(postsSutraGlob) as any[];
+  allSutraPosts.forEach((post: any) => {
+    if (post.frontmatter.categories) {
+      post.frontmatter.categories.forEach((category: string) => {
+        allCategories.add(category);
+      });
+      post.frontmatter.group = "sutras";
+    }
+  });
+
+  // Zongjinglu posts
+  const postsZongjingluGlob = import.meta.glob('../../content/zongjinglus/*.md', { eager: true });
+  const allZongjingluPosts = Object.values(postsZongjingluGlob) as any[];
+  allZongjingluPosts.forEach((post: any) => {
+    if (post.frontmatter.categories) {
+      post.frontmatter.categories.forEach((category: string) => {
+        allCategories.add(category);
+      });
+      post.frontmatter.group = "zongjinglus";
     }
   });
 
   // Create paths for each category
+  const allPosts = [
+      ...allBlogPosts,
+      ...allInterpretationPosts,
+      ...allKoanPosts,
+      ...allPoemPosts,
+      ...allSutraPosts,
+      ...allZongjingluPosts,
+  ];
   return Array.from(allCategories).map((category: string) => {
     const categorySlug = category.toLowerCase().replace(/[\/\s]+/g, '-');
     const postsInCategory = allPosts.filter((post: any) =>
@@ -34,9 +103,13 @@ export async function getStaticPaths() {
 
 const { category, posts } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const title = "Categories";
+const titleFull = category + " | Sudden Satori";
+const path = "categories";
+const description = `Tất cả bài viết về ${category}`;
 ---
 
-<Layout title={`${category} - Sudden Satori`} description={`All posts in the ${category} category`}>
+<Layout title={titleFull} description={description}>
   <div class="category-page">
     <header class="page-header">
       <h1 class="page-title">{category}</h1>
@@ -50,7 +123,7 @@ const base = import.meta.env.BASE_URL;
       {posts.map((post: any) => (
         <article class="post-item">
           <h2 class="post-title">
-            <a href={`${base}blogs/${post.file.split('/').pop()?.replace('.md', '')}`}>
+            <a href={`${base}${post.frontmatter.group}/${post.file.split('/').pop()?.replace('.md', '')}`}>
               {post.frontmatter.title}
             </a>
           </h2>
@@ -69,7 +142,7 @@ const base = import.meta.env.BASE_URL;
             <p class="post-excerpt">{post.frontmatter.excerpt}</p>
           )}
 
-          <a href={`${base}blogs/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
+          <a href={`${base}${post.frontmatter.group}/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
             Read More →
           </a>
         </article>
@@ -77,7 +150,7 @@ const base = import.meta.env.BASE_URL;
     </div>
 
     <div class="page-navigation">
-      <a href={`${base}categories`} class="back-link">← Xem Tất cả Categories</a>
+      <a href={`${base}${path}`} class="back-link">← Xem Tất cả {title}</a>
     </div>
   </div>
 </Layout>
@@ -94,7 +167,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   .page-title {
-    font-family: var(--font-heading-primary);
+    font-family: var(--font-heading-primary),serif;
     font-size: 3.5rem;
     font-weight: 900;
     color: var(--color-accent);
@@ -137,7 +210,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   .post-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: calc(var(--grid-unit) * 2);
@@ -159,7 +232,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   .post-date {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     font-size: 0.9rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -174,7 +247,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   .read-more {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -196,7 +269,7 @@ const base = import.meta.env.BASE_URL;
   }
 
   .back-link {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
