@@ -26,7 +26,7 @@ export interface author {
   youtubeIds?: string[],
 }
 
-export const authors: author[] = [
+const authors: author[] = [
     {
       id: 1,
       name: "Tăng Phụng Nghi",
@@ -92,3 +92,5 @@ export const authors: author[] = [
       ],
     },
 ];
+
+export default authors;

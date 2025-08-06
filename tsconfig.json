@@ -11,9 +11,13 @@
     "types": ["astro/client"],
     "baseUrl": ".",
     "paths": {
+      "@/lib/*": ["src/lib/*"],
+      "@/types/*": ["src/types/*"],
+      "@/assets/*": ["src/assets/*"],
       "@/images/*": ["public/images/*"],
       "@/data/*": ["src/data/*"],
       "@/components/*": ["src/components/*"],
+      "@/layouts/*": ["src/layouts/*"],
       "@/content/*": ["src/content/*"],
       "@/styles/*": ["src/styles/*"],
       "@/utils/*": ["src/utils/*"],

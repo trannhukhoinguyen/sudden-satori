@@ -8,7 +8,7 @@ audioUrls: [
 ]
 videoUrl: "https://www.youtube.com/embed/czqowMgrPic"
 categories: ["Luận"]
-tags: ["Kim Cang Kinh", "Kim Cang Kinh Tông Thông"]
+tags: ["Kinh Kim Cang", "Tông Thông"]
 draft: false
 ---
 

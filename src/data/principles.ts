@@ -1,4 +1,10 @@
-const principles = [
+export interface principle {
+  id: number;
+  title: string;
+  description: string;
+}
+
+const principles: principle[] = [
   {
     id: 1,
     title: "TIN TỰ TÂM",
@@ -62,4 +68,5 @@ const principles = [
         "thật thì pháp thứ hai này cũng là tướng bệnh."
   },
 ];
+
 export default principles;

@@ -8,7 +8,7 @@ audioUrls: [
 ]
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 categories: ["Luận"]
-tags: ["Kinh Lăng Già", "Cụ Trần Trọng Kim"]
+tags: ["Kinh Lăng Già"]
 draft: false
 ---
 

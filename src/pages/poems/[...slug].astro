@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import "@/styles/post.css";
 import TableOfContents from '../../components/TableOfContents.astro';
 import BackToTopWithTOC from '../../components/BackToTopWithTOC.astro';
 import { extractHeadings, filterHeadingsForTOC } from '../../utils/table-of-contents';
@@ -104,7 +105,7 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
       )}
 
       <div class="post-navigation">
-        <a href={`${base}/${path}`} class="back-to-blog">← Xem Tất cả {title}</a>
+        <a href={`${base}${path}`} class="back-to-blog">← Xem Tất cả {title}</a>
       </div>
     </footer>
   </article>

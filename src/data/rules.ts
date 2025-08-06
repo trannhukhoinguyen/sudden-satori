@@ -1,4 +1,10 @@
-const rules = [
+export interface rule {
+  id: number;
+  title: string;
+  description: string;
+}
+
+const rules: rule[] = [
   {
     id: 1,
     title: "PHÁ NGÃ CHẤP",
@@ -50,4 +56,5 @@ const rules = [
     description: "Tổ Sư Thiền chỉ chú trọng thực hành không cần lý luận, nhưng khi đang thực hành sẽ tùy theo căn cơ trình độ khác biệt, tình chấp nặng nhẹ, kiến giải cao thấp và sự ham thích bất đồng của mỗi người mà sinh ra muôn ngàn lối tẻ sai biệt, cho nên quyển sách này chỉ được nêu ra những điều thực hành chung, còn nhiều chi tiết vi tế không thể kể hết ở trong này, phải tùy bệnh mà cho thuốc, vì thế mặc dù cách tham thoại đầu rất dễ nhưng cũng phải có người lão tham hướng dẫn mới được. Nếu tự làm tài khôn mà không đi đúng với tôn chỉ chính xác tủa Tổ Sư Thiền thì sẽ có thể trở thành phỉ báng Phật pháp, tạo tội địa ngục mà tự mình không biết, xin người học thiền để ý cho."
   }
 ];
+
 export default rules;

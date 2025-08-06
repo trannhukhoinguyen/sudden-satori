@@ -4,7 +4,7 @@ date: "1610-01-01"
 description: "☸ THÍCH NHUẬN CHÂU Việt dịch"
 author: "Tăng Phụng Nghi"
 categories: ["Luận"]
-tags: ["Kim Cang Kinh", "Kim Cang Kinh Tông Thông"]
+tags: ["Kinh Kim Cang", "Tông Thông"]
 draft: false
 ---
 

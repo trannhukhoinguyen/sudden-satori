@@ -124,19 +124,18 @@ const description = "Xem " + title;
     </section>
 
     <!-- 3 Satori Gates Section -->
-    <section class="installation" id="installation">
+    <section class="typography-showcase">
       <div class="container">
-        <h2 class="section-title">3 Quan Ải Giác Ngộ</h2>
-        <div class="install-steps">
+        <h2 class="section-title">Typography</h2>
+        <p class="typography-description">
+          Ba cửa ải **Sơ Quan** 初關, **Trùng Quan** 重關, và **Mạt Hậu Lao Quan** 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của *Tổ Sư Thiền* (祖師禪) - *Thiền Tông*, liên quan mật thiết đến pháp tu *Tham Thoại Đầu* và *Giữ Nghi Tình*.
+        </p>
+
+        <div class="typography-samples">
           {
-            gates?.map(gate => <div class="step">
-              <h3 class="step-number">{ gate.id }</h3>
-              <div class="step-content">
-                <h4 class="step-title">{ gate.title }</h4>
-                <pre class="code-block">
-                  <code>{ gate.description }</code>
-                </pre>
-              </div>
+            gates?.map(gate => <div class="type-sample">
+              <h4 class="sample-h1">{ gate.title }</h4>
+              <p class="type-meta">{ gate.description }</p>
             </div>)
           }
         </div>
@@ -169,7 +168,7 @@ const description = "Xem " + title;
   }
 
   .hero-title {
-    font-family: var(--font-heading-primary);
+    font-family: var(--font-heading-primary),serif;
     font-size: 4.5rem;
     font-weight: 700;
     color: var(--color-accent);
@@ -180,7 +179,7 @@ const description = "Xem " + title;
   }
 
   .hero-subtitle {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--color-text-muted);
@@ -215,7 +214,7 @@ const description = "Xem " + title;
   }
 
   .btn {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -284,7 +283,7 @@ const description = "Xem " + title;
   }
 
   .section-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 2.5rem;
     font-weight: 900;
     color: var(--color-accent);
@@ -320,7 +319,7 @@ const description = "Xem " + title;
   }
 
   .rule-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 1.25rem;
     font-weight: 700;
     color: var(--color-accent);
@@ -365,7 +364,7 @@ const description = "Xem " + title;
   }
 
   .sample-h1 {
-    font-family: var(--font-heading-primary);
+    font-family: var(--font-heading-primary),serif;
     font-size: 3.5rem;
     font-weight: 700;
     color: var(--color-accent);
@@ -376,7 +375,7 @@ const description = "Xem " + title;
   }
 
   .sample-h2 {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 2.5rem;
     font-weight: 700;
     color: var(--color-accent);
@@ -387,7 +386,7 @@ const description = "Xem " + title;
   }
 
   .sample-body {
-    font-family: var(--font-body);
+    font-family: var(--font-body),serif;
     font-size: 1.125rem;
     line-height: 1.6;
     color: var(--color-text-primary);
@@ -398,7 +397,7 @@ const description = "Xem " + title;
   }
 
   .sample-code {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     background-color: var(--color-surface);
     border: 1px solid var(--color-border);
     padding: calc(var(--grid-unit)) calc(var(--grid-unit) * 1.5);
@@ -409,7 +408,7 @@ const description = "Xem " + title;
   }
 
   .type-meta {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     font-size: 0.85rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -452,7 +451,7 @@ const description = "Xem " + title;
   }
 
   .demo-post-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: calc(var(--grid-unit));
@@ -477,7 +476,7 @@ const description = "Xem " + title;
   }
 
   .demo-post-date {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     font-size: 0.85rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -485,7 +484,7 @@ const description = "Xem " + title;
   }
 
   .demo-post-reading-time {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     font-size: 0.85rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -550,7 +549,7 @@ const description = "Xem " + title;
   }
 
   .step-number {
-    font-family: var(--font-heading-primary);
+    font-family: var(--font-heading-primary),serif;
     font-size: 3rem;
     font-weight: 900;
     color: var(--color-accent);
@@ -563,7 +562,7 @@ const description = "Xem " + title;
   }
 
   .step-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 1.25rem;
     font-weight: 700;
     color: var(--color-text-primary);
@@ -573,6 +572,8 @@ const description = "Xem " + title;
   }
 
   .code-block {
+    display: flex;
+    width: 100%;
     background-color: var(--color-text-primary);
     color: var(--color-background);
     padding: calc(var(--grid-unit) * 2);
@@ -582,7 +583,8 @@ const description = "Xem " + title;
   }
 
   .code-block code {
-    font-family: var(--font-mono);
+    width: 100%;
+    font-family: var(--font-mono),serif;
     background: none;
     border: none;
     color: inherit;

@@ -8,7 +8,7 @@ audioUrls: [
 ]
 videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
 categories: ["Luận"]
-tags: ["Thủ Lăng Nghiêm Kinh", "Thủ Lăng Nghiêm Kinh Tông Thông", "phần Thông"]
+tags: ["Kinh Thủ Lăng Nghiêm", "Tông Thông"]
 draft: false
 ---
 

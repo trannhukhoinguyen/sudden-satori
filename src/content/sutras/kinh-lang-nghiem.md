@@ -29,7 +29,7 @@ audioUrls: [
 ]
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 categories: ["Kinh"]
-tags: ["Kinh Lăng Nghiêm", "Thích Duy Lực"]
+tags: ["Kinh Thủ Lăng Nghiêm", "HT. Thích Duy Lực"]
 draft: false
 ---
 

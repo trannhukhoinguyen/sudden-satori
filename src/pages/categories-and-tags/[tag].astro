@@ -1,0 +1,156 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import "@/styles/tag.css";
+
+export async function getStaticPaths() {
+  const allCategories = new Set<string>();
+
+  // Blog posts
+  const postsBlogGlob = import.meta.glob('../../content/blogs/*.md', { eager: true });
+  const allBlogPosts = Object.values(postsBlogGlob) as any[];
+  allBlogPosts.forEach((post: any) => {
+    if (post.frontmatter.tags) {
+      post.frontmatter.tags.forEach((tag: string) => {
+        allCategories.add(tag);
+      });
+      post.frontmatter.group = "blogs";
+    }
+  });
+
+  // Interpretation posts
+  const postsInterpretationGlob = import.meta.glob('../../content/interpretations/*.md', { eager: true });
+  const allInterpretationPosts = Object.values(postsInterpretationGlob) as any[];
+  allInterpretationPosts.forEach((post: any) => {
+    if (post.frontmatter.tags) {
+      post.frontmatter.tags.forEach((tag: string) => {
+        allCategories.add(tag);
+      });
+      post.frontmatter.group = "interpretations";
+    }
+  });
+
+  // Koan posts
+  const postsKoanGlob = import.meta.glob('../../content/koans/*.md', { eager: true });
+  const allKoanPosts = Object.values(postsKoanGlob) as any[];
+  allKoanPosts.forEach((post: any) => {
+    if (post.frontmatter.tags) {
+      post.frontmatter.tags.forEach((tag: string) => {
+        allCategories.add(tag);
+      });
+      post.frontmatter.group = "koans";
+    }
+  });
+
+  // Poem posts
+  const postsPoemGlob = import.meta.glob('../../content/poems/*.md', { eager: true });
+  const allPoemPosts = Object.values(postsPoemGlob) as any[];
+  allPoemPosts.forEach((post: any) => {
+    if (post.frontmatter.tags) {
+      post.frontmatter.tags.forEach((tag: string) => {
+        allCategories.add(tag);
+      });
+      post.frontmatter.group = "poems";
+    }
+  });
+
+  // Sutra posts
+  const postsSutraGlob = import.meta.glob('../../content/sutras/*.md', { eager: true });
+  const allSutraPosts = Object.values(postsSutraGlob) as any[];
+  allSutraPosts.forEach((post: any) => {
+    if (post.frontmatter.tags) {
+      post.frontmatter.tags.forEach((tag: string) => {
+        allCategories.add(tag);
+      });
+      post.frontmatter.group = "sutras";
+    }
+  });
+
+  // Zongjinglu posts
+  const postsZongjingluGlob = import.meta.glob('../../content/zongjinglus/*.md', { eager: true });
+  const allZongjingluPosts = Object.values(postsZongjingluGlob) as any[];
+  allZongjingluPosts.forEach((post: any) => {
+    if (post.frontmatter.tags) {
+      post.frontmatter.tags.forEach((tag: string) => {
+        allCategories.add(tag);
+      });
+      post.frontmatter.group = "zongjinglus";
+    }
+  });
+
+  // Create paths for each tag
+  const allPosts = [
+      ...allBlogPosts,
+      ...allInterpretationPosts,
+      ...allKoanPosts,
+      ...allPoemPosts,
+      ...allSutraPosts,
+      ...allZongjingluPosts,
+  ];
+  return Array.from(allCategories).map((tag: string) => {
+    const tagSlug = tag.toLowerCase().replace(/[\/\s]+/g, '-');
+    const postsInCategory = allPosts.filter((post: any) =>
+      post.frontmatter.tags && post.frontmatter.tags.includes(tag)
+    ).sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
+
+    return {
+      params: { tag: tagSlug },
+      props: {
+        tag,
+        posts: postsInCategory
+      }
+    };
+  });
+}
+
+const { tag, posts } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const title = "Tags";
+const path = "tags";
+const description = `Tất cả bài viết về ${tag}`;
+---
+
+<Layout title={tag} description={description}>
+  <div class="tag-page">
+    <header class="page-header">
+      <h1 class="page-title">{tag}</h1>
+      <p class="page-description">
+        {posts.length} article{posts.length === 1 ? '' : 's'} in this tag
+      </p>
+      <hr class="page-rule" />
+    </header>
+
+    <div class="posts-list">
+      {posts.map((post: any) => (
+        <article class="post-item">
+          <h2 class="post-title">
+            <a href={`${base}${post.frontmatter.group}/${post.file.split('/').pop()?.replace('.md', '')}`}>
+              {post.frontmatter.title}
+            </a>
+          </h2>
+
+          <div class="post-meta">
+            <time class="post-date" datetime={post.frontmatter.date}>
+              {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
+                year: 'numeric',
+                month: 'long',
+                day: 'numeric'
+              })}
+            </time>
+          </div>
+
+          {post.frontmatter.excerpt && (
+            <p class="post-excerpt">{post.frontmatter.excerpt}</p>
+          )}
+
+          <a href={`${base}${post.frontmatter.group}/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
+            Read More →
+          </a>
+        </article>
+      ))}
+    </div>
+
+    <div class="page-navigation">
+      <a href={`${base}${path}`} class="back-link">← Xem Tất cả {title}</a>
+    </div>
+  </div>
+</Layout>

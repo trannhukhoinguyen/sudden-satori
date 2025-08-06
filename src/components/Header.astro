@@ -34,7 +34,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           <li>
             <select id="nav-select" class="nav-select" aria-label="Main navigation">
               <option value="" disabled selected hidden>Khác</option>
-              <option value={base + "categories"}>Categories</option>
+              <option value={base + "categories-and-tags"}>Categories & Tags</option>
               <option value={base + "about"}>Giới thiệu</option>
               <option value={base + "authors"}>Tác giả</option>
               <option value={base + "zongjinglus"}>Tông Cảnh Lục</option>
@@ -76,7 +76,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "koans"} class="mobile-nav-link">Công án</a></li>
     <li><a href={base + "practices"} class="mobile-nav-link">Thực hành</a></li>
     <li><a href={base + "blogs"} class="mobile-nav-link">Blog</a></li>
-    <li><a href={base + "categories"} class="mobile-nav-link">Categories</a></li>
+    <li><a href={base + "categories-and-tags"} class="mobile-nav-link">Categories & Tags</a></li>
     <li><a href={base + "about"} class="mobile-nav-link">Giới thiệu</a></li>
     <li><a href={base + "authors"} class="mobile-nav-link">Tác giả</a></li>
     <li><a href={base + "zongjinglus"} class="mobile-nav-link">Tông Cảnh Lục</a></li>

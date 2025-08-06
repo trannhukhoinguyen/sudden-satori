@@ -2,6 +2,8 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
+import react from "@astrojs/react";
+import AutoImport from "astro-auto-import";
 
 // https://astro.build/config
 export default defineConfig({
@@ -11,6 +13,13 @@ export default defineConfig({
   // For Netlify/Vercel, leave this undefined (no base path)
   base: process.env.BASE_PATH || undefined,
   integrations: [
+    react(),
+    AutoImport({
+      imports: [
+
+      ]
+    }),
+
     sitemap(),
 
     // Always integrate mdx() in the last position
