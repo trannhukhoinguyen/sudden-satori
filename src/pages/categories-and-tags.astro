@@ -176,15 +176,15 @@ const sortedTags = Object.entries(tagMap)
 ---
 
 <Layout title={titleFull} description={description} showSidebar={true}>
-<!--Categories area-->
+
   <div class="categories-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
-      <p class="page-description">{description}</p>
       <hr class="page-rule" />
     </header>
 
     <div class="categories-grid">
+      <h3>Tất cả Category</h3>
       {sortedCategories.map(([category, posts]: [string, any[]]) => (
         <div class="category-card">
           <a href={`${base}${pathCategory}/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
@@ -202,17 +202,11 @@ const sortedTags = Object.entries(tagMap)
         <p>No category found.</p>
       </div>
     )}
-  </div>
 
-<!--Tags area-->
-  <div class="tags-page">
-    <header class="page-header">
-      <h1 class="page-title">{title}</h1>
-      <p class="page-description">{description}</p>
-      <hr class="page-rule" />
-    </header>
+    <hr class="page-rule" />
 
     <div class="tags-grid">
+      <h3>Tất cả Tag</h3>
       {sortedTags.map(([tag, posts]: [string, any[]]) => (
           <div class="tag-card">
             <a href={`${base}${pathTag}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link">

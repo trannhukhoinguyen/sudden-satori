@@ -31,12 +31,14 @@
     border: none;
     width: 120px;
     margin: 0 auto;
+    margin-bottom: calc(var(--grid-unit) * 6);
 }
 
 .categories-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: calc(var(--grid-unit) * 2);
+    margin-bottom: calc(var(--grid-unit) * 6);
 }
 
 .category-card {
