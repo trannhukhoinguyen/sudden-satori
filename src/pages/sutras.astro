@@ -52,10 +52,10 @@ const sortedPosts = allPosts
 
                   <span class="post-reading-time">{readingTime}</span>
 
-                  {post.frontmatter.categories && (
-                      <div class="post-categories">
-                        {post.frontmatter.categories.map((category: string) => (
-                            <span class="category">{category}</span>
+                  {post.frontmatter.tags && (
+                      <div class="post-tags">
+                        {post.frontmatter.tags.map((tag: string) => (
+                            <a href={`${base}${path}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link tag">{tag}</a>
                         ))}
                       </div>
                   )}

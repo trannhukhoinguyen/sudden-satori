@@ -9,7 +9,7 @@
 }
 
 .blog-title {
-    font-family: var(--font-heading-primary);
+    font-family: var(--font-heading-primary), serif;
     font-size: 3.5rem;
     font-weight: 900;
     color: var(--color-accent);
@@ -55,7 +55,7 @@
 }
 
 .post-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary), serif;
     font-size: 2rem;
     font-weight: 700;
     margin-bottom: calc(var(--grid-unit) * 2);
@@ -80,7 +80,7 @@
 }
 
 .post-date {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono), serif;
     font-size: 0.9rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -88,7 +88,7 @@
 }
 
 .post-reading-time {
-    font-family: var(--font-mono);
+    font-family: var(--font-mono), serif;
     font-size: 0.9rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -101,15 +101,15 @@
     color: var(--color-border);
 }
 
-.post-categories {
+.post-categories, .post-tags {
     display: flex;
     flex-wrap: wrap;
     gap: calc(var(--grid-unit) / 2);
 }
 
-.category {
-    background-color: var(--color-text-primary);
-    color: white;
+.category, .tag {
+    background-color: var(--color-background);
+    color:  var(--color-text-primary);
     padding: calc(var(--grid-unit) / 4) calc(var(--grid-unit) / 2);
     font-size: 0.75rem;
     font-weight: 600;
@@ -133,7 +133,7 @@
 }
 
 .read-more {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary), serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -159,7 +159,7 @@
     background-color: var(--color-surface);
     padding: 2px 4px;
     border-radius: 3px;
-    font-family: var(--font-mono);
+    font-family: var(--font-mono), serif;
 }
 
 @media (max-width: 768px) {
