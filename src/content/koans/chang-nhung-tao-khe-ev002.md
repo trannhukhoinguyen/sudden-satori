@@ -16,7 +16,7 @@ Ngài Đan Hà dạy chúng:
 > Còn phân biệt già trẻ, đẹp xấu, chưa ra khỏi sự bình phàm.
 Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường, đã biết mất trái nửa cân, suy ra mất phải cũng tám lạng, sợ y không tin, thử nhìn kỹ xem.
 
-## CỬ:
+## CỬ - BẢN TẮC:
 
 Ngài Đầu Tử cử: Thạch Đầu đến chỗ ngài Hành Tư.
 
