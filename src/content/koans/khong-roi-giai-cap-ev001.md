@@ -11,15 +11,34 @@ draft: false
 
 ## THÙY
 
-Dạy chúng: Nhân thế lắm đảo điên đâu cần phải bận tâm. Phá vỡ nghi tình rồi cần gì ý chỉ huyền diệu của thiền. Không kẹt cửa huyền, tự do diệu dụng, đó là người nào?
+Ngài Đan Hà dạy chúng:
+
+> Hãy quên hết thế sự, đâu cần suy nghĩ nhiều.
+Chỉ đập tan khối nghi, cần gì một câu huyền diệu.
+Cửa huyền thông suốt, người đạt được diệu dụng tự, tại đó là ai?
 
 ## CỬ:
+
+Ngài Đầu Tử cử:
+
+Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì để không bị rơi vào giai cấp (thứ bậc)?
+
+Tổ hỏi: Ông từng làm việc gì?
+
+Hành Tư thưa, Thánh đế cũng chẳng làm.
+
+Tổ bảo, vậy thì thuộc giai cấp nào?
+
+Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?
+
+Tổ dạy, đúng như vậy, ông cố gắng giữ gìn, ta có bài kệ ấn chứng cho ông.
+
 
 Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì mới không rơi vào thứ bậc (nên làm việc cho tốt đâu cần hỏi đường trước).
 
 Tổ hỏi: Ông từng làm việc gì? (bày hết tâm can).
 
-Hành Tư thưa: Thánh đế cũng không làm (một viên hoàn đơn, chạm vào sắt thành vàng).
+Hành Tư thưa: Thánh đế cũng chẳng làm (một viên hoàn đơn, chạm vào sắt thành vàng).
 
 Tổ nói: Rơi vào thứ bậc nào (vì lòng từ bi chẳng tiếc hai cọng lông mày).
 
@@ -32,7 +51,9 @@ Mưa khắp đều nảy mầm (các pháp từ duyên sanh),
 Hoa đốn ngộ thật nở  (đều không sanh cành lá),
 Quả bồ đề tự thành (phải biết vị ngọt trong vị đắng).
 
-Sư nói: Xưa nay sự tu hành đều có thứ bậc, song căn cơ có nhanh chậm khó mà tương đồng. Ban đầu từ kiến đạo, tu đạo, vô học đạo, đến noãn, đảnh, nhẫn, thế, cùng đẳng giác diệu giác, đều không ra pháp môn phương tiện, lại ứng hợp cơ viên đốn, đã trình bày rõ ràng. Thành tựu huệ mạng không nương nơi khác mà ngộ, vừa phát tâm liền chứng bồ đề. Xét kỹ lại, cũng chỉ được một nửa. Cho đến Như Lai không xuất hiện ở đời cũng không nhập niết-bàn, mới được tám phần. Vậy thì làm sao nói được một câu thấu triệt? Nạp tăng giỏi biện luận khó có thể mà nói hết, Đồng Tử (bồ tát) không lời, khéo diễn bày.
+Sư nói: Xưa nay sự tu hành đều có thứ bậc, song căn cơ có nhanh chậm khó mà tương đồng.
+
+Ban đầu từ kiến đạo, tu đạo, vô học đạo, đến noãn, đảnh, nhẫn, thế, cùng đẳng giác diệu giác, đều không ra pháp môn phương tiện, lại ứng hợp cơ viên đốn, đã trình bày rõ ràng. Thành tựu huệ mạng không nương nơi khác mà ngộ, vừa phát tâm liền chứng bồ đề. Xét kỹ lại, cũng chỉ được một nửa. Cho đến Như Lai không xuất hiện ở đời cũng không nhập niết-bàn, mới được tám phần. Vậy thì làm sao nói được một câu thấu triệt? Nạp tăng giỏi biện luận khó có thể mà nói hết, Đồng Tử (bồ tát) không lời, khéo diễn bày.
 
 Hòa thượng Nam Nhạc Hoài Nhượng từng bảo với Mã đại sư rằng:
 
@@ -42,7 +63,7 @@ Chớ cô phụ tánh linh của mình, chôn vùi gia bảo, chân thật tu h�
 
 Tuy Lâm Tuyền lời thiển cận, các ông không được tự cao tự đại. Nếu thấy hay không thấy cần phải thưa hỏi Đầu Tử mới được.
 
-## TỤNG
+## TỤNG CỔ
 
 > Bày đảnh Vô kiến mây gom nhóm (nhìn thì mù).
 >
@@ -51,6 +72,18 @@ Tuy Lâm Tuyền lời thiển cận, các ông không được tự cao tự đ
 > Bên kia không ở điện Không vương (trong cõi nước vô lậu lưu giữ không ở).
 >
 > Đâu chịu nhổ cỏ hướng lên mặt trời (trong bóng trăng thấy thật khó).
+
+***
+
+> Đánh Võ kiến hiên mây tan mất
+> 
+> Kiếp xưa cành linh không đợi xuân
+> 
+> Cõi ấy không ở điện không vương
+> 
+> Sinh sống đâu cần theo ngày tháng.
+
+## BÌNH XƯỚNG
 
 Sư nêu kinh Hoa Nghiêm: “Thí như hư không khắp tất cả cõi sắc phi sắc, chẳng đến chẳng không đến. Vì cớ sao? Hư không không có hình tướng, thân Như Lai cũng lại như thế. Khắp tất cả chỗ khắp tất cả chúng sanh, khắp tất cả pháp, khắp tất cả cõi nước. Vì cớ sao? Vì thân Như Lai là không thân vậy. Vì chúng sanh nên hiện thân kia.”
 
@@ -61,7 +94,7 @@ Huống nữa Kiếp không về trước không nương ý căn, cành linh t�
 Tuy nhiên như thế chưa khỏi bị Nam Tuyền nói: “Phật Oai Âm Vương vẫn là con cháu Vương lão sư”. Sao vậy?
 
 > Xưa nay chuyển luân đủ chí khí
-
+>
 > Không lộ ấn báu tôn tự nhiên
 
 ***
