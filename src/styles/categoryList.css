@@ -1,5 +1,6 @@
 .categories-page {
     max-width: 100%;
+    margin-bottom: calc(var(--grid-unit) * 6);
 }
 
 .page-header {
@@ -73,7 +74,7 @@
     transition: color 0.2s ease;
 }
 
-.category-link:hover .category-title {
+.category-link:hover, .category-title {
     color: var(--color-accent);
 }
 
