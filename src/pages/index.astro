@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import rules from '@/data/rules.ts';
 import principles from '@/data/principles.ts';
 import gates from '@/data/gates.ts';
+import UniverseSky from "@/components/universe-sky/UniverseSky.astro"
 
 const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
@@ -24,6 +25,9 @@ const description = "Xem " + title;
     showSidebar={false}
 >
   <div class="landing-page">
+
+    <UniverseSky />
+
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">

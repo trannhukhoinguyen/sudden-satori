@@ -2,26 +2,36 @@
   "extends": "astro/tsconfigs/strict",
   "include": [
     ".astro/types.d.ts",
+    "src",
     "**/*"
   ],
   "exclude": [
     "dist"
   ],
   "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "declaration": true,
+    "outDir": "dist",
+    "esModuleInterop": true,
+    "strict": true,
+    "skipLibCheck": true,
     "types": ["astro/client"],
     "baseUrl": ".",
+
     "paths": {
-      "@/lib/*": ["src/lib/*"],
-      "@/types/*": ["src/types/*"],
       "@/assets/*": ["src/assets/*"],
-      "@/images/*": ["public/images/*"],
-      "@/data/*": ["src/data/*"],
       "@/components/*": ["src/components/*"],
-      "@/layouts/*": ["src/layouts/*"],
       "@/content/*": ["src/content/*"],
+      "@/data/*": ["src/data/*"],
+      "@/images/*": ["public/images/*"],
+      "@/layouts/*": ["src/layouts/*"],
+      "@/libs/*": ["src/libs/*"],
       "@/styles/*": ["src/styles/*"],
+      "@/types/*": ["src/types/*"],
       "@/utils/*": ["src/utils/*"],
-      "@/*": ["./*"],
+      "@/*": ["src/*"],
     }
-  }
+  },
 }
