@@ -1,5 +1,11 @@
 import {defineCollection, z} from 'astro:content';
 import { glob } from 'astro/loaders';
+import { docsLoader } from '@astrojs/starlight/loaders';
+import { docsSchema } from '@astrojs/starlight/schema';
+
+export const documents = {
+  docs: defineCollection({ loader: docsLoader(), schema: docsSchema() }),
+};
 
 const blogs = defineCollection({
   type: 'content',
@@ -127,4 +133,4 @@ const poems  = defineCollection({
   }),
 });
 
-export const collections = { blogs, zongjinglus, koans, sutras, interpretations, practices, poems };
+export const collections = { blogs, zongjinglus, koans, sutras, interpretations, practices, poems, documents };
