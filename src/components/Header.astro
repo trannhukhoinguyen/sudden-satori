@@ -44,6 +44,70 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
         </ul>
       </nav>
 
+      <!--        <nav
+            class="items-center w-full md:w-auto hidden md:flex md:mx-5 text-default overflow-y-auto overflow-x-hidden md:overflow-y-visible md:overflow-x-auto md:justify-self-center"
+            aria-label="Main navigation"
+          >
+    <ul class="flex flex-col md:flex-row md:self-center w-full md:w-auto text-xl md:text-[0.9375rem] tracking-[0.01rem] font-medium md:justify-center">
+    <li><a class:list={['hover:text-link dark:hover:text-white px-4 py-3 flex items-center whitespace-nowrap']} href={base + "sutras"}>Kinh</a></li>
+                <li><a class:list={['hover:text-link dark:hover:text-white px-4 py-3 flex items-center whitespace-nowrap']} href={base + "interpretations"}>Luận</a></li>
+                <li><a class:list={['hover:text-link dark:hover:text-white px-4 py-3 flex items-center whitespace-nowrap']} href={base + "koans"}>Công án</a></li>
+                <li><a class:list={['hover:text-link dark:hover:text-white px-4 py-3 flex items-center whitespace-nowrap']} href={base + "practices"}>Thực hành</a></li>
+                <li><a class:list={['hover:text-link dark:hover:text-white px-4 py-3 flex items-center whitespace-nowrap']} href={base + "blogs"}>Blog</a></li>
+                <li class='dropdown'>
+                  <button
+                      type="button"
+                      class="hover:text-link dark:hover:text-white px-4 py-3 flex items-center whitespace-nowrap"
+                  >
+                    Khác
+                    <span class="w-3.5 h-3.5 ml-0.5 rtl:ml-0 rtl:mr-0.5 hidden md:inline">🫧</span>
+                  </button>
+                  <ul class="dropdown-menu md:backdrop-blur-md dark:md:bg-dark rounded md:absolute pl-4 md:pl-0 md:hidden font-medium md:bg-white/90 md:min-w-[200px] drop-shadow-xl">
+                    <li>
+                      <a
+                        class:list={['first:rounded-t last:rounded-b md:hover:bg-gray-100 hover:text-link dark:hover:text-white dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap']}
+                        href={base + "categories-and-tags"}
+                      >
+                        Categories & Tags
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class:list={['first:rounded-t last:rounded-b md:hover:bg-gray-100 hover:text-link dark:hover:text-white dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap']}
+                        href={base + "about"}
+                      >
+                        Giới thiệu
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class:list={['first:rounded-t last:rounded-b md:hover:bg-gray-100 hover:text-link dark:hover:text-white dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap']}
+                        href={base + "authors"}
+                      >
+                        >Tác giả
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class:list={['first:rounded-t last:rounded-b md:hover:bg-gray-100 hover:text-link dark:hover:text-white dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap']}
+                        href={base + "zongjinglus"}
+                      >
+                        Tông Cảnh Lục
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        class:list={['first:rounded-t last:rounded-b md:hover:bg-gray-100 hover:text-link dark:hover:text-white dark:hover:bg-gray-700 py-2 px-5 block whitespace-no-wrap']}
+                        href={base + "poems"}
+                      >
+                        Thơ Thiền
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+            </ul>
+          </nav>-->
+
       <!-- Mobile controls group - RSS and Search on right -->
       <div class="mobile-controls">
         <ThemeToggle />

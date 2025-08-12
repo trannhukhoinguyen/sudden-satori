@@ -8,6 +8,7 @@ import path from 'path';
 import fs from 'fs';
 import starlight from '@astrojs/starlight';
 import type { StarlightUserConfig } from '@astrojs/starlight/types';
+import tailwindcss from '@tailwindcss/vite';
 
 // Hàm lấy danh sách file từ thư mục
 function getSidebarItems(dir: string, basePath: string) {
@@ -29,6 +30,10 @@ function getSidebarItems(dir: string, basePath: string) {
 // Sidebar auto generate
 const starlightConfig: StarlightUserConfig = {
   title: 'Tham Thiền Phá Tam Quan',
+  customCss: [
+    // Path to your Tailwind base styles:
+    './src/styles/global.css',
+  ],
   plugins: [],
   sidebar: [
     {
@@ -50,9 +55,11 @@ const starlightConfig: StarlightUserConfig = {
 export default defineConfig({
   // The site property should be your final deployed URL
   site: process.env.SITE || 'https://sudden-satori.vercel.app',
+
   // Only use base path for GitHub Pages deployments
   // For Netlify/Vercel, leave this undefined (no base path)
   base: process.env.BASE_PATH || undefined,
+
   integrations: [
     starlight(starlightConfig),
     react(),
@@ -67,10 +74,15 @@ export default defineConfig({
     // Always integrate mdx() in the last position
     mdx(),
   ],
+
   markdown: {
     shikiConfig: {
       theme: 'github-dark',
       wrap: true,
     },
+  },
+
+  vite: {
+    plugins: [tailwindcss()],
   },
 });
