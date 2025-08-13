@@ -26,15 +26,16 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <nav class="main-navigation" role="navigation" aria-label="Main navigation">
         <ul class="nav-list">
           <li><a href={base} class="nav-link">Home</a></li>
-          <li><a href={base + "sutras"} class="nav-link">Kinh</a></li>
+          <li><a href={base + "sutras"} class="nav-link">📚 Kinh</a></li>
           <li><a href={base + "interpretations"} class="nav-link">Luận giải</a></li>
-          <li><a href={base + "koans"} class="nav-link">Công án</a></li>
+          <li><a href={base + "koans"} class="nav-link">🪨 Công án</a></li>
           <li><a href={base + "practices"} class="nav-link">Thực hành</a></li>
           <li><a href={base + "blogs"} class="nav-link">Blog</a></li>
           <li>
             <select id="nav-select" class="nav-select" aria-label="Main navigation">
               <option value="" disabled selected hidden>Khác</option>
-              <option value={base + "categories-and-tags"}>Categories & Tags</option>
+              <option value={base + "categories"}>Categories</option>
+              <option value={base + "tags"}>Tags</option>
               <option value={base + "about"}>Giới thiệu</option>
               <option value={base + "authors"}>Tác giả</option>
               <option value={base + "zongjinglus"}>Tông Cảnh Lục</option>
@@ -135,12 +136,13 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
   <ul class="mobile-nav-list">
     <li><a href={base} class="mobile-nav-link">Home</a></li>
-    <li><a href={base + "sutras"} class="mobile-nav-link">Kinh</a></li>
+    <li><a href={base + "sutras"} class="mobile-nav-link">📚 Kinh</a></li>
     <li><a href={base + "interpretations"} class="mobile-nav-link">Luận giải</a></li>
-    <li><a href={base + "koans"} class="mobile-nav-link">Công án</a></li>
+    <li><a href={base + "koans"} class="mobile-nav-link">🪨 Công án</a></li>
     <li><a href={base + "practices"} class="mobile-nav-link">Thực hành</a></li>
     <li><a href={base + "blogs"} class="mobile-nav-link">Blog</a></li>
-    <li><a href={base + "categories-and-tags"} class="mobile-nav-link">Categories & Tags</a></li>
+    <li><a href={base + "categories"} class="mobile-nav-link">Categories</a></li>
+    <li><a href={base + "tags"} class="mobile-nav-link">Tags</a></li>
     <li><a href={base + "about"} class="mobile-nav-link">Giới thiệu</a></li>
     <li><a href={base + "authors"} class="mobile-nav-link">Tác giả</a></li>
     <li><a href={base + "zongjinglus"} class="mobile-nav-link">Tông Cảnh Lục</a></li>

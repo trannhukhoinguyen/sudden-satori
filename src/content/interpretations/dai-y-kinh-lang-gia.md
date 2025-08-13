@@ -14,14 +14,19 @@ draft: false
 
 ### Tại sao gọi là Kinh Lăng Già? 
 
-Đó là huyền diệu của chư Phật ở màu nhiệm cả của các kinh, được ví dụ rộng rãi, những ý nói rõ được những nghĩa sâu như không sinh không diệt, chẳng có chẳng không, đoạn tuyệt cả hai, đi lại, lìa cả đoạn thường hai chấp. Bởi vì nghĩa đế thứ nhất được quý báu màu nhiệm cao nhất, biết cảnh trước mắt là như trò rối lẫn lộn giả danh khác nhau, sinh tử Niết bàn là như nhau, điều mà ngài Đại Tuệ cần trình bày trước nhất, chính ý đức Phật cần phát biểu.
+Đó là huyền diệu của chư Phật ở màu nhiệm cả của các kinh, được ví dụ rộng rãi, những ý nói rõ được những nghĩa sâu như không sinh không diệt, chẳng có chẳng không, đoạn tuyệt cả hai, đi lại, lìa cả đoạn thường hai chấp. 
+Bởi vì **nghĩa đế thứ I** được quý báu màu nhiệm cao nhất, biết cảnh trước mắt là như trò rối lẫn lộn giả danh khác nhau, sinh tử Niết bàn là như nhau, điều mà ngài Đại Tuệ cần trình bày trước nhất, chính ý đức Phật cần phát biểu.
 
-108 nghĩa đúng với thực tướng như xa rời thế gian. 39 môn phái ý kiến giải, mà tuyên truyền chính pháp. Hiểu rõ danh và tướng đều là giả trá bởi mê vọng thường ấp ủ, dựa chính trí để hiểu chân như giác ngộ lý duyên khởi mà quy chân lý màu nhiệm.
+108 nghĩa đúng với thực tướng như xa rời thế gian. 39 môn phái ý kiến giải, mà tuyên truyền chính pháp. 
+Hiểu rõ danh và tướng đều là giả trá bởi mê vọng thường ấp ủ, dựa chính trí để hiểu chân như giác ngộ lý duyên khởi mà quy chân lý màu nhiệm.
 
-Gió cảnh đã tắt, sóng thức mới yên. 
-Ba tự tính cũng đều không.
-Hai vô ngã cũng tắt. 
-Vào cả Như Lai tạng tới cửa giải thoát.
+> Gió cảnh đã tắt, sóng thức mới yên
+> 
+> Ba tự tính cũng đều không
+> 
+> Hai vô ngã cũng tắt
+> 
+> Vào cả Như Lai tạng tới cửa giải thoát
 
 Đó là trích bài tựa ở kinh Đại thừa nhập Lăng Già "bản dịch đời nhà Đường?”.
 Kinh Lăng Già gồm có 4 bản dịch bây giờ còn có 3:
@@ -80,7 +85,7 @@ Cảnh giới Thánh trí đã thân chứng ấy là đã lìa tất cả các 
 Như người uống nước lạnh hay nóng tự biết, cảnh giới như thế đúng không phải huyễn. 
 Vì Thánh trí chứng đệ nhất nghĩa không phải là huyễn, thật tướng của các pháp không phải là huyễn.
 
-Tông thánh trí chứng nghĩa thứ nhất không phải là huyễn.
+Tông thánh trí chứng **nghĩa thứ I** không phải là huyễn.
 
 Nhân, vì thánh chứng, phàm không chứng được.
 
@@ -88,13 +93,13 @@ Dụ người thấy sông Hằng, quỷ không thấy.
 
 ### Câu văn thế là không đúng, tại sao?
 
-Bởi chỉ có thánh trí mới có thể chứng được nghĩa thứ nhất. 
+Bởi chỉ có thánh trí mới có thể chứng được **nghĩa thứ I**. 
 Như Phật, Bồ tát, Thanh Văn, La Hán, Bích Chi, các Ngài đều có Thánh trí mà phàm phu thì không thể chứng được. 
 Vì vậy nên tuỳ tâm lượng thánh phàm mà thấy hay không thấy. 
-Bởi thế Thánh trí chứng nghĩa thứ nhất cũng là duy tâm niệm. Duy tâm niệm nên cũng là huyễn. 
+Bởi thế Thánh trí chứng **nghĩa thứ I** cũng là duy tâm niệm. Duy tâm niệm nên cũng là huyễn. 
 Như tâm lượng người thấy sông Hằng, mà tâm lượng quỷ thì không thấy được. 
 Thật tướng các pháp cũng là huyễn Tông. Vì Phật tri đã chứng xa dời tâm ý thức 3 cõi (Nhân). 
-Như Thánh tri chứng nghĩa thứ nhất (Dụ).
+Như Thánh tri chứng **nghĩa thứ I** (Dụ).
 
 ### Tại sao thật tướng các pháp cũng đều là huyễn?
 

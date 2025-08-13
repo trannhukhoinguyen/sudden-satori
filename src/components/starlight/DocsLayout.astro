@@ -1,0 +1,10 @@
+---
+import BaseLayout from '@astrojs/starlight/components/Layout.astro';
+const { slots, ...props } = Astro.props;
+---
+
+<div class="docs-container">
+    <BaseLayout {...props}>
+        {slots.default ? slots.default() : null}
+    </BaseLayout>
+</div>

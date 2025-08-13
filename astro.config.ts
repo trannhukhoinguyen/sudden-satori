@@ -32,21 +32,16 @@ const starlightConfig: StarlightUserConfig = {
   title: 'Tham Thiền Phá Tam Quan',
   customCss: [
     // Path to your Tailwind base styles:
-    './src/styles/global.css',
+    './src/styles/docs.css',
   ],
+  components: {
+    Layout: './src/components/starlight/DocsLayout.astro'
+  },
   plugins: [],
   sidebar: [
     {
       label: 'Giới thiệu',
-      items: [{ label: 'Trang chính', link: '/docs/' }],
-    },
-    {
-      label: '📺 Video',
-      items: getSidebarItems('video', 'video'),
-    },
-    {
-      label: '🎧 Audio',
-      items: getSidebarItems('audio', 'audio'),
+      autogenerate: { directory: 'docs' }
     },
   ],
 };

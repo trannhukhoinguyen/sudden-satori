@@ -1,17 +1,12 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import "@/styles/categoryList.css";
 import "@/styles/tagList.css";
 
 const base = import.meta.env.BASE_URL;
-const title = "Categories & Tags";
-const pathCategory = "categories";
+const title = "Tags";
 const pathTag = "tags";
 const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
-
-const allCategories = new Set<string>();
-const categoryMap: Record<string, any[]> = {};
 
 const allTags = new Set<string>();
 const tagMap: Record<string, any[]> = {};
@@ -19,15 +14,11 @@ const tagMap: Record<string, any[]> = {};
 // Blog posts
 const postsBlogGlobMd = import.meta.glob('../content/blogs/*.md', { eager: true });
 const postsBlogGlobMdx = import.meta.glob('../content/blogs/*.mdx', { eager: true });
-const allBlogPostsMd = Object.values(postsBlogGlobMd) as any[];
-const allBlogPostsMdx = Object.values(postsBlogGlobMdx) as any[];
-const allBlogPosts = allBlogPostsMd.concat(allBlogPostsMdx);
+const allBlogPosts = [
+  ...Object.values(postsBlogGlobMd),
+  ...Object.values(postsBlogGlobMdx),
+] as any[];
 allBlogPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
   if (post.frontmatter.tags) {
     post.frontmatter.tags.forEach((tag: string) => {
       allTags.add(tag);
@@ -39,15 +30,11 @@ allBlogPosts.forEach((post: any) => {
 // Interpretation posts
 const postsInterpretationGlobMd = import.meta.glob('../content/interpretations/*.md', { eager: true });
 const postsInterpretationGlobMdx = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
-const allInterpretationPostsMd = Object.values(postsInterpretationGlobMd) as any[];
-const allInterpretationPostsMdx = Object.values(postsInterpretationGlobMdx) as any[];
-const allInterpretationPosts = allInterpretationPostsMd.concat(allInterpretationPostsMdx);
+const allInterpretationPosts = [
+  ...Object.values(postsInterpretationGlobMd),
+  ...Object.values(postsInterpretationGlobMdx),
+] as any[];
 allInterpretationPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
   if (post.frontmatter.tags) {
     post.frontmatter.tags.forEach((tag: string) => {
       allTags.add(tag);
@@ -59,15 +46,11 @@ allInterpretationPosts.forEach((post: any) => {
 // Koan posts
 const postsKoanGlobMd = import.meta.glob('../content/koans/*.md', { eager: true });
 const postsKoanGlobMdx = import.meta.glob('../content/koans/*.mdx', { eager: true });
-const allKoanPostsMd = Object.values(postsKoanGlobMd) as any[];
-const allKoanPostsMdx = Object.values(postsKoanGlobMdx) as any[];
-const allKoanPosts = allKoanPostsMd.concat(allKoanPostsMdx);
+const allKoanPosts = [
+  ...Object.values(postsKoanGlobMd),
+  ...Object.values(postsKoanGlobMdx),
+] as any[];
 allKoanPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
   if (post.frontmatter.tags) {
     post.frontmatter.tags.forEach((tag: string) => {
       allTags.add(tag);
@@ -79,15 +62,11 @@ allKoanPosts.forEach((post: any) => {
 // Poem posts
 const postsPoemGlobMd = import.meta.glob('../content/poems/*.md', { eager: true });
 const postsPoemGlobMdx = import.meta.glob('../content/poems/*.mdx', { eager: true });
-const allPoemPostsMd = Object.values(postsPoemGlobMd) as any[];
-const allPoemPostsMdx = Object.values(postsPoemGlobMdx) as any[];
-const allPoemPosts = allPoemPostsMd.concat(allPoemPostsMdx);
+const allPoemPosts = [
+  ...Object.values(postsPoemGlobMd),
+  ...Object.values(postsPoemGlobMdx),
+] as any[];
 allPoemPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
   if (post.frontmatter.tags) {
     post.frontmatter.tags.forEach((tag: string) => {
       allTags.add(tag);
@@ -99,15 +78,11 @@ allPoemPosts.forEach((post: any) => {
 // Sutra posts
 const postsSutraGlobMd = import.meta.glob('../content/sutras/*.md', { eager: true });
 const postsSutraGlobMdx = import.meta.glob('../content/sutras/*.mdx', { eager: true });
-const allSutraPostsMd = Object.values(postsSutraGlobMd) as any[];
-const allSutraPostsMdx = Object.values(postsSutraGlobMdx) as any[];
-const allSutraPosts = allSutraPostsMd.concat(allSutraPostsMdx);
+const allSutraPosts = [
+  ...Object.values(postsSutraGlobMd),
+  ...Object.values(postsSutraGlobMdx),
+] as any[];
 allSutraPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
   if (post.frontmatter.tags) {
     post.frontmatter.tags.forEach((tag: string) => {
       allTags.add(tag);
@@ -119,15 +94,11 @@ allSutraPosts.forEach((post: any) => {
 // Zongjinglu posts
 const postsZongjingluGlobMd = import.meta.glob('../content/zongjinglus/*.md', { eager: true });
 const postsZongjingluGlobMdx = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
-const allZongjingluPostsMd = Object.values(postsZongjingluGlobMd) as any[];
-const allZongjingluPostsMdx = Object.values(postsZongjingluGlobMdx) as any[];
-const allZongjingluPosts = allZongjingluPostsMd.concat(allZongjingluPostsMdx);
+const allZongjingluPosts = [
+  ...Object.values(postsZongjingluGlobMd),
+  ...Object.values(postsZongjingluGlobMdx),
+] as any[];
 allZongjingluPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
   if (post.frontmatter.tags) {
     post.frontmatter.tags.forEach((tag: string) => {
       allTags.add(tag);
@@ -146,26 +117,14 @@ const allPosts = [
   ...allZongjingluPosts,
 ];
 
-// Create category & tag map with post counts
-Array.from(allCategories).forEach((category: string) => {
-  categoryMap[category] = allPosts.filter((post: any) =>
-    post.frontmatter.categories && post.frontmatter.categories.includes(category)
-  );
-});
+// Create tag map with post counts
 Array.from(allTags).forEach((tag: string) => {
   tagMap[tag] = allPosts.filter((post: any) =>
     post.frontmatter.tags && post.frontmatter.tags.includes(tag)
   );
 });
 
-// Sort categories & tags by post count (descending) then alphabetically
-const sortedCategories = Object.entries(categoryMap)
-  .sort((a: any, b: any) => {
-    if (b[1].length !== a[1].length) {
-      return b[1].length - a[1].length;
-    }
-    return a[0].localeCompare(b[0]);
-  });
+// Sort tags by post count (descending) then alphabetically
 const sortedTags = Object.entries(tagMap)
   .sort((a: any, b: any) => {
     if (b[1].length !== a[1].length) {
@@ -182,28 +141,6 @@ const sortedTags = Object.entries(tagMap)
       <h1 class="page-title">{title}</h1>
       <hr class="page-rule" />
     </header>
-
-    <div class="categories-grid">
-      <h3>Tất cả Category</h3>
-      {sortedCategories.map(([category, posts]: [string, any[]]) => (
-        <div class="category-card">
-          <a href={`${base}${pathCategory}/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
-            <h2 class="category-title">{category}</h2>
-            <p class="category-count">
-              {posts.length} article{posts.length === 1 ? '' : 's'}
-            </p>
-          </a>
-        </div>
-      ))}
-    </div>
-
-    {sortedCategories.length === 0 && (
-      <div class="no-categories">
-        <p>No category found.</p>
-      </div>
-    )}
-
-    <hr class="page-rule" />
 
     <div class="tags-grid">
       <h3>Tất cả Tag</h3>

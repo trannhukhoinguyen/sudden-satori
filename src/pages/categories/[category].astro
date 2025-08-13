@@ -6,86 +6,117 @@ export async function getStaticPaths() {
   const allCategories = new Set<string>();
 
   // Blog posts
-  const postsBlogGlob = import.meta.glob('../../content/blogs/*.md', { eager: true });
-  const allBlogPosts = Object.values(postsBlogGlob) as any[];
+  const postsBlogGlobMd = import.meta.glob('../content/blogs/*.md', { eager: true });
+  const postsBlogGlobMdx = import.meta.glob('../content/blogs/*.mdx', { eager: true });
+  const allBlogPosts = [
+    ...Object.values(postsBlogGlobMd) as any[],
+    ...Object.values(postsBlogGlobMdx) as any[],
+  ];
   allBlogPosts.forEach((post: any) => {
     if (post.frontmatter.categories) {
       post.frontmatter.categories.forEach((category: string) => {
         allCategories.add(category);
       });
-      post.frontmatter.group = "blogs";
     }
+
+    post.frontmatter.group = "blogs";
   });
 
-  // Interpretation posts
-  const postsInterpretationGlob = import.meta.glob('../../content/interpretations/*.md', { eager: true });
-  const allInterpretationPosts = Object.values(postsInterpretationGlob) as any[];
+// Interpretation posts
+  const postsInterpretationGlobMd = import.meta.glob('../content/interpretations/*.md', { eager: true });
+  const postsInterpretationGlobMdx = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
+  const allInterpretationPosts = [
+    ...Object.values(postsInterpretationGlobMd) as any[],
+    ...Object.values(postsInterpretationGlobMdx) as any[],
+  ];
   allInterpretationPosts.forEach((post: any) => {
     if (post.frontmatter.categories) {
       post.frontmatter.categories.forEach((category: string) => {
         allCategories.add(category);
       });
-      post.frontmatter.group = "interpretations";
     }
+
+    post.frontmatter.group = "interpretations";
   });
 
-  // Koan posts
-  const postsKoanGlob = import.meta.glob('../../content/koans/*.md', { eager: true });
-  const allKoanPosts = Object.values(postsKoanGlob) as any[];
+// Koan posts
+  const postsKoanGlobMd = import.meta.glob('../content/koans/*.md', { eager: true });
+  const postsKoanGlobMdx = import.meta.glob('../content/koans/*.mdx', { eager: true });
+  const allKoanPosts = [
+    ...Object.values(postsKoanGlobMd) as any[],
+    ...Object.values(postsKoanGlobMdx) as any[],
+  ];
   allKoanPosts.forEach((post: any) => {
     if (post.frontmatter.categories) {
       post.frontmatter.categories.forEach((category: string) => {
         allCategories.add(category);
       });
-      post.frontmatter.group = "koans";
     }
+
+    post.frontmatter.group = "koans";
   });
 
-  // Poem posts
-  const postsPoemGlob = import.meta.glob('../../content/poems/*.md', { eager: true });
-  const allPoemPosts = Object.values(postsPoemGlob) as any[];
+// Poem posts
+  const postsPoemGlobMd = import.meta.glob('../content/poems/*.md', { eager: true });
+  const postsPoemGlobMdx = import.meta.glob('../content/poems/*.mdx', { eager: true });
+  const allPoemPosts = [
+    ...Object.values(postsPoemGlobMd) as any[],
+    ...Object.values(postsPoemGlobMdx) as any[],
+  ];
   allPoemPosts.forEach((post: any) => {
     if (post.frontmatter.categories) {
       post.frontmatter.categories.forEach((category: string) => {
         allCategories.add(category);
       });
-      post.frontmatter.group = "poems";
     }
+
+    post.frontmatter.group = "poems";
   });
 
-  // Sutra posts
-  const postsSutraGlob = import.meta.glob('../../content/sutras/*.md', { eager: true });
-  const allSutraPosts = Object.values(postsSutraGlob) as any[];
+// Sutra posts
+  const postsSutraGlobMd = import.meta.glob('../content/sutras/*.md', { eager: true });
+  const postsSutraGlobMdx = import.meta.glob('../content/sutras/*.mdx', { eager: true });
+  const allSutraPosts = [
+    ...Object.values(postsSutraGlobMd) as any[],
+    ...Object.values(postsSutraGlobMdx) as any[],
+  ];
   allSutraPosts.forEach((post: any) => {
     if (post.frontmatter.categories) {
       post.frontmatter.categories.forEach((category: string) => {
         allCategories.add(category);
       });
-      post.frontmatter.group = "sutras";
     }
+
+    post.frontmatter.group = "sutras";
   });
 
-  // Zongjinglu posts
-  const postsZongjingluGlob = import.meta.glob('../../content/zongjinglus/*.md', { eager: true });
-  const allZongjingluPosts = Object.values(postsZongjingluGlob) as any[];
+// Zongjinglu posts
+  const postsZongjingluGlobMd = import.meta.glob('../content/zongjinglus/*.md', { eager: true });
+  const postsZongjingluGlobMdx = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
+  const allZongjingluPosts = [
+    ...Object.values(postsZongjingluGlobMd) as any[],
+    ...Object.values(postsZongjingluGlobMdx) as any[],
+  ];
   allZongjingluPosts.forEach((post: any) => {
     if (post.frontmatter.categories) {
       post.frontmatter.categories.forEach((category: string) => {
         allCategories.add(category);
       });
-      post.frontmatter.group = "zongjinglus";
     }
+
+    post.frontmatter.group = "zongjinglus";
   });
 
-  // Create paths for each category
+// Create paths for each category
   const allPosts = [
-      ...allBlogPosts,
-      ...allInterpretationPosts,
-      ...allKoanPosts,
-      ...allPoemPosts,
-      ...allSutraPosts,
-      ...allZongjingluPosts,
+    ...allBlogPosts,
+    ...allInterpretationPosts,
+    ...allKoanPosts,
+    ...allPoemPosts,
+    ...allSutraPosts,
+    ...allZongjingluPosts,
   ];
+
   return Array.from(allCategories).map((category: string) => {
     const categorySlug = category.toLowerCase().replace(/[\/\s]+/g, '-');
     const postsInCategory = allPosts.filter((post: any) =>
