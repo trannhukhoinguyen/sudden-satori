@@ -239,7 +239,7 @@ Còn Pháp Nhãn Thiền Sư Thập Quy Luận rằng: “Quy Ngưỡng thì vu�
 “Tào Động là xướng họa làm dụng”, bởi gia phong một vấn một đáp, qua lại miên mật, so với cơ phong thẳng tắp của Lâm Tế ý thú khác xa.
 Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động nông dân” do gia phong Lâm Tế như tướng chỉ huy binh lính trăm vạn, mà gia phong Tào Động thì như kẻ nông phu canh tác ruộng đất rất chu đáo vậy.
 
-*️⃣ Có Tăng hỏi **Phần Dương Thiệu Chiêu** thiền sư:
+*️⃣ Có Tăng hỏi **Phần Dương Thiện Chiêu** thiền sư:
 
 ❓: Thế nào là **Chánh trung Lai**?
 
@@ -287,7 +287,7 @@ Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động
 >
 > Người đá đánh trống tiếng đùng đùng
 
-⭐️ Thiền sư **Phần Dương Thiệu Chiêu** vì Tăng xin hỏi **Ngũ Vị**, bèn tụng ra từng vị rằng:
+⭐️ Thiền sư **Phần Dương Thiện Chiêu** vì Tăng xin hỏi **Ngũ Vị**, bèn tụng ra từng vị rằng:
 
 🪞 **Chánh trung Lai**
 
