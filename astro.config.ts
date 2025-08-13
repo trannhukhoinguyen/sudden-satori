@@ -56,7 +56,7 @@ export default defineConfig({
   base: process.env.BASE_PATH || undefined,
 
   integrations: [
-    starlight(starlightConfig),
+    // starlight(starlightConfig),
     react(),
     AutoImport({
       imports: [
