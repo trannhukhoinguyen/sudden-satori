@@ -4,7 +4,7 @@ export async function GET() {
 // get searchData
   const searchData = [];
 
-  for (const posts in allPostsForSearchJson) {
+  for (const posts of allPostsForSearchJson) {
    for (const path in posts) {
     const post = await posts[path];
     const url = path.replace('../content', '').replace('.md', '');
