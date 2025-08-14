@@ -2,7 +2,7 @@
 title: 'TRUYỀN THỪA THIỀN TÔNG'
 date: "2025-06-11"
 description: 'Từ Phật Thích Ca truyền đến nay...'
-categories: ["Khác"]
+categories: ["Blog"]
 tags: ["Truyền thừa"]
 author: "wikipedia"
 draft: false

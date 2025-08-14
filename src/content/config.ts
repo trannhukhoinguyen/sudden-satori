@@ -6,6 +6,7 @@ import { docsSchema } from '@astrojs/starlight/schema';
 const blogs = defineCollection({
   type: 'content',
   schema: z.object({
+    type: z.string().default('blogs'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -14,16 +15,28 @@ const blogs = defineCollection({
     tags: z.array(z.string()).default([]),
     author: z.string().default('Zen master'),
     image: z.string().optional(),
-    audioUrl: z.string().url().optional(),
-    audioUrls: z.array(z.string().url()).optional(),
-    videoUrl: z.string().url().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
+  }),
+});
+
+const books = defineCollection({
+  type: 'content',
+  schema: z.object({
+    type: z.string().default('books'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    author: z.string().default('Zen master'),
+    image: z.string().optional(),
   }),
 });
 
 const zongjinglus  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/zongjinglus" }),
   schema: z.object({
+    type: z.string().default('zongjinglus'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -31,17 +44,13 @@ const zongjinglus  = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     author: z.string().default('Zen master'),
-    image: z.string().optional(),
-    audioUrl: z.string().url().optional(),
-    audioUrls: z.array(z.string().url()).optional(),
-    videoUrl: z.string().url().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
   }),
 });
 
 const koans  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans" }),
   schema: z.object({
+    type: z.string().default('koans'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -60,6 +69,7 @@ const koans  = defineCollection({
 const sutras  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/sutras" }),
   schema: z.object({
+    type: z.string().default('sutras'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -78,6 +88,7 @@ const sutras  = defineCollection({
 const interpretations  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/interpretations" }),
   schema: z.object({
+    type: z.string().default('interpretations'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -85,7 +96,6 @@ const interpretations  = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     author: z.string().default('Zen master'),
-    image: z.string().optional(),
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
     videoUrl: z.string().url().optional(),
@@ -96,6 +106,7 @@ const interpretations  = defineCollection({
 const practices  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/practices" }),
   schema: z.object({
+    type: z.string().default('practices'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -114,6 +125,7 @@ const practices  = defineCollection({
 const poems  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/poems" }),
   schema: z.object({
+    type: z.string().default('poems'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -121,15 +133,10 @@ const poems  = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     author: z.string().default('Zen master'),
-    image: z.string().optional(),
-    audioUrl: z.string().url().optional(),
-    audioUrls: z.array(z.string().url()).optional(),
-    videoUrl: z.string().url().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
   }),
 });
 
 export const collections = {
-  blogs, zongjinglus, koans, sutras, interpretations, practices, poems,
+  blogs, books, zongjinglus, koans, sutras, interpretations, practices, poems,
   docs: defineCollection({ loader: docsLoader(), schema: docsSchema() })
 };

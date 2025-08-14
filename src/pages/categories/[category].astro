@@ -1,122 +1,12 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import "@/styles/category.css";
+import {
+  allPosts,
+  allCategories,
+} from "../../utils/getMarkdownContent";
 
 export async function getStaticPaths() {
-  const allCategories = new Set<string>();
-
-  // Blog posts
-  const postsBlogGlobMd = import.meta.glob('../content/blogs/*.md', { eager: true });
-  const postsBlogGlobMdx = import.meta.glob('../content/blogs/*.mdx', { eager: true });
-  const allBlogPosts = [
-    ...Object.values(postsBlogGlobMd),
-    ...Object.values(postsBlogGlobMdx),
-  ] as any[];
-  allBlogPosts.forEach((post: any) => {
-    if (post.frontmatter.categories) {
-      post.frontmatter.categories.forEach((category: string) => {
-        allCategories.add(category);
-      });
-    }
-
-    post.frontmatter.group = "blogs";
-  });
-
-// Interpretation posts
-  const postsInterpretationGlobMd = import.meta.glob('../content/interpretations/*.md', { eager: true });
-  const postsInterpretationGlobMdx = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
-  const allInterpretationPosts = [
-    ...Object.values(postsInterpretationGlobMd),
-    ...Object.values(postsInterpretationGlobMdx),
-  ] as any[];
-  allInterpretationPosts.forEach((post: any) => {
-    if (post.frontmatter.categories) {
-      post.frontmatter.categories.forEach((category: string) => {
-        allCategories.add(category);
-      });
-    }
-
-    post.frontmatter.group = "interpretations";
-  });
-
-// Koan posts
-  const postsKoanGlobMd = import.meta.glob('../content/koans/*.md', { eager: true });
-  const postsKoanGlobMdx = import.meta.glob('../content/koans/*.mdx', { eager: true });
-  const allKoanPosts = [
-    ...Object.values(postsKoanGlobMd),
-    ...Object.values(postsKoanGlobMdx),
-  ] as any[];
-  allKoanPosts.forEach((post: any) => {
-    if (post.frontmatter.categories) {
-      post.frontmatter.categories.forEach((category: string) => {
-        allCategories.add(category);
-      });
-    }
-
-    post.frontmatter.group = "koans";
-  });
-
-// Poem posts
-  const postsPoemGlobMd = import.meta.glob('../content/poems/*.md', { eager: true });
-  const postsPoemGlobMdx = import.meta.glob('../content/poems/*.mdx', { eager: true });
-  const allPoemPosts = [
-    ...Object.values(postsPoemGlobMd),
-    ...Object.values(postsPoemGlobMdx),
-  ] as any[];
-  allPoemPosts.forEach((post: any) => {
-    if (post.frontmatter.categories) {
-      post.frontmatter.categories.forEach((category: string) => {
-        allCategories.add(category);
-      });
-    }
-
-    post.frontmatter.group = "poems";
-  });
-
-// Sutra posts
-  const postsSutraGlobMd = import.meta.glob('../content/sutras/*.md', { eager: true });
-  const postsSutraGlobMdx = import.meta.glob('../content/sutras/*.mdx', { eager: true });
-  const allSutraPosts = [
-    ...Object.values(postsSutraGlobMd),
-    ...Object.values(postsSutraGlobMdx),
-  ] as any[];
-  allSutraPosts.forEach((post: any) => {
-    if (post.frontmatter.categories) {
-      post.frontmatter.categories.forEach((category: string) => {
-        allCategories.add(category);
-      });
-    }
-
-    post.frontmatter.group = "sutras";
-  });
-
-// Zongjinglu posts
-  const postsZongjingluGlobMd = import.meta.glob('../content/zongjinglus/*.md', { eager: true });
-  const postsZongjingluGlobMdx = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
-  const allZongjingluPosts = [
-    ...Object.values(postsZongjingluGlobMd),
-    ...Object.values(postsZongjingluGlobMdx),
-  ] as any[];
-  allZongjingluPosts.forEach((post: any) => {
-    if (post.frontmatter.categories) {
-      post.frontmatter.categories.forEach((category: string) => {
-        allCategories.add(category);
-      });
-    }
-
-    post.frontmatter.group = "zongjinglus";
-  });
-
-// Create paths for each category
-  const allPosts = [
-    ...allBlogPosts,
-    ...allInterpretationPosts,
-    ...allKoanPosts,
-    ...allPoemPosts,
-    ...allSutraPosts,
-    ...allZongjingluPosts,
-  ] as any[];
-
   return Array.from(allCategories).map((category: string) => {
     const categorySlug = category.toLowerCase().replace(/[\/\s]+/g, '-');
     const postsInCategory = allPosts.filter((post: any) =>
@@ -154,7 +44,7 @@ const description = `Tất cả bài viết về ${category}`;
       {posts.map((post: any) => (
         <article class="post-item">
           <h2 class="post-title">
-            <a href={`${base}${post.frontmatter.group}/${post.file.split('/').pop()?.replace('.md', '')}`}>
+            <a href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace('.md', '')}`}>
               {post.frontmatter.title}
             </a>
           </h2>
@@ -173,7 +63,7 @@ const description = `Tất cả bài viết về ${category}`;
             <p class="post-excerpt">{post.frontmatter.excerpt}</p>
           )}
 
-          <a href={`${base}${post.frontmatter.group}/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
+          <a href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
             Read More →
           </a>
         </article>

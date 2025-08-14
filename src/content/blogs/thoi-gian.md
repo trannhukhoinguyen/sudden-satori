@@ -2,8 +2,8 @@
 title: "Có phải thời gian chỉ là ảo giác?"
 description: ""
 date: "2025-06-01"
-categories: ["Luận"]
-tags: ["Tham khảo"]
+categories: ["Blog"]
+tags: ["Thời gian"]
 author: "thamtosuthien.net"
 draft: false
 ---

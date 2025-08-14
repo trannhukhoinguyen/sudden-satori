@@ -2,8 +2,8 @@
 title: "KHO BÁU NHÀ THIỀN"
 description: ""
 date: "2025-06-12"
-categories: ["Luận"]
-tags: ["Thực hành"]
+categories: ["Sách"]
+tags: ["Kho báu"]
 author: "Thiền sư Văn Thủ"
 draft: false
 ---

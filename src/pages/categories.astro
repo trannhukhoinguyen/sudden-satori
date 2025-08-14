@@ -1,132 +1,15 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import "@/styles/categoryList.css";
+import {
+  sortedCategories,
+} from "../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Categories";
 const pathCategory = "categories";
 const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
-
-const allCategories = new Set<string>();
-const categoryMap: Record<string, any[]> = {};
-
-// Blog posts
-const postsBlogGlobMd = import.meta.glob('../content/blogs/*.md', { eager: true });
-const postsBlogGlobMdx = import.meta.glob('../content/blogs/*.mdx', { eager: true });
-const allBlogPosts = [
-  ...Object.values(postsBlogGlobMd) as any[],
-  ...Object.values(postsBlogGlobMdx) as any[],
-];
-allBlogPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
-});
-
-// Interpretation posts
-const postsInterpretationGlobMd = import.meta.glob('../content/interpretations/*.md', { eager: true });
-const postsInterpretationGlobMdx = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
-const allInterpretationPosts = [
-  ...Object.values(postsInterpretationGlobMd) as any[],
-  ...Object.values(postsInterpretationGlobMdx) as any[],
-];
-allInterpretationPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
-});
-
-// Koan posts
-const postsKoanGlobMd = import.meta.glob('../content/koans/*.md', { eager: true });
-const postsKoanGlobMdx = import.meta.glob('../content/koans/*.mdx', { eager: true });
-const allKoanPosts = [
-  ...Object.values(postsKoanGlobMd) as any[],
-  ...Object.values(postsKoanGlobMdx) as any[],
-];
-allKoanPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
-});
-
-// Poem posts
-const postsPoemGlobMd = import.meta.glob('../content/poems/*.md', { eager: true });
-const postsPoemGlobMdx = import.meta.glob('../content/poems/*.mdx', { eager: true });
-const allPoemPosts = [
-  ...Object.values(postsPoemGlobMd) as any[],
-  ...Object.values(postsPoemGlobMdx) as any[],
-];
-allPoemPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
-});
-
-// Sutra posts
-const postsSutraGlobMd = import.meta.glob('../content/sutras/*.md', { eager: true });
-const postsSutraGlobMdx = import.meta.glob('../content/sutras/*.mdx', { eager: true });
-const allSutraPosts = [
-  ...Object.values(postsSutraGlobMd) as any[],
-  ...Object.values(postsSutraGlobMdx) as any[],
-];
-allSutraPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
-});
-
-// Zongjinglu posts
-const postsZongjingluGlobMd = import.meta.glob('../content/zongjinglus/*.md', { eager: true });
-const postsZongjingluGlobMdx = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
-const allZongjingluPosts = [
-  ...Object.values(postsZongjingluGlobMd) as any[],
-  ...Object.values(postsZongjingluGlobMdx) as any[],
-];
-allZongjingluPosts.forEach((post: any) => {
-  if (post.frontmatter.categories) {
-    post.frontmatter.categories.forEach((category: string) => {
-      allCategories.add(category);
-    });
-  }
-});
-
-// Create paths for each category
-const allPosts = [
-  ...allBlogPosts,
-  ...allInterpretationPosts,
-  ...allKoanPosts,
-  ...allPoemPosts,
-  ...allSutraPosts,
-  ...allZongjingluPosts,
-];
-
-// Create category map with post counts
-Array.from(allCategories).forEach((category: string) => {
-  categoryMap[category] = allPosts.filter((post: any) =>
-    post.frontmatter.categories && post.frontmatter.categories.includes(category)
-  );
-});
-
-// Sort categories by post count (descending) then alphabetically
-const sortedCategories = Object.entries(categoryMap)
-  .sort((a: any, b: any) => {
-    if (b[1].length !== a[1].length) {
-      return b[1].length - a[1].length;
-    }
-    return a[0].localeCompare(b[0]);
-  });
-
 ---
 
 <Layout title={titleFull} description={description} showSidebar={true}>

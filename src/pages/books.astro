@@ -1,0 +1,79 @@
+---
+import Layout from '../layouts/Layout.astro';
+import "@/styles/postList.css";
+import { calculateReadingTime, extractTextFromMarkdown } from '../utils/reading-time';
+import {extractHeadings, filterHeadingsForTOC} from "../utils/table-of-contents";
+
+const base = import.meta.env.BASE_URL;
+const title = "Books";
+const path = "Books";
+const titleFull = title + " | Sudden Satori";
+const description = "Xem " + title;
+
+const mdPostsGlob = import.meta.glob('../content/books/*.md', { eager: true });
+const mdxPostsGlob = import.meta.glob('../content/books/*.mdx', { eager: true });
+
+const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
+const sortedPosts = allPosts
+  .sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
+---
+
+<Layout title={titleFull} description={description}>
+  <div class="blog-page">
+    <header class="blog-header">
+      <h1 class="blog-title">{title}</h1>
+      <p class="blog-description">
+        ...
+      </p>
+      <hr class="blog-rule" />
+    </header>
+
+    {sortedPosts.length > 0 ? (
+      <div class="posts-list">
+        {sortedPosts.map((post: any) => {
+          // For import.meta.glob, access raw content through compiledContent or body
+          const rawContent = post.body || post.rawContent?.() || '';
+          const plainText = extractTextFromMarkdown(rawContent);
+          const readingTime = calculateReadingTime(plainText);
+          return (
+              <article class="post-item">
+                <h2 class="post-title">
+                  <a href={`${base}${path}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>{post.frontmatter.title}</a>
+                </h2>
+
+                <div class="post-meta">
+                  <time class="post-date" datetime={post.frontmatter.date}>
+                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric'
+                    })}
+                  </time>
+
+                  <span class="post-reading-time">{readingTime}</span>
+
+                  {post.frontmatter.tags && (
+                      <div class="post-tags">
+                        {post.frontmatter.tags.map((tag: string) => (
+                            <a href={`${base}${path}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link tag">{tag}</a>
+                        ))}
+                      </div>
+                  )}
+                </div>
+
+                {post.frontmatter.excerpt && (
+                    <p class="post-excerpt">{post.frontmatter.excerpt}</p>
+                )}
+
+                <a href={`${base}${path}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="read-more">Read More →</a>
+              </article>
+          )
+        })}
+      </div>
+    ) : (
+      <div class="no-posts">
+        <p>No posts available yet.</p>
+      </div>
+    )}
+  </div>
+</Layout>

@@ -1,131 +1,15 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import "@/styles/tagList.css";
+import {
+  sortedTags,
+} from "../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Tags";
 const pathTag = "tags";
 const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
-
-const allTags = new Set<string>();
-const tagMap: Record<string, any[]> = {};
-
-// Blog posts
-const postsBlogGlobMd = import.meta.glob('../content/blogs/*.md', { eager: true });
-const postsBlogGlobMdx = import.meta.glob('../content/blogs/*.mdx', { eager: true });
-const allBlogPosts = [
-  ...Object.values(postsBlogGlobMd),
-  ...Object.values(postsBlogGlobMdx),
-] as any[];
-allBlogPosts.forEach((post: any) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag: string) => {
-      allTags.add(tag);
-    });
-  }
-});
-
-// Interpretation posts
-const postsInterpretationGlobMd = import.meta.glob('../content/interpretations/*.md', { eager: true });
-const postsInterpretationGlobMdx = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
-const allInterpretationPosts = [
-  ...Object.values(postsInterpretationGlobMd),
-  ...Object.values(postsInterpretationGlobMdx),
-] as any[];
-allInterpretationPosts.forEach((post: any) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag: string) => {
-      allTags.add(tag);
-    });
-  }
-});
-
-// Koan posts
-const postsKoanGlobMd = import.meta.glob('../content/koans/*.md', { eager: true });
-const postsKoanGlobMdx = import.meta.glob('../content/koans/*.mdx', { eager: true });
-const allKoanPosts = [
-  ...Object.values(postsKoanGlobMd),
-  ...Object.values(postsKoanGlobMdx),
-] as any[];
-allKoanPosts.forEach((post: any) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag: string) => {
-      allTags.add(tag);
-    });
-  }
-});
-
-// Poem posts
-const postsPoemGlobMd = import.meta.glob('../content/poems/*.md', { eager: true });
-const postsPoemGlobMdx = import.meta.glob('../content/poems/*.mdx', { eager: true });
-const allPoemPosts = [
-  ...Object.values(postsPoemGlobMd),
-  ...Object.values(postsPoemGlobMdx),
-] as any[];
-allPoemPosts.forEach((post: any) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag: string) => {
-      allTags.add(tag);
-    });
-  }
-});
-
-// Sutra posts
-const postsSutraGlobMd = import.meta.glob('../content/sutras/*.md', { eager: true });
-const postsSutraGlobMdx = import.meta.glob('../content/sutras/*.mdx', { eager: true });
-const allSutraPosts = [
-  ...Object.values(postsSutraGlobMd),
-  ...Object.values(postsSutraGlobMdx),
-] as any[];
-allSutraPosts.forEach((post: any) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag: string) => {
-      allTags.add(tag);
-    });
-  }
-});
-
-// Zongjinglu posts
-const postsZongjingluGlobMd = import.meta.glob('../content/zongjinglus/*.md', { eager: true });
-const postsZongjingluGlobMdx = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
-const allZongjingluPosts = [
-  ...Object.values(postsZongjingluGlobMd),
-  ...Object.values(postsZongjingluGlobMdx),
-] as any[];
-allZongjingluPosts.forEach((post: any) => {
-  if (post.frontmatter.tags) {
-    post.frontmatter.tags.forEach((tag: string) => {
-      allTags.add(tag);
-    });
-  }
-});
-
-// Create paths for each category
-const allPosts = [
-  ...allBlogPosts,
-  ...allInterpretationPosts,
-  ...allKoanPosts,
-  ...allPoemPosts,
-  ...allSutraPosts,
-  ...allZongjingluPosts,
-];
-
-// Create tag map with post counts
-Array.from(allTags).forEach((tag: string) => {
-  tagMap[tag] = allPosts.filter((post: any) =>
-    post.frontmatter.tags && post.frontmatter.tags.includes(tag)
-  );
-});
-
-// Sort tags by post count (descending) then alphabetically
-const sortedTags = Object.entries(tagMap)
-  .sort((a: any, b: any) => {
-    if (b[1].length !== a[1].length) {
-      return b[1].length - a[1].length;
-    }
-    return a[0].localeCompare(b[0]);
-  });
 ---
 
 <Layout title={titleFull} description={description} showSidebar={true}>
