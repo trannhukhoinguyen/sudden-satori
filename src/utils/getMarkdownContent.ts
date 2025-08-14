@@ -47,7 +47,7 @@ const allPosts = [
   ...Object.values(postsSutraGlobMdx),
   ...Object.values(postsZongjingluGlobMd),
   ...Object.values(postsZongjingluGlobMdx),
-];
+] as any[];
 
 // Get all categories, tags
 allPosts.forEach((post: any) => {
