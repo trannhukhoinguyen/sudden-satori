@@ -114,6 +114,7 @@ const sortedTags = Object.entries(tagMap)
 
 export {
   allPosts,
+allPostsForSearchJson,
   allCategories,
   allTags,
   sortedCategories,
