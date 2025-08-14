@@ -1,11 +1,12 @@
-import { allPosts } from "../utils/getMarkdownContent";
+import { allPostsForSearchJson } from "../utils/getMarkdownContent";
 
 export async function GET() {
 // get searchData
   const searchData = [];
 
-  for (const path in allPosts) {
-    const post = await allPosts[path]();
+  for (posts in allPostsForSearchJson) {
+   for (const path in posts) {
+    const post = await posts[path]();
     const url = path.replace('../content', '').replace('.md', '');
 
     searchData.push({
@@ -16,6 +17,7 @@ export async function GET() {
       categories: post.frontmatter.categories || []
     });
   }
+}
 
   // Sort by date (newest first)
   searchData.sort((a, b) => new Date(b.date) - new Date(a.date));
