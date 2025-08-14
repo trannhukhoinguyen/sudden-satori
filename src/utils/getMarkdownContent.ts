@@ -4,66 +4,66 @@ const categoryMap: Record<string, any[]> = {};
 const tagMap: Record<string, any[]> = {};
 
 // Blog posts
-const postsBlogGlobMd = await import.meta.glob('../content/blogs/*.md', { eager: true });
-const postsBlogGlobMdx = await import.meta.glob('../content/blogs/*.mdx', { eager: true });
+const blog = await import.meta.glob('../content/blogs/*.md', { eager: true });
+const blogX = await import.meta.glob('../content/blogs/*.mdx', { eager: true });
 
 // Book posts
-const postsBookGlobMd = await import.meta.glob('../content/books/*.md', { eager: true });
-const postsBookGlobMdx = await import.meta.glob('../content/books/*.mdx', { eager: true });
+const book = await import.meta.glob('../content/books/*.md', { eager: true });
+const bookX = await import.meta.glob('../content/books/*.mdx', { eager: true });
 
 // Interpretation posts
-const postsInterpretationGlobMd = await import.meta.glob('../content/interpretations/*.md', { eager: true });
-const postsInterpretationGlobMdx = await import.meta.glob('../content/interpretations/*.mdx', { eager: true });
+const interpretation = await import.meta.glob('../content/interpretations/*.md', { eager: true });
+const interpretationX = await import.meta.glob('../content/interpretations/*.mdx', { eager: true });
 
 // Koan posts
-const postsKoanGlobMd = await import.meta.glob('../content/koans/*.md', { eager: true });
-const postsKoanGlobMdx = await import.meta.glob('../content/koans/*.mdx', { eager: true });
+const koan = await import.meta.glob('../content/koans/*.md', { eager: true });
+const koanX = await import.meta.glob('../content/koans/*.mdx', { eager: true });
 
 // Poem posts
-const postsPoemGlobMd = await import.meta.glob('../content/poems/*.md', { eager: true });
-const postsPoemGlobMdx = await import.meta.glob('../content/poems/*.mdx', { eager: true });
+const poem = await import.meta.glob('../content/poems/*.md', { eager: true });
+const poemX = await import.meta.glob('../content/poems/*.mdx', { eager: true });
 
 // Sutra posts
-const postsSutraGlobMd = await import.meta.glob('../content/sutras/*.md', { eager: true });
-const postsSutraGlobMdx = await import.meta.glob('../content/sutras/*.mdx', { eager: true });
+const sutra = await import.meta.glob('../content/sutras/*.md', { eager: true });
+const sutraX = await import.meta.glob('../content/sutras/*.mdx', { eager: true });
 
 // Zongjinglu posts
-const postsZongjingluGlobMd = await import.meta.glob('../content/zongjinglus/*.md', { eager: true });
-const postsZongjingluGlobMdx = await import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
+const zongjinglu = await import.meta.glob('../content/zongjinglus/*.md', { eager: true });
+const zongjingluX = await import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
 
 // ALL POSTS
 const allPosts = [
-  ...Object.values(postsBlogGlobMd),
-  ...Object.values(postsBlogGlobMdx),
-  ...Object.values(postsBookGlobMd),
-  ...Object.values(postsBookGlobMdx),
-  ...Object.values(postsInterpretationGlobMd),
-  ...Object.values(postsInterpretationGlobMdx),
-  ...Object.values(postsKoanGlobMd),
-  ...Object.values(postsKoanGlobMdx),
-  ...Object.values(postsPoemGlobMd),
-  ...Object.values(postsPoemGlobMdx),
-  ...Object.values(postsSutraGlobMd),
-  ...Object.values(postsSutraGlobMdx),
-  ...Object.values(postsZongjingluGlobMd),
-  ...Object.values(postsZongjingluGlobMdx),
+  ...Object.values(blog),
+  ...Object.values(blogX),
+  ...Object.values(book),
+  ...Object.values(bookX),
+  ...Object.values(interpretation),
+  ...Object.values(interpretationX),
+  ...Object.values(koan),
+  ...Object.values(koanX),
+  ...Object.values(poem),
+  ...Object.values(poemX),
+  ...Object.values(sutra),
+  ...Object.values(sutraX),
+  ...Object.values(zongjinglu),
+  ...Object.values(zongjingluX),
 ] as any[];
 
 const allPostsForSearchJson = [
-  postsBlogGlobMd,
-  postsBlogGlobMdx,
-  postsBookGlobMd,
-  postsBookGlobMdx,
-  postsInterpretationGlobMd,
-  postsInterpretationGlobMdx,
-  postsKoanGlobMd,
-  postsKoanGlobMdx,
-  postsPoemGlobMd,
-  postsPoemGlobMdx,
-  postsSutraGlobMd,
-  postsSutraGlobMdx,
-  postsZongjingluGlobMd,
-  postsZongjingluGlobMdx,
+  blog,
+  blogX,
+  book,
+  bookX,
+  interpretation,
+  interpretationX,
+  koan,
+  koanX,
+  poem,
+  poemX,
+  sutra,
+  sutraX,
+  zongjinglu,
+  zongjingluX,
 ] as any[];
 
 // Get all categories, tags
