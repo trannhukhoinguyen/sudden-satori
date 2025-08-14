@@ -64,20 +64,20 @@ const allPosts = [
 ] as any[];
 
 const allPostsForSearchJson = [
-  blogLz,
-  blogXLz,
-  bookLz,
-  bookXLz,
-  interpretationLz,
-  interpretationXLz,
-  koanLz,
-  koanXLz,
-  poemLz,
-  poemXLz,
-  sutraLz,
-  sutraXLz,
-  zongjingluLz,
-  zongjingluXLz,
+  blog,
+  blogX,
+  book,
+  bookX,
+  interpretation,
+  interpretationX,
+  koan,
+  koanX,
+  poem,
+  poemX,
+  sutra,
+  sutraX,
+  zongjinglu,
+  zongjingluX,
 ] as any[];
 
 // Get all categories, tags
