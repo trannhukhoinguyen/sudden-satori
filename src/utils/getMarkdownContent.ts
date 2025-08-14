@@ -49,6 +49,23 @@ const allPosts = [
   ...Object.values(postsZongjingluGlobMdx),
 ] as any[];
 
+const allPostsForSearchJson = [
+  postsBlogGlobMd,
+  postsBlogGlobMdx,
+  postsBookGlobMd,
+  postsBookGlobMdx,
+  postsInterpretationGlobMd,
+  postsInterpretationGlobMdx,
+  postsKoanGlobMd,
+  postsKoanGlobMdx,
+  postsPoemGlobMd,
+  postsPoemGlobMdx,
+  postsSutraGlobMd,
+  postsSutraGlobMdx,
+  postsZongjingluGlobMd,
+  postsZongjingluGlobMdx,
+] as any[];
+
 // Get all categories, tags
 allPosts.forEach((post: any) => {
   if (post.frontmatter.categories) {
