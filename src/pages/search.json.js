@@ -1,12 +1,12 @@
-import { allPostsForSearchJson } from "../utils/getMarkdownContent";
+import { allPostsForSearchJson, allPosts } from "../utils/getMarkdownContent";
 
 export async function GET() {
 // get searchData
   const searchData = [];
 
-  for (const posts in allPostsForSearchJson) {
+  for (const posts in allPosts) {
    for (const path in posts) {
-    const post = await posts[path]();
+    const post = await posts[path];
     const url = path.replace('../content', '').replace('.md', '');
 
     searchData.push({
