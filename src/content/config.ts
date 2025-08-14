@@ -1,7 +1,5 @@
 import {defineCollection, z} from 'astro:content';
 import { glob } from 'astro/loaders';
-import { docsLoader } from '@astrojs/starlight/loaders';
-import { docsSchema } from '@astrojs/starlight/schema';
 
 const blogs = defineCollection({
   type: 'content',
@@ -138,5 +136,4 @@ const poems  = defineCollection({
 
 export const collections = {
   blogs, books, zongjinglus, koans, sutras, interpretations, practices, poems,
-  docs: defineCollection({ loader: docsLoader(), schema: docsSchema() })
 };
