@@ -6,30 +6,44 @@ const tagMap: Record<string, any[]> = {};
 // Blog posts
 const blog = await import.meta.glob('../content/blogs/*.md', { eager: true });
 const blogX = await import.meta.glob('../content/blogs/*.mdx', { eager: true });
+const blogLz = await import.meta.glob('../content/blogs/*.md');
+const blogXLz = await import.meta.glob('../content/blogs/*.mdx');
 
 // Book posts
 const book = await import.meta.glob('../content/books/*.md', { eager: true });
 const bookX = await import.meta.glob('../content/books/*.mdx', { eager: true });
+const bookLz = await import.meta.glob('../content/books/*.md');
+const bookXLz = await import.meta.glob('../content/books/*.mdx');
 
 // Interpretation posts
 const interpretation = await import.meta.glob('../content/interpretations/*.md', { eager: true });
 const interpretationX = await import.meta.glob('../content/interpretations/*.mdx', { eager: true });
+const interpretationLz = await import.meta.glob('../content/interpretations/*.md');
+const interpretationXLz = await import.meta.glob('../content/interpretations/*.mdx');
 
 // Koan posts
 const koan = await import.meta.glob('../content/koans/*.md', { eager: true });
 const koanX = await import.meta.glob('../content/koans/*.mdx', { eager: true });
+const koanLz = await import.meta.glob('../content/koans/*.md');
+const koanXLz = await import.meta.glob('../content/koans/*.mdx');
 
 // Poem posts
 const poem = await import.meta.glob('../content/poems/*.md', { eager: true });
 const poemX = await import.meta.glob('../content/poems/*.mdx', { eager: true });
+const poemLz = await import.meta.glob('../content/poems/*.md');
+const poemXLz = await import.meta.glob('../content/poems/*.mdx');
 
 // Sutra posts
 const sutra = await import.meta.glob('../content/sutras/*.md', { eager: true });
 const sutraX = await import.meta.glob('../content/sutras/*.mdx', { eager: true });
+const sutraLz = await import.meta.glob('../content/sutras/*.md');
+const sutraXLz = await import.meta.glob('../content/sutras/*.mdx');
 
 // Zongjinglu posts
 const zongjinglu = await import.meta.glob('../content/zongjinglus/*.md', { eager: true });
 const zongjingluX = await import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
+const zongjingluLz = await import.meta.glob('../content/zongjinglus/*.md');
+const zongjingluXLz = await import.meta.glob('../content/zongjinglus/*.mdx');
 
 // ALL POSTS
 const allPosts = [
@@ -50,20 +64,20 @@ const allPosts = [
 ] as any[];
 
 const allPostsForSearchJson = [
-  blog,
-  blogX,
-  book,
-  bookX,
-  interpretation,
-  interpretationX,
-  koan,
-  koanX,
-  poem,
-  poemX,
-  sutra,
-  sutraX,
-  zongjinglu,
-  zongjingluX,
+  blogLz,
+  blogXLz,
+  bookLz,
+  bookXLz,
+  interpretationLz,
+  interpretationXLz,
+  koanLz,
+  koanXLz,
+  poemLz,
+  poemXLz,
+  sutraLz,
+  sutraXLz,
+  zongjingluLz,
+  zongjingluXLz,
 ] as any[];
 
 // Get all categories, tags
