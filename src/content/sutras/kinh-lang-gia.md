@@ -10,7 +10,7 @@ audioUrls: [
 ]
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 categories: ["Kinh"]
-tags: ["Kinh Lăng Già", "HT. Thích Duy Lực"]
+tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 draft: false
 ---
 

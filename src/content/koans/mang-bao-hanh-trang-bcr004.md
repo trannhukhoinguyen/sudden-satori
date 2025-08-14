@@ -5,7 +5,7 @@ description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS. ĐỨC SƠN TUYÊN GIÁM"]
+tags: ["BÍCH NHAM LỤC", "TS ĐỨC SƠN TUYÊN GIÁM"]
 draft: false
 ---
 

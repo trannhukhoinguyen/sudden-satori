@@ -5,7 +5,7 @@ description: "Cửu Phong là thị giả của Thạch Sương, Khi Thạch Sư
 excerpt: ""
 author: ""
 categories: ["Công án"]
-tags: ["TS. THẠCH SƯƠNG KHÁNH CHƯ", "TS. CỬU PHONG ĐẠO KIỀN"]
+tags: ["TS THẠCH SƯƠNG KHÁNH CHƯ", "TS CỬU PHONG ĐẠO KIỀN"]
 draft: false
 ---
 

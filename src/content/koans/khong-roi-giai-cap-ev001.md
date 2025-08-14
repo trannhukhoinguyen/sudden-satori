@@ -3,9 +3,9 @@ title: "THANH NGUYÊN GIAI CẤP"
 date: "2025-08-05"
 description: ""
 excerpt: ""
-author: "TS. Đan Hà"
+author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
 categories: ["Công án"]
-tags: ["KHÔNG CỐC TẬP", "TS. THANH NGUYÊN HÀNH TƯ"]
+tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ"]
 draft: false
 ---
 
@@ -153,4 +153,4 @@ Không bày ấn báu vẫn tôn kính.
 
 ***
 
-> Nguồn: https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html
+> Nguồn: ...
