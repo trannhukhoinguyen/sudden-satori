@@ -6,7 +6,7 @@ export async function GET() {
 
   for (const posts in allPosts) {
    for (const path in posts) {
-    const post = await posts[path];
+    const post = await posts[path]();
     const url = path.replace('../content', '').replace('.md', '');
 
     searchData.push({
