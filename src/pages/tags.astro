@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import "@/styles/tagList.css";
 import {
-  sortedTags,
+  sortedTags
 } from "../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
@@ -10,6 +10,7 @@ const title = "Tags";
 const pathTag = "tags";
 const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
+const noTagDescription = "Chưa có Tag nào.";
 ---
 
 <Layout title={titleFull} description={description} showSidebar={true}>
@@ -35,8 +36,8 @@ const description = "Xem " + title;
     </div>
 
     {sortedTags.length === 0 && (
-        <div class="no-tags">
-          <p>No tag found.</p>
+        <div class="no-tag">
+          <p>{noTagDescription}</p>
         </div>
     )}
   </div>

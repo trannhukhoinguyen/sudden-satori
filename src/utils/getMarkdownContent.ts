@@ -3,81 +3,56 @@ const allTags = new Set<string>();
 const categoryMap: Record<string, any[]> = {};
 const tagMap: Record<string, any[]> = {};
 
-// Blog posts
-const blog = await import.meta.glob('../content/blogs/*.md', { eager: true });
-const blogX = await import.meta.glob('../content/blogs/*.mdx', { eager: true });
-const blogLz = await import.meta.glob('../content/blogs/*.md');
-const blogXLz = await import.meta.glob('../content/blogs/*.mdx');
+// ===== 1. Khai báo glob cố định cho từng collection =====
+const globMap = {
+  blogs: import.meta.glob('../content/blogs/*.{md,mdx}', { eager: true }),
+  books: import.meta.glob('../content/books/*.{md,mdx}', { eager: true }),
+  interpretations: import.meta.glob('../content/interpretations/*.{md,mdx}', { eager: true }),
+  koans: import.meta.glob('../content/koans/*.{md,mdx}', { eager: true }),
+  poems: import.meta.glob('../content/poems/*.{md,mdx}', { eager: true }),
+  practices: import.meta.glob('../content/practices/*.{md,mdx}', { eager: true }),
+  sutras: import.meta.glob('../content/sutras/*.{md,mdx}', { eager: true }),
+  zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
+};
 
-// Book posts
-const book = await import.meta.glob('../content/books/*.md', { eager: true });
-const bookX = await import.meta.glob('../content/books/*.mdx', { eager: true });
-const bookLz = await import.meta.glob('../content/books/*.md');
-const bookXLz = await import.meta.glob('../content/books/*.mdx');
+// ===== 2. Danh sách type mặc định cho mỗi collection =====
+type CollectionName = keyof typeof globMap;
 
-// Interpretation posts
-const interpretation = await import.meta.glob('../content/interpretations/*.md', { eager: true });
-const interpretationX = await import.meta.glob('../content/interpretations/*.mdx', { eager: true });
-const interpretationLz = await import.meta.glob('../content/interpretations/*.md');
-const interpretationXLz = await import.meta.glob('../content/interpretations/*.mdx');
+const collections: { name: CollectionName; type: string }[] = [
+  { name: 'blogs', type: 'blog' },
+  { name: 'books', type: 'book' },
+  { name: 'interpretations', type: 'interpretation' },
+  { name: 'koans', type: 'koan' },
+  { name: 'poems', type: 'poem' },
+  { name: 'practices', type: 'practice' },
+  { name: 'sutras', type: 'sutra' },
+  { name: 'zongjinglus', type: 'zongjinglu' },
+];
 
-// Koan posts
-const koan = await import.meta.glob('../content/koans/*.md', { eager: true });
-const koanX = await import.meta.glob('../content/koans/*.mdx', { eager: true });
-const koanLz = await import.meta.glob('../content/koans/*.md');
-const koanXLz = await import.meta.glob('../content/koans/*.mdx');
+// ===== 3. Hàm gán type mặc định =====
+const addDefaultType = (posts: any[], defaultType: string) =>
+    posts.map(post => ({
+      ...post,
+      frontmatter: {
+        ...post.frontmatter,
+        type: post.frontmatter?.type || defaultType,
+      },
+    }));
 
-// Poem posts
-const poem = await import.meta.glob('../content/poems/*.md', { eager: true });
-const poemX = await import.meta.glob('../content/poems/*.mdx', { eager: true });
-const poemLz = await import.meta.glob('../content/poems/*.md');
-const poemXLz = await import.meta.glob('../content/poems/*.mdx');
-
-// Sutra posts
-const sutra = await import.meta.glob('../content/sutras/*.md', { eager: true });
-const sutraX = await import.meta.glob('../content/sutras/*.mdx', { eager: true });
-const sutraLz = await import.meta.glob('../content/sutras/*.md');
-const sutraXLz = await import.meta.glob('../content/sutras/*.mdx');
-
-// Zongjinglu posts
-const zongjinglu = await import.meta.glob('../content/zongjinglus/*.md', { eager: true });
-const zongjingluX = await import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
-const zongjingluLz = await import.meta.glob('../content/zongjinglus/*.md');
-const zongjingluXLz = await import.meta.glob('../content/zongjinglus/*.mdx');
-
-// ALL POSTS
-const allPosts = [
-  ...Object.values(blog),
-  ...Object.values(blogX),
-  ...Object.values(book),
-  ...Object.values(bookX),
-  ...Object.values(interpretation),
-  ...Object.values(interpretationX),
-  ...Object.values(koan),
-  ...Object.values(koanX),
-  ...Object.values(poem),
-  ...Object.values(poemX),
-  ...Object.values(sutra),
-  ...Object.values(sutraX),
-  ...Object.values(zongjinglu),
-  ...Object.values(zongjingluX),
-] as any[];
+// ===== 4. Gom tất cả post từ mọi collection =====
+const allPosts = collections.flatMap(({ name, type }) =>
+    addDefaultType(Object.values(globMap[name]), type)
+);
 
 const allPostsForSearchJson = [
-  blog,
-  blogX,
-  book,
-  bookX,
-  interpretation,
-  interpretationX,
-  koan,
-  koanX,
-  poem,
-  poemX,
-  sutra,
-  sutraX,
-  zongjinglu,
-  zongjingluX,
+  globMap['blogs'],
+  globMap['books'],
+  globMap['interpretations'],
+  globMap['koans'],
+  globMap['poems'],
+  globMap['practices'],
+  globMap['sutras'],
+  globMap['zongjinglus'],
 ] as any[];
 
 // Get all categories, tags
@@ -94,43 +69,122 @@ allPosts.forEach((post: any) => {
   }
 });
 
-// Create category map with post counts
-Array.from(allCategories).forEach((category: string) => {
-  categoryMap[category] = allPosts.filter((post: any) =>
-      post.frontmatter.categories && post.frontmatter.categories.includes(category)
+// get sortedPosts, sortedCategories, sortedTags by type
+const getSortedPostsByType = (type?: string) => {
+  const filtered = type
+      ? allPosts.filter(post => post.frontmatter.type === type)
+      : allPosts;
+
+  return filtered.sort(
+      (a, b) =>
+          new Date(b.frontmatter.date).getTime() -
+          new Date(a.frontmatter.date).getTime()
   );
-});
+};
+// Hàm chung để sort categories/tags theo type
+const getSortedTermsByType = (
+    termSet: Set<string>,
+    termField: 'categories' | 'tags',
+    type?: string
+) => {
+  const termMap: Record<string, any[]> = {};
 
-// Sort categories by post count (descending) then alphabetically
-const sortedCategories = Object.entries(categoryMap)
-    .sort((a: any, b: any) => {
-      if (b[1].length !== a[1].length) {
-        return b[1].length - a[1].length;
-      }
-      return a[0].localeCompare(b[0]);
-    });
+  Array.from(termSet).forEach((term) => {
+    termMap[term] = allPosts
+        .filter((post) => !type || post.frontmatter.type === type)
+        .filter(
+            (post) =>
+                Array.isArray(post.frontmatter[termField]) &&
+                post.frontmatter[termField].includes(term)
+        );
+  });
 
-// Create tag map with post counts
-Array.from(allTags).forEach((tag: string) => {
-  tagMap[tag] = allPosts.filter((post: any) =>
-      post.frontmatter.tags && post.frontmatter.tags.includes(tag)
-  );
-});
+  return Object.entries(termMap).sort((a, b) => {
+    if (b[1].length !== a[1].length) {
+      return b[1].length - a[1].length; // Sort theo số lượng bài
+    }
+    return a[0].localeCompare(b[0]); // Nếu bằng nhau thì sort theo tên
+  });
+};
 
-// Sort tags by post count (descending) then alphabetically
-const sortedTags = Object.entries(tagMap)
-    .sort((a: any, b: any) => {
-      if (b[1].length !== a[1].length) {
-        return b[1].length - a[1].length;
-      }
-      return a[0].localeCompare(b[0]);
-    });
+// Dùng cho categories
+const getSortedCategoriesByType = (type?: string) =>
+    getSortedTermsByType(allCategories, 'categories', type);
+
+// Dùng cho tags
+const getSortedTagsByType = (type?: string) =>
+    getSortedTermsByType(allTags, 'tags', type);
+
+// get all type of sortedPosts
+const sortedPosts = getSortedPostsByType();
+const sortedPostsBlog = getSortedPostsByType('blog');
+const sortedPostsBook = getSortedPostsByType('book');
+const sortedPostsInterpretation = getSortedPostsByType('interpretation');
+const sortedPostsKoan = getSortedPostsByType('koan');
+const sortedPostsPoem = getSortedPostsByType('poem');
+const sortedPostsPractice = getSortedPostsByType('practice');
+const sortedPostsSutra = getSortedPostsByType('sutra');
+const sortedPostsZongjinglu = getSortedPostsByType('zongjinglu');
+
+// get all type of sortedCategories
+const sortedCategories = getSortedCategoriesByType();
+const sortedCategoriesBlog = getSortedCategoriesByType('blog');
+const sortedCategoriesBook = getSortedCategoriesByType('book');
+const sortedCategoriesInterpretation = getSortedCategoriesByType('interpretation');
+const sortedCategoriesKoan = getSortedCategoriesByType('koan');
+const sortedCategoriesPoem = getSortedCategoriesByType('poem');
+const sortedCategoriesPractice = getSortedCategoriesByType('practice');
+const sortedCategoriesSutra = getSortedCategoriesByType('sutra');
+const sortedCategoriesZongjinglu = getSortedCategoriesByType('zongjinglu');
+
+// get all type of sortedTags
+const sortedTags = getSortedTagsByType();
+const sortedTagsBlog = getSortedTagsByType('blog');
+const sortedTagsBook = getSortedTagsByType('book');
+const sortedTagsInterpretation = getSortedTagsByType('interpretation');
+const sortedTagsKoan = getSortedTagsByType('koan');
+const sortedTagsPoem = getSortedTagsByType('poem');
+const sortedTagsPractice = getSortedTagsByType('practice');
+const sortedTagsSutra = getSortedTagsByType('sutra');
+const sortedTagsZongjinglu = getSortedTagsByType('zongjinglu');
 
 export {
   allPosts,
-allPostsForSearchJson,
+  allPostsForSearchJson,
   allCategories,
   allTags,
+
+  sortedPosts,
+  sortedPostsBlog,
+  sortedPostsBook,
+  sortedPostsInterpretation,
+  sortedPostsKoan,
+  sortedPostsPoem,
+  sortedPostsPractice,
+  sortedPostsSutra,
+  sortedPostsZongjinglu,
+
   sortedCategories,
+  sortedCategoriesBlog,
+  sortedCategoriesBook,
+  sortedCategoriesInterpretation,
+  sortedCategoriesKoan,
+  sortedCategoriesPoem,
+  sortedCategoriesPractice,
+  sortedCategoriesSutra,
+  sortedCategoriesZongjinglu,
+
   sortedTags,
+  sortedTagsBlog,
+  sortedTagsBook,
+  sortedTagsInterpretation,
+  sortedTagsKoan,
+  sortedTagsPoem,
+  sortedTagsPractice,
+  sortedTagsSutra,
+  sortedTagsZongjinglu,
+
+  getSortedPostsByType,
+  getSortedCategoriesByType,
+  getSortedTagsByType,
 };

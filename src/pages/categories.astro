@@ -2,7 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import "@/styles/categoryList.css";
 import {
-  sortedCategories,
+  sortedCategories
 } from "../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
@@ -35,7 +35,7 @@ const description = "Xem " + title;
     </div>
 
     {sortedCategories.length === 0 && (
-      <div class="no-categories">
+      <div class="no-category">
         <p>No category found.</p>
       </div>
     )}

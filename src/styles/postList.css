@@ -148,14 +148,14 @@
     color: var(--color-text-primary);
 }
 
-.no-posts {
+.no-post {
     text-align: center;
     padding: calc(var(--grid-unit) * 6);
     color: var(--color-text-muted);
     font-style: italic;
 }
 
-.no-posts code {
+.no-post code {
     background-color: var(--color-surface);
     padding: 2px 4px;
     border-radius: 3px;

@@ -6,14 +6,12 @@ import BackToTopWithTOC from '@/components/BackToTopWithTOC.astro';
 import { extractHeadings, filterHeadingsForTOC } from '@/utils/table-of-contents';
 import { calculateReadingTime, extractTextFromMarkdown } from '@/utils/reading-time';
 import MediaArea from "@/components/MediaArea.astro";
+import {
+  sortedPostsKoan as sortedPosts,
+} from "../../utils/getMarkdownContent";
 
 export async function getStaticPaths() {
-  const mdPostsGlob = import.meta.glob('../../content/koans/*.md', { eager: true });
-  const mdxPostsGlob = import.meta.glob('../../content/koans/*.mdx', { eager: true });
-
-  const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
-
-  return allPosts.map((post: any) => {
+  return sortedPosts.map((post: any) => {
     const rawContent = post.body || post.rawContent?.() || '';
     const plainText = extractTextFromMarkdown(rawContent);
     const readingTime = calculateReadingTime(plainText);

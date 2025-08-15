@@ -87,7 +87,7 @@
     margin: 0;
 }
 
-.no-categories {
+.no-category {
     text-align: center;
     padding: calc(var(--grid-unit) * 6);
     color: var(--color-text-muted);

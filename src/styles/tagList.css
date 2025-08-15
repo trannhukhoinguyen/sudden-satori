@@ -1,6 +1,6 @@
 .tags-page {
     max-width: 100%;
-    margin-bottom: calc(var(--grid-unit) * 6);
+    margin-block: calc(var(--grid-unit) * 6);
 }
 
 .page-header {
@@ -87,7 +87,7 @@
     margin: 0;
 }
 
-.no-tags {
+.no-tag {
     text-align: center;
     padding: calc(var(--grid-unit) * 6);
     color: var(--color-text-muted);

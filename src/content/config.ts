@@ -2,9 +2,9 @@ import {defineCollection, z} from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const blogs = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blogs" }),
   schema: z.object({
-    type: z.string().default('blogs'),
+    type: z.string().default('blog'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -17,9 +17,9 @@ const blogs = defineCollection({
 });
 
 const books = defineCollection({
-  type: 'content',
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/books" }),
   schema: z.object({
-    type: z.string().default('books'),
+    type: z.string().default('book'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -34,7 +34,7 @@ const books = defineCollection({
 const zongjinglus  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/zongjinglus" }),
   schema: z.object({
-    type: z.string().default('zongjinglus'),
+    type: z.string().default('zongjinglu'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -48,7 +48,7 @@ const zongjinglus  = defineCollection({
 const koans  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans" }),
   schema: z.object({
-    type: z.string().default('koans'),
+    type: z.string().default('koan'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -67,7 +67,7 @@ const koans  = defineCollection({
 const sutras  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/sutras" }),
   schema: z.object({
-    type: z.string().default('sutras'),
+    type: z.string().default('sutra'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -86,7 +86,7 @@ const sutras  = defineCollection({
 const interpretations  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/interpretations" }),
   schema: z.object({
-    type: z.string().default('interpretations'),
+    type: z.string().default('interpretation'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -104,7 +104,7 @@ const interpretations  = defineCollection({
 const practices  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/practices" }),
   schema: z.object({
-    type: z.string().default('practices'),
+    type: z.string().default('practice'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -123,7 +123,7 @@ const practices  = defineCollection({
 const poems  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/poems" }),
   schema: z.object({
-    type: z.string().default('poems'),
+    type: z.string().default('poem'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),

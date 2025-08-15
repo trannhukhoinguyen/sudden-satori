@@ -1,21 +1,22 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import "@/styles/postList.css";
+import "@/styles/tagList.css";
 import { calculateReadingTime, extractTextFromMarkdown } from '../utils/reading-time';
 import {extractHeadings, filterHeadingsForTOC} from "../utils/table-of-contents";
+import {
+  sortedPostsBlog as sortedPosts,
+  sortedTagsBlog as sortedTags,
+} from "../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Blog";
 const path = "blogs";
+const pathTag = "tags";
 const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
-
-const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
-const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
-
-const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
-const sortedPosts = allPosts
-  .sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime());
+const noPostDescription = "Chưa có Bài viết nào.";
+const noTagDescription = "Chưa có Tag nào.";
 ---
 
 <Layout title={titleFull} description={description}>
@@ -28,6 +29,31 @@ const sortedPosts = allPosts
       <hr class="blog-rule" />
     </header>
 
+  <!--Tag list-->
+    <div class="tags-page">
+      <h3>Tất cả tag của {title}</h3>
+
+      <div class="tags-grid">
+        {sortedTags.map(([tag, posts]: [string, any[]]) => (
+            <div class="tag-card">
+              <a href={`${base}${pathTag}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link">
+                <h2 class="tag-title">{tag}</h2>
+                <p class="tag-count">
+                  {posts.length} article{posts.length === 1 ? '' : 's'}
+                </p>
+              </a>
+            </div>
+        ))}
+      </div>
+
+      {sortedTags.length === 0 && (
+          <div class="no-tag">
+            <p>{noTagDescription}</p>
+          </div>
+      )}
+    </div>
+
+  <!--All Posts-->
     {sortedPosts.length > 0 ? (
       <div class="posts-list">
         {sortedPosts.map((post: any) => {
@@ -71,8 +97,8 @@ const sortedPosts = allPosts
         })}
       </div>
     ) : (
-      <div class="no-posts">
-        <p>No posts available yet.</p>
+      <div class="no-post">
+        <p>{noPostDescription}</p>
       </div>
     )}
   </div>
