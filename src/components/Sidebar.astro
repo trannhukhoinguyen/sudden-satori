@@ -1,103 +1,74 @@
 ---
-import { config } from '../config';
+import { config } from "../config";
 import "@/styles/sidebar.css";
-import {
-  getCategoryData ,
-} from "../utils/getMarkdownContent";
+import { getCategoryData } from "../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 
+// ✅ Xác định collection hiện tại (blogs, books, sutras...)
+const currentCategory = Astro.params?.category || "blogs"; // fallback mặc định
 
-// ✅ Nếu có Astro.params.category thì lấy, nếu không thì fallback "blogs"
-const category = Astro.params?.category || "blogs";
-
-// Lấy dữ liệu cho Sidebar
-const { flatCategories, flatTags, recentPosts } = getCategoryData(category);
+// ✅ Lấy dữ liệu theo collection
+const { recentPosts, flatCategories, flatTags } = getCategoryData(currentCategory);
 ---
 
 <div class="sidebar-content">
-  <!-- Bio Section -->
-<!--  <section class="bio-section">
-    <div class="avatar-container">
-      {config.author.avatar ? (
-        <img src={config.author.avatar} alt={config.author.name} class="avatar" />
-      ) : (
-        <div class="avatar-placeholder">
-          <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-            &lt;!&ndash; Circular mask to contain the silhouette &ndash;&gt;
-            <defs>
-              <clipPath id="circleClipSidebar">
-                <circle cx="40" cy="40" r="39" />
-              </clipPath>
-            </defs>
-            <g clip-path="url(#circleClipSidebar)">
-              &lt;!&ndash; Head (oval shape) &ndash;&gt;
-              <ellipse cx="40" cy="28" rx="13" ry="15" fill="currentColor"/>
-              &lt;!&ndash; Neck &ndash;&gt;
-              <path d="M33 40 Q33 44 35 46 L45 46 Q47 44 47 40 Z" fill="currentColor"/>
-              &lt;!&ndash; Shoulders &ndash;&gt;
-              <path d="M35 46 Q28 48 22 54 Q16 60 14 70 L14 80 L66 80 L66 70 Q64 60 58 54 Q52 48 45 46 Z" fill="currentColor"/>
-            </g>
-          </svg>
-        </div>
-      )}
-    </div>
-    <h3 class="author-name">{config.author.name}</h3>
-    <p class="bio-text">{config.author.bio}</p>
-  </section>-->
 
   <!-- Recent Posts Section -->
   {recentPosts.length > 0 && (
-      <section class="recent-posts">
-        <h3 class="section-title">Recent {category} Posts</h3>
-        <ul class="post-list">
-          {recentPosts.map(post => (
-              <li class="post-item">
-                <a href={`${base}/${category}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="post-link">
-                  {post.frontmatter.title}
-                </a>
-                <time class="post-date" datetime={post.frontmatter.date}>
-                  {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                    month: 'short',
-                    day: 'numeric',
-                    year: 'numeric'
-                  })}
-                </time>
-              </li>
-          ))}
-        </ul>
-      </section>
+    <section class="recent-posts">
+      <h3 class="section-title">Recent {currentCategory} Posts</h3>
+      <ul class="post-list">
+        {recentPosts.map((post) => (
+          <li class="post-item">
+            <a
+              href={`${base}${currentCategory}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}
+              class="post-link"
+            >
+              {post.frontmatter.title}
+            </a>
+            <time class="post-date" datetime={post.frontmatter.date}>
+              {new Date(post.frontmatter.date).toLocaleDateString("en-US", {
+                month: "short",
+                day: "numeric",
+                year: "numeric",
+              })}
+            </time>
+          </li>
+        ))}
+      </ul>
+    </section>
   )}
 
   <!-- Categories Section -->
   {flatCategories.length > 0 && (
-      <section class="categories">
-        <h3 class="section-title">Categories</h3>
-        <ul class="category-list">
-          {flatCategories.map(categoryName => (
-              <li class="category-item">
-                <a href={`${base}/${category}/categories/${categoryName.toLowerCase()}`} class="category-link">
-                  {categoryName}
-                </a>
-              </li>
-          ))}
-        </ul>
-      </section>
+    <section class="categories">
+      <h3 class="section-title">Categories</h3>
+      <ul class="category-list">
+        {flatCategories.map((category) => (
+          <li class="category-item">
+            <a href={`${base}${currentCategory}/categories/${category.toLowerCase()}`} class="category-link">
+              {category}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
   )}
 
   <!-- Tags Section -->
   {flatTags.length > 0 && (
-      <section class="tags">
-        <h3 class="section-title">Tags</h3>
-        <ul class="tag-list">
-          {flatTags.map(tag => (
-              <li class="tag-item">
-                <a href={`${base}/${category}/tags/${tag.toLowerCase()}`} class="tag-link">
-                  {tag}
-                </a>
-              </li>
-          ))}
-        </ul>
-      </section>
+    <section class="categories">
+      <h3 class="section-title">Tags</h3>
+      <ul class="category-list">
+        {flatTags.map((tag) => (
+          <li class="category-item">
+            <a href={`${base}${currentCategory}/tags/${tag.toLowerCase()}`} class="category-link">
+              {tag}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
   )}
 </div>
