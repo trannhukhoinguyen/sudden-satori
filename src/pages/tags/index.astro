@@ -1,19 +1,18 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import { BLOG_CONFIG, EXTRA_BLOG_CONFIG, config } from "../../config.ts";
+import Layout from '../../layouts/Layout.astro';
 import "@/styles/tagList.css";
 import {
-  sortedTags
-} from "../utils/getMarkdownContent";
+  allTags
+} from "../../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Tags";
-const pathTag = "tags";
-const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
-const noTagDescription = "Chưa có Tag nào.";
+const { pathTag, noTagDescription } = EXTRA_BLOG_CONFIG;
 ---
 
-<Layout title={titleFull} description={description} showSidebar={true}>
+<Layout title={title} description={description} showSidebar={true}>
 
   <div class="categories-page">
     <header class="page-header">
@@ -23,7 +22,7 @@ const noTagDescription = "Chưa có Tag nào.";
 
     <div class="tags-grid">
       <h3>Tất cả Tag</h3>
-      {sortedTags.map(([tag, posts]: [string, any[]]) => (
+      {allTags.map(([tag, posts]: [string, any[]]) => (
           <div class="tag-card">
             <a href={`${base}${pathTag}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link">
               <h2 class="tag-title">{tag}</h2>
@@ -35,9 +34,9 @@ const noTagDescription = "Chưa có Tag nào.";
       ))}
     </div>
 
-    {sortedTags.length === 0 && (
+    {allTags.length === 0 && (
         <div class="no-tag">
-          <p>{noTagDescription}</p>
+          <p>{ noTagDescription }</p>
         </div>
     )}
   </div>

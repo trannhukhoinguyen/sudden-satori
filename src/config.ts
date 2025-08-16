@@ -40,8 +40,9 @@ export const config: SiteConfig = {
       "Câu thoại đầu là câu hỏi, có hỏi thì phải có đáp, cũng như câu: \"Khi chưa có Trời đất, ta là cái gì?\" hỏi thầm trong bụng cảm thấy không hiểu thì đáp không ra, đáp không ra thì càng thấy thắc mắc, chính cái thắc mắc đó gọi là nghi tình. / " +
       "Hỏi câu thứ nhất đáp không ra thì tiếp tục hỏi câu thứ nhì, đáp không ra, tiếp tục hỏi câu thứ ba, cứ tiếp tục hỏi mãi. " +
       "Ngày đêm không ngừng; bất cứ đi, đứng, nằm, ngồi, đang làm công việc tay chân hay bằng trí óc, đi bộ, đi xe, đang ăn cơm, đang đi cầu, đang ngủ mê, đều phải tiếp tục hỏi tới hoài, không giây phút gián đoạn. " +
-      "Người sơ tham thì hay quên cũng như một ngày 24 tiếng đồng hồ, gián đoạn 23 tiếng, tập tham dần dần thì sự gián đoạn giảm bớt còn 22 tiếng, rồi tiếp tục còn 21 tiếng, 20 tiếng v.v... dần dần đến công phu miên mật tức là ngày đêm 24 giờ không giây phút gián đoạn. / " +
-      "Khi công phu được thành khối cũng gọi là đến thoại đầu, cũng gọi là đến đầu sào trăm thước. Từ đầu sào trăm thước tiến thêm một bước nữa là kiến tánh, đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ. ",
+      "Người sơ tham thì hay quên cũng như một ngày 24 tiếng đồng hồ, gián đoạn 23 tiếng, tập tham dần dần thì sự gián đoạn giảm bớt còn 22 tiếng, rồi tiếp tục còn 21 tiếng, 20 tiếng... dần dần đến công phu miên mật tức là ngày đêm 24 giờ không giây phút gián đoạn. / " +
+      "Khi công phu được thành khối cũng gọi là đến thoại đầu, cũng gọi là đến đầu sào trăm thước. " +
+      "Từ đầu sào trăm thước tiến thêm một bước nữa là kiến tánh, đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ. ",
   author: {
     name: "Nhất Thiết Phật Ngữ Tâm",
     bio: "",
@@ -58,3 +59,53 @@ export const config: SiteConfig = {
 // Export constants for SEO component
 export const SITE_TITLE = config.title;
 export const SITE_DESCRIPTION = config.description;
+
+export const EXTRA_BLOG_CONFIG = {
+  pathCategory: "categories",
+  pathTag: "tags",
+  noPostDescription: "Chưa có Bài viết nào.",
+  noCategoryDescription: "Chưa có Category nào.",
+  noTagDescription: "Chưa có Tag nào.",
+};
+export const BLOG_CONFIG = {
+  blogs: {
+    title: "Bài viết",
+    path: "blogs",
+    description: "Xem Bài viết làm sáng tỏ về Phật Pháp",
+  },
+  books: {
+    title: "Sách",
+    path: "books",
+    description: "Xem Sách về Phật Pháp",
+  },
+  sutras: {
+    title: "Luận giải",
+    path: "interpretations",
+    description: "Xem Luận giải cho các Kinh Phật",
+  },
+  interpretations: {
+    title: "Luận giải",
+    path: "interpretations",
+    description: "Xem Luận giải cho các Kinh Phật",
+  },
+  koans: {
+    title: "Công án",
+    path: "koans",
+    description: "Xem Công án",
+  },
+  practices: {
+    title: "Thực hành",
+    path: "practices",
+    description: "Xem Thực hành",
+  },
+  poems: {
+    title: "Thơ Thiền",
+    path: "poems",
+    description: "Xem Thơ Thiền",
+  },
+  zongjinglus: {
+    title: "Tông Cảnh Lục",
+    path: "zongjinglus",
+    description: "Xem Tông Cảnh Lục",
+  },
+};

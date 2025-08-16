@@ -18,6 +18,7 @@ const description = "Xem " + title;
 const noPostDescription = "Chưa có Bài viết nào.";
 const noTagDescription = "Chưa có Tag nào.";
 
+// --- Pagination logic ---
 const postsPerPage = 5;
 const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
 const currentPage = 1;
@@ -72,8 +73,11 @@ const end = start + postsPerPage;
           {Array.from({ length: totalPages }).map((_, i) => {
             const pageNum = i + 1;
             return (
-                <a href={`${base}${path}/${pageNum}`} class={pageNum === currentPage ? 'active' : ''}>
-                  {pageNum}
+                <a
+                    href={`${base}${path}/${pageNum}`}
+                    class={pageNum === currentPage ? 'active' : ''}
+                >
+                    {pageNum}
                 </a>
             );
           })}

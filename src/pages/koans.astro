@@ -17,17 +17,74 @@ const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
 const noPostDescription = "Chưa có Bài viết nào.";
 const noTagDescription = "Chưa có Tag nào.";
+
+// --- Pagination logic ---
+const postsPerPage = 5;
+const totalPages = Math.ceil(sortedPosts.length / postsPerPage);
+const currentPage = 1;
+
+const start = (currentPage - 1) * postsPerPage;
+const end = start + postsPerPage;
 ---
 
 <Layout title={titleFull} description={description}>
   <div class="blog-page">
     <header class="blog-header">
       <h1 class="blog-title">{title}</h1>
-      <p class="blog-description">Tất cả {title}</p>
+      <p class="blog-description">
+        ...
+      </p>
       <hr class="blog-rule" />
     </header>
 
-<!--Tag list-->
+    <!--All Posts-->
+    {
+      sortedPosts.length > 0
+          ? sortedPosts.slice(start, end).map((post: any) => {
+            const rawContent = post.body || post.rawContent?.() || '';
+            const plainText = extractTextFromMarkdown(rawContent);
+            const readingTime = calculateReadingTime(plainText);
+            return (
+                <article class="post-item">
+                  <h2 class="post-title">
+                    <a href={`${base}${path}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>{post.frontmatter.title}</a>
+                  </h2>
+                  <div class="post-meta">
+                    <time class="post-date" datetime={post.frontmatter.date}>
+                      {new Date(post.frontmatter.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                    </time>
+                    <span class="post-reading-time">{readingTime}</span>
+                  </div>
+                  {post.frontmatter.excerpt && (<p class="post-excerpt">{post.frontmatter.excerpt}</p>)}
+                  <a href={`${base}${path}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="read-more">Read More →</a>
+                </article>
+            );
+          })
+          : (
+              <div class="no-post">
+                <p>{noPostDescription}</p>
+              </div>
+          )
+    }
+
+    <!-- Pagination -->
+    {totalPages > 1 && (
+        <nav class="pagination">
+          {Array.from({ length: totalPages }).map((_, i) => {
+            const pageNum = i + 1;
+            return (
+                <a
+                    href={`${base}${path}/${pageNum}`}
+                    class={pageNum === currentPage ? 'active' : ''}
+                >
+                  {pageNum}
+                </a>
+            );
+          })}
+        </nav>
+    )}
+
+    <!--Tag list-->
     <div class="tags-page">
       <h3>Tất cả tag của {title}</h3>
 
@@ -50,54 +107,5 @@ const noTagDescription = "Chưa có Tag nào.";
           </div>
       )}
     </div>
-
-<!--All Posts-->
-    {sortedPosts.length > 0 ? (
-      <div class="posts-list">
-        {sortedPosts.map((post: any) => {
-          // For import.meta.glob, access raw content through compiledContent or body
-          const rawContent = post.body || post.rawContent?.() || '';
-          const plainText = extractTextFromMarkdown(rawContent);
-          const readingTime = calculateReadingTime(plainText);
-          return (
-              <article class="post-item">
-                <h2 class="post-title">
-                  <a href={`${base}${path}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>{post.frontmatter.title}</a>
-                </h2>
-
-                <div class="post-meta">
-                  <time class="post-date" datetime={post.frontmatter.date}>
-                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric'
-                    })}
-                  </time>
-
-                  <span class="post-reading-time">{readingTime}</span>
-
-                  {post.frontmatter.tags && (
-                      <div class="post-tags">
-                        {post.frontmatter.tags.map((tag: string) => (
-                            <a href={`${base}${path}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link tag">{tag}</a>
-                        ))}
-                      </div>
-                  )}
-                </div>
-
-                {post.frontmatter.excerpt && (
-                    <p class="post-excerpt">{post.frontmatter.excerpt}</p>
-                )}
-
-                <a href={`${base}${path}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="read-more">Read More →</a>
-              </article>
-          )
-        })}
-      </div>
-    ) : (
-      <div class="no-post">
-        <p>{noPostDescription}</p>
-      </div>
-    )}
   </div>
 </Layout>

@@ -1,0 +1,107 @@
+---
+import { BLOG_CONFIG, EXTRA_BLOG_CONFIG, config } from "../../config.ts";
+import Layout from '../../layouts/Layout.astro';
+import "@/styles/post.css";
+import TableOfContents from '../../components/TableOfContents.astro';
+import BackToTop from '../../components/BackToTop.astro';
+import FloatingTOC from '../../components/FloatingTOC.astro';
+import { extractHeadings, filterHeadingsForTOC } from '../../utils/table-of-contents';
+import { calculateReadingTime, extractTextFromMarkdown } from '../../utils/reading-time';
+import MediaArea from "../../components/MediaArea.astro";
+import { getCategoryData } from "../../utils/getMarkdownContent";
+
+export async function getStaticPaths() {
+    const paths: any[] = [];
+
+    for (const category of Object.keys(BLOG_CONFIG)) {
+    const { posts } = getCategoryData(category);
+    posts.forEach((post: any) => {
+    const rawContent = post.body || post.rawContent?.() || '';
+    const plainText = extractTextFromMarkdown(rawContent);
+    const readingTime = calculateReadingTime(plainText);
+    const tocHeadings = filterHeadingsForTOC(extractHeadings(rawContent));
+
+    paths.push({
+        params: {
+            category,
+            slug: post.file.split('/').pop()?.replace(/\.(md|mdx)$/, ''),
+            },
+        props: { category, post, readingTime, tocHeadings },
+        });
+    });
+    }
+
+    return paths;
+    }
+
+const { category, post, readingTime, tocHeadings } = Astro.props;
+const { frontmatter, Content } = post;
+
+const cfg = BLOG_CONFIG[category];
+if (!cfg) throw new Error(`Category "${category}" not found in BLOG_CONFIG`);
+
+const pageTitle = frontmatter.title;
+const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString() : undefined;
+---
+
+<Layout
+    title={pageTitle}
+    description={frontmatter.description || frontmatter.excerpt}
+    type="article"
+    publishedTime={publishedTime}
+>
+  <article class="blog-post">
+    <header class="post-header">
+      <h1 class="post-title">{frontmatter.title}</h1>
+
+      <div class="post-meta">
+        <time class="post-date" datetime={frontmatter.date}>
+          {new Date(frontmatter.date).toLocaleDateString('en-US', {
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric'
+          })}
+        </time>
+        <span class="post-reading-time">{readingTime}</span>
+      </div>
+
+      {frontmatter.excerpt && (
+          <p class="post-excerpt">{frontmatter.excerpt}</p>
+      )}
+
+      <hr class="monumental-rule" />
+    </header>
+
+    <TableOfContents headings={tocHeadings} />
+
+    <div style="display: flex">
+      <BackToTop />
+      {tocHeadings.length > 0 && <FloatingTOC headings={tocHeadings} />}
+    </div>
+
+    <div class="post-content">
+      <MediaArea entry={post} />
+    </div>
+
+    <div class="post-content">
+      <Content />
+    </div>
+
+    <footer class="post-footer">
+      {frontmatter.tags?.length > 0 && (
+          <div class="post-tags">
+            <span class="tags-label">Tags:</span>
+            <div class="tag-list">
+              {frontmatter.tags.map((tag: string) => (
+                  <span class="tag">{tag}</span>
+              ))}
+            </div>
+          </div>
+      )}
+
+      <div class="post-navigation">
+        <a href={`/${cfg.path}`} class="back-to-blog">← Xem tất cả {cfg.title}</a>
+      </div>
+    </footer>
+  </article>
+</Layout>

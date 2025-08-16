@@ -224,3 +224,23 @@ hr {
   white-space: nowrap;
   border: 0;
 }
+
+/*Back To Top button*/
+.post-navigation {
+  font-weight: 500;
+
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 3em;
+
+  color: var(--color-text-primary);
+}
+
+.post-navigation a {
+  color: currentColor;
+}
+
+.post-navigation a:hover {
+  color: var(--color-text-primary);
+}

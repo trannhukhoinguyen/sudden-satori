@@ -1,40 +1,18 @@
 ---
 import { config } from '../config';
 import "@/styles/sidebar.css";
+import {
+  getCategoryData ,
+} from "../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 
-const mdBlogPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
-const mdxBlogPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
-const mdZongjinglusPostsGlob = import.meta.glob('../content/zongjinglus/*.md', { eager: true });
-const mdxZongjinglusPostsGlob = import.meta.glob('../content/zongjinglus/*.mdx', { eager: true });
-const mdKoansPostsGlob = import.meta.glob('../content/koans/*.md', { eager: true });
-const mdxKoansPostsGlob = import.meta.glob('../content/koans/*.mdx', { eager: true });
-const mdSutrasPostsGlob = import.meta.glob('../content/sutras/*.md', { eager: true });
-const mdxSutrasPostsGlob = import.meta.glob('../content/sutras/*.mdx', { eager: true });
-const mdInterpretationsPostsGlob = import.meta.glob('../content/interpretations/*.md', { eager: true });
-const mdxInterpretationsPostsGlob = import.meta.glob('../content/interpretations/*.mdx', { eager: true });
-const mdPracticesPostsGlob = import.meta.glob('../content/practices/*.md', { eager: true });
-const mdxPracticesPostsGlob = import.meta.glob('../content/practices/*.mdx', { eager: true });
-const mdPoemsPostsGlob = import.meta.glob('../content/poems/*.md', { eager: true });
-const mdxPoemsPostsGlob = import.meta.glob('../content/poems/*.mdx', { eager: true });
 
-const allPosts = [
-    ...Object.values(mdBlogPostsGlob), ...Object.values(mdxBlogPostsGlob),
-    ...Object.values(mdZongjinglusPostsGlob), ...Object.values(mdxZongjinglusPostsGlob),
-    ...Object.values(mdKoansPostsGlob), ...Object.values(mdxKoansPostsGlob),
-    ...Object.values(mdSutrasPostsGlob), ...Object.values(mdxSutrasPostsGlob),
-    ...Object.values(mdInterpretationsPostsGlob), ...Object.values(mdxInterpretationsPostsGlob),
-    ...Object.values(mdPracticesPostsGlob), ...Object.values(mdxPracticesPostsGlob),
-    ...Object.values(mdPoemsPostsGlob), ...Object.values(mdxPoemsPostsGlob),
-] as any[];
+// ✅ Nếu có Astro.params.category thì lấy, nếu không thì fallback "blogs"
+const category = Astro.params?.category || "blogs";
 
-const recentPosts = allPosts
-  .sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime())
-  .slice(0, 5);
-
-const categories = [...new Set(allPosts.flatMap((post: any) => post.frontmatter.categories || []))];
-const tags = [...new Set(allPosts.flatMap((post: any) => post.frontmatter.tags || []))];
+// Lấy dữ liệu cho Sidebar
+const { flatCategories, flatTags, recentPosts } = getCategoryData(category);
 ---
 
 <div class="sidebar-content">
@@ -68,58 +46,58 @@ const tags = [...new Set(allPosts.flatMap((post: any) => post.frontmatter.tags |
     <p class="bio-text">{config.author.bio}</p>
   </section>-->
 
-  <!-- Recent Blog Posts Section -->
+  <!-- Recent Posts Section -->
   {recentPosts.length > 0 && (
-    <section class="recent-posts">
-      <h3 class="section-title">Recent Blog Posts</h3>
-      <ul class="post-list">
-        {recentPosts.map(post => (
-          <li class="post-item">
-            <a href={`${base}/blogs/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="post-link">
-              {post.frontmatter.title}
-            </a>
-            <time class="post-date" datetime={post.frontmatter.date}>
-              {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                month: 'short',
-                day: 'numeric',
-                year: 'numeric'
-              })}
-            </time>
-          </li>
-        ))}
-      </ul>
-    </section>
+      <section class="recent-posts">
+        <h3 class="section-title">Recent {category} Posts</h3>
+        <ul class="post-list">
+          {recentPosts.map(post => (
+              <li class="post-item">
+                <a href={`${base}/${category}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`} class="post-link">
+                  {post.frontmatter.title}
+                </a>
+                <time class="post-date" datetime={post.frontmatter.date}>
+                  {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                    year: 'numeric'
+                  })}
+                </time>
+              </li>
+          ))}
+        </ul>
+      </section>
   )}
 
   <!-- Categories Section -->
-  {categories.length > 0 && (
-    <section class="categories">
-      <h3 class="section-title">Categories</h3>
-      <ul class="category-list">
-        {categories.map(category => (
-          <li class="category-item">
-            <a href={`${base}/categories/${category.toLowerCase()}`} class="category-link">
-              {category}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
+  {flatCategories.length > 0 && (
+      <section class="categories">
+        <h3 class="section-title">Categories</h3>
+        <ul class="category-list">
+          {flatCategories.map(categoryName => (
+              <li class="category-item">
+                <a href={`${base}/${category}/categories/${categoryName.toLowerCase()}`} class="category-link">
+                  {categoryName}
+                </a>
+              </li>
+          ))}
+        </ul>
+      </section>
   )}
 
   <!-- Tags Section -->
-  {tags.length > 0 && (
-    <section class="categories">
-      <h3 class="section-title">Tags</h3>
-      <ul class="category-list">
-        {tags.map(tag => (
-          <li class="category-item">
-            <a href={`${base}/tags/${tag.toLowerCase()}`} class="category-link">
-              {tag}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
+  {flatTags.length > 0 && (
+      <section class="tags">
+        <h3 class="section-title">Tags</h3>
+        <ul class="tag-list">
+          {flatTags.map(tag => (
+              <li class="tag-item">
+                <a href={`${base}/${category}/tags/${tag.toLowerCase()}`} class="tag-link">
+                  {tag}
+                </a>
+              </li>
+          ))}
+        </ul>
+      </section>
   )}
 </div>

@@ -1,18 +1,18 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import { BLOG_CONFIG, EXTRA_BLOG_CONFIG, config } from "../../config.ts";
+import Layout from '../../layouts/Layout.astro';
 import "@/styles/categoryList.css";
 import {
-  sortedCategories
-} from "../utils/getMarkdownContent";
+  allCategories
+} from "../../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Categories";
-const pathCategory = "categories";
-const titleFull = title + " | Sudden Satori";
 const description = "Xem " + title;
+const { pathCategory, noCategoryDescription } = EXTRA_BLOG_CONFIG;
 ---
 
-<Layout title={titleFull} description={description} showSidebar={true}>
+<Layout title={title} description={description} showSidebar={true}>
 
   <div class="categories-page">
     <header class="page-header">
@@ -22,7 +22,7 @@ const description = "Xem " + title;
 
     <div class="categories-grid">
       <h3>Tất cả Category</h3>
-      {sortedCategories.map(([category, posts]: [string, any[]]) => (
+      {allCategories.map(([category, posts]: [string, any[]]) => (
         <div class="category-card">
           <a href={`${base}${pathCategory}/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
             <h2 class="category-title">{category}</h2>
@@ -34,9 +34,9 @@ const description = "Xem " + title;
       ))}
     </div>
 
-    {sortedCategories.length === 0 && (
+    {allCategories.length === 0 && (
       <div class="no-category">
-        <p>No category found.</p>
+        <p>{ noCategoryDescription }</p>
       </div>
     )}
 
