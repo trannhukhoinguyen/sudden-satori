@@ -109,3 +109,22 @@ export const BLOG_CONFIG = {
     description: "Xem Tông Cảnh Lục",
   },
 };
+
+export const configNew = {
+  site: {
+    title: "Zen Study",
+    description: "Trang nghiên cứu Thiền tông và các bộ Kinh, Luận, Công án.",
+    base: import.meta.env.BASE_URL,
+  },
+
+  collections: [
+    "blogs",
+    "books",
+    "interpretations",
+    "sutras",
+    "koans",
+    "poems",
+    "practices",
+    "zongjinglus",
+  ],
+};
