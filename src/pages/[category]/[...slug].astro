@@ -1,107 +1,68 @@
 ---
-import { BLOG_CONFIG, EXTRA_BLOG_CONFIG, config } from "../../config.ts";
-import Layout from '../../layouts/Layout.astro';
-import "@/styles/post.css";
-import TableOfContents from '../../components/TableOfContents.astro';
-import BackToTop from '../../components/BackToTop.astro';
-import FloatingTOC from '../../components/FloatingTOC.astro';
-import { extractHeadings, filterHeadingsForTOC } from '../../utils/table-of-contents';
-import { calculateReadingTime, extractTextFromMarkdown } from '../../utils/reading-time';
-import MediaArea from "../../components/MediaArea.astro";
+import Layout from "../../layouts/Layout.astro";
+import { config } from "../../config";
 import { getCategoryData } from "../../utils/getMarkdownContent";
+import { extractHeadings, filterHeadingsForTOC } from "../../utils/table-of-contents";
+import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
+import TableOfContents from "../../components/TableOfContents.astro";
+import BackToTop from "../../components/BackToTop.astro";
+import FloatingTOC from "../../components/FloatingTOC.astro";
+import MediaArea from "../../components/MediaArea.astro";
 
 export async function getStaticPaths() {
-    const paths: any[] = [];
+  const allPaths: any[] = [];
 
-    for (const category of Object.keys(BLOG_CONFIG)) {
+  config.collections.forEach((category) => {
     const { posts } = getCategoryData(category);
-    posts.forEach((post: any) => {
-    const rawContent = post.body || post.rawContent?.() || '';
-    const plainText = extractTextFromMarkdown(rawContent);
-    const readingTime = calculateReadingTime(plainText);
-    const tocHeadings = filterHeadingsForTOC(extractHeadings(rawContent));
 
-    paths.push({
-        params: {
-            category,
-            slug: post.file.split('/').pop()?.replace(/\.(md|mdx)$/, ''),
-            },
-        props: { category, post, readingTime, tocHeadings },
-        });
+    posts.forEach((post) => {
+      const rawContent = post.body || post.rawContent?.() || "";
+      const plainText = extractTextFromMarkdown(rawContent);
+      const readingTime = calculateReadingTime(plainText);
+      const allHeadings = extractHeadings(rawContent);
+      const tocHeadings = filterHeadingsForTOC(allHeadings);
+
+      const slug = post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "");
+
+      allPaths.push({
+        params: { category, slug },
+        props: { post, readingTime, tocHeadings, category },
+      });
     });
-    }
+  });
 
-    return paths;
-    }
+  return allPaths;
+}
 
-const { category, post, readingTime, tocHeadings } = Astro.props;
-const { frontmatter, Content } = post;
+const { post, readingTime, tocHeadings, category } = Astro.props;
+const { frontmatter, Content } = post as any;
 
-const cfg = BLOG_CONFIG[category];
-if (!cfg) throw new Error(`Category "${category}" not found in BLOG_CONFIG`);
-
-const pageTitle = frontmatter.title;
+const base = import.meta.env.BASE_URL;
 const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString() : undefined;
 ---
 
 <Layout
-    title={pageTitle}
-    description={frontmatter.description || frontmatter.excerpt}
-    type="article"
-    publishedTime={publishedTime}
+  title={frontmatter.title}
+  description={frontmatter.description || frontmatter.excerpt}
+  type="article"
+  publishedTime={publishedTime}
 >
   <article class="blog-post">
     <header class="post-header">
       <h1 class="post-title">{frontmatter.title}</h1>
-
-      <div class="post-meta">
-        <time class="post-date" datetime={frontmatter.date}>
-          {new Date(frontmatter.date).toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-          })}
-        </time>
-        <span class="post-reading-time">{readingTime}</span>
-      </div>
-
-      {frontmatter.excerpt && (
-          <p class="post-excerpt">{frontmatter.excerpt}</p>
-      )}
-
-      <hr class="monumental-rule" />
+      <time class="post-date">{new Date(frontmatter.date).toLocaleDateString()}</time>
+      <span>{readingTime}</span>
     </header>
 
     <TableOfContents headings={tocHeadings} />
 
-    <div style="display: flex">
-      <BackToTop />
-      {tocHeadings.length > 0 && <FloatingTOC headings={tocHeadings} />}
-    </div>
-
     <div class="post-content">
       <MediaArea entry={post} />
-    </div>
-
-    <div class="post-content">
       <Content />
     </div>
 
-    <footer class="post-footer">
-      {frontmatter.tags?.length > 0 && (
-          <div class="post-tags">
-            <span class="tags-label">Tags:</span>
-            <div class="tag-list">
-              {frontmatter.tags.map((tag: string) => (
-                  <span class="tag">{tag}</span>
-              ))}
-            </div>
-          </div>
-      )}
-
-      <div class="post-navigation">
-        <a href={`/${cfg.path}`} class="back-to-blog">← Xem tất cả {cfg.title}</a>
-      </div>
+    <footer>
+      <a href={`${base}/${category}`}>← Back to {category}</a>
     </footer>
   </article>
 </Layout>
