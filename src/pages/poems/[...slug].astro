@@ -2,7 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import "@/styles/post.css";
 import TableOfContents from '../../components/TableOfContents.astro';
-import BackToTopWithTOC from '../../components/BackToTopWithTOC.astro';
+import BackToTop from '../../components/BackToTop.astro';
 import { extractHeadings, filterHeadingsForTOC } from '../../utils/table-of-contents';
 import { calculateReadingTime, extractTextFromMarkdown } from '../../utils/reading-time';
 import MediaArea from "../../components/MediaArea.astro";
@@ -80,7 +80,7 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
     <TableOfContents headings={tocHeadings} />
 
     <!-- Nút BackToTop & TOC -->
-    <BackToTopWithTOC tocSelector=".table-of-contents" />
+    <BackToTop tocSelector=".table-of-contents" />
 
     <!-- Media Area -->
     <div class="post-content">
