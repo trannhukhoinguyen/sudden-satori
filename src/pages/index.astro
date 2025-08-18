@@ -39,6 +39,17 @@ const description = "Xem " + title;
       </div>
     </section>
 
+    <!-- Image Section -->
+    <section class="image">
+      <div class="image-area">
+        <div class="author-avatar">
+          <div class="avatar-placeholder">
+            <img src={'/images/backgrounds/buddha-sitting-lumbini-garden'} alt={'Buddha sitting at Lumbini garden'} />
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Demo Blog Section -->
     <section class="demo-section" id="demo">
       <div class="container">
@@ -117,7 +128,15 @@ const description = "Xem " + title;
           {
             principles?.map(principle => <div class="type-sample">
               <h4 class="sample-h1">{ principle.title }</h4>
-              <p class="type-meta">{ principle.description }</p>
+              <p class="type-meta">
+                {
+                  principle.description?.includes(' / ')
+                      ? principle.description
+                          ?.split(' / ')
+                          ?.map(line => <p>{line}</p>)
+                      : principle.description
+                }
+              </p>
             </div>)
           }
         </div>
@@ -136,7 +155,15 @@ const description = "Xem " + title;
           {
             gates?.map(gate => <div class="type-sample">
               <h4 class="sample-h1">{ gate.title }</h4>
-              <p class="type-meta">{ gate.description }</p>
+              <p class="type-meta">
+                {
+                  gate.description?.includes(' / ')
+                      ? gate.description
+                          ?.split(' / ')
+                          ?.map(line => <p>{line}</p>)
+                      : gate.description
+                }
+              </p>
             </div>)
           }
         </div>
