@@ -3,9 +3,10 @@ import Layout from '../../layouts/Layout.astro';
 import "@/styles/tag.css";
 import {
   allPosts,
-  allTags,
+  getCategoryData,
 } from "../../utils/getMarkdownContent";
 
+const allTags = getCategoryData("tags")["tags"];
 export async function getStaticPaths() {
   return Array.from(allTags).map((tag: string) => {
     const tagSlug = tag.toLowerCase().replace(/[\/\s]+/g, '-');

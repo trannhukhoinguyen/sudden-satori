@@ -3,12 +3,13 @@ import { BLOG_CONFIG, EXTRA_BLOG_CONFIG, config } from "../../config.ts";
 import Layout from '../../layouts/Layout.astro';
 import "@/styles/categoryList.css";
 import {
-  allCategories
+  getCategoryData
 } from "../../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Categories";
 const description = "Xem " + title;
+const allCategories = getCategoryData("categories")["categories"];
 const { pathCategory, noCategoryDescription } = EXTRA_BLOG_CONFIG;
 ---
 
