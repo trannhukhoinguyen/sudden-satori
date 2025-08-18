@@ -116,7 +116,7 @@ phụ úy điểm khó của Dược Sơn, mà Văn Nham ngộ ngay tại đó.
 
 Ngài Lâm Tuyền nói: 
 
-Ngài Lâm Tuyền nói: Thiện Tài đi về phương Nam tham vấn các bậc thiện tri thức. 
+Thiện Tài đi về phương Nam tham vấn các bậc thiện tri thức. 
 Đến chỗ Tỳ Kheo Đức Vân, trải qua núi đá cheo leo cũng không gặp được. 
 7 ngày sau, hai Ngài gặp nhau tại đỉnh Biệt Phong, được pháp môn đại giải thoát.
 

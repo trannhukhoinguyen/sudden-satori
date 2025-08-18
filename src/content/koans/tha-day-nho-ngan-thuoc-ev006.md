@@ -20,7 +20,7 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-Ngài Đầu Tử cũ, Giáp Sơn tham vấn ngài Thuyền Tử.
+Giáp Sơn tham vấn ngài Thuyền Tử.
 Thuyền Tử hỏi: Thả giày nhị ngang thước, vớ y dưới đáy câu,
 cách lưỡi câu ba tấc, tại sao ông không nói?
 
@@ -121,7 +121,7 @@ Nếu cần nghiệm rõ về chơn hay ngụy, có chỗ 3 thứ sấm:*
 
 3. **Ngữ sấm lậu**: kết quả sự nhiệm mầu không có tông, cơ hoàn toàn mê mờ, xoay vần trong thế trí.
 
-*Lặp ra sấm lậu trên đúng với bệnh này.*
+Lập ra sấm lậu trên đúng với bệnh này.
 
 Thuyền Tử còn nói, thả giày như ngàn thước ý dọc làm ngộ, mồi biết việc quan trọng nên thảy nhau lao động, tiếp nối nhập biển. 
 Thế nên, Thuyền Tử nói, gặp được câu ai biết, còn cũng chỉ biết đơn đó rằng: 
@@ -129,19 +129,35 @@ Chỗ ông ở không nói Ngài Dược Sơn ai biết ông là chỗ đó.
 Ta ba mươi năm nước, ngay sau ông không nên sống này. 
 Hôm nay ông đại thông suốt, ông trong chốn thị như một người xuất cách chỗ truyền lại, đúng chỗ thời truyền.
 
-Giáp Sơn từ giã ra đi, nhiều lần quay đầu lại nhìn. Thuyền Tử gọi: *Xà Lê!*
+Giáp Sơn từ giã ra đi, nhiều lần quay đầu lại nhìn. 
 
+Thuyền Tử gọi: *Xà Lê!*
 
+Giáp Sơn quay đầu nhìn. Thuyền Tử dựng đứng mái chèo nói: *Ông nghĩ còn điều gì khác ư?*
+
+Thuyền Tử lật úp thuyền xuống nước thì tịch.
+
+Theo sư nói mà định có không. Thiền sư Thông Huyền Tịnh trong “Kiếp ngoại lạc hồn ca” phân tích rằng: 
+
+> Phao nổi là xác định tiêu chuẩn câu cá. Làm phao bằng gỗ nổi trên mặt nước, móc mồi vào lưỡi câu. 
+> Xem sự chìm nổi mà xác định được cá có cắn câu hay không, nên đặt tên như thế.
+
+Than ôi! Tổ Ông Thăng Mặc thường dạy đệ tử rằng:
+
+> “Truyền pháp như ngài Thuyền Tử, câu pháp như Nhị Tổ.”
+Ngày nay Thầy trò chúng ta nếu không được như vậy, thì làm sao có thể gánh vác đại pháp của Đức Như Lai ư? 
+Nếu được như vậy, thì đâu còn lo đạo Tổ không hưng thạnh ư? 
+May thay gặp ngài Đầu Tử nêu cao chí khí của bậc Tiên Giác, làm điểm tựa cho đời sau.
 
 ## TỤNG CỔ
 
-> Ba mươi năm bến thuyền chốn hiểm nguy
-> 
-> Câu chạm trúng dưới sóng người
-> 
-> Núi Giáp ấp pháp vạn năm xưa
-> 
-> Sáng ngời non nước mùa trùng mới
+> Ba mươi năm bơi thuyền chốn hiểm nguy.
+>
+> Câu chạm trúng được cứu sống người.
+>
+> Núi Giáp dự phận vạn ngàn xưa.
+>
+> Sáng ngời non nước muôn trùng mới.
 
 ## BÌNH XƯỚNG
 
@@ -151,8 +167,9 @@ Ngài Lâm Tuyền nói:
 > Chiếc thuyền này đều làm bằng Vạn Hạnh. 
 > Lúc bến Thuyền, chúng sanh ra khỏi bờ này sanh tử đến bờ kia Niết Bàn.
 
-Ngài còn nói: Nay các Tỳ Kheo nên biết, Như Lai là pháp chủ thi chiếc thuyền, pháp còn phải bỏ, huống là phi pháp.
+Ngài còn nói: 
 
+> Nay các Tỳ Kheo nên biết, Như Lai là pháp chủ thi chiếc thuyền, pháp còn phải bỏ, huống là phi pháp.
 Ta không nghi thời Tượng pháp về sau, có ngài Thuyền Tử đó sông lưu thuyền, tùy duyên với đời mà đạt được lợi điều. 
 Tha thiết mình mạt học làm theo Tứ Phủ, cũng có chỗ sanh trí tò trong sanh tử, cắt đứt cội nguồn thầy Phật dạy. 
 
@@ -178,6 +195,7 @@ Tụng bản lão tụng:
 > Từ hai ngữ bỏ nơi phân phái,
 > 
 > Khó đem hữu hạn so vô hạn.
+
 ***
 
 > Nguồn: ...

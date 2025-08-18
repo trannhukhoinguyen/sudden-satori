@@ -126,7 +126,9 @@ Mặc dù Ngài Thạch Đầu nửa ẩn nửa hiện cho con cháu đời sau 
 
 ## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói: Nếu luận về việc này, giống như phượng đỏ bay trên trời cao không lưu dấu.
+Ngài Lâm Tuyền nói: 
+
+Nếu luận về việc này, giống như phượng đỏ bay trên trời cao không lưu dấu.
 
 Vì hư không tánh thênh thang mặt trời trí tuệ trong sáng, soi thấy năm uẩn đều không, các duyên trần đều tiêu hết.
 
