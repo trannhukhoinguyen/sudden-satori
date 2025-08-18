@@ -16,7 +16,7 @@ draft: false
 ## CỬ:
 
 > Vân Môn Đại Sư nói:
-> Không hỏi ông về trước ngày mười lăm, sau ngày mười lăm thử nói một câu xem?
+> Không hỏi ông về trước ngày 15, sau ngày 15 thử nói một câu xem?
 > Rồi tự trả lời: Ngày nào cũng là một ngày đẹp.
 
 ## BÌNH
@@ -37,7 +37,7 @@ Vân Môn bình thường thích nói ba chữ Thiền là “ Quan Sát” (c�
 
 Sau đó dưới trướng của Vân Môn xuất hiện bốn bậc minh triết là Đông Sơn Sơ, Trí Môn Khoan, Đức Sơn Mật, và Hương Lâm Viễn, đều là những bậc đại tông sư. Hương lâm làm thị giả cho Vân Môn suốt mười tám năm trời. Ngày ngày Vân Môn chỉ gọi, “Thị giả!” Lúc Hương Lâm nói, “Dạ”. Vân Môn lại nói, “Cái gì đây?” Cứ như thế suốt mười tám năm đến một ngày kia Hương Lâm mới ngộ. Vân Môn nói, “ Từ rày trở đi tôi sẽ không gọi ông nữa.” Bình thường lúc dạy người khác Vân Môn thường dùng phương pháp của Mục Châu. Có điều hơi khó bám víu, bởi vì Vân Môn có búa liềm để nhổ đinh bạt chốt. Tuyết Đậu nói, “ Tôi thích các phương pháp mới mẻ của Thiều Dương Lão Nhân, thầy ta suốt đời chỉ nhổ đinh bạt chốt cho thiên hạ.
 
-Vân Môn đưa ra một vấn đề để dạy chúng, “Không hỏi ông về trước ngày mười lăm, sau ngày mười lăm thử nói một câu xem?” Sư cắt đoạn hết các sai biệt chi li chẳng thông phàm thánh. Rồi lại tự trả lời, “ Ngày nào cũng là một ngày đẹp.” Trước ngày mười lăm,” lời này cũng cắt đứt hết các sai biệt chi li. Có điều Vân Môn không nói rằng sau ngày mười lăm là ngày mười sáu. Người đời sau cứ tha hồ giải thích, song có gì là nhằm nhò? Vân Môn lập tông phong, đương nhiên phải có chỗ vì người. Vừa dạy xong, lại tự đáp cho mọi người, “Ngày nào cũng là một ngày đẹp.” Lời này thông quá kim cổ, từ trước đến sau trong một lúc đoán định cả.
+Vân Môn đưa ra một vấn đề để dạy chúng, “Không hỏi ông về trước ngày 15, sau ngày 15 thử nói một câu xem?” Sư cắt đoạn hết các sai biệt chi li chẳng thông phàm thánh. Rồi lại tự trả lời, “ Ngày nào cũng là một ngày đẹp.” Trước ngày 15,” lời này cũng cắt đứt hết các sai biệt chi li. Có điều Vân Môn không nói rằng sau ngày 15 là ngày mười sáu. Người đời sau cứ tha hồ giải thích, song có gì là nhằm nhò? Vân Môn lập tông phong, đương nhiên phải có chỗ vì người. Vừa dạy xong, lại tự đáp cho mọi người, “Ngày nào cũng là một ngày đẹp.” Lời này thông quá kim cổ, từ trước đến sau trong một lúc đoán định cả.
 
 Sư núi tôi nói năng như vậy, cũng là dựa theo ngôn ngữ mà hiểu. Giết người không bằng tự giết mình. Vừa mới lập nên nguyên tắc là đã rơi vào hố sâu. Trong một câu của Vân Môn đã gom đủ cả ba câu. Đó chính là tông chỉ gia phong của sư. Bất cứ một lời dạy nào của Vân Môn cũng phải được truy về nguồn. Nếu không như thế thì chỉ võ đoán mà thôi. Việc này không cần đến nhiều luận thuyết như thế. Nếu như hiểu thấu đương nhiên lạp tức thấy ngay ý chỉ của cổ nhân.
 
@@ -69,49 +69,111 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## BÌNH
 
-Tuyết Đậu tụng cổ bao giờ cũng được như vậy.Trước tiên bao giờ cũng lấy Kim Cương Bảo Kiếm múa một hồi, sau đó mới để lộ một chút phong qui. 
+Tuyết Đậu tụng cổ bao giờ cũng được như vậy. Trước tiên bao giờ cũng lấy Kim Cương Bảo Kiếm múa một hồi, sau đó mới để lộ một chút phong qui.
 
 Tuy như vậy, song rốt cuộc không thể hiểu theo lối nhị nguyên được.
 
-“Bỏ đi một, nêu lên bảy.” Người ta thường hay hiểu đạo theo con số, nói rằng, “Bỏ đi một là việc của trước ngày mười lăm.” 
+“Bỏ đi một, nêu lên bảy.” Người ta thường hay hiểu đạo theo con số, nói rằng, “Bỏ đi một là việc của trước ngày 15.”
 
-Tuyết Đậu đột nhiên hạ bút viết hai câu đã ấn phá tất cả, song lại để lộ một chút cho người ta thấy. “ Bỏ đi một, nêu lên bảy”. 
+Tuyết Đậu đột nhiên hạ bút viết hai câu đã ấn phá tất cả, song lại để lộ một chút cho người ta thấy. “Bỏ đi một, nêu lên bảy”.
 
-Điều kỵ nhất là đừng dựa vào ngôn ngữ mà so đo. 
+Điều kỵ nhất là đừng dựa vào ngôn ngữ mà so đo.
 
-Tại sao vậy? Bánh khô làm sao có chút nước? Thiên hà phần nhiều rơi vào ý thức. 
+Tại sao vậy? Bánh khô làm sao có chút nước? Thiên hà phần nhiều rơi vào ý thức.
 
 Cần phải hiểu ý nghĩa của vấn đề trước khi ngôn ngữ được thốt ra. Lúc ấy đại dụng hiện tiền tự nhiên là mình sẽ thấy được.
 
-Đó chính là lý do mà Thích Ca Mâu Ni sau khi thành đạo ở nước Ma Kiệt Đà đã bỏ ra hăm mốt ngày để tư duy về vấn đề này. “Các pháp tịch diệt tướng, không đạt bằng ngôn ngữ. Ta không nên thuyết pháp, mau nhập đạt bằng ngôn ngữ. Ta không nên thuyết pháp, mau nhập Niết Bàn ngay.” Đến chỗ đó rồi thì ngay cả Đức Thích Ca cũng không có chỗ để mở miệng. Song nhờ ở phương tiện thiện xảo, sau khi thuyết pháp cho năm vị tỳ kheo xong, ngài đã đến ba trăm sáu mươi chúng hội, giải thích giáo lý cho người thời ấy. Tất cả những điều này chỉ là phương tiện, cho nên ngài mới cởi bỏ y phục rách rưới của người hành giả. Bất đắc dĩ mới phải noi theo ý nghĩa công ước của chỗ thiển cận để mà dẫn dụ các ông. Nếu như bảo ngay một lúc nói lên sự thật, hẳn là đã chẳng có đến một người, hay thậm chí nửa người, hiểu nổi.
+Đó chính là lý do mà Thích Ca Mâu Ni sau khi thành đạo ở nước Ma Kiệt Đà đã bỏ ra hăm mốt ngày để tư duy về vấn đề này.
 
-Thử nói xem thế nào là câu cứu cánh? Đến đây Tuyết Đậu để lộ ra một chút ý nghĩa cho người khác thấy. 
+“Các pháp tịch diệt tướng, không đạt bằng ngôn ngữ. Ta không nên thuyết pháp, mau nhập đạt bằng ngôn ngữ. Ta không nên thuyết pháp, mau nhập Niết Bàn ngay.”
 
-Các ông chỉ cần ở trên đừng thấy có chư Phật, ở dưới đừng thấy có chúng sinh, bên ngoài chẳng thấy có sơn hà đại địa, bên trong chẳng thấy có kiến văn giác tri, lúc ấy ông sẽ giống như người chết đi sống lại. Với tốt xấu sẽ chẳng còn thấy chúng là khác nhau nữa. Sau đó các ông tha hồ ung dung mà không mất quân bằng.Lúc ấy mới hiểu được lời của Tuyết Đậu rằng, “ Bỏ đi một, nêu lên bẩy. Bốn phương trên dưới chẳng gì bằng.” Nếu như hiểu thấu được câu tụng này, thì quả thật là bốn phương trên dưới chẳng có gì so nổi. Sâm la vạn tượng, cây cỏ thú người, mọi vật đều phản ảnh gia phong của mình mà thôi. Cho nên mới có lời nói, “Ở trong vạn tượng riêng lộ thân, chỉ kẻ tự tin mới là gan. Năm xưa lầm lẫn lang thang kiếm, ngày nay nhìn thấy lửa trong băng.” Thiên thượng thiên hạ duy ngã độc tôn.” Đa số người ta chỉ theo đuổi ngọn mà quên mất gốc. Phải đạt được cái mốc một cách chính đáng, lúc ấy tự nhiên gió thổi cỏ rạp, nước tới sông dâng. “Lững thững đạp dứt tiếng nước trong.” Lúc ấy dù đi lững thững cũng có thể đạp dứt tiếng nước cả. “Thoáng nhìn thấy rõ vết chim bay.” Đưa mắt thoáng nhìn, dù cho đó là vết chim bay, cũng thấy rõ ràng như thể có vẽ ra. Đến mức độ này rồi thì “ thổi tắt ngọn lửa dưới vạc dầu, rừng kiếm núi đao đều gãy tan,” chẳng có gì là khó.
+Đến chỗ đó rồi thì ngay cả Đức Thích Ca cũng không có chỗ để mở miệng.
 
-Đến chỗ này rồi, Tuyết Đậu vì lòng từ bi, sợ thiên hạ lại vướng vào cái vòng dững dưng, cho nên lại nói tiếp, “ Cỏ rậm rạp, khói bồng bềnh. 
+Song nhờ ở phương tiện thiện xảo, sau khi thuyết pháp cho năm vị tỳ kheo xong, ngài đã đến ba trăm sáu mươi chúng hội, giải thích giáo lý cho người thời ấy.
 
-Thử nói xem đây là cảnh giới của ai? Có thể gọi là ngày nào cũng là một ngày đẹp đưọc không? May thay mà điều này chẳng có gì là nhằm nhò. 
+Tất cả những điều này chỉ là phương tiện, cho nên ngài mới cởi bỏ y phục rách rưới của người hành giả.
 
-Đến lúc “ lững thững đạp dứt tiếng nước trong” cũng không phải, mà “ thoáng nhìn thấy rõ vết chim bay” cũng không phải, mà “ thoáng nhìn thấy rõ vết chim bay” cũng không phải; “ cỏ rậm rạp” cũng không phải, “khói bồng bềnh” cũng không phải. Chẳng có cái gì là phải cả. Lúc ấy chính là “ trên vách không sinh hoa tơi tả” Song cũng còn cần phải qua phía bên kia mới được. Như Tư Bồ Đề tránh nơi ồn ào tìm chốn yên tĩnh, vào trong hang tĩnh tọa, chu thiên rải hoa xuống tán thán. Tu Bồ Đề hỏi, “Ai vậy?” Một trong chư thiên nói, “Tôi là trời Đế Thích.” Tu Bồ Đề Hỏi, “Ngài tán thán cái gì vậy?” Đế Thích nói, “Tôi trọng tôn giả khéo giảng Bát Nhã Ba La Mật.” Tu Bồ Đề nói, “Tôi chưa từng nói một chữ nào về Bát Nhã, tại sao ngài tán thán?” Đế Thích nói, “Tôn giả không có nói, tôi không có nghe. Không nói không nghe, đó chính là Bát Nhã chân thật. Rồi lại làm mặt đất rung chuyển, rải hoa xuống nữa.
+Bất đắc dĩ mới phải noi theo ý nghĩa công ước của chỗ thiển cận để mà dẫn dụ các ông.
 
-Tuyết Đậu cũng có một bài tụng để nói về vấn đề này, “Mưa tạnh mây tan trời nửa sáng, mấy đỉnh chót vót như bích họa. 
+Nếu như bảo ngay một lúc nói lên sự thật, hẳn là đã chẳng có đến một người, hay thậm chí nửa người, hiểu nổi.
 
-Không Sinh chẳng biết ngồi trông hốc,khiến cho đất động hoa trời rơi.” 
+Thử nói xem thế nào là câu cứu cánh? Đến đây Tuyết Đậu để lộ ra một chút ý nghĩa cho người khác thấy.
 
-Đế Thích đã làm cho mặt đất rung chuyển và hoa trời rơi xuống. Đến mức đó rồi biết ẩn trốn ở đâu đây? 
+Các ông chỉ cần ở trên đừng thấy có chư Phật, ở dưới đừng thấy có chúng sinh, bên ngoài chẳng thấy có sơn hà đại địa, bên trong chẳng thấy có kiến văn giác tri, lúc ấy ông sẽ giống như người chết đi sống lại. Với tốt xấu sẽ chẳng còn thấy chúng là khác nhau nữa. Sau đó các ông tha hồ ung dung mà không mất quân bằng.
 
-Tuyết Đậu lại nói, “ Ta sợ có trốn cũng không được, cõi ngoài trời đất đầy ăm ắp. 
+Lúc ấy mới hiểu được lời của Tuyết Đậu rằng, “Bỏ đi một, nêu lên bẩy. Bốn phương trên dưới chẳng gì bằng.”
 
-Mơ mơ hồ hồ bao giờ dứt, tám phương gió mát mơn tà áo.” Dù cho ông có sách sẽ trơn tru, không một chút lỗi lầm âu lo, cũng vẫn chưa phải là chỗ cùng cực. 
+Nếu như hiểu thấu được câu tụng này, thì quả thật là bốn phương trên dưới chẳng có gì so nổi.
 
-Rốt cuộc thì thế nào mới là cùng cực. “Búng tay thương thay thuấn nhã đa.” “Thuấn nhã đa” là chữ Phạn có nghĩa là tinh thần của hư không, lấy hư không làm thể, không có thân thể hữu hình để xúc chạm. Lúc Phật quang chiếu mới hiện rõ thân hữu hình. Lúc nào ông đạt được “thuấn nhã đa” RỒI, Tuyết Đậu sẽ búng tay mà thở than. Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì như thế nào? Giống như giữa thanh thiên bạch nhật, mở mắt mà ngủ.
+Sâm la vạn tượng, cây cỏ thú người, mọi vật đều phản ảnh gia phong của mình mà thôi.
+
+Cho nên mới có lời nói,
+
+> Ở trong vạn tượng riêng lộ thân
+>
+> Chỉ kẻ tự tin mới là gan
+>
+> Năm xưa lầm lẫn lang thang kiếm
+>
+> Ngày nay nhìn thấy lửa trong băng
+
+Thiên thượng thiên hạ duy ngã độc tôn.” Đa số người ta chỉ theo đuổi ngọn mà quên mất gốc.
+
+Phải đạt được cái mốc một cách chính đáng, lúc ấy tự nhiên gió thổi cỏ rạp, nước tới sông dâng. “Lững thững đạp dứt tiếng nước trong.”
+
+Lúc ấy dù đi lững thững cũng có thể đạp dứt tiếng nước cả. “Thoáng nhìn thấy rõ vết chim bay.” Đưa mắt thoáng nhìn, dù cho đó là vết chim bay, cũng thấy rõ ràng như thể có vẽ ra.
+
+Đến mức độ này rồi thì “ thổi tắt ngọn lửa dưới vạc dầu, rừng kiếm núi đao đều gãy tan,” chẳng có gì là khó.
+
+Đến chỗ này rồi, Tuyết Đậu vì lòng từ bi, sợ thiên hạ lại vướng vào cái vòng dững dưng, cho nên lại nói tiếp, “Cỏ rậm rạp, khói bồng bềnh.
+
+Thử nói xem đây là cảnh giới của ai? Có thể gọi là ngày nào cũng là một ngày đẹp đưọc không? May thay mà điều này chẳng có gì là nhằm nhò.
+
+Đến lúc “ lững thững đạp dứt tiếng nước trong” cũng không phải, mà “thoáng nhìn thấy rõ vết chim bay” cũng không phải, mà “thoáng nhìn thấy rõ vết chim bay” cũng không phải; “ cỏ rậm rạp” cũng không phải, “khói bồng bềnh” cũng không phải.
+
+Chẳng có cái gì là phải cả. Lúc ấy chính là “ trên vách không sinh hoa tơi tả” Song cũng còn cần phải qua phía bên kia mới được.
+
+Như Tư Bồ Đề tránh nơi ồn ào tìm chốn yên tĩnh, vào trong hang tĩnh tọa, chu thiên rải hoa xuống tán thán.
+
+Tu Bồ Đề hỏi, “Ai vậy?” Một trong chư thiên nói, “Tôi là trời Đế Thích.”
+
+Tu Bồ Đề Hỏi, “Ngài tán thán cái gì vậy?”
+
+Đế Thích nói, “Tôi trọng tôn giả khéo giảng Bát Nhã Ba La Mật.”
+
+Tu Bồ Đề nói, “Tôi chưa từng nói một chữ nào về Bát Nhã, tại sao ngài tán thán?”
+
+Đế Thích nói, “Tôn giả không có nói, tôi không có nghe. Không nói không nghe, đó chính là Bát Nhã chân thật.
+
+Rồi lại làm mặt đất rung chuyển, rải hoa xuống nữa.
+
+Tuyết Đậu cũng có một bài tụng để nói về vấn đề này, “Mưa tạnh mây tan trời nửa sáng, mấy đỉnh chót vót như bích họa.
+
+Không Sinh chẳng biết ngồi trông hốc,khiến cho đất động hoa trời rơi.”
+
+Đế Thích đã làm cho mặt đất rung chuyển và hoa trời rơi xuống. Đến mức đó rồi biết ẩn trốn ở đâu đây?
+
+Tuyết Đậu lại nói, “ Ta sợ có trốn cũng không được, cõi ngoài trời đất đầy ăm ắp.
+
+Mơ mơ hồ hồ bao giờ dứt, tám phương gió mát mơn tà áo.” Dù cho ông có sách sẽ trơn tru, không một chút lỗi lầm âu lo, cũng vẫn chưa phải là chỗ cùng cực.
+
+Rốt cuộc thì thế nào mới là cùng cực. “Búng tay thương thay thuấn nhã đa.”
+
+“Thuấn nhã đa” là chữ Phạn có nghĩa là tinh thần của hư không, lấy hư không làm thể, không có thân thể hữu hình để xúc chạm.
+
+Lúc Phật quang chiếu mới hiện rõ thân hữu hình. Lúc nào ông đạt được “thuấn nhã đa” RỒI, Tuyết Đậu sẽ búng tay mà thở than.
+
+Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì như thế nào? Giống như giữa thanh thiên bạch nhật, mở mắt mà ngủ.
 
 ***
 
-[^16]: 
+[^16]:
 
-[^17]: 
+[^17]:
+
+[^18]:
+
+[^19]:
 
 ***
 
