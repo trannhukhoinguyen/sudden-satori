@@ -1,0 +1,43 @@
+---
+import Base from "@/layouts/Base.astro";
+import BookList from "@/layouts/components/Books/BookList.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import { site } from "@/config/config.json";
+import YoutubePlaylist from '../../../src/layouts/shortcodes/YoutubePlaylist';
+import Youtube from '../../../src/layouts/shortcodes/Youtube';
+import youtubePlaylistDb from "../../../src/db/youtube/youtubePlaylistDb";
+import youtubeDb from "../../../src/db/youtube/youtubeDb";
+import PageHeader from "../../layouts/partials/PageHeader.astro";
+export function getStaticPaths() {
+    const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+---
+
+<Base
+  title={ site.title + ' - Youtube' }
+  meta_title={ site.meta_title + ' - Youtube' }
+  description={ site.meta_description + ' - Youtube' }
+  image={'/images/wide/meta-image-wide.jpg'}
+>
+  <PageHeader title={`${site.title} - Youtube`} />
+  <section class="section-sm">
+    <div class="container">
+      <div style="display: flex; justify-content: space-between;">
+
+        {
+          youtubePlaylistDb?.map(list =>
+            <div style="flex: 1; padding-inline: 12px;">
+              <YoutubePlaylist playlistId={list.listId} playlistTitle={list.title} />
+            </div>
+          )
+        }
+
+      </div>
+    </div>
+  </section>
+</Base>

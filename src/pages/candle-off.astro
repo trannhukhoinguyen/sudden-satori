@@ -1,0 +1,73 @@
+---
+import Base from "@/layouts/Base.astro";
+import { supportedLang } from "@/lib/utils/languageParser";
+import { site } from "@/config/config.json";
+import PageHeader from "../../layouts/partials/PageHeader.astro";
+import Candles from "../../layouts/components/Candles.astro";
+
+export function getStaticPaths() {
+  const paths = supportedLang.map((lang) => ({
+    params: { lang: lang || undefined },
+  }));
+  return paths;
+}
+
+const { lang } = Astro.params;
+const extraContent = !lang || lang === 'vi'
+  ? `Một đêm, Thiền sư ĐỨC SƠN TUYÊN GIÁM đứng hầu thiền sư LONG ĐÀM SÙNG TÍN.
+    Thiền sư SÙNG TÍN bảo: Đêm khuya, sao chẳng xuống ngủ.
+    Sư kính chào bước ra, lại trở vào, thưa: Bên ngoài tối đen!
+    Thiền sư SÙNG TÍN thắp đèn cầy đưa Sư.
+    Sư toan tiếp lấy, Thiền sư SÙNG TÍN liền thổi tắt.
+    Ngay đó, Sư đại ngộ, liền lễ bái.`
+  : `One night, Zen Master DESHAN XUANJIAN stood and attended Zen master LONGTAN CHONGXIN.
+    Zen master CHONGXIN said: It's late at night, why don't you go to sleep?
+    The master DESHAN respectfully walked out, then came back in and said: It's dark outside!
+    Zen master CHONGXIN lit a candle for the master.
+    The master was about to take it, but Zen Master CHONGXIN immediately blew it out.
+    Right there, the master DESHAN was enlightened and immediately bowed.`;
+---
+
+  <Base
+    title={ site.title + !lang || lang === 'vi' ? 'LONG ĐÀM THỔI NẾN 🕯️ ĐỨC SƠN NGỘ ĐẠO' : 'LONGTAN BLEW CANDLE OUT 🕯️ DESHAN WAS ENLIGHTENED' }
+    meta_title={ site.meta_title + !lang || lang === 'vi' ? 'Tuyệt tác' : ' - Masterpieces' }
+    description={ site.meta_description + !lang || lang === 'vi' ? 'Tuyệt tác' : ' - Masterpieces' }
+    image={'/images/square/meta-image-square-1.jpg'}
+  >
+  <PageHeader title={ !lang || lang === 'vi' ? 'LONG ĐÀM THỔI NẾN 🕯️ ĐỨC SƠN NGỘ ĐẠO' : 'LONGTAN BLEW CANDLE OUT 🕯️ DESHAN WAS ENLIGHTENED' } />
+  <section class="section-sm">
+    <div class="container">
+      <div>
+        <Candles />
+      </div>
+    </div>
+  </section>
+  </Base>
+
+<style>
+  .marquee {
+    color: white;
+    overflow: hidden;
+    position: relative;
+  }
+  .marquee div {
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    animation: marquee 15s linear infinite;
+  }
+  .marquee div:hover {
+    animation-play-state: paused;
+    cursor: pointer;
+  }
+  .marquee span {
+    float: left;
+  }
+  @keyframes marquee {
+    0% { bottom: 100%; }
+    25% { bottom: 75%; }
+    50% { bottom: 50%; }
+    75% { bottom: 25%; }
+    100% { bottom: 0; }
+  }
+</style>
