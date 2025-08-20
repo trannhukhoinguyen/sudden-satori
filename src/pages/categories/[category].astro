@@ -23,77 +23,115 @@ import {
   });
 }*/
 export async function getStaticPaths() {
-  return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
+  // 1. Tạo path cho categories thật
+  const categoryPaths = Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
       data.categories.map(([category, posts]) => {
         const categorySlug = category.toLowerCase().replace(/[\/\s]+/g, '-');
         return {
           params: { category: categorySlug },
           props: {
+            mode: "category", // ✅ phân biệt mode
             category,
             posts,
-            collection, // ✅ truyền thêm collection
+            collection
           },
         };
       })
   );
+
+  // 2. Tạo path cho collection name (blogs, books, sutras…)
+  const collectionPaths = Object.entries(CONTENT_MAP).map(([collection, data]) => ({
+    params: { category: collection }, // ✅ reuse param "category"
+    props: {
+      mode: "collection",
+      category: collection,
+      posts: data.posts,
+      collection,
+    },
+  }));
+
+  return [...categoryPaths, ...collectionPaths];
 }
 
-const { category, posts, collection } = Astro.props;
+const { mode, category, posts, collection } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const title = "Category";
-const path = `/${collection}/categories`; // ✅ đường dẫn theo collection
-const description = `Tất cả bài viết về ${category}`;
+
+const description =
+    mode === "category"
+        ? `Tất cả bài viết về ${category} trong ${collection}`
+        : `Tất cả bài viết trong collection ${collection}`;
 ---
 
-<Layout title={category} description={description}>
-  <div class="category-page">
+<Layout title={tag} description={description}>
+  <div class="tag-page">
     <header class="page-header">
-      <h1 class="page-title">{category}</h1>
+      <h1 class="page-title">
+        {mode === "tag" ? `Tag: ${tag}` : `Tags trong ${collection}`}
+      </h1>
       <p class="page-description">
-        {posts.length} bài viết trong collection <strong>{collection}</strong>
+        {mode === "tag"
+            ? `${posts.length} bài viết trong tag này`
+            : `${tags.length} tags trong collection ${collection}`}
       </p>
       <hr class="page-rule" />
     </header>
 
-    <div class="posts-list">
-      {posts.map((post: any) => {
-        const slug = post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '');
-        return (
-            <article class="post-item">
-              <h2 class="post-title">
-                <a href={`${base}${post.frontmatter.type}/${slug}`}>
-                  {post.frontmatter.title}
-                </a>
-              </h2>
+    {mode === "tag" ? (
+        // 👉 Trường hợp tag thật → list bài viết
+      <div class="posts-list">
+          {posts.map((post: any) => {
+            const slug = post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '');
+            return (
+                <article class="post-item">
+                  <h2 class="post-title">
+                    <a href={`${base}${post.frontmatter.type}/${slug}`}>
+                      {post.frontmatter.title}
+                    </a>
+                  </h2>
 
-              <div class="post-meta">
-                <time
-                    class="post-date"
-                    datetime={new Date(post.frontmatter.date).toISOString()}
-                >
-                  {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric"
-                  })}
-                </time>
-              </div>
+                  <div class="post-meta">
+                    <time
+                        class="post-date"
+                        datetime={new Date(post.frontmatter.date).toISOString()}
+                    >
+                      {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
+                        year: "numeric",
+                        month: "long",
+                        day: "numeric",
+                      })}
+                    </time>
+                  </div>
 
-              {post.frontmatter.excerpt && (
-                  <p class="post-excerpt">{post.frontmatter.excerpt}</p>
-              )}
+                  {post.frontmatter.excerpt && (
+                      <p class="post-excerpt">{post.frontmatter.excerpt}</p>
+                  )}
 
-              <a href={`${base}${post.frontmatter.type}/${slug}`} class="read-more">
-                Đọc tiếp →
-              </a>
-            </article>
-        );
-      })}
-    </div>
+                  <a href={`${base}${post.frontmatter.type}/${slug}`} class="read-more">
+                    Đọc tiếp →
+                  </a>
+                </article>
+            );
+          })}
+        </div>
+    ) : (
+        // 👉 Trường hợp collection → list toàn bộ tags trong collection
+      <div class="tags-list">
+          {tags.map(([tagName, posts]) => {
+            const tagSlug = tagName.toLowerCase().replace(/[\/\s]+/g, '-');
+            return (
+                <div class="tag-item">
+                  <a href={`${base}tags/${tagSlug}`} class="tag-link">
+                    {tagName} ({posts.length})
+                  </a>
+                </div>
+            );
+          })}
+        </div>
+    )}
 
     <div class="page-navigation">
-      <a href={`${base}${collection}/categories`} class="back-link">
-        ← Xem tất cả Category trong {collection}
+      <a href={`${base}/${mode === "tag" ? `${collection}/tags` : collection}`} class="back-link">
+        ← Quay lại {mode === "tag" ? "tất cả Tags" : "Collection"}
       </a>
     </div>
   </div>

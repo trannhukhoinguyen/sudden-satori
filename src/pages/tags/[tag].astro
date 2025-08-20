@@ -24,26 +24,44 @@ import {
 }*/
 
 export async function getStaticPaths() {
-  return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
+  // 1. Paths cho tags thật
+  const tagPaths = Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
       data.tags.map(([tag, posts]) => {
         const tagSlug = tag.toLowerCase().replace(/[\/\s]+/g, '-');
         return {
           params: { tag: tagSlug },
           props: {
+            mode: "tag", // ✅ phân biệt mode
             tag,
             posts,
-            collection, // ✅ truyền thêm collection
+            collection,
           },
         };
       })
   );
+
+  // 2. Paths cho collection name
+  const collectionPaths = Object.entries(CONTENT_MAP).map(([collection, data]) => ({
+    params: { tag: collection }, // ✅ reuse param "tag"
+    props: {
+      mode: "collection",
+      tag: collection,
+      posts: data.posts, // có thể không dùng, nhưng để đồng bộ
+      collection,
+      tags: data.tags, // ✅ list toàn bộ tags trong collection
+    },
+  }));
+
+  return [...tagPaths, ...collectionPaths];
 }
 
-const { tag, posts, collection } = Astro.props;
+const { mode, tag, posts, collection, tags = [] } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const title = "Tags";
-const path = `/${collection}/tags`; // ✅ đường dẫn theo collection
-const description = `Tất cả bài viết về ${tag}`;
+
+const description =
+    mode === "tag"
+        ? `Tất cả bài viết với tag "${tag}" trong ${collection}`
+        : `Danh sách toàn bộ tags trong collection ${collection}`;
 ---
 
 <Layout title={tag} description={description}>
