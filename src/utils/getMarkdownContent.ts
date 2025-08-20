@@ -26,15 +26,15 @@ const globMapLazy = {
 
 // ===== 2. Mapping name → type =====
 const collections = {
-  blogs: "blog",
-  books: "book",
-  interpretations: "interpretation",
-  koans: "koan",
-  poems: "poem",
-  practices: "practice",
-  sutras: "sutra",
-  zongjinglus: "zongjinglu",
-  remedies: "remedy",
+  blogs: "blogs",
+  books: "books",
+  interpretations: "interpretations",
+  koans: "koans",
+  poems: "poems",
+  practices: "practices",
+  sutras: "sutras",
+  zongjinglus: "zongjinglus",
+  remedies: "remedies",
 } as const;
 
 type CollectionName = keyof typeof collections;
