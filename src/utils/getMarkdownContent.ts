@@ -134,5 +134,6 @@ export {
   getRecentPosts,
   getSortedPostsByType,
   getCategoryData,
+  getSortedTermsByType,
   CONTENT_MAP
 };

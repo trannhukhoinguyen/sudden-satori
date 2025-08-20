@@ -2,12 +2,11 @@
 import Layout from '../../layouts/Layout.astro';
 import "@/styles/category.css";
 import {
-  allPosts,
-  getCategoryData,
+  CONTENT_MAP
 } from "../../utils/getMarkdownContent";
 
-const allCategories = getCategoryData("categories")["categories"];
-export async function getStaticPaths() {
+/*export async function getStaticPaths() {
+  const allCategories = getSortedTermsByType(allPosts, "categories");
   return Array.from(allCategories).map((category: string) => {
     const categorySlug = category.toLowerCase().replace(/[\/\s]+/g, '-');
     const postsInCategory = allPosts.filter((post: any) =>
@@ -22,12 +21,27 @@ export async function getStaticPaths() {
       }
     };
   });
+}*/
+export async function getStaticPaths() {
+  return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
+      data.categories.map(([category, posts]) => {
+        const categorySlug = category.toLowerCase().replace(/[\/\s]+/g, '-');
+        return {
+          params: { category: categorySlug },
+          props: {
+            category,
+            posts,
+            collection, // ✅ truyền thêm collection
+          },
+        };
+      })
+  );
 }
 
-const { category, posts } = Astro.props;
+const { category, posts, collection } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const title = "Category";
-const path = "categories";
+const path = `/${collection}/categories`; // ✅ đường dẫn theo collection
 const description = `Tất cả bài viết về ${category}`;
 ---
 
@@ -36,43 +50,51 @@ const description = `Tất cả bài viết về ${category}`;
     <header class="page-header">
       <h1 class="page-title">{category}</h1>
       <p class="page-description">
-        {posts.length} article{posts.length === 1 ? '' : 's'} in this category
+        {posts.length} bài viết trong collection <strong>{collection}</strong>
       </p>
       <hr class="page-rule" />
     </header>
 
     <div class="posts-list">
-      {posts.map((post: any) => (
-        <article class="post-item">
-          <h2 class="post-title">
-            <a href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace('.md', '')}`}>
-              {post.frontmatter.title}
-            </a>
-          </h2>
+      {posts.map((post: any) => {
+        const slug = post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '');
+        return (
+            <article class="post-item">
+              <h2 class="post-title">
+                <a href={`${base}${post.frontmatter.type}/${slug}`}>
+                  {post.frontmatter.title}
+                </a>
+              </h2>
 
-          <div class="post-meta">
-            <time class="post-date" datetime={post.frontmatter.date}>
-              {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-              })}
-            </time>
-          </div>
+              <div class="post-meta">
+                <time
+                    class="post-date"
+                    datetime={new Date(post.frontmatter.date).toISOString()}
+                >
+                  {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric"
+                  })}
+                </time>
+              </div>
 
-          {post.frontmatter.excerpt && (
-            <p class="post-excerpt">{post.frontmatter.excerpt}</p>
-          )}
+              {post.frontmatter.excerpt && (
+                  <p class="post-excerpt">{post.frontmatter.excerpt}</p>
+              )}
 
-          <a href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace('.md', '')}`} class="read-more">
-            Read More →
-          </a>
-        </article>
-      ))}
+              <a href={`${base}${post.frontmatter.type}/${slug}`} class="read-more">
+                Đọc tiếp →
+              </a>
+            </article>
+        );
+      })}
     </div>
 
     <div class="page-navigation">
-      <a href={`${base}${path}`} class="back-link">← Xem Tất cả {title}</a>
+      <a href={`${base}${collection}/categories`} class="back-link">
+        ← Xem tất cả Category trong {collection}
+      </a>
     </div>
   </div>
 </Layout>
