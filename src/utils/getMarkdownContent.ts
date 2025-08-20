@@ -10,6 +10,7 @@ const globMap = {
   practices: import.meta.glob('../content/practices/*.{md,mdx}', { eager: true }),
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}', { eager: true }),
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
+  remedies: import.meta.glob('../content/remedies/*.{md,mdx}', { eager: true }),
 };
 
 // ===== 2. Mapping name → type =====
@@ -22,6 +23,7 @@ const collections = {
   practices: "practice",
   sutras: "sutra",
   zongjinglus: "zongjinglu",
+  remedies: "remedy",
 } as const;
 
 type CollectionName = keyof typeof collections;
