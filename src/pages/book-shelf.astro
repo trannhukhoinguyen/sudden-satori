@@ -1,52 +1,37 @@
 ---
-import Base from "@/layouts/Base.astro";
-import {
-  getLangFromUrl,
-  getTranslations,
-  supportedLang
-} from "@/lib/utils/languageParser";
-import PageHeader from "@/partials/PageHeader.astro";
-import type { ContentEntryMap } from "astro:content";
-import { site } from "@/config/config.json";
+import Layout from '../layouts/Layout.astro';
 
-export function getStaticPaths() {
-  const paths = supportedLang.map((lang) => ({
-    params: { lang: lang || undefined },
-  }));
-  return paths;
-}
-const { lang } = Astro.params || getLangFromUrl(Astro.url);
-const {
-  books,
-} = await getTranslations(lang as keyof ContentEntryMap);
+const title = 'Tủ sách Tổ Sư Thiền';
+const description = ``;
 ---
 
-<Base
-  title={ site.title + books }
-  meta_title={ site.meta_title + books }
-  description={ site.meta_description + books }
-  image={'/images/square/meta-image-square-1.jpg'}
->
-  <PageHeader title={ books } />
-  <section class="section">
-    <div class="container">
-      {
-        !lang || lang === 'vi'
-          ? <iframe
-              style='width:100%;height:500px'
-              src='https://pubhtml5.com/bookcase/cunen//green'
-              seamless='seamless' scrolling='no' frameborder='0'
-              allowtransparency='true'
-              allowfullscreen
-            />
-          : <iframe
+<Layout title={title} description={description}>
+  <div class="about-page">
+    <header class="page-header">
+      <h1 class="page-title">{title}</h1>
+      <hr class="page-rule" />
+    </header>
+
+    <div class="content-section">
+      <h2>VietNam</h2>
+      <section class="section">
+        <iframe
             style='width:100%;height:500px'
-              src='https://pubhtml5.com/bookcase/qkqyg//green'
-              seamless='seamless' scrolling='no' frameborder='0'
-              allowtransparency='true'
-              allowfullscreen
-            />
-        }
+            src='https://pubhtml5.com/bookcase/cunen//green'
+            seamless='seamless' scrolling='no' frameborder='0'
+            allowtransparency='true'
+            allowfullscreen
+        />
+      </section>
+      <section class="section">
+        <iframe
+          style='width:100%;height:500px'
+          src='https://pubhtml5.com/bookcase/qkqyg//green'
+          seamless='seamless' scrolling='no' frameborder='0'
+          allowtransparency='true'
+          allowfullscreen
+      />
+      </section>
     </div>
-  </section>
-</Base>
+  </div>
+</Layout>

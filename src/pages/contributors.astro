@@ -1,61 +1,20 @@
 ---
-import Base from "../../layouts/Base.astro";
-import { supportedLang } from "../../lib/utils/languageParser";
-import PageHeader from "../../layouts/partials/PageHeader.astro";
-import DashBoard from "../../modules/DashBoard.astro";
+import Layout from '../layouts/Layout.astro';
+import DashBoard from "../components/DashBoard.astro";
 
-export function getStaticPaths() {
-  const paths = supportedLang.map((lang) => ({
-    params: { lang: lang || undefined },
-  }));
-  return paths;
-}
+const title = 'Danh sách đóng góp';
+const description = ``;
 ---
 
-<Base
-  title={'Danh sách đóng góp'}
-  meta_title={'Danh sách đóng góp'}
-  description={'Danh sách đóng góp'}
-  image={'/images/contributors/sample'}
->
-  <PageHeader title={'Danh sách đóng góp'} />
-  <section class="section-sm">
-    <div class="container">
+<Layout title={title} description={description}>
+    <div class="about-page">
+        <header class="page-header">
+            <h1 class="page-title">{title}</h1>
+            <hr class="page-rule" />
+        </header>
 
-<!--<Tabs client:load>
-
-  <Tab name="DANH SÁCH">
-
-  #### DANH SÁCH CÚNG DƯỜNG
-
-  <DashBoard />
-
-  </Tab>
-
-  <Tab name="HÌNH THIẾN VIỆN">
-
-  #### HÌNH THIẾN VIỆN QUY SƠN
-
-  <img src="/images/donation/guishan-zen-monastery/chanh_dien_1" />
-  ![KHU CHÁNH ĐIỆN 1](/images/donation/guishan-zen-monastery/chanh_dien_1.jpg)
-  <hr/>
-  <img src="/images/donation/guishan-zen-monastery/chanh_dien_2" />
-
-  ![KHU CHÁNH ĐIỆN 2](/imagesdonation/guishan-zen-monastery/chanh_dien_1
-  2)
-  </Tab>
-
-  <Tab name="TỔ SƯ THIỀN">
-
-  #### PHÁP MÔN TỔ SƯ THIỀN
-
-
-
-  </Tab>
-
-</Tabs>-->
-
-<DashBoard />
+        <div class="content-section">
+            <DashBoard />
+        </div>
     </div>
-  </section>
-</Base>
+</Layout>

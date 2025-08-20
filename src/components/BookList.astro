@@ -1,0 +1,242 @@
+---
+import "../../../styles/additional/BookList.scss"
+import { bookViDb, bookEnDb} from "../data/bookDb";
+
+const books = [
+    ...bookViDb,
+    ...bookEnDb,
+];
+const booksSpeech = books?.filter(book => book.type === 'Speech');
+const booksAaq = books?.filter(book => book.type === 'Q&A');
+const booksOther = books?.filter(book => !book.type);
+---
+
+<div class="book-list">
+  <div class='container'>
+    <div class='center list flex-column' client:load>
+      {
+        booksSpeech?.map(book => {
+          const item = <img src={ book.cover } class='book' />
+            <div class='flex-column info'>
+              <div class='title'>{ book.title }</div>
+              <div class='author'>{ book.author }</div>
+              <div class='bottom summary'>{ book.description }</div>
+            </div>
+            <div class='flex-column group'>
+              <div class='members'>
+                <span class='current'>{ book.info }</span>
+              </div>
+              <div class='bottom'>
+                {
+                  book.link
+                    ? <button class='simple'>
+                      <a href={book.link} target="_blank">PDF</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.link1
+                    ? <button class='simple'>
+                      <a href={book.link1} target="_blank" title="PDF P1">PDF 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.link2
+                    ? <button class='simple'>
+                      <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio
+                    ? <button class='simple'>
+                      <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio1
+                    ? <button class='simple'>
+                      <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio2
+                    ? <button class='simple'>
+                      <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.saveAudio
+                    ? <button class='simple'>
+                        <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
+                      </button>
+                    : ''
+                }
+              </div>
+            </div>
+          return book.id === 1
+            ? <div class='card flex-row open'>{ item }</div>
+            : <div class='card flex-row'>{ item }</div>
+        })
+      }
+
+      {
+        booksAaq?.map(book => {
+          const item = <img src={ book.cover } class='book' />
+            <div class='flex-column info'>
+              <div class='title'>{ book.title }</div>
+              <div class='author'>{ book.author }</div>
+              <div class='bottom summary'>{ book.description }</div>
+            </div>
+            <div class='flex-column group'>
+              <div class='members'>
+                <span class='current'>{ book.info }</span>
+              </div>
+              <div class='bottom'>
+                {
+                  book.link
+                    ? <button class='simple'>
+                      <a href={book.link} target="_blank">PDF</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.link1
+                    ? <button class='simple'>
+                      <a href={book.link1} target="_blank" title="PDF P1">PDF 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.link2
+                   ? <button class='simple'>
+                      <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio
+                   ? <button class='simple'>
+                      <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio1
+                   ? <button class='simple'>
+                      <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio2
+                   ? <button class='simple'>
+                      <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.saveAudio
+                   ? <button class='simple'>
+                      <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
+                    </button>
+                    : ''
+                }
+              </div>
+            </div>
+          return book.id === 1
+           ? <div class='card flex-row open'>{ item }</div>
+            : <div class='card flex-row'>{ item }</div>
+        })
+      }
+
+      {
+        booksOther?.map(book => {
+          const item = <img src={ book.cover } class='book' />
+            <div class='flex-column info'>
+              <div class='title'>{ book.title }</div>
+              <div class='author'>{ book.author }</div>
+              <div class='bottom summary'>{ book.description }</div>
+            </div>
+            <div class='flex-column group'>
+              <div class='members'>
+                <span class='current'>{ book.info }</span>
+              </div>
+              <div class='bottom'>
+                {
+                  book.link
+                    ? <button class='simple'>
+                      <a href={book.link} target="_blank">PDF</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.link1
+                    ? <button class='simple'>
+                      <a href={book.link1} target="_blank" title="PDF P1">PDF 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.link2
+                    ? <button class='simple'>
+                      <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio
+                    ? <button class='simple'>
+                      <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio1
+                    ? <button class='simple'>
+                      <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.linkAudio2
+                    ? <button class='simple'>
+                      <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
+                    </button>
+                    : ''
+                }
+                {
+                  book.saveAudio
+                    ? <button class='simple'>
+                      <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
+                    </button>
+                    : ''
+                }
+              </div>
+            </div>
+          return book.id === 1
+            ? <div class='card flex-row open'>{ item }</div>
+            : <div class='card flex-row'>{ item }</div>
+        })
+      }
+    </div>
+  </div>
+</div>
+
+<script lang="ts">
+  let old = document.querySelector('.card');
+
+  document.querySelectorAll('.card').forEach(card => {
+    card.addEventListener('click', function() {
+      if (old && old.classList.contains('open')) {
+        old.classList.toggle('open');
+      }
+      this.classList.toggle('open');
+      old = this;
+    });
+  });
+</script>

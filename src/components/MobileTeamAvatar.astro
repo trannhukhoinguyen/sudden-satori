@@ -1,0 +1,58 @@
+---
+const { persons, title } = Astro.props;
+---
+
+<div title={title}>
+  <div id="mobile-team-faces" class="maxwidth-l center-fixed"></div>
+  <div id="mobile-team-faces" class="maxwidth-l center-fixed">
+    {
+      persons?.map(person => <span>
+      <img class="community-icons" src={person.src}>
+    </span>)
+    }
+  </div>
+</div>
+
+<style>
+  #mobile-team-faces * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  #mobile-team-faces {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  #mobile-team-faces a {
+    padding: 4px;
+  }
+
+  #mobile-team-faces img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    padding: 5px;
+  }
+
+  .community-plus {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background-color: pink;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .center,.center-fixed {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+  }
+  .maxwidth-l {
+    max-width: 650px;
+  }
+</style>

@@ -1,29 +1,20 @@
 ---
-import Base from "@/layouts/Base.astro";
-import BookList from "@/layouts/components/Books/BookList.astro";
-import { supportedLang } from "@/lib/utils/languageParser";
-import { site } from "@/config/config.json";
-import PageHeader from "../../layouts/partials/PageHeader.astro";
-export function getStaticPaths() {
-  const paths = supportedLang.map((lang) => ({
-    params: { lang: lang || undefined },
-  }));
-  return paths;
-}
+import Layout from '../layouts/Layout.astro';
+import BookList from '../components/BookList.astro';
 
-const { lang } = Astro.params;
+const title = '';
+const description = ``;
 ---
 
-<Base
-  title={ site.title + ' - Download' }
-  meta_title={ site.meta_title + ' - Download' }
-  description={ site.meta_description + ' - Download' }
-  image={'/images/wide/meta-image-wide.jpg'}
->
-  <PageHeader title={`${site.title} - Download`} />
-  <section class="section-sm">
-    <div class="container">
+<Layout title={title} description={description}>
+  <div class="about-page">
+    <header class="page-header">
+      <h1 class="page-title">{title}</h1>
+      <hr class="page-rule" />
+    </header>
+
+    <div class="content-section">
       <BookList />
     </div>
-  </section>
-</Base>
+  </div>
+</Layout>
