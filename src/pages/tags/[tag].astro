@@ -134,7 +134,7 @@ const description =
     ) : (
         // 👉 Trường hợp collection → list toàn bộ tags trong collection
       <div class="tags-list">
-          {tags.map(([tagName, posts]) => {
+          {tags.map(([tagName, posts]: [string, any[]]) => {
             const tagSlug = tagName.toLowerCase().replace(/[\/\s]+/g, '-');
             return (
                 <div class="tag-item">
