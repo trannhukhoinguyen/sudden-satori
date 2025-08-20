@@ -12,6 +12,17 @@ const globMap = {
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
   remedies: import.meta.glob('../content/remedies/*.{md,mdx}', { eager: true }),
 };
+const globMapLazy = {
+  blogs: import.meta.glob('../content/blogs/*.{md,mdx}'),
+  books: import.meta.glob('../content/books/*.{md,mdx}'),
+  interpretations: import.meta.glob('../content/interpretations/*.{md,mdx}'),
+  koans: import.meta.glob('../content/koans/*.{md,mdx}'),
+  poems: import.meta.glob('../content/poems/*.{md,mdx}'),
+  practices: import.meta.glob('../content/practices/*.{md,mdx}'),
+  sutras: import.meta.glob('../content/sutras/*.{md,mdx}'),
+  zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}'),
+  remedies: import.meta.glob('../content/remedies/*.{md,mdx}'),
+};
 
 // ===== 2. Mapping name → type =====
 const collections = {
@@ -43,6 +54,9 @@ function addDefaultType(posts: Post[], defaultType: string) {
 // ===== 4. Gom tất cả posts =====
 const allPosts: Post[] = Object.entries(collections).flatMap(([name, type]) =>
     addDefaultType(Object.values(globMap[name as CollectionName]), type)
+);
+const allPostsLazy: Post[] = Object.entries(collections).flatMap(([name, type]) =>
+    addDefaultType(Object.values(globMapLazy[name as CollectionName]), type)
 );
 
 function getRecentPosts(posts: any[], limit = 5) {
@@ -116,6 +130,7 @@ function getCategoryData(category: string) {
 // ===== 8. Export tiện ích =====
 export {
   allPosts,
+  allPostsLazy,
   getRecentPosts,
   getSortedPostsByType,
   getCategoryData,
