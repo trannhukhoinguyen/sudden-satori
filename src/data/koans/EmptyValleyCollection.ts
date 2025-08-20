@@ -4,6 +4,7 @@ export interface EmptyValleyCollection {
   group: number;
   path: string;
   description: string;
+  author?: string,
 }
 
 /*
@@ -24,7 +25,7 @@ const EmptyValleyCollections: EmptyValleyCollection[] = [
     title: "Thanh Nguyên Giai Cấp",
     group: 1,
     path: "/khong-roi-giai-cap",
-    description: "..."
+    description: "...",
   },
   {
     id: 2,

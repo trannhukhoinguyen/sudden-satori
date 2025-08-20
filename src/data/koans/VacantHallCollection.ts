@@ -2,6 +2,7 @@ export interface VacantHallCollection {
   id: number;
   title: string;
   description: string;
+  author?: string,
 }
 
 /*
