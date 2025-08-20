@@ -62,76 +62,57 @@ const description =
         : `Tất cả bài viết trong collection ${collection}`;
 ---
 
-<Layout title={tag} description={description}>
-  <div class="tag-page">
+<Layout title={category} description={description}>
+  <div class="category-page">
     <header class="page-header">
       <h1 class="page-title">
-        {mode === "tag" ? `Tag: ${tag}` : `Tags trong ${collection}`}
+        {mode === "category" ? `Category: ${category}` : `Collection: ${collection}`}
       </h1>
       <p class="page-description">
-        {mode === "tag"
-            ? `${posts.length} bài viết trong tag này`
-            : `${tags.length} tags trong collection ${collection}`}
+        {posts.length} bài viết {mode === "category" ? `trong category này` : `trong collection ${collection}`}
       </p>
       <hr class="page-rule" />
     </header>
 
-    {mode === "tag" ? (
-        // 👉 Trường hợp tag thật → list bài viết
-      <div class="posts-list">
-          {posts.map((post: any) => {
-            const slug = post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '');
-            return (
-                <article class="post-item">
-                  <h2 class="post-title">
-                    <a href={`${base}${post.frontmatter.type}/${slug}`}>
-                      {post.frontmatter.title}
-                    </a>
-                  </h2>
+    <div class="posts-list">
+      {posts.map((post: any) => {
+        const slug = post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '');
+        return (
+            <article class="post-item">
+              <h2 class="post-title">
+                <a href={`${base}${post.frontmatter.type}/${slug}`}>
+                  {post.frontmatter.title}
+                </a>
+              </h2>
 
-                  <div class="post-meta">
-                    <time
-                        class="post-date"
-                        datetime={new Date(post.frontmatter.date).toISOString()}
-                    >
-                      {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
-                        year: "numeric",
-                        month: "long",
-                        day: "numeric",
-                      })}
-                    </time>
-                  </div>
+              <div class="post-meta">
+                <time
+                    class="post-date"
+                    datetime={new Date(post.frontmatter.date).toISOString()}
+                >
+                  {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </time>
+              </div>
 
-                  {post.frontmatter.excerpt && (
-                      <p class="post-excerpt">{post.frontmatter.excerpt}</p>
-                  )}
+              {post.frontmatter.excerpt && (
+                  <p class="post-excerpt">{post.frontmatter.excerpt}</p>
+              )}
 
-                  <a href={`${base}${post.frontmatter.type}/${slug}`} class="read-more">
-                    Đọc tiếp →
-                  </a>
-                </article>
-            );
-          })}
-        </div>
-    ) : (
-        // 👉 Trường hợp collection → list toàn bộ tags trong collection
-      <div class="tags-list">
-          {tags.map(([tagName, posts]) => {
-            const tagSlug = tagName.toLowerCase().replace(/[\/\s]+/g, '-');
-            return (
-                <div class="tag-item">
-                  <a href={`${base}tags/${tagSlug}`} class="tag-link">
-                    {tagName} ({posts.length})
-                  </a>
-                </div>
-            );
-          })}
-        </div>
-    )}
+              <a href={`${base}${post.frontmatter.type}/${slug}`} class="read-more">
+                Đọc tiếp →
+              </a>
+            </article>
+        );
+      })}
+    </div>
 
     <div class="page-navigation">
-      <a href={`${base}/${mode === "tag" ? `${collection}/tags` : collection}`} class="back-link">
-        ← Quay lại {mode === "tag" ? "tất cả Tags" : "Collection"}
+      <a href={`${base}/${mode === "category" ? `${collection}/categories` : collection}`} class="back-link">
+        ← Quay lại {mode === "category" ? "tất cả Categories" : "Collection"}
       </a>
     </div>
   </div>
