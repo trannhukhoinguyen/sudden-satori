@@ -30,7 +30,13 @@ const titleFull = title + " | Sudden Satori";
         {
           rules?.map(rule => <li>
             <h4>{ rule.title }</h4>
-            <p>{ rule.description }</p>
+            <p>{
+              rule.description?.includes(' / ')
+                  ? rule.description
+                      ?.split(' / ')
+                      ?.map(line => <p>{line}</p>)
+                  : rule.description
+            }</p>
           </li>)
         }
       </ul>
@@ -40,7 +46,13 @@ const titleFull = title + " | Sudden Satori";
         {
           principles?.map(principle => <li>
             <h4>{ principle.title }</h4>
-            <p>{ principle.description }</p>
+            <p>{
+              principle.description?.includes(' / ')
+                  ? principle.description
+                      ?.split(' / ')
+                      ?.map(line => <p>{line}</p>)
+                  : principle.description
+            }</p>
           </li>)
         }
       </ul>

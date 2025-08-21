@@ -8,7 +8,7 @@ export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
     const posts = CONTENT_MAP[collection].posts;
     return {
-      params: { category: collection },
+      params: { field: collection },
       props: {
         collection,
         posts,

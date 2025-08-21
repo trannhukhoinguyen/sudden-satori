@@ -17,7 +17,7 @@ export async function getStaticPaths() {
 
         return {
           params: {
-            category: collection,
+            field: collection,
             slug: post.file.split("/").pop()?.replace(/\.(md|mdx)$/, ""),
           },
           props: { post, collection, readingTime, tocHeadings },

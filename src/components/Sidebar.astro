@@ -1,22 +1,25 @@
 ---
-import { CATEGORY_MAP, TAG_MAP, getRecentPosts } from "../utils/getMarkdownContent";
-import { configNew as config } from "../config";
+import { CONTENT_MAP } from "../utils/getMarkdownContent";
+import "@/styles/sidebar.css";
 
+const { collection = "blogs" } = Astro.props;
+
+// Lấy data theo collection, fallback rỗng nếu không có
+const data = CONTENT_MAP[collection] || {
+  recentPosts: [],
+  flatCategories: [],
+  flatTags: [],
+};
+
+const { recentPosts, flatCategories, flatTags } = data;
 const base = import.meta.env.BASE_URL;
-
-// 👉 Lấy tất cả categories và tags (toàn site)
-const categories = Object.keys(CATEGORY_MAP).sort();
-const tags = Object.keys(TAG_MAP).sort();
-
-// 👉 Recent posts toàn site
-const recentPosts = getRecentPosts();
 ---
 
 <div class="sidebar-content">
-  <!-- Recent Posts -->
+  <!-- Recent Posts Section -->
   {recentPosts.length > 0 && (
       <section class="recent-posts">
-        <h3 class="section-title">Bài viết gần đây</h3>
+        <h3 class="section-title">Bài viết mới</h3>
         <ul class="post-list">
           {recentPosts.map(post => (
               <li class="post-item">
@@ -30,7 +33,7 @@ const recentPosts = getRecentPosts();
                   {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
                     year: "numeric",
                     month: "long",
-                    day: "numeric",
+                    day: "numeric"
                   })}
                 </time>
               </li>
@@ -39,18 +42,15 @@ const recentPosts = getRecentPosts();
       </section>
   )}
 
-  <!-- Categories -->
-  {categories.length > 0 && (
+  <!-- Categories Section -->
+  {flatCategories.length > 0 && (
       <section class="categories">
         <h3 class="section-title">Chuyên mục</h3>
         <ul class="category-list">
-          {categories.map(category => (
+          {flatCategories.map(category => (
               <li class="category-item">
-                <a
-                    href={`${base}categories/${category.toLowerCase().replace(/\s+/g, "-")}`}
-                    class="category-link"
-                >
-                  {category} ({CATEGORY_MAP[category].posts.length})
+                <a href={`${base}categories/${category.toLowerCase()}`} class="category-link">
+                  {category}
                 </a>
               </li>
           ))}
@@ -58,18 +58,15 @@ const recentPosts = getRecentPosts();
       </section>
   )}
 
-  <!-- Tags -->
-  {tags.length > 0 && (
+  <!-- Tags Section -->
+  {flatTags.length > 0 && (
       <section class="tags">
         <h3 class="section-title">Thẻ</h3>
         <ul class="tag-list">
-          {tags.map(tag => (
+          {flatTags.map(tag => (
               <li class="tag-item">
-                <a
-                    href={`${base}tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
-                    class="tag-link"
-                >
-                  {tag} ({TAG_MAP[tag].posts.length})
+                <a href={`${base}tags/${tag.toLowerCase()}`} class="tag-link">
+                  {tag}
                 </a>
               </li>
           ))}

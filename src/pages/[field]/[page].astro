@@ -10,7 +10,7 @@ export async function getStaticPaths() {
     const totalPages = Math.ceil(posts.length / config.postsPerPage);
 
     return Array.from({ length: totalPages }, (_, i) => ({
-      params: { category: collection, page: String(i + 1) },
+      params: { field: collection, page: String(i + 1) },
       props: {
         collection,
         posts,
