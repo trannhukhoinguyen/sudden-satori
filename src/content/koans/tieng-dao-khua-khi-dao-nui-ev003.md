@@ -21,9 +21,11 @@ Hãy nói điểm nào là thủ đoạn cho người?
 
 Ngài Đầu Tử cử: 
 
-> Dược Sơn đi dạo núi với Vân Nham, tiếng dao khua bên hông. 
-> Vân Nham hỏi tiếng gì thế?
-> Dược Sơn rút dao ra làm thế chém.
+- Dược Sơn đi dạo núi với Vân Nham, tiếng dao khua bên hông. 
+
+- Vân Nham hỏi tiếng gì thế?
+
+- Dược Sơn rút dao ra làm thế chém.
 
 ## BÌNH XƯỚNG
 
@@ -85,3 +87,5 @@ Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chu
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>

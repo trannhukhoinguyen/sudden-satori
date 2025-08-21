@@ -20,35 +20,33 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-Vân Nham ban đầu tham vấn Dược Sơn.
+- Vân Nham ban đầu tham vấn Dược Sơn. Dược Sơn hỏi: *Từ đâu đến?*
 
-Dược Sơn hỏi: Từ đâu đến?
+- Vân Nham thưa: *Từ Bá Trượng đến*
 
-Vân Nham thưa: Từ Bá Trượng đến.
+- Dược Sơn hỏi: *Bá Trượng dạy pháp gì?*
 
-Dược Sơn hỏi: Bá Trượng dạy pháp gì?
+- Vân Nham thưa: *Có lúc dạy một câu đủ trăm vị*
 
-Vân Nham thưa: Có lúc dạy một câu đủ trăm vị.
+- Dược Sơn nói: *Mặn là vị mặn, lạt là vị lạt, không mặn không lạt là vị bình thường. 
+Làm gì có một câu đủ trăm vị. Hiện tại việc sanh tử thế nào?*
 
-Dược Sơn nói: Mặn là vị mặn, lạt là vị lạt, không mặn không lạt là vị bình thường. 
-Làm gì có một câu đủ trăm vị. Hiện tại việc sanh tử thế nào?
+- Vân Nham thưa: *20 năm không có sanh tử*
 
-Vân Nham thưa: 20 năm không có sanh tử.
+- Dược Sơn nói: *20 năm sống với Bá Trượng tất khi về sẽ thành hội*
 
-Dược Sơn nói: Hai mươi năm sống với Bá Trượng tất khi về sẽ thành hội.
+- Dược Sơn hỏi: *Huynh Hải dạy pháp gì?*
 
-Dược Sơn hỏi: Huynh Hải dạy pháp gì?
+- Vân Nham thưa: *Có khi ngồi ngoài câu tình thi, ngoài đàm chẳng liên quan*
 
-Vân Nham thưa: Có khi ngồi ngoài câu tình thi, ngoài đàm chẳng liên quan.
+- Dược Sơn hỏi: *Còn pháp gì nữa không?*
 
-Dược Sơn hỏi: Còn pháp gì nữa không?
-
-Vân Nham thưa: Có khi thượng đường xong, đại chúng vừa giải tán. 
+- Vân Nham thưa: *Có khi thượng đường xong, đại chúng vừa giải tán. 
 Ngài gọi đại chúng. 
 Đại chúng quay đầu nhìn.
-Ngài nói “Là cái gì?”
+Ngài nói “Là cái gì?”*
 
-Dược Sơn bảo sao không nói sớm. 
+- Dược Sơn bảo: *Sao không nói sớm?* 
 
 Vân Nham ngộ ngay lời này.
 
@@ -56,51 +54,43 @@ Vân Nham ngộ ngay lời này.
 
 Ngài Đầu Tử nói:
 
-Tự tánh, đương nhiên sư Đàm Thạnh Văn Nham
-nương ngài Bá Trượng gần hai mươi năm. Không hợp nhân
-duyên, về sau đến yết kiến ngài Dược Sơn.
+Tự tánh, đương nhiên sư Vân Nham Đàm Thạnh nương ngài Bách Trượng gần 20 năm. 
+Không hợp nhân duyên, về sau đến yết kiến ngài Dược Sơn.
 
-Dược Sơn hỏi, Văn Nham Đầu đáp như đã dẫn trên. Đến câu
-cuối là cái gì? Được câu sao, sao không nói như thế sớm, ngày
-này nhờ ông ta thấy được đại cơ Hải Huynh. Văn Nham ngộ ngay lời
-này, liền kệ bài.
+Dược Sơn hỏi, Vân Nham Đầu đáp như đã dẫn trên. 
+Đến câu cuối là cái gì? Được câu sao, sao không nói như thế sớm, ngày này nhờ ông ta thấy được đại cơ Hải Huynh.
+Vân Nham ngộ ngay lời này, liền kệ bài.
 
-Mới tin rằng người học không nhiều công sức. Thế thì nếu
-nương vào một câu đầu trăm vị, thì còn bị dính mắc.
+Mới tin rằng người học không nhiều công sức. 
+Thế thì nếu nương vào một câu đầu trăm vị, thì còn bị dính mắc.
 
-Hay ngoài câu đầu còn quá nhiều lời chi tiết. Thế nên Dược Sơn
-không nói chấp nhân. Bởi vì khế ngộ nhân không thể nghĩ bàn, lời ở
-chỗ động tâm trí luôn vẫn là phụ.
+Hay ngoài câu đầu còn quá nhiều lời chi tiết. 
+Thế nên Dược Sơn không nói chấp nhân. Bởi vì khế ngộ nhân không thể nghĩ bàn, lời ở chỗ động tâm trí luôn vẫn là phụ.
 
-Ý nghĩa câu nói của Đại Trí Bá Trượng: Những điều dạy
-người đều có căn cứ, câu nào cũng quan nhau, thiện cơ sơ, trung, hậu.
+Ý nghĩa câu nói của Đại Trí Bá Trượng: Những điều dạy người đều có căn cứ, câu nào cũng quan nhau, thiện cơ sơ, trung, hậu.
 
 Sơ: Dạy bỏ phát tâm thiện.
 Trung: Buông tâm thiện.
 Hậu: Sáng tỏ tâm thiện.
 
-Bồ Tát không còn chấp Bồ Tát mới là Bồ Tát. Pháp tắc đều như
-thế, chẳng phải công chấp phải phi pháp, chẳng phải bỏ công chấp phải
-phi pháp. Nếu nói chỉ có làm cho người vào địa vị bất tư nghì, thì câu từ
-vì yếu công dụng, cũng chẳng liên hệ gì.
+Bồ Tát không còn chấp Bồ Tát mới là Bồ Tát. 
+Pháp tắc đều như thế, chẳng phải công chấp phải phi pháp, chẳng phải bỏ công chấp phải phi pháp. 
+Nếu nói chỉ có làm cho người vào địa vị bất tư nghì, thì câu từ vì yếu công dụng, cũng chẳng liên hệ gì.
 
-Thế nên những bậc Đại Tông Sư luận pháp đều nương vào
-phương thức của Phật Tổ, đều chẳng chấp mắc. Nói một cách tùy tiện.
+Thế nên những bậc Đại Tông Sư luận pháp đều nương vào phương thức của Phật Tổ, đều chẳng chấp mắc. 
+Nói một cách tùy tiện.
 Như thế nào mới là hợp nghĩa Tổ Sư truyền thọ?
 
-Ý nghĩa sâu câu: Nói im lặng, không im lặng, không im lặng
-mà vẫn đúng, tất cả không đúng.
+Ý nghĩa sâu câu: Nói im lặng, không im lặng, không im lặng mà vẫn đúng, tất cả không đúng.
 
-Khuyên anh không nên giải thích rõ, mỗ sư giải thích rõ rệt
-đều dẫn đến khó thông suốt. Điểm chính là trực tiếp đến chỗ tuyệt đối,
-tâm tập khí dứt bỏ. Bởi lẽ Ngài Đầu Tử dạy: Hai mươi năm không tập
-khí chướng ngại, lúc về khi sanh tử đã dứt bỏ, chỉ cần ly. Cho nên ngài
-Bá Trượng cũng vậy.
+Khuyên anh không nên giải thích rõ, mỗ sư giải thích rõ rệt đều dẫn đến khó thông suốt. 
+Điểm chính là trực tiếp đến chỗ tuyệt đối, tâm tập khí dứt bỏ. 
+Bởi lẽ Ngài Đầu Tử dạy: Hai mươi năm không tập khí chướng ngại, lúc về khi sanh tử đã dứt bỏ, chỉ cần ly. 
+Cho nên ngài Bá Trượng cũng vậy.
 
 Nói thế nào mới thành hội?
-Dược Sơn muốn bàn tay lỏng bỏ, không bám lấy, không nắm
-vận quá, sao không nói lời ấy sớm. Lời ấy chính là pháp tắc
-phụ úy điểm khó của Dược Sơn, mà Văn Nham ngộ ngay tại đó.
+Dược Sơn muốn bàn tay lỏng bỏ, không bám lấy, không nắm vận quá, sao không nói lời ấy sớm. 
+Lời ấy chính là pháp tắc phụ úy điểm khó của Dược Sơn, mà Vân Nham ngộ ngay tại đó.
 
 ## TỤNG CỔ
 
@@ -120,7 +110,7 @@ Thiện Tài đi về phương Nam tham vấn các bậc thiện tri thức.
 Đến chỗ Tỳ Kheo Đức Vân, trải qua núi đá cheo leo cũng không gặp được. 
 7 ngày sau, hai Ngài gặp nhau tại đỉnh Biệt Phong, được pháp môn đại giải thoát.
 
-Hướng như Văn Nham ở với Bá Trượng mấy mươi năm, chưa được ấn chứng. 
+Hướng như Vân Nham ở với Bách Trượng mấy mươi năm, chưa được ấn chứng. 
 Thế nên lên thẳng đỉnh núi không ngại gian nan, ông ta đã vào chốn Tùng Lâm ba bốn phen để Bá Xá, cảm hứng rèn luyện. 
 Chợt một niệm nhân lành, liền được chính mình liền đóng bậc an đắc. 
 Chỉ là cơ dụng, chỗ người nói rồi thì sai lắm.
@@ -150,3 +140,5 @@ Sao vậy?
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>

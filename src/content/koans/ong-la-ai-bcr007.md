@@ -19,7 +19,9 @@ draft: false
 
 ## CỬ:
 
-> Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn, “Huệ Siêu xin hỏi hòa thượng, Phật là gì?” Pháp Nhãn nói, “Chú là Huệ Siêu.”
+- Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn [^1], “*Huệ Siêu xin hỏi hòa thượng, Phật là gì?*” 
+
+- Pháp Nhãn nói, “*Chú là Huệ Siêu*”
 
 ## BÌNH
 
@@ -123,4 +125,5 @@ Giống như Tàng chủ Khánh hỏi, “Thế nào là “ba bực sóng cao c
 
 ## ℹ️ Thông tin thêm:
 
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
 

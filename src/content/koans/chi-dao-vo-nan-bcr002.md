@@ -9,8 +9,6 @@ tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
 draft: false
 ---
 
-# CÔNG ÁN
-
 ## THÙY:
 
 Trời đất hẹp; trăng sao tinh tú đồng thời tối ám.

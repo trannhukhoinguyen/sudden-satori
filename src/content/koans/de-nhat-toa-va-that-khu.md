@@ -11,7 +11,7 @@ draft: false
 
 # CÔNG ÁN
 
-**Cửu Phong** là thị giả của **Thạch Sương**.
+**Cửu Phong** [^1] là thị giả của **Thạch Sương** [^2].
 Khi **Thạch Sương** mất, chúng Tăng trong tự viện họp và quyết định chọn vị Đệ Nhất Tòa làm trụ trì mới.
 
 Nhưng **Cửu Phong** đứng lên nói với cử tọa: "Trước hết chúng ta phải biết rằng Đệ Nhất Tòa có thực sự hiểu Tông chỉ của thầy không đả?"
@@ -54,3 +54,6 @@ Còn về ý nghĩa những lời nói của thầy, ông vẫn chẳng hiểu c
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-cuu-phong-dao-kien/" target="_blank">TS CỬU PHONG ĐẠO KIỀN</a>
+⭐️ [^2]: <a href="https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>

@@ -158,3 +158,5 @@ Không bày ấn báu vẫn tôn kính.
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-thanh-nguyen-hanh-tu/" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>

@@ -32,13 +32,13 @@ Thạch Đầu thưa: Chẳng những Tào Khê mà Tây Thiên cũng không có
 
 Hành Tư hỏi: Ông đến Tây Thiên chưa?
 
-Thạch Đầu thưa: Con có đến.
+Thạch Đầu thưa: *Con có đến*
 
-Hành Tư nói: Chưa được thì nói lại.
+Hành Tư nói: *Chưa được thì nói lại*
 
-Thạch Đầu thưa: Ngài chớ hoàn toàn tin vào con. Hòa thượng cũng phải nói một nửa.
+Thạch Đầu thưa: *Ngài chớ hoàn toàn tin vào con. Hòa thượng cũng phải nói một nửa*
 
-Hành Tư bảo: Nói cho ông không ngại, chỉ sợ sau này không có người kế thừa.
+Hành Tư bảo: *Nói cho ông không ngại, chỉ sợ sau này không có người kế thừa*
 
 ## BÌNH XƯỚNG
 
@@ -145,3 +145,5 @@ Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-thanh-nguyen-hanh-tu/" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>

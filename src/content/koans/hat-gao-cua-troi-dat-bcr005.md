@@ -23,7 +23,7 @@ Nếu như là người mắt sáng, chẳng thể bị lừa chút nào. Nếu 
 
 ## CỬ:
 
-Tuyết Phong dạy chúng nói rằng: “ Gom cả trời đất lại, chỉ lớn bằng một hạt gạo.
+Tuyết Phong [^1] dạy chúng nói rằng: “ Gom cả trời đất lại, chỉ lớn bằng một hạt gạo.
 
 Ném xuống trước mặt, nếu vẫn mê mờ không hiểu tôi sẽ đánh trống mời tất cả mọi người đến xem.
 
@@ -87,7 +87,7 @@ Thử nói xem, cốt yếu của vấn đề này có thể so đo được b�
 
 Tự tự tại tại, tự nhiên đi xuyên qua được cái vòng dây dưa thì mới thấy được dụng xứ của thầy ta.
 
-Thử nói xem, ý của Tuyết Phong ở chỗ nào? Người ta thường hiểu lầm, lấy tri thức cảm quan ra mà hiểu, rồi nói, “ tâm là chủ của vạn pháp,[^14] cả trời đất chỉ nằm trong tay ta”.
+Thử nói xem, ý của Tuyết Phong ở chỗ nào? Người ta thường hiểu lầm, lấy tri thức cảm quan ra mà hiểu, rồi nói, “ tâm là chủ của vạn pháp,[^2] cả trời đất chỉ nằm trong tay ta”.
 
 May thay những cái này chẳng có gì là nhằm nhò với vấn đề cả. Đến chỗ này cần phải nhìn suốt tận xương tủy, song không được vướng vào tri thức và ý niệm cảm quan. Nếu như ông là một tăng sĩ có bản lãnh, đương nhiên ông sẽ thấy rằng Tuyết Phong nhất nhất đều vì người khác cả.
 
@@ -97,7 +97,7 @@ May thay những cái này chẳng có gì là nhằm nhò với vấn đề c�
 >
 > Đầu ngựa hiện
 >
-> Trong kính Tào khê [^15] dứt bụi trần
+> Trong kính Tào khê [^3] dứt bụi trần
 >
 > Đánh trống nhìn xem Ngài chẳng thấy,
 >
@@ -127,9 +127,15 @@ May thay những lời ấy chẳng có gì nhằm nhò với vấn đề cả. 
 
 Đó chỉ là những lời căn bản, sư núi tôi đâu dám không dựa theo căn bản. “Đầu trâu mất, đầu ngựa hiện?”
 
-Tuyết Đậu đã nói quá rõ ràng. Chỉ tại người ta không tự hiểu mà thôi. Tuyết Đậu luộm thuộm như thế lại tụng tiếp, “Đánh trống nhìn xem ngài chẳng thấy.”
+Tuyết Đậu đã nói quá rõ ràng. Chỉ tại người ta không tự hiểu mà thôi. 
 
-Những kẻ mê mờ còn thấy chăng? Tuyết Đậu lại nói với cái ông, “ Trăm hoa xuân đến nở vì ai?” Có thể nói là thầy ta mở rộng cửa nẻo, vạch rõ ra cho các ông. Khi mùa xuân đến, nơi thung lũng thâm u bên khe suối hoang vu, ở một nơi không người lui tới, trăm hoa đua nở. Thử nói xem, rốt cuộc nở vì ai?
+Tuyết Đậu luộm thuộm như thế lại tụng tiếp, “Đánh trống nhìn xem ngài chẳng thấy.”
+
+Những kẻ mê mờ còn thấy chăng? 
+
+Tuyết Đậu lại nói với cái ông, “Trăm hoa xuân đến nở vì ai?” 
+
+Có thể nói là thầy ta mở rộng cửa nẻo, vạch rõ ra cho các ông. Khi mùa xuân đến, nơi thung lũng thâm u bên khe suối hoang vu, ở một nơi không người lui tới, trăm hoa đua nở. Thử nói xem, rốt cuộc nở vì ai?
 
 ***
 
@@ -144,5 +150,9 @@ Những kẻ mê mờ còn thấy chăng? Tuyết Đậu lại nói với cái �
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
+⭐️ [^2]: 
+⭐️ [^3]: 
 
 

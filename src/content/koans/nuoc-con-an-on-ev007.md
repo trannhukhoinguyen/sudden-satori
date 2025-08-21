@@ -23,17 +23,17 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-> Dược Sơn hỏi Sa Di Cao: Ta ở Trường An huyên náo.
-> 
-> Sa di thưa: Nước con an ổn.
-> 
-> Dược Sơn hoan hỷ nói: Ông nhờ xem kinh được, thừa hỏi đạt được.
-> 
-> Sa di thưa: Không phải xem kinh được, cũng không hỏi đạt được.
-> 
-> Dược Sơn nói: Có người không xem kinh và thừa hỏi sao không đạt được.
-> 
-> Sa di Cao thưa: Chỗ bảo không đạt được, vì họ không chịu chấp nhận thôi.
+- Dược Sơn hỏi Sa Di Cao: Ta ở Trường An huyên náo.
+
+- Sa di thưa: Nước con an ổn.
+
+- Dược Sơn hoan hỷ nói: Ông nhờ xem kinh được, thừa hỏi đạt được.
+
+- Sa di thưa: Không phải xem kinh được, cũng không hỏi đạt được.
+
+- Dược Sơn nói: Có người không xem kinh và thừa hỏi sao không đạt được.
+
+- Sa di Cao thưa: Chỗ bảo không đạt được, vì họ không chịu chấp nhận thôi.
 
 ## BÌNH XƯỚNG
 
@@ -137,3 +137,5 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>

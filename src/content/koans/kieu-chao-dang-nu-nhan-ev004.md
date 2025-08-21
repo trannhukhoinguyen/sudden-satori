@@ -22,7 +22,7 @@ Gặp mặt chào nhau, tiếp đón kính trọng.
 
 Ngài Đầu Tử cử: 
 
-> Tăng hỏi TS. Đạo Ngô Viên Trí: Thế nào là chỗ thâm sâu của hòa thượng?
+> Tăng hỏi Đạo Ngô [^1]: *Thế nào là chỗ thâm sâu của hòa thượng?*
 >
 > Ngài Đạo Ngô bước xuống giường thiền chào kiểu dáng nữ nhân nói: Cám ơn ông từ xa đến thăm, không dám để chờ lâu.
 
@@ -108,3 +108,5 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-dao-ngo-vien-tri/" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>

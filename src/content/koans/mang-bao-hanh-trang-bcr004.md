@@ -15,19 +15,29 @@ Dưới thanh niên bạch nhật, không cần phải vạch đông chỉ tây.
 
 ## CỬ:
 
-Đức Sơn đến nơi của Qui Sơn, ôm bao hành trang vào Pháp đường, đi từ tây qua đông rồi từ đông qua tây, nhìn quanh nói, “ Vô, vô,” rồi bỏ ra ngoài. Tuyết Đậu phê bình rằng “ Khám phá ra rồi.” Song khi Đức Sơn đến cổng lại nói, “Cũng không nên thô suất như thế.” Rồi lại đầy đủ uy nghi trở vào gặp Qui Sơn. Lúc Qui Sơn ngồi đó, Đức Sơn dơ tọa cụ lên nói, “Hòa thượng!” Qui Sơn toan chụp lấy phất trần, Đức Sơn bèn hét, rồi rũ áo bỏ đi ra.
+Đức Sơn [^1] đến nơi của Qui Sơn [^2], ôm bao hành trang vào Pháp đường, đi từ tây qua đông rồi từ đông qua tây, nhìn quanh nói, “*Vô, vô*” rồi bỏ ra ngoài. 
 
-Tuyết Đậu phê bình rằng, “Khám phá ra rồi.”
+> Tuyết Đậu phê bình rằng “*Khám phá ra rồi*” 
+
+Song khi Đức Sơn đến cổng lại nói, “*Cũng không nên thô suất như thế*” 
+
+Rồi lại đầy đủ uy nghi trở vào gặp Qui Sơn. 
+
+Lúc Qui Sơn ngồi đó, Đức Sơn dơ tọa cụ lên nói, “*Hòa thượng*” 
+
+Qui Sơn toan chụp lấy phất trần, Đức Sơn bèn hét, rồi rũ áo bỏ đi ra.
+
+> Tuyết Đậu phê bình rằng, “*Khám phá ra rồi*”
 
 Đức Sơn quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi.
 
-Tối đến Qui Sơn hiỏ vị thủ tòa, “ Người vừa rồi mới đến đâu rồi?”
+Tối đến Qui Sơn hỏi vị thủ tòa, “*Người vừa rồi mới đến đâu rồi?*”
 
-Thủ tòa nói, “Lúc ấy ông ta quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi.”
+Thủ tòa nói, “*Lúc ấy ông ta quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi.*”
 
-Qui Sơn nói, “ Người ấy sau này thế nào cũng lên đỉnh cao tự xây am cỏ mà tiếp tục bài Phật bang Tổ.”
+Qui Sơn nói, “*Người ấy sau này thế nào cũng lên đỉnh cao tự xây am cỏ mà tiếp tục bài Phật bang Tổ.*”
 
-Tuyết Đậu phê bình, “ Thêm sương lên tuyết.”
+> Tuyết Đậu phê bình, “*Thêm sương lên tuyết*”
 
 ## BÌNH:
 
@@ -116,4 +126,7 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 ***
 
 ## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-duc-son-tuyen-giam/" target="_blank">TS ĐỨC SƠN TUYÊN GIÁM</a>
+⭐️ [^2]: <a href="https://blog.phapthihoi.org/gt-member/ts-qui-son-linh-huu/" target="_blank">TS QUI SƠN LINH HỰU</a>
 
