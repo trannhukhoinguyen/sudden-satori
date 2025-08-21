@@ -1,45 +1,34 @@
 ---
-import { EXTRA_BLOG_CONFIG } from "../../config.ts";
-import Layout from '../../layouts/Layout.astro';
+import Layout from "../../layouts/Layout.astro";
 import "@/styles/tagList.css";
-import {
-  allPosts,
-  getSortedTermsByType
-} from "../../utils/getMarkdownContent";
+import { TAG_MAP } from "../../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Tags";
-const description = "Xem " + title;
-const allTags = getSortedTermsByType(allPosts, "tags");
-const { pathTag, noTagDescription } = EXTRA_BLOG_CONFIG;
+const description = "Xem tất cả Tags";
+const allTags = Object.entries(TAG_MAP);
 ---
 
 <Layout title={title} description={description} showSidebar={true}>
-
-  <div class="categories-page">
+  <div class="tags-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
       <hr class="page-rule" />
     </header>
 
     <div class="tags-grid">
-      <h3>Tất cả Tag</h3>
-      {allTags?.map(([tag, posts]: [string, any[]]) => (
+      {allTags.map(([tag, { posts }]) => (
           <div class="tag-card">
-            <a href={`${base}${pathTag}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link">
+            <a href={`${base}tags/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link">
               <h2 class="tag-title">{tag}</h2>
-              <p class="tag-count">
-                {posts.length} article{posts.length === 1 ? '' : 's'}
-              </p>
+              <p class="tag-count">{posts.length} bài viết</p>
             </a>
           </div>
       ))}
     </div>
 
-    {allTags?.length === 0 && (
-        <div class="no-tag">
-          <p>{ noTagDescription }</p>
-        </div>
+    {allTags.length === 0 && (
+        <div class="no-tag"><p>Chưa có tag nào.</p></div>
     )}
   </div>
 </Layout>

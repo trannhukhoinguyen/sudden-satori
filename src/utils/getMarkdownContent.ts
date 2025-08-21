@@ -59,13 +59,13 @@ const allPostsLazy: Post[] = Object.entries(collections).flatMap(([name, type]) 
     addDefaultType(Object.values(globMapLazy[name as CollectionName]), type)
 );
 
+// ===== 5. Helpers =====
 function getRecentPosts(posts: any[], limit = 5) {
   return [...posts]
       .sort((a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime())
       .slice(0, limit);
 }
 
-// ===== 5. Hàm chung getSorted... =====
 function getSortedPostsByType(type?: string) {
   const filtered = type ? allPosts.filter(p => p.frontmatter.type === type) : allPosts;
   return filtered.sort(
@@ -73,10 +73,7 @@ function getSortedPostsByType(type?: string) {
   );
 }
 
-function getSortedTermsByType(
-    posts: Post[],
-    termField: "categories" | "tags"
-) {
+function getSortedTerms(posts: Post[], termField: "categories" | "tags") {
   const termMap: Record<string, Post[]> = {};
   posts.forEach(p => {
     const terms: string[] = p.frontmatter[termField] || [];
@@ -92,48 +89,47 @@ function getSortedTermsByType(
   });
 }
 
-// ===== 6. Build CONTENT_MAP động =====
+// ===== 6. CONTENT_MAP (posts + recentPosts) =====
 const CONTENT_MAP: Record<
     string,
-    {
-      posts: Post[];
-      categories: [string, Post[]][];
-      tags: [string, Post[]][];
-      flatCategories: string[];
-      flatTags: string[];
-      recentPosts: any[];
-    }
+    { posts: Post[]; recentPosts: Post[] }
 > = Object.fromEntries(
     Object.entries(collections).map(([name, type]) => {
       const posts = getSortedPostsByType(type);
-      return [
-        name,
-        {
-          posts,
-          categories: getSortedTermsByType(posts, "categories"),
-          tags: getSortedTermsByType(posts, "tags"),
-          flatCategories: [...new Set(posts.flatMap(p => p.frontmatter.categories || []))],
-          flatTags: [...new Set(posts.flatMap(p => p.frontmatter.tags || []))],
-          recentPosts: getRecentPosts(posts), // ✅ thêm recentPosts theo collection
-        },
-      ];
+      return [name, { posts, recentPosts: getRecentPosts(posts) }];
     })
 );
 
-// ===== 7. Helper chung =====
-function getCategoryData(category: string) {
-  const data = CONTENT_MAP[category];
-  if (!data) throw new Error(`Category "${category}" not found in CONTENT_MAP`);
-  return data;
-}
+// ===== 7. CATEGORY_MAP =====
+const CATEGORY_MAP: Record<string, { posts: Post[] }> = {};
 
-// ===== 8. Export tiện ích =====
+allPosts.forEach((post) => {
+  const categories: string[] = post.frontmatter.categories || [];
+  categories.forEach((category) => {
+    if (!CATEGORY_MAP[category]) CATEGORY_MAP[category] = { posts: [] };
+    CATEGORY_MAP[category].posts.push(post);
+  });
+});
+
+// ===== 8. TAG_MAP =====
+const TAG_MAP: Record<string, { posts: Post[] }> = {};
+
+allPosts.forEach((post) => {
+  const tags: string[] = post.frontmatter.tags || [];
+  tags.forEach((tag) => {
+    if (!TAG_MAP[tag]) TAG_MAP[tag] = { posts: [] };
+    TAG_MAP[tag].posts.push(post);
+  });
+});
+
+// ===== 9. Export =====
 export {
   allPosts,
   allPostsLazy,
   getRecentPosts,
   getSortedPostsByType,
-  getCategoryData,
-  getSortedTermsByType,
-  CONTENT_MAP
+  getSortedTerms,
+  CONTENT_MAP,
+  CATEGORY_MAP,
+  TAG_MAP,
 };

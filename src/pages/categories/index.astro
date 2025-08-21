@@ -1,21 +1,15 @@
 ---
-import { EXTRA_BLOG_CONFIG } from "../../config.ts";
-import Layout from '../../layouts/Layout.astro';
+import Layout from "../../layouts/Layout.astro";
 import "@/styles/categoryList.css";
-import {
-  allPosts,
-  getSortedTermsByType,
-} from "../../utils/getMarkdownContent";
+import { CATEGORY_MAP } from "../../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
 const title = "Categories";
-const description = "Xem " + title;
-const allCategories = getSortedTermsByType(allPosts, "categories");
-const { pathCategory, noCategoryDescription } = EXTRA_BLOG_CONFIG;
+const description = "Xem tất cả Categories";
+const allCategories = Object.entries(CATEGORY_MAP);
 ---
 
 <Layout title={title} description={description} showSidebar={true}>
-
   <div class="categories-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
@@ -23,24 +17,18 @@ const { pathCategory, noCategoryDescription } = EXTRA_BLOG_CONFIG;
     </header>
 
     <div class="categories-grid">
-      <h3>Tất cả Category</h3>
-      {allCategories?.map(([category, posts]: [string, any[]]) => (
-        <div class="category-card">
-          <a href={`${base}${pathCategory}/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
-            <h2 class="category-title">{category}</h2>
-            <p class="category-count">
-              {posts.length} article{posts.length === 1 ? '' : 's'}
-            </p>
-          </a>
-        </div>
+      {allCategories.map(([category, { posts }]) => (
+          <div class="category-card">
+            <a href={`${base}categories/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
+              <h2 class="category-title">{category}</h2>
+              <p class="category-count">{posts.length} bài viết</p>
+            </a>
+          </div>
       ))}
     </div>
 
-    {allCategories?.length === 0 && (
-      <div class="no-category">
-        <p>{ noCategoryDescription }</p>
-      </div>
+    {allCategories.length === 0 && (
+        <div class="no-category"><p>Chưa có category nào.</p></div>
     )}
-
   </div>
 </Layout>
