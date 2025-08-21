@@ -35,17 +35,6 @@ export interface Props {
 const { title, description, showSidebar = true, image, type, publishedTime, canonical,
   collection = null  // ✅ mặc định null nếu không có
 } = Astro.props;
-
-// ✅ Detect collection từ URL
-const pathname = Astro.url.pathname; // ví dụ: "/blogs/abc", "/sutras/xyz"
-let collection: string | null = null;
-
-for (const key of Object.keys(CONTENT_MAP)) {
-  if (pathname.startsWith(`/${key}`)) {
-    collection = key;
-    break;
-  }
-}
 ---
 
 <!DOCTYPE html>
