@@ -1,11 +1,13 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import "@/styles/postList.css";
 import { configNew as config } from "../../config";
 import { getCategoryData } from "../../utils/getMarkdownContent";
-
-const postsPerPage = 5;
+import Pagination from "../../components/Pagination.astro";
 
 export async function getStaticPaths() {
+  const { postsPerPage } = config;
+
   return config.collections.map((category) => {
     const { posts } = getCategoryData(category);
     const totalPages = Math.ceil(posts.length / postsPerPage);
@@ -23,17 +25,23 @@ export async function getStaticPaths() {
 }
 
 const { category, page, totalPages, posts } = Astro.props;
+const categoryName = config.categoryNames[category] || category;
 ---
 
-<Layout title={`All ${category}`}>
-  <h1>{category} - Page {page} / {totalPages}</h1>
+<Layout
+    title={`${category} - Trang ${page} / ${totalPages}`}
+
+>
+  <h1>{categoryName}</h1>
   <ul>
     {posts.map((post) => (
-      <li>
-        <a href={`/${category}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>
-          {post.frontmatter.title}
-        </a>
-      </li>
+        <li>
+          <a href={`/${category}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>
+            {post.frontmatter.title}
+          </a>
+        </li>
     ))}
   </ul>
+
+  <Pagination {category} {page} {totalPages} />
 </Layout>

@@ -1,5 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import "@/styles/post.css";
 import { configNew as config } from "../../config";
 import { getCategoryData } from "../../utils/getMarkdownContent";
 import { extractHeadings, filterHeadingsForTOC } from "../../utils/table-of-contents";
@@ -35,6 +36,7 @@ export async function getStaticPaths() {
 }
 
 const { post, readingTime, tocHeadings, category } = Astro.props;
+const categoryName = config.categoryNames[category] || category;
 const { frontmatter, Content } = post as any;
 
 const base = import.meta.env.BASE_URL;
@@ -50,7 +52,7 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
   <article class="blog-post">
     <header class="post-header">
       <h1 class="post-title">{frontmatter.title}</h1>
-      <time class="post-date">{new Date(frontmatter.date).toLocaleDateString()}</time>
+      <time class="post-date">{new Date(frontmatter.date).toLocaleDateString("vi-VN")}</time>
       <span>{readingTime}</span>
     </header>
 
@@ -62,7 +64,19 @@ const publishedTime = frontmatter.date ? new Date(frontmatter.date).toISOString(
     </div>
 
     <footer>
-      <a href={`${base}/${category}`}>← Back to {category}</a>
+      {frontmatter.tags && frontmatter.tags.length > 0 && (
+          <div class="post-tags">
+            <span class="tags-label">Tags:</span>
+            <div class="tag-list">
+              {frontmatter.tags.map((tag: string) => (
+                  <span class="tag">{tag}</span>
+              ))}
+            </div>
+          </div>
+      )}
+      <div class="post-navigation">
+        <a href={`/${category}`} class="back-to-blog">← Trở về trang Danh sách <span class="accent">{categoryName}</span></a>
+      </div>
     </footer>
   </article>
 </Layout>

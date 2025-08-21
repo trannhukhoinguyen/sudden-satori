@@ -1,5 +1,4 @@
 ---
-import { config } from "../config";
 import "@/styles/sidebar.css";
 import { getCategoryData } from "../utils/getMarkdownContent";
 
@@ -28,7 +27,7 @@ const { recentPosts, flatCategories, flatTags } = getCategoryData(currentCategor
               {post.frontmatter.title}
             </a>
             <time class="post-date" datetime={post.frontmatter.date}>
-              {new Date(post.frontmatter.date).toLocaleDateString("en-US", {
+              {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
                 month: "short",
                 day: "numeric",
                 year: "numeric",

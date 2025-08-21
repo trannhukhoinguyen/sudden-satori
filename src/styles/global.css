@@ -244,3 +244,39 @@ hr {
 .post-navigation a:hover {
   color: var(--color-text-primary);
 }
+
+/*Pagination*/
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.pagination ul {
+  display: flex;
+  gap: 0.5rem;
+  list-style: none;
+  padding: 0;
+}
+
+.page-item {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.page-link {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  text-decoration: none;
+  color: var(--color-text-primary);
+}
+
+.page-item.active .page-link {
+  background: var(--color-background);
+  color: var(--color-accent);
+  font-weight: bold;
+}
+
+.accent {
+  color: var(--color-accent);
+}

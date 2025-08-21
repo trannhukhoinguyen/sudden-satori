@@ -24,7 +24,7 @@ const { pathTag, noTagDescription } = EXTRA_BLOG_CONFIG;
 
     <div class="tags-grid">
       <h3>Tất cả Tag</h3>
-      {allTags.map(([tag, posts]: [string, any[]]) => (
+      {allTags?.map(([tag, posts]: [string, any[]]) => (
           <div class="tag-card">
             <a href={`${base}${pathTag}/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link">
               <h2 class="tag-title">{tag}</h2>
@@ -36,7 +36,7 @@ const { pathTag, noTagDescription } = EXTRA_BLOG_CONFIG;
       ))}
     </div>
 
-    {allTags.length === 0 && (
+    {allTags?.length === 0 && (
         <div class="no-tag">
           <p>{ noTagDescription }</p>
         </div>

@@ -117,6 +117,9 @@ export const configNew = {
     base: import.meta.env.BASE_URL,
   },
 
+  // số bài trên 1 trang (dùng cho phân trang, recentPosts,...)
+  postsPerPage: 5,
+
   collections: [
     "blogs",
     "books",
@@ -127,4 +130,15 @@ export const configNew = {
     "practices",
     "zongjinglus",
   ],
+
+  categoryNames: {
+    blogs: "Bài viết",
+    books: "Sách",
+    interpretations: "Luận giải",
+    sutras: "Kinh",
+    koans: "Công án",
+    poems: "Thơ Thiền",
+    practices: "Thực hành",
+    zongjinglus: "Tông Cảnh Lục",
+  },
 };

@@ -24,7 +24,7 @@ const { pathCategory, noCategoryDescription } = EXTRA_BLOG_CONFIG;
 
     <div class="categories-grid">
       <h3>Tất cả Category</h3>
-      {allCategories.map(([category, posts]: [string, any[]]) => (
+      {allCategories?.map(([category, posts]: [string, any[]]) => (
         <div class="category-card">
           <a href={`${base}${pathCategory}/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
             <h2 class="category-title">{category}</h2>
@@ -36,7 +36,7 @@ const { pathCategory, noCategoryDescription } = EXTRA_BLOG_CONFIG;
       ))}
     </div>
 
-    {allCategories.length === 0 && (
+    {allCategories?.length === 0 && (
       <div class="no-category">
         <p>{ noCategoryDescription }</p>
       </div>

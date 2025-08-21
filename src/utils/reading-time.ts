@@ -4,10 +4,10 @@ export function calculateReadingTime(text: string): string {
   const words = text.trim().split(/\s+/).length;
   const minutes = Math.ceil(words / wordsPerMinute);
 
-  if (minutes < 1) return 'Less than 1 min read';
-  else if (minutes <= 60) return `${minutes} min read`;
-  else if (minutes > 60) return `${(minutes - minutes%60)/60} ${(minutes - minutes%60)/60 > 1 ? 'hrs' : 'hr'} ${minutes%60} min read`;
-  return `${minutes} min read`;
+  if (minutes < 1) return "Less than 1 phút đọc";
+  else if (minutes <= 60) return `${minutes} phút đọc`;
+  else if (minutes > 60) return `${(minutes - minutes % 60) / 60} giờ ${minutes % 60} phút đọc`;
+  return `${minutes} phút đọc`;
 }
 
 export function extractTextFromMarkdown(content: string): string {

@@ -1,0 +1,52 @@
+---
+import { configNew as config } from "../config";
+const { category, page, totalPages } = Astro.props;
+
+const categoryName = config.categoryNames[category] || category;
+---
+{totalPages > 1 && (
+    <nav class="pagination">
+        <ul class="pagination-list">
+            {Array.from({ length: totalPages }, (_, i) => i + 1).map((p) => (
+                    <li class={`pagination-item ${p === page ? "active" : ""}`}>
+                        <a href={`/${category}/${p === 1 ? "" : p}`} class="pagination-link" aria-label={`${categoryName} - Trang ${p}`}>
+                            {p}
+                        </a>
+                    </li>
+            ))}
+        </ul>
+    </nav>
+)}
+
+<style>
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.pagination-list {
+    display: flex;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+}
+
+.pagination-item {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.pagination-link {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    text-decoration: none;
+    color: #333;
+}
+
+.pagination-item.active .pagination-link {
+    background: #333;
+    color: #fff;
+    font-weight: bold;
+}
+</style>
