@@ -1,6 +1,6 @@
 ---
 title: "VÂN NHAM THAM VẤN DƯỢC SƠN"
-date: "2025-08-18"
+date: "2025-08-21"
 description: ""
 excerpt: ""
 author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
@@ -20,7 +20,7 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-> Tăng hỏi Thạch Sương: *Thế nào là thâm sâu của Hòa Thượng?*
+> Tăng hỏi Thạch Sương [^1]: *Thế nào là thâm sâu của Hòa Thượng?*
 > 
 > Thạch Sương nói: **Cái khóa không tua hai đầu lay động.**
 
@@ -106,4 +106,10 @@ Mới tin rằng, hội được thì trong đường thọ dụng, không ngờ
 
 ***
 
-> Nguồn: ...
+> ✨ Nguồn: ...
+
+***
+
+## ℹ️ Thông tin thêm:
+
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>

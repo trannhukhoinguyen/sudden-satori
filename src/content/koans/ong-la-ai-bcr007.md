@@ -1,6 +1,6 @@
 ---
 title: "HUỆ SIÊU HỎI VỀ PHẬT"
-date: "2025-08-14"
+date: "2025-08-21"
 description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
@@ -111,13 +111,16 @@ Giống như Tàng chủ Khánh hỏi, “Thế nào là “ba bực sóng cao c
 
 ***
 
-> Nguồn: https://hoavouu.com/p16a12729/5/tac-thu-bay-hue-sieu-hoi-ve-phat
+> ✨ Nguồn:  https://hoavouu.com/p16a12729/5/tac-thu-bay-hue-sieu-hoi-ve-phat
 >
-> Nguồn: https://quangduc.com/p1241a43255/4-tac-07-tac-09
+> ✨ Nguồn:  https://quangduc.com/p1241a43255/4-tac-07-tac-09
 >
-> Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01
+> ✨ Nguồn:  http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01
 >
-> Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
+> ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
+***
+
+## ℹ️ Thông tin thêm:
 
 

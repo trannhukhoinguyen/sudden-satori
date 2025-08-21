@@ -1,7 +1,7 @@
 ---
 title: "Bài thuốc từ Móng tay hay Nhân Chi Giáp / Trảo Giáp"
 description: ""
-date: "2025-08-20"
+date: "2025-08-21"
 categories: ["Bài thuốc"]
 tags: ["Móng tay", "Nhân Chi Giáp", "Trảo Giáp", "Cân thoái", "Tuệ Tĩnh", "Hải Thượng Lãn Ông"]
 author: ["Tuệ Tĩnh", "Hải Thượng Lãn Ông"]

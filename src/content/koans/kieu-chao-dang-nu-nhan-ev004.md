@@ -1,6 +1,6 @@
 ---
 title: "ĐẠO NGÔ THÂM SÂU"
-date: "2025-08-14"
+date: "2025-08-21"
 description: ""
 excerpt: ""
 author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
@@ -103,4 +103,8 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 
 ***
 
-> Nguồn: ...
+> ✨ Nguồn: ...
+
+***
+
+## ℹ️ Thông tin thêm:

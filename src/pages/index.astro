@@ -40,14 +40,8 @@ const description = "Xem " + title;
     </section>
 
     <!-- Image Section -->
-    <section class="image">
-      <div class="image-area">
-        <div class="author-avatar">
-          <div class="avatar-placeholder">
-            <img src={'/images/backgrounds/buddha-sitting-lumbini-garden'} alt={'Buddha sitting at Lumbini garden'} />
-          </div>
-        </div>
-      </div>
+    <section class="image-area">
+      <img src={'/images/backgrounds/buddha-sitting-lumbini-garden.jpg'} alt={'Buddha sitting at Lumbini garden'} />
     </section>
 
     <!-- Demo Blog Section -->
@@ -181,6 +175,12 @@ const description = "Xem " + title;
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 var(--content-padding);
+  }
+
+  .image-area {
+    text-align: center;
+    padding: calc(var(--grid-unit) * 12) 0 calc(var(--grid-unit) * 8);
+    background: linear-gradient(135deg, var(--color-surface) 0%, var(--color-background) 100%);
   }
 
   .hero {

@@ -1,6 +1,6 @@
 ---
 title: "VÂN NHAM THAM VẤN DƯỢC SƠN"
-date: "2025-08-15"
+date: "2025-08-21"
 description: ""
 excerpt: ""
 author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
@@ -145,4 +145,8 @@ Sao vậy?
 
 ***
 
-> Nguồn: ...
+> ✨ Nguồn: ...
+
+***
+
+## ℹ️ Thông tin thêm:

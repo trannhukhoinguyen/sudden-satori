@@ -105,12 +105,15 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 
 ***
 
-> Nguồn: https://hoavouu.com/p26a12726/4/tac-thu-tu-duc-son-mang-bao-hanh-trang
+> ✨ Nguồn: https://hoavouu.com/p26a12726/4/tac-thu-tu-duc-son-mang-bao-hanh-trang
 >
-> Nguồn: https://quangduc.com/p1241a43254/3-tac-04-tac-06
+> ✨ Nguồn: https://quangduc.com/p1241a43254/3-tac-04-tac-06
 >
-> Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01
+> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01
 >
-> Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
+> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
+***
+
+## ℹ️ Thông tin thêm:
 

@@ -49,4 +49,8 @@ Còn về ý nghĩa những lời nói của thầy, ông vẫn chẳng hiểu c
 
 ***
 
-> Nguồn: https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html
+> ✨ Nguồn: https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html
+
+***
+
+## ℹ️ Thông tin thêm:

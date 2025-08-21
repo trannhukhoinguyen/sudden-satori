@@ -1,6 +1,6 @@
 ---
 title: "GIÁP SƠN THUYỀN TỬ"
-date: "2025-08-15"
+date: "2025-08-21"
 description: ""
 excerpt: ""
 author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
@@ -198,4 +198,8 @@ Tụng bản lão tụng:
 
 ***
 
-> Nguồn: ...
+> ✨ Nguồn:  ...
+
+***
+
+## ℹ️ Thông tin thêm:

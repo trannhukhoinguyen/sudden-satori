@@ -1,6 +1,6 @@
 ---
 title: "NƯỚC CON AN ỔN"
-date: "2025-08-18"
+date: "2025-08-21"
 description: ""
 excerpt: ""
 author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
@@ -132,4 +132,8 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 
 ***
 
-> Nguồn: ...
+> ✨ Nguồn:  ...
+
+***
+
+## ℹ️ Thông tin thêm:

@@ -1,6 +1,6 @@
 ---
 title: "VÂN NHAM DẠO NÚI"
-date: "2025-08-14"
+date: "2025-08-21"
 description: ""
 excerpt: ""
 author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
@@ -80,4 +80,8 @@ Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chu
 
 ***
 
-> Nguồn: ...
+> ✨ Nguồn:  ...
+
+***
+
+## ℹ️ Thông tin thêm:
