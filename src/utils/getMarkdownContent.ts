@@ -132,4 +132,6 @@ export {
   CONTENT_MAP,
   CATEGORY_MAP,
   TAG_MAP,
+  globMapLazy,
+  collections,
 };

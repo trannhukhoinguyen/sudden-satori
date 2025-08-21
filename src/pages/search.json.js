@@ -1,30 +1,41 @@
-import { allPostsLazy } from "../utils/getMarkdownContent";
+import { globMapLazy, collections } from "../utils/getMarkdownContent";
 
 export async function GET() {
-// get searchData
-  const searchData = [];
+    const searchData = [];
 
-  for (const posts of allPostsLazy) {
-   for (const path in posts) {
-    const post = await posts[path];
-    const url = path.replace('../content', '').replace('.md', '');
+    // ✅ Lặp qua tất cả collection (blogs, books, sutras, v.v.)
+    for (const [name, type] of Object.entries(collections)) {
+        const files = globMapLazy[name];
 
-    searchData.push({
-      title: post.frontmatter.title || 'Untitled',
-      url: url,
-      date: post.frontmatter.date || new Date().toISOString(),
-      excerpt: post.frontmatter.excerpt || post.frontmatter.description || '',
-      categories: post.frontmatter.categories || []
+        for (const path in files) {
+            const post = await files[path]();
+            const url = path
+                .replace("../content", "")
+                .replace(/\.mdx?$/, ""); // giữ /blogs/abc dạng chuẩn
+
+            searchData.push({
+                title: post.frontmatter?.title || "Untitled",
+                url,
+                type, // ✅ thêm field type (blog, book, sutra, ...)
+                date: post.frontmatter?.date || new Date().toISOString(),
+                excerpt:
+                    post.frontmatter?.excerpt ||
+                    post.frontmatter?.description ||
+                    "",
+                categories: post.frontmatter?.categories || [],
+                tags: post.frontmatter?.tags || [],
+            });
+        }
+    }
+
+    // ✅ Sort theo date mới nhất
+    searchData.sort(
+        (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+    );
+
+    return new Response(JSON.stringify(searchData), {
+        headers: {
+            "Content-Type": "application/json",
+        },
     });
-  }
-}
-
-  // Sort by date (newest first)
-  searchData.sort((a, b) => new Date(b.date) - new Date(a.date));
-
-  return new Response(JSON.stringify(searchData), {
-    headers: {
-      'Content-Type': 'application/json',
-    },
-  });
 }
