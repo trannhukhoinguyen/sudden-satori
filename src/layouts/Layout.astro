@@ -20,6 +20,7 @@ import Footer from '../components/Footer.astro';
 import SEO from '../components/SEO.astro';
 
 import BackToTop from '../components/BackToTop.astro';
+import { CONTENT_MAP } from "../utils/getMarkdownContent";
 
 export interface Props {
   title: string;
@@ -32,6 +33,17 @@ export interface Props {
 }
 
 const { title, description, showSidebar = true, image, type, publishedTime, canonical } = Astro.props;
+
+// ✅ Detect collection từ URL
+const pathname = Astro.url.pathname; // ví dụ: "/blogs/abc", "/sutras/xyz"
+let collection: string | null = null;
+
+for (const key of Object.keys(CONTENT_MAP)) {
+  if (pathname.startsWith(`/${key}`)) {
+    collection = key;
+    break;
+  }
+}
 ---
 
 <!DOCTYPE html>
@@ -64,7 +76,7 @@ const { title, description, showSidebar = true, image, type, publishedTime, cano
 
         {showSidebar && (
           <aside class="sidebar">
-            <Sidebar />
+            <Sidebar collection={collection} />
           </aside>
         )}
 
