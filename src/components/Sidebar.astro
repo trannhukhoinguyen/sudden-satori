@@ -1,73 +1,79 @@
 ---
-import "@/styles/sidebar.css";
-import { getCategoryData } from "../utils/getMarkdownContent";
+import { CATEGORY_MAP, TAG_MAP, getRecentPosts } from "../utils/getMarkdownContent";
+import { configNew as config } from "../config";
 
 const base = import.meta.env.BASE_URL;
 
-// ✅ Xác định collection hiện tại (blogs, books, sutras...)
-const currentCategory = Astro.params?.category || "blogs"; // fallback mặc định
+// 👉 Lấy tất cả categories và tags (toàn site)
+const categories = Object.keys(CATEGORY_MAP).sort();
+const tags = Object.keys(TAG_MAP).sort();
 
-// ✅ Lấy dữ liệu theo collection
-const { recentPosts, flatCategories, flatTags } = getCategoryData(currentCategory);
+// 👉 Recent posts toàn site
+const recentPosts = getRecentPosts();
 ---
 
 <div class="sidebar-content">
-
-  <!-- Recent Posts Section -->
+  <!-- Recent Posts -->
   {recentPosts.length > 0 && (
-    <section class="recent-posts">
-      <h3 class="section-title">Recent {currentCategory} Posts</h3>
-      <ul class="post-list">
-        {recentPosts.map((post) => (
-          <li class="post-item">
-            <a
-              href={`${base}${currentCategory}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}
-              class="post-link"
-            >
-              {post.frontmatter.title}
-            </a>
-            <time class="post-date" datetime={post.frontmatter.date}>
-              {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
-                month: "short",
-                day: "numeric",
-                year: "numeric",
-              })}
-            </time>
-          </li>
-        ))}
-      </ul>
-    </section>
+      <section class="recent-posts">
+        <h3 class="section-title">Bài viết gần đây</h3>
+        <ul class="post-list">
+          {recentPosts.map(post => (
+              <li class="post-item">
+                <a
+                    href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}
+                    class="post-link"
+                >
+                  {post.frontmatter.title}
+                </a>
+                <time class="post-date" datetime={post.frontmatter.date}>
+                  {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </time>
+              </li>
+          ))}
+        </ul>
+      </section>
   )}
 
-  <!-- Categories Section -->
-  {flatCategories.length > 0 && (
-    <section class="categories">
-      <h3 class="section-title">Categories</h3>
-      <ul class="category-list">
-        {flatCategories.map((category) => (
-          <li class="category-item">
-            <a href={`${base}${currentCategory}/categories/${category.toLowerCase()}`} class="category-link">
-              {category}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
+  <!-- Categories -->
+  {categories.length > 0 && (
+      <section class="categories">
+        <h3 class="section-title">Chuyên mục</h3>
+        <ul class="category-list">
+          {categories.map(category => (
+              <li class="category-item">
+                <a
+                    href={`${base}categories/${category.toLowerCase().replace(/\s+/g, "-")}`}
+                    class="category-link"
+                >
+                  {category} ({CATEGORY_MAP[category].posts.length})
+                </a>
+              </li>
+          ))}
+        </ul>
+      </section>
   )}
 
-  <!-- Tags Section -->
-  {flatTags.length > 0 && (
-    <section class="categories">
-      <h3 class="section-title">Tags</h3>
-      <ul class="category-list">
-        {flatTags.map((tag) => (
-          <li class="category-item">
-            <a href={`${base}${currentCategory}/tags/${tag.toLowerCase()}`} class="category-link">
-              {tag}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </section>
+  <!-- Tags -->
+  {tags.length > 0 && (
+      <section class="tags">
+        <h3 class="section-title">Thẻ</h3>
+        <ul class="tag-list">
+          {tags.map(tag => (
+              <li class="tag-item">
+                <a
+                    href={`${base}tags/${tag.toLowerCase().replace(/\s+/g, "-")}`}
+                    class="tag-link"
+                >
+                  {tag} ({TAG_MAP[tag].posts.length})
+                </a>
+              </li>
+          ))}
+        </ul>
+      </section>
   )}
 </div>
