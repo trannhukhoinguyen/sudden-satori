@@ -1,5 +1,5 @@
 ---
-import { CONTENT_MAP } from "../utils/getMarkdownContent";
+import { CATEGORY_MAP, TAG_MAP, CONTENT_MAP } from "../utils/getMarkdownContent";
 import "@/styles/sidebar.css";
 
 const { collection = "blogs" } = Astro.props;
@@ -11,13 +11,18 @@ const data = CONTENT_MAP[collection] || {
   flatTags: [],
 };
 
+// ✅ Nếu collection không tồn tại, thoát sớm
+if (!collection || !CONTENT_MAP[collection]) {
+  return null;
+}
+
 const { recentPosts, flatCategories, flatTags } = data;
 const base = import.meta.env.BASE_URL;
 ---
 
 <div class="sidebar-content">
   <!-- Recent Posts Section -->
-  {recentPosts.length > 0 && (
+  {recentPosts?.length > 0 && (
       <section class="recent-posts">
         <h3 class="section-title">Bài viết mới</h3>
         <ul class="post-list">
@@ -43,7 +48,7 @@ const base = import.meta.env.BASE_URL;
   )}
 
   <!-- Categories Section -->
-  {flatCategories.length > 0 && (
+  {flatCategories?.length > 0 && (
       <section class="categories">
         <h3 class="section-title">Chuyên mục</h3>
         <ul class="category-list">
@@ -59,7 +64,7 @@ const base = import.meta.env.BASE_URL;
   )}
 
   <!-- Tags Section -->
-  {flatTags.length > 0 && (
+  {flatTags?.length > 0 && (
       <section class="tags">
         <h3 class="section-title">Thẻ</h3>
         <ul class="tag-list">
