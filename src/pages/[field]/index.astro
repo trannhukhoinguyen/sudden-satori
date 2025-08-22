@@ -101,7 +101,7 @@ const { flatTags } = tagsData;
           })}
         </div>
 
-        <Pagination currentPage={page} totalPages={totalPages} baseUrl={`${base}${collection}`} />
+        <Pagination currentPage={page} totalPages={totalPages} category={collection} />
     ) : (
         <div class="no-posts">
           <p>Chưa có Bài viết nào.</p>
