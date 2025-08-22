@@ -151,4 +151,3 @@ const remedies  = defineCollection({
 export const collections = {
   blogs, books, zongjinglus, koans, sutras, interpretations, practices, poems, remedies,
 };
-
