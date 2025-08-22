@@ -33,7 +33,7 @@ Ngài Đầu Tử nói:
 
 TS. Duy Nghiễm ở Dược Sơn, Ráng Châu nổi pháp ngài Thạch Đầu.
 
-Ngài Duy Nghiễm thượng đường nói: Tổ Sư dạy cần gìn giữ, nếu tham sân si khởi lên thì buông bỏ, chớ sanh trưởng. 
+Ngài Duy Nghiễm thượng đường nói: *Tổ Sư dạy cần gìn giữ, nếu tham sân si khởi lên thì buông bỏ, chớ sanh trưởng*. 
 
 Ông muốn biết cây khô Thạch Đầu thì phải đẵn gốc, đường, không còn cành lá mới được. 
 
@@ -49,7 +49,9 @@ Người thời nay muốn sáng việc chính mình, phải lãnh hội ý này
 
 Ngài Lâm Tuyền nói, các ngươi hãy nhìn kỹ trong hai mươi bốn giờ phải chánh niệm, đừng để thời gian trôi qua vô ích. 
 
-Nhận được, nói được, ứng dụng được đều hợp nhất, không nên luận bàn suông. Nếu ông không tin, hãy xem bài tụng ngài Đầu Tử hết lòng khen ngợi sự sống lặng lẽ.
+Nhận được, nói được, ứng dụng được đều hợp nhất, không nên luận bàn suông. 
+
+Nếu ông không tin, hãy xem bài tụng ngài Đầu Tử hết lòng khen ngợi sự sống lặng lẽ.
 
 ## TỤNG CỔ
 

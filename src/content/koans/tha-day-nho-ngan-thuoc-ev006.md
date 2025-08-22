@@ -20,39 +20,43 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-Giáp Sơn tham vấn ngài Thuyền Tử.
-Thuyền Tử hỏi: Thả giày nhị ngang thước, vớ y dưới đáy câu,
-cách lưỡi câu ba tấc, tại sao ông không nói?
+Giáp Sơn [^1] tham vấn ngài Thuyền Tử [^2]. Thuyền Tử hỏi: 
 
-Giáp Sơn vừa mở miệng.
+> Thả giày nhị ngang thước
+> 
+> Vớ y dưới đáy câu
+> 
+> Cách lưỡi câu ba tấc
+> 
+> Tại sao ông không nói?
 
-Thuyền Tử đánh Sư roi xuống nước.
+Giáp Sơn vừa mở miệng. 
+Thuyền Tử đánh Sư rơi xuống nước.
+Giáp Sơn vừa mới ngoi lên mặt nước. 
+Thuyền Tử đánh và bảo nói mau, nói mau.
+Giáp Sơn định nói. Thuyền Tử đánh tiếp. 
+Giáp Sơn bỗng nhiên đại ngộ phút giây này, và gật đầu 3 cái.
 
-Giáp Sơn vừa mới ngoi lên mặt nước. Thuyền Tử đánh
-và bảo nói mau, nói mau.
+Thuyền Tử nói: *Giày nhờ đâu sao mặc anh câu, hãy để trong làng thị tự nhiên xuất cách*
 
-Giáp Sơn định nói. Thuyền Tử đánh tiếp. Giáp Sơn bỗng
-nhiên đại ngộ phút giây này, và gật đầu ba cái.
+Giáp Sơn hỏi: *Ném mồi thì câu, ý Thầy thế nào?*
 
-Thuyền Tử nói: Giày nhờ đâu sao mặc anh câu, hãy để
-trong làng thị tự nhiên xuất cách.
+Thuyền Tử nói: *Giày nhờ nói trên mặt nước, xác định được ý có không, nói mau, nói mau*
 
-Giáp Sơn hỏi: Ném mồi thì câu, ý Thầy thế nào?
+Giáp Sơn thưa: *Lời có huyền diệu nhưng không phương pháp, lưỡi nói mà không nói*
 
-Thuyền Tử nói: Giày nhờ nói trên mặt nước, xác định
-được ý có không, nói mau, nói mau.
+Thuyền Tử nói: *Câu khắp dòng sông này, mới gặp được một con cá vàng* 
 
-Giáp Sơn thưa: Lời có huyền diệu nhưng không phương pháp, lưỡi nói mà không nói.
+Giáp Sơn bịt tai lại.
 
-Thuyền Tử nói: Câu khắp dòng sông này, mới gặp được một con cá vàng. Giáp Sơn bịt tai lại.
-
-Thuyền Tử nói: Đúng thế! Đúng thế!
+Thuyền Tử nói: *Đúng thế! Đúng thế!*
 
 ## BÌNH XƯỚNG
 
 Ngài Đầu Tử nói:
 
-Thiền sư Đức Thành Thuyền Tử ở Hoa Đình Tú Châu, hình dung đạo mạo, độ lượng hơn người. Được tâm ấn với ngài Dược Sơn. Sư kết bạn với Đạo Ngô Văn Nham. 
+Thiền sư Đức Thành Thuyền Tử ở Hoa Đình Tú Châu, hình dung đạo mạo, độ lượng hơn người.
+Sư được tâm ấn với ngài Dược Sơn cùng với ngài Đạo Ngô và ngài Vân Nham. 
 
 Khi xa ngài Dược Sơn, Sư nói với Đạo Ngô và Văn Nham. Hai huynh mỗi người một phương xiển dương Tông chỉ của Ngài Dược Sơn. 
 
@@ -64,35 +68,36 @@ Từ ngày chia tay, Sư đến bến Tú Châu Hoa Đình, chèo chiếc thuy�
 
 Người bây giờ không biết bậc ẩn cư này, từ đây gọi Ngài là Hòa thượng Thuyền Tử.
 
-Một hôm đậu thuyền bên bờ ngồi chơi, có vị quan hỏi: Việc hằng ngày của Hòa thượng thế nào? Ngài đưa cây chèo lên nói, hội chăng?
+Một hôm đậu thuyền bên bờ ngồi chơi, có vị quan hỏi: *Việc hằng ngày của Hòa thượng thế nào? Ngài đưa cây chèo lên nói, hội chăng?*
 
-Vị quan thưa không hội.
+Vị quan thưa: *Không hội*.
 
-Ngài nói: Chèo tạt sóng xanh, cá vàng khó gặp.
+Ngài nói: *Chèo tạt sóng xanh, cá vàng khó gặp*
 
-Sau này, Đạo Ngô đến Kinh đô, gặp lúc Giáp Sơn thượng đường. 
+Sau này, Đạo Ngô đến Kinh đô, gặp lúc Giáp Sơn thượng đường.
 
-Có vị tăng hỏi: Thế nào là pháp thân?
+Có vị tăng hỏi: *Thế nào là pháp thân?*
 
-Giáp Sơn đáp: Pháp thân vô tướng.
+Giáp Sơn đáp: *Pháp thân vô tướng*.
 
-Hỏi: Thế nào là pháp nhãn?
+Hỏi: *Thế nào là pháp nhãn?*
 
-Đáp: Pháp nhãn không vết.
+Đáp: *Pháp nhãn không vết*
 
 Bặt chợt Đạo Ngô cười. Giáp Sơn xuống tòa thăm Đạo Ngô.
-Sư vừa tới nơi rối rít tiếp đón, hỏi rằng: 
-Tại sao nghe ngài bậc đệ Thượng tọa cười, cũng mong Thượng tọa từ bi chỉ dạy.
 
-Đạo Ngô nói: Hứa thường là kẻ xuất thế, nhưng chưa có thầy hướng dẫn.
+Sư vừa tới nơi rối rít tiếp đón, hỏi rằng: *Tại sao nghe ngài bậc đệ Thượng tọa cười, cũng mong Thượng tọa từ bi chỉ dạy*
 
-Giáp Sơn nói: Tôi có điểm xuất xứ không đúng, xin Ngài nói rõ.
+Đạo Ngô nói: *Hứa thường là kẻ xuất thế, nhưng chưa có thầy hướng dẫn*
 
-Đạo Ngô nói: Thỉnh Sư đến bến Hoa Đình Thuyền Tử.
+Giáp Sơn nói: *Tôi có điểm xuất xứ không đúng, xin Ngài nói rõ*
 
-Giáp Sơn hỏi: Người này như thế nào?
+Đạo Ngô nói: *Thỉnh Sư đến bến Hoa Đình Thuyền Tử*
 
-Đạo Ngô đáp: Người này trên không miệng ngồi che, dưới không có đất cắm dùi, nếu Sư đến đó nên thay đổi y phục. 
+Giáp Sơn hỏi: *Người này như thế nào?*
+
+Đạo Ngô đáp: *Người này trên không miệng ngồi che, dưới không có đất cắm dùi, nếu Sư đến đó nên thay đổi y phục* 
+
 Giáp Sơn giã từ cảm tạ chúng hành lý đến bến Hoa Đình.
 
 Thuyền Tử vừa thấy hỏi: Đại đức ở chùa nào?
@@ -112,16 +117,15 @@ Thuyền Tử nói: *Một câu làm hết, một câu huyền diệu nhưng kh�
 Giác Phạm nói: ngày nay Thầy truyền cho câu này, nói trước sau đều nói có. 
 Không thì nói mấy năm trước Sư không lưu mà thôi.
 
-Ngài Tào Sơn nói: *Thoạt mắt pháp người phán thẳng hợp. 
-Nếu cần nghiệm rõ về chơn hay ngụy, có chỗ 3 thứ sấm:*
+Ngài Tào Sơn nói: *Thoạt mắt pháp người phán thẳng hợp. Nếu cần nghiệm rõ về chơn hay ngụy, có chỗ 3 thứ **Sấm lậu**:*
 
-1. **Kiến sấm lậu**: cơ không lìa vị rơi vào biển đục.
+1. **Kiến Sấm lậu**: cơ không lìa vị rơi vào biển đục.
 
-2. **Tình sấm lậu**: tình còn lấy bỏ, chấp chặt vào sở kiến.
+2. **Tình Sấm lậu**: tình còn lấy bỏ, chấp chặt vào sở kiến.
 
-3. **Ngữ sấm lậu**: kết quả sự nhiệm mầu không có tông, cơ hoàn toàn mê mờ, xoay vần trong thế trí.
+3. **Ngữ Sấm lậu**: kết quả sự nhiệm mầu không có tông, cơ hoàn toàn mê mờ, xoay vần trong thế trí.
 
-Lập ra sấm lậu trên đúng với bệnh này.
+Lập ra Sấm lậu trên đúng với bệnh này.
 
 Thuyền Tử còn nói, thả giày như ngàn thước ý dọc làm ngộ, mồi biết việc quan trọng nên thảy nhau lao động, tiếp nối nhập biển. 
 Thế nên, Thuyền Tử nói, gặp được câu ai biết, còn cũng chỉ biết đơn đó rằng: 
@@ -135,11 +139,12 @@ Thuyền Tử gọi: *Xà Lê!*
 
 Giáp Sơn quay đầu nhìn. Thuyền Tử dựng đứng mái chèo nói: *Ông nghĩ còn điều gì khác ư?*
 
-Thuyền Tử lật úp thuyền xuống nước thì tịch.
+Thuyền Tử lật úp thuyền xuống nước thị tịch.
 
 Theo sư nói mà định có không. Thiền sư Thông Huyền Tịnh trong “Kiếp ngoại lạc hồn ca” phân tích rằng: 
 
-> Phao nổi là xác định tiêu chuẩn câu cá. Làm phao bằng gỗ nổi trên mặt nước, móc mồi vào lưỡi câu. 
+> Phao nổi là xác định tiêu chuẩn câu cá. 
+> Làm phao bằng gỗ nổi trên mặt nước, móc mồi vào lưỡi câu. 
 > Xem sự chìm nổi mà xác định được cá có cắn câu hay không, nên đặt tên như thế.
 
 Than ôi! Tổ Ông Thăng Mặc thường dạy đệ tử rằng:
@@ -204,4 +209,5 @@ Tụng bản lão tụng:
 
 ## ℹ️ Thông tin thêm:
 
-⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-giap-son-thien-hoi/" target="_blank">TS GIÁP SƠN THIỆN HỘI</a>
+⭐️ [^2]: <a href="https://blog.phapthihoi.org/gt-member/ts-hoa-dinh-thuyen-tu/" target="_blank">TS HOA ĐÌNH THUYỀN TỬ</a>

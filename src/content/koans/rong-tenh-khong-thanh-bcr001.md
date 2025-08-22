@@ -5,7 +5,7 @@ description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS ĐẠT MA"]
+tags: ["BÍCH NHAM LỤC", "Tổ BỒ ĐỀ ĐẠT MA"]
 draft: false
 ---
 
@@ -13,8 +13,12 @@ draft: false
 
 Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu.
 
-Chỉ một hiểu ba, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ.
-Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy, vào giây phút đó, thử nói xem là hành tung của kẻ nào? Thử nhìn vào những lời dây dưa của Tuyết Đậu.
+Chỉ 1 hiểu ba, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ.
+
+Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy. 
+
+Vào giây phút đó, thử nói xem là hành tung của kẻ nào? 
+Thử nhìn vào những lời dây dưa của Tuyết Đậu.
 
 ## CỬ:
 
@@ -174,4 +178,6 @@ Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này
 
 ## ℹ️ Thông tin thêm:
 
-⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
+⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ton-gia-bo-de-dat-ma/" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
+
+⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">Phim về Tổ BỒ ĐỀ ĐẠT MA</a>
