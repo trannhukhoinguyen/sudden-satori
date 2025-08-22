@@ -101,26 +101,51 @@ const CONTENT_MAP: Record<
 );
 
 // ===== 7. CATEGORY_MAP =====
-const CATEGORY_MAP: Record<string, { posts: Post[] }> = {};
+const CATEGORY_MAP: Record<
+    string,
+    { posts: Post[]; flatCategories: string[] }
+> = {};
 
 allPosts.forEach((post) => {
   const categories: string[] = post.frontmatter.categories || [];
   categories.forEach((category) => {
-    if (!CATEGORY_MAP[category]) CATEGORY_MAP[category] = { posts: [] };
+    if (!CATEGORY_MAP[category]) {
+      CATEGORY_MAP[category] = { posts: [], flatCategories: [] };
+    }
     CATEGORY_MAP[category].posts.push(post);
   });
 });
 
+// Sau khi gom xong → bổ sung flatCategories
+Object.keys(CATEGORY_MAP).forEach((cat) => {
+  CATEGORY_MAP[cat].flatCategories = [...new Set(
+      CATEGORY_MAP[cat].posts.flatMap((p) => p.frontmatter.categories || [])
+  )];
+});
+
 // ===== 8. TAG_MAP =====
-const TAG_MAP: Record<string, { posts: Post[] }> = {};
+const TAG_MAP: Record<
+    string,
+    { posts: Post[]; flatTags: string[] }
+> = {};
 
 allPosts.forEach((post) => {
   const tags: string[] = post.frontmatter.tags || [];
   tags.forEach((tag) => {
-    if (!TAG_MAP[tag]) TAG_MAP[tag] = { posts: [] };
+    if (!TAG_MAP[tag]) {
+      TAG_MAP[tag] = { posts: [], flatTags: [] };
+    }
     TAG_MAP[tag].posts.push(post);
   });
 });
+
+// Bổ sung flatTags
+Object.keys(TAG_MAP).forEach((tag) => {
+  TAG_MAP[tag].flatTags = [...new Set(
+      TAG_MAP[tag].posts.flatMap((p) => p.frontmatter.tags || [])
+  )];
+});
+
 
 // ===== 9. Export =====
 export {

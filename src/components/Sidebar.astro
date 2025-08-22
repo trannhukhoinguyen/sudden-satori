@@ -2,21 +2,17 @@
 import { CATEGORY_MAP, TAG_MAP, CONTENT_MAP } from "../utils/getMarkdownContent";
 import "@/styles/sidebar.css";
 
-const { collection = "blogs" } = Astro.props;
+const { collection } = Astro.props;
 
-// Lấy data theo collection, fallback rỗng nếu không có
-const data = CONTENT_MAP[collection] || {
-  recentPosts: [],
-  flatCategories: [],
-  flatTags: [],
-};
+// fallback an toàn
+const postsData = CONTENT_MAP[collection] || { posts: [], recentPosts: [] };
+const categoriesData = CATEGORY_MAP[collection] || { categories: [], flatCategories: [] };
+const tagsData = TAG_MAP[collection] || { tags: [], flatTags: [] };
 
-// ✅ Nếu collection không tồn tại, thoát sớm
-if (!collection || !CONTENT_MAP[collection]) {
-  return null;
-}
+const { recentPosts } = postsData;
+const { flatCategories } = categoriesData;
+const { flatTags } = tagsData;
 
-const { recentPosts, flatCategories, flatTags } = data;
 const base = import.meta.env.BASE_URL;
 ---
 
@@ -52,7 +48,7 @@ const base = import.meta.env.BASE_URL;
       <section class="categories">
         <h3 class="section-title">Chuyên mục</h3>
         <ul class="category-list">
-          {flatCategories.map(category => (
+          {flatCategories.map((category: any) => (
               <li class="category-item">
                 <a href={`${base}categories/${category.toLowerCase()}`} class="category-link">
                   {category}
@@ -68,7 +64,7 @@ const base = import.meta.env.BASE_URL;
       <section class="tags">
         <h3 class="section-title">Thẻ</h3>
         <ul class="tag-list">
-          {flatTags.map(tag => (
+          {flatTags.map((tag: any)  => (
               <li class="tag-item">
                 <a href={`${base}tags/${tag.toLowerCase()}`} class="tag-link">
                   {tag}

@@ -68,46 +68,7 @@ export const EXTRA_BLOG_CONFIG = {
   noTagDescription: "Chưa có Tag nào.",
 };
 export const BLOG_CONFIG = {
-  blogs: {
-    title: "Bài viết",
-    path: "blogs",
-    description: "Xem Bài viết làm sáng tỏ về Phật Pháp",
-  },
-  books: {
-    title: "Sách",
-    path: "books",
-    description: "Xem Sách về Phật Pháp",
-  },
-  sutras: {
-    title: "Luận giải",
-    path: "interpretations",
-    description: "Xem Luận giải cho các Kinh Phật",
-  },
-  interpretations: {
-    title: "Luận giải",
-    path: "interpretations",
-    description: "Xem Luận giải cho các Kinh Phật",
-  },
-  koans: {
-    title: "Công án",
-    path: "koans",
-    description: "Xem Công án",
-  },
-  practices: {
-    title: "Thực hành",
-    path: "practices",
-    description: "Xem Thực hành",
-  },
-  poems: {
-    title: "Thơ Thiền",
-    path: "poems",
-    description: "Xem Thơ Thiền",
-  },
-  zongjinglus: {
-    title: "Tông Cảnh Lục",
-    path: "zongjinglus",
-    description: "Xem Tông Cảnh Lục",
-  },
+
 };
 
 export const configNew = {
@@ -129,6 +90,7 @@ export const configNew = {
     "poems",
     "practices",
     "zongjinglus",
+    "remedies",
   ],
 
   categoryNames: {
@@ -140,5 +102,18 @@ export const configNew = {
     poems: "Thơ Thiền",
     practices: "Thực hành",
     zongjinglus: "Tông Cảnh Lục",
+    remedies: "Phương thuốc",
+  },
+
+  categoryDescriptions: {
+    blogs: "Xem Bài viết làm sáng tỏ về Phật Pháp",
+    books: "Xem Sách về Phật Pháp",
+    interpretations: "Xem Luận giải cho các Kinh Phật",
+    sutras: "Xem Kinh Phật",
+    koans: "Xem Công án",
+    poems: "Xem Thơ Thiền",
+    practices: "Xem Thực hành",
+    zongjinglus: "Xem Tông Cảnh Lục",
+    remedies: "Xem Phương thuốc",
   },
 };

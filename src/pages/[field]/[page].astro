@@ -1,8 +1,10 @@
 ---
+import "@/styles/postList.css";
 import Layout from "../../layouts/Layout.astro";
 import Pagination from "../../components/Pagination.astro";
-import { CONTENT_MAP } from "../../utils/getMarkdownContent";
+import { CONTENT_MAP, CATEGORY_MAP, TAG_MAP } from "../../utils/getMarkdownContent";
 import { configNew as config } from "../../config";
+import {calculateReadingTime, extractTextFromMarkdown} from "../../utils/reading-time";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) => {
@@ -23,32 +25,77 @@ export async function getStaticPaths() {
 
 const { collection, posts, page, totalPages } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const title = `Danh sách: ${collection} (Trang ${page})`;
+const prefix = `Danh sách`;
+const suffix = `(Trang ${page})`;
+const title = config.categoryNames[collection];
+const description = `Trang ${page} của ${config.categoryNames[collection]}`;
+
+// fallback an toàn
+const tagsData = TAG_MAP[collection] || { tags: [], flatTags: [] };
+const { flatTags } = tagsData;
 ---
 
-<Layout title={title} description={`Trang ${page} của ${collection}`}>
-  <h1>{title}</h1>
+<Layout title={title} description={description}>
+  <div class="blog-page">
+    <header class="blog-header">
+      <h2 class="blog-title-medium">{prefix}{' '}{title}{' '}{suffix}</h2>
+      <hr class="blog-rule" />
+    </header>
 
-  <div class="posts-list">
-    {posts
-        .slice((page - 1) * config.postsPerPage, page * config.postsPerPage)
-        .map((post: any) => (
-            <article class="post-item">
-              <h2>
-                <a href={`${base}${collection}/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
-                  {post.frontmatter.title}
-                </a>
-              </h2>
-              <time datetime={post.frontmatter.date}>
-                {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
-              </time>
-            </article>
-        ))}
+    <!-- Tags Section -->
+    {flatTags?.length > 0 && (
+        <section class="tags">
+          <h3 class="section-title">Thẻ</h3>
+          <ul class="tag-list">
+            {flatTags.map((tag: any)  => (
+                <li class="tag-item">
+                  <a href={`${base}tags/${tag.toLowerCase()}`} class="tag-link">
+                    {tag}
+                  </a>
+                </li>
+            ))}
+          </ul>
+        </section>
+    )}
+
+    {posts.length > 0 ? (
+        <div class="posts-list">
+          {posts.slice(0, config.postsPerPage).map((post: any) => {
+            const rawContent = post.body || post.rawContent?.() || '';
+            const plainText = extractTextFromMarkdown(rawContent);
+            const readingTime = calculateReadingTime(plainText);
+            return (
+                <article class="post-item">
+                  <h2 class="post-title">
+                    <a href={`${base}${collection}/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
+                      {post.frontmatter.title}
+                    </a>
+                  </h2>
+                  <div class="post-meta">
+                    {post.frontmatter.excerpt && (<p class="post-excerpt">{post.frontmatter.excerpt}</p>)}
+                    <a href={`${base}${collection}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}
+                       class="read-more">Read More →</a>
+                    <time class="post-date" datetime={post.frontmatter.date}>
+                      {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
+                        year: "numeric",
+                        month: "long",
+                        day: "numeric",
+                      })}
+                    </time>
+                    <span class="post-reading-time">{readingTime}</span>
+                  </div>
+                </article>
+            )
+          })}
+        </div>
+
+        <Pagination currentPage={page} totalPages={totalPages} baseUrl={`${base}${collection}`} />
+    ) : (
+        <div class="no-posts">
+          <p>Chưa có Bài viết nào.</p>
+        </div>
+    )}
   </div>
 
-  <Pagination currentPage={page} totalPages={totalPages} baseUrl={`${base}${collection}`} />
+
 </Layout>
