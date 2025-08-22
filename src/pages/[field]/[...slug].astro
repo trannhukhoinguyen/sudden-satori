@@ -1,5 +1,7 @@
 ---
 import "@/styles/post.css";
+import "@/styles/categoryList.css";
+import "@/styles/tagList.css";
 import Layout from "../../layouts/Layout.astro";
 import TableOfContents from "../../components/TableOfContents.astro";
 import MediaArea from "../../components/MediaArea.astro";
@@ -37,6 +39,7 @@ const base = import.meta.env.BASE_URL;
     description={frontmatter.description || frontmatter.excerpt}
     type="article"
     publishedTime={frontmatter.date ? new Date(frontmatter.date).toISOString() : undefined}
+    collection={collection}
 >
   <article class="blog-post">
     <header>
@@ -82,7 +85,21 @@ const base = import.meta.env.BASE_URL;
     </div>
   </article>
 
-  <footer>
-    <a href={`${base}${collection}`}>← Quay lại {collection}</a>
+  <footer class="post-footer">
+    {frontmatter.tags && frontmatter.tags.length > 0 && (
+        <div class="post-tags">
+          <span class="tags-label">Tags:</span>
+          <div class="tag-list">
+            {frontmatter.tags.map((tag: string) => (
+                <span class="tag">{tag}</span>
+            ))}
+          </div>
+        </div>
+    )}
+
+    <div class="post-navigation">
+      <a href={`${base}${collection}`} class="back-to-blog">← Xem Tất cả {collection}</a>
+    </div>
   </footer>
+
 </Layout>

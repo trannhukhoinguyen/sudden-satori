@@ -11,6 +11,7 @@
 
   /* Accent Color */
   --color-accent-red: #dc2626;
+  --color-accent-yellow: #dcd926;
 
   /* Semantic Colors */
   --color-background: var(--color-white);
@@ -277,6 +278,6 @@ hr {
   font-weight: bold;
 }
 
-.accent {
+.pagination-text-accent {
   color: var(--color-accent);
 }

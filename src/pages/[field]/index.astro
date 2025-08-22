@@ -1,8 +1,10 @@
 ---
 import "@/styles/postList.css";
+import "@/styles/categoryList.css";
+import "@/styles/tagList.css";
 import Layout from "../../layouts/Layout.astro";
 import Pagination from "../../components/Pagination.astro";
-import { CONTENT_MAP, CATEGORY_MAP, TAG_MAP } from "../../utils/getMarkdownContent";
+import { CONTENT_MAP, TAG_MAP } from "../../utils/getMarkdownContent";
 import { configNew as config } from "../../config";
 import {calculateReadingTime, extractTextFromMarkdown} from "../../utils/reading-time";
 
@@ -24,23 +26,26 @@ export async function getStaticPaths() {
 const { collection, posts, page, totalPages } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const prefix = `Danh sách`;
-const suffix = `(Trang 1)`;
 const title = config.categoryNames[collection];
-const description = `Trang ${page} của ${config.categoryNames[collection]}`;
+const description = `${config.categoryDescriptions[collection]} / Trang`;
 
 // fallback an toàn
 const tagsData = TAG_MAP[collection] || { tags: [], flatTags: [] };
 const { flatTags } = tagsData;
 ---
 
-<Layout title={title} description={description}>
+<Layout title={title} description={description} collection={collection}>
   <div class="blog-page">
     <header class="blog-header">
-        <h2 class="blog-title-medium">{prefix}{' '}{title}{' '}{suffix}</h2>
+      <h2 class="blog-title-medium">{prefix}{' ' + title}</h2>
+      <p class="blog-description">
+        {description}
+        <b class="pagination-text-accent">{' ' + page}</b>
+      </p>
       <hr class="blog-rule" />
     </header>
 
-    <!-- Tags Section -->
+    <!-- tags Section -->
     {flatTags?.length > 0 && (
         <section class="tags">
           <h3 class="section-title">Thẻ</h3>
@@ -79,8 +84,17 @@ const { flatTags } = tagsData;
                         month: "long",
                         day: "numeric",
                       })}
+                      <span class="post-reading-time">{readingTime}</span>
                     </time>
-                    <span class="post-reading-time">{readingTime}</span>
+                    {post.frontmatter.tags && post.frontmatter.tags.length > 0 && (
+                        <div class="post-tags">
+                          <div class="tag-list">
+                            {post.frontmatter.tags.map((tag: string) => (
+                                <span class="tag">{tag}</span>
+                            ))}
+                          </div>
+                        </div>
+                    )}
                   </div>
                 </article>
             )
@@ -94,6 +108,4 @@ const { flatTags } = tagsData;
         </div>
     )}
   </div>
-
-
 </Layout>

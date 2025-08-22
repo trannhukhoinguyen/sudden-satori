@@ -30,9 +30,11 @@ export interface Props {
   type?: 'website' | 'article';
   publishedTime?: string;
   canonical?: string;
+  collection?: string;
 }
 
-const { title, description, showSidebar = true, image, type, publishedTime, canonical,
+const {
+  title, description, showSidebar = true, image, type, publishedTime, canonical,
   collection = null  // ✅ mặc định null nếu không có
 } = Astro.props;
 ---
