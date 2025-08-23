@@ -7,22 +7,12 @@ const { entry } = Astro.props;
 
 <div class="mb-8 space-y-6">
     {
-        entry.data?.videoUrl && (
+        entry?.videoUrl && (
                     <div>
-                        <h3 class="text-xl font-bold mb-4" title="Watch">
-                            <LogoYoutube className="h-6 w-6" />
-                        </h3>
-                        <div
-                            class="
-                                aspect-w-16
-                                aspect-h-9
-                                rounded-lg
-                                overflow-hidden
-                            "
-                        >
+                        <div class="video-container">
                             <iframe
-                                src={entry.data.videoUrl}
-                                title={entry.data.title}
+                                src={entry.videoUrl}
+                                title={entry.title}
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen
                                 class="w-full h-full"
@@ -33,29 +23,73 @@ const { entry } = Astro.props;
     }
 
     <!--      {
-            entry.data?.audioUrl && (
+            entry?.audioUrl && (
               <div>
                 <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
                 <audio controls class="w-full">
-                  <source src={entry.data.audioUrl} type="audio/mpeg">
+                  <source src={entry.audioUrl} type="audio/mpeg">
                   Your browser does not support the audio element.
                 </audio>
               </div>
             )
           } -->
     {
-        entry.data?.audioUrls?.length && (entry.data?.audioUrls?.map((url, index) => <div>
-            {
-                index === 0
-                    ? <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
-                    : ''
-            }
-                <h4 class="text-xl font-bold mb-4" title={url}>{index + 1}</h4>
-                <audio controls class="w-full">
-                    <source src={url} type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-            </div>
-        ))
+        entry?.audioUrls?.length &&
+            entry?.audioUrls?.map((url: any, index: any) => (
+                    <div class="audio-block">
+                        {index === 0 ? <h3 class="audio-heading" title="Listen">🎧</h3> : ''}
+                        <h4 class="audio-subheading" title={url}>{index + 1}</h4>
+                        <audio controls class="audio-player">
+                            <source src={url} type="audio/mpeg" />
+                            Your browser does not support the audio element.
+                        </audio>
+                    </div>
+            ))
     }
+
 </div>
+
+<style>
+
+/*Video*/
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 = 9/16 = 0.5625 */
+    height: 0;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/*Audio*/
+.audio-block {
+    margin-bottom: 1rem; /* tương đương mb-4 */
+}
+
+.audio-heading {
+    font-size: 1.25rem;   /* tương đương text-xl */
+    font-weight: bold;    /* font-bold */
+    margin-bottom: 1rem;  /* mb-4 */
+}
+
+.audio-subheading {
+    font-size: 1rem;   /* text-xl */
+    font-weight: bold;    /* font-bold */
+    margin-bottom: 1rem;  /* mb-4 */
+}
+
+.audio-player {
+    width: 100%;          /* w-full */
+    display: block;
+}
+
+</style>

@@ -3,9 +3,6 @@ title: "MẠN ĐÀM TẠM KINH"
 date: "2025-08-23"
 description: ""
 author: ""
-audioUrls: [
-  "https://ph.tinhtong.vn/ftp/MP3/-%20T%20Duy%20Luc/Ch%C6%B0%20Kinh%20T%E1%BA%ADp%20Y%E1%BA%BFu/04%20Kinh%20B%C3%A1t%20Nh%C3%A3%20Ba%20La%20M%E1%BA%ADt%20%C4%90a.mp3",
-]
 videoUrl: "https://www.youtube.com/embed/A9yQQSOy4hc"
 categories: ["Luận"]
 tags: ["Bát Nhã Tâm Kinh"]
@@ -17,7 +14,7 @@ Trong số ngàn vạn quyển kinh, tâm kinh là bộ kinh chữ ít nhất, �
 Trong văn tự gọn gàng rõ rệt đó, đã nói lên lý Bát Nhã giai không, phủ định tất cả phân biệt tâm, đồng thời cũng chỉ bày ra tự tánh của con người, bổn Diệu chân thanh tịnh, có đủ tất cả trí huệ công đức.
 Phàm tất cả pháp trên cuộc đời này đều do chân tâm mà có, cho nên gọi là Tâm Kinh. 
 
-(*Bát Nhã Tâm Kinh*) [^1]
+(*Bát Nhã Tâm Kinh*)
 
 Trong 56 ức 7000 vạn dân trên thế giới hiện nay, chỉ có cực kỳ ít người là giác ngộ đạt đến sanh mạng chân lý tối cao, chúng ta tôn xưng là Phật. 
 Nơi mà các Ngài sống, chúng ta tạm thời gọi đó là Bỉ ngạn.
