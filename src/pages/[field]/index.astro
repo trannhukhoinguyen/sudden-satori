@@ -1,12 +1,11 @@
 ---
 import "@/styles/postList.css";
-import "@/styles/categoryList.css";
-import "@/styles/tagList.css";
+import "@/styles/badgeList.css";
 import Layout from "../../layouts/Layout.astro";
 import Pagination from "../../components/Pagination.astro";
 import { CONTENT_MAP, TAG_MAP } from "../../utils/getMarkdownContent";
 import { configNew as config } from "../../config";
-import {calculateReadingTime, extractTextFromMarkdown} from "../../utils/reading-time";
+import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
@@ -47,12 +46,12 @@ const { flatTags } = tagsData;
 
     <!-- tags Section -->
     {flatTags?.length > 0 && (
-        <section class="tags">
+        <section class="badges">
           <h3 class="section-title">Thẻ</h3>
-          <ul class="tag-list">
+          <ul class="badge-list">
             {flatTags.map((tag: any)  => (
-                <li class="tag-item">
-                  <a href={`${base}tags/${tag.toLowerCase()}`} class="tag-link">
+                <li class="badge-item">
+                  <a href={`${base}tags/${tag.toLowerCase()}`} class="badge-link">
                     {tag}
                   </a>
                 </li>
@@ -87,10 +86,10 @@ const { flatTags } = tagsData;
                       <span class="post-reading-time">{readingTime}</span>
                     </time>
                     {post.frontmatter.tags && post.frontmatter.tags.length > 0 && (
-                        <div class="post-tags">
-                          <div class="tag-list">
+                        <div class="post-badges">
+                          <div class="badge-list">
                             {post.frontmatter.tags.map((tag: string) => (
-                                <span class="tag">{tag}</span>
+                                <span class="badge">{tag}</span>
                             ))}
                           </div>
                         </div>

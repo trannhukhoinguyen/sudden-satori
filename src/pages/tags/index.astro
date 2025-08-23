@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import "@/styles/tagList.css";
+import "@/styles/badgeList.css";
 import { TAG_MAP } from "../../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
@@ -10,25 +10,25 @@ const allTags = Object.entries(TAG_MAP);
 ---
 
 <Layout title={title} description={description} showSidebar={true}>
-  <div class="tags-page">
+  <div class="labels-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
       <hr class="page-rule" />
     </header>
 
-    <div class="tags-grid">
+    <div class="badges-grid">
       {allTags.map(([tag, { posts }]) => (
-          <div class="tag-card">
-            <a href={`${base}tags/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="tag-link">
-              <h2 class="tag-title">{tag}</h2>
-              <p class="tag-count">{posts.length} bài viết</p>
+          <div class="badge-card">
+            <a href={`${base}tags/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="badge-link">
+              <h2 class="badge-title">{tag}</h2>
+              <p class="badge-count">{posts.length} bài viết</p>
             </a>
           </div>
       ))}
     </div>
 
     {allTags.length === 0 && (
-        <div class="no-tag"><p>Chưa có tag nào.</p></div>
+        <div class="no-badge"><p>Chưa có tag nào.</p></div>
     )}
   </div>
 </Layout>

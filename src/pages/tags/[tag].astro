@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import "@/styles/tag.css";
+import "@/styles/badge.css";
 import { TAG_MAP } from "../../utils/getMarkdownContent";
 
 export async function getStaticPaths() {
@@ -20,7 +20,7 @@ const description = `Tất cả bài viết gắn tag ${tag}`;
 ---
 
 <Layout title={tag} description={description} showSidebar={true}>
-  <div class="tag-page">
+  <div class="badge-page">
     <header class="page-header">
       <h1 class="page-title">{tag}</h1>
       <p class="page-description">{posts.length} bài viết có tag này</p>

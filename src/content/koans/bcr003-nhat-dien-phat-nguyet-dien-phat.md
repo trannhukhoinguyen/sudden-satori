@@ -117,4 +117,4 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 
 ## ℹ️ Thông tin thêm:
 
-⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-ma-to-dao-nhat/" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-ma-to-dao-nhat/" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>

@@ -74,9 +74,9 @@ const description = "Xem " + title;
                 )}
 
                 {post.frontmatter.categories && (
-                  <div class="demo-post-categories">
+                  <div class="demo-post-badges">
                     {post.frontmatter.categories.map((category: string) => (
-                      <span class="demo-category">{category}</span>
+                      <span class="demo-badge">{category}</span>
                     ))}
                   </div>
                 )}
@@ -531,13 +531,13 @@ const description = "Xem " + title;
     margin-bottom: calc(var(--grid-unit) * 2);
   }
 
-  .demo-post-categories {
+  .demo-post-badges {
     display: flex;
     flex-wrap: wrap;
     gap: calc(var(--grid-unit) / 2);
   }
 
-  .demo-category {
+  .demo-badge {
     background-color: var(--color-text-primary);
     color: white;
     padding: calc(var(--grid-unit) / 4) calc(var(--grid-unit) / 2);
@@ -548,8 +548,8 @@ const description = "Xem " + title;
     border-radius: 2px;
   }
 
-  /* Dark mode demo category styles */
-  :global([data-theme="dark"]) .demo-category {
+  /* Dark mode demo badge styles */
+  :global([data-theme="dark"]) .demo-badge {
     background-color: var(--color-surface);
     color: var(--color-text-primary);
     border: 1px solid var(--color-border);

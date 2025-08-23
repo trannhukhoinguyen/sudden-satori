@@ -90,4 +90,4 @@ Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chu
 
 ## ℹ️ Thông tin thêm:
 
-⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
+[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>

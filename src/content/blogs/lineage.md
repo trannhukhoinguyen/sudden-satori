@@ -287,7 +287,7 @@ Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động
 >
 > Người đá đánh trống tiếng đùng đùng
 
-⭐️ Thiền sư **Phần Dương Thiện Chiêu** vì Tăng xin hỏi **Ngũ Vị**, bèn tụng ra từng vị rằng:
+✨ Thiền sư **Phần Dương Thiện Chiêu** vì Tăng xin hỏi **Ngũ Vị**, bèn tụng ra từng vị rằng:
 
 🪞 **Chánh trung Lai**
 
@@ -329,7 +329,7 @@ Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động
 >
 > Thật là Pháp Vương diệu trung diệu.
 
-⭐️ Còn **Ngũ Vị** của **Từ Minh Sở Viên** thiền sư rằng:
+✨ Còn **Ngũ Vị** của **Từ Minh Sở Viên** thiền sư rằng:
 
 🪞 **Chánh trung Lai**
 

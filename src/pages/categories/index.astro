@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import "@/styles/categoryList.css";
+import "@/styles/badgeList.css";
 import { CATEGORY_MAP } from "../../utils/getMarkdownContent";
 
 const base = import.meta.env.BASE_URL;
@@ -10,25 +10,25 @@ const allCategories = Object.entries(CATEGORY_MAP);
 ---
 
 <Layout title={title} description={description} showSidebar={true}>
-  <div class="categories-page">
+  <div class="labels-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
       <hr class="page-rule" />
     </header>
 
-    <div class="categories-grid">
+    <div class="badges-grid">
       {allCategories.map(([category, { posts }]) => (
-          <div class="category-card">
-            <a href={`${base}categories/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="category-link">
-              <h2 class="category-title">{category}</h2>
-              <p class="category-count">{posts.length} bài viết</p>
+          <div class="badge-card">
+            <a href={`${base}categories/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="badge-link">
+              <h2 class="badge-title">{category}</h2>
+              <p class="badge-count">{posts.length} bài viết</p>
             </a>
           </div>
       ))}
     </div>
 
     {allCategories.length === 0 && (
-        <div class="no-category"><p>Chưa có category nào.</p></div>
+        <div class="no-badge"><p>Chưa có category nào.</p></div>
     )}
   </div>
 </Layout>

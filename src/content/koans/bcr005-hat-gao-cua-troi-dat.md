@@ -151,8 +151,8 @@ Có thể nói là thầy ta mở rộng cửa nẻo, vạch rõ ra cho các ôn
 
 ## ℹ️ Thông tin thêm:
 
-⭐️ [^1]: <a href="https://blog.phapthihoi.org/gt-member/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
-⭐️ [^2]: 
-⭐️ [^3]: 
+[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
+[^2]: ⭐️  
+[^3]: ⭐️  
 
 

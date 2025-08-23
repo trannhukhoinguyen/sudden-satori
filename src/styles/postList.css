@@ -114,8 +114,13 @@
 
 .post-categories, .post-tags {
     display: flex;
-    flex-wrap: wrap;
     gap: calc(var(--grid-unit) / 2);
+}
+.post-categories {
+    flex-wrap: wrap;
+}
+.post-tags {
+    flex-direction: column;
 }
 
 .category, .tag {
@@ -190,4 +195,29 @@
         flex-direction: column;
         align-items: flex-start;
     }
+}
+
+/*Badge (Category & Tag)*/
+.post-badges {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: calc(var(--grid-unit) / 2);
+}
+.badge {
+    background-color: var(--color-background);
+    color:  var(--color-text-primary);
+    padding: calc(var(--grid-unit) / 4) calc(var(--grid-unit) / 2);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-radius: 2px;
+}
+
+/* Dark mode category styles */
+:global([data-theme="dark"]) .badge {
+    background-color: var(--color-surface);
+    color: var(--color-text-primary);
+    border: 1px solid var(--color-border);
 }

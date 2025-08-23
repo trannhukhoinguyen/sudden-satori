@@ -1,6 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import "@/styles/category.css";
+import "@/styles/badge.css";
 import { CATEGORY_MAP } from "../../utils/getMarkdownContent";
 
 export async function getStaticPaths() {
@@ -20,7 +20,7 @@ const description = `Tất cả bài viết về ${category}`;
 ---
 
 <Layout title={category} description={description} showSidebar={true}>
-  <div class="category-page">
+  <div class="badge-page">
     <header class="page-header">
       <h1 class="page-title">{category}</h1>
       <p class="page-description">{posts.length} bài viết trong category này</p>
