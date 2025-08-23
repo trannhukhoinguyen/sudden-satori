@@ -324,15 +324,26 @@ Chỉ ngay lúc tham khảo sâu xa đạt được yếu chỉ có thể chứn
 
 ----------------------
 [^1]: Đỗ Thuận (557-640): Sơ tổ tông Hoa Nghiêm, sống vào đời Đường Trung Quốc, họ Đỗ quê ở Thiểm Tây.
+
 [^2]: Dược Sơn (751-834):  Nói đủ là Dược Sơn Duy Nghiễm, thiền tăng đời Đường, họ Hàn, tỉnh Sơn Tây, nối pháp thiền sư Thạch Đầu Hi Thiên.
+
 [^3]: Hồng Châu Mã Tổ (709-788): Thiền tăng nổi tiếng đời Đường, họ Mã tên Đạo Nhất, được gọi là Mã Tổ Đạo Nhất, người Tứ Xuyên, Trung Quốc.
+
 [^4]: Nam Dương Tuệ Trung (690-775): Thiền tăng đời Đường, họ Nhiễm, người Chiết Giang, Trung Quốc, nối pháp Lục Tổ Huệ Năng, là một trong năm bậc tông tượng sau Lục Tổ. Ngài được gọi là Nam Dương Quốc sư.
+
 [^5]: Nga Hồ Đại Nghĩa (746-818): Thiền tăng đời Đường, họ Từ, người Chiết Giang, Trung Quốc, nối pháp thiền Sư Mã Tổ Đạo Nhất. Sư trụ núi Nga Hồ.
+
 [^6]: Tư Không Bản Tịnh (676-761): Thiền tăng đời Đường, họ Trương, người Sơn Tây, Trung Quốc, đắc pháp nơi Lục Tổ Huệ Năng, sư trụ chùa Vô Tướng núi Tư Không.
+
 [^7]: Khuê Phong Tông Mật (780-841): Thiền tăng đời Đường họ Hà. người Tứ Xuyên, Trung Quốc, ngoài việc tuyên giảng giáo nghĩa Hoa Nghiêm sư còn giảng về thiên tông cùng các tông phái khác nỗ lực dung hợp các phái. Sư trụ thảo đường Khuê Phong núi Chung Nam, nên được gọi là Khuê Phong Tông Mật đại sư.
+
 [^8]: Ca-diếp: (S: Maha-kasyapa; Hán dịch (Hd.) Ẩm Quang còn gọi (Cg) Đại Ca-diếp) vị đệ tử xuất sắc của Đức Phật, nổi liếng đầu-đà bậc nhất trong hàng đệ tử Phật. Trên hội niêm hoa vi tiếu, Ca-diếp được Đức Phật Thích-ca truyền tâm ấn. Từ đó ngài trở thành sơ tổ của thiền tông Ấn Độ.
+
 [^9]: Ưu-ba-cúc-đa (S: Upagupla) Tổ thứ tư trong 28 vị tổ ở Ấn Độ được phó pháp tạng.
+
 [^10]: Mã Minh (S: Asvaghosa 100-160) Tổ thứ 12 được phó pháp tạng, cũng là một đại luân sư, một thi nhân Phật giáo.
+
 [^11]: Long Thụ (S: Nagarjuna) Tổ phái Trung Quán và tổ thứ 13 được phó pháp tạng tại Ấn Độ.
+
 [^12]: Tào Khê: Chỉ cho yếu chỉ thiền của Lục Tổ Huệ Năng, ngài Huệ Năng lấy chùa Bảo Lâm ở Tào Khê làm trung tâm giáo hóa.
 

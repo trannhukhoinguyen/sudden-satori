@@ -5,7 +5,7 @@ description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS "]
+tags: ["BÍCH NHAM LỤC", "TS MỤC CHÂU"]
 draft: false
 ---
 
@@ -45,7 +45,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm:
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-muc-chau/" target="_blank">TS MỤC CHÂU</a>
 
 
 

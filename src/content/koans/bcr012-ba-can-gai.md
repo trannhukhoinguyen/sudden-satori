@@ -1,11 +1,11 @@
 ---
-title: "CHÉN BẠC CỦA BA LĂNG"
+title: "BA CÂN GAI CỦA ĐỘNG SƠN"
 date: "2025-08-22"
 description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS "]
+tags: ["BÍCH NHAM LỤC", "TS ĐỘNG SƠN LƯƠNG GIỚI"]
 draft: false
 ---
 
@@ -33,9 +33,9 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-> ✨ Nguồn:  https://hoavouu.com/p16a12736/5/tac-thu-muoi-ba-chen-bac-cua-ba-lang
+> ✨ Nguồn:  https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son
 >
-> ✨ Nguồn:  https://quangduc.com/p1241a43257/6-tac-13-tac-16
+> ✨ Nguồn:  https://quangduc.com/p1241a43256/5-tac-10-tac-12
 >
 > ✨ Nguồn:  http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02
 >
@@ -45,6 +45,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm:
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-van-mon-van-yen/" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-dong-son-luong-gioi/" target="_blank">TS ĐỘNG SƠN LƯƠNG GIỚI</a>
 
 
