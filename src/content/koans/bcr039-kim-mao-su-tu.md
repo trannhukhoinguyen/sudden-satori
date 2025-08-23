@@ -1,11 +1,11 @@
 ---
-title: ""
-date: "2025-08-22"
+title: "KIM MAO SƯ TỬ CỦA VÂN MÔN"
+date: "2025-08-23"
 description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS "]
+tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
 draft: false
 ---
 
@@ -33,7 +33,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-> ✨ Nguồn: https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
+> ✨ Nguồn: https://hoavouu.com/p16a12764/5/tac-thu-ba-muoi-chin-kim-mao-su-tu-cua-van-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43264/13-tac-39-tac-43
 >
@@ -45,6 +45,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm:
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-van-mon-van-yen/" target="_blank">TS VÂN MÔN VĂN YỂN</a>
 
 

@@ -1,6 +1,6 @@
 ---
-title: ""
-date: "2025-08-22"
+title: "TRÂU SẮT CỦA PHONG HUYỆT"
+date: "2025-08-23"
 description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
@@ -33,7 +33,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-> ✨ Nguồn: https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
+> ✨ Nguồn: https://hoavouu.com/p16a12763/5/tac-thu-ba-muoi-tam-trau-sat-cua-phong-huyet
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43263/12-tac-35-tac-38
 >

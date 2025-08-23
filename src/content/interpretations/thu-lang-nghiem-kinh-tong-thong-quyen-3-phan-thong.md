@@ -23840,7 +23840,7 @@ không	hay	biết	?
 
 Hành Ấm thuộc Thức Thứ Bảy, đã lìa các Tưởng nên không thể biết, mà sự sanh diệt trôi chuyển rất là vi tế cũng đều chẳng ra khỏi sự luân chuyển của ba cõi, nên gọi là Chúng Sanh Trược. Nếu nơi chỗ “niệm niệm chẳng dừng” mà có chỗ dừng thì chẳng chịu sự luân chuyển của chúng sanh.
 
-Có nhà sư hỏi thiền sư Long Nha Độn : “Khi hai con chuột cắn dây leo thì sao ?”
+Có nhà sư hỏi thiền sư Long Nha Cư Độn : “Khi hai con chuột cắn dây leo thì sao ?”
 
 Tổ Nha nói : “Cần có chỗ ẩn thân mới được”.
 

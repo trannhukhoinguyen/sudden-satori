@@ -1,6 +1,6 @@
 ---
 title: "LIÊN HOA TRỤ TRƯỢNG"
-date: "2025-08-22"
+date: "2025-08-23"
 description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
@@ -11,11 +11,20 @@ draft: false
 
 ## THÙY
 
-> 
+> Cơ không rời vị, rơi vào biển độc. Lời không kinh quần, vướng vào tầm thường. 
+> Hốt nhiên như ánh đá lửa phân biệt được tăng tục. 
+> Biện được sát hoạt trong ánh điện chớp, mới có thể tề bình mười phương, sừng sững như núi cao ngàn thước. 
+> Biết đó là thời tiết gì chăng? Xin nêu lên thử xem.
 
 ## CỬ:
 
-> 
+Liên Hoa Phong Am Chủ [^1] dơ gậy lên dạy chúng rằng, “*Cổ nhân đã đến đây, tại sao không chịu ở lại?*” 
+
+Trong chúng không ai nói gì, Am Chủ mới tự trả lời rằng, “*Bởi vì họ không đắc lực trên đường*” 
+
+Rồi lại nói tiếp, “*Rốt cuộc như thế nào?*” 
+
+Rồi lại tự trả lời, “*Vác gậy trên vai chẳng màng ai, đi thẳng lên trăm ngàn đỉnh cao*”
 
 ## BÌNH
 

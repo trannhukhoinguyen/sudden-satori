@@ -1,11 +1,11 @@
 ---
-title: "NGƯỜI TRONG CỎ CỦA KÍNH THANH"
+title: "MỘT LỜI ĐÚNG CỦA VÂN MÔN"
 date: "2025-08-22"
 description: ""
 excerpt: ""
 author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS "]
+tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
 draft: false
 ---
 
@@ -33,7 +33,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-> ✨ Nguồn:  https://hoavouu.com/p16a12739/5/tac-thu-muoi-sau-nguoi-trong-co-cua-kinh-thanh
+> ✨ Nguồn:  https://hoavouu.com/p16a12737/5/tac-thu-muoi-bon-mot-loi-dung-cua-van-mon
 >
 > ✨ Nguồn:  https://quangduc.com/p1241a43257/6-tac-13-tac-16
 >
