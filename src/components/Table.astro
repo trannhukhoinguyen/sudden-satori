@@ -1,0 +1,88 @@
+---
+
+---
+
+<section class="table">
+
+<input type="text" id="searchInput" placeholder="Search table...">
+<table id="myTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>City</th>
+      <th>Age</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>John Doe</td>
+      <td>New York</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Jane Smith</td>
+      <td>London</td>
+      <td>25</td>
+    </tr>
+    <!-- More rows -->
+  </tbody>
+</table>
+
+</section>
+
+<style>
+.section {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.section #searchInput {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.section table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.section th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.section th {
+  background-color: #f2f2f2;
+}
+</style>
+
+<script is:inline>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('searchInput');
+  const table = document.getElementById('myTable');
+  const tr = table.getElementsByTagName('tr');
+
+  searchInput.addEventListener('keyup', function() {
+    const filter = searchInput.value.toUpperCase();
+
+    for (let i = 1; i < tr.length; i++) { // Start from 1 to skip table header
+      let rowVisible = false;
+      const td = tr[i].getElementsByTagName('td');
+      for (let j = 0; j < td.length; j++) {
+        const cell = td[j];
+        if (cell) {
+          const textValue = cell.textContent || cell.innerText;
+          if (textValue.toUpperCase().indexOf(filter) > -1) {
+            rowVisible = true;
+            break; // Found a match in this row, no need to check other cells
+          }
+        }
+      }
+      tr[i].style.display = rowVisible ? '' : 'none';
+    }
+  });
+});
+</script>
