@@ -91,10 +91,12 @@ export const CnMasters = [
   CnLv60MasterDb,
 ]
 
-export const AllMasters = [
+const AllMasters = [
   ...InMasters,
   ...CnMasters.flat(),
   ...JpMasters,
   ...ViMasters,
   ...KoMasters,
 ]
+
+export default AllMasters
