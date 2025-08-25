@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { AllMasters } from '../data/masters/AllMasterDb.jsx';
+import AllMasters from '../data/masters/AllMasterDb';
 import Table from '../components/Table.astro';
 
 const title = "Thiền sư";
@@ -39,7 +39,7 @@ const customizeAllMasters =
       <hr class="page-rule" />
     </header>
 
-    <Table data={ AllMasters } />
+    <Table data={ customizeAllMasters } />
 
   </div>
 </Layout>
