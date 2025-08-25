@@ -9,20 +9,27 @@ const pageDescription = "";
 
 const customizeAllMasters =
     AllMasters?.map(({
-                       id,
-                       reference,
-                       image,
-                       hasContent,
-                       youtubeId,
-                       worship_tower,
-                       records,
-                       place,
-                       other_name_vi,
-                       other_name_en,
-                       other_name_zh,
-                       other_name_jp,
+                       sect,
+                       country,
+                       teacher,
+                       epoch,
+                       nickname_vi,
+                       name_vi,
+                       name_en,
+                       name_zh,
+                       name_jp,
                        ...rest
-                     }) => ({ ...rest }));
+                     }) => ({ 
+                       sect,
+                       country,
+                       teacher,
+                       epoch,
+                       nickname_vi,
+                       name_vi,
+                       name_en,
+                       name_zh,
+                       name_jp, 
+                     }));
 ---
 
 <Layout title={titleFull} description={pageDescription}>
