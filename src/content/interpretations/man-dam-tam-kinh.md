@@ -1,5 +1,5 @@
 ---
-title: "MẠN ĐÀM TẠM KINH"
+title: "MẠN ĐÀM TÂM KINH"
 date: "2025-08-23"
 description: ""
 author: ""
@@ -9,22 +9,22 @@ tags: ["Bát Nhã Tâm Kinh"]
 draft: false
 ---
 
-Tâm Kinh chỉ có 260 chữ cô đọng lại những giáo lý tinh túy trong kinh Đại Bát nhã trong đó có đủ tư tưởng đại thừa và Tiểu thừa phật giáo. 
-Trong số ngàn vạn quyển kinh, tâm kinh là bộ kinh chữ ít nhất, ý nghĩa sâu xa nhất. 
-Trong văn tự gọn gàng rõ rệt đó, đã nói lên lý Bát Nhã giai không, phủ định tất cả phân biệt tâm, đồng thời cũng chỉ bày ra tự tánh của con người, bổn Diệu chân thanh tịnh, có đủ tất cả trí huệ công đức.
-Phàm tất cả pháp trên cuộc đời này đều do chân tâm mà có, cho nên gọi là Tâm Kinh. 
+Tâm Kinh chỉ có 260 chữ cô đọng lại những giáo lý tinh túy trong Kinh **Đại Bát Nhã**, trong đó có đủ tư tưởng *Đại Thừa* và *Tiểu Thừa* Phật giáo. 
+Trong số ngàn vạn quyển kinh, **Tâm Kinh** là bộ kinh chữ ít nhất, ý nghĩa sâu xa nhất. 
+Trong văn tự gọn gàng rõ rệt đó, đã nói lên lý Bát Nhã giai không, phủ định tất cả phân biệt tâm, đồng thời cũng chỉ bày ra **tự tánh** của con người, *Bổn Diệu Chân Thanh Tịnh*, có đủ tất cả *Trí Huệ Công Đức*.
+Phàm tất cả pháp trên cuộc đời này đều do chân tâm mà có, cho nên gọi là **Tâm Kinh**. 
 
 (*Bát Nhã Tâm Kinh*)
 
 Trong 56 ức 7000 vạn dân trên thế giới hiện nay, chỉ có cực kỳ ít người là giác ngộ đạt đến sanh mạng chân lý tối cao, chúng ta tôn xưng là Phật. 
-Nơi mà các Ngài sống, chúng ta tạm thời gọi đó là Bỉ ngạn.
+Nơi mà các Ngài sống, chúng ta tạm thời gọi đó là *Bỉ ngạn (Bờ bên kia)*.
 
 Đại đa số còn lại nhận lầm sanh mạng thực tướng. Chúng sanh sống trong thế giới điên đảo mộng tưởng. 
-Thế giới mà họ đang sinh sống, chúng ta tạm thời gọi đó là Thử ngạn. 
+Thế giới mà họ đang sinh sống, chúng ta tạm thời gọi đó là *Thử ngạn (Bờ bên này)*. 
 
-Những người bình phàm sống trong Thử ngạn, họ có cái ta chủ quan. Họ sống bất cứ nơi nào cũng giống như một cây kim rơi vào trong thùng nước, vĩnh viễn chấp tự ngã, không chịu dung nhập vào trong nước. 
+Những người bình phàm sống trong Thử ngạn, họ có *Cái Ta* chủ quan. Họ sống bất cứ nơi nào cũng giống như một cây kim rơi vào trong thùng nước, vĩnh viễn chấp *Tự Ngã*, không chịu dung nhập vào trong nước. 
 Có ta tức là có phía đối đãi bên ngoài, tốt xấu quý tiện. 
-Có ta ắt là có người, xuyên qua công cụ nhận thức của mình, nhãn nhĩ tỷ thiệt thân ý, tiếp thụ thế giới bên ngoài những tư liệu học được, Sắc - Thanh - Hương - Vị - Xúc - Pháp. 
+Có *Ta* ắt là có *Người*, xuyên qua công cụ nhận thức của mình, nhãn nhĩ tỷ thiệt thân ý, tiếp thụ thế giới bên ngoài những tư liệu học được, **Sắc - Thanh - Hương - Vị - Xúc - Pháp**. 
 Do đó, những tư liệu này thâm nhập vào trong thế giới nội tâm của họ. 
 Sau khi đưa tin vào trong bộ não, trước hết, cất vào trong trung tâm tư liệu và tiến hành so sánh. 
 Dùng tư liệu vốn có và tư liệu mới đem ra so sánh, thêm vào cái cải biến của mình, cảm tình tiêu chuẩn phân tích, suy lý, quyết đoán. 

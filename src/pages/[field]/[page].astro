@@ -64,7 +64,7 @@ const { flatTags } = tagsData;
 
     {posts.length > 0 ? (
         <div class="posts-list">
-          {posts.slice(0, config.postsPerPage).map((post: any) => {
+          {posts.slice((page-1)*config.postsPerPage, page*config.postsPerPage).map((post: any) => {
             const rawContent = post.body || post.rawContent?.() || '';
             const plainText = extractTextFromMarkdown(rawContent);
             const readingTime = calculateReadingTime(plainText);
