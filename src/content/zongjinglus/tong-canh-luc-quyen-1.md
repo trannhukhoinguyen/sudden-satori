@@ -1,14 +1,10 @@
 ---
 title: "Tông Cảnh Lục - Quyển 1"
-date: "2024-10-24"
+date: "2025-08-02"
 description: ""
-author: "Thiền sư Diên Thọ"
-audioUrls: [
-  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
-]
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
+author: "TS Vĩnh Minh Diên Thọ"
 categories: ["Luận"]
-tags: ["Tông Cảnh Lục"]
+tags: ["Tông Cảnh Lục", "TS VĨNH MINH DIÊN THỌ"]
 draft: false
 ---
 

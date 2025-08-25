@@ -148,6 +148,20 @@ const remedies  = defineCollection({
   }),
 });
 
+const speeches  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/speeches" }),
+  schema: z.object({
+    type: z.string().default('poem'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    author: z.array(z.string()).default(['Danh Y']),
+  }),
+});
+
 export const collections = {
-  blogs, books, zongjinglus, koans, sutras, interpretations, practices, poems, remedies,
+  blogs, books, zongjinglus, koans, sutras, interpretations, practices, poems, remedies, speeches,
 };

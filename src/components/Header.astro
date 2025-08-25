@@ -31,15 +31,17 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           <li><a href={base + "interpretations"} class="nav-link">Luận giải</a></li>
           <li><a href={base + "koans"} class="nav-link">🪨 Công án</a></li>
           <li><a href={base + "practices"} class="nav-link">Thực hành</a></li>
-          <li><a href={base + "blogs"} class="nav-link">Đọc thêm</a></li>
+          <li><a href={base + "speeches"} class="nav-link">Ngữ Lục</a></li>
           <li>
             <select id="nav-select" class="nav-select" aria-label="Main navigation">
               <option value="" disabled selected hidden>Khác</option>
               <option value={base + "categories"}>Categories</option>
               <option value={base + "tags"}>Tags</option>
               <option value={base + "authors"}>Tác giả</option>
+              <option value={base + "blogs"}>Đọc thêm</option>
               <option value={base + "zongjinglus"}>Tông Cảnh Lục</option>
               <option value={base + "poems"}>Thơ Thiền</option>
+              <option value={base + "remedies"}>Phương thuốc</option>
             </select>
           </li>
         </ul>
@@ -74,6 +76,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "authors"} class="mobile-nav-link">Tác giả</a></li>
     <li><a href={base + "zongjinglus"} class="mobile-nav-link">Tông Cảnh Lục</a></li>
     <li><a href={base + "poems"} class="mobile-nav-link">Thơ Thiền</a></li>
+    <li><a href={base + "speeches"} class="mobile-nav-link">Ngữ Lục</a></li>
+    <li><a href={base + "remedies"} class="mobile-nav-link">Phương thuốc</a></li>
   </ul>
 </nav>
 
