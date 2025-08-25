@@ -17,7 +17,14 @@ const sortedContributorsDb = contributorsDb
         }));
 const customizeSortedContributorsDb =
     sortedContributorsDb?.map(({
-                         id, name, hiddenDonation, totalDonation,
+                         id, 
+                         name, 
+                         hiddenDonation, 
+                         totalDonation,
+                         place,
+                         avatar,
+                         description,
+                         relatedOrganization,
                          ...rest
                      }) => ({ ...rest }));
 ---
