@@ -3,7 +3,6 @@ title: "HOA SEN CỦA TRÍ MÔN"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRÍ MÔN QUANG TỘ"]
 draft: false

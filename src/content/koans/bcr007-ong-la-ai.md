@@ -3,7 +3,6 @@ title: "HUỆ SIÊU HỎI VỀ PHẬT"
 date: "2025-08-21"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHÁP NHÃN VĂN ÍCH", "TS HUỆ SIÊU"]
 draft: false

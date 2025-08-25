@@ -3,7 +3,6 @@ title: "HẠT GẠO CỦA TUYẾT PHONG"
 date: "2025-08-04"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TUYẾT PHONG NGHĨA TỒN"]
 draft: false

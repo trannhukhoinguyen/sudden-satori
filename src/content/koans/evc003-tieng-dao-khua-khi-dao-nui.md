@@ -3,7 +3,6 @@ title: "VÂN NHAM DẠO NÚI"
 date: "2025-08-21"
 description: ""
 excerpt: ""
-author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS DƯỢC SƠN DUY NGHIỄM", "TS VÂN NHAM ĐÀM THẠNH"]
 draft: false

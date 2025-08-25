@@ -1,61 +1,59 @@
 ---
-
+const { data } = Astro.props;
 ---
 
 <section class="table">
-
-<input type="text" id="searchInput" placeholder="Search table...">
-<table id="myTable">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>City</th>
-      <th>Age</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>John Doe</td>
-      <td>New York</td>
-      <td>30</td>
-    </tr>
-    <tr>
-      <td>Jane Smith</td>
-      <td>London</td>
-      <td>25</td>
-    </tr>
-    <!-- More rows -->
-  </tbody>
-</table>
-
+  <input type="text" id="searchInput" placeholder="Search table...">
+  <table id="myTable">
+    <thead>
+      <tr>
+        { Object.keys(data[0])?.map((key: string) => <th>{key.toUpperCase()}</th>) }
+      </tr>
+    </thead>
+    <tbody>
+      {
+        data?.map((tr: any) => <tr>
+            { Object.values(tr)?.map((value: any) => <td>{value}</td>) }
+          </tr>
+        )
+      }
+    </tbody>
+  </table>
 </section>
 
 <style>
-.section {
+.table {
+  position: relative;
   font-family: sans-serif;
   padding: 20px;
+  overflow: scroll;
 }
 
-.section #searchInput {
-  width: 100%;
+#myTable {
+  margin-top: 48px;
+  overflow: scroll;
+}
+
+.table #searchInput {
+  position: fixed;
+  //width: 100%;
   padding: 8px;
-  margin-bottom: 10px;
   box-sizing: border-box;
 }
 
-.section table {
+.table table {
   width: 100%;
   border-collapse: collapse;
 }
 
-.section th, td {
-  border: 1px solid #ddd;
+.table th, td {
+  border: 1px solid var(--color-border);
   padding: 8px;
   text-align: left;
 }
 
-.section th {
-  background-color: #f2f2f2;
+.table th {
+  background-color: var(--color-background);
 }
 </style>
 

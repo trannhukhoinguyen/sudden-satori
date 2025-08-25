@@ -1,6 +1,6 @@
 ---
 title: "QUẢNG NGỮ THIỀN SƯ DANH TIẾNG CÁC NƠI"
-date: "2025-08-02"
+date: "2025-08-25"
 description: "NGỮ LỤC ĐẶC BIỆT CỦA 11 THIỀN SƯ"
 author: "11 THIỀN SƯ"
 categories: ["Ngữ Lục"]

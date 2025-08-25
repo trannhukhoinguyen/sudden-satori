@@ -3,7 +3,6 @@ title: "LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA"
 date: "2025-08-23"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LONG NHA CƯ ĐỘN"]
 draft: false

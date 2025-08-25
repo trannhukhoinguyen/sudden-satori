@@ -3,7 +3,6 @@ title: "NGƯỜI TRONG CỎ CỦA KÍNH THANH"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS KÍNH THANH ĐẠO PHÓ"]
 draft: false

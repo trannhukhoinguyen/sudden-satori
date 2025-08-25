@@ -2,7 +2,7 @@
 title: "Vạn Pháp Quy Tâm Lục"
 date: "2025-08-09"
 description: ""
-author: "TS. Tổ Nguyên Siêu Minh"
+author: ["TS. Tổ Nguyên Siêu Minh"]
 audioUrls: [
   "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
 ]

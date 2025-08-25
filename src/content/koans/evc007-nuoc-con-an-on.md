@@ -3,7 +3,6 @@ title: "NƯỚC CON AN ỔN"
 date: "2025-08-21"
 description: ""
 excerpt: ""
-author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS SA DI CAO", "TS DƯỢC SƠN DUY NGHIỄM"]
 draft: false

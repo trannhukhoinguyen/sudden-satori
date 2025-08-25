@@ -3,7 +3,6 @@ title: "KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS HOÀNG BÁ HY VẬN"]
 draft: false

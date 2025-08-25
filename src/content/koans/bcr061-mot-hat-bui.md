@@ -3,7 +3,6 @@ title: "MỘT HẠT BỤI CỦA PHONG HUYỆT"
 date: "2025-08-21"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHONG HUYỆT DIÊN CHIỂU"]
 draft: false

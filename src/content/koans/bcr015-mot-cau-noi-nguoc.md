@@ -3,7 +3,6 @@ title: "MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS "]
 draft: false

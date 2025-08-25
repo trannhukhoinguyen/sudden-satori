@@ -1,11 +1,10 @@
 ---
-title: "CỦ CẢI CỦA TRIỆU CHÂU"
+title: "HỎA KIẾP CỦA ĐẠI TÙY"
 date: "2025-08-21"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
+tags: ["BÍCH NHAM LỤC", "TS ĐẠI TÙY PHÁP CHÂN"]
 draft: false
 ---
 
@@ -33,7 +32,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-> ✨ Nguồn: https://hoavouu.com/p16a12754/5/tac-thu-ba-muoi-cu-cai-cua-trieu-chau
+> ✨ Nguồn: https://hoavouu.com/p16a12753/5/tac-thu-hai-muoi-chin-hoa-kiep-cua-dai-tuy
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43261/10-tac-26-tac-30
 >
@@ -45,6 +44,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm:
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-dai-tuy-phap-chan/" target="_blank">TS ĐẠI TÙY PHÁP CHÂN</a>
 
 

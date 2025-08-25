@@ -3,7 +3,6 @@ title: "CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU"
 date: "2025-06-14"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
 draft: false

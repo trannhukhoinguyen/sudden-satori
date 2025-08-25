@@ -3,7 +3,6 @@ title: "LIÊN HOA TRỤ TRƯỢNG"
 date: "2025-08-23"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LIÊN HOA PHONG TƯỜNG"]
 draft: false

@@ -3,7 +3,6 @@ title: "THÚY NHAM DẠY ĐỒ CHÚNG CUỐI HẠ"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS THÚY NHAM LINH THAM"]
 draft: false

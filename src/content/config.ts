@@ -26,7 +26,7 @@ const books = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().default('Zen master'),
+    author: z.array(z.string()).default(['Zen master']),
     image: z.string().optional(),
   }),
 });
@@ -55,7 +55,6 @@ const koans  = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().default('Zen master'),
     image: z.string().optional(),
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
@@ -158,7 +157,7 @@ const speeches  = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.array(z.string()).default(['Danh Y']),
+    author: z.string().default('Zen master'),
   }),
 });
 

@@ -3,7 +3,6 @@ title: "CHẲNG NHỮNG TÀO KHÊ"
 date: "2025-08-07"
 description: ""
 excerpt: ""
-author: "TS. Đầu Tử Nghĩa Thanh (投子義清)"
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ"]
 draft: false

@@ -1,9 +1,25 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import DashBoard from "../components/DashBoard.astro";
+import Table from "../components/Table.astro";
+import contributorsDb from '../data/contributorsDb';
 
 const title = 'Danh sách đóng góp';
 const description = ``;
+
+const sortedContributorsDb = contributorsDb
+    .sort((a, b) => {
+        return new Date(b.time).getTime() - new Date(a.time).getTime();
+    })
+    .map(ctb =>
+        ({
+            ...ctb,
+            time: ctb.time.split(' ').join(' 🕛 '),
+        }));
+const customizeSortedContributorsDb =
+    sortedContributorsDb?.map(({
+                         id, name, hiddenDonation, totalDonation,
+                         ...rest
+                     }) => ({ ...rest }));
 ---
 
 <Layout title={title} description={description}>
@@ -14,7 +30,8 @@ const description = ``;
         </header>
 
         <div class="content-section">
-            <DashBoard />
+            <Table data={customizeSortedContributorsDb} />
         </div>
     </div>
 </Layout>
+

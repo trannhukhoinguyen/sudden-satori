@@ -3,7 +3,6 @@ title: "QUI SƠN VÀ LƯU THIẾT MA"
 date: "2025-08-21"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS QUI SƠN LINH HỰU", "TS LƯU THIẾT MA"]
 draft: false

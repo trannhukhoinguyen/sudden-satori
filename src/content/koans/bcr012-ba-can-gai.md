@@ -3,7 +3,6 @@ title: "BA CÂN GAI CỦA ĐỘNG SƠN"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐỘNG SƠN LƯƠNG GIỚI"]
 draft: false

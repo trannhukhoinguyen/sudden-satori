@@ -1,9 +1,8 @@
 ---
 title: "CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG"
-date: "2025-08-21"
+date: "2025-08-25"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÁCH TRƯỢNG DUY CHÍNH", "TS NIẾT BÀN"]
 draft: false

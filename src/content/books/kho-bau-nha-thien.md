@@ -4,7 +4,7 @@ description: ""
 date: "2025-06-12"
 categories: ["Sách"]
 tags: ["Kho báu"]
-author: "Thiền sư Văn Thủ"
+author: ["Thiền sư Văn Thủ"]
 draft: false
 ---
 

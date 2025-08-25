@@ -3,7 +3,6 @@ title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ"
 date: "2000-01-01"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "Tổ BỒ ĐỀ ĐẠT MA"]
 draft: false

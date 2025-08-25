@@ -3,7 +3,6 @@ title: "NGÓN TAY THIỀN CỦA CÂU CHI"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS CÂU CHI"]
 draft: false

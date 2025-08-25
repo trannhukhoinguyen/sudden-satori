@@ -3,7 +3,6 @@ title: "NGÔI THÁP KHÔNG ĐƯỜNG VÁ (THÁP VÔ PHÙNG)"
 date: "2025-08-22"
 description: "TÚC TÔNG THỈNH PHÁP"
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "HĐ TÚC TÔNG", "TS NAM DƯƠNG HUỆ TRUNG", "THÁP VÔ PHÙNG"]
 draft: false

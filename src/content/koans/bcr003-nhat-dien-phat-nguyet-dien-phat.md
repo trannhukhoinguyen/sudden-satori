@@ -3,7 +3,6 @@ title: "MÃ SƯ BẤT AN"
 date: "2025-06-14"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MÃ TỔ ĐẠO NHẤT"]
 draft: false

@@ -3,7 +3,6 @@ title: "VIÊN NGỌC CỦA VÂN MÔN"
 date: "2025-08-23"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
 draft: false

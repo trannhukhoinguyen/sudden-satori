@@ -3,7 +3,6 @@ title: "ĐỨC SƠN MANG BAO HÀNH TRANG"
 date: "2025-08-04"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐỨC SƠN TUYÊN GIÁM"]
 draft: false

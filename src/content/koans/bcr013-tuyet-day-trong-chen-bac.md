@@ -3,7 +3,6 @@ title: "CHÉN BẠC CỦA BA LĂNG"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BA LĂNG HẠO GIÁM"]
 draft: false

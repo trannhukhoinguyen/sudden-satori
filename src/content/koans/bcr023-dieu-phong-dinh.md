@@ -3,7 +3,6 @@ title: "DIỆU PHONG ĐỈNH CỦA BẢO PHÚC"
 date: "2025-08-22"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BẢO PHÚC TÙNG TRIỂN", "TS TRƯỜNG KHÁNH HUỆ LĂNG"]
 draft: false

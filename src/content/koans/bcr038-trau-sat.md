@@ -3,7 +3,6 @@ title: "TRÂU SẮT CỦA PHONG HUYỆT"
 date: "2025-08-23"
 description: ""
 excerpt: ""
-author: "TS. Viên Ngộ Khắc Cần (Phật Quả)"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS "]
 draft: false
