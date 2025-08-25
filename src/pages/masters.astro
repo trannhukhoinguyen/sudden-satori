@@ -6,6 +6,23 @@ import Table from '../components/Table.astro';
 const title = "Thiền sư";
 const titleFull = title + " | Sudden Satori";
 const pageDescription = "";
+
+const customizeAllMasters =
+    AllMasters?.map(({
+                       id,
+                       reference,
+                       image,
+                       hasContent,
+                       youtubeId,
+                       worship_tower,
+                       records,
+                       place,
+                       other_name_vi,
+                       other_name_en,
+                       other_name_zh,
+                       other_name_jp,
+                       ...rest
+                     }) => ({ ...rest }));
 ---
 
 <Layout title={titleFull} description={pageDescription}>
