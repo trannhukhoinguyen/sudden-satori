@@ -4,7 +4,7 @@ date: "2000-01-01"
 description: ""
 excerpt: ""
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "Tổ BỒ ĐỀ ĐẠT MA"]
+tags: ["BÍCH NHAM LỤC", "Tổ BỒ ĐỀ ĐẠT MA", "TS BẢO CHÍ CÔNG"]
 draft: false
 ---
 
@@ -180,3 +180,7 @@ Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ton-gia-bo-de-dat-ma/" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
 
 ⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">Phim về Tổ BỒ ĐỀ ĐẠT MA</a>
+
+[^2]: ⭐️  <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
+
+http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355

@@ -1,6 +1,6 @@
 ---
 title: "PHẬT PHÁP ĐẠI Ý CỦA LÂM TẾ"
-date: "2025-08-22"
+date: "2025-08-26"
 description: ""
 excerpt: ""
 categories: ["Công án"]
@@ -38,7 +38,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
+> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
 ***
 

@@ -4,7 +4,7 @@ date: "2025-08-22"
 description: ""
 excerpt: ""
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS NAM TUYỀN PHỔ NGUYỆN", "TS NAM TUYỀN PHỔ NGUYỆN", "TS NAM TUYỀN PHỔ NGUYỆN", "TS NAM TUYỀN PHỔ NGUYỆN"]
+tags: ["BÍCH NHAM LỤC", "TS LƯƠNG VŨ ĐẾ", "TS PHÓ ĐẠI SĨ", "TS BẢO CHÍ CÔNG"]
 draft: false
 ---
 
@@ -16,15 +16,15 @@ draft: false
 
 *Lương Vũ Đế* [^1] mời *Phó Đại Sĩ* [^2] giảng Kinh Kim Cương. 
 
-Phó Đại Sĩ đứng trên tòa lay bàn một cái rồi xuống khỏi tòa. 
+*Phó Đại Sĩ* đứng trên tòa lay bàn một cái rồi xuống khỏi tòa. 
 
-Vũ Đế* ngạc nhiên.
+*Vũ Đế* ngạc nhiên.
 
 *Chí Công* [^3] hỏi, “Bệ hạ hiểu chứ?” 
 
-Vũ Đế nói, “Không hiểu.” 
+*Vũ Đế* nói, “Không hiểu.” 
 
-Chí Công nói, “Đại Sĩ đã giảng xong kinh rồi.”
+*Chí Công* nói, “*Đại Sĩ* đã giảng xong kinh rồi.”
 
 ## BÌNH
 
@@ -154,7 +154,7 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 >
 > ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-07
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
+> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
 ***
 
@@ -164,4 +164,6 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 
 [^2]: ⭐️  <a href="https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_Hu%E1%BB%87" target="_blank">PHÓ ĐẠI SĨ</a>
 
-[^3]: ⭐️  <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">CHÍ CÔNG</a>
+[^3]: ⭐️  <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
+
+http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355

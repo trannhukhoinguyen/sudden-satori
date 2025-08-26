@@ -9,27 +9,27 @@ const pageDescription = "";
 
 const customizeAllMasters =
     AllMasters?.map(({
-                       sect,
-                       country,
-                       teacher,
-                       epoch,
-                       nickname_vi,
-                       name_vi,
-                       name_en,
-                       name_zh,
-                       name_jp,
-                       ...rest
-                     }) => ({ 
-                       sect,
-                       country,
-                       teacher,
-                       epoch,
-                       nickname_vi,
-                       name_vi,
-                       name_en,
-                       name_zh,
-                       name_jp, 
-                     }));
+     sect,
+     country,
+     teacher,
+     epoch,
+     nickname_vi,
+     name_vi,
+     name_en,
+     name_zh,
+     name_jp,
+     ...rest
+   }) => ({
+    name_vi,
+    nickname_vi,
+    name_en,
+    name_zh,
+    name_jp,
+    sect,
+    country,
+    teacher,
+    epoch,
+   }));
 ---
 
 <Layout title={titleFull} description={pageDescription}>

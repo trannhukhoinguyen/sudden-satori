@@ -406,7 +406,7 @@ const CnLv3MasterDb = [
     name_ja: 'Shōkei Eki',
     name_zh: '章敬懷暉',
     name_vi: 'Chương Kính Hoài Huy',
-    other_name_vi: 'Hoài Uẩn',
+    other_name_vi: 'Chương Kỉnh, Hoài Uẩn',
     nickname_vi: 'Đại Giác',
     worship_tower: '',
     birth_death_time: ['754/756', '815'],
