@@ -8,35 +8,39 @@ const titleFull = title + " | Sudden Satori";
 const pageDescription = "";
 
 const customizeAllMasters =
-    AllMasters?.map(({
-     sect,
-     country,
-     teacher,
-     epoch,
-     nickname_vi,
-     name_vi,
-     name_en,
-     name_zh,
-     name_jp,
-     ...rest
-   }) => ({
-    name_vi,
-    nickname_vi,
-    name_en,
-    name_zh,
-    name_jp,
-    sect,
-    country,
-    teacher,
-    epoch,
-   }));
+    AllMasters
+        ?.map(({
+           sect,
+           country,
+           teachers,
+           epoch,
+           nickname_vi,
+           name_vi,
+           name_en,
+           name_zh,
+           name_jp,
+           ...rest
+         }) => ({
+                      name_vi,
+                      nickname_vi,
+                      name_en,
+                      name_zh,
+                      name_jp,
+                      sect,
+                      country,
+                      teachers,
+                      epoch,
+                     })
+          );
 ---
 
 <Layout title={titleFull} description={pageDescription}>
-  <div class="about-page">
+  <div class="master-page">
     <header class="page-header">
       <h1 class="page-title">Thiền sư</h1>
       <hr class="page-rule" />
+      <p>🌸: truyền thừa cả 5 tông phái</p>
+      <p>🌟: có nhiều sư phụ truyền thừa</p>
     </header>
 
     <Table data={ customizeAllMasters } />
@@ -45,7 +49,7 @@ const customizeAllMasters =
 </Layout>
 
 <style>
-  .about-page {
+  .master-page {
     max-width: 800px;
     margin: 0 auto;
   }
@@ -72,163 +76,5 @@ const customizeAllMasters =
     border: none;
     width: 120px;
     margin: 0 auto;
-  }
-
-  .author-section {
-    text-align: center;
-    margin-bottom: calc(var(--grid-unit) * 10);
-    padding: calc(var(--grid-unit) * 6) calc(var(--grid-unit) * 4);
-    background-color: var(--color-surface);
-    border-radius: calc(var(--grid-unit));
-  }
-
-  .author-avatar {
-    margin-bottom: calc(var(--grid-unit) * 3);
-  }
-
-  .author-avatar img {
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 4px solid var(--color-accent);
-  }
-
-  .avatar-placeholder {
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
-    border: 4px solid var(--color-accent);
-    background-color: var(--color-surface);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--color-medium-gray);
-    margin: 0 auto;
-  }
-
-  .author-name {
-    font-family: var(--font-heading-secondary);
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: var(--color-accent);
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    margin-bottom: calc(var(--grid-unit) * 2);
-  }
-
-  .author-bio {
-    font-size: 1.25rem;
-    line-height: 1.6;
-    color: var(--color-text-secondary);
-    max-width: 600px;
-    margin: 0 auto calc(var(--grid-unit) * 4);
-  }
-
-  .reference-links {
-    display: flex;
-    gap: calc(var(--grid-unit) * 3);
-    justify-content: center;
-    align-items: center;
-  }
-
-  .reference-links a {
-    color: var(--color-text-secondary);
-    transition: color 0.2s ease, transform 0.2s ease;
-  }
-
-  .reference-links a:hover {
-    color: var(--color-accent);
-    transform: translateY(-2px);
-  }
-
-  .compositions {
-    display: block;
-    gap: calc(var(--grid-unit) * 3);
-    justify-content: center;
-    align-items: center;
-  }
-
-  .social-icon {
-    width: 28px;
-    height: 28px;
-  }
-
-  .content-section {
-    line-height: 1.7;
-  }
-
-  .content-section h2 {
-    font-family: var(--font-heading-secondary);
-    font-size: 1.875rem;
-    font-weight: 700;
-    color: var(--color-accent);
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    margin-top: calc(var(--grid-unit) * 6);
-    margin-bottom: calc(var(--grid-unit) * 3);
-  }
-
-  .content-section p {
-    font-size: 1.125rem;
-    line-height: 1.6;
-    color: var(--color-text-primary);
-    margin-bottom: calc(var(--grid-unit) * 3);
-  }
-
-  .content-section ul {
-    margin: calc(var(--grid-unit) * 2) 0;
-    padding-left: calc(var(--grid-unit) * 3);
-  }
-
-  .content-section li {
-    margin-bottom: calc(var(--grid-unit) * 2);
-    font-size: 1.125rem;
-    line-height: 1.6;
-  }
-
-  .content-section strong {
-    color: var(--color-text-primary);
-  }
-
-  @media (max-width: 768px) {
-    .page-title {
-      font-size: 2.5rem;
-    }
-
-    .author-section {
-      padding: calc(var(--grid-unit) * 4) calc(var(--grid-unit) * 3);
-    }
-
-    .author-name {
-      font-size: 2rem;
-    }
-
-    .author-bio {
-      font-size: 1.125rem;
-    }
-
-    .author-avatar img {
-      width: 120px;
-      height: 120px;
-    }
-
-    .avatar-placeholder {
-      width: 120px;
-      height: 120px;
-    }
-
-    .reference-links {
-      gap: calc(var(--grid-unit) * 2);
-    }
-
-    .content-section h2 {
-      font-size: 1.5rem;
-    }
-
-    .content-section p,
-    .content-section li {
-      font-size: 1rem;
-    }
   }
 </style>
