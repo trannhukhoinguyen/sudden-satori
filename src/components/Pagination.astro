@@ -3,50 +3,105 @@ import { configNew as config } from "../config";
 const { category, page, totalPages } = Astro.props;
 
 const categoryName = config.categoryNames[category] || category;
+
+// Giới hạn số trang hiển thị
+const delta = 2;
+const start = Math.max(1, page - delta);
+const end = Math.min(totalPages, page + delta);
+
+let pages: number[] = [];
+for (let i = start; i <= end; i++) {
+    pages.push(i);
+}
 ---
+
 {totalPages > 1 && (
-    <nav class="pagination">
-        <ul class="pagination-list">
-            {Array.from({ length: totalPages }, (_, i) => i + 1).map((p) => (
-                    <li class={`pagination-item ${p === page ? "active" : ""}`}>
-                        <a href={`/${category}/${p === 1 ? "" : p}`} class="pagination-link" aria-label={`${categoryName} - Trang ${p}`}>
-                            {p}
-                        </a>
+<nav class="pagination" role="navigation" aria-label="Pagination Navigation">
+    <ul class="pagination-list">
+        {page > 1 && (
+                <li class="pagination-item">
+                    <a href={`/${category}/${page - 1 === 1 ? "" : page - 1}`} class="pagination-link">«</a>
+                </li>
+        )}
+
+        {start > 1 && (
+                <>
+                    <li class="pagination-item">
+                        <a href={`/${category}`} class="pagination-link">1</a>
                     </li>
-            ))}
-        </ul>
-    </nav>
-)}
+                    {start > 2 && <li class="pagination-ellipsis">…</li>}
+                </>
+        )}
+
+        {pages.map((p) => (
+                <li class={`pagination-item ${p === page ? "active" : ""}`}>
+                    <a
+                            href={`/${category}/${p === 1 ? "" : p}`}
+                            class="pagination-link"
+                            aria-label={`${categoryName} - Trang ${p}`}
+                    >
+                        {p}
+                    </a>
+                </li>
+        ))}
+
+        {end < totalPages && (
+                <>
+                    {end < totalPages - 1 && <li class="pagination-ellipsis">…</li>}
+                    <li class="pagination-item">
+                        <a href={`/${category}/${totalPages}`} class="pagination-link">{totalPages}</a>
+                    </li>
+                </>
+            )}
+
+        {page < totalPages && (
+                <li class="pagination-item">
+                    <a href={`/${category}/${page + 1}`} class="pagination-link">»</a>
+                </li>
+        )}
+    </ul>
+</nav>
+        )}
 
 <style>
-.pagination {
-    display: flex;
-    justify-content: center;
-    margin-top: 2rem;
-}
+    .pagination {
+        display: flex;
+        justify-content: center;
+        margin-top: 2rem;
+        overflow-x: auto;
+    }
 
-.pagination-list {
-    display: flex;
-    gap: 0.5rem;
-    list-style: none;
-    padding: 0;
-}
+    .pagination-list {
+        display: flex;
+        gap: 0.25rem;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
 
-.pagination-item {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-}
+    .pagination-item {
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        flex-shrink: 0; /* tránh co khi scroll ngang */
+    }
 
-.pagination-link {
-    display: block;
-    padding: 0.5rem 0.75rem;
-    text-decoration: none;
-    color: #333;
-}
+    .pagination-link {
+        display: block;
+        padding: 0.5rem 0.75rem;
+        text-decoration: none;
+        color: #333;
+    }
 
-.pagination-item.active .pagination-link {
-    background: #333;
-    color: #fff;
-    font-weight: bold;
-}
+    .pagination-item.active .pagination-link {
+        background: #333;
+        color: #fff;
+        font-weight: bold;
+    }
+
+    .pagination-ellipsis {
+        display: flex;
+        align-items: center;
+        padding: 0 0.5rem;
+        color: #777;
+    }
 </style>
