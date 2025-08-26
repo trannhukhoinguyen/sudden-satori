@@ -1,0 +1,57 @@
+---
+import { getSortedPostsByType } from "../utils/getMarkdownContent";
+
+const { category, slug } = Astro.params;
+
+// ✅ Lấy tất cả posts trong collection
+const posts = getSortedPostsByType(category);
+
+// ✅ Tìm post hiện tại
+const currentIndex = posts.findIndex(
+    (p: any) => p.file.split("/").pop()?.replace(/\.mdx?$/, "") === slug
+);
+
+if (currentIndex === -1) {
+    throw new Error(`Post with slug "${slug}" not found in category "${category}"`);
+}
+
+const post = posts[currentIndex];
+
+// ✅ Prev / Next
+const prevPost = currentIndex > 0 ? posts[currentIndex - 1] : null;
+const nextPost = currentIndex < posts.length - 1 ? posts[currentIndex + 1] : null;
+---
+
+<!-- ✅ Prev / Next Navigation -->
+<nav class="prev-next-navigation">
+    {prevPost && (
+            <a href={`/${category}/${prevPost.file.split("/").pop()?.replace(/\.mdx?$/, "")}`} class="prev-post">
+                ← {prevPost.frontmatter.title}
+            </a>
+    )}
+    {nextPost && (
+            <a href={`/${category}/${nextPost.file.split("/").pop()?.replace(/\.mdx?$/, "")}`} class="next-post">
+                {nextPost.frontmatter.title} →
+            </a>
+    )}
+</nav>
+
+<style>
+    .prev-next-navigation {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 2rem;
+        padding-top: 1rem;
+        border-top: 1px solid #ddd;
+    }
+
+    .prev-post, .next-post {
+        color: #0070f3;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    .prev-post:hover, .next-post:hover {
+        text-decoration: underline;
+    }
+</style>

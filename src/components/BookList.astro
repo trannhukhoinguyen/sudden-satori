@@ -1,6 +1,7 @@
 ---
 import "../styles/additional/BookList.css"
 import { bookViDb, bookEnDb} from "../data/bookDb";
+import AnimatedSunriseSunset from '@/components/AnimatedSunriseSunset.astro';
 
 const books = [
     ...bookViDb,
@@ -225,6 +226,9 @@ const booksOther = books?.filter(book => !book.type);
       }
     </div>
   </div>
+
+  <AnimatedSunriseSunset zIndex="-1" />
+
 </div>
 
 <script lang="ts">

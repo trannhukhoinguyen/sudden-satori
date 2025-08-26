@@ -1,8 +1,8 @@
 ---
-
+const { zIndex } = Astro.props;
 ---
 
-<div class="sky">
+<div class="sky" style=`z-index: ${zIndex}`>
     <div class="sky__phase sky__dawn"></div>
     <div class="sky__phase sky__noon"></div>
     <div class="sky__phase sky__dusk"></div>

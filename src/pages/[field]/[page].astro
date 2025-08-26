@@ -19,12 +19,13 @@ export async function getStaticPaths() {
         posts,
         page: i + 1,
         totalPages,
+        pageNum: parseInt(String(i + 1)),
       },
     }));
   });
 }
 
-const { collection, posts, page, totalPages } = Astro.props;
+const { collection, posts, page, totalPages, pageNum } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const prefix = `Danh sách`;
 const title = config.categoryNames[collection];
@@ -102,7 +103,7 @@ const { flatTags } = tagsData;
           })}
         </div>
 
-        <Pagination currentPage={page} totalPages={totalPages} category={collection} />
+        <Pagination page={pageNum} totalPages={totalPages} category={collection} />
     ) : (
         <div class="no-posts">
           <p>Chưa có Bài viết nào.</p>
