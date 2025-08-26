@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import rules from '@/data/rules.ts';
 import principles from '@/data/principles.ts';
 import gates from '@/data/gates.ts';
+import AnimatedSunriseSunset from '@/components/AnimatedSunriseSunset.astro';
 
 const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
@@ -164,6 +165,9 @@ const description = "Xem " + title;
       </div>
     </section>
   </div>
+
+  <AnimatedSunriseSunset />
+
 </Layout>
 
 <style>
