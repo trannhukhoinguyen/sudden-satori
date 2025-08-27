@@ -52,7 +52,7 @@ Còn về ý nghĩa những lời nói của thầy, ông vẫn chẳng hiểu c
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-cuu-phong-dao-kien/" target="_blank">TS CỬU PHONG ĐẠO KIỀN</a>
 

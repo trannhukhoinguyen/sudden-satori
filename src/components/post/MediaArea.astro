@@ -1,18 +1,18 @@
 ---
-import LogoYoutube from "./LogoYoutube.astro";
+import LogoYoutube from "../LogoYoutube.astro";
 
-// Get the entry data
-const { entry } = Astro.props;
+// Get the frontmatter data
+const { frontmatter } = Astro.props;
 ---
 
 <div class="mb-8 space-y-6">
     {
-        entry?.videoUrl && (
+        frontmatter?.videoUrl && (
                     <div>
                         <div class="video-container">
                             <iframe
-                                src={entry.videoUrl}
-                                title={entry.title}
+                                src={frontmatter.videoUrl}
+                                title={frontmatter.title}
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen
                                 class="w-full h-full"
@@ -23,19 +23,19 @@ const { entry } = Astro.props;
     }
 
     <!--      {
-            entry?.audioUrl && (
+            frontmatter?.audioUrl && (
               <div>
                 <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
                 <audio controls class="w-full">
-                  <source src={entry.audioUrl} type="audio/mpeg">
+                  <source src={frontmatter.audioUrl} type="audio/mpeg">
                   Your browser does not support the audio element.
                 </audio>
               </div>
             )
           } -->
     {
-        entry?.audioUrls?.length &&
-            entry?.audioUrls?.map((url: any, index: any) => (
+        frontmatter?.audioUrls?.length &&
+            frontmatter?.audioUrls?.map((url: any, index: any) => (
                     <div class="audio-block">
                         {index === 0 ? <h3 class="audio-heading" title="Listen">🎧</h3> : ''}
                         <h4 class="audio-subheading" title={url}>{index + 1}</h4>

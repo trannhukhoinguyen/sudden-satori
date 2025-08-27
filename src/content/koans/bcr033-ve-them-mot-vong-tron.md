@@ -114,7 +114,7 @@ Nếu như người ta là một ông tăng, người ta hẳn sẽ không có k
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-family/ts-tran-thao/" target="_blank">THƯỢNG THƯ TRẦN THÁO</a>
 

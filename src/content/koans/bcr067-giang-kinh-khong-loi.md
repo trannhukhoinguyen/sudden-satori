@@ -158,7 +158,7 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://vi.wikipedia.org/wiki/L%C6%B0%C6%A1ng_V%C5%A9_%C4%90%E1%BA%BF" target="_blank">LƯƠNG VŨ ĐẾ</a>
 

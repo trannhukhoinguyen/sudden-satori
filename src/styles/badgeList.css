@@ -103,3 +103,27 @@
         grid-template-columns: 1fr;
     }
 }
+
+.badges-label {
+    font-family: var(--font-heading-secondary),serif;
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-primary);
+}
+.badge-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: calc(var(--grid-unit));
+}
+.badge {
+    background-color: var(--color-text-primary);
+    color: var(--color-surface);
+    padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-radius: 3px;
+}

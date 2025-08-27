@@ -1,0 +1,22 @@
+---
+import PostDateTime from "./PostDateTime.astro";
+import PostCategories from "./PostCategories.astro";
+import PostExcerpt from "./PostExcerpt.astro";
+
+const { post } = Astro.props;
+const { frontmatter } = post as any;
+---
+
+<header>
+  <h2 class="post-title">{frontmatter.title}</h2>
+
+  <div class="post-meta">
+    <PostDateTime post={post} />
+
+    <PostCategories frontmatter={frontmatter} />
+  </div>
+
+  <PostExcerpt frontmatter={frontmatter} />
+
+  <hr class="monumental-rule" />
+</header>

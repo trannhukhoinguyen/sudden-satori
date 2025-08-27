@@ -135,6 +135,6 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>

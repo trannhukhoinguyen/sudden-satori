@@ -206,7 +206,7 @@ Tụng bản lão tụng:
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-giap-son-thien-hoi/" target="_blank">TS GIÁP SƠN THIỆN HỘI</a>
 

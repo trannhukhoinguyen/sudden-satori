@@ -5,10 +5,9 @@ import rules from '@/data/rules.ts';
 import principles from '@/data/principles.ts';
 
 const { title, description, author, social } = config;
-const titleFull = title + " | Sudden Satori";
 ---
 
-<Layout title={`Giới thiệu | ${titleFull}`} description={description}>
+<Layout title={title} description={description}>
   <div class="about-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>

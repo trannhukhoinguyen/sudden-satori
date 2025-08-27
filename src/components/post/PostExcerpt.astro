@@ -1,0 +1,7 @@
+---
+const { frontmatter } = Astro.props;
+---
+
+{frontmatter.excerpt && (
+    <p class="post-excerpt">{frontmatter.excerpt}</p>
+)}

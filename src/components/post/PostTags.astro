@@ -1,0 +1,24 @@
+---
+import "@/styles/badgeList.css";
+
+const { frontmatter, showLabel = true, floatRight = false } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<div style={ floatRight ? 'float: right' : ''}>
+    {frontmatter.tags && frontmatter.tags.length > 0 && (
+            <div class="post-badges">
+                <div class="badge-list">
+                    {
+                        showLabel ? <span class="badges-label">Tags:</span> : ''
+                    }
+
+                    {
+                        frontmatter.tags.map((tag: string) => <a href={`${base}tags/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`}>
+                            <span class="badge">{tag}</span>
+                        </a>)
+                    }
+                </div>
+            </div>
+    )}
+</div>

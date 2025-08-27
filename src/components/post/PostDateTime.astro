@@ -1,0 +1,15 @@
+---
+import PostReadingTime from "./PostReadingTime.astro";
+
+const { post, locales = "vi-VN" } = Astro.props;
+const { frontmatter } = post as any;
+---
+
+<time datetime={frontmatter.date}>
+    {new Date(frontmatter.date).toLocaleDateString(locales, {
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+    })}
+    <PostReadingTime post={post} />
+</time>

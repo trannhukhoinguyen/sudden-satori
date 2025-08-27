@@ -3,6 +3,10 @@ import Layout from '../layouts/Layout.astro';
 import rules from '@/data/rules.ts';
 import principles from '@/data/principles.ts';
 import gates from '@/data/gates.ts';
+import PostExcerpt from "../components/post/PostExcerpt.astro";
+import PostCategories from "../components/post/PostCategories.astro";
+import PostDateTime from "../components/post/PostDateTime.astro";
+import PostTags from "../components/post/PostTags.astro";
 
 const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
@@ -12,14 +16,12 @@ const sortedPosts = allPosts
   .sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime())
   .slice(0, 3);
 
-const title = "Nhất Thiết Phật Ngữ Tâm";
-const path = "";
-const titleFull = title + " | Sudden Satori";
+const title = "Trang chủ";
 const description = "Xem " + title;
 ---
 
 <Layout
-    title={titleFull}
+    title={title}
     description={description}
     showSidebar={false}
 >
@@ -44,10 +46,10 @@ const description = "Xem " + title;
       <img src={'/images/backgrounds/buddha-sitting-lumbini-garden.jpg'} alt={'Buddha sitting at Lumbini garden'} />
     </section>
 
-    <!-- Demo Blog Section -->
+    <!-- Blog Section -->
     <section class="demo-section" id="demo">
       <div class="container">
-        <h2 class="section-title">Demo Blog</h2>
+        <h2 class="section-title">Blog</h2>
         <p class="demo-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
 
         {sortedPosts.length > 0 && (
@@ -59,27 +61,14 @@ const description = "Xem " + title;
                 </h3>
 
                 <div class="demo-post-meta">
-                  <time class="demo-post-date" datetime={post.frontmatter.date}>
-                    {new Date(post.frontmatter.date).toLocaleDateString('en-US', {
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric'
-                    })}
-                  </time>
-                  <span class="demo-post-reading-time">5 min read</span>
+                  <PostDateTime post={post} />
+
+                  <PostCategories frontmatter={post.frontmatter} showLabel={false} floatRight={true} />
                 </div>
 
-                {post.frontmatter.excerpt && (
-                  <p class="demo-post-excerpt">{post.frontmatter.excerpt}</p>
-                )}
+                <PostExcerpt frontmatter={post.frontmatter} />
 
-                {post.frontmatter.categories && (
-                  <div class="demo-post-badges">
-                    {post.frontmatter.categories.map((category: string) => (
-                      <span class="demo-badge">{category}</span>
-                    ))}
-                  </div>
-                )}
+                <PostTags frontmatter={post.frontmatter} />
               </article>
             ))}
           </div>
@@ -142,7 +131,9 @@ const description = "Xem " + title;
       <div class="container">
         <h2 class="section-title">Typography</h2>
         <p class="typography-description">
-          Ba cửa ải **Sơ Quan** 初關, **Trùng Quan** 重關, và **Mạt Hậu Lao Quan** 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của *Tổ Sư Thiền* (祖師禪) - *Thiền Tông*, liên quan mật thiết đến pháp tu *Tham Thoại Đầu* và *Giữ Nghi Tình*.
+          3 cửa ải <b>Sơ Quan</b> (初關), <b>Trùng Quan</b> (重關), và <b>Mạt Hậu Lao Quan</b> (末後牢關)
+          là những cột mốc then chốt trong tiến trình tu chứng của <b>Tổ Sư Thiền</b> (祖師禪) - <b>Thiền Tông</b>,
+          liên quan mật thiết đến pháp tu <b>Tham Thoại Đầu</b> và <b>Giữ Nghi Tình</b>.
         </p>
 
         <div class="typography-samples">

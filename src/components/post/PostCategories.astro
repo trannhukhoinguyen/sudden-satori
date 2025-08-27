@@ -1,0 +1,25 @@
+---
+import "@/styles/badgeList.css";
+
+const { frontmatter, showLabel = true, floatRight = false } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<div>
+    {frontmatter.categories && frontmatter.categories.length > 0 && (
+            <div class="post-badges">
+                <div class="badge-list" style={ floatRight ? 'float: right' : ''}>
+                    {
+                        showLabel ? <span class="badges-label">Categories:</span> : ''
+                    }
+
+                    {
+                        frontmatter.categories.map((category: string) => <a href={`${base}categories/${category.toLowerCase()}`}>
+                                    <span class="badge">{category}</span>
+                                </a>
+                        )
+                    }
+                </div>
+            </div>
+    )}
+</div>

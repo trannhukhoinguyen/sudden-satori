@@ -10,12 +10,13 @@ export interface SiteConfig {
     facebook?: string;
     youtube?: string;
     bookcase?: string;
+    bookcase2?: string;
   };
   siteUrl: string;
 }
 
 export const config: SiteConfig = {
-  title: "TỒ SƯ THIỀN - Đốn Ngộ",
+  title: "TỔ SƯ THIỀN",
   description: "Tổ Sư Thiền này là do đường lối chánh thức của Tổ Sư truyền xuống, gọi là tham thiền. " +
       "Tham thiền không phải là ngồi thiền, ngồi thiền cũng không phải là tham thiền. " +
       "Nhiều người lầm tưởng rằng ngồi thiền tức tham thiền kỳ thực tham thiền không cần ngồi cũng được. / " +
@@ -51,7 +52,8 @@ export const config: SiteConfig = {
   social: {
     facebook: "https://www.facebook.com/Nhohoivanhin/",
     youtube: "https://www.youtube.com/c/tongphongtosuthien",
-    bookcase: "https://pubhtml5.com/bookcase/wuxzq/"
+    bookcase: "https://pubhtml5.com/bookcase/wuxzq/",
+    bookcase2: "https://pubhtml5.com/bookcase/cunen/"
   },
   siteUrl: "https://sudden-satori.vercel.app"
 };

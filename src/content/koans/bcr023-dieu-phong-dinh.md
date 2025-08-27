@@ -58,7 +58,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-bao-phuc-tung-trien/" target="_blank">TS BẢO PHÚC TÙNG TRIỂN</a>
 

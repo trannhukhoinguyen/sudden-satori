@@ -1,11 +1,12 @@
 ---
-import type { Heading } from '../utils/table-of-contents';
+import type { Heading } from '../../utils/table-of-contents';
+import { extractHeadings, filterHeadingsForTOC } from "../../utils/table-of-contents";
 
-interface Props {
-  headings: Heading[];
-}
+const { post } = Astro.props;
 
-const { headings } = Astro.props;
+const rawContent = post.body || post.rawContent?.() || "";
+const allHeadings = extractHeadings(rawContent);
+const headings: Heading[] = filterHeadingsForTOC(allHeadings);
 ---
 
 {headings.length > 0 && (
@@ -112,19 +113,19 @@ const { headings } = Astro.props;
   // Add smooth scrolling and highlight active section
   document.addEventListener('DOMContentLoaded', () => {
     const tocLinks = document.querySelectorAll('.toc-link');
-    
+
     tocLinks.forEach(link => {
       link.addEventListener('click', (e) => {
         e.preventDefault();
         const targetId = link.getAttribute('href')?.slice(1);
         const targetElement = targetId ? document.getElementById(targetId) : null;
-        
+
         if (targetElement) {
           targetElement.scrollIntoView({
             behavior: 'smooth',
             block: 'start'
           });
-          
+
           // Update URL without jumping
           history.pushState(null, '', `#${targetId}`);
         }
@@ -140,7 +141,7 @@ const { headings } = Astro.props;
       entries.forEach(entry => {
         const id = entry.target.getAttribute('id');
         const tocLink = document.querySelector(`.toc-link[href="#${id}"]`);
-        
+
         if (tocLink) {
           if (entry.isIntersecting) {
             // Remove all active classes

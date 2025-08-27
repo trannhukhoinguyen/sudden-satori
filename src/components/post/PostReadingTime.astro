@@ -1,0 +1,11 @@
+---
+import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
+
+const { post } = Astro.props;
+
+const rawContent = post.body || post.rawContent?.() || "";
+const plainText = extractTextFromMarkdown(rawContent);
+const readingTime = calculateReadingTime(plainText);
+---
+
+<span class="post-reading-time">{readingTime}</span>

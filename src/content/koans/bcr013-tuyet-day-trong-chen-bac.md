@@ -42,7 +42,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-ba-lang-hao-giam/" target="_blank">TS BA LĂNG HẠO GIÁM</a>
 

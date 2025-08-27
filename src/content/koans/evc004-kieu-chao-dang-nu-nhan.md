@@ -106,6 +106,6 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-dao-ngo-vien-tri/" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>

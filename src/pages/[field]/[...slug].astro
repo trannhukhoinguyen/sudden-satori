@@ -1,38 +1,32 @@
 ---
 import "@/styles/post.css";
 import "@/styles/badgeList.css";
-import Layout from "../../layouts/Layout.astro";
-import TableOfContents from "../../components/TableOfContents.astro";
-import MediaArea from "../../components/MediaArea.astro";
-import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import { CONTENT_MAP } from "../../utils/getMarkdownContent";
-import { configNew as config } from "../../config";
-import { extractHeadings, filterHeadingsForTOC } from "../../utils/table-of-contents";
-import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
+import Layout from "../../layouts/Layout.astro";
+import TOC from "../../components/post/TOC.astro";
+import FloatingTOC from "../../components/post/FloatingTOC.astro";
+import MediaArea from "../../components/post/MediaArea.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import PostHeader from "../../components/post/PostHeader.astro";
+import PostTags from "../../components/post/PostTags.astro";
+import PostReadAll from "../../components/post/PostReadAll.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
       data.posts.map((post: any) => {
-        const rawContent = post.body || post.rawContent?.() || "";
-        const plainText = extractTextFromMarkdown(rawContent);
-        const readingTime = calculateReadingTime(plainText);
-        const allHeadings = extractHeadings(rawContent);
-        const tocHeadings = filterHeadingsForTOC(allHeadings);
         return {
           params: {
             field: collection,
             slug: post.file.split("/").pop()?.replace(/\.(md|mdx)$/, ""),
           },
-          props: { post, collection, readingTime, tocHeadings },
+          props: { post, collection },
         };
       })
   );
 }
 
-const { post, collection, readingTime, tocHeadings } = Astro.props;
-const categoryNames = config.categoryNames[collection];
+const { post, collection } = Astro.props;
 const { frontmatter, Content } = post as any;
-const base = import.meta.env.BASE_URL;
 ---
 
 <Layout
@@ -46,66 +40,29 @@ const base = import.meta.env.BASE_URL;
   <Breadcrumbs collection={collection} title={post.frontmatter.title} />
 
   <article class="blog-post">
-    <header>
-      <h2 class="post-title">{frontmatter.title}</h2>
+    <!-- ✅ PostHeader -->
+    <PostHeader post={post} />
 
-      <div class="post-meta">
-        <time datetime={frontmatter.date}>
-          {new Date(frontmatter.date).toLocaleDateString("vi-VN", {
-            year: "numeric",
-            month: "long",
-            day: "numeric",
-          })}
-          <span class="post-reading-time">{readingTime}</span>
-        </time>
-
-        {frontmatter.categories && frontmatter.categories.length > 0 && (
-            <div class="post-badges">
-              {
-                frontmatter.categories.map((category: string) => <a href={`${base}categories/${category.toLowerCase()}`}>
-                    <span class="badge">{category}</span>
-                  </a>
-                )
-              }
-            </div>
-        )}
-      </div>
-
-      {frontmatter.excerpt && (
-          <p class="post-excerpt">{frontmatter.excerpt}</p>
-      )}
-
-      <hr class="monumental-rule" />
-    </header>
-
-    <TableOfContents headings={tocHeadings} />
+    <!-- ✅ TOC -->
+    <TOC post={post} />
+    <FloatingTOC post={post} />
 
     <div class="post-content">
-      <MediaArea entry={frontmatter} />
+      <!-- ✅ Video, Audio -->
+      <MediaArea frontmatter={frontmatter} />
     </div>
 
     <div class="post-content">
+      <!-- ✅ Content -->
       <Content />
     </div>
   </article>
 
   <footer class="post-footer">
-    {frontmatter.tags && frontmatter.tags.length > 0 && (
-        <div class="post-badges">
-          <span class="badges-label">Tags:</span>
-          <div class="badge-list">
-            {
-              frontmatter.tags.map((tag: string) => <a href={`${base}tags/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`}>
-                <span class="badge">{tag}</span>
-              </a>)
-            }
-          </div>
-        </div>
-    )}
+    <!-- ✅ Tags -->
+    <PostTags frontmatter={frontmatter} />
 
-    <div class="post-navigation">
-      <a href={`${base}${collection}`} class="back-to-blog">← Xem Tất cả {categoryNames}</a>
-    </div>
+    <PostReadAll collection={collection} />
   </footer>
 
 </Layout>

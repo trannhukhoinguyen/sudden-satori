@@ -257,7 +257,7 @@ Thử nói xem, đó là cảnh giới của Văn Thù, cảnh giới của Ph�
 
 ***
 
-## ℹ️ Thông tin thêm:
+## ℹ️ Thông tin thêm
 
 [^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-long-nha-cu-don/" target="_blank">TS LONG NHA CƯ ĐỘN</a>
 
