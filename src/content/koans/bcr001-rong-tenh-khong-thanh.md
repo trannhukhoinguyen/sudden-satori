@@ -2,7 +2,9 @@
 title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ"
 date: "2000-01-01"
 description: ""
-excerpt: ""
+excerpt: 
+  "Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu.
+  Chỉ 1 hiểu 3, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "Tổ BỒ ĐỀ ĐẠT MA", "TS BẢO CHÍ CÔNG"]
 draft: false
@@ -12,7 +14,7 @@ draft: false
 
 Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu.
 
-Chỉ 1 hiểu ba, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ.
+Chỉ 1 hiểu 3, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ.
 
 Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy. 
 

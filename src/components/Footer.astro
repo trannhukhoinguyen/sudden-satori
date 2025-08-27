@@ -12,6 +12,15 @@ const currentYear = new Date().getFullYear();
       </p>
     </div>
 
+    <div class="extra-group">
+      <a class="extra-item" href="/book-shelf" target="_blank" title="KỆ SÁCH">📚️</a>
+      <a class="extra-item" href="/download" target="_blank" title="DOWNLOAD">⬇️️</a>
+      <a class="extra-item" href="/remedies" target="_blank" title="PHƯƠNG THUỐC">🌿️</a>
+      <a class="extra-item" href="/candle" target="_blank" title="THỔI NẾN">🕯️</a>
+      <a class="extra-item" href="/authors" target="_blank" title="TÁC GIẢ">✍️️</a>
+      <a class="extra-item" href="/contributors" target="_blank" title="ĐÓNG GÓP">🎁️</a>
+    </div>
+
     <div class="social-links">
       {config.social.facebook && (
         <a href={config.social.facebook} target="_blank" rel="noopener" aria-label="Facebook" class="social-link" title="Facebook Tổ Sư Thiền">
@@ -78,8 +87,8 @@ const currentYear = new Date().getFullYear();
 
   .footer-info {
     display: flex;
-    flex-direction: column;
-    gap: calc(var(--grid-unit) / 2);
+    flex-direction: row;
+    gap: calc(var(--grid-unit));
   }
 
   .copyright,
@@ -99,13 +108,15 @@ const currentYear = new Date().getFullYear();
     color: var(--color-text-primary);
   }
 
-  .social-links {
+  .social-links,
+  .extra-group {
     display: flex;
     gap: calc(var(--grid-unit) * 1.5);
     align-items: center;
   }
 
-  .social-link {
+  .social-link,
+  .extra-item {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -118,7 +129,9 @@ const currentYear = new Date().getFullYear();
   }
 
   .social-link:hover,
-  .social-link:focus {
+  .social-link:focus,
+  .extra-item:hover,
+  .extra-item:focus {
     background-color: var(--color-accent);
     transform: translateY(-2px);
     text-decoration: none;

@@ -13,10 +13,19 @@ const { frontmatter } = post as any;
   <div class="post-meta">
     <PostDateTime post={post} />
 
-    <PostCategories frontmatter={frontmatter} />
+    {
+      frontmatter?.categories?.length
+          ? <PostCategories frontmatter={frontmatter} />
+          : ''
+    }
+
   </div>
 
-  <PostExcerpt frontmatter={frontmatter} />
+  {
+    frontmatter.excerpt
+      ? <PostExcerpt frontmatter={frontmatter}/>
+      : ''
+  }
 
   <hr class="monumental-rule" />
 </header>
