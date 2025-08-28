@@ -39,8 +39,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <option value={base + "blogs"}>📜 Đọc thêm</option>
               <option value={base + "zongjinglus"}>Tông Cảnh Lục</option>
               <option value={base + "poems"}>🪷 Thơ Thiền</option>
-              <option value={base + "categories"}>📂 Category</option>
-              <option value={base + "tags"}>🗂 Tag</option>
+              <option value={base + "categories"}>📦 Category</option>
+              <option value={base + "tags"}>🎏 Tag</option>
             </select>
           </li>
         </ul>
@@ -74,8 +74,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "blogs"} class="mobile-nav-link">📜 Đọc thêm</a></li>
     <li><a href={base + "zongjinglus"} class="mobile-nav-link">Tông Cảnh Lục</a></li>
     <li><a href={base + "poems"} class="mobile-nav-link">🪷 Thơ Thiền</a></li>
-    <li><a href={base + "categories"} class="mobile-nav-link">📂 Category</a></li>
-    <li><a href={base + "tags"} class="mobile-nav-link">🗂 Tag</a></li>
+    <li><a href={base + "categories"} class="mobile-nav-link">📦 Category</a></li>
+    <li><a href={base + "tags"} class="mobile-nav-link">🎏 Tag</a></li>
   </ul>
 </nav>
 
@@ -323,7 +323,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .search-toggle:hover,
   .search-toggle:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     outline: none;
   }
 
@@ -390,7 +390,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .search-close:hover,
   .search-close:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     outline: none;
   }
 
@@ -459,7 +459,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .search-result-title a:hover,
   .search-result-title a:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
   }
 
   .search-result-date {
@@ -499,7 +499,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .search-category:hover {
-    background-color: #c13127;
+    background-color:  var(--color-accent-gold);
     color: white;
   }
 
@@ -511,9 +511,9 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   :global([data-theme="dark"]) .search-category:hover {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     color: white;
-    border-color: var(--color-accent);
+    border-color: var(--color-accent-gold);
   }
 
   .search-no-results {
@@ -553,8 +553,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .nav-link:hover,
   .nav-link:focus {
-    color: var(--color-accent);
-    border-bottom-color: var(--color-accent);
+    color: var(--color-accent-gold);
+    border-bottom-color: var(--color-accent-gold);
     text-decoration: none;
   }
 
@@ -567,19 +567,19 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .nav-select {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--color-text-primary);
-    background-color: #e3222f;
+    background-color:  var(--color-accent-gold);
     padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
     border-bottom: 2px solid transparent;
     transition: all 0.2s ease;
   }
 
   .nav-select option {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -591,8 +591,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   #nav-select option:hover,
   #nav-select option:focus {
-    color: var(--color-accent);
-    border-bottom-color: var(--color-accent);
+    color: var(--color-accent-gold);
+    border-bottom-color: var(--color-accent-gold);
     text-decoration: none;
   }
 
@@ -653,8 +653,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .github-star-button {
     background: none;
-    border: 2px solid var(--color-accent);
-    color: var(--color-accent);
+    border: 2px solid var(--color-accent-gold);
+    color: var(--color-accent-gold);
     padding: calc(var(--grid-unit) * 0.75) calc(var(--grid-unit) * 2);
     cursor: pointer;
     transition: all 0.2s ease;
@@ -673,7 +673,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .github-star-button:hover,
   .github-star-button:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     color: var(--color-background);
     outline: none;
     transform: translateY(-1px);
@@ -688,7 +688,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   .hamburger-toggle:focus,
   .rss-toggle:hover,
   .rss-toggle:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     outline: none;
   }
 
@@ -733,7 +733,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .mobile-nav-link:hover,
   .mobile-nav-link:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     background-color: var(--color-surface);
   }
 

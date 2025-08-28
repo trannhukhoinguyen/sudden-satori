@@ -9,7 +9,7 @@
     font-family: var(--font-heading-primary);
     font-size: 3rem;
     font-weight: 900;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 1.1;
@@ -55,7 +55,7 @@
 }
 .category-tag:hover,
 .category-tag:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     text-decoration: none;
 }
 
@@ -67,9 +67,9 @@
 }
 :global([data-theme="dark"]) .category-tag:hover,
 :global([data-theme="dark"]) .category-tag:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     color: white;
-    border-color: var(--color-accent);
+    border-color: var(--color-accent-gold);
 }
 
 .post-excerpt {
@@ -81,7 +81,7 @@
 }
 .monumental-rule {
     height: 6px;
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     border: none;
     margin: calc(var(--grid-unit) * 4) 0;
     width: 100%;
@@ -125,7 +125,7 @@
     margin-bottom: calc(var(--grid-unit) * 3);
 }
 .post-content :global(blockquote) {
-    border-left: 4px solid var(--color-accent);
+    border-left: 4px solid var(--color-accent-gold);
     padding: calc(var(--grid-unit) * 2) calc(var(--grid-unit) * 3);
     margin: calc(var(--grid-unit) * 4) 0;
     background-color: var(--color-surface);
@@ -163,7 +163,7 @@
 .post-content :global(.token.property),
 .post-content :global(.token.class-name),
 .post-content :global(.token.function) {
-    color: var(--color-accent) !important;
+    color: var(--color-accent-gold) !important;
 }
 .post-content :global(.token.punctuation),
 .post-content :global(.token.brace),
@@ -197,7 +197,7 @@
     font-family: var(--font-mono),serif;
     font-size: 0.9em;
     background-color: var(--color-surface);
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     padding: 2px 6px;
     border-radius: 4px;
     border: 1px solid var(--color-border);
@@ -225,7 +225,7 @@
 }
 .post-content :global(hr) {
     height: 2px;
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     border: none;
     margin: calc(var(--grid-unit) * 4) 0;
 }
@@ -264,16 +264,16 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     padding: calc(var(--grid-unit)) calc(var(--grid-unit) * 2);
-    border: 2px solid var(--color-accent);
+    border: 2px solid var(--color-accent-gold);
     border-radius: 4px;
     transition: all 0.2s ease;
     display: inline-block;
 }
 .back-to-blog:hover,
 .back-to-blog:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     color: white;
     text-decoration: none;
 }
@@ -311,7 +311,7 @@
 }
 .badge-tag:hover,
 .badge-tag:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     text-decoration: none;
 }
 
@@ -323,9 +323,9 @@
 }
 :global([data-theme="dark"]) .badge-tag:hover,
 :global([data-theme="dark"]) .badge-tag:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     color: white;
-    border-color: var(--color-accent);
+    border-color: var(--color-accent-gold);
 }
 
 .badges-label {

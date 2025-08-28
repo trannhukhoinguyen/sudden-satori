@@ -12,7 +12,7 @@
     font-family: var(--font-heading-primary),serif;
     font-size: 3.5rem;
     font-weight: 900;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 1.1;
@@ -28,7 +28,7 @@
 
 .page-rule {
     height: 4px;
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     border: none;
     width: 120px;
     margin: 0 auto;
@@ -66,7 +66,7 @@
 
 .post-title a:hover,
 .post-title a:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
 }
 
 .post-meta {
@@ -93,7 +93,7 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-decoration: none;
     font-size: 0.9rem;
     transition: color 0.2s ease;
@@ -115,9 +115,9 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     padding: calc(var(--grid-unit)) calc(var(--grid-unit) * 2);
-    border: 2px solid var(--color-accent);
+    border: 2px solid var(--color-accent-gold);
     border-radius: 4px;
     transition: all 0.2s ease;
     display: inline-block;
@@ -125,7 +125,7 @@
 
 .back-link:hover,
 .back-link:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     color: white;
     text-decoration: none;
 }

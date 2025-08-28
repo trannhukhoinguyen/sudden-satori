@@ -37,12 +37,12 @@ const headings: Heading[] = filterHeadingsForTOC(allHeadings);
     font-family: var(--font-heading-secondary);
     font-size: 1.25rem;
     font-weight: 700;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-transform: uppercase;
     letter-spacing: 0.05em;
     margin-bottom: calc(var(--grid-unit) * 2);
     padding-bottom: calc(var(--grid-unit));
-    border-bottom: 2px solid var(--color-accent);
+    border-bottom: 2px solid var(--color-accent-gold);
   }
 
   .toc-list {
@@ -79,7 +79,7 @@ const headings: Heading[] = filterHeadingsForTOC(allHeadings);
 
   .toc-link:hover,
   .toc-link:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     transform: translateX(4px);
   }
 
@@ -95,7 +95,7 @@ const headings: Heading[] = filterHeadingsForTOC(allHeadings);
 
   .toc-level-3 .toc-link:hover,
   .toc-level-3 .toc-link:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
   }
 
   @media (max-width: 768px) {
@@ -166,7 +166,7 @@ const headings: Heading[] = filterHeadingsForTOC(allHeadings);
 
 <style>
   .toc-link.active {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     font-weight: 600;
   }
 
@@ -174,7 +174,7 @@ const headings: Heading[] = filterHeadingsForTOC(allHeadings);
     content: "•";
     position: absolute;
     right: 0;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     font-size: 1.2rem;
   }
 </style>

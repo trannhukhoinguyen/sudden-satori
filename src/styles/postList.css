@@ -12,7 +12,7 @@
     font-family: var(--font-heading-primary), serif;
     font-size: 3.5rem;
     font-weight: 900;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 1.1;
@@ -23,7 +23,7 @@
     font-family: var(--font-heading-primary), serif;
     font-size: 2.5rem;
     font-weight: 900;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 1.1;
@@ -43,7 +43,7 @@
 
 .blog-rule {
     height: 4px;
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     border: none;
     width: 120px;
     margin: 0 auto;
@@ -80,7 +80,7 @@
 
 .post-title a:hover,
 .post-title a:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
 }
 
 .post-meta {
@@ -153,7 +153,7 @@
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-decoration: none;
     font-size: 0.9rem;
     transition: color 0.2s ease;

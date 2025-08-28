@@ -12,13 +12,14 @@
   /* Accent Color */
   --color-accent-red: #dc2626;
   --color-accent-yellow: #dcd926;
-  --color-accent-gold: gold;
+  --color-accent-gold: #a78f0a;
   --color-accent-pink: #ffb9b9;
+  --color-accent: var(--color-accent-gold);
 
   /* Semantic Colors */
   --color-background: var(--color-white);
-  --color-background-pagination: var(--color-accent-red);
-  --color-background-toc: var(--color-accent-red);
+  --color-background-pagination: var(--color-accent-gold);
+  --color-background-toc: var(--color-accent-gold);
   --color-background-footer: var(--color-white);
   --color-surface: var(--color-light-gray);
   --color-text-primary: var(--color-black);
@@ -29,7 +30,6 @@
   --color-text-secondary: var(--color-dark-gray);
   --color-text-muted: var(--color-medium-gray);
   --color-border: var(--color-medium-gray);
-  --color-accent: var(--color-accent-red);
 
   /* Typography */
   --font-heading-primary: 'Oswald', sans-serif;
@@ -61,7 +61,7 @@
   --color-text-secondary: #b8b8b8;
   --color-text-muted: #888888;
   --color-border: #333333;
-  --color-accent: #ff3333; /* Slightly brighter red for dark mode */
+  --color-accent: var(--color-accent-gold); /* Slightly brighter red for dark mode */
 }
 
 /* Smooth theme transitions */
@@ -109,7 +109,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.12em;
-  color: var(--color-accent);
+  color: var(--color-accent-gold);
   margin-bottom: calc(var(--grid-unit) * 2);
 }
 
@@ -145,7 +145,7 @@ p {
 
 /* Links */
 a {
-  color: var(--color-accent);
+  color: var(--color-accent-gold);
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -221,7 +221,7 @@ figcaption {
 hr {
   border: none;
   height: 4px;
-  background-color: var(--color-accent);
+  background-color: var(--color-accent-gold);
   margin: calc(var(--grid-unit) * 4) 0;
 }
 
@@ -269,7 +269,7 @@ hr {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: var(--color-accent);
+  color: var(--color-accent-gold);
   text-decoration: none;
   font-size: 0.9rem;
   transition: color 0.2s ease;
@@ -280,7 +280,7 @@ hr {
 }
 
 .pagination-text-accent {
-  color: var(--color-accent);
+  color: var(--color-accent-gold);
   display: inline-flex;         /* căn giữa nội dung */
   align-items: center;
   justify-content: center;

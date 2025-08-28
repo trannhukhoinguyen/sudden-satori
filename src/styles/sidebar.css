@@ -44,7 +44,7 @@
     font-family: var(--font-heading-secondary);
     font-size: 1.25rem;
     font-weight: 700;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     margin-bottom: calc(var(--grid-unit));
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -61,11 +61,11 @@
     font-family: var(--font-heading-secondary);
     font-size: 1.1rem;
     font-weight: 700;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     margin-bottom: calc(var(--grid-unit) * 1.5);
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    border-bottom: 2px solid var(--color-accent);
+    border-bottom: 2px solid var(--color-accent-gold);
     padding-bottom: calc(var(--grid-unit) / 2);
 }
 
@@ -101,7 +101,7 @@
 
 .post-link:hover,
 .post-link:focus {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
 }
 
 .post-date {
@@ -129,7 +129,7 @@
 
 .category-link:hover,
 .category-link:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     text-decoration: none;
 }
 
@@ -142,9 +142,9 @@
 
 :global([data-theme="dark"]) .category-link:hover,
 :global([data-theme="dark"]) .category-link:focus {
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     color: white;
-    border-color: var(--color-accent);
+    border-color: var(--color-accent-gold);
 }
 
 @media (max-width: 1023px) {

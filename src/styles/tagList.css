@@ -12,7 +12,7 @@
     font-family: var(--font-heading-primary),serif;
     font-size: 3rem;
     font-weight: 700;
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
     text-transform: uppercase;
     letter-spacing: 0.15em;
     margin-bottom: calc(var(--grid-unit) * 2);
@@ -28,7 +28,7 @@
 
 .page-rule {
     height: 4px;
-    background-color: var(--color-accent);
+    background-color: var(--color-accent-gold);
     border: none;
     width: 120px;
     margin: 0 auto;
@@ -52,7 +52,7 @@
 
 .tag-card:hover {
     transform: translateY(-2px);
-    border-color: var(--color-accent);
+    border-color: var(--color-accent-gold);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
@@ -75,7 +75,7 @@
 }
 
 .tag-link:hover, .tag-title {
-    color: var(--color-accent);
+    color: var(--color-accent-gold);
 }
 
 .tag-count {
