@@ -11,7 +11,7 @@ import PostHeader from "../../components/post/PostHeader.astro";
 import PostTags from "../../components/post/PostTags.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import PostImage from "../../components/post/PostImage.astro";
-import RelatedPost from "./RelatedPost.astro";
+import RelatedPost from "../../components/post/RelatedPost.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
