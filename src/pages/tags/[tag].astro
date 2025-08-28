@@ -2,6 +2,10 @@
 import Layout from "../../layouts/Layout.astro";
 import "@/styles/badge.css";
 import { TAG_MAP } from "../../utils/getMarkdownContent";
+import PostTitle from "../../components/post/PostTitle.astro";
+import PostExcerpt from "../../components/post/PostExcerpt.astro";
+import PostDateTime from "../../components/post/PostDateTime.astro";
+import ItemReadAll from "../../components/post/ItemReadAll.astro";
 
 export async function getStaticPaths() {
   return Object.entries(TAG_MAP).map(([tag, { posts }]) => {
@@ -15,7 +19,6 @@ export async function getStaticPaths() {
 
 const { tag, posts } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const title = "Tag";
 const description = `Tất cả bài viết gắn tag ${tag}`;
 ---
 
@@ -31,24 +34,18 @@ const description = `Tất cả bài viết gắn tag ${tag}`;
       {posts.map((post: any) => (
           <article class="post-item">
             <h2 class="post-title">
-              <a href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>
-                {post.frontmatter.title}
-              </a>
+              <PostTitle post={post} />
             </h2>
+
             <div class="post-meta">
-              <time datetime={post.frontmatter.date}>
-                {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
-                  year: "numeric", month: "long", day: "numeric"
-                })}
-              </time>
+              <PostDateTime post={post} />
             </div>
-            {post.frontmatter.excerpt && <p class="post-excerpt">{post.frontmatter.excerpt}</p>}
+
+            <PostExcerpt frontmatter={post.frontmatter} />
           </article>
       ))}
     </div>
 
-    <div class="page-navigation">
-      <a href={`${base}tags`} class="back-link">← Xem tất cả Tags</a>
-    </div>
+    <ItemReadAll type="tags" />
   </div>
 </Layout>

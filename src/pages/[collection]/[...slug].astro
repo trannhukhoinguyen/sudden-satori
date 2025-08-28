@@ -9,14 +9,16 @@ import MediaArea from "../../components/post/MediaArea.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import PostHeader from "../../components/post/PostHeader.astro";
 import PostTags from "../../components/post/PostTags.astro";
-import PostReadAll from "../../components/post/PostReadAll.astro";
+import ItemReadAll from "../../components/post/ItemReadAll.astro";
+import PostImage from "../../components/post/PostImage.astro";
+import RelatedPost from "./RelatedPost.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
       data.posts.map((post: any) => {
         return {
           params: {
-            field: collection,
+            collection,
             slug: post.file.split("/").pop()?.replace(/\.(md|mdx)$/, ""),
           },
           props: { post, collection },
@@ -43,6 +45,11 @@ const { frontmatter, Content } = post as any;
     <!-- ✅ PostHeader -->
     <PostHeader post={post} />
 
+    <!-- Image Section -->
+    <section class="image-area">
+      <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} />
+    </section>
+
     <!-- ✅ TOC -->
     <TOC post={post} />
     <FloatingTOC post={post} />
@@ -62,7 +69,9 @@ const { frontmatter, Content } = post as any;
     <!-- ✅ Tags -->
     <PostTags frontmatter={frontmatter} />
 
-    <PostReadAll collection={collection} />
+    <ItemReadAll collection={collection} />
   </footer>
 
+<!-- Related Post Section -->
+  <RelatedPost tags={frontmatter.tags} notIncludedPostTitle={frontmatter.title} type={frontmatter.type} />
 </Layout>

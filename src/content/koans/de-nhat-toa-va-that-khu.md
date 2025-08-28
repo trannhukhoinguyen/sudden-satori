@@ -2,6 +2,7 @@
 title: "CỬU PHONG VÀ ĐỆ NHẤT TÒA"
 date: "2025-05-28"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt:
   "Cửu Phong là thị giả của Thạch Sương. Khi Thạch Sương mất, chúng Tăng trong tự viện họp và quyết định chọn vị Đệ Nhất Tòa làm trụ trì mới."
 categories: ["Công án"]

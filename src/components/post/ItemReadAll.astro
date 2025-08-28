@@ -1,0 +1,26 @@
+---
+import { config } from "../../config";
+
+const { collection = null, type = null } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const categoryName = config.categoryNames[collection as keyof typeof config.categoryNames] || collection;
+---
+
+
+<div class="post-navigation">
+    {
+        !collection
+            ?   type === 'tags'
+                    ?   <a href={`${base}tags`} class="back-link">
+                            ← Xem tất cả 🎏 Tag
+                        </a>
+                    :   <a href={`${base}categories`} class="back-link">
+                            ← Xem tất cả 📦 Category
+                        </a>
+
+            :   <a href={`${base}${collection}`} class="back-to-blog">
+                    ← Xem Tất cả {categoryName}
+                </a>
+
+    }
+</div>

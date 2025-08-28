@@ -2,6 +2,7 @@
 title: "HỎA KIẾP CỦA ĐẠI TÙY"
 date: "2025-08-21"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐẠI TÙY PHÁP CHÂN"]

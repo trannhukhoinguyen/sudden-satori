@@ -2,6 +2,7 @@
 title: "DIỆU PHONG ĐỈNH CỦA BẢO PHÚC"
 date: "2025-08-22"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BẢO PHÚC TÙNG TRIỂN", "TS TRƯỜNG KHÁNH HUỆ LĂNG"]

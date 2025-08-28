@@ -1,0 +1,13 @@
+---
+const { imageUrl, imageAlt = "Tổ Sư Thiền", height = "auto", width = "auto" } = Astro.props;
+---
+
+{
+    imageUrl && (
+            <img
+                src={imageUrl}
+                alt={imageAlt}
+                style={{ height, width, objectFit: "contain" }}
+            />
+    )
+}

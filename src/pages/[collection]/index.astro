@@ -1,20 +1,23 @@
 ---
 import "@/styles/postList.css";
 import "@/styles/badgeList.css";
-import { CONTENT_MAP, TAG_MAP } from "../../utils/getMarkdownContent";
-import { configNew as config } from "../../config";
+import { CONTENT_MAP } from "../../utils/getMarkdownContent";
+import { config } from "../../config";
 import Layout from "../../layouts/Layout.astro";
 import Pagination from "../../components/Pagination.astro";
 import PostDateTime from "../../components/post/PostDateTime.astro";
 import PostExcerpt from "../../components/post/PostExcerpt.astro";
 import PostTags from "../../components/post/PostTags.astro";
 import PostReadMore from "../../components/post/PostReadMore.astro";
+import PostImage from "../../components/post/PostImage.astro";
+import PostTitle from "../../components/post/PostTitle.astro";
+import FlatTags from "../../components/post/FlatTags.astro";
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
     const posts = CONTENT_MAP[collection].posts;
     return {
-      params: { field: collection },
+      params: { collection },
       props: {
         collection,
         posts,
@@ -25,59 +28,49 @@ export async function getStaticPaths() {
   });
 }
 
-const { collection, posts, page, totalPages } = Astro.props;
-const base = import.meta.env.BASE_URL;
-const prefix = `Danh sách`;
-const categoryName = config.categoryNames[collection as keyof typeof config.categoryNames] || collection;
-const title = categoryName;
-const description = `${categoryName} / Trang`;
+const {
+  collection,
+  posts,
+  page,
+  totalPages
+} = Astro.props;
 
-// fallback an toàn
-const tagsData = TAG_MAP[collection] || { tags: [], flatTags: [] };
-const { flatTags } = tagsData;
+const prefix = `Danh sách`;
+const title = config.categoryNames[collection as keyof typeof config.categoryNames];
+const description = `${config.categoryDescriptions[collection as keyof typeof config.categoryNames]}`;
 ---
 
 <Layout title={title} description={description} collection={collection}>
   <div class="blog-page">
+<!-- Header Section -->
     <header class="blog-header">
       <h2 class="blog-title-medium">{prefix}{' ' + title}</h2>
       <p class="blog-description">
-        {description}
-        <b class="pagination-text-accent">{' ' + page}</b>
+        {description} /
+        <b class="pagination-text-accent">{page}</b>
       </p>
       <hr class="blog-rule" />
     </header>
 
-    <!-- tags Section -->
-    {flatTags?.length > 0 && (
-        <section class="badges">
-          <h3 class="section-title">Tag</h3>
-          <ul class="badge-list">
-            {flatTags.map((tag: any)  => (
-                <li class="badge-item">
-                  <a href={`${base}tags/${tag.toLowerCase()}`} class="badge-link">
-                    {tag}
-                  </a>
-                </li>
-            ))}
-          </ul>
-        </section>
-    )}
-
+<!-- Post List Section -->
     {posts.length > 0 ? (
         <div class="posts-list">
           {posts.slice(0, config.postsPerPage).map((post: any) => {
             return (
                 <article class="post-item">
                   <h2 class="post-title">
-                    <a href={`${base}${collection}/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
-                      {post.frontmatter.title}
-                    </a>
+                    <PostTitle post={post} />
                   </h2>
+
+                  <!-- Image Section -->
+                  <section class="image-area">
+                    <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="200px" />
+                  </section>
+
                   <div class="post-meta">
                     <PostExcerpt frontmatter={post.frontmatter} />
 
-                    <PostReadMore collection={collection} file={post.file} />
+                    <PostReadMore post={post} />
 
                     <PostDateTime post={post} />
 
@@ -88,7 +81,12 @@ const { flatTags } = tagsData;
           })}
         </div>
 
+<!-- Pagination Section -->
         <Pagination page={1} totalPages={totalPages} category={collection} />
+
+<!-- All Collection Tags Section -->
+        <FlatTags collection={collection} />
+
     ) : (
         <div class="no-posts">
           <p>Chưa có Bài viết nào.</p>

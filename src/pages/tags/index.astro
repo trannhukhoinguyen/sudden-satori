@@ -1,34 +1,21 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import "@/styles/badgeList.css";
 import { TAG_MAP } from "../../utils/getMarkdownContent";
+import AllBadges from "../../components/post/AllBadges.astro";
 
-const base = import.meta.env.BASE_URL;
-const title = "Tags";
-const description = "Xem tất cả Tags";
+const title = "🎏 Tag";
+const type = "tags";
+const description = "Xem tất cả Tag";
 const allTags = Object.entries(TAG_MAP);
 ---
 
 <Layout title={title} description={description} showSidebar={true}>
-  <div class="labels-page">
+  <div class="badges-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
       <hr class="page-rule" />
     </header>
 
-    <div class="badges-grid">
-      {allTags.map(([tag, { posts }]) => (
-          <div class="badge-card">
-            <a href={`${base}tags/${tag.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="badge-link">
-              <h2 class="badge-title">{tag}</h2>
-              <p class="badge-count">{posts.length} bài viết</p>
-            </a>
-          </div>
-      ))}
-    </div>
-
-    {allTags.length === 0 && (
-        <div class="no-badge"><p>Chưa có tag nào.</p></div>
-    )}
+    <AllBadges allBadges={allTags} type={type} />
   </div>
 </Layout>

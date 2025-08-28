@@ -2,6 +2,7 @@
 title: "TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI"
 date: "2025-08-22"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: "Đi theo mùi cỏ thơm, về theo vết hoa rụng."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRƯỜNG SA CẢNH SẦM"]

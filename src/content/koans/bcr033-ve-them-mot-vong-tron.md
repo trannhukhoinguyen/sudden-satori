@@ -2,6 +2,7 @@
 title: "TRẦN THƯỢNG THƯ VIẾNG TỪ PHÚC"
 date: "2025-08-26"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "THƯỢNG THƯ TRẦN THÁO", "TS TỪ PHÚC"]

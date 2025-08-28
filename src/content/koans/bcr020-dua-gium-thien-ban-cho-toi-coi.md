@@ -2,6 +2,7 @@
 title: "LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA"
 date: "2025-08-23"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LONG NHA CƯ ĐỘN"]

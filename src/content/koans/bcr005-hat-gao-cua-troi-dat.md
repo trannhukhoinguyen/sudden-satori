@@ -2,6 +2,7 @@
 title: "HẠT GẠO CỦA TUYẾT PHONG"
 date: "2025-08-04"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TUYẾT PHONG NGHĨA TỒN"]

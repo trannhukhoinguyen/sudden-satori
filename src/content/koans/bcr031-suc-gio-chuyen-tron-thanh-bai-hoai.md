@@ -2,6 +2,7 @@
 title: "MA CỐC CHỐNG GẬY"
 date: "2025-08-26"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: 
   "Động thì ảnh hiện, giác thì băng sinh. Nếu như không động không giác, khó mà khỏi rơi vào hang chồn hoang. 
   Hiểu thấu được, đủ lòng tin, không tơ hào chướng ngại, như rồng gặp nước, như cọp dựa núi."

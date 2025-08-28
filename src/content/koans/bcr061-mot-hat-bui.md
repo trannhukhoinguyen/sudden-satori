@@ -2,6 +2,7 @@
 title: "MỘT HẠT BỤI CỦA PHONG HUYỆT"
 date: "2025-08-21"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHONG HUYỆT DIÊN CHIỂU"]

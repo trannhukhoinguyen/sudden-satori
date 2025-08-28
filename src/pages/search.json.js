@@ -16,7 +16,7 @@ export async function GET() {
             searchData.push({
                 title: post.frontmatter?.title || "Untitled",
                 url,
-                type, // ✅ thêm field type (blog, book, sutra, ...)
+                type, // ✅ thêm collection type (blog, book, sutra, ...)
                 date: post.frontmatter?.date || new Date().toISOString(),
                 excerpt:
                     post.frontmatter?.excerpt ||

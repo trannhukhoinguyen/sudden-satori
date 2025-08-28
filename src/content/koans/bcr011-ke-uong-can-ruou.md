@@ -2,6 +2,7 @@
 title: "KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ"
 date: "2025-08-22"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS HOÀNG BÁ HY VẬN"]

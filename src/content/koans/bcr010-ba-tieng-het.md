@@ -2,6 +2,7 @@
 title: "BA TIẾNG HÉT CỦA MỤC CHÂU"
 date: "2025-08-22"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MỤC CHÂU"]

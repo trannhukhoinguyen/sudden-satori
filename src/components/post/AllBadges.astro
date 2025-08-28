@@ -1,0 +1,35 @@
+---
+import "@/styles/badgeList.css";
+
+const { allBadges, type, collection = null } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+{
+    !collection
+        ?   <div>
+                <div class="badges-grid">
+                    { allBadges.map(([badge, { posts }]) => (
+                            <div class="badge-card">
+                                <a href={`${base}${type}/${badge.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="badge-link">
+                                    <h2 class="badge-title">{badge}</h2>
+                                    <p class="badge-count">{posts.length} bài viết</p>
+                                </a>
+                            </div>
+                    )) }
+                </div>
+                { allBadges.length === 0 && (<div class="no-badge"><p>Chưa có ${type} nào.</p></div>) }
+            </div>
+
+        :   <div class="badges-grid">
+                {allBadges.map(([badge, { posts }]) => (
+                        <div class="badge-card">
+                            <a href={`${base}badges/${badge.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="badge-link">
+                                <h2 class="badge-title">{badge}</h2>
+                                <p class="badge-count">{posts.length} bài viết</p>
+                            </a>
+                        </div>
+                ))}
+            </div>
+}
+

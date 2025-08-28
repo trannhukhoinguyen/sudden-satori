@@ -2,6 +2,7 @@
 title: "ĐẠO NGÔ THÂM SÂU"
 date: "2025-08-21"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS ĐẠO NGÔ VIÊN TRÍ"]

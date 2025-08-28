@@ -2,6 +2,7 @@
 title: "THÚY NHAM DẠY ĐỒ CHÚNG CUỐI HẠ"
 date: "2025-08-22"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS THÚY NHAM LINH THAM"]

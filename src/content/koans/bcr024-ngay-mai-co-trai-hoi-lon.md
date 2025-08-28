@@ -2,6 +2,7 @@
 title: "QUI SƠN VÀ LƯU THIẾT MA"
 date: "2025-08-21"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS QUI SƠN LINH HỰU", "TS LƯU THIẾT MA"]

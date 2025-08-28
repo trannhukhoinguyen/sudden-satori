@@ -1,0 +1,100 @@
+---
+import "@/styles/postList.css";
+import "@/styles/badgeList.css";
+import Layout from "../../layouts/Layout.astro";
+import Pagination from "../../components/Pagination.astro";
+import { CONTENT_MAP } from "../../utils/getMarkdownContent";
+import { config } from "../../config";
+import PostExcerpt from "../../components/post/PostExcerpt.astro";
+import PostImage from "../../components/post/PostImage.astro";
+import PostReadMore from "../../components/post/PostReadMore.astro";
+import PostTags from "../../components/post/PostTags.astro";
+import PostDateTime from "../../components/post/PostDateTime.astro";
+import PostTitle from "../../components/post/PostTitle.astro";
+import FlatTags from "../../components/post/FlatTags.astro";
+
+export async function getStaticPaths() {
+  return Object.entries(CONTENT_MAP).flatMap(([collection, data]) => {
+    const posts = data.posts;
+    const totalPages = Math.ceil(posts.length / config.postsPerPage);
+
+    return Array.from({ length: totalPages }, (_, i) => ({
+      params: { collection, page: String(i + 1) },
+      props: {
+        collection,
+        posts,
+        page: i + 1,
+        totalPages,
+        pageNum: parseInt(String(i + 1)),
+      },
+    }));
+  });
+}
+
+const {
+  collection,
+  posts,
+  page,
+  totalPages,
+  pageNum
+} = Astro.props;
+
+const prefix = `Danh sách`;
+const title = config.categoryNames[collection as keyof typeof config.categoryNames];
+const description = `${config.categoryDescriptions[collection as keyof typeof config.categoryNames]}`;
+---
+
+<Layout title={title} description={description} collection={collection}>
+  <div class="blog-page">
+<!-- Header Section -->
+    <header class="blog-header">
+      <h2 class="blog-title-medium">{prefix}{' ' + title}</h2>
+      <p class="blog-description">
+        {description} /
+        <b class="pagination-text-accent">{page}</b>
+      </p>
+      <hr class="blog-rule" />
+    </header>
+
+<!-- Post List Section -->
+    {posts.length > 0 ? (
+        <div class="posts-list">
+          {posts.slice((page-1)*config.postsPerPage, page*config.postsPerPage).map((post: any) => {
+            return (
+                <article class="post-item">
+                  <h2 class="post-title">
+                    <PostTitle post={post} />
+                  </h2>
+
+                  <!-- Image Section -->
+                  <section class="image-area">
+                    <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="200px" />
+                  </section>
+
+                  <div class="post-meta">
+                    <PostExcerpt frontmatter={post.frontmatter} />
+
+                    <PostReadMore post={post} />
+
+                    <PostDateTime post={post} />
+
+                    <PostTags frontmatter={post.frontmatter} />
+                  </div>
+                </article>
+            )
+          })}
+        </div>
+
+<!-- Pagination Section -->
+        <Pagination page={pageNum} totalPages={totalPages} category={collection} />
+
+<!-- All Collection Tags Section -->
+        <FlatTags collection={collection} />
+
+    ) : (
+        <div class="no-posts">
+          <p>Chưa có Bài viết nào.</p>
+        </div>
+    )}
+  </div>
+</Layout>

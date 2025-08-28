@@ -1,11 +1,11 @@
 ---
-const { collection, file } = Astro.props;
+const { post } = Astro.props;
 const base = import.meta.env.BASE_URL;
 ---
 
 <div class="post-navigation">
     <a
-        href={`${base}${collection}/${file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}
+        href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}
         class="read-more"
     >
         Xem thêm →

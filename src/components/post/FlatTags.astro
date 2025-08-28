@@ -1,0 +1,28 @@
+---
+import "@/styles/badgeList.css";
+import { TAG_MAP } from "../../utils/getMarkdownContent";
+
+const { collection } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+const tagsData = TAG_MAP[collection] || { tags: [], flatTags: [] };
+const { flatTags } = tagsData;
+---
+
+{
+    flatTags?.length > 0 && (
+        <section class="badges">
+            <h3 class="section-title">Tag</h3>
+            <ul class="badge-list">
+                {flatTags.map((tag: any)  => (
+                        <li class="badge-item">
+                            <a href={`${base}tags/${tag.toLowerCase()}`} class="badge-link">
+                                {tag}
+                            </a>
+                        </li>
+                ))}
+            </ul>
+        </section>
+    )
+}
+

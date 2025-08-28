@@ -2,6 +2,7 @@
 title: "CHẲNG NHỮNG TÀO KHÊ"
 date: "2025-08-07"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ"]

@@ -2,6 +2,11 @@
 import Layout from "../../layouts/Layout.astro";
 import "@/styles/badge.css";
 import { CATEGORY_MAP } from "../../utils/getMarkdownContent";
+import PostTitle from "../../components/post/PostTitle.astro";
+import PostReadMore from "../../components/post/PostReadMore.astro";
+import PostDateTime from "../../components/post/PostDateTime.astro";
+import PostExcerpt from "../../components/post/PostExcerpt.astro";
+import ItemReadAll from "../../components/post/ItemReadAll.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CATEGORY_MAP).map(([category, { posts }]) => {
@@ -28,27 +33,22 @@ const description = `Tất cả bài viết về ${category}`;
     </header>
 
     <div class="posts-list">
-      {posts.map((post: any) => (
+      {
+        posts.map((post: any) => (
           <article class="post-item">
             <h2 class="post-title">
-              <a href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}>
-                {post.frontmatter.title}
-              </a>
+              <PostTitle post={post} />
             </h2>
+
             <div class="post-meta">
-              <time datetime={post.frontmatter.date}>
-                {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
-                  year: "numeric", month: "long", day: "numeric"
-                })}
-              </time>
+              <PostDateTime post={post} />
             </div>
-            {post.frontmatter.excerpt && <p class="post-excerpt">{post.frontmatter.excerpt}</p>}
+
+            <PostExcerpt frontmatter={post.frontmatter} />
           </article>
       ))}
     </div>
 
-    <div class="page-navigation">
-      <a href={`${base}categories`} class="back-link">← Xem tất cả Categories</a>
-    </div>
+    <ItemReadAll type="categories" />
   </div>
 </Layout>

@@ -10,7 +10,6 @@ const globMap = {
   practices: import.meta.glob('../content/practices/*.{md,mdx}', { eager: true }),
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}', { eager: true }),
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
-  remedies: import.meta.glob('../content/remedies/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}', { eager: true }),
 };
 const globMapLazy = {
@@ -22,7 +21,6 @@ const globMapLazy = {
   practices: import.meta.glob('../content/practices/*.{md,mdx}'),
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}'),
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}'),
-  remedies: import.meta.glob('../content/remedies/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}'),
 };
 
@@ -36,7 +34,6 @@ const collections = {
   practices: "practices",
   sutras: "sutras",
   zongjinglus: "zongjinglus",
-  remedies: "remedies",
   speeches: "speeches",
 } as const;
 

@@ -2,6 +2,7 @@
 title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ"
 date: "2000-01-01"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: 
   "Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu.
   Chỉ 1 hiểu 3, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ."

@@ -2,6 +2,7 @@
 title: "GIÁP SƠN THUYỀN TỬ"
 date: "2025-08-21"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS GIÁP SƠN THIỆN HỘI", "TS HOA ĐÌNH THUYỀN TỬ"]

@@ -1,6 +1,7 @@
 ---
 import { CATEGORY_MAP, TAG_MAP, CONTENT_MAP } from "../utils/getMarkdownContent";
 import "@/styles/sidebar.css";
+import PostTitle from "./post/PostTitle.astro";
 
 const { collection } = Astro.props;
 
@@ -24,19 +25,7 @@ const base = import.meta.env.BASE_URL;
         <ul class="post-list">
           {recentPosts.map(post => (
               <li class="post-item">
-                <a
-                    href={`${base}${post.frontmatter.type}/${post.file.split('/').pop()?.replace(/\.(md|mdx)$/, '')}`}
-                    class="post-link"
-                >
-                  {post.frontmatter.title}
-                </a>
-                <time class="post-date" datetime={post.frontmatter.date}>
-                  {new Date(post.frontmatter.date).toLocaleDateString("vi-VN", {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric"
-                  })}
-                </time>
+                <PostTitle post={post} />
               </li>
           ))}
         </ul>

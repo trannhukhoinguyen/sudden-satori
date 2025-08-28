@@ -2,6 +2,7 @@
 title: "NƯỚC CON AN ỔN"
 date: "2025-08-21"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS SA DI CAO", "TS DƯỢC SƠN DUY NGHIỄM"]

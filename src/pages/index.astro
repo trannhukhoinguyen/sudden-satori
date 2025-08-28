@@ -7,6 +7,7 @@ import PostExcerpt from "../components/post/PostExcerpt.astro";
 import PostCategories from "../components/post/PostCategories.astro";
 import PostDateTime from "../components/post/PostDateTime.astro";
 import PostTags from "../components/post/PostTags.astro";
+import PostImage from "../components/post/PostImage.astro";
 
 const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
@@ -30,20 +31,22 @@ const description = "Xem " + title;
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">
-        <h1 class="hero-title">Đốn Ngộ</h1>
+        <h1 class="hero-title">TỔ SƯ THIỀN</h1>
         <p class="hero-subtitle">Nhất Thiết Phật Ngữ Tâm</p>
         <p class="hero-description">Kiến tánh thành Phật</p>
         <hr class="hero-rule" />
         <div class="hero-actions">
-          <a href="#demo" class="btn btn-primary">Xem Demo</a>
-          <a href="#rules" class="btn btn-secondary">10 Quy Ước</a>
+          <a href="/sutras" class="btn btn-secondary">Xem Kinh</a>
+          <a href="/koans" class="btn btn-secondary">Xem Công án</a>
+          <a href="/blogs" class="btn btn-secondary">Xem Blog</a>
+          <a href="#rules" class="btn btn-primary" title="10 Chú ý khi thực hành Tổ Sư Thiền">10 Chú Ý</a>
         </div>
       </div>
     </section>
 
     <!-- Image Section -->
     <section class="image-area">
-      <img src={'/images/backgrounds/buddha-sitting-lumbini-garden.jpg'} alt={'Buddha sitting at Lumbini garden'} />
+      <PostImage imageUrl={'/images/backgrounds/thien-dinh-cua-Phat.jpg'} imageAlt={'Thiền định của Phật'} />
     </section>
 
     <!-- Blog Section -->
@@ -83,7 +86,7 @@ const description = "Xem " + title;
     <!-- Rule Section -->
     <section class="rules" id="rules">
       <div class="container">
-        <h2 class="section-title">10 Quy Ước</h2>
+        <h2 class="section-title">10 Chú Ý</h2>
         <p class="section-description">
           Người tham Tổ Sư Thiền phải chú ý những điều sau đây.
         </p>

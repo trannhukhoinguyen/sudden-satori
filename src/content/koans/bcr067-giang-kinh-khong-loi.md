@@ -2,6 +2,7 @@
 title: "LƯƠNG VŨ ĐẾ MỜI GIẢNG KINH"
 date: "2025-08-22"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LƯƠNG VŨ ĐẾ", "TS PHÓ ĐẠI SĨ", "TS BẢO CHÍ CÔNG"]

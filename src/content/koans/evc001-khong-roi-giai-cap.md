@@ -2,6 +2,7 @@
 title: "THANH NGUYÊN GIAI CẤP"
 date: "2025-08-05"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ"]

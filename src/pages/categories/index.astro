@@ -1,34 +1,21 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import "@/styles/badgeList.css";
 import { CATEGORY_MAP } from "../../utils/getMarkdownContent";
+import AllBadges from "../../components/post/AllBadges.astro";
 
-const base = import.meta.env.BASE_URL;
-const title = "Categories";
-const description = "Xem tất cả Categories";
+const title = "📦 Category";
+const type = "categories";
+const description = "Xem tất cả Category";
 const allCategories = Object.entries(CATEGORY_MAP);
 ---
 
 <Layout title={title} description={description} showSidebar={true}>
-  <div class="labels-page">
+  <div class="badges-page">
     <header class="page-header">
       <h1 class="page-title">{title}</h1>
       <hr class="page-rule" />
     </header>
 
-    <div class="badges-grid">
-      {allCategories.map(([category, { posts }]) => (
-          <div class="badge-card">
-            <a href={`${base}categories/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`} class="badge-link">
-              <h2 class="badge-title">{category}</h2>
-              <p class="badge-count">{posts.length} bài viết</p>
-            </a>
-          </div>
-      ))}
-    </div>
-
-    {allCategories.length === 0 && (
-        <div class="no-badge"><p>Chưa có category nào.</p></div>
-    )}
+    <AllBadges allBadges={allCategories} type={type} />
   </div>
 </Layout>

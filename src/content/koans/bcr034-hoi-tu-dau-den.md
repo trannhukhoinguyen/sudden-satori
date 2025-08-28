@@ -2,6 +2,7 @@
 title: "NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN"
 date: "2025-08-22"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NGƯỠNG SƠN HUỆ TỊCH"]

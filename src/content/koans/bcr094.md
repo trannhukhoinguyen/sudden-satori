@@ -2,6 +2,7 @@
 title: "TÊ GIÁC CỦA DIÊM QUAN"
 date: "2025-08-21"
 description: ""
+image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS DIÊM QUAN TỀ AN"]

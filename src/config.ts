@@ -11,13 +11,22 @@ export interface SiteConfig {
     youtube?: string;
     bookcase?: string;
     bookcase2?: string;
+    tosuthien1: string;
+    masterSite: string;
   };
   siteUrl: string;
+  base: string;
+  postsPerPage: number;
+  collections: string[];
+  categoryNames: {};
+  categoryDescriptions: {};
+  postConfig: {};
 }
 
 export const config: SiteConfig = {
   title: "TỔ SƯ THIỀN",
-  description: "Tổ Sư Thiền này là do đường lối chánh thức của Tổ Sư truyền xuống, gọi là tham thiền. " +
+  description:
+      "Tổ Sư Thiền này là do đường lối chánh thức của Tổ Sư truyền xuống, gọi là tham thiền. " +
       "Tham thiền không phải là ngồi thiền, ngồi thiền cũng không phải là tham thiền. " +
       "Nhiều người lầm tưởng rằng ngồi thiền tức tham thiền kỳ thực tham thiền không cần ngồi cũng được. / " +
       "Như Chư Tổ dạy: Phải khi lao động mà tập tham được mới tốt, nếu chỉ thích ngồi yên một chỗ vắng lặng mà tập tham thì khó hy vọng kiến tánh. \n" +
@@ -53,32 +62,14 @@ export const config: SiteConfig = {
     facebook: "https://www.facebook.com/Nhohoivanhin/",
     youtube: "https://www.youtube.com/c/tongphongtosuthien",
     bookcase: "https://pubhtml5.com/bookcase/wuxzq/",
-    bookcase2: "https://pubhtml5.com/bookcase/cunen/"
+    bookcase2: "https://pubhtml5.com/bookcase/cunen/",
+    tosuthien1: "https://tosuthien.vercel.app",
+    masterSite: "https://patriarchalzen.vercel.app/"
   },
-  siteUrl: "https://sudden-satori.vercel.app"
-};
+  siteUrl: "https://sudden-satori.vercel.app",
 
-// Export constants for SEO component
-export const SITE_TITLE = config.title;
-export const SITE_DESCRIPTION = config.description;
-
-export const EXTRA_BLOG_CONFIG = {
-  pathCategory: "categories",
-  pathTag: "tags",
-  noPostDescription: "Chưa có Bài viết nào.",
-  noCategoryDescription: "Chưa có Category nào.",
-  noTagDescription: "Chưa có Tag nào.",
-};
-export const BLOG_CONFIG = {
-
-};
-
-export const configNew = {
-  site: {
-    title: "Zen Study",
-    description: "Trang nghiên cứu Thiền tông và các bộ Kinh, Luận, Công án.",
-    base: import.meta.env.BASE_URL,
-  },
+  // NEW CONFIGS
+  base: import.meta.env.BASE_URL,
 
   // số bài trên 1 trang (dùng cho phân trang, recentPosts,...)
   postsPerPage: 5,
@@ -92,7 +83,7 @@ export const configNew = {
     "poems",
     "practices",
     "zongjinglus",
-    "remedies",
+    "speeches",
   ],
 
   categoryNames: {
@@ -104,7 +95,7 @@ export const configNew = {
     poems: "Thơ Thiền",
     practices: "Thực hành",
     zongjinglus: "Tông Cảnh Lục",
-    remedies: "Phương thuốc",
+    speeches: "Ngữ lục",
   },
 
   categoryDescriptions: {
@@ -116,6 +107,16 @@ export const configNew = {
     poems: "Xem các bài Thơ Thiền",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
     zongjinglus: "Xem Tông Cảnh Lục",
-    remedies: "Xem Phương thuốc",
+    speeches: "Xem Ngữ lục",
+  },
+
+  postConfig: {
+    noPostDescription: "Chưa có Bài viết nào",
+    noCategoryDescription: "Chưa có Category nào",
+    noTagDescription: "Chưa có Tag nào",
   },
 };
+
+// Export constants for SEO component
+export const SITE_TITLE = config.title;
+export const SITE_DESCRIPTION = config.description;
