@@ -77,3 +77,14 @@ Tham thoại đầu không có gì để hiểu, để đạt, để nắm.
 “Giữ nghi tình” là nuôi một đốm lửa nhỏ trong lòng bàn tay — đừng dập, cũng đừng đốt — chỉ giữ nó miên mật, lặng lẽ, từng ngày.
 
 > “Một ngày không nghi, là một ngày trôi qua vô ích.”
+
+***
+
+> ✨ Nguồn:  ...
+
+***
+
+## ℹ️ Thông tin thêm
+
+[^1]: ⭐️  ...
+

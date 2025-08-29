@@ -8,7 +8,9 @@ author: "Thiền Sư Lai Quả"
 draft: false
 ---
 
-Thô tâm là gì? Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất.
+## THÔ TÂM LÀ GÌ?
+
+Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất.
 
 Nếu đem bao đậu ngâm nước, đậu nẩy mầm nở ra thì làm bao bị bể. Dụ như thô tâm duyên cảnh, tâm cảnh đồng thô, dù thu lại thành một khối, cũng chưa quên các thức.
 
@@ -49,7 +51,13 @@ Than ôi! Nếu có thể như con tằm nhả tơ, bắt đầu từ một sợ
 
 Bằng không, há người chẳng bằng vật ư!
 
+***
 
-> Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả)
->
-> Việt Dịch: HT. Thích Duy Lực – Định Huệ
+> ✨ Nguồn: Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả). Việt Dịch: HT. Thích Duy Lực – Định Huệ
+
+***
+
+## ℹ️ Thông tin thêm
+
+[^1]: ⭐️  ...
+

@@ -1,14 +1,16 @@
 ---
-title: 'TRUYỀN THỪA THIỀN TÔNG'
+title: 'TRUYỀN THỪA TỔ SƯ THIỀN (THIỀN TÔNG)'
 date: "2025-06-11"
 description: 'Từ Phật Thích Ca truyền đến nay...'
-categories: ["Blog"]
-tags: ["Truyền thừa"]
-author: "wikipedia"
+excerpt:
+  "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động."
+categories: ["Bài viết"]
+tags: ["Truyền thừa", "Truyền thừa"]
+author: "phatgiao.org.vn"
 draft: false
 ---
 
-# **India**
+## ** 🇮🇳 ẤN ĐỘ**
 
 ```
 Śākyamuni Buddha
@@ -42,7 +44,7 @@ draft: false
                                                                                                             └── Bodhidharma (XXVIII)
 ```
 
-# **China**
+## ** 🇨🇳 TRUNG QUỐC**
 
 ```
 └── Bodhidharma (XXVIII)
@@ -56,7 +58,7 @@ draft: false
 ```
 
 
-# 🎨 **NGŨ TÔNG**
+## 🎨 **NGŨ TÔNG**
 
 - ⚡️ Lâm Tế thế thắng
 
@@ -68,9 +70,11 @@ draft: false
 
 - 🌊 Vân Môn thẳng tắt
 
-## ⚡️ **LÂM TẾ TÔNG**
+***
 
-### 🌱 Truyền thừa
+### ⚡️ **LÂM TẾ TÔNG**
+
+#### 🌱 Truyền thừa
 
 ```
 └── Linji Yixuan (I)
@@ -80,7 +84,7 @@ draft: false
                 └── Shoushan Xingnian
 ```
 
-### 📜 Gia phong - Tông chỉ
+#### 📜 Gia phong - Tông chỉ
 
 ✨ TAM HUYỀN
 
@@ -199,16 +203,18 @@ Sư đáp:
 
 ***
 
-## 🎁 **QUY NGƯỠNG TÔNG**
+***
 
-### 🌱 Truyền thừa
+### 🎁 **QUY NGƯỠNG TÔNG**
+
+#### 🌱 Truyền thừa
 
 ```
 └── Guishan Lingyou (I)
     └── Yangshan Huij (II)
 ```
 
-### 📜 Gia phong - Tông chỉ
+#### 📜 Gia phong - Tông chỉ
 
 Quy Ngưỡng Tông cho 96 tướng tròn, gia phong tương đối ôn hòa, chẳng giống sự mãnh liệt của Lâm Tế Tông.
 
@@ -218,9 +224,11 @@ Còn Pháp Nhãn Thiền Sư Thập Quy Luận rằng: “Quy Ngưỡng thì vu�
 
 ***
 
-## 🌟 **TÀO ĐỘNG TÔNG**
+***
 
-### 🌱 Truyền thừa
+### 🌟 **TÀO ĐỘNG TÔNG**
+
+#### 🌱 Truyền thừa
 
 ```
 └── Dongshan Liangjie (I)
@@ -234,7 +242,7 @@ Còn Pháp Nhãn Thiền Sư Thập Quy Luận rằng: “Quy Ngưỡng thì vu�
     └── Jiufeng Puman (Tongxuan) (II)
 ```
 
-### 📜 Gia phong - Tông chỉ
+#### 📜 Gia phong - Tông chỉ
 
 “Tào Động là xướng họa làm dụng”, bởi gia phong một vấn một đáp, qua lại miên mật, so với cơ phong thẳng tắp của Lâm Tế ý thú khác xa.
 Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động nông dân” do gia phong Lâm Tế như tướng chỉ huy binh lính trăm vạn, mà gia phong Tào Động thì như kẻ nông phu canh tác ruộng đất rất chu đáo vậy.
@@ -373,9 +381,11 @@ Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động
 
 ***
 
-## 🎈 **PHÁP NHÃN TÔNG**
+***
 
-### 🌱 Truyền thừa
+### 🎈 **PHÁP NHÃN TÔNG**
+
+#### 🌱 Truyền thừa
 
 ```
 └── Fayan Wenyi (I)
@@ -388,7 +398,7 @@ Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động
     └── Bao’en Xuanze (II)
 ```
 
-### 📜 Gia phong - Tông chỉ
+#### 📜 Gia phong - Tông chỉ
 
 Gia phong của Pháp Nhãn Tông có **Lục Tướng** và **Tứ Liệu Giản** dùng để tiếp dẫn hậu học:
 
@@ -406,9 +416,11 @@ Gia phong của Pháp Nhãn Tông có **Lục Tướng** và **Tứ Liệu Giả
 
 ***
 
-## 🌊 **VÂN MÔN TÔNG**
+***
 
-### 🌱 Truyền thừa
+### 🌊 **VÂN MÔN TÔNG**
+
+#### 🌱 Truyền thừa
 
 ```
 └── Yunmen Wenyan (I)
@@ -420,7 +432,7 @@ Gia phong của Pháp Nhãn Tông có **Lục Tướng** và **Tứ Liệu Giả
     └── Xianglin Chengyuan (II)
 ```
 
-### 📜 Gia phong - Tông chỉ
+#### 📜 Gia phong - Tông chỉ
 
 Gia Phong của Vân Môn thẳng tắt, thường dùng:
 
@@ -507,5 +519,31 @@ Văn Yểm có tự làm bài kệ rằng:
 > Dầu cho Trương Lương nhiều kế sách,
 >
 > Cuối cùng ở đây cũng khó thi (hành).
+
+***
+
+***
+
+## ** 🇻🇳 VIỆT NAM**
+
+...
+
+***
+
+## ** 🇯🇵 NHẬT BẢN**
+
+...
+
+***
+
+## ** 🇰🇷 HÀN QUỐC / TRIỀU TIÊN**
+
+...
+
+***
+
+## ℹ️ Thông tin thêm
+
+> ✨ Nguồn: https://phatgiao.org.vn/gia-phong-cua-ngu-gia-tong-phai-thien-phat-giao-d26613.html
 
 

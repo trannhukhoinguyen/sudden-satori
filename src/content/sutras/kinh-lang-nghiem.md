@@ -3770,3 +3770,13 @@ Phật thuyết kinh này xong, các vị Tỳ Kheo, Tỳ Kheo Ni, Ưu Bà Tắc
 [^27]: Lập tâm viên giác thành cái quả trạm minh. Lấy cái giác làm viên minh: cho là "viên" thì bị kẹt ở nơi viên, cho là "minh", thì bị kẹt nơi minh. Là "minh" thì chẳng mê ở nơi nhân quả cảm ứng; là "viên" nên chẳng mê vào chỗ "diệt rồi là xong", từ đó truy cứu sự thâm diệu, thâm lại càng thâm, chẳng đọa nơi hữu, diệu lại thêm diệu, chẳng đọa nơi Vô, thì ở chỗ "Phi hữu phi vô" này lập cái Niết Bàn chẳng sanh chẳng diệt, cố chấp không thể hóa giải được, nên chẳng cầu tiến thêm, thành quả định tánh Bích Chi.
 
 ## KINH LĂNG NGHIÊM HẾT
+
+***
+
+> ✨ Nguồn:  ...
+
+***
+
+## ℹ️ Thông tin thêm
+
+[^1]: ⭐️  ...

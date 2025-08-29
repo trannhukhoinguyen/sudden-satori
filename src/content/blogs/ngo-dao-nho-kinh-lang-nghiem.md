@@ -2,7 +2,7 @@
 title: "6 vị đại thiền sư đã khai ngộ nhờ Kinh Lăng Nghiêm"
 description: ""
 date: "2025-08-26"
-categories: ["Blog"]
+categories: ["Bài viết"]
 tags: ["Kinh Lăng Nghiêm"]
 author: "Hiệp hội Xúc tiến Văn hóa Trung Hoa, Thiền Lâm Học Xã"
 draft: false
@@ -91,4 +91,6 @@ Thiền sư Thượng Phương Ngộ An ở chùa Thụy Lộc Ôn Châu, ngư�
 
 ***
 
-> https://www.facebook.com/groups/399852061704931/posts/s%C3%A1u-v%E1%BB%8B-%C4%91%E1%BA%A1i-thi%E1%BB%81n-s%C6%B0-%C4%91%C3%A3-khai-ng%E1%BB%99-nh%E1%BB%9D-kinh-l%C4%83ng-nghi%C3%AAm-trong-l%E1%BB%8Bch-s%E1%BB%ADkinh-l%C4%83ng-nghi/1285886766434785/
+## ℹ️ Thông tin thêm
+
+> ✨ Nguồn: https://www.facebook.com/groups/399852061704931/posts/s%C3%A1u-v%E1%BB%8B-%C4%91%E1%BA%A1i-thi%E1%BB%81n-s%C6%B0-%C4%91%C3%A3-khai-ng%E1%BB%99-nh%E1%BB%9D-kinh-l%C4%83ng-nghi%C3%AAm-trong-l%E1%BB%8Bch-s%E1%BB%ADkinh-l%C4%83ng-nghi/1285886766434785/

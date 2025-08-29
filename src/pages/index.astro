@@ -32,7 +32,7 @@ const description = "Xem " + title;
     <section class="hero">
       <div class="hero-content">
         <h1 class="hero-title">TỔ SƯ THIỀN</h1>
-        <p class="hero-subtitle">Nhất Thiết Phật Ngữ Tâm</p>
+        <p class="hero-subtitle">Tham Thoại Đầu - Khởi Nghi Tình</p>
         <p class="hero-description">Kiến tánh thành Phật</p>
         <hr class="hero-rule" />
         <div class="hero-actions">
@@ -46,24 +46,24 @@ const description = "Xem " + title;
 
     <!-- Image Section -->
     <section class="image-area">
-      <PostImage imageUrl={'/images/backgrounds/thien-dinh-cua-Phat.jpg'} imageAlt={'Thiền định của Phật'} />
+      <PostImage imageUrl={'/images/backgrounds/thien-dinh-cua-Phat.jpg'} imageAlt={'Thiền định của Phật - Tổ Sư Thiền'} />
     </section>
 
     <!-- Blog Section -->
-    <section class="demo-section" id="demo">
+    <section class="blog-section" id="blog">
       <div class="container">
-        <h2 class="section-title">Blog</h2>
-        <p class="demo-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
+        <h2 class="section-title">Bài viết</h2>
+        <p class="blog-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
 
         {sortedPosts.length > 0 && (
-          <div class="demo-posts">
+          <div class="blog-posts">
             {sortedPosts.map(post => (
-              <article class="demo-post-card">
-                <h3 class="demo-post-title">
+              <article class="blog-post-card">
+                <h3 class="blog-post-title">
                   <a href={post.url}>{post.frontmatter.title}</a>
                 </h3>
 
-                <div class="demo-post-meta">
+                <div class="blog-post-meta">
                   <PostDateTime post={post} />
 
                   <PostCategories frontmatter={post.frontmatter} showLabel={false} floatRight={true} />
@@ -77,7 +77,7 @@ const description = "Xem " + title;
           </div>
         )}
 
-        <div class="demo-actions">
+        <div class="blog-actions">
           <a href={`${import.meta.env.BASE_URL}blog`} class="btn btn-primary">Xem Blog</a>
         </div>
       </div>
@@ -438,11 +438,11 @@ const description = "Xem " + title;
     margin: 0;
   }
 
-  .demo-section {
+  .blog-section {
     padding: calc(var(--grid-unit) * 8) 0;
   }
 
-  .demo-description {
+  .blog-description {
     text-align: center;
     font-size: 1.125rem;
     line-height: 1.6;
@@ -453,13 +453,13 @@ const description = "Xem " + title;
     margin-right: auto;
   }
 
-  .demo-posts {
+  .blog-posts {
     display: grid;
     gap: calc(var(--grid-unit) * 4);
     margin-bottom: calc(var(--grid-unit) * 6);
   }
 
-  .demo-post-card {
+  .blog-post-card {
     background-color: var(--color-surface);
     border: 1px solid var(--color-border);
     border-radius: 8px;
@@ -467,29 +467,29 @@ const description = "Xem " + title;
     transition: transform 0.2s ease, border-color 0.2s ease;
   }
 
-  .demo-post-card:hover {
+  .blog-post-card:hover {
     transform: translateY(-2px);
     border-color: var(--color-accent-gold);
   }
 
-  .demo-post-title {
+  .blog-post-title {
     font-family: var(--font-heading-secondary),serif;
     font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: calc(var(--grid-unit));
   }
 
-  .demo-post-title a {
+  .blog-post-title a {
     color: var(--color-text-primary);
     text-decoration: none;
   }
 
-  .demo-post-title a:hover,
-  .demo-post-title a:focus {
+  .blog-post-title a:hover,
+  .blog-post-title a:focus {
     color: var(--color-accent-gold);
   }
 
-  .demo-post-meta {
+  .blog-post-meta {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -497,7 +497,7 @@ const description = "Xem " + title;
     margin-bottom: calc(var(--grid-unit) * 1.5);
   }
 
-  .demo-post-date {
+  .blog-post-date {
     font-family: var(--font-mono),serif;
     font-size: 0.85rem;
     color: var(--color-text-muted);
@@ -505,7 +505,7 @@ const description = "Xem " + title;
     letter-spacing: 0.05em;
   }
 
-  .demo-post-reading-time {
+  .blog-post-reading-time {
     font-family: var(--font-mono),serif;
     font-size: 0.85rem;
     color: var(--color-text-muted);
@@ -513,25 +513,25 @@ const description = "Xem " + title;
     letter-spacing: 0.05em;
   }
 
-  .demo-post-reading-time::before {
+  .blog-post-reading-time::before {
     content: "•";
     margin: 0 calc(var(--grid-unit) / 2);
     color: var(--color-border);
   }
 
-  .demo-post-excerpt {
+  .blog-post-excerpt {
     color: var(--color-text-secondary);
     line-height: 1.6;
     margin-bottom: calc(var(--grid-unit) * 2);
   }
 
-  .demo-post-badges {
+  .blog-post-badges {
     display: flex;
     flex-wrap: wrap;
     gap: calc(var(--grid-unit) / 2);
   }
 
-  .demo-badge {
+  .blog-badge {
     background-color: var(--color-text-primary);
     color: white;
     padding: calc(var(--grid-unit) / 4) calc(var(--grid-unit) / 2);
@@ -542,14 +542,14 @@ const description = "Xem " + title;
     border-radius: 2px;
   }
 
-  /* Dark mode demo badge styles */
-  :global([data-theme="dark"]) .demo-badge {
+  /* Dark mode blog badge styles */
+  :global([data-theme="dark"]) .blog-badge {
     background-color: var(--color-surface);
     color: var(--color-text-primary);
     border: 1px solid var(--color-border);
   }
 
-  .demo-actions {
+  .blog-actions {
     text-align: center;
   }
 

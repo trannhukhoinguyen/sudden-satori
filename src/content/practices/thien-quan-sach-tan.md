@@ -578,5 +578,15 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 ***(Tây Vực Ký)***
 
+***
+
+> ✨ Nguồn:  ...
+
+***
+
+## ℹ️ Thông tin thêm
+
+[^1]: ⭐️  ...
+
 
 

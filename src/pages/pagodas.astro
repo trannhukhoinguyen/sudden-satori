@@ -1,0 +1,643 @@
+---
+import Layout from '../layouts/Layout.astro';
+import pagodas from '@/data/pagodas.ts';
+import PostImage from "../components/post/PostImage.astro";
+
+const title = 'Danh sách Thiền đường';
+const description = ``;
+---
+
+<Layout title={title} description={description}>
+  {
+    pagodas.length > 0 ? (
+        <hr class="blog-rule" />
+        <h2 class="blog-title-medium">{title}</h2>
+        <div class="related-posts">
+          {pagodas?.map((pagoda: any) => {
+            return (
+                <article class="related-post-card">
+                  <h4 class="related-post-title">
+                    <a href={`/`}>
+                      {pagoda.title}
+                    </a>
+                  </h4>
+
+                  <div class="related-post-meta">
+                    <PostImage imageUrl={pagoda.image} imageAlt={pagoda.title} />
+                  </div>
+
+                  <div class="related-post-meta">
+                    ...
+                  </div>
+                </article>
+            )
+          })}
+        </div>
+    ) : ''
+  }
+
+  <div class="col-inner">
+
+
+    <div class="container section-title-container"><h1 class="section-title section-title-center"><b></b><span class="section-title-main" style="color:rgb(221, 16, 16);">DANH SÁCH THIỀN ĐƯỜNG</span><b></b></h1></div>
+    <div class="container section-title-container"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" style="color:rgb(255, 0, 0);">MIỀN NAM</span><b></b></h3></div>
+
+
+    <div class="row large-columns-3 medium-columns-1 small-columns-1">
+      <div class="col post-item" data-animate="bounceIn" data-animate-transform="true" data-animate-transition="true" data-animated="true">
+        <div class="col-inner">
+          <div class="box box-normal box-text-bottom box-blog-post has-hover">
+            <div class="box-image">
+              <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+                <a href="https://tosuthien.com/2024/09/09/chua-phap-thanh-i-quan-6/" class="plain" aria-label="Chùa Pháp Thành I – Quận 6">
+                  <img loading="lazy" decoding="async" width="711" height="400" src="https://tosuthien.com/wp-content/uploads/2024/09/Thiet-ke-chua-co-ten-711x400.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2024/09/Thiet-ke-chua-co-ten-711x400.png 711w, https://tosuthien.com/wp-content/uploads/2024/09/Thiet-ke-chua-co-ten-1400x788.png 1400w, https://tosuthien.com/wp-content/uploads/2024/09/Thiet-ke-chua-co-ten-768x432.png 768w, https://tosuthien.com/wp-content/uploads/2024/09/Thiet-ke-chua-co-ten-1536x864.png 1536w, https://tosuthien.com/wp-content/uploads/2024/09/Thiet-ke-chua-co-ten-2048x1152.png 2048w" sizes="(max-width: 711px) 100vw, 711px">							</a>
+              </div>
+            </div>
+            <div class="box-text text-center">
+              <div class="box-text-inner blog-post-inner">
+
+
+                <h5 class="post-title is-large uppercase">
+                  <a href="https://tosuthien.com/2024/09/09/chua-phap-thanh-i-quan-6/" class="plain">Chùa Pháp Thành I – Quận 6</a>
+                </h5>
+                <div class="is-divider"></div>
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><div class="col post-item" data-animate="bounceIn" data-animate-transform="true" data-animate-transition="true" data-animated="true">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/chua-tam-bao/" class="plain" aria-label="Chùa Tam Bảo- Đồng Tháp">
+                <img loading="lazy" decoding="async" width="300" height="169" src="https://tosuthien.com/wp-content/uploads/2023/05/Richard-300x169.png" class="attachment-medium size-medium wp-post-image" alt="Ha Tam Bao" srcset="https://tosuthien.com/wp-content/uploads/2023/05/Richard-300x169.png 300w, https://tosuthien.com/wp-content/uploads/2023/05/Richard-1024x576.png 1024w, https://tosuthien.com/wp-content/uploads/2023/05/Richard-768x432.png 768w, https://tosuthien.com/wp-content/uploads/2023/05/Richard-600x338.png 600w, https://tosuthien.com/wp-content/uploads/2023/05/Richard.png 1280w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/chua-tam-bao/" class="plain">Chùa Tam Bảo- Đồng Tháp</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn" data-animate-transform="true" data-animate-transition="true" data-animated="true">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/23/thien-vien-duy-luc/" class="plain" aria-label="Thiền Viện Duy Lực – Đồng Nai">
+                <img loading="lazy" decoding="async" width="300" height="225" src="https://tosuthien.com/wp-content/uploads/2023/05/1-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/05/1-300x225.jpg 300w, https://tosuthien.com/wp-content/uploads/2023/05/1-scaled-600x450.jpg 600w, https://tosuthien.com/wp-content/uploads/2023/05/1-1024x768.jpg 1024w, https://tosuthien.com/wp-content/uploads/2023/05/1-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2023/05/1-1536x1152.jpg 1536w, https://tosuthien.com/wp-content/uploads/2023/05/1-2048x1536.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/23/thien-vien-duy-luc/" class="plain">Thiền Viện Duy Lực – Đồng Nai</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn" data-animate-transform="true" data-animate-transition="true" data-animated="true">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2023/07/07/thien-tu-quy-son-ba-ria-vung-tau/" class="plain" aria-label="Thiền Tự Quy Sơn – BRVT">
+                <img loading="lazy" decoding="async" width="533" height="400" src="https://tosuthien.com/wp-content/uploads/2023/07/z4558674706121_a610ff83f6372a1e635392f5a92fb5f8-533x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/07/z4558674706121_a610ff83f6372a1e635392f5a92fb5f8-533x400.jpg 533w, https://tosuthien.com/wp-content/uploads/2023/07/z4558674706121_a610ff83f6372a1e635392f5a92fb5f8-1067x800.jpg 1067w, https://tosuthien.com/wp-content/uploads/2023/07/z4558674706121_a610ff83f6372a1e635392f5a92fb5f8-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2023/07/z4558674706121_a610ff83f6372a1e635392f5a92fb5f8-1536x1152.jpg 1536w, https://tosuthien.com/wp-content/uploads/2023/07/z4558674706121_a610ff83f6372a1e635392f5a92fb5f8-2048x1536.jpg 2048w" sizes="(max-width: 533px) 100vw, 533px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2023/07/07/thien-tu-quy-son-ba-ria-vung-tau/" class="plain">Thiền Tự Quy Sơn – BRVT</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn" data-animate-transform="true" data-animate-transition="true" data-animated="true">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2023/07/24/chua-phuoc-loc-tay-ninh/" class="plain" aria-label="Chùa Phước Lộc – Tây Ninh">
+                <img loading="lazy" decoding="async" width="276" height="400" src="https://tosuthien.com/wp-content/uploads/2023/07/chuaphuocloc-276x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/07/chuaphuocloc-276x400.jpg 276w, https://tosuthien.com/wp-content/uploads/2023/07/chuaphuocloc-552x800.jpg 552w, https://tosuthien.com/wp-content/uploads/2023/07/chuaphuocloc-768x1112.jpg 768w, https://tosuthien.com/wp-content/uploads/2023/07/chuaphuocloc.jpg 961w" sizes="(max-width: 276px) 100vw, 276px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2023/07/24/chua-phuoc-loc-tay-ninh/" class="plain">Chùa Phước Lộc – Tây Ninh</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn" data-animate-transform="true" data-animate-transition="true" data-animated="true">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/24/chua-phat-da-2/" class="plain" aria-label="Chùa Phật Đà – Quận 3">
+                <img loading="lazy" decoding="async" width="300" height="200" src="https://tosuthien.com/wp-content/uploads/2022/12/anh-10-300x200.jpeg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2022/12/anh-10-300x200.jpeg 300w, https://tosuthien.com/wp-content/uploads/2022/12/anh-10-1024x683.jpeg 1024w, https://tosuthien.com/wp-content/uploads/2022/12/anh-10-768x512.jpeg 768w, https://tosuthien.com/wp-content/uploads/2022/12/anh-10-1536x1025.jpeg 1536w, https://tosuthien.com/wp-content/uploads/2022/12/anh-10.jpeg 2048w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/24/chua-phat-da-2/" class="plain">Chùa Phật Đà – Quận 3</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/chua-thien-tri/" class="plain" aria-label="Chùa Thiên Trì – Bình Chánh">
+                <img loading="lazy" decoding="async" width="534" height="400" src="https://tosuthien.com/wp-content/uploads/2021/11/z4463006055653_2ab4562237b8024f2cb0d33d02acd424-1-1-534x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/z4463006055653_2ab4562237b8024f2cb0d33d02acd424-1-1-534x400.jpg 534w, https://tosuthien.com/wp-content/uploads/2021/11/z4463006055653_2ab4562237b8024f2cb0d33d02acd424-1-1-1067x800.jpg 1067w, https://tosuthien.com/wp-content/uploads/2021/11/z4463006055653_2ab4562237b8024f2cb0d33d02acd424-1-1-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2021/11/z4463006055653_2ab4562237b8024f2cb0d33d02acd424-1-1.jpg 1242w" sizes="(max-width: 534px) 100vw, 534px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/chua-thien-tri/" class="plain">Chùa Thiên Trì – Bình Chánh</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/chua-lien-hoa-2/" class="plain" aria-label="Chùa Liên Hoa – Bình Chánh">
+                <img loading="lazy" decoding="async" width="533" height="400" src="https://tosuthien.com/wp-content/uploads/2021/11/z4463037499332_e3d62215c50382bfa3cfca6bc2a0deeb-533x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/z4463037499332_e3d62215c50382bfa3cfca6bc2a0deeb-533x400.jpg 533w, https://tosuthien.com/wp-content/uploads/2021/11/z4463037499332_e3d62215c50382bfa3cfca6bc2a0deeb-1067x800.jpg 1067w, https://tosuthien.com/wp-content/uploads/2021/11/z4463037499332_e3d62215c50382bfa3cfca6bc2a0deeb-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2021/11/z4463037499332_e3d62215c50382bfa3cfca6bc2a0deeb-1536x1152.jpg 1536w, https://tosuthien.com/wp-content/uploads/2021/11/z4463037499332_e3d62215c50382bfa3cfca6bc2a0deeb-2048x1536.jpg 2048w" sizes="(max-width: 533px) 100vw, 533px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/chua-lien-hoa-2/" class="plain">Chùa Liên Hoa – Bình Chánh</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/thien-duong-lieu-quan-i/" class="plain" aria-label="Thiền Đường Liễu Quán I – BRVT">
+                <img loading="lazy" decoding="async" width="800" height="400" src="https://tosuthien.com/wp-content/uploads/2023/06/z4456462764318_5a4327ba2635fc57b265674dfc54c054-800x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/06/z4456462764318_5a4327ba2635fc57b265674dfc54c054-800x400.jpg 800w, https://tosuthien.com/wp-content/uploads/2023/06/z4456462764318_5a4327ba2635fc57b265674dfc54c054-768x384.jpg 768w, https://tosuthien.com/wp-content/uploads/2023/06/z4456462764318_5a4327ba2635fc57b265674dfc54c054.jpg 1286w" sizes="(max-width: 800px) 100vw, 800px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/thien-duong-lieu-quan-i/" class="plain">Thiền Đường Liễu Quán I – BRVT</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/tu-vien-thanh-long/" class="plain" aria-label="Tu Viện Thanh Long – BRVT">
+                <img loading="lazy" decoding="async" width="300" height="169" src="https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-1-300x169.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-1-300x169.png 300w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-1-1024x576.png 1024w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-1-768x432.png 768w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-1-600x338.png 600w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-1.png 1280w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/tu-vien-thanh-long/" class="plain">Tu Viện Thanh Long – BRVT</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/chua-lien-hoa/" class="plain" aria-label="Chùa Liên Hoa">
+                <img loading="lazy" decoding="async" width="225" height="300" src="https://tosuthien.com/wp-content/uploads/2021/11/2017-11-17-225x300.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/2017-11-17-225x300.jpg 225w, https://tosuthien.com/wp-content/uploads/2021/11/2017-11-17.jpg 382w" sizes="(max-width: 225px) 100vw, 225px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/chua-lien-hoa/" class="plain">Chùa Liên Hoa</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2023/05/31/2618-2/" class="plain" aria-label="Chùa Liên Hương">
+                <img loading="lazy" decoding="async" width="300" height="225" src="https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-300x225.jpg 300w, https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-1024x768.jpg 1024w, https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-1536x1152.jpg 1536w, https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-2048x1536.jpg 2048w, https://tosuthien.com/wp-content/uploads/2023/05/z4391886910767_a990d406fe40955293d849090db4f70b-600x450.jpg 600w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2023/05/31/2618-2/" class="plain">Chùa Liên Hương</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/chua-thien-quang/" class="plain" aria-label="Chùa Thiện Quang">
+                <img loading="lazy" decoding="async" width="300" height="169" src="https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-4-300x169.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-4-300x169.png 300w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-4-1024x576.png 1024w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-4-768x432.png 768w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-4-600x338.png 600w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-4.png 1280w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/chua-thien-quang/" class="plain">Chùa Thiện Quang</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/chua-phat-quang/" class="plain" aria-label="Chùa Phật Quang">
+                <img loading="lazy" decoding="async" width="300" height="169" src="https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-2-300x169.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-2-300x169.png 300w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-2-1024x576.png 1024w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-2-768x432.png 768w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-2-600x338.png 600w, https://tosuthien.com/wp-content/uploads/2021/11/Luoc-giang-kinh-Lang-Nghiem-2.png 1280w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/chua-phat-quang/" class="plain">Chùa Phật Quang</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/02/chua-phuoc-dien/" class="plain" aria-label="Chùa Phước Điền">
+                <img loading="lazy" decoding="async" width="300" height="169" src="https://tosuthien.com/wp-content/uploads/2023/05/Richard-1-300x169.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/05/Richard-1-300x169.png 300w, https://tosuthien.com/wp-content/uploads/2023/05/Richard-1-1024x576.png 1024w, https://tosuthien.com/wp-content/uploads/2023/05/Richard-1-768x432.png 768w, https://tosuthien.com/wp-content/uploads/2023/05/Richard-1-600x338.png 600w, https://tosuthien.com/wp-content/uploads/2023/05/Richard-1.png 1280w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/02/chua-phuoc-dien/" class="plain">Chùa Phước Điền</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></div>
+    <div class="container section-title-container"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" style="color:rgb(255, 0, 0);">MIỀN TRUNG</span><b></b></h3></div>
+
+
+    <div class="row large-columns-3 medium-columns-1 small-columns-1">
+      <div class="col post-item" data-animate="bounceIn">
+        <div class="col-inner">
+          <div class="box box-normal box-text-bottom box-blog-post has-hover">
+            <div class="box-image">
+              <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+                <a href="https://tosuthien.com/2021/11/29/thien-vien-linh-son/" class="plain" aria-label="Thiền Viện Linh Sơn – Lâm Đồng">
+                  <img loading="lazy" decoding="async" width="300" height="225" src="https://tosuthien.com/wp-content/uploads/2021/11/350124789_157565813813532_6613520195619551289_n-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/350124789_157565813813532_6613520195619551289_n-300x225.jpg 300w, https://tosuthien.com/wp-content/uploads/2021/11/350124789_157565813813532_6613520195619551289_n-1024x768.jpg 1024w, https://tosuthien.com/wp-content/uploads/2021/11/350124789_157565813813532_6613520195619551289_n-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2021/11/350124789_157565813813532_6613520195619551289_n-1536x1152.jpg 1536w, https://tosuthien.com/wp-content/uploads/2021/11/350124789_157565813813532_6613520195619551289_n-600x450.jpg 600w, https://tosuthien.com/wp-content/uploads/2021/11/350124789_157565813813532_6613520195619551289_n.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+              </div>
+            </div>
+            <div class="box-text text-center">
+              <div class="box-text-inner blog-post-inner">
+
+
+                <h5 class="post-title is-large uppercase">
+                  <a href="https://tosuthien.com/2021/11/29/thien-vien-linh-son/" class="plain">Thiền Viện Linh Sơn – Lâm Đồng</a>
+                </h5>
+                <div class="is-divider"></div>
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2023/06/19/chua-son-hai/" class="plain" aria-label="Chùa Sơn Hải – Khánh Hòa">
+                <img loading="lazy" decoding="async" width="533" height="400" src="https://tosuthien.com/wp-content/uploads/2023/06/z4445121004060_1bea4577e3cd8055ea0020034de64155-533x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/06/z4445121004060_1bea4577e3cd8055ea0020034de64155-533x400.jpg 533w, https://tosuthien.com/wp-content/uploads/2023/06/z4445121004060_1bea4577e3cd8055ea0020034de64155-1067x800.jpg 1067w, https://tosuthien.com/wp-content/uploads/2023/06/z4445121004060_1bea4577e3cd8055ea0020034de64155-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2023/06/z4445121004060_1bea4577e3cd8055ea0020034de64155.jpg 1280w" sizes="(max-width: 533px) 100vw, 533px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2023/06/19/chua-son-hai/" class="plain">Chùa Sơn Hải – Khánh Hòa</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-zoom image-zoom image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2023/06/19/chua-phuoc-duc/" class="plain" aria-label="Chùa Phước Đức">
+                <img loading="lazy" decoding="async" width="711" height="400" src="https://tosuthien.com/wp-content/uploads/2023/06/TU-NGHI-DEN-NGO-1-711x400.png" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/06/TU-NGHI-DEN-NGO-1-711x400.png 711w, https://tosuthien.com/wp-content/uploads/2023/06/TU-NGHI-DEN-NGO-1-768x432.png 768w, https://tosuthien.com/wp-content/uploads/2023/06/TU-NGHI-DEN-NGO-1.png 1280w" sizes="(max-width: 711px) 100vw, 711px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2023/06/19/chua-phuoc-duc/" class="plain">Chùa Phước Đức</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></div>
+    <div class="container section-title-container"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" style="color:rgb(255, 0, 0);">MIỀN BẮC</span><b></b></h3></div>
+
+
+    <div class="row large-columns-3 medium-columns-1 small-columns-1">
+      <div class="col post-item" data-animate="bounceIn">
+        <div class="col-inner">
+          <div class="box box-normal box-text-bottom box-blog-post has-hover">
+            <div class="box-image">
+              <div class="image-cover" style="padding-top:56.25%;">
+                <a href="https://tosuthien.com/2023/06/19/chua-quang-nhan/" class="plain" aria-label="Chùa Quan Nhân – Hà Nội">
+                  <img loading="lazy" decoding="async" width="514" height="400" src="https://tosuthien.com/wp-content/uploads/2023/06/73_big-514x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/06/73_big-514x400.jpg 514w, https://tosuthien.com/wp-content/uploads/2023/06/73_big.jpg 700w" sizes="(max-width: 514px) 100vw, 514px">							</a>
+              </div>
+            </div>
+            <div class="box-text text-center">
+              <div class="box-text-inner blog-post-inner">
+
+
+                <h5 class="post-title is-large uppercase">
+                  <a href="https://tosuthien.com/2023/06/19/chua-quang-nhan/" class="plain">Chùa Quan Nhân – Hà Nội</a>
+                </h5>
+                <div class="is-divider"></div>
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2023/07/01/chua-thuong-thai-nguyen/" class="plain" aria-label="Chùa Thượng – Thái Nguyên">
+                <img loading="lazy" decoding="async" width="533" height="400" src="https://tosuthien.com/wp-content/uploads/2023/07/z4474760869795_e6d4888ac158be3b75beccb989c2f8fe-533x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2023/07/z4474760869795_e6d4888ac158be3b75beccb989c2f8fe-533x400.jpg 533w, https://tosuthien.com/wp-content/uploads/2023/07/z4474760869795_e6d4888ac158be3b75beccb989c2f8fe-1067x800.jpg 1067w, https://tosuthien.com/wp-content/uploads/2023/07/z4474760869795_e6d4888ac158be3b75beccb989c2f8fe-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2023/07/z4474760869795_e6d4888ac158be3b75beccb989c2f8fe-1536x1152.jpg 1536w, https://tosuthien.com/wp-content/uploads/2023/07/z4474760869795_e6d4888ac158be3b75beccb989c2f8fe-2048x1536.jpg 2048w" sizes="(max-width: 533px) 100vw, 533px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2023/07/01/chua-thuong-thai-nguyen/" class="plain">Chùa Thượng – Thái Nguyên</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></div>
+    <div class="container section-title-container"><h3 class="section-title section-title-bold-center"><b></b><span class="section-title-main" style="color:rgb(255, 0, 0);">Ngoài Nước</span><b></b></h3></div>
+
+
+    <div class="row large-columns-3 medium-columns-1 small-columns-1">
+      <div class="col post-item" data-animate="bounceIn">
+        <div class="col-inner">
+          <div class="box box-normal box-text-bottom box-blog-post has-hover">
+            <div class="box-image">
+              <div class="image-cover" style="padding-top:56.25%;">
+                <a href="https://tosuthien.com/2021/11/29/tu-an-thien-duong/" class="plain" aria-label="Từ Ân Thiền Đường">
+                  <img loading="lazy" decoding="async" width="300" height="225" src="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n-300x225.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n-300x225.jpg 300w, https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n-1024x768.jpg 1024w, https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2021/11/245606675_242571897750276_3066781601464414675_n.jpg 1242w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+              </div>
+            </div>
+            <div class="box-text text-center">
+              <div class="box-text-inner blog-post-inner">
+
+
+                <h5 class="post-title is-large uppercase">
+                  <a href="https://tosuthien.com/2021/11/29/tu-an-thien-duong/" class="plain">Từ Ân Thiền Đường</a>
+                </h5>
+                <div class="is-divider"></div>
+
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><div class="col post-item" data-animate="bounceIn">
+      <div class="col-inner">
+        <div class="box box-normal box-text-bottom box-blog-post has-hover">
+          <div class="box-image">
+            <div class="image-cover" style="padding-top:56.25%;">
+              <a href="https://tosuthien.com/2021/11/28/chua-duy-phap/" class="plain" aria-label="Chùa Duy Pháp">
+                <img loading="lazy" decoding="async" width="533" height="400" src="https://tosuthien.com/wp-content/uploads/2021/11/z4938496669976_7c5f3b5403e6cd3fdd5c36a9bacaebbd-533x400.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="https://tosuthien.com/wp-content/uploads/2021/11/z4938496669976_7c5f3b5403e6cd3fdd5c36a9bacaebbd-533x400.jpg 533w, https://tosuthien.com/wp-content/uploads/2021/11/z4938496669976_7c5f3b5403e6cd3fdd5c36a9bacaebbd-1067x800.jpg 1067w, https://tosuthien.com/wp-content/uploads/2021/11/z4938496669976_7c5f3b5403e6cd3fdd5c36a9bacaebbd-768x576.jpg 768w, https://tosuthien.com/wp-content/uploads/2021/11/z4938496669976_7c5f3b5403e6cd3fdd5c36a9bacaebbd-1536x1152.jpg 1536w, https://tosuthien.com/wp-content/uploads/2021/11/z4938496669976_7c5f3b5403e6cd3fdd5c36a9bacaebbd-2048x1536.jpg 2048w" sizes="(max-width: 533px) 100vw, 533px">							</a>
+            </div>
+          </div>
+          <div class="box-text text-center">
+            <div class="box-text-inner blog-post-inner">
+
+
+              <h5 class="post-title is-large uppercase">
+                <a href="https://tosuthien.com/2021/11/28/chua-duy-phap/" class="plain">Chùa Duy Pháp</a>
+              </h5>
+              <div class="is-divider"></div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div></div>
+  </div>
+</Layout>
+
+<style>
+  .blog-title-medium {
+    color: var(--color-accent-gold);
+  }
+
+  .related-posts {
+    display: grid;
+    gap: calc(var(--grid-unit) * 4);
+    margin-bottom: calc(var(--grid-unit) * 6);
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  .related-post-card {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: calc(var(--grid-unit) * 3);
+    transition: transform 0.2s ease, border-color 0.2s ease;
+  }
+
+  .related-post-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--color-accent-gold);
+  }
+
+  .related-post-title {
+    font-family: var(--font-heading-secondary),serif;
+    font-weight: 600;
+    margin-bottom: calc(var(--grid-unit));
+  }
+
+  .related-post-title a {
+    color: var(--color-text-primary);
+    text-decoration: none;
+  }
+
+  .related-post-title a:hover,
+  .related-post-title a:focus {
+    color: var(--color-accent-gold);
+  }
+
+  .related-post-meta {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: calc(var(--grid-unit));
+    margin-bottom: calc(var(--grid-unit) * 1.5);
+  }
+</style>
+
