@@ -3,7 +3,8 @@ title: "HUỆ SIÊU HỎI VỀ PHẬT"
 date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHÁP NHÃN VĂN ÍCH", "TS HUỆ SIÊU"]
 draft: false

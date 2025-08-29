@@ -4,8 +4,7 @@ date: "2000-01-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  "Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu.
-  Chỉ 1 hiểu 3, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ."
+  "Lương Vũ Đế hỏi Đạt Ma Đại Sư, 'Thế nào là sự thật cứu cánh siêu phàm?'. Đạt Ma nói, 'Trống không chẳng có gì là siêu phàm'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "Tổ BỒ ĐỀ ĐẠT MA", "TS BẢO CHÍ CÔNG"]
 draft: false
@@ -154,13 +153,21 @@ Thử nói xem hiện giờ Đạt Ma ở đâu? Đi qua rồi mà cũng chẳng
 
 ## BÌNH:
 
-Tuyết Đậu tụng công án này, giống như y thể khéo múa Thái A Kiếm, uyển chuyển trong không, đương nhiên không phạm phải mũi nhọn. Nếu như không có cái khả năng này, thì vừa nhặt kiếm lên tay hẳn đã bị mũi nhọn đả thương. Đối với những người đủ mắt để nhìn thấy thì một niệm, một xuyên, một khen, một chê, chỉ dùng tứ cú mà định đoán cả một tắc công án. Phàm việc tụng cổ, thường là giảng về Thiền một cách vòng vo, nêu lên ý chính của vấn đề xưa, rồi theo các dữ kiện mà kết thúc công án, chỉ có thế thôi.
+Tuyết Đậu tụng công án này, giống như y thể khéo múa Thái A Kiếm, uyển chuyển trong không, đương nhiên không phạm phải mũi nhọn. 
 
-Tuyết Đậu giáp mặt trực tiếp với công án, lập tức tụng rằng, “Sự thật trống không, làm sao phân biện?” Dưới câu đầu, Tuyết Đậu thêm một câu này, quả là kỳ đặc hết sức. Thử nói xem, rốt cuộc phải phân biện như thế nào? Dù cho có mắt sắt người đồng đi nữa, cũng chẳng biết đường nào mà rờ rẫm. Đến chổ này rồi, há có thể lấy tỉnh thức ra mà đắn đo được sao? Do đó mà Vân Môn nói, “ Như đánh đá lửa, giống ánh điện chớp”. Vấn đề này không nằm trong sự suy nghĩ hay ý tưởng. Đến lúc mà ông há miệng, thì đâu còn có công dụng gì nữa. Ngay lúc tính toán so đo vừa khởi, thì con chim cắt đã bay qua Tân La ( Cao Ly ) rồi.
+Nếu như không có cái khả năng này, thì vừa nhặt kiếm lên tay hẳn đã bị mũi nhọn đả thương. Đối với những người đủ mắt để nhìn thấy thì một niệm, một xuyên, một khen, một chê, chỉ dùng tứ cú mà định đoán cả một tắc công án. Phàm việc tụng cổ, thường là giảng về Thiền một cách vòng vo, nêu lên ý chính của vấn đề xưa, rồi theo các dữ kiện mà kết thúc công án, chỉ có thế thôi.
 
-Tuyết Đậu nói, “Các ông tăng trong thiên hạ, các ông phân biện vấn đề này như thế nào? Đối diện với trẫm là ai?” Lại còn nói “không biết”. Đây chính là chỗ từ tâm của Tuyết Đậu, nổ lực không ngớt để giúp thiên hạ. Thử nói xem “trống không” và “ không biết” là một hay hai. Nếu như người đủ khả năng hiểu, thế nào cũng phân nó làm hai. Thiên hạ ở mọi nơi thường nói, “Tuyết Đậu cùng lắm chỉ nêu lại vấn đề lên một lần nữa mà thôi.” Đâu có biết rằng, bốn câu tụng đã nói lên hết ý nghĩa của công án rồi.
+Tuyết Đậu giáp mặt trực tiếp với công án, lập tức tụng rằng, “Sự thật trống không, làm sao phân biện?” 
 
-Sau đó vì lòng từ bi, Tuyết Đậu mới tụng sự tích nhân duyên rằng, “ Do đó lén qua sông, há không sinh gai góc?” Đạt Ma đến xứ này vốn để giải thoát thiên hạ khỏi chỗ dính dấp ràng buộc, nhổ đinh bạt chốt, cắt dọn gai góc. Tại sao Tuyết Đậu lại đi nói rằng Đạt Ma làm gai góc sinh? Cũng không phải chỉ vào buổi ấy, mà ngày nay dưới chân mọi người gai góc cũng đã thâm đến mấy trượng. “Cả nước đuổi theo cũng chẳng về, ngàn xưa ngàn sau nhớ mông suông”, đúng là không phải trượng phu. Thử nói xem, Đạt Ma ở đâu? Nếu thấy được Dạt Ma thì sẽ thấy được chỗ vì người của Tuyết Đậu.
+Dưới câu đầu, Tuyết Đậu thêm một câu này, quả là kỳ đặc hết sức. Thử nói xem, rốt cuộc phải phân biện như thế nào? Dù cho có mắt sắt người đồng đi nữa, cũng chẳng biết đường nào mà rờ rẫm. Đến chổ này rồi, há có thể lấy tỉnh thức ra mà đắn đo được sao? Do đó mà Vân Môn nói, “ Như đánh đá lửa, giống ánh điện chớp”. Vấn đề này không nằm trong sự suy nghĩ hay ý tưởng. Đến lúc mà ông há miệng, thì đâu còn có công dụng gì nữa. Ngay lúc tính toán so đo vừa khởi, thì con chim cắt đã bay qua Tân La ( Cao Ly ) rồi.
+
+Tuyết Đậu nói, “Các ông tăng trong thiên hạ, các ông phân biện vấn đề này như thế nào? Đối diện với trẫm là ai?” 
+
+Lại còn nói “không biết”. Đây chính là chỗ từ tâm của Tuyết Đậu, nổ lực không ngớt để giúp thiên hạ. Thử nói xem “trống không” và “ không biết” là một hay hai. Nếu như người đủ khả năng hiểu, thế nào cũng phân nó làm hai. Thiên hạ ở mọi nơi thường nói, “Tuyết Đậu cùng lắm chỉ nêu lại vấn đề lên một lần nữa mà thôi.” Đâu có biết rằng, bốn câu tụng đã nói lên hết ý nghĩa của công án rồi.
+
+Sau đó vì lòng từ bi, Tuyết Đậu mới tụng sự tích nhân duyên rằng, “Do đó lén qua sông, há không sinh gai góc?” 
+
+Đạt Ma đến xứ này vốn để giải thoát thiên hạ khỏi chỗ dính dấp ràng buộc, nhổ đinh bạt chốt, cắt dọn gai góc. Tại sao Tuyết Đậu lại đi nói rằng Đạt Ma làm gai góc sinh? Cũng không phải chỉ vào buổi ấy, mà ngày nay dưới chân mọi người gai góc cũng đã thâm đến mấy trượng. “Cả nước đuổi theo cũng chẳng về, ngàn xưa ngàn sau nhớ mông suông”, đúng là không phải trượng phu. Thử nói xem, Đạt Ma ở đâu? Nếu thấy được Dạt Ma thì sẽ thấy được chỗ vì người của Tuyết Đậu.
 
 Tuyết Đậu lại sợ thiên hạ mải đuổi theo kiến thức thường tình, cho nên mở tung khóa chốt, để lộ chỗ thấy của mình mà nói rằng, “Đừng nhớ mong! Gió thổi mặt đất bao giờ ngưng.” Nếu đã không nhớ mong, thì các chuyện dưới chân mình làm sao mà nảy sinh? Tuyết Đậu nói, hiện giờ ở đây, gió trong thổi mặt đất, trên trời dưới đất, có chỗ nào là cùng cực? Tuyết Đậu đem tất cả các việc từ thiên cổ vạn cổ ném ngay ra trước mặt. Không phải chỉ với một mình Tuyết Đậu, mà ngay hiện giờ có chỗ nào là cùng cực? Ngay cả nơi con người các ông, có chỗ nào là cùng cực?
 

@@ -3,7 +3,8 @@ title: "BA CÂN GAI CỦA ĐỘNG SƠN"
 date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "Có ông tăng hỏi Động Sơn, “Phật là gì?” Động Sơn nói, “Ba cân gai.”"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐỘNG SƠN LƯƠNG GIỚI"]
 draft: false
@@ -11,11 +12,19 @@ draft: false
 
 ## THÙY
 
-> 
+Đao giết người, kiếm cứu người, là phong qui đời xưa, là cốt yếu của thời nay. 
+
+Nếu luận về giết, chẳng hại một sợi lông. Nếu luận về cứu, liền tang thân thất mạng. 
+
+Cho nên mới có lời nói, “Một đường hướng thượng, ngàn thánh không truyền, kẻ học mệt thân, như khỉ bắt bóng.” 
+
+Thử nói xem, đã không truyền thì tại sao lại có đến lắm công án dây dưa như vậy? Để những người có mắt thử nêu lên xem.
 
 ## CỬ:
 
+> Có ông tăng hỏi Động Sơn, “*Phật là gì?*” 
 > 
+> Động Sơn nói, “*Ba cân gai*”
 
 ## BÌNH
 

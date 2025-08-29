@@ -3,7 +3,8 @@ title: "MÃ SƯ BẤT AN"
 date: "2025-06-14"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MÃ TỔ ĐẠO NHẤT"]
 draft: false

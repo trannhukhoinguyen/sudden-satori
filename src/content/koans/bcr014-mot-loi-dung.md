@@ -3,7 +3,8 @@ title: "MỘT LỜI ĐÚNG CỦA VÂN MÔN"
 date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
 draft: false
