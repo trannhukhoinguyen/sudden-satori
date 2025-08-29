@@ -7,7 +7,7 @@ import AutoImport from "astro-auto-import";
 // https://astro.build/config
 export default defineConfig({
   // The site property should be your final deployed URL
-  site: process.env.SITE || 'https://sudden-satori.vercel.app',
+  site: process.env.SITE || 'https://tosuthien.org',
 
   // Only use base path for GitHub Pages deployments
   // For Netlify/Vercel, leave this undefined (no base path)
@@ -20,7 +20,18 @@ export default defineConfig({
       ]
     }),
 
-    sitemap(),
+    // Sitemap cho pages
+    sitemap({
+      filter: (page) => !page.includes("/drafts/"), // bỏ qua thư mục nháp (nếu có)
+      serialize(item) {
+        return {
+          ...item,
+          lastmod: new Date().toISOString(), // thêm ngày build
+          changefreq: "daily",              // tần suất crawl
+          priority: item.url === "/" ? 1.0 : 0.8, // trang chủ ưu tiên cao hơn
+        };
+      },
+    }),
 
     // Always integrate mdx() in the last position
     mdx(),

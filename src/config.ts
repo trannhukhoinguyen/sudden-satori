@@ -68,7 +68,7 @@ export const config: SiteConfig = {
     masterSite: "https://patriarchalzen.vercel.app/",
     zenSite: "https://tosuthien.com#col-2057150686"
   },
-  siteUrl: "https://sudden-satori.vercel.app",
+  siteUrl: "https://tosuthien.org",
 
   // NEW CONFIGS
   base: import.meta.env.BASE_URL,

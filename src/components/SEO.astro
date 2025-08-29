@@ -13,7 +13,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
 const {
   title = SITE_TITLE,
   description = SITE_DESCRIPTION,
-  image = 'public/images/backgrounds/thien-dinh-cua-Phat.jpg',
+  image = '/images/backgrounds/thien-dinh-cua-Phat.jpg',
   type = 'website',
   publishedTime,
   canonical,
@@ -26,7 +26,7 @@ const imageURL = new URL(image, Astro.site);
 
 <title>{pageTitle}</title>
 <meta name="description" content={description} />
-<meta name="author" content="Your Name" />
+<meta name="author" content="Tổ Sư Thiền" />
 
 <link rel="canonical" href={canonicalURL} />
 
@@ -47,4 +47,5 @@ const imageURL = new URL(image, Astro.site);
 <meta name="googlebot" content="index, follow" />
 
 <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href="/rss.xml" />
+<link rel="sitemap" type="application/xml" href="/sitemap-0.xml" />
 <link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
