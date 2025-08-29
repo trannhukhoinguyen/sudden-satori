@@ -163,29 +163,27 @@ const tocHeadingsH2: Heading[] = headings.filter(h => h.depth === 2);
 </style>
 
 {tocHeadingsH2.length > 0 && (
-    <>
-        <!-- Toggle button for mobile -->
-        <button class="toc-toggle" aria-label="Mở mục lục">
-            ➤
-        </button>
+    <!-- Toggle button for mobile -->
+    <button class="toc-toggle" aria-label="Mở mục lục">
+        ➤
+    </button>
 
-        <aside class="floating-toc-mobile" aria-label="Table of contents">
-            <div class="floating-toc-mobile__inner">
-                <div class="floating-toc-mobile__header">Nội dung</div>
-                <nav class="floating-toc-mobile__nav">
-                    {tocHeadingsH2.map((heading) => (
-                            <a
-                                    href={`#${heading.slug}`}
-                                    class={`floating-toc-mobile__link floating-toc-mobile__link--level-${heading.depth}`}
-                                    data-level={heading.depth}
-                            >
-                                <span class="floating-toc-mobile__text">{heading.text}</span>
-                            </a>
-                    ))}
-                </nav>
-            </div>
-        </aside>
-    </>
+    <aside class="floating-toc-mobile" aria-label="Table of contents">
+        <div class="floating-toc-mobile__inner">
+            <div class="floating-toc-mobile__header">Nội dung</div>
+            <nav class="floating-toc-mobile__nav">
+                {tocHeadingsH2.map((heading) => (
+                        <a
+                                href={`#${heading.slug}`}
+                                class={`floating-toc-mobile__link floating-toc-mobile__link--level-${heading.depth}`}
+                                data-level={heading.depth}
+                        >
+                            <span class="floating-toc-mobile__text">{heading.text}</span>
+                        </a>
+                ))}
+            </nav>
+        </div>
+    </aside>
 )}
 
 <style>
@@ -208,115 +206,115 @@ const tocHeadingsH2: Heading[] = headings.filter(h => h.depth === 2);
         justify-content: center;
     }
 
+    .floating-toc-mobile {
+        display: block;
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 80%;
+        max-width: 300px;
+        height: 100vh;
+        color: var(--color-text-toc);
+        background: var(--color-background-toc);
+        box-shadow: -2px 0 6px rgba(0,0,0,0.15);
+        transition: right 0.3s ease;
+        z-index: 15;
+        padding: 1rem;
+    }
+
+    .floating-toc-mobile.open {
+        right: 0;
+    }
+
+    .floating-toc-mobile__inner {
+        padding: 1.5rem 0;
+        overflow-y: auto;
+        max-height: 70vh;
+
+        /* Subtle scrollbar */
+        scrollbar-width: thin;
+        scrollbar-color: var(--color-border) transparent;
+    }
+
+    .floating-toc-mobile__inner::-webkit-scrollbar {
+        width: 4px;
+    }
+
+    .floating-toc-mobile__inner::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    .floating-toc-mobile__inner::-webkit-scrollbar-thumb {
+        background-color: var(--color-border);
+        border-radius: 2px;
+    }
+
+    .floating-toc-mobile__header {
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--color-text-toc);
+        opacity: 0.5;
+        margin-bottom: 1rem;
+        padding-left: 1rem;
+    }
+
+    .floating-toc-mobile__nav {
+        display: flex;
+        flex-direction: column;
+        gap: 0.125rem;
+    }
+
+    .floating-toc-mobile__link {
+        display: block;
+        padding: 0.375rem 1rem;
+        color: var(--color-text-toc);
+        text-decoration: none;
+        font-size: 0.875rem;
+        line-height: 1.4;
+        opacity: 0.6;
+        transition: all 0.2s ease;
+        border-left: 2px solid transparent;
+        position: relative;
+    }
+
+    .floating-toc-mobile__link:hover {
+        opacity: 1;
+        color: var(--color-text-toc);
+    }
+
+    .floating-toc-mobile__link.active {
+        opacity: 1;
+        color: var(--color-text-toc);
+        border-left-color: var(--color-border);
+        background: linear-gradient(to right, rgba(0,0,0,0.02), transparent);
+    }
+
+    /* Dark mode gradient adjustment */
+    @media (prefers-color-scheme: dark) {
+        .floating-toc-mobile__link.active {
+            background: linear-gradient(to right, rgba(255,255,255,0.02), transparent);
+        }
+    }
+
+    /* Text truncation for long headings */
+    .floating-toc-mobile__text {
+        display: block;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+    /* Smooth fade in animation */
+    .floating-toc-mobile {
+        animation: fadeIn 0.3s ease-out;
+    }
+
     /* Show toggle only on small screens */
     @media (max-width: 1400px) {
-        .toc-toggle {
+        .toc-toggle, .floating-toc-mobile  {
             display: flex;
-        }
-
-        .floating-toc-mobile {
-            display: block;
-            position: fixed;
-            top: 0;
-            right: -100%;
-            width: 80%;
-            max-width: 300px;
-            height: 100vh;
-            color: var(--color-text-toc);
-            background: var(--color-background-toc);
-            box-shadow: -2px 0 6px rgba(0,0,0,0.15);
-            transition: right 0.3s ease;
-            z-index: 15;
-            padding: 1rem;
-        }
-
-        .floating-toc-mobile.open {
-            right: 0;
-        }
-
-        .floating-toc-mobile__inner {
-            padding: 1.5rem 0;
-            overflow-y: auto;
-            max-height: 70vh;
-
-            /* Subtle scrollbar */
-            scrollbar-width: thin;
-            scrollbar-color: var(--color-border) transparent;
-        }
-
-        .floating-toc-mobile__inner::-webkit-scrollbar {
-            width: 4px;
-        }
-
-        .floating-toc-mobile__inner::-webkit-scrollbar-track {
-            background: transparent;
-        }
-
-        .floating-toc-mobile__inner::-webkit-scrollbar-thumb {
-            background-color: var(--color-border);
-            border-radius: 2px;
-        }
-
-        .floating-toc-mobile__header {
-            font-size: 0.75rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            color: var(--color-text-toc);
-            opacity: 0.5;
-            margin-bottom: 1rem;
-            padding-left: 1rem;
-        }
-
-        .floating-toc-mobile__nav {
-            display: flex;
-            flex-direction: column;
-            gap: 0.125rem;
-        }
-
-        .floating-toc-mobile__link {
-            display: block;
-            padding: 0.375rem 1rem;
-            color: var(--color-text-toc);
-            text-decoration: none;
-            font-size: 0.875rem;
-            line-height: 1.4;
-            opacity: 0.6;
-            transition: all 0.2s ease;
-            border-left: 2px solid transparent;
-            position: relative;
-        }
-
-        .floating-toc-mobile__link:hover {
-            opacity: 1;
-            color: var(--color-text-toc);
-        }
-
-        .floating-toc-mobile__link.active {
-            opacity: 1;
-            color: var(--color-text-toc);
-            border-left-color: var(--color-border);
-            background: linear-gradient(to right, rgba(0,0,0,0.02), transparent);
-        }
-
-        /* Dark mode gradient adjustment */
-        @media (prefers-color-scheme: dark) {
-            .floating-toc-mobile__link.active {
-                background: linear-gradient(to right, rgba(255,255,255,0.02), transparent);
-            }
-        }
-
-        /* Text truncation for long headings */
-        .floating-toc-mobile__text {
-            display: block;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-        }
-
-        /* Smooth fade in animation */
-        .floating-toc-mobile {
-            animation: fadeIn 0.3s ease-out;
         }
     }
 </style>

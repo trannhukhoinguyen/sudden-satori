@@ -9,20 +9,62 @@ tags: ["Bát Nhã Tâm Kinh"]
 draft: false
 ---
 
+## GIỚI THIỆU
+
 Tâm Kinh chỉ có 260 chữ cô đọng lại những giáo lý tinh túy trong Kinh **Đại Bát Nhã**, trong đó có đủ tư tưởng *Đại Thừa* và *Tiểu Thừa* Phật giáo. 
 Trong số ngàn vạn quyển kinh, **Tâm Kinh** là bộ kinh chữ ít nhất, ý nghĩa sâu xa nhất. 
 Trong văn tự gọn gàng rõ rệt đó, đã nói lên lý Bát Nhã giai không, phủ định tất cả phân biệt tâm, đồng thời cũng chỉ bày ra **tự tánh** của con người, *Bổn Diệu Chân Thanh Tịnh*, có đủ tất cả *Trí Huệ Công Đức*.
 Phàm tất cả pháp trên cuộc đời này đều do chân tâm mà có, cho nên gọi là **Tâm Kinh**. 
 
-(*Bát Nhã Tâm Kinh*)
+
+## BÁT NHÃ BA LA MẬT ĐA TÂM KINH
+
+Ngài Bồ Tát Quán Tự Tại khi thực hành thâm sâu về trí tuệ Bát Nhã Ba la mật, thì soi thấy năm uẩn đều là không, do đó vượt qua mọi khổ đau ách nạn.
+
+Nầy Xá Lợi Tử, sắc chẳng khác gì không, không chẳng khác gì sắc, sắc chính là không, không chính là sắc, thọ tưởng hành thức cũng đều như thế.
+
+Nầy Xá Lợi Tử, tướng không của các pháp ấy chẳng sinh chẳng diệt, chẳng nhơ chẳng sạch, chẳng thêm chẳng bớt.
+
+Cho nên trong cái không đó, nó không có sắc, không thọ tưởng hành thức.
+
+Không có mắt, tai, mũi, lưỡi, thân ý. Không có sắc, thanh, hương vị, xúc pháp.
+
+Không có nhãn giới cho đến không có ý thức giới.
+
+Không có vô minh, mà cũng không có hết vô minh.
+
+Không có già chết, mà cũng không có hết già chết.
+
+Không có khổ, tập, diệt, đạo.
+
+Không có trí cũng không có đắc, vì không có sở đắc.
+
+Khi vị Bồ Tát nương tựa vào trí tuệ Bát Nhã nầy thì tâm không còn chướng ngại, vì tâm không chướng ngại nên không còn sợ hãi, xa lìa được cái điên đảo mộng tưởng, đạt cứu cánh Niết Bàn.
+
+Các vị Phật ba đời vì nương theo trí tuệ Bát Nhã nầy mà đắc quả vô thượng, chánh đẳng chánh giác.
+
+Cho nên phải biết rằng Bát nhã Ba la mật đa là đại thần chú, là đại minh chú, là chú vô thượng, là chú cao cấp nhất, luôn trừ các khổ não, chân thật không hư dối.
+
+Cho nên khi nói đến Bát nhã Ba la mật đa, tức là phải nói câu chú:
+
+> Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha.
+
+> Qua rồi qua rồi, qua bên kia rồi, tất cả qua bên kia rồi, giác ngộ rồi đó!
+
+## HAI BỜ GIÁC TÁNH
 
 Trong 56 ức 7000 vạn dân trên thế giới hiện nay, chỉ có cực kỳ ít người là giác ngộ đạt đến sanh mạng chân lý tối cao, chúng ta tôn xưng là Phật. 
 Nơi mà các Ngài sống, chúng ta tạm thời gọi đó là *Bỉ ngạn (Bờ bên kia)*.
 
-Đại đa số còn lại nhận lầm sanh mạng thực tướng. Chúng sanh sống trong thế giới điên đảo mộng tưởng. 
+Đại đa số còn lại nhận lầm sanh mạng thực tướng. 
+Chúng sanh sống trong thế giới điên đảo mộng tưởng. 
 Thế giới mà họ đang sinh sống, chúng ta tạm thời gọi đó là *Thử ngạn (Bờ bên này)*. 
 
-Những người bình phàm sống trong Thử ngạn, họ có *Cái Ta* chủ quan. Họ sống bất cứ nơi nào cũng giống như một cây kim rơi vào trong thùng nước, vĩnh viễn chấp *Tự Ngã*, không chịu dung nhập vào trong nước. 
+
+## CÁI TA CHỦ QUAN
+
+Những người bình phàm sống trong Thử ngạn, họ có *Cái Ta* chủ quan. 
+Họ sống bất cứ nơi nào cũng giống như một cây kim rơi vào trong thùng nước, vĩnh viễn chấp *Tự Ngã*, không chịu dung nhập vào trong nước. 
 Có ta tức là có phía đối đãi bên ngoài, tốt xấu quý tiện. 
 Có *Ta* ắt là có *Người*, xuyên qua công cụ nhận thức của mình, nhãn nhĩ tỷ thiệt thân ý, tiếp thụ thế giới bên ngoài những tư liệu học được, **Sắc - Thanh - Hương - Vị - Xúc - Pháp**. 
 Do đó, những tư liệu này thâm nhập vào trong thế giới nội tâm của họ. 
@@ -54,7 +96,7 @@ Ta tức là sanh, ta tức là lão, ta tức là bệnh, ta tức là tử.
 
 Ngài đã vô ngã tiêu mất chính mình. Đối với tất cả biến hóa ở thế giới bên ngoài, Ngài đều chân thành thừa nhận, đối mặt, tiếp nhận vui vẻ, cẩn thận thưởng thức từng khoảng thời gian và không gian. Thái độ mà Ngài sống ở thế giới này giống như một hạt muối bỏ vào trong thùng nước. Muối bỏ vào nước đem chính mình hóa thành ức vạn phân tử. Chính mình tuy đã tiêu mất nhưng mỗi bộ phận của nước đều có vị mặn. Trong khoảng không của thùng nước, không còn tìm thấy chính mình nữa. Mà cùng tất cả hợp lại thành một. Ngài giống như vô lượng quang, bao phủ tất cả không gian, giống như vô lượng thọ, bao phủ tất cả thời gian. Cảnh giới thái độ sinh hoạt này của Ngài chúng ta gọi đó là Không.
 
-SẮC VÀ KHÔNG
+## SẮC VÀ KHÔNG
 
 Nếu thế giới là một dãy thảo nguyên, mỗi người là một cây cỏ nhỏ. Bạn tự cho rằng mình là một cây cỏ nhỏ chính bạn đang sống ở sắc cảnh của Thử ngạn. 
 
@@ -97,9 +139,13 @@ Sau khi nó dung nhập với nước, vô ngã vô nước, tiêu mất chính 
 Nên làm một người dung nhập ở hiện tại, đừng làm người đeo bám quá khứ và nô lệ kỳ vọng ở vị lai 
 Nên giống một chiếc thuyền trôi theo thời gian và không gian 
 
-“Nước chảy đến đâu thuyền trôi đến đó. Thuyền trôi đến đâu, người theo đến đó. Người đi đến đâu, tâm đi đến đó.” 
+> Nước chảy đến đâu thuyền trôi đến đó.
+> 
+> Thuyền trôi đến đâu, người theo đến đó.
+> 
+> Người đi đến đâu, tâm đi đến đó.
 
-RA KHỎI VÔ CHI ĐẠO
+## RA KHỎI VÔ CHI ĐẠO
 
 Trên dưới bốn bề gọi là Vũ, bao hàm tất cả Không gian cho nên vô cùng vô tận.
 Cổ vãng kim lai gọi là Trụ. Từ lúc ban đầu cho đến khi cuối cùng, bao hàm tất cả Thời gian, cho nên vô thỉ vô chung.
@@ -117,23 +163,34 @@ Do đó, không còn cái gọi là khổ nạn, vận không may, những cái 
 
 > Xá Lợi Tử à! Nếu chúng ta dùng quan điểm của mình để nhìn tất cả đối tượng ngoài tự thân, kỳ thật, những đối tượng này cùng đồng thời là bản thể. 
 > Bản thể đồng thời cũng là đối tượng, bởi vì không có bất cứ vật nào có thể độc lập ở bên ngoài bản thể, bao gồm chính ông và phần tâm linh của ông, bao gồm những cảm thọ phát xuất từ tâm linh của ông. 
-> Tất cả những thứ đó đều nằm trong bản thể. Bản thể này, chúng ta tạm thời gọi nó là Không. Tất cả đối tượng mà ông nhìn thấy, chúng ta gọi nó là sắc. Nói như vậy là ông biết, Không và Sắc vốn chẳng phải là hai. “Sắc tức thị Không, Không tức thị Sắc”, chẳng hề sai biệt. Cảm thọ, tri giác, phán đoán, ý thức của con người, quan niệm…, tất cả tác dụng của tinh thần cũng như vậy, đều bao hàm ở trong cái Không này.
-
+> Tất cả những thứ đó đều nằm trong bản thể. Bản thể này, chúng ta tạm thời gọi nó là Không. 
+> Tất cả đối tượng mà ông nhìn thấy, chúng ta gọi nó là sắc. 
+> Nói như vậy là ông biết, Không và Sắc vốn chẳng phải là hai. 
+> “Sắc tức thị Không, Không tức thị Sắc”, chẳng hề sai biệt. 
+> Cảm thọ, tri giác, phán đoán, ý thức của con người, quan ni.... 
+> Tất cả tác dụng của tinh thần cũng như vậy, đều bao hàm ở trong cái Không này.
 > Xá Lợi Tử à! Tất cả sự vật, tất cả cảm tưởng, đều do ông đứng ở lập trường của mình, mới sinh ra đó. 
 > Cái gọi là Sanh - Tử, Đẹp - Xấu, Nhiều - Ít đều lấy lập trường của ông để nhìn, mới có thứ Cảm thọ này. 
-> Do đó, ông không nên có lập trường, mà nên không theo bất cứ quan điểm nào, đi nhìn sự vật. Khi ta thấy hoa, ta tức là hoa. 
-> Khi ta thấy bướm, ta tức là bướm. Ở bất cứ lúc nào, cũng vô ngã đem chính mình hòa nhập cùng mọi Thời gian. 
-> Ở bất cứ Không gian nà, cũng vô ngã đem chính mình hòa nhập cùng mọi Không gian. Thân ta ở trong nước, ta tức là nước. Khi thân ta ở trong bể cá, ta tức là cá. 
+> Do đó, ông không nên có lập trường, mà nên không theo bất cứ quan điểm nào, đi nhìn sự vật. 
+> Khi ta thấy hoa, ta tức là hoa. 
+> Khi ta thấy bướm, ta tức là bướm. 
+> Ở bất cứ lúc nào, cũng vô ngã đem chính mình hòa nhập cùng mọi Thời gian. 
+> Ở bất cứ Không gian nà, cũng vô ngã đem chính mình hòa nhập cùng mọi Không gian. 
+> Thân ta ở trong nước, ta tức là nước. 
+> Khi thân ta ở trong bể cá, ta tức là cá. 
 > Đem chính mình hóa thành ức vạn phân tử, dung nhập vào trong mọi Thời gian, Không gian ông ở. 
 > Khi đó không còn có ta, cũng không có những đối tượng như Vũ trụ, Pháp tướng, Thời gian, Không gian này nữa. 
 Giống như một hạt muối bỏ vào trong thùng nước vậy. 
 > Muối tiêu mất rồi nhưng mỗi bộ phận trong nước đều có vị mặn, vào chỗ không có muối cũng không có nước, cảnh giới hoàn toàn dung nhập. 
 > Cũng không có cái gọi là Cảm thọ của tự thân, tri giác phán đoán ý thức nữa. 
-> Không theo lập trường của mình dùng “mắt, tai, mũi, lưỡi, thân”, tâm linh đi xem xét thì sẽ không sanh ra những thứ giác quan “thấy, nghe, ngửi, nếm, xúc chạm” - tất cả những tư liệu cảm thọ sai lệch. 
-Không đứng ở nơi sanh để nhìn tử. Không đứng ở nơi không để tưởng đến có. 
+> Không theo lập trường của mình dùng "mắt, tai, mũi, lưỡi, thân, tâm linh" đi xem xét thì sẽ không sanh ra những thứ giác quan “thấy, nghe, ngửi, nếm, xúc chạm” - tất cả những tư liệu cảm thọ sai lệch. 
+> Không đứng ở nơi sanh để nhìn tử. 
+> Không đứng ở nơi không để tưởng đến có. 
 > Không có quan điểm sai lệch thì sẽ không sanh các loại phân biệt tâm. Không có nhân, cũng không có sự hình thành của nhân. 
 > Không có quả, cũng không có sự thành hay không thành của quả. 
 Ý nghĩa của sanh mạng ở chỗ hoàn toàn dung nhập ở quá trình chứ chẳng phải ở mục đích. 
+
+## KẾT LUẬN
 
 Hiểu được những thứ này thì sẽ không còn bị lão, tử trói buộc mà đau khổ ưu phiền. Đau khổ của nhân sinh, biết được nguyên nhân của khổ, tiến hành tu tập trị liệu để tiêu trừ khổ, đạt đến cảnh giới cuối cùng Vô ngã vô khổ. Bốn giai đoạn này chúng ta gọi đó là Khổ, Tập, Diệt, Đạo. Khi thấu hiểu được bản chất của sanh mạng là sanh sanh không ngừng; sanh tử giao nhau biến chuyển. Dung nhập vào quá trình sanh sẽ không còn có vấn đề Sanh, Lão, Bệnh, Tử; cũng không có cái gọi là vấn đề Khổ, Tập, Diệt, Đạo nữa.
 Có thể hiểu được lý này xem ra rất thông minh, kỳ thật, làm gì có chỗ nào thông minh chứ. 

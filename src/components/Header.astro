@@ -1,6 +1,6 @@
 ---
 import { config } from '../config';
-import ThemeToggle from './ThemeToggle.astro';
+import ThemeSwitcher from "./ThemeSwitcher.astro";
 
 const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: '' };
 ---
@@ -25,12 +25,13 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <div class="header-controls">
       <nav class="main-navigation" role="navigation" aria-label="Main navigation">
         <ul class="nav-list">
-          <li><a href={base} class="nav-link">Home</a></li>
-          <li><a href={base + "about"} class="nav-link">Giới thiệu</a></li>
+          <li><a href={base} class="nav-link" title="Trang chủ">🛖</a></li>
+          <li><a href={base + "about"} class="nav-link" title="Giới thiệu">📜</a></li>
           <li><a href={base + "sutras"} class="nav-link">📙 Kinh</a></li>
-          <li><a href={base + "koans"} class="nav-link" title="Công án">🪨</a></li>
-          <li><a href={base + "practices"} class="nav-link" title="Thực hành">⚡️</a></li>
-          <li><a href={base + "speeches"} class="nav-link" title="Ngữ Lục">💬</a></li>
+          <li><a href={base + "koans"} class="nav-link" title="Công án">🪨 Công án</a></li>
+          <li><a href={base + "practices"} class="nav-link" title="Thực hành">⚡️Thực hành</a></li>
+          <li><a href={base + "interpretations"} class="nav-link" title="Luận giải">📖 Luận giải</a></li>
+          <li><a href={base + "speeches"} class="nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
           <li>
             <select id="nav-select" class="nav-select" aria-label="Main navigation">
               <option value="" disabled selected hidden>Khác</option>
@@ -48,9 +49,9 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
       <!-- Mobile controls group - RSS and Search on right -->
       <div class="mobile-controls">
-        <ThemeToggle />
+        <ThemeSwitcher />
 
-        <button class="search-toggle" id="search-toggle" aria-label="Search articles">
+        <button class="search-toggle" id="search-toggle" aria-label="Tìm kiếm bài viết" title="Tìm kiếm nội dung">
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2" fill="none"/>
             <path d="M21 21l-4.35-4.35" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
@@ -63,7 +64,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
 <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
   <ul class="mobile-nav-list">
-    <li><a href={base} class="mobile-nav-link">Home</a></li>
+    <li><a href={base} class="mobile-nav-link" title="Trang chủ">🛖</a></li>
     <li><a href={base + "about"} class="mobile-nav-link">Giới thiệu</a></li>
     <li><a href={base + "sutras"} class="mobile-nav-link">📙 Kinh</a></li>
     <li><a href={base + "koans"} class="mobile-nav-link" title="Công án">🪨 Công án</a></li>
@@ -82,7 +83,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 <div class="search-overlay" id="search-overlay">
   <div class="search-container">
     <div class="search-header">
-      <input type="text" class="search-input" id="search-input" placeholder="Search articles..." autocomplete="off">
+      <input type="text" class="search-input" id="search-input" placeholder="Tìm kiếm nội dung..." autocomplete="off" title="Tìm kiếm nội dung">
       <button class="search-close" id="search-close" aria-label="Close search">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
           <line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2"/>

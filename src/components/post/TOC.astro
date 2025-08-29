@@ -25,6 +25,13 @@ const headings: Heading[] = filterHeadingsForTOC(allHeadings);
 )}
 
 <style>
+  /* Hide TOC on small screens */
+  @media (max-width: 1400px) {
+    .table-of-contents  {
+      display: none;
+    }
+  }
+
   .table-of-contents {
     background-color: var(--color-surface);
     border: 1px solid var(--color-border);
