@@ -3,10 +3,10 @@
 // ===== 1. Glob cố định cho từng collection =====
 const globMap = {
   blogs: import.meta.glob('../content/blogs/*.{md,mdx}', { eager: true }),
+  places: import.meta.glob('../content/places/*.{md,mdx}', { eager: true }),
   books: import.meta.glob('../content/books/*.{md,mdx}', { eager: true }),
   interpretations: import.meta.glob('../content/interpretations/*.{md,mdx}', { eager: true }),
   koans: import.meta.glob('../content/koans/*.{md,mdx}', { eager: true }),
-  poems: import.meta.glob('../content/poems/*.{md,mdx}', { eager: true }),
   practices: import.meta.glob('../content/practices/*.{md,mdx}', { eager: true }),
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}', { eager: true }),
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
@@ -14,10 +14,10 @@ const globMap = {
 };
 const globMapLazy = {
   blogs: import.meta.glob('../content/blogs/*.{md,mdx}'),
+  places: import.meta.glob('../content/places/*.{md,mdx}'),
   books: import.meta.glob('../content/books/*.{md,mdx}'),
   interpretations: import.meta.glob('../content/interpretations/*.{md,mdx}'),
   koans: import.meta.glob('../content/koans/*.{md,mdx}'),
-  poems: import.meta.glob('../content/poems/*.{md,mdx}'),
   practices: import.meta.glob('../content/practices/*.{md,mdx}'),
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}'),
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}'),
@@ -27,10 +27,10 @@ const globMapLazy = {
 // ===== 2. Mapping name → type =====
 const collections = {
   blogs: "blogs",
+  places: "places",
   books: "books",
   interpretations: "interpretations",
   koans: "koans",
-  poems: "poems",
   practices: "practices",
   sutras: "sutras",
   zongjinglus: "zongjinglus",

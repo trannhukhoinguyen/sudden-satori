@@ -4,7 +4,7 @@ import { glob } from 'astro/loaders';
 const blogs = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blogs" }),
   schema: z.object({
-    type: z.string().default('blog'),
+    type: z.string().default('blogs'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -16,10 +16,23 @@ const blogs = defineCollection({
   }),
 });
 
+const places = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blogs" }),
+  schema: z.object({
+    type: z.string().default('places'),
+    title: z.string(),
+    description: z.string().optional(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
 const books = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/books" }),
   schema: z.object({
-    type: z.string().default('book'),
+    type: z.string().default('books'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -37,7 +50,7 @@ const books = defineCollection({
 const zongjinglus  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/zongjinglus" }),
   schema: z.object({
-    type: z.string().default('zongjinglu'),
+    type: z.string().default('zongjinglus'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -51,7 +64,7 @@ const zongjinglus  = defineCollection({
 const koans  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans" }),
   schema: z.object({
-    type: z.string().default('koan'),
+    type: z.string().default('koans'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -70,7 +83,7 @@ const koans  = defineCollection({
 const sutras  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/sutras" }),
   schema: z.object({
-    type: z.string().default('sutra'),
+    type: z.string().default('sutras'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -90,7 +103,7 @@ const sutras  = defineCollection({
 const interpretations  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/interpretations" }),
   schema: z.object({
-    type: z.string().default('interpretation'),
+    type: z.string().default('interpretations'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -109,7 +122,7 @@ const interpretations  = defineCollection({
 const practices  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/practices" }),
   schema: z.object({
-    type: z.string().default('practice'),
+    type: z.string().default('practices'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -125,24 +138,10 @@ const practices  = defineCollection({
   }),
 });
 
-const poems  = defineCollection({
-  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/poems" }),
-  schema: z.object({
-    type: z.string().default('poem'),
-    title: z.string(),
-    description: z.string().optional(),
-    date: z.coerce.date(),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    author: z.string().default('Zen master'),
-  }),
-});
-
 const speeches  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/speeches" }),
   schema: z.object({
-    type: z.string().default('poem'),
+    type: z.string().default('speeches'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -154,5 +153,5 @@ const speeches  = defineCollection({
 });
 
 export const collections = {
-  blogs, books, zongjinglus, koans, sutras, interpretations, practices, poems, speeches,
+  blogs, places, books, zongjinglus, koans, sutras, interpretations, practices, speeches,
 };

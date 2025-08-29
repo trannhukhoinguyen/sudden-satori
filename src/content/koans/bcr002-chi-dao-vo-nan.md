@@ -4,7 +4,7 @@ date: "2025-06-14"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Triệu Châu dạy chúng nói, 'Đạo lớn không khó miễn đừng so đo. Vừa có ngôn ngữ lập tức có lựa chọn so đo. Điều này hết sức minh bạch.'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
 draft: false

@@ -4,7 +4,7 @@ date: "2025-06-14"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Mã Đại sư nói, 'Nhật diện Phật. Nguyệt diện Phật'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MÃ TỔ ĐẠO NHẤT"]
 draft: false
