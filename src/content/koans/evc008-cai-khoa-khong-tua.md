@@ -3,7 +3,8 @@ title: "VÂN NHAM THAM VẤN DƯỢC SƠN"
 date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động."
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THẠCH SƯƠNG KHÁNH CHƯ"]
 draft: false

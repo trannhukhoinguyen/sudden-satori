@@ -36,14 +36,14 @@ import PersonSVG from "./svg/PersonSVG.astro";
         </a>
       )}
 
-      {config.social.bookcase && (
+<!--      {config.social.bookcase && (
         <a href={config.social.bookcase} target="_blank" rel="noopener" aria-label="Bookcase" class="social-link" title="Tủ sách online">
           <BookCaseSVG />
         </a>
-      )}
+      )}-->
 
       {config.social.bookcase2 && (
-        <a href={config.social.bookcase} target="_blank" rel="noopener" aria-label="Bookcase" class="social-link" title="Tủ sách online">
+        <a href={config.social.bookcase2} target="_blank" rel="noopener" aria-label="Bookcase" class="social-link" title="Tủ sách online">
           <BookCaseSVG />
         </a>
       )}
@@ -57,6 +57,12 @@ import PersonSVG from "./svg/PersonSVG.astro";
       {config.social.masterSite && (
         <a href={config.social.masterSite} target="_blank" rel="noopener" aria-label="Bookcase" class="social-link" title="Thiền sư Ngữ lục">
           <PersonSVG />
+        </a>
+      )}
+
+      {config.social.zenSite && (
+        <a href={config.social.zenSite} target="_blank" rel="noopener" aria-label="Bookcase" class="social-link" title="Danh sách Thiền đường">
+          <b style="color: black">⛩</b>
         </a>
       )}
     </div>

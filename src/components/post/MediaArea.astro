@@ -11,7 +11,7 @@ const { frontmatter } = Astro.props;
                     <div>
                         <div class="video-container">
                             <iframe
-                                src={frontmatter.videoUrl}
+                                src={frontmatter.videoUrl + `?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
                                 title={frontmatter.title}
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen

@@ -50,14 +50,14 @@ const { frontmatter, Content } = post as any;
       <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} />
     </section>
 
-    <!-- ✅ TOC -->
-    <TOC post={post} />
-    <FloatingTOC post={post} />
-
     <div class="post-content">
       <!-- ✅ Video, Audio -->
       <MediaArea frontmatter={frontmatter} />
     </div>
+
+    <!-- ✅ TOC -->
+    <TOC post={post} />
+    <FloatingTOC post={post} />
 
     <div class="post-content">
       <!-- ✅ Content -->

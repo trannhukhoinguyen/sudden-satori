@@ -3,7 +3,8 @@ title: "VÂN NHAM THAM VẤN DƯỢC SƠN"
 date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "TS Dược Sơn bảo: Sao không nói sớm? TS Vân Nham ngộ ngay lời này."
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS VÂN NHAM ĐÀM THẠNH", "TS DƯỢC SƠN DUY NGHIỄM"]
 draft: false

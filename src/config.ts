@@ -13,6 +13,7 @@ export interface SiteConfig {
     bookcase2?: string;
     tosuthien1: string;
     masterSite: string;
+    zenSite: string;
   };
   siteUrl: string;
   base: string;
@@ -64,7 +65,8 @@ export const config: SiteConfig = {
     bookcase: "https://pubhtml5.com/bookcase/wuxzq/",
     bookcase2: "https://pubhtml5.com/bookcase/cunen/",
     tosuthien1: "https://tosuthien.vercel.app",
-    masterSite: "https://patriarchalzen.vercel.app/"
+    masterSite: "https://patriarchalzen.vercel.app/",
+    zenSite: "https://tosuthien.com#col-2057150686"
   },
   siteUrl: "https://sudden-satori.vercel.app",
 

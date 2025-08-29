@@ -1,6 +1,6 @@
 ---
 title: "TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI"
-date: "2025-08-22"
+date: "2025-08-27"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: "Đi theo mùi cỏ thơm, về theo vết hoa rụng."

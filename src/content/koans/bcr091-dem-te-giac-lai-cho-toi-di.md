@@ -3,7 +3,8 @@ title: "TÊ GIÁC CỦA DIÊM QUAN"
 date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "Diêm Quan nói, Nếu như quạt gẫy rồi thì ông đem tê giác lại cho tôi đi."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS DIÊM QUAN TỀ AN"]
 draft: false
@@ -11,11 +12,21 @@ draft: false
 
 ## THÙY
 
-> 
+Siêu tình ly kiến, cởi giây gỡ dính, đề khởi hướng thượng tông thừa, chống đỡ chính pháp nhãn tạng. 
+
+Cần phải ứng đủ mười phương, rõ ràng tám hướng, đến thẳng cảnh giới như thế. 
+
+Thử nói xem, còn có người cùng đắc cùng chứng cùng tử cùng sinh chăng? Thử nêu lên xem. 
 
 ## CỬ:
 
+> Một hôm Diêm Quan gọi thị giả, “Đem cho tôi cái quạt sừng tê giác xem.” 
 > 
+> Thị giả nói, "Quạt bị gẫy rồi.” 
+> 
+> Diêm Quan nói, “Nếu như quạt gẫy rồi thì ông đem tê giác lại cho tôi đi.” 
+> 
+> Thị giả không trả lời được.
 
 ## BÌNH
 

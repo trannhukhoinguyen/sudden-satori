@@ -3,7 +3,8 @@ title: "CHẲNG NHỮNG TÀO KHÊ"
 date: "2025-08-07"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "TS Hành Tư bảo: Nói cho ông không ngại, chỉ sợ sau này không có người kế thừa"
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ"]
 draft: false
@@ -20,17 +21,15 @@ Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường, đã biết m�
 
 Ngài Đầu Tử cử: 
 
-Thạch Đầu đến chỗ ngài Hành Tư.
+Thạch Đầu đến chỗ ngài Hành Tư. Hành Tư hỏi: *Ông từ đâu đến?*
 
-Hành Tư hỏi: Ông từ đâu đến?
+Thạch Đầu thưa: *Từ Tào Khê đến*
 
-Thạch Đầu thưa: Từ Tào Khê đến.
+Ngài Hành Tư đưa phất tử lên nói: *Ở Tào Khê có cây này không?*
 
-Ngài Hành Tư đưa phất tử lên nói: Ở Tào Khê có cây này không?
+Thạch Đầu thưa: *Chẳng những Tào Khê mà Tây Thiên cũng không có*
 
-Thạch Đầu thưa: Chẳng những Tào Khê mà Tây Thiên cũng không có.
-
-Hành Tư hỏi: Ông đến Tây Thiên chưa?
+Hành Tư hỏi: *Ông đến Tây Thiên chưa?*
 
 Thạch Đầu thưa: *Con có đến*
 

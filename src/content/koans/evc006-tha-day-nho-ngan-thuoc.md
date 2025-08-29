@@ -3,7 +3,8 @@ title: "GIÁP SƠN THUYỀN TỬ"
 date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "TS Thuyền Tử nói: *Câu khắp dòng sông này, mới gặp được một con cá vàng* "
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS GIÁP SƠN THIỆN HỘI", "TS HOA ĐÌNH THUYỀN TỬ"]
 draft: false
@@ -20,36 +21,36 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-Giáp Sơn [^1] tham vấn ngài Thuyền Tử [^2]. Thuyền Tử hỏi: 
-
-> Thả giày nhị ngang thước
+> Giáp Sơn [^1] tham vấn ngài Thuyền Tử [^2]. Thuyền Tử hỏi: 
+>
+> Thả dây nhợ ngàn thước
 > 
 > Vớ y dưới đáy câu
 > 
 > Cách lưỡi câu ba tấc
 > 
 > Tại sao ông không nói?
-
-Giáp Sơn vừa mở miệng. 
+>
+> Giáp Sơn vừa mở miệng. 
 Thuyền Tử đánh Sư rơi xuống nước.
 Giáp Sơn vừa mới ngoi lên mặt nước. 
 Thuyền Tử đánh và bảo nói mau, nói mau.
 Giáp Sơn định nói. Thuyền Tử đánh tiếp. 
 Giáp Sơn bỗng nhiên đại ngộ phút giây này, và gật đầu 3 cái.
-
-Thuyền Tử nói: *Giày nhờ đâu sao mặc anh câu, hãy để trong làng thị tự nhiên xuất cách*
-
-Giáp Sơn hỏi: *Ném mồi thì câu, ý Thầy thế nào?*
-
-Thuyền Tử nói: *Giày nhờ nói trên mặt nước, xác định được ý có không, nói mau, nói mau*
-
-Giáp Sơn thưa: *Lời có huyền diệu nhưng không phương pháp, lưỡi nói mà không nói*
-
-Thuyền Tử nói: *Câu khắp dòng sông này, mới gặp được một con cá vàng* 
-
-Giáp Sơn bịt tai lại.
-
-Thuyền Tử nói: *Đúng thế! Đúng thế!*
+>
+> Thuyền Tử nói: *Giày nhờ đâu sao mặc anh câu, hãy để trong làng thị tự nhiên xuất cách*
+>
+> Giáp Sơn hỏi: *Ném mồi thì câu, ý Thầy thế nào?*
+>
+> Thuyền Tử nói: *Giày nhờ nói trên mặt nước, xác định được ý có không, nói mau, nói mau*
+>
+> Giáp Sơn thưa: *Lời có huyền diệu nhưng không phương pháp, lưỡi nói mà không nói*
+>
+> Thuyền Tử nói: *Câu khắp dòng sông này, mới gặp được một con cá vàng* 
+>
+> Giáp Sơn bịt tai lại.
+>
+> Thuyền Tử nói: *Đúng thế! Đúng thế!*
 
 ## BÌNH XƯỚNG
 

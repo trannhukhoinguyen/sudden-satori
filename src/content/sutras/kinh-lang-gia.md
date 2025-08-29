@@ -1,14 +1,8 @@
 ---
 title: "Kinh Lăng Già"
 date: "2025-07-05"
-audioUrls: [
-  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
-  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%202.mp3",
-  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%203.mp3",
-  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%204.mp3",
-  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%205.mp3",
-]
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
+videoStart: "1071"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 draft: false

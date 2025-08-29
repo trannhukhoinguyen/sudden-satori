@@ -28,6 +28,9 @@ const books = defineCollection({
     tags: z.array(z.string()).default([]),
     author: z.array(z.string()).default(['Zen master']),
     image: z.string().optional(),
+    videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
+    videoUrls: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -59,6 +62,7 @@ const koans  = defineCollection({
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
     videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
     videoUrls: z.array(z.string().url()).optional(),
   }),
 });
@@ -78,6 +82,7 @@ const sutras  = defineCollection({
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
     videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
     videoUrls: z.array(z.string().url()).optional(),
   }),
 });
@@ -96,6 +101,7 @@ const interpretations  = defineCollection({
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
     videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
     videoUrls: z.array(z.string().url()).optional(),
   }),
 });

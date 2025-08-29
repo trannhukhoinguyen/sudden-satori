@@ -61,24 +61,54 @@ Tam giới vô pháp, cầu tâm ở đâu? Nếu như toàn hiểu bằng kiế
 Chỗ thấy của Tuyết Đậu sâu xa hết sức, cho nên thầy ta mới tụng rằng:
 
 > Tam giới vô pháp,
-
-Hà xứ cầu tâm?
-
-Mây trắng là dù,
-
-Suối chẩy là đàn.
-
-Một khúc hai khúc không người hiểu,
-
-Mưa tạnh hồ đêm nước thu sâu.
+>
+> Hà xứ cầu tâm?
+>
+> Mây trắng là dù,
+>
+> Suối chẩy là đàn.
+>
+> Một khúc hai khúc không người hiểu,
+>
+> Mưa tạnh hồ đêm nước thu sâu.
 
 ## BÌNH
 
-“Tam giới vô pháp, hà xứ cầu tâm?” Tuyết Đậu tụng giống như Hoa Nghiêm Cảnh Giới. Có người nói rằng Tuyết Đậu từ hư không mà xướng lên, song những người có mắt hé mở rốt cuộc không bao giờ hiểu như thế cả. Tuyết Đậu đến bên cạnh (Bàn Sơn) mà nói thêm hai câu rằng, “Mây trắng là dù, suối chẩy là đàn.” Lúc Tô Đông Pha gặp Chiêu Giác có làm bài tụng rằng, “Tiếng suối chính là lưỡi rộng dài, Mầu núi phải chăng Thanh Tịnh Thân? Đêm đến tám vạn bốn ngàn kế, Sau này làm sao nói cho người?”
+“Tam giới vô pháp, hà xứ cầu tâm?” Tuyết Đậu tụng giống như Hoa Nghiêm Cảnh Giới. 
 
-Tuyết Đậu mượn suối chảy làm cái lưỡi dài, cho nên mới nói rằng, “Một khúc hai khúc không người hiểu.” Há không nghe Cửu Phong Xư Hòa Thượng nói, “ Có biết mệnh không? Suối chảy là mệnh, trạm tịch là thân. Ngàn sông nơi đây,là cảnh giới của Phổ Hiền. Suối chảy là đàn Một khúc hai khúc không hiểu. Khúc điệu này, phải là bậc tri âm mới lãnh hội nổi. Nếu như các ông không phải là người ấy, lắng tai nghe cũng vô ích mà thôi. Cổ nhân nói, “ Người điếc cũng hát được khúc Hồ[15], hay dở cao thấp chẳng nghe ra.” Vân Môn nói, “ Lúc công án được nêu lên mà các ông không lưu tâm, rồi các ông lại toan tư lương thì đến kiếp nào mới ngộ được?” Nêu lên là thế, lưu tâm là dụng. Trước khi (công án) được nêu lên, trước khi triệu trẫm được phân biện, mà các ông thấy đoục, thì có thể cắt đứt câu nói; Nếu như triệu trẫm vừa phân biện mà các ông đã thấy được ngay, thì các ông đạt được chiếu và dụng.Nếu như phải đợi triệu trẫm phân biện rồi mới hiểu được, thì các ông bị rơi vào ý căn.
+Có người nói rằng Tuyết Đậu từ hư không mà xướng lên, song những người có mắt hé mở rốt cuộc không bao giờ hiểu như thế cả. 
 
-Tuyết Đậu mới từ bi làm sao, cho nên mới nói với các ông rằng,” Mưa tạnh hồ đêm nước thu sâu.” Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như trì nghi thì không thể nào thấy được.
+Tuyết Đậu đến bên cạnh (Bàn Sơn) mà nói thêm hai câu rằng, “Mây trắng là dù, suối chẩy là đàn.” 
+
+Lúc Tô Đông Pha gặp Chiêu Giác có làm bài tụng rằng,
+
+> Tiếng suối chính là lưỡi rộng dài
+> 
+> Mầu núi phải chăng Thanh Tịnh Thân?
+> 
+> Đêm đến tám vạn bốn ngàn kế
+> 
+> Sau này làm sao nói cho người?
+
+Tuyết Đậu mượn suối chảy làm cái lưỡi dài, cho nên mới nói rằng, “Một khúc hai khúc không người hiểu.” Há không nghe Cửu Phong Xư Hòa Thượng nói, “ 
+
+Có biết mệnh không? Suối chảy là mệnh, trạm tịch là thân. Ngàn sông nơi đây,là cảnh giới của Phổ Hiền. Suối chảy là đàn Một khúc hai khúc không hiểu. 
+
+Khúc điệu này, phải là bậc tri âm mới lãnh hội nổi. Nếu như các ông không phải là người ấy, lắng tai nghe cũng vô ích mà thôi. 
+
+Cổ nhân nói, “ Người điếc cũng hát được khúc Hồ[15], hay dở cao thấp chẳng nghe ra.” 
+
+Vân Môn nói, “ Lúc công án được nêu lên mà các ông không lưu tâm, rồi các ông lại toan tư lương thì đến kiếp nào mới ngộ được?” 
+
+Nêu lên là thế, lưu tâm là dụng. Trước khi (công án) được nêu lên, trước khi triệu trẫm được phân biện, mà các ông thấy đoục, thì có thể cắt đứt câu nói; 
+
+Nếu như triệu trẫm vừa phân biện mà các ông đã thấy được ngay, thì các ông đạt được chiếu và dụng.
+
+Nếu như phải đợi triệu trẫm phân biện rồi mới hiểu được, thì các ông bị rơi vào ý căn.
+
+Tuyết Đậu mới từ bi làm sao, cho nên mới nói với các ông rằng,” Mưa tạnh hồ đêm nước thu sâu.” 
+
+Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như trì nghi thì không thể nào thấy được.
 
 ***
 

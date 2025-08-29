@@ -3,7 +3,8 @@ title: "ĐẠO NGÔ THÂM SÂU"
 date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "TS Ngài Đạo Ngô bước xuống giường thiền chào kiểu dáng nữ nhân nói: Cám ơn ông từ xa đến thăm, không dám để chờ lâu."
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS ĐẠO NGÔ VIÊN TRÍ"]
 draft: false
