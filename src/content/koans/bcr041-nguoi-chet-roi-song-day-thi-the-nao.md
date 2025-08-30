@@ -105,8 +105,8 @@ Thử nói xem, làm sao có thể tránh được?
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
-[^2]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-dau-tu-nghia-thanh/" target="_blank">TS ĐẦU TỬ NGHĨA THANH</a>
+[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-dau-tu-nghia-thanh/" target="_blank">TS ĐẦU TỬ NGHĨA THANH</a>
 
 

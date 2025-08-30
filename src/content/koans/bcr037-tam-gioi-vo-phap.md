@@ -3,7 +3,8 @@ title: "TAM GIỚI VÔ PHÁP CỦA BÀN SƠN"
 date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÀN SƠN BẢO TÍCH"]
 draft: false
@@ -11,11 +12,17 @@ draft: false
 
 ## THÙY
 
-Cơ biến như điện, tầm tư phí sức. Sấm sét trên không, bịt tai vô ích. Trên đầu óc phất cờ đỏ, phía sau tai múa song kiếm. Nếu không phải mắt biện tay rờ,làm sao có thể nắm được? Có một số người cúi đầu tư lương, dùng ý căn mà ức đạc. Đâu có biết rằng trước đầu mình thấy quỉ vô số. Thử nói xem, không rơi vào ý căn, không ôm giữ đắc thất, hốt nhiên có người nêu lên như thế để giúp các ông giác ngộ, các ông phải đối đáp như thế nào? Thử nêu lên xem
+Cơ biến như điện, tầm tư phí sức. 
+
+Sấm sét trên không, bịt tai vô ích. Trên đầu óc phất cờ đỏ, phía sau tai múa song kiếm. 
+
+Nếu không phải mắt biện tay rờ,làm sao có thể nắm được? Có một số người cúi đầu tư lương, dùng ý căn mà ức đạc. Đâu có biết rằng trước đầu mình thấy quỉ vô số. Thử nói xem, không rơi vào ý căn, không ôm giữ đắc thất, hốt nhiên có người nêu lên như thế để giúp các ông giác ngộ, các ông phải đối đáp như thế nào? Thử nêu lên xem
 
 ## CỬ:
 
-Bàn Sơn [^13] dậy rằng, “tam giới vô pháp, hà xứ cầu tâm?” [^14]
+Bàn Sơn [^1] dạy rằng, 
+
+> Tam giới vô pháp, hà xứ cầu tâm? [^14]
 
 ## BÌNH
 
@@ -124,7 +131,7 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 ## ℹ️ Thông tin thêm
 
-[^13]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-ban-son-bao-tich/" target="_blank">TS BÀN SƠN BẢO TÍCH</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-ban-son-bao-tich/" target="_blank">TS BÀN SƠN BẢO TÍCH</a>
 
 [^14]: ⭐️  
 

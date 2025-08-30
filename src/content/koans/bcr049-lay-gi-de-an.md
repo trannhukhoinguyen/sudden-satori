@@ -1,17 +1,18 @@
 ---
-title: ""
-date: "2025-08-21"
+title: "TAM THÁNH LẤY GÌ ĐỂ ĂN"
+date: "2025-08-30"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS "]
+tags: ["BÍCH NHAM LỤC", "TS TAM THÁNH HUỆ NHIÊN"]
 draft: false
 ---
 
 ## THÙY
 
-> 
+>  [^1]
 
 ## CỬ:
 
@@ -33,9 +34,9 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ***
 
-> ✨ Nguồn: https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
+> ✨ Nguồn: https://hoavouu.com/p16a12776/5/tac-thu-bon-muoi-chin-tam-thanh-lay-gi-de-an
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43265/14-tac-44-tac-48
+> ✨ Nguồn: https://quangduc.com/p1241a43266/15-tac-49-tac-52
 >
 > ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05
 >
@@ -45,6 +46,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-tam-thanh-hue-nhien/" target="_blank">TS TAM THÁNH HUỆ NHIÊN</a>
 
 

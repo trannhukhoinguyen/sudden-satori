@@ -3,7 +3,8 @@ title: "TRÂU SẮT CỦA PHONG HUYỆT"
 date: "2025-08-23"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS "]
 draft: false
@@ -15,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-> 
+>  [^1]
 
 ## BÌNH
 
@@ -45,6 +46,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
 
 

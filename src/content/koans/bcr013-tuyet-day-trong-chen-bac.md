@@ -1,10 +1,10 @@
 ---
 title: "CHÉN BẠC CỦA BA LĂNG"
 date: "2025-08-22"
-description: 
-  ""
+description:  ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BA LĂNG HẠO GIÁM"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-> 
+> [^1]
 
 ## BÌNH
 
@@ -46,6 +46,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-ba-lang-hao-giam/" target="_blank">TS BA LĂNG HẠO GIÁM</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-ba-lang-hao-giam/" target="_blank">TS BA LĂNG HẠO GIÁM</a>
 
 

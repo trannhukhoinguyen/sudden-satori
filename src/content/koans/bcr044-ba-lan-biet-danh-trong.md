@@ -1,6 +1,6 @@
 ---
 title: "HÒA SƠN BIẾT ĐÁNH TRỐNG"
-date: "2025-08-21"
+date: "2025-08-29"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -16,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-Hòa Sơn dạy rằng, “Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần). 
+Hòa Sơn [^1] dạy rằng, “Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần). 
 
 Vượt qua hai cái này mới đúng là thực sự vượt qua.” 
 
@@ -196,7 +196,7 @@ Nếu như muốn không bối rối thì “Ngọt thì ngọt hể đắng th�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-hoa-son-vo-an/" target="_blank">TS HÒA SƠN VÔ ÂN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-hoa-son-vo-an/" target="_blank">TS HÒA SƠN VÔ ÂN</a>
 
 ⭐️  <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/hoa-son-vo-an-k4109.html/" target="_blank">TS HÒA SƠN VÔ ÂN</a>
 

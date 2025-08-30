@@ -108,4 +108,4 @@ Tuyết Đậu trong một lúc mô tả ngay được Triệu Châu. Cái thậ
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>

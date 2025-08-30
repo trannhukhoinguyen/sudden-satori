@@ -56,6 +56,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-diem-quan-te-an/" target="_blank">TS DIÊM QUAN TỀ AN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-diem-quan-te-an/" target="_blank">TS DIÊM QUAN TỀ AN</a>
 
 

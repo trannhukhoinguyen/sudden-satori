@@ -15,7 +15,7 @@ draft: false
 
 ## CỬ:
 
-> 
+> [^1]
 
 ## BÌNH
 
@@ -45,8 +45,8 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-family/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-family/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
 
-[^2]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-nam-duong-hue-trung/" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nam-duong-hue-trung/" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
 
 

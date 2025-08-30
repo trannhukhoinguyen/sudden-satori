@@ -1,0 +1,1691 @@
+---
+import "../../styles/additional/BookList.css"
+import { bookViDb, bookEnDb} from "../../data/bookDb";
+
+const books = [
+    ...bookViDb,
+    ...bookEnDb,
+];
+const booksSpeech = bookViDb?.filter(book => book.type === 'Speech');
+const booksQA = bookViDb?.filter(book => book.type === 'Q&A');
+const booksOther = bookViDb?.filter(book => !book.type);
+---
+
+<div class="book-club-container">
+  <section class="book-club">
+    <div class="container">
+      <header>
+        <div class="columns is-navigation is-marginless">
+          <div class="column is-4 is-paddingless">
+            <button class="goDark">
+              <i class="fa fa-moon-o" aria-hidden="true"></i>
+            </button>
+          </div>
+          <div class="column is-4 is-centered is-paddingless">
+            <div class="nav-menu is-centered">
+              <svg enable-background="new 0 0 30 30" height="30px" version="1.1" viewBox="0 0 48 48" width="30px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#DFDDFC"><g id="Expanded"><g><g><path d="M23,48.049c-0.147,0-0.294-0.032-0.43-0.097l-21-10C1.222,37.786,1,37.435,1,37.049v-31c0-0.343,0.176-0.662,0.466-0.846     C1.755,5.02,2.12,4.999,2.43,5.146L23,14.941l20.57-9.796c0.31-0.146,0.673-0.126,0.963,0.058C44.824,5.387,45,5.706,45,6.049v31     c0,0.386-0.222,0.737-0.57,0.903l-21,10C23.294,48.017,23.147,48.049,23,48.049z M3,36.417l20,9.524l20-9.524V7.633l-19.57,9.319     c-0.271,0.129-0.588,0.129-0.859,0L3,7.633V36.417z"/></g><g><path d="M23,12.204L5.567,3.903C5.068,3.665,4.857,3.068,5.094,2.57c0.238-0.499,0.834-0.708,1.333-0.474L23,9.989l16.573-7.893     c0.5-0.234,1.095-0.025,1.333,0.474c0.237,0.498,0.026,1.095-0.473,1.333L23,12.204z"/></g><g><rect height="31" width="2" x="22" y="16.049"/></g></g></g></svg>
+            </div>
+          </div>
+          <div class="column is-4 is-paddingless">
+            <div class="nav-menu is-right">
+              <div class="nav-item">
+                <img src="https://1.bp.blogspot.com/-JtED2x_7XAw/UfhHlD-TXmI/AAAAAAAAD9Q/lugUa6id_9Y/s1600/-Teen-Vogue-by-Barrett-Sweger-2013-emma-watson-34892202-1063-1440.jpg"/>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <div class="columns is-full is-left is-marginless">
+        <div class="column is-12">
+          <h4 class="is-bold has-fancy-border">
+                         <span class="is-pink">
+                           Feataured
+                          </span>
+          </h4>
+        </div>
+      </div>
+      <div class="columns has-horizontal-scroll is-marginless has-auto-scroll">
+        <div class="is-scroll-wrapper">
+          <div class="column is-4">
+            <div class="card is-showcase is-blue">
+              <div class="card-content">
+                <div class="card-image"></div>
+                <div class="card-description">
+                  <h5> A Teaspoon of Earth and Sea </h5>
+                  <h6> by: Dina Nayeri </h6>
+                  <div class="stars">
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                  </div>
+                  <div class="avatars">
+                    <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="alt">
+                    <img src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=73a9df4b7bd1b330db1e903e08575ec1" alt="alt">
+                    <img src="https://pbs.twimg.com/profile_images/1047883546508058626/wNaJpr1O.jpg" alt="alt">
+                    <div class="avatar-plus">
+                      + 24
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="column is-4">
+            <div class="card is-showcase is-purple">
+              <div class="card-content">
+                <div class="card-image"></div>
+                <div class="card-description">
+                  <h5> The worls of abstract art </h5>
+                  <h6> by: Emily robbins </h6>
+                  <div class="stars is-three-star">
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                  </div>
+                  <div class="avatars">
+                    <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="alt">
+                    <img src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=73a9df4b7bd1b330db1e903e08575ec1" alt="alt">
+                    <img src="https://pbs.twimg.com/profile_images/1047883546508058626/wNaJpr1O.jpg" alt="alt">
+                    <div class="avatar-plus">
+                      + 20
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="column is-4">
+            <div class="card is-showcase is-pink">
+              <div class="card-content">
+                <div class="card-image"></div>
+                <div class="card-description">
+                  <h5> Me mam me dad me </h5>
+                  <h6> by: malcolm duffy </h6>
+                  <div class="stars is-four-star">
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                  </div>
+                  <div class="avatars">
+                    <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="alt">
+                    <img src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=73a9df4b7bd1b330db1e903e08575ec1" alt="alt">
+                    <img src="https://pbs.twimg.com/profile_images/1047883546508058626/wNaJpr1O.jpg" alt="alt">
+                    <div class="avatar-plus">
+                      + 50
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="column is-4">
+            <div class="card is-showcase is-green">
+              <div class="card-content">
+                <div class="card-image"></div>
+                <div class="card-description">
+                  <h5> before she was harriet </h5>
+                  <h6> by: Lesa Cline-Ransome </h6>
+                  <div class="stars">
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                  </div>
+                  <div class="avatars">
+                    <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="alt">
+                    <img src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=73a9df4b7bd1b330db1e903e08575ec1" alt="alt">
+                    <img src="https://pbs.twimg.com/profile_images/1047883546508058626/wNaJpr1O.jpg" alt="alt">
+                    <div class="avatar-plus">
+                      + 14
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="column is-4">
+            <div class="card is-showcase is-orange">
+              <div class="card-content">
+                <div class="card-image"></div>
+                <div class="card-description">
+                  <h5> The Martian </h5>
+                  <h6> by: Andy Weir </h6>
+                  <div class="stars">
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                    <span>★</span>
+                  </div>
+                  <div class="avatars">
+                    <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="alt">
+                    <img src="https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=73a9df4b7bd1b330db1e903e08575ec1" alt="alt">
+                    <img src="https://pbs.twimg.com/profile_images/1047883546508058626/wNaJpr1O.jpg" alt="alt">
+                    <div class="avatar-plus">
+                      + 44
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="columns is-full is-marginless">
+        <div class="column is-8">
+          <div class="columns is-full is-left is-multiline is-relative has-no-overflow">
+            <h4 class="is-bold has-fancy-border">
+              <span class="is-purple"> Browse </span>
+            </h4>
+
+            <div class="column is-4">
+              <figure class="card is-recommended is-mario">
+                <div class="card-content">
+                  <div class="card-image"></div>
+                  <div class="card-description">
+                    <h5> Super Mario </h5>
+                    <h6> by: Jeff Ryan </h6>
+                    <div class="stars is-three-star">
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                    </div>
+                  </div>
+
+                </div>
+              </figure>
+            </div>
+            <div class="column is-4">
+              <div class="card is-recommended is-boy-erased">
+                <div class="card-content">
+                  <div class="card-image"></div>
+                  <div class="card-description">
+                    <h5> Boy Erased </h5>
+                    <h6> by: Garrart Conley </h6>
+                    <div class="stars is-four-star">
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <div class="column is-4">
+              <div class="card is-recommended is-crow-vow">
+                <div class="card-content">
+                  <div class="card-image"></div>
+                  <div class="card-description">
+                    <h5> The Crows Vow </h5>
+                    <h6> by: Susan Briscoe </h6>
+                    <div class="stars is-four-star">
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <div class="column is-4">
+              <div class="card is-recommended is-all-we-wanted">
+                <div class="card-content">
+                  <div class="card-image"></div>
+                  <div class="card-description">
+                    <h5> All we ever wanted </h5>
+                    <h6> by: Emily Giffin</h6>
+                    <div class="stars is-four-star">
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <div class="column is-4">
+              <div class="card is-recommended is-million-miles">
+                <div class="card-content">
+                  <div class="card-image"></div>
+                  <div class="card-description">
+                    <h5> A million miles in a thousand yearz </h5>
+                    <h6> by: Donald Miller </h6>
+                    <div class="stars is-three-star">
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <div class="column is-4">
+              <div class="card is-recommended is-harry-potter">
+                <div class="card-content">
+                  <div class="card-image"></div>
+                  <div class="card-image-reverse"></div>
+                  <div class="card-description">
+                    <h5> The prisoner of Azkaban </h5>
+                    <h6> by: Jk Rowling </h6>
+                    <div class="stars is-five-star">
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                      <span>★</span>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+            <div class="column is-12 has-fixed-height">
+              <button class="button has-margin-top is-semi-circle is-absolute is-bottom is-right is-orange">
+                <i class="fa fa-arrow-right" aria-hidden="true"></i>
+              </button>
+            </div>
+
+
+          </div>
+        </div>
+
+        <div class="column is-4">
+          <div class="column is-12">
+            <h4 class="is-bold has-fancy-border">
+                         <span class="is-pink">
+                           Book Clubs
+                          </span>
+            </h4>
+            <ul class="list-items is-column is-relative has-no-overflow has-counter">
+              <li>
+                <a href="#">
+                  <h5> Best Books Ever </h5>
+                  <div class="is-list-item-menu">
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-book"></i>
+                      <span> 2050 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-pencil"></i>
+                      <span> 50 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-user"></i>
+                      <span> 300 </span>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <h5> Books turned into movies </h5>
+                  <div class="is-list-item-menu">
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-book"></i>
+                      <span> 700 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-pencil"></i>
+                      <span> 1750 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-user"></i>
+                      <span> 200 </span>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <h5>Best Fiction</h5>
+                  <div class="is-list-item-menu">
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-book"></i>
+                      <span> 250 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-pencil"></i>
+                      <span> 750 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-user"></i>
+                      <span> 3000 </span>
+                    </div>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <h5> What to read next </h5>
+                  <div class="is-list-item-menu">
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-book"></i>
+                      <span> 250 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-pencil"></i>
+                      <span> 750 </span>
+                    </div>
+                    <div class="is-list-item-menu-item">
+                      <i class="fa fa-user"></i>
+                      <span> 3000 </span>
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <li class="is-list-item is-marginless has-button has-no-count">
+                <button class="button is-semi-circle is-absolute is-bottom is-right is-purple">
+                  <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="column is-12">
+        <h4 class="is-bold has-fancy-border">
+                         <span class="is-green">
+                           Quotes
+                          </span>
+        </h4>
+      </div>
+      <div class="columns has-horizontal-scroll is-marginless is-transparent">
+        <div class="column is-4">
+          <div class="card is-quote is-viscious-stance">
+            <div class="card-content">
+              <div class="card-bio">
+                <div class="avatars">
+                  <img src="https://images.gr-assets.com/authors/1218295974p2/165858.jpg" alt="alt">
+                </div>
+                <h6> Salvador Dalí </h6>
+                <i class="fa fa-bookmark"></i>
+              </div>
+              <div class="card-description">
+                <h5 class="is-quote"> You have to systematically create confusion, it sets creativity free. Everything that is contradictory creates life </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="column is-4">
+          <div class="card is-quote is-slick-carbon">
+            <div class="card-content">
+              <div class="card-bio">
+                <div class="avatars">
+                  <img src="https://images.gr-assets.com/authors/1379017377p2/3503.jpg" alt="alt">
+                </div>
+                <h6> Maya Angelou </h6>
+                <i class="fa fa-bookmark"></i>
+              </div>
+              <div class="card-description">
+                <h5 class="is-quote"> I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div class="card is-quote is-winter">
+            <div class="card-content">
+              <div class="card-bio">
+                <div class="avatars">
+                  <img src="https://images.gr-assets.com/authors/1207771636p2/25241.jpg" alt="alt">
+                </div>
+                <h6> Bob Marley </h6>
+                <i class="fa fa-bookmark"></i>
+              </div>
+              <div class="card-description">
+                <h5 class="is-quote"> Me only have one ambition, y'know. I only have one thing I really like to see happen. I like to see mankind live together - black, white, Chinese, everyone - that's all. </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div class="card is-quote is-purp">
+            <div class="card-content">
+              <div class="card-bio">
+                <div class="avatars">
+                  <img src="https://images.gr-assets.com/authors/1198590177p2/43244.jpg" alt="alt">
+                </div>
+                <h6> Groucho Marx </h6>
+                <i class="fa fa-bookmark"></i>
+              </div>
+              <div class="card-description">
+                <h5 class="is-quote"> Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div class="card is-quote is-greeny">
+            <div class="card-content">
+              <div class="card-bio">
+                <div class="avatars">
+                  <img src="https://images.gr-assets.com/authors/1517863935p2/5144.jpg" alt="alt">
+                </div>
+                <h6> James Joyce </h6>
+                <i class="fa fa-bookmark"></i>
+              </div>
+              <div class="card-description">
+                <h5 class="is-quote"> Jesus was a bachelor and never lived with a woman. Surely living with a woman is one of the most difficult things a man has to do, and he never did it.</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div class="card is-quote is-redy">
+            <div class="card-content">
+              <div class="card-bio">
+                <div class="avatars">
+                  <img src="https://images.gr-assets.com/authors/1393555704p2/12080.jpg" alt="alt">
+                </div>
+                <h6> Ralph Waldo Emerson </h6>
+                <i class="fa fa-bookmark"></i>
+              </div>
+              <div class="card-description">
+                <h5 class="is-quote"> I hate quotations. Tell me what you know.</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<style>
+  @import url("https://fonts.googleapis.com/css?family=Montserrat");
+  $montserrat: "Montserrat", sans-serif;
+
+  $blue-gradient: linear-gradient(-225deg, #7de2fc 0%, #b9b6e5 100%);
+  $purple-gradient: linear-gradient(-225deg, #5271c4 0%, #b19fff 48%, #eca1fe 100%);
+  $pink-gradient: linear-gradient(-225deg, #ffe29f 0%, #ffa99f 48%, #ff719a 100%);
+  $green-gradient: linear-gradient(-60deg, #16a085 0%, #f4d03f 100%);
+  $orange-gradient: linear-gradient(-60deg, #ff5858 0%, #f09819 100%);
+  $strong-bliss: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+  $viscious-stance: linear-gradient(60deg, #29323c 0%, #485563 100%);
+  $slick-carbon: linear-gradient(to bottom, #323232 0%, #3F3F3F 40%, #1C1C1C 150%), linear-gradient(to top, rgba(255, 255, 255, 0.40) 0%, rgba(0, 0, 0, 0.25) 200%);
+  $scroll-gradient: linear-gradient(to right, #bdc3c7 0%, #2c3e50 99%);
+  $dark-scroll-gradient: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+
+  $mario-img: url("https://i.pinimg.com/originals/5d/4e/e9/5d4ee963e9824cc6b74170fd76d4981c.jpg");
+  $mario-selected: #86d1f0;
+  $mario-unselected: #ecf7fe;
+  $mario-gradient: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  $boy-erased-img: url("https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Boy_Erased-_A_Memoir.jpg/220px-Boy_Erased-_A_Memoir.jpg");
+  $boy-erased-selected: #84E3E7;
+  $boy-erased-unselected: #e4f9fa;
+  $crow-vow-img: url('https://images.gr-assets.com/books/1328760462l/8611697.jpg');
+  $crow-vow-selected: #ec7ea7;
+  $crow-vow-unselected: #f8dadc;
+  $harry-potter-img: url('https://kbimages1-a.akamaihd.net/30eb5c14-23dc-41ba-95eb-4a3e68c1c30f/353/569/90/False/harry-potter-and-the-prisoner-of-azkaban-6.jpg');
+  $harry-potter-selected: #8a63f6;
+  $million-miles-img: url('https://upload.wikimedia.org/wikipedia/en/c/cf/Million_Miles_book_cover.jpg');
+  $million-miles-selected: #f1c143;
+  $million-miles-unselected: #fcf2d6;
+  $is-all-we-wanted-img: url('https://images.gr-assets.com/books/1512578780l/36723031.jpg');
+  $is-all-we-wanted-selected: #3b8df7;
+  $is-all-we-wanted-unselected: #dfe9fd;
+  $star-shadow: 0 0 5px #fff;
+  $dark-bg: #111;
+
+  @mixin transitionBg($time) {
+    transition: all $time cubic-bezier(.65, 0, .15, 1);
+  }
+
+  $is-bold: 700;
+  $height: 100%;
+  $width: 100%;
+  $white: #fff;
+  $light-grey: #ccc;
+  $grey: #808080;
+  $small-img-dimensions: 30px;
+  $large-img-dimensions: 60px;
+  $transform: 250px;
+
+/*  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }*/
+
+  .book-club-container .columns {
+
+    &.is-full,
+    &.is-left {
+      display: flex;
+    }
+
+    &.is-full {
+      width: $width;
+    }
+
+    &.is-left {
+      justify-content: flex-start;
+    }
+
+    &.is-marginless {
+      margin-bottom: 0;
+    }
+
+    &.is-multiline {
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        order: 1;
+        width: $width;
+      }
+
+      .column {
+        order: 2;
+      }
+    }
+
+  }
+
+  .has-fixed-height {
+    height: 54px;
+  }
+
+  .book-club-container {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    height: $height;
+    margin: 0;
+    padding: 0;
+
+    > * {
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    }
+  }
+
+  .book-club-container h1,
+  .book-club-container h2,
+  .book-club-container h3,
+  .book-club-container h4,
+  .book-club-container h5 {
+    font-family: $montserrat;
+    line-height: 1.5;
+    text-transform: capitalize;
+
+
+    > * {
+      font-family: $montserrat;
+    }
+
+    &.is-uppercase {
+      text-transform: uppercase;
+    }
+
+    &.is-bold {
+      font-weight: $is-bold;
+    }
+
+    &.is-grey {
+      color: $grey;
+    }
+
+    &.has-fancy-border {
+      margin-bottom: 9px;
+      padding-top: 9px;
+
+      span {
+        padding: 6px 12px;
+        position: relative;
+        display: inline;
+        border: 0;
+        border-bottom: 2px solid transparent;
+        border-left: 2px solid transparent;
+
+        &.is-orange {
+          border-bottom-color: #f09819;
+          border-left-color: #f09819;
+
+          &::before,
+          &::after {
+            background: #ff5858;
+          }
+        }
+
+        &.is-purple {
+          border-bottom-color: #eca1fe;
+          border-left-color: #eca1fe;
+
+          &::before,
+          &::after {
+            background: #b19fff;
+          }
+        }
+
+        &.is-pink {
+          border-bottom-color: #ff719a;
+          border-left-color: #ff719a;
+
+          &::before,
+          &::after {
+            background: #ffa998;
+          }
+        }
+
+        &.is-green {
+          border-bottom-color: #52c234;
+          border-left-color: #52c234;
+
+          &::before,
+          &::after {
+            background: #497d3b;
+          }
+        }
+
+        &::before,
+        &::after {
+          position: absolute;
+          content: "";
+          right: 0;
+          top: 0;
+          background: #000;
+          transition: all 0.3s ease;
+        }
+
+        &::before {
+          height: 0;
+          width: 2px;
+        }
+
+        &::after {
+          width: 0;
+          height: 2px;
+        }
+
+        &:hover {
+          &::before {
+            height: $height;
+          }
+
+          &::after {
+            width: $width;
+          }
+        }
+      }
+    }
+  }
+
+  .book-club-container h1 {
+    font-size: 36px;
+  }
+
+  .book-club-container h2 {
+    font-size: 30px;
+  }
+
+  .book-club-container h3 {
+    font-size: 24px;
+  }
+
+  .book-club-container h4 {
+    font-size: 18px;
+  }
+
+  .book-club-container h5 {
+    font-size: 14px;
+  }
+
+  .book-club-container h6 {
+    font-size: 12px;
+  }
+
+  .book-club-container a {
+    color: inherit;
+    text-decoration: none;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+  }
+
+
+  .book-club {
+    background-color: #dfddfc;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color .25s linear;
+
+    ::-webkit-scrollbar-track,
+    ::-webkit-scrollbar,
+    ::-webkit-scrollbar-thumb {
+      border-radius: 2px;
+    }
+
+    ::-webkit-scrollbar-track,
+    ::-webkit-scrollbar {
+      background-color: #F5F5F5;
+    }
+
+    ::-webkit-scrollbar,
+    ::-webkit-scrollbar-thumb {
+      height: 4px;
+      width: 4px;
+    }
+
+    ::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 4px rgba(0, 0, 0, .1);
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background-image: $scroll-gradient;
+    }
+
+    &.is-dark {
+      background-color: $dark-bg;
+      color: #dadada;
+
+      .container {
+        background-color: $dark-bg;
+      }
+
+      .has-horizontal-scroll {
+        background-color: transparent;
+      }
+
+      i {
+        color: #dadada;
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background-image: $dark-scroll-gradient;
+      }
+    }
+  }
+
+  .book-club .container {
+    border-radius: 10px;
+  }
+
+  .book-club .columns {
+    margin: 0;
+  }
+
+  .book-club .is-marginless {
+    margin: 0;
+
+    &:last-child {
+      margin: 0;
+    }
+  }
+
+  .book-club .is-paddingless {
+    padding: 0 12px;
+  }
+
+  .book-club .is-full-width {
+    width: $width;
+  }
+
+  .book-club .is-relative {
+    position: relative;
+  }
+
+  .book-club .has-no-overflow {
+    overflow: hidden;
+  }
+
+  .book-club .is-absolute {
+    position: absolute;
+
+    &.is-top {
+      top: 0;
+    }
+
+    &.is-bottom {
+      bottom: 0;
+    }
+
+    &.is-right {
+      right: 0;
+    }
+
+    &.is-left {
+      left: 0;
+    }
+  }
+
+  .book-club .has-horizontal-scroll {
+    scroll-snap-points-x: repeat(33%);
+    scroll-snap-type: mandatory;
+    -webkit-overflow-scrolling: touch;
+    align-self: flex-start;
+    background-color: rgba(239, 239, 239, .2);
+    display: flex;
+    flex-flow: row nowrap;
+    overflow-x: scroll;
+    padding: 0;
+    width: $width;
+
+    &.is-transparent {
+      background-color: transparent;
+    }
+
+    &.has-auto-scroll {
+      overflow: hidden;
+
+      .is-scroll-wrapper {
+        animation: marquee 16s linear infinite;
+        display: flex;
+        width: $width;
+
+        &:hover {
+          animation-play-state: paused;
+        }
+      }
+    }
+
+    .column {
+      -webkit-scroll-snap-coordinate: 0% 0%;
+      justify-content: flex-start;
+
+      &:first-of-type {
+        padding-left: 0;
+
+        .card {
+          border-bottom-left-radius: 0;
+          border-top-left-radius: 0;
+        }
+      }
+
+      &:last-of-type {
+        padding-right: 0;
+
+        .card {
+          border-bottom-right-radius: 0;
+          border-top-right-radius: 0;
+        }
+      }
+    }
+  }
+
+  .book-club .container {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, .25), 0 10px 10px rgba(0, 0, 0, .22);
+    max-width: 1024px;
+    width: 100vw;
+    min-height: 90vh;
+    margin: 0 auto;
+    overflow: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background-color: #fff;
+    border-radius: 4px;
+    flex-flow: row wrap;
+  }
+
+  .book-club header {
+    align-items: center;
+    align-self: flex-start;
+    border-bottom: 1px solid #f4f4f4;
+    display: flex;
+    flex-flow: row nowrap;
+    height: 48px;
+    width: $width;
+
+    button {
+      appearance: none;
+      background-color: transparent;
+      border: 1px solid transparent;
+      font-size: 24px;
+
+      &:focus {
+        outline: 0;
+      }
+    }
+  }
+
+  .book-club .is-navigation {
+    height: $height;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    padding: 0 12px;
+    width: $width;
+  }
+
+  .book-club .nav-menu {
+    height: $height;
+    display: flex;
+    align-items: center;
+    width: $width;
+
+    &.is-centered {
+      display: flex;
+      justify-content: center;
+    }
+
+    &.is-right {
+      justify-content: flex-end;
+      margin-left: auto;
+
+      > .nav-item {
+        align-items: center;
+        border-right: 1px solid $light-grey;
+        display: flex;
+        height: $height;
+        justify-content: center;
+        padding: 0 12px;
+
+        i {
+          font-size: 24px;
+        }
+
+        &:last-of-type {
+          border-right: 0;
+          padding-right: 0;
+        }
+      }
+
+      img {
+        border-radius: 100%;
+        display: block;
+        height: $small-img-dimensions;
+        width: $small-img-dimensions;
+      }
+    }
+  }
+
+  .book-club .list-items {
+    li {
+      &:not(.is-marginless) {
+        margin-bottom: 12px;
+      }
+
+      &.has-button {
+        height: 54px;
+      }
+    }
+
+    &.is-column {
+      padding-top: 18px;
+
+      .avatars {
+        &:first-of-type {
+          padding-top: 18px;
+        }
+      }
+    }
+
+    &.has-counter {
+      counter-reset: listCount;
+
+      li {
+        counter-increment: listCount;
+        position: relative;
+
+        &::before {
+          content: counter(listCount);
+          position: absolute;
+          color: #fdfafa;
+          background-image: $purple-gradient;
+          width: 24px;
+          height: 24px;
+          text-align: center;
+          border-radius: 50%;
+          left: -3px;
+          border-bottom-left-radius: 0;
+          border-top-left-radius: 0;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        &.has-no-count {
+          counter-increment: none;
+
+          &::before {
+            content: '';
+            display: none;
+          }
+        }
+
+        h5 {
+          line-height: 24px;
+          padding-left: 24px;
+        }
+      }
+    }
+
+    .is-list-item-menu {
+      align-items: center;
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: space-between;
+      padding: 16px 24px;
+      width: 100%;
+
+      > * {
+        align-items: center;
+        display: flex;
+      }
+
+      span {
+        display: inline-flex;
+        font-size: 12px;
+      }
+
+      i {
+        background: $purple-gradient;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+        + span {
+          padding-left: 6px;
+        }
+      }
+    }
+  }
+
+  .book-club .avatars {
+    align-items: center;
+    display: flex;
+    font-size: 12px;
+    justify-content: flex-start;
+    flex-flow: row nowrap;
+    width: $width;
+
+    img {
+      border-radius: 100%;
+      display: block;
+      height: $small-img-dimensions;
+      width: $small-img-dimensions;
+
+      &:nth-of-type(even) {
+        margin: 0 6px;
+      }
+    }
+
+    h6 {
+      padding-left: 6px;
+    }
+
+    .avatar-plus {
+      align-items: center;
+      background-color: #fff;
+      border-radius: 100%;
+      display: flex;
+      font-family: $montserrat;
+      font-size: 10px;
+      justify-content: center;
+      height: $small-img-dimensions;
+      margin-left: 6px;
+      padding: 0 1px;
+      text-align: center;
+      width: $small-img-dimensions;
+    }
+  }
+
+  .book-club .card {
+    border-radius: 10px;
+    box-shadow: none;
+    display: flex;
+    position: relative;
+    transition: all .5s ease-out;
+    width: $width;
+
+    > * {
+      cursor: pointer;
+    }
+
+    .card-content {
+      align-content: center;
+      display: flex;
+      flex-flow: row nowrap;
+      height: $height;
+      width: $width;
+
+      .card-image {
+        background-repeat: no-repeat;
+        background-size: contain;
+        flex: 0 0 33%;
+      }
+
+      .card-description {
+        display: flex;
+        flex-flow: row wrap;
+        padding: 0 6px;
+        flex: 0 0 67%;
+
+        > * {
+          width: $width;
+        }
+
+        h5,
+        h6 {
+          margin: 0 0 4px 0;
+          text-transform: capitalize;
+        }
+      }
+
+      .stars {
+        display: flex;
+        order: 2;
+        padding: 16px 0;
+
+        span {
+          text-shadow: $star-shadow;
+          padding: 0 1px;
+        }
+
+        &.is-one-star {
+          span {
+            &:nth-of-type(2),
+            &:nth-of-type(3),
+            &:nth-of-type(4),
+            &:nth-of-type(5) {
+              color: #ccc;
+              opacity: .5;
+              text-shadow: none;
+            }
+          }
+        }
+        &.is-two-star {
+          span {
+
+            &:nth-of-type(3),
+            &:nth-of-type(4),
+            &:nth-of-type(5) {
+              color: #ccc;
+              opacity: .5;
+              text-shadow: none;
+            }
+          }
+        }
+        &.is-three-star {
+          span {
+            &:nth-of-type(4),
+            &:nth-of-type(5) {
+              color: #ccc;
+              opacity: .5;
+              text-shadow: none;
+            }
+          }
+        }
+        &.is-four-star {
+          span {
+            &:last-of-type {
+              color: #ccc;
+              opacity: .5;
+              text-shadow: none;
+            }
+          }
+        }
+      }
+    }
+
+    &.is-showcase {
+      color: $white;
+      height: 180px;
+      padding: 24px 12px;
+    }
+
+    &.is-showcase,
+    &.is-quote {
+      min-height: 180px;
+
+      h5 {
+        font-weight: 700;
+      }
+    }
+
+    &.is-quote {
+      align-items: stretch;
+      border-radius: 10px;
+      color: $white;
+      flex-flow: row wrap;
+      height: 100%;
+      padding: 12px;
+
+      > * {
+        color: white;
+      }
+
+      h5 {
+        &:first-letter {
+          font-size: 24px;
+        }
+      }
+
+      &.is-viscious-stance {
+        background: linear-gradient(to top, #cc2b5e, #753a88);
+
+      }
+
+      &.is-slick-carbon {
+        background: linear-gradient(to top, #1a2980, #26d0ce);
+        background-blend-mode: multiply;
+      }
+
+      &.is-winter {
+        background: linear-gradient(to top, #f46b45, #eea849);
+      }
+
+      &.is-purp {
+        background: linear-gradient(to top, #4568dc, #b06ab3);
+      }
+
+      &.is-greeny {
+        background: linear-gradient(to top, #52c234, #061700);
+      }
+
+      &.is-redy {
+        background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+      }
+
+      .card-content {
+        padding: 6px;
+        display: flex;
+        flex-flow: row wrap;
+        width: $width;
+      }
+
+      .card-bio {
+        align-self: flex-start;
+        align-items: center;
+        display: flex;
+        height: 36px;
+        flex-flow: row nowrap;
+        justify-content: flex-start;
+        width: 100%;
+
+        > * {
+          padding: 0 4px;
+          width: auto;
+        }
+
+        i {
+          font-size: 24px;
+          margin-left: auto;
+        }
+      }
+
+      .card-description {
+        flex: 0 0 $width;
+        height: calc(100% - 36px);
+        padding: 12px 6px;
+        width: $width;
+      }
+    }
+
+    &.is-blue {
+      background-image: $blue-gradient;
+
+      .card-image {
+        background-image: url("https://www.portersquarebooks.com/sites/portersquarebooks.com/files/teaspoonearthandsea.jpg");
+        transform: translateY(-0.25em);
+      }
+
+      .avatar-plus {
+        box-shadow: 0 0 0 1px #7de2fc;
+        color: #7de2fc;
+      }
+    }
+
+    &.is-pink {
+      background-image: $pink-gradient;
+
+      .card-image {
+        background-image: url("https://i.harperapps.com/covers/9781786697639/x293.jpg");
+      }
+
+      .avatar-plus {
+        box-shadow: 0 0 0 1px #ffa99f;
+        color: #ffa99f;
+      }
+    }
+
+    &.is-purple {
+      background-image: $purple-gradient;
+
+      .card-image {
+        background-image: url("https://marketplace.canva.com/MACBTyJGXXY/1/0/thumbnail_large/canva-purple-paint-strokes-abstract-art-creativity-book-cover-MACBTyJGXXY.jpg");
+      }
+
+      .avatar-plus {
+        box-shadow: 0 0 0 1px #b19fff;
+        color: #b19fff;
+      }
+    }
+
+    &.is-green {
+      background-image: $green-gradient;
+
+      .card-image {
+        background-image: url("https://s26162.pcdn.co/wp-content/uploads/2018/03/Maze-Runner-aerial-ed.jpg");
+      }
+
+      .avatar-plus {
+        box-shadow: 0 0 0 1px #f4d03f;
+        color: #f4d03f;
+      }
+    }
+
+    &.is-orange {
+      background-image: $orange-gradient;
+
+      .card-image {
+        background-image: url("https://static01.nyt.com/images/2014/02/05/books/05before-and-after-slide-T6H2/05before-and-after-slide-T6H2-superJumbo.jpg");
+      }
+
+      .avatar-plus {
+        box-shadow: 0 0 0 1px #f09819;
+        color: #f09819;
+      }
+    }
+
+    &.is-recommended {
+      border-radius: 0;
+      height: 100%;
+      min-height: 160px;
+
+      .card-content {
+        align-items: center;
+        height: auto;
+
+        .card-description {
+          align-items: center;
+          flex: 0 0 60%;
+          height
+          > * {
+            margin-bottom: 12px;
+            width: $width;
+          }
+
+          h5,
+          h6 {
+            font-size: 12px;
+          }
+
+          h6 {
+            color: #C5C5C5;
+          }
+        }
+
+        .stars {
+          padding: 8px 0;
+          margin-bottom: 0;
+        }
+      }
+
+      .card-image {
+        background-position: center;
+        background-size: 100% 140px;
+        height: $height;
+        flex: 0 0 40%;
+      }
+    }
+
+    &.is-mario {
+      .card-image {
+        background-image: $mario-img;
+      }
+      .card-content {
+        .stars {
+
+          &.is-three-star {
+            span {
+
+              &:nth-of-type(1),
+              &:nth-of-type(2),
+              &:nth-of-type(3) {
+                color: $mario-selected;
+              }
+
+              &:nth-last-of-type(-n+2) {
+                color: $mario-unselected;
+                opacity: 1;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    &.is-boy-erased {
+      .card-image {
+        background-image: $boy-erased-img;
+      }
+
+      .card-content {
+        .stars {
+          span {
+            &:nth-of-type(1),
+            &:nth-of-type(2),
+            &:nth-of-type(3),
+            &:nth-of-type(4) {
+              color: $boy-erased-selected;
+            }
+
+            &:last-of-type {
+              color: $boy-erased-unselected;
+              opacity: 1;
+            }
+          }
+        }
+      }
+    }
+
+    &.is-crow-vow {
+      .card-image {
+        background-image: $crow-vow-img;
+      }
+
+      .card-content {
+        .stars {
+          span {
+            &:nth-of-type(1),
+            &:nth-of-type(2),
+            &:nth-of-type(3),
+            &:nth-of-type(4) {
+              color: $crow-vow-selected;
+            }
+
+            &:last-of-type {
+              color: $crow-vow-unselected;
+              opacity: 1;
+            }
+          }
+        }
+      }
+
+    }
+
+    &.is-harry-potter {
+      .card-image {
+        background-image: $harry-potter-img;
+      }
+
+      .card-content {
+        .stars {
+          span {
+            color: $harry-potter-selected;
+          }
+        }
+      }
+    }
+
+    &.is-million-miles {
+      .card-image {
+        background-image: $million-miles-img;
+      }
+
+      .card-content {
+        .stars {
+          span {
+            &:nth-of-type(1),
+            &:nth-of-type(2),
+            &:nth-of-type(3) {
+              color: $million-miles-selected;
+            }
+
+            &:nth-last-of-type(-n+2) {
+              color: $million-miles-unselected;
+              opacity: 1;
+            }
+          }
+        }
+      }
+    }
+
+    &.is-all-we-wanted {
+      .card-image {
+        background-image: $is-all-we-wanted-img;
+      }
+      .card-content {
+        .stars {
+          span {
+            &:nth-of-type(1),
+            &:nth-of-type(2),
+            &:nth-of-type(3),
+            &:nth-of-type(4) {
+              color: $is-all-we-wanted-selected;
+            }
+
+            &:last-of-type {
+              color: $is-all-we-wanted-unselected;
+              opacity: 1;
+            }
+          }
+        }
+      }
+
+    }
+  }
+
+  .book-club .button {
+    display: flex;
+    background-color: $white;
+    border-color: transparent;
+    color: #111;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    justify-content: center;
+    padding-left: 12px;
+    padding-right: 12px;
+    text-align: center;
+    white-space: nowrap;
+
+    &:focus {
+      outline: 0;
+    }
+
+    &:hover {
+      i {
+        animation: hover 2s ease-in-out infinite;
+      }
+    }
+
+    &.is-semi-circle {
+      bottom: -12px;
+      border-radius: 100%;
+      background-color: transparent;
+      color: white;
+      height: 54px;
+      right: -6px;
+      width: 54px;
+      will-change: transform;
+      transition: box-shadow 400ms cubic-bezier(.2,0,.7,1), transform 200ms cubic-bezier(.2,0,.7,1);
+
+      &:hover {
+        transform: scale(1.25);
+
+        > * {
+          transform: scale(1.25);
+        }
+
+      }
+
+      > * {
+        position: relative;
+        top: -4px;
+      }
+
+      &.is-purple {
+        background-image: $purple-gradient;
+        color: $white;
+
+        &:hover {
+          box-shadow: 0 0 1px 6px rgba(177, 159, 255, .6), 0 0 1px 12px rgba(177, 159, 255, .4), 0 0 1px 18px rgba(177, 159, 255, .2);
+        }
+      }
+
+      &.is-orange {
+        background-image: $orange-gradient;
+        color: $white;
+
+        &:hover {
+          box-shadow: 0 0 1px 6px rgb(244, 134, 50), 0 0 1px 12px rgba(246, 131, 56, .33), 0 0 1px 18px rgba(244, 134, 50, .25)
+        }
+
+      }
+    }
+  }
+
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translate(-50%);
+    }
+  }
+
+  @keyframes hover {
+
+    0% {
+      transform: translatey(0px);
+    }
+
+    50% {
+      transform: translatey(-2px);
+    }
+
+    100% {
+      transform: translatey(0px);
+    }
+  }
+</style>
+
+<script>
+  const main = document.querySelector('.main');
+  const btn = document.querySelector('.goDark');
+  if (btn instanceof HTMLButtonElement) {
+    btn.onclick = function() {
+      main && main.classList.toggle('is-dark');
+    }
+  }
+</script>

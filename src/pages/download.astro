@@ -1,6 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import BookList from '../components/BookList.astro';
+import BookList from '../components/book/BookList.astro';
+import BookLibrary from '../components/book/BookLibrary.astro';
+import BookClub from '../components/book/BookClub.astro';
+import BookCollection from '../components/book/BookCollection.astro';
 
 const title = '';
 const description = ``;
@@ -15,6 +18,15 @@ const description = ``;
 
     <div class="content-section">
       <BookList />
+      <hr class="page-rule" />
+
+      <BookLibrary />
+      <hr class="page-rule" />
+
+      <BookCollection />
+      <hr class="page-rule" />
+
+      <BookClub />
     </div>
   </div>
 </Layout>

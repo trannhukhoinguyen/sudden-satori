@@ -3,7 +3,8 @@ title: "PHẬT PHÁP ĐẠI Ý CỦA LÂM TẾ"
 date: "2025-08-26"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LÂM TẾ NGHĨA HUYỀN"]
 draft: false
@@ -15,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-> 
+> [^1] 
 
 ## BÌNH
 
@@ -45,6 +46,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-lam-te-nghia-huyen/" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-lam-te-nghia-huyen/" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
 
 

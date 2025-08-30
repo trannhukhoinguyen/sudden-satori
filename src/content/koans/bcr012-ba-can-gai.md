@@ -4,7 +4,7 @@ date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  "Có ông tăng hỏi Động Sơn, “Phật là gì?” Động Sơn nói, “Ba cân gai.”"
+  "Có ông tăng hỏi Động Sơn, 'Phật là gì?'. Động Sơn nói, 'Ba cân gai'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐỘNG SƠN LƯƠNG GIỚI"]
 draft: false
@@ -18,11 +18,13 @@ Nếu luận về giết, chẳng hại một sợi lông. Nếu luận về c�
 
 Cho nên mới có lời nói, “Một đường hướng thượng, ngàn thánh không truyền, kẻ học mệt thân, như khỉ bắt bóng.” 
 
-Thử nói xem, đã không truyền thì tại sao lại có đến lắm công án dây dưa như vậy? Để những người có mắt thử nêu lên xem.
+Thử nói xem, đã không truyền thì tại sao lại có đến lắm công án dây dưa như vậy? 
+
+Để những người có mắt thử nêu lên xem.
 
 ## CỬ:
 
-> Có ông tăng hỏi Động Sơn, “*Phật là gì?*” 
+> Có ông tăng hỏi Động Sơn [^1], “*Phật là gì?*” 
 > 
 > Động Sơn nói, “*Ba cân gai*”
 
@@ -54,6 +56,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-dong-son-luong-gioi/" target="_blank">TS ĐỘNG SƠN LƯƠNG GIỚI</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-dong-son-luong-gioi/" target="_blank">TS ĐỘNG SƠN LƯƠNG GIỚI</a>
 
 

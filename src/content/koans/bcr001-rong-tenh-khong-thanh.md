@@ -23,25 +23,25 @@ Thử nhìn vào những lời dây dưa của Tuyết Đậu.
 
 ## CỬ:
 
-- Lương Vũ Đế hỏi Đạt Ma Đại Sư, “Thế nào là sự thật cứu cánh siêu phàm?”
+- Lương Vũ Đế [^1] hỏi Đạt Ma Đại Sư [^2], “_Thế nào là sự thật cứu cánh siêu phàm?_”
 
-- Đạt Ma nói, “Trống không chẳng có gì là siêu phàm”.
+- Đạt Ma nói, “**Trống không chẳng có gì là siêu phàm**”.
 
-- Vũ Đế hỏi, “Thế đối diện Trẫm là ai vậy?”
+- Vũ Đế hỏi, “_Thế đối diện Trẫm là ai vậy?_”
 
-- Đạt Ma nói “Không biết”.
+- Đạt Ma nói “**Không biết**”.
 
-Vũ Đế không hiểu, Đạt Ma bèn sang sông qua nước Ngụy. Sau đó Vũ Đế thuật lại câu chuyện trên cho Chí Công.
+Vũ Đế không hiểu, Đạt Ma bèn sang sông qua nước Ngụy. Sau đó Vũ Đế thuật lại câu chuyện trên cho ngài Chí Công  [^2].
 
-- Chí Công hỏi, “Thế bệ hạ đã biết người ấy là ai chưa?”
+- Ngài Chí Công hỏi, “_Thế bệ hạ đã biết người ấy là ai chưa?_”
 
-- Vũ Đế nói “Không biết”.
+- Vũ Đế nói “_Không biết_”.
 
-- Chí Công nói, “Đó chính là Bồ Tát Quan Âm đến để truyền tâm ấn của Phật.”
+- Chí Công nói, “**Đó chính là Bồ Tát Quan Âm đến để truyền tâm ấn của Phật**”
 
 Vũ Đế lấy làm ân hận, bèn sai sứ đuổi theo để mời Đạt Ma trở lại.
 
-- Chí Công nói, “Đừng có nói là bệ hạ sai sứ đuổi theo, dù cho là cả nước có đuổi theo đi nữa người ấy cũng không trở lại đâu.”
+- Ngài Chí Công nói, “**Đừng có nói là bệ hạ sai sứ đuổi theo, dù cho là cả nước có đuổi theo đi nữa người ấy cũng không trở lại đâu.**”
 
 ## BÌNH:
 
@@ -187,10 +187,12 @@ Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ton-gia-bo-de-dat-ma/" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">VUA LƯƠNG VŨ ĐẾ</a>
+
+[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ton-gia-bo-de-dat-ma/" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
 
 ⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">Phim về Tổ BỒ ĐỀ ĐẠT MA</a>
 
-[^2]: ⭐️  <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
+[^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
 
 http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355

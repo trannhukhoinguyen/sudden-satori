@@ -16,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-> 
+> [^1]
 
 ## BÌNH
 
@@ -46,6 +46,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-van-mon-van-yen/" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-van-mon-van-yen/" target="_blank">TS VÂN MÔN VĂN YỂN</a>
 
 

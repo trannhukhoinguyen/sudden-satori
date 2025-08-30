@@ -1,10 +1,10 @@
 ---
 title: "KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ"
 date: "2025-08-22"
-description: 
-  ""
+description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS HOÀNG BÁ HY VẬN"]
 draft: false
@@ -16,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-> 
+> [^1]
 
 ## BÌNH
 
@@ -46,6 +46,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-hoang-ba-hy-van/" target="_blank">TS HOÀNG BÁ HY VẬN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-hoang-ba-hy-van/" target="_blank">TS HOÀNG BÁ HY VẬN</a>
 
 

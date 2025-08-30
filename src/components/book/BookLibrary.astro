@@ -1,0 +1,537 @@
+---
+import "../../styles/additional/BookList.css"
+import { bookViDb, bookEnDb} from "../../data/bookDb";
+
+const books = [
+    ...bookViDb,
+    ...bookEnDb,
+];
+const booksSpeech = bookViDb?.filter(book => book.type === 'Speech');
+const booksQA = bookViDb?.filter(book => book.type === 'Q&A');
+const booksOther = bookViDb?.filter(book => !book.type);
+---
+
+<div class="book-list">
+  <div class='book-library-container'>
+    <div class="book-library ">
+      <div class="book-library-box">
+        <div class="title">Your library</div>
+        <div class="subtitle">SPEECH</div>
+        <div class="books-box">
+          <div class="books-first-type">
+            {
+              booksSpeech?.map((book, index) => <div class={`book book${index}`}>
+                <div class="book-cover" style={`background-image: url("${book.cover}")`}></div>
+                <div class="book-progress"></div>
+                <div class="book-progress-bar middle"></div>
+                <div class='book-info'>
+                  <span class='current'>{ book.info }</span>
+                </div>
+                <div class='bottom'>
+                  {
+                    book.link
+                        ? <button class='simple'>
+                          <a href={book.link} target="_blank">PDF</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.link1
+                        ? <button class='simple'>
+                          <a href={book.link1} target="_blank" title="PDF P1">PDF 1</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.link2
+                        ? <button class='simple'>
+                          <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio
+                        ? <button class='simple'>
+                          <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio1
+                        ? <button class='simple'>
+                          <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio2
+                        ? <button class='simple'>
+                          <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.saveAudio
+                        ? <button class='simple'>
+                          <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
+                        </button>
+                        : ''
+                  }
+                </div>
+              </div>)
+            }
+          </div>
+        </div>
+        <div class="subtitle">Q&A</div>
+        <div class="books-box">
+          <div class="books-second-type">
+            {
+              booksQA?.map((book, index) => <div class={`book book${index}`}>
+                <div class="book-cover" style={`background-image: url("${book.cover}")`}></div>
+                <div class="book-progress"></div>
+                <div class="book-progress-bar middle"></div>
+                <div class='book-info'>
+                  <span class='current'>{ book.info }</span>
+                </div>
+                <div class='bottom'>
+                  {
+                    book.link
+                        ? <button class='simple'>
+                          <a href={book.link} target="_blank">PDF</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.link1
+                        ? <button class='simple'>
+                          <a href={book.link1} target="_blank" title="PDF P1">PDF 1</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.link2
+                        ? <button class='simple'>
+                          <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio
+                        ? <button class='simple'>
+                          <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio1
+                        ? <button class='simple'>
+                          <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio2
+                        ? <button class='simple'>
+                          <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.saveAudio
+                        ? <button class='simple'>
+                          <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
+                        </button>
+                        : ''
+                  }
+                </div>
+              </div>)
+            }
+          </div>
+        </div>
+        <div class="subtitle subtitle--shallow">OTHER</div>
+        <div class="books-box">
+          <div class="books-third-type">
+            {
+              booksOther?.map((book, index) => <div class={`book book${index}`}>
+                <div class="book-cover" style={`background-image: url("${book.cover}")`}></div>
+                <div class="book-progress"></div>
+                <div class="book-progress-bar middle"></div>
+                <div class='book-info'>
+                  <span class='current'>{ book.info }</span>
+                </div>
+                <div class='bottom'>
+                  {
+                    book.link
+                        ? <button class='simple'>
+                          <a href={book.link} target="_blank">PDF</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.link1
+                        ? <button class='simple'>
+                          <a href={book.link1} target="_blank" title="PDF P1">PDF 1</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.link2
+                        ? <button class='simple'>
+                          <a href={book.link2} target="_blank" title="PDF P2">PDF 2</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio
+                        ? <button class='simple'>
+                          <a href={book.linkAudio} target="_blank" title="Audios">📼</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio1
+                        ? <button class='simple'>
+                          <a href={book.linkAudio1} target="_blank" title="Audios P1">📼 1</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.linkAudio2
+                        ? <button class='simple'>
+                          <a href={book.linkAudio2} target="_blank" title="Audios P2">📼 2</a>
+                        </button>
+                        : ''
+                  }
+                  {
+                    book.saveAudio
+                        ? <button class='simple'>
+                          <a href={ book.saveAudio } download="" title="Download Audio">⇩ Audio</a>
+                        </button>
+                        : ''
+                  }
+                </div>
+              </div>)
+            }
+          </div>
+        </div>
+      </div>
+<!--      <div class="close-ups">
+        {
+          booksSpeech?.map((book, index) => <div class={`book book${index}`}>
+            <div class="close-up-cover" style={`background-image: url(${book.cover})`}></div>
+            <div class="book-title">{book.title}</div>
+            <div class="book-info">{book.author}</div>
+            <div class="book-extra">{book.link}</div>
+          </div>)
+        }
+      </div>-->
+    </div>
+  </div>
+</div>
+
+<style>
+  .book-library-container{
+    align-items: center;
+    background-color: var(--color-background);
+    display: flex;
+    font-family: "Coustard",serif;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+  }
+
+  .book-library {
+    background-color: var(--color-white);
+    border-radius: 32px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.016),
+    0 2px 7px rgba(0, 0, 0, 0.022), 0 4px 14px rgba(0, 0, 0, 0.028),
+    0 7px 30px rgba(0, 0, 0, 0.034), 0 20px 80px rgba(0, 0, 0, 0.05);
+    height: 480px;
+    overflow: hidden;
+    position: relative;
+    //width: 240px;
+    width: 100%;
+  }
+
+  .book-library-box {
+    height: 100%;
+    overflow: auto;
+    position: absolute;
+    width: 100%;
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .subtitle {
+    margin: 48px 20px 0;
+  }
+
+  .subtitle--shallow {
+    margin-top: 36px;
+  }
+
+  .books-box {
+    width: 100%;
+  }
+
+  .books-first-type {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+  }
+
+  .books-second-type {
+    display: flex;
+    margin: 0 20px;
+  }
+
+  .books-third-type {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px 60px;
+  }
+
+  .book {
+    cursor: pointer;
+    height: 89px;
+    margin-top: 20px;
+    -webkit-tap-highlight-color: transparent;
+    transform-origin: 50%;
+    transition: transform 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    //width: 58px;
+    width: 100%;
+  }
+
+  .book.active {
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y))
+    scale(3.31034);
+  }
+
+  .book.book2.active {
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(3.3103);
+  }
+
+  .book4 {
+    margin-right: 4px;
+  }
+
+  .book-cover {
+    background-size: 58px 89px;
+    height: 100%;
+    margin-bottom: 12px;
+    width: 100%;
+  }
+
+  .book-progress {
+    background-color: #888;
+    height: 4px;
+    margin-top: 4px;
+  }
+
+  .book-progress-bar {
+    background-color: var(--color-accent-gold);
+    height: 4px;
+    position: relative;
+    top: -4px;
+  }
+
+  .book-progress-bar.left {
+    width: 60%;
+  }
+
+  .book-progress-bar.middle {
+    width: 47%;
+  }
+
+  .book-progress-bar.right {
+    width: 17%;
+  }
+
+  .close-ups {
+    pointer-events: none;
+  }
+
+  .close-ups,
+  .close-up {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  .close-up {
+    opacity: 0;
+    pointer-events: none;
+    transition: transform 300ms cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 100ms 100ms cubic-bezier(0, 0, 0.2, 1);
+  }
+
+  .close-up.book1 {
+    background-color: #dfbc84;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-up.book2 {
+    background-color: #fa9171;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-up.book3 {
+    background-color: #e0e0e0;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-up.book4 {
+    background-color: #eea07c;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-up.book5 {
+    background-color: #e0e0e0;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-up.book6 {
+    background-color: #a6cfd8;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-up.book7 {
+    background-color: #f78c87;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-up.book8 {
+    background-color: #eba17e;
+    transform: translateX(var(--delta-x)) translateY(var(--delta-y)) scale(0.3);
+  }
+
+  .close-ups.active,
+  .close-up.active {
+    pointer-events: all;
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  .close-up-cover {
+    background-size: 192px 295px;
+    height: 295px;
+    left: 10%;
+    position: absolute;
+    top: 10%;
+    width: 192px;
+  }
+
+  .book-title {
+    left: 24px;
+    position: relative;
+    top: 360px;
+  }
+
+  .book-info {
+    font-size: 12px;
+    left: 24px;
+    position: relative;
+    top: 360px;
+  }
+
+  .book-extra {
+    color: #45443b;
+    font-size: 12px;
+    left: 24px;
+    position: relative;
+    top: 370px;
+  }
+
+  /* Images */
+  .zero-to-one {
+    background-image: url("");
+  }
+
+  .made-to-stick {
+    background-image: url("");
+  }
+
+  .originals {
+    background-image: url("");
+  }
+
+  .contagious {
+    background-image: url("");
+  }
+
+  .the-tipping-point {
+    background-image: url("");
+  }
+
+  .sprint {
+    background-image: url("");
+  }
+
+  .hacking-growth {
+    background-image: url("");
+  }
+
+  .never-split-the-difference {
+    background-image: url("");
+  }
+
+</style>
+
+<script>
+  const centerX = (domRect) => domRect.left + domRect.width / 2;
+  const centerY = (domRect) => domRect.top + domRect.height / 2;
+  const phone = document.querySelector(".phone");
+  const phoneRect = phone.getBoundingClientRect();
+  let phoneCenterX = centerX(phoneRect);
+  let phoneCenterY = centerY(phoneRect);
+  const books = Array.from(document.querySelectorAll(".book"));
+  const closeUps = Array.from(document.querySelectorAll(".close-up"));
+  const closeUpsCont = document.querySelector(".close-ups");
+
+  window.addEventListener("resize", () => {
+    const phoneRect = phone.getBoundingClientRect();
+    phoneCenterX = centerX(phoneRect);
+    phoneCenterY = centerY(phoneRect);
+  });
+
+  console.dir(phoneCenterX);
+
+  books.forEach((book, index) => {
+    book.addEventListener("click", (e) => {
+      const bookRect = book.getBoundingClientRect();
+      const deltaX = phoneCenterX - centerX(bookRect);
+      const deltaY = phoneCenterY - centerY(bookRect);
+
+      // if (book.classList.contains("active")) {
+      //   book.style.transform = "";
+      // } else {
+      book.style.setProperty("--delta-x", `${deltaX}px`);
+      book.style.setProperty("--delta-y", `${deltaY - 32 - 12.69}px`);
+      closeUps[index].style.setProperty("--delta-x", `${-deltaX}px`);
+      closeUps[index].style.setProperty("--delta-y", `${-deltaY + 32 - 18.69}px`);
+      closeUps[index].style.transition = "none";
+      // Force reflow
+      closeUps[index].getBoundingClientRect();
+      closeUps[index].style.transition = "";
+      // }
+
+      book.classList.add("active");
+      closeUps[index].classList.add("active");
+      closeUpsCont.classList.add("active");
+    });
+  });
+  closeUps.forEach((closeUp, index) => {
+    closeUp.addEventListener("click", (e) => {
+      books[index].classList.remove("active");
+      closeUp.classList.remove("active");
+      closeUpsCont.classList.remove("active");
+    });
+  });
+</script>

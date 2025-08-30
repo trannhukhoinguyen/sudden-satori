@@ -3,7 +3,8 @@ title: "TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI"
 date: "2025-08-27"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: "Đi theo mùi cỏ thơm, về theo vết hoa rụng."
+excerpt: 
+  "Đi theo mùi cỏ thơm, về theo vết hoa rụng."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRƯỜNG SA CẢNH SẦM"]
 draft: false
@@ -15,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-Một hôm Trường Sa đi chơi núi. Lúc trở về đến cổng vị thủ tòa hỏi, “Hòa thượng đi đâu về thế?” 
+Một hôm, ngài Trường Sa [^1] đi chơi núi. Lúc trở về đến cổng vị thủ tòa hỏi, “Hòa thượng đi đâu về thế?” 
 
 Trường Sa nói, “Đi chơi núi.” 
 
@@ -133,6 +134,6 @@ Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa v�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-truong-sa-canh-sam/" target="_blank">TS TRƯỜNG SA CẢNH SẦM</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-truong-sa-canh-sam/" target="_blank">TS TRƯỜNG SA CẢNH SẦM</a>
 
 

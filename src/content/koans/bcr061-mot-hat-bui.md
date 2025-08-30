@@ -4,7 +4,7 @@ date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  "Phong Huyệt dạy rằng, Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạ bụi, nước nhà suy vong."
+  "Ngài Phong Huyệt dạy rằng, Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạt bụi, nước nhà suy vong."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHONG HUYỆT DIÊN CHIỂU"]
 draft: false
@@ -20,7 +20,7 @@ Thử nói một câu mà tất cả sự việc trong vũ trụ dựa trên ấ
 
 ## CỬ:
 
-> Phong Huyệt dạy rằng, "Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạ bụi, nước nhà suy vong.”
+> Phong Huyệt dạy rằng, "Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạt bụi, nước nhà suy vong.”
 
 Tuyết Đậu dơ gậy lên nói, “Có còn các nạp tăng đồng sinh đồng tử không?”
 
@@ -65,4 +65,4 @@ Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-phong-huyet-dien-chieu/" target="_blank">TS PHONG HUYỆT DIÊN CHIỂU</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-phong-huyet-dien-chieu/" target="_blank">TS PHONG HUYỆT DIÊN CHIỂU</a>

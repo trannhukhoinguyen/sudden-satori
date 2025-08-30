@@ -3,7 +3,8 @@ title: "NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN"
 date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NGƯỠNG SƠN HUỆ TỊCH"]
 draft: false
@@ -15,7 +16,7 @@ draft: false
 
 ## CỬ:
 
-Ngưỡng Sơn hỏi một ông tăng, “Ông mới từ đâu đến vậy?” 
+Ngưỡng Sơn [^1] hỏi một ông tăng, “Ông mới từ đâu đến vậy?” 
 
 Ông tăng nói, “Lô Sơn.” 
 
@@ -175,6 +176,6 @@ Nếu như không đến được mức độ này thì chỉ là lăng xăng tr
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
 
 

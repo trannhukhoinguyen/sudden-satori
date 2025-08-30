@@ -24,7 +24,7 @@ Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai 
 
 ## CỬ:
 
-- Triệu Châu dạy chúng nói, “*Đạo lớn không khó miễn đừng so đo. Vừa có ngôn ngữ lập tức có lựa chọn so đo.
+- Triệu Châu [^1] dạy chúng nói, “*Đạo lớn không khó miễn đừng so đo. Vừa có ngôn ngữ lập tức có lựa chọn so đo.
 Điều này hết sức minh bạch. Lão tăng này chẳng ở nơi minh bạch. Các ông có còn trì giữ gì chăng?*”
 
 - Lúc ấy có ông tăng hỏi, “*Không ở nơi minh bạch, thì thầy trì giữ cái gì?*”
@@ -226,6 +226,6 @@ Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
 

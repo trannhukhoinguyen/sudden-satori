@@ -1,0 +1,123 @@
+---
+import "../../styles/additional/BookList.css"
+import { bookViDb, bookEnDb} from "../../data/bookDb";
+
+const books = [
+    ...bookViDb,
+    ...bookEnDb,
+];
+const booksSpeech = bookViDb?.filter(book => book.type === 'speech');
+const booksQA = bookViDb?.filter(book => book.type === 'Q&A');
+const booksOther = bookViDb?.filter(book => !book.type);
+const booksVi = [
+  ...booksSpeech,
+  ...booksQA,
+  ...booksOther,
+];
+---
+
+<div class="book-collection-container">
+  <div id="wrapper">
+    <h1>My Works</h1>
+    <div class="toggles">
+      <button id="showall">Show All</button>
+      <button id="speech">Speech</button>
+      <button id="q&a">Q&A</button>
+      <button id="other">Other</button>
+    </div>
+
+    <div class="posts">
+      {
+        booksVi?.map((book, index) => <div class={`${book.type ?? 'other'} post`}>{book.title}</div>)
+      }
+    </div>
+  </div>
+</div>
+
+<style>
+  $mainColor: #1ECD97;
+
+  .book-collection-container h1 {
+    text-align: center;
+    color: $mainColor;
+    font: bold 50px Arial;
+    padding: 10px;
+    border-bottom: 1px solid;
+    width: 250px;
+    margin: 0 auto 25px;
+  }
+
+  .book-collection-container .toggles {
+    width: 800px;
+    margin: auto;
+    display: block;
+
+    clear: both;
+    overflow: hidden;
+  }
+
+  .book-collection-container button {
+    border: 2px solid $mainColor;
+    border-radius: 40px;
+    color: $mainColor;
+    display: block;
+    float: left;
+    margin: auto;
+    padding: 10px;
+    width: 150px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 0 5px;
+  }
+
+  .book-collection-container .posts {
+    width: 800px;
+    margin: 2em auto;
+
+    div{
+      font: 16px/250px Arial;
+      width: 245px;
+      height: 250px;
+      float: left;
+      margin: 10px;
+      display: block;
+      text-align: center;
+      background: $mainColor;
+      color: #fff;
+    }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const buttons = document.querySelectorAll(".toggles button");
+    const posts = document.querySelectorAll<HTMLElement>(".post");
+    const showAll = document.getElementById("showall");
+
+    buttons.forEach(button => {
+      button.addEventListener("click", () => {
+        const getId = button.id;
+        const getCurrent = document.querySelectorAll<HTMLElement>(`.posts .${getId}`);
+
+        posts.forEach(post => {
+          if (![...getCurrent].includes(post)) {
+            post.style.display = "none"; // hide
+          }
+        });
+
+        getCurrent.forEach(post => {
+          post.style.display = "block"; // show
+        });
+      });
+    });
+
+    if (showAll) {
+      showAll.addEventListener("click", () => {
+        posts.forEach(post => {
+          post.style.display = "block";
+        });
+      });
+    }
+  });
+
+</script>

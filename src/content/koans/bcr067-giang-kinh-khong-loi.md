@@ -3,7 +3,8 @@ title: "LƯƠNG VŨ ĐẾ MỜI GIẢNG KINH"
 date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "Lương Vũ Đế mời Phó Đại Sĩ giảng Kinh Kim Cương. Phó Đại Sĩ đứng trên tòa lay bàn một cái rồi xuống khỏi tòa."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LƯƠNG VŨ ĐẾ", "TS PHÓ ĐẠI SĨ", "TS BẢO CHÍ CÔNG"]
 draft: false
@@ -165,6 +166,6 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 
 [^2]: ⭐️  <a href="https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_Hu%E1%BB%87" target="_blank">PHÓ ĐẠI SĨ</a>
 
-[^3]: ⭐️  <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
+[^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
 
 http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355

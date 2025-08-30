@@ -3,7 +3,8 @@ title: "GIỐNG NHƯ MỘNG CỦA NAM TUYỀN"
 date: "2025-08-28"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NAM TUYỀN PHỔ NGUYỆN"]
 draft: false
@@ -11,11 +12,17 @@ draft: false
 
 ## THÙY
 
-Ngưng đi ngỉ đi, cây sắt trổ hoa. Có không có không? Trẻ khôn mất nhịp. dù cho tung hoành ngang dọc cũng khó không bị xỏ mũi. Thử nói xem sai lầm ở chỗ nào? Xin nêu lên xem. 
+Ngưng đi ngỉ đi, cây sắt trổ hoa. 
+
+Có không có không? 
+
+Trẻ khôn mất nhịp, dù cho tung hoành ngang dọc cũng khó không bị xỏ mũi. 
+
+Thử nói xem sai lầm ở chỗ nào? Xin nêu lên xem. 
 
 ## CỬ:
 
-Lục Hoàn đại phu lần kia nói chuyện với Nam Tuyền, nói rằng, 
+Lục Hoàn đại phu lần kia nói chuyện với Nam Tuyền [^1] , nói rằng, 
 
 “Triệu pháp sư nói, ‘Trời đất với mình đồng căn, vạn vật với mình một thể’ kể cũng kỳ quái thật” 
 
@@ -134,7 +141,7 @@ Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sư
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
 
 [^17]: ⭐️ 
 

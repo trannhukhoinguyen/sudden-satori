@@ -54,6 +54,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-lien-hoa-phong-tuong/" target="_blank">TS LIÊN HOA PHONG TƯỜNG</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-lien-hoa-phong-tuong/" target="_blank">TS LIÊN HOA PHONG TƯỜNG</a>
 
 

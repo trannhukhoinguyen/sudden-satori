@@ -15,7 +15,7 @@ draft: false
 
 ## CỬ:
 
-> 
+> [^1]
 
 ## BÌNH
 
@@ -45,6 +45,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-huong-lam-trung-vien/" target="_blank">TS HƯƠNG LÂM TRỪNG VIỄN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-huong-lam-trung-vien/" target="_blank">TS HƯƠNG LÂM TRỪNG VIỄN</a>
 
 

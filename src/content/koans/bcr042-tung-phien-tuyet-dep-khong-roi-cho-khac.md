@@ -4,7 +4,7 @@ date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  "Toàn thiền khách nói, 'Thế cư sĩ thì sao?'. Bàng Cư Sĩ lại đánh thêm cho một tát tai nữa, nói, 'Mắt thấy mà như mù, miệng nói mà như câm'"
+  "Bàng Cư Sĩ lại đánh thêm cho một tát tai nữa, nói, 'Mắt thấy mà như mù, miệng nói mà như câm'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÀNG LONG UẨN"]
 draft: false
@@ -22,7 +22,7 @@ Thử nói xem cổ nhân còn có chỗ lầm lẫn chăng? Xin nêu lên xem.
 
 ## CỬ:
 
-> Bàng Cư Sĩ từ giả Dược Sơn, Dược Sơn sai mười Thiền khách tiễn ra tận cổng. 
+> Bàng Cư Sĩ [^1] từ giả Dược Sơn, Dược Sơn sai mười Thiền khách tiễn ra tận cổng. 
 > 
 > Bàng Cư Sĩ chỉ tuyết trên không nói, “*Từng phiến tuyết đẹp không rơi chỗ khác*” 
 > 
@@ -156,6 +156,6 @@ Ngay cả Bích Nhãn Hồ tăng (Bồ Đề Đạt Ma) mà cũng khó phân bi�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-bang-long-uan/" target="_blank">TS BÀNG LONG UẨN</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-bang-long-uan/" target="_blank">TS BÀNG LONG UẨN</a>
 
 

@@ -3,7 +3,8 @@ title: "VĂN THÙ VÀ VÔ TRƯỚC"
 date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VĂN THÙ", "TS VÔ TRƯỚC"]
 draft: false
@@ -17,7 +18,9 @@ Như giờ đây kiến văn không mờ, thanh sắc thuần chân. Thử nói 
 
 ## CỬ:
 
-Vân Thù ^8] hỏi Vô Trước, “Thầy mới từ đâu đến vậy?” Vô Trước [^9] nói, “Từ phương Nam.” 
+Văn Thù [^1] hỏi Vô Trước, “Thầy mới từ đâu đến vậy?” 
+
+Vô Trước [^2] nói, “Từ phương Nam.” 
 
 Văn Thù nói, “Phật pháp ở phương Nam như thế nào?” 
 
@@ -55,7 +58,9 @@ Văn Thù nói, “Tiền tam tam, hậu tam tam.”
 
 Rồi hai người dùng trà. Văn Thù dơ chén pha lê lên nói, “Ở phương Nam có cái này không?” 
 
-Vô Trước nói, “Không”. Văn Thù nói, “Thế thì thường họ dùng cái gì để uống trà?” 
+Vô Trước nói, “Không”. 
+
+Văn Thù nói, “Thế thì thường họ dùng cái gì để uống trà?” 
 
 Vô Trước không nói gì được. Sau đó từ biệt ra đi. Văn Thù sai Quan Đế Đồng Tử tiễn ra cửa. Vô Trước nói, “Không”. 
 
@@ -139,8 +144,8 @@ Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần V�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-van-thu/" target="_blank">TS VĂN THÙ</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-van-thu/" target="_blank">TS VĂN THÙ</a>
 
-[^2]: ⭐️  <a href="https://blog.phapthihoi.org/gt-member/ts-vo-truoc/" target="_blank">TS VÔ TRƯỚC</a>
+[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-vo-truoc/" target="_blank">TS VÔ TRƯỚC</a>
 
 

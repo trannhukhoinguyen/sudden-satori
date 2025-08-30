@@ -15,7 +15,7 @@ draft: false
 
 ## CỬ:
 
-Nam Tuyền đến tham kiến Niết Bàn Hòa Thượng ở núi Bách Trượng. 
+Nam Tuyền [^1] đến tham kiến Niết Bàn Hòa Thượng [^2] ở núi Bách Trượng. 
 
 Bách Trượng hỏi, “Chư thánh từ xưa còn có Pháp nào chưa nói cho thiên hạ không?” 
 
@@ -53,7 +53,7 @@ Hãy nhìn xem cơn lúng túng của lão hán này.
 
 Nếu như la một chuyên gia mà thấy thầy ta hỏi như thế hẳn đã nhìn thấu thầy ta rồi. 
 Nam Tuyền chỉ dựa vào chỗ thấy của mình cho nên nói, “Có”. 
-Quả thật là càn rỡ. [^2]
+Quả thật là càn rỡ [^3]. 
 
 Bạch Trượng lấy lầm lẫn ra đối với lầm lẫn, nói tiếp rằng, “Thế nào là Pháp chưa nói cho thiên hạ?” 
 
@@ -183,6 +183,6 @@ Nhếch được mũi lên mất luôn miệng.” Nhếch được miệng lên
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-bach-truong-duy-chinh/" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
 
-⭐️ <a href="https://nigioikhatsi.net/thien/duy-chinh-dau-voi-nam-tuyen.html" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
+[^2]: ⭐️ <a href="https://nigioikhatsi.net/thien/duy-chinh-dau-voi-nam-tuyen.html" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
 
-[^2]: Nguyên văn: “*mạnh bát lang*” có nghĩa là kẻ làm việc *càn rỡ*.
+[^3]: Nguyên văn: “*mạnh bát lang*” có nghĩa là kẻ làm việc *càn rỡ*.
