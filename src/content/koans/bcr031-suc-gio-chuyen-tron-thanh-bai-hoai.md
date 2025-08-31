@@ -4,8 +4,7 @@ date: "2025-08-26"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  "Động thì ảnh hiện, giác thì băng sinh. Nếu như không động không giác, khó mà khỏi rơi vào hang chồn hoang. 
-  Hiểu thấu được, đủ lòng tin, không tơ hào chướng ngại, như rồng gặp nước, như cọp dựa núi."
+  "Nam Tuyền nói, 'Chương Kính thì đúng, ông mới là không đúng. Đây chính là cái bị sức gió chuyển, cuối cùng thế nào cũng bại hoại'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MA CỐC BẢO TRIỆT", "TS NAM TUYỀN PHỔ NGUYỆN", "TS CHƯƠNG KÍNH HOÀI UẨN"]
 draft: false
@@ -112,31 +111,59 @@ Ngưỡng Sơn nói, “Đắc từ Tào Khê ấn.”
 
 Trung Ấp nói, “Ông thử nói xem Tào Khê dùng tam muội này để tiếp ai?” 
 
-Ngưỡng Sơn nói, “ Tiếp Nhất Túc Giác.” [^4] Rồi Ngưỡng Sơn lại hỏi, “ Hòa thượng đắc tam muội này ở đâu vậy? Trung Ấp nói, “Ta đắc tam muội này từ Mã Tổ.” Lối nói chuyện như vậy, phải chăng là của những người nêu một hiểu ba, thấy gốc theo ngọn?
+Ngưỡng Sơn nói, “ Tiếp Nhất Túc Giác.” [^4] 
+
+Rồi Ngưỡng Sơn lại hỏi, “ Hòa thượng đắc tam muội này ở đâu vậy? 
+
+Trung Ấp nói, “Ta đắc tam muội này từ Mã Tổ.” Lối nói chuyện như vậy, phải chăng là của những người nêu một hiểu ba, thấy gốc theo ngọn?
 
 Long Nha dạy chúng rằng, “ Phàm những người tham học, phải thấu qua Tổ Phật thì mới được. 
 
-Tân Phong Hòa Thượng nói, “Xem ngôn giáo của Tổ Phật như oan gia, lúc ấy mới có chỗ để tham học.” Nếu như không thấu qua được thì chỉ bị Tổ Phật lừa mà thôi.” Lúc ấy có ông tăng hỏi, “Tổ Phật mà còn có tâm lừa thiên hạ sao?” Long Nha nói, “Ông thử nói xem sông với hồ có tâm làm trở ngại thiên hạ không?” Rồi lại nói tiếp, “Tuy rằng sông hồ không có tâm làm trở ngại thiên hạ, chỉ tại vì thiên hạ không qua sông được. Cho nên sông với hồ đâm ra trở thành chướng ngại.Không thể nói rằng sông với hồ không trở ngại thiên hạ. Tổ Phật tuy không có tâm lừa thiên hạ, song chỉ vì thiên hạ không thấu qua được, cho nên Tổ Phật đâm ra thành lừa thiên hạ. Không thể nói là Tổ Phật không lừa thiên hạ. Nếu như thấu qua được Tổ Phật, kẻ ấy vượt qua Tổ Phật. Song cần phải thể hội được ý của Tổ Phật thì mới ngang hàng với những bậc cổ nhân hướng thượng được.Nếu như chưa thấu được, thì dù có học Phật học Tổ đi nữa, vạn kiếp cũng chẳng có khi nào đắc được.” Ông tăng lại hỏi, “ Phải như thế nào thì mới không bị Tổ Phật lừa?” Long Nha nói, “Ông phải tự ngộ lấy mới được.” Đến chỗ này rồi cần phải như thế. Tại sao vậy? Vì người , thì phải vì cho trót; giết người thì phải thấy máu. Nam Tuyền, Tuyết Đậu là những người như thế, cho nên mới dám nêu lên mà chơi.
+Tân Phong Hòa Thượng nói, “Xem ngôn giáo của Tổ Phật như oan gia, lúc ấy mới có chỗ để tham học.” 
+
+Nếu như không thấu qua được thì chỉ bị Tổ Phật lừa mà thôi.” 
+
+Lúc ấy có ông tăng hỏi, “Tổ Phật mà còn có tâm lừa thiên hạ sao?” Long Nha nói, “Ông thử nói xem sông với hồ có tâm làm trở ngại thiên hạ không?” 
+
+Rồi lại nói tiếp, “Tuy rằng sông hồ không có tâm làm trở ngại thiên hạ, chỉ tại vì thiên hạ không qua sông được. 
+
+Cho nên sông với hồ đâm ra trở thành chướng ngại.Không thể nói rằng sông với hồ không trở ngại thiên hạ. 
+
+Tổ Phật tuy không có tâm lừa thiên hạ, song chỉ vì thiên hạ không thấu qua được, cho nên Tổ Phật đâm ra thành lừa thiên hạ. 
+
+Không thể nói là Tổ Phật không lừa thiên hạ. Nếu như thấu qua được Tổ Phật, kẻ ấy vượt qua Tổ Phật. 
+
+Song cần phải thể hội được ý của Tổ Phật thì mới ngang hàng với những bậc cổ nhân hướng thượng được.
+
+Nếu như chưa thấu được, thì dù có học Phật học Tổ đi nữa, vạn kiếp cũng chẳng có khi nào đắc được.” 
+
+Ông tăng lại hỏi, “ Phải như thế nào thì mới không bị Tổ Phật lừa?” 
+
+Long Nha nói, “Ông phải tự ngộ lấy mới được.” 
+
+Đến chỗ này rồi cần phải như thế. 
+
+Tại sao vậy? Vì người , thì phải vì cho trót; giết người thì phải thấy máu.
 
 ## TỤNG
 
-Hãy xem Tuyết Đậu bày vẽ dây dưa:
+Nam Tuyền, Tuyết Đậu là những người như thế, cho nên mới dám nêu lên mà chơi:
 
 > Đây sai kia sai,
-
-Kỵ nhất đừng lấy.
-
-Bốn bề sóng yên,
-
-Trăm sông triều xuống.
-
-Cổ sách phong cao thập nhị môn,
-
-Mỗi cửa có đường trống sơ xác.
-
-Không sơ xác,
-
-Chuyên gia phải kiếm thuốc không bệnh.
+>
+> Kỵ nhất đừng lấy.
+>
+> Bốn bề sóng yên,
+>
+> Trăm sông triều xuống.
+>
+> Cổ sách phong cao thập nhị môn,
+>
+> Mỗi cửa có đường trống sơ xác.
+>
+> Không sơ xác,
+>
+> Chuyên gia phải kiếm thuốc không bệnh.
 
 ## BÌNH
 

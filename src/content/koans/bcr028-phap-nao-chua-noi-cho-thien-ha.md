@@ -3,7 +3,8 @@ title: "CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG"
 date: "2025-08-25"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "Bách Trượng nói, 'Thế nào là Pháp chưa nói cho thiên hạ?'. Nam Tuyền nói, 'Không phải tâm, không phải Phật, không phải vật'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÁCH TRƯỢNG DUY CHÍNH", "TS NIẾT BÀN"]
 draft: false
@@ -15,25 +16,25 @@ draft: false
 
 ## CỬ:
 
-Nam Tuyền [^1] đến tham kiến Niết Bàn Hòa Thượng [^2] ở núi Bách Trượng. 
-
-Bách Trượng hỏi, “Chư thánh từ xưa còn có Pháp nào chưa nói cho thiên hạ không?” 
-
-Nam Tuyền nói, “Có” 
-
-Bách Trượng nói, “Thế nào là Pháp chưa nói cho thiên hạ?” 
-
-Nam Tuyền nói, “Không phải tâm, không phải Phật, không phải vật” 
-
-Bách Trượng nói, “Như thế là nói rồi” 
-
-Nam Tuyền nói, “Kẻ hèn này thì như thế, còn hòa thượng thì như thế nào?” 
-
-Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, làm sao biết là đã nói hay chưa nói?” 
-
-Nam Tuyền nói, “Kẻ hèn này không hiểu” 
-
-Bách Trượng nói, “Tôi đã hết sức nói cho ông rồi”
+> Nam Tuyền [^1] đến tham kiến Niết Bàn Hòa Thượng [^2] ở núi Bách Trượng. 
+>
+> Bách Trượng hỏi, “Chư thánh từ xưa còn có Pháp nào chưa nói cho thiên hạ không?” 
+>
+> Nam Tuyền nói, “Có” 
+>
+> Bách Trượng nói, “Thế nào là Pháp chưa nói cho thiên hạ?” 
+>
+> Nam Tuyền nói, “Không phải tâm, không phải Phật, không phải vật” 
+>
+> Bách Trượng nói, “Như thế là nói rồi” 
+>
+> Nam Tuyền nói, “Kẻ hèn này thì như thế, còn hòa thượng thì như thế nào?” 
+>
+> Bách Trượng nói, “Tôi đã không phải là bậc thiện tri thức, làm sao biết là đã nói hay chưa nói?” 
+>
+> Nam Tuyền nói, “Kẻ hèn này không hiểu” 
+>
+> Bách Trượng nói, “Tôi đã hết sức nói cho ông rồi”
 
 ## BÌNH
 

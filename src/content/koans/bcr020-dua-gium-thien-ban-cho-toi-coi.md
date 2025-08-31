@@ -3,7 +3,8 @@ title: "LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA"
 date: "2025-08-23"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt: ""
+excerpt: 
+  "Long Nha nói, 'Đánh thì cứ việc đánh, song chẳng có gì nhằm nhò đến ý của Tổ Sư từ Tây Thiên qua cả!'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LONG NHA CƯ ĐỘN"]
 draft: false
