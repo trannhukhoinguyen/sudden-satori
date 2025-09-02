@@ -499,5 +499,29 @@ const CnLv5MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Jingzhao_Mihu', 'https://terebess.hu/zen/mesterek/mihu.html'],
   },
+  {
+    id: '38.5.24',
+    hasContent: true,
+    name_en: 'Jianyuan Zhongxing',
+    name_ja: 'Zengen Chūkō',
+    name_zh: '漸源仲興',
+    name_vi: 'Tiệm Nguyên Trọng Hưng',
+    other_name_vi: '',
+    birth_death_time: ['', ''],
+    epoch: '',
+    records: '',
+    sect: [],
+    country: '🇨🇳',
+    place: '-',
+    teachers: ['Daowu Yuanzhi'],
+    successors: [],
+    disciples: [],
+    image: '/images/avatar.png',
+    reference: ['https://terebess.hu/zen/mesterek/jianyuan.html',
+      'https://vienngocquy.com/101-cau-chuyen-thien-101-zen-stories-khong-bam-bui/g',
+      'Vị tăng sống dưới thời nhà Đường. Ban đầu ông đến tham học với Đạo Ngô Viên Trí (道吾圓智), làm thị giả và sau kế thừa dòng pháp của vị nầy. ' +
+      'Ông đến sống tại Tiệm Nguyên Sơn ở Đàm Châu (潭州, Tỉnh Hồ Nam) và nỗ lực cử xướng Thiền phong của mình tại đây.'
+    ],
+  },
 ]
 export default CnLv5MasterDb;

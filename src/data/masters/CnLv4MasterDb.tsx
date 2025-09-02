@@ -229,7 +229,7 @@ const CnLv4MasterDb = [
     place: '-',
     teachers: ['Yaoshan Weiyan'],
     successors: ['Shishuang Qingzhu'],
-    disciples: ['Shishuang Qingzhu'],
+    disciples: ['Shishuang Qingzhu', 'Jianyuan Zhongxing'],
     image: '/',
     reference: [''],
   },

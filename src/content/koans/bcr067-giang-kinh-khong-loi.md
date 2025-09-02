@@ -16,17 +16,17 @@ draft: false
 
 ## CỬ:
 
-*Lương Vũ Đế* [^1] mời *Phó Đại Sĩ* [^2] giảng Kinh Kim Cương. 
-
-*Phó Đại Sĩ* đứng trên tòa lay bàn một cái rồi xuống khỏi tòa. 
-
-*Vũ Đế* ngạc nhiên.
-
-*Chí Công* [^3] hỏi, “Bệ hạ hiểu chứ?” 
-
-*Vũ Đế* nói, “Không hiểu.” 
-
-*Chí Công* nói, “*Đại Sĩ* đã giảng xong kinh rồi.”
+> *Lương Vũ Đế* [^1] mời *Phó Đại Sĩ* [^2] giảng Kinh Kim Cương. 
+>
+> *Phó Đại Sĩ* đứng trên tòa lay bàn một cái rồi xuống khỏi tòa. 
+>
+> *Vũ Đế* ngạc nhiên.
+>
+> *Chí Công* [^3] hỏi, “Bệ hạ hiểu chứ?” 
+>
+> *Vũ Đế* nói, “Không hiểu.” 
+>
+> *Chí Công* nói, “*Đại Sĩ* đã giảng xong kinh rồi.”
 
 ## BÌNH
 

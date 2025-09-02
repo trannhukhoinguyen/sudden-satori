@@ -1,5 +1,5 @@
 ---
-title: "VÂN NHAM THAM VẤN DƯỢC SƠN"
+title: "TĂNG HỎI THẠCH SƯƠNG"
 date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"

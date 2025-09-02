@@ -1,6 +1,6 @@
 ---
 title: "CẦU ĐÁ CỦA TRIỆU CHÂU"
-date: "2025-08-21"
+date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
