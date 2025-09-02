@@ -1,6 +1,6 @@
 ---
 title: "CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG"
-date: "2025-08-25"
+date: "2025-08-31"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 

@@ -5,6 +5,7 @@ const blogs = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blogs" }),
   schema: z.object({
     type: z.string().default('blogs'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -20,6 +21,7 @@ const places = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blogs" }),
   schema: z.object({
     type: z.string().default('places'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     excerpt: z.string().optional(),
@@ -33,6 +35,7 @@ const books = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/books" }),
   schema: z.object({
     type: z.string().default('books'),
+    schemaType: z.string().default('Books'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -51,6 +54,7 @@ const zongjinglus  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/zongjinglus" }),
   schema: z.object({
     type: z.string().default('zongjinglus'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -65,6 +69,7 @@ const koans  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans" }),
   schema: z.object({
     type: z.string().default('koans'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -84,6 +89,7 @@ const sutras  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/sutras" }),
   schema: z.object({
     type: z.string().default('sutras'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -104,6 +110,7 @@ const interpretations  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/interpretations" }),
   schema: z.object({
     type: z.string().default('interpretations'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -123,6 +130,7 @@ const practices  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/practices" }),
   schema: z.object({
     type: z.string().default('practices'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -142,6 +150,7 @@ const speeches  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/speeches" }),
   schema: z.object({
     type: z.string().default('speeches'),
+    schemaType: z.string().default('Article'),
     title: z.string(),
     description: z.string().optional(),
     date: z.coerce.date(),
@@ -152,6 +161,20 @@ const speeches  = defineCollection({
   }),
 });
 
+const faqs  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/faqs" }),
+  schema: z.object({
+    type: z.string().default('faqs'),
+    schemaType: z.string().default('FAQPage'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
 export const collections = {
-  blogs, places, books, zongjinglus, koans, sutras, interpretations, practices, speeches,
+  blogs, places, books, zongjinglus, koans, sutras, interpretations, practices, speeches, faqs,
 };

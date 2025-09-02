@@ -4,7 +4,7 @@ date: "2025-08-27"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  "Đi theo mùi cỏ thơm, về theo vết hoa rụng."
+  "Thủ tòa hỏi, 'Hòa thượng đi đến những chỗ nào?'. Trường Sa nói, 'Đi theo mùi cỏ thơm, về theo vết hoa rụng'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRƯỜNG SA CẢNH SẦM"]
 draft: false
@@ -16,19 +16,19 @@ draft: false
 
 ## CỬ:
 
-Một hôm, ngài Trường Sa [^1] đi chơi núi. Lúc trở về đến cổng vị thủ tòa hỏi, “Hòa thượng đi đâu về thế?” 
-
-Trường Sa nói, “Đi chơi núi.” 
-
-Thủ tòa nói, “Hòa thượng đi đến những chỗ nào?” 
-
-Trường Sa nói, “Đi theo mùi cỏ thơm, về theo vết hoa rụng.” 
-
-Thủ tòa nói, “Có vẻ giống mùa xuân hết sức.” 
-
-Trường Sa nói, “Hơn cả sương thu thấm hoa sen.” 
-
-Tuyết Đậu bình rằng, “Cám ơn đã trả lời.” 
+> Một hôm, ngài Trường Sa [^1] đi chơi núi. Lúc trở về đến cổng vị thủ tòa hỏi, “Hòa thượng đi đâu về thế?” 
+>
+> Trường Sa nói, “Đi chơi núi.” 
+>
+> Thủ tòa hỏi, “Hòa thượng đi đến những chỗ nào?” 
+>
+> Trường Sa nói, “Đi theo mùi cỏ thơm, về theo vết hoa rụng.” 
+>
+> Thủ tòa nói, “Có vẻ giống mùa xuân hết sức.” 
+>
+> Trường Sa nói, “Hơn cả sương thu thấm hoa sen.” 
+>
+> Tuyết Đậu bình rằng, “Cám ơn đã trả lời.” 
 
 ## BÌNH
 
@@ -63,20 +63,20 @@ Trường Sa nói, “ Sau khi Thôi Hiệu đề thơ trên Hoàn Hạc Lâu r�
 Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 > Đại địa không hạt bụi,
-
-Người nào mắt không mở?
-
-Đi theo mùi cỏ thơm,
-
-Về theo vết hoa rụng.
-
-Hạc gầy đậu cây lành,
-
-Khỉ điên hú đài xưa.
-
-Trường Sa vô hạn ý.
-
-Ôi!
+>
+> Người nào mắt không mở?
+>
+> Đi theo mùi cỏ thơm,
+>
+> Về theo vết hoa rụng.
+>
+> Hạc gầy đậu cây lành,
+>
+> Khỉ điên hú đài xưa.
+>
+> Trường Sa vô hạn ý.
+>
+> Ôi!
 
 ## BÌNH
 

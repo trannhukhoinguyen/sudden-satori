@@ -26,7 +26,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <nav class="main-navigation" role="navigation" aria-label="Main navigation">
         <ul class="nav-list">
           <li><a href={base} class="nav-link" title="Trang chủ">🛖</a></li>
-          <li><a href={base + "about"} class="nav-link" title="Giới thiệu">📜</a></li>
+          <li><a href={base + "about"} class="nav-link" title="Giới thiệu Tổ sư thiền">📜</a></li>
           <li><a href={base + "sutras"} class="nav-link">📙 Kinh</a></li>
           <li><a href={base + "koans"} class="nav-link" title="Công án">🪨 Công án</a></li>
           <li><a href={base + "practices"} class="nav-link" title="Thực hành">⚡️Thực hành</a></li>
@@ -38,7 +38,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <option value={base + "masters"}>💥 Thiền sư</option>
               <option value={base + "pagodas"}>⛩ Thiền đường</option>
               <option value={base + "interpretations"}>📖 Luận giải</option>
-              <option value={base + "blogs"}>📜 Đọc thêm</option>
+              <option value={base + "blogs"}>📜 Đọc thêm Tổ sư thiền</option>
               <option value={base + "zongjinglus"}>Tông Cảnh Lục</option>
               <option value={base + "places"}>🏔 Địa danh</option>
               <option value={base + "categories"}>📦 Category</option>
@@ -66,7 +66,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 <nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
   <ul class="mobile-nav-list">
     <li><a href={base} class="mobile-nav-link" title="Trang chủ">🛖</a></li>
-    <li><a href={base + "about"} class="mobile-nav-link">Giới thiệu</a></li>
+    <li><a href={base + "about"} class="mobile-nav-link">Giới thiệu Tổ sư thiền</a></li>
     <li><a href={base + "sutras"} class="mobile-nav-link">📙 Kinh</a></li>
     <li><a href={base + "koans"} class="mobile-nav-link" title="Công án">🪨 Công án</a></li>
     <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">⚡️ Thực hành</a></li>
@@ -74,7 +74,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "masters"} class="mobile-nav-link" title="Thiền sư">💥 Thiền sư</a></li>
     <li><a href={base + "pagodas"} class="mobile-nav-link" title="Thiền đường">⛩ Thiền đường</a></li>
     <li><a href={base + "interpretations"} class="mobile-nav-link">📖 Luận giải</a></li>
-    <li><a href={base + "blogs"} class="mobile-nav-link">📜 Đọc thêm</a></li>
+    <li><a href={base + "blogs"} class="mobile-nav-link">📜 Đọc thêm Tổ sư thiền</a></li>
     <li><a href={base + "zongjinglus"} class="mobile-nav-link">Tông Cảnh Lục</a></li>
     <li><a href={base + "places"} class="mobile-nav-link">🏔 Địa danh</a></li>
     <li><a href={base + "categories"} class="mobile-nav-link">📦 Category</a></li>
@@ -98,6 +98,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 </div>
 
 <script>
+  import Fuse from "fuse.js";
   const base = `${import.meta.env.BASE_URL || ''}`;
 
   // Hamburger menu functionality
@@ -203,10 +204,19 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     const results = searchData.filter((post: any) =>
       post.title.toLowerCase().includes(query) ||
       post.excerpt.toLowerCase().includes(query) ||
-      (post.categories && post.categories.some((cat: string) => cat.toLowerCase().includes(query)))
+      (post.authors && post.authors.some((author: string) => author.toLowerCase().includes(query))) ||
+      (post.categories && post.categories.some((cat: string) => cat.toLowerCase().includes(query))) ||
+      (post.tags && post.tags.some((tag: string) => tag.toLowerCase().includes(query)))
     ).slice(0, 10);
 
-    displayResults(results, query);
+    // config fuse
+    const fuse = new Fuse(results, {
+      keys: ["title", "excerpt", "authors", "categories", "tags"],
+      threshold: 0.3,
+    });
+    const fuseResults = fuse.search(query).map((r) => r.item);
+
+    displayResults(fuseResults, query);
   }
 
   function displayResults(results: any[], query: string) {

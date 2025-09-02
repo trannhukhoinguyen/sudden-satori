@@ -1,10 +1,10 @@
 ---
 title: "TAM GIỚI VÔ PHÁP CỦA BÀN SƠN"
-date: "2025-08-22"
+date: "2025-08-27"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Ngài Bàn Sơn dạy rằng, 'Tam giới vô pháp, hà xứ cầu tâm?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÀN SƠN BẢO TÍCH"]
 draft: false
@@ -20,9 +20,7 @@ Nếu không phải mắt biện tay rờ,làm sao có thể nắm được? Có
 
 ## CỬ:
 
-Bàn Sơn [^1] dạy rằng, 
-
-> Tam giới vô pháp, hà xứ cầu tâm? [^14]
+> Ngài Bàn Sơn [^1] dạy rằng, **Tam giới vô pháp, hà xứ cầu tâm?** [^14]
 
 ## BÌNH
 

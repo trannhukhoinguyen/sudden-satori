@@ -11,6 +11,7 @@ const globMap = {
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}', { eager: true }),
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}', { eager: true }),
+  faqs: import.meta.glob('../content/faqs/*.{md,mdx}', { eager: true }),
 };
 const globMapLazy = {
   blogs: import.meta.glob('../content/blogs/*.{md,mdx}'),
@@ -22,6 +23,7 @@ const globMapLazy = {
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}'),
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}'),
+  faqs: import.meta.glob('../content/faqs/*.{md,mdx}'),
 };
 
 // ===== 2. Mapping name → type =====
@@ -35,6 +37,7 @@ const collections = {
   sutras: "sutras",
   zongjinglus: "zongjinglus",
   speeches: "speeches",
+  faqs: "faqs",
 } as const;
 
 type CollectionName = keyof typeof collections;

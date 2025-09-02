@@ -1,6 +1,6 @@
 ---
 title: "BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG"
-date: "2025-08-22"
+date: "2025-08-31"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 

@@ -22,22 +22,20 @@ Thử nói xem, họ bình luận việc gì vậy?
 
 ## CỬ:
 
-Ma Cốc [^1] chống gậy đến gặp Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. 
-
-Chương Kính nói, “**Đúng, đúng**” 
+> Ngài Ma Cốc [^1] chống gậy đến gặp ngài Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. 
+>
+> Ngài Chương Kính nói, “**Đúng, đúng**” 
 
 (Tuyết Đậu phê bình, “Sai!”) 
 
-Ma Cốc lại đến gặp Nam Tuyền, lại cũng đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. 
-
-Nam Tuyền nói, “**Không đúng, không đúng**” 
-
-Ma Cốc hỏi, “*Tại sao sư huynh Chương Kính nói 'Đúng', còn huynh nói 'Không đúng'*”
-
-Nam Tuyền nói, 
-
-> Chương Kính thì đúng, ông mới là không đúng.
-Đây chính là cái bị sức gió chuyển, cuối cùng thế nào cũng bại hoại.
+> Ma Cốc lại đến gặp Nam Tuyền, lại cũng đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó. 
+>
+> Nam Tuyền nói, “**Không đúng, không đúng**” 
+>
+> Ma Cốc hỏi, “*Tại sao sư huynh Chương Kính nói 'Đúng', còn huynh nói 'Không đúng'*”
+>
+> Nam Tuyền nói, "**Chương Kính thì đúng, ông mới là không đúng.
+Đây chính là cái bị sức gió chuyển, cuối cùng thế nào cũng bại hoại**"
 
 ## BÌNH
 

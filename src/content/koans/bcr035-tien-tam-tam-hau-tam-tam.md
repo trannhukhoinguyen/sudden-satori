@@ -1,10 +1,10 @@
 ---
 title: "VĂN THÙ VÀ VÔ TRƯỚC"
-date: "2025-08-22"
+date: "2025-09-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Ngài Vô Trước hỏi, 'Chúng hội thường có bao nhiêu người?'. Ngài Văn Thù nói, 'Tiền tam tam, hậu tam tam'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VĂN THÙ", "TS VÔ TRƯỚC"]
 draft: false
@@ -12,29 +12,37 @@ draft: false
 
 ## THÙY
 
-Định Rồng rắn, phân ngọc đá, biện tăng tục, quyết do nghi. Nếu như không có mắt trên đỉnh đầu bùa dưới khuỷu tay, thường thường để lỡ mất. 
+Định Rồng rắn, phân ngọc đá, biện tăng tục, quyết do nghi. 
 
-Như giờ đây kiến văn không mờ, thanh sắc thuần chân. Thử nói xem là đen hay trắng? Cong hay thẳng? Đến chỗ này, phải phân biện như thế nào? 
+Nếu như không có mắt trên đỉnh đầu bùa dưới khuỷu tay, thường thường để lỡ mất. 
+
+Như giờ đây kiến văn không mờ, thanh sắc thuần chân. 
+
+Thử nói xem là đen hay trắng? Cong hay thẳng? 
+
+Đến chỗ này, phải phân biện như thế nào? 
 
 ## CỬ:
 
-Văn Thù [^1] hỏi Vô Trước, “Thầy mới từ đâu đến vậy?” 
-
-Vô Trước [^2] nói, “Từ phương Nam.” 
-
-Văn Thù nói, “Phật pháp ở phương Nam như thế nào?” 
-
-Vô Trước nói, “Các Tỳ khưu thời mạt pháp [^10] ít chịu tuân theo giới luật.” 
-
-Văn Thù hỏi, “Chúng hội thường có bao nhiêu người? 
-
-Vô Trước nói, “Từ ba đến năm trăm.” 
-
-Vô Trước lại hỏi Văn Thù, “Ở đây thì Phật pháp trụ trì như thế nào?” 
-
-Văn Thù nói, “Thánh phàm đồng cư, rồng rắn hỗn tạp.” 
-
-Vô Trước nói, “Chúng hội thường có bao nhiêu người?” Văn Thù nói, “ Tiền tam tam, hậu tam tam.” [^11] 
+> Ngài Văn Thù [^1] hỏi Vô Trước, “_Thầy mới từ đâu đến vậy?_” 
+>
+> Ngài Vô Trước [^2] nói, “_Từ phương Nam_” 
+>
+> Ngài Văn Thù nói, “_Phật pháp ở phương Nam như thế nào?_” 
+>
+> Ngài Vô Trước nói, “_Các Tỳ khưu thời mạt pháp [^10] ít chịu tuân theo giới luật_” 
+>
+> Ngài Văn Thù hỏi, “_Chúng hội thường có bao nhiêu người?_" 
+>
+> Ngài Vô Trước nói, “_Từ ba đến năm trăm_” 
+>
+> Ngài Vô Trước lại hỏi Văn Thù, “_Ở đây thì Phật pháp trụ trì như thế nào?_” 
+>
+> Ngài Văn Thù nói, “_Thánh phàm đồng cư, rồng rắn hỗn tạp_” 
+>
+> Ngài Vô Trước hỏi, “_Chúng hội thường có bao nhiêu người?_” 
+> 
+> Ngài Văn Thù nói, “_Tiền tam tam, hậu tam tam_” [^11] 
 
 ## BÌNH
 
@@ -144,7 +152,9 @@ Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần V�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-van-thu/" target="_blank">TS VĂN THÙ</a>
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/van-thu-su-loi/" target="_blank"BỒ TÁT VĂN THÙ</a>
+
+⭐️ <a href="https://phatgiao.org.vn/van-thu-su-loi-bo-tat-la-ai-d39646.html" target="_blank"BỒ TÁT VĂN THÙ</a>
 
 [^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-vo-truoc/" target="_blank">TS VÔ TRƯỚC</a>
 

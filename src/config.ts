@@ -62,6 +62,7 @@ export const config: SiteConfig = {
     "practices",
     "zongjinglus",
     "speeches",
+    "faqs",
   ],
 
   categoryNames: {
@@ -74,6 +75,7 @@ export const config: SiteConfig = {
     practices: "Thực hành",
     zongjinglus: "Tông Cảnh Lục",
     speeches: "Ngữ lục",
+    faqs: "FAQ - Hỏi đáp",
   },
 
   categoryDescriptions: {
@@ -86,6 +88,7 @@ export const config: SiteConfig = {
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
     zongjinglus: "Xem Tông Cảnh Lục",
     speeches: "Xem Ngữ lục",
+    faqs: "Xem Hỏi đáp",
   },
 
   postConfig: {

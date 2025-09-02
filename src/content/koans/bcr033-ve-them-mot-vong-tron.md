@@ -26,14 +26,15 @@ Song thử nói xem, đây là thời tiết gì? Xin nêu lên xem.
 
 ## CỬ:
 
-> Trần Tháo Thượng Thư [^1] đến viếng Từ Phúc [^2]. 
-Từ Phúc thấy Trần Tháo đến bèn vẽ một vòng tròn. 
-Trần Tháo nói, “Đệ tử đến như thế này, vốn đã là bất tiện rồi, hà huống lại còn vẽ them một vòng tròn?” 
-Từ Phúc bèn đóng cửa phương trượng. 
+> Trần Tháo Thượng Thư [^1] đến viếng Từ Phúc [^2].
+> 
+> Từ Phúc thấy Trần Tháo đến bèn vẽ một vòng tròn. 
+> 
+> Trần Tháo nói, “Đệ tử đến như thế này, vốn đã là bất tiện rồi, hà huống lại còn vẽ them một vòng tròn?” 
+> 
+> Từ Phúc bèn đóng cửa phương trượng. 
 
-Tuyết Đậu nói, 
-
-> Trần Tháo chỉ có một con mắt
+Tuyết Đậu nói, "_Trần Tháo chỉ có một con mắt_"
 
 ## BÌNH
 

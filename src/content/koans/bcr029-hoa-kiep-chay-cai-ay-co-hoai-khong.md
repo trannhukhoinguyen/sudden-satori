@@ -1,6 +1,6 @@
 ---
 title: "HỎA KIẾP CỦA ĐẠI TÙY"
-date: "2025-08-21"
+date: "2025-08-31"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -22,11 +22,11 @@ Hán hiện Hồ đến, tiếng trong hình rõ. Thử nói xem, tại sao như
 
 >  Có ông tăng hỏi, “Hỏa kiếp cháy suốt, đại thiên đều hoại. Chẳng hiểu cái này có bị hoại hay không?”
 > 
-> Đại Tùy [^1] nói, “Có bị hoại”.
+> Ngài Đại Tùy [^1] nói, “Có bị hoại”.
 > 
 > Ông tăng nói, “Vậy thì nó cũng giống như những cái kia”.
 > 
-> Đại Tùy nói, “Cũng giống như những cái kia”.
+> Ngài Đại Tùy nói, “Cũng giống như những cái kia”.
 
 ## BÌNH
 

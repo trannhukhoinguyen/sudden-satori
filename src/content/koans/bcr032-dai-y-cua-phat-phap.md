@@ -20,7 +20,7 @@ Còn có kẻ đồng sinh đồng tử chăng? Công án hiện thành, an bài
 
 > Định Thượng Tọa hỏi ngài Lâm Tế [^1], “Thế nào là đại ý của Phật Pháp?” 
 > 
-> Lâm Tế bước khỏi giường Thiền, nắm lấy Định Thượng Tọa tát cho một bạt tai rồi đẩy ra.
+> Ngài Lâm Tế bước khỏi giường Thiền, nắm lấy Định Thượng Tọa tát cho một bạt tai rồi đẩy ra.
 > 
 > Định Thượng Tọa đứng im đó. 
 > 

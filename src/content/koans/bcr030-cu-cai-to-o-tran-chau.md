@@ -1,6 +1,6 @@
 ---
 title: "CỦ CẢI CỦA TRIỆU CHÂU"
-date: "2025-08-21"
+date: "2025-08-31"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -16,9 +16,9 @@ draft: false
 
 ## CỬ:
 
->  Có ông tăng hỏi Triệu Châu [^1], “Nghe nói hòa thượng có đích thân gặp ngài Nam Tuyền rồi phải không?”
+> Có ông tăng hỏi Triệu Châu [^1], “Nghe nói hòa thượng có đích thân gặp ngài Nam Tuyền rồi phải không?”
 > 
-> Triệu Châu nói, “Trấn Châu sản xuất củ cải lớn.”
+> Ngài Triệu Châu nói, “Trấn Châu sản xuất củ cải lớn.”
 
 ## BÌNH
 

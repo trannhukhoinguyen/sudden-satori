@@ -4,7 +4,7 @@ date: "2025-08-28"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Ngài Nam Tuyền chỉ vào đóa hoa ngoài sân, rồi gọi Lục đại phu mà nói rằng, 'Người bây giờ thấy đóa hoa này giống như thể một giấc mộng vậy'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NAM TUYỀN PHỔ NGUYỆN"]
 draft: false
@@ -22,11 +22,11 @@ Thử nói xem sai lầm ở chỗ nào? Xin nêu lên xem.
 
 ## CỬ:
 
-Lục Hoàn đại phu lần kia nói chuyện với Nam Tuyền [^1] , nói rằng, 
+> Lục Hoàn đại phu lần kia nói chuyện với ngài Nam Tuyền [^1], nói rằng, 
+>
+> “Triệu pháp sư nói, ‘_Trời đất với mình đồng căn, vạn vật với mình một thể’ kể cũng kỳ quái thật_” 
 
-“Triệu pháp sư nói, ‘Trời đất với mình đồng căn, vạn vật với mình một thể’ kể cũng kỳ quái thật” 
-
-Nam Tuyền chỉ vào đóa hoa ngoài sân, rồi gọi Lục đại phu mà nói rằng, “Người bây giờ thấy đóa hoa này giống như thể một giấc mộng vậy.”
+> Ngài Nam Tuyền chỉ vào đóa hoa ngoài sân, rồi gọi Lục đại phu mà nói rằng, “_Người bây giờ thấy đóa hoa này giống như thể một giấc mộng vậy_.”
 
 ## BÌNH
 

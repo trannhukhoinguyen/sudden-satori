@@ -31,12 +31,35 @@ export interface Props {
   publishedTime?: string;
   canonical?: string;
   collection?: string;
+  schemaType?: string;
 }
 
 const {
   title, description, showSidebar = true, image, type, publishedTime, canonical,
-  collection = null  // ✅ mặc định null nếu không có
+  collection = null,  // ✅ mặc định null nếu không có
+  schemaType = 'Article'
 } = Astro.props;
+
+const schema = schemaType ? {
+  "@context": "https://schema.org",
+  "@type": schemaType,
+  headline: Astro.props.title,
+  datePublished: publishedTime,
+  author: {
+    "@type": "Person",
+    name: "Tổ Sư Thiền",
+  },
+} : {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Tổ Sư Thiền',
+  url: new URL('/', Astro.site).toString() || 'https://tosuthien.org',
+  logo: new URL('/favicon.svg', Astro.site).toString(),
+  sameAs: [
+    'https://www.facebook.com/tosuthien2024/',
+    'https://www.youtube.com/@tosuthien_org/playlists',
+  ],
+};
 ---
 
 <!DOCTYPE html>
@@ -47,6 +70,9 @@ const {
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
     <script is:inline src="/theme-init.js"></script>
+
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json" set:html={JSON.stringify(schema)}></script>
 
     <SEO
       title={title}

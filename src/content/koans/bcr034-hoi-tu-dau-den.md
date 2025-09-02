@@ -4,7 +4,7 @@ date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Ông tăng nói, 'Chưa'. Ngài Ngưỡng Sơn nói, 'Như thế là thầy chưa từng bao giờ đi chơi núi cả'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NGƯỠNG SƠN HUỆ TỊCH"]
 draft: false
@@ -16,19 +16,17 @@ draft: false
 
 ## CỬ:
 
-Ngưỡng Sơn [^1] hỏi một ông tăng, “Ông mới từ đâu đến vậy?” 
-
-Ông tăng nói, “Lô Sơn.” 
-
-Ngưỡng Sơn nói, “Đã từng lên Ngũ Lão Phong chơi chưa?” 
-
-Ông tăng nói, “Chưa” 
-
-Ngưỡng Sơn nói, “Như thế là thầy chưa từng bao giờ đi chơi núi cả”
-
-Vân Môn nói, 
-
-> Những lời ấy là đều bởi vì từ bi, cho nên thầy ta mới có lời nói chuyện của kẻ ngã trên cỏ
+> Ngài Ngưỡng Sơn [^1] hỏi một ông tăng, “*Ông mới từ đâu đến vậy?*” 
+>
+> Ông tăng nói, “*Lô Sơn*” 
+>
+> Ngài Ngưỡng Sơn nói, “*Đã từng lên Ngũ Lão Phong chơi chưa?*” 
+>
+> Ông tăng nói, “*Chưa*” 
+>
+> Ngài Ngưỡng Sơn nói, “*Như thế là thầy chưa từng bao giờ đi chơi núi cả*”
+>
+> Ngài Vân Môn nói, "**Những lời ấy là đều bởi vì từ bi, cho nên thầy ta mới có lời nói chuyện của kẻ ngã trên cỏ**"
 
 ## BÌNH
 
@@ -91,24 +89,24 @@ Nếu như là lời ở ngoài cỏ thì hẳn đã không như thế.
 Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 > Ra cỏ vào cỏ,
-
-Ai biết mà tìm?
-
-Mây trắng chập chùng,
-
-Mặt trời rực rỡ.
-
-Nhìn bên trái không tì vết,
-
-Ngó bên phải đã già nua.
-
-Người không thấy Hàn Sơn Tử?
-
-Đi quá nhanh.
-
-Mười năm không về được.
-
-Quên mất đường đã đến.
+>
+> Ai biết mà tìm?
+>
+> Mây trắng chập chùng,
+>
+> Mặt trời rực rỡ.
+>
+> Nhìn bên trái không tì vết,
+>
+> Ngó bên phải đã già nua.
+>
+> Người không thấy Hàn Sơn Tử?
+>
+> Đi quá nhanh.
+>
+> Mười năm không về được.
+>
+> Quên mất đường đã đến.
 
 ## BÌNH
 
