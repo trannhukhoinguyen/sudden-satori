@@ -7,6 +7,7 @@ import PostReadMore from "../../components/post/PostReadMore.astro";
 import PostDateTime from "../../components/post/PostDateTime.astro";
 import PostExcerpt from "../../components/post/PostExcerpt.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
+import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CATEGORY_MAP).map(([category, { posts }]) => {
@@ -31,6 +32,9 @@ const description = `Tất cả bài viết về ${category}`;
       <p class="page-description">{posts.length} bài viết trong category này</p>
       <hr class="page-rule" />
     </header>
+
+    <!-- ✅ Breadcrumbs -->
+    <Breadcrumbs collection={'Tất cả category'} title={category} />
 
     <div class="posts-list">
       {

@@ -12,14 +12,20 @@
   /* Accent Color */
   --color-accent-red: #dc2626;
   --color-accent-yellow: #dcd926;
-  --color-accent-gold: #a78f0a;
-  --color-accent-pink: #ffb9b9;
-  --color-accent: var(--color-accent-gold);
+  --color-accent-gold: gold;
+  --color-accent-gold-dark: #c4a604;
+  --color-accent-pink: #f391a2;
+  --color-accent-pink-dark: #f3219f;
+  --color-accent-green: #02b802;
+  --color-accent-green-dark: green;
+
+  --color-accent-theme: #c4a604;
+  --color-accent: #c4a604;
 
   /* Semantic Colors */
   --color-background: var(--color-white);
-  --color-background-pagination: var(--color-accent-gold);
-  --color-background-toc: var(--color-accent-gold);
+  --color-background-pagination: var(--color-accent-gold-dark);
+  --color-background-toc: var(--color-accent-gold-dark);
   --color-background-footer: var(--color-white);
   --color-surface: var(--color-light-gray);
   --color-text-primary: var(--color-black);

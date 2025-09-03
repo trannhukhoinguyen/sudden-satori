@@ -5,6 +5,7 @@ videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 videoStart: "1071"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
+pdfUrl: "/pdfs/kinh-lang-gia.pdf"
 draft: false
 ---
 
@@ -22,7 +23,11 @@ Chúng tôi dịch Kinh này phải tham khảo thêm hai bản dịch đời Ng
 
 Yếu chỉ của Kinh này là dùng nghĩa Duy Thức để phá kiến chấp của ngoại đạo, vì danh từ và nghĩa lý của ngoại đạo cũng tựa như lời Phật, xem thì ngoại đạo với Phật hai ý khác hẳn, ngoại đạo có Sở trụ mà Phật thì Vô sở trụ, nếu độc giả xem xét kỹ sẽ tự thấy rõ.
 
-Nói tóm lại, chúng tôi dịch Kinh này rất cố gắng giữ nguyên ý trong bản dịch của Ngài Cầu Na Bạ Đà La, từng chữ, từng câu mà sáng tỏ nghĩa kinh, mong giúp cho người đọc xem thấy dễ hiểu hơn. Nhưng chúng tôi cũng chưa được hài lòng, e vẫn còn có nhiều chỗ sơ sót, kính xin các bậc tiền bối và độc giả từ bi chỉ giáo cho .
+Nói tóm lại, chúng tôi dịch Kinh này rất cố gắng giữ nguyên ý trong bản dịch của Ngài Cầu Na Bạ Đà La, từng chữ, từng câu mà sáng tỏ nghĩa kinh, mong giúp cho người đọc xem thấy dễ hiểu hơn. Nhưng chúng tôi cũng chưa được hài lòng, e vẫn còn có nhiều chỗ sơ sót, kính xin các bậc tiền bối và độc giả từ bi chỉ giáo cho.
+
+##### HT Thích Duy Lực
+
+<hr class="blog-rule" />
 
 ## PHẨM NHẤT THIẾT PHẬT NGỮ TÂM - QUYỂN THỨ NHẤT
 
@@ -33,12 +38,12 @@ Bồ Tát Đại Huệ là bậc thượng thủ (đại diện đương cơ c�
 ### Khi ấy, Bồ Tát Đại Huệ cùng Bồ Tát Ma Đế dạo khắp tất cả cõi Phật, và thừa oai thần của Phật từ chỗ ngồi đứng dậy, trịch vai áo tay phải, chắp tay quỳ gối, cung kính dùng kệ tán thán rằng:
 
 > Thế gian lìa sanh diệt
-
-Như hoa đốm trên không.
-
-Trí chẳng trụ hữu, vô,
-
-Mà khởi tâm đại bi.
+>
+> Như hoa đốm trên không.
+>
+> Trí chẳng trụ hữu, vô,
+>
+> Mà khởi tâm đại bi.
 
 Tất cả pháp như huyễn,
 
@@ -1417,6 +1422,8 @@ Bậc Thánh lìa hữu vô.
 
 **QUYỂN MỘT HẾT**
 
+<hr class="blog-rule" />
+
 ## PHẨM NHẤT THIẾT PHẬT NGỮ TÂM - QUYỂN THỨ NHÌ
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng :
@@ -2611,8 +2618,9 @@ Cuối cùng vẫn thành Phật.
 
 **QUYỂN NHÌ HẾT**
 
-## QUYỂN THỨ BA
+<hr class="blog-rule" />
 
+## QUYỂN THỨ BA
 
 ### Khi ấy, Thế Tôn bảo Đại Huệ bồ tát rằng:
 

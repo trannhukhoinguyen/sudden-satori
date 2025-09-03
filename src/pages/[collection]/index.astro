@@ -4,7 +4,7 @@ import "@/styles/badgeList.css";
 import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import { config } from "../../config";
 import Layout from "../../layouts/Layout.astro";
-import Pagination from "../../components/Pagination.astro";
+import Pagination from "../../components/page/Pagination.astro";
 import PostDateTime from "../../components/post/PostDateTime.astro";
 import PostExcerpt from "../../components/post/PostExcerpt.astro";
 import PostTags from "../../components/post/PostTags.astro";
@@ -12,6 +12,7 @@ import PostReadMore from "../../components/post/PostReadMore.astro";
 import PostImage from "../../components/post/PostImage.astro";
 import PostTitle from "../../components/post/PostTitle.astro";
 import FlatTags from "../../components/post/FlatTags.astro";
+import koanTypes, {koanDescription} from "../../data/koans/koanType";
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
@@ -51,6 +52,42 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
       </p>
       <hr class="blog-rule" />
     </header>
+
+
+    <!-- Introduction Section -->
+    <section class="rules" id="rules">
+      <div class="container">
+          <div class="section-description top">
+              { koanDescription?.top }
+          </div>
+
+          <div class="section-description middle">
+              { koanDescription?.middle }
+          </div>
+
+          <div class="section-description bottom">
+              { koanDescription?.bottom?.intro }
+              { koanDescription?.bottom?.body?.map(line => <h5>{line}</h5>) }
+          </div>
+
+          <div class="section-description blockquote">
+              <blockquote>
+                  { koanDescription?.blockquote }
+              </blockquote>
+          </div>
+
+          <div class="rules-grid">
+              Trong Lâm Tế tông tại Nhật Bản, các vị thiền sư thường phân biệt 5 loại công án:
+              {
+                  koanTypes?.map(type => <div class="rule-card">
+                      <h3 class="rule-title">{ type.title }</h3>
+                      <p><em>{ type.subTitle }</em></p>
+                      <p class="rule-description">{ type.description }</p>
+                  </div>)
+              }
+          </div>
+      </div>
+    </section>
 
 <!-- Post List Section -->
     {posts.length > 0 ? (

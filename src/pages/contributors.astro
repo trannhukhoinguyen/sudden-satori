@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Table from "../components/Table.astro";
+import Table from "../components/ui/Table.astro";
 import contributorsDb from '../data/contributorsDb';
 
 const title = 'Danh sách đóng góp';
@@ -17,9 +17,9 @@ const sortedContributorsDb = contributorsDb
         }));
 const customizeSortedContributorsDb =
     sortedContributorsDb?.map(({
-                         id, 
-                         name, 
-                         hiddenDonation, 
+                         id,
+                         name,
+                         hiddenDonation,
                          totalDonation,
                          place,
                          avatar,

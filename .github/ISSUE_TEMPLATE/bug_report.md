@@ -51,6 +51,6 @@ Link to any related issues here.
 
 **Checklist**
 - [ ] I have searched the existing issues to make sure this is not a duplicate
-- [ ] I have provided all the required information above
+- [ ] I have provided all the necessary information above
 - [ ] I have tested with the latest version of the theme
 - [ ] I have cleared my browser cache and tried in incognito/private mode

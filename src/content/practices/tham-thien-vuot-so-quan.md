@@ -10,6 +10,12 @@ draft: false
 
 Ba cửa ải Sơ Quan 初關, Trùng Quan 重關, và Mạt Hậu Lao Quan 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của Tổ Sư Thiền (祖師禪), đặc biệt nổi bật trong dòng Thiền Tông Đông Sơn – Lâm Tế – Tào Động, liên quan mật thiết đến pháp tu Tham Thoại Đầu và Giữ Nghi Tình.
 
+|    **Cửa Ải**    |            **Mục tiêu**            |  **Pháp khí**  |                  **Biểu hiện**                 |
+|:----------------:|:----------------------------------:|:--------------:|:----------------------------------------------:|
+| Sơ Quan          | Kiến tánh – Ngộ nhập               | Sát Nhân Kiếm  | Phá ngã chấp, đạt nghi tình tuyệt hậu          |
+| Trùng Quan       | Mài giũa ngộ – hành giải tương ưng | Hoạt Nhân Kiếm | Không trụ pháp, vào ra tự do                   |
+| Mạt Hậu Lao Quan | Triệt ngộ – vượt khỏi chứng ngộ    | Vô Kiếm        | Vô sở đắc, sống đạo, không vướng bóng dáng ngộ |
+
 Dưới đây là phân tích chi tiết về từng cửa ải:
 
 ## SƠ QUAN 初關 – CỬA ẢI ĐẦU TIÊN
@@ -35,3 +41,12 @@ Sau khi vượt qua Sơ Quan, hành giả thường trải nghiệm một đại
 Tuy nhiên, sự thấy biết còn chưa thuần, dễ rơi vào kiến giải ngộ.
 
 ### 💠 Lộ trình tu tập PHÁ QUAN:
+
+🎯 Mục tiêu:
+
+Phá vỡ căn gốc của ngã chấp, tri kiến, ngôn ngữ, khái niệm.
+
+Đốn ngộ bổn tâm (bổn lai diện mục).
+
+Đoạn sạch tầm tư, chỉ còn lại nghi tình tinh thuần.
+

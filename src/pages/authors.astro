@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import authors from '../data/authors';
+import PdfViewer from "../components/ui/PdfViewer.astro";
 
 const title = "Tác giả";
 const pageDescription = "";
@@ -44,6 +45,8 @@ const pageDescription = "";
 
             <h2 class="author-name">{author.name}</h2>
             <p class="author-bio">{author.bio}</p>
+
+            <PdfViewer pdfUrl={frontmatter.pdfUrl} title={frontmatter.title} />
 
             <div class="reference-links">
               {author.references && author.references.link_1 && (

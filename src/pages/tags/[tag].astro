@@ -6,6 +6,7 @@ import PostTitle from "../../components/post/PostTitle.astro";
 import PostExcerpt from "../../components/post/PostExcerpt.astro";
 import PostDateTime from "../../components/post/PostDateTime.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
+import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
 
 export async function getStaticPaths() {
   return Object.entries(TAG_MAP).map(([tag, { posts }]) => {
@@ -29,6 +30,9 @@ const description = `Tất cả bài viết gắn tag ${tag}`;
       <p class="page-description">{posts.length} bài viết có tag này</p>
       <hr class="page-rule" />
     </header>
+
+    <!-- ✅ Breadcrumbs -->
+    <Breadcrumbs collection={'Tất cả tag'} title={tag} />
 
     <div class="posts-list">
       {posts.map((post: any) => (

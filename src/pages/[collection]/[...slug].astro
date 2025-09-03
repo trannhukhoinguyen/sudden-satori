@@ -5,8 +5,8 @@ import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import Layout from "../../layouts/Layout.astro";
 import TOC from "../../components/post/TOC.astro";
 import FloatingTOC from "../../components/post/FloatingTOC.astro";
-import MediaArea from "../../components/post/MediaArea.astro";
-import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import MediaArea from "../../components/ui/MediaArea.astro";
+import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
 import PostHeader from "../../components/post/PostHeader.astro";
 import PostTags from "../../components/post/PostTags.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
@@ -42,7 +42,7 @@ const { frontmatter, Content } = post as any;
   <Breadcrumbs collection={collection} title={post.frontmatter.title} />
 
   <article class="blog-post">
-    <!-- ✅ PostHeader -->
+    <!-- ✅ PostHeader included PDF Viewer -->
     <PostHeader post={post} />
 
     <!-- Image Section -->
@@ -75,3 +75,13 @@ const { frontmatter, Content } = post as any;
 <!-- Related Post Section -->
   <RelatedPost tags={frontmatter.tags} notIncludedPostTitle={frontmatter.title} type={frontmatter.type} />
 </Layout>
+
+<style>
+  .blog-rule {
+    height: 4px;
+    background-color: var(--color-accent-gold);
+    border: none;
+    width: 120px;
+    margin: 0 auto;
+  }
+</style>

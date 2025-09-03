@@ -229,6 +229,24 @@
     border: none;
     margin: calc(var(--grid-unit) * 4) 0;
 }
+
+/*Table Markdown*/
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+
+    th, td {
+        border: 1px solid #ccc;
+        padding: 0.5em;
+        text-align: left;
+    }
+
+    th {
+        background: #f5f5f5;
+    }
+}
+
 .post-footer {
     border-top: 1px solid var(--color-border);
     padding-top: calc(var(--grid-unit) * 3);
@@ -298,9 +316,7 @@
     flex-direction: column;
     gap: calc(var(--grid-unit));
 }
-.badge-tag {
-    background-color: var(--color-text-primary);
-    color: white;
+.badge-label {
     padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
     font-size: 0.8rem;
     font-weight: 600;
@@ -309,10 +325,29 @@
     border-radius: 3px;
     transition: background-color 0.2s ease;
 }
+.badge-label:hover,
+.badge-label:focus {
+    text-decoration: none;
+}
+
+/*CATEGORY*/
+.badge-category {
+    background-color: var(--color-accent-pink-dark);
+    color: white;
+}
+.badge-category:hover,
+.badge-category:focus {
+    background-color: var(--color-accent-pink);
+}
+
+/*TAG*/
+.badge-tag {
+    background-color: var(--color-accent-green-dark);
+    color: white;
+}
 .badge-tag:hover,
 .badge-tag:focus {
-    background-color: var(--color-accent-gold);
-    text-decoration: none;
+    background-color: var(--color-accent-green);
 }
 
 /* Dark mode category tag styles */

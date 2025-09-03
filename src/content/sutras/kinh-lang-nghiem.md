@@ -30,6 +30,7 @@ date: "2025-07-07"
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]
+pdfUrl: "/pdfs/kinh-lang-nghiem.pdf"
 draft: false
 ---
 
@@ -48,7 +49,9 @@ Những danh từ tiếng Hán mà tiếng Việt ít dùng, lại không thể 
 
 Chúng tôi muốn tránh chỗ tối nghĩa, để cho người đọc dễ hiểu, nên chẳng chú ý đến sự trau chuốt lời văn, xin độc giả từ bi hoan hỉ cho.
 
-*Thích Duy Lực*
+#### HT Thích Duy Lực
+
+<hr class="blog-rule" />
 
 ## QUYỂN I
 
@@ -70,29 +73,34 @@ A Nan gặp Phật, đảnh lễ rơi lệ, hối hận xưa nay chỉ ham học
 
 Khi ấy, Thế Tôn giơ tay dịu dàng rờ đầu A Nan, nói với A Nan và đại chúng:
 
-- Có pháp Tam Ma Đề, gọi là Đại Phật Đảnh Thủ Lăng Nghiêm Vương, bao hàm vạn hạnh, là đường lối vi diệu trang nghiêm, cũng là pháp môn đưa đến giải thoát cuối cùng của mười phương Như Lai, nay ngươi hãy chú ý nghe.
+> Có pháp Tam Ma Đề, gọi là Đại Phật Đảnh Thủ Lăng Nghiêm Vương, bao hàm vạn hạnh, là đường lối vi diệu trang nghiêm, cũng là pháp môn đưa đến giải thoát cuối cùng của mười phương Như Lai, nay ngươi hãy chú ý nghe.
 
 A Nan đảnh lễ, kính vâng lời Phật dạy.
 
 Phật bảo A Nan:
 
-- Ngươi và ta là anh em, cùng một giống nòi, chẳng biết lúc mới phát tâm, ở nơi pháp ta, ngươi thấy tướng thù thắng gì liền xả ân ái sâu nặng của thế gian?
+> Ngươi và ta là anh em, cùng một giống nòi, chẳng biết lúc mới phát tâm, ở nơi pháp ta, ngươi thấy tướng thù thắng gì liền xả ân ái sâu nặng của thế gian?
 
 A Nan bạch Phật:
 
-- Con thấy ba mươi hai tướng thù thắng tuyệt diệu của Như Lai, hình thể trong sáng như lưu ly, thường tự nghĩ tướng này chẳng phải do dục ái sanh ra. Tại sao? Vì dục ái ô nhiễm xấu xí, cấu kết tinh huyết nhơ bẩn chẳng thể sanh ra diệu tướng quang minh, thanh tịnh thù thắng như thế, do đó nên khâm mộ theo Phật xuất gia.
+- Con thấy ba mươi hai tướng thù thắng tuyệt diệu của Như Lai, hình thể trong sáng như lưu ly, thường tự nghĩ tướng này chẳng phải do dục ái sanh ra. 
+Tại sao? Vì dục ái ô nhiễm xấu xí, cấu kết tinh huyết nhơ bẩn chẳng thể sanh ra diệu tướng quang minh, thanh tịnh thù thắng như thế, do đó nên khâm mộ theo Phật xuất gia.
 
 Phật nói:
 
-- Lành thay! A Nan, các ngươi nên biết, tất cả chúng sanh từ vô thỉ đến nay, sanh tử liên tục, chỉ vì chẳng biết chơn tâm thường trụ, thể tánh trong sạch sáng tỏ, lại nương theo vọng tưởng, vọng tưởng chẳng chơn nên có luân hồi. Mười phương chư Phật cùng một đạo lìa khỏi sanh tử đều do trực tâm, vì tâm hạnh và lời nói ngay thẳng, như thế từ đầu đến cuối, cho đến các ngôi bậc, ở khoảng giữa chẳng có các tướng quanh co.
+> Lành thay! A Nan, các ngươi nên biết, tất cả chúng sanh từ vô thỉ đến nay, sanh tử liên tục, chỉ vì chẳng biết chơn tâm thường trụ, thể tánh trong sạch sáng tỏ, lại nương theo vọng tưởng, vọng tưởng chẳng chơn nên có luân hồi. Mười phương chư Phật cùng một đạo lìa khỏi sanh tử đều do trực tâm, vì tâm hạnh và lời nói ngay thẳng, như thế từ đầu đến cuối, cho đến các ngôi bậc, ở khoảng giữa chẳng có các tướng quanh co.
+>
+> Nay ngươi muốn tham cứu vô thượng Bồ Đề, phát minh chơn tánh, hãy trực tâm mà trả lời câu hỏi của ta. A Nan, nay ta hỏi ngươi: lúc ngươi phát tâm duyên theo ba mươi hai tướng của Như Lai, lấy gì để thấy? Ai biết sự ham thích?
 
-- Nay ngươi muốn tham cứu vô thượng Bồ Đề, phát minh chơn tánh, hãy trực tâm mà trả lời câu hỏi của ta. A Nan, nay ta hỏi ngươi: lúc ngươi phát tâm duyên theo ba mươi hai tướng của Như Lai, lấy gì để thấy? Ai biết sự ham thích?
+A Nan bạch Phật:
 
 - Bạch Thế Tôn, dùng tâm và mắt của con thấy tướng thù thắng của Như Lai, sanh lòng ham thích nên phát tâm, nguyện xả bỏ sanh tử.
 
 Phật bảo:
 
-- Như ngươi vừa nói, sự ham thích do nơi tâm và mắt. Nếu chẳng biết tâm và mắt ở đâu thì chẳng thể hàng phục được trần lao; ví như đất nước có giặc, vua sai binh dẹp trừ, binh lính tất phải biết sào huyệt của giặc. Khiến ngươi bị luân chuyển ấy là lỗi tại tâm và mắt. Ta hỏi ngươi: Tâm và mắt của ngươi hiện đang ở đâu?
+> Như ngươi vừa nói, sự ham thích do nơi tâm và mắt. 
+> Nếu chẳng biết tâm và mắt ở đâu thì chẳng thể hàng phục được trần lao; ví như đất nước có giặc, vua sai binh dẹp trừ, binh lính tất phải biết sào huyệt của giặc. 
+> Khiến ngươi bị luân chuyển ấy là lỗi tại tâm và mắt. Ta hỏi ngươi: Tâm và mắt của ngươi hiện đang ở đâu?
 
 ***
 
@@ -100,29 +108,51 @@ Phật bảo:
 
 #### Phá chấp tâm ở trong thân
 
-- Bạch Thế Tôn! Tất cả 10 loại chúng sanh trên thế gian đều cho tâm thức ở trong thân. Nay con nhận được mắt con ở trên mặt con và tâm thức ở trong thân, như mắt Thanh Liên Hoa của Như Lai ở trên mặt Như Lai vậy.
+A Nan bạch Phật:
 
-Phật bảo:
+- Bạch Thế Tôn! Tất cả 10 loại chúng sanh trên thế gian đều cho tâm thức ở trong thân. 
+Nay con nhận được mắt con ở trên mặt con và tâm thức ở trong thân, như mắt Thanh Liên Hoa của Như Lai ở trên mặt Như Lai vậy.
 
-- A Nan! Nay ngươi ngồi trong giảng đường của Như Lai, nhìn thấy rừng Kỳ Đà ở chỗ nào?
+Phật hỏi:
+
+> A Nan! Nay ngươi ngồi trong giảng đường của Như Lai, nhìn thấy rừng Kỳ Đà ở chỗ nào?
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Giảng đường rộng rãûi thanh tịnh này trong vườn Cấp Cô Độc, còn rừng Kỳ Đà thì ở ngoài giảng đường.
 
-- A Nan! Bây giờ ngươi ở trong giảng đường trước tiên thấy gì?
+Phật hỏi:
+
+> A Nan! Bây giờ ngươi ở trong giảng đường trước tiên thấy gì?
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Con ở trong giảng đường trước thấy Như Lai, sau thấy đại chúng, rồi nhìn ra ngoài mới thấy rừng cây.
 
-- A Nan! Ngươi thấy rừng cây, do nhân nào được thấy?
+Phật hỏi:
+
+> A Nan! Ngươi thấy rừng cây, do nhân nào được thấy?
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Vì cửa sổ giảng đường mở trống nên con ở trong thấy suốt bên ngoài.
 
 Phật bảo A Nan:
 
-- Như ngươi vừa nói, thân ở trong giảng đường, nhờ cửa mở trống nên thấy rừng cây; mà có chúng sanh nào ở trong giảng đường chẳng thấy Như Lai, lại thấy rừng cây bên ngoài chăng?
+> Như ngươi vừa nói, thân ở trong giảng đường, nhờ cửa mở trống nên thấy rừng cây; mà có chúng sanh nào ở trong giảng đường chẳng thấy Như Lai, lại thấy rừng cây bên ngoài chăng?
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Ở trong giảng đường chẳng thấy Như Lai, lại thấy rừng cây bên ngoài thì chẳng đúng.
 
-- A Nan! Ngươi cũng như vậy, linh tâm của ngươi tất cả sáng tỏ, nếu tâm sáng tỏ hiện tiền của ngươi thật ở trong thân thì trước tiên phải thấy rõ trong thân. Vậy có chúng sanh nào trước thấy trong thân rồi sau mới thấy vật bên ngoài chăng? Dẫu chẳng thấy được tim, gan, tỳ, vị, thì các chỗ: móng ra, tóc dài, gân chuyển cũng phải thấy chứ, sao lại chẳng thấy? Nếu trong thân còn chẳng thấy thì làm sao thấy vật bên ngoài? Cho nên ngươi nói "Cái tâm giác tri trụ ở trong thân" là chẳng đúng. (Tự tánh bất nhị, vốn chẳng có nghĩa đúng và chẳng đúng, chỉ vì trị bệnh chấp thật nên nói chẳng đúng).
+Phật bảo:
+
+> A Nan! Ngươi cũng như vậy, linh tâm của ngươi tất cả sáng tỏ, nếu tâm sáng tỏ hiện tiền của ngươi thật ở trong thân thì trước tiên phải thấy rõ trong thân. 
+Vậy có chúng sanh nào trước thấy trong thân rồi sau mới thấy vật bên ngoài chăng? 
+Dẫu chẳng thấy được tim, gan, tỳ, vị, thì các chỗ: móng ra, tóc dài, gân chuyển cũng phải thấy chứ, sao lại chẳng thấy? 
+Nếu trong thân còn chẳng thấy thì làm sao thấy vật bên ngoài? 
+Cho nên ngươi nói "Cái tâm giác tri trụ ở trong thân" là chẳng đúng. 
+(Tự tánh bất nhị, vốn chẳng có nghĩa đúng và chẳng đúng, chỉ vì trị bệnh chấp thật nên nói chẳng đúng).
 
 #### Phá chấp tâm ở ngoài thân
 
@@ -132,31 +162,50 @@ A Nan cúi đầu bạch Phật:
 
 Phật bảo A Nan:
 
-- Các Tỳ Kheo vừa theo ta khất thực trong thành rồi trở về rừng Kỳ Đà. Ta đã thọ trai xong, ngươi thử nghĩ, trong số Tỳ Kheo, chỉ một người ăn mà các vị khác được no chăng?
+> Các Tỳ Kheo vừa theo ta khất thực trong thành rồi trở về rừng Kỳ Đà. Ta đã thọ trai xong, ngươi thử nghĩ, trong số Tỳ Kheo, chỉ một người ăn mà các vị khác được no chăng?
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Không ạ! Tại sao? Dù các Tỳ Kheo đều là bậc A La Hán, nhưng cơ thể chẳng đồng, đâu thể một người ăn mà khiến cả chúng đều no.
 
-- A Nan! Nếu tâm giác tri của ngươi thật ở ngoài thân thì trong ngoài khác nhau, chẳng có liên quan, hễ tâm biết thì thân chẳng biết, thân biết thì tâm chẳng biết. Nay ta đưa tay cho ngươi xem, trong lúc mắt thấy, tâm ngươi biết được chăng?
+Phật bảo:
+
+> A Nan! Nếu tâm giác tri của ngươi thật ở ngoài thân thì trong ngoài khác nhau, chẳng có liên quan, hễ tâm biết thì thân chẳng biết, thân biết thì tâm chẳng biết. 
+Nay ta đưa tay cho ngươi xem, trong lúc mắt thấy, tâm ngươi biết được chăng?
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Vâng biết.
 
-- A Nan! Nếu thân và tâm cùng biết một lượt thì sao lại nói tâm ở ngoài thân? Nên biết, ngươi nói "tâm giác tri trụ ở ngoài thân" là chẳng đúng.
+Phật bảo:
+
+> A Nan! Nếu thân và tâm cùng biết một lượt thì sao lại nói tâm ở ngoài thân? Nên biết, ngươi nói "tâm giác tri trụ ở ngoài thân" là chẳng đúng.
 
 #### Phá chấp tâm ẩn núp sau con mắt
 
+A Nan bạch Phật:
+
 - Bạch Thế Tôn! Như lời Phật dạy, chẳng thấy bên trong nên chẳng ở trong thân; thân tâm cùng biết một lượt chẳng thể rời nhau nên chẳng ở ngoài thân, nay con thiết nghĩ tâm ở một chỗ.
 
-- Ở chỗ nào?
+Phật hỏi:
+
+> Ở chỗ nào?
+
+A Nan bạch Phật:
 
 - Tâm giác tri này đã chẳng biết trong mà thấy bên ngoài, theo con nghĩ là nó ẩn núp sau con mắt. Ví như có người lấy chén lưu ly úp vào hai mắt (ngày nay có thể nói là đeo kính), tuy có vật úp ở ngoài mà chẳng ngại nhãn căn, tùy sự thấy liền phân biệt được. Tâm giác tri của con chẳng thấy bên trong vì ở nơi con mắt, thấy rõ ràng bên ngoài vì ẩn núp sau con mắt.
 
 Phật bảo A Nan:
 
-- Theo lời ngươi nói, tâm núp sau con mắt như con mắt núp sau chén lưu ly, vậy thì lúc thấy núi sông, mắt thấy chén lưu ly chăng?
+> Theo lời ngươi nói, tâm núp sau con mắt như con mắt núp sau chén lưu ly, vậy thì lúc thấy núi sông, mắt thấy chén lưu ly chăng?
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Thật thấy chén lưu ly.
 
-- A Nan, con mắt núp sau chén lưu ly thì thấy được chén lưu ly; còn tâm núp sau con mắt sao chẳng thấy mắt? Dù cho là thấy mắt, mắt tức là cảnh, cảnh làm sao thấy cảnh? Nếu chẳng thấy mắt thì ngươi nói "Tâm giác tri ẩn núp sau con mắt" là chẳng đúng.
+Phật bảo A Nan:
+
+> A Nan, con mắt núp sau chén lưu ly thì thấy được chén lưu ly; còn tâm núp sau con mắt sao chẳng thấy mắt? Dù cho là thấy mắt, mắt tức là cảnh, cảnh làm sao thấy cảnh? Nếu chẳng thấy mắt thì ngươi nói "Tâm giác tri ẩn núp sau con mắt" là chẳng đúng.
 
 #### Phá chấp nhắm mắt thấy tối là thấy trong thân
 
@@ -164,59 +213,77 @@ Phật bảo A Nan:
 
 Phật bảo A Nan:
 
-- Khi ngươi nhắm mắt thấy tối, cái cảnh tối ấy là đối với mắt hay chẳng đối với mắt?
-
-- Nếu đối với mắt thì tối ở trước mắt, tức ở ngoài thân, sao nói ở trong thân? Giả sử cho tối là trong thân thì lúc trong phòng tối chẳng có ánh sáng, những gì trong phòng tối đều là tạng phủ của ngươi sao?
-
-- Nếu chẳng đối với mắt thì làm sao được thấy? Nếu lìa sự thấy bên ngoài, thành lập sự thấy đối vào trong, khi nhắm mắt thấy tối gọi là thấy trong thân; vậy khi mở mắt thấy sáng sao chẳng thấy mặt?
-
-- Lại, nếu chẳng thấy mặt thì cái nghĩa "con mắt đối vào trong" chẳng thể thành lập: nếu thấy mặt thì tâm giác tri và nhãn căn đều ở tại hư không, làm sao nói ở trong?
-
-- Lại, nếu ở ngoài hư không thì chẳng phải thân ngươi, tức hiện nay Như Lai thấy mặt ngươi cũng là thân ngươi sao? Vậy mắt ngươi thấy biết thì thân ngươi chẳng biết. Nếu ngươi cho thân và mắt cùng biết một lượt, thì phải có hai cái biết, tức một thân ngươi phải thành hai Phật! Nên biết ngươi nói "thấy tối gọi là thấy trong thân" là chẳng đúng.
+> Khi ngươi nhắm mắt thấy tối, cái cảnh tối ấy là đối với mắt hay chẳng đối với mắt?
+>
+> Nếu đối với mắt thì tối ở trước mắt, tức ở ngoài thân, sao nói ở trong thân? Giả sử cho tối là trong thân thì lúc trong phòng tối chẳng có ánh sáng, những gì trong phòng tối đều là tạng phủ của ngươi sao?
+>
+> Nếu chẳng đối với mắt thì làm sao được thấy? Nếu lìa sự thấy bên ngoài, thành lập sự thấy đối vào trong, khi nhắm mắt thấy tối gọi là thấy trong thân; vậy khi mở mắt thấy sáng sao chẳng thấy mặt?
+>
+> Lại, nếu chẳng thấy mặt thì cái nghĩa "con mắt đối vào trong" chẳng thể thành lập: nếu thấy mặt thì tâm giác tri và nhãn căn đều ở tại hư không, làm sao nói ở trong?
+>
+> Lại, nếu ở ngoài hư không thì chẳng phải thân ngươi, tức hiện nay Như Lai thấy mặt ngươi cũng là thân ngươi sao? Vậy mắt ngươi thấy biết thì thân ngươi chẳng biết. Nếu ngươi cho thân và mắt cùng biết một lượt, thì phải có hai cái biết, tức một thân ngươi phải thành hai Phật! Nên biết ngươi nói "thấy tối gọi là thấy trong thân" là chẳng đúng.
 
 #### Phá chấp sự suy nghĩ là tâm
 
-- Con đã từng nghe Phật khai thị chúng rằng: Tâm sanh nên các pháp sanh, pháp sanh nên các tâm sanh. Nay con suy nghĩ, chính cái suy nghĩ ấy là tâm của con; tùy sự suy nghĩ tâm liền có, cũng chẳng ở trong, ngoài và chính giữa.
+A Nan bạch Phật:
 
-- A Nan, ngươi nói pháp sanh nên các tâm sanh, tùy sự suy nghĩ tâm liền có. Tâm chẳng có tự thể thì chẳng thể suy nghĩ; nếu chẳng có tự thể mà suy nghĩ được thì vô căn phải thấy được vô trần, nghĩa này chẳng đúng.
-
-Nếu có tự thể thì ngươi thử dùng tay tự búng thân mình xem, cái tâm biết của ngươi là từ trong thân ra hay từ bên ngoài ra? Nếu từ bên trong ra thì phải thấy trong thân; nếu từ bên ngoài ra thì trước tiên phải thấy mặt.
-
-- Mắt chủ sự thấy, tâm chủ sự biết, tâm không phải như mắt, nói tâm thấy là chẳng đúng nghĩa.
+- Con đã từng nghe Phật khai thị chúng rằng: Tâm sanh nên các pháp sanh, pháp sanh nên các tâm sanh. 
+Nay con suy nghĩ, chính cái suy nghĩ ấy là tâm của con; tùy sự suy nghĩ tâm liền có, cũng chẳng ở trong, ngoài và chính giữa.
 
 Phật bảo A Nan:
 
-- Nếu thấy là con mắt thì ngươi ở trong phòng, cửa biết thấy chăng? (phòng dụ cho thân, cửa dụ cho mắt). Như kẻ đã chết con mắt vẫn còn, lẽ ra phải thấy được vật; nếu thấy được vật thì sao gọi là chết?
+> A Nan, ngươi nói pháp sanh nên các tâm sanh, tùy sự suy nghĩ tâm liền có. 
+> Tâm chẳng có tự thể thì chẳng thể suy nghĩ; nếu chẳng có tự thể mà suy nghĩ được thì vô căn phải thấy được vô trần, nghĩa này chẳng đúng.
+>
+> Nếu có tự thể thì ngươi thử dùng tay tự búng thân mình xem, cái tâm biết của ngươi là từ trong thân ra hay từ bên ngoài ra? 
+Nếu từ bên trong ra thì phải thấy trong thân; nếu từ bên ngoài ra thì trước tiên phải thấy mặt.
+>
+> Mắt chủ sự thấy, tâm chủ sự biết, tâm không phải như mắt, nói tâm thấy là chẳng đúng nghĩa.
 
-- Lại, tâm hay biết của ngươi nếu thật có tự thể, là một thể hay nhiều thể? Nay nơi thân ngươi, tâm cùng khắp cơ thể hay chẳng cùng khắp?
+Phật bảo A Nan:
 
-- Nếu nói một thể, khi tay ngươi búng một chi, lẽ ra tứ chi đều biết, nếu đều biết thì chỗ búng chẳng có, nếu có chỗ búng thì chẳng phải một thể. Nếu như nhiều thể thì thành nhiều người, vậy thể nào là của ngươi?
-
-- Nếu nói khắp cả cơ thể thì đồng như sự búng kể trên, nếu chẳng khắp thì khi ngươi rờ đầu và chân, đầu có biết chân phải không biết, nhưng hiện nay ngươi lại chẳng phải như vậy. Nên biết ngươi nói: "Tùy sự suy nghĩ tâm liền có" là chẳng đúng.
+> Nếu thấy là con mắt thì ngươi ở trong phòng, cửa biết thấy chăng? (phòng dụ cho thân, cửa dụ cho mắt). Như kẻ đã chết con mắt vẫn còn, lẽ ra phải thấy được vật; nếu thấy được vật thì sao gọi là chết?
+>
+> Lại, tâm hay biết của ngươi nếu thật có tự thể, là một thể hay nhiều thể? Nay nơi thân ngươi, tâm cùng khắp cơ thể hay chẳng cùng khắp?
+>
+> Nếu nói một thể, khi tay ngươi búng một chi, lẽ ra tứ chi đều biết, nếu đều biết thì chỗ búng chẳng có, nếu có chỗ búng thì chẳng phải một thể. Nếu như nhiều thể thì thành nhiều người, vậy thể nào là của ngươi?
+>
+> Nếu nói khắp cả cơ thể thì đồng như sự búng kể trên, nếu chẳng khắp thì khi ngươi rờ đầu và chân, đầu có biết chân phải không biết, nhưng hiện nay ngươi lại chẳng phải như vậy. Nên biết ngươi nói: "Tùy sự suy nghĩ tâm liền có" là chẳng đúng.
 
 #### Phá chấp tâm ở chính giữa
 
+A Nan bạch Phật:
+
 - Bạch Thế Tôn! Khi Phật với Văn Thù và các Pháp Vương Tử luận về thật tướng, con cũng nghe Phật nói tâm chẳng ở trong cũng chẳng ở ngoài. Theo như con nghĩ, vì chẳng biết trong nên chẳng phải ở trong, thân tâm cùng biết một lượt nên chẳng phải ở ngoài, nay cùng biết một lượt mà chẳng thấy bên trong, tất phải ở giữa.
-
-- Ngươi nói "ở giữa" thì cái chính giữa ấy phải rõ ràng, chẳng phải không chỗ. Theo ngươi suy xét, giữa ở chỗ nào? Ở nơi xứ (12 xứ, gồm cả lục căn, lục trần) hay ở nơi thân?
-
-- Nếu ở nơi thân, nơi ngoài da thì chẳng phải là giữa; ở giữa thì đồng như ở trong. Nếu ở nơi xứ, là có thể nêu ra hay chẳng thể nêu ra? Nếu chẳng thể nêu ra thì đồng như không có; nếu có thể nêu ra lại chẳng định được chỗ nào. Tại sao? Ví như có người cắm cây nêu làm chính giữa, nhìn từ phương Đông thì cho cây nêu ở phương Tây, nhìn từ phương Nam thì cho cây nêu ở phương Bắc, cái thể giữa được nêu ra đã lẫn lộn thì tâm cũng thành rối loạn, chẳng rõ ở đâu.
-
-A Nan thưa:
-
-- Con nói "chính giữa" chẳng phải hai thứ này. Như Thế Tôn nói: Nhãn căn và sắc trần duyên nhau sanh ra nhãn thức. Nhãn căn phân biệt, sắc trần vô tri, thức sanh nơi giữa, tức là tâm vậy.
 
 Phật bảo:
 
-- Nếu tâm ngươi ở giữa căn trần, vậy tâm thể này gồm cả hai hay chẳng gồm? Nếu gồm cả hai thì vật và thể xen lộn, vật thì vô tri, thể thì có biết, thành hai thứ đối địch, lấy gì làm giữa? Nếu lìa biết (căn) và không biết (trần) thì chẳng có thể tánh, vậy lấy tướng nào làm chính giữa? Nên biết ngươi nói "Tâm ở chính giữa" là chẳng đúng.
+> Ngươi nói "ở giữa" thì cái chính giữa ấy phải rõ ràng, chẳng phải không chỗ. 
+> Theo ngươi suy xét, giữa ở chỗ nào? Ở nơi xứ (12 xứ, gồm cả lục căn, lục trần) hay ở nơi thân?
+>
+> Nếu ở nơi thân, nơi ngoài da thì chẳng phải là giữa; ở giữa thì đồng như ở trong. 
+> Nếu ở nơi xứ, là có thể nêu ra hay chẳng thể nêu ra? 
+> Nếu chẳng thể nêu ra thì đồng như không có; nếu có thể nêu ra lại chẳng định được chỗ nào. 
+> Tại sao? Ví như có người cắm cây nêu làm chính giữa, nhìn từ phương Đông thì cho cây nêu ở phương Tây, nhìn từ phương Nam thì cho cây nêu ở phương Bắc, cái thể giữa được nêu ra đã lẫn lộn thì tâm cũng thành rối loạn, chẳng rõ ở đâu.
+
+A Nan thưa:
+
+- Con nói "chính giữa" chẳng phải hai thứ này. 
+Như Thế Tôn nói: Nhãn căn và sắc trần duyên nhau sanh ra nhãn thức. Nhãn căn phân biệt, sắc trần vô tri, thức sanh nơi giữa, tức là tâm vậy.
+
+Phật bảo:
+
+> Nếu tâm ngươi ở giữa căn trần, vậy tâm thể này gồm cả hai hay chẳng gồm? Nếu gồm cả hai thì vật và thể xen lộn, vật thì vô tri, thể thì có biết, thành hai thứ đối địch, lấy gì làm giữa? Nếu lìa biết (căn) và không biết (trần) thì chẳng có thể tánh, vậy lấy tướng nào làm chính giữa? Nên biết ngươi nói "Tâm ở chính giữa" là chẳng đúng.
 
 #### Phá chấp "tất cả vô trước" là tâm
+
+A Nan bạch Phật:
 
 - Bạch Thế Tôn! Khi xưa con thấy Phật với bốn đại đệ tử (Mục Kiền Liên, Tu Bồ Đề, Phú Lâu Na và Xá Lợi Phất) cùng chuyển pháp luân, thường nói "cái tâm giác tri chẳng ở trong, chẳng ở ngoài, cũng chẳng ở giữa, chẳng ở chỗ nào cả, tất cả vô trước gọi là tâm". Vậy con vô trước, được gọi là tâm chăng?
 
 Phật bảo A Nan:
 
-- Ngươi nói cái tâm giác tri chẳng ở chỗ nào cả, vậy như các loài bay trên hư không, ở dưới nước và trên bờ, gọi là tất cả vật tượng nơi thế gian mà ngươi vô trước đó, là có hay không? Không thì đồng như lông rùa sừng thỏ, nói gì vô trước? Nếu có sự vô trước thì chẳng thể gọi là không. Không tướng mới không, chẳng không thì có tướng, tâm đã chấp có tướng, thì còn nói gì vô trước? Nên biết, nói "Tất cả vô trước gọi là tâm giác tri" là chẳng đúng.
+> Ngươi nói cái tâm giác tri chẳng ở chỗ nào cả, vậy như các loài bay trên hư không, ở dưới nước và trên bờ, gọi là tất cả vật tượng nơi thế gian mà ngươi vô trước đó, là có hay không? Không thì đồng như lông rùa sừng thỏ, nói gì vô trước? Nếu có sự vô trước thì chẳng thể gọi là không. Không tướng mới không, chẳng không thì có tướng, tâm đã chấp có tướng, thì còn nói gì vô trước? Nên biết, nói "Tất cả vô trước gọi là tâm giác tri" là chẳng đúng.
 
 ### LƯỢC GIẢI
 
@@ -242,19 +309,19 @@ Lúc ấy, Thế Tôn từ trên mặt phóng ra đủ thứ hào quang, sáng l
 
 Phật bảo A Nan:
 
-- Tất cả chúng sanh từ vô thỉ đến nay, đủ thứ điên đảo tạo thành giống nghiệp, kết tụ nghiệp nhân thành quả luân hồi. Những người tu hành chẳng được chứng quả vô thượng Bồ Đề, trở thành Thanh Văn, Duyên Giác hoặc thành cõi trời ngoại đạo, ma vương và quyến thuộc ma, đều do chẳng biết hai thứ căn bản, tu tập sai lầm, cũng như nấu cát mà muốn thành cơm, dẫu cho trải qua nhiều kiếp cũng chẳng đắc đạo.
-
-- Thế nào là hai thứ căn bản?
-
-- Một là căn bản của sanh tử từ vô thỉ, tức là nay nhận tâm phan duyên làm tự tánh của ngươi và chúng sanh;
-
-- Hai là bản thể vốn thanh tịnh của Bồ Đề Niết Bàn từ vô thỉ, tức là cái bản thức [^4 vốn sáng tỏ, hay sanh các duyên mà bị các duyên che khuất thành lạc mất của ngươi. Vì chúng sanh lạc mất bản thức sáng tỏ, dù hàng ngày sống trong bản thức mà chẳng tự biết, oan uổng vào lục đạo.
-
-- A Nan, nay ngươi muốn biết đường tu thiền quán Sa Ma Tha, mong ra khỏi sanh tử, vậy ta hỏi ngươi.
+> Tất cả chúng sanh từ vô thỉ đến nay, đủ thứ điên đảo tạo thành giống nghiệp, kết tụ nghiệp nhân thành quả luân hồi. Những người tu hành chẳng được chứng quả vô thượng Bồ Đề, trở thành Thanh Văn, Duyên Giác hoặc thành cõi trời ngoại đạo, ma vương và quyến thuộc ma, đều do chẳng biết hai thứ căn bản, tu tập sai lầm, cũng như nấu cát mà muốn thành cơm, dẫu cho trải qua nhiều kiếp cũng chẳng đắc đạo.
+>
+> Thế nào là hai thứ căn bản?
+>
+> Một là căn bản của sanh tử từ vô thỉ, tức là nay nhận tâm phan duyên làm tự tánh của ngươi và chúng sanh;
+>
+> Hai là bản thể vốn thanh tịnh của Bồ Đề Niết Bàn từ vô thỉ, tức là cái bản thức [^4 vốn sáng tỏ, hay sanh các duyên mà bị các duyên che khuất thành lạc mất của ngươi. Vì chúng sanh lạc mất bản thức sáng tỏ, dù hàng ngày sống trong bản thức mà chẳng tự biết, oan uổng vào lục đạo.
+>
+> A Nan, nay ngươi muốn biết đường tu thiền quán Sa Ma Tha, mong ra khỏi sanh tử, vậy ta hỏi ngươi.
 
 Liền đó, Như Lai giơ cánh tay sắc vàng co năm ngón tay, bảo A Nan:
 
-- Ngươi có thấy chăng?
+> Ngươi có thấy chăng?
 
 A Nan đáp:
 
@@ -262,7 +329,7 @@ A Nan đáp:
 
 Phật bảo:
 
-- Ngươi thấy cái gì?
+> Ngươi thấy cái gì?
 
 A Nan đáp:
 
@@ -270,13 +337,15 @@ A Nan đáp:
 
 Phật bảo:
 
-- Ngươi dùng cái gì để thấy?
+> Ngươi dùng cái gì để thấy?
+
+A Nan bạch Phật:
 
 - Con và đại chúng đều dùng mắt thấy.
 
 Phật bảo A Nan:
 
-- Theo lời ngươi đáp, Như Lai co ngón tay thành nắm tay sáng ngời, chói tâm mắt của ngươi, vậy lúc nắm tay ta chói rọi, mắt ngươi thấy được, lấy gì làm tâm?
+> Theo lời ngươi đáp, Như Lai co ngón tay thành nắm tay sáng ngời, chói tâm mắt của ngươi, vậy lúc nắm tay ta chói rọi, mắt ngươi thấy được, lấy gì làm tâm?
 
 A Nan đáp:
 
@@ -284,7 +353,7 @@ A Nan đáp:
 
 Phật bảo:
 
-- Sai rồi, A Nan! Cái ấy chẳng phải tâm ngươi.
+> Sai rồi, A Nan! Cái ấy chẳng phải tâm ngươi.
 
 A Nan giật mình đứng dậy, chắp tay bạch Phật rằng:
 
@@ -292,31 +361,42 @@ A Nan giật mình đứng dậy, chắp tay bạch Phật rằng:
 
 Phật bảo A Nan:
 
-- Ấy là tướng vọng tưởng của tiền trần, mê hoặc chơn tánh của ngươi. Do ngươi xưa nay nhận giặc làm con, lạc mất bản thức chơn thường, nên bị luân chuyển.
+> Ấy là tướng vọng tưởng của tiền trần, mê hoặc chơn tánh của ngươi. Do ngươi xưa nay nhận giặc làm con, lạc mất bản thức chơn thường, nên bị luân chuyển.
 
-- Bạch Thế Tôn! Con là em cưng của Phật, vì mến Phật nên xuất gia. Tâm con chẳng những cúng dường Như Lai, mà còn muốn trải khắp hằng sa quốc độ, phụng sự chư Phật và thiện tri thức, phát tâm dũng mãnh, làm những Phật sự khó làm, đều dùng tâm này; dẫu cho báng pháp, bỏ hẳn thiện căn cũng vì tâm này. Nếu Thế Tôn phát minh cái ấy chẳng phải tâm, vậy con thành không có tâm, đồng như đất gỗ, lìa giác tri này chẳng còn gì cả, sao Như Lai nói cái ấy chẳng phải tâm? Con thật kinh sợ, và cả đại chúng đều chẳng khỏi nghi hoặc, kính mong Thế Tôn rủõ lòng từ bi, khai thị cho kẻ chưa ngộ.
+A Nan bạch Phật:
+
+- Bạch Thế Tôn! Con là em cưng của Phật, vì mến Phật nên xuất gia. 
+Tâm con chẳng những cúng dường Như Lai, mà còn muốn trải khắp hằng sa quốc độ, phụng sự chư Phật và thiện tri thức, phát tâm dũng mãnh, làm những Phật sự khó làm, đều dùng tâm này; dẫu cho báng pháp, bỏ hẳn thiện căn cũng vì tâm này. 
+Nếu Thế Tôn phát minh cái ấy chẳng phải tâm, vậy con thành không có tâm, đồng như đất gỗ, lìa giác tri này chẳng còn gì cả, sao Như Lai nói cái ấy chẳng phải tâm? 
+Con thật kinh sợ, và cả đại chúng đều chẳng khỏi nghi hoặc, kính mong Thế Tôn rủõ lòng từ bi, khai thị cho kẻ chưa ngộ.
 
 Bấy giờ, Thế Tôn muốn cho A Nan và đại chúng đều được chứng nhập vô sanh pháp nhẫn, nơi tòa sư tử, xoa đầu A Nan khai thị rằng:
 
-- Như Lai thường nói: Chư pháp sở sanh, duy tâm sở hiện. Tất cả nhân quả, thế giới vi trần đều do tâm này mới thành có thể tánh. A Nan, tất cả sự vật trên thế gian, cho đến cỏ, lá, chỉ mành, cứu xét cội gốc đều có thể tánh, dẫu cho hư không cũng có danh hiệu, huống là cái tánh trong sạch sáng tỏ của tất cả tâm lại chẳng có tự thể ư? Nếu ngươi chấp thật cái tánh giác tri phân biệt cho là tâm, thì tâm này lìa tất cả sự vật lục trần phải riêng có tự thể (chẳng theo cảnh trần sanh diệt). Như ngươi hiện nay đang nghe thuyết pháp, là do âm thanh nên có phân biệt; dẫu cho diệt hết tất cả kiến, văn, giác, tri, trong giữ u nhàn, cũng còn là bóng phân biệt của pháp trần.
+> Như Lai thường nói: Chư pháp sở sanh, duy tâm sở hiện. Tất cả nhân quả, thế giới vi trần đều do tâm này mới thành có thể tánh. 
+> 
+> A Nan, tất cả sự vật trên thế gian, cho đến cỏ, lá, chỉ mành, cứu xét cội gốc đều có thể tánh, dẫu cho hư không cũng có danh hiệu, huống là cái tánh trong sạch sáng tỏ của tất cả tâm lại chẳng có tự thể ư?
+> 
+> Nếu ngươi chấp thật cái tánh giác tri phân biệt cho là tâm, thì tâm này lìa tất cả sự vật lục trần phải riêng có tự thể (chẳng theo cảnh trần sanh diệt). 
+> 
+> Như ngươi hiện nay đang nghe thuyết pháp, là do âm thanh nên có phân biệt; dẫu cho diệt hết tất cả kiến, văn, giác, tri, trong giữ u nhàn, cũng còn là bóng phân biệt của pháp trần.
 
-- Ta chẳng bảo ngươi chấp thật phi tâm, nhưng ngươi hãy xét kỹ nơi tâm: nếu lìa tiền trần mà có tự thể của tánh phân biệt, tức là chơn tâm của ngươi. Nếu tánh phân biệt lìa trần chẳng có tự thể, ấy là bóng phân biệt của tiền trần. Trần chẳng thường trụ, khi biến diệt thì tâm này đồng như lông rùa, sừng thỏ, vậy pháp thân của ngươi thành ra đoạn diệt, còn ai tu chứng vô sanh pháp nhẫn? (Cảnh trần có hai loại: đối với ngũ căn gọi là tiền trần, đối với ý căn gọi là pháp trần).
+- Ta chẳng bảo ngươi chấp thật phi tâm, nhưng ngươi hãy xét kỹ nơi tâm: nếu lìa tiền trần mà có tự thể của tánh phân biệt, tức là chơn tâm của ngươi. Nếu tánh phân biệt lìa trần chẳng có tự thể, ấy là bóng phân biệt của tiền trần. 
+Trần chẳng thường trụ, khi biến diệt thì tâm này đồng như lông rùa, sừng thỏ, vậy pháp thân của ngươi thành ra đoạn diệt, còn ai tu chứng vô sanh pháp nhẫn? (Cảnh trần có hai loại: đối với ngũ căn gọi là tiền trần, đối với ý căn gọi là pháp trần).
 
 Tức thời, A Nan cùng đại chúng im lặng ngơ ngác, chẳng còn lý lẽ gì để nói nữa.
 
 Phật bảo A Nan:
 
-- Tất cả người tu học trên thế gian, vì chưa dứt sạch tập khí phiền não, dù đã tu đến chín bậc thiền định, chẳng thành quả A La Hán, đều do chấp trước sanh tử vọng tưởng, cho là chơn thật, nên ngươi dẫu được học rộng nghe nhiều, chẳng chứng thánh quả.
+> Tất cả người tu học trên thế gian, vì chưa dứt sạch tập khí phiền não, dù đã tu đến chín bậc thiền định, chẳng thành quả A La Hán, đều do chấp trước sanh tử vọng tưởng, cho là chơn thật, nên ngươi dẫu được học rộng nghe nhiều, chẳng chứng thánh quả.
 
 A Nan nghe rồi, lại đau xót rơi lệ, năm vóc gieo sát đất, quỳ gối chắp tay bạch Phật rằng:
 
 - Từ khi con phát tâm xuất gia, ỷ cậy oai thần của Phật, thường nghĩ rằng chẳng nhọc tự tu, cho rằng Như Lai sẽ ban cho tam muội, không biết thân tâm vốn chẳng thể thay thế nhau được, nên lạc mất bản tâm; thân dù xuất gia, tâm chẳng nhập đạo, như đứa con nghèo bỏ cha chạy trốn. Đến nay mới biết, dẫu cho học rộng nghe nhiều, nếu chẳng tu hành [^5] thì khác gì người chẳng nghe! Cũng như nói ăn mà không ăn thì làm sao được no!
-
 - Thế Tôn, hiện nay chúng con bị hai chướng ràng buộc (phiền não chướng và sở tri chướng), vì chẳng biết tự tánh thường tịch, mong Như Lai thương xót kẻ khốn cùng, khai phát diệu tâm, sáng tỏ đạo nhãn cho chúng con.
 
 Lúc ấy, Như Lai từ chữ vạn trước ngực phóng ra hào quang, rực rỡ trăm ngàn màu sắc, đồng thời chiếu khắp mười phương vô số quốc độ Phật, soi khắp đỉnh đầu tất cả Như Lai trong mười phương bửu sát, rồi xoay về soi cả đầu A Nan cùng đại chúng, bảo A Nan rằng:
 
-- Nay ta vì ngươi dựng đại pháp tràng, khiến mười phương chúng sanh đều được diệu tâm sáng tỏ, pháp nhãn thanh tịnh. A Nan, trước ngươi trả lời thấy nắm tay chói sáng, vậy cái nắm tay này do đâu mà có? Làm sao thành nắm tay? Ngươi lấy gì để thấy?
+> Nay ta vì ngươi dựng đại pháp tràng, khiến mười phương chúng sanh đều được diệu tâm sáng tỏ, pháp nhãn thanh tịnh. A Nan, trước ngươi trả lời thấy nắm tay chói sáng, vậy cái nắm tay này do đâu mà có? Làm sao thành nắm tay? Ngươi lấy gì để thấy?
 
 A Nan đáp:
 
@@ -324,41 +404,50 @@ A Nan đáp:
 
 Phật bảo A Nan:
 
-- Hôm nay ta nói thật cho nghe: Những người có trí cũng phải nhờ thí dụ mới được khai ngộ. A Nan, ví như tay của ta, nếu chẳng có cánh tay thì chẳng thành nắm tay của ta, nếu chẳng có con mắt ngươi thì chẳng thành sự thấy của ngươi. Vậy lấy nhãn căn của ngươi so với nắm tay của ta, hai nghĩa giống nhau chăng?
+> Hôm nay ta nói thật cho nghe: Những người có trí cũng phải nhờ thí dụ mới được khai ngộ. A Nan, ví như tay của ta, nếu chẳng có cánh tay thì chẳng thành nắm tay của ta, nếu chẳng có con mắt ngươi thì chẳng thành sự thấy của ngươi. Vậy lấy nhãn căn của ngươi so với nắm tay của ta, hai nghĩa giống nhau chăng?
+
+A Nan đáp:
 
 - Bạch Thế Tôn! Vâng giống. Nếu chẳng có con mắt thì chẳng thành sự thấy của con, vậy đem nhãn căn của con so với nắm tay của Như Lai, hai nghĩa giống nhau.
 
 Phật bảo A Nan:
 
-- Ngươi nói giống nhau, nghĩa này chẳng đúng. Tại sao? Như người không có cánh tay thì tuyệt nhiên chẳng có nắm tay, nhưng người không có mắt thì chẳng phải không thấy. Vì sao? Ngươi thử hỏi người mù có thấy gì chăng? Người ấy ắt sẽ trả lời: "Nay trước mắt tôi chỉ thấy tối đen, chẳng còn thấy gì khác". Xét theo nghĩa này thì tiền trần tự tối, sự thấy đâu có giảm bớt!
+> Ngươi nói giống nhau, nghĩa này chẳng đúng. Tại sao? Như người không có cánh tay thì tuyệt nhiên chẳng có nắm tay, nhưng người không có mắt thì chẳng phải không thấy. Vì sao? Ngươi thử hỏi người mù có thấy gì chăng? Người ấy ắt sẽ trả lời: "Nay trước mắt tôi chỉ thấy tối đen, chẳng còn thấy gì khác". Xét theo nghĩa này thì tiền trần tự tối, sự thấy đâu có giảm bớt!
 
-A Nan nói:
+A Nan hỏi:
 
 - Những người mù trước mắt chỉ thấy tối đen, sao gọi là thấy?
 
 Phật bảo A Nan:
 
-- Người mù không có mắt, chỉ thấy tối đen, so với người có mắt ở trong phòng tối, cũng chỉ thấy tối đen, hai thứ tối đen ấy có khác hay chẳng khác?
+> Người mù không có mắt, chỉ thấy tối đen, so với người có mắt ở trong phòng tối, cũng chỉ thấy tối đen, hai thứ tối đen ấy có khác hay chẳng khác?
+
+A Nan đáp:
 
 - Bạch Thế Tôn! Thật chẳng có khác.
 
-- A Nan, nếu người không có mắt, thấy toàn tối đen, bỗng được mắt sáng, liền thấy các sắc tướng trước mắt, gọi là "mắt thấy", người ở trong phòng tối cũng toàn thấy tối đen, bỗng được đèn sáng, cũng thấy các sắc tướng trước mắt, thì phải gọi là "đèn thấy". Nếu đèn có thấy thì chẳng được gọi là đèn, lại đèn thấy thì có dính dáng gì đến ngươi? Vậy biết, đèn chỉ có tác dụng hiển hiện sắc tướng, sự thấy là mắt, chẳng phải đèn; mắt chỉ có tác dụng hiển hiện sắc tướng, sự thấy là tâm, chẳng phải mắt.
+Phật bảo A Nan:
+
+> A Nan, nếu người không có mắt, thấy toàn tối đen, bỗng được mắt sáng, liền thấy các sắc tướng trước mắt, gọi là "mắt thấy", người ở trong phòng tối cũng toàn thấy tối đen, bỗng được đèn sáng, cũng thấy các sắc tướng trước mắt, thì phải gọi là "đèn thấy". Nếu đèn có thấy thì chẳng được gọi là đèn, lại đèn thấy thì có dính dáng gì đến ngươi? Vậy biết, đèn chỉ có tác dụng hiển hiện sắc tướng, sự thấy là mắt, chẳng phải đèn; mắt chỉ có tác dụng hiển hiện sắc tướng, sự thấy là tâm, chẳng phải mắt.
 
 A Nan và đại chúng dù nghe lời Phật nói vậy, miệng tuy im lặng, nhưng tâm vẫn chưa ngộ, mong được giảng rõ thêm, nên thành tâm chắp tay, đợi Phật dạy bảo.
 
 Bấy giờ, Thế Tôn duỗi cánh tay sáng ngời, mở năm ngón tay, bảo A Nan và đại chúng:
 
-- Lúc ta mới thành đạo nơi Lộc Viên, có nói với năm vị Tỳ Kheo và tứ chúng rằng: Tất cả chúng sanh chẳng thành Bồ-Đề và chứng quả A La Hán, đều tại lầm theo phiền não khách trần. Lúc đó, các ngươi do đâu được khai ngộ, nay chứng thánh quả?
+> Lúc ta mới thành đạo nơi Lộc Viên, có nói với năm vị Tỳ Kheo và tứ chúng rằng: Tất cả chúng sanh chẳng thành Bồ-Đề và chứng quả A La Hán, đều tại lầm theo phiền não khách trần. Lúc đó, các ngươi do đâu được khai ngộ, nay chứng thánh quả?
 
 Khi ấy, Kiều Trần Như đứng dậy bạch Phật:
 
-- Con là bậc trưởng lão trong chúng được gọi là hiểu rộng biết nhiều, vì ngộ hai chữ Khách Trần nên được chứng quả. Thế Tôn, ví như người đi đường vào nghỉ ở khách sạn, ăn ngủ xong rồi lên đường đi tiếp, chẳng thể ở lại, còn người chủ thì cư trú tại đó, chẳng cần đi đâu. Vậy chẳng trụ là khách, trụ gọi là chủ, nên lấy sự "chẳng trụ" làm nghĩa chữ Khách.
-
-- Cũng như mưa mới tạnh, ánh sáng mặt trời rọi qua kẽ hở, thấy rõ tướng bụi trần lăng xăng nơi hư không. Trần thì lay động. Hư không tịch nhiên. Vậy tịch lặng gọi là không, lay động gọi là trần, nên lấy sự "lay động" làm nghĩa chữ Trần.
+- Con là bậc trưởng lão trong chúng được gọi là hiểu rộng biết nhiều, vì ngộ hai chữ Khách Trần nên được chứng quả. 
+Thế Tôn, ví như người đi đường vào nghỉ ở khách sạn, ăn ngủ xong rồi lên đường đi tiếp, chẳng thể ở lại, còn người chủ thì cư trú tại đó, chẳng cần đi đâu. 
+Vậy chẳng trụ là khách, trụ gọi là chủ, nên lấy sự "chẳng trụ" làm nghĩa chữ Khách.
+Cũng như mưa mới tạnh, ánh sáng mặt trời rọi qua kẽ hở, thấy rõ tướng bụi trần lăng xăng nơi hư không. 
+Trần thì lay động. Hư không tịch nhiên. 
+Vậy tịch lặng gọi là không, lay động gọi là trần, nên lấy sự "lay động" làm nghĩa chữ Trần.
 
 Phật nói:
 
-- Đúng thế!
+> Đúng thế!
 
 Tức thời Như Lai ở trong đại chúng co năm ngón tay, nắm rồi lại mở, mở rồi lại nắm, hỏi A Nan:
 
@@ -370,7 +459,7 @@ A Nan đáp:
 
 Phật bảo A Nan:
 
-- Ngươi thấy tay ta mở nắm, là tay ta có mở có nắm, hay cái thấy của ngươi có mở có nắm?
+> Ngươi thấy tay ta mở nắm, là tay ta có mở có nắm, hay cái thấy của ngươi có mở có nắm?
 
 A Nan đáp:
 
@@ -386,27 +475,33 @@ A Nan đáp:
 
 Phật nói:
 
-- Đúng thế!
+> Đúng thế!
 
 Liền đó, Như Lai từ trong bàn tay phóng ra một tia hào quang rọi bên phải A Nan. A Nan liền quay đầu nhìn bên phải, Phật lại phóng một tia hào quang rọi bên trái A Nan, A Nan lại quay đầu nhìn bên trái, Phật bảo A Nan:
 
-- Đầu ngươi vì sao lại lay động?
+> Đầu ngươi vì sao lại lay động?
 
 A Nan đáp:
 
 - Con thấy Như Lai phóng hào quang đến hai bên cạnh con, nên theo đó nhìn qua nhìn lại, đầu tự lay động.
 
-- A Nan, ngươi nhìn theo hào quang lay động là đầu ngươi động hay cái thấy động?
+Phật nói:
+
+> A Nan, ngươi nhìn theo hào quang lay động là đầu ngươi động hay cái thấy động?
+
+A Nan đáp:
 
 - Bạch Thế Tôn! Đầu con tự động, tánh thấy của con ngưng còn chẳng có, nói gì lay động! (Bản kiến không đối đãi, động và chẳng động đều chẳng dính dáng).
 
 Phật nói:
 
-- Đúng thế!
+> Đúng thế!
 
 Do đó, Phật bảo đại chúng rằng:
 
-- Nếu chúng sanh cho "lay động" là trần, "chẳng trụ" là khách, các ngươi hãy xem, như A Nan đầu tự lay động mà tánh thấy chẳng động; lại tay ta tự mở nắm mà tánh thấy chẳng mở nắm. Vậy sao các ngươi hiện nay lại cho động là thân, cho động là cảnh, từ đầu đến cuối niệm niệm sanh diệt, lạc mất chơn tánh, hành theo điên đảo. Vì tâm tánh chẳng chơn, nhận vật làm mình, tự trôi lăn theo dòng sanh tử, cam chịu luân hồi.
+> Nếu chúng sanh cho "lay động" là trần, "chẳng trụ" là khách, các ngươi hãy xem, như A Nan đầu tự lay động mà tánh thấy chẳng động; lại tay ta tự mở nắm mà tánh thấy chẳng mở nắm. Vậy sao các ngươi hiện nay lại cho động là thân, cho động là cảnh, từ đầu đến cuối niệm niệm sanh diệt, lạc mất chơn tánh, hành theo điên đảo.
+> 
+> Vì tâm tánh chẳng chơn, nhận vật làm mình, tự trôi lăn theo dòng sanh tử, cam chịu luân hồi.
 
 ## QUYỂN I HẾT
 
@@ -422,37 +517,55 @@ Do đó, Phật bảo đại chúng rằng:
 
 [^5]: Theo đúng pháp môn thực hành, có tu có chứng, mới được gọi là tu hành.
 
-***
+<hr class="blog-rule" style="" />
 
 ## QUYỂN II
 
 Lúc bấy giờ, A Nan và đại chúng nghe lời Phật dạy, thân tâm thư thái, nghĩ mình từ vô thỉ đến nay, lạc mất bản tâm, lầm nhận bóng phân biệt của nhân duyên căn trần, hôm nay khai ngộ, như đứa bé khát sữa bỗng được gặp mẹ, chắp tay lễ Phật, mong được nghe Như Lai hiển bày chỗ chơn vọng hư thật của thân tâm, phát minh hai tánh sanh diệt và chẳng sanh diệt ngay trước mắt.
 
-Khi ấy, vua Ba Tư Nặc đứng dậy bạch Phật:
+Khi ấy, vua Ba Tư Nặc đứng lên bạch Phật:
 
-- Xưa kia con chưa được nghe lời dạy của Phật, thấy bọn ngoại đạo Ca Chiên Diên (chấp các pháp cũng có cũng không) và Tỳ La Chi Tử (chấp mãn kiếp tự nhiên đắc đạo), đều nói thân này sau khi chết đoạn diệt gọi là Niết Bàn. Nay dù gặp Phật nhưng vẫn còn hồ nghi, chẳng biết làm thế nào mới được chứng tỏ chỗ chẳng sanh diệt của tâm này, hiện nay hàng hữu lậu trong chúng đều mong cùng nghe.
+- Xưa kia con chưa được nghe lời dạy của Phật, thấy bọn ngoại đạo Ca Chiên Diên (chấp các pháp cũng có cũng không) và Tỳ La Chi Tử (chấp mãn kiếp tự nhiên đắc đạo), đều nói thân này sau khi chết đoạn diệt gọi là Niết Bàn. 
+Nay dù gặp Phật nhưng vẫn còn hồ nghi, chẳng biết làm thế nào mới được chứng tỏ chỗ chẳng sanh diệt của tâm này, hiện nay, hàng hữu lậu trong chúng đều mong cùng nghe.
 
-Phật nói với vua:
+Phật hỏi vua:
 
-- Thân ông ở đây, nay ta hỏi ông, cái nhục thân này là đồng như kim cang, thường trụ chẳng hoại hay có biến diệt?
+> Thân ông ở đây, nay ta hỏi ông, cái nhục thân này là đồng như kim cang, thường trụ chẳng hoại hay có *biến diệt*?
+
+Vua đáp:
+
+- Bạch Thế Tôn! Thân con rốt cuộc sẽ *phải biến diệt* ạ!
+
+Phật nói:
+
+> Ông chưa từng diệt, sao biết *phải diệt*?
+
+Vua đáp:
 
 - Bạch Thế Tôn! Cái thân vô thường biến hoại của con dù chưa từng diệt, nhưng con xét thấy trước mắt niệm niệm dời đổi, mãi mãi không thôi, dần dần tiêu mòn, như lửa thành tro, sự tiêu mòn chẳng ngừng, nên biết chắc chắn thân này rồi sẽ diệt mất.
 
 Phật nói:
 
-- Đúng thế, đại vương! Tuổi tác của ông nay đã già yếu, vậy mặt mày so với thuở nhỏ như thế nào?
+> Đúng thế, đại vương! Tuổi tác của ông nay đã già yếu, vậy mặt mày so với thuở nhỏ như thế nào?
+
+Vua đáp:
 
 - Bạch Thế Tôn! Xưa con còn nhỏ, da thịt mơn mởn, đến khi trưởng thành, khí huyết sung túc, nay thì tuổi già, ngày thêm suy yếu, hình sắc khô gầy, tinh thần mệt mỏi, tóc bạc mặt nhăn, sự sống chẳng còn bao lâu nữa, làm sao so bằng lúc trẻ mạnh!
 
 Phật nói:
 
-- Hình thể của ông đâu phải bỗng nhiên biến hoại!
+> Hình thể của ông đâu phải bỗng nhiên biến hoại!
 
-- Bạch Thế Tôn! Sự biến hóa âm thầm dời đổi, con thật chẳng hay, mùa đông mùa hạ thấm thoát trôi qua, dần dần đến thế này. Tại sao? Khi hai mươi tuổi, dù gọi là trẻ, nhưng mặt mày đã già hơn lúc lên mười, khi ba mươi tuổi lại sút hơn lúc hai mươi, đến nay đã sáu mươi hai, so với lúc năm mươi thì suy yếu hơn nhiều. Thế Tôn, con cảm thấy sự dời đổi âm thầm trôi chảy theo kỳ hạn mười năm, nhưng nếu suy xét tỉ mỉ thì cái biến đổi ấy đâu phải từng 10 năm! Thật ra thì mỗi năm mỗi đổi, cho đến mỗi tháng, mỗi ngày, mỗi giờ, trong mỗi sát na niệm niệm biến đổi chẳng ngừng, nên biết thân này chung quy biến diệt vậy.
+Vua đáp:
+
+- Bạch Thế Tôn! Sự biến hóa âm thầm dời đổi, con thật chẳng hay, mùa đông mùa hạ thấm thoát trôi qua, dần dần đến thế này. 
+Tại sao? Khi hai mươi tuổi, dù gọi là trẻ, nhưng mặt mày đã già hơn lúc lên mười, khi ba mươi tuổi lại sút hơn lúc hai mươi, đến nay đã sáu mươi hai, so với lúc năm mươi thì suy yếu hơn nhiều. 
+Thế Tôn, con cảm thấy sự dời đổi âm thầm trôi chảy theo kỳ hạn mười năm, nhưng nếu suy xét tỉ mỉ thì cái biến đổi ấy đâu phải từng 10 năm! 
+Thật ra thì mỗi năm mỗi đổi, cho đến mỗi tháng, mỗi ngày, mỗi giờ, trong mỗi sát na niệm niệm biến đổi chẳng ngừng, nên biết thân này chung quy biến diệt vậy.
 
 Phật nói:
 
-- Ông thấy biến hóa dời đổi chẳng ngừng, ngộ biết phải diệt. Vậy trong lúc diệt, ông còn biết trong thân có cái gì chẳng diệt chăng?
+> Ông thấy biến hóa dời đổi chẳng ngừng, ngộ biết phải diệt. Vậy trong lúc diệt, ông còn biết trong thân có cái gì chẳng diệt chăng?
 
 Vua Ba Tư Nặc chắp tay bạch Phật:
 
@@ -460,7 +573,7 @@ Vua Ba Tư Nặc chắp tay bạch Phật:
 
 Phật nói:
 
-- Nay ta chỉ cho ông cái tánh chẳng sanh diệt. Đại Vương, ông thấy nước sông Hằng hồi mấy tuổi?
+> Nay ta chỉ cho ông cái tánh chẳng sanh diệt. Đại Vương, ông thấy nước sông Hằng hồi mấy tuổi?
 
 Vua đáp:
 
@@ -468,7 +581,7 @@ Vua đáp:
 
 Phật nói:
 
-- Như lời ông nói, lúc hai mươi tuổi thì sút hơn lúc lên mười, cho đến sáu mươi niệm niệm dời đổi theo từng ngày giờ. Vậy khi ông ba tuổi thấy nước sông, rồi đến năm mười ba, thấy nước sông, tánh thấy như thế nào?
+> Như lời ông nói, lúc hai mươi tuổi thì sút hơn lúc lên mười, cho đến sáu mươi niệm niệm dời đổi theo từng ngày giờ. Vậy khi ông ba tuổi thấy nước sông, rồi đến năm mười ba, thấy nước sông, tánh thấy như thế nào?
 
 Vua đáp:
 
@@ -476,13 +589,15 @@ Vua đáp:
 
 Phật nói:
 
-- Nay ông tự than đã già, mặt ông chắc phải nhăn hơn lúc trẻ, vậy hiện nay thấy sông Hằng với lúc nhỏ thấy sông Hằng, cái tánh thấy có già trẻ gì chăng?
+> Nay ông tự than đã già, mặt ông chắc phải nhăn hơn lúc trẻ, vậy hiện nay thấy sông Hằng với lúc nhỏ thấy sông Hằng, cái tánh thấy có già trẻ gì chăng?
+
+Vua đáp:
 
 - Bạch Thế Tôn! Không ạ!
 
 Phật nói:
 
-- Mặt ông dù nhăn mà cái tánh của kiến tinh (năng thấy) chưa từng nhăn, có nhăn là biến, chẳng nhăn thì bất biến; biến ắt phải diệt, bất biến vốn chẳng sanh diệt. Vậy lấy gì để thọ nhận sanh tử cho ông? Mà còn đem tà thuyết của bọn Mạt Già Lê kia, cho là thân này sau khi chết đoạn diệt!
+> Mặt ông dù nhăn mà cái tánh của kiến tinh (năng thấy) chưa từng nhăn, có nhăn là biến, chẳng nhăn thì bất biến; biến ắt phải diệt, bất biến vốn chẳng sanh diệt. Vậy lấy gì để thọ nhận sanh tử cho ông? Mà còn đem tà thuyết của bọn Mạt Già Lê kia, cho là thân này sau khi chết đoạn diệt!
 
 Vua nghe Phật dạy, tin biết Bổn Kiến thật chẳng đoạn diệt, bỏ thân này sẽ được thân khác, nên cùng đại chúng vui mừng được pháp chưa từng có. Ngay đó, A Nan liền từ chỗ ngồi đứng dậy chắp tay đảnh lễ, quỳ gối bạch Phật:
 
@@ -490,7 +605,7 @@ Vua nghe Phật dạy, tin biết Bổn Kiến thật chẳng đoạn diệt, b�
 
 Tức thời, Như Lai duỗi cánh tay sắc vàng, ngón tay chỉ xuống, bảo với A Nan:
 
-- Nay ngươi thấy tay ta là chánh hay đảo?
+> Nay ngươi thấy tay ta là chánh hay đảo?
 
 A Nan đáp:
 
@@ -498,7 +613,7 @@ A Nan đáp:
 
 Phật bảo A Nan:
 
-- Nếu người thế gian cho đây là đảo thì lấy gì làm chánh?
+> Nếu người thế gian cho đây là đảo thì lấy gì làm chánh?
 
 A Nan đáp:
 
@@ -817,7 +932,7 @@ Lục nhập, thập nhị xứ, thập bát giới, cho đến thất đại �
 
 ## QUYỂN II HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN III
 
@@ -949,7 +1064,15 @@ Lục nhập, thập nhị xứ, thập bát giới, cho đến thất đại �
 
 ### LƯỢC GIẢI
 
-> Thập Bát Giới này chỉ phá lục thức, nên nói Thức này chẳng từ Nhãn ra để làm giới, vì thức chủ phân biệt, nếu chẳng có Sắc, Không thì chẳng thể phân biệt. Cũng chẳng từ Sắc ra để làm giới, vì sắc có biến diệt, thức chẳng biến đổi, nếu chỉ từ Sắc ra thì chẳng thể phân biệt hư không. Cũng chẳng từ Nhãn và Sắc cộng sanh làm giới, vì nhãn thì có biết, sắc thì vô tri, tri và vô tri hai cái đối nghịch, làm sao mà hợp? Nếu hợp thì từ đâu mà lập giới? Giới chính giữa đã chẳng có, nên nói Lìa Trung. Nếu nói lìa căn trần mà sanh thức, thì lìa căn phải hợp với trần, lìa trần phải hợp với căn, vậy thức thuộc bên nào? Nên nói thể tánh lẫn lộn, ba chỗ đều sai, giới làm sao an lập?
+> Thập Bát Giới này chỉ phá lục thức, nên nói Thức này chẳng từ Nhãn ra để làm giới, vì thức chủ phân biệt, nếu chẳng có Sắc, Không thì chẳng thể phân biệt.
+> 
+> Cũng chẳng từ Sắc ra để làm giới, vì sắc có biến diệt, thức chẳng biến đổi, nếu chỉ từ Sắc ra thì chẳng thể phân biệt hư không. 
+> 
+> Cũng chẳng từ Nhãn và Sắc cộng sanh làm giới, vì nhãn thì có biết, sắc thì vô tri, tri và vô tri hai cái đối nghịch, làm sao mà hợp? 
+> 
+> Nếu hợp thì từ đâu mà lập giới? 
+> Giới chính giữa đã chẳng có, nên nói Lìa Trung. Nếu nói lìa căn trần mà sanh thức, thì lìa căn phải hợp với trần, lìa trần phải hợp với căn, vậy thức thuộc bên nào? 
+> Nên nói thể tánh lẫn lộn, ba chỗ đều sai, giới làm sao an lập?
 
 ***
 
@@ -1219,7 +1342,7 @@ Dịch nghĩa:
 
 ## QUYỂN III HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN IV
 
@@ -1615,7 +1738,7 @@ Như người đang ngủ mê trên giường, trong nhà có người giã gạ
 
 ## QUYỂN IV HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN V
 
@@ -1965,7 +2088,7 @@ Di Lặc Bồ Tát liền đứng dậy, đảnh lễ bạch Phật:
 
 ## QUYỂN V HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN VI
 
@@ -2702,7 +2825,7 @@ Sự đốt tay, đốt liều là để tăng cường lòng chánh tín, quên
 
 ## QUYỂN VI HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN VII
 
@@ -2962,7 +3085,7 @@ Phật bảo:
 
 ## QUYỂN VII HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN VIII
 
@@ -3351,7 +3474,7 @@ Nếu chẳng tu tam muội, khi phước báo hết, phải trở lại trong l
 
 ## QUYỂN VIII HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN IX
 
@@ -3571,7 +3694,7 @@ Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lư�
 
 ## QUYỂN IX HẾT
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN X
 
@@ -3581,57 +3704,57 @@ Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lư�
 
 1. A Nan nên biết! Trong lúc thiền định, khi được chánh tri, chánh tâm sáng suốt, mười loại thiên ma chẳng còn được dịp quấy phá, mới được truy cứu cùng tột cội gốc sanh diệt của các loài. Quán xét cái cội gốc đó mà khởi tâm so đo, thì người ấy bị đọa vào hai loại Vô Nhân Luận:
 
-a. Thấy sự bắt đầu vô nhân. Tại sao vậy? Người ấy đã dứt được tưởng sanh diệt, nhờ 800 công đức của Nhãn căn, thấy được tất cả chúng sanh từ 8 vạn kiếp, theo nghiệp xoay vòng, chết đây sống đó, luân chuyển không ngừng, còn ngoài 8 vạn kiếp thì mịt mù chẳng thể thấy được, bèn cho là từ 8 vạn kiếp đến nay, mười phương chúng sanh trên thế giới vô nhân mà tự có. Do so đo này, tự làm mất chánh biến tri, lạc vào ngoại đạo, mê lầm tánh Bồ Đề.
+🔸 Thấy sự bắt đầu vô nhân. Tại sao vậy? Người ấy đã dứt được tưởng sanh diệt, nhờ 800 công đức của Nhãn căn, thấy được tất cả chúng sanh từ 8 vạn kiếp, theo nghiệp xoay vòng, chết đây sống đó, luân chuyển không ngừng, còn ngoài 8 vạn kiếp thì mịt mù chẳng thể thấy được, bèn cho là từ 8 vạn kiếp đến nay, mười phương chúng sanh trên thế giới vô nhân mà tự có. Do so đo này, tự làm mất chánh biến tri, lạc vào ngoại đạo, mê lầm tánh Bồ Đề.
 
-b. Thấy sự cuối cùng vô nhân. Tại sao vậy? Người ấy đã biết được căn bản của sự sanh, như người sanh người, chim sanh chim, xưa nay con quạ vẫn đen, con cò vẫn trắng, trời người vẫn đứng thẳng, thú vật vẫn đứng ngang, trắng chẳng do tẩy mà thành, đen chẳng do nhuộm mà nên, từ 8 vạn kiếp nay vẫn không dời đổi, nay đến tận hết hình thể này cũng vẫn như thế. Bổn lai của ta chẳng thấy Bồ Đề thì làm sao lại có sự tu thành Bồ Đề! Vì mê lầm cho tất cả sự vật đều vốn vô nhân, do so đo này, tự làm mất chánh biến tri, lạc vào ngoại đạo, mê lầm tánh Bồ Đề.
+🔸 Thấy sự cuối cùng vô nhân. Tại sao vậy? Người ấy đã biết được căn bản của sự sanh, như người sanh người, chim sanh chim, xưa nay con quạ vẫn đen, con cò vẫn trắng, trời người vẫn đứng thẳng, thú vật vẫn đứng ngang, trắng chẳng do tẩy mà thành, đen chẳng do nhuộm mà nên, từ 8 vạn kiếp nay vẫn không dời đổi, nay đến tận hết hình thể này cũng vẫn như thế. Bổn lai của ta chẳng thấy Bồ Đề thì làm sao lại có sự tu thành Bồ Đề! Vì mê lầm cho tất cả sự vật đều vốn vô nhân, do so đo này, tự làm mất chánh biến tri, lạc vào ngoại đạo, mê lầm tánh Bồ Đề.
 
 - Ấy gọi là ngoại đạo thứ nhất lập Vô Nhân Luận.
 
 2. Trong lúc thiền định, chánh tâm sáng suốt, ma chẳng được dịp quấy phá, quán xét cùng tột cội gốc của sanh diệt, thấy luôn luôn như vậy chẳng biến đổi, ngay nơi đó khởi tâm so đo, chấp đó là thường, thì người ấy bị đọa vào bốn thứ Chấp Thường Luận:
 
-a. Người ấy xét thấy cùng tột bản tánh của tâm và cảnh, hai nơi đều không có nhân, do tu tập biết được tất cả sự sanh diệt của mười phương chúng sanh, từ hai vạn kiếp đến nay vẫn lưu chuyển không hề tan mất, bèn chấp cho là thường.
+🔸 Người ấy xét thấy cùng tột bản tánh của tâm và cảnh, hai nơi đều không có nhân, do tu tập biết được tất cả sự sanh diệt của mười phương chúng sanh, từ hai vạn kiếp đến nay vẫn lưu chuyển không hề tan mất, bèn chấp cho là thường.
 
-b. Người ấy xét cùng tột cội gốc của tứ đại, bốn thứ tánh ấy thường trụ, do tu tập biết được tất cả. Sự sanh diệt của mười phương chúng sanh, từ bốn vạn kiếp đến nay cái thể vẫn thường còn, không hề tan mất, bèn chấp cho là thường.
+🔸 Người ấy xét cùng tột cội gốc của tứ đại, bốn thứ tánh ấy thường trụ, do tu tập biết được tất cả. Sự sanh diệt của mười phương chúng sanh, từ bốn vạn kiếp đến nay cái thể vẫn thường còn, không hề tan mất, bèn chấp cho là thường.
 
-c. Người ấy xét cùng tột cội gốc của lục căn, theo tánh chấp thụ của thức thứ bẩy, trong tâm-ý-thức, chỗ nguồn gốc căn bản, tánh thường như vậy. Do tu tập biết được tất cả chúng sanh từ tám vạn kiếp này, dù có luân hồi, vốn là thường trụ, cuối cùng chẳng mất bản tánh, nên chấp cho là thường.
+🔸 Người ấy xét cùng tột cội gốc của lục căn, theo tánh chấp thụ của thức thứ bẩy, trong tâm-ý-thức, chỗ nguồn gốc căn bản, tánh thường như vậy. Do tu tập biết được tất cả chúng sanh từ tám vạn kiếp này, dù có luân hồi, vốn là thường trụ, cuối cùng chẳng mất bản tánh, nên chấp cho là thường.
 
-d. Người ấy đã dứt được tưởng ấm chẳng còn cái tưởng sanh diệt cho là tâm sanh diệt, nay đã vĩnh diệt, tự nhiên thành chẳng sanh diệt, vì tâm so đo nên chấp cho là thường.
+🔸 Người ấy đã dứt được tưởng ấm chẳng còn cái tưởng sanh diệt cho là tâm sanh diệt, nay đã vĩnh diệt, tự nhiên thành chẳng sanh diệt, vì tâm so đo nên chấp cho là thường.
 
 - Do so đo này, tự làm mất chánh biến tri, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ hai lập Viên Thường Luận.
 
 3. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá, quán xét cùng tột cội gốc của sanh diệt, khởi tâm so đo giữa ta và người, người ấy bị đọa vào bốn thứ kiến chấp điên đảo, một phần vô thường, một phần chấp thường luận:
 
-a. Người ấy quán tâm diệu minh khắp cõi mười phương cho là thần ngã chơn thật, từ đó sanh chấp, cho ta cùng khắp mười phương, trạm nhiên sáng suốt chẳng động, tất cả chúng sanh ở nơi tâm ta tự sanh tự diệt, vậy thì tâm tánh ta là thường, còn sự sanh diệt ấy là chơn vô thường.
+🔸 Người ấy quán tâm diệu minh khắp cõi mười phương cho là thần ngã chơn thật, từ đó sanh chấp, cho ta cùng khắp mười phương, trạm nhiên sáng suốt chẳng động, tất cả chúng sanh ở nơi tâm ta tự sanh tự diệt, vậy thì tâm tánh ta là thường, còn sự sanh diệt ấy là chơn vô thường.
 
-b. Người ấy chẳng quán tự tâm mà quán khắp mười phương hằng sa quốc độ, thấy chỗ kiếp hoại (từ cõi tam thiền trở xuống) thì gọi là chủng tánh chơn vô thường, còn chỗ kiếp chẳng hoại được (từ cõi tứ thiền trở lên, kiếp hoại chẳng đến được) thì gọi là chơn thường.
+🔸 Người ấy chẳng quán tự tâm mà quán khắp mười phương hằng sa quốc độ, thấy chỗ kiếp hoại (từ cõi tam thiền trở xuống) thì gọi là chủng tánh chơn vô thường, còn chỗ kiếp chẳng hoại được (từ cõi tứ thiền trở lên, kiếp hoại chẳng đến được) thì gọi là chơn thường.
 
-c. Người ấy chỉ quán riêng tâm mình, thấy tinh mật vi tế như vi trần, lưu chuyển mười phương, khiến thân này liền sanh liền diệt mà tâm tánh chẳng dời đổi, ngã tánh chẳng hoại, gọi ta là tánh thường, sanh tử của tất cả chúng sanh từ ta mà ra thì gọi là tánh vô thường.
+🔸 Người ấy chỉ quán riêng tâm mình, thấy tinh mật vi tế như vi trần, lưu chuyển mười phương, khiến thân này liền sanh liền diệt mà tâm tánh chẳng dời đổi, ngã tánh chẳng hoại, gọi ta là tánh thường, sanh tử của tất cả chúng sanh từ ta mà ra thì gọi là tánh vô thường.
 
-d. Người ấy đã dứt được Tưởng Ấm, thấy hành ấm lưu chuyển thường xuyên, gọi là tánh thường: sắc, thọ, tưởng ba ấm nay đã diệt hết thì gọi là vô thường.
+🔸 Người ấy đã dứt được Tưởng Ấm, thấy hành ấm lưu chuyển thường xuyên, gọi là tánh thường: sắc, thọ, tưởng ba ấm nay đã diệt hết thì gọi là vô thường.
 
 - Do so đo này, một phần vô thường, một phần là thường, nên bị lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ ba lập Một Phần Thường Luận.
 
 4. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá, quán xét cùng tột cội gốc của sanh diệt, trong phân vị [^21] khởi tâm so đo, người ấy bị đọa vào bốn thứ Hữu Biên Luận:
 
-a. Người ấy trong tâm so đo cái gốc sanh lưu chuyển chẳng ngừng, chấp quá khứ vị lai gọi là hữu biên, chấp tâm tương tục gọi là vô biên.
+🔸 Người ấy trong tâm so đo cái gốc sanh lưu chuyển chẳng ngừng, chấp quá khứ vị lai gọi là hữu biên, chấp tâm tương tục gọi là vô biên.
 
-b. Người ấy quán từ tám vạn kiếp đến nay thì thấy có chúng sanh, từ tám vạn kiếp trở về trước thì chẳng thấy chẳng nghe, bèn cho chỗ chẳng thể thấy nghe ấy gọi là vô biên, chỗ có chúng sanh gọi là hữu biên.
+🔸 Người ấy quán từ tám vạn kiếp đến nay thì thấy có chúng sanh, từ tám vạn kiếp trở về trước thì chẳng thấy chẳng nghe, bèn cho chỗ chẳng thể thấy nghe ấy gọi là vô biên, chỗ có chúng sanh gọi là hữu biên.
 
-c. Người ấy chấp rằng ta biết cùng khắp, được tánh vô biên; tất cả mọi người đang trong cái hay biết của ta, mà ta chẳng từng biết cái tánh biết của họ, ấy gọi là họ chẳng được cái tâm vô biên, chỉ được tánh hữu biên thôi.
+🔸 Người ấy chấp rằng ta biết cùng khắp, được tánh vô biên; tất cả mọi người đang trong cái hay biết của ta, mà ta chẳng từng biết cái tánh biết của họ, ấy gọi là họ chẳng được cái tâm vô biên, chỉ được tánh hữu biên thôi.
 
-d. Người ấy quán đến cùng tột Hành Ấm rỗng không, so đo trong tâm cái sở thấy của mình, cho là ở trong một thân của tất cả chúng sanh đều là phân nửa sanh phân nửa diệt, cho đến tất cả hiện hữu trong thế giới này cũng đều phân nửa hữu biên, phân nửa vô biên.
+🔸 Người ấy quán đến cùng tột Hành Ấm rỗng không, so đo trong tâm cái sở thấy của mình, cho là ở trong một thân của tất cả chúng sanh đều là phân nửa sanh phân nửa diệt, cho đến tất cả hiện hữu trong thế giới này cũng đều phân nửa hữu biên, phân nửa vô biên.
 
 - Do so đo này, hữu biên vô biên, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ tư lập Hữu Biên Luận.
 
 5. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá, quán xét cùng tột cội gốc của sanh diệt, ở nơi tri kiến khởi tâm so đo, người ấy bị đọa vào bốn thứ: điên đảo, bất tử, càn loạn, biến kế hư luận:
 
-a. Người ấy quán xét cội gốc của sự biến hóa thấy chỗ lưu chuyển thì gọi là biến, thấy chỗ nối nhau thì gọi là thường, thấy chỗ thấy được thì gọi là sanh, thấy chỗ chẳng thấy được thì gọi là diệt, cái nhân nối nhau chẳng gián đoạn thì gọi là thêm, khi đang nối nhau, ở giữa có chỗ gián đoạn thì gọi là bớt, chỗ sanh của mọi vật thì gọi là hữu, chỗ diệt của mọi vật thì gọi là vô; dùng lý quán xét thì thấy đồng, dùng tâm thì thấy khác. Có người đến cầu pháp hỏi nghĩa thì đáp: "ta nay cũng sanh cũng diệt, cũng có cũng không, cũng thêm cũng bớt", bất cứ lúc nào đều nói đảo loạn như thế, khiến người nghe rồi cũng như không nghe.
+🔸 Người ấy quán xét cội gốc của sự biến hóa thấy chỗ lưu chuyển thì gọi là biến, thấy chỗ nối nhau thì gọi là thường, thấy chỗ thấy được thì gọi là sanh, thấy chỗ chẳng thấy được thì gọi là diệt, cái nhân nối nhau chẳng gián đoạn thì gọi là thêm, khi đang nối nhau, ở giữa có chỗ gián đoạn thì gọi là bớt, chỗ sanh của mọi vật thì gọi là hữu, chỗ diệt của mọi vật thì gọi là vô; dùng lý quán xét thì thấy đồng, dùng tâm thì thấy khác. Có người đến cầu pháp hỏi nghĩa thì đáp: "ta nay cũng sanh cũng diệt, cũng có cũng không, cũng thêm cũng bớt", bất cứ lúc nào đều nói đảo loạn như thế, khiến người nghe rồi cũng như không nghe.
 
-b. Người ấy quán xét tâm họ đến chỗ Vô, vì vậy nên chẳng có chứng đắc, hễ có người đến hỏi chỉ đáp một chữ "Vô", ngoài ra không nói gì cả.
+🔸 Người ấy quán xét tâm họ đến chỗ Vô, vì vậy nên chẳng có chứng đắc, hễ có người đến hỏi chỉ đáp một chữ "Vô", ngoài ra không nói gì cả.
 
-c. Người ấy quán xét tâm họ đến chỗ Hữu, vì vậy mà có sự chứng đắc, hễ có người đến hỏi thì chỉ đáp một chữ "Hữu", ngoài ra không nói gì cả.
+🔸 Người ấy quán xét tâm họ đến chỗ Hữu, vì vậy mà có sự chứng đắc, hễ có người đến hỏi thì chỉ đáp một chữ "Hữu", ngoài ra không nói gì cả.
 
-d. Người ấy hữu vô cùng thấy, do cảnh rời rạc nên tâm cũng bị rối loạn, hễ có người đến hỏi thì đáp: "Cũng có tức là cũng không, ở trong cũng không, chẳng phải cũng có". Tất cả càn loạn, chẳng thể hỏi ra kết quả.
+🔸 Người ấy hữu vô cùng thấy, do cảnh rời rạc nên tâm cũng bị rối loạn, hễ có người đến hỏi thì đáp: "Cũng có tức là cũng không, ở trong cũng không, chẳng phải cũng có". Tất cả càn loạn, chẳng thể hỏi ra kết quả.
 
 - Do so đo này, hư vô càn loạn, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, đây gọi là ngoại đạo thứ năm chấp bốn thứ Điên Đảo, Bất Tử, Càn Loạn, Biến Kế Hư Luận.
 
@@ -3687,41 +3810,43 @@ A Nan nghe Phật dạy bảo, liền từ chỗ ngồi đứng dậy, đảnh l
 
 Phật bảo A Nan:
 
-- Diệu tâm sáng tỏ, bổn giác trong sạch, vốn chẳng có sanh tử và những trần cấu, tất cả chúng sanh, cho đến hư không, đều do vọng tưởng mà sanh khởi. Cái bổn giác vốn sáng tỏ trong sạch này, vọng sanh các tướng thế gian, như Diễn Nhã Đạt Đa mê đầu nhận bóng. Vọng vốn chẳng nhân, lại nơi vọng tưởng lập tánh nhân duyên, kẻ mê nhân duyên cho là tự nhiên, thật ra, tánh hư không còn là huyễn hóa, nhân duyên và tự nhiên đều do vọng tâm của chúng sanh tạo thành. - A Nan, biết chỗ vọng khởi, thì nói vọng duyên, nếu vọng vốn không, thì các vọng nhân duyên vốn chẳng thể có, huống là chẳng biết lại cho là tự nhiên. Vì thế, Như Lai phát minh: Bản nhân của ngũ ấm đều là vọng tưởng.
+> Diệu tâm sáng tỏ, bổn giác trong sạch, vốn chẳng có sanh tử và những trần cấu, tất cả chúng sanh, cho đến hư không, đều do vọng tưởng mà sanh khởi. Cái bổn giác vốn sáng tỏ trong sạch này, vọng sanh các tướng thế gian, như Diễn Nhã Đạt Đa mê đầu nhận bóng. Vọng vốn chẳng nhân, lại nơi vọng tưởng lập tánh nhân duyên, kẻ mê nhân duyên cho là tự nhiên, thật ra, tánh hư không còn là huyễn hóa, nhân duyên và tự nhiên đều do vọng tâm của chúng sanh tạo thành. - A Nan, biết chỗ vọng khởi, thì nói vọng duyên, nếu vọng vốn không, thì các vọng nhân duyên vốn chẳng thể có, huống là chẳng biết lại cho là tự nhiên. Vì thế, Như Lai phát minh: Bản nhân của ngũ ấm đều là vọng tưởng.
 
-- Thân ngươi trước tiên, do niệm tưởng của cha mẹ sanh ra, tâm ngươi nếu chẳng có niệm tưởng thì chẳng thể đến hợp với tưởng của cha mẹ mà thọ sanh. Như trước ta đã nói, tưởng tượng vị chua thì tiết ra nước miếng, tưởng tượng leo dốc thì lòng bàn chân ghê rợn, dốc cao chẳng có, vật chua chưa đến, thân ngươi nếu chẳng cùng loại với hư vọng thì làm sao nghe nói chua lại tiết ra nước miếng? Nên biết sắc thân hiện tiền của ngươi, gọi là Kiên Cố Vọng Tưởng thứ nhất.
+> Thân ngươi trước tiên, do niệm tưởng của cha mẹ sanh ra, tâm ngươi nếu chẳng có niệm tưởng thì chẳng thể đến hợp với tưởng của cha mẹ mà thọ sanh. Như trước ta đã nói, tưởng tượng vị chua thì tiết ra nước miếng, tưởng tượng leo dốc thì lòng bàn chân ghê rợn, dốc cao chẳng có, vật chua chưa đến, thân ngươi nếu chẳng cùng loại với hư vọng thì làm sao nghe nói chua lại tiết ra nước miếng? Nên biết sắc thân hiện tiền của ngươi, gọi là Kiên Cố Vọng Tưởng thứ nhất.
 
-Như trên đã nói, tưởng tượng leo dốc thì khiến thân thật chịu ghê rợn; vì cái nhân niệm tưởng cảm thọ, lay động sắc thân, nay trước mắt ngươi ham thuận chán nghịch, hai hiện tượng này giao tranh với nhau, gọi là Hư Minh Vọng Tưởng thứ hai.
+> Như trên đã nói, tưởng tượng leo dốc thì khiến thân thật chịu ghê rợn; vì cái nhân niệm tưởng cảm thọ, lay động sắc thân, nay trước mắt ngươi ham thuận chán nghịch, hai hiện tượng này giao tranh với nhau, gọi là Hư Minh Vọng Tưởng thứ hai.
 
-- Bởi do niệm tưởng sai khiến sắc thân; nếu sắc thân với niệm tưởng chẳng cùng loại, thì tại sao thân ngươi lại theo niệm tưởng sai khiến? Đủ thứ hiện tượng tương ưng với niệm tưởng, hễ tâm sanh thì thân nhận, lúc thức là niệm tưởng, lúc ngủ thành chiêm bao. Vậy thì niệm tưởng của ngươi lay động vọng tình, gọi là Dung Thông Vọng Tưởng thứ ba.
+> Bởi do niệm tưởng sai khiến sắc thân; nếu sắc thân với niệm tưởng chẳng cùng loại, thì tại sao thân ngươi lại theo niệm tưởng sai khiến? Đủ thứ hiện tượng tương ưng với niệm tưởng, hễ tâm sanh thì thân nhận, lúc thức là niệm tưởng, lúc ngủ thành chiêm bao. Vậy thì niệm tưởng của ngươi lay động vọng tình, gọi là Dung Thông Vọng Tưởng thứ ba.
 
-- Lý tạo hóa chẳng ngừng, âm thầm dời đổi, móng dài, tóc mọc, sức mòn, hình nhăn, ngày đêm thay đổi mà không hề hay biết.
+> Lý tạo hóa chẳng ngừng, âm thầm dời đổi, móng dài, tóc mọc, sức mòn, hình nhăn, ngày đêm thay đổi mà không hề hay biết.
 
-- A Nan, ấy nếu chẳng phải là ngươi, thì tại sao thân ngươi lại dời đổi? Nếu ắt phải là ngươi, thì sao ngươi lại chẳng hay biết? Vậy thì, hành ấm của ngươi niệm niệm chẳng ngừng, gọi là U Ẩn Vọng Tưởng thứ tư.
+> A Nan, ấy nếu chẳng phải là ngươi, thì tại sao thân ngươi lại dời đổi? Nếu ắt phải là ngươi, thì sao ngươi lại chẳng hay biết? Vậy thì, hành ấm của ngươi niệm niệm chẳng ngừng, gọi là U Ẩn Vọng Tưởng thứ tư.
 
-- Lại, chỗ tánh thức trong lặng chẳng lay động của ngươi, cho là thường còn ấy, ở nơi thân ngươi chẳng ra ngoài Kiến, Văn, Giác, Tri, nếu cho là chơn thật, thì chẳng thể huân tập sự vọng, tại sao các ngươi đã từng xem một vật lạ từ năm xưa, trải qua nhiều năm, nhớ quên chẳng còn; về sau bỗng thấy vật lạ đó, thì nhớ lại rõ ràng, chưa từng lạc mất?
+> Lại, chỗ tánh thức trong lặng chẳng lay động của ngươi, cho là thường còn ấy, ở nơi thân ngươi chẳng ra ngoài Kiến, Văn, Giác, Tri, nếu cho là chơn thật, thì chẳng thể huân tập sự vọng, tại sao các ngươi đã từng xem một vật lạ từ năm xưa, trải qua nhiều năm, nhớ quên chẳng còn; về sau bỗng thấy vật lạ đó, thì nhớ lại rõ ràng, chưa từng lạc mất?
 
-- Vậy nơi tánh thức trong lặng chẳng lay động này, đâu có suy tính, mà niệm niệm chịu sự huân tập! A Nan nên biết, tánh trong lặng này chẳng thật, như dòng nước chảy gấp, trông như tịch lặng, ấy là vì chảy gấp mà chẳng thấy, chứ chẳng phải không chảy; nếu chẳng phải là cội gốc của niệm tưởng, thì đâu thể huân tập sự vọng? Nếu lục căn chưa được hỗ dụng tự tại, thì vọng tưởng này chẳng bao giờ diệt trừ được.
+> Vậy nơi tánh thức trong lặng chẳng lay động này, đâu có suy tính, mà niệm niệm chịu sự huân tập! A Nan nên biết, tánh trong lặng này chẳng thật, như dòng nước chảy gấp, trông như tịch lặng, ấy là vì chảy gấp mà chẳng thấy, chứ chẳng phải không chảy; nếu chẳng phải là cội gốc của niệm tưởng, thì đâu thể huân tập sự vọng? Nếu lục căn chưa được hỗ dụng tự tại, thì vọng tưởng này chẳng bao giờ diệt trừ được.
 
-- Vậy nên hiện nay cái Kiến, Văn, Giác, Tri của ngươi, hòa hợp với tập khí vi tế, thành mường tượng hư vô nơi tánh Trạm Liễu, gọi là tướng vi tế của Điên Đảo Vọng Tưởng thứ năm.
+> Vậy nên hiện nay cái Kiến, Văn, Giác, Tri của ngươi, hòa hợp với tập khí vi tế, thành mường tượng hư vô nơi tánh Trạm Liễu, gọi là tướng vi tế của Điên Đảo Vọng Tưởng thứ năm.
 
-- A Nan! Ngũ ấm này do năm thứ vọng tưởng kể trên mà thành.
+> A Nan! Ngũ ấm này do năm thứ vọng tưởng kể trên mà thành.
 
-- Nay ngươi muốn biết bờ bến sâu cạn, thì Sắc với Không là bờ bến của Sắc Ấm; Xúc với Lìa là bờ bến của Thọ Ấm; Nhớ với Quên là bờ bến của Tưởng Ấm, Diệt với Sanh là bờ bến của Hành Ấm; Trạm nhập hợp Trạm, là bờ bến của Thức Ấm.
+> Nay ngươi muốn biết bờ bến sâu cạn, thì Sắc với Không là bờ bến của Sắc Ấm; Xúc với Lìa là bờ bến của Thọ Ấm; Nhớ với Quên là bờ bến của Tưởng Ấm, Diệt với Sanh là bờ bến của Hành Ấm; Trạm nhập hợp Trạm, là bờ bến của Thức Ấm.
 
 ### LƯỢC GIẢI
 
 > Trước kia, A Nan hỏi về ngũ ấm đến đâu là bờ bến, ở đây Phật giải thích kỹ càng, có nguyên nhân có bờ bến, từ cạn vào sâu.
-Sắc chẳng tự Sắc, vì Không hiển Sắc, nên sắc với Không là bờ bến của Sắc Ấm. Thọ chẳng tự Thọ, vì Xúc có Thọ, nên Xúc với Lìa là bờ bến của Thọ Ấm; Tưởng chẳng phải Tưởng, vì ghi nhớ gọi là Tưởng, nên Nhớ và Quên là bờ bến của Tưởng Ấm; Hành chẳng phải Hành, vì sanh diệt chẳng ngừng, gọi là Hành, nên Sanh với Diệt là bờ bến của Hành Ấm; Thức gọi là Trạm Liễu (trong lặng sáng suốt), là đã diệt sanh diệt, tánh Thức nhập vào chỗ cội gốc trong lặng, mà hợp với trạm nhiên, có nhập có hợp, tức là bờ bến của Thức Ấm.
+Sắc chẳng tự Sắc, vì Không hiển Sắc, nên sắc với Không là bờ bến của Sắc Ấm. 
+> 
+> Thọ chẳng tự Thọ, vì Xúc có Thọ, nên Xúc với Lìa là bờ bến của Thọ Ấm; Tưởng chẳng phải Tưởng, vì ghi nhớ gọi là Tưởng, nên Nhớ và Quên là bờ bến của Tưởng Ấm; Hành chẳng phải Hành, vì sanh diệt chẳng ngừng, gọi là Hành, nên Sanh với Diệt là bờ bến của Hành Ấm; Thức gọi là Trạm Liễu (trong lặng sáng suốt), là đã diệt sanh diệt, tánh Thức nhập vào chỗ cội gốc trong lặng, mà hợp với trạm nhiên, có nhập có hợp, tức là bờ bến của Thức Ấm.
 Vì Trạm Nhập là Thức Ấm, Trạm Xuất là Hành Ấm. Chơn Tánh chẳng gọi là Trạm Nhập, là vì cùng khắp pháp giới, nên chẳng có xuất nhập, nay Trạm Nhập dần dần đi vào, cho đến nhập vô sở nhập, tức đến chỗ chẳng sanh diệt vậy.
 
 ***
 
-- Cội gốc của ngũ ấm từng lớp sanh khởi; sanh do thức mà có, diệt theo sắc mà trừ; Lý thì Đốn Ngộ, theo ngộ cùng tiêu. Sự chẳng thể bỗng diệt, phải dần dần mới được dứt sạch.
+> Cội gốc của ngũ ấm từng lớp sanh khởi; sanh do thức mà có, diệt theo sắc mà trừ; Lý thì Đốn Ngộ, theo ngộ cùng tiêu. Sự chẳng thể bỗng diệt, phải dần dần mới được dứt sạch.
 
-- Ta đã khai thị cho ngươi về thắt kết của khăn bông, tại sao còn chẳng rõ mà lại hỏi nữa! Ngươi đối với cội gốc vọng tưởng này, nơi tâm được khai ngộ, rồi mới có thể truyền dạy cho người tu hành trong đời mạt pháp, khiến họ biết sự hư vọng, tự sanh nhàm chán, biết có Niết Bàn, chẳng lưu luyến tam giới.
+> Ta đã khai thị cho ngươi về thắt kết của khăn bông, tại sao còn chẳng rõ mà lại hỏi nữa! Ngươi đối với cội gốc vọng tưởng này, nơi tâm được khai ngộ, rồi mới có thể truyền dạy cho người tu hành trong đời mạt pháp, khiến họ biết sự hư vọng, tự sanh nhàm chán, biết có Niết Bàn, chẳng lưu luyến tam giới.
 
-- A Nan! Nếu có người đem thất bảo chất đầy mười phương hư không để cúng dường vô số Phật, tâm chẳng buông lung, ý ngươi thế nào, người ấy do nhân duyên cúng dường Phật này, có được phước nhiều chăng?
+> A Nan! Nếu có người đem thất bảo chất đầy mười phương hư không để cúng dường vô số Phật, tâm chẳng buông lung, ý ngươi thế nào, người ấy do nhân duyên cúng dường Phật này, có được phước nhiều chăng?
 
 A Nan đáp rằng:
 
@@ -3729,27 +3854,30 @@ A Nan đáp rằng:
 
 Phật bảo A Nan:
 
-- Lời nói của chư Phật chẳng có hư vọng, nếu có người gây các tội Tứ Trọng (Sát, đạo, dâm, vọng), Thập Ba La Di, phải trải qua địa ngục A-Tỳ phương này phương kia, cho đến cùng tột các ngục A Tỳ mười phương trong sát na, chẳng nơi nào không trải qua, nếu người ấy dùng một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp, liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc được phước siêu việt hơn người cúng dường trước kia gấp trăm ngàn lần, ngàn vạn ức lần như thế cho đến toán số thí dụ đều chẳng thể so bằng.
+> Lời nói của chư Phật chẳng có hư vọng, nếu có người gây các tội Tứ Trọng (Sát, đạo, dâm, vọng), Thập Ba La Di, phải trải qua địa ngục A-Tỳ phương này phương kia, cho đến cùng tột các ngục A Tỳ mười phương trong sát na, chẳng nơi nào không trải qua, nếu người ấy dùng một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp, liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc được phước siêu việt hơn người cúng dường trước kia gấp trăm ngàn lần, ngàn vạn ức lần như thế cho đến toán số thí dụ đều chẳng thể so bằng.
 
 ### LƯỢC GIẢI
 
-> Theo đoạn trên nói, Phạm tội Tứ Trọng, Thập Ba La Di là cái tội cực ác, phải chịu cái quả báo cực khổ cho đến cùng tột tất cả địa ngục A-tỳ. Kẻ phạm tội như vậy tại sao chỉ cần dùng "một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc". Vậy nếu thật như thế thành không có nhân quả sao? Nếu người hiểu lầm việc này thì cho là làm cái nhân cực ác cũng không sao! Vì chỉ cần biết thuyết pháp thì tội lớn đến mức nào cũng tiêu ngay lại còn được phước báo vô cùng tận.
->
+> Theo đoạn trên nói, Phạm tội Tứ Trọng, Thập Ba La Di là cái tội cực ác, phải chịu cái quả báo cực khổ cho đến cùng tột tất cả địa ngục A-tỳ. 
+> Kẻ phạm tội như vậy tại sao chỉ cần dùng "một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc". 
+> Vậy nếu thật như thế thành không có nhân quả sao? Nếu người hiểu lầm việc này thì cho là làm cái nhân cực ác cũng không sao! Vì chỉ cần biết thuyết pháp thì tội lớn đến mức nào cũng tiêu ngay lại còn được phước báo vô cùng tận.
+
 Chứng Đạo Ca nói:
 >
 > "Liễu thì nghiệp chướng vốn là không,
 > 
 > Chưa liễu vẫn phải trả nợ xưa".
 >
-> Liễu là liễu ngộ tức là ở trong chiêm bao thức tỉnh, thì nghiệp chướng ở trong chiêm bao tự tiêu diệt, còn chưa liễu thì còn ở trong chiêm bao phải chịu nghiệp báo trong chiêm bao không thể tiêu liền được. Kinh nói dùng "Một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc", ấy là ám chỉ người liễu ngộ mới có thể liền tiêu nghiệp chướng.
+> Liễu là liễu ngộ tức là ở trong chiêm bao thức tỉnh, thì nghiệp chướng ở trong chiêm bao tự tiêu diệt, còn chưa liễu thì còn ở trong chiêm bao phải chịu nghiệp báo trong chiêm bao không thể tiêu liền được. 
+> Kinh nói dùng "Một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc", ấy là ám chỉ người liễu ngộ mới có thể liền tiêu nghiệp chướng.
 >
 > "Y văn giải nghĩa, tam thế Phật oan", độc giả hãy tự xem xét cho kỹ.
 
 ***
 
-- A Nan! Nếu có chúng sanh hay tụng trì kinh này và chú này như ta đã nói, thì phước báo cùng tột số kiếp cũng chẳng thể hết; nếu nương theo lời dạy của ta mà tu hành, thì thẳng đến Bồ Đề chẳng còn nghiệp ma.
-
-Phật thuyết kinh này xong, các vị Tỳ Kheo, Tỳ Kheo Ni, Ưu Bà Tắc, Ưu Bà Di, tất cả cõi trời, người, A Tu La trong thế gian, với các vị Bồ Tát, Nhị Thừa, Thần tiên, đồng tử ở cõi khác, và đại lực quỷ thần mới phát tâm, đều rất vui mừng, đảnh lễ ra về.
+> A Nan! Nếu có chúng sanh hay tụng trì kinh này và chú này như ta đã nói, thì phước báo cùng tột số kiếp cũng chẳng thể hết; nếu nương theo lời dạy của ta mà tu hành, thì thẳng đến Bồ Đề chẳng còn nghiệp ma.
+>
+> Phật thuyết kinh này xong, các vị Tỳ Kheo, Tỳ Kheo Ni, Ưu Bà Tắc, Ưu Bà Di, tất cả cõi trời, người, A Tu La trong thế gian, với các vị Bồ Tát, Nhị Thừa, Thần tiên, đồng tử ở cõi khác, và đại lực quỷ thần mới phát tâm, đều rất vui mừng, đảnh lễ ra về.
 
 #### GHI CHÚ
 

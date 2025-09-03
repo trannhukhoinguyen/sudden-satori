@@ -1,6 +1,6 @@
 ---
-import { config } from '../config';
-import ThemeSwitcher from "./ThemeSwitcher.astro";
+import { config } from '../../config';
+import ThemeSwitcher from "../ui/ThemeSwitcher.astro";
 
 const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: '' };
 ---
@@ -96,190 +96,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <div class="search-results" id="search-results"></div>
   </div>
 </div>
-
-<script>
-  import Fuse from "fuse.js";
-  const base = `${import.meta.env.BASE_URL || ''}`;
-
-  // Hamburger menu functionality
-  function initHamburgerMenu() {
-    const hamburgerToggle = document.getElementById('hamburger-toggle');
-    const mobileMenu = document.getElementById('mobile-menu');
-    const body = document.body;
-
-    if (!hamburgerToggle || !mobileMenu) return;
-
-    hamburgerToggle.addEventListener('click', () => {
-      const isOpen = mobileMenu.classList.contains('active');
-
-      if (isOpen) {
-        mobileMenu.classList.remove('active');
-        hamburgerToggle.setAttribute('aria-expanded', 'false');
-        body.style.overflow = '';
-      } else {
-        mobileMenu.classList.add('active');
-        hamburgerToggle.setAttribute('aria-expanded', 'true');
-        body.style.overflow = 'hidden';
-      }
-    });
-
-    // Close menu when clicking on a link
-    const mobileNavLinks = mobileMenu.querySelectorAll('.mobile-nav-link');
-    mobileNavLinks.forEach(link => {
-      link.addEventListener('click', () => {
-        mobileMenu.classList.remove('active');
-        hamburgerToggle.setAttribute('aria-expanded', 'false');
-        body.style.overflow = '';
-      });
-    });
-
-    // Close menu on escape key
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && mobileMenu.classList.contains('active')) {
-        mobileMenu.classList.remove('active');
-        hamburgerToggle.setAttribute('aria-expanded', 'false');
-        body.style.overflow = '';
-      }
-    });
-  }
-
-  // Search functionality
-  let searchData: any[] = [];
-  let searchOverlay: HTMLElement | null, searchInput: HTMLInputElement | null, searchResults: HTMLElement | null;
-
-  async function initSearch() {
-    try {
-      const response = await fetch(base + 'search.json');
-      searchData = await response.json();
-    } catch (error) {
-      console.error('Failed to load search data:', error);
-    }
-
-    searchOverlay = document.getElementById('search-overlay');
-    searchInput = document.getElementById('search-input') as HTMLInputElement;
-    searchResults = document.getElementById('search-results');
-
-    // Event listeners
-    document.getElementById('search-toggle')?.addEventListener('click', openSearch);
-    document.getElementById('search-close')?.addEventListener('click', closeSearch);
-    searchInput?.addEventListener('input', handleSearch);
-
-    // Close on escape key
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && searchOverlay?.classList.contains('active')) {
-        closeSearch();
-      }
-    });
-
-    // Close on overlay click
-    searchOverlay?.addEventListener('click', (e: Event) => {
-      if (e.target === searchOverlay) {
-        closeSearch();
-      }
-    });
-  }
-
-  function openSearch() {
-    searchOverlay?.classList.add('active');
-    document.body.style.overflow = 'hidden';
-    setTimeout(() => searchInput?.focus(), 100);
-  }
-
-  function closeSearch() {
-    searchOverlay?.classList.remove('active');
-    document.body.style.overflow = '';
-    if (searchInput) searchInput.value = '';
-    if (searchResults) searchResults.innerHTML = '';
-  }
-
-  function handleSearch(e: Event) {
-    const target = e.target as HTMLInputElement;
-    const query = target.value.toLowerCase().trim();
-
-    if (query.length < 2) {
-      if (searchResults) searchResults.innerHTML = '';
-      return;
-    }
-
-    const results = searchData.filter((post: any) =>
-      post.title.toLowerCase().includes(query) ||
-      post.excerpt.toLowerCase().includes(query) ||
-      (post.authors && post.authors.some((author: string) => author.toLowerCase().includes(query))) ||
-      (post.categories && post.categories.some((cat: string) => cat.toLowerCase().includes(query))) ||
-      (post.tags && post.tags.some((tag: string) => tag.toLowerCase().includes(query)))
-    ).slice(0, 10);
-
-    // config fuse
-    const fuse = new Fuse(results, {
-      keys: ["title", "excerpt", "authors", "categories", "tags"],
-      threshold: 0.3,
-    });
-    const fuseResults = fuse.search(query).map((r) => r.item);
-
-    displayResults(fuseResults, query);
-  }
-
-  function displayResults(results: any[], query: string) {
-    if (results.length === 0) {
-      if (searchResults) {
-        searchResults.innerHTML = `
-          <div class="search-no-results">
-            <p>No articles found for "${query}"</p>
-          </div>
-        `;
-      }
-      return;
-    }
-
-    const resultsHTML = results.map((post: any) => `
-      <article class="search-result">
-        <h3 class="search-result-title">
-          <a href="${base}${post.url.startsWith('/') ? post.url.slice(1) : post.url}">${post.title}</a>
-        </h3>
-        <time class="search-result-date">${new Date(post.date).toLocaleDateString('en-US', {
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric'
-        })}</time>
-        ${post.excerpt ? `<p class="search-result-excerpt">${post.excerpt}</p>` : ''}
-        ${post.categories ? `
-          <div class="search-result-categories">
-            ${post.categories.map((cat: string) => `<span class="search-category">${cat}</span>`).join(' ')}
-          </div>
-        ` : ''}
-      </article>
-    `).join('');
-
-    if (searchResults) {
-      searchResults.innerHTML = `
-        <div class="search-results-header">
-          <p>Found ${results.length} article${results.length === 1 ? '' : 's'} for "${query}"</p>
-        </div>
-        ${resultsHTML}
-      `;
-    }
-  }
-
-  // Initialize when DOM is loaded
-  function init() {
-    initHamburgerMenu();
-    initSearch();
-  }
-
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
-  } else {
-    init();
-  }
-
-  // Select Menu
-  document.addEventListener("DOMContentLoaded", () => {
-    const select = document.getElementById("nav-select") as HTMLSelectElement;
-    select.addEventListener("change", (e) => {
-      window.location.href = (e.target as HTMLSelectElement).value;
-    });
-  })
-</script>
 
 <style>
   .site-header {
@@ -378,7 +194,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     flex: 1;
     border: none;
     background: none;
-    font-family: var(--font-body);
+    font-family: var(--font-body),serif;
     font-size: 1.125rem;
     color: var(--color-text-primary);
     padding: calc(var(--grid-unit) * 2) calc(var(--grid-unit) * 3);
@@ -434,7 +250,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .search-results-header p {
     margin: 0;
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     font-size: 0.9rem;
     color: var(--color-text-muted);
     text-transform: uppercase;
@@ -457,7 +273,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .search-result-title {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-size: 1.25rem;
     font-weight: 700;
     margin-bottom: calc(var(--grid-unit) * 3);
@@ -499,11 +315,11 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .search-category {
-    background-color: #e8a100;
+    background-color: var(--color-accent-gold-dark);
     color: var(--color-text-primary);
     padding: calc(var(--grid-unit) * 1.5) calc(var(--grid-unit) * 2.5);
     font-size: 0.8rem;
-    font-family: var(--font-mono);
+    font-family: var(--font-mono),serif;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -512,7 +328,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .search-category:hover {
-    background-color:  var(--color-accent-gold);
+    background-color: var(--color-accent-gold);
     color: white;
   }
 
@@ -554,7 +370,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .nav-link {
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -572,11 +388,11 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .nav-select {
-      display: flex;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      gap: calc(var(--grid-unit) * 3);
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: calc(var(--grid-unit) * 3);
   }
 
   .nav-select {
@@ -585,7 +401,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--color-text-primary);
-    background-color:  var(--color-accent-gold);
+    background-color:  var(--color-accent-gold-dark);
     padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
     border-bottom: 2px solid transparent;
     transition: all 0.2s ease;
@@ -733,7 +549,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   .mobile-nav-link {
     display: block;
     padding: calc(var(--grid-unit) * 3) calc(var(--grid-unit) * 4);
-    font-family: var(--font-heading-secondary);
+    font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     font-size: 1.25rem;
     text-transform: uppercase;
@@ -746,7 +562,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .mobile-nav-link:hover,
   .mobile-nav-link:focus {
-    color: var(--color-accent-gold);
+    color: var(--color-accent);
     background-color: var(--color-surface);
   }
 
@@ -871,3 +687,196 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     }
   }
 </style>
+
+<script>
+  import Fuse from "fuse.js";
+  const base = `${import.meta.env.BASE_URL || ''}`;
+
+  // Hamburger menu functionality
+  function initHamburgerMenu() {
+    const hamburgerToggle = document.getElementById('hamburger-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const body = document.body;
+
+    if (!hamburgerToggle || !mobileMenu) return;
+
+    hamburgerToggle.addEventListener('click', () => {
+      const isOpen = mobileMenu.classList.contains('active');
+
+      if (isOpen) {
+        mobileMenu.classList.remove('active');
+        hamburgerToggle.setAttribute('aria-expanded', 'false');
+        body.style.overflow = '';
+      } else {
+        mobileMenu.classList.add('active');
+        hamburgerToggle.setAttribute('aria-expanded', 'true');
+        body.style.overflow = 'hidden';
+      }
+    });
+
+    // Close menu when clicking on a link
+    const mobileNavLinks = mobileMenu.querySelectorAll('.mobile-nav-link');
+    mobileNavLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        mobileMenu.classList.remove('active');
+        hamburgerToggle.setAttribute('aria-expanded', 'false');
+        body.style.overflow = '';
+      });
+    });
+
+    // Close menu on escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && mobileMenu.classList.contains('active')) {
+        mobileMenu.classList.remove('active');
+        hamburgerToggle.setAttribute('aria-expanded', 'false');
+        body.style.overflow = '';
+      }
+    });
+  }
+
+  // Search functionality
+  let searchData: any[] = [];
+  let searchOverlay: HTMLElement | null, searchInput: HTMLInputElement | null, searchResults: HTMLElement | null;
+
+  async function initSearch() {
+    try {
+      const response = await fetch(base + 'search.json');
+      searchData = await response.json();
+    } catch (error) {
+      console.error('Failed to load search data:', error);
+    }
+
+    searchOverlay = document.getElementById('search-overlay');
+    searchInput = document.getElementById('search-input') as HTMLInputElement;
+    searchResults = document.getElementById('search-results');
+
+    // Event listeners
+    document.getElementById('search-toggle')?.addEventListener('click', openSearch);
+    document.getElementById('search-close')?.addEventListener('click', closeSearch);
+    searchInput?.addEventListener('input', handleSearch);
+
+    // Close on escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && searchOverlay?.classList.contains('active')) {
+        closeSearch();
+      }
+    });
+
+    // Close on overlay click
+    searchOverlay?.addEventListener('click', (e: Event) => {
+      if (e.target === searchOverlay) {
+        closeSearch();
+      }
+    });
+  }
+
+  function openSearch() {
+    searchOverlay?.classList.add('active');
+    document.body.style.overflow = 'hidden';
+    setTimeout(() => searchInput?.focus(), 100);
+  }
+
+  function closeSearch() {
+    searchOverlay?.classList.remove('active');
+    document.body.style.overflow = '';
+    if (searchInput) searchInput.value = '';
+    if (searchResults) searchResults.innerHTML = '';
+  }
+
+  function handleSearch(e: Event) {
+    const target = e.target as HTMLInputElement;
+    const query = target.value.toLowerCase().trim();
+
+    if (query.length < 2) {
+      if (searchResults) searchResults.innerHTML = '';
+      return;
+    }
+
+    const results = searchData.filter((post: any) =>
+      post.title.toLowerCase().includes(query) ||
+      post.excerpt.toLowerCase().includes(query) ||
+      (post.authors && post.authors.some((author: string) => author.toLowerCase().includes(query))) ||
+      (post.categories && post.categories.some((cat: string) => cat.toLowerCase().includes(query))) ||
+      (post.tags && post.tags.some((tag: string) => tag.toLowerCase().includes(query)))
+    ).slice(0, 10);
+
+    // config fuse
+    const fuse = new Fuse(results, {
+      keys: ["title", "excerpt", "authors", "categories", "tags"],
+      threshold: 0.3,
+    });
+    const fuseResults = fuse.search(query).map((r) => r.item);
+
+    displayResults(fuseResults, query);
+  }
+
+  function displayResults(results: any[], query: string) {
+    if (results.length === 0) {
+      if (searchResults) {
+        searchResults.innerHTML = `
+          <div class="search-no-results">
+            <p>No articles found for "${query}"</p>
+          </div>
+        `;
+      }
+      return;
+    }
+
+    const resultsHTML = results.map((post: any) => `
+      <article class="search-result">
+        <h3 class="search-result-title">
+          <a href="${base}${post.url.startsWith('/') ? post.url.slice(1) : post.url}">${post.title}</a>
+        </h3>
+        <time class="search-result-date">${new Date(post.date).toLocaleDateString('en-US', {
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric'
+        })}</time>
+        ${
+          post.categories ? `📦
+            <div class="badge-list">
+              ${post.categories.map((cat: string) => `<span class="badge-label badge-category">${cat}</span>`).join(' ')}
+            </div>
+          ` : ''
+        }
+        ${
+          post.tags ? `🎏
+            <div class="badge-list">
+              ${post.tags.map((tag: string) => `<span class="badge-label badge-category">${tag}</span>`).join(' ')}
+            </div>
+          ` : ''
+        }
+        ${post.excerpt ? `<p class="search-result-excerpt">${post.excerpt}</p>` : ''}
+      </article>
+    `).join('');
+
+    if (searchResults) {
+      searchResults.innerHTML = `
+        <div class="search-results-header">
+          <p>Found ${results.length} article${results.length === 1 ? '' : 's'} for "${query}"</p>
+        </div>
+        ${resultsHTML}
+      `;
+    }
+  }
+
+  // Initialize when DOM is loaded
+  function init() {
+    initHamburgerMenu();
+    initSearch();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  // Select Menu
+  document.addEventListener("DOMContentLoaded", () => {
+    const select = document.getElementById("nav-select") as HTMLSelectElement;
+    select.addEventListener("change", (e) => {
+      window.location.href = (e.target as HTMLSelectElement).value;
+    });
+  })
+</script>

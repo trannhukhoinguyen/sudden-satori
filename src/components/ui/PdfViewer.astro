@@ -1,0 +1,81 @@
+---
+// src/components/PdfViewer.astro
+
+import PdfSVG from "../svg/PdfSVG.astro";
+const { pdfUrl, title } = Astro.props;
+if (!pdfUrl) return null;
+---
+
+<div class="pdf-container">
+  <div class="pdf-placeholder">
+    <img src="/images/svg/pdf-icon-red-bg.svg" alt="PDF Viewer icon" width="24"/>
+  </div>
+
+  <div class="pdf-viewer">
+    <h3 class="pdf-title">
+      {title || "Tài liệu PDF"}
+    </h3>
+
+    <!-- iframe PDF -->
+    <iframe
+        src={pdfUrl}
+        class="pdf-iframe"
+        title={title || "PDF Viewer"}
+    ></iframe>
+
+    <!-- nút mở PDF ngoài -->
+    <div class="pdf-actions">
+      <a href={pdfUrl} target="_blank" rel="noopener" class="pdf-button">
+        Xem PDF trong tab mới
+      </a>
+    </div>
+  </div>
+</div>
+
+<style>
+  .pdf-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+  }
+
+  .pdf-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background: #b71c1c;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    animation: pulse 1.5s infinite;
+  }
+
+  .pdf-placeholder .pdf-icon {
+    width: 80px;
+    height: 80px;
+  }
+
+  @keyframes pulse {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+  }
+
+  .pdf-viewer {
+    display: none;
+    margin-top: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .pdf-container:hover .pdf-viewer {
+    display: block;
+  }
+
+  .pdf-container:hover .pdf-placeholder {
+    display: none;
+  }
+</style>

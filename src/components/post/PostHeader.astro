@@ -2,6 +2,7 @@
 import PostDateTime from "./PostDateTime.astro";
 import PostCategories from "./PostCategories.astro";
 import PostExcerpt from "./PostExcerpt.astro";
+import PdfViewer from "../ui/PdfViewer.astro";
 
 const { post } = Astro.props;
 const { frontmatter } = post as any;
@@ -19,6 +20,8 @@ const { frontmatter } = post as any;
           : ''
     }
 
+    <!-- PDF Viewer -->
+    <PdfViewer pdfUrl={frontmatter.pdfUrl} title={frontmatter.title} />
   </div>
 
   {
