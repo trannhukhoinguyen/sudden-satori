@@ -61,6 +61,7 @@ export const config: SiteConfig = {
     "sutras",
     "Lankavatara",
     "Surangama",
+    "Diamond",
 
     /*NHÓM CÔNG ÁN*/
     "koans",
@@ -85,6 +86,7 @@ export const config: SiteConfig = {
     sutras: "Kinh",
     Lankavatara: "Kinh Lăng Già",
     Surangama: "Kinh Lăng Nghiêm",
+    Diamond: "Kinh Kim Cang",
 
     /*NHÓM CÔNG ÁN*/
     koans: "Công án",
@@ -108,7 +110,8 @@ export const config: SiteConfig = {
     /*NHÓM KINH*/
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
     Lankavatara: "Xem Kinh Lăng Già liên quan đến Tổ Sư Thiền",
-    Surangama: "Xem Kinh liên quan đến Tổ Sư Thiền",
+    Surangama: "Xem Kinh Lăng Nghiêm liên quan đến Tổ Sư Thiền",
+    Diamond: "Xem Kinh Kim Cang liên quan đến Tổ Sư Thiền",
 
     /*NHÓM CÔNG ÁN*/
     koans: "Xem các Công án Tổ Sư Thiền",

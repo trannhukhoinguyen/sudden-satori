@@ -9,6 +9,9 @@ const globMap = {
 
   /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/*.{md,mdx}', { eager: true }),
+  BlueCliffRecord: import.meta.glob('../content/koans/BlueCliffRecord/*.{md,mdx}', { eager: true }),
+  GatelessGate: import.meta.glob('../content/koans/GatelessGate/*.{md,mdx}', { eager: true }),
+  EmptyValleyCollection: import.meta.glob('../content/koans/EmptyValleyCollection/*.{md,mdx}', { eager: true }),
 
   practices: import.meta.glob('../content/practices/*.{md,mdx}', { eager: true }),
 
@@ -16,6 +19,7 @@ const globMap = {
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}', { eager: true }),
   Lankavatara: import.meta.glob('../content/Lankavatara/*.{md,mdx}', { eager: true }),
   Surangama: import.meta.glob('../content/Surangama/*.{md,mdx}', { eager: true }),
+  Diamond: import.meta.glob('../content/Diamond/*.{md,mdx}', { eager: true }),
 
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}', { eager: true }),
@@ -29,13 +33,17 @@ const globMapLazy = {
 
   /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/*.{md,mdx}'),
+  BlueCliffRecord: import.meta.glob('../content/koans/BlueCliffRecord/*.{md,mdx}'),
+  GatelessGate: import.meta.glob('../content/koans/GatelessGate/*.{md,mdx}'),
+  EmptyValleyCollection: import.meta.glob('../content/koans/EmptyValleyCollection/*.{md,mdx}'),
 
   practices: import.meta.glob('../content/practices/*.{md,mdx}'),
 
   /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}'),
-  Lankavatara: import.meta.glob('../content/Lankavatara/*.{md,mdx}'),
-  Surangama: import.meta.glob('../content/Surangama/*.{md,mdx}'),
+  Lankavatara: import.meta.glob('../content/sutras/Lankavatara/*.{md,mdx}'),
+  Surangama: import.meta.glob('../content/sutras/Surangama/*.{md,mdx}'),
+  Diamond: import.meta.glob('../content/sutras/Diamond/*.{md,mdx}'),
 
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}'),
@@ -51,6 +59,9 @@ const collections = {
 
   /*NHÓM CÔNG ÁN*/
   koans: "koans",
+  BlueCliffRecord: "blue-cliff-record",
+  GatelessGate: "gateless-gate",
+  EmptyValleyCollection: "empty-valley-collection",
 
   practices: "practices",
 
@@ -58,6 +69,7 @@ const collections = {
   sutras: "sutras",
   Lankavatara: "Lankavatara",
   Surangama: "Surangama",
+  Diamond: "Diamond",
 
   zongjinglus: "zongjinglus",
   speeches: "speeches",
