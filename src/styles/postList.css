@@ -104,6 +104,9 @@
     color: var(--color-text-muted);
     text-transform: uppercase;
     letter-spacing: 0.05em;
+
+    display: flex;
+    align-items: center;
 }
 
 .post-reading-time::before {

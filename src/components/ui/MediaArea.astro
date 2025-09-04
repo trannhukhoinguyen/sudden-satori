@@ -33,6 +33,18 @@ const { frontmatter } = Astro.props;
               </div>
             )
           } -->
+
+     {
+            frontmatter?.audioUrl && (
+              <div>
+                <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
+                <video width="640" height="360" controls poster="/cover.jpg">
+                  <source src={frontmatter.audioUrl} type="audio/mpeg" />
+                  <track src={frontmatter.vtt} kind="subtitles" srclang="en" label="Lyrics" default />
+                </video>
+              </div>
+            )
+          }
     {
         frontmatter?.audioUrls?.length &&
             frontmatter?.audioUrls?.map((url: any, index: any) => (

@@ -23,31 +23,3 @@ const description = `Một đêm, Thiền sư ĐỨC SƠN TUYÊN GIÁM đứng h
     </div>
   </div>
 </Layout>
-
-<style>
-  .marquee {
-    color: white;
-    overflow: hidden;
-    position: relative;
-  }
-  .marquee div {
-    display: block;
-    position: absolute;
-    overflow: hidden;
-    animation: marquee 15s linear infinite;
-  }
-  .marquee div:hover {
-    animation-play-state: paused;
-    cursor: pointer;
-  }
-  .marquee span {
-    float: left;
-  }
-  @keyframes marquee {
-    0% { bottom: 100%; }
-    25% { bottom: 75%; }
-    50% { bottom: 50%; }
-    75% { bottom: 25%; }
-    100% { bottom: 0; }
-  }
-</style>

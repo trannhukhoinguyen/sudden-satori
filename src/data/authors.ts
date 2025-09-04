@@ -6,6 +6,7 @@ export interface author {
   references?: {
     link_1?: string;
     link_2?: string;
+    extra?: string;
     link_3?: string[];
   };
   compositions: {
@@ -63,6 +64,7 @@ const authors: author[] = [
       references: {
         link_1: "https://tosuthien.com/",
         link_2: "https://duylucthien.wordpress.com/about/",
+        extra: "/pdfs/thien-su-Thich-Duy-Luc.pdf",
         link_3: [
           "https://thuvienhoasen.org/author/post/792/1/thich-duy-luc",
           "https://ph.tinhtong.vn/Home/MP3?p=MP3*-+T+Duy+Luc",

@@ -35,6 +35,9 @@
     text-transform: uppercase;
     letter-spacing: 0.05em;
     float: right;
+
+    display: flex;
+    align-items: center;
 }
 .post-reading-time::before {
     content: "•";

@@ -56,8 +56,19 @@ export const config: SiteConfig = {
     "blogs",
     "books",
     "interpretations",
+
+    /*NHÓM KINH*/
     "sutras",
+    "Lankavatara",
+    "Surangama",
+
+    /*NHÓM CÔNG ÁN*/
     "koans",
+    "BlueCliffRecord",
+    "GatelessGate",
+    "EmptyValleyCollection",
+    "VacantHallCollection",
+
     "places",
     "practices",
     "zongjinglus",
@@ -69,8 +80,19 @@ export const config: SiteConfig = {
     blogs: "Bài viết",
     books: "Sách",
     interpretations: "Luận giải",
+
+    /*NHÓM KINH*/
     sutras: "Kinh",
+    Lankavatara: "Kinh Lăng Già",
+    Surangama: "Kinh Lăng Nghiêm",
+
+    /*NHÓM CÔNG ÁN*/
     koans: "Công án",
+    BlueCliffRecord: "Bích Nham Lục",
+    GatelessGate: "Vô Môn Quan",
+    EmptyValleyCollection: "Không Cốc Tập",
+    VacantHallCollection: "Hư Đường Tập",
+
     places: "Địa danh",
     practices: "Thực hành",
     zongjinglus: "Tông Cảnh Lục",
@@ -82,8 +104,19 @@ export const config: SiteConfig = {
     blogs: "Xem Bài viết làm sáng tỏ về Phật Pháp",
     books: "Xem Sách về Phật Pháp",
     interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
+
+    /*NHÓM KINH*/
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
+    Lankavatara: "Xem Kinh Lăng Già liên quan đến Tổ Sư Thiền",
+    Surangama: "Xem Kinh liên quan đến Tổ Sư Thiền",
+
+    /*NHÓM CÔNG ÁN*/
     koans: "Xem các Công án Tổ Sư Thiền",
+    BlueCliffRecord: "Xem các Công án Bích Nham Lục Tổ Sư Thiền",
+    GatelessGate: "Xem các Công án Vô Môn Quan Tổ Sư Thiền",
+    EmptyValleyCollection: "Xem các Công án Không Cốc Tập Tổ Sư Thiền",
+    VacantHallCollection: "Xem các Công án Hư Đường Tập Tổ Sư Thiền",
+
     places: "Xem các Địa danh",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
     zongjinglus: "Xem Tông Cảnh Lục",

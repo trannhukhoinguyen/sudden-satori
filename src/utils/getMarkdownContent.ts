@@ -6,9 +6,17 @@ const globMap = {
   places: import.meta.glob('../content/places/*.{md,mdx}', { eager: true }),
   books: import.meta.glob('../content/books/*.{md,mdx}', { eager: true }),
   interpretations: import.meta.glob('../content/interpretations/*.{md,mdx}', { eager: true }),
+
+  /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/*.{md,mdx}', { eager: true }),
+
   practices: import.meta.glob('../content/practices/*.{md,mdx}', { eager: true }),
+
+  /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}', { eager: true }),
+  Lankavatara: import.meta.glob('../content/Lankavatara/*.{md,mdx}', { eager: true }),
+  Surangama: import.meta.glob('../content/Surangama/*.{md,mdx}', { eager: true }),
+
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}', { eager: true }),
   faqs: import.meta.glob('../content/faqs/*.{md,mdx}', { eager: true }),
@@ -18,9 +26,17 @@ const globMapLazy = {
   places: import.meta.glob('../content/places/*.{md,mdx}'),
   books: import.meta.glob('../content/books/*.{md,mdx}'),
   interpretations: import.meta.glob('../content/interpretations/*.{md,mdx}'),
+
+  /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/*.{md,mdx}'),
+
   practices: import.meta.glob('../content/practices/*.{md,mdx}'),
+
+  /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/*.{md,mdx}'),
+  Lankavatara: import.meta.glob('../content/Lankavatara/*.{md,mdx}'),
+  Surangama: import.meta.glob('../content/Surangama/*.{md,mdx}'),
+
   zongjinglus: import.meta.glob('../content/zongjinglus/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/*.{md,mdx}'),
   faqs: import.meta.glob('../content/faqs/*.{md,mdx}'),
@@ -32,9 +48,17 @@ const collections = {
   places: "places",
   books: "books",
   interpretations: "interpretations",
+
+  /*NHÓM CÔNG ÁN*/
   koans: "koans",
+
   practices: "practices",
+
+  /*NHÓM KINH*/
   sutras: "sutras",
+  Lankavatara: "Lankavatara",
+  Surangama: "Surangama",
+
   zongjinglus: "zongjinglus",
   speeches: "speeches",
   faqs: "faqs",
@@ -72,7 +96,7 @@ function getRecentPosts(posts: any[], limit = 5) {
 function getSortedPostsByType(type?: string) {
   const filtered = type ? allPosts.filter(p => p.frontmatter.type === type) : allPosts;
   return filtered.sort(
-      (a, b) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime()
+      (a, b) => new Date(a.frontmatter.date).getTime() - new Date(b.frontmatter.date).getTime()
   );
 }
 

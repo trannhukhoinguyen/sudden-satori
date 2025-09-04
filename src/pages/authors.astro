@@ -46,7 +46,7 @@ const pageDescription = "";
             <h2 class="author-name">{author.name}</h2>
             <p class="author-bio">{author.bio}</p>
 
-            <PdfViewer pdfUrl={frontmatter.pdfUrl} title={frontmatter.title} />
+            <PdfViewer pdfUrl={author.references?.extra} title={author.name} />
 
             <div class="reference-links">
               {author.references && author.references.link_1 && (

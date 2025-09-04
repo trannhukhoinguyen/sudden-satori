@@ -9,6 +9,11 @@
   --color-dark-gray: #333333;
   --color-black: #000000;
 
+  /* Linear Color */
+  --linear-red: linear-gradient(90deg, red, #fbe7e7);
+  --linear-gold: linear-gradient(90deg, gold, #fff4cc);
+  --linear-pink: linear-gradient(90deg, pink, #ffdbea);
+
   /* Accent Color */
   --color-accent-red: #dc2626;
   --color-accent-yellow: #dcd926;
@@ -24,6 +29,7 @@
 
   /* Semantic Colors */
   --color-background: var(--color-white);
+  --color-background-overlay: var(--color-black);
   --color-background-pagination: var(--color-accent-gold-dark);
   --color-background-toc: var(--color-accent-gold-dark);
   --color-background-footer: var(--color-white);

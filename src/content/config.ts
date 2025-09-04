@@ -65,6 +65,7 @@ const zongjinglus  = defineCollection({
   }),
 });
 
+/*NHÓM CÔNG ÁN*/
 const koans  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans" }),
   schema: z.object({
@@ -85,6 +86,67 @@ const koans  = defineCollection({
   }),
 });
 
+const BlueCliffRecord  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans/BlueCliffRecord" }),
+  schema: z.object({
+    type: z.string().default('koans'),
+    schemaType: z.string().default('Article'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+    audioUrl: z.string().url().optional(),
+    audioUrls: z.array(z.string().url()).optional(),
+    videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
+    videoUrls: z.array(z.string().url()).optional(),
+  }),
+});
+
+const GatelessGate  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans/GatelessGate" }),
+  schema: z.object({
+    type: z.string().default('koans'),
+    schemaType: z.string().default('Article'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+    audioUrl: z.string().url().optional(),
+    audioUrls: z.array(z.string().url()).optional(),
+    videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
+    videoUrls: z.array(z.string().url()).optional(),
+  }),
+});
+
+const EmptyValleyCollection  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans/EmptyValleyCollection" }),
+  schema: z.object({
+    type: z.string().default('koans'),
+    schemaType: z.string().default('Article'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+    audioUrl: z.string().url().optional(),
+    audioUrls: z.array(z.string().url()).optional(),
+    videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
+    videoUrls: z.array(z.string().url()).optional(),
+  }),
+});
+
+/*NHÓM KINH*/
 const sutras  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/sutras" }),
   schema: z.object({
@@ -96,7 +158,49 @@ const sutras  = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().default('Zen master'),
+    author: z.string().default('Phật'),
+    image: z.string().optional(),
+    audioUrl: z.string().url().optional(),
+    audioUrls: z.array(z.string().url()).optional(),
+    videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
+    videoUrls: z.array(z.string().url()).optional(),
+  }),
+});
+
+const Lankavatara  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/sutras/Lankavatara" }),
+  schema: z.object({
+    type: z.string().default('sutras'),
+    schemaType: z.string().default('Article'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    author: z.string().default('Phật'),
+    image: z.string().optional(),
+    audioUrl: z.string().url().optional(),
+    audioUrls: z.array(z.string().url()).optional(),
+    videoUrl: z.string().url().optional(),
+    videoStart: z.string().optional(),
+    videoUrls: z.array(z.string().url()).optional(),
+  }),
+});
+
+const Surangama  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/sutras/Surangama" }),
+  schema: z.object({
+    type: z.string().default('sutras'),
+    schemaType: z.string().default('Article'),
+    title: z.string(),
+    description: z.string().optional(),
+    date: z.coerce.date(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    author: z.string().default('Phật'),
     image: z.string().optional(),
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
@@ -176,5 +280,8 @@ const faqs  = defineCollection({
 });
 
 export const collections = {
-  blogs, places, books, zongjinglus, koans, sutras, interpretations, practices, speeches, faqs,
+  blogs, places, books, zongjinglus,
+  koans, BlueCliffRecord, GatelessGate, EmptyValleyCollection,
+  sutras, Lankavatara, Surangama,
+  interpretations, practices, speeches, faqs,
 };
