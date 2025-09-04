@@ -1,0 +1,86 @@
+---
+title: "GIỚI THIỆU CÔNG ÁN"
+date: "2100-01-01"
+description: ""
+image: "/images/koans/who-am-i.jpg"
+excerpt: 
+  ""
+categories: ["Công án"]
+tags: ["Giới thiệu"]
+draft: false
+---
+
+import koanTypes, {koanDescription} from "../../data/koans/KoanType.ts";
+
+<section className="rules" id="rules">
+  <div className="container">
+      <div className="section-description top">
+          <details className="details">
+              <summary className="details-summary">
+                  { koanDescription?.top?.summary }
+              </summary>
+              <p className="details-sub">
+                  { koanDescription?.top?.full }
+              </p>
+          </details>
+      </div>
+
+      <div className="section-description middle">
+          <details className="details">
+              <summary className="details-summary">
+                  { koanDescription?.middle?.summary }
+              </summary>
+              <p>
+                  { koanDescription?.middle?.full }
+              </p>
+          </details>
+      </div>
+
+      <div className="section-description bottom">
+          { koanDescription?.bottom?.intro }
+          { koanDescription?.bottom?.body?.map(line => <h5>{line}</h5>) }
+      </div>
+
+      <div className="section-description blockquote">
+          <p><em>{ koanDescription?.blockquote?.intro }</em></p>
+          <blockquote cite="https://vi.wikipedia.org/wiki/C%C3%B4ng_%C3%A1n">
+              { koanDescription?.blockquote?.body }
+          </blockquote>
+      </div>
+
+      <div className="rules-grid">
+          Trong Lâm Tế tông tại Nhật Bản, các vị thiền sư thường phân biệt 5 loại công án:
+          {
+              koanTypes?.map(type => <div className="rule-card">
+                  <h3 className="rule-title">{ type.title }</h3>
+                  <p><em>{ type.subTitle }</em></p>
+                  <p className="rule-description">{ type.description }</p>
+              </div>)
+          }
+      </div>
+  </div>
+</section>
+
+<hr className="blog-rule" />
+
+> ✨ Nguồn:  https://hoavouu.com/p26a12723/4/tac-thu-nhat-cai-trong-khong-cua-dat-ma
+>
+> ✨ Nguồn:  https://quangduc.com/p1241a43253/2-tac-01-tac-03
+>
+> ✨ Nguồn:  http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01
+>
+> ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
+
+***
+
+## ℹ️ Thông tin thêm
+
+[^1]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">VUA LƯƠNG VŨ ĐẾ</a>
+
+[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ton-gia-bo-de-dat-ma/" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
+
+⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">Phim về Tổ BỒ ĐỀ ĐẠT MA</a>
+
+[^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
+
+http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355
