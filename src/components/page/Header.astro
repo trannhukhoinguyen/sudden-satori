@@ -31,17 +31,17 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <select id="nav-select" class="nav-select" aria-label="Main navigation">
               <option value="" disabled selected hidden>Tất cả Tập Công án</option>
               <option value={base + "koans"}>🪨 Tất cả Công án</option>
-              <option value={base + "BlueCliffRecord"}>🗻 Bích Nham Lục</option>
-              <option value={base + "GatelessGate"}>⛩ Vô Môn Quan</option>
-              <option value={base + "EmptyValleyCollection"}>🌴 Không Cốc Tập</option>
+              <option value={base + "blue-cliff-record"}>🗻 Bích Nham Lục</option>
+              <option value={base + "gateless-gate"}>⛩ Vô Môn Quan</option>
+              <option value={base + "empty-valley-collection"}>🌴 Không Cốc Tập</option>
             </select>
           </li>
           <li>
             <select id="nav-select" class="nav-select" aria-label="Main navigation">
               <option value="" disabled selected hidden>Tất cả Kinh</option>
               <option value={base + "sutras"}>📚 Tất cả Kinh</option>
-              <option value={base + "Lankavatara"}>📙 Kinh lăng Già</option>
-              <option value={base + "Surangama"}>📒 Kinh Lăng Nghiêm</option>
+              <option value={base + "lankavatara"}>📙 Kinh lăng Già</option>
+              <option value={base + "surangama"}>📒 Kinh Lăng Nghiêm</option>
             </select>
           </li>
           <li><a href={base + "practices"} class="nav-link" title="Thực hành">⚡️Thực hành</a></li>
