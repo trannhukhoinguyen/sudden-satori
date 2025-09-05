@@ -72,7 +72,6 @@ export const config: SiteConfig = {
 
     "places",
     "practices",
-    "zongjinglus",
     "speeches",
     "faqs",
   ],

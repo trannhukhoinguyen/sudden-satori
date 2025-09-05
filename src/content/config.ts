@@ -50,21 +50,6 @@ const books = defineCollection({
   }),
 });
 
-const zongjinglus  = defineCollection({
-  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/zongjinglus" }),
-  schema: z.object({
-    type: z.string().default('zongjinglus'),
-    schemaType: z.string().default('Article'),
-    title: z.string(),
-    description: z.string().optional(),
-    date: z.coerce.date(),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    author: z.string().default('Zen master'),
-  }),
-});
-
 /*NHÓM CÔNG ÁN*/
 const koans  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/koans" }),
@@ -178,8 +163,9 @@ const faqs  = defineCollection({
 });
 
 export const collections = {
-  blogs, places, books, zongjinglus,
+  blogs, places, books,
   koans,
   sutras,
-  interpretations, practices, speeches, faqs,
+  interpretations,
+  practices, speeches, faqs,
 };
