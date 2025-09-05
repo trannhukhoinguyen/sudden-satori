@@ -5,7 +5,7 @@ description: ""
 author: ""
 videoUrl: "https://www.youtube.com/embed/A9yQQSOy4hc"
 categories: ["Luận"]
-tags: ["Bát Nhã Tâm Kinh"]
+tags: ["Kinh Kim Cang Bát Nhã"]
 draft: false
 ---
 

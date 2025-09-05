@@ -4,7 +4,7 @@ date: "1610-01-01"
 description: "☸ Trích lọc từ THÍCH NỮ TUỆ ĐĂNG & THÍCH NHUẬN CHÂU Việt dịch"
 author: "Tăng Phụng Nghi"
 categories: ["Luận"]
-tags: ["Kinh Kim Cang", "Tông Thông"]
+tags: ["Kinh Kim Cang Bát Nhã", "Tông Thông"]
 pdfUrl: "/pdfs/kinh-kim-cang-tong-thong.pdf"
 draft: false
 ---

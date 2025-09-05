@@ -3,7 +3,7 @@ title: "6 vị đại thiền sư đã khai ngộ nhờ Kinh Lăng Nghiêm"
 description: ""
 date: "2025-08-26"
 categories: ["Bài viết"]
-tags: ["Kinh Lăng Nghiêm"]
+tags: ["Kinh Thủ Lăng Nghiêm"]
 author: "Hiệp hội Xúc tiến Văn hóa Trung Hoa, Thiền Lâm Học Xã"
 draft: false
 ---

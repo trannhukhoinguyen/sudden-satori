@@ -1,8 +1,12 @@
 export interface CongRongLu {
   id: number;
-  title: string;
+  titleOfficial?: string;
+  title?: string;
+  group: number;
+  path: string;
   description: string;
   author?: string,
+  cover?: string,
 }
 
 /*
@@ -11,9 +15,11 @@ export interface CongRongLu {
 const CongRongLus: CongRongLu[] = [
   {
     id: 1,
+    titleOfficial: "SƠ QUAN",
     title: "SƠ QUAN",
-    description: "...",
-    author: '',
+    group: 1,
+    path: "evc001-khong-roi-giai-cap",
+    description: "..."
   },
 ];
 

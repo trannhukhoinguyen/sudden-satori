@@ -1,6 +1,6 @@
 ---
-import "@/styles/post.css";
-import "@/styles/badgeList.css";
+import "@/styles/post/post.css";
+import "@/styles/badge/badgeList.css";
 import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import Layout from "../../layouts/Layout.astro";
 import TOC from "../../components/post/TOC.astro";
@@ -11,7 +11,7 @@ import PostHeader from "../../components/post/PostHeader.astro";
 import PostTags from "../../components/post/PostTags.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import PostImage from "../../components/post/PostImage.astro";
-import RelatedPost from "../../components/post/RelatedPost.astro";
+import RelatedPostList from "../../components/postList/RelatedPostList.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
@@ -72,8 +72,8 @@ const { frontmatter, Content } = post as any;
     <ItemReadAll collection={collection} />
   </footer>
 
-<!-- Related Post Section -->
-  <RelatedPost tags={frontmatter.tags} notIncludedPostTitle={frontmatter.title} type={frontmatter.type} />
+<!-- Related Post List Section -->
+  <RelatedPostList tags={frontmatter.tags} notIncludedPostTitle={frontmatter.title} type={frontmatter.type} />
 </Layout>
 
 <style>

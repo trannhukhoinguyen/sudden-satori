@@ -1,8 +1,12 @@
 export interface GatelessGate {
   id: number;
-  title: string;
+  titleOfficial?: string;
+  title?: string;
+  group: number;
+  path: string;
   description: string;
   author?: string,
+  cover?: string,
 }
 
 /*
@@ -11,7 +15,10 @@ export interface GatelessGate {
 const GatelessGates: GatelessGate[] = [
   {
     id: 1,
+    titleOfficial: "SƠ QUAN",
     title: "SƠ QUAN",
+    group: 1,
+    path: "evc001-khong-roi-giai-cap",
     description: "..."
   },
 ];

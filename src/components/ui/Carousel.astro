@@ -1,5 +1,5 @@
 ---
-import type { MasterAvatar } from '../../data/masterAvatars';
+import type { MasterAvatar } from '@/data/masterAvatars';
 
 interface Props { avatars: MasterAvatar[]; speedMs?: number; }
 const { avatars = [], speedMs = 100000 } = Astro.props as Props;

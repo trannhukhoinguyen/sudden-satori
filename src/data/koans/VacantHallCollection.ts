@@ -6,6 +6,7 @@ export interface VacantHallCollection {
   path: string;
   description: string;
   author?: string,
+  cover?: string,
 }
 
 /*
