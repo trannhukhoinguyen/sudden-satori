@@ -92,7 +92,9 @@ export const config: SiteConfig = {
     bluecliffrecord: "Bích Nham Lục",
     gatelessgate: "Vô Môn Quan",
     emptyvalleycollection: "Không Cốc Tập",
-    vacanthallcollection: "Hư Đường Tập",
+    vacanthallcollection: "Hư Đường Tập", // 
+    ironflute: "Thiết Địch Đảo Xuy - Tiếng Sáo Thép", // Tetteki Tosui
+    equanimitybook: "Thong Dong Lục", // Shoyoroku
 
     places: "Địa danh",
     practices: "Thực hành",
