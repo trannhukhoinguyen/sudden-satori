@@ -16,6 +16,7 @@ import FlatTags from "../../components/post/FlatTags.astro";
 import BoxedPostList from "../../components/postList/BoxedPostList.astro";
 import KoanPostList from "../../components/postList/KoanPostList.astro";
 import SutraPostList from "../../components/postList/SutraPostList.astro";
+import OtherPostList from "../../components/postList/OtherPostList.astro";
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
@@ -62,32 +63,7 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
                 ? <KoanPostList posts={posts} />
                 : ['sutras', 'interpretations'].includes(collection)
                     ? <SutraPostList posts={posts} />
-                    : <div class="posts-list">
-                        {posts.slice((page-1)*config.postsPerPage, page*config.postsPerPage).map((post: any) => {
-                            return (
-                                    <article class="post-item">
-                                        <h2 class="post-title">
-                                            <PostTitle post={post} />
-                                        </h2>
-
-                                        <!-- Image Section -->
-                                        <section class="image-area">
-                                            <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="200px" />
-                                        </section>
-
-                                        <div class="post-meta">
-                                            <PostExcerpt frontmatter={post.frontmatter} />
-
-                                            <PostReadMore post={post} />
-
-                                            <PostDateTime post={post} />
-
-                                            <PostTags frontmatter={post.frontmatter} />
-                                        </div>
-                                    </article>
-                            )
-                        })}
-                    </div>
+                    : <OtherPostList posts={posts} page={page} />
 
 <!-- Pagination Section -->
         <Pagination page={1} totalPages={totalPages} category={collection} />

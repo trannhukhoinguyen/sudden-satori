@@ -1,9 +1,12 @@
 ---
 title: "THẠCH SƯƠNG THẤT KHỨ"
 description: ""
+image: "/images/koans/great-wave.webp"
+excerpt:
+  "Thiền lại có cửa (quan) sao? ...."
 date: "2025-05-27"
 categories: ["Luận"]
-tags: ["Thực hành"]
+tags: ["Thực hành", "TS THẠCH SƯƠNG KHÁNH CHƯ"]
 author: "Thạch Sương Khánh Chư"
 draft: false
 ---
@@ -78,13 +81,14 @@ Tham thoại đầu không có gì để hiểu, để đạt, để nắm.
 
 > “Một ngày không nghi, là một ngày trôi qua vô ích.”
 
-***
+<hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
+
+> ✨ Nguồn: 
 
 ***
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
-
+[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>

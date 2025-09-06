@@ -4,7 +4,7 @@ import {config} from "../../config";
 import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 
-const { posts } = Astro.props;
+const { posts, icons = ['✨', '💫', '🔥', '❄', ] } = Astro.props;
 
 const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
 const groupsBySpecialTag = posts?.map((post: any) => post.frontmatter.tags[0]);
@@ -13,10 +13,13 @@ const groupsSorted = [
     groupsBySpecialTag.find((group: string) => group === 'Chưa phân loại'),
     ...groupsBySpecialTag.filter((group: string) => !['Giới thiệu', 'Chưa phân loại'].includes(group)),
 ];
-const postsGroupedBySpecialTag = groupsSorted.map((group: string) => ({
-    group: group,
-    postsGrouped: posts.filter((post: any) => post.frontmatter.tags[0] === group),
-}));
+const postsGroupedBySpecialTag = groupsSorted
+    ?.filter((group: string | undefined): group is string => !!group) // bỏ undefined
+    ?.map((group: string) => ({
+            group: group,
+            postsGrouped: posts.filter((post: any) => post.frontmatter.tags[0] === group),
+    }))
+    .filter((g) => g.postsGrouped.length > 0); // bỏ group không có bài;
 ---
 
 {

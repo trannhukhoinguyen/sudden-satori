@@ -1,22 +1,21 @@
 ---
 title: "Thiền Quan Sách Tấn"
 description: ""
+image: "/images/koans/great-wave.webp"
+excerpt:
+  "Thiền lại có cửa (quan) sao? ...."
 date: "2025-06-02"
 categories: ["Luận"]
 tags: ["Thực hành"]
 author: "Vân Thê Châu Hoằng"
 draft: false
+pdfUrl: "/pdfs/thien-quan-sach-tan.pdf"
 ---
-
-📖 <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
-
-📖 <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
-
-***
 
 ## TỰA
 
-Thiền lại có cửa (quan) sao? Đạo vốn không có trong, ngoài, ra, vào; nhưng người hành đạo bởi có mê, ngộ nên bậc đại thiện-tri-thức giữ cửa không thể không có khi mở, đóng. Các Ngài giữ khóa chốt kỹ càng, tra hỏi nghiêm ngặt, khiến những kẻ loạn ngôn, tà ý muốn vượt qua bị cửa ngăn cản không thể thực hiện được mưu gian, cũng là cái kế giữ lâu dài vậy.
+Thiền lại có cửa (quan) sao? 
+Đạo vốn không có trong, ngoài, ra, vào; nhưng người hành đạo bởi có mê, ngộ nên bậc đại thiện tri thức giữ cửa không thể không có khi mở, đóng. Các Ngài giữ khóa chốt kỹ càng, tra hỏi nghiêm ngặt, khiến những kẻ loạn ngôn, tà ý muốn vượt qua bị cửa ngăn cản không thể thực hiện được mưu gian, cũng là cái kế giữ lâu dài vậy.
 
 Tôi khi mới xuất gia được gặp một pho sách để trong phòng tên THIỀN MÔN PHẬT TỔ CƯƠNG MỤC. Trong ấy ghi chép những lời tường thuật của các vị Tôn túc về sự tham học, tu chứng của mình. Nào lúc mới tham học khó khăn thấu hiểu, lúc thực hành công phu nhọc nhằn khổ sở, đến sau cùng bỗng nhiên thấu ngộ. Tôi đọc qua, lòng rất kính mộ, nguyện học theo gương các Ngài. Bộ sách này các nơi khác không thấy có. Kế tôi đọc bộ Ngũ đăng chư ngữ lục trong Tạp truyện, không luận những vị xuất gia hay tại gia có thật tham, thật ngộ, tôi đều góp nhặt thêm vào phần trước pho sách.
 
@@ -26,13 +25,7 @@ Có thể nói quyển sách này rất cần thiết đối với người chư
 
 ***
 
-Niên hiệu Vạn Lịch năm thứ 28, đầu mùa Xuân
-
-CHÙA VÂN THÊ
-
-Sa môn CHÂU HOẰNG
-
-Cẩn chí
+### Niên hiệu Vạn Lịch năm thứ 28, đầu mùa Xuân - CHÙA VÂN THÊ - Sa môn CHÂU HOẰNG - Cẩn chí
 
 ***
 
@@ -580,8 +573,9 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 ***
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
 
+> ✨ Nguồn: <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
 ***
 
 ## ℹ️ Thông tin thêm

@@ -2260,3 +2260,13 @@ Sự lý không hai, không sự không lý. Không lý không sự, chú giải
 Nếu mà cũng chẳng hiểu, thì không chi bằng y theo lời xưa mà thôi. 
 Người xưa thấy các thượng tọa bách ban chẳng được, cho nên phải rủ lòng hướng các vị mà nói, tương văn trì Phật Phật, sao lại chẳng văn văn. 
 Không có chuyện gì nữa, tạm biệt!
+
+<hr class="blog-rule" />
+
+> ✨ Nguồn: 
+
+***
+
+## ℹ️ Thông tin thêm
+
+[^1]: ⭐️ 

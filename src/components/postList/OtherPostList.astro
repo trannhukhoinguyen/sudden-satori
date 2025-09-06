@@ -1,0 +1,45 @@
+---
+import "@/styles/post/boxedPostList.css";
+import {config} from "../../config";
+import PostExcerpt from "../post/PostExcerpt.astro";
+import PostImage from "../post/PostImage.astro";
+import PostReadMore from "../post/PostReadMore.astro";
+import PostTags from "../post/PostTags.astro";
+import PostTitle from "../post/PostTitle.astro";
+import PostDateTime from "../post/PostDateTime.astro";
+
+const { posts, page } = Astro.props;
+
+const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
+---
+
+{
+    posts.length > 0 ? (
+            <div class="posts-list">
+                    {posts.slice((page-1)*config.postsPerPage, page*config.postsPerPage).map((post: any) => {
+                            return (
+                                <article class="post-item">
+                                        <h2 class="post-title">
+                                                <PostTitle post={post} />
+                                        </h2>
+
+                                        <!-- Image Section -->
+                                        <section class="image-area">
+                                                <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="200px" />
+                                        </section>
+
+                                        <div class="post-meta">
+                                                <PostExcerpt frontmatter={post.frontmatter} />
+
+                                                <PostReadMore post={post} />
+
+                                                <PostDateTime post={post} />
+
+                                                <PostTags frontmatter={post.frontmatter} />
+                                        </div>
+                                </article>
+                            )
+                    })}
+            </div>
+    ) : <p>Chưa có bài viết {categoryName} nào.</p>
+}

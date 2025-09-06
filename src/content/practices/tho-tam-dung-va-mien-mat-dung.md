@@ -1,6 +1,9 @@
 ---
 title: "THÔ TÂM DỤNG & MIÊN MẬT DỤNG"
 description: ""
+image: "/images/koans/great-wave.webp"
+excerpt:
+  "Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất...."
 date: "2025-06-11"
 categories: ["Luận"]
 tags: ["Thực hành"]
@@ -53,11 +56,11 @@ Bằng không, há người chẳng bằng vật ư!
 
 ***
 
-> ✨ Nguồn: Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả). Việt Dịch: HT. Thích Duy Lực – Định Huệ
+> ✨ Nguồn: <a href="/practices/tham-thien-pho-thuyet" target="_blank">Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả). Việt Dịch: HT. Thích Duy Lực – Định Huệ</a>
 
 ***
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...
 

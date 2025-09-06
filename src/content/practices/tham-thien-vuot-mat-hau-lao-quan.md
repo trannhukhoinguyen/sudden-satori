@@ -1,6 +1,9 @@
 ---
 title: "THAM THIỀN VƯỢT MẠT HẬU LAO QUAN"
 description: ""
+image: "/images/koans/great-wave.webp"
+excerpt:
+  "Mạt hậu nghĩa là cuối cùng, lao quan là cửa ải kiên cố, khó vượt..."
 date: "2025-08-29"
 categories: ["Luận"]
 tags: ["Thực hành", "Mạt Hậu Lao Quan"]

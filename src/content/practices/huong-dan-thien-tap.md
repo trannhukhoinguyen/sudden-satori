@@ -1,15 +1,21 @@
 ---
 title: "HƯỚNG DẪN THIỀN TẬP"
 description: "Hòa Thượng Tuyên Hóa"
+image: "/images/koans/great-wave.webp"
+excerpt:
+  "Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. ...."
 date: "2025-06-28"
 categories: ["Luận"]
 tags: ["Thực hành"]
 author: "Thạch Sương Khánh Chư"
+draft: false
 ---
 
 ## SƠ CƠ TẬP THIỀN
 
-Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. Song ai đánh ai đây? Bạn tự đánh bạn đấy! Thế nghĩa là lý gì? Đa số người khi bắt đầu tập ngồi, họ không thực hành một cách thành thật, hễ ngồi vào thì thân nghiêng qua vẹo lại, đầu chúi tới gật lui, loay hoay nhúc nhích hoài mà không an định được. Tóm lại, họ ngồi không yên định được. Tuy vậy, chính cái chỗ, chính cái lúc không an định này mình phải làm chủ: đó gọi là định. Thân không muốn định, mình phải quản thúc, kiềm chế nó, cũng giống như “đập” nó vậy. Do đó gọi là “đả tọa”. Bạn cũng không để tâm ngó ra ngoài. Mỗi khi ý niệm chạy rong bạn phải lập tức kéo nó về lại, khiến cho tâm mình không chạy ra ngoài. Bạn sẽ cảm giác cái việc “kéo lại” này đau khổ thật chẳng khác gì sự khổ sở của kẻ bị đánh vậy. Do đó gọi là “đả tọa”.
+Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. 
+Song ai đánh ai đây? Bạn tự đánh bạn đấy! Thế nghĩa là lý gì? 
+Đa số người khi bắt đầu tập ngồi, họ không thực hành một cách thành thật, hễ ngồi vào thì thân nghiêng qua vẹo lại, đầu chúi tới gật lui, loay hoay nhúc nhích hoài mà không an định được. Tóm lại, họ ngồi không yên định được. Tuy vậy, chính cái chỗ, chính cái lúc không an định này mình phải làm chủ: đó gọi là định. Thân không muốn định, mình phải quản thúc, kiềm chế nó, cũng giống như “đập” nó vậy. Do đó gọi là “đả tọa”. Bạn cũng không để tâm ngó ra ngoài. Mỗi khi ý niệm chạy rong bạn phải lập tức kéo nó về lại, khiến cho tâm mình không chạy ra ngoài. Bạn sẽ cảm giác cái việc “kéo lại” này đau khổ thật chẳng khác gì sự khổ sở của kẻ bị đánh vậy. Do đó gọi là “đả tọa”.
 
 Vì vậy, việc tiên quyết của kẻ sơ cơ tập thiền là phải chịu khổ. Cái khổ này không thật là khó nhẫn, cũng chẳng có chi là to lớn lắm đâu, chỉ là đau chân, mỏi lưng, nhức xương vậy thôi. Do thế chữ “đả tọa” không phải là thứ ngọt ngào dễ nuốt đâu. Song, nếu bạn không “đả tọa” thì vĩnh viễn bạn chẳng gặt hái được thứ gì ngọt ngào. Do đó cổ nhân nói:
 
@@ -1394,8 +1400,8 @@ Ngồi trong một thời gian dài tự nhiên sẽ có thiền. Trú ngụ lâ
 
 Tham thiền khi tới trình độ tinh diệu, không những vọng tưởng tiêu tan, mà tính khí dịu hòa, bớt phiền não, nhân phẩm cao, khí độ cũng rộng lớn. Lúc đó trí huệ hiển bày, biết rõ phải trái, phân biệt thiện ác, tham sân si cũng được thanh lọc sạch, chỉ còn lại là ánh sáng của Giới Ðịnh Huệ chiếu rọi và soi thấu năm uẩn đều không.
 
-***
+***(Hòa Thượng Tuyên Hóa)***
 
-> Hòa Thượng Tuyên Hóa
->
-> https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9
+<hr class="blog-rule" />
+
+> ✨ Nguồn: https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9

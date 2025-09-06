@@ -2,9 +2,9 @@
 
 // ===== 1. Glob cố định cho từng collection =====
 const globMap = {
-  blogs: import.meta.glob('../content/blogs/*.{md,mdx}', { eager: true }),
-  places: import.meta.glob('../content/places/*.{md,mdx}', { eager: true }),
-  books: import.meta.glob('../content/books/*.{md,mdx}', { eager: true }),
+  blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}', { eager: true }),
+  places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
+  books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
 
   /*NHÓM LUẬN GIẢI*/
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}', { eager: true }),
@@ -12,18 +12,18 @@ const globMap = {
   /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/**/*.{md,mdx}', { eager: true }),
 
-  practices: import.meta.glob('../content/practices/*.{md,mdx}', { eager: true }),
+  practices: import.meta.glob('../content/practices/**/*.{md,mdx}', { eager: true }),
 
   /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}', { eager: true }),
 
-  speeches: import.meta.glob('../content/speeches/*.{md,mdx}', { eager: true }),
-  faqs: import.meta.glob('../content/faqs/*.{md,mdx}', { eager: true }),
+  speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
+  faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}', { eager: true }),
 };
 const globMapLazy = {
-  blogs: import.meta.glob('../content/blogs/*.{md,mdx}'),
-  places: import.meta.glob('../content/places/*.{md,mdx}'),
-  books: import.meta.glob('../content/books/*.{md,mdx}'),
+  blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}'),
+  places: import.meta.glob('../content/places/**/*.{md,mdx}'),
+  books: import.meta.glob('../content/books/**/*.{md,mdx}'),
 
   /*NHÓM LUẬN GIẢI*/
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}'),
@@ -31,13 +31,13 @@ const globMapLazy = {
   /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/**/*.{md,mdx}'),
 
-  practices: import.meta.glob('../content/practices/*.{md,mdx}'),
+  practices: import.meta.glob('../content/practices/**/*.{md,mdx}'),
 
   /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}'),
 
-  speeches: import.meta.glob('../content/speeches/*.{md,mdx}'),
-  faqs: import.meta.glob('../content/faqs/*.{md,mdx}'),
+  speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
+  faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}'),
 };
 
 // ===== 2. Mapping name → type =====

@@ -1,6 +1,9 @@
 ---
 title: "THAM THIỀN VƯỢT SƠ QUAN"
 description: ""
+image: "/images/koans/great-wave.webp"
+excerpt:
+  "Sơ Quan là cửa đầu tiên trong quá trình tham thiền chứng ngộ..."
 date: "2025-08-29"
 categories: ["Luận"]
 tags: ["Thực hành", "Sơ Quan"]

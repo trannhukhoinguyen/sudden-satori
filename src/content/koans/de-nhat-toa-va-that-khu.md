@@ -45,7 +45,7 @@ Trước khi nén hương cháy hết Đệ Nhất Tòa đã mất ngay chổ ô
 Lúc ấy Cửu Phong vỗ vai tử thi và nói: *Ông muốn ngồi mà tịch, hay đứng mà hóa cũng được.
 Còn về ý nghĩa những lời nói của thầy, ông vẫn chẳng hiểu chút nào!"*
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html
 

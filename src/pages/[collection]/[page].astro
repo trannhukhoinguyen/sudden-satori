@@ -6,15 +6,9 @@ import Layout from "../../layouts/Layout.astro";
 import Pagination from "../../components/page/Pagination.astro";
 import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import { config } from "../../config";
-import PostExcerpt from "../../components/post/PostExcerpt.astro";
-import PostImage from "../../components/post/PostImage.astro";
-import PostReadMore from "../../components/post/PostReadMore.astro";
-import PostTags from "../../components/post/PostTags.astro";
-import PostDateTime from "../../components/post/PostDateTime.astro";
-import PostTitle from "../../components/post/PostTitle.astro";
 import FlatTags from "../../components/post/FlatTags.astro";
-import KoanPostList from "../../components/postList/KoanPostList.astro";
-import SutraPostList from "../../components/postList/SutraPostList.astro";
+import BoxedPostList from "../../components/postList/KoanPostList.astro";
+import OtherPostList from "../../components/postList/OtherPostList.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) => {
@@ -62,37 +56,12 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 <!-- Post List Section -->
     {posts.length > 0 ? (
         collection === 'koans'
-            ? <KoanPostList posts={posts} />
+            ? <BoxedPostList posts={posts} icons={['🪨', '🍁', '🧊', '🌋']} />
             : ['sutras', 'interpretations'].includes(collection)
-                ? <SutraPostList posts={posts} />
-                : <div class="posts-list">
-                  {posts.slice((page-1)*config.postsPerPage, page*config.postsPerPage).map((post: any) => {
-                    return (
-                        <article class="post-item">
-                          <h2 class="post-title">
-                            <PostTitle post={post} />
-                          </h2>
+                ? <BoxedPostList posts={posts} icons={['📚', '📓', '📙', '📒']} />
+                : <OtherPostList posts={posts} page={page} />
 
-                          <!-- Image Section -->
-                          <section class="image-area">
-                            <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="200px" />
-                          </section>
-
-                          <div class="post-meta">
-                            <PostExcerpt frontmatter={post.frontmatter} />
-
-                            <PostReadMore post={post} />
-
-                            <PostDateTime post={post} />
-
-                            <PostTags frontmatter={post.frontmatter} />
-                          </div>
-                        </article>
-                    )
-                  })}
-                </div>
-
-<!-- Pagination Section -->
+         <!-- Pagination Section -->
         <Pagination page={pageNum} totalPages={totalPages} category={collection} />
 
 <!-- All Collection Tags Section -->
