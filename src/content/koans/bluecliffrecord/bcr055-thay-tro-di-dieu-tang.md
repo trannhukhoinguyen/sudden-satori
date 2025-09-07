@@ -109,7 +109,7 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-dao-ngo-vien-tri/" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4789-tsdaongo2/" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-tiem-nguyen-trong-hung/" target="_blank">TS TIỆM NGUYÊN TRỌNG HƯNG</a>
 

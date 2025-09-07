@@ -66,7 +66,7 @@ Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý r
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4839-tstrieuchau" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
 [1] Đoạn này không có trang bản của Ito Yuten.
 

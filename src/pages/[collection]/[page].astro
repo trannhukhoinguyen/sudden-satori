@@ -7,8 +7,8 @@ import Pagination from "../../components/page/Pagination.astro";
 import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import { config } from "../../config";
 import FlatTags from "../../components/post/FlatTags.astro";
-import BoxedPostList from "../../components/postList/KoanPostList.astro";
 import OtherPostList from "../../components/postList/OtherPostList.astro";
+import BoxedPostList from "../../components/postList/BoxedPostList.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) => {
@@ -56,7 +56,7 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 <!-- Post List Section -->
     {posts.length > 0 ? (
         collection === 'koans'
-            ? <BoxedPostList posts={posts} icons={['🪨', '🍁', '🧊', '🌋']} />
+            ? <BoxedPostList posts={posts} icons={['🪨', '🍁', '🌺', '🌸']} />
             : ['sutras', 'interpretations'].includes(collection)
                 ? <BoxedPostList posts={posts} icons={['📚', '📓', '📙', '📒']} />
                 : <OtherPostList posts={posts} page={page} />

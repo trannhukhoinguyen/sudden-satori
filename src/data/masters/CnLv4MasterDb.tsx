@@ -277,7 +277,7 @@ const CnLv4MasterDb = [
     disciples: ['Xuedou Changtong'],
     image: '/',
     reference: ['https://terebess.hu/zen/mesterek/ChangshaJingcen.html', 'https://pl.wikipedia.org/wiki/Changsha_Jingcen',
-      'http://thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam', 'https://blog.phapthihoi.org/gt-member/ts-truong-sa-canh-sam/',
+      'http://thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam', 'http://www.thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/truong-sa-canh-sam-k3027.html#google_vignette'],
   },
   {

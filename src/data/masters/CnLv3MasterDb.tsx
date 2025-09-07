@@ -561,7 +561,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/diem-quan-te-an-k587.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/diem-quan-te-an-k3692.html',
-      'https://blog.phapthihoi.org/gt-member/ts-diem-quan-te-an/', 'https://terebess.hu/zen/yanguan.html'],
+      'http://thuongchieu.net/index.php/phapthoai/suphu/4779-thiensutean', 'https://terebess.hu/zen/yanguan.html'],
   },
   {
     id: '36.3.28',

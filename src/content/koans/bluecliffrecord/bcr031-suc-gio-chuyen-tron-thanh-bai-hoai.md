@@ -217,7 +217,7 @@ Dù cho là tay chuyên gia đi nữa, lúc không có bệnh cũng nên tìm ch
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-ma-coc-bao-triet/" target="_blank">TS MA CỐC BẢO TRIỆT</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4775-tsbaotriet" target="_blank">TS MA CỐC BẢO TRIỆT</a>
 
 [^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
 

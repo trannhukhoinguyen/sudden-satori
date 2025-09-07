@@ -1,6 +1,5 @@
 ---
 title: "TĂNG HỎI THẠCH SƯƠNG"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -113,4 +112,4 @@ Mới tin rằng, hội được thì trong đường thọ dụng, không ngờ
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^1]: ⭐️ <a href="https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>

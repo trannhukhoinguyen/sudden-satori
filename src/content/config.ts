@@ -1,14 +1,16 @@
 import {defineCollection, z} from 'astro:content';
 import { glob } from 'astro/loaders';
 
+const TODAY = () => new Date();
+
 const blogs = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/blogs" }),
   schema: z.object({
     type: z.string().default('blogs'),
     schemaType: z.string().default('Article'),
-    title: z.string(),
+    title: z.string().default('Bài nghiên cứu'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
@@ -22,7 +24,7 @@ const places = defineCollection({
   schema: z.object({
     type: z.string().default('places'),
     schemaType: z.string().default('Article'),
-    title: z.string(),
+    title: z.string().default('Địa điểm'),
     description: z.string().optional(),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
@@ -36,9 +38,9 @@ const books = defineCollection({
   schema: z.object({
     type: z.string().default('books'),
     schemaType: z.string().default('Books'),
-    title: z.string(),
+    title: z.string().default('Sách'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
@@ -56,9 +58,9 @@ const koans  = defineCollection({
   schema: z.object({
     type: z.string().default('koans'),
     schemaType: z.string().default('Article'),
-    title: z.string(),
+    title: z.string().default('Công án'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
@@ -77,9 +79,9 @@ const sutras  = defineCollection({
   schema: z.object({
     type: z.string().default('sutras'),
     schemaType: z.string().default('Article'),
-    title: z.string(),
+    title: z.string().default('Kinh'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
@@ -98,9 +100,9 @@ const interpretations  = defineCollection({
   schema: z.object({
     type: z.string().default('interpretations'),
     schemaType: z.string().default('Article'),
-    title: z.string(),
+    title: z.string().default('Luận'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
@@ -118,9 +120,9 @@ const practices  = defineCollection({
   schema: z.object({
     type: z.string().default('practices'),
     schemaType: z.string().default('Article'),
-    title: z.string(),
+    title: z.string().default('Thực hành'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
@@ -138,9 +140,9 @@ const speeches  = defineCollection({
   schema: z.object({
     type: z.string().default('speeches'),
     schemaType: z.string().default('Article'),
-    title: z.string(),
+    title: z.string().default('Ngữ lục'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
@@ -153,9 +155,9 @@ const faqs  = defineCollection({
   schema: z.object({
     type: z.string().default('faqs'),
     schemaType: z.string().default('FAQPage'),
-    title: z.string(),
+    title: z.string().default('Hỏi đáp'),
     description: z.string().optional(),
-    date: z.coerce.date(),
+    date: z.coerce.date().default(TODAY),
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),

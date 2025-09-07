@@ -1,12 +1,11 @@
 ---
 title: "THANH NGUYÊN GIAI CẤP"
-date: "2025-08-05"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "TS Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?"
 categories: ["Công án"]
-tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ"]
+tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ", "TS LỤC TỔ HUỆ NĂNG"]
 draft: false
 ---
 
@@ -26,24 +25,24 @@ Ngài Đầu Tử cử:
 
 1
 
-Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì để không bị rơi vào giai cấp (thứ bậc)?
-
-Tổ hỏi: Ông từng làm việc gì?
-
-Hành Tư thưa, Thánh đế cũng chẳng làm.
-
-Tổ bảo, vậy thì thuộc giai cấp nào?
-
-Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?
-
-Tổ dạy, đúng như vậy, ông cố gắng giữ gìn, ta có bài kệ ấn chứng cho ông.
+> Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì để không bị rơi vào giai cấp (thứ bậc)?  <em>(nên làm việc cho tốt đâu cần hỏi đường trước)</em>
+>
+> Tổ hỏi: Ông từng làm việc gì?
+>
+> Hành Tư thưa, Thánh đế cũng chẳng làm.
+>
+> Tổ bảo, vậy thì thuộc giai cấp nào?
+>
+> Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?
+>
+> Tổ dạy, đúng như vậy, ông cố gắng giữ gìn, ta có bài kệ ấn chứng cho ông.
 
 ***
 
 2
 
-Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì mới không rơi vào thứ bậc (nên làm việc cho tốt đâu cần hỏi đường trước).
-
+> Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì mới không rơi vào thứ bậc.
+>
 Tổ hỏi: Ông từng làm việc gì? (bày hết tâm can).
 
 Hành Tư thưa: Thánh đế cũng chẳng làm (một viên hoàn đơn, chạm vào sắt thành vàng).
@@ -160,4 +159,6 @@ Không bày ấn báu vẫn tôn kính.
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-thanh-nguyen-hanh-tu/" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4645-tshanhtu" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>
+
+[^2]: ⭐️ <a href="https://quangduc.com/p157a72133/quyen-05-luc-to-hue-nang-va-phap-he" target="_blank">TS LỤC TỔ HUỆ NĂNG</a>

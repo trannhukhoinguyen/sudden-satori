@@ -1,6 +1,5 @@
 ---
 title: "ĐẠO NGÔ THÂM SÂU"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -110,4 +109,4 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-dao-ngo-vien-tri/" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4789-tsdaongo2/" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>

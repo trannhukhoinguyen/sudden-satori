@@ -1,10 +1,9 @@
 ---
 title: "THÚY NHAM DẠY ĐỒ CHÚNG CUỐI HẠ"
-date: "2025-08-30"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Cuối mùa kiết hạ, Ngài Thúy Nham dạy chúng rằng, 'Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. Thử nhìn xem lông mày của Thúy Nham có còn không?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS THÚY NHAM LINH THAM"]
 draft: false
@@ -32,13 +31,14 @@ Thử nói xem bằng vào nguyên lý nào mà nói như thế? Xin thử nêu 
 
 ## CỬ:
 
-> Cuối mùa kiết hạ Thúy Nham [^1] dạy chúng rằng, “Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. 
+> Cuối mùa kiết hạ, Ngài Thúy Nham [^1] dạy chúng rằng, 
+> “*Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. Thử nhìn xem lông mày của Thúy Nham có còn không?*” 
 > 
-> Thử nhìn xem lông mày của Thúy Nham có còn không?” 
+> Ngài Bảo Phúc nói, “_Kẻ làm giặc tâm trống không_” 
 > 
-> Bảo Phúc nói, “ Kẻ làm giặc tâm trống không.” 
+> Ngài Trường khánh nói, “_Sinh_”. 
 > 
-> Trường khánh nói, “Sinh”. Vân Môn nói, “Quan”.
+> Ngài Vân Môn nói, “_Quan_”.
 
 ## BÌNH
 
@@ -160,7 +160,7 @@ Mãi tới khúc cuối mói nói, “Trường Khánh biết rõ, lông mày m�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-thuy-nham-linh-tham/" target="_blank">TS THÚY NHAM LINH THAM</a>
+[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thuy-nham-k44421.html" target="_blank">TS THÚY NHAM LINH THAM</a>
 
 
 

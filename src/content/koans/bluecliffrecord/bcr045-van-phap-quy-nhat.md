@@ -72,6 +72,6 @@ Há không nghe Long Nha nói, “Học đạo trước hết phải vì ngộ, 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4839-tstrieuchau" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
 

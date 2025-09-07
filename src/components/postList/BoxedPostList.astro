@@ -4,7 +4,15 @@ import {config} from "../../config";
 import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 
-const { posts, icons = ['✨', '💫', '🔥', '❄', ] } = Astro.props;
+const {
+        posts,
+        icons = {
+                'Giới thiệu': '✨',
+                'Chưa phân loại': '💫',
+                'odd': '🔥',
+                'even': '🌊',
+        },
+} = Astro.props;
 
 const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
 const groupsBySpecialTag = posts?.map((post: any) => post.frontmatter.tags[0]);
@@ -26,11 +34,9 @@ const postsGroupedBySpecialTag = groupsSorted
     posts.length > 0 ? (
         postsGroupedBySpecialTag?.map((postGrouped: any, index: number) => <h2 class="boxed-post-list-title-medium">
             {
-                postGrouped.group === 'Giới thiệu'
-                    ? '✨'
-                    : postGrouped.group === 'Chưa phân loại'
-                        ? '🍁'
-                        : +index%2 ? '🧊' : '🌋'
+                    ['Giới thiệu', 'Chưa phân loại'].includes(postGrouped.group)
+                        ? icons[postGrouped.group]
+                        : index%2 === 0 ? icons['even'] : icons['odd']
             }
             {postGrouped.group}
         </h2>

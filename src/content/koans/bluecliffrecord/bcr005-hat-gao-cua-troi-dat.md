@@ -1,6 +1,5 @@
 ---
 title: "HẠT GẠO CỦA TUYẾT PHONG"
-date: "2025-08-04"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -24,9 +23,10 @@ Nếu như là người mắt sáng, chẳng thể bị lừa chút nào. Nếu 
 
 ## CỬ:
 
-Tuyết Phong [^1] dạy chúng nói rằng: “ Gom cả trời đất lại, chỉ lớn bằng một hạt gạo.
-
-Ném xuống trước mặt, nếu vẫn mê mờ không hiểu tôi sẽ đánh trống mời tất cả mọi người đến xem.
+> Ngài Tuyết Phong [^1] dạy chúng nói rằng: 
+> 
+> “_Gom cả trời đất lại, chỉ lớn bằng một hạt gạo.
+> Ném xuống trước mặt, nếu vẫn mê mờ không hiểu tôi sẽ đánh trống mời tất cả mọi người đến xem_"
 
 ## BÌNH
 
@@ -152,10 +152,6 @@ Có thể nói là thầy ta mở rộng cửa nẻo, vạch rõ ra cho các ôn
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
-
-[^2]: ⭐️  
-
-[^3]: ⭐️  
+[^1]: ⭐️ <a href="https://hoavouu.com/a17602/21-thien-su-nghia-ton-o-tuyet-phong" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
 
 

@@ -1,6 +1,5 @@
 ---
 title: "NƯỚC CON AN ỔN"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -24,17 +23,17 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-- Dược Sơn hỏi Sa Di Cao: Ta ở Trường An huyên náo.
-
-- Sa di thưa: Nước con an ổn.
-
-- Dược Sơn hoan hỷ nói: Ông nhờ xem kinh được, thừa hỏi đạt được.
-
-- Sa di thưa: Không phải xem kinh được, cũng không hỏi đạt được.
-
-- Dược Sơn nói: Có người không xem kinh và thừa hỏi sao không đạt được.
-
-- Sa di Cao thưa: Chỗ bảo không đạt được, vì họ không chịu chấp nhận thôi.
+> Ngài Dược Sơn [^1] hỏi Ngài Sa Di Cao [^2]: *Ta ở Trường An huyên náo*
+>
+> Ngài Sa di thưa: *Nước con an ổn*
+>
+> Ngài Dược Sơn hoan hỷ nói: *Ông nhờ xem kinh được, hay thưa hỏi mà được*
+>
+> Ngài Sa di thưa: *Không phải xem kinh được, cũng không hỏi được*
+>
+> Ngài Dược Sơn nói: *Có người không xem kinh và thừa hỏi sao không được*
+>
+> Ngài Sa di Cao thưa: *Chỗ bảo không đạt được, vì họ không chịu chấp nhận thôi*
 
 ## BÌNH XƯỚNG
 
@@ -129,7 +128,6 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 > Mầm tốt mọc nhờ đất
 > 
 > Đại ngộ không còn Thầy
-> 
 
 ***
 
@@ -139,4 +137,6 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">TS DƯỢC SƠN DUY NGHIỄM</a>
+
+[^2]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4794-sadicao" target="_blank">TS SA DI CAO</a>

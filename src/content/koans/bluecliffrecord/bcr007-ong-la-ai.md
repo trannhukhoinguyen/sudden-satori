@@ -1,10 +1,9 @@
 ---
 title: "HUỆ SIÊU HỎI VỀ PHẬT"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn, H'uệ Siêu xin hỏi hòa thượng, Phật là gì?'. Pháp Nhãn nói, 'Chú là Huệ Siêu'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHÁP NHÃN VĂN ÍCH", "TS HUỆ SIÊU"]
 draft: false
@@ -12,22 +11,24 @@ draft: false
 
 ## THÙY
 
-> Trước tiếng một câu, ngàn thánh không truyền. Chưa thấy rõ ra, như xa ngàn cõi.
-> Dù cho ông có phân biện được nó trước khi có âm thanh thốt lên, làm tất cả thiên hạ phải líu lưỡi, ông vẫn chưa phải là một tay sắc bém.
-> Cho nên mới nói rằng, “Trời không che hết, đất không chở nổi. Hư không không chứa nổi, trời trăng không chiếu được.”
-> Chỗ không có Phật, mình được tôn xưng,mới bắt đầu một sợi lông, phóng đại quang minh, tung hoành ngang dọc, tự tại trong sự vật, bất cứ cái gì đụng tay vào, không có cái gì là không phải. Thử nói xem, đạt được cái gì mà lại kỳ đặc như thế? Lại nói, “Đại chúng có hiểu không?” Ngựa mệt thuở trước không ai biết, chỉ nói công lao chum cả trời.
-> Bây giờ tạm gác việc này qua một bên, công án của Tuyết Đậu thì như thế nào? Xin thử nêu lên xem.
+Trước tiếng một câu, ngàn thánh không truyền. Chưa thấy rõ ra, như xa ngàn cõi.
+Dù cho ông có phân biện được nó trước khi có âm thanh thốt lên, làm tất cả thiên hạ phải líu lưỡi, ông vẫn chưa phải là một tay sắc bém.
+Cho nên mới nói rằng, “Trời không che hết, đất không chở nổi. Hư không không chứa nổi, trời trăng không chiếu được.”
+
+Chỗ không có Phật, mình được tôn xưng,mới bắt đầu một sợi lông, phóng đại quang minh, tung hoành ngang dọc, tự tại trong sự vật, bất cứ cái gì đụng tay vào, không có cái gì là không phải. Thử nói xem, đạt được cái gì mà lại kỳ đặc như thế? Lại nói, “Đại chúng có hiểu không?” Ngựa mệt thuở trước không ai biết, chỉ nói công lao chum cả trời.
+Bây giờ tạm gác việc này qua một bên, công án của Tuyết Đậu thì như thế nào? Xin thử nêu lên xem.
 
 ## CỬ:
 
-- Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn [^1], *Huệ Siêu xin hỏi hòa thượng, Phật là gì?*
-
-- Pháp Nhãn nói, *Chú là Huệ Siêu*
+> Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn [^1], *Huệ Siêu xin hỏi hòa thượng, Phật là gì?*
+>
+> Pháp Nhãn nói, *Chú là Huệ Siêu*
 
 ## BÌNH
 
 Pháp Nhãn có khả năng vừa đập vừa mổ, và lại biết sử dụng cái khả năng này cho nên mới đáp như thế được. 
-Đó chính là siêu việt qua thanh sắc, đắc đại tự tại, túng đoạt sinh sát gì là ở nơi mình cả. Thầy ta quả thật là đặc sắc. 
+Đó chính là siêu việt qua thanh sắc, đắc đại tự tại, túng đoạt sinh sát gì là ở nơi mình cả. 
+Thầy ta quả thật là đặc sắc. 
 
 Người ở các nơi bàn luận về công án này rất nhiều, số người lấy tri thức cảm quan ra hiểu nó cũng không phải là ít. 
 Đâu có biết là mỗi khi cổ nhân dạy một câu hay một lời đều tựa như đá lửa điện chớp, mở thẳng ra một con đường chính.

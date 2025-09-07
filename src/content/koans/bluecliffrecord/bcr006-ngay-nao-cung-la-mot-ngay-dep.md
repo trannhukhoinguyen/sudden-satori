@@ -1,10 +1,9 @@
 ---
 title: "MỘT NGÀY ĐẸP CỦA VÂN MÔN"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Vân Môn Đại Sư nói: 'Ngày nào cũng là một ngày đẹp'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
 draft: false
@@ -16,9 +15,9 @@ draft: false
 
 ## CỬ:
 
-> Vân Môn Đại Sư [^1] nói:
-> Không hỏi ông về trước ngày 15, sau ngày 15 thử nói một câu xem?
-> Rồi tự trả lời: Ngày nào cũng là một ngày đẹp.
+> Vân Môn Đại Sư [^1] nói: _Không hỏi ông về trước ngày 15, sau ngày 15 thử nói một câu xem?_
+> 
+> Rồi tự trả lời: _Ngày nào cũng là một ngày đẹp_.
 
 ## BÌNH
 

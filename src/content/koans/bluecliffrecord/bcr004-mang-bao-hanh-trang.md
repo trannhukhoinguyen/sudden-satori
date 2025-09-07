@@ -1,6 +1,5 @@
 ---
 title: "ĐỨC SƠN MANG BAO HÀNH TRANG"
-date: "2025-08-04"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -130,5 +129,5 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-duc-son-tuyen-giam/" target="_blank">TS ĐỨC SƠN TUYÊN GIÁM</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-qui-son-linh-huu/" target="_blank">TS QUI SƠN LINH HỰU</a>
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu" target="_blank">TS QUI SƠN LINH HỰU</a>
 

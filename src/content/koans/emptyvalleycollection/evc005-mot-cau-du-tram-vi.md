@@ -1,6 +1,5 @@
 ---
 title: "VÂN NHAM THAM VẤN DƯỢC SƠN"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -21,35 +20,31 @@ Ngài Đan Hà dạy chúng:
 
 Ngài Đầu Tử cử: 
 
-- Vân Nham ban đầu tham vấn Dược Sơn. Dược Sơn hỏi: *Từ đâu đến?*
-
-- Vân Nham thưa: *Từ Bá Trượng đến*
-
-- Dược Sơn hỏi: *Bá Trượng dạy pháp gì?*
-
-- Vân Nham thưa: *Có lúc dạy một câu đủ trăm vị*
-
-- Dược Sơn nói: *Mặn là vị mặn, lạt là vị lạt, không mặn không lạt là vị bình thường. 
-Làm gì có một câu đủ trăm vị. Hiện tại việc sanh tử thế nào?*
-
-- Vân Nham thưa: *20 năm không có sanh tử*
-
-- Dược Sơn nói: *20 năm sống với Bá Trượng tất khi về sẽ thành hội*
-
-- Dược Sơn hỏi: *Huynh Hải dạy pháp gì?*
-
-- Vân Nham thưa: *Có khi ngồi ngoài câu tình thi, ngoài đàm chẳng liên quan*
-
-- Dược Sơn hỏi: *Còn pháp gì nữa không?*
-
-- Vân Nham thưa: *Có khi thượng đường xong, đại chúng vừa giải tán. 
-Ngài gọi đại chúng. 
-Đại chúng quay đầu nhìn.
-Ngài nói “Là cái gì?”*
-
-- Dược Sơn bảo: *Sao không nói sớm?* 
-
-Vân Nham ngộ ngay lời này.
+> Vân Nham ban đầu tham vấn Dược Sơn. Dược Sơn hỏi: *Từ đâu đến?*
+>
+> Vân Nham thưa: *Từ Bá Trượng đến*
+>
+> Dược Sơn hỏi: *Bá Trượng dạy pháp gì?*
+>
+> Vân Nham thưa: *Có lúc dạy một câu đủ trăm vị*
+>
+> Dược Sơn nói: *Mặn là vị mặn, lạt là vị lạt, không mặn không lạt là vị bình thường. Làm gì có một câu đủ trăm vị. Hiện tại việc sanh tử thế nào?*
+>
+> Vân Nham thưa: *20 năm không có sanh tử*
+>
+> Dược Sơn nói: *20 năm sống với Bá Trượng tất khi về sẽ thành hội*
+>
+> Dược Sơn hỏi: *Huynh Hải dạy pháp gì?*
+>
+> Vân Nham thưa: *Có khi ngồi ngoài câu tình thi, ngoài đàm chẳng liên quan*
+>
+> Dược Sơn hỏi: *Còn pháp gì nữa không?*
+>
+> Vân Nham thưa: *Có khi thượng đường xong, đại chúng vừa giải tán. Ngài gọi đại chúng. Đại chúng quay đầu nhìn. Ngài nói “Là cái gì?”*
+>
+> Dược Sơn bảo: *Sao không nói sớm?* 
+>
+> Vân Nham ngộ ngay lời này.
 
 ## BÌNH XƯỚNG
 
@@ -142,4 +137,6 @@ Sao vậy?
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">TS DƯỢC SƠN DUY NGHIỄM</a>
+
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">TS VÂN NHAM ĐÀM THẠNH</a>

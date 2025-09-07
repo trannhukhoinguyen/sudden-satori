@@ -1,6 +1,5 @@
 ---
 title: "BỐN CỬA CỦA TRIỆU CHÂU"
-date: "2025-08-30"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -135,7 +134,7 @@ Tuyết Đậu nói, “Đông tây nam bắc đối diện nhau, bao nhiêu tr�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-trieu-chau-tung-tham/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4839-tstrieuchau" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
 [^22]: ⭐️ 
 

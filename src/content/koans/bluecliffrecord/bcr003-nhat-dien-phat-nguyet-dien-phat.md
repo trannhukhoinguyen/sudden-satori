@@ -1,6 +1,5 @@
 ---
 title: "MÃ SƯ BẤT AN"
-date: "2025-06-14"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -118,4 +117,4 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-ma-to-dao-nhat/" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>

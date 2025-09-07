@@ -4,7 +4,7 @@ description: ""
 date: "2025-06-12"
 categories: ["Sách"]
 tags: ["Kho báu"]
-author: ["Thiền sư Văn Thủ"]
+author: ["TS VĂN THỦ"]
 draft: false
 ---
 
@@ -56,11 +56,27 @@ Chương 22 - Nơi hoàn toàn thôi nghỉ
 
 Đạo vốn vô ngôn; do ngôn mà hiển đạo, thế nên có mạn lục, có bảo huấn, có bút ngữ, có võ khố.
 
-Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 – 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích. Nhưng các hàng xuất gia khắp chốn hải hồ tìm đến bên Ngài kết am tranh tu học số đông không kể xiết. Rốt cuộc, danh Ngài thấu đến cửu trùng, vua thỉnh Ngài trụ trì hai chùa Pháp Thường và Linh Nguyên, ban hiệu là Định Huệ Minh Quang Phật ĐảnhQuốc Sư. Những khi nhàn rỗi, Ngài xem lại gương xưa góp nhặt những di ngôn, vãng hạnh của Phật Tổ và thêm vào đó lời phẩm bình biên tập lại thành bộ Truy Môn Bảo Tạng Tập (trong bản dịch nầy tạm lấy nhan đề là Kho Báu Nhà Thiền). Bộ sách nầy thật là cây đuốc huệ trong đường tăm tối, là thuốc hay cho người bệnh, chẳng những lợi cho người đương thời mà cũng là tiếp độ kẻ hậu côn, thật không có gì hơn vậy.
+Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 – 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích. 
 
-Than ôi! Vào niên hiệu Bảo Vĩnh vì ảnh hưởng thời cuộc nên đâu có khắc bản và muốn lưu hành trong đời cũng không làm sao được.Ngày gần đây, có một vị Tăng phát tâm khắc lại tập này để rộng truyền bá lưu thông, lúc khởi công có nhờ tôi viết bài tựa. Từ chối không được, tôi đành phải quên mình kiến thức hẹp hòi mà viết vài lời quê kệch để ở đầu sách. Các vị tham huyền thừa sức xem qua bộ sách nầy hết lòng khâm phục, mỗi chữ mỗi lời quả biết là cốt tủy của Quốc sư vậy.
+Tuy nhiên, các hàng xuất gia khắp chốn hải hồ tìm đến bên Ngài kết am tranh tu học số đông không kể xiết. 
 
-Ở đây, phải chăng do ngôn mà hiển đạo? Vậy thì, mở rộng kho báu lấy ra của báu nhà mình là đây vậy. Tuy nhiên, chìa vàng khóa ngọc nay về tay ai, chớ nói Tân La tại Hải Đông!
+Rốt cuộc, danh Ngài thấu đến cửu trùng, vua thỉnh Ngài trụ trì hai chùa Pháp Thường và Linh Nguyên, ban hiệu là Định Huệ Minh Quang Phật ĐảnhQuốc Sư. 
+
+Những khi nhàn rỗi, Ngài xem lại gương xưa góp nhặt những di ngôn, vãng hạnh của Phật Tổ và thêm vào đó lời phẩm bình biên tập lại thành bộ Truy Môn Bảo Tạng Tập (trong bản dịch nầy tạm lấy nhan đề là Kho Báu Nhà Thiền). 
+
+Bộ sách nầy thật là cây đuốc huệ trong đường tăm tối, là thuốc hay cho người bệnh, chẳng những lợi cho người đương thời mà cũng là tiếp độ kẻ hậu côn, thật không có gì hơn vậy.
+
+Than ôi! Vào niên hiệu Bảo Vĩnh vì ảnh hưởng thời cuộc nên đâu có khắc bản và muốn lưu hành trong đời cũng không làm sao được.
+
+Ngày gần đây, có một vị Tăng phát tâm khắc lại tập này để rộng truyền bá lưu thông, lúc khởi công có nhờ tôi viết bài tựa. 
+
+Từ chối không được, tôi đành phải quên mình kiến thức hẹp hòi mà viết vài lời quê kệch để ở đầu sách. 
+
+Các vị tham huyền thừa sức xem qua bộ sách nầy hết lòng khâm phục, mỗi chữ mỗi lời quả biết là cốt tủy của Quốc sư vậy.
+
+Ở đây, phải chăng do ngôn mà hiển đạo? Vậy thì, mở rộng kho báu lấy ra của báu nhà mình là đây vậy.
+
+Tuy nhiên, chìa vàng khóa ngọc nay về tay ai, chớ nói Tân La tại Hải Đông!
 
 > Tiền Hoa Nhạc, Lương Tài Nguyên Minh
 >

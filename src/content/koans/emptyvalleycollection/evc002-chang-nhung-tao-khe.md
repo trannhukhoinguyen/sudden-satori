@@ -1,12 +1,11 @@
 ---
 title: "CHẲNG NHỮNG TÀO KHÊ"
-date: "2025-08-07"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "TS Hành Tư bảo: Nói cho ông không ngại, chỉ sợ sau này không có người kế thừa"
 categories: ["Công án"]
-tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ"]
+tags: ["KHÔNG CỐC TẬP", "TS THẠCH ĐẦU HY THIÊN", "TS THANH NGUYÊN HÀNH TƯ"]
 draft: false
 ---
 
@@ -21,7 +20,7 @@ Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường, đã biết m�
 
 Ngài Đầu Tử cử: 
 
-Thạch Đầu đến chỗ ngài Hành Tư. Hành Tư hỏi: *Ông từ đâu đến?*
+> Thạch Đầu đến chỗ ngài Hành Tư. Hành Tư hỏi: *Ông từ đâu đến?*
 
 Thạch Đầu thưa: *Từ Tào Khê đến*
 
@@ -145,4 +144,6 @@ Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-thanh-nguyen-hanh-tu/" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4683-tsthachdau" target="_blank">TS THẠCH ĐẦU HY THIÊN</a>
+
+[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-thanh-nguyen-hanh-tu/" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>

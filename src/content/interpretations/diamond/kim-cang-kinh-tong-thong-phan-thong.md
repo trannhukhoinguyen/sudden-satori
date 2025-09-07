@@ -5,7 +5,7 @@ description: "☸ Trích lọc từ THÍCH NỮ TUỆ ĐĂNG & THÍCH NHUẬN CH
 author: "Tăng Phụng Nghi"
 categories: ["Luận"]
 tags: ["Kinh Kim Cang Bát Nhã", "Tông Thông"]
-pdfUrl: "/pdfs/kinh-kim-cang-tong-thong.pdf"
+pdfUrl: "/pdfs/kinh-kim-cang-tong-thong-1.pdf"
 draft: false
 ---
 

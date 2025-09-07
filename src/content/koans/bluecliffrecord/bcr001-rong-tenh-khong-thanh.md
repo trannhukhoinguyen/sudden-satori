@@ -1,6 +1,5 @@
 ---
 title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ"
-date: "2000-01-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 

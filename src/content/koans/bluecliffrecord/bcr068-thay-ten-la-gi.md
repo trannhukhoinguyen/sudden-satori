@@ -20,7 +20,13 @@ Song từ xưa đến giờ có ai được như thế? Thử nêu lên xem.
 
 ## CỬ:
 
-> Ngưỡng Sơn hỏi Tam Thánh, "Thầy tên gì?” Tam Thánh nói, “Huệ Tịch.” Ngưỡng Sơn nói, “Huệ Tịch là tôi.” Tam Thánh nói, “Tên tôi là Huệ Nhiên.” Ngưỡng Sơn cười ầm lên.
+> Ngài Ngưỡng Sơn hỏi Ngài Tam Thánh, "Thầy tên gì?” 
+> 
+> Ngài Tam Thánh nói, “Huệ Tịch.” 
+> 
+> Ngài Ngưỡng Sơn nói, “Huệ Tịch là tôi.” 
+> 
+> Ngài Tam Thánh nói, “Tên tôi là Huệ Nhiên.” Ngài Ngưỡng Sơn cười ầm lên.
 
 ## BÌNH
 

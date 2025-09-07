@@ -1,6 +1,5 @@
 ---
 title: "VÂN NHAM DẠO NÚI"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
@@ -22,11 +21,11 @@ Hãy nói điểm nào là thủ đoạn cho người?
 
 Ngài Đầu Tử cử: 
 
-- Dược Sơn đi dạo núi với Vân Nham, tiếng dao khua bên hông. 
-
-- Vân Nham hỏi tiếng gì thế?
-
-- Dược Sơn rút dao ra làm thế chém.
+> Dược Sơn [^1] đi dạo núi với Vân Nham [^2], tiếng dao khua bên hông. 
+>
+> Vân Nham hỏi tiếng gì thế?
+>
+> Dược Sơn rút dao ra làm thế chém.
 
 ## BÌNH XƯỚNG
 
@@ -91,4 +90,6 @@ Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chu
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-phap-nhan-van-ich/" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">TS DƯỢC SƠN DUY NGHIỄM</a>
+
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">TS VÂN NHAM ĐÀM THẠNH</a>

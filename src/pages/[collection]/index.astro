@@ -6,16 +6,8 @@ import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import { config } from "../../config";
 import Layout from "../../layouts/Layout.astro";
 import Pagination from "../../components/page/Pagination.astro";
-import PostDateTime from "../../components/post/PostDateTime.astro";
-import PostExcerpt from "../../components/post/PostExcerpt.astro";
-import PostTags from "../../components/post/PostTags.astro";
-import PostReadMore from "../../components/post/PostReadMore.astro";
-import PostImage from "../../components/post/PostImage.astro";
-import PostTitle from "../../components/post/PostTitle.astro";
 import FlatTags from "../../components/post/FlatTags.astro";
 import BoxedPostList from "../../components/postList/BoxedPostList.astro";
-import KoanPostList from "../../components/postList/KoanPostList.astro";
-import SutraPostList from "../../components/postList/SutraPostList.astro";
 import OtherPostList from "../../components/postList/OtherPostList.astro";
 
 export async function getStaticPaths() {
@@ -60,9 +52,19 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 <!-- Post List Section -->
     {posts.length > 0 ? (
             collection === 'koans'
-                ? <KoanPostList posts={posts} />
+                ? <BoxedPostList posts={posts} icons={{
+                    'Giới thiệu': '🪨',
+                    'Chưa phân loại': '💥',
+                    'odd': '🌈',
+                    'even': '⚡️',
+                }} />
                 : ['sutras', 'interpretations'].includes(collection)
-                    ? <SutraPostList posts={posts} />
+                    ? <BoxedPostList posts={posts} icons={{
+                        'Giới thiệu': '📚',
+                        'Chưa phân loại': '📓',
+                        'odd': '📙',
+                        'even': '📒',
+                    }} />
                     : <OtherPostList posts={posts} page={page} />
 
 <!-- Pagination Section -->

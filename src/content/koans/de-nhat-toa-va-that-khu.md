@@ -1,6 +1,5 @@
 ---
 title: "CỬU PHONG VÀ ĐỆ NHẤT TÒA"
-date: "2025-05-28"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt:

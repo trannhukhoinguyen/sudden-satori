@@ -1,12 +1,11 @@
 ---
 title: "GIÁP SƠN THUYỀN TỬ"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "TS Thuyền Tử nói: *Câu khắp dòng sông này, mới gặp được một con cá vàng* "
 categories: ["Công án"]
-tags: ["KHÔNG CỐC TẬP", "TS GIÁP SƠN THIỆN HỘI", "TS HOA ĐÌNH THUYỀN TỬ"]
+tags: ["KHÔNG CỐC TẬP", "TS GIÁP SƠN THIỆN HỘI", "TS THUYỀN TỬ ĐỨC THÀNH"]
 draft: false
 ---
 
@@ -210,6 +209,6 @@ Tụng bản lão tụng:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-giap-son-thien-hoi/" target="_blank">TS GIÁP SƠN THIỆN HỘI</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/chuyende/thiensutrunghoa/1592-thin-s-thin-hi" target="_blank">TS GIÁP SƠN THIỆN HỘI</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-hoa-dinh-thuyen-tu/" target="_blank">TS HOA ĐÌNH THUYỀN TỬ</a>
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4791-tsducthanh" target="_blank">TS THUYỀN TỬ ĐỨC THÀNH</a>
