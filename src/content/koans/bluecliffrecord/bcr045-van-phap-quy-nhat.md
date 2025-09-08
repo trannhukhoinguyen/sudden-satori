@@ -1,13 +1,11 @@
 ---
 title: "VẠN PHÁP QUY NHẤT CỦA TRIỆU CHÂU"
-date: "2025-09-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Triệu Châu nói, 'Lúc ở Thanh Châu tôi có may một cái áo vải nặng bẩy cân'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
-draft: false
 ---
 
 ## THÙY

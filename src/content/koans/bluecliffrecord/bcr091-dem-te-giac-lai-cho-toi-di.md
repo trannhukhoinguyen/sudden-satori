@@ -1,13 +1,11 @@
 ---
 title: "TÊ GIÁC CỦA DIÊM QUAN"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Diêm Quan nói, Nếu như quạt gẫy rồi thì ông đem tê giác lại cho tôi đi."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS DIÊM QUAN TỀ AN"]
-draft: false
 ---
 
 ## THÙY

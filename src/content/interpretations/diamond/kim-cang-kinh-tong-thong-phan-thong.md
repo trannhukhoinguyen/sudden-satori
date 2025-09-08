@@ -1,12 +1,10 @@
 ---
 title: "Kim Cang Kinh Tông Thông"
-date: "1610-01-01"
 description: "☸ Trích lọc từ THÍCH NỮ TUỆ ĐĂNG & THÍCH NHUẬN CHÂU Việt dịch"
 author: "Tăng Phụng Nghi"
 categories: ["Luận"]
 tags: ["Kinh Kim Cang Bát Nhã", "Tông Thông"]
 pdfUrl: "/pdfs/kinh-kim-cang-tong-thong-1.pdf"
-draft: false
 ---
 
 NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ.

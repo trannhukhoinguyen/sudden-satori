@@ -1,13 +1,11 @@
 ---
 title: "SÁU KHÔNG THU CỦA VÂN MÔN"
-date: "2025-09-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Có ông tăng hỏi Vân Môn, '_Pháp thân là gì?_'. Vân Môn nói, '_Sáu không thu_'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
-draft: false
 ---
 
 ## THÙY

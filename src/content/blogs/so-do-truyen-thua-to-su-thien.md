@@ -1,13 +1,11 @@
 ---
 title: 'TRUYỀN THỪA TỔ SƯ THIỀN (THIỀN TÔNG)'
-date: "2025-06-11"
 description: 'Từ Phật Thích Ca truyền đến nay...'
 excerpt:
   "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động."
 categories: ["Bài viết"]
 tags: ["Truyền thừa", "Truyền thừa"]
 author: "phatgiao.org.vn"
-draft: false
 ---
 
 ## ** 🇮🇳 ẤN ĐỘ**

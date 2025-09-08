@@ -6,7 +6,6 @@ excerpt:
   "Lương Vũ Đế hỏi Đạt Ma Đại Sư, 'Thế nào là sự thật cứu cánh siêu phàm?'. Đạt Ma nói, 'Trống không chẳng có gì là siêu phàm'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "Tổ BỒ ĐỀ ĐẠT MA", "TS BẢO CHÍ CÔNG"]
-draft: false
 ---
 
 ## THÙY:

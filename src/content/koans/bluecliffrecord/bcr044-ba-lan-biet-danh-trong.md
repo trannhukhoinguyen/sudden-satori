@@ -1,13 +1,11 @@
 ---
 title: "HÒA SƠN BIẾT ĐÁNH TRỐNG"
-date: "2025-08-29"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Hòa Sơn dạy rằng, 'Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần). Vượt qua hai cái này mới đúng là thực sự vượt qua.'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS HÒA SƠN VÔ ÂN"]
-draft: false
 ---
 
 ## THÙY

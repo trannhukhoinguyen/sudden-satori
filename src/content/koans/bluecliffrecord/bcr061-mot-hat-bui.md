@@ -1,13 +1,11 @@
 ---
 title: "MỘT HẠT BỤI CỦA PHONG HUYỆT"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Phong Huyệt dạy rằng, Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạt bụi, nước nhà suy vong."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHONG HUYỆT DIÊN CHIỂU"]
-draft: false
 ---
 
 ## THÙY

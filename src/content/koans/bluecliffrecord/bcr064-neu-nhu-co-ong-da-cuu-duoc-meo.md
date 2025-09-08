@@ -1,13 +1,11 @@
 ---
 title: "NAM TUYỀN HỎI TRIỆU CHÂU"
-date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Nam Tuyền lại nêu câu chuyện trên ra để hỏi ngài Triệu Châu. Ngài Triệu Châu bèn cởi giầy cỏ ra đội lên đầu rồi bỏ đi."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NAM TUYỀN PHỔ NGUYỆN", "TS TRIỆU CHÂU TÙNG THẨM"]
-draft: false
 ---
 
 ## THÙY

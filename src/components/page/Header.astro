@@ -47,14 +47,15 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           </li>-->
           <li><a href={base + "practices"} class="nav-link" title="Thực hành">⚡️Thực hành</a></li>
           <li><a href={base + "interpretations"} class="nav-link" title="Luận giải">📖 Luận giải</a></li>
-          <li><a href={base + "speeches"} class="nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
           <li>
             <select id="nav-select" class="nav-select" aria-label="Main navigation">
               <option value="" disabled selected hidden>KHÁC</option>
               <option value={base + "masters"}>🌟 Thiền sư</option>
+              <option value={base + "speeches"}>💬 Ngữ Lục</option>
               <option value={base + "pagodas"}>⛩ Thiền đường</option>
               <option value={base + "blogs"} title="Blog">📜 Blog Tổ sư thiền</option>
-              <option value={base + "places"}>🗻  Địa danh</option>
+              <option value={base + "places"}>🗻 Địa danh</option>
+              <option value={base + "books"}>📚 Sách</option>
               <option value={base + "categories"}>📦 Category</option>
               <option value={base + "tags"}>🎏 Tag</option>
             </select>
@@ -84,12 +85,13 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 Kinh</a></li>
     <li><a href={base + "koans"} class="mobile-nav-link" title="Công án">🪨 Công án</a></li>
     <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">⚡️ Thực hành</a></li>
-    <li><a href={base + "speeches"} class="mobile-nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
     <li><a href={base + "masters"} class="mobile-nav-link" title="Thiền sư">🌟 Thiền sư</a></li>
+    <li><a href={base + "speeches"} class="mobile-nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
     <li><a href={base + "pagodas"} class="mobile-nav-link" title="Thiền đường">⛩ Thiền đường</a></li>
     <li><a href={base + "interpretations"} class="mobile-nav-link">📖 Luận giải</a></li>
     <li><a href={base + "blogs"} class="mobile-nav-link" title="Blog">📜 Blog Tổ sư thiền?</a></li>
     <li><a href={base + "places"} class="mobile-nav-link">🗻 Địa danh</a></li>
+    <li><a href={base + "books"} class="mobile-nav-link">📚 Sách</a></li>
     <li><a href={base + "categories"} class="mobile-nav-link">📦 Category</a></li>
     <li><a href={base + "tags"} class="mobile-nav-link">🎏 Tag</a></li>
   </ul>

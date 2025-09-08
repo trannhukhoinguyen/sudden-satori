@@ -1,13 +1,11 @@
 ---
 title: "NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN"
-date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ông tăng nói, 'Chưa'. Ngài Ngưỡng Sơn nói, 'Như thế là thầy chưa từng bao giờ đi chơi núi cả'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NGƯỠNG SƠN HUỆ TỊCH"]
-draft: false
 ---
 
 ## THÙY

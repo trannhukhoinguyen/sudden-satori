@@ -1,13 +1,11 @@
 ---
 title: "MA CỐC CHỐNG GẬY"
-date: "2025-08-26"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Nam Tuyền nói, 'Chương Kính thì đúng, ông mới là không đúng. Đây chính là cái bị sức gió chuyển, cuối cùng thế nào cũng bại hoại'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MA CỐC BẢO TRIỆT", "TS NAM TUYỀN PHỔ NGUYỆN", "TS CHƯƠNG KÍNH HOÀI UẨN"]
-draft: false
 ---
 
 ## THÙY

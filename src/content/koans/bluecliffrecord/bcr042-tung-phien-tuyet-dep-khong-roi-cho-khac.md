@@ -1,13 +1,11 @@
 ---
 title: "TỪNG PHIẾN TUYẾT CỦA BÀNG CƯ SĨ"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Bàng Cư Sĩ lại đánh thêm cho một tát tai nữa, nói, 'Mắt thấy mà như mù, miệng nói mà như câm'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÀNG LONG UẨN"]
-draft: false
 ---
 
 ## THÙY

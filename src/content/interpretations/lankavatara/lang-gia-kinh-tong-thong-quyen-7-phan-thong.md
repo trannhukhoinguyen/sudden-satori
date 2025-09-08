@@ -1,6 +1,5 @@
 ---
 title: "Lăng Già Kinh Tông Thông - Quyển 7 (phần Thông)"
-date: "1600-01-01"
 description: "1600-1615"
 author: "Tăng Phụng Nghi"
 audioUrls: [
@@ -9,7 +8,6 @@ audioUrls: [
 videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
 categories: ["Luận"]
 tags: ["Kinh Lăng Già", "Tông Thông"]
-draft: false
 ---
 
 ## Quyển 7 

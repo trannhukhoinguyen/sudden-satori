@@ -6,7 +6,6 @@ excerpt:
   ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TUYẾT PHONG NGHĨA TỒN"]
-draft: false
 ---
 
 ## THÙY

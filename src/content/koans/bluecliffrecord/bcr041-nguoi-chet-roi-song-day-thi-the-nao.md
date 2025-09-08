@@ -1,13 +1,11 @@
 ---
 title: "NGƯỜI CHẾT LỚN CỦA TRIỆU CHÂU"
-date: "2025-08-28"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Triệu Châu hỏi Đầu Tử, 'Kẻ đã chết ngắc rồi lại sống dậy thì như thế nào?' Đầu Tử nói, 'Không được đi đêm, ban ngày hãy tới'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM", "TS ĐẦU TỬ NGHĨA THANH"]
-draft: false
 ---
 
 ## THÙY

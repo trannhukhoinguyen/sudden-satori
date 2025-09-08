@@ -1,13 +1,11 @@
 ---
 title: "THỂ LỘ KIM PHONG CỦA VÂN MÔN"
-date: "2025-08-21"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "'Lúc cây khô lá rụng thì như thế nào?'. Vân Môn nói, 'Thể lộ kim phong'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
-draft: false
 ---
 
 ## THÙY

@@ -6,7 +6,6 @@ excerpt:
   "TS Thuyền Tử nói: *Câu khắp dòng sông này, mới gặp được một con cá vàng* "
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS GIÁP SƠN THIỆN HỘI", "TS THUYỀN TỬ ĐỨC THÀNH"]
-draft: false
 ---
 
 ## THÙY

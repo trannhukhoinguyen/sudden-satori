@@ -1,6 +1,5 @@
 ---
 title: "Kinh Lăng Ca trích giảng"
-date: "1964-09-01"
 description: "Cụ Lệ Thần TRẦN TRONG KIM Trích giảng Tủ Sách Phật Học Tân Việt ấn hành-Nhà xuất bản Tân Việt in lần thứ nhất tại Hà-nội"
 author: "Cụ Trần Trọng Kim"
 audioUrls: [
@@ -9,7 +8,6 @@ audioUrls: [
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 categories: ["Luận"]
 tags: ["Kinh Lăng Già"]
-draft: false
 ---
 
 

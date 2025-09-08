@@ -6,7 +6,6 @@ excerpt:
   "TS Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?"
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THANH NGUYÊN HÀNH TƯ", "TS LỤC TỔ HUỆ NĂNG"]
-draft: false
 ---
 
 ## THÙY

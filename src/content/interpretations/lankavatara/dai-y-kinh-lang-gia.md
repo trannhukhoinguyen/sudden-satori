@@ -1,6 +1,5 @@
 ---
 title: "Đại ý Kinh Lăng Già"
-date: "2024-10-24"
 description: ""
 author: "Hoà thượng Thích Phổ Tuệ"
 audioUrls: [
@@ -9,7 +8,6 @@ audioUrls: [
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 categories: ["Luận"]
 tags: ["Kinh Lăng Già"]
-draft: false
 ---
 
 ### Tại sao gọi là Kinh Lăng Già? 

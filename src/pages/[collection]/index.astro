@@ -52,19 +52,29 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 <!-- Post List Section -->
     {posts.length > 0 ? (
             collection === 'koans'
-                ? <BoxedPostList posts={posts} icons={{
-                    'Giới thiệu': '🪨',
-                    'Chưa phân loại': '💥',
-                    'odd': '🌈',
-                    'even': '⚡️',
-                }} />
+                ? <BoxedPostList
+                    posts={posts}
+                    page={page}
+                    totalPages={totalPages}
+                    icons={{
+                        'Giới thiệu': '🪨',
+                        'Chưa phân loại': '💥',
+                        'odd': '🌈',
+                        'even': '⚡️',
+                    }}
+                />
                 : ['sutras', 'interpretations'].includes(collection)
-                    ? <BoxedPostList posts={posts} icons={{
-                        'Giới thiệu': '📚',
-                        'Chưa phân loại': '📓',
-                        'odd': '📙',
-                        'even': '📒',
-                    }} />
+                    ? <BoxedPostList
+                        posts={posts}
+                        page={page}
+                        totalPages={totalPages}
+                        icons={{
+                            'Giới thiệu': '📚',
+                            'Chưa phân loại': '📓',
+                            'odd': '📙',
+                            'even': '📒',
+                        }}
+                    />
                     : <OtherPostList posts={posts} page={page} />
 
 <!-- Pagination Section -->

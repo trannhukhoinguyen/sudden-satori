@@ -6,7 +6,6 @@ excerpt:
   "Cửu Phong là thị giả của Thạch Sương. Khi Thạch Sương mất, chúng Tăng trong tự viện họp và quyết định chọn vị Đệ Nhất Tòa làm trụ trì mới."
 categories: ["Công án"]
 tags: ["Chưa phân loại", "TS THẠCH SƯƠNG KHÁNH CHƯ", "TS CỬU PHONG ĐẠO KIỀN"]
-draft: false
 ---
 
 # CÔNG ÁN

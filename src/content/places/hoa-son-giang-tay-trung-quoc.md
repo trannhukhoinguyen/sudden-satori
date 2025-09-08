@@ -5,7 +5,6 @@ excerpt:
   "Hòa Sơn cũng gọi Thu Sơn. Núi ở huyện Vĩnh Tân, tỉnh Giang Tây, Trung Quốc. TS HÒA SƠN VÔ ÂN đã từng hoằng pháp ở đây"
 categories: ["Địa Danh"]
 tags: ["HÒA SƠN", "TS HÒA SƠN VÔ ÂN"]
-draft: false
 ---
 
 🇨🇳

@@ -1,13 +1,11 @@
 ---
 title: "GIỐNG NHƯ MỘNG CỦA NAM TUYỀN"
-date: "2025-08-28"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Nam Tuyền chỉ vào đóa hoa ngoài sân, rồi gọi Lục đại phu mà nói rằng, 'Người bây giờ thấy đóa hoa này giống như thể một giấc mộng vậy'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NAM TUYỀN PHỔ NGUYỆN"]
-draft: false
 ---
 
 ## THÙY

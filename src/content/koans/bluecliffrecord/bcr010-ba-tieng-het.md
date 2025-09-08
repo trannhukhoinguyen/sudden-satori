@@ -6,7 +6,6 @@ excerpt:
   ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MỤC CHÂU ĐẠO MINH"]
-draft: false
 ---
 
 ## THÙY

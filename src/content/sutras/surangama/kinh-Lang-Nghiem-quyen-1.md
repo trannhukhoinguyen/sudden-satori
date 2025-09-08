@@ -1,6 +1,5 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển I"
-date: "2025-09-04"
 #audioUrls: [
 #  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/01-Kinh-Lang-Nghiem.mp3",
 #  "https://phapthihoi.org/kinh/Audio/Giang%20Kinh/Kinh%20Lang%20Nghiem/Kinh%20Lang%20Nghiem%20-%20HT%20Duy%20Luc/02-Kinh-Lang-Nghiem-Q2.mp3",
@@ -32,7 +31,6 @@ videoStart: "1071"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"
-draft: false
 ---
 
 # KINH THỦ LĂNG NGHIÊM

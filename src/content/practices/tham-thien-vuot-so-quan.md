@@ -4,11 +4,9 @@ description: ""
 image: "/images/koans/great-wave.webp"
 excerpt:
   "Sơ Quan là cửa đầu tiên trong quá trình tham thiền chứng ngộ..."
-date: "2025-08-29"
 categories: ["Luận"]
 tags: ["Thực hành", "Sơ Quan"]
 author: ""
-draft: false
 ---
 
 Ba cửa ải Sơ Quan 初關, Trùng Quan 重關, và Mạt Hậu Lao Quan 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của Tổ Sư Thiền (祖師禪), đặc biệt nổi bật trong dòng Thiền Tông Đông Sơn – Lâm Tế – Tào Động, liên quan mật thiết đến pháp tu Tham Thoại Đầu và Giữ Nghi Tình.

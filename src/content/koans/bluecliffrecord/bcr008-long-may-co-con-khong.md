@@ -6,7 +6,6 @@ excerpt:
   "Cuối mùa kiết hạ, Ngài Thúy Nham dạy chúng rằng, 'Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. Thử nhìn xem lông mày của Thúy Nham có còn không?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS THÚY NHAM LINH THAM"]
-draft: false
 ---
 
 ## THÙY

@@ -6,7 +6,6 @@ excerpt:
   "Vân Môn Đại Sư nói: 'Ngày nào cũng là một ngày đẹp'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
-draft: false
 ---
 
 ## THÙY

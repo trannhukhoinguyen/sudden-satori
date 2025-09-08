@@ -1,13 +1,11 @@
 ---
 title: "DIỆU PHONG ĐỈNH CỦA BẢO PHÚC"
-date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Bảo Phúc và Ngài Trường Khánh đi chơi núi. Ngài Bảo Phúc lấy tay chỉ nói, 'Đây chính là Diệu Phong Đỉnh'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BẢO PHÚC TÙNG TRIỂN", "TS TRƯỜNG KHÁNH HUỆ LĂNG"]
-draft: false
 ---
 
 ## THÙY

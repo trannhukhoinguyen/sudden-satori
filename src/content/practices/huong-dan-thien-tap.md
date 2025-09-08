@@ -4,11 +4,9 @@ description: "Hòa Thượng Tuyên Hóa"
 image: "/images/koans/great-wave.webp"
 excerpt:
   "Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. ...."
-date: "2025-06-28"
 categories: ["Luận"]
 tags: ["Thực hành"]
 author: "Thạch Sương Khánh Chư"
-draft: false
 ---
 
 ## SƠ CƠ TẬP THIỀN

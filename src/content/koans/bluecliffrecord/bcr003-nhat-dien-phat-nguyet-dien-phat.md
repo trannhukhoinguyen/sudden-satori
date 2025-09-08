@@ -6,7 +6,6 @@ excerpt:
   "Mã Đại sư nói, 'Nhật diện Phật. Nguyệt diện Phật'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MÃ TỔ ĐẠO NHẤT"]
-draft: false
 ---
 
 ## THÙY:

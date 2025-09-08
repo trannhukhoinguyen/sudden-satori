@@ -1,6 +1,5 @@
 ---
 title: "Về Một Số Vấn Đề Trong Kinh Lăng Già Phạn-Hán"
-date: "2015-05-26"
 description: ""
 author: "Phước Nguyên"
 audioUrls: [
@@ -9,7 +8,6 @@ audioUrls: [
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 categories: ["Luận"]
 tags: ["Kinh Lăng Già"]
-draft: false
 ---
 
 

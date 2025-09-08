@@ -1,13 +1,11 @@
 ---
 title: "BA CÂN GAI CỦA ĐỘNG SƠN"
-date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Có ông tăng hỏi Động Sơn, 'Phật là gì?'. Động Sơn nói, 'Ba cân gai'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐỘNG SƠN LƯƠNG GIỚI"]
-draft: false
 ---
 
 ## THÙY

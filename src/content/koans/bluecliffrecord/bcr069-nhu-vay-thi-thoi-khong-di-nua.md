@@ -1,13 +1,11 @@
 ---
 title: "NAM TUYỀN BÁI TRUNG QUỐC SƯ"
-date: "2025-09-03"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Nam Tuyền, Qui Tông và Ma Cốc cùng đi tham bái Trung Quốc Sư..."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NAM TUYỀN PHỔ NGUYỆN", "TS QUI TÔNG TRÍ THƯỜNG", "TS MA CỐC BẢO TRIỆT", "TS  NAM DƯƠNG HUỆ TRUNG"]
-draft: false
 ---
 
 ## THÙY

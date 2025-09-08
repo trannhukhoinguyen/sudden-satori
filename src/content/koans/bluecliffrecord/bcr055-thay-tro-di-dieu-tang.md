@@ -1,13 +1,11 @@
 ---
 title: "ĐẠO NGÔ VÀ TIỆM NGUYÊN ĐI ĐIẾU TANG"
-date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Đạo Ngô nói, 'Không bảo là sống mà cũng chẳng bảo là chết'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐẠO NGÔ VIÊN TRÍ", "TS TIỆM NGUYÊN TRỌNG HƯNG", "TS THẠCH SƯƠNG KHÁNH CHƯ"]
-draft: false
 ---
 
 ## THÙY

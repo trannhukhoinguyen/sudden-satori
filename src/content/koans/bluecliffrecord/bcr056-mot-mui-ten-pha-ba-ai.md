@@ -1,13 +1,11 @@
 ---
 title: "MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN"
-date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Lãng Thiền Khách hỏi ngài Khâm Sơn, 'Lúc một mũi tên phá ba ải thì như thế nào?'. Khâm Sơn nói, 'Đem vị chỉ huy trong ải ra đây xem!'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS KHÂM SƠN VĂN THÚY"]
-draft: false
 ---
 
 ## THÙY

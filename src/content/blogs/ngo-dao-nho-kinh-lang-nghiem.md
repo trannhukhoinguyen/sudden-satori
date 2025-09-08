@@ -1,11 +1,9 @@
 ---
 title: "6 vị đại thiền sư đã khai ngộ nhờ Kinh Lăng Nghiêm"
 description: ""
-date: "2025-08-26"
 categories: ["Bài viết"]
 tags: ["Kinh Thủ Lăng Nghiêm"]
 author: "Hiệp hội Xúc tiến Văn hóa Trung Hoa, Thiền Lâm Học Xã"
-draft: false
 ---
 
 Kinh Lăng Nghiêm là một bộ kinh Đại thừa được dịch muộn hơn (dịch xong vào năm 705 Tây lịch), vì tư tưởng rộng lớn, nghĩa lý sâu sắc, nên chiếm vị trí quan trọng trong lịch sử Phật giáo Trung Quốc, còn được gọi là Kinh Thủ Lăng Nghiêm, Kinh Đại Phật Đỉnh, Kinh Đại Phật Đỉnh Thủ Lăng Nghiêm, Kinh Đại Đạo Tràng Na Lan Đà Trung Ấn Độ, tên đầy đủ là Kinh Đại Phật Đỉnh Như Lai Mật Nhân Tu Chứng Liễu Nghĩa Chư Bồ Tát Vạn Hạnh Thủ Lăng Nghiêm. Do ngài Bát Lạt Mật Đế dịch vào đời Đường, gồm 10 quyển. Bát Lạt Mật Đế vào năm Thần Long thứ nhất (705) đời Đường Trung Tông đã tụng ra 10 quyển Kinh Lăng Nghiêm tại "Chế Chỉ Tự (nay là Chùa Quang Hiếu)" ở Quảng Châu, lúc đó do Sa môn Di Già Thạc Khư ở Ô Tràng Na dịch ngữ, Sa môn Hoài Địch chứng dịch, Cư sĩ Bồ Tát Giới Phòng Dung bút thụ. Các triều đại Trung Quốc đều coi kinh này là một trong những kinh điển chính của Phật giáo.

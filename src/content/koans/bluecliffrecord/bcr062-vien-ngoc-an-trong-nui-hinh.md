@@ -1,13 +1,11 @@
 ---
 title: "VIÊN NGỌC CỦA VÂN MÔN"
-date: "2025-08-23"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Vân Môn dạy chúng rằng, 'Bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS VÂN MÔN VĂN YỂN"]
-draft: false
 ---
 
 ## THÙY

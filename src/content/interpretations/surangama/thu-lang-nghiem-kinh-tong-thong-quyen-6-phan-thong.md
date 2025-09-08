@@ -1,6 +1,5 @@
 ---
 title: "Thủ Lăng Nghiêm Kinh Tông Thông - Quyển 6 (phần Thông)"
-date: "1590-01-01"
 description: "NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ"
 author: "Tăng Phụng Nghi"
 audioUrls: [
@@ -9,7 +8,6 @@ audioUrls: [
 videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
 categories: ["Luận"]
 tags: ["Kinh Thủ Lăng Nghiêm", "Tông Thông"]
-draft: false
 ---
 
 ## QUYỂN VI

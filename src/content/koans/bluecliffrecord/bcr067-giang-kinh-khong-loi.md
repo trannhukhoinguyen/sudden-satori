@@ -1,13 +1,11 @@
 ---
 title: "LƯƠNG VŨ ĐẾ MỜI GIẢNG KINH"
-date: "2025-08-22"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Lương Vũ Đế mời Phó Đại Sĩ giảng Kinh Kim Cương. Phó Đại Sĩ đứng trên tòa lay bàn một cái rồi xuống khỏi tòa."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LƯƠNG VŨ ĐẾ", "TS PHÓ ĐẠI SĨ", "TS BẢO CHÍ CÔNG"]
-draft: false
 ---
 
 ## THÙY

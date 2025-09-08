@@ -6,7 +6,6 @@ excerpt:
   "TS Dược Sơn đi dạo núi với TS Vân Nham, tiếng dao khua bên hông. "
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS DƯỢC SƠN DUY NGHIỄM", "TS VÂN NHAM ĐÀM THẠNH"]
-draft: false
 ---
 
 ## THÙY

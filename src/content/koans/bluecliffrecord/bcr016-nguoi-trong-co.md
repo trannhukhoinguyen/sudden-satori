@@ -1,12 +1,10 @@
 ---
 title: "NGƯỜI TRONG CỎ CỦA KÍNH THANH"
-date: "2025-08-30"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS KÍNH THANH ĐẠO PHÓ"]
-draft: false
 ---
 
 ## THÙY

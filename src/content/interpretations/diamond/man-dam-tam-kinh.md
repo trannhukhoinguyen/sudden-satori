@@ -1,12 +1,10 @@
 ---
 title: "MẠN ĐÀM TÂM KINH"
-date: "2025-08-23"
 description: ""
 author: ""
 videoUrl: "https://www.youtube.com/embed/A9yQQSOy4hc"
 categories: ["Luận"]
 tags: ["Kinh Kim Cang Bát Nhã"]
-draft: false
 ---
 
 ## GIỚI THIỆU

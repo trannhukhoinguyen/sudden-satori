@@ -1,13 +1,11 @@
 ---
 title: "TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI"
-date: "2025-08-27"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Thủ tòa hỏi, 'Hòa thượng đi đến những chỗ nào?'. Trường Sa nói, 'Đi theo mùi cỏ thơm, về theo vết hoa rụng'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRƯỜNG SA CẢNH SẦM"]
-draft: false
 ---
 
 ## THÙY

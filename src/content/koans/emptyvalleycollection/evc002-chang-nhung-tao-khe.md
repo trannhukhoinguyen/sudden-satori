@@ -6,7 +6,6 @@ excerpt:
   "TS Hành Tư bảo: Nói cho ông không ngại, chỉ sợ sau này không có người kế thừa"
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THẠCH ĐẦU HY THIÊN", "TS THANH NGUYÊN HÀNH TƯ"]
-draft: false
 ---
 
 ## THÙY

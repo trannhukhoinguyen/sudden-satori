@@ -1,13 +1,11 @@
 ---
 title: "TAM GIỚI VÔ PHÁP CỦA BÀN SƠN"
-date: "2025-08-27"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Bàn Sơn dạy rằng, 'Tam giới vô pháp, hà xứ cầu tâm?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÀN SƠN BẢO TÍCH"]
-draft: false
 ---
 
 ## THÙY

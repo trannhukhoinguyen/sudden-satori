@@ -1,13 +1,11 @@
 ---
 title: "KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN"
-date: "2025-09-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Động Sơn nói, 'Tại sao ông không đến nơi nào không có nóng với lạnh đó'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐỘNG SƠN LƯƠNG GIỚI"]
-draft: false
 ---
 
 ## THÙY

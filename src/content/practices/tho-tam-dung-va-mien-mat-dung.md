@@ -4,11 +4,9 @@ description: ""
 image: "/images/koans/great-wave.webp"
 excerpt:
   "Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất...."
-date: "2025-06-11"
 categories: ["Luận"]
 tags: ["Thực hành"]
 author: "Thiền Sư Lai Quả"
-draft: false
 ---
 
 ## THÔ TÂM LÀ GÌ?

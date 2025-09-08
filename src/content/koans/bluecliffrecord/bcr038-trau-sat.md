@@ -1,13 +1,11 @@
 ---
 title: "TRÂU SẮT CỦA PHONG HUYỆT"
-date: "2025-09-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Phong Huyệt thượng đường nói, 'Tâm ấn của Tổ Sư giống như cái máy trong con trâu sắt, lấy đi thì ấn còn, trụ lại thì ấn phá. Còn như nếu không khử không trừ, thì ấn là đúng hay không ấn là đúng?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS PHONG HUYỆT DIÊN CHIỂU"]
-draft: false
 ---
 
 ## THÙY

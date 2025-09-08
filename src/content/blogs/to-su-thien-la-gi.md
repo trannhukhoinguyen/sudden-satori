@@ -1,11 +1,9 @@
 ---
 title: "TỔ SƯ THIỀN LÀ GÌ?"
 description: ""
-date: "2025-08-29"
 categories: ["Bài viết"]
 tags: ["Tổ Sư Thiền", "Định nghĩa"]
 author: "HT Thích Duy Lực"
-draft: false
 ---
 
 Tổ Sư Thiền này là do đường lối chánh thức của Tổ Sư truyền xuống, gọi là tham thiền. 

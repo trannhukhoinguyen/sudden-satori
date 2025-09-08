@@ -1,13 +1,11 @@
 ---
 title: "BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG"
-date: "2025-08-31"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Có ông tăng hỏi Bách Trượng, 'Thế nào là sự việc kỳ đặc?'. Bách Trượng nói, 'Ngồi một mình trên đỉnh Đại Hùng'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BÁCH TRƯỢNG HOÀI HẢI"]
-draft: false
 ---
 
 ## THÙY

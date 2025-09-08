@@ -1,13 +1,11 @@
 ---
 title: "TRẦN THƯỢNG THƯ VIẾNG TỪ PHÚC"
-date: "2025-08-26"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Từ Phúc thấy Trần Tháo đến bèn vẽ một vòng tròn. Trần Tháo nói, 'Đệ tử đến như thế này, vốn đã là bất tiện rồi, hà huống lại còn vẽ them một vòng tròn?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "THƯỢNG THƯ TRẦN THÁO", "TS TỪ PHÚC"]
-draft: false
 ---
 
 ## THÙY

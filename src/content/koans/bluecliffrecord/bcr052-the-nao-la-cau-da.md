@@ -1,13 +1,11 @@
 ---
 title: "CẦU ĐÁ CỦA TRIỆU CHÂU"
-date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ông tăng hỏi, 'Thế nào là cầu đá?'. Triệu Châu nói, 'Để lừa qua để ngựa qua'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
-draft: false
 ---
 
 ## THÙY

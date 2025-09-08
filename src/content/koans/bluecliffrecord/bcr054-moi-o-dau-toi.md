@@ -1,13 +1,11 @@
 ---
 title: "“MỚI Ở ĐÂU TỚI” CỦA VÂN MÔN"
-date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Vân Môn hỏi ông tăng kia, 'Mới từ đâu tới?'. Ông tăng đáp, 'Tây Thiên'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MÃ TỔ VÂN MÔN VĂN YỂN"]
-draft: false
 ---
 
 ## THÙY

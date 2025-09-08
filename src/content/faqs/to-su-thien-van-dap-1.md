@@ -1,12 +1,10 @@
 ---
 title: "DUY LỰC NGỮ LỤC - phần 1"
-date: "2025-09-02"
 description: ""
 excerpt: 
   ""
 categories: ["FAQ", "Ngữ Lục"]
 tags: ["TS THÍCH DUY LỰC", ]
-draft: false
 ---
 
 1. Quảng ngữ của Quốc sư Tuệ Trung ở Nam Dương (NAM DƯƠNG HUỆ TRUNG)

@@ -6,7 +6,6 @@ excerpt:
   "Sa di Cao thưa: Chớ bảo không đạt được, chỉ vì họ không chịu chấp nhận thôi."
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS SA DI CAO", "TS DƯỢC SƠN DUY NGHIỄM"]
-draft: false
 ---
 
 ## THÙY

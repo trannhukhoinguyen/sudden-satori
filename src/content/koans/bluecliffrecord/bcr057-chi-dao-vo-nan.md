@@ -1,13 +1,11 @@
 ---
 title: "CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU"
-date: "2025-08-28"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Triệu Châu nói, Đồ nhà quê! So đo ở chỗ nào đâu? Ông tăng kia không nói gì được."
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
-draft: false
 ---
 
 ## THÙY

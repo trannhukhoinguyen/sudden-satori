@@ -6,7 +6,6 @@ excerpt:
   "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động."
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS THẠCH SƯƠNG KHÁNH CHƯ"]
-draft: false
 ---
 
 ## THÙY

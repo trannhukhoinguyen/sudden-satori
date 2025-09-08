@@ -1,13 +1,11 @@
 ---
 title: "CỦ CẢI CỦA TRIỆU CHÂU"
-date: "2025-08-31"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Có ông tăng hỏi Triệu Châu, 'Nghe nói hòa thượng có đích thân gặp ngài Nam Tuyền rồi phải không?'. Triệu Châu nói, 'Trấn Châu sản xuất củ cải lớn'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
-draft: false
 ---
 
 ## THÙY

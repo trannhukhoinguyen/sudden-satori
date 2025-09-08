@@ -1,12 +1,10 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển V"
-date: "2025-09-04"
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "1071"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"
-draft: false
 ---
 
 # KINH THỦ LĂNG NGHIÊM

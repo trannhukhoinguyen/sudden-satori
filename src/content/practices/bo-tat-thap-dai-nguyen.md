@@ -4,11 +4,9 @@ description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Phổ Hiền Bồ-tát nói với tất cả các Bồ-tát tụ họp ở đó: Công đức của Như Lai..."
-date: "2025-05-27"
 categories: ["Kinh"]
 tags: ["Thực hành"]
 author: ""
-draft: false
 ---
 
 

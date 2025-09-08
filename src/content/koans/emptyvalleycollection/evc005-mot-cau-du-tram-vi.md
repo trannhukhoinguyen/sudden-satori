@@ -6,7 +6,6 @@ excerpt:
   "TS Dược Sơn bảo: Sao không nói sớm? TS Vân Nham ngộ ngay lời này."
 categories: ["Công án"]
 tags: ["KHÔNG CỐC TẬP", "TS VÂN NHAM ĐÀM THẠNH", "TS DƯỢC SƠN DUY NGHIỄM"]
-draft: false
 ---
 
 ## THÙY

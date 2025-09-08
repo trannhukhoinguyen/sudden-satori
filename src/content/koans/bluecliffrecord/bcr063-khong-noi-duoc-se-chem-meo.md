@@ -1,13 +1,11 @@
 ---
 title: "NAM TUYỀN GIẾT MÈO"
-date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Một hôm ở tự viện của Nam Tuyền, tăng chúng của Đông đường và Tây đường tranh nhau một con mèo"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NAM TUYỀN PHỔ NGUYỆN"]
-draft: false
 ---
 
 ## THÙY

@@ -4,11 +4,9 @@ description: ""
 image: "/images/koans/great-wave.webp"
 excerpt:
   "...."
-date: "2025-06-28"
 categories: ["Thực hành"]
 tags: ["Thiền Tập", "HƯ VÂN LÃO HÒA THƯỢNG"]
 author: "HƯ VÂN LÃO HÒA THƯỢNG"
-draft: false
 pdfUrl: "/pdfs/phuong-phap-tham-thien-ht-Hu-Van.pdf"
 ---
 

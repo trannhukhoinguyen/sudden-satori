@@ -1,13 +1,11 @@
 ---
 title: "TIẾNG MƯA RƠI CỦA KÍNH THANH"
-date: "2025-09-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ông tăng hỏi, 'Suýt nữa là không mê mờ chính mình có nghĩa là gì?'. Kính Thanh nói, 'Xuất thân thì còn dễ, thoát thể mới là khó'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS KÍNH THANH ĐẠO PHÓ"]
-draft: false
 ---
 
 ## THÙY

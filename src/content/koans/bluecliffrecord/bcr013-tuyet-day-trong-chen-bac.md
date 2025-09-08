@@ -1,13 +1,11 @@
 ---
 title: "CHÉN BẠC CỦA BA LĂNG"
-date: "2025-08-30"
 description:  ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS BA LĂNG HẠO GIÁM"]
-draft: false
 ---
 
 ## THÙY

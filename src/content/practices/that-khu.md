@@ -4,11 +4,9 @@ description: ""
 image: "/images/koans/great-wave.webp"
 excerpt:
   "Thiền lại có cửa (quan) sao? ...."
-date: "2025-05-27"
 categories: ["Luận"]
 tags: ["Thực hành", "TS THẠCH SƯƠNG KHÁNH CHƯ"]
 author: "Thạch Sương Khánh Chư"
-draft: false
 ---
 
 ## 🧭 PHÂN TÍCH CHI TIẾT & LIÊN HỆ PHƯƠNG PHÁP GIỮ NGHI TÌNH – KHÁN THOẠI ĐẦU

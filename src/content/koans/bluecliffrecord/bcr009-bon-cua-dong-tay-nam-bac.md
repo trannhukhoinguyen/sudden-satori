@@ -6,7 +6,6 @@ excerpt:
   "Có ông tăng hỏi Triệu Châu, 'Triệu Châu là gì?'. Triệu Châu nói, 'Đông môn, Nam môn, Tây môn, Bắc môn'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS TRIỆU CHÂU TÙNG THẨM"]
-draft: false
 ---
 
 ## THÙY

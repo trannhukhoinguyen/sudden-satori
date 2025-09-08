@@ -1,13 +1,11 @@
 ---
 title: "PHÁP NGỮ THIỀN SƯ HƯ VÂN"
-date: "2025-09-06"
 description: ""
 excerpt:
   "...."
 author: "TS HƯ VÂN"
 categories: ["Ngữ Lục"]
 tags: ["TS HƯ VÂN", ]
-draft: false
 pdfUrl: "/pdfs/phap-ngu-thien-su-Hu-Van.pdf"
 ---
 

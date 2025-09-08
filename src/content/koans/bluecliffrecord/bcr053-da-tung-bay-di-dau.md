@@ -1,13 +1,11 @@
 ---
 title: "VỊT TRỜI CỦA MÃ ĐẠI SƯ"
-date: "2025-09-02"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Một lần kia Mã Đại Sư tản bộ với ngài Bách Trượng, thấy có bầy vịt trời bay qua. Mã Đại Sư hỏi, 'Cái gì vậy?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MÃ TỔ ĐẠO NHẤT", "TS BÁCH TRƯỢNG HOÀI HẢI"]
-draft: false
 ---
 
 ## THÙY

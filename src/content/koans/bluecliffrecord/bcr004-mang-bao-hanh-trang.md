@@ -6,7 +6,6 @@ excerpt:
   ""
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐỨC SƠN TUYÊN GIÁM"]
-draft: false
 ---
 
 ## THÙY:

@@ -1,13 +1,11 @@
 ---
 title: "HỎA KIẾP CỦA ĐẠI TÙY"
-date: "2025-08-31"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Có ông tăng hỏi, 'Hỏa kiếp cháy suốt, đại thiên đều hoại. Chẳng hiểu cái này có bị hoại hay không?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS ĐẠI TÙY PHÁP CHÂN"]
-draft: false
 ---
 
 ## THÙY

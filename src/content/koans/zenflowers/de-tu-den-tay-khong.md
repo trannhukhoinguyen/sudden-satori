@@ -6,7 +6,6 @@ excerpt:
   ""
 categories: ["Công án"]
 tags: ["NHỮNG ĐOÁ HOA THIỀN",]
-draft: false
 ---
 
 # CÔNG ÁN

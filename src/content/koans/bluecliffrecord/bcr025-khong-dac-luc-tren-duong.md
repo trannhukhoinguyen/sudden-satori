@@ -1,13 +1,11 @@
 ---
 title: "LIÊN HOA TRỤ TRƯỢNG"
-date: "2025-08-23"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Liên Hoa Phong Am Chủ dơ gậy lên dạy chúng rằng, 'Cổ nhân đã đến đây, tại sao không chịu ở lại?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS LIÊN HOA PHONG TƯỜNG"]
-draft: false
 ---
 
 ## THÙY

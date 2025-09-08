@@ -1,13 +1,11 @@
 ---
 title: "VƯƠNG THÁI PHÓ NẤU TRÀ"
-date: "2025-09-01"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Vương Thái Phó nói, 'Đã là thần hộ lò thì tại sao ấm trà lại lật?'. Lãng Thượng Tọa nói, 'Làm quan trăm ngày, mất chức một buổi'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS MINH CHIÊU ĐỨC KHIÊM"]
-draft: false
 ---
 
 ## THÙY

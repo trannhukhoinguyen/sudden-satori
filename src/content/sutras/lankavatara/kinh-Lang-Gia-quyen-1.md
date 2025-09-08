@@ -1,12 +1,10 @@
 ---
 title: "Kinh Lăng Già - quyển I"
-date: "2025-07-05"
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 videoStart: "1071"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Gia.pdf"
-draft: false
 ---
 
 ## LỜI DỊCH GIẢ

@@ -1,13 +1,11 @@
 ---
 title: "NHAM ĐẦU VÀ “TỪ ĐÂU TỚI”"
-date: "2025-09-03"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
   "Ngài Nham Đầu nói, 'Sau nạn Hoàng Sào còn thu được kiếm sao?'"
 categories: ["Công án"]
 tags: ["BÍCH NHAM LỤC", "TS NHAM ĐẦU TOÀN HOÁT", "TS TUYẾT PHONG NGHĨA TỒN"]
-draft: false
 ---
 
 ## THÙY

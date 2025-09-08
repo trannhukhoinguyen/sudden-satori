@@ -5,7 +5,6 @@ excerpt:
   "Chùa ở trong núi Bạch Nhai, phía tây bắc huyện Đặng, tỉnh Hà Nam, Trung Quốc. TS NAM DƯƠNG HUỆ TRUNG đã từng hoằng pháp ở đây"
 categories: ["Địa Danh"]
 tags: ["HƯƠNG NGHIÊM TỰ", "TS NAM DƯƠNG HUỆ TRUNG"]
-draft: false
 ---
 
 🇨🇳
