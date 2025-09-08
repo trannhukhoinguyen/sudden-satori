@@ -1000,7 +1000,10 @@ Thiền sư viên Ngộ nói:
 
 Thiền sư Đại Huệ nói:
 
-> Công phu thuần thục thì khua mở cái chốt cửa. Cái gọi là công phu có nghĩa là đem cái tâm suy nghĩ trần lao thế gian quay về đặt trên câu: “Que chùi phân”­­(1)­ khiến tình thức chẳng còn sanh khởi, tương tự như pho tượng bằng gỗ, bằng đất. Lúc cảm thấy tối tăm không hiểu, không có cái lỗ mũi để nắm, ấy là tin tức tốt.
+> Công phu thuần thục thì khua mở cái chốt cửa. 
+> Cái gọi là công phu có nghĩa là đem cái tâm suy nghĩ trần lao thế gian quay về đặt trên câu: 
+> “Que chùi phân” [^1] khiến tình thức chẳng còn sanh khởi, tương tự như pho tượng bằng gỗ, bằng đất. 
+> Lúc cảm thấy tối tăm không hiểu, không có cái lỗ mũi để nắm, ấy là tin tức tốt.
 
 Cổ Đức nói:
 
@@ -1118,7 +1121,7 @@ Tâm Yếu
 
 Thiền sư Thoại Lộc Bổn Tiên thượng đường dạy:
 
-> Đại phàm, tham học vị tất học vấn thoại (5) là tham học, vị tất học đại ngữ (6) là tham học, vị tất học biệt ngữ (7) là tham học, vị tất học hiểu kinh điển là tham học, vị tất học hiểu được ngữ ngôn kỳ đạc của Tổ sư là tham học. Nếu tham học như thế thì dẫu cho ông thông đạt được hết đi nữa, nhưng ở trong Phật pháp ông vẫn là người không thấy đến nơi đến chốn, nên gọi là bọn càn huệ. Há chẳng nghe Cổ đức nói: “Thông minh chẳng địch sanh tử, càn huệ đâu khỏi luân hồi” sao?
+> Đại phàm, tham học vị tất học vấn thoại [^5] là tham học, vị tất học đại ngữ [^6] là tham học, vị tất học biệt ngữ [^7] là tham học, vị tất học hiểu kinh điển là tham học, vị tất học hiểu được ngữ ngôn kỳ đạc của Tổ sư là tham học. Nếu tham học như thế thì dẫu cho ông thông đạt được hết đi nữa, nhưng ở trong Phật pháp ông vẫn là người không thấy đến nơi đến chốn, nên gọi là bọn càn huệ. Há chẳng nghe Cổ đức nói: “Thông minh chẳng địch sanh tử, càn huệ đâu khỏi luân hồi” sao?
 >
 > Các ông nếu muốn tham học thì phải nên chân thật tham học, lúc đi thì đi tham, lúc đứng thì đứng tham, lúc ngồi thì ngồi tham, lúc nằm thì nằm tham, lúc nói thì cũng nói tham, lúc nín thì cũng nín tham, lúc làm tất cả công việc cũng tham. Đã lúc nào cũng tham được như trên, thử nói xem: Ai tham? Tham cái gì? Đến đây cần phải có chỗ minh bạch mới được. Nếu chẳng như thế thì bị gọi là bọn hấp tấp vội vàng, ắt không có được cái yếu chỉ tham cứu hoàn tất vậy.
 
@@ -1991,7 +1994,7 @@ Hòa thượng **Lâm Tế** nói:
 >
 > Hoặc có học nhân bị mang cùm đeo xích ra trước thiện tri thức, thiện tri thức lại chồng thêm cho một lớp cùm xích nữa. Học nhân vui mừng, bỉ thử chẳng biện. Đây gọi là khách xem khách.
 
-***
+<hr class="blog-rule" />
 
 Hòa thượng **Thủ Sơn Niệm** dạy chúng:
 

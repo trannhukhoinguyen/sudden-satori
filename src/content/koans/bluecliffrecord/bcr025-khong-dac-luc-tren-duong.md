@@ -73,7 +73,7 @@ Trong ba loại vô sự đạo nhân kia, nếu như chọn một làm thầy, 
 
 Tuyết Đậu chỉ thích Am Chủ nói, “ Vác gậy trên vai chẳng màng ai, đi thẳng lên ngàn vạn đỉnh cao.” Cho nên mới tụng ra. Thử nói xem, Am Chủ đi về đâu? Có còn ai biết thầy ta đi về đâu chăng? Nước chảy hoa trôi quá bang bạc.” Hoa rụng tơi tả, nước chảy dật dờ. Đối với kẻ có căn cơ như thiểm điện, trước mắt là gì? “ Nhướng mắt lên nhìn đi về đâu?” Tại sao chính Tuyết Đậu cũng không biết thầy ta đi về đâu?” Cũng giống như sư núi tôi nói vừa rồi mới dơ phất trần lên. Thử nói xem, hiện giờ nó ở đâu? Nếu như các ông thấy được, các ông có thể cùng tham Thiền với Liên Hoa Phong Am Chủ. Nếu chưa được như thế, xin quay về phòng của mình mà quán sát cho cặn kẽ xem.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12749/5/tac-thu-hai-muoi-lam-lien-hoa-tru-truong
 >
@@ -83,7 +83,7 @@ Tuyết Đậu chỉ thích Am Chủ nói, “ Vác gậy trên vai chẳng màn
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

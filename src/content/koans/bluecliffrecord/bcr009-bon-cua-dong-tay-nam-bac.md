@@ -119,7 +119,7 @@ Tuyết Đậu nhìn thấu sự vật như thế cho nên nói”. Trong câu v
 
 Tuyết Đậu nói, “Đông tây nam bắc đối diện nhau, bao nhiêu trùy đập không mở ra, “Đã đập đến bao nhiêu nhát trùy cớ sao lại không tập trung ra được? Phải chăng chổ thấy của Tuyết Đậu là như thế? Các ông làm thế nào để mở cửa này ra đây? Xin suy niệm cho cặn kẽ.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12731/5/tac-thu-chin-bon-cua-cua-trieu-chau
 >
@@ -129,7 +129,7 @@ Tuyết Đậu nói, “Đông tây nam bắc đối diện nhau, bao nhiêu tr�
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

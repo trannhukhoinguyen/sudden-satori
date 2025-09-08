@@ -96,7 +96,7 @@ Cho nên mới có câu nói, “Nếu như hiểu được câu sống, mãi m�
 
 Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết. Nếu như các ông muốn thấy chỗ sống, cứ việc nhìn Tuyết Đậu đạp đổ lò nấu trà.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12775/5/tac-thu-bon-muoi-tam-vuong-thai-pho-nau-tra
 >
@@ -106,7 +106,7 @@ Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -65,7 +65,7 @@ Tuyết Đậu nói, “Nhìn nhìn!” Vân Môn như thể đang cầm nhánh 
 
 Trăng sáng phản chiếu hoa lau, hoa lau phản chiếu trăng sáng. Chính vào lúc ấy, thử nói xem, đó là cảnh giới gì vậy? Nếu như các ông có thể trực tiếp thấy được, trước sau chỉ giống như một câu mà thôi.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12791/5/tac-thu-sau-muoi-hai-vien-ngoc-cua-van-mon
 >
@@ -75,7 +75,7 @@ Trăng sáng phản chiếu hoa lau, hoa lau phản chiếu trăng sáng. Chính
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

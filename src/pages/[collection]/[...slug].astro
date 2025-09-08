@@ -32,7 +32,7 @@ const { frontmatter, Content } = post as any;
 ---
 
 <Layout
-    title={frontmatter.title}
+    title={frontmatter.meta_title || frontmatter.title}
     description={frontmatter.description || frontmatter.excerpt}
     type="article"
     publishedTime={frontmatter.date ? new Date(frontmatter.date).toISOString() : undefined}

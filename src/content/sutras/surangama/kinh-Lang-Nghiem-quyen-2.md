@@ -11,7 +11,7 @@ pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"
 
 #### Thích Duy Lực (dịch từ Hán sang Việt và lược giải ở Từ Ân Thiền Đường, Santa Ana Hoa Kỳ Xuất Bản, 1990)
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN II
 
@@ -121,7 +121,7 @@ Phật liền giơ cánh tay lên, bảo rằng:
 
 > Thanh tịnh pháp thân tức diệu tâm sáng tỏ chơn thật (gốc), kiến văn giác tri tức là vật do diệu tâm hiện ra (ngọn); về gốc là chánh, theo ngọn là đảo, ví như bọt nổi nơi biển, nhận biển là chánh, nhận bọt là đảo. Phật hỏi A Nan: Ngươi thấy tay ta là chánh hay đảo? Khi đó A Nan nên ở nơi tánh thấy của mình trực ngộ thế nào chánh, thế nào đảo, chẳng nên nơi tay Như Lai cho là chánh, là đảo. Cũng như Tu Bồ Đề tĩnh tọa trong hang, chẳng nhờ căn thức được thấy Pháp thân Như Lai, gọi là Chánh Biến Tri. Dùng mắt A Nan để thấy tay Như Lai, lại ở nơi tay phân biệt chánh hay đảo, ấy là duyên theo lục thức, bỏ gốc theo ngọn, đã lìa ngôi chánh nên gọi là tánh điên đảo.
 
-***
+<hr class="blog-rule" />
 
 Khi ấy A Nan và đại chúng ngẩn ngơ nhìn Phật không nháy mắt, chẳng biết chỗ thân tâm điên đảo, Phật mở lòng từ bi thương xót A Nan và đại chúng, phát hải triều âm bảo khắp trong Hội rằng:
 
@@ -161,7 +161,7 @@ Phật bảo A Nan:
 Nếu nói ta thấy ngươi thấy, lúc cùng thấy tức là thấy kiến tinh của ta, vậy thì lúc ta thấy, ngươi đã thấy được rồi, lúc ta chẳng thấy, ngươi cũng phải thấy được chứ, mà sự thật lại chẳng như thế.
 Nếu nói lúc thấy là dùng cái thấy để thấy, lúc chẳng thấy là dùng cái chẳng thấy để thấy, gọi là thấy chỗ chẳng thấy của ta, vậy đã chẳng tự thấy, lấy gì để thấy cái tướng chẳng thấy kia? Nếu cái tướng chẳng thấy kia cho ngươi thấy được, tức là tướng thấy, lại chẳng phải tướng chẳng thấy. Vậy biết: chỗ chẳng thấy của ta, ngươi nhất định chẳng thể thấy được; lúc ta chẳng thấy, ngươi đã chẳng thể thấy được thì lúc cùng thấy cũng chẳng thể thấy, thấy và chẳng thấy đều chẳng thể chỉ ra kiến tinh, vậy kiến tinh của ta rõ ràng phi vật. Kiến tinh của ta phi vật thì kiến tinh của ngươi cũng là phi vật vậî. Kiến tinh của ngươi đã phi vật thì chẳng thuộc nơi vật, làm sao chẳng phải ngươi? Đây là dùng cái nghĩa chẳng thể thấy để sáng tỏ kiến tinh phi vật. Nếu kiến tinh có thể thấy được thì kiến tinh cũng là vật vậy, làm sao được làm chủ vạn tượng mà an lập cõi thế gian.
 
-***
+<hr class="blog-rule" />
 
 - Bạch Thế Tôn! Nếu tánh thấy này chắc là con chứ chẳng phải ai khác, thì khi con và Như Lai xem cung điện của Tứ Thiên vương và cung trăng, tánh thấy này cùng khắp cõi Ta Bà, khi lui về tịnh xá, chỉ thấy vườn chùa, trước cửa giảng đường chỉ thấy hành lang. Thế Tôn, tánh thấy như vậy, bản thể vốn cùng khắp một cõûi, nay ở trong phòng thì chỉ một phòng, vậy là do tánh thấy rút lớn thành nhỏ, hay do vách tường làm cho ngăn cách? Nay con chẳng biết nghĩa này thế nào, mong Phật từ bi giảng rõ.
 
@@ -213,7 +213,7 @@ Như Lai biết họ băn khoăn lo sợ, sanh lòng thương xót, an ủi A Na
 "Nói lời chơn thật, như sở như thuyết" v.v... tức ngũ ngữ trong Kinh Kim Cang. Phật thuyết chơn ngữ là nghĩa chung với nhị thừa (có sanh tử để diệt, có Niết Bàn để chứng); thật ngữ là nghĩa chung với Bồ Tát (nghĩa đại thừa, sanh tử và Niết Bàn đều như hoa đốm trên không); như ngữ là nghĩa chẳng chung với tam thừa (trí huệ chẳng thể suy lường, lời nói chẳng thể diễn tả); vô thật vô hư; vô hư nên bất cuồng ngữ (chẳng dối), vô thật nên bất dị ngữ (thấy trước việc chưa đến gọi là Bất Dị). Ở đây chỉ dùng hai chữ "chẳng vọng" để bao gồm.
 Bà Sa Luận nói: Ngoại đạo chấp cõi trời thường trụ gọi là Bất tử, cho "chaüng đáp càn" được sanh cõi trời ấy, nếu thật chẳng biết mà đáp càn, sợ thành càn loạn, nên có ai hỏi thì đáp rằng "Lời bí mật chẳng nên nói hết", hoặc đáp chẳng định. Phật quở rằng: họ thật là kẻ càn loạn vậy.
 
-***
+<hr class="blog-rule" />
 
 Lúc ấy, Pháp Vương Tử Văn Thù Sư Lợi thương xót tứ chúng, liền từ chỗ ngồi đứng dậy, đảnh lễ chân Phật, chắp tay cung kính bạch Phật rằng:
 
@@ -277,7 +277,7 @@ A Nan đáp:
 
 > Hai chữ Kiến Kiến tức là bản kiến tự hiện, chẳng có năng kiến, sở kiến, Phật đã giải thích kỹ càng trong quyển nhì này; nếu có năng sở, đều là kiến bệnh đã thành từ vô thỉ, có năng kiến năng giác đều là bệnh. Vì bản kiến bản giác chẳng ở trong bệnh mới gọi là kiến kiến, tức là kiến tánh. Tự tánh chẳng phải sở kiến, nên cũng chẳng có năng kiến để kiến tự tánh, vậy lúc kiến kiến (Kiến kiến chi thời), dù nói kiến nhưng chẳng phải là kiến (Kiến phi thị kiến), vì chẳng có năng kiến và sở kiến, cho nên nói kiến còn phải lìa kiến (kiến do ly kiến), vì Năng kiến chẳng thể thấy đến, nên nói Kiến bất năng cập.
 
-***
+<hr class="blog-rule" />
 
 - Bạch Thế Tôn! Phật vì chúng con hiển bày các tướng nhân duyên, tự nhiên, hòa hợp và chẳng hòa hợp, tâm còn chưa rõ, nay lại nghe nói Kiến Kiến Phi Kiến, khiến con càng thêm mê muội, cúi xin Phật mở lòng từ bi, khai thị cho chúng con được diệu tâm sáng tỏ trong sạch.
 
@@ -430,7 +430,7 @@ Lục nhập, thập nhị xứ, thập bát giới, cho đến thất đại �
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

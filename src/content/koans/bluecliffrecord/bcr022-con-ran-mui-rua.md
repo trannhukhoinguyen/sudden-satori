@@ -172,7 +172,7 @@ Tuyết Đậu tụng xong phải đến chỗ sống mà giúp người. Nhặt
 
 Tuy rằng Trường Khánh, Huyền Sa và Vân Môn có thể bắt được rắn, song họ chẳng thấy rắn. Tuyết Đậu nói, “ hiện giờ ẩn trên đỉnh Như Phong, kẻ đến từng người thấy phương tiện.” Tuyết Đậu lại tiến thêm vào chỗ uyên áo của thầy, không nói “ dùng đi” mà lại lớn tiếng hét lên rằng, “ Nhìn dưới chân!” Từ xưa đến nay có bao nhiêu người chơi dỡn được với rắn? Thử nói xem rắn đã từng cắn ai chưa? Sư (Viên Ngộ) bèn đánh.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12746/5/tac-thu-hai-muoi-hai-con-ran-mui-rua-cua-tuyet-phong
 >
@@ -182,7 +182,7 @@ Tuy rằng Trường Khánh, Huyền Sa và Vân Môn có thể bắt được r
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

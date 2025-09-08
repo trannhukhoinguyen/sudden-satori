@@ -43,7 +43,7 @@ Phật bảo:
 
 > Tức diệu thường minh mà chẳng lập sở minh, cũng chẳng phải bất minh, nên nói diệu minh, tức minh thường diệu, mà chẳng bị kẹt nơi minh, nên nói minh diệu. Nếu chấp thật cho là giác minh, bèn lọt vào tình thức, thành ra lìa giác chẳng minh, thì đâu thể nói là diệu, nên Kinh nói: "Do giác minh thành lỗi lầm" vậy.
 
-***
+<hr class="blog-rule" />
 
 - Bạch Thế Tôn, vâng ạ, con thường nghe Phật khai thị nghĩa này.
 
@@ -67,7 +67,7 @@ Phật bảo:
 
 > Theo lý thuyết Ngũ hành là sáng lập từ Trung Quốc, người Ấn Độ thì chẳng biết học thuyết này. Nên các Kinh Phật chỉ nói tứ đại, ngũ uẩn, lục nhập, thập nhị xứ, thập bát giới, cho đến thất đại, đoạn này từ tiếng Phạn dịch sang tiếng Hán, mà dịch giả mượn ngũ hành để sáng tỏ nghĩa Kinh, lý thuyết ngũ hành người xưa còn có thể hiểu được, đời nay thì ít người thấu suốt. Cho nên độc giả đời nay cảm thấy rất khó hiểu, nếu không hiểu được thì đánh mất tác dụng của lời kinh. Vì Phật thuyết pháp, hay dùng những sự vật của chúng sanh đã hiểu biết, để chứng tỏ tri kiến của chúng sanh chẳng đúng. Do đó, nên chúng tôi lược bỏ phần ngũ hành, chỉ dựa theo tứ đại mà dịch đoạn kinh này, xin độc giả từ bi hoan hỉ cho.
 
-***
+<hr class="blog-rule" />
 
 - Lại nữa, Phú Lâu Na, cái minh hư vọng này chẳng phải gì khác, do giác minh thành lỗi lầm; sở minh đã vọng lập, thành lý minh có ngằn mé. Vì vậy, nên nghe chẳng ra ngoài tiếng, thấy chẳng vượt khỏi sắc, sáu thứ sắc, thanh, hương, vị, xúc, pháp đã vọng lập, do đó chia ra Kiến, Văn, Giác, Tri. Cộng nghiệp ràng buộc lẫn nhau mà có hợp, ly, thành, hóa; do kiến chấp của sở minh nên sanh khởi sắc tướng, do năng minh của kiến chấp thì thành tư tưởng, ý kiến khác với mình thì thành ghét, tư tưởng đồng với mình thì thành yêu, gieo cái yêu thành hạt giống, thu nạp tư tưởng thành cái thai, giao cấu phát sanh, hấp dẫn cộng nghiệp, nên có nhân duyên sanh ra bào thai.
 
@@ -221,7 +221,7 @@ Lúc bấy giờ, Thế Tôn thương xót hàng Thanh Văn, Duyên Giác trong 
 >
 > Cội gốc của phiền não có hai: một là Nhuận Nghiệp Vô Minh (nhuận là thấm nhuần), tức là phiền não của những kiếp quá khứ; hai là Nhuận Sanh Vô Minh, tức là khi đầu thai, nơi tình thức sanh khởi yêu, ghét đối với cha mẹ. Hai thứ phiền não này vốn chẳng tự tánh, nếu ngộ biết chẳng tự tánh thì chẳng có kẻ làm, chẳng có kẻ chịu, ngay đó "không tịch", còn ai phiền não? Người tiểu thừa chẳng lìa công dụng hữu vi, cho thật có phiền não cần phải phá trừ, ấy do chẳng biết căn trần là hư vọng. Người đại thừa thì khác, thẳng đến Vô Thượng Bồ Đề, chỉ cần xét kỹ nơi căn trần ai làm ai chịu, bỗng được khám phá, thì căn bản vô minh tức thời tan rã.
 
-***
+<hr class="blog-rule" />
 
 - A Nan! Người tu đạo Bồ Đề, nếu chẳng suy xét cội gốc phiền não, thì chẳng thể biết căn trần hư vọng đó điên đảo ở chỗ nào; chỗ còn chẳng biết thì làm sao uốn dẹp được nó, để chứng nhập quả vị của Như Lai?
 
@@ -273,7 +273,7 @@ Phật nói:
 >
 > Tu Đà Hoàn gọi là "nhập lưu", mà chẳng có sở nhập, chẳng nhập sắc, thanh, hương, vị, xúc, pháp, tức là lục tiêu, nhưng còn chấp thật có Niết Bàn, nên chưa diệt nhất. Kỳ thật, Nhất từ đâu đến, Không từ đâu khởi? Chỗ này cần phải tham cứu đến tự ngộ mới được rõ.
 
-***
+<hr class="blog-rule" />
 
 - Nhãn căn nơi diệu viên, tánh vốn trong lặng, do hai thứ sáng và tối tỏ bày lẫn nhau, dính bụi thành cái thấy; cái thấy gặp sắc trần, kết sắc trần thành căn, gốc căn thuộc nơi thanh tịnh tứ đại, gọi là bản thể con mắt như trái nho tươi. Phù căn tứ trần lưu chuyển theo sắc trần, tạo đủ thứ nghiệp.
 
@@ -297,7 +297,7 @@ Phật nói:
 >
 > Thanh tịnh tứ đại là một danh từ để tỏ rõ cái nghĩa của thắng-nghĩa-căn, hai chữ Thắng Nghĩa là để hiển bày cái nghĩa lý siêu việt hơn nghĩa lý thông thường. Vì hay chiếu soi cảnh trần, phát ra cái thức phân biệt, cũng gọi là tịnh-sắc-căn (gốc căn chẳng có hình sắc để đối với mắt, nên gọi tịnh-sắc-căn). Phù căn tứ trần là một danh từ để tỏ rõ cái nghĩa của phù-trần-căn, vì hay lưu chuyển theo cảnh trần, tạo đủ thứ nghiệp vậy.
 
-***
+<hr class="blog-rule" />
 
 - A-Nan! Ngươi há chẳng biết hiện trong hội này, A Na Luật Đà chẳng mắt mà thấy; rồng Bạt Nan Đà chẳng tai mà nghe; thần nữ Căng Già chẳng mũi mà ngửi hương; Kiều Phạm Bát Đề lưỡi trâu mà biết vị; thần Thuấn Nhã Đa bản chất là gió, vốn chẳng tự thể, do ánh sáng tự tánh, tạm hiện hình bóng, nên chẳng có thân mà biết xúc; các hàng Thanh văn được diệt tận định trong hội này như Ma Ha Ca Diếp, ý căn đã diệt từ lâu mà vẫn rõ biết khắp nơi, chẳng do tâm niệm.
 
@@ -411,7 +411,7 @@ Như người đang ngủ mê trên giường, trong nhà có người giã gạ
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

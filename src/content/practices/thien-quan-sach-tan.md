@@ -21,11 +21,11 @@ Tôi chọn rút những chuyện cốt yếu, xếp theo loại, biên thành t
 
 Có thể nói quyển sách này rất cần thiết đối với người chưa vượt qua khỏi cửa, nếu với kẻ vượt khỏi cửa đã xa thì đâu còn cần dùng ? Tuy nhiên, ngoài cửa này còn lớp cửa khác, chẳng qua giả mượn tiếng gà, tạm rời miệng cọp mà thôi. Được ít cho là đủ là người tăng thượng mạn. Sông chưa cùng, núi chưa tột vẫn phải gắng tiến. Chạy mau, đi mãi bao giờ vượt khỏi cái cửa đen tối sau cùng, chừng ấy sẽ chậm rãi nghỉ ngơi không muộn.
 
-***
+<hr class="blog-rule" />
 
 ### Niên hiệu Vạn Lịch năm thứ 28, đầu mùa Xuân - CHÙA VÂN THÊ - Sa môn CHÂU HOẰNG - Cẩn chí
 
-***
+<hr class="blog-rule" />
 
 ## RÚT GỌN LỜI DẠY CỦA CHƯ TỔ
 
@@ -405,7 +405,7 @@ Học nhơn tham cầu Thiện tri thức, hoặc vị dạy đề câu thoại 
 
 Ý chí phấn khởi, tinh thần sáng suốt đề cử thoại đầu, quan trọng trên chữ sau chót, nghi tình còn mãi thống thiết thầm thầm. Hoặc ngậm miệng tham thầm, hoặc nói ra tiếng theo đuổi, như mất vật quí, cần phải gặp trước mắt, nắm được trong tay mới chịu. Những ngày dụng công, tất cả giờ, tất cả chỗ đều không khởi hai niệm.
 
-***
+<hr class="blog-rule" />
 
 ## SỰ KHỔ CÔNG TU TẬP CỦA CHƯ TỔ
 
@@ -537,7 +537,7 @@ Bích Phong Kim Thiền sư tham học với Ngài Phổ Vân Hải. Phổ Vân 
 
 Vô Tế Thiền sư lúc mới thực hành công phu không đọc đến bốn quyển Kinh Lăng Già, và những bản Ngữ lục cũng không xem. Ngài cam chịu mù tối chuyên ròng thực hành độn công phu. Thế mà sau này, Ngài vẫn được đại ngộ
 
-***
+<hr class="blog-rule" />
 
 ## DẪN CÁC KINH
 
@@ -547,7 +547,7 @@ Phần này tôi chỉ trích dịch chớ không dịch tất cả.
 
 Tôn giả A Na Luật Đà, Tôn giả Nan Đề, Tôn giả Kim Tỳ La ở chung trong rừng chuyên tu thiền định. Sáng các Ngài trước sau đi khất thực, trở về thọ trai xong, mỗi vị đều tọa thiền đến chiều mới dậy. Vị nào dậy trước, thấy trong hũ hết nước, nếu mạnh thì một mình đi xách, nếu yếu lấy tay ra dấu gọi một vị nữa cùng xách, mỗi người không nói chuyện với nhau. Đến năm ngày mới họp một lần, hoặc hai người thuyết pháp, hoặc như Thánh im lặng.
 
-***(Kinh Trung A Hàm)***
+<hr class="blog-rule" />(Kinh Trung A Hàm)<hr class="blog-rule" />
 
 ### 2. **Không thấy Đạo thề không nằm nghỉ**
 
@@ -555,26 +555,26 @@ Một vị xuất gia ở nước Ba La Nại, tự thệ: "không khế hội c
 
 Một vị sa môn ở nước La Duyệt Kỳ, trải cỏ làm nệm ngồi. Ngài tự thệ: "không đắc đạo, quyết không rời chỗ này". Những khi buồn ngủ quá, Ngài lấy dùi chích vào vế cho mất buồn ngủ. Trong vòng một năm như vậy, ngài ngộ đạo.
 
-***(Kinh Tạp Thí Dụ)***
+<hr class="blog-rule" />(Kinh Tạp Thí Dụ)<hr class="blog-rule" />
 
 ### 3. **Vì chuyên cần cam chịu mọi khó khổ**
 
 Giả sử thân ta máu thịt khô kiệt, chỉ còn da bọc xương, nếu chưa đạt được thắng pháp, quyết không dừng nghĩ. Vì tinh tấn cam chịu những việc nóng, lạnh, đói, khát, gió, mưa,… lại cam chịu người khác hành hạ thân thể đau đớn, cam chịu mọi sự mắng nhiếc, hủy nhục của người.
 
-***(A Tỳ Đàm Tập Dị Môn Túc)***
+<hr class="blog-rule" />(A Tỳ Đàm Tập Dị Môn Túc)<hr class="blog-rule" />
 
 ### 4. **Hông không bén chiếu**
 
 Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu niên hỏi Ngài: "Cái việc của người xuất gia, một là tập tu Thiền định, hai là học tụng kinh điển, mà ông nay tuổi già yếu làm sao tu tiến được?" Tôn giả nghe rồi, liền phát thệ: "Tôi nếu không thông ba Tạng kinh, không đoạn được ái dục trong ba cõi và chứng được sáu pháp thần thông, đầy đủ tám món giải thoát, thệ không để hông bén chiếu". Từ đây, Tôn giả ban ngày thì nghiên cứu giáo lý, ban đêm thì tọa thiền an định, suốt ba năm như vậy, liền chứng đầy đủ như sở nguyện. Người thời bấy giờ kính trọng hạnh tinh tấn của Ngài, nên đặt hiệu là "Hiếp Tôn Giả" (Tôn giả hông không bén chiếu).
 
-***(Tây Vực Ký)***
+<hr class="blog-rule" />(Tây Vực Ký)<hr class="blog-rule" />
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
 
 > ✨ Nguồn: <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

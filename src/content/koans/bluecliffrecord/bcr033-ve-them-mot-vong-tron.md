@@ -103,7 +103,7 @@ Nếu như người ta là một con rùa lớn, hẳn sẽ không có kiến gi
 Nếu như người ta là một ông tăng, người ta hẳn sẽ không có kiến giải của một con rùa lớn.
 
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12758/5/tac-thu-ba-muoi-ba-tran-thuong-thu-vieng-tu-phuc
 >
@@ -113,7 +113,7 @@ Nếu như người ta là một ông tăng, người ta hẳn sẽ không có k
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

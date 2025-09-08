@@ -60,7 +60,7 @@ Nếu như các ông định tìm chổ hiểu trong ngôn ngữ thì cũng gi�
 
 Ông tăng kia hỏi, “Thế nào là ý của Tổ Sư từ Tây Thiên qua?” Hương Lâm đáp, “ Ngồi lâu thấm mệt.” Nếu các ông hiểu được như thế là các ông “ Xoay phải trái theo sau đến.” Thử nói xem, Tuyết Đậu tụng như vậy có nghĩa là gì?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12740/5/tac-thu-muoi-bay-huong-lam-ngoi-lau
 >
@@ -70,7 +70,7 @@ Nếu như các ông định tìm chổ hiểu trong ngôn ngữ thì cũng gi�
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

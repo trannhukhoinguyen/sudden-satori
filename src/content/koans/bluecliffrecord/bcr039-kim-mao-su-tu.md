@@ -86,7 +86,7 @@ Nói như thế là vì hiểu hay là vì không hiểu? “Kim Mao Sư Tử m�
 
 Có thấy Kim Mao Sư Tử không? Đồ mù!
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12764/5/tac-thu-ba-muoi-chin-kim-mao-su-tu-cua-van-mon
 >
@@ -96,7 +96,7 @@ Có thấy Kim Mao Sư Tử không? Đồ mù!
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

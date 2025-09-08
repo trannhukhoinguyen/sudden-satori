@@ -2,13 +2,15 @@
 import "@/styles/post/boxedPostList.css";
 import "@/styles/post/postList.css";
 import "@/styles/badge/badgeList.css";
-import { CONTENT_MAP } from "../../utils/getMarkdownContent";
-import { config } from "../../config";
-import Layout from "../../layouts/Layout.astro";
-import Pagination from "../../components/page/Pagination.astro";
-import FlatTags from "../../components/post/FlatTags.astro";
-import BoxedPostList from "../../components/postList/BoxedPostList.astro";
-import OtherPostList from "../../components/postList/OtherPostList.astro";
+import { CONTENT_MAP } from "@/utils/getMarkdownContent";
+import { config } from "@/config";
+import ICONS_MAP, { type CollectionType } from "@/data/iconsMap";
+import Layout from "@/layouts/Layout.astro";
+import Pagination from "@/components/page/Pagination.astro";
+import FlatTags from "@/components/post/FlatTags.astro";
+import BoxedPostList from "@/components/postList/BoxedPostList.astro";
+import OtherPostList from "@/components/postList/OtherPostList.astro";
+import MasterBoxedPostList from "@/components/postList/MasterBoxedPostList.astro";
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
@@ -16,7 +18,7 @@ export async function getStaticPaths() {
     return {
       params: { collection },
       props: {
-        collection,
+        collection: collection as CollectionType,
         posts,
         page: 1,
         totalPages: Math.ceil(posts.length / config.postsPerPage),
@@ -51,31 +53,21 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 
 <!-- Post List Section -->
     {posts.length > 0 ? (
-            collection === 'koans'
-                ? <BoxedPostList
+        ICONS_MAP[collection] && collection !== 'masters'
+            ? <BoxedPostList
+                posts={posts}
+                page={page}
+                totalPages={totalPages}
+                icons={ICONS_MAP[collection]}
+            />
+            : collection === 'masters'
+                ? <MasterBoxedPostList
                     posts={posts}
                     page={page}
                     totalPages={totalPages}
-                    icons={{
-                        'Giới thiệu': '🪨',
-                        'Chưa phân loại': '💥',
-                        'odd': '🌈',
-                        'even': '⚡️',
-                    }}
+                    icons={ICONS_MAP[collection]}
                 />
-                : ['sutras', 'interpretations'].includes(collection)
-                    ? <BoxedPostList
-                        posts={posts}
-                        page={page}
-                        totalPages={totalPages}
-                        icons={{
-                            'Giới thiệu': '📚',
-                            'Chưa phân loại': '📓',
-                            'odd': '📙',
-                            'even': '📒',
-                        }}
-                    />
-                    : <OtherPostList posts={posts} page={page} />
+                : <OtherPostList posts={posts} page={page} />
 
 <!-- Pagination Section -->
         <Pagination page={1} totalPages={totalPages} category={collection} />

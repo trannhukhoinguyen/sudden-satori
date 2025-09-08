@@ -18,7 +18,8 @@ const KoMasterDb = [
     successors: ['Chinghyo Choljung'],
     disciples: ['Chinghyo Choljung'],
     image: '/',
-    reference: ['https://pl.wikipedia.org/wiki/Ch%E2%80%99%C5%8Flgam_Toyun'],
+    reference: [],
+    wiki: ['https://pl.wikipedia.org/wiki/Ch%E2%80%99%C5%8Flgam_Toyun'],
   },
   {
     id: '38.5.12.K',
@@ -40,6 +41,7 @@ const KoMasterDb = [
     disciples: [],
     image: '/',
     reference: ['https://pl.wikipedia.org/wiki/Chinghyo_Ch%C5%8Fljung'],
+    wiki: ['https://pl.wikipedia.org/wiki/Chinghyo_Ch%C5%8Fljung'],
   },
   {
     id: '40.7.10.K',
@@ -64,6 +66,7 @@ const KoMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://nigioikhatsi.net/thien/le-lay-chinh-minh.html', 'https://terebess.hu/zen/mesterek/Lamp5.pdf'],
+    wiki: [''],
   },
   {
     id: '40.7.11.K',
@@ -85,6 +88,7 @@ const KoMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Tongjin_Ky%C5%8Fngbo',],
+    wiki: ['https://pl.wikipedia.org/wiki/Tongjin_Ky%C5%8Fngbo',],
   },
   {
     id: '41.8.1.K',
@@ -105,7 +109,8 @@ const KoMasterDb = [
     successors: ['-'],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
 ]
 export default KoMasterDb;

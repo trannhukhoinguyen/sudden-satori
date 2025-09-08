@@ -48,7 +48,7 @@ Triệu Châu là người trong nhà của Nam Tuyền cho nên hiểu ý chỉ
 
 “Giầy cỏ đội đầu không ai hiểu.” Việc đội giầy cỏ lên đầu này là việc vặt không có gì lắm chuyện, cho nên mới nói, “Chỉ có tôi mới hiểu được, chỉ có tôi mới chứng được.” Lúc ấy các ông mới thấy được cái đồng đắc và đồng dụng giữa Nam Tuyền, Triệu Châu và Tuyết Đậu. Song thử nói xem, hiện giờ các ông hiểu như thế nào? “Về đến núi nhà bèn nghỉ ngơi.” Núi nhà của thầy ta là chỗ nào? Nếu như thầy ta không hiểu hẳn sẽ không nói như vậy. Thầy ta đã hiểu, vậy thì thử nói xem núi nhà là ở đâu?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12793/5/tac-thu-sau-muoi-bon-nam-tuyen-hoi-trieu-chau
 >
@@ -58,7 +58,7 @@ Triệu Châu là người trong nhà của Nam Tuyền cho nên hiểu ý chỉ
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -52,7 +52,7 @@ Tuyết Đậu nếu như không có câu cuối cùng, thì biết ở chỗ no
 
 Đã như “quạ bay thỏ chạy,” thì thử nói xem rốt cuộc Triệu Châu, Tuyết Đậu và sư núi tôi thành ra như thế nào đây?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12786/5/tac-thu-nam-muoi-tam-trieu-chau-va-khuon-sao-thoi-thuong
 >
@@ -62,7 +62,7 @@ Tuyết Đậu nếu như không có câu cuối cùng, thì biết ở chỗ no
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

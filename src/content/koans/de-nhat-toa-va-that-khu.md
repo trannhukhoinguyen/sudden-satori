@@ -1,6 +1,7 @@
 ---
 title: "CỬU PHONG VÀ ĐỆ NHẤT TÒA"
-description: ""
+meta_title: "Cửu Phong và Đệ Nhất Tòa – Công án Tổ Sư Thiền (Thiền Tông)"   # nên thêm keyword chính
+description: "Công án Thiền nổi tiếng Cửu Phong và Đệ Nhất Tòa, khai mở ý nghĩa sâu xa trong truyền thống Tổ Sư Thiền (Thiền Tông)"
 image: "/images/koans/great-wave.webp"
 excerpt:
   "Cửu Phong là thị giả của Thạch Sương. Khi Thạch Sương mất, chúng Tăng trong tự viện họp và quyết định chọn vị Đệ Nhất Tòa làm trụ trì mới."
@@ -40,17 +41,19 @@ Cửu Phong la lên: *Đó! Tôi biết ông chẳng hề hiểu Tông Chỉ c�
 Rồi hương được đốt và Đệ Nhất Tòa bắt đầu ngồi... thẳng như một chiếc gậy ... kìa!...
 Trước khi nén hương cháy hết Đệ Nhất Tòa đã mất ngay chổ ông ngồi!
 
-Lúc ấy Cửu Phong vỗ vai tử thi và nói: *Ông muốn ngồi mà tịch, hay đứng mà hóa cũng được.
+Lúc ấy Cửu Phong vỗ vai tử thi và nói: 
+
+> *Ông muốn ngồi mà tịch, hay đứng mà hóa cũng được.
 Còn về ý nghĩa những lời nói của thầy, ông vẫn chẳng hiểu chút nào!"*
 
 <hr class="blog-rule" />
 
 > ✨ Nguồn: https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-cuu-phong-dao-kien/" target="_blank">TS CỬU PHONG ĐẠO KIỀN</a>
+[^1]: ⭐️ <a href="/masters/Jiufeng-Daoqian" target="_blank">TS CỬU PHONG ĐẠO KIỀN</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^2]: ⭐️ <a href="/masters/Shishuang-Qingzhu" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>

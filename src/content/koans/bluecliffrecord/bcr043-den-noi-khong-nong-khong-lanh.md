@@ -56,7 +56,7 @@ Sau đó Tuyết Đậu lại nói, “Điện cổ lưu ly chiếu trăng sáng
 
 Còn như các ông, có biết chỗ vì người của Động Sơn chăng? Mãi lâu sau, Viên Ngộ mới nói, “Các ông kiếm thỏ gì vậy?”
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12769/5/tac-thu-bon-muoi-ba-khong-nong-khong-lanh-cua-dong-son
 >
@@ -66,7 +66,7 @@ Còn như các ông, có biết chỗ vì người của Động Sơn chăng? M�
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

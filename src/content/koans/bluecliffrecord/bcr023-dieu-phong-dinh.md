@@ -76,7 +76,7 @@ Còn như “Đầu lâu đầy đồng mấy ai hay?”
 
 Các ông có biết không? Mù!
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12747/5/tac-thu-hai-muoi-ba-dieu-phong-dinh-cua-bao-phuc
 >
@@ -86,7 +86,7 @@ Các ông có biết không? Mù!
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

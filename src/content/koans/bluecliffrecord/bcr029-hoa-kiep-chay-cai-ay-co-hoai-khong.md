@@ -56,7 +56,7 @@ Tuyết Đậu dựa vào cơ duyên mà tụng ra, trong câu có chỗ xuất 
 
 “Thương thay một câu “giống như” kia, vạn dặm thui thủi mình đi về.” Là để tụng ông tăng kia đem câu hỏi đến hỏi Đầu Tử, rồi lại trở về Đại Tùy, đây có thể bảo là vạn dặm thui thủi.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12753/5/tac-thu-hai-muoi-chin-hoa-kiep-cua-dai-tuy
 >
@@ -66,7 +66,7 @@ Tuyết Đậu dựa vào cơ duyên mà tụng ra, trong câu có chỗ xuất 
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

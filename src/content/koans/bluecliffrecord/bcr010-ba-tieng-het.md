@@ -126,7 +126,7 @@ Nhưng mà tại sao Tuyết Đậu lại nói, “Nêu lên cho cả thiên h�
 
 Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở mắt cũng được, song còn có ai tránh được chăng?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12732/5/tac-thu-muoi-ba-tieng-het-cua-muc-chau
 >
@@ -136,7 +136,7 @@ Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

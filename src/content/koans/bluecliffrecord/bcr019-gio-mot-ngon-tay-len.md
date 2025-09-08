@@ -73,7 +73,7 @@ Người ta thường giải thích lầm lạc rằng, “ Sơn hà đại đ�
 
 “Sóng đêm đẩy tới con rùa mù.” Kinh Pháp Hoa nói, “Như con rùa chột bám vào nhánh cây nổi mà thoát khỏi chết chìm.” Khi bậc thiện tri thức tiếp được một kẻ như rồng như cọp, khiến gã hướng về thế giới có Phật để cùng làm chủ khách, về thế giới không có Phật để cắt đoạn đường nối. Tiếp được con rùa mù thì làm được gì?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12742/5/tac-thu-muoi-chin-ngon-tay-thien-cua-cau-chi
 >
@@ -83,7 +83,7 @@ Người ta thường giải thích lầm lạc rằng, “ Sơn hà đại đ�
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

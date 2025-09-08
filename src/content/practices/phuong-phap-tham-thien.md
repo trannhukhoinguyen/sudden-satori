@@ -18,7 +18,7 @@ pdfUrl: "/pdfs/phuong-phap-tham-thien-ht-Hu-Van.pdf"
 
 > ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

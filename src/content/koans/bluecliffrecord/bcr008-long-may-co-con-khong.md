@@ -145,7 +145,7 @@ Khi Tuyết Đậu nói, “Ngàn xưa không đáp”, thầy ta chỉ muốn n
 
 Mãi tới khúc cuối mói nói, “Trường Khánh biết rõ, lông mày mọc dài.” Thử nói xem mọc ở chỗ nào? Mau tìm thử xem!
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12730/5/tac-thu-tam-thuy-nham-day-do-chung-cuoi-ha
 >
@@ -155,7 +155,7 @@ Mãi tới khúc cuối mói nói, “Trường Khánh biết rõ, lông mày m�
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -8,18 +8,31 @@ const { frontmatter } = Astro.props;
 <div class="mb-8 space-y-6">
     {
         frontmatter?.videoUrl && (
-                    <div>
-                        <div class="video-container">
-                            <iframe
+                    <div class="video-container">
+                        <iframe
                                 src={frontmatter.videoUrl + `?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
                                 title={frontmatter.title}
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                                 allowfullscreen
                                 class="w-full h-full"
-                            ></iframe>
-                        </div>
+                        ></iframe>
                     </div>
         )
+    }
+
+    {
+        frontmatter?.videoUrls?.length &&
+        frontmatter?.videoUrls?.map((url: any, index: any) => (
+                <div class="video-container">
+                    <iframe
+                        src={url + `?start=${frontmatter.videoStarts?.length ? frontmatter.videoStart[index] : 0}`}
+                        title={frontmatter.title}
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen
+                        class="w-full h-full"
+                    ></iframe>
+                </div>
+        ))
     }
 
     <!--      {
@@ -71,6 +84,7 @@ const { frontmatter } = Astro.props;
     height: 0;
     overflow: hidden;
     border-radius: 8px;
+    margin-block: 8px;
 }
 
 .video-container iframe {

@@ -118,7 +118,7 @@ Giống như thể nằm mộng rồi tỉnh. Tuy Tuyết Đậu có hét một 
 
 Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa vô hạn ý, đào đất chôn sâu thêm.”
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12761/5/tac-thu-ba-muoi-sau-truong-sa-mot-hom-di-choi-nui
 >
@@ -128,7 +128,7 @@ Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa v�
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

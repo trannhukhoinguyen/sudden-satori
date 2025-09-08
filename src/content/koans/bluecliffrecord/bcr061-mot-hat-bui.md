@@ -49,7 +49,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà bỏ một phía. Bớt dài thêm ngắn, bỏ nặng theo nhẹ. Cho nên mới nói rằng, “Lão quê có thể không nhướng mày. Mong rằng nhà nước vững mạnh luôn. Mưu thần mãnh tướng giờ đâu hết?” Khi Tuyết Đậu dơ gậy lên nói, “ Có còn các nạp tăng đồng sinh đồng tử không?” Cũng giống như thể nói rằng, "Có còn có mưu thần mãnh tướng không?” Một miệng nuốt luôn tất cả mọi người. Cho nên mới nói rằng đất rộng người thưa, kẻ gặp gở ít. Còn có kẻ biết nhau không? Bước ra đây cùng chọn chung một chỗ với nhau luôn“ Vạn dặm gió mát chỉ tự biết.” Đây chính là chỗ Tuyết Đậu tự điểm vào ngực mình.
 
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12790/5/tac-thu-sau-muoi-mot-mot-hat-bui-cua-phong-huyet
 >
@@ -59,7 +59,7 @@ Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -92,7 +92,7 @@ Tuyết Đậu dẫn dụng câu này. Không hiểu các ông có biết không
 
 Tuyết Đậu trong một lúc mô tả ngay được Triệu Châu. Cái thật bao giờ cũng ở bên trong: các ông phải cẩn thận để mắt nhìn.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12787/5/tac-thu-nam-muoi-chin-trieu-chau-va-dung-so-do
 >
@@ -102,7 +102,7 @@ Tuyết Đậu trong một lúc mô tả ngay được Triệu Châu. Cái thậ
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

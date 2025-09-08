@@ -30,7 +30,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12734/5/tac-thu-muoi-mot-ke-uong-can-ruou-cua-hoang-ba
 >
@@ -40,7 +40,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

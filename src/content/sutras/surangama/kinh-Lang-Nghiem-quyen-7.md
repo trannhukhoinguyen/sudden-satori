@@ -129,7 +129,7 @@ Khi ấy, Thế Tôn từ nơi nhục kế phóng ra trăm thứ hào quang, tro
 >
 > Án, a na lệ, tỳ xá đề, bệ ra bạc xà ra đà rị, bàn đà bàn đà nể, bạt xà ra bàn ni phấn. Hổ hồng, đô lô ung phấn, ta bà ha.
 
-***
+<hr class="blog-rule" />
 
 - A Nan! Những câu vi diệu, bí mật của "Phật Đảnh Quang Tụ, thuần trắng chẳng ô nhiễm" này, sanh ra tất cả chư Phật:
 
@@ -215,7 +215,7 @@ Khi ấy, tám vạn bốn ngàn ức hằng sa Bồ Tát Kim Cang Tạng Vươn
 
 > Tâm tức là Chú, Chú tức là Tâm, Tâm và Chú bất nhị, nên gọi là Tâm Chú. Người muốn nhờ thần lực của Tâm Chú, trước tiên phải giữ giới trong sạch, chẳng khởi một niệm tham cầu, tức là quên cả sự đang tụng chú và sự nhờ cậy chú lực, như thế mới gọi là "tâm niệm trong sạch, thuần trắng chẳng ô nhiễm", được đến chỗ bất nhị cũa Tâm chú. Lúc ấy, sự diệu dụng của tự tánh (tâm chú) tự hiện, thì tất cả đều được thành tựu như lời kinh nói; nếu chẳng làm như thế, lại có thể trở thành tai họa, vì chư Hộ Pháp Long Thiên, tánh hay kính mến người thiện và trừng phạt kẻ ác vậy.
 
-***
+<hr class="blog-rule" />
 
 A Nan liền đứng dậy đảnh lễ bạch Phật:
 
@@ -275,7 +275,7 @@ Phật bảo:
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

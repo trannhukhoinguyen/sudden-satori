@@ -146,7 +146,7 @@ Phó Đại Sĩ đã lê trong bùn lấm trong nước, may mà có bậc tri �
 
 Thử nói xem, hiện giờ thầy ta ở đâu?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12796/5/tac-thu-sau-muoi-bay-luong-vu-de-moi-giang-kinh
 >
@@ -156,7 +156,7 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -68,7 +68,7 @@ author: "phatgiao.org.vn"
 
 - 🌊 Vân Môn thẳng tắt
 
-***
+<hr class="blog-rule" />
 
 ### ⚡️ **LÂM TẾ TÔNG**
 
@@ -199,9 +199,9 @@ Sư đáp:
 >
 > Lão ẩn dật ca ngợi
 
-***
+<hr class="blog-rule" />
 
-***
+<hr class="blog-rule" />
 
 ### 🎁 **QUY NGƯỠNG TÔNG**
 
@@ -220,9 +220,9 @@ Trong Nhơn Thiên Nhãn Mục nói về gia phong Quy Ngưỡng Tông là “Ch
 
 Còn Pháp Nhãn Thiền Sư Thập Quy Luận rằng: “Quy Ngưỡng thì vuông tròn mặc khế, như tiếng dội trong hang, như phù hợp luật lệ thông qua quan ải”.
 
-***
+<hr class="blog-rule" />
 
-***
+<hr class="blog-rule" />
 
 ### 🌟 **TÀO ĐỘNG TÔNG**
 
@@ -377,9 +377,9 @@ Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động
 >
 > Chớ nhận lời cuồng ngưng nửa đường.
 
-***
+<hr class="blog-rule" />
 
-***
+<hr class="blog-rule" />
 
 ### 🎈 **PHÁP NHÃN TÔNG**
 
@@ -412,9 +412,9 @@ Gia phong của Pháp Nhãn Tông có **Lục Tướng** và **Tứ Liệu Giả
 
 4️⃣ Bất văn bất văn (ám)
 
-***
+<hr class="blog-rule" />
 
-***
+<hr class="blog-rule" />
 
 ### 🌊 **VÂN MÔN TÔNG**
 
@@ -518,27 +518,27 @@ Văn Yểm có tự làm bài kệ rằng:
 >
 > Cuối cùng ở đây cũng khó thi (hành).
 
-***
+<hr class="blog-rule" />
 
-***
+<hr class="blog-rule" />
 
 ## ** 🇻🇳 VIỆT NAM**
 
 ...
 
-***
+<hr class="blog-rule" />
 
 ## ** 🇯🇵 NHẬT BẢN**
 
 ...
 
-***
+<hr class="blog-rule" />
 
 ## ** 🇰🇷 HÀN QUỐC / TRIỀU TIÊN**
 
 ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

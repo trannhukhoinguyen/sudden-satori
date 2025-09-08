@@ -93,7 +93,7 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 
 Đoạn cuối cùng của bài tụng là dựa vào sự kiện mà kết thúc công án. “Hoàng kim linh cốt hiện vẫn còn, ba đào tận trời biết để đâu?” Câu này là để tụng lời của Thạch sương và Thái Nguyên Phù. Tại sao lại không có chỗ để? “Chiếc dép về Tây cũng mất rồi.” Con rùa thần lê lết cái đuôi. Đây chính là chỗ Tuyết Đậu xoay trở vì người khác. Cổ nhân nói, “Chỉ tham câu sống, chứ không tham câu chết.” Đã mất rồi thì tại sao mấy tay này lại cứ tranh cãi với nhau vậy kìa?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12783/5/tac-thu-nam-muoi-lam-dao-ngo-va-tiem-nguyen-di-dieu-tang
 >
@@ -103,7 +103,7 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

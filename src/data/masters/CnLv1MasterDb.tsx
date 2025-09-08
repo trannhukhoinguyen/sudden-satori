@@ -20,6 +20,7 @@ const CnLv1MasterDb = [
     disciples: ['Shitou Xiqian'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Qingyuan_Xingsi.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '34.1.2',
@@ -41,7 +42,8 @@ const CnLv1MasterDb = [
     successors: ['Danyuan Yingzhen'],
     disciples: ['Danyuan Yingzhen', 'Suzong - (vua Túc Tông - Lý Hanh)', 'Daizong - (vua Đại Tông - Lý Dự)', 'Đặng Châu Duy Giới', 'Khai phủ Tôn Tri Hữu'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/1/1d/Nanyang_Huizhong.jpg',
-    reference: ['https://en.wikipedia.org/wiki/Nanyang_Huizhong', 'https://terebess.hu/zen/mesterek/NanyangHuizhong.html', 'https://vi.wikipedia.org/wiki/Nam_D%C6%B0%C6%A1ng_Hu%E1%BB%87_Trung'],
+    reference: ['https://terebess.hu/zen/mesterek/NanyangHuizhong.html',],
+    wiki: ['https://en.wikipedia.org/wiki/Nanyang_Huizhong', 'https://vi.wikipedia.org/wiki/Nam_D%C6%B0%C6%A1ng_Hu%E1%BB%87_Trung'],
   },
   {
     id: '34.1.3',
@@ -65,6 +67,7 @@ const CnLv1MasterDb = [
       'Dương châu Nghiêm Lăng', 'Tân La Bản Như', 'Huyền Thịnh', 'Đông Vụ Pháp Không'],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '34.1.4',
@@ -92,7 +95,8 @@ const CnLv1MasterDb = [
     ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/48/HezeShenhuiDrawing.jpg',
     image2: 'https://terebess.hu/zen/Shenhui.jpg',
-    reference: ['https://terebess.hu/zen/shenhui.html', 'https://en.wikipedia.org/wiki/Shenhui'],
+    reference: ['https://terebess.hu/zen/shenhui.html', ],
+    wiki: ['https://en.wikipedia.org/wiki/Shenhui'],
   },
   {
     id: '34.1.5',
@@ -114,6 +118,7 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '34.1.6',
@@ -138,6 +143,7 @@ const CnLv1MasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '34.1.8',

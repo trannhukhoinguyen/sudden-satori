@@ -116,7 +116,7 @@ Những người học Thiền bây giờ nếu lấy tâm này làm tổ tông,
 
 Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con cháu. Thiên địa chưa phân, đã là phụ thứ rồi. Thử nói xem, đang lúc ấy thì thế nào là trước trời đất?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12784/5/tac-thu-nam-muoi-sau-mot-mui-ten-pha-ba-ai-cua-van-mon
 >
@@ -126,7 +126,7 @@ Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con ch�
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

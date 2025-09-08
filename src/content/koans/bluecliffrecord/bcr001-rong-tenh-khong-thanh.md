@@ -171,7 +171,7 @@ Tuyết Đậu lại sợ thiên hạ mải đuổi theo kiến thức thường
 
 Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này, cho nên lại mượn vào phương tiện, lớn tiếng nói, “Nơi này còn có Tổ Sư chăng?” Rồi tự trả lời, “Có”. Ở đây Tuyết Đậu chẳng còn ngần ngại bộc lộ lòng dạ của mình cho thiên hạ. Lại tự nói, “Đến đây rửa chân cho lão tăng”.Quả tình là hạ thấp quang huy của người ta một cách quá đáng, song lúc ấy Tuyết Đậu cũng đã cung hiến cả tay chân mình. Thử nói xem, ý của Tuyết Đậu nằm ở chổ nào? Đến chổ này rồi thì có gọi là lừa cũng được, có gọi là ngựa cũng được, mà có gọi là Tổ Sư cũng được. Song làm sao có thể gọi tên hay mô tả được? Ý kiến thông thường rằng Tuyết Đậu chỉ lợi dụng Tổ Sư, may thay chẳng có gì nhằm nhò với việc này cả. Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lão hồ biết, không cho lão hồ hiểu”.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p26a12723/4/tac-thu-nhat-cai-trong-khong-cua-dat-ma
 >
@@ -181,7 +181,7 @@ Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

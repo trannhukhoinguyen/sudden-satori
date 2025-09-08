@@ -58,7 +58,7 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 
 “Người thấy chăng Thiếu Lâm ngồi lâu khách chưa về.” Đạt Ma trước khi trở về Tây Thiên chín năm ngồi yên lặng quay mặt vào tường. Thử nói xem, phải chăng đây là cây khô lá rụng? Thử nói xem, phải chăng đây là thể lộ kim phong? Nếu như có thể ở đây mà hợp thành một thể cả cổ kim phàm thánh càn khôn đại địa, thì mới có thể thấy được chỗ vì người của Tuyết Đậu. “ Hùng Nhĩ êm đềm một tùng lâm.” Hùng Nhĩ tức là Tây Kinh Tung Sơn Thiếu Lâm. Trước núi cũng ngàn tùng vạn tùng, sau núi cũng ngàn tùng vạn tùng. Các ông phải thấy ở chỗ nào đây? Có thấy chỗ vì người của Tuyết Đậu không? Cũng chỉ là con rùa linh kéo lê cái đuôi mà thôi.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12751/5/tac-thu-hai-muoi-bay-the-lo-kim-phong-cua-van-mon
 >
@@ -68,7 +68,7 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

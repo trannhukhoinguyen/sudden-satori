@@ -1047,7 +1047,7 @@ Thuyết cảnh giới tự giác.
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng :
 
-Tất cả sắc và tâm,
+> Tất cả sắc và tâm,
 
 Sanh khởi từ nơi không.
 
@@ -1057,9 +1057,9 @@ Tạng thức hiện chúng sanh.
 
 Tâm, ý và ý thức,
 
-Pháp tự tánh có năm (1).
+Pháp tự tánh có năm [^1].
 
-Vô ngã có hai thứ (2),
+Vô ngã có hai thứ [^2],
 
 Do Như Lai rộng thuyết.
 
@@ -1087,16 +1087,9 @@ Cảnh giới của tự giác,
 
 Cứu thế phương tiện thuyết.
 
-(1) NĂM PHÁP CỦA TỰ TÁNH: 
-- Tướng
-- danh
-- phân biệt
-- chánh trí 
-- như như
+[^1]: 5 PHÁP CỦA TỰ TÁNH: Tướng, danh, phân biệt, chánh trí, như như
 
-(2) HAI THỨ VÔ NGÃ: 
-- Nhân (người) vô ngã 
-- Pháp vô ngã
+[^2]: 2 THỨ VÔ NGÃ: Nhân (người) vô ngã & Pháp vô ngã
 
 ### Khi ấy, Đại Huệ Bồ Tát vì trừ sạch dòng suối ý thức do tự tâm hiện, lại hỏi Như Lai rằng :
 
@@ -1219,7 +1212,7 @@ Thọ tưởng thảy tịch diệt.
 
 Cũng chẳng có tâm lượng.
 
-***
+<hr class="blog-rule" />
 
 #### LƯỢC GIẢI
 
@@ -1424,7 +1417,7 @@ Bậc Thánh lìa hữu vô.
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

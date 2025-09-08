@@ -101,7 +101,7 @@ Phật bảo:
 > Nếu chẳng biết tâm và mắt ở đâu thì chẳng thể hàng phục được trần lao; ví như đất nước có giặc, vua sai binh dẹp trừ, binh lính tất phải biết sào huyệt của giặc. 
 > Khiến ngươi bị luân chuyển ấy là lỗi tại tâm và mắt. Ta hỏi ngươi: Tâm và mắt của ngươi hiện đang ở đâu?
 
-***
+<hr class="blog-rule" />
 
 ### 7 CHỖ GẠN HỎI TÌM TÂM
 
@@ -296,7 +296,7 @@ Nếu bệnh chấp đã hết thì một chỗ cũng chẳng có, nói gì đ�
 Tại sao? Vì nếu có ở một chỗ này thì những chỗ kia không có, chỗ có chỗ không tức là nhị. 
 Nên Phật nói: Phàm hữu ngôn thuyết, giai phi thật nghĩa (Phàm có lời nói đều chẳng phải nghĩa thật).
 
-***
+<hr class="blog-rule" />
 
 Bấy giờ, A Nan ở trong đại chúng từ chỗå ngồi đứng dậy, trịch vai áo tay phải, quỳ gối chân phải, chắp tay cung kính bạch Phật:
 
@@ -520,7 +520,7 @@ Do đó, Phật bảo đại chúng rằng:
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

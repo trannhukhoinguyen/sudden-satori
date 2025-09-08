@@ -60,7 +60,7 @@ Tất cả chỉ nằm trong bốn chữ, tại sao lại có chìm hiện cuố
 
 “Cưỡi rồi chẳng biết đi về đâu.” Thử nói xem, thầy ra cười cái gì vậy? Giống như thể cơn gió trong lạnh ngắt. Tại sao Tuyết Đậu rốt cuộc lại nói rằng, “Chỉ là thiên cổ động bi phong”? Đây cũng là chết mà không có điếu tang, trong chớp nhoáng đã chú giải hết chỗ các ông. Có điều trong thiên hạ chẳng ai cắn vào được cả, bởi vì họ không hiểu chỗ cốt yếu của Ngưỡng Sơn. Ngay cả sư núi tôi cũng chẳng biết. Các ông có biết chăng?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12797/5/tac-thu-sau-muoi-tam-nguong-son-hoi-tam-thanh
 >
@@ -70,7 +70,7 @@ Tất cả chỉ nằm trong bốn chữ, tại sao lại có chìm hiện cuố
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -657,7 +657,7 @@ Chơn thật tâm như thị. Thế là tâm chơn thật.
 
 [^15]: Phản văn bản tánh văn: Nếu chấp cái nghe là thật, thì không nghe ngoài phải nghe trong, không nghe động phải nghe tịnh. Nghe trong, ngoài, động, tịnh, đều là bỏ gốc theo ngọn, nên gọi là cái nghe điên đảo. Xoay cái nghe điên đảo này về chánh, chánh thì chẳng có năng văn, sở văn, vậy mới gọi là Phản văn, cũng là Bản tánh văn; nghịch cảnh trần, hợp giác tánh, nên gọi là chánh. Đã trở về bản văn, tức thấy bản lai diện mục, cũng là tánh Văn này, liền thành vô thượng Bồ Đề.
 
-***
+<hr class="blog-rule" />
 
 A Nan cùng đại chúng được khai thị lớn, thân tâm sáng suốt, rõ biết đạo Bồ Đề và Đại Niết Bàn, cũng như có người đi xa, dù chưa được trở về, nhưng đã biết rõ con đường về nhà. Đại chúng trong hội với Thiên Long Bát Bộ, hàng nhị thừa hữu học và tất cả Bồ Tát mới phát tâm, gấp mười lần hằng sa, đều nhận được bản tâm, xa lìa trần cấu, được pháp nhãn trong sạch. Tỳ Kheo ni Tánh nghe bài kệ xong, liền đắc quả A La Hán, vô số chúng sanh đều phát tâm Vô Đẳng Đẳng Vô Thượng Chánh Đẳng Chánh Giác.
 
@@ -720,7 +720,7 @@ Bà La Môn thuở đó tức là ta, 500 đồng tử tức 500 Tỳ Kheo theo 
 Theo nhân quả kể trên, Phật đã từng xả máu thịt cho diều hâu ăn, xả thân mạng cho cọp ăn, mà còn phải chịu quả báo mã mạch. Vậy đâu thể do đốt tay và đốt liều trên thân mà trả hết nợ xưa từ vô thỉ được!
 Sự đốt tay, đốt liều là để tăng cường lòng chánh tín, quên thân vì đạo. Cần phải quên thân hành đạo, cuối cùng mới tự nhiên trả hết nợ xưa, trọn thành Phật đạo.
 
-***
+<hr class="blog-rule" />
 
 - Ngươi dạy người đời tu Tam Ma Địa, phải dứt tâm trộm cắp, ấy là lời dạy rõ ràng trong sạch, gọi là nghĩa quyết định thứ ba của chư Phật.
 
@@ -752,7 +752,7 @@ Sự đốt tay, đốt liều là để tăng cường lòng chánh tín, quên
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

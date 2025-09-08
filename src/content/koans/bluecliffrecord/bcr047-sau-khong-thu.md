@@ -92,7 +92,7 @@ Ngũ Tổ tiên sư nói, “Thích Ca Mâu Ni Phật tay công nhân hạ tiệ
 
 Tuyết Đậu nói, “ Kỳ thực việc này làm sao có thể phân phó được?” Đã không phân phó “cuốn áo lại nói về Tây Trúc.” Song thử nói xem, đất này tại sao lại có sáu Tổ truyền thừa như vậy? Chỗ này không khỏi có hơi mù mờ. Phải hiểu được, sau đó mới có thể nhập cuộc. “Tây Trúc mênh mông chẳng nơi tìm. Đêm đến về nghĩ nơi Nhũ Phong.” Thử nói xem hiện giờ Đạt Ma ở đâu? Sư bèn đánh rồi nói, “Đồ mù!”
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12774/5/tac-thu-bon-muoi-bay-sau-khong-thu-cua-van-mon
 >
@@ -102,7 +102,7 @@ Tuyết Đậu nói, “ Kỳ thực việc này làm sao có thể phân phó �
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

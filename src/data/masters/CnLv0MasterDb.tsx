@@ -19,6 +19,7 @@ const CnLv0MasterDb = [
     disciples: ['Jianzhi Sengcan', 'Tăng Na', 'Tương Châu Tuệ Mãn', 'Cư sĩ Lưu Hướng'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Huike_thinking.jpg/220px-Huike_thinking.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '30.1',
@@ -38,6 +39,7 @@ const CnLv0MasterDb = [
     disciples: ['Dayi Daoxin'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sengcan.jpg/220px-Sengcan.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '30.2',
@@ -111,6 +113,7 @@ const CnLv0MasterDb = [
     disciples: ['Daman Hongren', 'Niutou Farong'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/5/59/Daoxin.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '31.2',
@@ -150,6 +153,7 @@ const CnLv0MasterDb = [
     disciples: ['Dajian Huineng'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hongren.jpg/220px-Hongren.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '32.2',
@@ -172,6 +176,7 @@ const CnLv0MasterDb = [
       'Thượng Nguyên Trí Thành'],
     image: 'https://i.pinimg.com/736x/59/ef/78/59ef78ca5fa903bb4b843c2b40db4970.jpgg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '32.3',
@@ -214,6 +219,7 @@ const CnLv0MasterDb = [
     disciples: ['Qingyuan Xingsi', 'Shitou Xiqian', 'Nanyue Huairang', 'Biandan Xiaoliao', 'Hongzhou Fada', 'Jizhou Zhicheng'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Huineng.jpg/220px-Huineng.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '33.2',
@@ -252,6 +258,7 @@ const CnLv0MasterDb = [
     disciples: ['Dōsen (道璿)', 'Tung Sơn Huệ Tịch (嵩山慧寂)', 'Kinh Triệu Nghĩa Phước (京兆 義福)', 'Yìfú', 'Kính Hiền', 'Pǔjì', 'Huệ Minh'],
     image: 'https://upload.wikimedia.org/wikipedia/en/2/2d/Shenxiu-invert.jpg',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '33.4',

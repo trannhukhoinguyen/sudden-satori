@@ -85,7 +85,7 @@ Tham thoại đầu không có gì để hiểu, để đạt, để nắm.
 
 > ✨ Nguồn: 
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

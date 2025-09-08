@@ -31,5 +31,5 @@ tags: ["TS THÍCH DUY LỰC", ]
 
 12. Quảng ngữ của Đại Thiền sư Pháp Nhãn Văn Ích (PHÁP NHÃN VĂN ÍCH)
 
-***
+<hr class="blog-rule" />
 

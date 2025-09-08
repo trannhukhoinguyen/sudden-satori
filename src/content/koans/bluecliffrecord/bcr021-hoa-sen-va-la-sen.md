@@ -86,7 +86,7 @@ Các ông đã nghi như thể chồn hoang, đi trên băng mỏng; lắng nghe
 
 Nếu như không có tiếng gì thì mới qua sông được. Nếu như các người học Thiền mà cứ sinh hết mối nghi này đến mối nghi khác, bao giờ mới được yên ổn đây?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12745/5/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon
 >
@@ -96,7 +96,7 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

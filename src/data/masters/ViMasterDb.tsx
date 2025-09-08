@@ -19,7 +19,8 @@ const InMasterDb = [
     successors: ['-'],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '88.101.2.V',
@@ -41,7 +42,8 @@ const InMasterDb = [
     successors: ['-'],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: ['https://vi.wikipedia.org/wiki/Th%C3%ADch_Duy_L%E1%BB%B1c'],
   },
 
 ]

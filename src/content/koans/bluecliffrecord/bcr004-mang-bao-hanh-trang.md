@@ -112,7 +112,7 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 
 Đức Sơn quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi. Có người nào bảo thầy ta thắng thế, đâu có biết rằng lão hán (Qui Sơn) này vẫn như trước đâu có chịu buông tha thầy ta? Tuyết Đậu nói. “Không buông thá”. Tối đến Qui Sơn hỏi vị thủ tòa, “Người vừa rồi mới đến đâu rồi?”Thủ tòa nói, “ Lúc ấy ông ta quay lưng về Pháp đường, mang dép cỏ vào rồi bỏ đi.” Qui sơn nói. Người ấy sau này thế nào cũng lên đỉnh cao tự xây am cỏ mà tiếp tục bài Phật bang Tổ.” Qui Sơn chịu buông tha Đức Sơn bao giờ? Dù sao Đức Sơn cũng kỳ đặc hết sức. Đến chỗ này tại sao Tuyết Đậu lại nói, “ Trên đỉnh cô đơn ngồi trong cỏ?” Xong rồi lại hét? Thử nói xem, ý của thầy ta là ở chổ nào? Tham Thiền thêm ba mươi năm nữa đi.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p26a12726/4/tac-thu-tu-duc-son-mang-bao-hanh-trang
 >
@@ -122,7 +122,7 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

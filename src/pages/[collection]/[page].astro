@@ -5,10 +5,12 @@ import "@/styles/badge/badgeList.css";
 import Layout from "../../layouts/Layout.astro";
 import Pagination from "../../components/page/Pagination.astro";
 import { CONTENT_MAP } from "../../utils/getMarkdownContent";
-import { config } from "../../config";
+import { config } from "@/config";
+import ICONS_MAP, { type CollectionType } from "@/data/iconsMap";
 import FlatTags from "../../components/post/FlatTags.astro";
 import OtherPostList from "../../components/postList/OtherPostList.astro";
 import BoxedPostList from "../../components/postList/BoxedPostList.astro";
+import MasterBoxedPostList from "@/components/postList/MasterBoxedPostList.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) => {
@@ -55,29 +57,19 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 
 <!-- Post List Section -->
     {posts.length > 0 ? (
-        collection === 'koans'
+        ICONS_MAP[collection] && collection !== 'masters'
             ? <BoxedPostList
-                    posts={posts}
-                    page={page}
-                    totalPages={totalPages}
-                    icons={{
-                        'Giới thiệu': '🪨',
-                        'Chưa phân loại': '💥',
-                        'odd': '🌈',
-                        'even': '⚡️',
-                    }}
+                posts={posts}
+                page={page}
+                totalPages={totalPages}
+                icons={ICONS_MAP[collection]}
             />
-            : ['sutras', 'interpretations'].includes(collection)
-                ? <BoxedPostList
+            : collection === 'masters'
+                ? <MasterBoxedPostList
                     posts={posts}
                     page={page}
                     totalPages={totalPages}
-                    icons={{
-                        'Giới thiệu': '📚',
-                        'Chưa phân loại': '📓',
-                        'odd': '📙',
-                        'even': '📒',
-                    }}
+                    icons={ICONS_MAP[collection]}
                 />
                 : <OtherPostList posts={posts} page={page} />
 

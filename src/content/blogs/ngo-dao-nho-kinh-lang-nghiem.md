@@ -87,7 +87,7 @@ Thiền sư Thượng Phương Ngộ An ở chùa Thụy Lộc Ôn Châu, ngư�
    
    Từ đó có thể biết, "Lăng Nghiêm khai ngộ", không phải là lời hư. Điều này cũng đã tạo một tấm gương tốt cho những người đọc <Lăng Nghiêm>, chỉ ra phương pháp đọc kinh đúng đắn và mục đích cuối cùng: không chấp vào văn tự biểu tướng, khéo nghe tiếng ngoài dây, để ngộ ý trong chữ, minh bản tâm của chính mình.
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

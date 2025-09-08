@@ -1,6 +1,6 @@
 ---
 import "@/styles/post/boxedPostList.css";
-import {config} from "../../config";
+import {config} from "@/config";
 import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
@@ -8,10 +8,9 @@ import Pagination from "../page/Pagination.astro";
 const {
         posts,
         icons = {
-                'Giới thiệu': '✨',
-                'Chưa phân loại': '💫',
-                'odd': '🔥',
-                'even': '🌊',
+            'Giới thiệu': '✨',
+            'Chưa phân loại': '💫',
+            'categorized': '🔥',
         },
         page,
         totalPages,
@@ -36,11 +35,11 @@ const postsGroupedBySpecialTag = groupsSorted
 
 {
     posts.length > 0 ? (
-        postsGroupedBySpecialTag?.map((postGrouped: any, index: number) => <h2 class="boxed-post-list-title-medium">
+        postsGroupedBySpecialTag?.map((postGrouped: any) => <h2 class="boxed-post-list-title-medium">
             {
                     ['Giới thiệu', 'Chưa phân loại'].includes(postGrouped.group)
                         ? icons[postGrouped.group]
-                        : index%2 === 0 ? icons['even'] : icons['odd']
+                        : icons['categorized']
             }
                 {postGrouped.group}
                 </h2>
@@ -56,7 +55,7 @@ const postsGroupedBySpecialTag = groupsSorted
 
                                 <!-- Image Section -->
                                 <section class="image-area">
-                                    <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="200px" />
+                                    <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="100px" />
                                 </section>
 
                                 <div class="boxed-post-meta">

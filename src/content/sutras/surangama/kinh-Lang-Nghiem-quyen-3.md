@@ -153,7 +153,7 @@ pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"
 > Giới chính giữa đã chẳng có, nên nói Lìa Trung. Nếu nói lìa căn trần mà sanh thức, thì lìa căn phải hợp với trần, lìa trần phải hợp với căn, vậy thức thuộc bên nào? 
 > Nên nói thể tánh lẫn lộn, ba chỗ đều sai, giới làm sao an lập?
 
-***
+<hr class="blog-rule" />
 
 2. NHĨ CĂN, THANH TRẦN, NHĨ THỨC GIỚI VỐN VÔ SANH.
 
@@ -323,7 +323,7 @@ A Nan yên lặng kính vâng thánh chỉ của Phật.
 
 > Hư không vô hình, vốn chẳng có bản thể, nếu tâm thức từ hư không ra thì cũng giống như hư không, chẳng có bản thể để nương tựa, tức là thức chẳng phải sắc tướng, cũng chẳng phải kiến tinh. Giữa hai thứ chẳng phải kể trên, nếu cho là "không bản thể" thì thức đồng như không có; nếu cho là "có bản thể" thì thức đồng như các vật; vật thì vô tri, chẳng có tánh phân biệt, vậy dẫu cho có thức cũng thành vô dụng.
 
-***
+<hr class="blog-rule" />
 
 - Nếu khi không vô nhân mà ra, thì sao chẳng cho mặt trời là mặt trăng?
 
@@ -425,7 +425,7 @@ Dịch nghĩa:
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

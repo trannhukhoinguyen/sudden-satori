@@ -50,7 +50,7 @@ Nắm ngay lỗ mũi của nạp tăng.
 
 Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý riêng của mình nơi chỗ sống động này cho nên mới nói với các ông, “Kẻ trộm kẻ trộm! Nắm ngay lỗ mũi của nạp tăng.” Tam thế chư Phật là kẻ trộm, lịch đại tổ sư cũng là kẻ trộm. Họ có thể làm kẻ trộm móc mất mắt của thiên hạ. Song chỉ có Triệu Châu là kẻ không lúng túng tay chân. Thử nói xem, chỗ nào là chỗ chứng tỏ rằng Triệu Châu khéo làm kẻ trộm? “ Trấn Châu sản xuất củ cải lớn,”
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12754/5/tac-thu-ba-muoi-cu-cai-cua-trieu-chau
 >
@@ -60,7 +60,7 @@ Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý r
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

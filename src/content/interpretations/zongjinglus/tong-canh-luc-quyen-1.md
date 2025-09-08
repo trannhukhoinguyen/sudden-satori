@@ -13,7 +13,7 @@ Theo DILA Glossaries, 宗鏡錄 được ghi là Zongjing Lu — “百卷，宋
 Một số tài liệu nghiên cứu gọi nó là **Record of the Source Mirror** 
 hoặc **Record of the Mirror of the Source** để nhấn mạnh tính chất “phản chiếu cái gốc” trong tư tưởng Thiền-Pure Land.
 
-***
+<hr class="blog-rule" />
 
 ## LỜI GIỚI THIỆU
 
@@ -32,7 +32,7 @@ Bằng tất cả lòng quy ngưỡng. Ni sư Tuệ Đăng và Hân Mẫn đã d
 - Thiền viện Thường Chiếu, ngày 24/06/09
 - Hân Định Sa-môn THÍCH NHẬT QUANG
 
-***
+<hr class="blog-rule" />
 
 ## Về tác giả
 
@@ -45,7 +45,7 @@ Ngoài Tông Cảnh Lục (100 quyển), Sư còn trứ tác Vạn Thiện Đồ
 
 🗒 *Phật Quang Đại Từ Điển*
 
-***
+<hr class="blog-rule" />
 
 ## Về tác phẩm
 
@@ -91,7 +91,7 @@ Phật Tổ Lịch Đại Thông Tải 18 ghi: “Vua nước Cao Ly đọc ngô
 
 🗒 *Định Huệ lược dịch từ Độc Tông Cảnh Lục của Dục Chi*
 
-***
+<hr class="blog-rule" />
 
 ## BÀI TỰA
 
@@ -106,7 +106,7 @@ Bây giờ xin nói rõ về môn tổng và biệt; nói rộng về sự đồ
 Riêng nêu bày cương tông, giăng rộng lưới Chính pháp, mò bắt cơ địa năm thừa, nhảy vọt lên tầng trời đệ nhất nghĩa, chứng đắc một cách rộng rãi tông này. 
 Lợi ích vô tận thì Chính pháp được an trụ lâu dài, dẹp tan rừng tà của ngoại đạo, có khả năng cứu giúp muôn loài, lấp bít dấu xe loạn của Tiểu thừa, như thế thì không tà, không chính, hữu ngụy đều không. Vì tự lợi cho nên phát ra gốc trí đức, vì lợi tha cho nên lập ra việc ân đức, do thành tựu trí đức nên khởi lòng từ vô duyên giáo hóa, do thành tựu ân đức nên đem tâm bi đồng thể cứu độ. Với đồng thể thì tâm khởi vô tâm, với vô duyên thì giáo (hóa) thành đại hóa (giáo hóa rộng rãi). Vì tâm khởi vô tâm nên chẳng có (niềm vui) hạnh phúc nào mà chẳng ban cho; vì hóa thành đại hóa nên chẳng có khổ đau nào mà chẳng dẹp bỏ. Không có hạnh phúc nào mà không ban cho thì kẻ trí, người ngu đều xem như nhau, chẳng có khổ đau nào mà chẳng dẹp bỏ thì kẻ oán, người thân không khác. Như thế là khiến cho ba thứ cỏ hai loại cây đều được tươi tốt trên một mảnh đất. Hạt giống tà, mầm mộng cháy đều được đều thấm nhuần một trận mưa. Thật là vô cùng tốt đẹp, không gì sánh bằng, có thể nói là bao quát hết cửa nhân, tìm suốt đến biển quả, cho nên người được khai phát bồ-đề, người mới câu bát-nhã, biết rõ manh mối thành Phật, viên đốn không trệ ngại, biết rõ con đường trở về nhà, tiến thẳng tới không nghi. Nếu người lìa con đường này tu hành khác tùy theo chỗ hiểu sai lầm của mình thì giống như gõ sừng lấy sữa, vin cây tìm cá dù trải qua ba a-tăng-kỳ trọn chẳng được gì. Nếu y theo tông chỉ này tin nhận, gìn giữ và phát huy như con thuyền lướt nhanh theo dòng nước không chút trệ ngại lại gặp gió thuận và thêm sức mái chèo thì sẽ chóng đến Bảo sở, bỗng chốc tới bờ giác. Có thể nói là tư lương sắp đặt sẵn, đạo quả thành tựu trước, mặc y thượng hạnh của ngài Ca-diếp, ngồi tòa pháp không của Phật Thích-ca, lên lầu Tỳ-lô của Di-lặc, vào thân pháp giới của Phổ Hiền, hay khiến người khách làm kẻ tôi tớ để được lãnh tất cả gia nghiệp của Trưởng giả; chợt làm cho hàng Tiểu quả chìm trong không tịch chóng được Như Lai thụ ký. Chưa có một môn chẳng thông đạo này thì chắc chắn không một pháp chẳng khế hợp tông này. Bậc giác vương thời quá khứ nhân đây thành Phật, hàng Đại sĩ vị lai nhờ đây chứng chân thì pháp môn nào mà không mở bày, nghĩa lý nào mà chẳng biểu hiện, không một sắc nào chẳng phải là tam-ma-bát-địa, không một thinh nào chẳng phải là môn đà-la-ni, nếm một vị mà biến khắp thành đề-hồ, ngửi một hương mà đều vào trong Pháp giới. Cây gió, bãi trăng đều có thể truyền tâm, cồn khói rừng mây đều bày diệu chỉ, mỗi bước dẫm trên cõi kim sắc, mỗi niệm ngửi mùi hương chiêm-bặc; vốc nước biển mà được trăm sông, đến tu-di đều đồng một sắc. Rực rỡ chừ! Mở mắt xem vạn tượng, thảy đều trở về tự tông, lặng lẽ dẫn tâm tìm châu đều quay về bản pháp, khiến cho núi tà rơi mũi nhọn, biển khổ thu cuộn sóng, dùng mái chèo trí an ổn lướt trên dòng để vượt lên đỉnh biếc vút cao. Ngày nay biết rõ chính tông của kinh luận, đại ý của Phật Tổ, tỉa bớt văn tự rườm rà, chỉ tìm lấy yếu chỉ, tạm mượn sự vấn đáp để dẫn giải, chứng minh rộng rãi. Nêu ra nhất tâm làm tông soi chiếu muôn pháp như gương và ghi chép ý nghĩa sâu xa từ các trước tác của Cổ đức, tóm lược giáo lý viên đốn trong bảo tạng nên gọi là “Lục”, phân làm một trăm quyển, có ba chương: đầu tiên là lập chính tông để làm nơi hướng về; kế là vấn đáp để loại bỏ nghi tình; sau là dẫn lời chân thật của kinh điển để thành tựu đức tin trọn vẹn và đem pháp lành vi diệu này ban rải khắp mọi loài, đồng báo ân Phật, cùng truyền tông chỉ này.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG 1
 

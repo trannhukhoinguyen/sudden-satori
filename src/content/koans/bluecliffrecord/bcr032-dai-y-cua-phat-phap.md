@@ -52,7 +52,7 @@ Phân phá Hoa Sơn ngàn vạn trùng.
 
 Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem đến tại sao phải thung dung?” Đại cơ đại dụng của Hoàng Bá chỉ có mình Lâm Tế là theo dấu chân được. Lúc đã nêu lên là không để người ta kịp nghĩ bàn, vừa tần ngần là các ông đã lạc vào âm giới. Kinh Lăng Nghiêm nói, “Ta đặt ngón tay, Hải Ấn phát quang, ông vừa sinh tâm, trần lao đã khởi.” “Cự linh dơ tay chẳng nhiều nhặn, phân phá Hoa Sơn ngàn vạn trùng.” Thần Cự Linh có đại thần lực, lấy tay chẻ Thái Sơn Hoa Sơn để nước chảy vào Hoàng Hà. Mối nghi của Định Thượng Tọa lớn như đồi núi, bị một cái tát của Lâm Tế làm tiêu tan hết cả.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12757/5/tac-thu-ba-muoi-hai-phat-phap-dai-y-cua-lam-te
 >
@@ -62,7 +62,7 @@ Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem �
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

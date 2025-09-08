@@ -20,45 +20,138 @@ import Footer from '../components/page/Footer.astro';
 import SEO from '../components/page/SEO.astro';
 
 import BackToTop from '../components/ui/BackToTop.astro';
-import { CONTENT_MAP } from "../utils/getMarkdownContent";
+
+import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../config';
 
 export interface Props {
   title: string;
+  meta_title: string;
   description?: string;
+  excerpt?: string;
   showSidebar?: boolean;
   image?: string;
   type?: 'website' | 'article';
   publishedTime?: string;
+  modifiedTime?: string;
   canonical?: string;
   collection?: string;
   schemaType?: string;
+  wiki?: string;
 }
 
 const {
-  title, description, showSidebar = true, image, type, publishedTime, canonical,
-  collection = null,  // ✅ mặc định null nếu không có
+  title,
+  meta_title,
+  description,
+  excerpt,
+  showSidebar = true,
+  image = '/images/backgrounds/thien-dinh-cua-Phat.jpg',
+  type,
+  publishedTime,
+  modifiedTime,
+  canonical,
+  collection = null,
+  wiki = [],
   schemaType = 'Article'
 } = Astro.props;
 
-const schema = schemaType ? {
-  "@context": "https://schema.org",
-  "@type": schemaType,
-  headline: Astro.props.title,
-  datePublished: publishedTime,
-  author: {
+
+const canonicalURL = canonical || new URL(Astro.url.pathname, SITE_URL || Astro.site).toString();
+const imageURL = new URL(image, SITE_URL || Astro.site).toString();
+const metaDescription = description || excerpt || SITE_DESCRIPTION;
+
+// Schema cho Article hoặc WebPage
+const articleSchema = schemaType === 'Article' ? {
+  "@type": "Article",
+  "headline": meta_title || title,
+  "description": metaDescription,
+  "image": [imageURL],
+  "datePublished": publishedTime,
+  ...(modifiedTime && { "dateModified": modifiedTime }),
+  "author": {
     "@type": "Person",
-    name: "Tổ Sư Thiền",
+    "name": "Tổ Sư Thiền"
   },
+  "publisher": {
+    "@type": "Organization",
+    "name": SITE_TITLE,
+    "logo": {
+      "@type": "ImageObject",
+      "url": new URL('/favicon.svg', SITE_URL || Astro.site).toString()
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonicalURL
+  }
 } : {
-  '@context': 'https://schema.org',
-  '@type': 'Organization',
-  name: 'Tổ Sư Thiền',
-  url: new URL('/', Astro.site).toString() || 'https://tosuthien.org',
-  logo: new URL('/favicon.svg', Astro.site).toString(),
-  sameAs: [
-    'https://www.facebook.com/tosuthien2024/',
-    'https://www.youtube.com/@tosuthien_org/playlists',
-  ],
+  "@type": "WebPage",
+  "name": meta_title || title,
+  "description": metaDescription,
+  "url": canonicalURL
+};
+
+// Schema cho Organization (luôn hiển thị)
+const orgSchema = {
+  "@type": "Organization",
+  "name": "Tổ Sư Thiền",
+  "url": SITE_URL || 'https://tosuthien.org',
+  "logo": new URL('/favicon.svg', SITE_URL || Astro.site).toString(),
+  "sameAs": [
+    "https://www.facebook.com/tosuthien2024/",
+    "https://www.youtube.com/@tosuthien_org/playlists"
+  ]
+};
+
+// Schema cho Person
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": meta_title || title,
+  "alternateName": meta_title || title,
+  "jobTitle": metaDescription,
+  "image": [imageURL],
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Tổ Sư Thiền"
+  },
+  "sameAs": wiki,
+};
+
+// Breadcrumb schema
+const breadcrumbSchema = {
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Trang chủ",
+      "item": SITE_URL || "https://tosuthien.org"
+    },
+    ...(collection ? [{
+      "@type": "ListItem",
+      "position": 2,
+      "name": collection,
+      "item": `${SITE_URL}/${collection}`
+    }] : []),
+    {
+      "@type": "ListItem",
+      "position": collection ? 3 : 2,
+      "name": title,
+      "item": canonicalURL
+    }
+  ]
+};
+
+// Gộp schema vào @graph
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    orgSchema,
+    articleSchema,
+    personSchema,
+    breadcrumbSchema
+  ]
 };
 ---
 
@@ -75,8 +168,8 @@ const schema = schemaType ? {
     <script type="application/ld+json" set:html={JSON.stringify(schema)}></script>
 
     <SEO
-      title={title}
-      description={description}
+      title={meta_title || title}
+      description={description || excerpt}
       image={image}
       type={type}
       publishedTime={publishedTime}
@@ -85,26 +178,23 @@ const schema = schemaType ? {
   </head>
   <body>
     <div class="site-wrapper">
-      <Header />
+    <Header />
 
-      <main class="main-content" class:list={{ 'with-sidebar': showSidebar }}>
+    <main class="main-content" class:list={{ 'with-sidebar': showSidebar }}>
+    <div class="content">
+    <slot />
+    </div>
 
-        <div class="content">
-          <slot />
-        </div>
-
-        {showSidebar && (
-          <aside class="sidebar">
-            <Sidebar collection={collection} />
-          </aside>
-        )}
-
+    {showSidebar && (
+        <aside class="sidebar">
+        <Sidebar collection={collection} />
+      </aside>
+      )}
       </main>
 
       <BackToTop />
-
       <Footer />
-    </div>
+      </div>
   </body>
 </html>
 

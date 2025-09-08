@@ -56,7 +56,7 @@ Người bây giờ đều hiểu theo lối vô sự. Có kẻ nói, “Không 
 
 Há không nghe Long Nha nói, “Học đạo trước hết phải vì ngộ, giống như náo nức đua thuyền rồng. tuy là nhàn nhã như lúc trước, song phải thắng rồi mới nghỉ được.” Còn như câu chuyện về chiếc áo bảy cân này của Triệu Châu, xem cổ nhân nói năng như thế, như vàng như ngọc. Sư núi tôi nói như vậy, các ông lắng nghe như vậy, đều là “đặt lên”. Song thử nói xem thế nào là “lấy xuống”? Thử về nhà ngồi suy ngẫm xem.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12772/5/tac-thu-bon-muoi-lam-van-phap-qui-nhat-cua-trieu-chau
 >
@@ -66,7 +66,7 @@ Há không nghe Long Nha nói, “Học đạo trước hết phải vì ngộ, 
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

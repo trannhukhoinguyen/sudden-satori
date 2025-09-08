@@ -201,7 +201,7 @@ Song dù là như thế, vẫn có chỗ không sơ xác.
 
 Dù cho là tay chuyên gia đi nữa, lúc không có bệnh cũng nên tìm chút thuốc mà uống trước mới được.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12756/5/tac-thu-ba-muoi-mot-ma-coc-chong-gay
 >
@@ -211,7 +211,7 @@ Dù cho là tay chuyên gia đi nữa, lúc không có bệnh cũng nên tìm ch
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

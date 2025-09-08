@@ -113,7 +113,7 @@ Tuyết Đậu mới từ bi làm sao, cho nên mới nói với các ông rằn
 
 Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như trì nghi thì không thể nào thấy được.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12762/5/tac-thu-ba-muoi-bay-tam-gioi-vo-phap-cua-ban-son
 >
@@ -123,7 +123,7 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

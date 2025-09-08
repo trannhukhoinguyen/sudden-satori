@@ -295,6 +295,6 @@ Theo Lăng-già: Nhất-xiển-đề là hạng không có Niết-bàn tánh. H�
 
 Như vậy, các loại chủng tánh được kể trong kinh Lăng-già rất cụ thể, có thể tìm đọc nguyên văn của kinh để hiểu rõ hơn.
 
-***
+<hr class="blog-rule" />
 
 Bài gốc: https://www.daophatngaynay.com/vn/kinh-dien/dai-thua/17554-ve-mot-so-van-de-trong-kinh-lang-gia-phan-han.html

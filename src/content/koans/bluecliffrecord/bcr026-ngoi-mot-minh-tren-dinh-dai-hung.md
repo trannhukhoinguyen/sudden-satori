@@ -67,7 +67,7 @@ Nham Đầu nói, “ Khước từ sự vật là thượng, đuổi theo sự 
 
 Ông tăng kia biết giữ cơ biến giữa đá lửa điện chớp cho nên mới lậy. Tuyết Đậu nói, “Nực cười người đến vuốt râu hùm.” Bách Trượng giống như một con cọp, nực cười thay ông tăng kia dám đến vuốt râu hùm.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
 >
@@ -77,7 +77,7 @@ Nham Đầu nói, “ Khước từ sự vật là thượng, đuổi theo sự 
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

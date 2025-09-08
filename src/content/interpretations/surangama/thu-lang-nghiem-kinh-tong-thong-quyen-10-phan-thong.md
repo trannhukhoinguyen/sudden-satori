@@ -89,7 +89,7 @@ Cái chân thường trôi chảy nhặt nhiệm này vừa vặn phù hợp v�
 Nếu đập vỡ gương đi mà tương kiến, như rồng nơi nước trong thoát cốt mà ra thì chuyển ngay thành Trí vậy. 
 Đâu phải chỉ phá Hành Ấm mà thôi ư ?
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -120,7 +120,7 @@ Ngài Thiên Đồng tụng rằng : “Viên châu (ngọc) chẳng xoi lỗ Ng
 
 Đây là chỗ xưa nay thường trụ, thấy cái cực chân. Một chữ Khẳng (01) còn vất bỏ đi, huống là so đo chấp thọ Thần Ngã để sa vào hang tối Viên Thường, rốt rồi chìm đắm, há có thể Thường được ư	?
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -188,7 +188,7 @@ Thầy Hành Xương lễ tạ, lui ra.
 
 Cái nghĩa Thường, Vô Thường rất sâu xa như thế này, thì các hàng ngoại đạo cũng chưa hề mộng thấy.
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -254,7 +254,7 @@ Quốc sư nói : “Ông phá hoại tướng thế gian ư ?”
 
 Đây là chỗ nói “Tự, Tha chẳng cách hở mảy lông, thủy chung chẳng rời ngay đương niệm”. Chẳng biết cái kiến giải Hữu Biên, Vô Biên do đâu mà kiến lập ?
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -328,7 +328,7 @@ Hỏi : “Thấy được, nghĩ được không ?” Sư nói : “Nghĩ chẳ
 
 Hàng ngoại đạo thì ở chỗ có thể suy nghĩ, có thể luận bàn mà muốn so đo, lập luận, há chẳng điên đảo ư ?
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng:
 
@@ -359,7 +359,7 @@ Ngài Đầu Tử tụng rằng :
 
 Đất hạn sen hồng che nhật nguyệt Không rễ, xanh hoài, mát bóng cây”. Nếu biết cái “hữu tướng” này thì tuy nói là có tướng cũng chẳng sao.
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -441,7 +441,7 @@ Tụng rằng :
 
 Nếu ở chỗ Vô Tướng này mà được cái tin tức, thì tuy nói không có Tướng cũng chẳng hề gì.
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -485,7 +485,7 @@ Nhà sư hỏi : “Thế bây giờ thì sao ?” Tổ Nhãn nói : “Ông ch�
 
 Tổ Pháp Nhãn tận lực hô hoán mà chẳng biết quay đầu ở đây mà tỉnh ra thì có thể nói “Tứ cú đều lìa, linh căn độc lộ”.
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -529,7 +529,7 @@ Ngài Thiên Đồng tụng rằng:
 
 Nếu bám níu “Chẳng khởi một niệm”, không biết tin tức “Cỡi ngược trâu” thì tức là “Giả tiếng gà gáy”, chẳng khỏi “Theo sau đít người” vậy, sao có thể thấu qua cái cửa ải hướng thượng ư ?
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -602,7 +602,7 @@ Như chỗ luận của Đức Lục Tổ, chỉ thẳng chân nghĩa, thật n�
 
 F. PHẠM VI CỦA THỨC ẤM
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -668,7 +668,7 @@ Tổ Sơn lại dùng bài kệ chỉ dạy cho : “Cây khô rồng ngâm, th�
 
 Đâu người để biện sạch trong dơ ?”. Ngài Thiên Đồng nêu ra rằng : “Vua ở trong cửa, thần chẳng ra ngoài, nên cái vui, Thức đều hết, ắt con về với cha”. Gọi là “Khô ráo hết” tức là Thức Ấm hết. Chẳng có chương cú như vậy làm sao rõ được chương cú này?
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -696,7 +696,7 @@ Sư nói : “Chẳng phải ! Đạo ấy mà chánh thì đã đối đáp kh�
 
 Giá như ông đạo sĩ chẳng có phân vân mà đối đáp liền được rõ ràng thì cũng chẳng ra khỏi Minh Đế ! Đối cùng Vô Thượng Chánh Đẳng Chánh Giác cách nhau quá xa vậy.
 
-***
+<hr class="blog-rule" />
 
 ⚡️ Thông rằng : Ở trước là luận Thường, Vô Thường, ấy là xem thấy cái tâm diệu minh cùng khắp mười phương cõi, trong lặng như nhiên mà cho là Thần Ngã rốt ráo. Từ đó suy tính rằng cái Ta thì cùng khắp mười phương, lặng sáng chẳng động, còn tất cả chúng sanh tự sanh tự chết ở trong tâm mình. Tức là ở đây nói “Đều ở trong thân mình tuôn khởi ra”. Nhưng ở trước là chỉ thấy cái Hành Ấm, nên so tính về cái Năng Vi(05). Tuy chấp rằng mình có khả năng sanh các thứ loài mà thực ra không có khả năng đó, nên nói là cái chấp Năng, Phi Năng.
 
@@ -732,7 +732,7 @@ Trong nước Đại Đường tiếng trống nổi Trong nước Tân La múa 
 
 Triệu	Châu	mới	được.
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -748,7 +748,7 @@ Thiền sư Đại Ninh Khoan khai thị đại chúng, đưa cây gậy lên, n
 
 Tổ Từ Minh khai thị đại chúng : “Đạo Ngô gióng trống, bốn đại bộ châu cùng dự. Trụ trượng quơ ngang, quả y hết Càn Khôn đại địa. Bình bát mà chuyển, che hết hằng sa thế giới. Thử hỏi tất cả các ông hướng về chốn nào để an thân lập mệnh ? Nếu mà biết chỗ an thân lập mệnh : Bắc Cu Lô Châu ăn cơm, xơi cháo. Nếu mà chẳng biết : Ngồi mãi trên sàng xơi cháo, ăn cơm !” Đây là các vị tôn túc chỉ thẳng ra cái Chẳng Sanh Chẳng Diệt, là thể Chân Thường. Thử nói xem là có về nương hay không về nương ? Đừng ngại, nghi đi!
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 
@@ -944,7 +944,7 @@ Trong Viên-Giác-Không chẳng động lay. Nuốt sáng Càn Khôn soi tột 
 
 Tổ Huyền Sa, Vân Môn thấy suốt chân thể Niết Bàn vốn không sanh diệt, phát huy chỗ tinh diệu như vậy đủ cho hàng ngoại đạo dựng	tóc	gáy.
 
-***
+<hr class="blog-rule" />
 
 #### ⚡️ Thông rằng: 
 

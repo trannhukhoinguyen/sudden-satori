@@ -78,7 +78,7 @@ Phần cuối tụng ”Thế Tôn đại từ đại bi khai mở mây mờ cho
 
 “Nghĩ ngựa tốt thấy bóng roi, thiên lý truy phong gọi về được. ”Ngựa truy phong” vừa thấy bóng roi là đã vượt ngàn dặm, gọi về là quay về ngay. Tuyết Đậu có ý tán thưởng nói rằng, “ Nếu như tìm được nhựa giống , thì chỉ cần đẩy một cái, nó đã tự xoay chuyển; vừa gọi nó đã quay về. Gọi về được, bung tay ba lần.” Thử nói xem, đây là chấm phá hay là rải cát?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12794/5/tac-thu-sau-muoi-lam-ngoai-dao-hoi-phat-ve-huu-vo
 >
@@ -88,7 +88,7 @@ Phần cuối tụng ”Thế Tôn đại từ đại bi khai mở mây mờ cho
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

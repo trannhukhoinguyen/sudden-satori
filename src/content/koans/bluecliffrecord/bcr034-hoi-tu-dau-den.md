@@ -158,7 +158,7 @@ Cả hai giống như vết trên gương.Tì vết sạch đi ánh sáng hiện
 
 Nếu như không đến được mức độ này thì chỉ là lăng xăng trong ngôn ngữ mà thôi, biết đến bao giờ mới dứt?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12759/5/tac-thu-ba-muoi-bon-nguong-son-hoi-tu-dau-den
 >
@@ -168,7 +168,7 @@ Nếu như không đến được mức độ này thì chỉ là lăng xăng tr
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -100,11 +100,11 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 > 
 > Trái chín ngát hương biết tặng ai
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

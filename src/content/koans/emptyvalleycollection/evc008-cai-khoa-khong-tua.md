@@ -103,11 +103,11 @@ Mới tin rằng, hội được thì trong đường thọ dụng, không ngờ
 > 
 > Chỗ an thân ở chỗ không dấu vết
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -1,3 +1,5 @@
+
+
 import ViMasterDb from "@/data/masters/ViMasterDb.tsx";
 import InMasterDb from "@/data/masters/InMasterDb.tsx";
 import JpMasterDb from "@/data/masters/JpMasterDb.tsx";
@@ -43,6 +45,8 @@ import CnLv57MasterDb from "@/data/masters/CnLv57MasterDb.tsx";
 import CnLv58MasterDb from "@/data/masters/CnLv58MasterDb.tsx";
 import CnLv59MasterDb from "@/data/masters/CnLv58MasterDb.tsx";
 import CnLv60MasterDb from "@/data/masters/CnLv60MasterDb.tsx";
+
+import type { Master } from "@/types.ts";
 
 export const InMasters = InMasterDb
 export const ViMasters = ViMasterDb
@@ -91,7 +95,7 @@ export const CnMasters = [
   CnLv60MasterDb,
 ]
 
-const AllMasters = [
+const AllMasters: Master[] = [
   ...InMasters,
   ...CnMasters.flat(),
   ...JpMasters,

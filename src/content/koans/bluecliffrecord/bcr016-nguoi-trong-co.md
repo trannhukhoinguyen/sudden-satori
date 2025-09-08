@@ -73,7 +73,7 @@ Kính Thanh nói, “Ông cũng là người trong cỏ” Tuyết Đậu nói, 
 
 “Thiên hạ nạp tăng mồ vô ích.” Ai là kẻ không đặt tên và mô tả? Đến chổ này Tuyết Đậu không đặt tên hay mô tả được, song lại làm lụy người khác, các nạp tăng trong thiên hạ. Thử nói xem, đâu là chỗ Kính Thanh vì ông tăng kia? Các nạp tăng trong thiên hạ không ai nhảy ra khỏi được cả.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12739/5/tac-thu-muoi-sau-nguoi-trong-co-cua-kinh-thanh
 >
@@ -83,7 +83,7 @@ Kính Thanh nói, “Ông cũng là người trong cỏ” Tuyết Đậu nói, 
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

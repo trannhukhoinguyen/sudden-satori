@@ -84,7 +84,7 @@ Ca Diếp gọi, “A Nan!” A Nan đáp lại. Ca Diếp nói, “ Gỡ cột 
 
 Sau đó sự truyền thừa từ vị tổ này cho vị tổ khác, kể cả Ấn Độ lẫn Trung Hoa gồm có ba mươi vị. Tất cả đều có khả năng vào hang cọp. Cổ nhân nói, “không vào hang cọp, làm sao bắt được cọp con?” Vân Môn chính là loại người này, sẵn sàng đồng sinh đồng tử với người khác.Bậc thầy trong Thiền tông muốn giúp người khác, cần phải được như vậy. Ngồi trên ghế của bậc thầy, giúp cho các không đập vỡ được (các kiến chấp) và dám vuốt râu cọp.Phải đạt đến mức độ này thì mới đủ khả năng làm thầy. Phải có đầy đủ bảy điều kiện nơi mình thì mới có thể đồng sinh đồng tử với người khác được. Cái gì cao thì đè xuống, những kẻ thấp thì nâng lên, những kẻ thiếu thì cho thêm. Những kẻ ở trên đỉnh cao thì cứu xuống nơi đồng hoang, còn những kẻ lạc nơi đồng hoang thì cứu lên đỉnh cao. “Nếu như các ông vào vãc dầu lò than, ta cũng vào vạc dầu lò than.” Kỳ thực chẳng có gì cả, chỉ vì muốn gỡ những cái dính dấp, nhổ đinh bạt chốt, tháo cương gỡ yên cho các ông. Bình Điền hòa thượng có một bài tụng hết sức tuyệt: “Linh quang không mờ, kế nay vạn cổ. Vào tông môn này, đừng nuôi kiến chấp.” Đặc biệt thật! Bóng trăng trong dòng nước chảy xiết.” Quả là có cách xuất thân, cũng như có tâm cơ để cứu người. Tuyết Đậu nêu lên, để người khác tự giác ngộ lấy sinh cơ của mình. Đừng có theo lời nói của người khác, nếu như các ông theo lời nói của người khác thì đúng là bóng trăng trong dòng nước chảy xiết. Các ông làm thế nào để đạt được bình an đây? Buông bỏ một lần đi!
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12738/5/tac-thu-muoi-lam-mot-cau-noi-nguoc-cua-van-mon
 >
@@ -94,7 +94,7 @@ Sau đó sự truyền thừa từ vị tổ này cho vị tổ khác, kể cả
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

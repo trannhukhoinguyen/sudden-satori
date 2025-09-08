@@ -56,7 +56,7 @@ Thủ Tọa nói: *Ông có sư huynh Hòa thượng Hành Tư ở tại Thanh N
 
 Hy Thiên nghe nói thế, đảnh lễ tháp Lục Tổ đến tham lễ Ngài Hành Tư.
 
-***
+<hr class="blog-rule" />
 
 Ngài Hành Tư hỏi: *Ông từ đâu đến?*
 
@@ -83,7 +83,7 @@ Thấy hiện tịnh bất phân thắng bại, cho nên Hy Thiên có nhã ý t
 > Than ôi! Người xưa tâm như gương sáng, cọ tọa châu lăn trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp thành một.
 Điều này há không phải thâm khế hợp với Phật lý ư?
 
-***
+<hr class="blog-rule" />
 
 Vào đời Đường Niên Hiệu Thiên Bảo năm đầu Hy Thiên tìm đến Hoành Sơn Nam Tự.
 Phía đông của chùa có một tảng đá giống như cái đài, sư cất am trên đó.
@@ -91,15 +91,15 @@ Từ đây có tên là Hòa thượng Thạch Đầu.
 
 Có vị tăng từng hỏi Sư, thế nào là giải thoát?
 
-Thạch Đầu đáp: ***Ai trói ông.***
+Thạch Đầu đáp: <hr class="blog-rule" />Ai trói ông.<hr class="blog-rule" />
 
 Thế nào là Tịnh Độ?
 
-Thạch Đầu đáp: ***Ai làm nhơ ông.***
+Thạch Đầu đáp: <hr class="blog-rule" />Ai làm nhơ ông.<hr class="blog-rule" />
 
 Thế nào là Niết Bàn?
 
-Thạch Đầu đáp: ***Ai đem sanh tử đến cho ông.***
+Thạch Đầu đáp: <hr class="blog-rule" />Ai đem sanh tử đến cho ông.<hr class="blog-rule" />
 
 Xem cách Ngài Thạch Đầu khai ngộ cho hàng hậu học chỉ thẳng cội nguồn, không nói quanh co.
 
@@ -135,11 +135,11 @@ Ngay khi ấy đâu để thờ, hy vọng như thế này. Mật thất không 
 
 Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới hạn Tây Trúc với Tào Khê.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

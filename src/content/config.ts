@@ -150,6 +150,20 @@ const speeches  = defineCollection({
   }),
 });
 
+const masters  = defineCollection({
+  loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/masters" }),
+  schema: z.object({
+    type: z.string().default('speeches'),
+    schemaType: z.string().default('Person'),
+    title: z.string().default('Thiền sư'),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
 const faqs  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/faqs" }),
   schema: z.object({
@@ -169,5 +183,7 @@ export const collections = {
   koans,
   sutras,
   interpretations,
-  practices, speeches, faqs,
+  practices,
+  masters,
+  speeches, faqs,
 };

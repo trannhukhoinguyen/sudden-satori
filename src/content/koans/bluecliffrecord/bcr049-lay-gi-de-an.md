@@ -62,7 +62,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 “Gió trong thổi, trên trời cõi người mấy ai biết?” Thử nói xem, (ý của) câu này nằm ở chỗ nào? Lúc gió trong nổi lên trên cõi trời cũng như dưới nhân gian này có, mấy ai biết?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12776/5/tac-thu-bon-muoi-chin-tam-thanh-lay-gi-de-an
 >
@@ -72,7 +72,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

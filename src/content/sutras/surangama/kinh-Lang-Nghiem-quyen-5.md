@@ -121,7 +121,7 @@ Chỉ một cửa Niết Bàn.
 >
 > Bửu Giác như Kim Cang: tánh Kim Cang hay phá hủy tất cả, Thập Địa đều gọi là Tâm Kim Cang, như phá hủy sơ địa lên nhị địa, phá hủy nhị địa lên tam địa v.v... Nếu Bửu Giác này được hiện ra, chẳng những căn bản vô minh liền tiêu, cả Tri kiến Bồ Tát và Tri Kiến Phật cũng không còn. Ba thứ Thiền quán Sa Ma Tha, Tam Ma và Thiền Na chỉ cần tự ngộ, hễ ngộ thì liền đến địa vị Phật, nên trong búng ngón tay siêu việt bậc vô học của nhị thừa. Bậc vô học vì còn chấp vô kiến, tức còn lọt vào công dụng, đây chơn tánh hiện tiền, hữu vô đều lìa, một cửa sâu vào, chẳng phải nhờ công dụng, nên gọi là cửa Đốn Ngộ vậy. (chẳng nhờ công dụng là chẳng phải chẳng cần công phu).
 
-***
+<hr class="blog-rule" />
 
 A Nan và đại chúng nghe lời dạy vô thượng và bài tụng tinh túy, diệu lý trong suốt của Phật, tâm được sáng tỏ, tán thán pháp chưa từng có. A Nan chắp tay đảnh lễ bạch Phật:
 
@@ -223,7 +223,7 @@ A Nan và đại chúng nghe Phật khai thị huệ giác viên thông, chẳng
 >
 > Giả sử Phật có thể truyền thọ, A Nan có thể đắc được, thì chẳng phải là bí mật rồi, nếu do đó mà được chứng viên thông thì chẳng phải viên thông rồi. Sự chứng ngộ phải do tự ngộ, đâu thể do người khác ban cho mà được!
 
-***
+<hr class="blog-rule" />
 
 Lúc bấy giờ, Thế Tôn bảo khắp chư Đại Bồ Tát và hàng vô lậu Đại A La Hán trong chúng rằng:
 
@@ -343,7 +343,7 @@ Di Lặc Bồ Tát liền đứng dậy, đảnh lễ bạch Phật:
 >
 > Kinh Giải Thâm Mật có nói: Người mắt nhặm như Biến-Kế-Chấp, hiện màu xanh, vàng như Y-Tha-Khởi, con mắt trong sáng như Viên-Thành-Thật vậy.
 
-***
+<hr class="blog-rule" />
 
 Đại Thế Chí Pháp Vương Tử cùng với 52 vị Bồ Tát đồng tu, liền đứng dậy, đảnh lễ bạch Phật:
 
@@ -365,7 +365,7 @@ Di Lặc Bồ Tát liền đứng dậy, đảnh lễ bạch Phật:
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

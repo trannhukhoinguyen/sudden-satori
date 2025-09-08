@@ -29,11 +29,11 @@ Hiểu rõ danh và tướng đều là giả trá bởi mê vọng thường �
 Đó là trích bài tựa ở kinh Đại thừa nhập Lăng Già "bản dịch đời nhà Đường?”.
 Kinh Lăng Già gồm có 4 bản dịch bây giờ còn có 3:
 
-(1) 4 quyển Lăng Già A bạt đa la bảo kinh đời Lưu Tống, Ngài Cầu Na Bạt đà la dịch.
+[^1]: 4 quyển Lăng Già A bạt đa la bảo kinh đời Lưu Tống, Ngài Cầu Na Bạt đà la dịch.
 
-(2) Nhập lăng Già Kinh, 10 quyền đời nhà Nguyên Ngụy, Ngài Bồ - Đề - Lưu - Chi dịch.
+[^2]: Nhập lăng Già Kinh, 10 quyền đời nhà Nguyên Ngụy, Ngài Bồ - Đề - Lưu - Chi dịch.
 
-(3) Đai thừa Nhập - Lăng - Già Kinh 7 quyền, đời nhà Đường Ngài Thực Xoa Nan Đà cùng với nhón các Ngài Phục Lễ dịch. 
+[^3]: Đai thừa Nhập - Lăng - Già Kinh 7 quyền, đời nhà Đường Ngài Thực Xoa Nan Đà cùng với nhón các Ngài Phục Lễ dịch. 
 
 Tuy ý kinh thi dịch có khác nhau, nhưng tên vẫn là Lăng Già.
 Lăng Già dịch "không thể tới được", không thế "vào được"!
@@ -272,6 +272,6 @@ Kết hợp giải thích. Y vào phép lục hợp mà giải thích nay hợp 
 
 9) Đại thừa nhập Lăng Già là Sở thuyên, thông cả cảnh, hành, quả cho nên thắng. Kinh là năng thuyên chỉ có danh, cú, văn, cho nên kém, dựa vào lực thắng mà rõ được yếu kém, gọi là Kinh đại thừa nhập Lăng Già là giải thích theo lối y chủ.
 
-***
+<hr class="blog-rule" />
 
 Bài gốc: https://tapchinghiencuuphathoc.vn/dai-y-kinh-lang-gia.html

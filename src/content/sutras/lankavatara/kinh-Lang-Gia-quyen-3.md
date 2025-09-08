@@ -385,7 +385,7 @@ Thân người vốn chẳng thật.
 - Đại Huệ! Người chẳng biết tự tâm hiện lượng, đọa kiến chấp hữu và vô, chấp trước năng nhiếp sở nhiếp, tăng trưởng kiến chấp của ngoại đạo.
 - Do tập khí vọng tưởng, chấp trước đủ thứ nghĩa lý của ngoại đạo, đối với pháp **Tâm, Tâm Số** [^9] vọng tưởng chấp trước, cho là chỗ nhân duyên sanh khởi của Ngã và Ngã Sở.
 
-***
+<hr class="blog-rule" />
 
 ### Đại Huệ Bồ Tát bạch Phật rằng :
 
@@ -1043,10 +1043,11 @@ Năng tác và sở tác,
 
 - Đại Huệ! Họ chẳng do hoại tánh kiến, gọi là Niết Bàn.
 
-- Đại Huệ! Hoặc có ngoại đạo cho "từ phương này đến phương kia" gọi là giải thoát, thấy cảnh giới của tưởng ấm diệt cũng như gió ngưng; hoặc thấy năng giác sở giác đoạn diệt, gọi là giải thoát. Hoặc thấy mỗi mỗi tướng của tư tưởng là cái nhân sanh ra khổ, qua suy nghĩ rồi, chẳng khéo giác tri tự tâm hiện lượng, kinh sợ nơi tưởng mà thấy Vô Sanh, sanh tâm ưa thích, tưởng là Niết Bàn. Hoặc có tưởng mà thấy Vô Sanh, sanh tâm ưa thích, tưởng là Niết Bàn. Hoặc có ngoại đạo, biết các pháp trong ngoài tự tướng cộng tướng nơi quá khứ, hiện tại, vị lai có tánh chẳng hoại, cho là Niết Bàn. Hoặc đối với ngã, nhơn, chúng sanh, thọ mạng tất cả pháp ngoại, tưởng là Niết Bàn. Hoặc có ngoại đạo, trí huệ bị ác kiến thiêu đốt chấp có ngã, kiến tự tánh làm căn bản, thấy tự tánh và sĩ phu, giữa hai có chút ngăn cách, nói Thần ngã của sĩ phu hay sanh tự tánh, vì do sĩ phu sanh ra, gọi là tự tánh, ví như Minh Sơ (1), Cầu Na (2) là y theo Thần ngã ban sơ sanh giác. Cầu Na dụ cho vi trần, cho Cầu Na là tác giả, nói từ vi trần sanh tứ đại, cũng như từ sĩ phu sanh tự tánh, rồi chấp có Thần ngã chấp cõi mười phương, cho là Niết Bàn.
+- Đại Huệ! Hoặc có ngoại đạo cho "từ phương này đến phương kia" gọi là giải thoát, thấy cảnh giới của tưởng ấm diệt cũng như gió ngưng; hoặc thấy năng giác sở giác đoạn diệt, gọi là giải thoát. Hoặc thấy mỗi mỗi tướng của tư tưởng là cái nhân sanh ra khổ, qua suy nghĩ rồi, chẳng khéo giác tri tự tâm hiện lượng, kinh sợ nơi tưởng mà thấy Vô Sanh, sanh tâm ưa thích, tưởng là Niết Bàn. Hoặc có tưởng mà thấy Vô Sanh, sanh tâm ưa thích, tưởng là Niết Bàn. Hoặc có ngoại đạo, biết các pháp trong ngoài tự tướng cộng tướng nơi quá khứ, hiện tại, vị lai có tánh chẳng hoại, cho là Niết Bàn. Hoặc đối với ngã, nhơn, chúng sanh, thọ mạng tất cả pháp ngoại, tưởng là Niết Bàn. Hoặc có ngoại đạo, trí huệ bị ác kiến thiêu đốt chấp có ngã, kiến tự tánh làm căn bản, thấy tự tánh và sĩ phu, giữa hai có chút ngăn cách, nói Thần ngã của sĩ phu hay sanh tự tánh, vì do sĩ phu sanh ra, gọi là tự tánh, ví như Minh Sơ [^1], Cầu Na [^2] là y theo Thần ngã ban sơ sanh giác. Cầu Na dụ cho vi trần, cho Cầu Na là tác giả, nói từ vi trần sanh tứ đại, cũng như từ sĩ phu sanh tự tánh, rồi chấp có Thần ngã chấp cõi mười phương, cho là Niết Bàn.
 
-(1) MINH SƠ : Thuật ngữ, Số Luận sư lập hai mươi lăm đế, đế thứ nhất là Minh Đế, vì Minh Đế là ban sơ của các pháp, nên gọi là Minh Sơ.
-(2) CẦU NA : Dịch là y chỉ, là thật thể của tứ đại mà sanh ra các đức dụng của sắc, thanh, hương, vị, xúc v.v... Còn ở Thập Cú Nghĩa Luận thì nói gồm hai mươi bốn đức. Ngoài ra, Số Luận nói gồm có ba đức : Vui, buồn và ám muội.
+[^1]: MINH SƠ : Thuật ngữ, Số Luận sư lập hai mươi lăm đế, đế thứ nhất là Minh Đế, vì Minh Đế là ban sơ của các pháp, nên gọi là Minh Sơ.
+
+[^2]: CẦU NA : Dịch là y chỉ, là thật thể của tứ đại mà sanh ra các đức dụng của sắc, thanh, hương, vị, xúc v.v... Còn ở Thập Cú Nghĩa Luận thì nói gồm hai mươi bốn đức. Ngoài ra, Số Luận nói gồm có ba đức : Vui, buồn và ám muội.
 
 - Hoặc có ngoại đạo nói hết phước và phi phước, hoặc nói các phiền não chẳng do tu trí huệ mà tự dứt, hoặc thấy Cõi Trời Tự Tại là kẻ chơn thật tạo tác sanh tử, cho là Niết Bàn. Hoặc nói chúng sanh ở nơi này chết thọ sanh nơi khác, lần lượt luân hồi từ tám ngàn kiếp đến nay, vô nhân tự có, do đó chấp trước sanh tử chẳng có nhân nào khác, rồi chấp trước vô nhân, tưởng là Niết Bàn. Hoặc nói từ tự tánh sanh tứ đại, tứ đại sanh ý, ý sanh trí, trí sanh ngũ phần, ngũ phần sanh ngũ tri căn, ngũ tri căn sanh ngũ nghiệp căn, ngũ nghiệp căn sanh ngũ đại, gọi là hai mươi lăm Minh Đế của tự tánh, hay sanh các pháp rồi trở về tự tánh thì lìa tất cả sanh tử. Chấp Minh Đế này cho là đắc đạo Chơn Đế, tưởng là Niết Bàn.
 
@@ -1154,7 +1155,7 @@ Phật nói Vô Sở thuyết.
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

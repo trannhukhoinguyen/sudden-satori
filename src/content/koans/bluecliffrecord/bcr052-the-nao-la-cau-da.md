@@ -77,7 +77,7 @@ Cho nên Tuyết Đậu nói, “Biết nói ‘phóng tên’ nhọc công thô
 Tạm gác Quán Khê và Hoàng Long sang một bên, các ông phải hiểu như thế nào khi Triệu Châu nói, “Để lừa qua, để ngựa qua?”. 
 Thử phân biện xem.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
 >
@@ -87,7 +87,7 @@ Thử phân biện xem.
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -92,7 +92,7 @@ Hàn San Thi có bài như sau:
 >
 > Kẻ nào cũng không khố.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12777/5/tac-thu-nam-muoi-tran-tran-tam-muoi-cua-van-mon
 >
@@ -102,7 +102,7 @@ Hàn San Thi có bài như sau:
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

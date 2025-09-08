@@ -1,0 +1,87 @@
+---
+const { data, headRows } = Astro.props;
+---
+
+<section class="table">
+  <input type="text" id="searchInput" placeholder="Search table...">
+  <table id="myTable">
+    <thead>
+      <tr>
+        { headRows?.map((key: string) => <th>{key.toUpperCase()}</th>) }
+      </tr>
+    </thead>
+    <tbody>
+      {
+        data
+            ?.map((tr: any) => <tr>
+              { Object.values(tr)?.map((value: any) => <td>{value}</td>) }
+            </tr>
+        )
+      }
+    </tbody>
+  </table>
+</section>
+
+<style>
+.table {
+  position: relative;
+  font-family: sans-serif;
+  padding: 20px;
+  overflow: scroll;
+}
+
+#myTable {
+  margin-top: 48px;
+  overflow: scroll;
+}
+
+.table #searchInput {
+  position: fixed;
+  //width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, td {
+  border: 1px solid var(--color-border);
+  padding: 8px;
+  text-align: left;
+}
+
+.table th {
+  background-color: var(--color-background);
+}
+</style>
+
+<script is:inline>
+document.addEventListener('DOMContentLoaded', function() {
+  const searchInput = document.getElementById('searchInput');
+  const table = document.getElementById('myTable');
+  const tr = table.getElementsByTagName('tr');
+
+  searchInput.addEventListener('keyup', function() {
+    const filter = searchInput.value.toUpperCase();
+
+    for (let i = 1; i < tr.length; i++) { // Start from 1 to skip table header
+      let rowVisible = false;
+      const td = tr[i].getElementsByTagName('td');
+      for (let j = 0; j < td.length; j++) {
+        const cell = td[j];
+        if (cell) {
+          const textValue = cell.textContent || cell.innerText;
+          if (textValue.toUpperCase().indexOf(filter) > -1) {
+            rowVisible = true;
+            break; // Found a match in this row, no need to check other cells
+          }
+        }
+      }
+      tr[i].style.display = rowVisible ? '' : 'none';
+    }
+  });
+});
+</script>

@@ -48,7 +48,7 @@ Vân Môn tự nhiên như đá lửa điện chớp, đến nỗi “oai phong 
 
 Những người học Thiền bây giờ đều nói rằng, lúc Vân Môn dang hai tay ra, ông tăng kia phải dùng gậy ông đập lưng ông mà trả miếng Vân Môn mới phải. Nói như thế nghe có vẻ đúng, song thật ra lại chẳng đúng. Vân Môn không thể cứ như thế mà bảo các ông thôi. Hẳn là vẫn còn có một cái gì đó.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12782/5/tac-thu-nam-muoi-bon-moi-o-dau-toi-cua-van-mon
 >
@@ -58,7 +58,7 @@ Những người học Thiền bây giờ đều nói rằng, lúc Vân Môn dan
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

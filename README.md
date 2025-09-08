@@ -15,7 +15,7 @@ Các Ngài gióng lên tiếng chuông đại từ, thức tỉnh chúng hữu t
 
 Nay đây, các hành giả trong Tông môn, một bề muốn nêu cao ngọn đuốc Thiền Tông, làm sáng rỡ di huấn một đời của các bậc Tông Sư, nối nắm luân lưu nguồn mạch Phật Tổ, những mong đời đời được kết duyên trong hội Phật, cùng tất cả chúng sanh đồng vào biển giác.
 
-***
+<hr class="blog-rule" />
 
 ## Trích từ lời giới thiệu của HT. THÍCH NHẬT QUANG
 

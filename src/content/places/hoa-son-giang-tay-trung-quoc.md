@@ -25,7 +25,7 @@ Ngài **Tuệ Tông**, ngài **Vô Ân** (884-960), ngài **Đức Phổ** (1025
 
 Người đời mỗi khi nhắc đến Pháp hiệu của các ngài đều có 2 chữ Hòa sơn ở trước như: Hòa sơn **Tuệ Tông** thiền sư, Hòa sơn **Vô Ân** thiền sư, v.v... 
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: [X. Đại minh nhất thống chí Q.56; Đại thanh nhất thống chí Q.249; Độc sử phương dư kỉ yếu Q.87]
 

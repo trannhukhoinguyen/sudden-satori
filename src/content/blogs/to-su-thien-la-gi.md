@@ -61,7 +61,7 @@ Khi công phu được thành khối cũng gọi là đến thoại đầu, cũn
 
 Từ đầu sào trăm thước tiến thêm một bước nữa là kiến tánh, đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ.
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

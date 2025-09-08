@@ -165,7 +165,7 @@ Ngài Thiên Đồng nêu ra rằng : “Hai mươi năm trước để yên đ�
 
 Ôi, “Thanh tịnh như lưu ly bên trong treo trăng sáng” tức là chỗ đoạn sau nói “Càn Tuệ Địa” vậy. Mật Viên Tịnh Diệu của tất cả Như Lai đều hiện ra trong đó thì chỗ thấy chốn nào chẳng sáng tỏ, nhưng còn thiếu bước dẫm đi. Thế nên, có biết chỗ dẫm đi của Tổ Nam Tuyền thì hai mươi năm trước được tương tự cái kia cũng là chưa xong.
 
-***
+<hr class="blog-rule" />
 
 ## MỤC HAI : AN LẬP CÁC THÁNH VỊ
 

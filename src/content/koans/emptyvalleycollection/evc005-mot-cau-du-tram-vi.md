@@ -128,11 +128,11 @@ Sao vậy?
 > 
 > Hoa ngôn mỹ ngữ tùy tiện đốt lửa.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -25,7 +25,7 @@ Khi ngài Tuệ trung thị tịch, cũng được an táng tại nơi này.
 
 Ngoài ra đệ tử nối pháp của thiền sư Qui Sơn Linh Hựu là Hương Nghiêm Trí Nhàn cũng từng trụ trì chùa này.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: [X. Đại minh nhất thống chí Q.30]. (xt. Trường Thọ Tự).
 

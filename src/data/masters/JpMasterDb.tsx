@@ -19,6 +19,7 @@ const JpMasterDb = [
     disciples: ['Tối Trừng (最澄)'],
     image: '/images/avatar.png',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '37.4.8',
@@ -40,6 +41,7 @@ const JpMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '50.17.5',
@@ -60,7 +62,8 @@ const JpMasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '57.24.2',
@@ -82,6 +85,7 @@ const JpMasterDb = [
     disciples: [],
     image: '/',
     reference: ['https://vi.wikipedia.org/wiki/C%C3%B4_Phong_Gi%C3%A1c_Minh', 'https://ja.wikipedia.org/wiki/%E5%AD%A4%E5%B3%B0%E8%A6%9A%E6%98%8E'],
+    wiki: ['https://vi.wikipedia.org/wiki/C%C3%B4_Phong_Gi%C3%A1c_Minh', 'https://ja.wikipedia.org/wiki/%E5%AD%A4%E5%B3%B0%E8%A6%9A%E6%98%8E'],
   },
   {
     id: '57.24.4',
@@ -103,6 +107,7 @@ const JpMasterDb = [
     disciples: [],
     image: '/',
     reference: ['https://pl.wikipedia.org/wiki/Kosen_Ingen'],
+    wiki: ['https://pl.wikipedia.org/wiki/Kosen_Ingen'],
   },
   {
     id: '71.38.1',
@@ -126,6 +131,7 @@ const JpMasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/B%C3%A0n_Khu%C3%AA_V%C4%A9nh_Tr%C3%A1c', 'https://en.wikipedia.org/wiki/Bankei_Y%C5%8Dtaku'],
+    wiki: ['https://vi.wikipedia.org/wiki/B%C3%A0n_Khu%C3%AA_V%C4%A9nh_Tr%C3%A1c', 'https://en.wikipedia.org/wiki/Bankei_Y%C5%8Dtaku'],
   }
 ]
 export default JpMasterDb;

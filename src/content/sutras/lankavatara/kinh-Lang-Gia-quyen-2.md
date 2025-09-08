@@ -256,9 +256,9 @@ Pháp thật tế tự chứng.
 
 - Ví như vòng lửa chẳng phải vòng mà phàm phu tưởng là vòng. Ngoại đạo ác kiến hy vọng như thế, do đó tất cả tánh sanh. Ví như bọt nước giống như hạt châu Ma Ni, phàm phu Tiểu thừa chẳng có trí huệ lại tưởng là châu Ma Ni, và phi châu Ma Ni, chấp trước đuổi theo. Nhưng bọt nước kia chẳng phải châu Ma Ni, chẳng phải lấy hay chẳng lấy. Chỉ vì ác kiến của ngoại đạo do tập khí huân tập như thế, ở nơi Vô Sở Hữu mà nói có sự sanh, do duyên theo hữu lại nói có sự diệt.
 
-- Lại nữa, Đại Huệ! Có ba thứ lượng (1) và năm phần luận (2) mỗi mỗi kiến lập xong, đem sự đắc Thánh Trí tự giác, lìa hai tự tánh, vọng tưởng chấp trước cho là có tánh.
+- Lại nữa, Đại Huệ! Có ba thứ lượng [^1] và năm phần luận [^2] mỗi mỗi kiến lập xong, đem sự đắc Thánh Trí tự giác, lìa hai tự tánh, vọng tưởng chấp trước cho là có tánh.
 
-(1) BA THỨ LỰƠNG : Hiện Lượng, Tỷ Lượng và Thánh Ngôn Lượng. Nghĩa chữ Lượng là sự hiểu biểt đúng với mức độ của nghĩa lý, gọi là lượng.
+[^1]: BA THỨ LỰƠNG : Hiện Lượng, Tỷ Lượng và Thánh Ngôn Lượng. Nghĩa chữ Lượng là sự hiểu biểt đúng với mức độ của nghĩa lý, gọi là lượng.
 
 a. Hiện Lượng : Là sự vật hiện hữu trước mắt đang thấy, được hiểu biết, gọi là hiện lượng, cũng như thấy đang mưa biết là mưa.
 
@@ -266,7 +266,7 @@ b. Tỷ Lượng : Là do thí dụ so sánh mà biết, cũng như sáng mới 
 
 c. Thánh Ngôn Lượng : Nghĩa là không thấy mưa, không thấy mặt đất ướt,chỉ nghe chỉ nghe bậc Thánh nói đêm qua có mưa, vì tin lời nói của bậc Thánh không có nói dối, gọi là Thánh ngôn lượng.
 
-(2) Năm Phần Luận : Là ba chi Tông, Nhơn, Dụ, và Hợp với Kết, tức là năm phần luận, cũng gọi là Nhân Minh Luận, người Tây phương gọi là Logic, dùng để chứng minh sự vật có đúng lý hay không.
+[^2]: Năm Phần Luận : Là ba chi Tông, Nhơn, Dụ, và Hợp với Kết, tức là năm phần luận, cũng gọi là Nhân Minh Luận, người Tây phương gọi là Logic, dùng để chứng minh sự vật có đúng lý hay không.
 
 - Đại Huệ! Tâm, ý, ý thức, thân tâm chuyển biến tự tâm hiện năng nhiếp sở nhiếp v.v... Các vọng tưởng đoạn dứt, thì người tu hành Như Lai Địa, Tự Giác Thánh Trí, chẳng ở nơi những vọng tưởng ấy, khởi tưởng cho là tánh phi tánh. Nếu người tu hành có cảnh giới như thế, chấp lấy tướng sanh có tánh phi tánh, ấy tức là chấp lấy có sự nuôi dưỡng thiện căn, và chấp lấy ngã tướng nhơn tướng.
 
@@ -308,7 +308,7 @@ Chấp có tánh nhiếp thọ.
 
 Nếu ngược chốt tháo chốt,
 
-Xả lìa tham nhiếp thọ (1).
+Xả lìa tham nhiếp thọ [^1].
 
 Như huyễn chú máy động,
 
@@ -316,7 +316,7 @@ Như mây nổi điện chớp.
 
 Quán thế được giải thoát,
 
-Dứt hẳn ba tương tục (2),
+Dứt hẳn ba tương tục [^2],
 
 Nơi thật chẳng kẻ tạo,
 
@@ -364,9 +364,9 @@ Mỗi mỗi sắc tướng hiện,
 
 Đều chẳng thật như vậy.
 
-(1) NHIẾP THỌ : Có sự thọ nhận.
+[^1]: NHIẾP THỌ : Có sự thọ nhận.
 
-(2) BA TƯƠNG TỤC : Thế giới tương tục, Chúng sanh tương tục và Nghiệp quả tương tục
+[^2]: BA TƯƠNG TỤC : Thế giới tương tục, Chúng sanh tương tục và Nghiệp quả tương tục
 
 - Lại nữa, Đại Huệ! Như Lai thuyết pháp lìa tứ cú như thế. Là nhất, dị, đồng, chẳng đồng, hữu, vô, phi hữu phi vô, thường, vô thường, lìa nơi hữu vô, kiến lập, phủ nhận, phân biệt kết tập, chơn đế duyên khởi, đạo diệt, giải thoát... Sự thuyết pháp của Như Lai lấy đó làm gốc, phi tánh, phi tự tại, phi vô nhân, phi vi trần, phi thời, phi tự tánh tương tục mà vì chúng sanh thuyết pháp. Lại nữa, Đại Huệ! Vì tẩy sạch phiền não chướng và sở tri chướng, ví như thương chủ vì dẫn chúng đến nơi bảo sở, nên theo thứ lớp kiến lập một trăm lẻ tám câu Vô sở hữu này, khéo phân biệt Tam thừa ( phá phiền não chướng ) và tướng Thập Địa ( phá Sở tri chướng ).
 
@@ -692,7 +692,7 @@ Như voi mắc đầm lầy.
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng :
 
-*Ký luận* có 4 thứ (1) :
+*Ký luận* có 4 thứ [^1]:
 
 Nhất hướng, phản cật vấn.
 
@@ -700,7 +700,7 @@ Phân biệt và chỉ luận,
 
 Để đối trị ngoại đạo.
 
-Thầy *Số Luận* (2)
+Thầy *Số Luận* [^2]
 
 Thắng Luận Hiển thị như thế này :
 
@@ -716,14 +716,9 @@ Vì lìa nơi ngôn thuyết,
 
 Nên nói lìa tự tánh.
 
-(1) **KÝ LUẬN** CÓ 4 THỨ: Phật Thích Ca vì phá chấp của ngoại đạo, có bốn cách đáp sự vấn nạn họ :
+[^1]: **KÝ LUẬN** CÓ 4 THỨ: Phật Thích Ca vì phá chấp của ngoại đạo, có 4 cách đáp sự vấn nạn họ: 01- *Nhất Hướng*: Khẳng định đáp. 02- *Phản Cật Vấn*: Hỏi ngược lại. 03- *Phân biệt*: Bất định đáp (đáp cả 2 mặt). 04- *Chỉ Luận*: Tức là lương cửu, im lặng đáp.
 
-1.- *Nhất Hướng*: Khẳng định đáp.
-2.- *Phản Cật Vấn*: Hỏi ngược lại.
-3.- *Phân biệt*: Bất định đáp (đáp cả 2 mặt).
-4.- *Chỉ Luận*: Tức là lương cửu, im lặng đáp.
-
-(2) **SỐ LUẬN**: Do môn đồ của Ngoại Đạo Tóc Vàng kiến lập, nói SỐ là số lượng để đo lường trí huệ, từ số mà sanh khởi Luận, luận cũng hay sanh ra số, nên gọi là Số Luận. Người tạo ra Số Luận và người học Số Luận gọi là Số Luận Sư.
+[^2]: **SỐ LUẬN**: Do môn đồ của Ngoại Đạo Tóc Vàng kiến lập, nói SỐ là số lượng để đo lường trí huệ, từ số mà sanh khởi Luận, luận cũng hay sanh ra số, nên gọi là Số Luận. Người tạo ra Số Luận và người học Số Luận gọi là Số Luận Sư.
 
 ### Khi ấy, Đại Huệ Bồ Tát lại bạch Phật rằng :
 
@@ -795,7 +790,7 @@ Vô sắc Tam Ma Đề.
 
 Tất cả thọ, tưởng diệt,
 
-Tâm lượng vốn không có (1).
+Tâm lượng vốn không có [^1].
 
 Sơ quả và nhị quả,
 
@@ -981,7 +976,7 @@ Nơi duyên khởi vọng tưởng.
 
 Tục Đế Đệ Nhất Nghĩa,
 
-Ngoại đạo chấp thành ba (1).
+Ngoại đạo chấp thành ba [^1].
 
 Cho là vô nhân sanh,
 
@@ -1099,7 +1094,7 @@ Lìa hai năng, sở ấy,
 
 Thành trí huệ bình đẳng.
 
-(1) TỤC ĐẾ ĐỆ NHẤT NGHĨA, NGOẠI ĐẠO CHẤP THÀNH BA : ngoại đạo nói Đệ Nhất là từ ban sơ sanh giác, Đệ Nhị từ giác sanh ngã tâm, Đệ Tam từ ngã tâm sanh ngũ trần sắc, thanh, hương, vị, xúc, chẳng biết căn bản của duyên khởi, lại cho là Vô Nhân sanh, thành ra ở ngoài Nhị đế chơn và tục.
+[^1]: TỤC ĐẾ ĐỆ NHẤT NGHĨA, NGOẠI ĐẠO CHẤP THÀNH BA : ngoại đạo nói Đệ Nhất là từ ban sơ sanh giác, Đệ Nhị từ giác sanh ngã tâm, Đệ Tam từ ngã tâm sanh ngũ trần sắc, thanh, hương, vị, xúc, chẳng biết căn bản của duyên khởi, lại cho là Vô Nhân sanh, thành ra ở ngoài Nhị đế chơn và tục.
 
 ### Đại Huệ bồ tát lại bạch Phật rằng:
 
@@ -1205,7 +1200,7 @@ Cuối cùng vẫn thành Phật.
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

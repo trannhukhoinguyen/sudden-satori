@@ -177,7 +177,7 @@ Chẳng báng Đại Đạo Sư,
 
 - Đại Huệ! Nói Niết Bàn là thấy nghĩa chơn thật, lìa pháp tâm, tâm số của vọng tưởng, cho đến đắc Như Lai Tự Giác Thánh Trí, Ta nói là Niết Bàn.
 
-***
+<hr class="blog-rule" />
 
 ### Khi ấy Thế Tôn muốn lập lại nghĩa này mà thuyết kệ rằng :
 
@@ -1082,7 +1082,7 @@ Là lời ta thường thuyết.
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

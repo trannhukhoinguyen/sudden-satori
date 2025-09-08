@@ -55,7 +55,7 @@ pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"
 Không, Giả, Trung, tam đế viên dung, gọi là Viên Diệu; ở đây tâm thức có thể đến. Khi giác quán đã thành, từ chơn phát diệu, khế hợp lý viên, thì gọi là Diệu Viên, chỗ này tâm thức chẳng thể đến. Nếu trung đạo nương theo chơn, thì sự diệu, chưa phải chơn, từ chơn phát diệu, diệu ấy mới là Chơn Diệu.
 Diệu chưa phải chơn, nên chẳng thể thường trụ, trung đạo thuần chơn, nên diệu được thường trụ. Diệu đã thường trụ thì tất cả vọng tưởng chẳng có chỗ dựa. Nói "Diệu" là tự cảm thấy bất khả tư nghì, chẳng thể dùng ngôn ngữ tỏ bày, lòng tin tự tâm rất chơn thật, nên gọi là Tín Tâm Trụ.
 
-***
+<hr class="blog-rule" />
 
 2. Chơn tín sáng tỏ, tất cả viên thông, ba thứ: ấm (5 ấm), xứ (12 xứ), giới (18 giới), chẳng thể ngăn ngại, như thế cho đến trong vô số kiếp quá khứ, vị lai, tất cả tập khí xã thân, thọ thân, thảy đều hiện ra trước mắt và ghi nhớ chẳng quên, gọi là *Niệm Tâm Trụ*.
 
@@ -404,7 +404,7 @@ Nếu chẳng tu tam muội, khi phước báo hết, phải trở lại trong l
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

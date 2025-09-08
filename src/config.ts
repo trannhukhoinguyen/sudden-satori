@@ -57,21 +57,13 @@ export const config: SiteConfig = {
     "books",
     "interpretations",
 
-    /*NHÓM KINH*/
     "sutras",
-    "lankavatara",
-    "surangama",
-    "diamond",
-
-    /*NHÓM CÔNG ÁN*/
     "koans",
-    "bluecliffrecord",
-    "gatelessgate",
-    "emptyvalleycollection",
-    "vacanthallcollection",
 
     "places",
     "practices",
+
+    "masters",
     "speeches",
     "faqs",
   ],
@@ -92,13 +84,15 @@ export const config: SiteConfig = {
     bluecliffrecord: "Bích Nham Lục",
     gatelessgate: "Vô Môn Quan",
     emptyvalleycollection: "Không Cốc Tập",
-    vacanthallcollection: "Hư Đường Tập", // 
+    vacanthallcollection: "Hư Đường Tập", //
     ironflute: "Thiết Địch Đảo Xuy - Tiếng Sáo Thép", // Tetteki Tosui
     equanimitybook: "Thong Dong Lục", // Shoyoroku
 
     places: "Địa danh",
     practices: "Thực hành",
     zongjinglus: "Tông Cảnh Lục",
+
+    masters: "Thiền sư",
     speeches: "Ngữ lục",
     faqs: "FAQ - Hỏi đáp",
   },
@@ -124,6 +118,8 @@ export const config: SiteConfig = {
     places: "Xem các Địa danh",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
     zongjinglus: "Xem Tông Cảnh Lục",
+
+    masters: "Xem Thiền sư",
     speeches: "Xem Ngữ lục",
     faqs: "Xem Hỏi đáp",
   },
@@ -138,3 +134,4 @@ export const config: SiteConfig = {
 // Export constants for SEO component
 export const SITE_TITLE = config.title;
 export const SITE_DESCRIPTION = config.description;
+export const SITE_URL = config.siteUrl;

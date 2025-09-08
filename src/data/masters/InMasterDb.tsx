@@ -19,6 +19,7 @@ const InMasterDb = [
     disciples: ['Mahakasyapa'],
     image: '/images/avatar.png',
     reference: ['https://en.wikipedia.org/wiki/The_Buddha',],
+    wiki: ['https://en.wikipedia.org/wiki/The_Buddha',],
   },
   {
     id: '1',
@@ -39,7 +40,8 @@ const InMasterDb = [
     successors: ['Ananda'],
     disciples: ['Ananda'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '2',
@@ -60,8 +62,8 @@ const InMasterDb = [
     successors: ['Sanakavasa'],
     disciples: ['Sanakavasa'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '3',
@@ -82,8 +84,8 @@ const InMasterDb = [
     successors: ['Upagupta'],
     disciples: ['Upagupta'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '4',
@@ -104,8 +106,8 @@ const InMasterDb = [
     successors: ['Dhrtaka'],
     disciples: ['Dhrtaka'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '5',
@@ -126,10 +128,10 @@ const InMasterDb = [
     successors: ['Miccaka'],
     disciples: ['Miccaka'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '6',
     hasContent: true,
     name_en: 'Miccaka',
@@ -148,10 +150,10 @@ const InMasterDb = [
     successors: ['Vasumitra'],
     disciples: ['Vasumitra'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '7',
     hasContent: true,
     name_en: 'Vasumitra',
@@ -172,8 +174,8 @@ const InMasterDb = [
     successors: ['Buddhanandi'],
     disciples: ['Buddhanandi'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '8',
@@ -194,8 +196,8 @@ const InMasterDb = [
     successors: ['Buddhamitra'],
     disciples: ['Buddhamitra'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '9',
@@ -216,8 +218,8 @@ const InMasterDb = [
     successors: ['Parsvika'],
     disciples: ['Parsvika'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '10',
@@ -240,8 +242,8 @@ const InMasterDb = [
     successors: ['Punyayasas'],
     disciples: ['Punyayasas'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '11',
@@ -262,8 +264,8 @@ const InMasterDb = [
     successors: ['Asvaghosha'],
     disciples: ['Asvaghosha'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '12',
@@ -285,8 +287,8 @@ const InMasterDb = [
     successors: ['Kapimala'],
     disciples: ['Kapimala'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '13',
@@ -307,8 +309,8 @@ const InMasterDb = [
     successors: ['Nagarjuna'],
     disciples: ['Nagarjuna'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '14',
@@ -328,8 +330,8 @@ const InMasterDb = [
     successors: ['Kanadeva'],
     disciples: ['Kanadeva'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '15',
@@ -349,10 +351,10 @@ const InMasterDb = [
     successors: ['Rahulata'],
     disciples: ['Rahulata'],
     image: '/images/avatar.png',
-    reference: ['',],
-
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '16',
     name_en: 'Rahulata',
     name_zh: '羅睺羅多',
@@ -370,7 +372,8 @@ const InMasterDb = [
     successors: ['Sanghanandi'],
     disciples: ['Sanghanandi'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '17',
@@ -390,7 +393,8 @@ const InMasterDb = [
     successors: ['Gayasata'],
     disciples: ['Gayasata'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '18',
@@ -410,7 +414,8 @@ const InMasterDb = [
     successors: ['Kumarata'],
     disciples: ['Kumarata'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '19',
@@ -431,7 +436,8 @@ const InMasterDb = [
     successors: ['Jayata'],
     disciples: ['Jayata'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '20',
@@ -451,9 +457,10 @@ const InMasterDb = [
     successors: ['Vasubandhu'],
     disciples: ['Vasubandhu'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '21',
   name_en: 'Vasubandhu',
     name_vi: 'Bà-Tu-Bàn-Đầu (Thế-Thân)',
@@ -467,9 +474,10 @@ const InMasterDb = [
     successors: ['Manorhita'],
     disciples: ['Manorhita'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '22',
     name_en: 'Manorhita',
     name_ja: 'Manura',
@@ -483,7 +491,8 @@ const InMasterDb = [
     successors: ['Haklena'],
     disciples: ['Haklena'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '23',
@@ -499,7 +508,8 @@ const InMasterDb = [
     successors: ['Aryasimha'],
     disciples: ['Aryasimha'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '24',
@@ -517,7 +527,8 @@ const InMasterDb = [
     successors: ['Basiasita'],
     disciples: ['Basiasita', 'Đạt Ma Đạt',],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '25.1',
@@ -534,7 +545,8 @@ const InMasterDb = [
     successors: ['Punyamitra'],
     disciples: ['Punyamitra'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '25.2',
@@ -550,7 +562,8 @@ const InMasterDb = [
     successors: [''],
     disciples: ['Nhân Đà La', 'Cù La Kỵ Lợi Bà'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '26.1',
@@ -566,7 +579,8 @@ const InMasterDb = [
     successors: ['Prajnatara'],
     disciples: ['Prajnatara'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '26.2',
@@ -582,7 +596,8 @@ const InMasterDb = [
     successors: [''],
     disciples: ['Đạt Ma Thi Lợi Đế', 'Na Già Nan Đề', 'Phú Lâu Cầu Đa La', 'Ba La Bà Đề'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '26.3',
@@ -598,7 +613,8 @@ const InMasterDb = [
     successors: [],
     disciples: ['Bà La Bạt Ma', 'Tăng Già La Xoa'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '27.1',
@@ -614,16 +630,16 @@ const InMasterDb = [
     successors: ['Bodhidharma'],
     disciples: ['Bodhidharma'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '27.2',
-
     name_en: 'Đạt Ma Thi Lợi Đế',
     name_ja: 'Đạt Ma Thi Lợi Đế',
     name_zh: 'Đạt Ma Thi Lợi Đế',
     name_vi: 'Đạt Ma Thi Lợi Đế',
-  birth_death_time: ['', ''],
+    birth_death_time: ['', ''],
     sect: [],
     country: '🇮🇳',
     place: '-',
@@ -631,11 +647,11 @@ const InMasterDb = [
     successors: [''],
     disciples: ['Ma Đế Lệ Bạt La / Ma Đế Lệ Phi La', 'A Lợi Bạt Mâu / Ha Lợi Bạt Mậu'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '27.3',
-
     name_en: 'Phá Lâu Cầu Đa La',
     name_ja: 'Phá Lâu Cầu Đa La',
     name_zh: 'Phá Lâu Cầu Đa La',
@@ -648,11 +664,11 @@ const InMasterDb = [
     successors: [''],
     disciples: ['Hòa Tu Bàn Đầu', 'Đạt Ma Kha Đế', 'Chiên Đà La Đa Ba'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '27.4',
-
     name_en: 'Ba La Bạt Ma',
     name_ja: 'Ba La Bạt Ma',
     name_zh: 'Ba La Bạt Ma',
@@ -665,11 +681,11 @@ const InMasterDb = [
     successors: [''],
     disciples: ['Lặc/Nặc La Đa La', 'Bàn Đầu Đa La', 'Bà Ba Bà La / Bà La Bà Đa'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
-{
+  {
     id: '27.5',
-
     name_en: 'Tăng Già La Xoa',
     name_ja: 'Tăng Già La Xoa',
     name_zh: 'Tăng Già La Xoa',
@@ -682,7 +698,8 @@ const InMasterDb = [
     successors: [''],
     disciples: ['Tì Xá Dã Đa La', 'Tì Lâu La Đa Ma', 'Tì Túc Xô Đa La / Tỳ-lật-sô-đa-la', 'Ưu Bà Chiên Đà / Ưu-ba-thiên-đà', 'Bà Nan Đề Đa /  Bà-nan-đề-la'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '28',
@@ -700,7 +717,8 @@ const InMasterDb = [
     successors: ['Dazu Huike'],
     disciples: ['Dazu Huike', 'Đạo Dục', 'Đạo Phó', 'Ni Tổng Trì', '6 Tôn giả đứng đầu 6 tông Hữu tướng, Vô tướng, Định tuệ, Giới hạnh, Vô đắc, Tịch tỉnh'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BodhidharmaYoshitoshi1887.jpg/232px-BodhidharmaYoshitoshi1887.jpg',
-    reference: ['',],
+    reference: [''],
+    wiki: [''],
   },
   {
     id: '31.2',
@@ -720,6 +738,7 @@ const InMasterDb = [
     disciples: ['Zhongshan Faxian'],
     image: '/',
     reference: [''],
+    wiki: [''],
   },
   {
     id: '34.1.7',
@@ -737,6 +756,7 @@ const InMasterDb = [
     disciples: [],
     image: '/images/monocolor-unknown-zen-master.jpg',
     reference: [''],
+    wiki: [''],
   },
 ]
 export default InMasterDb;

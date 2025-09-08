@@ -52,11 +52,11 @@ Than ôi! Nếu có thể như con tằm nhả tơ, bắt đầu từ một sợ
 
 Bằng không, há người chẳng bằng vật ư!
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: <a href="/practices/tham-thien-pho-thuyet" target="_blank">Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả). Việt Dịch: HT. Thích Duy Lực – Định Huệ</a>
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

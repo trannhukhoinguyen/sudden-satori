@@ -70,7 +70,7 @@ Tuyết Đậu tụng rằng:
 
 “Ba mươi gậy núi kể còn nhẹ,” là để tụng việc ông tăng kia đến trước mặt Tuyết Phong. Ông tăng này vẫn sơ hốt, cho nên Tuyết Phong mới theo lệnh đánh cho ba mươi gậy và đuổi ra. Thử nói xem, tại sao lại như thế? Các ông muốn tận tình hiểu câu chuyện này sao? “Được tiện nghi là mất tiện nghi.”
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12795/5/tac-thu-sau-muoi-sau-nham-dau-va-tu-dau-toi
 >
@@ -80,7 +80,7 @@ Tuyết Đậu tụng rằng:
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

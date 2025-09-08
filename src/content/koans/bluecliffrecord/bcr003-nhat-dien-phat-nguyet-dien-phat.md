@@ -102,7 +102,7 @@ Cấy gặt khó khăn nào hay biết, Ngũ đế tam hoàng là cái gì?” T
 Có bao nhiêu người sinh sống trong hang rồng?
 Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bùa dưới nách, chiếu sáng khắp tứ phương thiên hạ, đến chỗ này cũng không thể khinh hốt, mà phải cẩn trọng mới được.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p26a12725/4/tac-thu-ba-ma-su-bat-an
 >
@@ -112,7 +112,7 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

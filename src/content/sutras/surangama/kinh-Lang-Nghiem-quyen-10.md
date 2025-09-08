@@ -157,7 +157,7 @@ Sắc chẳng tự Sắc, vì Không hiển Sắc, nên sắc với Không là b
 > Thọ chẳng tự Thọ, vì Xúc có Thọ, nên Xúc với Lìa là bờ bến của Thọ Ấm; Tưởng chẳng phải Tưởng, vì ghi nhớ gọi là Tưởng, nên Nhớ và Quên là bờ bến của Tưởng Ấm; Hành chẳng phải Hành, vì sanh diệt chẳng ngừng, gọi là Hành, nên Sanh với Diệt là bờ bến của Hành Ấm; Thức gọi là Trạm Liễu (trong lặng sáng suốt), là đã diệt sanh diệt, tánh Thức nhập vào chỗ cội gốc trong lặng, mà hợp với trạm nhiên, có nhập có hợp, tức là bờ bến của Thức Ấm.
 Vì Trạm Nhập là Thức Ấm, Trạm Xuất là Hành Ấm. Chơn Tánh chẳng gọi là Trạm Nhập, là vì cùng khắp pháp giới, nên chẳng có xuất nhập, nay Trạm Nhập dần dần đi vào, cho đến nhập vô sở nhập, tức đến chỗ chẳng sanh diệt vậy.
 
-***
+<hr class="blog-rule" />
 
 > Cội gốc của ngũ ấm từng lớp sanh khởi; sanh do thức mà có, diệt theo sắc mà trừ; Lý thì Đốn Ngộ, theo ngộ cùng tiêu. Sự chẳng thể bỗng diệt, phải dần dần mới được dứt sạch.
 
@@ -190,7 +190,7 @@ Chứng Đạo Ca nói:
 >
 > "Y văn giải nghĩa, tam thế Phật oan", độc giả hãy tự xem xét cho kỹ.
 
-***
+<hr class="blog-rule" />
 
 > A Nan! Nếu có chúng sanh hay tụng trì kinh này và chú này như ta đã nói, thì phước báo cùng tột số kiếp cũng chẳng thể hết; nếu nương theo lời dạy của ta mà tu hành, thì thẳng đến Bồ Đề chẳng còn nghiệp ma.
 >
@@ -220,7 +220,7 @@ Chứng Đạo Ca nói:
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

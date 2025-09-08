@@ -166,7 +166,7 @@ Nếu hiểu được như vậy mới thấy được chỗ tương kiến gi�
 
 Nhếch được mũi lên mất luôn miệng.” Nhếch được miệng lên thì lại mất luôn mũi.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12752/5/tac-thu-hai-muoi-tam-chu-thanh-cua-niet-ban-hoa-thuong
 >
@@ -176,7 +176,7 @@ Nhếch được mũi lên mất luôn miệng.” Nhếch được miệng lên
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

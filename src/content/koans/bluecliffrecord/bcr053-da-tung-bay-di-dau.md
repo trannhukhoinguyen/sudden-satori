@@ -75,7 +75,7 @@ Tuyết Đậu tụng ngay rằng, “Bầy vịt trời, biết về đâu?” 
 
 Muốn bay đi, lại giữ lại.” Tuyết Đậu dựa vào dữ kiện mà kết thúc công án. Lại nói, “Nói, nói!” Đây chính là chỗ Tuyết Đậu chuyển thân. Thử nói xem, các ông phải nói như thế nào? Nếu như kêu lên vì đau là sai. Nếu như không kêu lên vì đau thì phải hiểu như thế nào? Tuy rằng Tuyết Đậu tụng hết sức là kỳ diệu, song cũng không nhảy ra khỏi được.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12781/5/tac-thu-nam-muoi-ba-vit-troi-cua-ma-dai-su
 >
@@ -85,7 +85,7 @@ Muốn bay đi, lại giữ lại.” Tuyết Đậu dựa vào dữ kiện mà 
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

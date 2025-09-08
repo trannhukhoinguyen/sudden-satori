@@ -105,11 +105,11 @@ Hoặc như chính Einstein nói:
 
 > Những người như chúng ta, những kẻ tin vào Vật lý học, biết rằng sự phân biệt giữa quá khứ, hiện tại và tương lai chỉ là một ảo tưởng cố chấp dai dẳng.
 
-***
+<hr class="blog-rule" />
 
 > Truyền Bình: *Ảo giác đâu chỉ có *Thời gian*?*
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -210,7 +210,7 @@ So đo, minh bạch, tự ông nhìn lấy? Đã bày vẽ dây dưa, tại sao 
 
 Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người khác không hiểu nổi, ví dù sư núi này đến chỗ đó, cũng chẳng thể nào hiểu nổi.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p26a12724/4/tac-thu-nhi-chi-dao-vo-nan-cua-trieu-chau
 >
@@ -220,7 +220,7 @@ Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người 
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

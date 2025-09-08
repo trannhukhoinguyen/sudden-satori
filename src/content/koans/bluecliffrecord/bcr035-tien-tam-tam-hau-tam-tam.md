@@ -136,7 +136,7 @@ Minh Chiêu Độc Nhãn Long cũng tụng rằng ý này có cơ bao chum cả 
 
 Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần Văn Thù xuất hiện trên nồi cháo đều bị Vô Trước cầm môi múc cháo lên đánh. Dù vậy đi nữa cũng chẳng khác gì kẻ cướp đi rồi mình mới giương cung. Ngay cả lúc mà Văn Thù nói,” Phật pháp ở phương Nam trù trì như thế nào?” Vô Trước lẽ ra phải dơ tay đánh ngay thì còn có chút gì. “ Nực cười Thanh Lương bao nhiêu chúng?” Trong nụ cười của Tuyết Đậu có lưỡi dao. Nếu như hiểu được nụ cười này đương nhiên sẽ hiểu được câu nói “tiền tam tam với hậu tam tam” của Văn Thù.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12760/5/tac-thu-ba-muoi-lam-van-thu-va-vo-truoc
 >
@@ -146,7 +146,7 @@ Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần V�
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

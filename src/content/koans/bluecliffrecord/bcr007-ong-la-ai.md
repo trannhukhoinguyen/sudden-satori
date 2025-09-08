@@ -142,7 +142,7 @@ Tuyết Đậu tụng thật vi diệu, cho nên không bị mũi kiếm đâm v
 
 Giống như Tàng chủ Khánh hỏi, “Thế nào là “ba bực sóng cao cá hóa rồng”? Tôi cũng chẳng quan tâm, có điều tôi muốn hỏi ông, hóa thành rồng rồi bây giờ ở đâu?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12729/5/tac-thu-bay-hue-sieu-hoi-ve-phat
 >
@@ -152,7 +152,7 @@ Giống như Tàng chủ Khánh hỏi, “Thế nào là “ba bực sóng cao c
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

@@ -81,11 +81,11 @@ Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chu
 > 
 > Chớ để cô phụ ngài Văn Thù.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

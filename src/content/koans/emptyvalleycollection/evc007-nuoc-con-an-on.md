@@ -128,11 +128,11 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 > 
 > Đại ngộ không còn Thầy
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

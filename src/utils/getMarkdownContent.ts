@@ -17,6 +17,7 @@ const globMap = {
   /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}', { eager: true }),
 
+  masters: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}', { eager: true }),
 };
@@ -36,6 +37,7 @@ const globMapLazy = {
   /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}'),
 
+  masters: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}'),
 };
@@ -46,6 +48,8 @@ const collections = {
   places: "places",
   books: "books",
   practices: "practices",
+
+  masters: "speeches",
   speeches: "speeches",
   faqs: "faqs",
 

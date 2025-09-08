@@ -245,7 +245,7 @@ Cũng y như trước xông tận vào hang ma.
 Thử nói xem, đó là cảnh giới của Văn Thù, cảnh giới của Phổ Hiền, hay là cảnh giới của Quan Âm. 
 Đến đây rồi thử nói xem đó là chuyện của ai?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12743/5/tac-thu-hai-muoi-long-nha-va-y-cua-to-su-tu-tay-thien-qua
 >
@@ -255,7 +255,7 @@ Thử nói xem, đó là cảnh giới của Văn Thù, cảnh giới của Ph�
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

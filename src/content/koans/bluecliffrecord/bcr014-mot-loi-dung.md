@@ -114,7 +114,7 @@ Tại sao không nói là được cả hai? Tại sao lại chỉ được mộ
 
 Thừ nói xem, còn một sứng kia ở đâu?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12737/5/tac-thu-muoi-bon-mot-loi-dung-cua-van-mon
 >
@@ -124,7 +124,7 @@ Thừ nói xem, còn một sứng kia ở đâu?
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

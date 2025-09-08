@@ -90,7 +90,7 @@ Tuyết Đậu biết Phong Huyệt có tông phong như thế cho nên mới t�
 
 Trong một câu của Phong Huyệt đã có đầy đủ cả thương giáp của tam huyền, thật sự tùy thân cho nên không dễ gì ai chống cự được. Nếu như Sư không như thế thì làm gì được Lư Pha? Sau cùng Tuyết Đậu muốn nêu ra cái cơ phong của Lâm Tế, đừng có nói là Lư Pha,cho dù là bên thành của Sơ vương, sóng cả chập chùng, ba đào lồng lộng, tất cả đều quay về nguồn. Chỉ cần một tiếng hét thôi cũng đủ khiến chúng chảy ngược lại.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12763/5/tac-thu-ba-muoi-tam-trau-sat-cua-phong-huyet
 >
@@ -100,7 +100,7 @@ Trong một câu của Phong Huyệt đã có đầy đủ cả thương giáp c
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

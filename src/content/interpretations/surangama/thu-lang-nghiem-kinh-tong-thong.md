@@ -51,7 +51,7 @@ Ngài thị tịch ngày 17 tháng Năm năm Tân Mão (1951) tại Chùa Tây T
 
 Vị kế thế Ngài là Hoà Thượng Thượng Tịch Hạ Chiếu hiện trụ trì Chùa Tây Tạng - Bình Dương.
 
-***
+<hr class="blog-rule" />
 
 ## PHẦN THỨ NHẤT : PHẦN TỰA - DUYÊN KHỞI CỦA KINH LĂNG NGHIÊM TÔNG THÔNG
 
@@ -96,7 +96,7 @@ Kinh lăng Già : Phật dạy Ông Đại Huệ : Tất cả Thanh Văn, Duyên
 
 Chứng Đạo Ca nói : Tông cũng thông, Thuyết cũng thông. Định Huệ tròn sáng, chẳng trệ nơi không.
 
-***
+<hr class="blog-rule" />
 
 ## QUYỂN I - ĐẠI PHẬT ĐẢNH, NHƯ LAI MẬT NHÂN, TU CHỨNG LIỄU NGHĨA, CHƯ BỒ TÁT VẠN HẠNH, KINH THỦ LĂNG NGHIÊM TÔNG THÔNG.
 

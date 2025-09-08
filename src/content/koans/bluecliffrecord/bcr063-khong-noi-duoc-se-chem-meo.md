@@ -70,7 +70,7 @@ Tuyết Đậu và Nam Tuyền cùng nắm tay nhau mà đi, một câu nói lê
 
 May mà có Nam Tuyền phán đoán công án này cho họ, thu dọn được một cách gọn ghẽ. Song thầy ta làm gì được cho những kẻ trước không về nhà sau chẳng đến tiệm? Do đó mà Tuyết Đậu nói, “May mà Nam Tuyền ra được lệnh, một dao hai mảnh kệ thiên kiến.” Nam Tuyền một dao cắt ra ngay làm hai mảnh chẳng quan tâm đến các thiên lệch. Song thử nói xem, Nam Tuyền dựa vào lệnh gì vậy?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12792/5/tac-thu-sau-muoi-ba-nam-tuyen-giet-meo
 >
@@ -80,7 +80,7 @@ May mà có Nam Tuyền phán đoán công án này cho họ, thu dọn được
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

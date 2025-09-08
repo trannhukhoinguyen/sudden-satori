@@ -125,7 +125,7 @@ Soi một mình hay là cùng soi với người khác? Phải cắt đứt hế
 
 Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sương trăng rụng. Hiện giờ thì như thế nào?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12765/5/tac-thu-bon-muoi-giong-nhu-mong-cua-nam-tuyen
 >
@@ -135,7 +135,7 @@ Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sư
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

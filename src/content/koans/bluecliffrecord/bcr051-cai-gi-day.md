@@ -136,7 +136,7 @@ Sinh cùng một dòng thì kể còn dễ thấy. Không đồng tử trong m�
 Thử nói xem, đây là “vừa sáng vừa tối.” đồng sinh trong một dòng,” hay “đồng tử trong một dòng”? Nạp tăng có mắt sáng thử phân biện xem sao.
 
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
 >
@@ -146,7 +146,7 @@ Thử nói xem, đây là “vừa sáng vừa tối.” đồng sinh trong mộ
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

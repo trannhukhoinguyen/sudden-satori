@@ -96,7 +96,7 @@ Lối Tào Khê tuyệt trần tuyệt tích, lồ lộ rờ rỡ bằng phẳng
 
 Các ông mọi người hãy tự quán sát bước chân của mình.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12798/5/tac-thu-sau-muoi-chin-nam-tuyen-bai-trung-quoc-su
 >
@@ -106,7 +106,7 @@ Các ông mọi người hãy tự quán sát bước chân của mình.
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

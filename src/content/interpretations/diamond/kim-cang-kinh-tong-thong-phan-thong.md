@@ -3650,13 +3650,13 @@ Thông rằng:
 Văn trên nói pháp giới bình đẳng, là nói chẳng có pháp giới, chẳng có chúng sinh. Như Lai nói phàm phu tức chẳng phải phàm phu. Đã chẳng có tướng chúng sinh để được, chẳng có chúng sinh, há chẳng có Như Lai hay sao! Tuy nhiên, các tướng là cảnh giới sở hiện của Như Lai, nên đó được gọi là chẳng phải tướng tức là tướng. Đã có thể dùng vô tướng để hiển bày các tướng, thì cũng có thể dùng các tướng để hiển bày vô tướng. Tương tự như vậy mà quán sát, cũng như có thể theo tướng để biết được
 
 Phật. Không rõ rằng các tướng vốn là vô tánh, vốn là pháp thể chẳng thực có, nên không thể nào xem là tương tự. Pháp tánh chân thật không chỉ lìa thanh sắc mà còn lìa hẳn cả tri kiến, thì nương vào đâu mà thấy quán? Nên biết nói về ngã, tức là chân ngã trong bốn đức của niết-bàn, vốn chẳng phải là chổ để phân biệt. Cái biết phân biệt đã không thể thấy được, làm sao biết được nó có? Ở đây trừ bỏ cái ngã thấy mình có độ chúng sinh, và có chúng sinh để độ.
-Nghĩa bốn câu kệ do Cưu-ma-la-thập dịch chỉ nói đến cái ngã lìa thanh sắc. Ngài Huyền Trang dịch thêm bốn câu kệ sau (chú thích (1), trang 269), là lìa luôn cái tri kiến về pháp thân.
+Nghĩa bốn câu kệ do Cưu-ma-la-thập dịch chỉ nói đến cái ngã lìa thanh sắc. Ngài Huyền Trang dịch thêm bốn câu kệ sau (chú thích [^1], trang 269), là lìa luôn cái tri kiến về pháp thân.
 
 Kết hợp lại hai bài kệ sẽ thấy nghĩa rất đầy đủ.
 Lại nữa Tu-bồ-đề đáp rằng: “Đúng vậy, đúng vậy. Có thể lấy ba mươi hai tướng mà quán, sẽ thấy được Như Lai.” So cùng với lời đáp ở trước sẽ không tương hợp nhau. Không đúng như bản dịch của Cưu-ma-la-thập đã tỉnh lược bớt đi vậy.
 San định ký nói rằng: Hai câu Ý ông nghĩ sao...?, có nghĩa là, có thể theo các tướng như là pháp thân vô tướgn để quán sát Như Lai được không? Ba câu Tu-bồ-đề trả lời là, từ pháp thân đã lưu xuất thành thân tướng, tức là có thể do nơi tướng lưu xuất nầy mà biết được Đức Phật đã chứng đắc được vô tướng pháp thân. Trong ba
 
-câu mà Đức Phật trả lời, tuy chẳng phân biệt phàm thánh, có nghĩa là Chuyển luân thánh vương99[99] cũng có các tướng nầy, thì đó cũng là Như Lai, tức là thân tướng không thể ví như Như Lai được! Vả lại sắc tướng của Chuyển luân thánh vương và Phật tuy đồng, nhưng mỗi bên đều khác nhau. Tướng Phật là do thể hiện từ pháp thân, tướng Chuyển luân thánh vương là theo nghiệp nhân mà có. Phàm thánh như mây và bùn, so sánh vậy sao chuẩn xác được. Di-lặc Bồ-tát có kệ rằng:
+câu mà Đức Phật trả lời, tuy chẳng phân biệt phàm thánh, có nghĩa là Chuyển luân thánh vương [^99] cũng có các tướng nầy, thì đó cũng là Như Lai, tức là thân tướng không thể ví như Như Lai được! Vả lại sắc tướng của Chuyển luân thánh vương và Phật tuy đồng, nhưng mỗi bên đều khác nhau. Tướng Phật là do thể hiện từ pháp thân, tướng Chuyển luân thánh vương là theo nghiệp nhân mà có. Phàm thánh như mây và bùn, so sánh vậy sao chuẩn xác được. Di-lặc Bồ-tát có kệ rằng:
 Phi thị sắc thân tướng Hà tỉ tri Như Lai
 
 
@@ -3676,7 +3676,7 @@ Phật, Tu-bồ-đề đã ngộ ra rằng không thể dùng các tướng mà 
 Năm câu từ Lúc ấy Thế tôn....tức là dùng kiến văn cũng không thể thấy được Như Lai. Chân như pháp thân chẳng phải là cảnh giới của thức phân
 
 biệt, vốn lìa các tướng và nói năng, chỉ là cảnh giới của trí huệ chân thực mới có thể chứng biết được. Nên kệ nói, nếu dùng âm thanh sắc tướng để mong thấy Như Lai thì chẳng biết được Phật.
-Kinh Hoa Nghiêm nói rằng: ***
+Kinh Hoa Nghiêm nói rằng: <hr class="blog-rule" />
 Sắc thân phị thị Phật
 Âm thanh diệc phục nhiên.
 Nghĩa: Sắc thân chẳng phải Phật, Âm thanh cũng như vậy.

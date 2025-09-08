@@ -235,7 +235,7 @@ Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lư�
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

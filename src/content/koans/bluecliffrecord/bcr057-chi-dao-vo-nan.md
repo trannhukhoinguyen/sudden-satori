@@ -64,7 +64,7 @@ Tuyết Đậu chú giải hai câu của Triệu Châu nói rằng, “Sâu t�
 
 “So hề đo hề, trống vải dưới hiên.” Cuối cùng Tuyết Đậu đề lên, khiến nó sống đ5ông lại. Nếu như hiểu rõ được, thì tất cả đều do chính các ông đem ại. Tại sao vậy? Há không nghe nói muốn đạt đến chỗ thân thiết, thì đừng đem câu hỏi lại hỏi. Cho nên mới là cái trống vải dưới hiên.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12785/5/tac-thu-nam-muoi-bay-chi-dao-vo-nam-cua-trieu-chau
 >
@@ -74,7 +74,7 @@ Tuyết Đậu chú giải hai câu của Triệu Châu nói rằng, “Sâu t�
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

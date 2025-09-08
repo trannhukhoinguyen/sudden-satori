@@ -164,7 +164,7 @@ Lúc Phật quang chiếu mới hiện rõ thân hữu hình. Lúc nào ông đ�
 
 Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì như thế nào? Giống như giữa thanh thiên bạch nhật, mở mắt mà ngủ.
 
-***
+<hr class="blog-rule" />
 
 [^16]:
 
@@ -174,7 +174,7 @@ Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì nh�
 
 [^19]:
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12728/5/tac-thu-sau-mot-ngay-dep-cua-van-mon
 >
@@ -184,7 +184,7 @@ Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì nh�
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

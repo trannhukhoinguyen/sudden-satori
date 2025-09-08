@@ -134,7 +134,7 @@ Tân Khai là tên của tự viện. “ Ghê gớm thật” là lời tán th
 
 Cuối bài tụng Tuyết Đậu phải khai mở ra lối thoát cho một câu giống như con sư tử quay ngược lại ( nhảy xổ tới các ông). Cho nên thầy ta mới nêu lên với các ông rằng, “Đề Bà Tông, Đề Bà Tông, Dưới lá cờ đỏ gió phất phơ.” Ba Lăng nói, “Trong chén bạc đầy tuyết.” Tại sao Tuyết Đậu lại nói, “Dưới lá cở đỏ gió phất phơ?” Các ông đã biết là Tuyết Đậu giết người mà không dùng dao chăng?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12736/5/tac-thu-muoi-ba-chen-bac-cua-ba-lang
 >
@@ -144,7 +144,7 @@ Cuối bài tụng Tuyết Đậu phải khai mở ra lối thoát cho một câ
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

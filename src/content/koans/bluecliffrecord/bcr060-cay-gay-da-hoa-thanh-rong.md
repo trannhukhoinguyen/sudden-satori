@@ -156,7 +156,7 @@ Dù cho các ông có tiêu sái tự tại thực đi nữa, các ông vẫn c�
 
 Tuyết Đậu kể như đã tụng xong rồi, lại vẫn dơ gậy lên mà làm lại một lần nữa. Tuy là thế, song thầy ta vẫn không phải là một kẻ có máu dưới da.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12785/5/tac-thu-nam-muoi-bay-chi-dao-vo-nam-cua-trieu-chau
 >
@@ -166,7 +166,7 @@ Tuyết Đậu kể như đã tụng xong rồi, lại vẫn dơ gậy lên mà 
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

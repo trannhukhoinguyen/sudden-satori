@@ -90,7 +90,7 @@ Các lão hòa thượng ngồi trên giường gỗ khác, vung gậy hò hét,
 
 Thử nói xem, làm sao có thể tránh được?
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12767/5/tac-thu-bon-muoi-mot-nguoi-chet-lon-cua-trieu-chau
 >
@@ -100,7 +100,7 @@ Thử nói xem, làm sao có thể tránh được?
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

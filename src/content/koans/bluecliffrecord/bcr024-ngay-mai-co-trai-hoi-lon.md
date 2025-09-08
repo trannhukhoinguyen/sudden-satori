@@ -66,7 +66,7 @@ Tuyết Đậu có cái tài này, chỗ cấp thiết thì tụng cấp thiết
 
 Nhìn họ xem, một người nằm xuống một người liền bỏ đi. Nếu vẫn cứ loanh quanh thì chẳng bao giờ tìm ra lối. Ý của bài tụng của Tuyết Đậu thật là tuyệt. Đúng là đã từng cưỡi ngựa sắt vào thánh cao. Nếu như thầy ta không có chỗ chứng đắc ( giống như họ) làm sao thầy ta có thể như thế được? Thử nói xem, thầy ta đắc được ý gì? Há không nghe chuyện có ông tăng hỏi Phong Huyệt,“ Qui Sơn nói, “Con bò cái kia đến đó hả?” có nghĩa là gì?” Phong Huyệt nói, “Trên từng mây trắng rồng vàng nhảy.” Ông tăng hỏi, “Lúc Lưu Thiết Ma nói, “Ngày mai trên Đài Sơn có trai hội lớn, hòa thượng có đi dự không?” có nghĩa là gì?” Phong Huyệt nói, “Giữa lòng sóng biếc ngọc thỏ kinh” Ông tăng hỏi, “Lúc Qui Sơn nằm xuống có nghĩa là gì?” Phong Huyệt nói, “ Già nua lụ khụ ngày vô sự, nằm yên ngon giấc với núi xanh.” Ý này cũng giống với ý của Tuyết Đậu.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12748/5/tac-thu-hai-muoi-bon-qui-son-va-luu-thiet-ma
 >
@@ -76,7 +76,7 @@ Nhìn họ xem, một người nằm xuống một người liền bỏ đi. N�
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

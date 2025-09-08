@@ -76,7 +76,7 @@ Như trong kinh Lăng Nghiêm nói, “Thoạt đầu Quán Thế Âm Bồ Tát 
 
 Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.” Nếu như bảo đó là tiếng mưa rơi thì không đúng, mà bảo là không phải tiếng mưa rơi cũng không đúng, mà bảo là không phải tiếng mưa rơi cũng không đúng. Hai câu đầu tụng hai tiếng kêu ba tiếng hét, Tuyết Đậu hiểu cơ biến. Câu tụng này nếu như bảo rằng đó là vào đống thanh sắc thì không đúng, nếu họi là thanh sắc thì vẫn như xưa chẳng hiểu ý của thầy ta. Cũng như dùng ngón tay chỉ mặt trăng, mặt trăng không phải là ngón tay. “Hiểu không hiểu, Nam sơn bắc sơn mưa dạt dào.”
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12773/5/tac-thu-bon-muoi-sau-tieng-mua-roi-cua-kinh-thanh
 >
@@ -86,7 +86,7 @@ Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

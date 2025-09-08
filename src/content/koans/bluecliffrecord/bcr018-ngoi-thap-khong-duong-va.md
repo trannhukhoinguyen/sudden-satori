@@ -173,7 +173,7 @@ Tuy đứng một mình không có gì che dấu, song muốn thấy nó lại v
 Rồi lại nói tiếp, “Hàng lớp lớp, bóng chập chùng. Thiên cổ vạn cổ cho người xem.” Các ông xem như thế nào? Hiện giờ nó ở đâu rồi? Dù cho các ông có thấy nó rõ ràng đi nữa cũng đừng nhận lầm là điểm giữa cán cân.
 
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  https://hoavouu.com/p16a12741/5/tac-thu-muoi-tam-tuc-tong-thinh-phap
 >
@@ -183,7 +183,7 @@ Rồi lại nói tiếp, “Hàng lớp lớp, bóng chập chùng. Thiên cổ 
 >
 > ✨ Nguồn:  https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

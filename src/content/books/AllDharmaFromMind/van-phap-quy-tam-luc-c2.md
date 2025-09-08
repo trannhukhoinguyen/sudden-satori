@@ -13,7 +13,7 @@ pdfUrl: "/pdfs/books/AllDharmaFromMind/van-phap-quy-tam-luc.pdf"
 
 - Việt dịch: Tỳ Kheo **Thích Đắc Pháp**
 
-***
+<hr class="blog-rule" />
 
 ## LỜI GIỚI THIỆU
 
@@ -31,7 +31,7 @@ Tôi nhờ khánh hạnh đời trước mà gặp được sách này, liền d
 
 - *Kính đề*
 
-***
+<hr class="blog-rule" />
 
 ## LỜI NÓI ĐẦU
 
@@ -51,7 +51,7 @@ Tôi thừa hưởng căn lành rất ít, chợt thấy được một góc ch�
 
 - Thiền Sư *Tổ Nguyên Siêu Minh*
 
-***
+<hr class="blog-rule" />
 
 ## Chương I - CẢNH TỈNH KẺ TỤC MÊ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c1)
 
@@ -156,7 +156,7 @@ Kinh thi nói: “Niềm vui chỉ đến với người quân tử, và phướ
 Nếu do chôn vùi đức hạnh mà được tiền của, bỏ tấm lòng mà được giàu có, thì mới trở lại bài báng lương tâm vô dụng, không thể vào nồi thành cơm. 
 Đâu biết hạng người này đã mê mồ lý trời, trong bóng tối thần giận qủi hờn, giảm phúc tổn thọ, nghèo thiếu nạn tai, cho đến con cháu hư hèn, việc lạ đâu chẳng có.
 Sách **Văn Xương** nói: “Người tu thân sửa hạnh, trời nhất định giáng cho trăm điều lành. 
-Trái lại kẻ phản đạo bại đức, thần cũng đoạt năm phước”(1). Thế nên, phước thiện hay hoạ tai, lý nó tất nhiên nhất định như vậy. 
+Trái lại kẻ phản đạo bại đức, thần cũng đoạt năm phước” [^1]. Thế nên, phước thiện hay hoạ tai, lý nó tất nhiên nhất định như vậy. 
 Nếu chịu cải ác làm lành, chẳng khinh lờn, tự nhiên Phật trời ngầm phò hộ, phước thọ được tăng trưởng.
 
 ❓ Người có lỗi biết ăn năn có thể được chăng?
@@ -169,11 +169,11 @@ Nếu là thiện nên làm, còn ác thì mau cải đổi. Sự đổi ác the
 
 📣 Người xưa trị tâm rất khít khao, cho nên gặt hái được nhiều kết quả to lớn. Tất cả những tâm thiện ác của con người đều do NIỆM. Khi niệm dấy động nên mau mau tỉnh giác. Tỉnh giác nó liền thành không. Thu nhiếp như vậy lâu ngày chầy tháng tự nhiên tâm chánh. Kinh Thư nói: “Buông lung niệm là người điên, chế phục được niệm là bậc thánh”. Lời nói này rất chi lý và nên theo đó mà hành.
 
-❓ Người tại gia năm dục (2) cột trói, không thể thoát liền được, chưa biết có phương tiện gì để tu lần hay không?
+❓ Người tại gia năm dục [^2] cột trói, không thể thoát liền được, chưa biết có phương tiện gì để tu lần hay không?
 
-📣 Người tại gia tu hành việc ấy rất khó, phải dũng mãnh kiên chí và thường lâu mới được. Nên trong lúc động tịnh hàng ngày, trong lúc rảnh rang hay lúc bận rộn, chỉ riêng đề khởi một câu A Di Đà Phật, rồi hồi quang phản chiếu, chỉ giữ một niệm. Giả như có nhiều vòng lửa xoay trên đầu nhất định cũng không bỏ một niệm này, mặc tình cho tám gió (3) đến xung kích ta, chẳng cho mất một niệm này, lâu ngày chầy tháng một niệm được thuần chơn. Trở lại đem một niệm này phá nát ra, lúc ấy tự tánh Di Đà mới hiện. Giả sử hành như vậy, suốt một đời chẳng ngộ, khi báo tận mạng chung (chết), tự giữ một niệm, thẳng đến đường chánh. Trở lại làm người một nghe ngàn ngộ, thấy tánh thành Phật đã có phần. Đây là yếu chỉ của biệc trở về tâm (qui tâm). Trái lại chờ hướng bên ngoài mà dong ruổi tìm cầu. Tự mình phải lời nói và hành động không trái, thì mới gọi là chơn chánh thọ dụng.
+📣 Người tại gia tu hành việc ấy rất khó, phải dũng mãnh kiên chí và thường lâu mới được. Nên trong lúc động tịnh hàng ngày, trong lúc rảnh rang hay lúc bận rộn, chỉ riêng đề khởi một câu A Di Đà Phật, rồi hồi quang phản chiếu, chỉ giữ một niệm. Giả như có nhiều vòng lửa xoay trên đầu nhất định cũng không bỏ một niệm này, mặc tình cho tám gió [^3] đến xung kích ta, chẳng cho mất một niệm này, lâu ngày chầy tháng một niệm được thuần chơn. Trở lại đem một niệm này phá nát ra, lúc ấy tự tánh Di Đà mới hiện. Giả sử hành như vậy, suốt một đời chẳng ngộ, khi báo tận mạng chung (chết), tự giữ một niệm, thẳng đến đường chánh. Trở lại làm người một nghe ngàn ngộ, thấy tánh thành Phật đã có phần. Đây là yếu chỉ của biệc trở về tâm (qui tâm). Trái lại chờ hướng bên ngoài mà dong ruổi tìm cầu. Tự mình phải lời nói và hành động không trái, thì mới gọi là chơn chánh thọ dụng.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG II - PHẬT NHO LUẬN LÝ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c2)
 
@@ -220,7 +220,8 @@ Nếu được người con xuất gia, chóng chứng đạo giác ngộ vô th
 Đấy mới có thể gọi là báo đáp ân cha mẹ một cách chân thật. 
 Cổ đức nói: “Một người con xuất gia chín đời ông bà được thăng thiên”. 
 Xuất gia làm Tăng, tuy cạo tóc mặc áo thâm, đó nghĩa là xa lìa thế tục, học đạo mới dễ thành công. 
-Chẳng có vợ con, nên gọi là cắt đoạn ân ái, mới mau thành chánh giác. Ông chỉ biết ngũ luân (5) ở thế gian, mà chẳng biết cái hiếu lớn cứu cha mẹ.
+Chẳng có vợ con, nên gọi là cắt đoạn ân ái, mới mau thành chánh giác. 
+Ông chỉ biết ngũ luân [^5] ở thế gian, mà chẳng biết cái hiếu lớn cứu cha mẹ.
 
 ❓ Tội bất hiếu có ba, không con nối dòng là lớn hơn cả. Vậy thế nào?
 
@@ -292,11 +293,23 @@ Rất tiếc kẻ tục Nho chẳng ngộ được diệu tánh, chẳng có ch�
 
 ❓ Khi ngộ lời Phật, quyết định cần phải hành hạnh của Phật, tôi đã thấy trong giói Tăng sĩ, có nhiều người không tuân theo luật của Phật. Tại sao thế?
 
-📣 Cửa pháp quá rộng rãi cho nên rồng rắn lẫn lộn. Ngay lúc đức Phật còn tại thế mà còn có “Lục quần Tỳ Kheo”(6). Huống là thời mạt pháp, cách Phật càng ngày càng xa. Thời nay chỉ cầu một người hơi giống người xưa, trong số trăm ngàn Tăng sĩ cũng đủ rồi. Thí dụ đãi cát tìm vàng, mười đấu cát được một hạt vàng cũng là vật quí ở trên đời. Lại như chẻ đá tìm ngọc, một núi đá chỉ được một tấc ngọc cũng làm được vật quí. Người xưa nói: “Loài có sừng tuy nhiều, một con lân cũng đủ rồi”. Chẳng những thời mạt pháp, trong Phật giáo khó tìm được người hơi giống người xưa, ngay lúc đương thời Đức Khổng Tử cũng có quân tử Nho và tiểu nhơn Nho. Hiện nay tuy mặc áo Nho sĩ, làm sao bảo đảm họ đều giống Khổng Mạnh? Cho nên tông giáo thời thượng pháp chẳng riêng gì Tăng sĩ có người không giữ luật mà Nho giáo cũng vậy, chưa khỏi lệ này.
+📣 Cửa pháp quá rộng rãi cho nên rồng rắn lẫn lộn. Ngay lúc đức Phật còn tại thế mà còn có “Lục quần Tỳ Kheo” [^6]. 
+Huống là thời mạt pháp, cách Phật càng ngày càng xa. Thời nay chỉ cầu một người hơi giống người xưa, trong số trăm ngàn Tăng sĩ cũng đủ rồi. 
+Thí dụ đãi cát tìm vàng, mười đấu cát được một hạt vàng cũng là vật quí ở trên đời. 
+Lại như chẻ đá tìm ngọc, một núi đá chỉ được một tấc ngọc cũng làm được vật quí. 
+Người xưa nói: “Loài có sừng tuy nhiều, một con lân cũng đủ rồi”. 
+Chẳng những thời mạt pháp, trong Phật giáo khó tìm được người hơi giống người xưa, ngay lúc đương thời Đức Khổng Tử cũng có quân tử Nho và tiểu nhơn Nho. 
+Hiện nay tuy mặc áo Nho sĩ, làm sao bảo đảm họ đều giống Khổng Mạnh? 
+Cho nên tông giáo thời thượng pháp chẳng riêng gì Tăng sĩ có người không giữ luật mà Nho giáo cũng vậy, chưa khỏi lệ này.
 
-❓ Tam giáo chỉ có một lý, tại sao lầm phân ra đẳng cấp: Phật giáo trị ở xương tuỷ, Đạo giáo trị ở huyết mạch, Đạo Nho tôi trị ở ngoài da? Như vậy là lời nói bất công, chưa khỏi khiến người phiền trách.
+❓ Tam giáo chỉ có một lý, tại sao lầm phân ra đẳng cấp: 
+Phật giáo trị ở xương tuỷ, Đạo giáo trị ở huyết mạch, Đạo Nho tôi trị ở ngoài da? 
+Như vậy là lời nói bất công, chưa khỏi khiến người phiền trách.
 
-📣 Nho gia lấy “cùng lý tận tánh” làm đạo, tam cang, ngũ thường (7) làm đức, chỉ mong người làm quân tử, cho nên gọi là trị ngoài da. Đạo gia lấy “tu chơn dưỡng tánh làm Đạo”, “nhược chi thoái kỹ làm Đức”, mong làm đến bậc Thanh Hư đạo nhơn, cho nên gọi là trị trong huyết mạch. Phật giáo lấy minh tâm kiến tánh làm Đạo, thập độ vạn hạnh (8) làm đức, thành bậc chánh giác tam giới sư. Thật là hay trị ở cốt tuỷ. Chẳng phải là đạo thể của tam giáo có khác nhau, bởi mỗi môn công hạnh có sai biệt.
+📣 Nho gia lấy “cùng lý tận tánh” làm đạo, tam cang, ngũ thường [^7] làm đức, chỉ mong người làm quân tử, cho nên gọi là trị ngoài da. 
+Đạo gia lấy “tu chơn dưỡng tánh làm Đạo”, “nhược chi thoái kỹ làm Đức”, mong làm đến bậc Thanh Hư đạo nhơn, cho nên gọi là trị trong huyết mạch. 
+Phật giáo lấy minh tâm kiến tánh làm Đạo, thập độ vạn hạnh [^8] làm đức, thành bậc chánh giác tam giới sư. 
+Thật là hay trị ở cốt tuỷ. Chẳng phải là đạo thể của tam giáo có khác nhau, bởi mỗi môn công hạnh có sai biệt.
 
 ❓ Thế nào bảo rằng Tam giáo thể chỉ có một?
 
@@ -425,7 +438,7 @@ HỎI : Không hiểu không biết, thuận phép vua ?
 
 📣 Vui đấy là cái vui chơn thật, chớ chẳng phải niềm vui hoan lạc ở đời. Chỗ vui là thiên lý, chỗ biết là thiên mệnh. Vui với thiên lý biết thiên mệnh, không mừng không lo. Diệu tánh rõ ràng niềm vui khó nói.
 
-❓ Niềm vui “đan biều”(9) của Nhan Tử cùng với niềm vui của Khổng thánh có đồng nhau không?
+❓ Niềm vui “đan biều” [^9] của Nhan Tử cùng với niềm vui của Khổng thánh có đồng nhau không?
 
 📣 Nhan Hồi đắc được đạo của Khổng Tử được niềm vui không hoan hỉ không lo buồn, lý vốn đồng, nhưng mà họ Nhan còn nhiều bảo nhiệm.
 
@@ -457,7 +470,7 @@ HỎI : Không hiểu không biết, thuận phép vua ?
 
 📣 Như cái học của Nhan Tử, rồi sau trở về không xa, chỉ khoảng một thoắt tự nhiên trở về lý gốc.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG III - THÍCH, ĐẠO BIỆN LUẬN LẼ THIỆT HƠN [🔗](/books/ZenTreasures/kho-bau-nha-thien-c3)
 
@@ -731,7 +744,7 @@ Sư đáp: Lúc hỗn độn chưa phân, nguyên khí tự nhiên mập mờ kh
 
 📣 Tịnh như hang thần, động như mây bay, co duỗi không dấu vết, hiện ra hay lặng xuống cũng không tung tích. Chẳng mang áo quí quyền mặc áo nhơ, đi trong phi đạo để thành tựu chí đạo. Tuỳ loài dạy dỗ, cứu khắp hàm linh, tự đợi phúc và huệ đều đủ cả hai mới chứng Đại Giác Kim Tiên.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG IV - ĐỐN NGỘ TU CHỨNG [🔗](/books/ZenTreasures/kho-bau-nha-thien-c4)
 
@@ -889,7 +902,7 @@ Như người sanh ra ở đời, làm lành hoặc tạo ác lớn nhỏ chẳn
 
 ❓ Vọng tâm có biết (hữu trí) tại sao hư huyễn?
 
-📣 Vọng tâm như trăng đáy nước, có biết như hoa đốm giữa hư không, từ năng sở mà sanh ra, nhơn phân biệt mà có, rồi phát thức dụng nơi phù căn (10), thành ra cái vọng biết của đối cảnh. Nếu lìa tiền trần thì tâm nầy không có cái Thể. Nhơn cảnh khởi ra chiếu soi, nếu cảnh diện sự chiếu soi cũng mất. Tuỳ theo niệm mà sanh trần, niệm không thì trần cũng tàn. Nếu đem hình ảnh của việc nầy mà làm chơn thể của Phật thì có thể gọi là cái nhơn hư vọng, lại cũng thành cái quả đoạn diệt. Hư huyễn như vậy, đâu có thể là chơn thật?
+📣 Vọng tâm như trăng đáy nước, có biết như hoa đốm giữa hư không, từ năng sở mà sanh ra, nhơn phân biệt mà có, rồi phát thức dụng nơi phù căn [^10], thành ra cái vọng biết của đối cảnh. Nếu lìa tiền trần thì tâm nầy không có cái Thể. Nhơn cảnh khởi ra chiếu soi, nếu cảnh diện sự chiếu soi cũng mất. Tuỳ theo niệm mà sanh trần, niệm không thì trần cũng tàn. Nếu đem hình ảnh của việc nầy mà làm chơn thể của Phật thì có thể gọi là cái nhơn hư vọng, lại cũng thành cái quả đoạn diệt. Hư huyễn như vậy, đâu có thể là chơn thật?
 
 ❓ Thế nào là chơn tâm linh tri lấy tịch chiếu làm tâm?
 
@@ -983,7 +996,7 @@ Thượng Thơ Ôn Tháo hỏi ngài Khuê Phong rằng: “Người ngộ lý m
 
 📣 Đại thừa lý diệt, Tiểu thừa sự diệt. Diệt tận của đại thừa do đầy đủ năm uẩn, hai thức thứ bảy và thứ tám, hay dẫn oai nghi, định hay tán đều vô ngại, sự và lý đều chẳng bỏ. Hàng tiểu thừa tuy có sắc hành, tiền lục thức đã lặn mất, nhưng toàn thiếu oai nghi, định và tán chẳng viên mãn, bỏ sự nghiêng về tịch. Cho nên định chẳng đồng.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG V - GIÁO THỪA SAI BIỆT [🔗](/books/ZenTreasures/kho-bau-nha-thien-c5)
 
@@ -1291,7 +1304,7 @@ Nếu mê muội thì thức thứ tám khởi lên cái tên là báo tàng. Th
 
 📣 Người đời tạo đủ bốn tội trọng, mười điều ác, nghiệp nhơn đã cùng cực sẽ đọa vào tam đồ. Chợt sanh lòng hổ thẹn, phát đại dũng mãnh, gần bậc thiện tri thức, đốn ngộ bản tâm, những ác nghiệp từ bao kiếp trưcớ, và những tội lỗi hiện đời, như nước sôi làm chảy tuyết, như lửa cháy củi khô. Nghiệp hết phúc sanh, trí huệ phát hiện, trở lại đem những sở đắc của mình mà chỉ thẳng cho người sau, được đốn ngộ tâm tánh để cùng thành Chánh giác, gặt hái được phúc vô lượng, công đức còn hơn cát sông Hằng.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG VI - DUY TÂM TỊNH ĐỘ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c6)
 
@@ -1365,7 +1378,7 @@ Rõ ràng xem kỹ thảy đều không,
 Công đến tự nhiên toàn thể hiện,
 Xuân về như trước trăm hoa hồng.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG VII - 5 TÔNG PHÁI THIỀN [🔗](/books/ZenTreasures/kho-bau-nha-thien-c7)
 
@@ -2105,7 +2118,7 @@ Chan hòa chơn tế.
 
 Sư nói thâm: Giáo ngoại biệt truyền, Tông chỉ hướng thượng, quả như vậy ư? Nếu chỉ như thế có thể gọi là khẩu truyền, có gì kỳ đặc? Còn nếu chẳng như thế lại làm sao sanh? Hãy tham!
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG VIII -12 MA LÀM LOẠN CHÁNH ĐỊNH [🔗](/books/ZenTreasures/kho-bau-nha-thien-c8)
 
@@ -2157,7 +2170,7 @@ Phiền thì đuổi theo ngoại cảnh, não thì sanh ở nội tâm. Ngườ
 
 Ở trên đã được nên lên mấy điều ma sự, nếu muốn hiểu cho khúc chiết rõ ràng, nên xem kinh Lăng Nghiêm nói về ma nghiệt trong ngoài. Tất cả những dị kiến, mỗi mỗi đều rõ ràng, khi hạ thủ dụng công chẳng rơi vào lưới ma, mà chứng thẳng quả Phật.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG IX - DẪN CHỨNG LỜI KINH [🔗](/books/ZenTreasures/kho-bau-nha-thien-c9)
 
@@ -2443,7 +2456,7 @@ Cũng không phân biệt cùng khắp.
 
 📃 Pháp sư Phục Lễ nói: “Xét về ý nghĩa của nghiệp, thì nghiệp do tâm khởi, tâm là dụng của nghiệp, nghiệp dẫn tâm thọ sanh, tâm theo nghiệp tạo cảnh. Vậy thì nhơn nghiệp mà thọ thân, thân trở lại tạo nghiệp. Từ tâm tạo cảnh, cảnh lại sanh tâm. Như bóng theo hình mà ngay hay cong, như vang theo tiếng mà có lớn hay nhỏ”.
 
-***
+<hr class="blog-rule" />
 
 ## CHƯƠNG X - KHUYÊN IN BỐ THÍ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c10)
 
@@ -2482,7 +2495,7 @@ Tôi xem quyển Lục nầy không thôi, và lại đọc nó đề làm lời
 
 ### Thể Như Cư Sĩ Lưu Phương kính bạt.
 
-***
+<hr class="blog-rule" />
 
 ## LỜI SAU SÁCH
 
@@ -2507,6 +2520,6 @@ Chùa Phổ Độ, Thừa công (ông Thừa) (16) nhơn tham thiền ngộ đ�
 - Tháng Xuân Vương, năm thứ 34 đời cua Quang Tự
 - Đổng Hư Tử, tên quang Phất kính ghi (T.L 1908)
 
-***
+<hr class="blog-rule" />
 
 > Bài gốc: https://quangduc.com/a32603/van-phap-qui-tam-luc

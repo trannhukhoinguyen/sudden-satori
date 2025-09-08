@@ -1,11 +1,11 @@
 ---
-title: "Quy Sơn ĐỨNG HẦU BÁCH TRƯỢNG"
+title: "QUY SƠN ĐỨNG HẦU BÁCH TRƯỢNG"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: 
-  ""
+  "Ngài Bách Trượng nói, 'Tôi không ngại gì mà không nói cho ông, song chỉ sợ sau này làm chết hết con cháu mà thôi'"
 categories: ["Công án"]
-tags: ["BÍCH NHAM LỤC", "TS QUY SƠN LINH HỰU", "TS NGŨ PHONG", "TS VÂN NHAM ĐÀM THẠNH", "TS BÁCH TRƯỢNG HOÀI HẢI"]
+tags: ["BÍCH NHAM LỤC", "TS QUY SƠN LINH HỰU", "TS NGŨ PHONG THƯỜNG QUAN", "TS VÂN NHAM ĐÀM THẠNH", "TS BÁCH TRƯỢNG HOÀI HẢI"]
 ---
 
 ## THÙY
@@ -68,7 +68,7 @@ Trên biển có ba núi, mười châu lấy trăm năm làm một mùa xuân.
 
 Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm ngàn vạn cây hoa đồng thời rơi rụng, chỉ có rừng san hô là không điêu linh mà thôi, cũng phản chiếu ánh sáng với vầng tháo dương. Đúng vào lúc ấy, quả thật là kỳ đặc biết mấy! Tuyết Đậu dùng hình ảnh này để minh giải lời của Qui Sơn rằng, “Xin để hòa thượng nói vậy.”
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn: https://hoavouu.com/p16a12799/5/tac-thu-bay-muoi-qui-son-dung-hau-bach-truong
 >
@@ -78,7 +78,7 @@ Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm n
 >
 > ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
@@ -88,11 +88,11 @@ Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm n
 
 [^3]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">TS VÂN NHAM ĐÀM THẠNH</a>
 
-[^4]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-bach-truong-hoai-hai/" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^4]: ⭐️ <a href="https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>
 
 [^5]: ⭐️ <a href="https://quangduc.com/a72145/quyen-17-phap-he-cua-tao-dong-tong" target="_blank">TS LA SƠN ĐẠO NHÀN</a>
 
-
+<hr class="blog-rule" />
 
 [1] “Vô duyên từ” là thứ từ bi cao cả nhất mà chỉ có bậc Bồ Tát mới thực hành được. Đó là một thứ từ bi “ vô điều kiện,” chỉ có được sau khi Bồ Tát đã chứng ngộ được “tính không”, không còn thấy bất cứ một dị biệt nào giữa mình và tất cả các chúng sinh. Trong Đại Thừa Phật Giáo (Duy Thức Tông) gọi đó là sự chứng ngộ được “ Bình Đẳng Tính Trí”(samatà-jnàna)
 

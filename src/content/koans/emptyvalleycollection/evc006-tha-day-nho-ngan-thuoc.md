@@ -200,11 +200,11 @@ Tụng bản lão tụng:
 > 
 > Khó đem hữu hạn so vô hạn.
 
-***
+<hr class="blog-rule" />
 
 > ✨ Nguồn:  ...
 
-***
+<hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 

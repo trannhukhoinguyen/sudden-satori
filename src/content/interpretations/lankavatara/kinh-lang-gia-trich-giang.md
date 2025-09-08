@@ -57,7 +57,7 @@ Nhờ có bản kinh ấy mà ngày nay ta có thể hiểu được nhiều ý 
 
 Ở Việt-Nam ta, thì mãi đến năm Cảnh-hưng (1740-1786) đời vua Hiển-tông nhà Hậu Lê, có tăng Tuệ-Bảo sang Tàu thỉnh được bộ Lăng-ca đem về, rồi có Thích Thản-Thản Thiền-sư , nhờ có bà Lê-thịTrịnh thái phi phù trợ, mới khắc bản, in ra để ban truyền ở đời. Bản khắc ấy để lưu tại chùa Liên-phái phường Bạch-mai, gần Hà-nội.
 
-***
+<hr class="blog-rule" />
 
 # Kinh Lăng-ca
 
@@ -297,7 +297,7 @@ Phật nói: Ví như trong nước có bóng cây hiện ra. Cái bóng cây ki
 
 Đó là làm cho rõ cái ý nói vốn không có thánh trí khả đắc. Vì cái hiện thân của Phật như cái bóng ở trong nước. Nước ví cái tâm của chúng sanh. Cây ví Phật-Pháp-thân, bồ đề tâm, nguyện thân. - Nguyên Pháp-thân không phải là thân, chỉ thừa cái nguyện lực mà hiện ra. Cho nên tâm chúng sinh mà trong lặng, thì cái bóng bồ đề hiện ra trong tâm ấy (chúng sinh tâm nhược tịnh, bồ đề ảnh hiện trung). Thế là nói cái sở hiện ra, nguyên là chúng sinh vốn có pháp thân, có cái tự tâm hiện lượng. Lấy cảm ứng đạo giao, bất khả tư nghì, mà chỉ là một tâm, cho nên bóng và cây đều không phải. - Ngoại đạo không đạt cái duy tâm sở hiện, cho nên mới vọng chấp những kiến nhất với nhị.
 
-***
+<hr class="blog-rule" />
 
 Trong quyển thứ 2 kinh Lăng-ca Phật nói có bốn thứ thiền là: ngu phu sở hành thiền, quán sát nghĩa thiền, phan duyên như thiền, và như lai thiền.
 
@@ -315,7 +315,7 @@ Cái Như-Lai thanh tịnh thiền này chính là cái thiền của Tổ Đạ
 
 Tôi xem kinh Lăng-ca, thấy có nhiều ý nghĩa huyền diệu vô cùng, mà trước sau chỉ lấy nhất tâm làm tông, lấy tự giác thánh trí làm cứu cánh. Tuy không thể kể hết ra đây được, nhưng có ba điểm rất hệ trọng là tâm, thức và thiền. Những yếu điểm ất đều là then chốt trong Phật-Giáo Đại Thặng, cho nên tôi trích mấy đoạn, đem trình bày ra đây, để biểu hiện đại khái một cái học cực ký cao siêu. Thiết tưởng những nhà Phật học nên xem kỹ kinh này thì mới có thể hiểu được rõ cái căn nguyên Thiền Tông là một học phái rất cao sâu trong Phật-Giáo Đại Thặng.
 
-***
+<hr class="blog-rule" />
 
 ## Hết
 
