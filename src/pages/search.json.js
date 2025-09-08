@@ -10,9 +10,7 @@ export async function GET() {
         for (const path in files) {
             const post = await files[path]();
             const url = path
-                // .replace("../content", "")
-                // .replace(/\.mdx?$/, ""); // giữ /blogs/abc dạng chuẩn
-                .replace(`../content/${name}/`, "")
+                .replace(`../content/`, "")
                 .replace(/\.(md|mdx)$/, "");
 
             searchData.push({
