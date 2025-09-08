@@ -3,10 +3,12 @@ import PostReadingTime from "./PostReadingTime.astro";
 
 const { post, locales = "vi-VN" } = Astro.props;
 const { frontmatter } = post as any;
+
+const TODAY = () => new Date();
 ---
 
-<time datetime={frontmatter.date}>
-    {new Date(frontmatter.date).toLocaleDateString(locales, {
+<time datetime={TODAY().toISOString()}>
+    {TODAY().toLocaleDateString(locales, {
         year: "numeric",
         month: "long",
         day: "numeric",

@@ -37,7 +37,7 @@ const globMapLazy = {
   /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}'),
 
-  masters: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
+  masters: import.meta.glob('../content/masters/**/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}'),
 };
