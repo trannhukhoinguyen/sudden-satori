@@ -26,8 +26,6 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
             postsGrouped: posts.filter((post: any) => post.frontmatter.tags[0] === group),
     }))
     .filter((g) => g.postsGrouped.length > 0); // bỏ group không có bài;
-
-
 ---
 
 {
@@ -57,8 +55,11 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
 
                     <!-- Image Section -->
                     <section class="image-area">
-                        <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title}
-                                   height="100px"/>
+                        <!--<PostImage -->
+                        <!--    imageUrl={post.frontmatter.image} -->
+                        <!--    imageAlt={post.frontmatter.title}-->
+                        <!--    height="100px"-->
+                        <!--/>-->
                     </section>
 
                     <div class="boxed-post-meta">

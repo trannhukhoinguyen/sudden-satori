@@ -57,21 +57,13 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 
 <!-- Post List Section -->
     {posts.length > 0 ? (
-        ICONS_MAP[collection] && collection !== 'masters'
+        ICONS_MAP[collection]
             ? <BoxedPostList
                 posts={posts}
                 page={page}
-                totalPages={totalPages}
                 icons={ICONS_MAP[collection]}
             />
-            : collection === 'masters'
-                ? <MasterBoxedPostList
-                    posts={posts}
-                    page={page}
-                    totalPages={totalPages}
-                    icons={ICONS_MAP[collection]}
-                />
-                : <OtherPostList posts={posts} page={page} />
+            : <OtherPostList posts={posts} page={page} />
 
          <!-- Pagination Section -->
         <Pagination page={pageNum} totalPages={totalPages} category={collection} />
