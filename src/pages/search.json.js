@@ -10,7 +10,7 @@ export async function GET() {
         for (const path in files) {
             const post = await files[path]();
             const url = path
-                .replace(`../content/`, "")
+                .replace(`../content/${name}`, name)
                 .replace(/\.(md|mdx)$/, "");
 
             searchData.push({
