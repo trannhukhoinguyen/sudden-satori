@@ -12,7 +12,8 @@ export async function GET() {
             const url = path
                 // .replace("../content", "")
                 // .replace(/\.mdx?$/, ""); // giữ /blogs/abc dạng chuẩn
-                .split("/").pop()?.replace(/\.(md|mdx)$/, "")
+                .replace(`../content/${name}/`, "")
+                .replace(/\.(md|mdx)$/, "");
 
             searchData.push({
                 title: post.frontmatter?.title || "Untitled",
