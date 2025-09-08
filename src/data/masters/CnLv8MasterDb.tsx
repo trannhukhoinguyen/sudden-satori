@@ -177,7 +177,12 @@ const CnLv8MasterDb = [
     successors: ['Baoen Qicong'],
     disciples: ['Baoen Qicong'],
     image: '/images/avatar.png',
-    reference: ['https://pl.wikipedia.org/wiki/Mingzhao_Deqian', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html', 'https://tangthuphathoc.net/thuat_ngu/minh-chieu-duc-khiem-tu-dien-dao-uyen', 'https://terebess.hu/zen/mesterek/mingzhao.pdf', 'https://terebess.hu/zen/mesterek/MingzhaoDeqian.html'],
+    reference: ['https://pl.wikipedia.org/wiki/Mingzhao_Deqian',
+      'https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html',
+      'https://tangthuphathoc.net/thuat_ngu/minh-chieu-duc-khiem-tu-dien-dao-uyen',
+      'https://terebess.hu/zen/mesterek/mingzhao.pdf',
+      'https://terebess.hu/zen/mesterek/MingzhaoDeqian.html'
+    ],
   },
   {
     id: '41.8.11',

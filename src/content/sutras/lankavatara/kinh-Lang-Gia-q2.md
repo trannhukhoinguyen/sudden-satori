@@ -1,13 +1,15 @@
 ---
 title: "Kinh Lăng Già - quyển II"
+description: ""
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-videoStart: "1071"
+videoStart: "4582"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Gia.pdf"
 ---
 
-## PHẨM NHẤT THIẾT PHẬT NGỮ TÂM - QUYỂN THỨ NHÌ
+## PHẨM NHẤT THIẾT PHẬT NGỮ TÂM - PHẦN II - QUYỂN THỨ NHÌ
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng :
 
@@ -23,10 +25,13 @@ pdfUrl: "/pdfs/kinh-Lang-Gia.pdf"
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng :
 
-Nhơn Ngã và ngũ ấm,
-Nhân duyên với vi trần.
-Tự tánh vốn tự tại,
-Duy tâm vọng phân biệt.
+> Nhơn Ngã và ngũ ấm,
+> 
+> Nhân duyên với vi trần.
+> 
+> Tự tánh vốn tự tại,
+> 
+> Duy tâm vọng phân biệt.
 
 ### Khi ấy, Đại Huệ Bồ Tát quán chúng sanh đời vị lai, lại thỉnh Thế Tôn :
 
@@ -750,7 +755,9 @@ Nên nói lìa tự tánh.
 
 - Đại Huệ! Câu sanh là THÂN KIẾN của Tu Đà Hoàn, chấp có tự thân tha thân... Vì có tướng bốn ấm Vô Sắc, có năng tạo và sở tạo lần lượt làm nhơn tướng mà sanh ra sắc. Vì đại chủng và sắc chẳng phải một, nên Tu Đà Hoàn quán pháp hữu và vô chẳng hiện thì thân kiến liền đoạn. Thân kiến đoạn thì tham dục chẳng sanh, ấy gọi là tướng thân kiến hết.
 
-- Đại Huệ! **TƯỚNG NGHI là tướng thấy được các Pháp Thiện** [^7] và hai thứ vọng tưởng THÂN KIẾN ở trên đã dứt, thì pháp nghi chẳng sanh. Không ở nơi khác khởi kiến chấp nghi bậc Sư là tịnh hay là bất tịnh thì nghi Sư (Thầy) dứt. Đến đây, nghi lý, nghi pháp, nghi Sư đều hết, ấy gọi là tướng Nghi của Tu Đà Hoàn đoạn dứt.
+- Đại Huệ! **TƯỚNG NGHI là tướng thấy được các Pháp Thiện** [^7] và hai thứ vọng tưởng THÂN KIẾN ở trên đã dứt, thì pháp nghi chẳng sanh. Không ở nơi khác khởi kiến chấp nghi bậc Sư là tịnh hay là bất tịnh thì nghi Sư (Thầy) dứt. 
+
+- Đến đây, nghi lý, nghi pháp, nghi Sư đều hết, ấy gọi là tướng Nghi của Tu Đà Hoàn đoạn dứt.
 
 - Đại Huệ! Thế nào là **GIỚI THỦ KIẾN**? Tu Đà Hoàn chẳng thủ giới, vì thấy rõ tướng khổ nơi vị lai thọ sanh nên chẳng thủ.
 

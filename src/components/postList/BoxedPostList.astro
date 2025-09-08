@@ -6,14 +6,9 @@ import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
 
 const {
-        posts,
-        icons = {
-            'Giới thiệu': '✨',
-            'Chưa phân loại': '💫',
-            'categorized': '🔥',
-        },
-        page,
-        totalPages,
+    posts,
+    icons,
+    page,
 } = Astro.props;
 
 const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
@@ -23,51 +18,57 @@ const groupsSorted = [
     groupsBySpecialTag.find((group: string) => group === 'Chưa phân loại'),
     ...groupsBySpecialTag.filter((group: string) => !['Giới thiệu', 'Chưa phân loại'].includes(group)),
 ];
-const postsGroupedBySpecialTag = groupsSorted
-    .slice((page-1)*config.postsPerPage, page*config.postsPerPage)
+
+const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
     ?.filter((group: string | undefined): group is string => !!group) // bỏ undefined
     ?.map((group: string) => ({
             group: group,
             postsGrouped: posts.filter((post: any) => post.frontmatter.tags[0] === group),
     }))
     .filter((g) => g.postsGrouped.length > 0); // bỏ group không có bài;
+
+
 ---
 
 {
     posts.length > 0 ? (
-        postsGroupedBySpecialTag?.map((postGrouped: any) => <h2 class="boxed-post-list-title-medium">
+        postsGroupedBySpecialTag?.map((postGrouped: any) => {
+
+            // Page & TotalPages
+            const totalPagesBySpecialTag = Math.ceil(postGrouped?.postsGrouped?.length / config.postsPerPage);
+
+            return (<h2 class="boxed-post-list-title-medium">
             {
-                    ['Giới thiệu', 'Chưa phân loại'].includes(postGrouped.group)
-                        ? icons[postGrouped.group]
-                        : icons['categorized']
+                ['Giới thiệu', 'Chưa phân loại'].includes(postGrouped.group)
+                    ? icons[postGrouped.group]
+                    : icons['categorized']
             }
-                {postGrouped.group}
-                </h2>
-                <div class="boxed-post-list">
-                    {postGrouped.postsGrouped?.map((post: any) => {
-                        return (
-                            <article class="boxed-post-card">
-                                <h4 class="boxed-post-title">
-                                    <a href={`/${post.frontmatter.type}/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
-                                        {post.frontmatter.title}
-                                    </a>
-                                </h4>
+            {postGrouped.group}
+        </h2>
+        <div class="boxed-post-list">
+            {postGrouped.postsGrouped
+                ?.slice((page-1)*config.postsPerPage, page*config.postsPerPage)
+                ?.map((post: any) => <article class="boxed-post-card">
+                    <h4 class="boxed-post-title">
+                        <a href={`/${post.frontmatter.type}/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
+                            {post.frontmatter.title}
+                        </a>
+                    </h4>
 
-                                <!-- Image Section -->
-                                <section class="image-area">
-                                    <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title} height="100px" />
-                                </section>
+                    <!-- Image Section -->
+                    <section class="image-area">
+                        <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title}
+                                   height="100px"/>
+                    </section>
 
-                                <div class="boxed-post-meta">
-                                    <PostExcerpt frontmatter={post.frontmatter} />
-                                </div>
-                            </article>
-                        )
-                    })}
-                </div>
+                    <div class="boxed-post-meta">
+                        <PostExcerpt frontmatter={post.frontmatter}/>
+                    </div>
+                </article>)}
+        </div>
 
-            <!-- Pagination Section -->
-        <Pagination page={page} totalPages={totalPages} category={posts[0].frontmatter.type} />
+                <!-- Pagination Section -->
+        <Pagination page={page} totalPages={totalPagesBySpecialTag} category={posts[0].frontmatter.type}/>)}
        )
 
     ) : <p>Chưa có bài viết {categoryName} nào.</p>

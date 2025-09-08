@@ -1,7 +1,9 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển II"
+description: ""
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
-videoStart: "1071"
+videoStart: "2328"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"

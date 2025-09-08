@@ -1,7 +1,9 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển VII"
+description: ""
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
-videoStart: "1071"
+videoStart: "19084"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"

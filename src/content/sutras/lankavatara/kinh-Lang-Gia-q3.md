@@ -1,13 +1,15 @@
 ---
 title: "Kinh Lăng Già - quyển III"
+description: ""
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-videoStart: "1071"
+videoStart: "10054"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Gia.pdf"
 ---
 
-## QUYỂN THỨ BA
+## LĂNG GIÀ LĂNG GÌA A BẠT ĐA LA BỬU KINH - QUYỂN THỨ BA
 
 ### Khi ấy, Thế Tôn bảo Đại Huệ bồ tát rằng:
 

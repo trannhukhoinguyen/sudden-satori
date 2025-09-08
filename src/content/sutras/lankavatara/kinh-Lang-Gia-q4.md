@@ -1,13 +1,15 @@
 ---
 title: "Kinh Lăng Già - quyển IV"
+description: ""
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-videoStart: "1071"
+videoStart: "14450"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/kinh-Lang-Gia.pdf"
 ---
 
-## QUYỂN BỐN
+## LĂNG GIÀ LĂNG GÌA A BẠT ĐA LA BỬU KINH - QUYỂN BỐN
 
 ### Khi ấy, Đại Huệ Bồ Tát bạch Phật rằng :
 
