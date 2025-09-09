@@ -151,7 +151,7 @@ const TAG_MAP: Record<
 > = {};
 
 allPosts.forEach((post) => {
-  const tags: string[] = post.frontmatter.tags || [];
+  const tags: string[] = post.frontmatter?.tags || [];
   tags.forEach((tag) => {
     if (!TAG_MAP[tag]) {
       TAG_MAP[tag] = { posts: [], flatTags: [] };

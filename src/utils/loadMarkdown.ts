@@ -17,7 +17,7 @@ export function loadPosts(category: string) {
   const tagsMap: Map<string, any[]> = new Map();
   sortedPosts.forEach((post: any) => {
     if (post.frontmatter?.tags) {
-      post.frontmatter.tags.forEach((tag: string) => {
+      post.frontmatter?.tags.forEach((tag: string) => {
         if (!tagsMap.has(tag)) tagsMap.set(tag, []);
         tagsMap.get(tag)!.push(post);
       });
