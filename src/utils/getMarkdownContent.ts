@@ -49,7 +49,7 @@ const collections = {
   books: "books",
   practices: "practices",
 
-  masters: "speeches",
+  masters: "masters",
   speeches: "speeches",
   faqs: "faqs",
 
