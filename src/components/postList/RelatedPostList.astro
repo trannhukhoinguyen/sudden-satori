@@ -9,7 +9,7 @@ const base = import.meta.env.BASE_URL;
 
 const posts = Object.entries(CONTENT_MAP)
     .flatMap(([collection, data]) => data.posts)
-    .filter(post => post?.frontmatter.tags.every((tag: string) => tags?.includes(tag)))
+    .filter(post => post?.frontmatter.tags?.every((tag: string) => tags?.includes(tag)))
     .filter(post => post?.frontmatter.title !== notIncludedPostTitle);
 
 const categoryName = config.categoryNames[type as keyof typeof config.categoryNames] || type;
