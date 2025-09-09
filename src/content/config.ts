@@ -153,7 +153,7 @@ const speeches  = defineCollection({
 const masters  = defineCollection({
   loader: glob({ pattern: '**/[^_]*.{md,mdx}', base: "./src/content/masters" }),
   schema: z.object({
-    type: z.string().default('speeches'),
+    type: z.string().default('masters'),
     schemaType: z.string().default('Person'),
     title: z.string().default('Thiền sư'),
     description: z.string().optional(),
