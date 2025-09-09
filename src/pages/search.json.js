@@ -9,9 +9,9 @@ export async function GET() {
 
         for (const path in files) {
             const post = await files[path]();
-            const url = path
-                .replace(`../content/${name}/*`, name)
-                .replace(/\.(md|mdx)$/, "");
+            const url = `${name}/${path
+                .replace(/^.*[\\/]/, "")
+                .replace(/\.(md|mdx)$/, "")}`;
 
             searchData.push({
                 title: post.frontmatter?.title || "Untitled",
