@@ -6,7 +6,7 @@ videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "15857"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]
-pdfUrl: "/pdfs/kinh-Lang-Nghiem.pdf"
+pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 ---
 
 # KINH THỦ LĂNG NGHIÊM

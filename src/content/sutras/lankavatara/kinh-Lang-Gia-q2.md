@@ -6,7 +6,7 @@ videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 videoStart: "4582"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
-pdfUrl: "/pdfs/kinh-Lang-Gia.pdf"
+pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
 ---
 
 ## PHẨM NHẤT THIẾT PHẬT NGỮ TÂM - PHẦN II - QUYỂN THỨ NHÌ

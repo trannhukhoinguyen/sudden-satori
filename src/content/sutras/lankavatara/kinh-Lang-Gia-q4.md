@@ -6,7 +6,7 @@ videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 videoStart: "14450"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
-pdfUrl: "/pdfs/kinh-Lang-Gia.pdf"
+pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
 ---
 
 ## LĂNG GIÀ LĂNG GÌA A BẠT ĐA LA BỬU KINH - QUYỂN BỐN
