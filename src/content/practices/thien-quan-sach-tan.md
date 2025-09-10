@@ -3,8 +3,8 @@ title: "Thiền Quan Sách Tấn"
 description: ""
 image: "/images/koans/great-wave.webp"
 excerpt: "Thiền lại có cửa (quan) sao? ...."
-categories: ["Luận"]
-tags: ["Thực hành"]
+categories: ["Thực hành", "Ngữ lục"]
+tags: ["Ngữ lục", "Thực hành", "TS VÂN THÊ CHÂU HOẲNG"]
 author: "Vân Thê Châu Hoằng"
 pdfUrl: "/pdfs/thien-quan-sach-tan.pdf"
 ---
@@ -578,4 +578,4 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ ...
+[^1]: ⭐️ <a href="/masters/Yunqi-Zhuhong" target="_blank">TS VÂN THÊ CHÂU HOẲNG</a>
