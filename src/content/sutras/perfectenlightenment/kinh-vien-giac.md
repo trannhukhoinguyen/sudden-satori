@@ -1,7 +1,7 @@
 ---
 title: "Kinh Viên Giác"
-description: ""excerpt: |
-    ""
+description: ""
+excerpt: |
 videoUrl: "https://www.youtube.com/watch?v=Hn5d-QS9B8o"
 categories: ["Kinh"]
 tags: ["Kinh Viên Giác", "HT Thích Duy Lực"]

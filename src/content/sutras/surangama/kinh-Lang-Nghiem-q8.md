@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển VIII"
-description: ""excerpt: |
-    ""
+description: ""
+excerpt: |
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "20812"
 categories: ["Kinh"]

@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển VI"
-description: ""excerpt: |
-    ""
+description: ""
+excerpt: |
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "15857"
 categories: ["Kinh"]

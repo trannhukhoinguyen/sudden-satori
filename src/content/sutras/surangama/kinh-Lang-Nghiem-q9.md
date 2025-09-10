@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển IX"
-description: ""excerpt: |
-    ""
+description: ""
+excerpt: |
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "23838"
 categories: ["Kinh"]
