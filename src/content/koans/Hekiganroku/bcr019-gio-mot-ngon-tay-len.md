@@ -2,8 +2,7 @@
 title: NGÓN TAY THIỀN CỦA CÂU CHI
 description: ''
 image: /images/koans/great-wave.webp
-excerpt: |
-  ""
+excerpt: ""
 categories:
   - Công án
 tags:

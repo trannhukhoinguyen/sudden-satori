@@ -2,8 +2,7 @@
 title: NGƯỜI TRONG CỎ CỦA KÍNH THANH
 description: ''
 image: /images/koans/great-wave.webp
-excerpt: |
-  ""
+excerpt: ""
 categories:
   - Công án
 tags:

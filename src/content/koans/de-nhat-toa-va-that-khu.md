@@ -1,9 +1,9 @@
 ---
-title: CỬU PHONG VÀ ĐỆ NHẤT TÒA
-meta_title: Cửu Phong và Đệ Nhất Tòa – Công án Tổ Sư Thiền (Thiền Tông)
-description: Công án Thiền nổi tiếng Cửu Phong và Đệ Nhất Tòa, khai mở ý nghĩa sâu xa trong truyền thống Tổ Sư Thiền (Thiền Tông)
+title: 'CỬU PHONG VÀ ĐỆ NHẤT TÒA'
+meta_title: 'Cửu Phong và Đệ Nhất Tòa – Công án Tổ Sư Thiền (Thiền Tông)'
+description: 'Công án Thiền nổi tiếng Cửu Phong và Đệ Nhất Tòa, khai mở ý nghĩa sâu xa trong truyền thống Tổ Sư Thiền (Thiền Tông)'
+excerpt: 'Cửu Phong là thị giả của Thạch Sương. Khi Thạch Sương mất, chúng Tăng trong tự viện họp và quyết định chọn vị Đệ Nhất Tòa làm trụ trì mới.'
 image: /images/koans/great-wave.webp
-excerpt: Cửu Phong là thị giả của Thạch Sương. Khi Thạch Sương mất, chúng Tăng trong tự viện họp và quyết định chọn vị Đệ Nhất Tòa làm trụ trì mới.
 categories:
   - Công án
 tags:
