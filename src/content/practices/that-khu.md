@@ -1,10 +1,16 @@
 ---
 title: "THẠCH SƯƠNG THẤT KHỨ"
+meta_title: "THẠCH SƯƠNG THẤT KHỨ"
 description: ""
-image: "/images/koans/great-wave.webp"
 excerpt: "Thiền lại có cửa (quan) sao? ...."
-categories: ["Luận"]
-tags: ["Thực hành", "TS THẠCH SƯƠNG KHÁNH CHƯ"]
+categories:
+  - Thực hành
+  - Ngữ lục
+tags:
+  - Thực hành
+  - Ngữ lục
+  - TS THẠCH SƯƠNG KHÁNH CHƯ
+image: /images/koans/great-wave.webp
 author: "Thạch Sương Khánh Chư"
 ---
 

@@ -1,10 +1,15 @@
 ---
 title: "THÔ TÂM DỤNG & MIÊN MẬT DỤNG"
 description: ""
-image: "/images/koans/great-wave.webp"
 excerpt: "Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất...."
-categories: ["Luận"]
-tags: ["Thực hành"]
+categories:
+  - Thực hành
+  - Ngữ lục
+tags:
+  - Thực hành
+  - Ngữ lục
+  - TS LAI QUẢ
+image: /images/koans/great-wave.webp
 author: "Thiền Sư Lai Quả"
 ---
 

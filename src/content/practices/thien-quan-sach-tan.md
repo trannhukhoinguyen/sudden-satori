@@ -1,11 +1,17 @@
 ---
 title: "Thiền Quan Sách Tấn"
+meta_title: "Thiền Quan Sách Tấn"
 description: ""
-image: "/images/koans/great-wave.webp"
 excerpt: "Thiền lại có cửa (quan) sao? ...."
-categories: ["Thực hành", "Ngữ lục"]
-tags: ["Ngữ lục", "Thực hành", "TS VÂN THÊ CHÂU HOẲNG"]
+categories:
+  - Thực hành
+  - Ngữ lục
+tags:
+  - Thực hành
+  - Ngữ lục
+  - TS VÂN THÊ CHÂU HOẲNG
 author: "Vân Thê Châu Hoằng"
+image: /images/koans/great-wave.webp
 pdfUrl: "/pdfs/thien-quan-sach-tan.pdf"
 ---
 
