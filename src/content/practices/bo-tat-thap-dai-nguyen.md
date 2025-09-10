@@ -1,11 +1,15 @@
 ---
 title: "BỒ TÁT THẬP ĐẠI NGUYỆN"
-description: ""
-image: "/images/koans/great-wave.webp"
+meta_title: "THẬP ĐẠI NGUYỆN CỦA BỒ TÁT PHỔ HIỀN"
+description: "Thực hành theo THẬP ĐẠI NGUYỆN của BỒ TÁT PHỔ HIỀN"
 excerpt: "Phổ Hiền Bồ-tát nói với tất cả các Bồ-tát tụ họp ở đó: Công đức của Như Lai..."
-categories: ["Kinh"]
-tags: ["Thực hành"]
-author: ""
+image: "/images/koans/great-wave.webp"
+categories: 
+  - Thực hành
+tags:
+  - ĐẠI NGUYỆN
+  - BỒ TÁT PHỔ HIỀN
+author: "BỒ TÁT PHỔ HIỀN"
 ---
 
 Sau khi tán các công đức của Như Lai, Phổ Hiền Bồ-tát nói với tất cả các Bồ-tát tụ họp ở đó kể cả Sudhana:

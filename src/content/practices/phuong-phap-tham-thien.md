@@ -1,12 +1,17 @@
 ---
 title: "PHƯƠNG PHÁP THAM THIỀN"
+meta_title: "PHƯƠNG PHÁP THAM THIỀN"
 description: ""
-image: "/images/koans/great-wave.webp"
 excerpt: "...."
-categories: ["Thực hành"]
-tags: ["Thiền Tập", "HƯ VÂN LÃO HÒA THƯỢNG"]
-author: "HƯ VÂN LÃO HÒA THƯỢNG"
-pdfUrl: "/pdfs/phuong-phap-tham-thien-ht-Hu-Van.pdf"
+categories:
+  - Thực hành
+tags:
+  - HƯỚNG DẪN
+  - THAM THIỀN
+  - HT HƯ VÂN
+author: "HT HƯ VÂN"
+image: "/images/koans/great-wave.webp"
+pdfUrl: "/pdfs/practices/phuong-phap-tham-thien.pdf"
 ---
 
 <hr class="blog-rule" />

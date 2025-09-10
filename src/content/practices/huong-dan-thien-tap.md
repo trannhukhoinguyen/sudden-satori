@@ -1,11 +1,16 @@
 ---
 title: "HƯỚNG DẪN THIỀN TẬP"
-description: "Hòa Thượng Tuyên Hóa"
-image: "/images/koans/great-wave.webp"
+meta_title: "HƯỚNG DẪN THIỀN TẬP"
+description: ""
 excerpt: "Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. ...."
-categories: ["Luận"]
-tags: ["Thực hành"]
-author: "Thạch Sương Khánh Chư"
+image: "/images/koans/great-wave.webp"
+categories: 
+  - Thực hành
+tags: 
+  - HƯỚNG DẪN
+  - THAM THIỀN
+  - HT TUYÊN HÓA
+author: "HÒA THƯỢNG TUYÊN HÓA"
 ---
 
 ## SƠ CƠ TẬP THIỀN

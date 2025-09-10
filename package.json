@@ -44,7 +44,6 @@
     "astro": "^5.9.1",
     "astro-auto-import": "^0.4.4",
     "fuse.js": "^7.1.0",
-    "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0"
   },
   "devDependencies": {
