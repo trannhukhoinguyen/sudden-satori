@@ -2,8 +2,7 @@
 title: "THẠCH SƯƠNG THẤT KHỨ"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt:
-  "Thiền lại có cửa (quan) sao? ...."
+excerpt: "Thiền lại có cửa (quan) sao? ...."
 categories: ["Luận"]
 tags: ["Thực hành", "TS THẠCH SƯƠNG KHÁNH CHƯ"]
 author: "Thạch Sương Khánh Chư"
@@ -11,28 +10,27 @@ author: "Thạch Sương Khánh Chư"
 
 ## 🧭 PHÂN TÍCH CHI TIẾT & LIÊN HỆ PHƯƠNG PHÁP GIỮ NGHI TÌNH – KHÁN THOẠI ĐẦU
 
-| **Bậc** | **Khứ**                                                               | **Giải thích**                                                                                                                 | **Liên hệ công phu khán thoại đầu (giữ nghi tình)**                                                                                          |
-|-----|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.  | HƯU KHỨ (休去) – “Dừng lại”                                         | Đình chỉ mọi hành vi tạo tác, cả thân lẫn tâm. “Không làm gì cả”, buông xả toàn bộ thô động ban đầu.                      | Bắt đầu công phu: ngưng phan duyên, gác niệm thiện ác, giữ một việc: khởi nghi “Trước khi cha mẹ chưa sinh, ta là ai?”...                   |
-| 2.  | HIẾT KHỨ (歇去) – “Dứt nghỉ”                                        | Dứt tất cả phân biệt nhị nguyên: thân-tâm, năng-sở, vọng-chân.                                                            | Khi nghi tình khởi, chỉ nghi không biết, mọi hiểu biết, lý luận dứt sạch. Không bàn đúng sai, không theo cảnh giới khởi hiện.            |
-| 3.  | LÃNH TƯU TƯU ĐỊA KHỨ (冷悠悠地去) – “Mát rượi đi”                   | Vượt qua nhiệt não mê-ngộ, phàm-thánh, vào cảnh giới lặng mát như làn sương – an nhiên tự tại.                             | Nghi tình trụ vững, tâm không còn dao động vì “mình đúng”, “đang tu”, “sẽ đắc đạo”. Chỉ nghi thôi, không phân tích kết quả.              |
-| 4.  | NHẤT NIỆM VẠN NIÊN KHỨ (一念萬年去) – “Một niệm ngàn năm”           | Một niệm nghi vững chắc bất động, kéo dài như vạn năm, không gián đoạn.                                                    | Trụ nghi sâu sắc, không gián đoạn, nghi mà không biết mình nghi, tâm như khối đá, vọng niệm tắt hẳn mà không cưỡng ép.                   |
-| 5.  | HÀN KHÔI KHÔ MỘC KHỨ (寒灰枯木去) – “Tro lạnh gỗ khô”               | Không còn một mảy may phân biệt. Giống tro lạnh, cây khô – không sanh, không vọng, không loạn.                             | Đây là lúc nghi tình thuần nhất, mọi niệm không sinh, nhưng không rơi vào vô ký vì nghi vẫn tồn tại – như “lửa trong tro”.               |
-| 6.  | CỔ MIẾU HƯƠNG LƯ KHỨ (古廟香爐去) – “Lò hương trong miếu cổ”        | Hết tất cả chấp thủ cũ kỹ, giống như hương trong lò cũ đã tàn. Chấp tu, chấp chứng, chấp tịnh cũng sạch.                   | Nghi tình tự tiêu sạch cả người khán thoại đầu, lúc này "không còn người tu, không còn pháp tu" – vẫn giữ nghi, nhưng trong “vô sở trụ”. |
-| 7.  | NHẤT ĐIỀU BẠCH LUYỆN KHỨ (一條白練去) – “Tấm lụa trắng thuần khiết” | Rốt ráo trong sáng tuyệt đối, tâm như lụa trắng không vết mực. Không chấp Chính (chân như), không chấp Thiên (huyễn cảnh). | Nghi tình phá toang cửa vô minh, ngộ đạo, thấy rõ chân tâm vô nhiễm, tự tánh hiện tiền, không còn sở tri chướng, lý chướng.              |
+| **Bậc** | **Khứ**                                                             | **Giải thích**                                                                                                             | **Liên hệ công phu khán thoại đầu (giữ nghi tình)**                                                                                      |
+| ------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.      | HƯU KHỨ (休去) – “Dừng lại”                                         | Đình chỉ mọi hành vi tạo tác, cả thân lẫn tâm. “Không làm gì cả”, buông xả toàn bộ thô động ban đầu.                       | Bắt đầu công phu: ngưng phan duyên, gác niệm thiện ác, giữ một việc: khởi nghi “Trước khi cha mẹ chưa sinh, ta là ai?”...                |
+| 2.      | HIẾT KHỨ (歇去) – “Dứt nghỉ”                                        | Dứt tất cả phân biệt nhị nguyên: thân-tâm, năng-sở, vọng-chân.                                                             | Khi nghi tình khởi, chỉ nghi không biết, mọi hiểu biết, lý luận dứt sạch. Không bàn đúng sai, không theo cảnh giới khởi hiện.            |
+| 3.      | LÃNH TƯU TƯU ĐỊA KHỨ (冷悠悠地去) – “Mát rượi đi”                   | Vượt qua nhiệt não mê-ngộ, phàm-thánh, vào cảnh giới lặng mát như làn sương – an nhiên tự tại.                             | Nghi tình trụ vững, tâm không còn dao động vì “mình đúng”, “đang tu”, “sẽ đắc đạo”. Chỉ nghi thôi, không phân tích kết quả.              |
+| 4.      | NHẤT NIỆM VẠN NIÊN KHỨ (一念萬年去) – “Một niệm ngàn năm”           | Một niệm nghi vững chắc bất động, kéo dài như vạn năm, không gián đoạn.                                                    | Trụ nghi sâu sắc, không gián đoạn, nghi mà không biết mình nghi, tâm như khối đá, vọng niệm tắt hẳn mà không cưỡng ép.                   |
+| 5.      | HÀN KHÔI KHÔ MỘC KHỨ (寒灰枯木去) – “Tro lạnh gỗ khô”               | Không còn một mảy may phân biệt. Giống tro lạnh, cây khô – không sanh, không vọng, không loạn.                             | Đây là lúc nghi tình thuần nhất, mọi niệm không sinh, nhưng không rơi vào vô ký vì nghi vẫn tồn tại – như “lửa trong tro”.               |
+| 6.      | CỔ MIẾU HƯƠNG LƯ KHỨ (古廟香爐去) – “Lò hương trong miếu cổ”        | Hết tất cả chấp thủ cũ kỹ, giống như hương trong lò cũ đã tàn. Chấp tu, chấp chứng, chấp tịnh cũng sạch.                   | Nghi tình tự tiêu sạch cả người khán thoại đầu, lúc này "không còn người tu, không còn pháp tu" – vẫn giữ nghi, nhưng trong “vô sở trụ”. |
+| 7.      | NHẤT ĐIỀU BẠCH LUYỆN KHỨ (一條白練去) – “Tấm lụa trắng thuần khiết” | Rốt ráo trong sáng tuyệt đối, tâm như lụa trắng không vết mực. Không chấp Chính (chân như), không chấp Thiên (huyễn cảnh). | Nghi tình phá toang cửa vô minh, ngộ đạo, thấy rõ chân tâm vô nhiễm, tự tánh hiện tiền, không còn sở tri chướng, lý chướng.              |
 
 ## PHÂN TÍCH CHI TIẾT “THẤT KHỨ” (BẢY BỎ) – LỘ TRÌNH TU TẬP
 
 | **Thứ tự** | **Thất Khứ**                                                    | **Ý nghĩa thiền quán sâu**                                                                                            | **Liên hệ khán thoại đầu**                                                                                                 |
-|------------|-----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 1️⃣          | Hưu khứ (休去) – Ngừng mọi hành vi                             | Chấm dứt ngoại duyên, sống đời "thiểu dục tri túc", nội tâm hướng về một điểm. Không tạp loạn, không đa sự.           | Căn bản công phu: bỏ tất cả, chỉ giữ một nghi – “Trước khi cha mẹ chưa sinh, ta là ai?”...          |
-| 2️⃣          | Hiết khứ (歇去) – Dứt sạch kiến giải                           | Bỏ mọi tư kiến, không còn lấy giáo lý làm điểm tựa, dứt năng sở, không còn thấy “ta hiểu, ta biết”.                   | Khi nghi tình sâu, vọng tưởng phân biệt không xen vào được nữa. Cảm nhận dần dần "chưa từng biết gì cả" là thật.           |
-| 3️⃣          | Lãnh tưu tưu địa khứ (冷湫湫地去) – Mát lạnh toàn thân tâm      | Không còn động vì mê ngộ, được mất, chứng đắc. Tâm rỗng rang, tĩnh lặng, không còn chấp thủ.                          | Nghi tình vẫn giữ, nhưng không còn căng, trở thành “lạnh” – tức trầm ổn, vững chắc, như giếng sâu không đáy.               |
-| 4️⃣          | Nhất niệm vạn niên khứ (一念萬年去) – Một niệm giữ trọn vạn năm | Duy trì nghi tình không gián đoạn, như một mạch sống. Tuy có hoạt động nhưng tâm không rời nghi tình.                 | Chính là bí quyết miên mật công phu: dù đi đứng nằm ngồi, vẫn “thầm hỏi không lời” — niệm nghi chưa từng dứt.              |
-| 5️⃣          | Hàn khôi khô mộc khứ (寒灰枯木去) – Tro lạnh, gỗ khô            | Tâm như tro tàn, cây khô. Không phản ứng, không động niệm trước cảnh. Không còn nóng – tức vọng khởi.                 | Ở mức này, nghi tình đã thành khối, không có vọng tưởng dấy lên nổi. Không còn “ta đang tu”, chỉ là một khối biết chưa tỏ. |
-| 6️⃣          | Cổ miếu hương lư khứ (古廟香爐去) – Lư hương miếu cổ            | Trừ sạch tất cả chấp trước. Như lư hương đã nguội trong ngôi miếu xưa – không còn "mùi đạo", không còn dấu vết.       | Không còn ý niệm "mình là hành giả", "đây là thoại đầu". Nghi tình thành thuần túy vô ngã, không sở trụ.                   |
-| 7️⃣          | Nhất điều bạch luyện khứ (一條白練去) – Một tấm lụa trắng       | Thanh tịnh tuyệt đối, vô cấu. Tâm không còn dính mắc một mảy may – không thiện ác, không chứng đắc, không đạo để đạt. | Khối nghi tự vỡ ra, thấy rõ tánh vốn rỗng, vốn đủ. Không còn câu hỏi, không còn người hỏi – chỉ “tánh biết hiện tiền”.     |
-
+| ---------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1️⃣         | Hưu khứ (休去) – Ngừng mọi hành vi                              | Chấm dứt ngoại duyên, sống đời "thiểu dục tri túc", nội tâm hướng về một điểm. Không tạp loạn, không đa sự.           | Căn bản công phu: bỏ tất cả, chỉ giữ một nghi – “Trước khi cha mẹ chưa sinh, ta là ai?”...                                 |
+| 2️⃣         | Hiết khứ (歇去) – Dứt sạch kiến giải                            | Bỏ mọi tư kiến, không còn lấy giáo lý làm điểm tựa, dứt năng sở, không còn thấy “ta hiểu, ta biết”.                   | Khi nghi tình sâu, vọng tưởng phân biệt không xen vào được nữa. Cảm nhận dần dần "chưa từng biết gì cả" là thật.           |
+| 3️⃣         | Lãnh tưu tưu địa khứ (冷湫湫地去) – Mát lạnh toàn thân tâm      | Không còn động vì mê ngộ, được mất, chứng đắc. Tâm rỗng rang, tĩnh lặng, không còn chấp thủ.                          | Nghi tình vẫn giữ, nhưng không còn căng, trở thành “lạnh” – tức trầm ổn, vững chắc, như giếng sâu không đáy.               |
+| 4️⃣         | Nhất niệm vạn niên khứ (一念萬年去) – Một niệm giữ trọn vạn năm | Duy trì nghi tình không gián đoạn, như một mạch sống. Tuy có hoạt động nhưng tâm không rời nghi tình.                 | Chính là bí quyết miên mật công phu: dù đi đứng nằm ngồi, vẫn “thầm hỏi không lời” — niệm nghi chưa từng dứt.              |
+| 5️⃣         | Hàn khôi khô mộc khứ (寒灰枯木去) – Tro lạnh, gỗ khô            | Tâm như tro tàn, cây khô. Không phản ứng, không động niệm trước cảnh. Không còn nóng – tức vọng khởi.                 | Ở mức này, nghi tình đã thành khối, không có vọng tưởng dấy lên nổi. Không còn “ta đang tu”, chỉ là một khối biết chưa tỏ. |
+| 6️⃣         | Cổ miếu hương lư khứ (古廟香爐去) – Lư hương miếu cổ            | Trừ sạch tất cả chấp trước. Như lư hương đã nguội trong ngôi miếu xưa – không còn "mùi đạo", không còn dấu vết.       | Không còn ý niệm "mình là hành giả", "đây là thoại đầu". Nghi tình thành thuần túy vô ngã, không sở trụ.                   |
+| 7️⃣         | Nhất điều bạch luyện khứ (一條白練去) – Một tấm lụa trắng       | Thanh tịnh tuyệt đối, vô cấu. Tâm không còn dính mắc một mảy may – không thiện ác, không chứng đắc, không đạo để đạt. | Khối nghi tự vỡ ra, thấy rõ tánh vốn rỗng, vốn đủ. Không còn câu hỏi, không còn người hỏi – chỉ “tánh biết hiện tiền”.     |
 
 ## 🧘‍♂️ PHƯƠNG PHÁP GIỮ NGHI TÌNH – KHÁN THOẠI ĐẦU HẰNG NGÀY
 
@@ -55,22 +53,22 @@ author: "Thạch Sương Khánh Chư"
 3. Hành trì mỗi ngày:
 
 | **Giai đoạn**    | **Thời gian**          | **Công phu**                                                                               |
-|------------------|------------------------|--------------------------------------------------------------------------------------------|
+| ---------------- | ---------------------- | ------------------------------------------------------------------------------------------ |
 | Sáng sớm (4h–6h) | 60 phút tĩnh tọa       | Tham thoại đầu, giữ nghi tình. Không phân tích gì cả.                                      |
 | Trong ngày       | Đi – đứng – nằm – ngồi | Thầm hỏi câu thoại, cảm nhận nghi tình trỗi dậy. Nhẹ nhàng, liên tục, không áp lực.        |
 | Tối (20h–22h)    | 30–60 phút tọa thiền   | Ngồi yên. Nếu vọng niệm nổi: chỉ biết mà không đuổi. Nếu nghi tình khởi: giữ như trân bảo. |
 
 ## 🔄 KẾT HỢP “THẤT KHỨ” VỚI LỘ TRÌNH THỰC HÀNH
 
-| **Thất Khứ**       | **Thực hành mỗi ngày**                                                 |
-|--------------------|------------------------------------------------------------------------|
-| Hưu Khứ            | Đơn giản hóa cuộc sống, bớt nói – bớt giao tiếp – bớt mạng xã hội   |
-| Hiết Khứ           | Không đọc thêm kinh luận trong lúc tham thoại đầu, không lý giải   |
-| Lãnh Khứ           | Nhận ra khi nghi tình ổn định, tâm như dòng nước lạnh – không bị cuốn |
-| Nhất Niệm Vạn Niên | Giữ nghi tình như hơi thở – nhẹ nhàng, không đoạn                     |
-| 🪵 Hàn Khôi Khô Mộc   | Không còn tâm phản ứng, quan sát thấy vọng nhưng không bị lôi        |
-| Cổ Miếu Hương Lư   | Không “cầu chứng”, không mong thấy gì, buông cả “ngộ”                |
-| Lụa Trắng          | Nếu tâm thuần tịnh, không biết mình đang tu – ấy là gần cửa         |
+| **Thất Khứ**        | **Thực hành mỗi ngày**                                                |
+| ------------------- | --------------------------------------------------------------------- |
+| Hưu Khứ             | Đơn giản hóa cuộc sống, bớt nói – bớt giao tiếp – bớt mạng xã hội     |
+| Hiết Khứ            | Không đọc thêm kinh luận trong lúc tham thoại đầu, không lý giải      |
+| Lãnh Khứ            | Nhận ra khi nghi tình ổn định, tâm như dòng nước lạnh – không bị cuốn |
+| Nhất Niệm Vạn Niên  | Giữ nghi tình như hơi thở – nhẹ nhàng, không đoạn                     |
+| 🪵 Hàn Khôi Khô Mộc | Không còn tâm phản ứng, quan sát thấy vọng nhưng không bị lôi         |
+| Cổ Miếu Hương Lư    | Không “cầu chứng”, không mong thấy gì, buông cả “ngộ”                 |
+| Lụa Trắng           | Nếu tâm thuần tịnh, không biết mình đang tu – ấy là gần cửa           |
 
 ## 🎯 KẾT LUẬN
 
@@ -83,7 +81,7 @@ Tham thoại đầu không có gì để hiểu, để đạt, để nắm.
 
 > ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
 
-> ✨ Nguồn: 
+> ✨ Nguồn:
 
 <hr class="blog-rule" />
 

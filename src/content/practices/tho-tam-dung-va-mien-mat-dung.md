@@ -2,8 +2,7 @@
 title: "THÔ TÂM DỤNG & MIÊN MẬT DỤNG"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt:
-  "Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất...."
+excerpt: "Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất...."
 categories: ["Luận"]
 tags: ["Thực hành"]
 author: "Thiền Sư Lai Quả"
@@ -30,7 +29,6 @@ Hơi có chút **giãi đãi** thì thân tâm tán loạn, **nghi tình** tiêu
 Nếu đem **đậu** trong bao xay nát hòa với nước nhồi thành một khối, ắt từ bên trong bỏ được đậu, bên ngoài diệt được mầm, chẳng còn sanh ra đậu nữa.
 
 > Cũng như vậy, các vọng lăng xăng thu về **một niệm**, ngay ở trên niệm ấy, dùng sức của câu thoại đầu tham cứu quét sạch hết trần lao, cặn cáu chẳng còn, **tham** thành một **khối**, ắt từ bên trong **khử vọng**, bên ngoài **khử trần**, tự chẳng phát sanh **thô tâm** vậy.
-
 
 ## 🧭 MIÊN MẬT DỤNG
 
@@ -61,4 +59,3 @@ Bằng không, há người chẳng bằng vật ư!
 ## ℹ️ Thông tin thêm
 
 [^1]: ⭐️ ...
-

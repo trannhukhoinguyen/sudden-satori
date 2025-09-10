@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển IV"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "9319"
 categories: ["Kinh"]
@@ -411,10 +411,10 @@ Như người đang ngủ mê trên giường, trong nhà có người giã gạ
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

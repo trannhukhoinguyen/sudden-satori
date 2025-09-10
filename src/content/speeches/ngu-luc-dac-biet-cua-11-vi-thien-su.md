@@ -3,7 +3,7 @@ title: "QUẢNG NGỮ THIỀN SƯ DANH TIẾNG CÁC NƠI"
 description: "NGỮ LỤC ĐẶC BIỆT CỦA 11 THIỀN SƯ"
 author: "11 THIỀN SƯ"
 categories: ["Ngữ Lục"]
-tags: ["TS NAM DƯƠNG HUỆ TRUNG", ]
+tags: ["TS NAM DƯƠNG HUỆ TRUNG"]
 ---
 
 1. Quảng ngữ của Quốc sư Tuệ Trung ở Nam Dương (NAM DƯƠNG HUỆ TRUNG)
@@ -46,7 +46,7 @@ Sư nói: Dạy người thế nào?
 
 Đáp: Các bậc tri thức đó chỉ thẳng kẻ học này: ‘Tâm ấy là Phật. Phật nghĩa là giác. Các ông nay đã có đủ tánh kiến, văn, giác, tri. Tánh ấy khéo nháy mắt, nhướng mày (Nguyên văn: ‘Dương mi thuấn mục’), tơi lui vận dụng, trùm khắp cả thân, ở đầu đầu biết, ở chân chân biết, do đó mới gọi là Chánh biến tri. Rời đó ra không có Phật khác. Thân đó tức có sanh diệt. Tâm tánh từ xưa tới nay chưa từng sanh diệt. Thân sanh diệt đó, như rồng thay xương, như rắn lột da. Người rời khỏi nhà cũ, là thân vô thường, nhưng tánh của thân ấy là thường hằng vậy’. Phương Nam nói dạy, đại khái như thế.
 
-Sư nói: Nếu như thế thì đối với Tiên ni ngoại đạo đâu có khác gì! 
+Sư nói: Nếu như thế thì đối với Tiên ni ngoại đạo đâu có khác gì!
 Ngoại đạo nói: ‘Trong thân ta có một thần tánh. Tánh đó có thể biết đau ngứa, khi thân hoại diệt, thần ấy ra khỏi thân, giống như nhà bị cháy thì chủ nhà chạy ra khỏi nhà vậy. Nhà là vô thường, còn chủ nhà là thường vậy’. Nếu thẩm cứu như thế thì tà chánh chẳng biệt biện được ai là chánh tà. Khi xưa ta du phương, nhiều lần thấy loại đó, gần đây càng nhiều thêm. Tụ tập năm ba trăm chúng, mắt nhìn dãy Ngân hà, nói rằng đó là Tông chỉ của phương Nam. Đem Đàn Kinh sửa đi, nói quàng, nói xiên, gọt giũa ý của Thánh, hoặc loạn người đời sau, há thành được ngôn giáo ru! Khổ thay, Tông môn của ta mai một rồi vậy! Nếu cho kiến, văn, giác, tri là Phật tánh thì ngài Tịnh Danh đã không nói: ‘Pháp rời xa kiến văn giác tri. Nếu thi hành kiến văn giác tri, thì đó là kiến văn giác tri chớ không phải cầu pháp vậy’.
 
 🌈 Tăng lại hỏi: Pháp Hoa liễu nghĩa, khai tri kiến của Phật, cái đó lại là thế nào?
@@ -57,16 +57,16 @@ Sư nói: Họ nói khai Phật tri kiến, còn chưa nói Bồ-tát Nhị th�
 
 Sư đáp: Tường vách, ngói gạch là Phật tâm.
 
-Tăng nói: Nếu thế thì thật là trái với Kinh đấy! 
-Kinh Niết Bàn nói: ‘Rời khỏi tường vách là vật vô tình, cho nên gọi là Phật tánh’. 
+Tăng nói: Nếu thế thì thật là trái với Kinh đấy!
+Kinh Niết Bàn nói: ‘Rời khỏi tường vách là vật vô tình, cho nên gọi là Phật tánh’.
 Nay sư lại nói là Phật tâm. Vậy tâm với tánh là khác hay là không khác?
 
 Sư nói: Mê thì là khác, còn ngộ thì không khác.
 
 🌈 Tăng nói: Kinh chép: ‘Phật tánh hằng thường, tâm là vô thường’. Nay sư nói tâm tánh không khác nhau là thế nào?
 
-Sư nói: Ông chỉ y theo lời lẽ mà không theo nghĩa lý, ví như tháng lạnh, nước đông kết lại thành băng. Đến mùa nắng ấm, băng tan thành lại nước. 
-Chúng sanh lúc mê kết tánh thành tâm. Chúng sanh khi ngộ, tan tâm thành tánh. 
+Sư nói: Ông chỉ y theo lời lẽ mà không theo nghĩa lý, ví như tháng lạnh, nước đông kết lại thành băng. Đến mùa nắng ấm, băng tan thành lại nước.
+Chúng sanh lúc mê kết tánh thành tâm. Chúng sanh khi ngộ, tan tâm thành tánh.
 Nếu chấp vật vô tình là không có Phật tánh, thì Kinh đã không nên nói: ‘Ba giới duy tâm’. Đáng quở trách là ở chỗ ông tự hiểu trái ngược Kinh, còn ta thì không hiểu trái lại.
 
 🌈 Hỏi: Vô tình nếu đã có tâm tánh, vậy chúng có biết thuyết pháp chăng?
@@ -111,17 +111,17 @@ Sư nói: Không nói không Phật tánh, vì ngoại đạo há không có Ph�
 
 Hỏi: Nếu đều là có Phật tánh, thì sát hữu tình tức kết nghiệp hỗ trù, tổn hại vô tình không nghe có báo.
 
-Sư nói: 
+Sư nói:
 
 > Hữu tình là chánh báo. Kế ngã sở của mình mà hoài kết luận, tức có tội báo.
-> 
+>
 > Vô tình mới đúng là y báo, chẳng kết lòng hận oán, cho nên mới không nói là có báo.
 
 🌈 Hỏi: Trong Giáo chỉ thấy nói hữu tình làm Phật mà không thấy thọ ký cho vô tình. Vả lại trong Hiền kiếp có cả ngàn Phật nhưng có thấy ai là Phật vô tình đâu?
 
-Sư nói: Như vị Thái tử lúc chưa nhận ngôi thì chỉ là một người, nhưng khi đã lên ngôi rồi thì cả nước đều thuộc về ngài. 
+Sư nói: Như vị Thái tử lúc chưa nhận ngôi thì chỉ là một người, nhưng khi đã lên ngôi rồi thì cả nước đều thuộc về ngài.
 Há có quốc độ nào không có nhận ngôi chăng? Nay chỉ có hữu tình nhận thọ ký.
-Lúc làm Phật, thì mười phương quốc độ đều là thân Giá Na Phật. 
+Lúc làm Phật, thì mười phương quốc độ đều là thân Giá Na Phật.
 Há có thể còn có vô tình thọ ký sao?
 
 <hr class="blog-rule" />
@@ -504,30 +504,28 @@ Sư nói:
 
 - Nói khắp thiên hạ, mà chẳng mở miệng.
 
-
 <hr class="blog-rule" />
-
 
 # QUẢNG NGỮ CỦA ĐẠI SƯ THẦN HỘI Ở LẠC KINH
 
 Sư thị chúng rằng:
 
-> Này, người học đạo phải đạt tự nguồn. Tứ quả, tam hiền đều gọi là điều phục. 
-> Bậc Bích Chi và La Hán còn chưa dứt nghi. Đẳng diệu nhị giác liễu phân minh. 
-> Giác có sâu cạn, giáo có đốn tiệm. Tiệm thì trải qua a-tăng-kỳ kiếp còn ở luân hồi. 
-> Còn đốn thì trong một co duỗi tay là đăng diệu giác. Nếu kiếp trước không có giống đạo, đồ học đa tri. 
-> Tất cả tại tâm, tà chánh do mình. Không nghĩ đến một vật nào thì đó là tự tâm. 
-> Không phải trí có thể biết được, liền chẳng biệt hạnh. 
-> Ngộ nhập trong đó, đích thực Tam-ma-đề. Pháp không có tới lui. 
-> Tiền hậu tế đoạn, cho nên mới biết vô niệm là tối thượng thừa. 
-> Khoáng triệt thanh hư, đốn khai bảo tạng. 
-> Tâm không sanh diệt, tánh chẳng dời đổi. Tự tịnh thì cảnh lự không sanh ra. Vô tác thì phan duyên tự dứt. 
-> Ta hồi thuở trước, chuyển bất thoái luân, nay được định tuệ song tu. Như nắm đấm, như bàn tay, thấy vô niệm thể. 
-> Không rượt đuổi vật sanh, liễu Như Lai thường thì làm sao có chỗ khởi được. Nay ảo chất đó, nguyên là chân thường. 
-> Tự tánh như hư không, bổn lai không hình tướng. Đã đạt lý ấy, ai làm mình lo sợ, ai làm mình lo âu. 
-> Trời đất không thể biến thể vậy. Tâm qui pháp giới, vạn tượng nhất như. Viễn ly suy tính, trí đồng pháp tánh. 
-> Thiên kinh vạn luận chỉ là minh tâm. Nếu đã không lập tâm, tức thể chân lý, đều không có đắc. 
-> Báo các kẻ học, đừng hướng ngoài trì cầu. 
+> Này, người học đạo phải đạt tự nguồn. Tứ quả, tam hiền đều gọi là điều phục.
+> Bậc Bích Chi và La Hán còn chưa dứt nghi. Đẳng diệu nhị giác liễu phân minh.
+> Giác có sâu cạn, giáo có đốn tiệm. Tiệm thì trải qua a-tăng-kỳ kiếp còn ở luân hồi.
+> Còn đốn thì trong một co duỗi tay là đăng diệu giác. Nếu kiếp trước không có giống đạo, đồ học đa tri.
+> Tất cả tại tâm, tà chánh do mình. Không nghĩ đến một vật nào thì đó là tự tâm.
+> Không phải trí có thể biết được, liền chẳng biệt hạnh.
+> Ngộ nhập trong đó, đích thực Tam-ma-đề. Pháp không có tới lui.
+> Tiền hậu tế đoạn, cho nên mới biết vô niệm là tối thượng thừa.
+> Khoáng triệt thanh hư, đốn khai bảo tạng.
+> Tâm không sanh diệt, tánh chẳng dời đổi. Tự tịnh thì cảnh lự không sanh ra. Vô tác thì phan duyên tự dứt.
+> Ta hồi thuở trước, chuyển bất thoái luân, nay được định tuệ song tu. Như nắm đấm, như bàn tay, thấy vô niệm thể.
+> Không rượt đuổi vật sanh, liễu Như Lai thường thì làm sao có chỗ khởi được. Nay ảo chất đó, nguyên là chân thường.
+> Tự tánh như hư không, bổn lai không hình tướng. Đã đạt lý ấy, ai làm mình lo sợ, ai làm mình lo âu.
+> Trời đất không thể biến thể vậy. Tâm qui pháp giới, vạn tượng nhất như. Viễn ly suy tính, trí đồng pháp tánh.
+> Thiên kinh vạn luận chỉ là minh tâm. Nếu đã không lập tâm, tức thể chân lý, đều không có đắc.
+> Báo các kẻ học, đừng hướng ngoài trì cầu.
 > Nếu tối thượng thừa, thì nên vô tác, tạm biệt’.
 
 <hr class="blog-rule" />
@@ -598,46 +596,44 @@ Lục Tổ đáp:
 
 - Nói tức trước Phật rồi sau pháp. Nghe thì trước pháp rồi sau Phật. Nếu luận Phật và pháp vốn nguồn gốc, nhất thiết từ trong tâm chúng sanh mà ra.
 
-
 <hr class="blog-rule" />
-
 
 # QUẢNG NGỮ CỦA THIỀN SƯ ĐẠI TỊCH ĐẠO NHẤT GIANG TÂY
 
 Sư thị chúng rằng:
 
-> Đạo không cần tu, nhưng chớ có làm ô nhiễm. 
-> Sao gọi là ô nhiễm? Chỉ cần có tâm sanh tử tạo tác thú hướng thì đó đều là ô nhiễm. 
-> Nếu muốn lãnh hội ngay đạo ấy, thì tâm bình thường là đạo. 
-> Ấy là tâm bình thường thì không tạo tác, không đúng sai, không nắm buông, không đoạn hay thường, không phàm không Thánh. 
-> 
-> Kinh chép: Không phải hạnh phàm phu mà cũng không phải hạnh hiền Thánh mà là hạnh Bồ-tát. 
-> Chỉ như nay đây, đi, đứng, nằm, ngồi, ứng cơ, tiếp vật đều là đạo. 
-> Đạo là pháp giới. Cho đến hằng hà sa số diệu dụng đều không ngoài pháp giới. 
-> Nếu không phải thế thì tại sao nói là tâm địa pháp môn, sao lại nói là vô tận chứng. 
-> Tất cả mọi pháp đều là tâm pháp. 
-> Tất cả mọi danh đều là tâm danh. Muôn pháp đều từ tâm sanh. 
-> Tâm là gốc rễ của muôn pháp. 
-> 
-> Kinh chép: Hễ thức tâm là đạt nguồn gốc. Do đó mới gọi là Sa-môn. Danh bằng nhau, nghĩa bằng nhau, tất cả mọi pháp đều bằng nhau, thuần nhất không tạp nhạp. 
-> Nếu được trong pháp môn tùy thời mà tự tại, kiến lập pháp giới. 
-> Nếu lập chân như, đều là chân như. Nếu lập lý thì tất cả mọi pháp đều là lý. 
-> Nếu lập sự thì tất cả mọi pháp đều là sự. 
-> Đưa lên một thì ngàn cái theo, lý sự không khác, đều là diệu dụng, lại cũng không khác lý, ấy đều là do sự hồi chuyển của tâm. 
-> Ví như ánh trăng có như số (nhược can), trăng thật không có như số. 
-> Nước các nguồn có như số, tánh của nước không có như số. Tuệ vô ngại không có như số. 
-> Mọi thứ thành lập, đều do một tâm cả. Gầy dựng nên cũng được, mà dẹp bỏ cũng được. 
-> Tất cả đều là diệu dụng. Diệu dụng đều là ở chính mình, chẳng phải rời chân thật mà có chỗ thành lập. 
-> Tức chỗ chân lập đều là thể của chính mình. Nếu không phải như thế, thì là người nào? 
-> Tất cả mọi pháp đều là Phật pháp. Chư pháp thì giải thoát. Giải thoát ấy là chân như. 
-> Chư pháp không ngoài chân như. Đi, đứng, nằm, ngồi là dụng không thể nghĩ bàn, không đợi tới thời tiết. 
-> 
-> Kinh chép: Chốn chốn, nơi nơi tức là có Phật. 
-> Phật là đấng năng nhân, có đầy trí tuệ, thiện cơ tình, có thể phá tất cả nghi hoặc của chúng sanh, rời khỏi mọi trói buộc của có và không. 
-> Phàm Thánh tình tận, nhân pháp đều không, chuyển vô đẳng luân vượt khỏi số lượng, những điều làm đều không trở ngại, sự lý cùng thông. 
-> Như trời kéo mây, bỗng có rồi không, chẳng lưu lại dấu tích ngăn vướng, giống như họa nước thành văn, không sanh không diệt. 
-> Đó là đại tịch diệt. Tại ràng rịt gọi là Như Lai tạng. 
-> Ra khỏi ràng rịt là đại Pháp thân. 
+> Đạo không cần tu, nhưng chớ có làm ô nhiễm.
+> Sao gọi là ô nhiễm? Chỉ cần có tâm sanh tử tạo tác thú hướng thì đó đều là ô nhiễm.
+> Nếu muốn lãnh hội ngay đạo ấy, thì tâm bình thường là đạo.
+> Ấy là tâm bình thường thì không tạo tác, không đúng sai, không nắm buông, không đoạn hay thường, không phàm không Thánh.
+>
+> Kinh chép: Không phải hạnh phàm phu mà cũng không phải hạnh hiền Thánh mà là hạnh Bồ-tát.
+> Chỉ như nay đây, đi, đứng, nằm, ngồi, ứng cơ, tiếp vật đều là đạo.
+> Đạo là pháp giới. Cho đến hằng hà sa số diệu dụng đều không ngoài pháp giới.
+> Nếu không phải thế thì tại sao nói là tâm địa pháp môn, sao lại nói là vô tận chứng.
+> Tất cả mọi pháp đều là tâm pháp.
+> Tất cả mọi danh đều là tâm danh. Muôn pháp đều từ tâm sanh.
+> Tâm là gốc rễ của muôn pháp.
+>
+> Kinh chép: Hễ thức tâm là đạt nguồn gốc. Do đó mới gọi là Sa-môn. Danh bằng nhau, nghĩa bằng nhau, tất cả mọi pháp đều bằng nhau, thuần nhất không tạp nhạp.
+> Nếu được trong pháp môn tùy thời mà tự tại, kiến lập pháp giới.
+> Nếu lập chân như, đều là chân như. Nếu lập lý thì tất cả mọi pháp đều là lý.
+> Nếu lập sự thì tất cả mọi pháp đều là sự.
+> Đưa lên một thì ngàn cái theo, lý sự không khác, đều là diệu dụng, lại cũng không khác lý, ấy đều là do sự hồi chuyển của tâm.
+> Ví như ánh trăng có như số (nhược can), trăng thật không có như số.
+> Nước các nguồn có như số, tánh của nước không có như số. Tuệ vô ngại không có như số.
+> Mọi thứ thành lập, đều do một tâm cả. Gầy dựng nên cũng được, mà dẹp bỏ cũng được.
+> Tất cả đều là diệu dụng. Diệu dụng đều là ở chính mình, chẳng phải rời chân thật mà có chỗ thành lập.
+> Tức chỗ chân lập đều là thể của chính mình. Nếu không phải như thế, thì là người nào?
+> Tất cả mọi pháp đều là Phật pháp. Chư pháp thì giải thoát. Giải thoát ấy là chân như.
+> Chư pháp không ngoài chân như. Đi, đứng, nằm, ngồi là dụng không thể nghĩ bàn, không đợi tới thời tiết.
+>
+> Kinh chép: Chốn chốn, nơi nơi tức là có Phật.
+> Phật là đấng năng nhân, có đầy trí tuệ, thiện cơ tình, có thể phá tất cả nghi hoặc của chúng sanh, rời khỏi mọi trói buộc của có và không.
+> Phàm Thánh tình tận, nhân pháp đều không, chuyển vô đẳng luân vượt khỏi số lượng, những điều làm đều không trở ngại, sự lý cùng thông.
+> Như trời kéo mây, bỗng có rồi không, chẳng lưu lại dấu tích ngăn vướng, giống như họa nước thành văn, không sanh không diệt.
+> Đó là đại tịch diệt. Tại ràng rịt gọi là Như Lai tạng.
+> Ra khỏi ràng rịt là đại Pháp thân.
 > Pháp thân vô cùng, thể không tăng có thể to, có thể nhỏ, có thể vuông, có thể tròn, ứng vật hiện hình như trăng trong nước, vận dụng làu làu, không lập rễ gốc, không trọn hữu vi, mà cũng không trụ vô vi. Hữu vi là gia dụng của vô vi. Vô vi là chỗ gia y của hữu vi. Không trụ nơi nương tựa, nên gọi là như trống trơn không có chi nương tựa. Nghĩa tâm sanh diệt. Nghĩa tâm chân như. Tâm chân như là ví dụ như gương sáng chiếu hình. Kính dụ cho tâm. Hình dụ chư pháp. Nếu tâm thể thủ pháp, tức thiệp nhân duyên ngoài, tức là nghĩa sanh diệt. Nếu tâm không thể thủ chư pháp thì là nghĩa chân như. Bậc Thanh văn nghe thấy Phật tánh. Bậc Bồ-tát mắt thấy Phật tánh, liễu đạt vô nhị, gọi là tánh bình đẳng. Tánh không có sai khác, nhưng dụng thì không giống nhau. Tại mê gọi là thức. Tại ngộ gọi là trí. Thuận lý là ngộ. Thuận sự là mê. Mê tức là mê bổn tâm của chính mình. Ngộ tức là ngộ bổn tánh của chính mình. Một khi ngộ là ngộ mãi, không mê trở lại. Như mặt trời khi mọc rồi là không hòa hiệp với tối nữa. Mặt trời trí tuệ khi mọc ra là không cùng với cái tối của phiền não cùng chung đụng. Liễu đạt tâm cùng cảnh giới thì vọng tưởng không sanh ra vậy. Vọng tưởng khi đã không sanh tức là nhẫn vô sanh diệt. Vốn có, nay có, không cần tu đạo tọa Thiền. Không tu không tọa, tức là Thiền Như Lai thanh tịnh. Như nay đây mà thấy lý này chân chánh, chẳng tạo chư nghiệp, tùy phận mà sống qua cuộc đời, một y, một bát, ngồi đứng theo mình, giới hạnh tăng trưởng, chứa góp nơi tịnh nghiệp, chỉ cần hay được như thế, lo gì không thông. Đứng lâu rồi, tạm biệt mọi người.
 
 <hr class="blog-rule" />
@@ -662,7 +658,7 @@ Hỏi:
 
 Sư nói:
 
-- Phiền não có tướng trạng gì đâu. Ta cần ông xét xem. Vả có một số người hướng trên mặt tờ giấy mà ký trì lời lẽ. Phần lớn bọn họ đều bị kinh luận mê hoặc. Ta chưa từng xem kinh luận, sách vở. Ông chỉ vì mê sự mà làm mất đi tự gia bất định. Do đó mà có tâm sanh tử, chưa học được một lời, nửa câu, một kinh, một luận là liền nói nào là Bồ-đề, Niết-bàn thể nhiếp, không nhiếp. Nếu hiểu như thế, tức là sanh tử. Nếu chẳng bị được mất kia trói buộc, liền không còn sanh tử. 
+- Phiền não có tướng trạng gì đâu. Ta cần ông xét xem. Vả có một số người hướng trên mặt tờ giấy mà ký trì lời lẽ. Phần lớn bọn họ đều bị kinh luận mê hoặc. Ta chưa từng xem kinh luận, sách vở. Ông chỉ vì mê sự mà làm mất đi tự gia bất định. Do đó mà có tâm sanh tử, chưa học được một lời, nửa câu, một kinh, một luận là liền nói nào là Bồ-đề, Niết-bàn thể nhiếp, không nhiếp. Nếu hiểu như thế, tức là sanh tử. Nếu chẳng bị được mất kia trói buộc, liền không còn sanh tử.
 - Ông thấy Luật sư nói nào là Ni Tát Kì [^1] Đột Cát La vốn là gốc sanh tử. Tuy nhiên dù là như thế, cùng sanh tử cũng không thể được. Trên từ chư Phật, dưới đến loài sâu kiến đều có dài ngắn, tốt xấu, lớn nhỏ không giống nhau. Nếu mà không từ bên ngoài tới thì nơi nào có ngươi rảnh rỗi đào địa ngục mà chờ ông. Nếu ông muốn biết con đường địa ngục, thì giờ đây chảo dầu sôi nung nóng là địa ngục đấy. Còn nếu muốn biết con đường quỷ đói thì nay hư nhiều thật ít không khiến người ta tin tưởng là đường quỷ đói đây. Muốn biết con đường súc sanh thì hãy xem nay không biết nhân nghĩa, không biết thân sơ gì cả là đường súc sanh đấy. Há cần mang lông, đội sừng, bị mổ cắt treo ngược. Muốn biết trời, người, là hiện nay đang thanh tịnh uy nghi trì bát là trời người đấy. Bảo nhiệm thì không đọa các con đường, thì thứ nhất không được bỏ cái này, vì cái này không phải dễ được. Nên hướng trên đỉnh núi cao cao mà đứng, dưới biển sâu sâu mà đi. Các nơi đó không dễ thực hành, cần phải có tương ưng. Như nay đây xuất đầu ra đều là người lắm chuyện, tìm một gã si độn còn chưa thể được. Đừng chỉ ghi nhớ vào lời lẽ trong sách vở mà cho đó là kiến tri của mình. Thấy kẻ không hiểu biết là sanh lòng khinh mạn. Những người như thế đều là bọn xiển đề ngoại đạo. Tâm này không như thế, phải nên xem xét kỹ. Nói như thế là chuyện bên lề của ba giới, không phải chuyện dưới nạp y luống để qua. Đến chỗ đó phải nên vi tế, không nên cho đó là chuyện tầm thường. Nên biết thế. Tạm biệt!
 
 [^1]: Ni Tát Kì là bỏ cả tài sản để bố thí.
@@ -673,15 +669,15 @@ Sư nói:
 
 Sư thượng đường nói:
 
-> Chư vị may thay đều là người vô sự. 
-> Khổ tử tạo tác để rồi mang gông cùm mà vào địa ngục để làm gì chứ? 
-> Mỗi ngày từ sáng sớm đến khuya, chạy đôn chạy đáo bảo rằng: ‘Tôi tham Thiền, học đạo, lãnh hội Phật pháp’. 
-> Như thế đó thì hóa ra chẳng ăn nhập gì hết mà thôi. Đó chẳng qua là rượt đuổi thanh sắc mà chạy rong, chẳng có lúc nào ngơi nghỉ. 
-> Bần đạo đây nghe Hòa thượng Mã đại sư ở Giang Tây nói: ‘Bảo tàng nhà ông bất cứ món gì cũng đầy đủ sử dụng tự tại, chẳng cần cầu bên ngoài’. 
-> Ta đây từ đó nhất thời nghỉ ngơi, tài sản quí báu mang theo mình mà xài, có thể nói rất là vui sướng. Không có pháp nào để nắm. 
-> Không có pháp nào để buông. Không thấy tướng sanh diệt của một pháp nào. 
-> Không thấy tướng tới lui của bất cứ một pháp nào. 
-> Khắp mười phương giới không có bất cứ một vi trần nào là không phải trân bảo của chính mình. 
+> Chư vị may thay đều là người vô sự.
+> Khổ tử tạo tác để rồi mang gông cùm mà vào địa ngục để làm gì chứ?
+> Mỗi ngày từ sáng sớm đến khuya, chạy đôn chạy đáo bảo rằng: ‘Tôi tham Thiền, học đạo, lãnh hội Phật pháp’.
+> Như thế đó thì hóa ra chẳng ăn nhập gì hết mà thôi. Đó chẳng qua là rượt đuổi thanh sắc mà chạy rong, chẳng có lúc nào ngơi nghỉ.
+> Bần đạo đây nghe Hòa thượng Mã đại sư ở Giang Tây nói: ‘Bảo tàng nhà ông bất cứ món gì cũng đầy đủ sử dụng tự tại, chẳng cần cầu bên ngoài’.
+> Ta đây từ đó nhất thời nghỉ ngơi, tài sản quí báu mang theo mình mà xài, có thể nói rất là vui sướng. Không có pháp nào để nắm.
+> Không có pháp nào để buông. Không thấy tướng sanh diệt của một pháp nào.
+> Không thấy tướng tới lui của bất cứ một pháp nào.
+> Khắp mười phương giới không có bất cứ một vi trần nào là không phải trân bảo của chính mình.
 > Chỉ cần chính các vị quán sát tự tâm thì nhất thể tam bảo thường hiện tiền, chẳng có chi phải nghi lự. Đừng tìm tòi suy nghĩ, dừng tìm cầu. Ấy là do tâm tánh bổn lai thanh tịnh vậy. Kinh Hoa Nghiêm nói: ‘Mọi pháp đều không sanh. Mọi pháp đều không diệt. Nếu hay nghĩ như thế, thì chư Phật thường hiện tiền’. Lại kinh Tịnh Danh nói: ‘Quán thật tướng của thân thế nào thì quán Phật cũng thế ấy’. Nếu không theo thanh sắc mà động niệm, nếu không rượt đuổi tướng mạo mà kiến giải, thì sẽ tự nhiên mà vô sự vậy. Xin chớ đứng lâu, tạm biệt nhé!
 
 Hôm đó đại chúng phổ tập không chịu giải tán. Sư nói:
@@ -810,8 +806,8 @@ Có người hỏi:
 
 Sư nói:
 
-- Này, một chữ gọi là ngôn, thành câu gọi là ngữ. Còn như người biện luận lanh lợi thao thao ví như dòng chảy của sông to. 
-- Tuấn cơ điệp điệp như đồ đựng tròn mà trút ngọc, cho nên Quách Tượng [^1] mới hiệu là huyền hà, Xuân Anh gọi là nghĩa hải. 
+- Này, một chữ gọi là ngôn, thành câu gọi là ngữ. Còn như người biện luận lanh lợi thao thao ví như dòng chảy của sông to.
+- Tuấn cơ điệp điệp như đồ đựng tròn mà trút ngọc, cho nên Quách Tượng [^1] mới hiệu là huyền hà, Xuân Anh gọi là nghĩa hải.
 - Đó là ngữ vậy. Ngôn là một chữ biểu tâm, bên trong trước huyền vi, ngoài hiện diệu tướng vạn cơ, quậy khuấy mà không loạn, trong đục trộn lẫn mà thường phân biệt. Vua Tề đến đó còn thẹn lời của đại phu. Văn Thù đến đó còn khen câu nói của Tịnh Danh. Như người thường đời nay thì làm sao mà hiểu được.
 
 [^1]: Quách Tượng người Hà Nam nước Tấn, say mê Lão, Trang, biện thuyết thao thao như thác đổ.
@@ -1490,9 +1486,7 @@ Sư đáp:
 
 - Định là thể, tuệ là dụng. Theo định khởi tuệ, theo tuệ quay về định, như nước và sóng cùng một thể vậy, lại cũng không sau trước, gọi là các môn học định, tuệ. Này, phàm là người xuất gia thì không nên tầm ngôn, trục cú. Đi đứng, nằm ngồi đều là tánh dụng của các vị, nơi nào mà cùng với đạo không tương ưng. Hãy nhất thời mà ngơi nghĩ đi. Nếu không theo ngoại cảnh thì gió tâm, nước tánh luôn trong lành. Không có chuyện chi nữa, tạm biệt!
 
-
 <hr class="blog-rule" />
-
 
 # QUẢNG NGỮ CỦA QUỐC SƯ ĐẠI ĐẠT VÔ NGHIỆP Ở PHẦN CHÂU
 
@@ -1502,14 +1496,14 @@ Sư thượng đường, có ông tăng hỏi:
 
 Sư nói:
 
-> Chư Phật chưa từng xuất thé, lại cũng chẳng có một pháp nào dạy người, mà chỉ tùy bệnh cho thuốc, do đó có mười hai phần Giáo. 
-> Như đem trái ngọt mà đổi với bầu đắng, đào thải nghiệp căn của các ông, đều là chuyện không thật. 
-> Thần thông biến hóa cùng trăm ngàn cửa tam-muội, giáo hóa thiên ma, ngoại đạo, phước trí hai nghiêm là phá chấp cái thấy có trệ không. 
+> Chư Phật chưa từng xuất thé, lại cũng chẳng có một pháp nào dạy người, mà chỉ tùy bệnh cho thuốc, do đó có mười hai phần Giáo.
+> Như đem trái ngọt mà đổi với bầu đắng, đào thải nghiệp căn của các ông, đều là chuyện không thật.
+> Thần thông biến hóa cùng trăm ngàn cửa tam-muội, giáo hóa thiên ma, ngoại đạo, phước trí hai nghiêm là phá chấp cái thấy có trệ không.
 > Nếu không lãnh hội đạo cùng chỉ ý Tổ sư từ Tây lại thì luận chi tới Sanh, Triệu, Dung, Duệ. Như nay đây người biết Thiền, biết đạo nhiều như cát sông Hằng. Nói Phật, nói tâm có trăm ngàn, muôn người. Tiêm trần không bỏ, chưa miễn luân hồi, tư niệm chẳng quên toàn thể đều chìm đắm. Loại người như thế tự mình còn chưa hiểu nghiệp quả, láo nói lợi mình, lợi người, tự cho là bậc thượng lưu, tiên đức nói càng bừa, gặp đâu cũng là Phật sự, cất bước đều là đạo tràng. Vốn tập trước được của họ không bằng phàm phu giữ năm giới, mười thiện. Xem họ phát ngôn, chê bậc Nhị thừa thập địa Bồ-tát. Vả chăng đề hồ vốn là vị ngon trên đời, nhưng gặp mấy người đó liền biến thành thuốc độc. Nam Sơn còn tự chưa dám cho mình là Đại thừa. Vậy mà đám người mới học nói, tranh nhau khua môi, múa mép, luận chuyện vô hình cùng các tiên đức xưa. Thành ra thật là khổ thay. Chỉ như bậc dã dật cao sĩ, còn biết gối đá, uống khe, buông bỏ lợi lộc. Lại có các bậc biết an nước, trị dân, nhưng vua mời không đến, huống Thiền tông của chúng ta, đường lối khác nhau. Hãy xem bậc cổ đức, đạo nhân sau khi đắc ý, thì chỉ ở mái tranh, nhà đá, dùng nồi sứt chân nấu cơm ăn đôi ba mươi năm. Danh lợi chẳng động tới tấm lòng, tiền tài châu báu không nghĩ tới. Quên hết người đời, giấu tung tích nơi non cao, rừng thẳm. Vua vời chẳng đến, chư hầu thỉnh cũng không đi, há có thể đồng với phường tham danh, hám lợi chúng ta sao. Chìm mất đường đời như kẻ buôn bán nhỏ, có chút hy cầu là quên hết đại quả. Bậc hiền thập địa há không thông Phật lý, lại không bằng như một gã phàm phu ngây ngô, thật không có lý đó. Các ngài nói pháp như mây tuôn, mưa đổ còn bị Phật quở là kiến tánh như qua lớp la hộc (một loại vải cực mỏng). Chỉ vì tình tồn, vọng lượng. Kiến còn ở chỗ quả nhân, chưa thể vượt tới Thánh tình, qua các hình dấu. Các bậc tiên hiền cổ đức, học rộng cao khiết, bác đạt cổ kim, hiểu sâu giáo cương, ấy vì thức học mà thuyên văn, nước sữa khó biện, không minh tự lý, niệm tịnh cầu chân. Than ôi, được làm thân người như đất trong móng tay, không được làm thân người đông như sơn hà, đại địa. Thật đáng thương thay. Giá như có người ngộ lý, có biết, có hiểu, không biết là cửa vào chỗ ngộ, liền mãi mãi ra khỏi chốn danh lợi trần thế, tuần núi, quá khe, nhẹ nhàng, thượng lưu cho đến nỗi tâm lậu không dứt, lý địa không rõ, luống đến già chết không thành được việc gì, phí uổng tháng năm qua đi. Vả thông minh không chống nổi nghiệp. Trí tuệ chưa khỏi xe khổ. Dầu cho tài như ngài Mã Minh, hiểu sánh ngài Long Thọ, thì bất quá không mất thân người trong một hai kiếp. Căn tư túc định, vừa nghe là hiểu, như Sanh công kia, cũng có gì đáng tự hào, cùng đạo toàn xa cả. Cùng anh em luận thật không luận giả. Chỉ nói miệng ăn, thân mặc là đã dối huyền, lừa Thánh, cầu đắc tha tâm thông, tuệ nhãn xem coi, chẳng khác uống máu mủ một thứ, phải bồi thường mới được. Ai là người có đạo quả tự nhiên vượt khỏi người tín thí chẳng nhận. Học Bồ-tát Bát nhã không được tự dối. Như đi trên băng mỏng. Như chạy trên rừng gươm đao. Lúc lâm chung, một hào tình lượng phàm Thánh đều dứt, một mảy lông tư niệm chưa quên. Tùy niệm thọ sanh. Sau khi bị đốt qua trong chảo dầu sôi thì trí tuệ, kiến giải, hoài tưởng trước đây đều quên mất một lượt, y như trước kia tái làm thân con sâu, cái kiến, rồi lại làm ruồi muỗi. Tuy là nhân lành nhưng lại chịu quả ác, có thể tính toán được gì đâu. Này các anh em, chỉ vì tham dục thành tánh, hai mươi lăm tuổi đã bị trói buộc dưới chân, chưa thành thời kỳ biện biệt mọi sự. Tổ sư thay chúng sanh nơi đất nước này có căn khí Đại thừa, chỉ nên truyền tâm ấn thôi để chỉ thị mê tình. Kẻ đắc pháp tức không phân biệt phàm với Thánh, ngu với trí. Mà chỉ là nhiều mà hư, không bằng ít mà thật. Kẻ đại trượng phu như nay đây nên dừng nghỉ thôi, chấm dứt muôn duyên, vượt khỏi dòng sanh tử khác hẳn thường cách, linh quang độc chiếu, không câu nệ vật lụy rờ rỡ, Sừng sững, ba giới độc bộ, cần gì thân phải cao trượng sáu ánh sáng kim loại tử ma chiếu ngời, cổ đeo vòng tròn sáng, có tướng lưỡi rộng dài. Nếu lấy sắc thấy ta, là đi đường lệch. Dẫu cho có quyến thuộc rạng rỡ thì chẳng cầu tự đắc, sơn hà đại địa không trở ngại tầm nhìn, được đại tổng trì, một nghe ngàn ngộ, đều chẳng cầu giá trị một bữa ăn.
 >
-> Bọn người các vị nếu không như thế, thì Tổ sư đến được nước này phi thường có ích và có tổn hại. 
-> Có ích là trong trăm ngàn người lặn mò được một người, nửa kẻ, có thể làm pháp khí. 
-> Có tổn hại là như phía trước đã nói, theo người khác tu ba thừa giáo pháp, chẳng phương hại đến chuyện tứ quả, tam hiền, có phần tấn tu, do đó mà bậc tiên đức đã nói: 
+> Bọn người các vị nếu không như thế, thì Tổ sư đến được nước này phi thường có ích và có tổn hại.
+> Có ích là trong trăm ngàn người lặn mò được một người, nửa kẻ, có thể làm pháp khí.
+> Có tổn hại là như phía trước đã nói, theo người khác tu ba thừa giáo pháp, chẳng phương hại đến chuyện tứ quả, tam hiền, có phần tấn tu, do đó mà bậc tiên đức đã nói:
 > Nếu liễu ngộ thì nghiệp chướng vốn là không, không liễu ngộ phải thường nợ kiếp trước.
 
 [^1]: Nguyên văn ‘La hộc’ là sa trun một loại vải cực mỏng, biến rộng nghĩa chỉ Bồ-tát thấy Phật tánh như thấy vật qua lớp vải mỏng, tuy là rất mỏng nhưng vẫn là có lớp ngăn cách, ý nói không thể ứng tuyệt đối.
@@ -1892,10 +1886,8 @@ Sư nói: Bốn đại năm ấm.
 
 Sư thượng đường thị chúng rằng:
 
-> Người học đời nay chỉ cần minh thủ chân chánh kiến giải của chính mình là không bị sanh tử nhiễm trước, đi ở tự do, chẳng cầu bên ngoài mà thù thắng cụ bị đầy đủ. Như nay đây các vị đạo lưu chỉ cần không trệ ngại nơi hoặc, cần dùng tức dùng. Như nay đây mà không được như thế là bệnh tại chỗ nào? Tức bệnh tại chỗ không tự tin. Tự tin không kịp. Thế là ngơ ngơ, ngác ngác trước mọi cảnh thoát. Này các vị đại đức, nếu mà dừng nghỉ được tâm trì cầu mỗi phút mỗi giây thì cùng với Tổ sư đâu có gì khác biệt. Các vị có muốn hiểu rõ Tổ sư không. Đó tức là người đang nghe pháp trước mặt ta đấy! Người học tin không tới bèn hướng bên ngoài trì cầu. Người được chẳng qua chỉ là cái học văn tự, cùng với các Tổ sư xa lắc, xa lơ. Đừng có nhầm lẫn nhé. Này các vị đại đức, thời này không ngộ thì muôn kiếp ngàn đời luân hồi trong ba giới, trải bao cảnh xấu tốt, chui vào bụng lừa bò thôi. Như mọi người hôm nay đây với các vị Thánh hiền ngày xưa có gì khác đâu. Các vị thiếu kém cái gì chứ? Lục thông thần quang chưa phút giây nào ngưng dứt. Nếu hay thấy được như thế thì một người trọn đời vô sự. Một niệm thanh tịnh thì là Pháp thân Phật trong nhà mình vậy. Một niệm vô phân biệt quang, thì đó là báo thân Phật của mình. Một niệm vô sai biệt quang, thì đó là hóa thân Phật của mình. Ba thân đó là người nghe pháp trước mắt ta hôm nay đấy. Do không hướng bên ngoài tìm cầu nên có được ba loại công dụng. Theo giáo nghĩa ba loại công dụng đó gọi là rốt ráo. Sơn tăng ta nói: Ba thứ đó là danh ngôn. Cho nên mới nói thân nương theo nghĩa mà lập, đất theo thể mà luận. Thân pháp tánh và đất pháp tánh hiểu rõ ra là quang ảnh. Này đại đức, khá nên thức thủ. Người lộng quang ảnh là nguồn gốc của chư Phật, là chỗ quay về của chư đạo lưu. Này các đại đức, thân tứ đại không biết nói pháp, nghe pháp. Hư không chẳng biết nói pháp, nghe pháp. Đó là sờ sờ trước mặt chư vị biết nói pháp, nghe pháp. Do đó mà sơn tăng đây hướng về chư vị nói: Trong miếng ruộng năm uẩn có một chân nhân vô vị trí, hiển lộ sừng sững, chẳng ngăn cách một tóc tơ nào, sao lại chẳng thức thủ vậy? Tâm pháp vô hình mà thông quán mười phương, tại mắt gọi là thấy, tại tai gọi là nghe, tại tay nắm bắt, tại chân đi chạy. Tâm nếu không tại thì tùy xứ giải thoát. 
+> Người học đời nay chỉ cần minh thủ chân chánh kiến giải của chính mình là không bị sanh tử nhiễm trước, đi ở tự do, chẳng cầu bên ngoài mà thù thắng cụ bị đầy đủ. Như nay đây các vị đạo lưu chỉ cần không trệ ngại nơi hoặc, cần dùng tức dùng. Như nay đây mà không được như thế là bệnh tại chỗ nào? Tức bệnh tại chỗ không tự tin. Tự tin không kịp. Thế là ngơ ngơ, ngác ngác trước mọi cảnh thoát. Này các vị đại đức, nếu mà dừng nghỉ được tâm trì cầu mỗi phút mỗi giây thì cùng với Tổ sư đâu có gì khác biệt. Các vị có muốn hiểu rõ Tổ sư không. Đó tức là người đang nghe pháp trước mặt ta đấy! Người học tin không tới bèn hướng bên ngoài trì cầu. Người được chẳng qua chỉ là cái học văn tự, cùng với các Tổ sư xa lắc, xa lơ. Đừng có nhầm lẫn nhé. Này các vị đại đức, thời này không ngộ thì muôn kiếp ngàn đời luân hồi trong ba giới, trải bao cảnh xấu tốt, chui vào bụng lừa bò thôi. Như mọi người hôm nay đây với các vị Thánh hiền ngày xưa có gì khác đâu. Các vị thiếu kém cái gì chứ? Lục thông thần quang chưa phút giây nào ngưng dứt. Nếu hay thấy được như thế thì một người trọn đời vô sự. Một niệm thanh tịnh thì là Pháp thân Phật trong nhà mình vậy. Một niệm vô phân biệt quang, thì đó là báo thân Phật của mình. Một niệm vô sai biệt quang, thì đó là hóa thân Phật của mình. Ba thân đó là người nghe pháp trước mắt ta hôm nay đấy. Do không hướng bên ngoài tìm cầu nên có được ba loại công dụng. Theo giáo nghĩa ba loại công dụng đó gọi là rốt ráo. Sơn tăng ta nói: Ba thứ đó là danh ngôn. Cho nên mới nói thân nương theo nghĩa mà lập, đất theo thể mà luận. Thân pháp tánh và đất pháp tánh hiểu rõ ra là quang ảnh. Này đại đức, khá nên thức thủ. Người lộng quang ảnh là nguồn gốc của chư Phật, là chỗ quay về của chư đạo lưu. Này các đại đức, thân tứ đại không biết nói pháp, nghe pháp. Hư không chẳng biết nói pháp, nghe pháp. Đó là sờ sờ trước mặt chư vị biết nói pháp, nghe pháp. Do đó mà sơn tăng đây hướng về chư vị nói: Trong miếng ruộng năm uẩn có một chân nhân vô vị trí, hiển lộ sừng sững, chẳng ngăn cách một tóc tơ nào, sao lại chẳng thức thủ vậy? Tâm pháp vô hình mà thông quán mười phương, tại mắt gọi là thấy, tại tai gọi là nghe, tại tay nắm bắt, tại chân đi chạy. Tâm nếu không tại thì tùy xứ giải thoát.
 > Chỗ thấy của sơn tăng, tọa đoạn báo hóa Phật, thập địa đầy tâm, do như khách tác nhi, đẳng diệu nhị giác như mang xiềng, đội gông, La Hán, Bích Chi cũng như phân đất, còn Bồ-đề, Niết-bàn như cọc cột lừa ngựa. Tại sao như thế. Vì không đạt ba kỳ kiếp luống có ngăn cách ấy. Nếu thật là đạo lưu, thì đều không như thế. Như nay đây vì mọi người sơ lược đại ước phá thoại. Tự mình nhìn gần xa. Thời giờ qua khá tiếc uổng, mỗi người phải tự nỗ lực. Tạm biệt!
-
-
 
 <hr class="blog-rule" />
 
@@ -1937,12 +1929,9 @@ Sư nói:
 
 - Ta vì ông như thế là đã thành khuất khúc với người rồi. Như nay đây tự khẳng đương nhân phần thượng. Chẳng kể mới học vào tùng lâm, đều có thể coi như cùng mọi người bước vào lâu rồi, cùng với các Phật trong quá khứ chẳng có chi thiếu kém. Như nước ở biển cả, thì tất cả rồng cá từ mới sanh cho tới già lão, đều nuốt phun thọ dụng bình đẳng một thứ thôi. Cho nên người mới phát tâm học đạo cùng với cổ Phật ngang vai nhau. Chỉ kẹt cái là ông từ vô thỉ tích kiếp động chư vọng tình, kết thành phiền não. Như người bệnh nặng, tâm cồn cào nóng bức điên đảo thấy bậy bạ, đều không phải là sự thật. Như nay đây nhìn thấy mọi cảnh giới đều cũng như thế. Chư căn đối với các vị, đều thành điên đảo. Người xưa lấy thuốc diệu vô cùng để đối trị. Cho đến cả bậc thập địa vẫn còn chưa tỉnh táo. Do đó mà biết không phải dễ dàng. Người xưa tham cứu còn hơn là mất cả cha mẹ. Còn như các anh em ngày nay thấy là chuyện thường thì nơi đâu có người hiểu giùm cho anh em đây? Khá tiếc là thời gian đã bị để luống qua, có hại chi việc tự cứu xét nghiêm mật, quan sát tìm kiếm kỹ lưỡng, cho đến chỗ không trước lực, tự ngừng nghỉ chư duyên, dầu cho chưa nứt mầm thì hột giống cũng đã có mặt rồi. Còn nếu phải đi từ nhà mất bao khí lực đánh trống mưu cầu cơm cháo, đem cái hời hợt đó hiển bày chuyện sanh tử, lừa gạt các anh em một đời thì có ích lợi gì đâu! Nên như thật mà tri thủ là tốt hơn. Không có chuyện chi nữa, tạm biệt!
 
-
-
 <hr class="blog-rule" />
 
 # QUẢNG NGỮ CỦA HÒA THƯỢNG LA HÁN QUẾ SÂM Ở CHƯƠNG CHÂU
-
 
 Sư thượng đường. Đại chúng đứng khá lâu, sư nói:
 
@@ -2048,19 +2037,19 @@ Sư lại nói:
 
 Sư thượng đường nói:
 
-> Này các thượng tọa, trời lạnh cần chi phải đến đây. Hãy nói coi đến đây tốt hay không đến đây tốt. 
-> Hoặc có vị thượng tọa nói: ‘Không đến là tốt, có chỗ nào không đúng’. 
-> Vậy thì đến đây làm gì? Có vị thượng tọa lại nói: ‘Vì y không được một hướng nên phải đến Hòa thượng mới được’. 
-> Này các thượng tọa, thử nói xem hai người ấy đối với trong Phật pháp có tấn thú chưa vậy? 
-> Này các thượng tọa, thật sự là chưa được đấy, lại chẳng có tí nào tấn thú. 
-> Người xưa gọi đó là cây dùi sắc điếc đặc (tức ám chỉ Thiền tăng u tối không tiếp dẫn học hỏi được), chẳng khác chi kẻ mù, kẻ điếc vậy. 
-> Nếu có vị thượng tọa bước ra nói hai người kia đều không được thì tại làm sao mà như thế? Vì họ chấp trước cho nên không được. 
-> 
-> Này các thượng tọa, tóm lại giống như hành cước như thế, tóm lại giống như thương lượng như thế. Vả lại định làm cái gì? 
-> Hay chỉ muốn khua môi múa mỏ? Hay lại có ý đồ gì khác. Sợ y chấp trước, mà chấp trước cái gì chứ? Hay là chấp trước lý, chấp trước sự. 
-> Chấp trước có, chấp trước không. Nếu là chấp lý thì lý lại làm sao chấp được. 
-> Nếu chấp sự thì sự cũng làm sao mà chấp được? Trước có, trước không, cũng đều như thế. 
-> 
+> Này các thượng tọa, trời lạnh cần chi phải đến đây. Hãy nói coi đến đây tốt hay không đến đây tốt.
+> Hoặc có vị thượng tọa nói: ‘Không đến là tốt, có chỗ nào không đúng’.
+> Vậy thì đến đây làm gì? Có vị thượng tọa lại nói: ‘Vì y không được một hướng nên phải đến Hòa thượng mới được’.
+> Này các thượng tọa, thử nói xem hai người ấy đối với trong Phật pháp có tấn thú chưa vậy?
+> Này các thượng tọa, thật sự là chưa được đấy, lại chẳng có tí nào tấn thú.
+> Người xưa gọi đó là cây dùi sắc điếc đặc (tức ám chỉ Thiền tăng u tối không tiếp dẫn học hỏi được), chẳng khác chi kẻ mù, kẻ điếc vậy.
+> Nếu có vị thượng tọa bước ra nói hai người kia đều không được thì tại làm sao mà như thế? Vì họ chấp trước cho nên không được.
+>
+> Này các thượng tọa, tóm lại giống như hành cước như thế, tóm lại giống như thương lượng như thế. Vả lại định làm cái gì?
+> Hay chỉ muốn khua môi múa mỏ? Hay lại có ý đồ gì khác. Sợ y chấp trước, mà chấp trước cái gì chứ? Hay là chấp trước lý, chấp trước sự.
+> Chấp trước có, chấp trước không. Nếu là chấp lý thì lý lại làm sao chấp được.
+> Nếu chấp sự thì sự cũng làm sao mà chấp được? Trước có, trước không, cũng đều như thế.
+>
 > Sơn tăng ta thường hướng về các thượng tọa mà nói rằng: Chư Phật mười phương, chư thiện tri thức mười phương thời thường thỏng tay. Chư thượng tọa thời thường tiếp lấy tay chư Phật mười phương thỏng tay thì có đấy. Nơi nào là chỗ chư thượng tọa tiếp tay? Có chỗ lãnh hội thì nên lãnh hội đi. Nếu không lãnh hội được thì chớ có nói tất cả đều là viên thủ. Này chư thượng tọa, đi từng nhà hành cước cũng nên xem kỹ tình thái, chớ nên nương theo trí tuệ kém mà luống qua thời quang. Sơn tăng ta thời còn tại chúng thấy điều đó rất nhiều. Lại có một nhóm thượng tọa, tự mình đông tây còn chưa biết, hướng bên này bên kia, nghe bên đông, nghe bên tây, nói được ít đỉnh cho là đầy trong bụng, hướng về người khác chú giải, cho là chỗ ngộ thấy của mình. Này chư thượng tọa, tất cả như các tăng hành cước đó, tự lừa mình rồi lừa người. Xin các thượng tọa hãy làm sáng mắt đạo là hơn. Chút đỉnh cơm cháo trí tuệ không đủ ỷ lại. Nếu là thế gian tạo tác lớp lớp sự việc không đúng, sai trái thì vào địa ngục còn có số kiếp nhất định, còn có kỳ hạn ra khỏi. Nếu là nhầm lẫn thuyết giảng cho người khác đạo pháp, thì rơi vào địa ngục, tăm tối như đêm trường, không có kỳ hạn ra khỏi được. Đừng để nhàn rỗi luống qua mà hãy nương theo cửa từ bi của bậc cổ đức mới được. Bậc Thánh xưa thấy chư cảnh chính là thấy tự tâm. Lục Tổ nói: ‘Chẳng phải phướn động, chẳng phải gió động mà chính là tâm của nhân giả động’, thì nên hiểu theo thế nào mới đúng? Đừng có thân nơi chỗ thân.
 
 Sư nín lặng hồi lâu lại nói:
@@ -2245,29 +2234,29 @@ Tăng hỏi :
 
 Sư hỏi:
 
-> Cái mà ông tìm là tâm tiếng gì? Là tăng thanh hay là tục thanh? Là phàm thanh hay Thánh thanh? 
-Có cho lãnh hội không? Nếu thế thật không lãnh hội đấy. 
-Này các vị thượng tọa rầm rĩ là thanh, rầm rĩ là sắc. 
-Thanh sắc chẳng ra làm sao cả. Không nên cho đó là nhàn rỗi. 
-Này các thượng tọa, nếu lãnh hội được tức là chân thật. 
-Còn nếu không lãnh hội thì đó là ảo hóa. 
-Nếu mà lãnh hội tức là ảo hóa. 
-Nếu không lãnh hội, đó là chân thật.
-> 
-> Người xưa cũng hướng về các vị thượng tọa nói: ‘Chỉ có ta là biết được’. 
-Trừ điều đó ra thì chẳng có chỗ tính toán. Này các vị thượng tọa, thành hay không thành từ đâu mà ra. 
-Phải cùng chẳng phải từ đâu mà ra. Lý không sự thì chẳng hiển. Sự không lý thì chẳng tiêu. 
-Sự lý không hai, không sự không lý. Không lý không sự, chú giải như thế với chư thượng tọa. 
-Nếu mà cũng chẳng hiểu, thì không chi bằng y theo lời xưa mà thôi. 
-Người xưa thấy các thượng tọa bách ban chẳng được, cho nên phải rủ lòng hướng các vị mà nói, tương văn trì Phật Phật, sao lại chẳng văn văn. 
-Không có chuyện gì nữa, tạm biệt!
+> Cái mà ông tìm là tâm tiếng gì? Là tăng thanh hay là tục thanh? Là phàm thanh hay Thánh thanh?
+> Có cho lãnh hội không? Nếu thế thật không lãnh hội đấy.
+> Này các vị thượng tọa rầm rĩ là thanh, rầm rĩ là sắc.
+> Thanh sắc chẳng ra làm sao cả. Không nên cho đó là nhàn rỗi.
+> Này các thượng tọa, nếu lãnh hội được tức là chân thật.
+> Còn nếu không lãnh hội thì đó là ảo hóa.
+> Nếu mà lãnh hội tức là ảo hóa.
+> Nếu không lãnh hội, đó là chân thật.
+>
+> Người xưa cũng hướng về các vị thượng tọa nói: ‘Chỉ có ta là biết được’.
+> Trừ điều đó ra thì chẳng có chỗ tính toán. Này các vị thượng tọa, thành hay không thành từ đâu mà ra.
+> Phải cùng chẳng phải từ đâu mà ra. Lý không sự thì chẳng hiển. Sự không lý thì chẳng tiêu.
+> Sự lý không hai, không sự không lý. Không lý không sự, chú giải như thế với chư thượng tọa.
+> Nếu mà cũng chẳng hiểu, thì không chi bằng y theo lời xưa mà thôi.
+> Người xưa thấy các thượng tọa bách ban chẳng được, cho nên phải rủ lòng hướng các vị mà nói, tương văn trì Phật Phật, sao lại chẳng văn văn.
+> Không có chuyện gì nữa, tạm biệt!
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: 
+> ✨ Nguồn:
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ 
+[^1]: ⭐️

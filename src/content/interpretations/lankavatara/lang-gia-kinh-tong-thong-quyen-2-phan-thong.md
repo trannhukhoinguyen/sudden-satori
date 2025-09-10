@@ -1,16 +1,18 @@
 ---
-title: "Lăng Già Kinh Tông Thông - Quyển 2 (phần Thông)"
-description: "1600-1615"
-author: "Tăng Phụng Nghi"
-audioUrls: [
-  "https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445",
-]
-videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
-categories: ["Luận"]
-tags: ["Kinh Lăng Già", "Tông Thông"]
+title: Lăng Già Kinh Tông Thông - Quyển 2 (phần Thông)
+description: 1600-1615
+author: Tăng Phụng Nghi
+audioUrls:
+  - https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445
+videoUrl: https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE
+categories:
+  - Luận
+tags:
+  - Kinh Lăng Già
+  - Tông Thông
 ---
 
-## Quyển 2 
+## Quyển 2
 
 e51 ô bolzan thánh ca mâu ni phật
 
@@ -10623,4 +10625,3 @@ tình cả để từ và chúng sanh ra điều tròn
 thành Phật đạo
 
 ừ ừ
-

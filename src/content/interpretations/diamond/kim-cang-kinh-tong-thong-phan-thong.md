@@ -1,10 +1,13 @@
 ---
-title: "Kim Cang Kinh Tông Thông"
-description: "☸ Trích lọc từ THÍCH NỮ TUỆ ĐĂNG & THÍCH NHUẬN CHÂU Việt dịch"
-author: "Tăng Phụng Nghi"
-categories: ["Luận"]
-tags: ["Kinh Kim Cang Bát Nhã", "Tông Thông"]
-pdfUrl: "/pdfs/kinh-kim-cang-tong-thong-1.pdf"
+title: Kim Cang Kinh Tông Thông
+description: ☸ Trích lọc từ THÍCH NỮ TUỆ ĐĂNG & THÍCH NHUẬN CHÂU Việt dịch
+author: Tăng Phụng Nghi
+categories:
+  - Luận
+tags:
+  - Kinh Kim Cang Bát Nhã
+  - Tông Thông
+pdfUrl: /pdfs/kinh-kim-cang-tong-thong-1.pdf
 ---
 
 NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ.
@@ -32,97 +35,97 @@ Tăng Phụng Nghi, tự Thuấn Trưng
 
 Kính đề
 
-##        Kim Cang bát nhã Ba La Mật Đa Tông Thông
+## Kim Cang bát nhã Ba La Mật Đa Tông Thông
 
-### I.     Đoạn nghi vì cầu tướng hảo Phật nên thực hành bố thí trụ tướng
+### I. Đoạn nghi vì cầu tướng hảo Phật nên thực hành bố thí trụ tướng
 
-### II.     Đoan nghi không tin sâu nhân quả
+### II. Đoan nghi không tin sâu nhân quả
 
-### III.    Đoạn nghi vô tướng thì làm sao đắc, làm sao thuyết
+### III. Đoạn nghi vô tướng thì làm sao đắc, làm sao thuyết
 
-### IV.    Đoạn nghi thanh văn đắc quả là thủ chứng
+### IV. Đoạn nghi thanh văn đắc quả là thủ chứng
 
-### V.     Đoạn nghi thích ca, nhiên đăng, có thủ chứng có thuyết pháp
+### V. Đoạn nghi thích ca, nhiên đăng, có thủ chứng có thuyết pháp
 
-### VI.    Đoạn nghi trang nghiêm cõi Phật trái với chẳng thủ
+### VI. Đoạn nghi trang nghiêm cõi Phật trái với chẳng thủ
 
-### VII.    Đoạn nghi thọ được báo thân là có thủ đắc
+### VII. Đoạn nghi thọ được báo thân là có thủ đắc
 
-### VIII.   Đoạn nghi thọ trì giảng thuyết chưa thoát khỏi khổ
+### VIII. Đoạn nghi thọ trì giảng thuyết chưa thoát khỏi khổ
 
-### IX.      Đoạn nghi này chứng vô thể chẳng phải nhân
+### IX. Đoạn nghi này chứng vô thể chẳng phải nhân
 
-### X.       Đoạn nghi chân như có đắc, có bất đắc
+### X. Đoạn nghi chân như có đắc, có bất đắc
 
-### XI.      Đoạn nghi trụ tu hàng phục là ngã
+### XI. Đoạn nghi trụ tu hàng phục là ngã
 
-### XII.     Đoạn nghi Phật chân có bồ-tát
+### XII. Đoạn nghi Phật chân có bồ-tát
 
-### XIII.   Đoạn nghi không nhân thì không có Phật pháp
+### XIII. Đoạn nghi không nhân thì không có Phật pháp
 
-### XIV.     Đoạn nghi không có người hóa độ chúng sinh, trang nghiêm cõi Phật
+### XIV. Đoạn nghi không có người hóa độ chúng sinh, trang nghiêm cõi Phật
 
-### XV.     Đoạn nghi chư Phật chẳng thấy các pháp
+### XV. Đoạn nghi chư Phật chẳng thấy các pháp
 
-### XVI.     Đoạn nghi phước đức sánh với tâm điên đảo
+### XVI. Đoạn nghi phước đức sánh với tâm điên đảo
 
-### XVII.  Đoạn nghi vô vi đâu có tướng hảo
+### XVII. Đoạn nghi vô vi đâu có tướng hảo
 
-### XVIII.   Đoạn nghi không có thân lấy gì thuyết pháp
+### XVIII. Đoạn nghi không có thân lấy gì thuyết pháp
 
-### XIX.     Đoạn nghi không có pháp thì làm sao tu chứng
+### XIX. Đoạn nghi không có pháp thì làm sao tu chứng
 
-### XX.      Đoạn nghi sơ thuyết  vô ký chẳng phải nhân
+### XX. Đoạn nghi sơ thuyết vô ký chẳng phải nhân
 
-### XXI.     Đoạn nghi bình đẳng làm sao độ chúng sinh
+### XXI. Đoạn nghi bình đẳng làm sao độ chúng sinh
 
-### XXII.     Đoạn nghi lấy tướng so sánh để biết chân Phật
+### XXII. Đoạn nghi lấy tướng so sánh để biết chân Phật
 
-### XXIII.     Đoạn nghi Phật quả chẳng liên quan đến phước tướng
+### XXIII. Đoạn nghi Phật quả chẳng liên quan đến phước tướng
 
-### XXIV.      Đoạn nghi hóa thân xuất hiện thọ tướng phước bảo
+### XXIV. Đoạn nghi hóa thân xuất hiện thọ tướng phước bảo
 
-### XXV.    Đoạn nghi pháp thân, hóa thân là một hay là khác
+### XXV. Đoạn nghi pháp thân, hóa thân là một hay là khác
 
-### XXVI.   Đoạn nghi hóa thân thuyết pháp không có phước
+### XXVI. Đoạn nghi hóa thân thuyết pháp không có phước
 
-### XXVII.   Đoạn nghi nhập niết bàn làm sao thuyết pháp
-
+### XXVII. Đoạn nghi nhập niết bàn làm sao thuyết pháp
 
 ## Tựa
 
 Kinh Kim Cang Là bộ Kinh quan trọng của tư tưởng Đại thừa.
-Từ tư tưởng chủ đạo của Kinh nầy mà hình thành nên những tông phái như Trung quán, Duy thức, Tam luận tông. 
+Từ tư tưởng chủ đạo của Kinh nầy mà hình thành nên những tông phái như Trung quán, Duy thức, Tam luận tông.
 Những pháp môn tu tập như Thiền tông, Tịnh độ tông, Mật tông... đều rút tỉa những tư tưởng chính trong Kinh để hành trì nhằm nhận ra chân tâm, hàng phục vọng tâm và an trụ trong bản tâm. Và chính là qua Kinh nầy mà giáo lý Bát-nhã được nghiên cứu cũng như hành trì sâu rộng.
-Chúng ta biết được sự truyền thừa của kinh nầy qua việc ấn chứng từ Ngũ tổ Hoằng Nhẫn cho ngài Huệ Năng. 
+Chúng ta biết được sự truyền thừa của kinh nầy qua việc ấn chứng từ Ngũ tổ Hoằng Nhẫn cho ngài Huệ Năng.
 
-Trước đó, từ Sơ tổ Bồ-đề Đạt-ma truyền cho ngài Huệ Khả, ngài truyền Kinh Lăng Già để làm tâm ấn. 
+Trước đó, từ Sơ tổ Bồ-đề Đạt-ma truyền cho ngài Huệ Khả, ngài truyền Kinh Lăng Già để làm tâm ấn.
 Nhưng từ Ngũ tổ Hoằng Nhẫn, Thiền tông đã khởi sắc và phát triển theo một chiều hướng mới để thích nghi với căn cơ và nền tảng văn hóa Trung Hoa, nên Ngài mới dùng Kinh Kim Cang để truyền thừa thay vì kinh Lăng-già. Từ đó, Kinh Kim Cang đã đóng một vai trò đặc biệt rất then chốt trong sự lan toả mạnh mẽ của Phật giáo cũng như Thiền tông Trung Hoa và sau đó lan rộng ra các nước Đông Nam Á.
-Khi Thiền tông đã đưa Phật giáo Trung Hoa đến đỉnh cao nhất thì cũng là lúc Kinh Kim Cang được chú ý đến nhiều nhất của mọi giới, từ giới hành trì tu chứng cho đến giới trí thức học giả chuyên nghiên cứu Phật giáo. Trào lưu nầy đã đẩy mạnh việc phiên dịch Kinh Kim Cang đến chỗ hoàn chỉnh nhất với sáu bản dịch từ tiếng Sanskrit  sang  Hán  văn.  
-Và  số  bảndịch ấy, cho đến ngày nay vẫn không tăng thêm một bản nào được xem là có giá trị ngang tầm với 6 bản đó, đã chứng thực cho nhân định nầy.
+Khi Thiền tông đã đưa Phật giáo Trung Hoa đến đỉnh cao nhất thì cũng là lúc Kinh Kim Cang được chú ý đến nhiều nhất của mọi giới, từ giới hành trì tu chứng cho đến giới trí thức học giả chuyên nghiên cứu Phật giáo. Trào lưu nầy đã đẩy mạnh việc phiên dịch Kinh Kim Cang đến chỗ hoàn chỉnh nhất với sáu bản dịch từ tiếng Sanskrit sang Hán văn.  
+Và số bảndịch ấy, cho đến ngày nay vẫn không tăng thêm một bản nào được xem là có giá trị ngang tầm với 6 bản đó, đã chứng thực cho nhân định nầy.
 
 6 bản dịch đó, được sắp xếp theo thời gian như sau:
 Cưu-ma-la-thập (s: Kumārajīva): nhan đề Kim Cang Bát-nhã Ba-la-mật Kinh, được dịch đầu thế kỷ 5 (Đại Chính Tạng, tập 8).
 Bồ-đề Lưu-chi (s: Bodhiruci): Nhan đề Kim Cang Bát-nhã Ba-la- mật Kinh. Dịch đầu thế kỷ 6–Niên hiệu Vĩnh Bình nguyên niên –508)
 Chân Đế (s: Paramārtha; 499-569. Nhan đề Kim Cang Bát-nhã Ba-la- mật Kinh. Dịch vào giữa thế kỷ 6–
-Cấp-đa,  (s:  Dharmagupta,  (590-619), Hán dịch Pháp Mật). Tên kinh Kim Cang Năng Đoạn Bát Nhã Ba La Mật Đa Kinh. Dịch vào cuối thế kỷ 6
+Cấp-đa, (s: Dharmagupta, (590-619), Hán dịch Pháp Mật). Tên kinh Kim Cang Năng Đoạn Bát Nhã Ba La Mật Đa Kinh. Dịch vào cuối thế kỷ 6
 Huyền Tráng: Tên kinh Năng Đoạn Kim Cang Bát Nhã Ba La Mật Đa Kinh, Dịch vào giữa thế kỷ 7.
 Nghĩa Tịnh (635-713). Tên kinh Phật Thuyết Năng Đoạn Kim Cang Bát Nhã Ba La Mật Đa Kinh. Dịch vào đầu thế kỷ 8.
 
 Dịch từ Sanskrit sang tiếng Anh: Có 1 bản dịch: của Edward Conze, Luân đôn, 1957. Bản dịch Việt của Lệ Pháp.
-Còn nhiều bản dịch tiếng Anh của nhiều tác giả khác, nhưng phần nhiều đều dịch từ bản tiếng Hán của ngài Cưu-ma-la-thập. 
+Còn nhiều bản dịch tiếng Anh của nhiều tác giả khác, nhưng phần nhiều đều dịch từ bản tiếng Hán của ngài Cưu-ma-la-thập.
 Chỉ có bản của dịch của Edward Conze là dịch từ tiếng Sanskrit, có tính nguyên uỷ hơn, và tất nhiên được giới nghiên cứu căn cứ nhiều hơn.
 Khi một bản Kinh đã có sự định hướng cũng như khơi động rất mạnh tận chiều sâu tâm thức con người như vậy, tất sẽ có các pháp môn tu tập hình thành từ Kinh Kim Cang, từ đó phải cần có những luận giải, chú thích, giảng luận về bộ kinh nầy để đáp ứng cho việc hành trì. Chính Lục tổ Huệ Năng, đương thời cũng đã dùng Kinh Kim Cang để giảng giải và sau nầy, môn đệ đã ghi chép lại thành một tập, nhan đề là Kinh Kim Cang Khẩu quyết.
 
 Các bản luận giải tạm ghi nhận như sau:
 
-*Tiếng Sanskrit:
+\*Tiếng Sanskrit:
 Bát thập kệ của Bồ-tát Di-lặc. Còn gọi Di-lặc Bồ-tát tụng.
 Kim cang Bát-nhã Luậncủa Ngài Vô Trước.
 Kim cang Bát-nhã Ba-la-mật-đa Kinh Luận của Ngài Thế Thân.
 Kim cang Bát-nhã Ba-la-mật-đa Kinh Phá thủ tướng Bất hoại Giả danh Luận của ngài Công Đức Thi
 
-*Tiếng Hán:
+\*Tiếng Hán:
+
 - Kim cang kinh chú của ngài Tăng Triệu - Đời Hậu Tần.
 - Kim cang Kinh nghĩa sớ của ngài Cát Tạng - Đời Tuỳ.
 - Kim cang Kinh sớ của ngài Trí Khải - Đời Tuỳ.
@@ -134,7 +137,7 @@ Kim cang Bát-nhã Ba-la-mật-đa Kinh Phá thủ tướng Bất hoại Giả d
 - Kim cang Bát-nhã ba-la-mật kinh giảng kí, của ngài Ấn Thuận - thời cận đại.
 
 Về các luận giải từ tiếng Sanskrit, chúng ta thấy một điều đặc biệt là các nhà tạo luận đều là tị tổ của Du-già hành tông (Yogācāra), hay còn gọi là Duy thức hay Pháp tướng tông. Cho chúng ta thấy qua cái nhìn của các vị nầy, từ khởi thuỷ của nền học thuật và tư tưởng trên chính mảnh đất quê hương Ấn Độ, Kinh Kim Cang đã có một vai trò rất lớn trong Du-già hành tông. Nên chẳng ngạc nhiên gì khi ngài Huyền Trang đã có một bản dịch
-rất đắc sắc về kinh nầy. Và sau đó, môn đệ của ngài là Khuy Cơ cũng góp phần bằng một bản luận giải. 
+rất đắc sắc về kinh nầy. Và sau đó, môn đệ của ngài là Khuy Cơ cũng góp phần bằng một bản luận giải.
 Nhưng điều đáng chú ý là Khuy Cơ đã không dùng bản dịch của ngài Huyền Trang, thầy mình, mà lại dùng bản dịch của ngài Cưu-ma-la-thập để chú giải.
 
 ☸
@@ -174,10 +177,10 @@ nên còn lưu lại bài kệ bốn câu: Như lộ diệc như điển. Lại 
 Về các luận giải dùng trong sách nầy, về các tác giả Ấn Độ, Tăng Phụng Nghi đã trích dẫn nhiều nhất là Bát thập kệ của Bồ-tát Di-lặc, còn gọi Di- lặc Bồ-tát tụng. Bản thứ hai là Kim cang Bát-nhã Ba-la-mật-đa Kinh Phá thủ tướng Bất hoại Giả danh Luận của ngài Công Đức Thi, do Sa-môn
 
 Địa-bà-ha-la 沙門地婆訶羅 dịch vào đời Đường.
-Các luận giải của các Tăng sĩ Trung Hoa được Tăng Phụng Nghi dùng trong tập sách nầy là Lương Triều Phó Đại sĩ tụng Kim Cang Kinh.4[4] 
+Các luận giải của các Tăng sĩ Trung Hoa được Tăng Phụng Nghi dùng trong tập sách nầy là Lương Triều Phó Đại sĩ tụng Kim Cang Kinh.4[4]
 Về tác giả nầy, có nhiều nét khá kỳ đặc xin ghi nhận vài điều như sau:
 Phó Đại sĩ (497-569), tên là Phó Hấp. Còn gọi: Thiện Huệ Đại Sĩ, Ngư Hành Đại Sĩ, Song Lâm Đại Sĩ, Đông Dương Đại Sĩ, Ô Thương Cư sĩ.
-Cư sĩ Trung Quốc sống vào đời Lương thuộc Nam Triều, người Ô Thương, Đông Dương (nay là huyện Nghĩa Ô, Chiết Giang), tự Huyền Phong,  hiệu  Thiện  Huệ,  cùng  với
+Cư sĩ Trung Quốc sống vào đời Lương thuộc Nam Triều, người Ô Thương, Đông Dương (nay là huyện Nghĩa Ô, Chiết Giang), tự Huyền Phong, hiệu Thiện Huệ, cùng với
 
 4[4]梁朝傅大士頌金剛經No. 2732 [cf. No. 235]
 
@@ -186,8 +189,8 @@ Khi chưa gặp đạo, ngài thường cùng người làng lưới cá, mỗi 
 Đời Lương, năm 534, Ngài sai đệ tử là Phó Vãng dâng thư lên vua Vũ Đế hiến sách lược về ba điều lành thượng, trung, hạ. Tháng 12 nhuận, Vua mời Ngài vào cung, giảng kinh ở điện Trùng Vân. Vua đích thân đến nghe. Mọi người thấy Vua đến đều đứng dậy, chỉ mình Ngài ngồi im, quần thần gạn hỏi, Ngài nói: “Đất pháp nếu động thì tất cả chẳng an.” Việc nầy về sau được truyền tụng thành giai thoại trong Thiền lâm.
 Năm 535, Ngài về núi Tùng, năm năm sau lại đến Chung Sơn, bàn luận chân đế với Vua ở điện Thọ Quang, làm kệ tụng trình Vua. Năm 540 có thuyết nói năm 539, Ngài xây cất điện Phật, tháp gạch 9 tầng giữa các cây song đào ở núi Tùng, tức chùa Song Lâm, ở tại đây Ngài biên chép hơn 1000 quyển kinh, luật.
 Đời Trần, năm 569, Ngài nhóm đệ tử lại răn dạy xong, ngồi kiết-già thị tịch, thọ 73 tuổi. Đệ tử an táng trên đỉnh núi Song Lâm, hiệu là Di-lặc Hạ Sanh.
-Tác phẩm gồm có Tâm Vương Minh, Ngữ Lục 4 quyển, Hoàn Nguyên Thi. Luận  giải  thứ  hai  của  các  Tăng  sĩ
-Trung  Hoa  được  Tăng  Phụng  Nghi dùng trong tập sách nầy là San định ký5[5] của ngài Tử Tuyền. Ngài là một Cao Tăng Trung Quốc (965-1038), thuộc tông Hoa Nghiêm, sống vào đời Bắc Tống, người ở Tiền Đường, Hàng Châu (có thuyết nói là Gia Hưng,  Tú  Châu),  Trung  Quốc,  họ 5[5] Trịnh, hiệu Đông Bình, còn gọi là Trường Thuỷ Đại Sư.
+Tác phẩm gồm có Tâm Vương Minh, Ngữ Lục 4 quyển, Hoàn Nguyên Thi. Luận giải thứ hai của các Tăng sĩ
+Trung Hoa được Tăng Phụng Nghi dùng trong tập sách nầy là San định ký5[5] của ngài Tử Tuyền. Ngài là một Cao Tăng Trung Quốc (965-1038), thuộc tông Hoa Nghiêm, sống vào đời Bắc Tống, người ở Tiền Đường, Hàng Châu (có thuyết nói là Gia Hưng, Tú Châu), Trung Quốc, họ 5[5] Trịnh, hiệu Đông Bình, còn gọi là Trường Thuỷ Đại Sư.
 Năm 9 tuổi, Sư thờ ngài Khế Tông chùa Phổ Huệ làm thầy, chuyên trì tụng Kinh Lăng Nghiêm. Năm 13 tuổi Sư thọ giới Cụ túc. Lúc đầu, Sư học giáo pháp Hoa Nghiêm nơi ngài Tú Châu Hồng Mẫn, sau tham yết ngài Lang Da Huệ Giác mà có tỉnh ngộ, ngài Huệ Giác bảo sư trở về quê mở mang giáo pháp Hoa Nghiêm. Sư trụ trì chùa Trường Thuỷ, lập giảng đường dạy Hoa Nghiêm, Lăng Nghiêm. Đồ chúng đến ngàn vị. Sư có công rất lớn trong việc chấn hưng lại tông Hoa Nghiêm đời Tống. Năm 1013, Hàn Lâm học sỹ Tiền Công Dị tâu vua ban cho Sư tử y đồng thời ban hiệu Trường Thuỷ Sớ Chủ Lăng Nghiêm Đại Sư.
 Sư thị tịch năm 1038, thọ 74 tuổi.
 Tác phẩm gồm có: Thủ-lăng-nghiêm Nghĩa Sớ Chú Kinh 20 quyển, Thủ- lăng-nghiêm Kinh khoa 2 quyển, Kim Cang Bát Nhã Kinh Toản Yếu Khoa 1 quyển, Đại Thừa Khởi Tín Luận Bút Tước Ký 20 quyển.
@@ -208,31 +211,23 @@ Chúng tôi cũng chỉ theo dấu người xưa để làm cái việc chẳng 
 mong mạo muội chuyển được ý các ngài qua chữ nghĩa. Chắc hẳn là các ngài sẽ có lắm phiền trách. Con xin cúi đầu nhận tội vì tài hèn sức mọn, không thể nào chuyển hết tâm nguyện của các ngài, xin các Ngài từ bi lượng thứ.
 Trân trọng cầu thỉnh các bậc thức giả cùng người đọc bổ khuyết cho những điều còn bất toàn trong bản dịch nầy.
 
-
-
 ☸
 Thích Nhuận Châu Tịnh Thất Từ Nghiêm Hạ An Cư, 2006.
 
+CHÁNH VĂN
 
-
-
-
-
-
-CHÁNH	VĂN
-
-KIM	CANG	BÁT-NHÃ	BA-LA- MẬT-ĐA
+KIM CANG BÁT-NHÃ BA-LA- MẬT-ĐA
 KINH TÔNG THÔNG
 ☸
 
 Thông rằng:
 
-Nhan đề của Kinh nầy là Bát-nhã ba- la-mật. Bát-nhã là đệ nhất trong các Ba-la-mật. Các Đức Như Lai vì những người phát tâm Đại thừa, vì những người phát tâm tối thượng thừa mà giảng nói kinh nầy, nên chẳng thể đem trí huệ tầm thường mà luận bàn được. Vả lại Tu-bồ-đề tán thán Như Lai khéo hộ niệm các Bồ-tát, khéo phó  chúc  cho  hàng  Bồ-tát,  vì  chỉ
+Nhan đề của Kinh nầy là Bát-nhã ba- la-mật. Bát-nhã là đệ nhất trong các Ba-la-mật. Các Đức Như Lai vì những người phát tâm Đại thừa, vì những người phát tâm tối thượng thừa mà giảng nói kinh nầy, nên chẳng thể đem trí huệ tầm thường mà luận bàn được. Vả lại Tu-bồ-đề tán thán Như Lai khéo hộ niệm các Bồ-tát, khéo phó chúc cho hàng Bồ-tát, vì chỉ
 
 trong giai vị Bồ-tát mới chân thực phát tâm Vô thượng chánh đẳng chánh giác (A-nậu-đa-la Tam-miệu tam-bồ-đề). Hộ niệm các Bồ-tát là để thể hiện tâm thường trú; phú chúc là để thuận tiện trong việc độ thoát chúng sinh. Cần phải có trí huệ vi diệu để hàng phục được tâm, mới mong chứng được Vô thượng bồ-đề của Như Lai, nên Đức Phật mới nói Kinh Kim cang Bát-nhã cho hàng Bồ- tát. Do hàng Bồ-tát khi tu tập đến tư lương vị, gia hạnh vị, đã chứng tam không, được vô sanh pháp nhẫn; đến thông đạt vị, tức hàng sơ địa Bồ-tát, chứng được từng phần chân như mà vẫn còn câu sanh ngã chấp; Bồ-tát đến hàng bát địa, đã xả bỏ tàng (thức), vẫn còn câu sanh pháp chấp.
 
 Hai thứ chấp nầy (ngã chấp, pháp chấp), mỗi thứ đều có sở tri ngu vi tế. Trong pháp chấp vẫn còn cái sở tri ngu rất vi tế nầy, đến Đẳng giác mới đoạn sạch được. Để dứt trừ được nó, chỉ có Kim cang như huyễn tam-muội thậm thâm mới đủ để gọi là pháp đối trị. Lên đến sơ địa, nhị địa lại phá trừ tiếp. Đạt đến nhị địa, tam địa phá trừ tiếp. Càng tiến dần lên các địa, đến giai vị Đẳng giác mới không còn gì để phá nữa. Nên nói: Kim cang đạo hậu dị thục không (đạt được giai vị Kim cang đạo rồi mới chín muồi các ý niệm về không nầy) là do nghĩa trên.
-Lại nữa, trong 10 dụ thâm diệu của Kim  cang,  khi  nói  như  huyễn  như
+Lại nữa, trong 10 dụ thâm diệu của Kim cang, khi nói như huyễn như
 
 mộng, đến như sương móc, như điển chớp..., trong bài kệ cuối bản kinh, nhân đó, ngay nơi báo thân, hoá thân, pháp thân, vẫn còn lấy huyễn mộng làm đối tượng quán sát, chẳng phải do trí thức sâu sắc mà quán sát được như vậy! Do điều nầy mà Tu-bồ-đề cảm động rơi nước mắt, mừng vì nghe được điều chưa từng nghe.
 San định ký nói rằng: Kim cang là chày báu của vua trời Đế thích,6[6] có đầy đủ hai nghĩa, rất cứng và rất bén. Nghĩa rất cứng là sao? Là không có vật nào có thể phá hoại nó được. Sao gọi là rất bén? Vì nó có thể đập nát
@@ -242,7 +237,6 @@ San định ký nói rằng: Kim cang là chày báu của vua trời Đế thí
 các vật khác. Nếu còn có một vật phá hoại được nó, thì đó không phải là vật rất cứng; nếu còn có một vật mà chày báu nầy không thể đập nát ra được; thì đó không phải là vật rất bén. Như sắt và bạc tuy là (kim loại) cứng, nhưng khi gặp lửa có thể chảy tan; đao kiếm tuy bén, chặt đá ắt phải mẻ, nên chẳng phải là nghĩa rất bén.
 Bát-nhã7[7] có hai nghĩa: thật tướng Bát-nhã và quán chiếu Bát-nhã, là có đủ nghĩa rất cứng và rất bén. Cứng là thật tướng Bát-nhã, dù có trải qua nhiều kiếp thăng trầm trong lục đạo, mà giác tánh vẫn không mất, chưa từng sinh diệt, chưa từng tổn giảm,
 
-
 7[7] Prajñā do động từ căn jñā, có nghĩa là nhận thức, hiểu biết, liễu tri. Prajñā, Hán chuyển âm là Bát-nhã (ban nhược), dịch nghĩa là trí tuệ hoặctuệ minh. Trí tuệ có khả năng soi chiếu để thấy rõ căn nguyên của sự vật. Prajñā cũng được dịch là không trí hoặc không tuệ.
 
 nên gọi là cứng chắc. Sắc bén tức là quán chiếu Bát-nhã, nghĩa là khi trí huệ nầy hiện tiền, liền hiển bày rõ pháp không; các kiết sử phiền não, vô minh mê mờ không có thứ gì không bị phá hoại, nên gọi là sắc bén. Do hai nghĩa nầy giống như tính chất của Kim cang, nên lấy tính cứng chắc của Kim cang để dụ cho thể của Bát-nhã, lấy tính sắc bén của Kim cang để dụ cho dụng của Bát-nhã, dụ về pháp có tính chiếu diệu viên mãn. Nên gọi là Kim cang Bát-nhã.
@@ -250,10 +244,10 @@ Ba-la-mật-đa8[8] là tiếng Sanskrit. Hán dịch là đáo bỉ ngạn, t�
 
 8[8] Pāramitā: Pāram có nghĩa là ở ngoài, ra ngoài, ở một bên bờ, ở thế giới bên kia. Ita có nghĩa là đã qua rồi, đã đến rồi. Còn dịch là cứu cánh hoặc viên mãn. Vậy, Pāramitā là đã vượt ra khỏi và đã đến nơi. Đã siêu việt thế gian, siêu việt vọng tưởng và đã đến nơi an tịnh, viên mãn của niết-bàn vô dư y. Hán chuyển âm Pāramitā là Ba-la-mật và dịch là “độ khứ”- tức là đã vượt qua, hoặc “đáo bỉ ngạn” là đến bờ bên kia.
 
-thoát. Có nghĩa là rời khỏi bờ sinh tử bên nầy của chúng sinh, đưa chúng sinh từ giữa dòng sông lớn phiền não, đến bờ giải thoát niết-bàn của chư Phật ở bờ bên kia. Nhưng nhận ra được sinh tử vốn không, phiền não vốn chẳng có, tức là đến được bờ bên kia, chẳng phải thật có khác nhau bên nầy (thử) và bên kia (bỉ), riêng đến bờ bên kia chẳng phải không có sự nhanh chậm đó sao! Nhanh có nghĩa là khi huệ vừa phát khởi, thấy năm uẩn đều là không, chỉ trong một sát- na, liền đến bờ bên kia. Do không cần phải trải qua nhiều thời gian, nên gọi là đốn. Tiệm là tuy có thể thấy ngay pháp không, nhưng vẫn còn nhiều tập khí trong nhiều đời, nhiệm vận vẫn còn  nhiều  trong  chấp  trước,  nên
+thoát. Có nghĩa là rời khỏi bờ sinh tử bên nầy của chúng sinh, đưa chúng sinh từ giữa dòng sông lớn phiền não, đến bờ giải thoát niết-bàn của chư Phật ở bờ bên kia. Nhưng nhận ra được sinh tử vốn không, phiền não vốn chẳng có, tức là đến được bờ bên kia, chẳng phải thật có khác nhau bên nầy (thử) và bên kia (bỉ), riêng đến bờ bên kia chẳng phải không có sự nhanh chậm đó sao! Nhanh có nghĩa là khi huệ vừa phát khởi, thấy năm uẩn đều là không, chỉ trong một sát- na, liền đến bờ bên kia. Do không cần phải trải qua nhiều thời gian, nên gọi là đốn. Tiệm là tuy có thể thấy ngay pháp không, nhưng vẫn còn nhiều tập khí trong nhiều đời, nhiệm vận vẫn còn nhiều trong chấp trước, nên
 
 không được tương ưng trong mỗi niệm, nên cần phải nghe và học theo chánh pháp, tư duy nghĩa lý, thúc dục trí huệ vừa mới phát ấy, giác sát vọng tình, trừ sạch nhiều lần, cho đến khi không còn nữa, thế mới rốt ráo đến bờ bên kia. Do phải trải qua nhiều thời gian, nên gọi là tiệm. Nhanh chậm có khác nhau, đều có nghĩa là trí huệ để đến bờ giải thoát.
-Tu-đa-la là tiếng Sanskrit. Hán dịch nghĩa là Khế kinh. Có nghĩa là khế lý và khế cơ. Khế lý nghĩa là nói sự phải đúng như sự, nói lý phải đúng như lý. Khế cơ là khiến cho người nghe hiểu được và thâm nhập, hoan hỷ tin nhận và hành trì. Kinh có nghĩa là quán (xuyên  suốt)  và  gom  giữ  (nhiếp).
+Tu-đa-la là tiếng Sanskrit. Hán dịch nghĩa là Khế kinh. Có nghĩa là khế lý và khế cơ. Khế lý nghĩa là nói sự phải đúng như sự, nói lý phải đúng như lý. Khế cơ là khiến cho người nghe hiểu được và thâm nhập, hoan hỷ tin nhận và hành trì. Kinh có nghĩa là quán (xuyên suốt) và gom giữ (nhiếp).
 
 Giáo nghĩa thông suốt, đáp ứng cho mọi người nghe, gom chứa đựng những điều giáo hoá mọi căn cơ chúng sinh. Để sau khi Đức Phật diệt độ hơn 2000 năm, mọi chúng sinh đều được nghe chánh pháp, đều là lực nhiếp trì thông suốt.
 Thiên Trúc (Ấn Độ) có Bồ-tát Vô Trước,9[9] ngài nhập Hoả quang tam- muội, lên cung trời Đâu-suất, học đạo với ngài Di-lặc Bồ-tát.10[10] Ngài Di-
@@ -264,9 +258,7 @@ Theo thuyết của Cao tăng Tây Tạng Tā-rā-nā-tha (t: kun-dgaḥ sñyin-
 Một vị Ðại Bồ-tát và cũng là vị Phật thứ năm và cuối cùng sẽ xuất hiện trên trái đất. Trong Phật giáo Tây Tạng, Phật Di-lặc được thờ cúng rất rộng rãi. Cõi giáo hoá của Ngài hiện nay là trời Ðâu-suất (s: tuṣita). Theo truyền thuyết, Phật Di-lặc sẽ giáng sinh trong khoảng 30.000 năm nfia.
 Tranh tượng hay vẽ Ngài ngồi trên mặt đất, biểu tượng sẵn sàng đứng dậy đi giáo hoá chúng sinh. Tại Trung Quốc, Phật Di-lặc cũng hay được biểu tượng là một vị mập tròn vui vẻ, trẻ con quấn quít xung quanh. Theo truyền thuyết thì đó chính là hình ảnh của Bố Ðại Hoà thượng, một
 
-lặc Bồ-tát giảng cho ngài Vô Trước nghe 80 bài kệ để hiển bày ý chỉ của kinh. Ngài Vô Trước đem những bài kệ nầy truyền cho người em ruột mình là Bồ-tát Thế Thân.11[11] Ngài Thế Thân theo những bài kệ này tạo thành bộ luận gồm ba quyển, giản ước, gạn trừ các mối nghi ngờ và chấp trước, để giải thích nghĩa chính của Kinh Kim Cang. Kẻ học giải nếu bỏ qua điều nầy không đạt chỗ thấu đáo,  ắt  đó  là  tà  thuyết.  Tôi  (TPN)
-
-
+lặc Bồ-tát giảng cho ngài Vô Trước nghe 80 bài kệ để hiển bày ý chỉ của kinh. Ngài Vô Trước đem những bài kệ nầy truyền cho người em ruột mình là Bồ-tát Thế Thân.11[11] Ngài Thế Thân theo những bài kệ này tạo thành bộ luận gồm ba quyển, giản ước, gạn trừ các mối nghi ngờ và chấp trước, để giải thích nghĩa chính của Kinh Kim Cang. Kẻ học giải nếu bỏ qua điều nầy không đạt chỗ thấu đáo, ắt đó là tà thuyết. Tôi (TPN)
 
 hoá thân của Di-lặc ở thế kỉ thứ 10. Nếu năm đức Phật xuất hiện trên trái đất nói trên được xem là hoá thân của Ngũ Phật thì Phật Di-lặc được xem như hoá thân của Thành sở tác trí.
 Có thuyết cho rằng, chính Ngài là người khởi xướng Ðại thfia Phật giáo hệ phái Duy thức. Một số học giả cho rằng, vị này chính là Mai-tre-ya-na-tha (s: Maitreyanātha), thầy truyền giáo lí Duy thức cho ngài Vô Trước (s: Asaṅga). Truyền thống Phật giáo Tây Tạng cho rằng, Ngài là tác giả của 5 bài luận (s: śāstra), được gọi là Di-lặc (Tfi Thị) ngũ luận: 1. Ðại thfia tối thượng (đát-đặc-la) tan-tra (s: mahāyānottaratantra); 2. Pháp pháp tính phân biệt luận (s: dharmadharmatāvibaṅga); 3. Trung biên phân biệt luận (s: madhyāntavibhāga-śāstra); 4. Hiện quán trang nghiêm luận (s: abhisamayālaṅkāra); 5. Ðại thfia kinh trang nghiêm luận (s: mahāyānasūtralaṅkāra).
@@ -289,7 +281,7 @@ Sư là một trong nhfing Thiền sư đầu tiên làm kệ tán tụng nhfing
 
 Nhất phiến hư ngưng tuyệt vị tình Nhân thiên tùng thử kiến Không Sinh
 Bạng hàm huyền thố thâm thâm ý
-Tằng	dữ	thiền	gia	tác	chiến tranh.15[15]
+Tằng dữ thiền gia tác chiến tranh.15[15]
 Tạm dịch::
 Một phiến rỗng rang bặt nghĩ bàn Người, trời từ đó thấy Không Sanh (Tu-bồ-đề)
 
@@ -301,7 +293,7 @@ Sau, sư đến trụ trì tại Tứ Minh sơn, trên ngọn Tuyết Ðậu. M�
 皇祐四年寂，壽七十三。賜號明覺大師。見續傳燈錄二
 15[15] Bích Nham Lục, Tắc 90 T48; Trí Môn Bát-nhã thể.
 
-Trai ngậm, thỏ huyền thâm ý tuyệt Từng	với	thiền	gia	dậy	chiến tranh.
+Trai ngậm, thỏ huyền thâm ý tuyệt Từng với thiền gia dậy chiến tranh.
 Viên thành thật tánh của Pháp Nhãn có lời tụng rằng:
 Lý cực vong tình vị Như hà đắc dụ tề
 Đáo đầu sương dạ nguyệt
@@ -315,8 +307,6 @@ Núi xa tợ đường mê Ngẩng đầu trăng đã lặn Vốn vẫn ở tr�
 
 Học giả nên tham cứu thấu đạt những lời nói nầy, mới biết được chỗ thân thiết của Bát-nhã. Đừng mất công tranh luận vô ích!
 
-
-
 CHÁNH VĂN
 
 Kinh văn:
@@ -326,7 +316,7 @@ Phật ở thành Xá-vệ, vườn Kỳ thọ Cấp Cô Độc, cùng chúng đ
 
 tinh xá. Thọ trai xong, các vị thu dọn y bát, rửa chân, trải tòa ra ngồi.
 Thông rằng:
-Bộ Kinh Bát-nhã nầy tất cả gồm 600 quyển, gồm 16 hội giảng kinh ở 4 nơi. Một là ở núi Linh Thứu thành Vương xá, gồm 7 hội. Hai là ở vườn Kỳ thọ Cấp Cô Độc, gồm 7 hội. Ba là tại Điện Ma-ni Bảo tạng thuộc Tha hoá thiên cung gồm 1 hội. Bốn là tại vườn Trúc lâm, hồ Bạch lộ, thành Vương xá, gồm 1 hội. Tiếp đến có 9 hội phóng quang. Những ai thấy được hào quang nầy đều chứng được A- nậu-đa-la tam-miệu tam-bồ-đề. Hào quang nầy tức trí tuệ quang minh. Đức Phật nói kinh nầy là điều thậm thâm  vi  diệu,  sao  không  phóng
+Bộ Kinh Bát-nhã nầy tất cả gồm 600 quyển, gồm 16 hội giảng kinh ở 4 nơi. Một là ở núi Linh Thứu thành Vương xá, gồm 7 hội. Hai là ở vườn Kỳ thọ Cấp Cô Độc, gồm 7 hội. Ba là tại Điện Ma-ni Bảo tạng thuộc Tha hoá thiên cung gồm 1 hội. Bốn là tại vườn Trúc lâm, hồ Bạch lộ, thành Vương xá, gồm 1 hội. Tiếp đến có 9 hội phóng quang. Những ai thấy được hào quang nầy đều chứng được A- nậu-đa-la tam-miệu tam-bồ-đề. Hào quang nầy tức trí tuệ quang minh. Đức Phật nói kinh nầy là điều thậm thâm vi diệu, sao không phóng
 
 quang? Đức Phật vì thể hiện trí huệ bình đẳng, nghĩa là hằng phóng quang trong thể tánh bình đẳng mà chúng sinh không biết.
 Lúc ấy đến giờ thọ trai, đức Thế Tôn đắp y, mang bát : tức là Thế tôn phóng quang từ tay của ngài.
@@ -342,13 +332,9 @@ Nếu có bậc thượng căn lợi trí, nhận ra được Thế tôn phóng 
 như huyễn để đến bờ bên kia (ba-la- mật), thì còn nương vào đâu để khai thị nữa đây!
 San định ký nói rằng: Phần tự gồm có 2 phần, một là Chứng tín tự, hai là Phát khởi tự. Bắt đầu từ Như thật tôi nghecho đến một ngàn hai trăm năm mươi vị, là phần Chứng tín tự,16[16] có nghĩa là nói rõ nơi chốn và thời gian giảng kinh, mỗi mỗi đều rõ ràng, để chứng thật chứ không hư dối. Một thuở nọtức là lúc Như Lai giảng pháp, đại chúng lắng nghe. Đức Phật, là chủ của hội giảng kinh. Rừng cây là nơi Thái tử Kỳ-đà đã cúng dường, vườn do trưởng giả Cấp Cô Độc mua lại, là địa điểm diễn ra pháp hội giảng
 
-
-
 16[16]Đối chiếu Lục chủng thành tựu: Tín thành tựu, Văn thành tựu, Thời thành tựu, Chủ thành tựu, Xứ thành tựu và Chúng thành tựu
 
 kinh. Cùng chúng đại tỷ-khưu, là đại chúng dự nghe giảng pháp. Đến dự, cùng nghĩa với nhất thời, nhất xứ ở trên. Dùng những lời dẫn nhập như vậy để mở đầu cho kinh văn. Do sau khi Như Lai diệt độ, ngài A-nan hỏi Đức Phật rằng khi mở đầu các bộ kinh nên ghi như thế nào? Đức Phật đáp: Nên dùng câu Như thị ngã văn nhất thời (Như thật tôi nghe, một thuở nọ),17[17] Phật tại xứ đó, cùng chừng đó số chúng, chẳng phải chỉ riêng giáo pháp của Như Lai giảng nói mới như vậy, mà chư Phật trong ba đời cũng giảng nói pháp như vậy. Nên ngài A-nan tuân theo lời dạy của Đức Phật, dùng lời dẫn nhập như vậy để
-
-
 
 17[17]S: evaṃ mayā śrutam ekasmin samaye.
 
@@ -361,8 +347,6 @@ não; khất thực mà không có, mất thời gian lại bị đói, tự mì
 Thành Xá-vệ (Śrāvastī), Hán dịch là Văn vật, có nghĩa là trong thành nhiều người có tài đức và danh tiếng,
 
 có nhiều vật quý hiếm. Đại Đường Tây vức ký 19[19]có ghi: Thành nầy chu vi hơn 60 dặm (lý), trong thành rộng 20 dặm, nên gọi là thành lớn.” Trí độ luận ghi: Gia cư gồm 9 ức, nên gọi là người đông. Đức Phật khi vào đại thành Xá-vệ khất thực, không bỏ qua nhà nghèo để đến nhà giàu, không bỏ qua người bần tiện để đến người giàu sang, mà với tâm đại từ bình đẳng, không có sự lựa chọn. Trở về tinh xá là việc hoá duyên đã xong, trở về vườn Kỳ hoàn. Thọ trai, là Đức Phật muốn cho những người bố thí đạt được đầy đủ phước báo. Có thuyết nói rằng thức ăn vừa vào miệng, có Đại oai đức thiên ẩn hình đứng một
-
-
 
 19[19]Của ngài Huyền Trang. (12 quyển). Đời Đường , Huyền Trang thuật, Biện Cơ (辯機) soạn. T. 51, Tr. 867, Sh. 2087
 
@@ -388,7 +372,6 @@ cho con?” Sùng Tín cúi đầu im lặng hồi lâu. Thiên Hoàng nói: “
 Về sau Sùng Tín dừng trụ ở Long Đàm, có Thứ sử Lý Cao21[21] đến hỏi: Thế nào là chân như Bát-nhã?
 Sùng Tín đáp: Ta không có chân như Bát-nhã.
 Lý Cao nói: Thật may mắn được gặp
-
 
 21[21]李翱刺史(772-841) Cư sĩ đời Đường, tự là Tập Chi, người Lũng Tây, Thành Kỉ (nay ở phía tây Tần An, Cam Túc), có thuyết cho là người đất Triệu Quận (nay là huyện Triệu, tỉnh Hà Bắc) Trung Quốc. Từ thuở nhỏ học Nho uyên bác, hiếu cổ. Niên hiệu Trinh Nguyên thứ 14 (798) đậu Tiến sĩ. Lần lượt nhậm chức Hiệu thư lang, Quốc tử Bác sĩ, Sứ quán tu soạn, Gián nghị đại phu, Trung thư Xá nhân, Tiết độ sứ Đông Đạo ở Sơn Nam, cùng với thầy là Hàn Dũ, tài văn chương được đương thời khen ngợi. Theo Thiền sư Dược Sơn Duy Nghiễm học hỏi lí thiền có chỗ tỏ ngộ. Có soạn tác phẩm: Phục Tính Thư.
 
@@ -418,8 +401,7 @@ thượng Bồ-đề, nên trụ tâm như thế nào, hàng phục tâm như th
 “Nếu có thiện nam, tín nữ lòng lành, phát tâm Bồ-đề, nên trụ tâm như thế này, nên hàng phục tâm như thế này.”
 “Bạch Thế Tôn! Xin nguyện lắng nghe.”
 Thông rằng:
-Tu-bồ-đề22[22]  vốn  là  Đông  Phương
-
+Tu-bồ-đề22[22] vốn là Đông Phương
 
 22[22]Tu-bồ-đề 須 菩 提; S, P: subhūti; Hán dịch: Thiện Hiện, Thiện Cát, Thiện Nghiệp; Một trong Mười đại đệ tử của Phật. Tôn giả là người nổi tiếng về phép thiền quán về lòng Từ. Trong bộ kinh Bát-nhã ba-la-mật-đa, Tôn giả là người giải thích tính Không (s: śūnyatā) ưu việt nhất.
 
@@ -471,8 +453,8 @@ Một tác phẩm luận giải của ngài Long Thọ về bộ kinh Bát-nhã 
 Phục tâm bồ-đề: tức hàng Bồ-tát đã đến bậc tam hiền.
 Minh tâm bồ-đề: tức hàng Bồ- tát từ sơ địa đến thất địa.
 Xuất đáo bồ-đề: tức hàng Bồ-tát từ bát địa đến thập địa.
-Vô thượng bồ-đề: tức Như Lai. Nay		nói	gọn,	năng	phát	tâm,	tức thuộc vào hạng thứ nhất kể trên. Chỗ
-hướng  đến  khi  phát  tâm  (sở),  tức
+Vô thượng bồ-đề: tức Như Lai. Nay nói gọn, năng phát tâm, tức thuộc vào hạng thứ nhất kể trên. Chỗ
+hướng đến khi phát tâm (sở), tức
 thuộc hàng thứ năm. Phối hợp năng sở mà luận, tức xuyên suốt cả trước sau.
 Nên trụ tâm như thế nào? Khi chưa phát tâm, tức trụ vào lục trần; khi phát tâm rồi, niềm tin đã thích nghi nhờ sự cải đổi thói quen cũ, vậy thì trụ vào cảnh giới nào?
 
@@ -484,7 +466,7 @@ Hàng phục tâm như thế nào? Khi chưa phát tâm, vọng tâm khởi li�
 Nay ông hãy lắng nghe, Đức Phật dạy hãy lắng nghe.
 Như Lai sẽ vì các ông mà giảng thuyết. Như Lai hứa sẽ chỉ bày cho các ông.Đế 28[28] có nghĩa là nghĩa sâu mầu chân thật, ý là muốn cho Tu-bồ- đề thâm nhập vào chân lý sâu mầu, hãy dùng tâm thanh tịnh mà lắng nghe.
 Nếu có thiện nam, tín nữ, Là nêu ra đối tượng.
-Nên  trụ  tâm  như  thế  này,  là  lời
+Nên trụ tâm như thế này, là lời
 
 28[28]諦 satya，巴sacca，藏bden-pa. Chân lí chắc thật. Sự thực. Có hai loại:
 S: saṃvṛti-satya; còn gọi là Thế tục đế; Chân lí qui ước
@@ -496,7 +478,7 @@ khuyến khích. Ý là sẽ nói, tức là còn để lửng lời đáp ở v
 Thưa hai tiếng Dạ vâng (duy nhiên) xong, ngài Thiện Hiện dứng chờ lắng
 nghe. Chữ duy 唯 haynặc 諾 đều có nghĩa là thuận lòng. Hoa Nghiêm Thập địa phẩm nói:
 “Như khát tư lãnh thuỷ, như cơ tư mỹ thực, như bệnh tư lương dược, như chúng phong y mật, ngã đẳng diệc như thị, nguyện văn cam lồ pháp–
-Như người khát nghĩ đến nước mát, như  người  đói  mong  được  thức  ăn
+Như người khát nghĩ đến nước mát, như người đói mong được thức ăn
 
 ngon, như người bệnh cầu thuốc hay, như loài ong tìm mật. Chúng con cũng như vậy, nguyện nghe được giáo pháp như vị cam lồ.”
 Ong hút nhị trăm hoa làm thành mật, người tu tập vạn hạnh để chứng chân. Ong làm thành mật rồi, nhờ mật mà sống. Người chứng chân rồi, nương trụ trong thể tánh chân thật. Việc mong được nghe (nguyện văn) cũng giống như vậy.
@@ -508,7 +490,7 @@ Kinh văn:
 
 若無色。若有想若無想。若非有想非無想。我皆令入無餘涅槃而滅度之。如是滅度無量無數無邊眾生。實無眾生得滅度者。何以故。須菩提。若菩薩有我相人相眾生相壽者相。即非菩薩。
 Phật bảo Tu-bồ-đề: “Các vị đại Bồ-
-tát nên hàng phục tâm như thế này: ‘Đối với tất cả các loài chúng sanh: hoặc sanh từ bào thai, hoặc sanh từ trứng, hoặc sanh nơi ẩm thấp, hoặc do biến hóa sanh ra, hoặc có sắc, hoặc không có sắc, hoặc có tưởng, hoặc không tưởng, hoặc chẳng phải có  tưởng  chẳng  phải  không  tưởng,
+tát nên hàng phục tâm như thế này: ‘Đối với tất cả các loài chúng sanh: hoặc sanh từ bào thai, hoặc sanh từ trứng, hoặc sanh nơi ẩm thấp, hoặc do biến hóa sanh ra, hoặc có sắc, hoặc không có sắc, hoặc có tưởng, hoặc không tưởng, hoặc chẳng phải có tưởng chẳng phải không tưởng,
 
 Như Lai đều độ thoát, khiến nhập vào Vô dư niết-bàn. Độ thoát cho vô số chúng sanh như vậy, mà thật không có chúng sanh nào được độ thoát.
 “Vì sao vậy? Tu-bồ-đề, nếu Bồ-tát có các tướng ngã, nhân, chúng sanh, thọ giả, thì chẳng phải là Bồ-tát.
@@ -516,7 +498,7 @@ Phó Đại sĩ có bài tụng: Không Sinh sơ thỉnh vấn, Thiện Thệ �
 Thứ giáo như thị tu.
 Thai sanh noãn thấp hoá, Hàm linh bi trí thâu;
 Nhược khởi chúng sinh kiến, Hoàn đồng trước tướng cầu.
-Nghĩa  là:  Không  Sinh  (Tu-bồ-đề  )
+Nghĩa là: Không Sinh (Tu-bồ-đề )
 
 vừa mới hỏi, Thiện Thệ (Như Lai) liền ứng theo căn cơ mà đáp, ban đầu trả lời cách an trụ, tiếp đến chỉ bày cách tu. Các loài chúng sinh từ thai trứng, ẩm thấp, biến hoá mà sinh ra, đều gồm chung là loài hàm linh có từ bi trí tuệ. Nếu khởi cái thấy có chúng sinh tức là cũng như chấp tướng mà cầu [Như Lai]”.
 Thông rằng:
@@ -553,7 +535,6 @@ Ba dạng niết-bàn trước là Hữu dư y niết-bàn. Dạng Niết-bàn s
 chư Phật. Do đây mà độ thoát chúng sinh, ý nguyện muốn cho hết thảy chúng sinh gồm 9 loài trong 3 cõi, loài hữu tánh và vô tánh đều thành Phật đạo, đó là nghĩa tối thượng của đệ nhất tâm.
 Sao gọi là bình thường tâm? Hết thảy chúng sinh cho đến thân mình đều bình đẳng không sai biệt trong thể tánh chân như. Độ thoát vô lượng chúng sinh như vậy đều nhập vào vô dư niết-bàn, nhưng thật không có chúng sinh nào được diệt độ. Kinh Tịnh Danh29[29] nói: Hết thảy chúng sinh đều vốn có tướng rỗng lặng, vậy không trở nên tịch diệt lại nữa. Nếu
 
-
 29[29]Tức Kinh Duy-ma-cật. Có các bản dịch với các tên gọi:
 Phật Thuyết Duy Ma Cật Kinh (2 quyển) Ngô Chi Khiêm dịch . T. 14, Tr. 519, Sh. 474
 佛說維摩詰經 (二卷) (吳 支謙譯
@@ -565,13 +546,13 @@ Chúng sinh diệt độ chẳng khác tự thân, nếu nơi tự thân khởi 
 Nếu có người chứng được đệ nhất nghĩa đế chân thật, thì bốn tướng tưởng về chúng sinh, ngã, nhân, thọ giả nhất định sẽ không sanh khởi. Như hàng Dự lưu không còn sinh khởi thân kiến. Đã không có quan niệm tướng của riêng mình (tự tướng) rồi, tức chẳng thấy có tướng của chúng sinh (tha tướng); tự tha đều bình đẳng, thì thấy hết thảy tướng chúng sinh đều bất khả đắc.
 Ngài Chí Công nói:
 Dĩ ngã thân không chư pháp không, Thiên phẩm vạn loại tất giai đồng Nghĩa là:
-Do	thân	không	nên	các	pháp không,
+Do thân không nên các pháp không,
 Muôn ngàn phẩm loại tất chung
 
 đồng.
 Là nghĩa nầy.
 Chánh trí cùng với nhĩ diệm30[30] không đồng. Nhĩ diệmphiên âm từ tiếng Sanskrit. Hán dịch là sở tri chướng. Còn sở tri chướng tức gọi là điên đảo; không còn sở tri chướng tức gọi là chánh trí. Đã là chánh trí thì không còn tâm phân biệt, nhưng nhĩ diệm (sở tri chướng) thì còn tâm phân biệt. Như bốn tướng nói trên, khi chứng ngộ rồi mới biết rõ, chính là do biết được cái sở tri chướng (nhĩ diệm) trong mình.
-Còn thấy có niết-bàn để chứng đắc, tức là còn ngã tướng. Nhận ra rằng sở chứng  chính  là  không,  tức  là  nhân
+Còn thấy có niết-bàn để chứng đắc, tức là còn ngã tướng. Nhận ra rằng sở chứng chính là không, tức là nhân
 
 30[30] S: jñeya. Ý dịch là Sở tri 所知, Cảnh giới 境界, Trí mẫu 智母, Trí cảnh 智境, Thanh minh聲明, Công xảo minh工巧明, Y phương minh醫方明, Nhân minh 因明, đều có thể khiến phát sinh cảnh giới trí huệ. Nên gọi là Nhĩ-diệm.
 
@@ -590,7 +571,6 @@ chúng sinh, mà chúng sinh là chẳng phải chúng sinh, cớ sao lại ph�
 Khuê Phong đáp: Chúng sinh nếu là thật, thì độ chúng sinh là khó nhọc. Đã tự nói là chúng sinh tức chẳng phải chúng sinh, tại sao không ví như độ mà chẳng độ.
 Lại hỏi: Trong kinh nói Phật thường trụ, hoặc là nói Phật nhập diệt. Đã thường tức là bất diệt. Diệt tức chẳng thường, có trái nhau chăng?
 Khuê Phong đáp: Lìa xa các tướng tức gọi là chư Phật. Sao lại có tướng sanh ra đời rồi nhập diệt! Thấy có
-
 
 Sư họ Hà, quê ở Quả Châu, lúc đầu qui y ở Toại Châu nơi Thiền sư Viên. Nhân dịp đọc kinh Viên Giác, Sư bỗng ngộ yếu chỉ. Sau khi đọc Hoa nghiêm sớ, Sư đến yết kiến Pháp sư Thanh Lương Trừng Quán và sau trở thành Tổ thứ năm của Hoa nghiêm tông. Danh tiếng của Sư lan tràn khắp nơi và vua Ðường Văn Tông ban cho Sư áo ca-sa tía (tử y). Ngày 6 tháng giêng năm Hội Xương, Sư ngồi thị tịch. Vua sắc phong là Ðịnh Huệ.
 Một tác phẩm nổi tiếng khác của Sư là Thiền nguyên chư thuyên tập đô tự cũng thường được nhắc đến, trong đó Sư phân chia Thiền thành năm thể loại, được gọi chung là Ngũ vị thiền.
@@ -619,7 +599,7 @@ Tu-bồ-đề! Bồ-tát nên không trụ nơi tướng như vậy mà bố th�
 Sao vậy? Nếu Bồ-tát bố thí với tâm không trụ tướng, phước đức ấy chẳng thể suy lường.
 Tu-bồ-đề! Ý ông nghĩ sao? Hư không phương đông có thể suy lường được chăng?”
 Bạch Thế Tôn, chẳng thể được.”
-Tu-bồ-đề!  Hư  không  các  phương
+Tu-bồ-đề! Hư không các phương
 
 nam, tây, bắc, bốn phương phụ, phương trên, phương dưới có thể suy lường được chăng?”
 Bạch Thế Tôn, chẳng thể được.”
@@ -675,8 +655,7 @@ Câu hỏi của Tu-bồ-đề là nên trụ tâm chỗ nào? Chỉ lo không �
 Kinh Văn-thù Bát-nhã có ghi: “Đức Phật bảo Văn-thù-sư-lợi, nên như thế nào gọi là trụ Bát-nhã ba-la-mật-đa?”
 Văn-thù-sư-lợi thưa: “Do pháp bất trụ
 
-
-33[33] T08n0236ap0752c12║Đản ưng như thị hành ư bố thí	但應如是行於布施)
+33[33] T08n0236ap0752c12║Đản ưng như thị hành ư bố thí 但應如是行於布施)
 Bồ-đề Lưu-chi (s: Bodhiruci): Nhan đề Kim Cang Bát-nhã Ba-la-mật Kinh. Dịch đầu thế kỷ 6– Niên hiệu Vĩnh Bình nguyên niên –508)– 元魏天竺三藏菩提流支譯
 
 tức là trụ Bát-nhã ba-la-mật-đa.
@@ -707,8 +686,6 @@ Rồi có bài niêm rằng:
 Trầm không trệ tịch, Phạm thủ thương phong,
 Câu vị thị nạp tăng khứ tựu. Chân tu mạc nhập nhân hànhthị, Mạc toạ tha sàng tháp,
 Chính bất lập huyền,
-
-
 
 35[35]Triệu Châu Tòng Thẩm 趙 州 從 諗; C: zhàozhōu cóngshěn; J: jōshū jūshin; 778-897; Thiền sư Trung Quốc, môn đệ thượng thủ của Nam Tuyền Phổ Nguyện. Thiền sư Nhật Bản Ðạo Nguyên Hi Huyền – nổi tiếng là khó tính trong việc đánh giá mức giác ngộ của các Thiền sư – cũng công nhận Triệu Châu là ‘Ðức Phật thân mến.’ Sư có 13 truyền nhân nhưng không mấy ai được gần bằng Sư và dòng này thất truyền chỉ sau vài thế hệ.
 Cuộc đời Triệu Châu cho thấy điều mà các Thiền sư hay nhấn mạnh rằng, Kiến tính chỉ là bước đầu của việc tu học Thiền. Triệu Châu đã kiến tính từ năm 18 tuổi nhưng sau đó còn học Thiền 40 năm với Nam Tuyền. Sau khi Nam Tuyền qua đời, Sư vân du đọ sức với các Thiền sư khác trong những Pháp chiến. Tương truyền rằng Sư đã tìm gặp khoảng 80 Thiền sư, phần lớn là những môn đệ đắc pháp của Mã Tổ (thầy của Nam Tuyền) để vấn đạo. Ðến năm 80 tuổi Sư mới chịu dừng chân tại viện Quan Âm, Triệu Châu. Nơi đây Sư tuỳ cơ dạy học trò và thọ đến 120 tuổi.
@@ -758,7 +735,7 @@ Kinh văn:
 
 須菩提。於意云何。可以身相見如來不?
 不也世尊。不可以身相得見如來。何以故。如來所說身相即非身相。佛告須菩提。凡所有相皆是虛妄。若見諸相非相則見如來。
-Tu-bồ-đề!  Ý  ông  nghĩ  sao?  Có  thể
+Tu-bồ-đề! Ý ông nghĩ sao? Có thể
 dùng thân tướng mà thấy Như Lai chăng?
 Bạch Thế Tôn, chẳng thể được. Chẳng thể dùng thân tướng mà thấy Như Lai.
 Vì sao vậy? Như Lai dạy rằng thân tướng thật chẳng phải là thân tướng.
@@ -777,11 +754,11 @@ Chẳng tướng chẳng chân hình.
 Thông viết:
 Pháp thân của Như Lai, đến mà chưa từng đến, nên gọi là Như Lai, hàng phàm phu thấy ngài có đến nên chấp cho là có tướng, hàng Nhị thừa thấy không có tới, nên cho là không có tướng, nên họ trụ nơi cái không, lấy đó mà tu nhân. Hàng Bồ-tát đã biết rõ báo thân hoá thân đều không thật có, đã lìa xa cái kiến chấp của hàng phàm phu; đã biết pháp thân chẳng phải là không, là lìa xa kiến chấp của hàng Nhị thừa; chỉ thú hướng Phật thừa,
 
-nhưng vẫn còn ưa thích ở pháp. Nay nghe khi tu lục độ, từ sáu trần cho đến bồ-đề niết-bàn đều không nên trụ trước vào hết thảy các pháp ấy, vậy lấy gì làm thứ lớp mà chứng pháp thân? Đức Phật dùng pháp thân để ví như tướng, tức từ tướng mà có thể thấy được Như Lai; pháp thân nếu lìa tướng (mà có), tức là lìa tướng ắt thấy Phật Như Lai. Pháp thân tức là tướng cũng không đúng, pháp lìa tướng cũng không phải. Cho nên chẳng nên trụ nơi pháp mà tu chứng pháp thân. Pháp thân chẳng phải tướng, ắt thấy nó chưa từng đến đi. Pháp thân lìa xa các tướng ắt thấy nó chưa từng chẳng đến đi, nên nói là (thấy tướng) tức thấy Như Lai. Ba nghĩa chân thực đều viên  dung,  nhân  quả  khế  hợp  với
+nhưng vẫn còn ưa thích ở pháp. Nay nghe khi tu lục độ, từ sáu trần cho đến bồ-đề niết-bàn đều không nên trụ trước vào hết thảy các pháp ấy, vậy lấy gì làm thứ lớp mà chứng pháp thân? Đức Phật dùng pháp thân để ví như tướng, tức từ tướng mà có thể thấy được Như Lai; pháp thân nếu lìa tướng (mà có), tức là lìa tướng ắt thấy Phật Như Lai. Pháp thân tức là tướng cũng không đúng, pháp lìa tướng cũng không phải. Cho nên chẳng nên trụ nơi pháp mà tu chứng pháp thân. Pháp thân chẳng phải tướng, ắt thấy nó chưa từng đến đi. Pháp thân lìa xa các tướng ắt thấy nó chưa từng chẳng đến đi, nên nói là (thấy tướng) tức thấy Như Lai. Ba nghĩa chân thực đều viên dung, nhân quả khế hợp với
 
 nhau như một mới có thể tương ưng cùng Vô thượng bồ-đề .
 San định ký nói rằng: Đức Phật hỏi Tu-bồ-đề: Theo ý ông, có thể từ 32 tướng nơi thân mà thấy được pháp thân Như Lai chăng? Ngài Không Sinh (Tu-bồ-đề) thấy Phật đưa ý niệm hình tướng ra để gạn hỏi, ngài biết ngay là không thể dùng tướng để mong thấy được Như Lai, nên thưa rằng: “Không thể được, không thể nhờ vào 32 tướng mà thấy được Như Lai.”
-Sợ rằng chúng sinh đời mạt pháp không thấu đạt lý nầy, chấp tướng cho đó là thật, nên lại tự tỏ bày ý mình: Bởi vì sao vậy? Không thể dùng  32  tướng  mà  thấy  pháp  thân
+Sợ rằng chúng sinh đời mạt pháp không thấu đạt lý nầy, chấp tướng cho đó là thật, nên lại tự tỏ bày ý mình: Bởi vì sao vậy? Không thể dùng 32 tướng mà thấy pháp thân
 
 Như Lai chăng? Vì Như Lai đã nói rằng thân 32 tướng tốt ấy vốn chẳng phải là thể của pháp thân; vì 32 tướng ấy là đo nhiều kiếp tu hành mà thành tựu, tuỳ số kiếp hữu vi tạo tác, nên có sự thiên lưu trong bốn tướng sinh trụ dị diệt, huống gì đối với căn cơ còn có tính bất định của cái có, cái không, sao có thể lấy tướng nầy làm pháp thân?
 Pháp thân là bản thể Phật, chẳng phải từ đời trước sanh ra, chẳng phải từ đời sau mà có; chẳng bị đổi dời, chẳng thể phá hoại, khác hẳn hữu vi; cho nên nói 32 tướng chẳng phải là thể pháp thân.
@@ -799,7 +776,7 @@ vọng niệm mà sinh khởi. Mà vọng niệm vốn là không, vốn không 
 Nên nói pháp thân vô tướng, chẳng lìa ngoài tướng mà riêng có pháp thân. Vì sắc tức là không, không tức
 
 là sắc. Chỉ cần khiển trừ phân biệt, thì tướng tự nó không sanh khởi. Tướng đã không sanh, thì duy chỉ còn cái thật chân. Cái chân thật nầy, chính là ở ngay trong hư vọng. Tức chân tức vọng, tức vọng tức chân. Người đời chỉ thấy tướng của nó, ta cũng thấy có tướng của nó. Như có được tướng ngựa là do những gì chẳng phải là tướng của ngựa đực, ngựa cái, ngựa ô, ngựa vàng mà thành.
-Bảo Tích Như Lai giải thích rằng: Chân thân của Như Lai vốn không sinh diệt, thường trụ trạm nhiên, gá vào ngũ ấm mà thành hình, thiên diễn, biến hoá giống như thân của hàng phàm phu. Nhập thần vào thai mẹ,  nên  mặc  vào  mình  lớp  tướng
+Bảo Tích Như Lai giải thích rằng: Chân thân của Như Lai vốn không sinh diệt, thường trụ trạm nhiên, gá vào ngũ ấm mà thành hình, thiên diễn, biến hoá giống như thân của hàng phàm phu. Nhập thần vào thai mẹ, nên mặc vào mình lớp tướng
 
 phàm cách biệt nầy.
 Nên nói nếu thấy các tướng là chẳng phải tướng, tức là thấy Như Lai.
@@ -823,7 +800,6 @@ Niêm rằng: “Thế tôn nói Như Lai thiền, Pháp Nhãn nói Tổ sư thi
 
 Vạn Tùng36[36] tự khen hình tượng mình rằng: “Phàm sở hữu tướng, giai thị hư vọng, nếu thấy các tướng là chẳng phải tướng, tức thấy lông mày lông mi trên mắt, không cần phải phí sức lực bình sinh. Theo pháp nhãn của Như Lai mà phân biệt phương tiện giới xứ mạnh yếu, một phen đã thống nhất thiên hạ rồi, chuyện gì chẳng là tốt đẹp! Thiền của Thiên Đồng, thiền của Như Lai hay thiền của Tổ sư, càng chẳng nên vọng sinh phân biệt, hiểu được điểm độc đáo ấy thì còn được, nếu không hiểu, thì dính dáng được điều gì?”
 
-
 36[36]萬松老人 (1166-1246) Thiền sư Trung Hoa, sống vào giữa đời Kim và Nguyên. Sư họ Thái, tự Báo Ân, hiệu Vạn Tùng Lão Nhân, người xứ Hà Nội (nay là phía nam Lạc Dương, tỉnh Hà Nam) Trung Quốc; nối pháp Thiền sư Tuyết Nham Mãn, tông Tào Động. Sư trụ các chùa: Tịnh Độ, Thê Ẩn. Tác phẩm: Thung Dung lục, Vạn Tùng Lão Nhân Bình Xướng Thiên Đồng Giác Hoà thượng Niêm Cổ Thỉnh Ích lục, Tổ Đăng lục, Minh Đạo tập, Tứ Hội ngữ lục.
 
 Trên đây là lời của các bậc tôn túc phát minh ra một cách hiểu về các tướng vốn chẳng phải là tướng, mà không trở ngại đến việc phóng xuất các thủ nhãn, chẳng cần đối mặt với Như Lai, nên không cần phải hành xử như vậy.
@@ -837,7 +813,7 @@ Kinh văn:
 佛告須菩提。莫作是說。如來滅後,後五百歲。有持戒修福者。於此章句能生信心以此為實。
 Tu-bồ-đề bạch Phật: “Bạch Thế Tôn!
 Liệu có chúng sanh nào nghe lời thuyết dạy này được sanh lòng tin chân thật chăng?”
-Phật  bảo  Tu-bồ-đề:  “Chớ  nên  nói
+Phật bảo Tu-bồ-đề: “Chớ nên nói
 
 thế. Như Lai diệt độ rồi, năm trăm năm sau nữa có những người tu phước giữ theo giới luật, đối với lời thuyết dạy này thường sanh lòng tin, nhận là chân thật.
 Phó Đại sĩ có bài tụng rằng: Nhân thâm quả diệc thâm, Lý mật áo nan tầm
@@ -919,12 +895,11 @@ Thông rằng:
 chỉ với Bát-nhã thì không thể nào bám víu được. Nguyên do việc nầy rất là sâu sắc! Thế nào là tướng, có nghĩa là không có tướng nhân ngã, hay không có tướng pháp ngã? Thế nào là vô trụ? Là không trụ nơi tướng hay không trụ nơi pháp, không trụ nơi phi pháp? Vô tướng tại sao là quả, vô trụ tại sao nhân?
 Pháp thân vốn vô vi, không rơi vào phạm trù danh số, xưa nay vốn vô tướng, chỉ do tâm mà có chỗ trụ, thì ngay nơi thể vô tướng mà không đạt được viên mãn. Nếu như nhiếp hữu tướng để quy về vô tướng, tức là nhờ do trí quán chiếu. Như Tượng Hiếp Kinh 39[39] nói rằng khi đã ra khỏi sinh
 
-
 39[39]象 脅 Còn gọi Tượng dịch kinh 象腋經, Phật thuyết Tượng dịch kinh 佛說象腋經，1 quyển, Đam-ma-mật-đa 曇摩蜜多 dịch vào đời Lưu Tống. T. 17, Tr. 781, Sh. 814.
 
 tử, chứng đắc cảnh giới niết-bàn, đạt quả vị chẳng mong cầu, đạt cái nhân chẳng phải pháp chẳng phải phi pháp, hết thảy đều bao quát, tuy chánh nhân chánh quả, đã ở trong sự bao quát tất cả rồi, đây chính là Bát-nhã thậm thâm, chính là pháp rất khó tin nhận.
 San định ký nói rằng:
-Khi Tu-bồ-đề mới nghe nghĩa lý sâu xa về nhân quả, ngài vui mừng không cùng. Ban đầu chỉ nhận ra vô tướng, mà không biết rằng tướng tức là quả sâu xa của vô tướng. Ban đầu chỉ biết thường trụ, mà không biết rằng trụ là quả sâu mầu của vô trụ. Do thời Đức Phật còn tại thế, còn khó hiểu được pháp thậm thâm nầy, làm sao tin được chúng  sinh  trong  thời  hiện  tại  và
+Khi Tu-bồ-đề mới nghe nghĩa lý sâu xa về nhân quả, ngài vui mừng không cùng. Ban đầu chỉ nhận ra vô tướng, mà không biết rằng tướng tức là quả sâu xa của vô tướng. Ban đầu chỉ biết thường trụ, mà không biết rằng trụ là quả sâu mầu của vô trụ. Do thời Đức Phật còn tại thế, còn khó hiểu được pháp thậm thâm nầy, làm sao tin được chúng sinh trong thời hiện tại và
 
 tương lai có thể nghe được nghĩa này trong kinh văn mà phát khởi niềm tin chân thật? Cho rằng có chuyện nầy thực hay sao! Đức Phật để khiển trừ mối nghi nầy, mới có lời khuyến tấn trách mắng: “Đừng nên nói rằng.”
 Hết thảy chúng sinh đều có Phật tánh. Nghe pháp mà sanh khởi niềm tin, ai bảo là không có người? Như sau khi Đức Phật diệt độ rồi, sau mỗi thời kỳ 500 năm, 500 đầu là giai đoạn giải thoát kiên cố, 500 năm thứ nhì là tu tập thiền định kiên cố, 500 năm thứ ba là đa văn kiên cố, 500 năm thứ tư là chùa tháp kiên cố, 500 năm thứ năm là đấu tranh kiên cố. Đây là giai đoạn năng lực của giáo pháp dần dần suy thoái. Thời kỳ chính pháp, tượng
@@ -937,7 +912,7 @@ Tạm dịch:
 Nói nghĩa sâu nhân quả Vào sau đời ác trược Chẳng không, cho là thật Bồ-tát đủ ba đức.
 Nếu không có ba đức giới định huệ, ai có thể xem đây là chân thực mà phát
 
-khởi tín tâm. Nên biết rằng người ấy đã từng thân cận với chư Phật trong nhiều đời, đã từng nghe và tu học chánh pháp, tất có đủ duyên thù thắng. Đã từng gieo trồng các căn lành. Đã hàng phục được ba độc tham sân si. Lục độ tăng trưởng, ắt đó là nhân thù thắng. Nhân duyên đều thù thắng, mới phát khởi niềm tin chân thật. Thế mới biết niềm tin chân thật không dễ gì có được. Bất luận nghe nghĩa lý kinh điển nào, đều tin chắc là xưa nay chư Phật vốn thanh tịnh, hết thảy chúng sinh rốt ráo đều thành Phật. Cho đến một niệm thanh tịnh tin vào kinh nầy, đều là nhân thành Phật, đều là quả vị Phật. Người tin vào kinh như vậy, sẽ đạt được vô lượng phước đức,  như  hư  không  trong  mười
+khởi tín tâm. Nên biết rằng người ấy đã từng thân cận với chư Phật trong nhiều đời, đã từng nghe và tu học chánh pháp, tất có đủ duyên thù thắng. Đã từng gieo trồng các căn lành. Đã hàng phục được ba độc tham sân si. Lục độ tăng trưởng, ắt đó là nhân thù thắng. Nhân duyên đều thù thắng, mới phát khởi niềm tin chân thật. Thế mới biết niềm tin chân thật không dễ gì có được. Bất luận nghe nghĩa lý kinh điển nào, đều tin chắc là xưa nay chư Phật vốn thanh tịnh, hết thảy chúng sinh rốt ráo đều thành Phật. Cho đến một niệm thanh tịnh tin vào kinh nầy, đều là nhân thành Phật, đều là quả vị Phật. Người tin vào kinh như vậy, sẽ đạt được vô lượng phước đức, như hư không trong mười
 
 phương không thể tính đếm được. Di-lặc Bồ-tát có kệ rằng:
 Tu giới ư quá khứ,
@@ -1013,9 +988,9 @@ Núi cao tuyệt đẹp Chẳng vướng dây leo Trăng ngang trời không. M�
 Ngài Đan Hà có bài tụng rằng:
 Vân tự cao phi thuỷ tự lưu,
 Hải thiên không khoát dạng hư chu Dạ thâm bất hướng lô loan túc,
-Huýnh xuất trung gian dữ lưỡng  đầu.
+Huýnh xuất trung gian dữ lưỡng đầu.
 Tạm dịch:
-Mây tự bay cao, nước theo dòng Chân trời xa tắp gợn thuyền không Đêm	khuya	chẳng	về	neo	vịnh
+Mây tự bay cao, nước theo dòng Chân trời xa tắp gợn thuyền không Đêm khuya chẳng về neo vịnh
 vắng
 Sớm thoát giữa sông lẫn hai bờ.
 
@@ -1088,14 +1063,14 @@ Chỉ thành nghiệp hữu lậu Chẳng lìa cõi trời người. Trì kinh n
 Tạo duyên lành bậc thánh
 Phải nương thuyền Bát-nhã. Để vào biển vô vi.
 Thông rằng:
-Pháp vi diệu vô trụ của Như Lai rất lớn không thể suy lường đến được. Nói  đến  phương  diện  thật  tế,  cũng
+Pháp vi diệu vô trụ của Như Lai rất lớn không thể suy lường đến được. Nói đến phương diện thật tế, cũng
 
 không thể nào đạt được. Chỉ vì lợi lạc quần sanh mà chư Phật không phương ngại hiện bày vô số hình tướng âm thanh ngôn thuyết. Phàm mỗi người ai đã nghe thấy được rồi, thảy đều có được lợi ích. Thật ra trên bình diện pháp tánh, vốn lìa hẳn các phân biệt, không do sự tác ý, được tức là chẳng chứng đắc; nói tức là chẳng nói, đó tức là trung đạo đệ nhất nghĩa đế. Tu-bồ-đề (Không Sanh) chỉ hiểu được bờ mé bên ngoài của pháp thân, nên cho rằng Như Lai vô đắc vô thuyết, hết thảy hiền thánh đều do nơi pháp vô vi mà có sai biệt. Thế tôn mới chỉ ra việc hướng thượng của pháp thân, vốn chẳng quan ngại vì chư Phật đều do đây mà lưu xuất, pháp vô thượng bồ-đề cũng từ đây mà
 
 có. Do vậy nên nói Phật và pháp, tức chẳng phải Phật pháp, đều là chẳng sở đắc. Diệu pháp ấy, chỉ nên tin nhận và thọ trì. Nếu được như vậy, phước đức thật là không thể nghĩ bàn.
 San định ký nói rằng:
 Đức Phật hỏi Tu-bồ-đề, Ý ông nghĩ sao? Có cho rằng Như Lai chứng đắc bồ-đề hay Như Lai chẳng chứng đắc? Có nghĩ rằng Như Lai thuyết pháp hay chẳng thuyết pháp? Tu-bồ-đề chỉ một hướng hiểu về Không, nên không biết Phật có ba thân:
-Một là pháp thân Phật, hai là Báo thân Phật, ba là Hoá thân Phật. Thế tôn hiện tiền tức là Hoá thân. Chính đó vốn chẳng phải là thân chứng đắc giác  ngộ,  cũng  chẳng  phải  là  thân
+Một là pháp thân Phật, hai là Báo thân Phật, ba là Hoá thân Phật. Thế tôn hiện tiền tức là Hoá thân. Chính đó vốn chẳng phải là thân chứng đắc giác ngộ, cũng chẳng phải là thân
 
 thuyết pháp độ sanh, nên chẳng có pháp nhất định gọi là chứng đắc bồ- đề; cũng chẳng phải có pháp nhất định mà Như Lai có thể giảng nói. Điều nầy do đâu? Nếu cho rằng Như Lai có pháp vô thượng bồ-đề để giảng nói, thì chẳng có tai nào để nghe, nên chẳng chấp giữ được; chẳng có lời nào để có thể nói, nên nói không thể thuyết. Nếu muốn nói đến cái có, thì cái ấy ắt là phải không có hình trạng, không tên gọi. Tất cả các pháp đều không có thể tướng chân thật, vốn chưa từng là thật có, nên gọi là phi pháp. Nếu muốn nói các pháp là không, thì bậc thánh cho đó là linh, chân như vốn là vô ngã tướng là thật hữu, lại vốn chưa từng là không. Cho nên nói chẳng phải là phi pháp. Cho
 
@@ -1109,16 +1084,14 @@ Cả hai đều chẳng thủ
 Chẳng nói, lìa tướng nói.
 Bất nhị thủ giả: Chẳng chấp vào nhị biên, tức là chẳng chấp vào pháp, chẳng chấp vào phi pháp. Chẳng phải Như Lai được như vậy, mà các bậc hiền thánh đều nương nơi pháp chân như thanh tịnh mà có tên gọi, đều chính là lưu xuất từ pháp vô vi nầy. Vô vi là vốn chẳng có gì để làm mà có, nên không thấy cái có (hữu), chẳng thấy cái không (vô). Vô vi tức là không thể phân biệt, nên không thể có cái chứng đắc để giữ lấy, chẳng có cái chứng đắc để nói. Tự tánh của nó, vốn lìa xa tướng ngôn ngữ, chẳng có thể diễn bày bằng sự tướng. Chỉ các bậc thánh chứng được từng phần nghĩa lý nầy, từng phần được thanh
 
-tịnh.41[41] Đến giai vị bậc thánh là đã chứng được hoàn toàn lý nầy tức mãn phần thanh tịnh. Các ngài đều do tu chứng pháp bồ-đề nầy, mà quả vị lại có sai biệt. Như voi ngựa đều được, miễn là được đưa qua sông. Năng độ có sai khác, nhưng sở độ thì chẳng có gì khác nhau. Thế tôn vì không có chủ đích lập tông thú đối với tất cả pháp vô vi, sợ người đời sau nghe nói đến pháp vô vi nầy không thể nắm bắt được bằng lời nói, nên liền muốn huỷ bỏ. Các Đức Phật Như Lai chẳng từ chỗ nào khác mà lưu xuất, chẳng phải từ nơi nào khác mà chứng đắc vô thượng  bồ-đề,  nên  gọi  đó  là  Phật
-
+tịnh.41[41] Đến giai vị bậc thánh là đã chứng được hoàn toàn lý nầy tức mãn phần thanh tịnh. Các ngài đều do tu chứng pháp bồ-đề nầy, mà quả vị lại có sai biệt. Như voi ngựa đều được, miễn là được đưa qua sông. Năng độ có sai khác, nhưng sở độ thì chẳng có gì khác nhau. Thế tôn vì không có chủ đích lập tông thú đối với tất cả pháp vô vi, sợ người đời sau nghe nói đến pháp vô vi nầy không thể nắm bắt được bằng lời nói, nên liền muốn huỷ bỏ. Các Đức Phật Như Lai chẳng từ chỗ nào khác mà lưu xuất, chẳng phải từ nơi nào khác mà chứng đắc vô thượng bồ-đề, nên gọi đó là Phật
 
 41[41] Theo Thành Duy Thức Luận: 稽首唯識性, 滿分清淨者
 Mãn thanh tịnh và phần thanh tịnh: Xu yếu(p613b29): Mãn tịnh, và phần tịnh, chỉ đối tượng kính lễ.
 Phần thanh tịnh, Thuật ký (p233a3): “Thế Thân tuy chưa lên hàng Thập địa, nhưng đã có tín giải quyết định trong Duy thức tánh; tuy chưa chứng Chân, nhưng tuỳ thuận tu tập mà từng phần sở đắc, do đó được xưng tụng là Phần thanh tịnh. (Thành Duy Thức Luận–Tuệ Sỹ dịch và chú )
 
-
-pháp,	là
-để	khỏi	bị	rơi
+pháp, là
+để khỏi bị rơi
 vào
 chấp
 không.
@@ -1151,7 +1124,7 @@ Thị nhân hành tà đạo Bất năng kiến Như Lai.
 Cho đến bài kệ:
 Nhất thiết hữu vi pháp Như mộng huyễn bào ảnh Như lộ diệc như điển Ưng tác như thị quán.
 Hoặc lấy một câu, hai câu, ba câu cho đến bốn câu, như Lục tổ Huệ Năng lấy câu Ma-ha Bát-nhã ba-la-mật-đa làm tứ cú. Các thuyết từ trước đến nay không đồng, chỉ dùng lời Đức Phật tuỳ thuận với tứ cú mà ấn khả, thì tất cả đều là tứ cú, đều có thể trưng dẫn khi giảng nói, không nên tranh luận.
-Do  nghĩa  nào  mà  nói  rằng  thọ  trì
+Do nghĩa nào mà nói rằng thọ trì
 
 giảng nói kinh nầy được công đức vượt trội những người đem tài sản ra bố thí? Vì vô thượng bồ-đề là do từ kinh nầy lưu xuất. Lý chân thật vốn không sinh không diệt, khi phiền não che mờ thì lý thể chân thật ấy tạm ẩn, khi trí huệ tròn đầy thì lý thể chân thật ấy hiển lộ. Thọ trì giảng nói kinh nầy thì trí huệ vi diệu tự sáng rõ, bồ- đề pháp thân tự hiện bày, nên gọi là liễu nhân. Do vì các Đức Phật Như Lai đều từ kinh nầy lưu xuất. Báo thân hoá thân từ xưa nay vốn không thực có, thọ trì giảng nói kinh nầy, ngoài phần thọ báo, sắc tướng vô biên chỉ để trang nghiêm thân nầy, được qua lại vô ngại khắp trong mười phương quốc độ, đó gọi là sanh nhân.
 
@@ -1175,7 +1148,6 @@ Sơn:43[43] Trong chỗ
 tông
 thừa,
 
-
 42[42]Tuyết Phong Nghĩa Tồn 雪 峰 義 存; C: xuéfēng yìcún; J: seppō gison; 822-908; Thiền sư Trung Quốc, môn đệ của Ðức Sơn Tuyên Giám. Từ dòng thiền của Sư xuất sinh ra hai tông lớn của Thiền tông, đó là tông Vân Môn và Pháp Nhãn. Sư Ấn khả cho 56 môn đệ, trong đó các vị Vân Môn Văn Yển, Huyền Sa Sư Bị và Trường Khánh Huệ Lăng là ba vị danh tiếng nhất.
 Sư sinh trong một gia đình mộ đạo. Thuở nhỏ Sư không ăn thịt cá, muốn xuất gia nhưng cha mẹ không cho. Năm 12 tuổi, Sư theo cha đến chùa. Xin xuất gia. Sau khi thụ giới cụ túc tại chùa Bảo Sát, U Khê, Sư tham học với nhiều Thiền sư. Ban đầu Sư đến Thiền sư Lương Giới ở Ðộng Sơn làm Ðiển tọa, sau đến Ðức Sơn và được thầm nhận. Sau Sư đến núi Tuyết Phong dựng một am nhỏ ngụ tại đây. Không bao lâu thiền giả mọi nơi đến tham vấn và nơi này trở thành một thiền viện với 1500 người tham thiền. Môn đệ của Sư nổi danh về kỉ luật, trật tự nề nếp tu hành và rất nhiều người ngộ đạo tại đây.
 Ðời Lương, niên hiệu Thái Bình (908) ngày mùng hai tháng năm, Sư để kệ truyền pháp xong nửa đêm nhập diệt, thọ 87 tuổi, 59 tuổi hạ.
@@ -1185,7 +1157,7 @@ con nay có được phần nào chăng?
 Đức Sơn đánh một gậy, đáp: Nói cái gì?
 Tuyết Phong trả lời: Không hiểu! Sáng hôm sau vào thưa hỏi. Đức Sơn nói:
 Tông ta không có ngữ cú, thật không có một pháp để tiếp người.
-Tuyết Phong nhân đó tỉnh ngộ. Nham Đầu nghe vậy liền nói: Lão già Đức Sơn nầy, thân như cành trơ xương cốt, cứng rắn như gang thép, bẻ chẳng gãy.  Tuy  vậy,  nói  trong  giáo  môn,
+Tuyết Phong nhân đó tỉnh ngộ. Nham Đầu nghe vậy liền nói: Lão già Đức Sơn nầy, thân như cành trơ xương cốt, cứng rắn như gang thép, bẻ chẳng gãy. Tuy vậy, nói trong giáo môn,
 
 Thiền sư Trung Quốc, một trong những Thiền sư lỗi lạc nhất đời Ðường. Sư có 9 môn đệ được Ấn khả, trong đó hai vị Nham Ðầu Toàn Hoát và Tuyết Phong Nghĩa Tồn đứng hàng đầu. Sư nối pháp Long Ðàm Sùng Tín, thuộc dòng Thanh Nguyên Hành Tư và Thạch Ðầu Hi Thiên. Nhân duyên ngộ đạo của Sư là một trong những câu chuyện thường được nhắc lại nhất trong giới Thiền. Sư nổi danh về việc sử dụng cây gậy để giáo hoá (đập) thiền sinh, từ đó mà sinh ra danh từ Bổng hát, chỉ cây gậy (bổng) ngang dọc của Sư và tiếng hét ( Hát) vọng vang của Lâm Tế.
 Sư họ Chu, quê ở Kiến Nam, Giản Châu, xuất gia lúc 20 tuổi. Sư thông Luật tạng và các kinh, luận. Vì thường giảng Kim cương bát-nhã ba-la-mật-đa kinh nên thời nhân gọi Sư là Chu Kim Cương.
@@ -1206,19 +1178,17 @@ Tăng hỏi: Thọ trì như thế nào? Thủ Sơn đáp: Đừng nhiễm ô!
 Thuỷ xuất Côn Lôn sơn khởi vân, Điếu nhân tiều phụ muội lai nhân, Chỉ tri hồng lãng nham loan khoát Bất khẳng phao ti khí phủ thanh.”
 Tạm dịch::
 
-Nước  quanh
+Nước quanh
 mây
 Côn
 Lôn
-núi  chạm
-Thuyền	câu, đâu.
+núi chạm
+Thuyền câu, đâu.
 tiều
 phụ
-chẳng	rõ
+chẳng rõ
 
 Chỉ biết sóng vờn quanh vịnh vắng Chẳng chịu ném dây, bó búa rìu.
-
-
 
 45[45] Đầu Tử Đại Đồng Thiền sư 投子大同禪師 Ở viện Tịch Trụ, núi Đầu Tử, huyện Đồng Thành, Thư Châu. Có để lại các ngữ yếu của Thuý Vi tham vấn với sư. Những cơ phong vấn đáp của sư với các vị: Tuyết Phong Nghĩa Tồn, Triệu Châu Tùng Thẩm, Thái thú Y Kiến Phong.
 
@@ -1252,7 +1222,7 @@ Tu-bồ-đề thưa: “Bạch Thế Tôn, chẳng được. Vì sao vậy? A-na
 “Tu-bồ-đề! Ý ông nghĩ sao? Vị A-la- hán còn khởi niệm: ‘Ta được đạo A- la-hán’ chăng?
 Tu-bồ-đề thưa: “Bạch Thế Tôn, chẳng được. Vì sao vậy? Thật không có pháp gọi là A-la-hán. Thế Tôn! Nếu vị A-la-hán khởi niệm rằng: ‘Ta được đạo A-la-hán,’ tức là vướng mắc vào ngã, nhân, chúng sanh, thọ giả.
 “Thế Tôn! Phật bảo rằng con được phép Tam-muội Vô tránh, cao quý nhất trong loài người, là bậc A-la- hán cao quý nhất lìa bỏ tham dục. Con chẳng khởi niệm này: ‘Ta là bậc A-la-hán lìa bỏ tham dục.’
-“Bạch Thế Tôn! Nếu con khởi niệm này:  ‘Ta  được  đạo  A-la-hán’,  Thế
+“Bạch Thế Tôn! Nếu con khởi niệm này: ‘Ta được đạo A-la-hán’, Thế
 
 Tôn tất chẳng nói: ‘Tu-bồ-đề ưa thích hạnh A-lan-na.’ Vì con đây thật không vướng mắc ở chỗ làm, nên mới nói rằng: ‘Tu-bồ-đề ưa thích hạnh A- lan-na.’”
 Phó Đại sĩ có bài tụng trước khi chứng đệ tam quả rằng:
@@ -1331,8 +1301,6 @@ Sư trả lời: Thiêu không dính vào chuyện thiêu, cúng dường vẫn 
 Tăng nói: Cúng dường A-la-hán, nhưng A-la-hán rốt ráo là không?
 Sư đáp: Ông mỗi ngày đều ăn cơm
 
-
-
 49[49]Thuý Vi Vô Học翠 微 無 學; C: cuìwēi wúxué; J: suibi mugaku; tk. 9; Thiền sư Trung Quốc, môn đệ của Ðan Hà Thiên Nhiên. Sử sách không ghi lại nhiều về Sư, chỉ kể lại là Sư hoằng hoá giống như thầy mình là Ðan Hà, chẳng để ý gì đến tục lệ, chẳng coi trọng hiểu biết sách vở, chỉ tuỳ cơ dạy chúng nên tự xưng mình là Vô Học. Sư có năm người nối pháp và một trong những người đó là Thiền sư Ðầu Tử Ðại Ðồng.
 
 chứ?
@@ -1343,8 +1311,6 @@ Bảo Phước nói: Thế nào là lời nói của Như Lai?
 Thiền sư Trường Khánh trả lời: Kẻ điếc mong được nghe.”
 Bảo Phước nói: Như ông là đã thuộc
 
-
-
 50[50]Trường Khánh Ðại An 長 慶 大 安; C: chángqìng dàān; J: chōkei daian; tk 8/9; Thiền sư Trung Quốc đắc pháp nơi Bách Trượng Hoài Hải. Hai vị đệ tử của Sư thường được nhắc đến là Ðại Tuỳ Pháp Chân và Linh Thụ Như Mẫn (靈 樹 如 敏).
 Lúc đầu Sư siêng năng học Luật, sau đó tự nghĩ rằng ‘Lí cùng tột của Phật pháp vẫn chưa được nghe.’ Vì vậy Sư đến Bách Trượng hỏi: ‘Học nhân muốn cầu biết Phật, thế nào là phải?’ Bách Trượng bảo: ‘Giống hệt cỡi trâu tìm trâu.’ Sư hỏi: ‘Khi biết được về sau thế nào?’ Bách Trượng đáp: ‘Như người cỡi trâu về đến nhà.’ Sư hỏi: ‘Chẳng biết trước sau gìn giữ như thế nào?’ Bách Trượng trả lời: ‘Như chú mục đồng cầm roi trông chừng, chẳng cho nó vào lúa mạ của người.’ Sư nhân đây ngộ được ý chỉ.
 Khi Thiền sư Linh Hựu đến Qui Sơn khai sáng, Sư đích thân đến phụ tá và khi Linh Hựu tịch, Sư được chúng thỉnh ở lại trụ trì. Vì thế mà Sư cũng thường được gọi là Qui Sơn Ðại An
@@ -1354,8 +1320,8 @@ Trường Khánh trả lời: Thế nào là lời nói của Như Lai?
 Bảo Phước trả lời: Uống trà đi! Tuyết Đậu tụng rằng:
 Đầu hề đệ nhất đệ nhị,
 Ngoạ long bất giám chính thuỷ Vô xứ hữu nguyệt ba trừng, Hữu xứ vô phong lãng khởi.
-Lăng	thiền	khách!	Lăng	thiền khách!
-Tam	nguyệt	vũ	môn	tao	điểm ngạch.
+Lăng thiền khách! Lăng thiền khách!
+Tam nguyệt vũ môn tao điểm ngạch.
 Tạm dịch:
 Đầu, chừ, thứ nhất thứ hai. Rồng nằm chẳng xem nước đứng Chỗ không, trăng soi sóng lặng Chỗ có, sóng chẳng dậy trời.
 
@@ -1363,7 +1329,7 @@ Thiền khách Lăng! Thiền khách Lăng!
 Tháng ba, vũ môn được điểm trán.51[51]
 Hai tắc công án nầy đều có đầy đủ con mắt của Kim cang Bát-nhã chiếu dụng ngay hiện tiền, để hiểu được lời nói của Như Lai.
 Đoạn trừ mối nghi Đức Phật Thích ca quyết định có thủ đắc điều gì từ Đức Phật Nhiên Đăng.
-Nội dung đoạn nầy cũng nầy là do từ trong ba mối nghi từ trước mà làm ra. Công Đức  Thi Bồ-tát Luận  có  nói:
+Nội dung đoạn nầy cũng nầy là do từ trong ba mối nghi từ trước mà làm ra. Công Đức Thi Bồ-tát Luận có nói:
 “Nếu hàng Dự lưu không thể tự mình
 chứng đắc quả vị, sao nói Thế tôn gặp Đức Phật Nhiên Đăng là có được Vô
 
@@ -1374,7 +1340,7 @@ Kinh văn:
 佛告須菩提：於意云何？如來昔在然燈佛所，於法有所得不？不也，世尊！如來在然燈佛所，於法實無所得。
 Tu-bồ-đề! Ý ông nghĩ sao? Như Lai ở
 chỗ Phật Nhiên Đăng có được pháp Vô thượng Chánh đẳng Chánh giác chăng?”
-“Bạch Thế Tôn, chẳng có. Như con hiểu theo nghĩa Phật thuyết, Như Lai ở  nơi  Phật  Nhiên  Đăng,  không  có
+“Bạch Thế Tôn, chẳng có. Như con hiểu theo nghĩa Phật thuyết, Như Lai ở nơi Phật Nhiên Đăng, không có
 
 được pháp Vô thượng Chánh đẳng Chánh giác.
 Phó Đại sĩ có bài tụng rằng: Tích thời xưng Thiện Huệ Kim nhật hiệu Năng nhân
@@ -1389,7 +1355,7 @@ Pháp tánh chẳng nhân duyên Như lí chẳng theo nhân
 Được Nhiên Đăng thọ kí Trong thân sau như vậy.
 San định ký nói rằng:
 Ý ông nghĩ sao? Nói rằng xưa Như Lai ở trong pháp hội của Đức Phật Nhiên Đăng Như Lai, có pháp sở đắc hay chẳng có pháp sở đắc?
-Đáp: Không có! Như Lai hồi xưa ở trong pháp hội của Đức Phật , trong lời thụ ký, thật chẳng có pháp sở đắc. Vì điều mà Đức Phật Nhiên Đăng nói chỉ là ngôn ngữ. Điều mà Đức Phật Thích-ca nghe, cũng chỉ là ngôn ngữ. Ngôn ngữ thì tuỳ theo nhân duyên mà có, mà nhân duyên vốn là vô tự tánh. Nên ngôn ngữ nói ra chẳng phải là pháp thủ chứng. Nhưng sở dĩ Đức Phật  Thích-ca  được  thụ  kí,  chỉ  do
+Đáp: Không có! Như Lai hồi xưa ở trong pháp hội của Đức Phật , trong lời thụ ký, thật chẳng có pháp sở đắc. Vì điều mà Đức Phật Nhiên Đăng nói chỉ là ngôn ngữ. Điều mà Đức Phật Thích-ca nghe, cũng chỉ là ngôn ngữ. Ngôn ngữ thì tuỳ theo nhân duyên mà có, mà nhân duyên vốn là vô tự tánh. Nên ngôn ngữ nói ra chẳng phải là pháp thủ chứng. Nhưng sở dĩ Đức Phật Thích-ca được thụ kí, chỉ do
 
 ngài tự dùng phân biệt trí vốn có của mình để nhận biết cái lí không sai biệt. Trí và lí đạt đến chỗ sâu xa, trong ngoài đều dung hội, chỉ thuần một lẽ chân thực, chẳng còn cành lá. Thử hỏi còn gì là sở thuyết, sở đắc nữa! Mới biết rằng pháp chứng đắc khó có tướng trạng để mô tả, nên nói bất khả thuyết. Pháp chứng đắc cũng khó có tướng trạng để tâm phan duyên, nên nói bất khả thủ.
 Di-lặc Bồ-tát có kệ rằng:
@@ -1415,12 +1381,11 @@ Trong đó hàng Sơ phát tâm Bồ-tát thì thấy được sắc tướng c�
 
 Nầy Hải Huệ! Như Lai có được cái thấy như vậy ở Nhiên Đăng Như Lai nên chứng được Vô sinh nhẫn. Chứng được lí vô đắc và lí chẳng có pháp gì để sở đắc. Nên ngay lúc đó Như Lai liền bay lên hư không cao bảy cây đa- la, trí huệ nhất thiết trí sáng suốt hiện tiền, dứt trừ sạch các cái thấy thứ lớp, siêu việt phân biệt. Năng phân biệt, sở phân biệt52[52] đều không dính mắc vào các tướng trạng của thức, nên Như Lai chứng được sáu vạn tam- muội. Đức Phật Nhiên Đăng Như Lai liền thụ kí cho Như Lai: Ông ở trong đời sau sẽ được thành Phật hiệu là Thích-ca Mâu-ni. Đó là sự thụ kí bằng âm hưởng, chẳng có âm thanh
 
-
 52[52]異分別、椟分別: Dị phân biệt tức phân biệt cái bên ngoài: Độc phân biệt tức tính phân biệt ở bên trong. Tức phân biệt về phía chủ thể và chủthể phân biệt đối tượng. Chúng tôi tạm dùng Năng, Sở vốn đã khá quen thuộc, để chỉ cho hai phạm trù nầy.
 
 (thanh trần) tiếp xúc với nhĩ căn, cũng chẳng phải là các thứ tri kiến để có thể biết được, cũng chẳng phải ta mê muội mà chẳng biết được hết. Tuy nhiên, nói vô sở đắc cũng chính là chẳng có tưởng tướng về Phật,53[53] cũng chẳng có ngôn từ để thụ kí, chẳng có tưởng tướng về thụ kí; cho đến nói rộng ra.
 Nói không có tướng của tưởng (tưởng tướng - 想) tức là để hiển bày trí chứng nên chẳng phải là cái có thể
-nắm  bắt  được.  Tướng  của  tưởng
+nắm bắt được. Tướng của tưởng
 chính là tâm pháp, chẳng phải là ngôn ngữ. Nên biết rằng trong lời nói ấy là cảnh giới của trí chứng, cho nên phải dùng con mắt trí huệ thanh tịnh mà
 
 53[53] Tưởng trong Phật tưởng, thụ kí tưởng chính là tướng của tưởng 想 Nimita saṃjñā, như trong chúng sinh tưởng, thụ giả tướng....
@@ -1534,7 +1499,7 @@ Ngũ tổ nói: Không nhận ra bản tâm, học đạo vô ích. Nếu ngay l
 Rồi ngài đem y bát phó chúc cho Huệ Năng. Ngài nói kệ phú pháp rằng:
 Hữu tình lai hạ chủng Nhân địa quả hoàn sanh Vô tình kí vô chủng
 Vô tánh diệc vô sanh.
-Thiền sư Nam Nhạc Hoài Nhượng nói rằng: ‘Tất cả các pháp đều từ tâm sanh. Nếu tâm chẳng sanh, thì pháp chẳng có chỗ trú. Nếu đạt đến cảnh giới của bản tâm, thì mọi việc đều chẳng  ngăn  ngại.  Nếu  chẳng  phải
+Thiền sư Nam Nhạc Hoài Nhượng nói rằng: ‘Tất cả các pháp đều từ tâm sanh. Nếu tâm chẳng sanh, thì pháp chẳng có chỗ trú. Nếu đạt đến cảnh giới của bản tâm, thì mọi việc đều chẳng ngăn ngại. Nếu chẳng phải
 
 người có căn cơ bậc thượng, hãy thận trọng lời nói.’
 Đó là câu nói mà Lục tổ chứng đắc được ngay nơi vô trụ mà sinh tâm, rồi sau đó ngài mật truyền tâm ấn lại cho Nam Nhạc Hoài Nhượng.
@@ -1654,13 +1619,13 @@ Do ví dụ bằng phép so sánh trên cũng là thù thắng. Nên Đức Ph�
 
 cát trong những sông Hằng ấy nhiều chăng?”
 Do sông Hằng58[58] nầy dài đến 40 dặm, cát mịn như bột. Số cát như vậy trong sông Hằng đã nhiều vô số rồi, huống gì là cát trong những sông Hằng từ mỗi hạt cát ấy! Nên nói là rất nhiều.
-Nếu có thiện nam tín nữ, đem bảy báu nhiều như số cát sông Hằng, đầy cả ba ngàn đại thiên thế giới ra bố thí, có được phước đức nhiều chăng? Tu-bồ- đề đáp: Rất nhiều! Chỉ đem một của báu bằng số cát một sông Hằng, đầy cả ba ngàn đại thiên thế giới ra bố thí, phước đức ấy đã nhiều rồi, huống gì dùng đến của báu bằng số cát của vô số  sông  Hằng  đầy  cả  ba  ngàn  đại
+Nếu có thiện nam tín nữ, đem bảy báu nhiều như số cát sông Hằng, đầy cả ba ngàn đại thiên thế giới ra bố thí, có được phước đức nhiều chăng? Tu-bồ- đề đáp: Rất nhiều! Chỉ đem một của báu bằng số cát một sông Hằng, đầy cả ba ngàn đại thiên thế giới ra bố thí, phước đức ấy đã nhiều rồi, huống gì dùng đến của báu bằng số cát của vô số sông Hằng đầy cả ba ngàn đại
 
 58[58]S: Gaṅgā 殑伽河. Còn phiên âm là Căng già hà .
 
 thiên thế giới ra bố thí. Chẳng nhiều hay sao!
 Đức Phật nói rằng: Nếu chỉ bố thí mà không trì kinh, không phát tâm thú hướng bồ-đề, thì phước ấy không được lớn lắm. Nếu có thiện nam tín nữ, thọ trì chỉ bốn câu kệ trong kinh nầy, rồi giảng nói cho người khác nghe. Như vậy là được lợi mình và lợi cho người để thú hướng đến bồ-đề, thì phước đức ấy hơn hẳn người đã đem bảy báu ra bố thí vô lượng vô biên không thể tính kể được. Làm sao thấy được phước đức ấy thù thắng? Để có được phước đức nhiều, phải có
-13 nhân thù thắng mới được thành tựu phước đức, mới nói nơi có kinh ấy  phải  được  tôn  trọng,  được  mọi
+13 nhân thù thắng mới được thành tựu phước đức, mới nói nơi có kinh ấy phải được tôn trọng, được mọi
 
 người tôn sùng.
 Lại nữa, Tu-bồ-đề, đem tâm tuỳ thuận giảng nói kinh nầy, dù chỉ bốn câu kệ, nên biết nơi đó tức là tháp miếu thờ Phật,59[59] tất cả chúng sinh trong thế gian đều phải cúng dường. Như khi Đế thích giảng pháp cho thiên chúng nghe, chư thiên đều phải cung kính hướng về chỗ Đế thích đang ngồi giảng pháp mà lễ bái. Đó là do tâm tôn trọng pháp và tôn trong nơi có pháp lưu hành. Nơi có thờ xá-lợi Phật được gọi là tháp. Nơi thờ phụng hình tượng Phật gọi là miếu. Nơi có giảng nói Phật pháp cũng như là tháp miếu, những nơi ấy phải được tôn trọng.
@@ -1681,9 +1646,7 @@ Lại nữa tất cả Thánh hiền đều từ pháp vô vi mà có tên gọi
 Văn trước có nói rằng tất cả chư Phật đều từ kinh nầy lưu xuất, đó là nói khả năng. Nay nói kinh điển ở chỗ nào là nơi đó có Phật. Thật là khó tin. Trước đã nói Vô thượng bồ-đề là do kinh nầy lưu xuất, đó là điều có thể
 
 tin. Nay nói trì tụng, giảng nói bốn câu kệ tức được thành tựu pháp hi hữu tối thượng đệ nhất. Thật là khó tin. Diệu pháp vô thượng nầy, siêu việt tất cả, số nhiều bảy báu đem cúng dường đem so sánh được sao?
-Vào thời nhà Tuỳ60[60] có người họ Tuân, dân nước Thục, thường ở giữa trời bái vọng lên không trung, tay viết mấy chữ Kim Cang Bát-nhã Kinh mà cảm ứng đến chư thiên và được phù hộ. Mỗi khi trời mưa, chỗ ông ta ở không bị ướt, mục đồng đều đến tránh mưa ở chỗ nầy. Đến giữa đời Đường Vũ Đức, có vị tăng nói với người trong làng đó rằng: “Xứ nầy xưa nay có  người  viết  kinh,  nên  chư  thiên
-
-
+Vào thời nhà Tuỳ60[60] có người họ Tuân, dân nước Thục, thường ở giữa trời bái vọng lên không trung, tay viết mấy chữ Kim Cang Bát-nhã Kinh mà cảm ứng đến chư thiên và được phù hộ. Mỗi khi trời mưa, chỗ ông ta ở không bị ướt, mục đồng đều đến tránh mưa ở chỗ nầy. Đến giữa đời Đường Vũ Đức, có vị tăng nói với người trong làng đó rằng: “Xứ nầy xưa nay có người viết kinh, nên chư thiên
 
 60[60]Nhà Tùy 隋 (581-618), vua Tùy Văn Ðế 隋文帝 là Dương Kiên 楊堅, trước được phong ở ấp Tùy, sau được nhà Bắc Chu 北周 trao ngôi cho lên ngôi vua.
 
@@ -1697,7 +1660,7 @@ Ngài Lâm Tế phất tay áo bỏ đi.
 
 việc trái nghịch như vậy. Kinh văn:
 爾時，須菩提白佛言，「世尊！當何名此經？我等云何奉持？」佛告須菩提：「是經名為金剛般若波羅蜜，以是名字，汝當奉持。所以者何？須菩提！佛說般若波羅蜜，即非般若波羅蜜（時本有是名般若波羅蜜句，原本無。）須菩提！於意云何？如來有所說法不？」須菩提白佛言，「世尊！如來無所說。
-Lúc	ấy	Tu-bồ-đề	bạch	Phật	rằng:
+Lúc ấy Tu-bồ-đề bạch Phật rằng:
 “Bạch Thế Tôn! Kinh này gọi tên là
 
 gì? Chúng con phải vâng giữ như thế nào?”
@@ -1718,12 +1681,11 @@ Kinh văn:
 
 所有微塵是為多不？」須菩提言：
 「甚多，世尊！」「須菩提！諸微塵，如來說非微塵，是名微塵。如來說：世界，非世界，是名世界。
-“Tu-bồ-đề!  Ý  ông  nghĩ  sao?  Số  vi
+“Tu-bồ-đề! Ý ông nghĩ sao? Số vi
 trần 61[61] trong ba ngàn đại thiên thế giới có nhiều chăng?”
 Tu-bồ-đề thưa: “Bạch Thế Tôn, rất nhiều.”
 “Tu-bồ-đề! Những vi trần ấy, Như Lai thuyết chẳng phải vi trần, nên gọi là vi trần. Như Lai thuyết thế giới chẳng phải thế giới, nên gọi là thế giới.
 Phó Đại sĩ có bài tụng rằng:
-
 
 61[61]Vi trần: Hạt bụi rất nhỏ.
 
@@ -1772,7 +1734,7 @@ Thông viết:
 Tu-bồ-đề nghe Đức Phật tán thán, dù ở nơi nào có kinh nầy, tức nơi ấy là có chư Phật, sẽ được trời người cúng dường như là tháp miếu thờ Phật; và sự thù thắng của kinh nầy, người nào thọ trì sẽ được phước đức rất lớn. Nhân đó Tu-bồ-đề thưa hỏi Đức Phật, kinh nầy tên gọi là gì để phụng trì. Đức Phật dùng Bát-nhã ba-la-mật-đa, độ thù thắng nhất trong lục độ, để đặt tên cho kinh nầy. Gọi là Kim cang Bát-nhã, với nghĩa là có thể đoạn sạch. Cùng với nghĩa Bát-nhã để khiển trừ, vì đó là pháp môn tối thượng vô cùng quý báu vô cùng sùng kính. Tên kinh là tối thắng vì là nhân ưu việt để cho tất cả chúng sinh đều
 
 thành Phật. Tên vốn chẳng phải là tên, nói lại chẳng phải là nói, bản tánh là vô tánh, nên nghĩa còn chẳng có.
-Vi trần thế giới là từ tướng thô trọng mà phân ra, nó vốn chẳng rời nhân nhiễm ô phiền não. Do đây, thấy rõ 32 tướng là thân tướng phân ra, chưa phải là thể tánh chân chánh giác ngộ. Cho nên công đức trì kinh, lấy thế giới vi trần so sánh cũng chưa đủ để cho là nhiều. Ba mươi hai tướng chẳng có gì để cho là kì đặc. Lấy việc thọ trì kinh nầy làm nhân của pháp thân, nên chẳng phải những thứ nhân quả hữu lậu thế gian có thể đem so sánh được. Tuy đem thân mạng nhiều như cát sông Hằng ra bố thí, chẳng bằng  phước  đức  của  việc  trì  tụng,
+Vi trần thế giới là từ tướng thô trọng mà phân ra, nó vốn chẳng rời nhân nhiễm ô phiền não. Do đây, thấy rõ 32 tướng là thân tướng phân ra, chưa phải là thể tánh chân chánh giác ngộ. Cho nên công đức trì kinh, lấy thế giới vi trần so sánh cũng chưa đủ để cho là nhiều. Ba mươi hai tướng chẳng có gì để cho là kì đặc. Lấy việc thọ trì kinh nầy làm nhân của pháp thân, nên chẳng phải những thứ nhân quả hữu lậu thế gian có thể đem so sánh được. Tuy đem thân mạng nhiều như cát sông Hằng ra bố thí, chẳng bằng phước đức của việc trì tụng,
 
 giảng nói bốn câu kệ trong kinh nầy. Huống gì bố thí bảy báu là vật ngoài thân, phước đức có được làm sao sánh kịp?
 Công Đức Thi Bồ-tát Luận nói:
@@ -1864,7 +1826,7 @@ Kinh văn:
 ，涕淚悲泣，而白佛言：「希有世
 
 尊！佛說如是甚深經典，我從昔來所得慧眼，未曾得聞如是之經。
-Lúc  ấy  Tu-bồ-đề  nghe  thuyết  kinh
+Lúc ấy Tu-bồ-đề nghe thuyết kinh
 này, hiểu sâu nghĩa thú, cảm động đến rơi lệ, bạch Phật rằng: “Thật ít có thay, Thế Tôn! Phật thuyết kinh điển này rất sâu xa, con từ trước đến nay dù được huệ nhãn nhưng chưa từng được nghe kinh như vậy.
 Phó Đại sĩ có bài tụng rằng: Văn kinh thâm giải ý Tâm trung hỷ thả bi
 Tích trừ phiền não chướng Kim năng li sở tri
@@ -1974,16 +1936,15 @@ sẽ đem lòng tin hiểu mà thọ trì và không cho việc ấy là khó. N
 
 63[63]Hậu ngũ bách tuế, xưa nay có 3 cách giải thích:
 500 năm sau khi Như Lai nhập diệt.
-Sau khi Như Lai nhập diệt: 500 năm thứ nhất là trước, 500 năm thứ nhì là giữa, 500 năm thứ ba là sau.
-3) Sau khi Như Lai diệt độ, gồm 5 cái 500 năm, vì chính pháp, tượng pháp mỗi cái 1.000 năm, mạt pháp 10.000 năm, đây chánh là chỉ cho 500 năm đầu của mạt pháp. Sau khi Như Lai diệt độ, chánh pháp 1.000 năm, 500 năm đầu là giải thoát kiên cố, 500 năm thứ nhì thiền định kiên cố. 500 năm thứ nhì căn khí hơi khác, nhưng có thể trụ ở thiền định, tức là định tuệ, nên gọi là chánh pháp. Ðến 500 năm đầu của khoảng 1.000 năm tượng pháp, tuy cũng có kẻ giải thoát thiền định, nhưng đã rất ít, chỉ chuyên việc giảng lý, chẳng chú trọng thực hành, nên gọi là đa văn, kiên cố. Ðến 500 năm thứ nhì dẫu kẻ nghe nhiều cũng rất ít, chúng sanh chỉ biết sửa cất chùa, xây tháp, nên gọi là tháp tự kiên cố. Một ngàn năm nầy hình thức của Phật pháp là ưa chuộng những cái đó, đã mất đi bổn ý của Phật, chẳng qua chỉ là tượng, tướng mà thôi, nên gọi là tượng pháp. Ðến 500 năm đầu của thời kỳ mạt pháp, thì Phật pháp lại càng suy sụp, chúng sanh chỉ biết đấu tranh. Hiện nay chính là ở sau 500 năm nữa của mạt pháp. Nên Phật nói thời kỳ nầy nếu có người nào xem kinh chỉ là một số rất ít vậy.
-   *Bản   của   ngài   Huyền   Trang   ghi   chi   tiết   hơn   và   có   khác:   ...於當來世後時後分後五百歲,正法將滅時 (...ư đương lai thế hậu thời hậu phần hậu ngũ bá tuế, chánh pháp tương diệt thời...) Bản Anh ngữ của Edward Conze cũng ghi: “...as our Buddha Epoch draws near to its close in the last five hundred year period...”Có vẻ như ở đây lặp lại một ý đã nói trước, muốn chỉ đến khoảng thời gian 500 năm cuối cùng khi Chánh pháp sắp diệt mất.
+Sau khi Như Lai nhập diệt: 500 năm thứ nhất là trước, 500 năm thứ nhì là giữa, 500 năm thứ ba là sau. 3) Sau khi Như Lai diệt độ, gồm 5 cái 500 năm, vì chính pháp, tượng pháp mỗi cái 1.000 năm, mạt pháp 10.000 năm, đây chánh là chỉ cho 500 năm đầu của mạt pháp. Sau khi Như Lai diệt độ, chánh pháp 1.000 năm, 500 năm đầu là giải thoát kiên cố, 500 năm thứ nhì thiền định kiên cố. 500 năm thứ nhì căn khí hơi khác, nhưng có thể trụ ở thiền định, tức là định tuệ, nên gọi là chánh pháp. Ðến 500 năm đầu của khoảng 1.000 năm tượng pháp, tuy cũng có kẻ giải thoát thiền định, nhưng đã rất ít, chỉ chuyên việc giảng lý, chẳng chú trọng thực hành, nên gọi là đa văn, kiên cố. Ðến 500 năm thứ nhì dẫu kẻ nghe nhiều cũng rất ít, chúng sanh chỉ biết sửa cất chùa, xây tháp, nên gọi là tháp tự kiên cố. Một ngàn năm nầy hình thức của Phật pháp là ưa chuộng những cái đó, đã mất đi bổn ý của Phật, chẳng qua chỉ là tượng, tướng mà thôi, nên gọi là tượng pháp. Ðến 500 năm đầu của thời kỳ mạt pháp, thì Phật pháp lại càng suy sụp, chúng sanh chỉ biết đấu tranh. Hiện nay chính là ở sau 500 năm nữa của mạt pháp. Nên Phật nói thời kỳ nầy nếu có người nào xem kinh chỉ là một số rất ít vậy.
+\*Bản của ngài Huyền Trang ghi chi tiết hơn và có khác: ...於當來世後時後分後五百歲,正法將滅時 (...ư đương lai thế hậu thời hậu phần hậu ngũ bá tuế, chánh pháp tương diệt thời...) Bản Anh ngữ của Edward Conze cũng ghi: “...as our Buddha Epoch draws near to its close in the last five hundred year period...”Có vẻ như ở đây lặp lại một ý đã nói trước, muốn chỉ đến khoảng thời gian 500 năm cuối cùng khi Chánh pháp sắp diệt mất.
 
 Nếu tin thì tu hành được quả vị rất lớn.
 Việc tin hiểu và thọ trì ấy, do nghĩa nào mà nói là hiếm có? Là do chúng sinh do nơi kinh nầy mà tin hiểu và hành trì. Lại chẳng còn có bốn tướng: ngã, nhân, chúng sinh, thọ giả. Đó là đã hiểu rõ bản tánh vô ngã của chúng sinh, không sanh khởi các thứ ngã tướng nữa. Tự thể của ngã tướng vốn chẳng ngoài tâm và tâm sở pháp. Tâm và tâm sở pháp ấy, vốn tự chẳng có, chỉ theo ngôn thuyết của thế gian pháp mà có, nên nói rằng có ngã tướng, nhân tướng, chúng sinh tướng, thọ giả tướng. Nếu nói theo đệ nhất nghĩa, tức là phi tướng, đây là nhận rõ ra pháp vô ngã, là đã chứng được hai
 
 món không rồi (nhân không và pháp không).
 Do nghĩa nào mà khiến cho nhân không và pháp không? Vì nếu chưa lìa được hai tướng đó, thì chưa được gọi là Phật. Chỉ khi nào lìa hẳn nhân tướng, lìa hẳn pháp tướng, cho đến lìa hẳn không tướng, lìa hết thảy, mới được gọi là chư Phật. Đó là tướng chân thật xưa nay.
-Xưa nay tuy không một vật, nhưng chẳng rơi vào đoạn kiến, thực có thể tánh chư Phật gọi là quả đại,64[64] tin rồi thọ trì và chứng được quả đại nầy gọi là hy hữu. Nghe pháp rồi xúc động đến khóc, đó là niềm tin sanh thực tướng, đối cảnh khó có khác hơn được,  thấy  rõ  chẳng  có  ngã  nhân.
+Xưa nay tuy không một vật, nhưng chẳng rơi vào đoạn kiến, thực có thể tánh chư Phật gọi là quả đại,64[64] tin rồi thọ trì và chứng được quả đại nầy gọi là hy hữu. Nghe pháp rồi xúc động đến khóc, đó là niềm tin sanh thực tướng, đối cảnh khó có khác hơn được, thấy rõ chẳng có ngã nhân.
 
 64[64] Đại với ý niệm được dùng trong Đại thừa Khởi tín luận: Thể đại, Tướng đại, Dụng đại.
 
@@ -1993,14 +1954,13 @@ Tin, hiểu đều thành tựu.
 
 tiếp tục nữa, không đoạn nghi tình lo sợ. Nghĩa là trong lý không, lý hữu của pháp tiểu thừa, mà chẳng khiếp sợ lí phi không phi hữu của pháp trung đạo. Lúc đang tu tập, mà không sinh sợ hãi chướng ngại, chẳng phải một chiều lo sợ rốt ráo sẽ bị đoạ lạc, có nghĩa là quyết định thú hướng và an trụ nơi vô thượng bồ đề. Nên biết người nầy, sẽ lìa hẳn kiến giải hạ liệt khiếp sợ của chúng sinh, đó là điều hi hữu. Lại còn thú hướng vô thượng bồ đề, gánh vác sứ mạng Như Lai, lại càng hy hữu hơn. Chỉ có tâm không kinh sợ, không khiếp hãi nầy là nơi tối thượng nhất thừa. Trong thừa hoặc không thừa, đều chẳng sinh tâm nghi hoặc, mới được gọi là chân thật tin hiểu.
 
-Kệ nói rằng: Hiền thánh giải thâm nghĩa–là chỉ cho ý nầy.
-13. Do uy lực vô thượng.
-    Nghe kinh mà không sợ hãi là điều hy hữu! Do Kinh Kim Cang Bát-nhã ba- la-mật-đa nầy là đệ nhất trong các ba- la-mật-đa.
-    Kệ nói:
-    Thắng dư tu-đa-la
-    Có nghĩa là: Trội hẳn trong các kinh.
-    Là do nghĩa nầy.
-    Thế nào là đệ nhất? Do pháp thân tối đại, cũng do kinh nầy mà thành tựu, chẳng có pháp nào so sánh được. Là pháp sắc bén và bền chắc nhất trong Phật pháp, nên pháp ấy là thành tựu tối thắng.
+Kệ nói rằng: Hiền thánh giải thâm nghĩa–là chỉ cho ý nầy. 13. Do uy lực vô thượng.
+Nghe kinh mà không sợ hãi là điều hy hữu! Do Kinh Kim Cang Bát-nhã ba- la-mật-đa nầy là đệ nhất trong các ba- la-mật-đa.
+Kệ nói:
+Thắng dư tu-đa-la
+Có nghĩa là: Trội hẳn trong các kinh.
+Là do nghĩa nầy.
+Thế nào là đệ nhất? Do pháp thân tối đại, cũng do kinh nầy mà thành tựu, chẳng có pháp nào so sánh được. Là pháp sắc bén và bền chắc nhất trong Phật pháp, nên pháp ấy là thành tựu tối thắng.
 
 Kệ nói rằng:
 Nhân đại cập thanh tịnh. Là do ý nầy.
@@ -2015,7 +1975,7 @@ Văn trước đã nói: Phật nói chẳng phải thân, mới gọi là đạ
 Có vị tăng hỏi Thiền sư Hoàng Bá: Văn-thù-sư-lợi cầm kiếm đứng trước Cù-đàm nghĩa là sao?
 Hoàng Bá đáp: Năm trăm vị Bồ-tát chứng đắc túc mạng trí, thấy được nghiệp chướng đời quá khứ của chúng sinh, tức là thân ngũ uẩn của ông. Do thấy được nghiệp chướng nhiều đời trước, mà cầu Phật cầu bồ- đề niết-bàn, cho nên Văn-thù-sư-lợi cầm kiếm trí huệ để cắt đứt tâm mong cầu thấy Phật. Nên mới nói rằng Ông hãy khéo cắt đứt là vậy.
 Tăng hỏi: Cái gì là kiếm?
-Hoàng  Bá  đáp:  Tâm  kiến  giải  là
+Hoàng Bá đáp: Tâm kiến giải là
 
 kiếm.65[65]
 Tăng hỏi: Tâm kiến giải đã là kiếm, để đoạn trừ tâm ấy phải thấy được tâm Phật. Nếu như chỉ đoạn trừ tâm kiến giải nầy, thì làm sao trừ được?
@@ -2119,7 +2079,7 @@ Vì sao tâm khởi các hành tướng để tu
 
 hành? Vì sao tâm kiên cố tinh cần cầu đạo không xả bồ-đề? Đây là tâm nhập vào thắng nghĩa của hàng sơ địa Bồ- tát. Do đạt được ngằn mé của nhẫn, tức nhẫn nhục mà chẳng phải nhẫn nhục, tức là tâm nầy là phương tiện thực hành tâm vô trụ. Cái ngã duy chỉ có cái hạnh lìa xa các tướng nầy mà được thành tựu hạnh nhẫn nhục, nên được tương ưng với vô thượng bồ-đề. Nên các vị Bồ-tát, cần phải lìa xa hết thảy các tướng phát tâm vô thượng bồ-đề, để tập khả năng quen tu học tâm vô trụ kia. Chỉ có lìa được các tướng ấy tức là đạt đến bồ-đề. Như nói rằng ngồi ở bồ-đề toà, vĩnh viễn đoạn trừ hết thảy các tướng tưởng vậy.
 
-Thế nào là lìa các tướng? Nghĩa là không nên trụ sắc mà sinh tâm, không nên trụ vào thanh hương vị xúc pháp mà sanh tâm. Nên phát tâm vô trụ mà phát khởi bồ-đề tâm, nếu tâm có trụ vào các cảnh giới của sắc thanh hương vị xúc pháp như vậy, tức chẳng phải trụ bồ-đề tâm. Do trụ nơi bồ-đề tâm, nên gọi là vô trụ. Vì sao? Trụ như vậy tức là chẳng trụ. Như kinh nói: Bồ-đề vốn là chỗ vô trụ, nên chẳng trụ chính là tên gọi khác của trụ bồ-đề. Nhưng chẳng trụ nơi tướng, tức là trí huệ Bát-nhã. Không những chỉ nhiếp vào nhẫn nhục, mà còn nhiếp luôn cả bồ-đề. Chẳng có pháp nào mà chẳng nhiếp. Do nghĩa ấy, Đức Phật đáp ngay, phát tâm bồ-đề là không  nên  trụ  nơi  sắc  mà  bố  thí,
+Thế nào là lìa các tướng? Nghĩa là không nên trụ sắc mà sinh tâm, không nên trụ vào thanh hương vị xúc pháp mà sanh tâm. Nên phát tâm vô trụ mà phát khởi bồ-đề tâm, nếu tâm có trụ vào các cảnh giới của sắc thanh hương vị xúc pháp như vậy, tức chẳng phải trụ bồ-đề tâm. Do trụ nơi bồ-đề tâm, nên gọi là vô trụ. Vì sao? Trụ như vậy tức là chẳng trụ. Như kinh nói: Bồ-đề vốn là chỗ vô trụ, nên chẳng trụ chính là tên gọi khác của trụ bồ-đề. Nhưng chẳng trụ nơi tướng, tức là trí huệ Bát-nhã. Không những chỉ nhiếp vào nhẫn nhục, mà còn nhiếp luôn cả bồ-đề. Chẳng có pháp nào mà chẳng nhiếp. Do nghĩa ấy, Đức Phật đáp ngay, phát tâm bồ-đề là không nên trụ nơi sắc mà bố thí,
 
 không nên trụ vào sắc thanh hương vị xúc pháp mà bố thí. Tuy nhiếp cả lục độ, nhưng nơi việc bố thí, vật đem bố thí và người bố thí, không có sự phân biệt ba pháp ấy, tức là Bát-nhã ba-la- mật, cho nên nói rằng Bát-nhã nhiếp cả lục độ.
 Nếu trụ vào sắc mà bố thí, tức có mệt mỏi thiếu sót, nên chẳng trụ bồ-đề tâm được. Nếu chẳng trụ vào sắc mà bố thí, tức chẳng mệt mỏi thiếu sót mà phát khởi bồ-đề tâm. Các vị Bồ- tát ma-ha-tát vì lợi ích của hết thảy chúng sinh, nên như vậy mà bố thí, tức chẳng trụ vào tướng.
@@ -2156,7 +2116,7 @@ hướng ngoại tìm cầu, gọi là Ca-lợi
 vương thích đi săn bắn. Tâm không rong ruỗi bên ngoài, tức là nhẫn nhục tiên nhân.
 Thân tâm đều không, tức là Phật đạo. Đây là nghĩa Kim cang đệ nhất. Hoàng Bá được tâm nầy liền dùng ngay, dọc ngang chẳng ngại, đó là tín giải thọ trì chân thật, đúng thực là hi hữu.
 Dứt trừ mối nghi chứng vô thể phi nhân.
-Mối nghi nầy do từ điểm thứ 7 trong đoạn thứ ba mà có. Trong đó so sánh rằng bố thí bằng của báu và thân mạng chẳng bằng trì kinh nầy. Do đây mà chứng đắc bồ-đề, bèn nghi rằng lời nói là nhân, bồ-đề là quả, do ngôn  thuyết  mà  chứng  quả.  Lý  ấy
+Mối nghi nầy do từ điểm thứ 7 trong đoạn thứ ba mà có. Trong đó so sánh rằng bố thí bằng của báu và thân mạng chẳng bằng trì kinh nầy. Do đây mà chứng đắc bồ-đề, bèn nghi rằng lời nói là nhân, bồ-đề là quả, do ngôn thuyết mà chứng quả. Lý ấy
 
 chẳng thành. Sao vậy?
 Quả là vô vi pháp, nếu vô vi pháp mà có thể tánh, thì nhân phải là pháp hữu
@@ -2164,7 +2124,7 @@ vi. Hữu vi vô thể, đạo của vô thể, chẳng đến được trong qu
 Kinh văn:
 須菩提！如來是真語者、實語者、如語者、不誑語者、不異語者。須菩提！如來所得法，此法無實無虛
 。
-Tu-bồ-đề!  Lời  nói  của  Như  Lai  là
+Tu-bồ-đề! Lời nói của Như Lai là
 
 chân chánh, đúng thật, như nghĩa, không hư dối, không sai khác.
 Tu-bồ-đề! Như Lai có chỗ được pháp, pháp ấy không thật không hư.
@@ -2190,7 +2150,7 @@ Và kết thúc là: Tánh tướng bổn lai
 như–Xưa nay tánh tướng vốn là Như. Hợp cùng văn trên để đọc, có nghĩa là nơi tâm nầy, phải nên hiểu thấu đáo
 tường tận.
 San định ký nói rằng:
-Lời của Như Lai, chân thật chẳng khác, đều giống như sự thể, chẳng hư dối chúng sinh. Nay nói rằng trì kinh tất sẽ hướng đến bồ-đề. Các ông sao chẳng tin? Lại do Như Lai nói những gì chân thật, nên nói rằng Như Lai vì những điều chân thật mà nói. Thế nào là lời nói chân thật? Có nghĩa là nói thân Phật là pháp bồ-đề cao tột, đó là trí huệ chân thật. Thật ngữ là sao? Nghĩa là nói về pháp Tứ diệu đế của Tiểu thừa, đế là thật nghĩa. Thế nào là lời  nói  như  thật?  Là  nói  chân  như
+Lời của Như Lai, chân thật chẳng khác, đều giống như sự thể, chẳng hư dối chúng sinh. Nay nói rằng trì kinh tất sẽ hướng đến bồ-đề. Các ông sao chẳng tin? Lại do Như Lai nói những gì chân thật, nên nói rằng Như Lai vì những điều chân thật mà nói. Thế nào là lời nói chân thật? Có nghĩa là nói thân Phật là pháp bồ-đề cao tột, đó là trí huệ chân thật. Thật ngữ là sao? Nghĩa là nói về pháp Tứ diệu đế của Tiểu thừa, đế là thật nghĩa. Thế nào là lời nói như thật? Là nói chân như
 
 trong pháp Đại thừa mà pháp Tiểu thừa không có. Thế nào là lời nói không sai khác? Là các việc thọ ký trong ba đời chẳng có gì sai chệch. Bốn lời nói đó, đều chẳng lìa các pháp thực hành bố thí lợi sanh. Pháp ấy tức là đạo. Diệu quả bồ-đề tuy không trụ trong pháp hữu vi nầy, mà đạo thực hành bố thí lợi sanh chân thực, là nhân của bồ-đề. Nhân của ngôn thuyết hữu vi nầy, khiến có thể chứng quả vô vi, lìa xa ngôn thuyết. Sao lại có mối nghi nhân quả không tương hợp nhau!
 Di-lặc Bồ-tát có kệ rằng: Quả tuy bất trụ đạo Nhi đạo năng vi nhân Dĩ chư Phật thật ngữ
@@ -2203,7 +2163,7 @@ Tạm dịch:
 Quả tuy chẳng trụ đạo Nhưng đạo chính là nhân Do lời Phật chân thật
 Trí tuệ có bốn loại
 Thật trí cùng Tiểu thừa, Nói diệu pháp Đại thừa Cùng các pháp thọ ký Là chẳng phải hư nguỵ.
-Bản	dịch	của	Cưu-ma-la-thập	đời Tần, có thêm nghĩa Bất cuống ngữ–
+Bản dịch của Cưu-ma-la-thập đời Tần, có thêm nghĩa Bất cuống ngữ–
 
 không hư dối, nói rõ bốn cách nói của Như Lai đều là không luống dối. Vì sao mà các pháp không dối gạt chúng sinh? Vì pháp mà Như Lai chứng được đều là không thật, không hư giả. Thế nào là không thật? Như Lai nói đệ nhất nghĩa, là do bổn tánh của tất cả các pháp vốn chẳng sinh. Chẳng sinh nên chưa từng là có. Thế nào là chẳng hư dối? Vì đã là vô sinh, nên làm sao lại có diệt? Nên gọi là chẳng hư dối. Hai phạm trù thật và giả đều chẳng thể nắm bắt được. Nên làm sao thấy nó là hữu vi, làm sao thấy nó là vô vi?
 Di-lặc Bồ-tát có kệ rằng: Thuận bỉ thật trí thuyết Bất thật diệc bất hư
@@ -2222,7 +2182,6 @@ Chân lí bổn vô danh Nhân danh hiển chân lí Thọ đắc chân thật p
 Tạm dịch:
 Chân lí vốn không tên Nhân tên hiển chân lí
 
-
 68[68]Buddhamitra: Cửu tổ Phục-đà-mật-đa Tôn giả 九祖伏馱蜜多尊者.Còn gọi 伏缈蜜多 Phục- diểu-mật-đa.
 69[69]Pārśva: Hiếp Tôn giả (脅 尊 者) thượng thủ kết tập Tì-bà-sa luận (毘 婆 沙 論; s: vibhāṣā- śāstra) trong hội nghị kết tập kinh điển lần thứ 4 dưới sự bảo trợ của vua Ka-nị-sắc-ca (迦 膩 色 迦王; s: kaniṣka).
 
@@ -2232,10 +2191,7 @@ Chân thể tự nhiên chân Nhân chân thuyết hữu lí Lĩnh đắc chân 
 Tạm dịch:
 Chân thể vốn là chân Nhân chân nói có lí
 Nhận được pháp chân thực Chẳng làm chẳng dừng nghỉ.
-Tổ	Hiếp	Tôn	giả	đến	Hoa	thị
-
-
-
+Tổ Hiếp Tôn giả đến Hoa thị
 
 70[70] S: Puṇyayaśas
 
@@ -2249,11 +2205,9 @@ Trưởng giả Phú-na-dạ-xa đáp: Tâm con chẳng dừng.
 Tổ hỏi: Ông chẳng định sao?
 Phú-na-dạ-xa đáp: Chư Phật cũng vậy.
 
-
-
 71[71]S: Pāṭaliputra; p: Pāṭaliputta; t: Skya-nar-gyi bu): Thành đô của Ma-kiệt-đà thời cổ Ấn Độ.
 
-Tổ nói: Ông chẳng phải là chư Phật. Phú-na-dạ-xa	đáp:	Chư	Phật	cũng không.
+Tổ nói: Ông chẳng phải là chư Phật. Phú-na-dạ-xa đáp: Chư Phật cũng không.
 Tổ Hiếp Tôn giả nhân đó mới nói kệ:
 Thử địa biến kim sắc Dự tri hữu thánh nhân Đương toạ bồ-đề thọ Giác hoa nhi thành dĩ.
 Tạm dịch:
@@ -2268,21 +2222,21 @@ Tạm dịch:
 Thầy ngồi trên đất vàng Diễn nói nghĩa chân thật Quang minh chiếu về con
 Khiến nhập vào chánh thọ.72[72]
 Tổ Hiếp Tôn giả bèn độ cho ông xuất gia, phú pháp cho ông. Lý vi diệu vô trụ nầy tư xưa đã vốn như vậy. Nay tin mới thể nhập được lý nầy, điều ấy chẳng phải dễ.
-Đoạn  trừ  mối  nghi  chân  như
+Đoạn trừ mối nghi chân như
 73[73] có sở đắc hoặc không sở đắc. Mối nghi nầy do việc bố thí không trụ tướng trong văn trước.
 
 72[72]Samādhi; phiên âm tam-ma-đề, tam-ma-điạ. Hán dịch Chánh định, chánh thọ.
 73[73]Như đẳng 如等 còn gọi là 真如 chân như.
 
 Công Đức Thi Bồ-tát Luận nói rằng: Nếu chứng được các pháp vô sinh vô tánh, chẳng thực chẳng hư. Như vậy
-tức  là  thân  đệ  nhất  nghĩa  của  chư
+tức là thân đệ nhất nghĩa của chư
 Phật. Do đây làm nhân mà hai thân kia đều thành tựu, Bồ-tát tại sao lại xả pháp sở chứng mà trụ vào các pháp tu hành bố thí? Hết thảy mọi thời, chân như đều có, chân như đã có thời gian, nơi chốn, tức đều có thể nắm bắt được. Tại sao lại nói được và chẳng được. Để khiển trừ mối nghi nầy, nên kinh nói:
 Kinh văn:
 須菩提！若菩薩心住於法而行布施
 ，如人入闇，即無所見；若菩薩心
 
 不住法而行布施，如人有目，日光明照，見種種色。
-Tu-bồ-đề!  Nếu  Bồ-tát  trụ  tâm  nơi
+Tu-bồ-đề! Nếu Bồ-tát trụ tâm nơi
 pháp làm việc bố thí, cũng như người vào chỗ tối, không thể nhìn thấy.
 “Nếu Bồ-tát chẳng trụ tâm nơi pháp làm việc bố thí, như người có mắt, khi ánh sáng mặt trời chiếu soi, liền thấy đủ các màu sắc.
 Phó Đại sĩ có bài tụng rằng: Chứng không tiện vi thật Chấp ngã nãi thành hư Phi không diệc phi hữu Thùy hữu phục thùy vô Đối bệnh ưng thí dược Vô bệnh dược hoàn khư
@@ -2315,7 +2269,7 @@ Tạm dịch::
 Thời và xứ đều có
 Nhưng chẳng được chân như Dùng vô trí trụ pháp
 Có trí mới chứng được.
-Chẳng trụ pháp vì sao được chân như? Do còn có mắt, có đầy đủ căn bản trí, lại được Nhật quang biến chiếu thông đạt trí huệ Bát-nhã, tâm rất thanh tịnh, chắc chắn sẽ thông đạt được  rằng  Phật  pháp  vốn  vô  tánh.
+Chẳng trụ pháp vì sao được chân như? Do còn có mắt, có đầy đủ căn bản trí, lại được Nhật quang biến chiếu thông đạt trí huệ Bát-nhã, tâm rất thanh tịnh, chắc chắn sẽ thông đạt được rằng Phật pháp vốn vô tánh.
 
 Nên ngộ được rằng tất cả các pháp chẳng diệt chẳng sinh, chẳng đoạn chẳng thường, chẳng đi chẳng đến, chẳng nhất, chẳng khác. Nên chóng thành chánh giác,và chứng được Đại niết-bàn. Thực hành bố thí không trụ như vậy, cũng như thấy mọi thứ sắc (mà chẳng sinh tâm)!
 Di-lặc Bồ-tát có kệ rằng:
@@ -2326,7 +2280,7 @@ Tối, người ngu vô trí Sáng như người có trí Với pháp cùng đ�
 
 Pháp tịch diệt cũng vậy.
 Sáng và tối đối nhau, đó là đối về pháp. Lấy có trí đối trị với vô trí. Đó là đối trị. Trí sanh thì vô trí diệt; sáng sanh thì tối diệt. Chứng pháp tịch diệt cũng như vậy. Diệu lí chân như bình đẳng khắp mười phương, ngộ cũng chẳng tăng thêm, mê cũng chẳng giảm bớt. Được mất ở tại nơi người, chẳng phải pháp có sự chống trái mâu thuẫn nhau.
-Thiền  sư  Huyền  Sa74[74]  nói  rằng:
+Thiền sư Huyền Sa74[74] nói rằng:
 
 74[74]Huyền Sa Sư Bị 玄 沙 師 備; C: xuánshā shībèi; J: gensha shibi; 835-908;
 Thiền sư Trung Quốc, một trong những môn đệ danh tiếng nhất của Tuyết Phong Nghĩa Tồn. Nối pháp của Sư có 13 vị – với La Hán Quế Sâm hàng đầu. Vị này lại là sư phụ của Thiền sư Pháp Nhãn Văn Ích, người sáng lập tông Pháp Nhãn. Cảnh Ðức truyền đăng lục ghi tên tông này là Huyền Sa tông. Bích nham lục (công án 22, 56, 88) và Vô môn quan (41) có ghi lại pháp ngữ của Sư.
@@ -2334,7 +2288,6 @@ Sư họ Tạ, quê ở huyện Mân, Phúc Châu. Sư chẳng biết chữ, kh�
 Sư ứng đối nhanh nhẹn phù hợp kinh điển. Những người cầu học các nơi có điều gì chưa thông đều đến cầu Sư chỉ dạy. Tuyết Phong thường bảo: ‘Ðầu-đà Bị là người tái sinh!’
 
 “Nay ông muốn ra khỏi chủ tể thân năm ấm nầy, chỉ cần ông biết nắm giữ được thể bí mật Kim cang. Cổ nhân đã nói cho các ông biết rằng viên thành chánh đẳng chánh giác là đồng như châu sa giới. Nay ta phần nào sẽ vì các ông, là những kẻ trí, sẽ dùng thí dụ để khiến cho các ông được giải ngộ. Các ông có thấy mặt trời ở Nam Diêm-phù-đề chăng? Những điều mưu lợi ở thế gian, nuôi sống thân mạng, tâm hành tạo tác các nghiệp, đều chẳng ngoài ánh sáng mặt trời nầy mà có. Còn như thể mặt trời kia
-
 
 Sau, Sư từ giã Tuyết Phong xuống núi, thu nhận môn đệ tại Huyền Sa. Từ đây học chúng đến rất đông. Sư ứng cơ tiếp người 30 năm, người có mặt nghe giảng không dưới 800. Ðến đời Lương, niên hiệu Khai Bình năm thứ hai, ngày 27 tháng 11 năm Mậu Thìn, Sư thị tịch, thọ 74 tuổi, được 40 tuổi hạ.
 Ngữ Lục của sư là Phúc Châu Huyền Sa Tông Nhất Đại Sư quảng lục. Còn gọi: Huyền Sa quảng lục. Quảng lục, 3 quyển, do Huyền Sa Sư Bị soạn vào đời Đường, Trí Nghiêm biên tập, sau đó được xếp vào Tục Tạng kinh tập 126, trang 351. Nội dung bao gồm các lời thượng đường, dạy chúng trong lúc thượng đường, Phương trượng lục, Phật tâm ấn lục. Quyển cuối có phụ lục ‘Đường Phúc Châu An Quốc Thiền viện tiên khai sơn Tông Nhất Đại sư bi văn tinh tự’. Sách này được ấn hành vào niên hiệu Nguyên Phong thứ 3 (1080) đời Tống.
@@ -2351,7 +2304,7 @@ Kinh văn:
 身布施，如是無量百千萬億劫以身布施；若復有人，聞此經典，信心不逆，其福勝彼，何況書寫受持讀誦，為人解說。
 Tu-bồ-đề! Về sau nếu có những thiện
 nam tín nữ, thường hay thọ trì đọc tụng kinh này, Như Lai dùng trí huệ Phật thấy biết những người này đều được thành tựu vô lượng vô biên công đức.
-“Tu-bồ-đề! Nếu có những thiện nam tín nữ, vừa lúc đầu ngày dùng thân mạng nhiều như cát sông Hằng mà bố thí, đến giữa ngày lại dùng thân mạng nhiều như cát sông Hằng mà bố thí, đến  cuối  ngày  cũng  lại  dùng  thân
+“Tu-bồ-đề! Nếu có những thiện nam tín nữ, vừa lúc đầu ngày dùng thân mạng nhiều như cát sông Hằng mà bố thí, đến giữa ngày lại dùng thân mạng nhiều như cát sông Hằng mà bố thí, đến cuối ngày cũng lại dùng thân
 
 mạng nhiều như cát sông Hằng mà bố thí. Cứ như vậy trong vô lượng trăm ngàn ức kiếp, dùng thân mạng mà bố thí. Nếu có người nghe kinh điển này, trong lòng tin theo chẳng nghịch, được phước nhiều hơn cả những người dùng thân mạng mà bố thí kia. Huống gì sao chép, thọ trì, đọc tụng, vì người giảng giải.
 Phó Đại sĩ có bài tụng rằng: Chúng sinh cập thọ giả Uẩn thượng giả hư danh Như quy mao bất thật Tợ thố giác vô hình
@@ -2384,12 +2337,12 @@ Tạm dịch:
 Tánh y tha sở tác
 Tu thành rừng công đức
 
-Đều không	thú tịch ý Chỉ tu tâm thuần thục Hành từ bi rộng lớn Dụng trí thật cao sâu Lợi người tức lợi mình Quả thánh nhỏ sẽ thành.
+Đều không thú tịch ý Chỉ tu tâm thuần thục Hành từ bi rộng lớn Dụng trí thật cao sâu Lợi người tức lợi mình Quả thánh nhỏ sẽ thành.
 Thông viết:
-Như Lai rất tán thán kinh nầy, ví kinh như mặt trời chiếu sáng, thấy rõ các thứ màu sắc. Đó là phát ra các trí huệ xuất thế gian. Hàng Thanh văn Duyên giác không thể nhìn thấy được. Chỉ có hàng Bồ-tát, trí bi cùng vận hành mới có thể đảm đương gánh vác được. Nếu có người có thể thọ trì đọc tụng kinh nầy, chẳng trái nghịch bản  tâm,  là  người  trong  nhiều  đời
+Như Lai rất tán thán kinh nầy, ví kinh như mặt trời chiếu sáng, thấy rõ các thứ màu sắc. Đó là phát ra các trí huệ xuất thế gian. Hàng Thanh văn Duyên giác không thể nhìn thấy được. Chỉ có hàng Bồ-tát, trí bi cùng vận hành mới có thể đảm đương gánh vác được. Nếu có người có thể thọ trì đọc tụng kinh nầy, chẳng trái nghịch bản tâm, là người trong nhiều đời
 
 trước đã gieo trồng nhiều thiện căn, nên nghe kinh liền tin, tin liền hiểu, hiểu liện thực hành. Lợi mình lợi người, không rời bỏ tâm bồ-đề. Đây chính là bậc có căn khí Đại thừa, há đem việc tu phước thế gian để luận được thay!
-Sao cứ lập lại nhiều lần việc đem bố thí ra để so sánh? Bố thí là một trong sáu độ, nên biết rằng bố thí mà chẳng biết Bát-nhã, thì dù có đem thân mạng để bố thí nhiều như cát sông Hằng, rốt ráo đều chỉ là cái dụng của thức tình, đối với chân tánh chẳng tương ưng. Huống gì chúng sinh chỉ là giả, thân mạng cũng là giả. Hành xử trên cái giả, thì lao nhọc mà uổng công.  Cho nên Bát-nhã là con mắt
+Sao cứ lập lại nhiều lần việc đem bố thí ra để so sánh? Bố thí là một trong sáu độ, nên biết rằng bố thí mà chẳng biết Bát-nhã, thì dù có đem thân mạng để bố thí nhiều như cát sông Hằng, rốt ráo đều chỉ là cái dụng của thức tình, đối với chân tánh chẳng tương ưng. Huống gì chúng sinh chỉ là giả, thân mạng cũng là giả. Hành xử trên cái giả, thì lao nhọc mà uổng công. Cho nên Bát-nhã là con mắt
 
 của việc bố thí, có thể đưa đến giải thoát ở bờ bên kia. Đủ biết kinh nầy là đệ nhất ba-la-mật-đa, nên phải tôn kính phụng trì kinh nầy.
 San định ký nói rằng:
@@ -2418,13 +2371,13 @@ Phước trung thắng phước đức.
 Tạm dịch::
 Việc và thời gian lớn Phước lớn trong các phước.
 Thế nào là thù thắng?
-Do việc bố thí quá to lớn. Tức trong thời  gian  một  ngày  mà  xả  bỏ  thân
+Do việc bố thí quá to lớn. Tức trong thời gian một ngày mà xả bỏ thân
 
-mạng như vậy, mà lại nhiều lần như vậy trong ngày. Nếu có người nghe được kinh điển nầy, rồi tín tâm không lui sụt như đá đi vào nước, tức là dùng tín căn nầy để thú hướng đến bồ đề, thấy việc bố thí ấy mà chưa quên mất bản ngã của mình, như đất trời khác nhau cách xa, phước ấy vô cùng to lớn. Huống gì biên chép, thọ trì đọc tụng, tin nên thích, thích nên vui. Nhớ giữ không quên, thấm nhuần khắp tâm trí, rồi lại còn giảng nói cho người nghĩa lý thâm sâu vi diệu. Chẳng riêng tự độ mình, mà còn cứu độ cho người khác. Đem việc bố thí có hình tướng ở trước, so với việc bố thí không có hình tướng nầy, công đức kia chẳng to lớn hơn sao! Nên Đức  Phật   hỏi  khi  bố  thí,  sẽ  được
+mạng như vậy, mà lại nhiều lần như vậy trong ngày. Nếu có người nghe được kinh điển nầy, rồi tín tâm không lui sụt như đá đi vào nước, tức là dùng tín căn nầy để thú hướng đến bồ đề, thấy việc bố thí ấy mà chưa quên mất bản ngã của mình, như đất trời khác nhau cách xa, phước ấy vô cùng to lớn. Huống gì biên chép, thọ trì đọc tụng, tin nên thích, thích nên vui. Nhớ giữ không quên, thấm nhuần khắp tâm trí, rồi lại còn giảng nói cho người nghĩa lý thâm sâu vi diệu. Chẳng riêng tự độ mình, mà còn cứu độ cho người khác. Đem việc bố thí có hình tướng ở trước, so với việc bố thí không có hình tướng nầy, công đức kia chẳng to lớn hơn sao! Nên Đức Phật hỏi khi bố thí, sẽ được
 
 phước đức như thế nào là như vậy. Lại hỏi nghiệp thành tựu như thế nào? Lấy cảnh giới gì để nói? Nói tóm tắt,
 kinh nầy có vô lượng công đức bất
-khả tư nghì. Vô lượng vô biên công đức còn có thể biết được, đối với hàng Bồ-tát nhị thừa còn có thể suy lường được, chỉ có điều là không thể dùng tâm để suy lường, không thể nghĩ nghị đến được. Đó chẳng phải là cảnh giới của danh tướng, chỉ có chứng mới biết được vì đó là công đức thù thắng. Quả phước đức do tâm chánh tín là phước chỉ riêng do từ căn tánh mà thu hoạch được, chẳng phải do bên ngoài mà biết được. Hàng Thanh văn chẳng có được cộng tánh nầy. Nên hàng  căn khí hạ liệt đối với
+khả tư nghì. Vô lượng vô biên công đức còn có thể biết được, đối với hàng Bồ-tát nhị thừa còn có thể suy lường được, chỉ có điều là không thể dùng tâm để suy lường, không thể nghĩ nghị đến được. Đó chẳng phải là cảnh giới của danh tướng, chỉ có chứng mới biết được vì đó là công đức thù thắng. Quả phước đức do tâm chánh tín là phước chỉ riêng do từ căn tánh mà thu hoạch được, chẳng phải do bên ngoài mà biết được. Hàng Thanh văn chẳng có được cộng tánh nầy. Nên hàng căn khí hạ liệt đối với
 
 pháp môn nầy đều chẳng muốn nghe. Như Lai vì những chúng sinh đã phát tâm Đại thừa mà nói để giúp họ hồi tâm hướng về Đại thừa, nhập vào Bồ- tát thừa, nhờ đó mà dần dần thể nhập.
 Như Lai vì hàng tối thượng thừa mà giảng nói kinh nầy để khiến họ hướng thẳng đến Vô thượng bồ-đề, giúp họ khỏi bị rơi vào thứ lớp, do trực nhận mà thể nhập ngay. Chỉ có một Phật thừa, ngoài ra chẳng có thừa nào khác, do phương tiện để dạy chúng sinh (quyền giáo) nên gọi là Đại thừa, nhưng Đại thừa cũng chẳng phải là thừa, nên gọi là tối thượng thừa, đó là pháp mà thế gian khó nghe, khó tin được.
@@ -2433,7 +2386,7 @@ Di-lặc Bồ-tát có kệ rằng:
 Duy y đại nhân thuyết Cập hi văn tín pháp.
 Tạm dịch:
 Chỉ nói bậc thượng căn Cùng pháp khó nghe, tin.
-Nếu  có  người  nghe  giảng  nói  kinh
+Nếu có người nghe giảng nói kinh
 nầy, rồi thọ trì đọc tụng để tự độ mình, giảng nói rộng rãi cho nhiều người khác cùng nghe, tức là độ cho người khác, thực hành cả hai pháp nầy, nghĩa là chẳng lìa Bát-nhã. Thế nên Như Lai tất biết tất thấy người nầy. Trí huệ tăng trưởng, phước đức theo đó cũng tăng trưởng và sẽ được thành tựu. Không thể suy lường được vì nó quá lớn; không thể gọi tên được vì nó quá sâu dày; chẳng có ngằn mé vì nó quá rộng. Đó là công đức bất
 
 khả tư nghì.
@@ -2441,19 +2394,19 @@ Di-lặc Bồ-tát có kệ rằng:
 Vô thượng nhân tăng trưởng Mãn túc vô thượng giới.
 Tạm dịch::
 Nhân tối thượng tăng trưởng Khắp vô cùng cõi giới.
-Tư  lương  tròn  đủ,  khiến  cho  Phật
+Tư lương tròn đủ, khiến cho Phật
 chủng không dứt đoạn. Những người như vậy, tất sẽ được đảm nhận gánh vác Vô thượng bồ-đề của Như Lai. Mang trên lưng gọi là hà. Vác trên vai gọi là đảm. Có nghĩa là dưới thì đem tâm đại bi để hoá độ chúng sinh, trên thì cầu đại trí huệ, dùng đại nguyện nầy để cùng vận hành, đặt trên đôi vai tinh tấn. Suy nghĩ rằng
 
 mình vốn từ trong phiền não sinh tử mà sinh ra, niệm niệm chẳng dừng, chỉ có khi nào đến được bồ-đề chân chính, mình và mọi chúng sinh đều được giải thoát, thì mới bỏ sự gánh vác nầy. Đó gọi là thọ trì diệu pháp chân thật. Nên việc trì pháp ấy tức là trì bồ-đề vậy.
 Thế nào gọi là Như Lai chỉ vì hàng phát tâm Đại thừa mà giảng nói kinh nầy? Tại sao nói thọ trì đọc tụng gọi là gánh vác sự nghiệp bồ-đề? Vì nếu đắm chấp vào pháp nhỏ, tức dính mắc vào bốn kiến chấp: ngã tướng, nhân tướng, chúng sinh tướng, thọ giả tướng, thì sẽ không thọ trì kinh vì mục đích là giải thoát cho mọi người.
-Thế nào gọi là pháp nhỏ?  Pháp nhân
+Thế nào gọi là pháp nhỏ? Pháp nhân
 
 duyên trong Tứ diệu đế được gọi là pháp nhỏ. Hàng Thanh văn Duyên giác tức là những người ưa thích pháp nhỏ. Trệ trong tình thức nên gọi là ưa thích. Do còn pháp chấp nên ở đây hiển bày tam không,75[75] đối với họ chẳng có ý hướng, nên họ chẳng thể trì tụng giảng nói kinh nầy.
 Nên biết những người có thể trì tụng giảng nói kinh nầy, tức là người đã có niềm tin và hiểu rộng lớn và ưa thích pháp lớn, tức là những người đã tin hiểu sâu sắc. Họ không còn dính mắc kiến chấp về bốn tướng ngã nhân chúng sinh, thọ giả, có thể thành tựu pháp khí tối thượng, gánh vác các công việc nặng nhọc của Như Lai, cho nên Đức Phật đã vì những hạng
 
 75[75]Ngã không, Pháp không, Không không.
 
-người nầy mà giảng nói kinh	cho họ. Hết thảy chư Phật đều từ kinh nầy mà xuất sinh, tất cả các pháp lành đều từ
+người nầy mà giảng nói kinh cho họ. Hết thảy chư Phật đều từ kinh nầy mà xuất sinh, tất cả các pháp lành đều từ
 kinh nầy mà ra. Bất kỳ nơi nào có
 kinh nầy thì tất cả các loài trời người trong thế gian đều muốn cúng dường. Kinh nầy còn siêu việt các pháp trong tam giới, nên các loài trong tam giới đều muốn cúng dường. Nên biết nơi có kinh nầy chính là tháp Phật, như trong đó có tượng Phật an trí. Mọi loài đều nên phải nhiễu quanh và lễ bái cúng dường. Người có thể giảng nói kinh nầy, công đức đồng như tháp miếu. Cảnh giới tuy bất khả tư nghì, khi có người trì tụng giảng nói kinh, ta nên dùng các loại hương hoa rãi trên chỗ có kinh nầy, như mưa hoa
 
@@ -2463,7 +2416,7 @@ Thọ trì chân diệu pháp Tôn trọng thân đắc phước.
 Tạm dịch::
 Thọ trì pháp vi diệu
 Tôn trọng, được phước báo.
-Nói thành tựu bất khả tư nghì công đức chính là ở điểm	nầy.
+Nói thành tựu bất khả tư nghì công đức chính là ở điểm nầy.
 Tổ Bá Trượng nói:
 Nếu như có người đem phước trí và tứ sự cúng dường bốn trăm vạn ức a-
 
@@ -2492,10 +2445,9 @@ Tạm dịch::
 Trước đang gặp báo chướng
 
 Nay nhờ thọ trì kinh Tạm bị người khinh rẻ
-Dù nặng hoá bình thường. Rõ biết	y tha khởi
+Dù nặng hoá bình thường. Rõ biết y tha khởi
 Trừ kế chấp phân biệt Thường quán chiếu Bát-nhã Lo gì chẳng viên thành.
 Lục Tổ Khẩu Quyết 76[76] có ghi: Đức Phật dạy rằng người trì kinh nầy, đều được hết thảy mọi người cung kính cúng dường. Trong nhiều đời trước nếu nghiệp chướng nặng, đời này tuy trì kinh nầy mà vẫn thường bị người đời khinh chê, không được cung kính cúng dường. Nay do trì kinh nầy, không còn khởi dậy nhân tướng ngã
-
 
 76[76]Kim cang kinh giải nghĩa, Kim cang kinh khẩu quyết, của Lục tổ Huệ Năng, Đời Đường
 
@@ -2514,7 +2466,6 @@ Phẩm Như Lai, Công Đức Thi Bồ-tát Luận, nói rằng: Nếu như có 
 Lại nữa, kệ tụng nói:
 Nhược nhân tạo ác nghiệp, Tác dĩ sinh bố uý
 
-
 78[78]Tam đức: Pháp thân, Bát-nhã, Giải thoát.
 
 Tự hối nhược hướng nhân Vĩnh bạt kỳ căn bản.
@@ -2524,14 +2475,14 @@ Hướng về người tự hối
 Vĩnh viễn trừ sạch tội.
 Đem tâm sám hối tội lỗi, còn trừ sạch được tội gốc, huống gì có người thọ trì chánh pháp, như kinh điển mà giảng nói cho người nghe nữa! Tuy đã tạo nghiệp trải qua trăm kiếp, nhưng rốt ráo nghiệp ấy không mất. Khi nhân duyên hội đủ, ắt phải sinh ra quả. Chẳng chút sai lệch. Nghĩa của việc nầy như thế nào? Là nghiệp bất thiện trong 10 đường ác, do nhờ thọ
 
-trì chánh pháp,  thành tâm sám hối tội trước, thì quả ác thú tuy vĩnh viễn không sanh nữa, nhưng trong đời nầy chịu các khổ báo, chịu khổ trong đời nầy, há có mất hẳn đâu? Không sinh vào ác thú, chẳng nhổ sạch tội gốc sao? Nếu có tội quyết định phải đoạ vào địa ngục vô gián, thì sau khi mạng chung, ắt phải sinh về chỗ đó, Thay vì phải trải qua nhiều kiếp chịu khổ, nay chỉ trong thoáng chốc liền được ra khỏi, như trường hợp vua A- xà-thế. Nên thấy rõ là chẳng sai lệch. Trì trụng giảng nói kinh nầy, không chỉ chuyển nghiệp nặng thành nhẹ, chuyển nhẹ thành không có mà thôi, mà còn sẽ được quả bồ-đề nữa.
+trì chánh pháp, thành tâm sám hối tội trước, thì quả ác thú tuy vĩnh viễn không sanh nữa, nhưng trong đời nầy chịu các khổ báo, chịu khổ trong đời nầy, há có mất hẳn đâu? Không sinh vào ác thú, chẳng nhổ sạch tội gốc sao? Nếu có tội quyết định phải đoạ vào địa ngục vô gián, thì sau khi mạng chung, ắt phải sinh về chỗ đó, Thay vì phải trải qua nhiều kiếp chịu khổ, nay chỉ trong thoáng chốc liền được ra khỏi, như trường hợp vua A- xà-thế. Nên thấy rõ là chẳng sai lệch. Trì trụng giảng nói kinh nầy, không chỉ chuyển nghiệp nặng thành nhẹ, chuyển nhẹ thành không có mà thôi, mà còn sẽ được quả bồ-đề nữa.
 Di-lặc Bồ-tát có kệ rằng:
 
 Cập viễn ly chư chướng Phục năng viễn chứng pháp.
 Tạm dịch:
 Cùng lìa xa các tướng Lìa cả pháp sở chứng.
-Chỉ  do  như  vậy  nên  nhanh  chứng
-được các pháp, nên các báo chướng chẳng khó	lìa bỏ.
+Chỉ do như vậy nên nhanh chứng
+được các pháp, nên các báo chướng chẳng khó lìa bỏ.
 Có vị tăng hỏi Thiền sư Vân Cư:79[79]
 
 79[79] Vân Cư Ðạo Ưng 雲 居 道 膺; C: yúnjū dàoying; J: ungo dōyō; 853-902; Thiền sư Trung Quốc, môn đệ của Ðộng Sơn Lương Giới. Dòng thiền của Sư là dòng chính của tông Tào Ðộng được truyền đến bây giờ tại Nhật. Dòng của Tổ thứ hai là Tào Sơn Bản Tịch chỉ tồn tại được vài thế hệ.
@@ -2544,8 +2495,6 @@ Thiền sư Vân Cư đáp: Động thì phải đoạ vào ác đạo. Tịnh t
 Sùng Thọ Khế Trù Thiền sư 80[80] nói: Thấy ngoài tâm có pháp tức phải đoạ ác đạo. Chấp giữ vào tự kỉ thì bị người khinh tiện.
 Thiên Đồng có bài tụng:
 Chuyết chuyết công quá,
-
-
 
 hoá tại đây.
 80[80] 崇壽院契稠禪師 Sùng Thọ Khế Trù Thiền sư . Quê ở Tuyền Châu, trú trì Viện Sùng Thọ ở
@@ -2577,7 +2526,7 @@ Kinh văn:
 
 、乃至算數譬喻所不能及。須菩提
 ！若善男子、善女人，於後末世，有受持讀誦此經，所得功德，我若具說者，或有人聞，心即狂亂，狐疑不信。須菩提！當知是經義不可思議，果報亦不可思議。
-Tu-bồ-đề! Như Lai  nhớ thuở quá khứ
+Tu-bồ-đề! Như Lai nhớ thuở quá khứ
 vô lượng a-tăng-kỳ kiếp trước Phật Nhiên đăng, Như Lai đã được gặp tám trăm bốn ngàn vạn ức na-do-tha đức Phật, và đều cung kính phụng sự không chút lỗi lầm. Nếu có người đời mạt pháp sau này thường thọ trì tụng đọc kinh này. Người ấy được công đức so với công đức cúng dường chư
 
 Phật của Như Lai vượt hơn bội phần, trăm phần chẳng theo kịp một, ngàn vạn ức phần, cho đến tính toán, thí dụ cũng chẳng thể so được.
@@ -2608,7 +2557,7 @@ Di-lặc Bồ-tát có kệ rằng:
 Thành chủng chủng thế lực Đắc đại diệu quả báo.
 Tạm dịch:
 Thành tựu các thế lực Được quả báo vi diệu.
-Nói rằng  gom nhiếp sự thành tựu thế
+Nói rằng gom nhiếp sự thành tựu thế
 lực của Tứ thiên vương, Thích-đề- hoàn-nhân, tức là viên mãn các việc vi diệu trên thế gian, quả báo vô cùng cao quý.
 Kệ nói tiếp:
 Như thị đẳng thắng nghiệp Ư pháp tu hành tri
@@ -2618,7 +2567,7 @@ Các nghiệp thù thắng kia Do pháp tu hành được.
 Nghĩa là theo nơi pháp nầy mà tu hành, mới biết thu hoạch được các nghiệp nầy. Do các nghiệp báo ấy vô lượng vô biên, lớn, tức là tính chất nhiều. Do các nghiệp báo ấy không thể nghĩ bàn nên gọi là diệu. Tức là tính chất ưu việt, thức tình phàm phu đều chẳng đo lường được. Sự thù thắng của công đức trì kinh không thể nói đầy đủ hết được là như vậy.
 Đem 5 độ trước ra để so sánh, nghĩa là ngoại tài hai độ, nội tài hai độ, tạo Phật nhân một độ.
 Thứ nhất là có đem thất bảo bằng cả một tam thiên thế giới ra để bố thí cũng không bì kịp.
-Thứ hai là có đem thất bảo bằng cả vô lượng tam thiên thế giới  ra để bố
+Thứ hai là có đem thất bảo bằng cả vô lượng tam thiên thế giới ra để bố
 
 thí cũng không bì kịp.
 Thứ ba là đem thân mạng nhiều như cát sông Hằng ra để bố thí cũng không bì kịp.
@@ -2627,7 +2576,7 @@ Thứ năm là đem nhân địa cúng dường công đức chư Phật so sán
 Năm điều dùng để so sánh nầy, có dùng toán số thí dụ cũng không bì kịp, lực dụng của việc ấy cũng không nói hết được. Sao vậy? Do cái nhân không giống nhau, chút ít phước đức do trì kinh nầy, so với quả tối thắng tức thành ra nhân tánh. Toàn thể các nhóm phước đức do bố thí ở trước,
 
 cũng chẳng thành nhân, cũng không thể thành quả chân thật. Huống gì tu tập các thứ phước báo thế gian. Thoả thích chìm đắm trong phước báo thế gian vô cùng vô tận, biết khi nào mới quay đầu! Thế nên người mà tin và thọ trì kinh nầy thật khó lắm thay!
-Có vị tăng hỏi Thiền sư Lạc Phố:82[82] Cúng dường trăm ngàn chư Phật, chẳng  bằng  cúng  dường  một  vị  vô
+Có vị tăng hỏi Thiền sư Lạc Phố:82[82] Cúng dường trăm ngàn chư Phật, chẳng bằng cúng dường một vị vô
 tâm đạo nhân. Thế thì trăm ngàn chư
 Phật đó có gì sai trái? Vị vô tâm đạo nhân ấy có công đức gì?
 Lạc Phố trả lời:
@@ -2637,7 +2586,7 @@ Kỉ đa quy điểu tận mê sào.
 82[82]Lạc Phố Nguyên An Thiền Sư 洛浦元安禪師. Thị giả Thiền sư Lâm Tế
 
 Tạm dịch:
-Một	dãi	mây	trắng	ngang	cửa động.
+Một dãi mây trắng ngang cửa động.
 Nhiều chim về lại, sạch chốn mê.
 Thiền sư Đan Hà có lời tụng:
 Thập Đắc sơ thung phi giác hiểu Hàn Sơn lại nọa bất tri quy Thanh tiền nhất cú viên âm mỹ
@@ -2673,7 +2622,7 @@ Dục phát bồ-đề giả
 Tạm dịch:
 
 Không Sanh lại thưa hỏi Vô tâm là tự thân
-Người	muốn phát bồ-đề Nên rõ nhân hiện tiền Hạnh bi nghi như vọng Dụng trí lời chân thật Đồ sinh tạm nói ngã Chứng lý tức vô nhân.
+Người muốn phát bồ-đề Nên rõ nhân hiện tiền Hạnh bi nghi như vọng Dụng trí lời chân thật Đồ sinh tạm nói ngã Chứng lý tức vô nhân.
 Thông viết:
 Tu-bồ-đề lại đứng lên thưa hỏi, đoạn trước đã nói về nhân vô ngã, đoạn nầy nói về pháp vô ngã. Sự tương truyền của cổ đức, chẳng phải là không thấy. Như nói nhân vô ngã, có nghĩa là đoạn trừ kiến hoặc. Nói pháp vô ngã, có nghĩa là đoạn trừ tư hoặc. Tu-bồ- đề là biểu thị cho quả vị A-la-hán, đã
 
@@ -2699,14 +2648,15 @@ Vô thượng bồ-đề. Nói độ thoát chúng sinh, đó là tâm rộng l�
 Thiền sư Hoàng Bá nói:
 – Do ông khởi tâm kiến chấp về Phật, (ta) liền nói có Phật để thành; do ông khởi tâm kiến chấp về chúng sinh, (ta) liền nói có chúng sinh để độ. Khởi tâm động niệm, đều do chỗ kiến giải của ông. Nếu không có các kiến chấp ấy, Phật do đâu mà có? Như Văn-thù-sư-lợi vừa khởi kiến giải về Phật, liền bị giáng xuống dưới hai ngọn núi Thiết vi.
 Có vị tăng hỏi:
-–   Chính lúc đang ngộ thì Phật
+– Chính lúc đang ngộ thì Phật
 
 tại chỗ nào? Hoàng Bá nói:
+
 - Hỏi từ đâu tới, giác ngộ sinh khởi từ đâu? Nói nín động tịnh, hết thảy đều là thanh sắc, đều là Phật sự; còn tìm Phật nơi đâu? Hư không thế giới là cảnh giới trong sáng, chẳng có mảy lông nào để cho ông khởi kiến giải. Nên hết thảy mọi thanh sắc đều là con mắt phước trí của Phật. Pháp chẳng một mình mà sinh khởi được, phải nhờ vào cảnh mới sanh, nên pháp chính là vật, vốn có nhiều trí. Nói suốt ngày, nhưng đã từng nói gì đâu? Nghe suốt ngày, nhưng đã từng nghe gì đâu? Nên nói rằng Thích-ca 49 năm thuyết pháp, mà chưa từng nói một chữ.
 
 Tăng hỏi: Nếu như vậy, bồ-đề là chỗ nào?
 Hoàng Bá nói: Bồ-đề chẵng có chỗ. (Làm) Phật cũng chẳng được bồ-đề, (Làm) chúng sinh cũng chẳng mất bồ-đề, chẳng dùng thân mà được bồ- đề, chẳng có thể đem tâm mà cầu được bồ-đề, tất cả chúng sinh tức là tướng bồ-đề.
-Tăng hỏi: Thế nào là phát bồ-đề tâm? Hoàng Bá nói:	Bồ-đề vốn là vô sở đắc, nay ông chỉ cần phát tâm vô sở
+Tăng hỏi: Thế nào là phát bồ-đề tâm? Hoàng Bá nói: Bồ-đề vốn là vô sở đắc, nay ông chỉ cần phát tâm vô sở
 đắc, dứt khoát không cần được một
 pháp nào cả, tức đó là tâm bồ-đề. Bồ- đề là nơi chẳng trụ, nên là vô sở đắc. Nên kinh nói, ‘Như Lai nơi Phật Nhiên Đăng vốn chẳng có một pháp nhỏ để chứng đắc. Đức Phật Nhiên
 
@@ -2714,7 +2664,6 @@ pháp nào cả, tức đó là tâm bồ-đề. Bồ- đề là nơi chẳng tr
 Vi diệu thay luận giải, đủ để giải rõ nghĩa cho đoạn nầy.
 
 Đoạn mối nghi nhân để chứng đắc quả vị Phật là hành Bồ-tát đạo.
-
 
 Mối nghi nầy là do ý văn trên, rằng không có một pháp nào để phát tâm bồ-đề.
 Công Đức Thi Bồ-tát Luận nói rằng: Nếu chẳng có Bồ-tát phát tâm thú hướng Đại thừa, thì chẳng có cái nhân
@@ -2736,7 +2685,7 @@ Tu-bồ-đề! Thật không có pháp Như Lai được Vô thượng Chánh đ
 Tu-bồ-đề! Nếu như có pháp Như Lai được Vô thượng Chánh đẳng Chánh giác, Phật Nhiên Đăng hẳn đã không
 
 thọ ký cho Như Lai: ‘Ông về sau sẽ thành Phật hiệu Thích-ca Mâu-ni.’ Thông viết:
-Tu-bồ-đề chính vì mối nghi có ngã quá vi tế! Ban đầu nghi rằng trong an trụ và hàng phục còn có ngã, lấy cái trí hàng phục làm ngã. Nay đã nghe thật không có pháp để phát tâm bồ- đề, trí thật vốn chẳng sanh, làm sao có ngã? Lại nghe nói rằng nếu chẳng phát tâm, tức chẳng phải là Bồ-tát, cái gì làm nhân để chứng đắc quả vị Phật? Không biết rằng Như Lai ở nơi Đức Phật Nhiên Đăng thật không có pháp phát tâm bồ-đề, lại còn nghi ở hàng Bồ-tát hay sao? Chẳng có một pháp để được, chính là nhân thành Phật.  Lại  nghi  không  có  pháp  để
+Tu-bồ-đề chính vì mối nghi có ngã quá vi tế! Ban đầu nghi rằng trong an trụ và hàng phục còn có ngã, lấy cái trí hàng phục làm ngã. Nay đã nghe thật không có pháp để phát tâm bồ- đề, trí thật vốn chẳng sanh, làm sao có ngã? Lại nghe nói rằng nếu chẳng phát tâm, tức chẳng phải là Bồ-tát, cái gì làm nhân để chứng đắc quả vị Phật? Không biết rằng Như Lai ở nơi Đức Phật Nhiên Đăng thật không có pháp phát tâm bồ-đề, lại còn nghi ở hàng Bồ-tát hay sao? Chẳng có một pháp để được, chính là nhân thành Phật. Lại nghi không có pháp để
 
 chứng đắc, không có quả vị Phật để thành, sẽ chẳng đoạ vào kiến chấp về không hay sao? Chẳng biết như nghĩa của các pháp, chẳng có chẳng không, chính đó là đệ nhất nghĩa trung đạo. Do nghĩa ấy là chẳng có chẳng không nên tất cả các pháp tức là Phật pháp. Chẳng phải thân lớn nên gọi là thân lớn. Làm sao đến chỗ tuyệt cùng mà chẳng phải là Phật pháp? Phật đã như vậy, Bồ-tát cũng như vậy. Nếu có một pháp để chứng đắc, tức dính mắc vào bốn tướng. Tức chẳng phải trang nghiêm. Do nghĩa Phật pháp tức chẳng phải Phật pháp, tức trang nghiêm chẳng phải trang nghiêm. Thông đạt nghĩa của ngã tướng, mới được gọi là Bồ-tát, mới được thành nhân để chứng đắc quả vị Phật. Bốn
 
@@ -2753,8 +2702,6 @@ Nhiên Đăng hành phi thượng.
 Có nghĩa là Đức Phật Nhiên Đăng thọ ký cho Thích-ca Mâu-ni sẽ thành Phật, đó chẳng phải là do thực hành nhân thù thắng, có thể ở nơi chỗ đó để chứng đắc bồ-đề. Do đều là vô sở đắc, nên mong được thọ ký, sao còn nghi Bồ-tát phát bồ-đề tâm thật vốn chẳng có một pháp nào cả?
 Thiền sư Huyền Sa hỏi Sư Cảnh Thanh:83[83]
 
-
-
 83[83] Kính Thanh Đạo Phó Thiền Sư 鏡清道怤禪師 (868-937). Thiền sư Đạo Phó Thuận Đức. Thiền tăng đời Ngũ Đại, họ Trần, người xứ Vĩnh Gia (nay là Ôn Châu tỉnh Chiết Giang) Trung Quốc. Sau khi xuất gia, sư du phương đến đất Mân, tham vấn Tuyết Phong Nghĩa Tồn, rất được ngài xem trọng. Khi ra hoằng pháp, sư trụ chùa Kính Thanh, Việt Châu (nay là huyện Thiệu Hưng tỉnh Chiết Giang). Ngô Việt Võ Túc Vương rất kính mộ, thỉnh sư trụ chùa Thiên Long và ban cho hiệu Thuận Đức Đại Sư.
 
 Cổ nhân nói rằng chẳng thấy có một pháp, (nếu có) đó là sai lầm lớn. Ông hãy nói không thấy pháp nào?
@@ -2762,7 +2709,7 @@ Cảnh Thanh chỉ cột trụ ngoài trời rồi trả lời: Cái này chẳn
 Huyền Sa đáp: Nước sông Chiết Giang, gạo trắng mà ông ăn hằng ngày. Phật pháp chẳng phải là cái gì thấy trong mộng.
 Thiên Đồng niêm rằng: Cảnh Thanh lúc đó đáp những gì? Huyền Sa sau hết nói những gì? Có khế hợp nhau chăng? Nhưng chắc từ lâu nay, Cảnh Thanh chẳng nói Phật pháp trong mộng. Vậy hãy cùng Huyền Sa đồng tham mới được.
 
-Đoạn	mối	nghi	không	có nhân tức chẳng có Phật pháp.
+Đoạn mối nghi không có nhân tức chẳng có Phật pháp.
 
 Mối nghi nầy do từ đoạn kinh nên nói rằng Thích-ca Mâu-ni khi ở tu hành nhân địa nơi Đức Phật Nhiên Đăng, thật không có pháp gì để chứng đắc. Nếu không có tu hành nhân địa, thì không chứng đắc A-nậu-đa-la Tam- miệu tam-bồ-đề, tức chẳng có các Đức Phật Như Lai. Nhưng tất cả các pháp có thật đều là không chăng? Để khiển trừ mối nghi nầy, nên kinh nói:
 
@@ -2817,7 +2764,7 @@ phải nói chứng pháp vô sở đắc có nghĩa là không bao gồm tất 
 Cho nên Đức Phật nói tất cả các pháp đều là Phật pháp. Tất cả các pháp phàm thánh, chẳng phải lấy tự thể làm thể, mà đều lấy chân như làm thể. Chân như chính là điều Đức Phật giác ngộ, nên tất cả các pháp được gọi là Phật pháp.
 Di-lặc Bồ-tát có kệ rằng: Thị pháp chư Phật pháp Nhất thiết tự thể tướng.
 Nhưng nói tất cả các pháp sắc thanh hương, chưa từng có một pháp nào có thể tánh khả đắc. Vì vô tánh tức không trì giữ tự thể tướng, tức chẳng phải tất cả các pháp.
-Nếu tất cả các pháp sắc thanh hương đều là chẳng phải pháp, sao lại nói tất cả các pháp? Trên  phương diện vô
+Nếu tất cả các pháp sắc thanh hương đều là chẳng phải pháp, sao lại nói tất cả các pháp? Trên phương diện vô
 
 tánh giả lập ngôn thuyết như vậy, do chẳng phải pháp tức chẳng phải là tướng hữu vi. Đây đã thành các pháp, tất cả các pháp đó thảy đều là chân như, các pháp đó chính là pháp chân như tự tánh. Đó chẳng có pháp tướng ấy, nên chẳng thường trú trì các pháp tướng ấy, rốt ráo thường giữ tướng phi hữu. Thể chân như pháp thân vốn là như vậy. Ví như thân người to lớn, như kinh văn trước nói thân lớn như núi chúa Tu-di, do chẳng tự phân biệt, nên thành cái thể rất lớn. Nương vào pháp thân ấy, mà lấy thân to lớn nầy để ví dụ. Tại sao gọi đó là thân to lớn? Nghĩa là do phiền não chướng, sở tri chướng, cả hai chướng nầy đều không, nên gọi là thân viên mãn đầy đủ, tức là pháp thân tròn đầy. Đây có
 
@@ -2844,9 +2791,9 @@ Vô khổng thiết chuỳ trùng hạ khiết Diêm-phù thọ hạ tiếu ha h
 Tạc dạ Ly long áo giác chiết Biệt! Biệt!
 Thiều Dương lão nhân đắc nhất quyết.
 Tạm dịch:
-Nói	cái một. Rất đơn độc.
+Nói cái một. Rất đơn độc.
 Chuỳ sắt khổng lồ thêm hạ chốt
-Dưới gốc Diêm-phù cười	ha ha Đêm qua bẽ gãy sừng Ly long Khác! Khác!
+Dưới gốc Diêm-phù cười ha ha Đêm qua bẽ gãy sừng Ly long Khác! Khác!
 
 Lão già Thiều Dương 85[85] được một mảnh.
 Có vị tăng hỏi Thiền sư Vân Môn: Chẳng phải căn cơ trước mắt, cũng chẳng phải sự tình trước mắt, thì như thế nào?
@@ -2857,22 +2804,21 @@ Tuyết Đậu tụng rằng:
 Đồng tử đồng sinh vi quân quyết Bát vạn tứ thiên phi phụng mao Tam thập tam nhân nhập hổ huyệt
 Biệt! Biệt!
 
-
 85[85]Quê của Thiền sư Vân Môn.
 
-Nhiễu	nhiễu	thông	thông	thuỷ	lí nguyệt
+Nhiễu nhiễu thông thông thuỷ lí nguyệt
 Tạm dịch:
-Nói	cái một. Chia một miếng
+Nói cái một. Chia một miếng
 Cùng chết cùng sống vì ngươi giải
 quyết
-Tám	vạn	bốn	ngàn	chẳng	phải lông chim phụng
+Tám vạn bốn ngàn chẳng phải lông chim phụng
 Ba mươi ba người vào hang cọp. Riêng! Riêng!
 Nhiễu loạn lăng xăng trăng trong
 nước.
 Lại có vị tăng hỏi Thiền sư Vân Môn: Thế nào là pháp thân thanh tịnh?
 Vân Môn đáp: Hoa thược lan.
 
-(Đây chính là	nghĩa thân người to lớn.)
+(Đây chính là nghĩa thân người to lớn.)
 Tăng hỏi tiếp: Đến lúc đó thì sao? Vân Môn đáp: Sư tử lông vàng. –Đây chính là nghĩa chẳng phải thân người
 to lớn.
 Tuyết Đậu tụng rằng: Hoa thược lan Mạc man han
@@ -2887,7 +2833,7 @@ Như nghĩa của các pháp nầy, rất sâu mầu, rất vi mật, hãy nên 
 
 Dứt trừ mối nghi độ thoát chúng sinh và trang nghiêm Phật độ.
 
-Mối nghi nầy giống như mối nghi thứ 12 ở trên, đều xuất phát từ mối nghi thứ 11, rằng chẳng có pháp phát tâm bồ-đề. Nếu không có pháp phát tâm bồ-đề, tức chẳng có Bồ-tát. Vậy thì dạy ai độ sanh, dạy ai trang nghiêm Phật  độ?  Trước  đã  nghi  chẳng  có
+Mối nghi nầy giống như mối nghi thứ 12 ở trên, đều xuất phát từ mối nghi thứ 11, rằng chẳng có pháp phát tâm bồ-đề. Nếu không có pháp phát tâm bồ-đề, tức chẳng có Bồ-tát. Vậy thì dạy ai độ sanh, dạy ai trang nghiêm Phật độ? Trước đã nghi chẳng có
 
 Phật. Nay mối nghi nầy là chẳng có Bồ-tát, nên nói Bồ-tát cũng như vậy. Để khiển trừ mối nghi này, nên kinh nói:
 Kinh văn:
@@ -2896,7 +2842,7 @@ Kinh văn:
 、無眾生、無壽者。須菩提！若菩薩作是言：我當莊嚴佛土，是不名菩薩。何以故？如來說：莊嚴佛土者，即非莊嚴，是名莊嚴。須菩提
 
 ！若菩薩通達無我法者，如來說名真是菩薩。
-Tu-bồ-đề!  Bồ-tát  cũng  lại  như  vậy.
+Tu-bồ-đề! Bồ-tát cũng lại như vậy.
 Nếu nói rằng: ‘Ta đang độ cho vô lượng chúng sanh’, tức đó chẳng gọi là Bồ-tát.
 “Vì sao vậy? Tu-bồ-đề! Thật không có pháp gọi là Bồ-tát.
 “Vì thế Phật thuyết hết thảy các pháp đều không có các tướng ngã, nhân, chúng sanh, thọ giả.
@@ -2909,25 +2855,24 @@ Nhất thiết giai như huyễn
 Thuỳ ngôn đắc hữu vô.
 Tạm dịch:
 
-
 86[86]Bản dịch của Cưu-ma-la-thập, Bồ-đề Lưu-chi, Chân Đế là có thêm chữ Bồ-tát. Còn ba bản dịch khác của Nghĩa Tịnh, Cấp-đa, và Huyền Trang thì không có ghi chữ Bồ-tát.
 Skt: Yaḥ subhūte bodhisattvo nirātmāno dharmā nirātmāno dharmā ityadhimucyate sa tathāgatenārhatā samyaksambuddhena bodhisattvo mahāsattva ityākhyātaḥ |
 Dịch Việt: Tu-bồ-đề, Bồ Tát nào vững tin các pháp vô ngã là các pháp vô ngã, thì được Như Lai, bậc A-la-hán, Chính Đẳng Giác gọi đó là Bồ-tát Ma-ha-tát.
 
 Người, pháp đối đãi nhau Hai tướng vốn đồng nhau Pháp không, nhân là vọng Nhân không, pháp cũng lìa. Nhân pháp đều là thật
-Thọ ký	chẳng giả hư Hết thảy đều như huyễn Sao còn nói có không?
+Thọ ký chẳng giả hư Hết thảy đều như huyễn Sao còn nói có không?
 Thông rằng:
 Văn trước có nói rằng Bồ-tát phát tâm bồ-đề, tức là còn pháp gọi là bồ- đề để chứng đắc, đến đây thật là chẳng có pháp phát bồ-đề tâm. Phát tâm đã không rồi, huống gì ở pháp bồ-đề!
-Trước đã nói Bồ-tát chẳng thấy có chúng sinh để độ, tức là còn pháp  để
+Trước đã nói Bồ-tát chẳng thấy có chúng sinh để độ, tức là còn pháp để
 
 Bồ-tát có thể chứng đắc, đến đây thì chẳng có một pháp gọi là Bồ-tát; Bồ- tát đã không, huống gì chúng sinh! Nên biết nghĩa văn trước là để đoạn trừ câu sanh ngã chấp, đến đây là đoạn trừ câu sanh pháp chấp. Đã vi tế lại càng vi tế hơn!
 Phó Đại sĩ có bài tụng rằng: Nhân pháp lưỡng câu thật Thọ ký khả phi hư.
 Tạm dịch::
-Nhân pháp đều là thật Thọ ký	chẳng giả hư.
+Nhân pháp đều là thật Thọ ký chẳng giả hư.
 Do nhân, pháp đều hư giả, nên việc
 thọ ký là chẳng thật. Đã thông suốt ba mối nghi trước. Một lời nói mà hiểu được trọn vẹn.
 
-Công Đức Thi Bồ-tát Luận nói rằng: Trên đã nói nhân là tướng thanh tịnh, nhưng nghĩa chưa tròn đủ.	Để được
+Công Đức Thi Bồ-tát Luận nói rằng: Trên đã nói nhân là tướng thanh tịnh, nhưng nghĩa chưa tròn đủ. Để được
 đầy đủ, phải nói rộng ý trước thêm ra.
 Nên nói Như Lai ở nơi Đức Phật Nhiên Đăng thật chẳng có một pháp nào để chứng đắc. Tu nhân thanh tịnh, không chỉ Như Lai là như vậy, mà các Bồ-tát cũng đều như vậy. Nếu nói: Ta đang độ thoát cho vô lượng chúng sinh, ắt thấy có ngã là người đang độ, chúng sinh là kẻ được độ. Tâm cảnh đều chưa quên, tức đó là điên đảo, không được gọi là Bồ-tát.
 Tại sao một khi khởi niệm như vậy thì không được gọi là Bồ-tát? Vì trong thể tánh chân như, một mảy lông cũng chẳng còn. Thật không có
@@ -2956,7 +2901,7 @@ Tạm dịch::
 Chúng sinh và Bồ-tát Biết các pháp vô ngã Ngoài bậc thánh tự biết Cùng bậc có trí huệ.
 Tuy chẳng phải là Bồ-tát, nhưng có trí tự biết để tin. Do có trí huệ, tức đó là Bồ-tát.
 Hoàng Bá nói:
-Chư Phật và Bồ-tát cùng tất cả loài nhuyễn động hàm linh, đều cùng là tánh đại niết-bàn nầy. Tánh tức tâm. Tâm  tức  Phật.  Phật  tức  pháp.  Một
+Chư Phật và Bồ-tát cùng tất cả loài nhuyễn động hàm linh, đều cùng là tánh đại niết-bàn nầy. Tánh tức tâm. Tâm tức Phật. Phật tức pháp. Một
 
 niệm lìa chân, tức đều là vọng tưởng. Không thể đem tâm cầu tâm, Không thể đem Phật cầu Phật. Không thể đem pháp đi cầu pháp. Nên người học đạo chỉ cần vô tâm là âm thầm khế hợp. Tâm nghĩ nghị liền sai. Tâm truyền tâm tức là chánh kiến. Thận trọng chớ hướng ra ngoài mà tìm cầu, nhận cảnh giới bên ngoài làm tâm. Vì có tham sân si, nên mới lập giới định huệ, nếu chẳng có phiền não, thì bồ-đề dùng để làm gì?
 Nên Tổ sư nói: “Đức Phật nói tất cả các pháp, là để trừ tất cả vọng tâm. Mình chẳng có các vọng tâm, thì dùng tất cả các pháp làm gì? Bổn nguyên vốn các Phật độ đều thanh tịnh, đã chẳng dính một vật. Thí như
@@ -2966,7 +2911,7 @@ hư không, tuy có dùng vô lượng trân bảo để trang nghiêm, thì r�
 đều không nên khởi kiến giải như vậy. Rốt ráo đều là cảnh của pháp giới, chẳng có xứ sở, chẳng có nơi chốn. Chỉ cần ngay nơi các pháp mà chẳng khởi kiến chấp có không, tức là thấy pháp.”
 Hoàng Bá thêm vào cái thấy về thể tánh các pháp ở trên để quét cho đến sạch hết các kiến chấp. Mới được gọi là thông đạt ý niệm vô ngã pháp.
 
-Đoạn	trừ	mối	nghi	chư Phật chẳng thấy các pháp.
+Đoạn trừ mối nghi chư Phật chẳng thấy các pháp.
 
 Mối nghi nầy do văn trên nói rằng Bồ-tát không thấy chúng sinh được độ và không thấy có Phật độ được làm cho thanh tịnh. Nếu Bồ-tát không
 
@@ -3017,10 +2962,10 @@ Kinh văn:
 
 沙等恒河，是諸恒河所有沙數，佛世界如是，寧為多不？」「甚多，世尊！」佛告須菩提：「爾所國土中，所有眾生，若干種心，如來悉知。何以故？如來說：諸心皆為非心，是名為心。所以者何？須菩提
 ！過去心不可得，現在心不可得，未來心不可得。
-“Tu-bồ-đề!  Ý  ông  nghĩ  sao?  Trong
+“Tu-bồ-đề! Ý ông nghĩ sao? Trong
 sông Hằng có cát, Phật nói đó là cát chăng?”
-“Bạch Thế Tôn, đúng vậy. Như Lai  nói đó là cát.”
-“Tu-bồ-đề!	Ý	ông	nghĩ	sao?	Như
+“Bạch Thế Tôn, đúng vậy. Như Lai nói đó là cát.”
+“Tu-bồ-đề! Ý ông nghĩ sao? Như
 
 trong một con sông Hằng có bao nhiêu cát, lại có số sông Hằng cũng nhiều như vậy, lại có số thế giới Phật nhiều như số cát trong tất cả những con sông Hằng đó, như vậy là nhiều chăng?”
 “Bạch Thế Tôn, rất nhiều.”
@@ -3031,13 +2976,13 @@ Phó Đại sĩ có bài tụng rằng:
 Y tha nhất niệm khởi Câu vi vọng sở hành Tiện phân lục thập nhị
 Cửu bách loạn tung hoành Quá khứ diệt vô diệt Đương lai sinh bất sinh Thường năng tác thử quán Chân vọng thản nhiên bình.
 Tạm dịch:
-Một niệm y tha	khởi Đều do vọng vận hành Liền sinh sáu hai thứ
+Một niệm y tha khởi Đều do vọng vận hành Liền sinh sáu hai thứ
 Chín trăm loạn dọc ngang Quá khứ diệt chẳng diệt
 Tương lai sinh chẳng sinh Thường quán sát như vậy
 
 Chân vọng thản nhiên trôi.
 Thông viết:
-Văn trước có nói Đức Phật tất biết người nầy, tất thấy người nầy. Điều quan trọng là tại Phật nhãn. Đối với Phật nhãn, bốn cách nhìn kia đều thù thắng. Phật nhãn chẳng có gì khác biệt với bốn cách nhìn kia. Tri kiến Như Lai chẳng có hai, nên văn trên nói ngũ nhãn, văn sau nói nếu có cả ngàn tâm niệm, Như Lai tất biết. Do tâm chúng sinh đều là pháp biến hiện phần nào từ chân tâm. Do Như Lai đã chứng được chân thật tâm, nên có vọng niệm nào mà ngài chẳng thấy sao? Cho nên người nào thông đạt được vô ngã pháp, là được tương ưng cùng  chân  tâm  Như  Lai,  nên  được
+Văn trước có nói Đức Phật tất biết người nầy, tất thấy người nầy. Điều quan trọng là tại Phật nhãn. Đối với Phật nhãn, bốn cách nhìn kia đều thù thắng. Phật nhãn chẳng có gì khác biệt với bốn cách nhìn kia. Tri kiến Như Lai chẳng có hai, nên văn trên nói ngũ nhãn, văn sau nói nếu có cả ngàn tâm niệm, Như Lai tất biết. Do tâm chúng sinh đều là pháp biến hiện phần nào từ chân tâm. Do Như Lai đã chứng được chân thật tâm, nên có vọng niệm nào mà ngài chẳng thấy sao? Cho nên người nào thông đạt được vô ngã pháp, là được tương ưng cùng chân tâm Như Lai, nên được
 
 Như Lai đều thấy đều biết. San định ký nói rằng:
 Chư Phật và Bồ-tát đã lìa xa phân biệt năng sở, không thấy có một pháp để chứng đắc, đâu có phải là hoàn toàn không thấy gì! Nhưng con mắt trí huệ chân thật đều chiếu soi rõ cảnh trước mắt. Lược có năm loại:
@@ -3083,7 +3028,7 @@ Quốc sư hỏi: Ông có tha tâm thông
 88[88] Nam Dương Huệ Trung Quốc Sư 南陽慧忠國師. Thiền tăng đời Đường (683-769), họ Vương, người xứ Thượng Nguyên, Nhuận Châu (nay là huyện Giang Ninh, tỉnh Giang Tô) Trung Quốc nối pháp Thiền sư Trí Oai, tông Ngưu Đầu. Sư trụ chùa Diên Tộ.
 
 chăng?
-Đại Nhĩ Tam tạng đáp: Không dám! Quốc sư nói: Ông	nói	thử lão tăng nay đang ở đâu?
+Đại Nhĩ Tam tạng đáp: Không dám! Quốc sư nói: Ông nói thử lão tăng nay đang ở đâu?
 Đại Nhĩ Tam tạng đáp: Hoà thượng là Quốc sư của một nước, sao lại đến Tây xuyên xem đua thuyền?
 Quốc sư im lặng một hồi rồi hỏi tiếp: Ông nói thử lão tăng nay đang ở đâu?
 Đại Nhĩ Tam tạng đáp: Hoà thượng là Quốc sư của một nước, sao lại lên cầu Thiên Tân xem đá cầu?
@@ -3091,7 +3036,8 @@ Quốc sư im lặng một hồi rồi lại hỏi: Ông nói thử lão tăng n
 Đại Nhĩ Tam tạng không dò ra được.
 
 Quốc sư liền quát lên: Đồ dã hồ tinh, tha tâm thông ở đâu?
-Đại Nhĩ Tam tạng	chẳng đáp được. Sau có vị tăng hỏi Thiền sư Ngưỡng Sơn:
+Đại Nhĩ Tam tạng chẳng đáp được. Sau có vị tăng hỏi Thiền sư Ngưỡng Sơn:
+
 - Vì sao Đại Nhĩ Tam tạng lần thứ ba thì không thấy được Quốc sư?
   Ngưỡng Sơn đáp: Hai lần trước là tâm giao xen với cảnh, sau khi nhập vào tự thọ dụng tam-muội rồi Đại Nhĩ Tam tạng tìm không thấy được nữa.
   Lại có vị tăng hỏi thiền sư Huyền Sa chuyện đó. Huyền Sa đáp: Ông nói hai lần trước là thấy được chăng?
@@ -3126,7 +3072,7 @@ Kinh văn:
 ！此人以是因緣，得福甚多。」「須菩提！若福德有實，如來不說得
 
 福德多，以福德無故，如來說得福德多。」
-Tu-bồ-đề! Ý  ông  nghĩ sao?  Nếu có
+Tu-bồ-đề! Ý ông nghĩ sao? Nếu có
 người dùng bảy món báu đầy trong cõi ba ngàn đại thiên thế giới để bố thí. Do nhân duyên ấy, được phước nhiều chăng?”
 “Bạch Thế Tôn, quả đúng như vậy. Người ấy do nhân duyên bố thí, được phước rất nhiều.”
 “Tu-bồ-đề! Nếu phước đức có thật, Như Lai chẳng nói là được nhiều phước đức. Vì phước đức không, nên Như Lai nói là được nhiều phước đức.
@@ -3140,14 +3086,14 @@ Quảng tương thất bảo trì vi thí
 Như Lai bất thuyết phước điền đa. Nhược dụng tâm đăng cúng dường Uy quang đẳng chiếu mãn ta-bà.
 Tạm dịch::
 Thường đem bảy báu ra bố thí Như Lai chẳng nói phước diền lớn.
-Dùng	tâm	sáng	suốt	để	cúng dường
+Dùng tâm sáng suốt để cúng dường
 Uy quang chiếu khắp cõi ta-bà.
 Thông rằng:
-Trước Tu-bồ-đề có nói rằng phước đức ấy tức chẳng phải tánh phước đức, nên Như Lai nói đó là phước đức nhiều. Do vì tánh phước đức không nằm trong số lượng, nên chẳng phải là nhiều ít để luận bàn. Nói phước  nhiều,  là   chỉ   đề  cập  đến
+Trước Tu-bồ-đề có nói rằng phước đức ấy tức chẳng phải tánh phước đức, nên Như Lai nói đó là phước đức nhiều. Do vì tánh phước đức không nằm trong số lượng, nên chẳng phải là nhiều ít để luận bàn. Nói phước nhiều, là chỉ đề cập đến
 
 phước đức thế gian. Tu-bồ-đề lấy chân đế để so với tục đế, nên thấy rằng cái nhiều của phước đức thế gian cũng chỉ như là không. Thế tôn thì thấy chân đế cũng như tục đế, chỉ thấy phước đức vốn là không, nên nói đó là nhiều. Vả lại phước đức có thể tánh của nó, tức là phước đức thật có. Trên phương diện thật tánh rốt ráo thì nó là không, chẳng trụ ở chân, chẳng trụ ở tục. Chính là để hiển bày lý trung đạo chắc thật.
 San định ký nói rằng:
-Tâm lưu chuyển là do nơi vọng, nên gọi là phước tụ. Nhưng thể chẳng phải là hư vọng, như lấy bố thí làm nhân, lấy bảy báu làm duyên, bố thí khắp  đại  thiên  thế  giới,  tức  phước
+Tâm lưu chuyển là do nơi vọng, nên gọi là phước tụ. Nhưng thể chẳng phải là hư vọng, như lấy bố thí làm nhân, lấy bảy báu làm duyên, bố thí khắp đại thiên thế giới, tức phước
 
 phải lớn như đại thiên thế giới. Chẳng nhiều hay sao! Nhưng nếu không hành trì theo trí huệ chánh giác, thì thành ra nhân hữu lậu. Được phước đức tuy nhiều, tuy có được thật tánh phước đức, nhưng Như Lai không cho đó là nhiều. Do vì trụ tướng mà bố thí, đó là việc điên đảo. Nếu chẳng trụ tướng mà bố thí, đó là hành trì theo trí huệ chánh giác, tất sẽ thành tựu nhân vô lậu. Tuy chẳng có được phước đức, nhưng nhờ thật tánh phước đức nên được rất nhiều không thể tính kể, nên Như Lai nói được phước đức rất nhiều. Do trong đệ nhất nghĩa chẳng có các thủ uẩn, nên vốn chẳng thật. Nếu y theo tục đế thì có ngôn thuyết, nên gọi là nhiều. Đó tức là hành trì theo trí huệ, chẳng phải
 
@@ -3169,7 +3115,7 @@ trong ba đường. Bất chợt sanh tình thì vạn kiếp bị giam kín. T�
 Đoạn trừ mối nghi có tướng tốt chăng?
 Mối nghi nầy do văn trước nói rằng Như Lai có nghĩa là chứng pháp như như. Nghĩa như như là như như chẳng động, tức là pháp vô vi. Nói vô vi nghĩa là pháp thân tức Phật. Sao lại còn nói thành tựu tướng tốt mới được gọi là Phật? Đây là đứng trên
 
-phương diện	pháp thân để nhìn sắc thân. Nên kinh nói:
+phương diện pháp thân để nhìn sắc thân. Nên kinh nói:
 Kinh văn:
 
 須菩提！於意云何？佛可以具足色身見不？」「不也，世尊！如來不應以具足色身見。何以故？如來說具足色身，即非具足色身，是名具足色身。」「須菩提！於意云何？如來可以具足諸相見不？」「不也
@@ -3187,8 +3133,6 @@ Lý vốn chẳng đồng, khác Nhân, pháp đều khiển trừ, Sắc, tâm 
 Mới gọi chứng bồ-đề. Thật do lìa các tướng.
 Thông viết:
 Phó Đại sĩ vốn là hoá thân của Bồ-tát Di-lặc, đáp ứng cho căn cơ chúng sinh ở cõi ta bà nầy mà nói ra nghĩa Kim cang Bát-nhã thậm thâm, thật là mấu chốt90[90] của kinh nầy. Yếu chỉ của kinh ‘Các tướng chẳng phải là tướng’ chẳng những lập lại ba lần, mà lại rất nhiều lần, há không có ý gì hay sao? Do Tu-bồ-đề đã chứng đắc nhân không, nên 32 tướng tức chẳng phải tướng. Để nói rõ ngoài việc chứng pháp thân. Đến đây lại chứng được pháp không, nên biết chẳng phải tướng mới gọi là tướng, để nói rõ việc
-
-
 
 90[90] quyết thược 鐍鑰 .
 
@@ -3228,12 +3172,12 @@ Mặt trời gấp Mặt trăng nhanh
 Khéo ứng xử chưa từng gặp khinh xúc.
 Bày chuyện đầu cơ gặp Động Sơn Trạnh què rùa chột vào hang trống Hoa từng chùm.
 Gấm từng cụm.
-Miền	nam	trồng	trúc,	đất	Bắc trồng cây.
+Miền nam trồng trúc, đất Bắc trồng cây.
 
 91[91] Bích Nham Lục, Tắc 12 T48; –Động Sơn ma tam cân.
 
 Nhân nhớ Trường Khánh Lục đại phu
-Hiểu đạo cùng	cười chẳng cùng khóc.
+Hiểu đạo cùng cười chẳng cùng khóc.
 Ôi chao!
 Có vị tăng hỏi Thiền sư Trí Môn: Động Sơn trả lời ‘ba cân gai.’ Ý nghĩa như thế nào?
 Trí Môn đáp: Hoa từng chùm. Gấm từng cụm. Hiểu chăng?
@@ -3247,7 +3191,7 @@ Lục Hoàn Đại Phu92[92] đến tham vấn Thiền sư Nam Tuyền. Nam Tuy�
 Lục Hoàn Đại Phu trả lời: Nói được thì ta khóc!
 Viện chủ không nói được.
 Lục Hoàn Đại Phu khóc to, nói: Trời xanh! Trời xanh! Tiên sư rời bỏ thế gian quá xa.
-Đời sau Trường Khánh nghe như vậy. Bèn  nói:  Đại  phu  nên  cười  chẳng
+Đời sau Trường Khánh nghe như vậy. Bèn nói: Đại phu nên cười chẳng
 
 92[92] Nguyên bản 陸嗱大夫. Ngũ Đăng Hội Nguyên ghi là 陸亙大夫Lục Cắng Đại Phu
 
@@ -3256,8 +3200,7 @@ Tuyết Đậu đem hợp thành bài tụng, sau đó hạ thêm chữ Ôi chao
 
 Đoạn mối nghi không có thân làm sao thuyết pháp?
 
-Mối nghi nầy do từ đoạn trên nói rằng không thể thấy được Như Lai bằng thân tướng.  Nếu  đứng  trên  đệ  nhất
-
+Mối nghi nầy do từ đoạn trên nói rằng không thể thấy được Như Lai bằng thân tướng. Nếu đứng trên đệ nhất
 
 93[93] 大夫合笑不令（編者註：「令」疑是「合」）哭 .
 Người biên soạn (TPN) nghi là chfi 令 trong câu trên là chfi 合. Nếu đúng như vậy, câu trên sẽ được dịch là Đại phu cùng cười chứ chẳng cùng khóc.
@@ -3276,11 +3219,9 @@ Bấy giờ, Huệ Mạng Tu-bồ-đề bạch Phật: Thế Tôn! Liệu có ch
 Phật dạy: Tu-bồ-đề! Ngươi nói đó chẳng phải là chúng sanh, chẳng phải không là chúng sanh.
 Vì sao vậy? Tu-bồ-đề! Chúng sanh, Như Lai nói chúng sanh chẳng phải chúng sanh, gọi là chúng sanh. 94[94]
 Niên hiệu Trường Khánh thư hai, đời Đường. Thích Linh U 釋靈幽 bạo bệnh chết. Gặp vua Diêm la, hỏi
-Linh  U  rằng:  Đã  tích  tập  những
+Linh U rằng: Đã tích tập những
 nghiệp gì?
-Linh  U  đáp:  Thường  trì  tụng  Kinh
-
-
+Linh U đáp: Thường trì tụng Kinh
 
 94[94]Đoạn nầy theo bản dịch Bồ-đề Lưu-chi đời Nguyên Nguỵ.
 
@@ -3293,7 +3234,7 @@ thân vi diệu. Phật pháp cũng như vậy. Phật pháp không thể nhờ 
 
 San định ký nói rằng:
 Ông đừng cho là Như Lai có ý nghĩ rằng Như Lai có nói pháp. Pháp thân vô vi, thật chẳng có pháp để thuyết. Như tiếng vang trong hang trống, thật chẳng có tiếng đáp dội lại. Phàm có pháp để thuyết, tất trước hết phải khởi niệm nầy. Đức Phật tuy nói pháp, nhưng chẳng khởi niệm nói pháp, cũng như hang trống, tuy vọng lại tiếng vang, nhưng chẳng có niệm phải vọng lại tiếng vang. Hai thứ năng thuyết sở thuyết đều sai biệt, đều là chẳng có.
-Ông đừng nghĩ rằng Như Lai có pháp để nói. Do nghĩa nào mà nói đừng khởi niệm như vậy? Bản tế của Như Lai  vốn  chẳng  lìa  pháp  giới.  Pháp
+Ông đừng nghĩ rằng Như Lai có pháp để nói. Do nghĩa nào mà nói đừng khởi niệm như vậy? Bản tế của Như Lai vốn chẳng lìa pháp giới. Pháp
 
 giới vốn bình đẳng. Nói tức im lặng. Im lặng tức nói năng. Nói chẳng có tự tướng, tức vốn là chẳng nói. Nếu bảo Như Lai có pháp để nói tức là phỉ báng Phật. Chẳng hiếu được Như Lai nói cái chẳng nói. Nói pháp, phải như pháp mà nói, gọi là chân thật thuyết pháp. Pháp vốn lìa xa hết thảy danh tướng phân biệt, chẳng thấy có phần nào thể tánh chân thật mới có thể nói được. Thuyết đã là vô thể, thì lấy cài gì để nói? Nếu gọi đây là nói, thì phải như pháp mà nói, mới gọi là thuyết pháp.
 Di-lặc Bồ-tát có kệ rằng: Như Phật pháp diệc nhiên Sở thuyết nhị sai biệt
@@ -3317,14 +3258,14 @@ Tạm dịch:
 Thuyết, sở thuyết đều sâu Chẳng phải không người tin Chúng sinh phi chúng sinh Chẳng thánh, chẳng phi thánh.
 Nói chúng sinh chính là chẳng phải chúng sinh, cũng không thể nói là thánh, nhưng chưa từng chẳng phải là thánh. Nếu thường quán sát như vậy ở chúng sinh, tức là chúng sinh mà lìa chúng sinh, còn nghi gì ở chỗ không thuyết mà là thuyết?
 Tôn giả Tu-bồ-đề ngồi yên trong núi vắng, chư thiên rải hoa trời như mưa để tán thán. Tôn giả nói: Trong không rãi hoa tán thán, đó là người nào? Vì sao tán thán?
-Chư thiên đáp: Tôi là Phạm thiên, kính ngưỡng Tôn giả đã  khéo  giảng
+Chư thiên đáp: Tôi là Phạm thiên, kính ngưỡng Tôn giả đã khéo giảng
 
 nói Bát-nhã.
 Tôn giả Tu-bồ-đề nói: Trong Bát-nhã tôi chưa từng nói một chữ. Tại sao ngài lại tán thán?
 Phạm thiên đáp: Đúng vậy. Tôn giả chẳng nói, tôi cũng chẳng nghe. Chẳng thuyết chẳng nghe, đó chính thực là thuyết Bát-nhã.
 Lại nữa, Duy-ma-cật hỏi Văn-thù-sư- lợi: Thế nào là Bồ-tát thể nhập pháp môn bất nhị?
 Văn-thù-sư-lợi đáp: Nơi tất cả các pháp chẳng nói chẳng thuyết, chẳng chỉ bày, chẳng biết, lìa mọi hỏi đáp, đó là thể nhập pháp môn bất nhị.
-Lúc đó Văn-thù-sư-lợi hỏi Duy-ma- cật: Tôi đã tự nói rồi, nay xin ngài hãy nói thế  nào là Bồ-tát thể nhập
+Lúc đó Văn-thù-sư-lợi hỏi Duy-ma- cật: Tôi đã tự nói rồi, nay xin ngài hãy nói thế nào là Bồ-tát thể nhập
 
 pháp môn bất nhị?
 Duy-ma-cật chỉ im lặng. Thiên Đồng tụng rằng:
@@ -3332,15 +3273,15 @@ Mạn-thù vấn tật lão Tì-da
 Bất nhị môn khai khán tác gia
 Mẫn biểu tuý trung thuỳ thường giám
 Vong tiền thất hậu mạc tư ta.
-Khu khu đầu phác hề Sở đình tẫn  sĩ.
+Khu khu đầu phác hề Sở đình tẫn sĩ.
 Xán xán báo châu hề Tuỳ thành đoạn xà.
 Hưu điểm phá Tuyệt tì hà.
 Tục khí hồn vô khước giảo ta.
 Tạm dịch:
 
-Văn-thù thăm bệnh lão Duy-ma Bày	môn bất nhị, gặp tác gia.
-Ngoài	tiêu,	trong	tinh	tuý,	ai thường thấy.
-Quên trước, mất sau	chẳng thở than.
+Văn-thù thăm bệnh lão Duy-ma Bày môn bất nhị, gặp tác gia.
+Ngoài tiêu, trong tinh tuý, ai thường thấy.
+Quên trước, mất sau chẳng thở than.
 Bận rộn việc ném ngọc, hề, chặt đầu gối trước sân nước Sở.
 Chói lọi việc đền châu, hề, trảm rắn dưới thành nhà Tuỳ.
 Thôi điểm phá Dứt dấu vết
@@ -3356,7 +3297,7 @@ Kinh văn:
 佛言：「如是，如是。須菩提！我於阿耨多羅三藐三菩提，乃至無有少法可得，是名阿耨多羅三藐三菩提。
 復次，須菩提！是法平等，無有高下，是名阿耨多羅三藐三菩提。以無我、無人、無眾生、無壽者，修一切善法，即得阿耨多羅三藐三菩提。須菩提！所言善法者，如來說
 ，即非善法，是名善法。
-Tu-bồ-đề bạch Phật: “Bạch Thế Tôn! Phật được pháp Vô thượng Chánh đẳng  Chánh  giác  là  không  có  chỗ
+Tu-bồ-đề bạch Phật: “Bạch Thế Tôn! Phật được pháp Vô thượng Chánh đẳng Chánh giác là không có chỗ
 
 được sao?”
 Phật nói: “Đúng vậy, đúng vậy. Tu- bồ-đề! Ta đối với quả Vô thượng Chánh đẳng Chánh giác, chẳng có lấy một phần nhỏ pháp có thể được, nên gọi là Vô thượng Chánh đẳng Chánh giác.
@@ -3383,19 +3324,19 @@ Phân biệt ta, người đều trừ sạch. Thức tình cao thấp đều kh
 Thông rằng:
 Trong mối nghi ở đoạn 12 và 13, Như
 
-Lai nói rằng thật chẳng có pháp để chứng đắc Vô thượng bồ-đề. Tu-bồ- đề há không tin điều ấy là chẳng thật. Nhưng sợ cho chúng sinh đời sau, lấy cái chẳng có thân, chẳng có thuyết mà cho rằng tất cả đều là không, rồi nói rằng pháp thân cũng không, nên Tu- bồ-đề mới hỏi Đức Phật là đắc Vô thượng bồ-đề là chẳng chứng đắc chăng? Đức Phật đã trả lời đúng là chẳng có chứng đắc, chẳng phải ngài muốn nói không chứng đắc là không có Vô thượng bồ-đề. Nên khi nói đó gọi là Vô thượng chánh đẳng bồ-đề, là trong đó có pháp, có cao có thấp, tuy một pháp cũng chẳng có, cho nên tất cả các pháp đều bình đẳng. Do tất cả các pháp đều bình đẳng nên phàm thánh  đều  cùng  một  thể.  Do  sự  tự
+Lai nói rằng thật chẳng có pháp để chứng đắc Vô thượng bồ-đề. Tu-bồ- đề há không tin điều ấy là chẳng thật. Nhưng sợ cho chúng sinh đời sau, lấy cái chẳng có thân, chẳng có thuyết mà cho rằng tất cả đều là không, rồi nói rằng pháp thân cũng không, nên Tu- bồ-đề mới hỏi Đức Phật là đắc Vô thượng bồ-đề là chẳng chứng đắc chăng? Đức Phật đã trả lời đúng là chẳng có chứng đắc, chẳng phải ngài muốn nói không chứng đắc là không có Vô thượng bồ-đề. Nên khi nói đó gọi là Vô thượng chánh đẳng bồ-đề, là trong đó có pháp, có cao có thấp, tuy một pháp cũng chẳng có, cho nên tất cả các pháp đều bình đẳng. Do tất cả các pháp đều bình đẳng nên phàm thánh đều cùng một thể. Do sự tự
 
 chứng nầy, mà chẳng có thân tướng để chứng đắc. Do đây nên việc độ sanh cũng chẳng có tướng ngôn thuyết để chứng đắc. Đều khiến cho nhất thiết chúng sinh đều nhập được vô dư niết-bàn, mà thật chẳng có chúng sinh nào được diệt độ là do ở nghĩa nầy.
 Bản dịch của Cưu-ma-la-thập:
 修一切善法，則得阿耨多羅三藐三菩提。
-Tu  hết  thảy  các  pháp  lành,  tất  sẽ
+Tu hết thảy các pháp lành, tất sẽ
 chứng đắc A-nậu-đa-la Tam-miệu tam-bồ-đề.
-Văn trước đã nói: Chẳng có một pháp nào, đây nói Tu hết thảy các pháp  lành;  trước  nói:  chẳng  chứng
+Văn trước đã nói: Chẳng có một pháp nào, đây nói Tu hết thảy các pháp lành; trước nói: chẳng chứng
 
 đắc; nay nói: có chứng đắc. Biết ý trong ngôn ngữ có phần trái nhau.
 Bản dịch của Huyền Trang:
 以平等故名無上正等菩提，一切善法無不現證，一切善法無不妙覺，此於菩提，但言名而不言得，一切善法，但言證而不言修。」
-Do  bình  đẳng tánh, nên gọi là  Vô
+Do bình đẳng tánh, nên gọi là Vô
 thượng chánh đẳng bồ-đề. Tất cả các thiện pháp, không có pháp nào mà chẳng hiện chứng. Tất cả các thiện pháp, không có pháp nào mà chẳng diệu giác. Những pháp nầy trong bồ- đề, chỉ là ngôn thuyết danh tự mà không thể nói là chứng đắc. Tất cả các thiện pháp, chỉ là nói đến chứng
 
 đắc chứ không nói đến việc tu tập. Cùng một ý như văn trước, lại càng khẩn thiết hơn.
@@ -3415,7 +3356,7 @@ Nơi đó không một pháp Biết bồ-đề vô thượng
 Pháp giới không tăng giảm Tự tướng đều bình đẳng.
 Tuy là chẳng có một pháp, tuy là bình đẳng; nhưng không thể nói rằng chẳng do tu hành mà thành chánh giác. Lại nữa pháp ấy là chẳng có các tướng ngã nhân, xa lìa hẳn các tướng, tức là bình đẳng. Lại nữa, pháp ấy là vô ngã, tự thể chân thật, lại chẳng có
 
-một pháp để được, nên gọi là vô thượng. Lại nữa đối với các phương tiện, pháp ấy cũng là vô thượng, dù có các thiện pháp cũng đều là viên mãn, nên gọi là vô thượng. Sao nói các thiện pháp có tự thể để được chứng đắc, mà không thể nào chứng được lý sở đắc? Vì pháp chẳng giống nhau được là thành cái nhân hay sao? Nói thiện pháp, Như Lai nói là chẳng phải pháp, do tánh hữu lậu không thể trì giữ được, nên gọi là chẳng phải thiện. Do tánh vô lậu quyết định có thể trì giữ được, nên đó là tánh thiện. Tánh lậu ấy chẳng phải là pháp thanh tịnh, ở đây lìa xa các pháp lậu hoặc, tức là pháp thanh tịnh, nên gọi là các pháp kia. Nếu còn có các pháp hữu lậu, tức  là chẳng phải thiện pháp. Do
+một pháp để được, nên gọi là vô thượng. Lại nữa đối với các phương tiện, pháp ấy cũng là vô thượng, dù có các thiện pháp cũng đều là viên mãn, nên gọi là vô thượng. Sao nói các thiện pháp có tự thể để được chứng đắc, mà không thể nào chứng được lý sở đắc? Vì pháp chẳng giống nhau được là thành cái nhân hay sao? Nói thiện pháp, Như Lai nói là chẳng phải pháp, do tánh hữu lậu không thể trì giữ được, nên gọi là chẳng phải thiện. Do tánh vô lậu quyết định có thể trì giữ được, nên đó là tánh thiện. Tánh lậu ấy chẳng phải là pháp thanh tịnh, ở đây lìa xa các pháp lậu hoặc, tức là pháp thanh tịnh, nên gọi là các pháp kia. Nếu còn có các pháp hữu lậu, tức là chẳng phải thiện pháp. Do
 
 chẳng còn các pháp hữu lậu, nên gọi là thiện pháp, dứt khóat đó là thiện pháp vô lậu. Nên nói là người quân tử cùng với người quân tử đó vậy.
 Di-lặc Bồ-tát có kệ rằng:
@@ -3437,7 +3378,7 @@ Ngưỡng Sơn đáp: Nước cũng vô định, chỗ cao thì thành ra cao, c
 
 Quy Sơn không nói nữa. Chứng được lý bình đẳng thật là khó. Trụ ở hai đầu tức chẳng là bình đẳng, đứng ở giữa cũng chẳng là bình đẳng, chỉ có nước là có thể bình đẳng. Nhưng vật thì không thể bình đẳng, cho đến chẳng có một pháp ắt là được bình đẳng. Cao cũng bình đẳng, mà thấp cũng bình đẳng, chỉ có như vậy mới thấy có chứng đắc, mới đủ để biết mình và người đều là cùng trong biển tánh niết-bàn.
 
-Đoạn trừ mối nghi	điều sở thuyết là vô ký	chẳng phải nhân.
+Đoạn trừ mối nghi điều sở thuyết là vô ký chẳng phải nhân.
 
 Mối nghi nầy do nghĩa văn trước nói về việc tu tập các thiện pháp. Như nói
 
@@ -3447,7 +3388,7 @@ Kinh văn:
 須菩提！若三千大千世界中所有諸須彌山王，如是等七寶聚，有人持用布施；若人以此般若波羅蜜經，乃至四句偈等，受持、讀誦、為他
 
 人說，於前福德百分不及一，千萬億分，乃至算數譬喻所不能及。
-Tu-bồ-đề!  Như  trong  ba  ngàn  đại
+Tu-bồ-đề! Như trong ba ngàn đại
 thiên thế giới có các núi chúa Tu-di, có người dùng bảy món báu tích tụ nhiều như các núi ấy mà bố thí. Lại có người lấy kinh Bát-nhã Ba-la-mật này, thậm chí chỉ bốn câu kệ, thọ trì, đọc tụng, vì người khác giảng nói. Phước đức của người bố thí, so với người trì kinh thật trăm phần chẳng bì được một, trăm ngàn vạn ức phần, cho đến tính toán, thí dụ cũng chẳng thể so được.
 Phó Đại sĩ có bài tụng rằng:
 Thí bảo như sa số
@@ -3493,20 +3434,20 @@ Vương tử thứ ba nói: Trong các vật, không khởi niệm là chẳng c
 Tổ Bát-nhã-đa-la lại hỏi tiếp: Trong các vật, cái gì lớn nhất? Trong các vật, pháp tánh là lớn nhất.
 Tổ Bát-nhã-đa-la biết đây là sẽ người kế thừa đạo nghiệp, bèn đem chánh
 
-pháp nhãn phó chúc cho Vương tử.  Về sau, Lục tổ cũng có nói:
+pháp nhãn phó chúc cho Vương tử. Về sau, Lục tổ cũng có nói:
 Thừa ban vĩnh thế cầu châu, Bất tri thân thị thất bảo.
 Nghĩa là:
 Theo dòng thế tục tìm châu báu Không hay bảy báu chính thân mình.
 Cả hai vị Tổ sư đều hiển bày tính thâm diệu của pháp bảo, châu báu thế gian chẳng thể nào bì kịp.
 
-Đoạn trừ mối nghi bình đẳng  làm sao mà độ sanh?
+Đoạn trừ mối nghi bình đẳng làm sao mà độ sanh?
 
 Mối nghi nầy do từ mối nghi về các pháp bình đẳng. trong đoạn 19.
 
 Công Đức Thi Bồ-tát Luận nói rằng: Pháp tánh bình đẳng, chẳng có cao thấp, tức chẳng có chúng sinh được
-độ,	nếu	Như	Lai	nói	chẳng	phải
+độ, nếu Như Lai nói chẳng phải
 chúng sinh, không trái với các lời dạy
-khác	hay	sao?	Như
+khác hay sao? Như
 kinh
 nói:
 Vô
@@ -3538,7 +3479,7 @@ Tạm dịch:
 Chân pháp giới bình đẳng Phật chẳng độ chúng sinh
 
 Do tên cùng các ấm Chẳng lìa nơi pháp giới.
-Thường trong pháp giới nhất chân, ngũ uẩn đều là không. Tên thánh, hiệu phàm, hết thảy đều chẳng có. Chúng sinh do trì giữ các uẩn mà thành, tức có nghĩa là chẳng phải chúng sinh. Tên gọi chúng sinh đã là không, thì lấy ai để độ? Nên thật chẳng có chúng sinh được độ thoát. Đó thật là thể chứng pháp giới tánh bình đẳng. San định ký nói rằng: Năm câu sau câu hỏi Ý ông nghĩ sao? là để ngăn ngừa sự hiểu lầm. Sao không dùng hai câu để chỉ bày chánh kiến? Để tỏ bày ý rằng: Do nghĩa nào mà chẳng khởi niệm nầy? Giải thích rằng:  Do  thật  chẳng  có  chúng  sinh
+Thường trong pháp giới nhất chân, ngũ uẩn đều là không. Tên thánh, hiệu phàm, hết thảy đều chẳng có. Chúng sinh do trì giữ các uẩn mà thành, tức có nghĩa là chẳng phải chúng sinh. Tên gọi chúng sinh đã là không, thì lấy ai để độ? Nên thật chẳng có chúng sinh được độ thoát. Đó thật là thể chứng pháp giới tánh bình đẳng. San định ký nói rằng: Năm câu sau câu hỏi Ý ông nghĩ sao? là để ngăn ngừa sự hiểu lầm. Sao không dùng hai câu để chỉ bày chánh kiến? Để tỏ bày ý rằng: Do nghĩa nào mà chẳng khởi niệm nầy? Giải thích rằng: Do thật chẳng có chúng sinh
 
 được Như Lai độ thoát. Bổn nguyên nhất chân pháp giới vốn tự bình đẳng. Phật là người đã chứng đắc rốt ráo, đã toàn là pháp giới. Chúng sinh tuy chưa được chứng đắc, nhưng duyên vào chúng sinh vốn chẳng có tự thể, nên cũng đồng như pháp giới, nên nói chẳng có chúng sinh nào được Phật độ thoát. Nếu thật có chúng sinh khác với loài đã được Phật độ thoát, thì loài nầy tất chẳng phải là pháp giới, chẳng rốt ráo do duyên sinh, vẫn còn các tướng ngã, nhân, chúng sinh, thọ giả. Phiền não chưa sạch, gọi là chấp ngã, Như Lai chẳng phải làm việc như vậy.
 Di-lặc Bồ-tát có kệ rằng:
@@ -3553,7 +3494,7 @@ Bỉ–pháp ấy, tức là chỉ cho bốn tướng. Như Lai tại sao nói v
 tức là sai lầm do chấp tướng, do chấp rằng ngũ ấm là chúng sinh, tức giống như sai lầm về ngã chấp. Muốn khiến cho chúng sinh được giải thoát, có được tướng như vậy, thì chẳng nên chấp trước. Đã không còn ngã chấp, sao còn dùng lời nói chẳng thủ chấp làm gì? Do hàng phàm phu điên đảo các hư vọng, chấp là có ngã, nên chẳng được giải thoát. Cho nên khi nói vọng chấp có ngã, tức đó là hàng phàm phu, chẳng phải là bậc thánh, chẳng thể phát sinh pháp của bậc thánh, nên gọi là phàm phu. Tên gọi phàm phu ấy là phong cho cái ngã, do sai biệt mà có, gọi là phàm phu sinh. Nhưng trong lí đệ nhất nghĩa, cũng chẳng có phàm phu để được. Đó chỉ là lời nói của thế gian, là phát sinh từ
 
 tên gọi phàm phu mà thôi! Do văn trên để suy ra, có nghĩa là Như Lai xưa nay vốn là vô ngã, chỉ có phàm phu mới chấp làm ngã, nên nói chẳng có ngã pháp là để độ hàng phàm phu, rốt ráo phàm phu cũng vốn là vô ngã. Không chỉ là vô ngã, mà còn chẳng là phàm phu. Như người nằm mơ thấy hổ, hổ và người nằm mộng đều chẳng có. Làm sao còn có chúng sinh để độ?
-Trước sau bốn lĩnh vực, đều nói độ mà chẳng độ, trước hết là khiến cho lìa ý niệm có ta đang độ chúng sinh. Mối nghi thứ 11 rằng người có thể độ thoát chúng sinh là ta. Mối nghi ở đoạn thứ 14 là đã vô ngã rồi thì ai độ? Mối nghi nầy là nhất chân pháp giới bình  đẳng,  chẳng  bao  hàm  việc  độ
+Trước sau bốn lĩnh vực, đều nói độ mà chẳng độ, trước hết là khiến cho lìa ý niệm có ta đang độ chúng sinh. Mối nghi thứ 11 rằng người có thể độ thoát chúng sinh là ta. Mối nghi ở đoạn thứ 14 là đã vô ngã rồi thì ai độ? Mối nghi nầy là nhất chân pháp giới bình đẳng, chẳng bao hàm việc độ
 
 sanh, cho đến phát minh điều thật chẳng có chúng sinh nào được độ thoát, rất rõ ràng và tường tận!
 Quy Sơn đói bụng, đi ăn cơm, trở về gặp Ngưỡng Sơn. Sư nói: Ngày nay vì nó mà mỗi ngày phải đến trai đường một lần.
@@ -3564,14 +3505,14 @@ Quy Sơn nói: Làm sao biết sắc thanh?
 Ngưỡng Sơn đáp: Hoà thượng vừa rồi nói cái gì?
 
 Quy Sơn nói: Ta chỉ nói vì nó mà mỗi ngày phải đến trai đường một lần.
-Ngưỡng Sơn hỏi: Lấy	gì làm	thanh sắc?
+Ngưỡng Sơn hỏi: Lấy gì làm thanh sắc?
 Quy Sơn đáp: Tuy vậy, xét kỹ thì chẳng có gì phương ngại.
 Ngưỡng Sơn đáp: Đại sự nhân duyên do đâu sanh?
 Quy Sơn đưa nắm tay lên.
-Ngưỡng Sơn nói:	Rốt cục	là chỉ đông nói tây.
+Ngưỡng Sơn nói: Rốt cục là chỉ đông nói tây.
 Quy Sơn nói: Ông vừa hỏi những gì? Ngưỡng Sơn đáp: Hỏi Hoà thượng về Đại sự nhân duyên
 Quy Sơn nói: Sao lại nói chỉ đông nói tây?
-Ngưỡng Sơn đáp:  Vì dính mắc vào
+Ngưỡng Sơn đáp: Vì dính mắc vào
 
 thanh sắc, nên con mới hỏi qua. Quy Sơn nói: Đều chưa rõ việc nầy.
 Ngưỡng Sơn hỏi lại: Thế nào là rõ được việc nầy?
@@ -3580,7 +3521,7 @@ Ngưỡng Sơn nói: Một ánh trăng hiện ở ngàn sông, tánh sáng chưa
 Quy Sơn nói: Nên tu tập như thế nào mới được?
 Ngưỡng Sơn đáp: Như vàng với vàng, chẳng có màu khác, sao có tên riêng?
 Quy Sơn nói: Thế nào là nghĩa của tên riêng?
-Ngưỡng Sơn đáp:  Bình, khay, thoa,
+Ngưỡng Sơn đáp: Bình, khay, thoa,
 
 xuyến khoán vu bồn– bằng chứng (cũng chính) là cái chậu.
 Quy Sơn nói: Huệ Tịch nói thiền, như sư tử rống, kinh động cả loài chồn hoang lang sói.
@@ -3608,13 +3549,11 @@ Bấy giờ, đức Thế Tôn liền nói kệ rằng:
 
 Huyền Trang dịch:
 Đức Phật bảo Thiện Hiện: Ý ông nghĩ sao? Có thể theo các tướng đầy đủ để quán sát Như Lai chăng? 95[95]
-Thiện Hiện trả lời rằng: Như con hiểu nghĩa Phật nói: Không nên theo các tướng đầy đủ để thấy Như Lai. Đức Phật nói: Thiện Hiện! Lành thay! Lành thay! Đúng vậy! Như ông vừa nói, Không thể nào theo các tướng đầy đủ để thấy Như Lai. Thiện Hiện! Nếu theo các tướng đầy đủ để thấy Như Lai, thì Chuyển luân thánh vương lẽ ra cũng là Như Lai. Cho nên không thể theo các tướng đầy đủ để thấy  Như  Lai.  Thế  nên  chẳng  phải
-
-
+Thiện Hiện trả lời rằng: Như con hiểu nghĩa Phật nói: Không nên theo các tướng đầy đủ để thấy Như Lai. Đức Phật nói: Thiện Hiện! Lành thay! Lành thay! Đúng vậy! Như ông vừa nói, Không thể nào theo các tướng đầy đủ để thấy Như Lai. Thiện Hiện! Nếu theo các tướng đầy đủ để thấy Như Lai, thì Chuyển luân thánh vương lẽ ra cũng là Như Lai. Cho nên không thể theo các tướng đầy đủ để thấy Như Lai. Thế nên chẳng phải
 
 95[95]Nguyên bản Sanskrit: tat kiṃ manyase subhūte lakṣaṇasampadā tathāgato draṣṭavyaḥ | Tu-bồ-đề, Ông nghĩ như thế nào? Như Lai có thể được thấy qua sự toàn vẹn của các tướng hay không?
 
-theo các tướng đầy đủ để thấy Như  Lai.
+theo các tướng đầy đủ để thấy Như Lai.
 Lúc ấy Thế tôn nói kệ rằng: Chư dĩ sắc quán ngã,
 Dĩ âm thanh tầm ngã, Bỉ y phú tà đoạn,
 Bất năng đương kiến ngã.96[96]
@@ -3642,7 +3581,6 @@ Tạm dịch:
 Niết-bàn gồm bốn đức 98[98] Ngã, khế hợp chân thường, Đều gọi: nhập tự tại
 Là ngã rất linh trường Chẳng phải tướng sắc thanh
 
-
 98[98]Chân thường, chân lạc, chân ngã, chân tịnh.
 
 Tâm thức sao suy lường? Nhìn, thì chẳng thấy được Ngộ lý, thể sáng trong.
@@ -3659,8 +3597,6 @@ San định ký nói rằng: Hai câu Ý ông nghĩ sao...?, có nghĩa là, có
 câu mà Đức Phật trả lời, tuy chẳng phân biệt phàm thánh, có nghĩa là Chuyển luân thánh vương [^99] cũng có các tướng nầy, thì đó cũng là Như Lai, tức là thân tướng không thể ví như Như Lai được! Vả lại sắc tướng của Chuyển luân thánh vương và Phật tuy đồng, nhưng mỗi bên đều khác nhau. Tướng Phật là do thể hiện từ pháp thân, tướng Chuyển luân thánh vương là theo nghiệp nhân mà có. Phàm thánh như mây và bùn, so sánh vậy sao chuẩn xác được. Di-lặc Bồ-tát có kệ rằng:
 Phi thị sắc thân tướng Hà tỉ tri Như Lai
 
-
-
 99[99]Chuyển luân vương 轉 輪 王; S: cakravartin, cakravartī-rāja;
 Là một vị vua quay bánh xe. Có bốn thứ bánh xe: bánh xe bằng vàng, bạc, đồng, sắt. Danh hiệu Chuyển luân vương cũng được dành để chỉ một vị Phật, người chuyển pháp luân với giáo pháp toàn triệt, tuyệt đối.
 
@@ -3670,7 +3606,7 @@ Tạm dịch:
 Chẳng phải tướng sắc thân Sao so với Như Lai?
 Phật chính là pháp thân
 Chuyển luân chẳng phải Phật Chẳng phải tướng quả báo Do phước đức thành tựu Chứng pháp thân chân thật Phương tiện đều khác nhau.
-Qua  nghĩa  bốn  câu  Tu-bồ-đề  bạch
+Qua nghĩa bốn câu Tu-bồ-đề bạch
 
 Phật, Tu-bồ-đề đã ngộ ra rằng không thể dùng các tướng mà thấy được Như Lai. Ý là, nhờ vào thấy nghe là từ cái chân thật mà hiện bày ra cái giả, giả chẳng lìa chân. Sao lại từ giả mà cầu chân! Chân chẳng có từ cái giả được. Tướng Chuyển luân thánh vương là do phước đức mà thành tựu, đó là thân quả báo, chẳng phải là pháp thân. Do dó, lực phước đức chỉ được thành tựu các tướng, mà lực phước đức không thành tựu được đại bồ-đề. Nên Phật cũng không thể nào dùng các tướng để tháy được.
 Năm câu từ Lúc ấy Thế tôn....tức là dùng kiến văn cũng không thể thấy được Như Lai. Chân như pháp thân chẳng phải là cảnh giới của thức phân
@@ -3725,7 +3661,7 @@ hợp với vô tướng tam-muội?
 Nam Nhạc nói: Ông học pháp môn tâm địa, như gieo hạt giống; còn ta nói pháp yếu, ví như mưa thấm. Nếu duyên của ông khế hợp, sẽ thấy được đạo.
 Mã Tổ lại hỏi: Chẳng phải sắc tướng, làm sao thấy được?
 Nam Nhạc nói: Pháp nhãn của tâm địa thấy được đạo. Vô tướng tam- muội cũng như thế.
-Mã Tổ lại hỏi: Có thành hoại chăng? Nam Nhạc	đáp:	Nếu lấy thành hoại tu  tán  mà	 thành		được  đạo	thì  đó
+Mã Tổ lại hỏi: Có thành hoại chăng? Nam Nhạc đáp: Nếu lấy thành hoại tu tán mà thành được đạo thì đó
 chẳng phải là thấy đạo. Hãy nghe kệ
 của ta:
 Tâm địa hàm chư chủng
@@ -3752,7 +3688,7 @@ Thấy không thấy
 Cỡi ngược trâu, chừ vào điện Phật.
 Kết hợp hai tắc trên để thấy, vô tướng tam-muội tuy là chỉ bằng tâm địa pháp nhãn mới thấy được, nhưng thấy là chẳng thấy, như Cỡi ngược trâu mới mong thấy được Như Lai.
 
-Đoạn trừ mối nghi Phật quả  chẳng can hệ gì đến phước tướng.
+Đoạn trừ mối nghi Phật quả chẳng can hệ gì đến phước tướng.
 
 Mối nghi do từ văn trước nói rằng, không nên dùng sắc tướng để thấy Như Lai. Không thể đồng nhất Như Lai với 32 tướng. Tướng ấy Ở Đức Phật tức gọi là Phật quả, ở nơi Chuyển luân thánh vương thì gọi là
 
@@ -3768,11 +3704,11 @@ Tu-bồ-đề! Nếu ông khởi ý nghĩ rằng:
 
 đẳng Chánh giác.’ Tu-bồ-đề! Chớ nghĩ như thế. Chớ nghĩ rằng Như Lai chẳng dùng các tướng đầy đủ mà được thành Vô thượng Chánh đẳng Chánh giác.
 “Tu-bồ-đề! Nếu ông khởi ý nghĩ rằng: ‘Người phát tâm Vô thượng Chánh đẳng Chánh giác thuyết giảng tướng đoạn diệt của các pháp.’ Chớ nghĩ như thế. Vì sao vậy? Người phát tâm Vô thượng Chánh đẳng Chánh giác, đối với pháp chẳng thuyết tướng đoạn diệt.
-Tu-bồ-đề! Nếu Bồ-tát dùng bảy báu đầy trong những thế giới nhiều như cát sông Hằng mang ra bố thí. Lại có người hiểu biết hết thảy các pháp là vô  ngã  nên  thành  tựu  được  hạnh
+Tu-bồ-đề! Nếu Bồ-tát dùng bảy báu đầy trong những thế giới nhiều như cát sông Hằng mang ra bố thí. Lại có người hiểu biết hết thảy các pháp là vô ngã nên thành tựu được hạnh
 
 nhẫn. Công đức của người này vượt hơn vị Bồ-tát làm việc bố thí.
 “Vì sao vậy? Tu-bồ-đề! Là vì các vị Bồ-tát chẳng thọ nhận phước đức.” Tu-bồ-đề bạch Phật: “Bạch Thế Tôn!
-Thế  nào  là  Bồ-tát  chẳng  thọ  nhận
+Thế nào là Bồ-tát chẳng thọ nhận
 phước đức?”
 “Tu-bồ-đề! Bồ-tát có làm việc phước đức đều chẳng nên tham trước. Nên nói là chẳng thọ nhận phước đức. Thông rằng:
 Tu-bồ-đề chỉ một chiều hiểu về lý không, một chiều nói rằng không thể bằng 32 tướng mà thấy Như Lai được. Đức Phật xác nhận ý nầy và nói: Nếu nhờ vào tướng mà thấy được Như Lai, thì Chuyển luân thánh vương cũng là Phật. Rồi ngài liền nói
@@ -3782,9 +3718,9 @@ kệ: Đem sắc thân, âm thanh mà cầu Như Lai, đó là hành tà đạo.
 
 San định ký nói rằng:
 Tám câu từ Nếu ông khởi ý nghĩ rằng..., là để ngăn ngừa ý niệm huỷ bó các tướng. Ý nói rằng: Nếu ông cho rằng Như Lai do không cần phải có đủ sắc tướng mới chứng đắc bồ-đề. Chớ suy nghĩ như vậy. Thế văn như là trùng lặp, nhưng ý thật là chẳng trùng, chỉ là trước thì nêu ra để sau ngăn ngừa.
-Năm câu từ Nếu ông khởi ý nghĩ rằng..., là để trừ sai lầm do phá bỏ tướng. Vì nếu nói xác định là có, ắt là chấp vào thường. Nói xác định là không, ắt là chấp vào đoạn. Nay nếu khởi kiến giải vô tướng, tức chính là đoạn kiến. Tức là trên phương diện quả  báo  sẽ  bị  tổn  mất  phước  đức
+Năm câu từ Nếu ông khởi ý nghĩ rằng..., là để trừ sai lầm do phá bỏ tướng. Vì nếu nói xác định là có, ắt là chấp vào thường. Nói xác định là không, ắt là chấp vào đoạn. Nay nếu khởi kiến giải vô tướng, tức chính là đoạn kiến. Tức là trên phương diện quả báo sẽ bị tổn mất phước đức
 
-trang nghiêm, trên phương diện  nhân sẽ tổn giảm năm hạnh trong lục độ, sẽ phá hoại tục đế.  Chủ trương các pháp đoạn diệt, đó là kiến giải chấp không của hàng Nhị thừa, chẳng có Bồ-tát nào cho các pháp là đoạn diệt. Sao vậy? Vì có sinh tức có đoạn. Tánh của tất cả các pháp là vô sanh, nên lìa xa hai cực đoan thường, đoạn. Đã lìa xa được hai cực đoan ấy, đó là tướng của pháp giới. Nên phát bồ-đề tâm là cần phải tương ưng cùng pháp giới, tức phải nươgn vào hạnh nguyện từ bi và trí huệ, hạnh làm lợi ích cho chúng sinh, nên không nói tướng của các pháp là đoạn diệt. Di- lặc Bồ-tát có kệ rằng:
+trang nghiêm, trên phương diện nhân sẽ tổn giảm năm hạnh trong lục độ, sẽ phá hoại tục đế. Chủ trương các pháp đoạn diệt, đó là kiến giải chấp không của hàng Nhị thừa, chẳng có Bồ-tát nào cho các pháp là đoạn diệt. Sao vậy? Vì có sinh tức có đoạn. Tánh của tất cả các pháp là vô sanh, nên lìa xa hai cực đoan thường, đoạn. Đã lìa xa được hai cực đoan ấy, đó là tướng của pháp giới. Nên phát bồ-đề tâm là cần phải tương ưng cùng pháp giới, tức phải nươgn vào hạnh nguyện từ bi và trí huệ, hạnh làm lợi ích cho chúng sinh, nên không nói tướng của các pháp là đoạn diệt. Di- lặc Bồ-tát có kệ rằng:
 Bất thất công đức nhân
 
 Cập bỉ thắng quả báo.
@@ -3815,12 +3751,12 @@ Có vị tăng hỏi Thiền sư Vân Nham Đàm Thạnh: Hai mươi năm thân 
 Vân Nham đáp: Trên đầu đội mũ hoa báu.
 Tăng hỏi: Trên đầu đội mũ hoa báu, Ý chỉ như thế nào?
 Vân Nham đáp: Đại Đường Thiên tử và vua Diêm-la
-Tăng  hỏi  Thiền  sư  Cửu  Phong
+Tăng hỏi Thiền sư Cửu Phong
 
-Kiền:101[101]	Đại Đường Thiên tử và vua Diêm-la. Ý chỉ như thế nào?
+Kiền:101[101] Đại Đường Thiên tử và vua Diêm-la. Ý chỉ như thế nào?
 Cửu Phong đáp: Bỏ qua những lời ghi nhớ rỗng tuếch.
 Thiền sư Đan Hà có bài tụng rằng: Ngọc tiên cao cử kích kim môn
-Dẫn xuất san hô 102[102]	giá mạc luận.
+Dẫn xuất san hô 102[102] giá mạc luận.
 Huýnh cổ luân vương toàn ý khí
 Bất chương bảo ấn tự nhiên tôn. Tạm dịch::
 Roi ngọc đưa cao gõ cửa vàng Bày ra san hô giá miễn bàn
@@ -3844,7 +3780,7 @@ Qua hai tắc trên mà quán sát, phước đức của Chuyển luân thánh 
 
 Đoạn trừ mối nghi hoá thân hiển bày để thọ phước.
 
-Mối  nghi  nầy  do  từ  văn  trước  nói
+Mối nghi nầy do từ văn trước nói
 
 rằng chẳng thọ phước đức.
 Công Đức Thi Bồ-tát Luận nói rằng: Nếu trong đệ nhất nghĩa chẳng có một pháp để thủ đắc, sao các kinh khác lại nói như thế nầy:
@@ -3870,7 +3806,7 @@ Tạm dịch:
 Hoá thân Phật đến đi.
 Như Lai thường chẳng động. Đây là chẳng khác mà lại khác.
 Có người hỏi rằng: Đã chẳng có Phật
-đến	đi,	sao	lại	xuất	hiện	để	thọ
+đến đi, sao lại xuất hiện để thọ
 
 phước? Là vì chúng sinh để thọ dụng hay sao?
 Đáp rằng: Đây là do nước tâm của chúng sinh thanh tịnh, tức thấy Phật đến (lai), đến chẳng từ đâu đến. Khi nước tâm cấu bẩn, thì thấy Phật đi (khứ), đi nhưng chẳng đi về đâu. Đó là Phật chỉ theo tâm chúng sinh mà thị hiện chứ vốn là vô tâm, chỉ tuỳ theo tâm lượng chúng sinh mà ứng hiện! Vốn chẳng có Phật nào xuất hiện, sao lại có việc thọ nhận phước đức?
@@ -3878,7 +3814,7 @@ Di-lặc Bồ-tát có kệ rằng: Thị phước đức ứng báo Vi hoá ch�
 Chư Phật hiện thập phương.
 
 Tạm dịch:
-Phước đức ứng báo thân Vì giáo hoá chúng sinh Nghiệp tự nhiên	như vậy
+Phước đức ứng báo thân Vì giáo hoá chúng sinh Nghiệp tự nhiên như vậy
 Chư Phật hiện mười phương.
 Như kinh nói:
 Ứng vật hiện hình, như trăng trong nước.
@@ -3890,8 +3826,8 @@ Nam Tuyền đáp: Được!
 Lục Hoàn Đại phu hỏi tiếp: Chẳng phải là không được hay sao?
 Nam Tuyền đáp: Không được!
 Thiền sư Vân Nham nói: Ngồi tất là Phật, chẳng ngồi tất chẳng phải Phật.
-Động Sơn nói: Chẳng ngồi tất là Phật, ngồi tất chẳng phải	Phật.
-Thiền sư Thiên Đồng niêm rằng: Chuyển công thành vị, Chuyển vị thành	công,
+Động Sơn nói: Chẳng ngồi tất là Phật, ngồi tất chẳng phải Phật.
+Thiền sư Thiên Đồng niêm rằng: Chuyển công thành vị, Chuyển vị thành công,
 Rỗng rang đầu gậy?
 Cây trượng, hãy nói ý Nam Tuyền như thế nào? Cho dù khám nghiệm thấy chưa được.
 Ngũ tổ Diễn103[103] nói:
@@ -3912,9 +3848,7 @@ Lão tăng nói cách thứ hai: Đông thắng thân châu104[104] làm một v
 
 vẫn là cây cỏ lùm rừng; nhuyễn động hàm linh vẫn là nhuyễn động hàm linh. Nên nói Pháp trụ, Pháp vị ấy, là tướng thường trụ ở thế gian.108[108] Nếu như vậy, ông lấy cái gì làm Phật? Nhận ra được chưa?
 Bỗng nhiên có một vị bước ra nói:
-“Bạch  Vân   hãy  thôi  nói  mớ,  đại
-
-
+“Bạch Vân hãy thôi nói mớ, đại
 
 108[108]Pháp trụ, Pháp vị:
 Phật chủng tùng duyên khởi, Thị cố thuyết Nhất Thfia. Thị pháp trụ pháp vị,
@@ -3929,7 +3863,7 @@ Các bậc tôn túc từ xưa nay, nơi bản nguyên tự tánh thiên chân P
 Đoạn trừ mối nghi pháp thân và hoá thân đồng nhât hay khác biệt.
 
 Mối nghi nầy do từ văn trên nói rằng pháp thân không đoạn diệt. Pháp thân đến từ chỗ chẳng đến đi.
-Công Đức Thi Bồ-tát Luận nói rằng: Nếu sinh tử Bát-nhã đều bất khả đắc, nên chẳng có đến đi. Như Lai há chẳng  như  núi  chúa  Tu-di  tích  tụ
+Công Đức Thi Bồ-tát Luận nói rằng: Nếu sinh tử Bát-nhã đều bất khả đắc, nên chẳng có đến đi. Như Lai há chẳng như núi chúa Tu-di tích tụ
 
 thành một thể để an trụ nơi đó chăng? Để khiển trừ ý niệm đồng nhất, ý niệm thường hằng trong nầy, chẳng có phân biệt nhưng có phân biệt, thấy hợp nhất một thể. Nói rằng vi trần là nhiều, để khiển trừ chẳng phải cái thấy hợp nhất một thể. Nói chẳng phải vi trần là nhiều, là để khiển trừ cái thấy hợp nhất một thể. Đó gọi vi trần là nhiều. Ngã chẳng phải là vật thể phân chia ra được rồi cho là nhiều. Lại nữa, để khiển trừ ý niệm về sự tích tụ. Nên kinh nói:
 Kinh văn:
@@ -3945,7 +3879,7 @@ nhiều. Vì sao vậy? Nếu những vi trần này là thật có, thì Như L
 Thế Tôn! Như Lai nói ba ngàn đại thiên thế giới, tức chẳng phải thế giới, nên gọi là thế giới.
 Vì sao vậy? Nếu thế giới là có thật, tức là một tướng hòa hợp.109[109] Như Lai nói rằng một tướng hòa hợp tức chẳng phải một tướng hòa hợp, nên gọi là một tướng hòa hợp.”
 
-109[109]sacedbhagavan	lokadhāturabhaviṣyat	sa	eva	piṇḍagrāho'bhaviṣyat	yaścaiva piṇḍagrāhastathāgatena bhāṣito 'grāhaḥ sa tathāgatena bhāṣitaḥ | tenocyate piṇḍagrāha iti | Vì sao? Thưa Thế Tôn, nếu đã có một thế giới thì đã có nhất hợp chấp và cái được Như Lai dạy là nhất hợp chấp đó chính là cái phi chấp được Như Lai dạy. Thế nên nó được gọi là nhất hợp chấp.
+109[109]sacedbhagavan lokadhāturabhaviṣyat sa eva piṇḍagrāho'bhaviṣyat yaścaiva piṇḍagrāhastathāgatena bhāṣito 'grāhaḥ sa tathāgatena bhāṣitaḥ | tenocyate piṇḍagrāha iti | Vì sao? Thưa Thế Tôn, nếu đã có một thế giới thì đã có nhất hợp chấp và cái được Như Lai dạy là nhất hợp chấp đó chính là cái phi chấp được Như Lai dạy. Thế nên nó được gọi là nhất hợp chấp.
 Bản dịch Huyền Trang:
 何以故。世尊。若世界是實有者即為一合。如來說一合執即為非執故名一合執。
 Bản dịch Chân Đế dùng chữ Tụ nhất chấp.
@@ -4000,7 +3934,7 @@ Tạm dịch::
 Chỉ theo nơi âm thanh Phàm phu chấp điên đảo.
 Nếu chẳng thủ trước, tức chẳng rơi
 vào sự tướng. Dụ nầy là toàn Ứng thân tức Pháp thân, Pháp thân chẳng lìa Ứng thân. Sao còn nói tánh đồng nhất làm gì? Pháp thân đã không lìa Ứng thân, Ứng thân đã không lìa Pháp thân, nên biết Như Lai chẳng trụ trong ý niệm đồng nhất, cũng chẳng trụ trong ý niệm dị biệt.
-Kim  Hải  Quang  Như  Lai  giải  nói
+Kim Hải Quang Như Lai giải nói
 
 rằng:
 Thế giới, chính Như Lai nói đó là thế giới ba ngàn đại thiên cõi nước mà Đức Phật Lô-xá-na trú trì, trên thân ngài hoá sinh ra các cây bồ-đề, gọi là Liên hoa tạng thế giới, mà không gọi đó là thế giới chất ngại. Nhất hợp tướng là, hết thảy thân chúng sinh trong Phật tánh cùng pháp thân của Đức Phật Lô-xá-na là nhất hợp tướng
@@ -4009,15 +3943,15 @@ Tụng rằng:
 Như Lai tự thuyết Liên hoa tạng Phụ hà tam thiên hoàn đại thiên Bồ-tát liễu không quy nhất hợp Phàm phu tham trước bị ma triền.
 Tạm dịch::
 
-Chính Như Lai nói Liên hoa tạng Gánh	vác	tam	thiên	thành	đại thiên
+Chính Như Lai nói Liên hoa tạng Gánh vác tam thiên thành đại thiên
 
 Bồ-tát
 tướng
-chứng	không,
+chứng không,
 nhất
 hợp
 Phàm ma.
-phu  tham  trước,
+phu tham trước,
 lạc
 cảnh
 
@@ -4079,7 +4013,7 @@ San định ký nói rằng: Từ câuNếu có người nói Phật thuyết tr
 chưa phá trừ, cảnh giới đồng nhất và dị biệt chưa trừ, nên nay phải phá các thứ ấy. Trừ sạch các khái niệm phân biệt để thể nhập thánh đạo. Di-lặc Bồ- tát có kệ rằng:
 Phi vô nhị đắc đạo Viễn ly ư ngã pháp.
 Có nghĩa là khi chưa có hai thứ trí thấy được nhân và pháp đều không mà muốn đắc đạo, thì phải nên xa lìa các bốn tướng: ngã, nhân, chúng sinh, thọ giả, rồi sau đó mới chứng đắc được. Đoạn Thế Tôn nói rằng kiến giải ngã, nhân... đến câu gọi là kiến giải ngã, nhân,
-Một là, làm sáng tỏ việc lìa ngã kiến. Nếu có người nói rằng Đức Phật nói thật  có  kiến  chấp  bốn  tướng,  ngã
+Một là, làm sáng tỏ việc lìa ngã kiến. Nếu có người nói rằng Đức Phật nói thật có kiến chấp bốn tướng, ngã
 
 nhân..., thì đó ắt là kiến giải sai lầm. Nên nói rằng người ấy chẳng hiểu được nghĩa Như Lai nói. Do nghĩa nào mà nói chẳng hiểu được nghĩa Như Lai thuyết? Đức Phật nói bốn kiến chấp ngã nhân..., là chẳng phải bốn kiến chấp ngã nhân..., đó chỉ là giả danh về bốn kiến chấp ngã nhân, chúng sinh, thọ giả. Trong thể tánh chân thật, vốn chẳng có các kiến chấp ấy. Đức Phật vốn muốn hiển bày tính chân thật của vô kiến, nên mới nói về bốn kiến chấp ngã nhân, chúng sinh, thọ giả, là để nói rõ các thứ ấy vốn đều là không, là chẳng thật. Do chúng sinh chẳng thấy được chân như mà vọng phân biệt cái thấy đó.
 Di-lặc Bồ-tát có kệ rằng:
@@ -4087,8 +4021,7 @@ Di-lặc Bồ-tát có kệ rằng:
 Kiến ngã tức bất kiến Vô thật hư vọng kiến.
 Nghĩa là, thấy có ngã tức chẳng thấy chân như, nếu thấy được chân như tức là lìa hẳn cái thấy hư vọng.
 Hai là, từ câu Phát tâm Vô thượng Chánh đẳng Chánh giác trở xuống. Hiển rõ lìa hẳn kiến chấp về pháp. Ý là: Như Lai thuyết pháp chủ yếu là để chúng sinh tu hành khế hợp chân lý. Nên nói phát bồ-đề tâm tức là thấy chân như. Đối với tất cả các pháp nên như vậy mà biết, nên như vậy mà thấy, nên như vậy mà tin hiểu. Ba tên gọi đó, phương tiện y chỉ không đồng:
-Biết:  theo  xa-ma-tha,111[111]  tức  là
-
+Biết: theo xa-ma-tha,111[111] tức là
 
 111[111]S: Śamatha; e: calm abiding. Hán dịch: Chỉ 止, Tịch tĩnh 寂靜
 
@@ -4113,7 +4046,7 @@ Vua hỏi: Là đạo sĩ hay sao? Phó Đại sĩ lấy tay chỉ xuống giày
 Vua hỏi: Là tục nhân hay sao? Phó Đại sĩ lấy tay chỉ nạp y.
 Cổ đức có bài tụng rằng: Đạo sĩ là mũ nón. Nho sĩ là giày. Thích tử là nạp y. Gom ba nhà thành một, quên mất đường lên trời Đâu-suất, trở lại hai cội cây chời hội Long hoa.
 Thân hồn hậu (kín đáo) nầy đều là dụng của Bát-nhã, rốt ráo chẳng có pháp tướng để nắm bắt, tông chỉ chân thật là vô trụ. Chỉ có sự bộc lộ của Phó Đại sĩ là cùng tột nhất.
-Đoạn  trừ  mối  nghi  hoá  thân
+Đoạn trừ mối nghi hoá thân
 
 thuyết pháp chẳng có phước đức. Mối nghi nầy từ dụ trên về hoá thân chân thật vốn chẳng là đồng nhất hay
 dị biệt. Ý là: nếu là chẳng đồng nhất,
@@ -4123,7 +4056,7 @@ Kinh văn:
 
 女人，發菩薩心者，持於此經，乃至四句偈等，受持讀誦，為人演說
 ，其福勝彼。云何為人演說？不取於相，如如不動。
-Tu-bồ-đề!  Nếu  có  người  dùng  bảy
+Tu-bồ-đề! Nếu có người dùng bảy
 món báu đầy khắp trong vô số a-tăng- kỳ thế giới mà bố thí. Lại có những kẻ nam người nữ lòng lành phát tâm Bồ- đề, giữ lấy kinh này, thậm chí chỉ được bốn câu kệ, thọ trì đọc tụng, vì người diễn thuyết, phước đức này hơn phước bố thí kia.
 Thế nào là vì người diễn thuyết? Chẳng chấp giữ nơi tướng, như như chẳng động.
 Thông viết:
@@ -4131,11 +4064,11 @@ Thông viết:
 Đem công đức bố thí để so sánh với công đức trì kinh, đó là cái thấy của hàng phàm phu. Chẳng phải là không trùng với nghĩa hiển rõ ý nên không chỗ trụ mà làm việc bố thí. Biết bố thí mà chẳng biết Bát-nhã, tức là trụ nơi tướng. Thường trì kinh mà không trụ nơi tướng tức là chân thật bố thí. Mới gọi là đem bảy báu ra bố thí không bằng được đến bảo sở của việc trì kinh. Đã đem hết thân mạng ra bố thí, không bằng chứng được pháp thân do việc trì kinh. Đã cúng dường chư Phật, không bằng thành Phật do việc trì kinh. Thành tựu được hạnh nhẫn nhục, là được cái nhân thành Phật, thì cái nhân bố thí làm sao sánh bằng cái nhân trước đó được? Nhiều lần tán thán, ý mỗi lần đều khác nhau.
 
 Trì kinh rồi vì giảng nói sâu rộng cho nhiều người tin hiểu, đó là pháp thí. Không thủ tướng, như chân như trạm nhiên bất động. Thuyết pháp là như, truyền pháp là như, khiến cho mọi chúng sinh đều chứng được pháp thân, thì công đức thù thắng vô cùng.
-San định ký nói rằng: Từ câu Nếu có người... đến câu hơn phước bố thí kia... là nói rõ công đức giảng pháp. Phát tâm bồ-đề là Bồ-tát có tâm nguyện làm lợi ích cho chúng sinh và cứu độ muôn loài, nên thường ngay nơi tâm nầy mà thọ trì, và thường nới tâm này mà giảng nói sâu rộng cho nhiều chúng sinh. Kinh văn chỉ nói rõ công đức thọ trì giảng nói kinh, nay luận  nói  rằng  hoá  thân  Phật  thuyết
+San định ký nói rằng: Từ câu Nếu có người... đến câu hơn phước bố thí kia... là nói rõ công đức giảng pháp. Phát tâm bồ-đề là Bồ-tát có tâm nguyện làm lợi ích cho chúng sinh và cứu độ muôn loài, nên thường ngay nơi tâm nầy mà thọ trì, và thường nới tâm này mà giảng nói sâu rộng cho nhiều chúng sinh. Kinh văn chỉ nói rõ công đức thọ trì giảng nói kinh, nay luận nói rằng hoá thân Phật thuyết
 
 pháp, thì có được công đức vô lượng chăng? Vì hoá thân Phật là bậc giáo chủ thuyết pháp, thọ trì đọc tụng là người là cho kinh điển lan truyền sâu rộng ra, việc hoằng truyền kinh điển sâu rộng, đó là điều Đức Phật giảng nói. Điều Phật nói vốn lìa hẳn tướng ngôn thuyết nên công đức vô lượng. Người hoằng truyền kinh điển sâu rộng, nếu được lìa hẳn các tướng ngôn thuyết, thì phước đức ấy thù tháng hơn hẳn công đức do đem vô lượng vô số trân bảo bố thí kia.
 Di-lặc Bồ-tát có kệ rằng: Hoá thân thị hiện phước Phi vô vô tận phước.
-Nghĩa là, người trì kinh, cũng tức là thị  hiện  của  hoá  thân  Phật,  nên  có
+Nghĩa là, người trì kinh, cũng tức là thị hiện của hoá thân Phật, nên có
 
 được phước đức vô lượng. Sao nói giảng nói kinh điển sâu rộng sẽ được công đức như vậy? Vì chẳng phải giảng nói, đó chính là giảng nói. Di- lặc Bồ-tát có kệ rằng:
 Chư Phật thuyết pháp thời, Bất ngôn thị hoá thân
@@ -4167,7 +4100,7 @@ Rồi Sư gọi lớn: Các thiền đức, có thấy được như như bất 
 
 Đoạn trừ mối nghi nhập vào chốn tịch diệt rồi làm sao nói pháp?
 
-Mối nghi nầy do từ đoạn trước nói về thuyết pháp và bất động. Đã nói chẳng  thủ  nơi  tướng,  như  như  bất
+Mối nghi nầy do từ đoạn trước nói về thuyết pháp và bất động. Đã nói chẳng thủ nơi tướng, như như bất
 
 động, ắt Đức Phật phải thường trụ ở thế gian để vì chúng sinh thuyết pháp. Sao phải còn có tướng nhập diệt? Khi chưa nhập diệt, thì còn có thể thuyết pháp, Nhưng khi đã nhập diệt rồi, làm sao thuyết pháp? Nói rằng chẳng có pháp để thuyết, tức thành đoạn diệt. Nói pháp thân thuyết pháp. Sao lại nhập diệt? Không biết rằng trí huệ Bát-nhã thậm thâm cũng không bằng quán sát được như vậy. Để khiển trừ mối nghi nầy, nên kinh nói:
 Kinh văn:
@@ -4209,7 +4142,6 @@ Dù qua tám vạn kiếp, Rốt ráo lạc vào không.
 Thông rằng:
 Kinh nầy gọi là Kim cang Bát-nhã, 10 dụ thậm thâm trên chính là ý chỉ căn bản của kinh nầy. Nến nói quán sát tất cả nghiệp như là huyễn, tất cả pháp như là sóng nắng, tất cả tánh như là trăng trong nước, sắc đẹp như không, âm thanh hay như tiếng vang, quán sát cõi nước chư Phật như thành càn- thát-bà.117[117] Quán sát Phật sự như mộng, pháp thân như ảnh, báo thân như tượng, pháp thân như huyễn hoá. Chỉ trừ dụ âm thanh hay như tiếng vang, còn lại liệt vào chín ví dụ. Tuy
 
-
 117[117]Gandharva; gandhabba，藏dri-za. Thành càn-thát-bà s: Gandharva-nagara 乾闥婆城 .
 
 danh tướng có chút bất đồng, nhưng phần lớn là dùng tâm ý để lĩnh hội. Trí huệ quán sát Bát-nhã thậm thâm nầy tuy thấy Phật sự như mộng, tuy thấy Phật thân như ảnh, chính là đạt đến thấy các nghiệp đều như huyễn. Từ 37 phẩm trợ đạo cho đến bồ-đề niết-bàn, hết thảy đêu như huyễn, vốn chính là tông chỉ phá trừ các tướng của trí huệ đại Bát-nhã.
@@ -4247,10 +4179,10 @@ Nếu có thể dùng trí Kim cang Bát-nhã vi diệu để quán chín pháp 
 Quán sát cái thấy, cảnh giới và thức, tức là quán sát được sự tích tập và tạo thành các pháp hữu vi.
 Quán sát thế giới cùng thân căn thọ dụng, dừng trụ ở nơi nào, do dâu có thân, thọ dụng những thứ gì, tức là quán sát các pháp thọ dụng trước mắt.
 Quán sát ba thời sai biệt, đó là các việc hữu vi, tức là quán sát sự dời đổi không dừng trụ các pháp.
-Do đây mà quán sát, liền có thể ở trong các pháp hữu vi mà được sự không chướng ngại, tuỳ ý tự tại. Do đây dù có ở trong trần lao sinh tử, trí quán chiếu ấy cũng không bị ô nhiễm.  Dù có thể chứng viên tịch
+Do đây mà quán sát, liền có thể ở trong các pháp hữu vi mà được sự không chướng ngại, tuỳ ý tự tại. Do đây dù có ở trong trần lao sinh tử, trí quán chiếu ấy cũng không bị ô nhiễm. Dù có thể chứng viên tịch
 
 đến như tro lạnh, tâm bi nầy cũng không mê muội. Nên được sự không cấu nhiễm và thường tự tại, tức là như như bất động, vốn chẳng có tướng nhập diệt. Nếu thường có được cái thấy như vậy, tức là đã không còn trụ nơi pháp hữu vi mà chấp thủ các tướng, cũng không trụ vào vô vi mà lìa các tướng. Dùng cái thấy nầy mà tự độ thoát cho mình, tức cũng để độ thoát cho người, cũng là để hộ niệm và phó chúc cho các Bồ-tát. Tuy chỉ là một baì kệ, nhưng vô cùng khẩn thiết. Há có thể đem cái thấy nông cạn để đo lường được sao?
-Xưa vua Lương Võ Đế thỉnh Phó Đại sĩ giảng Kinh Kim Cang. Phó Đại sĩ liền  thăng  toà,  dùng  cây  thước  gõ
+Xưa vua Lương Võ Đế thỉnh Phó Đại sĩ giảng Kinh Kim Cang. Phó Đại sĩ liền thăng toà, dùng cây thước gõ
 
 mạnh xuống bàn rồi bãi toà. Lương Võ Đế rất ngạc nhiên.
 Thiền sư Chí Công hỏi: Bệ hạ có hiểu không?
@@ -4263,7 +4195,7 @@ Chẳng ở Song lâm gửi thân nầy Lại đến nước Lương dính bụi
 119[119]Bích Nham Lục, Tắc 67 T48; Phó Đại sĩ giảng kinh xong.
 
 Cũng phải bôn ba đến nước người. Gõ thước mạnh xuống bàn một cái là dụ cho như điện, như huyễn, theo đại
-ý  Kinh  Kim  Cang,  đó  là  phá  sạch
+ý Kinh Kim Cang, đó là phá sạch
 trong khoảnh khắc gảy móng tay. Chẳng phải là diệu trí của Thiền sư Chí Công, mấy ai nhận ra được?
 Lại nữa, Thiền sư Trường Sa Cảnh Sầm nhân lúc có vị tăng vừa viên tịch, Sư khoác tay rồi nói: Đại chúng! Vị tăng nầy chân thật đã vì các ông đề xướng thương lượng. Hiểu chăng?
 Rồi sư nói kệ rằng:
@@ -4272,22 +4204,22 @@ Tiền nhật vô nhất pháp Đương nhật diệc vô nhân Đãng đãng Ki
 Phi vọng diệc phi chân.
 Tạm dịch::
 Hôm trước chẳng một pháp Ngày nay chẳng một người Rỗng rang Kim cang thể Không vọng, cũng không chân.
-Có vị tăng hỏi: Sau khi vị tăng ấy  chết, ông ta đi về đâu?
+Có vị tăng hỏi: Sau khi vị tăng ấy chết, ông ta đi về đâu?
 Thiền sư Trường Sa đáp:
 Bất thức Kim cang thể Khước hoán tác chúng sinh Thập phương chân tịch diệt Thuỳ tại phục thuỳ hình.
 Tạm dịch::
-Không rõ Kim cang thể Trở lại	làm chúng sinh
+Không rõ Kim cang thể Trở lại làm chúng sinh
 
 Mười phương chân tịch diệt Ai người mất kẻ còn?
 Thiền sư Tuyết Phong cũng nhân thấy một vị tăng vừa viên tịch, Sư nói kệ rằng:
-Đê đầu bất kiến địa Ngưỡng diện bất kiến thiên Dục thức	Kim Cang thể Đãn khán độc lâu	tiền.
+Đê đầu bất kiến địa Ngưỡng diện bất kiến thiên Dục thức Kim Cang thể Đãn khán độc lâu tiền.
 Tạm dịch::
 Cúi xuống chẳng thấy dất Nhìn lên chẳng thấy trời Muốn biết Kim Cang thể Hãy xem sọ xương tàn.
 Lại có vị tăng đến hỏi Thiền sư Pháp Nhãn: Vị tăng ấy chết, ông ta đi về
 
 đâu?
 Thiền sư Pháp Nhãn đáp: Vị tăng ấy đã từng chết đâu?
-Tăng lại hỏi:	Thế nay con phải làm sao?
+Tăng lại hỏi: Thế nay con phải làm sao?
 Pháp Nhãn đáp: Ông chẳng biết vị tăng ấy.
 Đấy là cách các bậc tôn túc đã phát minh được thể Kim cang. Vốn là chẳng hề có sinh diệt, chẳng có đến đi. Như như bất động, đó là cách thức thuyết pháp xưa nay.
 
@@ -4300,20 +4232,20 @@ Phật thuyết kinh này rồi, Trưởng lão Tu-bồ-đề cùng các vị t�
 
 San định ký nói rằng:
 
-> Đức Phật đã nói xong kinh nầy rồi. Vốn do Không Sinh (Tu-bồ-đề) hết lòng hỏi, nên Đức Phật mới trả lời về hàng phục tâm, an trụ tâm và phát tâm tu hành. 
-Hỏi đáp đã xong,  là cũng hoàn tất thời thuyết kinh. Nhưng do vết tích xen vào mà khởi nghi, nên liên hoàn có đến 27 đoạn. 
-Cơ hồ với văn nầy, những niệm nghi nan được giải thích như băng tan. 
-Nếu Thiện Cát (Tu-bồ-đề) đã không hỏi, thì Đức Phật đã không nói rõ. 
-Trong một quyển kinh tuy chỉ gồm có thầy trò, đã là sự thành tựu to lớn rồi, nên chỉ nói là Đức Phật thuyết, mọi người đều vô cùng hoan hỷ, tin nhận, làm theo lời dạy. 
+> Đức Phật đã nói xong kinh nầy rồi. Vốn do Không Sinh (Tu-bồ-đề) hết lòng hỏi, nên Đức Phật mới trả lời về hàng phục tâm, an trụ tâm và phát tâm tu hành.
+> Hỏi đáp đã xong, là cũng hoàn tất thời thuyết kinh. Nhưng do vết tích xen vào mà khởi nghi, nên liên hoàn có đến 27 đoạn.
+> Cơ hồ với văn nầy, những niệm nghi nan được giải thích như băng tan.
+> Nếu Thiện Cát (Tu-bồ-đề) đã không hỏi, thì Đức Phật đã không nói rõ.
+> Trong một quyển kinh tuy chỉ gồm có thầy trò, đã là sự thành tựu to lớn rồi, nên chỉ nói là Đức Phật thuyết, mọi người đều vô cùng hoan hỷ, tin nhận, làm theo lời dạy.
 > Hoan hỷ làm theo lời dạy: Điều nầy có 3 nghĩa:
-Người nói thanh tịnh: không bị nhiễm ô bởi sự thủ trước lợi dưỡng.
-Giáo thyết thanh tịnh: Dùng pháp thể như thật trí để nói, nói lý như lý, nói sự như sự.
-Được quả thanh tịnh, ngay chỗ hiểu mà thực hành, đắc được quả vô lậu.
+> Người nói thanh tịnh: không bị nhiễm ô bởi sự thủ trước lợi dưỡng.
+> Giáo thyết thanh tịnh: Dùng pháp thể như thật trí để nói, nói lý như lý, nói sự như sự.
+> Được quả thanh tịnh, ngay chỗ hiểu mà thực hành, đắc được quả vô lậu.
 
-Trong hội chúng gồm Tỷ-khưu, Tỷ- khưu ni, Ưu-bà-tắc, Ưu-bà-di, gọi là thường tuỳ 4 chúng. 
-Nghe kinh nầy rồi, tín tâm chẳng nghịch, chẳng có luận bàn gì nữa. 
-Nếu tất cả chúng sinh ở cõi trờim cõi người, a-tu-la, cho đến chư thiên ở cõi vô sắc, cõi sắc giới, gọi là hữu sắc vô sắc, hữu tưởng vô tưởng, phi hữu tưởng phi vô tưởng, đều có trong giới nầy. Chỉ đề cập đến loài trời, loài người, a-tu- la đều có trong nầy! Tất cả đều tin nhận làm theo. 
-Kinh nói rằng đều khiến cho họ được nhập vào vô dư niết-bàn, là đã quá rõ ràng và có căn cứ. 
+Trong hội chúng gồm Tỷ-khưu, Tỷ- khưu ni, Ưu-bà-tắc, Ưu-bà-di, gọi là thường tuỳ 4 chúng.
+Nghe kinh nầy rồi, tín tâm chẳng nghịch, chẳng có luận bàn gì nữa.
+Nếu tất cả chúng sinh ở cõi trờim cõi người, a-tu-la, cho đến chư thiên ở cõi vô sắc, cõi sắc giới, gọi là hữu sắc vô sắc, hữu tưởng vô tưởng, phi hữu tưởng phi vô tưởng, đều có trong giới nầy. Chỉ đề cập đến loài trời, loài người, a-tu- la đều có trong nầy! Tất cả đều tin nhận làm theo.
+Kinh nói rằng đều khiến cho họ được nhập vào vô dư niết-bàn, là đã quá rõ ràng và có căn cứ.
 Do vậy nên Thế tôn mới phó chúc và hộ niệm cho hàng Bồ-tát, ngoài ý nghĩa nầy đâu có gì khác!
 Xưa Thiền sư Cổ Linh Thần Tán được gặp thiền sư Bá Trượng mà được khai ngộ. Trở về muốn báo đáp ân đức thọ nghiệp.
 Thầy Bổn sư của Linh Tán hỏi: Con rời ta đi tham học đã lâu, đã được sự nghiệp gì?
@@ -4328,7 +4260,7 @@ Rồi nói bài kệ rằng:
 Không môn bất khẳng xuất Đầu song dã thái si
 Bách niên toản cố chỉ Hà nhật xuất đầu thời.
 Tạm dịch::
-Cửa không, chẳng chịu ra Xoi cửa, thật	si mê
+Cửa không, chẳng chịu ra Xoi cửa, thật si mê
 
 Trăm năm dùi giấy mục Biết ngày nào được ra?
 Thầy Bổn sư đang xem kinh, nghe vậy liền hỏi: Con đi hành cước đã gặp được người nào? Ta lâu nay nghe con nói toàn những điều khác lạ?
@@ -4338,14 +4270,13 @@ Linh quang độc diệu Huýnh thoát căn trần Thể lộ chân thường
 
 Bất câu văn tự Tâm tánh vô nhiễm Bổn tự viên thành Đản li vọng duyên Đản như như Phật.
 Tạm dịch::
-Sáng suốt	vi diệu Vượt thoát căn cần
+Sáng suốt vi diệu Vượt thoát căn cần
 Hiển bày chân thường Chẳng vướng văn tự Tâm tánh không nhiễm Vốn tự viên thành
 Chỉ lìa vọng duyên Tức Phật như như.
-Bổn sư	ngay lời đó cảm ngộ. Nói rằng:  Nào  ngờ  lão  tăng  được  nghe
+Bổn sư ngay lời đó cảm ngộ. Nói rằng: Nào ngờ lão tăng được nghe
 
 việc cùng tột như thế nầy.
 Vài lời của Bá Trượng như vậy, đủ để khái quát yếu chỉ của Kinh Kim Cang. Mong sao người đọc tỉnh giác cảm ngộ, để khỏi phải hướng vào giấy cũ xoi thủng tìm cầu. Đâu còn nói đến 500 sau mới có người sinh tín tâm. Thật khó thay!
-
 
 KIM CANG KINH TÔNG THÔNG CHUNG
 Tịnh Thất Từ Nghiêm Thích Nhuận Châu Dịch sang tiếng Việt Tháng 7. Bính Tuất Hạ an cư–pl.2550

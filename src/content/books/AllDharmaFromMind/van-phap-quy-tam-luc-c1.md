@@ -1,12 +1,15 @@
 ---
-title: "Vạn Pháp Quy Tâm Lục"
-description: ""
-excerpt: 
-  ""
-author: ["TS Tổ Nguyên Siêu Minh"]
-categories: ["Sách"]
-tags: ["Vạn Pháp Quy Tâm Lục", "TS Tổ Nguyên Siêu Minh"]
-pdfUrl: "/pdfs/books/AllDharmaFromMind/van-phap-quy-tam-luc.pdf"
+title: Vạn Pháp Quy Tâm Lục
+description: ''
+excerpt: ''
+author:
+  - TS Tổ Nguyên Siêu Minh
+categories:
+  - Sách
+tags:
+  - Vạn Pháp Quy Tâm Lục
+  - TS Tổ Nguyên Siêu Minh
+pdfUrl: /pdfs/books/AllDharmaFromMind/van-phap-quy-tam-luc.pdf
 ---
 
 - Tác giả: Thiền Sư **Tổ Nguyên Siêu Minh**
@@ -25,11 +28,11 @@ Nay thiền sư Tổ Nguyên ở núi Tiểu Dương, là cháu trong đạo c�
 
 Tôi nhờ khánh hạnh đời trước mà gặp được sách này, liền dứt hết hồ nghi, thấu rõ tâm địa. Tôi tài năng quá vụng về, tri kiến lại cạn cợt, không đủ để phát minh lẽ thâm áo. Nên lược viết lời tựa để tỏ lòng biết ơn thầy.
 
-- *Ngày rằm tháng riêng, năm Đinh Tỵ, đời vua Khang Hi.*
+- _Ngày rằm tháng riêng, năm Đinh Tỵ, đời vua Khang Hi._
 
-- *Cổ Yến Thể Như Cư Sĩ Lưu Phương Mộc*
+- _Cổ Yến Thể Như Cư Sĩ Lưu Phương Mộc_
 
-- *Kính đề*
+- _Kính đề_
 
 <hr class="blog-rule" />
 
@@ -47,9 +50,9 @@ Mười điều danh tướng gồm có: một là cảnh tỉnh kẻ thế tụ
 
 Tôi thừa hưởng căn lành rất ít, chợt thấy được một góc chỗ chí đạo, cho nên trình bày cái thấy hẹp hòi của tôi. Xin các bậc cao minh phủ chính cho, thật tôi chẳng phải ức kiến mà chỉ thuận theo Phật thừa. Nếu như có người học đời sau, xem quyển lục này có sai, tôi xin tha thiết sám hối những lỗi lầm về pháp của tôi. Nếu hợp với thành tâm, trên y lời dạy mà vâng làm, ngày kia sẽ đồng đến hội Long Hoa thọ ký thành Phật có phần.
 
-- Ngày Phật thành đạo, tháng 12, đời vua *Khang Hi năm thứ 15*, nhà *Đại Thanh (T.L 1676)*
+- Ngày Phật thành đạo, tháng 12, đời vua _Khang Hi năm thứ 15_, nhà _Đại Thanh (T.L 1676)_
 
-- Thiền Sư *Tổ Nguyên Siêu Minh*
+- Thiền Sư _Tổ Nguyên Siêu Minh_
 
 <hr class="blog-rule" />
 
@@ -68,7 +71,7 @@ Chỉ ngon qua ba tấc lưỡi, một ngày kia cải đầu đổi mặt, lầ
 📣 Người đời ăn thịt đương nhiên, buông lung tâm ý mổ giết để thích khẩu, khoái bụng.
 Đâu chẳng biết, tất cả chúng sanh dưới nước, trong đất, trên không, trên bộ, chẳng quan là do nghiệp lực quả báo mà có thân xác khác nhau.
 Người đời tuy nhờ phước nhứt thời mà khinh thường sát hại quá nhiều rồi. Tha lực yếu kém làm sao chống chỏi nổi hận oán kia? Có ngày sẽ báo đền oan trái.
-Quả thật nếu heo, dê v.v. trời sanh ra làm đồ ăn cho người, còn ở thế gian những loài sài lang, hổ báo, muỗi mòng, chí rận... vô hạn ác thú hung cầm đều hay ăn người, đâu không phải trời sanh? Giả sử người nam kể nữ đều làm đồ ăn cho loài vật có nên không? Người đời không rõ tạo nghiệp sẽ có thường mạng lẫn nhau. 
+Quả thật nếu heo, dê v.v. trời sanh ra làm đồ ăn cho người, còn ở thế gian những loài sài lang, hổ báo, muỗi mòng, chí rận... vô hạn ác thú hung cầm đều hay ăn người, đâu không phải trời sanh? Giả sử người nam kể nữ đều làm đồ ăn cho loài vật có nên không? Người đời không rõ tạo nghiệp sẽ có thường mạng lẫn nhau.
 Không biết cớ sao lại cho việc sát sanh là việc đáng nên làm, thật quá ngu muội.
 
 <Aside type="caution" title="❓ Tôi thường nghe người đời có nói: “Người nhiều lòng tốt cũng như ăn chay rồi”. Lý này thế nào?">
@@ -101,11 +104,11 @@ Kinh nói: “Phật bảo ngài A-nan rằng người đời tai họa từ nơ
 
 ❓ Tánh tôi thích uống rượu, như vậy thế nào?
 
-📣 Tâm tánh mê mờ, chí khí bị chôn vùi, nhà cửa tan nát, lại còn mất mạng, phần nhiều do uống rượu mà ra, và chuốc họa tai không ít. 
+📣 Tâm tánh mê mờ, chí khí bị chôn vùi, nhà cửa tan nát, lại còn mất mạng, phần nhiều do uống rượu mà ra, và chuốc họa tai không ít.
 Người đời mê rượu không chán, cho đến hình hài bị hủy thương, điên đảo cả lễ pháp, nằm lăn nơi phố chợ, la ó om sòm, phạm lỗi người trên mất hết danh dự, loạn dâm mất đức, muôn ngàn việc lỗi lầm nghịch ngợm là do tham uống rượu.
-Người xưa nói: “Ngăn ông chớ uống rượu, nó là thuốc làm điên loạn chớ chẳng phải vị ngon. 
-Nó hay khiến người tánh tình thuần hậu thành kẻ hung dữ dối láo”. Trong luật tứ phần nói: “Uống rượu có ba mươi sáu lỗi. 
-Chẳng những người đời uống rượu phạm lỗi, cho đến la hán tham uống rượu cũng mất hết thần thông”. 
+Người xưa nói: “Ngăn ông chớ uống rượu, nó là thuốc làm điên loạn chớ chẳng phải vị ngon.
+Nó hay khiến người tánh tình thuần hậu thành kẻ hung dữ dối láo”. Trong luật tứ phần nói: “Uống rượu có ba mươi sáu lỗi.
+Chẳng những người đời uống rượu phạm lỗi, cho đến la hán tham uống rượu cũng mất hết thần thông”.
 Chúng sanh mê muội, kẻ phàm phu sơ học phải giữ gìn và kiêng cữ uống rượu.
 
 ❓ Xin nói ba mươi sáu lỗi gồm những gì?
@@ -118,14 +121,14 @@ Chúng sanh mê muội, kẻ phàm phu sơ học phải giữ gìn và kiêng c�
 
 ❓ Người đời nhiều lòng tham, gom góp tài sản cho thật nhiều. Tự bảo là để lại cho con cháu sau này được giàu có, được hay chăng?
 
-📣 Kẻ ngu si ở thế gian ý cậy quyền thế, mê tâm chôn đức, có trăm cách khéo léo để lấy, dù được giàu có bất ngờ, nhưng có bao giờ được lâu dài. 
+📣 Kẻ ngu si ở thế gian ý cậy quyền thế, mê tâm chôn đức, có trăm cách khéo léo để lấy, dù được giàu có bất ngờ, nhưng có bao giờ được lâu dài.
 Nếu là người trí huệ nên phải chứa công nuôi đức, tuỳ khả năng mình mà kinh doanh, theo đúng mệnh trời, tự nhiên chư thánh phò hộ, âm thầm tăng trưởng phước lộc. Người đời chỉ biết vì con cháu lo làm giàu, chớ chẳng biết vì con cháu làm lành tạo phúc. Thế nào gọi là phúc? Kính trọng Tam bảo, chứa nhóm âm đức, cẩn trọng qui tắc của gia đình, dạy người cố gắng làm việc và học hành, đấy là tạo phúc.
 
 Thế nào là cầu làm giàu? Không thành tín mê mờ thiên lý, dùng tâm máy móc, gom góp tiền của không hợp lý, đấy là cầu giàu có. Kẻ cầu giàu chẳng thạnh người tạo phúc sẽ hiển vinh. Há chẳng thấy kẻ giàu to ở đời, con cháu hư hèn, cờ bạc phóng túng, một ngày kia sẽ phá cửa nhà, cho đến mất thân mạng. Chuyện này thường có xảy ra, sao không lấy đó làm gương? Tục ngữ nói: “Được của không chánh đáng, bỏ được là tốt”. Người trí xem biệc này chưa khỏi lạnh lòng!
 
 ❓ Như đã mở bày, muốn làm người tốt phải xem tất cả như không, và thường thường kiểm điểm, phải vậy chăng?
 
-📣 Muốn làm người tốt phải tự soi xét: suốt một ngày từ sáng đến chiều phải soi tâm mình và tự xét lý kia. 
+📣 Muốn làm người tốt phải tự soi xét: suốt một ngày từ sáng đến chiều phải soi tâm mình và tự xét lý kia.
 Khi khởi tâm động niệm có cùng tâm trời hợp không? Hành động hàng ngày có cùng với người hợp không? Hằng thường tỉnh táo, không rơi vào tư riêng lâu ngày tâm được chánh, nhơn dục tự nhiên hết.
 Nếu là người buông lung tâm ý, chẳng sợ trời phạt, chẳng sợ báo ứng, phi lễ mà hành động, mà tạo tá, lâu ngày chầy tháng, tích chứa nghiệp ác quá nặng, một mai phúc hết, các nghiệp đến bên thân, hiện đời gặp tai họa, khi chết đoạ ba đường ác. Kinh Phật nói: “Nghiệp đã tạo, giả sử trải qua trăm ngàn kiếp cũng không mất, khi nhơn duyên hội ngộ, mình phải trở lại chịu quả báo”. Thế nên biết, nhơn quả chẳng sai, người đời sau hãy tin chắc thật.
 
@@ -135,34 +138,34 @@ Nếu là người buông lung tâm ý, chẳng sợ trời phạt, chẳng sợ
 
 ❓ Tôi thấy người trung chánh lương thiện lại nghèo không một gánh lúc. Lại có bọn điêu ngoa hung ác mà ruộng đất cò bay thẳng cánh. Như vậy nhơn qủa há chẳng lầm ư?
 
-📣 Tạo thiện ác chẳng đồng nhau, nên quả báo cũng chẳng nhất định: 
-Có lúc báo ngay nơi thân mình, có khi báo nơi thân con cháu, có khi báo đời này, có lúc báo đời sau. 
-Như có người ăn cơm hẩm, kẻ ăn cao lương. Người mặc áo gấm, kẻ áo lông. Lại có kẻ lầu son gác tía, lên xe xuống ngựa. 
-Tất cả đều do đời trước tự làm điều thiện hay điều ác, mà nay chịu quả báo khổ hay vui, một mảy may chẳng sai chạy. 
+📣 Tạo thiện ác chẳng đồng nhau, nên quả báo cũng chẳng nhất định:
+Có lúc báo ngay nơi thân mình, có khi báo nơi thân con cháu, có khi báo đời này, có lúc báo đời sau.
+Như có người ăn cơm hẩm, kẻ ăn cao lương. Người mặc áo gấm, kẻ áo lông. Lại có kẻ lầu son gác tía, lên xe xuống ngựa.
+Tất cả đều do đời trước tự làm điều thiện hay điều ác, mà nay chịu quả báo khổ hay vui, một mảy may chẳng sai chạy.
 Chỉ thấy kẻ hung ác mà được giàu sang, đâu biết được người ấy đời trước đã tu phước? Hoặc thấy người rất từ thiện mà nghèo khó lại mạng yểu, ấy là do đời quá khứ tạo nghiệp ác mà ra.
-**Trang Tử** nói: “Tên đạo chích theo đoàn quân chín ngàn người, hoành hành thiên hạ, xâm bạo các nước chư hầu mà tên ấy vẫn trường thọ”. 
-Trong **Luận ngữ** sớ nói: “Hạng Thác bảy mươi tuổi làm thầy Đức **Khổng Tử** mà chết yểu”. 
-Cho nên có người trong sạch chân chánh mà thân bần cùng. 
+**Trang Tử** nói: “Tên đạo chích theo đoàn quân chín ngàn người, hoành hành thiên hạ, xâm bạo các nước chư hầu mà tên ấy vẫn trường thọ”.
+Trong **Luận ngữ** sớ nói: “Hạng Thác bảy mươi tuổi làm thầy Đức **Khổng Tử** mà chết yểu”.
+Cho nên có người trong sạch chân chánh mà thân bần cùng.
 Hoặc có người tham ô mà giàu có. Chớ chấp hiện đời này có sai khác mà bài báng nhơn đời trước thì sai lầm vậy.
 
-❓ Sự báo ứng của thiện ác, lý kia không sai. 
-Có một bọn ngu si chẳng tin nhân quả, trở lại nói: “Lương tâm chẳng thể làm ra gạo. 
+❓ Sự báo ứng của thiện ác, lý kia không sai.
+Có một bọn ngu si chẳng tin nhân quả, trở lại nói: “Lương tâm chẳng thể làm ra gạo.
 Nếu lương tâm hay vào nồi thành cơm thì cũng có thể nên làm”.
 
-📣 Khá tức cười, thật là quá ngu si điên đảo. 
-Ông, nếu lương tâm từ sáng đến tới không dối, thì phù hợp với lòng trời, lúc ấy thần cũng vui vẻ, người cũng hân hoan. 
-Niềm hòa khí được cảm triệu, thì tự nhiên tươi vui. 
-Kinh thi nói: “Niềm vui chỉ đến với người quân tử, và phước lộc sẽ đến với họ”. 
-Nếu do chôn vùi đức hạnh mà được tiền của, bỏ tấm lòng mà được giàu có, thì mới trở lại bài báng lương tâm vô dụng, không thể vào nồi thành cơm. 
+📣 Khá tức cười, thật là quá ngu si điên đảo.
+Ông, nếu lương tâm từ sáng đến tới không dối, thì phù hợp với lòng trời, lúc ấy thần cũng vui vẻ, người cũng hân hoan.
+Niềm hòa khí được cảm triệu, thì tự nhiên tươi vui.
+Kinh thi nói: “Niềm vui chỉ đến với người quân tử, và phước lộc sẽ đến với họ”.
+Nếu do chôn vùi đức hạnh mà được tiền của, bỏ tấm lòng mà được giàu có, thì mới trở lại bài báng lương tâm vô dụng, không thể vào nồi thành cơm.
 Đâu biết hạng người này đã mê mồ lý trời, trong bóng tối thần giận qủi hờn, giảm phúc tổn thọ, nghèo thiếu nạn tai, cho đến con cháu hư hèn, việc lạ đâu chẳng có.
-Sách **Văn Xương** nói: “Người tu thân sửa hạnh, trời nhất định giáng cho trăm điều lành. 
-Trái lại kẻ phản đạo bại đức, thần cũng đoạt năm phước” [^1]. Thế nên, phước thiện hay hoạ tai, lý nó tất nhiên nhất định như vậy. 
+Sách **Văn Xương** nói: “Người tu thân sửa hạnh, trời nhất định giáng cho trăm điều lành.
+Trái lại kẻ phản đạo bại đức, thần cũng đoạt năm phước” [^1]. Thế nên, phước thiện hay hoạ tai, lý nó tất nhiên nhất định như vậy.
 Nếu chịu cải ác làm lành, chẳng khinh lờn, tự nhiên Phật trời ngầm phò hộ, phước thọ được tăng trưởng.
 
 ❓ Người có lỗi biết ăn năn có thể được chăng?
 
-📣 Đã là người ai chẳng có lỗi lầm, biết lỗi lầm mà ăn năn chừa cải, thì điều lành nào chẳng lớn? Sự lỗi lầm ác hại chẳng phải có một. 
-Nên nơi thân miệng ý phải luôn tỉnh táo, nhất định giờ phút nào cũng phải soi xét xem hành động mình có thích đáng hay không. 
+📣 Đã là người ai chẳng có lỗi lầm, biết lỗi lầm mà ăn năn chừa cải, thì điều lành nào chẳng lớn? Sự lỗi lầm ác hại chẳng phải có một.
+Nên nơi thân miệng ý phải luôn tỉnh táo, nhất định giờ phút nào cũng phải soi xét xem hành động mình có thích đáng hay không.
 Nếu là thiện nên làm, còn ác thì mau cải đổi. Sự đổi ác theo thiện như con bệnh ra mồ hôi, tự nhiên sẽ được may mắn, vui vẻ, chư thánh sẽ phò hộ cho.
 
 ❓ Giả sử chiếu xét chẳng đến, một lúc sanh tâm động niệm, chưa biết phải háng phục tâm ấy như thế nào?
@@ -212,33 +215,33 @@ Trương Tử Dương nói: “Chơn thổ giữ chơn công, chơn công chế 
 📣 📣 Thủy phủ cầu huyền: Tiết ngữ tinh khí, trong suốt 12 giờ, phản chiếu nơi rún trong một tấc 3 phân, gọi là khí hải. Chỉ giữ mà chẳng cho dính mắc, chỉ chiếu mà chẳng trụ. Thân tâm định lâu, cung Khảm và cung Ly đều giao nhau, tâm hỏa giáng xuống, thận thủy bay lên, tinh đầy khí tròn, lúc ấy trong nội thân như lửa, cuối giờ Hợi đầu giờ Tý khí động nơi vĩ lư, bèn dùng ý hút đưa vào trong giáp tích, thẳng qua ngọc chẩm, trên đến thiên cốc, trở lại hóa thành kim dịch, mùi vị thơm ngọt, nuốt xuống trùng lâu, rơi nơi huỳnh đình, gọi là “Càn khôn giao cấu” xong. Một điểm rơi vào huỳnh đình, từ đây điều hòa thông suốt, tứ chi khoan khoái, ttất cả hơi thở đều chảy khắp, tươi nhuận tạng phủ, mặt trở lại tươi trẻ như bé thơ, tuổi thọ dài lâu. Cổ Tiên xưa có kệ rằng:
 
 > Pháp thủy năng triền hữu bi quan
-> 
+>
 > Tiêu diêu nhật dạ khiển luân hoàn
-> 
+>
 > Vu trung ủng trệ sanh chư bệnh
-> 
+>
 > Tài quyết thông lưu tiện trú nhan.
 
 DỊCH:
 
 > Tự cửa màu nước pháp thường dâng
-> 
+>
 > Suốt ngày nhàn nhã khiến xoay vần
-> 
+>
 > Bên trong ngăn trệ muôn ngàn bệnh
-> 
+>
 > Vừa khơi chảy suốt mặt mày hàn.
 
 Ngô Tiên lại nói:
 
 > Khi qui ngươn hải thọ vô cùng
-> 
+>
 > Thử thuật vi kim dịch luyện hình.
 
 DỊCH:
 
 > Khi về ngươn hải thọ vô cùng,
-> 
+>
 > Thuật này là kim dịch luyện hình.
 
 Tập định là “ngọc phù bảo thần”, hình và thần đều diệu thì với Đạo hợp lý chơn. Một mai công quả đầy đủ, tùy phước sâu cạn, nếu người hành rộng rãi thì tạm ở nơi Bồng đảo, hoặc trụ nơi động thiên, ở đó ba bốn trăm năm, hay hai ba ngàn năm, rồi sanh trở lại nhơn gian, tích chứa công hạnh, bồi dưỡng phước huệ, một ngày nào đó công quả sâu dày, Thượng đế đến gọi, tùy hàng sắp chỗ đứng, Tiên quan chẳng đồng. Nếu y đây mà tu thì đồng như trong Đạo Phật, đại khái như ở Trịnh châu vọng cầu cửa Tào, xa càng xa vậy.
@@ -268,16 +271,16 @@ Sư đáp: Thần trong thân là vọng, khí hô hấp là huyễn. Nếu cho 
 Sư đáp: Chủ trương song tu của Đạo gia là ngộ nhận lẽ chơn thật. Thức thần ở trong thân là âm trong dương. Tinh khí ở trong thân là dương trong âm. Gom khí hợp thần, thần ngưng khí trụ gọi là “Thủ khảm điền ly” (giữ quẻ khảm, lấp quẻ ly), điểm hoá âm trong dương thành thể khô cứng, luyện thành kim đơn, mười tháng kết thai, chín năm bảo dưỡng xuất ra đảnh môn ở trên gọi là Dương thần. Tan ra thì thành gió, hợp lại thì thành hình, ngao du thiên hạ, tiêu dao tự tại. Công phu nhiều thì bay lên Thiên cung, công phu ít thì ẩn cư nơi Bồng đảo. Nếu nương vào đây cho là phải mà chẳng cần tu Tam muội, đến khi quả báo cõi Tiên hết trở lại đoạ làm quỉ cõi dưới. Người xưa nói:
 
 > Học đạo chi nhơn bất thức chơn,
-Chỉ vì tùng tiền nhận thức thần.
-Vô lượng kiếp lại sanh tử bản,
-Si nhơn hoán tác bổn lai nhơn.
+> Chỉ vì tùng tiền nhận thức thần.
+> Vô lượng kiếp lại sanh tử bản,
+> Si nhơn hoán tác bổn lai nhơn.
 
 DỊCH:
 
 > Người học đạo chẳng hiểu lẽ chơn,
-Bởi do từ trước nhận thức thần.
-Vô lượng kiếp nay gốc sanh tử,
-Kẻ si nhận đó bản lai nhơn.
+> Bởi do từ trước nhận thức thần.
+> Vô lượng kiếp nay gốc sanh tử,
+> Kẻ si nhận đó bản lai nhơn.
 
 Phật giáo thượng thừa, kiến tánh vô vi, trạm như thái hư, thể đống pháp giới, chẳng phải âm dương, chẳng ra vào, dẫn nó không trước, dắt nó không sau, đưa nó không lên, đè nó không xuống từ xưa nó thường sáng, đến nay nó chẳng mê. Tuy không hình tướng mà hay khởi báo thân, hoá thân. Không những chỉ hiện một thân mà có thể hiện trăm ngàn ức thân. Độ thoát chúng sanh như hằng sa, thành tựu muôn đức trang nghiêm. Kẻ căn cơ thiển bạc ôm khối nghi ngờ nào thể tín thọ?
 
@@ -1809,92 +1812,92 @@ Phiền thì đuổi theo ngoại cảnh, não thì sanh ở nội tâm. Ngườ
 
 ## CHƯƠNG IX - DẪN CHỨNG LỜI KINH [🔗](/books/ZenTreasures/kho-bau-nha-thien-c9)
 
-Muôn pháp về tâm hỏi đáp rõ ràng. 
-Bậc thượng căn vừa xem qua liền ngộ bản tâm, kẻ trung hạ căn ngu độn nghi ngờ bài báng chẳng tin, nên dẫn lời kinh của Phật để chứng minh hầu đoạn trừ những nghi hoặc, tin một cách thành thật chẳng lầm. 
-Hoặc có người được ngộ, y lời dạy mà vâng làm, vào thẳng tòng lâm của Cổ phật, vượt ngang qua bờ cõi then chốt của Tổ Sư. 
-Có thể bảo ngay nơi nhục nhãn mà viên thông Phật nhãn, ngay nơi tâm phàm mà hiển chơn tâm. 
+Muôn pháp về tâm hỏi đáp rõ ràng.
+Bậc thượng căn vừa xem qua liền ngộ bản tâm, kẻ trung hạ căn ngu độn nghi ngờ bài báng chẳng tin, nên dẫn lời kinh của Phật để chứng minh hầu đoạn trừ những nghi hoặc, tin một cách thành thật chẳng lầm.
+Hoặc có người được ngộ, y lời dạy mà vâng làm, vào thẳng tòng lâm của Cổ phật, vượt ngang qua bờ cõi then chốt của Tổ Sư.
+Có thể bảo ngay nơi nhục nhãn mà viên thông Phật nhãn, ngay nơi tâm phàm mà hiển chơn tâm.
 Nay thuật lời trong kinh Phật và lời của Tổ sư để ấn chứng chánh lý qui tâm.
 
 ### TRÍCH TÙ CÁC KINH
 
-📒 Kinh **Bát Nhã** nói: 
+📒 Kinh **Bát Nhã** nói:
 
 > Hết thảy chư Phật đồng ở một chỗ, gom về cảnh giới vô lậu và tự tánh thanh tịnh
 
-📒 Kinh **Hoa Nghiêm** nói: 
+📒 Kinh **Hoa Nghiêm** nói:
 
-> Lời lẽ thuyết pháp (của Như Lai), kẻ tiểu trí vọng phân biệt, nên sanh chướng ngại, chẳng rõ ở tự tâm. 
+> Lời lẽ thuyết pháp (của Như Lai), kẻ tiểu trí vọng phân biệt, nên sanh chướng ngại, chẳng rõ ở tự tâm.
 > Không rõ tự tâm làm sao biết chánh đạo? Kẻ kia dùng tư tưởng điên đảo nên tăng trưởng tất cả điều ác
 
-📒 Kinh **Lăng Già** nói: 
+📒 Kinh **Lăng Già** nói:
 
-> Đệ nhất nghĩa đế chỉ là tâm. Vô vàn tướng bên ngoài, tất cả đều không có. 
-> Kẻ phu kia chấp trước vào ác kiến, khi dối tự tha, không thấy rõ được chỗ trụ như thật của hết thảy các pháp. 
+> Đệ nhất nghĩa đế chỉ là tâm. Vô vàn tướng bên ngoài, tất cả đều không có.
+> Kẻ phu kia chấp trước vào ác kiến, khi dối tự tha, không thấy rõ được chỗ trụ như thật của hết thảy các pháp.
 > Đại Huệ! Hết thảy các pháp như thật, ấy nghĩa là hay liễu đạt lý duy tâm sở hiện
 
-📒 Kinh **Tứ Thập Nhị Chương** nói: 
+📒 Kinh **Tứ Thập Nhị Chương** nói:
 
-> Người xuất gia làm sa môn, (phải) đoạn dứt ham muốn, khử trừ khát ái, biết được nguồn tâm của mình, đạt được lý gốc của Phật, ngộ pháp vô vi, bên trong không sở đắc, bên ngoài không sở cầu, tâm không hạn cuộc nơi đạo, cũng không tạo nghiệp, vô niệm vô tác, phi tu, phi chứng, phải trải qua các ngôi thứ mà tự cao tột. 
+> Người xuất gia làm sa môn, (phải) đoạn dứt ham muốn, khử trừ khát ái, biết được nguồn tâm của mình, đạt được lý gốc của Phật, ngộ pháp vô vi, bên trong không sở đắc, bên ngoài không sở cầu, tâm không hạn cuộc nơi đạo, cũng không tạo nghiệp, vô niệm vô tác, phi tu, phi chứng, phải trải qua các ngôi thứ mà tự cao tột.
 > Đó gọi là Đạo!
 
-📒 Kinh **Bảo Vân** nói: 
+📒 Kinh **Bảo Vân** nói:
 
 > Hết thảy các pháp, tâm là trên hết. Nếu biết tâm thì có thể biết được tất cả các pháp
 
-📜 Bài kệ trong Kinh **Nhơn Quả** nói: 
+📜 Bài kệ trong Kinh **Nhơn Quả** nói:
 
-> Tạo tất cả thiện ác 
-> 
-> đều từ tâm tưởng sanh 
-> 
+> Tạo tất cả thiện ác
+>
+> đều từ tâm tưởng sanh
+>
 > Cho nên người xuất gia chơn chánh
-> 
+>
 > đều lấy sự minh tâm làm gốc
 
-📒 Kinh **Niệm Phật Tam Muội** nói: 
+📒 Kinh **Niệm Phật Tam Muội** nói:
 
-> Tâm như kim cang, với ngừoi thiệncăn hay xuyên thấu tất cả pháp. 
-> Tâm như áo Ca lân đề, với người thiện căn hay mềm dẻo. 
-> Tâm như bể cả, với người thiện căn hay nhiếp các giới tu. 
-> Tâm như đá bằng phẳng, với người thiện căn hay đứng giữ tất cả sự nghiệp. 
-> Tâm như núi chúa, với người thiện căn hay phát sanh tất cả pháp lành. 
+> Tâm như kim cang, với ngừoi thiệncăn hay xuyên thấu tất cả pháp.
+> Tâm như áo Ca lân đề, với người thiện căn hay mềm dẻo.
+> Tâm như bể cả, với người thiện căn hay nhiếp các giới tu.
+> Tâm như đá bằng phẳng, với người thiện căn hay đứng giữ tất cả sự nghiệp.
+> Tâm như núi chúa, với người thiện căn hay phát sanh tất cả pháp lành.
 > Tâm như cõi đất, với người thiện căn hay gánh vác và gìn giữ sự nghiệp cho chúng sanh
 
-📒 Kinh **Định Ý** nói: 
+📒 Kinh **Định Ý** nói:
 
 > Trong thiền định chẳng dính mắc trong ngoài, cũng không ở giữa, đó gọi là nhứt tâm
 
-📒 Kinh **Bảo Khiếp** nói: 
+📒 Kinh **Bảo Khiếp** nói:
 
-> Văn Thù sư lợi bảo Xá lợi Phất rằng như hoả tai cháy mạnh trong hằng sa kiếp, rốt lại cũng không đốt được hư không. 
+> Văn Thù sư lợi bảo Xá lợi Phất rằng như hoả tai cháy mạnh trong hằng sa kiếp, rốt lại cũng không đốt được hư không.
 > Xá Lợi Phất! Cũng như vậy, mỗi mỗi chúng sanh tạo tội ngũ nghịch, cùng nghiệp chẳng lành trong hằng sa kiếp, nhưng mà tâm tánh họ rốt lại cũng chẳng thể nhơ
 
 📜 Bài kệ trong Kinh **Đại Hư Không Yạng Bồ tát Sở vấn** nói:
 
 > Hư không lìa sanh diệt
-Pháp giới không tới lui
-Các pháp nương tâm mà trụ.
-Trong không, không có sắc phi sắc
-Tâm tánh cũng như vậy
-Hư không chỉ giả danh
-Tâm ý thức cũng như vậy.
+> Pháp giới không tới lui
+> Các pháp nương tâm mà trụ.
+> Trong không, không có sắc phi sắc
+> Tâm tánh cũng như vậy
+> Hư không chỉ giả danh
+> Tâm ý thức cũng như vậy.
 
 📜 Bài kệ Kinh **Lăng Già** nói:
 
 > Các pháp không pháp thể
-Mà nói chỉ là tâm
-Chẳng thấy dược tự tâm
-Mà khởi ra phân biệt.
+> Mà nói chỉ là tâm
+> Chẳng thấy dược tự tâm
+> Mà khởi ra phân biệt.
 
-📒 Kinh **Xuất Diệu** nói: 
+📒 Kinh **Xuất Diệu** nói:
 
 > Người thân mặc giáp giới luật, mà tâm không có gươm trí huệ, thì không làm tan hoại được bọn đầu sỏ kiết sử. Cho nên biết, nếu chẳng quán tâm cho diệu huệ thành tựu, thì không thể chặt đứt được căn bản vô minh
 
-📒 Kinh **Niết Bàn** nói: 
+📒 Kinh **Niết Bàn** nói:
 
 > Sư tử rống ấy là nói một cách quyết định rằng tất cả chúng sanh dều có Phật tánh. Nếu biết tự tâm mình Phật tánh đầy đủ, thì ngoài tánh lại có pháp đáng cầu ư?
 
-📒 Kinh **Pháp Hoa Tam Muội** nói: 
+📒 Kinh **Pháp Hoa Tam Muội** nói:
 
 > Không dính mắc, không chỗ nương, không hệ luỵ vào tâm tịch diệt, ban tánh như hư không. Đó gọi là vô thượng đạo
 
@@ -1903,66 +1906,66 @@ Mà khởi ra phân biệt.
 📜 Bài kệ của Phật **Tỳ Bà Thi** nói:
 
 > Thân từ trong vô tướng thọ sanh,
-Dụ như huyễn, xuất các hình tượng.
-Người huyễn, tâm thức xưa nay không,
-Tội phước đều không, không chỗ trụ.
+> Dụ như huyễn, xuất các hình tượng.
+> Người huyễn, tâm thức xưa nay không,
+> Tội phước đều không, không chỗ trụ.
 
 📜 Bài kệ của Phật **Thi Khí** nói:
 
 > Tạo các pháp lành vốn là huyễn,
-Tạo các nghiệp ác cũng là huyễn.
-Thân như hòn bọt tâm như gió,
-Huyễn hiện không nguồn, không thật tánh.
+> Tạo các nghiệp ác cũng là huyễn.
+> Thân như hòn bọt tâm như gió,
+> Huyễn hiện không nguồn, không thật tánh.
 
 📜 Bài kệ của Phật **Tỳ Xá Phù** nói:
 
 > Vay mượn bốn đại ngỡ là thân,
-Tâm vốn không sanh nhơn cảnh có.
-Cảnh trước nếu không tâm cũng không.
-Tâm như huyễn khởi rồi diệt.
+> Tâm vốn không sanh nhơn cảnh có.
+> Cảnh trước nếu không tâm cũng không.
+> Tâm như huyễn khởi rồi diệt.
 
 📜 Bài kệ của Phật Câu Lưu Tôn nói:
 
 > Thấy thân không thật là Phật thấy
-Rõ tâm như huyễn là Phật rõ.
-Rõ được thân tâm bản tánh không.
-Người nầy cùng Phật có khác gì?
+> Rõ tâm như huyễn là Phật rõ.
+> Rõ được thân tâm bản tánh không.
+> Người nầy cùng Phật có khác gì?
 
 📜 Bài kệ của Phật Câu Na Hàm Mâu Ni nói:
 
 > Phật chẳng thấy thân biết là Phật.
-Nếu thật có biết riêngkhông Phật.
-Người trí hay biết tội tánh không,
-Thản nhiên chẳng sợ việc sanh tử.
+> Nếu thật có biết riêngkhông Phật.
+> Người trí hay biết tội tánh không,
+> Thản nhiên chẳng sợ việc sanh tử.
 
 📜 Bài kệ của Phật Ca Diếp nói:
 
 > Hết thảy chúng sanh tánh thanh tịnh,
-Từ xưa không sanh không thể diệt.
-Ngay thân tâm nầy là huyễn sanh.
-Trong huyễn hoá không tội, không phước.
+> Từ xưa không sanh không thể diệt.
+> Ngay thân tâm nầy là huyễn sanh.
+> Trong huyễn hoá không tội, không phước.
 
 📜 Bài kệ của Phật Thích ca Mâu ni nói:
 
 > Huyễn hoá không nhơn cũng không sanh,
-Đều là tự nhiên thấy như vậy.
-Các pháp thảy đều tự hoá sanh,
-Huyễn hoá không sanh, không chỗ sợ.
+> Đều là tự nhiên thấy như vậy.
+> Các pháp thảy đều tự hoá sanh,
+> Huyễn hoá không sanh, không chỗ sợ.
 
 ### LỜI CHƯ TỔ
 
 📃 Bài kệ của sơ Tổ Bồ đề đạt ma nói:
 
 > Chớ thấy ác mà sanh chán,
-Chớ thấy thiện mà sanh ưa,
-Chẳng bỏ trí mà gần ngu,
-Chẳng lbỏ mê mà đốn ngộ.
-Đạt đạo lớn chừ quá lượng,
-Thông Phật tâm chừ vô số,
-Chẳng cùng phàm thánh đồng vai,
-Siêu nhiên gọi đó là TỔ.
+> Chớ thấy thiện mà sanh ưa,
+> Chẳng bỏ trí mà gần ngu,
+> Chẳng lbỏ mê mà đốn ngộ.
+> Đạt đạo lớn chừ quá lượng,
+> Thông Phật tâm chừ vô số,
+> Chẳng cùng phàm thánh đồng vai,
+> Siêu nhiên gọi đó là TỔ.
 
-📃 Nhị Tổ nói: 
+📃 Nhị Tổ nói:
 
 “Tâm nầy là Phật, tâm nầy là pháp, pháp và Phật không hai. Tăng bảo cũng vậy”.
 
@@ -2020,55 +2023,55 @@ Siêu nhiên gọi đó là TỔ.
 
 📣 Không bờ mé để chỉ bày được gọi là pháp giới.
 
-📃 Thiền sư Trù nói: 
+📃 Thiền sư Trù nói:
 
 > Hết thảy duyên bên ngoài gọi là tướng định, sự phải quấy sanh diệt, tất cả đều do tự tâm. Nếu tự tâm mà vô tâm ai ngại gì phải quấy? Năng sở đều không, tức các tướng đều lặng
 
 📃 Bài kệ của Bàng Cư Sĩ nói:
 
 > Muôn pháp từ tâm khởi,
-Tâm sanh muôn pháp sanh.
-Sanh sanh chẳng rõ có,
-Tới lui uổng tu hành.
-Nhắn gửi người tu đạo.
-Không sanh, có chẳng sanh.
-Nếu hay đạt lý nầy,
-Chẳng động, thoát hầm sâu.
+> Tâm sanh muôn pháp sanh.
+> Sanh sanh chẳng rõ có,
+> Tới lui uổng tu hành.
+> Nhắn gửi người tu đạo.
+> Không sanh, có chẳng sanh.
+> Nếu hay đạt lý nầy,
+> Chẳng động, thoát hầm sâu.
 
 📃 Bài ca của Hòa Thượng Đằng Đằng:
 
 > Tu đạo, đạo không thể tu,
-Hỏi pháp, pháp không thể hỏi.
-Người mê không ngộ sắc không,
-Kẻ đạt vốn không nghịch thuận.
-Tám muôn bốn ngàn pháp môn,
-Rốt lý chẳng hơn gang tấc.
-Phiền não chính là Bồ đề,
-Hoa sạch sanh nơi bùn nhớp...
-Chớ dối, chơi châu huyện khác.
+> Hỏi pháp, pháp không thể hỏi.
+> Người mê không ngộ sắc không,
+> Kẻ đạt vốn không nghịch thuận.
+> Tám muôn bốn ngàn pháp môn,
+> Rốt lý chẳng hơn gang tấc.
+> Phiền não chính là Bồ đề,
+> Hoa sạch sanh nơi bùn nhớp...
+> Chớ dối, chơi châu huyện khác.
 
-📃 Thiền sư **Ngọa Luân** nói: 
+📃 Thiền sư **Ngọa Luân** nói:
 
 > Thấu đáo được tâm tánh kia trạm nhiên rỗng suốt, xưa nay chẳng sanh, cũng chẳng diệt, nào phải gom ép. Chỉ biết tâm khởi vọng, tức là phải hướng nơi phản chiếu lại nguồn tâm, không có gốc rễ tức là chỗ vô sanh. Vì vô sanh nên tâm tịch tĩnh vô tướng vô vi
 
 📃 Bài tụng của thiền sư **Trí Đạt** nói:
 
 > Cảnh lập, tâm liền có,
-Tâm không, cảnh chẳng sanh.
-Nếu đem tâm cột cảnh,
-Tâm cảnh cả đều mà,
-Cảnh tâm mỗi tự dừng,
-Tâm cảnh tánh thường trong.
-Ngộ cảnh tâm không khởi,
-Mê tâm cảnh đồng hành,
-Nếu mê tâm tạo cảnh,
-Tâm cảnh loạn tung hoành,
-Ngộ cảnh tâm vốn tịnh,
-Biết tâm cảnh vốn trong.
-Biết tâm không cảnh tánh,
-Rõ cảnh tâm không hình.
-Cảnh rỗng tâm lặng lẽ,
-Tâm chiếu cảnh im lìm.
+> Tâm không, cảnh chẳng sanh.
+> Nếu đem tâm cột cảnh,
+> Tâm cảnh cả đều mà,
+> Cảnh tâm mỗi tự dừng,
+> Tâm cảnh tánh thường trong.
+> Ngộ cảnh tâm không khởi,
+> Mê tâm cảnh đồng hành,
+> Nếu mê tâm tạo cảnh,
+> Tâm cảnh loạn tung hoành,
+> Ngộ cảnh tâm vốn tịnh,
+> Biết tâm cảnh vốn trong.
+> Biết tâm không cảnh tánh,
+> Rõ cảnh tâm không hình.
+> Cảnh rỗng tâm lặng lẽ,
+> Tâm chiếu cảnh im lìm.
 
 📃 Đại sư Phổ Ngạn nói: “Đại đạo rộng lớn, chỉ một chơn tâm. Thiện ác chớ nghĩ thần trong, vật hiện, lại có lo gì?”.
 
@@ -2085,9 +2088,9 @@ Tâm chiếu cảnh im lìm.
 📃 Bài kệ trong **Luận Bảo Tánh** nói:
 
 > Như hư không biến khắp cả,
-Mà hư không chẳng phân biệt.
-Tự tâm và vô cấu tâm,
-Cũng không phân biệt cùng khắp.
+> Mà hư không chẳng phân biệt.
+> Tự tâm và vô cấu tâm,
+> Cũng không phân biệt cùng khắp.
 
 📃 Pháp sư Phục Lễ nói: “Xét về ý nghĩa của nghiệp, thì nghiệp do tâm khởi, tâm là dụng của nghiệp, nghiệp dẫn tâm thọ sanh, tâm theo nghiệp tạo cảnh. Vậy thì nhơn nghiệp mà thọ thân, thân trở lại tạo nghiệp. Từ tâm tạo cảnh, cảnh lại sanh tâm. Như bóng theo hình mà ngay hay cong, như vang theo tiếng mà có lớn hay nhỏ”.
 
@@ -2110,13 +2113,13 @@ Lại Kinh Kim Cang nói: “Bố thí bảy báu đầy khắp tam thiên đạ
 Như có người thiện nam tín nữ nào, phát tâm khắc bản in bố thí truyền bá, khiến pháp giới chúng snah đốn ngộ tối thượng thừa, đều đến cõi Phật, đồng chứng bồ đề, thì công đức vô biên, khó nói hết.
 
 > Vạn pháp qui tâm lục
-Nói thẳng chẳng dấu diếm
-Hay mở mắt thanh tịnh
-Khéo chỉ tâm niết bàn.
-Ba đạo từ đây vào
-Trăm nhọc chớ tìm ngoài
-Có người in trăm bản
-Hơn thí một thuyền vàng.
+> Nói thẳng chẳng dấu diếm
+> Hay mở mắt thanh tịnh
+> Khéo chỉ tâm niết bàn.
+> Ba đạo từ đây vào
+> Trăm nhọc chớ tìm ngoài
+> Có người in trăm bản
+> Hơn thí một thuyền vàng.
 
 ## HẾT
 
@@ -2124,8 +2127,8 @@ Hơn thí một thuyền vàng.
 
 Nhứt tâm là tổng tướng của muôn pháp, muôn pháp là biệt tướng của nhứt tâm. Tâm có hai loại chơn vọng chẳng đồng. Nương vào chơn tâm mau chứng bồ đề. Đuổi theo vọng tâm thì trôi nổi trong sanh tử. Chơn tâm vọng tâm nên biết là bản thể. Chơn tâm là cái biết mầu nhiệm: không biết mà biết. Vọng tâm là cái biết của thức: có biết mà biết. Không biết mà biết thì viên minh tịch chiếu. Có biết mà biết thì niệm niệm sanh diệt.
 
-Đại sư khởi lòng từ, mượn văn vấn đáp để biện minh chơn tâm, chỉ trần nẻo tu chứng. Từ đầu chí cuối mỗi lời đều khế lý. 
-Quyển Lục nầy truyền bá ở đời như ngọn đèn sáng suốt hay phá được đêm dài vạn kiếp, mà thẳng đến Bảo sở. Thực là pháp quí, hẳn là pháp quí. 
+Đại sư khởi lòng từ, mượn văn vấn đáp để biện minh chơn tâm, chỉ trần nẻo tu chứng. Từ đầu chí cuối mỗi lời đều khế lý.
+Quyển Lục nầy truyền bá ở đời như ngọn đèn sáng suốt hay phá được đêm dài vạn kiếp, mà thẳng đến Bảo sở. Thực là pháp quí, hẳn là pháp quí.
 Tôi xem quyển Lục nầy không thôi, và lại đọc nó đề làm lời bạt.
 
 ### Thể Như Cư Sĩ Lưu Phương kính bạt.

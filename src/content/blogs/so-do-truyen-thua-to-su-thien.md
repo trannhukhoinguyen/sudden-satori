@@ -1,11 +1,13 @@
 ---
-title: 'TRUYỀN THỪA TỔ SƯ THIỀN (THIỀN TÔNG)'
-description: 'Từ Phật Thích Ca truyền đến nay...'
-excerpt:
-  "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động."
-categories: ["Bài viết"]
-tags: ["Truyền thừa", "Truyền thừa"]
-author: "phatgiao.org.vn"
+title: TRUYỀN THỪA TỔ SƯ THIỀN (THIỀN TÔNG)
+description: Từ Phật Thích Ca truyền đến nay...
+excerpt: 'TS Thạch Sương nói: Cái khóa không tua hai đầu lay động.'
+categories:
+  - Bài viết
+tags:
+  - Truyền thừa
+  - Truyền thừa
+author: phatgiao.org.vn
 ---
 
 ## ** 🇮🇳 ẤN ĐỘ**
@@ -55,7 +57,6 @@ author: "phatgiao.org.vn"
                             └── Mazu Daoyi
 ```
 
-
 ## 🎨 **NGŨ TÔNG**
 
 - ⚡️ Lâm Tế thế thắng
@@ -86,15 +87,15 @@ author: "phatgiao.org.vn"
 
 ✨ TAM HUYỀN
 
-Tăng hỏi: *Thế nào là câu thứ 1️⃣*?
+Tăng hỏi: _Thế nào là câu thứ 1️⃣_?
 
-1️⃣  Sư nói: “**Ấn khai tam yếu điểm son hẹp, chưa cho suy nghĩ chủ khách phân**”.
+1️⃣ Sư nói: “**Ấn khai tam yếu điểm son hẹp, chưa cho suy nghĩ chủ khách phân**”.
 
-Hỏi: *Thế nào là câu thứ 2️⃣*?
+Hỏi: _Thế nào là câu thứ 2️⃣_?
 
 2️⃣ Sư nói: “**Diệu giải chẳng cho vấn vô trước (chấp trước), phương tiện đâu phụ (cô phụ) triệt lưu cơ**”.
 
-Hỏi: *Thế nào là câu thứ 3️⃣*?
+Hỏi: _Thế nào là câu thứ 3️⃣_?
 
 3️⃣ Sư nói: “**Hãy xem trên đài hát múa rối, kéo dây đều do người bên trong**”.
 
@@ -245,7 +246,7 @@ Còn Pháp Nhãn Thiền Sư Thập Quy Luận rằng: “Quy Ngưỡng thì vu�
 “Tào Động là xướng họa làm dụng”, bởi gia phong một vấn một đáp, qua lại miên mật, so với cơ phong thẳng tắp của Lâm Tế ý thú khác xa.
 Vì thế người xưa có lời nói “Lâm Tế tướng quân, Tào Động nông dân” do gia phong Lâm Tế như tướng chỉ huy binh lính trăm vạn, mà gia phong Tào Động thì như kẻ nông phu canh tác ruộng đất rất chu đáo vậy.
 
-*️⃣ Có Tăng hỏi **Phần Dương Thiện Chiêu** thiền sư:
+\*️⃣ Có Tăng hỏi **Phần Dương Thiện Chiêu** thiền sư:
 
 ❓: Thế nào là **Chánh trung Lai**?
 
@@ -543,5 +544,3 @@ Văn Yểm có tự làm bài kệ rằng:
 ## ℹ️ Thông tin thêm
 
 > ✨ Nguồn: https://phatgiao.org.vn/gia-phong-cua-ngu-gia-tong-phai-thien-phat-giao-d26613.html
-
-

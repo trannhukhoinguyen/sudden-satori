@@ -1,13 +1,15 @@
 ---
-title: "Lăng Già Kinh Tông Thông - Quyển 1 (phần Thông)"
-description: "1600-1615"
-author: "Tăng Phụng Nghi"
-audioUrls: [
-  "https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445",
-]
-videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
-categories: ["Luận"]
-tags: ["Kinh Lăng Già", "Tông Thông"]
+title: Lăng Già Kinh Tông Thông - Quyển 1 (phần Thông)
+description: 1600-1615
+author: Tăng Phụng Nghi
+audioUrls:
+  - https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445
+videoUrl: https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE
+categories:
+  - Luận
+tags:
+  - Kinh Lăng Già
+  - Tông Thông
 ---
 
 ## NGUỒN GỐC
@@ -22,12 +24,12 @@ tags: ["Kinh Lăng Già", "Tông Thông"]
 ## LỜI NÓI ĐẦU
 
 - Bản kinh lăng-già được dịch lần đầu do ngày cầu na bạc đà la đời lưu tấm 424 đến 454 dịch thành bốn quyển lấy tên là **Lăng Già A-bạt-đa-la Bảo Kinh**
-- Đời Nguyên Ngụy 500 đến 516 ngày Bồ Đề Lưu Chi dịch thẳng 10 quyển lấy tên là **Nhập Lăng Già** 
-- Đời đường 684 đến 705 ngày thật to a-nan-đà dịch thành 7 quyển lấy tên là **Đại thừa Nhập Lăng Già** 
+- Đời Nguyên Ngụy 500 đến 516 ngày Bồ Đề Lưu Chi dịch thẳng 10 quyển lấy tên là **Nhập Lăng Già**
+- Đời đường 684 đến 705 ngày thật to a-nan-đà dịch thành 7 quyển lấy tên là **Đại thừa Nhập Lăng Già**
 - Đời Minh 1572 đến 1620 cơ sở Bồ Tát giới tăng phụ ghi đã dùng hội cả ba bản dịch và thêm dùng các tích xưa và cơ dư độc đáo của các bậc tôn thúc để làm rõ nhịp kinh soạn thành 8 quyển đặt tên là **Lăng Già A-bạt-đa-la Bảo Kinh Tông Thông** được kết tập trong vạn tục tạng số X17 No.330
 
 34 quyển đời Tống Dịch đều lấy tên là Nhất thiết Phật ngữ tâm thì đã hiện bài trước.
-Giá trị của toàn bộ bản kinh cốt lấy việc sáng tỏ bản tâm làm trọng không chỉ có đức Phật Thích Ca 
+Giá trị của toàn bộ bản kinh cốt lấy việc sáng tỏ bản tâm làm trọng không chỉ có đức Phật Thích Ca
 mà hoặc hoặc không
 
 khác điều trị thẳng bạn tâm toàn bộ bản
@@ -108,7 +110,7 @@ kết duyên học phật tu Phật thành Phật để
 
 không cô phụ lòng Biên luyện của Đức Thế
 
-Tôn ứng Thân khai hóa nơi đời ác 5 trượt này 
+Tôn ứng Thân khai hóa nơi đời ác 5 trượt này
 
 nguyện hồi hướng khắp pháp giới chúng sinh đồng thành Phật đạo
 
@@ -144,12 +146,12 @@ Kinh Lăng Già A Bạt Đa La Bảo, do Tam Tạng Sa-môn Cầu-na-bạt-đà-
 
 Người soạn Tông Thông là Tăng Phụng Nghi, đệ tử Bồ-tát Giới, từng giữ chức Viên Ngoại Lang.
 
-Giải thích: Kinh này gọi là Lăng Già, vì nói về núi Lăng Già – nơi chư Phật thường trụ thuyết pháp. 
+Giải thích: Kinh này gọi là Lăng Già, vì nói về núi Lăng Già – nơi chư Phật thường trụ thuyết pháp.
 Núi này như viên ngọc quý, rất kiên cố, ví như bảo vật không gì sánh bằng.
-Trên đỉnh núi có một thành, nơi Dạ-xoa cư trú, ban đêm thường phát ra ánh sáng rực rỡ. 
+Trên đỉnh núi có một thành, nơi Dạ-xoa cư trú, ban đêm thường phát ra ánh sáng rực rỡ.
 Những ai ở trong cảnh giới này nếu tâm còn phân biệt thì không thấy Phật; chỉ khi nào dứt phân biệt, tâm thanh tịnh, mới thấy được Phật thuyết kinh tại đây.
 
-## Quyển 1 
+## Quyển 1
 
 Lý Duyên khởi Kinh Lăng và tông thông đề
 
@@ -4143,7 +4145,7 @@ loại gì sao gọi là giàu sang nhân dị
 
 sao gọi là dòng thích nhưng dị xin dòng
 
-rất sao gọi dòng Cam Giá 
+rất sao gọi dòng Cam Giá
 
 nguyện vô thượng tôn thuyết
 

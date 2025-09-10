@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Già - quyển III"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
 videoStart: "10054"
 categories: ["Kinh"]
@@ -580,10 +580,9 @@ Cũng chẳng phải đoạn diệt.
 - Lại nữa, Đại Huệ! Nay ta sẽ thuyết tướng Trí Thức, nếu ngươi và các Bồ Tát khéo phân biệt được tướng Trí Thức, tức là thông đạt tướng Trí Thức, sẽ chóng đắc Vô Thượng Chánh Đẳng Chánh Giác.
 
 - Đại Huệ! Có 3 thứ trí là : Thế gian Trí, Xuất Thế gian Trí và Xuất Thế gian Thượng thượng Trí.
-
-  + Thế nào là THẾ GIAN TRÍ? Là nói tất cả phàm phu ngoại đạo chấp trước hữu và vô.
-  + Thế nào là XUẤT THẾ GIAN TRÍ? Là nói tất cả Thanh Văn, Duyên Giác do chấp trước hy vọng chứng quả Niết Bàn, đọa tự tướng sở chứng cho là cộng tướng.
-  + Thế nào là XUẤT THẾ GIAN THỰƠNG TRÍ? Ta nói chư Phật Bồ Tát quán pháp Vô Sanh, thấy bất sanh bất diệt, lìa pháp hữu và vô, duyên Vô Sư Trí, tự chứng đắc nhơn pháp Vô Ngã của địa vị Như Lai.
+  - Thế nào là THẾ GIAN TRÍ? Là nói tất cả phàm phu ngoại đạo chấp trước hữu và vô.
+  - Thế nào là XUẤT THẾ GIAN TRÍ? Là nói tất cả Thanh Văn, Duyên Giác do chấp trước hy vọng chứng quả Niết Bàn, đọa tự tướng sở chứng cho là cộng tướng.
+  - Thế nào là XUẤT THẾ GIAN THỰƠNG TRÍ? Ta nói chư Phật Bồ Tát quán pháp Vô Sanh, thấy bất sanh bất diệt, lìa pháp hữu và vô, duyên Vô Sư Trí, tự chứng đắc nhơn pháp Vô Ngã của địa vị Như Lai.
 
 - Đại Huệ! Sanh diệt là Thức, bất sanh bất diệt là Trí. Lại nữa đọa tướng vô tướng và đọa mỗi mỗi nhân tướng hữu và vô là Thức, siêu việt tướng hữu vô là Trí. Lại nữa, nuôi dưỡng tướng là Thức, chẳng nuôi dưỡng tướng là Trí. Lại nữa, có ba thứ trí : Là biết sanh diệt, biết tự cộng tướng, biết bất sanh bất diệt. Lại nữa, tướng vô ngại là Trí, mỗi mỗi cảnh giới tướng ngại là Thức. Lại nữa, chấp **3 Sự Hòa Hợp** [^10] sanh tướng phương tiện là Thức, tướng tự tánh chẳng nhờ sự phương tiện là Trí. Lại nữa, đắc tướng là Thức, chẳng đắc tướng là Trí. Vì cảnh giới Tự Giác Thánh Trí chẳng xuất chẳng nhập, như bóng trăng trong nước, chẳng thể đắc vậy.
 
@@ -1155,38 +1154,38 @@ Phật nói Vô Sở thuyết.
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  *Theo Thật Dụng Phật Học Tự điển giải thích thì gồm có bốn nghĩa: Sở tri, cảnh giới, trí mẫu, trí cảnh. 4 từ ngữ này cũng có tương tự cũng có hơi khác, như nghĩa SỞ TRI và CẢNH GIỚI thì thông cả trí và ngu, còn TRÍ CẢNH và TRÍ MƯU thì riêng cho bậc trí, lại gồm cả năng sở: Mẹ của trí là năng sanh, cảnh của trí là sở sanh, vì bao gồm nhiều nghĩa như thế, nên người dịch chỉ dịch nguyên âm, chúng tôi cũng chỉ dịch nguyên âm mà tùy theo trường hợp ghi chú*
+[^1]: ⭐️ _Theo Thật Dụng Phật Học Tự điển giải thích thì gồm có bốn nghĩa: Sở tri, cảnh giới, trí mẫu, trí cảnh. 4 từ ngữ này cũng có tương tự cũng có hơi khác, như nghĩa SỞ TRI và CẢNH GIỚI thì thông cả trí và ngu, còn TRÍ CẢNH và TRÍ MƯU thì riêng cho bậc trí, lại gồm cả năng sở: Mẹ của trí là năng sanh, cảnh của trí là sở sanh, vì bao gồm nhiều nghĩa như thế, nên người dịch chỉ dịch nguyên âm, chúng tôi cũng chỉ dịch nguyên âm mà tùy theo trường hợp ghi chú_
 
-[^2]: ⭐️  *nghĩa Hán là bậc trí thức, ở đây ám chỉ Năng tác hoặc Sở tác*
+[^2]: ⭐️ _nghĩa Hán là bậc trí thức, ở đây ám chỉ Năng tác hoặc Sở tác_
 
-[^3]: ⭐️  *Ấm là ngũ ấm, tức sắc, thọ tưởng, hành, thức. Nhập là lục nhập, tức lục căn nhiếp thọ lục trần, có sự cảm thọ, gọi là lục nhập. Giới là thập bát giới, tức lục căn tiếp xúc lục trần sinh ra lục thức, gọi là thập bát giới.*
+[^3]: ⭐️ _Ấm là ngũ ấm, tức sắc, thọ tưởng, hành, thức. Nhập là lục nhập, tức lục căn nhiếp thọ lục trần, có sự cảm thọ, gọi là lục nhập. Giới là thập bát giới, tức lục căn tiếp xúc lục trần sinh ra lục thức, gọi là thập bát giới._
 
-[^4]: ⭐️  *Tiền ngũ thức nhãn, nhĩ, tỹ, thiệt, thân, hiện cảnh tiền trần là sắc, thanh, hương, vị, xúc.*
+[^4]: ⭐️ _Tiền ngũ thức nhãn, nhĩ, tỹ, thiệt, thân, hiện cảnh tiền trần là sắc, thanh, hương, vị, xúc._
 
-[^5]: ⭐️  *Trị tâm địa như khai thác đất hoang*
+[^5]: ⭐️ _Trị tâm địa như khai thác đất hoang_
 
-[^6]: ⭐️  Có 2 nhóm: Nhóm 1️⃣: 3 tánh - *Thiện*, *ác*, *vô ký* (thuộc về danh số) & Nhóm 2️⃣: 3 tánh - *Biến kế sở chấp*, *Y tha khởi* và *Viên thành thật* (thuộc về thuật ngữ).
+[^6]: ⭐️ Có 2 nhóm: Nhóm 1️⃣: 3 tánh - _Thiện_, _ác_, _vô ký_ (thuộc về danh số) & Nhóm 2️⃣: 3 tánh - _Biến kế sở chấp_, _Y tha khởi_ và _Viên thành thật_ (thuộc về thuật ngữ).
 
-[^7]: ⭐️  *tức là đắc nhơn vô ngã thì lý nghi dứt*
+[^7]: ⭐️ _tức là đắc nhơn vô ngã thì lý nghi dứt_
 
-[^8]: ⭐️  THẬP VÔ TẬN CÚ: Cũng là 10 thứ bất nhị của Như Lai. Chư Phật có 10 thứ quyết định bất nhị: 1️⃣- Tất cả chư Phật khéo thuyết lời thọ ký bất nhị. 2️⃣- Hay tùy thuận tâm niệm chúng sanh, khiến họ thỏa nguyện bất nhị. 3️⃣- Khéo biết tam thế tất cả Phật và Phật sở giáo hóa tất cả chúng sanh thể tánh bình đẳng bất nhị. 4️⃣- Hay biết thế pháp và pháp tánh của chư Phật chẳng sai biệt, quyết định bất nhị. 5️⃣- Khéo biết tam thế chư Phật đồng một thiện căn bất nhị. 6️⃣- Hay thấu rõ tất cả pháp, diễn thuyết nghĩa lý bất nhị. 7️⃣- Đầy đủ trí huệ của tam thế chư Phật bất nhị. 8️⃣- Biết tất cả sát na nơi tam thế bất nhị. 9️⃣- Biết tam thế tất cả cõi Phật vào trong mộy cõi bất nhị. 🔟- Biết lời nói của tất cả tam thế chư Phật tức là lời nói của một Phật bất nhị.
+[^8]: ⭐️ THẬP VÔ TẬN CÚ: Cũng là 10 thứ bất nhị của Như Lai. Chư Phật có 10 thứ quyết định bất nhị: 1️⃣- Tất cả chư Phật khéo thuyết lời thọ ký bất nhị. 2️⃣- Hay tùy thuận tâm niệm chúng sanh, khiến họ thỏa nguyện bất nhị. 3️⃣- Khéo biết tam thế tất cả Phật và Phật sở giáo hóa tất cả chúng sanh thể tánh bình đẳng bất nhị. 4️⃣- Hay biết thế pháp và pháp tánh của chư Phật chẳng sai biệt, quyết định bất nhị. 5️⃣- Khéo biết tam thế chư Phật đồng một thiện căn bất nhị. 6️⃣- Hay thấu rõ tất cả pháp, diễn thuyết nghĩa lý bất nhị. 7️⃣- Đầy đủ trí huệ của tam thế chư Phật bất nhị. 8️⃣- Biết tất cả sát na nơi tam thế bất nhị. 9️⃣- Biết tam thế tất cả cõi Phật vào trong mộy cõi bất nhị. 🔟- Biết lời nói của tất cả tam thế chư Phật tức là lời nói của một Phật bất nhị.
 
-[^9]: ⭐️  *TÂM là tâm vương, gồm 8 thứ thức, chấp cho là ngã. TÂM SỐ gồm năm mươi mốt thứ, như tham, sân, si... cho là sở hữu của Ngã, chấp là Ngã Sở*
+[^9]: ⭐️ _TÂM là tâm vương, gồm 8 thứ thức, chấp cho là ngã. TÂM SỐ gồm năm mươi mốt thứ, như tham, sân, si... cho là sở hữu của Ngã, chấp là Ngã Sở_
 
-[^10]: ⭐️  Gồm 3: Căn bản duyên của thức thứ 8; Tác ý, tức tự thể của thức thứ 6; và Chủng tử, tức do thức thứ 6 huân tập mà thành.
+[^10]: ⭐️ Gồm 3: Căn bản duyên của thức thứ 8; Tác ý, tức tự thể của thức thứ 6; và Chủng tử, tức do thức thứ 6 huân tập mà thành.
 
-[^11]: ⭐️  Trong Kinh Nhơn Vương nói 5 thứ nhẫn là: Điều phục nhẫn, Tín nhẫn, Thuận nhẫn, Vô Sanh nhẫn và Tịch diệt nhẫn.
+[^11]: ⭐️ Trong Kinh Nhơn Vương nói 5 thứ nhẫn là: Điều phục nhẫn, Tín nhẫn, Thuận nhẫn, Vô Sanh nhẫn và Tịch diệt nhẫn.
 
-[^12]: ⭐️  9 THỨ CHUYỂN BIẾN LUẬN CỦA NGOẠI ĐẠO: 1️⃣- HÌNH XỨ chuyển biến: Là nói chúng sanh luân hồi trong lục đạo, mỗi mỗi hình tướng và vứ sở chuyển biến chẳng đồng. 2️⃣- TƯỚNG chuyển biến : Là tướng của tứ đại ngũ ấm sanh, trụ, diệt chuyển biến chẳng đồng. 3️⃣- NHÂN chuyển biến : Do chủng tử làm nhân, nhân diệt thì quả sanh, chuyển biến chẳng đồng. 4️⃣- THÀNH chuyển biến : Là nói do nhân duyên thành tựu các pháp, có thành có hoại, chuyển biến chẳng đồng. 5️⃣- KIẾN chuyển biến : Nói các pháp tùy thời gian biến đổi, trước thấy thì đúng, sau thấy thì sai, chuyển biến chẳng đồng. 6️⃣- TÁNH chuyển biến : Nói các pháp chuyển lạ thành quen, chuyển đắng thành ngọt, chuyển biến chẳng đồng. 7️⃣- DUYÊN PHÂN MINH chuyển biến : Nói mười hai nhân duyên sanh diệt chẳng ngừng, phân minh chuyển biến chẳng đồng. 8️⃣- SỞ TÁC PHÂN MINH chuyển biến : Do duyên sở tác thành quả, có sanh rồi lại diệt, chuyển biến chẳng đồng. 9️⃣- SỰ chuyển biến : Nói căn, thân, khí giới (vũ trụ vạn vật) các pháp hữu vi cuối cùng đều phải biến hoại.
+[^12]: ⭐️ 9 THỨ CHUYỂN BIẾN LUẬN CỦA NGOẠI ĐẠO: 1️⃣- HÌNH XỨ chuyển biến: Là nói chúng sanh luân hồi trong lục đạo, mỗi mỗi hình tướng và vứ sở chuyển biến chẳng đồng. 2️⃣- TƯỚNG chuyển biến : Là tướng của tứ đại ngũ ấm sanh, trụ, diệt chuyển biến chẳng đồng. 3️⃣- NHÂN chuyển biến : Do chủng tử làm nhân, nhân diệt thì quả sanh, chuyển biến chẳng đồng. 4️⃣- THÀNH chuyển biến : Là nói do nhân duyên thành tựu các pháp, có thành có hoại, chuyển biến chẳng đồng. 5️⃣- KIẾN chuyển biến : Nói các pháp tùy thời gian biến đổi, trước thấy thì đúng, sau thấy thì sai, chuyển biến chẳng đồng. 6️⃣- TÁNH chuyển biến : Nói các pháp chuyển lạ thành quen, chuyển đắng thành ngọt, chuyển biến chẳng đồng. 7️⃣- DUYÊN PHÂN MINH chuyển biến : Nói mười hai nhân duyên sanh diệt chẳng ngừng, phân minh chuyển biến chẳng đồng. 8️⃣- SỞ TÁC PHÂN MINH chuyển biến : Do duyên sở tác thành quả, có sanh rồi lại diệt, chuyển biến chẳng đồng. 9️⃣- SỰ chuyển biến : Nói căn, thân, khí giới (vũ trụ vạn vật) các pháp hữu vi cuối cùng đều phải biến hoại.
 
-[^13]: ⭐️  Tức là: Căn, Cảnh, Thức. Căn là lục căn, cảnh là lục trần. Thức là lục thức. Tất cả pháp đều do 3 thứ nhân duyên này hòa hợp sanh khởi.
+[^13]: ⭐️ Tức là: Căn, Cảnh, Thức. Căn là lục căn, cảnh là lục trần. Thức là lục thức. Tất cả pháp đều do 3 thứ nhân duyên này hòa hợp sanh khởi.
 
-[^14]: ⭐️  Nói tắt là Thập Lực, là 10 thứ sức tự tại của Như Lai. Ấy là: 1️⃣- Chỗ tri giác chẳng phải chỗ trí lực. Sự biết nghĩa lý của các vật là do sức tự tại của tự tâm tự biết, chẳng phải do trí lực mà biết. 2️⃣- Sức tự tại biết nhân quả nghiệp báo của tất cả chúng sanh nơi tam thế. 3️⃣- Sức tự tại biết các thứ thiền định giải thoát tam muội. 4️⃣- Biết mỗi mỗi tri giải trí lực của tất cả chúng sanh. 5️⃣- Biết mỗi mỗi cảnh giới chẳng đồng cuả chúng sanh thế gian. 6️⃣- Biết phổ biến tất cả pháp đúng như thật tế. 7️⃣- Biết mỗi mỗi hành và nhân của các pháp thế gian hữu lậu và các pháp Xuất thế gian Vô lậu từ Ngũ giới Thập thiện cho đến Niết bàn. 8️⃣- Có Thiên nhãn vô ngại, thấy biết nghiệp duyên thiện ác và sanh tử của tất cả chúng sanh. 9️⃣- Biết Túc mạng và Vô lậu Niết Bàn của tất cả chúng sanh. 🔟- Biết tất cả tập khí mê vọng, dứt hẳn chẳng sanh, đúng như thật tế. Gọi là Thập Tự Tại Lực.
+[^14]: ⭐️ Nói tắt là Thập Lực, là 10 thứ sức tự tại của Như Lai. Ấy là: 1️⃣- Chỗ tri giác chẳng phải chỗ trí lực. Sự biết nghĩa lý của các vật là do sức tự tại của tự tâm tự biết, chẳng phải do trí lực mà biết. 2️⃣- Sức tự tại biết nhân quả nghiệp báo của tất cả chúng sanh nơi tam thế. 3️⃣- Sức tự tại biết các thứ thiền định giải thoát tam muội. 4️⃣- Biết mỗi mỗi tri giải trí lực của tất cả chúng sanh. 5️⃣- Biết mỗi mỗi cảnh giới chẳng đồng cuả chúng sanh thế gian. 6️⃣- Biết phổ biến tất cả pháp đúng như thật tế. 7️⃣- Biết mỗi mỗi hành và nhân của các pháp thế gian hữu lậu và các pháp Xuất thế gian Vô lậu từ Ngũ giới Thập thiện cho đến Niết bàn. 8️⃣- Có Thiên nhãn vô ngại, thấy biết nghiệp duyên thiện ác và sanh tử của tất cả chúng sanh. 9️⃣- Biết Túc mạng và Vô lậu Niết Bàn của tất cả chúng sanh. 🔟- Biết tất cả tập khí mê vọng, dứt hẳn chẳng sanh, đúng như thật tế. Gọi là Thập Tự Tại Lực.
 
-[^15]: ⭐️  TỨ TRỤ ĐỊA VÔ MINH: *Dục ái*, *Sắc ái*, *Hữu ái* & *Kiến ái vô minh*.
+[^15]: ⭐️ TỨ TRỤ ĐỊA VÔ MINH: _Dục ái_, _Sắc ái_, _Hữu ái_ & _Kiến ái vô minh_.

@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển III"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "5912"
 categories: ["Kinh"]
@@ -146,13 +146,13 @@ pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 ### LƯỢC GIẢI
 
 > Thập Bát Giới này chỉ phá lục thức, nên nói Thức này chẳng từ Nhãn ra để làm giới, vì thức chủ phân biệt, nếu chẳng có Sắc, Không thì chẳng thể phân biệt.
-> 
-> Cũng chẳng từ Sắc ra để làm giới, vì sắc có biến diệt, thức chẳng biến đổi, nếu chỉ từ Sắc ra thì chẳng thể phân biệt hư không. 
-> 
-> Cũng chẳng từ Nhãn và Sắc cộng sanh làm giới, vì nhãn thì có biết, sắc thì vô tri, tri và vô tri hai cái đối nghịch, làm sao mà hợp? 
-> 
-> Nếu hợp thì từ đâu mà lập giới? 
-> Giới chính giữa đã chẳng có, nên nói Lìa Trung. Nếu nói lìa căn trần mà sanh thức, thì lìa căn phải hợp với trần, lìa trần phải hợp với căn, vậy thức thuộc bên nào? 
+>
+> Cũng chẳng từ Sắc ra để làm giới, vì sắc có biến diệt, thức chẳng biến đổi, nếu chỉ từ Sắc ra thì chẳng thể phân biệt hư không.
+>
+> Cũng chẳng từ Nhãn và Sắc cộng sanh làm giới, vì nhãn thì có biết, sắc thì vô tri, tri và vô tri hai cái đối nghịch, làm sao mà hợp?
+>
+> Nếu hợp thì từ đâu mà lập giới?
+> Giới chính giữa đã chẳng có, nên nói Lìa Trung. Nếu nói lìa căn trần mà sanh thức, thì lìa căn phải hợp với trần, lìa trần phải hợp với căn, vậy thức thuộc bên nào?
 > Nên nói thể tánh lẫn lộn, ba chỗ đều sai, giới làm sao an lập?
 
 <hr class="blog-rule" />
@@ -342,77 +342,77 @@ A Nan yên lặng kính vâng thánh chỉ của Phật.
 Bấy giờ, A Nan và đại chúng được sự khai thị vi diệu của Phật, thân tâm phẳng lặng, chẳng còn ngăn ngại, mỗi mỗi tự biết tâm thức cùng khắp mười phương, thấy mười phương hư không như xem các vật trong bàn tay; tất cả vật tượng trên thế gian đều vốn là tánh Bồ Đề sáng suốt của diệu tâm. Tâm tánh tròn đầy, cùng khắp mười phương, xem lại cái thân của cha mẹ sanh ra, như mảy bụi lửng lơ trong mười phương hư không thoạt còn thoạt mất; như một bọt nước trôi trong biển cả, chẳng biết sanh diệt từ đâu. Rõ ràng tự biết được cái bổn lai thường trụ chẳng diệt của diệu tâm, được pháp chưa từng có, nên chắp tay lễ Phật và nói kệ tán thán Phật rằng:
 
 > Diệu trạm tổng trì bất động tôn,
-> 
+>
 > Thủ Lăng Nghiêm Vương thế hy hữu.
-> 
+>
 > Tiếu ngã ức kiếp điên đảo tưởng.
-> 
+>
 > Bất lịch tăng kỳ hoạch pháp thân.
-> 
+>
 > Nguyện kim đắc quả thành Bửu Vương
-> 
+>
 > Hoàn độ như thị hằng sa chúng.
-> 
+>
 > Tương thử thâm tâm phụng trần sát,
-> 
+>
 > Thị tắc danh vi báo Phật ân.
-> 
+>
 > Phục thỉnh Thế Tôn vi chứng minh,
-> 
+>
 > Ngũ trược ác thế thệ tiên nhập.
-> 
+>
 > Như nhất chúng sanh vị thành Phật,
-> 
+>
 > Chung bất ư thử thủ nê hoàn,
-> 
+>
 > Đại hùng đại lực đại từ bi,
-> 
+>
 > Hy cánh thẩm trừ vi tế hoặc.
-> 
+>
 > Linh ngã tảo đăng vô thượng giác,
-> 
+>
 > Ư thập phương giới tọa đạo tràng,
-> 
+>
 > Thuấn Nghĩa Đa tánh khả tiêu vong,
-> 
+>
 > Thước Ca Ra tâm vô động chuyển.
 
 Dịch nghĩa:
 
 > Trong lặng vạn năng chẳng động tịnh [^6]
-> 
+>
 > Lăng Nghiêm Đại Định đời hy hữu [^7]
-> 
+>
 > Tiêu điên đảo tưởng từ vô thỉ,
-> 
+>
 > Chẳng nhọc nhiều kiếp được Pháp thân.
-> 
+>
 > Nguyện nay đắc quả thành Chánh Giác,
-> 
+>
 > Độ thoát chúng sanh như hằng sa.
-> 
+>
 > Hết lòng phụng sự vô số cõi,
-> 
+>
 > Thế mới gọi là đền ơn Phật,
-> 
+>
 > Cúi xin Thế Tôn chứng minh cho,
-> 
+>
 > Ngũ trược ác thế nguyện vào trước,
-> 
+>
 > Nếu một chúng sanh chưa thành Phật,
-> 
+>
 > Quyết chẳng tự mình chứng Niết Bàn,
-> 
+>
 > Đại hùng đại lực đại từ bi,
-> 
+>
 > Mong dứt trừ tập khí vi tế.
-> 
+>
 > Khiến con mau đến Vô Thượng Giác,
-> 
+>
 > Mười phương thế giới tọa đạo tràng.
-> 
+>
 > Dẫu cho hư không bị tiêu mất,
-> 
+>
 > Bổn tâm kiên cố chẳng lay động.
 
 #### GHI CHÚ
@@ -425,10 +425,10 @@ Dịch nghĩa:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển VI"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "15857"
 categories: ["Kinh"]
@@ -643,7 +643,7 @@ Chơn thật tâm như thị. Thế là tâm chơn thật.
 
 #### GHI CHÚ
 
-[^8]: Dược xoa (nhẹ nhàng, nhanh chóng), có 3 loại: *Địa Hành Dược Xoa* (Dùng tài thí nên chẳng thể bay), *Không Hành Dược Xoa*, *Thiên Hành Dược Xoa* (Dùng xe cộ bố thí nên bay được). Khi Phật chuyển pháp luân. Địa Dược Xoa ca ngợi, Không Dược Xoa nghe. Thiên Dược Xoa ca ngợi. Tứ Thiên Vương cho đến Phạm Thiên nghe.
+[^8]: Dược xoa (nhẹ nhàng, nhanh chóng), có 3 loại: _Địa Hành Dược Xoa_ (Dùng tài thí nên chẳng thể bay), _Không Hành Dược Xoa_, _Thiên Hành Dược Xoa_ (Dùng xe cộ bố thí nên bay được). Khi Phật chuyển pháp luân. Địa Dược Xoa ca ngợi, Không Dược Xoa nghe. Thiên Dược Xoa ca ngợi. Tứ Thiên Vương cho đến Phạm Thiên nghe.
 
 [^9]: Càn Thát Bà (tìm mùi hương): Nhạc thần của Đế Thích.
 
@@ -714,13 +714,13 @@ Phật bảo A nan:
 ### LƯỢC GIẢI
 
 > Kinh Hưng Khởi Hành nói:
-Vua nước Tùy La Nhiên thỉnh Phật và 500 vị Tỳ Kheo về nước kiết hạ, vua đích thân cúng dường vừa được sáu ngày thì bị thiên ma mê hoặc, khiến trở về cung vua chìm đắm ngũ dục, quên sự cúng dường. Các Tỳ Kheo phải đi khất thực, mà liên tiếp ba ngày đều chẳng khất được món ăn nào cả.
-Lúc đó, có người nuôi ngựa nói với các Tỳ Kheo rằng: "Nay con có mã mạch, quí Thầy ăn được chăng? Nếu ăn được thì con sẽ cúng dường". Từ đó ăn mã mạch cho đến mãn hạ.
-Phật bảo: "Trong quá khứ đời Phật Tỳ Bà Diếp, ta làm Bà La Môn, thông đạt Tứ Vệ Đà Kinh, có dạy 500 đồng tử trên núi Phạn Chí. Khi ấy, vua thiết hội cúng dường Phật Tỳ Bà Diếp, có một Tỳ Kheo mắc bệnh chẳng đi được. Phật và đại chúng ăn xong, rồi thỉnh thực cho Tỳ Kheo mắc bệnh. Khi đi ngang núi Phạn Chí, Bà La Môn ấy ngửi được mùi cơm rất thơm, nói rằng: "Bọn Sa Môn trọc đầu nên ăn mã mạch, chẳng nên ăn cơm này".
-Các đồng tử cũng nói: "Bọn thầy trò này phải ăn mã mạch mới đúng"!
-Bà La Môn thuở đó tức là ta, 500 đồng tử tức 500 Tỳ Kheo theo ta kiết hạ đây; Tỳ Kheo mắc bệnh tức là Di Lặc. Do nhân duyên này, vào địa ngục trải qua vô số kiếp, nay dù đã đắc đạo, vẫn còn phải chịu quả báo, ăn mã mạch ba tháng.
-Theo nhân quả kể trên, Phật đã từng xả máu thịt cho diều hâu ăn, xả thân mạng cho cọp ăn, mà còn phải chịu quả báo mã mạch. Vậy đâu thể do đốt tay và đốt liều trên thân mà trả hết nợ xưa từ vô thỉ được!
-Sự đốt tay, đốt liều là để tăng cường lòng chánh tín, quên thân vì đạo. Cần phải quên thân hành đạo, cuối cùng mới tự nhiên trả hết nợ xưa, trọn thành Phật đạo.
+> Vua nước Tùy La Nhiên thỉnh Phật và 500 vị Tỳ Kheo về nước kiết hạ, vua đích thân cúng dường vừa được sáu ngày thì bị thiên ma mê hoặc, khiến trở về cung vua chìm đắm ngũ dục, quên sự cúng dường. Các Tỳ Kheo phải đi khất thực, mà liên tiếp ba ngày đều chẳng khất được món ăn nào cả.
+> Lúc đó, có người nuôi ngựa nói với các Tỳ Kheo rằng: "Nay con có mã mạch, quí Thầy ăn được chăng? Nếu ăn được thì con sẽ cúng dường". Từ đó ăn mã mạch cho đến mãn hạ.
+> Phật bảo: "Trong quá khứ đời Phật Tỳ Bà Diếp, ta làm Bà La Môn, thông đạt Tứ Vệ Đà Kinh, có dạy 500 đồng tử trên núi Phạn Chí. Khi ấy, vua thiết hội cúng dường Phật Tỳ Bà Diếp, có một Tỳ Kheo mắc bệnh chẳng đi được. Phật và đại chúng ăn xong, rồi thỉnh thực cho Tỳ Kheo mắc bệnh. Khi đi ngang núi Phạn Chí, Bà La Môn ấy ngửi được mùi cơm rất thơm, nói rằng: "Bọn Sa Môn trọc đầu nên ăn mã mạch, chẳng nên ăn cơm này".
+> Các đồng tử cũng nói: "Bọn thầy trò này phải ăn mã mạch mới đúng"!
+> Bà La Môn thuở đó tức là ta, 500 đồng tử tức 500 Tỳ Kheo theo ta kiết hạ đây; Tỳ Kheo mắc bệnh tức là Di Lặc. Do nhân duyên này, vào địa ngục trải qua vô số kiếp, nay dù đã đắc đạo, vẫn còn phải chịu quả báo, ăn mã mạch ba tháng.
+> Theo nhân quả kể trên, Phật đã từng xả máu thịt cho diều hâu ăn, xả thân mạng cho cọp ăn, mà còn phải chịu quả báo mã mạch. Vậy đâu thể do đốt tay và đốt liều trên thân mà trả hết nợ xưa từ vô thỉ được!
+> Sự đốt tay, đốt liều là để tăng cường lòng chánh tín, quên thân vì đạo. Cần phải quên thân hành đạo, cuối cùng mới tự nhiên trả hết nợ xưa, trọn thành Phật đạo.
 
 <hr class="blog-rule" />
 
@@ -752,10 +752,10 @@ Sự đốt tay, đốt liều là để tăng cường lòng chánh tín, quên
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

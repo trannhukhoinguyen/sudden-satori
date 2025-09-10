@@ -1,10 +1,12 @@
 ---
-title: "DUY LỰC NGỮ LỤC - phần 1"
-description: ""
-excerpt: 
-  ""
-categories: ["FAQ", "Ngữ Lục"]
-tags: ["TS THÍCH DUY LỰC", ]
+title: DUY LỰC NGỮ LỤC - phần 1
+description: ''
+excerpt: ''
+categories:
+  - FAQ
+  - Ngữ Lục
+tags:
+  - TS THÍCH DUY LỰC
 ---
 
 1. Quảng ngữ của Quốc sư Tuệ Trung ở Nam Dương (NAM DƯƠNG HUỆ TRUNG)
@@ -32,4 +34,3 @@ tags: ["TS THÍCH DUY LỰC", ]
 12. Quảng ngữ của Đại Thiền sư Pháp Nhãn Văn Ích (PHÁP NHÃN VĂN ÍCH)
 
 <hr class="blog-rule" />
-

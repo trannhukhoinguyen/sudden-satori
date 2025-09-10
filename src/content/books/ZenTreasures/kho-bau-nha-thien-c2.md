@@ -1,9 +1,12 @@
 ---
-title: "KHO BÁU NHÀ THIỀN"
-description: ""
-categories: ["Sách"]
-tags: ["Kho báu"]
-author: ["TS VĂN THỦ"]
+title: KHO BÁU NHÀ THIỀN
+description: ''
+categories:
+  - Sách
+tags:
+  - Kho báu
+author:
+  - TS VĂN THỦ
 ---
 
 ## Tựa
@@ -36,18 +39,18 @@ Than ôi! Cổ kim khác nhau là chổ này vậỵ.
 
 #### Sách Nhân Thiên Bảo Giám chép:
 
-Thiền sư **Trí** ở núi *Vân Cái*, *Hồ Nam*, ban đêm ngồi trong phương trượng bỗng nghe mùi cháy khét và tiếng gông xiềng, liền thấy có một người mang gong có lửa, ngọn lửa còn cháy bập bùng không dứt, cái đuôi gong tựa vào then cửa.
+Thiền sư **Trí** ở núi _Vân Cái_, _Hồ Nam_, ban đêm ngồi trong phương trượng bỗng nghe mùi cháy khét và tiếng gông xiềng, liền thấy có một người mang gong có lửa, ngọn lửa còn cháy bập bùng không dứt, cái đuôi gong tựa vào then cửa.
 
-- Trí kinh sợ hỏi: *Ông là ai mà phải khổ sở thế này?*
+- Trí kinh sợ hỏi: _Ông là ai mà phải khổ sở thế này?_
 
-- Người mang gông đáp: *Tôi tên Thủ Ngung, trước kia trụ ở núi này, vì không biết nên tôi đem vật đàn việt cúng chúng tăng ra tạo tăng đường mà nay tôi phải chịu cái khổ này.*
+- Người mang gông đáp: _Tôi tên Thủ Ngung, trước kia trụ ở núi này, vì không biết nên tôi đem vật đàn việt cúng chúng tăng ra tạo tăng đường mà nay tôi phải chịu cái khổ này._
 
-- Trí hỏi: *Làm thế nào để được khỏi?*
+- Trí hỏi: _Làm thế nào để được khỏi?_
 
-- Ngung đáp: *Xin ông vì tôi thiết trai cúng dường chúng tăng bằng giá tăng đường thì tôi có thể khỏi*
+- Ngung đáp: _Xin ông vì tôi thiết trai cúng dường chúng tăng bằng giá tăng đường thì tôi có thể khỏi_
 
 Trí đem của cải mình bồi thường đúng như lời Ngung nói.
-Một đêm, nằm mộng thấy Ngung đến nói: “*Nhờ sức của thầy, tôi được khỏi khổ địa ngục sanh vào trời người, ba đời sau tôi sẽ được làm tăng*”.
+Một đêm, nằm mộng thấy Ngung đến nói: “_Nhờ sức của thầy, tôi được khỏi khổ địa ngục sanh vào trời người, ba đời sau tôi sẽ được làm tăng_”.
 Ngày nay cái then cửa hãy còn vết cháỵ
 
 Thanh Quy
@@ -916,20 +919,18 @@ Hòa thượng Cao Phong Diệu nói:
 > Nếu nói là chân thật tham thiền thì cần phải có đủ ba điều quan yếu:
 >
 > 1. Phải có lòng tin lớn lao rõ biết việc này chắc chắn như dựa vào núi Tu Di.
-> 
 > 2. Phải có phẫn chí mạnh mẽ như gặp kẻ thù giết cha mình, muốn hạ nó ngay một dao đứt làm hai đoạn.
-> 
 > 3. Phải khởi đại nghi tình như ở chỗ tối phải tìm nột vật quý, chính ngay lúc muốn lộ ra mà chưa lộ.
 >
 > Trong suốt ngày đêm nếu đầy đủ ba điều thiết yếu này thì bảo đảm có ngày thành công, chẳng sợ con ba ba quậy ở trong chum. Nếu thiếu đi một điều thì cũng như cái đảnh gãy đi một chân ắt thành vô dụng.
 
 Cao Phong Lục
 
-Ngài Cao Phong nói: 
+Ngài Cao Phong nói:
 
 > “Nghi lấy tin làm thể, ngộ lấy nghi làm dụng. Tin được mười phần thì nghi được mười phần. Nghi được mười phần thì ngộ được mười phần”.
 
-Thảo Đường đứng hầu ngài Hối Đường. 
+Thảo Đường đứng hầu ngài Hối Đường.
 Ngài Hối Đường nêu ra câu thoại đầu: Gió, phướn [^3] hỏi Thảo Đường.
 Thảo Đường thưa: _Con hoàn toàn không có chỗ vào_
 
@@ -973,12 +974,12 @@ Hành Lục
 
 Hòa thượng Cao Phong nói:
 
-> Các huynh đệ mười năm, hai mươi năm cho đến suốt cả cuộc đời mình dứt bặt việc thế tục, quên hết các duyên, chỉ dốc chí cốt để biết rõ việc này mà không thấu thoát được là do bệnh ở chỗ nào? 
-> Bổn phận của người xuất gia thử nêu ra xem! Phải chăng từ đời trước không có linh cốt? 
-> Phải chăng không gặp Minh sư? Phải chăng một nóng mười lạnh? 
-> Phải chăng căn cơ yếu kém, chí khí nhỏ hẹp? Phải chăng là chìm đắm trong trần lao? 
-> Phải chăng là trầm không trệ tịch? Phải chăng là tạp độc nhập tâm? 
-> Phải chăng là thời tiết chưa đến? 
+> Các huynh đệ mười năm, hai mươi năm cho đến suốt cả cuộc đời mình dứt bặt việc thế tục, quên hết các duyên, chỉ dốc chí cốt để biết rõ việc này mà không thấu thoát được là do bệnh ở chỗ nào?
+> Bổn phận của người xuất gia thử nêu ra xem! Phải chăng từ đời trước không có linh cốt?
+> Phải chăng không gặp Minh sư? Phải chăng một nóng mười lạnh?
+> Phải chăng căn cơ yếu kém, chí khí nhỏ hẹp? Phải chăng là chìm đắm trong trần lao?
+> Phải chăng là trầm không trệ tịch? Phải chăng là tạp độc nhập tâm?
+> Phải chăng là thời tiết chưa đến?
 > Phải chăng là chẳng nghi ngôn cú? Phải chăng là chưa đắc nói đắc, chưa chứng nói chứng? Nếu luận về bệnh nặng thì hoàn toàn chẳng phải là các bệnh đã kể trên. Đã chẳng phải như đã nói thì rốt cuộc ở chỗ nào? (Tiếng quát).
 >
 > Dưới đây đòn tay ba cành, trước cái đơn bảy thước [^4].
@@ -1177,7 +1178,7 @@ Thiền sư Đại Huệ nói:
 
 > Như rồng được nửa chén nước, có thể làm dậy mây mù, giáng trận mưa to, đâu cần đến cái biển lớn như cá côn nói: “Tôi có rất nhiều nước”.
 
-Ngài Đại Huệ nói: 
+Ngài Đại Huệ nói:
 
 > Ở đây ta không có thiền tiến dài theo ngày tháng. Bèn búng ngón tay một cái, rồi nói: Nếu hội thì bãi tham.
 
@@ -1247,7 +1248,7 @@ Về sau có người đem câu chuyện này hỏi ngài Triệu Châu, Triệu
 
 Hôm sau, Ngài đi và cũng hỏi như vậy, bà già cũng đáp y như vậy.
 
-*
+-
 
 Triệu Châu đến chỗ của một am chủ hỏi:
 
@@ -1271,7 +1272,7 @@ Sư hỏi:
 
 Am chủ bèn cúi lạy.
 
-*
+-
 
 Tăng hỏi Hòa thượng Thanh Bình:
 
@@ -1310,7 +1311,7 @@ Nam Tuyền nói:
 Tăng hỏi Hòa thượng Động Sơn :
 
 - Phật là gì?
-Sư đáp:
+  Sư đáp:
 
 - Ba cân mè.
 
@@ -1324,7 +1325,7 @@ Sư đáp:
 
 Que chùi phân.
 
-*
+-
 
 Tăng hỏi Hòa thượng Dương Kỳ:
 
@@ -1364,8 +1365,6 @@ Người người học vô vi
 
 Tâm không, thi đậu về.
 
-
-
 Tăng hỏi Hòa thượng Nham Đầu:
 
 - Lúc buồm xưa chưa treo thì thế nào?
@@ -1392,11 +1391,7 @@ Sơ Sơn hỏi:
 
 Sư cười ha hả, đi về phương trượng.
 
-
-
-*
-
-
+-
 
 Hòa thượng Bảo Thọ khai đường nói pháp, Tam Thánh xô ra một ông Tăng. Sư
 
@@ -1407,11 +1402,12 @@ Tam Thánh nói:
 - Vì người mà làm như thế, chẳng những làm mù mắt ông Tăng này mà còn làm mù mắt cả thành Trấn Châu.
 
 Pháp Nhãn nói:
+
 - Chỗ nào là chỗ làm mù mắt người?
 
 Sư ném cây gậy xuống, liền đi về phương trượng.
 
-*
+-
 
 Hòa thượng Tam Thánh thượng đường nói:
 
@@ -1479,7 +1475,7 @@ Tây Viện liền đánh Sư im lặng giây lâu. Tây Viện nói:
 
 Ngay lời này, Sư liền đại ngộ.
 
-*
+-
 
 Tăng thưa Triệu Châu:
 
@@ -1497,7 +1493,7 @@ Về sau, Đại sư Vân Môn làm lời niêm rằng: “Hãy nói xem là có
 
 không chỉ dạy? Nếu nói có, thì Triệu Châu dạy cái gì cho ông Tăng kia? Nếu nói không, thì ông Tăng kia làm sao ngộ?”
 
-*
+-
 
 Thiền sư Điểu Sào Đạo Lâm, nhân thị giả Hội Thông đến lạy từ giã thưa:
 
@@ -1513,7 +1509,7 @@ Sư bảo:
 
 Sư bứt cái lông của vải áo giơ lên thổi ngay mặt, thị giả liền đại ngộ.
 
-*
+-
 
 Thiền sư Long Đàm Tín một hôm thưa với Thiên Hoàng:
 
@@ -1543,7 +1539,7 @@ Sư liền ngộ và hỏi:
 
 chứ không có thánh giải nào khác.
 
-*
+-
 
 Tăng hỏi Triệu Châu:
 
@@ -1565,7 +1561,7 @@ từ Ấn Độ sang?
 
 Ngay lời này, vị Tăng liền đại ngộ.
 
-*
+-
 
 Hòa thượng Diệp Huyện Tỉnh, nhân Tăng thỉnh ích về câu thoại đầu “Cây bách
 
@@ -1593,11 +1589,12 @@ Rõ ràng từng giọt
 
 Ngay đó tâm tuyệt.
 
-*
+-
 
 Hòa thượng Động Sơn Sơ lúc mới tham vấn Vân Môn.
 
 Vân Môn hỏi:
+
 - Vừa từ đâu đến?
 
 Sư thưa:
@@ -1632,7 +1629,7 @@ Vân Môn nói:
 
 Sư liền lễ bái.
 
-*
+-
 
 Tôn giả Nghiêm Dương lúc mới đến tham Triệu Châu, hỏi:
 
@@ -1648,7 +1645,7 @@ Triệu Châu đáp:
 
 Ngay lời này, Sư liền đại ngộ.
 
-*
+-
 
 Có vị Tăng hỏi Thiền sư Quy Tông Thức Nhãn:
 
@@ -1670,7 +1667,7 @@ Quy Tông đáp:
 
 Ngay lời này, Tăng hốt nhiên khế ngộ.
 
-*
+-
 
 Pháp Nhãn đã từng tham Địa Tạng. Một hôm, Ngài trình kiến giải nói về đạo lý.
 
@@ -1688,7 +1685,7 @@ Sư thưa :
 
 Ngay lời này, Pháp Nhãn đại ngộ.
 
-*
+-
 
 Thiền sư Hương Nghiêm Nhàn đến tham Quy Sơn.
 
@@ -1718,7 +1715,7 @@ Pháp thân cũng có hai thứ bệnh: Được đến pháp thân, mà vì ph�
 
 Ngài Đại Huệ nói: Ngày nay, người học Phật pháp lấy sự thấu qua pháp thân làm cùng tột mà ngài Vân Môn trái lại cho đó là bệnh. Chẳng biết thấu qua pháp thân rồi, phải làm gì? Đến đây như người uống nước lạnh nóng tự biết, chẳng cho hỏi người khác, hỏi người khác ắt là tai họa.
 
-*
+-
 
 Thiền Sư Động Sơn Giới nói:
 
@@ -1730,7 +1727,7 @@ Thời đại mạt pháp con người nhiều càn huệ, muốn phân biệt c
 
 3/ Ngữ sấm lậu: Nghĩa là thể diệu mất tông, cơ muội sau trước. Người học trí ô trược lưu chuyển chẳng ra ngoài cái loại thứ ba này. Ngài Minh An nói: Thể diệu mất tông là kẹt nơi đường ngôi ngữ, câu mất tông chỉ, cơ muội sau trước là kẻ đương cơ tối tăm chỉ nhận trên ngôn ngữ nên tông chỉ chẳng viên mãn. Mỗi câu phải là vô ngữ trong hữu ngữ, hữu ngữ trong vô ngữ thì mới được cái diệu chỉ mật viên.
 
-*
+-
 
 Quốc sư Vô Nghiệp nói:
 
@@ -1738,28 +1735,31 @@ Giả sử có người ngộ lý có một tri một giải mà chẳng biết 
 
 Truyền Đăng Lục
 
-*
+-
 
 Thiền sư Viên Ngộ nói:
 
 Người đại tử [1]đều không có Phật pháp, đạo lý huyền diệu, đắc thất, thị phi, trường đoản. Đến chỗ này mà thôi nghỉ thì Cổ nhân gọi đó là trên đất bằng người chết vô số, qua được rừng gai góc mới là tay tài giỏi, cần phải thấu qua bờ bên kia mới được. Tuy nhiên như thế, nhưng người đời nay đến được chỗ đất này cũng thật là hiếm có. Hoặc như có người do nương tựa mà được giải hội thì không dính dáng gì. Hòa thượng Mai gọi đó là cái thấy chẳng tinh khiết, Tiên sư Ngũ Tổ gọi đó là mạng căn chẳng cắt đứt, phải một phen đại tử rồi sống lại mới được. Hòa thượng Chiết Trung Vĩnh Quang nói: Ngôn phong nếu sai, quê hương xa vạn dặm, phải trên vực thẳm buông tay, tự chịu đảm đương, chết đi sống lại, dối ông chẳng được, ý chỉ phi thường, người đâu giấu được.
 
 Bích Nham
-*
+
+-
 
 Cổ nhân nói:
 
 “Nương theo lời cần phải hội được tông, chớ tự thiết lập quy củ”. Như người đời nay cho rằng cứ đuổi đi là xong, được thì được đó, nhưng vẫn còn ở trong mịt mờ lầm lạc. Nếu họ đến trước mặt bậc tác giả, các Ngài đem ba yếu ngữ ấn không, ấn bùn, ấn nước để nghiệm họ thì sẽ thấy như cây vuông tra vào lỗ tròn, không thể nào được!
 
 Bích Nham
-*
+
+-
 
 Thiền sư Viên Ngộ nói:
 
 Người học đạo bắt đầu có niềm tin, chán thế gian phiền rộn, rất sợ chẳng được lối vào. Đã gặp thầy chỉ thị hoặc nhân tự mình phát minh được cái chân tâm mầu nhiệm viên mãn, vốn tự đầy đủ từ xưa đến nay. Chạm cảnh gặp duyên tự biết mình không dính mắc, liền bảo thủ chỗ đó. Sợ chẳng thể ra được nên bèn làm khuôn sáo, ở trên cơ cảnh lập chiếu lập dụng, buông một tiếng hét, một cái đánh, nhướng mày trợn mắt một cách kỳ đặc, lại gặp bậc thầy đắc đạo tước đoạt cho hết những cái tri giải như thế, liền đó khế chứng cảnh giới bổn lai vô vi, vô sự, vô tâm, rồi sau đó mới hổ thẹn vì biết rằng chỗ cứu cánh hãy còn mờ mịt. Chư Thánh còn tìm chỗ khởi của nó chẳng được, huống là người khác! Sở dĩ ngài Nham Đầu nói: “Người được nó chỉ giữ chỗ nhàn nhàn, trong suốt 24 giờ đồng hồ vô dục, vô y, đâu chẳng phải là pháp môn an lạc!”.
 
 Tâm Yếu
-*
+
+-
 
 Hòa thượng Lạc Phổ thượng đường nói:
 
@@ -1773,14 +1773,16 @@ Hòa thượng BạchVân Đoan nói:
 Cần phải ngộ mới được! Sau khi ngộ rồi, cần phải gặp thiện tri thức. Nhà ngươi nói: Ngộ rồi là xong, đâu cần gặp thiện tri thức. Nếu ngộ rồi lại gặp thiện tri thức thì đương lúc ra tay làm phương tiện hằn tự có đường xuất thân, chẳng làm mù mắt người học. Còn nếu chỉ ngộ được đầu cây cải khô thì chẳng những làm mù mắt người học mà khi chính mình cử động trước tiên phạm nhằm mũi nhọn bị thương tay.
 
 Hội Nguyên
-*
+
+-
 
 Hòa thượng Ngũ Diện nói:
 
 Có một bọn tham thiền như giã bột lọc trong bình lưu ly, lại động chuyển chẳng được, xông xáo chẳng được, chạm nhằm liền vỡ. Nếu muốn đến chỗ sống linh hoạt thì chỉ cần tham thẳng nơi cái đảy da rách này[2]. Phải hướng thẳng lên núi cao chót vót buông tay xuống mà cũng chẳng bị vỡ, cũng chẳng bị hư.
 
 Bích Nham
-*
+
+-
 
 Hòa thượng Hối Đường dạy chúng:
 
@@ -1797,7 +1799,8 @@ Thể không đi, trụ
 Đó sao!
 
 Chánh Pháp Nhãn Tạng
-*
+
+-
 
 Hòa thượng Diệp Huyện Tỉnh nói:
 
@@ -1812,8 +1815,6 @@ Câu thứ hai: Xoay nhân về quả, chẳng mắc vào lý bình thường nh
 
 Châu thứ ba: Biết rõ cái gốc tánh tướng đại trí, kiến giải vượt bực, tối sáng rỗng suốt, trùm khắp pháp giới một thể tánh chân thật, đại dụng hiện tiền, ứng hóa cùng khắp mọi nơi, toàn dụng toàn bất dụng, toàn sanh toàn bất sanh, phương tiện gọi là cái cửa từ định.
 
-
-
 [1] Người đại tử là người hoàn toàn bặt hết tình thức như người chết, để rồi sau đó sống lại với cái tâm chân thật bất sanh bất diệt sẵn có của mình (hoát nhiên đại ngộ)
 
 [2] Chỉ cho tự kỷ
@@ -1826,7 +1827,7 @@ Viễn Lục Công nói:
 
 Bích Nham
 
-*
+-
 
 Thiền sư Hoàng Long Tâm sau khi đại ngộ vẫn sống chung lộn với chúng và thường hay vãng quyết cu Vân Môn. Ngài Huệ Nam thấy thế hỏi:
 
@@ -1840,7 +1841,7 @@ Ngài Huệ Nam công nhận.
 
 Tăng Bảo Truyện
 
-*
+-
 
 Thiền sư Viên Ngộ nói:
 
@@ -1858,7 +1859,7 @@ Kiến giải, ngôn ngữ thảy cần phải biết cho thấu triệt, nhưng
 
 Hội Nguyên
 
-*
+-
 
 Thiền sư Đại Huệ nói:
 
@@ -1890,29 +1891,27 @@ Hòa thượng **Thủ Sơn Niệm** dạy chúng:
 
 ## Chương 21 - Học Đạo Cần Phải Biện Công Phu Thực Tiễn [🔗](/books/ZenTreasures/kho-bau-nha-thien-c21)
 
-- Hoàng đế Đường Tuyên Tông hỏi Thiền sư Hoàng Biện: *Đốn kiến là gì? Tiệm tu là gì?*
+- Hoàng đế Đường Tuyên Tông hỏi Thiền sư Hoàng Biện: _Đốn kiến là gì? Tiệm tu là gì?_
 
-- Sư đáp: *Liền rõ tự tánh cùng Phật không khác là đốn kiến, nhưng vì ô nhiễm huân tập từ vô thỉ nên phải nhờ có tiệm tu để đối trị, khiến thuận theo tánh mà khởi dụng, như người ăn cơm chẳng phải một búng liền no.*
+- Sư đáp: _Liền rõ tự tánh cùng Phật không khác là đốn kiến, nhưng vì ô nhiễm huân tập từ vô thỉ nên phải nhờ có tiệm tu để đối trị, khiến thuận theo tánh mà khởi dụng, như người ăn cơm chẳng phải một búng liền no._
 
+- Hòa thượng Quy Sơn thượng đường dạy: _Tâm của người học đạo phải ngay thẳng chân thật, không dối trá, không có tâm hạnh sau lưng trước mặt lừa phỉnh, bất cứ lúc nào thấy nghe bình thường không chiều uốn, cũng chẳng phải nhắm mắt bịt tai, chỉ cần tâm chẳng chạy theo vật là được. Từ trước, các Thánh chỉ nói: “Bên bợn nhơ là lỗi lầm”. Nếu không có các thứ thấy biết xấu xa, chấp trước theo tình và thói quen vọng tưởng nhiều như thế thì ví như nước mùa thu lóng đứng trong trẻo lặng yên, không động không ngại, gọi người này là đạo nhân, cũng gọi là người vô sự._
 
+- Khi ấy, có vị Tăng hỏi: _Người đốn ngộ rồi còn tu nữa chăng?_
 
-- Hòa thượng Quy Sơn thượng đường dạy: *Tâm của người học đạo phải ngay thẳng chân thật, không dối trá, không có tâm hạnh sau lưng trước mặt lừa phỉnh, bất cứ lúc nào thấy nghe bình thường không chiều uốn, cũng chẳng phải nhắm mắt bịt tai, chỉ cần tâm chẳng chạy theo vật là được. Từ trước, các Thánh chỉ nói: “Bên bợn nhơ là lỗi lầm”. Nếu không có các thứ thấy biết xấu xa, chấp trước theo tình và thói quen vọng tưởng nhiều như thế thì ví như nước mùa thu lóng đứng trong trẻo lặng yên, không động không ngại, gọi người này là đạo nhân, cũng gọi là người vô sự.*
-
-- Khi ấy, có vị Tăng hỏi: *Người đốn ngộ rồi còn tu nữa chăng?*
-
-- Sư bảo: *Nếu người khi thật ngộ được bản tánh thì họ tự biết, tu cùng không tu chỉ là lời nói hai đầu. Như nay có người sơ tâm tuy từ duyên được một niệm đốn ngộ chân lý nơi mình, nhưng vẫn còn tập khí nhiều kiếp từ vô thỉ chưa có thể liền hết, nên cần phải dạy hắn trừ sạch dòng thức tạo nghiệp hiện tại, tức là tu vậy. Không nên nói có một pháp riêng dạy hắn tu hành thú hướng. Từ nghe vào được lý, nghe lý sâu mầu tâm tự tròn sáng không có chỗ mê lầm, hiện thời dù có trăm nghìn diệu nghĩa thăng trầm, hắn vẫn được ngồi mặc áo, tự biết tạo sanh kế.*
+- Sư bảo: _Nếu người khi thật ngộ được bản tánh thì họ tự biết, tu cùng không tu chỉ là lời nói hai đầu. Như nay có người sơ tâm tuy từ duyên được một niệm đốn ngộ chân lý nơi mình, nhưng vẫn còn tập khí nhiều kiếp từ vô thỉ chưa có thể liền hết, nên cần phải dạy hắn trừ sạch dòng thức tạo nghiệp hiện tại, tức là tu vậy. Không nên nói có một pháp riêng dạy hắn tu hành thú hướng. Từ nghe vào được lý, nghe lý sâu mầu tâm tự tròn sáng không có chỗ mê lầm, hiện thời dù có trăm nghìn diệu nghĩa thăng trầm, hắn vẫn được ngồi mặc áo, tự biết tạo sanh kế._
 
 Nói tóm lại, chỗ lý chân thật không nhận một mảy bụi, trong cửa muôn hạnh chẳng bỏ một pháp. Nếu được như vậy là một mình cầm đao xông thẳng vào, lòng phàm thánh sạch, hiện bày chân thường, lý sự không hai, tức Như Như Phật.
 
 Hội Nguyên
 
-*
+-
 
 Đạt Ma bảo Nhị Tổ:
 
 Chánh pháp nhãn tạng nay ta phó chúc cho ông. Sau khi ta diệt độ hai trăm năm, y ngưng lại chẳng truyền, pháp bủa cùng khắp, kẻ biết đạo thì nhiều, người hành đạo thì ít, kẻ nói lý thì nhiều, người thông lý thì ít, người thầm khế hợp mật chứng hơn cả ngàn muôn. Ông nên xiển dương, chớ khinh người chưa ngộ, một niệm hồi cơ bèn đồng bản đắc.
 
-*
+-
 
 Có vị Tăng hỏi Hòa thượng Đại Châu:
 
@@ -1928,27 +1927,30 @@ Thiền sư Dũng Tuyền Hân thượng đường dạy:
 Ta bốn mươi chín năm tại chỗ này còn có tẩu tác, bọn các ông chở mở miệng to. Kẻ kiến giải thì nhiều, còn người hạnh giải thì trong muôn người mới có một. Kiến giải, ngôn ngữ thảy cần phải cho thấu triệt, nhưng nếu thức tình chẳng hết thì tôi dám nói là hãy còn luân hồi. Sao vậy? Bởi vì thức lậu thì bấy giờ mới được tự thành tự lập.
 
 Hội Nguyên
-*
+
+-
 
 Thiền sư Đại Huệ nói:
 
 Việc này thật chẳng phải dễ dàng, cần phải sanh lòng hổ thẹn mới được. Thường thường người lợi căn thượng trí được nó chẳng phí sức bèn sanh tâm khinh dễ mà không tu hành. Họ phần đông bị cảnh giới trước mắt cướp đoạt mang đi, làm chủ tể chẳng được, ngày qua tháng lại mê man chẳng tỉnh, đạo lực không thắng được nghiệp lực, nên ma được dịp thuận tiện phá hoại, chắc chắn bị ma nắm quyền sai sử đến lúc mạng chung cũng chẳng đắc lực.
 
-*
+-
 
 Thiền sư Viên Ngộ nói:
 
 Như người học bắn lâu ngày mới bắn trúng đích, ngộ thì khoảng sát na mà công phu tu hành cần phải hàm dưỡng lâu dài. Như con chim bột cưu mới nở ra xương đã đỏ, nuôi dưỡng đút mồi, ngày qua tháng lại lông cánh đầy đủ mới có thể bay liệng cao xa được, do đó người ngộ thấu triệt rồi, còn cần phải điều phục tập khí nữa!
 
 Tâm Yếu
-*
+
+-
 
 Ngài Viên Ngộ nói:
 
 - Lý cần phải đốn ngộ. Sự cần phải tiệm tu.
 
 Tâm Yếu
-*
+
+-
 
 Ngài Nam Tuyền nói: Ta lúc trên mười tám tuổi đã biết tại sinh kế.
 
@@ -1960,7 +1962,7 @@ Thiền sư Động Sơn Giới nói: Cần phải tâm tâm không chạm vật
 
 Truyền Đăng Lục
 
-*
+-
 
 Thiền sư Đại Từ Hoàn Trung nói:
 
@@ -1975,20 +1977,22 @@ Hòa thượng Hối Đường Tâm nói:
 - Tôi đầu tiên vào đạo tự thị rất dễ, đến khi gặp Tiên sư Hoàng Long rồi, nghĩ lại mọi việc hằng ngày của mình cùng với lý mâu thuẫn rất nhiều, bèn nổi lực tu hành ba năm dẫu cho lạnh lẽo, nóng bức chí thẳng đổi dời. Sau đó, mới được mọi việc đúng như lý, mà nay khạc nhổ, quơ tay cũng đều là ý Tổ sư từ Ấn Độ sang.
 
 Thiền Môn Bảo Huấn
-*
+
+-
 
 Hòa thượng Hương Lâm Viễn nói:
 
 Lão tăng phải mất bốn mươi năm mới “nhồi thành một khối” được. Ngài Viên Ngộ nhắc lại lời này để khuyên người muốn triệt ngộ phải siêng năng thực hiện công phu. Thật là có ý!
 
-*
+-
 
 Thiền sư Khuê Phong nói:
 
 Chân lý liền ngộ mà chóng viên mãn, vọng tình muốn dứt phải dần dần mới hết. Chóng viên mãn như trẻ mới sanh ra một ngày mà chi thể đã hoàn toàn đầy đủ. Tiệm tu như nuôi dưỡng nó nhiều năm chí khí mới lập.
 
 Hội Nguyên
-*
+
+-
 
 Thượng thư Ôn Tháo ở Sơn Nam hỏi ngài Khuê Phong:
 
@@ -1998,7 +2002,7 @@ Sư đáp:
 
 Tất cả chúng sanh không ai chẳng đủ giác tánh linh minh không tịch cùng Phật không khác. Chỉ vì từ vô thỉ kiếp đến nay chưa từng liễu ngộ, vọng chấp thân làm ngã tướng nên sanh ra các thứ tình cảm thương, ghét… Theo tình tạo nghiệp, theo nghiệp thọ báo, sanh già bệnh chết nhiều kiếp luân hồi. Nhưng giác tánh trong thân chưa từng sanh tử, như chiêm bao thấy bị đuổi rượt mà thân vốn an nhàn, như nước thành băng mà tánh ướt vẫn không đổi. Nếu hay ngộ được tánh này tức là pháp thân vốn tự vô sanh đâu có nương gá, linh minh chẳng muội, rõ ràng thường biết, không từ đâu đến, cũng không đi về đâu. Nhưng vọng chấp nhiều đời, tập quán thành tánh mừng, giận, buồn, vui vi tế lưu chú. Chân lý tuy nhiên liền đạt mà tình này khó thể dẹp ngay, cần phải luôn luôn giác sát để cho chúng càng ngày càng tổn giảm như gió ngừng liền mà sóng từ từ mới lặng, đâu thể tu một đời mà liền đồng lực dụng của chư Phật. Chỉ nên lấy không tịch làm tự thể chớ nhận sắc thân; lấy linh tri làm tự tâm, chớ nhận vọng niệm. Vọng niệm nếu khởi đều chẳng theo nó thì đến lúc mạng chung nghiệp không trói buộc được, tuy có thân trung ấm mà chỗ đi tự do, trên trời trong người tuỳ ý nương gởi. Nếu niệm thương ghét đã hết thì chẳng thọ thân phần đoạn, tự có thể đổi dở thành hay, đổi thô thành diệu. Nếu vi tế lưu chú tất cả đều lặng hết thì chỉ có viên giác đại trí chói sáng riêng còn, liền tùy cơ ứng hiện trăm ngàn muôn ức hóa thân độ chúng sanh có duyên, gọi đó là Phật.
 
-*
+-
 
 Hòa thượng Viên Ngộ nói:
 
@@ -2020,19 +2024,19 @@ Tâm Yếu
 
 - Quan Thị lang Bạch Cư Dị từng hỏi rằng: Đã gọi là Thiền sư, tại sao thuyết pháp?
 
-- Sư đáp: *Vô thượng Bồ đề mang ở thân là luật, nói ở miệng là pháp, hành ở tâm là thiền.
-Ứng dụng có ba, nhưng chỉ một mối. Ví như nước sông Hoài, sông Hán tùy theo chỗ đặt tên, tên tuy chẳng phải một mà tánh nước không hai.
-Luật tức là pháp, pháp chẳng rời thiền, tại sao trong đó lại lầm khởi phân biệt!*
+- Sư đáp: _Vô thượng Bồ đề mang ở thân là luật, nói ở miệng là pháp, hành ở tâm là thiền.
+  Ứng dụng có ba, nhưng chỉ một mối. Ví như nước sông Hoài, sông Hán tùy theo chỗ đặt tên, tên tuy chẳng phải một mà tánh nước không hai.
+  Luật tức là pháp, pháp chẳng rời thiền, tại sao trong đó lại lầm khởi phân biệt!_
 
-- *Đã không phân biệt thì lấy gì để tu tâm?*
+- _Đã không phân biệt thì lấy gì để tu tâm?_
 
-- *Tâm vốn không tổn thương, đâu cần tu sửa. Không luận nhơ cùng sạch, nhất thiết đừng khởi niệm.*
+- _Tâm vốn không tổn thương, đâu cần tu sửa. Không luận nhơ cùng sạch, nhất thiết đừng khởi niệm._
 
-- *Nhơ chẳng nên niệm thì phải, còn sạch cũng chẳng nên niệm nữa sao?*
+- _Nhơ chẳng nên niệm thì phải, còn sạch cũng chẳng nên niệm nữa sao?_
 
-- *Như không nên bỏ một vật gì hết vào trong con mắt, mạt vàng tuy quý nhưng rơi vào con mắt cũng thành bệnh.*
+- _Như không nên bỏ một vật gì hết vào trong con mắt, mạt vàng tuy quý nhưng rơi vào con mắt cũng thành bệnh._
 
-- *Vô tu, vô niệm thì đâu có khác gì phàm phu?*
+- _Vô tu, vô niệm thì đâu có khác gì phàm phu?_
 
 Phàm phu vô minh, Nhị thừa chấp trước, lìa hai bệnh này gọi là chân tu.
 Người chân tu chẳng được siêng, chẳng được quên.
@@ -2042,14 +2046,13 @@ Quên tức là rơi vào vô minh.
 
 Hội Nguyên
 
+- Hòa thượng Quy Sơn hỏi Ngưỡng Sơn: _Này Huệ Tịch! Tâm thức ông vi tế lưu chú không đến đã được mấy năm rồi?_
 
-- Hòa thượng Quy Sơn hỏi Ngưỡng Sơn: *Này Huệ Tịch! Tâm thức ông vi tế lưu chú không đến đã được mấy năm rồi?*
+- Ngưỡng Sơn chưa vội đáp, hỏi vặn lại: _Hòa thượng không đến đã được mấy năm rồi?_
 
-- Ngưỡng Sơn chưa vội đáp, hỏi vặn lại: *Hòa thượng không đến đã được mấy năm rồi?*
+- Lúc đó, Tổ Quy Sơn bảy mươi tuổi, đáp Ngưỡng Sơn: _Lão tăng không đến đã 7 năm rồi._
 
-- Lúc đó, Tổ Quy Sơn bảy mươi tuổi, đáp Ngưỡng Sơn: *Lão tăng không đến đã 7 năm rồi.*
-
-- Ngưỡng Sơn thưa: *Huệ Tịch con chính đang náo loạn.*
+- Ngưỡng Sơn thưa: _Huệ Tịch con chính đang náo loạn._
 
 Lời bình của ngài Đại Huệ: Lấy đây mà xét, chỗ này lấy thô tâm nói không để mà dối nhau được chăng? Thật ra, phải là người có lực lượng lớn mới được!
 
@@ -2059,14 +2062,13 @@ Lời bình của ngài Đại Huệ: Lấy đây mà xét, chỗ này lấy th�
 
 Từ lâu tập sách này hoàn thành đến chương Nơi Hoàn Toàn Thôi Nghỉ, tôi không viết thêm nữa.
 
-- Một hôm, có một vị tăng hỏi: *Am chủ trứ tác tập này rất tiện cho người sơ học xem. Nhưng đến chương Nơi Hoàn Toàn Thôi Nghỉ, tại sao Ngài không viết?*
+- Một hôm, có một vị tăng hỏi: _Am chủ trứ tác tập này rất tiện cho người sơ học xem. Nhưng đến chương Nơi Hoàn Toàn Thôi Nghỉ, tại sao Ngài không viết?_
 
-- Tôi đáp: *Ta chẳng biết, ta chẳng hội.*
+- Tôi đáp: _Ta chẳng biết, ta chẳng hội._
 
-- Tăng hỏi: *Am chủ vì sao lời chưa hết?*
+- Tăng hỏi: _Am chủ vì sao lời chưa hết?_
 
 Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: “Bốn oan nghi trong núi” để trình bày cái chí của mình như sau:
-
 
 #### Đi trong núi
 
@@ -2078,7 +2080,6 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 >
 > Cùng ai chiếc gậy thầm kinh nhau kìa!
 
-
 #### Đứng trong núi
 
 > Chỉ hằng biết chiều chiều sớm sớm
@@ -2088,7 +2089,6 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 > Muôn non nghìn núi uy nghi
 >
 > Nộ cuồng thét tiếng vang trời đáp ngay.
-
 
 #### Ngồi trong núi
 
@@ -2100,7 +2100,6 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 >
 > Đem manh y rách khâu lần cho vui.
 
-
 #### Nằm trong núi
 
 > Bụng no nê đánh khò một giấc
@@ -2110,7 +2109,6 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 > Mừng thay! Chẳng kẻ tìm ta
 >
 > May thay! Hàng ế không người tìm mua.
-
 
 Phụ dịch âm chữ Hán:
 
@@ -2122,7 +2120,6 @@ Phụ dịch âm chữ Hán:
 >
 > Quy lai trượng tử ám tương kinh.
 
-
 #### Sơn trung trụ
 
 > Chỉ thức tùng triêu hựu đáo mộ
@@ -2131,7 +2128,6 @@ Phụ dịch âm chữ Hán:
 >
 > Vạn nhạc thiên phong nổ lực nộ.
 
-
 #### Sơn trung tọa
 
 > Kháo thủ Tu Di na nhất tọa
@@ -2139,7 +2135,6 @@ Phụ dịch âm chữ Hán:
 > Bất thị quyện thiền học lạc đà
 >
 > Thời bả nạp y dục bổ phá.
-
 
 #### Sơn trung ngoạ
 
@@ -2160,7 +2155,6 @@ Khi tôi được xem qua thì thấy từ ngữ dùng lẫn lộn cho nhau rấ
 Vĩnh Nguyên, Tiểu Tỳ kheo Huệ Tuần
 
 Cẩn bạt.
-
 
 Trong bộ Thiền Học Đại Thành, nguyên tác chữ Hán, thì tập Truy Môn Bảo Tạng chia thành ba quyển. Riêng đây, vì muốn cho các chương được liên tục nên được xếp từ chương I đến chương XXII
 

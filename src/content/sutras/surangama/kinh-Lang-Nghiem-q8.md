@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển VIII"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "20812"
 categories: ["Kinh"]
@@ -45,145 +45,145 @@ pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 
 - A Nan! Người giữ giới trong sạch như thế, tâm chẳng tham dâm thì chẳng dong ruổi theo lục trần bên ngoài, do sự chẳng dong ruổi tự xoay về bản tánh, đã chẳng duyên theo cảnh trần thì lục căn chẳng chỗ nương tựa, ngược dòng về Nhất, lục dụng chẳng thành, mười phương quốc độ sáng suốt trong sạch, ví như lưu ly, bên trong có trăng sáng (tự chiếu vô năng sở), thân tâm an lạc, diệu viên bình đẳng, được đại yên ổn, tất cả mật viên tịnh diệu của Như Lai đều hiện trong đó, người ấy liền được vô sanh pháp nhẫn. Từ đó dần dần tùy theo cấp bậc tu chứng an lập thánh vị, ấy gọi là tiệm thứ tu hành tinh tấn thứ ba.
 
-- A Nan! Thiện nam tử ấy, dục ái khô cạn, căn và cảnh chẳng duyên nhau, cái báo thân hiện tiền này chẳng còn tiếp tục sanh nữa, giữ tâm rỗng sáng, thuần là trí huệ; tánh trí huệ sáng suốt chiếu mười phương cõi. Chỉ có cái huệ khô cạn ấy, gọi là *Càn Huệ Địa*.
+- A Nan! Thiện nam tử ấy, dục ái khô cạn, căn và cảnh chẳng duyên nhau, cái báo thân hiện tiền này chẳng còn tiếp tục sanh nữa, giữ tâm rỗng sáng, thuần là trí huệ; tánh trí huệ sáng suốt chiếu mười phương cõi. Chỉ có cái huệ khô cạn ấy, gọi là _Càn Huệ Địa_.
 
 ### THẬP TÍN
 
-1. Tập khí tham dục mới cạn, chưa nối được dòng pháp của Như Lai, tức dùng tâm này chảy vào trung đạo, tánh viên diệu được mở mang, từ chỗ chơn diệu viên lại phát ra chơn diệu, diệu tín thường trụ, tất cả vọng tưởng đều dứt sạch, trung đạo thuần chơn, gọi là *Tín Tâm Trụ*.
+1. Tập khí tham dục mới cạn, chưa nối được dòng pháp của Như Lai, tức dùng tâm này chảy vào trung đạo, tánh viên diệu được mở mang, từ chỗ chơn diệu viên lại phát ra chơn diệu, diệu tín thường trụ, tất cả vọng tưởng đều dứt sạch, trung đạo thuần chơn, gọi là _Tín Tâm Trụ_.
 
 ### LƯỢC GIẢI
 
 > Khi tham dục mới cạn, chưa nối được dòng pháp của Như Lai, tức dùng tâm này chảy vào trung đạo, chẳng nghiêng bên Không, chẳng nghiêng bên Giả, cũng chẳng trụ nơi Trung đạo, từ đây khởi quán:
-Không, Giả, Trung, tam đế viên dung, gọi là Viên Diệu; ở đây tâm thức có thể đến. Khi giác quán đã thành, từ chơn phát diệu, khế hợp lý viên, thì gọi là Diệu Viên, chỗ này tâm thức chẳng thể đến. Nếu trung đạo nương theo chơn, thì sự diệu, chưa phải chơn, từ chơn phát diệu, diệu ấy mới là Chơn Diệu.
-Diệu chưa phải chơn, nên chẳng thể thường trụ, trung đạo thuần chơn, nên diệu được thường trụ. Diệu đã thường trụ thì tất cả vọng tưởng chẳng có chỗ dựa. Nói "Diệu" là tự cảm thấy bất khả tư nghì, chẳng thể dùng ngôn ngữ tỏ bày, lòng tin tự tâm rất chơn thật, nên gọi là Tín Tâm Trụ.
+> Không, Giả, Trung, tam đế viên dung, gọi là Viên Diệu; ở đây tâm thức có thể đến. Khi giác quán đã thành, từ chơn phát diệu, khế hợp lý viên, thì gọi là Diệu Viên, chỗ này tâm thức chẳng thể đến. Nếu trung đạo nương theo chơn, thì sự diệu, chưa phải chơn, từ chơn phát diệu, diệu ấy mới là Chơn Diệu.
+> Diệu chưa phải chơn, nên chẳng thể thường trụ, trung đạo thuần chơn, nên diệu được thường trụ. Diệu đã thường trụ thì tất cả vọng tưởng chẳng có chỗ dựa. Nói "Diệu" là tự cảm thấy bất khả tư nghì, chẳng thể dùng ngôn ngữ tỏ bày, lòng tin tự tâm rất chơn thật, nên gọi là Tín Tâm Trụ.
 
 <hr class="blog-rule" />
 
-2. Chơn tín sáng tỏ, tất cả viên thông, ba thứ: ấm (5 ấm), xứ (12 xứ), giới (18 giới), chẳng thể ngăn ngại, như thế cho đến trong vô số kiếp quá khứ, vị lai, tất cả tập khí xã thân, thọ thân, thảy đều hiện ra trước mắt và ghi nhớ chẳng quên, gọi là *Niệm Tâm Trụ*.
+2. Chơn tín sáng tỏ, tất cả viên thông, ba thứ: ấm (5 ấm), xứ (12 xứ), giới (18 giới), chẳng thể ngăn ngại, như thế cho đến trong vô số kiếp quá khứ, vị lai, tất cả tập khí xã thân, thọ thân, thảy đều hiện ra trước mắt và ghi nhớ chẳng quên, gọi là _Niệm Tâm Trụ_.
 
-3. Thuần chơn diệu viên, tinh vi phát dụng, những tập khí từ vô thỉ đều hóa thành một tâm tinh minh (tinh vi sáng tỏ), từ tinh minh tiến lên chơn tịnh, gọi là *Tinh Tấn Tâm*.
+3. Thuần chơn diệu viên, tinh vi phát dụng, những tập khí từ vô thỉ đều hóa thành một tâm tinh minh (tinh vi sáng tỏ), từ tinh minh tiến lên chơn tịnh, gọi là _Tinh Tấn Tâm_.
 
-4. Tâm tinh tấn hiện tiền, thuần dùng trí huệ, gọi là *Huệ Tâm Trụ*.
+4. Tâm tinh tấn hiện tiền, thuần dùng trí huệ, gọi là _Huệ Tâm Trụ_.
 
-5. Trí huệ sáng tỏ, tịch lặng cùng khắp, tịch diệu thường định, gọi là *Định Tâm Trụ*.
+5. Trí huệ sáng tỏ, tịch lặng cùng khắp, tịch diệu thường định, gọi là _Định Tâm Trụ_.
 
-6. Từ định tâm phát ra ánh sáng, tánh sáng sâu vào, tiến tới chẳng lui gọi là *Bất Thối Tâm*.
+6. Từ định tâm phát ra ánh sáng, tánh sáng sâu vào, tiến tới chẳng lui gọi là _Bất Thối Tâm_.
 
-7. Tâm an nhiên tiến tới, duy trì chẳng mất, giao tiếp với tinh thần của mười phương Như Lai gọi là *Hộ Pháp Tâm*.
+7. Tâm an nhiên tiến tới, duy trì chẳng mất, giao tiếp với tinh thần của mười phương Như Lai gọi là _Hộ Pháp Tâm_.
 
-8. Tánh sáng của Bổn giác được duy trì, hay dùng diệu lực xoay Từ Quang của Phật về tự tánh, cũng như ánh sáng của hai gương đối nhau, trong đó, các bóng nhiệm mầu trùng trùng vô tận, gọi là *Hồi Hướng Tâm*.
+8. Tánh sáng của Bổn giác được duy trì, hay dùng diệu lực xoay Từ Quang của Phật về tự tánh, cũng như ánh sáng của hai gương đối nhau, trong đó, các bóng nhiệm mầu trùng trùng vô tận, gọi là _Hồi Hướng Tâm_.
 
-9. Với từ Quang của Bản Tâm miên mật, an trụ nơi vô vi, vô thượng trong sạch, thường trụ của Phật, chẳng thể lạc mất, gọi là *Giới Tâm Trụ*.
+9. Với từ Quang của Bản Tâm miên mật, an trụ nơi vô vi, vô thượng trong sạch, thường trụ của Phật, chẳng thể lạc mất, gọi là _Giới Tâm Trụ_.
 
-10. Trụ giới tự tại, hay dạo khắp mười phương, ở đi tùy nguyện, gọi là *Nguyện Tâm Trụ*.
+10. Trụ giới tự tại, hay dạo khắp mười phương, ở đi tùy nguyện, gọi là _Nguyện Tâm Trụ_.
 
 ### THẬP TRỤ
 
-1. A Nan! Thiện nam tử ấy, do chân phương tiện phát ra mười bậc tín tâm kể trên, tâm tinh vi phát ra ánh sáng, mười thứ dụng xen lẫn nhau, viên dung thành một tâm, gọi là *Phát Tâm Trụ*.
+1. A Nan! Thiện nam tử ấy, do chân phương tiện phát ra mười bậc tín tâm kể trên, tâm tinh vi phát ra ánh sáng, mười thứ dụng xen lẫn nhau, viên dung thành một tâm, gọi là _Phát Tâm Trụ_.
 
-2. Trong tâm sáng suốt như lưu ly trong sạch, trong hiện vàng ròng tinh túy, dùng diệu tâm trước kia sửa sang thành đất địa để đi đứng (thực hành) gọi là *Trị Địa Trụ*.
+2. Trong tâm sáng suốt như lưu ly trong sạch, trong hiện vàng ròng tinh túy, dùng diệu tâm trước kia sửa sang thành đất địa để đi đứng (thực hành) gọi là _Trị Địa Trụ_.
 
-3. Tâm địa biết khắp, tất cả rõ ràng, đi khắp mười phương, được chẳng ngăn ngại, gọi là *Tu Hành Trụ*.
+3. Tâm địa biết khắp, tất cả rõ ràng, đi khắp mười phương, được chẳng ngăn ngại, gọi là _Tu Hành Trụ_.
 
-4. Hạnh đồng với Phật, thọ tinh thần Phật, như cái thân trung ấm tự tìm cha mẹ, trung ấm dung thông với lòng tin, thầm nhập vào giống Như Lai, gọi là *Sanh Quý Trụ*.
+4. Hạnh đồng với Phật, thọ tinh thần Phật, như cái thân trung ấm tự tìm cha mẹ, trung ấm dung thông với lòng tin, thầm nhập vào giống Như Lai, gọi là _Sanh Quý Trụ_.
 
-5. Đã vào đạo thai, nối dòng của Phật, như thai đã thành hình, tướng người đầy đủ, gọi là *Phương Tiện Cụ Túc Trụ*.
+5. Đã vào đạo thai, nối dòng của Phật, như thai đã thành hình, tướng người đầy đủ, gọi là _Phương Tiện Cụ Túc Trụ_.
 
-6. Dung mạo và tâm tướng đều đồng như Phật, gọi là *Chánh Tâm Trụ*.
+6. Dung mạo và tâm tướng đều đồng như Phật, gọi là _Chánh Tâm Trụ_.
 
-7. Thân tâm dung hợp, ngày càng tăng trưởng gọi là *Bất Thối Trụ*.
+7. Thân tâm dung hợp, ngày càng tăng trưởng gọi là _Bất Thối Trụ_.
 
-8. Linh tướng của thập thân nhất thời đầy đủ gọi là *Đồng Chơn Trụ*.
+8. Linh tướng của thập thân nhất thời đầy đủ gọi là _Đồng Chơn Trụ_.
 
-9. Hình đã thành, ra khỏi thai, làm con của Phật, gọi là *Pháp Vương Tử Trụ*.
+9. Hình đã thành, ra khỏi thai, làm con của Phật, gọi là _Pháp Vương Tử Trụ_.
 
-10. Khi Pháp Vương Tử đã trưởng thành, ví như Thái Tử vua Sát Lợi đến tuổi trưởng thành, sẽ được phụ vương ủy nhiệm việc nước, nên làm lễ quán đảnh (lễ trưởng thành), gọi là *Quán Đảnh Trụ*.
+10. Khi Pháp Vương Tử đã trưởng thành, ví như Thái Tử vua Sát Lợi đến tuổi trưởng thành, sẽ được phụ vương ủy nhiệm việc nước, nên làm lễ quán đảnh (lễ trưởng thành), gọi là _Quán Đảnh Trụ_.
 
 ### THẬP HẠNH
 
-1. A Nan! Thiện Nam tử ấy, đã thành con Phật, đầy đủ vô lượng diệu của đức Như Lai, tùy thuận mười phương chúng sanh, phương tiện tiếp dẫn, gọi là *Hoan Hỉ Hạnh*.
+1. A Nan! Thiện Nam tử ấy, đã thành con Phật, đầy đủ vô lượng diệu của đức Như Lai, tùy thuận mười phương chúng sanh, phương tiện tiếp dẫn, gọi là _Hoan Hỉ Hạnh_.
 
-2. Hay lợi ích cho tất cả chúng sanh, gọi là *Nhiêu Ích Hạnh*.
+2. Hay lợi ích cho tất cả chúng sanh, gọi là _Nhiêu Ích Hạnh_.
 
-3. Tự giác giác tha, được chẳng chống trái, gọi là *Vô Sân Hận Hạnh*.
+3. Tự giác giác tha, được chẳng chống trái, gọi là _Vô Sân Hận Hạnh_.
 
-4. Tam thế bình đẳng, mười phương thông đạt, vì được "ý-sanh-thân", nên tùy mỗi loài chúng sanh mà hiện thân hóa độ cho đến cùng tột vị lai, gọi là *Vô Tận Hạnh*.
+4. Tam thế bình đẳng, mười phương thông đạt, vì được "ý-sanh-thân", nên tùy mỗi loài chúng sanh mà hiện thân hóa độ cho đến cùng tột vị lai, gọi là _Vô Tận Hạnh_.
 
-5. Nơi mỗi mỗi pháp môn, tất cả hòa đồng, được chẳng sai lầm, gọi là *Ly Si Loạn Hạnh*.
+5. Nơi mỗi mỗi pháp môn, tất cả hòa đồng, được chẳng sai lầm, gọi là _Ly Si Loạn Hạnh_.
 
-6. Nơi tướng đồng hiện ra nhiều tướng dị; nơi những tướng dị, mỗi mỗi thấy đồng, gọi là *Thiện Hiện Hạnh*.
+6. Nơi tướng đồng hiện ra nhiều tướng dị; nơi những tướng dị, mỗi mỗi thấy đồng, gọi là _Thiện Hiện Hạnh_.
 
-7. Như thế cho đến vi trần đầy khắp mười phương hư không, trong mỗi mỗi trần hiện mười phương cõi; hiện trần hiện cõi, chẳng ngăn ngại nhau, gọi là *Vô Trước Hạnh*.
+7. Như thế cho đến vi trần đầy khắp mười phương hư không, trong mỗi mỗi trần hiện mười phương cõi; hiện trần hiện cõi, chẳng ngăn ngại nhau, gọi là _Vô Trước Hạnh_.
 
-8. Các thứ hiện tiền đều là Đệ Nhất Ba La Mật Đa, gọi là *Tôn Trọng Hạnh*.
+8. Các thứ hiện tiền đều là Đệ Nhất Ba La Mật Đa, gọi là _Tôn Trọng Hạnh_.
 
-9. Viên dung như thế, hay thành tựu quy tắc lợi sanh của mười phương chư Phật, gọi là *Thiện Pháp Hạnh*.
+9. Viên dung như thế, hay thành tựu quy tắc lợi sanh của mười phương chư Phật, gọi là _Thiện Pháp Hạnh_.
 
-10. Mỗi mỗi đều trong sạch vô lậu, nhất chơn vô vi, bản tánh vốn như thế, gọi là *Chơn Thật Hạnh*.
+10. Mỗi mỗi đều trong sạch vô lậu, nhất chơn vô vi, bản tánh vốn như thế, gọi là _Chơn Thật Hạnh_.
 
 ### THẬP HỔI HƯỚNG
 
-1. A Nan! Thiện nam tử ấy, thần thông đầy đủ, Phật sự đã thành; tự tánh tinh túy thuần chơn, xa lìa các lỗi lầm, ngay khi hóa độ chúng sanh mà diệt tướng năng độ, sở độ, hồi tâm vô vi hướng đạo Niết Bàn, gọi là *Cứu Hộ Nhất Thiết Chúng Sanh, Ly Chúng Sanh Tướng Hồi Hướng*.
+1. A Nan! Thiện nam tử ấy, thần thông đầy đủ, Phật sự đã thành; tự tánh tinh túy thuần chơn, xa lìa các lỗi lầm, ngay khi hóa độ chúng sanh mà diệt tướng năng độ, sở độ, hồi tâm vô vi hướng đạo Niết Bàn, gọi là _Cứu Hộ Nhất Thiết Chúng Sanh, Ly Chúng Sanh Tướng Hồi Hướng_.
 
-2. Hoại cái có thể hoại, tức xa lìa chúng sanh tướng, tướng xa lìa cũng phải lìa, vậy tướng hoại thì sở không, lìa cái Lìa thì năng không; năng sở đều không, bản giác bất hoại, gọi là *Bất Hoại Hồi Hướng*.
+2. Hoại cái có thể hoại, tức xa lìa chúng sanh tướng, tướng xa lìa cũng phải lìa, vậy tướng hoại thì sở không, lìa cái Lìa thì năng không; năng sở đều không, bản giác bất hoại, gọi là _Bất Hoại Hồi Hướng_.
 
-3. Bản giác trạm nhiên, tâm giác đồng như Phật giác, gọi là *Đẳng Nhất Thiết Phật Hồi Hướng*.
+3. Bản giác trạm nhiên, tâm giác đồng như Phật giác, gọi là _Đẳng Nhất Thiết Phật Hồi Hướng_.
 
-4. Tinh túy sáng tỏ, tâm địa đồng như Phật địa, gọi là *Chí Nhất Thiết Xứ Hồi Hướng*.
+4. Tinh túy sáng tỏ, tâm địa đồng như Phật địa, gọi là _Chí Nhất Thiết Xứ Hồi Hướng_.
 
-5. Thế giới và Như Lai xen lộn lẫn nhau, được chẳng ngăn ngại, gọi là *Vô Tận Công Đức Tạng Hồi Hướng*.
+5. Thế giới và Như Lai xen lộn lẫn nhau, được chẳng ngăn ngại, gọi là _Vô Tận Công Đức Tạng Hồi Hướng_.
 
-6. Nơi đồng Phật địa, mỗi mỗi sanh ra cái nhân trong sạch, nương nhân ấy mà phát huy, vào đạo Niết Bàn, gọi là *Tùy Thuận Bình Đẳng Thiện Căn Hồi Hướng*.
+6. Nơi đồng Phật địa, mỗi mỗi sanh ra cái nhân trong sạch, nương nhân ấy mà phát huy, vào đạo Niết Bàn, gọi là _Tùy Thuận Bình Đẳng Thiện Căn Hồi Hướng_.
 
-7. Chơn thiện căn đã thành, thì mười phương chúng sanh đều là bản tánh của ta, thành tựu tánh tròn đầy, chẳng bỏ chúng sanh, gọi là *Tùy Thuận Đẳng Quán Nhất Thiết Chúng Sanh Hồi Hướng*.
+7. Chơn thiện căn đã thành, thì mười phương chúng sanh đều là bản tánh của ta, thành tựu tánh tròn đầy, chẳng bỏ chúng sanh, gọi là _Tùy Thuận Đẳng Quán Nhất Thiết Chúng Sanh Hồi Hướng_.
 
-8. Tức nơi nhất thiết pháp, mà lìa nhất thiết tướng cái "tức" cái "lìa", cả hai đều chẳng dính mắc, gọi là *Chơn Như Tướng Hồi Hướng*.
+8. Tức nơi nhất thiết pháp, mà lìa nhất thiết tướng cái "tức" cái "lìa", cả hai đều chẳng dính mắc, gọi là _Chơn Như Tướng Hồi Hướng_.
 
-9. Thật đắc Chơn Như, mười phương vô ngại, gọi là *Vô Phược Giải Thoát Hồi Hướng*. (Phược là trói).
+9. Thật đắc Chơn Như, mười phương vô ngại, gọi là _Vô Phược Giải Thoát Hồi Hướng_. (Phược là trói).
 
-10. Đức tánh viên mãn thành tựu, số lượng của pháp giới tiêu diệt, gọi là *Pháp Giới Vô Lượng Hồi Hướng*.
+10. Đức tánh viên mãn thành tựu, số lượng của pháp giới tiêu diệt, gọi là _Pháp Giới Vô Lượng Hồi Hướng_.
 
 ### TỨ GIA HẠNH
 
 - A Nan! Thiện nam tử ấy, đã tu xong 41 bậc tâm trong sạch, kế đó thành tựu 4 thứ gia hạnh diệu viên:
 
-1. Tức đem Phật giác, dụng làm tự tâm, cũng như dùi cây lấy lửa, cây chưa đốt cháy, lửa sắp ra mà chưa ra, gọi là *Noãn Địa*.
+1. Tức đem Phật giác, dụng làm tự tâm, cũng như dùi cây lấy lửa, cây chưa đốt cháy, lửa sắp ra mà chưa ra, gọi là _Noãn Địa_.
 
-2. Lại dùng tâm mình thành chỗ hành của Phật cũng như người đứng trên chót núi, toàn thân đã vào hư không, nhưng dưới chân đôi khi còn hơi dính đất, như có chỗ nương mà chẳng phải nương, gọi là *Đảnh Địa*.
+2. Lại dùng tâm mình thành chỗ hành của Phật cũng như người đứng trên chót núi, toàn thân đã vào hư không, nhưng dưới chân đôi khi còn hơi dính đất, như có chỗ nương mà chẳng phải nương, gọi là _Đảnh Địa_.
 
-3. Tâm với Phật đồng, khéo đắc trung đạo, như người hay nhẫn nại, niệm chẳng phân biệt, phi hoài (chẳng nhớ), phi xuất (chẳng quên), chẳng thể nói ra, gọi là *Nhẫn Địa*.
+3. Tâm với Phật đồng, khéo đắc trung đạo, như người hay nhẫn nại, niệm chẳng phân biệt, phi hoài (chẳng nhớ), phi xuất (chẳng quên), chẳng thể nói ra, gọi là _Nhẫn Địa_.
 
-4. Số lượng tiêu diệt, mê, giác và trung đạo đều chẳng thể gán tên, gọi là *Thế đệ Nhất địa*.
+4. Số lượng tiêu diệt, mê, giác và trung đạo đều chẳng thể gán tên, gọi là _Thế đệ Nhất địa_.
 
 ### THẬP ĐỊA
 
-1. A Nan! Thiện Nam tử ấy, khéo được thông đạt nơi Đại Bồ Đề, chỗ giác ngộ thông với Như Lai, cùng tột cảnh giới của Phật, gọi là *Hoan Hỷ Địa*.
+1. A Nan! Thiện Nam tử ấy, khéo được thông đạt nơi Đại Bồ Đề, chỗ giác ngộ thông với Như Lai, cùng tột cảnh giới của Phật, gọi là _Hoan Hỷ Địa_.
 
-2. Tánh dị nhập đồng, tánh đồng cũng diệt, gọi là *Ly Cấu Địa*.
+2. Tánh dị nhập đồng, tánh đồng cũng diệt, gọi là _Ly Cấu Địa_.
 
-3. Trong sạch thì phát ra ánh sáng, gọi là *Phát Quang Địa*.
+3. Trong sạch thì phát ra ánh sáng, gọi là _Phát Quang Địa_.
 
-4. Sáng tỏ thì giác tánh sung mãn, gọi là *Diệm Huệ Địa*.
+4. Sáng tỏ thì giác tánh sung mãn, gọi là _Diệm Huệ Địa_.
 
-5. Tất cả đồng dị đều chẳng thể đến, gọi là *Nan Thắng Địa*.
+5. Tất cả đồng dị đều chẳng thể đến, gọi là _Nan Thắng Địa_.
 
-6. Tánh trong sạch hiển lộ, Chơn Như vô vi gọi là *Hiện Tiền Địa*.
+6. Tánh trong sạch hiển lộ, Chơn Như vô vi gọi là _Hiện Tiền Địa_.
 
-7. Cùng tột bờ bến của Chơn Như, gọi là *Viễn Hành Địa*.
+7. Cùng tột bờ bến của Chơn Như, gọi là _Viễn Hành Địa_.
 
-8. Nhất tâm chơn như, gọi là *Bất Động Địa*.
+8. Nhất tâm chơn như, gọi là _Bất Động Địa_.
 
-9. Chơn như phát dụng, gọi là *Thiện Huệ Địa*.
+9. Chơn như phát dụng, gọi là _Thiện Huệ Địa_.
 
-10. A Nan, công hạnh tu tập của Bồ Tát từ trước đến đây, công đức viên mãn, cũng gọi địa này là Tu Tập Vị, tức dùng đám mây nhiệm mầu, đầy đủ từ bi trí huệ, che chở chúng sanh, khắp biển Niết Bàn, gọi là *Pháp Vân Địa*.
+10. A Nan, công hạnh tu tập của Bồ Tát từ trước đến đây, công đức viên mãn, cũng gọi địa này là Tu Tập Vị, tức dùng đám mây nhiệm mầu, đầy đủ từ bi trí huệ, che chở chúng sanh, khắp biển Niết Bàn, gọi là _Pháp Vân Địa_.
 
 ### ĐẲNG GIÁC
 
-Như Lai ngược dòng từ quả vị trở lại nhân địa, cứu độ chúng sanh; Bồ Tát thuận hành từ chúng sanh tu đến quả Phật, thuận ngược đều giao tiếp nơi Bổn Giác, gọi là *Đẳng Giác*.
+Như Lai ngược dòng từ quả vị trở lại nhân địa, cứu độ chúng sanh; Bồ Tát thuận hành từ chúng sanh tu đến quả Phật, thuận ngược đều giao tiếp nơi Bổn Giác, gọi là _Đẳng Giác_.
 
 ### DIỆU GIÁC
 
-- A Nan! Từ Càn Huệ Tâm đến bậc Đẳng Giác rồi giác ấy mới được viên mãn nơi Tâm Kim Cang. Bắt đầu từ Càn Huệ Địa từng lớp tiến lên, trải qua *12 ngôi vị đơn và phức* [^16] mới đến *Diệu Giác*, thành Vô Thượng Đạo.
+- A Nan! Từ Càn Huệ Tâm đến bậc Đẳng Giác rồi giác ấy mới được viên mãn nơi Tâm Kim Cang. Bắt đầu từ Càn Huệ Địa từng lớp tiến lên, trải qua _12 ngôi vị đơn và phức_ [^16] mới đến _Diệu Giác_, thành Vô Thượng Đạo.
 
 - Mỗi mỗi địa ấy, đều lấy trí Kim Cang quan sát mười thứ ví dụ như huyễn, dùng Xa Ma Tha (chỉ) và Tỳ Bà Xá Na (quán) của chư Như Lai tu chứng trong sạch lần lượt sâu vào.
 
@@ -377,37 +377,37 @@ Như ngươi hỏi về những quả báo ác nghiệp của Bửu Liên Hươn
 
 10. Kiên cố biến hóa chẳng ngừng nghỉ, thành tựu tà ngộ, gọi là Tuyệt Hành Tiên.
 
-- A Nan! Loại này đều ở trong cõi người mà luyện tâm, chẳng tu chánh giác, xa cách người đời, thọ muôn ngàn tuổi, ẩn núp nơi núi sâu, hòn đảo, những chỗ vắng người; ấy cũng là theo vọng tưởng mà luân hồi. 
-Nếu chẳng tu tam muội, khi phước báo hết, phải trở lại trong lục đạo.
+- A Nan! Loại này đều ở trong cõi người mà luyện tâm, chẳng tu chánh giác, xa cách người đời, thọ muôn ngàn tuổi, ẩn núp nơi núi sâu, hòn đảo, những chỗ vắng người; ấy cũng là theo vọng tưởng mà luân hồi.
+  Nếu chẳng tu tam muội, khi phước báo hết, phải trở lại trong lục đạo.
 
 ### DỤC GIỚI
 
-1. A Nan! Những người thế gian, chẳng cầu đạo thường trụ, chưa thể rời bỏ sự ân ái vợ chồng, nhưng tâm chẳng buông lung nơi tà dâm, do tâm đứng lặng phát ra sáng suốt. Sau khi chết, ở gần với nhật nguyệt, loại này gọi là *Tứ Thiên Vương Thiên.*
+1. A Nan! Những người thế gian, chẳng cầu đạo thường trụ, chưa thể rời bỏ sự ân ái vợ chồng, nhưng tâm chẳng buông lung nơi tà dâm, do tâm đứng lặng phát ra sáng suốt. Sau khi chết, ở gần với nhật nguyệt, loại này gọi là _Tứ Thiên Vương Thiên._
 
-2. Đối với vợ mình, dâm ái ít ỏi, trong lúc tịnh cư, chưa hoàn toàn trong sạch. Sau khi chết, vượt ánh sáng nhựt nguyệt, ở trên đảnh cõi người, loại này gọi là *Đao Lợi Thiên*.
+2. Đối với vợ mình, dâm ái ít ỏi, trong lúc tịnh cư, chưa hoàn toàn trong sạch. Sau khi chết, vượt ánh sáng nhựt nguyệt, ở trên đảnh cõi người, loại này gọi là _Đao Lợi Thiên_.
 
-3. Gặp dục tạm giao, qua rồi thì chẳng nhớ; nơi cõi người động ít tịnh nhiều. Sau khi chết, an trụ nơi hư không, ánh sáng nhựt nguyệt chẳng thể soi đến, hạng người ấy tự có ánh sáng, loại này gọi là *Tu Diệm Ma Thiên*.
+3. Gặp dục tạm giao, qua rồi thì chẳng nhớ; nơi cõi người động ít tịnh nhiều. Sau khi chết, an trụ nơi hư không, ánh sáng nhựt nguyệt chẳng thể soi đến, hạng người ấy tự có ánh sáng, loại này gọi là _Tu Diệm Ma Thiên_.
 
-4. Lúc nào cũng tịnh, nhưng khi tiếp xúc bỗng đến, chưa thể lìa bỏ. Sau khi chết, sanh lên cõi tinh vi, chẳng nối liền với những cõi trời, người ở dưới; khi kiếp hoại tam tai cũng chẳng thể đến, loại này gọi là *Đâu Suất Đà Thiên*.
+4. Lúc nào cũng tịnh, nhưng khi tiếp xúc bỗng đến, chưa thể lìa bỏ. Sau khi chết, sanh lên cõi tinh vi, chẳng nối liền với những cõi trời, người ở dưới; khi kiếp hoại tam tai cũng chẳng thể đến, loại này gọi là _Đâu Suất Đà Thiên_.
 
-5. Ta chẳng tâm dâm dục, chỉ đáp ứng với nhu cầu của người, xem sự dâm dục vô vị như ăn sáp. Sau khi chết, sanh lên cõi biến hóa, loại này gọi là *Lạc Biến Hóa Thiên*.
+5. Ta chẳng tâm dâm dục, chỉ đáp ứng với nhu cầu của người, xem sự dâm dục vô vị như ăn sáp. Sau khi chết, sanh lên cõi biến hóa, loại này gọi là _Lạc Biến Hóa Thiên_.
 
-6. Tâm chẳng trụ thế gian, mà thọ dụng cảnh dục đồng như thế gian; đang lúc thọ dụng, rõ ràng siêu thoát. Sau khi chết, vượt lên tất cả cảnh biến hoá và chẳng biến hóa, loại này gọi là *Tha Hóa Tự Tại Thiên*.
+6. Tâm chẳng trụ thế gian, mà thọ dụng cảnh dục đồng như thế gian; đang lúc thọ dụng, rõ ràng siêu thoát. Sau khi chết, vượt lên tất cả cảnh biến hoá và chẳng biến hóa, loại này gọi là _Tha Hóa Tự Tại Thiên_.
 
 - A Nan! 6 cõi trời kể trên, hình dù khỏi động mà tâm còn dính mắc, từ đây trở xuống, gọi là Dục Giới.
 
 #### GHI CHÚ
 
-[^16]: **12 ngôi vị đơn và phức**: *5 ngôi vị phức*, mỗi ngôi vị gồm 10 cấp bậc, tức *Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng* và *Thập Địa*. *7 ngôi vị đơn* là: *Càn Huệ, Noãn, Đảnh, Nhẫn, Thế Đệ Nhất, Đẳng Giác* và *Diệu Giác*.
+[^16]: **12 ngôi vị đơn và phức**: _5 ngôi vị phức_, mỗi ngôi vị gồm 10 cấp bậc, tức _Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng_ và _Thập Địa_. _7 ngôi vị đơn_ là: _Càn Huệ, Noãn, Đảnh, Nhẫn, Thế Đệ Nhất, Đẳng Giác_ và _Diệu Giác_.
 
 ## QUYỂN VIII HẾT
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

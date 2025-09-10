@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển V"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "13066"
 categories: ["Kinh"]
@@ -38,80 +38,80 @@ Phật bảo A Nan:
 Bấy giờ, Thế Tôn muốn lập lại nghĩa trên, bèn nói kệ rằng:
 
 > Chơn tánh hữu vi không
-Duyên sanh cố như huyễn
-Vô vi vô khởi diệt,
-Bất thật như không hoa
-Ngôn vọng hiện chư chơn,
-Vọng chơn đồng nhị vọng,
-Do phi chơn phi chơn,
-Vân hà kiến sở kiến?
-Trung gian vô thật tánh,
-Thị cố nhược giao lô,
-Kết giải đồng sở nhân,
-Thánh phàm vô nhị lộ,
-Nhữ quán giao trung tánh,
-Không hữu nhị câu phi.
-Mê hối tức vô minh,
-Phát minh tiện giải thoát,
-Giải kết nhân thứ đệ,
-Lục giải nhất diệc vong,
-Căn tuyển trạch viên thông,
-Nhập lưu thành Chánh Giác,
-Đà Na vi tế thức,
-Tập khí thành bạo lưu.
-Chơn phi chơn khủng mê,
-Ngã thường bất khai diễn
-Tự tâm thủ tự tâm,
-Phi huyễn thành huyễn pháp
-Bất thủ vô phi huyễn,
-Phi huyễn thượng bất sanh,
-Huyễn pháp vân hà lập?
-Thị danh Diệu Liên Hoa,
-Kim Cang Vương Bửu Giác
-Như huyễn Tam Ma Đề,
-Đờn chỉ siêu vô học
-Thử A Tỳ Đạt Ma,
-Thập phương Bạt Già Phạn,
-Nhất lộ Niết Bàn môn.
+> Duyên sanh cố như huyễn
+> Vô vi vô khởi diệt,
+> Bất thật như không hoa
+> Ngôn vọng hiện chư chơn,
+> Vọng chơn đồng nhị vọng,
+> Do phi chơn phi chơn,
+> Vân hà kiến sở kiến?
+> Trung gian vô thật tánh,
+> Thị cố nhược giao lô,
+> Kết giải đồng sở nhân,
+> Thánh phàm vô nhị lộ,
+> Nhữ quán giao trung tánh,
+> Không hữu nhị câu phi.
+> Mê hối tức vô minh,
+> Phát minh tiện giải thoát,
+> Giải kết nhân thứ đệ,
+> Lục giải nhất diệc vong,
+> Căn tuyển trạch viên thông,
+> Nhập lưu thành Chánh Giác,
+> Đà Na vi tế thức,
+> Tập khí thành bạo lưu.
+> Chơn phi chơn khủng mê,
+> Ngã thường bất khai diễn
+> Tự tâm thủ tự tâm,
+> Phi huyễn thành huyễn pháp
+> Bất thủ vô phi huyễn,
+> Phi huyễn thượng bất sanh,
+> Huyễn pháp vân hà lập?
+> Thị danh Diệu Liên Hoa,
+> Kim Cang Vương Bửu Giác
+> Như huyễn Tam Ma Đề,
+> Đờn chỉ siêu vô học
+> Thử A Tỳ Đạt Ma,
+> Thập phương Bạt Già Phạn,
+> Nhất lộ Niết Bàn môn.
 
 Dịch nghĩa:
 
 > Tánh hữu vi vốn không,
-Duyên sanh nên như huyễn
-Vô vi không sanh diệt,
-Chẳng thật như hoa đốm,
-Nói vọng để hiển chơn,
-Vọng chơn là hai vọng
-Phi chơn phi bất chơn
-Làm sao kiến sở kiến?
-Trong đó chẳng thật tánh,
-Nên như sậy gác nhau.
-Thắt, mở đồng một nhân,
-Thánh phàm chẳng hai đường,
-Ngươi xem tánh gác nhau,
-Không, Hữu thảy đều sai.
-Mê muội tức vô minh,
-Phát minh liền giải thoát.
-Mở, thắt theo thứ tự,
-Lục mở nhất cũng tiêu
-Chọn căn nào viên thông,
-Nhập lưu thành Chánh Giác.
-Đà Na (thức thứ tám) thức vi tế,
-Tập khí như nước dốc.
-Sợ chấp Chơn phi chơn,
-Nên ta chẳng khai giảng
-Tự tâm chấp tự tâm,
-Phi huyễn thành pháp huyễn.
-Chẳng chấp chẳng phi huyễn
-Phi huyễn còn chẳng sanh,
-Pháp huyễn làm sao lập?
-Đây gọi Diệu Liên Hoa
-Bửu giác như Kim Cang
-Tu theo Tam Ma Đề,
-Búng tay siêu vô học
-Pháp này chẳng gì bằng,
-Mười phương chư Như Lai,
-Chỉ một cửa Niết Bàn.
+> Duyên sanh nên như huyễn
+> Vô vi không sanh diệt,
+> Chẳng thật như hoa đốm,
+> Nói vọng để hiển chơn,
+> Vọng chơn là hai vọng
+> Phi chơn phi bất chơn
+> Làm sao kiến sở kiến?
+> Trong đó chẳng thật tánh,
+> Nên như sậy gác nhau.
+> Thắt, mở đồng một nhân,
+> Thánh phàm chẳng hai đường,
+> Ngươi xem tánh gác nhau,
+> Không, Hữu thảy đều sai.
+> Mê muội tức vô minh,
+> Phát minh liền giải thoát.
+> Mở, thắt theo thứ tự,
+> Lục mở nhất cũng tiêu
+> Chọn căn nào viên thông,
+> Nhập lưu thành Chánh Giác.
+> Đà Na (thức thứ tám) thức vi tế,
+> Tập khí như nước dốc.
+> Sợ chấp Chơn phi chơn,
+> Nên ta chẳng khai giảng
+> Tự tâm chấp tự tâm,
+> Phi huyễn thành pháp huyễn.
+> Chẳng chấp chẳng phi huyễn
+> Phi huyễn còn chẳng sanh,
+> Pháp huyễn làm sao lập?
+> Đây gọi Diệu Liên Hoa
+> Bửu giác như Kim Cang
+> Tu theo Tam Ma Đề,
+> Búng tay siêu vô học
+> Pháp này chẳng gì bằng,
+> Mười phương chư Như Lai,
+> Chỉ một cửa Niết Bàn.
 
 ### LƯỢC GIẢI
 
@@ -365,10 +365,10 @@ Di Lặc Bồ Tát liền đứng dậy, đảnh lễ bạch Phật:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

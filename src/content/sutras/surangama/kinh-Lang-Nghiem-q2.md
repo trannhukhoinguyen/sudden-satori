@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển II"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "2328"
 categories: ["Kinh"]
@@ -21,20 +21,20 @@ Lúc bấy giờ, A Nan và đại chúng nghe lời Phật dạy, thân tâm th
 
 Khi ấy, vua Ba Tư Nặc đứng lên bạch Phật:
 
-- Xưa kia con chưa được nghe lời dạy của Phật, thấy bọn ngoại đạo Ca Chiên Diên (chấp các pháp cũng có cũng không) và Tỳ La Chi Tử (chấp mãn kiếp tự nhiên đắc đạo), đều nói thân này sau khi chết đoạn diệt gọi là Niết Bàn. 
-Nay dù gặp Phật nhưng vẫn còn hồ nghi, chẳng biết làm thế nào mới được chứng tỏ chỗ chẳng sanh diệt của tâm này, hiện nay, hàng hữu lậu trong chúng đều mong cùng nghe.
+- Xưa kia con chưa được nghe lời dạy của Phật, thấy bọn ngoại đạo Ca Chiên Diên (chấp các pháp cũng có cũng không) và Tỳ La Chi Tử (chấp mãn kiếp tự nhiên đắc đạo), đều nói thân này sau khi chết đoạn diệt gọi là Niết Bàn.
+  Nay dù gặp Phật nhưng vẫn còn hồ nghi, chẳng biết làm thế nào mới được chứng tỏ chỗ chẳng sanh diệt của tâm này, hiện nay, hàng hữu lậu trong chúng đều mong cùng nghe.
 
 Phật hỏi vua:
 
-> Thân ông ở đây, nay ta hỏi ông, cái nhục thân này là đồng như kim cang, thường trụ chẳng hoại hay có *biến diệt*?
+> Thân ông ở đây, nay ta hỏi ông, cái nhục thân này là đồng như kim cang, thường trụ chẳng hoại hay có _biến diệt_?
 
 Vua đáp:
 
-- Bạch Thế Tôn! Thân con rốt cuộc sẽ *phải biến diệt* ạ!
+- Bạch Thế Tôn! Thân con rốt cuộc sẽ _phải biến diệt_ ạ!
 
 Phật nói:
 
-> Ông chưa từng diệt, sao biết *phải diệt*?
+> Ông chưa từng diệt, sao biết _phải diệt_?
 
 Vua đáp:
 
@@ -54,10 +54,10 @@ Phật nói:
 
 Vua đáp:
 
-- Bạch Thế Tôn! Sự biến hóa âm thầm dời đổi, con thật chẳng hay, mùa đông mùa hạ thấm thoát trôi qua, dần dần đến thế này. 
-Tại sao? Khi hai mươi tuổi, dù gọi là trẻ, nhưng mặt mày đã già hơn lúc lên mười, khi ba mươi tuổi lại sút hơn lúc hai mươi, đến nay đã sáu mươi hai, so với lúc năm mươi thì suy yếu hơn nhiều. 
-Thế Tôn, con cảm thấy sự dời đổi âm thầm trôi chảy theo kỳ hạn mười năm, nhưng nếu suy xét tỉ mỉ thì cái biến đổi ấy đâu phải từng 10 năm! 
-Thật ra thì mỗi năm mỗi đổi, cho đến mỗi tháng, mỗi ngày, mỗi giờ, trong mỗi sát na niệm niệm biến đổi chẳng ngừng, nên biết thân này chung quy biến diệt vậy.
+- Bạch Thế Tôn! Sự biến hóa âm thầm dời đổi, con thật chẳng hay, mùa đông mùa hạ thấm thoát trôi qua, dần dần đến thế này.
+  Tại sao? Khi hai mươi tuổi, dù gọi là trẻ, nhưng mặt mày đã già hơn lúc lên mười, khi ba mươi tuổi lại sút hơn lúc hai mươi, đến nay đã sáu mươi hai, so với lúc năm mươi thì suy yếu hơn nhiều.
+  Thế Tôn, con cảm thấy sự dời đổi âm thầm trôi chảy theo kỳ hạn mười năm, nhưng nếu suy xét tỉ mỉ thì cái biến đổi ấy đâu phải từng 10 năm!
+  Thật ra thì mỗi năm mỗi đổi, cho đến mỗi tháng, mỗi ngày, mỗi giờ, trong mỗi sát na niệm niệm biến đổi chẳng ngừng, nên biết thân này chung quy biến diệt vậy.
 
 Phật nói:
 
@@ -160,8 +160,8 @@ Phật bảo A Nan:
 ### LƯỢC GIẢI
 
 > Tại sao nói kiến tinh này là ngươi chẳng phải vật? Nếu kiến tinh là vật thì kiến tinh của ta ngươi cũng thấy được, nhưng sự thật thì kiến tinh của ta ngươi chẳng thể thấy.
-Nếu nói ta thấy ngươi thấy, lúc cùng thấy tức là thấy kiến tinh của ta, vậy thì lúc ta thấy, ngươi đã thấy được rồi, lúc ta chẳng thấy, ngươi cũng phải thấy được chứ, mà sự thật lại chẳng như thế.
-Nếu nói lúc thấy là dùng cái thấy để thấy, lúc chẳng thấy là dùng cái chẳng thấy để thấy, gọi là thấy chỗ chẳng thấy của ta, vậy đã chẳng tự thấy, lấy gì để thấy cái tướng chẳng thấy kia? Nếu cái tướng chẳng thấy kia cho ngươi thấy được, tức là tướng thấy, lại chẳng phải tướng chẳng thấy. Vậy biết: chỗ chẳng thấy của ta, ngươi nhất định chẳng thể thấy được; lúc ta chẳng thấy, ngươi đã chẳng thể thấy được thì lúc cùng thấy cũng chẳng thể thấy, thấy và chẳng thấy đều chẳng thể chỉ ra kiến tinh, vậy kiến tinh của ta rõ ràng phi vật. Kiến tinh của ta phi vật thì kiến tinh của ngươi cũng là phi vật vậî. Kiến tinh của ngươi đã phi vật thì chẳng thuộc nơi vật, làm sao chẳng phải ngươi? Đây là dùng cái nghĩa chẳng thể thấy để sáng tỏ kiến tinh phi vật. Nếu kiến tinh có thể thấy được thì kiến tinh cũng là vật vậy, làm sao được làm chủ vạn tượng mà an lập cõi thế gian.
+> Nếu nói ta thấy ngươi thấy, lúc cùng thấy tức là thấy kiến tinh của ta, vậy thì lúc ta thấy, ngươi đã thấy được rồi, lúc ta chẳng thấy, ngươi cũng phải thấy được chứ, mà sự thật lại chẳng như thế.
+> Nếu nói lúc thấy là dùng cái thấy để thấy, lúc chẳng thấy là dùng cái chẳng thấy để thấy, gọi là thấy chỗ chẳng thấy của ta, vậy đã chẳng tự thấy, lấy gì để thấy cái tướng chẳng thấy kia? Nếu cái tướng chẳng thấy kia cho ngươi thấy được, tức là tướng thấy, lại chẳng phải tướng chẳng thấy. Vậy biết: chỗ chẳng thấy của ta, ngươi nhất định chẳng thể thấy được; lúc ta chẳng thấy, ngươi đã chẳng thể thấy được thì lúc cùng thấy cũng chẳng thể thấy, thấy và chẳng thấy đều chẳng thể chỉ ra kiến tinh, vậy kiến tinh của ta rõ ràng phi vật. Kiến tinh của ta phi vật thì kiến tinh của ngươi cũng là phi vật vậî. Kiến tinh của ngươi đã phi vật thì chẳng thuộc nơi vật, làm sao chẳng phải ngươi? Đây là dùng cái nghĩa chẳng thể thấy để sáng tỏ kiến tinh phi vật. Nếu kiến tinh có thể thấy được thì kiến tinh cũng là vật vậy, làm sao được làm chủ vạn tượng mà an lập cõi thế gian.
 
 <hr class="blog-rule" />
 
@@ -212,8 +212,8 @@ Như Lai biết họ băn khoăn lo sợ, sanh lòng thương xót, an ủi A Na
 ### LƯỢC GIẢI
 
 > Tại sao ngơ ngác chẳng biết đầu đuôi của nghĩa này? Vì trước thì nói kiến tinh chẳng phải vật, sau lại nói kiến tinh đều là vật; trước nói diệu tánh hiện tiền, sau lại nói chẳng thể chỉ ra, nên ngơ ngác đánh mất lý lẽ đã hiểu biết từ xưa nay vậy.
-"Nói lời chơn thật, như sở như thuyết" v.v... tức ngũ ngữ trong Kinh Kim Cang. Phật thuyết chơn ngữ là nghĩa chung với nhị thừa (có sanh tử để diệt, có Niết Bàn để chứng); thật ngữ là nghĩa chung với Bồ Tát (nghĩa đại thừa, sanh tử và Niết Bàn đều như hoa đốm trên không); như ngữ là nghĩa chẳng chung với tam thừa (trí huệ chẳng thể suy lường, lời nói chẳng thể diễn tả); vô thật vô hư; vô hư nên bất cuồng ngữ (chẳng dối), vô thật nên bất dị ngữ (thấy trước việc chưa đến gọi là Bất Dị). Ở đây chỉ dùng hai chữ "chẳng vọng" để bao gồm.
-Bà Sa Luận nói: Ngoại đạo chấp cõi trời thường trụ gọi là Bất tử, cho "chaüng đáp càn" được sanh cõi trời ấy, nếu thật chẳng biết mà đáp càn, sợ thành càn loạn, nên có ai hỏi thì đáp rằng "Lời bí mật chẳng nên nói hết", hoặc đáp chẳng định. Phật quở rằng: họ thật là kẻ càn loạn vậy.
+> "Nói lời chơn thật, như sở như thuyết" v.v... tức ngũ ngữ trong Kinh Kim Cang. Phật thuyết chơn ngữ là nghĩa chung với nhị thừa (có sanh tử để diệt, có Niết Bàn để chứng); thật ngữ là nghĩa chung với Bồ Tát (nghĩa đại thừa, sanh tử và Niết Bàn đều như hoa đốm trên không); như ngữ là nghĩa chẳng chung với tam thừa (trí huệ chẳng thể suy lường, lời nói chẳng thể diễn tả); vô thật vô hư; vô hư nên bất cuồng ngữ (chẳng dối), vô thật nên bất dị ngữ (thấy trước việc chưa đến gọi là Bất Dị). Ở đây chỉ dùng hai chữ "chẳng vọng" để bao gồm.
+> Bà Sa Luận nói: Ngoại đạo chấp cõi trời thường trụ gọi là Bất tử, cho "chaüng đáp càn" được sanh cõi trời ấy, nếu thật chẳng biết mà đáp càn, sợ thành càn loạn, nên có ai hỏi thì đáp rằng "Lời bí mật chẳng nên nói hết", hoặc đáp chẳng định. Phật quở rằng: họ thật là kẻ càn loạn vậy.
 
 <hr class="blog-rule" />
 
@@ -385,19 +385,19 @@ Nếu chẳng hoà với sáng, thì kiến tinh với cái sáng phải có ran
 
 - A Nan! Tánh dòng nước như thế chẳng do hư không sanh ra, chẳng do nước mà có, chẳng phải tánh của nước, cũng chẳng lìa hư không và nước.
 
-- Nếu do hư không sanh ra thì mười phương vô tận hư không đều thành dòng nước vô tận, và tự nhiên thế giới đều bị chìm đắm cả. 
-- Nếu do nước mà có thì nước là năng có, dòng nước là sở có, hai tướng khác nhau thì tánh của dòng nước lẽ ra chẳng phải là nước. 
-- Nếu dòng nước tức là tánh của nước thì khi nước trong lặng lại chẳng phải tự thể của nước. 
-- Nếu lìa hư không và nước thì hư không vốn chẳng có trong và ngoài, và ngoài nước ra chẳng có dòng nước. 
+- Nếu do hư không sanh ra thì mười phương vô tận hư không đều thành dòng nước vô tận, và tự nhiên thế giới đều bị chìm đắm cả.
+- Nếu do nước mà có thì nước là năng có, dòng nước là sở có, hai tướng khác nhau thì tánh của dòng nước lẽ ra chẳng phải là nước.
+- Nếu dòng nước tức là tánh của nước thì khi nước trong lặng lại chẳng phải tự thể của nước.
+- Nếu lìa hư không và nước thì hư không vốn chẳng có trong và ngoài, và ngoài nước ra chẳng có dòng nước.
 - Nên biết hành ấm hư vọng, vốn chẳng phải tánh nhân duyên, cũng chẳng phải tánh tự nhiên.
 
 5. THỨC ẤM VỐN VÔ SANH
 
 - A Nan! Ví như có người lấy một cái bình (cái bình dụ cho nghiệp thân), trong đựng đầy hư không (hư không dụ cho thức ấm), bít kín miệng bình đem xa ngàn dặm tặng cho nước khác, nên biết Thức Ấm cũng vậy.
 
-- A Nan! Hư không này chẳng phải từ phương kia ra, cũng chẳng phải từ phương này vào. 
+- A Nan! Hư không này chẳng phải từ phương kia ra, cũng chẳng phải từ phương này vào.
 
-- Nếu từ phương kia ra, trong bình đã đựng hư không đem đi, thì phương kia phải thiếu hư không. Nếu từ phương này vào, khi mở miệng bình trút ra thì phải thấy hư không ra. 
+- Nếu từ phương kia ra, trong bình đã đựng hư không đem đi, thì phương kia phải thiếu hư không. Nếu từ phương này vào, khi mở miệng bình trút ra thì phải thấy hư không ra.
 
 - Nên biết thức ấm hư vọng, vốn chẳng phải tánh nhân duyên, cũng chẳng phải tánh tự nhiên.
 
@@ -406,21 +406,21 @@ Nếu chẳng hoà với sáng, thì kiến tinh với cái sáng phải có ran
 > Trung Quán Luận có bài kệ rằng:
 >
 > Các pháp chẳng tự sanh,
-> 
+>
 > Cũng chẳng phải tha sanh,
-> 
+>
 > Chẳng cộng chẳng vô nhân,
-> 
+>
 > Cho nên nói Vô Sanh.
 
-Sao nói các pháp chẳng tự sanh? Vì phải đợi nhân duyên hòa hợp mới được sanh. Sao nói chẳng tha sanh? Vì các duyên đều chẳng có tự tánh. 
-Sao nói chẳng cộng sanh? Vì tự và tha còn chẳng có, lấy gì để cộng? Sao nói chẳng vô nhân sanh? 
-Vì bản thể sáng tỏ của diệu tâm, phải do tu hành đến giác ngộ mới được hiển bày, chẳng tự nhiên mà thành. 
+Sao nói các pháp chẳng tự sanh? Vì phải đợi nhân duyên hòa hợp mới được sanh. Sao nói chẳng tha sanh? Vì các duyên đều chẳng có tự tánh.
+Sao nói chẳng cộng sanh? Vì tự và tha còn chẳng có, lấy gì để cộng? Sao nói chẳng vô nhân sanh?
+Vì bản thể sáng tỏ của diệu tâm, phải do tu hành đến giác ngộ mới được hiển bày, chẳng tự nhiên mà thành.
 Vậy biết tất cả sự vật trên thế gian vốn là Vô Sanh, vì chẳng có lý do nào để sanh vậy.
 
-Nếu ngộ tất cả pháp vô sanh thì Sắc như dụi mắt thấy hoa đốm trên không; Thọ như xoa bàn tay sanh những xúc giác trơn, rít, lạnh, nóng; 
-Tưởng như nghe nói trái mơ tiết ra nước miếng; Hành như dòng nước chảy, chẳng có năng sanh sở sanh (nước chẳng phải năng sanh, dòng nước chẳng phải sở sanh); 
-Thức như cái bình đựng đầy hư không, bình dụ cho nghiệp thân, hư không dụ cho vọng thức. 
+Nếu ngộ tất cả pháp vô sanh thì Sắc như dụi mắt thấy hoa đốm trên không; Thọ như xoa bàn tay sanh những xúc giác trơn, rít, lạnh, nóng;
+Tưởng như nghe nói trái mơ tiết ra nước miếng; Hành như dòng nước chảy, chẳng có năng sanh sở sanh (nước chẳng phải năng sanh, dòng nước chẳng phải sở sanh);
+Thức như cái bình đựng đầy hư không, bình dụ cho nghiệp thân, hư không dụ cho vọng thức.
 
 Bản Giác tánh không, cùng khắp pháp giới, hễ mê thành vọng thức thì thành hư không ở trong bình, nhét bít miệng bình dụ cho vọng phân đồng dị, có trong có ngoài, kỳ thật trong bình ngoài bình chỉ cùng một hư không (dụ cho tánh và thức vốn là một thể), hư không chẳng khứ lai dụ cho tánh chẳng sanh diệt. Bình dụ vọng nghiệp, hư không dụ vọng thức, nghiệp kéo thức chạy theo, như đem bình đựng hư không đi các nước khác, dụ cho đi khắp lục đạo, cam chịu luân hồi.
 
@@ -430,10 +430,10 @@ Lục nhập, thập nhị xứ, thập bát giới, cho đến thất đại �
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

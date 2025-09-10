@@ -11,6 +11,9 @@
     "check": "astro check",
     "lint": "eslint . --ext .js,.ts,.astro",
     "format": "prettier --write .",
+    "frontmatter": "node scripts/convert-frontmatter.js",
+    "clean:mdx": "node scripts/clean-mdx-indent.js",
+    "mdxFormat": "npx prettier --write \"src/content/**/*.mdx\"\n",
     "generate-screenshots": "node generate-screenshots.js",
     "test:features": "playwright test"
   },
@@ -42,7 +45,9 @@
     "@fontsource/work-sans": "^5.2.6",
     "astro": "^5.9.1",
     "astro-auto-import": "^0.4.4",
-    "fuse.js": "^7.1.0"
+    "fuse.js": "^7.1.0",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.3",

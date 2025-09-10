@@ -1,0 +1,21 @@
+---
+const { children } = Astro.props;
+---
+
+<blockquote class="quote">
+    <p>{children}</p>
+</blockquote>
+
+<style>
+    blockquote.quote {
+        border-left: 4px solid #999;
+        padding-left: 1rem;
+        margin: 1rem 0;
+        color: #555;
+        font-style: italic;
+        font-family: Georgia, serif;
+    }
+    blockquote.quote p {
+        margin: 0;
+    }
+</style>

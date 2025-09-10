@@ -1,15 +1,15 @@
 ---
-title: "Kinh Lăng Ca trích giảng"
-description: "Cụ Lệ Thần TRẦN TRONG KIM Trích giảng Tủ Sách Phật Học Tân Việt ấn hành-Nhà xuất bản Tân Việt in lần thứ nhất tại Hà-nội"
-author: "Cụ Trần Trọng Kim"
-audioUrls: [
-  "http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3",
-]
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-categories: ["Luận"]
-tags: ["Kinh Lăng Già"]
+title: Kinh Lăng Ca trích giảng
+description: Cụ Lệ Thần TRẦN TRONG KIM Trích giảng Tủ Sách Phật Học Tân Việt ấn hành-Nhà xuất bản Tân Việt in lần thứ nhất tại Hà-nội
+author: Cụ Trần Trọng Kim
+audioUrls:
+  - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3
+videoUrl: https://www.youtube.com/embed/vwOi8UCTCp0
+categories:
+  - Luận
+tags:
+  - Kinh Lăng Già
 ---
-
 
 Theo lời chú đời xưa nói rằng Lăng-ca là tên một hòn núi rất bí ẩn ở trên đảo Tích-Lan ngày nay, có bể lớn bao bọc chung quanh, trên đỉnh núi có cái thành không có cửa là nơi Dạ-xoa quỉ vương ở và có những quỉ dạ-xoa thường hay đi bắt người và các loài sinh vật mà ăn, rất đáng kinh hãi.
 
@@ -17,7 +17,7 @@ Nhân khi Phật đi thuyết pháp ở Hải-Long-Vương cung về qua đấy,
 
 Phật cùng các Bồ Tát, có Đại Tuệ Bồ Tát đứng đầu, vào thành thuyết pháp. Những điều Phật nói trong kinh này là lời Phật thuyết ở trong thành ấy, cho nên mới lấy tên thành mà gọi Lăng-Ca kinh.
 
-* Ghi Chú của Cụ Trần Trọng Kim:
+- Ghi Chú của Cụ Trần Trọng Kim:
 
 > Hai tiếng Lăng-ca này ở các chùa thường đọc là Lăng Già, nhưng muốn theo đúng tiếng Phạm thì gọi là Lăng Ca phải hơn.
 >
@@ -25,7 +25,7 @@ Phật cùng các Bồ Tát, có Đại Tuệ Bồ Tát đứng đầu, vào th�
 >
 > Sách nhà Phật thường dùng những tiếng núi, sông, bể để hình dung những cái vô hình như ngũ uẩn sơn, sinh tử hải v.v... Vậy những tiếng núi bể nói đây cũng dùng theo cái nghĩa bóng ấy cả.
 
-* Theo thuyết người Ấn-Độ thuở trước thì Kinh Lăng-Ca toàn bộ có **40** quyển, **151** phẩm, nhưng chỉ có đệ nhất phẩm là **Nhất Thiết Phật Ngữ Tâm** được truyền sang nước Tàu mà thôi.
+- Theo thuyết người Ấn-Độ thuở trước thì Kinh Lăng-Ca toàn bộ có **40** quyển, **151** phẩm, nhưng chỉ có đệ nhất phẩm là **Nhất Thiết Phật Ngữ Tâm** được truyền sang nước Tàu mà thôi.
   Tương truyền phẩm này có 4 bản dịch ra Hán văn đều do tăng Ấn-Độ dịch cả, nhưng nay còn truyền lại có 3 bản:
 
 1. Một bản có từ đời **Lưu Tống** (420-477) do tăng Ấn-Độ tên **Cầu-na Bạt-đà-la** dịch, gọi là **Lăng-ca-a-bạt-đa-la bảo kinh** (**4** quyển).
@@ -40,12 +40,12 @@ Thế là cái học tâm tông truyền sang Tàu gốc ở Kinh Lăng-Ca này,
 
 Đại yếu kinh Lăng-Ca là trực chỉ minh tâm kiến tánh thành Phật để làm một thứ giáo ngoại biệt truyền, lập thành cái Đốn-giáo Đại-thặng.
 
-* Vào khoảng đời nhà Lương (502-557) Sơ Tổ Bồ-Đề-Đạt-Ma đem cái tâm tông bí truyền ở bên Ấn-Độ sang nước Tàu, rồi đến khi truyền pháp cho Nhị Tổ Tuệ-Khả, nói rằng: "Ta xem các kinh giáo ở Chấn-Đán, duy có bốn quyển Lăng-ca là có thể để ấn chứng cái tâm".
+- Vào khoảng đời nhà Lương (502-557) Sơ Tổ Bồ-Đề-Đạt-Ma đem cái tâm tông bí truyền ở bên Ấn-Độ sang nước Tàu, rồi đến khi truyền pháp cho Nhị Tổ Tuệ-Khả, nói rằng: "Ta xem các kinh giáo ở Chấn-Đán, duy có bốn quyển Lăng-ca là có thể để ấn chứng cái tâm".
 
 Từ Nhị Tổ Tuệ Khả đến Ngũ Tổ Hoàng-Nhẫn, trong Thiền Tông vẫn lấy kinh Lăng-ca truyền thụ. Sau không biết vì lẽ gì mà Ngũ Tổ đem kinh Kim-Cương thay kinh Lăng-ca.
 Sách Pháp Bảo Đàn Kinh chép lời người khách nói với Lục Tổ Huệ-Năng khi còn hàn vi rằng: "Ta đến chùa Đông-thiền ở Hoàng-mai để lễ bái, được nghe kinh Kim-cương, Ngũ Tổ Hoàng-Nhẫn đại sư thường khuyên tăng và tục nên tụng kinh Kim-cương tức tự thấy tánh, hiểu ngay thành Phật". Đến khi Ngũ Tổ truyền pháp cho Lục tổ cũng chỉ giảng kinh Kim-cương, chứ không nói gì đến kinh Lăng-ca. Từ đó về sau, trong Thiền môn chư tăng chuyên dùng kinh Kim-cương mà bỏ nhãng kinh Lăng-ca.
 
-* Mãi đến thế kỉ thứ XI, vào khoảng đời vua Tống Nhân-tông (1023-1063) có quan Thái-tử Thái-bảo Trương An-Đạo xướng lên việc đọc kinh Lăng-ca, rồi đến năm Nguyên-phong (1078-1085) đời vua Tống Thần-tông mới đưa cho ông Tô Đông-Pha khắc bản in.
+- Mãi đến thế kỉ thứ XI, vào khoảng đời vua Tống Nhân-tông (1023-1063) có quan Thái-tử Thái-bảo Trương An-Đạo xướng lên việc đọc kinh Lăng-ca, rồi đến năm Nguyên-phong (1078-1085) đời vua Tống Thần-tông mới đưa cho ông Tô Đông-Pha khắc bản in.
   Từ đó kinh Lăng-ca mới thịnh hành ở đời.
 
 Đến cuối đời nhà Minh, có vị cao tăng Thích Đức-Thanh tinh thông cả Thiền và Tịnh chấn hưng lại cái đạo trường ở Tào-khê của Lục Tổ ngày xưa.
@@ -69,9 +69,10 @@ Nhờ có bản kinh ấy mà ngày nay ta có thể hiểu được nhiều ý 
 
 Bởi cái nguyên tắc ấy nên Đại-Tuệ Bồ-tát lấy cái nghĩa sinh diệt, hữu vô, đoạn thường, nhân pháp vô ngã, niết bàn, tức là Bồ-tát dựa vào nhất tâm chuyển biến, như ngũ pháp, tam tự tính, bát thức, nhị vô ngã, và nhân quả, mê ngộ mà hỏi Phật.
 
-* Ghi chú của Cụ Trần Trọng Kim:
+- Ghi chú của Cụ Trần Trọng Kim:
 
 > 1/ NGŨ PHÁP là danh, tướng, vọng tưởng, chánh trí, như như.
+
 - TAM TỰ TÍNH là vọng tưởng tự tính, duyên khởi tự tính, thành tự tính.
 - BÁT THỨC là A-lại -da thức. Mạt-na thức, ý thức, nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức.
 - NHỊ VÔ NGÃ là nhân vô ngã, pháp vô ngã.
@@ -82,7 +83,7 @@ Vậy thấy rõ cái như thực gọi lá chính kiến, mà không thấy nh�
 
 Song nhất tâm là cái tâm Phật nói trong kinh này. Cái mà gọi là tịch diệt tức là nhất tâm.
 
-* Ghi chú của Cụ TTK:
+- Ghi chú của Cụ TTK:
 
 > Tịch diệt đây nói tịch và diệt.Tịch là tịch tĩnh mà thường chiếu. Diệt là diệt trừ hết vọng tưởng.
 > Nhất tâm ấy vốn không hình không tướng, cứ như như tự tại, tịch nhiên mà chiếu, không sinh không diệt.
@@ -104,20 +105,20 @@ Nếu theo chân-như-môn là theo cái nghĩa tam giới duy tâm, thì chỉ 
 Đã theo sinh-diệt-môn để làm cho rõ những pháp do duyên khởi sai biệt, thì những pháp ấy đều do duy-thức sở hiện, cho nên nói rằng vạn pháp duy thức . Song cái thức chỉ là ảo mộng mà thôi. Duy chỉ có nhất tâm, tâm tịch mà tri, chân với vọng đều lìa cả, tức là tự giác thánh trí, lấy đó thành lập cái chân duy-thức lượng.
 
 Trích lược ĐẠI THỪA KHỞI TÍN LUẬN
-1.Tướng Chân Như (Chân-như-môn)= Thể của Đại-Thừa là Phần thể tánh chơn tâm thanh tịnh. Không các pháp nhiễm (Như thật không), là thể tánh Chân Như. 
+1.Tướng Chân Như (Chân-như-môn)= Thể của Đại-Thừa là Phần thể tánh chơn tâm thanh tịnh. Không các pháp nhiễm (Như thật không), là thể tánh Chân Như.
 Tâm chúng sanh: 2 Tướng: Có tất cả công đức thanh tịnh (Như thật bất không), là tướng dụng cũng gọi Pháp Đại Thừa Chân Như.
-là Nhất Tâm Chân Nguyên 
-2.Tướng nhân duyên sanh diệt (Sanh-diệt-môn) - Gồm cả Tịch mà Tri, lìa cả chân vọng 
+là Nhất Tâm Chân Nguyên
+2.Tướng nhân duyên sanh diệt (Sanh-diệt-môn) - Gồm cả Tịch mà Tri, lìa cả chân vọng
 Thể + Tướng + dụng của Đại Thừa. ( Chân-Vọng hòa hiệp, có đủ Cũng gọi tự giác thánh trí nhiễm tịnh, thánh phàm.
 Tức A-lại-da: Công năng giữ gìn và xuất sanh tất cả các pháp.
 
-Có 2 nghĩa: 
+Có 2 nghĩa:
 
 1. Giác (Chân): Pháp thân bình đẳng của Như Lai - Bản thể của Chân tâm đã lìa vọng niệm.
-2. Bất giác (Vọng): Do không thật biết (mê) Chân Như mà chuyển. 
-Mê tánh giác = Căn bản vô minh - Tam tế, Lục thô = Chi mạt vô minh. 
-Tại sao mê tánh giác? 
-Theo Kinh Lăng Nghiêm: Tánh giác thường minh thường diệu, bông nhiên lấy minh minh diệu, từ đó phát sanh năng sở, đối đãi.
+2. Bất giác (Vọng): Do không thật biết (mê) Chân Như mà chuyển.
+   Mê tánh giác = Căn bản vô minh - Tam tế, Lục thô = Chi mạt vô minh.
+   Tại sao mê tánh giác?
+   Theo Kinh Lăng Nghiêm: Tánh giác thường minh thường diệu, bông nhiên lấy minh minh diệu, từ đó phát sanh năng sở, đối đãi.
 
 Sau khi đã nghe Phật bác những câu hỏi về 108 nghĩa, Đại-Tuệ Bồ-tát đã hiểu cái ý chỉ nhất tâm ly ngôn, bèn đem những điều ngờ theo cái tâm sinh-diệt-môn mà lần lượt hỏi Phật về các Pháp. Phật cũng lần lượt lấy nghĩa vạn pháp duy thức mà đáp lại và vạch rõ những điều tà chánh, chân vọng, để phá hết những điều ngờ của Đại-Tuệ Bồ-tát. - Đó là tông chỉ của kinh Lăng-ca, trước sau chủ lấy nhất tâm làm tông.
 
@@ -194,12 +195,12 @@ Chủng tử của A-lại-da huân hiện hành của 7 thức trước ) chuy�
 Tướng bất hoại là cái chân tướng không sai biệt ẩn trong cái sai biệt
 Hai tướng này lần lượt làm nhân cho nhau .
 
-* Ghi chú của Cụ Ngô-Huy-Đài:
+- Ghi chú của Cụ Ngô-Huy-Đài:
 
 > 4/ - Hiện hành và chủng tử (của đệ bát thức) huân tập.
-Các pháp nhiễm tịnh do thức sát na đầu của các loai hữu tình chấp trì - Mỗi khi qua một hiện hành là một lần huân tập, - Do huân tập nên thành chủng tử. - Chủng tử nếu gặp duyên thì lại sinh hiện hành. - Cứ như thề, lần lần có vô số chủng tử huân tập.
-Do vô thủy vô minh, khởi nghiệp thọ báo, rồi sinh nhiễm tịnh và hiện hành, lại huân nhiễm tịnh chủng tử, chủng tử lại sinh hiện hành, cho đến sát na chót định Kim-Cương mới hoàn toàn xả hết, thoat khỏi sinh tử.
-( Trích Nhân vương hộ quốc Bát nhã ba la mật đa kinh - Giải văn -trang 100)
+> Các pháp nhiễm tịnh do thức sát na đầu của các loai hữu tình chấp trì - Mỗi khi qua một hiện hành là một lần huân tập, - Do huân tập nên thành chủng tử. - Chủng tử nếu gặp duyên thì lại sinh hiện hành. - Cứ như thề, lần lần có vô số chủng tử huân tập.
+> Do vô thủy vô minh, khởi nghiệp thọ báo, rồi sinh nhiễm tịnh và hiện hành, lại huân nhiễm tịnh chủng tử, chủng tử lại sinh hiện hành, cho đến sát na chót định Kim-Cương mới hoàn toàn xả hết, thoat khỏi sinh tử.
+> ( Trích Nhân vương hộ quốc Bát nhã ba la mật đa kinh - Giải văn -trang 100)
 
 5/ - Vô minh huân chân-như, tạo nhân cho đệ bát thức sinh khởi, đó là lưu-chú sinh, cũng gọi nghiệp tướng.
 Khởi vọng tâm là chuyển tướng, (năng). // Hiện ra "vọng cảnh giới" là hiện tướng, (sở). (Coi thêm ĐTKTL)

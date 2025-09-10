@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển IX"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "23838"
 categories: ["Kinh"]
@@ -21,87 +21,87 @@ pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 
 #### SƠ THIỀN
 
-1. A Nan! Tất cả người tu tâm trong thế gian chẳng nhờ Thiền Na thì chẳng có trí huệ; nếu được giữ thân chẳng dâm dục, khi đi khi ngồi, niệm tưởng đều không, ái nhiễm chẳng sanh, chẳng lưu luyến *Dục Giới*, làm bạn với *Phạn Thiên*, hạng này gọi là *Phạn Chúng Thiên*.
+1. A Nan! Tất cả người tu tâm trong thế gian chẳng nhờ Thiền Na thì chẳng có trí huệ; nếu được giữ thân chẳng dâm dục, khi đi khi ngồi, niệm tưởng đều không, ái nhiễm chẳng sanh, chẳng lưu luyến _Dục Giới_, làm bạn với _Phạn Thiên_, hạng này gọi là _Phạn Chúng Thiên_.
 
-2. Dục lậu đã trừ, "Tâm lìa dục" hiện, ưa hành theo các luật nghi, đức hạnh trong sạch, hạng này gọi là *Phạn Phụ Thiên*.
+2. Dục lậu đã trừ, "Tâm lìa dục" hiện, ưa hành theo các luật nghi, đức hạnh trong sạch, hạng này gọi là _Phạn Phụ Thiên_.
 
-3. Thân tâm diệu viên, oai nghi đầy đủ, giới cấm trong sạch, lại có sự tỏ ngộ, được thống lãnh Phạn Chúng, làm *Đại Phạn Vương*, hạng này gọi là *Đại Phạn Thiên*.
+3. Thân tâm diệu viên, oai nghi đầy đủ, giới cấm trong sạch, lại có sự tỏ ngộ, được thống lãnh Phạn Chúng, làm _Đại Phạn Vương_, hạng này gọi là _Đại Phạn Thiên_.
 
-- A Nan! Ba bậc này tất cả khổ não chẳng thể bức bách, dù chẳng phải chánh tu *chơn Tam Ma Địa*, nhưng nơi tâm trong sạch, dục lậu chẳng thể lay động, gọi là *Sơ Thiền*.
+- A Nan! Ba bậc này tất cả khổ não chẳng thể bức bách, dù chẳng phải chánh tu _chơn Tam Ma Địa_, nhưng nơi tâm trong sạch, dục lậu chẳng thể lay động, gọi là _Sơ Thiền_.
 
 #### NHỊ THIỀN
 
-1. A Nan! Hàng Phạn Thiên thống lãnh Phạn chúng, đầy đủ phạn hạnh, lắng tâm chẳng động; do tịch lặng sanh ra ánh sáng; hạng này gọi là *Thiểu Quang Thiên*.
+1. A Nan! Hàng Phạn Thiên thống lãnh Phạn chúng, đầy đủ phạn hạnh, lắng tâm chẳng động; do tịch lặng sanh ra ánh sáng; hạng này gọi là _Thiểu Quang Thiên_.
 
-2. Ánh sáng chói lọi, chiếu soi vô cùng, chiếu khắp mười phương cõi đều như lưu ly; hạng này gọi là *Vô Lượng Quang Thiên*.
+2. Ánh sáng chói lọi, chiếu soi vô cùng, chiếu khắp mười phương cõi đều như lưu ly; hạng này gọi là _Vô Lượng Quang Thiên_.
 
-3. Hào quang đồng như âm thanh, thành tựu giáo thể, phát ra sự giáo hóa trong sạch, ứng dụng vô cùng; hạng này gọi là *Quang Âm Thiên*.
+3. Hào quang đồng như âm thanh, thành tựu giáo thể, phát ra sự giáo hóa trong sạch, ứng dụng vô cùng; hạng này gọi là _Quang Âm Thiên_.
 
-- A Nan! Ba bậc này tất cả lo buồn chẳng thể bức bách, dù chẳng phải chánh tu *chơn Tam Ma Địa*, nhưng nơi tâm trong sạch, những phiền não thô động đã uốn dẹp, gọi là *Nhị Thiền*.
+- A Nan! Ba bậc này tất cả lo buồn chẳng thể bức bách, dù chẳng phải chánh tu _chơn Tam Ma Địa_, nhưng nơi tâm trong sạch, những phiền não thô động đã uốn dẹp, gọi là _Nhị Thiền_.
 
 #### TAM THIỀN
 
-1. A Nan! Hào quang thành âm, dùng âm thanh tỏ bày diệu lý, thành hạnh tinh tấn, thông với sự vui tịch diệt, hạng này gọi là *Thiểu Tịnh Thiên*.
+1. A Nan! Hào quang thành âm, dùng âm thanh tỏ bày diệu lý, thành hạnh tinh tấn, thông với sự vui tịch diệt, hạng này gọi là _Thiểu Tịnh Thiên_.
 
-2. Cảnh "Tịnh Không" hiện tiền, chẳng có bờ bến, thân tâm nhẹ nhàng, thành sự vui tịch diệt, hạng này gọi là *Vô Lượng Tịnh Thiên*.
+2. Cảnh "Tịnh Không" hiện tiền, chẳng có bờ bến, thân tâm nhẹ nhàng, thành sự vui tịch diệt, hạng này gọi là _Vô Lượng Tịnh Thiên_.
 
-3. Thế giới và thân tâm, tất cả đều trong sạch, thành tựu đức tánh trong sạch, thắng cảnh hiện tiền, qui về cái vui tịch diệt, hạng này gọi là *Biến Tịnh Thiên*.
+3. Thế giới và thân tâm, tất cả đều trong sạch, thành tựu đức tánh trong sạch, thắng cảnh hiện tiền, qui về cái vui tịch diệt, hạng này gọi là _Biến Tịnh Thiên_.
 
-- A Nan! Ba bậc này đầy đủ công hạnh đại tùy thuận, thân tâm yên ổn, được sự vui vô lượng, dù chẳng phải thật đắc *chơn Tam Ma Địa*, nhưng nơi tâm yên ổn trọn đủ sự hoan hỷ, gọi là *Tam Thiền*.
+- A Nan! Ba bậc này đầy đủ công hạnh đại tùy thuận, thân tâm yên ổn, được sự vui vô lượng, dù chẳng phải thật đắc _chơn Tam Ma Địa_, nhưng nơi tâm yên ổn trọn đủ sự hoan hỷ, gọi là _Tam Thiền_.
 
 #### TỨ THIỀN
 
-1. Lại nữa A Nan! Cõi trời này, thân tâm chẳng bị bức bách, nhân khổ đã hết, biết sự vui chẳng thường trụ, lâu ắt biến hoại, hai tâm khổ vui nhất thời cùng xả, tướng thô đã diệt, tánh phước được sanh, hạng này gọi là *Phước Sanh Thiên*.
+1. Lại nữa A Nan! Cõi trời này, thân tâm chẳng bị bức bách, nhân khổ đã hết, biết sự vui chẳng thường trụ, lâu ắt biến hoại, hai tâm khổ vui nhất thời cùng xả, tướng thô đã diệt, tánh phước được sanh, hạng này gọi là _Phước Sanh Thiên_.
 
-2. Tâm xả viên dung, thắng giải trong sạch, được sự tùy thuận nhiệm mầu, cùng tột vị lai, tánh phước chẳng ngăn ngại, hạng này gọi là *Phước Ái Thiên*.
+2. Tâm xả viên dung, thắng giải trong sạch, được sự tùy thuận nhiệm mầu, cùng tột vị lai, tánh phước chẳng ngăn ngại, hạng này gọi là _Phước Ái Thiên_.
 
-3. A Nan! Từ cõi trời này tẻ ra hai đường: Nếu dùng tâm sáng tỏ đầy đủ phước đức trước kia để tu chứng an trụ, hạng này gọi là *Quảng Quả Thiên*.
+3. A Nan! Từ cõi trời này tẻ ra hai đường: Nếu dùng tâm sáng tỏ đầy đủ phước đức trước kia để tu chứng an trụ, hạng này gọi là _Quảng Quả Thiên_.
 
-4. Nếu nơi tâm trước kia, nhàm chán cả khổ vui, lại nghiền ngẫm cái tâm xả chẳng gián đoạn, trọn thành đạo xả, thân tâm tiêu diệt, lắng tâm bặt tưởng, trải qua năm trăm kiếp. Nhưng vì người ấy đã lấy cái sanh diệt làm nhân, thì chẳng thể phát minh tánh chẳng sanh diệt, nên nửa kiếp đầu thì diệt, nửa kiếp sau lại sanh, hạng này gọi là *Vô Tưởng Thiên*.
+4. Nếu nơi tâm trước kia, nhàm chán cả khổ vui, lại nghiền ngẫm cái tâm xả chẳng gián đoạn, trọn thành đạo xả, thân tâm tiêu diệt, lắng tâm bặt tưởng, trải qua năm trăm kiếp. Nhưng vì người ấy đã lấy cái sanh diệt làm nhân, thì chẳng thể phát minh tánh chẳng sanh diệt, nên nửa kiếp đầu thì diệt, nửa kiếp sau lại sanh, hạng này gọi là _Vô Tưởng Thiên_.
 
-- A Nan! Bốn bậc này tất cả cảnh khổ vui của thế gian chẳng thể lay động, dù chẳng phải là chỗ chơn bất động của đạo vô vi, nhưng nơi tâm có sở đắc, công dụng thuần thục, gọi là *Tứ Thiền*.
+- A Nan! Bốn bậc này tất cả cảnh khổ vui của thế gian chẳng thể lay động, dù chẳng phải là chỗ chơn bất động của đạo vô vi, nhưng nơi tâm có sở đắc, công dụng thuần thục, gọi là _Tứ Thiền_.
 
 #### NGŨ TỊNH CƯ THIÊN
 
 - Ở đây, còn có năm bậc Bất Hoàn Thiên, đã dứt sạch chín phẩm tập khí của cõi dưới, khổ vui đều hết, chẳng định cư ở cõi dưới, nên an lập chỗ ở nơi tâm xả của đồng phận chúng sanh.
 
-1. Vậy, khổ vui đã diệt, ưa ghét chẳng sanh, hạng này gọi là *Vô Phiền Thiên*.
+1. Vậy, khổ vui đã diệt, ưa ghét chẳng sanh, hạng này gọi là _Vô Phiền Thiên_.
 
-2. Tự tại phóng xả, chẳng có năng sở, tâm chẳng đối đãi, hạng này gọi là *Vô Nhiệt Thiên*.
+2. Tự tại phóng xả, chẳng có năng sở, tâm chẳng đối đãi, hạng này gọi là _Vô Nhiệt Thiên_.
 
-3. Mười phương thế giới, diện kiến trong lặng, chẳng còn tất cả cấu nhiễm của cảnh trần, hạng này gọi là *Thiện Kiến Thiên*.
+3. Mười phương thế giới, diện kiến trong lặng, chẳng còn tất cả cấu nhiễm của cảnh trần, hạng này gọi là _Thiện Kiến Thiên_.
 
-4. Diệu kiến hiện tiền, biến tạo vô ngại, hạng này gọi là *Thiện Hiện Thiên*.
+4. Diệu kiến hiện tiền, biến tạo vô ngại, hạng này gọi là _Thiện Hiện Thiên_.
 
-5. Sắc trần từ tướng lăng xăng đến chỗ cứu cánh chẳng động, cùng tột tánh sắc chẳng có bờ bến, hạng này gọi là *Sắc Cứu Cánh Thiên*.
+5. Sắc trần từ tướng lăng xăng đến chỗ cứu cánh chẳng động, cùng tột tánh sắc chẳng có bờ bến, hạng này gọi là _Sắc Cứu Cánh Thiên_.
 
-- A Nan! Với các cõi Bất Hoàn Thiên này, chỉ riêng 4 vị Thiên Vương cõi Tứ Thiền mới được nghe biết, nhưng chẳng thể thấy biết. 
-Như nay trong thế gian, nơi núi sâu rừng thẳm, những đạo tràng của bậc thánh, đều có các vị A La Hán trụ trì, mà người thế tục chẳng thể thấy.
+- A Nan! Với các cõi Bất Hoàn Thiên này, chỉ riêng 4 vị Thiên Vương cõi Tứ Thiền mới được nghe biết, nhưng chẳng thể thấy biết.
+  Như nay trong thế gian, nơi núi sâu rừng thẳm, những đạo tràng của bậc thánh, đều có các vị A La Hán trụ trì, mà người thế tục chẳng thể thấy.
 
-- A Nan! 18 cõi trời kể trên, dù thoát khỏi cảnh dục, nhưng chưa thoát khỏi sắc thân, gọi là *Sắc Giới*.
+- A Nan! 18 cõi trời kể trên, dù thoát khỏi cảnh dục, nhưng chưa thoát khỏi sắc thân, gọi là _Sắc Giới_.
 
 ### VÔ SẮC GIỚI
 
-- Lại nữa A Nan! Từ trên đảnh của *Sắc Giới*, lại rẽ ra 2 đường:
+- Lại nữa A Nan! Từ trên đảnh của _Sắc Giới_, lại rẽ ra 2 đường:
 
-1. Nếu nơi tâm xả, phát minh trí huệ, sáng suốt viên thông, bèn ra cõi trần, thành A La Hán, vào Bồ Tát Thừa, hạng này gọi là *Hồi Tâm Đại A La Hán*.
+1. Nếu nơi tâm xả, phát minh trí huệ, sáng suốt viên thông, bèn ra cõi trần, thành A La Hán, vào Bồ Tát Thừa, hạng này gọi là _Hồi Tâm Đại A La Hán_.
 
-2. Nếu nơi tâm xả được thành tựu, thấy thân chướng ngại, tiêu ngại vào không, hạng này gọi là *Không Xứ*.
+2. Nếu nơi tâm xả được thành tựu, thấy thân chướng ngại, tiêu ngại vào không, hạng này gọi là _Không Xứ_.
 
-- Chướng ngại đã tiêu, vô ngại vô diệt, trong đó chỉ còn A Lại Da Thức và nửa phần vi tế của Mạt Na Thức; hạng này gọi là *Thức Xứ*.
+- Chướng ngại đã tiêu, vô ngại vô diệt, trong đó chỉ còn A Lại Da Thức và nửa phần vi tế của Mạt Na Thức; hạng này gọi là _Thức Xứ_.
 
-- Sắc và Không đã tiêu, tâm thức đều diệt, mười phương tịch lặng, chẳng có chỗ đến; hạng này gọi là *Vô Sở Hữu Xứ*.
+- Sắc và Không đã tiêu, tâm thức đều diệt, mười phương tịch lặng, chẳng có chỗ đến; hạng này gọi là _Vô Sở Hữu Xứ_.
 
-- Dùng tánh thức chẳng động để diệt sự nghiền ngẫm, thành ra ở nơi vô tận lại tỏ bày tánh tận, như còn mà chẳng còn, tận mà chẳng tận, hạng này gọi là *Phi Tưởng Phi Phi Tưởng Xứ*.
+- Dùng tánh thức chẳng động để diệt sự nghiền ngẫm, thành ra ở nơi vô tận lại tỏ bày tánh tận, như còn mà chẳng còn, tận mà chẳng tận, hạng này gọi là _Phi Tưởng Phi Phi Tưởng Xứ_.
 
-- Hạng này xét cùng cái Không, nhưng chẳng tột lý Không; nếu từ thánh đạo Bất Hoàn Thiên mà xét cùng, hạng này gọi là *Bất Hồi Tâm Độn A La Hán*.
+- Hạng này xét cùng cái Không, nhưng chẳng tột lý Không; nếu từ thánh đạo Bất Hoàn Thiên mà xét cùng, hạng này gọi là _Bất Hồi Tâm Độn A La Hán_.
 
-- Nếu từ *Vô Tưởng Thiên* của ngoại đạo mà chấp thật Không, chẳng biết quày đầu, mê muội hữu lậu, chẳng nghe chánh pháp, bèn vào luân hồi.
+- Nếu từ _Vô Tưởng Thiên_ của ngoại đạo mà chấp thật Không, chẳng biết quày đầu, mê muội hữu lậu, chẳng nghe chánh pháp, bèn vào luân hồi.
 
-- A Nan! Những cõi trời kể trên, mỗi mỗi đều là phàm phu đền trả nghiệp quả, khi nghiệp quả trả hết bèn vào luân hồi. 
-Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lượt tiến lên, hướng về đường tu của Bậc Thánh.
+- A Nan! Những cõi trời kể trên, mỗi mỗi đều là phàm phu đền trả nghiệp quả, khi nghiệp quả trả hết bèn vào luân hồi.
+  Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lượt tiến lên, hướng về đường tu của Bậc Thánh.
 
-- A Nan! Cõi Tứ Không này, thân tâm dứt sạch, tánh định hiện tiền, chẳng có sắc thân của nghiệp quả; từ đây đến cùng, gọi là *Vô Sắc Giới*.
+- A Nan! Cõi Tứ Không này, thân tâm dứt sạch, tánh định hiện tiền, chẳng có sắc thân của nghiệp quả; từ đây đến cùng, gọi là _Vô Sắc Giới_.
 
 - Ấy đều do chẳng rõ diệu tâm sáng tỏ, tích chứa vọng tưởng, chấp thân trung ấm, tùy loại thọ sanh, vọng có tam giới, nên vọng theo bảy loài mà chìm đắm.
 
@@ -227,18 +227,18 @@ Thiên Vương các cõi ấy, đều là Bồ Tát tu Tam Ma Địa, lần lư�
 
 [^17]: Kiên cố vọng tưởng và kiếp trược: Sắc Ấm tại sao gọi là Kiên Cố Vọng Tưởng? Vì do vọng tưởng của cha mẹ và vọng tưởng của mình giao kết mà thành cái sắc thân kiên cố này, nên gọi là Kiên Cố Vọng Tưởng. Do Sắc Ấm và tri kiến giao tranh lẫn nhau, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Kiếp Trược.
 
-[^18]: Hư Minh Vọng Tưởng và Kiến Trược: Thọ Ấm tại sao gọi là Hư Minh Vọng Tưởng? Vì Hư thì năng thọ, Minh thì năng nhận, như bóng tượng hiện trong gương sáng. Theo bản thể, hư minh là tâm Phật, tại sao nói là vọng tưởng? Vì hễ mống lên một niệm chấp trước, muốn được sự chứng đắc, thì liền bị thọ ấm che khuất, nên gọi là Hư Minh Vọng Tưởng.  Kiến Trược là do tri kiến thọ nhận các cảnh rồi giao tranh lẫn nhau, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Kiến Trược.
+[^18]: Hư Minh Vọng Tưởng và Kiến Trược: Thọ Ấm tại sao gọi là Hư Minh Vọng Tưởng? Vì Hư thì năng thọ, Minh thì năng nhận, như bóng tượng hiện trong gương sáng. Theo bản thể, hư minh là tâm Phật, tại sao nói là vọng tưởng? Vì hễ mống lên một niệm chấp trước, muốn được sự chứng đắc, thì liền bị thọ ấm che khuất, nên gọi là Hư Minh Vọng Tưởng. Kiến Trược là do tri kiến thọ nhận các cảnh rồi giao tranh lẫn nhau, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Kiến Trược.
 
-[^19]: Dung Thông Vọng Tưởng và Phiền Não Trược: Tưởng Ấm tại sao gọi là Dung Thông Vọng Tưởng? Do tưởng năng dung thông biến hóa, khiến Tâm theo cảnh, khiến cảnh theo Tâm. Vì cái Tâm chấp dung thông chưa được hóa giải, nên ma mới được dịp thừa cái chấp ấy mà mê hoặc người, nên gọi là Dung Thông Vọng Tưởng.  Tất cả phiền não đều do tưởng niệm mà có, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Phiền Não Trược.
+[^19]: Dung Thông Vọng Tưởng và Phiền Não Trược: Tưởng Ấm tại sao gọi là Dung Thông Vọng Tưởng? Do tưởng năng dung thông biến hóa, khiến Tâm theo cảnh, khiến cảnh theo Tâm. Vì cái Tâm chấp dung thông chưa được hóa giải, nên ma mới được dịp thừa cái chấp ấy mà mê hoặc người, nên gọi là Dung Thông Vọng Tưởng. Tất cả phiền não đều do tưởng niệm mà có, dựa theo đó mà sanh ra tri kiến chấp thật, nên gọi là Phiền Não Trược.
 
 ## QUYỂN IX HẾT
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

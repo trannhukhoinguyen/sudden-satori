@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-// import AutoImport from "astro-auto-import";
+import AutoImport from "astro-auto-import";
 
 // https://astro.build/config
 export default defineConfig({
@@ -14,11 +14,13 @@ export default defineConfig({
   base: process.env.BASE_PATH || undefined,
 
   integrations: [
-    // AutoImport({
-    //   imports: [
-    //
-    //   ]
-    // }),
+    AutoImport({
+      imports: [
+        {
+          "@/components/blocks": ["Poem", "Quote", "Block"],
+        },
+      ],
+    }),
 
     // Sitemap cho pages
     sitemap({

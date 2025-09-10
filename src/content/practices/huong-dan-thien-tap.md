@@ -2,8 +2,7 @@
 title: "HƯỚNG DẪN THIỀN TẬP"
 description: "Hòa Thượng Tuyên Hóa"
 image: "/images/koans/great-wave.webp"
-excerpt:
-  "Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. ...."
+excerpt: "Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. ...."
 categories: ["Luận"]
 tags: ["Thực hành"]
 author: "Thạch Sương Khánh Chư"
@@ -11,8 +10,8 @@ author: "Thạch Sương Khánh Chư"
 
 ## SƠ CƠ TẬP THIỀN
 
-Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh. 
-Song ai đánh ai đây? Bạn tự đánh bạn đấy! Thế nghĩa là lý gì? 
+Tiếng Hán, ngồi thiền là “đả tọa”. Tọa là ngồi, còn đả nghĩa là đánh. Ngồi chịu đòn, chịu đánh.
+Song ai đánh ai đây? Bạn tự đánh bạn đấy! Thế nghĩa là lý gì?
 Đa số người khi bắt đầu tập ngồi, họ không thực hành một cách thành thật, hễ ngồi vào thì thân nghiêng qua vẹo lại, đầu chúi tới gật lui, loay hoay nhúc nhích hoài mà không an định được. Tóm lại, họ ngồi không yên định được. Tuy vậy, chính cái chỗ, chính cái lúc không an định này mình phải làm chủ: đó gọi là định. Thân không muốn định, mình phải quản thúc, kiềm chế nó, cũng giống như “đập” nó vậy. Do đó gọi là “đả tọa”. Bạn cũng không để tâm ngó ra ngoài. Mỗi khi ý niệm chạy rong bạn phải lập tức kéo nó về lại, khiến cho tâm mình không chạy ra ngoài. Bạn sẽ cảm giác cái việc “kéo lại” này đau khổ thật chẳng khác gì sự khổ sở của kẻ bị đánh vậy. Do đó gọi là “đả tọa”.
 
 Vì vậy, việc tiên quyết của kẻ sơ cơ tập thiền là phải chịu khổ. Cái khổ này không thật là khó nhẫn, cũng chẳng có chi là to lớn lắm đâu, chỉ là đau chân, mỏi lưng, nhức xương vậy thôi. Do thế chữ “đả tọa” không phải là thứ ngọt ngào dễ nuốt đâu. Song, nếu bạn không “đả tọa” thì vĩnh viễn bạn chẳng gặt hái được thứ gì ngọt ngào. Do đó cổ nhân nói:
@@ -63,7 +62,7 @@ Lần này hai con quỷ đến đảnh lễ, thấy có chuyện lạ, một co
 
 “Thì sao nào?”, con quỷ kia đáp lại “Chùa bằng bạc vẫn quý rồi, chúng ta nên đảnh lễ đi!”
 
-Rồi cả hai con quỷ đồng đảnh lễ, chúng đảnh lễ một hồi  lâu cho đến khi chân của vị tăng lại bị đau và ông ta uể oải duỗi ra nghỉ, giống như khi quý vị từng làm mỗi khi ngồi thiền mệt mỏi. Vị tăng lúc đó suy nghĩ: “Ta nên nằm nghỉ chốc lát.”
+Rồi cả hai con quỷ đồng đảnh lễ, chúng đảnh lễ một hồi lâu cho đến khi chân của vị tăng lại bị đau và ông ta uể oải duỗi ra nghỉ, giống như khi quý vị từng làm mỗi khi ngồi thiền mệt mỏi. Vị tăng lúc đó suy nghĩ: “Ta nên nằm nghỉ chốc lát.”
 
 Nhưng ngay lúc đó, hai con quỷ thoáng thấy ngôi chùa mình đang lạy biến thành một đống bùn. Một con quỷ kêu lên: “Nè! Coi kìa, nhanh lên! Hãy đánh nó đi!”.Nhận thấy hai con quỷ sắp đánh mình, vị tăng sững người vì sợ hãi, nhẹ nhàng trở lại ngồi gọn gàng trong tư thế kiết già. Vừa đúng lúc hai con quỷ đồng thanh la lên: “Ồ! Thật đúng là xá-lợi của Đức Phật ở trong đó. Thật là trò biến hóa như yêu quỷ. Phút trước đó là ngôi chùa vàng, phút sau là chùa bạc, rồi trở thành đống bùn. Chúng ta tốt hơn chỉ nên đảnh lễ bất luận chuyện gì xảy ra!”, rồi chúng lạy không nghỉ cho đến khi trời sáng.
 
@@ -73,7 +72,7 @@ Sự kiện này có một ảnh hưởng tác động đến vị tăng – “
 
 ## MỖI NGƯỜI PHẢI TỰ CHẤM DỨT SANH TỬ CỦA CHÍNH MÌNH
 
-Tham thiền là pháp môn ấn tâm vi diệu do đức Thích Ca thân truyền tại đỉnh Linh Sơn. Dạo ấy, đức Phật cầm một cành hoa trong tay và đưa lên, miệng mỉm cười. Không ai trong pháp hội hiểu đặng ý Phật, duy chỉ có ngài Ma Ha Ca-Diếp minh bạch ý chỉ của Phật. Ngài liền mỉm cười. Đây là lần đầu tiên pháp môn “dĩ tâm ấn tâm” được truyền và  từ đó, pháp môn ấy được các vị Tổ truyền thừa cho các thế hệ tiếp nối.
+Tham thiền là pháp môn ấn tâm vi diệu do đức Thích Ca thân truyền tại đỉnh Linh Sơn. Dạo ấy, đức Phật cầm một cành hoa trong tay và đưa lên, miệng mỉm cười. Không ai trong pháp hội hiểu đặng ý Phật, duy chỉ có ngài Ma Ha Ca-Diếp minh bạch ý chỉ của Phật. Ngài liền mỉm cười. Đây là lần đầu tiên pháp môn “dĩ tâm ấn tâm” được truyền và từ đó, pháp môn ấy được các vị Tổ truyền thừa cho các thế hệ tiếp nối.
 
 Ngài Đại Ca-Diếp lúc bấy giờ đã trên trăm tuổi. Là vị tu hạnh đầu-đà bậc nhất, luôn luôn phấn chấn nỗ lực dụng công, Ngài không cười cợt bừa bãi đâu. Lý do Ngài mỉm cười là vì liễu ngộ ý chỉ của Phật, rồi biểu thị pháp “lấy tâm ấn tâm” đấy.
 
@@ -95,62 +94,62 @@ Lại nói truyền thuyết về hàm răng của những vị Thánh nh
 Khi lời thốt ra mà không ứng hợp, Tổ liền biết hiện tại cơ duyên Thần Quang chưa đến, Ngài liền tới núi Tung Sơn, tỉnh Hồ Nam. Trên đường Tổ gặp một con chim oanh vũ bị nhốt trong cái lồng mây. Con chim nhận ra Ngài và hỏi:
 
 > “Tây lai ý,
-Tây lai ý,
-Thỉnh nhữ giáo nhã
-Xuất lưng kế”
+> Tây lai ý,
+> Thỉnh nhữ giáo nhã
+> Xuất lưng kế”
 
 Tạm dịch:
 
 > “Với ý chỉ từ phương Tây,
-Với ý chỉ từ phương Tây,
-Xin Ngài dạy con,
-Kế sách thoát khỏi lồng này”
+> Với ý chỉ từ phương Tây,
+> Xin Ngài dạy con,
+> Kế sách thoát khỏi lồng này”
 
 Bồ-Đề-Đạt-Ma bèn dạy cho chim kế rằng:
 
 > “Xuất lung kế,
-Xuất lung kế,
-Lưỡng thối trường thân,
-Lưỡng nhãn bế,
-Thử tiện thị nhữ xuất lung kế”
+> Xuất lung kế,
+> Lưỡng thối trường thân,
+> Lưỡng nhãn bế,
+> Thử tiện thị nhữ xuất lung kế”
 
 Tạm dịch:
 
 > “Kế thoát lồng,
-Kế thoát lồng,
-Hai chân duỗi thẳng
-Mắt nhắm nghiền,
-Chính là diệu kế bay thoát lồng”
+> Kế thoát lồng,
+> Hai chân duỗi thẳng
+> Mắt nhắm nghiền,
+> Chính là diệu kế bay thoát lồng”
 
 Con chim lắng nghe xong là hiểu ngay. Rồi nó ngay cẳng ra, nhắm nghiền mắt lại, giả chết. Khi người chủ chim đi làm về, anh ta đến lồng thấy chim, bèn la lên:“Úi da! Chim ơi ngươi làm sao thế?”
 
-Hoảng hốt, anh ta mở cửa lồng, bồng chim ra. Chàng chim nín thở bất động… Người  chủ chim thấy làm lạ, coi tới coi lui chàng chim, rồi ngĩ: “Chim không cục cựa, giống y như đã chết. Song chết rồi thì sao thân không lạnh?”. Do dự, phân vân hết sức, anh ta từ từ mở tay ra… Đúng lúc ấy, chàng chim vỗ cánh bay khỏi tay anh ta. Tự do!
+Hoảng hốt, anh ta mở cửa lồng, bồng chim ra. Chàng chim nín thở bất động… Người chủ chim thấy làm lạ, coi tới coi lui chàng chim, rồi ngĩ: “Chim không cục cựa, giống y như đã chết. Song chết rồi thì sao thân không lạnh?”. Do dự, phân vân hết sức, anh ta từ từ mở tay ra… Đúng lúc ấy, chàng chim vỗ cánh bay khỏi tay anh ta. Tự do!
 
-Câu chuyện này đáng làm cho chúng ta suy nghĩ. Ai trong chúng ta không như chim nhốt trong lồng? Tuy ngày ngày ta sống nhởn nhơ, song ta nào có tự do, ra ngoài vòng sanh tử. Mà sự thật là ta sanh ra mê muội, rồi thì mê muội chết đi, chưa hề thấy bản lai diện mục của mình. Vì vậy, nếu muốn được tự do sanh tử, thì trước hết hãy coi mình là kẻ đã chết.* Cho nên nói:
+Câu chuyện này đáng làm cho chúng ta suy nghĩ. Ai trong chúng ta không như chim nhốt trong lồng? Tuy ngày ngày ta sống nhởn nhơ, song ta nào có tự do, ra ngoài vòng sanh tử. Mà sự thật là ta sanh ra mê muội, rồi thì mê muội chết đi, chưa hề thấy bản lai diện mục của mình. Vì vậy, nếu muốn được tự do sanh tử, thì trước hết hãy coi mình là kẻ đã chết.\* Cho nên nói:
 
 > “Nhược dục nhân bất tử
-Tức hạ tử công phu.”
+> Tức hạ tử công phu.”
 
 Tạm dịch:
 
 > “Nếu muốn mình không chết
-Thì phải tu hết mình”
+> Thì phải tu hết mình”
 
 Mục đích việc tu hành, là muốn thấu rõ mình từ đâu sanh ra và mình chết sẽ đi về đâu? Và để thấu rõ lý do gì mình không thể làm chủ vận mạng của chính mình.
 
 “Có chứ”. Các vị có thể nói: ”Tôi làm chủ thân tôi. Thân này thuộc về tôi”. Nếu các vị thật sự làm chủ thân mình, sao các vị chẳng làm thân trẻ mãi không già? Đến lúc bịnh sao các vị không tự chủ – đừng bịnh? Tới lúc chết, các vị lại càng không thể tự chủ. Cho nên mình cần phải thật sự hiểu rõ ngọn ngành sanh tử. Rằng:
 
 > “Lai thời hồ đồ, khứ thời bi
-Uổng tại nhân gian, tẩu nhất hồi
-Bất như bất lai diệc bất khứ
-Diệc vô hoan hỉ diệc vô bi.”
+> Uổng tại nhân gian, tẩu nhất hồi
+> Bất như bất lai diệc bất khứ
+> Diệc vô hoan hỉ diệc vô bi.”
 
 Tạm dịch:
 
 > “Đến thật hồ đồ, đi buồn lo
-Sống uổng trên đời chạy vòng vo
-Chi bằng không đến cũng không đi
-Cũng chẳng vui sướng chẳng sầu bi.”
+> Sống uổng trên đời chạy vòng vo
+> Chi bằng không đến cũng không đi
+> Cũng chẳng vui sướng chẳng sầu bi.”
 
 con người sanh ra trong u mê, chết đi trong u mê. Khi lâm chung thì buồn rầu khổ não. Nếu bị cảnh trạng này xoay chuyển thì làm người thật vô nghĩa. Vòng vo quanh quẩn hoài trong u buồn, khổ bi thì thật uổng đời lắm. Chi bằng không đến không đi, há không khỏe hơn sao? Được vậy tức thoát khỏi vòng hoan hỉ sầu bi, thực sự tự do tự tại.
 
@@ -167,18 +166,18 @@ Tọa thiền thì phải ngồi thiền. Vì sao vậy? Để nhiếp t
 Tại sao người ta không có trí huệ? Bởi vì những suy nghĩ của họ cứ mãi lăng xăng chạy ra ngoài. Tại sao người ta già đi mỗi ngày? Bởi vì tâm của họ luôn luôn truy đuổi hết việc này đến việc khác. Tương tự như một chiếc xe mới: nếu các bạn lái một cách bừa bãi, các bạn sẽ lãng phí rất nhiều xăng. Chẳng những thế, chiếc xe của các bạn sẽ hư cái này, hỏng cái nọ, và có thể chẳng bao lâu nó sẽ nằm liệt. Nguyên lý này cũng áp dụng cho thân thể chúng ta. Nếu các bạn không biết điều hòa nó, ghép nó vào lỷ luật mà lại để cho nó tự do phóng túng, thì rốt cuộc các bạn sẽ tốn rất nhiều xăng. XĂNG ở đây là gì? Chính là cái khí lực tinh thần quý báu của các bạn. Bất luận đổ xăng nhiều bao nhiêu, các bạn ngày nào cũng lái xe vòng vo vô ích, thì bình xăng sẽ chóng cạn. Có kẻ ăn những thứ bổ dưỡng, nghĩ rằng thức ăn ấy có thể tăng thêm tinh thần khí lực của họ; song nếu họ không biết trân quý tinh thần của chính họ, bất luận ăn nhiều thứ bổ đưỡng bao nhiêu, họ cũng không thể bổ sung được cái tinh lực mà họ phung phí. Vì lý do này, nên có câu:
 
 > Chế chi nhất xứ
-Vô sự bất biện
+> Vô sự bất biện
 
 Nghĩa rằng:
 
 > Giữ tâm một chỗ
-Không gì chẳng xong.
+> Không gì chẳng xong.
 
 Các bạn phải tập thu tâm lại, kềm nó nằm yên một chỗ. Như vậy các bạn sẽ không lãng phí tinh lực, làm khô cạn nguyên lực tinh thần của mình. Nguyên tắc này cũng như ví dụ việc lái xe: Nếu các bạn khéo giữ gìn, cẩn thận lái xe thì sẽ không xảy ra tai nạn mà chiếc xe của các bạn sẽ hữu dụng trong một thời gian rất lâu. Cùng thế ấy, nếu các bạn biết điều hòa cơ thể, cơ thể sẽ không già. Thật ra, nó không chết!
 
-“Tôi không như thế”, có người nói. “Ai cũng phải chết. Ngay cả Đức Phật Thích Ca Mâu Ni, Ngài cũng phải nhập Niết Bàn. Làm sao Thầy có thể nói được là thân xác của  chúng con sẽ không chết?”.
+“Tôi không như thế”, có người nói. “Ai cũng phải chết. Ngay cả Đức Phật Thích Ca Mâu Ni, Ngài cũng phải nhập Niết Bàn. Làm sao Thầy có thể nói được là thân xác của chúng con sẽ không chết?”.
 
-Các bạn phải nên biết: Đức Phật nhập diệt sau khi hoàn tất sứ mệnh giáo hóa của Ngài, nhưng Ngài không chết như mọi  người. Ngài đã đi vào trạng thái không sanh không diệt, một trạng thái rốt ráo, hoàn toàn thanh tịnh. Đức Phật đã chứng đắc đại trí, và giải thoát khỏi sanh tử. Ngài tự do đến, tự do đi. Ngài khác với kẻ phàm phu chết vì bệnh tật. Khi đã làm xong tất cả việc phải làm, cứu độ hết thảy chúng sinh có nhân duyên với mình, Phật liền nhập diệt. Trước khi nhập diệt Ngài triệu tập tất cả các vị Bồ Tát, Thành Tăng, các vị A La Hán, trời,  người, và tất cả chúng sanh trong mười phương đến Pháp hội để họ có thể từ biệt Ngài. Điều này cho thấy rằng Ngài biết trước và thấu triệt sự sống chết của Ngài. Nếu các bạn muốn biết thêm, hãy đọc kinh Đại Bát Niết Bàn.
+Các bạn phải nên biết: Đức Phật nhập diệt sau khi hoàn tất sứ mệnh giáo hóa của Ngài, nhưng Ngài không chết như mọi người. Ngài đã đi vào trạng thái không sanh không diệt, một trạng thái rốt ráo, hoàn toàn thanh tịnh. Đức Phật đã chứng đắc đại trí, và giải thoát khỏi sanh tử. Ngài tự do đến, tự do đi. Ngài khác với kẻ phàm phu chết vì bệnh tật. Khi đã làm xong tất cả việc phải làm, cứu độ hết thảy chúng sinh có nhân duyên với mình, Phật liền nhập diệt. Trước khi nhập diệt Ngài triệu tập tất cả các vị Bồ Tát, Thành Tăng, các vị A La Hán, trời, người, và tất cả chúng sanh trong mười phương đến Pháp hội để họ có thể từ biệt Ngài. Điều này cho thấy rằng Ngài biết trước và thấu triệt sự sống chết của Ngài. Nếu các bạn muốn biết thêm, hãy đọc kinh Đại Bát Niết Bàn.
 
 Mục đích của tọa thiền là nhiếp tâm. Đồng thời các bạn cũng nhiếp tâm, nhiếp khẩu, nhiếp ý, để cho ba nghiệp được thanh tịnh. Thật vậy, khi các bạn ngồi thiền, thân các bạn không phạm giới sát, giới đạo, giới dâm; miệng không nói dối, nói lời thô ác, nói lưỡi hai chiều, nói lời ý ngữ; tâm không tham, không sân, không si; ý nghĩ không tuy đuổi việc bên ngoài. Khi ấy thân tâm các bạn mới yên ổn – thì đây là lúc để các bạn bắt đầu tập ngồi thiền. Ngồi thiền là nhắm đến việc điều hòa thân tâm, để cho thân không bị bịnh tật, miệng không nói lời bất thiện, và tâm không tranh chấp, không tham lam, không truy cầu, không ích kỷ, không thủ lợi cá nhân (tự lợi). Khi ba nghiệp được tịnh, thì trí huệ sanh. Tọa thiền lại trở về nguồn, phục hồi trí huệ bản hữu, phóng đại quang minh.
 
@@ -190,12 +189,12 @@ Tất cả các bạn tới đây học Phật Pháp. Các bạn hãy da�
 
 Các bạn ngồi thiền thì phải biết mục đích ngồi. Thiền là phương pháp tu luyện sự tư duy, cũng là cách làm cho yên lặng mọi tư lự. Lúc bình thường chúng ta không ai nghĩ đến việc tu: do đó, mình bị 6 căn, 6 trần và 6 thức làm mê mờ, khiến quên tu. Do đó, ngồi thiền là cốt để hồi quang tự soi tâm mình, không chạy theo ngoại cảnh mà quét sạch nội tâm. Mình phải quét sạch hết mọi thứ cuồng tâm, dã tánh, tư dục, tạp niệm, vốn dĩ là những thứ chướng ngại sự tu hành. Giả sử bạn là kẻ có tâm cuồng vọng, tự đại đến độ không ai ưa bạn cả, hoặc bạn luôn có ý tưởng làm giàu, phát tài, hưởng thụ, ích kỷ, tự lợi, dối trá, tham lam, tranh giành, chạy theo ngoại vật v.v…thì bạn nên biết những ý tưởng ấy chính là “cuồng tâm” đấy.
 
-Khi bạn ngồi thiền, hãy xoay ánh sáng tâm linh soi sáng cõi lòng: bạn soi cho hết thất tình* lục dục** 6 căn 6 trần. Ngay lúc chiếu soi như vậy, bạn cần phải phản tỉnh tư duy: “Hằng ngày có phải chăng tôi cứ hướng tâm ra ngoài tìm cầu? hay tôi hướng nội, soi lòng để tìm chân lý?” Làm vậy tức là bạn phủi bụi nơi tấm gương tự tánh: Trí Huệ Tròn Đầy (Đại Viên Kính Trí). Tấm gương trí này xưa nay vốn thông thiên triệt địa, song le hiện nó tạm thời bị bụi bặm phủ kín. Do đó, Ngài Thần Tú Thiền sư dạy rằng:
+Khi bạn ngồi thiền, hãy xoay ánh sáng tâm linh soi sáng cõi lòng: bạn soi cho hết thất tình\* lục dục\*\* 6 căn 6 trần. Ngay lúc chiếu soi như vậy, bạn cần phải phản tỉnh tư duy: “Hằng ngày có phải chăng tôi cứ hướng tâm ra ngoài tìm cầu? hay tôi hướng nội, soi lòng để tìm chân lý?” Làm vậy tức là bạn phủi bụi nơi tấm gương tự tánh: Trí Huệ Tròn Đầy (Đại Viên Kính Trí). Tấm gương trí này xưa nay vốn thông thiên triệt địa, song le hiện nó tạm thời bị bụi bặm phủ kín. Do đó, Ngài Thần Tú Thiền sư dạy rằng:
 
 > Thân như cây Bồ đề
-Tâm như đài kính sáng
-Luôn luôn siêng phủi sạch
-Chớ để bụi dính đầy.
+> Tâm như đài kính sáng
+> Luôn luôn siêng phủi sạch
+> Chớ để bụi dính đầy.
 
 Cây Bồ đề chỉ sự giác ngộ; đài kính sáng tức là tấm gương trí huệ. Lúc nào bạn cũng phải nhớ lau chùi tấm gương ấy, không để bụi bám vào. Trí huệ tròn đầy như tấm gương này, xưa nay không việc gì mà nó không biết; nó rõ suốt và thấy suốt vạn sự. Song le bởi do ta bị 6 căn, 6 trần, 6 thức dụ hoặc nên cứ hướng tâm ra ngoài, rồi vì thế ta đánh mất đi trí huệ ấy, đắm mình theo việc truy đuổi hướng ngoại, không còn biết tự soi lòng nữa.
 
@@ -209,7 +208,7 @@ Tu hành là đoạn phiền não. Hiện tại các bạn ai cũng có phiền 
 
 Nhân vậy, khi tọa thiền bạn cần giữ, cột tâm vào một điểm, rồi tuyệt ưu tư phiền não. Mặc cho trời sập, đất long, bom nổ, bạn cứ điềm nhiên, đừng chú ý nó.
 
-Bạn hỏi: “Nếu vậy, há tôi không trở thành thờ ơ, bỏ rơi thế sự sao?”  Bạn thật có khả năng khống chế, chủ động việc thế sự sao? Đừng nói đến bạn, là người dân bình thường, ngay cả các vị nguyên thủ, lãnh đạo quốc gia cũng không có năng lực làm chủ thế sự. Họ có khả năng làm người ta hết phiền não chăng? Các vị Cao Ủy Liên Hiệp Quốc có thể làm chủ lòng người chăng? Đừng nói chi tới lòng người khác, ngay cả như chính con tim của họ, họ có làm chủ được không?
+Bạn hỏi: “Nếu vậy, há tôi không trở thành thờ ơ, bỏ rơi thế sự sao?” Bạn thật có khả năng khống chế, chủ động việc thế sự sao? Đừng nói đến bạn, là người dân bình thường, ngay cả các vị nguyên thủ, lãnh đạo quốc gia cũng không có năng lực làm chủ thế sự. Họ có khả năng làm người ta hết phiền não chăng? Các vị Cao Ủy Liên Hiệp Quốc có thể làm chủ lòng người chăng? Đừng nói chi tới lòng người khác, ngay cả như chính con tim của họ, họ có làm chủ được không?
 
 Nếu bạn thật có khả năng đoạn hết phiền não, làm cho mọi người bình an, thì bạn mới đáng gọi là một bậc lãnh tụ thế giới. Trước mắt, bạn chưa thể làm vậy, do đó bạn phải bắt đầu từ nơi mình mà hạ thủ. Tức là: ghép mình vào kỷ luật, huấn luyện để tư tưởng bạn không còn tranh chấp, không còn tham lam, không còn mong cầu truy đuổi, không còn ích kỷ, tư lợi, dối trá. Làm được vậy, tối thiểu bạn không gây ô nhiễm môi trường, mà ngược lại bồi tiếp thêm chính khí trong trời đất, hóa giải đi mọi độc khí, sát khí dẫy đầy trong không trung. Nguyên lai, mục đích của tọa thiền là để ta trừ mọi thói hư, tật xấu, tham, sân. Do đó nếu bạn cứ đòi hỏi ăn ngon, mặc đẹp, ở sướng đồng thời lại muốn thành Phật, thì thật là điên cuồng.
 
@@ -322,7 +321,6 @@ Bài thơ trên nói lên giá trị quý báu của thời gian lúc bình thư
 
 ## Bí Quyết Khống Chế Vọng Tưởng
 
-
 Vạn Phật Thánh Thành mỗi năm đều có tổ chức vài Thiền-thất, mỗi thất là bảy ngày. Trước lễ vía A-Di-Ðà thì có một Phật-thất (7 ngày), rồi sau đó là liên tiếp ba Thiền-thất (21 ngày). Hằng năm, những người đến dự Thiền-thất đều tham gia từ đầu đến cuối, khiến công đức được viên mãn. Năm nay, hy vọng quý vị đến tham gia cũng giữ sự chung thủy, chẳng thối lui nửa chừng, bỏ Thiền-đường đi mất; bằng không thì công phu sẽ phải bỏ dở, lãng phí thời giờ, chẳng có sở đắc.
 
 Tư thế lúc ngồi cần phải ngay ngắn, thẳng lưng. Ðầu phải thẳng, không cúi xuống, không ngửa lui, không nghiêng trái, không quẹo phải. Sau đó, bắt tréo hai chân theo thế kiết-già-lấy chân trái bỏ lên đùi phải, kế đó lấy chân phải bỏ lên đùi trái-đó là tiêu chuẩn. Bởi vì tư thế kiết-già phu tọa khiến chúng ta dễ nhập Ðịnh, cho nên còn gọi là thế hàng ma tọa, thế kim-cang tọa, hay thế liên hoa tọa. Tư thế này có thể giúp tiêu trừ nghiệp chướng trong vô lượng kiếp, khiến liễu sanh thoát tử, tạo được vô lượng công đức.
@@ -349,9 +347,6 @@ Người tu Ðạo chớ xuống Nam-sơn cũng chớ lên Bắc-hải mà tìm 
 
 > Thiền-thất, 12/1980
 
-
-
-
 <hr class="blog-rule" />
 
 ## Tham Thoại Ðầu
@@ -361,12 +356,12 @@ Người tu Ðạo chớ xuống Nam-sơn cũng chớ lên Bắc-hải mà tìm 
 “Tham thoại đầu” tức là nghiên cứu câu “Ai là người niệm Phật? Kẻ niệm Phật là ai?” Có câu:
 
 > Ðại nghi, đại ngộ;
-Tiểu nghi, tiểu ngộ;
-Bất nghi, bất ngộ.
+> Tiểu nghi, tiểu ngộ;
+> Bất nghi, bất ngộ.
 
 > (Nghi lớn, ngộ lớn;
-Nghi nhỏ, ngộ nhỏ;
-Không nghi, không ngộ.)
+> Nghi nhỏ, ngộ nhỏ;
+> Không nghi, không ngộ.)
 
 Khi tham thấu triệt câu thoại đầu “Ai là kẻ niệm Phật?” rồi, thì sự tham Thiền ấy chính là thanh Kim-cang-vương Bảo-kiếm chặt đứt hết mọi dục niệm, chỉ còn một niệm tham cứu câu thoại đầu mà thôi. Lúc mọi ý niệm đều ngừng bặt, bấy giờ, Ðạo-tâm sẽ bừng dậy.
 
@@ -377,10 +372,10 @@ Trước khi đả Thiền-thất thường có đả Phật-thất. Phật-th�
 Tìm cái “Ai” này có thể mất đến cả đại kiếp. Khi quý vị thấy những người tu hành lão luyện ngồi Thiền chẳng động đậy, chính là họ đang tìm cái “Ai” này vậy! Bởi vì chuyên tâm tham cứu cái “Ai” này nên mọi vọng tưởng đều ngưng bặt, thoát nhiên khai ngộ. Lúc ấy, trong bóng tối âm u bỗng xuất hiện ánh hào quang sáng chói, chuyện gì quý vị cũng thấy rõ cả. Rằng:
 
 > Mê thời thiên quyển thiểu,
-Ngộ thời nhất tự đa.
+> Ngộ thời nhất tự đa.
 
 > (Lúc mê, ngàn sách còn ít,
-Ngộ rồi, một chữ cũng dư.)
+> Ngộ rồi, một chữ cũng dư.)
 
 Ðó là đạo lý của việc tham cứu câu “Ai là kẻ niệm Phật?” Do đó, hễ người nào không khởi vọng tưởng thì người ấy có công phu. Người luôn khởi vọng tưởng thì bất cứ công phu gì cũng không thành cả. Ðó là điểm cốt tủy của việc tham Thiền.
 
@@ -419,20 +414,15 @@ Khi tu Thiền-định, quý vị cần phải cẩn thận, dè dặt, chớ c�
 
 > Thiền-thất 12/1280
 
-
-
-
 <hr class="blog-rule" />
 
 ## Cảnh Giới Thiền
-
 
 Ngồi Thiền, ngồi tới lúc trong không có thân tâm, ngoài không có thế giới, xa gần đều trống rỗng thì mới đạt đến chỗ không có ngã-tướng, không có nhân-tướng, không có chúng-sinh-tướng, không có thọ-giả-tướng; cũng là lúc “tâm quá khứ không có, tâm hiện tại không có, tâm vị lai cũng không có.” Ðạt tới cảnh giới này chưa phải là đắc được công phu thật sự, cũng chẳng có gì đặc biệt đâu. Dù quý vị ngồi được một giờ, hay ngồi được mười giờ, nhẫn đến ngồi suốt một tháng, mười tháng, đó chẳng qua là công phu của quý vị có được chút ít tương ưng, chỉ mới được chút ít cảnh giới khinh an mà thôi. Trải qua cảnh giới nhẹ nhàng khinh an, cứ tiếp tục tham Thiền thì quý vị sẽ nhập cảnh giới Sơ-Thiền.
 
 Sơ-Thiền-Thiên gọi là “Ly Sanh Hỷ Lạc Ðịa,” tức là cảnh giới xa rời những lạc thú của chúng sanh. Tại cảnh giới “Ly Sinh Hỷ Lạc Ðịa, quý vị rất mau nhập Ðịnh. Trong lúc nhập Ðịnh, hơi thở sẽ ngừng hẳn-không ra không vào, không đi không đến-giống như con rùa tới mùa đông thì rụt đầu vào mu, đình chỉ sự hô hấp bên ngoài, song sự hô hấp ở bên trong vẫn tiếp tục. Ðó là hiện tượng “đông miên.” Người tham Thiền, khi nhập Ðịnh thì ngừng thở, nhưng khi xuất Ðịnh thì vẫn hít thở như thường. Quý vị hãy chú ý! Tới cảnh giới này quý vị chớ khởi vọng niệm: “A! Ngừng thở rồi!” Khi vọng niệm ấy nảy sinh thì hô hấp sẽ tiếp nối ngay. Do đó không thể thiếu cảnh giác, bằng không quý vị sẽ lỡ mất cơ hội và phải làm lại từ đầu.
 
 Từ Sơ-Thiền, nếu quý vị tinh tấn tu tập thì sẽ nhập Nhị-Thiền. Nhị-Thiền-Thiên gọi là “Ðịnh Sanh Hỷ Lạc Ðịa,” tức là trong cảnh giới Ðịnh, niềm hỷ lạc sanh khởi. Nên có câu:
-
 
 <hr class="blog-rule" />
 
@@ -478,7 +468,6 @@ Trong Thiền-đường này cũng có Quán Thế Âm Bồ-tát, song tôi khô
 
 ## Ngồi Thiền Có Thể Chấm Dứt Sinh Tử
 
-
 Vào những năm cuối của triều đại Bắc Tống, Trung Quốc có một vị anh hùng dân tộc tên là Nhạc Phi. Cha ông qua đời khi ông còn thơ ấu. Mẹ ông là một người hiền đức, trí huệ. Cả hai mẹ con nương tựa nhau mà sống. Nhạc Phi được mẹ dạy học và dạy viết. Bởi nhà quá nghèo, không có tiền mua giấy bút và mực nên Nhạc Phi phải tập viết chữ trên cát; thế mà về sau ông nổi tiếng viết chữ đẹp. Ðến lúc trưởng thành thì ông đầu quân. Mẹ ông lúc ấy xâm trên lưng ông bốn chữ “tận trung báo quốc” để nhắc ông phải luôn ghi nhớ chí nguyện lớn lao cứu nước cứu dân.
 
 Lúc bấy giờ quân Kim xâm lược Bắc Tống, chiếm Biện-kinh (Khai-phong), đày hai vua Hội Tông và Khâm Tông lên miền Bắc. Hội Tông là vua đã thoái vị, có hai người con là Khâm Tông và Khang Vương. Khang Vương lúc ấy đang ở Hàng-châu, liền lên ngôi, đặt tên nước là Nam Tống, tự xưng là Tống Cao Tông, phong Tần Cối làm Tướng-quốc. Ðương thời, các quan văn thì chủ trương hòa giải với quân Kim, nhưng các quan võ thì chủ trương chiến tranh.
@@ -519,7 +508,6 @@ Chuyện này chứng minh rằng khi công phu Thiền-định của người t
 <hr class="blog-rule" />
 
 ## Tham Thiền là Phương Pháp Khai Ngộ
-
 
 Phật-giáo sau khi được truyền sang Trung Quốc thì phân làm năm tông phái là Thiền, Giáo, Luật, Tịnh, Mật. Thiền là Thiền-định; Giáo là Giáo-lý; Luật là Giới-luật; Tịnh là Tịnh-độ; Mật là trì Chú. Lúc này là lúc đả Thiền-thất, nên chỉ giảng về lý Thiền, còn bốn tông phái kia thì tạm thời không đề cập đến.
 
@@ -599,7 +587,7 @@ Ngày ngày tại Thiền-đường “thực hành Bát-nhã Ba-la-mật thâm 
 Năm Uẩn còn gọi là năm Ấm. “Uẩn” có nghĩa là tụ tập; “Ấm” có nghĩa là che đậy, bao phủ. Vì sao chúng ta không được tự tại, không đắc giải thoát? Bởi vì chúng ta bị năm Ấm che phủ! Năm Uẩn là sắc, thọ, tưởng, hành, và thức.
 
 - Sắc-uẩn: Có chướng ngại thì gọi là sắc, có hình tướng cũng là sắc. Sắc-uẩn chẳng không thì thấy sắc sẽ bị sắc-trần mê hoặc, nghe âm thanh thì bị thanh-trần mê hoặc, ngửi mùi hương thì bị hương-trần mê hoặc, nếm mùi vị thì bị vị-trần mê hoặc, tiếp xúc với vật thì bị xúc-trần mê hoặc. Nếu khiến cho sắc-uẩn là không, thì bên trong không có tâm, bên ngoài không có hình tướng, xa gần không có vật thể. “Sắc” cũng có nghĩa là đủ thứ sắc đẹp, nhan sắc khiến mắt ta hỗn loạn, không nhận biết rõ ràng, mờ mịt giống như kẻ mù vậy.
-Trong Ðạo Ðức Kinh có nói:
+  Trong Ðạo Ðức Kinh có nói:
 
 Ngũ sắc linh nhân mục manh,
 Ngũ âm linh nhân nhĩ lung,
@@ -681,13 +669,9 @@ Từ vô thủy kiếp đến nay chúng ta bị vô minh che phủ, chẳng g�
 
 > Thiền thất 12/1980
 
-
-
-
 <hr class="blog-rule" />
 
 ## Không Trừ Vọng Tưởng thì Chẳng Thể Khai Ngộ
-
 
 Mục đích tham Thiền là để khai mở trí huệ, cầu giải thoát. Chúng ta phải chuyên tâm trì chí tham cứu câu “Ai là kẻ niệm Phật?” Khi tham tới cực điểm, quý vị sẽ quên bẵng tất cả mọi vọng tưởng-quên ăn uống, phục sức, ngủ nghỉ, và thậm chí quên cả đại, tiểu tiện! Lúc bấy giờ, “gió thổi không lọt, mưa rơi không thấm,” quý vị chỉ miên mật tham chữ “Ai” mà thôi! Một niệm duy nhất này kiên cố như kim cang, không gì phá hoại nổi. Bấy giờ, quý vị “trên không biết có trời, dưới không biết có đất, ở giữa không biết có người”-tức là đạt tới cảnh giới “không có người, không có mình, không có chúng sinh, không có thọ giả”; và đó cũng là lúc mà quý vị thể nghiệm được trạng thái “trong không có thân tâm, ngoài chẳng có thế giới”-mình cùng vũ trụ đã hợp thành một thể.
 
@@ -725,13 +709,9 @@ Thời gian đả Thiền-thất là vô cùng quý giá, bởi vì không dễ 
 
 > Thiền thất 12/1980
 
-
-
-
 <hr class="blog-rule" />
 
 ## Khai Ngộ Phải Ðược Ấn Chứng Mới Ðúng Pháp
-
 
 Trước thời Oai Âm Vương Phật ra đời, ai ai cũng có thể khai ngộ mà chẳng cần người nào ấn chứng cả. Từ thời Oai Âm Vương Phật trở về sau, những ai tự giác khai ngộ đều nhất định phải có Tổ-sư hoặc bậc Thiện-tri-thức (đã khai ngộ) ấn khả, chứng minh thì mới đúng phép. Cũng như ở Pháp-hội Lăng-Nghiêm, có hai mươi lăm vị Thánh-nhân tường thuật sự chứng đắc viên-thông của họ và thỉnh Ðức Phật Thích-Ca ấn chứng.
 
@@ -781,20 +761,14 @@ Cuối cùng tôi nói với quý vị câu này: Hãy tham cứu câu “Niệm
 
 > Thiền thất 12/1980
 
-
-
-
 <hr class="blog-rule" />
 
 ## Tham Thiền Phải Hồi Quang Phản Chiếu
-
 
 Ði đứng nằm ngồi
 Không lìa bỏ nó
 Lìa bỏ cái đó
 Tức thành lầm lỗi.
-
-
 
 Cái đó là cái gì? Chính là câu thoại đầu để chúng ta dụng công tham thiền. Lấy chân tâm mà tu Ðạo, đề khởi câu thoại đầu rồi tham cứu một cách miên mật, không dứt đoạn. Hàng giờ, hàng khắc, hàng phút, hàng giây, không một tạp niệm nào, một vọng tưởng nào xen vào, tóm lại trong tâm tư, niệm trước niệm sau, chỉ rặt một câu thoại đầu là đề mục tham cứu. Vậy thì đâu còn thời gian nào khác để nói chuyện với nhau, làm rộn người khác? Cũng không có cơ hội để lười biếng nghỉ ngơi, càng không có dịp để nói chuyện thị phi, chuyên một lòng giữ câu thoại đầu để tham ngộ. Có câu kệ rằng:
 
@@ -833,13 +807,9 @@ Tại sao khi ngồi thiền lại buồn ngủ? Bởi cầu Pháp mà lòng kh�
 
 > Thiền thất khai thị, tháng 12, 1980
 
-
-
-
 <hr class="blog-rule" />
 
 ## Thiền Ðường Là Ðạo Tràng Tuyển Phật
-
 
 Mọi người đến Thiền đường dụng công có thể coi như dự một cuộc khảo thí, khảo thử ai là người được quả vị Phật. Làm sao để có thể được trúng tuyển? Cốt yếu họ phải đạt được trạng thái “bên trong không thân tâm, bên ngoài không thế giới”, hay nói cách khác đây là cảnh giới:
 
@@ -877,13 +847,9 @@ Chư Phật không phải hồ đồ như chúng ta, do đó nếu chúng ta c�
 
 > Thiền thất khai thị tháng 12 năm 1980
 
-
-
-
 <hr class="blog-rule" />
 
 ## Tham Thiền Là Thực Tập Lục Ðộ Ba-La-Mật
-
 
 Làm nhiệm vụ Duy-na phải chú ý điều này: Ðến giờ khai tịnh, vị Duy-na phải gõ một tiếng khánh báo hiệu, để mọi người chuẩn bị đứng dậy; khi thấy tất cả đã chuẩn bị xong bèn gõ thêm một tiếng khánh nữa, tức thì tất cả đồng loạt đứng lên, tiếp theo là hai tiếng mõ báo hiệu bắt đầu bước đi. Khi chạy hương thì phải chia ra làm hai vòng, vòng ngoài dành cho người chạy mau, vòng trong cho những ai chạy chậm. Ðây là một cách thức điều hợp, cốt sao cho tất cả cùng theo được dễ dàng, người chạy mau hay chạy chậm đều thích nghi. Người ta nói: “Xiết quá thì chặt, lơi tay thì lỏng; chẳng chặt chẳng lỏng mới nên công”, ý nói không chấp vào một pháp nào nhất định, mà phải linh động.
 
@@ -901,11 +867,9 @@ Bởi vậy, chính tại nơi này quý vị phải tham cứu, tham không bu�
 
 > Thiền thất khai thị tháng 12, 1980
 
-
 <hr class="blog-rule" />
 
 ## Phải Thực Tập Công Ðức Vô Tướng
-
 
 Thiền Ðường là chỗ tuyển Phật, nơi đây là phước điền để gieo trồng công đức. Có câu nói:
 
@@ -944,7 +908,6 @@ Vạn Phật Thánh Thành muốn sửa đổi thời Mạt Pháp thành thời 
 <hr class="blog-rule" />
 
 ## Sáu Ðại Tông Chỉ Của Người Tu Ðạo
-
 
 Kẻ tu hành phải có con mắt trạch pháp (“Trạch Pháp nhãn” hay “Dharma-selecting vision”), mới có thể chọn lựa thứ gì là chánh pháp, thứ gì là tà pháp. Chánh pháp la?hông tranh, không tham, không cầu, không ích kỷ, không tự lợi, không nói dối. Ðây là sáu đại tông chỉ, người tu Ðạo noi theo sẽ có được chánh tri và chánh kiến. Ngược lại, tà pháp chính là tranh, tham, cầu, ích kỷ, tự lợi, nói dối. Nếu có sáu thứ đó thì sẽ có tà tri tà kiến. Ðây là điểm then chốt, là đường phân ranh giữa hai phía, hướng tới phía trước là Chánh pháp, về phía sau là tà pháp. Chúng ta phải nhận cho rõ điểm này.
 
@@ -1059,7 +1022,6 @@ Như thế nào là chánh tri chánh kiến? Nói một cách đơn giản, ch�
 
 ## Hãy Chấm Dứt Vọng Tưởng!
 
-
 Quý vị ngồi trong Thiền đường, trông bề ngoài có vẻ như đương tham thiền nhưng bên trong chính là đương đuổi theo vọng tưởng. Các vọng tưởng này dẫn chúng ta lúc thì lên trời, lúc xuống đất, lúc làm quỷ đói, lúc làm súc sanh. Những loại đó đều sanh ra từ gốc trong tham sân si. Bảo rằng siêng năng tu giới định huệ, nhưng kỳ thực không tu giới định huệ; nói là diệt tham sân si, nhưng kỳ thực không diệt tham sân si. Kỳ quặc như vậy đó! Chẳng cứ riêng đời này mới như vậy, mà đời đời kiếp kiếp mình theo lối đó, cho nên mới có chuyện đi lên đi xuống, quẩn quanh trong sáu nẻo luân hồi, không bao giờ ngừng lại. Làm kiếp con chó, cảm thấy mình là nhất; làm kiếp con mèo, cũng cảm thấy mình là nhất; nói tóm lại bất luận trong kiếp chúng sanh nào cũng tự coi mình là hạng nhất. Tại sao vậy? Tại có chấp trước bởi vô minh. Nếu như thực lòng tu Ðạo, cố gắng tham thiền thì mới có thể giải thoát khỏi cảnh luân hồi và chứng được Niết-bàn an lạc.
 
 Có một số tu hành thiếu nghiêm túc đã để cho thời gian trôi qua uổng phí. Thấy mọi người ngồi, mình cũng ngồi; mọi người đi ta cũng đi; ai làm sao thì mình làm vậy. Những người đó đem vấn đề sanh tử của chính mình ném lên tận chín tầng mây xanh, không coi nó là quan trọng tí nào, nên không quyết tâm tu, không chịu dập tắt vọng tưởng. Họ ngồi ở đấy, nhưng đầu óc thì hết tâm tưởng này đến tâm tưởng khác, một ngày có đến tám vạn bốn ngàn vọng tưởng mà còn thấy chưa đủ. Vọng tưởng! Lại vọng tưởng! Vọng tưởng làm cho tâm nhiễu loạn tơi bời, thần hồn điên đảo, quả thật đáng xót thương!
@@ -1069,7 +1031,6 @@ Vậy thì làm sao cho hết vọng tưởng? Hãy tham thoại đầu, không 
 <hr class="blog-rule" />
 
 ## Nhập Ðịnh Không Phải Là Ngủ
-
 
 Có người hỏi tôi: ” Nhập định và ngủ khác nhau ở chỗ nào?” Nói sơ qua thì khi nhập định, hành giả ngồi ngay ngắn, lưng thẳng, hô hấp có thể ngừng, mạch có khi không đập, trông bề ngoài như là người chết, nhưng tri giác thì vẫn có đủ. Nhập định thì ngồi yên không động, có khi trong một ngày, hay mười ngày, cho đến cả tháng. Còn như nếu là người ngủ, thì thân xiêu vẹo. đầu nghiêng ngả, hơi thở ra vào phì phò, có khi còn phát ra tiếng ngáy như sấm. Ðó là chỗ khác nhau.
 
@@ -1088,7 +1049,6 @@ Tứ thiền vẫn còn trong phạm vi phàm phu. Phải tinh tấn dấn bư�
 <hr class="blog-rule" />
 
 ## Phải Thực Tập Bát Nhã Ba La Mật Ða
-
 
 “Bồ-tát Quán Tự Tại, khi thực hành pháp thâm sâu Bát Nhã Ba La mật Ða, soi thấy năm uẩn là không, vượt hết mọi khổ ách.”
 
@@ -1168,7 +1128,6 @@ Thiền là thực hành, chẳng phải nói suông. Chỉ nói mà không làm
 
 ## Người Tu Hành Không Ðược Nói Dối
 
-
 Tại Thiền đường, chúng ta phải tuân theo quy củ của Thiền đường, không thể lập dị để hành động theo ý riêng của mình. Phải nhớ rằng Thiền đường là nơi đào tạo thánh nhân, nên không thể phá hoại Ðạo tràng, làm mất cơ hội khai ngộ của người khác. Về điểm này những người tham dự thiền thất phải đặc biệt chú ý, phải giữ giới luật một cách nghiêm cẩn, chớ không thể coi nhẹ.
 
 Dự thiền thất cũng là một cơ duyên khó gặp, ngàn vạn lần không thể bỏ phí. Nay chúng ta đến đây tham thiền cùng với nhau, đó là do những căn lành từ các kiếp trước tạo nên, mới dẫn đến cơ duyên của ngày hôm nay. Người dụng công tu Ðạo, gặp được cơ may này phải nắm vững thời cơ khai ngộ, không để lãng phí thời gian, dù một giây một phút. Chẳng nên do nhất thời vui thú mà tìm cách an thân trong sự lười biếng, bởi như vậy sẽ uổng mất cơ hội được khai ngộ và còn có thể bị đọa vào ba đường ác. Lúc ấy có hối cũng không kịp. Vì lẽ đó tôi có hai câu như sau:
@@ -1192,7 +1151,6 @@ Hãy Tham! Tham! Tham! Tham cho đến nước cạn đá hiện, thấy rõ b�
 
 ## Người Tu Hành Phải Chịu Khổ
 
-
 Có câu nói rằng: “Chịu khổ thì hết khổ, hưởng phước thì tiêu phước”. Chúng ta tu Ðạo phải tu khổ hạnh là vì lẽ gì? Mỗi ngày chúng ta chỉ ăn một bữa vì chúng ta muốn hết khổ. Khổ mà hết thì sẽ có vui.
 
 Nói về phước thì có loại nên hưởng và có loại không nên hưởng. Phước nên hưởng là phước do tay ta tạo tác ra, như có nhà đẹp, mặc quần áo đẹp, ăn thứ ngon, đi xe hơi tốt. Tuy nhiên, chúng ta cũng nên nhớ rằng sau khi hưởng thọ hết những thứ đó thì phước cũng tiêu luôn, và trong trương mục của ngân hàng phước báo thì ngạch số tồn khoản cũng không còn.
@@ -1210,7 +1168,6 @@ Bởi đã khổ công làm việc chùa, tiểu Sa-di đã từng tích lũy c�
 <hr class="blog-rule" />
 
 ## Trừ Vọng Tâm, Giữ Chân Tâm
-
 
 Kinh Hoa Nghiêm có câu:
 
@@ -1256,7 +1213,6 @@ Những ai có chánh niệm thì có thể dẫn dắt nhân loại đi trên c
 
 ## Khi Mê Thầy Ðộ, Khi Ngộ Tự Ðộ
 
-
 Bây giờ là thời gian của thiền thất (ngày 15 tháng 12 năm 1977), Quý vị hãy đề khởi thoại đầu lên để tham, để dụng công trong từng giờ từng khắc. Người tu hành phải tự mình tu, không ỷ lại vào người khác, càng không thể ỷ lại vào thầy của mình. Tại thiền thất chúng ta tu chớ không phải thầy của ta tu, điểm này phải nhận cho rõ. Có người nghĩ rằng: “Thời gian Thầy ở Vạn Phật Thánh Thành thì ta dụng công tu; Thầy đi vắng thì ta khỏi cần tu tinh tấn nữa”. Nghĩ như vậy là không thể được. Bất luận thầy có mặt ở Vạn Phật Thánh Thành hay không, chúng ta vẫn cố gắng tu hành tinh tấn, trước sau phải tu rốr áo, thì mới có cơ thành tựu. nếu chẳng phải vậy thì quý vị chỉ là tu bên ngoài, tự dối mình và dối người, vĩnh viễn không thể nào giải thoát được.
 
 Tham thoại đầu là tham câu “niệm Phật là ai?”, tự hỏi ai đương niệm Phật? Nếu nói: “Tôi đương niệm Phật” vậy khi tôi chết đi thì cái “tôi” này chạy đi đàng nào vậy? Rõ ràng không phải cái “tôi”. Tham cứu như vậy thì không kiếm ra cái “tôi”. Nếu cái “tôi” không có thì đương lúc còn sống ta khỏi cần tu hành nữa chăng? Nghĩ như vậy cũng không đúng. Vậy làm sao mới đúng? Tức là phải tham cứu cái mặt mũi gốc của ta (bổn lai diện mục), cái đó như thế nào trước khi cha mẹ sanh ra ta? Tham cho thấu đáo, tức sẽ khai ngộ.
@@ -1292,7 +1248,6 @@ Nay chúng ta tham thiền, phải lợi dụng từng giây phút, chớ để 
 
 ## Tham Thiền Phải Khắc Phục “Cửa Ðau”
 
-
 Hôm nay, năm mới, tôi xin chúc quý vị “Năm mới hạnh phúc”. Tục lệ của thế gian là như vậy. Chúng ta là những kẻ xuất thế, lẽ ra không theo lề thói đó, nhưng chúng ta hãy còn là người trong thế gian, nếu như quá xa cách thế gian thì chúng ta sẽ xa lìa mọi người. Bởi vậy, tôi vẫn y theo lễ tục, chúc mọi người một câu “năm mới hạnh phúc”. Tôi lại nói thêm bài kệ này:
 
 Kim phùng nhất cửu bát nhị niên
@@ -1327,7 +1282,6 @@ Chúng ta tham thiền phải có một tinh thần như vậy mới có hy vọ
 
 ## Thế Nào Là Ðủ Tư Cách Tham Thiền
 
-
 Phàm làm bất cứ một công trình gì, cũng phải trải qua một giai đoạn tôi luyện mới tới được thành công. Pháp môn tham thiền còn khó hơn nữa. Thiền giả phải nếm đủ loại tân khổ và tôi luyện, mới tiến bước được. Hễ tham gia thiền thất điều quan trọng nhất là phải có tâm nhẫn nại; nhẫn nại làm những công việc mình không ưa thích; nhẫn nại chịu đựng những gì không chịu đựng nổi. Phải có tinh thần như vậy mới đủ tư cách tham thiền, bằng không thì miễn bàn. Thân ở tại Thiền đường mà tâm thì ở nơi khác, dầu tham đến đâu cũng là uổng công, không thành tựu được gì hết.
 
 Tham thiền là tôi luyện thân này thành chất kim cương, chẳng khi nào bị hoại diệt. Nếu đã nguyện ý tôi luyện thân này thì gặp khổ phải ráng hết sức chịu đựng, bởi có câu: “Chịu khổ thì hết khổ, hưởng phước thì tiêu phước”.
@@ -1337,7 +1291,6 @@ Tham thiền là tôi luyện thân này thành chất kim cương, chẳng khi 
 <hr class="blog-rule" />
 
 ## Tham Ðắm Cảnh Giới Thì Chiêu Cảm Ma Chướng
-
 
 Trong pháp tham thiền, người tu phải dấn bước thực sự, khổ công miệt mài, dũng mãnh tiến tới, tuyệt dối không lùi bước. Có hằng tâm như vậy mới là người tu thiền chân chánh.
 

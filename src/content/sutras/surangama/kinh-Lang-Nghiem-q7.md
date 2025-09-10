@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển VII"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "19084"
 categories: ["Kinh"]
@@ -237,7 +237,7 @@ Phật bảo:
 
 - A Nan nên biết! Diệu tánh sáng tỏ, lìa những danh tướng, vốn chẳng có thế giới chúng sanh. Do vọng có sanh, do sanh có diệt, sanh diệt gọi là vọng, diệt vọng gọi là chơn, ấy tức là Vô Thượng Bồ Đề và Đại Niết Bàn, cũng là hai hiệu chuyển y của Như Lai (chuyển vọng giác thành Bồ Đề; chuyển sanh diệt thành Niết Bàn, gọi là hai hiệu chuyển y).
 
-- A Nan! Nay ngươi muốn tu *chơn Tam Ma Địa*, thẳng đến Đại Niết Bàn, trước hết phải biết hai nhân điên đảo của thế giới và chúng sanh; nếu điên đảo chẳng sanh tức là *chơn Tam Ma Địa* của Như Lai.
+- A Nan! Nay ngươi muốn tu _chơn Tam Ma Địa_, thẳng đến Đại Niết Bàn, trước hết phải biết hai nhân điên đảo của thế giới và chúng sanh; nếu điên đảo chẳng sanh tức là _chơn Tam Ma Địa_ của Như Lai.
 
 - A Nan! Sao gọi là Chúng Sanh Điên Đảo? Do tánh sáng tỏ nơi Tâm, vì chấp tánh sáng tỏ, nên từ sáng tỏ ấy phát ra vọng tánh; tánh vọng thì kiến chấp sanh khởi, từ bổn lai vô, thành cứu cánh hữu. Cái năng hữu sở hữu này, chẳng có tướng năng nhân sở nhân và năng trụ sở trụ, trọn chẳng nguồn gốc. Từ chỗ vô trụ này, kiến lập thế giới và chúng sanh.
 
@@ -275,10 +275,10 @@ Phật bảo:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

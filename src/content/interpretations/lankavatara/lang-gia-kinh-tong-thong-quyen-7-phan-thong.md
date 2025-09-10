@@ -1,16 +1,18 @@
 ---
-title: "Lăng Già Kinh Tông Thông - Quyển 7 (phần Thông)"
-description: "1600-1615"
-author: "Tăng Phụng Nghi"
-audioUrls: [
-  "https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445",
-]
-videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
-categories: ["Luận"]
-tags: ["Kinh Lăng Già", "Tông Thông"]
+title: Lăng Già Kinh Tông Thông - Quyển 7 (phần Thông)
+description: 1600-1615
+author: Tăng Phụng Nghi
+audioUrls:
+  - https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445
+videoUrl: https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE
+categories:
+  - Luận
+tags:
+  - Kinh Lăng Già
+  - Tông Thông
 ---
 
-## Quyển 7 
+## Quyển 7
 
 e51 mobil sẽ thích ca mâu ni phật
 
@@ -9959,5 +9961,3 @@ nghĩ Anh Nguyễn đang Công Định này hở về trắng
 tình ca để tớ và chúng sanh
 
 điều tròn thành Phật đạo
-
-

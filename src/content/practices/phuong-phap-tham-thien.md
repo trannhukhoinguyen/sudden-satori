@@ -2,15 +2,12 @@
 title: "PHƯƠNG PHÁP THAM THIỀN"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt:
-  "...."
+excerpt: "...."
 categories: ["Thực hành"]
 tags: ["Thiền Tập", "HƯ VÂN LÃO HÒA THƯỢNG"]
 author: "HƯ VÂN LÃO HÒA THƯỢNG"
 pdfUrl: "/pdfs/phuong-phap-tham-thien-ht-Hu-Van.pdf"
 ---
-
-
 
 <hr class="blog-rule" />
 

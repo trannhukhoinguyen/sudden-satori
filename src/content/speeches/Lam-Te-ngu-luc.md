@@ -1,20 +1,17 @@
 ---
 title: "LÂM TẾ NGỮ LỤC"
 description: ""
-excerpt:
-  "...."
+excerpt: "...."
 categories: ["Ngữ Lục"]
-tags: ["TS LÂM TẾ NGHĨA HUYỀN", ]
+tags: ["TS LÂM TẾ NGHĨA HUYỀN"]
 pdfUrl: "/pdfs/speeches/Lam-Te-ngu-luc.pdf"
 ---
 
-#### 0. 
-
-
+#### 0.
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: 
+> ✨ Nguồn:
 
 <hr class="blog-rule" />
 

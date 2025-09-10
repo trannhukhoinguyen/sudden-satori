@@ -2,8 +2,7 @@
 title: "THAM THIỀN VƯỢT SƠ QUAN"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt:
-  "Sơ Quan là cửa đầu tiên trong quá trình tham thiền chứng ngộ..."
+excerpt: "Sơ Quan là cửa đầu tiên trong quá trình tham thiền chứng ngộ..."
 categories: ["Luận"]
 tags: ["Thực hành", "Sơ Quan"]
 author: ""
@@ -11,11 +10,11 @@ author: ""
 
 Ba cửa ải Sơ Quan 初關, Trùng Quan 重關, và Mạt Hậu Lao Quan 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của Tổ Sư Thiền (祖師禪), đặc biệt nổi bật trong dòng Thiền Tông Đông Sơn – Lâm Tế – Tào Động, liên quan mật thiết đến pháp tu Tham Thoại Đầu và Giữ Nghi Tình.
 
-|    **Cửa Ải**    |            **Mục tiêu**            |  **Pháp khí**  |                  **Biểu hiện**                 |
-|:----------------:|:----------------------------------:|:--------------:|:----------------------------------------------:|
-| Sơ Quan          | Kiến tánh – Ngộ nhập               | Sát Nhân Kiếm  | Phá ngã chấp, đạt nghi tình tuyệt hậu          |
-| Trùng Quan       | Mài giũa ngộ – hành giải tương ưng | Hoạt Nhân Kiếm | Không trụ pháp, vào ra tự do                   |
-| Mạt Hậu Lao Quan | Triệt ngộ – vượt khỏi chứng ngộ    | Vô Kiếm        | Vô sở đắc, sống đạo, không vướng bóng dáng ngộ |
+|    **Cửa Ải**    |            **Mục tiêu**            |  **Pháp khí**  |                 **Biểu hiện**                  |
+| :--------------: | :--------------------------------: | :------------: | :--------------------------------------------: |
+|     Sơ Quan      |        Kiến tánh – Ngộ nhập        | Sát Nhân Kiếm  |     Phá ngã chấp, đạt nghi tình tuyệt hậu      |
+|    Trùng Quan    | Mài giũa ngộ – hành giải tương ưng | Hoạt Nhân Kiếm |          Không trụ pháp, vào ra tự do          |
+| Mạt Hậu Lao Quan |  Triệt ngộ – vượt khỏi chứng ngộ   |    Vô Kiếm     | Vô sở đắc, sống đạo, không vướng bóng dáng ngộ |
 
 Dưới đây là phân tích chi tiết về từng cửa ải:
 
@@ -50,4 +49,3 @@ Phá vỡ căn gốc của ngã chấp, tri kiến, ngôn ngữ, khái niệm.
 Đốn ngộ bổn tâm (bổn lai diện mục).
 
 Đoạn sạch tầm tư, chỉ còn lại nghi tình tinh thuần.
-

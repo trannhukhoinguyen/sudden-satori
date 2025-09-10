@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển X"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "23240"
 categories: ["Kinh"]
@@ -83,9 +83,9 @@ pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 
 8. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, trong chỗ hành ấm còn mà thọ tưởng đã diệt, cho "Có, Không" đồng thời cùng hiện nên tự thể phá nhau, người ấy bị đọa vào điên đảo luận, chấp sau khi chết chẳng phải "Có" cũng chẳng phải "Không", trong sắc, thọ, tưởng, thấy có chẳng phải là có, nơi hành ấm lưu chuyển, thấy không chẳng phải là không, xoay chuyển như vậy cùng tận ấm giới, thành tám thứ tướng "chẳng phải có chẳng phải không", dù gặp một duyên nào đều nói sau khi chết cũng có tướng cũng không tướng. Lại chấp hành ấm tánh hay thay đổi, tâm phát thông ngộ, thấy "Có, Không" đều chẳng phải, hư và thật đều không chỗ căn cứ, do so đo này, làm cho mịt mù chẳng thể nói được, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ tám trong ngũ ấm chấp sau khi chết chẳng có cũng chẳng không, lập Tâm Điên Đảo Luận.
 
-9. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu-Hậu-Vô [^22]  khởi tâm so đo, người ấy bị đọa vào bảy thứ Đoạn Diệt Luận: hoặc chấp cái thân diệt, hoặc dục tận diệt, hoặc khổ tận diệt, hoặc cực lạc diệt, hoặc cực xả diệt, xoay chuyển như thế tận cùng bảy nơi, cái thân hiện tiền khi tiêu diệt rồi chẳng còn sanh nữa, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ chín trong ngũ ấm chấp sau khi chết đoạn diệt, lập Tâm Điên Đảo Luận.
+9. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu-Hậu-Vô [^22] khởi tâm so đo, người ấy bị đọa vào bảy thứ Đoạn Diệt Luận: hoặc chấp cái thân diệt, hoặc dục tận diệt, hoặc khổ tận diệt, hoặc cực lạc diệt, hoặc cực xả diệt, xoay chuyển như thế tận cùng bảy nơi, cái thân hiện tiền khi tiêu diệt rồi chẳng còn sanh nữa, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ chín trong ngũ ấm chấp sau khi chết đoạn diệt, lập Tâm Điên Đảo Luận.
 
-10. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu Hậu Hữu [^23]  khởi tâm so đo, người ấy bị đọa vào năm thứ Niết Bàn Luận: hoặc nhận dục giới là nơi Chánh Chuyển Y, vì thấy cảnh viên minh nên tâm sanh ái mộ, hoặc nhận sơ thiền vì tánh không còn lo, hoặc nhận nhị thiền, vì tâm không còn khổ, hoặc nhận tam thiền, vì rất vui đẹp, hoặc nhận tứ thiền vì khổ vui đều mất, chẳng bị luân hồi sanh diệt vậy. Mê lầm cõi trời hữu lậu cho là quả vô vi, năm nơi an ổn ấy là nơi Thắng Tịnh Y, xoay chuyển ở năm chỗ này, cho là cứu cánh, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ mười trong ngũ ấm chấp năm thứ Niết Bàn, lập Tâm Điên Đảo Luận.
+10. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu Hậu Hữu [^23] khởi tâm so đo, người ấy bị đọa vào năm thứ Niết Bàn Luận: hoặc nhận dục giới là nơi Chánh Chuyển Y, vì thấy cảnh viên minh nên tâm sanh ái mộ, hoặc nhận sơ thiền vì tánh không còn lo, hoặc nhận nhị thiền, vì tâm không còn khổ, hoặc nhận tam thiền, vì rất vui đẹp, hoặc nhận tứ thiền vì khổ vui đều mất, chẳng bị luân hồi sanh diệt vậy. Mê lầm cõi trời hữu lậu cho là quả vô vi, năm nơi an ổn ấy là nơi Thắng Tịnh Y, xoay chuyển ở năm chỗ này, cho là cứu cánh, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ mười trong ngũ ấm chấp năm thứ Niết Bàn, lập Tâm Điên Đảo Luận.
 
 - A Nan! Mười thứ thiền định cuồng giải trên đều do Hành Ấm và dụng tâm giao tranh lẫn nhau mà hiện ra, chúng sanh ngu mê chẳng tự xét kỹ, gặp nhân duyên này, mà chẳng tự biết, nhận sự mê lầm cho là giải thoát, tự nói chứng thánh, thành đại vọng ngữ, đọa ngục A-Tỳ.
 
@@ -93,7 +93,7 @@ pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 
 #### V. MA THỨC ẤM
 
-- A Nan! Người tu thiền định, khi dứt được Hành Ấm, các tính sanh diệt lăng xăng chuyển động của thế gian bỗng được tan rã, các nghiệp báo luân hồi, sự cảm ứng vi tế như chỉ tơ gần được đoạn dứt, sắp được minh ngộ nơi cõi Niết Bàn, như gà gáy lần chót, trời bắt đầu rạng đông. Lục căn hư tịnh, chẳng còn giong ruổi cảnh trần, trong ngoài trạm nhiên sáng suốt, cho đến nhập vô sở nhập: thấu suốt cội gốc thọ mạng của 12 loại chúng sanh trong mười phương, chấp vào cái cội gốc đó, các loài chẳng đến với nhau, mà ở nơi mười phương đều đồng một cội gốc, sự phát hiện chỗ ẩn bí đó, như trời gần sáng mà chưa sáng, rạng đông kéo dài, đây gọi là phạm vi của Thức Ấm. Nếu ở chỗ đồng ấy, nhờ sức thiền định mài giũa lục căn, đến thấy nghe thông nhau, sự dụng của lục căn muốn hợp hay tách ra đều được tự do thành tựu, trong ngoài sáng suốt như lưu ly, gọi là thức ấm hết, thì lúc ấy được siêu việt Mệnh Trược. Nhưng quán xét nguyên nhân là do bởi Võng Tượng (mường tượng) Hư Vô, Điên Đảo Vọng Tưởng [^24]  làm gốc.
+- A Nan! Người tu thiền định, khi dứt được Hành Ấm, các tính sanh diệt lăng xăng chuyển động của thế gian bỗng được tan rã, các nghiệp báo luân hồi, sự cảm ứng vi tế như chỉ tơ gần được đoạn dứt, sắp được minh ngộ nơi cõi Niết Bàn, như gà gáy lần chót, trời bắt đầu rạng đông. Lục căn hư tịnh, chẳng còn giong ruổi cảnh trần, trong ngoài trạm nhiên sáng suốt, cho đến nhập vô sở nhập: thấu suốt cội gốc thọ mạng của 12 loại chúng sanh trong mười phương, chấp vào cái cội gốc đó, các loài chẳng đến với nhau, mà ở nơi mười phương đều đồng một cội gốc, sự phát hiện chỗ ẩn bí đó, như trời gần sáng mà chưa sáng, rạng đông kéo dài, đây gọi là phạm vi của Thức Ấm. Nếu ở chỗ đồng ấy, nhờ sức thiền định mài giũa lục căn, đến thấy nghe thông nhau, sự dụng của lục căn muốn hợp hay tách ra đều được tự do thành tựu, trong ngoài sáng suốt như lưu ly, gọi là thức ấm hết, thì lúc ấy được siêu việt Mệnh Trược. Nhưng quán xét nguyên nhân là do bởi Võng Tượng (mường tượng) Hư Vô, Điên Đảo Vọng Tưởng [^24] làm gốc.
 
 1. A Nan! Người tu thiền định, khi dứt được hành ấm, trở về chỗ cội gốc của Thức Ấm, sanh diệt đã diệt mà nơi tinh diệu của tịch diệt chưa được viên thông, có thể khiến lục căn thông dụng lẫn nhau, cũng thông với cái giác tri của các loài trong mười phương, do sự thông dụng ấy mới được đi vào chỗ cội gốc của Thức Ấm. Nếu ở chỗ trở về mà lập cái nhân Chơn Thường, sanh tâm thù thắng, thì bị đọa vào cái chấp "Năng nhân, sở nhân", làm bạn với bọn ngoại đạo tóc vàng, nhận chỗ "căn bản của vô minh" làm nơi sở quy, mê lầm tánh Bồ Đề, lạc mất tri kiến Phật, ấy gọi là lập cái tâm sở đắc, thành cái quả sở quy, trái xa viên thông, ngược đạo Niết Bàn, thành giống ngoại đạo thứ nhất.
 
@@ -154,10 +154,10 @@ Phật bảo A Nan:
 ### LƯỢC GIẢI
 
 > Trước kia, A Nan hỏi về ngũ ấm đến đâu là bờ bến, ở đây Phật giải thích kỹ càng, có nguyên nhân có bờ bến, từ cạn vào sâu.
-Sắc chẳng tự Sắc, vì Không hiển Sắc, nên sắc với Không là bờ bến của Sắc Ấm. 
-> 
+> Sắc chẳng tự Sắc, vì Không hiển Sắc, nên sắc với Không là bờ bến của Sắc Ấm.
+>
 > Thọ chẳng tự Thọ, vì Xúc có Thọ, nên Xúc với Lìa là bờ bến của Thọ Ấm; Tưởng chẳng phải Tưởng, vì ghi nhớ gọi là Tưởng, nên Nhớ và Quên là bờ bến của Tưởng Ấm; Hành chẳng phải Hành, vì sanh diệt chẳng ngừng, gọi là Hành, nên Sanh với Diệt là bờ bến của Hành Ấm; Thức gọi là Trạm Liễu (trong lặng sáng suốt), là đã diệt sanh diệt, tánh Thức nhập vào chỗ cội gốc trong lặng, mà hợp với trạm nhiên, có nhập có hợp, tức là bờ bến của Thức Ấm.
-Vì Trạm Nhập là Thức Ấm, Trạm Xuất là Hành Ấm. Chơn Tánh chẳng gọi là Trạm Nhập, là vì cùng khắp pháp giới, nên chẳng có xuất nhập, nay Trạm Nhập dần dần đi vào, cho đến nhập vô sở nhập, tức đến chỗ chẳng sanh diệt vậy.
+> Vì Trạm Nhập là Thức Ấm, Trạm Xuất là Hành Ấm. Chơn Tánh chẳng gọi là Trạm Nhập, là vì cùng khắp pháp giới, nên chẳng có xuất nhập, nay Trạm Nhập dần dần đi vào, cho đến nhập vô sở nhập, tức đến chỗ chẳng sanh diệt vậy.
 
 <hr class="blog-rule" />
 
@@ -177,17 +177,17 @@ Phật bảo A Nan:
 
 ### LƯỢC GIẢI
 
-> Theo đoạn trên nói, Phạm tội Tứ Trọng, Thập Ba La Di là cái tội cực ác, phải chịu cái quả báo cực khổ cho đến cùng tột tất cả địa ngục A-tỳ. 
-> Kẻ phạm tội như vậy tại sao chỉ cần dùng "một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc". 
+> Theo đoạn trên nói, Phạm tội Tứ Trọng, Thập Ba La Di là cái tội cực ác, phải chịu cái quả báo cực khổ cho đến cùng tột tất cả địa ngục A-tỳ.
+> Kẻ phạm tội như vậy tại sao chỉ cần dùng "một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc".
 > Vậy nếu thật như thế thành không có nhân quả sao? Nếu người hiểu lầm việc này thì cho là làm cái nhân cực ác cũng không sao! Vì chỉ cần biết thuyết pháp thì tội lớn đến mức nào cũng tiêu ngay lại còn được phước báo vô cùng tận.
 
 Chứng Đạo Ca nói:
->
+
 > "Liễu thì nghiệp chướng vốn là không,
-> 
+>
 > Chưa liễu vẫn phải trả nợ xưa".
 >
-> Liễu là liễu ngộ tức là ở trong chiêm bao thức tỉnh, thì nghiệp chướng ở trong chiêm bao tự tiêu diệt, còn chưa liễu thì còn ở trong chiêm bao phải chịu nghiệp báo trong chiêm bao không thể tiêu liền được. 
+> Liễu là liễu ngộ tức là ở trong chiêm bao thức tỉnh, thì nghiệp chướng ở trong chiêm bao tự tiêu diệt, còn chưa liễu thì còn ở trong chiêm bao phải chịu nghiệp báo trong chiêm bao không thể tiêu liền được.
 > Kinh nói dùng "Một niệm đem pháp môn này khai thị cho người sơ học trong đời mạt pháp liền được tội chướng tiêu diệt, biến cái nhân khổ địa ngục thành cõi an lạc", ấy là ám chỉ người liễu ngộ mới có thể liền tiêu nghiệp chướng.
 >
 > "Y văn giải nghĩa, tam thế Phật oan", độc giả hãy tự xem xét cho kỹ.
@@ -220,10 +220,10 @@ Chứng Đạo Ca nói:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...

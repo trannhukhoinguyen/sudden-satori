@@ -1,13 +1,15 @@
 ---
-title: "Lăng Già Kinh Tông Thông - Quyển 8 (phần Thông)"
-description: "1600-1615"
-author: "Tăng Phụng Nghi"
-audioUrls: [
-  "https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445",
-]
-videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
-categories: ["Luận"]
-tags: ["Kinh Lăng Già", "Tông Thông"]
+title: Lăng Già Kinh Tông Thông - Quyển 8 (phần Thông)
+description: 1600-1615
+author: Tăng Phụng Nghi
+audioUrls:
+  - https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445
+videoUrl: https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE
+categories:
+  - Luận
+tags:
+  - Kinh Lăng Già
+  - Tông Thông
 ---
 
 ## Quyển 8
@@ -6698,8 +6700,8 @@ Diệu mang hoài
 
 chị xem tổ hoảng bá nói đến điềm bìa ấy
 
-lại có thể sinh Tưởng ăn thịt sao 
+lại có thể sinh Tưởng ăn thịt sao
 
-**Hết Quyển 8** 
+**Hết Quyển 8**
 
 **Hết Lăng Già A Bạc Đa La Bửu Kinh Tông Thông**

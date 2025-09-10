@@ -1,20 +1,17 @@
 ---
 title: "VÂN MÔN NGỮ LỤC"
 description: ""
-excerpt:
-  "...."
+excerpt: "...."
 categories: ["Ngữ Lục"]
-tags: ["TS VÂN MÔN VĂN YỂN", ]
+tags: ["TS VÂN MÔN VĂN YỂN"]
 pdfUrl: "/pdfs/speeches/Van-Mon-ngu-luc.pdf"
 ---
 
-#### 0. 
-
-
+#### 0.
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: 
+> ✨ Nguồn:
 
 <hr class="blog-rule" />
 

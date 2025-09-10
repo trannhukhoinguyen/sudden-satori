@@ -2,8 +2,7 @@
 title: "Thiền Quan Sách Tấn"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt:
-  "Thiền lại có cửa (quan) sao? ...."
+excerpt: "Thiền lại có cửa (quan) sao? ...."
 categories: ["Luận"]
 tags: ["Thực hành"]
 author: "Vân Thê Châu Hoằng"
@@ -12,7 +11,7 @@ pdfUrl: "/pdfs/thien-quan-sach-tan.pdf"
 
 ## TỰA
 
-Thiền lại có cửa (quan) sao? 
+Thiền lại có cửa (quan) sao?
 Đạo vốn không có trong, ngoài, ra, vào; nhưng người hành đạo bởi có mê, ngộ nên bậc đại thiện tri thức giữ cửa không thể không có khi mở, đóng. Các Ngài giữ khóa chốt kỹ càng, tra hỏi nghiêm ngặt, khiến những kẻ loạn ngôn, tà ý muốn vượt qua bị cửa ngăn cản không thể thực hiện được mưu gian, cũng là cái kế giữ lâu dài vậy.
 
 Tôi khi mới xuất gia được gặp một pho sách để trong phòng tên THIỀN MÔN PHẬT TỔ CƯƠNG MỤC. Trong ấy ghi chép những lời tường thuật của các vị Tôn túc về sự tham học, tu chứng của mình. Nào lúc mới tham học khó khăn thấu hiểu, lúc thực hành công phu nhọc nhằn khổ sở, đến sau cùng bỗng nhiên thấu ngộ. Tôi đọc qua, lòng rất kính mộ, nguyện học theo gương các Ngài. Bộ sách này các nơi khác không thấy có. Kế tôi đọc bộ Ngũ đăng chư ngữ lục trong Tạp truyện, không luận những vị xuất gia hay tại gia có thật tham, thật ngộ, tôi đều góp nhặt thêm vào phần trước pho sách.
@@ -413,31 +412,31 @@ Học nhơn tham cầu Thiện tri thức, hoặc vị dạy đề câu thoại 
 
 Đạo An Đại sư một mình ngồi trong tịnh thất ngót 12 năm, chuyên gạn lọc tâm tư, mới được ngộ đạo.
 
-###  2. **Ngồi trên cây dựa mé hố**
+### 2. **Ngồi trên cây dựa mé hố**
 
 Tịnh Lâm Thiền sư, sau khi nghỉ diễn giảng để tu tập thiền định, thường bị bệnh ngủ làm mê loạn tâm. Ngài cố hết sức trấn tỉnh, nhưng cứ mỗi lần ngồi được một lúc, lại mơ màng hồi nào không hay. Gần chỗ Ngài ở có một cây đại thọ nghiêng mình ra giữa hố đá sâu thăm thẳm. Muốn đuổi con ma ngủ đi, Ngài leo lên cây ngồi thiền. Trải mấy ngày đêm, vì sợ hơ hỏng sẽ té nát thây, Ngài giữ tâm định tỉnh không dám chợp mắt. Nhờ thế, Ngài được đại ngộ.
 
-###  3. **Ăn rau ngủ dưới gốc cây**
+### 3. **Ăn rau ngủ dưới gốc cây**
 
 Thông Đạt Thiền sư vào núi Thái Bạch tu, không có cơm gạo, đói thì ăn rau, nghỉ thì nằm dưới gốc cây. Ngài tọa thiền tư duy năm năm liền không dừng. Do sự cố gắng đó, nhào nặn tâm tư thành một khối; một hôm, bỗng nhiên khối ấy tan vỡ, Ngài đại ngộ.
 
-###  4. **Không giải y**
+### 4. **Không giải y**
 
 Kim quang Chiếu Thiền sư xuất gia hồi 13 tuổi, 19 tuổi vào núi Hồng Dương, nương theo Ca Diếp Hòa thượng tu tập. Ngài chuyên cần ngót ba năm chưa bao giờ giải y, ngủ không đặt lưng xuống chiếu. Sau, Ngài đến núi Cô Xạ cũng chuyên cần như thế, bỗng nhiên khai ngộ.
 
-###  5. **Lấy dùi chích vào mình**
+### 5. **Lấy dùi chích vào mình**
 
 Từ Minh, Cốc Tuyền, Lang Hương ba người kết bạn đến Phần Dương tham học. Bấy giờ ở Hà Đông lạnh tột độ, mọi người đều kinh sợ thối lui. Duy có Từ Minh quyết chí cầu đạo cam chịu lạnh ở lại đây, sớm chiều bền chí tinh tấn tu tập. Ban đêm tọa thiền ma ngủ đến, Minh lấy dùi chích vào mình khiến ma ngủ tan mất. Sau này, Từ Minh thay thế Tổ Phần Dương đạo phong phát triển, được hiệu là Sư tử Tây Hà.
 
-###  6. **Trong thất tối không quên**
+### 6. **Trong thất tối không quên**
 
 Hoằng Trí Thiền sư đến tham học nơi Tổ Đơn Hà. Một hôm, nhơn cùng bạn đồng tu gạn hỏi nhau về công án, Thiền sư bỗng cười to lên. Tổ nghe, trách "một tiếng cười của ông đã mất bao nhiêu việc tốt. Nếu tạm thời tâm không định, đồng như người chết!" Hoằng Trí Thiền sư bái tạ, ghi lòng. Từ đấy về sau, dù ở trong thất tối, Ngài cũng không bao giờ quên.
 
-###  7. **Chiều về rơi nước mắt**
+### 7. **Chiều về rơi nước mắt**
 
 Y Am Thiền sư tu hành rất tinh tấn. Mỗi khi trời ngã bóng về chiều, Ngài sa nước mắt, than: "Ngày nay vẫn chưa được gì, ngày mai chưa biết công phu ra sao!" Ở trong Tăng chúng, không bao giờ Ngài thốt ra một lời vô ích.
 
-###  8. **Tám năm nỗ lực tu hành**
+### 8. **Tám năm nỗ lực tu hành**
 
 Hối Đường Tâm Thiền sư tự nói: Lúc mới vào đạo trong tâm thầm nghĩ việc tu rất dễ dàng. Đến khi gặp Tổ Huỳnh Long, nghĩ lại tâm niệm ngày trước rất mâu thuẫn với lý đạo. Tôi bèn nỗ lực tu hành, suốt ba năm, nhiều lúc lạnh như cắt, nóng như thiêu vẫn không lay chuyển chí nguyện, mới được mọi việc hợp lý đạo. Hiện nay, dù tôi vung tay, tằng hắng đều là trúng ý Tổ Sư từ Aán Độ truyền sang.
 
@@ -574,11 +573,9 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 > ✨ Nguồn: <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
 
 > ✨ Nguồn: <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
+
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
-
-
-
+[^1]: ⭐️ ...

@@ -2,8 +2,7 @@
 title: "THAM THIỀN VƯỢT TRÙNG QUAN"
 description: ""
 image: "/images/koans/great-wave.webp"
-excerpt:
-  "Trùng nghĩa là lặp lại, chồng lên, tức là cửa ải tiếp theo sau khi ngộ..."
+excerpt: "Trùng nghĩa là lặp lại, chồng lên, tức là cửa ải tiếp theo sau khi ngộ..."
 categories: ["Luận"]
 tags: ["Thực hành", "Trùng Quan"]
 author: ""
@@ -11,11 +10,11 @@ author: ""
 
 Ba cửa ải Sơ Quan 初關, Trùng Quan 重關, và Mạt Hậu Lao Quan 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của Tổ Sư Thiền (祖師禪), đặc biệt nổi bật trong dòng Thiền Tông Đông Sơn – Lâm Tế – Tào Động, liên quan mật thiết đến pháp tu Tham Thoại Đầu và Giữ Nghi Tình.
 
-|    **Cửa Ải**    |            **Mục tiêu**            |  **Pháp khí**  |                  **Biểu hiện**                 |
-|:----------------:|:----------------------------------:|:--------------:|:----------------------------------------------:|
-| Sơ Quan          | Kiến tánh – Ngộ nhập               | Sát Nhân Kiếm  | Phá ngã chấp, đạt nghi tình tuyệt hậu          |
-| Trùng Quan       | Mài giũa ngộ – hành giải tương ưng | Hoạt Nhân Kiếm | Không trụ pháp, vào ra tự do                   |
-| Mạt Hậu Lao Quan | Triệt ngộ – vượt khỏi chứng ngộ    | Vô Kiếm        | Vô sở đắc, sống đạo, không vướng bóng dáng ngộ |
+|    **Cửa Ải**    |            **Mục tiêu**            |  **Pháp khí**  |                 **Biểu hiện**                  |
+| :--------------: | :--------------------------------: | :------------: | :--------------------------------------------: |
+|     Sơ Quan      |        Kiến tánh – Ngộ nhập        | Sát Nhân Kiếm  |     Phá ngã chấp, đạt nghi tình tuyệt hậu      |
+|    Trùng Quan    | Mài giũa ngộ – hành giải tương ưng | Hoạt Nhân Kiếm |          Không trụ pháp, vào ra tự do          |
+| Mạt Hậu Lao Quan |  Triệt ngộ – vượt khỏi chứng ngộ   |    Vô Kiếm     | Vô sở đắc, sống đạo, không vướng bóng dáng ngộ |
 
 Dưới đây là phân tích chi tiết về từng cửa ải:
 
@@ -44,7 +43,7 @@ Thiền sư Hư Vân gọi đây là giai đoạn "cưỡi lừa tìm lừa", ng
 ### 💠 Lộ trình tu tập PHÁ QUAN:
 
 | Cột 1 | Cột 2 | Cột 3 |
-|-------|-------|-------|
+| ----- | ----- | ----- |
 | A     | B     | C     |
 | 1     | 2     | 3     |
 | X     | Y     | Z     |

@@ -1,13 +1,15 @@
 ---
-title: "Lăng Già Kinh Tông Thông - Quyển 4 (phần Thông)"
-description: "1600-1615"
-author: "Tăng Phụng Nghi"
-audioUrls: [
-  "https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445",
-]
-videoUrl: "https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE"
-categories: ["Luận"]
-tags: ["Kinh Lăng Già", "Tông Thông"]
+title: Lăng Già Kinh Tông Thông - Quyển 4 (phần Thông)
+description: 1600-1615
+author: Tăng Phụng Nghi
+audioUrls:
+  - https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445
+videoUrl: https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE
+categories:
+  - Luận
+tags:
+  - Kinh Lăng Già
+  - Tông Thông
 ---
 
 ## Quyển 4
@@ -16,7 +18,7 @@ e51 Ô balzer thích ca mâu ni phật
 
 nam mô buồn sẽ tính Ca Mau ni bằng
 
-I know bồn sứ Thích Ca Mâu Ni Phật 
+I know bồn sứ Thích Ca Mâu Ni Phật
 
 Nam mô bổn sư thích ca mâu ni phật nam
 
@@ -4246,7 +4248,7 @@ vọng tức là lâu vậy nên tu phần giới vô
 
 lậu thọ chị giới Ấy chỗ này gọi là định
 
-+ giới vì ở nơi vô thụ mà làm thụ ở nơi
+- giới vì ở nơi vô thụ mà làm thụ ở nơi
 
 vô giới mà làm giới vậy Đây gọi là Đoàn
 

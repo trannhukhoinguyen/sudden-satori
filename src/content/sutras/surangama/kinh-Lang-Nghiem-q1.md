@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển I"
-description: ""
-excerpt: ""
+description: ""excerpt: |
+    ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "55"
 categories: ["Kinh"]
@@ -17,9 +17,9 @@ pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 
 Kinh Thủ Lăng Nghiêm này được dịch từ tiếng Phạn sang tiếng Hán vào đời nhà Đường Trung Quốc, do Sa môn Aán Độ BẤT LA MẬT ĐẾ dịch nghĩa, Sa môn DI GIÀ THÍCH CA người nước U Trường dịch lời, Quan Chánh Nhị Đại Phu nhà Đường PHÒNG DUNG chấp bút.
 
-Tiếng Hán có văn ngôn và bạch thoại: văn ngôn đời xưa quá súc tích, thường hay có ý mà chẳng có lời. 
-Người xưa nói: "đọc chỗ chẳng có chữ" là vậy. 
-Chúng tôi gặp những trường hợp này thì thêm lời vào để sáng tỏ ý nghĩa ẩn trong văn. 
+Tiếng Hán có văn ngôn và bạch thoại: văn ngôn đời xưa quá súc tích, thường hay có ý mà chẳng có lời.
+Người xưa nói: "đọc chỗ chẳng có chữ" là vậy.
+Chúng tôi gặp những trường hợp này thì thêm lời vào để sáng tỏ ý nghĩa ẩn trong văn.
 Những danh từ tiếng Hán mà tiếng Việt ít dùng, lại không thể dịch ra tiếng Việt thì chúng tôi ghi chu,ù còn những nghĩa lý thâm sâu khó hiểu thì chúng tôi lược giải thêm.
 
 Chúng tôi muốn tránh chỗ tối nghĩa, để cho người đọc dễ hiểu, nên chẳng chú ý đến sự trau chuốt lời văn, xin độc giả từ bi hoan hỉ cho.
@@ -58,8 +58,8 @@ Phật bảo A Nan:
 
 A Nan bạch Phật:
 
-- Con thấy ba mươi hai tướng thù thắng tuyệt diệu của Như Lai, hình thể trong sáng như lưu ly, thường tự nghĩ tướng này chẳng phải do dục ái sanh ra. 
-Tại sao? Vì dục ái ô nhiễm xấu xí, cấu kết tinh huyết nhơ bẩn chẳng thể sanh ra diệu tướng quang minh, thanh tịnh thù thắng như thế, do đó nên khâm mộ theo Phật xuất gia.
+- Con thấy ba mươi hai tướng thù thắng tuyệt diệu của Như Lai, hình thể trong sáng như lưu ly, thường tự nghĩ tướng này chẳng phải do dục ái sanh ra.
+  Tại sao? Vì dục ái ô nhiễm xấu xí, cấu kết tinh huyết nhơ bẩn chẳng thể sanh ra diệu tướng quang minh, thanh tịnh thù thắng như thế, do đó nên khâm mộ theo Phật xuất gia.
 
 Phật nói:
 
@@ -73,8 +73,8 @@ A Nan bạch Phật:
 
 Phật bảo:
 
-> Như ngươi vừa nói, sự ham thích do nơi tâm và mắt. 
-> Nếu chẳng biết tâm và mắt ở đâu thì chẳng thể hàng phục được trần lao; ví như đất nước có giặc, vua sai binh dẹp trừ, binh lính tất phải biết sào huyệt của giặc. 
+> Như ngươi vừa nói, sự ham thích do nơi tâm và mắt.
+> Nếu chẳng biết tâm và mắt ở đâu thì chẳng thể hàng phục được trần lao; ví như đất nước có giặc, vua sai binh dẹp trừ, binh lính tất phải biết sào huyệt của giặc.
 > Khiến ngươi bị luân chuyển ấy là lỗi tại tâm và mắt. Ta hỏi ngươi: Tâm và mắt của ngươi hiện đang ở đâu?
 
 <hr class="blog-rule" />
@@ -85,8 +85,8 @@ Phật bảo:
 
 A Nan bạch Phật:
 
-- Bạch Thế Tôn! Tất cả 10 loại chúng sanh trên thế gian đều cho tâm thức ở trong thân. 
-Nay con nhận được mắt con ở trên mặt con và tâm thức ở trong thân, như mắt Thanh Liên Hoa của Như Lai ở trên mặt Như Lai vậy.
+- Bạch Thế Tôn! Tất cả 10 loại chúng sanh trên thế gian đều cho tâm thức ở trong thân.
+  Nay con nhận được mắt con ở trên mặt con và tâm thức ở trong thân, như mắt Thanh Liên Hoa của Như Lai ở trên mặt Như Lai vậy.
 
 Phật hỏi:
 
@@ -122,12 +122,12 @@ A Nan bạch Phật:
 
 Phật bảo:
 
-> A Nan! Ngươi cũng như vậy, linh tâm của ngươi tất cả sáng tỏ, nếu tâm sáng tỏ hiện tiền của ngươi thật ở trong thân thì trước tiên phải thấy rõ trong thân. 
-Vậy có chúng sanh nào trước thấy trong thân rồi sau mới thấy vật bên ngoài chăng? 
-Dẫu chẳng thấy được tim, gan, tỳ, vị, thì các chỗ: móng ra, tóc dài, gân chuyển cũng phải thấy chứ, sao lại chẳng thấy? 
-Nếu trong thân còn chẳng thấy thì làm sao thấy vật bên ngoài? 
-Cho nên ngươi nói "Cái tâm giác tri trụ ở trong thân" là chẳng đúng. 
-(Tự tánh bất nhị, vốn chẳng có nghĩa đúng và chẳng đúng, chỉ vì trị bệnh chấp thật nên nói chẳng đúng).
+> A Nan! Ngươi cũng như vậy, linh tâm của ngươi tất cả sáng tỏ, nếu tâm sáng tỏ hiện tiền của ngươi thật ở trong thân thì trước tiên phải thấy rõ trong thân.
+> Vậy có chúng sanh nào trước thấy trong thân rồi sau mới thấy vật bên ngoài chăng?
+> Dẫu chẳng thấy được tim, gan, tỳ, vị, thì các chỗ: móng ra, tóc dài, gân chuyển cũng phải thấy chứ, sao lại chẳng thấy?
+> Nếu trong thân còn chẳng thấy thì làm sao thấy vật bên ngoài?
+> Cho nên ngươi nói "Cái tâm giác tri trụ ở trong thân" là chẳng đúng.
+> (Tự tánh bất nhị, vốn chẳng có nghĩa đúng và chẳng đúng, chỉ vì trị bệnh chấp thật nên nói chẳng đúng).
 
 #### Phá chấp tâm ở ngoài thân
 
@@ -145,8 +145,8 @@ A Nan bạch Phật:
 
 Phật bảo:
 
-> A Nan! Nếu tâm giác tri của ngươi thật ở ngoài thân thì trong ngoài khác nhau, chẳng có liên quan, hễ tâm biết thì thân chẳng biết, thân biết thì tâm chẳng biết. 
-Nay ta đưa tay cho ngươi xem, trong lúc mắt thấy, tâm ngươi biết được chăng?
+> A Nan! Nếu tâm giác tri của ngươi thật ở ngoài thân thì trong ngoài khác nhau, chẳng có liên quan, hễ tâm biết thì thân chẳng biết, thân biết thì tâm chẳng biết.
+> Nay ta đưa tay cho ngươi xem, trong lúc mắt thấy, tâm ngươi biết được chăng?
 
 A Nan bạch Phật:
 
@@ -202,16 +202,16 @@ Phật bảo A Nan:
 
 A Nan bạch Phật:
 
-- Con đã từng nghe Phật khai thị chúng rằng: Tâm sanh nên các pháp sanh, pháp sanh nên các tâm sanh. 
-Nay con suy nghĩ, chính cái suy nghĩ ấy là tâm của con; tùy sự suy nghĩ tâm liền có, cũng chẳng ở trong, ngoài và chính giữa.
+- Con đã từng nghe Phật khai thị chúng rằng: Tâm sanh nên các pháp sanh, pháp sanh nên các tâm sanh.
+  Nay con suy nghĩ, chính cái suy nghĩ ấy là tâm của con; tùy sự suy nghĩ tâm liền có, cũng chẳng ở trong, ngoài và chính giữa.
 
 Phật bảo A Nan:
 
-> A Nan, ngươi nói pháp sanh nên các tâm sanh, tùy sự suy nghĩ tâm liền có. 
+> A Nan, ngươi nói pháp sanh nên các tâm sanh, tùy sự suy nghĩ tâm liền có.
 > Tâm chẳng có tự thể thì chẳng thể suy nghĩ; nếu chẳng có tự thể mà suy nghĩ được thì vô căn phải thấy được vô trần, nghĩa này chẳng đúng.
 >
-> Nếu có tự thể thì ngươi thử dùng tay tự búng thân mình xem, cái tâm biết của ngươi là từ trong thân ra hay từ bên ngoài ra? 
-Nếu từ bên trong ra thì phải thấy trong thân; nếu từ bên ngoài ra thì trước tiên phải thấy mặt.
+> Nếu có tự thể thì ngươi thử dùng tay tự búng thân mình xem, cái tâm biết của ngươi là từ trong thân ra hay từ bên ngoài ra?
+> Nếu từ bên trong ra thì phải thấy trong thân; nếu từ bên ngoài ra thì trước tiên phải thấy mặt.
 >
 > Mắt chủ sự thấy, tâm chủ sự biết, tâm không phải như mắt, nói tâm thấy là chẳng đúng nghĩa.
 
@@ -233,18 +233,18 @@ A Nan bạch Phật:
 
 Phật bảo:
 
-> Ngươi nói "ở giữa" thì cái chính giữa ấy phải rõ ràng, chẳng phải không chỗ. 
+> Ngươi nói "ở giữa" thì cái chính giữa ấy phải rõ ràng, chẳng phải không chỗ.
 > Theo ngươi suy xét, giữa ở chỗ nào? Ở nơi xứ (12 xứ, gồm cả lục căn, lục trần) hay ở nơi thân?
 >
-> Nếu ở nơi thân, nơi ngoài da thì chẳng phải là giữa; ở giữa thì đồng như ở trong. 
-> Nếu ở nơi xứ, là có thể nêu ra hay chẳng thể nêu ra? 
-> Nếu chẳng thể nêu ra thì đồng như không có; nếu có thể nêu ra lại chẳng định được chỗ nào. 
+> Nếu ở nơi thân, nơi ngoài da thì chẳng phải là giữa; ở giữa thì đồng như ở trong.
+> Nếu ở nơi xứ, là có thể nêu ra hay chẳng thể nêu ra?
+> Nếu chẳng thể nêu ra thì đồng như không có; nếu có thể nêu ra lại chẳng định được chỗ nào.
 > Tại sao? Ví như có người cắm cây nêu làm chính giữa, nhìn từ phương Đông thì cho cây nêu ở phương Tây, nhìn từ phương Nam thì cho cây nêu ở phương Bắc, cái thể giữa được nêu ra đã lẫn lộn thì tâm cũng thành rối loạn, chẳng rõ ở đâu.
 
 A Nan thưa:
 
-- Con nói "chính giữa" chẳng phải hai thứ này. 
-Như Thế Tôn nói: Nhãn căn và sắc trần duyên nhau sanh ra nhãn thức. Nhãn căn phân biệt, sắc trần vô tri, thức sanh nơi giữa, tức là tâm vậy.
+- Con nói "chính giữa" chẳng phải hai thứ này.
+  Như Thế Tôn nói: Nhãn căn và sắc trần duyên nhau sanh ra nhãn thức. Nhãn căn phân biệt, sắc trần vô tri, thức sanh nơi giữa, tức là tâm vậy.
 
 Phật bảo:
 
@@ -262,15 +262,15 @@ Phật bảo A Nan:
 
 ### LƯỢC GIẢI
 
-> Ở đây nêu ra bảy chỗ gạn hỏi, ý Phật là muốn đưa A Nan thẳng đến chỗ tự ngộ, lời Phật chẳng phải chơn lý. Phật chỉ dùng thuốc giả để trị bịnh giả của A Nan. 
-Tại sao nói là bệnh giả? Vì những kiến chấp của A Nan vốn chẳng thật. Tại sao nói thuốc giả? Vì lời phá chấp của Phật cũng chẳng thật.
-Cũng như A Nan nói tâm ở trong thân, ở ngoài thân, cho đến nói vô trước là tâm, kỳ thật không phải có chỗ chẳng đúng hay chẳng sai, vì chấp nhất định ở một chỗ, nên Phật nói chẳng đúng. 
-Nếu bệnh chấp chưa hết thì có thể nêu ra vô số chỗ, chứ đâu phải chỉ có bảy chỗ ư? 
-Nếu bệnh chấp đã hết thì một chỗ cũng chẳng có, nói gì đến bảy chỗ!
+> Ở đây nêu ra bảy chỗ gạn hỏi, ý Phật là muốn đưa A Nan thẳng đến chỗ tự ngộ, lời Phật chẳng phải chơn lý. Phật chỉ dùng thuốc giả để trị bịnh giả của A Nan.
+> Tại sao nói là bệnh giả? Vì những kiến chấp của A Nan vốn chẳng thật. Tại sao nói thuốc giả? Vì lời phá chấp của Phật cũng chẳng thật.
+> Cũng như A Nan nói tâm ở trong thân, ở ngoài thân, cho đến nói vô trước là tâm, kỳ thật không phải có chỗ chẳng đúng hay chẳng sai, vì chấp nhất định ở một chỗ, nên Phật nói chẳng đúng.
+> Nếu bệnh chấp chưa hết thì có thể nêu ra vô số chỗ, chứ đâu phải chỉ có bảy chỗ ư?
+> Nếu bệnh chấp đã hết thì một chỗ cũng chẳng có, nói gì đến bảy chỗ!
 >
-> Tự tánh vốn bất nhị, nếu chấp theo lời Phật, cho "thật chẳng ở trong" là nhị, cho "thật chẳng ở ngoài" cũng là nhị, cho đến bất cứ có ở một chỗ nào, hay chẳng ở một chỗ nào đều là nhị. 
-Tại sao? Vì nếu có ở một chỗ này thì những chỗ kia không có, chỗ có chỗ không tức là nhị. 
-Nên Phật nói: Phàm hữu ngôn thuyết, giai phi thật nghĩa (Phàm có lời nói đều chẳng phải nghĩa thật).
+> Tự tánh vốn bất nhị, nếu chấp theo lời Phật, cho "thật chẳng ở trong" là nhị, cho "thật chẳng ở ngoài" cũng là nhị, cho đến bất cứ có ở một chỗ nào, hay chẳng ở một chỗ nào đều là nhị.
+> Tại sao? Vì nếu có ở một chỗ này thì những chỗ kia không có, chỗ có chỗ không tức là nhị.
+> Nên Phật nói: Phàm hữu ngôn thuyết, giai phi thật nghĩa (Phàm có lời nói đều chẳng phải nghĩa thật).
 
 <hr class="blog-rule" />
 
@@ -340,23 +340,23 @@ Phật bảo A Nan:
 
 A Nan bạch Phật:
 
-- Bạch Thế Tôn! Con là em cưng của Phật, vì mến Phật nên xuất gia. 
-Tâm con chẳng những cúng dường Như Lai, mà còn muốn trải khắp hằng sa quốc độ, phụng sự chư Phật và thiện tri thức, phát tâm dũng mãnh, làm những Phật sự khó làm, đều dùng tâm này; dẫu cho báng pháp, bỏ hẳn thiện căn cũng vì tâm này. 
-Nếu Thế Tôn phát minh cái ấy chẳng phải tâm, vậy con thành không có tâm, đồng như đất gỗ, lìa giác tri này chẳng còn gì cả, sao Như Lai nói cái ấy chẳng phải tâm? 
-Con thật kinh sợ, và cả đại chúng đều chẳng khỏi nghi hoặc, kính mong Thế Tôn rủõ lòng từ bi, khai thị cho kẻ chưa ngộ.
+- Bạch Thế Tôn! Con là em cưng của Phật, vì mến Phật nên xuất gia.
+  Tâm con chẳng những cúng dường Như Lai, mà còn muốn trải khắp hằng sa quốc độ, phụng sự chư Phật và thiện tri thức, phát tâm dũng mãnh, làm những Phật sự khó làm, đều dùng tâm này; dẫu cho báng pháp, bỏ hẳn thiện căn cũng vì tâm này.
+  Nếu Thế Tôn phát minh cái ấy chẳng phải tâm, vậy con thành không có tâm, đồng như đất gỗ, lìa giác tri này chẳng còn gì cả, sao Như Lai nói cái ấy chẳng phải tâm?
+  Con thật kinh sợ, và cả đại chúng đều chẳng khỏi nghi hoặc, kính mong Thế Tôn rủõ lòng từ bi, khai thị cho kẻ chưa ngộ.
 
 Bấy giờ, Thế Tôn muốn cho A Nan và đại chúng đều được chứng nhập vô sanh pháp nhẫn, nơi tòa sư tử, xoa đầu A Nan khai thị rằng:
 
-> Như Lai thường nói: Chư pháp sở sanh, duy tâm sở hiện. Tất cả nhân quả, thế giới vi trần đều do tâm này mới thành có thể tánh. 
-> 
+> Như Lai thường nói: Chư pháp sở sanh, duy tâm sở hiện. Tất cả nhân quả, thế giới vi trần đều do tâm này mới thành có thể tánh.
+>
 > A Nan, tất cả sự vật trên thế gian, cho đến cỏ, lá, chỉ mành, cứu xét cội gốc đều có thể tánh, dẫu cho hư không cũng có danh hiệu, huống là cái tánh trong sạch sáng tỏ của tất cả tâm lại chẳng có tự thể ư?
-> 
-> Nếu ngươi chấp thật cái tánh giác tri phân biệt cho là tâm, thì tâm này lìa tất cả sự vật lục trần phải riêng có tự thể (chẳng theo cảnh trần sanh diệt). 
-> 
+>
+> Nếu ngươi chấp thật cái tánh giác tri phân biệt cho là tâm, thì tâm này lìa tất cả sự vật lục trần phải riêng có tự thể (chẳng theo cảnh trần sanh diệt).
+>
 > Như ngươi hiện nay đang nghe thuyết pháp, là do âm thanh nên có phân biệt; dẫu cho diệt hết tất cả kiến, văn, giác, tri, trong giữ u nhàn, cũng còn là bóng phân biệt của pháp trần.
 
-- Ta chẳng bảo ngươi chấp thật phi tâm, nhưng ngươi hãy xét kỹ nơi tâm: nếu lìa tiền trần mà có tự thể của tánh phân biệt, tức là chơn tâm của ngươi. Nếu tánh phân biệt lìa trần chẳng có tự thể, ấy là bóng phân biệt của tiền trần. 
-Trần chẳng thường trụ, khi biến diệt thì tâm này đồng như lông rùa, sừng thỏ, vậy pháp thân của ngươi thành ra đoạn diệt, còn ai tu chứng vô sanh pháp nhẫn? (Cảnh trần có hai loại: đối với ngũ căn gọi là tiền trần, đối với ý căn gọi là pháp trần).
+- Ta chẳng bảo ngươi chấp thật phi tâm, nhưng ngươi hãy xét kỹ nơi tâm: nếu lìa tiền trần mà có tự thể của tánh phân biệt, tức là chơn tâm của ngươi. Nếu tánh phân biệt lìa trần chẳng có tự thể, ấy là bóng phân biệt của tiền trần.
+  Trần chẳng thường trụ, khi biến diệt thì tâm này đồng như lông rùa, sừng thỏ, vậy pháp thân của ngươi thành ra đoạn diệt, còn ai tu chứng vô sanh pháp nhẫn? (Cảnh trần có hai loại: đối với ngũ căn gọi là tiền trần, đối với ý căn gọi là pháp trần).
 
 Tức thời, A Nan cùng đại chúng im lặng ngơ ngác, chẳng còn lý lẽ gì để nói nữa.
 
@@ -413,12 +413,12 @@ Bấy giờ, Thế Tôn duỗi cánh tay sáng ngời, mở năm ngón tay, bả
 
 Khi ấy, Kiều Trần Như đứng dậy bạch Phật:
 
-- Con là bậc trưởng lão trong chúng được gọi là hiểu rộng biết nhiều, vì ngộ hai chữ Khách Trần nên được chứng quả. 
-Thế Tôn, ví như người đi đường vào nghỉ ở khách sạn, ăn ngủ xong rồi lên đường đi tiếp, chẳng thể ở lại, còn người chủ thì cư trú tại đó, chẳng cần đi đâu. 
-Vậy chẳng trụ là khách, trụ gọi là chủ, nên lấy sự "chẳng trụ" làm nghĩa chữ Khách.
-Cũng như mưa mới tạnh, ánh sáng mặt trời rọi qua kẽ hở, thấy rõ tướng bụi trần lăng xăng nơi hư không. 
-Trần thì lay động. Hư không tịch nhiên. 
-Vậy tịch lặng gọi là không, lay động gọi là trần, nên lấy sự "lay động" làm nghĩa chữ Trần.
+- Con là bậc trưởng lão trong chúng được gọi là hiểu rộng biết nhiều, vì ngộ hai chữ Khách Trần nên được chứng quả.
+  Thế Tôn, ví như người đi đường vào nghỉ ở khách sạn, ăn ngủ xong rồi lên đường đi tiếp, chẳng thể ở lại, còn người chủ thì cư trú tại đó, chẳng cần đi đâu.
+  Vậy chẳng trụ là khách, trụ gọi là chủ, nên lấy sự "chẳng trụ" làm nghĩa chữ Khách.
+  Cũng như mưa mới tạnh, ánh sáng mặt trời rọi qua kẽ hở, thấy rõ tướng bụi trần lăng xăng nơi hư không.
+  Trần thì lay động. Hư không tịch nhiên.
+  Vậy tịch lặng gọi là không, lay động gọi là trần, nên lấy sự "lay động" làm nghĩa chữ Trần.
 
 Phật nói:
 
@@ -475,7 +475,7 @@ Phật nói:
 Do đó, Phật bảo đại chúng rằng:
 
 > Nếu chúng sanh cho "lay động" là trần, "chẳng trụ" là khách, các ngươi hãy xem, như A Nan đầu tự lay động mà tánh thấy chẳng động; lại tay ta tự mở nắm mà tánh thấy chẳng mở nắm. Vậy sao các ngươi hiện nay lại cho động là thân, cho động là cảnh, từ đầu đến cuối niệm niệm sanh diệt, lạc mất chơn tánh, hành theo điên đảo.
-> 
+>
 > Vì tâm tánh chẳng chơn, nhận vật làm mình, tự trôi lăn theo dòng sanh tử, cam chịu luân hồi.
 
 ## QUYỂN I HẾT
@@ -494,10 +494,10 @@ Do đó, Phật bảo đại chúng rằng:
 
 <hr class="blog-rule" style="" />
 
-> ✨ Nguồn:  ...
+> ✨ Nguồn: ...
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️  ...
+[^1]: ⭐️ ...
