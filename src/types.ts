@@ -16,3 +16,13 @@ export interface Master {
     references?: string[];
     hasContent?: string;
 }
+
+export interface KoanTitle {
+    title: string;
+}
+
+export interface Koan {
+    id: number;
+    title: string;
+    main: string;
+}

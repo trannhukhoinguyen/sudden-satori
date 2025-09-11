@@ -17,9 +17,7 @@ Ngài Đan Hà dạy chúng:
 
 > Hãy quên hết thế sự, đâu cần suy nghĩ nhiều.
 > Chỉ đập tan khối nghi, cần gì một câu huyền diệu.
-> Cửa huyền thông suốt, người đạt được diệu dụng tự tại
->
-> Đó là AI (người nào)?
+> Cửa huyền thông suốt, người đạt được diệu dụng tự tại đó là AI (người nào)?
 
 ## CỬ - BẢN TẮC::
 
@@ -27,38 +25,26 @@ Ngài Đầu Tử cử:
 
 1
 
-> Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì để không bị rơi vào giai cấp (thứ bậc)? <em>(nên làm việc cho tốt đâu cần hỏi đường trước)</em>
+> Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì để không bị rơi vào giai cấp (thứ bậc)? (_nên làm việc cho tốt đâu cần hỏi đường trước_)
 >
-> Tổ hỏi: Ông từng làm việc gì?
+> Tổ hỏi: Ông từng làm việc gì? (_bày hết tâm can_)
 >
-> Hành Tư thưa, Thánh đế cũng chẳng làm.
+> Hành Tư thưa, Thánh đế cũng chẳng làm. (_một viên hoàn đơn, chạm vào sắt thành vàng_)
 >
-> Tổ bảo, vậy thì thuộc giai cấp nào?
+> Tổ bảo, vậy thì thuộc giai cấp nào? (_vì lòng từ bi chẳng tiếc hai cọng lông mày_)
 >
-> Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?
+> Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào? (_khi mê có tam giới, ngộ rồi mười phương không_)
 >
-> Tổ dạy, đúng như vậy, ông cố gắng giữ gìn, ta có bài kệ ấn chứng cho ông.
+> Tổ dạy, Đúng thế! Đúng thế! (_thương con không biết nhơ_)
+> Ông cố gắng giữ gìn. (_mong nghe pháp yếu_)
+> Ta có bài kệ ấn chứng cho ông.
 
-<hr class="blog-rule" />
-
-2
-
-> Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư, phải làm việc gì mới không rơi vào thứ bậc.
->
-> Tổ hỏi: Ông từng làm việc gì? (bày hết tâm can).
-
-Hành Tư thưa: Thánh đế cũng chẳng làm (một viên hoàn đơn, chạm vào sắt thành vàng).
-
-Tổ nói: Rơi vào thứ bậc nào (vì lòng từ bi chẳng tiếc hai cọng lông mày).
-
-Hành Tư thưa: Thánh đế cũng chẳng làm rơi vào thứ bậc nào? (khi mê có tam giới, ngộ rồi mười phương không).
-
-Tổ nói: Đúng thế! Đúng thế! (thương con không biết nhơ). Ông khéo gìn giữ, ta có kệ (mong nghe pháp yếu).
-
-Đất tâm chứa các giống (đều ở trong đó),
-Mưa khắp đều nảy mầm (các pháp từ duyên sanh),
-Hoa đốn ngộ thật nở (đều không sanh cành lá),
-Quả bồ đề tự thành (phải biết vị ngọt trong vị đắng).
+<Poem>
+Đất tâm chứa các giống (_đều ở trong đó_)
+Mưa khắp đều nảy mầm (_các pháp từ duyên sanh_)
+Hoa đốn ngộ thật nở (_đều không sanh cành lá_)
+Quả bồ đề tự thành (_phải biết vị ngọt trong vị đắng_)
+</Poem>
 
 ## BÌNH XƯỚNG
 

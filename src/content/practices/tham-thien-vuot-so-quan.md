@@ -239,48 +239,37 @@ Khi “cái không biết” đó trở thành một khối lặng mà rực ch�
 
 #### ✅ Điều kiện bắt buộc:
 
-Nghi tình phải thuần khiết: Không lý giải, không thêm niệm khác
+✨ **Nghi tình phải thuần khiết**: _Không lý giải, không thêm niệm khác_
 
-Liên tục không gián đoạn: Dù làm gì cũng giữ câu thoại như “lửa ủ trong tro”
+✨ **Liên tục không gián đoạn**: _Dù làm gì cũng giữ câu thoại như “lửa ủ trong tro”_
 
-Không cầu ngộ, không đợi kết quả: Ngộ không do cầu, mà “tình cờ đụng chạm”
+✨ **Không cầu ngộ, không đợi kết quả**: _Ngộ không do cầu, mà “tình cờ đụng chạm”_
 
-Tập trung toàn lực: Khi ngồi thiền – toàn bộ thân tâm chỉ còn câu thoại
+✨ **Tập trung toàn lực**: _Khi ngồi thiền – toàn bộ thân tâm chỉ còn câu thoại_
 
 ##### 💥 4. Giây phút phá nghi – các dấu hiệu
 
-| **Giai đoạn**          | **Biểu hiện chính**                                               |
-|:-----------------------|:------------------------------------------------------------------|
-| _Chưa có nghi tình_    | Tâm loạn, nghĩ đủ thứ, không thể trụ vào câu thoại                |
-|                        |                                                                   |
-| _Bắt đầu có nghi tình_ | Câu thoại bắt đầu ở mãi trong tâm, vọng tưởng ít dần              |
-|                        |                                                                   |
-| _Nghi tình tụ lại_     | Tâm tập trung mạnh vào câu thoại, chỉ còn “một khối không biết”   |
-|                        |                                                                   |
-| _Nghi tình khẩn bức_   | Giống như người mắc nghẹn, không biết nhưng không thể bỏ          |
-|                        |                                                                   |
-| _Phá nghi tình (ngộ)_  | Một khoảnh khắc: vọng tưởng dừng, toàn thân buông, “Ồ!”           |
-
 Không ai có thể “bắt buộc” ngộ xảy ra, nhưng bạn có thể nhận ra các dấu hiệu đặc biệt khi nghi tình đạt cực độ.
 
-Biểu hiện khi sắp phá nghi tình	Giải thích
-Tâm rơi vào trạng thái “không biết toàn phần”	Không còn tự biết mình là ai, đang làm gì
-Mọi suy nghĩ, phân biệt đều dừng	Không phải do ức chế – mà là tự nhiên dứt
-Một tiếng nổ (tâm linh), giật mình	Thường đi kèm cảm giác như “ồ”, “a”, “ngộ rồi!”
-Tâm sáng rỡ, không vướng víu gì nữa	Mọi thứ đều rõ ràng, thông suốt, không ngôn ngữ
-Có thể bật cười, khóc, hét lên	Do quá áp lực rồi buông – như dây cung bật ra
+|      **Biểu hiện khi sắp phá nghi tình**      |                  **Giải thích**                  |
+|:---------------------------------------------:|:------------------------------------------------:|
+| Tâm rơi vào trạng thái “không biết toàn phần” |    Không còn tự biết mình là ai, đang làm gì     |
+|    Mọi suy nghĩ, phân biệt đều dừng           | Không phải do ức chế – mà là tự nhiên dứt        |
+|      Một tiếng nổ (tâm linh), giật mình       | Thường đi kèm cảm giác như “ồ”, “a”, “ngộ rồi!”  |
+|      Tâm sáng rỡ, không vướng víu gì nữa      | Mọi thứ đều rõ ràng, thông suốt, không ngôn ngữ  |
+|        Có thể bật cười, khóc, hét lên         |  Do quá áp lực rồi buông – như dây cung bật ra   |
 
 ⚠️ Nhưng: Không phải ai cũng có hiện tượng vật lý, đôi khi chỉ là một cái xoay mình trong tâm – rất yên lặng nhưng rốt ráo.
 
 ##### 🧘‍♀️ 5. Sau khi phá nghi tình – phải làm gì?
 
-Phá nghi không phải là xong. Đây mới là bắt đầu của con đường hành giải tương ưng.
+✨ Phá nghi không phải là xong. Đây mới là bắt đầu của con đường hành giải tương ưng.
 
-Ghi nhận sự ngộ, nhưng không bám chấp vào ngộ
+✨ Ghi nhận sự ngộ, nhưng không bám chấp vào ngộ
 
-Trở lại thoại đầu, tiếp tục giữ nghi sâu hơn
+✨ Trở lại thoại đầu, tiếp tục giữ nghi sâu hơn
 
-Tu thêm để phá hết vi tế ngã chấp, vào Trùng Quan
+✨ Tu thêm để phá hết vi tế ngã chấp, vào Trùng Quan
 
 🪨 **Đại Huệ Tông Cảo**:
 
@@ -288,24 +277,14 @@ Tu thêm để phá hết vi tế ngã chấp, vào Trùng Quan
 
 ##### 🛠️ 6. Một số kỹ thuật hỗ trợ phá nghi tình
 
-| **Giai đoạn**          | **Biểu hiện chính**                                               |
-|:-----------------------|:------------------------------------------------------------------|
-| _Chưa có nghi tình_    | Tâm loạn, nghĩ đủ thứ, không thể trụ vào câu thoại                |
-|                        |                                                                   |
-| _Bắt đầu có nghi tình_ | Câu thoại bắt đầu ở mãi trong tâm, vọng tưởng ít dần              |
-|                        |                                                                   |
-| _Nghi tình tụ lại_     | Tâm tập trung mạnh vào câu thoại, chỉ còn “một khối không biết”   |
-|                        |                                                                   |
-| _Nghi tình khẩn bức_   | Giống như người mắc nghẹn, không biết nhưng không thể bỏ          |
-|                        |                                                                   |
-| _Phá nghi tình (ngộ)_  | Một khoảnh khắc: vọng tưởng dừng, toàn thân buông, “Ồ!”           |
+|      **Phương tiện**       |            **Giải thích thực hành**             |
+|:--------------------------:|:-----------------------------------------------:|
+|   Ngồi thiền dài giờ       | Duy trì 2-4 tiếng/ngày – để nghi tình bén lửa   |
+|     Kinh hành đều đặn      |   Vừa đi vừa giữ thoại đầu – ngưng vọng động    |
+|     Cấm khẩu vài ngày      |  Tránh nói chuyện – dồn toàn lực vào nghi tình  |
+| Bế quan (nếu đủ điều kiện) |  Một mình tu tập 3-7 ngày – chỉ giữ thoại đầu   |
 
-Phương tiện	Giải thích thực hành
-Ngồi thiền dài giờ	Duy trì 2-4 tiếng/ngày – để nghi tình bén lửa
-Kinh hành đều đặn	Vừa đi vừa giữ thoại đầu – ngưng vọng động
-Cấm khẩu vài ngày	Tránh nói chuyện – dồn toàn lực vào nghi tình
-Bế quan (nếu đủ điều kiện)	Một mình tu tập 3-7 ngày – chỉ giữ thoại đầu
-🎯 Câu chốt dành cho người quyết tâm
+##### 🎯 Câu chốt dành cho người quyết tâm
 
 > Người tu chỉ cần một niệm chân thật giữ lấy thoại đầu không rời – dù trải 3 năm, 5 năm, 10 năm – cuối cùng đá cũng phải mềm
 

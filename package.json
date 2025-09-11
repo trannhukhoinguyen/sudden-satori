@@ -11,7 +11,6 @@
     "check": "astro check",
     "lint": "eslint . --ext .js,.ts,.astro",
     "format": "prettier --write .",
-    "mdxFormat": "npx prettier --write \"src/content/**/*.mdx\"\n",
     "generate-screenshots": "node generate-screenshots.js",
     "test:features": "playwright test"
   },

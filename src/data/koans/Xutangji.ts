@@ -1,13 +1,4 @@
-export interface VacantHallCollection {
-  id: number;
-  titleOfficial?: string;
-  title?: string;
-  group: number;
-  path: string;
-  description: string;
-  author?: string,
-  cover?: string,
-}
+import type { KoanTitle, Koan } from "@/types.ts";
 
 /*
 * Xutang ji 虛堂集 (Empty hall anthology)
@@ -23,8 +14,8 @@ export interface VacantHallCollection {
 * https://www.rongmotamhon.net/xem-kinh_lam-tuyen-lao-nhon-binh_ddpmtdsc_muc-luc.html
 * */
 
-const VacantHallCollections: VacantHallCollection[] = [
-  {
+const Xutangji: Koan[] = [
+ /* {
     id: 1,
     titleOfficial: "Thanh Nguyên giai cấp sâm học",
     title: "Không rơi giai cấp",
@@ -823,10 +814,10 @@ const VacantHallCollections: VacantHallCollection[] = [
     group: 6,
     path: "vhc100-",
     description: "...",
-  },
+  },*/
 ];
 
-export default VacantHallCollections;
+export default Xutangji;
 
 /*
 * quyển I
