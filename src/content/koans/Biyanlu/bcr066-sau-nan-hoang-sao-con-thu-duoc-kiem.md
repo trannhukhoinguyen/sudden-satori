@@ -1,6 +1,6 @@
 ---
 title: NHAM ĐẦU VÀ “TỪ ĐÂU TỚI”
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Nham Đầu nói, 'Sau nạn Hoàng Sào còn thu được kiếm sao?'
 categories:

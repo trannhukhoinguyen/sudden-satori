@@ -1,6 +1,6 @@
 ---
 title: HẠT GẠO CỦA TUYẾT PHONG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: ''
 categories:

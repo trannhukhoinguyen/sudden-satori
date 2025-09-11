@@ -1,6 +1,6 @@
 ---
 title: LIÊN HOA TRỤ TRƯỢNG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Liên Hoa Phong Am Chủ dơ gậy lên dạy chúng rằng, 'Cổ nhân đã đến đây, tại sao không chịu ở lại?'
 categories:

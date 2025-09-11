@@ -1,13 +1,13 @@
 ---
-title: TRUYỀN THỪA TỔ SƯ THIỀN (THIỀN TÔNG)
-description: Từ Phật Thích Ca truyền đến nay...
-excerpt: 'TS Thạch Sương nói: Cái khóa không tua hai đầu lay động.'
+title: "TRUYỀN THỪA TỔ SƯ THIỀN (THIỀN TÔNG)"
+description: "Từ Phật Thích Ca truyền đến nay..."
+excerpt: "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động"
 categories:
   - Bài viết
 tags:
   - Truyền thừa
-  - Truyền thừa
 author: phatgiao.org.vn
+image: /images/koans/great-wave.webp
 ---
 
 ## ** 🇮🇳 ẤN ĐỘ**

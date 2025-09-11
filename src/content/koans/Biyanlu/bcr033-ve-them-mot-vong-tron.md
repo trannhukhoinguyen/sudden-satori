@@ -1,6 +1,6 @@
 ---
 title: TRẦN THƯỢNG THƯ VIẾNG TỪ PHÚC
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Từ Phúc thấy Trần Tháo đến bèn vẽ một vòng tròn. Trần Tháo nói, 'Đệ tử đến như thế này, vốn đã là bất tiện rồi, hà huống lại còn vẽ them một vòng tròn?'
 categories:

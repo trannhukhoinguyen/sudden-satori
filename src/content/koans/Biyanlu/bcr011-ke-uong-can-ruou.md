@@ -1,6 +1,6 @@
 ---
 title: KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Hoàng Bá dạy chúng rằng, 'Các ông chỉ là những kẻ uống cặn rượu. Hành cước như thế, ở đâu có ngày hôm nay? Có biết là trong xứ Trung Quốc này không có Thiền Sư chăng?'
 categories:

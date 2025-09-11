@@ -1,6 +1,6 @@
 ---
 title: CON RẮN MŨI RÙA CỦA TUYẾT PHONG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: 'Ngài Tuyết Phong dạy chúng rằng: ''Nam sơn có một con rắn mũi rùa, các ông cần phải coi chừng'''
 categories:

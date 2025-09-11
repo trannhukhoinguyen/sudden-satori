@@ -1,6 +1,6 @@
 ---
 title: HÒA SƠN BIẾT ĐÁNH TRỐNG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Hòa Sơn dạy rằng, 'Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần). Vượt qua hai cái này mới đúng là thực sự vượt qua.'
 categories:

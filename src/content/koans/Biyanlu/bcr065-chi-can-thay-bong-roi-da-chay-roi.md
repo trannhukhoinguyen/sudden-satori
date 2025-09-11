@@ -1,6 +1,6 @@
 ---
 title: NGOẠI ĐẠO HỎI PHẬT VỀ HỮU VÔ
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Đức Phật nói, 'Giống như ngựa tốt, chỉ cần thấy bóng roi cũng chạy rồi'
 categories:

@@ -1,14 +1,14 @@
 ---
-title: CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: Lương Vũ Đế hỏi Đạt Ma Đại Sư, 'Thế nào là sự thật cứu cánh siêu phàm?'. Đạt Ma nói, 'Trống không chẳng có gì là siêu phàm'
+title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ"
+description: ""
+excerpt: "Lương Vũ Đế hỏi Đạt Ma Đại Sư, 'Thế nào là sự thật cứu cánh siêu phàm?'. Đạt Ma nói, 'Trống không chẳng có gì là siêu phàm"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - Tổ BỒ ĐỀ ĐẠT MA
   - TS BẢO CHÍ CÔNG
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY:

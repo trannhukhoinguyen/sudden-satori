@@ -1,6 +1,6 @@
 ---
 title: BỐN CỬA CỦA TRIỆU CHÂU
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi Triệu Châu, 'Triệu Châu là gì?'. Triệu Châu nói, 'Đông môn, Nam môn, Tây môn, Bắc môn'
 categories:

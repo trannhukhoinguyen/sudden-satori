@@ -1,6 +1,6 @@
 ---
 title: PHẬT PHÁP ĐẠI Ý CỦA LÂM TẾ
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Định Thượng Tọa hỏi ngài Lâm Tế, 'Thế nào là đại ý của Phật Pháp?' Lâm Tế bước khỏi giường Thiền, nắm lấy Định Thượng Tọa tát cho một bạt tai rồi đẩy ra
 categories:

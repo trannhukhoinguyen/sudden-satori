@@ -1,6 +1,6 @@
 ---
 title: MA CỐC CHỐNG GẬY
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Nam Tuyền nói, 'Chương Kính thì đúng, ông mới là không đúng. Đây chính là cái bị sức gió chuyển, cuối cùng thế nào cũng bại hoại'
 categories:

@@ -1,10 +1,10 @@
 ---
+import type { Koan } from "@/types.ts";
+
 const { koans, title } = Astro.props;
 
-
-
 // Nhóm công án theo chữ cái đầu tiên
-const grouped = koans.reduce((acc: Record<string, Koan[]>, k) => {
+const grouped = koans.reduce((acc: Record<string, Koan[]>, k: any) => {
     const letter = k.title.charAt(0).toUpperCase();
     acc[letter] = acc[letter] || [];
     acc[letter].push(k);

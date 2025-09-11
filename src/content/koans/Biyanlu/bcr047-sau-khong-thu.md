@@ -1,6 +1,6 @@
 ---
 title: SÁU KHÔNG THU CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi Vân Môn, '_Pháp thân là gì?_'. Vân Môn nói, '_Sáu không thu_'
 categories:

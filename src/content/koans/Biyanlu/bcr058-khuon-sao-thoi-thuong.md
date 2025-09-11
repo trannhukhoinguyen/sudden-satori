@@ -1,6 +1,6 @@
 ---
 title: TRIỆU CHÂU VÀ KHUÔN SÁO THỜI THƯỢNG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Triệu Châu nói, Có người từng hỏi ta như thế, suốt năm năm nay ta vẫn chưa biết phải giải thích như thế nào?
 categories:

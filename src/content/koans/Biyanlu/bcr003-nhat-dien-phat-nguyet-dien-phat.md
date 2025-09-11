@@ -1,13 +1,13 @@
 ---
-title: MÃ SƯ BẤT AN
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: Mã Đại sư nói, 'Nhật diện Phật. Nguyệt diện Phật'
+title: "MÃ SƯ BẤT AN"
+description: ""
+excerpt: "Mã Đại sư nói, 'Nhật diện Phật. Nguyệt diện Phật'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS MÃ TỔ ĐẠO NHẤT
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY:

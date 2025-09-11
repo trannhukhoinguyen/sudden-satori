@@ -1,6 +1,6 @@
 ---
 title: MỘT MŨI TÊN PHÁ BA ẢI CỦA KHÂM SƠN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Lãng Thiền Khách hỏi ngài Khâm Sơn, 'Lúc một mũi tên phá ba ải thì như thế nào?'. Khâm Sơn nói, 'Đem vị chỉ huy trong ải ra đây xem!'
 categories:

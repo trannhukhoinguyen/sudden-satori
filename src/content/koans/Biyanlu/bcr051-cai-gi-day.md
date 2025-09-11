@@ -1,6 +1,6 @@
 ---
 title: “CÁI GÌ ĐÂY?” CỦA TUYẾT PHONG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Nham Đầu nói, 'Mặc dù Tuyết Phong cùng sinh trong một dòng với ta, song không cùng chết trong một dòng với ta. Nếu như ông muốn biết câu cuối cùng thì là cái này đây'
 categories:

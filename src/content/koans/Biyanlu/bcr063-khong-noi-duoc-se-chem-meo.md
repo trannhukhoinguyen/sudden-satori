@@ -1,6 +1,6 @@
 ---
 title: NAM TUYỀN GIẾT MÈO
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Một hôm ở tự viện của Nam Tuyền, tăng chúng của Đông đường và Tây đường tranh nhau một con mèo
 categories:

@@ -1,6 +1,6 @@
 ---
 title: NAM TUYỀN BÁI TRUNG QUỐC SƯ
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Nam Tuyền, Qui Tông và Ma Cốc cùng đi tham bái Trung Quốc Sư...
 categories:

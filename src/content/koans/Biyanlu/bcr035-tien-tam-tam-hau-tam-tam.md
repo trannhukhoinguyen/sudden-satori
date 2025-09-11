@@ -1,6 +1,6 @@
 ---
 title: VĂN THÙ VÀ VÔ TRƯỚC
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Vô Trước hỏi, 'Chúng hội thường có bao nhiêu người?'. Ngài Văn Thù nói, 'Tiền tam tam, hậu tam tam'
 categories:

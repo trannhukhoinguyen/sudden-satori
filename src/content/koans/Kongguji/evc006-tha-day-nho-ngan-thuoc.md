@@ -1,14 +1,14 @@
 ---
-title: GIÁP SƠN THUYỀN TỬ
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: 'TS Thuyền Tử nói: *Câu khắp dòng sông này, mới gặp được một con cá vàng* '
+title: "GIÁP SƠN THUYỀN TỬ"
+description: ""
+excerpt: "TS Thuyền Tử nói: Câu khắp dòng sông này, mới gặp được một con cá vàng"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS GIÁP SƠN THIỆN HỘI
   - TS THUYỀN TỬ ĐỨC THÀNH
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

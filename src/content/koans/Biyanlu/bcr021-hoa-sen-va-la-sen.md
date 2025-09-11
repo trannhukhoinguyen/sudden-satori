@@ -1,6 +1,6 @@
 ---
 title: HOA SEN CỦA TRÍ MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi ngài Trí Môn, 'Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?'
 categories:

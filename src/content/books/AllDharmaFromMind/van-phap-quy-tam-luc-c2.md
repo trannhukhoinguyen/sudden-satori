@@ -1,6 +1,6 @@
 ---
 title: Vạn Pháp Quy Tâm Lục
-description: ''
+description: ""
 excerpt: ''
 author:
   - TS Tổ Nguyên Siêu Minh

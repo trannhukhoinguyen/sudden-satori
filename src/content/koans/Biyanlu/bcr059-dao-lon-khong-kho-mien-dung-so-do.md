@@ -1,6 +1,6 @@
 ---
 title: TRIỆU CHÂU VÀ “ĐỪNG SO ĐO”
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Triệu Châu nói, 'Chỉ có đạo lớn không khó, miễn đừng so đo' mà thôi.
 categories:

@@ -1,14 +1,14 @@
 ---
-title: CHẲNG NHỮNG TÀO KHÊ
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: 'TS Hành Tư bảo: Nói cho ông không ngại, chỉ sợ sau này không có người kế thừa'
+title: "CHẲNG NHỮNG TÀO KHÊ"
+description: ""
+excerpt: "TS Hành Tư bảo: Nói cho ông không ngại, chỉ sợ sau này không có người kế thừa"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS THẠCH ĐẦU HY THIÊN
   - TS THANH NGUYÊN HÀNH TƯ
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

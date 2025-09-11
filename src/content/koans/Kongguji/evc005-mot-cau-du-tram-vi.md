@@ -1,14 +1,14 @@
 ---
-title: VÂN NHAM THAM VẤN DƯỢC SƠN
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: 'TS Dược Sơn bảo: Sao không nói sớm? TS Vân Nham ngộ ngay lời này.'
+title: "VÂN NHAM THAM VẤN DƯỢC SƠN"
+description: ""
+excerpt: "TS Dược Sơn bảo: Sao không nói sớm? TS Vân Nham ngộ ngay lời này"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS VÂN NHAM ĐÀM THẠNH
   - TS DƯỢC SƠN DUY NGHIỄM
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

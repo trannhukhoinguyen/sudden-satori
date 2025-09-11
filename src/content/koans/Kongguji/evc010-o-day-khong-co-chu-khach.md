@@ -1,13 +1,13 @@
 ---
-title: GIÁP SƠN ĐÁP PHẬT
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: 'TS Thạch Sương nói: Cái khóa không tua hai đầu lay động.'
+title: "GIÁP SƠN ĐÁP PHẬT"
+description: ""
+excerpt: "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS GIÁP SƠN THIỆN HỘI
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

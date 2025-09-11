@@ -1,6 +1,6 @@
 ---
 title: Đại ý Kinh Lăng Già
-description: ''
+description: ""
 author: Hoà thượng Thích Phổ Tuệ
 audioUrls:
   - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3

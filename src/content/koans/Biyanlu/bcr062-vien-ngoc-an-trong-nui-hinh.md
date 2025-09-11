@@ -1,6 +1,6 @@
 ---
 title: VIÊN NGỌC CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Vân Môn dạy chúng rằng, 'Bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình'
 categories:

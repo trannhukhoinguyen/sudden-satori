@@ -1,6 +1,6 @@
 ---
 title: GIỐNG NHƯ MỘNG CỦA NAM TUYỀN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Nam Tuyền chỉ vào đóa hoa ngoài sân, rồi gọi Lục đại phu mà nói rằng, 'Người bây giờ thấy đóa hoa này giống như thể một giấc mộng vậy'
 categories:

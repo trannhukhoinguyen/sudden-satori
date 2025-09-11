@@ -1,6 +1,6 @@
 ---
 title: TRẦN TRẦN TAM MUỘI CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi ngài Vân Môn, 'Trần trần tam muội là gì?'. Vân Môn nói, 'Cơm trong bát, nước trong thùng'
 categories:

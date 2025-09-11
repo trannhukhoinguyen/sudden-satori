@@ -1,6 +1,6 @@
 ---
 title: “MỚI Ở ĐÂU TỚI” CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Vân Môn hỏi ông tăng kia, 'Mới từ đâu tới?'. Ông tăng đáp, 'Tây Thiên'
 categories:

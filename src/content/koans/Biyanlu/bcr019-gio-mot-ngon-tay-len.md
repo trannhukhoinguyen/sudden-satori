@@ -1,6 +1,6 @@
 ---
 title: NGÓN TAY THIỀN CỦA CÂU CHI
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: ""
 categories:

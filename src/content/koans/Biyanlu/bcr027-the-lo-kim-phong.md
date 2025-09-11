@@ -1,6 +1,6 @@
 ---
 title: THỂ LỘ KIM PHONG CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: '''Lúc cây khô lá rụng thì như thế nào?''. Vân Môn nói, ''Thể lộ kim phong'''
 categories:

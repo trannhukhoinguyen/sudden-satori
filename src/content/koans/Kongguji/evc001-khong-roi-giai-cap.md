@@ -1,14 +1,14 @@
 ---
-title: THANH NGUYÊN GIAI CẤP
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: TS Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?
+title: "THANH NGUYÊN GIAI CẤP"
+description: ""
+excerpt: "TS Hành Tư thưa, Thánh đế còn không làm, rơi vào giai cấp nào?"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS THANH NGUYÊN HÀNH TƯ
   - TS LỤC TỔ HUỆ NĂNG
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

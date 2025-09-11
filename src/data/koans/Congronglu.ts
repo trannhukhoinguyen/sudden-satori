@@ -1,7 +1,11 @@
 import type { KoanTitle, Koan } from "@/types.ts";
 
 /*
+THONG DONG LỤC
 * * */
+export const CongrongluTitles: KoanTitle[] = [
+
+]
 
 const Congronglu: Koan[] = [
   {

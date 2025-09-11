@@ -1,6 +1,6 @@
 ---
 title: THAM THIỀN PHỔ THUYẾT
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: ''
 categories:

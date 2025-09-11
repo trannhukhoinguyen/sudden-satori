@@ -1,6 +1,6 @@
 ---
 title: TỪNG PHIẾN TUYẾT CỦA BÀNG CƯ SĨ
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Bàng Cư Sĩ lại đánh thêm cho một tát tai nữa, nói, 'Mắt thấy mà như mù, miệng nói mà như câm'
 categories:

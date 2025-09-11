@@ -12,6 +12,10 @@ import type { KoanTitle, Koan } from "@/types.ts";
 * https://www.rongmotamhon.net/xem-kinh_lam-tuyen-lao-nhon-binh_ddplklkd_muc-luc.html
 * */
 
+export const KonggujiTitles: KoanTitle[] = [
+
+]
+
 const Kongguji: Koan[] = [
 // 📘 Quyển 1
   {

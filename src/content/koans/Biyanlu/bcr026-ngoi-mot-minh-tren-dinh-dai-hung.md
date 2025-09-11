@@ -1,6 +1,6 @@
 ---
 title: BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi Bách Trượng, 'Thế nào là sự việc kỳ đặc?'. Bách Trượng nói, 'Ngồi một mình trên đỉnh Đại Hùng'
 categories:

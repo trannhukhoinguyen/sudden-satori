@@ -1,6 +1,6 @@
 ---
-title: CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU
-description: ''
+title: "CHÍ ĐẠO VÔ NAN CỦA TRIỆU CHÂU"
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Triệu Châu nói, Đồ nhà quê! So đo ở chỗ nào đâu? Ông tăng kia không nói gì được.
 categories:

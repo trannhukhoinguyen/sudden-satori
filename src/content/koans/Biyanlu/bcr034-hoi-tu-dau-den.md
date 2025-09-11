@@ -1,6 +1,6 @@
 ---
 title: NGƯỠNG SƠN HỎI TỪ ĐÂU ĐẾN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ông tăng nói, 'Chưa'. Ngài Ngưỡng Sơn nói, 'Như thế là thầy chưa từng bao giờ đi chơi núi cả'
 categories:

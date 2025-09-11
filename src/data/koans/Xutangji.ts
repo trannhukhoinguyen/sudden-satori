@@ -14,6 +14,10 @@ import type { KoanTitle, Koan } from "@/types.ts";
 * https://www.rongmotamhon.net/xem-kinh_lam-tuyen-lao-nhon-binh_ddpmtdsc_muc-luc.html
 * */
 
+export const XutangjiTitles: KoanTitle[] = [
+
+]
+
 const Xutangji: Koan[] = [
  /* {
     id: 1,

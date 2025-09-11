@@ -1,6 +1,6 @@
 ---
 title: MỘT NGÀY ĐẸP CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: 'Vân Môn Đại Sư nói: ''Ngày nào cũng là một ngày đẹp'''
 categories:

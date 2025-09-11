@@ -1,6 +1,6 @@
 ---
 title: CHÉN BẠC CỦA BA LĂNG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: ''
 categories:

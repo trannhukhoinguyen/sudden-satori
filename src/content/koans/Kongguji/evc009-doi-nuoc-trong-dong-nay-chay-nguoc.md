@@ -1,13 +1,13 @@
 ---
-title: ĐỘNG SƠN Ý TỔ
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: 'Động Sơn nói: ''Đợi nước trong động này chảy ngược sẽ nói cho ông'''
+title: "ĐỘNG SƠN Ý TỔ"
+description: ""
+excerpt: "Động Sơn nói: Đợi nước trong động này chảy ngược sẽ nói cho ông"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS ĐỘNG SƠN LƯƠNG GIỚI
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

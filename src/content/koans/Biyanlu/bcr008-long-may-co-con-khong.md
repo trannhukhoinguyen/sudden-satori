@@ -1,6 +1,6 @@
 ---
 title: THÚY NHAM DẠY ĐỒ CHÚNG CUỐI HẠ
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Cuối mùa kiết hạ, Ngài Thúy Nham dạy chúng rằng, 'Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. Thử nhìn xem lông mày của Thúy Nham có còn không?'
 categories:

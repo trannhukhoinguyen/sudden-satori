@@ -1,6 +1,6 @@
 ---
 title: TRƯỜNG SA MỘT HÔM ĐI CHƠI NÚI
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Thủ tòa hỏi, 'Hòa thượng đi đến những chỗ nào?'. Trường Sa nói, 'Đi theo mùi cỏ thơm, về theo vết hoa rụng'
 categories:

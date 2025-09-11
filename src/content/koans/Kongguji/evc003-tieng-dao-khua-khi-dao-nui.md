@@ -1,14 +1,14 @@
 ---
-title: VÂN NHAM DẠO NÚI
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: 'TS Dược Sơn đi dạo núi với TS Vân Nham, tiếng dao khua bên hông. '
+title: "VÂN NHAM DẠO NÚI"
+description: ""
+excerpt: "TS Dược Sơn đi dạo núi với TS Vân Nham, tiếng dao khua bên hông"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS DƯỢC SƠN DUY NGHIỄM
   - TS VÂN NHAM ĐÀM THẠNH
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

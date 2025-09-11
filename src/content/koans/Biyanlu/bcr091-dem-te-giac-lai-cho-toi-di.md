@@ -1,6 +1,6 @@
 ---
 title: TÊ GIÁC CỦA DIÊM QUAN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Diêm Quan nói, Nếu như quạt gẫy rồi thì ông đem tê giác lại cho tôi đi.
 categories:

@@ -1,6 +1,6 @@
 ---
 title: LONG NHA VÀ Ý CỦA TỔ SƯ TỪ TÂY THIÊN QUA
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Long Nha nói, 'Đánh thì cứ việc đánh, song chẳng có gì nhằm nhò đến ý của Tổ Sư từ Tây Thiên qua cả!'
 categories:

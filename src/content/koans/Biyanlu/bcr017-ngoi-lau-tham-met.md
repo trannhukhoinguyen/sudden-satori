@@ -1,6 +1,6 @@
 ---
 title: HƯƠNG LÂM NGỒI LÂU
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi Hương Lâm, 'Thế nào là ý của Tổ Sư từ Tây thiên qua?'. Hương Lâm nói, 'Ngồi lâu thấm mệt'
 categories:

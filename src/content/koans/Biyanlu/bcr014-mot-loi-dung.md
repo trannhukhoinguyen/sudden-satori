@@ -1,6 +1,6 @@
 ---
 title: MỘT LỜI ĐÚNG CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: ''
 categories:

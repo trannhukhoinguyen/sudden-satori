@@ -1,6 +1,6 @@
 ---
 title: QUY SƠN ĐỨNG HẦU BÁCH TRƯỢNG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Bách Trượng nói, 'Tôi không ngại gì mà không nói cho ông, song chỉ sợ sau này làm chết hết con cháu mà thôi'
 categories:

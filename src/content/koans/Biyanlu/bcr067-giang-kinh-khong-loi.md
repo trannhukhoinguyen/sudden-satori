@@ -1,6 +1,6 @@
 ---
 title: LƯƠNG VŨ ĐẾ MỜI GIẢNG KINH
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Lương Vũ Đế mời Phó Đại Sĩ giảng Kinh Kim Cương. Phó Đại Sĩ đứng trên tòa lay bàn một cái rồi xuống khỏi tòa.
 categories:

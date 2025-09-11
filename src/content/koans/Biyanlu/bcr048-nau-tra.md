@@ -1,6 +1,6 @@
 ---
 title: VƯƠNG THÁI PHÓ NẤU TRÀ
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Vương Thái Phó nói, 'Đã là thần hộ lò thì tại sao ấm trà lại lật?'. Lãng Thượng Tọa nói, 'Làm quan trăm ngày, mất chức một buổi'
 categories:

@@ -1,8 +1,8 @@
 ---
 title: ĐỨC SƠN MANG BAO HÀNH TRANG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
-excerpt: ''
+excerpt: ""
 categories:
   - Công án
 tags:

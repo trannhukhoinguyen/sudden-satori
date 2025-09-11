@@ -1,14 +1,14 @@
 ---
-title: NƯỚC CON AN ỔN
-description: ''
-image: /images/koans/great-wave.webp
-excerpt: 'Sa di Cao thưa: Chớ bảo không đạt được, chỉ vì họ không chịu chấp nhận thôi.'
+title: "NƯỚC CON AN ỔN"
+description: ""
+excerpt: "Sa di Cao thưa: Chớ bảo không đạt được, chỉ vì họ không chịu chấp nhận thôi"
 categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
   - TS SA DI CAO
   - TS DƯỢC SƠN DUY NGHIỄM
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

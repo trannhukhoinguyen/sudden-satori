@@ -1,6 +1,6 @@
 ---
 title: NAM TUYỀN HỎI TRIỆU CHÂU
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Nam Tuyền lại nêu câu chuyện trên ra để hỏi ngài Triệu Châu. Ngài Triệu Châu bèn cởi giầy cỏ ra đội lên đầu rồi bỏ đi.
 categories:

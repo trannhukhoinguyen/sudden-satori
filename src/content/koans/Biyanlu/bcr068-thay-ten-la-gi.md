@@ -1,6 +1,6 @@
 ---
 title: NGƯỠNG SƠN HỎI TAM THÁNH
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngưỡng Sơn hỏi Tam Thánh, 'Thầy tên gì?' Tam Thánh nói, 'Huệ Tịch'. Ngưỡng Sơn nói, 'Huệ Tịch là tôi'
 categories:

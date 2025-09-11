@@ -1,6 +1,6 @@
 ---
 title: HỎA KIẾP CỦA ĐẠI TÙY
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi, 'Hỏa kiếp cháy suốt, đại thiên đều hoại. Chẳng hiểu cái này có bị hoại hay không?'
 categories:

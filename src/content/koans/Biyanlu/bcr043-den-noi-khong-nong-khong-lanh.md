@@ -1,6 +1,6 @@
 ---
 title: KHÔNG NÓNG KHÔNG LẠNH CỦA ĐỘNG SƠN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Động Sơn nói, 'Tại sao ông không đến nơi nào không có nóng với lạnh đó'
 categories:

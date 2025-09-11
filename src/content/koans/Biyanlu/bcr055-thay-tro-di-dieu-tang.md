@@ -1,6 +1,6 @@
 ---
 title: ĐẠO NGÔ VÀ TIỆM NGUYÊN ĐI ĐIẾU TANG
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Đạo Ngô nói, 'Không bảo là sống mà cũng chẳng bảo là chết'
 categories:

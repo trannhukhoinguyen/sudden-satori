@@ -1,6 +1,6 @@
 ---
 title: NGƯỜI TRONG CỎ CỦA KÍNH THANH
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: ""
 categories:

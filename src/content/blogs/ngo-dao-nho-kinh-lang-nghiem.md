@@ -1,6 +1,6 @@
 ---
 title: 6 vị đại thiền sư đã khai ngộ nhờ Kinh Lăng Nghiêm
-description: ''
+description: ""
 categories:
   - Bài viết
 tags:

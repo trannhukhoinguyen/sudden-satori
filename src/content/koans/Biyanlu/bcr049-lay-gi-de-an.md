@@ -1,6 +1,6 @@
 ---
 title: TAM THÁNH LẤY GÌ ĐỂ ĂN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Ngài Tam Thánh hỏi ngài Tuyết Phong, 'Con cá vàng vượt ra khỏi lưới, không hiểu lấy gì để ăn?'. Ngài Tuyết Phong nói, 'Đợi khi nào ông ra khỏi lưới tôi sẽ nói cho ông'
 categories:

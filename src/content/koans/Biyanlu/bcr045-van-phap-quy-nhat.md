@@ -1,6 +1,6 @@
 ---
 title: VẠN PHÁP QUY NHẤT CỦA TRIỆU CHÂU
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Triệu Châu nói, 'Lúc ở Thanh Châu tôi có may một cái áo vải nặng bẩy cân'
 categories:

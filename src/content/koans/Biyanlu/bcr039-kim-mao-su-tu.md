@@ -1,6 +1,6 @@
 ---
 title: KIM MAO SƯ TỬ CỦA VÂN MÔN
-description: ''
+description: ""
 image: /images/koans/great-wave.webp
 excerpt: Có ông tăng hỏi ngài Vân Môn, 'Thế nào là thanh tịnh Pháp Thân?'. Vân Môn nói, 'Một dậu hoa'
 categories:

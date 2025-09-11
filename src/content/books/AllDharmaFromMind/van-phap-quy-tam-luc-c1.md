@@ -1,7 +1,7 @@
 ---
-title: Vạn Pháp Quy Tâm Lục
-description: ''
-excerpt: ''
+title: "Vạn Pháp Quy Tâm Lục"
+description: ""
+excerpt: ""
 author:
   - TS Tổ Nguyên Siêu Minh
 categories:
@@ -9,6 +9,7 @@ categories:
 tags:
   - Vạn Pháp Quy Tâm Lục
   - TS Tổ Nguyên Siêu Minh
+image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/AllDharmaFromMind/van-phap-quy-tam-luc.pdf
 ---
 

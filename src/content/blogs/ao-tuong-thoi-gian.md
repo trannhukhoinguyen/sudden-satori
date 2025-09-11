@@ -1,6 +1,6 @@
 ---
-title: Có phải THỜI GIAN chỉ là ảo giác?
-description: ''
+title: "Có phải THỜI GIAN chỉ là ảo giác?"
+description: ""
 excerpt: |
   "Chúng ta có xu hướng tin rằng vận mệnh thì không cố định và rằng tất cả THỜI GIAN đã qua đều bị trôi vào quên lãng, nhưng liệu sự vận động đó có thể chỉ là một ảo giác không?"
 categories:

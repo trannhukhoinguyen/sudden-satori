@@ -1,6 +1,6 @@
 ---
 title: Tông Cảnh Lục - Quyển 1
-description: ''
+description: ""
 author: TS Vĩnh Minh Diên Thọ
 categories:
   - Luận
