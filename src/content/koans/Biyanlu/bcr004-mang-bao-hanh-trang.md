@@ -1,13 +1,13 @@
 ---
-title: ĐỨC SƠN MANG BAO HÀNH TRANG
+title: "ĐỨC SƠN MANG BAO HÀNH TRANG"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: ""
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS ĐỨC SƠN TUYÊN GIÁM
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY:

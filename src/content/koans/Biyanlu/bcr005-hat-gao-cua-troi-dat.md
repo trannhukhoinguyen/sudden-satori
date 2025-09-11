@@ -1,13 +1,13 @@
 ---
-title: HẠT GẠO CỦA TUYẾT PHONG
+title: "HẠT GẠO CỦA TUYẾT PHONG"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: ''
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS TUYẾT PHONG NGHĨA TỒN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

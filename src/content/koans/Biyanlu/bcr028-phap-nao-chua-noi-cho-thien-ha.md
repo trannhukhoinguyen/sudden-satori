@@ -1,14 +1,14 @@
 ---
-title: CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG
+title: "CHƯ THÁNH CỦA NIẾT BÀN HÒA THƯỢNG"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Bách Trượng nói, 'Thế nào là Pháp chưa nói cho thiên hạ?'. Nam Tuyền nói, 'Không phải tâm, không phải Phật, không phải vật'
+excerpt: "Bách Trượng nói, 'Thế nào là Pháp chưa nói cho thiên hạ?'. Nam Tuyền nói, 'Không phải tâm, không phải Phật, không phải vật'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS BÁCH TRƯỢNG DUY CHÍNH
   - TS NIẾT BÀN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

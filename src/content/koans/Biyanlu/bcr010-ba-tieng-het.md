@@ -1,13 +1,13 @@
 ---
-title: BA TIẾNG HÉT CỦA MỤC CHÂU
+title: "BA TIẾNG HÉT CỦA MỤC CHÂU"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: ''
+excerpt: ""
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS MỤC CHÂU ĐẠO MINH
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

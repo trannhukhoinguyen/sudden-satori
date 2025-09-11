@@ -1,13 +1,13 @@
 ---
-title: BỐN CỬA CỦA TRIỆU CHÂU
+title: "BỐN CỬA CỦA TRIỆU CHÂU"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Có ông tăng hỏi Triệu Châu, 'Triệu Châu là gì?'. Triệu Châu nói, 'Đông môn, Nam môn, Tây môn, Bắc môn'
+excerpt: "Có ông tăng hỏi Triệu Châu, 'Triệu Châu là gì?'. Triệu Châu nói, 'Đông môn, Nam môn, Tây môn, Bắc môn'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS TRIỆU CHÂU TÙNG THẨM
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

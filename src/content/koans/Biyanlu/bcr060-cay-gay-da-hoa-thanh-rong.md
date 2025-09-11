@@ -1,13 +1,13 @@
 ---
 title: CÂY GẬY CỦA VÂN MÔN
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Vân Môn đưa gậy ra dạy chúng rằng, “Cây gậy đã hóa thành rồng, nuốt trọn cả trời đất rồi. Sơn hà đại địa, còn đâu mà có nữa?”
+excerpt: "Vân Môn đưa gậy ra dạy chúng rằng, 'Cây gậy đã hóa thành rồng, nuốt trọn cả trời đất rồi. Sơn hà đại địa, còn đâu mà có nữa?'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS VÂN MÔN VĂN YỂN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

@@ -1,14 +1,14 @@
 ---
-title: QUI SƠN VÀ LƯU THIẾT MA
+title: "QUI SƠN VÀ LƯU THIẾT MA"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Lưu Thiết Ma nói, 'Ngày mai trên Đài Sơn  có trai hội lớn, hòa thượng có đi không?'. Qui Sơn nằm xuống, Lưu Thiết Ma bèn bỏ đi.
+excerpt: "Lưu Thiết Ma nói, 'Ngày mai trên Đài Sơn  có trai hội lớn, hòa thượng có đi không?'. Qui Sơn nằm xuống, Lưu Thiết Ma bèn bỏ đi."
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS QUI SƠN LINH HỰU
   - TS LƯU THIẾT MA
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

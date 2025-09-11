@@ -1,13 +1,13 @@
 ---
-title: NGÓN TAY THIỀN CỦA CÂU CHI
+title: "NGÓN TAY THIỀN CỦA CÂU CHI"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: ""
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS CÂU CHI
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

@@ -1,14 +1,14 @@
 ---
-title: HUỆ SIÊU HỎI VỀ PHẬT
+title: "HUỆ SIÊU HỎI VỀ PHẬT"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn, H'uệ Siêu xin hỏi hòa thượng, Phật là gì?'. Pháp Nhãn nói, 'Chú là Huệ Siêu'
+excerpt: "Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn, H'uệ Siêu xin hỏi hòa thượng, Phật là gì?'. Pháp Nhãn nói, 'Chú là Huệ Siêu'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS PHÁP NHÃN VĂN ÍCH
   - TS HUỆ SIÊU
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

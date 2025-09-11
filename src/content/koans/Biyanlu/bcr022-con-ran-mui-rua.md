@@ -1,13 +1,13 @@
 ---
-title: CON RẮN MŨI RÙA CỦA TUYẾT PHONG
+title: "CON RẮN MŨI RÙA CỦA TUYẾT PHONG"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: 'Ngài Tuyết Phong dạy chúng rằng: ''Nam sơn có một con rắn mũi rùa, các ông cần phải coi chừng'''
+excerpt: "'Ngài Tuyết Phong dạy chúng rằng: ''Nam sơn có một con rắn mũi rùa, các ông cần phải coi chừng'''"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS TUYẾT PHONG NGHĨA TỒN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

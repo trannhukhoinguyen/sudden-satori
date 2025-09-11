@@ -1,5 +1,5 @@
 ---
-title: KHO BÁU NHÀ THIỀN
+title: "KHO BÁU NHÀ THIỀN"
 description: ""
 categories:
   - Sách

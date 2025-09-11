@@ -1,13 +1,13 @@
 ---
-title: LIÊN HOA TRỤ TRƯỢNG
+title: "LIÊN HOA TRỤ TRƯỢNG"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Liên Hoa Phong Am Chủ dơ gậy lên dạy chúng rằng, 'Cổ nhân đã đến đây, tại sao không chịu ở lại?'
+excerpt: "Liên Hoa Phong Am Chủ dơ gậy lên dạy chúng rằng, 'Cổ nhân đã đến đây, tại sao không chịu ở lại?'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS LIÊN HOA PHONG TƯỜNG
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

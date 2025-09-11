@@ -1,13 +1,13 @@
 ---
-title: THỂ LỘ KIM PHONG CỦA VÂN MÔN
+title: "THỂ LỘ KIM PHONG CỦA VÂN MÔN"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: '''Lúc cây khô lá rụng thì như thế nào?''. Vân Môn nói, ''Thể lộ kim phong'''
+excerpt: "'Lúc cây khô lá rụng thì như thế nào?'. Vân Môn nói, 'Thể lộ kim phong'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS VÂN MÔN VĂN YỂN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

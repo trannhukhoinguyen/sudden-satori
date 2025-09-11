@@ -1,13 +1,14 @@
 ---
-title: KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ
+title: "KẺ UỐNG CẶN RƯỢU CỦA HOÀNG BÁ"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Ngài Hoàng Bá dạy chúng rằng, 'Các ông chỉ là những kẻ uống cặn rượu. Hành cước như thế, ở đâu có ngày hôm nay? Có biết là trong xứ Trung Quốc này không có Thiền Sư chăng?'
+excerpt: |
+  "Ngài Hoàng Bá dạy chúng rằng, 'Các ông chỉ là những kẻ uống cặn rượu. Hành cước như thế, ở đâu có ngày hôm nay? Có biết là trong xứ Trung Quốc này không có Thiền Sư chăng?'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS HOÀNG BÁ HY VẬN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

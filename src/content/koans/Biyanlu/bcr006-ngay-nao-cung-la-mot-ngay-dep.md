@@ -1,13 +1,13 @@
 ---
-title: MỘT NGÀY ĐẸP CỦA VÂN MÔN
+title: "MỘT NGÀY ĐẸP CỦA VÂN MÔN"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: 'Vân Môn Đại Sư nói: ''Ngày nào cũng là một ngày đẹp'''
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS VÂN MÔN VĂN YỂN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

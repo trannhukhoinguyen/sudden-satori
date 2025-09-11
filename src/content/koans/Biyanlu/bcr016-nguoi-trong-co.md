@@ -1,13 +1,13 @@
 ---
-title: NGƯỜI TRONG CỎ CỦA KÍNH THANH
+title: "NGƯỜI TRONG CỎ CỦA KÍNH THANH"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: ""
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS KÍNH THANH ĐẠO PHÓ
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

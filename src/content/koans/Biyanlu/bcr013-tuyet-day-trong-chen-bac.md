@@ -1,13 +1,13 @@
 ---
-title: CHÉN BẠC CỦA BA LĂNG
+title: "CHÉN BẠC CỦA BA LĂNG"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: ''
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS BA LĂNG HẠO GIÁM
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

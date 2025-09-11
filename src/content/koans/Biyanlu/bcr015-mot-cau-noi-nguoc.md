@@ -1,13 +1,13 @@
 ---
-title: MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN
+title: "MỘT CÂU NÓI NGƯỢC CỦA VÂN MÔN"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: ''
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - 'TS '
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

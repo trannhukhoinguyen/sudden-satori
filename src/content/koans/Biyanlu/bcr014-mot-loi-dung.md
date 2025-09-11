@@ -1,13 +1,13 @@
 ---
-title: MỘT LỜI ĐÚNG CỦA VÂN MÔN
+title: "MỘT LỜI ĐÚNG CỦA VÂN MÔN"
 description: ""
-image: /images/koans/great-wave.webp
 excerpt: ''
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS VÂN MÔN VĂN YỂN
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY

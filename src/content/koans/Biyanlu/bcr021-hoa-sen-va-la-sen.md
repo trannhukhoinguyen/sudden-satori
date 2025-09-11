@@ -1,13 +1,13 @@
 ---
-title: HOA SEN CỦA TRÍ MÔN
+title: "HOA SEN CỦA TRÍ MÔN"
 description: ""
-image: /images/koans/great-wave.webp
-excerpt: Có ông tăng hỏi ngài Trí Môn, 'Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?'
+excerpt: "Có ông tăng hỏi ngài Trí Môn, 'Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?'"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
   - TS TRÍ MÔN QUANG TỘ
+image: /images/koans/great-wave.webp
 ---
 
 ## THÙY
