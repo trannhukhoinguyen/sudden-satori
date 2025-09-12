@@ -13,11 +13,309 @@ import type { KoanTitle, Koan } from "@/types.ts";
 * */
 
 export const KonggujiTitles: KoanTitle[] = [
-
+  {
+    title: "Thanh Nguyên giai cấp",
+  },
+  {
+    title: "Chẳng những Tào Khê",
+  },
+  {
+    title: "Vân Nham Dạo Núi",
+  },
+  {
+    title: "Đạo Ngô Tham Sâu",
+  },
+  {
+    title: "Vân Nham Tham Vấn Dược Sơn",
+  },
+  {
+    title: "Giáp Sơn Thuyền Tử",
+  },
+  {
+    title: "Nước Con An Ổn",
+  },
+  {
+    title: "Tăng hỏi Thạch Sương",
+  },
+  {
+    title: "Động Sơn Ý Tổ",
+  },
+  {
+    title: "Giáp Sơn Đáp Phật",
+  },
+  {
+    title: "Muôn Cửa Đều Mở",
+  },
+  {
+    title: "Cửu Phong Đan Thanh",
+  },
+  {
+    title: "Thiếu Sơn Thị Phi",
+  },
+  {
+    title: "Lương Sơn Ý Tổ",
+  },
+  {
+    title: "Long Nha Con Rùa",
+  },
+  {
+    title: "Linh Vân Hoa Đào",
+  },
+  {
+    title: "Mẫu Tháp Quốc Sư",
+  },
+  {
+    title: "Một Hớp Cạn Sông Tây Giang",
+  },
+  {
+    title: "Tăng Hội Trường Sa",
+  },
+  {
+    title: "Vân Nham Nam Tuyên",
+  },
+  {
+    title: "Uống Trà Triệu Châu",
+  },
+  {
+    title: "Đại Tùy Ô Qui",
+  },
+  {
+    title: "Nam Tuyên Độ Mèo",
+  },
+  {
+    title: "Vân Cư Ở Núi",
+  },
+  {
+    title: "Đan Hà Thiêu Phật",
+  },
+  {
+    title: "Gà Ở Tổ Phượng",
+  },
+  {
+    title: "Sơ Sơn Đáp Phật",
+  },
+  {
+    title: "Về Nguồn Được Chỉ",
+  },
+  {
+    title: "Hỏi Cảnh Giáp Sơn",
+  },
+  {
+    title: "Tào Sơn Xuất Thế",
+  },
+  {
+    title: "Không Chốn Ẩn Thân",
+  },
+  {
+    title: "Phong Huyệt Khúc Xưa",
+  },
+  {
+    title: "Đầu Tử Kiếp Lửa",
+  },
+  {
+    title: "Mễ Hồ Hồi Ngộ",
+  },
+  {
+    title: "Cảnh Thanh Có Lời",
+  },
+  {
+    title: "Vân Môn Minh Giáo",
+  },
+  {
+    title: "Vân Cư Sáu Cửa",
+  },
+  {
+    title: "Phong Huyệt Hoàng Long",
+  },
+  {
+    title: "Tuyết Phong Nam Tế",
+  },
+  {
+    title: "Đại Sĩ Không Đứng Dậy",
+  },
+  {
+    title: "Thủ Sơn Thành Thiết",
+  },
+  {
+    title: "Vân Môn Bánh Bột",
+  },
+  {
+    title: "Việc Truyền Thừa",
+  },
+  {
+    title: "Răng Cửa Mọc Lông",
+  },
+  {
+    title: "Pháp Thân Báu",
+  },
+  {
+    title: "Ngắm Núi Ban Ngày",
+  },
+  {
+    title: "Rồng Thăm Tổ Phụng",
+  },
+  {
+    title: "Ba Lăng Gà Vịt",
+  },
+  {
+    title: "Đầu Tử Phàm Thánh",
+  },
+  {
+    title: "Hỏi Đạo Triệu Châu",
+  },
+  {
+    title: "Ngưỡng Sơn Sống Núi",
+  },
+  {
+    title: "Thủ Sơn Bồ Đề",
+  },
+  {
+    title: "Nham Đầu Cảnh Buồm",
+  },
+  {
+    title: "Phong Huyệt Nai Chúa",
+  },
+  {
+    title: "Đầu Tử Ba Thân",
+  },
+  {
+    title: "Ý Chỉ Tào Khê",
+  },
+  {
+    title: "Tuyết Phong Sen Sanh Trường",
+  },
+  {
+    title: "Quảng Giáo Kỹ Châu",
+  },
+  {
+    title: "Phong Huyệt Đánh Cầu",
+  },
+  {
+    title: "Tăng Hội Thủ Sơn",
+  },
+  {
+    title: "Thủ Sơn Kinh Này",
+  },
+  {
+    title: "Triệu Hoành Dốc Cao",
+  },
+  {
+    title: "Cửu Phong Lòng Rùa",
+  },
+  {
+    title: "Lâm Tế Suy Mạo",
+  },
+  {
+    title: "Đại Tùy Chứng Qui",
+  },
+  {
+    title: "Thụy Nham Bất Xuất",
+  },
+  {
+    title: "Văn Thù Thành Nhọc",
+  },
+  {
+    title: "Thượng Lam Thị Triển",
+  },
+  {
+    title: "Lạc Phổ Tạng Giáo",
+  },
+  {
+    title: "Ba Tiêu Pháp Thân",
+  },
+  {
+    title: "Ba Tiêu Tốt Xấu",
+  },
+  {
+    title: "Thiên Bàng Gìn Giữ Tông Phong",
+  },
+  {
+    title: "Hòa Sơn Đánh Trống",
+  },
+  {
+    title: "Hoàng Liên Trước Tiếng",
+  },
+  {
+    title: "Tư Phước Hình Tròn",
+  },
+  {
+    title: "Sùng Phước Thanh Thoát",
+  },
+  {
+    title: "Đạo Tràng Lương Sơn",
+  },
+  {
+    title: "Bá Trượng Đặc Biệt",
+  },
+  {
+    title: "Lịch Thôn Nấu Trà",
+  },
+  {
+    title: "Văn Thù Chín Khúc",
+  },
+  {
+    title: "Tuyết Phong Điển Tọa",
+  },
+  {
+    title: "Đức Sơn Thượng Đường",
+  },
+  {
+    title: "Hưng Hóa Quân Kỳ",
+  },
+  {
+    title: "Trường Khánh Không Nghi",
+  },
+  {
+    title: "Động Sơn Cọng Rau Lưu",
+  },
+  {
+    title: "Quốc sư thị giả thị giả",
+  },
+  {
+    title: "U Thê Thượng Đường",
+  },
+  {
+    title: "Đáp Ba Cân Gai",
+  },
+  {
+    title: "Ẩn Thân Bắc Đẩu",
+  },
+  {
+    title: "Trước Lầu Ngũ Phụng",
+  },
+  {
+    title: "Ngưỡng Sơn Sáp Thiêu",
+  },
+  {
+    title: "Pháp Nhãn Huệ Siêu",
+  },
+  {
+    title: "Triệu Châu Khám Phá Bà Già",
+  },
+  {
+    title: "Trước Tháp Đa Tử",
+  },
+  {
+    title: "Đại Dương Huyền Chỉ",
+  },
+  {
+    title: "Đức Sơn Thượng Đường",
+  },
+  {
+    title: "Đầu Tử Trăng Sáng",
+  },
+  {
+    title: "Gậy Ba Tiêu",
+  },
+  {
+    title: "Phù Sơn Tú Cầu",
+  },
+  {
+    title: "Phù Sơn Gò Cao",
+  },
 ]
 
 const Kongguji: Koan[] = [
-// 📘 Quyển 1
   {
     id: 1,
     title: "Thanh Nguyên giai cấp",
@@ -108,7 +406,6 @@ const Kongguji: Koan[] = [
     title: "Một Hớp Cạn Sông Tây Giang",
     main: "..."
   },
-// 📘 Quyển 2
   {
     id: 19,
     title: "Tăng Hội Trường Sa",
@@ -184,7 +481,6 @@ const Kongguji: Koan[] = [
     title: "Đầu Tử Kiếp Lửa",
     main: "..."
   },
-// 📘 Quyển 3
   {
     id: 34,
     title: "Mễ Hồ Hồi Ngộ",
@@ -275,7 +571,6 @@ const Kongguji: Koan[] = [
     title: "Ngưỡng Sơn Sống Núi",
     main: "..."
   },
-// 📘 Quyển 4
   {
     id: 52,
     title: "Thủ Sơn Bồ Đề",
@@ -366,7 +661,6 @@ const Kongguji: Koan[] = [
     title: "Lạc Phổ Tạng Giáo",
     main: "..."
   },
-// 📘 Quyển 5
   {
     id: 70,
     title: "Ba Tiêu Pháp Thân",
@@ -462,7 +756,6 @@ const Kongguji: Koan[] = [
     title: "Đáp Ba Cân Gai",
     main: "..."
   },
-// 📘 Quyển 6
   {
     id: 89,
     title: "Ẩn Thân Bắc Đẩu",

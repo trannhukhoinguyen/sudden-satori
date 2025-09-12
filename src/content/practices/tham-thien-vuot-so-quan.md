@@ -191,8 +191,8 @@ Không cần đổi nhiều. Một câu – giữ trọn đời cũng được.
 
 > Người tu Thiền không cần học nhiều, chỉ cần một câu thoại đầu – giống như người nuốt đinh sắt – không tiêu hóa nổi, mà cũng không nhả ra được. 
 > Ngày nào cũng giữ nó, sẽ có lúc vỡ tung.
-
-> **Đại Huệ Tông Cảo**> 
+>
+> — **Đại Huệ Tông Cảo**
 
 <hr class="blog-rule" />
 
@@ -287,5 +287,5 @@ Không ai có thể “bắt buộc” ngộ xảy ra, nhưng bạn có thể nh
 ##### 🎯 Câu chốt dành cho người quyết tâm
 
 > Người tu chỉ cần một niệm chân thật giữ lấy thoại đầu không rời – dù trải 3 năm, 5 năm, 10 năm – cuối cùng đá cũng phải mềm
-
-— **Thiền sư Hư Vân**
+>
+> — **Thiền sư Hư Vân**

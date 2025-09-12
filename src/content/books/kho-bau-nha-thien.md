@@ -1,19 +1,85 @@
 ---
-title: KHO BÁU NHÀ THIỀN
+title: "KHO BÁU NHÀ THIỀN"
+meta_title: "KHO BÁU NHÀ THIỀN"
 description: ""
+excerpt: |
+  "Đạo vốn vô ngôn; do ngôn mà hiển đạo, thế nên có mạn lục, có bảo huấn, có bút ngữ, có võ khố.
+  Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 – 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích."
 categories:
   - Sách
 tags:
-  - Kho báu
+  - KHO BÁU NHÀ THIỀN
 author:
   - TS VĂN THỦ
 ---
 
 ## Tựa
 
-## Chương 1 - Học đạo cần phải sanh lòng tin quyết định [🔗](/books/ZenTreasures/kho-bau-nha-thien-c1)
+Đạo vốn vô ngôn; do ngôn mà hiển đạo, thế nên có mạn lục, có bảo huấn, có bút ngữ, có võ khố.
 
-## Chương 2 - Học đạo cần phải tin được sanh tử là việc lớn [🔗](/books/ZenTreasures/kho-bau-nha-thien-c2)
+Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 – 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích.
+
+Tuy nhiên, các hàng xuất gia khắp chốn hải hồ tìm đến bên Ngài kết am tranh tu học số đông không kể xiết.
+
+Rốt cuộc, danh Ngài thấu đến cửu trùng, vua thỉnh Ngài trụ trì hai chùa Pháp Thường và Linh Nguyên, ban hiệu là Định Huệ Minh Quang Phật ĐảnhQuốc Sư.
+
+Những khi nhàn rỗi, Ngài xem lại gương xưa góp nhặt những di ngôn, vãng hạnh của Phật Tổ và thêm vào đó lời phẩm bình biên tập lại thành bộ Truy Môn Bảo Tạng Tập (trong bản dịch nầy tạm lấy nhan đề là Kho Báu Nhà Thiền).
+
+Bộ sách nầy thật là cây đuốc huệ trong đường tăm tối, là thuốc hay cho người bệnh, chẳng những lợi cho người đương thời mà cũng là tiếp độ kẻ hậu côn, thật không có gì hơn vậy.
+
+Than ôi! Vào niên hiệu Bảo Vĩnh vì ảnh hưởng thời cuộc nên đâu có khắc bản và muốn lưu hành trong đời cũng không làm sao được.
+
+Ngày gần đây, có một vị Tăng phát tâm khắc lại tập này để rộng truyền bá lưu thông, lúc khởi công có nhờ tôi viết bài tựa.
+
+Từ chối không được, tôi đành phải quên mình kiến thức hẹp hòi mà viết vài lời quê kệch để ở đầu sách.
+
+Các vị tham huyền thừa sức xem qua bộ sách nầy hết lòng khâm phục, mỗi chữ mỗi lời quả biết là cốt tủy của Quốc sư vậy.
+
+Ở đây, phải chăng do ngôn mà hiển đạo? Vậy thì, mở rộng kho báu lấy ra của báu nhà mình là đây vậy.
+
+Tuy nhiên, chìa vàng khóa ngọc nay về tay ai, chớ nói Tân La tại Hải Đông!
+
+> Tiền Hoa Nhạc, Lương Tài Nguyên Minh - cẩn soạn
+
+## Chương 1 - Học đạo cần phải sanh lòng tin quyết định 
+
+#### Phật dạy:
+
+Lòng tin là gốc đạo; là mẹ các công đức, nuôi lớn hết thảy các pháp lành, dứt trừ lưới nghi, ra khỏi dòng ái, mở bày đạo Vô Thượng Niết bàn.
+
+Lại nói: Lòng tin hay tăng trưởng trí công đức. Lòng tin hay đưa người đến địa vị Như Lai.
+
+#### Kinh nói: Lòng tin hay dứt hẳn gốc phiền não.
+
+Lại bảo: Lòng tin có khả năng làm cho người mau chứng được môn Giải thoát.
+
+#### Hòa thượng Cao Phong Diệu nói:
+
+Bậc thượng như Phật như Tổ vượt lên bờ bên kia, chuyển bánh xe pháp lớn nhiếp vật lợi sanh, không có một vị nào chẳng do từ trong một chữ TIN nầy nên chẳng thành Thánh đạo, lại bị rơi vào địa ngục.
+
+#### Hoa Nghiêm Quán nói:
+
+Có tin mà không hiểu thì tăng trưởng vô minh. Có hiểu mà không tin thì thêm lớn tà kiến. Tin hiểu thông suốt mới là gốc của sự tu hành.
+
+Lại nói: Có lòng tin mà không tin pháp giới thì lòng tin ấy là tà.
+
+#### Thiền sư Đại Hụê nói:
+
+Đủ chánh tín, lập chánh chí, đấy là nền tảng để thành Phật làm Tổ.
+
+#### Ngài Xá Lợi Phất nói:
+
+Dùng lòng tin được vào, chứ chẳng phải do phần trí của tôi.
+
+#### Luận Trí Độ nói:
+
+Phật dạy, nếu người có lòng tin thì có thể vào trong biển pháp lớn của ta, có thể được quả Sa môn, không uổng cạo tóc, nhuộm áo. Nếu người không có lòng tin thì không thể vào biển pháp lớn của ta, như cây khô chẳng sanh hoa quả, chẳng đắc quả Sa môn, dẫu có cạo tóc, nhuộm áo, đọc các kinh điển, có khả năng hỏi, có khả năng đáp đi nữa, ở trong Phật pháp cũng chỉ vô ích không được chi cả. Do vì nghĩa này nên trong Phật pháp trước hết phải lấy lòng tin làm căn bản.
+
+#### Kinh nói:
+
+Biển lớn Phật pháp do lòng tin mà vào được.
+
+## Chương 2 - Học đạo cần phải tin được sanh tử là việc lớn
 
 #### Quốc sư Vô Nghiệp nói:
 
@@ -103,7 +169,7 @@ Giả sử trải qua trăm nghìn kiếp, nghiệp tạo tác cũng chẳng m�
 
 Than ôi! Được thân người như đất dính móng tay, mất thân người như đất khắp quả đất. Thật đau đớn thay!
 
-## Chương 3 - Học đạo cần phải chẳng phạm phép tắc của Phật Tổ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c3)
+## Chương 3 - Học đạo cần phải chẳng phạm phép tắc của Phật Tổ
 
 #### Trí Luận nói:
 
@@ -131,7 +197,7 @@ Cận cố đến nay, đệ tử thiền môn cho việc phạm nam sắc(đồ
 
 Thiết nghĩ: Họ đắm nhiễm nam sắc, sợi dây thân ái, tật đố ràng buộc còn hơn người trần tục đam mê nữ sắc. Phàm Sa môn lấy đại sự của Phật Tổ làm niệm thì đâu còn thì giờ mà đam mê thị dục của chốn trần tục! Trong hội của Sơn tăng tôi, chẳng cho lỡ miệng nói ra một câu chuyện đời, hà huống cùng với Sa di nhỏ tuổi nói đùa giỡn cợt.
 
-## Chương 4 - Học đạo cần phải sanh lòng hổ thẹn [🔗](/books/ZenTreasures/kho-bau-nha-thien-c4)
+## Chương 4 - Học đạo cần phải sanh lòng hổ thẹn
 
 Trong Văn Thích Nạn, Thủ tọa Hy Nhan nói:
 
@@ -153,7 +219,7 @@ Hòa thượng Vân Phong duyệt, tiểu tham lược nói:
 
 Đâu chẳng thấy trong kinh nói: “Thà lấy sắt nóng quấn thân, chẳng thọ y phục của người tín tâm; thà lấy nước đồng sôi đổ vào miệng, chẳng thọ thức ăn của người tín tâm…”. Nếu Thượng tọa được như vầy: Biến đất đai thành vàng ròng, khuấy nước sông dài làm tô lạc thì Thượng tọa mới xứng đáng nhận của cúng dường. Bằng chưa được như thế thì cho đến giọt nước tấc tơ cũng phải mang lông đội sừng kéo cày trả nợ cho người.
 
-## Chương 5 - Học đạo cần phải chọn Thầy lựa bạn [🔗](/books/ZenTreasures/kho-bau-nha-thien-c5)
+## Chương 5 - Học đạo cần phải chọn Thầy lựa bạn
 
 Tiên Thánh nói:
 
@@ -251,7 +317,7 @@ Bậc thiện tri thức khó được gặp gỡ, ví như từ trên cõi tr�
 
 Tông cảnh Lục
 
-## Chương 6 - Học đạo cần phải nhận đúng như thật[🔗](/books/ZenTreasures/kho-bau-nha-thien-c6)
+## Chương 6 - Học đạo cần phải nhận đúng như thậ
 
 Lục Tổ, một hôm bảo chúng:
 
@@ -311,7 +377,7 @@ Hòa thượng Lại An dạy chúng:
 
 Các ông đến An nầy tìm cầu cái gì? Nếu muốn làm Phật thì các ông tự là Phật, lại trốn nhà bỏ đi như hươu khát nước đuổi theo bóng nắng thì đến lúc nào mới được tương ưng? Các ông muốn làm Phật, chỉ cần không có các thứ tâm chúng sanh điên đảo phan duyên, vọng tưởng ác giác, dục vọng bẩn thỉu thì đó là tâm chánh giác Phật đầu tiên của ông, còn phải hướng đến chỗ nào nữa mà tìm !
 
-## Chương 7 - Học đạo cần phải biết học lấy ngôn hạnh của người xưa[🔗](/books/ZenTreasures/kho-bau-nha-thien-c7)
+## Chương 7 - Học đạo cần phải biết học lấy ngôn hạnh của người xư
 
 Thiền sư Viên Ngộ nói:
 
@@ -447,7 +513,7 @@ Ngài Đại Hụê nói:
 
 Nghịch cảnh dễ phá, thuận cảnh khó phá, gặp nghịch cảnh chỉ cần tốn một chữ NHẪN, định tĩnh giây lát liền qua mất. Gặp thuận cảnh không có chỗ cho ông lẫn tránh, như nam châm gặp sắt, hai thứ tự nhiên đến hợp nhau làm thành một chỗ.
 
-## Chương 8 - Học đạo cần phải biết dụng tâm trong lúc bệnh[🔗](/books/ZenTreasures/kho-bau-nha-thien-c8)
+## Chương 8 - Học đạo cần phải biết dụng tâm trong lúc bện
 
 Huyễn Trụ lão nhân nói:
 
@@ -497,7 +563,7 @@ Sáu điều lầm lỗi khi săn sóc người bệnh, kinh Tăng Nhất A Hàm
 
 Thích Thị Yếu Lãm
 
-## Chương 9 - Học đạo cần phải phân biện tà chánh[🔗](/books/ZenTreasures/kho-bau-nha-thien-c9)
+## Chương 9 - Học đạo cần phải phân biện tà chán
 
 Văn Khuyến Tham Thiền nói:
 
@@ -611,7 +677,7 @@ Lại có một bọn nữa nói: Linh đài trí tánh sáng suốt linh diệu
 
 Bọn người như thế mà xưng là thiện thi thức, thật là dối gạt người.
 
-## Chương 10 - Học đạo cần phải biết học giải là bệnh[🔗](/books/ZenTreasures/kho-bau-nha-thien-c10)
+## Chương 10 - Học đạo cần phải biết học giải là bện
 
 Hòa thượng Lâm Tế nói:
 
@@ -637,7 +703,7 @@ Hòa thượng Quy Sơn nói:
 
 Hội Nguyên
 
-## Chương 11 - Học đạo cần phải tu tập tọa thiền[🔗](/books/ZenTreasures/kho-bau-nha-thien-c11)
+## Chương 11 - Học đạo cần phải tu tập tọa thiề
 
 #### Đàn Kinh của Lục Tổ chép:
 
@@ -719,7 +785,7 @@ Cổ đức nói:
 
 Siêu phàm vượt thánh thì cần phải lặng hết các duyên, ngồi chết hay đứng tịch đều phải nhờ vào sức định.
 
-## Chương 12 - Học đạo cần phải kiến tánh minh tâm [🔗](/books/ZenTreasures/kho-bau-nha-thien-c12)
+## Chương 12 - Học đạo cần phải kiến tánh minh tâm
 
 #### Đại sư Đạt Ma bảo Nhị Tổ:
 
@@ -878,7 +944,7 @@ Phật dạy:
 
 Dùng tâm suy nghĩ để đo lường cảnh giới viên giác của Như Lai như đem lửa đom đóm đốt núi Tu Di.
 
-## Chương 13 - Học đạo cần phải dùng công phu thoại đầu làm chủ yếu [🔗](/books/ZenTreasures/kho-bau-nha-thien-c13)
+## Chương 13 - Học đạo cần phải dùng công phu thoại đầu làm chủ yếu
 
 Hòa thượng Triệu Châu nói:
 
@@ -894,7 +960,10 @@ Thiền sư viên Ngộ nói:
 
 Thiền sư Đại Huệ nói:
 
-> Công phu thuần thục thì khua mở cái chốt cửa. Cái gọi là công phu có nghĩa là đem cái tâm suy nghĩ trần lao thế gian quay về đặt trên câu: “Que chùi phân” [^1] khiến tình thức chẳng còn sanh khởi, tương tự như pho tượng bằng gỗ, bằng đất. Lúc cảm thấy tối tăm không hiểu, không có cái lỗ mũi để nắm, ấy là tin tức tốt.
+> Công phu thuần thục thì khua mở cái chốt cửa.
+> Cái gọi là công phu có nghĩa là đem cái tâm suy nghĩ trần lao thế gian quay về đặt trên câu:
+> “Que chùi phân” [^1] khiến tình thức chẳng còn sanh khởi, tương tự như pho tượng bằng gỗ, bằng đất.
+> Lúc cảm thấy tối tăm không hiểu, không có cái lỗ mũi để nắm, ấy là tin tức tốt.
 
 Cổ Đức nói:
 
@@ -1048,7 +1117,7 @@ La Hồ Dã Tập
 
 [^8]: Biệt ngữ: Cổ tắc có sẵn chuyển ngữ của cổ nhân rồi mà mình hạ một chuyển ngữ khác nữa, gọi là biệt ngữ.
 
-## Chương 14 - Học đạo cần phải tham cho được một đường thẳng tắt [🔗](/books/ZenTreasures/kho-bau-nha-thien-c14)
+## Chương 14 - Học đạo cần phải tham cho được một đường thẳng tắt
 
 Thiền sư Đức Sơn Tuyên Giám xuất thế, hễ thấy Tăng vào cửa liền đánh.
 
@@ -1148,7 +1217,7 @@ Ngài Đại Huệ nói:
 
 Đây là lời tha thiết bậc nhất của người vào bùn vào nước nói ra, nhưng thường thường người tham thiền chỉ nhớ qua loa như thế mà trái lại không chịu khán kỹ xem đó là cái đạo lý gì?
 
-## Chương 15 - Học đạo cần phải biết phương tiện Tổ Sư từ bi chỉ dạy [🔗](/books/ZenTreasures/kho-bau-nha-thien-c15)
+## Chương 15 - Học đạo cần phải biết phương tiện Tổ Sư từ bi chỉ dạy
 
 Đại sư Vân Môn nói:
 
@@ -1218,7 +1287,7 @@ Hòa thượng Chân Tịnh nói:
 
 [^1]. Cát đằng là loại giây leo như sắn bìm, ở đây chỉ cho phương tiện ngữ ngôn dùng để khai thị, chứ không phải thật pháp.
 
-## Chương 16 - Học đạo cần phải thấu suốt một đường hướng thượng [🔗](/books/ZenTreasures/kho-bau-nha-thien-c16)
+## Chương 16 - Học đạo cần phải thấu suốt một đường hướng thượng
 
 Tăng hỏi Hòa thượng Triệu Châu:
 
@@ -1417,7 +1486,7 @@ Ngài Hưng Hóa nói:
 
 - Ta gặp người thì chẳng ra, ra thì bèn vì người.
 
-## Chương 17 - Học đạo cần phải lãnh hội chỗ tâm yếu [🔗](/books/ZenTreasures/kho-bau-nha-thien-c17)
+## Chương 17 - Học đạo cần phải lãnh hội chỗ tâm yếu
 
 Lâm Tế ba lần hỏi Hoàng Bá về đại ý Phật pháp, ba lần bị đánh.
 
@@ -1703,7 +1772,7 @@ lại để tìm một câu đối đáp, rốt cuộc không được, bèn tha
 
 Một hôm cuốc cỏ, ngẫu nhiên Sư ném một viên ngói chạm vào cây trúc vang lên một tiếng. Sư hốt nhiên tỉnh ngộ.
 
-## Chương 18 - Học Đạo Cần Phải Biết Xác Thực Kiến Địa Cạn Sâu [🔗](/books/ZenTreasures/kho-bau-nha-thien-c18)
+## Chương 18 - Học Đạo Cần Phải Biết Xác Thực Kiến Địa Cạn Sâu
 
 Đại sư Vân Môn nói:
 
@@ -1819,7 +1888,7 @@ Châu thứ ba: Biết rõ cái gốc tánh tướng đại trí, kiến giải 
 
 [2] Chỉ cho tự kỷ
 
-## Chương 19 - Học Đạo Cần Phải Biết Người Triệt Ngộ Bất Tất Hiềm Tri Giải [🔗](/books/ZenTreasures/kho-bau-nha-thien-c19)
+## Chương 19 - Học Đạo Cần Phải Biết Người Triệt Ngộ Bất Tất Hiềm Tri Giải
 
 Viễn Lục Công nói:
 
@@ -1869,7 +1938,7 @@ Tông Cảnh Lục chép:
 
 Nếu nói trí huệ quấy thì Đại Trí Văn Thù chẳng nên xưng là Pháp vương tử. Nếu cho đa văn là lỗi thì Tỳ kheo Vô Văn (không nghe chánh pháp) lẽ ra chẳng bị đọa địa ngục. Phải biết lấy trí huệ hợp với đa văn kia để chẳng bao giờ chấp vào lời mà nhận ngón tay cho là mặt trăng, lấy đa văn làm rộng trí huệ kia để khỏi trở thành kẻ quê mùa day mặt vào vách. Sở dĩ nói: “Có trí mà không hạnh là thầy của nước (quốc gia), có hạnh mà không trí là dụng của nước, có trí có hạnh là vật báu của nước, không trí không hạnh là giặc của nước”. Thế nên, trí cần nên học, hạnh cần nên tu, thiếu trí là kẻ thù của đạo, không hạnh là kẻ giặc của nước. Phải biết: Xích xiềng của danh tướng, nếu chẳng phải là chìa khóa trí thì khó mở cho ra; tình tưởng kéo lôi, nếu chẳng phải gươm huệ thì khó mà chặt đứt.
 
-## Chương 20 - Học Đạo Cần Phải Biện Câu Khách Chủ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c20)
+## Chương 20 - Học Đạo Cần Phải Biện Câu Khách Chủ
 
 Hòa thượng **Lâm Tế** nói:
 
@@ -1889,7 +1958,7 @@ Hòa thượng **Thủ Sơn Niệm** dạy chúng:
 
 > Các thượng tọa chẳng được hét mù hét bậy. Ta thường nói với các ông: Khách thì trước sau vẫn là khách, chủ thì trước sau vẫn là chủ, khách không hai khách, chủ không hai chủ. Nếu có hai khách hai chủ thì hai cái đều thành kẻ mù. Do đó, ta nếu đứng, ông phải ngồi; ta nếu ngồi; ông phải đứng. Ngồi thì vì ông mà ngồi, đứng thì vì ông mà đứng. Tuy nhiên như thế, phải mau để mắt mới được.
 
-## Chương 21 - Học Đạo Cần Phải Biện Công Phu Thực Tiễn [🔗](/books/ZenTreasures/kho-bau-nha-thien-c21)
+## Chương 21 - Học Đạo Cần Phải Biện Công Phu Thực Tiễn
 
 - Hoàng đế Đường Tuyên Tông hỏi Thiền sư Hoàng Biện: _Đốn kiến là gì? Tiệm tu là gì?_
 
@@ -2058,7 +2127,7 @@ Lời bình của ngài Đại Huệ: Lấy đây mà xét, chỗ này lấy th�
 
 Đại Huệ Phổ Thuyết
 
-## Chương 22 - Học Đạo Cần Phải Đến Nơi Hoàn Toàn Thôi Nghỉ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c22)
+## Chương 22 - Học Đạo Cần Phải Đến Nơi Hoàn Toàn Thôi Nghỉ
 
 Từ lâu tập sách này hoàn thành đến chương Nơi Hoàn Toàn Thôi Nghỉ, tôi không viết thêm nữa.
 

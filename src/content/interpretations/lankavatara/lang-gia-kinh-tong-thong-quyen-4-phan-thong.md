@@ -7578,7 +7578,7 @@ tưởng ra cho tôi một nét và được không
 
 tổ ứng liền Im lặng bỏ đi vị tâm không
 
-chịu về sau tổ Vân mông nêu rằng đã là
+chịu về sau tổ Vân Môn g nêu rằng đã là
 
 dây leo không thể cắt nối được để lúc ai
 

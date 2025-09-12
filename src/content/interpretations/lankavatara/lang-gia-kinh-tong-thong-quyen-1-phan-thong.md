@@ -4949,7 +4949,7 @@ nói chế Phật quá khứ đại diện chiếu vật
 
 vĩ Lai Châu sinh ngày nay pháp luật ở
 
-tại Nham đầu tất cả đi thì tùy cơn Nội
+tại Nham Đầu tất cả đi thì tùy cơn Nội
 
 vật nấm Đứng lại thì băng dã tiêu tan
 
