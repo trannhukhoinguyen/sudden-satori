@@ -1,7 +1,106 @@
 import type { KoanTitle, Koan } from "@/types.ts";
 
 export const TiedijiTitles: KoanTitle[] = [
-
+  { title: "Văn Thù Vào Cửa", path: "/koans/tdj001-van-thu-vao-cua" },
+  { title: "La Sơn Khai Đường", path: "/koans/tdj002-la-son-khai-duong" },
+  { title: "Nam Tuyền Phật Đá", path: "/koans/tdj003-nam-tuyen-phat-da" },
+  { title: "Bách Linh Chứng Đắc", path: "/koans/tdj004-bach-linh-chung-dac" },
+  { title: "Thiều Sơn Một Câu.", path: "/koans/tdj005-thieu-son-mot-cau" },
+  { title: "Đầu Tử Thọ Trai", path: "/koans/" },
+  { title: "Vân Môn Tiệc ở Miếu Thần", path: "/koans/" },
+  { title: "Vân Cư Chỉ Dạy", path: "/koans/" },
+  { title: "Từ Minh Đại Ý", path: "/koans/" },
+  { title: "Dược Sơn Nắm Giữ", path: "/koans/" },
+  { title: "Triệu Châu Trùm Đầu ", path: "/koans/" },
+  { title: "Tam Thánh Gặp Học Nhân", path: "/koans/" },
+  { title: "Tiệm Nguyên Rèm Giấy", path: "/koans/" },
+  { title: "Bạch Vân Trắng và Đen", path: "/koans/" },
+  { title: "Đại Tùy Tu Bên Trong", path: "/koans/" },
+  { title: "Qui Sơn Thời Gian", path: "/koans/" },
+  { title: "Đại Tùy Con Rùa", path: "/koans/" },
+  { title: "Lâm Tế Trồng Tùng", path: "/koans/" },
+  { title: "Triệu Châu Viếng Chùa", path: "/koans/" },
+  { title: "Đức Sơn Hiền Đức Ngày Xưa", path: "/koans/" },
+  { title: "Phần Dương Cây Gậy", path: "/koans/" },
+  { title: "Ba Lăng Mật Truyền", path: "/koans/" },
+  { title: "Tuyết Phong Chặt Cây", path: "/koans/" },
+  { title: "Nam Tuyền Tuổi Phật", path: "/koans/" },
+  { title: "Nham Đầu Thùng Nước", path: "/koans/" },
+  { title: "Tuyết Phong Chính Xác", path: "/koans/" },
+  { title: "Ngưỡng Sơn Ngàn Muôn Cảnh", path: "/koans/" },
+  { title: "Long Nha Cảnh Giới Vô Thượng", path: "/koans/" },
+  { title: "Ngưỡng Sơn Chào Thầy", path: "/koans/" },
+  { title: "Thái Tông Nằm Mộng", path: "/koans/" },
+  { title: "Qui Sơn Gọi Hai Tăng Chức", path: "/koans/" },
+  { title: "Phần Dương Trừng Phạt Hư Không", path: "/koans/" },
+  { title: "Dược Sơn Vấn Đề", path: "/koans/" },
+  { title: "Tuyết Phong Thấy Phật Tánh", path: "/koans/" },
+  { title: "Lợi Tung Bài Thơ", path: "/koans/" },
+  { title: "Sau Khi Chết Gặp Nhau Ở Đâu", path: "/koans/" },
+  { title: "Tuyết Phong Thánh Tính", path: "/koans/" },
+  { title: "Ra Đi và Trở Lại", path: "/koans/" },
+  { title: "Ba Lần Gọi", path: "/koans/" },
+  { title: "Khe Suối Khô", path: "/koans/" },
+  { title: "Động Sơn Ba Tạng", path: "/koans/" },
+  { title: "Núi Nam", path: "/koans/" },
+  { title: "Đạo Lý Tối Hậu của Thiền", path: "/koans/" },
+  { title: "Nam Tuyền Chẳng Nhận Cả Tăng Lẫn Tục", path: "/koans/" },
+  { title: "Vu Địch Hỏi Phật", path: "/koans/" },
+  { title: "Chữ Tâm", path: "/koans/" },
+  { title: "Triệu Châu Đo Nước", path: "/koans/" },
+  { title: "Địa Tạng Phật Pháp", path: "/koans/" },
+  { title: "Huyền Sa Giấy Trắng", path: "/koans/" },
+  { title: "Nghĩa Trung Thuyết Pháp", path: "/koans/" },
+  { title: "Bảo Phúc Cái Chùa", path: "/koans/" },
+  { title: "Hoa Nghiêm Trở Lại Thế Gian Mê Hoặc", path: "/koans/" },
+  { title: "Huệ Trung Đánh Đuổi Đệ Tử", path: "/koans/" },
+  { title: "Nham Đầu Hai Bữa Ăn", path: "/koans/" },
+  { title: "Mục Châu Kẻ Độn Căn", path: "/koans/" },
+  { title: "Lỗ Tổ Quay Mặt Vào Tường", path: "/koans/" },
+  { title: "Lâm Tế Người Không Ngôi Vị", path: "/koans/" },
+  { title: "Pho Tượng Quan Thế Âm", path: "/koans/" },
+  { title: "Vô Nghiệp Vọng Tưởng", path: "/koans/" },
+  { title: "Cái Gối Gỗ", path: "/koans/" },
+  { title: "Vân Môn Quả Thánh", path: "/koans/" },
+  { title: "Nam Tuyền Am Nhỏ", path: "/koans/" },
+  { title: "Dược Sơn Thuyết Pháp", path: "/koans/" },
+  { title: "Cảnh Thanh Gậy To", path: "/koans/" },
+  { title: "Vật Kỳ Diệu Nhất", path: "/koans/" },
+  { title: "Đạo Ngô Đạo Lý Thâm Sâu", path: "/koans/" },
+  { title: "Càn Phong Luân Hồi", path: "/koans/" },
+  { title: "Vân Môn Ba Ngày", path: "/koans/" },
+  { title: "Quan Thượng Thư", path: "/koans/" },
+  { title: "Triệu Châu Trụ Chỗ Nào", path: "/koans/" },
+  { title: "Vân Môn Nếp Nhà", path: "/koans/" },
+  { title: "Bảo Thọ Quay Lưng", path: "/koans/" },
+  { title: "Tuyết Phong Từ Chối Ông Tăng", path: "/koans/" },
+  { title: "Chọn Người Khai Sáng Một Ngôi Chùa", path: "/koans/" },
+  { title: "Ông Tăng Ngồi Thiền", path: "/koans/" },
+  { title: "Địa Tạng Hoa Mẫu Đơn", path: "/koans/" },
+  { title: "Động Sơn Khuyên Tăng", path: "/koans/" },
+  { title: "Vân Cư Tặng Y", path: "/koans/" },
+  { title: "Đức Sơn Giáo Pháp Tột Cùng", path: "/koans/" },
+  { title: "Ba Tiêu Không Dạy", path: "/koans/" },
+  { title: "Cao Đình Đánh Tăng", path: "/koans/" },
+  { title: "Nham Đầu Cái Búa", path: "/koans/" },
+  { title: "Ngưỡng Sơn Vẽ Một Đường", path: "/koans/" },
+  { title: "Càn Phong Một Đường", path: "/koans/" },
+  { title: "Huyền Sa Thuyền Sắt", path: "/koans/" },
+  { title: "Ngưỡng Sơn Ngồi Thiền", path: "/koans/" },
+  { title: "Thiền Nguyệt Khảy Móng Tay", path: "/koans/" },
+  { title: "Dược Sơn Cái Hồ", path: "/koans/" },
+  { title: "Tuyết Phong Quả Cầu Gỗ", path: "/koans/" },
+  { title: "Cái Mâm Vỡ", path: "/koans/" },
+  { title: "Pháp Nhãn Giọt Nước", path: "/koans/" },
+  { title: "Tào Sơn Bốn Không", path: "/koans/" },
+  { title: "Đức Sơn Sư Tử", path: "/koans/" },
+  { title: "Sống Một Mình", path: "/koans/" },
+  { title: "Lâm Tế Mắt Chánh", path: "/koans/" },
+  { title: "Nham Đầu Ba Giới", path: "/koans/" },
+  { title: "Thân Phật", path: "/koans/" },
+  { title: "Hưu Tịnh Dùng Trò Chơi", path: "/koans/" },
+  { title: "Đại Điên Bao Nhiêu Tuổi", path: "/koans/" },
+  { title: "Qui Sơn Phương Trượng", path: "/koans/" },
 ];
 
 /*
@@ -9,121 +108,113 @@ export const TiedijiTitles: KoanTitle[] = [
 * 🇻🇳 Tiếng Sáo Thép / Thiết Địch Đảo Xuy / Thiết Sáo Tập – 🇺🇸 Iron Flute (🇨🇳 鐵笛集 Tiědíjí, 🇯🇵 Tetteki Tōsui)
 *Bảng Liệt Kê Các Công Án 
  
-1. Văn Thù Vào Cửa, 15 
-2. La Sơn Khai Đường, 16 
-3. Nam Tuyền Phật Đá, 18 
-4. Bách Linh Chứng Đắc, 19 
-5. Thiều Sơn Một Câu. 21 
-6. Đầu Tử Thọ Trai, 22 
-7. Vân Môn Tiệc ở Miếu Thần, 23 
-8. Vân Cư Chỉ Dạy, 24 
-9. Từ Minh Đại Ý, 26 
-10. Dược Sơn Nắm Giữ, 28 
-11. Triệu Châu Trùm Đầu , 29 
-12. Tam Thánh Gặp Học Nhân, 31 
-13. Tiệm Nguyên Rèm Giấy, 33 
-14. Bạch Vân Trắng và Đen, 35
-15. Đại Tùy Tu Bên Trong, 37
-16. Qui Sơn Thời Gian, 38
-17. Đại Tùy Con Rùa, 40
-18. Lâm Tế Trồng Tùng, 41 
-19. Triệu Châu Viếng Chùa, 41 
-20. Đức Sơn Hiền Đức Ngày Xưa, 43 
-21. Phần Dương Cây Gậy, 44 
-22. Ba Lăng Mật Truyền, 45 
-23. Tuyết Phong Chặt Cây, 4 
-24. Nam Tuyền Tuổi Phật, 47 
-25. Nham Đầu Thùng Nước, 42 
-26. Tuyết Phong Chính Xác, 49 
-27. Ngưỡng Sơn Ngàn Muôn Cảnh, 50 
-28. Long Nha Cảnh Giới Vô Thượng, 51 
-29. Ngưỡng Sơn Chào Thầy, 53 
-30. Thái Tông Nằm Mộng, 54 
-31. Qui Sơn Gọi Hai Tăng Chức, 55 
-32. Phần Dương Trừng Phạt Hư Không, 56 
-33. Dược Sơn Vấn Đề, 57 
-34. Tuyết Phong Thấy Phật Tánh, 58 
-35. Lợi Tung Bài Thơ, 59 
-36. Sau Khi Chết Gặp Nhau Ở Đâu, 61 
-37. Tuyết Phong Thánh Tính, 62 
-38. Ra Đi và Trở Lại, 63 
-39. Ba Lần Gọi, 65 
-40. Khe Suối Khô, 66 
-41. Động Sơn Ba Tạng, 67 
-42. Núi Nam, 68 
-43. Đạo Lý Tối Hậu của Thiền, 69 
-44. Nam Tuyền Chẳng Nhận Cả Tăng Lẫn Tục, 70 
-45. Vu Địch Hỏi Phật, 72 
-46. Chữ Tâm, 73 
-47. Triệu Châu Đo Nước, 74 
-48. Địa Tạng Phật Pháp, 75 
-49. Huyền Sa Giấy Trắng, 77 
-50. Nghĩa Trung Thuyết Pháp, 78
-51. Bảo Phúc Cái Chùa, 79 
-52. Hoa Nghiêm Trở Lại Thế Gian Mê Hoặc, 81 
-53. Huệ Trung Đánh Đuổi Đệ Tử, 82 
-54. Nham Đầu Hai Bữa Ăn, 83 
-55. Mục Châu Kẻ Độn Căn, 85 
-56. Lỗ Tổ Quay Mặt Vào Tường, 86 
-57. Lâm Tế Người Không Ngôi Vị, 87 
-58. Pho Tượng Quan Thế Âm, 89 
-59. Vô Nghiệp Vọng Tưởng, 90 
-60. Cái Gối Gỗ, 92 
-61. Vân Môn Quả Thánh, 93 
-62. Nam Tuyền Am Nhỏ, 95 
-63. Dược Sơn Thuyết Pháp, 96 
-64. Cảnh Thanh Gậy To, 97 
-65. Vật Kỳ Diệu Nhất, 99 
-66. Đạo Ngô Đạo Lý Thâm Sâu, 99 
-67. Càn Phong Luân Hồi, 101 
-68. Vân Môn Ba Ngày, 103 
-69. Quan Thượng Thư, 104 
-70. Triệu Châu Trụ Chỗ Nào, 106 
-71. Vân Môn Nếp Nhà, 108 
-72. Bảo Thọ Quay Lưng, 110 
-73. Tuyết Phong Từ Chối Ông Tăng, 111 
-74. Chọn Người Khai Sáng Một Ngôi Chùa, 114 
-75. Ông Tăng Ngồi Thiền, 117 
-76. Địa Tạng Hoa Mẫu Đơn, 119 
-77. Động Sơn Khuyên Tăng, 120 
-78. Vân Cư Tặng Y, 122 
-79. Đức Sơn Giáo Pháp Tột Cùng, 124 
-80. Ba Tiêu Không Dạy, 125 
-81. Cao Đình Đánh Tăng, 127 
-82. Nham Đầu Cái Búa, 129 
-83. Ngưỡng Sơn Vẽ Một Đường, 131
-84. Càn Phong Một Đường, 133 
-85. Huyền Sa Thuyền Sắt, 134 
-86. Ngưỡng Sơn Ngồi Thiền, 136 
-87. Thiền Nguyệt Khảy Móng Tay, 137 
-88. Dược Sơn Cái Hồ, 122 
-89. Tuyết Phong Quả Cầu Gỗ, 141 
-90. Cái Mâm Vỡ, 142 
-91. Pháp Nhãn Giọt Nước, 143 
-92. Tào Sơn Bốn Không, 144 
-93. Đức Sơn Sư Tử, 146 
-94. Sống Một Mình, 148 
-95. Lâm Tế Mắt Chánh, 150 
-96. Nham Đầu Ba Giới, 152 
-97. Thân Phật, 154 
-98. Hưu Tịnh Dùng Trò Chơi, 156 
-99. Đại Điên Bao Nhiêu Tuổi, 159 
-100. Qui Sơn Phương Trượng, 163
+Văn Thù Vào Cửa,
+La Sơn Khai Đường,
+Nam Tuyền Phật Đá,
+Bách Linh Chứng Đắc,
+Thiều Sơn Một Câu.
+Đầu Tử Thọ Trai,
+Vân Môn Tiệc ở Miếu Thần,
+Vân Cư Chỉ Dạy,
+Từ Minh Đại Ý,
+Dược Sơn Nắm Giữ,
+Triệu Châu Trùm Đầu ,
+Tam Thánh Gặp Học Nhân,
+Tiệm Nguyên Rèm Giấy,
+Bạch Vân Trắng và Đen,
+Đại Tùy Tu Bên Trong,
+Qui Sơn Thời Gian,
+Đại Tùy Con Rùa,
+Lâm Tế Trồng Tùng,
+Triệu Châu Viếng Chùa,
+Đức Sơn Hiền Đức Ngày Xưa,
+Phần Dương Cây Gậy,
+Ba Lăng Mật Truyền,
+Tuyết Phong Chặt Cây
+Nam Tuyền Tuổi Phật,
+Nham Đầu Thùng Nước,
+Tuyết Phong Chính Xác,
+Ngưỡng Sơn Ngàn Muôn Cảnh,
+Long Nha Cảnh Giới Vô Thượng,
+Ngưỡng Sơn Chào Thầy,
+Thái Tông Nằm Mộng,
+Qui Sơn Gọi Hai Tăng Chức,
+Phần Dương Trừng Phạt Hư Không,
+Dược Sơn Vấn Đề,
+Tuyết Phong Thấy Phật Tánh,
+Lợi Tung Bài Thơ,
+Sau Khi Chết Gặp Nhau Ở Đâu,
+Tuyết Phong Thánh Tính,
+Ra Đi và Trở Lại,
+Ba Lần Gọi,
+Khe Suối Khô,
+Động Sơn Ba Tạng,
+Núi Nam,
+Đạo Lý Tối Hậu của Thiền,
+Nam Tuyền Chẳng Nhận Cả Tăng Lẫn Tục,
+Vu Địch Hỏi Phật,
+Chữ Tâm,
+Triệu Châu Đo Nước,
+Địa Tạng Phật Pháp,
+Huyền Sa Giấy Trắng,
+Nghĩa Trung Thuyết Pháp,
+Bảo Phúc Cái Chùa,
+Hoa Nghiêm Trở Lại Thế Gian Mê Hoặc,
+Huệ Trung Đánh Đuổi Đệ Tử,
+Nham Đầu Hai Bữa Ăn,
+Mục Châu Kẻ Độn Căn,
+Lỗ Tổ Quay Mặt Vào Tường,
+Lâm Tế Người Không Ngôi Vị,
+Pho Tượng Quan Thế Âm,
+Vô Nghiệp Vọng Tưởng,
+Cái Gối Gỗ,
+Vân Môn Quả Thánh,
+Nam Tuyền Am Nhỏ,
+Dược Sơn Thuyết Pháp,
+Cảnh Thanh Gậy To,
+Vật Kỳ Diệu Nhất,
+Đạo Ngô Đạo Lý Thâm Sâu,
+Càn Phong Luân Hồi,
+Vân Môn Ba Ngày,
+Quan Thượng Thư,
+Triệu Châu Trụ Chỗ Nào,
+Vân Môn Nếp Nhà,
+Bảo Thọ Quay Lưng,
+Tuyết Phong Từ Chối Ông Tăng,
+Chọn Người Khai Sáng Một Ngôi Chùa,
+Ông Tăng Ngồi Thiền,
+Địa Tạng Hoa Mẫu Đơn,
+Động Sơn Khuyên Tăng,
+Vân Cư Tặng Y,
+Đức Sơn Giáo Pháp Tột Cùng,
+Ba Tiêu Không Dạy,
+Cao Đình Đánh Tăng,
+Nham Đầu Cái Búa,
+Ngưỡng Sơn Vẽ Một Đường,
+Càn Phong Một Đường,
+Huyền Sa Thuyền Sắt,
+Ngưỡng Sơn Ngồi Thiền,
+Thiền Nguyệt Khảy Móng Tay,
+Dược Sơn Cái Hồ,
+Tuyết Phong Quả Cầu Gỗ,
+Cái Mâm Vỡ,
+Pháp Nhãn Giọt Nước,
+Tào Sơn Bốn Không,
+Đức Sơn Sư Tử,
+Sống Một Mình,
+Lâm Tế Mắt Chánh,
+Nham Đầu Ba Giới,
+Thân Phật,
+Hưu Tịnh Dùng Trò Chơi,
+Đại Điên Bao Nhiêu Tuổi,
+Qui Sơn Phương Trượng,
 * */
 
 const Tiediji: Koan[] = [
-  {
-    id: 1,
-    title: "...",
-    main: "...",
-  },
+
 ];
 
 
 
 
 export default Tiediji;
-
-/*
-*
-* */

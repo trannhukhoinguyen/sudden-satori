@@ -10,7 +10,7 @@ import ICONS_MAP, { type CollectionType } from "@/data/iconsMap";
 import FlatTags from "../../components/post/FlatTags.astro";
 import OtherPostList from "../../components/postList/OtherPostList.astro";
 import BoxedPostList from "../../components/postList/BoxedPostList.astro";
-import MasterBoxedPostList from "@/components/postList/MasterBoxedPostList.astro";
+import KoanTitleList from "@/components/postList/KoanTitleList.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) => {
@@ -57,7 +57,9 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 
 <!-- Post List Section -->
     {posts.length > 0 ? (
-        ICONS_MAP[collection]
+        collection === 'koans'
+        ? <KoanTitleList />
+        : ICONS_MAP[collection]
             ? <BoxedPostList
                 posts={posts}
                 page={page}

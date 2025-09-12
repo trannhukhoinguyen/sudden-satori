@@ -1,0 +1,37 @@
+---
+import AlphabeticalKoans from "@/components/ui/AlphabeticalKoans.astro"
+
+import { BiyanluTitles } from "@/data/koans/Biyanlu.ts"
+import { ChanHuaJiTitles } from "@/data/koans/ChanHuaJi.ts"
+import { ChuanguangluTitles } from "@/data/koans/Chuanguanglu.ts"
+import { CongrongluTitles } from "@/data/koans/Congronglu.ts"
+import { KonggujiTitles } from "@/data/koans/Kongguji.ts"
+import { TiedijiTitles } from "@/data/koans/Tiediji.ts"
+import { XutangjiTitles } from "@/data/koans/Xutangji.ts"
+import { YihuaShijieTitles } from "@/data/koans/YihuaShijie.ts"
+import { WumenguanTitles } from "@/data/koans/Wumenguan.ts"
+
+const koanTitles = [
+  ...BiyanluTitles,
+  ...ChanHuaJiTitles,
+  ...ChuanguangluTitles,
+  ...CongrongluTitles,
+  ...KonggujiTitles,
+  ...TiedijiTitles,
+  ...XutangjiTitles,
+  ...YihuaShijieTitles,
+  ...WumenguanTitles,
+]
+
+const {
+        icons
+} = Astro.props;
+---
+
+{
+  koanTitles.length > 0 ? (
+
+        <AlphabeticalKoans koans={koanTitles} title={"DANH SÁCH CÔNG ÁN"} />
+
+    ) : <p>Chưa có bài viết Công án nào.</p>
+}
