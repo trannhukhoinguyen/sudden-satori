@@ -33,8 +33,12 @@ const initial = letters.includes("A") ? "A" : letters[0];
   <div class="koans">
     {letters.map(letter => (
       <ul data-group={letter} style={`display: ${letter === initial ? 'block' : 'none'};`}>
-        {(grouped[letter] || []).map(k => (
-          <li>{k.title}</li>
+        {(grouped[letter] || []).map((k: any) => (
+            <li class="badge-item">
+              <a href={`${k.path}`} class="badge-link" target="_blank">
+                {k.title}
+              </a>
+          </li>
         ))}
       </ul>
     ))}
@@ -43,80 +47,225 @@ const initial = letters.includes("A") ? "A" : letters[0];
 
 <style>
     .alphabet-container {
-        display: flex;
-        gap: 1.5rem;
-        align-items: flex-start;
-        /* responsive: stack vertically on small screens */
-        flex-wrap: wrap;
+      display: flex;
+      gap: 1.5rem;
+      align-items: flex-start;
+      /* responsive: stack vertically on small screens */
+      flex-wrap: wrap;
     }
 
     /* Left column: vertical buttons */
     .alphabet {
-        display: flex;
-        flex-direction: column; /* dọc */
-        gap: 0.6rem;
-        min-width: 64px;
+      display: flex;
+      flex-direction: column; /* dọc */
+      gap: 0.6rem;
+      min-width: 64px;
     }
 
     /* Gold linear gradient button */
     .alphabet-btn {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        width: 64px;
-        height: 40px;
-        padding: 0.4rem 0.6rem;
-        border-radius: 10px;
-        border: 1px solid rgba(0, 0, 0, 0.08);
-        background: linear-gradient(180deg, #fff4c2 0%, #ffd24d 45%, #e6a800 100%);
-        box-shadow: 0 6px 14px rgba(230, 160, 0, 0.12), inset 0 -2px 0 rgba(0,0,0,0.04);
-        font-weight: 700;
-        color: #412f00;
-        cursor: pointer;
-        transition: transform 160ms ease, box-shadow 160ms ease, filter 160ms ease;
-        outline: none;
-        border-left: 4px solid transparent;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 64px;
+      height: 40px;
+      padding: 0.4rem 0.6rem;
+      border-radius: 10px;
+      border: 1px solid rgba(0, 0, 0, 0.08);
+      background: linear-gradient(180deg, #fff4c2 0%, #ffd24d 45%, #e6a800 100%);
+      box-shadow: 0 6px 14px rgba(230, 160, 0, 0.12), inset 0 -2px 0 rgba(0,0,0,0.04);
+      font-weight: 700;
+      color: #412f00;
+      cursor: pointer;
+      transition: transform 160ms ease, box-shadow 160ms ease, filter 160ms ease;
+      outline: none;
+      border-left: 4px solid transparent;
     }
 
     .alphabet-btn:hover {
-        transform: translateY(-2px);
-        filter: brightness(1.03);
-        box-shadow: 0 10px 20px rgba(230, 160, 0, 0.14), inset 0 -2px 0 rgba(0,0,0,0.06);
+      transform: translateY(-2px);
+      filter: brightness(1.03);
+      box-shadow: 0 10px 20px rgba(230, 160, 0, 0.14), inset 0 -2px 0 rgba(0,0,0,0.06);
     }
 
     .alphabet-btn:active {
-        transform: translateY(0);
-        box-shadow: 0 6px 12px rgba(0,0,0,0.08), inset 0 -2px 0 rgba(0,0,0,0.06);
+      transform: translateY(0);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.08), inset 0 -2px 0 rgba(0,0,0,0.06);
     }
 
     /* Active state more contrasted */
     .alphabet-btn.active {
-        background: linear-gradient(180deg, #fff6d6 0%, #ffd24d 40%, #cc9600 100%);
-        color: #1b1200;
-        border-left-color: #c48f00;
-        box-shadow: 0 12px 28px rgba(196, 143, 0, 0.18);
-        transform: translateY(-3px);
+      background: linear-gradient(180deg, #fff6d6 0%, #ffd24d 40%, #cc9600 100%);
+      color: #1b1200;
+      border-left-color: #c48f00;
+      box-shadow: 0 12px 28px rgba(196, 143, 0, 0.18);
+      transform: translateY(-3px);
     }
 
     /* Make buttons keyboard-friendly focus style */
     .alphabet-btn:focus {
-        box-shadow: 0 0 0 4px rgba(228, 182, 60, 0.18);
+      box-shadow: 0 0 0 4px rgba(228, 182, 60, 0.18);
     }
 
     /* Right column: koans list */
     .koans {
-        flex: 1 1 300px;
-        min-width: 220px;
+      flex: 1 1 300px;
+      min-width: 220px;
     }
 
     .koans ul {
-        margin: 0;
-        padding-left: 1.1rem;
+      margin: 0;
+      padding-left: 1.1rem;
+
+      //list-style-position: inside;
+      width: 600px;
+      max-width: 100%;
+      box-shadow: 0.25rem 0.25rem 0.75rem rgb(0 0 0 / 0.15);
+      border-radius: 0.1rem;
+
+      list-style: none;
     }
 
     .koans li {
-        margin: 0.25rem 0;
-        line-height: 1.45;
+      margin: 0.25rem 0;
+      line-height: 1.45;
+
+      padding: 0 0 0 1rem;
+    }
+
+    .koans li:not(:last-child) {
+      border-bottom: 1px solid lightblue;
+    }
+
+    .koans li:first-child {
+      margin-top: 1rem;
+    }
+
+    .koans li:last-child {
+      margin-bottom: 1rem;
+    }
+
+    //
+    .koans h1 {
+      margin-top: 2rem;
+      font-family: 'Norican', cursive;
+      color: saddlebrown;
+      position: relative;
+      display: flex;
+      align-items: center;
+      font-size: 4rem;
+
+      &::before,
+      &::after {
+        content: '';
+        display: block;
+        width: 5rem;
+        height: 2px;
+        background-color: currentColor;
+        margin: 0 1rem;
+      }
+    }
+
+    .koans ul:not(ul ul) {
+      padding: 2rem 2rem 4rem 2rem;
+      display: grid;
+      grid-template-columns: max-content;
+      z-index: 1;
+      position: relative;
+      perspective: 50vw;
+      transform-style: preserve-3d;
+
+      .same {
+        color: var(linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab));
+      }
+
+      > li {
+        --levitate: 0;
+        padding: 1.2rem 2rem;
+        background-color: var(--color-accent-pink);
+        position: relative;
+        transform-style: preserve-3d;
+        cursor: pointer;
+        transition: transform 0.3s;
+
+        &::after {
+          content: '';
+          pointer-events: none;
+          display: block;
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          left: 0;
+          top: 0;
+          opacity: 0;
+          transition: opacity 0.3s;
+          z-index: 1;
+          mix-blend-mode: overlay;
+          background-image: linear-gradient(to left, #ffe4b2, #c8b188);
+        }
+
+        &:hover {
+          --levitate: 1;
+          &::before {
+            transform: translate3d(6rem, 1rem, -1px) scale(calc(1 - var(--levitate) * 0.1)) rotate(1.5deg);
+            filter: blur(8px);
+          }
+
+          &::after {
+            opacity: 0.6;
+          }
+        }
+
+        &.big {
+          background-color: lightgreen;
+          padding: 1.6rem 2rem 3rem 2rem;
+        }
+
+        ul {
+          margin-top: 0.5em;
+          margin-left: 1em;
+          font-size: 0.8em;
+
+          li {
+            z-index: 1;
+            &:first-letter {
+              font-size: 1.4em;
+            }
+          }
+        }
+
+        &:not(:first-of-type) {
+          margin-top: 3rem;
+        }
+
+        &:nth-child(3n) {
+          transform: translate3d(-5px, calc(var(--levitate) * -5px), calc(var(--levitate) * 3rem)) rotate(-0.6deg) rotateX(calc(var(--levitate) * 6deg)) rotateY(calc(var(--levitate) * -3deg));
+        }
+
+        &:nth-child(3n-1) {
+          transform: translate3d(7px, calc(var(--levitate) * -5px), calc(var(--levitate) * 3rem)) rotate(-0.5deg) rotateX(calc(var(--levitate) * 6deg)) rotateY(calc(var(--levitate) * -3deg));
+        }
+
+        &:nth-child(3n-2) {
+          transform: translate3d(0px, calc(var(--levitate) * -5px), calc(var(--levitate) * 3rem)) rotate(0.5deg) rotateX(calc(var(--levitate) * 6deg)) rotateY(calc(var(--levitate) * -3deg));
+        }
+
+        &::before {
+          content: '';
+          display: block;
+          position: absolute;
+          width: 100%;
+          left: 0;
+          top: 0;
+          transition: all 0.3s;
+          height: calc(100% - 2px);
+          background-color: rgba(0, 0, 0, 0.4);
+          z-index: -1;
+          transform-origin: bottom left;
+          transform: translate3d(8px, 2px, -1px) rotate(1deg);
+          filter: blur(2px);
+        }
+      }
     }
 
     /* Small screen: buttons on top row (wrap) */

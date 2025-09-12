@@ -13,6 +13,7 @@
   --linear-red: linear-gradient(90deg, red, #fbe7e7);
   --linear-gold: linear-gradient(90deg, gold, #fff4cc);
   --linear-pink: linear-gradient(90deg, pink, #ffdbea);
+  --linear-multi: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 
   /* Accent Color */
   --color-accent-red: #dc2626;
@@ -23,6 +24,10 @@
   --color-accent-pink-dark: #f3219f;
   --color-accent-green: #02b802;
   --color-accent-green-dark: green;
+  --color-accent-blue: #5a9ef6;
+  --color-accent-blue-dark: midnightblue;
+  --color-accent-brown: #faaa70;
+  --color-accent-brown-dark: saddlebrown;
 
   --color-accent-theme: #c4a604;
   --color-accent: #c4a604;
