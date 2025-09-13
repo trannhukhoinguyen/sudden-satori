@@ -93,6 +93,8 @@ const initial = letters.includes("A") ? "A" : letters[0];
       align-items: flex-start;
       /* responsive: stack vertically on small screens */
       flex-wrap: wrap;
+      width: 100%;
+      overflow: scroll;
     }
 
     /* Left column: vertical buttons */
@@ -101,6 +103,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
       flex-direction: column; /* dọc */
       gap: 0.6rem;
       min-width: 64px;
+      width: 100%;
       overflow: scroll;
     }
 
@@ -306,11 +309,19 @@ const initial = letters.includes("A") ? "A" : letters[0];
         .alphabet-container {
             flex-direction: column;
             gap: 1rem;
+            width: 100%;
+            overflow: scroll;
         }
         .alphabet {
             flex-direction: row;
             flex-wrap: wrap;
             gap: 0.5rem;
+            width: 100%;
+            overflow: scroll;
+        }
+        .koans {
+            width: 100%;
+            overflow: scroll;
         }
         .alphabet-btn {
             width: 48px;
