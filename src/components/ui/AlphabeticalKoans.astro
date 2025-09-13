@@ -77,7 +77,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
         {(grouped[letter] || []).map((k: any) => (
             <li>
               <a href={`${k.path}`} class="koan-path" target="_blank">
-                {k.title}
+                {k.title?.toUpperCase()}
               </a>
           </li>
         ))}
@@ -101,6 +101,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
       flex-direction: column; /* dọc */
       gap: 0.6rem;
       min-width: 64px;
+      overflow: scroll;
     }
 
     /* Gold linear gradient button */
@@ -108,7 +109,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 64px;
+      min-width: 100px;
       height: 40px;
       padding: 0.4rem 0.6rem;
       border-radius: 10px;
@@ -152,6 +153,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
     .koans {
       flex: 1 1 300px;
       min-width: 220px;
+      overflow: scroll;
     }
 
     //
