@@ -140,7 +140,7 @@ Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sư
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
 
 [^17]: ⭐️
 

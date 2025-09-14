@@ -155,6 +155,6 @@ Thử nói xem, đây là “vừa sáng vừa tối.” đồng sinh trong mộ
 
 [^2]: ⭐️
 
-[^3]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
+[^3]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
 
-[^4]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nham-dau-toan-hoat" target="_blank">TS NHAM ĐẦU TOÀN HOÁT</a>
+[^4]: ⭐️ <a href="/masters/ts-nham-dau-toan-hoat" target="_blank">TS NHAM ĐẦU TOÀN HOÁT</a>

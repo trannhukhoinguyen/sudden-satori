@@ -249,7 +249,7 @@ const CnLv10MasterDb = [
     successors: ['Yuwang Huailian'],
     disciples: ['Yuwang Huailian'],
     image: '/images/square/meta-image-square-1.jpg',
-    reference: ['https://blog.phapthihoi.org/gt-member/0-ts-lac-dam-hoai-trung/',
+    reference: ['/masters/0-ts-lac-dam-hoai-trung/',
       'https://tuvienquangduc.com.au/Thien/124thienluan2-1a.html'],
   },
   {

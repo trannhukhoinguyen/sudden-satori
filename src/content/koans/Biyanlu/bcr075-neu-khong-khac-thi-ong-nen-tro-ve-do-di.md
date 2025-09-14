@@ -117,4 +117,6 @@ Lúc Ô Cữu trao cán (gậy) cho ông tăng kia, phải chăng là quá vô �
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">TS ĐỊNH CHÂU</a>
+
+[^2]: ⭐️ <a href="/masters/" target="_blank">TS Ô CỮU</a>

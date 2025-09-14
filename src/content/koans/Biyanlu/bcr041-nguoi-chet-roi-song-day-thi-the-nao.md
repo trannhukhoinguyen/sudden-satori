@@ -107,6 +107,6 @@ Thử nói xem, làm sao có thể tránh được?
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4839-tstrieuchau" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-dau-tu-nghia-thanh/" target="_blank">TS ĐẦU TỬ NGHĨA THANH</a>
+[^2]: ⭐️ <a href="/masters/" target="_blank">TS ĐẦU TỬ NGHĨA THANH</a>

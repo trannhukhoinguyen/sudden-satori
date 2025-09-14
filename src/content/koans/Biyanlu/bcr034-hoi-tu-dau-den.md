@@ -174,4 +174,4 @@ Nếu như không đến được mức độ này thì chỉ là lăng xăng tr
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: ⭐️ <a href="/masters/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>

@@ -93,8 +93,8 @@ Các ông có biết không? Mù!
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-bao-phuc-tung-trien/" target="_blank">TS BẢO PHÚC TÙNG TRIỂN</a>
+[^1]: ⭐️ <a href="/masters/ts-bao-phuc-tung-trien/" target="_blank">TS BẢO PHÚC TÙNG TRIỂN</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-truong-khanh-hue-lang/" target="_blank">TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
+[^2]: ⭐️ <a href="/masters/ts-truong-khanh-hue-lang/" target="_blank">TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
 
-[^3]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-kinh-thanh-dao-pho/" target="_blank">TS KÍNH THANH ĐẠO PHÓ</a>
+[^3]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">TS KÍNH THANH ĐẠO PHÓ</a>

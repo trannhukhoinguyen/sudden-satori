@@ -92,6 +92,6 @@ Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-kinh-thanh-dao-pho/" target="_blank">TS KÍNH THANH ĐẠO PHÓ</a>
+[^1]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">TS KÍNH THANH ĐẠO PHÓ</a>
 
 [^3]: ⭐️

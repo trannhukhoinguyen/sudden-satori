@@ -188,7 +188,7 @@ Tuy rằng Trường Khánh, Huyền Sa và Vân Môn có thể bắt được r
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
+[^1]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
 
 [^3]: ⭐️
 

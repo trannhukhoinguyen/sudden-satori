@@ -41,7 +41,7 @@ const CnLv4MasterDb = [
     successors: ['Dongshan Liangjie'],
     disciples: ['Dongshan Liangjie', 'Xingshan Jianghong', 'Thần Sơn Tăng Mật'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Yunyan_Tansheng_Image_Zen.jpg/220px-Yunyan_Tansheng_Image_Zen.jpg',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-van-nham-dam-thanh/'],
+    reference: ['/masters/ts-van-nham-dam-thanh/'],
   },
   {
     id: '37.4.3',
@@ -296,7 +296,7 @@ const CnLv4MasterDb = [
     successors: ['Jinhua Juzhi'],
     disciples: ['Jinhua Juzhi'],
     image: '/',
-    reference: ['https://pl.wikipedia.org/wiki/Hangzhou_Tianlong', 'https://blog.phapthihoi.org/gt-member/ts-hang-chau-thien-long/'],
+    reference: ['https://pl.wikipedia.org/wiki/Hangzhou_Tianlong', '/masters/ts-hang-chau-thien-long/'],
   },
   {
     id: '37.4.17',
@@ -405,7 +405,7 @@ const CnLv4MasterDb = [
     successors: [''],
     disciples: [],
     image: '/',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-tran-chau-pho-hoa/', 'https://terebess.hu/zen/mesterek/Puhua.html', 'https://en.wikipedia.org/wiki/Puhua'],
+    reference: ['/masters/ts-tran-chau-pho-hoa/', 'https://terebess.hu/zen/mesterek/Puhua.html', 'https://en.wikipedia.org/wiki/Puhua'],
   },
   {
     id: '37.4.22',
@@ -470,7 +470,7 @@ const CnLv4MasterDb = [
     successors: [''],
     disciples: [],
     image: '/',
-    reference: ['https://terebess.hu/zen/mesterek/ZihuLizong.html', 'https://blog.phapthihoi.org/gt-member/ts-tu-ho-ly-tong/',
+    reference: ['https://terebess.hu/zen/mesterek/ZihuLizong.html', '/masters/ts-tu-ho-ly-tong/',
     'https://zenmarrow.com/lineage-chart?m=266'],
   },
 ]

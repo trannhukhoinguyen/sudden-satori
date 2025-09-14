@@ -138,7 +138,7 @@ const CnLv15MasterDb = [
     disciples: ['Biefeng Zuzhen'],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/foxin.html', 'https://hoavouu.com/p24a17708/8/34-thien-su-bon-tai-phat-tam-o-thuong-phong-dam-chau',
-      'https://quangduc.com/a46541/34-thien-su-bon-tai-phat-tam-o-thuong-phong-dam-chau', 'https://blog.phapthihoi.org/gt-member/0-ts-thuong-phong-ban-tai'],
+      'https://quangduc.com/a46541/34-thien-su-bon-tai-phat-tam-o-thuong-phong-dam-chau', '/masters/0-ts-thuong-phong-ban-tai'],
   },
   {
     id: '48.15.7',

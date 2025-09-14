@@ -129,6 +129,6 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-ban-son-bao-tich/" target="_blank">TS BÀN SƠN BẢO TÍCH</a>
+[^1]: ⭐️ <a href="/masters/ts-ban-son-bao-tich/" target="_blank">TS BÀN SƠN BẢO TÍCH</a>
 
 [^14]: ⭐️

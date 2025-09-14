@@ -115,9 +115,9 @@ Các ông mọi người hãy tự quán sát bước chân của mình.
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-qui-tong-tri-thuong/" target="_blank">TS QUI TÔNG TRÍ THƯỜNG</a>
+[^2]: ⭐️ <a href="/masters/ts-qui-tong-tri-thuong/" target="_blank">TS QUI TÔNG TRÍ THƯỜNG</a>
 
 [^3]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4775-tsbaotriet" target="_blank">TS MA CỐC BẢO TRIỆT</a>
 

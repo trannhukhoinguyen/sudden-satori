@@ -72,4 +72,4 @@ Tuyết Đậu dựa vào cơ duyên mà tụng ra, trong câu có chỗ xuất 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-dai-tuy-phap-chan/" target="_blank">TS ĐẠI TÙY PHÁP CHÂN</a>
+[^1]: ⭐️ <a href="/masters/ts-dai-tuy-phap-chan/" target="_blank">TS ĐẠI TÙY PHÁP CHÂN</a>

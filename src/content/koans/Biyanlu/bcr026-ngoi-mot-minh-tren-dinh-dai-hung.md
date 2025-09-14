@@ -84,4 +84,4 @@ Nham Đầu nói, “ Khước từ sự vật là thượng, đuổi theo sự 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-bach-truong-hoai-hai/" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^1]: ⭐️ <a href="/masters/ts-bach-truong-hoai-hai/" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>

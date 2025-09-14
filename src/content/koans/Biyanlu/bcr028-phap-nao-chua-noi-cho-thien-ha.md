@@ -183,7 +183,7 @@ Nhếch được mũi lên mất luôn miệng.” Nhếch được miệng lên
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-bach-truong-duy-chinh/" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
+[^1]: ⭐️ <a href="/masters/ts-bach-truong-duy-chinh/" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
 
 [^2]: ⭐️ <a href="https://nigioikhatsi.net/thien/duy-chinh-dau-voi-nam-tuyen.html" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
 

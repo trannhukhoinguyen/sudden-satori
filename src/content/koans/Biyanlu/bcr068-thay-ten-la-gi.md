@@ -77,6 +77,6 @@ Tất cả chỉ nằm trong bốn chữ, tại sao lại có chìm hiện cuố
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: ⭐️ <a href="/masters/ts-nguong-son-hue-tich/" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-tam-thanh-hue-nhien/" target="_blank">TS TAM THÁNH HUỆ NHIÊN</a>
+[^2]: ⭐️ <a href="/masters/ts-tam-thanh-hue-nhien/" target="_blank">TS TAM THÁNH HUỆ NHIÊN</a>

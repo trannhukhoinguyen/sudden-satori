@@ -93,4 +93,4 @@ Thử phân biện xem.
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4839-tstrieuchau" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>

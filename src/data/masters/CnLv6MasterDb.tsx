@@ -43,7 +43,7 @@ const CnLv6MasterDb = [
     reference: ['https://terebess.hu/zen/xinghua.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/hung-hoa-ton-tuong-k4195.html',
       'https://vi.wikipedia.org/wiki/H%C6%B0ng_H%C3%B3a_T%E1%BB%93n_T%C6%B0%C6%A1ng',
       'https://hoavouu.com/p24a17596/15-thien-su-ton-tuong-o-hung-hoa',
-      'https://blog.phapthihoi.org/gt-member/ts-hung-hoa-ton-tuong'
+      '/masters/ts-hung-hoa-ton-tuong'
     ],
   },
   {
@@ -66,7 +66,7 @@ const CnLv6MasterDb = [
     successors: [''],
     disciples: ['Zhenzhou Dabei'],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-tam-thanh-hue-nhien/', 'https://vi.wikipedia.org/wiki/Tam_Th%C3%A1nh_Hu%E1%BB%87_Nhi%C3%AAn',
+    reference: ['/masters/ts-tam-thanh-hue-nhien/', 'https://vi.wikipedia.org/wiki/Tam_Th%C3%A1nh_Hu%E1%BB%87_Nhi%C3%AAn',
       'https://pl.wikipedia.org/wiki/Sansheng_Huiran', 'https://hoavouu.com/p24a17597/16-thien-su-hue-nhien-o-vien-tam-thanh'],
   },
   {
@@ -87,7 +87,7 @@ const CnLv6MasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-muc-chau-tran-thao/',
+    reference: ['/masters/ts-muc-chau-tran-thao/',
       'http://thuongchieu.net/index.php/chuyende/vuonthien/847-bai-5--hoang-ba-tat-mt-tat',
       'http://thuongchieu.net/index.php?option=com_content&view=article&id=1262:bai-85--lao-bang-th--t&catid=44:vn-thin-rng-ngc&Itemid=355',],
   },
@@ -532,7 +532,7 @@ const CnLv6MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Qinshan_Wensui', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/kham-son-van-thuy-k1102.html',
-      'https://blog.phapthihoi.org/gt-member/ts-kham-son-van-thuy/'],
+      '/masters/ts-kham-son-van-thuy/'],
   },
   {
     id: '39.6.25',

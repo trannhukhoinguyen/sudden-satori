@@ -217,7 +217,7 @@ const CnLv7MasterDb = [
     successors: [''],
     disciples: [],
     image: '',
-    reference: ['https://nigioikhatsi.net/thien/le-lay-chinh-minh.html', 'https://blog.phapthihoi.org/gt-member/ts-thuy-nham-su-ngan/'],
+    reference: ['https://nigioikhatsi.net/thien/le-lay-chinh-minh.html', '/masters/ts-thuy-nham-su-ngan/'],
   },
   {
     id: '40.7.11',

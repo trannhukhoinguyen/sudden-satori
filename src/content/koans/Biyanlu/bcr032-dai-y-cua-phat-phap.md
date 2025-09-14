@@ -68,4 +68,4 @@ Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem �
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-lam-te-nghia-huyen/" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
+[^1]: ⭐️ <a href="/masters/ts-lam-te-nghia-huyen/" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>

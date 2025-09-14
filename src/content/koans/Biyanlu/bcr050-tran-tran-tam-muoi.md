@@ -108,7 +108,7 @@ Hàn San Thi có bài như sau:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-van-mon-van-yen/" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>
 
 [1] Xin xem chú thích số 7 của tắc thứ bốn mươi.
 

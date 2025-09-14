@@ -44,7 +44,7 @@ const CnLv5MasterDb = [
     reference: ['https://hoavouu.com/a39664/ngu-luc-thien-su-dong-son-ngo-ban', 'https://pl.wikipedia.org/wiki/Dongshan_Liangjie',
       'https://drive.google.com/file/d/1SvmWiqhC8prbUZrvXV7WqnI7dVaddd98/view',
       'https://tangthuphathoc.net/thuy-chau-dong-son-luong-gioi-thien-su-ngu-luc',
-      'https://blog.phapthihoi.org/gt-member/ts-dong-son-luong-gioi/'],
+      '/masters/ts-dong-son-luong-gioi/'],
   },
   {
     id: '38.5.3',
@@ -161,7 +161,7 @@ const CnLv5MasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/tuong-quoc-bui-huu/','https://vi.wikipedia.org/wiki/B%C3%B9i_H%C6%B0u', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k338.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k30587.html', 'https://tinhtan.org/2021/01/17/dich-va-binh-tho-dam-lac-dam-cua-te-tuong-bui-huu-791-846'],
+    reference: ['/masters/tuong-quoc-bui-huu/','https://vi.wikipedia.org/wiki/B%C3%B9i_H%C6%B0u', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k338.html', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/bui-huu-k30587.html', 'https://tinhtan.org/2021/01/17/dich-va-binh-tho-dam-lac-dam-cua-te-tuong-bui-huu-791-846'],
   },
   {
     id: '38.5.8',
@@ -207,7 +207,7 @@ const CnLv5MasterDb = [
     successors: [''],
     disciples: ['Zhangzhuo Xiucai', 'Jiufeng Daoqian', 'Daguang Juhui', 'Yungai Zhiyuan', 'Nanji Sengyi', 'Yongquan Jingxin'],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-thach-suong-khanh-chu/',
+    reference: ['/masters/ts-thach-suong-khanh-chu/',
       'https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html'
     ],

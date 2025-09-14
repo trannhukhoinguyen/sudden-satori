@@ -90,4 +90,4 @@ Người ta thường giải thích lầm lạc rằng, “ Sơn hà đại đ�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-cau-chi/" target="_blank">TS CÂU CHI</a>
+[^1]: ⭐️ <a href="/masters/ts-cau-chi/" target="_blank">TS CÂU CHI</a>

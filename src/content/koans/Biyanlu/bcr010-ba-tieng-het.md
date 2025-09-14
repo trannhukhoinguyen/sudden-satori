@@ -142,7 +142,7 @@ Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-muc-chau-dao-minh/" target="_blank">TS MỤC CHÂU ĐẠO MINH</a>
+[^1]: ⭐️ <a href="/masters/ts-muc-chau-dao-minh/" target="_blank">TS MỤC CHÂU ĐẠO MINH</a>
 
 ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/muc-chau-tran-ton-tuc-k1444.html" target="_blank">TS MỤC CHÂU ĐẠO MINH</a>
 

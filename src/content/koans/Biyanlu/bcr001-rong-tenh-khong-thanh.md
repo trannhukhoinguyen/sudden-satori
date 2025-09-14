@@ -188,7 +188,7 @@ Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">VUA LƯƠNG VŨ ĐẾ</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ton-gia-bo-de-dat-ma/" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
+[^2]: ⭐️ <a href="/masters/ton-gia-bo-de-dat-ma/" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
 
 ⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">Phim về Tổ BỒ ĐỀ ĐẠT MA</a>
 

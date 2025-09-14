@@ -191,7 +191,7 @@ Rồi lại nói tiếp, “Hàng lớp lớp, bóng chập chùng. Thiên cổ 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-family/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
+[^1]: ⭐️ <a href="/masters/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
 
 [^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4669-tshuetrung" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
 

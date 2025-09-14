@@ -119,9 +119,9 @@ Nếu như người ta là một ông tăng, người ta hẳn sẽ không có k
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/gt-family/ts-tran-thao/" target="_blank">THƯỢNG THƯ TRẦN THÁO</a>
+[^1]: ⭐️ <a href="/masters/ts-tran-thao/" target="_blank">THƯỢNG THƯ TRẦN THÁO</a>
 
-[^2]: ⭐️ <a href="https://blog.phapthihoi.org/gt-member/ts-tu-phuc/" target="_blank">TS TỪ PHÚC</a>
+[^2]: ⭐️ <a href="/masters/ts-tu-phuc/" target="_blank">TS TỪ PHÚC</a>
 
 [^6]: ⭐️ Mục Châu Đạo Minh
 

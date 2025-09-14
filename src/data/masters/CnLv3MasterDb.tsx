@@ -111,7 +111,7 @@ const CnLv3MasterDb = [
     successors: ['Cuiwei Wuxue'],
     disciples: ['Cuiwei Wuxue'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/%C4%90an_H%C3%A0_Thi%C3%AAn_Nhi%C3%AAn', 'https://blog.phapthihoi.org/tu-dien-phat-giao/don-ha-thien-nhien/', 'https://blog.phapthihoi.org/gt-member/ts-don-ha-thien-nhien/', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/don-ha-thien-nhien-k3922.html', 'https://quangduc.com/a71933/35-thien-su-don-ha-thien-nhien', 'https://quangduc.com/a69744/thien-su-don-ha-thien-nhien-739-824-doi-thu-3-sau-luc-to-hue-nang'],
+    reference: ['https://vi.wikipedia.org/wiki/%C4%90an_H%C3%A0_Thi%C3%AAn_Nhi%C3%AAn', 'https://blog.phapthihoi.org/tu-dien-phat-giao/don-ha-thien-nhien/', '/masters/ts-don-ha-thien-nhien/', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/don-ha-thien-nhien-k3922.html', 'https://quangduc.com/a71933/35-thien-su-don-ha-thien-nhien', 'https://quangduc.com/a69744/thien-su-don-ha-thien-nhien-739-824-doi-thu-3-sau-luc-to-hue-nang'],
   },
   {
     id: '36.3.6',
@@ -242,7 +242,7 @@ const CnLv3MasterDb = [
     disciples: ['Juzi', 'Hangzhou Tianlong'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Mai_Ph%C3%A1p_Th%C6%B0%E1%BB%9Dng',
-      'https://terebess.hu/zen/damei.html', 'https://blog.phapthihoi.org/gt-member/ts-dai-mai-phap-thuong/'],
+      'https://terebess.hu/zen/damei.html', '/masters/ts-dai-mai-phap-thuong/'],
   },
   {
     id: '36.3.13',
@@ -287,7 +287,7 @@ const CnLv3MasterDb = [
     disciples: [],
     image: '/images/avatar.png',
     reference: ['https://terebess.hu/zen/mesterek/XitangZhizang.html', 'https://vi.wikipedia.org/wiki/T%C3%A2y_%C4%90%C6%B0%E1%BB%9Dng_Tr%C3%AD_T%E1%BA%A1ng',
-      'https://blog.phapthihoi.org/gt-member/ts-tay-duong-tri-tang/', 'https://pl.wikipedia.org/wiki/Xitang_Zhizang',
+      '/masters/ts-tay-duong-tri-tang/', 'https://pl.wikipedia.org/wiki/Xitang_Zhizang',
     ],
   },
   {
@@ -419,7 +419,7 @@ const CnLv3MasterDb = [
     successors: [''],
     disciples: ['Hoằng Biện', 'Trí Chân'],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-chuong-kinh-hoai-uan/',
+    reference: ['/masters/ts-chuong-kinh-hoai-uan/',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/chuong-kinh-hoai-huy-k3599.html',
       'https://nigioikhatsi.net/thien/khe-ngo-tu-nga.html'],
   },
@@ -467,7 +467,7 @@ const CnLv3MasterDb = [
     successors: ['Gaoan Dayu'],
     disciples: ['Gaoan Dayu'],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-quy-tong-tri-thuong', 'https://nigioikhatsi.net/thien/quy-tong-chem-ran.html',
+    reference: ['/masters/ts-quy-tong-tri-thuong', 'https://nigioikhatsi.net/thien/quy-tong-chem-ran.html',
       'http://www.thuongchieu.net/index.php/chuyende/thiensutrunghoa/1285-thin-s-tri-thng', 'https://terebess.hu/zen/mesterek/GuizongZhichang.html'],
   },
   {
@@ -490,7 +490,7 @@ const CnLv3MasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['https://blog.phapthihoi.org/gt-member/ts-linh-kieu/'],
+    reference: ['/masters/ts-linh-kieu/'],
   },
   {
     id: '36.3.25',
@@ -584,7 +584,7 @@ const CnLv3MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-cung-hue-tang-k2488.html',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-cung-hue-tang-k16842.html', 'http://truclamdaigiac.net/chi-tiet/tu-ngam-lai-vang-trang-minh.html',
-      'https://blog.phapthihoi.org/gt-member/ts-thach-cung-hue-tang/', 'https://terebess.hu/zen/shigong.html'],
+      '/masters/ts-thach-cung-hue-tang/', 'https://terebess.hu/zen/shigong.html'],
   },
 ]
 export default CnLv3MasterDb;
