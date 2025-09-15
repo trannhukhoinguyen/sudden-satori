@@ -19,7 +19,7 @@ export interface Master {
 
 export interface KoanTitle {
     title: string;
-    path: string;
+    slug: string;
 }
 
 export interface Koan {
