@@ -76,7 +76,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
       <ul data-group={letter} style={`display: ${letter === initial ? 'block' : 'none'};`}>
         {(grouped[letter] || []).map((k: any) => (
             <li>
-              <a href={`/koans/${k.path}`} class="koan-path" target="_blank">
+              <a href={`/koans/${k.slug}`} class="koan-path" target="_blank">
                 {k.title?.toUpperCase()}
               </a>
           </li>
