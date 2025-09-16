@@ -2,15 +2,14 @@
 title: "HẢI ẤN ĐẠI ĐỊNH"
 description: "Chương Hải Ấn Đại Định - CHÁNH PHÁP NHÃN TẠNG"
 excerpt: |
-  "“Hải ấn đại định”, hay như đôi khi được dịch, “định phản chiếu trong đại dương”, là định từ đó kinh Hoa Nghiêm khởi lên, phát hiện một cách thình lình quang cảnh bao la của sự giác ngộ của Phật."
+  "Hải Ấn Đại Định, hay như đôi khi được dịch, “Định phản chiếu trong đại dương”, là định từ đó kinh Hoa Nghiêm khởi lên, phát hiện một cách thình lình quang cảnh bao la của sự giác ngộ của Phật"
 categories:
   - Bài viết
 tags:
-  - Vật Lý Lý Thuyết
-author: wikipedia.com_youtube.com
+  - Kinh Hoa Nghiêm
 ---
 
-“Hải ấn đại định”, hay như đôi khi được dịch, “định phản chiếu trong đại dương”, là định từ đó kinh Hoa Nghiêm khởi lên, phát hiện một cách thình lình quang cảnh bao la của sự giác ngộ của Phật. Luận Tham Thiền Trở Về Nguồn, một tác phẩm tông Hoa Nghiêm được thông dụng trong các phái Thiền Trung Hoa, nói, “Hải Ấn là tánh giác nền tảng của Chân Như. Khi vọng tưởng chấm dứt, tâm trong sáng và vô số hình tướng đồng thời xuất hiện. Nó giống như đại dương : do gió mà có sóng khởi ; nếu gió dừng nước đại dương lặng sáng, và mọi hình ảnh phản chiếu trong đó.” Như thế, nói theo phương diện tâm, hải ấn đại định ám chỉ tánh giác bình đẳng và khắp cả.
+Luận Tham Thiền Trở Về Nguồn, một tác phẩm tông Hoa Nghiêm được thông dụng trong các phái Thiền Trung Hoa, nói, “Hải Ấn là tánh giác nền tảng của Chân Như. Khi vọng tưởng chấm dứt, tâm trong sáng và vô số hình tướng đồng thời xuất hiện. Nó giống như đại dương : do gió mà có sóng khởi ; nếu gió dừng nước đại dương lặng sáng, và mọi hình ảnh phản chiếu trong đó.” Như thế, nói theo phương diện tâm, hải ấn đại định ám chỉ tánh giác bình đẳng và khắp cả.
 
 Cuốn thứ hai mươi lăm của kinh Ratnakūta nói, “Như mọi dòng suối chảy vào đại dương, tất cả mọi hiện tượng đi vào ấn của những hiện tượng, như vậy có tên ấn đại dương” “Ấn của những hiện tượng”, hay “pháp ấn”, ám chỉ ba pháp ấn của Phật giáo. Cuốn thứ hai mươi hai của Luận Đại Trí Độ nói, “Pháp ấn của Phật giáo có ba : thứ nhất, tất cả mọi sự vật hợp tạo sanh ra và diệt mất trong từng khoảnh khắc, tất cả đều vô thường ; thứ hai, mọi sự vật đều vô ngã ; thứ ba là niết bàn vắng lặng.” Cuốn thứ hai mươi của luận ấy nói, “Nếu người ta nghĩ theo một cách phân biệt, đây là mạng lưới của ác ma ; không chuyển động và không trụ trong cách ấy là ấn của pháp.”
 
