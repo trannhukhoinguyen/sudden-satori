@@ -99,7 +99,9 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12783/5/tac-thu-nam-muoi-lam-dao-ngo-va-tiem-nguyen-di-dieu-tang
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12783/5/tac-thu-nam-muoi-lam-dao-ngo-va-tiem-nguyen-di-dieu-tang
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43267/16-tac-53-tac-56
 >
@@ -109,10 +111,10 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4789-tsdaongo2/" target="_blank">🔗 TS ĐẠO NGÔ VIÊN TRÍ</a>
 
 [^1]: ⭐️ <a href="/masters/ts-tiem-nguyen-trong-hung/" target="_blank">🔗 TS TIỆM NGUYÊN TRỌNG HƯNG</a>
 
-[^1]: ⭐️ <a href="/masters/ts-thach-suong-khanh-chu/" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^1]: ⭐️ <a href="/masters/Shishuang-Qingzhu" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>

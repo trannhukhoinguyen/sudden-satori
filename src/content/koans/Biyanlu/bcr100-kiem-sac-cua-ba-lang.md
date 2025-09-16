@@ -139,6 +139,6 @@ Lão tăng còn có một bài kệ nhỏ nữa,
 
 <hr class="blog-rule" />
 
-## 📌 Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-ba-lang-hao-giam/" target="_blank">🔗 TS BA LĂNG HẠO GIÁM</a>

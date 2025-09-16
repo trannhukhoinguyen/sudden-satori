@@ -148,10 +148,12 @@ Tổ Thọ 150 tuổi an táng ở phía đông sườn núi Hùng Nhĩ, vào n�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">🔗 TS ĐỘNG SƠN LƯƠNG GIỚI</a>

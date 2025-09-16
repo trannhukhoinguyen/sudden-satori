@@ -96,7 +96,9 @@ Hàn San Thi có bài như sau:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12777/5/tac-thu-nam-muoi-tran-tran-tam-muoi-cua-van-mon
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12777/5/tac-thu-nam-muoi-tran-tran-tam-muoi-cua-van-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43266/15-tac-49-tac-52
 >
@@ -106,7 +108,7 @@ Hàn San Thi có bài như sau:
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
 

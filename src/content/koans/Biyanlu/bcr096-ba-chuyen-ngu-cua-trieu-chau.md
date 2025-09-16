@@ -148,7 +148,9 @@ Thử nói xem, Tuyết Đậu tụng “Phật gỗ không qua lửa.” tại 
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12828/5/tac-thu-chin-muoi-sau-ba-chuyen-ngu-cua-trieu-chau
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12828/5/tac-thu-chin-muoi-sau-ba-chuyen-ngu-cua-trieu-chau
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43276/25-tac-96-tac-98
 >
@@ -158,6 +160,6 @@ Thử nói xem, Tuyết Đậu tụng “Phật gỗ không qua lửa.” tại 
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ 

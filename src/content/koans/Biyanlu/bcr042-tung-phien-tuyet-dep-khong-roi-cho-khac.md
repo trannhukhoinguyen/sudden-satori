@@ -144,7 +144,9 @@ Ngay cả Bích Nhãn Hồ tăng (Bồ Đề Đạt Ma) mà cũng khó phân bi�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: <a href="https://hoavouu.com/p16a12768/5/tac-thu-bon-muoi-hai-tung-phien-tuyet-cua-bang-cu-si" target="_blank">🔗 hoavouu.com</a> 
+## ℹ️ NGUỒN
+
+> ✨ <a href="https://hoavouu.com/p16a12768/5/tac-thu-bon-muoi-hai-tung-phien-tuyet-cua-bang-cu-si" target="_blank">🔗 hoavouu.com</a> 
 >
 > ✨ Nguồn: <a href="https://quangduc.com/p1241a43264/13-tac-39-tac-43" target="_blank">🔗 quangduc.com</a> 
 >
@@ -154,6 +156,6 @@ Ngay cả Bích Nhãn Hồ tăng (Bồ Đề Đạt Ma) mà cũng khó phân bi�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4782-banguan" target="_blank">🔗 TS BÀNG LONG UẨN</a>

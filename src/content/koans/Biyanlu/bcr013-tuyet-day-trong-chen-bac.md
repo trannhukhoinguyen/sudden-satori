@@ -138,7 +138,9 @@ Cuối bài tụng Tuyết Đậu phải khai mở ra lối thoát cho một câ
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12736/5/tac-thu-muoi-ba-chen-bac-cua-ba-lang
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12736/5/tac-thu-muoi-ba-chen-bac-cua-ba-lang
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43257/6-tac-13-tac-16
 >
@@ -148,7 +150,7 @@ Cuối bài tụng Tuyết Đậu phải khai mở ra lối thoát cho một câ
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-ba-lang-hao-giam/" target="_blank">🔗 TS BA LĂNG HẠO GIÁM</a>
 

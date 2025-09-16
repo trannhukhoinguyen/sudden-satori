@@ -60,7 +60,9 @@ Còn như các ông, có biết chỗ vì người của Động Sơn chăng? M�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12769/5/tac-thu-bon-muoi-ba-khong-nong-khong-lanh-cua-dong-son
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12769/5/tac-thu-bon-muoi-ba-khong-nong-khong-lanh-cua-dong-son
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43264/13-tac-39-tac-43
 >
@@ -70,6 +72,6 @@ Còn như các ông, có biết chỗ vì người của Động Sơn chăng? M�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-dong-son-luong-gioi/" target="_blank">🔗 TS ĐỘNG SƠN LƯƠNG GIỚI</a>

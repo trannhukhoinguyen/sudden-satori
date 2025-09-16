@@ -78,7 +78,9 @@ Tuyết Đậu buông ông tăng này và nói rằng nếu như ông ta hốt n
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12809/5/tac-thu-bay-muoi-chin-tat-ca-cac-am-thanh-cua-dau-tu
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12809/5/tac-thu-bay-muoi-chin-tat-ca-cac-am-thanh-cua-dau-tu
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43272/21-tac-77-tac-81
 >
@@ -88,6 +90,6 @@ Tuyết Đậu buông ông tăng này và nói rằng nếu như ông ta hốt n
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>

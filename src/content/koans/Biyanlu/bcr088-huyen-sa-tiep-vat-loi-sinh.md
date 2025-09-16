@@ -82,7 +82,9 @@ Viên Ngộ dơ phất trần lên nói, “Các ông có thấy không?” Rồ
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12819/5/tac-thu-tam-muoi-tam-huyen-sa-tiep-vat-loi-sinh
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12819/5/tac-thu-tam-muoi-tam-huyen-sa-tiep-vat-loi-sinh
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43274/23-tac-86-tac-90
 >
@@ -92,6 +94,6 @@ Viên Ngộ dơ phất trần lên nói, “Các ông có thấy không?” Rồ
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Xuansha-Shibei" target="_blank">🔗 TS HUYỀN SA SƯ BỊ</a>

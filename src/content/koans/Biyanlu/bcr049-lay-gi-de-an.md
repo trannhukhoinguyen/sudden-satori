@@ -67,7 +67,9 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12776/5/tac-thu-bon-muoi-chin-tam-thanh-lay-gi-de-an
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12776/5/tac-thu-bon-muoi-chin-tam-thanh-lay-gi-de-an
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43266/15-tac-49-tac-52
 >
@@ -77,7 +79,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-tam-thanh-hue-nhien/" target="_blank">🔗 TS TAM THÁNH HUỆ NHIÊN</a>
 

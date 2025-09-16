@@ -430,10 +430,12 @@ Lục nhập, thập nhị xứ, thập bát giới, cho đến thất đại �
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ ...

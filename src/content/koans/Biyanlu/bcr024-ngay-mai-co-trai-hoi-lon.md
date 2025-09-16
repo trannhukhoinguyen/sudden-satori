@@ -71,7 +71,9 @@ Nhìn họ xem, một người nằm xuống một người liền bỏ đi. N�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12748/5/tac-thu-hai-muoi-bon-qui-son-va-luu-thiet-ma
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12748/5/tac-thu-hai-muoi-bon-qui-son-va-luu-thiet-ma
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43260/9-tac-23-tac-25
 >
@@ -81,7 +83,7 @@ Nhìn họ xem, một người nằm xuống một người liền bỏ đi. N�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-luu-thiet-ma/" target="_blank">🔗 TS LƯU THIẾT MA</a>
 

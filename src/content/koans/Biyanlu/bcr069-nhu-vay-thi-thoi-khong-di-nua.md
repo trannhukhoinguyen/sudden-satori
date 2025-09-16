@@ -103,7 +103,9 @@ Các ông mọi người hãy tự quán sát bước chân của mình.
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12798/5/tac-thu-sau-muoi-chin-nam-tuyen-bai-trung-quoc-su
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12798/5/tac-thu-sau-muoi-chin-nam-tuyen-bai-trung-quoc-su
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43270/19-tac-68-tac-72
 >
@@ -113,7 +115,7 @@ Các ông mọi người hãy tự quán sát bước chân của mình.
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>
 

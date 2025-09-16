@@ -52,7 +52,9 @@ Cổ nhân nói, “Quan sát trước khi cơ biến khởi lên thì các ơng
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12804/5/tac-thu-bay-muoi-bon-kim-nguu-hoa-thuong-cuoi-ha-ha
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12804/5/tac-thu-bay-muoi-bon-kim-nguu-hoa-thuong-cuoi-ha-ha
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43271/20-tac-73-tac-76
 >
@@ -62,6 +64,6 @@ Cổ nhân nói, “Quan sát trước khi cơ biến khởi lên thì các ơng
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">🔗 TS MÃ TỔ ĐẠO NHẤT</a>

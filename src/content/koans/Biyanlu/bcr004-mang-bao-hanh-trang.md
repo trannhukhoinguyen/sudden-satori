@@ -116,7 +116,9 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p26a12726/4/tac-thu-tu-duc-son-mang-bao-hanh-trang
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p26a12726/4/tac-thu-tu-duc-son-mang-bao-hanh-trang
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43254/3-tac-04-tac-06
 >
@@ -126,7 +128,7 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-duc-son-tuyen-giam/" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>
 

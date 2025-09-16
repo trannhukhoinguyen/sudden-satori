@@ -919,10 +919,12 @@ d- Tân khán tân: người khách nhìn rõ về họ, như có người học
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap
+## ℹ️ NGUỒN
+
+> ✨ https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^^1]: ⭐️ ...

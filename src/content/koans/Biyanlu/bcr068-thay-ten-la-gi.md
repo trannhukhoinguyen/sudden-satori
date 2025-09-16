@@ -65,7 +65,9 @@ Tất cả chỉ nằm trong bốn chữ, tại sao lại có chìm hiện cuố
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12797/5/tac-thu-sau-muoi-tam-nguong-son-hoi-tam-thanh
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12797/5/tac-thu-sau-muoi-tam-nguong-son-hoi-tam-thanh
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43270/19-tac-68-tac-72
 >
@@ -75,7 +77,7 @@ Tất cả chỉ nằm trong bốn chữ, tại sao lại có chìm hiện cuố
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nguong-son-hue-tich/" target="_blank">🔗 TS NGƯỠNG SƠN HUỆ TỊCH</a>
 

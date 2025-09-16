@@ -75,7 +75,9 @@ Tuyết Đậu tụng rằng:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12795/5/tac-thu-sau-muoi-sau-nham-dau-va-tu-dau-toi
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12795/5/tac-thu-sau-muoi-sau-nham-dau-va-tu-dau-toi
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43269/18-tac-63-tac-67
 >
@@ -85,7 +87,7 @@ Tuyết Đậu tụng rằng:
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nham-dau-toan-hoat" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
 

@@ -69,6 +69,6 @@ Từ đầu sào trăm thước tiến thêm một bước nữa là kiến tán
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 > ✨ Nguồn: https://tosuthien.com/2022/03/31/duong-loi-thuc-hanh-tham-to-su-thien/

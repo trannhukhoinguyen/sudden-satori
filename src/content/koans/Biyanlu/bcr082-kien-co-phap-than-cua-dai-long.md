@@ -72,7 +72,9 @@ Cuối cùng, các ông phải làm sao mới được cơ? “Nước có hiế
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12813/5/tac-thu-tam-muoi-hai-kien-co-phap-than-cua-dai-long
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12813/5/tac-thu-tam-muoi-hai-kien-co-phap-than-cua-dai-long
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43273/22-tac-82-tac-85
 >
@@ -82,6 +84,6 @@ Cuối cùng, các ông phải làm sao mới được cơ? “Nước có hiế
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-dai-long/" target="_blank">🔗 TS ĐẠI LONG</a>

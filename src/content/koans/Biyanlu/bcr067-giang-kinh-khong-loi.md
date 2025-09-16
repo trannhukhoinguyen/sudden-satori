@@ -152,7 +152,9 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12796/5/tac-thu-sau-muoi-bay-luong-vu-de-moi-giang-kinh
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12796/5/tac-thu-sau-muoi-bay-luong-vu-de-moi-giang-kinh
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43269/18-tac-63-tac-67
 >
@@ -162,7 +164,7 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://vi.wikipedia.org/wiki/L%C6%B0%C6%A1ng_V%C5%A9_%C4%90%E1%BA%BF" target="_blank">LƯƠNG VŨ ĐẾ</a>
 

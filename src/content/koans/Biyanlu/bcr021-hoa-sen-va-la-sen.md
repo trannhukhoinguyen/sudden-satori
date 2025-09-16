@@ -90,7 +90,9 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12745/5/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12745/5/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43259/8-tac-20-tac-22
 >
@@ -100,7 +102,7 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-tri-mon-quang-to/" target="_blank">🔗 TS TRÍ MÔN QUANG TỘ</a>
 

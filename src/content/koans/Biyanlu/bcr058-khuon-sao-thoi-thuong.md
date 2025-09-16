@@ -56,7 +56,7 @@ Tuyết Đậu nếu như không có câu cuối cùng, thì biết ở chỗ no
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12786/5/tac-thu-nam-muoi-tam-trieu-chau-va-khuon-sao-thoi-thuong
+## ℹ️ NGUỒN https://hoavouu.com/p16a12786/5/tac-thu-nam-muoi-tam-trieu-chau-va-khuon-sao-thoi-thuong
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43268/17-tac-57-tac-62
 >
@@ -66,6 +66,6 @@ Tuyết Đậu nếu như không có câu cuối cùng, thì biết ở chỗ no
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

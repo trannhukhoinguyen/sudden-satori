@@ -184,7 +184,9 @@ Nếu như muốn không bối rối thì “Ngọt thì ngọt hể đắng th�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12770/5/tac-thu-bon-muoi-bon-hoa-son-biet-danh-trong
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12770/5/tac-thu-bon-muoi-bon-hoa-son-biet-danh-trong
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43265/14-tac-44-tac-48
 >
@@ -194,7 +196,7 @@ Nếu như muốn không bối rối thì “Ngọt thì ngọt hể đắng th�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-hoa-son-vo-an/" target="_blank">🔗 TS HÒA SƠN VÔ ÂN</a>
 

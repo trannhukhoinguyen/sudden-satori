@@ -498,6 +498,6 @@ Do đó, Phật bảo đại chúng rằng:
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ ...

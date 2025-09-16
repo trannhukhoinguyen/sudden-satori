@@ -207,7 +207,7 @@ const CnLv5MasterDb = [
     successors: [''],
     disciples: ['Zhangzhuo Xiucai', 'Jiufeng Daoqian', 'Daguang Juhui', 'Yungai Zhiyuan', 'Nanji Sengyi', 'Yongquan Jingxin'],
     image: '/images/avatar.png',
-    reference: ['/masters/ts-thach-suong-khanh-chu/',
+    reference: ['/masters/Shishuang-Qingzhu',
       'https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html'
     ],

@@ -78,7 +78,9 @@ Người ta thường giải thích lầm lạc rằng, “ Sơn hà đại đ�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12742/5/tac-thu-muoi-chin-ngon-tay-thien-cua-cau-chi
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12742/5/tac-thu-muoi-chin-ngon-tay-thien-cua-cau-chi
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43258/7-tac-17-tac-19
 >
@@ -88,6 +90,6 @@ Người ta thường giải thích lầm lạc rằng, “ Sơn hà đại đ�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-cau-chi/" target="_blank">🔗 TS CÂU CHI</a>

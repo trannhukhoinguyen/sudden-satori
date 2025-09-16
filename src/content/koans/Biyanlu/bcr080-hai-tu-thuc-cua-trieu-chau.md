@@ -86,7 +86,9 @@ Cho nên thầy ta nói, “Rơi xuống không dừng, ai biết xem?”
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12810/5/tac-thu-tam-muoi-hai-tu-thuc-cua-trieu-chau
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12810/5/tac-thu-tam-muoi-hai-tu-thuc-cua-trieu-chau
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43272/21-tac-77-tac-81
 >
@@ -96,6 +98,6 @@ Cho nên thầy ta nói, “Rơi xuống không dừng, ai biết xem?”
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

@@ -66,7 +66,9 @@ Tuyết Đậu lại vội vã nói tiếp, “Sai sai!” Đầu cũng sai mà 
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12818/5/tac-thu-tam-muoi-bay-benh-va-thuoc-tri-lan-nhau-cua-van-mon
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12818/5/tac-thu-tam-muoi-bay-benh-va-thuoc-tri-lan-nhau-cua-van-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43274/23-tac-86-tac-90
 >
@@ -76,6 +78,6 @@ Tuyết Đậu lại vội vã nói tiếp, “Sai sai!” Đầu cũng sai mà 
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

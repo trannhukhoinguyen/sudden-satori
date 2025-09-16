@@ -130,7 +130,9 @@ Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12732/5/tac-thu-muoi-ba-tieng-het-cua-muc-chau
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12732/5/tac-thu-muoi-ba-tieng-het-cua-muc-chau
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43256/5-tac-10-tac-12
 >
@@ -140,7 +142,7 @@ Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-muc-chau-dao-minh/" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
 

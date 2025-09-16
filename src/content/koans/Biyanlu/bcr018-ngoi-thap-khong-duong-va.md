@@ -179,7 +179,9 @@ Rồi lại nói tiếp, “Hàng lớp lớp, bóng chập chùng. Thiên cổ 
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12741/5/tac-thu-muoi-tam-tuc-tong-thinh-phap
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12741/5/tac-thu-muoi-tam-tuc-tong-thinh-phap
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43258/7-tac-17-tac-19
 >
@@ -189,7 +191,7 @@ Rồi lại nói tiếp, “Hàng lớp lớp, bóng chập chùng. Thiên cổ 
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
 

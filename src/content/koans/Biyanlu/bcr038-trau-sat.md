@@ -94,7 +94,9 @@ Trong một câu của Phong Huyệt đã có đầy đủ cả thương giáp c
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12763/5/tac-thu-ba-muoi-tam-trau-sat-cua-phong-huyet
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12763/5/tac-thu-ba-muoi-tam-trau-sat-cua-phong-huyet
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43263/12-tac-35-tac-38
 >
@@ -104,6 +106,6 @@ Trong một câu của Phong Huyệt đã có đầy đủ cả thương giáp c
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-phong-huyet-dien-chieu/" target="_blank">🔗 TS PHONG HUYỆT DIÊN CHIỂU</a>

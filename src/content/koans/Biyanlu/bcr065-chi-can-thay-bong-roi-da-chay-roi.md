@@ -82,7 +82,9 @@ Phần cuối tụng ”Thế Tôn đại từ đại bi khai mở mây mờ cho
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12794/5/tac-thu-sau-muoi-lam-ngoai-dao-hoi-phat-ve-huu-vo
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12794/5/tac-thu-sau-muoi-lam-ngoai-dao-hoi-phat-ve-huu-vo
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43269/18-tac-63-tac-67
 >
@@ -92,7 +94,7 @@ Phần cuối tụng ”Thế Tôn đại từ đại bi khai mở mây mờ cho
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://vi.wikipedia.org/wiki/Th%C3%ADch-ca_M%C3%A2u-ni" target="_blank">PHẬT</a>
 

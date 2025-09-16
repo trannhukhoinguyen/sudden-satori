@@ -224,6 +224,6 @@ Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người 
 
 <hr class="blog-rule" />
 
-## 📌 Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

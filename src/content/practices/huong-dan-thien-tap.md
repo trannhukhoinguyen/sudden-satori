@@ -1360,4 +1360,6 @@ Tham thiền khi tới trình độ tinh diệu, không những vọng tưởng 
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9
+## ℹ️ NGUỒN
+
+> ✨ https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9

@@ -207,7 +207,9 @@ Dù cho là tay chuyên gia đi nữa, lúc không có bệnh cũng nên tìm ch
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12756/5/tac-thu-ba-muoi-mot-ma-coc-chong-gay
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12756/5/tac-thu-ba-muoi-mot-ma-coc-chong-gay
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43262/11-tac-31-tac-34
 >
@@ -217,7 +219,7 @@ Dù cho là tay chuyên gia đi nữa, lúc không có bệnh cũng nên tìm ch
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4775-tsbaotriet" target="_blank">🔗 TS MA CỐC BẢO TRIỆT</a>
 

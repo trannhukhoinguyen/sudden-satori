@@ -52,7 +52,9 @@ Những người học Thiền bây giờ đều nói rằng, lúc Vân Môn dan
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12782/5/tac-thu-nam-muoi-bon-moi-o-dau-toi-cua-van-mon
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12782/5/tac-thu-nam-muoi-bon-moi-o-dau-toi-cua-van-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43267/16-tac-53-tac-56
 >
@@ -62,6 +64,6 @@ Những người học Thiền bây giờ đều nói rằng, lúc Vân Môn dan
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

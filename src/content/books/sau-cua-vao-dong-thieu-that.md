@@ -1276,7 +1276,9 @@ Và kệ nói rằng:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that
+## ℹ️ NGUỒN
+
+> ✨ https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that
 
 
 ## CỬA THỨ BA - NHỊ CHỦNG NHẬP

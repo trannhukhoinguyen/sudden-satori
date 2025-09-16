@@ -105,10 +105,12 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4789-tsdaongo2/" target="_blank">🔗 TS ĐẠO NGÔ VIÊN TRÍ</a>

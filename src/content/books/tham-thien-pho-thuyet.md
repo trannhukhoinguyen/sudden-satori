@@ -16,4 +16,6 @@ pdfUrl: /pdfs/books/tham-thien-pho-thuyet.pdf
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn:
+## ℹ️ NGUỒN
+
+> ✨

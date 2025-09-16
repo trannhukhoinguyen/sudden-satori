@@ -186,7 +186,7 @@ Tuyết Đậu lại vẫn sợ thiên hạ sẽ chấp trước vào chỗ này
 
 <hr class="blog-rule" />
 
-## 📌 Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">🔗 VUA LƯƠNG VŨ ĐẾ</a>
 

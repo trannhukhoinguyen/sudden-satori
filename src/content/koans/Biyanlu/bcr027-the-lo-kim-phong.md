@@ -62,7 +62,9 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12751/5/tac-thu-hai-muoi-bay-the-lo-kim-phong-cua-van-mon
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12751/5/tac-thu-hai-muoi-bay-the-lo-kim-phong-cua-van-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43261/10-tac-26-tac-30
 >
@@ -72,6 +74,6 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

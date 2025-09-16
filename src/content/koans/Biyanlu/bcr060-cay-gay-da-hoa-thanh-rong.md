@@ -160,7 +160,9 @@ Tuyết Đậu kể như đã tụng xong rồi, lại vẫn dơ gậy lên mà 
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12785/5/tac-thu-nam-muoi-bay-chi-dao-vo-nam-cua-trieu-chau
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12785/5/tac-thu-nam-muoi-bay-chi-dao-vo-nam-cua-trieu-chau
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43268/17-tac-57-tac-62
 >
@@ -170,6 +172,6 @@ Tuyết Đậu kể như đã tụng xong rồi, lại vẫn dơ gậy lên mà 
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

@@ -411,10 +411,12 @@ Như người đang ngủ mê trên giường, trong nhà có người giã gạ
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ ...

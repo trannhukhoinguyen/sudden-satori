@@ -95,7 +95,9 @@ Thử nói xem, làm sao có thể tránh được?
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12767/5/tac-thu-bon-muoi-mot-nguoi-chet-lon-cua-trieu-chau
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12767/5/tac-thu-bon-muoi-mot-nguoi-chet-lon-cua-trieu-chau
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43264/13-tac-39-tac-43
 >
@@ -105,7 +107,7 @@ Thử nói xem, làm sao có thể tránh được?
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
 

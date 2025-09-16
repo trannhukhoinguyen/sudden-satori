@@ -122,7 +122,9 @@ Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa v�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12761/5/tac-thu-ba-muoi-sau-truong-sa-mot-hom-di-choi-nui
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12761/5/tac-thu-ba-muoi-sau-truong-sa-mot-hom-di-choi-nui
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43263/12-tac-35-tac-38
 >
@@ -132,6 +134,6 @@ Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa v�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam" target="_blank">🔗 TS TRƯỜNG SA CẢNH SẦM</a>

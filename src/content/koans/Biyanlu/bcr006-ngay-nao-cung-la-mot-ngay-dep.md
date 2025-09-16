@@ -178,7 +178,9 @@ Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì nh�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12728/5/tac-thu-sau-mot-ngay-dep-cua-van-mon
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12728/5/tac-thu-sau-mot-ngay-dep-cua-van-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43254/3-tac-04-tac-06
 >
@@ -188,6 +190,6 @@ Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì nh�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

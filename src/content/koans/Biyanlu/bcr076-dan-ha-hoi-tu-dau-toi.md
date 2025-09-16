@@ -97,7 +97,9 @@ Tuyết Đậu nói, “Thiên thượng nhân gian chìm dưới đất.”
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12806/5/tac-thu-bay-muoi-sau-dan-ha-hoi-tu-dau-toi
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12806/5/tac-thu-bay-muoi-sau-dan-ha-hoi-tu-dau-toi
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43271/20-tac-73-tac-76
 >
@@ -107,6 +109,6 @@ Tuyết Đậu nói, “Thiên thượng nhân gian chìm dưới đất.”
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-don-ha-thien-nhien/" target="_blank">🔗 TS ĐAN HÀ THIÊN NHIÊN (ĐƠN HÀ THIÊN NHIÊN)</a>

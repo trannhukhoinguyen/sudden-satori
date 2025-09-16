@@ -77,7 +77,9 @@ Sau đó Qui Sơn hỏi Ngưỡng Sơn, “Câu chuyện cọp của Hoàng Bá 
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12816/5/tac-thu-tam-muoi-lam-con-cop-cua-dong-phong-am-chu
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12816/5/tac-thu-tam-muoi-lam-con-cop-cua-dong-phong-am-chu
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43273/22-tac-82-tac-85
 >
@@ -87,6 +89,6 @@ Sau đó Qui Sơn hỏi Ngưỡng Sơn, “Câu chuyện cọp của Hoàng Bá 
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ 

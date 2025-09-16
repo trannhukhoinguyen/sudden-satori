@@ -171,7 +171,9 @@ Nhếch được mũi lên mất luôn miệng.” Nhếch được miệng lên
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12752/5/tac-thu-hai-muoi-tam-chu-thanh-cua-niet-ban-hoa-thuong
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12752/5/tac-thu-hai-muoi-tam-chu-thanh-cua-niet-ban-hoa-thuong
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43261/10-tac-26-tac-30
 >
@@ -181,7 +183,7 @@ Nhếch được mũi lên mất luôn miệng.” Nhếch được miệng lên
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-bach-truong-duy-chinh/" target="_blank">🔗 TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
 

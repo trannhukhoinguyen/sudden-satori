@@ -26,6 +26,8 @@ Ngoài ra đệ tử nối pháp của thiền sư Qui Sơn Linh Hựu là Hươ
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: [X. Đại minh nhất thống chí Q.30]. (xt. Trường Thọ Tự).
+## ℹ️ NGUỒN
+
+> ✨ [X. Đại minh nhất thống chí Q.30]. (xt. Trường Thọ Tự).
 
 > ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/huong-nghiem-tu-k34856.html?keys=k

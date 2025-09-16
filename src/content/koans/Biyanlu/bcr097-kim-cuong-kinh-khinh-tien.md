@@ -117,7 +117,9 @@ Lại nói, “Khám phá ra rồi.” Đó là Tuyết Đậu khám phá Cồ �
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12829/5/tac-thu-chin-muoi-bay-kim-cuong-kinh-khinh-tien
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12829/5/tac-thu-chin-muoi-bay-kim-cuong-kinh-khinh-tien
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43276/25-tac-96-tac-98
 >
@@ -127,6 +129,6 @@ Lại nói, “Khám phá ra rồi.” Đó là Tuyết Đậu khám phá Cồ �
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ 

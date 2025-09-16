@@ -141,7 +141,9 @@ Có thể nói là thầy ta mở rộng cửa nẻo, vạch rõ ra cho các ôn
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p26a12727/4/tac-thu-nam-hat-gao-cua-tuyet-phong
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p26a12727/4/tac-thu-nam-hat-gao-cua-tuyet-phong
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43254/3-tac-04-tac-06
 >
@@ -151,6 +153,6 @@ Có thể nói là thầy ta mở rộng cửa nẻo, vạch rõ ra cho các ôn
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://hoavouu.com/a17602/21-thien-su-nghia-ton-o-tuyet-phong" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>

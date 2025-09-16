@@ -133,11 +133,13 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">🔗 TS DƯỢC SƠN DUY NGHIỄM</a>
 

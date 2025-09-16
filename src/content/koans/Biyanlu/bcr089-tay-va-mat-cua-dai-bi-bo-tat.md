@@ -97,7 +97,9 @@ Tuyết Đậu dùng lưới ngọc của Đế Thích để dạy về sự s�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12820/5/tac-thu-tam-muoi-chin-tay-va-mat-cua-dai-bi-bo-tat
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12820/5/tac-thu-tam-muoi-chin-tay-va-mat-cua-dai-bi-bo-tat
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43274/23-tac-86-tac-90
 >
@@ -107,6 +109,6 @@ Tuyết Đậu dùng lưới ngọc của Đế Thích để dạy về sự s�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ 

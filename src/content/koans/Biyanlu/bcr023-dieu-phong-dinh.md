@@ -81,7 +81,9 @@ Các ông có biết không? Mù!
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12747/5/tac-thu-hai-muoi-ba-dieu-phong-dinh-cua-bao-phuc
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12747/5/tac-thu-hai-muoi-ba-dieu-phong-dinh-cua-bao-phuc
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43260/9-tac-23-tac-25
 >
@@ -91,7 +93,7 @@ Các ông có biết không? Mù!
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-bao-phuc-tung-trien/" target="_blank">🔗 TS BẢO PHÚC TÙNG TRIỂN</a>
 

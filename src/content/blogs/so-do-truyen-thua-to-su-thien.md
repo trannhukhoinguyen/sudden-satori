@@ -541,6 +541,6 @@ Văn Yểm có tự làm bài kệ rằng:
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 > ✨ Nguồn: https://phatgiao.org.vn/gia-phong-cua-ngu-gia-tong-phai-thien-phat-giao-d26613.html

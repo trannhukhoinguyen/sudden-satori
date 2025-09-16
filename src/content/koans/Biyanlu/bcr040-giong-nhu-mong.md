@@ -128,7 +128,9 @@ Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sư
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12765/5/tac-thu-bon-muoi-giong-nhu-mong-cua-nam-tuyen
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12765/5/tac-thu-bon-muoi-giong-nhu-mong-cua-nam-tuyen
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43263/12-tac-35-tac-38
 >
@@ -138,7 +140,7 @@ Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sư
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>
 

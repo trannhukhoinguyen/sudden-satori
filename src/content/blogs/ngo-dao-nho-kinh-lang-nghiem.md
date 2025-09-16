@@ -92,6 +92,6 @@ Từ đó có thể biết, "Lăng Nghiêm khai ngộ", không phải là lời 
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 > ✨ Nguồn: https://www.facebook.com/groups/399852061704931/posts/s%C3%A1u-v%E1%BB%8B-%C4%91%E1%BA%A1i-thi%E1%BB%81n-s%C6%B0-%C4%91%C3%A3-khai-ng%E1%BB%99-nh%E1%BB%9D-kinh-l%C4%83ng-nghi%C3%AAm-trong-l%E1%BB%8Bch-s%E1%BB%ADkinh-l%C4%83ng-nghi/1285886766434785/

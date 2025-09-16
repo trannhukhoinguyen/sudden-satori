@@ -100,7 +100,9 @@ Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12775/5/tac-thu-bon-muoi-tam-vuong-thai-pho-nau-tra
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12775/5/tac-thu-bon-muoi-tam-vuong-thai-pho-nau-tra
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43265/14-tac-44-tac-48
 >
@@ -110,6 +112,6 @@ Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html" target="_blank">🔗 TS MINH CHIÊU ĐỨC KHIÊM</a>

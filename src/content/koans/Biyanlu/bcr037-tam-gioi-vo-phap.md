@@ -117,7 +117,9 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12762/5/tac-thu-ba-muoi-bay-tam-gioi-vo-phap-cua-ban-son
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12762/5/tac-thu-ba-muoi-bay-tam-gioi-vo-phap-cua-ban-son
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43263/12-tac-35-tac-38
 >
@@ -127,7 +129,7 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-ban-son-bao-tich/" target="_blank">🔗 TS BÀN SƠN BẢO TÍCH</a>
 

@@ -235,10 +235,12 @@ pdfUrl: "/pdfs/sutras/kinh-Lang-Nghiem.pdf"
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ ...

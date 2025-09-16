@@ -57,10 +57,12 @@ Bằng không, há người chẳng bằng vật ư!
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: <a href="/practices/tham-thien-pho-thuyet" target="_blank">Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả). Việt Dịch: HT. Thích Duy Lực – Định Huệ</a>
+## ℹ️ NGUỒN
+
+> ✨ <a href="/practices/tham-thien-pho-thuyet" target="_blank">Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả). Việt Dịch: HT. Thích Duy Lực – Định Huệ</a>
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ ...

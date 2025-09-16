@@ -149,7 +149,9 @@ Mãi tới khúc cuối mói nói, “Trường Khánh biết rõ, lông mày m�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12730/5/tac-thu-tam-thuy-nham-day-do-chung-cuoi-ha
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12730/5/tac-thu-tam-thuy-nham-day-do-chung-cuoi-ha
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43255/4-tac-07-tac-09
 >
@@ -159,6 +161,6 @@ Mãi tới khúc cuối mói nói, “Trường Khánh biết rõ, lông mày m�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thuy-nham-k44421.html" target="_blank">🔗 TS THÚY NHAM LINH THAM</a>

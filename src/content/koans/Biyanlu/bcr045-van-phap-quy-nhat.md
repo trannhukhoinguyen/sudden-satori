@@ -60,7 +60,9 @@ Há không nghe Long Nha nói, “Học đạo trước hết phải vì ngộ, 
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12772/5/tac-thu-bon-muoi-lam-van-phap-qui-nhat-cua-trieu-chau
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12772/5/tac-thu-bon-muoi-lam-van-phap-qui-nhat-cua-trieu-chau
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43265/14-tac-44-tac-48
 >
@@ -70,6 +72,6 @@ Há không nghe Long Nha nói, “Học đạo trước hết phải vì ngộ, 
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

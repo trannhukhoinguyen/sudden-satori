@@ -16,12 +16,14 @@ pdfUrl: "/pdfs/practices/phuong-phap-tham-thien.pdf"
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
+## ℹ️ NGUỒN
+
+> ✨ https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
 
 > ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>

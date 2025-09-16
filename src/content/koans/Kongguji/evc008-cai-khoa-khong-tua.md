@@ -105,10 +105,12 @@ Mới tin rằng, hội được thì trong đường thọ dụng, không ngờ
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="https://hoavouu.com/a17583/03-thien-su-khanh-chu-o-thach-suong" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>

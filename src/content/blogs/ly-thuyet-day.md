@@ -14,7 +14,7 @@ author: wikipedia.com_youtube.com
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 > ✨ Nguồn: https://www.youtube.com/watch?v=dul3H7bqYrA
 

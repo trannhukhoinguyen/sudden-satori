@@ -248,7 +248,9 @@ Thử nói xem, đó là cảnh giới của Văn Thù, cảnh giới của Ph�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12743/5/tac-thu-hai-muoi-long-nha-va-y-cua-to-su-tu-tay-thien-qua
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12743/5/tac-thu-hai-muoi-long-nha-va-y-cua-to-su-tu-tay-thien-qua
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43259/8-tac-20-tac-22
 >
@@ -258,7 +260,7 @@ Thử nói xem, đó là cảnh giới của Văn Thù, cảnh giới của Ph�
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-long-nha-cu-don/" target="_blank">🔗 TS LONG NHA CƯ ĐỘN</a>
 

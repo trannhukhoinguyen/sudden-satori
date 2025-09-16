@@ -81,7 +81,9 @@ Thử phân biện xem.
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43266/15-tac-49-tac-52
 >
@@ -91,6 +93,6 @@ Thử phân biện xem.
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

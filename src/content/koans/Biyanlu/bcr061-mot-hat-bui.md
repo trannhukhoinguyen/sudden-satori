@@ -52,7 +52,9 @@ Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12790/5/tac-thu-sau-muoi-mot-mot-hat-bui-cua-phong-huyet
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12790/5/tac-thu-sau-muoi-mot-mot-hat-bui-cua-phong-huyet
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43268/17-tac-57-tac-62
 >
@@ -62,6 +64,6 @@ Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-phong-huyet-dien-chieu/" target="_blank">🔗 TS PHONG HUYỆT DIÊN CHIỂU</a>

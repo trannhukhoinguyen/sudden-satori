@@ -107,7 +107,9 @@ Nếu như người ta là một ông tăng, người ta hẳn sẽ không có k
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12758/5/tac-thu-ba-muoi-ba-tran-thuong-thu-vieng-tu-phuc
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12758/5/tac-thu-ba-muoi-ba-tran-thuong-thu-vieng-tu-phuc
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43262/11-tac-31-tac-34
 >
@@ -117,7 +119,7 @@ Nếu như người ta là một ông tăng, người ta hẳn sẽ không có k
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-tran-thao/" target="_blank">THƯỢNG THƯ TRẦN THÁO</a>
 

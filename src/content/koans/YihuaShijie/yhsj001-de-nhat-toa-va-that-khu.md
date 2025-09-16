@@ -47,11 +47,13 @@ Lúc ấy Cửu Phong vỗ vai tử thi và nói:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html
+## ℹ️ NGUỒN
+
+> ✨ https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Jiufeng-Daoqian" target="_blank">🔗 TS CỬU PHONG ĐẠO KIỀN</a>
 

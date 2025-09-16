@@ -105,7 +105,9 @@ Lúc Ô Cữu trao cán (gậy) cho ông tăng kia, phải chăng là quá vô �
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12805/5/tac-thu-bay-muoi-lam-o-cuu-hoi-phap-dao
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12805/5/tac-thu-bay-muoi-lam-o-cuu-hoi-phap-dao
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43271/20-tac-73-tac-76
 >
@@ -115,7 +117,7 @@ Lúc Ô Cữu trao cán (gậy) cho ông tăng kia, phải chăng là quá vô �
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS ĐỊNH CHÂU</a>
 

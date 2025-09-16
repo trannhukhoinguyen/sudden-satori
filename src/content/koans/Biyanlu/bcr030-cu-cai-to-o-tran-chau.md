@@ -54,7 +54,9 @@ Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý r
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12754/5/tac-thu-ba-muoi-cu-cai-cua-trieu-chau
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12754/5/tac-thu-ba-muoi-cu-cai-cua-trieu-chau
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43261/10-tac-26-tac-30
 >
@@ -64,7 +66,7 @@ Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý r
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
 

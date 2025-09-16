@@ -26,6 +26,8 @@ Người đời mỗi khi nhắc đến Pháp hiệu của các ngài đều có
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: [X. Đại minh nhất thống chí Q.56; Đại thanh nhất thống chí Q.249; Độc sử phương dư kỉ yếu Q.87]
+## ℹ️ NGUỒN
+
+> ✨ [X. Đại minh nhất thống chí Q.56; Đại thanh nhất thống chí Q.249; Độc sử phương dư kỉ yếu Q.87]
 
 > ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/hoa-son-k34474.html

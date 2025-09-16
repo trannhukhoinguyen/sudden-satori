@@ -14,10 +14,12 @@ image: /images/koans/great-wave.webp
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://thuvienhoasen.org/p33a17685/quyen-thuong
+## ℹ️ NGUỒN
+
+> ✨ https://thuvienhoasen.org/p33a17685/quyen-thuong
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️

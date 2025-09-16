@@ -208,7 +208,9 @@ Hiện giờ còn ai muốn dơ móng vuốt ra chăng? Tôi đánh cho đấy!
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12734/5/tac-thu-muoi-mot-ke-uong-can-ruou-cua-hoang-ba
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12734/5/tac-thu-muoi-mot-ke-uong-can-ruou-cua-hoang-ba
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43256/5-tac-10-tac-12
 >
@@ -218,7 +220,7 @@ Hiện giờ còn ai muốn dơ móng vuốt ra chăng? Tôi đánh cho đấy!
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^0]: ⭐️ <a href="/masters/Huangbo-Xiyun" target="_blank">🔗 TS HOÀNG BÁ HY VẬN</a>
 

@@ -205,11 +205,13 @@ Tụng bản lão tụng:
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: ...
+## ℹ️ NGUỒN
+
+> ✨ ...
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/chuyende/thiensutrunghoa/1592-thin-s-thin-hi" target="_blank">🔗 TS GIÁP SƠN THIỆN HỘI</a>
 

@@ -103,7 +103,9 @@ Nhưng mà có gì là nhằm nhò đâu? Đâu có biết rằng hai cái sai n
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12830/5/tac-thu-chin-muoi-tam-hai-cai-sai-cua-thien-binh-hoa-thuong
+## ℹ️ NGUỒN
+
+> ✨ https://hoavouu.com/p16a12830/5/tac-thu-chin-muoi-tam-hai-cai-sai-cua-thien-binh-hoa-thuong
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43276/25-tac-96-tac-98
 >
@@ -113,6 +115,6 @@ Nhưng mà có gì là nhằm nhò đâu? Đâu có biết rằng hai cái sai n
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 [^1]: ⭐️ 

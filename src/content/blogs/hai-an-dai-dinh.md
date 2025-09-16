@@ -101,6 +101,6 @@ Về phần câu nói của nhà sư, Tại sao người không có hơi thở t
 
 <hr class="blog-rule" />
 
-## ℹ️ Thông tin thêm
+## 📌 GHI CHÚ
 
 > ✨ Nguồn: https://thuvienhoasen.org/a20796/hai-an-dai-dinh
