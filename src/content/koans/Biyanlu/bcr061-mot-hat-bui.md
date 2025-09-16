@@ -64,4 +64,4 @@ Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-phong-huyet-dien-chieu/" target="_blank">TS PHONG HUYỆT DIÊN CHIỂU</a>
+[^1]: ⭐️ <a href="/masters/ts-phong-huyet-dien-chieu/" target="_blank">🔗 TS PHONG HUYỆT DIÊN CHIỂU</a>

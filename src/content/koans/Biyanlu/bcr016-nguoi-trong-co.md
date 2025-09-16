@@ -90,4 +90,4 @@ Kính Thanh nói, “Ông cũng là người trong cỏ” Tuyết Đậu nói, 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">TS KÍNH THANH ĐẠO PHÓ</a>
+[^1]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>

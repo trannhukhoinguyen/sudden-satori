@@ -161,4 +161,4 @@ Mãi tới khúc cuối mói nói, “Trường Khánh biết rõ, lông mày m�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thuy-nham-k44421.html" target="_blank">TS THÚY NHAM LINH THAM</a>
+[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thuy-nham-k44421.html" target="_blank">🔗 TS THÚY NHAM LINH THAM</a>

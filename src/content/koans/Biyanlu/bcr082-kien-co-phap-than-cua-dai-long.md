@@ -84,4 +84,4 @@ Cuối cùng, các ông phải làm sao mới được cơ? “Nước có hiế
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-dai-long/" target="_blank">TS ĐẠI LONG</a>
+[^1]: ⭐️ <a href="/masters/ts-dai-long/" target="_blank">🔗 TS ĐẠI LONG</a>

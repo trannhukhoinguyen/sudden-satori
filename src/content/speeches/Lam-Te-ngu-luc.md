@@ -17,4 +17,4 @@ pdfUrl: "/pdfs/speeches/Lam-Te-ngu-luc.pdf"
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
+[^1]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">🔗 TS LÂM TẾ NGHĨA HUYỀN</a>

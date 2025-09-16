@@ -260,11 +260,11 @@ Thử nói xem, đó là cảnh giới của Văn Thù, cảnh giới của Ph�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-long-nha-cu-don/" target="_blank">TS LONG NHA CƯ ĐỘN</a>
+[^1]: ⭐️ <a href="/masters/ts-long-nha-cu-don/" target="_blank">🔗 TS LONG NHA CƯ ĐỘN</a>
 
-[^2]: ⭐️ <a href="/masters/ts-thuy-vi-vo-hoc/" target="_blank">TS THÚY VI VÔ HỌC</a>
+[^2]: ⭐️ <a href="/masters/ts-thuy-vi-vo-hoc/" target="_blank">🔗 TS THÚY VI VÔ HỌC</a>
 
-[^3]: ⭐️ <a href="/masters/ts-lam-te-nghia-huyen/" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
+[^3]: ⭐️ <a href="/masters/ts-lam-te-nghia-huyen/" target="_blank">🔗 TS LÂM TẾ NGHĨA HUYỀN</a>
 
 [^32] “Tử thủy”.
 

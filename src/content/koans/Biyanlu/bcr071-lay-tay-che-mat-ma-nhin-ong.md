@@ -62,6 +62,6 @@ Trong cả ba bài tụng này của Tuyết Đậu (tắc thứ 70,71 và 72) n
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
 
-[^2]: ⭐️ <a href="https://pl.wikipedia.org/wiki/Wufeng_Changguan" target="_blank">TS NGŨ PHONG THƯỜNG QUAN</a>
+[^2]: ⭐️ <a href="https://pl.wikipedia.org/wiki/Wufeng_Changguan" target="_blank">🔗 TS NGŨ PHONG THƯỜNG QUAN</a>

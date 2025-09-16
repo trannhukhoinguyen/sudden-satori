@@ -73,7 +73,7 @@ Tuy nhiên, sự thấy biết còn chưa thuần, dễ rơi vào kiến giải 
 
 👉 Đây là công án kinh điển bậc nhất để phá Sơ Quan. “Vô” ở đây không phải “không có”, mà là mũi tên phá bỏ chấp ngã, chấp pháp, chấp lý.
 
-[^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
 
 #### 🧘‍♂️ Cách hành trì vượt Sơ Quan
 

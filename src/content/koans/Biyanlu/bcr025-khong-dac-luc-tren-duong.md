@@ -89,4 +89,4 @@ Tuyết Đậu chỉ thích Am Chủ nói, “ Vác gậy trên vai chẳng màn
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-lien-hoa-phong-tuong/" target="_blank">TS LIÊN HOA PHONG TƯỜNG</a>
+[^1]: ⭐️ <a href="/masters/ts-lien-hoa-phong-tuong/" target="_blank">🔗 TS LIÊN HOA PHONG TƯỜNG</a>

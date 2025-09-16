@@ -128,6 +128,6 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-duc-son-tuyen-giam/" target="_blank">TS ĐỨC SƠN TUYÊN GIÁM</a>
+[^1]: ⭐️ <a href="/masters/ts-duc-son-tuyen-giam/" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu" target="_blank">TS QUI SƠN LINH HỰU</a>
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu" target="_blank">🔗 TS QUI SƠN LINH HỰU</a>

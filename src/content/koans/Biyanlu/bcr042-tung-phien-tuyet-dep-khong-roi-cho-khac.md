@@ -144,16 +144,16 @@ Ngay cả Bích Nhãn Hồ tăng (Bồ Đề Đạt Ma) mà cũng khó phân bi�
 
 <hr class="blog-rule" />
 
-> ✨ Nguồn: https://hoavouu.com/p16a12768/5/tac-thu-bon-muoi-hai-tung-phien-tuyet-cua-bang-cu-si
+> ✨ Nguồn: <a href="https://hoavouu.com/p16a12768/5/tac-thu-bon-muoi-hai-tung-phien-tuyet-cua-bang-cu-si" target="_blank">🔗 hoavouu.com</a> 
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43264/13-tac-39-tac-43
+> ✨ Nguồn: <a href="https://quangduc.com/p1241a43264/13-tac-39-tac-43" target="_blank">🔗 quangduc.com</a> 
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05
+> ✨ Nguồn: <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05" target="_blank">🔗 tuvien.com</a> 
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
+> ✨ Nguồn: <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5" target="_blank">🔗 phatphapungdung.com</a> 
 
 <hr class="blog-rule" />
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4782-banguan" target="_blank">TS BÀNG LONG UẨN</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4782-banguan" target="_blank">🔗 TS BÀNG LONG UẨN</a>

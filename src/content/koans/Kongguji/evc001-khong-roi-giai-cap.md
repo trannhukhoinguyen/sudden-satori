@@ -147,6 +147,6 @@ Không bày ấn báu vẫn tôn kính.
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4645-tshanhtu" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4645-tshanhtu" target="_blank">🔗 TS THANH NGUYÊN HÀNH TƯ</a>
 
-[^2]: ⭐️ <a href="https://quangduc.com/p157a72133/quyen-05-luc-to-hue-nang-va-phap-he" target="_blank">TS LỤC TỔ HUỆ NĂNG</a>
+[^2]: ⭐️ <a href="https://quangduc.com/p157a72133/quyen-05-luc-to-hue-nang-va-phap-he" target="_blank">🔗 TS LỤC TỔ HUỆ NĂNG</a>

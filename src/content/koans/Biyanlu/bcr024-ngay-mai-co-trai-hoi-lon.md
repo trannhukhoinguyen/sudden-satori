@@ -83,6 +83,6 @@ Nhìn họ xem, một người nằm xuống một người liền bỏ đi. N�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-luu-thiet-ma/" target="_blank">TS LƯU THIẾT MA</a>
+[^1]: ⭐️ <a href="/masters/ts-luu-thiet-ma/" target="_blank">🔗 TS LƯU THIẾT MA</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu" target="_blank">TS QUI SƠN LINH HỰU</a>
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu" target="_blank">🔗 TS QUI SƠN LINH HỰU</a>

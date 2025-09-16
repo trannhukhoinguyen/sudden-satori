@@ -118,4 +118,4 @@ Tuyết Đậu mượn đại ý của câu chuyện này mà nói rằng nếu 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">TS ĐỘNG SƠN LƯƠNG GIỚI</a>
+[^1]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">🔗 TS ĐỘNG SƠN LƯƠNG GIỚI</a>

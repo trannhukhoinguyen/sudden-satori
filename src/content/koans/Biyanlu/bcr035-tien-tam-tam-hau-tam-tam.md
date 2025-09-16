@@ -157,4 +157,4 @@ Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần V�
 
 ⭐️ <a href="https://phatgiao.org.vn/van-thu-su-loi-bo-tat-la-ai-d39646.html" target="\_blank"BỒ TÁT VĂN THÙ</a>
 
-[^2]: ⭐️ <a href="/masters/ts-vo-truoc/" target="_blank">TS VÔ TRƯỚC</a>
+[^2]: ⭐️ <a href="/masters/ts-vo-truoc/" target="_blank">🔗 TS VÔ TRƯỚC</a>

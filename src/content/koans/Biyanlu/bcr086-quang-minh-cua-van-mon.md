@@ -86,4 +86,4 @@ Tuyết Đậu nói, “Thấy không thấy,” hay tụng, “Việc tốt kh�
 
 ## ℹ️ Thông tin thêm
 
-[^0]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^0]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

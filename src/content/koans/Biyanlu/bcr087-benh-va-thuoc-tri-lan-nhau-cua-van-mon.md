@@ -78,4 +78,4 @@ Tuyết Đậu lại vội vã nói tiếp, “Sai sai!” Đầu cũng sai mà 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

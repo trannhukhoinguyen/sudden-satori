@@ -107,6 +107,6 @@ Thử nói xem, làm sao có thể tránh được?
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
 
-[^2]: ⭐️ <a href="/masters/" target="_blank">TS ĐẦU TỬ NGHĨA THANH</a>
+[^2]: ⭐️ <a href="/masters/" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>

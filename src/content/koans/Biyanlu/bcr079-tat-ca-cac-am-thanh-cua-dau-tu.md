@@ -90,4 +90,4 @@ Tuyết Đậu buông ông tăng này và nói rằng nếu như ông ta hốt n
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">TS ĐẦU TỬ NGHĨA THANH</a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>

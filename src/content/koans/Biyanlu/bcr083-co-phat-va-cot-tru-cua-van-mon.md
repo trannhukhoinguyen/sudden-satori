@@ -85,4 +85,4 @@ Ai bảo vàng ròng giống như phân? Trương Nhị Trần Dư bặt tin t�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

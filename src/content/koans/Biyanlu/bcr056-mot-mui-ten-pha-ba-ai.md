@@ -132,4 +132,4 @@ Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con ch�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-kham-son-van-thuy/" target="_blank">TS KHÂM SƠN VĂN THÚY</a>
+[^1]: ⭐️ <a href="/masters/ts-kham-son-van-thuy/" target="_blank">🔗 TS KHÂM SƠN VĂN THÚY</a>

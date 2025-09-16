@@ -584,4 +584,4 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Yunqi-Zhuhong" target="_blank">TS VÂN THÊ CHÂU HOẲNG</a>
+[^1]: ⭐️ <a href="/masters/Yunqi-Zhuhong" target="_blank">🔗 TS VÂN THÊ CHÂU HOẲNG</a>

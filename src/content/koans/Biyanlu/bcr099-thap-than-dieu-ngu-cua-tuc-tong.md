@@ -105,6 +105,6 @@ Tuyết Đậu hết mực tán thán Huệ Trung, hoàng kim cốt chỉ một 
 
 [^1]: ⭐️ <a href="/masters/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4669-tshuetrung" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4669-tshuetrung" target="_blank">🔗 TS NAM DƯƠNG HUỆ TRUNG</a>
 
 [^3]: ⭐️ “Tì Lô” nguyên chữ là “Tì Lô Xá Na” là chữ người Trung Hoa dùng để phiên âm chữ Phạn “Vairocana,” có nghĩa là chân thân của Phật. Các tông phái Phật giáo giải thích chữ này theo nhiều cách khác nhau. Song thông thường thi “Tì Nô Xá Na” thường được dùng để chỉ Pháp Thân Phật.

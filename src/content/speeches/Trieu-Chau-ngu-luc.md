@@ -3712,4 +3712,4 @@ Một ông tăng hỏi :
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

@@ -146,6 +146,6 @@ Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4683-tsthachdau" target="_blank">TS THẠCH ĐẦU HY THIÊN</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4683-tsthachdau" target="_blank">🔗 TS THẠCH ĐẦU HY THIÊN</a>
 
-[^2]: ⭐️ <a href="/masters/ts-thanh-nguyen-hanh-tu/" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>
+[^2]: ⭐️ <a href="/masters/ts-thanh-nguyen-hanh-tu/" target="_blank">🔗 TS THANH NGUYÊN HÀNH TƯ</a>

@@ -64,4 +64,4 @@ Những người học Thiền bây giờ đều nói rằng, lúc Vân Môn dan
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

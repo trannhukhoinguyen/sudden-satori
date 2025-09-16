@@ -183,8 +183,8 @@ Nhếch được mũi lên mất luôn miệng.” Nhếch được miệng lên
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-bach-truong-duy-chinh/" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
+[^1]: ⭐️ <a href="/masters/ts-bach-truong-duy-chinh/" target="_blank">🔗 TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
 
-[^2]: ⭐️ <a href="https://nigioikhatsi.net/thien/duy-chinh-dau-voi-nam-tuyen.html" target="_blank">TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
+[^2]: ⭐️ <a href="https://nigioikhatsi.net/thien/duy-chinh-dau-voi-nam-tuyen.html" target="_blank">🔗 TS BÁCH TRƯỢNG DUY CHÍNH (NIẾT BÀN)</a>
 
 [^3]: Nguyên văn: “_mạnh bát lang_” có nghĩa là kẻ làm việc _càn rỡ_.

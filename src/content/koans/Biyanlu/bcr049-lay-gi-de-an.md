@@ -79,6 +79,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-tam-thanh-hue-nhien/" target="_blank">TS TAM THÁNH HUỆ NHIÊN</a>
+[^1]: ⭐️ <a href="/masters/ts-tam-thanh-hue-nhien/" target="_blank">🔗 TS TAM THÁNH HUỆ NHIÊN</a>
 
-[^2]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
+[^2]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>

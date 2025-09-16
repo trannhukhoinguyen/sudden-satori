@@ -109,4 +109,4 @@ Tuyết Đậu nói, “Thiên thượng nhân gian chìm dưới đất.”
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-don-ha-thien-nhien/" target="_blank">TS ĐAN HÀ THIÊN NHIÊN (ĐƠN HÀ THIÊN NHIÊN)</a>
+[^1]: ⭐️ <a href="/masters/ts-don-ha-thien-nhien/" target="_blank">🔗 TS ĐAN HÀ THIÊN NHIÊN (ĐƠN HÀ THIÊN NHIÊN)</a>

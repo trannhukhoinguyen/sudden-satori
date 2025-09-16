@@ -168,6 +168,6 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 
 [^2]: ⭐️ <a href="https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_Hu%E1%BB%87" target="_blank">PHÓ ĐẠI SĨ</a>
 
-[^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
+[^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">🔗 TS BẢO CHÍ CÔNG</a>
 
 http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355

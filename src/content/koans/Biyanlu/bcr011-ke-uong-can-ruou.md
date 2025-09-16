@@ -220,6 +220,6 @@ Hiện giờ còn ai muốn dơ móng vuốt ra chăng? Tôi đánh cho đấy!
 
 ## ℹ️ Thông tin thêm
 
-[^0]: ⭐️ <a href="/masters/Huangbo-Xiyun" target="_blank">TS HOÀNG BÁ HY VẬN</a>
+[^0]: ⭐️ <a href="/masters/Huangbo-Xiyun" target="_blank">🔗 TS HOÀNG BÁ HY VẬN</a>
 
 [^1]:

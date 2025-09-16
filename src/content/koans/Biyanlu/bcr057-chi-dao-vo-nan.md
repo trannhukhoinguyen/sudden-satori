@@ -80,4 +80,4 @@ Tuyết Đậu chú giải hai câu của Triệu Châu nói rằng, “Sâu t�
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

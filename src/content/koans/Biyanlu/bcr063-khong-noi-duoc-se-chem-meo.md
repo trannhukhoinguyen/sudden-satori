@@ -86,4 +86,4 @@ May mà có Nam Tuyền phán đoán công án này cho họ, thu dọn được
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>

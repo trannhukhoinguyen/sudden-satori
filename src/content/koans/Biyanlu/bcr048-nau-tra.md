@@ -112,4 +112,4 @@ Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html" target="_blank">TS MINH CHIÊU ĐỨC KHIÊM</a>
+[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html" target="_blank">🔗 TS MINH CHIÊU ĐỨC KHIÊM</a>

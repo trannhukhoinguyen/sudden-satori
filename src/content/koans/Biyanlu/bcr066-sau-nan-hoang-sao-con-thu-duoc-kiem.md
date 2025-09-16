@@ -87,6 +87,6 @@ Tuyết Đậu tụng rằng:
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-nham-dau-toan-hoat" target="_blank">TS NHAM ĐẦU TOÀN HOÁT</a>
+[^1]: ⭐️ <a href="/masters/ts-nham-dau-toan-hoat" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
 
-[^2]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
+[^2]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>

@@ -102,6 +102,6 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/ts-tri-mon-quang-to/" target="_blank">TS TRÍ MÔN QUANG TỘ</a>
+[^1]: ⭐️ <a href="/masters/ts-tri-mon-quang-to/" target="_blank">🔗 TS TRÍ MÔN QUANG TỘ</a>
 
 [^2]: ⭐️

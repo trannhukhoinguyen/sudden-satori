@@ -172,4 +172,4 @@ Tuyết Đậu kể như đã tụng xong rồi, lại vẫn dơ gậy lên mà 
 
 ## ℹ️ Thông tin thêm
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
