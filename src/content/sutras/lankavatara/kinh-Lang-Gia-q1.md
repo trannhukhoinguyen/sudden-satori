@@ -3,10 +3,10 @@ title: "Kinh Lăng Già - quyển I"
 description: ""
 excerpt: |
     ""
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
-videoStart: "1071"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
+videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
+videoStart: "1071"
 pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
 ---
 
@@ -1417,13 +1417,13 @@ Bậc Thánh lìa hữu vô.
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ ...
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ _Theo Thật Dụng Phật Học Tự điển giải thích thì gồm có bốn nghĩa: Sở tri, cảnh giới, trí mẫu, trí cảnh. 4 từ ngữ này cũng có tương tự cũng có hơi khác, như nghĩa SỞ TRI và CẢNH GIỚI thì thông cả trí và ngu, còn TRÍ CẢNH và TRÍ MƯU thì riêng cho bậc trí, lại gồm cả năng sở: Mẹ của trí là năng sanh, cảnh của trí là sở sanh, vì bao gồm nhiều nghĩa như thế, nên người dịch chỉ dịch nguyên âm, chúng tôi cũng chỉ dịch nguyên âm mà tùy theo trường hợp ghi chú_
 

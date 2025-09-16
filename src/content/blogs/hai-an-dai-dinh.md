@@ -77,7 +77,7 @@ Về phần câu nói của nhà sư, Tại sao người không có hơi thở t
 
 <hr class="blog-rule" />
 
-### Chú thích
+### GHI CHÚ
 
 [^1]: “Cái này là hành động gì của tâm thức ?” là một thiền ngữ thường được dùng để hỏi tư tưởng hay hành động có vẻ hay thực sự tùy tiện ; hoặc nó được dùng để hỏi một ý định hay diễn đạt của tư tưởng hay hành động mà không có giả định trước.
 [^2]: “Bốn câu”, tứ cú là có, không, cả hai và không phải cả hai.
@@ -101,6 +101,6 @@ Về phần câu nói của nhà sư, Tại sao người không có hơi thở t
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## NGUỒN
 
 > ✨ Nguồn: https://thuvienhoasen.org/a20796/hai-an-dai-dinh

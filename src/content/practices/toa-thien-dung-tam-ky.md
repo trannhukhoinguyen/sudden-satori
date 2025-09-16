@@ -11,6 +11,7 @@ tags:
   - TS OÁNH SƠN THIỆU CẨN
 author: "TS OÁNH SƠN THIỆU CẨN"
 image: "/images/koans/great-wave.webp"
+videoUrl: "https://www.youtube.com/embed/MZSh7XxjQU4"
 pdfUrl: "/pdfs/practices/toa-thien-dung-tam-ky.pdf"
 ---
 
@@ -115,12 +116,12 @@ Sau khi xuất định, không để ý mà vẫn hiện oai nghi, được vậ
 
 <hr class="blog-rule" />p⁰p
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > https://www.thienlam.org/news/HT-Thich-Thanh-Tu-22/Toa-Thien-Dung-Tam-Ky-126/
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="https://vi.m.wikipedia.org/wiki/O%C3%A1nh_S%C6%A1n_Thi%E1%BB%87u_C%E1%BA%A9n" target="_blank">🔗 TS OÁNH SƠN THIỆU CẨN</a>

@@ -127,7 +127,7 @@ Lão tăng còn có một bài kệ nhỏ nữa,
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ <a href="https://hoavouu.com/p16a12832/5/tac-thu-mot-tram-kiem-sac-cua-ba-lang" target="_blank">🔗 hoavouu.com</a>
 >
@@ -139,6 +139,6 @@ Lão tăng còn có một bài kệ nhỏ nữa,
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-ba-lang-hao-giam/" target="_blank">🔗 TS BA LĂNG HẠO GIÁM</a>

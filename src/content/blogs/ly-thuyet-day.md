@@ -14,7 +14,11 @@ author: wikipedia.com_youtube.com
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
+
+<hr class="blog-rule" />
+
+## NGUỒN
 
 > ✨ Nguồn: https://www.youtube.com/watch?v=dul3H7bqYrA
 

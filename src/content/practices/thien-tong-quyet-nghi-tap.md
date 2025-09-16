@@ -11,7 +11,6 @@ tags:
   - Ngữ lục
   - TS ĐOẠN VÂN TRÍ TRIỆT
 author: "TS ĐOẠN VÂN TRÍ TRIỆT"
-pdfUrl: /pdfs/practices/thien-tong-quyet-nghi-tap.pdf
 ---
 
 ## TỰA
@@ -58,7 +57,7 @@ Hai mươi sáu tuổi, Trí Triệt tôi thọ giới, trì trai, chuyên tâm 
 
 Ba mươi mốt tuổi, xuất gia làm tăng, tham thiền học đạo. Thầy tôi là hòa thượng Vân Phong[^3] dạy tham câu: “Muôn pháp về một, một về đâu?”. Sau đó, tôi cùng với huynh Quang kết bạn đi đến am Hà Đường Chủ ở phủ Quỳ. Nơi đây rất yên tịnh, nên tôi quyết định chọn làm chỗ dừng chân. Tự ở trước tượng Phật đốt hương phát nguyện, lập hạn quyết tử trong ba năm, đồng thời phát thệ rằng: “Nếu tôi giải đãi, ham muốn ngồi nằm, mong cầu an ổn, thân chạm giường ghế thì cam chịu đọa vào địa ngục Vô Gián[^4] không có ngày ra”.
 
-Từ đó, ngày đêm thiền hành, trừ hai thời cơm cháo mới ngồi, các việc khác như uống trà nước cũng không dừng chân. Bạn đạo, thí chủ đến thăm hỏi, cũng không tiếp đãi, nói năng thiểu giảm, luôn đề cử câu: “Muôn pháp về một, một về đâu?”. Chỉ để tâm vào chữ “một” này, hết sức tha thiết, đề khởi nghi tình. Có lúc đắc lực, tâm như bầu trời trong xanh, không gợn một áng mây, chỉ biết nghi tình nơi chữ· “một”. Trong tâm linh hoạt, như hạt châu lăn ngang dọc trong mâm không ngăn ngại. Đến trạng thái này không biết có thân đi trên đất, cũng chẳng biết có việc động, tĩnh, lạnh, nóng ở thế gian. Xoay thân, cúi ngước, đại tiểu tiện đều không có tâm tính toán, phân biệt, chỉ theo nghi tình ấy mà thuận chân bước đi; ăn cơm ăn cháo tiện tay nắm muỗng, buông đũa; lại chẳng biết trong cơm ăn có vị cay, chua, mặn, lạt. Đến đây mới biết là công phu chuyên tâm một chỗ, chỉ có niệm tịnh nối nhau.
+Từ đó, ngày đêm thiền hành, trừ hai thời cơm cháo mới ngồi, các việc khác như uống trà nước cũng không dừng chân. Bạn đạo, thí chủ đến thăm ❓, cũng không tiếp đãi, nói năng thiểu giảm, luôn đề cử câu: “Muôn pháp về một, một về đâu?”. Chỉ để tâm vào chữ “một” này, hết sức tha thiết, đề khởi nghi tình. Có lúc đắc lực, tâm như bầu trời trong xanh, không gợn một áng mây, chỉ biết nghi tình nơi chữ· “một”. Trong tâm linh hoạt, như hạt châu lăn ngang dọc trong mâm không ngăn ngại. Đến trạng thái này không biết có thân đi trên đất, cũng chẳng biết có việc động, tĩnh, lạnh, nóng ở thế gian. Xoay thân, cúi ngước, đại tiểu tiện đều không có tâm tính toán, phân biệt, chỉ theo nghi tình ấy mà thuận chân bước đi; ăn cơm ăn cháo tiện tay nắm muỗng, buông đũa; lại chẳng biết trong cơm ăn có vị cay, chua, mặn, lạt. Đến đây mới biết là công phu chuyên tâm một chỗ, chỉ có niệm tịnh nối nhau.
 
 Tôi nêu ra việc này, hoặc có người chưa hạ thủ công phu thì nghi ngờ không tin, vì vậy tôi tạm nêu hai ví dụ nhỏ. Thí như ở đời có một dũng sĩ nổi cơn thịnh nộ, vào trong trăm vạn quân, bắt lấy vị thống soái. Người đó muốn chiến thắng để lập công mà không đoái hoài đến sự nguy vong. Một khi phẫn nộ liền tiến tới trước, không có ý thoái lui, người học đạo cũng giống như thế.
 
@@ -86,7 +85,7 @@ Nếu trên câu thoại đầu chẳng khởi nghi tình, hoặc là không đ�
 
 Đó đều là do lười biếng, buông lung thân tâm; đối với việc sinh tử, dụng tâm không tha thiết, dính mắc mọi nơi, cho nên không đắc lực. 
 
-Khi công phu chưa thuần thục, hai thứ bệnh này thường dấy khởi. Tôi để tâm vào câu thoại đầu, quyết khởi nghi tình, không cần phân biệt, bài xích thị phi. Một khi nghi tình phát khởi, niệm này liền tiêu. Những điều đã nói ở trên, đều không vì mục đích nào khác, chỉ nhằm quyết đoán chỗ hạ thủ công phu cho người học, để tâm thanh tịnh, hoạt bát không có một niệm nào khác, bỏ hết những điều hiểu biết trước kia, từ học hỏi, từ lời Phật dạy, lời Tổ nói, lời Bách gia chư tử[^6], ngay lúc ấy tình thức bít kín, tâm thánh phàm dứt bặt. Đến đây tham thoại đầu, hoặc tham chữ “không” (vô), hoặc đề cử câu: “Muôn pháp về một, một về chỗ nào” đều được. Một khi đảm đương thì phải phấn chấn, ra sức tiến thẳng đến trước, không quay đầu lại, về đến tận nhà, ngồi an ổn, mới là lúc an lạc thật sự.
+Khi công phu chưa thuần thục, hai thứ bệnh này thường dấy khởi. Tôi để tâm vào câu thoại đầu, quyết khởi nghi tình, không cần phân biệt, bài xích thị phi. Một khi nghi tình phát khởi, niệm này liền tiêu. Những điều đã nói ở trên, đều không vì mục đích nào khác, chỉ nhằm quyết đoán chỗ hạ thủ công phu cho người học, để tâm thanh tịnh, hoạt bát không có một niệm nào khác, bỏ hết những điều hiểu biết trước kia, từ học ❓, từ lời Phật dạy, lời Tổ nói, lời Bách gia chư tử[^6], ngay lúc ấy tình thức bít kín, tâm thánh phàm dứt bặt. Đến đây tham thoại đầu, hoặc tham chữ “không” (vô), hoặc đề cử câu: “Muôn pháp về một, một về chỗ nào” đều được. Một khi đảm đương thì phải phấn chấn, ra sức tiến thẳng đến trước, không quay đầu lại, về đến tận nhà, ngồi an ổn, mới là lúc an lạc thật sự.
 
 ## 6. Chấp ngại quyết nghi môn (Khuyên người chấp trước nên khởi nghi tình)
 
@@ -104,25 +103,25 @@ Người chấp “có” nói: “Ngài Triệu Châu nói “không” là ch�
 
 Người học chỉ cần khán[^10] như thế liền lãnh hội được chữ “không”, rồi ngồi kết-già trên đơn, nắm chặt tay, cắn chặt răng, mở to hai con mắt mà nhìn chữ “không” này. 
 
-Lúc nhỏ thì nhỏ như vi trần, lớn thì lớn như bầu trời, hoặc ẩn hoặc hiện đều nhận cho đúng, ngay đó công phu được đắc lực. Lại nghe người học nhờ vị thầy khai phát: “Vị tăng hỏi ngài Triệu Châu: “Con chó có Phật tánh không?”. Ngài Triệu Châu nói “không”. Thầy liền bảo đề khởi chữ “không”, người học tin nhận thực hành theo, rồi đi cũng chữ “không”, ngồi cũng chữ “không”, ăn cơm, mặc áo cũng chữ “không”, trong tất cả các thời đều khán chữ “không”, hoặc nhanh hoặc chậm. Lại tự nói: “Niệm chậm thì trong tất cả thời không niệm mà tự niệm, niệm chữ “không” này một cách linh hoạt, vô ngại. Lại nói: Khi niệm gấp, niệm hết một hơi mới dừng, xoay vần như thế, cho đây là công phu thuần thục.
+Lúc nhỏ thì nhỏ như vi trần, lớn thì lớn như bầu trời, hoặc ẩn hoặc hiện đều nhận cho đúng, ngay đó công phu được đắc lực. Lại nghe người học nhờ vị thầy khai phát: “Vị tăng ❓ ngài Triệu Châu: “Con chó có Phật tánh không?”. Ngài Triệu Châu nói “không”. Thầy liền bảo đề khởi chữ “không”, người học tin nhận thực hành theo, rồi đi cũng chữ “không”, ngồi cũng chữ “không”, ăn cơm, mặc áo cũng chữ “không”, trong tất cả các thời đều khán chữ “không”, hoặc nhanh hoặc chậm. Lại tự nói: “Niệm chậm thì trong tất cả thời không niệm mà tự niệm, niệm chữ “không” này một cách linh hoạt, vô ngại. Lại nói: Khi niệm gấp, niệm hết một hơi mới dừng, xoay vần như thế, cho đây là công phu thuần thục.
 
 Tôi từng nghe nói như vậy, rất sợ người học đời sau nhầm lẫn, nên mạo muội đưa ra hai ví dụ nhỏ để mọi người đều biết. 
 
 Xét niệm chậm này giống như đứng trên cao ném hạt đậu, mặc tình văng đến đâu đều không ngăn ngại. 
 
-Còn niệm gấp thì giống như đứng trên lầu trống canh đánh một hồi, một hồi này vừa dứt lại một hồi khác, đâu có lợi ích gì? Hai loại công phu khán và niệm chữ “không” nói ở trước, tứ chúng[^11]thực hành theo rất nhiều, nói ra giống như chuyện đùa. Thật là đáng tiếc! Hoặc có người tham câu: “Muôn pháp về một, một về chỗ nào?” Hỏi đến chỗ thích đáng để khởi nghi tình, liền nói lung tung, hoặc nói khởi nghi tình trên chữ “chỗ nào?”, hoặc nói khởi nghi tình trên chữ “một về”, hoặc cả hai câu, hoặc chỉ câu sau. Mỗi người chủ trương một· đường riêng mà không thay đổi. Thật không thể hiểu được!
+Còn niệm gấp thì giống như đứng trên lầu trống canh đánh một hồi, một hồi này vừa dứt lại một hồi khác, đâu có lợi ích gì? Hai loại công phu khán và niệm chữ “không” nói ở trước, tứ chúng[^11]thực hành theo rất nhiều, nói ra giống như chuyện đùa. Thật là đáng tiếc! Hoặc có người tham câu: “Muôn pháp về một, một về chỗ nào?” ❓ đến chỗ thích đáng để khởi nghi tình, liền nói lung tung, hoặc nói khởi nghi tình trên chữ “chỗ nào?”, hoặc nói khởi nghi tình trên chữ “một về”, hoặc cả hai câu, hoặc chỉ câu sau. Mỗi người chủ trương một· đường riêng mà không thay đổi. Thật không thể hiểu được!
 
 ## 8. Triệt để cùng uyên môn (Cùng nguồn tận đáy)
 
 Tôi hổ thẹn lúc còn đang tu học, chưa được thăng đường nhập thất[^12] chỉ trộm nhìn ý thú ở đầu cửa mà thôi. Ví như người quản lí châu báu cho nhà vua, châu báu này vốn chẳng phải của anh ta, nhưng anh ta có thể phân biệt thật, giả, quí, tiện, khinh, trọng. Nếu quyến thuộc của vua cần lấy, liền theo ý mà cấp cho họ dùng, không lẫn lộn. Cũng giống như thế, diệu pháp vô thượng của Phật, Tổ chẳng phải của tôi, nhưng thứ tự công phu, tà, chính, sâu, cạn tôi cũng lược biết và trình bày cho mọi người hiểu. Tôi nguyện cùng với những đồng đạo giải quyết nghi tình này, nhất định không dối gạt nhau.
 
-Vị tăng hỏi ngài Triệu Châu: Con chó có Phật tánh không?
+Vị tăng ❓ ngài Triệu Châu: Con chó có Phật tánh không?
 
-Ngài Triệu Châu đáp: Không!
+Ngài Triệu Châu 📢: Không!
 
-Vị tăng hỏi tiếp: Sâu bọ hàm linh đều có Phật tánh, vì sao con chó không có Phật tánh?
+Vị tăng ❓ tiếp: Sâu bọ hàm linh đều có Phật tánh, vì sao con chó không có Phật tánh?
 
-Ngài Triệu Châu đáp: Không!
+Ngài Triệu Châu 📢: Không!
 
 Vị tăng ngay đó, nếu nói hiểu thì liền bị ngài Triệu Châu nhổ nước bọt vào miệng và mắng cho một trận thậm tệ. 
 
@@ -132,25 +131,25 @@ Vị tăng bấy giờ nếu không lãnh hội được lời này, toàn thân
 
 Dưới đây là trình bày chỗ dụng nghi của người học, cần phải để tâm xét kỹ. Khi dụng nghi, trước phải phát tâm phẫn nộ, nghi ngài Triệu Châu vì sao nói “không”? Tâm phẫn nộ này (nếu không phát ra tiếng thì trong tâm uất ức; nếu phát ra tiếng mà bịt miệng mũi thì âm thanh phát ra như tiếng hàng phục hổ. Như người bị nhục, tâm nghi ngờ mà không giải quyết được đều có tiếng lòng uất ức này), hoặc nói ra, hoặc không nói ra, người học tự biết cách. Nghi ở đây là nghi vì sao ngài Triệu Châu nói “không”, chứ chẳng phải khán chữ “không” của ngài Triệu Châu. Ngày nay người học phần nhiều khán chữ “không” và niệm chữ· “không”này. Thật là đáng thương xót!
 
-Người học đạt đến chỗ này thì trong lòng tỉnh táo, cần phải xem lúc bấy giờ vị Tăng này có nghi tình chăng? Lại hỏi tiếp: “Sâu bọ hàm linh đều có Phật tánh, vì sao con chó không có Phật tánh?” Một câu này nghi thấu xương tủy. Vị tăng cầu chết chứ không muốn sống, bức bách ngài Triệu Châu phải bình tâm, thốt ra một chữ “không,” muốn thâu lại thâu cũng không được. Vị tăng ấy bấy giờ muốn chết, chết cũng không được. Từ xưa đến nay có nghi mà không giải quyết được. Vì thế, những điều mà người trước nghi tức là điều người ngày nay nghi, điều mà người ngày nay nghi chính là nghi điều mà ngài Triệu Châu nói. Bỗng nhiên từ khối nghi vỡ ra một tiếng, thấy biết hết tin tức bên kia[^13]. Hãy thôi! Đừng nói nữa, nói nhiều càng xa đạo.
+Người học đạt đến chỗ này thì trong lòng tỉnh táo, cần phải xem lúc bấy giờ vị Tăng này có nghi tình chăng? Lại ❓ tiếp: “Sâu bọ hàm linh đều có Phật tánh, vì sao con chó không có Phật tánh?” Một câu này nghi thấu xương tủy. Vị tăng cầu chết chứ không muốn sống, bức bách ngài Triệu Châu phải bình tâm, thốt ra một chữ “không,” muốn thâu lại thâu cũng không được. Vị tăng ấy bấy giờ muốn chết, chết cũng không được. Từ xưa đến nay có nghi mà không giải quyết được. Vì thế, những điều mà người trước nghi tức là điều người ngày nay nghi, điều mà người ngày nay nghi chính là nghi điều mà ngài Triệu Châu nói. Bỗng nhiên từ khối nghi vỡ ra một tiếng, thấy biết hết tin tức bên kia[^13]. Hãy thôi! Đừng nói nữa, nói nhiều càng xa đạo.
 
 ## 9. Chỉ bổn hoàn chơn môn (Chỉ gốc về chơn).
 
-Vị tăng hỏi ngài Triệu Châu: “Muôn pháp về một, một về đâu?”. Ngài Triệu Châu nói: “Ta ở Thanh Châu may cái áo vải nặng bảy cân”. Vị tăng này lại nghi không giống vị tăng kia, khiến ngài Triệu Châu phải uổng phí động miệng lưỡi lần nữa. Nói áo nặng bảy cân thì không phải là một việc nhỏ, ý này là sao? Vì cân không đúng nên không người mua.
+Vị tăng ❓ ngài Triệu Châu: “Muôn pháp về một, một về đâu?”. Ngài Triệu Châu nói: “Ta ở Thanh Châu may cái áo vải nặng bảy cân”. Vị tăng này lại nghi không giống vị tăng kia, khiến ngài Triệu Châu phải uổng phí động miệng lưỡi lần nữa. Nói áo nặng bảy cân thì không phải là một việc nhỏ, ý này là sao? Vì cân không đúng nên không người mua.
 
 Xưa nay trong chốn tùng lâm phần nhiều nêu: “Muôn pháp về một, một về đâu?” “Một” này tôi không thể nói toạc ra. 
 
-Sau thể hội được chỗ “về một”, sẽ khiến người học dễ rõ, dễ hiểu. Vì thế, kinh Pháp hoa ghi: “Chỉ một việc này thật, có hai thì chẳng phải chơn”. Một này chính là cội nguồn của chúng sinh, là diệu đạo của chư Phật, cũng là mẹ của muôn pháp, là chí tôn trong các thánh. Mê nó thì không thoát được luân hồi, ngộ nó thì liễu tử thoát sinh. Lại nêu: “Muôn pháp về một, một về đâu?”. Khi nghi, chỉ nên nghi trên chữ “một” này, “một” đó chính là tâm. (Tâm này là tâm linh tri, chứ chẳng phải quả tim, hay tâm phân biệt). Tâm tức là một (một là vua của các thánh, cho nên gọi là tâm vương). Vì sao tôi phân tích kỹ như thế? Bởi sợ người học khi mới vào đạo, thưa hỏi mà thầy không nói rõ ràng về nghi tình, người học lại không biết thứ tự thưa hỏi. Vả lại, không gặp được bạn lành, rốt cuộc mặc dù nghe có thiện hữu tri thức, nhưng lại không thân gần, cầu xét đoán sự lý, dứt trừ nghi hoặc mà chấp lấy cái thấy của mình để rồi mai một đời mình, thật đáng thương xót!
+Sau thể hội được chỗ “về một”, sẽ khiến người học dễ rõ, dễ hiểu. Vì thế, kinh Pháp hoa ghi: “Chỉ một việc này thật, có hai thì chẳng phải chơn”. Một này chính là cội nguồn của chúng sinh, là diệu đạo của chư Phật, cũng là mẹ của muôn pháp, là chí tôn trong các thánh. Mê nó thì không thoát được luân hồi, ngộ nó thì liễu tử thoát sinh. Lại nêu: “Muôn pháp về một, một về đâu?”. Khi nghi, chỉ nên nghi trên chữ “một” này, “một” đó chính là tâm. (Tâm này là tâm linh tri, chứ chẳng phải quả tim, hay tâm phân biệt). Tâm tức là một (một là vua của các thánh, cho nên gọi là tâm vương). Vì sao tôi phân tích kỹ như thế? Bởi sợ người học khi mới vào đạo, thưa ❓ mà thầy không nói rõ ràng về nghi tình, người học lại không biết thứ tự thưa ❓. Vả lại, không gặp được bạn lành, rốt cuộc mặc dù nghe có thiện hữu tri thức, nhưng lại không thân gần, cầu xét đoán sự lý, dứt trừ nghi hoặc mà chấp lấy cái thấy của mình để rồi mai một đời mình, thật đáng thương xót!
 
 Vì vậy, tôi chỉ muốn người học hướng vào chữ “một” này mà khởi nghi. Đầu tiên đề cử “Muôn pháp về một, một về đâu?” Hoặc đề cử ba, năm lần, tùy ý buông, nắm. Sau đó không nêu “muôn pháp về một,” chỉ khởi nghi tình trên chữ “một”. Nghi là nghi “một trở về đâu?” Ba chữ “ trở về đâu” chính là nghiền ngẫm chữ “một” này hướng về đâu mà an thân lập mệnh. Nhưng không nghi trên ba chữ này, chỉ khởi nghi trên chữ “một”. Nếu sợ không khởi nghi tình trên chữ “một”, thì lại đề cử “rốt cuộc một về đâu?” Khi cử thoại đầu hoặc phát ra tiếng hay không phát ra tiếng đều được. Song không được quá gấp, cũng không được quá chậm. Như chuông khánh, nhịp đánh chừng mực, đều đặn thì âm thanh thuận mà hòa, cốt là khởi nghi tình trên câu thoại đầu. Dù đắc lực hay không đắc lực cũng phải thực hiện đúng như vậy. Không được tin lời người khác, rồi cho rằng: “Không cần mở miệng cử thoại đầu”. Nếu tin lời này, bịt miệng ngăn tiếng, sau ắt có bệnh.
 
 ## 10. Thuận tức miễn hoạn môn (Hơi thở thuận thì tránh được bệnh)
 
-Giờ đây nói về việc người học thưa hỏi không rõ ràng, về sau mắc bệnh, làm tổn thương tâm, hại đến sức khỏe.
+Giờ đây nói về việc người học thưa ❓ không rõ ràng, về sau mắc bệnh, làm tổn thương tâm, hại đến sức khỏe.
 
 Chính tôi thấy các huynh đệ, người nào lặng lẽ không nói, sau này phần nhiều mắc phải bệnh ói ra máu.
 
-Gạn hỏi nguyên do, anh ta cho rằng thiện hữu tri thức không bảo mở miệng cử thoại đầu. Tôi thống thiết nói với anh ta: “Bệnh ấy chính là do khí làm tổn thương tim. Tim là chủ huyết mạch, tim không làm chủ được thì khí huyết chạy sai lạc. Điều cốt yếu là hơi thở bình ổn, huyết mạch thư giản, bốn đại điều hòa thì đạo mạnh”. Tạm đưa ra ví dụ, như ở đời có người mất một vật quý giá, ngày đêm tìm kiếm mãi, hoặc im lặng suy nghĩ, hoặc mở miệng hỏi han, hoặc buồn thương, than thở. Sau đó hoặc gặp người chỉ cho, hoặc nhìn quanh mà tìm được. Suy cùng sự lý như thế, mở miệng, ngậm miệng, nói nín, động tịnh đâu ngại gì đến nghi tình? Lại cùng với người học suy ngẫm đến cội nguồn của bệnh ấy, hoặc là do ăn no, gánh nặng, hoặc là do leo núi, chạy bộ. Bốn việc này là đầu mối để sinh bệnh, bốn việc này làm hơi thở ngưng trệ. Nếu không mở miệng phát ra tiếng đề cử thoại đầu, khí sẽ uất kết trong ngực, làm tổn thương thân tâm, chướng ngại nghi tình. Như thế, vọng cho là do tọa thiền sanh bệnh, há chẳng phải là oan lắm sao?
+Gạn ❓ nguyên do, anh ta cho rằng thiện hữu tri thức không bảo mở miệng cử thoại đầu. Tôi thống thiết nói với anh ta: “Bệnh ấy chính là do khí làm tổn thương tim. Tim là chủ huyết mạch, tim không làm chủ được thì khí huyết chạy sai lạc. Điều cốt yếu là hơi thở bình ổn, huyết mạch thư giản, bốn đại điều hòa thì đạo mạnh”. Tạm đưa ra ví dụ, như ở đời có người mất một vật quý giá, ngày đêm tìm kiếm mãi, hoặc im lặng suy nghĩ, hoặc mở miệng ❓ han, hoặc buồn thương, than thở. Sau đó hoặc gặp người chỉ cho, hoặc nhìn quanh mà tìm được. Suy cùng sự lý như thế, mở miệng, ngậm miệng, nói nín, động tịnh đâu ngại gì đến nghi tình? Lại cùng với người học suy ngẫm đến cội nguồn của bệnh ấy, hoặc là do ăn no, gánh nặng, hoặc là do leo núi, chạy bộ. Bốn việc này là đầu mối để sinh bệnh, bốn việc này làm hơi thở ngưng trệ. Nếu không mở miệng phát ra tiếng đề cử thoại đầu, khí sẽ uất kết trong ngực, làm tổn thương thân tâm, chướng ngại nghi tình. Như thế, vọng cho là do tọa thiền sanh bệnh, há chẳng phải là oan lắm sao?
 
 ## 11. Thượng căn khí môn (Căn khí bậc thượng)
 
@@ -160,7 +159,7 @@ Gạn hỏi nguyên do, anh ta cho rằng thiện hữu tri thức không bảo 
 
 Nay nói kỹ cương trong tòng lâm là việc tĩnh lặng ngồi thiền. Xưa nay, Phật pháp hưng thạnh, tùng lâm phát triển, trời rồng ủng hộ, thí chủ quy ·ngưỡng, vật dụng đủ đầy, thường trụ sung túc, nơi nơi tọa thiền thâu chúng, người người mộ đạo chuyên tu, hoặc năm ba trăm Tăng, hoặc một hai nghìn chúng. Hai chủ Đông, Tây[^15] lo toan liệu tính, trong ngoài nhất như, trải tâm như đất. Mỗi mỗi xem nhân biết quả, người người thấy đạo sáng tâm. Ba đức, sáu vị [^16], tứ sự, bảy báu gồm đủ không thiếu. Cho nên trong Tăng đường, bồ-tát học Bát-nhã, hai bàn tay không đụng đến nước, trăm việc chẳng để lòng. Ngoài hai thời cháo cơm ra, thì chuyên tâm nơi đạo. Bậc thượng căn chẳng lìa chỗ ngồi, chỉ một lòng tham cứu Nhứt thừa, ngày đêm tỉnh táo gìn giữ chính quán, mai sau phát minh việc lớn[^17], thành bậc đại pháp khí, thâu nhân kết quả làm bậc Tông tượng [^18]trong chốn tùng lâm, mở ra lò rèn lớn để tôi luyện người học.
 
-Hạ thủ công phu, trước tiên bước lên thiền sàng, uy nghi cốt ở tinh thành, nên ngồi kiết già ngay ngắn, mắt nhìn thẳng vào mũi, mũi thẳng với rốn, răng khít, nắm hai tay, đợi hơi thở điều hòa mới đề khởi câu thoại đầu: “Vị tăng hỏi ngài Triệu Châu: Con chó có Phật tánh không? Ngài Triệu Châu đáp: “Không”; không cần động miệng lưỡi, lặng lẽ tham cứu, lấy sự chứng ngộ làm kỳ hạn. Đây là nói về nghi thức tọa thiền trong tùng lâm để· mọi người đều biết.
+Hạ thủ công phu, trước tiên bước lên thiền sàng, uy nghi cốt ở tinh thành, nên ngồi kiết già ngay ngắn, mắt nhìn thẳng vào mũi, mũi thẳng với rốn, răng khít, nắm hai tay, đợi hơi thở điều hòa mới đề khởi câu thoại đầu: “Vị tăng ❓ ngài Triệu Châu: Con chó có Phật tánh không? Ngài Triệu Châu 📢: “Không”; không cần động miệng lưỡi, lặng lẽ tham cứu, lấy sự chứng ngộ làm kỳ hạn. Đây là nói về nghi thức tọa thiền trong tùng lâm để· mọi người đều biết.
 
 ## 13. U cư chính mạch môn (Ẩn cư nơi chính mạch)
 
@@ -176,7 +175,7 @@ Nếu bàn về việc này, không phải ở chỗ ngồi thiền im lặng, k
 
 ## 16. Quy nguyên thật tế môn (Trở về nguồn thật tế)
 
-Phần trên đã trình bày không phải là bản ý của tôi, bởi nghiên cứu tất cả Thánh điển, xem đọc các loại sách vở, nêu việc xưa, chứng nghiệm việc nay, cộng với việc thấy nghe chính xác mới thấy phần nhiều bốn chúng đều dụng tâm sai khác, kiến giải thiên lệch, tà chính không biết, đúng sai chẳng phân. Than ôi! Sinh nhằm đời mạt pháp, cách Phật rất xa, không hiểu trước mắt vạn duyên sai biệt. Do đó chỉ riêng người thực hành công phu, tuy tham câu thoại đầu khác nhau, nhưng chỗ dụng tâm khởi nghi không khác, tất cả thoại đầu cần nên khởi nghi. Thế nên cổ đức nói: “Không nghi, không ngộ”, trước kia đã chẳng nói như thế sao? Chưa ai không nghi mà thành tựu được việc lớn. Vì thế cần đầy đủ chính tri kiến để chẳng bao giờ rơi vào trong hang ổ chồn hoang, mất đi một đời. Đâu chỉ dừng lại một đời mà đến trăm nghìn vạn đời, chủng tử bồ-đề cũng không nảy nầm. Chúng ta ở địa vị người học không nỡ thấy nghe việc này. Giữa hai đường, nên quyết nghi trừ mê hoặc, trước nên đem những lời cảnh chúng, những cơ duyên thí dụ trong kinh giáo và ngữ lục của Phật, tổ cùng chỗ tôi thực hành công phu đắc lực, mỗi mỗi đều đưa ra cho người học đời sau thấy. Như ngay một lời, tâm địa khai thông; nơi một câu, tánh thiên[^27] bừng sáng, mới không phụ chí nguyện tham học một đời. Nếu tâm địa không mở thì tánh thiên không sáng chói, mỗi mỗi nắm chặt đầu dây, rồi như con mèo vọt thẳng. Bỗng nhiên như lại gặp bạn lành chỉ ra nhân trước. Ngay một niệm khế hợp, ngày tiêu muôn lượng vàng ròng. Ngay lúc đó, ba ác đạo đồng chứng Bồ-đề, bốn ân trọng cùng lúc đền đáp.
+Phần trên đã trình bày không phải là bản ý của tôi, bởi nghiên cứu tất cả Thánh điển, xem đọc các loại sách vở, nêu việc xưa, chứng nghiệm việc nay, cộng với việc thấy nghe chính xác mới thấy phần nhiều bốn chúng đều dụng tâm sai khác, kiến giải thiên lệch, tà chính không biết, đúng sai chẳng phân. Than ôi! Sinh nhằm đời mạt pháp, cách Phật rất xa, không hiểu trước mắt vạn duyên sai biệt. Do đó chỉ riêng người thực hành công phu, tuy tham câu thoại đầu khác nhau, nhưng chỗ dụng tâm khởi nghi không khác, tất cả thoại đầu cần nên khởi nghi. Thế nên cổ đức nói: “Không nghi, không ngộ”, trước kia đã chẳng nói như thế sao? Chưa ai không nghi mà thành tựu được việc lớn. Vì thế cần đầy đủ chính tri kiến để chẳng bao giờ rơi vào trong hang ổ chồn hoang, mất đi một đời. Đâu chỉ dừng lại một đời mà đến trăm nghìn vạn đời, chủng tử bồ-đề cũng không nảy nầm. Chúng ta ở địa vị người học không nỡ thấy nghe việc này. Giữa hai đường, nên quyết nghi trừ mê hoặc, trước nên đem những lời cảnh chúng, những cơ duyên thí dụ trong kinh giáo và ngữ lục của Phật, tổ cùng chỗ tôi thực hành công phu đắc lực, mỗi mỗi đều đưa ra cho người học đời sau thấy. Như ngay một lời, tâm địa khai thông; nơi một câu, tánh thiên[^27] bừng sáng, mới không phụ chí nguyện tham học một đời. Nếu tâm địa không mở thì tánh thiên không sáng chói, mỗi mỗi nắm chặt đầu dây, rồi như con mèo vọt thẳng. Bỗng nhiên như lại gặp bạn lành chỉ ra nhân trước. Ngay một niệm khế hợp, ngày tiêu muôn lượng vàng ròng. Ngay lúc đó, ba ác đạo đồng chứng Bồ-đề, bốn ân trọng cùng lúc đền 📢.
 
 Trí Triệt tôi cũng chỉ là đồng học, mong các bậc trí quan tâm dìu dắt. Thệ rằng ở đời sau ở chỗ nào cũng đồng là bạn pháp.
 
@@ -204,7 +203,7 @@ Thế nào là căn bản? Năm giới là căn bản. Thế nào là đầu cu�
 
 2/ Phải biết thứ bậc cao thấp, quí tiện trong phố phường, hàng xóm; khiêm nhường, nhân từ, trên dưới hòa kính.
 
-Đây là tấm lòng người con hiếu thuận đối với cha mẹ. Người đời thường nói đến hai chữ hiếu thuận này, mà không biết lý đó rất ưu việt, rất rộng lớn. Đối với thân thì cung cấp ăn uống, y phục, giường chiếu, thuốc men, còn đối với tâm thì phải kính trọng, phụng dưỡng, hầu hạ, đó là hiếu. Thuận là tùy thuận nét mặt và ý thích hợp lý của cha mẹ, làm những việc không trái ý cha mẹ. Nếu có tâm hiếu thuận như thế, thì trên dưới hòa kính và cha mẹ an lòng. Đây là đạo hiếu kính tốt đẹp ở thế gian, cũng đâu có khác lẽ trời? Nếu lại thêm trì trai, giữ giới, niệm Phật, tham thiền, cầu pháp Đại thừa để liễu sinh thoát tử, thì thật là đại hiếu, đại thiện, thuộc về đạo xuất thế gian. Bốn ân đã báo đáp, ba cõi đã cứu giúp thì lo gì không báo đáp công ơn cha mẹ một đời sao? Dưới đây giải thích năm giới phối hợp với năm thường. (Ngũ thường của Nho giáo)
+Đây là tấm lòng người con hiếu thuận đối với cha mẹ. Người đời thường nói đến hai chữ hiếu thuận này, mà không biết lý đó rất ưu việt, rất rộng lớn. Đối với thân thì cung cấp ăn uống, y phục, giường chiếu, thuốc men, còn đối với tâm thì phải kính trọng, phụng dưỡng, hầu hạ, đó là hiếu. Thuận là tùy thuận nét mặt và ý thích hợp lý của cha mẹ, làm những việc không trái ý cha mẹ. Nếu có tâm hiếu thuận như thế, thì trên dưới hòa kính và cha mẹ an lòng. Đây là đạo hiếu kính tốt đẹp ở thế gian, cũng đâu có khác lẽ trời? Nếu lại thêm trì trai, giữ giới, niệm Phật, tham thiền, cầu pháp Đại thừa để liễu sinh thoát tử, thì thật là đại hiếu, đại thiện, thuộc về đạo xuất thế gian. Bốn ân đã báo 📢, ba cõi đã cứu giúp thì lo gì không báo 📢 công ơn cha mẹ một đời sao? Dưới đây giải thích năm giới phối hợp với năm thường. (Ngũ thường của Nho giáo)
 
 1/ Không sát sinh nên gọi là nhân
 
@@ -275,13 +274,13 @@ Quy y tất cả hiền thánh tăng trong vi trần cõi nước ở khắp mư
 
 Cúi xin Tam bảo chẳng bỏ lòng từ, xót thương giáng lâm chứng minh sám hối.
 
-Con tên ….. từ vô thỉ cho đến ngày nay, nghiệp chướng nhiều đời, tội lỗi nhiều kiếp, ba độc vô minh, mười ác chướng nặng, tạo ra vô lượng vô biên tội ác, bất khả thuyết, bất khả thuyết, bất khả thuyết chuyển[^37]. Hôm nay, chúng con gội rửa thân tâm, đối trước mười phương các Đức Phật, các đại bồ-tát, Đại từ bi phụ linh cảm Quán Thế Âm bồ-tát, thánh chúng, năm vóc sát đất, tỏ bày sám hối, một lòng nương tựa, hằng hà sa tội diệt. (hai câu trên đây đọc lại ba lần.) Chỉ xin các Đức Phật, các đại bồ-tát dùng thiên nhãn thấy xa, thiên nhĩ nghe xa, và tha tâm nhanh chóng chiếu soi, gia hộ chúng con tu hành theo thứ tự, tiến đạo không ma chướng, sớm sáng tỏ trí bát-nhã, không lui sụt tâm Bồ-đề, sáu căn thanh tịnh, mọi lo lắng đều tiêu, một niệm vô vi, mười phương quét sạch, siêu việt ba cõi, sớm lên bờ giác, vượt thoát tứ sinh, mau đến Bồ-đề. Nếu đời nay chúng con duyên mỏng, đạo nghiệp chưa thành, thọ mạng ngắn ngũi, khi vô thường đến, nguyện nương theo lực bát-nhã, được chính niệm hiện tiền, tâm không điên đảo, theo nguyện vãng sinh cõi Phật. Sau đó đảnh lễ Phật, bồ-tát và được các Ngài đích thân dạy bảo, y theo nguyện tu hành, vẫn trở lại thế giới Ta-bà, sinh làm thân nam trong nhà trưởng giả, tu mười điều thiện, giàu có ở đô thị, không quên đời trước, chỉ mong cha mẹ không có tâm lưu luyến, cho con xuất gia. Tuổi nhỏ vào đạo, trí tuệ hơn người, sớm gặp minh sư, tham thiền học đạo, tinh thông giáo điển, thấu suốt kinh Phật, chỉ học Thượng thừa, chuyên ròng yếu chỉ, hoặc ngay một lời mà thấy suốt nhân nhiều kiếp. Hoặc trong một câu mà thấu triệt quả nhiều đời, sáng suốt tỏ rõ, đến đi tự· tại, tùy ý thác sinh cõi Phật, cõi trời, báo đáp bốn ân, cứu giúp ba cõi, pháp giới hữu tình đồng thành chủng trí. Xin chư Phật chứng minh, mười phương ba đời tất cả các Đức Phật, các vị bồ-tát ma-ha-tát, Ma-ha Bát-nhã ba-la-mật.
+Con tên ….. từ vô thỉ cho đến ngày nay, nghiệp chướng nhiều đời, tội lỗi nhiều kiếp, ba độc vô minh, mười ác chướng nặng, tạo ra vô lượng vô biên tội ác, bất khả thuyết, bất khả thuyết, bất khả thuyết chuyển[^37]. Hôm nay, chúng con gội rửa thân tâm, đối trước mười phương các Đức Phật, các đại bồ-tát, Đại từ bi phụ linh cảm Quán Thế Âm bồ-tát, thánh chúng, năm vóc sát đất, tỏ bày sám hối, một lòng nương tựa, hằng hà sa tội diệt. (hai câu trên đây đọc lại ba lần.) Chỉ xin các Đức Phật, các đại bồ-tát dùng thiên nhãn thấy xa, thiên nhĩ nghe xa, và tha tâm nhanh chóng chiếu soi, gia hộ chúng con tu hành theo thứ tự, tiến đạo không ma chướng, sớm sáng tỏ trí bát-nhã, không lui sụt tâm Bồ-đề, sáu căn thanh tịnh, mọi lo lắng đều tiêu, một niệm vô vi, mười phương quét sạch, siêu việt ba cõi, sớm lên bờ giác, vượt thoát tứ sinh, mau đến Bồ-đề. Nếu đời nay chúng con duyên mỏng, đạo nghiệp chưa thành, thọ mạng ngắn ngũi, khi vô thường đến, nguyện nương theo lực bát-nhã, được chính niệm hiện tiền, tâm không điên đảo, theo nguyện vãng sinh cõi Phật. Sau đó đảnh lễ Phật, bồ-tát và được các Ngài đích thân dạy bảo, y theo nguyện tu hành, vẫn trở lại thế giới Ta-bà, sinh làm thân nam trong nhà trưởng giả, tu mười điều thiện, giàu có ở đô thị, không quên đời trước, chỉ mong cha mẹ không có tâm lưu luyến, cho con xuất gia. Tuổi nhỏ vào đạo, trí tuệ hơn người, sớm gặp minh sư, tham thiền học đạo, tinh thông giáo điển, thấu suốt kinh Phật, chỉ học Thượng thừa, chuyên ròng yếu chỉ, hoặc ngay một lời mà thấy suốt nhân nhiều kiếp. Hoặc trong một câu mà thấu triệt quả nhiều đời, sáng suốt tỏ rõ, đến đi tự· tại, tùy ý thác sinh cõi Phật, cõi trời, báo 📢 bốn ân, cứu giúp ba cõi, pháp giới hữu tình đồng thành chủng trí. Xin chư Phật chứng minh, mười phương ba đời tất cả các Đức Phật, các vị bồ-tát ma-ha-tát, Ma-ha Bát-nhã ba-la-mật.
 
 Tôi nêu những việc thông thường để hướng dẫn hàng sơ cơ, kính nhờ những bậc cao minh trình bày lại cho đàn hậu học. Thẹn vì ngôn từ nhiều mà nghĩa lý còn chưa tỏ, thành thật kính mong các thiện hữu đính chính để người thấy nghe tùy hỉ, đều bước lên thuyền từ bát-nhã, khen ngợi tán dương, cùng chứng Bồ-đề.
 
 ## 20. Ức tích xuất trần thừa huynh cảnh giới (Nhớ xưa xuất trần nhận lời dạy của người anh)
 
-Từ năm Ất Hợi niên hiệu Nguyên Thống thứ ba (1335), Trí Triệt tôi đã thọ năm giới tại gia, đến tháng 5 năm Canh Thìn (1340) vào chùa, mùng 8 tháng 12 xuống tóc làm tăng, đảnh lễ cầu hòa thượng Vân Phong làm thầy. Ngày rời nhà, nhận lời dặn dò ân cần của người anh kế là cư sĩ Lê Thập: “Việc xuất gia chẳng phải là nhân duyên nhỏ, là việc nhập thánh siêu phàm, nối tiếp huệ mạng chư Phật. Đây là việc của bậc đại trượng phu, nên phải gắng sức làm. Nay em đã dám xa lìa cha mẹ anh em, vứt bỏ vợ con gia nghiệp mà lại không nghe Cổ đức nói: “Một người xuất gia, chín đời[^38] được sinh thiên” ư? Lời nói này nhất định là thật. Đã là thật mà anh thấy trước mắt biết bao nhiêu người xuất gia, tất cả việc làm của họ đều chỉ mong muốn chín đời sinh thiên thì nhất định không thể được! Em đã xuất gia phải nên lập chí, chớ giống những vị tăng tầm thường, tâm ý dong ruổi, chạy đông, chạy tây, cầu danh trục lợi, luống uổng thời gian; cũng chớ tranh nhân-ngã, bàn luận phải trái, không khen mình chê người. Khi bị đánh thì đương đầu nhẫn chịu, bị nhổ nước bọt lên mặt thì không cần lau chùi (bị sỉ nhục không cần giải bày); chớ buông lung ngủ nghỉ, chớ tham cầu uống ăn, việc đời nhiều thứ không thể kể xiết. Rời khỏi nhà đi bước đầu tiên, nhấc chân, đặt chân, đi, đứng, ngồi, nằm đều phải nhớ kỹ câu thoại đầu. Nếu quên câu thoại đầu thì cô phụ sự che chở của quốc vương, đất nước và cô phụ thí chủ đã cung cấp tứ sự: ăn uống, quần áo, mền chiếu, thuốc men. Giữ thoại đầu này, cùng sống cùng chết với nó, phát chí nguyện lớn, chỉ nên hiểu một đại sự nhân duyên này mới không phụ chí nguyện xuất gia tham học của em. Cho nên kinh nói: ‘Báo đáp hết bốn ân, cứu giúp thảy ba cõi, lo gì không báo đáp ân cha mẹ hiện tại và chín đời?’. Đã ở trong cõi khổ nhiều, vui ít, dù có sở đắc, hoặc không sở đắc, cũng phải giữ gìn thoại đầu. Nếu có chỗ nhập môn an lạc thì nhất định trở về chỉ dạy quyến thuộc”.
+Từ năm Ất Hợi niên hiệu Nguyên Thống thứ ba (1335), Trí Triệt tôi đã thọ năm giới tại gia, đến tháng 5 năm Canh Thìn (1340) vào chùa, mùng 8 tháng 12 xuống tóc làm tăng, đảnh lễ cầu hòa thượng Vân Phong làm thầy. Ngày rời nhà, nhận lời dặn dò ân cần của người anh kế là cư sĩ Lê Thập: “Việc xuất gia chẳng phải là nhân duyên nhỏ, là việc nhập thánh siêu phàm, nối tiếp huệ mạng chư Phật. Đây là việc của bậc đại trượng phu, nên phải gắng sức làm. Nay em đã dám xa lìa cha mẹ anh em, vứt bỏ vợ con gia nghiệp mà lại không nghe Cổ đức nói: “Một người xuất gia, chín đời[^38] được sinh thiên” ư? Lời nói này nhất định là thật. Đã là thật mà anh thấy trước mắt biết bao nhiêu người xuất gia, tất cả việc làm của họ đều chỉ mong muốn chín đời sinh thiên thì nhất định không thể được! Em đã xuất gia phải nên lập chí, chớ giống những vị tăng tầm thường, tâm ý dong ruổi, chạy đông, chạy tây, cầu danh trục lợi, luống uổng thời gian; cũng chớ tranh nhân-ngã, bàn luận phải trái, không khen mình chê người. Khi bị đánh thì đương đầu nhẫn chịu, bị nhổ nước bọt lên mặt thì không cần lau chùi (bị sỉ nhục không cần giải bày); chớ buông lung ngủ nghỉ, chớ tham cầu uống ăn, việc đời nhiều thứ không thể kể xiết. Rời khỏi nhà đi bước đầu tiên, nhấc chân, đặt chân, đi, đứng, ngồi, nằm đều phải nhớ kỹ câu thoại đầu. Nếu quên câu thoại đầu thì cô phụ sự che chở của quốc vương, đất nước và cô phụ thí chủ đã cung cấp tứ sự: ăn uống, quần áo, mền chiếu, thuốc men. Giữ thoại đầu này, cùng sống cùng chết với nó, phát chí nguyện lớn, chỉ nên hiểu một đại sự nhân duyên này mới không phụ chí nguyện xuất gia tham học của em. Cho nên kinh nói: ‘Báo 📢 hết bốn ân, cứu giúp thảy ba cõi, lo gì không báo 📢 ân cha mẹ hiện tại và chín đời?’. Đã ở trong cõi khổ nhiều, vui ít, dù có sở đắc, hoặc không sở đắc, cũng phải giữ gìn thoại đầu. Nếu có chỗ nhập môn an lạc thì nhất định trở về chỉ dạy quyến thuộc”.
 
 Trí Triệt tôi mặc nhiên tiếp thu lời dạy trên. Vừa ra khỏi cửa vài bước thì cư sĩ vẫy tay nói: “Một trở về đâu?”. Tôi quay đầu chắp tay bái tạ, thầm nhận rồi đi. Tôi khắc cốt ghi tâm, đến nay không dám quên. Những lời dặn dò việc đời, răn nhắc công phu, chi tiết từng điều có thứ tự, nếu ghi chép hết lời nhỏ nhặt ra thì rất nhiều. Ở đây, lược ghi vào cuối sách này vậy.
 
@@ -295,9 +294,9 @@ Tôi trả lời: “Từ xưa đến nay có rất nhiều pháp ngữ dạy ch
 
 Thủ tọa nói tiếp: “Người học bây giờ, có kẻ thích nghe nhiều, có kẻ căn tánh chậm lụt, xem những lời răn dạy của bậc tôn túc xưa kia mà cho rằng: “Sức trí tuệ của bậc thiện tri thức ấy có gốc rễ sâu dày, mới vào đạo không cần gia công, chỉ vừa nghe liền liễu ngộ. Căn cơ nông cạn như chúng ta không thể làm được. Ngày nay, chúng ta hãy gieo hạt giống bát-nhã, đợi kết quả ở đời sau”. Văn Mẫn tôi thấy rất nhiều người nói như thế, thật đáng thương cho họ đã tự sinh tâm thoái lui. Nếu đem chỗ công phu miên mật trước kia của Hòa thượng trình bày qua một lần cho người thấy nghe, nhất định họ sẽ khai phát tín tâm, rồi như thế mà dụng công, tinh tấn và đạt đến rốt ráo. Nếu như trong tứ chúng ở đời sau, mỗi người có chứng đắc, liễu sinh thoát tử thì ân đó chẳng lớn sao?”. Tuy Thủ tọa hết lòng vì người học, nhưng tôi thật chưa dám gánh vác.
 
-Hôm sau, thời cháo sáng xong, tôi lên phương trượng của hòa thượng Cổ Đạo thăm hỏi. Hòa thượng và tôi đã 17 năm thâm tình. Nhân đó, tôi nêu ra những việc thủ tọa Độn Cơ đã nói. Hòa thượng cũng cho rằng: “Phật pháp đang đứng bên bờ nguy khốn, nên việc này sẽ là khuôn mẫu cho hàng sơ cơ học đạo”.
+Hôm sau, thời cháo sáng xong, tôi lên phương trượng của hòa thượng Cổ Đạo thăm ❓. Hòa thượng và tôi đã 17 năm thâm tình. Nhân đó, tôi nêu ra những việc thủ tọa Độn Cơ đã nói. Hòa thượng cũng cho rằng: “Phật pháp đang đứng bên bờ nguy khốn, nên việc này sẽ là khuôn mẫu cho hàng sơ cơ học đạo”.
 
-Tôi liền đáp: “Người tự cứu mình chưa được thì làm sao có thể cứu người khác. Kinh có ghi rõ: Bản thân mình không tinh tấn thì làm sao khuyên người khác tinh tấn được”.
+Tôi liền 📢: “Người tự cứu mình chưa được thì làm sao có thể cứu người khác. Kinh có ghi rõ: Bản thân mình không tinh tấn thì làm sao khuyên người khác tinh tấn được”.
 
 Hòa thượng lại nói: “Trong kinh cũng nói: “Mình chưa độ mà độ người là bồ-tát phát tâm”. Bậc tiên nho cũng nói: “Đâu nỡ ngồi yên nhìn hơn thua, thấy nghiêng mà không giữ, ngã mà không· đỡ”.
 
@@ -313,9 +312,9 @@ Tôi thấy đa số người học nghe nói đến cảnh giới là có, thì
 
 Nếu công phu có một ít thâm nhập, biết được cái sáng tỏ mầu nhiệm thường hiện trước mắt, chạm nó cũng không tan, quét nó cũng không mất, lại cũng không nên chấp trước. Nếu ông chấp bóng dáng thần thức này là sự thật, thì bị nó dẫn vào trong tình kiến, khởi tâm cống cao, ngã mạn, không thể tiến lên, mở to miệng luôn oang oang nói càn bát-nhã, nói Phật cũng chỉ như thế, tổ cũng chỉ như thế! Lại dẫn kinh nói: Pháp ấy bình đẳng, nhất ấn ấn định”. Rồi nói: “Người đại ngộ không chấp những việc nhỏ nhặt. Đạt đến đây thì không có giới để giữ, cũng không có giới để phá”, rồi cho đó là cảnh giới Đại thừa mà không hiểu, không biết mình đang rơi vào quyến thuộc của ma, tự lầm và làm cho người lầm, không đáng thương xót sao? Kinh nói: “Người như thế dù có nhiều thiền định, trí tuệ nhất định cũng rơi vào ma đạo, thượng phẩm làm ma vương, trung phẩm làm dân ma, hạ phẩm làm ma nữ”. Người học rất kỵ điều này, không thể cho một chút sở ngộ của mình là đủ. Thận trọng, thận trọng!
 
-Trong bốn chúng hậu học, nếu có người tỏ ngộ, xin xem trong Thiền yếu của hòa thượng Cao Phong. Trong đó có đoạn hòa thượng Tuyết Nham hỏi hòa thượng Cao Phong làm chủ được chăng? Hỏi đến lần thứ ba thì cần phải suy xét lại kỹ càng. Nếu không vượt qua chỗ ấy thì hãy buông bỏ chỗ tỏ ngộ ấy đi, rồi đem chỗ nghi của Hòa thượng để mọi người cũng nghi (chỗ này không cần ghi lại, trong Tịnh độ huyền văn đã có ghi chép). Công phu đến đây cần phải giữ gìn. Cho nên nói: “Tùy duyên tiêu nghiệp cũ, không nên tạo nghiệp mới”. Nếu như trời lại ấm áp, vạn loại đều sinh trưởng, ân đức thấm nhuần thì công phu không uổng phí.
+Trong bốn chúng hậu học, nếu có người tỏ ngộ, xin xem trong Thiền yếu của hòa thượng Cao Phong. Trong đó có đoạn hòa thượng Tuyết Nham ❓ hòa thượng Cao Phong làm chủ được chăng? ❓ đến lần thứ ba thì cần phải suy xét lại kỹ càng. Nếu không vượt qua chỗ ấy thì hãy buông bỏ chỗ tỏ ngộ ấy đi, rồi đem chỗ nghi của Hòa thượng để mọi người cũng nghi (chỗ này không cần ghi lại, trong Tịnh độ huyền văn đã có ghi chép). Công phu đến đây cần phải giữ gìn. Cho nên nói: “Tùy duyên tiêu nghiệp cũ, không nên tạo nghiệp mới”. Nếu như trời lại ấm áp, vạn loại đều sinh trưởng, ân đức thấm nhuần thì công phu không uổng phí.
 
-Trên đã nói các việc trong lúc thực hành công phu, trộm lấy những điều quan trọng trong kinh giáo và ngữ lục làm chứng cứ cho người học. Những việc này vốn chẳng phải của tôi, tôi chỉ được Thủy mẫu thiền[^43], liền cùng với những người đồng đạo nắm tay mà đi, tham cứu con đường xuất thân, vừa có chỗ không tương ưng thì nhất định chẳng dám bỏ qua. Cho nên Tử Cống hỏi về đạo bạn bè, Khổng Tử đáp rằng: “Chân thành khuyên bảo rồi khéo léo chỉ bày cho bạn”. Tôi không tiếc lời với những người bạn chân chính, thôi thúc khiến họ tiến đến trước, không được chần chừ. Nếu người có lòng tin cạn cợt, thật khó ở chung, lại muốn luận bàn về chỗ không thấu hiểu của bậc tiền bối thì hãy truy xét tận cùng gốc rễ. Vì sao? Vì cha mà không có người con thành thật can ngăn thì gia đạo bị suy? Nên tôi ôm nhiều nỗi bất bình cho tăng và tục. Mỗi khi gặp người nói và làm không hợp lẽ đạo, tôi thẳng thừng phân tích cho họ nghe đến chỗ rõ ràng thì mới vừa lòng.
+Trên đã nói các việc trong lúc thực hành công phu, trộm lấy những điều quan trọng trong kinh giáo và ngữ lục làm chứng cứ cho người học. Những việc này vốn chẳng phải của tôi, tôi chỉ được Thủy mẫu thiền[^43], liền cùng với những người đồng đạo nắm tay mà đi, tham cứu con đường xuất thân, vừa có chỗ không tương ưng thì nhất định chẳng dám bỏ qua. Cho nên Tử Cống ❓ về đạo bạn bè, Khổng Tử 📢 rằng: “Chân thành khuyên bảo rồi khéo léo chỉ bày cho bạn”. Tôi không tiếc lời với những người bạn chân chính, thôi thúc khiến họ tiến đến trước, không được chần chừ. Nếu người có lòng tin cạn cợt, thật khó ở chung, lại muốn luận bàn về chỗ không thấu hiểu của bậc tiền bối thì hãy truy xét tận cùng gốc rễ. Vì sao? Vì cha mà không có người con thành thật can ngăn thì gia đạo bị suy? Nên tôi ôm nhiều nỗi bất bình cho tăng và tục. Mỗi khi gặp người nói và làm không hợp lẽ đạo, tôi thẳng thừng phân tích cho họ nghe đến chỗ rõ ràng thì mới vừa lòng.
 
 Đến như phần mình, công phu rơi vào chỗ mơ mơ màng màng, đạo lực chưa thành tựu. Bỗng nhiên, thời gian trôi qua nhanh, già bệnh thôi thúc, mới tự gắng công thì ngày chết đã gần. Than ôi! Chỉ xin người đồng học, ai nấy đều mến đạo, mỗi mỗi đạt đến lẽ huyền, tỏ ngộ bản tâm, thề đời đời làm pháp lữ.
 
@@ -335,37 +334,37 @@ Các bậc cổ đức đi hành cước [^45], khi nghe một nhân duyên [^46
 
 Xét ra những bậc cổ đức từ xưa đến nay, hành cước không phải để du sơn, ngoạn thủy; không phải để ngắm những cảnh xa hoa ở đô thị; không phải vì miếng cơm, manh áo mà đều vì chưa tỏ ngộ tâm Thánh.
 
-Sở dĩ họ dong ruổi hành cước là vì giải quyết những chỗ sâu kín, xiển dương giáo pháp, thưa hỏi bậc tiền bối, gần gũi bậc cao đức; vì giữ gìn đèn Phật tâm, nối tiếp giống Phật tổ, hưng thịnh giòng Thánh, tiếp dẫn người sau, tự lợi lợi người mà không quên hành nghi của chư tổ. Như ngày nay có ai thương lượng chăng? Nếu có, hãy bước ra cùng đại chúng thương lượng!
+Sở dĩ họ dong ruổi hành cước là vì giải quyết những chỗ sâu kín, xiển dương giáo pháp, thưa ❓ bậc tiền bối, gần gũi bậc cao đức; vì giữ gìn đèn Phật tâm, nối tiếp giống Phật tổ, hưng thịnh giòng Thánh, tiếp dẫn người sau, tự lợi lợi người mà không quên hành nghi của chư tổ. Như ngày nay có ai thương lượng chăng? Nếu có, hãy bước ra cùng đại chúng thương lượng!
 
-Vị tăng hỏi: Thế nào là câu tiếp dẫn người sơ cơ?
+Vị tăng ❓: Thế nào là câu tiếp dẫn người sơ cơ?
 
-Đáp: Ông là vị tăng hành cước.
+📣: Ông là vị tăng hành cước.
 
-Lại hỏi: Thế nào là câu phân biệt nạp tăng?
+❓: Thế nào là câu phân biệt nạp tăng?
 
-Đáp: Mặt trời mọc ở hướng tây vào giờ mão.
+📣: Mặt trời mọc ở hướng tây vào giờ mão.
 
-Hỏi tiếp: Thế nào là câu Chính lệnh hành [^48]?
+❓ tiếp: Thế nào là câu Chính lệnh hành [^48]?
 
-Đáp: Nghìn dặm mang đến để trình mặt mũi xưa nay.
+📣: Nghìn dặm mang đến để trình mặt mũi xưa nay.
 
-Hỏi: Thế nào là câu thành lập trời đất?
+❓: Thế nào là câu thành lập trời đất?
 
-Đáp: Lúa Bắc-cu-lô châu, người ăn thì không giận cũng không vui.
+📣: Lúa Bắc-cu-lô châu, người ăn thì không giận cũng không vui.
 
 Sư nói: Chỉ đem bốn chuyển ngữ [^49] này mà nghiệm nạp tăng trong thiên hạ. Cho nên, vừa thấy ông đưa ra thì đã biết rồi.
 
-Tăng hỏi: Thế nào là chỗ dụng công của người học?
+Tăng ❓: Thế nào là chỗ dụng công của người học?
 
-Đáp: Gia Châu đánh pho tượng lớn.
+📣: Gia Châu đánh pho tượng lớn.
 
-Hỏi: Thế nào là chỗ chuyển thân của người học?
+❓: Thế nào là chỗ chuyển thân của người học?
 
-Đáp: Thiểm Phủ tắm trâu sắt.
+📣: Thiểm Phủ tắm trâu sắt.
 
-Hỏi: Thế nào là chỗ thân thiết của người học?
+❓: Thế nào là chỗ thân thiết của người học?
 
-Đáp: Tây Hà vờn sư tử.
+📣: Tây Hà vờn sư tử.
 
 Sư nói: Nếu người nào lãnh hội ba câu này thì đã phân biệt được Tam huyền. Lại còn có Tam yếu, cần phải biết rõ, không nên bỏ qua. Sư tụng kệ:
 
@@ -385,47 +384,49 @@ Chỉ cần lãnh hội được ý chỉ của người xưa thì tự tâm sá
 
 Do đó ngài Nam Tuyền nói: “Vương lão sư [^52] hơn 80 tuổi mới hiểu kế sống”
 
-Tăng hỏi tiếp: Người xưa 80 tuổi mới hiểu kế sống, nhưng chưa biết tạo kế sống gì?
+Tăng ❓ tiếp: Người xưa 80 tuổi mới hiểu kế sống, nhưng chưa biết tạo kế sống gì?
 
-Đáp: Hai con trâu đực, hai sừng không cong.
+📣: Hai con trâu đực, hai sừng không cong.
 
 Lại nói: Nếu muốn tỏ ngộ việc này, chỉ cần đạt chỉ thú Tam huyền, lúc ấy thọ dụng tự tại, nhà mình khóai lạc, sung sướng một đời.
 
 Bậc đại trượng phu chớ tự cô phụ, gặp việc không thông, không ích lợi gì cho người. Ta nói cho ông và mọi người nghe:
 
-### Huyền thứ nhất:
+1️⃣ **Huyền thứ I**
 
-Pháp giới rộng vô biên,
+> Pháp giới rộng vô biên,
+>
+> Sum la và vạn tượng
+>
+> Đều hiện đủ trong gương.
 
-Sum la và vạn tượng
+2️⃣ **Huyền thứ II**
 
-Đều hiện đủ trong gương.
+> Thích-ca ❓ A-nan,
+>
+> A-nan theo việc 📢,
+>
+> Bình bát thể vuông tròn.
 
-Huyền thứ hai:
+3️⃣ **Huyền thứ III**
 
-Thích-ca hỏi A-nan,
-
-A-nan theo việc đáp,
-
-Bình bát thể vuông tròn.
-
-Huyền thứ ba:
-
-Chỉ hiện trước vua xưa,
-
-Ngoài tứ cú bách phi [^53],
-
-Lư Thị [^54] hỏi Phong Can [^55].
+> Chỉ hiện trước vua xưa,
+>
+> Ngoài tứ cú bách phi [^53],
+>
+> Lư Thị [^54] ❓ Phong Can [^55].
 
 Sư nói: “Đây là bài tụng về Tam huyền. Còn thế nào là ý thú Tam huyền? Dầu cho ông phân biệt rõ ràng đi nữa, cùng chỉ hiểu một cách sai lầm, không căn cứ. Ta từng gần gũi hòa thượng và đã nghe dạy: “Ví như dùng lời hư dối, lừa gạt người khác, có ngày ăn gậy sắt, chớ bảo rằng ta không nói trước”.
 
 Lại nhân việc hái hoa cúc, Sư bảo chúng rằng: “Hoa vàng khắp đất, nhụy ngọc rợp trời, mặt trời trên không, càn khôn sáng rực, mây giăng làm mưa, lộ kết thành sương, không làm tổn vật, hại nghĩa. Thử nói một câu được không? Nếu nói không được, tức trong mắt có bụi, cần phải lấy ra mới được.” Do đó, ngài Phong Huyệt nói: “ Nếu lập một trần, đất nước hưng thịnh, kẻ quê mùa lo buồn. Không lập một trần, đất nước suy vong, kẻ quê mùa an vui”.
 
-Ngay đây tỏ ngộ thì xà-lê không có phần, toàn là phần của lão tăng. Ngay đây mà tỏ ngộ thì· lão tăng chính là xà-lê. Lão tăng với xà-lê cũng có thể khai ngộ người trong thiên hạ, cũng có thể che mắt người trong thiên hạ. Ông muốn biết lão tăng và xà-lê ở đâu chăng? Sư vỗ đùi nói rằng: “Đây là Xà-lê! Đây là lão tăng”. Lại hỏi các Thượng tọa: “Lão tăng và xà-lê giống hay khác. Nếu nói giống thì thượng tọa tự là thượng tọa, lão tăng tự là lão tăng. Nếu nói là khác, thì lão tăng chính là xà-lê”. Nếu ngay đây mà hiểu được thì trong một câu có Tam huyền, Tam yếu, Chủ khách rõ ràng, việc bình sinh giải quyết xong, hoàn tất việc tham cứu. Cho nên, Vĩnh Gia Huyền Giác nói: “Xương tan thịt nát cũng đền, thấu rõ được một câu, vượt tất cả”.
+Ngay đây tỏ ngộ thì xà-lê không có phần, toàn là phần của lão tăng. Ngay đây mà tỏ ngộ thì· lão tăng chính là xà-lê. Lão tăng với xà-lê cũng có thể khai ngộ người trong thiên hạ, cũng có thể che mắt người trong thiên hạ. Ông muốn biết lão tăng và xà-lê ở đâu chăng? Sư vỗ đùi nói rằng: “Đây là Xà-lê! Đây là lão tăng”. Lại ❓ các Thượng tọa: “Lão tăng và xà-lê giống hay khác. Nếu nói giống thì thượng tọa tự là thượng tọa, lão tăng tự là lão tăng. Nếu nói là khác, thì lão tăng chính là xà-lê”. Nếu ngay đây mà hiểu được thì trong một câu có Tam huyền, Tam yếu, Chủ khách rõ ràng, việc bình sinh giải quyết xong, hoàn tất việc tham cứu. Cho nên, Vĩnh Gia Huyền Giác nói: “Xương tan thịt nát cũng đền, thấu rõ được một câu, vượt tất cả”.
 
-Lại nói hai vị Thủ tọa ở hai nhà tăng, một hôm gặp nhau cùng hét. Vị Tăng hỏi Lâm Tế: “Có chủ, có khách không?” Đáp: “Chủ khách rõ ràng”. Sư làm kệ rằng:
+Lại nói hai vị Thủ tọa ở hai nhà tăng, một hôm gặp nhau cùng hét. Vị Tăng ❓ Lâm Tế: “Có chủ, có khách không?” 📣: “Chủ khách rõ ràng”. 
 
-Hai vị Thủ tọa đều tác gia
+Sư làm kệ rằng:
+
+> Hai vị Thủ tọa đều tác gia
 
 Trong đây đạo lý có phân ra.
 
@@ -459,13 +460,13 @@ Thế nào là Thập trí đồng chân? Ta nêu ra cho các thượng tọa [^
 
 Ngày nay, hầu hết các tùng lâm đều sợ pháp môn này, không muốn nghe. Vì sao phải nói đến? Chư phương [^64] chỉ thích những kiến giải bình thường, chấp chặt vào đó, không chịu buông, chỉ muốn truyền trao mà không tin có liễu ngộ. Giá như ngài Phần Dương sống lại, đích thân phân tích thì họ cũng cho là sai. Thuở xưa, ngài A-nan kinh hành vào ban đêm, nghe đồng tử tụng bài kệ:
 
-Nếu người sống trăm tuổi
-
-Không thấy được con hạc
-
-Chẳng bằng sống một ngày
-
-Mà được thấy con hạc.
+> Nếu người sống trăm tuổi
+>
+> Không thấy được con hạc
+>
+> Chẳng bằng sống một ngày
+>
+> Mà được thấy con hạc.
 
 A-nan liền dạy đồng tử nên đọc là: Thấy rõ Phật pháp chớ chẳng phải thấy được con hạc. Đồng tử trở về thưa với thầy của mình.
 
@@ -473,53 +474,53 @@ Thầy cười và nói: “A-nan già nên lú lẫn rồi, con phải xem lờ
 
 Khi ấy, cư sĩ Vô Tận than rằng: “Như vậy, chỉ thú này há chẳng phải là phương tiện sao?”. Ta liền làm kệ:
 
-Thập trí đồng chân toàn diện mục
+> Thập trí đồng chân toàn diện mục
+>
+> Trong đó nhất trí là cội nguồn
+>
+> Nếu như thấy được Phần Dương lão
+>
+> Bổ tách Tam huyền trở thành hai.
 
-Trong đó nhất trí là cội nguồn
+Lại ❓: “Bốn tân chủ [^65] cũng là pháp môn do Lâm Tế kiến lập ư?”
 
-Nếu như thấy được Phần Dương lão
-
-Bổ tách Tam huyền trở thành hai.
-
-Lại hỏi: “Bốn tân chủ [^65] cũng là pháp môn do Lâm Tế kiến lập ư?”
-
-Tôi đáp: “Đó là phương tiện mà chư Phật trong ba đời và các tổ sư đã dùng để dẹp bỏ những tình kiến[^66]phàm thánh, chẳng phải chỉ riêng Lâm Tế sử dụng, như ngài Long Sơn Bản diện kiến Mã Tổ. Một hôm, Thiền sư Động Sơn Lương Giới cùng đi du phương với Mật Sư Bá. Một hôm đi ngang qua Long Sơn ở Trường Sa, thấy suối khe, cây cỏ um tùm , Giới quay lại nhìn núi non chập chùng xanh thẳm, rồi nói với Mật rằng: “Trong đây chắc chắn có ẩn sĩ”, liền men theo suối, đi khoảng mười dặm thì gặp một vị tăng gầy ốm, chắp tay trước trán hỏi: “Nơi đây không có đường, các vị từ đâu đến?”.
+Tôi 📢: “Đó là phương tiện mà chư Phật trong ba đời và các tổ sư đã dùng để dẹp bỏ những tình kiến[^66]phàm thánh, chẳng phải chỉ riêng Lâm Tế sử dụng, như ngài Long Sơn Bản diện kiến Mã Tổ. Một hôm, Thiền sư Động Sơn Lương Giới cùng đi du phương với Mật Sư Bá. Một hôm đi ngang qua Long Sơn ở Trường Sa, thấy suối khe, cây cỏ um tùm , Giới quay lại nhìn núi non chập chùng xanh thẳm, rồi nói với Mật rằng: “Trong đây chắc chắn có ẩn sĩ”, liền men theo suối, đi khoảng mười dặm thì gặp một vị tăng gầy ốm, chắp tay trước trán ❓: “Nơi đây không có đường, các vị từ đâu đến?”.
 
 Giới nói: Hãy gác lại việc không có đường, Am chủ từ đâu vào?
 
-Đáp: Ta chưa hề du phương.
+📣: Ta chưa hề du phương.
 
-Giới hỏi: Am chủ ở đây bao lâu rồi?
+Giới ❓: Am chủ ở đây bao lâu rồi?
 
-Đáp: Không can hệ đến ngày tháng.
+📣: Không can hệ đến ngày tháng.
 
 Giới tiếp: Am chủ trụ ở đây trước hay núi này trụ trước?
 
-Đáp: Không biết.
+📣: Không biết.
 
 Giới gạn lại: Vì sao không biết?
 
-Đáp: Ta chẳng từng từ cõi trời người lại.
+📣: Ta chẳng từng từ cõi trời người lại.
 
-Giới hỏi: Được đạo lý gì mà trụ núi này?
+Giới ❓: Được đạo lý gì mà trụ núi này?
 
-Đáp: Ta thấy hai con trâu đất chọi nhau rồi chìm xuống biển[^67], mãi đến ngày nay không có tin tức.
+📣: Ta thấy hai con trâu đất chọi nhau rồi chìm xuống biển[^67], mãi đến ngày nay không có tin tức.
 
-Mật Sư Bá và Lương Giới đầy đủ oai nghi lễ bái rồi hỏi: Thế nào là khách trong chủ?
+Mật Sư Bá và Lương Giới đầy đủ oai nghi lễ bái rồi ❓: Thế nào là khách trong chủ?
 
-Đáp: Núi xanh mây trắng phủ
+📣: Núi xanh mây trắng phủ
 
-Lại hỏi: Thế nào là chủ trong chủ?
+Lại ❓: Thế nào là chủ trong chủ?
 
-Đáp: Lâu năm không ra khỏi cửa.
+📣: Lâu năm không ra khỏi cửa.
 
-Hỏi tiếp: Chủ khách xa nhau bao lâu?
+❓ tiếp: Chủ khách xa nhau bao lâu?
 
-Đáp: Sóng trên dòng Trường giang.
+📣: Sóng trên dòng Trường giang.
 
-Lại hỏi: Chủ khách gặp nhau có lời gì?
+Lại ❓: Chủ khách gặp nhau có lời gì?
 
-Đáp: Ban ngày gió mát thổi.
+📣: Ban ngày gió mát thổi.
 
 Giới đảnh lễ xin y chỉ. Lão tăng cười và nói:
 
@@ -533,17 +534,17 @@ Thế gian đàm luận chẳng tương quan.
 
 Ngay đó, Am chủ đốt am rồi đi vào trong núi sâu. Về sau Lương Giới trụ ở núi này.
 
-Giới hỏi vị tăng: Ai là chủ nhân ông của ngươi?
+Giới ❓ vị tăng: Ai là chủ nhân ông của ngươi?
 
-Đáp: Người đang trả lời đó!
+📣: Người đang trả lời đó!
 
 Giới ngửa mặt than thở: “Đây gọi là việc của kẻ tôi tớ, vì sao nhận là chính mình? Đây là điềm Phật pháp suy vi. Chủ trong khách còn chưa rõ, huống gì chủ trong chủ?”
 
-Tăng hỏi: Thế nào là chủ trong chủ?
+Tăng ❓: Thế nào là chủ trong chủ?
 
 Giới nói: Ngươi tự nói xem!
 
-Đáp: Nói được tức là chủ trong khách. Thế nào là chủ trong chủ?
+📣: Nói được tức là chủ trong khách. Thế nào là chủ trong chủ?
 
 Giới im lặng một lúc [^69] rồi nói: “Không ngại nói cho ngươi nghe, nhưng giữ cho tương tục cũng rất khó.
 
@@ -557,7 +558,7 @@ Một hôm trưởng lão Thượng Lam đến nói với Thế Anh rằng: “G
 
 Thế Anh cười, nói: “Sư có thể nghiệm xét việc đó chăng?”
 
-Thượng Lam đáp: Ừ.
+Thượng Lam 📢: Ừ.
 
 Cả hai ở lại một ngày rồi cùng nhau đến Sơ Sơn [^74], dùng cơm ở khách xá.
 
@@ -587,19 +588,19 @@ Hiện tiền tướng mạo có mảy may.
 
 Tôi nói với Thế Anh rằng: “Kệ này là giải thích tự nghĩa [^78]”.
 
-Thế Anh hỏi tôi: “Kinh Hoa nghiêm chép: “Vị tiên Tì-mục nắm tay Thiện Tài, lập tức Thiện Tài tự thấy thân mình trụ trong thế giới nhiều như số vi trần của mười cõi Phật, rồi đến chỗ chư Phật nhiều như số vi trần của mười cõi Phật, thấy cõi Phật và chúng hội ở đó, các Đức Phật có đủ tướng tốt trang nghiêm, như vậy trải qua số kiếp nhiều như vi trần của trăm nghìn ức bất khả thuyết cõi Phật.
+Thế Anh ❓ tôi: “Kinh Hoa nghiêm chép: “Vị tiên Tì-mục nắm tay Thiện Tài, lập tức Thiện Tài tự thấy thân mình trụ trong thế giới nhiều như số vi trần của mười cõi Phật, rồi đến chỗ chư Phật nhiều như số vi trần của mười cõi Phật, thấy cõi Phật và chúng hội ở đó, các Đức Phật có đủ tướng tốt trang nghiêm, như vậy trải qua số kiếp nhiều như vi trần của trăm nghìn ức bất khả thuyết cõi Phật.
 
 Đến khi vị tiên buông tay ra thì Thiện Tài lập tức thấy thân mình trở về chỗ cũ”. Ý nghĩa đoạn này giải thích thế nào?”
 
-Tôi đáp: “Đều là biểu tượng. Vừa mới nắm tay tức là lúc nhập vào phép quán, thấy mình và người không cách nhau mảy may, trước sau không lìa đương niệm.
+Tôi 📢: “Đều là biểu tượng. Vừa mới nắm tay tức là lúc nhập vào phép quán, thấy mình và người không cách nhau mảy may, trước sau không lìa đương niệm.
 
 Khi buông tay tức là lúc xuất định. Ngài Vĩnh Minh nói: “Cho nên biết, chẳng động bản vị mà các cõi xa gần rõ ràng. Một niệm chẳng rời mà thời gian dài ngắn đã xác thực”.
 
 Vì Thế Tôn lấy hoa sen làm thí dụ nên thế gian chẳng có ai biết, chỉ ta nhận biết: Khi hoa mới nở, trong đó đã có hạt, trong hạt đã có tim sen, trong nhân có quả, trong quả có nhân, ba đời đồng thời, hạt phân tán nhưng lại có thứ lớp, liên tục không gián đoạn, mười phương không cách nhau”.
 
-Lại hỏi: Kinh Pháp hoa chép: “Trước Đại chúng, Thế Tôn hiển hiện đại thần lực, xuất tướng lưỡi rộng dài lên đến cõi trời Phạm”, thật khó hiểu! Nhưng có người giải thích rằng: “Âm thinh Phật vi diệu, mọi nơi đều nghe, siêu việt thánh phàm thì tướng lưỡi của Phật rộng dài lên đến cõi trời Phạm Thế”. Lời giải thích này như thế nào ?
+Lại ❓: Kinh Pháp hoa chép: “Trước Đại chúng, Thế Tôn hiển hiện đại thần lực, xuất tướng lưỡi rộng dài lên đến cõi trời Phạm”, thật khó hiểu! Nhưng có người giải thích rằng: “Âm thinh Phật vi diệu, mọi nơi đều nghe, siêu việt thánh phàm thì tướng lưỡi của Phật rộng dài lên đến cõi trời Phạm Thế”. Lời giải thích này như thế nào ?
 
-Ta đáp: “Đây là hiểu trên ngôn ngữ, chẳng phải là ý của Thế Tôn”. Ngài Quy Sơn nói: “Ý phàm thánh bặt, thể lộ chân thường [^79]; lý sự chẳng hai, tức như như [^80] Phật”.
+Ta 📢: “Đây là hiểu trên ngôn ngữ, chẳng phải là ý của Thế Tôn”. Ngài Quy Sơn nói: “Ý phàm thánh bặt, thể lộ chân thường [^79]; lý sự chẳng hai, tức như như [^80] Phật”.
 
 Người học không thể hiểu ý vị sâu xa lời nói này, tạm chấp nhận theo suy đoán mà thôi. Thí như người mù sờ voi, tùy bộ phận được chạm biết mà cho là voi, cho nên đối với họ, con voi chỉ là đuôi, là chân, là lưng, là ngà mà toàn bộ con voi đã bị ẩn đi.
 
@@ -607,9 +608,9 @@ Kinh Bát-nhã ghi: “Vì không hai, không hai phần, không sai biệt, kh�
 
 Tướng lưỡi rộng dài đến cõi trời Phạm, đâu có thể dùng ý thức biết được? Ngài Huyền Tráng đến Tây Trúc gặp luận sư Giới Hiền, lúc đó Giới Hiền đã 106 tuổi, được mọi người kính ngưỡng tôn là Chính Pháp Tạng.
 
-Ngài Huyền Tráng cung kính làm lễ, đến bên luận sư, luận sư mời ngồi, rồi hỏi: “Từ đâu đến?” Đáp: “Từ Trung Quốc đến, muốn học các bộ luận như Du-già v.v”....
+Ngài Huyền Tráng cung kính làm lễ, đến bên luận sư, luận sư mời ngồi, rồi ❓: “Từ đâu đến?” 📣: “Từ Trung Quốc đến, muốn học các bộ luận như Du-già v.v”....
 
-Lúc đó luận sư rơi lệ gọi đệ tử là Giác Hiền đến và hỏi: “Cơn mộng trước đây của ta như thế nào?”
+Lúc đó luận sư rơi lệ gọi đệ tử là Giác Hiền đến và ❓: “Cơn mộng trước đây của ta như thế nào?”
 
 Vị đệ tử nói với ngài Huyền Tráng rằng: “Ba năm trước, hòa thượng bị cơn bịnh hiểm nghèo, đau đớn như người lấy dao rạch bụng. Hòa thượng định tuyệt thực đến chết.
 
@@ -626,6 +627,8 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 > (**HẾT**)
 
 <hr class="blog-rule" />
+
+### GHI CHÚ
 
 [^1]: Tây Thục: tỉnh Tứ Xuyên, Trung Quốc.
 
@@ -687,7 +690,7 @@ Theo: Hoa nghiêm kinh tùy sở diễn nghĩa sao 27, Đại Minh tam tạng ph
 
 [^6]:Bách Gia Chư Tử là các bậc hiền triết Trung Quốc như· ngài Trang Tử, Liệt Tử, Dương Tử, Mặc Tử, Hàn Phi Tử, Thận Tử, Hoài Nam Tử, Tuân Tử v.v....
 
-[^7]: Triệu Châu: thiền sư Trung Quốc, sống vào đời Đường, người ở làng Hách (có thuyết nói là Lâm Tri, Thanh Châu), họ Hác, pháp hiệu Tùng Thẩm. Sư xuất gia tại viện Hộ Tông ở Tào Châu (có thuyết nói viện Long Hưng ở Thanh Châu). Trước khi thụ giới Cụ túc, Sư đã đến Trì Dương tham yết ngài Nam Tuyền Phổ Nguyện, ngài Nam Tuyền cho Sư là bậc pháp khí. Sư đến đàn Lưu Li ở Tung Sơn thụ giới, lại trở về ngài Nam Tuyền, y chỉ 20 năm. Về sau, Sư lần lượt tham học với các thiền sư Hoàng Bá, Bảo Thọ, Diêm Quan, Giáp Sơn, Ngũ Đài. Khi Sư 80 tuổi, đại chúng thỉnh Sư về trụ trì viện Quan Âm ở Thành Đông. Triệu Châu, trong suốt 40 năm, mở rộng thiền phong. Sư tôn kính ngưỡng mộ Tín Tâm Minh của tổ Tăng Xán, lời huyền diệu của Sư vang khắp thiên hạ, các công án vấn đáp, thị chúng của Sư như “Con chó có Phật tính không?”, “ Chí đạo không khó” được mọi người truyền tụng. Sư có tác phẩm: Chân Tế Đại Sư Ngữ Lục 3 quyển. (Theo TĐPHHQ,tập 7,tr. 5815).
+[^7]: Triệu Châu: thiền sư Trung Quốc, sống vào đời Đường, người ở làng Hách (có thuyết nói là Lâm Tri, Thanh Châu), họ Hác, pháp hiệu Tùng Thẩm. Sư xuất gia tại viện Hộ Tông ở Tào Châu (có thuyết nói viện Long Hưng ở Thanh Châu). Trước khi thụ giới Cụ túc, Sư đã đến Trì Dương tham yết ngài Nam Tuyền Phổ Nguyện, ngài Nam Tuyền cho Sư là bậc pháp khí. Sư đến đàn Lưu Li ở Tung Sơn thụ giới, lại trở về ngài Nam Tuyền, y chỉ 20 năm. Về sau, Sư lần lượt tham học với các thiền sư Hoàng Bá, Bảo Thọ, Diêm Quan, Giáp Sơn, Ngũ Đài. Khi Sư 80 tuổi, đại chúng thỉnh Sư về trụ trì viện Quan Âm ở Thành Đông. Triệu Châu, trong suốt 40 năm, mở rộng thiền phong. Sư tôn kính ngưỡng mộ Tín Tâm Minh của tổ Tăng Xán, lời huyền diệu của Sư vang khắp thiên hạ, các công án vấn 📢, thị chúng của Sư như “Con chó có Phật tính không?”, “ Chí đạo không khó” được mọi người truyền tụng. Sư có tác phẩm: Chân Tế Đại Sư Ngữ Lục 3 quyển. (Theo TĐPHHQ,tập 7,tr. 5815).
 
 [^8]:Thiên nhiên Di-lặc và Tự nhiên Thích Ca: Đức Phật Thích-ca tự nhiên khai phát thành Phật. Tứ· Giáo Nghi ghi : Hà xứ thiên nhiên Di Lặc, tự nhiên Thích Ca. (Theo PHĐTĐ của Đinh Phúc Bảo).
 
@@ -697,11 +700,11 @@ Theo: Hoa nghiêm kinh tùy sở diễn nghĩa sao 27, Đại Minh tam tạng ph
 
 1. Chuyên tâm xem xét, nghiên cứu tới lui một cơ ngữ nào đó của cổ nhân. Tiết Chân Như Phương Thiền sư trong NĐHN q.12 ghi: “Thiền sư ·Phương ở viện Chân Như thuộc Chân Châu đến tham học nơi ngài Lang Da, chỉ khán công án “Cây bách”.
 
-2. Ra mắt, thăm hỏi. Minh Giác Ngữ Lục q.2 ghi: “Sư ở Minh Châu, có lần ra mắt học sĩ. Đang ngồi, học sĩ hỏi: Ông thương lượng cùng trưởng lão Thanh về công án “Triệu Châu khám phá bà già” quả thật có chỗ khám phá không?”
+2. Ra mắt, thăm ❓. Minh Giác Ngữ Lục q.2 ghi: “Sư ở Minh Châu, có lần ra mắt học sĩ. Đang ngồi, học sĩ ❓: Ông thương lượng cùng trưởng lão Thanh về công án “Triệu Châu khám phá bà già” quả thật có chỗ khám phá không?”
 
-Tiết Động Sơn hòa thượng trong Tổ Đường Tập q.6 ghi: Tăng hỏi: “Người chẳng bịnh có hỏi thăm hòa thượng không?”. Sư đáp: “Ta hỏi thăm hắn thì có phần đúng hơn. Hắn nào có ngó ngàng gì đến ta?”.
+Tiết Động Sơn hòa thượng trong Tổ Đường Tập q.6 ghi: Tăng ❓: “Người chẳng bịnh có ❓ thăm hòa thượng không?”. Sư 📢: “Ta ❓ thăm hắn thì có phần đúng hơn. Hắn nào có ngó ngàng gì đến ta?”.
 
-3. Tiếp đãi, khoản đãi. Tiết Đan Hà hòa thượng trong Tổ Đường tập q.4 ghi: “Sư đến Lạc Kinh để tham vấn quốc sư Huệ Trung. Vừa gặp thị giả, Sư liền hỏi: “Hòa thượng có ở nhà không?”. Thị giả đáp : “Có, nhưng chẳng tiếp khách”.
+3. Tiếp đãi, khoản đãi. Tiết Đan Hà hòa thượng trong Tổ Đường tập q.4 ghi: “Sư đến Lạc Kinh để tham vấn quốc sư Huệ Trung. Vừa gặp thị giả, Sư liền ❓: “Hòa thượng có ở nhà không?”. Thị giả 📢 : “Có, nhưng chẳng tiếp khách”.
 
 Vân Môn quảng lục q.6 ghi: “Khách đến cần phải tiếp đãi, trộm đến cần phải đuổi đi”.
 
@@ -845,7 +848,7 @@ b. Giáo môn cho rằng những tư tưởng ngôn hạnh có thể dẫn đế
 
 a. Nghề nghiệp mưu sinh, công việc. Trong các trước tác Thiền tông, phần nhiều dùng từ này để dụ cho thiền pháp hoặc hành vi cơ dụng. Mật am ngữ lụcghi: “Vuông tròn không dùng đến cơ mưu, dài vắn chớ đem nói nín tìm. Một chiếc búa cũng là nghề nghiệp chân chính, suy nghĩ· chi làm phí thời gian”.
 
-b. Công cụ, gia sản sinh sống. Chương Khuông Ngộ thiền sư trong CĐTĐL q.17 ghi: “Hỏi: Thế nào là đóng cửa tạo xe? Sư đáp: Gia sản không có gì cả”. (Theo TĐTTHV, tr. 298).
+b. Công cụ, gia sản sinh sống. Chương Khuông Ngộ thiền sư trong CĐTĐL q.17 ghi: “❓: Thế nào là đóng cửa tạo xe? Sư 📢: Gia sản không có gì cả”. (Theo TĐTTHV, tr. 298).
 
 [^52]:Vương lão sư: thiền sư Phổ Nguyện ở Nam Tuyền Trì Châu, họ Vương, thừa pháp ngài Mã Tổ , hoằng đạo ở Nam Tuyền, thường được xưng là Vương lão sư.· (Theo PHĐTĐ của Đinh Phúc Bảo).
 
@@ -855,7 +858,7 @@ Bách phi chỉ cho sự phủ định hoàn toàn, như ·kinh Đại Bát ni�
 
 [^54]: Lư Thị: tức ông Lư Khâu Dận.
 
-[^55]: Phong Can: thiền sư Trung Quốc, sống vào đời Đường, không rõ năm sinh và mất. Ban đầu, Sư trụ chùa Quốc Thanh núi Thiên Thai, ngày giã gạo, đêm ngâm vịnh, lời nói không nhất định, phần nhiều giống như những lời dự ký. Nếu có người hỏi thì Sư đáp hai chữ “tùy thời”, chứ không nói gì khác. Khoảng năm 712-713, Sư hành hóa đến Kinh Triệu (Trường An), trị bệnh cho Lư Khâu Dẫn. (Theo TĐPHHQ, tập 4, tr. 3703).
+[^55]: Phong Can: thiền sư Trung Quốc, sống vào đời Đường, không rõ năm sinh và mất. Ban đầu, Sư trụ chùa Quốc Thanh núi Thiên Thai, ngày giã gạo, đêm ngâm vịnh, lời nói không nhất định, phần nhiều giống như những lời dự ký. Nếu có người ❓ thì Sư 📢 hai chữ “tùy thời”, chứ không nói gì khác. Khoảng năm 712-713, Sư hành hóa đến Kinh Triệu (Trường An), trị bệnh cho Lư Khâu Dẫn. (Theo TĐPHHQ, tập 4, tr. 3703).
 
 [^56]: Không hoa: hoa đốm trong hư không. Trong hư không không có hoa, nhưng vì người mắt bệnh nhặm nên vọng thấy có hoa đốm huyễn hiện. Phật thường dùng từ ngữ này để dụ cho cảnh giới vốn không thật thể, vì hiểu biết sai lầm nên thấy có một cái ngã thường trụ, hoặc có thật thể, gọi là không hoa. (Theo TĐPHHQ, tập 3, tr. 2312).
 
@@ -879,7 +882,7 @@ Bách phi chỉ cho sự phủ định hoàn toàn, như ·kinh Đại Bát ni�
 
 a- Tân khán chủ: người khách xem xét thấy rõ ông chủ, như tiếng hét của người học chân chính là đưa ra cái chậu đựng keo. Thiện tri thức chẳng biết là cảnh bèn dính mắc cảnh đó mà làm dáng làm điệu, liền bị người học hét thêm tiếng nữa, thiện tri thức chẳng chịu buông xuống. Ấy là bệnh tuyệt vọng chẳng thể trị.
 
-b- Chủ khán tân: người chủ nhìn tường tận được khách, như thiện tri thức chẳng đưa ra vật gì, tùy chỗ hỏi của người học liền đoạt, người học bị đoạt thà chết chẳng chịu buông.
+b- Chủ khán tân: người chủ nhìn tường tận được khách, như thiện tri thức chẳng đưa ra vật gì, tùy chỗ ❓ của người học liền đoạt, người học bị đoạt thà chết chẳng chịu buông.
 
 c- Chủ khán chủ: người chủ nhìn lại mình, như có người học đưa một cảnh thanh tịnh ra trước mắt thiện tri thức, thiện tri thức biết là cảnh, liền quăng vào hầm sâu. Người học nói: “Tốt lắm thiện tri thức”. Thiện tri thức liền nói: “Ngốc thay! Chẳng biết tốt xấu”. Người học bèn lễ bái.
 
@@ -891,7 +894,7 @@ d- Tân khán tân: người khách nhìn rõ về họ, như có người học
 
 [^68]: Nhất đạo thần quang: một luồng ánh sáng thần diệu, tức ánh sáng sẵn có của chính mình, là tâm sáng suốt linh diệu không mờ mịt. Tắc 31, Thung dung lục (Đại 48, 248 thượng) ghi: “Một luồng ánh sáng thần diệu, từ trước đến nay chẳng hề che giấu”. (Theo TĐTTHV, tr. 814).
 
-[^69]: Lương cửu: lặng lẽ hoặc thản nhiên một hồi. Nguyên ý là thời gian hơi lâu. Thiền tông dùng từ này chỉ cho trạng thái vô ngôn vô ngữ. Lúc vị thầy tiếp dẫn người học, người học đưa ra nghi vấn, hoặc trình bày kiến giải của mình, hoặc trả lời câu hỏi của thầy, thầy thường dùng thái độ lặng lẽ một hồi để biểu thị sự đồng ý hoặc phản đối. (Theo TĐTTHV, tr. 428).
+[^69]: Lương cửu: lặng lẽ hoặc thản nhiên một hồi. Nguyên ý là thời gian hơi lâu. Thiền tông dùng từ này chỉ cho trạng thái vô ngôn vô ngữ. Lúc vị thầy tiếp dẫn người học, người học đưa ra nghi vấn, hoặc trình bày kiến giải của mình, hoặc trả lời câu ❓ của thầy, thầy thường dùng thái độ lặng lẽ một hồi để biểu thị sự đồng ý hoặc phản đối. (Theo TĐTTHV, tr. 428).
 
 [^70]: Tiêu Hà: Thừa tướng của Hán vương Lưu Bang.
 
@@ -919,12 +922,12 @@ d- Tân khán tân: người khách nhìn rõ về họ, như có người học
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^^1]: ⭐️ ...

@@ -1276,10 +1276,9 @@ Và kệ nói rằng:
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that
-
 
 ## CỬA THỨ BA - NHỊ CHỦNG NHẬP
 
@@ -1300,14 +1299,14 @@ Vô vi một cách vắng lặng và hồn nhiên gọi là lý nhập</div>
 
 HẠNH NHẬP là nói về bốn hạnh, ngoài ra các hạnh khác đều bao gồm trong ấy.
 
-Bốn hạnh là gì?
+❓ Bốn hạnh là gì?
 
 - Một là báo oán hạnh.
 - Hai là tùy duyên hạnh.
 - Ba là vô sở cầu hạnh.
 - Bốn là xứng pháp hạnh.
 
-1.- Sao gọi là BÁO OÁN HẠNH?
+❓ 1.- Sao gọi là BÁO OÁN HẠNH?
 
 Người tu hành khi gặp cảnh khổ nên tự nghĩ như vầy:
 
@@ -1318,13 +1317,13 @@ Vì sao vậy? Vì thấu suốt (luật nhân quả) vậy.
 Khi tâm ấy đã sanh (2) ấy là ứng hợp với lý.
 Mượn oán mà hành đạo nên nói là hạnh trả oán.
 
-2.- Hai là TÙY DUYÊN HẠNH
+❓ 2.- Hai là TÙY DUYÊN HẠNH
 
 Chúng sanh đều do duyên nghiệp chuyển thành, chẳng có cái tôi. Mọi nỗi khổ vui đều do nhân duyên sanh. Nếu nay được quả báo tốt, hưởng đủ vinh dự, ấy là do nhân lành thuở trước cảm nên, nay mới được vậy. Hễ hết duyên thì lại hoàn không, mừng vui nỗi gì? Được mất đều tùy theo duyên, nhưng tâm người không vì vậy được thêm hoặc bớt mất.
 
 Nếu thấu đáo được vậy thì gió vui chẳng động, lặng lẽ mà thuận đạo, nên nói là hạnh tùy thuận theo duyên nghiệp.
 
-3.- Ba là VÔ SỞ CẦU HẠNH
+❓ 3.- Ba là VÔ SỞ CẦU HẠNH
 
 Người đời mãi đắm mê, việc gì cũng tham trước thế gọi là cầu.
 Bậc trí ngộ được lẽ chân, chuyển ngược thế tục, nên tâm an trụ ở vô vi, thân hình tùy nghi vận chuyển.
@@ -1338,7 +1337,8 @@ Có thân ắt khổ, được gì mà vui?
 Thông suốt được như vậy, ắt buông hết sự vật, dứt tưởng chẳng cầu.
 Kinh nói: "Còn cầu còn khổ. Hết cầu mới được vui".
 Xét biết không cầu mới thực là đạo hạnh, nên nói là hạnh không cầu mong.
-4.- Bốn là XỨNG PHÁP HẠNH
+
+❓ 4.- Bốn là XỨNG PHÁP HẠNH
 
 Cái lý thanh tịnh của tự tánh gọi là pháp.
 Tin hiểu lý ấy thì mọi hình tướng hóa thành không, không nhiễm không trước, không bỉ, không thử.
@@ -1358,7 +1358,7 @@ Minh Phật tâm tông,
 Hành giải tương ưng,
 Danh chi viết tổ.
 
-Nghĩa:
+NGHĨA
 
 Ngoài bứt muôn duyên,
 Trong bặt nghĩ tưởng.
@@ -1369,19 +1369,22 @@ Thảy không sai ngộ.
 Lấy hiểu hợp nhau,
 Ấy gọi là Tổ.
 
-GHI CHÚ:
+### GHI CHÚ
 
-(1) Nguyên văn: ngưng trụ bích quán có nghĩa là lắng đọng trong cái định bích quán, cái định ấy không khác gì hơn là Tổ sư Thiền.
-(2) Khi có được tư tưởng ấy.
-(3) Ba không: không người cho, không người nhận, không vật bị cho; nói chung thì không ngã, không nhân, không vật mà chỉ có hành động.
-(4) Lấy tâm Phật làm tông chỉ, tức là Thiền, đối với các pháp môn khác lấy lời nói của Phật làm tông chỉ gọi là Phật ngữ tông..
+[^1]: Nguyên văn: ngưng trụ bích quán có nghĩa là lắng đọng trong cái định bích quán, cái định ấy không khác gì hơn là Tổ sư Thiền.
+[^2]: Khi có được tư tưởng ấy.
+[^3]: Ba không: không người cho, không người nhận, không vật bị cho; nói chung thì không ngã, không nhân, không vật mà chỉ có hành động.
+[^4]: Lấy tâm Phật làm tông chỉ, tức là Thiền, đối với các pháp môn khác lấy lời nói của Phật làm tông chỉ gọi là Phật ngữ tông..
 
 ## CỬA THỨ TƯ - AN TÂM PHÁP MÔN
 
-Khi mê, người đuổi theo pháp.
-Lúc tỉnh, pháp đuổi theo người.
-Tỉnh, ấy tâm thức thâu nhiếp vật sắc.
-Mê, ấy vật sắc thâu nhiếp tâm thức.
+> Khi mê, người đuổi theo pháp
+> 
+> Lúc tỉnh, pháp đuổi theo người
+> 
+> Tỉnh, ấy tâm thức thâu nhiếp vật sắc
+> 
+> Mê, ấy vật sắc thâu nhiếp tâm thức
 
 Chỉ một chút phân biệt cân nhắc của tâm là tự nơi mình mọi hiện tượng đều là mộng cả. Nếu nhận biết tâm mình vốn tịch diệt, không đâu là chỗ niệm, đó gọi là chánh giác.
 
@@ -2305,7 +2308,7 @@ Thấy, nghe, cảm, biết vốn tự nó viên tịch, cho đến mọi niềm
 Nếu tụng kinh mà không thấy tánh, điều ấy quyết không bằng vào đâu cả, mà nói mấy vẫn không cùng.
 Nếu sợ lẽ chánh tà trên, chẳng qua chỉ đôi phần thôi vậy.
 
-*
+***
 
 Xin nói bài tụng vầy:
 
@@ -2317,7 +2320,7 @@ Kết quả tự nhiên thành.
 Ta cốt qua Trung thổ,
 Truyền pháp cứu mê tình.
 Một hoa năm cánh trổ,
-Tự nhiên trái kết thành. (3)
+Tự nhiên trái kết thành. [^3]
 
 2.- Giang tra phân ngọc lãng,
 Quảng cự khai kim tỏa.
@@ -2327,12 +2330,12 @@ Cửu thập vô bỉ ngã.
 Bè lau rẽ sóng ngọc,
 Đuốc sáp mở khóa vàng.
 Năm miệng cùng nhau bước,
-Chín mười không ta người. (4)
+Chín mười không ta người. [^4]
 
-### CHÚ:
+### GHI CHÚ
 
-(1) Áo trắng: người tu tại nhà.
-(2) Chiên đà la: hạng hèn mạt ở Ấn độ, coi như thú vật, ai thấy cũng phải tránh sa sợ nhiễm dơ, chuyên sống về nghề hàng thịt, giết trâu bò.
-(3) Bài kệ này báo trước hậu vận của đạo Thiền. Một hoa (hoa Ấn độ) là Bồ Đề Đạt Ma; năm cánh (cánhTrung hoa) là năm vị tổ kế tiếp truyền tâm ấn Phật: Huệ Khả, Tăng Xán, Đạo Tín, Hoằng Nhẫn và Huệ Năng. Sau Huệ Năng là thời kỳ "tự nhiên trái kết thành", thiền phong lên như vũ bão với các Sư Huyền Giác, Thạch Đầu, Bàng Uẩn, Mã Tổ, Lâm Tế v.v... không học mà ngộ, không tu mà chứng.
-(4) Bài tụng này báo trước ngày Tổ Đạt Ma viên tịch. Ba câu chiết tự chữ NGÔ là ta, do chữ NGŨ (năm) - KHẨU (MIỆNG) thành chữ NGÔ (ta). Ý nói "ta" sẽ thâu thần vào cõi Niết bàn tịch diệt (vô bỉ ngã) vào ngày 9 (cửu) tháng 10 (thập), nhằm năm Bính Thìn (536) triều nhà Lương, năm Đại Thông thứ 2. Đó là ngày vía của Tổ Đạt Ma.
+[^1]: Áo trắng: người tu tại nhà.
+[^2]: Chiên đà la: hạng hèn mạt ở Ấn độ, coi như thú vật, ai thấy cũng phải tránh sa sợ nhiễm dơ, chuyên sống về nghề hàng thịt, giết trâu bò.
+[^3]: Bài kệ này báo trước hậu vận của đạo Thiền. Một hoa (hoa Ấn độ) là Bồ Đề Đạt Ma; năm cánh (cánhTrung hoa) là năm vị tổ kế tiếp truyền tâm ấn Phật: Huệ Khả, Tăng Xán, Đạo Tín, Hoằng Nhẫn và Huệ Năng. Sau Huệ Năng là thời kỳ "tự nhiên trái kết thành", thiền phong lên như vũ bão với các Sư Huyền Giác, Thạch Đầu, Bàng Uẩn, Mã Tổ, Lâm Tế v.v... không học mà ngộ, không tu mà chứng.
+[^4]: Bài tụng này báo trước ngày Tổ Đạt Ma viên tịch. Ba câu chiết tự chữ NGÔ là ta, do chữ NGŨ (năm) - KHẨU (MIỆNG) thành chữ NGÔ (ta). Ý nói "ta" sẽ thâu thần vào cõi Niết bàn tịch diệt (vô bỉ ngã) vào ngày 9 (cửu) tháng 10 (thập), nhằm năm Bính Thìn (536) triều nhà Lương, năm Đại Thông thứ 2. Đó là ngày vía của Tổ Đạt Ma.
 
