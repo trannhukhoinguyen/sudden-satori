@@ -576,7 +576,7 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
 
@@ -584,6 +584,6 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunqi-Zhuhong" target="_blank">🔗 TS VÂN THÊ CHÂU HOẲNG</a>

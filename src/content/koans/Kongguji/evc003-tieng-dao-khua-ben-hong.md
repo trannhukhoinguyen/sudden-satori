@@ -86,13 +86,13 @@ Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chu
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ ...
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">🔗 TS DƯỢC SƠN DUY NGHIỄM</a>
 

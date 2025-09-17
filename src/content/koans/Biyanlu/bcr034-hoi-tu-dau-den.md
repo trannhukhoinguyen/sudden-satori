@@ -162,7 +162,7 @@ Nếu như không đến được mức độ này thì chỉ là lăng xăng tr
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12759/5/tac-thu-ba-muoi-bon-nguong-son-hoi-tu-dau-den
 >
@@ -174,6 +174,6 @@ Nếu như không đến được mức độ này thì chỉ là lăng xăng tr
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nguong-son-hue-tich/" target="_blank">🔗 TS NGƯỠNG SƠN HUỆ TỊCH</a>

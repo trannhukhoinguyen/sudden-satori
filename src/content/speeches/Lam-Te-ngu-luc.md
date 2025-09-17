@@ -11,12 +11,12 @@ pdfUrl: "/pdfs/speeches/Lam-Te-ngu-luc.pdf"
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">🔗 TS LÂM TẾ NGHĨA HUYỀN</a>

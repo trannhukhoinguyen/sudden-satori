@@ -16,7 +16,7 @@ pdfUrl: "/pdfs/practices/phuong-phap-tham-thien.pdf"
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
 
@@ -24,6 +24,6 @@ pdfUrl: "/pdfs/practices/phuong-phap-tham-thien.pdf"
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>

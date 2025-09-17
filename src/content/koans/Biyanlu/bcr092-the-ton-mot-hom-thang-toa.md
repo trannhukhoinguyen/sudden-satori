@@ -71,7 +71,7 @@ Song thử nói xem chỗ nào là chỗ chán?
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12824/5/tac-thu-chin-muoi-hai-the-ton-mot-hom-thang-toa
 >
@@ -83,6 +83,6 @@ Song thử nói xem chỗ nào là chỗ chán?
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ 

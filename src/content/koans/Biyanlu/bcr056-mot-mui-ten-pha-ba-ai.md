@@ -120,7 +120,7 @@ Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con ch�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12784/5/tac-thu-nam-muoi-sau-mot-mui-ten-pha-ba-ai-cua-van-mon
 >
@@ -132,6 +132,6 @@ Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con ch�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-kham-son-van-thuy/" target="_blank">🔗 TS KHÂM SƠN VĂN THÚY</a>

@@ -96,7 +96,7 @@ Tuyết Đậu trong một lúc mô tả ngay được Triệu Châu. Cái thậ
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12787/5/tac-thu-nam-muoi-chin-trieu-chau-va-dung-so-do
 >
@@ -108,6 +108,6 @@ Tuyết Đậu trong một lúc mô tả ngay được Triệu Châu. Cái thậ
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

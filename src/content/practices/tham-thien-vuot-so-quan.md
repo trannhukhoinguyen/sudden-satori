@@ -187,7 +187,7 @@ Không cần đổi nhiều. Một câu – giữ trọn đời cũng được.
 |                                            |                                                 |
 | _Hành giải tương ưng (Trùng Quan)_         | Hành vi không còn vọng tâm, mọi nơi là đạo      |
 
-📌 **KẾT**
+**KẾT**
 
 > Người tu Thiền không cần học nhiều, chỉ cần một câu thoại đầu – giống như người nuốt đinh sắt – không tiêu hóa nổi, mà cũng không nhả ra được. 
 > Ngày nào cũng giữ nó, sẽ có lúc vỡ tung.

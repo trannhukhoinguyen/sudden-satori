@@ -141,13 +141,13 @@ Không bày ấn báu vẫn tôn kính.
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ ...
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4645-tshanhtu" target="_blank">🔗 TS THANH NGUYÊN HÀNH TƯ</a>
 

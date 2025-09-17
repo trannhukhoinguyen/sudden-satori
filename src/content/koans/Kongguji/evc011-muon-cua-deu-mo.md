@@ -127,13 +127,13 @@ Nếu hội được như thế thì tốt lành làm sao!
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ ...
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yungai-Zhiyuan" target="_blank">🔗 TS VÂN CÁI CHÍ NGUYÊN (雲蓋志元)</a>
 

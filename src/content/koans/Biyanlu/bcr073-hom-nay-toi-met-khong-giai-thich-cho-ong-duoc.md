@@ -100,7 +100,7 @@ Các ông muốn hiểu chăng? Há không nghe nói “ngựa non đạp chết
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12803/5/tac-thu-bay-muoi-ba-tu-cu-bach-phi-cua-ma-dai-su
 >
@@ -112,6 +112,6 @@ Các ông muốn hiểu chăng? Há không nghe nói “ngựa non đạp chết
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">🔗 TS MÃ TỔ ĐẠO NHẤT</a>

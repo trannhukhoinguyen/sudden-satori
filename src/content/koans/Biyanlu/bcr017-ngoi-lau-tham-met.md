@@ -64,7 +64,7 @@ Nếu như các ông định tìm chổ hiểu trong ngôn ngữ thì cũng gi�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12740/5/tac-thu-muoi-bay-huong-lam-ngoi-lau
 >
@@ -76,6 +76,6 @@ Nếu như các ông định tìm chổ hiểu trong ngôn ngữ thì cũng gi�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-huong-lam-trung-vien/" target="_blank">🔗 TS HƯƠNG LÂM TRỪNG VIỄN</a>

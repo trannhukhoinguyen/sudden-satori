@@ -67,7 +67,7 @@ Tuyết Đậu nói rằng loại người này đáng bị nhổ thẳng vào m
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12808/5/tac-thu-bay-muoi-tam-muoi-sau-bo-tat-di-tam
 >
@@ -79,6 +79,6 @@ Tuyết Đậu nói rằng loại người này đáng bị nhổ thẳng vào m
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters" target="_blank">BỒ TÁT BẠT ĐÀ BÀ LA</a>

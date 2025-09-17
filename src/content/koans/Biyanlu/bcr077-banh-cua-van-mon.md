@@ -102,7 +102,7 @@ Có người không biết phân biệt tốt xấu, vẽ vòng tròn, thêm bù
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12807/5/tac-thu-bay-muoi-bay-banh-cua-van-mon
 >
@@ -114,6 +114,6 @@ Có người không biết phân biệt tốt xấu, vẽ vòng tròn, thêm bù
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

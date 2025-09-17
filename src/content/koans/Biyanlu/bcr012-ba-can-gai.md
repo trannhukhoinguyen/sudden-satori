@@ -106,7 +106,7 @@ Tuyết Đậu mượn đại ý của câu chuyện này mà nói rằng nếu 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son
 >
@@ -118,6 +118,6 @@ Tuyết Đậu mượn đại ý của câu chuyện này mà nói rằng nếu 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">🔗 TS ĐỘNG SƠN LƯƠNG GIỚI</a>

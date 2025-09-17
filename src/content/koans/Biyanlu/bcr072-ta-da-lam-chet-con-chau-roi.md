@@ -51,7 +51,7 @@ Vân Nham nói, “Hòa thượng đã có cách nói chưa?” thầy ta chỉ 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12801/5/tac-thu-bay-muoi-mot-bach-truong-va-khong-voi-co-hong-voi-mieng-moi
 >
@@ -63,7 +63,7 @@ Vân Nham nói, “Hòa thượng đã có cách nói chưa?” thầy ta chỉ 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-bach-truong-hoai-hai/" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
 

@@ -91,7 +91,7 @@ Tuyết Đậu hết mực tán thán Huệ Trung, hoàng kim cốt chỉ một 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12831/5/tac-thu-chin-muoi-chin-thap-than-dieu-ngu-cua-tuc-tong
 >
@@ -103,7 +103,7 @@ Tuyết Đậu hết mực tán thán Huệ Trung, hoàng kim cốt chỉ một 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
 

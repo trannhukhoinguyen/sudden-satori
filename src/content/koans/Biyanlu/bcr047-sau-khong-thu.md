@@ -96,7 +96,7 @@ Tuyết Đậu nói, “ Kỳ thực việc này làm sao có thể phân phó �
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12774/5/tac-thu-bon-muoi-bay-sau-khong-thu-cua-van-mon
 >
@@ -108,7 +108,7 @@ Tuyết Đậu nói, “ Kỳ thực việc này làm sao có thể phân phó �
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
 

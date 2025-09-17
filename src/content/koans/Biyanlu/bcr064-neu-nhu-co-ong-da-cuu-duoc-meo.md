@@ -53,7 +53,7 @@ Triệu Châu là người trong nhà của Nam Tuyền cho nên hiểu ý chỉ
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12793/5/tac-thu-sau-muoi-bon-nam-tuyen-hoi-trieu-chau
 >
@@ -65,7 +65,7 @@ Triệu Châu là người trong nhà của Nam Tuyền cho nên hiểu ý chỉ
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>
 

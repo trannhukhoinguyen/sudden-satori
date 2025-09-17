@@ -3706,12 +3706,12 @@ Một ông tăng hỏi :
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

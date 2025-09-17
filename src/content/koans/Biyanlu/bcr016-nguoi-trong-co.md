@@ -78,7 +78,7 @@ Kính Thanh nói, “Ông cũng là người trong cỏ” Tuyết Đậu nói, 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12739/5/tac-thu-muoi-sau-nguoi-trong-co-cua-kinh-thanh
 >
@@ -90,6 +90,6 @@ Kính Thanh nói, “Ông cũng là người trong cỏ” Tuyết Đậu nói, 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>

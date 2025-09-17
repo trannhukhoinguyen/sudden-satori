@@ -118,7 +118,7 @@ Thừ nói xem, còn một sứng kia ở đâu?
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12737/5/tac-thu-muoi-bon-mot-loi-dung-cua-van-mon
 >
@@ -130,7 +130,7 @@ Thừ nói xem, còn một sứng kia ở đâu?
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
 

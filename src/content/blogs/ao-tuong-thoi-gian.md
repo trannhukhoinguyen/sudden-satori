@@ -113,7 +113,7 @@ Hoặc như chính Einstein nói:
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 > ✨ Nguồn: https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html
 >

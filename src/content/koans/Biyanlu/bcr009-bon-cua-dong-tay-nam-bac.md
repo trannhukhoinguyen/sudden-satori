@@ -123,7 +123,7 @@ Tuyết Đậu nói, “Đông tây nam bắc đối diện nhau, bao nhiêu tr�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12731/5/tac-thu-chin-bon-cua-cua-trieu-chau
 >
@@ -135,7 +135,7 @@ Tuyết Đậu nói, “Đông tây nam bắc đối diện nhau, bao nhiêu tr�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
 

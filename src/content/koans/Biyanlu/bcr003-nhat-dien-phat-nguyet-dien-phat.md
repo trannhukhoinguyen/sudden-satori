@@ -106,7 +106,7 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ <a href="https://hoavouu.com/p26a12725/4/tac-thu-ba-ma-su-bat-an" target="_blank">🔗 hoavouu.com</a>
 >
@@ -118,6 +118,6 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">🔗 TS MÃ TỔ ĐẠO NHẤT</a>

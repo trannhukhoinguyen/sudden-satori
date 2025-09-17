@@ -147,7 +147,7 @@ Giống như Tàng chủ Khánh hỏi, “Thế nào là “ba bực sóng cao c
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ <a href="https://hoavouu.com/p16a12729/5/tac-thu-bay-hue-sieu-hoi-ve-phat" target="_blank">🔗 hoavouu.com</a>
 >
@@ -159,7 +159,7 @@ Giống như Tàng chủ Khánh hỏi, “Thế nào là “ba bực sóng cao c
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-phap-nhan-van-ich/" target="_blank">🔗 TS PHÁP NHÃN VĂN ÍCH</a>
 

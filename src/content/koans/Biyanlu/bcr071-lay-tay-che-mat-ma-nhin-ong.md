@@ -50,7 +50,7 @@ Trong cả ba bài tụng này của Tuyết Đậu (tắc thứ 70,71 và 72) n
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12801/5/tac-thu-bay-muoi-mot-bach-truong-va-khong-voi-co-hong-voi-mieng-moi
 >
@@ -62,7 +62,7 @@ Trong cả ba bài tụng này của Tuyết Đậu (tắc thứ 70,71 và 72) n
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
 

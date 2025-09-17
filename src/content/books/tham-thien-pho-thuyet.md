@@ -16,6 +16,6 @@ pdfUrl: /pdfs/books/tham-thien-pho-thuyet.pdf
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨

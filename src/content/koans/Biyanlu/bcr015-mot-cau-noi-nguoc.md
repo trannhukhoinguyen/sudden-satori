@@ -88,7 +88,7 @@ Sau đó sự truyền thừa từ vị tổ này cho vị tổ khác, kể cả
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12738/5/tac-thu-muoi-lam-mot-cau-noi-nguoc-cua-van-mon
 >
@@ -100,7 +100,7 @@ Sau đó sự truyền thừa từ vị tổ này cho vị tổ khác, kể cả
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
 

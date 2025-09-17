@@ -63,7 +63,7 @@ Tuy rằng ý của cổ nhân không ở nơi ngôn cú, song trong câu trả 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12821/5/tac-thu-chin-muoi-bat-nha-the-cua-tri-mon
 >
@@ -75,7 +75,7 @@ Tuy rằng ý của cổ nhân không ở nơi ngôn cú, song trong câu trả 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^0]: ⭐️
 

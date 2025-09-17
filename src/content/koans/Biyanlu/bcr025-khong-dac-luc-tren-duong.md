@@ -77,7 +77,7 @@ Tuyết Đậu chỉ thích Am Chủ nói, “ Vác gậy trên vai chẳng màn
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12749/5/tac-thu-hai-muoi-lam-lien-hoa-tru-truong
 >
@@ -89,6 +89,6 @@ Tuyết Đậu chỉ thích Am Chủ nói, “ Vác gậy trên vai chẳng màn
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-lien-hoa-phong-tuong/" target="_blank">🔗 TS LIÊN HOA PHONG TƯỜNG</a>

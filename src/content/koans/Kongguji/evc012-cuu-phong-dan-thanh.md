@@ -39,36 +39,45 @@ Cửu Phong đáp:
 
 📢 Ngài Đầu Tử nói:
 
-Thiền sư Đạo Kiền ở Cửu Phong Quận Đàm Châu, du theo học khắp nơi, nhưng được ngài Thạch Sương ấn chứng. Giáo hóa ở Cửu Phong, độ chúng tài giỏi rất đông.
+Thiền sư Đạo Kiền ở Cửu Phong Quận Đàm Châu, du học khắp nơi, nhưng được ngài Thạch Sương ấn chứng. 
+Giáo hóa ở Cửu Phong, độ chúng tài giỏi rất đông.
 
-Tăng hỏi:
-– Trong kinh nói đủ ba thứ ánh sáng mới thấy được, không đủ ba thứ sáng có thấy được chăng?
+Tăng hỏi: _Trong kinh nói đủ ba thứ ánh sáng mới thấy được, không đủ ba thứ sáng có thấy được chăng?_
 
-Cửu Phong đáp:
-– Duyên thì có sai khác, nhưng thấy không mất.
+Ngài Cửu Phong đáp: **Duyên thì có sai khác, nhưng thấy không mất**
 
-Tăng hỏi:
-– Đã không mất, trong tối vì sao không thấy vật?
+Tăng hỏi: _Đã không mất, trong tối vì sao không thấy vật?_
 
-Cửu Phong đáp:
-– Tuy không thấy vật, lẽ nào không thấy tối.
+Ngài Cửu Phong đáp: **Tuy không thấy vật, lẽ nào không thấy tối**
 
-Tăng hỏi:
-– Bỏ ba duyên ra, thế nào là thấy chơn thật?
+Tăng hỏi: _Bỏ ba duyên ra, thế nào là thấy chơn thật?_
 
-Cửu Phong đáp:
-– Ban ngày mà khắp nơi đều tối đen.
+Ngài Cửu Phong đáp: **Ban ngày mà khắp nơi đều tối đen**
 
-Tăng hỏi:
-– Họa sĩ tài ba vì sao không vẽ được chơn dung của Chí Công?
+Tăng hỏi: _Họa sĩ tài ba vì sao không vẽ được chơn dung của Chí Công?_
 
-Thiền sư Bảo Chí ở Kim Lăng, Sư họ Chu người Kim thành. Sinh vào năm kỷ mùi niên hiệu Nguyên Hưng cuối đời Tấn (419). Sư xuất gia từ thuở nhỏ ở Kinh đô chùa Đạo Lâm, lẽ Tăng Kiệm làm thầy, tu theo pháp thiền, chỗ ở không nhất định, ăn uống không chừng mực, tóc dài mấy tất. Thường đi chân không, tay cầm tích trượng, trên đầu tích trượng treo một cái kéo và chiếc gương một tấc, và một mảnh lụa hai ba tấc.
+Thiền sư Bảo Chí ở Kim Lăng, Sư họ Chu người Kim thành. 
+Sinh vào năm kỷ mùi niên hiệu Nguyên Hưng cuối đời Tấn (419). 
+Sư xuất gia từ thuở nhỏ ở Kinh đô chùa Đạo Lâm, lẽ Tăng Kiệm làm thầy, tu theo pháp thiền, chỗ ở không nhất định, ăn uống không chừng mực, tóc dài mấy tất. 
+Thường đi chân không, tay cầm tích trượng, trên đầu tích trượng treo một cái kéo và chiếc gương một tấc, và một mảnh lụa hai ba tấc.
 
-Nhà Tề khoảng niên hiệu Kiến Nguyên (479–482), sư để lộ chút thần thông, hoặc là mấy ngày không ăn mà vẫn không đói. Từng nói với mọi người những điều khó hiểu, nhưng ứng rõ điều Sư nói, phần nhiều thuộc sấm ký. Các bậc sĩ thứ ở kinh đô đều cung kính tôn thờ Sư.
+Nhà Tề khoảng niên hiệu Kiến Nguyên (479–482), sư để lộ chút thần thông, hoặc là mấy ngày không ăn mà vẫn không đói. 
+Từng nói với mọi người những điều khó hiểu, nhưng ứng rõ điều Sư nói, phần nhiều thuộc sấm ký. Các bậc sĩ thứ ở kinh đô đều cung kính tôn thờ Sư.
 
-Sau đến khoảng niên hiệu Thiên Giám đời Lương (502–519), vua càng thêm kính trọng là một trong những bậc hiền thánh ứng hóa. Vì có nhiều thân biến khác thường, phàm thánh không lường được. Cho nên mới hỏi câu, Tăng Dao từ chối vẽ Chí Công.
+Sau đến khoảng niên hiệu Thiên Giám đời Lương (502–519), vua càng thêm kính trọng là một trong những bậc hiền thánh ứng hóa. 
+Vì có nhiều thân biến khác thường, phàm thánh không lường được. Cho nên mới hỏi câu, Tăng Dao từ chối vẽ Chí Công.
 
-Tăng Dao là người nước Ngô. Khoảng niên hiệu Thiên Giám làm quan Hữu Tướng quân Thái Thú Ngô Hưng. Là bậc danh họa đương thời, bấy giờ vua Lương Võ Đế cho chư vương xuất chinh, mỗi lần nhớ đến các vương tử, thì vua truyền Tăng Dao vẽ theo lời kể của vua, khi về hoàng cung đối chiếu thì giống không khác. Từ việc bình thường có thể suy biết được. Thì bàn lại diện mạo của Ngài Chí Công phi thường thì không thể họa được, đâu biết khi chưa nhắc bút đã thoát để đoạt chân, chỉ là gương sáng hiếm gặp, muốn biết Chí Công chăng? Rùa lẻ trụ Tu Di.
+Tăng Dao là người nước Ngô, là bậc danh họa đương thời. 
+Khoảng niên hiệu Thiên Giám làm quan Hữu Tướng quân Thái Thú Ngô Hưng.
+
+Bấy giờ vua Lương Võ Đế cho chư vương xuất chinh, mỗi lần nhớ đến các vương tử, thì vua truyền Tăng Dao vẽ theo lời kể của vua.
+Khi về hoàng cung đối chiếu thì giống không khác. 
+
+Từ việc bình thường có thể suy biết được. 
+Thì bàn lại diện mạo của Ngài Chí Công phi thường thì không thể họa được.
+Đâu biết khi chưa nhắc bút đã thoát để đoạt chân, chỉ là gương sáng hiếm gặp.
+
+> Muốn biết Chí Công chăng? Rùa lẻ trụ Tu Di.
 
 ## TỤNG CỔ
 
@@ -106,12 +115,12 @@ Thầy Hàn Tử đem ví dụ này dụ cho chí đạo mọi người không n
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ ...
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Jiufeng-Daoqian" target="_blank">🔗 TS CỬU PHONG ĐẠO KIỀN</a>

@@ -68,7 +68,7 @@ Tuyết Đậu chú giải hai câu của Triệu Châu nói rằng, “Sâu t�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12785/5/tac-thu-nam-muoi-bay-chi-dao-vo-nam-cua-trieu-chau
 >
@@ -80,6 +80,6 @@ Tuyết Đậu chú giải hai câu của Triệu Châu nói rằng, “Sâu t�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

@@ -69,7 +69,7 @@ Trăng sáng phản chiếu hoa lau, hoa lau phản chiếu trăng sáng. Chính
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12791/5/tac-thu-sau-muoi-hai-vien-ngoc-cua-van-mon
 >
@@ -81,7 +81,7 @@ Trăng sáng phản chiếu hoa lau, hoa lau phản chiếu trăng sáng. Chính
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
 

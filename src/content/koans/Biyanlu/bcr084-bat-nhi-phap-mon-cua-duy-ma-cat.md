@@ -79,7 +79,7 @@ Tuyết Đậu dồng các ông lên đỉnh cao vạn trượng rồi nói, “
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12815/5/tac-thu-tam-muoi-bon-bat-nhi-phap-mon-cua-duy-ma-cat
 >
@@ -91,6 +91,6 @@ Tuyết Đậu dồng các ông lên đỉnh cao vạn trượng rồi nói, “
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ 

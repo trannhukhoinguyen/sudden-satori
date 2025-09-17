@@ -57,7 +57,7 @@ Cổ nhân tạm lập ra phương tiện để giúp thiên hạ; lúc họ ní
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12825/5/tac-thu-chin-muoi-ba-dai-quang-su-nhay-mua
 >
@@ -69,6 +69,6 @@ Cổ nhân tạm lập ra phương tiện để giúp thiên hạ; lúc họ ní
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ 

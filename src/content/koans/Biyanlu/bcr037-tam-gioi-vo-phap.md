@@ -117,7 +117,7 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12762/5/tac-thu-ba-muoi-bay-tam-gioi-vo-phap-cua-ban-son
 >
@@ -129,7 +129,7 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-ban-son-bao-tich/" target="_blank">🔗 TS BÀN SƠN BẢO TÍCH</a>
 

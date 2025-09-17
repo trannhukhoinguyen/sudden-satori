@@ -75,7 +75,7 @@ Tuyết Đậu tụng rằng:
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12795/5/tac-thu-sau-muoi-sau-nham-dau-va-tu-dau-toi
 >
@@ -87,7 +87,7 @@ Tuyết Đậu tụng rằng:
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nham-dau-toan-hoat" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
 

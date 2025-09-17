@@ -122,7 +122,7 @@ Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa v�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12761/5/tac-thu-ba-muoi-sau-truong-sa-mot-hom-di-choi-nui
 >
@@ -134,6 +134,6 @@ Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa v�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam" target="_blank">🔗 TS TRƯỜNG SA CẢNH SẦM</a>

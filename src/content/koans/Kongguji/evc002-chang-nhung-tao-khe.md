@@ -140,13 +140,13 @@ Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ ...
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4683-tsthachdau" target="_blank">🔗 TS THẠCH ĐẦU HY THIÊN</a>
 

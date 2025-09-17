@@ -144,7 +144,7 @@ Ngay cả Bích Nhãn Hồ tăng (Bồ Đề Đạt Ma) mà cũng khó phân bi�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ <a href="https://hoavouu.com/p16a12768/5/tac-thu-bon-muoi-hai-tung-phien-tuyet-cua-bang-cu-si" target="_blank">🔗 hoavouu.com</a> 
 >
@@ -156,6 +156,6 @@ Ngay cả Bích Nhãn Hồ tăng (Bồ Đề Đạt Ma) mà cũng khó phân bi�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4782-banguan" target="_blank">🔗 TS BÀNG LONG UẨN</a>

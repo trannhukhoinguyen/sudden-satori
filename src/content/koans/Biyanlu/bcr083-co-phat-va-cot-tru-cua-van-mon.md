@@ -73,7 +73,7 @@ Ai bảo vàng ròng giống như phân? Trương Nhị Trần Dư bặt tin t�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12814/5/tac-thu-tam-muoi-ba-co-phat-va-cot-tru-cua-van-mon
 >
@@ -85,6 +85,6 @@ Ai bảo vàng ròng giống như phân? Trương Nhị Trần Dư bặt tin t�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

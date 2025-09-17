@@ -87,7 +87,7 @@ Tuyết Đậu nói thẳng rằng, “Nếu như muốn gặp lão mặt vàng,
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12826/5/tac-thu-chin-muoi-bon-thay-cai-khong-thay-trong-kinh-lang-nghiem
 >
@@ -99,6 +99,6 @@ Tuyết Đậu nói thẳng rằng, “Nếu như muốn gặp lão mặt vàng,
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ 

@@ -32,7 +32,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đầu Tử nói:
 
-Ngài Đầu Tử nói: Thiền sư Hoàn Phố ở Thiều Sơn, Lạc Kinh. Sư nối pháp Giáp Sơn.
+Thiền sư Hoàn Phố ở Thiều Sơn, Lạc Kinh. Sư nối pháp Giáp Sơn.
 
 Có vị tăng hỏi: Thế nào là cảnh Thiều Sơn?
 Thiều Sơn đáp: Xưa nay vượn hú chim hót.
@@ -125,19 +125,30 @@ Chớ đem thị phi đến tranh luận với ta, giải thích kiếp phù sin
 ## TỤNG CỔ
 
 > Giữa đình núi không có mây trắng
-Sương mù bao phủ cảnh tượng lạ
-Một khúc ca ngắt điệu ngàn xưa
-Trăng vừa lên bát ngát trời xanh
+> 
+> Sương mù bao phủ cảnh tượng lạ
+> 
+> Một khúc ca ngắt điệu ngàn xưa
+> 
+> Trăng vừa lên bát ngát trời xanh
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
-Núi xanh cha mây trắng, mây trắng con núi xanh. Mây trắng cả ngày nương tựa núi xanh, mà núi xanh hoàn toàn không biết, đểu không biết ấy ông lại biết chăng? Ngài Địa Tạng nằm ấy từng tiết lộ. Chẳng cần đi về phía chân trời, mây trời mênh mản cảnh tượng tuy khác, chỉ trăng tâm tròn sáng tánh không thiên thăng.
+Núi xanh cha mây trắng, mây trắng con núi xanh. 
+Mây trắng cả ngày nương tựa núi xanh, mà núi xanh hoàn toàn không biết, đểu không biết ấy ông lại biết chăng? 
+Ngài Địa Tạng nằm ấy từng tiết lộ. 
 
-Dù có ngàn sai vạn biệt, đáng tiếc mọi việc đã rõ ràng, nên Ngài Tuyết Đậu nói: “Ba cõi không pháp, thì tìm tâm chỗ nào.” Mây trắng làm lòng, suối chảy làm đàn. 
+Chẳng cần đi về phía chân trời, mây trời mênh mản cảnh tượng tuy khác, chỉ trăng tâm tròn sáng tánh không thiên thăng.
 
-Một khúc hai khúc không người hội. Mưa xuyên đêm ao thu nước sâu. Nếu lãnh hội được trọng điểm trong này, thì Bá Nha và Tử Kỳ chẳng phải biết nhau suông.
+Dù có ngàn sai vạn biệt, đáng tiếc mọi việc đã rõ ràng, nên Ngài Tuyết Đậu nói: “Ba cõi không pháp, thì tìm tâm chỗ nào.” 
+
+Mây trắng làm lòng, suối chảy làm đàn. 
+Một khúc hai khúc không người hội. 
+Mưa xuyên đêm ao thu nước sâu. 
+
+Nếu lãnh hội được trọng điểm trong này, thì Bá Nha và Tử Kỳ chẳng phải biết nhau suông.
 
 Nếu chẳng phải như thế. Núi cao nước chảy ít tri âm, uống tấu đàn cảm tiếng vang xa. 
 
@@ -145,12 +156,12 @@ Như muôn động ngàn non xanh biếc chập chùng. Buộc chặt đôi già
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ ...
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS THIỀU SƠN HOÀNG PHỔ (韶山寰普)</a>

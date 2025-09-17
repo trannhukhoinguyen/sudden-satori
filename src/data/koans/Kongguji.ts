@@ -99,8 +99,8 @@ export const KonggujiTitles: KoanTitle[] = [
   { title: "Đức Sơn Thượng Đường", slug: "" },
   { title: "Đầu Tử Trăng Sáng", slug: "" },
   { title: "Gậy Ba Tiêu", slug: "" },
-  { title: "Phù Sơn Tú Cầu", slug: "" },
-  { title: "Phù Sơn Gò Cao", slug: "" },
+  { title: "Phù Sơn Tú Cầu", slug: "evc99-phu-son-tu-cau" },
+  { title: "Phù Sơn Gò Cao", slug: "evc100-phu-son-go-cao" },
 ]
 
 /*

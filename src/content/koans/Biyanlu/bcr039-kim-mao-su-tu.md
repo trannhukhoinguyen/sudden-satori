@@ -90,7 +90,7 @@ Có thấy Kim Mao Sư Tử không? Đồ mù!
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12764/5/tac-thu-ba-muoi-chin-kim-mao-su-tu-cua-van-mon
 >
@@ -102,6 +102,6 @@ Có thấy Kim Mao Sư Tử không? Đồ mù!
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

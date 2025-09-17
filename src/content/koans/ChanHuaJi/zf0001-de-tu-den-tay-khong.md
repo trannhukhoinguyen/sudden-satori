@@ -14,12 +14,12 @@ image: /images/koans/great-wave.webp
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://thuvienhoasen.org/p33a17685/quyen-thuong
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️

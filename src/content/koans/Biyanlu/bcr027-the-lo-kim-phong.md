@@ -62,7 +62,7 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12751/5/tac-thu-hai-muoi-bay-the-lo-kim-phong-cua-van-mon
 >
@@ -74,6 +74,6 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>

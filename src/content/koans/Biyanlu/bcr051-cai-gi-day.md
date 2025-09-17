@@ -139,7 +139,7 @@ Thử nói xem, đây là “vừa sáng vừa tối.” đồng sinh trong mộ
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung
 >
@@ -151,7 +151,7 @@ Thử nói xem, đây là “vừa sáng vừa tối.” đồng sinh trong mộ
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️
 

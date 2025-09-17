@@ -212,7 +212,7 @@ Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ <a href="https://hoavouu.com/p26a12724/4/tac-thu-nhi-chi-dao-vo-nan-cua-trieu-chau" target="_blank">🔗 hoavouu.com</a>
 >
@@ -224,6 +224,6 @@ Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>

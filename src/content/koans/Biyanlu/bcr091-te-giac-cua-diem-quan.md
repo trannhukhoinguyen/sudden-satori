@@ -72,7 +72,7 @@ Thử nói xem, rốt cuộc là như thế nào? Các ông cử chỉ nên vô 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12823/5/tac-thu-chin-muoi-mot-te-giac-cua-diem-quan
 >
@@ -84,6 +84,6 @@ Thử nói xem, rốt cuộc là như thế nào? Các ông cử chỉ nên vô 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4779-thiensutean" target="_blank">🔗 TS DIÊM QUAN TỀ AN</a>

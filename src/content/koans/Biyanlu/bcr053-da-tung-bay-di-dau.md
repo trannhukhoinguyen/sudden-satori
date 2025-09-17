@@ -80,7 +80,7 @@ Muốn bay đi, lại giữ lại.” Tuyết Đậu dựa vào dữ kiện mà 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12781/5/tac-thu-nam-muoi-ba-vit-troi-cua-ma-dai-su
 >
@@ -92,7 +92,7 @@ Muốn bay đi, lại giữ lại.” Tuyết Đậu dựa vào dữ kiện mà 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">🔗 TS MÃ TỔ ĐẠO NHẤT</a>
 

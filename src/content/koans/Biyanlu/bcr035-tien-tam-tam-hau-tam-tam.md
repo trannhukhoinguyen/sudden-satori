@@ -141,7 +141,7 @@ Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần V�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12760/5/tac-thu-ba-muoi-lam-van-thu-va-vo-truoc
 >
@@ -153,7 +153,7 @@ Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần V�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/van-thu-su-loi/" target="\_blank"BỒ TÁT VĂN THÙ</a>
 

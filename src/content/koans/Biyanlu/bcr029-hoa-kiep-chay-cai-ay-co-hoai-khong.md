@@ -60,7 +60,7 @@ Tuyết Đậu dựa vào cơ duyên mà tụng ra, trong câu có chỗ xuất 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12753/5/tac-thu-hai-muoi-chin-hoa-kiep-cua-dai-tuy
 >
@@ -72,6 +72,6 @@ Tuyết Đậu dựa vào cơ duyên mà tụng ra, trong câu có chỗ xuất 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-dai-tuy-phap-chan/" target="_blank">🔗 TS ĐẠI TÙY PHÁP CHÂN</a>

@@ -90,7 +90,7 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12745/5/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon
 >
@@ -102,7 +102,7 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-tri-mon-quang-to/" target="_blank">🔗 TS TRÍ MÔN QUANG TỘ</a>
 

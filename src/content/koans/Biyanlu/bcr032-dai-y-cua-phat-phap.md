@@ -56,7 +56,7 @@ Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem �
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12757/5/tac-thu-ba-muoi-hai-phat-phap-dai-y-cua-lam-te
 >
@@ -68,6 +68,6 @@ Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem �
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-lam-te-nghia-huyen/" target="_blank">🔗 TS LÂM TẾ NGHĨA HUYỀN</a>

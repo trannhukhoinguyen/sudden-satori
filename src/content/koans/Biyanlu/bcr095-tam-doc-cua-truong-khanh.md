@@ -83,7 +83,7 @@ Mặc dù Trường Khánh là con rồng vượt qua được Long Môn, song l
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12827/5/tac-thu-chin-muoi-lam-tam-doc-cua-truong-khanh
 >
@@ -95,6 +95,6 @@ Mặc dù Trường Khánh là con rồng vượt qua được Long Môn, song l
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ 

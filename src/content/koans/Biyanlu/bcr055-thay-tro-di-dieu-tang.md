@@ -99,7 +99,7 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12783/5/tac-thu-nam-muoi-lam-dao-ngo-va-tiem-nguyen-di-dieu-tang
 >
@@ -111,7 +111,7 @@ Có người hiểu lầm nói rằng, “Không nói tức là nói, không câ
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4789-tsdaongo2/" target="_blank">🔗 TS ĐẠO NGÔ VIÊN TRÍ</a>
 

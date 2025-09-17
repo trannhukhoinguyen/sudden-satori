@@ -103,7 +103,7 @@ Nhưng mà có gì là nhằm nhò đâu? Đâu có biết rằng hai cái sai n
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12830/5/tac-thu-chin-muoi-tam-hai-cai-sai-cua-thien-binh-hoa-thuong
 >
@@ -115,6 +115,6 @@ Nhưng mà có gì là nhằm nhò đâu? Đâu có biết rằng hai cái sai n
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ 

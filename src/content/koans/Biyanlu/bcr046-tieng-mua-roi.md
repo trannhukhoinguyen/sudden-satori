@@ -80,7 +80,7 @@ Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12773/5/tac-thu-bon-muoi-sau-tieng-mua-roi-cua-kinh-thanh
 >
@@ -92,7 +92,7 @@ Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
 

@@ -74,7 +74,7 @@ Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm n
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12799/5/tac-thu-bay-muoi-qui-son-dung-hau-bach-truong
 >
@@ -86,7 +86,7 @@ Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm n
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4804-tslinhhuu" target="_blank">🔗 TS QUY SƠN LINH HỰU</a>
 

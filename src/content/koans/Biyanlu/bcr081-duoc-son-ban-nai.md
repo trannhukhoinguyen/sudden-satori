@@ -84,7 +84,7 @@ Cuối cùng Tuyết Đậu tụng Dược Sơn ngay lúc ấy có chỗ xuất 
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12812/5/tac-thu-tam-muoi-mot-duoc-son-ban-nai
 >
@@ -96,6 +96,6 @@ Cuối cùng Tuyết Đậu tụng Dược Sơn ngay lúc ấy có chỗ xuất 
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">🔗 TS DƯỢC SƠN DUY NGHIỄM</a>

@@ -78,7 +78,7 @@ Người ta thường giải thích lầm lạc rằng, “ Sơn hà đại đ�
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12742/5/tac-thu-muoi-chin-ngon-tay-thien-cua-cau-chi
 >
@@ -90,6 +90,6 @@ Người ta thường giải thích lầm lạc rằng, “ Sơn hà đại đ�
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-cau-chi/" target="_blank">🔗 TS CÂU CHI</a>

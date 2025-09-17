@@ -74,7 +74,7 @@ May mà có Nam Tuyền phán đoán công án này cho họ, thu dọn được
 
 <hr class="blog-rule" />
 
-## ℹ️ NGUỒN
+## NGUỒN
 
 > ✨ https://hoavouu.com/p16a12792/5/tac-thu-sau-muoi-ba-nam-tuyen-giet-meo
 >
@@ -86,6 +86,6 @@ May mà có Nam Tuyền phán đoán công án này cho họ, thu dọn được
 
 <hr class="blog-rule" />
 
-## 📌 GHI CHÚ
+## GHI CHÚ
 
 [^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>
