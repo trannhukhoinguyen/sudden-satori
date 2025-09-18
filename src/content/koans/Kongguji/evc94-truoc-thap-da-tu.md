@@ -35,36 +35,59 @@ Chư thánh từ trước tự chứng chỗ này. Cho nên Phật Nhiên Đăng
 
 Pháp đã chẳng được thì bàn luận điều gì. Chớ có suy đoán khen ngợi bàn rỗng với nhau. Song người đến được chỗ này, đâu cần gặp nhau trước tháp, đưa cành hoa trước chúng, chặt tay truyền y mới là đạo. Đã không như thế, lý do gì trên núi Đại Dữu nhấc y bặt không lên.
 
-Ngài Lâm Tuyền nói: Nói không trình bày hết được, vì ngôn từ không diễn đạt được thiền pháp. Nương lời mất mạng, kẹt câu thì mê. Cho nên nói:
+📢 Ngài Lâm Tuyền nói: 
 
-Một câu trước tiếng viên âm hay,
-Ngoài vật Tam Sơn vằng trăng sáng.
+Nói không trình bày hết được, vì ngôn từ không diễn đạt được thiền pháp. Nương lời mất mạng, kẹt câu thì mê. Cho nên nói:
 
-Luận Bích Chi nói: Thành Vương Xá có đại trưởng giả, của cải rất nhiều. Ông có ba mươi người con trai và ba mươi người con gái. Thích đi xa để xem xét, một hôm đến một khu rừng, thấy người chặt một cây cổ thụ cành nhánh sum xuê xanh tốt, rất nhiều con voi kéo không nổi. Sau đó họ chặt một cây nhỏ chẳng có cành lá, chỉ cần một con kéo không bị trở ngại. Trưởng Giả thấy việc đó, nên nói kệ:
+> Một câu trước tiếng viên âm hay
+> 
+> Ngoài vật Tam Sơn vằng trăng sáng
 
-Ta thấy chặt cổ thụ,
-Cành lá nhiều tươi tốt.
-Rừng rậm trói buộc nhau,
-Không thể nào ra được.
-Thế gian cũng như thế,
-Trai gái các quyến thuộc.
-Yêu ghét trói buộc tâm,
-Ở chốn rừng sanh tử,
-Được giải thoát tự tại.
+📢 Luận Bích Chi nói: 
 
-Khi ấy Trưởng Giả đắc quả Bích Chi Phật liền hiện thần thông. Lúc Ông nhập diệt các quyến thuộc xây tháp miếu cho Ông, vì lý do đó người bấy giờ gọi là tháp Đa Tử.
+Thành Vương Xá có đại trưởng giả, của cải rất nhiều. Ông có ba mươi người con trai và ba mươi người con gái. 
+Thích đi xa để xem xét, một hôm đến một khu rừng, thấy người chặt một cây cổ thụ cành nhánh sum xuê xanh tốt, rất nhiều con voi kéo không nổi. Sau đó họ chặt một cây nhỏ chẳng có cành lá, chỉ cần một con kéo không bị trở ngại. Trưởng Giả thấy việc đó, nên nói kệ:
+
+> Ta thấy chặt cổ thụ
+>
+> Cành lá nhiều tươi tốt
+>
+> Rừng rậm trói buộc nhau
+> 
+> Không thể nào ra được
+> 
+> Thế gian cũng như thế
+> 
+> Trai gái các quyến thuộc
+> 
+> Yêu ghét trói buộc tâm
+> 
+> Ở chốn rừng sanh tử
+> 
+> Được giải thoát tự tại
+
+Khi ấy Trưởng Giả đắc quả Bích Chi Phật liền hiện thần thông. 
+Lúc Ông nhập diệt các quyến thuộc xây tháp miếu cho Ông, vì lý do đó người bấy giờ gọi là tháp Đa Tử.
 
 Đức Thế Tôn đưa cành hoa lên mắt sen xanh nhìn thẳng vào Ngài Ca Diếp.
 
-Ngài Đầu Tử nói: Chư Phật cũng không xuất thế cũng không có niết bàn. Bài kệ này ở nửa phẩm kinh Hoa Nghiêm. Phật đã như thế, pháp cũng như thế, không lời mà hiểu được, đâu cần phải nói lại.
+📢 Ngài Đầu Tử nói: 
 
-Kinh Kim Cang Bát Nhã ghi: Lúc Đức Như Lai ở chỗ Phật Nhiên Đăng có đạt được pháp vô thượng chánh đẳng chánh giác chăng?
+Chư Phật cũng không xuất thế cũng không có niết bàn. 
+Bài kệ này ở nửa phẩm kinh Hoa Nghiêm. 
+Phật đã như thế, pháp cũng như thế, không lời mà hiểu được, đâu cần phải nói lại.
 
-Tu Bồ Đề đáp: Thưa không. Bạch Đức Thế Tôn, như con hiểu nghĩa Phật nói, Phật ở chỗ Phật Nhiên Đăng không đắc pháp vô thượng chánh đẳng chánh giác.
+📢 Kinh Kim Cang Bát Nhã ghi: Lúc Đức Như Lai ở chỗ Phật Nhiên Đăng có đạt được pháp vô thượng chánh đẳng chánh giác chăng?
 
-Phật nói: Đúng thế! Đúng thế!
+📢 Tu Bồ Đề đáp: Thưa không. Bạch Đức Thế Tôn, như con hiểu nghĩa Phật nói, Phật ở chỗ Phật Nhiên Đăng không đắc pháp vô thượng chánh đẳng chánh giác.
 
-Này Tu Bồ Đề thật không có pháp Như Lai chứng được vô thượng chánh đẳng chánh giác. Vì Đức Phật Nhiên Đăng không truyền bổn ý tự thành chánh giác. Nếu biết truyền điều không thể truyền, nói điều không thể nói. Tự nhiên tiếp nối đời đời không dứt, đâu dối trước tháp gặp nhau, đưa cành hoa trước chúng, Tổ Huệ Khả chặt tay, Lục Tổ được truyền y. Ngay lúc được mật thọ có Đạo Minh và cùng vài mươi người đuổi theo tìm đến núi Đại Dữu, Minh thấy trước nhất.
+📢 Phật nói: Đúng thế! Đúng thế!
+
+Này Tu Bồ Đề thật không có pháp Như Lai chứng được vô thượng chánh đẳng chánh giác. 
+Vì Đức Phật Nhiên Đăng không truyền bổn ý tự thành chánh giác. 
+Nếu biết truyền điều không thể truyền, nói điều không thể nói. 
+Tự nhiên tiếp nối đời đời không dứt, đâu dối trước tháp gặp nhau, đưa cành hoa trước chúng, Tổ Huệ Khả chặt tay, Lục Tổ được truyền y. 
+Ngay lúc được mật thọ có Đạo Minh và cùng vài mươi người đuổi theo tìm đến núi Đại Dữu, Minh thấy trước nhất.
 
 Tổ để y trên bàn đá nói: Y này là biểu tín, có thể tranh giành bằng sức ư? Ông hãy lấy đi.
 
@@ -72,28 +95,49 @@ Minh nhấc y lên giống như núi chẳng động. Thấu đạt được lý
 
 ## TỤNG CỔ
 
-> Đạo không có sở chứng.
-Mới thông được vạn pháp.
-Đi vào chốn sáng tối.
-Tự nhiên không giữ gìn.
-Trăng lên bạc sắc tùng.
-Mây tan núi xanh hiện.
-Xưa nay cầu Thiên Thai,
-Mấy ai đã từng đến.
+> Đạo không có sở chứng
+> 
+> Mới thông được vạn pháp
+> 
+> Đi vào chốn sáng tối
+> 
+> Tự nhiên không giữ gìn
+> 
+> Trăng lên bạc sắc tùng
+> 
+> Mây tan núi xanh hiện
+> 
+> Xưa nay cầu Thiên Thai
+> 
+> Mấy ai đã từng đến
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
-Ngài Lâm Tuyền nói: Người có tu có chứng, thì tụ tại trong cửa huyền phương tiện giáo hóa. Người không tu không chứng, thì lui ẩn trong cảnh giới chơi nhủ. Nếu không thì việc vô sự lại sanh sự, đương nhiên không rơi vào thường tình, đi đứng nằm ngồi đều là con đường huyền, muôn pháp tứ bày hiển hiện, ngàn sai tứ bày đều đồng.
+Người có tu có chứng, thì tụ tại trong cửa huyền phương tiện giáo hóa. 
 
-Gặp sáng thì gương xưa phí công chiếu soi. Lúc tối huyền châu chẳng chiếu. Thiền tăng đủ mắt không nhọc công giữ gìn cẩn thận. Nạp tu tâm biết cầu giải thoát phải nghiên cứu tường tận.
+Người không tu không chứng, thì lui ẩn trong cảnh giới chơi nhủ. 
 
-Chờ mãi trăng lên bên sườn núi một áng mây trôi chốn thung lũng. Sam tùng tươi tốt chịu nổi tuyết sương. Suối đã khơi dòng chảy trong đêm tối. Gió thổi mây tan lộ bày núi xanh cao ngất.
+Nếu không thì việc vô sự lại sanh sự, đương nhiên không rơi vào thường tình, đi đứng nằm ngồi đều là con đường huyền, muôn pháp tứ bày hiển hiện, ngàn sai tứ bày đều đồng.
+
+Gặp sáng thì gương xưa phí công chiếu soi. Lúc tối huyền châu chẳng chiếu. 
+
+Thiền tăng đủ mắt không nhọc công giữ gìn cẩn thận. Nạp tu tâm biết cầu giải thoát phải nghiên cứu tường tận.
+
+Chờ mãi trăng lên bên sườn núi một áng mây trôi chốn thung lũng. 
+
+Sam tùng tươi tốt chịu nổi tuyết sương. Suối đã khơi dòng chảy trong đêm tối. Gió thổi mây tan lộ bày núi xanh cao ngất.
 
 Người làm bạn với ánh trăng về nương chốn dốc núi cheo leo. Từ nay cho mãi về sau từ xưa cho đến nay, cầu Thiên Thai tuy vang danh ấy, nhưng người đời mấy ai qua được.
 
-Thôi đừng đuổi theo dòng tâm thức hết lòng suy tính, chớ bị cửa huyền nếp cũ khóa chặt. Đã lột bỏ mù thiệt nương cho ông, thận trọng chớ ép mình mặc chiếc áo hồi thúi. Điều này nghĩa là đem tâm dụng tâm càng thêm bệnh nặng. Làm sao để được nghe đâu sáng mắt thôi. Nếu thức hết tình quên thì có hiệu lực.
+Thôi đừng đuổi theo dòng tâm thức hết lòng suy tính, chớ bị cửa huyền nếp cũ khóa chặt. 
+
+Đã lột bỏ mù thiệt nương cho ông, thận trọng chớ ép mình mặc chiếc áo hồi thúi. 
+
+Điều này nghĩa là đem tâm dụng tâm càng thêm bệnh nặng. Làm sao để được nghe đâu sáng mắt thôi. 
+
+Nếu thức hết tình quên thì có hiệu lực.
 
 
 <hr class="blog-rule" />
