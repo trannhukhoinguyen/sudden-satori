@@ -56,17 +56,26 @@ Chớ tìm cá thỏ mà có giữ môn lưới. Cho nên nói đúng tìm trong
 Hội được thì trên đường thọ dụng, không hội được thì trôi theo dòng đời.
 
 Không nghe tăng hỏi Thiền sư Chí Viên Bạch Triệu An Châu: Thế nào là diệu giác.
+
 Chí Viên đáp: Nếu là cây bồ kết thì đưa cho gội đầu.
+
 Tăng thưa: con không hỏi cái này.
+
 Chí Viên hỏi: Ông hỏi cái gì?
+
 Tăng thưa: Thế nào là diệu giác?
+
 Chí Viên nói: Nếu là thuốc hay thì một phen thấy liền lành bệnh.
+
 Tăng hỏi: Thế nào là muôn hạnh?
+
 Chí Viên nói: Năm nay đào lý cứng không, nói gì hạnh chín thúi.
 
 Di Sơn Xiêm nói: Bậc thượng sĩ thấy vàng như đất, kẻ hạ sĩ thấy đất cho là vàng, bậc tác gia tông sư luôn bình thường. Có thể nói rằng cắt một cành ngọc tác tác đều quý, chặt một miếng chiên đàn thấy đều thơm. Nếu như theo trào lưu ảnh hưởng, thì sẽ bảo là đùa cợt. Sao vậy? Tâm từ trước chỉ nghiêng về người, biết nhau như không biết nhau. Than ôi!
 
-Ngài Lâm Tuyền nói: Lão Di Sơn Xiêm chỉ bày rất rõ ràng, cùng với sự trả lời của Bạch Triệu Đại Dương là đồng hay là khác? Hãy nghe bài tụng ngài Đầu Tử phân tích.
+Ngài Lâm Tuyền nói: 
+
+Lão Di Sơn Xiêm chỉ bày rất rõ ràng, cùng với sự trả lời của Bạch Triệu Đại Dương là đồng hay là khác? Hãy nghe bài tụng ngài Đầu Tử phân tích.
 
 ## TỤNG CỔ
 
@@ -82,7 +91,7 @@ Ngài Lâm Tuyền nói: Lão Di Sơn Xiêm chỉ bày rất rõ ràng, cùng v�
 
 📢 Ngài Lâm Tuyền nói:
 
-Ngài Lâm Tuyền nói: Sự giác ban đầu cùng với giác sau thường khởi tâm độ sinh. Tự lợi, lợi tha luôn nhớ nghĩ khai phát chúng sanh. Cho nên Vân Hưng hỏi một trăm mà Bình Tả đáp một ngàn, chẳng những thôi nay bạc tình mà thôi.
+Sự giác ban đầu cùng với giác sau thường khởi tâm độ sinh. Tự lợi, lợi tha luôn nhớ nghĩ khai phát chúng sanh. Cho nên Vân Hưng hỏi một trăm mà Bình Tả đáp một ngàn, chẳng những thôi nay bạc tình mà thôi.
 
 Thạch Đầu nói: Nương lời phải hội tông, chớ có tự lập qui củ.
 Dược Sơn nói: Cần phải nhìn lại chính mình, không được dứt ngôn ngữ. Ta nay hiển bày cái không lời cho ông.
@@ -94,7 +103,9 @@ Từ đây mới biết tất cả có tâm đều cách xa bản thể như tr�
 Giác Phạm nói: Nạp tử ngay đây thấu triệt, mới biết được chư Phật không pháp có thể nói, mà chúng pháp thản ngôn thuyết. Thế nào là pháp thản ngôn thuyết?
 Tử đáp: Thuyền về đến bến Dương Châu.
 
-Lâm Tuyền nói: Bàn luận sâu về thật tướng nói pháp yếu hay. Nếu căn cứ như thế so với chỗ chứng về sau, thì trên vách treo tiền tài có dễ hay không có giá, lại biết chăng?
+Lâm Tuyền nói: 
+
+Bàn luận sâu về thật tướng nói pháp yếu hay. Nếu căn cứ như thế so với chỗ chứng về sau, thì trên vách treo tiền tài có dễ hay không có giá, lại biết chăng?
 
 Về sau chợ đêm không người mua.
 Có người Ba Tư cười gật đầu.

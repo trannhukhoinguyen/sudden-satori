@@ -12,13 +12,18 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Cầm chắc thế giới, không chút sơ hở. Cắt đứt các dòng, không còn một giọt. Mở miệng là sai, so đo là trái. Thử nói xem, thế nào là con mắt nhìn thấu quan? Thử nêu lên xem.
+Cầm chắc thế giới, không chút sơ hở. 
+Cắt đứt các dòng, không còn một giọt. 
+Mở miệng là sai, so đo là trái. Thử nói xem, thế nào là con mắt nhìn thấu quan? 
+Thử nêu lên xem.
 
 ## CỬ:
 
-> Vân Môn có lời dạy rằng, “Mọi người ai cũng có quang minh cả.Lúc nhìn thì không thấy gì mà chỉ thấy tối om om. 
+> Vân Môn có lời dạy rằng, “Mọi người ai cũng có quang minh cả. Lúc nhìn thì không thấy gì mà chỉ thấy tối om om. Thế nào là cái quang minh trong mọi người?” 
 > 
-> Thế nào là cái quang minh trong mọi người?” Vân Môn tự trả lời rằng, “Nhà bếp và cổng tam quan.” Lại nói, “Việc tốt không bằng không.”
+> Vân Môn tự trả lời rằng, “Nhà bếp và cổng tam quan” 
+> 
+> Lại nói, “Việc tốt không bằng không”
 
 ## BÌNH
 
