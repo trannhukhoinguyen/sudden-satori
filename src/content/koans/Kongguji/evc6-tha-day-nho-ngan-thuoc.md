@@ -13,14 +13,14 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Trên không miệng ngồi che mỏ, dưới không tác đặt để đứng. Lưỡi câu bằng trăng, mồi làm mới để câu bên bến nước trong.
 > Muốn cheo qua, sáo hoa lan, dưới tìm con cá chép, ngay lúc lá đục ngaoỳ dưới lá sen, bắt được?
 
 ## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 > Giáp Sơn [^1] tham vấn ngài Thuyền Tử [^2]. Thuyền Tử hỏi:
 >
@@ -55,7 +55,7 @@ Ngài Đầu Tử cử:
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói:
 
 Thiền sư Đức Thành Thuyền Tử ở Hoa Đình Tú Châu, hình dung đạo mạo, độ lượng hơn người.
 Sư được tâm ấn với ngài Dược Sơn cùng với ngài Đạo Ngô và ngài Vân Nham.
@@ -168,7 +168,7 @@ Than ôi! Tổ Ông Thăng Mặc thường dạy đệ tử rằng:
 
 ## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 > Đức Phật Thế Tôn ba sông từ Bát Nhã trên sông nước vô minh giữa con sông sinh tử.
 > Chiếc thuyền này đều làm bằng Vạn Hạnh.

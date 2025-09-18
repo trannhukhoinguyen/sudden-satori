@@ -44,33 +44,65 @@ Pháp thân cũng có hai thứ bệnh, đạt được pháp thân, vì chấp 
 
 Đủ cho thấu được, không được bỏ qua, phải kiểm nghiệm lại cho thật kỹ. Có được tin tức gì, cũng là bệnh. Sẽ bị người khác cười ha hả.
 
-Ngài Lâm Tuyền nói: Hỏi các ông cười cái gì, chỉ biết sự sai khác của ngọc Kinh Châu, đâu biết rõ được tâm Sở Vương. 
+📢 Ngài Lâm Tuyền nói: 
+
+Hỏi các ông cười cái gì, chỉ biết sự sai khác của ngọc Kinh Châu, đâu biết rõ được tâm Sở Vương. 
 
 Nếu biết được người này, thì việc tham học đã xong.
 
-Ngài Lâm Tuyền nói: Có bộ mặt nào thấy nhau với ý.
+📢 Ngài Lâm Tuyền nói: 
 
-Ngài Đầu Tử niệm: Giấu hết trăng trời Sở, vẫn còn sao đất Hán. Nếu là nạp tăng thông minh, ắt ngộ tự đường này thì liền thấy được sự phân tích rõ ràng của ngài Đầu Tử đó chính là năng nhạn được lời lẽ mập mờ qua. 
+Có bộ mặt nào thấy nhau với ý.
+
+📢 Ngài Đầu Tử niệm: 
+
+Giấu hết trăng trời Sở, vẫn còn sao đất Hán. Nếu là nạp tăng thông minh, ắt ngộ tự đường này thì liền thấy được sự phân tích rõ ràng của ngài Đầu Tử đó chính là năng nhạn được lời lẽ mập mờ qua. 
 
 Tham cứu cho tường tận rõ ràng, không nên vội vàng.
 
 ## TỤNG CỔ
 
-> Người mù vào đường tối gặp ghềnh.
-Trời lặn bỏ lau tạm lên lại.
-Đâu giống ngồi đã nửa đêm.
-Khói cho vua Thuấn nhường ngôi nghỉ.
-Cần biết hoa nở chẳng liên quan cậy.
-Lúc không hành cước đã chạm đường.
-Hôm qua gió nổi đường Trường An.
-Vốn là Côn Luân trong bản đồ.
+> Người mù vào đường tối gặp ghềnh
+> 
+> Trời lặn bỏ lau tạm lên lại
+> 
+> Đâu giống ngồi đã nửa đêm
+> 
+> Khói cho vua Thuấn nhường ngôi nghỉ
+> 
+> Cần biết hoa nở chẳng liên quan cậy
+> 
+> Lúc không hành cước đã chạm đường
+> 
+> Hôm qua gió nổi đường Trường An
+> 
+> Vốn là Côn Luân trong bản đồ
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
-Mây đen chẳng biết trời sớm tối.
-Tuyết dày khó dò đường thấp cao.
+> Mây đen chẳng biết trời sớm tối
+> 
+> Tuyết dày khó dò đường thấp cao
+> 
+> Chánh trung diệu hiệp ai hiểu được
+> 
+> Muốn sống ngàn núi chỉ mình mê
+
+Đâu chỉ ban đêm mắt mù vào đường đá gập ghềnh. Sau của lúc sáng tỏ, tinh trần bị chôn vùi. Mặt trời lặn không cam chịu gác chèo ở bờ lau, chợt làn khói tan tỉnh giấc mộng. Đâu như một mình gái gõ đưa thoi cho đến canh ba. Nào giống người đã nửa đêm ngủ một mình không gối quế.
+
+Nghĩ rằng tâm không còn mê hoặc không chấp trước nhiễm ô, đâu biết chưa được hoàn toàn. Cho dù đến tàn thời nay miệng treo trên vách, không bằng thông kim hội cổ học theo những điều hay.
+
+Vua Thuấn đem thiên hạ nhường cho Thiên Quyền.
+
+Quyền nói: Tôi ở trong vũ trụ mùa đông mặc áo lông dạ, mùa hạ mặc lụa mỏng. Mùa xuân cày cấy gieo trồng, thân thể cân cú khỏe mạnh. Mùa thu thu hoạch, thân này đủ ấm no. Mặt trời lên thì đi làm, mặt trời lặn thì nghỉ. Thong dong giữa đất trời tâm ý được tự tại. Tôi lấy thiên hạ làm gì.
+
+Thiên Quyền là họ Thiên tên Quyền. Nhưng tâm đã bình an ý chăn thật, đâu lo ngắm hoa mà nhọc đến cành lá ư?
+
+Tuy không đi một bước mà đạo khắp mười phương. Đáng tiếc vì cuồng niệm mà trải qua ba đời. Không cần phải trên đường Trường An buông lung theo phong trần, thâm nhập núi Côn Luân ở trong bản đồ quốc gia mông nổi. Thời nay chưa biết làm sao hiểu được lời này.
+
+Sư lớn tiếng nói: Chớ nói mớ!
 
 <hr class="blog-rule" />
 
@@ -82,4 +114,4 @@ Tuyết dày khó dò đường thấp cao.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/deshan-xuanjian" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>
+[^1]: ⭐️ <a href="/masters/Deshan-Xuanjian" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>

@@ -12,7 +12,7 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Tìm hiểu sâu xa lấy khinh làm trọng.
 > Gặp mặt chào nhau, tiếp đón kính trọng.
@@ -21,7 +21,7 @@ Ngài Đan Hà dạy chúng:
 
 ## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 > Tăng hỏi Đạo Ngô [^1]: _Thế nào là chỗ thâm sâu của hòa thượng?_
 >
@@ -29,7 +29,7 @@ Ngài Đầu Tử cử:
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói:
 
 Sơ Tổ Đại Sĩ Đạt Ma nói: Ta ngày trước đến chốn này, truyền pháp cứu người mê, một hoa nở năm cánh, kết quả tự thành tựu.
 
@@ -73,7 +73,7 @@ Ngài Đầu Tử biết rõ ý này.
 
 ## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 Rồng thuận theo mây, hổ xuôi chịu gió, quy luật của sự vật thường nương vào nhau hoàn toàn không ngăn ngại.
 

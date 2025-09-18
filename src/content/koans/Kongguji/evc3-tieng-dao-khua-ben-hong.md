@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Đồng hành nhưng không thân, chính mình tùy nghi.
 > Không cần mắt thấy tai nghe, biết mà theo thanh đuổi sắc.
@@ -21,7 +21,7 @@ Ngài Đan Hà dạy chúng:
 
 ## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 > Dược Sơn [^1] đi dạo núi với Vân Nham [^2], tiếng dao khua bên hông.
 >
@@ -31,7 +31,7 @@ Ngài Đầu Tử cử:
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói:
 
 TS. Duy Nghiễm ở Dược Sơn, Ráng Châu nổi pháp ngài Thạch Đầu.
 
@@ -67,7 +67,7 @@ Nếu ông không tin, hãy xem bài tụng ngài Đầu Tử hết lòng khen n
 
 ## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 Biển cả ở phương Bắc có một loài cá tên côn.
 Thân nó to lớn không biết mấy ngàn dặm, nó biến thành chim bằng.

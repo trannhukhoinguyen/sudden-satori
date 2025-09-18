@@ -92,7 +92,7 @@ Rùa đã lên trăng mọc vảy lông.
 
 Trong trời đất, giữa vũ trụ, trong đó có một vật báu, ẩn trong thân thể.
 
-📢 gài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 Nhìn thì không thấy, lấy thì không được, lớn quên hết cảnh giới. Tuy rất to nhưng đồng với nhỏ, không còn thấy ranh giới. Người sáng được nó thì từ xưa nay thọ dụng bất tận, người không biết được nó thì lệ thuộc từ sáng đến tối chịu nhiều khốn khổ khó khăn. Không chỉ người họ Biện ở Kinh Sơn tìm kiếm.
 

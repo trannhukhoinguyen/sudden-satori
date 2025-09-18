@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Mắt nhìn thông khắp, sáu giác hòa trong.
 > Trong chốn đạo bình tĩnh thấy thái bình.
@@ -23,7 +23,7 @@ Ngài Đan Hà dạy chúng:
 
 ## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 > Ngài Dược Sơn [^1] hỏi Ngài Sa Di Cao [^2]: _Ta ở Trường An huyên náo_
 >
@@ -39,7 +39,7 @@ Ngài Đầu Tử cử:
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói:
 
 > Sa di Cao ở Lễ Châu, ban đầu tham vấn.
 >
@@ -79,7 +79,7 @@ Ngài Đầu Tử nói:
 >
 > Đối với chiếc xe này Dược Sơn không thể là bậc thầy chịu đuổi lý không uốn cong được. Đạo Ngô và Văn Ích đều xem xét lại, vì không tin.
 
-Lâm Tế nói:
+📢 Lâm Tế nói:
 
 > Có thể nói là người xuất chúng, nếu chẳng là bậc anh linh kiệt xuất, thì mới sánh được sự chấn động này.
 > Ở đây nếu thấu triệt được, thì mới tin rằng đạo ở trong trần lao không bị dục trói buộc, ở trong trần lao không nhiễm mà thường lìa, đi qua trong rừng trăm hoa, một cánh cũng không dính thân.
@@ -98,7 +98,7 @@ Lâm Tế nói:
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử dẫn Vương Hoàng Hoa nói:
+📢 Ngài Đầu Tử dẫn Vương Hoàng Hoa nói:
 
 > Việc đời biến đổi như mây
 >
@@ -108,7 +108,7 @@ Ngài Đầu Tử dẫn Vương Hoàng Hoa nói:
 Quả thật nói và làm giống nhau, tâm và miệng không hai. Ở đây nhìn thấu được, thì không bị vạn cảnh lừa dối.
 Thị được mất thị phi vinh nhục thành bại đâu trói buộc được ư?
 
-Ngài Phong Huyệt chỉ dạy:
+📢 Ngài Phong Huyệt chỉ dạy:
 
 > Nếu thành lập một cõi đời, nước nhà hưng thịnh
 >

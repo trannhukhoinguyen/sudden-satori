@@ -13,14 +13,14 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Còn phân biệt già trẻ, đẹp xấu, chưa ra khỏi sự bình phàm.
 > Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường, đã biết mất trái nửa cân, suy ra mất phải cũng tám lạng, sợ y không tin, thử nhìn kỹ xem.
 
 ## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 > Thạch Đầu đến chỗ ngài Hành Tư. Hành Tư hỏi: _Ông từ đâu đến?_
 
@@ -42,7 +42,7 @@ Hành Tư bảo: _Nói cho ông không ngại, chỉ sợ sau này không có ng
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói:
 
 Thiền sư Hy Thiên ở Thạch Đầu Nam Nhạc lúc còn Sa Di.
 khi Lục Tổ sắp tịch, Hy Thiên hỏi Tổ: _Sau này Ngài trăm tuổi, con chưa biết nương vào ai?_
@@ -59,7 +59,7 @@ Thủ Tọa nói: _Ông có sư huynh Hòa thượng Hành Tư ở tại Thanh N
 
 Hy Thiên nghe nói thế, đảnh lễ tháp Lục Tổ đến tham lễ Ngài Hành Tư.
 
-<hr class="blog-rule" />
+***
 
 Ngài Hành Tư hỏi: _Ông từ đâu đến?_
 
@@ -86,7 +86,7 @@ Thấy hiện tịnh bất phân thắng bại, cho nên Hy Thiên có nhã ý t
 > Than ôi! Người xưa tâm như gương sáng, cọ tọa châu lăn trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp thành một.
 > Điều này há không phải thâm khế hợp với Phật lý ư?
 
-<hr class="blog-rule" />
+***
 
 Vào đời Đường Niên Hiệu Thiên Bảo năm đầu Hy Thiên tìm đến Hoành Sơn Nam Tự.
 Phía đông của chùa có một tảng đá giống như cái đài, sư cất am trên đó.
@@ -126,7 +126,7 @@ Mặc dù Ngài Thạch Đầu nửa ẩn nửa hiện cho con cháu đời sau 
 
 ## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 Nếu luận về việc này, giống như phượng đỏ bay trên trời cao không lưu dấu.
 

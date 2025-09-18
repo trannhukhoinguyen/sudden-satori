@@ -28,7 +28,7 @@ image: /images/koans/great-wave.webp
 > Các ông nếu có cây gậy, ta cho ông thêm cây nữa. 
 > Nếu ông không có cây gậy, ta lấy cây gậy của ông.
 
-> Ngài Đầu Tử niệm: **Người không thấy xa thì phải lo gần**.
+📢  Ngài Đầu Tử niệm: **Người không thấy xa thì phải lo gần**.
 
 ## BÌNH XƯỚNG
 

@@ -22,7 +22,7 @@ Thử nói một câu mà tất cả sự việc trong vũ trụ dựa trên ấ
 
 > Phong Huyệt dạy rằng, "Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạt bụi, nước nhà suy vong.”
 
-Tuyết Đậu dơ gậy lên nói, “Có còn các nạp tăng đồng sinh đồng tử không?”
+📢 Tuyết Đậu dơ gậy lên nói, “**Có còn các nạp tăng đồng sinh đồng tử không?**”
 
 ## BÌNH
 
@@ -48,7 +48,13 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## BÌNH
 
-Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà bỏ một phía. Bớt dài thêm ngắn, bỏ nặng theo nhẹ. Cho nên mới nói rằng, “Lão quê có thể không nhướng mày. Mong rằng nhà nước vững mạnh luôn. Mưu thần mãnh tướng giờ đâu hết?” Khi Tuyết Đậu dơ gậy lên nói, “ Có còn các nạp tăng đồng sinh đồng tử không?” Cũng giống như thể nói rằng, "Có còn có mưu thần mãnh tướng không?” Một miệng nuốt luôn tất cả mọi người. Cho nên mới nói rằng đất rộng người thưa, kẻ gặp gở ít. Còn có kẻ biết nhau không? Bước ra đây cùng chọn chung một chỗ với nhau luôn“ Vạn dặm gió mát chỉ tự biết.” Đây chính là chỗ Tuyết Đậu tự điểm vào ngực mình.
+Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà bỏ một phía. Bớt dài thêm ngắn, bỏ nặng theo nhẹ. 
+
+Cho nên mới nói rằng, “Lão quê có thể không nhướng mày. Mong rằng nhà nước vững mạnh luôn. 
+
+Mưu thần mãnh tướng giờ đâu hết?” Khi Tuyết Đậu dơ gậy lên nói, “ Có còn các nạp tăng đồng sinh đồng tử không?” Cũng giống như thể nói rằng, "Có còn có mưu thần mãnh tướng không?” 
+
+Một miệng nuốt luôn tất cả mọi người. Cho nên mới nói rằng đất rộng người thưa, kẻ gặp gở ít. Còn có kẻ biết nhau không? Bước ra đây cùng chọn chung một chỗ với nhau luôn“ Vạn dặm gió mát chỉ tự biết.” Đây chính là chỗ Tuyết Đậu tự điểm vào ngực mình.
 
 <hr class="blog-rule" />
 

@@ -23,27 +23,35 @@ Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai 
 
 ## CỬ:
 
-- Triệu Châu [^1] dạy chúng nói, “_Đạo lớn không khó miễn đừng so đo. Vừa có ngôn ngữ lập tức có lựa chọn so đo.
-  Điều này hết sức minh bạch. Lão tăng này chẳng ở nơi minh bạch. Các ông có còn trì giữ gì chăng?_”
+> Ngài Triệu Châu [^1] dạy chúng nói, 
 
-- Lúc ấy có ông tăng hỏi, “_Không ở nơi minh bạch, thì thầy trì giữ cái gì?_”
+“**Đạo lớn không khó miễn đừng so đo. 
+Vừa có ngôn ngữ lập tức có lựa chọn so đo.
+Điều này hết sức minh bạch. 
+Lão tăng này chẳng ở nơi minh bạch. 
+Các ông có còn trì giữ gì chăng?**”
 
-- Triệu Châu nói “_Tôi cũng chẳng biết nữa_”.
+Lúc ấy có ông tăng hỏi, “_Không ở nơi minh bạch, thì thầy trì giữ cái gì?_”
 
-- Ông tăng nói, “_Hòa thượng đã không biết cớ sao còn nói là không ở nơi minh bạch?_”
+Ngài Triệu Châu nói “**Tôi cũng chẳng biết nữa**”.
 
-- Triệu Châu nói, “_Hỏi về vấn đề là đủ rồi. Mau lạy rồi trở lui_” .
+Ông tăng nói, “_Hòa thượng đã không biết cớ sao còn nói là không ở nơi minh bạch?_”
+
+Ngài Triệu Châu nói, “**Hỏi về vấn đề là đủ rồi. Mau lạy rồi trở lui**” .
 
 ## BÌNH:
 
-Triệu Châu thường dẫn lời “Đạo lớn không khó, miễn đừng so đo” này.
-Đây vốn là từ bài Tín Tâm Minh” của Tam Tổ “Đạo lớn không khó, miễn đừng so đo.
+Ngài Triệu Châu thường dẫn lời “**Đạo lớn không khó, miễn đừng so đo**” này.
+Đây vốn là từ bài Tín Tâm Minh” của Tam Tổ:
 
-Đừng thích hay ghét, tự nhiên minh bạch.” Vừa khởi lòng thị phi, tức là có lựa chọn so đo, điều này rất minh bạch. Vừa sinh lòng hiểu như thế, vấn đề kể như đã vuột mất.
+“Đạo lớn không khó, miễn đừng so đo.
+Đừng thích hay ghét, tự nhiên minh bạch.” 
 
+Vừa khởi lòng thị phi, tức là có lựa chọn so đo, điều này rất minh bạch. 
+Vừa sinh lòng hiểu như thế, vấn đề kể như đã vuột mất.
 Khi bị ràng buộc dính dấp, biết làm được gì?
 
-Triệu Châu nói, “Đây là lựa chọn so đo, điều này rất minh bạch”.
+Triệu Châu nói, “**Đây là lựa chọn so đo, điều này rất minh bạch**”.
 
 Thời buổi này người tham Thiền học đạo, nếu không vướng vào chỗ lựa chọn so đo, thì cũng ngồi trong sự minh bạch.
 

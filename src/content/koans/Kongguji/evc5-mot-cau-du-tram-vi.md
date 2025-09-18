@@ -13,14 +13,14 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Xem mầm biết đất, biết ngọn, lời nói, cho đến nay mới được thành lập.
 > Tự cận đến sau sao tìm ra?
 
 ## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 > Vân Nham ban đầu tham vấn Dược Sơn. Dược Sơn hỏi: _Từ đâu đến?_
 >
@@ -50,7 +50,7 @@ Ngài Đầu Tử cử:
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói:
 
 Tự tánh, đương nhiên sư Vân Nham Đàm Thạnh nương ngài Bách Trượng gần 20 năm.
 Không hợp nhân duyên, về sau đến yết kiến ngài Dược Sơn.
@@ -102,7 +102,7 @@ Lời ấy chính là pháp tắc phụ úy điểm khó của Dược Sơn, mà
 
 ## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 Thiện Tài đi về phương Nam tham vấn các bậc thiện tri thức.
 Đến chỗ Tỳ Kheo Đức Vân, trải qua núi đá cheo leo cũng không gặp được.

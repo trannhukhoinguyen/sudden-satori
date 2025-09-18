@@ -141,14 +141,10 @@ Thử nói xem hiện giờ Đạt Ma ở đâu? Đi qua rồi mà cũng chẳng
 > Đừng nhớ mong
 >
 > Gió thổi mặt đất bao giờ ngưng
->
-> Sư nhìn hai bên nói:
->
-> Nơi này còn có Tổ Sư chăng?
->
-> Tự đáp, “Có”.
->
-> Đến đây rửa chân cho lão tăng
+
+📢  Sư nhìn hai bên nói: **Nơi này còn có Tổ Sư chăng?**
+
+📢 Tự đáp, **Có. Đến đây rửa chân cho lão tăng**
 
 ## BÌNH:
 

@@ -31,7 +31,7 @@ image: /images/koans/great-wave.webp
 >
 > Phù Sơn nói: **Lý Lăng vốn là thần của triều Hán**
 
-> Đầu Tử niêm: **Nước sâu cá yên ổn, lá rụng tóe tan tác**
+📢  Đầu Tử niêm: **Nước sâu cá yên ổn, lá rụng tóe tan tác**
 
 ## BÌNH XƯỚNG
 
@@ -80,7 +80,6 @@ Làm cho người học ở trong lời nói mà chẳng phải lời, ở trong
 Không nghe tự tai, nghe tiếng bằng mắt, lại hiểu được chăng?
 
 Âm thanh không gián đoạn, nhiều kiếp vang lanh lãnh.
-
 
 ## TỤNG CỔ
 

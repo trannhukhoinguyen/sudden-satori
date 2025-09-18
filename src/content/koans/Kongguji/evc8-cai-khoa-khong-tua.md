@@ -12,14 +12,14 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Biển sâu vạn trượng phải thấu tới đáy. Giếng sâu ngàn thước còn đến tận nguồn ấy.
 > Chỉ có việc vi diệu thâm mật này khó sáng tỏ, chợt gặp nạp tăng ở sau ót mất trên đảnh môn, làm sao chỉ dạy?
 
 ## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 > Tăng hỏi Thạch Sương [^1]: _Thế nào là thâm sâu của Hòa Thượng?_
 >
@@ -27,7 +27,7 @@ Ngài Đầu Tử cử:
 
 ## BÌNH XƯỚNG
 
-Ngài Đầu Tử dẫn:
+📢 Ngài Đầu Tử dẫn:
 
 > Thiền sư Khánh Chư ở Thạch Sương, người Tân Cam, Lô Lăng họ Trần. Sư xuất gia với Thiền sư Thiệu Loan Tây Sơn Hồng Tĩnh.
 > Đến Lạc Dương học giáo, tuy biết tuân theo luật, nhưng cho là tiệm tông. Ngài về Quy Sơn, lúc làm mê đầu, hỏi đáp khế hợp ý.
@@ -71,7 +71,7 @@ Cái chơn chánh bất lự lý ấy há dễ thấy được sao? Chỗ này c
 
 ## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 > Động Sơn từng phấn đấu Thiên Chúc. Vị là Chánh Trung Thiên.
 

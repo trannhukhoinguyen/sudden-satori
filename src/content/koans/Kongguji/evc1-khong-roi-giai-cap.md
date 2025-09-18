@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Ngài Đan Hà dạy chúng:
+📢 Ngài Đan Hà dạy chúng:
 
 > Hãy quên hết thế sự, đâu cần suy nghĩ nhiều.
 > Chỉ đập tan khối nghi, cần gì một câu huyền diệu.
@@ -21,7 +21,7 @@ Ngài Đan Hà dạy chúng:
 
 ## CỬ - BẢN TẮC::
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
 1
 
@@ -39,12 +39,10 @@ Ngài Đầu Tử cử:
 > Ông cố gắng giữ gìn. (_mong nghe pháp yếu_)
 > Ta có bài kệ ấn chứng cho ông.
 
-<Poem>
 Đất tâm chứa các giống (_đều ở trong đó_)
 Mưa khắp đều nảy mầm (_các pháp từ duyên sanh_)
 Hoa đốn ngộ thật nở (_đều không sanh cành lá_)
 Quả bồ đề tự thành (_phải biết vị ngọt trong vị đắng_)
-</Poem>
 
 ## BÌNH XƯỚNG
 
