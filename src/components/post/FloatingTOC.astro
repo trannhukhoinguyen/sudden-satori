@@ -193,7 +193,7 @@ const tocHeadingsH2: Heading[] = headings.filter(h => h.depth === 2);
     .toc-toggle {
         position: fixed;
         top: 50%;
-        right: 0.5rem;
+        right: 1rem;
         z-index: 20;
         color: var(--color-text-toc);
         background: var(--color-background-toc);
@@ -314,7 +314,7 @@ const tocHeadingsH2: Heading[] = headings.filter(h => h.depth === 2);
     /* Show toggle only on small screens */
     @media (max-width: 1400px) {
         .toc-toggle, .floating-toc-mobile  {
-            display: flex;
+            display: block; // flex
         }
     }
 </style>
