@@ -50,15 +50,31 @@ Vì giới hạn về dung lượng, bài viết này chỉ chọn lọc một s
 
 <Cảnh Đức Truyền Đăng Lục> Quyển 18 ghi chép:
 
-> Thiền sư **Huyền Sa Sư Bị**, sinh vào cuối đời Đường đầu Ngũ Đại, người Phúc Kiến, vì đọc Kinh Lăng Nghiêm mà phát minh tâm địa, sau đó "ứng cơ mẫn tiệp, dữ tu đa la minh khế. Chư phương huyền học hữu sở vị quyết định, tất tùng chi thỉnh ích". Đến nỗi khi tranh luận với sư huynh Tuyết Phong Hòa Thượng, cũng không nhường nhịn. Tuyết Phong Hòa Thượng gọi ông là "Tái lai nhân".                       Ông có <Huyền Sa Sư Bị Thiền Sư Quảng Lục> ba quyển, lưu truyền trên đời. Thiền sư Huyền Sa Bị không chỉ tự mình khai ngộ nhờ Lăng Nghiêm, mà còn dùng Kinh Lăng Nghiêm để dẫn dắt người khác khai ngộ.
-Như <Thiền Uyển Mông Cầu Dao Lâm> quyển 2 ghi chép, Thiền sư Huệ Cầu Tịch Chiếu ở An Quốc Viện Phúc Châu hỏi Thiền sư Huyền Sa: "Thế nào là tháng đầu tiên?" Sa nói: "Dùng tháng đó của ngươi làm gì?" Cầu nghe lời đó liền đại ngộ. <Thiền Lâm Loại Tụ> quyển 14 ghi chép, Thiền sư Huyền Sa Bị vì có một vị tăng mới vào tùng lâm tên là Kính Thanh đến tham vấn, cầu chỉ cho một lối vào. "Sư nói: Ngươi có nghe tiếng nước suối Yển Khê không? Thanh nói: Nghe. Sư nói: Từ đây mà vào. Kính Thanh nghe lời đó liền đại ngộ". Tình tiết đánh chuông nghiệm thường trong Kinh Lăng Nghiêm, như hiện ra trước mắt.
+> Thiền sư **Huyền Sa Sư Bị**, sinh vào cuối đời Đường đầu Ngũ Đại, người Phúc Kiến, vì đọc Kinh Lăng Nghiêm mà phát minh tâm địa, sau đó "ứng cơ mẫn tiệp, dữ tu đa la minh khế. Chư phương huyền học hữu sở vị quyết định, tất tùng chi thỉnh ích". Đến nỗi khi tranh luận với sư huynh Tuyết Phong Hòa Thượng, cũng không nhường nhịn. Tuyết Phong Hòa Thượng gọi ông là "Tái lai nhân".
+>
+> Ông có <Huyền Sa Sư Bị Thiền Sư Quảng Lục> ba quyển, lưu truyền trên đời. Thiền sư Huyền Sa Bị không chỉ tự mình khai ngộ nhờ Lăng Nghiêm, mà còn dùng Kinh Lăng Nghiêm để dẫn dắt người khác khai ngộ.
+>
+> Như <Thiền Uyển Mông Cầu Dao Lâm> quyển 2 ghi chép, Thiền sư Huệ Cầu Tịch Chiếu ở An Quốc Viện Phúc Châu hỏi Thiền sư Huyền Sa: "Thế nào là tháng đầu tiên?"
+> Sa nói: "Dùng tháng đó của ngươi làm gì?"
+> Cầu nghe lời đó liền đại ngộ.
+> <Thiền Lâm Loại Tụ> quyển 14 ghi chép, Thiền sư Huyền Sa Bị vì có một vị tăng mới vào tùng lâm tên là Kính Thanh đến tham vấn, cầu chỉ cho một lối vào.
+> Sư nói: Ngươi có nghe tiếng nước suối Yển Khê không?
+> Thanh nói: Nghe.
+> Sư nói: Từ đây mà vào.
+> Kính Thanh nghe lời đó liền đại ngộ".
+> Tình tiết đánh chuông nghiệm thường trong Kinh Lăng Nghiêm, như hiện ra trước mắt.
 
 ## 2. Thiền sư Thượng Phương Ngộ An đời Tống
 
 <Ngũ Đăng Hội Nguyên> Quyển 10 ghi chép,
 
-Thiền sư **Thượng Phương Ngộ An** ở chùa Thụy Lộc Ôn Châu, người Phúc Châu. Tụng đọc Kinh Lăng Nghiêm không ngừng, một hôm vì tụng đến "Tri kiến lập tri, tức vô minh bản. Tri kiến vô kiến, tư tức Niết Bàn", Thiền sư Ngộ An phá câu đọc thành: "Tri kiến lập, tri tức vô minh bản. Tri kiến vô, kiến tư tức Niết Bàn", do đó đại triệt đại ngộ. Người đương thời gọi ông là "An Lăng Nghiêm". Sau này mỗi khi ông đọc Kinh Lăng Nghiêm đều đọc như vậy, người khác nói ông phá câu, Thiền sư nói: "Đây là chỗ ngộ của ta, suốt đời không đổi."
-Về điều này, <Đại Huệ Phổ Giác Thiền Sư Ngữ Lục> quyển 22 có hai điểm đánh giá, một là quyết định chí trung thừa quyết định tín, hai là y nghĩa bất y văn tự.
+Thiền sư **Thượng Phương Ngộ An** ở chùa Thụy Lộc Ôn Châu, người Phúc Châu, tụng đọc Kinh Lăng Nghiêm không ngừng.
+
+Một hôm vì tụng đến "**Tri kiến lập tri, tức vô minh bản. Tri kiến vô kiến, tư tức Niết Bàn**", Thiền sư Ngộ An phá câu đọc thành: "**Tri kiến lập, tri tức vô minh bản. Tri kiến vô, kiến tư tức Niết Bàn**", do đó đại triệt đại ngộ. 
+
+Người đương thời gọi ông là "An Lăng Nghiêm". Sau này mỗi khi ông đọc Kinh Lăng Nghiêm đều đọc như vậy, người khác nói ông phá câu, Thiền sư nói: "Đây là chỗ ngộ của ta, suốt đời không đổi."
+
+Về điều này, <Đại Huệ Phổ Giác Thiền Sư Ngữ Lục> quyển 22 có hai điểm đánh giá, một là **quyết định chí trung thừa quyết định tín**, hai là **y nghĩa bất y văn tự**.
 
 ## 3. Đại sư Trường Thủy Tử Toàn đời Bắc Tống
 
@@ -76,33 +92,37 @@ Thiền sư **Huệ Giác** quát lớn: "_Thanh tịnh bản nhiên. Vân hà h
 Đại sư **Trường Thủy** nhờ tiếng quát này mà phát minh tâm địa, sau đó thị phụng Thiền sư nhiều năm.
 
 Ngài cả đời trước sau khai giảng Kinh Lăng Nghiêm đạt hơn ba mươi hội, từng cảm ứng trời mưa hoa.
-Để lại <Lăng Nghiêm Kinh Sớ> hai mươi mốt quyển, ảnh hưởng cực lớn.
+Để lại <Lăng Nghiêm Kinh Sớ> 21 quyển, ảnh hưởng cực lớn.
 
 ## 4. Pháp sư Pháp Thường đời Tống
 
 <Đại Minh Cao Tăng Truyện> Quyển 7 ghi chép,
 
-Thích **Pháp Thường**, người Khai Phong Hà Nam, năm Tuyên Hòa thứ tư (1122), nương theo **Công Hoa Nghiêm Thức** ở Ích Dương Trường Sa cạo tóc, rất ngưỡng mộ Đại thừa, nhưng cũng không bài xích Tiểu giáo. 
+Thích **Pháp Thường**, người Khai Phong Hà Nam, năm Tuyên Hòa thứ tư (1122), nương theo **Công Hoa Nghiêm Thức** ở Ích Dương Trường Sa cạo tóc, rất ngưỡng mộ Đại thừa, nhưng cũng không bài xích Tiểu giáo.
+
 Một hôm, đọc Kinh Lăng Nghiêm mà có thể thông nghĩa pháp hải, từ đó du Hoài Tứ, phóng lãng Hồ Tương. 
-Sau đến chùa Vạn Niên núi Thiên Thai, tham yết Tuyết Sào, vừa gặp đã cơ ngữ khế hội, Tuyết Sào liền sai sư quản lý hàn tiễn, rất có phong thái. 
+Sau đến chùa Vạn Niên núi Thiên Thai, tham yết Tuyết Sào, vừa gặp đã cơ ngữ khế hội, Tuyết Sào liền sai sư quản lý hàn tiễn, rất có phong thái.
+
 Một hôm, viết một bài từ ngư phủ lên cửa phòng để thị chúng, viết xong thì viên tịch.
 
 Bài từ này chính là bài "Lăng Nghiêm Nhất Tiếu" mà mọi người ngày nay đều biết và hát.
 Nguyên văn như sau: 
 
-> "Thử sự Lăng Nghiêm thường lộ bố,
-> Mai hoa tuyết nguyệt giao quang xứ.
-> Nhất tiếu liêu liêu không vạn cổ, Phong âu ngữ, Hồi nhiên ngân hán hoành thiên vũ.
-> Điệp mộng Nam Hoa phương hủ hủ,
-> Ban ban thùy khóa Phong Can hổ.
-> Nhi kim vong khước lai thời lộ, Giang sơn mộ,
-> Thiên nhai mục tống phi hồng khứ."
-
-
-
-ChatGPT
-Bạn đã nói:
-Dịch giúp mình: bài “Lăng Nghiêm Nhất Tiếu” mà mọi người ngày nay đều biết và hát. Nguyên văn như sau: “Thử sự Lăng Nghiêm thường lộ bố, Mai hoa tuyết nguyệt giao quang xứ. Nhất tiếu liêu liêu không vạn cổ, Phong âu ngữ, Hồi nhiên ngân hán hoành thiên vũ. Điệp mộng Nam Hoa phương hủ hủ, Ban ban thùy khóa Phong Can hổ. Nhi kim vong khước lai thời lộ, Giang sơn mộ, Thiên nhai mục tống phi hồng khứ.”
+> Thử sự Lăng Nghiêm thường lộ bố
+> 
+> Mai hoa tuyết nguyệt giao quang xứ
+> 
+> Nhất tiếu liêu liêu không vạn cổ, Phong âu ngữ, Hồi nhiên ngân hán hoành thiên vũ
+> 
+> Điệp mộng Nam Hoa phương hủ hủ
+> 
+> Ban ban thùy khóa Phong Can hổ
+> 
+> Nhi kim vong khước lai thời lộ,
+>
+> Giang sơn mộ
+> 
+> Thiên nhai mục tống phi hồng khứ
 
 HÁN:
 
@@ -113,47 +133,61 @@ HÁN:
 
 DỊCH NGHĨA:
 
-Việc này Lăng Nghiêm thường bày tỏ,
-Nơi mai, tuyết, trăng cùng soi chiếu.
-Một nụ cười rỗng lặng suốt muôn đời,
-Gió trò chuyện với âu,
-Ngân Hà bỗng trải ngang trời rộng.
-
-Mộng bướm Nam Hoa hương còn ngát,
-Ai buộc được hổ Phong Can?
-Nay đã quên rồi đường cũ đến,
-Núi sông buổi xế,
-Tận chân trời tiễn bóng chim hồng bay.
+> Việc này Lăng Nghiêm thường bày tỏ
+> 
+> Nơi mai, tuyết, trăng cùng soi chiếu
+> 
+> Một nụ cười rỗng lặng suốt muôn đời
+> 
+> Gió trò chuyện với âu
+> 
+> Ngân Hà bỗng trải ngang trời rộng
+> 
+> Mộng bướm Nam Hoa hương còn ngát
+>
+> Ai buộc được hổ Phong Can?
+> 
+> Nay đã quên rồi đường cũ đến
+> 
+> Núi sông buổi xế
+> 
+> Tận chân trời tiễn bóng chim hồng bay
 
 THƠ:
 
-Lăng Nghiêm tỏ lộ đạo thường hằng,
-Mai, tuyết, trăng hòa sáng rạng ngần.
+> Lăng Nghiêm tỏ lộ đạo thường hằng
+> 
+> Mai, tuyết, trăng hòa sáng rạng ngần.
 Một cười khơi lặng không muôn kiếp,
 Gió nói cùng âu,
 Ngân hà trải ngút ngang trời thẳm.
-
-Mộng bướm Nam Hoa hương phảng phất,
-Ai khóa nổi hổ Phong Can đâu?
+>
+> Mộng bướm Nam Hoa hương phảng phất,
+> Ai khóa nổi hổ Phong Can đâu?
 Đường xưa đã mất, nay quên cả,
-Chiều phủ non sông,
-Đầu trời tiễn cánh hồng bay xa.
+> Chiều phủ non sông,
+> Đầu trời tiễn cánh hồng bay xa
 
 ## 5. Thiền sư Phá Sơn Hải Minh đời Minh
 
 Thiền sư **Phá Sơn Hải Minh** được tôn xưng là "Phá Sơn Tổ Sư", người Tứ Xuyên, mười chín tuổi xuất gia tại chùa Diên Phúc nghe Pháp sư Huệ Nhiên giảng Kinh Lăng Nghiêm, đến đoạn 
 
-> "Tất cả chúng sinh, đều do không biết thường trụ chân tâm, tánh tịnh minh thể, dùng các vọng tưởng, vọng tưởng này không chân thật, nên có luân chuyển", 
+> "Tất cả chúng sinh, đều do không biết thường trụ chân tâm, tánh tịnh minh thể, dùng các vọng tưởng, vọng tưởng này không chân thật, nên có luân chuyển",
 
-thì khởi đại nghi tâm, thỉnh ích mà không thể quyết, bèn một mình rời Thục đông du, khắp nơi tham vấn các danh tăng. Sau đến đạo tràng Phá Đầu Sơn của Đại sư Tứ Tổ Đạo Tín ở Hoàng Mai, nghiên cứu ngữ lục Thiền tông ba năm, mãnh liệt khổ tham. 
+thì khởi đại nghi tâm, thỉnh ích mà không thể quyết, bèn một mình rời Thục đông du, khắp nơi tham vấn các danh tăng.
+
+Sau đến đạo tràng Phá Đầu Sơn của Đại sư Tứ Tổ Đạo Tín ở Hoàng Mai, nghiên cứu ngữ lục Thiền tông ba năm, mãnh liệt khổ tham. 
 
 Một ngày, trong lúc kinh hành không cẩn thận ngã xuống vách núi, chân bị thương rất đau, do đó đại triệt đại ngộ. Được Đại thiền sư Mật Vân Viên Ngộ đương thời ấn chứng, được trao pháp y. Thiền sư Phá Sơn Hải Minh sau này trở về Ba Thục, từng trụ trì chín ngôi chùa lớn như Vạn Phong, Phượng Sơn, Tường Phù, Vô Tế, Bàn Long, Phật Ân, Song Quế, v.v., trọng hưng đạo của Mã Tổ, tông phong truyền bá xa rộng, chúng đệ tử sáng tham tối thỉnh đông đến vạn người.
 
 ## 6. Đại sư Hám Sơn đời Minh
 
 Đại sư **Hám Sơn Đức Thanh** là một vị Thiền môn cự phách khác vào cuối đời Minh, từng tham học với Thiền sư Vân Cốc, mà Thiền sư Vân Cốc cũng là một vị đại đức Thiền môn đời Minh. 
+
 Phương pháp tu hành của chính Đại sư Hám Sơn là pháp môn Nhĩ Căn Viên Thông của Bồ Tát Quán Âm trong Kinh Lăng Nghiêm. Đại sư từng dành nhiều năm để luyện tập nghe tiếng nước chảy, để phản văn văn tự tánh, tham cứu hướng thượng nhất lộ. 
+
 Sau đó trong một lần bế quan ở Ngũ Đài Sơn, mà được ngộ tâm địa. Nhưng về chỗ ngộ của mình, lúc đó không có ai bên cạnh ấn chứng, thế là Đại sư liền mở Kinh Lăng Nghiêm, dùng kinh này để ấn chứng cảnh giới mình đã ngộ được, phát hiện hoàn toàn nhất quán với những gì Kinh Lăng Nghiêm nói. 
+
 Trong lời tựa của <Lăng Nghiêm Kinh Thông Nghị>, Đại sư tự thuật đoạn kinh nghiệm này: "Ta xưa ở trong băng tuyết Ngũ Đài, tham cứu hướng thượng, lấy kinh này ấn chứng, kiên ngưng chính tâm để chiếu rọi, hoát nhiên có sở đắc. Đến Đông Hải, khô tọa ba năm, ngẫu nhiên đọc kinh này, một đêm tại hải trạm không trừng, tuyết nguyệt quang giao chi tế hoảng nhiên đại ngộ. Bỗng thân tâm thế giới, đương hạ bình trầm, như không hoa ảnh lạc. Đêm đó cầm đèn, thuật <Huyền Kính> một quyển, bèn y nhất tâm tam quán, dung hội nhất kinh."
 
 Sau đó, Đại sư trước tác
