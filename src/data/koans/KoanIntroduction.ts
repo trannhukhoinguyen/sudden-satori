@@ -6,10 +6,10 @@ export interface koanType {
 }
 export const koanDescription = {
   bottom: {
-    intro: 'Là một phương tiện tối trọng để đạt giác ngộ, phép quán công án đòi hỏi ba yếu tố mà thiền sinh phải đạt được là:',
+    intro: 'Là một phương tiện tối trọng để đạt giác ngộ, phép quán công án đòi hỏi 3 yếu tố mà thiền sinh phải đạt được là:',
     body: [
       '1. ĐẠI TÍN ở đây được hiểu như là niềm tin tuyệt đối vào khả năng giác ngộ của chính mình',
-      '2. ĐẠI PHẤN CHÍ là sự tinh tiến, kiên trì dũng mãnh',
+      '2. 🤯 ĐẠI PHẤN CHÍ là sự tinh tiến, kiên trì dũng mãnh',
       '3. ĐẠI NGHI ĐOÀN ở đây không có nghĩa nghi ngờ bình thường mà chỉ trạng thái tập trung tư tưởng tuyệt đỉnh',
     ],
   },
@@ -20,7 +20,7 @@ export const koanDescription = {
     body:
       'Hãy tận dụng ba trăm sáu mươi xương cốt, tám vạn bốn ngàn lỗ chân lông, vận dụng cả thân tâm trở thành một khối nghi, tham ngay chữ không, ngày đêm nghiền ngẫm. ' +
       'Bỏ hết những cái biết tệ hại trước kia, lâu ngày trở thành thuần thục, tự nhiên trong ngoài thành một khối, như kẻ câm nằm mộng chỉ một mình mình hay. ' +
-      'Bỗng nhiên bộc phát, trời kinh đất chuyển, như đoạt được thanh đại đao của Quan Vũ, gặp Phật giết Phật, gặp Tổ giết Tổ, dửng dưng với bờ sinh tử, đạt đại tự tại, chu du trong lục đạo, tứ sinh.... ',
+      'Bỗng nhiên bộc phát 🧨💣💥, trời kinh đất chuyển, như đoạt được thanh đại đao của Quan Vũ, gặp Phật giết Phật, gặp Tổ giết Tổ, dửng dưng với bờ sinh tử, đạt đại tự tại, chu du trong lục đạo, tứ sinh.... ',
   }
 };
 
