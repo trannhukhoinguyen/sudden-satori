@@ -14,81 +14,81 @@ export const KonggujiTitles: KoanTitle[] = [
   { title: "Muôn Cửa Đều Mở", slug: "evc11-muon-cua-deu-mo" },
   { title: "Cửu Phong Đan Thanh", slug: "evc12-cuu-phong-dan-thanh" },
   { title: "Thiếu Sơn Thị Phi", slug: "evc13-thieu-son-thi-phi" },
-  { title: "Lương Sơn Ý Tổ", slug: "" },
-  { title: "Long Nha Con Rùa", slug: "" },
-  { title: "Linh Vân Hoa Đào", slug: "" },
-  { title: "Mẫu Tháp Quốc Sư", slug: "" },
-  { title: "Một Hớp Cạn Sông Tây Giang", slug: "" },
-  { title: "Tăng Hội Trường Sa", slug: "" },
-  { title: "Vân Nham Nam Tuyên", slug: "" },
-  { title: "Uống Trà Triệu Châu", slug: "" },
-  { title: "Đại Tùy Ô Qui", slug: "" },
-  { title: "Nam Tuyên Độ Mèo", slug: "" },
-  { title: "Vân Cư Ở Núi", slug: "" },
-  { title: "Đan Hà Thiêu Phật", slug: "" },
-  { title: "Gà Ở Tổ Phượng", slug: "" },
-  { title: "Sơ Sơn Đáp Phật", slug: "" },
-  { title: "Về Nguồn Được Chỉ", slug: "" },
-  { title: "Hỏi Cảnh Giáp Sơn", slug: "" },
-  { title: "Tào Sơn Xuất Thế", slug: "" },
-  { title: "Không Chốn Ẩn Thân", slug: "" },
-  { title: "Phong Huyệt Khúc Xưa", slug: "" },
-  { title: "Đầu Tử Kiếp Lửa", slug: "" },
-  { title: "Mễ Hồ Hồi Ngộ", slug: "" },
-  { title: "Cảnh Thanh Có Lời", slug: "" },
-  { title: "Vân Môn Minh Giáo", slug: "" },
-  { title: "Vân Cư Sáu Cửa", slug: "" },
-  { title: "Phong Huyệt Hoàng Long", slug: "" },
-  { title: "Tuyết Phong Nam Tế", slug: "" },
-  { title: "Đại Sĩ Không Đứng Dậy", slug: "" },
-  { title: "Thủ Sơn Thành Thiết", slug: "" },
-  { title: "Vân Môn Bánh Bột", slug: "" },
-  { title: "Việc Truyền Thừa", slug: "" },
-  { title: "Răng Cửa Mọc Lông", slug: "" },
-  { title: "Pháp Thân Báu", slug: "" },
-  { title: "Ngắm Núi Ban Ngày", slug: "" },
-  { title: "Rồng Thăm Tổ Phụng", slug: "" },
-  { title: "Ba Lăng Gà Vịt", slug: "" },
-  { title: "Đầu Tử Phàm Thánh", slug: "" },
-  { title: "Hỏi Đạo Triệu Châu", slug: "" },
-  { title: "Ngưỡng Sơn Sống Núi", slug: "" },
-  { title: "Thủ Sơn Bồ Đề", slug: "" },
-  { title: "Nham Đầu Cảnh Buồm", slug: "" },
-  { title: "Phong Huyệt Nai Chúa", slug: "" },
-  { title: "Đầu Tử Ba Thân", slug: "" },
-  { title: "Ý Chỉ Tào Khê", slug: "" },
-  { title: "Tuyết Phong Sen Sanh Trường", slug: "" },
-  { title: "Quảng Giáo Kỹ Châu", slug: "" },
-  { title: "Phong Huyệt Đánh Cầu", slug: "" },
-  { title: "Tăng Hội Thủ Sơn", slug: "" },
-  { title: "Thủ Sơn Kinh Này", slug: "" },
-  { title: "Triệu Hoành Dốc Cao", slug: "" },
-  { title: "Cửu Phong Lòng Rùa", slug: "" },
-  { title: "Lâm Tế Suy Mạo", slug: "" },
-  { title: "Đại Tùy Chứng Qui", slug: "" },
-  { title: "Thụy Nham Bất Xuất", slug: "" },
-  { title: "Văn Thù Thành Nhọc", slug: "" },
-  { title: "Thượng Lam Thị Triển", slug: "" },
-  { title: "Lạc Phổ Tạng Giáo", slug: "" },
-  { title: "Ba Tiêu Pháp Thân", slug: "" },
-  { title: "Ba Tiêu Tốt Xấu", slug: "" },
-  { title: "Thiên Bàng Gìn Giữ Tông Phong", slug: "" },
-  { title: "Hòa Sơn Đánh Trống", slug: "" },
+  { title: "Lương Sơn Ý Tổ", slug: "evc14-luong-son-y-to" },
+  { title: "Long Nha Con Rùa", slug: "evc15-long-nha-con-rua" },
+  { title: "Linh Vân Hoa Đào", slug: "evc16-linh-van-hoa-dao" },
+  { title: "Mẫu Tháp Quốc Sư", slug: "evc17-mau-thap-quoc-su" },
+  { title: "Một Hớp Cạn Sông Tây Giang", slug: "evc18-mot-hop-can-song-tay-giang" },
+  { title: "Tăng Hội Trường Sa", slug: "evc19-tang-hoi-truong-sa" },
+  { title: "Vân Nham Nam Tuyên", slug: "evc20-van-nham-nam-tuyen" },
+  { title: "Uống Trà Triệu Châu", slug: "evc21-uong-tra-trieu-chau" },
+  { title: "Đại Tùy Ô Qui", slug: "evc22-dai-tuy-o-qui" },
+  { title: "Nam Tuyên Độ Mèo", slug: "evc23-nam-tuyen-do-meo" },
+  { title: "Vân Cư Ở Núi", slug: "evc24-van-cu-o-nui" },
+  { title: "Đan Hà Thiêu Phật", slug: "evc25-dan-ha-thieu-phat" },
+  { title: "Gà Ở Tổ Phượng", slug: "evc26-ga-o-to-phuong" },
+  { title: "Sơ Sơn Đáp Phật", slug: "evc27-so-son-dap-phat" },
+  { title: "Về Nguồn Được Chỉ", slug: "evc28-ve-nguon-duoc-chi" },
+  { title: "Hỏi Cảnh Giáp Sơn", slug: "evc29-hoi-canh-giap-son" },
+  { title: "Tào Sơn Xuất Thế", slug: "evc30-tao-son-xuat-the" },
+  { title: "Không Chốn Ẩn Thân", slug: "evc31-khong-chon-an-than" },
+  { title: "Phong Huyệt Khúc Xưa", slug: "evc32-phong-huyet-khuc-xua" },
+  { title: "Đầu Tử Kiếp Lửa", slug: "evc33-dau-tu-kiep-lua" },
+  { title: "Mễ Hồ Hồi Ngộ", slug: "evc34-me-ho-hoi-ngo" },
+  { title: "Cảnh Thanh Có Lời", slug: "evc35-canh-thanh-co-loi" },
+  { title: "Vân Môn Minh Giáo", slug: "evc36-van-mon-minh-giao" },
+  { title: "Vân Cư Sáu Cửa", slug: "evc37-van-cu-sau-cua" },
+  { title: "Phong Huyệt Hoàng Long", slug: "evc38-phong-huyet-hoang-long" },
+  { title: "Tuyết Phong Nam Tế", slug: "evc39-tuyet-phong-nam-te" },
+  { title: "Đại Sĩ Không Đứng Dậy", slug: "evc40-dai-si-khong-dung-day" },
+  { title: "Thủ Sơn Thành Thiết", slug: "evc41-thu-son-thanh-thiet" },
+  { title: "Vân Môn Bánh Bột", slug: "evc42-van-mon-banh-bot" },
+  { title: "Việc Truyền Thừa", slug: "evc43-viec-truyen-thua" },
+  { title: "Răng Cửa Mọc Lông", slug: "evc44-rang-cua-moc-long" },
+  { title: "Pháp Thân Báu", slug: "evc45-phap-than-bau" },
+  { title: "Ngắm Núi Ban Ngày", slug: "evc46-ngam-nui-ban-ngay" },
+  { title: "Rồng Thăm Tổ Phụng", slug: "evc47-rong-tham-to-phung" },
+  { title: "Ba Lăng Gà Vịt", slug: "evc48-ba-lang-ga-vit" },
+  { title: "Đầu Tử Phàm Thánh", slug: "evc49-dau-tu-pham-thanh" },
+  { title: "Hỏi Đạo Triệu Châu", slug: "evc50-hoi-dao-trieu-chau" },
+  { title: "Ngưỡng Sơn Sống Núi", slug: "evc51-nguong-son-song-nui" },
+  { title: "Thủ Sơn Bồ Đề", slug: "evc52-thu-son-bo-de" },
+  { title: "Nham Đầu Cảnh Buồm", slug: "evc53-nham-dau-canh-buom" },
+  { title: "Phong Huyệt Nai Chúa", slug: "evc54-phong-huyet-nai-chua" },
+  { title: "Đầu Tử Ba Thân", slug: "evc55-dau-tu-ba-than" },
+  { title: "Ý Chỉ Tào Khê", slug: "evc56-y-chi-tao-khe" },
+  { title: "Tuyết Phong Sen Sanh Trường", slug: "evc57-tuyet-phong-sen-sanh-truong" },
+  { title: "Quảng Giáo Kỹ Châu", slug: "evc58-quang-giao-ky-chau" },
+  { title: "Phong Huyệt Đánh Cầu", slug: "evc59-phong-huyet-danh-cau" },
+  { title: "Tăng Hội Thủ Sơn", slug: "evc60-tang-hoi-thu-son" },
+  { title: "Thủ Sơn Kinh Này", slug: "evc61-thu-son-kinh-nay" },
+  { title: "Triệu Hoành Dốc Cao", slug: "evc62-trieu-hoanh-doc-cao" },
+  { title: "Cửu Phong Lòng Rùa", slug: "evc63-cuu-phong-long-rua" },
+  { title: "Lâm Tế Suy Mạo", slug: "evc64-lam-te-suy-mao" },
+  { title: "Đại Tùy Chứng Qui", slug: "evc65-dai-tuy-chung-qui" },
+  { title: "Thụy Nham Bất Xuất", slug: "evc66-thuy-nham-bat-xuat" },
+  { title: "Văn Thù Thành Nhọc", slug: "evc67-van-thu-thanh-nhoc" },
+  { title: "Thượng Lam Thị Triển", slug: "evc68-thuong-lam-thi-trien" },
+  { title: "Lạc Phổ Tạng Giáo", slug: "evc69-lac-pho-tang-giao" },
+  { title: "Ba Tiêu Pháp Thân", slug: "evc70-ba-tieu-phap-than" },
+  { title: "Ba Tiêu Tốt Xấu", slug: "evc71-ba-tieu-tot-xau" },
+  { title: "Thiên Bàng Gìn Giữ Tông Phong", slug: "evc72-thien-bang-gin-giu-tong-phong" },
+  { title: "Hòa Sơn Đánh Trống", slug: "evc73-hoa-son-danh-trong" },
   { title: "Hoàng Liên Trước Tiếng", slug: "evc74-hoang-lien-truoc-tieng" },
   { title: "Tư Phước Hình Tròn", slug: "evc75-tu-phuoc-hinh-tron" },
-  { title: "Sùng Phước Thanh Thoát", slug: "" },
-  { title: "Đạo Tràng Lương Sơn", slug: "" },
-  { title: "Bá Trượng Đặc Biệt", slug: "" },
-  { title: "Lịch Thôn Nấu Trà", slug: "" },
-  { title: "Văn Thù Chín Khúc", slug: "evc80-" },
-  { title: "Tuyết Phong Điển Tọa", slug: "" },
-  { title: "Đức Sơn Thượng Đường", slug: "" },
-  { title: "Hưng Hóa Quân Kỳ", slug: "" },
-  { title: "Trường Khánh Không Nghi", slug: "" },
-  { title: "Động Sơn Cọng Rau Lưu", slug: "" },
-  { title: "Quốc sư thị giả thị giả", slug: "" },
+  { title: "Sùng Phước Thanh Thoát", slug: "evc76-sung-phuoc-thanh-thoat" },
+  { title: "Đạo Tràng Lương Sơn", slug: "evc77-dao-trang-luong-son" },
+  { title: "Bá Trượng Đặc Biệt", slug: "evc78-ba-truong-dac-biet" },
+  { title: "Lịch Thôn Nấu Trà", slug: "evc79-lich-thon-nau-tra" },
+  { title: "Văn Thù Chín Khúc", slug: "evc80-van-thu-chin-khuc" },
+  { title: "Tuyết Phong Điển Tọa", slug: "evc81-tuyet-phong-dien-toa" },
+  { title: "Đức Sơn Thượng Đường", slug: "evc82-duc-son-thuong-duong" },
+  { title: "Hưng Hóa Quân Kỳ", slug: "evc83-hung-hoa-quan-ky" },
+  { title: "Trường Khánh Không Nghi", slug: "evc84-truong-khanh-khong-nghi" },
+  { title: "Động Sơn Cọng Rau Lưu", slug: "evc85-dong-son-cong-rau-luu" },
+  { title: "Quốc sư thị giả thị giả", slug: "evc86-quoc-su-thi-gia-thi-gia" },
   { title: "U Thê Thượng Đường", slug: "evc87-u-the-thuong-duong" },
-  { title: "Đáp Ba Cân Gai", slug: "evc88-" },
+  { title: "Đáp Ba Cân Gai", slug: "evc88-dap-ba-can-gai" },
   { title: "Ẩn Thân Bắc Đẩu", slug: "evc89-an-than-bac-dau" },
   { title: "Trước Lầu Ngũ Phụng", slug: "evc90-truoc-lau-ngu-phung" },
   { title: "Ngưỡng Sơn Sáp Thiêu", slug: "evc91-nguong-son-sap-thieu" },
@@ -623,49 +623,91 @@ export default Kongguji;
 
 /*
 * quyển nhất
-nhất thanh nguyên giai cấp sâm học nhị phi đãn tào khê đôi bật
-tam vân nham du sơn đao kiếm tứ đạo ngô thâm thâm lễ bái
-ngũ nham sâm dược sơn ngũ vị lục giáp sơn thuyền tử chu tiếp
-thất ngã quốc yến nhiên khám ban bát tăng vấn thạch sương khí dụng
-cửu đỗng sơn tổ ý tổ giáo thập giáp sơn đáp phật phật tổ
-thập nhất vạn hộ câu khai môn hộ thập nhị cửu phong đan thanh chân tượng
-thập tam thiều sơn thị phi phong vân thập tứ lương sơn tổ ý tổ giáo
-thập ngũ long nha ô quy tổ giáo thập lục linh vân đào hoa hoa quả
-thập thất quốc sư đáp dạng đế vương thập bát hấp tận tây giang thuỷ hoả
+nhất thanh nguyên giai cấp sâm học
+* nhị phi đãn tào khê đôi bật
+tam vân nham du sơn đao kiếm
+* tứ đạo ngô thâm thâm lễ bái
+ngũ nham sâm dược sơn ngũ vị
+* lục giáp sơn thuyền tử chu tiếp
+thất ngã quốc yến nhiên khám ban
+* bát tăng vấn thạch sương khí dụng
+cửu đỗng sơn tổ ý tổ giáo
+* thập giáp sơn đáp phật phật tổ
+thập nhất vạn hộ câu khai môn hộ
+* thập nhị cửu phong đan thanh chân tượng
+thập tam thiều sơn thị phi phong vân
+* thập tứ lương sơn tổ ý tổ giáo
+thập ngũ long nha ô quy tổ giáo
+* thập lục linh vân đào hoa hoa quả
+thập thất quốc sư đáp dạng đế vương
+* thập bát hấp tận tây giang thuỷ hoả
+*
 quyển nhị
-thập cửu tăng vấn trường sa phật tổ nhị thập vân nham nam toàn tính danh
-nhị thập nhất triệu châu khiết trà trà thang nhị thập nhị đại tùy ô quy quy ngư
-nhị thập tam nam toàn trảm miêu miêu khuyển nhị thập tứ vân cư cư sơn trụ sơn
-nhị thập ngũ đan hà thiêu phật phật tượng nhị thập lục kê thê phụng sào am cư
-nhị thập thất sơ sơn đáp phật phật tổ nhị thập bát quy căn đắc chỉ đối cơ
-nhị thập cửu vấn giáp sơn cảnh nhân cảnh tam thập tào sơn xuất thế phật tổ
-tam thập nhất vô ẩn thân xứ sâm học tam thập nhị phong huyệt cổ khúc cầm kì
+thập cửu tăng vấn trường sa phật tổ
+* nhị thập vân nham nam toàn tính danh
+nhị thập nhất triệu châu khiết trà trà thang
+* nhị thập nhị đại tùy ô quy quy ngư
+nhị thập tam nam toàn trảm miêu miêu khuyển
+* nhị thập tứ vân cư cư sơn trụ sơn
+nhị thập ngũ đan hà thiêu phật phật tượng
+* nhị thập lục kê thê phụng sào am cư
+nhị thập thất sơ sơn đáp phật phật tổ
+* nhị thập bát quy căn đắc chỉ đối cơ
+nhị thập cửu vấn giáp sơn cảnh nhân cảnh
+* tam thập tào sơn xuất thế phật tổ
+tam thập nhất vô ẩn thân xứ sâm học
+* tam thập nhị phong huyệt cổ khúc cầm kì
 tam thập tam đầu tử kiếp hoả thuỷ hoả
+*
 quyển tam
-tam thập tứ mễ hồ vấn ngộ ngộ đạo tam thập ngũ kính thanh hữu ngôn yển tức
-tam thập lục vân môn minh giáo hồ bính tam thập thất vân cư lục hộ môn hộ
-tam thập bát phong huyệt hoàng long đối cơ tam thập cửu tuyết phong nam tế lễ bái
-tứ thập đại sĩ bất khởi đế vương tứ thập nhất thủ sơn thân thiết tuế thời
-tứ thập nhị vân môn hồ bính hồ bính tứ thập tam thân truyền để sự tính danh
-tứ thập tứ bản xỉ sinh mao tổ giáo tứ thập ngũ vấn pháp thân bảo
-tứ thập lục nhật lí khán sơn tổ giáo tứ thập thất long tú phụng sào sơ thái
-tứ thập bát ba lăng kê áp tổ giáo tứ thập cửu đầu tử phàm thánh phật tổ
-ngũ thập vấn triệu châu đạo đại đạo ngũ thập nhất ngưỡng sơn sơn hà khí dụng
+tam thập tứ mễ hồ vấn ngộ ngộ đạo
+* tam thập ngũ kính thanh hữu ngôn yển tức
+tam thập lục vân môn minh giáo hồ bính
+* tam thập thất vân cư lục hộ môn hộ
+tam thập bát phong huyệt hoàng long đối cơ
+* tam thập cửu tuyết phong nam tế lễ bái
+tứ thập đại sĩ bất khởi đế vương
+* tứ thập nhất thủ sơn thân thiết tuế thời
+tứ thập nhị vân môn hồ bính hồ bính
+* tứ thập tam thân truyền để sự tính danh
+tứ thập tứ bản xỉ sinh mao tổ giáo
+* tứ thập ngũ vấn pháp thân bảo
+tứ thập lục nhật lí khán sơn tổ giáo
+* tứ thập thất long tú phụng sào sơ thái
+tứ thập bát ba lăng kê áp tổ giáo
+* tứ thập cửu đầu tử phàm thánh phật tổ
+ngũ thập vấn triệu châu đạo đại đạo
+* ngũ thập nhất ngưỡng sơn sơn hà khí dụng
+*
 quyển tứ
-ngũ thập nhị thủ sơn bồ đề kiếu lộ ngũ thập tam nham đầu phiến phàm chu tiếp
-ngũ thập tứ phong huyệt trần lộc ngưu lộc ngũ thập ngũ đầu tử tam thân thuyết pháp
-ngũ thập lục tào khê ý chỉ tổ giáo ngũ thập thất tuyết phong trường cừ nhân cảnh
-ngũ thập bát quảng giáo kí châu sâm học ngũ thập cửu phong huyệt bì cừu sâm học
-lục thập tăng vấn thủ sơn sâm học lục thập nhất thủ sơn thử kinh kinh giáo
-lục thập nhị triệu hoành cao pha phật tổ lục thập tam cửu phong quy mao tổ giáo
-lục thập tứ lâm tế xuy mao đao kiếm lục thập ngũ đại tùy chứng quy hương đăng
-lục thập lục thụy nham bất xuất lục thập thất giao thù thành lao chi thể
-lục thập bát thượng lam thị triền sâm học lục thập cửu lạc phố tạng giáo kinh giáo
+ngũ thập nhị thủ sơn bồ đề kiếu lộ
+* ngũ thập tam nham đầu phiến phàm chu tiếp
+ngũ thập tứ phong huyệt trần lộc ngưu lộc
+* ngũ thập ngũ đầu tử tam thân thuyết pháp
+ngũ thập lục tào khê ý chỉ tổ giáo
+* ngũ thập thất tuyết phong trường cừ nhân cảnh
+ngũ thập bát quảng giáo kí châu sâm học
+* ngũ thập cửu phong huyệt bì cừu sâm học
+lục thập tăng vấn thủ sơn sâm học
+* lục thập nhất thủ sơn thử kinh kinh giáo
+lục thập nhị triệu hoành cao pha phật tổ
+* lục thập tam cửu phong quy mao tổ giáo
+lục thập tứ lâm tế xuy mao đao kiếm
+* lục thập ngũ đại tùy chứng quy hương đăng
+lục thập lục thụy nham bất xuất
+* lục thập thất giao thù thành lao chi thể
+lục thập bát thượng lam thị triền sâm học
+* lục thập cửu lạc phố tạng giáo kinh giáo
+*
 quyển ngũ
-thất thập ba tiêu pháp thân pháp thân thất thập nhất ba tiêu hảo ác thiên hoá
-thất thập nhị thiên bành đương hộ phật tổ thất thập tam hoà sơn đả cổ pháp khí
-thất thập tứ hoàng liên thanh tiền đối cơ thất thập ngũ tư phúc viên tướng viên tướng
-thất thập lục sùng phúc khoan khuếch đối cơ thất thập thất lương sơn đạo trường cầm kì
+thất thập ba tiêu pháp thân pháp thân
+* thất thập nhất ba tiêu hảo ác thiên hoá
+thất thập nhị thiên bành đương hộ phật tổ
+* thất thập tam hoà sơn đả cổ pháp khí
+thất thập tứ hoàng liên thanh tiền đối cơ
+* thất thập ngũ tư phúc viên tướng viên tướng
+thất thập lục sùng phúc khoan khuếch đối cơ
+* thất thập thất lương sơn đạo trường cầm kì
 thất thập bát bá trượng kì đặc trụ sơn
 * thất thập cửu lịch thôn tiên trà trà thang
 bát thập văn thù cửu khúc vấn pháp
@@ -675,14 +717,20 @@ bát thập nhị đức sơn thượng đường bổng ái
 bát thập tứ trường khánh bất nghi chi thể
 * bát thập ngũ đỗng sơn hành mão thiên truỷ
 bát thập lục Quốc sư thị giả thị giả
+*
 quyển lục
-bát thập thất u thê thượng đường pháp khí bát thập bát đáp ma tam cân phật tổ
-bát thập cửu bắc ẩu tạng thân pháp thân cửu thập ngũ phụng lâu tiền đại đạo
-cửu thập nhất ngưỡng sơn sáp thiêu điền địa cửu thập nhị pháp nhãn tuệ siêu phật tổ
+bát thập thất u thê thượng đường pháp khí
+* bát thập bát đáp ma tam cân phật tổ
+bát thập cửu bắc ẩu tạng thân pháp thân
+* cửu thập ngũ phụng lâu tiền đại đạo
+cửu thập nhất ngưỡng sơn sáp thiêu điền địa
+* cửu thập nhị pháp nhãn tuệ siêu phật tổ
 cửu thập tam triệu châu khám bà ni nữ
 * cửu thập tứ đa tử đáp tiền đáp miếu
 cửu thập ngũ đại dương huyền chỉ cốt đổng
 * cửu thập lục đức sơn thượng đường phật tổ
-cửu thập thất đầu tử nguyệt viên nhật nguyệt cửu thập bát ba tiêu trụ trượng trượng lạp
-cửu thập cửu phù sơn tú cầu pháp thuộc nhất bá phù sơn cốt đôi tổ giáo
+cửu thập thất đầu tử nguyệt viên nhật nguyệt
+* cửu thập bát ba tiêu trụ trượng trượng lạp
+cửu thập cửu phù sơn tú cầu pháp thuộc nhất
+* bá phù sơn cốt đôi tổ giáo
 * */

@@ -105,8 +105,9 @@ Sau đến chùa Vạn Niên núi Thiên Thai, tham yết Tuyết Sào, vừa g�
 
 Một hôm, viết một bài từ ngư phủ lên cửa phòng để thị chúng, viết xong thì viên tịch.
 
-Bài từ này chính là bài "Lăng Nghiêm Nhất Tiếu" mà mọi người ngày nay đều biết và hát.
-Nguyên văn như sau: 
+Bài từ này chính là bài **LĂNG NGHIÊM NHẤT TIẾU** mà mọi người ngày nay đều biết và hát.
+
+### Nguyên văn **LĂNG NGHIÊM NHẤT TIẾU** như sau: 
 
 > Thử sự Lăng Nghiêm thường lộ bố
 > 
@@ -168,7 +169,7 @@ Ngân hà trải ngút ngang trời thẳm.
 > Chiều phủ non sông,
 > Đầu trời tiễn cánh hồng bay xa
 
-## 5. Thiền sư Phá Sơn Hải Minh đời Minh
+## 5. Thiền sư PHÁ SƠN HẢI MINH đời Minh
 
 Thiền sư **Phá Sơn Hải Minh** được tôn xưng là "Phá Sơn Tổ Sư", người Tứ Xuyên, mười chín tuổi xuất gia tại chùa Diên Phúc nghe Pháp sư Huệ Nhiên giảng Kinh Lăng Nghiêm, đến đoạn 
 
@@ -180,7 +181,7 @@ Sau đến đạo tràng Phá Đầu Sơn của Đại sư Tứ Tổ Đạo Tín
 
 Một ngày, trong lúc kinh hành không cẩn thận ngã xuống vách núi, chân bị thương rất đau, do đó đại triệt đại ngộ. Được Đại thiền sư Mật Vân Viên Ngộ đương thời ấn chứng, được trao pháp y. Thiền sư Phá Sơn Hải Minh sau này trở về Ba Thục, từng trụ trì chín ngôi chùa lớn như Vạn Phong, Phượng Sơn, Tường Phù, Vô Tế, Bàn Long, Phật Ân, Song Quế, v.v., trọng hưng đạo của Mã Tổ, tông phong truyền bá xa rộng, chúng đệ tử sáng tham tối thỉnh đông đến vạn người.
 
-## 6. Đại sư Hám Sơn đời Minh
+## 6. Đại sư HÁM SƠN ĐỨC THANH đời Minh
 
 Đại sư **Hám Sơn Đức Thanh** là một vị Thiền môn cự phách khác vào cuối đời Minh, từng tham học với Thiền sư Vân Cốc, mà Thiền sư Vân Cốc cũng là một vị đại đức Thiền môn đời Minh. 
 
