@@ -30,9 +30,9 @@ export async function getStaticPaths() {
       props: {
         collection: collection as CollectionType,
         posts,
-        titleList: posts.map(post => ({ 
-         title: post.title,
-         slug: toKebabCase(post.title),
+        titleList: posts?.map(post => ({ 
+         title: post?.title,
+         slug: toKebabCase(post?.title),
         })),
         page: 1,
         totalPages: Math.ceil(posts.length / config.postsPerPage),
