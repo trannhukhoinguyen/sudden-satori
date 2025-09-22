@@ -65,6 +65,6 @@ Vân Nham nói, “Hòa thượng đã có cách nói chưa?” thầy ta chỉ 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-bach-truong-hoai-hai/" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
 
 [^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">🔗 TS VÂN NHAM ĐÀM THẠNH</a>

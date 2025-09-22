@@ -70,7 +70,6 @@ Gặp đường hiểm chẳng phí công quanh co.
 📢 Ngài Đầu Tử nói:
 
 
-
 ## TỤNG CỔ
 
 > 
@@ -91,4 +90,6 @@ Gặp đường hiểm chẳng phí công quanh co.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+
+

@@ -14,9 +14,6 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng:
 Niệm trước niệm sau, luôn nhớ niệm hiện tại.
 Là thanh tịnh biết thanh tịnh, trong ấy có sự tinh thông.
 Có ai đủ con mắt thông suốt này chăng?
@@ -74,7 +71,6 @@ Mặc cho trăng in bóng khe.
 📢 Ngài Đầu Tử nói:
 
 
-
 ## TỤNG CỔ
 
 > 
@@ -95,4 +91,6 @@ Mặc cho trăng in bóng khe.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+
+

@@ -16,6 +16,7 @@ image: /images/koans/great-wave.webp
 
 
 
+
 Ngài Đan Hà dạy chúng:
 Gánh nước bửa củi đều là thần thông diệu dụng. Biến sông thành chín đều đạt đến quy định huyền diệu của sự giáo hóa. Suốt ngày bận rộn việc ấy không sao ư? Chưa biết đó là ai?
 
@@ -86,7 +87,6 @@ Mỗi người được một bát cơm mà ăn, no đủ không khác.
 📢 Ngài Đầu Tử nói:
 
 
-
 ## TỤNG CỔ
 
 > 
@@ -107,4 +107,6 @@ Mỗi người được một bát cơm mà ăn, no đủ không khác.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+
+

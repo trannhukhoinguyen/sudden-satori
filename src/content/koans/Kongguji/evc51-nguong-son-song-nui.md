@@ -63,8 +63,8 @@ Tuyết Phong nói: Ba đời chư Phật chuyên pháp luân trên lửa hồng
 Văn Môn nói: Lửa hồng nói pháp cho ba đời chư Phật. Ba đời chư Phật đúng đó nghe. Điều này giống như cây quạt nhảy vọt vào biển đông đập nhằm vào mũi con cá chép, mưa nhu bình trút nước trên dưới đều bằng nhau. Lại biết chăng?
 
 Kệ
-Một phong cảnh vững lặng,
-Ý ngàn xưa rõ ràng.
+Một phong cảnh vững lặng
+Ý ngàn xưa rõ ràng
 
 ## CỬ - BẢN TẮC:
 
@@ -75,7 +75,6 @@ Một phong cảnh vững lặng,
 ## BÌNH XƯỚNG
 
 📢 Ngài Đầu Tử nói:
-
 
 
 ## TỤNG CỔ
@@ -98,4 +97,6 @@ Một phong cảnh vững lặng,
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+
+

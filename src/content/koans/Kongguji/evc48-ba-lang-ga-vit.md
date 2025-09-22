@@ -130,7 +130,6 @@ Biết được mặt trời giữa ánh trăng.
 📢 Ngài Đầu Tử nói:
 
 
-
 ## TỤNG CỔ
 
 > 
@@ -151,4 +150,6 @@ Biết được mặt trời giữa ánh trăng.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+
+

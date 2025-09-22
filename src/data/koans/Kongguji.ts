@@ -78,7 +78,7 @@ export const KonggujiTitles: KoanTitle[] = [
   { title: "Tư Phước Hình Tròn", slug: "evc75-tu-phuoc-hinh-tron" },
   { title: "Sùng Phước Thanh Thoát", slug: "evc76-sung-phuoc-thanh-thoat" },
   { title: "Đạo Tràng Lương Sơn", slug: "evc77-dao-trang-luong-son" },
-  { title: "Bá Trượng Đặc Biệt", slug: "evc78-ba-truong-dac-biet" },
+  { title: "Bá Trượng Đặc Biệt", slug: "evc78-bach-truong-dac-biet" },
   { title: "Lịch Thôn Nấu Trà", slug: "evc79-lich-thon-nau-tra" },
   { title: "Văn Thù Chín Khúc", slug: "evc80-van-thu-chin-khuc" },
   { title: "Tuyết Phong Điển Tọa", slug: "evc81-tuyet-phong-dien-toa" },

@@ -1,7 +1,7 @@
 ---
-title: "BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG"
-description: ""
-excerpt: "Có ông tăng hỏi Bách Trượng, 'Thế nào là sự việc kỳ đặc?'. Bách Trượng nói, 'Ngồi một mình trên đỉnh Đại Hùng'"
+title: "NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG"
+description: "BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG"
+excerpt: "BÁCH TRƯỢNG NGỒI MỘT MÌNH TRÊN ĐỈNH ĐẠI HÙNG"
 categories:
   - Công án
 tags:
@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 
 > Có ông tăng hỏi Bách Trượng [^1], Thế nào là sự việc kỳ đặc?”
 >
-> Bách Trượng nói, “Ngồi một mình trên đỉnh Đại Hùng.”
+> Bách Trượng nói, “Ngồi một mình trên đỉnh Đại Hùng”
 >
 > Ông tăng lễ lậy, Bách Trượng bèn đánh.
 
@@ -86,4 +86,4 @@ Nham Đầu nói, “ Khước từ sự vật là thượng, đuổi theo sự 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-bach-truong-hoai-hai/" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>

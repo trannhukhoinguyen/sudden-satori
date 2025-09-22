@@ -14,42 +14,6 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-> 
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
-
-<hr class="blog-rule" />
-
-## NGUỒN
-
-> ✨ ...
-
-<hr class="blog-rule" />
-
-## GHI CHÚ
-
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
-
-
 
 Ngài Đan Hà dạy chúng: Tìm xa chẳng bằng tìm gần, uống phí tiền giày cỏ. Thích hợp với giả dối không phù hợp chân thật. Uống công trả nợ khẩu nghiệp, đi thẳng vào chỗ ưa thích. Ai có thể nói được.
 
@@ -136,3 +100,39 @@ Muốn biết chỗ Phật đi
 Chỉ là những lời này.
 
 Tùy nhiên như thế có mấy người thông minh qua được cửa này. Lại tịnh được chửa. Thời nay nếu không nghiên cứu cội nguồn, thì phải đợi đến ngày sau hỏi ngài Di Lặc.
+
+
+## CỬ - BẢN TẮC:
+
+📢 Ngài Đầu Tử cử:
+
+> 
+
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử nói:
+
+
+## TỤNG CỔ
+
+> 
+
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+
+
+<hr class="blog-rule" />
+
+## NGUỒN
+
+> ✨ ...
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
+
+
