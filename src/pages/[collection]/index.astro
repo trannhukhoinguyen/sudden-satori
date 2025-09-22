@@ -10,7 +10,17 @@ import Pagination from "@/components/page/Pagination.astro";
 import FlatTags from "@/components/post/FlatTags.astro";
 import BoxedPostList from "@/components/postList/BoxedPostList.astro";
 import OtherPostList from "@/components/postList/OtherPostList.astro";
-import KoanTitleList from "../../components/postList/KoanTitleList.astro";
+
+function toKebabCase(str: string): string {
+  return str
+    .normalize("NFD") // tách dấu khỏi ký tự (Ví dụ: "ấ" -> "a" + "̂")
+    .replace(/[\u0300-\u036f]/g, "") // xoá toàn bộ dấu
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9\s-]/g, "") // xoá ký tự đặc biệt (chỉ giữ chữ, số, khoảng trắng, gạch ngang)
+    .replace(/\s+/g, "-") // thay khoảng trắng bằng gạch ngang
+    .replace(/-+/g, "-"); // gộp nhiều dấu "-" liên tiếp thành một
+}
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
@@ -20,6 +30,7 @@ export async function getStaticPaths() {
       props: {
         collection: collection as CollectionType,
         posts,
+        titleList: posts.map(post => toKebabCase(post.title))
         page: 1,
         totalPages: Math.ceil(posts.length / config.postsPerPage),
       },
@@ -30,6 +41,7 @@ export async function getStaticPaths() {
 const {
   collection,
   posts,
+  titleList,
   page,
   totalPages
 } = Astro.props;
@@ -53,10 +65,9 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 
 <!-- Post List Section -->
     {posts.length > 0 ? (
-      collection === 'koans'
-        ? <KoanTitleList />
-        : ICONS_MAP[collection]
+      ICONS_MAP[collection]
             ? <BoxedPostList
+                list={titleList}
                 posts={posts}
                 page={page}
                 icons={ICONS_MAP[collection]}
