@@ -1,143 +1,24 @@
 ---
-import { config } from '../../config';
-import ThemeSwitcher from "../ui/ThemeSwitcher.astro";
-import SearchMobile from "./SearchMobile.astro";
-import Search from "./Search.astro";
-
 const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: '' };
 ---
 
-<header class="site-header">
-  <div class="header-content">
-    <!-- Mobile hamburger button - far left on mobile -->
-    <button class="hamburger-toggle mobile-only" id="hamburger-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path class="hamburger-line" d="M3 6h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-        <path class="hamburger-line" d="M3 12h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-        <path class="hamburger-line" d="M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
-      </svg>
-    </button>
-
-    <div class="site-title">
-      <a href={base}>
-        <img src={base + "site-title.svg"} alt={config.title} class="title-svg" />
-      </a>
+<div class="search-overlay" id="search-overlay">
+  <div class="search-container">
+    <div class="search-header">
+      <input type="text" class="search-input" id="search-input" placeholder="Tìm kiếm nội dung..." autocomplete="off" title="Tìm kiếm nội dung">
+      <button class="search-close" id="search-close" aria-label="Close search">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2"/>
+          <line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2"/>
+        </svg>
+      </button>
     </div>
-
-    <div class="header-controls">
-      <nav class="main-navigation" role="navigation" aria-label="Main navigation">
-        <ul class="nav-list">
-          <li><a href={base} class="nav-link" title="Trang chủ">🛖</a></li>
-          <li><a href={base + "about"} class="nav-link" title="Tổ sư thiền?">Tổ sư thiền?</a></li>
-          <li><a href={base + "sutras"} class="nav-link" title="Kinh">📚 Kinh</a></li>
-          <li><a href={base + "koans"} class="nav-link" title="Công án">🪨 Công án</a></li>
-<!--          <li>
-            <select id="nav-select" class="nav-select" aria-label="Main navigation">
-              <option value="" disabled selected hidden>Tất cả Tập Công án</option>
-              <option value={base + "blue-cliff-record"}>🗻 Bích Nham Lục</option>
-              <option value={base + "gateless-gate"}>⛩ Vô Môn Quan</option>
-              <option value={base + "empty-valley-collection"}>🌴 Không Cốc Tập</option>
-            </select>
-          </li>
-          <li>
-            <select id="nav-select" class="nav-select" aria-label="Main navigation">
-              <option value="" disabled selected hidden>Tất cả Kinh</option>
-              <option value={base + "diamond"}>📙 Kinh Kim Cang Bát Nhã</option>
-              <option value={base + "lankavatara"}>📙 Kinh Lăng Già</option>
-              <option value={base + "surangama"}>📒 Kinh Lăng Nghiêm</option>
-            </select>
-          </li>-->
-          <li><a href={base + "practices"} class="nav-link" title="Thực hành">⚡️Thực hành</a></li>
-          <li><a href={base + "interpretations"} class="nav-link" title="Luận giải">📖 Luận giải</a></li>
-          <li>
-            <select id="nav-select" class="nav-select" aria-label="Main navigation">
-              <option value="" disabled selected hidden>KHÁC</option>
-              <option value={base + "masters"}>🌟 Thiền sư</option>
-              <option value={base + "speeches"}>💬 Ngữ Lục</option>
-              <option value={base + "pagodas"}>⛩ Thiền đường</option>
-              <option value={base + "blogs"} title="Blog">📜 Blog Tổ sư thiền</option>
-              <option value={base + "places"}>🗻 Địa danh</option>
-              <option value={base + "books"}>📚 Sách</option>
-              <option value={base + "categories"}>📦 Category</option>
-              <option value={base + "tags"}>🎏 Tag</option>
-              <option value={base + "authors"}>🖋 Tác giả</option>
-            </select>
-          </li>
-        </ul>
-      </nav>
-
-      <!-- Mobile controls group - RSS and Search on right -->
-      <div class="mobile-controls">
-        <ThemeSwitcher />
-
-        <SearchMobile />
-      </div>
-    </div>
+    <div class="search-results" id="search-results"></div>
   </div>
-</header>
-
-<nav class="mobile-menu" id="mobile-menu" aria-label="Mobile navigation">
-  <ul class="mobile-nav-list">
-    <li><a href={base} class="mobile-nav-link" title="Trang chủ">🛖</a></li>
-    <li><a href={base + "about"} class="mobile-nav-link">Tổ sư thiền?</a></li>
-    <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 Kinh</a></li>
-    <li><a href={base + "koans"} class="mobile-nav-link" title="Công án">🪨 Công án</a></li>
-    <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">⚡️ Thực hành</a></li>
-    <li><a href={base + "masters"} class="mobile-nav-link" title="Thiền sư">🌟 Thiền sư</a></li>
-    <li><a href={base + "speeches"} class="mobile-nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
-    <li><a href={base + "pagodas"} class="mobile-nav-link" title="Thiền đường">⛩ Thiền đường</a></li>
-    <li><a href={base + "interpretations"} class="mobile-nav-link">📖 Luận giải</a></li>
-    <li><a href={base + "blogs"} class="mobile-nav-link" title="Blog">📜 Blog Tổ sư thiền?</a></li>
-    <li><a href={base + "places"} class="mobile-nav-link">🗻 Địa danh</a></li>
-    <li><a href={base + "books"} class="mobile-nav-link">📚 Sách</a></li>
-    <li><a href={base + "categories"} class="mobile-nav-link">📦 Category</a></li>
-    <li><a href={base + "tags"} class="mobile-nav-link">🎏 Tag</a></li>
-    <li><a href={base + "authors"} class="mobile-nav-link">🖋 Tác giả</a></li>
-  </ul>
-</nav>
-
-<Search />
+</div>
 
 <style>
-  .site-header {
-    background-color: var(--color-surface);
-    border-bottom: 2px solid var(--color-border);
-    padding: calc(var(--grid-unit) * 3) 0;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
 
-  .header-content {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 0 var(--content-padding);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: calc(var(--grid-unit) * 2);
-  }
-
-  .site-title a {
-    display: block;
-    line-height: 0;
-  }
-
-  .title-svg {
-    height: 48px;
-    width: auto;
-    max-width: 280px;
-    border: none !important; /* Override global img styles */
-    margin: 0 !important; /* Override global img styles */
-  }
-
-  .header-controls {
-    display: flex;
-    align-items: center;
-    gap: calc(var(--grid-unit) * 3);
-    flex-shrink: 0;
-  }
 
   .search-toggle {
     background: none;
@@ -358,79 +239,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     font-size: 1.1rem;
   }
 
-  .main-navigation {
-    flex-shrink: 0;
-  }
 
-  .nav-list {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    gap: calc(var(--grid-unit) * 3);
-  }
-
-  .nav-link {
-    font-family: var(--font-heading-secondary),serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--color-text-primary);
-    padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
-    border-bottom: 2px solid transparent;
-    transition: all 0.2s ease;
-  }
-
-  .nav-link:hover,
-  .nav-link:focus {
-    color: var(--color-accent-gold);
-    border-bottom-color: var(--color-accent-gold);
-    text-decoration: none;
-  }
-
-  .nav-select {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    gap: calc(var(--grid-unit) * 3);
-  }
-
-  .nav-select {
-    font-family: var(--font-heading-secondary),serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--color-text-primary);
-    background-color:  var(--color-accent-gold-dark);
-    padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
-    border-bottom: 2px solid transparent;
-    transition: all 0.2s ease;
-  }
-
-  .nav-select option {
-    font-family: var(--font-heading-secondary),serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--color-text-primary);
-    padding: calc(var(--grid-unit) / 2) calc(var(--grid-unit));
-    border-bottom: 2px solid transparent;
-    transition: all 0.2s ease;
-  }
-
-  #nav-select option:hover,
-  #nav-select option:focus {
-    color: var(--color-accent-gold);
-    border-bottom-color: var(--color-accent-gold);
-    text-decoration: none;
-  }
-
-  .rss-link {
-    display: flex;
-    align-items: center;
-    gap: calc(var(--grid-unit) / 2);
-  }
 
   .visually-hidden {
     position: absolute;
@@ -456,64 +265,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     display: none !important;
   }
 
-  .hamburger-toggle {
-    background: none;
-    border: none;
-    color: var(--color-text-primary);
-    padding: calc(var(--grid-unit));
-    cursor: pointer;
-    transition: color 0.2s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .rss-toggle {
-    background: none;
-    border: none;
-    color: var(--color-text-primary);
-    padding: calc(var(--grid-unit));
-    cursor: pointer;
-    transition: color 0.2s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
-  }
-
-  .github-star-button {
-    background: none;
-    border: 2px solid var(--color-accent-gold);
-    color: var(--color-accent-gold);
-    padding: calc(var(--grid-unit) * 0.75) calc(var(--grid-unit) * 2);
-    cursor: pointer;
-    transition: all 0.2s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: calc(var(--grid-unit));
-    text-decoration: none;
-    font-family: var(--font-heading-secondary);
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    font-size: 0.875rem;
-    border-radius: 4px;
-  }
-
-  .github-star-button:hover,
-  .github-star-button:focus {
-    background-color: var(--color-accent-gold);
-    color: var(--color-background);
-    outline: none;
-    transform: translateY(-1px);
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-
-  .github-star-text {
-    display: inline-block;
-  }
-
   .hamburger-toggle:hover,
   .hamburger-toggle:focus,
   .rss-toggle:hover,
@@ -523,104 +274,21 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   /* Mobile menu - hidden by default */
-  .mobile-menu {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: var(--color-background);
-    z-index: 99;
-    transform: translateX(-100%);
-    transition: transform 0.3s ease;
-    overflow-y: auto;
-    padding-top: calc(var(--grid-unit) * 12);
-  }
 
-  .mobile-menu.active {
-    transform: translateX(0);
-  }
-
-  .mobile-nav-list {
-    list-style: none;
-    margin: 0;
-    padding: calc(var(--grid-unit) * 4) 0;
-  }
-
-  .mobile-nav-link {
-    display: block;
-    padding: calc(var(--grid-unit) * 3) calc(var(--grid-unit) * 4);
-    font-family: var(--font-heading-secondary),serif;
-    font-weight: 700;
-    font-size: 1.25rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--color-text-primary);
-    text-decoration: none;
-    border-bottom: 1px solid var(--color-border);
-    transition: all 0.2s ease;
-  }
-
-  .mobile-nav-link:hover,
-  .mobile-nav-link:focus {
-    color: var(--color-accent);
-    background-color: var(--color-surface);
-  }
 
   @media (max-width: 768px) {
-    .site-header {
-      padding: calc(var(--grid-unit) * 2) 0;
-    }
-
-    .header-content {
-      display: grid;
-      grid-template-columns: 1fr auto 1fr;
-      align-items: center;
-      gap: calc(var(--grid-unit) * 2);
-      padding: 0 calc(var(--grid-unit) * 2);
-    }
-
     /* Show mobile hamburger on far left */
     .mobile-only {
       display: flex !important;
       justify-self: start;
     }
 
-    .site-title {
-      justify-self: center;
-      text-align: center;
-      grid-column: 2; /* Explicitly place in center column */
-    }
-
-    .site-title a {
-      display: inline-block;
-    }
-
-    .title-svg {
-      height: 36px;
-      width: auto;
-      max-width: 180px;
-    }
-
-    .header-controls {
-      justify-self: end;
-      gap: 0;
-      grid-column: 3; /* Explicitly place in right column */
-    }
-
-    /* Hide desktop navigation on mobile */
-    .main-navigation {
-      display: none;
-    }
-
-    /* Show mobile controls on right */
+     /* Show mobile controls on right */
     .mobile-controls {
       display: flex !important;
       gap: calc(var(--grid-unit) * 1.5);
     }
 
-    .hamburger-toggle,
-    .rss-toggle,
     .search-toggle {
       padding: calc(var(--grid-unit) * 0.75);
     }
@@ -663,16 +331,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     .search-result-excerpt {
       margin-bottom: calc(var(--grid-unit) * 4);
     }
-
-    /* Adjust GitHub button for mobile */
-    .github-star-button {
-      padding: calc(var(--grid-unit) * 0.75);
-      border-width: 1px;
-    }
-
-    .github-star-text {
-      display: none;
-    }
   }
 
   @media (max-width: 480px) {
@@ -681,8 +339,6 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       gap: calc(var(--grid-unit)) !important;
     }
 
-    .github-star-button,
-    .rss-toggle,
     .search-toggle {
       padding: calc(var(--grid-unit) * 0.5);
     }

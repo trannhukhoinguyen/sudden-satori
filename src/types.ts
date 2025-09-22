@@ -23,7 +23,11 @@ export interface KoanTitle {
 }
 
 export interface Koan {
-    id: number;
     title: string;
     main: string;
+}
+
+export interface PostTitleWithSlug {
+    title: string;
+    slug: string;
 }

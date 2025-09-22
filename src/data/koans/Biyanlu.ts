@@ -119,7 +119,6 @@ export const BiyanluTitles: KoanTitle[] = [
 
 const Biyanlu: Koan[] = [
   {
-    id: 1,
     title: "...",
     main: "...",
   },

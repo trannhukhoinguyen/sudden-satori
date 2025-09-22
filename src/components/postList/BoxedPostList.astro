@@ -4,7 +4,7 @@ import {config} from "@/config";
 import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
-import AlphabeticalKoans from "@/components/ui/AlphabeticalKoans.astro"
+import ABCLinkedTitleList from "@/components/ui/ABCLinkedTitleList.astro"
 
 const {
     posts,
@@ -74,13 +74,13 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
         <Pagination page={page} totalPages={totalPagesBySpecialTag} category={posts[0].frontmatter.type}/>)}
        )
 
-    ) : <p>Chưa có bài viết {categoryName} nào.</p>
+    ) : <p>Chưa có bài viết {categoryName} nào</p>
 }
 
 {
   titleList?.length > 0 ? (
 
-        <AlphabeticalKoans koans={titleList} title={"DANH SÁCH BÀI VIẾT"} />
+        <ABCLinkedTitleList posts={titleList} listTitle={"DANH SÁCH BÀI VIẾT"} />
 
-    ) : <p>Chưa có bài viết nào.</p>
+    ) : <p>Danh sách trống</p>
 }
