@@ -14,51 +14,138 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Ngang tài ngang sức, như đàn gặp tri âm. Đương nhiên xông thẳng vào cửa. Hiểu rõ cách đàn nhịp điệu. Có người nào nghe tiếng đàn biết rõ điệu khúc, chẳng cần gõ nhịp chăng?
+Lúc trụ được tâm thì đã buông. Duy Ma im lặng mà sấm nổ vang. 
+Khi buông được chính là trụ. 
+Nói khắp thiên hạ chẳng tốn một lời, chẳng động môi mà điều trọng yếu đã thông đạt. 
+Đùa bỡn như thế, có ai nói được chăng?
 
 BẢN TẮC
-Ngài Đầu Tử cũ, Cảnh Thanh hỏi Tuyết Phong: Người xưa có nói.
 
-Tuyết Phong nằm xuống. Im lặng giây lâu, ngồi dậy nói: Hỏi cái gì?
-Cảnh Thanh lặp lại câu hỏi.
-Tuyết Phong nói: Đúng là sống uổng phí một đời.
+Ngài Đầu Tử cử:
+
+Tăng hỏi Long Nha: *Ý Tổ Sư từ Tây sang thế nào?*
+
+Long Nha đáp: **Đợi rùa đá biết nói, ta sẽ nói cho ông**
 
 BÌNH XƯỚNG
-Trong Đăng Lục ghi chẳng phải là chỗ hỏi của Cảnh Thanh. Tăng hỏi Tuyết Phong: Nghe người xưa có nói. Tuyết Phong làm thế nằm xuống, giây lâu ngồi dậy nói: Hỏi cái gì?
-Tăng nhắc lại.
-Tuyết Phong nói: Đúng là sống uổng phí một đời.
 
-Ngài Lâm Tuyền nói: Vị Tăng này giống như vị quan trẻ nhớ nhiều luật. Việc gì cũng bàn luận cần phải hỏi ra manh mối.
+Ngài Đầu Tử dẫn:
 
-Lão Tuyết Phong kia không nghiên cứu kỹ binh pháp, đến khi gặp mặt nhau bản thân thân không biết đảm nhiệm.
+Thiền sư Cư Tuần, ở núi Long Nha, đất Đàm Châu, có lần đến tham vấn Thúy Vi. 
 
-Tăng này chỉ biết miệng rộng, không biết lưỡi dài. Cho nên cự lại. Mãi tìm chim sẽ chốn hoang dã. Nào biết chim cắt bay đến Tân La. Bảo sao Tuyết Phong không mắng đúng là sống uổng phí một đời.
+Sư hỏi: Con đến pháp hội Hòa thượng hơn một tháng mà chưa được chỉ dạy, là vì sao?
 
-Ngài Tuyết Phong bình thường dạy chúng: Ta nói động nói tây, các ông sẽ tìm kiếm trong ngôn ngữ. Ta như linh dương treo sừng các ông mò bắt chỗ nào.
+Thúy Vi đáp: Ông không vừa lòng Lão Tăng chỗ nào?
 
-Ngài Lâm Tuyền nói: Khám phá rồi.
-Tăng hỏi Bảo Phước: Như Ngài Tuyết Phong có dạy lời nào đâu, mà bảo như linh dương treo sừng.
-Bảo Phước nói: Chẳng lẽ làm thế đi Tuyết Phong không được sao.
-Ngài Lâm Tuyền nói: Nay chó săn chưa được thuần hóa, uổng công tìm chốn cũ, cây khô. Như thế mà khán đi.
+Long Nha lại hỏi Động Sơn. Động Sơn đáp: Sao lại trách Lão Tăng?
 
-Những người thuộc Mạnh Thường, Môn Khải không ngờ đều là khách quý của Tuyết Phong. Nhưng đến lúc này tự mình ngược lại sanh thối thất, có điểm chưa được hoàn hảo. Thử xem ý bài tụng sẽ tỏ tường.
+Pháp Nhãn thì nói: Tổ Sư đến.
+
+Lâm Tuyền nói: Hòa thượng chớ có hoa mắt.
+
+Văn Phong Tế lại hỏi: Ba bậc tôn túc này có thân sơ chăng? Nếu có, thì thân ở đâu? Nếu không, thì con mắt thân sơ ở chỗ nào?
+
+Ngài Lâm Tuyền nói: Lông mày vẫn như xưa.
+
+Tăng hỏi: Trong mười hai giờ, dụng công thế nào?
+
+Sư nói: Như người không tay đánh quyền mới được.
+
+Lâm Tuyền nói: Hãy quán hơi thở ở mũi, cả ngày bận rộn thì thở ra sao?
+
+Sư nói: Như con hiếu tang cha mẹ mới được.
+
+Đồng Thiền Tế nói: Trong lúc tang cha mẹ, thì còn đâu thì giờ. 
+Hiểu như vậy, liệu có dứt được nghi tình cho người chăng? Ngoài những điều này ra, làm sao hội được ý Long Nha?
+
+Lâm Tuyền nói: 
+
+Đồng cảnh ngộ mới biết cảm thông. 
+Người thích uống rượu thường mến kẻ say; nhưng nếu trong cơn say lại biết tỉnh, ngoài trường hợp này, hãy đến hỏi ngài Đầu Tử.
 
 TỤNG CỔ
-Lúc mến khách trách sao không đến.
-Đến lúc người tới lười bồi thăm.
-Chỉ nằm như thế đâu có ngại.
-Luống nhọc lửa hồng vào tro lạnh.
+
+> Rùa đá nói chuyện, ai nghe được?
+> 
+> Đầu không tai, đêm khuya nghe
+> 
+> Trời sáng rồi, chẳng còn bóng cây
+> 
+> Mặt trời tự chiếu, tìm đâu nữa
 
 BÌNH XƯỚNG
-Ngài Lâm Tuyền nói: Đại viên giác làm già lam. Ba đời chư Phật, mười phương thánh chúng, chín cõi, bốn loài đều là bạn không mời thỉnh của Tuyết Phong. Hằng ngày khảo đả pháp hỷ tràn tu thiện duyệt thượng vị mà thôi.
 
-Có lúc trách mình sao không chiếu cố. Cho dù gặp một bậc kiệt xuất, hay là thiện khách tri giải, cho đến nạp tăng đui mù cũng sóc dắt dẫn dắt hết lòng khích lệ.
+Ngài Lâm Tuyền nói:
+– Trí âm thì không cần nói, chỉ cần người đạt phải biết thâm cảm. Bài Minh nói về huyền thông, đạt rồi thì chỉ cần lặng mà thấu.
 
-Giống như nói chuyện với người điếc, nháy mắt với kẻ mù. Đâu thể dùng lời để hội bất thời thiện lười. Uổng công nằm dài trên giường nhắm mắt, trong tu thế nằm nghiêng tại phòng trường để làm mờ phạm cho ông.
+Động Sơn hỏi Văn Nham:
+– Vô tình thuyết pháp, ông nghe được chăng?
+Văn Nham đáp:
+– Vô tình nghe được.
+Động Sơn hỏi:
+– Hòa thượng nghe thế nào?
+Văn Nham đáp:
+– Nếu là trăng, ông chẳng thể nghe ta thuyết pháp.
+Động Sơn thưa:
+– Không nghe.
+Văn Nham nói:
+– Ta thuyết pháp ông còn không nghe.
 
-Tự mình có phận ân đức, điều này đâu chẳng những nhọc tâm sức, uổng dụng công phu. Vô ích đến nỗi lửa tàn tự tắt, tro đầy tự rơi. Có thể nói tấm lòng son ít ai biết, đối mặt sợ sợ hiếm người hay.
+Di Đà rừng cây, nước chảy, chim hót… đều là tiếng niệm Phật, niệm Pháp.
+
+Động Sơn tỉnh ngộ, làm kệ rằng:
+
+Thật đặc biệt, thật khó lường,
+Vô tình thuyết pháp, chẳng ai làm.
+Nghe bằng tai, muôn đời khó ngộ,
+Nghe bằng mắt, mới liễu tri.
+
+Tăng hỏi Hương Nghiêm:
+– Thế nào là đạo?
+Hương Nghiêm đáp:
+– Âm vang trong cây khô.
+Lại hỏi:
+– Thế nào là người trong đạo?
+Hương Nghiêm đáp:
+– Con mắt trên đầu.
+
+Tăng không hiểu, bèn hỏi Thạch Sương:
+– Thế nào là tiếng vang trong cây khô?
+Thạch Sương đáp:
+– Vẫn còn sự ưa thích.
+Hỏi:
+– Thế nào là con mắt trên đầu?
+Thạch Sương đáp:
+– Vẫn còn thức tình.
+
+Lại hỏi Tào Sơn:
+– Thế nào là con mắt trên đầu?
+Tào Sơn đáp:
+– Khó tan nhưng chẳng dứt.
+Hỏi:
+– Chưa biết có ai nghe được chăng?
+Sư nói:
+– Ai cũng nghe được.
+Hỏi:
+– Âm vang từ cây khô là chuông cũ gì? Người nghe rồi đều mất mạng.
+Sư đáp:
+– Không biết âm vang từ cây khô là chuông cũ gì.
+
+Thạch Sương nói kệ:
+
+Tiếng vang cây khô, liền thấy đạo,
+Đất không hoa nở, sáng ban đầu.
+Lục biếc sấm vang, tiên âm vượt,
+Khi ấy ai hay ở trong dục.
+
+Cha con Tào – Động từng nhịp hợp,
+Tuyết trắng cùng xuân, mấy ai hòa?
+Khúc hồ già chẳng phạm cung thường,
+Sáo ngọc thổi vang, vượt kiếp ngoài.
+Cây không bóng, ngày nở hoa.
+
+Nửa sáng nửa tối, mấy ai hay.
+Thiền nhân có mắt, nên cẩn thận.
 
 ## CỬ - BẢN TẮC:
 
