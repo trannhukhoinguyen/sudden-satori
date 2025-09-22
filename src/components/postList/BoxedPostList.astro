@@ -4,9 +4,11 @@ import {config} from "@/config";
 import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
+import AlphabeticalKoans from "@/components/ui/AlphabeticalKoans.astro"
 
 const {
     posts,
+    titleList,
     icons,
     page,
 } = Astro.props;
@@ -73,4 +75,12 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
        )
 
     ) : <p>Chưa có bài viết {categoryName} nào.</p>
+}
+
+{
+  titleList.length > 0 ? (
+
+        <AlphabeticalKoans koans={titleList} title={"DANH SÁCH BÀI VIẾT"} />
+
+    ) : <p>Chưa có bài viết nào.</p>
 }
