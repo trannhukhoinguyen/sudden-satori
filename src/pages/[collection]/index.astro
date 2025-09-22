@@ -29,10 +29,13 @@ export async function getStaticPaths() {
       props: {
         collection: collection as CollectionType,
         posts,
-        titleList: posts?.map(post => ({ 
-         title: post?.frontmatter?.title,
-         slug: toKebabCase(post?.frontmatter?.title),
-        })),
+        titleList: posts?.map(post => {
+         const { frontmatter } = post as any;
+         return { 
+          title: frontmatter?.title,
+          slug: toKebabCase(frontmatter?.title),
+         }
+        }),
         page: 1,
         totalPages: Math.ceil(posts.length / config.postsPerPage),
       },
