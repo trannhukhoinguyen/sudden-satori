@@ -1,5 +1,5 @@
 ---
-title: "TĂNG HỎI TRƯỜNG SA"
+title: "MẪU THÁP QUỐC SƯ"
 description: ""
 excerpt: ""
 categories:
@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 
-MẪU THÁP QUỐC SƯ
+
 
 Ngài Đan Hà dạy chúng:
 Chuẩn bị trước thì không còn lo.
