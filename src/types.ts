@@ -18,11 +18,13 @@ export interface Master {
 }
 
 export interface KoanTitle {
+    id?: number;
     title: string;
     slug: string;
 }
 
 export interface Koan {
+    id?: number;
     title: string;
     main: string;
 }
