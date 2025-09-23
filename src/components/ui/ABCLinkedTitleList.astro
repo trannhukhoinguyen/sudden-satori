@@ -8,7 +8,7 @@ const { posts, listTitle } = Astro.props;
 
 // Nhóm công án theo chữ cái đầu tiên
 const grouped = posts.reduce((acc: Record<string, PostTitleWithSlug[]>, k: any) => {
-    const letter = k.title.charAt(0).toUpperCase();
+    const letter = k?.title?.charAt(0).toUpperCase();
     acc[letter] = acc[letter] || [];
     acc[letter].push(k);
     return acc;
