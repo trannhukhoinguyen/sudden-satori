@@ -22,7 +22,7 @@ BẢN TẮC
 
 Ngài Đầu Tử cũ, Phó Đại Sĩ thấy vua Lương Võ Đế không đứng dậy, công thần hỏi Đại Sĩ gặp vua vì không đứng dậy. Đại Sĩ bảo: Đất pháp nếu động tức tất cả chẳng an.
 
-Ngài Đầu Tử niệm: Rõ ràng an bang dẹp loạn nhờ bậc hiền tài. Lập pháp minh tông phải có bậc tác giả. Song ý hợp chẳng điều lời phạm đầy trời. Lục dụng không toàn hóa phong giảm một nửa.
+Ngài Đầu Tử niêm: Rõ ràng an bang dẹp loạn nhờ bậc hiền tài. Lập pháp minh tông phải có bậc tác giả. Song ý hợp chẳng điều lời phạm đầy trời. Lục dụng không toàn hóa phong giảm một nửa.
 
 Nếu hạ cao xuống thấp thì cây khô được tươi tốt. Nếu tận sức đối chặn thì cảm thương khắp chốn.
 

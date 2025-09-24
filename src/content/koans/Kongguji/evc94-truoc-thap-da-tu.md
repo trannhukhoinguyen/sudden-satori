@@ -27,13 +27,16 @@ image: /images/koans/great-wave.webp
 
 ## BÌNH XƯỚNG
 
-📢 Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử niêm:
 
-Ngài Đầu Tử niệm: Song chư Phật cũng không xuất thế, cũng không có niết bàn. Phật đã như thế, đạo cũng như vậy.
+Song chư Phật cũng không xuất thế, cũng không có niết bàn. Phật đã như thế, đạo cũng như vậy.
 
-Chư thánh từ trước tự chứng chỗ này. Cho nên Phật Nhiên Đăng chẳng truyền, tự thành chánh giác. Pháp đã không truyền thế mà tiếp nối đến nay.
+Chư thánh từ trước tự chứng chỗ này. Cho nên Phật Nhiên Đăng chẳng truyền, tự thành chánh giác.
+Pháp đã không truyền thế mà tiếp nối đến nay.
 
-Pháp đã chẳng được thì bàn luận điều gì. Chớ có suy đoán khen ngợi bàn rỗng với nhau. Song người đến được chỗ này, đâu cần gặp nhau trước tháp, đưa cành hoa trước chúng, chặt tay truyền y mới là đạo. Đã không như thế, lý do gì trên núi Đại Dữu nhấc y bặt không lên.
+Pháp đã chẳng được thì bàn luận điều gì. Chớ có suy đoán khen ngợi bàn rỗng với nhau. 
+Song người đến được chỗ này, đâu cần gặp nhau trước tháp, đưa cành hoa trước chúng, chặt tay truyền y mới là đạo. 
+Đã không như thế, lý do gì trên núi Đại Dữu nhấc y bặt không lên.
 
 📢 Ngài Lâm Tuyền nói: 
 
@@ -79,7 +82,9 @@ Phật đã như thế, pháp cũng như thế, không lời mà hiểu được
 
 📢 Kinh Kim Cang Bát Nhã ghi: Lúc Đức Như Lai ở chỗ Phật Nhiên Đăng có đạt được pháp vô thượng chánh đẳng chánh giác chăng?
 
-📢 Tu Bồ Đề đáp: Thưa không. Bạch Đức Thế Tôn, như con hiểu nghĩa Phật nói, Phật ở chỗ Phật Nhiên Đăng không đắc pháp vô thượng chánh đẳng chánh giác.
+📢 Tu Bồ Đề đáp: 
+
+Thưa không. Bạch Đức Thế Tôn, như con hiểu nghĩa Phật nói, Phật ở chỗ Phật Nhiên Đăng không đắc pháp vô thượng chánh đẳng chánh giác.
 
 📢 Phật nói: Đúng thế! Đúng thế!
 
@@ -91,7 +96,9 @@ Ngay lúc được mật thọ có Đạo Minh và cùng vài mươi người đ
 
 Tổ để y trên bàn đá nói: Y này là biểu tín, có thể tranh giành bằng sức ư? Ông hãy lấy đi.
 
-Minh nhấc y lên giống như núi chẳng động. Thấu đạt được lý này chăng? Sớm biết ngày nay trở thành bế tắc, nên hồi hận lúc đó không dụng tâm tốt. Nếu chẳng phải Đầu Tử khó có biết được nội tình ấy.
+Minh nhấc y lên giống như núi chẳng động. 
+Thấu đạt được lý này chăng? Sớm biết ngày nay trở thành bế tắc, nên hồi hận lúc đó không dụng tâm tốt. 
+Nếu chẳng phải Đầu Tử khó có biết được nội tình ấy.
 
 ## TỤNG CỔ
 
@@ -138,7 +145,6 @@ Thôi đừng đuổi theo dòng tâm thức hết lòng suy tính, chớ bị c
 Điều này nghĩa là đem tâm dụng tâm càng thêm bệnh nặng. Làm sao để được nghe đâu sáng mắt thôi. 
 
 Nếu thức hết tình quên thì có hiệu lực.
-
 
 <hr class="blog-rule" />
 

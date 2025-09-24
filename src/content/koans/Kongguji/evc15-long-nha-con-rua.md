@@ -19,19 +19,19 @@ Khi buông được chính là trụ.
 Nói khắp thiên hạ chẳng tốn một lời, chẳng động môi mà điều trọng yếu đã thông đạt. 
 Đùa bỡn như thế, có ai nói được chăng?
 
-BẢN TẮC
+## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử:
+📢 Ngài Đầu Tử cử:
 
-Tăng hỏi Long Nha: *Ý Tổ Sư từ Tây sang thế nào?*
+> Tăng hỏi Long Nha: *Ý Tổ Sư từ Tây sang thế nào?*
+>
+> Long Nha đáp: **Đợi rùa đá biết nói, ta sẽ nói cho ông**
 
-Long Nha đáp: **Đợi rùa đá biết nói, ta sẽ nói cho ông**
+## BÌNH XƯỚNG
 
-BÌNH XƯỚNG
+📢 Ngài Đầu Tử nói:
 
-Ngài Đầu Tử dẫn:
-
-Thiền sư Cư Tuần, ở núi Long Nha, đất Đàm Châu, có lần đến tham vấn Thúy Vi. 
+Thiền sư Cư Tuần, ở núi Long Nha, đất Đàm Châu, có lần đến tham vấn Thúy Vi.
 
 Sư hỏi: Con đến pháp hội Hòa thượng hơn một tháng mà chưa được chỉ dạy, là vì sao?
 
@@ -55,27 +55,28 @@ Lâm Tuyền nói: Hãy quán hơi thở ở mũi, cả ngày bận rộn thì t
 
 Sư nói: Như con hiếu tang cha mẹ mới được.
 
-Đồng Thiền Tế nói: Trong lúc tang cha mẹ, thì còn đâu thì giờ. 
+Đồng Thiền Tế nói: Trong lúc tang cha mẹ, thì còn đâu thì giờ.
 Hiểu như vậy, liệu có dứt được nghi tình cho người chăng? Ngoài những điều này ra, làm sao hội được ý Long Nha?
 
-Lâm Tuyền nói: 
+Lâm Tuyền nói:
 
-Đồng cảnh ngộ mới biết cảm thông. 
+Đồng cảnh ngộ mới biết cảm thông.
 Người thích uống rượu thường mến kẻ say; nhưng nếu trong cơn say lại biết tỉnh, ngoài trường hợp này, hãy đến hỏi ngài Đầu Tử.
 
-TỤNG CỔ
+## TỤNG CỔ
 
 > Rùa đá nói chuyện, ai nghe được?
-> 
+>
 > Đầu không tai, đêm khuya nghe
-> 
+>
 > Trời sáng rồi, chẳng còn bóng cây
-> 
+>
 > Mặt trời tự chiếu, tìm đâu nữa
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
+
 – Trí âm thì không cần nói, chỉ cần người đạt phải biết thâm cảm. Bài Minh nói về huyền thông, đạt rồi thì chỉ cần lặng mà thấu.
 
 Động Sơn hỏi Văn Nham:
@@ -146,28 +147,6 @@ Cây không bóng, ngày nở hoa.
 
 Nửa sáng nửa tối, mấy ai hay.
 Thiền nhân có mắt, nên cẩn thận.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

@@ -25,7 +25,7 @@ image: /images/koans/great-wave.webp
 > 
 > Còn có một người cười ha hả. Nếu biết được người này, thì việc tham học đã xong.
 >
-> Ngài Đầu Tử niệm: Tuy nhiên như thế, Đức Sơn giống như giấu hết trăng trời Sở, nhưng vẫn còn sao đất Hán.
+> Ngài Đầu Tử niêm: Tuy nhiên như thế, Đức Sơn giống như giấu hết trăng trời Sở, nhưng vẫn còn sao đất Hán.
 
 
 ## BÌNH XƯỚNG
@@ -54,7 +54,7 @@ Nếu biết được người này, thì việc tham học đã xong.
 
 Có bộ mặt nào thấy nhau với ý.
 
-📢 Ngài Đầu Tử niệm: 
+📢 Ngài Đầu Tử niêm: 
 
 Giấu hết trăng trời Sở, vẫn còn sao đất Hán. Nếu là nạp tăng thông minh, ắt ngộ tự đường này thì liền thấy được sự phân tích rõ ràng của ngài Đầu Tử đó chính là năng nhạn được lời lẽ mập mờ qua. 
 

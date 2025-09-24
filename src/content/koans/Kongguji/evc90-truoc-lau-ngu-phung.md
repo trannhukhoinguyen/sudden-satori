@@ -22,7 +22,7 @@ Phong Huyệt đáp: Trước lầu Ngũ phụng.
 Tăng hỏi: Thế nào là người trong đạo?
 Phong Huyệt nói: Hỏi sứ trong thành.
 
-Ngài Đầu Tử niệm: Nhưng chỉ đường là nhờ người, thì là chính mình. Hỏi, xác định tận gốc của ngộ. Đáp, cũng phải trả ra tông chỉ. Nếu chính mình không thực hành, thì nhọc công đi hành cước.
+Ngài Đầu Tử niêm: Nhưng chỉ đường là nhờ người, thì là chính mình. Hỏi, xác định tận gốc của ngộ. Đáp, cũng phải trả ra tông chỉ. Nếu chính mình không thực hành, thì nhọc công đi hành cước.
 
 Vì cớ sao? Bởi vì thiền pháp chí cực vi diệu chư Thánh chẳng qua, vừa suy nghĩ đã cách xa vạn dặm. Cho nên,
 
@@ -49,7 +49,7 @@ Không nghe Ngài Trường Khánh nói, hiện thân trong vạn tướng, ch�
 
 Ngài Lâm Tuyền nói, xưa nay tuy sống chung, rốt cuộc chẳng biết tên. Lão Phong Huyệt chính mình bỏ hết xấu e là phạm ngay tại chỗ, chỉ hỏi sứ trong thành. Hỏi như thế, đáp như vậy, không được có ý hội, không được vô tâm biết. Chỉ có ngông chúa mới uống sữa để nước lại.
 
-Ngài Đầu Tử niệm: Nhưng chỉ dẫn đường do người, chính mình phải đi. Đây thật là xe không thể đi ngang suy về lý thì đúng.
+Ngài Đầu Tử niêm: Nhưng chỉ dẫn đường do người, chính mình phải đi. Đây thật là xe không thể đi ngang suy về lý thì đúng.
 
 Còn nói, hỏi để xác định tận gốc của ngộ. Đáp cũng phải đưa ra tông phong, không phải chính mình nhọc công tiến bước. Đây hẳn đáng phải đưa sóng chỉ có khách Giang Ngô. Lời tiên biệt khao to, đáp ngắn gọn đạt hẳn ấy, buộc chặt hành lý vững chân bước. Không hợp đường nhò mò héo theo lối cũ.
 

@@ -27,7 +27,7 @@ Tuyết Phong nói: Được thì được, nhưng căn phải gặp riêng mộ
 Sau này quả nhiên Sư nói pháp Ngài Đức Sơn.
 
 BÌNH XƯỚNG
-Ngài Đầu Tử niệm: Đại chúng, đạo lý gì?
+Ngài Đầu Tử niêm: Đại chúng, đạo lý gì?
 Tuy nhiên cũng một căn khôn tại sao núi cao sông ngòi chẳng cho kén người thôn quê nói. Công phu chưa đạt đến thế.
 
 Bên đáp thay: Đãi cát bỏ gạo hay đãi gạo bỏ cát. Quét lâu năm không bị bông râm che, trải qua sương tuyết đến kết trái nhiều. Đại chúng ăn cái gì.

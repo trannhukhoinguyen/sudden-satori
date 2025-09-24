@@ -29,7 +29,7 @@ Tăng thưa: Đến thành Tô Ma vì sao Ngài Di Lặc lại báo về gặp N
 
 Thượng Lam nói: Đường rộng mênh mông không có bờ cõi gặp người vô tận.
 
-Ngài Đầu Tử niệm: Vâng, đạo không có mê ngộ, chúng được pháp đều nhờ thầy, chẳng trụ phàm thánh trang nghiêm diệu hạnh.
+Ngài Đầu Tử niêm: Vâng, đạo không có mê ngộ, chúng được pháp đều nhờ thầy, chẳng trụ phàm thánh trang nghiêm diệu hạnh.
 
 Do đó Ngài Văn Thù bảo lên núi Tu Di bỏ biên để gặp thầy, gặp bạn ở phố chợ, hoặc núi đao. Chốn vườn cui, nhà trụ, vương cung, hoặc đông nam đồng núi Cù Di thành Ma Kiệt. Đức Di Lặc khảy móng tay, Ngài Phổ Hiền nhìn. Gặp lại Văn Thù có việc gì? Tin rằng người thông đạt biết rõ, đạo mênh mông không bờ mé. Không mê cảnh sắc thì trải qua sự nghiệm mầu khôn cùng.
 
@@ -53,7 +53,7 @@ Ngài Lâm Tuyền nói: Từ đầu đến cuối ý chỉ của chính mình, 
 
 Cho nên Thượng Lam nói: Đạo mênh mông không bờ mé gặp người khôn cùng. Nếu hội được như thế, khắp nơi là Trường An, chốn chốn là nhà Phật xưa. Chẳng nhọc bước thêm một bước, chỉ hỏi chốn hồng trần thế tục.
 
-Ngài Đầu Tử niệm: Nhưng đạo không có mê ngộ, chúng được pháp từ thầy, chẳng trụ phàm thánh trang nghiêm diệu hạnh.
+Ngài Đầu Tử niêm: Nhưng đạo không có mê ngộ, chúng được pháp từ thầy, chẳng trụ phàm thánh trang nghiêm diệu hạnh.
 
 Ngài Lâm Tuyền nói: Ban đầu nếu không gặp bậc tác gia, rốt cuộc trở thành chẳng hiểu biết. Mê vốn chẳng mê, ngộ vốn chẳng phải ngộ. Đạo này nhiệm mầu, chẳng cần chầy chật. Đến đây chẳng thể lập phàm thánh, không thể tu diệu hạnh, mới gọi là nhất thừa viên đốn.
 

@@ -30,7 +30,7 @@ Lương Sơn hỏi: Sao không nói một câu.
 Đại Dương thưa: Nói thì không ngại, chỉ sợ ghi lại trên giấy.
 Sơn cười vang: Lời này còn ghi trên đá. Quả nhiên sau này khắc lại trên bia.
 
-Ngài Đầu Tử niệm: Song đạo xưa nay người thực hành thật gian nan. Lên núi dường như chẳng còn khó khăn, người đến đó không đúng lúc, nếu không hỏi người đi trước thì không thể vào được.
+Ngài Đầu Tử niêm: Song đạo xưa nay người thực hành thật gian nan. Lên núi dường như chẳng còn khó khăn, người đến đó không đúng lúc, nếu không hỏi người đi trước thì không thể vào được.
 
 Cho nên ngộ thì chính mình, nhưng ấn chứng phải nhớ thầy, thay nhau ấn chứng nối tiếp huệ mạng Phật. Người này cùng đường nên hỏi lối đi, chúng ta phải tận lực chỉ ra dấu tích. Vách núi cao không có lối vào, không còn sức để tiến và thoái.
 

@@ -20,7 +20,7 @@ Ngài Đan Hà dạy chúng: Khi nóng thì tìm mát chẳng có gì đặc bi�
 BẢN TẮC
 
 Ngài Đầu Tử cử: Trời vào đông, Hòa thượng Đan Hà xin nghỉ một hôm tại Thiền Viện. Ngài thỉnh một tượng La Hán trong chánh điện đốt để sưởi. Viện chủ tức giận lông mày rơi rụng.
-Ngài Đầu Tử niệm: Không biết phàm khách, làm phiền chủ nhân.
+Ngài Đầu Tử niêm: Không biết phàm khách, làm phiền chủ nhân.
 
 BÌNH XƯỚNG
 
