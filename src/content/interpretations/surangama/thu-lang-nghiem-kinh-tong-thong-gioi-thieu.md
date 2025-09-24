@@ -72,48 +72,75 @@ CHƯƠNG I: CHỈ BÀY CHÂN TÂM
         
 1.6.4. Nương cái thấy, gạn hỏi cái tâm
         
-1.6.5. Chỉ rõ tính thấy không phải là con mắt.                        1.6.6. Ý nghĩa chủ và khách  
+1.6.5. Chỉ rõ tính thấy không phải là con mắt.      
+
+1.6.6. Ý nghĩa chủ và khách  
 
 Quyển II
-        2.6.7. Chỉ tánh thấy không sanh diệt
-        2.6.8. Chỉ chỗ điên đảo
-        2.6.9. Lựa bỏ tâm phan duyên để chỉ tánh thấy không thể trả về đâu
-        2.6.10. Lựa riêng trần cảnh để nêu ra tánh thấy
+        
+2.6.7. Chỉ tánh thấy không sanh diệt
+        
+2.6.8. Chỉ chỗ điên đảo
+        
+2.6.9. Lựa bỏ tâm phan duyên để chỉ tánh thấy không thể trả về đâu
+        
+2.6.10. Lựa riêng trần cảnh để nêu ra tánh thấy
 
-   2.7. Mục Ba: Phật Nêu Ra Tánh Thấy Ngoài Các Nghĩa Phải Và Chẳng Phải
-        2.7.1. Nghi tánh thấy hiện ở trước mắt
-        2.7.2. Chỉ ra không có cái gì tức là cái thấy
-        2.7.3. Chỉ ra không có cái gì ra ngoài tánh thấy
-        2.7.4. Ngài Văn Thù kính xin Phật phát minh hai thứ
-        2.7.5. Tánh thấy không có phải hay chẳng phải
+2.7. Mục Ba: Phật Nêu Ra Tánh Thấy Ngoài Các Nghĩa Phải Và Chẳng Phải
+        
+2.7.1. Nghi tánh thấy hiện ở trước mắt
+        
+2.7.2. Chỉ ra không có cái gì tức là cái thấy
+        
+2.7.3. Chỉ ra không có cái gì ra ngoài tánh thấy
+        
+2.7.4. Ngài Văn Thù kính xin Phật phát minh hai thứ
+        
+2.7.5. Tánh thấy không có phải hay chẳng phải
 
-     2.8. Mục Bốn: Phá Những Thuyết Nhân Duyên, Tự Nhiên
-        2.8.1. Ghi Tâm Tính Tự Nhiên Như Thần Ngã
-        2.8.2. Chỉ ra không phải là tự nhiên
-        2.8.3. Nghi là nhân duyên
-        2.8.4. Tánh thấy không phải là nhân duyên, Rời các danh, tướng
-        2.8.5. Bác nhân duyên, tự nhiên
-        2.8.6. Chỉ thẳng tánh thấy
+2.8. Mục Bốn: Phá Những Thuyết Nhân Duyên, Tự Nhiên
+        
+2.8.1. Ghi Tâm Tính Tự Nhiên Như Thần Ngã
+        
+2.8.2. Chỉ ra không phải là tự nhiên
+        
+2.8.3. Nghi là nhân duyên
+        
+2.8.4. Tánh thấy không phải là nhân duyên, Rời các danh, tướng
+        
+2.8.5. Bác nhân duyên, tự nhiên
+        
+2.8.6. Chỉ thẳng tánh thấy
 
-     2.9. Mục Năm: Chỉ Ra Cái Vọng Thấy
-        2.9.1. Xin chỉ dạy tánh thấy chẳng do thấy
-        2.9.2. Chỉ ra hai thứ vọng thấy
+2.9. Mục Năm: Chỉ Ra Cái Vọng Thấy
+        
+2.9.1. Xin chỉ dạy tánh thấy chẳng do thấy
+        
+2.9.2. Chỉ ra hai thứ vọng thấy
 
-     2.10. Mục Sáu: Chỉ Rõ Ý Nghĩa Tánh Thấy Không Phải Là Cái Thấy, Viên Mãn Bồ Đề.
-     2.11. Mục Bảy: Tóm Thu Về Như Lai Tạng
-        2.I. Tóm Thu
-        2.A. Thu sắc ấm
-        2.B. Thu thọ ấm
-        2.C. Thu tưởng ấm
-        2.D. Thu hành ấm
-        2.E. Thu thức ấm  
+2.10. Mục Sáu: Chỉ Rõ Ý Nghĩa Tánh Thấy Không Phải Là Cái Thấy, Viên Mãn Bồ Đề.
+     
+2.11. Mục Bảy: Tóm Thu Về Như Lai Tạng
+        
+2.I. Tóm Thu
+        
+  2.A. Thu sắc ấm
+  
+  2.B. Thu thọ ấm
+  
+  2.C. Thu tưởng ấm
+
+  2.D. Thu hành ấm
+        
+  2.E. Thu thức ấm  
 
 Quyển III
-        3.F. Thu sáu nhập
-        3.G. Thu mười hai xứ
-        3.H. Thu mười tám giới
-        3.I. Thu bảy đại
-        3.II. Đốn ngộ Pháp thân và phát nguyện
+
+  3.F. Thu sáu nhập
+  3.G. Thu mười hai xứ
+  3.H. Thu mười tám giới
+  3.I. Thu bảy đại
+  3.II. Đốn ngộ Pháp thân và phát nguyện
 
  
 Quyển IV
@@ -140,13 +167,13 @@ Quyển IV
 Quyển V
 CHƯƠNG II: NƯƠNG CHỖ NGỘ MÀ TU
 
-     5.14. Mục Một: Nêu Ra Cái Căn Để Chỉ Chỗ Mê
-        5.14.1. Xin khai thị cách cởi nút
+   5.14. Mục Một: Nêu Ra Cái Căn Để Chỉ Chỗ Mê
+       5.14.1. Xin khai thị cách cởi nút
         5.14.2. Mười phương Như Lai đồng một lời chỉ thị: Sáu căn là đầu nút sanh tử và niết bàn
         5.14.3. Thấy rõ tánh của mối nút để tức thời giải thoát
         5.14.4. Kệ tụng
 
-     5.15. Mục Hai: Cột Khăn Để Chỉ Mối Nút Và Cách Mở Nút
+   5.15. Mục Hai: Cột Khăn Để Chỉ Mối Nút Và Cách Mở Nút
         5.15.1. Cột nút
         5.15.2. Cách mở nút
      5.16. Mục Ba: Hỏi Đại Chúng Về Viên Thông
@@ -180,7 +207,7 @@ Quyển VI
         6.17.1 Diệu lực vô tác thành tựu ba mươi hai ứng thân
         6.17.2 Bốn công đức vô uý
 
-     6.18. Mục Năm: Chỉ Pháp Viên Tu
+   6.18. Mục Năm: Chỉ Pháp Viên Tu
         6.18.1. Phóng hào quang, hiện điềm lành
         6.18.2. Phật bảo Ngài Văn Thù chọn căn viên thông
         6.18.3. Lựa ra những căn không viên
@@ -190,71 +217,71 @@ Quyển VI
 Quyển VII
 CHƯƠNG III: PHẬT KHAI THỊ VỀ MẬT GIÁO
 
-         7.19.1 Khai thị đạo tràng tu chứng
+   7.19.1 Khai thị đạo tràng tu chứng
 
-        7.19.2 Khai thị đạo tràng tu chứng
+   7.19.2 Khai thị đạo tràng tu chứng
 
-        7.19.3 Tuyên thuyết thần chú
+   7.19.3 Tuyên thuyết thần chú
 
-        7.19.4 Khai thị đây là tâm chú của mười phương Như Lai
+   7.19.4 Khai thị đây là tâm chú của mười phương Như Lai
 
-        7.19.5 Sức của thần chú làm tiêu nghiệp chướng     
+   7.19.5 Sức của thần chú làm tiêu nghiệp chướng     
 
    7.19.6 Chú là phước đức như ý cho mình Và cho cả nước, bảo hộ chongười sơ học
 
-        7.19.7 Các thần hộ pháp phát nguyện bảo hộ rộng rãi
+   7.19.7 Các thần hộ pháp phát nguyện bảo hộ rộng rãi
 
 CHƯƠNG IV: KHAI THỊ CÁC ĐỊA VỊ TU CHỨNG
 
-    7.20. Mục Một: Khai Thị Hai Cái Nhân Điên Đảo Và Ba Món Tiệm Thứ
+ 7.20. Mục Một: Khai Thị Hai Cái Nhân Điên Đảo Và Ba Món Tiệm Thứ
 
-       7.20.1 Ông A Nan xin khai thị những danh mục, Thứ bậc tu hành
+   7.20.1 Ông A Nan xin khai thị những danh mục, Thứ bậc tu hành
 
-       7.20.2 Khai thị hai cái nhân điên đảo  
+   7.20.2 Khai thị hai cái nhân điên đảo  
 
 Quyển VIII
 
-      8.20.3 Khai thị ba tiệm thứ tu tập
+   8.20.3 Khai thị ba tiệm thứ tu tập
 
-      8.21 Mục Hai: An Lập Các Thánh Vị Càn tuệ địa
+   8.21 Mục Hai: An Lập Các Thánh Vị Càn tuệ địa
 
-      8.21.1 Thập tín
+   8.21.1 Thập tín
 
-      8.21.2 Thập trụ
+   8.21.2 Thập trụ
 
-      8.21.3 Thập hạnh
+   8.21.3 Thập hạnh
 
-      8.21.4 Thập hồi hướng
+   8.21.4 Thập hồi hướng
 
-      8.21.5 Tứ gia hạnh
+   8.21.5 Tứ gia hạnh
 
-      8.21.6 Thập địa
+   8.21.6 Thập địa
 
-      8.21.7 Đẳng giác và diệu giác
+   8.21.7 Đẳng giác và diệu giác
 
-      8.22 Mục Ba: Chỉ Dạy Tên Kinh
+   8.22 Mục Ba: Chỉ Dạy Tên Kinh
 
-      8.22.1 Hỏi về sự sanh khởi và nhân quả của lục đạo
+   8.22.1 Hỏi về sự sanh khởi và nhân quả của lục đạo
 
-      8.22.2.Khai thị về phận trong, phận ngoài Của chúng sanh
+   8.22.2.Khai thị về phận trong, phận ngoài Của chúng sanh
 
-      8.22.3.Chỉ ra mười tập nhân và sáu giao báo
+   8.22.3.Chỉ ra mười tập nhân và sáu giao báo
 
-      8.22.4 Không tu theo chánh giác : thành các thứ tiên
+   8.22.4 Không tu theo chánh giác: thành các thứ tiên
 
-      8.22.5 Các cõi trời
+   8.22.5 Các cõi trời
 
 Quyển IX
 
-     9.V Các cõi trời
+   9.V Các cõi trời
 
-     9.A Sắc giới
+   9.A Sắc giới
 
-     9.B Vô sắc giới
-     9.C Bốn giống A Tu La
+   9.B Vô sắc giới
+   9.C Bốn giống A Tu La
 
    9.VI Phóng hào quang, hiện điềm lành Khai thị sự hư vọng của bảy loài để khuyên tu chân chánh
-    9.VII Phân biệt các ấm ma
+   9.VII Phân biệt các ấm ma
 
    9.A Nguyên do khởi các ma sự
 
