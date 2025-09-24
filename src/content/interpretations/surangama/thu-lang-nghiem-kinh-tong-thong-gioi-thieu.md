@@ -44,7 +44,7 @@ PHẦN THỨ HAI: PHẦN CHÁNH TÔNG
 
 CHƯƠNG I: CHỈ BÀY CHÂN TÂM
 
-1.5. Mục Một: Gạn Hỏi Cái Tâm
+1.5. Mục I: Gạn Hỏi Cái Tâm
         
 1.5.1 Nguyên do của thường trụ và lưu chuyển
 
@@ -62,7 +62,7 @@ CHƯƠNG I: CHỈ BÀY CHÂN TÂM
         
 1.5.8. Chấp tâm không dính dáng vào đâu tất cả
 
-1.6. Mục Hai: Chỉ Rõ Tánh Thấy
+1.6. Mục II: Chỉ Rõ Tánh Thấy
         
 1.6.1. Cầu đi đến chỗ chân thật
         
@@ -86,7 +86,7 @@ Quyển II
         
 2.6.10. Lựa riêng trần cảnh để nêu ra tánh thấy
 
-2.7. Mục Ba: Phật Nêu Ra Tánh Thấy Ngoài Các Nghĩa Phải Và Chẳng Phải
+2.7. Mục III: Phật Nêu Ra Tánh Thấy Ngoài Các Nghĩa Phải Và Chẳng Phải
         
 2.7.1. Nghi tánh thấy hiện ở trước mắt
         
@@ -98,7 +98,7 @@ Quyển II
         
 2.7.5. Tánh thấy không có phải hay chẳng phải
 
-2.8. Mục Bốn: Phá Những Thuyết Nhân Duyên, Tự Nhiên
+2.8. Mục IV: Phá Những Thuyết Nhân Duyên, Tự Nhiên
         
 2.8.1. Ghi Tâm Tính Tự Nhiên Như Thần Ngã
         
@@ -112,15 +112,15 @@ Quyển II
         
 2.8.6. Chỉ thẳng tánh thấy
 
-2.9. Mục Năm: Chỉ Ra Cái Vọng Thấy
+2.9. Mục V: Chỉ Ra Cái Vọng Thấy
         
 2.9.1. Xin chỉ dạy tánh thấy chẳng do thấy
         
 2.9.2. Chỉ ra hai thứ vọng thấy
 
-2.10. Mục Sáu: Chỉ Rõ Ý Nghĩa Tánh Thấy Không Phải Là Cái Thấy, Viên Mãn Bồ Đề.
+2.10. Mục VI: Chỉ Rõ Ý Nghĩa Tánh Thấy Không Phải Là Cái Thấy, Viên Mãn Bồ Đề.
      
-2.11. Mục Bảy: Tóm Thu Về Như Lai Tạng
+2.11. Mục VII: Tóm Thu Về Như Lai Tạng
         
 2.I. Tóm Thu
         
@@ -144,7 +144,7 @@ Quyển III
 
  
 Quyển IV
-     4.12. Mục Tám: Chỉ Rõ Căn Nguyên Hư Vọng Và Tánh Giác Toàn Vẹn
+     4.12. Mục VIII: Chỉ Rõ Căn Nguyên Hư Vọng Và Tánh Giác Toàn Vẹn
         4.12.1. Ông Mãn Từ trình bày chỗ nghi
         4.12.2. Vô minh đầu tiên
         4.12.3. Nguyên nhân vọng thấy có thế giới
@@ -156,7 +156,7 @@ Quyển IV
         4.A. Xưa nay không vọng
         4.B. Đưa vào bồ đề
 
-   4.13. Mục Chín: Chỉ Nghĩa Quyết Định
+   4.13. Mục IX: Chỉ Nghĩa Quyết Định
         4.13.1. Các phép tu hành sau khi đốn ngộ, phát bồ đề tâm
         4.13.2. Tâm nhân địa
         4.A. Xét rõ gốc rễ phiền não
@@ -167,16 +167,16 @@ Quyển IV
 Quyển V
 CHƯƠNG II: NƯƠNG CHỖ NGỘ MÀ TU
 
-   5.14. Mục Một: Nêu Ra Cái Căn Để Chỉ Chỗ Mê
+   5.14. Mục I: Nêu Ra Cái Căn Để Chỉ Chỗ Mê
        5.14.1. Xin khai thị cách cởi nút
         5.14.2. Mười phương Như Lai đồng một lời chỉ thị: Sáu căn là đầu nút sanh tử và niết bàn
         5.14.3. Thấy rõ tánh của mối nút để tức thời giải thoát
         5.14.4. Kệ tụng
 
-   5.15. Mục Hai: Cột Khăn Để Chỉ Mối Nút Và Cách Mở Nút
+   5.15. Mục II: Cột Khăn Để Chỉ Mối Nút Và Cách Mở Nút
         5.15.1. Cột nút
         5.15.2. Cách mở nút
-     5.16. Mục Ba: Hỏi Đại Chúng Về Viên Thông
+     5.16. Mục III: Hỏi Đại Chúng Về Viên Thông
         5.16.01. Viên thông về thanh trần
         5.16.02. Viên thông về sắc trần
         5.16.03. Viên thông về hương trần
@@ -203,11 +203,11 @@ CHƯƠNG II: NƯƠNG CHỖ NGỘ MÀ TU
         5.16.24. Viên thông về kiến đại  
 
 Quyển VI
-     6.17. Mục Bốn: Viên thông về nhĩ căn
+     6.17. Mục IV: Viên thông về nhĩ căn
         6.17.1 Diệu lực vô tác thành tựu ba mươi hai ứng thân
         6.17.2 Bốn công đức vô uý
 
-   6.18. Mục Năm: Chỉ Pháp Viên Tu
+   6.18. Mục V: Chỉ Pháp Viên Tu
         6.18.1. Phóng hào quang, hiện điềm lành
         6.18.2. Phật bảo Ngài Văn Thù chọn căn viên thông
         6.18.3. Lựa ra những căn không viên
@@ -233,7 +233,7 @@ CHƯƠNG III: PHẬT KHAI THỊ VỀ MẬT GIÁO
 
 CHƯƠNG IV: KHAI THỊ CÁC ĐỊA VỊ TU CHỨNG
 
- 7.20. Mục Một: Khai Thị Hai Cái Nhân Điên Đảo Và Ba Món Tiệm Thứ
+ 7.20. Mục I: Khai Thị Hai Cái Nhân Điên Đảo Và Ba Món Tiệm Thứ
 
    7.20.1 Ông A Nan xin khai thị những danh mục, Thứ bậc tu hành
 
@@ -243,7 +243,7 @@ Quyển VIII
 
    8.20.3 Khai thị ba tiệm thứ tu tập
 
-   8.21 Mục Hai: An Lập Các Thánh Vị Càn tuệ địa
+   8.21 Mục II: An Lập Các Thánh Vị Càn tuệ địa
 
    8.21.1 Thập tín
 
@@ -259,7 +259,7 @@ Quyển VIII
 
    8.21.7 Đẳng giác và diệu giác
 
-   8.22 Mục Ba: Chỉ Dạy Tên Kinh
+   8.22 Mục III: Chỉ Dạy Tên Kinh
 
    8.22.1 Hỏi về sự sanh khởi và nhân quả của lục đạo
 
