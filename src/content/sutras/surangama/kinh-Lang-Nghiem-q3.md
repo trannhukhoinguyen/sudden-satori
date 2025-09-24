@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển III"
 description: ""
-excerpt: |
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "5912"
 categories: ["Kinh"]

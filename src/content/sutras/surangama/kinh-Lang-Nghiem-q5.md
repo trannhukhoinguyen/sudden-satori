@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển V"
 description: ""
-excerpt: |
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "13066"
 categories: ["Kinh"]

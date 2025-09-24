@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển X"
 description: ""
-excerpt: |
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "23240"
 categories: ["Kinh"]

@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển II"
 description: ""
-excerpt: |
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "2328"
 categories: ["Kinh"]

@@ -1,8 +1,7 @@
 ---
 title: "Kinh Lăng Già - quyển I"
 description: ""
-excerpt: |
-    ""
+excerpt: ""
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"

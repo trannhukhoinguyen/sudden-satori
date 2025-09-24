@@ -2,7 +2,7 @@
 title: "PHƯƠNG PHÁP THAM THIỀN"
 meta_title: "PHƯƠNG PHÁP THAM THIỀN"
 description: ""
-excerpt: "...."
+excerpt: ""
 categories:
   - Thực hành
 tags:
@@ -12,18 +12,23 @@ tags:
 author: "HT HƯ VÂN"
 image: "/images/koans/great-wave.webp"
 pdfUrl: "/pdfs/practices/phuong-phap-tham-thien.pdf"
+videoUrl: "https://www.youtube.com/embed/yJRqjjX2WIQ"
 ---
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-> ✨ https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
+> ✨ https://nigioikhatsi.net/viet/thien/thamthienyeuchi.htm
 
-> ✨ Nguồn: https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
+> ✨ https://nigioikhatsi.net/viet/thien/thamthienyeuchi-02.htm
+
+> ✨ https://nigioikhatsi.net/viet/thien/thamthienyeuchi-03.htm
+
+> ✨ https://nigioikhatsi.net/viet/thien/thamthienyeuchi-04.htm
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^1]: ⭐️ 

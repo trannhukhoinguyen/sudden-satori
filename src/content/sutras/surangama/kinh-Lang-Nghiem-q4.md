@@ -1,7 +1,7 @@
 ---
 title: "Kinh Lăng Nghiêm - Quyển IV"
 description: ""
-excerpt: |
+excerpt: ""
 videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
 videoStart: "9319"
 categories: ["Kinh"]
