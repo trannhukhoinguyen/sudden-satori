@@ -1,5 +1,5 @@
 ---
-title: "Thủ Lăng Nghiêm Kinh Tông Thông:
+title: "Thủ Lăng Nghiêm Kinh Tông Thông"
 description: "NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ"
 author: "Tăng Phụng Nghi"
 audioUrls:
