@@ -7,10 +7,10 @@ author:
 categories:
   - Sách
 tags:
-  - Vạn Pháp Quy Tâm Lục
-  - TS Tổ Nguyên Siêu Minh
+  - LUẬN
+  - TS TỔ NGUYÊN SIÊU MINH
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/books/AllDharmaFromMind/van-phap-quy-tam-luc.pdf
+pdfUrl: /pdfs/books/van-phap-quy-tam-luc.pdf
 ---
 
 - Tác giả: Thiền Sư **Tổ Nguyên Siêu Minh**

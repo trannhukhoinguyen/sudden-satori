@@ -8,11 +8,11 @@ categories:
   - Ngữ lục
 tags:
   - Thực hành
-  - Ngữ lục
+  - NGỮ LỤC  
   - TS VÂN THÊ CHÂU HOẲNG
 author: "Vân Thê Châu Hoằng"
 image: /images/koans/great-wave.webp
-pdfUrl: "/pdfs/thien-quan-sach-tan.pdf"
+pdfUrl: "/pdfs/practices/thien-quan-sach-tan.pdf"
 ---
 
 ## TỰA
