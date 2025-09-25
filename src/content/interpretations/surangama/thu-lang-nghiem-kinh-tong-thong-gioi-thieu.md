@@ -10,6 +10,7 @@ categories:
 tags:
   - Kinh Thủ Lăng Nghiêm
   - Tông Thông
+pdfUrl: /pdfs/interpretations/thu-lang-nghiem-kinh-tong-thong.pdf
 ---
 
 KINH THỦ LĂNG NGHIÊM TÔNG THÔNG
