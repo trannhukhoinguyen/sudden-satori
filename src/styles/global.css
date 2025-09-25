@@ -153,6 +153,19 @@ h3 {
   font-weight: 600;
   line-height: 1.3;
   letter-spacing: 0.08em;
+  color: var(--color-accent-green);
+}
+
+h4 {
+  color: var(--ccolor-accent-pink);
+}
+
+h5 {
+  color: var(--ccolor-accent-brown);
+}
+
+h6 {
+  color: var(--ccolor-accent-blue);
 }
 
 p {
