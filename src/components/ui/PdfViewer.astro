@@ -11,7 +11,7 @@ const { pdfUrl } = Astro.props;
 
   .pdf-icon {
     width: auto;
-    height: 1.1rem;
+    height: 1.4rem;
     color: var(--color-accent-red);
     cursor: pointer;
     margin-left: 0.5rem;
@@ -28,7 +28,7 @@ const { pdfUrl } = Astro.props;
   .pdf-modal-overlay {
     position: fixed;
     inset: 0;
-    background: var(--color-background-overlay), var(--color-black) ;
+    background: var(--color-background-overlay);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,7 +37,7 @@ const { pdfUrl } = Astro.props;
 
   /* Modal content */
   .pdf-modal {
-    background: var(--color-background), var(--color-white);
+    background: var(--color-background);
     border-radius: 8px;
     width: 90%;
     max-width: 900px;
@@ -51,7 +51,7 @@ const { pdfUrl } = Astro.props;
     justify-content: space-between;
     align-items: center;
     padding: 0.5rem 1rem;
-    background: var(--color-background), var(--color-white);
+    background: var(--color-background);
     border-bottom: 1px solid var(--color-border);
   }
 
@@ -71,10 +71,12 @@ const { pdfUrl } = Astro.props;
 </style>
 
 <!-- Trigger icon -->
-<svg class="pdf-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="pdf-trigger">
-  <path fill="currentColor" d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
-  <text x="6" y="18" font-size="7" fill="white">PDF</text>
-</svg>
+<div title="Xem PDF">
+  <svg class="pdf-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="pdf-trigger">
+    <path fill="currentColor" d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
+    <text x="6" y="18" font-size="8" fill="white">PDF</text>
+  </svg>
+</div>
 
 <!-- Modal -->
 <div class="pdf-modal-overlay" id="pdf-modal" style="display:none;">

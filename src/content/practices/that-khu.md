@@ -7,8 +7,6 @@ categories:
   - Thực hành
   - Ngữ lục
 tags:
-  - Thực hành
-  - Ngữ lục
   - TS THẠCH SƯƠNG KHÁNH CHƯ
 image: /images/koans/great-wave.webp
 author: "Thạch Sương Khánh Chư"

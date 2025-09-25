@@ -5,9 +5,8 @@ excerpt: ""
 author:
   - TS TRUNG PHONG MINH BỔN
 categories:
-  - Sách
+  - Thực hành
 tags:
-  - LUẬN
   - TS TRUNG PHONG MINH BỔN
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/trung-phong-phap-ngu.pdf

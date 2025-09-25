@@ -14,7 +14,7 @@ image: "/images/koans/great-wave.webp"
 pdfUrl: "/pdfs/practices/duong-loi-thuc-hanh-tham-to-su-thien.pdf"
 videoUrl: "https://www.youtube.com/embed/Qw_1WB9AQ70"
 ---
-Qw_1WB9AQ70
+
 <hr class="blog-rule" />
 
 ## NGUỒN

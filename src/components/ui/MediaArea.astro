@@ -7,115 +7,143 @@ const { frontmatter } = Astro.props;
 
 <div class="mb-8 space-y-6">
     {
+        // Single video
         frontmatter?.videoUrl && (
-                    <div class="video-container">
-                        <iframe
-                                src={frontmatter.videoUrl + `?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
-                                title={frontmatter.title}
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen
-                                class="w-full h-full"
-                        ></iframe>
-                    </div>
-        )
+      <div class="video-container">
+          <iframe
+            src={frontmatter.videoUrl + `?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
+            title={frontmatter.title}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            width="100%"
+            style="min-height: 500px"
+          ></iframe>
+      </div>
+    )
     }
 
     {
+        // Multiple videos
         frontmatter?.videoUrls?.length &&
-        frontmatter?.videoUrls?.map((url: any, index: any) => (
-                <div class="video-container">
-                    <iframe
-                        src={url + `?start=${frontmatter.videoStarts?.length ? frontmatter.videoStart[index] : 0}`}
-                        title={frontmatter.title}
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen
-                        class="w-full h-full"
-                    ></iframe>
-                </div>
-        ))
+      frontmatter?.videoUrls?.map((url: any, index: number) => (
+        <div class="video-container">
+            <iframe
+              src={url + `?start=${frontmatter.videoStarts?.length ? frontmatter.videoStarts[index] : 0}`}
+              title={`${frontmatter.title} - ${index + 1}`}
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              width="100%"
+              style="min-height: 500px"
+            ></iframe>
+        </div>
+      ))
     }
 
-    <!--      {
-            frontmatter?.audioUrl && (
-              <div>
-                <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
-                <audio controls class="w-full">
-                  <source src={frontmatter.audioUrl} type="audio/mpeg">
-                  Your browser does not support the audio element.
-                </audio>
-              </div>
-            )
-          } -->
-
-     {
-            frontmatter?.audioUrl && (
-              <div>
-                <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
-                <video width="640" height="360" controls poster="/cover.jpg">
-                  <source src={frontmatter.audioUrl} type="audio/mpeg" />
-                  <track src={frontmatter.vtt} kind="subtitles" srclang="en" label="Lyrics" default />
-                </video>
-              </div>
-            )
-          }
     {
-        frontmatter?.audioUrls?.length &&
-            frontmatter?.audioUrls?.map((url: any, index: any) => (
-                    <div class="audio-block">
-                        {index === 0 ? <h3 class="audio-heading" title="Listen">🎧</h3> : ''}
-                        <h4 class="audio-subheading" title={url}>{index + 1}</h4>
-                        <audio controls class="audio-player">
-                            <source src={url} type="audio/mpeg" />
-                            Your browser does not support the audio element.
-                        </audio>
-                    </div>
-            ))
+        // YouTube playlist
+        frontmatter?.videoPlaylist && (
+          <div class="video-container playlist">
+              <iframe
+                src={`https://www.youtube.com/embed/videoseries?list=${frontmatter.videoPlaylist}`}
+                title={frontmatter.title + " playlist"}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                width="100%"
+                style="min-height: 500px"
+              ></iframe>
+              <a
+                href={`https://www.youtube.com/playlist?list=${frontmatter.videoPlaylist}`}
+                target="_blank"
+                rel="noopener"
+                class="playlist-link"
+              >
+                  Xem toàn bộ playlist trên YouTube
+              </a>
+          </div>
+    )
     }
 
+    {
+        // Single audio
+        frontmatter?.audioUrl && (
+      <div>
+          <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
+          <video width="640" height="360" controls poster="/cover.jpg">
+              <source src={frontmatter.audioUrl} type="audio/mpeg" />
+              <track src={frontmatter.vtt} kind="subtitles" srclang="en" label="Lyrics" default />
+          </video>
+      </div>
+    )
+    }
+
+    {
+        // Multiple audios
+        frontmatter?.audioUrls?.length &&
+      frontmatter?.audioUrls?.map((url: any, index: number) => (
+        <div class="audio-block">
+            {index === 0 ? <h3 class="audio-heading" title="Listen">🎧</h3> : ''}
+            <h4 class="audio-subheading" title={url}>{index + 1}</h4>
+            <audio controls class="audio-player">
+                <source src={url} type="audio/mpeg" />
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+      ))
+    }
 </div>
 
 <style>
+    /* Playlist container */
+    .video-container.playlist {
+        position: relative;
+        width: 100%;
+        height: 500px; /* fix chiều cao */
+        border-radius: 8px;
+        overflow: hidden;
+    }
 
-/*Video*/
-.video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%; /* 16:9 = 9/16 = 0.5625 */
-    height: 0;
-    overflow: hidden;
-    border-radius: 8px;
-    margin-block: 8px;
-}
+    .video-container.playlist iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
 
-.video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
+    /* Link xem playlist */
+    .playlist-link {
+        display: none;         /* ẩn mặc định */
+        margin-top: 0.5rem;
+        color: #facc15;        /* vàng chanh kiểu Tailwind yellow-400 */
+        text-decoration: underline;
+        font-weight: bold;
+    }
 
-/*Audio*/
-.audio-block {
-    margin-bottom: 1rem; /* tương đương mb-4 */
-}
+    /* Khi dưới 768px (mobile) thì hiện link */
+    @media (max-width: 768px) {
+        .playlist-link {
+            display: block;
+        }
+    }
 
-.audio-heading {
-    font-size: 1.25rem;   /* tương đương text-xl */
-    font-weight: bold;    /* font-bold */
-    margin-bottom: 1rem;  /* mb-4 */
-}
 
-.audio-subheading {
-    font-size: 1rem;   /* text-xl */
-    font-weight: bold;    /* font-bold */
-    margin-bottom: 1rem;  /* mb-4 */
-}
+    .video-container.playlist {
+        position: relative;
+        width: 100%;
+        height: 500px; /* default desktop */
+        border-radius: 8px;
+        overflow: hidden;
+    }
 
-.audio-player {
-    width: 100%;          /* w-full */
-    display: block;
-}
+    .video-container.playlist iframe {
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
 
+    /* Mobile breakpoint */
+    @media (max-width: 768px) {
+        .video-container.playlist {
+            height: auto;
+            aspect-ratio: 16 / 9;
+        }
+    }
 </style>

@@ -4,7 +4,7 @@ description: ""
 excerpt: |
   ""
 categories:
-  - Bài viết
+  - Thực hành
 tags:
   - Độc Cư
 author: "JANE DOBISZ"

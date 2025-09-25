@@ -6,8 +6,6 @@ categories:
   - Thực hành
   - Ngữ lục
 tags:
-  - Thực hành
-  - Ngữ lục
   - TS LAI QUẢ
 image: /images/koans/great-wave.webp
 author: "Thiền Sư Lai Quả"
