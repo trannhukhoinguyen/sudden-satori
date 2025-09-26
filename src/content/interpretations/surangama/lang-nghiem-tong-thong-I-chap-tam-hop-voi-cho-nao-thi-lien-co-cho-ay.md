@@ -1,5 +1,5 @@
 ---
-title: "Lăng Nghiêm Tông Thông - CHẤP TÂM NÚP SAU CON MẮT"
+title: "Lăng Nghiêm Tông Thông - CHẤP TÂM HỢP VỚI CHỖ NÀO THÌ LIỀN CÓ Ở CHỖ ẤY"
 description: ""
 authors: 
   - Tăng Phụng Nghi
@@ -9,10 +9,12 @@ tags:
   - Kinh Thủ Lăng Nghiêm
   - Tông Thông
 videoId: e5qP5EZ9BUY
-videoStart: "1071"
+videoStart: 1071
 ---
 
-#### MỤC I: GẠN HỎI CÁI TÂM [🔗](/interpretations/lang-nghiem-tong-thong-I-gan-hoi-cai-tam)
+<h2>📋 MỤC LỤC ➥ <a href="/interpretations/lang-nghiem-tong-thong-muc-luc">🔗</a></h2>
+
+<hr class="blog-rule" />
 
 ##### Chấp tâm ở trong Thân [🔗](/interpretations/lang-nghiem-tong-thong-I-chap-tam-o-trong-than)
 
@@ -29,3 +31,8 @@ videoStart: "1071"
 ## GHI CHÚ
 
 [^1]: ⭐️
+
+<hr class="blog-rule" />
+
+###  Chấp tâm ở trong Thân
+➥ [🔗](/interpretations/lang-nghiem-tong-thong-I-chap-tam-o-trong-than)

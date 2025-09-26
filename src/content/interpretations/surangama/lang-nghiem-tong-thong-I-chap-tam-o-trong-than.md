@@ -9,23 +9,27 @@ tags:
   - Kinh Thủ Lăng Nghiêm
   - Tông Thông
 videoId: e5qP5EZ9BUY
-videoStart: "1071"
+videoStart: 1071
 ---
 
-#### MỤC I: GẠN HỎI CÁI TÂM [🔗](/interpretations/lang-nghiem-tong-thong-I-gan-hoi-cai-tam)
+<h2>📋 MỤC LỤC ➥ <a href="/interpretations/lang-nghiem-tong-thong-muc-luc">🔗</a></h2>
 
-##### Nguyên do của thường trụ và lưu chuyển [🔗](/interpretations/lang-nghiem-tong-thong-I-nguyen-do-cua-thuong-tru-va-luu-chuyen)
-
-##### Chấp tâm ở trong Thân
-
-##### Chấp tâm ở ngoài Thân [🔗](/interpretations/lang-nghiem-tong-thong-I-chap-tam-o-ngoai-than)
+### Nguyên do của thường trụ và lưu chuyển 
+➥ [🔗](/interpretations/lang-nghiem-tong-thong-I-nguyen-do-cua-thuong-tru-va-luu-chuyen)
 
 <hr class="blog-rule" />
 
+### CHẤP TÂM Ở TRONG THÂN
+
 
 
 <hr class="blog-rule" />
 
-## GHI CHÚ
+#### GHI CHÚ
 
 [^1]: ⭐️
+
+<hr class="blog-rule" />
+
+###  Chấp tâm ở ngoài Thân
+➥ [🔗](/interpretations/lang-nghiem-tong-thong-I-chap-tam-o-ngoai-than)
