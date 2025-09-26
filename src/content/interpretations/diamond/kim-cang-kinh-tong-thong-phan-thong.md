@@ -8,7 +8,7 @@ categories:
 tags:
   - Kinh Kim Cang Bát Nhã
   - Tông Thông
-pdfUrl: /pdfs/kinh-kim-cang-tong-thong-1.pdf
+pdfUrl: /pdfs/kinh-kim-cang-tong-thong.pdf
 ---
 
 NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ.
