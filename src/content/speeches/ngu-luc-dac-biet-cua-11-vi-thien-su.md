@@ -1,7 +1,6 @@
 ---
 title: "QUẢNG NGỮ THIỀN SƯ DANH TIẾNG CÁC NƠI"
 description: "NGỮ LỤC ĐẶC BIỆT CỦA 11 THIỀN SƯ"
-author: "11 THIỀN SƯ"
 categories: ["Ngữ Lục"]
 tags: ["TS NAM DƯƠNG HUỆ TRUNG"]
 ---

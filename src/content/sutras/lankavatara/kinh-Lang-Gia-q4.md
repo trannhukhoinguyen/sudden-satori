@@ -2,7 +2,7 @@
 title: "Kinh Lăng Già - quyển IV"
 description: ""
 excerpt: ""
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
+videoId: "vwOi8UCTCp0"
 videoStart: "14450"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]

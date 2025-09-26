@@ -1,10 +1,11 @@
 ---
 title: Kinh Lăng Ca trích giảng
 description: Cụ Lệ Thần TRẦN TRONG KIM Trích giảng Tủ Sách Phật Học Tân Việt ấn hành-Nhà xuất bản Tân Việt in lần thứ nhất tại Hà-nội
-author: Cụ Trần Trọng Kim
+authors: 
+  - Mr. Trần Trọng Kim
 audioUrls:
   - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3
-videoUrl: https://www.youtube.com/embed/vwOi8UCTCp0
+videoId: vwOi8UCTCp0
 categories:
   - Luận
 tags:

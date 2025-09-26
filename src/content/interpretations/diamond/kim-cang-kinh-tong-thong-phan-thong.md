@@ -1,7 +1,8 @@
 ---
 title: Kim Cang Kinh Tông Thông
 description: ☸ Trích lọc từ THÍCH NỮ TUỆ ĐĂNG & THÍCH NHUẬN CHÂU Việt dịch
-author: Tăng Phụng Nghi
+authors: 
+  - Tăng Phụng Nghi
 categories:
   - Luận
 tags:

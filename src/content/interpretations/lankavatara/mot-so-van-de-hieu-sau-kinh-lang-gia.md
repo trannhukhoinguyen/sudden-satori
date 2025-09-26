@@ -1,10 +1,11 @@
 ---
 title: Về Một Số Vấn Đề Trong Kinh Lăng Già Phạn-Hán
 description: ""
-author: Phước Nguyên
+authors: 
+  - Phước Nguyên
 audioUrls:
   - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3
-videoUrl: https://www.youtube.com/embed/vwOi8UCTCp0
+videoId: vwOi8UCTCp0
 categories:
   - Luận
 tags:

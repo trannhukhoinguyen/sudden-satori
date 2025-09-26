@@ -9,7 +9,7 @@ categories:
   - Sách
 tags:
   - NGỮ LỤC
-author:
+authors:
   - TS VĂN THỦ
 ---
 

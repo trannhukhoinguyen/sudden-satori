@@ -5,7 +5,8 @@ categories:
 tags:
   - Tổ Sư Thiền
   - Định nghĩa
-author: HT Thích Duy Lực
+authors: 
+  - HT Thích Duy Lực
 ---
 
 ## Giới thiệu

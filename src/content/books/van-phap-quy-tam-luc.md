@@ -2,7 +2,7 @@
 title: "Vạn Pháp Quy Tâm Lục"
 description: ""
 excerpt: ""
-author:
+authors:
   - TS Tổ Nguyên Siêu Minh
 categories:
   - Sách

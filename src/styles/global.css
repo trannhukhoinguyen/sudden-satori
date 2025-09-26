@@ -7,6 +7,7 @@
   --color-silver-dark: darkgray;
   --color-medium-gray: #888888;
   --color-gray: gray; /* grey */
+  --color-dimgray: dimgray;
   --color-dark-gray: #333333;
   --color-black: #000000;
 
@@ -17,12 +18,17 @@
   --linear-multi: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 
   /* Accent Color */
+  --color-accent-mistyrose: mistyrose;
   --color-accent-red: red;
+  --color-accent-crimson: crimson;
+  --color-accent-darkred: darkred;
+  --color-accent-green-indianredn: indianred;
+
   --color-accent-lightpink: lightpink;
   --color-accent-deeppink: deeppink;
   --color-accent-pink: pink;
+  --color-accent-plum: plum;
   --color-accent-hotpink: hotpink;
-  --color-accent-firebrick: firebrick;
 
   --color-accent-linen: linen;
   --color-accent-khaki: khaki;
@@ -40,8 +46,13 @@
   --color-accent-darkgoldenrod: darkgoldenrod;
   --color-accent-darkorange: darkorange;
   --color-accent-orange: orange;
+  --color-accent-orangered: orangered;
   --color-accent-coral: coral;
+  --color-accent-darksalmon: darksalmon;
 
+  --color-accent-gainsboro: gainsboro;
+  --color-accent-floralwhite: floralwhite;
+  --color-accent-cornsilk: cornsilk;
   --color-accent-ivory: ivory;
   --color-accent-beige: beige;
   --color-accent-antiquewhite: antiquewhite;
@@ -50,9 +61,12 @@
   --color-accent-tan: tan;
   --color-accent-burlywood: burlywood;
   --color-accent-brown-light: #faaa70;
+  --color-accent-salmon: salmon;
+  --color-accent-peru: peru;
   --color-accent-chocolate: chocolate;
   --color-accent-saddlebrown: saddlebrown;
   --color-accent-brown: brown;
+  --color-accent-firebrick: firebrick;
   --color-accent-maroon: maroon;
 
   --color-accent-lavender: lavender;
@@ -63,52 +77,50 @@
   --color-accent-darkmagenta: darkmagenta;
   --color-accent-darkorchid: darkorchid;
   --color-accent-indigo: indigo;
+  --color-accent-orchid: orchid;
+  --color-accent-darkslateblue: darkslateblue;
+  --color-accent-darkviolet: darkviolet;
+  --color-accent-rebeccapurple: rebeccapurple;
 
   --color-accent-greenyellow: greenyellow;
   --color-accent-lawngreen: lawngreen;
+  --color-accent-forestgreen: forestgreen;
+  --color-accent-darkseagreen: darkseagreen;
   --color-accent-lime: lime;
   --color-accent-chartreuse: chartreuse;
   --color-accent-limegreen: limegreen;
   --color-accent-green: #02b802;
   --color-accent-green-dark: green;
+  --color-accent-green-darkgreen: darkgreen;
 
   --color-accent-aquamarine: aquamarine;
   --color-accent-aqua: aqua; /* cyan */
+  --color-accent-darkturquoise: darkturquoise;
+  --color-accent-cadetblue: cadetblue;
+  --color-accent-darkcyan: darkcyan;
   --color-accent-teal: teal;
+  --color-silver-darkslategray: darkslategray;
 
+  --color-accent-mintcream: mintcream;
   --color-accent-azure: azure;
   --color-accent-aliceblue: aliceblue;
-  --color-accent-sky: #5a9ef6;
+  --color-accent-cornflowerblue: cornflowerblue;
+  --color-accent-deepskyblue: deepskyblue;
+  --color-accent-dodgerblue: dodgerblue;
   --color-accent-blue: blue;
   --color-accent-midnightblue: midnightblue;
   --color-accent-navy: navy;
+  --color-accent-darkblue: darkblue;
+  --color-accent-powderblue: powderblue;
+  --color-accent-royalblue: royalblue;
+  --color-accent-moccasin: moccasin;
+  --color-accent-moccasin: moccasin;
+  --color-accent-navajowhite: navajowhite;
+  --color-accent-oldlace: oldlace;
+  --color-accent-olivedrab: olivedrab;
+  --color-accent-sandybrown: sandybrown;
+  --color-accent-rosybrown: rosybrown;
   /*
-cadetblue	#5f9ea0
-cornflowerblue	#6495ed
-cornsilk	#fff8dc
-crimson	#dc143c
-darkblue	#00008b
-darkcyan	#008b8b
-darkgray	#a9a9a9
-darkgreen	#006400
-darkgrey	#a9a9a9
-darkorchid	#9932cc
-darkred	#8b0000
-darksalmon	#e9967a
-darkseagreen	#8fbc8f
-darkslateblue	#483d8b
-darkslategray	#2f4f4f
-darkslategrey	#2f4f4f
-darkturquoise	#00ced1
-darkviolet	#9400d3
-deeppink	#ff1493
-deepskyblue	#00bfff
-dimgray	#696969
-dimgrey	#696969
-dodgerblue	#1e90ff
-floralwhite	#fffaf0
-forestgreen	#228b22
-gainsboro	#dcdcdc
 ghostwhite	#f8f8ff
 indianred	#cd5c5c
 lavenderblush	#fff0f5
@@ -137,13 +149,6 @@ mediumspringgreen	#00fa9a
 mediumturquoise	#48d1cc
 mediumvioletred	#c71585
 midnightblue	#191970
-mintcream	#f5fffa
-mistyrose	#ffe4e1
-moccasin	#ffe4b5
-navajowhite	#ffdead
-oldlace	#fdf5e6
-olivedrab	#6b8e23
-orangered	#ff4500
 orchid	#da70d6
 palegoldenrod	#eee8aa
 palegreen	#98fb98
@@ -151,14 +156,7 @@ paleturquoise	#afeeee
 palevioletred	#db7093
 papayawhip	#ffefd5
 peachpuff	#ffdab9
-peru	#cd853f
-plum	#dda0dd
-powderblue	#b0e0e6
-rebeccapurple	#663399
 rosybrown	#bc8f8f
-royalblue	#4169e1
-saddlebrown	#8b4513
-salmon	#fa8072
 sandybrown	#f4a460
 seagreen	#2e8b57
 seashell	#fff5ee
@@ -307,7 +305,7 @@ h3 {
 }
 
 h4 {
-  color: var(--color-accent-pink);
+  color: var(--color-accent-deeppink);
 }
 
 h5 {
@@ -315,7 +313,7 @@ h5 {
 }
 
 h6 {
-  color: var(--color-accent-blue);
+  color: var(--color-accent-brown);
 }
 
 p {

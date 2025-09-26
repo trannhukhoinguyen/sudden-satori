@@ -8,7 +8,8 @@ categories:
   - Ngữ lục
 tags:
   - TS ĐOẠN VÂN TRÍ TRIỆT
-author: "TS ĐOẠN VÂN TRÍ TRIỆT"
+authors: 
+  - TS ĐOẠN VÂN TRÍ TRIỆT
 ---
 
 ## TỰA

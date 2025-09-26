@@ -1,10 +1,11 @@
 ---
 title: Đại ý Kinh Lăng Già
 description: ""
-author: Hoà thượng Thích Phổ Tuệ
+authors: 
+  - HT Thích Phổ Tuệ
 audioUrls:
   - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3
-videoUrl: https://www.youtube.com/embed/vwOi8UCTCp0
+videoId: vwOi8UCTCp0
 categories:
   - Luận
 tags:

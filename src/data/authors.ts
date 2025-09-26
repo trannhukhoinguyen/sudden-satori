@@ -78,7 +78,7 @@ const authors: author[] = [
         "https://thamtosuthien.net/videos/chua-phan-loai/thay-duy-luc-day-tham-thoai-dau-phu-de-anh-ngu-quan-thoai-18.html)",
       ],
       youtubeIds: [
-        "DLS2VpXg3N8", // "https://www.youtube.com/embed/DLS2VpXg3N8?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1)",
+        "DLS2VpXg3N8", // "DLS2VpXg3N8?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1)",
       ],
     },
     {

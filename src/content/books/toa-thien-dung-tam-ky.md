@@ -9,9 +9,10 @@ tags:
   - HƯỚNG DẪN
   - THAM THIỀN
   - TS OÁNH SƠN THIỆU CẨN
-author: "TS OÁNH SƠN THIỆU CẨN"
+authors: 
+  - TS OÁNH SƠN THIỆU CẨN
 image: "/images/koans/great-wave.webp"
-videoUrl: "https://www.youtube.com/embed/MZSh7XxjQU4"
+videoId: "MZSh7XxjQU4"
 pdfUrl: "/pdfs/books/toa-thien-dung-tam-ky.pdf"
 ---
 

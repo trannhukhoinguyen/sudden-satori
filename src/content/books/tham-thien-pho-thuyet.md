@@ -9,7 +9,7 @@ tags:
   - Tham Thiền
   - Tòng Lâm
   - TS LAI QUẢ
-author:
+authors:
   - TS LAI QUẢ
 pdfUrl: /pdfs/books/tham-thien-pho-thuyet.pdf
 ---

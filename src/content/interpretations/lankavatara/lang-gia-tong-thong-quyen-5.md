@@ -1,10 +1,8 @@
 ---
 title: Lăng Già Kinh Tông Thông - Quyển 5 (phần Thông)
 description: 1600-1615
-author: Tăng Phụng Nghi
-audioUrls:
-  - https://app.box.com/s/7s1wau54bfbiu94t1le9/file/76237370445
-videoUrl: https://www.youtube.com/embed/e5qP5EZ9BUY?list=PLoeo1OB7dRzqZ1C1-pPW9js8iB5CpxGmE
+authors: 
+  - Tăng Phụng Nghi
 categories:
   - Luận
 tags:

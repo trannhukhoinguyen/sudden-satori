@@ -8,7 +8,8 @@ categories:
   - Ngữ lục
 tags:
   - TS VÂN THÊ CHÂU HOẲNG
-author: "Vân Thê Châu Hoằng"
+authors: 
+  - Vân Thê Châu Hoằng
 image: /images/koans/great-wave.webp
 pdfUrl: "/pdfs/books/thien-quan-sach-tan.pdf"
 ---

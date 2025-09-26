@@ -12,7 +12,7 @@ tags:
 author: "HT HƯ VÂN"
 image: "/images/koans/great-wave.webp"
 pdfUrl: "/pdfs/practices/phuong-phap-tham-thien.pdf"
-videoUrl: "https://www.youtube.com/embed/yJRqjjX2WIQ"
+videoId: "yJRqjjX2WIQ"
 ---
 
 <hr class="blog-rule" />

@@ -7,7 +7,7 @@ categories:
 tags:
   - Tham Thiền
   - TS BỒ ĐỀ ĐẠT MA
-author:
+authors:
   - TS BỒ ĐỀ ĐẠT MA
 pdfUrl: /pdfs/books/sau-cua-vao-dong-thieu-that.pdf
 image: /images/koans/great-wave.webp

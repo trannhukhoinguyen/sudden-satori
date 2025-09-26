@@ -6,7 +6,8 @@ categories:
   - Bài viết
 tags:
   - Truyền thừa
-author: phatgiao.org.vn
+authors: 
+  - phatgiao.org.vn
 image: /images/koans/great-wave.webp
 ---
 

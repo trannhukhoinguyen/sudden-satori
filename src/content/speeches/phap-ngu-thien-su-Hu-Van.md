@@ -2,7 +2,6 @@
 title: "PHÁP NGỮ THIỀN SƯ HƯ VÂN"
 description: ""
 excerpt: "...."
-author: "TS HƯ VÂN"
 categories: ["Ngữ Lục"]
 tags: ["TS HƯ VÂN"]
 pdfUrl: "/pdfs/speeches/Hu-Van-phap-ngu.pdf"

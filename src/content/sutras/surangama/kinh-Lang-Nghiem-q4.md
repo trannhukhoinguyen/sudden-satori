@@ -2,7 +2,7 @@
 title: "Kinh Lăng Nghiêm - Quyển IV"
 description: ""
 excerpt: ""
-videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
+videoId: "MeKCZ_DuSjk"
 videoStart: "9319"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]

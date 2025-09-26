@@ -8,35 +8,35 @@ const { frontmatter } = Astro.props;
 <div class="mb-8 space-y-6">
     {
         // Single video
-        frontmatter?.videoUrl && (
-      <div class="video-container">
-          <iframe
-            src={frontmatter.videoUrl + `?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
-            title={frontmatter.title}
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-            width="100%"
-            style="min-height: 500px"
-          ></iframe>
-      </div>
+        frontmatter?.videoId && (
+          <div class="video-container">
+              <iframe
+                src={`https://www.youtube.com/embed/${frontmatter.videoId}?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
+                title={frontmatter.title}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                width="100%"
+                style="min-height: 500px"
+              ></iframe>
+          </div>
     )
     }
 
     {
         // Multiple videos
-        frontmatter?.videoUrls?.length &&
-      frontmatter?.videoUrls?.map((url: any, index: number) => (
-        <div class="video-container">
-            <iframe
-              src={url + `?start=${frontmatter.videoStarts?.length ? frontmatter.videoStarts[index] : 0}`}
-              title={`${frontmatter.title} - ${index + 1}`}
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-              width="100%"
-              style="min-height: 500px"
-            ></iframe>
-        </div>
-      ))
+        frontmatter?.videoIds?.length &&
+          frontmatter?.videoIds?.map((id: any, index: number) => (
+            <div class="video-container">
+                <iframe
+                  src={`https://www.youtube.com/embed/${id}?start=${frontmatter.videoStarts?.length ? frontmatter.videoStarts[index] : 0}`}
+                  title={`${frontmatter.title} - ${index + 1}`}
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                  width="100%"
+                  style="min-height: 500px"
+                ></iframe>
+            </div>
+          ))
     }
 
     {
@@ -66,29 +66,29 @@ const { frontmatter } = Astro.props;
     {
         // Single audio
         frontmatter?.audioUrl && (
-      <div>
-          <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
-          <video width="640" height="360" controls poster="/cover.jpg">
-              <source src={frontmatter.audioUrl} type="audio/mpeg" />
-              <track src={frontmatter.vtt} kind="subtitles" srclang="en" label="Lyrics" default />
-          </video>
-      </div>
+          <div>
+              <h3 class="text-xl font-bold mb-4" title="Listen">🎧</h3>
+              <video width="640" height="360" controls poster="/cover.jpg">
+                  <source src={frontmatter.audioUrl} type="audio/mpeg" />
+                  <track src={frontmatter.vtt} kind="subtitles" srclang="en" label="Lyrics" default />
+              </video>
+          </div>
     )
     }
 
     {
         // Multiple audios
         frontmatter?.audioUrls?.length &&
-      frontmatter?.audioUrls?.map((url: any, index: number) => (
-        <div class="audio-block">
-            {index === 0 ? <h3 class="audio-heading" title="Listen">🎧</h3> : ''}
-            <h4 class="audio-subheading" title={url}>{index + 1}</h4>
-            <audio controls class="audio-player">
-                <source src={url} type="audio/mpeg" />
-                Your browser does not support the audio element.
-            </audio>
-        </div>
-      ))
+          frontmatter?.audioUrls?.map((url: any, index: number) => (
+            <div class="audio-block">
+                {index === 0 ? <h3 class="audio-heading" title="Listen">🎧</h3> : ''}
+                <h4 class="audio-subheading" title={url}>{index + 1}</h4>
+                <audio controls class="audio-player">
+                    <source src={url} type="audio/mpeg" />
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+          ))
     }
 </div>
 

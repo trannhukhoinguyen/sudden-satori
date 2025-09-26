@@ -2,7 +2,7 @@
 title: "Kinh Lăng Già - quyển III"
 description: ""
 excerpt: ""
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
+videoId: "vwOi8UCTCp0"
 videoStart: "10054"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]

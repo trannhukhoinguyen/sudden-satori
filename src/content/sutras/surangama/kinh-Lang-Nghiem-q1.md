@@ -2,7 +2,7 @@
 title: "Kinh Lăng Nghiêm - Quyển I"
 description: ""
 excerpt: ""
-videoUrl: "https://www.youtube.com/embed/MeKCZ_DuSjk"
+videoId: "MeKCZ_DuSjk"
 videoStart: "55"
 categories: ["Kinh"]
 tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]

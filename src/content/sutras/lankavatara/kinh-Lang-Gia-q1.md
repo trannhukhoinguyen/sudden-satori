@@ -4,7 +4,7 @@ description: ""
 excerpt: ""
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
-videoUrl: "https://www.youtube.com/embed/vwOi8UCTCp0"
+videoId: "vwOi8UCTCp0"
 videoStart: "1071"
 pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
 ---

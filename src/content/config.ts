@@ -14,7 +14,6 @@ const blogs = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().optional().default("Zen master"),
     image: z.string().optional(),
   }),
 });
@@ -44,12 +43,10 @@ const books = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    authors: z.array(z.string().optional()).default(["Zen master"]),
-    author: z.string().optional().default("Zen master"),
     image: z.string().optional(),
-    videoUrl: z.string().url().optional(),
+    videoId: z.string().url().optional(),
     videoStart: z.string().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
+    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -68,9 +65,9 @@ const koans = defineCollection({
     image: z.string().optional(),
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
-    videoUrl: z.string().url().optional(),
+    videoId: z.string().url().optional(),
     videoStart: z.string().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
+    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -86,13 +83,12 @@ const sutras = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().optional().default("Phật"),
     image: z.string().optional(),
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
-    videoUrl: z.string().url().optional(),
+    videoId: z.string().url().optional(),
     videoStart: z.string().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
+    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -110,12 +106,11 @@ const interpretations = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().optional().default("Zen master"),
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
-    videoUrl: z.string().url().optional(),
+    videoId: z.string().url().optional(),
     videoStart: z.string().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
+    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -133,12 +128,11 @@ const practices = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().optional().default("Zen master"),
     image: z.string().optional(),
     audioUrl: z.string().url().optional(),
     audioUrls: z.array(z.string().url()).optional(),
-    videoUrl: z.string().url().optional(),
-    videoUrls: z.array(z.string().url()).optional(),
+    videoId: z.string().url().optional(),
+    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -156,7 +150,6 @@ const speeches = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    author: z.string().default("Zen master"),
   }),
 });
 
@@ -185,6 +178,8 @@ const faqs = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
+    authors: z.array(z.string()).optional().default(["Zen master"]),
+    author: z.string().optional().default("Zen master"),
   }),
 });
 

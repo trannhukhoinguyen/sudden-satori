@@ -1,7 +1,7 @@
 ---
 title: "MẠN ĐÀM TÂM KINH"
 description: ""
-videoUrl: https://www.youtube.com/embed/A9yQQSOy4hc
+videoId: A9yQQSOy4hc
 categories:
   - Luận
 tags:
