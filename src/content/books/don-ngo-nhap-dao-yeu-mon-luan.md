@@ -2,7 +2,7 @@
 title: "ĐỐN NGỘ NHẬP ĐẠO YẾU MÔN"
 description: ""
 excerpt: ""
-author:
+authors:
   - TS ĐẠI CHÂU HUỆ HẢI
 categories:
   - Sách
