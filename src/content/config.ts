@@ -44,9 +44,6 @@ const books = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
-    videoId: z.string().url().optional(),
-    videoStart: z.string().optional(),
-    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -63,11 +60,6 @@ const koans = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
-    audioUrl: z.string().url().optional(),
-    audioUrls: z.array(z.string().url()).optional(),
-    videoId: z.string().url().optional(),
-    videoStart: z.string().optional(),
-    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -84,11 +76,6 @@ const sutras = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
-    audioUrl: z.string().url().optional(),
-    audioUrls: z.array(z.string().url()).optional(),
-    videoId: z.string().url().optional(),
-    videoStart: z.string().optional(),
-    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -106,11 +93,6 @@ const interpretations = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    audioUrl: z.string().url().optional(),
-    audioUrls: z.array(z.string().url()).optional(),
-    videoId: z.string().url().optional(),
-    videoStart: z.string().optional(),
-    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -129,10 +111,6 @@ const practices = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     image: z.string().optional(),
-    audioUrl: z.string().url().optional(),
-    audioUrls: z.array(z.string().url()).optional(),
-    videoId: z.string().url().optional(),
-    videoIds: z.array(z.string().url()).optional(),
   }),
 });
 
@@ -178,8 +156,6 @@ const faqs = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    authors: z.array(z.string()).optional().default(["Zen master"]),
-    author: z.string().optional().default("Zen master"),
   }),
 });
 

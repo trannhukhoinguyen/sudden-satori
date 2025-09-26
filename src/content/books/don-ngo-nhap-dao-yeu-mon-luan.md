@@ -13,7 +13,7 @@ tags:
   - TS ĐẠI CHÂU HUỆ HẢI
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/don-ngo-nhap-dao-yeu-mon.pdf
-videoId: "rMZUfz1C6pI"
+videoId: rMZUfz1C6pI
 ---
 
 
