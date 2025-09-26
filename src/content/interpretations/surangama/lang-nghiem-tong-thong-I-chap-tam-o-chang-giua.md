@@ -1,5 +1,5 @@
 ---
-title: "Lăng Nghiêm Tông Thông - CHẤP TÂM NÚP SAU CON MẮT"
+title: "Lăng Nghiêm Tông Thông - CHẤP TÂM Ở CHẶNG GIỮA"
 description: ""
 authors: 
   - Tăng Phụng Nghi

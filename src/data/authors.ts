@@ -22,7 +22,7 @@ const authors: author[] = [
           "Ông từng gặp một vị Tăng, cùng nhau tranh luận 3 ngày không dứt. " +
           "Do vậy, Ông tin Phật, trì giới, ăn chay, nghiên cứu kinh luận. " +
           "Một hôm, Ông thấy trăng lặn, mặt trời mọc, hoát nhiên đại ngộ. " +
-          "Ông soạn bộ Tam Tông Thông gồm: Thủ Lăng Nghiêm Kinh Tông Thông, Lăng Già Kinh Tông Thông và Kim Cang Kinh Tông Thông.",
+          "Ông soạn bộ Tam Tông Thông gồm: Thủ Lăng Nghiêm Kinh Tông Thông, Lăng Già Tông Thông và Kim Cang Kinh Tông Thông.",
       avatar: "",
       references: [
         "https://blog.phapthihoi.org/tu-dien-phat-giao/tang-phung-nghi/",

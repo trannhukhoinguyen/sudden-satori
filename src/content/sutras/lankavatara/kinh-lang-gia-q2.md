@@ -2,11 +2,12 @@
 title: "Kinh Lăng Già - quyển II"
 description: ""
 excerpt: ""
-videoId: "vwOi8UCTCp0"
-videoStart: "4582"
 categories: ["Kinh"]
+image: /images/backgrounds/trang-lang-gia.webp
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
+videoId: vwOi8UCTCp0
+videoStart: 4582
 ---
 
 ## PHẨM NHẤT THIẾT PHẬT NGỮ TÂM - PHẦN II - QUYỂN THỨ NHÌ

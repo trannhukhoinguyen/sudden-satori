@@ -1,5 +1,5 @@
 ---
-title: "Thủ Lăng Nghiêm Kinh Tông Thông - Quyển 1"
+title: "Lăng Nghiêm Tông Thông - GẠN HỎI CÁI TÂM"
 description: ""
 authors: 
   - Tăng Phụng Nghi

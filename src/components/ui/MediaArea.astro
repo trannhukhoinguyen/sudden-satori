@@ -94,7 +94,7 @@ const { frontmatter } = Astro.props;
 
 <style>
     /* Playlist container */
-    .video-container.playlist {
+    .video-container {
         position: relative;
         width: 100%;
         height: 500px; /* fix chiều cao */
@@ -102,7 +102,7 @@ const { frontmatter } = Astro.props;
         overflow: hidden;
     }
 
-    .video-container.playlist iframe {
+    .video-container iframe {
         width: 100%;
         height: 100%;
         border: 0;
@@ -125,7 +125,7 @@ const { frontmatter } = Astro.props;
     }
 
 
-    .video-container.playlist {
+    .video-container {
         position: relative;
         width: 100%;
         height: 500px; /* default desktop */
@@ -133,7 +133,7 @@ const { frontmatter } = Astro.props;
         overflow: hidden;
     }
 
-    .video-container.playlist iframe {
+    .video-container iframe {
         width: 100%;
         height: 100%;
         border: 0;
@@ -141,7 +141,7 @@ const { frontmatter } = Astro.props;
 
     /* Mobile breakpoint */
     @media (max-width: 768px) {
-        .video-container.playlist {
+        .video-container {
             height: auto;
             aspect-ratio: 16 / 9;
         }

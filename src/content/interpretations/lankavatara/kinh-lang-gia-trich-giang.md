@@ -1,15 +1,14 @@
 ---
 title: Kinh Lăng Ca trích giảng
-description: Cụ Lệ Thần TRẦN TRONG KIM Trích giảng Tủ Sách Phật Học Tân Việt ấn hành-Nhà xuất bản Tân Việt in lần thứ nhất tại Hà-nội
+description: ""
 authors: 
   - Mr. Trần Trọng Kim
-audioUrls:
-  - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3
-videoId: vwOi8UCTCp0
 categories:
   - Luận
 tags:
   - Kinh Lăng Già
+image: /images/backgrounds/trang-lang-gia.webp
+videoId: vwOi8UCTCp0
 ---
 
 Theo lời chú đời xưa nói rằng Lăng-ca là tên một hòn núi rất bí ẩn ở trên đảo Tích-Lan ngày nay, có bể lớn bao bọc chung quanh, trên đỉnh núi có cái thành không có cửa là nơi Dạ-xoa quỉ vương ở và có những quỉ dạ-xoa thường hay đi bắt người và các loài sinh vật mà ăn, rất đáng kinh hãi.

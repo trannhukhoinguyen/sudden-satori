@@ -1,15 +1,14 @@
 ---
-title: Về Một Số Vấn Đề Trong Kinh Lăng Già Phạn-Hán
+title: Một Số Vấn Đề Trong Kinh Lăng Già Phạn Hán
 description: ""
 authors: 
   - Phước Nguyên
-audioUrls:
-  - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3
 videoId: vwOi8UCTCp0
 categories:
   - Luận
 tags:
   - Kinh Lăng Già
+image: /images/backgrounds/trang-lang-gia.webp
 ---
 
 Lăng-già với nghĩa lý uyên áo màu nhiệm, cấu trúc ngữ pháp Phạn ngữ lại biến thiên phức tạp, nhưng may mắn nhờ có nguồn năng lực vô hạn của chư vị Tôn sư, đã hướng dẫn kịp thời những lúc chúng tôi bế tắc. Việc kinh văn được trở lại đúng với nguyên vị của nó, là nhờ tôn ý của quý Ngài đã hướng dẫn chúng con tận tình.

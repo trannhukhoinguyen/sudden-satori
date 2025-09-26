@@ -2,11 +2,12 @@
 title: "Kinh Lăng Già - quyển III"
 description: ""
 excerpt: ""
-videoId: "vwOi8UCTCp0"
-videoStart: "10054"
 categories: ["Kinh"]
+image: /images/backgrounds/trang-lang-gia.webp
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
 pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
+videoId: vwOi8UCTCp0
+videoStart: 10054
 ---
 
 ## LĂNG GIÀ LĂNG GÌA A BẠT ĐA LA BỬU KINH - QUYỂN THỨ BA

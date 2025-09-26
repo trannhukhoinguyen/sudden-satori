@@ -57,11 +57,11 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
 
                     <!-- Image Section -->
                     <section class="image-area">
-                        <!--<PostImage -->
-                        <!--    imageUrl={post.frontmatter.image} -->
-                        <!--    imageAlt={post.frontmatter.title}-->
-                        <!--    height="100px"-->
-                        <!--/>-->
+                        <PostImage
+                            imageUrl={post.frontmatter.image ?? '/images/backgrounds/mountain-landscape-day-time.jpg'}
+                            imageAlt={post.frontmatter.title}
+                            width="100%"
+                        />
                     </section>
 
                     <div class="boxed-post-meta">

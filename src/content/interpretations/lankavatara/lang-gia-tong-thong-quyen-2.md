@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Kinh Tông Thông - Quyển 2 (phần Thông)
+title: Lăng Già Tông Thông - Quyển 2
 description: 1600-1615
 authors:
   - Tăng Phụng Nghi
@@ -8,6 +8,8 @@ categories:
 tags:
   - Kinh Lăng Già
   - Tông Thông
+image: /images/backgrounds/trang-lang-gia.webp
+videoId: fXeCZy7gpNE
 ---
 
 ## Quyển 2

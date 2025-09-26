@@ -2,11 +2,12 @@
 title: "Kinh Lăng Già - quyển IV"
 description: ""
 excerpt: ""
-videoId: "vwOi8UCTCp0"
-videoStart: "14450"
 categories: ["Kinh"]
 tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
+image: /images/backgrounds/trang-lang-gia.webp
 pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
+videoId: vwOi8UCTCp0
+videoStart: 14450
 ---
 
 ## LĂNG GIÀ LĂNG GÌA A BẠT ĐA LA BỬU KINH - QUYỂN BỐN

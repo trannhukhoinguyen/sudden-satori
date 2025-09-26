@@ -3,13 +3,11 @@ title: Đại ý Kinh Lăng Già
 description: ""
 authors: 
   - HT Thích Phổ Tuệ
-audioUrls:
-  - http://tosuthien.info/audio_storage/htduyluc/kinhlanggia/kinh%20lang%20gia%201.mp3
-videoId: vwOi8UCTCp0
 categories:
   - Luận
 tags:
   - Kinh Lăng Già
+image: /images/backgrounds/trang-lang-gia.webp
 ---
 
 ### Tại sao gọi là Kinh Lăng Già?

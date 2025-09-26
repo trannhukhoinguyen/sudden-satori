@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Kinh Tông Thông - Quyển 3 (phần Thông)
+title: Lăng Già Tông Thông - Quyển 3
 description: 1600-1615
 authors:
   - Tăng Phụng Nghi
@@ -8,6 +8,8 @@ categories:
 tags:
   - Kinh Lăng Già
   - Tông Thông
+image: /images/backgrounds/trang-lang-gia.webp
+videoId: -ILGM4nQisA
 ---
 
 ## Quyển 3

@@ -93,6 +93,7 @@ const interpretations = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
+    image: z.string().optional().default("/images/backgrounds/meditation-child.jpg"),
   }),
 });
 

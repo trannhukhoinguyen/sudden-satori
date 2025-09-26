@@ -8,6 +8,7 @@ categories:
 tags:
   - Kinh Thủ Lăng Nghiêm
   - Tông Thông
+image: /images/backgrounds/meditation-child.jpg
 videoId: e5qP5EZ9BUY
 videoStart: "1071"
 ---
