@@ -5288,7 +5288,7 @@ niết-bàn nào để chứng như đây là chỗ
 
 nghị thừa mà chẳng phải thừa vậy
 
-em có Việt Tân ngồi thiền sư động Sơn
+em có Việt Tân ngồi thiền sư Động Sơn
 
 Tuyên người tu thanh tịnh chẳng nên
 

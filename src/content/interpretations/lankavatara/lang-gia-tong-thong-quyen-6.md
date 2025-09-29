@@ -456,7 +456,7 @@ vọng tưởng của Phạm Phú có thể suy lượng
 
 được
 
-các tổ động Sơn hỏi một việc ăn ở đời
+các tổ Động Sơn hỏi một việc ăn ở đời
 
 cái gì Khổ Nhất Thanh nói địa ngục là
 

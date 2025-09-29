@@ -30,7 +30,7 @@ Nếu như các ông muốn trải nó ra thì cứ việc trải nó ra, nếu 
 
 Tuyết Phong cùng đi với Nham Đầu và Khâm Sơn.
 
-Sư đến Đầu Tử ba lần lên động Sơn chín lần. Sau đến tham vấn Đức Sơn, lúc ấy mới đập lủng được đáy thùng đen.
+Sư đến Đầu Tử ba lần lên Động Sơn chín lần. Sau đến tham vấn Đức Sơn, lúc ấy mới đập lủng được đáy thùng đen.
 
 Một hôm cùng đi với Nham Đầu đến gặp Khâm Sơn. Đi đến một khách điềm trên Ngao Sơn thì bị kẹt tuyết.
 

@@ -1,8 +1,10 @@
 ---
 title: "QUẢNG NGỮ THIỀN SƯ DANH TIẾNG CÁC NƠI"
 description: "NGỮ LỤC ĐẶC BIỆT CỦA 11 THIỀN SƯ"
-categories: ["Ngữ Lục"]
-tags: ["TS NAM DƯƠNG HUỆ TRUNG"]
+categories: 
+  - Ngữ Lục
+tags: 
+  - TS NAM DƯƠNG HUỆ TRUNG
 ---
 
 1. Quảng ngữ của Quốc sư Tuệ Trung ở Nam Dương (NAM DƯƠNG HUỆ TRUNG)

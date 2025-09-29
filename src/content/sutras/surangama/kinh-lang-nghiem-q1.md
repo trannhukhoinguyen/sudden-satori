@@ -5,8 +5,10 @@ excerpt: ""
 videoId: "MeKCZ_DuSjk"
 videoStart: "55"
 categories: ["Kinh"]
-tags: ["Kinh Thủ Lăng Nghiêm", "HT Thích Duy Lực"]
-pdfUrl: "/pdfs/sutras/kinh-thu-lang-nghiem.pdf"
+tags: 
+  - Kinh Thủ Lăng Nghiêm
+  - HT Thích Duy Lực
+pdfUrl: /pdfs/sutras/kinh-thu-lang-nghiem.pdf
 ---
 
 # KINH THỦ LĂNG NGHIÊM

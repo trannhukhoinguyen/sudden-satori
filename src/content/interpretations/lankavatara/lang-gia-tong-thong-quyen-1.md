@@ -29,50 +29,14 @@ videoId: kRYzpw2ntPY
 - Đời Minh 1572 đến 1620 cơ sở Bồ Tát giới tăng phụ ghi đã dùng hội cả ba bản dịch và thêm dùng các tích xưa và cơ dư độc đáo của các bậc tôn thúc để làm rõ nhịp kinh soạn thành 8 quyển đặt tên là **Lăng Già A-bạt-đa-la Bảo Kinh Tông Thông** được kết tập trong vạn tục tạng số X17 No.330
 
 34 quyển đời Tống Dịch đều lấy tên là Nhất thiết Phật ngữ tâm thì đã hiện bài trước.
-Giá trị của toàn bộ bản kinh cốt lấy việc sáng tỏ bản tâm làm trọng không chỉ có đức Phật Thích Ca
-mà hoặc hoặc không
+Giá trị của toàn bộ bản kinh cốt lấy việc sáng tỏ bản tâm làm trọng không chỉ có đức Phật Thích Ca mà hoặc hoặc không khác điều trị thẳng bạn tâm toàn bộ bản kinh từ 108 câu hỏi của bồ-tát Đại Huệ và lời đáp vì cứu chẳng phải câu của Đức Thế Tôn 
+cho đến kiến lập thứ 18 thức 5 pháp 3 tự tính hay vô ngã hãy đều quy về biển tịch diệt Như Lai tạng cũng tức là bản tâm vầy 
 
-khác điều trị thẳng bạn tâm toàn bộ bản
+Thế mới biết bạn kinh này là con đường cần thiết của người tu học để trực tiếp tin nhắn Bản thể chính mình đã trải qua 65 ngày 15 tháng 04 năm 2014 đến 15 tháng 7 năm 2020 con đã đọc học nghiên cứu và chuyển nhượng bản kinh lăng già tông thông 
+y cứ vào lời Đức Thế Tôn khai giác thực hành trong từng ngày mỗi ngày nơi tự tâm càng tỏ rõ ràng rẽ các sự tham bám của mình 
+quả thật chỉ có Tuệ inna sự khai giá của Đức Thế Tôn thì tham chất mới rơi rụng các thứ ngu si kêu mạch mới mỏ dần sụp đổ
 
-kinh từ 108 câu hỏi của bồ-tát Đại Huệ
-
-và lời đáp vì cứu chẳng phải câu của Đức
-
-Thế Tôn cho đến kiếm lập thứ 18 thức năm
-
-pháp 3 tự tính hay vô ngã hãy điều quy
-
-về biển tịch diệt Như Lai tạng cũng tức
-
-là bản tâm vầy Thế mới biết bạn kinh này
-
-là con đường cần thiết của người tu học
-
-để trực tiếp tin nhắn Bản thể chính mình
-
-đã trải qua 65 ngày 15 tháng 04 năm
-
-2014 đến 15 tháng 7 năm
-
-2020 con đã đọc học nghiên cứu và chuyển nhượng bản kinh lăng-già tông thông y cứ vào lời Đức Thế Tôn khai giác thực hành
-
-trong từng ngày mỗi ngày nơi tự tâm càng
-
-tỏ rõ ràng rẽ các sự tham bám của mình
-
-quả thật chỉ có Tuệ inna sự khai giá của
-
-Đức Thế Tôn thì tham chất mới rơi rụng
-
-các thứ ngu si kêu mạch mới mỏ dần sụp đổ
-
-Ừ chúc phần tâm sáng suốt được hiện ra
-
-cảnh bồi ân đức như vật vùng ông thầy sư
-
-trưởng con tinh dịch bạn kinh này ra lời
-
-việc để mọi người có cơ duyên được đọc
+TỪ chúc phần tâm sáng suốt được hiện ra cảnh bồi ân đức như vật vùng ông thầy sư trưởng con tinh dịch bạn kinh này ra lời việc để mọi người có cơ duyên được đọc
 
 được lượng nguồn Ân Quang chưa vậy em
 
@@ -153,21 +117,9 @@ Những ai ở trong cảnh giới này nếu tâm còn phân biệt thì không
 
 ## Quyển 1
 
-Lý Duyên khởi Kinh Lăng và tông thông đề
+Lý Duyên khởi Kinh Lăng và tông thông đề tựa Núi năm nhạc quan trương Kim giảng tên là căng Phụng Nhi tự là Thuận trưng viết
 
-tựa Núi năm nhạc quan trương Kim giảng
-
-tên là căng Phụng Nhi tự là Thuận trưng
-
-viết
-
-từ năm Giáp Dần tôi từ trường Châu về
-
-tạm dừng chân ở Gia Hòa gặp hai vị tăng
-
-là cấu Đạt khoáng và mật tạng từ xưa Vốn
-
-đã hợp ý nhau rằng ngày ngày đảm đạo cái
+từ năm Giáp Dần tôi từ trường Châu về tạm dừng chân ở Gia Hòa gặp hai vị tăng là cấu Đạt khoáng và mật tạng từ xưa Vốn đã hợp ý nhau rằng ngày ngày đảm đạo cái
 
 vui thiền định mà ít lại ngao du cạnh
 
@@ -187,7 +139,7 @@ gọi đến hỏi hay bị tăng lời này phát
 
 xuất từ kênh nào cả hai điều nói giống
 
-lời Kinh Lăng và
+lời Kinh Lăng già
 
 tôi liền lấy kinh lăng-già lục sen mà
 
@@ -501,61 +453,30 @@ làng Chiếu sôi cho con cháu kể đến xin
 
 đem nhận lời chỉ dạy này lô chuyện khắp
 
-muôn Phương cốt để người người gắn chí
+muôn Phương cốt để người người gắn chí nôi theo bậc Tài Đức
 
-nôi theo bậc Tài Đức
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
 
-Bộ Kinh Lăng giả a bạc Đà La Bảo tông
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
 
-thông đời Tống Tam tạm đại sư cầu na bạc
+Bộ Kinh Lăng giả a bạc Đà La Bảo tông thông đời Tống Tam tạm đại sư cầu na bạc Đà La người nước Thiên Trúc dịch lần thứ nhất đời Nguyên hụi Tam Tạng Pháp Sư Bồ
 
-Đà La người nước Thiên Trúc dịch lần thứ
+Đề Lưu Chi người Bắc Thiên Trúc dịch lần thứ hai đời Đường Tam Tạng pháp sư thật xa mang và nước vô điện dịch lòng thứ ba đời Minh Đệ Tự Bồ Tát giới tiền phục
 
-nhất đời Nguyên hụi Tam Tạng Pháp Sư Bồ
+huấn đại vương lệ bộ từ ghế tâm sự tư viên ngoại Lang Tăng Phụng Nghi Tông Thông
 
-Đề Lưu Chi người Bắc Thiên Trúc dịch lần
+Ông cho rằng kinh này người Ấn Độ lấy hoa chữ lăng dạ để đặt tên núi Lân 
+và được gọi là báu vật bậc nhất vì có 8 mặt tạo thành quần thể chọn trẻ kiên cố 
+các thứ báu thế gian không thể sánh nối này ở trong biển lớn 
+toàn thể các mặt thường phát ra ánh sáng vì thế gọi là núi báo vô thưởng 
+trên đỉnh có thành lớn là nơi cư trú của phi hành dạ xoa vào những khi Tối trời hoặc do mây mù giăng phụ 
+Hoặc do sóng cuộn trào hôn hạn thì hình thể núi càng lộ ra rực rỡ
 
-thứ hai đời Đường Tam Tạng pháp sư thật
-
-xa mang và nước vô điện dịch lòng thứ ba
-
-đời Minh Đệ Tự Bồ Tát giới tiền phục
-
-huấn đại vương lệ bộ từ ghế tâm sự tư
-
-viên ngoại Lang Tăng Phụng Nghi Tân
-
-Thông
-
-Ông cho rằng kinh này người Ấn Độ lấy
-
-hoa chữ lăng dạ để đặt tên núi Lân và
-
-được gọi là báu vật bậc nhất vì có 8 mặt
-
-tạo thành quần thể chọn trẻ kiên cố các
-
-thứ báu thế gian không thể sánh nối này
-
-ở trong biển lớn toàn thể các mặt thường
-
-phát ra ánh sáng vì thế gọi là núi báo
-
-vô thưởng trên đỉnh có thành lớn là nơi
-
-cư trú của phi hành dạ xoa vào những khi
-
-Tối trời hoặc do mây mù giăng phụ Hoặc
-
-do sóng cuộn trào hôn hạn thì hình thể
-
-núi càng lộ ra rực rỡ
-
-Chỉ cần lúc sóng yên gió lặng trời Quang
-
-mây tạnh thì biển lặng trong sâu thẳm
-
-đồng một màu với núi nối hiện tuyệt như
+Chỉ cần lúc sóng yên gió lặng trời Quang mây tạnh thì biển lặng trong sâu thẳm đồng một màu với núi nối hiện tuyệt như
 
 vậy nên không thể thấy được đức phật ở
 
@@ -567,59 +488,20 @@ Nghiêm có nói Đức Thế Tôn thuyết pháp
 
 trong thành lăn dài tại đỉnh núi
 
-Malaysia ở biển Nam Hải núi này cao năm
+Malaysia ở biển Nam Hải núi này cao 500 do-tuần nhìn xuống là điểm lớn không có đường lên thành Lan và do vô số các loại ngọc báo làm thành ngày đêm phát ra ánh sáng rực rỡ hát cả ánh sáng mặt trời mặt trăng không cửa để vào em chỉ người chứng được thần thông Vertu
 
-trăm do-tuần nhìn xuống là điểm lớn
+Ngô trứng mới có thể lên được để tiêu biểu Pháp môn tâm địa bệnh 
 
-không có đường lên thành Lan và do vô số
+Xưa kia sư, Động Sơn cùng bật sư bá dạo núi thấy có lá rau trôi theo Dòng Suối chảy Động Sơn nói núi sau không có người sau có rau trôi theo dòng nước hay là nơi đây có đạo nhân 
+Họ cùng nhau phát cỏ men theo suối được Khoảng vài cây số chợt thấy một vị sư hình dáng khô gầy giống màu khác thường từ núi đi xuống bàn để hành lý xuống hỏi thăm vì ấy hỏi nói đây không đường các vị từ đâu đến
 
-các loại ngọc báo làm thành ngày đêm
-
-phát ra ánh sáng rực rỡ hát cả ánh sáng
-
-mặt trời mặt trăng không cửa để vào
-
-em chỉ người chứng được thần thông Vertu
-
-Ngô trứng mới có thể lên được để tiêu
-
-biểu Pháp môn tâm địa bệnh
-
-chưa kìa sư động Sơn cùng bật sư bá dạo
-
-núi thấy có lá rau Trôi Theo Dòng Suối
-
-Chảy động Sơn nói núi sau không có người
-
-sau có rau trôi theo dòng nước hay là
-
-nơi đây có đạo nhân Họ cùng nhau phát cỏ
-
-men theo suối được Khoảng vài cây số
-
-chợt thấy một vị sư hình dáng khô gầy
-
-giống màu khác thường từ núi đi xuống
-
-bàn để hành lý xuống hỏi thăm vì ấy hỏi
-
-nói đây không đường các vị từ đâu đến
-
-độc Sơn nói không đường hãy để đó hòa
-
-thượng tự đóng vào sư đó ta nhận Ừ mai
-
-nước đến động sớm hỏi hòa thượng trụ nối
-
-này bao lâu rồi sư đáp tung Thu giận
-
-tương cam động Sơn hỏi hòa thượng trụ
+Động Sơn nói không đường hãy để đó hòa thượng tự đóng vào sư đó ta nhận Ừ mai nước đến động sớm hỏi hòa thượng trụ nối này bao lâu rồi sư đáp tung Thu giận tương cam Động Sơn hỏi hòa thượng trụ
 
 trước hay núi có trước sư đáp dẫn biết
 
-động Sơn nói sao nhận biết sư đáp Ta sẽ
+Động Sơn nói sao nhận biết sư đáp Ta sẽ
 
-dẫn từ người trời đến động Sơn hỏi hòa
+dẫn từ người trời đến Động Sơn hỏi hòa
 
 thượng được đạo lý gì mà khéo trụ núi
 
@@ -627,51 +509,32 @@ này sư đó ta thấy hai con trâu đất húc
 
 nhau nhảy thẳng bão biển từ đó đến nay
 
-không tin tức có gì vậy động Sơn mới đầy
+không tin tức có gì vậy Động Sơn mới đầy
 
 đủ oai nghi lễ bái lại hỏi như sau là
 
 chủ trong khách sự Đáp núi xanh gia mây
 
-trắng động Sơn nói như sau là khách
+trắng Động Sơn nói như sau là khách
 
 trong chủ sự nói suốt năm chẳng ra cửa
 
-động Sơn như sau là khách chủ chung bước
+Động Sơn như sau là khách chủ chung bước
 
 sự nói sống nước trên sông Trường Giang
 
-động Sơn hội chủ khách thấy nhau có lợi
+Động Sơn hội chủ khách thấy nhau có lợi
 
 gì để nói sự nói gió mát giỡn trăng sáng
 
-động Sơn Tinh cáo việc ra về sư nói kệ
+Động Sơn Tinh cáo việc ra về sư nói kệ:
 
-ba gian nhà cỏ từ đó lại một đạo thần
+ba gian nhà cỏ từ đó lại một đạo thần quanh muôn cảnh nhà ạ cơ chế lấy đúng sai mà phán xét lắm lời rối rắm chặn liên quan nhằm chán đốt An Lương cạnh tịch ẩn chốn thâm sơn mặt dấu hình nhưng đó người đời đặt tên gọi ở Sơn Hòa thượng chính là ta.
 
-quanh muôn cảnh nhà ạ cơ chế lấy đúng
+Có một hôm tổ Động Sơn hội Vân cư Chốn Thâm ưu nào đến Sư Đạt Đạt nối đến tổ hỏi:
+núi nào trụ được vậy sư đáp núi nào không trụ được tổ hỏi như thế thì núi trong cả nước đều bị phàn lê liếm hết 
 
-sai mà phán xét lắm lời rối rắm chặn
-
-liên quan nhằm chán đốt An Lương cạnh
-
-tịch ẩn chốn thâm sơn mặt dấu hình nhưng
-
-đó người đời đặt tên gọi ở Sơn Hòa
-
-thượng chính là ta
-
-Có một hôm tổ động Sơn hội Vân cư Chốn
-
-Thâm ưu nào đến Sư Đạt Đạt nối đến tổ
-
-hỏi núi nào trụ được vậy sư đáp núi nào
-
-không trụ được tổ hỏi như thế thì núi
-
-trong cả nước đều bị phàn lê liếm hết sự
-
-nói không phải thế tổ hỏi Nếu thế thì
+Sư nói không phải thế tổ hỏi Nếu thế thì
 
 ông Đạo vào đường rồi sư đã không được
 
@@ -685,17 +548,13 @@ tổ tiên nói cái gã này về sao ngàn người
 
 môn người không nắm được Thế mới biết
 
-núi báo liền bên vẫn cần rời bước hà tất
+núi báo liền bên vẫn cần rời bước hà tất phải đến lăng già 
 
-phải đến lăng già
+<hr class="blog-rule" />
 
-bộ kinh lăng dạ a bạc Đà La Bảo tông
+bộ kinh lăng dạ a bạc Đà La Bảo tông thông quyển 1
 
-thông quyển 1
-
-a kinh tôi nghe như vậy một thời Đức
-
-Phật ở trong thành lăng giả tại đỉnh núi
+a kinh tôi nghe như vậy một thời Đức Phật ở trong thành lăng giả tại đỉnh núi
 
 Tân Malaysia trên bờ biển lớn cùng chú
 
@@ -8683,7 +8542,7 @@ trăng mà bóng in trên ngàn dòng sông nên
 
 không thể nhất định Chắc là có
 
-ở Top Việt Tân Hội thiền sư động Sơn Đạo
+ở Top Việt Tân Hội thiền sư Động Sơn Đạo
 
 Toàn Đức Phật giáng sinh trong cung vua
 
@@ -8963,7 +8822,7 @@ thật khó vậy
 
 anh sữa cốc nguyệt tăng giảm An đầu gặp
 
-tổ động Sơn sư đến tăng nói sao hòa
+tổ Động Sơn sư đến tăng nói sao hòa
 
 thượng chẳng cứu lấy con cái nhà người
 

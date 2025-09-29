@@ -4,8 +4,10 @@ description: ""
 excerpt: ""
 categories: ["Kinh"]
 image: /images/backgrounds/trang-lang-gia.webp
-tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
-pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
+tags: 
+  - Kinh Thủ Lăng Già
+  - HT Thích Duy Lực
+pdfUrl: /pdfs/sutras/kinh-lang-gia.pdf
 videoId: vwOi8UCTCp0
 videoStart: 10054
 ---

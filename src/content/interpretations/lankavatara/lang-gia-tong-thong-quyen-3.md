@@ -8150,7 +8150,7 @@ lìa cảnh chẳng dung chứa sự khởi tưởng
 
 vậy
 
-khi động Sơn từ giả tổ Vân Nham hỏi
+khi Động Sơn từ giả tổ Vân Nham hỏi
 
 trong năm sau giờ có người hỏi thầy được
 
@@ -8158,7 +8158,7 @@ cái chân thật ấy không làm sao đối đáp
 
 ngày Nham im lặng hồi lâu rồi Nói chỉ
 
-thấy động Sơn trầm ngâm ngày nha mối với
+thấy Động Sơn trầm ngâm ngày nha mối với
 
 xà Lê thừa đương cái miệng ấy cần thẩm
 
@@ -8178,7 +8178,7 @@ Y cần phải hỏi như vậy mới kế hợp như
 
 như
 
-động Sơn nhân thấy bóng liền khế hợp
+Động Sơn nhân thấy bóng liền khế hợp
 
 chân ngã ngoài đời lại chấp bóng cho làn
 
@@ -10486,7 +10486,7 @@ Trượng dẫn bằng hàng được một thước nói
 
 tấc
 
-động Sơn nói nói đến mà hành chẳng đến
+Động Sơn nói nói đến mà hành chẳng đến
 
 hàng đến mạng đói chẳng đến chị Vân cư
 

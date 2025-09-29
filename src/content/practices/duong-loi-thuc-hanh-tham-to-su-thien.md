@@ -10,8 +10,8 @@ tags:
   - THAM THIỀN
   - TS THÍCH DUY LỰC
 author: "TS THÍCH DUY LỰC"
-image: "/images/koans/great-wave.webp"
-pdfUrl: "/pdfs/practices/duong-loi-thuc-hanh-tham-to-su-thien.pdf"
+image: /images/koans/great-wave.webp
+pdfUrl: /pdfs/practices/duong-loi-thuc-hanh-tham-to-su-thien.pdf
 videoId: "Qw_1WB9AQ70"
 ---
 

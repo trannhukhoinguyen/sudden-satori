@@ -5,6 +5,12 @@
   --color-light-gray: #f5f5f5;
   --color-silver: silver;
   --color-silver-dark: darkgray;
+  --color-accent-lightgray: lightgray;
+  --color-accent-lightgrey: lightgrey;
+  --color-accent-lightslategray: lightslategray;
+  --color-accent-lightslategrey: lightslategrey;
+  --color-accent-slategray: slategray;
+  --color-accent-slategrey: slategrey;
   --color-medium-gray: #888888;
   --color-gray: gray; /* grey */
   --color-dimgray: dimgray;
@@ -25,10 +31,12 @@
   --color-accent-green-indianredn: indianred;
 
   --color-accent-lightpink: lightpink;
-  --color-accent-deeppink: deeppink;
   --color-accent-pink: pink;
-  --color-accent-plum: plum;
+  --color-accent-lightcoral: lightcoral;
+  --color-accent-palevioletred: palevioletred;
   --color-accent-hotpink: hotpink;
+  --color-accent-mediumvioletred: mediumvioletred;
+  --color-accent-deeppink: deeppink;
 
   --color-accent-linen: linen;
   --color-accent-khaki: khaki;
@@ -39,16 +47,18 @@
   --color-accent-honeydew: honeydew;
   --color-accent-lightyellow: lightyellow;
   --color-accent-wheat: wheat;
+  --color-accent-lightgoldenrodyellow: lightgoldenrodyellow;
+  --color-accent-palegoldenrod: palegoldenrod;
   --color-accent-yellow: yellow;
   --color-accent-gold: gold;
-  --color-accent-gold-dark: #c4a604;
   --color-accent-goldenrod: goldenrod;
   --color-accent-darkgoldenrod: darkgoldenrod;
   --color-accent-darkorange: darkorange;
   --color-accent-orange: orange;
-  --color-accent-orangered: orangered;
   --color-accent-coral: coral;
   --color-accent-darksalmon: darksalmon;
+  --color-accent-orangered: orangered;
+  --color-accent-tomato: tomato;
 
   --color-accent-gainsboro: gainsboro;
   --color-accent-floralwhite: floralwhite;
@@ -58,18 +68,36 @@
   --color-accent-antiquewhite: antiquewhite;
   --color-accent-blanchedalmond: blanchedalmond;
   --color-accent-bisque: bisque;
+
+  --color-accent-seashell: seashell;
+  --color-accent-snow: snow;
+  --color-accent-ghostwhite: ghostwhite;
+  --color-accent-oldlace: oldlace;
+  --color-accent-lemonchiffon: lemonchiffon;
+  --color-accent-papayawhip: papayawhip;
+  --color-accent-moccasin: moccasin;
+  --color-accent-navajowhite: navajowhite;
+  --color-accent-peachpuff: peachpuff;
+
   --color-accent-tan: tan;
+  --color-accent-rosybrown: rosybrown;
   --color-accent-burlywood: burlywood;
-  --color-accent-brown-light: #faaa70;
+  --color-accent-sandybrown: sandybrown;
+  --color-accent-lightsalmon: lightsalmon;
   --color-accent-salmon: salmon;
   --color-accent-peru: peru;
+  --color-accent-indianred: indianred;
   --color-accent-chocolate: chocolate;
+  --color-accent-sienna: sienna;
   --color-accent-saddlebrown: saddlebrown;
   --color-accent-brown: brown;
   --color-accent-firebrick: firebrick;
   --color-accent-maroon: maroon;
 
   --color-accent-lavender: lavender;
+  --color-accent-lavenderblush: lavenderblush;
+  --color-accent-thistle: thistle;
+  --color-accent-plum: plum;
   --color-accent-violet: violet;
   --color-accent-blueviolet: blueviolet;
   --color-accent-fuchsia: fuchsia; /* magenta */
@@ -78,11 +106,19 @@
   --color-accent-darkorchid: darkorchid;
   --color-accent-indigo: indigo;
   --color-accent-orchid: orchid;
-  --color-accent-darkslateblue: darkslateblue;
   --color-accent-darkviolet: darkviolet;
   --color-accent-rebeccapurple: rebeccapurple;
+  --color-accent-mediumorchid: mediumorchid;
+  --color-accent-mediumpurple: mediumpurple;
+  --color-accent-slateblue: slateblue;
+  --color-accent-mediumslateblue: mediumslateblue;
+  --color-accent-darkslateblue: darkslateblue;
 
   --color-accent-greenyellow: greenyellow;
+  --color-accent-yellowgreen: yellowgreen;
+  --color-accent-palegreen: palegreen;
+  --color-accent-lightgreen: lightgreen;
+  --color-accent-springgreen: springgreen;
   --color-accent-lawngreen: lawngreen;
   --color-accent-forestgreen: forestgreen;
   --color-accent-darkseagreen: darkseagreen;
@@ -92,11 +128,20 @@
   --color-accent-green: #02b802;
   --color-accent-green-dark: green;
   --color-accent-green-darkgreen: darkgreen;
+  --color-accent-olivedrab: olivedrab;
+
+  --color-accent-mediumspringgreen: mediumspringgreen;
+  --color-accent-mediumaquamarine: mediumaquamarine;
+  --color-accent-mediumseagreen: mediumseagreen;
+  --color-accent-seagreen: seagreen;
 
   --color-accent-aquamarine: aquamarine;
+  --color-accent-lightseagreen: lightseagreen;
   --color-accent-aqua: aqua; /* cyan */
   --color-accent-darkturquoise: darkturquoise;
   --color-accent-cadetblue: cadetblue;
+  --color-accent-mediumturquoise: mediumturquoise;
+  --color-accent-turquoise: turquoise;
   --color-accent-darkcyan: darkcyan;
   --color-accent-teal: teal;
   --color-silver-darkslategray: darkslategray;
@@ -104,75 +149,23 @@
   --color-accent-mintcream: mintcream;
   --color-accent-azure: azure;
   --color-accent-aliceblue: aliceblue;
-  --color-accent-cornflowerblue: cornflowerblue;
+  --color-accent-lightcyan: lightcyan;
+  --color-accent-lightblue: lightblue;
+  --color-accent-lightsteelblue: lightsteelblue;
+  --color-accent-paleturquoise: paleturquoise;
+  --color-accent-powderblue: powderblue;
+  --color-accent-skyblue: skyblue;
   --color-accent-deepskyblue: deepskyblue;
+  --color-accent-lightskyblue: lightskyblue;
+  --color-accent-cornflowerblue: cornflowerblue;
+  --color-accent-steelblue: steelblue;
+  --color-accent-royalblue: royalblue;
   --color-accent-dodgerblue: dodgerblue;
   --color-accent-blue: blue;
-  --color-accent-midnightblue: midnightblue;
+  --color-accent-mediumblue: mediumblue;
   --color-accent-navy: navy;
   --color-accent-darkblue: darkblue;
-  --color-accent-powderblue: powderblue;
-  --color-accent-royalblue: royalblue;
-  --color-accent-moccasin: moccasin;
-  --color-accent-moccasin: moccasin;
-  --color-accent-navajowhite: navajowhite;
-  --color-accent-oldlace: oldlace;
-  --color-accent-olivedrab: olivedrab;
-  --color-accent-sandybrown: sandybrown;
-  --color-accent-rosybrown: rosybrown;
-  /*
-ghostwhite	#f8f8ff
-indianred	#cd5c5c
-lavenderblush	#fff0f5
-lemonchiffon	#fffacd
-lightblue	#add8e6
-lightcoral	#f08080
-lightcyan	#e0ffff
-lightgoldenrodyellow	#fafad2
-lightgray	#d3d3d3
-lightgreen	#90ee90
-lightgrey	#d3d3d3
-lightsalmon	#ffa07a
-lightseagreen	#20b2aa
-lightskyblue	#87cefa
-lightslategray	#778899
-lightslategrey	#778899
-lightsteelblue	#b0c4de
-lightyellow	#ffffe0
-mediumaquamarine	#66cdaa
-mediumblue	#0000cd
-mediumorchid	#ba55d3
-mediumpurple	#9370db
-mediumseagreen	#3cb371
-mediumslateblue	#7b68ee
-mediumspringgreen	#00fa9a
-mediumturquoise	#48d1cc
-mediumvioletred	#c71585
-midnightblue	#191970
-orchid	#da70d6
-palegoldenrod	#eee8aa
-palegreen	#98fb98
-paleturquoise	#afeeee
-palevioletred	#db7093
-papayawhip	#ffefd5
-peachpuff	#ffdab9
-rosybrown	#bc8f8f
-sandybrown	#f4a460
-seagreen	#2e8b57
-seashell	#fff5ee
-sienna	#a0522d
-skyblue	#87ceeb
-slateblue	#6a5acd
-slategray	#708090
-slategrey	#708090
-snow	#fffafa
-springgreen	#00ff7f
-steelblue	#4682b4
-thistle	#d8bfd8
-tomato	#ff6347
-turquoise	#40e0d0
-yellowgreen	#9acd32
-  */
+  --color-accent-midnightblue: midnightblue;
 
   --color-accent-theme: #c4a604;
   --color-accent: #c4a604;
@@ -180,8 +173,8 @@ yellowgreen	#9acd32
   /* Semantic Colors */
   --color-background: var(--color-white);
   --color-background-overlay: var(--color-black);
-  --color-background-pagination: var(--color-accent-gold-dark);
-  --color-background-toc: var(--color-accent-gold-dark);
+  --color-background-pagination: var(--color-accent-goldenrod);
+  --color-background-toc: var(--color-accent-goldenrod);
   --color-background-footer: var(--color-white);
   --color-surface: var(--color-light-gray);
   --color-text-primary: var(--color-black);
@@ -475,7 +468,7 @@ hr {
 
 .post-rule {
   height: 4px;
-  background-color: var(--color-accent-gold-dark);
+  background-color: var(--color-accent-goldenrod);
   border: none;
   width: 120px;
   margin: 0 auto;

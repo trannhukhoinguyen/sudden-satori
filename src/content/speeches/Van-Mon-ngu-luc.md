@@ -2,9 +2,11 @@
 title: "VÂN MÔN NGỮ LỤC"
 description: ""
 excerpt: "...."
-categories: ["Ngữ Lục"]
-tags: ["TS VÂN MÔN VĂN YỂN"]
-pdfUrl: "/pdfs/speeches/Van-Mon-ngu-luc.pdf"
+categories: 
+  - Ngữ Lục
+tags: 
+  - TS VÂN MÔN VĂN YỂN
+pdfUrl: /pdfs/speeches/Van-Mon-ngu-luc.pdf
 ---
 
 #### 0.

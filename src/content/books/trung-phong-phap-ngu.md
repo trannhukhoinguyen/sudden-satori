@@ -10,6 +10,6 @@ tags:
   - TS TRUNG PHONG MINH BỔN
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/trung-phong-phap-ngu.pdf
-videoId: "https://www.youtube.com/watch?v=plJmknVMv3c"
+videoId: plJmknVMv3c
 ---
 

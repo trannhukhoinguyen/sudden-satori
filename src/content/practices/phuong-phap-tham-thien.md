@@ -10,9 +10,9 @@ tags:
   - THAM THIỀN
   - HT HƯ VÂN
 author: "HT HƯ VÂN"
-image: "/images/koans/great-wave.webp"
-pdfUrl: "/pdfs/practices/phuong-phap-tham-thien.pdf"
-videoId: "yJRqjjX2WIQ"
+image: /images/koans/great-wave.webp
+pdfUrl: /pdfs/practices/phuong-phap-tham-thien.pdf
+videoId: yJRqjjX2WIQ
 ---
 
 <hr class="blog-rule" />

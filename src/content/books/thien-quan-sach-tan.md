@@ -11,7 +11,7 @@ tags:
 authors: 
   - Vân Thê Châu Hoằng
 image: /images/koans/great-wave.webp
-pdfUrl: "/pdfs/books/thien-quan-sach-tan.pdf"
+pdfUrl: /pdfs/books/thien-quan-sach-tan.pdf
 ---
 
 ## TỰA
@@ -109,23 +109,23 @@ Dọc đường quá nhọc nhằn nên công phu thối thất. Đến Thừa T
 
 Ngày mùng 6 tháng 3, tôi trong khi tọa thiền đề khởi chữ KHÔNG, bỗng ngài Thủ tọa vào thiền đường thắp hương, đụng hộp nhang khua lên tiếng, hốt nhiên như dưới đất động một tiếng, chợt ngộ được chính mình, thấu đạt được ý ngài Triệu Châu. Liền đắc ý một bài tụng:
 
-Chớ bảo cuối đường cùng,
-
-Dẫm ngược sóng là nước.
-
-Lão Triệu Châu siêu quần,
-
-Diện mục chỉ như thế.
+> Chớ bảo cuối đường cùng,
+>
+> Dẫm ngược sóng là nước.
+>
+> Lão Triệu Châu siêu quần,
+>
+> Diện mục chỉ như thế.
 
 Nguyên văn:
 
-Một hưng lộ đầu cùng
-
-Đạp phiên ba thị thủy
-
-Triệu Châu lão siêu quần
-
-Diện mục chỉ như thị.
+> Một hưng lộ đầu cùng
+>
+> Đạp phiên ba thị thủy
+>
+> Triệu Châu lão siêu quần
+>
+> Diện mục chỉ như thị.
 
 Khoảng mùa thu đến yết kiến các vị Đại lão: An Kiến, Tuyết Nham, Thối Tỉnh, Thạch Khanh, Hư Chu. Hư Chu khuyên trở về Hoàng Sơn. Tôi y lời trở về Hoàng Sơn.
 
@@ -371,23 +371,27 @@ Hoặc một bọn lóng lòng kềm niệm, nhiếp sự về không, niệm t�
 
 ### 33. Sở Sơn Kỳ Thiền sư giải chế
 
-Chư Đại đức! Trong 90 ngày qua đã được chứng ngộ hay chưa? Nếu như chưa ngộ thì thêm một mùa Đông sẽ được tan biến ấy vậy. Nếu là người đống lương Phật pháp, lấy mười phương pháp giới làm hạn kỳ hoàn toàn giác ngộ. Một trăm ngày, một ngàn ngày, kiết chế, giải chế chỉ lấy đề cử thoại đầu làm gốc. Nếu một năm chưa ngộ tham thêm một năm, mười năm chưa ngộ tham thêm mười năm; hai chục năm chưa ngộ tham thêm hai chục năm, trọn đời chưa ngộ, quyết định không đổi chí; cần phải thấy được chỗ chơn thật cứu kính mới là ngày nghỉ tham.
+Chư Đại đức! Trong 90 ngày qua đã được chứng ngộ hay chưa? Nếu như chưa ngộ thì thêm một mùa Đông sẽ được tan biến ấy vậy. 
+Nếu là người đống lương Phật pháp, lấy mười phương pháp giới làm hạn kỳ hoàn toàn giác ngộ. Một trăm ngày, một ngàn ngày, kiết chế, giải chế chỉ lấy đề cử thoại đầu làm gốc. Nếu một năm chưa ngộ tham thêm một năm, mười năm chưa ngộ tham thêm mười năm; hai chục năm chưa ngộ tham thêm hai chục năm, trọn đời chưa ngộ, quyết định không đổi chí; cần phải thấy được chỗ chơn thật cứu kính mới là ngày nghỉ tham.
 
 Nếu như không thể trên lời nói thấu đạt ý chỉ, nên đem một câu A Di Đà Phật ôm ấp trong lòng thầm thầm thể cứu, thường thường đề khởi nghi tình "niệm Phật là ai?" Mỗi niệm tiếp nối, tâm tâm không gián đoạn, như người đi đường đến chỗ cùng nguồn, tột núi, tự nhiên có cái việc chuyển thân, động đất một tiếng liền khế nhập tâm thể.
 
 ### 34. Độc Phong Thiện Thiền sư dạy Chúng
 
-Nếu thật muốn liễu thoát sanh tử, trước phải phát tín tâm to, lập thệ nguyện lớn. Nguyện: "Nếu không phá vỡ công án đang tham, thấy suốt mặt thật trước khi cha mẹ chưa sanh, ngồi đoạn sanh tử hiện hành vi tế, thệ không bỏ thoại đầu đang tham, không xa lìa chơn thiện tri thức và không tham mê danh lợi; nếu cố trái nguyện này, sẽ đọa ác đạo". Phát đại nguyện này rồi, để phòng ngừa tâm, nhiên hậu mới kham lãnh thọ công án.
+Nếu thật muốn liễu thoát sanh tử, trước phải phát tín tâm to, lập thệ nguyện lớn. 
+Nguyện: "Nếu không phá vỡ công án đang tham, thấy suốt mặt thật trước khi cha mẹ chưa sanh, ngồi đoạn sanh tử hiện hành vi tế, thệ không bỏ thoại đầu đang tham, không xa lìa chơn thiện tri thức và không tham mê danh lợi; nếu cố trái nguyện này, sẽ đọa ác đạo". Phát đại nguyện này rồi, để phòng ngừa tâm, nhiên hậu mới kham lãnh thọ công án.
 
 Hoặc khán chữ KHÔNG, cần yếu vận dụng tâm lực để tại "con chó không có Phật tánh". Hoặc khán muôn pháp về một, cần yếu tại "một về chỗ nào?" Hoặc tham cứu niệm Phật cần yếu tại "niệm Phật là ai?" Xoay lại phản chiếu cho thâm nhập nghi tình. Nếu thoại đầu không đắc lực, trở lại đề trọn câu khiến đầu đuôi nhất quán, mới dễ khởi nghi. Nghi tình không dứt, khẩn thiết dụng tâm, bất giác bước đi ngã nhào, liền nhảy vọt tận hư không xa thẳm. Trở lại tham đi!
 
 ### 35. Không Cốc Long Thiền sư dạy Chúng
 
-Không nên dại khờ niệm thoại đầu, cũng chớ suy xét thoại đầu, chỉ nên hoài nghi mong thấu rõ việc này. Bỗng nhiên buông tay đi trên dốc đứng, một phen chuyển thân liền thấy chót vót rực rỡ. Đến đây không nên đắm trước, còn một chùy rốt sau thật là khó vượt. Ông hãy như thế tham đi!
+Không nên dại khờ niệm thoại đầu, cũng chớ suy xét thoại đầu, chỉ nên hoài nghi mong thấu rõ việc này. 
+Bỗng nhiên buông tay đi trên dốc đứng, một phen chuyển thân liền thấy chót vót rực rỡ. Đến đây không nên đắm trước, còn một chùy rốt sau thật là khó vượt. Ông hãy như thế tham đi!
 
 Không tham mà tự ngộ, thượng cổ còn có thể có, hiện nay chưa có ai không nỗ lực tham mà được ngộ.
 
-Ưu Đàm Hòa thượng dạy tham "niệm Phật là ai?" Ông nay không cần dùng những pháp này, chỉ cốt bình thường niệm Phật. Niệm mãi không quên, bỗng nhiên chạm duyên, xúc cảnh chỉ do một câu thấu đạt, mới biết Tịch quang Tịnh độ không rời chỗ này, Phật A Di Đà không rời tự tâm.
+Ưu Đàm Hòa thượng dạy tham "niệm Phật là ai?" Ông nay không cần dùng những pháp này, chỉ cốt bình thường niệm Phật. 
+Niệm mãi không quên, bỗng nhiên chạm duyên, xúc cảnh chỉ do một câu thấu đạt, mới biết Tịch quang Tịnh độ không rời chỗ này, Phật A Di Đà không rời tự tâm.
 
 ### 36. Thiên kỳ Hòa thượng dạy Chúng
 

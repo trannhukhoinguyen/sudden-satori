@@ -2,9 +2,11 @@
 title: "TRIỆU CHÂU NGỮ LỤC"
 description: ""
 excerpt: "...."
-categories: ["Ngữ Lục"]
-tags: ["TS TRIỆU CHÂU TÙNG THẨM"]
-pdfUrl: "/pdfs/speeches/Trieu-Chau-ngu-luc.pdf"
+categories: 
+  - Ngữ Lục
+tags: 
+  - TS TRIỆU CHÂU TÙNG THẨM
+pdfUrl: /pdfs/speeches/trieu-chau-ngu-luc.pdf
 ---
 
 #### 0.

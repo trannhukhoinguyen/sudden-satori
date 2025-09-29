@@ -8,7 +8,7 @@ categories:
 tags:
   - Độc Cư
 author: "JANE DOBISZ"
-pdfUrl: "/pdfs/practices/100-ngay-doc-cu.pdf"
+pdfUrl: /pdfs/practices/100-ngay-doc-cu.pdf
 ---
 
 ## GIỚI THIỆU ĐÔI NÉT VỀ TÁC GIẢ

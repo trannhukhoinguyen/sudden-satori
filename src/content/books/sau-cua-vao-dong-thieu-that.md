@@ -19,7 +19,8 @@ image: /images/koans/great-wave.webp
 
 (Thay lời tựa)
 
-SÁU CỬA VÀO ĐỘNG THIẾU THẤT là tên dịch một tác phẩm lớn của thiền Trung Hoa, gọi là Thiếu Thất Lục Môn. Lục môn là sáu cửa, sáu pháp môn - Sáu cửa vào đạo pháp vậy. 
+SÁU CỬA VÀO ĐỘNG THIẾU THẤT là tên dịch một tác phẩm lớn của thiền Trung Hoa, gọi là Thiếu Thất Lục Môn. 
+Lục môn là sáu cửa, sáu pháp môn - Sáu cửa vào đạo pháp vậy. 
 
 Đạo đây là đạo Phật thiền. Trong các ngành Phật giáo, 
 
@@ -37,7 +38,12 @@ Thiền đương nhiên bao dung tất cả trong một sức chứa vô lượn
 
 Nên Thiền, tức là Đại Đồng. Và tối thượng thừa tức là vô thừa. 
 
-Kinh nói: "Lấy vô thừa làm Phật thừa" là nhằm hiển thị cái lý đại đồng ấy vậy.
+<fieldset>
+<legend><h4>⚡️ KINH nói</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+"Lấy vô thừa làm Phật thừa" là nhằm hiển thị cái lý đại đồng ấy vậy.
+</div>
+</fieldset>
 
 * * *
 
@@ -51,60 +57,126 @@ Muốn được đã ngứa, phải gãi thẳng vào da trần. Muốn thấy s
 
 Thiền Linh Sơn của đức Phật gọi thế là biệt truyền - truyền riêng. 
 
-Thiền Thiếu Lâm của Đạt Ma gọi thế là trực chỉ - trỏ thẳng. Và cửa vào đạo hóa ra cửa - không - cửa. Và pháp môn thiền hóa ra pháp - không - pháp. 
+Thiền Thiếu Lâm của Đạt Ma gọi thế là trực chỉ - trỏ thẳng. Và cửa vào đạo hóa ra cửa - không - cửa. 
+Và pháp môn thiền hóa ra pháp - không - pháp. 
 
 Chính cái pháp không pháp ấy, đức Phật đã mật truyền cho tôn giả Ca Diếp trong bài kệ phó chúc:
 
-Pháp bổn pháp vô pháp,
-Vô pháp, pháp diệt pháp.
-Kim phó vô pháp thời,
-Pháp pháp hà tằng pháp.
+> Pháp bổn pháp vô pháp
+> 
+> Vô pháp, pháp diệt pháp
+> 
+> Kim phó vô pháp thời
+> 
+> Pháp pháp hà tằng pháp
 
 * * *
 
 Vậy thực chất của sáu cửa là gì? Đó là:
-- Tâm kinh tụng: tụng về bộ Bát nhã Tâm kinh.
-- Phá tướng luận: luận về phép phá tướng.
-- Nhị chủng nhập: hai đường vào đạo.
-- An tâm pháp môn: phép an tâm.
-- Ngộ tánh luận: luận về phép thấy tánh thành Phật
-- Huyết mạch luận: luận về mạch máu của đạo Phật.
 
-Cửa thứ nhất mở vào tâm - mạch sống của đạo Thiền. Quả đúng như lời người xưa nói: "Thiền là tên gọi của tâm, tâm là bổn thể của Thiền". 
+1️⃣- **Tâm kinh tụng**: tụng về bộ Bát nhã Tâm kinh
+
+2️⃣- **Phá tướng luận**: luận về phép phá tướng
+
+3️⃣- **Nhị chủng nhập**: hai đường vào đạo
+
+4️⃣- **An tâm pháp môn**: phép an tâm
+
+5️⃣- **Ngộ tánh luận**: luận về phép thấy tánh thành Phật
+
+6️⃣- **Huyết mạch luận**: luận về mạch máu của đạo Phật
+
+<fieldset>
+<legend><h4>Cửa thứ 1</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+Cửa thứ 1 mở vào tâm - mạch sống của đạo Thiền. 
+Quả đúng như lời người xưa nói: "Thiền là tên gọi của tâm, tâm là bổn thể của Thiền".
 
 Tâm đây là tâm của tông Bát nhã. Tông Bát nhã là "không tông", tông phái của cái "không". 
 
-Cái không Bát nhã siêu việt và viên dung cả "hữu" và "vô", của trí thức suy luận để hiện thực ở trung đạo không nghĩ bàn được. 
+Cái không Bát nhã siêu việt và viên dung cả "hữu" và "vô", của trí thức suy luận để hiện thực ở trung đạo không nghĩ bàn được.
 
 Đó là cảnh giới tuyệt đối, không mảy tướng mạo, nên để vào đó, hành giả đừng mong bám víu vào bất cứ gì, dù là một ý thoáng:
 
 Tịch diệt thể vô đắc
-Chân không tuyệt thủ phan.
+Chân không tuyệt thủ phan
+
 (Thể Niết bàn không chứng đắc
 Chân không chặt đứt tay leo)
+</div>
+</fieldset>
 
-Cửa thứ hai là cửa phá tướng: phá tất cả những gì do khối óc và bàn tay con người tạo ra để biểu thị chân lý, nhưng đồng thời cũng chôn vùi luôn chân lý dưới khối phù hiệu, công thức, nghi thức. Kinh nói: "Lìa hết tướng tức là Phật". Mà Phật tức là tâm. Nên phá tướng tức trả tâm về cho bổn thể nguyên thủy. Tự nơi bổn thể ấy "tự nhiên hằng sa công đức, thảy thảy trang nghiêm; vô số pháp môn, mỗi mỗi thành tựu; vượt phàm chứng thánh, mắt thấy chẳng xao, chốc lát ngộ liền, há cần nhọc sức".
+<fieldset>
+<legend><h4>Cửa thứ 2</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+Cửa thứ 2 là cửa phá tướng: phá tất cả những gì do khối óc và bàn tay con người tạo ra để biểu thị chân lý, nhưng đồng thời cũng chôn vùi luôn chân lý dưới khối phù hiệu, công thức, nghi thức. 
+Kinh nói: "Lìa hết tướng tức là Phật". 
+Mà Phật tức là tâm. Nên phá tướng tức trả tâm về cho bổn thể nguyên thủy. 
+Tự nơi bổn thể ấy "tự nhiên hằng sa công đức, thảy thảy trang nghiêm; vô số pháp môn, mỗi mỗi thành tựu; vượt phàm chứng thánh, mắt thấy chẳng xao, chốc lát ngộ liền, há cần nhọc sức".
+</div>
+</fieldset>
 
-Cửa thứ ba là nhị chủng nhập. Chỉ riêng về phép "Báo oán hạnh" chẳng hạn, Thiền dạy rằng khi gặp khổ cứ vui chịu, đừng than trời trách người. Mắc nợ thì trả nợ, đó là lẽ công, cần sòng phẳng. Sòng phẳng mà không oán trách, đó là hành đạo trên "Sự". Hành sự mà lòng không loạn động, đó là tựu "Lý". Trên hiện tại lý với sự chẳng khác nhau, nên khổ mà không oán trách, đó là giải thoát: giải thoát ở hiện tại, bằng những hành động thích ứng với hiện tại. Chỉ có hiện tại là thực, cần tác động vào đó, ngoài ra quá khứ và tương lai đều là vọng tưởng.
+<fieldset>
+<legend><h4>Cửa thứ 3</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+Cửa thứ 3 là nhị chủng nhập. Chỉ riêng về phép "Báo oán hạnh" chẳng hạn, Thiền dạy rằng khi gặp khổ cứ vui chịu, đừng than trời trách người. Mắc nợ thì trả nợ, đó là lẽ công, cần sòng phẳng. Sòng phẳng mà không oán trách, đó là hành đạo trên "Sự". Hành sự mà lòng không loạn động, đó là tựu "Lý". Trên hiện tại lý với sự chẳng khác nhau, nên khổ mà không oán trách, đó là giải thoát: giải thoát ở hiện tại, bằng những hành động thích ứng với hiện tại. Chỉ có hiện tại là thực, cần tác động vào đó, ngoài ra quá khứ và tương lai đều là vọng tưởng.
+</div>
+</fieldset>
 
-Cửa thứ tư là phép an tâm. Sách chép khi Huệ Khả đến viếng Đạt Ma có bạch rằng: - Tâm con không an. Thỉnh Hòa thượng cho con được an tâm. Đạt Ma bảo: - Ngươi đưa tâm đây thầy an cho. - Con tìm mãi mà không thấy tâm đâu cả. Đạt Ma kết luận: - Vậy là tâm nhà ngươi đã an rồi đó. Câu chuyện biểu thị căn bệnh lo âu truyền kiếp của hầu hết chúng ta, một thứ angoisse existentielle thúc dục chúng ta chạy khắp phương trời, khắp kim cổ, tìm đường giải thoát. Chính cuộc chạy lăng xăng ấy, ta tạm gọi là cầu đạo, tìm chân lý. Nếu bất thần ta dừng lại như Huệ Khả ắt toàn thể trời đất và nhân sanh bỗng dưng thức tỉnh trên một thực tại phi thường; thức tỉnh trên tâm: ta không có tâm (hoặc bản ngã) nào khác hơn là ý nghĩ; thức tỉnh trên bệnh bất an: ta không có bệnh nào khác hơn là mặc cảm; thức tỉnh trên thời gian: ta không có thời gian nào khác hơn là hiện sanh. Đó là ý nghĩa của bài kệ chứng đạo sau đây của Huệ Khả:
+<fieldset>
+<legend><h4>Cửa thứ 4</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+Cửa thứ 4 là phép an tâm. 
 
-Ba thuở cầu tâm, tâm chẳng có,
-Tấc lòng kiếm vọng, vọng hoàn không.
-Vọng nguyên không xứ tức Bồ đề,
-Đó mới gọi là chơn đắc đạo.
+Sách chép khi Huệ Khả đến viếng Đạt Ma có bạch rằng: _Tâm con không an. Thỉnh Hòa thượng cho con được an tâm._ 
 
-Cửa thứ năm là ngộ tánh luận, chỉ thẳng phép thấy tánh thành Phật, tự thành Phật, tự ý thức cốt Phật bổn lai của chúng ta bị vùi sâu từ vô lượng kiếp dưới lớp chiêm bao, nói đúng hơn, dưới từng lớp mặc cảm làm điên đảo cuộc sống: mặc cảm tự ti, phạm tội, sa đọa vĩnh viễn, tội tổ tông v.v... Bung ra khỏi khối chiêm bao, nhô lên khỏi vũng mặc cảm thì là gì? Là thức tỉnh trên cái hiện tiền: đương xứ tức chân. "Phàm phu đang sống sợ chết, vừa no lo đói, mê hoặc làm sao! Còn những người đích thực là người - những bậc chí nhân - chẳng tính việc trước, chẳng lo việc sau, chẳng náo động ở hiện tại nên không lúc nào chẳng thuận đạo".
+Đạt Ma bảo: **Ngươi đưa tâm đây thầy an cho.** 
 
-Cửa thứ sáu là huyết mạch luận. Phật ở đây được trả về cho thế giới đại đồng như một sức mạnh thuần túy của cuộc sống, một trái tim của vũ trụ, một nguồn sống bất sanh bất diệt, thấm nhuần tất cả, cả đến cỏ cây vô tri. Phật là người không là gì hết.
+_Con tìm mãi mà không thấy tâm đâu cả._ 
+
+Đạt Ma kết luận: **Vậy là tâm nhà ngươi đã an rồi đó** 
+
+Câu chuyện biểu thị căn bệnh lo âu truyền kiếp của hầu hết chúng ta, một thứ angoisse existentielle thúc dục chúng ta chạy khắp phương trời, khắp kim cổ, tìm đường giải thoát. Chính cuộc chạy lăng xăng ấy, ta tạm gọi là cầu đạo, tìm chân lý. 
+
+Nếu bất thần ta dừng lại như Huệ Khả ắt toàn thể trời đất và nhân sanh bỗng dưng thức tỉnh trên một thực tại phi thường; thức tỉnh trên tâm: ta không có tâm (hoặc bản ngã) nào khác hơn là ý nghĩ; thức tỉnh trên bệnh bất an: ta không có bệnh nào khác hơn là mặc cảm; thức tỉnh trên thời gian: ta không có thời gian nào khác hơn là hiện sanh. 
+
+Đó là ý nghĩa của bài kệ chứng đạo sau đây của Huệ Khả:
+
+> Ba thuở cầu tâm, tâm chẳng có
+> 
+> Tấc lòng kiếm vọng, vọng hoàn không
+> 
+> Vọng nguyên không xứ tức Bồ đề
+> 
+> Đó mới gọi là chơn đắc đạo
+</div>
+</fieldset>
+
+<fieldset>
+<legend><h4>Cửa thứ 5</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+Cửa thứ 5 là ngộ tánh luận, chỉ thẳng phép thấy tánh thành Phật, tự thành Phật, tự ý thức cốt Phật bổn lai của chúng ta bị vùi sâu từ vô lượng kiếp dưới lớp chiêm bao, nói đúng hơn, dưới từng lớp mặc cảm làm điên đảo cuộc sống: mặc cảm tự ti, phạm tội, sa đọa vĩnh viễn, tội tổ tông v.v... Bung ra khỏi khối chiêm bao, nhô lên khỏi vũng mặc cảm thì là gì? Là thức tỉnh trên cái hiện tiền: đương xứ tức chân. "Phàm phu đang sống sợ chết, vừa no lo đói, mê hoặc làm sao! Còn những người đích thực là người - những bậc chí nhân - chẳng tính việc trước, chẳng lo việc sau, chẳng náo động ở hiện tại nên không lúc nào chẳng thuận đạo".
+</div>
+</fieldset>
+
+<fieldset>
+<legend><h4>Cửa thứ 6</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+Cửa thứ 6 là huyết mạch luận. Phật ở đây được trả về cho thế giới đại đồng như một sức mạnh thuần túy của cuộc sống, một trái tim của vũ trụ, một nguồn sống bất sanh bất diệt, thấm nhuần tất cả, cả đến cỏ cây vô tri. Phật là người không là gì hết.
 
 Phật thị nhàn nhân,
 Phật bất thị Phật,
 Mạc tác Phật giải.
 
-Phật là toàn thể, không thể chia chẻ. Nếu làm Phật giải Phật, tức chia chẻ Phật, ắt mắc bệnh phân tâm - và mất luôn thiên đường. Bằng hòa đồng với nguyên khối thì tánh tức là tướng, bổn thể tức là hiện tượng, tâm tức là động, động tức là dụng v.v... Nói tóm lại, không gì chẳng là đạo, không gì chẳng là Phật. Tất cả đều rỗng rang, đều tự tại, đều không phàm thánh gì hết; "quách nhiên vô thánh". Đó mới thực là trang nghiêm nước Phật.
+Phật là toàn thể, không thể chia chẻ.
+Nếu làm Phật giải Phật, tức chia chẻ Phật, ắt mắc bệnh phân tâm - và mất luôn thiên đường.
+Bằng hòa đồng với nguyên khối thì tánh tức là tướng, bổn thể tức là hiện tượng, tâm tức là động, động tức là dụng v.v...
+Nói tóm lại, không gì chẳng là đạo, không gì chẳng là Phật.
+Tất cả đều rỗng rang, đều tự tại, đều không phàm thánh gì hết; "quách nhiên vô thánh". Đó mới thực là trang nghiêm nước Phật.
+</div>
+</fieldset>
 
-* * *
+<hr class="blog-rule" />
 
 Sáu cửa là vậy, cửa - không - cửa. Còn Thiếu Thất là tên một núi nằm trong dãy Tung Nhạc, thuộc tỉnh Hà Nam, huyện Đăng Phong. Dãy Tung Nhạc có ba mươi sáu ngọn núi, phía đông gọi là Đại Thất (nhà lớn), phía tây gọi là Thiếu Thất hoặc Tiểu Thất (nhà nhỏ). Nhà đây là nhà đá, đá núi dựng thành nhà, xếp thành am động. Riêng núi Thiết Thất cao 860 trượng, thuở xưa vua Hậu Ngụy Hiếu Văn có dựng lên tại đây một ngôi chùa cho thiền sư Phật Đà Thiên Trúc ở, gọi là chùa Thiếu Lâm. Chính tại ngôi chùa cổ này, vào khoảng năm 520, sư Bồ Đề Đạt Ma ngồi chín năm nhìn vách đá. Thiếu Thất cũng là tên riêng của sơ tổ Đạt Ma. Vậy, sách Thiếu Thất lục môn là của Đạt Ma. Đúng: vì tác phẩm chứa toàn những giáo lý căn bản của Thiền Đạt Ma, phù hợp với những tài liệu được ghi chép trong bộ Thiền sử Truyền Đăng Lục. Mà cũng có thể không đúng: vì ta có nhiều lý do để ngờ rằng sách này do chư Sư mới soạn ra sau này, có lẽ vào khoảng cuối đời Đường - và soạn ra nhân danh tổ Đạt Ma. Tại sao có thể thế được? Tại sao người viết chịu tự mình khuất lấp đi sau tên người khác, trong khi chỉ một tác phẩm nói trên đủ đưa người viết lên tuyệt đỉnh vinh quang, ít nhất trên phương diện lập ngôn? Tại sao? Và tại sao? Xin dành những dấu hỏi trên cho các nhà học giả và khảo cổ. Đối với người học đạo, sách có thể mang tên Đạt Ma, Lâm Tế, Trần Thái Tông, hoặc ông, tôi, vô danh thị không hề gì: tất cả tên đều là tên giả. Tất cả cái tôi đều là tôi giả. Con người không là gì hết trong dòng biến chuyển của nhân duyên. Nhưng con người đi qua, và tác phẩm còn lại. Và những hoa kỳ cỏ lạ lưu lại mãi cho đời:
 
@@ -142,7 +214,6 @@ Nếu không bệnh không thuốc thì không có gì cần nói giữa chúng 
 
 [^1]: Vô bất thị dược.
 [^2]: Vân Môn: Dược bệnh tương trị. Tận đại địa thị dược. Na cá như tự kỷ.
-
 
 <hr class="blog-rule" />
 

@@ -2,9 +2,11 @@
 title: "LÂM TẾ NGỮ LỤC"
 description: ""
 excerpt: "...."
-categories: ["Ngữ Lục"]
-tags: ["TS LÂM TẾ NGHĨA HUYỀN"]
-pdfUrl: "/pdfs/speeches/Lam-Te-ngu-luc.pdf"
+categories: 
+  - Ngữ Lục
+tags:
+  - TS LÂM TẾ NGHĨA HUYỀN
+pdfUrl: /pdfs/speeches/Lam-Te-ngu-luc.pdf
 ---
 
 #### 0.

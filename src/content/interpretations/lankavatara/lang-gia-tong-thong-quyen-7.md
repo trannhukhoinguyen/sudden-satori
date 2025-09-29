@@ -1796,7 +1796,7 @@ chống động hôm nay bị cong hỏi thẳng một
 
 lời toàn thân mồ hôi được thông số tự
 
-động Sơn sắp viên tịch
+Động Sơn sắp viên tịch
 
 anh nói Quyết đại chúng trần ta có cái
 
@@ -9912,7 +9912,7 @@ chân thật nghĩa như lai tạm vậy
 
 Mua văn công ngày nọ đã Cô Đào Hát diễn
 
-tuồng làm kệ rằng
+tuồng làm kệ rằng:
 
 ở các diễn viên nhí trường một quý lại
 
@@ -9952,12 +9952,4 @@ gốc Nếu chở được tin tức nhổ gốc thì có
 
 thể xa liền nhất Thọ thấy được như lai
 
-và tính vậy bộ kinh lăng dạ a bạc đã la bảo tông
-
-thông hết quyển thứ bảy đến đây chúng ta
-
-nghĩ Anh Nguyễn đang Công Định này hở về trắng
-
-tình ca để tớ và chúng sanh
-
-điều tròn thành Phật đạo
+và tính vậy bộ kinh lăng dạ a bạc đã la bảo tông thông hết quyển thứ 7 đến đây chúng ta nghĩ Anh Nguyễn đang Công Định này hở về trắng tình ca để tớ và chúng sanh đều tròn thành Phật đạo

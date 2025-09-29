@@ -11,9 +11,9 @@ tags:
   - TS OÁNH SƠN THIỆU CẨN
 authors: 
   - TS OÁNH SƠN THIỆU CẨN
-image: "/images/koans/great-wave.webp"
-videoId: "MZSh7XxjQU4"
-pdfUrl: "/pdfs/books/toa-thien-dung-tam-ky.pdf"
+image: /images/koans/great-wave.webp
+videoId: MZSh7XxjQU4
+pdfUrl: /pdfs/books/toa-thien-dung-tam-ky.pdf
 ---
 
 ## GIỚI THIỆU THIỀN SƯ OÁNH SƠN

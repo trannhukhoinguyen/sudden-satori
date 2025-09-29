@@ -3,9 +3,11 @@ title: "Kinh Lăng Già - quyển IV"
 description: ""
 excerpt: ""
 categories: ["Kinh"]
-tags: ["Kinh Lăng Già", "HT Thích Duy Lực"]
+tags: 
+  - Kinh Thủ Lăng Già
+  - HT Thích Duy Lực
 image: /images/backgrounds/trang-lang-gia.webp
-pdfUrl: "/pdfs/sutras/kinh-Lang-Gia.pdf"
+pdfUrl: /pdfs/sutras/kinh-lang-gia.pdf
 videoId: vwOi8UCTCp0
 videoStart: 14450
 ---

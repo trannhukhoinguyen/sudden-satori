@@ -8138,7 +8138,7 @@ như thế nào
 
 sư đồng ăn Mẫn lúc đầu đến thăm Nghệ tổ
 
-động Sơn hỏi chưa tháng lấy gì làm mạn
+Động Sơn hỏi chưa tháng lấy gì làm mạn
 
 tổ đáp lấy không dám đoạn sư hỏi lại có
 

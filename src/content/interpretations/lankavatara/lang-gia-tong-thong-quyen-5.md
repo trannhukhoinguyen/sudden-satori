@@ -7580,7 +7580,7 @@ các thứ tướng nhân có không đều là thức
 
 chẳng phải trí Vậy thầy tạo sơn ban đầu
 
-đến các tổ động Sơn tổ sớm hội thì tên
+đến các tổ Động Sơn tổ sớm hội thì tên
 
 gì đắp dần bản tịch Tổ Sơn hỏi cái ấy ra
 
@@ -8528,7 +8528,7 @@ kính và nghĩa giải thoát đều bao hàm
 
 trong ấy ngày thần đỉnh nên tòa giảm nêu
 
-động Sơn nói tham sân si quả là kẻ vô
+Động Sơn nói tham sân si quả là kẻ vô
 
 lại ta này sớm biết được hắn hắn đi
 
