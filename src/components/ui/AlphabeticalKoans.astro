@@ -32,29 +32,6 @@ const initial = letters.includes("A") ? "A" : letters[0];
 
     Bản tắc (zh.本則, ja. honsoku) nghĩa là "Quy tắc căn bản", là một cách gọi khác của một Công án, được sử dụng trong hai tập Bích nham lục và Vô môn quan để phân biệt với những thành phần khác của công án như "thuỳ thị", "trước ngữ," "bình xướng".
 
-    <div class="section-description bottom">
-      { koanDescription?.bottom?.intro }
-      { koanDescription?.bottom?.body?.map(line => <h5>{line}</h5>) }
-    </div>
-
-    <div class="section-description blockquote">
-      <p><em>{ koanDescription?.blockquote?.intro }</em></p>
-      <blockquote cite="https://vi.wikipedia.org/wiki/C%C3%B4ng_%C3%A1n">
-        { koanDescription?.blockquote?.body }
-      </blockquote>
-    </div>
-
-    <div class="rules-grid">
-      Trong Lâm Tế tông tại Nhật Bản, các vị thiền sư thường phân biệt 5 loại công án:
-      {
-        koanTypes?.map(type => <div class="rule-card">
-          <h3 class="rule-title">{ type.title }</h3>
-          <p><em>{ type.subTitle }</em></p>
-          <p class="rule-description">{ type.description }</p>
-        </div>)
-      }
-    </div>
-
   </div>
 </section>
 
