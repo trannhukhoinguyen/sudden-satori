@@ -1,5 +1,5 @@
 ---
-title: Kim Cang Kinh Tông Thông
+title: Kim Cang Kinh Tông Thông - Phần 1
 description: ☸ Trích lọc từ THÍCH NỮ TUỆ ĐĂNG & THÍCH NHUẬN CHÂU Việt dịch
 authors: 
   - Tăng Phụng Nghi
@@ -13,7 +13,7 @@ pdfUrl: /pdfs/kinh-kim-cang-tong-thong.pdf
 
 NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ.
 
-## Duyển Khởi
+## Duyên Khởi
 
 Trí Phật sâu xa, bậc thông thái cũng không thấy đến chỗ tột cùng. Lời Phật nhiệm mầu, người tầm thường đâu có thể biết được manh mối. Ngài Không Sinh nói “Vô thuyết”, trời Đế Thích rải hoa, mối nghi thầm ném bỏ. Ngài Vô Trước lên cung trời Đâu Suất nghe kinh, vậy mà phân chia bộ loại vẫn còn sai. Thế mới biết Bát-nhã vô biên và chỉ nhận kim cang là bậc nhất. Nghiên cứu tận tường không phải dễ, người tin nhận được cũng thật là hiếm có.
 
@@ -36,63 +36,7 @@ Tăng Phụng Nghi, tự Thuấn Trưng
 
 Kính đề
 
-## Kim Cang bát nhã Ba La Mật Đa Tông Thông
 
-### I. Đoạn nghi vì cầu tướng hảo Phật nên thực hành bố thí trụ tướng
-
-### II. Đoan nghi không tin sâu nhân quả
-
-### III. Đoạn nghi vô tướng thì làm sao đắc, làm sao thuyết
-
-### IV. Đoạn nghi thanh văn đắc quả là thủ chứng
-
-### V. Đoạn nghi thích ca, nhiên đăng, có thủ chứng có thuyết pháp
-
-### VI. Đoạn nghi trang nghiêm cõi Phật trái với chẳng thủ
-
-### VII. Đoạn nghi thọ được báo thân là có thủ đắc
-
-### VIII. Đoạn nghi thọ trì giảng thuyết chưa thoát khỏi khổ
-
-### IX. Đoạn nghi này chứng vô thể chẳng phải nhân
-
-### X. Đoạn nghi chân như có đắc, có bất đắc
-
-### XI. Đoạn nghi trụ tu hàng phục là ngã
-
-### XII. Đoạn nghi Phật chân có bồ-tát
-
-### XIII. Đoạn nghi không nhân thì không có Phật pháp
-
-### XIV. Đoạn nghi không có người hóa độ chúng sinh, trang nghiêm cõi Phật
-
-### XV. Đoạn nghi chư Phật chẳng thấy các pháp
-
-### XVI. Đoạn nghi phước đức sánh với tâm điên đảo
-
-### XVII. Đoạn nghi vô vi đâu có tướng hảo
-
-### XVIII. Đoạn nghi không có thân lấy gì thuyết pháp
-
-### XIX. Đoạn nghi không có pháp thì làm sao tu chứng
-
-### XX. Đoạn nghi sơ thuyết vô ký chẳng phải nhân
-
-### XXI. Đoạn nghi bình đẳng làm sao độ chúng sinh
-
-### XXII. Đoạn nghi lấy tướng so sánh để biết chân Phật
-
-### XXIII. Đoạn nghi Phật quả chẳng liên quan đến phước tướng
-
-### XXIV. Đoạn nghi hóa thân xuất hiện thọ tướng phước bảo
-
-### XXV. Đoạn nghi pháp thân, hóa thân là một hay là khác
-
-### XXVI. Đoạn nghi hóa thân thuyết pháp không có phước
-
-### XXVII. Đoạn nghi nhập niết bàn làm sao thuyết pháp
-
-## Tựa
 
 Kinh Kim Cang Là bộ Kinh quan trọng của tư tưởng Đại thừa.
 Từ tư tưởng chủ đạo của Kinh nầy mà hình thành nên những tông phái như Trung quán, Duy thức, Tam luận tông.

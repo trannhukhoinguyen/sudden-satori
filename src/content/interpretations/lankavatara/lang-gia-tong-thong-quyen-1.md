@@ -1,13 +1,13 @@
 ---
 title: Lăng Già Tông Thông - Quyển 1
-description: 1600-1615
+description: ""
 authors: 
-  - Tăng Phụng Nghi
+    - Tăng Phụng Nghi
 categories:
-  - Luận
+    - Luận
 tags:
-  - Kinh Lăng Già
-  - Tông Thông
+    - Kinh Lăng Già
+    - Tông Thông
 image: /images/backgrounds/trang-lang-gia.webp
 videoId: kRYzpw2ntPY
 ---
@@ -28,83 +28,7 @@ videoId: kRYzpw2ntPY
 - Đời đường 684 đến 705 ngày thật to a-nan-đà dịch thành 7 quyển lấy tên là **Đại thừa Nhập Lăng Già**
 - Đời Minh 1572 đến 1620 cơ sở Bồ Tát giới tăng phụ ghi đã dùng hội cả ba bản dịch và thêm dùng các tích xưa và cơ dư độc đáo của các bậc tôn thúc để làm rõ nhịp kinh soạn thành 8 quyển đặt tên là **Lăng Già A-bạt-đa-la Bảo Kinh Tông Thông** được kết tập trong vạn tục tạng số X17 No.330
 
-34 quyển đời Tống Dịch đều lấy tên là Nhất thiết Phật ngữ tâm thì đã hiện bài trước.
-Giá trị của toàn bộ bản kinh cốt lấy việc sáng tỏ bản tâm làm trọng không chỉ có đức Phật Thích Ca mà hoặc hoặc không khác điều trị thẳng bạn tâm toàn bộ bản kinh từ 108 câu hỏi của bồ-tát Đại Huệ và lời đáp vì cứu chẳng phải câu của Đức Thế Tôn 
-cho đến kiến lập thứ 18 thức 5 pháp 3 tự tính hay vô ngã hãy đều quy về biển tịch diệt Như Lai tạng cũng tức là bản tâm vầy 
 
-Thế mới biết bạn kinh này là con đường cần thiết của người tu học để trực tiếp tin nhắn Bản thể chính mình đã trải qua 65 ngày 15 tháng 04 năm 2014 đến 15 tháng 7 năm 2020 con đã đọc học nghiên cứu và chuyển nhượng bản kinh lăng già tông thông 
-y cứ vào lời Đức Thế Tôn khai giác thực hành trong từng ngày mỗi ngày nơi tự tâm càng tỏ rõ ràng rẽ các sự tham bám của mình 
-quả thật chỉ có Tuệ inna sự khai giá của Đức Thế Tôn thì tham chất mới rơi rụng các thứ ngu si kêu mạch mới mỏ dần sụp đổ
-
-TỪ chúc phần tâm sáng suốt được hiện ra cảnh bồi ân đức như vật vùng ông thầy sư trưởng con tinh dịch bạn kinh này ra lời việc để mọi người có cơ duyên được đọc
-
-được lượng nguồn Ân Quang chưa vậy em
-
-xin tri ân đến như Tôn Đức Đại lão Hòa
-
-thượng Thích thành tự đại dịch bản Kinh
-
-lăng-già Tâm áo cố hòa thượng rất yêu
-
-luật đã dịch bản Kinh Lăng và tỳ kheo
-
-thích chân thiện và cư sĩ Trần Tuấn Mẫn
-
-đã dịch bạn lăng-già Đại thừa kinh vì
-
-thông qua những bản dịch ấy mà con có
-
-được những từ ngữ chính xác những chỉ
-
-dẫn lợi ích hỗ trợ cho công việc vốn quá
-
-khó và vượt sức của mình
-
-à vì lợi ích của bản thân và pháp giới
-
-chúng sinh ngưỡng mông cách bậc thiện
-
-trí thức Mời Phương chỉnh sửa bổ khuyết
-
-cho những thiếu sót không thể tránh khỏi
-
-trong bản dịch nguyên cùng người người
-
-kết duyên học phật tu Phật thành Phật để
-
-không cô phụ lòng Biên luyện của Đức Thế
-
-Tôn ứng Thân khai hóa nơi đời ác 5 trượt này
-
-nguyện hồi hướng khắp pháp giới chúng sinh đồng thành Phật đạo
-
-hai bát nhã Từ Ân hội mùa an cư năm 2020
-
-kính GB Sa Môn Thích Giác Ngộ
-
-## DUYÊN KHỞI
-
-Ta từng ở quê nhà, lo việc gia đình, rồi may mắn gặp được bậc hiền đức mở kho tàng bí mật.
-Từ đó, ta theo lời dạy mà vui thích tu thiền, hân hoan thực hành ngoài khuôn khổ trần tục.
-Một hôm, trong mộng thấy mình gặp bậc tôn quý dung mạo uy nghi, cung kính vâng lời giáo huấn.
-Ngài bảo: “Hãy phân biệt rõ: cái gọi là thức và cái gọi là trí. Thức thì phân biệt, trí thì không phân biệt.”
-Từ đó ta khởi nghi, hỏi rằng: “Lời này xuất phát từ kinh nào?”
-Ngài đáp: “Từ kinh Lăng Già”.
-Ta tỉnh dậy, liền tìm đọc kinh Lăng Già, càng đọc càng vui, nhiều lần tra cứu, không biết mỏi mệt.
-Đến nỗi nhiều khi quên ăn quên ngủ, miệt mài nghiên cứu.
-Trước kia ta chỉ học đạo lý, nay nhờ nhân duyên này mà thấy rõ nghĩa Phật, chẳng còn hồ nghi.
-Vì thế ta viết ra bộ “Tông Thông” này, mong người sau dựa vào đó mà hiểu ý chỉ của kinh.
-
-## ĐỀ TỪ (TỰA)
-
-Ta vốn ẩn cư nơi Lư Lăng, vui thú với tre trúc, chẳng màng danh lợi.
-Nhân duyên rộng khắp, nhiều năm tìm học mà chưa có ngày nào uổng phí.
-Từng soạn “Lăng Nghiêm Tông Thông”, “Kim Cang Tông Thông”, đều được lưu hành.
-Nay lại soạn “Lăng Già Tông Thông”, coi như việc học đã thành.
-Kinh Lăng Già này vốn sâu xa khó hiểu, các bậc cổ đức đều khen là yếu chỉ của Phật tâm ấn.
-Người học đời sau nếu không rõ yếu chỉ này, chỉ lo bàn luận danh tướng, sẽ khó mà thấu hiểu.
-Ta nay gom góp những chỗ cốt yếu, gạn lọc lời chú cũ, dung hòa ba bản dịch, để ai đọc cũng dễ hiểu.
-Nguyện cho người học nhờ đây mà soi được tâm mình, khỏi bị mắc kẹt nơi danh tướng, được khế hợp ý Phật, và mau chứng nhập cảnh giới tự giác.
 
 Kinh Lăng Già A Bạt Đa La Bảo, do Tam Tạng Sa-môn Cầu-na-bạt-đà-la ở Thiên Trúc dịch lần đầu, Tam Tạng Sa-môn Bồ-đề-lưu-chi ở Bắc Ngụy dịch lần thứ 2, và Tam Tạng Sa-môn Thật-nghĩa-nan-đà ở Vu-điền dịch lần thứ 3.
 
@@ -114,8 +38,14 @@ Giải thích: Kinh này gọi là Lăng Già, vì nói về núi Lăng Già –
 Núi này như viên ngọc quý, rất kiên cố, ví như bảo vật không gì sánh bằng.
 Trên đỉnh núi có một thành, nơi Dạ-xoa cư trú, ban đêm thường phát ra ánh sáng rực rỡ.
 Những ai ở trong cảnh giới này nếu tâm còn phân biệt thì không thấy Phật; chỉ khi nào dứt phân biệt, tâm thanh tịnh, mới thấy được Phật thuyết kinh tại đây.
-
 ## Quyển 1
+
+## DUYÊN KHỞI
+
+
+
+## ĐỀ TỪ (TỰA)
+
 
 Lý Duyên khởi Kinh Lăng và tông thông đề tựa Núi năm nhạc quan trương Kim giảng tên là căng Phụng Nhi tự là Thuận trưng viết
 

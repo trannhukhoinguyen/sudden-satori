@@ -13,6 +13,10 @@ videoId: e5qP5EZ9BUY
 videoStart: 1071
 ---
 
+<h2>📋 MỤC LỤC ➥ <a href="/interpretations/lang-nghiem-tong-thong-muc-luc">🔗</a></h2>
+
+<hr class="blog-rule" />
+
 - Đời Đường: Ngài Bát Lạt Mật Đế, Sa Môn xứ Thiên Trúc dịch
 
 - Ngài Di Già Thích Ca, Sa Môn xứ Ô Trường dịch ngữ
@@ -1036,5 +1040,5 @@ Kỳ diệu thay, kỳ diệu thay. Đâu phải cứ một bề ngồi thiền 
 
 <hr class="blog-rule" />
 
-###  Nguyên do của thường trụ và lưu chuyển
-➥ [🔗](/interpretations/lang-nghiem-tong-thong-I-nguyen-do-cua-thuong-tru-va-luu-chuyen)
+###  MỤC I: GẠN HỎI CÁI TÂM
+➥ [🔗](/interpretations/lang-nghiem-tong-thong-chuong-1-muc-1-gan-hoi-cai-tam)
