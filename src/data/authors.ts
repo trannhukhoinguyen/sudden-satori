@@ -18,11 +18,16 @@ const authors: author[] = [
     {
       id: 1,
       name: "Tăng Phụng Nghi",
-      bio: "Tự Thuấn Vi, hiệu Kim Giản, quê ở Hành Dương, Hồ Nam, đậu Tiến Sĩ đời Vạn Lịch nhà Minh. " +
-          "Ông từng gặp một vị Tăng, cùng nhau tranh luận 3 ngày không dứt. " +
-          "Do vậy, Ông tin Phật, trì giới, ăn chay, nghiên cứu kinh luận. " +
-          "Một hôm, Ông thấy trăng lặn, mặt trời mọc, hoát nhiên đại ngộ. " +
-          "Ông soạn bộ Tam Tông Thông gồm: Thủ Lăng Nghiêm Kinh Tông Thông, Lăng Già Tông Thông và Kim Cang Kinh Tông Thông.",
+      bio: "Tự Thuấn Trưng / Thuấn Vi, hiệu Kim Giản, quê ở Hành Châu (Hành Dương, Hồ Nam), đậu Tiến Sĩ đời Vạn Lịch - nhà Minh. " +
+          "Ông làm quan đến Lễ bộ lang trung, thông minh hiếu học, chuộng lí học của Lục tượng sơn. " +
+          "Sau khi thôi làm quan, ông về làng mở trường giảng học, học trò rất đông. " +
+          "Ông từng tình cờ gặp 1 vị tăng, 2 bên tranh luận, trải 3 ngày ông mới chịu khuất phục, " +
+          "Từ đó, ông kính tin Phật pháp, giữ giới, ăn chay, nghiên cứu kinh luận, gắng sức tham cứu. " +
+          "Một hôm, ông thấy mặt trăng lặn, mặt trời mọc, hoát nhiên tỉnh ngộ/đại ngộ, " +
+          "tự thấy những nghi ngại tiêu sạch, được ý chân thật của 2 nhà (Phật, Nho). " +
+          "Sau đó, ông viết sách lập thuyết để lưu truyền. " +
+          "Ông soạn bộ Tam Tông Thông gồm: Thủ Lăng Nghiêm Kinh Tông Thông, Lăng Già Tông Thông và Kim Cang Kinh Tông Thông. " +
+          "[X. Hành châu phủ chí] ",
       avatar: "",
       references: [
         "https://blog.phapthihoi.org/tu-dien-phat-giao/tang-phung-nghi/",
