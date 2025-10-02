@@ -54,7 +54,11 @@ const CnLv2MasterDb = [
     successors: ['-'],
     disciples: ['Baizhang Huaihai', 'Dazhu Huihai', 'Damei Fachang', 'Ehu Dayi', 'Xitang Zhizang',
       'Nanquan Puyuan', 'Fenzhou Wuye', 'Guizong Zhichang', 'Zhangjing Huaiyun', 'Yanguan Qian',
-      'Layman Pangyun (Jushi)', 'Mayu Baoche', 'Panshan Baoji', 'Luzu Baoyun', 'Zhongyi Hongen', 'Wujiu Youxuan',
+      'Layman Pangyun (Jushi)',
+      'Mayu Baoche (https://terebess.hu/zen/mesterek/MayuBaoche.html, ' +
+      'https://www.reddit.com/r/Buddhism/comments/q8pru/zen_master_baoche_of_mt_mayu_was_fanning_himself, ' +
+      'https://pl.wikipedia.org/wiki/Magu_Baoche)',
+      'Panshan Baoji', 'Luzu Baoyun', 'Zhongyi Hongen', 'Wujiu Youxuan',
       'Zhangjing Huaihui', 'Panshan Baoji', 'Ngũ Đài Đặng Ẩn Phong', 'Thạch Củng Tuệ Tạng', 'Ô Cửu', 'Yanguan Qian',
       'Tử Ngọc Đạo Thông', 'Lỗ Tổ Bảo Vân',
       'An phong Hoài Không', 'Bách Linh', 'Cổ Sơn Linh Kiệu (Hongzhou Gushan Lingjiao)', 'Bách Nham Ninh Triết',

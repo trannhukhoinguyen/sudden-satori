@@ -24,22 +24,28 @@ videoStart: 1071
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Bấy giờ, Ông Anan ở trong đại chúng, liền từ chỗ ngồi đứng dậy, trịch vai áo phải, đầu gối phải chấm đất, chắp tay cung kính mà bạch Phật rằng : “Tôi là em nhỏ nhất của Như Lai, nhờ Phật thương yêu, nay tuy đã xuất gia, còn ỷ lại nơi lòng thương của Phật. Vì thế, học rộng nghe nhiều mà chưa được quả Vô Lậu, không chiết phục nổi chú Ta Tỳ La, theo chỗ nó chuyển mà chìm nơi nhà dâm. Nguyên do vì không biết đường đến nơi Chân Tế (Phật Tánh Tự Tâm). Cầu xin Thế Tôn Đại Từ thương xót, chỉ bày cho chúng tôi con đường Chánh Định, cũng khiến cho những kẻ không tin trừ bỏ ác kiến”.
 
 Thưa như vậy xong, rạïp cả mình xuống đất, cùng tất cả đại chúng hết lòng mong nghe lời Phật dạy.
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
 
-⚡️ Thông rằng
-Xét chỗ thấy của Anan lúc ấy dường chưa thể đè bẹp thức tình để đến chỗ trong lặng không dao động, chỉ vì chưa được Vô Lậu(96). Mới đầu thì cho cái tâm Giác Liễu Năng Tri là có vật, nên mới nói “Ở trong, ở ngoài,
+Xét chỗ thấy của **Anan** lúc ấy dường chưa thể đè bẹp thức tình để đến chỗ trong lặng không dao động, chỉ vì chưa được Vô Lậu (96). 
 
-nơi Căn”. Đến khi đã biết là chẳng phải vật, nhưng còn cho là có Thức, nên mới nói là “Tùy chỗ Hiệp mà có”, “Thức sanh ở chặng giữa”. Đến lúc cái Tri, cái Thức đều tiêu hết, rồi mới tin là “Chẳng có dính bám (Vô Trước)”.
+Mới đầu thì cho cái tâm Giác Liễu Năng Tri là có vật, nên mới nói “Ở trong, ở ngoài, nơi Căn”. 
 
-Nhưng đã có cái ý “Không dính bám” thì cũng đã dính bám rồi vậy. Nhưng tất cả không có dính bám mới chỉ đoạn trừ được cái Thức Thứ Bảy, chứ chưa đến cái địa vị lặng lẻ. Mà dù có đến được địa vị lặng lẻ, thì vẫn còn ngồi trong hang ổ của Thức Thứ Tám, chỗ ngoại đạo gọi là Minh Đế(97). Nếu con đường tu Định chỉ là phương tiện bờ mé của việc chuyển Thức thành Trí, mà Thánh giải còn tuyệt chẳng dung chú niệm, huống gì là lại bám lấy phàm tình để bị kéo lôi ? Cho nên, tình phàm
+Đến khi đã biết là chẳng phải vật, nhưng còn cho là có Thức, nên mới nói là “Tùy chỗ Hiệp mà có”, “Thức sanh ở chặng giữa”. 
 
-Thánh đều hết, thì Chân Thường hiển lộ, mới gọi là Chân Tế. Thấu suốt Chân Tế mới không bị dâm thuật chuyển đảo. Chẳng phải chỉ tự mình hiểu biết hẳn hoi đầy đủ chỗ Tịch Tịnh(98) mà còn giúp cho hết thảy phàm phu chưa đủ lòng tin phá trừ được ác kiến vậy.
+Đến lúc cái Tri, cái Thức đều tiêu hết, rồi mới tin là “Chẳng có dính bám (Vô Trước)”.
+
+Nhưng đã có cái ý “Không dính bám” thì cũng đã dính bám rồi vậy. 
+
+Nhưng tất cả không có dính bám mới chỉ đoạn trừ được cái Thức Thứ Bảy, chứ chưa đến cái địa vị lặng lẻ. Mà dù có đến được địa vị lặng lẻ, thì vẫn còn ngồi trong hang ổ của Thức Thứ Tám, chỗ ngoại đạo gọi là Minh Đế(97). Nếu con đường tu Định chỉ là phương tiện bờ mé của việc chuyển Thức thành Trí, mà Thánh giải còn tuyệt chẳng dung chú niệm, huống gì là lại bám lấy phàm tình để bị kéo lôi ? Cho nên, tình phàm
+
+Thánh đều hết, thì Chân Thường hiển lộ, mới gọi là Chân Tế. Thấu suốt Chân Tế mới không bị dâm thuật chuyển đảo. 
+
+Chẳng phải chỉ tự mình hiểu biết hẳn hoi đầy đủ chỗ Tịch Tịnh (98) mà còn giúp cho hết thảy phàm phu chưa đủ lòng tin phá trừ được ác kiến vậy.
 
 Ngài Đoan Sư Tử đọc Lăng Nghiêm có bài tụng :
 
@@ -52,17 +58,15 @@ Có thể nói là bực có con mắt đầy đủ.
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
+Bấy giờ từ mặt Đức Thế Tôn phóng ra các thứ hào quang, ánh sáng rực rỡ như trăm nghìn mặt trời. Khắp
 
+các thế giới của chư Phật, sáu thứ chấn động. Các cõi nước nhiều như vi trần của mười phương hiện ra trong một lúc.
+Oai thần của Phật khiến các thế giới hợp lại thành một thế giới.
+Trong thế giới này, tất cả các vị Bồ Tát hiện có đều an trụ ở nước mình chấp tay nghe lời Phật dạy.
 </div>
 </fieldset>
 <h5>💥 THÔNG rằng</h5>
-Bấy giờ từ mặt Đức Thế Tôn phóng ra các thứ hào quang, ánh sáng rực rỡ như trăm nghìn mặt trời. Khắp
 
-các thế giới của chư Phật, sáu thứ chấn động. Các cõi nước nhiều như vi trần của mười phương hiện ra trong một lúc. 
-Oai thần của Phật khiến các thế giới hợp lại thành một thế giới. 
-Trong thế giới này, tất cả các vị Bồ Tát hiện có đều an trụ ở nước mình chấp tay nghe lời Phật dạy.
-
-⚡️ Thông rằng
 Phóng quang động địa, xưa cho là cảnh giới không thể nghĩ bàn, nhưng cũng có thể hiểu được. 
 Các đạo gia, tinh thần đầy đủ, vững chắc, thì trong đêm tối, mắt vẫn có sáng tỏ mà không vật gì chẳng thấy. 
 Huống hồ Đức Thế Tôn nhiều kiếp thành tựu, thì hào quang chẳng có chói lọi rực rỡ sao
@@ -85,21 +89,20 @@ Pháp Tánh vốn khắp cả, vọng trần chẳng ngăn cách được. Cái 
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Phật bảo Ông Anan : “Hết thảy chúng sanh từ vô thủy đến nay, đủ thứ điên đảo, mầm giống Nghiệp tự nhóm lại như chùm quả ác xoa. 
 Những người tu hành không thành được Bồ Đề Vô Thượng, đến nỗi riêng thành Thanh Văn, Duyên Giác hoặc thành ngoại đạo, Chư Thiên, Ma Vương, hay bà con quyến thuộc của Ma. 
 Tất cả đều do không biết hai loại căn bản, lầm lộn tu tập, cũng như nấu cát mà muốn thành món ngon, dầu trải qua số kiếp nhiều như bụi, rốt cũng chẳng được.
 
 “Thế nào là hai loại căn bản ? Anan, một là, Cội Gốc (Căn Bản) của Sanh
 
-Tử vô thủy. Tức là ông hiện giờ và các chúng sanh dùng cái tâm Bám Níu Theo Duyên (Tâm Phan Duyên) mà làm Tự Tánh. 
+Tử vô thủy. Tức là ông hiện giờ và các chúng sanh dùng cái tâm Bám Níu Theo Duyên (Tâm Phan Duyên) mà làm Tự Tánh.
 Hai là, cái Thể bản lai thanh tịnh Bồ Đề Niết Bàn vô thủy. Tức là cái Chân Tâm vốn sáng soi của ông hiện giờ, hay sanh các duyên nhưng ông lại duyên theo các tướng duyên đó mà bỏ quên nó. Vì các chúng sanh bỏ quên cái Vốn Tự Sáng này nên tuy trọn ngày sử dụng nó mà chẳng tự biết, uổng oan lạc vào sáu nẻo.
 
-⚡️ Thông rằng
-Bảy chỗ bày cái tâm, đều là chẳng phải, vì dùng Tâm Phan Duyên làm tự tánh.
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+Bảy chỗ bày cái tâm, đều là chẳng phải, vì dùng **Tâm Phan Duyên** làm tự tánh.
 
 Ông Anan cũng biết cái tâm này chưa được Vô Lậu, không chiết phục nổi chú Ta Tỳ La, mà còn bị nó chuyển.
 
@@ -174,10 +177,6 @@ Nhưng, biết chọn giữ lấy cái Căn Bản Không Sanh Không Diệt, ngo
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 “Anan, nay ông muốn biết đường tu Xa Ma Tha, nguyện ra khỏi sống chết, thì Ta lại hỏi ông. Liền đó, Như Lai đưa cánh tay kim sắc lên, co năm ngón lại, bảo Ông Anan : “Ông có thấy không ?”
 
 Ông Anan đáp : “Có thấy”.
@@ -199,8 +198,14 @@ Phật bảo : “Ôi, Anan ! Cái đó chẳng phải là Tâm ông đâu”.
 
 Phật bảo Ông Anan : “Đó là cái Tưởng tạo nên các tướng hư vọng của tiền trần, nó làm mê lầm Chân Tánh của ông. Do từ vô thủy cho đến nay, ông nhận tên giặc đó làm con, mất đi cái Vốn Là Thường Hằng (Nguyên Thường) của ông nên phải chịu luân hồi”.
 
-⚡️ Thông rằng : 
-Đây là lần dẫn dụ từng bước lần thứ hai của Thế Tôn. Ngài hỏi “Ông nay có thấy không ?” Anan đáp “Thấy”. 
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+Đây là lần dẫn dụ từng bước lần thứ hai của **Thế Tôn**. Ngài hỏi “Ông nay có thấy không ?” 
+
+Anan đáp “**Thấy**”. 
+
 Chỉ ở chỗ này mà đột nhiên tỉnh ngộ, bèn thấy Bản Tánh Nguyên Minh, chẳng cho phép luận bàn, chẳng đợi chỗ xếp đặt. 
 Bồ Đề Niết Bàn vốn tự đầy đủ, vừa mống khởi phân biệt đã lọt vào tỷ lượng(103), bị buộc vào sự sai sử của Lục Thức, chìm sâu vào trí thức, bỏ mất Chân Tánh xa lắm vậy. Cho nên Phật mới quở rằng “Cái đó chẳng phải là tâm của ông”. Nếu trong khi bị quở, rỗng rang mà tự mất bặt, bỗng nhiên hồi quang, thì ngay liền đó là Bổn Giác tự tại. Chứ sao lại nói “Rời cái Hay Biết (Giác Tri) đó, thì hoàn toàn không có gì” ? Cái giác tri đó, đối đãi với Trần Tướng trước mắt mà có phân biệt, trần mất thì không có nữa, nên gọi là “Cái Tưởng hư vọng bám chấp lấy tướng”. Còn cái Bổn Giác thì chẳng nương theo Trần mà sanh diệt theo, nên mới gọi là Chân Tánh. Nhưng Chân Tánh chỉ có một mà thôi.
 Vì cái giác tri này che đậy cái Bổn Giác trước mắt, nên cái giác tri ấy thật là tên giặc của Bổn Giác. 
@@ -221,29 +226,34 @@ Ngài Vĩnh Gia nói : “Thật tánh của Vô Minh tức là Phật Tánh. Hu
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
+Ông Anan bạch Phật : “Thưa Thế Tôn, tôi là em yêu của Phật, vì lòng mến mộ Phật nên tôi xuất gia. Tâm tôi nào phải chỉ cúng dường Như Lai, mà còn khắp trải hằng sa quốc độ, thừa sự Chư Phật và các thiện trí thức. Phát đại dũng mãnh làm tất cả những pháp sự khó làm, đều dùng cái tâm này. Dầu cho hủy báng Chánh Pháp, đời đời lui sụt căn lành, cũng bởi cái tâm này.
+
+“Nay Phật phát minh cái này chẳng phải là tâm, tôi bèn không có tâm, giống như gỗ đá. Lìa cái giác tri này, rốt chẳng còn gì nữa. Tại sao Như Lai nói cái ấy không phải là tâm ? Tôi thật kinh sợ.
+Cùng với đại chúng đây, không ai là không nghi hoặc. Xin Phật rủ lòng từ bi, chỉ bày cho người chưa ngộ”.
 
 </div>
 </fieldset>
 <h5>💥 THÔNG rằng</h5>
-Ông Anan bạch Phật : “Thưa Thế Tôn, tôi là em yêu của Phật, vì lòng mến mộ Phật nên tôi xuất gia. Tâm tôi nào phải chỉ cúng dường Như Lai, mà còn khắp trải hằng sa quốc độ, thừa sự Chư Phật và các thiện trí thức. Phát đại dũng mãnh làm tất cả những pháp sự khó làm, đều dùng cái tâm này. Dầu cho hủy báng Chánh Pháp, đời đời lui sụt căn lành, cũng bởi cái tâm này.
 
-“Nay Phật phát minh cái này chẳng phải là tâm, tôi bèn không có tâm, giống như gỗ đá. Lìa cái giác tri này, rốt chẳng còn gì nữa. Tại sao Như Lai nói cái ấy không phải là tâm ? Tôi thật kinh sợ. 
-Cùng với đại chúng đây, không ai là không nghi hoặc. Xin Phật rủ lòng từ bi, chỉ bày cho người chưa ngộ”.
-
-⚡️ Thông rằng
-Ông Anan tình thức và sở kiến khô kiệt, mới nói là “Không có Tâm”, giống như gỗ đá. Chỗ này chính là nên thừa thọ đảm đương, thì đỡ được biết bao tâm lực. Sá gì một cái giác tri mà cứ ôm giữ lấy, sao chẳng chịu bỏ quách.
+Ông **Anan** tình thức và sở kiến khô kiệt, mới nói là “Không có Tâm”, giống như gỗ đá. 
+Chỗ này chính là nên thừa thọ đảm đương, thì đỡ được biết bao tâm lực. 
+Sá gì một cái giác tri mà cứ ôm giữ lấy, sao chẳng chịu bỏ quách.
 
 Xưa, thầy Đại Lãng, mới đầu đến tham vấn Đức Mã Tổ.
 
 Ngài hỏi : “Đến đây cầu gì ?”
 Đáp : “Cầu Tri Kiến Phật”.
 
-Tổ nói rằng : “Phật không có tri kiến, tri kiến(105) là Ma. 
-Ông từ đâu tới ?” Bạch rằng : “Từ Nam Nhạc(106) đến”. Tổ nói rằng : “Ông từ Nam Nhạc đến, mà chưa biết tâm yếu của Tào Khê(107). Ông mau trở về đó, chẳng nên đi nơi khác”.
+Tổ nói rằng : “Phật không có tri kiến, tri kiến (105) là Ma. Ông từ đâu tới ?” 
+
+Bạch rằng : “Từ Nam Nhạc (106) đến”. 
+
+Tổ nói rằng : “Ông từ Nam Nhạc đến, mà chưa biết tâm yếu của Tào Khê (107). 
+Ông mau trở về đó, chẳng nên đi nơi khác”.
 
 Thầy Lãng trở về Tổ Thạch Đầu, bạch hỏi : “Thế nào là Phật ?”
 
-Tổ Thạch Đầu(108) nói rằng : “Ngươi không có Phật Tánh”.
+Tổ Thạch Đầu (108) nói rằng : “Ngươi không có Phật Tánh”.
 
 Thầy Lãng nói rằng : “Các loài cựa quậy, bay nhảy lại ra làm sao ?”
 
@@ -260,10 +270,6 @@ Sự tiếp cơ dạy dỗ đại khái như thế. Há đâu phải lìa cái g
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Khi ấy, Thế Tôn khai thị cho Ông Anan và đại chúng, muốn cho được Vô Sanh Pháp Nhẫn. 
 Nơi tòa sư tử xoa đầu Ông Anan mà nói : “Như Lai thường nói : các pháp sanh ra đều duy tâm hiện. 
 Tất cả nhân quả, thế giới, trần đều do tâm mà thành thể. Anan, như trong các thế giới, hết thảy sự vật hiện có, cả đến ngọn cỏ, lá cây, sợi dây, thắt nút....tìm hỏi nguồn gốc thì đều có thể tánh. 
@@ -273,28 +279,47 @@ Ngay cả hư không còn có tên, có tướng, huống là cái Chân Tâm s�
 
 “Ta không bảo ông chấp cái ấy không phải là tâm, nhưng ông phải chính nơi tâm ông, suy xét chín chắn. Nếu rời tiền trần mà có tánh phân biệt, thì đó mới là Chân Tâm của ông. Còn nếu cái tánh phân biệt mà lìa tiền trần không có tự thể, thì nó chỉ là sự phân biệt bóng dáng tiền trần. Tiền trần không thường trụ, vậy khi chúng biến diệt, thì cái tâm nương vào tiền trần ấy cũng đồng như lông rùa sừng thỏ, ắt Pháp Thân của ông cũng đồng với đoạn diệt. Còn gì để chứng Vô Sanh Pháp Nhẫn ?”
 
-⚡️ Thông rằng
-Chỗ các pháp sanh ra, là độc chỉ do tâm biến hiện, như bóng hình trùng trùng đều độc chỉ trong cái gương hiện bày ra. Sáu trần như hình, cái phân biệt (Thức Tâm) như bóng. Bóng nhờ hình mà có, tâm thức nhờ cái trần mà có. Cái này đây ắt là sự phân biệt bóng dáng tiền trần(110). Dao động thuộc về tiền trần, yên tịnh thuộc về pháp trần. Cho nên, ở trong giữ cái trống rỗng u nhàn thì tuy không có bóng dáng tiền trần nhưng vẫn còn cái bóng dáng trống rỗng u nhàn, đó còn là sự phân biệt bóng dáng của pháp trần.
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
 
-Cái chấp ấy là cái Thức, mà chẳng phải là cái Bổn Giác Chân Tâm Thường Trụ. Chân Tâm Thường Trụ lìa khỏi tất cả phân biệt, như cái gương lớn tròn sáng(111) lìa khỏi cả hai thứ Động (sáu Trần) và Tĩnh (Thức). Cái Tâm này vốn tự không nhiễm, nên nói là Tịnh, nhiễm mà chẳng nhiễm, nên nói là Diệu Tịnh. Tất cả nhân quả, thế giới nhiều như vi trần, nhân nó mà lập thành, nó cũng là cái Bổn Tánh của vọng tâm tạo thành chín Cõi(112). Nên nói là cái Tánh của cả thảy Tâm. Nếu thấy Tâm này, thì lìa phân biệt mà an trụ Tự Tánh, đó là cái Tự Tánh không tùy theo phân biệt mà hoặc có hoặc không. Sắc lìa Thức phân biệt như trần lìa bóng, liền là Bản Thể của gương, Thể của gương không theo bóng của trần mà sanh mà diệt. Nếu chấp cái Giác Tri Phân Biệt làm Tự Tánh, tức là chấp bóng làm gương vậy. Cái Hay Biết Phân Biệt đó, đối với trần thì có, lìa trần thì không, như bóng trong gương, vốn không tự thể, rốt là đoạn diệt, như thế làm sao chứng Vô Sanh ? Cho nên, phải biết cái Tâm tự có bản thể, chẳng phải đoạn diệt.
+Chỗ các pháp sanh ra, là độc chỉ do tâm biến hiện, như bóng hình trùng trùng đều độc chỉ trong cái gương hiện bày ra. 
+6 trần như hình, cái phân biệt (Thức Tâm) như bóng. Bóng nhờ hình mà có, tâm thức nhờ cái trần mà có. 
+Cái này đây ắt là sự phân biệt bóng dáng tiền trần (110). Dao động thuộc về tiền trần, yên tịnh thuộc về pháp trần. 
+Cho nên, ở trong giữ cái trống rỗng u nhàn thì tuy không có bóng dáng tiền trần nhưng vẫn còn cái bóng dáng trống rỗng u nhàn, đó còn là sự phân biệt bóng dáng của pháp trần.
+
+Cái chấp ấy là cái Thức, mà chẳng phải là cái Bổn Giác Chân Tâm Thường Trụ. 
+Chân Tâm Thường Trụ lìa khỏi tất cả phân biệt, như cái gương lớn tròn sáng (111) lìa khỏi cả hai thứ Động (sáu Trần) và Tỉnh (Thức). 
+Cái Tâm này vốn tự không nhiễm, nên nói là Tịnh, nhiễm mà chẳng nhiễm, nên nói là Diệu Tịnh. Tất cả nhân quả, thế giới nhiều như vi trần, nhân nó mà lập thành, nó cũng là cái Bổn Tánh của vọng tâm tạo thành chín Cõi(112). Nên nói là cái Tánh của cả thảy Tâm. Nếu thấy Tâm này, thì lìa phân biệt mà an trụ Tự Tánh, đó là cái Tự Tánh không tùy theo phân biệt mà hoặc có hoặc không. Sắc lìa Thức phân biệt như trần lìa bóng, liền là Bản Thể của gương, Thể của gương không theo bóng của trần mà sanh mà diệt. Nếu chấp cái Giác Tri Phân Biệt làm Tự Tánh, tức là chấp bóng làm gương vậy. Cái Hay Biết Phân Biệt đó, đối với trần thì có, lìa trần thì không, như bóng trong gương, vốn không tự thể, rốt là đoạn diệt, như thế làm sao chứng Vô Sanh ? Cho nên, phải biết cái Tâm tự có bản thể, chẳng phải đoạn diệt.
 
 Đoạn trước, Phật quở “Cái đó chẳng phải là Tâm ông”, vì cái chỗ Ông Anan nhìn nhận chỉ là cái tâm đoạn diệt giả dối, chẳng phải là cái tâm Xưa Nay Chân Thật vậy. Chứ đâu phải thật không có tâm ư ?
 
-Tổ Huyền Sa(113) Sư Bị thượng đường rằng : “Hiện có một thuyết cho là : linh linh, sáng sáng là cái Trí Tánh linh đài, hay thấy, hay nghe, hướng vào trong miếng ruộng-thân ngũ uẩn làm chủ tể. Đó là kẻ dối gạt lớn của thiện trí thức, biết chăng ? Ta nay hỏi các ông, nếu nhận cái linh linh sáng sáng đó là cái Chân Thật của các ông, thì tại sao khi ngủ mê, lại chẳng còn là sáng sáng linh linh nữa ? Nếu lúc ngủ mê chẳng có thì tại sao lại có cái lúc sáng sáng, linh linh? Có hiểu chăng ?
+Tổ Huyền Sa (113) Sư Bị thượng đường rằng : “Hiện có một thuyết cho là : linh linh, sáng sáng là cái Trí Tánh linh đài, hay thấy, hay nghe, hướng vào trong miếng ruộng-thân ngũ uẩn làm chủ tể. Đó là kẻ dối gạt lớn của thiện trí thức, biết chăng ? Ta nay hỏi các ông, nếu nhận cái linh linh sáng sáng đó là cái Chân Thật của các ông, thì tại sao khi ngủ mê, lại chẳng còn là sáng sáng linh linh nữa ? Nếu lúc ngủ mê chẳng có thì tại sao lại có cái lúc sáng sáng, linh linh? Có hiểu chăng ?
 
-Cái đó gọi là nhận giặc làm con, là căn bản của sanh tử, tập khí duyên ra Vọng Tưởng. Các ông muốn biết căn do ư ? Ta nói cho nghe: Cái sáng sáng linh linh chỉ do tiền trần Sắc, Thinh, Hương, Vị, Xúc, Pháp mà có phân biệt, rồi nói bậy đó là cái sáng sáng linh linh. Nếu không tiền trần, thì cái sáng linh linh này của các ông, cũng như lông rùa sừng thỏ.
+Cái đó gọi là nhận giặc làm con, là căn bản của sanh tử, tập khí duyên ra Vọng Tưởng. Các ông muốn biết căn do ư ? 
 
-“Này các ông, cái Chân Thật ở tại chỗ nào ? Nay các ông muốn thoát khỏi cái chủ tể của ruộng-thân ngũ uẩn, chỉ cần biết nắm lấy cái Thể Kim Cang Bí Mật của các ông. Cổ nhân hướng về các ông mà nói : Trọn thành Chánh Biến, khắp đầy Pháp Giới. 
-Nay ta chút phần vì các ông, người Trí có thể qua thí dụ mà hiểu được. Các ông có thấy mặt trời của Nam Diêm Phù Đề không ? Cái chỗ sanh sống của người đời : làm lụng, kinh doanh, nuôi sống sinh mạng, đủ thứ tâm hành, không gì chẳng nhờ ánh sáng mặt trời mà thành lập. Vậy mà cái thể của mặt trời có chăng bấy nhiêu tâm hành ? Vậy mà có chỗ nào mà không cùng khắp ?
+Ta nói cho nghe: Cái sáng sáng linh linh chỉ do tiền trần Sắc, Thinh, Hương, Vị, Xúc, Pháp mà có phân biệt, rồi nói bậy đó là cái sáng sáng linh linh. Nếu không tiền trần, thì cái sáng linh linh này của các ông, cũng như lông rùa sừng thỏ.
+
+“Này các ông, cái Chân Thật ở tại chỗ nào? 
+Nay các ông muốn thoát khỏi cái chủ tể của ruộng thân ngũ uẩn, chỉ cần biết nắm lấy cái Thể Kim Cang Bí Mật của các ông. 
+Cổ nhân hướng về các ông mà nói : Trọn thành Chánh Biến, khắp đầy Pháp Giới. 
+Nay ta chút phần vì các ông, người Trí có thể qua thí dụ mà hiểu được. 
+Các ông có thấy mặt trời của Nam Diêm Phù Đề không? 
+
+Cái chỗ sanh sống của người đời : làm lụng, kinh doanh, nuôi sống sinh mạng, đủ thứ tâm hành, không gì chẳng nhờ ánh sáng mặt trời mà thành lập. 
+Vậy mà cái thể của mặt trời có chăng bấy nhiêu tâm hành ? Vậy mà có chỗ nào mà không cùng khắp ?
 
 “Muốn biết cái Thể Kim Cang, cũng phải nhìn như thế. Chỉ như hiện đây, núi sông, đất rộng, mười phương cõi nước, sắc không, sáng tối, cho đến thân tâm các ông, không có cái gì mà chẳng trọn nhờ cái Oai Quang Viên Thành ấy của các ông mà hiển bày. 
 Ngay đến Trời, người, chúng sanh, Nghiệp Báo, Hữu Tình, Vô Tình không có cái gì chẳng trọn nhờ cái Oai Quang của các ông. 
 Cho đến chư Phật, thành Đạo, thành Quả, tiếp vật lợi sanh, không gì mà chẳng trọn nhờ Oai Quang của các ông. 
-Như cái Thể Kim Cương ấy, có phàm phu cùng chư Phật không ? Có tâm hành của các ông không ? Không thể nói là không có, bèn tận dụng được vậy. 
+Như cái Thể Kim Cương ấy, có phàm phu cùng chư Phật không ? 
+Có tâm hành của các ông không ? 
+Không thể nói là không có, bèn tận dụng được vậy. 
 Biết không ?” Tổ Huyền Sa nhờ xem Lăng Nghiêm mà phát minh tâm địa. 
 
 Do đó, Ngài ứng cơ nhạy bén, thầm hợp với khế kinh. 
-Đoạn Ngài nói ở trên, mỗi mỗi đều chẳng khác ý chỉ của kinh, cho đến nói “Tất cả đều nhờ vào lực của Oai Quang”, cùng với câu kinh “Các pháp sinh ra là duy một tâm hiện” lại càng thần diệu.
+Đoạn Ngài nói ở trên, mỗi mỗi đều chẳng khác ý chỉ của kinh, cho đến nói “Tất cả đều nhờ vào lực của Oai Quang”, cùng với câu kinh 
+“Các pháp sinh ra là duy một tâm hiện” lại càng thần diệu.
 
 Lại nữa, Tổ Trúc Am Khuê(114), kế pháp của Tổ Phật Nhãn, cùng với người bác là cư sĩ Trì Nhất, cùng thích Lăng Nghiêm.
 
@@ -321,16 +346,13 @@ khéo chuyển Lăng Nghiêm thì một đoạn chân phong “Thấy do lìa th
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
+Khi ấy Ông Anan cùng tất cả đại chúng lặng im, ngơ ngác. Phật bảo Ông Anan : “Hết thảy những người tu học trong thế gian, hiện tuy thành được chín bậc Định thứ lớp mà chẳng được hết lậu(116) để thành A La Hán, đều do chấp lấy cái vọng tưởng sanh tử này mà lầm cho là chân thật. Thế nên, ông nay tuy được đa văn mà không thành quả Thánh”.
 
 </div>
 </fieldset>
 <h5>💥 THÔNG rằng</h5> 
-Khi ấy Ông Anan cùng tất cả đại chúng lặng im, ngơ ngác. Phật bảo Ông Anan : “Hết thảy những người tu học trong thế gian, hiện tuy thành được chín bậc Định thứ lớp mà chẳng được hết lậu(116) để thành A La Hán, đều do chấp lấy cái vọng tưởng sanh tử này mà lầm cho là chân thật. Thế nên, ông nay tuy được đa văn mà không thành quả Thánh”.
 
-
-⚡️ Thông rằng : 
-
-9 bậc Định thì sau này có nêu ra : Tứ Thiền, Tứ Không... nhưng chỉ nói quả vị mà không nói cách tu. 
+9 bậc Định thì sau này có nêu ra: Tứ Thiền, Tứ Không... nhưng chỉ nói quả vị mà không nói cách tu. 
 Đây nói là người tu hành 9 bậc Định thứ lớp, vì từ một bậc thiền này sang bậc thiền kia, theo thứ tự mà tu. 
 Như Đại Bát Nhã nói “Lìa Dục, Ác, Bất Thiện Pháp, có tìm có xét. 
 Lìa thì sanh Hỷ, Lạc, nhập Sơ Thiền. 
@@ -371,18 +393,18 @@ Than ôi ! Thuốc pháp Đại Thừa còn chẳng thể giúp, huống là ch�
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
+Ông Anan nghe xong lại đau xót khóc lóc, năm vóc gieo xuống đất, quỳ thẳng chấp tay mà bạch Phật: 
+“Từ khi tôi theo Phật phát lòng xuất gia, ỷ lại oai thần của Phật, thường tự nhủ : chẳng nhọc đến mình tu, Như Lai sẽ ban cho mình Pháp Chánh Định, mà chẳng biết rằng thân tâm không thể thay thế. Bỏ mất Bản Tâm của mình, nên tuy thân thể xuất gia, tâm chẳng nhập đạo. Ví như đứa con cùng khổ, bỏ cha trốn lánh. Ngày nay mới biết : dù có đa văn, nếu chẳng tu hành thì có khác gì người chưa được nghe, như người nói chuyện ăn thì rốt cuộc chẳng được no.
+
+“Thưa Thế Tôn, chúng tôi giờ đây bị hai Chướng buộc ràng, là do chẳng biết cái Tâm Tánh Tịch Thường.
+Độc chỉ cầu xin Như Lai xót thương kẻ cùng đường, mà khai phát cái Tâm Diệu Minh, mở con mắt đạo cho tôi”.
 
 </div>
 </fieldset>
 <h5>💥 THÔNG rằng</h5>
-Ông Anan nghe xong lại đau xót khóc lóc, năm vóc gieo xuống đất, quỳ thẳng chấp tay mà bạch Phật: 
-“Từ khi tôi theo Phật phát lòng xuất gia, ỷ lại oai thần của Phật, thường tự nhủ : chẳng nhọc đến mình tu, Như Lai sẽ ban cho mình Pháp Chánh Định, mà chẳng biết rằng thân tâm không thể thay thế. Bỏ mất Bản Tâm của mình, nên tuy thân thể xuất gia, tâm chẳng nhập đạo. Ví như đứa con cùng khổ, bỏ cha trốn lánh. Ngày nay mới biết : dù có đa văn, nếu chẳng tu hành thì có khác gì người chưa được nghe, như người nói chuyện ăn thì rốt cuộc chẳng được no.
 
-“Thưa Thế Tôn, chúng tôi giờ đây bị hai Chướng buộc ràng, là do chẳng biết cái Tâm Tánh Tịch Thường. 
-Độc chỉ cầu xin Như Lai xót thương kẻ cùng đường, mà khai phát cái Tâm Diệu Minh, mở con mắt đạo cho tôi”.
-
-⚡️ Thông rằng
-Bỏ cha trốn đi thì ở kinh Pháp Hoa cũng có ví dụ. Cùng đường ở phương xa, mong được chỉ cho hạt châu trong áo, dần dần có ý muốn về nhà.
+Bỏ cha trốn đi thì ở kinh **Pháp Hoa** cũng có ví dụ. 
+Cùng đường ở phương xa, mong được chỉ cho hạt châu trong áo, dần dần có ý muốn về nhà.
 
 Hai cái Chướng là Phiền Não Chướng và Sở Tri Chướng. 
 Phiền Não Chướng thì chướng ngại tâm, tâm chẳng giải thoát, kết nghiệp mà thọ quả báo. 
@@ -447,19 +469,18 @@ Các vị lão túc một phen chỉ ra phương tiện về nhà.
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Liền khi ấy, Như Lai từ chữ VẠN ở ngực, phóng ra ánh sáng báu. 
 Hào quang ấy rực rỡ, có trăm ngàn sắc, chiếu khắp cùng một lúc tất cả thế giới chư Phật mười phương, số như vi trần. 
 Hào quang rưới khắp đảnh các Như Lai của mười phương cõi báu, xoay về soi đến Ông Anan và cả đại chúng.
 
-Phật bảo Ông Anan: 
+Phật bảo Ông Anan:
 “Ta nay vì ông dựng cờ Pháp lớn, cũng khiến cho tất cả chúng sanh của 10 phương được cái Tâm Tánh nhiệm mầu, vi mật, sáng sạch và được con Mắt Trong Sạch (Thanh Tịnh Nhãn).
 
-⚡️ Thông rằng
-Trước thì từ mặt phóng ra ánh sáng, mười phương cõi nước đồng thời khai hiện, khiến tất cả thế giới hợp thành một cõi, là biểu thị Chân Vọng chẳng hai. Chỉ bày hai loại Căn Bản, thì lấy Đoạn Vọng làm đầu vì vọng tưởng chẳng dứt thì dù đến chín bậc Định thứ lớp cũng chẳng thành quả Thánh. Cái mặt mũi ấy có thể nghiệm xét mà thấy như soi gương vậy. Nay từ chữ VẠN ( ) ở ngực phóng ra ánh sáng, rưới đảnh của chư Như Lai rồi trở về chiếu Anan và đại chúng, là biểu thị Thánh phàm chẳng hai. Chỉ bày rằng tiền trần tự tối, cái Thấy nào có thiếu hụt. Nhẫn đến cái đầu tự động chao, cái Thấy hoàn toàn chẳng động. Bàn tay tự mở, nắm; cái Thấy không có trải ra, cuốn lại. Đó là chỉ ra một đường hướng thượng, người người sẵn đủ, khả dĩ an ấn (truyền pháp yếu) vậy.
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+Trước thì từ mặt phóng ra ánh sáng, mười phương cõi nước đồng thời khai hiện, khiến tất cả thế giới hợp thành một cõi, là biểu thị **Chân Vọng** chẳng hai. Chỉ bày hai loại Căn Bản, thì lấy Đoạn Vọng làm đầu vì vọng tưởng chẳng dứt thì dù đến chín bậc Định thứ lớp cũng chẳng thành quả Thánh. Cái mặt mũi ấy có thể nghiệm xét mà thấy như soi gương vậy. Nay từ chữ VẠN ( ) ở ngực phóng ra ánh sáng, rưới đảnh của chư Như Lai rồi trở về chiếu Anan và đại chúng, là biểu thị Thánh phàm chẳng hai. Chỉ bày rằng tiền trần tự tối, cái Thấy nào có thiếu hụt. Nhẫn đến cái đầu tự động chao, cái Thấy hoàn toàn chẳng động. Bàn tay tự mở, nắm; cái Thấy không có trải ra, cuốn lại. Đó là chỉ ra một đường hướng thượng, người người sẵn đủ, khả dĩ an ấn (truyền pháp yếu) vậy.
 
 Xưa, Tổ Ngưỡng Sơn đang ngồi, có vị tăng đến làm lễ. Tổ Sơn chẳng đoái hoài.
 
@@ -510,15 +531,13 @@ Tổ Quy rằng : “Như thế, như thế”. Chỉ do Tổ Ngưỡng Sơn hi�
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
+“Ông Anan, trước đây ông đã trả lời Ta rằng thấy nắm tay chói sáng. 
+Sự chói sáng ấy của nắm tay do đâu mà có ? Làm sao thành ra nắm tay ? Ông lấy cái gì mà thấy ?”
 </div>
 </fieldset>
 <h5>💥 THÔNG rằng</h5>
-“Ông Anan, trước đây ông đã trả lời Ta rằng thấy nắm tay chói sáng. 
-Sự chói sáng ấy của nắm tay do đâu mà có ? Làm sao thành ra nắm tay ? Ông lấy cái gì mà thấy ?”
 
-⚡️ Thông rằng : 
-Đây là lần dẫn dụ từ từ thứ ba của Thế Tôn, có thể nói là tâm Lão Bà(120) quá tha thiết. 
+Đây là lần dẫn dụ từ từ thứ ba của **Thế Tôn**, có thể nói là tâm Lão Bà (120) quá tha thiết. 
 Trước đã hỏi “Ông lấy gì thấy ?” Ông Anan trả lời “Đều lấy mắt mà thấy” để rồi bị Phật quở nhận giặc làm con. 
 Đến đây hỏi lại “Ông lấy gì thấy ?”, chính là muốn Ông Anan hồi quang phản chiếu để hốt nhiên thấy được cái Kiến Tính Minh Nguyên(121), chẳng do con Mắt. 
 Tiếc thay, ông chẳng tỉnh ngộ được.
@@ -540,10 +559,6 @@ Phải chi Ông Anan tự biết cái Kiến Xứ ấy chẳng có cái Kiến (
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Ông Anan thưa : “Toàn thân Phật như vàng Diêm Phù Đàn, sáng ngời như núi báu, do Thanh Tịnh sanh ra nên có ánh sáng. Quả thật, tôi lấy mắt mà thấy năm ngón tay Phật co nắm lại, đưa ra cho đại chúng coi, nên có tướng nắm tay”.
 
 Phật bảo Ông Anan : “Như Lai hôm nay, xác thật dạy ông. Những người có Trí cần lấy thí dụ mà được khai ngộ.
@@ -554,10 +569,14 @@ Phật bảo Ông Anan : “Như Lai hôm nay, xác thật dạy ông. Những n
 
 Phật bảo Ông Anan : “Ông nói giống nhau, nghĩa ấy không đúng. Vì sao thế
 
-Như người không có bàn tay thì tuyệt nhiên không có nắm tay. 
+Như người không có bàn tay thì tuyệt nhiên không có nắm tay.
 Còn người không có mắt kia, không phải hoàn toàn không thấy. Tại sao như thế ? Ông thử ra đường hỏi người mù : Anh thấy gì ? Những người mù chắc sẽ trả lời : Hiện nay trước mắt tôi chỉ thấy tối đen, chứ không thấy gì khác. Lấy nghĩa ấy mà xét thì tiền trần tự tối, chứ cái thấy nào có hao kém gì ?”
 
-⚡️ Thông rằng : Vì sao Đức Thế Tôn lại lấy người mù làm ví dụ ? Bởi vì, Ông Anan chấp chặt lấy cái Thấy của con mắt làm cái Thấy Chân Thật, vậy là chẳng rời Căn và Trần, mà Thức sanh ra ở giữa.
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+Vì sao **Đức Thế Tôn** lại lấy người mù làm ví dụ ? Bởi vì, Ông Anan chấp chặt lấy cái Thấy của con mắt làm cái Thấy Chân Thật, vậy là chẳng rời Căn và Trần, mà Thức sanh ra ở giữa.
 
 Người mù không có mắt, sao cũng thấy tối thui ? 
 Do đó, có thể biết rằng : chờ có Nhãn Căn mới thấy, đó là cái thấy của tiền trần phân biệt, chẳng phải là cái thấy của cái Vốn Xưa Nay Trong Sạch(122) vậy. 
@@ -586,10 +605,6 @@ Sau này, Tổ Pháp Nhẫn nói rằng : “Con mắt ấy của Tướng Công
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Ông Anan thưa : “Trước mắt những người mù chỉ thấy tối đen, sao gọi là thấy được?”
 
 Phật bảo Ông Anan : “Các người mù không có con mắt chỉ thấy tối đen, so với người có mắt ở trong nhà tối, thì hai cái tối đen ấy khác nhau hay không khác nhau ?”
@@ -598,8 +613,11 @@ Thật vậy, thưa Thế Tôn, người có mắt ở trong nhà tối với nh
 
 Anan, nếu người mù không có mắt, thấy trước mắt hoàn toàn tối đen, bỗng nhiên được con mắt sáng thì thấy lại nơi tiền trần đủ mọi loại sắc mà gọi là con mắt thấy; thì người ở trong nhà tối kia, thấy trước mắt hoàn toàn tối đen bỗng nhiên được cái đèn sáng, nên thấy nơi tiền trần đủ mọi loại sắc, lẽ ra phải gọi là cái đèn thấy. Nếu cái đèn tự nó thấy được, thì không thể gọi là đèn. Lại ngọn đèn nó thấy, thì liên can gì tới ông ! Vậy, nên biết rằng : Đèn làm sáng các hình sắc, nhưng thấy như vậy là Mắt chứ không phải đèn. Mắt làm sáng tỏ các Sắc, nhưng Tánh Thấy như vậy là Tâm chứ chẳng phải là Mắt.
 
-⚡️ Thông rằng
-Đây là Đức Thế Tôn phân tích rõ ràng, nên nói là “Xác thật bảo ông”. Đèn và con Mắt, đều là cái duyên cho sự thấy, thể của chúng chẳng phải Hay Thấy. 
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+Đây là **Đức Thế Tôn** phân tích rõ ràng, nên nói là “Xác thật bảo ông”. Đèn và con Mắt, đều là cái duyên cho sự thấy, thể của chúng chẳng phải Hay Thấy. 
 Cái Hay Thấy là tâm vậy. Ở trước, nói “Cửa có thấy không ?” là đã đủ nghĩa này. 
 Ở đây, lại lấy ngọn Đèn ví dụ là con mắt, lấy Mắt mà so với Tâm. Đèn không thể thấy, Mắt có thể thấy được sao ? 
 Cái Thấy của con Mắt chẳng phải là Tánh Thấy. Nếu sáu Căn có thể dùng thay nhau, thì Tai cũng thấy được vậy, đâu phải chỉ có mắt mới thấy. 
@@ -640,16 +658,15 @@ Thế mới biết Thế Tôn nói rằng cái thấy đó là con mắt chớ c
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Ông Anan tuy được nghe lời Phật dạy như vậy, cùng với đại chúng miệng tuy im lặng nhưng Tâm chưa khai ngộ, còn mong Như Lai từ tâm chỉ bày, chắp tay lắng lòng đợi Phật thương xót dạy bảo.
 
 Bấy giờ, Đức Thế Tôn duỗi tay Đâu La Miên sáng ngời, mở năm ngón tay mà bảo Ông Anan và đại chúng rằng : “Lúc Ta vừa thành đạo ở vườn Lộc Uyển có dạy nhóm Ông A Nhã Đa năm vị Tỳ kheo và bốn chúng rằng : Tất cả chúng sanh không thành Bồ Đề cùng bậc A La Hán đều do những phiền não khách trần mê hoặc. Lúc ấy, các ông nhờ đâu mà khai ngộ, đắc thành Thánh quả ?”
 
-⚡️ Thông rằng
-Đức Thế Tôn lời thật chỉ bày rõ ràng mà Ông Anan và đại chúng còn chưa khai ngộ cũng vì cơ duyên chưa dễ nhóm tụ. 
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+**Đức Thế Tôn** lời thật chỉ bày rõ ràng mà Ông **Anan** và đại chúng còn chưa khai ngộ cũng vì cơ duyên chưa dễ nhóm tụ. 
 Do lòng từ bi, Đức Thế Tôn còn e lời nói vi diệu chưa dễ hiểu được. 
 Nhưng trong hàng tỳ kheo cũng có vị đã hiểu ngộ rồi, vậy thì dùng chỗ đã hiểu biết dìu dẫn cho hiểu biết thì dễ dàng ngộ nhập. 
 Bởi thế nên dạy các vị tỳ kheo mỗi vị tự thuật lại nguyên do khai ngộ để Ông Anan dễ lãnh ngộ. Đoạn sau, hai mươi lăm vị Thánh thuật lại chỗ chứng Viên Thông của mình cũng là dùng cách này. Ở đây là Biết Vọng sau mới Chứng Chơn, không phải không có chỗ sâu cạn khác nhau, nhưng phương tiện dắt dẫn chỉ là một.
@@ -692,10 +709,6 @@ chỗ này mà tin tới được, mới biết việc chỉ bày ở Lộc Viê
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Khi ấy, Ông Kiều Trần Na đứng dậy bạch Phật: 
 “Tôi nay già cả, ở trong đại chúng riêng được cái danh là Hiểu. 
 Do tôi ngộ được hai chữ Khách Trần mà thành quả. 
@@ -709,8 +722,11 @@ Tôi lấy Sự lay động làm ý nghĩa chữ Trần”.
 
 Đức Phật nói: “Chính vậy”.
 
-⚡️ Thông rằng
-Khách là thí dụ cho cái thô trọng của Sở Tri ; Trần là ví dụ cho cái vi tế của phiền não. 
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+**Khách** là thí dụ cho cái thô trọng của Sở Tri; **Trần** là ví dụ cho cái vi tế của phiền não. 
 Niệm niệm đổi dời, sanh ra rồi diệt mất chẳng ngừng, nên thí dụ như khách đi đường vào trọ quán xá. 
 Khởi lên sự mê lầm, gây ra nghiệp, bỏ cũ theo mới, nên thí dụ là  ăn, ngủ xong thì thu dọn lên đường. 
 Cái Chân Tánh Thường Trụ vốn chẳng có chuyện ấy, nên thí dụ như người chủ chẳng đi đâu cả. 
@@ -732,10 +748,6 @@ Nếu ở chỗ này mà soi ra được rành rẽ, thì quả thật là vị 
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Khi ấy, Đức Như Lai ở giữa đại chúng nắm năm ngón tay lại. Nắm rồi lại mở, mở rồi lại nắm.
 
 Rồi hỏi Ông Anan rằng : “Nay ông thấy gì?”
@@ -751,10 +763,11 @@ Phật bảo : “Cái gì Động, cái gì Tĩnh ?”
 Ông Anan thưa : “Bàn tay Phật không yên, chứ Tánh Thấy của tôi còn không có tĩnh, lấy gì gọi là không ở yên được ?”
 
 Phật dạy : “Đúng thế”.
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
 
-⚡️ Thông rằng : 
-
-Ông Kiều Trần Na nhờ ngộ hai chữ Khách Trần, chỉ rõ biết được cái bờ mé của phiền não. 
+Ông **Kiều Trần Na** nhờ ngộ hai chữ Khách Trần, chỉ rõ biết được cái bờ mé của phiền não. 
 Đức Thế Tôn ắt chỉ ngay (Trực Chỉ) cái Bồ Đề mà nói. Trước hết là ở nơi ngoại cảnh mà biện rõ cái Chân Tánh. 
 Cảnh có nắm mở mà cái Thấy thì không động hay tĩnh, đây là chỗ người ta dễ biết. Đức Thế Tôn nhân cái chỗ dễ biết đó mà dẫn dắt. 
 Quả nhiên, Ông Anan tin là cái tay có nắm có mở, còn cái Thấy không có nắm mở, mà nói “Tánh Thấy của tôi còn không có cả cái tĩnh, lấy gì gọi là không ở yên ?” Tìm tướng động tĩnh tuyệt chẳng thể được. Cũng gần thấy được vị chủ nhân thường trụ rồi. Nếu không phải là sự thức tỉnh vi diệu của Thế Tôn làm sao được như vậy.
@@ -817,10 +830,6 @@ Sao lại chẳng bắt chước cái kế của con rùa đui ?
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
-
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
 Lúc ấy, Như Lai từ trong bàn tay phát ra một đạo hào quang báu qua bên phải Ông Anan, Ông Anan liền quay đầu trông qua bên phải. 
 Phật lại phóng ra một đạo hào quang qua bên trái Ông Anan, Ông Anan lại quay đầu trông qua bên trái.
 
@@ -833,14 +842,17 @@ Phật bảo Ông Anan : “Hôm nay đầu ông vì sao dao động ?”
 -Thưa Thế Tôn, đầu tôi tự động chứ Tánh Thấy của tôi thì dừng đứng còn chẳng có, lấy gì mà dao động ?
 
 Phật dạy : “Đúng vậy”.
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
 
-⚡️ Thông rằng 
-Đoạn này là ở trong thân mà biện rõ cái Chân Tánh : đầu tự dao động, còn cái Thấy (Tâm Tánh) không chỗ động. 
+Đoạn này là ở trong thân mà biện rõ cái **Chân Tánh**: đầu tự dao động, còn cái Thấy (Tâm Tánh) không chỗ động. 
 So với đoạn trước, tay tự nắm mở, còn cái Thấy không có chỗ động thì lại càng vi mật. 
-Ở nơi thân của một người, có thấy động tức là đầu động, làm sao nói được là đầu tự động lay mà cái Thấy thì không động ? 
+
+Ở nơi thân của một người, có thấy động tức là đầu động, làm sao nói được là đầu tự động lay mà cái Thấy thì không động? 
 Cái tùy theo đầu mà có phải có trái ấy là Tình Kiến. 
 Cái chẳng theo đầu mà có động có tĩnh là Chân Kiến (cái Thật Tánh). Tình Kiến thuộc Thức, nên có khởi có diệt. 
-Chân Kiến thuộc Tánh, vốn không làm, không dừng lại. Làm sao nghiệm chuyện này ?
+Chân Kiến thuộc Tánh, vốn không làm, không dừng lại. Làm sao nghiệm chuyện này?
 Đầu có động, có tĩnh thì có thể thấy được, cái Thấy không có động tĩnh để có thể chỉ ra. Bởi thế, nên biết cái không có động tĩnh để chỉ ra được, đó là Chân Kiến. Trước đây, Ông Anan chấp Thức làm Tâm, chỉ biết Tình Kiến mà cho là cái Thấy. Nay nhờ phương tiện chỉ dạy của Như Lai, cái Trí Sáng tạm hiện ra, mới tin hiểu đầu tự dao động còn cái Thấy thì không chỗ động. 
 Cái Tánh Thấy vốn chẳng động này, thì động cũng như thế, tĩnh cũng như thế; khi thấy chẳng phải có, khi không thấy chẳng phải là không, trong ấy còn không có cái ngừng yên, có gì mà dao động. Đó là cái Thể Không Tịch Ly Trần vậy. Ông Anan đối theo đây mà biết Tánh đó vậy. Đã nói là biết Tánh, sao còn lắm thứ đa nghi ? Ấy vì Ông Anan nhờ Phật đưa bàn tay ra, rồi phóng ánh sáng, lại nắm mở bàn tay, so sánh với đầu dao động. Cái Thấy bàn tay nắm mở không động, cái Thấy của đầu day qua phải qua trái cũng không động. Đây là cái biết do suy nghĩ đo lường chứ không phải là sự nhiệm mầu của tự mình tỏ ngộ. “Theo cửa mà vào, chẳng phải của báu trong nhà”, ở đây lại càng rõ ràng tin hiểu.
 
@@ -876,13 +888,15 @@ Hãy nói hai Ngài Vô Nghiệp và Ngũ Duệ quay đầu, chuyển não thì 
 <fieldset>
 <legend><h4>⚡️ KINH</h4></legend>
 <div style="color: var(--color-accent-darkorange)">
+Lúc bấy giờ Như Lai bảo với cả đại chúng: 
 
+“Như các chúng sanh lấy cái dao động mà gọi là Trần, lấy cái không ở yên mà gọi là Khách, thì các ông hãy xem Ông Anan
+đầu tự dao động mà cái Thấy không có chỗ động; lại hãy xem bàn tay Ta tự mở tự nắm mà cái Thấy không duỗi không co. 
+Cớ sao các ông hiện nay lại lấy cái động làm thân, lấy cái động làm cảnh, từ đầu đến cuối niệm niệm sanh diệt, bỏ mất Chân Tánh, làm việc điên đảo, mất chỗ Chân Thật, nhận Vật làm Mình, luân hồi trong ấy, tự mình chọn lấy sự trôi nổi đổi thay?”
 </div>
 </fieldset>
 <h5>💥 THÔNG rằng</h5>
-Lúc bấy giờ Như Lai bảo với cả đại chúng: “Như các chúng sanh lấy cái dao động mà gọi là Trần, lấy cái không ở yên mà gọi là Khách, thì các ông hãy xem Ông Anan : đầu tự dao động mà cái Thấy không có chỗ động; lại hãy xem bàn tay Ta tự mở tự nắm mà cái Thấy không duỗi không co. Cớ sao các ông hiện nay lại lấy cái động làm thân, lấy cái động làm cảnh, từ đầu đến cuối niệm niệm sanh diệt, bỏ mất Chân Tánh, làm việc điên đảo, mất chỗ Chân Thật, nhận Vật làm Mình, luân hồi trong ấy, tự mình chọn lấy sự trôi nổi đổi thay ?”
 
-⚡️ Thông rằng: 
 Bàn tay của Phật chẳng dừng trụ, mà Tánh Thấy thường trụ, đó là Chủ Nhân Ông chân thật. 
 Đầu tự dao động, Tánh Thấy không động, thật là cái Thể Chơn Không. Nay chẳng nhận Chủ mà nhận Khách, chẳng nhận cái Không mà nhận cái Trần, há chẳng phải là làm chuyện điên đảo hay sao? Cũng vì niệm niệm sanh diệt, phiền não nối nhau, đến nỗi bỏ mất Chân Tánh, chẳng nên đạo Bồ Đề, là do Khách Trần mê hoặc mới đến nỗi như thế.
 
@@ -897,33 +911,40 @@ Trước, nói “Tất cả chúng sanh từ vô thủy đến nay, sanh tử n
 Dùng các vọng tưởng, những tưởng này chẳng chân thật nên có luân chuyển”. 
 Chính là nói chỗ này.
 
-Xưa, Tổ Động Sơn hỏi một vị tăng :
-“Ông tên gì?”
+Xưa, Tổ Động Sơn hỏi một vị tăng: “**Ông tên gì**?”
 
-Đáp : “Tôi đây”.
+Đáp: “_Tôi đây_”
 
-Tổ Sơn hỏi : “Vậy cái gì là Chủ Nhơn Ông của thầy Xà Lê ?” Đáp : “Cái Thấy đối diện”.
+Tổ Sơn hỏi: “**Vậy cái gì là Chủ Nhơn Ông của thầy Xà Lê**?” 
 
-Tổ Sơn rằng : “Khổ thay, khổ thay ! Người đời nay hết thảy đều như thế này. 
+Đáp : “_Cái Thấy đối diện_”
+
+Tổ Sơn rằng: 
+“**Khổ thay, khổ thay ! Người đời nay hết thảy đều như thế này. 
 Chỉ nhận ra lừa trước, ngựa sau(132) đấy thôi mà lấy làm cái Chính Mình. 
-Phật Pháp chìm đắm là do đó vậy. Chủ trong Khách(133) còn chưa phân biệt được, làm sao phân biệt nổi Ông Chủ trong Chủ (Chủ trung Chủ)”.
+Phật Pháp chìm đắm là do đó vậy. Chủ trong Khách(133) còn chưa phân biệt được, làm sao phân biệt nổi Ông Chủ trong Chủ (Chủ trung Chủ)**”
 
-Vị tăng liền hỏi : “Như sao là Chủ trong Chủ ?”
+Vị tăng liền hỏi: “_Như sao là Chủ trong Chủ_?”
 
-Tổ Sơn nói : “Thầy Xà Lê tự nói lấy”. 
+Tổ Sơn nói: “**Thầy Xà Lê tự nói lấy**”
 
-Vị tăng đáp : “Tôi mà nói được thì đó là Chủ trong Khách, còn như thế nào là Chủ trong Chủ ?”
+Vị tăng đáp: “_Tôi mà nói được thì đó là **Chủ** trong **Khách**, còn như thế nào là Chủ trong Chủ_?”
 
-Tổ Sơn nói rằng : “Nói ra thì dễ biết bao, mà tương tục nối nhau thì quá khó !”
+Tổ Sơn nói rằng: “**Nói ra thì dễ biết bao, mà tương tục nối nhau thì quá khó**!”
 
-Bèn khai thị bằng bài tụng :
+Bèn khai thị bằng bài tụng:
 
 > Ôi thấy đời nay học đạo đông
+> 
 > Ngàn ngàn vạn vạn nhận cửa ngoài
+> 
 > Cũng tợ vào kinh chầu Vua Thánh Chúa
+> 
 > Chỉ đến cửa triều đã vội ngừng
 
-Do đây mà xét, thật Thức Tình Phân Biệt mà so với cái Kiến Tinh Bất Động hãy còn cách xa mấy dặm đường, mà cái Kiến Tinh Bất Động so với Chân Tánh Tịch Thường vẫn còn phải tự mình biện biệt. Như đoạn kinh sau nói “Thấy do lìa Thấy, cái Thấy không bì kịp”, thì cơ hồ đã vượt cửa triều mà thấy Vua rồi đó.
+Do đây mà xét, thật Thức Tình Phân Biệt mà so với cái Kiến Tinh Bất Động hãy còn cách xa mấy dặm đường, mà cái Kiến Tinh Bất Động so với Chân Tánh Tịch Thường vẫn còn phải tự mình biện biệt. 
+
+Như đoạn kinh sau nói “Thấy do lìa Thấy, cái Thấy không bì kịp”, thì cơ hồ đã vượt cửa triều mà thấy Vua rồi đó.
 
 <hr class="blog-rule" />
 

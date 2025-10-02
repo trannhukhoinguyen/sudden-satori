@@ -29,7 +29,7 @@ export default defineConfig({
         return {
           ...item,
           lastmod: new Date().toISOString(), // thêm ngày build
-          changefreq: "daily",              // tần suất crawl
+          changefreq: "monthly",              // tần suất crawl
           priority: item.url === "/" ? 1.0 : 0.8, // trang chủ ưu tiên cao hơn
         };
       },
