@@ -627,7 +627,7 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 <hr class="blog-rule" />
 
-### GHI CHÚ
+## GHI CHÚ
 
 [^1]: Tây Thục: tỉnh Tứ Xuyên, Trung Quốc.
 
@@ -923,10 +923,10 @@ d- Tân khán tân: người khách nhìn rõ về họ, như có người học
 
 ## NGUỒN
 
-> ✨ https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap
+> ✨ <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">Bài gốc</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^^1]: ⭐️ ...
+[^1]: ⭐️ ...
