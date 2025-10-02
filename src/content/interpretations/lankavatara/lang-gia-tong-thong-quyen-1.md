@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 1
+title: "Lăng Già Tông Thông - Quyển 1"
 description: ""
 authors: 
     - Tăng Phụng Nghi
@@ -60,22 +60,10 @@ cõi giới đâu làm nghiêng thế đức từ tôn
 dung màu Tuy nhiên gọi vội tôi chấn động
 
 năm vóc tập Lại tâm ý rộng ra kính nghe
-
-lời chỉ dạy ngài dạy rằng phân biệt là
-
-thức vô phân biệt là Trí từ sáng sớm tôi
-
-gọi đến hỏi hay bị tăng lời này phát
-
-xuất từ kênh nào cả hai điều nói giống
-
-lời Kinh Lăng già
-
-tôi liền lấy kinh lăng-già lục sen mà
-
-chẳng thấy đến năm Đinh Dậu ta đi cùng
-
-vị tăng xưa qua cổng thành vào kinh đô
+lời chỉ dạy ngài dạy rằng phân biệt là thức vô phân biệt là Trí 
+từ sáng sớm tôi gọi đến hỏi hay bị tăng lời này phát xuất từ kênh nào 
+cả hai điều nói giống lời Kinh Lăng già
+tôi liền lấy kinh lăng-già lục sen mà chẳng thấy đến năm Đinh Dậu ta đi cùng vị tăng xưa qua cổng thành vào kinh đô
 
 về này rất thích luận về bản kinh
 
@@ -702,9 +690,7 @@ mà đến trong núi báo thuyết pháp tự
 
 chứng bị lai tiêu vặt cũng lại như thế
 
-đây là chú xứ của các bậc tu hành quán
-
-Hạnh thẩm sâu hiện trụ nơi pháp lạ ta
+đây là chú xứ của các bậc tu hành quán Hạnh thẩm sâu hiện trụ nơi pháp lạ ta
 
 cùng chứ Bồ Tát vì thương tưởng ông nên
 
@@ -732,11 +718,7 @@ Diệu cũng giường vua lại đem chuỗi pháo
 
 anh lạc dâng cúng và đeo vào cổ đức phật
 
-cùng chúng bồ-tát
-
-nhận cúng dường sông mỗi vị Lượt nói
-
-pháp cảnh giới tự chứng thẩm sau lúc ấy
+cùng chúng bồ-tát nhận cúng dường sông mỗi vị Lượt nói pháp cảnh giới tự chứng thẩm sau lúc ấy
 
 vua cùng cá Quyến thuộc một lần nữa cũng
 
@@ -846,25 +828,13 @@ thấy thì không thép vật chẳng khỏi phân
 
 biệt mới thật là thấy
 
-sau khi mua 5 và Xếp tìm như vậy chợt
-
-nhiên tỉnh ngộ liệt các Pháp tại nhiễm
-
-trứng bản tính tự tâm trục cảnh giới vô
-
-phân biệt do lực chồng cân lạnh lâu xa
+sau khi mua 5 và Xếp tìm như vậy chợt nhiên tỉnh ngộ liệt các Pháp tại nhiễmmtrứng bản tính tự tâm trục cảnh giới vô phân biệt do lực chồng cân lạnh lâu xa
 
 nên ở nơi tất cả pháp thấy như thật
 
 chẳng lương bên Ngoại mà Ngộ năng dụng
 
-từ trí khéo léo quán sát lìa hẳn nhớ
-
-nghĩ vượt thoát và kiến chuyên cần tu
-
-tập các hạng thành bậc đại sư thiện Vô
-
-Lượng thông héo thành tựu Trí huyện
+từ trí khéo léo quán sát lìa hẳn nhớ nghĩ vượt thoát và kiến chuyên cần tu tập các hạng thành bậc đại sư thiện Vô Lượng thông héo thành tựu Trí huyện
 
 phương tiện lần hồi Thắng Tiến nhập các
 
