@@ -12,7 +12,7 @@ const tocHeadings: Heading[] = headings;
 const tocHeadingsH2: Heading[] = headings.filter(h => h.depth === 2);
 ---
 
-{tocHeadingsH2.length > 0 && (
+{headings.length > 0 && (
     <aside class="floating-toc" aria-label="Table of contents">
             <div class="floating-toc__inner">
                 <div class="floating-toc__header">Nội dung</div>
