@@ -1,5 +1,5 @@
 ---
-title: "THONG DONG LỤC 1-16"
+title: "THONG DONG LỤC 17-32"
 meta_title: "THONG DONG LỤC"
 description: "THONG DONG LỤC"
 excerpt: "THONG DONG LỤC"
@@ -9,7 +9,7 @@ tags:
   - THONG DONG LỤC
 ---
 
-TẮC THỨ 17: HÀO LY PHÁP NHÃN
+## TẮC THỨ 17: HÀO LY PHÁP NHÃN
 
 Dạy đại chúng rằng: Đội nhạn vô cánh bay cao, đôi uyên ương đứng một mình bên bờ sông, mũi nhọn chạm nhau thì bỏ qua một bên, cưa đứt quả cân thì thế nào?
 
@@ -97,7 +97,7 @@ Mọi người nói: Ý lãnh lấy đầu mọc câu, chẳng chấp nhận v�
 
 Vạn tùng nói: có tâm thì bình, không bằng vô tâm mà bình đẳng, cho nên không có những đốm nhỏ để cho người bán, cả 2 lăng trung và tin thái lung, lại lãnh hội được lời nói của pháp nhãn, sơn chủ triệt chăng? Trái cân thay đổi hoàn toàn, bổng nhiên rơi vào cân và đấu.
 
-TẮC THỨ 18: CON CHÓ CỦA TRIỆU CHÂU
+## TẮC THỨ 18: CON CHÓ CỦA TRIỆU CHÂU
 
 Bảo đại chúng rằng: Hồ Lô trên nước, theo lây liền chuyển, đá quí ở trong mặt trời, không định hình được màu sắc, không thể vô tâm mà được, không thể dùng tâm hữu mà biết, không lường đại nhân, nói chuyển động lời nói còn có thoát được không?
 
@@ -191,7 +191,7 @@ Tử Nha đáp: Chỉ tìm mạng sống con cá, phân lừa gặp người th�
 
 Hồi lâu nói: đây là lão tăng đến kinh sư, đổi được nó các người đều tự trở về giảng đường tìm xem. Phật giám dùng trùm ngọc, triệu châu phân lừa. Vạn tùng không có chổ dùng, chưa từng thay đổi, mọi người đều tin được, con mắt vẫn ở dưói lông mày như củ.
 
-TẮC THỨ 19: NÚI TƯ DI CỦA VÂN MÔN
+## TẮC THỨ 19: NÚI TƯ DI CỦA VÂN MÔN
 
 Bảo đại chúng rằng: Tôi thích Thiền Dương mới định cư, suốt đời nhổ cây nêm cho người, tại sao có lúc cũng mở cửa? Bưng chậu nhựa ra, đứng giữa đường xem thành cạm bẩy, thử biện luận xem.
 
@@ -271,7 +271,7 @@ Cơ nói: Thiếp xin được làm áo lông cừu cho Mạnh Quân, lúc áo l
 
 Hạ khách giả làm tiếng gà gáy, thì cả đàn gà đều gáy, nhờ vậy mà mạnh quân thoát khỏi nạn tần. Sư đưa gậy lên nói: là cửa ải của bạn tùng ngày nay, có người học tiếng gà gáy đi ra, lại dựa vào cây gậy nói: bỏ qua một phen.
 
-TẮC THỨ 20: THÂN THIẾT CỦA ĐỊA TẠNG
+## TẮC THỨ 20: THÂN THIẾT CỦA ĐỊA TẠNG
 
 Dạy đại chúng rằng: Nhậm lý bàn sâu, đại đạo của Trường An, đại triệt ngộ, bổng nhiên mở miệng nói phá. Cất bước đạp có thể quảng cao đẩy bát ném gậy gãy. Hãy nói: Ai là người này?
 
@@ -339,7 +339,7 @@ Hãy nói: Ở lông mi gọi là gì? Im lặng hồi lâu nói: Long Nha thì 
 
 Hãy nói: Tân Đầu Lô Tôn giả 2 tuy lông mày ý chỉ thế nào? Sư lông mày nói: Con mèo
 
-TẮC THỨ 21: VÂN NHAM QUÉT NHÀ.
+## TẮC THỨ 21: VÂN NHAM QUÉT NHÀ.
 
 Dạy đại chúng rằng: Thoát mê ngộ tuyệt thánh phàm, tuy không nhiều việc, nhưng lập chủ và khách thì phân biệt giàu nghèo, riêng có một nhà, ban của trao chức, tức giống như hơi thở liên tục, làm sao lãnh hội được?
 
@@ -401,7 +401,7 @@ Hết thảy nay nghe theo mà thay đổi là nhờ sức của con cháu. Vân
 
 Hòa Thượng Thắng Mặc nói: Bài tụng này còn nhằm vào điểm yếu của người, có điểm tốt cho người. Nay Thiên Đồng và Thắng Mặc, xử phạt Vân Môn, ngày nay Vạn Tùng bỏ vụ án đi, không thấy Thiên Đồng làm bài tụng về con rắn, khen thưởng tất cả cơ phong đại dụng của Vân Môn so với Vân Trung cũng không kém, sao lại như thế? Trầm bổng đều do ta còn chết sống do ai?
 
-TẮC THỨ 22: YẾT KIẾN NHAM ĐẦU
+## TẮC THỨ 22: YẾT KIẾN NHAM ĐẦU
 
 Dạy đại chúng rằng: Người sẽ tìm lời, nước sẽ tìm gậy, vạch cỏ nhìn gió, dụng cụ tầm thường, bổng nhiên nhảy ra con hổ cháy đuôi, lại thế nào?
 
@@ -451,7 +451,7 @@ Nham Đầu biết Động Sơn có oai chắc chắn thực hành, có lệnh k
 
 Vạn Tùng nói: Một phần tâm hạnh là một phần từ bi, không hề qua lại, không học gì cả, có thể nói quả từ trong hoa mà được, ngọt từ nơi đắng mà ra, Nham Đầu Xô ra kéo lại, Động Sơn rút ra, Động Sơn xô ra kéo lại. Vạn Tùng nói toạc ra, bổng chốc có người ra lễ bái, Vạn Tùng liền bỏ qua không đánh nữa, sao da của y không có máu?
 
-TẮC THỨ 23: LỖ TỔ XOAY MẶT VÀO VÁCH.
+## TẮC THỨ 23: LỖ TỔ XOAY MẶT VÀO VÁCH.
 
 Dạy đại chúng rằng: Tổ Đạt Ma năm xoay mặt vào vách, gọi là Bích Quán. Thần Quang lễ 3 lễ, tiết lộ thiên cơ làm thế nào quét sạch tung tích?
 
@@ -529,7 +529,7 @@ Vạn Tùng hỏi: Không thể lãnh hội xoay mặt vào vách, bọn ông l�
 
 Tự đáp thay: Nghe nói bài Tụng Cổ của Thiên Đồng.
 
-TẮC THỨ 24: XEM RẮN CỦA TUYẾT PHONG.
+## TẮC THỨ 24: XEM RẮN CỦA TUYẾT PHONG.
 
 Dạy đại chúng: Biển phía Đông có con cá chép, Nam Sơn có ba ba, phổ Hoá có lừa hí, Tử Hồ có chó sủa, không rơi lối thường, không đi di loại. Hãy nói: Đó là hành lý của người nào?
 
@@ -567,7 +567,7 @@ Tuyết Đậu cũng nói: Như hôm nay dấu trước phong nhũ người đ�
 
 Vạn Tùng nói: Tuyết Đậu ham nhìn dưới chân không biết xuyên qua đầu lâu. Thiên Đồng lanh miệng làm tổn thương người, người sáng suốt không làm việc mờ ám. Ta lúc ấy nếu là Vân Môn, lấy gậy ném vào người Tuyết Phong định không đến. Sau đó dạy y tự làm tự chịu, dần dân quen lần tại sao như vậy? Ngày 2 tháng 2 sáng nay, tạm bỏ rồng bắt đầu.
 
-TẮC THỨ 25: CÁI QUẠT SẮC BÉN CỦA GIÁM QUAN
+## TẮC THỨ 25: CÁI QUẠT SẮC BÉN CỦA GIÁM QUAN
 
 Dạy đại chúng: Biển không có bờ, không lìa đương xứ, việc trước
 
@@ -625,7 +625,7 @@ Kinh Niết Bàn nói: Đức Thế Tôn phóng hào quang nguyệt ái. Vua A X
 
 Vạn Tùng nếu làm thị giả, nghe Sư nói đưa cái quạt tê giác cho ta, có nhiều thứ như lông vũ, giấy cói, thẻ tre, lụa phỏng, lụa sống, cây cọ, bò rừng, thuận tay lấy cho một cái cán, người nào dù có ngàn thứ khéo léo, cuối cùng phong cách khác nhau.
 
-TẮC THỨ 26: NGƯỠNG SƠN CHỈ TUYẾT.
+## TẮC THỨ 26: NGƯỠNG SƠN CHỈ TUYẾT.
 
 Dạy đại chúng rằng: Sương và tuyết một màu, trăng hòa nhau, đông cứng quyết pháp thân, làm tổn hại ngư phũ, còn chịu thưởng, ngoạn không?
 
@@ -661,7 +661,7 @@ Tuyết Đậu sợ người chỉ biết té nhào, mới dè chừng phạm t�
 
 Hãy nói: Mà nay thời tiết gì? Lại tùy theo cây lâu năm khô héo dần, theo gió Xuân vào thiêu đốt tỳ vết.
 
-TẮC THỨ 27: PHÁP NHÃN CHỈ BỨC RÈM.
+## TẮC THỨ 27: PHÁP NHÃN CHỈ BỨC RÈM.
 
 Dạy đại chúng rằng: Nhiều thầy mạch loạn, pháp sinh gian khởi, không bệnh chữa bệnh, tuy tổn hại lòng từ, có việc theo việc không ngại cử lời.
 
@@ -707,7 +707,7 @@ Cho đến Tổ Sư Ấn Độ lại có được, có mất, sao không hướn
 
 Hãy nói: Theo lệnh gì mà được như thế? Đợi ông ăn gậy rồi nói cho ông biết.
 
-TẮC THỨ 28: HỘ QUỐC TAM MA
+## TẮC THỨ 28: HỘ QUỐC TAM MA
 
 Dạy đại chúng: Người chẳng dính một tấc tơ, chính là ngoại đạo lỏa hình, kẻ không ăn hạt gạo, dứt khoát trở về quỷ Vương mặt nám, dù thọ sinh nơi cỏi Thánh chưa thoát khỏi rơi vào cây sào nguy hiểm, còn có xấu thẹn không?
 
@@ -789,7 +789,7 @@ Hứa Do đáp: Nghe Vua Nghiêu mời tôi làm bộ trưởng của châu, cho
 
 Phụ hỏi: Câu Dự Chương ở trên núi cao, người thợ không thể sử dụng được, ông muốn lánh đời, sao không trốn sâu sâu? Nay dạo chơi trong nhân gian để cầu danh tiếng, coi nghé về việc ăn uống, e rằng làm dơ miệng trâu, mới dắt lên dòng nước cho uống, Thiên Đồng đem bài tụng nói 3 lần hổ thẹn 3 vị Dương Chấn, Hứa Do, Sào Phũ. Lại giống như bị Đồng Am nói nước đục thì tự nó đục, nước trong thì tự nó trong, bồ đề phiền não đều rỗng không bình đẳng, vị Tăng này và Hộ Quốc, buông hết không liên quan đến việc của các người, mỗi người xin đuổi theo.
 
-TẮC THỨ 29: THIẾT NGƯU CỦA PHONG KHÔNG
+## TẮC THỨ 29: THIẾT NGƯU CỦA PHONG KHÔNG
 
 Dạy đại chúng rằng: Căn cơ đần độn, bóng lửa như cái rìu, mắt chuyển đều mê, cướp lấy cái cán, nếu đánh vào hang quỷ, để định đầu rắn chết, còn có biến thành hổ không?
 
@@ -839,7 +839,7 @@ Tăng nói: Không đi không trụ, tại sao dùng con dấu? Bảo Phước �
 
 Quốc Sư đáp: Đàn việt đạp trên đỉnh Tỳ Lô, đây nói pháp thân hướng thượng chẳng phải việc ở bên cây Xuân khô, phong Huyệt trước theo lệnh này, lại đến trong môn Phật Sự, nắm giữ uy quyền nhỏ, quét không sạch công án, quét sạch tình lượng phàm Thánh, quét sạch đây là báo thân, hóa thân Phật. Lâm Tế nói rõ ràng: Chổ của Sơn Tăng thấy, quét sạch đầu báo thân hoá thân Phật, cân nhắc như thế, cho dù tác giả Lư Bi cũng có lúc chịu thua, ngoại đạo Tây trúc lập nghĩa, không thành gọi là thua, chém đầu, chặt tay để cảm ơn sự không thông minh (2) dộng gậy này hét, lúc sấm chớp có cơ phong biến đổi, đều là quang cảnh tạm thời, cẩn thận để định đoạt được mất, quyền đoán hơn thua, như viên minh châu lăn ở trên mâm, trong chớp mắt con có lỗi. Sư lấy cái phất trần ném vào thiền sàng nói rồi.
 
-TẮC THỨ 30: ĐẠI TÙY KIẾP HỎA
+## TẮC THỨ 30: ĐẠI TÙY KIẾP HỎA
 
 Dạy đại chúng: Dứt các sự đối đãi, quét sạch lưỡng đầu, đánh phá mối nghi trừ một câu, Trường An nửa bước không rời, Thái Sơn chỉ nặng 3 cân. Lại nói: Theo lệnh nào mà dám nói như thế?
 
@@ -907,7 +907,7 @@ Sư nói: Tuyết Đậu làm bài tụng Vị Tăng này hỏi ở đây là �
 
 Vân Cư dạy đại chúng: Ngôn ngữ như cái dùi, như bức ép, như lưỡi câu, như chìa khóa, phải dạy tương tục không gián đoạn mới được, nay nói chổ đáp của 2 vị Sư, trực thiệp, không dính dáng đến sự liêm khiết, làm sao mọi người bị vướng ngã được? Chơn điểm huy thường ở đạo tràng Thiên Sư chùa Chương Giang, Nam Xương, một Sư vén áo bày chân đi qua. Chánh thánh lấy lâu lạ hỏi chân nói: Trước hành lang sau có già đều ngổn ngang, chơn sợ vấp ngã, chánh mới cười to, Thiên Đồng nói: Tôi được ra bài tụng rõ ràng như thế, ông lãnh hội nó được chưa? Nếu là bậc Thượng sĩ tham cứu lâu ngày như làm việc buôn bán không cần bàn luận. Hôm ấy Tùng chỉ cần lìa xa gia đình.
 
-TẮC THỨ 31: CỘT TRỤ CỦA VÂN MÔN LỘ RA.
+## TẮC THỨ 31: CỘT TRỤ CỦA VÂN MÔN LỘ RA.
 
 Dạy đại chúng: Kẻ một cơ hướng thượng, hạc bay lên cao, một đường thẳng lối, quá xa xôi rồi, cho dù mắt như sao băng chưa thoát khỏi miệng như tấm biển. Hãy nói: là tôn chỉ gì?
 
@@ -933,7 +933,7 @@ Triệu Công Bát Nhã Vô Tri Luận nói: Phàm cái gì không đúng thì v
 
 Cho nên Kinh nói: Thấy tất cả phàm mà không chổ để thấy. Bài tụng này nói nương vào 1 kinh một luận, ám chỉ vượt trình lìa kiến chấp nhận cảnh xen nhau, Cổ Phật và cột trụ giao nhau, tự nhiên “Nam Sơn nổi mây, Bắc Sơn đổ mưa”, ông tìm hoa mà thành mật, con hưu cỏ mà thành hương, ngọn núi cao thấy cùng chuyển nguồn gốc pháp luân, vảy lông lớn nhỏ đều hiện sắc thân tam muội. Trưởng giả Câu Thi La nhìn 3 thước mà vô tận, vô biên thân Bồ Tát đến cùng cảnh giới cũng có dưa hiển hiện cùng một lúc, biến khắp tất cả. Cho nên nói: rõ ràng chổ hiện rõ ràng, Sư lại nói: Còn thấy chăng?
 
-TẮC THỨ 32: TÂM CẢNH CỦA NGƯỠNG SƠN.
+## TẮC THỨ 32: TÂM CẢNH CỦA NGƯỠNG SƠN.
 
 Dạy đại chúng: Biển là thế giới của loài rồng, ẩn hiện dạo chơi. Trời là quê hương của loài hạc, bay hót tự tại. Tại sao cá mệt thì nghĩ ở ao lớn, còn chim cụt đậu bờ lau, mưu kế lợi hại chăng?
 

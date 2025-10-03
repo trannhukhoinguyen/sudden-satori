@@ -9,7 +9,7 @@ tags:
   - THONG DONG LỤC
 ---
 
-TẮC THỨ 33: KIM LÂN CỦA TAM THÁNH.
+## TẮC THỨ 33: KIM LÂN CỦA TAM THÁNH.
 
 Dạy chúng rằng: Gặp mạnh thì phải yếu, gặp nhu thì phải cương, 2 trứng chọi nhau, chắc chắn có một bên bị thương. Hãy nói: Làm sao dung hợp.
 
@@ -43,7 +43,7 @@ Vân Môn lão Tăng trụ trì bận rộn nhiều chuyện và tụng 2 lần 
 
 Hòa Thượng Đàm Chá Tánh nói với Hòa Thượng Khánh Thọ Nghi rằng: Bảo ông ta làm ông nội lại thế nào?
 
-TẮC THỨ 34: MỘT HẠT BỤI CỦA PHONG HUYỆT.
+## TẮC THỨ 34: MỘT HẠT BỤI CỦA PHONG HUYỆT.
 
 Dạy đại chúng: Tay không mà ngàn biến vạn hóa, tuy là lấy không làm có đâu thể mượn giả làm chơn. Hãy nói: Còn có nền tảng không?
 
@@ -75,7 +75,7 @@ thịnh, Di Tề nhường ngôi mà chết đói. Quốc gia suy vong, quốc s
 
 Lạc Phố nói: Trước của lão già không, nói việc triều đường, cho nên nhà nông thoải mái, chưa từng buông lo, vì sao? Chỗ vô dụng trở thành chỗ chơn dụng, đó là nhân duyên tốt hay là nhân duyên xấu?
 
-TẮC THỨ 35: KHUẤT PHỤC LẠC PHỐ
+## TẮC THỨ 35: KHUẤT PHỤC LẠC PHỐ
 
 Dạy Đại chúng rằng: Cổ phong lanh lẹ biện luận tài ba, đánh dẹp thiên ma ngoại đạo, vượt cách thức hơn Tông phong, khúc khỉu là thượng căn lợi trí, bổng gặp kẻ đánh một gậy không quay đầu thì thế nào?
 
@@ -147,7 +147,7 @@ Giáp Sơn nói: Con đường hướng thượng. Thế nào là con đường 
 
 Người không lưỡi biết nói tức là ông nói.
 
-TẮC THỨ 36: MÃ SƯ BẤT AN
+## TẮC THỨ 36: MÃ SƯ BẤT AN
 
 Dạy đại chúng: Xa lìa tâm y thức mà tham cứu ở đây có lối học vượt của phàm Thánh, đã là thái Cao Sinh, lửa hồng sinh ra dây thép, lưỡi kiếm lạnh khó xuống miệng, chẳng phạm vào mũi nhọn, thử nêu ra xem.
 
@@ -185,7 +185,7 @@ Tăng hỏi Vân Nham: Người bảo vệ giữ gìn và cái kia là một hay
 
 Nham đáp: Một máy dệt thành lụa một đoạn hay hai đoạn. Động Sơn thay lời: Như người lấy gổ, đây chính là cảnh và thần hội họp, trí và lý sáng suốt, nước trời như mùa Thu, quần thần nói hợp, lụa được dao thước, nhưng cắt và do người, (252) vàng nhờ có dùi, tinh luyện do mình. Hãy nói phần trên của Nạp Tăng thành được việc gì? Mặt trời Phật mặt trăng Phật.
 
-TẮC THỨ 37: NGHIỆP THỨC CỦA QUY SƠN
+## TẮC THỨ 37: NGHIỆP THỨC CỦA QUY SƠN
 
 Dạy đại chúng: Cướp trâu của nhà nông, kéo mũi dùm về, đoạt thức ăn của người đói, giữ cổ họng, còn có người thủ đoạn nham hiểm không?
 
@@ -253,7 +253,7 @@ Sơn đáp: Xếp thay trâm cài, tạm thời dính, tướng Tư ma như bài
 
 Vạn Tùng nói: Nếu có thể trở về nhà, thì được chuyển thân trở về cha mẹ, không thấy nói: Một niệm hồi quang Tăng thì đông vốn đươc, đã như thế, tại sao? Bất động trí của chư Phật, đến tất cả chúng, gọi là nghiệp thức mênh mang, chắc chắn biết đèn là lửa, cơm chín đã lâu rồi.
 
-TẮC THỨ 38: CON NGƯỜI CHÂN THỰC CỦA LÂM TẾ
+## TẮC THỨ 38: CON NGƯỜI CHÂN THỰC CỦA LÂM TẾ
 
 Dạy đại chúng rằng: Nhận giặc làm con, cho nô lệ là chủ, pháp gốc rễ há là đầu lâu của Tiên Tổ, cương ngựa không cần người dẫn dắt,
 
@@ -297,7 +297,7 @@ Tăng không đáp được. Sư tự đáp thay, bị con mắt làm trở ng�
 
 Hãy nói: Chính vị Tăng này lấp dòng suối mắt, Lâm Tế lấp bít dòng suối mắt, bổng nhiên đột xuất thời thế nào? Sư ném gậy xuống tòa, đại chúng cùng tản ra.
 
-TẮC THỨ 39: TRIỆU CHÂU RỬA BÁT
+## TẮC THỨ 39: TRIỆU CHÂU RỬA BÁT
 
 Sư dạy đại chúng: Cơm đến há miệng, buồn ngũ nhắm mắt, lúc rửa mặt mũi của Thập Đắc vắt lên giày, mới sờ dưới gót chân, lúc đó là nhầm lẫn về thọai đầu, đêm khuya cầm đuốc tìm cái khác, lúc nào mới tương ưng?
 
@@ -331,7 +331,7 @@ Huyền Sa chưa triệt ngộ, Tuyết Đậu chỉ chấp nhận tác gia, k�
 
 Hãy nói: “Rửa bát”, Tăng đã ngộ không? Thái Bình vốn do tướng quân, không chấp nhận tướng quân thấy Thái Bình.
 
-TẮC THỨ 40: TRẮNG ĐEN CỦA VÂN MÔN
+## TẮC THỨ 40: TRẮNG ĐEN CỦA VÂN MÔN
 
 Dạy đại chúng: Chổ cơ chuyển, mắt trí còn, lúc bảo giám khai mở, mảy trần không còn, khai quyền không rơi xuống đất, tướng khéo biết thời, lúc haqi lưỡi dao gặp nhau, làm sao dụng hỏi?
 
@@ -377,7 +377,7 @@ Lý viên, ngôn thiên, lời sinh lý mất.
 
 Chỉ Quán Thiên Thai nói: “Ba điểm tròn của chữ y”, không như điểm nắm dọc của nước, cũng không phải nằm ngang của lửa, lại dựng khắp ba bờ gọi là cao, ngang biến khắp 10 phương gọi là rộng. Cho nên Kinh Pháp Hoa nói: Xe ấy cao lớn, Thiên Đồng bên cạnh thông biển giáo, Động Sơn dụng thông trời nghĩa. Vân môn, Càn Phong lập bia vô tự, Thiên Đồng ngâm vịnh thành bài thơ vô ngôn, có thể nói, Dương Tu lấy vợ trẻ, hể nhìn liền biết đẹp.
 
-TẮC THỨ 41: LẠC PHỐ THỊ TỊCH
+## TẮC THỨ 41: LẠC PHỐ THỊ TỊCH
 
 (25) Dạy đại chúng: Có khi trung thành, phải chịu nổi khổ khó trình bày, có khi tai họa đến, hướng đến người gánh vác không được, sắp đi bổng té nhào, cuối cùng rất ân cần, khóc lóc thảm thương, càng khó giấu giếm, còn có người con mắt lạnh.
 
@@ -443,7 +443,7 @@ Thiền sư Bạch Triệu Thông Khuê nói: Thí như chim bay trong hư khôn
 
 Khuê Phong nói: Cá không biết nước, người không biết gió, mê không tánh, ngộ không biết không được, bình thường bản thân Lô Xá Na, cái biết thanh tịnh hiển hiện ở trong con người, lúc vừa khơi lên, bổng nhiên bóng hiện, quên ân mất hạnh, bỏ thân theo nó, quả thật có thể trừ bỏ Linh Sơn, mới hiểu cái nối nghiệp cha. Hãy nói: Nghiệp cha là thế nào? Rút ra điều đúng, chổ dùng chẳng sinh nghi.
 
-TẮC THỨ 43: LÀ LA SƠN SINH DIỆT
+## TẮC THỨ 43: LÀ LA SƠN SINH DIỆT
 
 Dạy đại chúng rằng: Hoàn đơn hột viên, điểm sắt thành vàng, một lời chí lý, chuyển phàm thành Thánh. Nếu biết vàng và sắt không hai, phàm Thánh vẫn đồng, quả nhiên một chút cũng dùng không được. Hãy nói: là một chút gì.
 
@@ -497,7 +497,7 @@ Nham Đầu có khả năng hơn cả thầy mình.
 
 Dương Tử hỏi: Thánh nhân khác với Hổ vì trí thức của họ sáng ngời, quân tử khác với văn phong họ mạnh mẽ, người giới khác với chồn vì họ tài ba. Chồn biến thành báo, báo biến thành hổ, có báo đen Nam Sơn trốn trong sương đổi màu lông. Liệt nữ truyện của Lưu Thông không hưng khởi, nhà giàu tam bội, vợ ông ta bồng con mà khóc. Mẹ chồng giận dữ cho là không lành. Người vợ nói: Thiếp nghe ở Nam Sơn có báo đen trốn trong sương ngày không ăn, muốn sương thấm vào bộ lông của mình, trở thành lông màu. Đến như chó, heo không chọn lựa thức ăn, cho nên béo phì; vì béo phì nên mang họa, cuối năm quả thật bị giết thịt ở đây phỏng thuật nên khác với ghi lại. Mùa Hạ năm thứ đời Hán Huệ Đế, sấm sét nổi lên ở Nam Sơn, cây rừng bị cháy, cháy thành màu vàng. Sau trận mưa lớn người ta thấy 1 cái xác con rồng. Ngài La Sơn gặp phá oán tặc trong nhà, lời trình bày quá rõ ràng. Ngài Nham Đầu chiêu hàng, sau này trở thành người con đắc lực. Lại nói: đó là chổ chiêu hàng. Ôi! Khởi diệt lăng xăng đó vật gì?.
 
-TẮC THỨ 44: HƯƠNG DƯƠNG DIỆU SÍ
+## TẮC THỨ 44: HƯƠNG DƯƠNG DIỆU SÍ
 
 Dạy chúng rằng: Sư Tử đánh voi, đại bàng đánh rồng, bay chạy còn khác quân thần, nạp tăng đây vẫn còn khách chủ, lại như người nào xúc phạm thiên uy, làm thế nào cắt đứt?
 
@@ -541,7 +541,7 @@ Sư nói: Sắc lệnh khắp thiên hạ, vua không lưu hành. Trung y tử (
 
 Bằng Đường nói: Vua thời xưa sai khiến tướng quân, tướng quân quỳ xuống suy xét nói: Từ cổng thành trở vào do vua quyết định. Từ ngoài cổng thành giao cho Tướng quân quyết định Vi châu nói ở đây cửa thành là cửa lớn. Năm canh đến trời sáng, khen vị Tăng này tham cứu thoại đầu thái quá, không đợi tiết tháng hai (tháng 3 dương lịch). Sáng sớm thấy đầu rồng, không biết mây theo rồng mà bay. Nhưng vì ung phong của đại bàng ngăn trở không biết đầu bị đánh. Có người nói chấp lời nói của Tăng, làm sáng tỏ cơ phong của Hưng Dương, không đợi biết chữ đó, thì không ổn thuận vô cùng. Cơ để liên miên: Ở đây cơ chẳng phải cơ phong, cho rằng dưới khung cữi dệt gấm chắc chắn có người đàn bà khéo tay xâm chỉ. Tuyết Nham tiên sư đã từng đưa ra vấn đề này, Kim vàng lổ nhỏ xâu trên đầu mũi, có gai chỉ ngọc khéo vào cửa quan. Đây chính là huyết mạch của Tào Động, chẳng phải người bình thường, không dể biết được. Nên như ấn, không nên như phong. Nếu dùng ấn, ấn vào hư không thì không thấy hình tướng văn vẽ. Thương Hiệt nhìn lên xem thế tròn cong của sao Khuê, cúi xuống quan sát dấu chân của chim, đường nét trên mai rùa, chọn lựa các nét đẹp hợp thành những đường nét. Về sau tự khoa Đẩu lâm thành 2 chữ triện. Thai sử Tuyên chủ đời Chu sáng tạo. Chữ đại triện, Tướng Lý Tư đời Tần sáng tạo chữ Tiểu Triện. Chữ Triện trên ấn ngày nay gọi là Phương Điền, Đán Đạo, ngài Hưng Dương khắc họa lại cũng như không, Ngọc sáng vốn không tỳ vết. Văn hoa chạm khắc mất (đi) đức độ nhà vua.
 
-TẮC THỨ 45: GIÁC KINH TỨ TIẾT (4 tiết của Kinh Viên Giác)
+## TẮC THỨ 45: GIÁC KINH TỨ TIẾT (4 tiết của Kinh Viên Giác)
 
 Dạy chúng rằng: Công án thành tựu chỉ căn cứ hiện nay. Bổn phận của gia phong không lo ngoài bổn phận. Nếu Tăng thêm tiết mục chỉ uống phí công phu. Hết thảy đều là ngu tối, vẽ trên miệng bát một cái cán, làm sao an ổn được.
 
@@ -571,7 +571,7 @@ Oai nghi chững chạc, tài cán hơn người đều là tướng đại trư
 
 Ngài Trí Giác nói: Kinh Viên Giác, Lăng Nghiêm thường là bạn của người tu hành. Huống gì Đức Phật nhập diệt đến năm Canh Thìn đã 210 năm, há chỉ là giấy củ ngàn năm. Tiên Tuyền Cát do khắc dê gỗ, cởi dê đến Tuy Sơn, sau gặp Phù Châu nói: Nếu không có chỉ đứt dưới chân, như vậy không được tự do, ngầm hợp với Vĩnh Gia buông bỏ tứ đại chớ nắm giữ. Trong tánh tịch diệt tùy theo sự chứng ngộ. Các hành vô thường, tất cả đều không tu là đại viên giác của Như Lai. Mặc dù, như vậy, nếu không tu làm sao được phạm hạnh.
 
-TẮC THỨ 46: ĐỨC SƠN HỌC TẤT
+## TẮC THỨ 46: ĐỨC SƠN HỌC TẤT
 
 Dạy chúng rằng: Vạn dặm không một tất cỏ, người mê ở tịnh địa. phương không gợn mây, bầu trời quang đãng lừa ông. tuy là lấy nắm bỏ nhưng không ngại, nắm hư không treo hư không. Đánh sau đầu 1 dùi chớ xem là phương tiện.
 
@@ -589,7 +589,7 @@ Sư nói: Ngài Viên Minh dạy chúng không ra gì, Thiên Đồng đưa ra c
 
 Tư Đại nói: Chư Phật ba đời bị một miệng ra nuốt hết, chổ nào lại có chúng sinh có thể độ. Sông này chảy ra không thông, đường phàm Thánh mất hẳn. Đúng lúc nào khắp pháp giới hư không, như mặt kính xưa dùng hoại kiếp thành gió chướng, mài đá thành kiếp vàng ẩn trong mây. Nước trời một màu, mây trắng cùng sáng đều lấy điểm tuyệt vời tươi đẹp của sự việc. Đây là nói nhạt nhẽo mà vô vị, như móc câu bằng trăng mồi bằng mây cá rồng không thể nuốt được….(chữ mờ) Lã Vọng buông câu tin duyên mình không thấy đạo. Ăn gạo buông, rau hoang, đồ gia vị. Ăn thì anh ăn những không ăn vật gì.
 
-TẮC THỨ 47: TRIỆU CHÂU BÁCH THỌ.
+## TẮC THỨ 47: TRIỆU CHÂU BÁCH THỌ.
 
 Dạy chúng rằng; Cây bách trước sân, cơ bay trên sáo, như vừa thấy hoa nói mùa Xuân vô biên, như thấy một giọt nước biển lớn. Khoảng cách giữa cố Phật ra đời thường xuyên có, không rơi vào ý nghĩa lời nói, hoặc vì lời nói.
 
@@ -645,7 +645,7 @@ Dùng lời này muốn làm cho người quyết nghi. Nhưng nay được bao 
 
 Không phải là người khổ cực không biết Ngọa Luân có thiện xảo có thể đoán được trăm tư tưởng, đối cảnh tâm không khởi, bồ đề ngày càng tăng. Lục Tổ nói: Tuệ năng không khéo léo, không đoán được trăm tư tưởng, đối cảnh tâm thường khởi, thì bồ đề làm sao lớn, như thế xem việc lấp hang sông. Lại làm thế nào như ngày nay ném bỏ trong Tây Hồ, xuồng chở gió xuân phó cho ai.
 
-TẮC THỨ 48: MA KINH BẤT NHỊ
+## TẮC THỨ 48: MA KINH BẤT NHỊ
 
 Dạy chúng nói: Diệu dụng vô phương, có chỗ hạ thủ không được, biện tài vô ngại, có lục mở miệng không được. Long Nha như người không có tay mà đi quyền, Giáp Sơn dạy người không có lưỡi nói, nửa đường thối lui là người nào?
 
@@ -723,7 +723,7 @@ khó bổ đá. Nay nếu ngọc chính là của báu của một nước. Sử
 
 Duy Ma Vắt thân Vi chung, không khỏi hoa ra cửa riêng đâu kham Văn Thù điểm phá sự tỳ vết linh thiêng. Dẫu Thiên Đồng nói hiện ở nơi hồng trần mà không ảnh hưởng tập khí của hồng trần, cũng là bịt mũi trộm hương.
 
-TẮC THỨ 49: ĐỘNG SƠN CÚNG CHƠN
+## TẮC THỨ 49: ĐỘNG SƠN CÚNG CHƠN
 
 Dạy chúng: về không thành, hoa không xong, phổ hóa lại trở thành cân đấu. Long nha chỉ lộ nửa thân, cuối cùng người nào là thân nào?
 
@@ -809,7 +809,7 @@ Môn phong đại chấn hề bước quy cách miên mật cha con hiến thôn
 
 Sư nói: Động Sơn dặn Tòa Sơn rằng: Ta ở với Tiên sư Vân Nham được ấn khả là Bảo Kính Tam Muội là việc quan trọng. Nay ta phó chúc cho ông, ông khéo giữ gìn, gương báu sáng trọng nghiêm chánh ta, há chẳng phải gà nhà gáy rừng nghe, nhạn ngàn năm cùng mây tùng, nghiệm chánh tà ư? Gương tuy sáng mà có mặt trái của nó, chỉ cơ ngọc chuyển đổi thay nhau đẹp. Sáng tối cùng đến nơi, Hệ Từ Kinh Dịch nói: Đạo cùng tột thì biến, biến thì thông, thông thì lâu, cha con Động Sơn thực hành quy củ, đến nay môn phong đại chấn, kiểm được nguồn sâu dòng dài ư?
 
-TẮC THỨ 50: TUYẾT PHONG THẬM MẠ
+## TẮC THỨ 50: TUYẾT PHONG THẬM MẠ
 
 Dạy chúng nói: Diệu chỉ rốt sau có thấu rõ mới đến được ải lao. Nham Đầu tự cô phụ trên không chịu gần gũi thầy, dưới không nhường pháp đệ, lại là cưỡng sinh tiết mục, hay là có cơ pháp riêng.
 
@@ -855,7 +855,7 @@ Gió thổi thuyền trăng trôi nước biếc
 
 Sư nói: Thơ của Khổng Tử, cái đẹp chỗ uốn khúc bên bờ sông Kỳ là đức của vũ công. Có văn chương lại có thể nghe lời khuyên răn. Dùng lễ để tự phòng hộ cho nên có thể vào xung quanh thấy cảnh đẹp mà làm thơ. Nhìn sông Kỳ uốn khúc, trúc xanh rờn rờn có bậc quân tử như cắt, như gọt, như mài như giũa. Chú thích rằng: Sữa xương gọi là thiết, sữa tượng gọi là tha, sữa ngọc gọi là cháo, sữa đá gọi là ma. Đức Sơn Tuyết Phong được Nham Đầu phát minh được đầu và cuối của câu. Đến nay câu nói này rất thịnh hành. Sức thiết tha được thông biến. Tuyết Phong như gậy hóa rồng. Vị Tăng này như con thoi nằm nép dưới đất. Nham Đầu gọi ra đến nay không biết. Sở dĩ đồng một loại tử không nhiều. Hoặc Nham Đầu như gậy hóa rồng. Tuyết Phong như con thoi nằm nép dưới đất. Muốn biết tinh tế xem lời nói trước. Phật quả của Ngài Tuyết Đậu do song minh, song ám. Tụng lời này chẳng phải bảo tham không biết. Đông Hán phương thuật truyền, Trường Phòng Bí, ông là người Nam từng làm chức quan phó ở chợ, gặp Hồ Công, chặt gậy trúc xanh, giả làm Trường Phòng thắt cổ chết trong nhà. Bèn vào núi sâu học đạo nhưng không thành. Từ bỏ trở về, Công cho gậy trúc, đi về nhà, ném dây sắn xuống ao, Trường Phòng ném dây sắn xuống ao, hóa rồng mà đi. Lại Phổ Đào Khản lúc nhỏ bắt cá ở đầm Lôi bủa được một con thoi, treo lên vách, sau nghe sấm sét, hóa làm rồng mà bay Tuyết Phong như gậy, vị Tăng này như con thoi. Nham Đầu như thuyền gió chở trăng, Vạn Tùng giống cái gì? Bình trà treo chắc chắn.
 
-TẮC THỨ 51: PHÁP NHÃN HANG LĂNG
+## TẮC THỨ 51: PHÁP NHÃN HANG LĂNG
 
 Hiển bày cho mọi người rằng: Ngộ trong pháp thế gian cũng có nhiều ít người. Mê trong pháp Phật cũng có nhiều ít người. Bỗng nhiên đánh thành một phiến, dính mắc mê ngộ cũng không đưa ra. Pháp Nhãn hỏi Thượng Tọa Giác hang đến hay Lăng đến? Giác đáp: Hang đến. Nhãn nói: Hang tại chỗ nào? Giác đáp: Hang tại trong sông. Giác thối lui. Nhãn hỏi ngược lại Vị tăng bên cạnh rằng: Đạo của ông Tăng vừa mới đến này, đầy đủ nhãn hay không đầy đủ nhãn.
 
@@ -863,7 +863,7 @@ Sư đáp: Hoàng Long Hối Đường hỏi, Hoàng Long dù quẫn bách. Có 
 
 Sư nói: Nước không rửa được nước, vàng không giành được vàng, Phật không tìm được Phật, pháp không nói được pháp. Đây là bàn luận về con ngựa thần của ông ta. Lược về trời đất, hứng thú về đàn, mà quên đi dây phím đàn Hoài Nam Tử sai Bá Nhạc đến núi nhỏ tìm ngựa, ba tháng sau trở lại nói: Tìm ngựa được ở tại gò cát, ngựa đực màu vàng, khi đến thì ngựa cái mà màu đen. Công nói: Bá Nhạc ông tìm ngựa sắc lông đực, cái không biết thua bại. Bá Nhạc dừng hồi lâu rồi nói: Đến chỗ núi nhỏ này rồi thấy Thiên cơ, được tinh túy của nó mà quên đi cái thô sơ. Thấy bên trong mà quên bên ngoài quả là Thiên lý mã. Cùng với Đào Tiền Tử Uyên Minh không hiểu được cây đàn cầm súc. Tố cầm. Dây phím không đủ. Nói chỉ được thú vị trong cây đàn, đâu có mệt nhọc trên âm thanh dây đàn. Kinh dịch nói: Người xưa kết dây mà sửa. Thánh nhân đời sau dùng sách của Dịch để khế hợp. Lại nói: Xưa trời đất bao bọc súc vật, nhìn lên xem tượng trời, nhìn xuống quán phép đất. Suy xét văn của cầm thú cùng với nghi thức của đất. Gần thì lấy các thân, xa thì lấy các vật. Bấy giờ bắt đầu vẽ ra bát quái, đạo Vạn Tùng. Người xưa bắt đầu phân ra trời đất. Đã thành đối đãi rồi kết dây vẽ bát quái. Chuyển táng thành chơn chánh. Thích-ca chưa xuất thế, tổ sư không từ Tây sang, trở lại có chơn đế tục đồ, thế pháp và Phật pháp ư! Thư Châu Hải Hội và từ cử Thiền sư sau khi đắc pháp thường đến chỗ Lang Da Giác. Giác hỏi: Thượng tòa từ xa hay gần đến nay? Cử đáp: Triết Giang: Giác nói: Hang đến hay Lăng đến? Cử nói: Hang đến, Giác nói: Hang tại chỗ nào? Cử nói: Trong sông Giác hỏi: Không trải qua lộ trình? Một câu làm gì sinh đạo? Cử nói: Trưởng lão xã soạn như gai giống lúa nói xong bỏ đi. Đạo Vạn Tùng lời nói và việc kèm đều tốt. Đầu tiên ở Động Sơn Hòa Thượng hỏi Tăng. Từ đâu đến. Tăng nói: Nhữ Châu. Động Sơn nói: Mất hết bao nhiêu. Tăng nói: Bảy trăm. Động Sơn nói: Mang hết bao nhiêu đôi giày? Tăng nói: Ba đôi, Động Sơn nói: Tiền ở đâu mà mua? Tăng đáp: Đánh nói. Sơn nói: Bỏ tham đường Tăng nên đồng ý. Đạo Vạn Tùng. Tay và mắt thông với thân mắt ông không phá. Vả lại nói con mắt của vị Tăng này ở đâu mà lông mày ở dưới?
 
-TẮC THỨ 52: PHÁP THÂN TÀO SƠN
+## TẮC THỨ 52: PHÁP THÂN TÀO SƠN
 
 Dạy đại chúng rằng: Các bậc trí giả dùng ví dụ để hiểu rõ nếu đến đây so sánh, không được chỗ khó hay bằng thì làm sao nói đến người khác.
 
@@ -887,7 +887,7 @@ Màu sắc dọc ngang ý tự khác.
 
 Sư nói: Bát Nhã vô tri, không có chỗ nào không biết cho nên tịnh bao hàm có dư. Năm đầu tiên Niên hiệu Vĩnh Xương Nguyên Đế đời nhà Tấn. Vua Đơn Điền Vũ Xương khởi binh sai lầm họ Đao cùng nhau khuyên vua, giết hết dòng họ vua, vua dẫn quân đến tại đợi trị tội. Tướng Châu Đầu vào Triều Đạo nói rằng: Bá nhơn dùng 100 cái miệng để chứa ông. đầu không nhìn lui bên vào thẳng trung thành của Đạo đích thân cầu cứu rồi dẫn đạo đến cửa lại nói không nên. Bèn nói: Năm nay giết giặc Nô Kim ấn như đấu lời buộc sau cánh tay tìm lại dâng biểu, sáng ra Đạo vô tội. Đạo không biết (21) rất hận. Đôn Binh đã đến bèn hỏi đạo Chu Đầu có thể được sống không? Đạo không trả lời Đôn bèn giết Đầu. Sau đó Đạo ghi vào sách Thầy Đầu cứu biểu rồi. Lưu thế nói: Trong chốn u minh gánh vác bạn tốt này. Tòng lâm lại có bùa sau khuỷu tay. Sau Xuân Thu nói: Triệu Giản Tử bảo các đệ tử rằng: Bùa báu ở sau cánh tay của ta là trên Trường Sơn ai lấy trước được thưởng. Các đệ tử tìm đến trên núi tìm không được chỉ có. Nhương Tử mẫu Tuất trở lại nói:. Tuất đã được bùa rồi. Ông ta vào đều không thể phân. Giản Tử xin tâu lên vua. mẫu Tuất nói: Từ trên Thường Sơn cho đến xuống hạ lâm có thể lấy được. Giản Tử nói: Mẫu Tuất là bậc hiền tài lập làm Thái Tử. Vân Nham hiển bài đại chúng rằng: có một người con ở trong nhà hỏi đến không có đạo hay là không đạt tới. Động Sơn hỏi rằng: Trong nhà nó có bao nhiêu sách vở. Vân Nham nói: Một chữ cũng không có. Động Sơn nói: Biết được bao nhiêu? Vân Nham nói: Đêm ngày không biết ngủ. Động Sơn lại nói: Hỏi một việc cũng không được. Vân Nham nói: Đạo mà được tức không phải đạo. Sau khuỷu tay ai phân ấn. Ở trong sâu kín tự nó được đạo. Con người ông ta không thể phân. Trong nhà ông ta không chứa sách biết được bao nhiêu? Sinh ra mà biết trên, học mà biết dưới. Đây là lừa dòm giếng. Giếng dòm lừa trở lại chấp nhận phãn cắt lãnh giám phân không. Trở lại chấp nhận học hỏi truyền bá vô. Lại Sơn nói: trong khi nghe sinh hiểu biết dưới ý Chu Thanh, dưới mắt tức đẹp. Không lâu uẩn thành bệnh núi xanh cùng với mây trắng cùng đến máy dệt không treo đầu con thoi. Đường viền màu sắc ngang dọc ý tự nó khác. Gia tướng một đường trí giả biết thông thạo. Thụy thảo vô căn hiền giả không quí. Thiên Đồng trước sau toàn dùng hiệp sơn kim cặp câu đối. Dùng lời nói rõ ràng mà không rơi vào tư duy. Đường viền và màu sắc tự nó đầy đủ vả lại đạo sao đủ tam muội? Lại được như đây, chỉ không có một cái chóp mũi đây mà các thuyền chìm sao?
 
-TẮC THỨ 53. HOÀNG TỊCH ĐỒNG TAO
+## TẮC THỨ 53. HOÀNG TỊCH ĐỒNG TAO
 
 Dạy đại chúng: Đến máy không thấy Phật. Đại ngộ không còn Sư. Quyết định càn khôn kiếm chìm nhân tình. Bắt Hổ, Tê Giác mà quên đi thánh giải. Vả lại đạo lược người làm gì?
 

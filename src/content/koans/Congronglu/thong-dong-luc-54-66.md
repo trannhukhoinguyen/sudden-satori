@@ -9,7 +9,7 @@ tags:
   - THONG DONG LỤC
 ---
 
-TẮC THỨ 54: ĐẠI BI CỦA VÂN MÔN
+## TẮC THỨ 54: ĐẠI BI CỦA VÂN MÔN
 
 Dạy chúng: Tám mặt bóng lộn, mười phương thông xướng khắp nơi phóng quang động đất, tất cả thời thần thông diệu dụng. Hãy nói làm sao phát hiện?
 
@@ -65,7 +65,7 @@ Hiện tiền tay mắt hiển toàn cơ
 
 Sư nói: Thiên Đồng nói: Do một hang thông khắp liền được tám mặt bóng lộn, lại như hoa liễu đường ngày âm hòa tiếng gió, mùa xuân ở đâu, làm một đoạn hình gì. Nhưng có thể ứng vật thừa thời không bị ngại, như mặt trăng trên không mặc cho chuyển vận, biết toàn thân toàn thân, người dùng tay sờ tìm gối là người nào? Tượng gỗ trong nhà ắt có người kéo chỉ tơ. Lăng Nghiêm nói tám vạn bốn ngàn mắt báu thanh tịnh, tám vạn bốn ngàn cánh tay mổ tà la, tám vạn bốn ngàn đầu thước ca la. Hưng Hóa rơi xuống ngựa gãy tay làm bài tụng. “Bồ Tát Đại Bi có ngàn tay, bậc trượng phu ai mà không có”. Hãy nói cái nào là tay mắt toàn thân. Sư lấy tay phách mắt nói con mèo.
 
-TẮC THỨ 55. CÁI BÁNH CỦA TUYẾT PHONG
+## TẮC THỨ 55. CÁI BÁNH CỦA TUYẾT PHONG
 
 Dạy chúng: Băng lạnh hơn nước, màu xanh phát xuất từ màu lam, thấy vượt hơn sư mới chịu truyền trao. Con nuôi không bằng cha, gia môn một đời suy. Hãy nói: đoạt then chốt của cha là người nào?
 
@@ -111,7 +111,7 @@ Sư nói: “Diệu Chỉ rốt ráo” như thế, khó biết ngang cứng nh�
 
 Thiên Đồng dùng hai câu sau, không nhọc đưa ra ý lại sau khi nêu thì thế nào, Sư xuống tòa về phương trượng.
 
-TẮC THỨ 56: CON THỎ TRẮNG CỦA MẬT SƯ
+## TẮC THỨ 56: CON THỎ TRẮNG CỦA MẬT SƯ
 
 Dạy chúng: Thà trầm luân muôn kiếp chứ không cầu pháp giải thoát của Chư Thánh. Đề-bà-đạt-đa thọ lạc tam thiền trong địa ngục Uất Đầu Lam Phật đọa làm thân chồn bay trên Hữu Đảnh Hãy nói: Lợi hại chổ nào?
 
@@ -165,7 +165,7 @@ Tuy Thiên Đồng Phần Thượng còn rơi vào giai cấp. Không thấy nó
 
 Chân tình theo dấu lão ngư tiều
 
-TẮC THỨ 57: MỘT VẬT CỦA NGHIÊM DƯƠNG
+## TẮC THỨ 57: MỘT VẬT CỦA NGHIÊM DƯƠNG
 
 Dạy chúng: Lắc bóng nhọc hình, không biết hình là gốc của bóng, cử tiếng thì dừng vang. Không biết tiếng là gốc của vang. Nếu không phải là cưỡi trâu tìm trâu, chính là cầm đinh mà đi tìm đinh, làm sao tránh khỏi lỗi này.
 
@@ -207,7 +207,7 @@ Triệu Châu đối với ông chưa nói trước, trước phải thấy số
 
 Nghiêm Dương dù đi ngang đi dọc, đi khắp mấy nẽo mà không biết cái rìu mọc. Truyện Vương Thị Thần Tiên nói lại vào thời Phổ Long An có ông Vương Chất huyện Tín An, hái củi đến sườn núi Huyền Thất, thấy bốn đồng tử đánh cờ nơi Thạch Thất ông ta bèn cho táo. Ngậm nó thì không đói, con cờ rốt cuộc thành búa rìu mọc nơi lưng, áo quần bay theo gió, đến tối trở về nhà thì đã mấy mươi năm. Triệu Châu buông xuống gánh đi hai chuyển ngữ tách xương, rút tủy, đổi xương rửa ruột bèn nắm tay cùng đi với Triệu Châu bước nhẹ như hư không, có người nói thanh nhàn là gốc chơn đạo, tiểu thần tiên vô sự. Tuy chớ đem vô sự làm vô sự, thường thường việc từ vô sự phát sinh.
 
-TẮC THỨ 58: CƯƠNG KINH KHINH TIỆN
+## TẮC THỨ 58: CƯƠNG KINH KHINH TIỆN
 
 Dạy chúng: Y kinh giải nghĩa ba đời Phật oan, lìa kinh một chữ thì đồng ma thuyết. Nhân đó không nhận, quả nhiên có người không vào liến thọ nhiệp báo không?
 
@@ -249,7 +249,7 @@ Phú Lâu Na thưa: Người này tâm cuồng, không có duyên cớ khác.
 
 Sư nói: “Đây là căn tánh ngươi vốn có, chẳng phải do ta miễn cưỡng nói, giúp ngươi. Thần lạy một lần nữa rồi biến mất”. Đất ngói hợp thành, Thánh từ đâu đến, không có tướng nhân ngã ấy là trí Bát nhã. Dùng chơn trí làm vọng nghiệp, xưa nay cô phụ, ngày nay chúc mừng, nấu vật cúng tế hoàn toàn không có phước lợi. Thiền lão gõ vào ba cái liền được sinh thiên. Ôi, quỷ sợ người ác khó xòe tay, giặc nhờ vật cướp dễ đảm đương.
 
-TẮC THỨ 59. RẮN CHẾT CỦA THANH LÂM
+## TẮC THỨ 59. RẮN CHẾT CỦA THANH LÂM
 
 Dạy chúng: Đi thì ở lại, ở lại thì đi, không đi không ở, ông ta lẽ nào không có quốc độ, nơi nào gặp ông ta ở khắp nơi. Hãy nói là vật gì được đặc biệt như thế.
 
@@ -349,7 +349,7 @@ Ngày sáng chia tiền nơi sóng lớn.
 
 Việc này như người đi thuyền không dính hai bờ, không trụ giữa dòng. Đan Hà ban đêm ngũ hoa lau. Thiên Đồng tin gió thổi ngang. Hãy nói: Quay mái chèo xoay thuyền thời thế nào? Đêm sâu không ngủ nơi bờ lau, trong lúc quay ra cùng hai đầu
 
-TẮC THỨ 60: CON TRÂU CÁI THIẾT MA
+## TẮC THỨ 60: CON TRÂU CÁI THIẾT MA
 
 Dạy chúng: Lỗ mũi phập phồng đều đủ tướng trượng phu gót chân buộc thật, chịu học thiền lão bà, không thấu được thiền cơ, mới thấy đang làm phương pháp của bậc tài giỏi.
 
@@ -395,7 +395,7 @@ Sư nói: Tiểu Tăng nói nhiều về Phật, già sẽ không luận bàn bi
 
 Truyện Đông Hán Trần Phiên nói: Phiên hay đứng trên cây nghe tiếng gió, chống cự luận bàn kẻ hôn tục, mà chạy theo chốn hiểm nguy, đấu tranh với kẻ nộm. Hai người gặp nhau không đứng trên cây nghe tiếng gió, không chạy theo chốn hiểm nguy, vui chơi bình dị, lão thành viên thục. Thiên Đồng thường ca ngợi đâu thể hết, được chỗ tự nhiên quên so lường, khi dùng toàn không phí công phu.
 
-TẮC THỨ 61: CÀN PHONG VẼ MỘT ĐƯỜNG
+## TẮC THỨ 61: CÀN PHONG VẼ MỘT ĐƯỜNG
 
 Dạy chúng nói quanh co dể lảnh hội, một tay phân phó nói thẳng khó lãnh hội, chữ thập đã khai, khuyên anh không cần lời rõ ràng, nói rõ ràng chuyển ra thì khó, không tin thử nêu xem
 
@@ -439,7 +439,7 @@ Thiên Đồng nói: Là hương hoàn hồn mọi người biến làm trống 
 
 Chí Công nói: Bỗng ngộ bản tánh vốn không giống như bệnh cảm được toát mồ hôi, tuy lông mày Vạn Tùng có mấy cọng.
 
-TẮC THỨ 62: MỄ HỒ CÓ NGỘ KHÔNG.
+## TẮC THỨ 62: MỄ HỒ CÓ NGỘ KHÔNG.
 
 Dạy chúng nói: Đệ nhất nghĩa đế của Đạt Ma, Lương Vũ Đế mê muội, Tịnh Danh thì pháp môn bất nhị, Văn Thù lắm miệng, có người nào vào để phân không?
 
@@ -551,7 +551,7 @@ Thi Ức Thiên nói: Vết của châu ngọc còn có thể mài, bệnh bên 
 
 Tụng này là Ngưỡng Sơn quý ngọc không tỳ vết, không rơi vào đầu thứ hai. Thế nào là đầu thứ nhất? Sau khi đại ngộ mới biết không phải.
 
-TẮC THỨ 63: TRIỆU CHÂU HỎI VỀ CÁI CHẾT.
+## TẮC THỨ 63: TRIỆU CHÂU HỎI VỀ CÁI CHẾT.
 
 Dạy chúng rằng: Tam Thánh Tuyết Phong lan mùa Xuân, cúc mùa Thu. Triệu Châu, Đầu Tử, Biện Bích, Yên Kim không lên cân mà hai đầu bằng, không qua sông một chỗ, hai người gặp nhau thì thế nào?
 
@@ -649,7 +649,7 @@ Tây Hán sử nói Đan Vi rằng: Thiên Tử ở trên rừng bắn được 
 
 Hán Thái Bá vui với các cô gái tên là Đàm Tử Văn Hy làm thế với Đồng Tử, sắp đặt việc cho công Biên. Đổng Bá có lần đi tuần nên bị người bắt sống. Đàm là thứ phi của vua, một hôm vì nhớ quê hương nên viết thư bỏ trong sáp ong đeo nơi cổ chim nhạn. Chim nhạn bay đến đất Hán, lúc chim sà xuống uống nước nên thư bị rớt xuống biển. Cá nuốt chửng lá thư. Người đánh cá bất ngờ mổ cá ra liền được lá thơ mới biết được chỗ ở của Đàm. Bài tụng này “không cho đi đêm sáng phải đến”, không biết ngoài xa giả thông tin tức. Tuy nhiên Thượng Lý Thiên Đồng vừa đến thì giả cảm tạ sự hối hận truyền pháp.
 
-TẮC THỨ 64: TỬ CHIÊU NỐI PHÁP
+## TẮC THỨ 64: TỬ CHIÊU NỐI PHÁP
 
 (2) Dạy chúng: Thiệu Dương đích thân tham kiến Mục Châu, niêm hương với lão Tuyết. Đầu Tử gánh vác nơi Viên Giám nối pháp nơi Đại Dương. Trên cành san hô hoa ngọc rộ, trong rừng lau quả vàng chín mùi. Hãy nói thế nào là tạo hóa?
 
@@ -729,7 +729,7 @@ Trương Hủ Tử Nguyên Khanh nói mở ba lối chỉ có Dương Trọng C�
 
 Thế nào là yếu chỉ của Trường Khánh, trong vạn tượng chỉ lộ thân?
 
-TẮC THỨ 65. VỢ MỚI CƯỚI CƯỠI LỪA A GIA DẮT MŨI
+## TẮC THỨ 65. VỢ MỚI CƯỚI CƯỠI LỪA A GIA DẮT MŨI
 
 Dạy chúng nói: Tra tra sa sa, bác lạc bác lạc, đao đao đạp đạp, mạn mạn hãn hãn, không có cắn nhai, khó mà gần kề. Hãy nói là lời gì?
 
@@ -789,7 +789,7 @@ Hư được bình yên thì liền thôi.
 
 Thư Sơn đáp lời cũng không cần tô điểm, tự nhiên bà vợ mất đẹp, như Tây Thi buồn khóc cau mày, càng thấy đẹp. Còn người nữ xấu học theo cau mày càng thấy xấu hơn. Đây là trách lối học bên ngoài, không chú trọng sự diệu ngộ, nhất tâm cũng đợi làm phong lưu, bốn dòng tám phái không chịu.
 
-TẮC THỨ 66: CỬU PHONG ĐẦU VĨ
+## TẮC THỨ 66: CỬU PHONG ĐẦU VĨ
 
 Dạy chúng: Thần thông diệu dụng, thả chân không xuống, quyên duyên tuyệt lự, nâng chân không lên, có thể gọi là có khi đi giết, có lúc ngồi giết, làm sao được giống nhau
 

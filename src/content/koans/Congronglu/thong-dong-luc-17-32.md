@@ -1,5 +1,5 @@
 ---
-title: "THONG DONG LỤC 17-32"
+title: "THONG DONG LỤC 1-16"
 meta_title: "Công án THẾ TÔN THĂNG TÒA"
 description: "Quán rõ pháp của pháp vương, pháp của pháp vương như thế"
 excerpt: "Quán rõ pháp của pháp vương, pháp của pháp vương như thế"
@@ -9,7 +9,7 @@ tags:
   - THONG DONG LỤC
 ---
 
-TẮC THỨ 1: THẾ TÔN THĂNG TÒA
+## TẮC THỨ 1: THẾ TÔN THĂNG TÒA
 
 Dạy chúng nói: Đóng cửa ngũ say, tiếp bậc căn cơ thượng đẳng, sử dụng ngữ cú để chỉ bày, là phương tiện, tiếp dẫn hàng trung hạ. Đâu kham lên pháp đường, cố tình huyễn hoặc mọi người, có người bên cạnh không chịu ra, cũng không làm gì được Y.
 
@@ -49,7 +49,7 @@ Lại nói: “ Ngại gì tiết lộ bởi thần Xuân”, Văn Thù bạch c
 
 Ông nói: cái nào là chổ để lộ chúa Xuân, ân cần là hiểu rõ đinh hương kết, cành lá mọc mùa Xuân tự tại.
 
-TẮC THỨ 2: RỖNG RANG KHÔNG THÁNH
+## TẮC THỨ 2: RỖNG RANG KHÔNG THÁNH
 
 Sư dạy chúng rằng: Bóc Hòa Tam Hiến, chưa thoát khỏi hành hình, đến sáng chiếu vào người sáng, chẳng án kiếm, khách chết chủ không chết, thích hợp giả chẳng thích hợp chân, của báu quý giá không nắm được, chỉ vớ được đầu mèo chết.
 
@@ -109,7 +109,7 @@ Mạch Mẫn khách đời Hậu Hán ở Thái Nguyên, từng gánh đá lấp
 
 Thiên Đồng thượng đường nói: Nhất điểm trong vũ trụ chiếu cực vi, chổ trí không công vẫn biết được, duyên tư sạch hết không có việc khác, nữa đêm sao chiếu xuống sông Hằng. Hai câu này như người câm làm thông sự giống như đến người thổ lộ không được, làm sao thầy trò có thể truyền thọ cho nhau, thuốc bệnh trị nhau, chuyển đổi không dính líu, làm sao được toàn cơ chánh lệnh, không hao tổn bao nhiêu lông rùa, Thạch nữ cầm cỏ châm vào hư không.
 
-TẮC THỨ 3: ĐÔNG ẤN THỈNH TỔ
+## TẮC THỨ 3: ĐÔNG ẤN THỈNH TỔ
 
 Dạy chúng rằng: Kiếp trước cơ phong chưa có điềm tốt, chim rùa theo lửa, một câu “Giáo ngoại biệt truyền miệng cối mọc hoa. Hãy nói còn có phân thọ trì đọc tụng không?
 
@@ -209,7 +209,7 @@ Vua hỏi: Đại Sư đại đức vì sao xem hết? Tỉnh đáp: Sứa nuố
 
 Biếu Kinh Hoa Nghiêm cho người khác lại có nạp tăng lãnh hội, Vạn Tùng đến đây bất giác bậc cười, Hãy nói: Cười cái gì? Chổ La Hán Vân Cư vẫy tay áo là khi xấy lửa mở miệng bình trà.
 
-TẮC THỨ 4: THẾ TÔN CHỈ XUỐNG ĐẤT
+## TẮC THỨ 4: THẾ TÔN CHỈ XUỐNG ĐẤT
 
 Dạy đại chúng rằng: Một trần vừa khởi, thấu hết đại địa, một mình lẻ loi, khai mở đất đai, lại có thể tùy theo nơi mà làm chủ, gặp duyên tức tông chỉ là người thế nào?
 
@@ -223,7 +223,7 @@ Sư nói: Thiên Đồng trước đem câu tụng làm công án, sau đó phô
 
 Hãy nói: Lưu phò mã ăn chơi, xây dựng viện Báo An này, cùng Đế Thích cắm cọng cỏ, giống hay khác? Sư dựng phất trần nói: Ngàn năm thường trụ nhất Triêu Tăng.
 
-TẮC THỨ 5: GIÁ GẠO CỦA THANH NGUYÊN
+## TẮC THỨ 5: GIÁ GẠO CỦA THANH NGUYÊN
 
 Dạy đại chúng: Diêm Đế cắt thịt nuôi dưỡng cha mẹ, không đưa vào truyện Hiếu Tử, Điều Đạt xô đá hại Phật, há sợ tiếng sét, qua được rừng gai, chặt đổ cây Thiên đàn, dù đời năm cùng tháng tận, vẫn là chén Xuân còn lạnh, Pháp thân của Phật ở chỗ nào?
 
@@ -251,7 +251,7 @@ Vua hỏi: Lúc nào thì thiên hạ thái bình?
 
 Tăng Nhụ đáp: Thái Bình không có phép tắc, nay Tứ Di không xâm chiếm, trăm họ không ly tán, tuy không trừng trị, cũng gọi là Tiểu Khang. Nếu bệ hạ cầu thái bình thì chẳng phải thần đã đánh kịp, thối mà liên lụy đến biểu thỉnh thôi. Sau ra làm Tiết Độ Sứ ở Hoài Nam. Vạn Tùng nói: Đã đặt ra sách mẫu cho nên gia phong của lão quê đánh phá sự ca ngợi, lể nhạc văn chương đặc biệt là Thánh, giá gạo lô Lăng, có thể nắng gay gắt, đức Vua Thuấn lường nhân Vua Nghiêu, gió thấm tự hòa, thôn ca xả múa, được những điều đó sao? Trăng thanh gió mát, mỗi người yên với số phận của mình, lại lãnh hội được không? Sư bèn trở về Tăng đường.
 
-TẮC THỨ 6: BẠCH HẮC MÃ TỔ
+## TẮC THỨ 6: BẠCH HẮC MÃ TỔ
 
 Dạy đại chúng rằng: Lúc mở miệng không được, người không có lưỡi biết nói nhấc chân không chổ đứng, người chân biết đi. Nếu bỏ thân trong hang này, chết ở Câu Cú, há có phần tự do.
 
@@ -303,7 +303,7 @@ Vạn Tùng nói: Là Tâm hạnh gì? Đầu bạc đầu đen đều là con t
 
 Vạn Tụng nói: Chỉ có sóng ở nước trong, lại không có sóng ngập trời rành rành cắt đứt ngôn ngữ mọi người, đáng cười thay lão Tỳ Da lão luyện. Phạm ngữ Tỳ Da Ly, Hán dịch Quảng Nghiêm, là tên Thành của Duy ma ở. Văn Thù hỏi về Pháp môn bất nhị. Duy Ma im lặng Vị Tăng này hỏi cha con Mã Sư, lòng vòng khắp nơi. Hãy nói: chổ nào là đáng cười không tránh được sự xúc chạm, ngày nay hơn trước kia.
 
-TẮC THỨ 7: DƯỢC SƠN THĂNG TÒA
+## TẮC THỨ 7: DƯỢC SƠN THĂNG TÒA
 
 Dạy đại chúng rằng: Mắt tai mũi lưỡi, đều có một khả năng lông mày ở trên Sỉ, nông, công thương đều quy về một nhiệm vụ, người ngu thường nhàn rổi, bổn phận tông sư làm sao thi hành.
 
@@ -353,7 +353,7 @@ Thế Tôn rủ lòng thương xót, khai mở sự mê muội của con, làm c
 
 Thiên Đồng tụng như thế? Vạn Tùng nói như thế là hết khóc bởi là vàng, chỉ vì các người ở trong mộng chưa tỉnh, người tỉnh ngủ gọi tiếng liền tỉnh, người ngủ nhiều hay lay mới giật mình lại có phen đánh đập, lục soát giống như tự lừa bịp so với Dược Sơn, trời tạnh hạc làm tổ, sương xuống không ngủ nghê được sương, bùn có sự ngăn cách, tuy như vậy, ăn nói rất nhiều.
 
-TẮC THỨ 8: BÁCH TRƯỢNG DÃ HỒ
+## TẮC THỨ 8: BÁCH TRƯỢNG DÃ HỒ
 
 Dạy đại chúng rằng: Nhớ rõ chữ đầu tiên, ở trong lòng thì rơi vào địa ngục như tên bắn, một chút: “Dã hồ tinh” đàm dãi con chồn, nuốt vào 30 năm nhã không ra, không phải lĩnh nghiêm của Tây Thiên, chỉ bị nghiệp chó dại, đã có người phạm tội chăng?
 
@@ -413,7 +413,7 @@ Thiền sư Thiện Đạo ở Thạch Thất nói: Trong 1 hạnh của Kinh Ni
 
 Hãy nói: Thế nào là điệu hát? Vạn lại cố ý nghe mà không được, Hồ Nham không có lổ lại nghe được.
 
-TẮC THỨ 9: NAM TUYỀN CHÉM MÈO
+## TẮC THỨ 9: NAM TUYỀN CHÉM MÈO
 
 Dạy đại chúng rằng: Đạp qua biển xanh,
 
@@ -469,7 +469,7 @@ Thúy Nham Chi nói: Đại tiểu Triệu Châu chỉ có thể tự cứu phó
 
 Thiên Đồng nói: Là trong cái lạ lại xem rỏ ràng, chỉ có vàng thật không có cát lẫn lộn, chỉ có thể thuận gió đẩy thuyền, không biết ngược gió cầm lái, mà nay một đội này của ông đến đây, mèo lại không có, mèo lại không liền lấy gậy đuổi ra.
 
-TẮC THỨ 10: BÁ TỬ ĐÀI SƠN
+## TẮC THỨ 10: BÁ TỬ ĐÀI SƠN
 
 Dạy đại chúng rằng:
 
@@ -537,7 +537,7 @@ Tôi được thức ăn của người đánh cá, xem kỹ nó là con rùa v�
 
 Lạc nói: Muốn biết kẻ thượng lưu, không được đem ngôn giáo của Phật Tổ dán ở trên trán, như rùa mạng mưu kế là điềm báo mất mạng, chim phượng sa lưới vàng hướng về trời cao, thì còn mong muốn gì nữa? con ngựa quý của Chu Mục Vương, cởi mây mà đi nhanh hơn cả chim bay, cho nên ngựa hiền theo gió. Bài tụng này nói Bà Già hay khám phá lão Tăng, mà không thoát khỏi sự khám phá của Triệu Châu, Triệu Châu có thể khám phá không tránh khỏi sự kiểm điểm của Lang Da. Thiều Tông gọi đó là pháp vàng phân, không hiểu như vàng, khám phá như phân. Cho nên nói: Muốn nói người trước không cần đến tiền, chỉ cần ông xa lìa tình lượng được mất thắng bại, tự nhiên như bà già này, thì thấy Triệu Châu như đến cửa của Vạn Tùng, không được đội tấm ván trên đầu.
 
-TẮC THỨ 11: HAI CĂN BỆNH CỦA VÂN MÔN
+## TẮC THỨ 11: HAI CĂN BỆNH CỦA VÂN MÔN
 
 Dạy đại chúng rằng:
 
@@ -609,7 +609,7 @@ Vân Môn nói: Tâm của Lão Ngư Xuyến Linh để ở chợ, chiếc lá b
 
 Người bệnh tật phần nhiều rành thuốc men, được kiểm hiệu mới giám truyền.
 
-TẮC THỨ 12: ĐỊA TẠNG CÀY CẤY
+## TẮC THỨ 12: ĐỊA TẠNG CÀY CẤY
 
 Dạy đại chúng rằng:
 
@@ -711,7 +711,7 @@ Sóng nước đục có thể rửa chân ta
 
 Đây chính là vượn hạc cùng hạc có chim cùng dạo. Hãy nói là người nào kẻ gánh vác bản sắc.
 
-TẮC THỨ 13: CON LỪA MÙ CỦA LÂM TẾ
+## TẮC THỨ 13: CON LỪA MÙ CỦA LÂM TẾ
 
 Dạy đại chúng rằng: Một mực vì người không biết có mình, hết thảy pháp bất luận là không có dân chúng, phải là ném gối gỗ hận chân tay, lúc sắp đi phải làm thế nào?
 
@@ -769,7 +769,7 @@ Lễ bái Tam Thánh.
 
 Lâm Tế nói kệ: Phần nhiều có chỗ phóng qua buông bỏ Còn có cùng người xưa thở ra chăng?
 
-TẮC THỨ 14: THỊ GIẢ KHUẾCH RÓT TRÀ
+## TẮC THỨ 14: THỊ GIẢ KHUẾCH RÓT TRÀ
 
 Dạy đại chúng rằng: Cầm cây sào ở trong tay, bóng cỏ tùy thân, gâm buộc sắt, có khi lụa giữ đá
 
@@ -823,7 +823,7 @@ Cho nên nói: Điện sấm lửa xẹt lại chậm. Đức Sơn há không bi
 
 Bổng có người hỏi Vạn Tùng đi đâu? Chỉ vào gò má nói. Ở đây. Ắt phải là dạy rồng bay rùa rút cổ lại. Thị Giả Đức Sơn mất hết sự nhạy bén. Lại biết lão già Đức sơn chẳng lúc còn trẻ từng quyết chiến với rồng và rắn, ngược lại còn nghe bài ca của trẻ con
 
-TẮC THỨ 15: NGƯỠNG SƠN CẮM CÁI XẺNG
+## TẮC THỨ 15: NGƯỠNG SƠN CẮM CÁI XẺNG
 
 Dạy đại chúng rằng:
 
@@ -911,7 +911,7 @@ Pháp Đăng nói: Lão nhà quê gánh củi về, dục vợ làm đêm, thấ
 
 Hãy nói: Nhớ sức người nào? Hỏi ù ù cạc các, trái lại sinh nghi hoặc, thương thay người xưa nay, mấy ai biết ân đức, biết có đời sao như thế? Chặt tay không biết đau, đứng tuyết không biết mệt, cho nên lão Vạn Tùng lui tới viện Báo An
 
-TẮC THỨ 16: TÍCH CHẤN MA CỐC
+## TẮC THỨ 16: TÍCH CHẤN MA CỐC
 
 Dạy đại chúng: Chỉ con Nai là ngựa
 
@@ -929,23 +929,29 @@ CÔNG ÁN: Ma cốc cầm tích Trượng đến Chương Kính nhiểu quanh th
 
 Nam Tuyền nói: Không phải, không phải
 
-Cốc nói: Chương kính nói đúng, Hòa Thượng vì sao nói không đúng?
+Cốc nói: **Chương kính nói đúng, Hòa Thượng vì sao nói không đúng?**
 
-Nam Tuyền nói: Chương Kính thì đúng, còn ông không đúng, đây chính là bị sức gió chuyển rút cuộc thành bại hoại
+Nam Tuyền nói: **Chương Kính thì đúng, còn ông không đúng, đây chính là bị sức gió chuyển rút cuộc thành bại hoại**
 
-Sư nói: Ngày xưa Ngưỡng Sơn đến tạ giới Trung Ấp, Ấp ở trên giường vỗ tay nói: A da, a da Ngưỡng từ Tây sang Đông, từ Đông sang Tây: Lại trở về đứng ở giữa. Sau đó tạ giới, Ap nói: Tam Muội này ở đâu?
+Sư nói:
+**Ngày xưa Ngưỡng Sơn đến tạ giới Trung Ấp, Ấp ở trên giường vỗ tay nói: A da, a da Ngưỡng từ Tây sang Đông, từ Đông sang Tây: Lại trở về đứng ở giữa. 
+Sau đó tạ giới, Ap nói: Tam Muội này ở đâu?**
 
-Ngưỡng Sơn nói: Ở Tào con được Khê ấn khả
+Ngưỡng Sơn nói: **Ở Tào con được Khê ấn khả**
 
-Ấp hỏi: Ông nói Tam Muội Tào Khê tiếp nhận người nào?
+Ấp hỏi: **Ông nói Tam Muội Tào Khê tiếp nhận người nào?**
 
-Ngưỡng đáp: Tiếp nhận thức 1 đêm
+Ngưỡng đáp: **Tiếp nhận thức 1 đêm**
 
-Ngưỡng lại nói: Hòa Thượng được Tam Muội này ở đâu?
+Ngưỡng lại nói: **Hòa Thượng được Tam Muội này ở đâu?**
 
-Ap nói: Được Tam Muội nơi Mã Đạo Sư
+Ấp nói: **Được Tam Muội nơi Mã Đạo Sư**
 
-Thiền sư Bồ Châu Ma Cốc Bảo Triệt giống như Vĩnh Gia ban đầu gặp Lục Tổ, cầm tích trượng đến. Chương Kính, nhiễu quanh thiền sàng 3 vòng rồi dộng xuống 1 cái đứng lặng cũng như học ấn khả ở Tào Khê đến. Đây gọi là Tam Muội Vương Tam Muội tất cả Tam Muội đều sinh ra từ đây.
+Thiền sư Bồ Châu Ma Cốc Bảo Triệt giống như Vĩnh Gia ban đầu gặp Lục Tổ, cầm tích trượng đến. 
+
+Chương Kính, nhiễu quanh thiền sàng 3 vòng rồi dộng xuống 1 cái đứng lặng cũng như học ấn khả ở Tào Khê đến. 
+
+Đây gọi là Tam Muội Vương Tam Muội tất cả Tam Muội đều sinh ra từ đây.
 
 Chương Kính nói: Đúng thế, đúng thế Vạn Tùng nói: Có gì không đúng?
 
