@@ -483,27 +483,36 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
           day: 'numeric'
         })}</em></time>
         ${
-          post.categories ? `
+        post.categories ? `
+            <div class="post-badges"> 
+              <div class="badge-list"> 
+                <span class="badges-label" title="Categories">📦</span> 
+                 ${post.categories.map((cat: string) => `<span class="badge-label badge-category badge-item">                                                                    
+                    <a href={\`${base}categories/${cat.toLowerCase()}\`}> 
+                        <span class="badge badge-label badge-tag"></span> 
+                    </a>
+                  </span>`)}
+              </div> 
+            </div>
             <div class="badge-list">
-              📦 ${post.categories.map((cat: string) => `<span class="badge-label badge-category badge-item">                                                                    
-                                                                    <a href={\`${base}categories/${cat.toLowerCase()}\`} class="badge-link">
-                                                                      ${cat}
-                                                                    </a> 
-                                                                  </span>`).join(' ')}
+
             </div>
           ` : ''
     }
         ${
         post.tags ? `
-            <div class="badge-list">
-              🎏 ${post.tags.map((tag: string) => `<span class="badge-label badge-category badge-item">
-                                                              <a href={\`${base}tags/${tag.toLowerCase()}\`} class="badge-link">
-                                                                ${tag}
-                                                              </a>                                             
-                                                            </span>`).join(' ')}
+            <div class="post-badges"> 
+              <div class="badge-list"> 
+                <span class="badges-label" title="Tag">🎏</span> 
+                 ${post.tags.map((tag: string) => `<span class="badge-label badge-category badge-item">                                                                    
+                    <a href={\`${base}tags/${tag.toLowerCase()}\`}> 
+                        <span class="badge badge-label badge-tag"></span> 
+                    </a>
+                  </span>`)}
+              </div> 
             </div>
           ` : ''
-        }
+    }
         ${post.excerpt ? `<p class="search-result-excerpt">${post.excerpt}</p>` : ''}
       </article>
     `).join('');
