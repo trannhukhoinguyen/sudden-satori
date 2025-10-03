@@ -484,7 +484,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
         <h3 class="search-result-title">
           <a href="${base}${post.url.startsWith('/') ? post.url.slice(1) : post.url}">${post.title}</a>
         </h3>
-        <time class="search-result-date"><em style="color: var(--color-accent-burlywood)">${new Date(post.date).toLocaleDateString('en-US', {
+        <time class="search-result-date" style="margin-bottom: 8px"><em style="color: var(--color-accent-burlywood)">${new Date(post.date).toLocaleDateString('en-US', {
           year: 'numeric',
           month: 'long',
           day: 'numeric'
@@ -496,7 +496,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
                 <span class="badges-label" title="Categories">📦</span> 
                  ${post.categories.map((cat: string) => `<span class="badge-label badge-category badge-item">                                                                    
                     <a href={\`${base}categories/${cat.toLowerCase()}\`}> 
-                        <span class="badge badge-label badge-tag"></span> 
+                        <span class="badge badge-label badge-tag">${cat}</span> 
                     </a>
                   </span>`)}
               </div> 
@@ -513,7 +513,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
                 <span class="badges-label" title="Tag">🎏</span> 
                  ${post.tags.map((tag: string) => `<span class="badge-label badge-category badge-item">                                                                    
                     <a href={\`${base}tags/${tag.toLowerCase()}\`}> 
-                        <span class="badge badge-label badge-tag"></span> 
+                        <span class="badge badge-label badge-tag">${tag}</span> 
                     </a>
                   </span>`)}
               </div> 
