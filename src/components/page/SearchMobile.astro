@@ -465,7 +465,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       if (searchResults) {
         searchResults.innerHTML = `
           <div class="search-no-results">
-            <p>No articles found for "${query}"</p>
+            <p>No articles found for "<span style="color: var(--color-accent-chartreuse)">${query.toUpperCase()}</span>"</p>
           </div>
         `;
       }
@@ -477,22 +477,30 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
         <h3 class="search-result-title">
           <a href="${base}${post.url.startsWith('/') ? post.url.slice(1) : post.url}">${post.title}</a>
         </h3>
-        <time class="search-result-date">${new Date(post.date).toLocaleDateString('en-US', {
+        <time class="search-result-date"><em style="color: var(--color-accent-burlywood)">${new Date(post.date).toLocaleDateString('en-US', {
           year: 'numeric',
           month: 'long',
           day: 'numeric'
-        })}</time>
+        })}</em></time>
         ${
-          post.categories ? `📦
+          post.categories ? `
             <div class="badge-list">
-              ${post.categories.map((cat: string) => `<span class="badge-label badge-category">${cat}</span>`).join(' ')}
+              📦 ${post.categories.map((cat: string) => `<span class="badge-label badge-category badge-item">                                                                    
+                                                                    <a href={\`${base}categories/${cat.toLowerCase()}\`} class="badge-link">
+                                                                      ${cat}
+                                                                    </a> 
+                                                                  </span>`).join(' ')}
             </div>
           ` : ''
-        }
+    }
         ${
-          post.tags ? `🎏
+        post.tags ? `
             <div class="badge-list">
-              ${post.tags.map((tag: string) => `<span class="badge-label badge-category">${tag}</span>`).join(' ')}
+              🎏 ${post.tags.map((tag: string) => `<span class="badge-label badge-category badge-item">
+                                                              <a href={\`${base}tags/${tag.toLowerCase()}\`} class="badge-link">
+                                                                ${tag}
+                                                              </a>                                             
+                                                            </span>`).join(' ')}
             </div>
           ` : ''
         }
@@ -503,7 +511,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     if (searchResults) {
       searchResults.innerHTML = `
         <div class="search-results-header">
-          <p>Found ${results.length} article${results.length === 1 ? '' : 's'} for "${query}"</p>
+          <p>Tìm thấy <span style="color: var(--color-accent-fuchsia)">${results.length}</span> bài viết cho từ khóa "<span style="color: var(--color-accent-chartreuse)">${query.toUpperCase()}</span>"</p>
         </div>
         ${resultsHTML}
       `;
