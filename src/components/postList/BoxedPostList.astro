@@ -7,6 +7,7 @@ import Pagination from "../page/Pagination.astro";
 import ABCLinkedTitleList from "@/components/ui/ABCLinkedTitleList.astro"
 
 const {
+    collection,
     posts,
     titleList,
     icons,
@@ -80,7 +81,7 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
 {
   titleList?.length > 0 ? (
 
-        <ABCLinkedTitleList posts={titleList} listTitle={"DANH SÁCH BÀI VIẾT"} />
+        <ABCLinkedTitleList collection={collection} posts={posts} titleList={titleList} listTitle={"DANH SÁCH BÀI VIẾT"} />
 
     ) : <p>Danh sách trống</p>
 }

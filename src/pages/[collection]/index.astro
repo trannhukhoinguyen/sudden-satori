@@ -74,6 +74,7 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
     {posts.length > 0 ? (
       ICONS_MAP[collection]
             ? <BoxedPostList
+                collection={collection}
                 titleList={titleList}
                 posts={posts}
                 page={page}

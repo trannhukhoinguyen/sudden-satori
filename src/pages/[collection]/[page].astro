@@ -44,6 +44,7 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
 
 <Layout title={title} description={description} collection={collection}>
   <div class="blog-page">
+
 <!-- Header Section -->
     <header class="blog-header">
       <h2 class="blog-title-medium">{prefix}{' ' + title}</h2>
@@ -58,6 +59,7 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
     {posts.length > 0 ? (
         ICONS_MAP[collection]
             ? <BoxedPostList
+                collection={collection}
                 posts={posts}
                 page={page}
                 icons={ICONS_MAP[collection]}

@@ -2,10 +2,12 @@
 import type { PostTitleWithSlug } from "@/types.ts";
 import Search from "../page/Search.astro";
 
-const { posts, listTitle } = Astro.props;
+const { collection, posts, titleList, listTitle } = Astro.props;
 
 // Nhóm công án theo chữ cái đầu tiên
-const grouped = posts.reduce((acc: Record<string, PostTitleWithSlug[]>, k: any) => {
+const grouped = titleList.reduce((acc: Record<string, PostTitleWithSlug[]>, k: any) => {
+    const path = posts?.find(p => p.frontmatter?.title === k?.title)?.file.split("/").pop()?.replace(/\.(md|mdx)$/, "");
+    k['path'] = path;
     const letter = k?.title?.charAt(0).toUpperCase();
     acc[letter] = acc[letter] || [];
     acc[letter].push(k);
@@ -35,12 +37,12 @@ const initial = letters.includes("A") ? "A" : letters[0];
     ))}
   </div>
 
-  <div class="koans">
+  <div class="titles">
     {letters.map(letter => (
       <ul data-group={letter} style={`display: ${letter === initial ? 'block' : 'none'};`}>
         {(grouped[letter] || []).map((k: any) => (
             <li>
-              <a href={`/koans/${k.slug}`} class="koan-path" target="_blank">
+              <a href={`/${collection}/${k.path}`} class="koan-path" target="_blank">
                 {k.title?.toUpperCase()}
               </a>
           </li>
@@ -112,13 +114,13 @@ const initial = letters.includes("A") ? "A" : letters[0];
       box-shadow: 0 0 0 4px rgba(228, 182, 60, 0.18);
     }
 
-    /* Right column: koans list */
-    .koans {
+    /* Right column: titles list */
+    .titles {
       flex: 1 1 300px;
     }
 
     //
-    .koans h1 {
+    .titles h1 {
       margin-top: 2rem;
       font-family: 'Norican', cursive;
       color: saddlebrown;
@@ -138,7 +140,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
       }
     }
 
-    .koans ul:not(ul ul) {
+    .titles ul:not(ul ul) {
       padding: 1rem 1rem 2rem 1rem;
       display: grid;
       grid-template-columns: max-content;
@@ -217,7 +219,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
       }
     }
 
-    .koans {
+    .titles {
         .koan-path {
             color: var(--color-accent-maroon);
         }
@@ -273,7 +275,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
             flex-wrap: wrap;
             gap: 0.5rem;
         }
-        .koans {
+        .titles {
             width: 100%;
         }
         .alphabet-btn {
@@ -286,7 +288,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
 
 <script>
     const buttons = document.querySelectorAll<HTMLButtonElement>(".alphabet button");
-    const groups = document.querySelectorAll<HTMLElement>(".koans ul");
+    const groups = document.querySelectorAll<HTMLElement>(".titles ul");
 
     buttons.forEach((btn) => {
         btn.addEventListener("click", () => {
