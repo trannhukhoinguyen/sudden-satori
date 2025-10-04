@@ -2,18 +2,17 @@
 title: "Kinh Lăng Nghiêm - Quyển X"
 description: ""
 excerpt: ""
-videoId: "MeKCZ_DuSjk"
-videoStart: "23240"
-categories: ["Kinh"]
+categories:
+  - Kinh
 tags: 
   - Kinh Thủ Lăng Nghiêm
   - HT Thích Duy Lực
 pdfUrl: /pdfs/sutras/kinh-thu-lang-nghiem.pdf
+videoId: "MeKCZ_DuSjk"
+videoStart: "23240"
 ---
 
-# KINH THỦ LĂNG NGHIÊM
-
-#### Thích Duy Lực (dịch từ Hán sang Việt và lược giải ở Từ Ân Thiền Đường, Santa Ana Hoa Kỳ Xuất Bản, 1990)
+## MỤC LỤC [🔗](/sutras/kinh-lang-nghiem-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 

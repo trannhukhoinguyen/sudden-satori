@@ -2,31 +2,17 @@
 title: "Kinh Lăng Nghiêm - Quyển I"
 description: ""
 excerpt: ""
-videoId: "MeKCZ_DuSjk"
-videoStart: "55"
-categories: ["Kinh"]
+categories:
+  - Kinh
 tags: 
   - Kinh Thủ Lăng Nghiêm
   - HT Thích Duy Lực
 pdfUrl: /pdfs/sutras/kinh-thu-lang-nghiem.pdf
+videoId: "MeKCZ_DuSjk"
+videoStart: "55"
 ---
 
-# KINH THỦ LĂNG NGHIÊM
-
-#### Thích Duy Lực (dịch từ Hán sang Việt và lược giải ở Từ Ân Thiền Đường, Santa Ana Hoa Kỳ Xuất Bản, 1990)
-
-## LỜI DỊCH GIẢ
-
-Kinh Thủ Lăng Nghiêm này được dịch từ tiếng Phạn sang tiếng Hán vào đời nhà Đường Trung Quốc, do Sa môn Aán Độ BẤT LA MẬT ĐẾ dịch nghĩa, Sa môn DI GIÀ THÍCH CA người nước U Trường dịch lời, Quan Chánh Nhị Đại Phu nhà Đường PHÒNG DUNG chấp bút.
-
-Tiếng Hán có văn ngôn và bạch thoại: văn ngôn đời xưa quá súc tích, thường hay có ý mà chẳng có lời.
-Người xưa nói: "đọc chỗ chẳng có chữ" là vậy.
-Chúng tôi gặp những trường hợp này thì thêm lời vào để sáng tỏ ý nghĩa ẩn trong văn.
-Những danh từ tiếng Hán mà tiếng Việt ít dùng, lại không thể dịch ra tiếng Việt thì chúng tôi ghi chu,ù còn những nghĩa lý thâm sâu khó hiểu thì chúng tôi lược giải thêm.
-
-Chúng tôi muốn tránh chỗ tối nghĩa, để cho người đọc dễ hiểu, nên chẳng chú ý đến sự trau chuốt lời văn, xin độc giả từ bi hoan hỉ cho.
-
-#### HT Thích Duy Lực
+## MỤC LỤC [🔗](/sutras/kinh-lang-nghiem-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 

@@ -2,7 +2,8 @@
 title: "Kinh Lăng Già - quyển IV"
 description: ""
 excerpt: ""
-categories: ["Kinh"]
+categories:
+  - Kinh
 tags: 
   - Kinh Thủ Lăng Già
   - HT Thích Duy Lực

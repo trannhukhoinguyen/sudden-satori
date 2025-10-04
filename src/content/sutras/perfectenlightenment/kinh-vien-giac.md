@@ -2,7 +2,8 @@
 title: "Kinh Viên Giác"
 description: ""
 excerpt: ""
-categories: ["Kinh"]
+categories:
+  - Kinh
 tags: 
   - Kinh Viên Giác
   - HT Thích Duy Lực

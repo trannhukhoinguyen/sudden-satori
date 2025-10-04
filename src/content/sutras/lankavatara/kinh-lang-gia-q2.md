@@ -2,7 +2,8 @@
 title: "Kinh Lăng Già - quyển II"
 description: ""
 excerpt: ""
-categories: ["Kinh"]
+categories:
+  - Kinh
 image: /images/backgrounds/trang-lang-gia.webp
 tags: 
   - Kinh Thủ Lăng Già

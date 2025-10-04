@@ -2,7 +2,8 @@
 title: "Kinh Lăng Già - quyển I"
 description: ""
 excerpt: ""
-categories: ["Kinh"]
+categories:
+  - Kinh
 tags: 
   - Kinh Thủ Lăng Già
   - HT Thích Duy Lực
@@ -12,23 +13,7 @@ videoId: vwOi8UCTCp0
 videoStart: 1071
 ---
 
-## LỜI DỊCH GIẢ
-
-Kinh Lăng Già có 3 bản dịch từ Phạn sang Hán:
-
-1. **Tống** dịch: bản 4 quyển do **Cầu Na Bạt Đà La**, Tam Tạng pháp sư Ấn Độ, thực hiện tại Kỳ Hằng tự 祇洹寺 ở Đan Dương 丹陽 vào giai đoạn Nguyên Gia 元嘉 (424-453) đời Lưu Tống; Bảo Vân 賁雲 truyền ngữ và Tuệ Quán 慧觀 bút thụ
-2. **Ngụy** dịch: bản 10 quyển do **Bồ Đề Lưu Chi**, Tam Tạng pháp sư Ấn Độ, thực hiện vào cuối đời Nguyên Ngụy tại Vĩnh Ninh Tự 永寧寺, tỉnh Lạc Dương 洛陽
-3. **Đường** dịch: bản bảy quyển dịch giả là Thật Xoa Nan Đà, Tam Tạng pháp sư xứ Vu Điền 于闐 vào năm Cửu Thị 久視 nguyên niên (700), tại Thanh Thiền tự 清禪寺. Năm Trường An 長安 thứ hai (702), Di Đà Sơn 彌陀山, một Tam Tạng pháp sư đến từ Thổ Hỏa La 吐火羅 duyệt lại với sự giúp đỡ của các tăng sĩ-dịch giả như Phục Lễ 復禮, Pháp Tạng 法藏,...
-
-Hiện đang phổ biến lưu thông là bản Tống dịch, dịch giả bản này là người Ấn Độ, đối với Hán văn chưa được thông thạo lắm, nên lời văn đảo qua lộn lại, có chỗ thì trùng lặp quá dư thừa, dẫu cho nhà Nho tinh thông tiếng Hán cũng cảm thấy khó hiểu .
-
-Chúng tôi dịch Kinh này phải tham khảo thêm hai bản dịch đời Ngụy và đời Đường, đồng thời dựa theo quyển Lăng Gìa Tông Thông của Ngài Tăng Phụng Nghi (Cư sĩ kiến tánh đời Minh), xếp lời văn cho xuôi và tăng bổ từ ngữ để sáng tỏ nghĩa Kinh, cũng có lược bỏ vài chỗ quá dư thừa . Đối với những danh từ tiếng Hán hay tiếng Phạn không thể dịch sang tiếng Việt thì chúng tôi ghi chú, còn những câu nghĩa lý quá thâm sâu thì chúng tôi lược giải thêm.
-
-Yếu chỉ của Kinh này là dùng nghĩa Duy Thức để phá kiến chấp của ngoại đạo, vì danh từ và nghĩa lý của ngoại đạo cũng tựa như lời Phật, xem thì ngoại đạo với Phật hai ý khác hẳn, ngoại đạo có Sở trụ mà Phật thì Vô sở trụ, nếu độc giả xem xét kỹ sẽ tự thấy rõ.
-
-Nói tóm lại, chúng tôi dịch Kinh này rất cố gắng giữ nguyên ý trong bản dịch của Ngài Cầu Na Bạ Đà La, từng chữ, từng câu mà sáng tỏ nghĩa kinh, mong giúp cho người đọc xem thấy dễ hiểu hơn. Nhưng chúng tôi cũng chưa được hài lòng, e vẫn còn có nhiều chỗ sơ sót, kính xin các bậc tiền bối và độc giả từ bi chỉ giáo cho.
-
-##### HT Thích Duy Lực
+## MỤC LỤC [🔗](/sutras/kinh-lang-gia-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 
