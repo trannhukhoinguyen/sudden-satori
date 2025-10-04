@@ -1,11 +1,4 @@
 ---
-let Readability;
-
-if (import.meta.env.SSR) {
-    const mod = await import("@mozilla/readability");
-    Readability = mod.Readability;
-}
-
 const { pdfUrl = "", title } = Astro.props;
 const isPdf = pdfUrl.toLowerCase().endsWith(".pdf");
 ---
@@ -47,7 +40,12 @@ const isPdf = pdfUrl.toLowerCase().endsWith(".pdf");
 </div>
 
 <script>
-    import { Readability } from "@mozilla/readability";
+    let Readability;
+
+    if (import.meta.env.SSR) {
+        const mod = await import("@mozilla/readability");
+        Readability = mod.Readability;
+    }
 
     const trigger = document.getElementById("doc-trigger");
     const modal = document.getElementById("doc-modal");
