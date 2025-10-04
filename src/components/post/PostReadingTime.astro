@@ -1,6 +1,7 @@
 ---
 import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
 import PdfViewer from "../ui/PdfViewer.astro";
+import DocViewer from "../ui/DocViewer.astro";
 
 
 const { post } = Astro.props;
@@ -17,5 +18,8 @@ const readingTime = calculateReadingTime(plainText);
     <!-- PDF Viewer -->
     {
         post.frontmatter.pdfUrl && <PdfViewer pdfUrl={post.frontmatter.pdfUrl} title={post.frontmatter.title} />
+    }
+    {
+        post.frontmatter.pdfUrl && <DocViewer pdfUrl={post.frontmatter.pdfUrl} title={post.frontmatter.title} />
     }
 </span>
