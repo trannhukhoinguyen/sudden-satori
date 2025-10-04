@@ -1,5 +1,10 @@
 ---
-import { Readability } from "@mozilla/readability";
+let Readability;
+
+if (import.meta.env.SSR) {
+    const mod = await import("@mozilla/readability");
+    Readability = mod.Readability;
+}
 
 const { pdfUrl = "", title } = Astro.props;
 const isPdf = pdfUrl.toLowerCase().endsWith(".pdf");
