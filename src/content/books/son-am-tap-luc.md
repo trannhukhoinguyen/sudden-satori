@@ -1256,7 +1256,8 @@ Vị tăng kia thuật lại nguyên do, mới biết đêm ấy, chuột gom c�
 đàn lại lấy trộm sợi dây của vị tăng cài bẫy để đáp trả ân đức của
 vị tăng thả mình, cho nên ồn ào.
 
-4429
+***
+
 Quyển Tăng Bảo Truyện của Thiền sư Giác Phạm, lúc đầu gọi là
 Bách Thiền Sư Truyện (Truyện trăm vị thiền sư). Đại Huệ gặp,
 mới lấy đọc qua một lượt, rồi chọn ra 19 người đem đốt.
@@ -1286,7 +1287,8 @@ Thoại đầu lưu hướng minh triêu cử,
 Đạo giả xao chung hựu thướng lâu.
 Hòa thượng Thiết Kính lên pháp tòa rất khen thưởng thầy.
 
-4631
+***
+
 Tôi thưa hỏi ngài Nam Đường ở chùa Bản Giác. Trong buổi ngồi
 nói chuyện lúc đêm, thầy bàn đến làm thơ văn có sự khuôn khổ bó
 buộc và tự do phóng khoáng khác nhau.
@@ -1307,7 +1309,8 @@ Hà tu cánh thấu vị sinh tiền,
 Cố viên thiên lý kim quy khứ,
 Lục hữu chỉnh đồ thủy hữu thuyền.Đông Châu Hòa rằng:
 
-4732
+**(
+
 Tôi thuở nhỏ ở liêu Thị giả tại Phụng Sơn. Sau khi ăn cơm xong để
 giải buồn, cùng bạn bè thi ném chọn hình Phật. Hòa thượng Nhất
 Nguyên nghe được, sai người dọn vệ sinh nhà bếp đưa đến bài kệ:
@@ -1325,12 +1328,9 @@ nữa ném chọn hình Phật, đến lúc cuối cùng ném ra được một 
 ấn, liền vui vẻ nói: Ta thành Phật rồi. Đâu biết rằng nơi nào, lúc
 nào cũng là chỗ ông thành Phật, ông lại chẳng biết".
 
-4833
-Hòa thượng Trọng Mưu, ở Tiên Nham tại Ôn Châu. Cuộc sống
-đang lúc bình yên, hàng tăng sĩ áo vá nghiên cứu thưa hỏi không
-có ngày rảnh. Tôi và Minh Tánh Nguyên, Thụy Oánh Trung ba
-người đồng đến Tiên Nham. Tánh Nguyên, Oánh Trung còn làm
-thị giả, tôi đã giữ chức Tri tạng.
+***
+
+Hòa thượng Trọng Mưu, ở Tiên Nham tại Ôn Châu. Cuộc sống đang lúc bình yên, hàng tăng sĩ áo vá nghiên cứu thưa hỏi không có ngày rảnh. Tôi và Minh Tánh Nguyên, Thụy Oánh Trung ba người đồng đến Tiên Nham. Tánh Nguyên, Oánh Trung còn làm thị giả, tôi đã giữ chức Tri tạng.
 Đúng ngày 15, thầy lên nhà giảng nói: “Một lúc im lặng để trả lời
 tăng, sấm rền điện xẹt; Ba lần nói nhận hiểu ý chỉ, ngọc chuyển
 châu xoay. Bảy mươi ba, tám mươi bốn, lảm nhảm không thôi, bất
@@ -1343,8 +1343,7 @@ chư Phật” thành ra “con cò nước”
 “Lúc trước, ngài A Nan đi kinh hành vào ban đêm, nghe một vị nhỏ tuổi “Lúc trước, ngài A Nan đi kinh hành vào ban đêm, nghe một vị nhỏ tuổi “Lúc trước, ngài A Nan đi kinh hành vào ban đêm, nghe một vị nhỏ tuổi
 tụng bài kệ của Phật: Nếu người sống trăm tuổi không biết con cò nước, tụng bài kệ của Phật: Nếu người sống trăm tuổi không biết con cò nước, tụng bài kệ của Phật: Nếu người sống trăm tuổi không biết con cò nước,
 chẳng bằng sống một ngày mà biết rõ ràng nó. Ngài A Nan liền dạy rằng: chẳng bằng sống một ngày mà biết rõ ràng nó. Ngài A Nan liền dạy rằng: chẳng bằng sống một ngày mà biết rõ ràng nó. Ngài A Nan liền dạy rằng:
-Không phải con cò nước, mà là Cơ chư Phật. Đứa bé trở về thưa lại với vị Không phải con cò nước, mà là Cơ chư Phật. Đứa bé trở về thưa lại với vị Không phải con cò nước, mà là Cơ chư Phật. Đứa bé trở về thưa lại với vị
-thầy, vị thầy cười nhạo nói: Ngài A Nan già cả lẩm cẩm rồi, nên theo lời ta thầy, vị thầy cười nhạo nói: Ngài A Nan già cả lẩm cẩm rồi, nên theo lời ta thầy, vị thầy cười nhạo nói: Ngài A Nan già cả lẩm cẩm rồi, nên theo lời ta
+Không phải con cò nước, mà là Cơ chư Phật. Đứa bé trở về thưa lại với vị Không phải con cò nước, mà là Cơ chư Phật. Đứa bé trở về thưa lại với vị Không phải con cò nước, mà là Cơ chư Phật. Đứa bé trở về thưa lại với vị thầy, vị thầy cười nhạo nói: Ngài A Nan già cả lẩm cẩm rồi, nên theo lời ta thầy, vị thầy cười nhạo nói: Ngài A Nan già cả lẩm cẩm rồi, nên theo lời ta thầy, vị thầy cười nhạo nói: Ngài A Nan già cả lẩm cẩm rồi, nên theo lời ta
 dạy là đúng”. (Lâm Tế Tông Chỉ) dạy là đúng”. (Lâm Tế Tông Chỉ) dạy là đúng”. (Lâm Tế Tông Chỉ)🔖  Cơ chư Phật
 
 4934
@@ -1377,7 +1376,8 @@ Nghe Trưởng lão hôm qua sanh được đứa con phải không?
 Như Khuê hỏi lại: Hãy nói là trai hay gái?
 An Nhân nói: Gà ngậm đèn dầu chạy, rùa cắn cần câu cá.
 
-5135
+***
+
 Thị giả Miễn ở chùa A Dục là cháu họ của tôi, tuổi còn nhỏ nhưng
 có chí học hỏi, không may mạng sống ngắn ngủi chết rồi. Miễn có
 làm bài kệ đưa tiễn một Thị giả dạo ở Đài Nhạn rằng:
@@ -1413,8 +1413,7 @@ Phật, có vị sa di tuổi nhỏ lấy trái cầu da ném vào đầu vị t
 già, làm cho vị ấy chứng A La Hán, việc này có thể làm chứng.35- Thị giả Miễn
 Tôi có lần gạn hỏi nguyên do tỏ ngộ. Miễn trả lời: “Con lúc ở chùa
 Ngọc Cơ, ngồi bên bàn để kinh tại Chiên Đàn Lâm, tình cờ thấy
-Tạng chủ Khuê giảng luận cho tăng. Vị tăng hỏi: ‘Thế nào là việc
-hướng thượng?’.
+Tạng chủ Khuê giảng luận cho tăng. Vị tăng hỏi: ‘Thế nào là việc hướng thượng?’.
 Tạng chủ Khuê nắm 2 tay thành đấm để trên đầu, rồi chắp tay lại
 nói: ‘Tổ ra, tố rô’. Con nhân đó có được niềm vui, vội vàng đi đến
 Mông Đường, thuật lại với Thủ tọa Đạt, ông cười nói: ‘Ông lại đến
@@ -1654,7 +1653,8 @@ thể chẳng tự tỉnh ngộ ?
 Còn gọi là Khố chủ. Tên gọi chung chức quản lý trong Thiên lâm, cũng là coi Còn gọi là Khố chủ. Tên gọi chung chức quản lý trong Thiên lâm, cũng là coi Còn gọi là Khố chủ. Tên gọi chung chức quản lý trong Thiên lâm, cũng là coi
 chung ba chức: Đô tự, Giám tự, Phú tự. chung ba chức: Đô tự, Giám tự, Phú tự. chung ba chức: Đô tự, Giám tự, Phú tự.🔖 Khổ ty
 
-6445
+***
+
 Thủ tọa Lão Tố, cả đời đóng cửa thất ẩn mình, ở đời không ai biết
 đến. Khoảng niên hiệu Thiên Lịch đời Nguyên, có vị thiền nhân
 được ba bài kệ, nét mực do chính thầy ngẫu hứng ghi lại việc ở ẩn
@@ -1665,7 +1665,7 @@ Tiên sư nói: “Tùng Lâm buồn vì thầy không ra đời nói pháp, nay
 âm thanh khác đều im bặt. Như thế mà cho rằng thầy không nói
 pháp được ư!”.
 
-65Đời tạm thời gian có dài xa,
+Đời tạm thời gian có dài xa,
 Đề thơ đáp lại năm tháng qua,
 Sáng nay ta dưới áng tùng lớn,
 Đứng khuất gió thu đếm quạ bay.Phù thế quang âm nhật bất đa,
@@ -1686,13 +1686,17 @@ Trên có rừng xanh dưới có ao,
 Tợ dưới cánh buồm khi mưa rào.Tiêm đầu ốc tử bất hiềm đê,
 Thượng hữu trường lâm hạ hữu trì,
 Dạ cửu kinh tiêu kinh hoàng diệp,
-Kháp như bồng để vũ lai thì.45- Thủ tọa Lão Tố
+Kháp như bồng để vũ lai thì.
 
-6646
+45- Thủ tọa Lão Tố
+
+***
+
 Thủ tọa Chứng ở chùa La Hán tại Phan Sơn, tuy đôi mắt mù lòa,
 nhưng thấy Đạo rất sáng tỏ. Mỗi sáng lấy việc quét đất làm Phật
-sự, có vị tăng hỏi rằng: “Mảnh đất này quét sạch chưa?". Chứng giờ
-cây chổi lên để trả lời.
+sự, có vị tăng hỏi rằng: “Mảnh đất này quét sạch chưa?". 
+
+Chứng giơ cây chổi lên để trả lời.
 Lại có tăng hỏi: “Trong thế giới chân tịnh, vốn không một hạt bụi,
 thì quét đất làm gì?”. Chứng cũng giữ cây chổi trả lời.
 Ở Lạc Thanh có ngọn núi gọi là Cửu Ngưu, thầy có làm bài vịnh
@@ -1713,7 +1717,8 @@ Cá cá cước cân giai điểm địa,
 Tầm thường chỉ tại thiên phong đỉnh,
 Đại địa nhân lai tác ma khiên?
 
-6747
+***
+
 Thiền sư Quy Nguyên ở chùa Tiến Phước, một hôm cùng các vị
 tăng trong chùa uống trà nói chuyện, thầy nêu:
 “Đông Pha thưa hỏi Thiền sư Phật Huệ Tuyền ở Tương Sơn.
@@ -1745,7 +1750,8 @@ Chánh, ra lệnh cho người thi hành công vụ đặc biệt hai lần đư
 văn thư, muốn mời thầy trụ trì chùa Thiên Đồng và Thiền tự Hưng
 Thánh ở Vạn Thọ tại Kính Sơn, thầy đều lấy cớ gì bệnh để từ chối.
 
-6948
+***
+
 Thiền sư Biệt Nguyên ở chùa Thọ Xương, Ôn Châu, người Phụng
 Hóa. Thầy tham học với Thiền sư Quy Nguyên đã lâu, để chí vào
 việc gánh vác trọng trách, không dẫm theo vết của những người
@@ -1818,7 +1824,8 @@ Quán Âm bằng ngọc, đến nay vẫn lưu lại ở Tinh xá ngoài cửa
 nam thành Nghi Hưng để cúng dường. Tinh xá này do Tăng Đạo
 xây dựng
 
-7351
+***
+
 Pháp sư Ngã Am Bổn Vô ở chùa Thượng Thiên Trúc, người
 Hoàng Nham. Thầy theo Hòa thượng Phương Sơn xuống tóc,
 nương học với Ngài Tịch Chiếu ở chùa Trung Trúc, được theo hầu
@@ -2773,10 +2780,11 @@ chùa đều là học trò của ngài Vô Tế. Thầy sự họ vô lễ vớ
 nên thường vào những ngày mồng một, mười lăm khi nghe thuyết
 pháp xong, họ đều đến chỗ thầy làm lễ, thầy nhất định bảo họ nêu
 lại lời thượng đường của trụ trì, rồi tấm tắc nói: “Hôm nay trưởng
-lão lên tòa giảng hay". Thầy có cách làm thành cho trụ trì, có pháp
-chế ngự đồ đệ.
+lão lên tòa giảng hay". Thầy có cách làm thành cho trụ trì, có pháp chế ngự đồ đệ.
 
-12384- Hòa thượng Vô Ngôn, Thạch Thất Nham, Đại Mai Trọng Bân
+***
+
+Hòa thượng Vô Ngôn, Thạch Thất Nham, Đại Mai Trọng Bân
 Có Thượng tọa Kỳ, là đệ tử xuất gia của Thiền sư Hy ở Minh
 Nham. Một hôm mang bức họa sơn chủ Úc cưỡi lừa đến thỉnh
 thầy Vô Tế có lời bình, thầy vận bút thành kệ:
@@ -2795,7 +2803,8 @@ Thầy vỗ tay nói: Hãy trở về trước thầy ấy, thuật lại cho r�
 Thầy có phương tiện tiếp đón người như thế. Thượng tọa Kỳ,
 chính là Đại Mai Trọng Bân.
 
-12485
+***
+
 Hòa thượng Hư Cốc, người Vụ Châu, giữ chức Nội ký trong hội
 của Hòa thượng Thạch Lâm Tịnh Từ, rồi lên giữ chức Ký thất.
 Về sau ra hoằng hóa, nhận lãnh trụ trì Ngưỡng Sơn 30 năm, Kính
@@ -3396,7 +3405,7 @@ Tương phùng cương đạo quế hoa hương,
 Phi đồ diện mục hồn y cựu,
 Tỵ khổng hà tằng hữu đoản trường.
 
-155108
+***
 Hòa thượng Trúc Tuyền ở chùa Linh Ẩn là người ít màu mè, chỗ
 chứng đắc phù hợp thỏa đáng, lời nói sâu xa chính xác.
 Vào đêm rằm tháng Giêng, thầy thượng đường nói:
@@ -3468,13 +3477,13 @@ này của Ô Cự có giúp ích cho Tông môn, e chưa hoàn toàn giỏi h�
 Vả như câu “Triệu Châu lão ấy ngọc không tỳ". Chẳng đứng chỗ nguy cơ chưa cao,
 Ông lão Triệu Châu ngọc không tỳ,
 Ngay đó chỉ ra người trong điện,
-Dẹp hết lăng xăng trong mắt hoa.Bất lập cô nguy cơ vị tuấn,
+Dẹp hết lăng xăng trong mắt hoa. Bất lập cô nguy cơ vị tuấn,
 Triệu Châu lão tử ngọc vô hà,
 Đương đầu chỉ xuất điện lý để,
 Sản tận mang mang nhãn lý hoa.Nhân đó, tôi cũng có làm bài tụng về nghĩa này, xin làm phiền
 nghe.
 
-158110- “Thế nào là người trong điện Phật?”
+“Thế nào là người trong điện Phật?”
 Chẳng đứng chỗ nguy cơ “mới” cao,
 Ông lão Triệu Châu ngọc “sanh” tỳ,
 Ngay đó chỉ ra người trong điện,
@@ -3554,7 +3563,7 @@ trăng, sao.
 Lâu rồi chẳng thấy chừ cảm khái uổng công!
 Lâu rồi chẳng thấy chừ cảm khái uổng công!
 
-162113- Thiển sư Tịch Chiếu
+Thiển sư Tịch Chiếu
 Yêu thương thương, đào mang mang,
 Động đình diêu diêu thiên nhất phương.
 Thượng hữu thất thập nhị đóa chi thanh phù dung,
@@ -3580,29 +3589,32 @@ Tống đọc ‘Chiêu Nam’, tụng “Thuyết Mệnh’, tập học theo h
 nghiệp đức Khổng Tử, rồi diễn tả ra ca vịnh, trình bày thành chương
 cú, nhưng các vị ấy đều nói đến hoa mà chẳng đề cập đến kết quả.
 
-163113- Thiển sư Tịch Chiếu
+***
+
+Thiển sư Tịch Chiếu
 Các vị Triệu Tùng, Tuyết Ngu, Thiệu Am xem thấy lời này khen
 ngợi rằng: “Thầy Nguyên thấy biết cao xa, vận bút nhả lời tự
 nhiên, vượt hẳn xưa nay, chúng ta dù cố hết sức để nói, vẫn không
 thể vượt ra ngoài tầm của thầy”.
 Tịch Chiếu chính là người truyền trì chánh Tông Lâm Tế, dạo
-chơi trong chốn văn chương, lời hay ý đẹp chỉ là việc thừa thôi, thế
-mà hàng quan quyền tôn trọng Ngài như thế. Thiền sư Đạo Sán
-hiệu Vô Văn nói:
+chơi trong chốn văn chương, lời hay ý đẹp chỉ là việc thừa thôi, thế mà hàng quan quyền tôn trọng Ngài như thế. 
+
+***
+
+Thiền sư Đạo Sán hiệu Vô Văn nói:
 “Trong tùng lâm hiện nay cho dù kẻ không biết một chữ, lúc túng
 quẫn cố giữ mình là một người tham thiền chân chánh. Gặp khi
-thuận lợi thì có thể làm bậc Thiện tri thức đúng thật”. Lời này có
-thể nói là thống thiết vậy!Ôi! đạo đức trên đời không thật thà chất phác, lòng người càng thêm
+thuận lợi thì có thể làm bậc Thiện tri thức đúng thật”. Lời này có thể nói là thống thiết vậy!Ôi! đạo đức trên đời không thật thà chất phác, lòng người càng thêm
 bạt bẽo, lại dối trá điểm tô cho cội gốc chẳng thành thật của mình,
 thói thường đều như thế. Tôi xem bức tranh này, trong lòng có sự
 rung cảm!”.
 
-164114
+***
+
 Hi Thái Cổ ở Minh Nham tại Thiên Thai, đã lâu nương học với
 ngài Đông Tự ở chùa Tịnh Từ, tiếp nhận giáo pháp của Ngài. Ngày
 13 tháng giêng năm Bính Tuất, niên hiệu Chí Chánh, tôi cùng
-Minh Tánh Nguyên, Thụy Ánh Trung từ nơi Tử Thác đi thưa
-hỏi ngài Hương Trúc Đàm ở Hàn Nham.
+Minh Tánh Nguyên, Thụy Ánh Trung từ nơi Tử Thác đi thưa hỏi ngài Hương Trúc Đàm ở Hàn Nham.
 Sáng sớm, sắp đến yết kiến ngài Thái Cổ, hai vị kia do đi đường
 mỏi mệt nên còn chần chừ. Gặp lúc Thái Cổ đến Trúc Đàm, ba
 người tôi với tư cách là khách, đốt hương làm lễ xong, Thái Cổ
@@ -3610,15 +3622,14 @@ chợt hỏi: Tạng chủ tham học với Hòa thượng Trúc Nguyên đã l�
 vậy khi Thế Tôn mới sanh ra, đã tạo ra bao nhiêu chuyện kỳ lạ
 huyễn hoặc, ông có biết ý chỉ không?
 Tôi đáp: Thức ăn ngon không hợp cho người no ăn.
-Thái Cổ chợt rời khỏi chỗ ngồi, đưa hai tay chỉ lên trời, chỉ xuống
-đất, thậm chí bước đi nhìn quanh bốn phía, lớn tiếng nói: “Trên
-trời dưới đất chỉ có Ta là tôn quý”.
+Thái Cổ chợt rời khỏi chỗ ngồi, đưa hai tay chỉ lên trời, chỉ xuống đất, thậm chí bước đi nhìn quanh bốn phía, lớn tiếng nói: “Trên trời dưới đất chỉ có Ta là tôn quý”.
 Than ôi! Gần đây người xưng là bậc Tôn túc, mà khi tiếp dẫn người
 sau thường thường che giấu điều họ dễ thấy, chỉ bày chỗ họ khó
 nhận biết để che lấp người. Như Thái Cổ cử thoại thẳng thắn, khác
 gì tìm hạt châu giá trị ngàn vàng trong cái túi ở chỗ người ăn xin.
 
-165115
+***
+
 Thừa tướng vùng Giang Triết giao cho Huệ Cung là vị tăng ở viện
 Hóa Thành thuộc Kính Sơn, đoàn kết dân làng phòng giữ ranh
 giới. Một hôm, quân giặc xâm phạm vào biên giới, Huệ Cung dẫn
@@ -3627,15 +3638,14 @@ mươi người đưa đến quan, ban đêm cho ngủ ở chùa Điểu Khòa t
 Tây Hồ.
 Thầy bảo: Ta cứu các ngươi chẳng được, nếu các ngươi chí thành
 xưng niệm “Nam Mô Cứu Khổ Cứu Nạn A Di Đà Phật” thì ta cứu
-được các ngươi.Mùa đông năm thứ 15, niên hiệu Chí Chánh đời Nguyên, Trương
-Tự Thành xâm chiếm miền Hồ Châu.
+được các ngươi.Mùa đông năm thứ 15, niên hiệu Chí Chánh đời Nguyên, Trương Tự Thành xâm chiếm miền Hồ Châu.
 Sáng hôm sau, vừa lúc thầy Mưu Đại Du đang đi kinh hành. Trước
 kia thầy trụ ở chùa Thiên Ninh tại Nhiều Châu. Khi thầy dạo bước
 thong thả nơi hành lang chùa Điểu Khòa, đám tù nhân nhìn thấy
 thầy tinh thần dáng vẻ nhàn nhã, trì tụng không ngừng, liền cùng
 lên tiếng gọi: Trưởng lão cứu tôi.
 
-166Trong đó có ba người tin nhận lời thầy, lớn tiếng xưng niệm không
+Trong đó có ba người tin nhận lời thầy, lớn tiếng xưng niệm không
 ngừng miệng. Sau đó, quan ty gọi đến giải đi, các tù nhân đều đổi
 gông cùm, tình cờ đến ba người này thì thiếu gông, chỉ trói bằng
 dây thôi.115- Thiển sư Huệ Cung
@@ -3653,30 +3663,27 @@ làm thuê thì bị bắt làm tù binh. Ba người liền được thả ra, 
 thiền định. Thầy giỏi cả giới luật, mang theo mình chỉ có ba y và
 một bình bát, được cúng dường thì đem cho người nghèo thiếu.
 Cuộc sống thầy điềm tĩnh không ham muốn.
-Đến khi gặp thầy, vua rất vui mừng, quý mến và ban ân rất hậu, để
-thầy nghỉ nơi chùa Tương Sơn, rồi đến thăm hỏi nhiều lần. Mùa
+Đến khi gặp thầy, vua rất vui mừng, quý mến và ban ân rất hậu, để thầy nghỉ nơi chùa Tương Sơn, rồi đến thăm hỏi nhiều lần. Mùa
 đông năm ấy, vua đích thân ghi chiếu lệnh, sai đúc ấn bạc, ban cho
 thầy hiệu Thiền sư Thiện Thế.Niên hiệu Hồng Vũ năm thứ 7, thầy sắp đến Nam Kinh, Hoàng
 thượng lệnh cho Hữu ty cùng với trụ trì chùa Tương Sơn ở Thiên
 Giới dẫn chư tăng các chùa nơi kinh thành cung kính đón tiếp
 thầy ở bên ngoài thành, dùng cờ phướn hoa hương đón rước.
 
-168Mùa thu năm thứ 9, thầy vâng chiếu đến Triết Tả, làm lễ cầu tháp
-xá lợi của vua A Dục, rồi đến chỗ Bồ tát Quán Thế Âm thị hiện ở
+Mùa thu năm thứ 9, thầy vâng chiếu đến Triết Tả, làm lễ cầu tháp xá lợi của vua A Dục, rồi đến chỗ Bồ tát Quán Thế Âm thị hiện ở
 núi Bảo Đà, cả hai nơi đều cảm ứng ánh sáng lành và điềm tốt lạ
 thường. Thầy có làm bài kệ tán thán viết bằng chữ Phạn ở mỗi nơi.116- Thiển sư Bản Đích Đạt
 Cậu Tương đem ra cho nhau xem, tôi kinh ngạc xuýt xoa mãi, vị
-tăng thị giả bèn nói với tôi rằng: “Đây là việc thường của thầy tôi,
-vì sợ thế gian thêm thắt chuyện nên Ngài ít khi cạo tóc”.Bấy giờ tôi đang ở tạm tại Thiên Giới, một hôm có cậu họ Tương
+tăng thị giả bèn nói với tôi rằng: “Đây là việc thường của thầy tôi, vì sợ thế gian thêm thắt chuyện nên Ngài ít khi cạo tóc”.Bấy giờ tôi đang ở tạm tại Thiên Giới, một hôm có cậu họ Tương
 làm nghề hớt tóc huyện Kim Đàn, cạo tóc cho thầy và đựng tóc
 bằng cái mâm.
 Khi cạo một dao đầu thì tóc rớt xuống mâm có tiếng khua rõ ràng,
-vị tăng thị giả liền nhặt lấy, cạo dao thứ hai cậu Tương tự lấy, liền
-được một viên xá lợi lớn bằng hạt đậu, tròn trịa trong suốt. Tóc
+vị tăng thị giả liền nhặt lấy, cạo dao thứ hai cậu Tương tự lấy, liền được một viên xá lợi lớn bằng hạt đậu, tròn trịa trong suốt. Tóc
 còn lại đều bị những người trông thấy giành nhau lấy đi, có kẻ có,
 có kẻ không, chỉ cậu Tương là được tất cả ba viên.
 
-169117
+***
+
 Vào đời Nguyên có vị quan Đô vận ty nọ ở tỉnh Phước Kiến. Nhân
 ngày sinh nhật của ông, vị quan nhỏ trong phủ là Chu Thanh
 làm tiệc chúc mừng, trong bữa ăn có món thịt trâu. Vận ty liền
@@ -3710,8 +3717,7 @@ người làm thịt trâu.
 tên là Hoàng Tứ, chết đã 10 ngày rồi, ông ấy có ở đây không?
 Vị ấy đáp: Có.
 Rồi liền cho gọi, thì thấy Hoàng Tứ mang gông cùm đi đến. Hoàng
-Tứ thấy người em tôi, liền hốt hoảng gọi và hỏi: Quan nhân làm sao
-đến chỗ này?
+Tứ thấy người em tôi, liền hốt hoảng gọi và hỏi: Quan nhân làm sao đến chỗ này?
 Ông đáp: Tôi đi nhận chức, tình cờ đến nơi đây.
 Rồi ông hỏi Hoàng Tứ: Tội phạm của ông phải làm sao mới được
 độ thoát?
@@ -3719,12 +3725,11 @@ Hoàng Tứ đáp: Tội của tôi rất nặng, không cách nào có thể th
 khỏi. Nếu được quan nhân đến chỗ nhận chức, khuyên được 120
 người chẳng giết trâu, thì có thể cứu khỏi tội của tôi.117- Câu chuyện nhân quả về việc Không ăn thịt Trâu
 
-171Nói xong y quay đầu đi thì cảnh ấy biến mất. Từ đó, người em tôi
+Nói xong y quay đầu đi thì cảnh ấy biến mất. Từ đó, người em tôi
 khuyên mọi người không làm thịt trâu. Đến khi đủ số 120 người, thì
 vào một buổi chiều tối, Hoàng Tứ đến gõ cửa cảm ơn, nói: “Tôi
 được quan nhân khuyên mọi người không giết trâu, nay được thoát
-tội, vì thế mà được thả trở về nhà. Nếu ngài có thơ gởi về nhà, tôi có
-thể mang đi cho”. Nhưng em tôi vẫn đứng trong cửa nói với Hoàng
+tội, vì thế mà được thả trở về nhà. Nếu ngài có thơ gởi về nhà, tôi có thể mang đi cho”. Nhưng em tôi vẫn đứng trong cửa nói với Hoàng
 Tứ: “Ông trở về nói với gia đình tôi hãy gửi áo đến sớm”. Qua hai
 tháng sau đúng là có áo gửi đến.117- Câu chuyện nhân quả về việc Không ăn thịt Trâu
 Khi ấy, các vị khách nghe được câu chuyện này, đều thề không ăn
@@ -3745,15 +3750,9 @@ dâng thư xin sửa đổi cái tệ này. Rồi Ngài lui về trước tác b
 Bảo Giám để truyền rộng giáo lý chân chánh, gạt bỏ những học
 thuyết không đồng. Những việc cũ của Đông Lâm vì thế hoàn toàn
 đổi mới.
-Ưu Đàm qua đời chưa đến trăm năm, mà những kẻ tầm thường
-vượt phận, tự xưng danh nghĩa càn bậy, gọi là Bạch Liên Thất Phật
-Giáo, sự tệ hại càng thêm nặng. Có kẻ tự xưng là Đạo sư, Sư
-trưởng, rồi có quan điểm Phương đẳng vô ngại. Họ tụ tập đồ
-chúng, chê bai Chánh pháp, làm nhiều việc ma, ở trong chỗ kín
-truyền trao cho nhau, bày hiện nhiều thứ ánh sáng, thức ăn ngon
-chẳng đem cúng Phật, mà xuất sanh thí thực cũng đều bỏ hết.
+Ưu Đàm qua đời chưa đến trăm năm, mà những kẻ tầm thường vượt phận, tự xưng danh nghĩa càn bậy, gọi là Bạch Liên Thất Phật Giáo, sự tệ hại càng thêm nặng. Có kẻ tự xưng là Đạo sư, Sư trưởng, rồi có quan điểm Phương đẳng vô ngại. Họ tụ tập đồ chúng, chê bai Chánh pháp, làm nhiều việc ma, ở trong chỗ kín truyền trao cho nhau, bày hiện nhiều thứ ánh sáng, thức ăn ngon chẳng đem cúng Phật, mà xuất sanh thí thực cũng đều bỏ hết.
 
-173Họ nói rằng chính mình là Phật, lại sửa đổi Tam Bảo thành Phật,
+Họ nói rằng chính mình là Phật, lại sửa đổi Tam Bảo thành Phật,
 Pháp, Sư, ngông cuồng cho rằng Đạo sư thuộc trong số Tam Bảo,
 chứ không phải là Tăng. Dùng lời nói cảm động gây mê hoặc người
 ngu tục, làm hoài thành thói quen, rốt cuộc không thể ngăn cản.
@@ -3763,15 +3762,15 @@ Than ôi! Sao có được người như ngài Ưu Đàm làm hưng thịnh lạ
 pháp môn Tịnh Độ nơi đời để cứu giúp cái tệ hại này.
 🔖 6 thờigọi là Đán quá liêu, nơi cho các vị Thiền tăng hành gọi là Đán quá liêu, nơi cho các vị Thiền tăng hành gọi là Đán quá liêu, nơi cho các vị Thiền tăng hành
 cước ở trọ qua đêm. cước ở trọ qua đêm. cước ở trọ qua đêm.🔖 Liên lậuĐời Đường, Lý Triệu trong quyển Đường Quốc Sử Bổ có Đời Đường, Lý Triệu trong quyển Đường Quốc Sử Bổ có Đời Đường, Lý Triệu trong quyển Đường Quốc Sử Bổ có
-nói: “Ban đầu, ngài Huệ Viễn do vì trong núi không biết nói: “Ban đầu, ngài Huệ Viễn do vì trong núi không biết nói: “Ban đầu, ngài Huệ Viễn do vì trong núi không biết
-canh giờ, nên lấy lá đồng chế ra một vật giống như lá canh giờ, nên lấy lá đồng chế ra một vật giống như lá canh giờ, nên lấy lá đồng chế ra một vật giống như lá
+nói: “Ban đầu, ngài Huệ Viễn do vì trong núi không biết nói: “Ban đầu, ngài Huệ Viễn do vì trong núi không biết nói: “Ban đầu, ngài Huệ Viễn do vì trong núi không biết canh giờ, nên lấy lá đồng chế ra một vật giống như lá canh giờ, nên lấy lá đồng chế ra một vật giống như lá canh giờ, nên lấy lá đồng chế ra một vật giống như lá
 sen. Đặt ở trên bồn nước, dưới đáy hoa sen đồng có lỗ rỉ sen. Đặt ở trên bồn nước, dưới đáy hoa sen đồng có lỗ rỉ sen. Đặt ở trên bồn nước, dưới đáy hoa sen đồng có lỗ rỉ
 nước, chảy được phân nửa thì chìm xuống. Một ngày nước, chảy được phân nửa thì chìm xuống. Một ngày nước, chảy được phân nửa thì chìm xuống. Một ngày
 đêm 12 lần chìm như vậy, lấy đó làm thời khóa hành đêm 12 lần chìm như vậy, lấy đó làm thời khóa hành đêm 12 lần chìm như vậy, lấy đó làm thời khóa hành
 đạo, dẫu mùa đông mùa hạ có ngắn dài, trăng tối mây đạo, dẫu mùa đông mùa hạ có ngắn dài, trăng tối mây đạo, dẫu mùa đông mùa hạ có ngắn dài, trăng tối mây
 che cũng không sai thời”. che cũng không sai thời”. che cũng không sai thời”.
 
-174119
+***
+
 Thụy Tuyết Nham, người ở huyện Hoàng Nham, thuở nhỏ được
 xuất gia với ngài Thu Giang Trạm. Thầy ở viện Lưu Khánh tại
 Tân Thành Sơn, giữ gìn giới luật rất cẩn thận.
@@ -3779,44 +3778,41 @@ Thường ngày thầy tụng kinh Kim Cang Bát Nhã, lại rất giỏi về
 pháp sự Du Già. Thầy đến dự lễ theo lời mời của người Tăng, kẻ
 tục, nhất định hết sức cẩn thận tôn kính.
 Về phần biếu cúng thì không so tính là nhiều hay ít, giả như
-không cúng gì hết, thầy cũng chẳng để ý, họ có mời nữa, thầy vẫn
-đến như buổi đầu.
+không cúng gì hết, thầy cũng chẳng để ý, họ có mời nữa, thầy vẫn đến như buổi đầu.
 Tháng 5 mùa hạ năm Tân Hợi, niên hiệu Hồng Vũ, thầy bị bệnh
-chút ít, đòi nước nóng tắm rửa xong, thay áo viết bài kệ, rồi ngồi
-tréo chân qua đời. Khi trà tỳ, tia lửa xen lẫn với hào quang tung
-tóe, hoàn toàn không có ngọn khói, thiêu xong thu được xá lợi rất
-nhiều. Thầy sống được 83 tuổi.
+chút ít, đòi nước nóng tắm rửa xong, thay áo viết bài kệ, rồi ngồi tréo chân qua đời. Khi trà tỳ, tia lửa xen lẫn với hào quang tung tóe, hoàn toàn không có ngọn khói, thiêu xong thu được xá lợi rất nhiều. Thầy sống được 83 tuổi.
 
-175120
+***
+
 Tống Vô Dật người huyện Dư Diêu tỉnh Triết Giang, biệt hiệu là
 Dong Am, tính tình rộng lượng thương người, đoan chính cương
 quyết. Từ lâu, ông theo học với hai tiên sinh Dương Liêm Phu và
 Trần Chúng Trọng. Ông hiểu rành về kinh điển, học vấn lại
-thông suốt, phát lời thành văn từ, phép tắc rất chặt chẽ. Khi về già
-ông rất thích học Thiền. Thời gian đầu cách mạng ở triều đình, Vô
-Dật được gọi về Kinh sư, tham dự biên soạn sử liệu nhà Nguyên,
+thông suốt, phát lời thành văn từ, phép tắc rất chặt chẽ. Khi về già ông rất thích học Thiền. Thời gian đầu cách mạng ở triều đình, Vô Dật được gọi về Kinh sư, tham dự biên soạn sử liệu nhà Nguyên,
 xong việc được mời trở về. Nhân đó tôi bảo học trò là Cư Đảnh
 hiện đang ở tại Long Sơn thuộc Từ Khê, nên thường đến gặp Vô
 Dật để được dạy cho phép làm văn. Vô Dật nhờ Cư Đảnh mang
-thư đến hỏi tôi về yếu chỉ vào Đạo, tôi đã viết thư trả lời... Tôi lại
-đem quyển kinh Lăng Nghiêm do Hoàng Công chú giải và quyển
-Đại Huệ Thư Vấn gởi biếu ông. Từ đó, Vô Dật thường nhắm mắt
+thư đến hỏi tôi về yếu chỉ vào Đạo, tôi đã viết thư trả lời... 
+
+Tôi lại đem quyển kinh Lăng Nghiêm do Hoàng Công chú giải và quyển Đại Huệ Thư Vấn gởi biếu ông. Từ đó, Vô Dật thường nhắm mắt
 ngồi ngay ngắn, nhiều lần nghiên cứu ý chỉ hai quyển sách này, có
 chỗ chứng nhập.
+
 Tháng 6 năm thứ 9, niên hiệu Hồng Vũ, nhân bị bệnh, ông sai các
-học trò Vương Chí... viết giúp ông bài thơ “Dạy con” (Thị Tử), rồi
-vẫn cười nói như thường. Bất ngờ ông phất phất cây quạt ngăn
+học trò Vương Chí... viết giúp ông bài thơ “Dạy con” (Thị Tử), rồi vẫn cười nói như thường. Bất ngờ ông phất phất cây quạt ngăn
 người nhà nói: “Ta mới yên tĩnh, các ngươi đừng quấy rối ta”. Nói
 xong ông liền nhắm mắt, lấy quạt che mặt rồi qua đời. Khi liệm
 trời rất nóng nực, dung mạo thần sắc của ông có vẻ vui cười càng
 thêm tươi nhuận. Ông có viết Dong Am Cảo mấy quyển lưu hành ở
 đời.
 
-176121
+***
+
 Tự họ đã chẳng có chứng nghiệm gì, lại không biết ý nghĩa nơi đầu
 lưỡi của Phật tổ, lầm lấy sự bàn luận sâu xa gán ghép vào cái hiểu
 biết tối tăm của mình, khiến cho hàng thức giả đọc qua không khỏi
 sợ hãi toát mồ hôi.
+
 Chiếu Thiên Giang người ở Tứ Minh, Viên Trực Chỉ người ở
 Thiên Thai, Dịch Hưu Am người ở Dương Châu, ba kẻ đều là hàng
 phàm phu thấp kém, hoàn toàn không có chánh kiến, mà tự khắc
@@ -3831,15 +3827,15 @@ Hỏi như thế mà thầy hoàn toàn mờ mịt không hiểu gì, huống l�
 muốn thầy ấy vì những chúng sanh không rõ được chính mình, nêu
 bày ra tri giác chân chánh trùm khắp vô thượng ư?
 
-177121- Ngoại đạo cạo đầu, trích nhặt những lời của Phật tổ
+Ngoại đạo cạo đầu, trích nhặt những lời của Phật tổ
 Hiện nay, những bậc ngồi trên tòa cao, phải nên dẹp bỏ chuyện ấy
-mà chỉnh sửa lại cho đúng. Trở lại khen ngợi phụ họa theo, có người
-còn làm lời tựa, lời bạt cho họ, thì kẻ ấy mắc tội với Tông giáo rất
-nặng.Những vị này đều chẳng tìm hiểu chánh nhân, chỉ lo thực hành tà
+mà chỉnh sửa lại cho đúng. Trở lại khen ngợi phụ họa theo, có người còn làm lời tựa, lời bạt cho họ, thì kẻ ấy mắc tội với Tông giáo rất nặng.
+Những vị này đều chẳng tìm hiểu chánh nhân, chỉ lo thực hành tà
 đạo, muốn giành giựt danh tiếng nơi đời, lừa dối kẻ phàm phu, thật
 đáng than thở.
 
-178122
+***
+
 Tôi đọc quyển Tùng Lâm Công Luận do ngài Giả Am soạn thuật,
 đủ biết Giả Am thấy biết cao minh, nghiên cứu tỉ mỉ chính xác,
 người khác không dễ gì theo kịp. Song những điều bàn luận trong
@@ -3856,22 +3852,20 @@ Lại bàn về bài từ Về Đi Thôi của Đào Uyên Minh là “Nói chuy
 phiếm về sự an nhàn, nhưng nghĩa lý văn từ đạt đến chỗ cao xa,
 chỉ có hai chữ “tiêu ưu là chưa hay”. Bàn về bài tựa Đưa Tiễn Lý
 Nguyện trở về Bàn Cốc của Hàn Thối, thầy cho là “Phần nhiều có
-ý chế nhạo, thất vọng, lời văn trau chuốt che đậy lỗi lầm”. Về bài
-Tiểu Trúc Lâu Ký của Vương Nguyên thì nói “Như ông những lúc
+ý chế nhạo, thất vọng, lời văn trau chuốt che đậy lỗi lầm”. Về bài Tiểu Trúc Lâu Ký của Vương Nguyên thì nói “Như ông những lúc
 trở về quê nhàn rỗi, khoác áo lông hạc, đội mão Hoa Dương, tay
 cầm một quyển Chu Dịch, đốt hương ngồi im, tự nghĩ thật là đáng
-thương! Rồi tiếp theo đó nói: “Dẹp bỏ suy nghĩ thế gian, giống như tỳ
-vết của viên ngọc thôi”.
+thương! Rồi tiếp theo đó nói: “Dẹp bỏ suy nghĩ thế gian, giống như tỳ vết của viên ngọc thôi”.
 
-179122- Chẳng phải chỗ đáng bàn mà đem ra bàn
+Chẳng phải chỗ đáng bàn mà đem ra bàn
 Tôi cho là sự hay dở trong văn từ của bậc Nho thuở trước vốn
-không dính dáng gì đến chúng ta, mà đem đặt vào trong quyển
-Tùng Lâm Công Luận, thật là trái ngược.
+không dính dáng gì đến chúng ta, mà đem đặt vào trong quyển Tùng Lâm Công Luận, thật là trái ngược.
 Vì thế bảo là chẳng phải chỗ đáng bàn mà đem ra bàn, chính là
 điều này. Cổ nhân có nói: “Thước có điểm dở, tấc có cái hay”, há
 chẳng đúng sao?
 
-180123
+***
+
 Hòa thượng Tuyết Song ở chùa Dục Vương. Có vị tăng đến xin
 ở,, thầy hỏi: Ở đâu đến?
 Tăng thưa: Ở Thiên Thai.
@@ -3886,6 +3880,7 @@ lợi có được mấy người.
 qua đêmgọi là Đán quá liêu, nơi cho các vị Thiền tăng hành gọi là Đán quá liêu, nơi cho các vị Thiền tăng hành gọi là Đán quá liêu, nơi cho các vị Thiền tăng hành
 cước ở trọ qua đêm. cước ở trọ qua đêm. cước ở trọ qua đêm.
 
+***
 
 Trong Thiền Lâm Bảo Huấn ghi: “Ngài Trạm Đường Chuẩn viết
 thư cho Lý Thương Lão rằng: Người giỏi hoàng đạo, quan trọng ở
@@ -3897,15 +3892,12 @@ việc thuộc về tâm ý thức. Vả lại vị tăng hỏi như thế, Tri�
 trả lời như thế, giống như hai gương soi nhau, ánh sáng và bóng
 dáng đều không còn, thì làm sao có quyền biến?
 Ngài Trạm Đường nói như thế, chẳng lẽ lại có yếu chỉ nào khác
-sao?Nếu cho là người xưa không thông suốt quyền biến mà có thể đối
-đáp qua lại như thế sao?Có một vị tăng hỏi ngài Triệu Châu: Muôn pháp trở về một, một
-trở về chỗ nào? Triệu Châu đáp: Ta ở Thanh Châu có may một
-chiếc áo nặng bảy cân.
-Tôi cho rằng, vị tăng đặt ra câu hỏi cũng là lạ lùng, tiếc rằng Triệu
-Châu không có chỗ cho ông nương gá. Còn như Ngài đáp vị tăng
+sao?Nếu cho là người xưa không thông suốt quyền biến mà có thể đối đáp qua lại như thế sao?Có một vị tăng hỏi ngài Triệu Châu: Muôn pháp trở về một, một trở về chỗ nào? Triệu Châu đáp: Ta ở Thanh Châu có may một chiếc áo nặng bảy cân.
+Tôi cho rằng, vị tăng đặt ra câu hỏi cũng là lạ lùng, tiếc rằng Triệu Châu không có chỗ cho ông nương gá. Còn như Ngài đáp vị tăng
 kia một lời xoay chuyển, mà cho là Ngài có thể thông suốt quyền
 biến, e là chưa đúng.
 
+***
 
 Tiên sinh Minh Thiện Hàn, viết bản thảo lời tựa quyển Phổ Đăng
 Lục của Lục Phóng Ông phần sau ghi: “Phóng Ông tiên sinh tự
@@ -3918,8 +3910,7 @@ trách mắng đó là lưu truyền xằng bậy. Có người nói: “Thừa 
 Vương ở Kim Lăng vào trong cung cấm thấy được kinh Phạm
 Vương Quyết Nghi, xem quyển kinh ấy có lời nói này, vì có điều
 kiêng dè, cho nên không đưa vào Tạng”. Nay Hàn tiên sinh cho là
-điều này được ghi trên kinh lá cây lưu truyền riêng, chẳng biết có
-phải quyển kinh mà Thừa tướng thấy chăng? Tiên sinh nói như
+điều này được ghi trên kinh lá cây lưu truyền riêng, chẳng biết có phải quyển kinh mà Thừa tướng thấy chăng? Tiên sinh nói như
 thế, nhất định đã có khảo xét. Đồng thời ghi phía sau rằng: “Như
 hai Tiên sinh này học rộng lý sáng, lời các vị chẳng lẽ hư dối?”.
 Gần đây ngài Tống ở viện Hàn Lâm vì tôi ghi lời tựa quyển Lục
@@ -3930,6 +3921,7 @@ có trên đời, mà có kẻ trách mắng cho là hư dối. Ở trước nó
 điều kiêng dè, cho nên không đưa vào Tạng”. Lời này đã nói tất cả
 rồi.
 
+***
 
 Người xưa làm Phật sự cho tăng qua đời, vì e rằng họ thấy đạo
 chẳng rõ ràng, đến khi chết có chỗ vướng mắc, thật là muốn khơi
@@ -3950,6 +3942,7 @@ theo, Đả tự bắt đầu từ đấy. Đến nay trong Tùng Lâm lấy Đ�
 nghi thức cố định, chắp vá gượng gạo, hoàn toàn không có ý nghĩa
 gì, thì cái gọi là khơi mở cho người chết, thật sự ở chỗ nào?
 
+***
 
 Chiếu Lạo Nguyên ở chùa Thiên Đồng vốn có nhiều bệnh. Năm
 Bính Thìn, niên hiệu Hồng Vũ, bệnh tình thầy ngày càng trầm
@@ -3965,6 +3958,7 @@ Di Đà. Thầy vừa mới khởi niệm này chợt thấy một người đà
 cửa đi vào đứng ngay trước mặt. Thầy kinh ngạc lúng túng, một lát
 sau thầy định tâm nhìn kỹ thì chính là Bồ Tát thị hiện hình tướng.
 
+***
 
 Tạng chủ Như Am ở Kính sơn, là người Ủy Vũ tại Thai Châu. Thầy từ bên giáo vào học Thiền, tính tình thâm trầm mềm mỏng chẳng
 thích hơn thua. Thầy thông thạo tất cả nội điển lẫn ngoại điển, mà
@@ -3978,6 +3972,7 @@ Như Am bất chợt gật đầu chấp nhận.Tôi nhớ bậc Tiên đức b�
 có Phật tánh chăng? Hay là Phật tánh trùm khắp chẳng cách vô
 tình, trong vô tình có Phật tánh chăng?
 
+***
 
 Tỳ kheo Phổ Nguyệt ở am Phước Tụ tại Thành Ngân, có thờ tượng Phật Thích Ca bằng đồng, chạm đúc rất khéo mà lại cổ xưa. 
 Ban đầu, tượng ở tại Phần Dương, chẳng biết nguyên do đầu tiên thế nào mà tượng này được tạo ra. 
@@ -3991,6 +3986,7 @@ Tác gia gặp phải tay giết Phật,
 Đặt trong lửa đỏ muốn chảy tiêu,
 Lửa cháy hun bạo suốt ba ngày,
 Nghiễm nhiên bất động trong lò hực.
+
 Tác gia hội ngộ sát Phật thủ,
 Trí chi liệt diệm linh tiêu dung,
 Hỏa tinh bính đã hằng tam nhật,
@@ -4010,6 +4006,8 @@ Nói về Pháp thân thanh tịnh, bao gồm tất cả các pháp.
 - Nếu so sánh với sự thần hóa của Phật, Bồ Tát, không những là hơn gấp vạn lần. 
 - Nay xem tượng đồng đức Thích Ca và tượng vẽ đức Quán Thế Âm linh ứng như thế, thì đâu thể phân chia tượng và chân thân làm hai mà chẳng dốc lòng cung kính ư?
 
+***
+
 Vinh Khô Mộc người đất Ngân, từ nhỏ chỉ ăn rau cải và trì tụng kinh Pháp Hoa.
 Khi thầy được phép xuất gia, đầu tiên thầy thờ Mai Phong Thọ ở chùa Hải Hội, kế đó thầy đến gặp Đông Tự Hải ở chùa Tịnh Từ, được xuống tóc và đăng đàn thọ giới Cụ túc. Từ đó, thầy thường lắng thần thiền quán, sớm tối không gián đoạn. 
 Thầy lập chí thưa hỏi, như các ngài Trung Phong, Đoạn Nhai, Bố Nạp, Đại Lương, Vô Phương, Cổ Lâm, thầy đều siêng năng cung kính đến làm lễ xin gặp, được các vị khuyến khích khơi mở rất nhiều. Khi ngài Tuyết Song trụ trì chùa Dục Vương, vì trọng thầy giới hạnh tinh nghiêm, chỗ thấy an ổn chân thật, nên đặc biệt gọi thầy đến giữ chức Đệ Nhị Tòa.
@@ -4023,6 +4021,7 @@ Xa Kiều tại Ngân Thành, kim quan được lưu lại bảy ngày, dáng m�
 Buổi tối sắp làm lễ dâng rượu động phòng, thầy lẩn trốn vào nằm trong tuyết lạnh đến gần chết. 
 Người anh họ Lục tìm gặp, cởi áo mặc cho thầy, rồi dìu trở về dùng nước nóng và đốt lửa sưởi ấm thầy mới tỉnh lại.
 
+***
 
 Giới đàn Ngũ Đài ở Minh Châu là do Luật sư Linh Chi tạo dựng lại. Khi đàn tràng đã thành tựu, đang lúc giảng pháp, có một ông già thần khí khác thường, râu và lông mày trắng phau, ông tiến tới trước thưa: “Đệ tử chẳng phải người thường, có ba hạt châu xin được kính dâng để chúc mừng đàn giới thành tựu”. 
 Nói xong không thấy ông đâu. Nhân đó đặt ba hạt châu vào giữa đàn, ba hạt châu ấy liên tục hiện ra ánh sáng.
@@ -4043,6 +4042,7 @@ Không biết vì sao hàng Sa môn lại xem giới là lời văn vô ích mà
 - Dâng hạt châu ở Ngũ Đài
 
 LỜI CUỐI SÁCH
+
 Quyển Sơn Am Tạp Lục ghi lại những việc do ngài Vô Uấn đã nghe thấy lúc bình sanh khi Ngài ở am tranh trên núi Thụy Nham.
 Những việc ghi trong đó hoặc lành hoặc dữ, đều thẳng thắn không che giấu, đúng là quyển sách lịch sử hay của hàng xuất gia. 
 Về sự việc có liên quan đến Tông giáo thì không thể không chép, nhưng chép mà phù hợp với dư luận chung của thiên hạ thì càng đáng mừng. 
