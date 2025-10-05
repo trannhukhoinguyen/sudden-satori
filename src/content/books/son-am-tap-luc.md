@@ -2589,14 +2589,10 @@ Từ kính xưng vị từng trụ trì ở tự viện khác đến bản tự 
 tiền nhiệm của bản tự thì gọi là Đông đường, Đông am. Vì lấy phương đông tiền nhiệm của bản tự thì gọi là Đông đường, Đông am. Vì lấy phương đông tiền nhiệm của bản tự thì gọi là Đông đường, Đông am. Vì lấy phương đông
 làm vị chủ, phương tây làm vị khách, nên các bậc tôn túc từ các tư viên khác làm vị chủ, phương tây làm vị khách, nên các bậc tôn túc từ các tư viên khác làm vị chủ, phương tây làm vị khách, nên các bậc tôn túc từ các tư viên khác
 đến, mời trụ tại Tây đường. tiếp đãi như tân khách, nên gọi là Tây đường. đến, mời trụ tại Tây đường. tiếp đãi như tân khách, nên gọi là Tây đường. đến, mời trụ tại Tây đường. tiếp đãi như tân khách, nên gọi là Tây đường.
-Nhưng ở Nhật Bản có nơi phân Đông đường, Tây đường thành giai vì, xếp Nhưng ở Nhật Bản có nơi phân Đông đường, Tây đường thành giai vì, xếp Nhưng ở Nhật Bản có nơi phân Đông đường, Tây đường thành giai vì, xếp
-Tây đường dưới Đông đường. Hiện nay gọi vị trụ trì là Đông đường, còn vị Tây đường dưới Đông đường. Hiện nay gọi vị trụ trì là Đông đường, còn vị Tây đường dưới Đông đường. Hiện nay gọi vị trụ trì là Đông đường, còn vị
-trưởng lão phụ tá trụ trì, chỉ đạo đại chúng thì gọi là Tây đường. Ngoài ra trưởng lão phụ tá trụ trì, chỉ đạo đại chúng thì gọi là Tây đường. Ngoài ra trưởng lão phụ tá trụ trì, chỉ đạo đại chúng thì gọi là Tây đường. Ngoài ra
-người có danh dự đức hạnh trong số các vị Tây đường được gọi là danh đức người có danh dự đức hạnh trong số các vị Tây đường được gọi là danh đức người có danh dự đức hạnh trong số các vị Tây đường được gọi là danh đức
-Tây đường; người theo hầu Tây đường tình là Tây đường hành giả; trong Tây đường; người theo hầu Tây đường tình là Tây đường hành giả; trong Tây đường; người theo hầu Tây đường tình là Tây đường hành giả; trong
-tăng đường Vị trí của Tây đường gọi là Tây đường bản đầu. tăng đường Vị trí của Tây đường gọi là Tây đường bản đầu. tăng đường Vị trí của Tây đường gọi là Tây đường bản đầu.🔖 Tây đường
+Nhưng ở Nhật Bản có nơi phân Đông đường, Tây đường thành giai vì, xếp Nhưng ở Nhật Bản có nơi phân Đông đường, Tây đường thành giai vì, xếp Nhưng ở Nhật Bản có nơi phân Đông đường, Tây đường thành giai vì, xếp.Tây đường dưới Đông đường. Hiện nay gọi vị trụ trì là Đông đường, còn vị Tây đường dưới Đông đường. Hiện nay gọi vị trụ trì là Đông đường, còn vị Tây đường dưới Đông đường. Hiện nay gọi vị trụ trì là Đông đường, còn vị trưởng lão phụ tá trụ trì, chỉ đạo đại chúng thì gọi là Tây đường. Ngoài ra trưởng lão phụ tá trụ trì, chỉ đạo đại chúng thì gọi là Tây đường. Ngoài ra trưởng lão phụ tá trụ trì, chỉ đạo đại chúng thì gọi là Tây đường. Ngoài ra.người có danh dự đức hạnh trong số các vị Tây đường được gọi là danh đức người có danh dự đức hạnh trong số các vị Tây đường được gọi là danh đức người có danh dự đức hạnh trong số các vị Tây đường được gọi là danh đức
+Tây đường; người theo hầu Tây đường tình là Tây đường hành giả; trong Tây đường; người theo hầu Tây đường tình là Tây đường hành giả; trong Tây đường; người theo hầu Tây đường tình là Tây đường hành giả; trong tăng đường Vị trí của Tây đường gọi là Tây đường bản đầu. tăng đường Vị trí của Tây đường gọi là Tây đường bản đầu. tăng đường Vị trí của Tây đường gọi là Tây đường bản đầu.🔖 Tây đường
 
-11580
+***
 Tiên sư Trúc Nguyên, về già Ngài ở thong dong nơi núi Tử Thác,
 Thiên Thai, nhưng khuyến khích chỉ dạy những người đến học
 không biết mệt mỏi. Ngài từng bảo: “Làm bài tụng cần phải sự lý
@@ -2628,7 +2624,7 @@ dường như cảm thấy có
 trở ngại, vì thế không được
 hay”.
 
-116Tiên sư lại nói: “Hư Chu khi trụ ở Kim Sơn nhân trời đổ tuyết, ngài
+Tiên sư lại nói: “Hư Chu khi trụ ở Kim Sơn nhân trời đổ tuyết, ngài
 thượng đường nói:
 Gió sông đêm cuộn tuyết hoa lay,
 Cô phong xanh thẳm chuyển tinh thần,
@@ -2659,17 +2655,16 @@ Phật, ai ngờ Phật cũng là bụi, ít gặp người xỏ lỗ tai, lại
 kẻ khắc thuyền”. Những lời này rất có mẫu mực, người học có thể
 phỏng theo.
 
-11780- Thiền sư Trúc Nguyên
-Chỉ cho các vị tăng Ấn Độ vào thời xưa, vì phần lớn họ thường xỏ lỗ tai để Chỉ cho các vị tăng Ấn Độ vào thời xưa, vì phần lớn họ thường xỏ lỗ tai để Chỉ cho các vị tăng Ấn Độ vào thời xưa, vì phần lớn họ thường xỏ lỗ tai để
+Thiền sư Trúc Nguyên Chỉ cho các vị tăng Ấn Độ vào thời xưa, vì phần lớn họ thường xỏ lỗ tai để Chỉ cho các vị tăng Ấn Độ vào thời xưa, vì phần lớn họ thường xỏ lỗ tai để Chỉ cho các vị tăng Ấn Độ vào thời xưa, vì phần lớn họ thường xỏ lỗ tai để
 đeo khoen đồng. Trong Tùng lâm, chuyên chỉ cho hàng tăng sĩ lanh lợi nghe đeo khoen đồng. Trong Tùng lâm, chuyên chỉ cho hàng tăng sĩ lanh lợi nghe đeo khoen đồng. Trong Tùng lâm, chuyên chỉ cho hàng tăng sĩ lanh lợi nghe
-pháp tỏ hiểu đạo lý. pháp tỏ hiểu đạo lý. pháp tỏ hiểu đạo lý.🔖 Xuyên nhĩ kháchChỉ cho muôn hình tượng khác nhau trong cõi mê. Chúng sanh gây tạo các Chỉ cho muôn hình tượng khác nhau trong cõi mê. Chúng sanh gây tạo các Chỉ cho muôn hình tượng khác nhau trong cõi mê. Chúng sanh gây tạo các
-nghiệp, do nhân sanh quả, nhân duyên quả báo có thật không đổi, có thể nghiệp, do nhân sanh quả, nhân duyên quả báo có thật không đổi, có thể nghiệp, do nhân sanh quả, nhân duyên quả báo có thật không đổi, có thể
+pháp tỏ hiểu đạo lý. pháp tỏ hiểu đạo lý. pháp tỏ hiểu đạo lý.🔖 Xuyên nhĩ kháchChỉ cho muôn hình tượng khác nhau trong cõi mê. Chúng sanh gây tạo các Chỉ cho muôn hình tượng khác nhau trong cõi mê. Chúng sanh gây tạo các Chỉ cho muôn hình tượng khác nhau trong cõi mê. Chúng sanh gây tạo các nghiệp, do nhân sanh quả, nhân duyên quả báo có thật không đổi, có thể nghiệp, do nhân sanh quả, nhân duyên quả báo có thật không đổi, có thể nghiệp, do nhân sanh quả, nhân duyên quả báo có thật không đổi, có thể
 phân làm ba hữu, bốn hữu, bảy hữu, chín hữu, hai mươi lăm hữu, coi chung phân làm ba hữu, bốn hữu, bảy hữu, chín hữu, hai mươi lăm hữu, coi chung phân làm ba hữu, bốn hữu, bảy hữu, chín hữu, hai mươi lăm hữu, coi chung
 là chư huu. Ngoài ra, thể hiện là biển sinh từ mà chúng sanh phàm phu là chư huu. Ngoài ra, thể hiện là biển sinh từ mà chúng sanh phàm phu là chư huu. Ngoài ra, thể hiện là biển sinh từ mà chúng sanh phàm phu
 chìm đắm trong ấy, cho nên gọi là biển chư hữu. chìm đắm trong ấy, cho nên gọi là biển chư hữu. chìm đắm trong ấy, cho nên gọi là biển chư hữu.🔖 Biển chư hữu
 
-11881Tạng chủ Nguyên Am Hội, người Lâm An ở nhà An
-Dưỡng trong chùa Tịnh Từ đã lâu rất thân thiện với
+***
+
+Tạng chủ Nguyên Am Hội, người Lâm An ở nhà An Dưỡng trong chùa Tịnh Từ đã lâu rất thân thiện với
 Triệu Văn Mẫn.
 Một lối Niết Bàn đổ sạch trơn,
 Gặp việc công phu thấy dễ dàng,
@@ -2678,13 +2673,9 @@ Trong mắt kim thiêu che núi to.
 Niết bàn nhất lộ tận hán phiên,
 Xúc xứ công phu kiến bất nan,
 Tẩy diện mộ nhiên mô trước tị,
-Tú châm nhãn lý hảo tàng sơn.Khi ấy Hòa thượng Hồi
-Cơ làm trụ trì, đặc biệt
-lên nhà giảng khen ngợi
-thầy. Căn cứ bài kệ này
-mà bàn, thì có thể biết
-thầy làm thơ tinh diệu vô
-cùng.
+Tú châm nhãn lý hảo tàng sơn.
+Khi ấy Hòa thượng Hồi Cơ làm trụ trì, đặc biệt lên nhà giảng khen ngợi thầy. 
+Căn cứ bài kệ này mà bàn, thì có thể biết thầy làm thơ tinh diệu vô cùng.
 Tên một căn nhà trong khuôn viên chùa, để cho các vị tăng già, bệnh sắp Tên một căn nhà trong khuôn viên chùa, để cho các vị tăng già, bệnh sắp Tên một căn nhà trong khuôn viên chùa, để cho các vị tăng già, bệnh sắp
 chết ở. Còn gọi Diên thọ đường, Diên thọ viên, Diên thị liêu, Trọng bệnh các, chết ở. Còn gọi Diên thọ đường, Diên thọ viên, Diên thị liêu, Trọng bệnh các, chết ở. Còn gọi Diên thọ đường, Diên thọ viên, Diên thị liêu, Trọng bệnh các,
 Tỉnh hành đường, Tương tức liêu. Tỉnh hành đường, Tương tức liêu. Tỉnh hành đường, Tương tức liêu. 🔖 Niết Bàn đườngPhòng an dưỡng sau khi từ nhiệm những chức Đô tự trở xuống như Tri sự... Phòng an dưỡng sau khi từ nhiệm những chức Đô tự trở xuống như Tri sự... Phòng an dưỡng sau khi từ nhiệm những chức Đô tự trở xuống như Tri sự...
@@ -2699,7 +2690,8 @@ vá, chỗ rửa mặt và hầm tiểu. Tăng chúng làm một quyển kệ đ
 cảm tạ, Nguyên Am trong lòng không thích. Chúng mời thầy làm,
 thầy liền làm hệ:
 
-11982
+***
+
 Hòa thượng Nhất Khê ở chùa Trung Thiên Trúc, tên húy là Tự
 Như, người Phước Kiến. Khi quân Nguyên đánh xuống Giang Nam,
 thầy tuổi còn nhỏ, bị du binh bắt dẫn đến Lâm An rồi bỏ lại đó. Có
@@ -2709,9 +2701,7 @@ lắng thần lóng nghe giảng, thầm biết không bỏ sót điều gì. H�
 vui lòng, nhận làm con nuôi. Khi lớn lên, họ Hồ bảo thầy đến chùa
 Vô Tướng trong làng làm tăng.
 Sau đó thầy đến tham học với Tuyết Phong ở Kính Sơn, nhận
-hiểu được ý chỉ. Thầy giữ giới rất tinh nghiêm, ba y bình bát không
-rời thân, lại hay tụng các kinh Lăng Nghiêm, Pháp Hoa, Duy Ma,
-Viên Giác.
+hiểu được ý chỉ. Thầy giữ giới rất tinh nghiêm, ba y bình bát không rời thân, lại hay tụng các kinh Lăng Nghiêm, Pháp Hoa, Duy Ma, Viên Giác.
 Đầu niên hiệu Thiên Lịch, ngài Đại Hân, tự là Tiểu Ẩn trụ trì
 chùa Trung Thiên Trúc, theo chiếu chỉ đến xây dựng lại chùa Đại
 Long Tường, vì vậy ngài cử ba người thay thế trụ trì chùa Trung
@@ -2719,7 +2709,8 @@ Trúc. Hoàng thượng lấy ngự bút chấm tên thầy, viện Tuyên Chán
 chuẩn bị đủ văn thư nghi lễ đến thỉnh. Chưa bao lâu thầy qua đời,
 có nhiều sự linh ứng khác thường.
 
-12083
+***
+
 Giác Tông Thánh trụ trì chùa Quảng Hóa ở Tiền Đường, là đệ tử
 cạo tóc của Thiền sư Bản Nguyên ở Kính Sơn. Trong hàng đệ tử
 của Bản Nguyên, chỉ có thầy là người kém cỏi nhất, nên thường
@@ -2734,15 +2725,14 @@ chẳng nhận bừa bãi của người dù một bữa ăn. Giao hẹn với a
 cho gió mưa cũng không sai lời. Đến tuổi trung niên, thầy tham
 cứu yếu chỉ tuyệt học. Buổi đầu tham học Hòa thượng Trọng
 Mưu, nhưng không được tỏ hiểu, liền thưa hỏi Nam Đường ở
-chùa Bản Giác. Nam Đường nói: Ông tự cho là người xong việc,
-nhưng sự thấy nghe quá nhiều, đang ngăn lấp trong hông ngực đến
-nỗi làm cho gương mặt xưa nay không thể hiển lộ.
+chùa Bản Giác. 
+Nam Đường nói: Ông tự cho là người xong việc, nhưng sự thấy nghe quá nhiều, đang ngăn lấp trong hông ngực đến nỗi làm cho gương mặt xưa nay không thể hiển lộ.
 Thầy liền nhân đó hỏi: Thế nào là Phật?
 Nam Đường nói: Sáng sớm có cháo, buổi trưa có cơm.
 Thầy định nói thêm, Nam Đường khoát tay cười nhạo nói: Không
 phải, không phải.
 
-12183- Thiền sư Giác Tông Thánh
+- Thiền sư Giác Tông Thánh
 Tông Thánh tức giận Nam Đường không nói rõ ràng. Hôm sau,
 Tông Thánh đến gặp Nam Đường, thầy nói: Hòa thượng mở lò
 rèn lớn, nung đúc thánh phàm. Con giống như một cục đồng sắt
@@ -2751,8 +2741,7 @@ tốt. Nếu không được như vậy là do lò rèn của Hòa thượng thi
 Nam Đường nghĩ thầy thành khẩn, nên uyển chuyển dạy bảo nói:
 Pháp môn của ta chỉ quý ngay đó nhận lấy, không cần hiểu biết
 thông minh. Nếu có thể phát ý chí quyết liệt, dứt khoát vững chắc,
-thì có đồng hoen nào để rèn, có đồ tốt nào để thành. Bỏ hai lối này,
-khi cha mẹ chưa sanh hãy nói một câu xem?
+thì có đồng hoen nào để rèn, có đồ tốt nào để thành. Bỏ hai lối này, khi cha mẹ chưa sanh hãy nói một câu xem?
 Tông Thánh không có lời đáp. Về sau, thầy học theo người xưa
 đảnh lễ tượng Phật Di Lặc, sớm tối hành đạo, niệm đọc danh hiệu
 mong cầu sanh về Nội viện ở cung trời Đâu Suất, vẫn làm thi phú
@@ -2760,7 +2749,8 @@ mong cầu sanh về Nội viện ở cung trời Đâu Suất, vẫn làm thi p
 nháp thi văn sáng tác lúc thường ngày đem đốt hết, rồi qua đời.
 Thầy là người Hoàng Nham, họ Thái, nối pháp ngài Quái Thạch.
 
-12284
+***
+
 ☀ Hòa thượng Vô Ngôn, ở liêu Đông đường tại chùa Giang Tâm.
 Thầy treo tấm bảng trước cửa rằng: “Trước giờ cơm trưa xem kinh
 ngồi thiền, sau giờ cơm trưa là làm việc tiếp khách”. Đối với công
@@ -2828,16 +2818,12 @@ lấy khăn lau trong nhà xí làm áo lót.
 chẳng phải người trong quả vị, đâu thể đạt được như thế.
 🔖 Ký thất
 Lại gọi Thư ký, Thư trạng, Ngoại sử, Ngoại ký, giữ việc văn thư. Thông Lại gọi Thư ký, Thư trạng, Ngoại sử, Ngoại ký, giữ việc văn thư. Thông Lại gọi Thư ký, Thư trạng, Ngoại sử, Ngoại ký, giữ việc văn thư. Thông
-thường những lời khi cầu đảo, thông báo, thư từ, đều giao cho vị này. Bởi khi thường những lời khi cầu đảo, thông báo, thư từ, đều giao cho vị này. Bởi khi thường những lời khi cầu đảo, thông báo, thư từ, đều giao cho vị này. Bởi khi
-xưa ở những ngôi chùa lớn, khi nhận thánh chỉ, vị trụ trì phải dâng biểu xưa ở những ngôi chùa lớn, khi nhận thánh chỉ, vị trụ trì phải dâng biểu xưa ở những ngôi chùa lớn, khi nhận thánh chỉ, vị trụ trì phải dâng biểu
+thường những lời khi cầu đảo, thông báo, thư từ, đều giao cho vị này. Bởi khi thường những lời khi cầu đảo, thông báo, thư từ, đều giao cho vị này. Bởi khi thường những lời khi cầu đảo, thông báo, thư từ, đều giao cho vị này. Bởi khi xưa ở những ngôi chùa lớn, khi nhận thánh chỉ, vị trụ trì phải dâng biểu xưa ở những ngôi chùa lớn, khi nhận thánh chỉ, vị trụ trì phải dâng biểu xưa ở những ngôi chùa lớn, khi nhận thánh chỉ, vị trụ trì phải dâng biểu
 cảm tạ. Khi thị tịch, cũng cần ghi lại Di biểu. Hoặc được ban tặng, hoặc có cảm tạ. Khi thị tịch, cũng cần ghi lại Di biểu. Hoặc được ban tặng, hoặc có cảm tạ. Khi thị tịch, cũng cần ghi lại Di biểu. Hoặc được ban tặng, hoặc có
 điều thưa hỏi, đều ghi biểu dâng lên, nhưng trụ trì chuyên lo hoằng truyền điều thưa hỏi, đều ghi biểu dâng lên, nhưng trụ trì chuyên lo hoằng truyền điều thưa hỏi, đều ghi biểu dâng lên, nhưng trụ trì chuyên lo hoằng truyền
-giáo pháp, ít nghiên cứu văn tự, cho nên đặt ra chức này để chuyên lo thư từ giáo pháp, ít nghiên cứu văn tự, cho nên đặt ra chức này để chuyên lo thư từ giáo pháp, ít nghiên cứu văn tự, cho nên đặt ra chức này để chuyên lo thư từ
-trong chùa. trong chùa. trong chùa.Lúc đầu thầy không hiểu rõ ý bài kệ, đến khi làm chủ hai ngôi chùa,
-nghiệm kỹ lại thầy mới biết. Bởi lẽ ở Ngưỡng Sơn có nhiều kinh lá bối,
-còn ở Kính Sơn có chiếc y của ngài Dương Kỳ.
-
-12686
+giáo pháp, ít nghiên cứu văn tự, cho nên đặt ra chức này để chuyên lo thư từ giáo pháp, ít nghiên cứu văn tự, cho nên đặt ra chức này để chuyên lo thư từ giáo pháp, ít nghiên cứu văn tự, cho nên đặt ra chức này để chuyên lo thư từ trong chùa. trong chùa. trong chùa.Lúc đầu thầy không hiểu rõ ý bài kệ, đến khi làm chủ hai ngôi chùa,
+nghiệm kỹ lại thầy mới biết. Bởi lẽ ở Ngưỡng Sơn có nhiều kinh lá bối, còn ở Kính Sơn có chiếc y của ngài Dương Kỳ.
+n
 Thiền sư Tuyệt Chiếu Huy ở chùa Thọ Xương tại Ôn Châu. Có lần
 thầy ở qua mùa hạ tại liêu Đông Tịnh chùa Tịnh Tử. Trên vách
 quét vôi có tượng Quán Thế Âm vẽ thủy mặc, thầy thường đêm
