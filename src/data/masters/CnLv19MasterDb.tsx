@@ -82,7 +82,7 @@ const CnLv19MasterDb = [
     place: '-',
     teachers: ['Xueyan Huiman'],
     successors: ['Xueting Fuyu'],
-    disciples: ['Xueting Fuyu'],
+    disciples: ['Xueting Fuyu', 'Linquan Conglun', 'Hoa Nghiêm Chí Ôn', 'Nghĩa Giới'],
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/V%E1%BA%A1n_T%C3%B9ng_H%C3%A0nh_T%C3%BA',],
   },
