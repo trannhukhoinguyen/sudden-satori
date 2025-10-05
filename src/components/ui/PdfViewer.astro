@@ -1,5 +1,6 @@
 ---
 const { pdfUrl } = Astro.props;
+const isPdf = pdfUrl.toLowerCase().endsWith(".pdf");
 ---
 
 <style>
@@ -87,10 +88,23 @@ const { pdfUrl } = Astro.props;
         <a href={pdfUrl} target="_blank" rel="noopener">
           <button>Xem trong tab mới</button>
         </a>
+
+        {isPdf && (
+          <>
+            <a href={pdfUrl} download><button>Tải về</button></a>
+            <button id="doc-print">In</button>
+          </>
+        )}
+
         <button id="pdf-close">✖</button>
       </div>
     </div>
-    <iframe src={pdfUrl}></iframe>
+
+    {isPdf ? (
+      <iframe src={pdfUrl}></iframe>
+    ) : (
+      <div class="doc-modal-content" id="doc-content">⏳ Đang tải...</div>
+    )}
   </div>
 </div>
 

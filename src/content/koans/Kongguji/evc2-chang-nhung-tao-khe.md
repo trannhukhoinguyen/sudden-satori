@@ -16,7 +16,8 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 > Còn phân biệt già trẻ, đẹp xấu, chưa ra khỏi sự bình phàm.
-> Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường, đã biết mất trái nửa cân, suy ra mất phải cũng tám lạng, sợ y không tin, thử nhìn kỹ xem.
+> Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường.
+> Đã biết mắt trái nửa cân, suy ra mắt phải cũng 8 lạng, sợ y không tin, thử nhìn kỹ xem.
 
 ## CỬ - BẢN TẮC:
 
@@ -44,8 +45,8 @@ Hành Tư bảo: _Nói cho ông không ngại, chỉ sợ sau này không có ng
 
 📢 Ngài Đầu Tử nói:
 
-Thiền sư Hy Thiên ở Thạch Đầu Nam Nhạc lúc còn Sa Di.
-khi Lục Tổ sắp tịch, Hy Thiên hỏi Tổ: _Sau này Ngài trăm tuổi, con chưa biết nương vào ai?_
+Thiền sư Hy Thiên ở Thạch Đầu Nam Nhạc.
+Lúc còn Sa Di, khi Lục Tổ sắp tịch, Hy Thiên hỏi Tổ: _Sau này Ngài trăm tuổi, con chưa biết nương vào ai?_
 
 Tổ dạy ông: _Tầm tư di._
 
@@ -55,9 +56,9 @@ Sau khi Tổ viên tịch, hằng ngày Hy Thiên ngồi thiền tĩnh lặng qu
 
 Hy Thiên thưa: _Con vâng lời Lục Tổ, cho nên ngồi tĩnh lặng._
 
-Thủ Tọa nói: _Ông có sư huynh Hòa thượng Hành Tư ở tại Thanh Nguyên Kiết Châu, ông có nhân duyên với Ngài. Tổ dạy rất rõ, vì ông hiểu lầm._
+Thủ Tọa nói: _Ông có sư huynh Hòa thượng **Hành Tư** ở tại **Thanh Nguyên** Kiết Châu, ông có nhân duyên với Ngài. Tổ dạy rất rõ, vì ông hiểu lầm._
 
-Hy Thiên nghe nói thế, đảnh lễ tháp Lục Tổ đến tham lễ Ngài Hành Tư.
+Hy Thiên nghe nói thế, đảnh lễ tháp **Lục Tổ** đến tham lễ Ngài **Hành Tư**.
 
 ***
 
@@ -69,7 +70,7 @@ Ngài đưa phất tử lên hỏi: _Ở Tào Khê có cây này không?_
 
 > Mặc dù là treo cà chua bán cà pháo. May gặp người tinh thông, nên lừa Hy Thiên không được.
 
-Còn bị Hy Thiên thưa: “Chẳng những Tào Khê mà cả Tây Thiên cũng không có.”
+Còn bị Hy Thiên thưa: “_Chẳng những Tào Khê mà cả Tây Thiên cũng không có_”
 
 > Điều này nghĩa là kỹ nhất nói rõ ra, cơ quý ở điểm hợp nhau, ngay lúc đỉnh điểm điểm thẳng vào.
 
@@ -77,42 +78,44 @@ Nên Ngài Hành Tư hỏi Hy Thiên đến Tây Thiên rồi chăng?
 
 Cũng có thể khen Hy Thiên là người thông minh, thế nên Hy Thiên thưa con có đến.
 
-Ngài Hành Tư thấy sự tinh chưa hiểu nhau. Thế nên Ngài nói: “Chưa được thì nói nữa.”
+Ngài Hành Tư thấy sự tình chưa hiểu nhau. Thế nên Ngài nói: “Chưa được thì nói nữa”
 
-Cho nên Hy Thiên có hội tương tục, kế tựu kế thừa: “Hòa thượng chớ hoàn toàn tin vào con, Ngài cũng nên nói đôi lời.”
+Cho nên Hy Thiên có hội tương tục, kế tựu kế thừa: “Hòa thượng chớ hoàn toàn tin vào con, Ngài cũng nên nói đôi lời”
 
-Thấy hiện tịnh bất phân thắng bại, cho nên Hy Thiên có nhã ý thân thiện.
+Thấy hiện tình bất phân thắng bại, cho nên Hy Thiên có nhã ý thân thiện.
 
-> Than ôi! Người xưa tâm như gương sáng, cọ tọa châu lăn trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp thành một.
-> Điều này há không phải thâm khế hợp với Phật lý ư?
+> Than ôi! Người xưa tâm như gương sáng, cơ tợ châu lăn. 
+> Trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp thành một.
+> Điều này há không phải thầm khế hợp với Phật lý ư?
 
 ***
 
-Vào đời Đường Niên Hiệu Thiên Bảo năm đầu Hy Thiên tìm đến Hoành Sơn Nam Tự.
+Vào đời Đường Niên Hiệu Thiên Bảo năm đầu, Hy Thiên tìm đến Hoành Sơn Nam Tự.
 Phía đông của chùa có một tảng đá giống như cái đài, sư cất am trên đó.
-Từ đây có tên là Hòa thượng Thạch Đầu.
+Từ đây, có tên là Hòa thượng Thạch Đầu.
 
-Có vị tăng từng hỏi Sư, thế nào là giải thoát?
+Có vị tăng từng hỏi Sư, **thế nào là giải thoát?**
 
-Thạch Đầu đáp: <hr class="blog-rule" />Ai trói ông.<hr class="blog-rule" />
+Thạch Đầu đáp: **Ai trói ông**
 
-Thế nào là Tịnh Độ?
+**Thế nào là Tịnh Độ?**
 
-Thạch Đầu đáp: <hr class="blog-rule" />Ai làm nhơ ông.<hr class="blog-rule" />
+Thạch Đầu đáp: **Ai làm nhơ ông**
 
-Thế nào là Niết Bàn?
+**Thế nào là Niết Bàn?**
 
-Thạch Đầu đáp: <hr class="blog-rule" />Ai đem sanh tử đến cho ông.<hr class="blog-rule" />
+Thạch Đầu đáp: **Ai đem sanh tử đến cho ông**
 
-Xem cách Ngài Thạch Đầu khai ngộ cho hàng hậu học chỉ thẳng cội nguồn, không nói quanh co.
+> Xem cách Ngài Thạch Đầu khai ngộ cho hàng hậu học chỉ thẳng cội nguồn, không nói quanh co.
 
 Ngài là Sơ tổ Tông Tào Động, về lý thì như thế.
 
-Ngài có tác phẩm Tham Đồ Khê ghi: Ngay trong sáng có tối, không cần có tướng tối mới thấy.
+Ngài có tác phẩm Tham Đồng Khế ghi: 
 
-Ngay trong bóng tối có ánh sáng, không cần có tướng sáng mới thấy.
+**Ngay trong sáng có tối, không cần có tướng tối mới thấy.
+Ngay trong bóng tối có ánh sáng, không cần có tướng sáng mới thấy.**
 
-Mặc dù Ngài Thạch Đầu nửa ẩn nửa hiện cho con cháu đời sau đến được chỗ này, làm sao dám nhầm lẫn.
+Mặc dù Ngài Thạch Đầu nửa ẩn nửa hiện, để cho con cháu đời sau đến được chỗ này, làm sao đảm nhận.
 
 ## TỤNG CỔ
 
@@ -130,11 +133,13 @@ Mặc dù Ngài Thạch Đầu nửa ẩn nửa hiện cho con cháu đời sau 
 
 Nếu luận về việc này, giống như phượng đỏ bay trên trời cao không lưu dấu.
 
-Vì hư không tánh thênh thang mặt trời trí tuệ trong sáng, soi thấy năm uẩn đều không, các duyên trần đều tiêu hết.
+Vì hư không tánh thênh thang mặt trời trí tuệ trong sáng, soi thấy 5 uẩn đều không, các duyên trần đều tiêu hết.
 
-Cho dù sao sáng ngọc rơi, trăng soi thêm hồng, sáo ngọc bích rũ, người ngồi tĩnh lặng bên nền hương.
+Cho dù sao sáng ngọc rơi, trăng soi thêm hồng, sáo ngọc bích rũ, người ngồi tĩnh lặng bên nến hương.
 
-Ngay khi ấy đâu để thờ, hy vọng như thế này. Mật thất không tin tức, cửa huyền khó vào.
+Ngay khi ấy đâu dễ thở, hy vọng như thế này. 
+
+Mật thất không tin tức, cửa huyền khó vào.
 
 Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới hạn Tây Trúc với Tào Khê.
 

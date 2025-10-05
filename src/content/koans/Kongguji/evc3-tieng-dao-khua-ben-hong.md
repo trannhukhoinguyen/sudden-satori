@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 > Đồng hành nhưng không thân, chính mình tùy nghi.
-> Không cần mắt thấy tai nghe, biết mà theo thanh đuổi sắc.
+> Không cần mắt thấy tai nghe, biết rõ theo thanh đuổi sắc.
 > Hãy nói điểm nào là thủ đoạn cho người?
 
 ## CỬ - BẢN TẮC:

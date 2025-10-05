@@ -4,7 +4,7 @@ description: ""
 excerpt: ""
 categories:
   - Kinh
-image: /images/backgrounds/trang-lang-gia.webp
+image: /images/backgrounds/unknown-zen-master-on-sea.webp
 tags: 
   - Kinh Thủ Lăng Già
   - HT Thích Duy Lực

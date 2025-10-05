@@ -237,7 +237,7 @@ const CnLv0MasterDb = [
     teachers: ['Niutou Farong'],
     successors: ['Niutou Huifang'],
     disciples: ['Niutou Huifang', 'Cảnh Đàm ở Đông đô', 'Chí Trường ở Tương châu', 'Đoan Phục ở Ích châu', 'Quy Nhân ở Long quang', 'Biện Tài ở Tương dương', 'Pháp Tuấn ở Hán nam', 'Mẫn Cổ ở Tây xuyên'],
-    image: '/images/monocolor-unknown-zen-master.jpg',
+    image: '/images/unknown-zen-master.jpg',
     reference: [''],
   },
   {
@@ -276,7 +276,7 @@ const CnLv0MasterDb = [
     teachers: ['Daman Hongren'],
     successors: [''],
     disciples: ['Phá Táo Đọa', 'Đạo Lượng'],
-    image: '/images/monocolor-unknown-zen-master.jpg',
+    image: '/images/unknown-zen-master.jpg',
     reference: ['https://zh.wikipedia.org/zh-hant/%E5%B5%A9%E5%B6%BD%E6%85%A7%E5%AE%89', 'https://pl.wikipedia.org/wiki/Lao%E2%80%99an_Hui%E2%80%99an', ''],
   },
   {
@@ -296,7 +296,7 @@ const CnLv0MasterDb = [
     teachers: ['Daman Hongren'],
     successors: [''],
     disciples: ['Zizhou Chuji'],
-    image: '/images/monocolor-unknown-zen-master.jpg',
+    image: '/images/unknown-zen-master.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Zizhou_Zhishen'],
   },
   {
@@ -314,7 +314,7 @@ const CnLv0MasterDb = [
     teachers: ['Đàm Thúy'],
     successors: [''],
     disciples: ['Lục Hợp Đại Giác'],
-    image: '/images/monocolor-unknown-zen-master.jpg',
+    image: '/images/unknown-zen-master.jpg',
     reference: [''],
   },
   {
@@ -332,7 +332,7 @@ const CnLv0MasterDb = [
     teachers: ['Niutou Farong'],
     successors: [''],
     disciples: ['Định Châu'],
-    image: '/images/monocolor-unknown-zen-master.jpg',
+    image: '/images/unknown-zen-master.jpg',
     reference: [''],
   },
 ]

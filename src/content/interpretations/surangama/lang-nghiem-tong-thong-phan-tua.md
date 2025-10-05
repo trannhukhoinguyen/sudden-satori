@@ -7,7 +7,7 @@ categories:
 tags:
   - Kinh Thủ Lăng Nghiêm
   - Tông Thông
-image: /images/backgrounds/meditation-child.jpg
+image: /images/backgrounds/unknown-zen-master-on-moon.jpg
 pdfUrl: /pdfs/interpretations/kinh-thu-lang-nghiem-tong-thong.pdf
 videoId: e5qP5EZ9BUY
 videoStart: 1071

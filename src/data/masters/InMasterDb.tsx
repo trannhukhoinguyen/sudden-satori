@@ -754,7 +754,7 @@ const InMasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/monocolor-unknown-zen-master.jpg',
+    image: '/images/unknown-zen-master.jpg',
     reference: [''],
     wiki: [''],
   },
