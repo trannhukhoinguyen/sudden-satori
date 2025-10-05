@@ -20,6 +20,9 @@ const readingTime = calculateReadingTime(plainText);
         post.frontmatter.pdfUrl && <PdfViewer pdfUrl={post.frontmatter.pdfUrl} title={post.frontmatter.title} />
     }
     {
-        post.frontmatter.type === 'masters' && <SpeechViewer pdfUrl={post.frontmatter.pdfUrl} title={post.frontmatter.title} />
+        post.frontmatter.pdfUrl2 && <PdfViewer pdfUrl={post.frontmatter.pdfUrl2} title={post.frontmatter.title} />
+    }
+    {
+        post.frontmatter.type === 'masters' && post.frontmatter.speechUrl && <SpeechViewer speechUrl={post.frontmatter.speechUrl} title={post.frontmatter.title} />
     }
 </span>

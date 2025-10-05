@@ -94,7 +94,7 @@ const CnLv12MasterDb = [
     successors: [''],
     disciples: ['Dahong Bao’en', 'Furong Daokai'],
     image: '/images/avatar.png',
-    reference: ['https://pl.wikipedia.org/wiki/Touzi_Yiqing'],
+    reference: ['https://pl.wikipedia.org/wiki/Touzi_Yiqing', 'https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A7u_T%E1%BB%AD_Ngh%C4%A9a_Thanh'],
   },
 ]
 export default CnLv12MasterDb;

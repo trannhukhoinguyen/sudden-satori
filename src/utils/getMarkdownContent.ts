@@ -2,6 +2,7 @@
 
 // ===== 1. Glob cố định cho từng collection =====
 const globMap = {
+  health: import.meta.glob('../content/health/**/*.{md,mdx}', { eager: true }),
   blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}', { eager: true }),
   places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
   books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
@@ -22,6 +23,7 @@ const globMap = {
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}', { eager: true }),
 };
 const globMapLazy = {
+  health: import.meta.glob('../content/health/**/*.{md,mdx}'),
   blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}'),
   places: import.meta.glob('../content/places/**/*.{md,mdx}'),
   books: import.meta.glob('../content/books/**/*.{md,mdx}'),
@@ -44,6 +46,7 @@ const globMapLazy = {
 
 // ===== 2. Mapping name → type =====
 const collections = {
+  health: "health",
   blogs: "blogs",
   places: "places",
   books: "books",

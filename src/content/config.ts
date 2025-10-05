@@ -160,6 +160,20 @@ const faqs = defineCollection({
   }),
 });
 
+const health = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/health" }),
+  schema: z.object({
+    type: z.string().default("health"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Hỏi đáp"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
 export const collections = {
   blogs,
   places,
@@ -171,4 +185,5 @@ export const collections = {
   masters,
   speeches,
   faqs,
+  health,
 };
