@@ -10,7 +10,7 @@ authors:
   - daophatkhatsi.vn
 ---
 
-### TẮC THỨ 25 : NGỒI RÁCH BỒ ĐOÀN
+### TẮC 25 : NGỒI RÁCH BỒ ĐOÀN
 
 Thiền sư Trường Khánh Huệ Lăng, vốn là người Diêm Quan - Hàng Châu (nay là huyện Hải Ninh). Thiếu niên họ Tôn này bẩm tánh thuần phác, đạm bạc tuổi chỉ mới 13 đã đến chùa Thông Huyền ở Tô Châu thế phát xuất gia, làm một tiểu Sa di. Thọ giới xong, ông bắt đầu cầm gậy vân du, lần lượt tham thiền. Một năm nọ, ông đến hồ Triết Giang, đi thăm trăng ở vùng Mân. Thời đó, Phúc Châu có hai đỉnh núi Tuyết Phong và Long Vân cao to sừng sững vút tận trời xanh, hai vị đại Tổ sư Nghĩa Tồn và Chí Cẩn ngồi vững vàng trên hai đỉnh núi trơ trọi đó, mỗi vị đều xiển dương tông phong của mình. Đầu tiên Huệ Lăng đến núi Linh Vân, lễ bái tham yết Đại sư Chí Cần người đã “nhìn hoa đào mà ngộ đạo.” Huệ Lăng đảnh lễ rồi thưa: “Đại ý của Phật pháp là gì?”
 
@@ -266,7 +266,7 @@ Kiểu Nhiên lĩnh ngộ rồi, gật gật đầu, lại hỏi lần nữa: �
 
 Thiền sư Linh Vân trả lời:” Đợi ngươi đánh vỡ tấm gương này, sẽ gặp lại ngươi”.
 
-### TẮC THỨ 26 : BẢO PHÚC BỐN LẦN LỪA NGƯỜI
+### TẮC 26 : BẢO PHÚC BỐN LẦN LỪA NGƯỜI
 
 Thiền sư Bảo Phúc Tùng Triển, họ Trần, người Phúc Châu. Năm 15 tuổi, ngài đến núi Tượng Cốt, lễ Thiền sư Tuyết Phong Nghĩa Tồn làm thầy độ cho xuất gia. Đại sư Tuyết Phong là một vị Thầy lớn trong thiền môn, thiền tăng được đích thân ngài rèn luyện như sư tử nuôi thú nhỏ, ba tuổi đã có thể gầm thét lớn tiếng. Giống như mai già vừa nhú chồi non, cành lá chưa lớn đã nở hoa trước. Dưới sự khuyến khích cỗ vũ của sư phụ Tuyết Phong, Tùng Triển mới 18 tuổi này đã đi vân du. Mảnh trăng mới mọc, mây đơn côi ra khỏi núi. Chim bằng đã đủ cánh, vút tận trời cao mà bay lượn. Rồng cá mới lớn trở về biển xa đạp gió rẽ sóng mà đi. Thiền sư Tùng Triển một bình một bát, một gậy một nón, bình đựng sóng Triết Hải, bát đựng nước Hán Giang, đầu gậy gánh ánh trăng Tiu Tương, nón bao phủ đầy mây Lô Sơn. Sau khi qua lại nam bắc bờ Đại Giang, lên xuống vùng Ngô Sở, du lịch tham bái nhiều năm, ông về lại quê cũ ở Lĩnh Trung (Phúc Kiến). Bởi vì Thiền Tuyết Phong trên núi Tượng Cốt luôn khiến cho ông mộng hồn lởn vởn.
 
@@ -474,7 +474,7 @@ Thiền đã không khẳng định lại không phủ định, thiền tức l�
 
 Bốn lần đánh trống của Thiền sư Hòa Sơn, bốn lần lừa gạt người của Thiền sư Bảo Phúc, ba lần hổ thẹn của thiền sư Tịnh Quả, ba lần uống trà của thiền sư Triệu Châu…. đều là những áo nghĩa thậm thâm vi diệu của các vị đại tông sư đã tu chứng, đã hiểu thấu đưa ra, lấy đà làm cơ dụng tiếp dẫn người đời sau. Cho nên, ở đây không cần phải suy lý, cũng không cần suy lường, ngay lúc không hiểu, liền tại chỗ không hiểu đó phát khởi nghi tình, dụng tâm để tham cứu, cuối cùng cũng có ngày mối nghi bùng vỡ, từ đáy thùng thoát ra.
 
-### TẮC THỨ 27: THIỀN TĂNG VÀ THI TĂNG
+### TẮC 27: THIỀN TĂNG VÀ THI TĂNG
 
 Trong lịch sử phát triển của Thiền tông Trung Quốc có một tập thể đặc thù như thế này. Họ tu thiền được chứng ngộ, lại đem ngọn gió mát mẻ, màu sắc của khói, khí chất măng non của thiền đi vào văn đàn thi ca: Họ không thích chốn phồn hoa, nhưng lại thường trở thành thượng khách của vua quan quí tộc, bạn bè sáng tác của văn nhân khách sĩ; họ xa lánh hư danh, ẩn cư nơi núi sâu, mà lại đạt được vinh dự to lớn ở trong triều đình và dân chúng, tiếng thơm lưu lại ngàn đời. Có thể nói như thế này, không có họ thì những thi nhân thời cỏ đại sáng rực như dãy Ngân Hà sẽ bị mờ nhạt, rơi rụng đi rất nhiều; thậm chí không có họ thì ngay cả thế giới thi ca thời thịnh Đường – thời đại vàng son của thi ca Trung Quốc – cũng sẽ mờ nhạt đi nhiều, họ là một dòng chảy to lớn trong sông dài của thi ca Trung Quốc. Họ phát ra ánh sáng kì diệu độc nhất vô nhị… họ chính là những nhà thơ Tăng sĩ.
 
@@ -800,7 +800,7 @@ Núi cao nước chảy vẫn như nguyên.
 
 (Cung Tương “Học Thơ”)
 
-### TẮC THỨ 28: LỄ LẠY CHÍNH MÌNH
+### TẮC 28: LỄ LẠY CHÍNH MÌNH
 
 Thiền sư Long Hoa Linh Chiếu (870 – 947), nguyên là người Cao Lệ – Hải Đông. Cuộc đời mênh mang như biển lớn, đầy dẫy những điều chưa biết và nghi ngờ. Chính những nghi hoặc câu sanh này, thúc dục ngài bước lên một con thuyền gỗ mưa gió lênh đênh, trải qua sóng to gió lớn, chín phần chết một phần sống, con thuyền mới đến được đại Đường. Ngài du phương đến vùng đất giữa Mân và Việt, hành cước trong chốn tòng lâm, tham vấn cao tăng thạc đức, tìm hiểu sự thật của cuộc đời. Bấy giờ, Đại sư Tuyết Phong Nghĩa Tồn như trăng trung thu trong sáng, cao cao giữa bầu trời Mân Nam. Ngài ngưỡng mộ tiếng tăm của đại sư liền lên núi Tượng Cốt. Đại sư Tuyết Phong thấy ngài đạo tâm kiên cố, cho phép vào trượng thất. Thiền của ngài Tuyết Phong, ánh sáng trí tuệ lấp lánh rực rỡ, chiếu khắp mọi nơi. Thiền sư Linh Chiếu sống ở đó rất lâu, hun đúc đào luyện, dần dần trong ngoài đều thấu triệt, một sáng khế cơ, hoát nhiên lãnh ngộ được yếu chỉ huyền diệu.
 

@@ -9,7 +9,7 @@ tags:
   - THONG DONG LỤC
 ---
 
-## TẮC THỨ 1: THẾ TÔN THĂNG TÒA.
+## TẮC 1. THẾ TÔN THĂNG TÒA
 
 Dạy chúng nói: 
 

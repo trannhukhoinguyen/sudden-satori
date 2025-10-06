@@ -65,30 +65,30 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             </ul>
           </li>
           <li class="dropdown">
+            <a href={base + "koans"} class="nav-link">📙 CÔNG ÁN</a>
+            <ul class="dropdown-menu">
+              <li><a href={base + "koans/gioi-thieu-bich-nham-luc"}>🗻 BÍCH NHAM LỤC</a></li>
+              <li><a href={base + "koans/gioi-thieu-thong-dong-luc"}>🫧 THONG DONG LỤC</a></li>
+              <li><a href={base + "koans/gioi-thieu-tieng-sao-thep"}>🪈 TIẾNG SÁO THÉP</a></li>
+              <li><a href={base + "koans/gioi-thieu-vo-mon-quan"}>⛩ VÔ MÔN QUAN</a></li>
+              <li><a href={base + "koans/gioi-thieu-khong-coc-tap"}>🌴 KHÔNG CỐC TẬP</a></li>
+              <li><a href={base + "koans/gioi-thieu-hu-duong-tap"}>🕯️HƯ ĐƯỜNG TẬP</a></li>
+              <li><a href={base + "koans/gioi-thieu-the-gioi-nhat-hoa"}>🪷 THẾ GIỚI NHẤT HOA</a></li>
+              <li><a href={base + "koans/gioi-thieu-nhung-doa-hoa-thien"}>💐 NHỮNG ĐÓA HOA THIỀN</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
             <a href="#" class="nav-link">KHÁC</a>
             <ul class="dropdown-menu">
               <li><a href={base + "about"}>❓ Tổ sư thiền?</a></li>
               <li><a href={base + "categories"}>📦 Category</a></li>
               <li><a href={base + "tags"}>🎏 Tag</a></li>
               <li><a href={base + "download"}>⬇️️ Tải về</a></li>
+              <li><a href={base + "health"} title="Thuốc nam">🌿️ Sức khoẻ & Bài Thuốc</a></li>
             </ul>
           </li>
         </ul>
       </nav>
-      <!--          <li>
-                  <select id="nav-select" class="nav-select" aria-label="Main navigation">
-                    <option value="" disabled selected hidden>Tất cả Tập Công án</option>
-                    <option value={base + "blue-cliff-record"}>🗻 Bích Nham Lục</option>
-                    <option value={base + "gateless-gate"}>⛩ Vô Môn Quan</option>
-                    <option value={base + "empty-valley-collection"}>🌴 Không Cốc Tập</option>
-                  </select>
-                </li>
-                <li>
-                  <select id="nav-select" class="nav-select" aria-label="Main navigation">
-                    <option value="" disabled selected hidden>Tất cả Kinh</option>
-
-                  </select>
-                </li>-->
 
       <!-- Mobile controls group - RSS and Search on right -->
       <div class="mobile-controls">
@@ -118,6 +118,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     <li><a href={base + "categories"} class="mobile-nav-link">📦 Category</a></li>
     <li><a href={base + "tags"} class="mobile-nav-link">🎏 Tag</a></li>
     <li><a href={base + "authors"} class="mobile-nav-link">🖋 Tác giả</a></li>
+    <li><a href={base + "health"} class="mobile-nav-link">🌿️ Sức khoẻ & Bài Thuốc</a></li>
   </ul>
 </nav>
 

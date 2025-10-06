@@ -10,7 +10,7 @@ authors:
   - daophatkhatsi.vn
 ---
 
-### TẮC THỨ 17: VĂN HỶ VÀ VĂN THÙ
+### TẮC 17: VĂN HỶ VÀ VĂN THÙ
 
 Thiền sư Vô Trước Văn Thù mới bảy tuổi đã xuất gia. Đứa bé bảy tuổi thì có thể làm được gì?
 
@@ -241,7 +241,7 @@ Mãi đến lúc này, mọi người mới hiểu rõ , việc không chú ý �
 
 Đúng vậy, Người ta ngay sanh tử cũng đã nắm chắc, chúng ta có bản lĩnh đó không? Không có bản lãnh này mà cón dám lang thang trong sanh tử, sinh hoạt phóng đãng sao……..Đại cơ đại dụng của Thiền chính là bất khả tư nghĩ như thế. Vị tăng kì lạ này có thể đủ sức bay bổng lên trời cao, Đại sư Hoàng Bá lại không đáng nhìn, Bồ Tát Văn Thù thần thông hiển hóa, lại gặp phải gậy của Thiền sư Văn Hỉ đánh, Thiền sư Pháp Minh lộn xộn điên đảo, thanh danh bê bối, trong lòng lại rõ ràng, chuyển hóa được đại chúng vô hình.
 
-### TẮC THỨ 18: HẠT HUYẾT TRONG LÒ LỬA
+### TẮC 18: HẠT HUYẾT TRONG LÒ LỬA
 
 Thiền sư Trường Tư Khoáng ở Đàm Châu Hồ Nam (nay là Trường Sa), hành cước khắp nơi. Năm nọ, ông đến ở Tào Khê ở Thiền Châu lễ bái tháp nhục thân Lục Tổ Huệ Năng trở về, lúc đi qua Nam Nhạc, bỗng nhiên nghĩ đến đại sư Thạch Đầu kết am ở trên núi Hằng Sơn này chính là người đã tận mắt gặp Lục Tổ. Thế là ông sẽ lên núi, tham yết đại sư Thạch Đầu Hi Thiên. Đại sư Thạch Đầu nhìn thẳng ông một cái rồi hỏi một câu xem ra thật bình thường: “Ông từ đâu đến vậy?” Thiền sư Khoáng là người tham thiền đã lâu, cho nên ông có thể cảm nhận được thiền cơ Tổ sư dẫn dắt trong câu hỏi bình thường của đại sư Thạch Đầu Hi Thiên. Ông cũng không dao động trước thanh sắc thật thà trả lời: “ từ Lãnh Nam đến”.
 
@@ -375,7 +375,7 @@ Thiền tăng nói với cô gái: “trời biết đất biết, cô biết t�
 
 Chuyện giữa một người nam và một đại cô nương, trời biết đất biết, cô biết tôi biêt, lại không cho người ngoài biết, có thể có việc gì tốt? Thế mà, bà bà nghe lời cháu gái nói xong vui mừng khôn xiết, đi đến am tranh nơi thiền tăng đang đóng cửa, nói với ông ta: “vui thay! Vui thay! Chúc mừng Thiền sư đã đại triệt đại ngộ!”
 
-### TẮC THỨ 19: TRĂNG TRÒN RỒI KHUYẾT
+### TẮC 19: TRĂNG TRÒN RỒI KHUYẾT
 
 Thiền sư Thạch Thất Thiện Đạo vốn là một cô nhi lang thang khắp nơi chẳng có ai quan tâm, cậu không thương, bà cũng ghét, năm ông mười tuổi, Thiền sư Trường Tư Khoáng gặp ông trên phố, dẫn ông về chùa. Thế là, ông xuất gia làm một tiểu sa di đuổi quạ. Năm tháng qua mau, thời gian tám năm để một “sa di đuổi quạ” bé nhỏ tôi luyện trở thành một “ứng pháp sa di” – không lâu nữa tức có thể chính thức tham dự những sinh hoạt trong cuộc sống của người xuất gia. Một hôm, Thiện Đạo nói với Sư phụ: “Đệ tử muốn đi thọ giới”.
 
@@ -537,7 +537,7 @@ Nhà thám hiểm nói mình là một thiền khách hiện đại, đang đi l
 
 Lúc sắp chia tay, nhà thám hiểm còn nói thêm: “Nó, viên đá quí kia, ta phát hiện ra bên cạnh một bộ xương trắng âm u trong sa mạc.”
 
-### TẮC THỨ 20: TAY MẮT KHẮP THÂN
+### TẮC 20: TAY MẮT KHẮP THÂN
 
 Thiền sư Đạo Ngô Tông Trí, từ nhỏ đã y chỉ với Hòa Thượng Bách Trượng Niết Bàn (trong sử sách Thiền Tông có ghi, Hòa Thượng Bách Trượng Niết Bàn tức là Thiền sư Bách Trượng Duy Chính, vì ngài thường tụng kinh Niết Bàn nên gọi như vậy) xuất gia thọ giáo. Khi lớn được thọ giới cụ túc xong, Hòa Thượng Niết Bàn bảo ông đến Dược Sơn Lễ Châu (nay là thôn Đường Hoa, thành phố Thường Đức tỉnh Hồ Nam) tham yết Thiền sư Duy Nghiễm. Ông không đồng ý, thưa, thiền Giang Tây (dòng chính của Mã Tổ Đạo Nhất) là tiệm vàng, thiền Hồ Nam (dòng chính của Thạch Đầu Hi Thiên) là tiệm tạp hóa. Hòa Thượng Niết Bàn đánh ông một gậy, bảo: “Thằng nhỏ miệng vàng như ngươi, chỉ nhìn thấy sự náo nhiệt của tòng lâm Giang Tây, mà không lãnh ngộ được sự cao ngất của thiền Hồ Nam. Ngươi nên biết, hơn mười vị Sư bá sư thúc của ngươi, tuy trải qua sự đào tạo rèn luyện trong lò lớn của Mã Tổ mà vẫn là một miếng thép cứng, nhưng Tổ sư Thạch Đầu chỉ một câu nửa lời lại gợi ý được cho họ đại triệt đại ngộ. Sư huynh Dược Sơn Duy Nghiễm lại là đại thiện tri thức được Tổ sư Thạch Đầu và Mã Tổ cùng đào tạo ra, tập trung thiền yếu của hai vị trong một thân ngài, Thiền sư khắp trong thiên hạ có lẽ chỉ có Bách Trượng Hoài Hải mới có thể cùng bàn luận với ngài thôi.”
 

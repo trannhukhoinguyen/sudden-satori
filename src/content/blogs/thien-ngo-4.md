@@ -10,7 +10,7 @@ authors:
   - daophatkhatsi.vn
 ---
 
-### TẮC THỨ 13: ẨN CƯ TRONG NÚI SÂU NƠI CÀNG SÂU HƠN
+### TẮC 13: ẨN CƯ TRONG NÚI SÂU NƠI CÀNG SÂU HƠN
 
 Hơn 1200 năm trước, tại Đàm Châu Hồ Nam (nay là Trường sa), một hôm, mọi người bỗng phát hiện ở nơi đầu phố có xuất hiện một nhân vật thần bí đầu trọc chân đỏ, xem ông ta cầm một bình bát trong tay dường như là một Hoà thượng.
 
@@ -179,7 +179,7 @@ Năm tháng trong núi như bóng câu qua cửa sổ, thiếu niên trong thoá
 
 Đây chính là ẩn sĩ.
 
-### TẮC THỨ 14: NÓI MỘT TRƯỢNG KHÔNG BẰNG LÀM MỘT THƯỚC
+### TẮC 14: NÓI MỘT TRƯỢNG KHÔNG BẰNG LÀM MỘT THƯỚC
 
 Thiền sư Đại Từ Hoàn Trung, người Bồ Bản tỉnh Hà Đông (nay là Sơn Tây), giống như Lục Tổ Huệ Năng, tục gia cũng họ Lư, không biết 500 năm trước họ có phải là người một nhà không, nhưng mà 500 năm sau họ chắc chắn là người một nhà – cùng thuộc nhà Phật.
 
@@ -317,7 +317,7 @@ Có thể nói, trên thế giới không có ai biết rõ hơn, hiểu rõ hơ
 
 Câu chuyện hiện thực tàn khốc này làm chúng ta đau lòng, run sợ lạnh xương sống. Làm thầy giáo dạy dỗ người khác rất dễ, làm học sinh áp dụng vào thực tế rất khó: Mọi người đều biết ở trên cao ngăn cấm mọi người, bản thân phải chăng có thể làm được, bước đến được thật địa? Chỉ nói thì không được, chỉ học tập lý lẽ mà không làm theo, kết quả của nó tất nhiên cũng giống như người phát minh ra thuật ngữ quảng cáo đẹp đẽ kia. Chúng ta nên nhớ kỹ: “Nói được một trượng, không bằng làm được một thước”.
 
-### TẮC THỨ 15: KHI NGÀY TẬN THẾ ĐẾN GẦN
+### TẮC 15: KHI NGÀY TẬN THẾ ĐẾN GẦN
 
 Thiền sư Đại Tuỳ Pháp Chân, họ Vương, quê quán ở Tứ Châu, Tứ Xuyên (nay là vùng giáp ranh giữa huyện Diêm Đình và huyện Tam Đài). Ngài đồng chân vào đạo. Sau khi thọ giới cụ túc, cũng như các bậc tiền bối của ngài vậy, qua sông đi vân du qua phía Đông, xuống Hạ Giang hành cước tham học, tìm Thầy học đạo. Ngài đã từng bái yết qua các vị: Dược Sơn, Đạo Ngô, Vân Nham, Động Sơn,… tổng cộng hơn sáu mươi vị đại Thiền sư, còn hơn cả Bồ Tài Đồng Tử nổi tiếng trong kinh Hoa Nghiêm hơn năm mươi ba lần tham yết. Sau này, Ngài đến núi Quy Sơn ở Đàm Châu (nay là Trường Sa). Đương thời, Đại sư Linh Hựu người sáng lập ra tông Quy Ngưỡng đã viên tịch, người kế nhiệm Quy Sơn trượng tịch là Đệ tử của Đại sư Linh Hựu – Thiền sư Trường Khánh Đại An.
 
@@ -527,7 +527,7 @@ Chúng Tăng rất lo lắng, tranh nhau đi mời thầy thuốc. Trong vòng m
 
 Nói xong Thiền sư Đại Tuỳ Pháp Chân cười một cái, nhẹ nhàng vẫy tay,đoan tọa mà ra đi.
 
-### TẮC THỨ 16: NGƯỜI TRONG GIẾNG
+### TẮC 16: NGƯỜI TRONG GIẾNG
 
 Thiền sư Ngưỡng Sơn Huệ Tịch một trong những người sáng lập ra tông Quy Sơn, ngài bẩm tánh rất kiên cường và có ý chí. Để tỏ rõ lòng quyết tâm xuất gia đối với cha mẹ mình, ngài đã không chút do dự cầm dao thái rau chặt hai đầu ngón tay. Ngài tuổi trẻ, lúc còn là một Sa di nhỏ, đã trèo đèo lội suối, trăm cay ngàn đắng đi tham học khắp nơi trong chốn tòng lâm.
 

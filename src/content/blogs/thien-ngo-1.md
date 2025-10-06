@@ -33,7 +33,7 @@ Thiền lý, xem ra có vẻ như cao thâm, nhưng hình thức của nó lại
 
 ## TRÍ TUỆ CỦA THIỀN NGỘ
 
-### TẮC THỨ NHẤT: DIỆU LÝ CỦA CHƯ PHẬT VÀ TỰ TÂM TỰ ĐỘ
+### TẮC 1: DIỆU LÝ CỦA CHƯ PHẬT VÀ TỰ TÂM TỰ ĐỘ
 
 Đại sư Huệ Năng là Tổ thứ sáu của thiền tông vốn là một Tiều phu nơi vùng đất hoang dã tại Lĩnh Nam. Một hôm, lúc Ngài đang bán củi trong chợ, ngẫu nhiên nghe một vị cư sĩ trì tụng “kinh Kim Cang”, không ngờ, người cực khổ một chữ cũng không biết như Ngài khi nghe được câu “Ưng vô sở trụ nhi sanh kỳ tâm” (Nên phát khởi tâm không dính mắc vào đâu cả) mà lại hoát nhiên khai ngộ! Thế là, dưới sự chỉ điểm, khen ngợi giúp đỡ của vị cư sĩ thiện tâm này, Ngài từ biệt quê nhà, đi lên Hồ Bắc cầu pháp với Ngài Hoàng Mai.
 
@@ -141,7 +141,7 @@ Tự kỷ phiền não tự kỷ liễu
 Tùng lai một hữu cứu thế chủ
 Tổng thị kháo tường tường yếu đảo)
 
-### TẮC THỨ HAI: BẺ GÃY NGẠO MẠN
+### TẮC 2: BẺ GÃY NGẠO MẠN
 
 Sau khi Ngài Huệ Năng sang sông, Ngài gạt nước mắt từ giã Sư phụ Ngũ Tổ. Ngày đêm Ngài tiếp tục lên đường, đi thẳng đến núi Đại Dữu ở giáp giới của Giang Tây và Quảng Đông. Trèo đèo, lội suối đi qua ngọn núi vừa dài vừa cao vừa nguy hiểm này là đến cố hương Lĩnh Nam rồi.
 
@@ -239,7 +239,7 @@ Kệ tụng viết:
 > 
 > Làm sao sáng tỏ tâm?
 
-### TẮC THỨ BA : MIÊU TẢ CHÂN NGÃ
+### TẮC 3 : MIÊU TẢ CHÂN NGÃ
 
 Sau khi Lục Tổ Huệ Năng trú trì chùa Bảo Lâm, Ngài xây dựng mở rộng chùa chiền, tiếp dẫn học tăng, suốt ngày bận rộn tối mắt tối mũi. Một hôm, Ngài phát hiện y ca sa Tổ truyền lại bị nhăn nheo, dính đầy bụi đất. Thế là Ngài tranh thủ thời gian đem y ca sa ra khỏi chùa, định đến bờ Tào Khê giặt.
 
@@ -343,7 +343,7 @@ Có bài tụng rằng:
 > 
 > Nặn bùn khắc gỗ há là chân!
 
-### TẮC THỨ TƯ: NAM ĐỐN BẮC TIỆM
+### TẮC 4: NAM ĐỐN BẮC TIỆM
 
 Đại sư Lục Tổ Huệ Năng do đức hạnh chiêu cảm, danh tiếng vang xa, Tăng nạp trong thiên hạ đều hướng về, Đệ tử ngày càng đông đảo, chùa chiền phát triển thành mười ba ngôi, gọi chung là “Hoa Quả Sơn”. Một nhà văn lớn là Vương Duy gọi tình hình lúc bấy giờ là ‘Năm châu đều hướng về, trăm họ đều qui ngưỡng” Tại vùng đất Lĩnh Nam hoang dã chưa từng được khai hoá này, chùa Bảo Lâm không chỉ là Trung tâm Phật giáo mà còn là nơi văn phong giáo hoá. Nhờ sự hoằng hoá của Đại sư Huệ Năng mà dân phong, phong tục ở đây vốn lạc hậu dần dần đã được cải thiện. Vùng Tào Khê hẻo lánh đã trở thành Trung tâm văn hoá Phật giáo của phía Nam Trung Quốc.
 

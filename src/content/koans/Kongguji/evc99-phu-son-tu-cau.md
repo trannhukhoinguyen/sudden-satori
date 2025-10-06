@@ -37,23 +37,27 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đầu Tử nói:
 
-Thiền sư Viên Giám Pháp Viễn ở Phù Sơn Thư Châu, người Trịnh Châu. 
+Thiền sư **Viên Giám Pháp Viễn** ở Phù Sơn Thư Châu, người Trịnh Châu. 
 
-Nương Hòa thượng Tam Giác Tung xuất gia. 
+Nương Hòa thượng **Tam Giác Tung** xuất gia. 
 
-Lúc nhỏ còn làm Sa Di thấy tăng vào thất thưa hỏi nhân duyên cây bá trước sân của Triệu Châu. 
+Lúc nhỏ còn làm Sa Di thấy tăng vào thất thưa hỏi nhân duyên cây bá trước sân của **Triệu Châu**. 
 
-Tung hỏi lại và tặng ấn.
+**Tung** hỏi lại và tặng ấn.
 
-Pháp Viễn đứng bên có tỏ tình. Sau khi thọ giới cụ túc, Sư yết kiến Phần Dương Diệp Huyện cũng mong ấn khả. 
+**Pháp Viễn** đứng bên có tỏ tình. 
 
-Thường cùng Đạt Quán Đỉnh, Tiết Đại và bảy tám người vào đất Thục gặp biết bao nghịch duyên. 
+Sau khi thọ giới cụ túc, Sư yết kiến **Phần Dương**, **Diệp Huyện** cũng mong ấn khả. 
 
-Pháp Viễn đều dùng trí mới thoát được. Chúng cho Sư là người hiểu được chính sự, cho nên lấy hiệu là Viễn Lục Công.
+Thường cùng **Đạt Quán Đỉnh**, **Tiết Đại** và 7, 8 người vào đất Thục gặp biết bao nghịch duyên. 
 
-Nhờ tăng hỏi, thầy xuống khúc gia phong của ai, nối tông phong người nào?
+**Pháp Viễn** đều dùng trí mới thoát được. Chúng cho Sư là người hiểu được chính sự, cho nên lấy hiệu là **Viễn Lục Công**.
 
-Pháp Viễn nói, Ông già tám mươi đã cầu hoa. Thế nên Tăng nói, như thế thì một câu khác xưa tổ sư, binh khí tam huyền chấn động khắp từng lâm.
+Nhờ tăng hỏi, *thầy xuống khúc gia phong của ai, nối tông phong người nào?*
+
+**Pháp Viễn** nói, **Ông già tám mươi đã cầu hoa**. 
+
+Thế nên Tăng nói, như thế thì một câu khác xưa tổ sư, binh khí tam huyền chấn động khắp từng lâm.
 
 Sư nói: Lý Lăng vốn là triều thần đời Hán.
 

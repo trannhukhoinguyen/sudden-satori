@@ -10,7 +10,7 @@ authors:
   - daophatkhatsi.vn
 ---
 
-### TẮC THỨ 21: SA DI CAO THỌ GIỚI
+### TẮC 21: SA DI CAO THỌ GIỚI
 
 Sa di Cao bẩm sanh dường như là một nhân vật huyền bí, trước nay chưa có ai biết ông từ đâu đến, sẽ đi về đâu, càng không ai biết quê hương của ông ở đâu, sư phụ là ai. Thậm chí, ngay đến pháp hiệu của ông, bạn bè cùng tham học với ông đều không biết được - mọi người chỉ biết ông họ Cao, nên gọi ông là “Sa di Cao”. Quanh năm suốt tháng ông vân du tham vấn khắp trong các tòng lâm, đến nỗi bàn chân sinh bệnh, bước đi tập tễnh. Thế là, con đường mây nước ngàn dặm dưới chân ông không có được một bước bằng phẳng - cuộc đời hành cước của ông từ đó luôn trở ngại vô cùng.
 
@@ -166,7 +166,7 @@ Giữ tâm ý trong sạch
 
 Đó là lời Phật dạy.
 
-### TẮC THỨ 22 : KHÔNG AI BIẾT ÔNG TA
+### TẮC 22 : KHÔNG AI BIẾT ÔNG TA
 
 Thiền sư Chí Nguyên Viên Tịnh ở núi Vân Cái Đàm Châu là pháp tôn của Thiền sư Đạo Ngô Tông Trí, người kế thừa pháp của Thiền sư Thạch Sương Khánh Gia. 
 Sau khi ông xuất gia thọ giới, bắt đầu cuộc sống Vân Du.
@@ -357,7 +357,7 @@ Lúc Thiền sư Phú Thuyền Hồng Tiến sắp qua đời, thè lưỡi ra b
 
 Thiền sư Phú Thuyền nói: “Khổ, đúng như ông ta đã nói, hiện tại cuống lưỡi đã cứng rồi.” Nói xong, ngài thảnh thơi ra đi.
 
-### TẮC THỨ 23: TRÚC DÀY KHÔNG NGĂN NƯỚC CHẢY QUA
+### TẮC 23: TRÚC DÀY KHÔNG NGĂN NƯỚC CHẢY QUA
 
 Thiền sư Vĩnh An Thiện Tĩnh, quê ở Kim Thành - Trường An, ngài họ Vương. 
 Phụ thân của ngài là Vương Lãng, văn võ toàn tài từng nhận chức Thứ Sử ở Uy Châu. Vì thế, gia học của ngài có nguồn gốc lâu đời, gốc sâu nhánh vững. 
@@ -505,7 +505,7 @@ Thiền sư Thủ Duyên ở Vô Vi Tùy Am - Hàn Châu nghe sư phụ của ô
 
 Cảnh giới của Thiền, chính là như vậy: đã bình thường lại kì diệu.
 
-### TẮC THỨ 24: TỰ NHIÊN NHƯ VẬY
+### TẮC 24: TỰ NHIÊN NHƯ VẬY
 
 Thiền sư La Sơn Đạo Nhàn, họ Trần, người Trường Khê - Lãnh Trung (Phúc Kiến). Lúc còn nhỏ, ông xuất gia ở Qui Sơn, làm một tiểu Sa di thanh tịnh đáng yêu, chẳng u sầu chẳng buồn lo. Thời gian dần trôi, tiểu Sa di lớn thành một Tỳ kheo trẻ tuổi và cũng lớn dần tâm phiền não - sinh từ đâu đến? Chết đi về đâu?
 

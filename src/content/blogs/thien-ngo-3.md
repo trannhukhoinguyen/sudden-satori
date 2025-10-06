@@ -10,7 +10,7 @@ authors:
   - daophatkhatsi.vn
 ---
 
-### TẮC THỨ CHÍN: KHẾ NGỘ TỰ NGÃ
+### TẮC 9: KHẾ NGỘ TỰ NGÃ
 
 Mã Tổ truyền thừa được tám mươi bốn vị Đại tông sư, mỗi mỗi trong số họ đều thấu tỏ trời đất, quát gió gọi mây. Trong số nhiều huynh đệ đó, Ma Cốc Bảo Triệt khâm phục nhất là sư huynh Nam Tuyền Phổ Nguyện. Ngài đã từng đi theo Nam Tuyền Phổ Nguyện đến Trường An tham yết Quốc sư Huệ Trung, giữa đường bị một vòng tròn của Nam Tuyền mà quay lại; Họ cũng đã từng kết bạn đi Hàng Châu thăm viếng một vị Quốc sư khác là Kính Sơn Quốc Nhất, lại một phen ở nửa đường gặp phải một bà lão bán nước trà có kinh nghiệm tu luyện.
 
@@ -142,7 +142,7 @@ Vô Niệm nhìn lên trời cười ha hả: “Khắp mặt đất đâu đâu
 
 (Phụ chú: Trong Thiền tăng thường thường dùng ‘giặc’ để khoa trương cơ trí của đối phương. Thiền sư Tuyết Phong cũng đã từng khen ngợi Tổ sư Lâm Tế Nghĩa Huyền là ‘bạch niêm tặc’ – không để lại dấu vết gì. Đồng thời Thiền tông cũng thường đêm sự bỗng nhiên phát hiện bản lai diện mục, hoát nhiên đại ngộ, nên nói ‘bắt giặc bắt được trái tim’ (tróc tặc hoạch tạng) ).
 
-### TẮC THỨ MƯỜI: QUY TÔNG CHÉM RẮN
+### TẮC 10: QUY TÔNG CHÉM RẮN
 
 Thiền sư Quy Tông Trí Thường, thường kết bạn với Nam Tuyền Phổ Nguyện hành cước. Hai vị này là đồng môn, học vấn lại tương đương, khí chất tương đồng, thấy biết giống nhau, ngay hình dáng cũng có mấy phần tương tợ, lại thêm hai vị đều là người có thần thái kỳ dị riêng có của người đã khai ngộ, cho nên mọi người thường lẫn lộn hai vị này với nhau. Trong mắt trí Thường có vảy cá, lúc Ngài đang dùng thuốc xoa bóp trị liệu, do chưa nắm bắt được lượng thuốc cho phù hợp, nên hai mắt đều đỏ lên. Cũng tốt, lần này người ta phân biệt rõ giữa Ngài và Nam Tuyền – vì thế, người đời gọi Ngài là ‘Quy Tông Mắt Đỏ’.
 
@@ -442,7 +442,7 @@ Như hoa trên trời, hoa rụng trăng lặn, là cái gì? Đốt!”
 
 Vị Thiền giả vì muốn dẹp bằng chiến loạn, thống nhất giang san mà không tiếc làm một thảo khấu, lấy giết để ngăn việc giết, lấy chiến tranh để dừng chiến tranh. Sau khi cứu độ được vô số tính mạng, kiến lập công huân bất hũ, xây dựng hoà bình, cuối cùng cũng có thể an trú Niết bàn. Ngài ném bút lông, kiết già phu toạ, an nhiên mà đi.
 
-### TẮC THỨ 11: VỪA QUAY ĐẦU NHÌN LINH QUANG CHỢT HIỆN
+### TẮC 11: VỪA QUAY ĐẦU NHÌN LINH QUANG CHỢT HIỆN
 
 Hơn 1200 năm trước, đang trong mùa hoa hồng liễu xanh, muôn chim ca hót. Một thư sinh khí thế oai hùng tràn đầy sức sống đang đi vào một trạm nghỉ trên đường ở Giang Nam.
 
@@ -640,7 +640,7 @@ Trong quyển “Nhân Gian Từ Thoại” (Câu Nói Của Nhân Gian) của V
 
 Tìm người từ trong đám đông từ trăm ngàn lần, bỗng nhiên quay đầu, người kia đang ở đó, nơi đèn hoa dần tắt.
 
-### TẮC THỨ 12: NÚI XANH KHÔNG TRỞ NGẠI MÂY TRẮNG BAY
+### TẮC 12: NÚI XANH KHÔNG TRỞ NGẠI MÂY TRẮNG BAY
 
 Thiền sư Tử Ngọc Đạo Thông là một môn đệ thư hương họ Hà xuất thân tại Lô Giang. Vì thế, thừ nho đã đọc được nhiều sách Thánh hiền, viết nhiều thi trù ca phú, mở miệng là chi hồ giả dã. Lúc Ngài mười tuổi, Phụ thân vào kinh dự thi, hội thi Tam Trường tiến sĩ tức đệ. Ngay lập tức có một văn bằng điều quan của Sử bộ, phụ thân liền lên ngựa đến nhậm chức ở huyện Nam An - Tuyền Châu - Linh Trung (Phúc Kiến). Sợ để Ngài ở lại quê nhà không ai quản thúc, bỏ bê việc học tập, phụ thân sai một người nô bộc về dẫn Ngài đến Tuyền Nam học tập. Ai ngờ, lần đi này của Ngài không phải đi vào học đường mà đi vào Phật đường – xuất gia làm chú tiểu.
 

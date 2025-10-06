@@ -10,7 +10,7 @@ authors:
   - daophatkhatsi.vn
 ---
 
-### TẮC THỨ NĂM: GIÁO HOÁ THÍCH KHÁCH
+### TẮC 5: GIÁO HOÁ THÍCH KHÁCH
 
 Sự ra đi không trở lại của Chí Thành làm cho Đại sư Thần Tú cảm nhận sâu sắc rằng, thiền pháp của Đại sư Huệ Năng đích xác là cao minh hơn ta. Với sự khích lệ của Ngài lại có thêm vài đệ tử đi đến Lĩnh Nam Tào Khê. Tình hình này dẫn đến sự khủng hoảng của một số đồ đệ danh lợi dưới tướng của Đại sư Thần Tú. Họ tụ tập lại tính mưu kế, bàn bạc làm thế nào để tiêu trừ ảnh hưởng của Đại sư Huệ Năng càng ngày càng lớn rộng trong thiền lâm. Trong đó có một người than rằng: “Nghe nói Lĩnh Nam hằng năm đều có chướng khí dày đặc, sao không hại chết người tiều phu này nhỉ?”
 
@@ -172,7 +172,7 @@ Sau đó, Thiền sư Tâm Đạo lui ra, đem chức vụ trú trì chùa Văn 
 
 Lúc mê thì sát sanh, người tức là Dạ xoa; Trong một niệm giác ngộ, đồ tể liền thành Bồ tát. Dạ xoa và Bồ tát đều là một người mà ra.
 
-### TẮC THỨ SÁU: ÂM THANH CỦA TRỨNG GÀ
+### TẮC 6: ÂM THANH CỦA TRỨNG GÀ
 
 Năm đó, vị đệ tử quan trọng nhất của Lục Tổ Huệ Năng là Nam Nhạc Hoài Nhượng lúc rời Tào Khê đến Hành Sơn lập môn đình khác, Sư phụ Huệ Năng bảo với ông: “Dưới trướng của ngươi sẽ có một con ngựa non, rong ruổi khắp nơi, đạp phăng thiên hạ. Lại ngược dòng lịch sử, vào thời xa xưa trước khi Tổ sư Đạt Ma đến Trung Quốc, Sư phụ của Ngài là Tôn giả Bát Nhã Đa La , cũng dự đoán với Ngài rằng: “ Trung Quốc tuy rộng lớn nhưng không có đường cho ngươi, chỉ nhờ bước chân của côn cháu ngươi thôi, một hạt gạo trên núi Kim Kê, có thể cúng dường cho La Hán Tăng trong mười phương’.
 
@@ -322,7 +322,7 @@ Mã Tổ hai lần thổi vào lỗ tai Thiền sư Duy Kiến, làm cho ông ki
 
 Sử sách ngàn năm ghi công đức, bia miệng ngàn đời ở lòng người.
 
-### TẮC THỨ BẢY: THIỀN NHÂN LANH LỢI
+### TẮC 7: THIỀN NHÂN LANH LỢI
 
 Vào thời kỳ nhà Đường hưng thịnh, bắt đầu từ khi tông phong mạnh mẽ to lớn của Lục Tổ Huệ Năng như bão táp đột tiến, lôi cuốn cả nước đi theo. Lúc Mã Tổ Đạo Nhất đang phát triển thiền phong mạnh mẽ ở Giang Tây, “Tuyển Phật Trường” đang phát đạt, Đại sư Thạch Đầu Hy Thiên mặc nhiên sừng sững trên đỉnh Nam Nhạc Hành Sơn, biển rộng thuyền là đường, núi cao người là đỉnh. Vị triết nhân vĩ đại này rõ ràng đem thiền đặt ở một cao độ chưa từng có.
 
@@ -480,7 +480,7 @@ Ba vị Thiền sư đưa mắt nhìn nhau, tôi nhìn anh, anh nhìn tôi, ch�
 
 Ba Thiền sư mắt lớn trợn mắt nhỏ, đợi họ tỉnh ngộ lại, bà lão kia đã mất tung mất tích tự lúc nào.
 
-### TẮC THỨ TÁM: DUY CHÍNH ĐẤU VỚI NAM TUYỀN
+### TẮC 8: DUY CHÍNH ĐẤU VỚI NAM TUYỀN
 
 Lúc Thiền sư Duy chính tham yết Mã Tổ, chỉ một lời khế cơ, hoát nhiên đại ngộ. Thế là nhẹ nhàng ra đi, vân du đến nơi núi sông danh tiếng, tùng lâm lan nhã (chùa kỳ ảo thanh nhàn u tịch).
 

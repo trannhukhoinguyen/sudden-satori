@@ -9,13 +9,19 @@ tags:
   - THONG DONG LỤC
 ---
 
-## TẮC THỨ 83: ĐẠO NGÔ KHÁN BỆNH.
+## TẮC 83. ĐẠO NGÔ KHÁN BỆNH
 
-Dạy chúng: Toàn thân là bệnh, Ma Cật khó chữa, cỏ này có thể trị, Văn Thù khéo dùng, đâu như tham thiện để chọn người hướng thượng, được chỗ an lạc.
+### THÙY
+
+📣 Dạy đại chúng rằng:
+
+Toàn thân là bệnh, Ma Cật khó chữa, cỏ này có thể trị, Văn Thù khéo dùng, đâu như tham thiện để chọn người hướng thượng, được chỗ an lạc.
 
 Thế nào là chỗ an lạc?
 
-CÔNG ÁN: Quy Sơn hỏi Đạo Ngô: Từ đâu đến Ngô nói: Long Nha bệnh đến.
+### CÔNG ÁN
+
+Quy Sơn hỏi Đạo Ngô: Từ đâu đến Ngô nói: Long Nha bệnh đến.
 
 • Có mấy người bệnh
 
@@ -45,11 +51,17 @@ Trong Phật pháp có pháp trường sinh bất tử, hơn được phương t
 
 Tam Tạng khạc nói: Vùng này đâu có pháp trường sinh, dù được kéo dài mạng sống, nhưng quả báo hết liền đọa, chính là Hoài Trung tìm ra Kinh vô lượng thọ quán, đưa cho Đàm Đằng nói: Phương thuốc Đại Tiên này thường được giải thoát, vĩnh vĩnh thoát khỏi sinh tử. Mười vị tiên Lăng Nghiêm khi quả báo tận, trở lại chuyển vào các cõi. Lão Tử nói: Người chết mà không mất là thọ. Đông Pha dâng thơ Phật Ấn khả, trường sinh chưa rỗi học. Lại học mãi không chết, hoàn toàn vượt trước Oai Âm Vương, trước trời đất mà chưa thành. Đã thành chỉ bước sau kiếp không. Sau khi trời mà đã hoại, không hoại thì thành bằng, trời che đất chở vận chuyển. Chim bay thỏ chạy. Đây gọi là lấy toàn thể làm dụng, nhiếp dụng quy thể. Thể là gốc của trời đất, động thì hợp với Tâm Thánh Hiền có lãnh hội lời này không? Mở ra mắt viên minh diệu tịnh, biết lấy người an lạc kiết tường.
 
-## TẮC THỨ 84. MỘT NGÓN TAY CỦA HÒA THƯỢNG CÂU CHI
+## TẮC 84. MỘT NGÓN TAY CỦA HÒA THƯỢNG CÂU CHI
 
-Dạy chúng: Nghe một ngộ ngàn, hiểu một theo ngàn, đại sĩ hể quyết định thì tất cả rõ ràng, hàng trung hạ nghe nhiều mà không tin, khắc phục đích đáng xét đương xứ (21)
+### THÙY
 
-CÔNG ÁN: Hòa Thượng Câu Chi hễ có hỏi chỉ dựng đứng một ngón tay.
+📣 Dạy đại chúng rằng:
+
+Nghe một ngộ ngàn, hiểu một theo ngàn, đại sĩ hể quyết định thì tất cả rõ ràng, hàng trung hạ nghe nhiều mà không tin, khắc phục đích đáng xét đương xứ (21)
+
+### CÔNG ÁN
+
+Hòa Thượng Câu Chi hễ có hỏi chỉ dựng đứng một ngón tay.
 
 Sư nói: Thiền sư Câu Chi ở núi Toàn Hoa vùng Vụ Châu lúc đầu là am ở núi Thiên Thai có một ni tên Thật Tế đi đến đầu đội nón, tay cầm tích trượng, nhiễu quanh Sư ba vòng nói: Nói được thì lấy nón xuống, ba lần hỏi Câu Chỉ vẫn không đáp được. Thật Tế liền đi, Câu
 
@@ -103,11 +115,17 @@ Sư nói: Vạn xưa thường không một sáng gió trăng há chỉ ba mươ
 
 Cổ Thi nói: Trước mắt không có vật tục, bệnh nhiều thân nhẹ nhõm. Thiên Đồng gần lấy các thân, chỉ dùng một ngón tay, đạo giản dị, cốt hiểu không buộc ràng. Duy Ma nói đầu sợi lông nuốt chửng biển lớn gọi là Kinh tiểu Bất Tư Nghì. Hoa Nghiêm nói bụi trần bao hàm pháp giới, gọi là Kinh Đại Bất Tư Nghì, Lăng Nghiêm, đối với đầu sợi lông có thể thọ nhận mười phương cõi nước. Lại nói: Nói đầu sợi lông hiện cõi bảo vương, ngồi trong vi trần chuyển đại pháp luân. Trang Tử mặc cho Công Tử làm câu lớn nhà to, mười lăm con trâu làm thành một cái bánh, ngồi ở Cối Kê ném cần câu nơi biển đông, trời sáng mà câu, quanh năm không được cá, không lâu cá lớn ăn mồi, kéo cầu câu chìm xuống, dật lên mà cắt mép, sóng trắng như núi nước biển chấn động, tiếng giống quỷ thần vang xa ngàn dặm, mặc cho Công Tử được cá, rồi cá khô. Tự chế ao hồ ở Đông, Thương Ngô ở Bắc, không ai không chán như nghề cá, cho là cần câu gãy hết lại trồng tre, không tính công trình được liền thôi, sau này nhận được chặt tay đồng tử, Quốc Thái Đạo Biệt Phong gặp nhau. Gia Sơn Lai nhằm vào Đào Nguyên. Ngày nay sau khi Thiên Đồng tụng lại dơ ngón tay lên: Hãy xem Hòa Thượng Bá Sơn Đại Ẩn nói: Thiên Đồng lớn như thế mà đi theo gót chân người. Hòa Thượng Ngũ Tổ Diễn nêu Tăng hỏi Đầu Tử: Thế nào là mười thân Điều Ngự, xuống giường thiền đứng, lại có Tăng hỏi lão Tăng cũng xuống giường Thiền đứng, vì sao lại y dạng vẽ mèo, đợi tôi tín xong sẽ nói cho ông là biết, ngón tay của Câu Chi một bề uống nước, một bề mắc nghẹn dạy Vạn Tùng chớ làm đúng hướng như thế, ném phất trần xuống nói: Mặc cho chư vị kiểm điểm.
 
-TẮC 85. KIỂU THÁP CỦA QUỐC SƯ
+## TẮC 85. KIỂU THÁP CỦA QUỐC SƯ
 
-Dạy chúng: Kiền chùy có đả phá hay không, cánh tay mở núi hoa, mới thấy vốn không và chỗ hở, không thấy chỗ tỳ vết, lai ai là người như thế.
+### THÙY
 
-CÔNG ÁN: Túc Tông Đế hỏi Sư Trung Quốc: Sau khi qua đời cần vật gì?
+📣 Dạy đại chúng rằng:
+
+Kiền chùy có đả phá hay không, cánh tay mở núi hoa, mới thấy vốn không và chỗ hở, không thấy chỗ tỳ vết, lai ai là người như thế.
+
+### CÔNG ÁN
+
+Túc Tông Đế hỏi Sư Trung Quốc: Sau khi qua đời cần vật gì?
 
 Quốc Sư nói: Xây tháp Vô Phùng cho Lão Tăng.
 
@@ -243,11 +261,17 @@ Thiền sư Thiên Y Hoài đến núi Sam thỉnh vào viện, Thượng đư�
 
 Cha con Nam Dương hề lại như biết có, không dám nói là đúng, chỉ nói như biết có. Ông nói đi, vì sao không chấp nhận hoàn toàn, sợ cô phụ cha con quốc sư. Phật Tổ Tây Trúc vì sao không biết thệ nào. Nên nói đúc thành u vàng, chính trai nuốt cái bánh sắt.
 
-TẮC 86. LÂM TẾ ĐẠI NGỘ
+## TẮC 86. LÂM TẾ ĐẠI NGỘ
 
-Dạy chúng rằng: Đầu đồng trán sắt mắt trời tròng rồng, đục miệng cá, tim hổ ruột chồn. Kiếm kim cang buông xuống cho là không nạp hễ tính không được vì sao như thế
+### THÙY
 
-CÔNG ÁN: Lâm Tế hỏi Hoàng Bá: Ý Phật pháp là thế nào? ( giết người có thể tha thứ, tình lý khó dung)
+📣 Dạy đại chúng rằng:
+
+Đầu đồng trán sắt mắt trời tròng rồng, đục miệng cá, tim hổ ruột chồn. Kiếm kim cang buông xuống cho là không nạp hễ tính không được vì sao như thế
+
+### CÔNG ÁN
+
+Lâm Tế hỏi Hoàng Bá: Ý Phật pháp là thế nào? ( giết người có thể tha thứ, tình lý khó dung)
 
 Hoàng Bá liền đánh, Ba lần như thế mới rời Hoàng Bá. Sau đó Lâm Tế yết kiến Đại Ngu. Đại Ngu hỏi: Từ đâu đến?
 
@@ -325,13 +349,19 @@ Lão Tử nói: Giữa trời đất như bể của thợ rèn, bể không có
 
 Lúc chạm đất nhanh như điện chớp. Đây là nói cơ phong nhanh nhẹn. Mây mê phá thái dương lẽ loi là nói tỏ ngộ. Tìm mép hổ. Trang Tử nói: Không Tử thấy kẻ trộm thối lui. Nói: Khưu cho là không bệnh mà châm cứu, mau đi tìm hổ, mép hổ thật không khỏi vào miệng hổ. Thấy không? Thiên Đồng chỉ, làm cho người tham học thể hội toàn cơ đại dụng, ngay khi đó không lầm, gọi là cơ Phong của nạp Tăng. cư sĩ vô tận làm truyện Tục Tăng Thanh Lương thích ứng đời sau thấy nói, Thiền sư giải thoát đánh Văn Thù bất giác nói: Đúng bậc Đại trượng phu có thấy chỗ ngộ của Lâm Tế không? Thẹn giết Hà Giang mới cưới vợ, e sống lại vốn là thiền lão bà tháp gỗ.
 
-TẮC 87: HỮU CÚ VÔ CÚ CỦA SỚ SƠN
+## TẮC 87. HỮU CÚ VÔ CÚ CỦA SỚ SƠN
 
-Dạy chúng: Cửa sắp đóng vừa đẩy liền mở. Thuyền sắp chìm hễ
+### THÙY
+
+📣 Dạy đại chúng rằng:
+
+Cửa sắp đóng vừa đẩy liền mở. Thuyền sắp chìm hễ
 
 đẩy liền chuyển, xe vào hang không có lối về mũi tên thông trời có một cửa. Hãy nói đi hướng nào?
 
-CÔNG ÁN: Sớ Sơn đến quy Sơn liền hỏi. Theo lời Sư nói: Hữu cú vô cú như dây leo cây, bỗng nhiên cây ngã thì cây dâu khô quy về đâu. Quy Sơn cười ha ha.
+### CÔNG ÁN
+
+Sớ Sơn đến quy Sơn liền hỏi. Theo lời Sư nói: Hữu cú vô cú như dây leo cây, bỗng nhiên cây ngã thì cây dâu khô quy về đâu. Quy Sơn cười ha ha.
 
 Sớ Sơn nói: Tôi từ bốn ngàn dặm mua vải đơn đến, Hòa Thượng đâu được đùa giỡn.
 
@@ -439,11 +469,17 @@ Thế Tôn im lặng hồi lâu. Đây chính là “lộ bày cành san hô”.
 
 Hương Nghiêm Đoan nói: Nói là phỉ báng, im lặng là dối. Nói im hướng lên có đường lối. Đại quy nương vào đây dạy chúng. Sớ Sơn thấy nói thêm dây leo cây. Lại nói câu cây ngã dây khô quy về chỗ nào, tại sao không dạy? Quy Sơn cười lớn. Quy Sơn nói không bày việc nói không thế ngộ thiền pháp. Sớ Sơn thừa lời là mất mạng trệ vào câu là mê. Lúc ấy nếu hỏi Vạn Tùng chỉ nói trời xanh! trời xanh! Không thấy nói Xuân đi Đông sai.
 
-## TẮC THỨ 88: LĂNG NGHIÊM BẤT KIẾN
+## TẮC 88. LĂNG NGHIÊM BẤT KIẾN
 
-Dạy chúng: Có thấy có không thấy, đốt đèn giữa trưa, không thấy không không thấy, rót mực vào nữa đêm. Nếu tin thấy nghe thấy như huyễn, mới biết thanh sắc như hoa đốm trên không. Hãy nói! Trong giáo còn có nạp Tăng nói lời không?
+### THÙY
 
-CÔNG ÁN: Kinh Lăng Nghiêm nói: Lúc ta không thấy tại sao không thấy chỗ của ta không thấy. Nếu thấy được không thấy thì tự nhiên không phải là tướng không thấy kia. Nếu không thấy cái chổ ta không thấy thì tự nhiên không có vật, sao nói không phải là ông?
+📣 Dạy đại chúng rằng:
+
+Có thấy có không thấy, đốt đèn giữa trưa, không thấy không không thấy, rót mực vào nữa đêm. Nếu tin thấy nghe thấy như huyễn, mới biết thanh sắc như hoa đốm trên không. Hãy nói! Trong giáo còn có nạp Tăng nói lời không?
+
+### CÔNG ÁN
+
+Kinh Lăng Nghiêm nói: Lúc ta không thấy tại sao không thấy chỗ của ta không thấy. Nếu thấy được không thấy thì tự nhiên không phải là tướng không thấy kia. Nếu không thấy cái chổ ta không thấy thì tự nhiên không có vật, sao nói không phải là ông?
 
 Sư nói: Thiên Đồng thấy Tuyết Đậu dẫn giản lược trong kinh cũng nêu giáo nhãn. Chổ nêu tuy sơ lược, chổ tụng rất rõ ràng, phần thứ hai của Lăng Nghiêm trước nói vật không thấy là tiền trần, kế nói cái thấy không phải là vật là chơn tánh, này hoàn toàn nêu thứ đoạn, chính là công án này. Kinh này: Nếu thấy la vật thì ông cũng có thể thấy cái thấy của ta. Nếu đồng thấy gọi là thấy ta. Khi ta không thấy sao không thấy cái chỗ mà ta không thấy. Nếu thấy cái không thấy thì tự nhiên không phải là cái tướng không thấy kia. Nếu không thấy cái chỗ ta không thấy, thì tự nhiên không phải vật sao nói không phải ông.
 
@@ -503,11 +539,17 @@ Giáp Sơn nói: Quét sạch chủ nhân ông, không rơi vào cái thấy th�
 
 Vạn Tùng nói: Chỉ xưa nay cho là không quen biết, trong chợ bổng nhiên gặp cố nhân.
 
-## TẮC THỨ 89. KHÔNG CỎ CỦA ĐỘNG SƠN
+## TẮC 89. KHÔNG CỎ CỦA ĐỘNG SƠN
 
-Dạy chúng: Động thì chôn thân ngàn trượng, không động thì ngay đó sinh mầm mạ, cần phải hai đầu tách ra, ở giữa ném xuống, lại mua giầy cỏ hành cước mới được.
+### THÙY
 
-CÔNG ÁN: Động Sơn Dạy chúng rằng: “Huynh đệ đầu Thu cuối Hạ, hoặc Đông hoặc Tây, cần phải đi nơi vạn dặm không tấc cỏ”. Lại nói: “Chỉ như chỗ vạn dặm không tấc cỏ làm sao đi? Thạch Sương nói:
+📣 Dạy đại chúng rằng:
+
+Động thì chôn thân ngàn trượng, không động thì ngay đó sinh mầm mạ, cần phải hai đầu tách ra, ở giữa ném xuống, lại mua giầy cỏ hành cước mới được.
+
+### CÔNG ÁN
+
+Động Sơn Dạy chúng rằng: “Huynh đệ đầu Thu cuối Hạ, hoặc Đông hoặc Tây, cần phải đi nơi vạn dặm không tấc cỏ”. Lại nói: “Chỉ như chỗ vạn dặm không tấc cỏ làm sao đi? Thạch Sương nói:
 
 Ra cửa lại là cỏ.
 
@@ -551,11 +593,17 @@ Lại nói: Bao nhiêu loại? Diên Thánh bốn loại, Vạn Tùng năm loạ
 
 Cần biết Thiên Đồng nắm chỗ sau không, hổ gầy tâm dữ có, người nghèo chí khí còn.
 
-## TẮC THỨ 90. NGƯỠNG SƠN CẨN BẠCH
+## TẮC 90. NGƯỠNG SƠN CẨN BẠCH
 
-Dạy chúng rằng: Khuất Nguyên chỉ tỉnh chính là say mèm. Ngưỡng Sơn nói mộng giống như khi thức. Hãy nói: Vạn Tùng nói như thế, mọi người nghe như thế. Hãy nói là tỉnh hay là mộng.
+### THÙY
 
-Nêu: Ngưỡng Sơn nằm mơ đến chỗ Di Lặc, làm đệ nhị tòa. Tôn giả bạch: Ngày nay làm đệ nhị tòa thuyết pháp Sơn đứng dậy bạch chùy nói: Pháp ma ha diễn, lìa tứ cú tuyệt bách phi cẩn bạch.
+📣 Dạy đại chúng rằng:
+
+Khuất Nguyên chỉ tỉnh chính là say mèm. Ngưỡng Sơn nói mộng giống như khi thức. Hãy nói: Vạn Tùng nói như thế, mọi người nghe như thế. Hãy nói là tỉnh hay là mộng.
+
+### CÔNG ÁN
+
+Ngưỡng Sơn nằm mơ đến chỗ Di Lặc, làm đệ nhị tòa. Tôn giả bạch: Ngày nay làm đệ nhị tòa thuyết pháp Sơn đứng dậy bạch chùy nói: Pháp ma ha diễn, lìa tứ cú tuyệt bách phi cẩn bạch.
 
 Sư nói: Ngưỡng Sơn nhập định bảy năm, thấy thân cùng giáo chủ, Ca-diếp và hai mươi bảy tổ, cùng ở Tịnh xá, nơi giảng đường ở trên không có trụ, màu đất như lưu ly, thức dậy rồi với Chư Tổ đồng là phạm tướng mặc kim lan (ca sa), ở vào địa vị thứ tám, một tôn giả tuổi tác khá cao, gọi rằng: Cù-đàm! Con nay làm pháp sự. Ngưỡng Sơn liền xuống tòa đến bạch chùy nói: “Đại chúng! Lắng tâm nghe pháp ma ha diễn, lìa tứ cú tuyệt bách phi”, nói xong lên tòa, đến chúng Tăng cũng bàn nghĩa này. Ngưỡng Sơn lại tự nói trong mộng đến chỗ Di Lặc làm Đệ Tam tòa, tổng yếu cũng nói đệ tam tòa. đồng với bản lục. Có một tôn giả bạch chùy nói: Nay làm đệ tam tòa thuyết pháp. Sơn Tăng đứng dậy bạch chùy nói: “Pháp ma ha diễn lìa tứ cú tuyệt bách phi lắng nghe! Lắng nghe!”
 
@@ -607,11 +655,17 @@ Ngưỡng Sơn chỉ biết khóc ra đau ruột, không biết lưỡi ở ngo�
 
 Tăng hỏi cha con Mã Sư lìa tứ cú tuyệt bách phi Tăng trước hỏi Tây lai ý. Ngưỡng Sơn hạ chú cước ma ha diễn. Ngưỡng Sơn là cháu của Mã Tổ vì sao thuốc và bệnh không giống. Xuất thân còn có thể dễ, thoát thể nói thì khó.
 
-## TẮC THỨ 91. CÂY MẪU ĐƠN CỦA NAM TUYỀN
+## TẮC 91. CÂY MẪU ĐƠN CỦA NAM TUYỀN
 
-Dạy chúng rằng: Ngưỡng Sơn cho trong mộng là thật Nam Tuyền cho chỗ thức là hư. Nếu biết tĩnh mộng vốn không, mới tin hư thật tuyệt đối đãi. Hãy nói: Người này đủ mắt không?
+### THÙY
 
-CÔNG ÁN: Nam Tuyền nhân Lục Tuyên Đại Phu nói: Pháp Sư
+📣 Dạy đại chúng rằng:
+
+Ngưỡng Sơn cho trong mộng là thật Nam Tuyền cho chỗ thức là hư. Nếu biết tĩnh mộng vốn không, mới tin hư thật tuyệt đối đãi. Hãy nói: Người này đủ mắt không?
+
+### CÔNG ÁN
+
+Nam Tuyền nhân Lục Tuyên Đại Phu nói: Pháp Sư
 
 Khải rất kỳ đặc ( cũng là liêu đông bạch trư)
 
@@ -633,11 +687,17 @@ Nội tâm không có hành động các sư thấy biết không thể dời. N
 
 trần không sở y, vạn vật không thể buộc. Bài tụng của Thiên Đồng, Nam Tuyền chiếu thấu lìa cái gốc tạo hóa vi tế. Rộn ràng ra vào thấy cửa, thấy hai cửa xuất vi nhập lìa, chỉ là một cửa phân trong ngoài, thật ra mười phương không vách đổ, bốn bề cũng không cửa, thả hơn nơi kiếp ngoài hỏi sao có là trời đất đồng gốc, mở mắt trước thân biết diệu còn là vạn vật một thể. Gốc và thể có thể sinh ra vạn vật, trời đất như rồng ngâm mây nổi, hổ gầm nổi gió, có cảm ắt có ứng, cho nên trước sân một cành mai, thấy khắp hoa mùa Xuân, Vạn Tùng nói chuyện mộng, trước có người không ngủ, kế có người ngủ, nhân ngủ mà không biết có mộng, nhân mộng mà thấy cảnh, nhân nơi cảnh mà thấy một thân khác trong cảnh phân biệt thọ dụng. Nếu biết người thường không ngủ đáng sổ toẹt một câu lằng nhằng cần biết Từ Tôn bổ xứ không? Lúc này nếu không thấy căn nguyên phải đợi hỏi Phật Di Lặc tương lai.
 
-## TẮC THỨ 92: MỘT VẬT BÁU CỦA VÂN MÔN
+## TẮC 92. MỘT VẬT BÁU CỦA VÂN MÔN
 
-Dạy chúng rằng: Đắc du hý thần thông đại tam muội, hiểu ngôn ngữ đà la ni của chúng sinh, kéo chuyển Mục Châu, thời Tần kéo, làm ra con rắn to lớn của Tuyết Phong Nam Sơn, có biết được người này không?
+### THÙY
 
-CÔNG ÁN: Đại Sư Vân Môn nói: Trong càn khôn, giữa vũ trụ trong đó có một vật báu, bí mật nơi hình núi, thắp đèn lòng trong điện Phật, đem ba cửa đến trên lồng đèn
+📣 Dạy đại chúng rằng:
+
+Đắc du hý thần thông đại tam muội, hiểu ngôn ngữ đà la ni của chúng sinh, kéo chuyển Mục Châu, thời Tần kéo, làm ra con rắn to lớn của Tuyết Phong Nam Sơn, có biết được người này không?
+
+### CÔNG ÁN
+
+Đại Sư Vân Môn nói: Trong càn khôn, giữa vũ trụ trong đó có một vật báu, bí mật nơi hình núi, thắp đèn lòng trong điện Phật, đem ba cửa đến trên lồng đèn
 
 Sư nói: Đại Sư Vân Môn thích làm cái gã này, bận rộn trăm việc nữa đường thoái lui. Ngày nọ dạy chúng nêu luận Bảo Tạng của Khải Công, nếu nêu hợp hoàn toàn là: Phàm trong trời đất, giữa vũ trụ trong đó có một vật báu, bí mật nơi hình núi, biết vật chiếu rỗng rang, trong ngoài rỗng rang, tịch mịch khó thể thấy, chỗ dụng huyền diệu. Tuyết Đậu dơ nói: Trong càn khôn, giữa trời đất, trong đó có một vật báu treo ở trên vách, Đạt Ma chín năm không dám trông mắt nhìn. Nếu nay nạp Tăng muốn thấy phải lấy cánh tay làm gậy.
 
@@ -673,11 +733,17 @@ Câu sau của Tuyết Phong của bài tụng trước cũng có treo cây hư 
 
 Trường Phòng trên lầu thấy vậy biết là người phi thường mới nói: Quét trừ khách không tiếp, chứa lâu biết tin tức nói rằng: Tối ngày không người đến, nói phòng theo ta nhảy vào, phòng thừa lời ấy cũng nhảy tức vào hư, thấy có lầu lớp cửa năm màu, thị giả hai bên hơn mười người câu trên là tụng Bảo Tạng Luận. Câu tụng dưới là lời Vân Môn. Hai câu kế, câu trên tụng rõ, câu dưới tụng tỏ, ý của ngôn luận tuy rõ ràng, mấy người tiến cử, Vân Môn thông biến ấy, chỉ ra một lối sống. Cá lạnh xuống sâu không ăn mồi. Đây là đêm vắng dùng thuyền nước lạnh cá không ăn. Ánh trăng vàng bóng đầy trăng sáng thuyền. Bóng kim ba quế tên khác của trăng. Thiên Đồng nói: Ánh sáng chiếu mắt như nhà mê Triệu Châu nói: Lão Tăng không ở trong minh bạch cho nên hứng hát bài ca thanh lại chuyển bè. Hãy nói đi đến chỗ nào, đêm sâu không ngủ nơi bờ lau, hướng ra ở giữa và hai đầu.
 
-## TẮC THỨ 93: LỖ TỔ KHÔNG HỘI
+## TẮC 93. LỖ TỔ KHÔNG HỘI
 
-Dạy chúng rằng: Gai quý chống chim cáp, chú chuột gặm thỏi vàng, không biết vàng là báu, thì không được dùng nó, còn có đốn tĩnh mặc áo châu không?
+### THÙY
 
-CÔNG ÁN: Lỗ Tổ hỏi Nam Tuyền Châu ma ni mọi người không biết, trong Như Lai Tạng đích thân thu được. Thế nào là Tạng? (Trước
+📣 Dạy đại chúng rằng:
+
+Gai quý chống chim cáp, chú chuột gặm thỏi vàng, không biết vàng là báu, thì không được dùng nó, còn có đốn tĩnh mặc áo châu không?
+
+### CÔNG ÁN
+
+Lỗ Tổ hỏi Nam Tuyền Châu ma ni mọi người không biết, trong Như Lai Tạng đích thân thu được. Thế nào là Tạng? (Trước
 
 Pháp đường sau Phật điện)
 
@@ -743,11 +809,17 @@ Nam Tuyền chỉ Tạng chỉ Châu giống như thả ở trong tay ông, ch�
 
 Vạn Tùng nói: Ta không như Động Sơn xin thấy ít lợi, hoan hỷ thì không hoan hỷ, như đánh vỡ viên Minh châu trong Như Lai Tạng.
 
-## TẮC THỨ 94: ĐỘNG SƠN BẤT AN
+## TẮC 94. ĐỘNG SƠN BẤT AN
 
-Dạy chúng: Dưới không luận trên, đều là bậc bất động, tuy có thể nhiếp người khác nhưng chưa được trọng khinh an. Khi đại không điều hòa làm sao nương cậy.
+### THÙY
 
-CÔNG ÁN: Động Sơn bất an. Tăng hỏi: Hòa Thượng bệnh còn có người bệnh không? (mặc cho phân sơ)
+📣 Dạy đại chúng rằng:
+
+Dưới không luận trên, đều là bậc bất động, tuy có thể nhiếp người khác nhưng chưa được trọng khinh an. Khi đại không điều hòa làm sao nương cậy.
+
+### CÔNG ÁN
+
+Động Sơn bất an. Tăng hỏi: Hòa Thượng bệnh còn có người bệnh không? (mặc cho phân sơ)
 
 Sơn nói: Có (gượng chủ trương)
 
@@ -939,11 +1011,17 @@ Có biết không, sông đẹp một sáng vàng
 
 Sa mạc hỗn không được
 
-## TẮC THỨ 95: VẠCH MỘT ĐƯỜNG CỦA LÂM TẾ
+## TẮC 95. VẠCH MỘT ĐƯỜNG CỦA LÂM TẾ
 
-Dạy chúng: Phật đến cũng đánh, ma đến cũng đánh, có lý 30, không lý 30, lại là lầm, nhận oán cừu, hay là không phân lương thiện, thử nói xem
+### THÙY
 
-CÔNG ÁN: Lâm Tế hỏi Viện Chủ: Đi đâu?
+📣 Dạy đại chúng rằng:
+
+Phật đến cũng đánh, ma đến cũng đánh, có lý 30, không lý 30, lại là lầm, nhận oán cừu, hay là không phân lương thiện, thử nói xem
+
+### CÔNG ÁN
+
+Lâm Tế hỏi Viện Chủ: Đi đâu?
 
 Chủ nói: Đến Thiếu Hoàng Mễ
 
@@ -977,25 +1055,37 @@ Chủ bèn lễ bái
 
 Tế nói: Cũng tàm tạm
 
-Vạn Tùng nói: Có gì không được. Viện chủ bị đánh, không tránh được cừu thù, chủ cúng dường nhờ ân,
+Vạn Tùng nói: **Có gì không được. Viện chủ bị đánh, không tránh được cừu thù, chủ cúng dường nhờ ân, Giết không chọn cốt nhục.** 
 
-Giết không chọn cốt nhục. Thiên Đồng cứ theo lệnh mà đi, phải thấy đại dụng toàn cơ Tụng rằng:
+Thiên Đồng cứ theo lệnh mà đi, phải thấy đại dụng toàn cơ Tụng rằng:
 
-(Cách điệu toàn cơ Lâm Tế cao
+> Cách điệu toàn cơ Lâm Tế cao
+>
+> Đầu gậy có mắt Thu xếp mảy Thu
+>
+> Trừ gia phong của thỏ chồn
+>
+> Biến hóa cá rồng thiêu điện chớp
+>
+> Kiếm cứu người, dao giết người
+>
+> Nương trời soi tuyết thổi sợi lông
+> 
+> Giống như sai đi nếm vị ngon
+> 
+> Chỗ đau 10 phần là ai gặp
 
-Đầu gậy có mắt Thu xếp mảy Thu
+Sư nói: **Lâm Tế** có lúc đoạt người không đoạt cảnh, có lúc người cảnh đều đoạt mất. Nếu gặp người trong đó, chính là vận dụng cơ duyên toàn thể. 
 
-Trừ gia phong của thỏ chồn
+Chỗ cách điệu của **Lâm Tế** rất cao, đưa tay đánh tay, dương mắt đánh mắt, bốn phương tám hướng gió thổi quanh.
 
-Biến hóa cá rồng thiêu điện chớp
+Thời Hoàng Đế Ly Lâu con người trăm dặm mới thấy mảy thủ, đầu gậy có mắt, sáng như mặt trời mặt trăng, nửa điểm cũng không dung chứa, không chỉ quét trừ thỏ chồn, cũng có thể biến hóa cá rồng, cá vọt ra cửa đất Mân 3 tấc, sấm chớp đốt đuôi liền thành rồng, tấn cơ đánh hét, thần dụng như thế, bảy việc tùy thân. Có dao cứu người sống, kiếm giết người chết. 
 
-Kiếm cứu người, dao giết người
+**Phù Sơn Viên Giám Viễn Lục Công** đưa ra 1 đề bảo Thiền sư Đầu Tử Thanh tụng cũng có nói dao giết người, kiếm cứu ngừơi. 
 
-Nương trời soi tuyết thổi sợi lông Giống như sai đi nếm vị ngon Chỗ đau 10 phần là ai gặp.
+Tuyết Đậu tụng Ba Lăng thổi kiếm lông, muốn bình mà không bình, thiện xảo cũng như vụng về, hoặc ngón tay hoặc nắm tay, nương trời soi tuyết. 
 
-Sư nói: Lâm Tế có lúc đoạt người không đoạt cảnh, có lúc người cảnh đều đoạt mất. Nếu gặp người trong đó, chính là vận dụng cơ duyên toàn thể. Chỗ cách điệu của Lâm Tế rất cao, đưa tay đánh tay, dương mắt đánh mắt, bốn phương tám hướng gió thổi quanh.
-
-Thời Hoàng Đế Ly Lâu con người trăm dặm mới thấy mảy thủ, đầu gậy có mắt, sáng như mặt trời mặt trăng, nửa điểm cũng không dung chứa, không chỉ quét trừ thỏ chồn, cũng có thể biến hóa cá rồng, cá vọt ra cửa đất Mân 3 tấc, sấm chớp đốt đuôi liền thành rồng, tấn cơ đánh hét, thần dụng như thế, bảy việc tùy thân. Có dao cứu người sống, kiếm giết người chết. Phù Sơn Viên Giám Viễn Lục Công đưa ra 1 đề bảo Thiền sư Đầu Tử Thanh tụng cũng có nói dao giết người, kiếm cứu ngừơi. Tuyết Đậu tụng Ba Lăng thổi kiếm lông, muốn bình mà không bình, thiện xảo cũng như vụng về, hoặc ngón tay hoặc nắm tay, nương trời soi tuyết. Bài Phú của Tống Ngọc nói đất vuông là kiệu, trời tròn là lộng, uốn tên bắn phù tang.
+Bài Phú của Tống Ngọc nói đất vuông là kiệu, trời tròn là lộng, uốn tên bắn phù tang.
 
 Kiếm dài tựa ngoài trời, Tăng hỏi Lâm Tế:
 
@@ -1005,27 +1095,47 @@ Thế nào là kiếm thổi lông?
 
 Không thấy nói Dấm của Đức Sơn biết ăn biết chua. Cái dụng của Lâm Tế vượt trội Hoằng Bá, truyền đến cũng không yếu. Trúc Am nói: đánh vào mặt 3 loi, đánh vào lưng đấm, người khắp đại địa không biết đau, chỉ có một người biết đau, còn chịu bác sĩ. Không thấy Lâm Tế nói: Như cây chổi quét.
 
-## TẮC THỨ 96: CỬU PHONG KHÔNG CHỊU
+## TẮC 96. CỬU PHONG KHÔNG CHỊU
 
-Dạy chúng: Vân Cư không nương vào xá lợi châu giới. Cửu Phong không thích ngồi yên đứng mất. Ngưu đầu không cần trăm chim ngậm hoa. Hoàng Bá không nhờ cái phao để qua sông. Hãy nói có ưu điểm gì?
+### THÙY
 
-CÔNG ÁN: Cửu Phong ở nơi Thạch Sương làm Thị Giả. Sau khi Thạch Sương tịch, chúng muốn thỉnh Cửu Phong làm Thư Tọa, Phong không chịu bèn nói: Đợi ta hỏi qua đã, nếu biết được ý của tiên sư, như tiên sư cho phép, bèn hỏi:
+📣 Dạy đại chúng rằng:
 
-Tiên sư nói: Thôi đi, thôi đi, một niệm là vạn năm
+Vân Cư không nương vào xá lợi châu giới. 
+Cửu Phong không thích ngồi yên đứng mất. 
+Ngưu đầu không cần trăm chim ngậm hoa. 
+Hoàng Bá không nhờ cái phao để qua sông. 
+Hãy nói có ưu điểm gì?
 
-Cây khô khi tro lạnh. Một sợi tơ trắng Hãy nói: Rõ việc gì?
+### CÔNG ÁN
 
-Thư Tòa nói: Rõ việc một sắc màu.
+**Cửu Phong** ở nơi **Thạch Sương** làm Thị Giả. 
+Sau khi Thạch Sương tịch, chúng muốn thỉnh Cửu Phong làm Thủ Tòa. 
+
+Phong không chịu bèn nói: Đợi ta hỏi qua đã, nếu biết được ý của tiên sư, như tiên sư cho phép, bèn hỏi:
+
+> Tiên sư nói: Thôi đi, thôi đi, một niệm là vạn năm. 
+Cây khô khi tro lạnh. Một sợi tơ trắng. 
+Hãy nói: Rõ việc gì?
+
+Thủ Tòa nói: Rõ việc một sắc màu.
 
 Phong nói: Như thế thì chưa lãnh hội ý của Tiên Sư
 
-Tòa nói: Ông không chịu ta thì làm sao đốt hương
+Thủ Tòa nói: Ông không chịu ta thì làm sao đốt hương
 
-Tòa đốt hương nói: Ta nếu không lãnh hội ý của Tiên sư thì chỗ phát khởi của khói hương này thoát không được. Nói xong liền ngồi.
+Thủ Tòa đốt hương nói: Ta nếu không lãnh hội ý của Tiên sư thì chỗ phát khởi của khói hương này thoát không được. Nói xong liền ngồi.
 
 Phong vỗ vai nói: Ngồi yên đứng mất thì không thể không có. Ý tiên sư chưa mộng thấy.
 
-Sư nói: Thiền sư Cửu Phong Đạo Xứ ở Quân Châu đích thân truyền đạo của Thạch Sương, được cây gậy sống chết, đủ cơ phong của Nạp Tăng. Thư Tòa khiêng ván, chỉ được một cọc. Bấy giờ thấy nói như thế thì chưa lãnh hội ý của Tiên Sư. Chỉ nói ta không giống ông. Bèn dạy Cửu Phong không có đất để dung thân cam tâm quy phục. Không thấy nói đâu không đủ, nhường thì có dư. Người tham học thời nay chỉ nói người xưa ngồi thoát đứng mất. Người nay sắp đi thì tay chân bận rộn. Lại thấy Âu Dương Văn Trung Công tham kiến Lão Tăng ở Tung Sơn, nói người thời nay niệm niệm là loạn, lúc lâm chung làm sao định được.
+Sư nói: Thiền sư Cửu Phong Đạo Xứ ở Quân Châu đích thân truyền đạo của Thạch Sương, được cây gậy sống chết, đủ cơ phong của Nạp Tăng.
+Thủ Tòa khiêng ván, chỉ được một cọc. 
+Bấy giờ thấy nói như thế thì chưa lãnh hội ý của Tiên Sư. 
+Chỉ nói ta không giống ông. 
+Bèn dạy Cửu Phong không có đất để dung thân cam tâm quy phục. Không thấy nói đâu không đủ, nhường thì có dư. 
+Người tham học thời nay chỉ nói người xưa ngồi thoát đứng mất. Người nay sắp đi thì tay chân bận rộn. 
+
+Lại thấy Âu Dương Văn Trung Công tham kiến Lão Tăng ở Tung Sơn, nói người thời nay niệm niệm là loạn, lúc lâm chung làm sao định được.
 
 Đây chính là 1 bề tìm sinh tử.
 
@@ -1093,11 +1203,17 @@ Mượn thì là việc một màu sắc. Bất đắc dĩ ứng cơ lợi sinh 
 
 Ngôi vua rồng bay tới hồi, như được địa vị há so với tổ với việc trần tục. Nhà tuyết người mê thay, có biết chỗ Thạch Sương truyền cho Cửu Phong không? Phá nát túi hương xông cả nước, mở ra gió chơn nơi cõi trời.
 
-## TẮC THỨ 97: KHĂN CHE ĐẦU CỦA QUANG ĐẾ
+## TẮC 97. KHĂN CHE ĐẦU CỦA QUANG ĐẾ
 
-Dạy chúng: Đạt Ma Triều Lương Vũ Đế, vốn là truyền tâm, diêm quan biết đại trung, không ngại đủ mắt, thiên hạ thái bình, quốc vương trường thọ, không phạm oai vua, trời trăng dừng cảnh, mùa hòa hợp, có gió mát đưa Nhân vương và Pháp vương gặp nhau bàn luận việc gì?
+### THÙY
 
-CÔNG ÁN: Đồng Quang Đế bảo Hưng Hóa:
+📣 Dạy đại chúng rằng:
+
+Đạt Ma Triều Lương Vũ Đế, vốn là truyền tâm, diêm quan biết đại trung, không ngại đủ mắt, thiên hạ thái bình, quốc vương trường thọ, không phạm oai vua, trời trăng dừng cảnh, mùa hòa hợp, có gió mát đưa Nhân vương và Pháp vương gặp nhau bàn luận việc gì?
+
+### CÔNG ÁN
+
+Đồng Quang Đế bảo Hưng Hóa:
 
 Quả nhân thu được một bảo vật ở Trung Nguyên, chỉ là không có người trả giá.
 
@@ -1191,11 +1307,17 @@ Không như Hưng Hóa Trang Tông không làm tổn thương Khí Hòa. Tăng h
 
 Bích nói: Người quân tử thích của cải, lấy thì có đạo, chớ cho là Pháp Vân lấy không ra, phải biết Hưng Hóa dám thương lượng.
 
-## TẮC THỨ 98: ĐỘNG SƠN THƯỚNG THIỆT
+## TẮC 98. ĐỘNG SƠN THƯỚNG THIỆT
 
-Dạy chúng: Cửu Phong cắt lưỡi, đuổi theo Hòa Thạch Sương. Tác Sơn chém đầu, không cô phụ Đỗng Nham. Người xưa 3 tấc được bí mật gì, lại làm tay người đoạn chỗ nào
+### THÙY
 
-CÔNG ÁN: Tăng hỏi Động Sơn: Trong 3 thân, thân nào không rơi vào các số (trước 3 sau 3)
+📣 Dạy đại chúng rằng:
+
+Cửu Phong cắt lưỡi, đuổi theo Hòa Thạch Sương. Tác Sơn chém đầu, không cô phụ Đỗng Nham. Người xưa 3 tấc được bí mật gì, lại làm tay người đoạn chỗ nào
+
+### CÔNG ÁN
+
+Tăng hỏi Động Sơn: Trong 3 thân, thân nào không rơi vào các số (trước 3 sau 3)
 
 (21) Sơn nói: Ta thường ở nơi chỗ tha thiết này
 
@@ -1263,11 +1385,17 @@ Bài phú về gió của Tống Ngọc. Phàm gió sinh cỏ sinh, sông ngòi 
 
 Dám hỏi: Bờ xưa thuyền về đâu, ai biết? Khói sóng xa xăm chẳng có tư lương tốt.
 
-## TẮC THỨ 99: CƠM TRONG BÁT NƯỚC TRONG THÙNG  CỦA VÂN MÔN
+## TẮC 99. CƠM TRONG BÁT NƯỚC TRONG THÙNG CỦA VÂN MÔN
 
-Dạy chúng nói: Cờ có trí lạ, rượu có ruột riêng, thỏ luồng 3 hang, loạn xạ lung tung. Lại có kẻ ngang dấu, hãy nói là ai?
+### THÙY
 
-CÔNG ÁN: Tăng hỏi Vân Môn: thế nào là trần trần tam muội? Vân Môn nói: Cơm trong bát nước trong thùng
+📣 Dạy đại chúng rằng:
+
+Cờ có trí lạ, rượu có ruột riêng, thỏ luồng 3 hang, loạn xạ lung tung. Lại có kẻ ngang dấu, hãy nói là ai?
+
+### CÔNG ÁN
+
+Tăng hỏi Vân Môn: thế nào là trần trần tam muội? Vân Môn nói: Cơm trong bát nước trong thùng
 
 Sư nói: Hoa Nghiêm nói 1 trần nhập chánh định, các trần tam muội khởi. lại nói:
 
@@ -1331,11 +1459,17 @@ Nói tâm chí mình kiên cố bằng phẳng hơn cả đá và chiếu
 
 Hãy nói: Quốc Sư Trung, Phật Giám, Vân Môn, Thiên Đồng thở vội như thế là thế nào? Mảnh mảnh lòng son biết người thiếu, nhìn từng mặt thấy đều là hiếm.
 
-## TẮC THỨ 100: LĂNG GIÀ SƠN HÀ
+## TẮC 100. LĂNG GIÀ SƠN HÀ
 
-Dạy chúng: Một lời nói có thể làm cho nước hưng thịnh, 1 lời nói cũng làm cho nước suy vong. Thuốc này cũng có thể giết người, thuốc này cũng có thể cứu người sống lại. Người nhân thấy điều ấy cho là nhân, người trí thấy điều đó cho là trí. Hãy nói lợi hại ở chỗ nào?
+### THÙY
 
-CÔNG ÁN: Tăng hỏi Hòa Thượng Lang Da Giác: Thanh tịnh bổn nhiên, sao nói bỗng sinh sơn hà đại địa?
+📣 Dạy đại chúng rằng:
+
+Một lời nói có thể làm cho nước hưng thịnh, 1 lời nói cũng làm cho nước suy vong. Thuốc này cũng có thể giết người, thuốc này cũng có thể cứu người sống lại. Người nhân thấy điều ấy cho là nhân, người trí thấy điều đó cho là trí. Hãy nói lợi hại ở chỗ nào?
+
+### CÔNG ÁN
+
+Tăng hỏi Hòa Thượng Lang Da Giác: Thanh tịnh bổn nhiên, sao nói bỗng sinh sơn hà đại địa?
 
 Giác nói: Thanh tịnh bổn nhiên, sao nói bỗng sinh sơn hà đại địa
 

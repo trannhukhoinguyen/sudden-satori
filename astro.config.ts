@@ -48,8 +48,5 @@ export default defineConfig({
 
   vite: {
     plugins: [],
-    ssr: {
-      external: ["@mozilla/readability"],
-    },
   },
 });
