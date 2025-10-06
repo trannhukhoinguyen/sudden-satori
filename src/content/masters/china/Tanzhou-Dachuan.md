@@ -9,7 +9,7 @@ tags:
   - China
 ---
 
-### Giới thiệu
+## Giới thiệu
 
 Thiền Sư **Đàm Châu Đại Xuyên** 
 (Đại Xuyên cũng viết là Đại Hồ)
@@ -40,4 +40,6 @@ Tăng lễ bái.
 
 Đơn Hà nói: Phán xét chư phương quá lầm.
 
-Động Sơn nói: Không phải là Đơn Hà, khó phân biệt ngọc đá]. □
+Động Sơn nói: Không phải là Đơn Hà, khó phân biệt ngọc đá].
+
+## Ngữ lục
