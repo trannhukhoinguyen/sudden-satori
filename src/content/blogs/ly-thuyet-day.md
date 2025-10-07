@@ -20,14 +20,14 @@ author: wikipedia.com_youtube.com
 
 ## NGUỒN
 
-> ✨ Nguồn: https://www.youtube.com/watch?v=dul3H7bqYrA
+> ✨ <a href="https://www.youtube.com/watch?v=dul3H7bqYrA" target="_blank">🔗 1</a>
 
-> ✨ Nguồn: https://www.youtube.com/watch?v=zvsXdy85FFc
+> ✨ <a href="https://www.youtube.com/watch?v=zvsXdy85FFc" target="_blank">🔗 2</a>
 
-> ✨ Nguồn: https://www.youtube.com/watch?v=n-_xc-y-Y4I
+> ✨ <a href="https://www.youtube.com/watch?v=n-_xc-y-Y4I" target="_blank">🔗 3</a>
 
-> ✨ Nguồn: https://www.ted.com/talks/brian_greene_making_sense_of_string_theory?language=vi
+> ✨ <a href="https://www.ted.com/talks/brian_greene_making_sense_of_string_theory?language=vi" target="_blank">🔗 4</a>
 >
-> ✨ Nguồn: https://vi.wikipedia.org/wiki/L%C3%BD_thuy%E1%BA%BFt_d%C3%A2y
+> ✨ <a href="https://vi.wikipedia.org/wiki/L%C3%BD_thuy%E1%BA%BFt_d%C3%A2y" target="_blank">🔗 5</a>
 >
-> ✨ Nguồn: https://file.nhasachmienphi.com/pdf/nhasachmienphi-giai-dieu-day-va-ban-giao-huong-cua-vu-tru.pdf
+> ✨ <a href="https://file.nhasachmienphi.com/pdf/nhasachmienphi-giai-dieu-day-va-ban-giao-huong-cua-vu-tru.pdf" target="_blank">🔗 6</a>

@@ -53,10 +53,12 @@ export const config: SiteConfig = {
   postsPerPage: 5,
 
   collections: [
+    "health",
     "blogs",
     "books",
     "interpretations",
 
+    "precepts",
     "sutras",
     "koans",
 
@@ -69,9 +71,12 @@ export const config: SiteConfig = {
   ],
 
   categoryNames: {
+    health: "Sức khỏe & Bài thuốc",
     blogs: "Bài viết",
     books: "Sách",
+
     interpretations: "Luận giải",
+    precepts: "Luật",
 
     /*NHÓM KINH*/
     sutras: "Kinh",
@@ -81,12 +86,12 @@ export const config: SiteConfig = {
 
     /*NHÓM CÔNG ÁN*/
     koans: "Công án",
-    bluecliffrecord: "Bích Nham Lục",
-    gatelessgate: "Vô Môn Quan",
-    emptyvalleycollection: "Không Cốc Tập",
-    vacanthallcollection: "Hư Đường Tập", //
-    ironflute: "Thiết Địch Đảo Xuy - Tiếng Sáo Thép", // Tetteki Tosui
-    equanimitybook: "Thong Dong Lục", // Shoyoroku
+    blueCliffRecord: "Bích Nham Lục",
+    gatelessGate: "Vô Môn Quan",
+    emptyValleyCollection: "Không Cốc Tập",
+    vacantHallCollection: "Hư Đường Tập", //
+    ironFlute: "Thiết Địch Đảo Xuy - Tiếng Sáo Thép", // Tetteki Tosui
+    equanimityBook: "Thong Dong Lục", // Shoyoroku
 
     places: "Địa danh",
     practices: "Thực hành",
@@ -98,22 +103,24 @@ export const config: SiteConfig = {
   },
 
   categoryDescriptions: {
+    health: "Xem Bài viết làm sáng tỏ về Sức khỏe & Bài thuốc",
     blogs: "Xem Bài viết làm sáng tỏ về Phật Pháp",
     books: "Xem Sách về Phật Pháp",
-    interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
 
-    /*NHÓM KINH*/
+    interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
+    precepts: "Xem Luật liên quan đến Tổ Sư Thiền",
+
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
     lankavatara: "Xem Kinh Lăng Già liên quan đến Tổ Sư Thiền",
     surangama: "Xem Kinh Lăng Nghiêm liên quan đến Tổ Sư Thiền",
-    diamond: "Xem Kinh Kim Cang liên quan đến Tổ Sư Thiền",
 
-    /*NHÓM CÔNG ÁN*/
     koans: "Xem các Công án Tổ Sư Thiền",
-    bluecliffrecord: "Xem các Công án Bích Nham Lục Tổ Sư Thiền",
-    gatelessgate: "Xem các Công án Vô Môn Quan Tổ Sư Thiền",
-    emptyvalleycollection: "Xem các Công án Không Cốc Tập Tổ Sư Thiền",
-    vacanthallcollection: "Xem các Công án Hư Đường Tập Tổ Sư Thiền",
+    blueCliffRecord: "Xem các Công án Bích Nham Lục Tổ Sư Thiền",
+    gatelessGate: "Xem các Công án Vô Môn Quan Tổ Sư Thiền",
+    emptyValleyCollection: "Xem các Công án Không Cốc Tập Tổ Sư Thiền",
+    vacantHallCollection: "Xem các Công án Hư Đường Tập Tổ Sư Thiền",
+    ironFlute: "Xem các Công án Tiếng Sáo Thép Tổ Sư Thiền",
+    equanimityBook: "Xem các Công án Thong Dong Lục Tổ Sư Thiền",
 
     places: "Xem các Địa danh",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",

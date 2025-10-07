@@ -9,7 +9,7 @@ tags:
 pdfUrl: /pdfs/speeches/Van-Mon-ngu-luc.pdf
 ---
 
-#### 0.
+
 
 <hr class="blog-rule" />
 

@@ -6,7 +6,7 @@ categories:
   - Ngữ Lục
 tags: 
   - TS TRIỆU CHÂU TÙNG THẨM
-pdfUrl: /pdfs/speeches/trieu-chau-ngu-luc.pdf
+pdfUrl: /pdfs/speeches/Trieu-Chau-ngu-luc.pdf
 ---
 
 #### 0.
@@ -850,21 +850,25 @@ Sư nện cho ông ba gậy và bảo :
     Nếu có người hỏi ông từ đâu tới? Và ông trả lời tôi từ Triệu Châu tới là mắng Triệu Châu.
     Nếu nói tôi không từ Triệu Châu tới là mai một chính mình.
     Xin hỏi các ông phải trả lời sao?
+    
     Có ông tăng hỏi :
     -Xúc mục là báng, hòa thượng làm sao không báng?
+
     -Nếu nói không báng là sớm đã báng rồi.
 
 90. Có ông tăng hỏi :
     -Thế nào là đường tu chân chánh?
     -Nếu ông biết tu, thì tu đi; nếu ông không biết thì đã rơi vào nhân quả.
 
-91. Sư dạy chúng :
-    -Tôi dạy ông cách trả lời.
-    Nếu có người nào hỏi ông hãy trả lời.
-    Tôi vừa rời khỏi Triệu Châu.
-    Nếu người đó lại hỏi : Triệu Châu dạy pháp gì? Ông sẽ trả lời : Lạnh thì nói lạnh, nóng thì nói nóng.
-    Nếu người đó bảo: Tôi không hỏi chuyện này, thì ông đáp : Vậy ông hỏi chuyện gì? Người đó nói Triệu Châu dạy pháp gì? Ông sẽ trả lời : Khi tôi đi hòa thượng không có chuyển ngữ gì cả.
-    Nếu thượng tọa muốn rõ chuyện Triệu Châu thì tự đi mà hỏi.
+91. Sư dạy chúng: Tôi dạy ông cách trả lời. Nếu có người nào hỏi ông hãy trả lời. Tôi vừa rời khỏi Triệu Châu. 
+
+Nếu người đó lại hỏi: Triệu Châu dạy pháp gì? 
+
+Ông sẽ trả lời: Lạnh thì nói lạnh, nóng thì nói nóng.
+
+Nếu người đó bảo: Tôi không hỏi chuyện này, thì ông đáp: Vậy ông hỏi chuyện gì? Người đó nói Triệu Châu dạy pháp gì? 
+
+Ông sẽ trả lời : Khi tôi đi hòa thượng không có chuyển ngữ gì cả. Nếu thượng tọa muốn rõ chuyện Triệu Châu thì tự đi mà hỏi.
 
 92. Có ông tăng hỏi :
     -Không nhìn trước sau thì sao?
@@ -3699,12 +3703,41 @@ Một ông tăng hỏi :
 
 Một ông tăng hỏi :
 -Khi sự sai biệt bằng một sợi long thì phải tính sao?
--Đó là tiến trình.
--Nếu cảnh phản ứng lại thì sao?
--Bẻ cong.
 
-    Các ông chỉ thấu đạt lý tọa thiền, chuyên khán hai ba mươi năm, nếu không hội ngộ chặt đầu Lão Tăng đi.
-    Lão Tăng ngót 40 năm chuyên khán không dụng tâm tạp loạn, trừ 2 thời cơm và cháo mới tạp dụng tâm.
+-Đó là tiến trình.
+
+-Nếu cảnh phản ứng lại thì sao?
+
+-Bẻ cong
+
+#### 522.
+
+522. Sư thượng đường và dạy chúng :
+   
+> Phật vàng chẳng độ lò, 
+> Phật gỗ chẳng độ lửa, 
+> Phật bùn chẳng độ nước,
+> chân Phật ở nơi mình.
+> Bồ Đề, Niết Bàn, Như Lai, Phật tánh chỉ là quần áo để che thân, là lòng bác ái. 
+> Chúng ta tìm thực tại ở đâu ? Tâm chẳng sanh thì vạn pháp chẳng sanh. 
+> Cứ ngồi và quán chuyện này 20, 30 năm nếu ông không hiểu thì cứ chặt đầu tôi đi. 
+> Bỏ sức vào mộng ảo và ảo giác chỉ là phí công. 
+> Không thể tìm ở bên ngoài, vậy phải làm sao? 
+> Cũng như con dê, nhai những gì ở trong mồm nhưng không biết chúng phải làm sao? 
+> Khi tôi gập Quy Sơn, thiền sư nói: “Khi có người hỏi tôi, tôi khóa mõm hắn lại” 
+> Tôi cũng nói : “Câm mõm hòa thượng lại”. 
+> Chấp ngã là sai, không chấp ngã là đúng. 
+> Cũng như một con chó điên chỉ muốn có nhiều đồ ăn. 
+> Tìm Phật ở đâu ? 
+> Trăm ngàn kẻ điên đi tìm Phật, nếu có tìm thấy một người thì đó cũng không phải là Phật. 
+> Nếu ông không muốn là con của không vương thì đừng sanh tâm. 
+> Khi thế giới này không còn, thì còn thực tại. 
+> Khi thế giới này bị hủy hoại, thì thực tại này không bị phá hủy. 
+> Hãy nhìn tôi, tôi chỉ là tôi. 
+> Chân ngã chỉ đơn giản là vậy. 
+> Ở ngay đây, còn đi tìm ở nơi đâu chứ? 
+> Đúng lúc này đừng ngoảnh đầu đi, đừng đổi nét mặt. 
+> Nếu ông làm vậy ông đã hết đời!
 
 <hr class="blog-rule" />
 

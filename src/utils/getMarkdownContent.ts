@@ -7,16 +7,11 @@ const globMap = {
   places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
   books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
 
-  /*NHÓM LUẬN GIẢI*/
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}', { eager: true }),
-
-  /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/**/*.{md,mdx}', { eager: true }),
-
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}', { eager: true }),
-
-  /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}', { eager: true }),
+  precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}', { eager: true }),
 
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
@@ -28,16 +23,11 @@ const globMapLazy = {
   places: import.meta.glob('../content/places/**/*.{md,mdx}'),
   books: import.meta.glob('../content/books/**/*.{md,mdx}'),
 
-  /*NHÓM LUẬN GIẢI*/
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}'),
-
-  /*NHÓM CÔNG ÁN*/
   koans: import.meta.glob('../content/koans/**/*.{md,mdx}'),
-
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}'),
-
-  /*NHÓM KINH*/
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}'),
+  precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}'),
 
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
@@ -51,6 +41,7 @@ const collections = {
   places: "places",
   books: "books",
   practices: "practices",
+  precepts: "precepts",
 
   masters: "masters",
   speeches: "speeches",

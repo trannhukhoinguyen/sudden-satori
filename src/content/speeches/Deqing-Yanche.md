@@ -5,9 +5,10 @@ excerpt: "...."
 categories: 
   - Ngữ Lục
 tags: 
-  - TS HƯ VÂN
+  - TS HƯ VÂN DIỄN TRIỆT
 pdfUrl: /pdfs/speeches/Hu-Van-phap-ngu.pdf
 ---
+
 
 <hr class="blog-rule" />
 
@@ -19,4 +20,4 @@ pdfUrl: /pdfs/speeches/Hu-Van-phap-ngu.pdf
 
 ## GHI CHÚ
 
-[^1]: ⭐️
+[^1]: ⭐️ <a href="/masters/Deqing-Yanche" target="_blank">🔗 TS HƯ VÂN DIỄN TRIỆT</a>
