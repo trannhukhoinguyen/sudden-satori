@@ -14,17 +14,15 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-
-Ngài Đan Hà dạy chúng:
 Chuẩn bị trước thì không còn lo.
 Đợi đến khi gặp được người đàn việt có tín tâm, tùy duyên nhận lãnh, thì sẽ kiến tạo nên ngôi tháp xuất cách bậc nhất.
 Gặp việc nghĩa thì làm hết mình, ai biết được người có bản chất nhân từ, kiến định này chăng? Có hiểu lý ấy không?
 
-BẢN TẮC
+## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử: Vua Đường Túc Tông hỏi Quốc Sư Huệ Trung:
+📢 Ngài Đầu Tử cử:
+
+> Vua Đường Túc Tông hỏi Quốc Sư Huệ Trung:
 – Sau khi Thầy thị tịch phải làm điều gì?
 
 Quốc Sư đáp:
@@ -42,9 +40,11 @@ Vua nói:
 Quốc Sư bảo:
 – Ta đã truyền pháp cho đệ tử Đam Nguyên, vị ấy đã thấu hiểu việc này. Bệ Hạ nên hỏi nơi đó.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Đầu Tử dẫn: Quốc Sư Huệ Trung ở Nam Dương, người Chư Ký, Việt Châu.
+📢 Ngài Đầu Tử dẫn:
+
+Quốc Sư Huệ Trung ở Nam Dương, người Chư Ký, Việt Châu.
 Từ ngày nhận tâm ấn của Lục Tổ tại Tào Khê, Sư về ở Đảng Tử Cốc núi Bạch Mai, Nam Dương, hơn 40 năm chưa từng xuống núi. Đạo hạnh vang tới kinh đô.
 
 Vua Đường Túc Tông, niên hiệu Thượng Nguyên năm thứ hai (761), sai Trung Sứ Tôn Triều Tiến đem chiếu chỉ thỉnh Sư về kinh, kính lễ tôn xưng làm Thầy.
@@ -115,16 +115,18 @@ Ngài Lâm Tuyền nói:
 Dù rằng một cây kim chẳng lọt qua cửa ái, nhưng ngại gì xe ngựa vẫn tự do lưu thông.
 Hãy để cho người một con đường, xin mời các vị luận bàn xem.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Tháp xưa xuất hiện, vua mờ mịt.
+> Tháp xưa xuất hiện, vua mờ mịt.
 Mây giăng kín, rồng phụng ẩn.
 Nửa đêm, gió thơm lặng.
 Điện báu, không tri thức.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói: Tôn giả Ma Noa La là Tổ thứ hai mươi hai. Ba mươi tuổi mới gặp Tổ Bà Tu, xuất gia rồi được truyền pháp.
+📢 Ngài Lâm Tuyền nói:
+
+Tôn giả Ma Noa La là Tổ thứ hai mươi hai. Ba mươi tuổi mới gặp Tổ Bà Tu, xuất gia rồi được truyền pháp.
 
 Sau đó, Tổ đến Trung Ấn Độ. Vua nước này tên là Đắc Độ, thuộc dòng họ Cù Đàm, quy y Phật, tinh tấn tu hành.
 
@@ -152,28 +154,6 @@ Thấy được như thế, có tri thức hay không tri thức.
 
 Than ôi! Khắp nơi đều biết nhau, nhưng biết được tâm thì được mấy người.
 Dù trải khắp nơi, cũng chẳng ai bằng song thân.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

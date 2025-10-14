@@ -7,6 +7,7 @@ categories:
 tags: 
   - TS BÁCH TRƯỢNG HOÀI HẢI
 pdfUrl: /pdfs/speeches/Bach-Truong-ngu-luc.pdf
+pdfUrl2: /pdfs/speeches/Bach-Truong-quang-luc.pdf
 ---
 
 
