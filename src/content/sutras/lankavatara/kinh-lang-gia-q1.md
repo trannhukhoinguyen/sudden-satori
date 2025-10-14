@@ -7,7 +7,7 @@ categories:
 tags: 
   - Kinh Thủ Lăng Già
   - HT Thích Duy Lực
-image: /images/backgrounds/unknown-zen-master-on-sea.webp
+image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 pdfUrl: /pdfs/sutras/kinh-lang-gia.pdf
 videoId: vwOi8UCTCp0
 videoStart: 1071

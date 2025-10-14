@@ -14,141 +14,114 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Trà Tước Thiệt vừa pha, rót vào chén ngọc, hành thiền tỉnh sáng. 
 
+Trà Long Đàm chế ra, nước vàng tươi đuổi ma ngủ tránh xa. Dù là hai loại chẳng đồng, hãy mừng là một, chẳng phải hai. 
 
-Ngài Đan Hà dạy chúng: Trà Tước Thiệt vừa pha, rót vào chén ngọc, hành thiền tỉnh sáng. Trà Long Đàm chế ra, nước vàng tươi đuổi ma ngủ tránh xa. Dù là hai loại chẳng đồng, hãy mừng là một, chẳng phải hai. Có ai không để trà dính môi mà biết được vị chăng?
+Có ai không để trà dính môi mà biết được vị chăng?
 
-BẢN TẮC
+## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử: Triệu Châu vừa thấy Tăng đến liền hỏi:
-– Từng đến đây chưa?
+📢 Ngài Đầu Tử cử:
 
-Tăng đáp:
-– Chưa từng đến.
+> Triệu Châu vừa thấy Tăng đến liền hỏi: **Từng đến đây chưa?**
+>
+> Tăng đáp: **Chưa từng đến**
+>
+> Triệu Châu mời: **Uống trà đi**
+>
+> Ngài lại hỏi vị Tăng khác: **Từng đến đây chưa?**
+>
+> Vị Tăng thưa: **Con đến đây rồi**
+>
+> Ngài cũng mời: **Uống trà đi**
 
-Triệu Châu mời:
-– Uống trà đi.
+## BÌNH XƯỚNG
 
-Ngài lại hỏi vị Tăng khác:
-– Từng đến đây chưa?
+📢 Ngài Đầu Tử nói:
 
-Vị Tăng thưa:
-– Con đến đây rồi.
+Thiền sư Tùng Thẩm ở viện Quan Âm, Triệu Châu, lúc chưa thọ giới, đã đến Trì Dương tham vấn Nam Tuyền.
 
-Ngài cũng mời:
-– Uống trà đi.
+Gặp lúc nghỉ ngơi, ngài Nam Tuyền vẫn hỏi: Từ đâu đến?
 
-BÌNH XƯỚNG
+Triệu Châu thưa: Con từ Thụy Tượng đến.
 
-Ngài Đầu Tử nói: Thiền sư Tùng Thẩm ở viện Quan Âm, Triệu Châu, lúc chưa thọ giới, đã đến Trì Dương tham vấn Nam Tuyền.
+Nam Tuyền lại hỏi: Thấy Thụy Tượng chăng?
 
-Gặp lúc nghỉ ngơi, ngài Nam Tuyền vẫn hỏi:
-– Từ đâu đến?
+Triệu Châu thưa: Không thấy Thụy Tượng, chỉ thấy Như Lai nằm.
 
-Triệu Châu thưa:
-– Con từ Thụy Tượng đến.
+Nam Tuyền ngồi dậy hỏi: Ông là sa-di có chủ hay không có chủ?
 
-Nam Tuyền lại hỏi:
-– Thấy Thụy Tượng chăng?
+Triệu Châu thưa: Sa-di có chủ.
 
-Triệu Châu thưa:
-– Không thấy Thụy Tượng, chỉ thấy Như Lai nằm.
+Nam Tuyền hỏi: Cái nào là chủ của ông?
 
-Nam Tuyền ngồi dậy hỏi:
-– Ông là sa-di có chủ hay không có chủ?
-
-Triệu Châu thưa:
-– Sa-di có chủ.
-
-Nam Tuyền hỏi:
-– Cái nào là chủ của ông?
-
-Triệu Châu bước đến gần, cúi mình thưa:
-– Giữa mùa đông giá rét, ngưỡng mong tôn thể Hòa thượng luôn được muôn phước.
+Triệu Châu bước đến gần, cúi mình thưa: Giữa mùa đông giá rét, ngưỡng mong tôn thể Hòa thượng luôn được muôn phước.
 
 Nam Tuyền biết là bậc pháp khí, nên cho vào thất.
 
-Ngày khác, Sư hỏi Nam Tuyền:
-– Thế nào là đạo?
+Ngày khác, Sư hỏi Nam Tuyền: Thế nào là đạo?
 
-Nam Tuyền đáp:
-– Tâm bình thường là đạo.
+Nam Tuyền đáp: Tâm bình thường là đạo.
 
-Triệu Châu thưa:
-– Lại có thể đạt được chăng?
+Triệu Châu thưa: Lại có thể đạt được chăng?
 
-Nam Tuyền nói:
-– Nghĩ đạt được tức là sai.
+Nam Tuyền nói: Nghĩ đạt được tức là sai.
 
-Triệu Châu thưa:
-– Không nghĩ thì sao biết là đạo?
+Triệu Châu thưa: Không nghĩ thì sao biết là đạo?
 
-Nam Tuyền nói:
-– Đạo không thuộc về biết, cũng không thuộc về không biết. Biết là vọng giác, không biết là vô ký. Nếu người thật đạt đạo thì không nghi. Giống như hư không thênh thang, rỗng rang, đâu có thể cố nói phải hay quấy.
+Nam Tuyền nói: Đạo không thuộc về biết, cũng không thuộc về không biết. Biết là vọng giác, không biết là vô ký. Nếu người thật đạt đạo thì không nghi. Giống như hư không thênh thang, rỗng rang, đâu có thể cố nói phải hay quấy.
 
 Sư ngộ được ngay lời này.
 
-Có vị Tăng hỏi Thiền sư Vân Cư Ưng:
-– Khi con linh dương tra sừng thì thế nào?
+Có vị Tăng hỏi Thiền sư Vân Cư Ưng: Khi con linh dương tra sừng thì thế nào?
 
-Vân Cư nói:
-– Sáu lần sáu, ba mươi sáu.
+Vân Cư nói: Sáu lần sáu, ba mươi sáu.
 
-Tăng hỏi:
-– Sau khi treo sừng thì thế nào?
+Tăng hỏi: Sau khi treo sừng thì thế nào?
 
-Vân Cư đáp:
-– Sáu lần sáu, ba mươi sáu.
+Vân Cư đáp: Sáu lần sáu, ba mươi sáu.
 
 Tăng lễ bái.
 
-Vân Cư hỏi:
-– Hội chăng?
+Vân Cư hỏi: Hội chăng?
 
-Tăng thưa:
-– Không hội.
+Tăng thưa: Không hội.
 
-Vân Cư nói:
-– Không nghe nói đạo không dấu vết sao?
+Vân Cư nói: Không nghe nói đạo không dấu vết sao?
 
 Vị Tăng ấy đem lời này hỏi Triệu Châu.
 
-Triệu Châu nói:
-– Sư huynh Vân Cư vẫn còn.
+Triệu Châu nói: Sư huynh Vân Cư vẫn còn.
 
-Tăng hỏi:
-– Khi linh dương treo sừng thì thế nào?
+Tăng hỏi: Khi linh dương treo sừng thì thế nào?
 
-Triệu Châu đáp:
-– Chín lần chín, tám mươi mốt.
+Triệu Châu đáp: Chín lần chín, tám mươi mốt.
 
-Tăng thưa:
-– Như thế thì khó hội.
+Tăng thưa: Như thế thì khó hội.
 
-Triệu Châu nói:
-– Có gì là khó hội?
+Triệu Châu nói: Có gì là khó hội?
 
-Tăng thưa:
-– Thỉnh Hòa thượng chỉ dạy.
+Tăng thưa: Thỉnh Hòa thượng chỉ dạy.
 
-Triệu Châu nói:
-– Tân La! Tân La!
+Triệu Châu nói: Tân La! Tân La!
 
-Lâm Tuyền nói:
-– Khi chưa nháy mắt thì được tám trăm. Chỗ định mở miệng thì cách xa ba ngàn.
+Lâm Tuyền nói: Khi chưa nháy mắt thì được tám trăm. Chỗ định mở miệng thì cách xa ba ngàn.
 
 Triệu Châu chỉ dạy rõ ràng, mới tin Vân Cư có truyền huyền diệu.
 Lại xem ngài Đầu Tử đặc biệt dùng gì để nấu trà điểm tâm.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Thấy Tăng đến, hỏi từng đến chưa,
+> Thấy Tăng đến, hỏi từng đến chưa,
 Có người đến rồi, lại bay không đến.
 
 Đều mời uống trà, thật lòng trân trọng,
 Mây xanh thẫm đổi, rêu xanh hay biết.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
 
 Cổ Phật Triệu Châu ở giữa chốn phàm phu,
 trước nhân ngã, trong ruộng bằng ít cỏ,
@@ -179,28 +152,6 @@ Chỉ vì tối sáng, màu sắc thay đổi,
 một câu thiên viên làm sao nói hết?
 
 Đợi uống trà xong sẽ nói với ông.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
 
 
 <hr class="blog-rule" />

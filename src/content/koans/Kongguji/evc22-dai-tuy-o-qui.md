@@ -14,36 +14,31 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng:
 Tuy gặp nhau nói chuyện, nhưng ngại người bên cạnh cười.
 Thôi, chớ có khoe khoang “hiểu tâm biết bụng”, đều chỉ là thấy cảnh sanh tình.
 Lại bỏ hết được chăng?
 
-BẢN TẮC
+## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử cử: Hòa thượng Đại Tùy đang đi với một vị Tăng, thấy một con rùa.
-Tăng hỏi Ngài:
-– Tất cả chúng sanh da bọc xương, vì sao chúng sanh này xương bọc da?
+📢 Ngài Đầu Tử cử:
 
-Ngài để giày cỏ trên lưng con rùa.
+>  Hòa thượng Đại Tùy đang đi với một vị Tăng, thấy một con rùa.
+> 
+>  Tăng hỏi Ngài: **Tất cả chúng sanh da bọc xương, vì sao chúng sanh này xương bọc da?**
+>
+>  Ngài để giày cỏ trên lưng con rùa. Vị Tăng không đáp được.
 
-Vị Tăng không đáp được.
+## BÌNH XƯỚNG
 
-BÌNH XƯỚNG
+📢 Ngài Đầu Tử nói:
 
-Ngài Đầu Tử nói:
 Thiền sư Pháp Chơn ở Đại Tùy, Ích Châu, nối pháp Thiền sư Đại An Trường Khánh. Ban đầu, Sư đến yết kiến Dược Sơn, Đạo Ngô, Vân Nham, Động Sơn. Sau, Sư đến pháp hội Ngài Đại Qui ở Ngũ Lĩnh nhiều năm. Ăn chẳng mong no, ngủ chẳng cầu ấm, hành khổ hạnh vốn chất phác hơn người. Đại Qui thầm khen là bậc pháp khí.
 
-Một hôm, Ngài hỏi:
-– Xà Lê ở trong hội Lão Tăng chưa từng hỏi một chuyển ngữ nào.
+Một hôm, Ngài hỏi: Xà Lê ở trong hội Lão Tăng chưa từng hỏi một chuyển ngữ nào.
 
-Đại Tùy thưa:
-– Bảo con hỏi điều gì?
+Đại Tùy thưa: Bảo con hỏi điều gì?
 
-Đại Qui nói:
-– Sao không hỏi thế nào là Phật?
+Đại Qui nói: Sao không hỏi thế nào là Phật?
 
 Đại Tùy đưa tay làm thế bịt miệng Đại Qui.
 
@@ -57,17 +52,18 @@ Vị quan đứng đầu đất Thục rất kính phục. Nhiều lần sai s�
 
 Một hôm, có vị Tăng ở am bên cạnh thấy một con rùa, nên hỏi Sư như văn dẫn trên. Sư để giày cỏ trên lưng rùa. Phải biết tông sư tùy cơ trả lời, phá trừ vọng mê, rõ tâm, thấy tánh. Không phải trói buộc người bằng ngôn từ. Chưa biết Ngài Đầu Tử làm sao nói được chỗ hội.
 
-TUNG CỔ
+## TỤNG CỔ
 
-Một nhà có việc, trăm nhà lo.
-Xuân về hơi ấm, cỏ xanh tươi.
+> Một nhà có việc, trăm nhà lo.
+> Xuân về hơi ấm, cỏ xanh tươi.
+>
+> Trăng tỏ đầu non, khe Tây sáng.
+> Cúc tàn còn đợi tiết Trùng Dương.
 
-Trăng tỏ đầu non, khe Tây sáng.
-Cúc tàn còn đợi tiết Trùng Dương.
+## BÌNH XƯỚNG
 
-BÌNH XƯỚNG
+📢 Ngài Lâm Tuyền nói:
 
-Ngài Lâm Tuyền nói:
 Nếu theo nhân định quả, theo nghiệp thọ sanh: vảy, cánh, da, lông, thai, noãn, thấp, hóa – phân loại rõ ràng. Điều này đều do mê chơn chấp vọng, sanh ra tưởng điên đảo. Chẳng ngộ gốc không, cho nên chịu luân hồi. Xem khắp tất cả chúng sanh chìm đắm trong sanh tử, đâu chỉ trăm nhà mà thôi!
 
 Đức Thế Tôn dùng vô duyên từ, phát khởi lòng đại bi. Ban rải tâm từ, nuôi lớn mầm chủng tử, làm cho tâm hoa khai phát, quả trí viên thành. Phóng ánh sáng từ ái, chiếu trời soi đất, thấu cổ vượt kim.
@@ -77,29 +73,6 @@ Bắt đầu từ kiếp không, lúc Phật chưa ứng hiện, tánh biển v�
 Kẻ ngốc!
 Đâu chỉ thời nay mắc lỗi lầm.
 Nên biết về sau thật khó gặp.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

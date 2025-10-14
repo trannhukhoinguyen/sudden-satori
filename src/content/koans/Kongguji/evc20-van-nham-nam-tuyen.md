@@ -14,31 +14,31 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng:
 “Đường hẹp tối tăm, khiến cho khách lữ hành vất vả trong đêm. Cửa huyễn diệu khóa bằng vàng, thiện tăng lại đánh mất niềm tin. Có ai từng bị đóng nêm sắt mà biết đau chăng?”
 
-BAN TẮC
+## CỬ - BẢN TẮC:
 
-Ngài Đạo Ngô cùng Vân Nham đến yết kiến Nam Tuyền.
-Nam Tuyền hỏi:
-– Xá-lợi tên gì?
-Đạo Ngô thưa:
-– Tông Trí.
-Nam Tuyền hỏi tiếp:
-– Chỗ Trí không thể đến được, nếu nói ra thì chẳng phải mọc sừng sao?
+📢 Ngài Đầu Tử cử:
 
-Ba hôm sau, Nam Tuyền lại hỏi Tông Trí:
-– Hôm rồi sư cùng Vân Nham may vá áo quần sau Tăng đường phải chăng?
-Đạo Ngô thưa:
-– Không biết.
-Nam Tuyền nói:
-– Chỗ Trí không đến được cũng nói tới. Nếu đã nói thì chẳng phải mọc sừng sao? Vậy nên hiểu thế nào?
+> Ngài Đạo Ngô cùng Vân Nham đến yết kiến Nam Tuyền.
+
+Nam Tuyền hỏi: Xá-lợi tên gì?
+
+Đạo Ngô thưa: Tông Trí.
+
+Nam Tuyền hỏi tiếp: Chỗ Trí không thể đến được, nếu nói ra thì chẳng phải mọc sừng sao?
+
+Ba hôm sau, Nam Tuyền lại hỏi Tông Trí: Hôm rồi sư cùng Vân Nham may vá áo quần sau Tăng đường phải chăng?
+
+Đạo Ngô thưa: Không biết.
+
+Nam Tuyền nói: Chỗ Trí không đến được cũng nói tới. Nếu đã nói thì chẳng phải mọc sừng sao? Vậy nên hiểu thế nào?
 
 Đạo Ngô bèn lui vào Tăng đường.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử nói:
 
 Thiền sư Tông Trí tức Đạo Ngô Đàm Châu, người Dụ Chương. Hải Hội, Trường Nương, Hòa thượng Bàn Sơn đều kính phục. Sau đến pháp hội Dược Sơn, Sư được thâm tâm ấn chứng.
 
@@ -79,14 +79,16 @@ Lại nói:
 
 Nếu muốn hỏi đến tận gốc lời, thì phải vào cảnh đập vỡ, lụt tràn. Lời có cạn sâu, đạo vốn căn bản. Đầu Tử ắt sẽ rõ biết.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Dưới mây mịt nhận lại xưa cốt,
+> Dưới mây mịt nhận lại xưa cốt,
 Bao kẻ tìm cầu vẫn chưa thấu triệt.
 Trăng sáng mặc cho mây che phủ,
 Tùng xanh chẳng quên bóng bạch vân.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
 
 Ngài Từ Thọ giảng Kinh Hoa Nghiêm rằng: “Phương dưới, cuộc cùng; tại Giới Quang Biến Chiếu, soi khắp bốn bề, hiện đủ. Thế giới Quang Biến Chiếu, sáng lập ẩn hiện trên mây trời.”
 
@@ -97,30 +99,6 @@ Một hôm, có người hỏi: “Quang phản chiếu, liệu có đạt chân
 Một mai, trăng mây thay đổi vẫn không quên lãng.
 Ngọn tùng gốc cội vẫn bóng dài trên cánh đồng.
 Có duyên chớ vội nhận hương sắc mười phương khi cầu chứng.
-Đợi mây tan, mới thấy anh em xưa.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

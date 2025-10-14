@@ -7,7 +7,7 @@ categories:
   - Luận
 tags:
   - Kinh Lăng Già
-image: /images/backgrounds/unknown-zen-master-on-sea.webp
+image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 ---
 
 ### Tại sao gọi là Kinh Lăng Già?

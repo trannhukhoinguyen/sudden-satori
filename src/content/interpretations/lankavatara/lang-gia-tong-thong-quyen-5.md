@@ -8,7 +8,7 @@ categories:
 tags:
   - Kinh Lăng Già
   - Tông Thông
-image: /images/backgrounds/unknown-zen-master-on-sea.webp
+image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 videoId: gCmsqTHDxnM
 ---
 
