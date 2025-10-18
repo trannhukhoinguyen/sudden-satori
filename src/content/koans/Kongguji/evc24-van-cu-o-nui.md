@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS VÂN CƯ ĐẠO ƯNG
 image: /images/koans/great-wave.webp
 ---
 
@@ -22,8 +22,8 @@ Thế nên phải nhìn chăm chăm vào. Có lẽ có nguyên nhân, sợ y kh�
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi ngài Vân Cư: Gia phong Hoàng Giác thế nào?
-Hoàng Giác nói: Ở núi tốt.
+> Tăng hỏi ngài Vân Cư: **Gia phong Hoàng Giác thế nào?**.
+Hoàng Giác nói: **Ở núi tốt**.
 
 ## BÌNH XƯỚNG
 
@@ -69,7 +69,6 @@ Nếu đến được chỗ vô tâm thì không cần ẩn dật nữa.
 Hội được như thế mới thích hợp chút ít. Nếu chưa được thì phải vượt qua gò nam, đôi bậc ngồi trên đỉnh đầu. 
 Nếu chưa vượt được đỉnh điểm này, thì không biết ngài Đầu Tử dạy chúng ta an thân lập mạng thế nào.
 
-
 ## TỤNG CỔ
 
 > Cao ngất trời xanh trời xanh,
@@ -105,4 +104,4 @@ Muốn tìm đúng thôi, thôi chẳng đến.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Yunju-Daoying" target="_blank">🔗 TS VÂN CƯ ĐẠO ƯNG</a>

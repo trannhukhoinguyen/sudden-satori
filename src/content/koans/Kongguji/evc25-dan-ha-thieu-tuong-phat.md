@@ -6,7 +6,8 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS ĐAN HÀ TỬ THUẦN
+  - TS ĐƠN HÀ TỬ THUẦN
 image: /images/koans/great-wave.webp
 ---
 
@@ -107,4 +108,4 @@ Tiếc thay bỉ mày mê lần lượt che.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Danxia-Zichun" target="_blank">🔗 TS ĐAN HÀ TỬ THUẦN</a>
