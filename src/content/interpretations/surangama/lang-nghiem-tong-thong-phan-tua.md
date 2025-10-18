@@ -39,8 +39,9 @@ videoStart: 1071
 
 ### Duyên khởi của Kinh Lăng Nghiêm Tông Thông
 
-🖌 Đề tựa: _Núi Nam Nhạc, Quan Trương Kim Giản tên là <b>Tăng Phụng Nghi</b>, Thuấn Trưng Phụ_
-
+<fieldset style="margin-block: 8px">
+<legend><h4>🖌 Đề tựa: _Núi Nam Nhạc, Quan Trương Kim Giản tên là <b>Tăng Phụng Nghi</b>, Thuấn Trưng Phụ_</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
 Xưa, Ngài Thiên Thai **Trí Giả** theo học Đạo thiền sư Huệ Tư ở núi Nam Nhạc, đắc Pháp Hoa Tam Muội, thấy được pháp hội Linh Sơn nghiễm nhiên chưa tan.
 Từ đó xem Kinh, Luật hoát nhiên thông suốt.
 Đến khi Ngài giải thích ý nghĩa sáu Căn trong sạch trong kinh Pháp Hoa thì trầm ngâm rất lâu.
@@ -50,57 +51,60 @@ Từ đó, ngài **Trí Giả** khao khát ngưỡng mộ. Suốt 16 năm, mỗi
 Phía trái chùa Thiên Thai ở núi Nam Nhạc vẫn còn Đài Kinh. Sau Ngài hơn một trăm năm, kinh Lăng Nghiêm mới vào Trung Quốc.
 
 Kinh do Tể Tướng **Phòng Dung** ghi chép, văn tự tao nhã, bởi thế các bậc học sĩ đại phu đều tụng kinh này.
-Tôi từng ba lần đến bái Kinh Đài, lần nào cũng bồi hồi chẳng muốn về, thầm than: 
+Tôi từng ba lần đến bái Kinh Đài, lần nào cũng bồi hồi chẳng muốn về, thầm than:
 “Người xưa ngưỡng mộ kinh này hơn mười mấy năm mà chẳng được thấy.
 Nay Lăng Nghiêm bày đầy thì người ta lại chẳng hề xem! Tại sao thế ?”.
 Nhân đó, tôi bèn phát tâm viết bộ Lăng Nghiêm lên đá, thuê thợ chạm rồi xếp thành một tòa thạch thất, khiến người đến viếng bái Kinh Đài sẽ đọc được mà đều nói: Kinh đã đến đây rồi
 
 Như là vì ngài **Trí Giả** mà bổ sung cho một sự thiếu sót.
 Vừa cầm bút định viết, chợt nghĩ: chỗ ta viết đây là chữ, chẳng phải là nghĩa vậy!
-Ngài **Trí Giả** mong bộ Kinh này đến đây là mong người người hiểu nghĩa của Kinh. 
+Ngài **Trí Giả** mong bộ Kinh này đến đây là mong người người hiểu nghĩa của Kinh.
 
 Như Ngài Huyền Sa Sư Bị, nhân đọc Lăng Nghiêm mà phát minh tâm yếu, đó là thâm nhập vào nghĩa vậy.
 Cho đến thiền sư Linh Nham An, Trường Thủy Tuyền, Trúc Am Khuê, Hoàng Long Nam, Thiệu Long An Dân... đều do Lăng Nghiêm mà ngộ.
 Như vậy là các Ngài đã không cô phụ sự truyền sang của bộ kinh này.
 Nếu theo văn mà giải nghĩa, chú thích câu chữ, đến mấy mươi nhà mà nghĩa kinh càng ngày càng xa, đó là lỗi lầm do chẳng cầu ở tâm mình.
 Nếu tỏ ngộ tự tâm, thì tuy là kinh này chưa đến, mà chỗ y giáo lập nghĩa của ngài **Trí Giả**, mỗi mỗi đều hợp với Lăng Nghiêm.
-Không ngộ được tự tâm, tuy là có kinh Lăng Nghiêm trước mặt, thì cũng như kinh ở tại Ấn vậy. 
+Không ngộ được tự tâm, tuy là có kinh Lăng Nghiêm trước mặt, thì cũng như kinh ở tại Ấn vậy.
 Tức là kinh điển đầy nhà mà nào có ích!
 Việc nhà của các thiền sư là quét sạch văn tự kiến giải cho là chẳng đủ để sùng thượng, thật có lý lắm thay!
 Nhưng khi tiếp dẫn hàng sơ cơ, xuất lời thổ khí, lời lẽ ý tứ thật tợ Lăng Nghiêm.
 Cho đến sự phát minh hướng thượng, chứng nhập Bồ Đề, thì cùng với hai mươi lăm chỗ chứng viên thông, cơ duyên không khác.
-Tức là chẳng tụng Lăng Nghiêm, mà Lăng Nghiêm đã sẵn đủ hiện giờ. 
+Tức là chẳng tụng Lăng Nghiêm, mà Lăng Nghiêm đã sẵn đủ hiện giờ.
 Tức là Lăng Nghiêm chưa đến cõi này, mà cõi này chẳng phải là chưa có Lăng Nghiêm.
 
 Tôi chẳng biết tự lượng sức, góp khắp lời của Tông Môn, phối hợp vào kinh văn.
-Hoặc để thầm hợp, hoặc để cùng thấy, hoặc suy rộng ý kinh, hoặc bày tỏ chỗ chưa bày tỏ. 
+Hoặc để thầm hợp, hoặc để cùng thấy, hoặc suy rộng ý kinh, hoặc bày tỏ chỗ chưa bày tỏ.
 Tôi cũng không ngờ mình làm nổi.
 Trong khoảng trời đất làm sao có được thứ nghị luận này. Âu cũng do túc nguyện nhiều đời vậy.
 
-Đây là tôi nhờ các vị Lão Túc để làm rõ nghĩa kinh chứ chẳng phải tự do tôi, và lấy Thiền Tông để soi sáng kinh chớ chẳng phải lấy văn tự kiến giải mà giảng. 
-Bèn đặt tên là Tông Thông [^1]. Tông Thông cùng với Thuyết Thông. 
-Phải tự đắc Bản Tâm thì mới cùng với các bậc Lão Túc mặc áo gặp nhau. 
+Đây là tôi nhờ các vị Lão Túc để làm rõ nghĩa kinh chứ chẳng phải tự do tôi, và lấy Thiền Tông để soi sáng kinh chớ chẳng phải lấy văn tự kiến giải mà giảng.
+Bèn đặt tên là Tông Thông [^1]. Tông Thông cùng với Thuyết Thông.
+Phải tự đắc Bản Tâm thì mới cùng với các bậc Lão Túc mặc áo gặp nhau.
 Chẳng những một hội Lăng Nghiêm nghiễm nhiên chưa tan, mà ngài **Trí Giả** đến nay cũng vẫn còn đó.
 
 Bài văn tán ngợi rằng:
 
 > Sáu vạn ba ngàn lời mười trang
-
+>
 > Giáo, Hạnh, Lý; Không, Giả, Trung quán
-
+>
 > Viên thông Hoa tạng Tín Hạnh giải
-
+>
 > Chứng rồi Định Huệ xứ Niết Bàn
-
+>
 > Phá Vọng hiển Chân, Chân Nhất thật
-
+>
 > Phản văn nung Ấm, Ấm tiêu tan
-
+>
 > Tội lỗi vô minh mười phương ngục
-
+>
 > Tội ấy băng tiêu, tọa Phật tràng
 
 **_Nam mô Lăng Nghiêm Hội Thượng Chư Phật, Chư Đại Bồ Tát, Chư Thánh Hiền Tăng!!!_**
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
 
 Tông Thuyết cu thông, nghiã là đạo lý nói ra đều là tự tại suốt thông. 
 Có câu: Tông Thông là Thuyết Thông vậy.
@@ -110,7 +114,7 @@ Có câu: **Tông Thuyết cu thông làm bậc Đại Tông Sư.**
 
 ✨ Tổ Đình Sự Vân Thất nói: **Tổ Thanh Lương nói rằng Tông Thông là tự mình tu hành. Thuyết Thông chỉ bậc chưa tỏ ngộ.**
 
-✨ Kinh lăng Già: **Phật dạy Ông Đại Huệ : Tất cả Thanh Văn, Duyên Giác, Bồ Tát có hai giống thông tướng. Gọi là Tông Thông, Thuyết Thông.**
+✨ Kinh lăng Già: **Phật dạy Ông** Đại Huệ**: Tất cả Thanh Văn, Duyên Giác, Bồ Tát có hai giống thông tướng. Gọi là Tông Thông, Thuyết Thông.**
 
 ✨ Đông Chú nói: **Tông ấy là gốc của Đạo. Thuyết ấy là dấu tích của pháp giáo.**
 
@@ -148,7 +152,7 @@ Cũng gọi là Quán Đảnh Chương Cú, Chư Bồ Tát Vạn Hạnh, Thủ L
 Bởi vì Phật Đảnh thần chú, tức là mười phương Phật Mẫu Đà La Ni Chú, tức là Quán Đảnh Chương Cú, tức là độ thoát A Nan và Tỳ kheo ni Tánh, do đó khỏi lập lại. Chú này là Ma Ha Tát Đát Đa Bát Đát Ra, dịch là Đại Bạch Tán Cái, là cái Lọng Trắng Lớn Che Trùm. Ròng trắng phau trong sạch, trùm che hết thảy, nên gọi là lớn. Đại Phật Đảnh thần chú này, chẳng thể nghĩ bàn, mới gọi là Nhân Địa Bí Mật của Như Lai, cái Liễu Nghĩa của Tu Chứng. Vạn Hạnh của Bồ Tát do đây mà sẵn đủ, nên cả thảy rốt ráo bền chắc vậy. Pháp có thể Tiệm mà không thể Đốn, thì không thể gọi là Đại. Có thể Đốn mà không thể Viên, thì cũng không gọi là Đại (lớn) được. Nay nói là Mật, là Liễu, tức là đã gồm nghĩa Đốn. Nói là Tu Chứng, nói là Vạn Hạnh là ngầm nghĩa Viên. Duy cái pháp môn Viên Đốn nầy, cùng với Đại Phương Quảng Phật Hoa Nghiêm Kinh và Diệu Pháp Liên Hoa Kinh, không khác. Từ Thập Tín, Thập Trụ, Thập Hạnh, Thập Hồi Hướng cho đến Diệu Giác là đã bao gồm trong Hoa Nghiêm; còn Nhĩ Căn Viên Thông trọn cùng phẩm Phổ Môn tương ứng. Gồm đủ chỉ thú của hai bộ kinh trên, kinh Lăng Nghiêm thật rộng lớn biết bao!
 
 Chưa ngộ, thì chuyển: Cái chẳng có Sanh Diệt thành ra: Cái Sanh Diệt, tức chẳng phải Liễu Nghĩa. 
-Ngộ rồi, thì chuyển: Cái Sanh Diệt thành ra: Cái Chẳng Có Sanh Diệt, tức là: Hết Thảy Rốt Ráo Kiên Cố. Cho nên, một đường đi lên , không ngộ thì không được. Thế thì Chú và Ngộ liên quan thế nào, Ngộ và Chú quan hệ với nhau ra sao, mà đều cũng gọi là Đại Phật Đảnh? Chú không thể nghĩ bàn, Ngộ cũng không thể nghĩ bàn. Chú tức là cảnh giới của Ngộ, Ngộ tức là cảnh giới của Chú. Đây là chỗ: Ngôn Ngữ Đạo Đoạn, Tâm Hành Xứ Tuyệt, thấy do lìa cái Thấy, thì cái Thấy là siêu việt. Cho nên giữ cái Phật Đảnh, lìa cái Tướng Thấy của mình là vậy. Các dòng giống của Phật Đảnh, một phen vượt lên nhập thẳng vào, đó là pháp môn cực tôn cực quý vậy. Hiệp Luận đặt tên là Tôn Đảnh vì lẽ này.
+Ngộ rồi, thì chuyển: Cái Sanh Diệt thành ra: Cái Chẳng Có Sanh Diệt, tức là: Hết Thảy Rốt Ráo Kiên Cố. Cho nên, một đường đi lên, không ngộ thì không được. Thế thì Chú và Ngộ liên quan thế nào, Ngộ và Chú quan hệ với nhau ra sao, mà đều cũng gọi là Đại Phật Đảnh? Chú không thể nghĩ bàn, Ngộ cũng không thể nghĩ bàn. Chú tức là cảnh giới của Ngộ, Ngộ tức là cảnh giới của Chú. Đây là chỗ: Ngôn Ngữ Đạo Đoạn, Tâm Hành Xứ Tuyệt, thấy do lìa cái Thấy, thì cái Thấy là siêu việt. Cho nên giữ cái Phật Đảnh, lìa cái Tướng Thấy của mình là vậy. Các dòng giống của Phật Đảnh, một phen vượt lên nhập thẳng vào, đó là pháp môn cực tôn cực quý vậy. Hiệp Luận đặt tên là Tôn Đảnh vì lẽ này.
 
 ❓ Có vị tăng hỏi Ngài Hoàng Bá rằng: _Vô Biên Thân Bồ Tát vì sao chẳng thấy Đảnh Tướng của Như Lai?_ 
 
@@ -974,16 +978,15 @@ Tổ Nham Đầu rằng: **Làm cái gì?**
 
 Ngài Tuyết Phong đáp: _Đời này chẳng lo xong thì gặp cái lão Văn Thúy ấy sẽ bị lão trói đấy. Ngày nay đã đến đây, vậy mà chỉ lo ngủ._
 
-Tổ Nham Đầu hét to: **Cây cột phướn, ngủ đi! Hằng ngày cứ ngồi như ông Thổ Địa trong làng rồi sau nầy đi làm nam nữ ma mị nhà người!**
+Tổ **Nham Đầu** hét to: **Cây cột phướn, ngủ đi! Hằng ngày cứ ngồi như ông Thổ Địa trong làng rồi sau nầy đi làm nam nữ ma mị nhà người!**
 
-Ngài Tuyết Phong tự chỉ vào ngực mà nói: _Tôi đây trong cái ấy chưa yên, chẳng dám tự dối mình_
+Ngài **Tuyết Phong** tự chỉ vào ngực mà nói: _Tôi đây trong cái ấy chưa yên, chẳng dám tự dối mình_
 
-Tổ Nham Đầu nói: 
-**Tôi sắp nói rằng ngày sau ông sẽ hướng lên đỉnh núi trơ trụi trên tảng đá kết thảo am, xiển dương đại giáo, sao ông lại nói như thế?**
+Tổ **Nham Đầu** nói: **Tôi sắp nói rằng ngày sau ông sẽ hướng lên đỉnh núi trơ trụi trên tảng đá kết thảo am, xiển dương đại giáo, sao ông lại nói như thế?**
 
-Ngài Tuyết Phong nói: _Tôi ở trong ấy quả thật không yên_
+Ngài **Tuyết Phong** nói: _Tôi ở trong ấy quả thật không yên_
 
-Tổ Nham Đầu nói: 
+Tổ **Nham Đầu** nói: 
 **Nếu ông thật như thế, thì cứ theo chỗ thấy của ông, mỗi mỗi nói ra hết đi. 
 Đúng, tôi sẽ chứng minh cho. 
 Không đúng, tôi sửa sang đẽo gọt cho.**

@@ -14,17 +14,23 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Khi nóng thì tìm mát chẳng có gì đặc biệt. Lúc lạnh tìm đến lửa cũng là việc bình thường. 
+Ở cõi tình phàm thánh đều quên, đâu cần luận bàn nhiều điều. 
+Có cớ gần mà họ không chịu, chỉ là chuốc họa vào thân chẳng?
 
-Ngài Đan Hà dạy chúng: Khi nóng thì tìm mát chẳng có gì đặc biệt. Lúc lạnh tìm đến lửa cũng là việc bình thường. Ở cõi tình phàm thánh đều quên, đâu cần luận bàn nhiều điều. Có cớ gần mà họ không chịu, chỉ là chuốc họa vào thân chẳng?
+## CỬ - BẢN TẮC:
 
-BẢN TẮC
+📢 Ngài Đầu Tử cử:
 
-Ngài Đầu Tử cử: Trời vào đông, Hòa thượng Đan Hà xin nghỉ một hôm tại Thiền Viện. Ngài thỉnh một tượng La Hán trong chánh điện đốt để sưởi. Viện chủ tức giận lông mày rơi rụng.
+> Trời vào đông, Hòa thượng Đan Hà xin nghỉ một hôm tại Thiền Viện.
+Ngài thỉnh một tượng La Hán trong chánh điện đốt để sưởi. Viện chủ tức giận lông mày rơi rụng.
 Ngài Đầu Tử niêm: Không biết phàm khách, làm phiền chủ nhân.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Đầu Tử dặn: Thiền sư Thiên Nhiên ở Đơn Hà, Đặng Châu. Ngày trước lúc còn học trò, khi vào Trường An dự thi. Sư dừng nghỉ tại một quán trọ, đêm ngủ mộng thấy hào quang trăng khắp nhà. Người đoán mộng bảo, đây là điềm lành hiếu được lý không.
+📢 Ngài Đầu Tử dẫn: 
+
+Thiền sư Thiên Nhiên ở Đơn Hà, Đặng Châu. Ngày trước lúc còn học trò, khi vào Trường An dự thi. Sư dừng nghỉ tại một quán trọ, đêm ngủ mộng thấy hào quang trăng khắp nhà. Người đoán mộng bảo, đây là điềm lành hiếu được lý không.
 
 Gặp một thiền khách hỏi Sư: Nhơn giả đi đâu?
 Đan Hà đáp: Đi thi làm quan.
@@ -60,16 +66,16 @@ Một niệm không sanh bản thể hiện.
 Sáu căn vừa động bị mây che.
 Chưa biết lúc này ai có thể thường nghiệm được.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Núi xưa rêu phủ, nhà lạnh câm.
+> Núi xưa rêu phủ, nhà lạnh câm.
 Bảy thí sợ nguy, chạy thí sợ lầm.
 Đêm khuya lạnh Đinh Châu núi lửa.
 Ngu đồng đầy muộn liền tụ ngồi.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói:
+📢 Ngài Lâm Tuyền nói:
 
 Nghìn non vắng bóng chim.
 Muôn dặm không bóng người.
@@ -90,29 +96,6 @@ Ban đêm dầu lâu trên mỏ vớn là nước.
 Bóng cung in trên trăng khách chẳng phải rắn.
 Trăng tăm tánh không không tròn khuyết.
 Tiếc thay bỉ mày mê lần lượt che.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 
