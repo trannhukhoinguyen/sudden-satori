@@ -14,22 +14,27 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Tranh mạnh, giành yếu đều thuộc phàm tình. 
+Mình nhường bước cho người, đó vẫn còn thành giải. 
+Có ai không tranh nhơn, ngài chăng?
 
+## CỬ - BẢN TẮC:
 
-Ngài Đan Hà dạy chúng: Tranh mạnh, giành yếu đều thuộc phàm tình. Mình nhường bước cho người, đó vẫn còn thành giải. Có ai không tranh nhơn, ngài chăng?
+📢 Ngài Đầu Tử cử:
 
-BẢN TẮC
+> Tăng hỏi Tào Sơn: Khi Đức Phật chưa xuất thế thì thế nào?
+> 
+> Tào Sơn đáp: Tào Sơn không bằng.
+>
+> Tăng hỏi: Sau khi xuất thế, thế nào?
+> 
+> Tào Sơn đáp: Không bằng Tào Sơn.
 
-Ngài Đầu Tử cử:
-Tăng hỏi Tào Sơn: Khi Đức Phật chưa xuất thế thì thế nào?
-Tào Sơn đáp: Tào Sơn không bằng.
+## BÌNH XƯỚNG
 
-Tăng hỏi: Sau khi xuất thế, thế nào?
-Tào Sơn đáp: Không bằng Tào Sơn.
+📢 Ngài Đầu Tử dẫn:
 
-BÌNH XƯỚNG
-
-Ngài Đầu Tử dẫn: Thiền sư Liễu Ngộ, Huệ Hạ ở Tào Sơn, Phủ Châu. Nói pháp ngài Tào Sơn Bổn Tịch.
+Thiền sư Liễu Ngộ, Huệ Hạ ở Tào Sơn, Phủ Châu. Nói pháp ngài Tào Sơn Bổn Tịch.
 
 Tăng hỏi khi bốn núi ép sát lại nhau thì thế nào?
 Tào Sơn đáp: Tào Sơn ở trong đó.
@@ -57,17 +62,21 @@ Vị Tăng này đã hỏi Phật xuất thế cùng chưa xuất thế chắc c
 
 Lại biết chăng, bên này bên kia đều được. Buông ra nắm lại đều do ông ta. Sợ y không tin thử hỏi ngài Đầu Tử thì biết rõ hơn.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Trăng ẩn núi xanh khí lành bao phủ.
+> Trăng ẩn núi xanh khí lành bao phủ.
 Ngô đồng, phượng ẩn nhìn không thấy.
 Vó cỏ ngựa đá lội trong đầm.
 Rồng đất kinh sợ đến Hải triều.
-
-Động Sơn nói: Chánh trung thiên
+>
+> Động Sơn nói: Chánh trung thiên
 Canh ba đầu đêm trăng sáng trước thềm,
 Chớ ngạc nhiên gặp nhau chẳng biết nhau.
 Âm thầm ôm giữ niềm hận cũ.
+
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
 
 Điều này thì phải biết rõ ranh giới kiếp không về trước. Khi thọ ngọc hoài thai thì chúng trốn thật kín. Vì thời đó tuyệt đối không có một bóng dáng ngọn núi nào. Đều là việc trong chánh vị. Chỉ mênh mông khí tốt mây lành giăng khắp.
 
@@ -80,28 +89,6 @@ Vó cỏ ngựa đá qua đầm lạnh. Rồng đất không thể chịu đư�
 Ba mươi hai tướng phân quá rõ ràng. Mười hai phần giáo mỗi hạnh sắp xếp. Trong cửa Phật sự không bỏ một pháp, cho đến giới tự nhiên họ đều thấy bình thường. Thế nên nói không bằng Tào Sơn.
 
 Lâm Tế nói: Tuy thế sau này nếu phân tích rõ ràng phải thận trọng, chớ sanh ra tính toán được, mất, hơn, thua. Nếu hiểu mà không để xuống ra được, thì mới biết rằng âm nhạc truyền tâm được.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
 
 
 <hr class="blog-rule" />

@@ -14,13 +14,19 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Trong lời có tiếng vang, chẳng phải người tri âm khó rõ. 
 
-Ngài Đan Hà dạy chúng: Trong lời có tiếng vang, chẳng phải người tri âm khó rõ. Trong câu trinh cơ, chỉ người đủ mắt có thể hiểu. Chớ bảo cha hiền từ con ngỗ nghịch. Vốn chẳng phải ẩn đoan tình quên, có người nào rảnh rỗi kiểm nghiệm chăng?
+Trong câu trinh cơ, chỉ người đủ mắt có thể hiểu. 
 
-BẢN TẮC
-Ngài Lâm Tuyền cử, Ngưỡng Sơn sáp thiêu.
+Chớ bảo cha hiền từ con ngỗ nghịch. 
 
-Ngưỡng Sơn lúc ở Qui Sơn làm trực tuệ, khi đi làm vẽ.
+Vốn chẳng phải ẩn đoan tình quên, có người nào rảnh rỗi kiểm nghiệm chăng?
+
+## CỬ - BẢN TẮC:
+
+📢 Ngài Đầu Tử cử:
+
+> Ngưỡng Sơn lúc ở Qui Sơn làm trực tuệ, khi đi làm vẽ.
 Qui Sơn hỏi: Từ đâu về.
 Ngưỡng Sơn đáp: Đi ruộng mới về.
 Qui Sơn hỏi: Ở trong ruộng có bao nhiêu người?
@@ -28,8 +34,11 @@ Ngưỡng Sơn cầm xẻng xuống đất khoanh tay đứng.
 Qui Sơn nói, hôm nay ở núi nam có nhiều người cắt cỏ.
 Ngưỡng Sơn nhổ xẻng ra đi.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói, buông ra thì càng nguy, thâu lại quá mau.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+> Buông ra thì càng nguy, thâu lại quá mau.
 
 Huyền Sa nói: Nếu ta gặp thì đạp nhào cái xẻng luôn.
 Lâm Tuyền nói: Cũng là nhịn cười không được.
@@ -58,15 +67,19 @@ Chẳng ngăn được nên mắng ông ta chìm lặng trong nước chết. H�
 
 Ông ta là một nạp tăng rất thông minh, vừa nhắc đến thì lập một mảy trần muôn cảnh đều tiêu mất. Linh qui kéo đuôi càng to đâm thêm dầu vết kia, làm cho Huyền Sa phải phân tích rõ, Cảnh Thanh bình luận, Vân Cư so sánh, Đầu Tử nhiều trần rối. Ở trong bài tung này tự biết ý đó.
 
-TỤNG CỔ
 
-Điềm hỏi Qui Sơn ít tri âm.
+## TỤNG CỔ
+
+> Điềm hỏi Qui Sơn ít tri âm.
 Đạp cầm xẻng xuống phạt tổ sâu kín.
 Huyền Sa đạp ngã còn chẳng chịu.
 Khởi cho xanh đậm đã ý xuân.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói: Hồng chung treo trên giá, mặc lúc đàn tiếng ngân. Gương sáng trên đài, tất cả xấu đẹp đều hiện rõ. Cho nên trong câu hỏi đã trả lời, trong câu đáp có câu hỏi. Thôi chớ bảo hiếm có người hỏi đáp, chớ nói không mấy người tri âm.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Hồng chung treo trên giá, mặc lúc đàn tiếng ngân. Gương sáng trên đài, tất cả xấu đẹp đều hiện rõ. Cho nên trong câu hỏi đã trả lời, trong câu đáp có câu hỏi. Thôi chớ bảo hiếm có người hỏi đáp, chớ nói không mấy người tri âm.
 
 Ngài Qui Sơn nhiều lần dùng phương thức này để tra hỏi biết rõ những Thiền sinh các nơi thiếu nghiệm.
 
@@ -89,27 +102,6 @@ Ngưỡng Sơn nói: Lông đèn đẹp.
 Qui Sơn nói: Đúng là không thấy.
 
 Qui Sơn, Ngưỡng Sơn hỏi đáp như thế, đâu chỉ một câu trong ruộng mà ít tri âm. Lúc đáp cầm xẻng xuống đất càng khéo tiếp cận. Cho nên Ngài Huyền Sa buông một câu làm vô số. Định cho một đạp ngã nhào, sợ nguyện vọng chính rơi vào công huân theo kịp ý xuân. Làm sao mà trúng khớp được, là phải nhớ được lời Nam Sơn, nhớ mãi không quên và báo ân.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
 
 
 <hr class="blog-rule" />

@@ -14,16 +14,21 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Thẳng đến cội nguồn, mục đích muốn nhân sinh mau hội. 
+Không lãng phí thời gian suy nghĩ chọn lựa, tìm cảnh. Có ai không động môi lưỡi nói được chăng?
 
+## CỬ - BẢN TẮC:
 
-Ngài Đan Hà dạy chúng: Thẳng đến cội nguồn, mục đích muốn nhân sinh mau hội. Không lãng phí thời gian suy nghĩ chọn lựa, tìm cảnh. Có ai không động môi lưỡi nói được chăng?
+📢 Ngài Đầu Tử cử:
 
-BẢN TẮC
-Ngài Đầu Tử cử, Tăng hỏi Hòa thượng Trùng Văn: Thế nào về nguồn được ý chỉ?
+> Tăng hỏi Hòa thượng Trùng Văn: Thế nào về nguồn được ý chỉ?
 Trùng Văn đáp: May mà quên mất, chẳng nhớ trần sanh.
 
-BÌNH XƯỚNG
-Ngài Đầu Tử dẫn: Thiền sư Trí Huy, Trùng Văn ở Kinh Triệu. Lúc còn nhỏ thích của Phật, quyết chí xuất gia, cha mẹ không thể ngăn cản được.
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử dẫn:
+
+Thiền sư Trí Huy, Trùng Văn ở Kinh Triệu. Lúc còn nhỏ thích của Phật, quyết chí xuất gia, cha mẹ không thể ngăn cản được.
 
 Sư lễ Thiền sư Khuê Phong Ổn xuất gia. Sau yết kiến Bạch Thủy lãnh ngộ được huyền chỉ, thâm thông chỗ chính yếu. Trở về lạc dương, Sư đến ở Trung Than sáng lập viện Ổn Thất, thường bố thí nước, cung cấp thuốc.
 
@@ -51,14 +56,18 @@ Sư thầm dò ý Trọng Văn, Trọng Văn không bàn luận mà nhất trí 
 
 Nếu vị Tăng này còn nhắc việc thế sự. Có thể trước lúc cha mẹ chưa sanh chân đã sa vào hầm hố nào? Sợ y không tin, hãy xem ngài Đầu Tử giải thuyết.
 
-TỤNG CỔ
-Nhà tan người mất nương chốn nào.
+## TỤNG CỔ
+
+> Nhà tan người mất nương chốn nào.
 Không tâm không tịnh tìm về chi.
 Mười năm quên hết đường xưa đến.
 Tạm nhớ phần nào đều không biết.
 
-BÌNH XƯỚNG
-Ngài Đầu Tử cử: Tăng hỏi Lạc Phố. Khi học nhơn định trở về quê hương thì thế nào?
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Tăng hỏi Lạc Phố. Khi học nhơn định trở về quê hương thì thế nào?
 Lạc Phố đáp: Nhà tan, người mất ông về chỗ nào?
 Tăng thưa: Như thế thì con không về.
 
@@ -75,28 +84,6 @@ Gió nhẹ thổi từng rậm,
 Tiếng nghe gần càng hay.
 Dưới có người đầu bạc,
 Không lo vó ngựa trùng.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
 
 
 <hr class="blog-rule" />

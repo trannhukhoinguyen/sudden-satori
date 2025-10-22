@@ -14,9 +14,10 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Ngài Đan Hà dạy chúng: Gian xảo chẳng phải kẻ lừa dối. Tráng sĩ không phải là người ức hiếp. Chớ có hiển bày tài năng, đừng có khoe khoang, thảy đều bị Ngài Lâm Tuyền khám phá. Có đảm tự nhiên như không có ai bên cạnh mình được chăng?
+Gian xảo chẳng phải kẻ lừa dối. Tráng sĩ không phải là người ức hiếp. 
+Chớ có hiển bày tài năng, đừng có khoe khoang, thảy đều bị Ngài Lâm Tuyền khám phá. 
 
-Ngài Đầu Tử cử thoại Triệu Châu khám phá bà già.
+Có đảm tự nhiên như không có ai bên cạnh mình được chăng?
 
 ## CỬ - BẢN TẮC:
 

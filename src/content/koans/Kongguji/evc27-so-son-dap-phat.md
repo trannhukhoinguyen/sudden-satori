@@ -14,16 +14,23 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+32 tướng đắp vẽ khó thành. 
+80 vẻ đẹp tô điểm chẳng được. 
+Giống như cầu xin người khác, không bằng nương tựa chính mình. 
+Có ai nhận được điều này chăng?
 
+## CỬ - BẢN TẮC:
 
-Ngài Đan Hà dạy chúng: Ba mươi hai tướng đắp vẽ khó thành. Tám mươi vẽ đẹp tố điểm chẳng được. Giống như cầu xin người khác, không bằng nương tựa chính mình. Có ai nhận được điều này chăng?
+📢 Ngài Đầu Tử cử:
 
-BẢN TẮC
-Ngài Đầu Tử cử: Tăng hỏi Ngài Sơ Sơn thế nào là Phật?
+> Tăng hỏi Ngài Sơ Sơn thế nào là Phật?
 Sơ Sơn đáp: Sao ông không hỏi Lão Tăng.
 
-BÌNH XƯỚNG
-Ngài Đầu Tử dẫn: Thiền sư Uông Nhơn ở Sơ Sơn, Phủ Châu, người Tầm Can. Sư lễ Thiền sư Nguyên Trừng ở Bổn Châu xuất gia. Một hôm, Sư xin phép thầy đến Đông Đô học tập kinh điển. Chưa được bao lâu sư than rằng: Tìm kiếm trên văn tự không lợi ích. Nói không bằng im lặng, bỏ mình theo người, giả chẳng bằng chơn.
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử dẫn:
+
+Thiền sư Uông Nhơn ở Sơ Sơn, Phủ Châu, người Tầm Can. Sư lễ Thiền sư Nguyên Trừng ở Bổn Châu xuất gia. Một hôm, Sư xin phép thầy đến Đông Đô học tập kinh điển. Chưa được bao lâu sư than rằng: Tìm kiếm trên văn tự không lợi ích. Nói không bằng im lặng, bỏ mình theo người, giả chẳng bằng chơn.
 
 Sư đến Ngài Động Sơn gặp buổi tham vấn. Sư thưa: Lúc chưa có lời, thỉnh thầy chỉ dạy.
 Động Sơn nói: Trả lời là theo sự yêu cầu của mọi người.
@@ -49,14 +56,18 @@ Phải nhìn rõ thật lý.
 
 Hội được như thế đâu cần tìm cầu bên ngoài, tự mình nhận lấy. Không nhọc công tìm nơi khác.
 
-TỤNG CỔ
-Đường tứ mối biết lòng tự cao cả.
+## TỤNG CỔ
+
+> Đường tứ mối biết lòng tự cao cả.
 Lời người thân với ý người ngoài nghi.
 Muốn tìm chỗ sông xanh sâu thẳm.
 Lặng nghe ngu già thì chẳng mê.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói: Lão quê gánh củi về nhà giúp vợ dệt vải. Hãy xem ông ta lo việc nhà, nói xem nương vào sức của ai.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Lão quê gánh củi về nhà giúp vợ dệt vải. Hãy xem ông ta lo việc nhà, nói xem nương vào sức của ai.
 
 Hỏi y không biết, trái lại còn nghi ngờ. Thường thay những người xưa, nay, được bao nhiêu người biết ân đức. Mong ông thông hiểu rõ biết. Chỉ nhờ một niệm không sai khác.
 
@@ -97,28 +108,6 @@ Lâm Tuyền nói: Một đôi chùy sắt khổng lồ, mặc cả mọi ngư�
 
 Muốn tiếng có tâm nghe không được,
 Núi vàng không tai lại biết nghe.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
 
 
 <hr class="blog-rule" />

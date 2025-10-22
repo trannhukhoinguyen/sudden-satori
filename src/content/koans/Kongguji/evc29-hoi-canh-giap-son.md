@@ -14,20 +14,25 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Trước cửa trúc biếc, gió ngâm, trăng hát. 
+Bên sàn tùng xanh, khinh sương, ngạo tuyết. 
+Chẳng bàn chuyện mắt thấy tai nghe, chỉ muốn cho tâm khai ý tỏ. 
+Có người nào lanh lợi chăng?
 
+## CỬ - BẢN TẮC:
 
-Ngài Đan Hà dạy chúng: Trước cửa trúc biếc, gió ngâm, trăng hát. Bên sàn tùng xanh, khinh sương, ngạo tuyết. Chẳng bàn chuyện mắt thấy tai nghe, chỉ muốn cho tâm khai ý tỏ. Có người nào lanh lợi chăng?
+📢 Ngài Đầu Tử cử:
 
-BẢN TẮC
-Ngài Đầu Tử cũ, Tăng hỏi ngài Giáp Sơn: Thế nào là cảnh Giáp Sơn?
+> Tăng hỏi ngài Giáp Sơn: Thế nào là cảnh Giáp Sơn?
 
 Giáp Sơn đáp:
 
 Vượn ôm con về sau núi xanh.
 Chim ngắm hoa rơi trước núi biếc.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói:
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
 
 Tâm không biết tâm,
 Thấy còn kẹt cảnh.
@@ -70,15 +75,16 @@ Chẳng những mở toang khóa thức của vị tăng này, mà còn xoay chu
 
 Còn lại để cho ngài Đầu Tử Thư Châu thay ông ta biện bạch.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Trăng tỏ tùng xanh hạc mộng say.
+> Trăng tỏ tùng xanh hạc mộng say.
 Mây xanh quê cũ linh đường ngủ.
 Núi tuyết vươn cao ngăn vách thẳng.
 Đêm khuya sương xuống mảng đã lên.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói:
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
 
 Tỏ trăng chim hạc dệt ngàn năm.
 Nhà tuyết người mê cọng một màu.
@@ -89,29 +95,6 @@ Chớ lo núi cao ngàn nhẫn tuyết ngập càng dày. Một lời tốt ly k
 
 Hạ bút thành văn đều là đúng,
 Chớ để trói nhốt hám thiết lửa.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

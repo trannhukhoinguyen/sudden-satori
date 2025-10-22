@@ -14,15 +14,22 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Tìm xa chẳng bằng tìm gần, uống phí tiền giày cỏ. 
 
-Ngài Đan Hà dạy chúng: Tìm xa chẳng bằng tìm gần, uống phí tiền giày cỏ. Thích hợp với giả dối không phù hợp chân thật. Uống công trả nợ khẩu nghiệp, đi thẳng vào chỗ ưa thích. Ai có thể nói được.
+Thích hợp với giả dối không phù hợp chân thật. 
 
-BẢN TẮC
+Uống công trả nợ khẩu nghiệp, đi thẳng vào chỗ ưa thích. Ai có thể nói được.
 
-Tăng hỏi Ngài Pháp Nhãn: Thế nào là Phật?
+## CỬ - BẢN TẮC:
+
+📢 Ngài Đầu Tử cử:
+
+> Tăng hỏi Ngài Pháp Nhãn: Thế nào là Phật?
 Pháp Nhãn đáp: Ông là Huệ Siêu.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử nói:
 
 Thiền sư Văn Ích ở viện Thanh Lương Kim Lăng, họ Lỗ, người Dư Hàng. Xuất gia với Thiền sư Toàn Vi Trí Thông ở Tân Định. Hai mươi tuổi thọ giới cụ túc ở chùa Khai Nguyên Việt Châu với luật sư Hy Giác.
 
@@ -33,29 +40,44 @@ Pháp Nhãn huyên cơ phát khởi các việc tập đều quên. Sư xuất h
 Sau Sư cùng Thiệu Tụ, Pháp Tiến ba người muốn xuống núi. Gặp mưa tuyết rơi nên xin nghỉ lại viện Địa Tạng, lúc đang ngồi sưởi ấm.
 
 Địa Tạng hỏi: Đến đây có việc gì?
+
 Pháp Nhãn đáp: Đi hành cước.
+
 Địa Tạng hỏi: Việc hành cước thế nào?
+
 Pháp Nhãn đáp: Không biết.
+
 Địa Tạng nói: Không biết là rất gần rồi.
+
 Ba người cùng đưa ra điềm đến của Triệu Luận trời đất đồng gốc vạn tòa.
 
 Địa Tạng nói: Núi sông đất liền với chính Thượng tọa là hay là khác.
+
 Pháp Nhãn đáp: Khác.
+
 Địa Tạng đưa hai ngón tay.
+
 Pháp Nhãn đáp: Đồng.
+
 Địa Tạng lại đưa hai ngón tay liền đứng dậy.
 
 Đến khi tuyết hết rơi từ giã ra đi.
 Địa Tạng đưa ra câu hỏi: Bình thường Thượng tọa nói ba cõi do tâm. Muôn pháp chỉ có thức.
+
 Địa Tạng chỉ phiến đá trước sân nói: Thử nói xem phiến đá này ở trong tâm hay ở ngoài tâm?
+
 Pháp Nhãn đáp: Ở trong tâm.
+
 Địa Tạng nói: Người đi hành cước lý do gì mà để phiến đá trong tâm.
 
 Pháp Nhãn lúng túng không đáp được. Bèn buông dứt cầu xin dứt trừ nghi hoặc. Gần một tháng, hằng ngày trình kiến giải nói đạo lý.
 
 Địa Tạng bảo: Phật pháp không phải như thế.
+
 Pháp Nhãn thưa: Con lời cùng lý tận.
+
 Địa Tạng nói: Nếu luận về Phật pháp tất cả đều hiện thành.
+
 Pháp Nhãn đại ngộ ngay lời này.
 
 Nhờ đề nghị ở lại, Pháp Tiến cùng Sư nhằm vào tung lâm Giang Biểu muốn đạo thường ngoạn khắp nơi, Pháp Nhãn cùng đi.
@@ -64,7 +86,7 @@ Nhờ đề nghị ở lại, Pháp Tiến cùng Sư nhằm vào tung lâm Giang
 
 Một hôm Pháp Nhãn sau khi luận đạo với Lý Vương cùng đi ngắm hoa mẫu đơn. Vương bảo Sư làm kệ, Sư làm phú rằng:
 
-Áo lông dối rừng hương.
+> Áo lông dối rừng hương.
 Nguyên nhân chỉ hương chẳng đồng.
 Từ hôm nay tóc bạc.
 Hoa năm xưa vẫn hồng.
@@ -77,20 +99,24 @@ Vương đốn ngộ ngay ý này, từ đấy trung hưng đại pháp xiển d
 
 Vị Tăng này bấy giờ hỏi: Thế nào là Phật? Thật giống như hoa bên đường, thế nên Pháp Nhãn đáp rằng, ông là Huệ Siêu, giống như thấy trời trong đồng. Tuy là phong cảnh không gian ấy thật tuyệt, nếu không đủ con mắt biết pháp, thọ trai rồi giống như chua thọ trai. Cần phải chứng ngộ chơn lý rõ ràng, phải là một phen thân chứng.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Đi đường hiểm phải hỏi sự khó ấy.
+> Đi đường hiểm phải hỏi sự khó ấy.
 Có người chỉ nhặt thôn nam bắc.
 Trường An biết bao người qua lại.
 Mấy ai không linh qua được cửa.
 
-Ngài Lâm Tuyền nói: Đạo luôn hiện hữu, hành đạo là do người. Phật cũng như vậy, ngộ được cũng chính mình, người đạt được đạo thì con đường xưa rộng thênh thang, làm điều gì thấy đều đúng. Người không đạt được biết bao đường căn rờ sai khác, tất cả đều trở thành sai lạc.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Đạo luôn hiện hữu, hành đạo là do người. Phật cũng như vậy, ngộ được cũng chính mình, người đạt được đạo thì con đường xưa rộng thênh thang, làm điều gì thấy đều đúng. Người không đạt được biết bao đường căn rờ sai khác, tất cả đều trở thành sai lạc.
 
 Nếu không buông bỏ tình thức khiêm cung thừa hỏi nguyên nhân, thì làm sao không lạc vào chốn vách núi bao quanh bị hủy diệt trong ấy. Đâu cần chi đông nói tây đem nam làm bắc. Nói chung đường Trường An mọi người đều đến, đến được gia sơn trong vạn người không được một.
 
 Ai không phiêu bạt gian khổ bỏ cha chạy trốn, không biết tự quí trọng mình. Ai tham châu báu nhà người, một hôm vọng tình tan biến chọn trí hiện tiền, vừa chiếu soi lại liền đồng bổn đắc. Ông há không nghe Phó Đại Sĩ ở Song Lâm tụng rằng:
 
-Đêm đêm ôm Phật ngủ
+> Đêm đêm ôm Phật ngủ
 Ngày ngày đi với Phật.
 Đứng ngồi vẫn bên nhau
 Nói nín cùng ở chung.
@@ -100,28 +126,6 @@ Muốn biết chỗ Phật đi
 Chỉ là những lời này.
 
 Tùy nhiên như thế có mấy người thông minh qua được cửa này. Lại tịnh được chửa. Thời nay nếu không nghiên cứu cội nguồn, thì phải đợi đến ngày sau hỏi ngài Di Lặc.
-
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

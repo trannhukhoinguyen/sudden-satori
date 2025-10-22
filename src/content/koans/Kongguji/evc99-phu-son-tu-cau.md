@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-> Ngài Đan Hà dạy chúng: Đèn đèn tiếp nối chiếu thông xưa nay. 
+> Đèn đèn tiếp nối chiếu thông xưa nay. 
 > Đời đời danh thơm bao phủ ánh sáng mặt trời. 
 > Như muốn biết cội gốc, chỉ trừ thấy tánh biết tâm. 
 > Muốn biết nguyên nhân, thì phải nghiên cứu cùng tột, có nói được chăng?

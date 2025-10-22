@@ -30,8 +30,8 @@ image: /images/koans/great-wave.webp
 > 
 > Đầu Tử đáp: **Nhổ bỏ bảy cái tám cái**
 
-> Ngài Đầu Tử niêm: 
-> 
+📢 Ngài Đầu Tử niêm: 
+
 > Đại chúng. 
 > Đầu Tử nói như thế các người làm sao thương lượng? 
 > Nếu nói được thì trước núi tình lặng mây vần vũ. 

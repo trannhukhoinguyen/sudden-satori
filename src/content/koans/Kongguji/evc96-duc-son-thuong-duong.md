@@ -14,7 +14,8 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-> không nói thì không có lối, khéo hợp với bổn ý Duy Ma. Có gậy có bóng đúng trừ tâm nghi ngờ của Khánh Hỷ, chỉ vì người trong cuộc mê, làm cho người thấy được nên cười. 
+> Không nói thì không có lối, khéo hợp với bổn ý Duy Ma. 
+> Có gậy có bóng đúng trừ tâm nghi ngờ của Khánh Hỷ, chỉ vì người trong cuộc mê, làm cho người thấy được nên cười. 
 > Thiền tăng đủ mắt có thể phân biệt được chăng?
 
 ## CỬ - BẢN TẮC:
