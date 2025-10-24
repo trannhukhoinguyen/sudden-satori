@@ -14,21 +14,39 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Nếu gặp người nhà, nên nói lời chân thật. Cần gì dùng lời hoa mỹ để chuyện trò. 
 
+Tất cả đều tận tình tiếp đãi một cách chân thật. 
 
-Ngài Đan Hà dạy chúng: Nếu gặp người nhà, nên nói lời chân thật. Cần gì dùng lời hoa mỹ để chuyện trò. Tất cả đều tận tình tiếp đãi một cách chân thật. Có ai không tạo vẻ bề ngoài, không làm khách xa lạ chăng?
+Có ai không tạo vẻ bề ngoài, không làm khách xa lạ chăng?
 
-BẢN TẮC
-Ngài Đầu Tử cũ Vân Môn một hôm hỏi Minh Giáo:
-– Hôm nay, ông ăn được bao nhiêu cái bánh bột?
-Minh Giáo thưa: Năm cái.
-Vân Môn hỏi: Cột cái ăn bao nhiêu cái.
-Minh Giáo nói: Thỉnh Hòa thượng vào trà thất uống trà.
+## CỬ - BẢN TẮC:
 
-BÌNH XƯỚNG
-Ngài Đầu Tử cũ Vân Môn thường đường nói: Ta bất đắc dĩ nói với đại chúng, ngay đây vào sự thì đã chôn vùi nhau rồi. Còn muốn tiến thêm bước nữa truy tìm ngôn cú chỉ e được tò mò. Bây nhiều thứ vẫn nan khắc nhau, chỉ được một phen nói năng phương tiện mà thôi. Càng cách xa đạo, đến chỗ thì nào mới đúng.
+📢 Ngài Đầu Tử cử:
 
-Việc này nếu ở trên ngôn cú, thì hẳn thua mười hai phần giáo hạ không phải là ngôn cú ư? Có sao lại nói, “Truyền riêng ngoài giáo”. Nếu nhờ học hiểu thông minh lanh lợi mà được cũng như các bậc thánh ở vị thập địa thuyết pháp như mưa như bão vẫn bị quở trách. Kiến tánh còn cách một lớp lụa mỏng.
+> Vân Môn một hôm hỏi Minh Giáo: **Hôm nay, ông ăn được bao nhiêu cái bánh bột?**
+> 
+> Minh Giáo thưa: **5 cái**
+> 
+> Vân Môn hỏi: **Cột cái ăn bao nhiêu cái**
+> 
+> Minh Giáo nói: **Thỉnh Hòa thượng vào trà thất uống trà**
+
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử nói:
+
+Vân Môn thường đường nói: 
+
+> Ta bất đắc dĩ nói với đại chúng, ngay đây vào sự thì đã chôn vùi nhau rồi. 
+Còn muốn tiến thêm bước nữa truy tìm ngôn cú chỉ e được tò mò. 
+Bây nhiều thứ vẫn nan khắc nhau, chỉ được một phen nói năng phương tiện mà thôi. 
+Càng cách xa đạo, đến chỗ thì nào mới đúng.
+
+Việc này nếu ở trên ngôn cú, thì hẳn thua mười hai phần giáo hạ không phải là ngôn cú ư? 
+Có sao lại nói, “Truyền riêng ngoài giáo”. 
+Nếu nhờ học hiểu thông minh lanh lợi mà được cũng như các bậc thánh ở vị thập địa thuyết pháp như mưa như bão vẫn bị quở trách. 
+Kiến tánh còn cách một lớp lụa mỏng.
 
 Thế nên biết rằng tất cả nếu có tâm đều như trời đất chẳng khác biệt. Tuy nhiên như thế nếu người đạt được, thì tia lửa chưa từng lay miệng, nói cả ngày nhưng chưa từng động đến môi răng, chưa từng nói một chữ. Trọn ngày mặc áo ăn cơm không cắm một hạt gạo, khoác một tấc lụa.
 
@@ -47,43 +65,30 @@ Vân Môn hỏi: Cột cái ăn được mấy cái. Bỗng nhiên tránh đư�
 
 Lâm Tuyền nói: Nếu không có chút nhân hiểm, thì khó gặp được vua. Chắc chắn Đầu Tử hiểu sâu xa.
 
-TỤNG CỔ
-Nhân lúc nhân đến hỏi nguyên nhân.
-Không phụ binh sinh hết lòng bày tỏ.
-Tận lực vì người cần thấu triệt.
-Mới biết vị trà thoát nhọn sắn.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền dẫn kinh Hoa Nghiêm ghi: Phổ Huệ Vân đưa ra một trăm câu hỏi. Phổ Hiền Bình đáp ngàn câu. Vạch ra cửa hướng thượng, đối đáp biện tài vô ngại, làm tan hết mọi nghi ngờ. Gương trí chiếu sáng, nối rộng về Như Lai Thiền, đây là tối thượng bậc nhất.
+## TỤNG CỔ
+
+> Nhân lúc nhân đến hỏi nguyên nhân.
+> 
+> Không phụ binh sinh hết lòng bày tỏ.
+> 
+> Tận lực vì người cần thấu triệt.
+> 
+> Mới biết vị trà thoát nhọn sắn.
+
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền dẫn kinh Hoa Nghiêm ghi: 
+
+Phổ Huệ Vân đưa ra một trăm câu hỏi. Phổ Hiền Bình đáp ngàn câu. Vạch ra cửa hướng thượng, đối đáp biện tài vô ngại, làm tan hết mọi nghi ngờ. Gương trí chiếu sáng, nối rộng về Như Lai Thiền, đây là tối thượng bậc nhất.
 
 Đâu giống như ngài Vân Môn tin tưởng dùng hàng ngày, chẳng nghi ngờ gì. Chọn chỗ tròn trịa, mặc cho y suy đoán, chẳng một lần no quên trăm lần đói. Hy vọng nói muội thì đúng hệt chính. Dốc hết sức tận tâm cho người như thế, mà không một người xuất cách. Nếu dè nén được mà không tiết lộ, thì đâu có ngày hôm nay.
 
 Chỗ bảo người trí ẩn ít người phụ ẩn nhiều, ông ta cũng là người biết rõ lúc uống trà ăn cơm. Ở trong mộng luôn là tỉnh, trong ngộ cũng tỉnh. Tham vào đó Lữ Đồng bày chén, Triệu Châu bưng chén. Không có lo buồn, nếu rèn luyện thì thường thảnh thơi. Nếu không biết bỏ qua những lúc bận tâm, thì làm sao thoát thân hiện bày phong cách thông suốt hiển quan. Có biết trong điềm của lão này chăng?
 
-An tôn một biết vi.
-Không bao giờ mắc răng anh.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
+> An tôn một biết vi
 > 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
+> Không bao giờ mắc răng anh
 
 <hr class="blog-rule" />
 
