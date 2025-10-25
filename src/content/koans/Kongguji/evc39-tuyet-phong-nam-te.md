@@ -14,18 +14,23 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Vừa ngẩng đầu mà hiểu được ý, đó là truyền cho vị tăng thông minh trí tuệ ấy. 
 
+Mở miệng thấy tâm chỉ có bác tác giả thông phường. Sợ ông không tin thử định tĩnh xem.
 
+## CỬ - BẢN TẮC:
 
-Ngài Đan Hà dạy chúng: Vừa ngẩng đầu mà hiểu được ý, đó là truyền cho vị tăng thông minh trí tuệ ấy. Mở miệng thấy tâm chỉ có bác tác giả thông phường. Sợ ông không tin thử định tĩnh xem.
+📢 Ngài Đầu Tử cử:
 
-BẢN TẮC
-Ngài Đầu Tử cũ, Hòa thượng Tuyết Phong tiễn Nam Tế, Ngài làm thế người nữ lễ bái.
+> Hòa thượng Tuyết Phong tiễn Nam Tế, Ngài làm thế người nữ lễ bái.
 Nam Tế vòng tay đáp: Dạ! Dạ!
 Tuyết Phong vỗ trán rồi quay về.
 
-BÌNH XƯỚNG
-Ngài Lâm Tế nói: Biệt thụ nhã ai trong bồ áo. Một đời uyên ương về chẳng thành. Lão Tuyết Phong tuy ở đâu đường thế đế, chuyển nam thành nữ, điệu dụng hiện tiền. Mê hoặc nam nữ nhà người.
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử nói:
+
+Biệt thụ nhã ai trong bồ áo. Một đời uyên ương về chẳng thành. Lão Tuyết Phong tuy ở đâu đường thế đế, chuyển nam thành nữ, điệu dụng hiện tiền. Mê hoặc nam nữ nhà người.
 
 Muốn ông không cũng trong một cơ một cảnh có phụ tánh linh minh, chuẩn ví gia bảo. Kỳ thật từ Không kiếp về trước, chỗ cha mẹ chưa sanh, lại có tướng nam nữ được, mất phải trái chăng? Không nên để tưởng như thế thiếp định đạo.
 
@@ -39,13 +44,18 @@ Ngài Lâm Tế nói: Họ hàn tặng hàng đều là thần thông diệu d�
 
 Điều lạ là không biết được việc đó làm hay, do vậy thấy lạ nghi ngờ. Thế nên nói đối với đồng thì không thấy được sự lợi ích của hướng tây.
 
-TỤNG CỔ
-Tiễn khách tùy gia cảnh tặng quà.
+## TỤNG CỔ
+
+> Tiễn khách tùy gia cảnh tặng quà.
 Hết lòng tiễn biệt đừng sanh nghiệt.
 Lại mong ân huệ đã tặng nhau.
 Chắp tay tiễn biệt lúc chiều tà.
 
-Ngài Lâm Tế nói: Thông thường thì cảnh tiễn khách nhớ lúc xa nhà. Tuy là hồng trần trăm luận đường đời quanh co. Không thể mặc tình phiêu bạt một mình.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Thông thường thì cảnh tiễn khách nhớ lúc xa nhà. Tuy là hồng trần trăm luận đường đời quanh co. Không thể mặc tình phiêu bạt một mình.
 
 Người xưa khi chia tay tặng nhau bằng lời chúc tụng. Được tiễn thì mời rượu, hoặc là kính biếu vàng lụa cho người, hoặc tặng bằng nhành dương, tùy theo gia phong thực hiện giao tiếp vậy.
 
@@ -59,28 +69,6 @@ Triệu Châu nói: Hái hoa dương! Hái hoa dương!
 
 Gõ cửa bao lần gọi không mở.
 Thì bước vào thẳng trong ấy xem.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

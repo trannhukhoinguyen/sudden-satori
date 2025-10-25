@@ -30,7 +30,7 @@ Vân Cư nói: Không đồng Hưng Hóa.
 
 BÌNH XƯỚNG
 
-Ngài Lâm Tế nói: Bậc đại trí đồng với người ngu. Người tài như kẻ kém cỏi. Vốn đã hình thành không cần tu luyện.
+Bậc đại trí đồng với người ngu. Người tài như kẻ kém cỏi. Vốn đã hình thành không cần tu luyện.
 
 Thế nên ngài Vĩnh Gia nói: Anh biết chăng! Bậc đạo nhân nhàn không cần học. Không cần bỏ vọng tưởng cũng chẳng cầu chân như.
 
@@ -53,7 +53,7 @@ Lạnh lùng không khí khác Đạo Nguyên,
 
 BÌNH XƯỚNG
 
-Ngài Lâm Tế nói:
+
 Con đường rộng rãi bậc trí khó qua,
 Cảnh tượng kỳ lạ ai có thể đến được.
 

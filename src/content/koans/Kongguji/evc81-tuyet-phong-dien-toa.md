@@ -62,7 +62,7 @@ Mặt trời trăng tròn không bóng chiều,
 Người gõ mùa áo nhịn bếp hồng.
 
 BÌNH XƯỚNG
-Ngài Lâm Tế nói: Không tay che được mặt trời. Câu này hiển hiện không chạm đến đâu. Hẳn thông và diệu dụng cho người tản hưởng xem.
+Không tay che được mặt trời. Câu này hiển hiện không chạm đến đâu. Hẳn thông và diệu dụng cho người tản hưởng xem.
 
 Cho nên Tông giả Nghiêm Dương hỏi Triệu Châu: Một vật không đem đến thì thế nào?
 Triệu Châu đáp: Hãy buông xuống.

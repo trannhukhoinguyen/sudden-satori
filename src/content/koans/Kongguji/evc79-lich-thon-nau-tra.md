@@ -24,7 +24,7 @@ Tăng nói: Chẳng lẽ đơn giản thế sao?
 Sư ném vào trong lửa.
 
 BÌNH XƯỚNG
-Ngài Lâm Tế nói: Người đánh trống và người đàn tỳ bà, hai nhà gặp nhau, Lão Lịch Thôn chẳng bận tâm. Vị tăng này đang nỗ lực, nên vội vã múc nước suối trong thùng thả nhóm lửa, nấu trà phụng bỉnh thì phải biết thưởng thức vị đặc biệt. Nấu nước sắp sôi còn ngại chưa nghe tiếng nước sôi chăng?
+Người đánh trống và người đàn tỳ bà, hai nhà gặp nhau, Lão Lịch Thôn chẳng bận tâm. Vị tăng này đang nỗ lực, nên vội vã múc nước suối trong thùng thả nhóm lửa, nấu trà phụng bỉnh thì phải biết thưởng thức vị đặc biệt. Nấu nước sắp sôi còn ngại chưa nghe tiếng nước sôi chăng?
 
 Vị Tăng này quả nhiên thấy việc nghĩa nên làm, thì điểm hoa vẫn mây bay trên chén ngọc tuyết nổi trên bình ngọc quỳnh nên hỏi: Thế nào là ý tổ sư từ tây sang. Chỉ cốt hỏi ý kiến ông táo để bày tỏ nỗi lòng, có ngày truyền trao trên pháp hội. Chẳng cần hỏi đã từng đến hay chưa đến, luận gì uống trà hay không uống trà. Điểm chính là hỏi Tây Thiên mở rộng dong các.
 

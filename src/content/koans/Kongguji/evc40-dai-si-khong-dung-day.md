@@ -14,21 +14,34 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Đạo cao đức trọng, Thiên Tử có khi không có chủ thần. Tánh ngang ngạnh thì tám có còn. 
+
+Chủ hầu có lúc không làm bạn. Điều này đều là thông lệ cổ kim, vốn chẳng có gì lạ. 
+
+Có ai không giữ gìn kiểm tra lại bản diện này chăng?
+
+## CỬ - BẢN TẮC:
+
+📢 Ngài Đầu Tử cử:
+
+> Phó Đại Sĩ thấy vua Lương Võ Đế không đứng dậy, công thần hỏi Đại Sĩ gặp vua vì không đứng dậy. 
+> 
+> Đại Sĩ bảo: Đất pháp nếu động tức tất cả chẳng an.
+
+📢  Ngài Đầu Tử niêm: 
+
+> Rõ ràng an bang dẹp loạn nhờ bậc hiền tài. Lập pháp minh tông phải có bậc tác giả. 
+> 
+> Song ý hợp chẳng điều lời phạm đầy trời. Lục dụng không toàn hóa phong giảm một nửa.
+>
+> Nếu hạ cao xuống thấp thì cây khô được tươi tốt. Nếu tận sức đối chặn thì cảm thương khắp chốn.
 
 
-Ngài Đan Hà dạy chúng: Đạo cao đức trọng, Thiên Tử có khi không có chủ thần. Tánh ngang ngạnh thì tám có còn. Chủ hầu có lúc không làm bạn. Điều này đều là thông lệ cổ kim, vốn chẳng có gì lạ. Có ai không giữ gìn kiểm tra lại bản diện này chăng?
+## BÌNH XƯỚNG
 
-BẢN TẮC
+📢 Ngài Đầu Tử dẫn:
 
-Ngài Đầu Tử cũ, Phó Đại Sĩ thấy vua Lương Võ Đế không đứng dậy, công thần hỏi Đại Sĩ gặp vua vì không đứng dậy. Đại Sĩ bảo: Đất pháp nếu động tức tất cả chẳng an.
-
-Ngài Đầu Tử niêm: Rõ ràng an bang dẹp loạn nhờ bậc hiền tài. Lập pháp minh tông phải có bậc tác giả. Song ý hợp chẳng điều lời phạm đầy trời. Lục dụng không toàn hóa phong giảm một nửa.
-
-Nếu hạ cao xuống thấp thì cây khô được tươi tốt. Nếu tận sức đối chặn thì cảm thương khắp chốn.
-
-BÌNH XƯỚNG
-
-Ngài Đầu Tử dặn, Đại Sĩ Thiện Huệ ở Song Lâm Vụ Châu, người Nghĩa Ô Bôn Châu. Ngày mồng Tám tháng Năm, năm Bính Tý tức là năm thứ ba niên hiệu Kiến Vũ đời Tề (496) sinh ở Song Lâm, con nhà họ Hấp.
+Đại Sĩ Thiện Huệ ở Song Lâm Vụ Châu, người Nghĩa Ô Bôn Châu. Ngày mồng Tám tháng Năm, năm Bính Tý tức là năm thứ ba niên hiệu Kiến Vũ đời Tề (496) sinh ở Song Lâm, con nhà họ Hấp.
 
 Nam Sơn ghi năm 16 tuổi kết hôn với Lưu Diệu Quang. Sanh được hai người con, người con lớn tên là Phố Kiến, người con thứ hai tên Phố Thành.
 
@@ -99,14 +112,18 @@ Viên Thông tâu: Lễ thì kính trọng nhau, không lễ thì mỗi người
 
 Đại Sĩ chẳng đứng dậy chỉ biết luận sâu nhập lý. Viên Thông trả lời vua không bỏ điềm lập bày phương tiện. Đầu Tử biết Đầu Tử cũng còn ý này.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Lệnh vua Lương nước Ngụy kia sâu.
+> Lệnh vua Lương nước Ngụy kia sâu.
 Nửa đêm theo dòng qua sông nước.
 Tuy nhiên tắc đất yên không động.
 Tại sao Song Lâm một nửa sầu.
 
-Ngài Lâm Tuyền nói: Tổ thứ hai mươi bảy phó chúc cho Đại Sĩ Đạt Ma, kệ sấm rằng:
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Tổ thứ hai mươi bảy phó chúc cho Đại Sĩ Đạt Ma, kệ sấm rằng:
 
 Lộ hành qua sông đến Lạc Dương.
 Một mình lặng lẽ thâm qua sông.
@@ -125,28 +142,6 @@ So với Đại Sĩ thẳng thắn bất cận nhân tình cũng giống nhau v�
 
 Gặp được nhau thì dễ.
 Sống với nhau mới khó.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 

@@ -16,8 +16,6 @@ image: /images/koans/great-wave.webp
 
 Ngu ngây lặng lẽ, biết mình an ổn. La la tra đằng đằng, ai bảo trong bụng ngu tối. Không có người mê mờ chăng?
 
-
-
 ## CỬ - BẢN TẮC:
 
 📢 Ngài Đầu Tử cử:
