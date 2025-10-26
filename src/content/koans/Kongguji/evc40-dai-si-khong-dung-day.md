@@ -26,7 +26,7 @@ Có ai không giữ gìn kiểm tra lại bản diện này chăng?
 
 > Phó Đại Sĩ thấy vua Lương Võ Đế không đứng dậy, công thần hỏi Đại Sĩ gặp vua vì không đứng dậy. 
 > 
-> Đại Sĩ bảo: Đất pháp nếu động tức tất cả chẳng an.
+> Đại Sĩ bảo: **Đất pháp nếu động tức tất cả chẳng an.**
 
 📢  Ngài Đầu Tử niêm: 
 
@@ -61,17 +61,15 @@ Thấy ba đức Phật Thích Ca, Kim Túc, Định Quang phóng hào quang chi
 
 Niên hiệu Đại Thông năm thứ hai (530) rao bán vợ con. Thâu được năm vạn tiền để làm pháp hội.
 
-Có pháp sư Huệ Tập nghe pháp tỏ ngộ nói rằng: Thầy ta là Di Lặc ứng thân Đại Sĩ. Đệ tử sợ mê hoặc nhân sinh nên không bàn luận nữa.
+Có pháp sư Huệ Tập nghe pháp tỏ ngộ nói rằng: **Thầy ta là Di Lặc ứng thân Đại Sĩ. Đệ tử sợ mê hoặc nhân sinh nên không bàn luận nữa.**
 
 Ngày hai mươi tám tháng giêng năm thứ sáu (534), đệ tử Phó Vãng đem thư dâng cho vua Lương Cao Tổ (triều Lương Võ Đế).
 
 Thư rằng: Đại Sĩ Thiện Huệ tương lai giải thoát tại rừng Song Lâm. Tâu với quốc vương rằng bậc cứu thế Bồ Tát, Đức Vua nên tu thọ trì ba điều thiện thượng trung hạ.
 
-Điều thiện bậc thượng: Lấy đức bao dung rộng lớn làm gốc. Chẳng vướng mắc làm tông. Vô Tướng làm nhân. Niết Bàn làm quả.
-
-Điều thiện bậc trung: Lấy trí tuệ làm gốc, trí tuệ làm tông, trừ người phước báo an lạc.
-
-Điều thiện bậc hạ: Lấy việc bảo vệ nuôi dưỡng chúng sanh, đẹp được tán bạo, bỏ giết hại, khiến dân chúng đều giữ sáu ngày trai giới.
+* Điều thiện bậc thượng: Lấy đức bao dung rộng lớn làm gốc. Chẳng vướng mắc làm tông. Vô Tướng làm nhân. Niết Bàn làm quả.* 
+* Điều thiện bậc trung: Lấy trí tuệ làm gốc, trí tuệ làm tông, trừ người phước báo an lạc.* 
+* Điều thiện bậc hạ: Lấy việc bảo vệ nuôi dưỡng chúng sanh, đẹp được tán bạo, bỏ giết hại, khiến dân chúng đều giữ sáu ngày trai giới.
 
 Nay nghe Hoàng Đế tôn sùng Phật pháp. Bần đạo muốn đến nghị luận mà chưa được mãn nguyện. Nay bảo đệ tử Phó Vãng đến dâng thư cho tướng Thái Lạc là Hà Xương.
 
@@ -81,36 +79,43 @@ Phó Vãng vẫn chỉ chưa trọng thành. Hà Xương đi đến chùa Đông
 
 Ngày hai mươi mốt tháng hai, dâng thư cho vua xem. Vua ban chiếu mời vào. Đại Sĩ vào cung. Khi vào cung, Đại Sĩ đội mũ đạo, mang hải nho, thân khoác ca sa gặp vua.
 
-Vua hỏi: Theo Phật ư?
+Vua hỏi: **Theo Phật ư?**
+
 Đại Sĩ im lặng chỉ mũ.
 
-Vua hỏi: Theo Đạo chăng?
+Vua hỏi: **Theo Đạo chăng?**
+
 Đại Sĩ im lặng chỉ giày.
 
-Vua hỏi: Theo Nho sao?
+Vua hỏi: **Theo Nho sao?**
+
 Đại Sĩ vẫn im lặng chỉ ca sa.
 
 Vương Kinh Công xin Phật Ấn làm bài tụng. Tụng rằng:
 
-Mũ Đạo, giày Nho, ca sa Phật.
+> Mũ Đạo, giày Nho, ca sa Phật.
 Hoa hội ba nhà thành một gia.
 Quên mất con đường Xuất đã thiên.
 Song Lâm ngồi lặng đợi Long Hoa.
 
 Sau này, Đại Sĩ giảng kinh tại vườn Hoa Lâm lầu Trùng Vân. Xe vua đến điện, mọi người đứng khép nép chắp tay, Đại Sĩ ngồi im không đứng dậy.
 
-Hiến ty hỏi: Sao Ngài không đứng lên.
-Đại Sĩ đáp: Đất pháp nếu động, tất cả chẳng an.
+Hiến ty hỏi: **Sao Ngài không đứng lên.**
 
-Lâm Tuyền nói Bồ Tát thường thừa tin không nghi. Bậc trung hạ nghe thế thì sanh nghi.
+Đại Sĩ đáp: **Đất pháp nếu động, tất cả chẳng an.**
+
+📢 Ngài Lâm Tuyền nói: 
+
+Bồ Tát thường thừa tin không nghi. Bậc trung hạ nghe thế thì sanh nghi.
 
 Song chỗ niệm của Đầu Tử có thâu, có buông, có thả, có bắt, chớ chấp vào ngôn ngữ. Phải nhận rõ tông phong ngoài ngữ ngôn.
 
-Xưa Thế Tông lúc mời Đại Thánh ở điện Thụy Tượng, hỏi quốc sư Thiện Viên Thông: Lễ là đúng hay không lễ là đúng.
+Xưa Thế Tông lúc mời Đại Thánh ở điện Thụy Tượng, hỏi quốc sư Thiện Viên Thông: **Lễ là đúng hay không lễ là đúng.**
 
-Viên Thông tâu: Lễ thì kính trọng nhau, không lễ thì mỗi người tự xưng tôn. Vua rất vui.
+Viên Thông tâu: **Lễ thì kính trọng nhau, không lễ thì mỗi người tự xưng tôn.** 
 
-Đại Sĩ chẳng đứng dậy chỉ biết luận sâu nhập lý. Viên Thông trả lời vua không bỏ điềm lập bày phương tiện. Đầu Tử biết Đầu Tử cũng còn ý này.
+Vua rất vui. Đại Sĩ chẳng đứng dậy chỉ biết luận sâu nhập lý. 
+Viên Thông trả lời vua không bỏ điềm lập bày phương tiện. Đầu Tử biết Đầu Tử cũng còn ý này.
 
 ## TỤNG CỔ
 
@@ -125,22 +130,26 @@ Tại sao Song Lâm một nửa sầu.
 
 Tổ thứ hai mươi bảy phó chúc cho Đại Sĩ Đạt Ma, kệ sấm rằng:
 
-Lộ hành qua sông đến Lạc Dương.
+> Lộ hành qua sông đến Lạc Dương.
 Một mình lặng lẽ thâm qua sông.
 Ngày qua thương tiếc cho Nhị Đế.
 Nơi đất Thiếu Lâm hiển pháp mầu.
 
-Bài sấm này nói từ đầu đến cuối việc Ngài Đạt Ma từ tây sang. Buổi đầu, Ngài gặp vua Lương Võ Đế. Vua lên Điện, mà chữ diễm kết hợp bộ hành với bộ thủy, nên nói đường qua sông. Vua không khế hội. Tổ Sư qua thực có đến Lạc Dương, cho nên nói “phùng dương” và “âm dương cảm vận”.
+Bài sấm này nói từ đầu đến cuối việc Ngài Đạt Ma từ tây sang. Buổi đầu, Ngài gặp vua Lương Võ Đế. 
+
+Vua lên Điện, mà chữ diễm kết hợp bộ hành với bộ thủy, nên nói đường qua sông. 
+Vua không khế hội. Tổ Sư qua thực có đến Lạc Dương, cho nên nói “phùng dương” và “âm dương cảm vận”.
 
 Tổ Sư không muốn người biết hành tung của mình, nên ban đêm đi bể lâu về hướng tây. Cho nên nói “ám độ giang”.
 
 Tổ Sư từ Tây sang gặp hai vua Lương và Ngụy, nên nói “nhật hạ song tượng mã”.
 
-Chín năm quay mặt vào vách ở Thiếu Lâm. Cho nên nói “Nhị châu nôn quế” 久 vầu đồng âm, vì việc ngài Đạt Ma chẳng được thuận lợi.
+9 năm quay mặt vào vách ở Thiếu Lâm. 
+Cho nên nói “Nhị châu nôn quế” 久 vầu đồng âm, vì việc ngài Đạt Ma chẳng được thuận lợi.
 
 So với Đại Sĩ thẳng thắn bất cận nhân tình cũng giống nhau vậy. Phật sự nhân tình không thể chu toàn. Lại biết chăng?
 
-Gặp được nhau thì dễ.
+> Gặp được nhau thì dễ.
 Sống với nhau mới khó.
 
 <hr class="blog-rule" />

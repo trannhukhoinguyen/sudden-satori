@@ -33,45 +33,29 @@ Gương sáng trên đài có vật hiện rõ. Chuông lớn trên giá đánh 
 
 ## BÌNH XƯỚNG
 
-📢 Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói: Thiền sư Diên Chiếu ở núi Phong Huyệt Nhữ Châu. Ban đầu tham vấn đại sư Đức Thuận ở Cảnh Thanh Việt Châu.
 
-Thiền sư Diên Chiếu ở núi Phong Huyệt Nhữ Châu. Ban đầu tham vấn đại sư Đức Thuận ở Cảnh Thanh Việt Châu.
-Thuận Đức hỏi:
+Thuận Đức hỏi: **Ông từ đâu đến đây?**
 
-Ông từ đâu đến đây?
-Phong Huyệt thưa:
+Phong Huyệt thưa: **Từ đông đến.**
 
-Từ đông đến.
-Thuận Đức hỏi:
+Thuận Đức hỏi: **Có đi qua sông nhỏ chăng?**
 
-Có đi qua sông nhỏ chăng?
-Phong Huyệt thưa:
+Phong Huyệt thưa: **Sông lớn lướt nhẹ qua, sông nhỏ không qua được.**
 
-Sông lớn lướt nhẹ qua, sông nhỏ không qua được.
+Thuận Đức nói: **Cảnh Hồ Lăng Tân chim bay không tới, sóng chớ nghe lên lời di ngôn.**
 
-Thuận Đức nói:
+Phong Huyệt thưa: **Biển cả mênh mông nào sợ thuyền chiến, liệt Hán xuôi buồm dạo Ngũ Hồ.**
 
-Cảnh Hồ Lăng Tân chim bay không tới, sóng chớ nghe lên lời di ngôn.
+Thuận Đức dựng cây gậy hỏi: **Sao? Cái này là cái gì?**
 
-Phong Huyệt thưa:
+Phong Huyệt nói: **Cái này là cái gì?**
 
-Biển cả mênh mông nào sợ thuyền chiến, liệt Hán xuôi buồm dạo Ngũ Hồ.
+Thuận Đức nói: **Quả nhiên không biết.**
 
-Thuận Đức dựng cây gậy hỏi:
+Phong Huyệt nói: **Đưa ra, thâu vào đều là thấy sử dụng.**
 
-Sao? Cái này là cái gì?
-Phong Huyệt nói:
-
-Cái này là cái gì?
-Thuận Đức nói:
-
-Quả nhiên không biết.
-Phong Huyệt nói:
-
-Đưa ra, thâu vào đều là thấy sử dụng.
-Thuận Đức nói:
-
-Biết trước chung nhỏ kêu to, ngủ say rồi mơ.
+Thuận Đức nói: **Biết trước chung nhỏ kêu to, ngủ say rồi mơ.**
 
 Phong Huyệt thưa: **Núi che phủ đầm, vẽ lý hàng phục được beo.**
 
@@ -85,7 +69,7 @@ Thế nên, Sư trở lại tham kiến Hòa thượng đường đầu thưa: *
 
 Thuận Đức hỏi: **Vừa rồi ông nói từ đông đến, có phải là ở Thúy Nham không?**
 
-Phong Huyệt thưa: Tuyết Đậu chính ở đồng Bảo Cái.
+Phong Huyệt thưa: **Tuyết Đậu chính ở đồng Bảo Cái.**
 
 Thuận Đức bảo: **Không đuổi kịp đệ. Thế nên mất đầu, khi đến đây chỉ nhớ văn chương sách vở.**
 
@@ -144,15 +128,17 @@ Nam Tuyền nói: **Cũng là tạng**
 
 Sư Tổ hỏi: **Thế nào là châu?**
 
-Nam Tuyền gọi: Sư Tổ!
+Nam Tuyền gọi: **Sư Tổ!**
 
-Sư Tổ đáp: Dạ.
+Sư Tổ đáp: **Dạ.**
 
-Nam Tuyền nói: Hãy đi, ông không hiểu lời ta.
+Nam Tuyền nói: **Hãy đi, ông không hiểu lời ta.**
 
 📢 Ngài Lâm Tuyền nói:
 
-Phải biết điểm rơi chính xác của hạt châu này. Ẩn mà càng bày, hiển mà không lộ. Cả ngày tìm mà không thấy, có lúc tự đến. Đâu cần nửa đêm canh ba, phiên người gõ xô chỉ ngọc qua kim vàng khổng lồ, bị trâu đất dưới giếng nhìn thấy.
+Phải biết điểm rơi chính xác của hạt châu này. Ẩn mà càng bày, hiển mà không lộ. 
+
+Cả ngày tìm mà không thấy, có lúc tự đến. Đâu cần nửa đêm canh ba, phiên người gõ xô chỉ ngọc qua kim vàng khổng lồ, bị trâu đất dưới giếng nhìn thấy.
 
 > Nuốt răng hồng đỉnh núi nhân ngã,
 Nhà sông xanh tận biển thỉ phi.

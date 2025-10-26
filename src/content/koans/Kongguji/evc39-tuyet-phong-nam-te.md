@@ -32,15 +32,20 @@ Tuyết Phong vỗ trán rồi quay về.
 
 Biệt thụ nhã ai trong bồ áo. Một đời uyên ương về chẳng thành. Lão Tuyết Phong tuy ở đâu đường thế đế, chuyển nam thành nữ, điệu dụng hiện tiền. Mê hoặc nam nữ nhà người.
 
-Muốn ông không cũng trong một cơ một cảnh có phụ tánh linh minh, chuẩn ví gia bảo. Kỳ thật từ Không kiếp về trước, chỗ cha mẹ chưa sanh, lại có tướng nam nữ được, mất phải trái chăng? Không nên để tưởng như thế thiếp định đạo.
+Muốn ông không cũng trong một cơ một cảnh có phụ tánh linh minh, chuẩn ví gia bảo. 
+
+Kỳ thật từ Không kiếp về trước, chỗ cha mẹ chưa sanh, lại có tướng nam nữ được, mất phải trái chăng? Không nên để tưởng như thế thiếp định đạo.
 
 Tuyết Phong mạo phạm muôn quân nữ giới để lễ bái bà già. Phải biết được một chút thiệt xưa nay.
 
-Nam Tế vòng tay, gặp việc nghĩa nên làm. Quả nhiên thấy đạo này chưa mất trí âm thật đáng mừng. Chớ nhận đây là sáo không lỗ gặp phách và chiên. Đàn không dây hoà khúc Lương Châu.
+Nam Tế vòng tay, gặp việc nghĩa nên làm. Quả nhiên thấy đạo này chưa mất trí âm thật đáng mừng. 
+Chớ nhận đây là sáo không lỗ gặp phách và chiên. Đàn không dây hoà khúc Lương Châu.
 
-Tuyết Phong vì người bạn thân thiết đồng hành, hạ hành gậy khúc đàn. Lấy tay che trán, mặc dù từ xa nhìn không rõ, do đó nhìn gần mới tỏ hơn. Chỗ căn cứ thì đoán không sai một mảy may, cho nên buông tay liền về.
+Tuyết Phong vì người bạn thân thiết đồng hành, hạ hành gậy khúc đàn. Lấy tay che trán, mặc dù từ xa nhìn không rõ, do đó nhìn gần mới tỏ hơn. 
+Chỗ căn cứ thì đoán không sai một mảy may, cho nên buông tay liền về.
 
-Ngài Lâm Tế nói: Họ hàn tặng hàng đều là thần thông diệu dụng. Nháy mắt nhíu mày đều là pháp môn thật sự. Thận trọng chớ bất kính với thần linh phương Bắc mà chống lại với sự hưng phúc của người xưa.
+Ngài Lâm Tế nói: Họ hàn tặng hàng đều là thần thông diệu dụng. Nháy mắt nhíu mày đều là pháp môn thật sự. 
+Thận trọng chớ bất kính với thần linh phương Bắc mà chống lại với sự hưng phúc của người xưa.
 
 Điều lạ là không biết được việc đó làm hay, do vậy thấy lạ nghi ngờ. Thế nên nói đối với đồng thì không thấy được sự lợi ích của hướng tây.
 
@@ -60,9 +65,13 @@ Thông thường thì cảnh tiễn khách nhớ lúc xa nhà. Tuy là hồng tr
 Người xưa khi chia tay tặng nhau bằng lời chúc tụng. Được tiễn thì mời rượu, hoặc là kính biếu vàng lụa cho người, hoặc tặng bằng nhành dương, tùy theo gia phong thực hiện giao tiếp vậy.
 
 Một hôm có vị tăng từ giã ngài Triệu Châu. Triệu Châu hỏi đi đâu.
+
 Tăng thưa: Đi khắp nơi học Phật pháp.
+
 Triệu Châu dựng cây phất tử nói: Chỗ có Phật không được dừng, chỗ không Phật chạy qua mau. Hơn ba ngàn dặm gặp người không được cứ lầm.
+
 Tăng thưa: Như thế thì con không đi nữa.
+
 Triệu Châu nói: Hái hoa dương! Hái hoa dương!
 
 Đây cũng là một cách bày tiệc tiễn đưa. Đã được Tuyết Phong tặng nhau bằng ân huệ. Nam Tế làm sao không chắp tay đáp lời. Phải biết chia tay lúc chiều tối thì đi về đâu.

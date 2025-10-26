@@ -14,19 +14,27 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Mỗi lời thấy chân để. Chày giã gạo đêm nở hoa. Từng câu Tông siêu việt. 
+Cối say mùa thu kết trái. Chẳng có liên quan gì nhau, làm sao thế hội lời này?
 
+## CỬ - BẢN TẮC:
 
-Ngài Đan Hà dạy chúng: Mỗi lời thấy chân để. Chày giã gạo đêm nở hoa. Từng câu Tông siêu việt. Cối say mùa thu kết trái. Chẳng có liên quan gì nhau, làm sao thế hội lời này?
+📢 Ngài Đầu Tử cử:
 
-BẢN TẮC
-Ngài Đầu Tử cử, Tăng hỏi Ngài Vân Môn: Thế nào là lời siêu Phật vượt Tổ?
-Vân Môn đáp: Bánh mè.
+> Tăng hỏi Ngài Vân Môn: **Thế nào là lời siêu Phật vượt Tổ?**
+>
+> Vân Môn đáp: **Bánh mè.**
 
-Ngài Lâm Tuyền nói: Nói không rời việc. Lời không hợp với cơ. Nương lời mất mạng, kẹt câu thì mê.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Nói không rời việc. Lời không hợp với cơ. Nương lời mất mạng, kẹt câu thì mê.
 
 Quảng Chủ thỉnh Ngài Vân Môn trụ trì ở Linh Thọ. Ngày khai đường, Quảng Chủ đích thân đến thưa rằng: Đệ tử xin thầy chỉ dạy.
 
 Ngài Vân Môn đáp: Hiện tại không còn đường nào khác.
+
 Ngài lại nói rằng: Chớ bảo hôm nay nói dối các người. Bất đắc dĩ nói với các người tạo ra một trường lộn xộn. Nếu gặp người mắt sáng thấy được thì trở thành trò cười, nhưng không thể tránh được điều này.
 
 Thử hỏi các ông từ trước đến nay có cái gì, thiếu điều gì? Nói về vô sự cho ông thì đã chôn vùi nhau rồi. Dù như vậy, nhưng cũng phải đến được mà nhận đất tâm này mới an. Cũng chớ nhiều lời thưa hỏi lung tung.
@@ -40,25 +48,33 @@ Lâm Tuyền nói: Vân Môn giải thích rất nhiều, chỉ muốn các ông
 Đại Nhạc và Tuyết Đậu đến tham vấn Ngũ Tổ Giới. Đại Nhạc gặp riêng Ngũ Tổ Giới và vẽ một vòng tròn.
 
 Giới hỏi: Là cái gì?
+
 Đại Nhạc đáp: Bánh hồ.
+
 Giới nói: Bánh trong lò còn nóng lấy một cái đi.
+
 Đại Nhạc chân chừ, Giới lấy gậy đánh đuổi ra cửa.
+
 Đại Nhạc bảo với Tuyết Đậu: Người không nhân tình này, đi thôi.
 
 Lâm Tuyền nói: Một loại bánh chiên do người làm nên, cũng là một loại bánh chiên do người làm hư. Hãy nói bánh của ngài Vân Môn và bánh của ngài Đại Nhạc là đồng hay khác.
 
-Dù tròn vành vạnh không vết nút.
+> Dù tròn vành vạnh không vết nút.
 Vì nhiều miếng nếm nên khác vị.
 Thử xem Đầu Tử làm sao bàn.
 
-TỤNG CỔ
-Lời siêu Phật tổ hỏi tác giả.
+## TỤNG CỔ
+
+> Lời siêu Phật tổ hỏi tác giả.
 Mệt thì uống trà Kiến Khê.
 Gần đến trùng dương cực núi vàng.
 Cá bơi tận đáy xao động cát.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói: Chỗ vừa nói dứt lời, ý ngầm đã rõ. Nếu như Phật không ra đời. Tổ chẳng từ tây sang. Vậy thì cùng ai nắm giữ luận bàn rõ ràng thì phi tốt xấu. Vậy miệng rộng, đâu biết lưỡi dài.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Chỗ vừa nói dứt lời, ý ngầm đã rõ. Nếu như Phật không ra đời. Tổ chẳng từ tây sang. Vậy thì cùng ai nắm giữ luận bàn rõ ràng thì phi tốt xấu. Vậy miệng rộng, đâu biết lưỡi dài.
 
 Nếu buồn đau không gặp tác gia, thì sẽ trở thành hư lậu. Trong đây điều quan trọng phải tinh đến điểm lợi và hại. Hễ có ngôn từ là thành chê bai. Mở miệng thì thành hai mảnh. Không nói thì lừa dối. Nhường nhịn mấy rồi vào hai ba. Chẳng đổi chẳng chê, thì tinh còn một niệm ngộ. Làm sao hướng đến được? Đâu thể ra khỏi mê một ngàn xưa.
 
@@ -68,28 +84,6 @@ Ngài Vân Môn đã dứt hết sự khổ khăn cho ông như thế. Sao khôn
 
 Nhai chậm nuốt nhẹ mới nếm được,
 Chớ vội tham vị mà há miệng.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 
