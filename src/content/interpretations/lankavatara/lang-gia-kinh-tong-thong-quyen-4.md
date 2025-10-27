@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 4
+title: Lăng Già Kinh Tông Thông - Quyển 4
 description: 1600-1615
 authors: 
   - Tăng Phụng Nghi
@@ -14,57 +14,9 @@ videoId: j35JWY7Jxcg
 
 ## Quyển 4
 
-e51 Ô balzer thích ca mâu ni phật
+Kinh:
 
-nam mô buồn sẽ tính Ca Mau ni bằng
-
-I know bồn sứ Thích Ca Mâu Ni Phật
-
-Nam mô bổn sư thích ca mâu ni phật nam
-
-mô lăng giả hội thượng phật bồ tát
-
-kính lễ mật ân sư và đài Thiện tri thức
-
-mười phương đài chúng chúng con Chế
-
-Thành Ân triêm Công Đức
-
-Bộ Kinh Lăng già ai bạc Đà La Bảo tông
-
-thôn đời Tống Tam Tạng đại sư cầu na bạc
-
-Đà La người nước Thiên Trúc dịch lần thứ
-
-nhất đời nguyên vị Tam Tạng Pháp Sư Bồ
-
-Đề Lưu Chi người Bắc Thiên Trúc dịch lần
-
-thứ hai đời Đường Tam Tạng Pháp Sư Thật
-
-so a-nan-đà nước bưu điện dịch lần thứ
-
-ba đời minh để tử Bồ Tát giới tiền phục
-
-huấn đại vương lễ Bộ từ tế tan sự tư
-
-viên ngoại Lang Tân Phụng Nhi trong
-
-thông Việt dịch Sa Môn Thích Giác bộ
-
-hiệu đính Sa Môn Thích Nguyên thiện cùng
-
-toàn thể thiện Nam Em in kinh cúng dường
-
-Phụng Ân Tam Bảo
-
-Nam Mô Đức Bổn Sư Thích Ca Mâu Ni Phật
-
-cung Thịnh đại chúng đồng Nghe Kinh Lăng
-
-già a bạc Đà La Bảo tông thông quyển 4
-
-có kinh mấy giờ đài Bồ Tát Đại Huệ là
+Bấy giờ đài Bồ Tát Đại Huệ là
 
 Bạch Phật rằng Bạch Thế Tôn khi Thế Tôn
 
