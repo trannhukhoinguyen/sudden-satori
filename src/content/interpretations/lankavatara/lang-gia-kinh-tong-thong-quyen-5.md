@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 5
+title: Lăng Già Kinh Tông Thông - Quyển 5
 description: 1600-1615
 authors: 
   - Tăng Phụng Nghi
@@ -14,89 +14,13 @@ videoId: gCmsqTHDxnM
 
 ## Quyển 5
 
-Nam một ô Ball sớm Thánh Ca Mau ni ý bằng làm mô buồn trên Thích Ca Mau ni bằng know bồn sứ sơ sinh Ca Mau ni e
+Kinh:
 
-Nam mô bổn sư thích ca mâu ni phật
+Bây giờ Đức Thế Tôn bảo bồ tát Đại Huệ, Đại Huệ Thanh nay sẽ thuyết tướng Trung quả tướng phân biệt của thí sinh thân lắng nghe lắng nghe Hãy khéo nhớ nghĩ Đại Huệ bạch Phật rằng lần thay Đức Thế Tôn cuối sinh lãnh Thọ Phật Bảo Đại Huệ có 3 chủng nhí xinh thân 3 chủng ấy là gì đó là xinh thân do Tam Muội tránh Thọ lạc thí sinh thân do giáp được tính tự tính các pháp thí sinh thân chủng loại đồng sinh vô tát thành người tu hành chứng nhập sơ địa thứ lớp tăng tiến lên các địa thì được 3 chủng thân này
 
-nam mô lăng giả hội thượng phật bồ tát kính
+Thông rằng:
 
-lệ bậc ưng sư và đài Thiện tri thức mười
-
-phương kinh lăn và a bạc đã la bảo tông
-
-thông đời Tống Tam Tạng đại sư cầu na
-
-bạc Đà La người nước Thiên Trúc dịch lần
-
-thứ nhất đời nguyên thủy Tam Tạng Pháp
-
-Sư Bồ Đề tucci người Bắc Thiên Trúc dịch
-
-lần thứ hai đời Đường Tam Tạng pháp sư
-
-thật xa a nan đà nước bưu điện dịch lần
-
-thứ ba đời Minh đệ tử Bồ Tát giới tiền
-
-Phụng huấn đại phu lễ Bộ từ tế tan sự tư
-
-viên ngoại Lang Tân Phụng Nhi tông thông
-
-Anh Việt Dịch Sa Môn Thích Giác bộ hiệu
-
-đính Sa Môn Thích Nguyên thiện cùng toàn
-
-thể thiện Nam tín nữ in kinh cũng ngượng
-
-Phùng Ân Tam Bảo Nam Mô Đức Bổn Sư Thích
-
-Ca Mâu Ni Phật
-
-Anh Trung Thịnh đại chúng đồng nha Kinh
-
-Lăng già a bạc đã la bảo tông thông
-
-quyển 5
-
-có kinh bây giờ Đức Thế Tôn Bảo Đại
-
-bồ-tát Đại Huệ Thanh nay sẽ thuyết tướng
-
-Trung quả tướng phân biệt của thí sinh
-
-thân lắng nghe lắng nghe Hãy khéo nhớ
-
-nghĩ Đại Huệ bạch Phật rằng lần thay Đức
-
-Thế Tôn cuối sinh lãnh Thọ Phật Bảo Đại
-
-Huệ có 3 chủng nhí xinh thân 3 chủng ấy
-
-là gì đó là xinh thân do Tam Muội tránh
-
-Thọ lạc thí sinh thân do giáp được tính
-
-tự tính các pháp thí sinh thân chủng
-
-loại đồng sinh vô tát thành người tu
-
-hành chứng nhập sơ địa thứ lớp tăng tiến
-
-lên các địa thì được 3 chủng thân này Ồ
-
-thông rằng ở trước trong quyển thứ ba
-
-đức Phật nói rằng Bồ Tát thành tựu bốn
-
-pháp thì trở thành bậc tu hành đại
-
-phương tiện cho đến chủ địa thứ 8 ta lìa
-
-tướng tâm lý ý thức năm pháp 3 tự tính
-
-hay Vông ạ thì được thí sinh thân thí
-
-như ý đi nhanh chóng không bị nhăn ngại
+Ở trước trong quyển thứ 3, Đức Phật nói rằng Bồ Tát thành tựu bốn pháp thì trở thành bậc tu hành đại phương tiện cho đến chủ địa thứ 8 ta lìa tướng tâm lý ý thức năm pháp 3 tự tính hay Vông ạ thì được thí sinh thân thí như ý đi nhanh chóng không bị nhăn ngại
 
 nên gọi là thí sinh thì thân do ý sinh
 
