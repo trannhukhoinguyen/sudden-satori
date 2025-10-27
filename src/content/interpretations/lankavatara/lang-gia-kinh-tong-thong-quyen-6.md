@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 6
+title: Lăng Già Kinh Tông Thông - Quyển 6
 description: 1600-1615
 authors: 
   - Tăng Phụng Nghi
@@ -14,61 +14,9 @@ videoId: cfNHpVPv6TA
 
 ## Quyển 6
 
-e51 mobil sẽ thắng Ca Mâu Ni Phật
+Kinh:
 
-Việt Nam Mô buồn sẽ thích anh Ca Mau ni
-
-bằng cô nàng kno4 sơ sinh đã mông to
-
-Nam mô bổn sư thích ca mâu ni phật nam
-
-mô lăng giả hội thượng phật bồ tát
-
-kính lễ bậc ân sư và đài Thiện tri thức
-
-mười phương đài chúng chúng con Chế
-
-Thành Ân triêm Công Đức Bộ Kinh Lăng già ai bạc Đà La Bảo tông
-
-thông đời Tống Tam Tạng đại sư cầu na
-
-bạc Đà La người nước Thiên Trúc dịch lần
-
-thứ nhất đời nguyên vị Tam Tạng Pháp Sư
-
-Bồ Đề Lưu Chi người Bắc Thiên Trúc dịch
-
-lần thứ hai đời Đường Tam Tạng pháp sư
-
-thật xa nang và nước bưu điện dịch lần
-
-thứ ba
-
-đời Minh đệ tử Bồ Tát giới tiền Phụng
-
-huấn đại vương để bộ từ tế thân sự tư
-
-viên ngoại Lang Tân Phụng Hy tông thông
-
-Anh Việt Dịch Sa Môn thích giáp phổ Hiệu
-
-đính Sa Môn Thích Nguyên thiện cùng toàn
-
-thể thiện Nam tín nữ in kinh cúng dường
-
-Phụng Ân Tam Bảo Nam Mô Đức Bổn Sư Thích
-
-Ca Mâu Ni Phật
-
-cung Thịnh đại chúng đồng nghe
-
-cưng lăng giả a bạc Đà La Bảo tông thông
-
-huyện 6
-
-Nghe Kinh Bồ Tát Đại Huệ là Bạch Phật
-
-rằng Bạch Thế Tôn như thế Tôn Đản nói do
+Bồ Tát Đại Huệ là Bạch Phật rằng Bạch Thế Tôn như thế Tôn Đản nói do
 
 vận tượng kìa kìa vọng tưởng các tính
 
