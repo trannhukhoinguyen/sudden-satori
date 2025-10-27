@@ -1,5 +1,5 @@
 ---
-title: "Lăng Già Tông Thông - Quyển 1"
+title: "Lăng Già Kinh Tông Thông - Quyển 1"
 description: ""
 authors: 
     - Tăng Phụng Nghi
@@ -12,55 +12,7 @@ image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 videoId: kRYzpw2ntPY
 ---
 
-## NGUỒN GỐC
-
-- Hán dịch lần 1: Tam tạng Đại sư **Cầu-na-bạt-đà-la**, người Thiên Trúc, đời Tống.
-- Hán dịch lần 2: Tam tạng Pháp sư **Bồ-đề-lưu-chi**, người Bắc Thiên Trúc, đời Nguyên Ngụy.
-- Hán dịch lần 3: Tam tạng Pháp sư **Thật-xoa-nan-đà**, người Vu-điền, đời Đường.
-- Tông thông: **Tăng Phụng Nghi** (Đệ tử Bồ-tát giới Tiền Phụng Huấn Đại Phu, Lễ Bộ Từ Tế Thanh Sử Tư Viên Ngoại Lang), người Trung Quốc, đời Minh.
-- Việt dịch: Sa-môn **Thích Giác Phổ**
-- Hiệu đính: Sa-môn **Thích Nguyên Thiện**
-
-## LỜI NÓI ĐẦU
-
-- Bản kinh lăng-già được dịch lần đầu do ngày cầu na bạc đà la đời lưu tấm 424 đến 454 dịch thành bốn quyển lấy tên là **Lăng Già A-bạt-đa-la Bảo Kinh**
-- Đời Nguyên Ngụy 500 đến 516 ngày Bồ Đề Lưu Chi dịch thẳng 10 quyển lấy tên là **Nhập Lăng Già**
-- Đời đường 684 đến 705 ngày thật to a-nan-đà dịch thành 7 quyển lấy tên là **Đại thừa Nhập Lăng Già**
-- Đời Minh 1572 đến 1620 cơ sở Bồ Tát giới tăng phụ ghi đã dùng hội cả ba bản dịch và thêm dùng các tích xưa và cơ dư độc đáo của các bậc tôn thúc để làm rõ nhịp kinh soạn thành 8 quyển đặt tên là **Lăng Già A-bạt-đa-la Bảo Kinh Tông Thông** được kết tập trong vạn tục tạng số X17 No.330
-
-
-
-Kinh Lăng Già A Bạt Đa La Bảo, do Tam Tạng Sa-môn Cầu-na-bạt-đà-la ở Thiên Trúc dịch lần đầu, Tam Tạng Sa-môn Bồ-đề-lưu-chi ở Bắc Ngụy dịch lần thứ 2, và Tam Tạng Sa-môn Thật-nghĩa-nan-đà ở Vu-điền dịch lần thứ 3.
-
-Người soạn Tông Thông là Tăng Phụng Nghi, đệ tử Bồ-tát Giới, từng giữ chức Viên Ngoại Lang.
-
-Giải thích: Kinh này gọi là Lăng Già, vì nói về núi Lăng Già – nơi chư Phật thường trụ thuyết pháp.
-Núi này như viên ngọc quý, rất kiên cố, ví như bảo vật không gì sánh bằng.
-Trên đỉnh núi có một thành, nơi Dạ-xoa cư trú, ban đêm thường phát ra ánh sáng rực rỡ.
-Những ai ở trong cảnh giới này nếu tâm còn phân biệt thì không thấy Phật; chỉ khi nào dứt phân biệt, tâm thanh tịnh, mới thấy được Phật thuyết kinh tại đây.
-## Quyển 1
-
-## DUYÊN KHỞI
-
-
-
-## ĐỀ TỪ (TỰA)
-
-
-Lý Duyên khởi Kinh Lăng và tông thông đề tựa Núi năm nhạc quan trương Kim giảng tên là căng Phụng Nhi tự là Thuận trưng viết
-
-từ năm Giáp Dần tôi từ trường Châu về tạm dừng chân ở Gia Hòa gặp hai vị tăng là cấu Đạt khoáng và mật tạng từ xưa Vốn đã hợp ý nhau rằng ngày ngày đảm đạo cái
-
-vui thiền định mà ít lại ngao du cạnh
-
-bên ngoài một đêm tên nằm mộng đi đến
-
-cõi giới đâu làm nghiêng thế đức từ tôn
-
-dung màu Tuy nhiên gọi vội tôi chấn động
-
-năm vóc tập Lại tâm ý rộng ra kính nghe
-lời chỉ dạy ngài dạy rằng phân biệt là thức vô phân biệt là Trí 
+Lý Duyên khởi Kinh Lăng và tông thông đề tựa Núi năm nhạc quan trương Kim giảng tên là căng Phụng Nhi tự là Thuận trưng viết từ năm Giáp Dần tôi từ trường Châu về tạm dừng chân ở Gia Hòa gặp hai vị tăng là cấu Đạt khoáng và mật tạng từ xưa Vốn đã hợp ý nhau rằng ngày ngày đảm đạo cái vui thiền định mà ít lại ngao du cạnh bên ngoài một đêm tên nằm mộng đi đến cõi giới đâu làm nghiêng thế đức từ tôn dung màu Tuy nhiên gọi vội tôi chấn động năm vóc tập Lại tâm ý rộng ra kính nghe lời chỉ dạy ngài dạy rằng phân biệt là thức vô phân biệt là Trí 
 từ sáng sớm tôi gọi đến hỏi hay bị tăng lời này phát xuất từ kênh nào 
 cả hai điều nói giống lời Kinh Lăng già
 tôi liền lấy kinh lăng-già lục sen mà chẳng thấy đến năm Đinh Dậu ta đi cùng vị tăng xưa qua cổng thành vào kinh đô
