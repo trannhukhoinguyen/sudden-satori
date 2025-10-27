@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 3
+title: Lăng Già Kinh Tông Thông - Quyển 3
 description: 1600-1615
 authors:
   - Tăng Phụng Nghi
@@ -14,63 +14,9 @@ videoId: -ILGM4nQisA
 
 ## Quyển 3
 
-e51 ô born thích ca mâu ni phật
+Kinh:
 
-nam mô buồn sẽ tính Ca Mau Ni Phật
-
-I
-
-know bồn sứ Thích Ca Mâu Ni Phật
-
-Nam Mô Bổn Sư Thích Ca Mâu Ni Phật Nam
-
-Mô lăng-già Hội Thượng Phật Bồ Tát kính
-
-để bật ân sư và đại Thiện tri thức mười
-
-phương
-
-Mở bài Chú chúng con biết anh Ân triêm
-
-Công Đức Kinh Lăng già a bạc Đà La Bảo
-
-tông thông đời Tống Tam Tạng đại sư cầu
-
-na bạc Đà La người nước Thiên Trúc dịch
-
-lần thứ nhất đời nguyên vị Tam Tạng Pháp
-
-Sư Bồ Đề Doji người Bắc Thiên Trúc dịch
-
-lần thứ hai đời Đường Tam Tạng pháp sư
-
-hoặc xoa nangđà nước bưu điện dịch lần
-
-thứ ba đời Minh đệ tử Bồ Tát giới tiền
-
-Phụng huấn đại vương lễ Bộ từ tế tan sự
-
-tư viên ngoại Lang Tăng Phụng Nhi tông
-
-thông
-
-Anh Việt Dịch Sa Môn Thích Giác bộ hiệu
-
-đính Sa Môn Thích Nguyên thiện cùng toàn
-
-thể thiện Nam tín nữ in kinh cũng dược
-
-bụng Ân Tam Bảo
-
-Nam Mô Đức Bổn Sư Thích Ca Mâu Ni Phật
-
-để cung thỉnh đại chúng đồng Nghe Kinh
-
-Lăng già a bạc Đà La Bảo Tâm thông quyển
-
-3
-
-có kinh lại nữa Đại Huệ đại Bồ Tát phải
+Lại nữa Đại Huệ đại Bồ Tát phải
 
 khéo thông Trần 3 từ tính sao gọi là ba
 
