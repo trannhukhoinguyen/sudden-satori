@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 8
+title: Lăng Già Kinh Tông Thông - Quyển 8
 description: 1600-1615
 authors: 
   - Tăng Phụng Nghi
@@ -16,24 +16,11 @@ videoId: t9ByEpTmqno
 
 Kinh:
 
-Bấy giờ Bồ Tát Đại Huệ là Bạch
+Bấy giờ Bồ Tát Đại Huệ bạch Phật rằng:
+Bạch Thế Tôn nguyện xin phân biệt rốt ráo tướng năm pháp tự tính thức hai thứ vô ngã khiến con và các đại bồ-tát khác thứ lớp tương tục vào tất cả địa phân biệt pháp này được vào hết thảy pháp vật được vào hết hạn Phật pháp rồi thì đến Như Lai tự giác địa 
 
-Phật rằng Bạch Thế Tôn nguyện xin phân
-
-biệt rốt ráo tướng năm pháp tự tính thức
-
-hai thứ vô ngã khiến con và các đại
-
-bồ-tát khác thứ lớp tương tục vào tất cả
-
-địa phân biệt pháp này được vào hết thảy
-
-pháp vật được vào hết hạn Phật pháp rồi
-
-thì đến Như Lai tự giác địa Phật Bảo Đại
-
-Huệ lắng nghe lắng nghe Hãy kéo nhớ Nhị
-
+Phật Bảo Đại Huệ 
+lắng nghe lắng nghe Hãy kéo nhớ Nhị
 Đại Huệ bạch vật Tinh Vân lắng nghe phật
 
 Bảo Đại Huệ phân biệt rõ các tướng năm
