@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 2
+title: Lăng Già Kinh Tông Thông - Quyển 2
 description: ""
 authors:
     - Tăng Phụng Nghi
@@ -14,83 +14,15 @@ videoId: fXeCZy7gpNE
 
 ## Quyển 2
 
-e51 ô bolzan thánh ca mâu ni phật
+Kinh:
 
-nam mô buồn sẽ tính Ca Mau Ni Phật
+Bấy giờ đại bồ-tát Đại Huệ bạch Phật rằng:
+Bạch Thế Tôn Các thức có mấy chủng sinh trụ diệt
 
-cô nàng asgo 4 sự tinh cái mông à
+Đức Phật bảo:
+Này Đại Huệ, về cách thức có hai chủng sinh trụ Diệt Ừ cháu phải chỗ hiểu biết suy lường được về cách thức có hai chủng sinh anh lưu trú sinh và tướng sinh anh có hai trụ lưu trú trụ và tướng trụ anh có hai chủng viện lưu trú Việt và tướng Việt Ồ
 
-Nam Mô Bổn Sư Thích Ca Mâu Ni Phật Nam
-
-Mô lăng-già Hội Thượng Phật Bồ Tát kính
-
-tệ mặc ân sư và đại Thiện tri thức mười
-
-phương
-
-Nghe đài chú chúng con biết anh Ân triêm
-
-Công Đức
-
-Kinh Lăng già a bạc Đà La Bảo tông thông
-
-đời Tống Tam Tạng đại sư cầu na bạc Đà
-
-La người nước Thiên Trúc dịch làm thứ
-
-nhất đời nguyên vị Tam Tạng Pháp Sư Bồ
-
-Đề Long chi người Bắc Thiên Trúc dịch
-
-lần thứ hai đời Đường Tam Tạng pháp sư
-
-hoặc xoa nangđà nước bưu điện dịch lần
-
-thứ ba đời Minh đệ tử Bồ Tát giới tiền
-
-Phụng huấn đại vương lễ Bộ từ tế tan sự
-
-tư viên ngoại Lang Tân Phụng Nhi tông
-
-thông Anh Việt Dịch Sa Môn Thích Giác bộ hiệu
-
-đính Sa Môn Thích Nguyên thiện cùng toàn
-
-thể thiện Nam tín nữ in kinh cũng dược
-
-bụng Ân Tam Bảo
-
-Nam Mô Đức Bổn Sư Thích Ca Mâu Ni Phật
-
-cung Thịnh đại chúng đồng nghe
-
-Bộ Kinh Lăng già a bạc Đà La Bảo tông
-
-thông quyển 2
-
-có kinh mấy giờ đại bồ-tát Đại Huệ là
-
-Bạch Phật rằng Bạch Thế Tôn Các thức có
-
-mấy chủng sinh trụ diệt
-
-Đức Phật bạo này Đại Huệ
-
-về cách thức có hai chủng sinh trụ Diệt
-
-Ừ cháu phải chỗ hiểu biết suy lường được
-
-về cách thức có hai chủng sinh anh lưu
-
-trú sinh và tướng sinh
-
-anh có hai trụ lưu trú trụ và tướng trụ
-
-anh có hai chủng viện lưu trú Việt và
-
-tướng Việt
-
-Ồ thông rằng
+Thông rằng
 
 108 câu trên Như Lai chỉ Tab bằng một
 
