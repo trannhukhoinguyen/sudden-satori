@@ -1,5 +1,5 @@
 ---
-title: Lăng Già Tông Thông - Quyển 7
+title: Lăng Già Kinh Tông Thông - Quyển 7
 description: 1600-1615
 authors: 
   - Tăng Phụng Nghi
@@ -14,75 +14,12 @@ videoId: 0-APaV3LUU8
 
 ## Quyển 7
 
-e51 mobil sẽ thích ca mâu ni phật
+Kinh:
 
-nam mô buồn sẽ thích ca mâu ni bằng
+Bây giờ bồ-tát Đại Huệ bạch Phật rằng Bạch Thế Tôn xin vì chúng con
+thuyết về tránh cảm giác con và các đại bồ-tát khéo nơi từ tính như lai rồi tự giác giác thả hoặc Bạo Đại Huệ ông tùy ý hỏi theo đó ta sẽ thuyết 
 
-nam mô bồn sứ Thích Ca Mâu Ni Phật Việt Nam Mô Đức Bổn Sư Thích Ca Mâu Ni Phật
-
-Nam Mô lăng-già Hội Thượng Phật Bồ Tát
-
-chính lệ Bật ông xưa và đài Thiện tri
-
-thức mười phương
-
-Bộ Kinh Lăng già a bạc Đà La Bảo tông
-
-thông
-
-ở đời Tống Tam Tạng đại sư cầu na bạc Đà
-
-La người nước Thiên Trúc dịch lần thứ
-
-nhất đời nguyên vị Tam Tạng Pháp Sư Bồ
-
-Đề tư duy người Bắc Thiên Trúc dịch lần
-
-thứ hai đời Đường Tam Tạng pháp sư thật
-
-xa nên đà nước bưu điện dịch lần thứ ba
-
-đời minh để tự Bồ Tát giới tiền phụ cuốn
-
-đại vương lê bộ từ tế tan sự tư quyền
-
-ngoại Lang căng Phụng Nhi công thông
-
-việc dịch Sa Môn Thích Giác Ngộ hiệu
-
-đính Sa Môn Thích Nguyên thiện cùng toàn
-
-thể thiện Nam tín nữ in kinh cũng dưỡng
-
-cũng ăn Tam Bảo Nam Mô Kinh Lăng già a
-
-bạc Đà La Bảo Hội Thượng Phật Bồ Tát
-
-hiển Thánh Tông
-
-để cung thỉnh đại chúng đồng Nghe Kinh
-
-Lăng và a bạc bà la bạo tông thông quyển
-
-7
-
-a kinh bây giờ bồ-tát Đại Huệ bạch Phật
-
-rằng Bạch Thế Tôn xin vì chúng con
-
-thuyết về tránh cảm giác con và các đại
-
-bồ-tát khéo nơi từ tính như lai rồi tự
-
-giác giác thả hoặc Bạo Đại Huệ ông tùy ý
-
-hỏi theo đó ta sẽ huyết Bồ Tát Đại Huệ
-
-Bạch Mộc Bạch Thế Tôn
-
-Như Lai ứng cúng Chánh đẳng giác là Tạo
-
-Tác nhân là không tạo 800 là sự chăm
+Bồ Tát Đại Huệ Bạch Thế Tôn Như Lai ứng cúng Chánh đẳng giác là Tạo Tác nhân là không tạo 800 là sự chăm
 
 đường dịch là quả trăm kinh là Ngân Trâm
 
