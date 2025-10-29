@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS PHONG HUYỆT DIÊN CHIỂU
 image: /images/koans/great-wave.webp
 ---
 
@@ -14,22 +14,35 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Ngài Đan Hà dạy chúng: Có lúc đi bước đạp nhầm, có lúc mỗi mỗi lầm qua, cần biết một đường tôn quí. Há cho tùy tiện bước lên, có ai hay qua lại chăng?
+Có lúc đi bước đạp nhầm, có lúc mỗi mỗi lầm qua, cần biết một đường tôn quí. Há cho tùy tiện bước lên, có ai hay qua lại chăng?
 
-BẢN TẮC
-Tăng hỏi ngài Phong Huyệt: Thế nào là đạo?
-Phong Huyệt đáp: Trước lầu Ngũ phụng.
-Tăng hỏi: Thế nào là người trong đạo?
-Phong Huyệt nói: Hỏi sứ trong thành.
+## CỬ - BẢN TẮC:
 
-Ngài Đầu Tử niêm: Nhưng chỉ đường là nhờ người, thì là chính mình. Hỏi, xác định tận gốc của ngộ. Đáp, cũng phải trả ra tông chỉ. Nếu chính mình không thực hành, thì nhọc công đi hành cước.
+📢 Ngài Đầu Tử cử:
+
+> Tăng hỏi ngài Phong Huyệt: **Thế nào là đạo?**
+>
+> Phong Huyệt đáp: **Trước lầu Ngũ phụng.**
+>
+> Tăng hỏi: **Thế nào là người trong đạo?**
+>
+> Phong Huyệt nói: **Hỏi sứ trong thành.**
+
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử niêm:
+
+Nhưng chỉ đường là nhờ người, thì là chính mình. Hỏi, xác định tận gốc của ngộ. Đáp, cũng phải trả ra tông chỉ. Nếu chính mình không thực hành, thì nhọc công đi hành cước.
 
 Vì cớ sao? Bởi vì thiền pháp chí cực vi diệu chư Thánh chẳng qua, vừa suy nghĩ đã cách xa vạn dặm. Cho nên,
 
-Cung thái tử nghinh đón điềm lành,
-Điện vua mây lành bao phủ kín.
-Thềm rêu trong chốn thâm cung mọc,
-Đèn nến hương thơm người tĩnh lặng.
+> Cung thái tử nghinh đón điềm lành,
+> 
+> Điện vua mây lành bao phủ kín.
+> 
+> Thềm rêu trong chốn thâm cung mọc,
+> 
+> Đèn nến hương thơm người tĩnh lặng.
 
 Ngay khi ấy thì thế nào? Người còn thở chăng. Nếu gián đoạn trong hơi thở thì đã xa vạn dặm.
 
@@ -57,17 +70,22 @@ Cuối cùng nói rằng: Thiền pháp chí cực vi diệu ngàn Thánh chẳn
 
 Thật là đáng thương thành khẩn một lòng ngưỡng vọng uy đức. Ngưỡng vọng từ xa điện vua ẩn trong sương mù, đứng lặng trông về lầu thái tử đón điềm lành. Thâm cung rèm phủ người tĩnh lặng hương tàn. Không dám ung dung nào có dễ thở. Nếu như gián đoạn trong một hơi thở thì đã cách xa vạn dặm.
 
-Chỉ nhận quên duyên đạt thành đạo,
-Bên trong không lối cách trần ai.
+> Chỉ nhận quên duyên đạt thành đạo,
+> 
+> Bên trong không lối cách trần ai.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Thâm cung cấm điện nhiều lớp thành,
+> Thâm cung cấm điện nhiều lớp thành,
 Mái hiên buông rèm còn sắc tía.
 Rêu xanh phủ kín tiếp thánh triều,
-Mọi người chỉ đường chớ chần chờ.
+> Mọi người chỉ đường chớ chần chờ.
 
-Ngài Lâm Tuyền nói: Đạo của Đức Phật ta vi diệu sâu xa khó nhận được. Sáu cửa tuy thông tức thân khom mình cung kính. Đạt được đạo thì dọc ngang chẳng ngại, một mất thì mọi chỗ đều không thông. Buông ra thì gạch ngói phát quang, nắm lại thì vàng ròng mất sắc.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Đạo của Đức Phật ta vi diệu sâu xa khó nhận được. Sáu cửa tuy thông tức thân khom mình cung kính. Đạt được đạo thì dọc ngang chẳng ngại, một mất thì mọi chỗ đều không thông. Buông ra thì gạch ngói phát quang, nắm lại thì vàng ròng mất sắc.
 
 Huống nữa thâm cung cấm điện nhiều lớp thành, nghe xem rất khó thấu được. Không có danh ngôn nào mà có thể so sánh và thí dụ được đạo của Thánh Nhân ư?
 
@@ -77,29 +95,8 @@ Mái hiên rèm vắng lặng càng khó chạm. Trăng tàn nơi sân nhỏ ai 
 
 Tác giả thiên khách tối ky chần chờ, nạp tăng thông minh cần phải xét kỹ.
 
-Ra khỏi cửa tuy vào chốn thị phi,
-Mở mắt nhìn ra người nhân nghĩa.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
+> Ra khỏi cửa tuy vào chốn thị phi,
+> Mở mắt nhìn ra người nhân nghĩa.
 
 <hr class="blog-rule" />
 
@@ -111,6 +108,6 @@ Mở mắt nhìn ra người nhân nghĩa.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Fengxue-Yanzhao" target="_blank">🔗 TS PHONG HUYỆT DIÊN CHIỂU</a>
 
 

@@ -1,0 +1,33 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Table from "../../components/ui/Table.astro";
+import organizationsDb from '../../data/organizationsDb';
+
+const title = 'Danh sách Tổ chức';
+const description = ``;
+
+const customizeSortedOrganizationsDb =
+  organizationsDb?.map(({
+                         id,
+                         name,
+                         website,
+                         relatedYoutube,
+                         logo,
+                         description,
+                         ...rest
+                     }) => ({ ...rest }));
+---
+
+<Layout title={title} description={description}>
+    <div class="about-page">
+        <header class="page-header">
+            <h1 class="page-title">{title}</h1>
+            <hr class="page-rule" />
+        </header>
+
+        <div class="content-section">
+            <Table data={customizeSortedOrganizationsDb} />
+        </div>
+    </div>
+</Layout>
+

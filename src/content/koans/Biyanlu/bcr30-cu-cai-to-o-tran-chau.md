@@ -68,7 +68,7 @@ Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý r
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
 
 [1] Đoạn này không có trang bản của Ito Yuten.
 

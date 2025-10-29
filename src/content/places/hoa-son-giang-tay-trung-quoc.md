@@ -13,7 +13,7 @@ tags:
 
 (禾山)
 
-Cũng gọi Thu sơn. Núi ở huyện **Vĩnh tân**, tỉnh **Giang Tây**, 🇨🇳.
+Cũng gọi Thu sơn. Núi ở huyện **Vĩnh Tân**, tỉnh **Giang Tây**, 🇨🇳.
 
 Vì núi này trồng nhiều lúa nên gọi là Hòa sơn (núi lúa).
 

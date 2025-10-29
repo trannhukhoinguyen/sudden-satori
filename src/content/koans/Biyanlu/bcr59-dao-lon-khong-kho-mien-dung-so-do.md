@@ -110,4 +110,4 @@ Tuyết Đậu trong một lúc mô tả ngay được Triệu Châu. Cái thậ
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/zhaozhou-congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
