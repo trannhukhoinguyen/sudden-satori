@@ -92,4 +92,4 @@ Tuyết Đậu buông ông tăng này và nói rằng nếu như ông ta hốt n
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>
+[^1]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>

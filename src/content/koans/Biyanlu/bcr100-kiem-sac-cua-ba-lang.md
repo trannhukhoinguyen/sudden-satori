@@ -141,4 +141,4 @@ Lão tăng còn có một bài kệ nhỏ nữa,
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-ba-lang-hao-giam/" target="_blank">🔗 TS BA LĂNG HẠO GIÁM</a>
+[^1]: ⭐️ <a href="/masters/Baling-Haojian" target="_blank">🔗 TS BA LĂNG HẠO GIÁM</a>

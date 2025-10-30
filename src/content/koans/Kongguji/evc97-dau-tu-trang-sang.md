@@ -99,4 +99,4 @@ Tiêu tuy chín đoạn trường.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fushan-Fayuan" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>
+[^1]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>
