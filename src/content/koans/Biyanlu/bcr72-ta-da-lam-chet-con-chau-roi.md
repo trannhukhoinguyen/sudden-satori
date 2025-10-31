@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Bách Trượng lại hỏi Vân Nham, “Không có cổ họng với miệng môi, làm thế nào để nói đây?” 
 > 

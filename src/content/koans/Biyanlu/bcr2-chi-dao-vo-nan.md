@@ -21,7 +21,7 @@ Cả một kho giáo lý cũng không giải thích hết, các tăng sĩ thông
 Nói ra chữ “Phật” chẳng khác gì là lội trong nước bùn. Nói ra chữ “Thiền” cả mặt cũng là lúng túng.
 Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai nói, còn kẻ hậu học căn cơ thô thiển thì vẫn cần phải điều nghiên và hiểu thấu.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Triệu Châu [^1] dạy chúng nói, 
 

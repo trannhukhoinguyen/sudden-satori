@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Người gõ cầm tấm ván vỗ trong mây âm vang vượt trời xanh. Gái đá thổi kèn dưới đáy giếng tiếng vang đội thấu trời cao. Có ai nghe tiếng bằng mắt không?
+Người gõ cầm tấm ván vỗ trong mây âm vang vượt trời xanh. Gái đá thổi kèn dưới đáy giếng tiếng vang đội thấu trời cao. Có ai nghe tiếng bằng mắt không?
 
 BẢN TẮC
 
@@ -71,7 +69,7 @@ Thử xem cội đã mùa thu kết trái,
 Chẳng giống chày giã đêm trổ hoa.
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

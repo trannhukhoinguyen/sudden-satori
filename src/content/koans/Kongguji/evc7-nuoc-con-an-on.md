@@ -21,7 +21,7 @@ image: /images/koans/great-wave.webp
 > Có tín xưa nay vốn đầy đủ chăng?
 > Đâu biết không cần cầu bên ngoài, an nhàn trong cảnh hiện tiền, nếu hiểu được lời này?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

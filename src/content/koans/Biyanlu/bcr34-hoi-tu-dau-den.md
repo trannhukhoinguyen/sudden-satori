@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Ngưỡng Sơn [^1] hỏi một ông tăng, “_Ông mới từ đâu đến vậy?_”
 >

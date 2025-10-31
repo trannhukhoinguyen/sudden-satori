@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Thường ở bên bờ kia, chỉ muốn vượt hiểm nguy cắt đứt dòng chảy, uống cạn giữ nguồn lặng, không chịu giăng buồm xuôi gió. Có ai ở chốn nước sâu thẳm thẳm buông câu thả mồi chăng?
+Thường ở bên bờ kia, chỉ muốn vượt hiểm nguy cắt đứt dòng chảy, uống cạn giữ nguồn lặng, không chịu giăng buồm xuôi gió. Có ai ở chốn nước sâu thẳm thẳm buông câu thả mồi chăng?
 
 BẢN TẮC
 Tăng hỏi ngài Nham Đầu: Lúc buồm xưa không kéo lên được thì thế nào?
@@ -60,7 +58,7 @@ Khắp nơi mọi người đều biết. Giống như ngày xuân chim oanh li�
 Vượt qua sắc tuyệt chỉ có có huyền,
 Ánh xuân hiển hiện nào bằng liễu mượt.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

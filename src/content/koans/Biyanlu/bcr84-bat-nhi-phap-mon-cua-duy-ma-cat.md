@@ -19,7 +19,7 @@ Nếu như có nạp tăng nào bước ra nói, “trước mắt là Phật đ
 
 Thử nói xem, người ấy có mắt hay không? Nếu như các ông phân biện được người ấy, tôi công nhận rằng các ông đã thân cận được với cổ nhân rồi đấy.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Duy Nam Cật hỏi Văn Thù Sư Lợi, “Thế nào là Bồ Tát nhập nhị pháp môn?” 
 > 

@@ -16,7 +16,7 @@ Thấu khỏi sinh tử, xoay chuyển cơ quan. Nhàn nhã cắt sắt chặt �
 
 Song thử nói xem, đây là cách hành xử của ai vậy? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Vân Môn hỏi ông tăng kia, “Mới từ đâu tới?”
 >

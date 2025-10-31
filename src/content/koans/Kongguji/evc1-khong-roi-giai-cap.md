@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 > Chỉ đập tan khối nghi, cần gì một câu huyền diệu.
 > Cửa huyền thông suốt, người đạt được diệu dụng tự tại đó là AI (người nào)?
 
-## CỬ - BẢN TẮC::
+## CỬ - TẮC::
 
 📢 Ngài Đầu Tử cử:
 

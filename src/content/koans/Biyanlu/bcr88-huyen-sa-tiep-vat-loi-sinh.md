@@ -18,7 +18,7 @@ Các phương pháp của tông môn chúng ta là như vậy, phá hai làm ba.
 
 Theo lệnh mà hành sự, tảo trừ tất cả các dấu vết. Thử nói xem, lúng túng ở chỗ nào? Thử nêu lên cho những người có mắt trên đỉnh đầu xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Huyền Sa dạy chúng rằng, “Các bậc lão túc ở khắp nơi đều nói về việc tiếp vật lợi sinh. Hốt nhiên gặp phải ba loại người bệnh phải tiếp họ như thế nào? 
 > 

@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 > Siêu thánh giải, lìa nói năng. 
 > Tối kỵ dính mắc vào môi lưỡi, chỗ siêu thoát lanh lợi thử phân tích xem.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

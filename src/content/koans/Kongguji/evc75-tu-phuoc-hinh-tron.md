@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Ngũ âm không phạm, phải len nghe. Nghe đàn khúc đàn ca xưa khu chịu, hòa dưới trời xanh, yết hầu âm thang quả tắc. Có người nào hòa hợp được chăng?
+Ngũ âm không phạm, phải len nghe. Nghe đàn khúc đàn ca xưa khu chịu, hòa dưới trời xanh, yết hầu âm thang quả tắc. Có người nào hòa hợp được chăng?
 
 BẢN TẮC
 Tăng hỏi: Hòa thượng Tư Phước Bảo ở Kiết Châu. Thế nào là khúc ca người xưa?
@@ -41,7 +39,7 @@ Ai tin âm vang nơi ấy.
 
 Ngài Lâm Tuyền nói: Bậc Nhan và Tí Kỳ không phải người khác. Cho nên nói đàn không dây mà khải khúc. Đàn không dây mà hòa khúc với giọng thanh thoát. Tại nghe thì khó, nếu lòng mây mới biết nghe. Cho nên đêm khuya là thời điểm tốt đẹp nhất, hợp giúp cho ánh trăng tỏ rạng sang ngọn nhạc tài len một thanh âm độc đáo, như gió lướt nhẹ, ngọn tung, tưa như tiếng mưa rơi dưới khe.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -17,7 +17,7 @@ Thấy thỏ thả ưng, nhanh nhẹn trong một lúc. Gom tất cả ngôn ng�
 
 Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Thế Tôn một hôm thăng tòa. Văn Thù đánh trùy nói, “Quan sát cho kỹ Pháp của bậc Pháp Vương, Pháp của bậc Pháp Vương là như vầy đây” 
 > 

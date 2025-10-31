@@ -19,7 +19,7 @@ Không có chỗ nào để gậm cắn: Tâm ấn của Tổ Sư có hình dán
 
 Việc dìu đục trên đất bằng tạm gác qua một bên. Không rơi vào những cơ duyên rối rấm thì như thế nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Nam Tuyền [^1], Qui Tông [^2] và Ma Cốc [^3] cùng đi tham bái Trung Quốc Sư [^4]. Đến nữa đường, Ngài Nam Tuyền vẽ một vòng tròn trên mặt đất rồi nói,”
 >

@@ -20,7 +20,7 @@ Danh lập ra lúc chưa có tên gọi, mỗi tin rằng tiếng là gốc củ
 
 Có người nào không hình, không bóng, không tiếng, không vang mà hội được chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

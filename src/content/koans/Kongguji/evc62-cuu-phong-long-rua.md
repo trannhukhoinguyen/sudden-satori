@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Cõi thiên mênh mông đâu có giới hạn đông tây. Tánh biến bao la nào phân nam bắc. Trong đây đã không xa gần trong đó sao có nặng nhẹ. Nhắc lên thử thì biết nặng nhẹ.
+Cõi thiên mênh mông đâu có giới hạn đông tây. Tánh biến bao la nào phân nam bắc. Trong đây đã không xa gần trong đó sao có nặng nhẹ. Nhắc lên thử thì biết nặng nhẹ.
 
 BẢN TẮC
 Tăng hỏi Hòa thượng Cửu Phong Cẩn: Thế nào là ý Tổ Sư từ Tây sang?
@@ -62,7 +60,7 @@ Loan phụng trong lửa, trâu đất đầy biến, không chỗ nương tựa
 Dù cho hồ đá nổi giận, mặc dù thế sự cầm sáo nào, trụ cột lông đèn thấy đều chẳng khiếp sợ. 
 Đạt được ý này chăng? Chưa đủ cân lượng thấy rõ ràng, rốt cuộc qui về điểm thăng bằng.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 > Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường.
 > Đã biết mắt trái nửa cân, suy ra mắt phải cũng 8 lạng, sợ y không tin, thử nhìn kỹ xem.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

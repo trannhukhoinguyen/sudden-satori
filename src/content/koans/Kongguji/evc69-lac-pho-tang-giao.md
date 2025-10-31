@@ -14,21 +14,22 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Mở cửa chớm như, ngày đối mặt trăng sáng, mùa thu kết trái. Lạ tường ngôn lự, chớ được có suy lường. 
+Thư trước không an bài, lấp ngăn chật, đã đêm nở hoa. Cứu thật đến nay không nơi chốn. Có đạt được lý này chăng?
 
+## CỬ - TẮC:
 
-Ngài Đan Hà dạy chúng:
-Mở cửa chớm như, ngày đối mặt trăng sáng, mùa thu kết trái. Lạ tường ngôn lự, chớ được có suy lường. Thư trước không an bài, lấp ngăn chật, đã đêm nở hoa. Cứu thật đến nay không nơi chốn. Có đạt được lý này chăng?
+📢 Ngài Đầu Tử cử:
 
-BẢN TẮC
+> Tăng hỏi: Lạc Phổ! Thế nào là một câu tàng kinh thâu không được?
+>
+> Lạc Phổ đáp: Mùa thắm ướt cỏ tươi tốt, thời ngọc xưa nay sáng ngời.
 
-Ngài Đầu Tử cũ, Tăng hỏi:
-– Lạc Phổ! Thế nào là một câu tàng kinh thâu không được?
-Lạc Phổ đáp:
-– Mùa thắm ướt cỏ tươi tốt, thời ngọc xưa nay sáng ngời.
+## BÌNH XƯỚNG
 
-BÌNH XƯỚNG
+📢 Ngài Đầu Tử nói:
 
-Ngài Đầu Tử cũ: Khi Đức Như Lai nói giáo pháp bốn mươi chín năm, tăng hai là luật, tăng ba là luận, tăng bốn là kinh. Song đến nay chỉ lưu truyền một phần trong muôn phần.
+Khi Đức Như Lai nói giáo pháp bốn mươi chín năm, tăng hai là luật, tăng ba là luận, tăng bốn là kinh. Song đến nay chỉ lưu truyền một phần trong muôn phần.
 
 Vị Tăng này nay hỏi trong tạng giáo thâu không được, điều này chẳng phải là ngôn ngữ trên giấy mực. Mong tội cùng của tất cả chúng sanh, từ xưa đến nay làm cho đầu tư lộc không sanh, không diệt thường hằng mãi mãi. Nói điều này chẳng phải là ngôn ngữ trên giấy mực.
 
@@ -42,14 +43,16 @@ Tuy ba thừa căn cơ khác nhau, nhưng Đức Như Lai ban bố mưa pháp kh
 
 Không nghe nói sao, rõ được một câu viên âm trước tiếng, thì sẽ vượt ra ngoài vầng trăng của Tam Sơn. Ánh sáng còn lại nên xem ý bài tụng.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Núi Tất Bát rực rỡ hoa xuân.
+> Núi Tất Bát rực rỡ hoa xuân.
 Gió thơm quyện khắp dinh Linh Thứu.
 Phải biết tượng ngọc ở trong tháp.
 Chỉ có đèn chiếu trời soi đất.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
 
 Thân mặt trời chẳng theo tình đời, chiếu soi khắp mọi nơi. Tuy chỗ có sắc xuân, một cành nở ba bốn hoa. Núi Tất Bát là chốn A Nan kết tập pháp tạng.
 
@@ -62,37 +65,17 @@ Ca Diếp vâng lời chỉ dạy, đại chúng vân tập.
 Bấy giờ Đức Thế Tôn ngồi kiết già nhập định kim cang tam muội, đại địa sáu cách chấn động. Lại phóng tướng sáng giữa chặn mày, chiếu khắp đại thiên trãi qua bảy ngày.
 
 Đại chúng liền nghĩ có nhân duyên gì, Thế Tôn xuất định tam muội khoan thai mỉm cười bảo với đại chúng: Như Lai ban đầu vượt thành lúc vừa ra khỏi cung có tướng của vua Càn Thát Bà lĩnh bộ tộc tấu trăm ngàn thiên nhạc đến chỗ ta hỏi: Ngài muốn đến đâu?
-Như Lai đáp: Ta muốn cầu bồ đề.
 
-Vua Càn Thát Bà nói với Như Lai: Nhất định Ngài sẽ thành chánh giác.
+Như Lai đáp: **Ta muốn cầu bồ đề.**
+
+Vua Càn Thát Bà nói với Như Lai: **Nhất định Ngài sẽ thành chánh giác.**
 
 Đức Phật Câu Lưu Tôn lúc sắp nhập niết bàn có giao cho tôi bình vàng. Trong bình có bảo tháp, chứa ấn bảy báu. Có ấn huỳnh kim, có ấn nam bạch ngân, ông hãy đem trao cho Tất Đạt, dùng bảo tòa tôi giữ gìn. Nếu Thái Tử thành chánh giác thì tôi sẽ tìm đến.
 
 Như Lai vàng theo lời này thọ nhận bình. Không bao lâu Như Lai thành đạo, thì Đại Phạm thiên vương cùng với thần Kiên Lao ở phía nam cây bồ đề, dùng huỳnh kim bạch ngọc tạo thành đàn già kim cang, trang trí bằng các thứ báu thật trang nghiêm. Tuy nhiên như thế, có biết rõ ràng một điểm chiếu trời soi đất chăng?
 
-Ngày xưa Vân Nham từng tiết lộ,
-Luân Vương không đội hoa quan báu.
-
-## CỬ - BẢN TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
+> Ngày xưa Vân Nham từng tiết lộ,
+> Luân Vương không đội hoa quan báu.
 
 <hr class="blog-rule" />
 

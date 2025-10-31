@@ -20,7 +20,7 @@ Tất cả đều tận tình tiếp đãi một cách chân thật.
 
 Có ai không tạo vẻ bề ngoài, không làm khách xa lạ chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

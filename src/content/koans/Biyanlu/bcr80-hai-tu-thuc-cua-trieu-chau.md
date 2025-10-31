@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Triệu Châu, “Trẻ sơ sinh có thức thứ sáu hay không?” 
 > 

@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Một câu trước tiếng, ngàn thánh không truyền. Một sợi trước mặt, mãi mãi không dứt. Tự tại thánh thoát, tóc rối bời tai chăm chú. Thử nói xem là gì vậy? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Trí Môn, “Bát nhã thể là gì?” 
 > 

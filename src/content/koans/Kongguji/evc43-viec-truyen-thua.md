@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Nhờ lý rõ sự, muốn được tự tại phải vượt qua chính mình. Nương sự mà dung lý. Liệu cánh tay có hàng phục được bên ngoài hay không. 
 Mỗi nhà giống nhau từng đời không khác. Chính ngay lúc này có người nhận được tánh chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

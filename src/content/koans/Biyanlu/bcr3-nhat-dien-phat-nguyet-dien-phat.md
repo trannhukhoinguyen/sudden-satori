@@ -21,7 +21,7 @@ Như vậy cũng được mà không như vậy cũng được, thế thì quá 
 Như vậy cũng không được mà không như vậy cũng không được, thế thì quá đơn độc.
 Không theo hai con đường này, như thế nào mới đúng? Xin thử nêu ra xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 Mã Đại Sư [^1] không khỏe.
 

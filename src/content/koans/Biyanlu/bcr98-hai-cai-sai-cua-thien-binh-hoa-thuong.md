@@ -17,7 +17,7 @@ Kim Cương Bảo Kiếm chém thẳng xuống, mới biết xưa nay thiếu kh
 
 Thử nói xem, Kim Cương Bảo Kiếm là gì? Mở mắt ra đi, tôi để lộ lưỡi kiếm cho các ông xem!
 
-## CỬ:
+## CỬ - TẮC:
 
 > Lúc Thiên Bình hòa thượng đi hành cước có đến tham kiến Tây Viện. 
 >

@@ -16,7 +16,7 @@ Một hạt bụi bay gom cả trời đất, một đóa hoa nở cả thế gi
 
 Hiện giờ phải cắt đứt hết các dây dưa. Sử dụng hết gia tài trong nhà ra mà ứng với hoàn cảnh, cao thấp trước sau không hề sai biệt. Lúc ấy mọi cái sẽ hiện thành, thảng hoặc chưa được như thế, xin xem văn dưới đây.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Câu Chi hòa thượng [^1] mỗi khi có ai hỏi gì chỉ dơ một ngón tay lên.
 

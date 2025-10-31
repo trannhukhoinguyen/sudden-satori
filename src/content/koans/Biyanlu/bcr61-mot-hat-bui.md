@@ -18,7 +18,7 @@ Trên lưỡi kiếm luận sát hoạt, nơi đầu gậy phân cơ nghi. Đi�
 
 Thử nói một câu mà tất cả sự việc trong vũ trụ dựa trên ấy xem. Thử nêu lên.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Phong Huyệt dạy rằng, "Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạt bụi, nước nhà suy vong.”
 

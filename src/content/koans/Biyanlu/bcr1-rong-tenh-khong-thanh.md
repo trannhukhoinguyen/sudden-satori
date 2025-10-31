@@ -22,7 +22,7 @@ Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm
 Vào giây phút đó, thử nói xem là hành tung của kẻ nào?
 Thử nhìn vào những lời dây dưa của Tuyết Đậu.
 
-## CỬ:
+## CỬ - TẮC:
 
 - Lương Vũ Đế [^1] hỏi Đạt Ma Đại Sư [^2], “_Thế nào là sự thật cứu cánh siêu phàm?_”
 

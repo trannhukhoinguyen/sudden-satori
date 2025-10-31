@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Túc Tông Hoàng Đế [^1] hỏi Huệ Trung quốc Sư [^2], “Trăm năm sau cần có vật gì?”
 >

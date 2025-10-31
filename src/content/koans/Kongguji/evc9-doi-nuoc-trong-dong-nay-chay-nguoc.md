@@ -22,7 +22,7 @@ image: /images/koans/great-wave.webp
 >
 > Lại biết hỏi đáp có chỗ hòa hợp với nhau chăng
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

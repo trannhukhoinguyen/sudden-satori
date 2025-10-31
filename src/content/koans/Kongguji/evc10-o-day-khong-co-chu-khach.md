@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 > Không nên nhận bóng quên đầu, thôi chớ quên đầu nhận bóng.
 > Thiền tăng đủ mắt nên xét kỹ.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

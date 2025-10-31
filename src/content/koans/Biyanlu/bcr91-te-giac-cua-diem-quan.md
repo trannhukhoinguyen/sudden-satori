@@ -18,7 +18,7 @@ Cần phải ứng đủ mười phương, rõ ràng tám hướng, đến thẳ
 
 Thử nói xem, còn có người cùng đắc cùng chứng cùng tử cùng sinh chăng? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Một hôm Diêm Quan gọi thị giả, “Đem cho tôi cái quạt sừng tê giác xem.”
 >

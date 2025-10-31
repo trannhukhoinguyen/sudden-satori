@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Vân Môn dạy chúng rằng, “Cổ Phật và cột trụ tương giao là cơ thứ mấy?” 
 > 

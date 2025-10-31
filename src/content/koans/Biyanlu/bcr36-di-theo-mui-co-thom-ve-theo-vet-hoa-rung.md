@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Một hôm, ngài Trường Sa [^1] đi chơi núi. Lúc trở về đến cổng vị thủ tòa hỏi, “Hòa thượng đi đâu về thế?”
 >

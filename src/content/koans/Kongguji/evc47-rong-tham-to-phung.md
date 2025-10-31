@@ -19,7 +19,7 @@ Gánh nước bửa củi đều là thần thông diệu dụng.
 Biến sông thành chín đều đạt đến quy định huyền diệu của sự giáo hóa. 
 Suốt ngày bận rộn việc ấy không sao ư? Chưa biết đó là ai?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

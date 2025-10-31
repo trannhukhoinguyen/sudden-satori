@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Hòa quang tạo sự, thôi, nay chẳng cho dạo động. Đừng tụng thần chú, đừng xem chân thật. Lại dạy: Chớ để cho tính lang chim trong nước chết. Như vậy phong cảnh đều vào được trong lỗ tròn, lỗ vuông; lỗ tròn, lỗ vuông không để vào được trong lỗ chỏm nạc.
+Hòa quang tạo sự, thôi, nay chẳng cho dạo động. Đừng tụng thần chú, đừng xem chân thật. Lại dạy: Chớ để cho tính lang chim trong nước chết. Như vậy phong cảnh đều vào được trong lỗ tròn, lỗ vuông; lỗ tròn, lỗ vuông không để vào được trong lỗ chỏm nạc.
 
 BẢN TẮC
 Ngài Tuyết Phong làm điến tọa trong hội, Đồng Sơn đang đãi gạo.
@@ -75,7 +73,7 @@ Nếu ai muốn học, cho uống nước trong buổi tiệc. Uống cho đủ 
 
 Ngài Lý Phất, cũng một trận tuyết Hương Tích, Duy Ma che cười.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

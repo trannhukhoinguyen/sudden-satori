@@ -20,7 +20,7 @@ Thử nói xem, trực tiếp đương đầu với cơ duyên, thuận nghịch
 
 Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Vân Môn [^1], “_Trần trần tam muội là gì?_” [^8]
 >

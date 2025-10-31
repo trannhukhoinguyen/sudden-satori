@@ -14,9 +14,6 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng:
 Sự đã đạt đến chỗ rốt ráo, phải nhọc đến chống gậy trúc, mang giày cỏ. Lý đạt đến chỗ huyền vi, đâu cần bình bát trăng tích trượng mây. Có người không ra khỏi cửa biết hết việc thiên hạ. Ông lại biết chăng?
 
 BẢN TẮC
@@ -81,7 +78,7 @@ Nhạn mùa đông về nam thừa hỏi khắp nơi tri thức. Gió thu theo n
 Gót chân chạm đất khó mỏi tim,
 Chớ theo muôn sông cùng nghìn núi.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

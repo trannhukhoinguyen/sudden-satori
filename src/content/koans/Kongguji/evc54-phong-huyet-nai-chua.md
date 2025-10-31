@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Sự còn ẩn chứa nhiều, thì sẽ còn bội đáp qua lại. Lý tốt tinh quên, ai dám có một chút so sánh. Nói một câu không động môi lưỡi làm sao nói?
+Sự còn ẩn chứa nhiều, thì sẽ còn bội đáp qua lại. Lý tốt tinh quên, ai dám có một chút so sánh. Nói một câu không động môi lưỡi làm sao nói?
 
 BẢN TẮC
 
@@ -74,7 +72,7 @@ Từ đó trời Hán hết mây, tất nhiên sương mù không hiện. Bãi b
 Cảnh ngoài thành không ngăn cách núi.
 Ánh trăng sảnh cùng dòng nước biếc.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

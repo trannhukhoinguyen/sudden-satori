@@ -14,23 +14,9 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
+Có phong nhã thiền dứt hết phàm tình. Uy lực Phật, Tổ trừ sạch thánh giải. Có ai đủ bản lĩnh này chăng?
 
 
-Ngài Đan Hà dạy chúng: Có phong nhã thiền dứt hết phàm tình. Uy lực Phật, Tổ trừ sạch thánh giải. Có ai đủ bản lĩnh này chăng?
-
-BẢN TẮC
-
-Ngài Đầu Tử cử: Thời ngài Nam Tuyền, có nhị vị Thượng tọa ở hai Tăng Đường tranh nhau một con mèo không thôi.
-
-Ngài thẳng toà đưa con mèo lên nói: Nếu nói được thì tha mạng cho chú mèo.
-
-Chúng không đáp được. Ngài chém đứt đôi chú mèo.
-
-Chiều ngài Triệu Châu đến, Ngài kể lại việc xảy ra hôm sáng.
-
-Triệu Châu đội giày trên đầu ra đi.
-
-Ngài nói: Nếu ông đến sớm hơn thì cứu được con mèo.
 
 BÌNH XƯỚNG
 
@@ -93,11 +79,21 @@ Như Vua cầm kiếm do vua thích,
 Diệu dụng tung hoành đâu còn nghi.
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 
-> 
+> Thời ngài Nam Tuyền, có nhị vị Thượng tọa ở hai Tăng Đường tranh nhau một con mèo không thôi.
+
+Ngài thẳng toà đưa con mèo lên nói: Nếu nói được thì tha mạng cho chú mèo.
+
+Chúng không đáp được. Ngài chém đứt đôi chú mèo.
+
+Chiều ngài Triệu Châu đến, Ngài kể lại việc xảy ra hôm sáng.
+
+Triệu Châu đội giày trên đầu ra đi.
+
+Ngài nói: Nếu ông đến sớm hơn thì cứu được con mèo.
 
 ## BÌNH XƯỚNG
 

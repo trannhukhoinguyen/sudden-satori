@@ -17,7 +17,7 @@ Dù được trời đất đột biến, bốn phương tuyệt xướng, sấm
 
 Còn có ai biết xoay thiên quan chuyển địa trục chăng? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Kinh Kim Cương nói, “Nếu một người bị kẻ khác khinh rẻ, người ấy kiếp trước có tội chướng đáng bị đọa vào ác đạo, song vì kiếp này bị khinh rẻ, tội nghiệp kiếp trước bèn được tiêu trừ.”
 

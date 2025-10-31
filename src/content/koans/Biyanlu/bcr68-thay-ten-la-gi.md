@@ -19,7 +19,7 @@ Phải là một tay hoạt bát mới có thể mỗi câu đều tương hợp
 
 Song từ xưa đến giờ có ai được như thế? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Ngưỡng Sơn hỏi Ngài Tam Thánh, "Thầy tên gì?”
 >

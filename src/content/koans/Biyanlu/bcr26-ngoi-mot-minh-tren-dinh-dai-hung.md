@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Bách Trượng [^1], Thế nào là sự việc kỳ đặc?”
 >

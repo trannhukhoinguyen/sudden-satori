@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Nước lớn thuyền cao, há học được tài phô trương của Ngoạ Luân sao? Gió lặng sóng yên không nên nhờ Ngài Thần Tú thường lau bụi trần. Thiền Tăng thông minh tự biết tung tích.
+Nước lớn thuyền cao, há học được tài phô trương của Ngoạ Luân sao? Gió lặng sóng yên không nên nhờ Ngài Thần Tú thường lau bụi trần. Thiền Tăng thông minh tự biết tung tích.
 
 BẢN TẮC
 Tăng hỏi Hòa thượng Ngưỡng Sơn Dũng: Ý chỉ Tào Khê thế nào?
@@ -73,7 +71,7 @@ Ngài Lâm Tuyền cứ lặp lại cho người sau như thế. Nói cho gióng
 Lúc có chỉ khi thì tàng chỉ khí,
 Chỗ không phong lưu cũng phải phong trần.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

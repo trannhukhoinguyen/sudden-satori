@@ -22,7 +22,7 @@ Khi vạch ra một lối hướng thượng, ngay cả mắt Phật cũng khôn
 
 Dù cho ngàn thánh xuất hiện cũng cứ phải thối lui lại ba ngàn dặm. Còn có người đồng đắc đồng chứng không? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Vân Môn dạy chúng rằng, “Thuốc và bệnh trị lẫn nhau. Cả trời đất này là thuốc. Chính mình là gì?”
 

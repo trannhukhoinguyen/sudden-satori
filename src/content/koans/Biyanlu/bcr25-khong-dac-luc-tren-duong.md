@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 > Biện được sát hoạt trong ánh điện chớp, mới có thể tề bình mười phương, sừng sững như núi cao ngàn thước.
 > Biết đó là thời tiết gì chăng? Xin nêu lên thử xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 Liên Hoa Phong Am Chủ [^1] dơ gậy lên dạy chúng rằng, “_Cổ nhân đã đến đây, tại sao không chịu ở lại?_”
 

@@ -18,7 +18,7 @@ tags:
 Người lanh một lời, ngựa nhanh một roi. Vạn năm một niệm, một niệm vạn năm. Cần hiểu trực tiếp, trước khi nêu lên.
 Thử nói xem, trước khi nêu lên thì biết phải rờ rẫm như thế nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Quy Sơn [^1], ngài Ngũ Phong [^2] và ngài Vân Nham [^3] cùng đứng hầu ngài Bách Trượng [^4].
 >

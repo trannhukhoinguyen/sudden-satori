@@ -14,11 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-
-
-Ngài Đan Hà dạy chúng: Tột cùng huyền diệu thì thịt lành khoét thành thường tích. Tìm theo văn tự, như không gió nổi sóng. Muốn cho không sầu muộn hãy giữ bổn phận, lại chấp nhận như thế chăng?
+Tột cùng huyền diệu thì thịt lành khoét thành thường tích. Tìm theo văn tự, như không gió nổi sóng. Muốn cho không sầu muộn hãy giữ bổn phận, lại chấp nhận như thế chăng?
 
 BẢN TẮC
 
@@ -82,7 +78,7 @@ Nếu hay nhường bước chính mình nhiếp phục thân tâm. Thuận theo
 Hướng nữa mầm linh sẵn có đất, đại ngộ không còn nhọc người biến hóa tạo ra vật tùy thời thao túng. Nếu ở đây hội được, thì biết mình không phải là tài năng, đường như rõ được thích nghi.
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

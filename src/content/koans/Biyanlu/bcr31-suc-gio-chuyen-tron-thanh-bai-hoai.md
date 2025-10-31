@@ -22,7 +22,7 @@ Buông bỏ, gạch ngói tỏa sáng; nắm giữ, vàng ròng mất mầu. Cô
 
 Thử nói xem, họ bình luận việc gì vậy?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Ma Cốc [^1] chống gậy đến gặp ngài Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó.
 >

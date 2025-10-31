@@ -20,7 +20,7 @@ Thử nói xem, đao giết người là gì? Kiếm cứu người là gì?
 
 Thử nêu lên xem. Có ông tăng hỏi Vân Môn.
 
-## CỬ:
+## CỬ - TẮC:
 
 > “Không phải là tâm cơ trước mắt, cũng chẳng phải là sự việc trước mắt, lúc ấy thì như thế nào?”
 >

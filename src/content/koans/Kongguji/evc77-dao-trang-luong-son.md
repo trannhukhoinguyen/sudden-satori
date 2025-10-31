@@ -68,7 +68,7 @@ Cho nên đưa tay tiếp độ không tiếc đôi mày. Nhiều lần đưa ra
 
 Chỉ thông một chút thì tỏ cội nguồn, trên lộ trình tiến bước, mây mù ngập lối. Chợt nắng lên mây tan nhận ra diện mục, chỗ sâu kín không bày khì phách không tỳ vết. Bất ngờ bản thể chiếu sáng thoát xa căn trần. Nửa đêm mặt trời xuất hiện, bao nhiêu vầng hồng hiện trong ánh bình minh. Lại thấy chăng? Muốn tư duy về ngàn non vạn nước.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

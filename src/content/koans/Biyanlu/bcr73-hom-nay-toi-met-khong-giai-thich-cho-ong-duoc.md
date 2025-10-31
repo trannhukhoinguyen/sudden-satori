@@ -20,7 +20,7 @@ Vậy thì vô thuyết với vô thính vẫn còn là hơn. Còn như giờ đ
 
 Thử nêu lên cho những người có mắt nhìn thấu được quan kiện xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Mã Đại Sư, “Ly tứ cú tuyệt bách phi, xin thầy chỉ thẳng cho đệ tử ý chỉ của việc Tổ Sư từ Tây Trúc qua” 
 > 

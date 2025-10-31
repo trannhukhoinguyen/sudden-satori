@@ -19,7 +19,7 @@ tags:
 > 
 > Thử nói xem, lúc không rơi vào tân chủ, không vướng vào hồi hỗ thì như thế nào/ Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng từ chúng hội của Định Châu hòa thượng đến gặp Ô Cữu. 
 > 

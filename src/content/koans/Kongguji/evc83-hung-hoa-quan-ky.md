@@ -82,7 +82,7 @@ Vua hiển uy quyền chốn thiên hạ
 Tướng quân biên ải lịnh càng nghiêm.
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

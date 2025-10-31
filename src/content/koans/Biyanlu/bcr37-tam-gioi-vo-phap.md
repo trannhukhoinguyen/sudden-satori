@@ -18,7 +18,7 @@ Sấm sét trên không, bịt tai vô ích. Trên đầu óc phất cờ đỏ,
 
 Nếu không phải mắt biện tay rờ,làm sao có thể nắm được? Có một số người cúi đầu tư lương, dùng ý căn mà ức đạc. Đâu có biết rằng trước đầu mình thấy quỉ vô số. Thử nói xem, không rơi vào ý căn, không ôm giữ đắc thất, hốt nhiên có người nêu lên như thế để giúp các ông giác ngộ, các ông phải đối đáp như thế nào? Thử nêu lên xem
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Bàn Sơn [^1] dạy rằng, **Tam giới vô pháp, hà xứ cầu tâm?** [^14]
 

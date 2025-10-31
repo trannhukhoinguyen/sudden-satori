@@ -20,7 +20,7 @@ Trong rừng can qua, điểm định mạng sống của nạp tăng.
 
 Song thử nói xem, có được sức lực như thế, thì đạt được gì? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, miễn đừng so đo. Vừa có ngôn ngữ là có so đo rồi, hòa thượng giúp người như thế nào?”
 >

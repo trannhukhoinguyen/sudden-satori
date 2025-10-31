@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Thu ngọn về gốc mặc cho ý trí tình ngay tức rỗ: chọn xem như chiếc vòng quanh co, có người không cần số lượng mà biết tính toán chẳng?
+Thu ngọn về gốc mặc cho ý trí tình ngay tức rỗ: chọn xem như chiếc vòng quanh co, có người không cần số lượng mà biết tính toán chẳng?
 
 BẢN TẮC
 Tăng hỏi: Hòa thượng Văn Thù ở Đàn Châu: Muốn thảy đem một về chỗ nào?
@@ -65,7 +63,7 @@ Tuy là Hoàng Hà chín khúc, ai có thể lãnh ngộ thiên ngôn, núi ngò
 
 Cần phải biết thành. Thiên Phong đứng ngoài mây. Trước kia sương mờ, mỗi hành văn hạ từng kia mà không rõ ràng. Chẳng những thọ cái nguồn sống, lại vốn từ muôn vật, không dấy, không rời.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

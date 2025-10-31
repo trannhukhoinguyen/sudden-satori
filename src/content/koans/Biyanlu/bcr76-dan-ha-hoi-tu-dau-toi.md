@@ -19,7 +19,7 @@ Quán nó nơi chỗ thấp thì có thừa, bình nó nơi chỗ cao thì khôn
 
 Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Đan Hà hỏi một ông tăng, “Từ đâu tới?” Ông tăng nói, “Từ dưới chân núi” 
 > 

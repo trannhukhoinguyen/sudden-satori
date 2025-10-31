@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Huyền vi cùng tận, diệu mật khó sáng tỏ. Đạo lý thâm sâu vi diệu, uy phong đáng tôn sùng. Chưa lên ngôi báu đã bảo dưỡng bản nguyên thánh, biết được điều này là người nào?
+Huyền vi cùng tận, diệu mật khó sáng tỏ. Đạo lý thâm sâu vi diệu, uy phong đáng tôn sùng. Chưa lên ngôi báu đã bảo dưỡng bản nguyên thánh, biết được điều này là người nào?
 
 BẢN TẮC
 
@@ -99,7 +97,7 @@ Cũng vẫn nhiều đời trâm anh xưa nay tôn quý, bản chất thiên san
 
 Thời nay vì phương tiện nên phân chủ khách, nửa đêm sao tụ canh ba trăng tàn. Dãy Ngân Hà vắt ngang trời hẳn cao vời vợi. Đông cung trổi sáng của bắc hướng tàn. Buông rèm chầu chẳng thấy mặt vua Nghiêu. Ngắm điện ngọc khố trông vua Thuấn, ngay lúc này làm sao phụng thờ trọng ấn. Trở về quê nhà thì không còn cội gốc, đã niềm hoa rồi thì không được gọi tên.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -16,7 +16,7 @@ Muốn nói là nói, vô song trên đời. Muốn làm là làm, toàn cơ ch�
 
 Như đánh đá lửa, như ánh điện chớp. Gió táp lửa hực, thác lũ qua kiếm. Cầm kềm búa hướng thượng lên, khó tránh cùn nhụt líu lưỡi. Đề ra một con đường. Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Triệu Châu [^1], “Vạn pháp qui về một, một qui về đâu?”
 >

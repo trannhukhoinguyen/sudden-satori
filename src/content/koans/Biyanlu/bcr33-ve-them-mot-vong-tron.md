@@ -25,7 +25,7 @@ Có lúc gọi Nam là Bắc, thử nói xem đó là hữu tâm hay vô tâm?
 Người ấy là đạo nhân hay là thường nhân? Nếu như có thể thấu qua được chỗ này, các ông mới hiểu được ý hướng, cũng như hiểu được rằng cổ nhân có như thế hay không?
 Song thử nói xem, đây là thời tiết gì? Xin nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Trần Tháo Thượng Thư [^1] đến viếng Từ Phúc [^2].
 >

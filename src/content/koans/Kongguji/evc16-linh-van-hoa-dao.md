@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Sau khi chàng Lưu trồng, cành lá sum suê, hương thơm ngào ngạt. 
 Khi Vương Mẫu hái thu cả nhân lẫn quả, có ai thong dong ngắm cảnh trên đường về quê chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

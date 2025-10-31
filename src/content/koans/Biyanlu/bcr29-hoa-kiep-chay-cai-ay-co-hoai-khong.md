@@ -18,7 +18,7 @@ Giống như gương sáng trên khung, ngọc sáng trong tay.
 
 Hán hiện Hồ đến, tiếng trong hình rõ. Thử nói xem, tại sao như thế?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi, “Hỏa kiếp cháy suốt, đại thiên đều hoại. Chẳng hiểu cái này có bị hoại hay không?”
 >

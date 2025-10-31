@@ -20,7 +20,7 @@ Muốn nung vàng ròng đã được luyện trăm lần, cần phải có lò 
 
 Thử nói xem, lúc đại dụng hiện tiền, phải lấy gì ra để thử đây?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Vân Môn [^1], “_Thế nào là thanh tịnh Pháp Thân?_”
 >

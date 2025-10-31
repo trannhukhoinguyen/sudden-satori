@@ -17,7 +17,7 @@ Cầm chắc thế giới không hở chút nào, khiến cho tất cả mọi n
 
 Điểm sắt thành vàng điểm càng thành sắt, bỗng nắm bỗng buông, đó chính là cây gậy của nạp tăng. Làm líu lưỡi tất cả người trong thiên hạ cho đền nỗi họ không có chỗ mà thở ra, phải lùi lại ba ngàn dặm. Đó chính là khí chất của nạp tăng. Thử nói xem, nếu không như thế này thì rốt cuộc là người như thế nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng đến nơi của Đồng Phong Am Chủ rồi hỏi, “Ở chỗ này nếu hốt nhiên gặp cọp thì phải làm như thế nào?” 
 > 

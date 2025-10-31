@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Khắp trời giăng lưới, đầy rẫy bẫy thường. Giống như đập nhằm phải vại hoa, khó tránh sập bẫy này. Có người bất chấp nguy vong đứng thẳng thì sao?
+Khắp trời giăng lưới, đầy rẫy bẫy thường. Giống như đập nhằm phải vại hoa, khó tránh sập bẫy này. Có người bất chấp nguy vong đứng thẳng thì sao?
 
 BẢN TẮC
 Hòa thượng Đức Sơn một hôm thường đường nói: Hỏi thì lỗi, không hỏi thì khó biết lẫn nhau.
@@ -108,7 +106,7 @@ Nhọc chi nói quanh co.
 Không nghe nói: ngậm miệng kín lưỡi chính là phương pháp tu thân để nhặt. Đã không cẩn thận buổi đầu cũng vẫn giữ phút cuối. Cẩn thận gió bị thổi rối tinh thần, làm sao nói? Đợi thôi! Hay đợi lúc khác đến.
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

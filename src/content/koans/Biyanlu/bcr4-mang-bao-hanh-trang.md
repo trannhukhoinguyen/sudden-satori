@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Dưới thanh niên bạch nhật, không cần phải vạch đông chỉ tây. Song tùy thời tiết nhân duyên vẫn cần phải tùy bệnh cho thuốc. Thử nói xem, buông thả hay giữ chặt cái nào hơn? Thử nêu ra xem sao.
 
-## CỬ:
+## CỬ - TẮC:
 
 Đức Sơn [^1] đến nơi của Qui Sơn [^2], ôm bao hành trang vào Pháp đường, đi từ tây qua đông rồi từ đông qua tây, nhìn quanh nói, “_Vô, vô_” rồi bỏ ra ngoài.
 

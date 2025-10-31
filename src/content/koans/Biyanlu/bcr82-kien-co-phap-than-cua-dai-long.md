@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Giây nơi đầu gậy, có mắt mới biết. Cơ biến đặc biệt, chuyên gia biện được. Song thử nói xem, giây nơi đầu gậy là gì? Cơ biến đặc biệt là gì? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Đại Long, “Sắc thân bại hoại, thế nào là kiên cố Pháp Thân?” 
 > 

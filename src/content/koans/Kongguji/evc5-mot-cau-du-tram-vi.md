@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 > Xem mầm biết đất, biết ngọn, lời nói, cho đến nay mới được thành lập.
 > Tự cận đến sau sao tìm ra?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

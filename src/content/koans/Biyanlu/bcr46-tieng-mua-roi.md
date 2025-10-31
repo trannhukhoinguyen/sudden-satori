@@ -16,7 +16,7 @@ Một trùy bèn siêu cả phàm thánh. Một lời có thể cởi trói bu�
 
 Tung hoành điệu dụng tạm gác qua một bên, đi trong một sát na thì thì như thế nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Kính Thanh [^1] hỏi ông tăng, “Ngoài cửa có tiếng gì vậy?”
 >

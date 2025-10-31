@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 >
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Vân Môn [^1], “Thế nào là giáo lý của cả một thời đại (của Phật)?
 >

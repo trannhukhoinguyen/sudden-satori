@@ -14,8 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-Ngài Đan Hà dạy chúng: Biết rõ thời nghi, mới có thể làm xả lễ. Thừa cơ dứt uy thế, biết tạo kế sống. Có ai biết thưởng thức vị phân chia này chăng?
+Biết rõ thời nghi, mới có thể làm xả lễ. Thừa cơ dứt uy thế, biết tạo kế sống. Có ai biết thưởng thức vị phân chia này chăng?
 
 BẢN TẮC
 Một hôm Hòa thượng Lịch Thôn đang nấu trà, có vị Tăng hỏi: Thế nào là ý tổ sư từ tây sang?
@@ -52,7 +51,7 @@ Quả nhiên bị ngài Đầu Tử xử phạt nên nói, nếu mà biết đư
 Lâm Tuyền tuy tâm tha thiết như thế,
 Hết lòng chỉ dạy bao nhiêu người biết.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

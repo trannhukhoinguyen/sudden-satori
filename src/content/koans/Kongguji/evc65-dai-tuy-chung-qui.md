@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Một điểm linh quang vốn chẳng trong ngoài, thất tối vạn năm tạm lập thứ lớp. Có ai vượt thoát căn trần một mình sáng ngời xưa nay chăng?
+Một điểm linh quang vốn chẳng trong ngoài, thất tối vạn năm tạm lập thứ lớp. Có ai vượt thoát căn trần một mình sáng ngời xưa nay chăng?
 
 BẢN TẮC
 
@@ -49,7 +47,7 @@ Truyền trao cho vị Tăng này tột lý vi diệu, có khi nói lời quanh 
 
 Ngài Lâm Tuyền phân tích như thế, lại hiểu chăng? Ngài xuống tòa, hãy trở về ở ẩn đi, ngày khác thường lượng.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Trí vô sư, trí tự nhiên không thể suy lường. Tâm phân biệt, tâm thủ xả rất khó dứt bỏ. Có người nào tìm được tung tích chăng?
+Trí vô sư, trí tự nhiên không thể suy lường. Tâm phân biệt, tâm thủ xả rất khó dứt bỏ. Có người nào tìm được tung tích chăng?
 
 BẢN TẮC
 Tăng hỏi Hòa thượng Quảng Giáo Chí ở Tân Châu: Là vật gì mà học nhơn chẳng biết?
@@ -69,7 +67,7 @@ Ruộng mì vườn đồng xanh tươi mơn mởn, làm sao giấu kín đượ
 Một hội không lời bao vạn tượng.
 Nơi nào có hàm linh đều cảm tạ.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

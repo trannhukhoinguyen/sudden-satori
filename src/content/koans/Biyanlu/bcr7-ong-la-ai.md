@@ -20,7 +20,7 @@ Cho nên mới nói rằng, “Trời không che hết, đất không chở nổ
 Chỗ không có Phật, mình được tôn xưng,mới bắt đầu một sợi lông, phóng đại quang minh, tung hoành ngang dọc, tự tại trong sự vật, bất cứ cái gì đụng tay vào, không có cái gì là không phải. Thử nói xem, đạt được cái gì mà lại kỳ đặc như thế? Lại nói, “Đại chúng có hiểu không?” Ngựa mệt thuở trước không ai biết, chỉ nói công lao chum cả trời.
 Bây giờ tạm gác việc này qua một bên, công án của Tuyết Đậu thì như thế nào? Xin thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn [^1], _Huệ Siêu xin hỏi hòa thượng, Phật là gì?_
 >

@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Nam Tuyền [^1] đến tham kiến Niết Bàn Hòa Thượng [^2] ở núi Bách Trượng.
 >

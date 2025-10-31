@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Ba chính là một, một chính là ba. Ba và một không thể bảo trì nhau, phân rõ làm chi nam. Có ai luận bàn sâu về thật tướng và nói pháp yếu kiệt xuất chăng?
+Ba chính là một, một chính là ba. Ba và một không thể bảo trì nhau, phân rõ làm chi nam. Có ai luận bàn sâu về thật tướng và nói pháp yếu kiệt xuất chăng?
 
 BẢN TẮC
 
@@ -65,7 +63,7 @@ Chợt giữa đêm khuya tiếng cười vang vọng trong hư không. Thế m�
 
 Tạm thời dừng niệm ngay chỗ khảy nhẹ móng tay, mở toang lớp lớp lâu các.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Ngài Triệu Châu [^1], “Lâu nay nghe tiếng cầu đá của Triệu Châu, đến nơi lại chỉ thấy chiếc cầu khỉ.”
 >

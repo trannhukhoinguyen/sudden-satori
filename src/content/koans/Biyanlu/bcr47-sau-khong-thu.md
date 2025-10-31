@@ -16,7 +16,7 @@ Trời nói gì đâu? Bốn mùa lưu chuyển. Đất nói gì đâu? Vạn v�
 
 Song thử nói xem, phải ở đâu mới thấy được nạp tăng? Lìa khỏi ngôn ngữ hành động, đi đứng nằm ngồi, bóp chặt yết hầu miệng lưỡi, có thể phân biện được chăng?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Vân Môn [^1], “Pháp thân là gì?”
 >

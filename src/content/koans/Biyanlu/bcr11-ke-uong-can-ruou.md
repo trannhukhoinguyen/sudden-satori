@@ -20,7 +20,7 @@ Tiếp nhận cơ hội hướng thượng, bàn đến sự siêu việt.
 Thử nói xem, từng có ai đến như thế?
 Có ai biết cốt yếu của việc này chăng? Xin nêu lên xem thử.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Hoàng Bá [^0] dạy chúng rằng, “_Các ông chỉ là những kẻ uống cặn rượu.
 > Hành cước như thế, ở đâu có ngày hôm nay?

@@ -22,7 +22,7 @@ Hôm qua như vậy, vấn đề không thể tránh được. Hôm nay mà cũn
 
 Nếu như là người mắt sáng, chẳng thể bị lừa chút nào. Nếu không như thế, thực chẳng khác gì nằm trong miệng hổ, khó mà không tán thân thất mạng. Thử nêu lên cho quí vị xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Tuyết Phong [^1] dạy chúng nói rằng:
 >

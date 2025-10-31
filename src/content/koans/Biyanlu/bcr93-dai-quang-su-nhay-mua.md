@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Đại Quang, “Trường Khánh nói, ‘Nhân thụ trai mà tán thán,’ có nghĩa là gì?” 
 > 

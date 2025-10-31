@@ -14,10 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-
-Ngài Đan Hà dạy chúng: Dưới mũi là miệng, trên mắt có lông mày, sợ y không tin tùy y hỏi. Ai có thể chấp nhận niềm xa dụng lẫn lộn phe bình phán xét dữ thứ chăng?
+Dưới mũi là miệng, trên mắt có lông mày, sợ y không tin tùy y hỏi. Ai có thể chấp nhận niềm xa dụng lẫn lộn phe bình phán xét dữ thứ chăng?
 
 BẢN TẮC
 Tăng hỏi Phong Huyệt: Thế nào là chỗ thân thiết của học nhơn?
@@ -68,7 +65,7 @@ Phong Huyệt dù nhổ kể lại rõ ràng. Nếu nhiều lời giống nhau, 
 
 Lâm Tuyền vì phương tiện làm thông dịch, theo văn cảnh nên truyền sai tin tức, lại hối chẳng. Ngày khác gặp người chỗ cũ có sai.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

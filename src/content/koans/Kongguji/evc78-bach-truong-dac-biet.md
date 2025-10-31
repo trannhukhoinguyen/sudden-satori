@@ -14,8 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-Ngài Đan Hà dạy chúng: Vốn thật bình lặng, lại muốn nắm bắt. May gặp tông sư lão luyện, không cho sanh ra chi tiết. Cao cheo leo không có chỗ đứng, thình bậc cao nhân ghé mắt xem.
+Vốn thật bình lặng, lại muốn nắm bắt. May gặp tông sư lão luyện, không cho sanh ra chi tiết. Cao cheo leo không có chỗ đứng, thình bậc cao nhân ghé mắt xem.
 
 BẢN TẮC
 Tăng hỏi Bá Trượng: Thế nào là việc đặc biệt.
@@ -41,7 +40,7 @@ Mây mù giăng kín khó phân nam bắc. Mỗi tin rằng, một sắc hồn t
 
 Ngìn núi đều xanh biếc, muôn dòng có sóng triều. Chưa biết người nào có được tấm lòng rộng lượng này, còn nói: Thôi, ông không hiểu được lời ta.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

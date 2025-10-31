@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Lớn không bờ cõi, nhỏ như vi trần, nắm buông không phải là gì khác, cuộn mở đều ở nơi mình. Nếu như muốn cởi bỏ chỗ trói buộc dính dấp, ắt phải cắt đứt hết tông tích (của tâm hành) nuốt hết âm thanh (của ngôn ngữ). Mọi người thấy rõ bờ kia, ai nấy lừng lững ngàn trượng. Thử nói xem đó là cảnh giới của ai? Xin nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Tuyết Phong [^1] dạy chúng rằng: Nam sơn có một con rắn mũi rùa, các ông cần phải coi chừng.
 > Trường Khánh nói, “Hôm nay trong đại sảnh có người tang thân thất mạng.”

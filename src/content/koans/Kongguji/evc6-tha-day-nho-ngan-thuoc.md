@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 > Trên không miệng ngồi che mỏ, dưới không tác đặt để đứng. Lưỡi câu bằng trăng, mồi làm mới để câu bên bến nước trong.
 > Muốn cheo qua, sáo hoa lan, dưới tìm con cá chép, ngay lúc lá đục ngaoỳ dưới lá sen, bắt được?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

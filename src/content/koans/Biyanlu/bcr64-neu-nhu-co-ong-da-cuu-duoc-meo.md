@@ -15,7 +15,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Nam Tuyền [^1] lại nêu câu chuyện trên ra để hỏi ngài Triệu Châu [^2].
 >

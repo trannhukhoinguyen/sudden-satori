@@ -21,7 +21,7 @@ Dù cho là có mắt như sao rơi, có trí như điện chớp, cũng khó m�
 
 Đến chỗ này rồi phải làm gì mới khế hợp. Xin nêu lên thử xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Lưu thiết Ma [^1] đến gặp Qui Sơn [^2].
 >

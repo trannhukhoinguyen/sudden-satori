@@ -18,7 +18,7 @@ Tranh mạnh, giành yếu đều thuộc phàm tình.
 Mình nhường bước cho người, đó vẫn còn thành giải. 
 Có ai không tranh nhơn, ngài chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

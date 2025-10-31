@@ -17,7 +17,7 @@ tags:
 > Còn như trong môn hạ của các nạp tăng, một ngôn một cú, một cơ một cảnh, một xuất một nhập, một gặp một đối, phải thấy cho được chỗ nông sâu, phải thấy cho được chỗ tiến lùi.
 > Thử nói xem, phải dùng gì để thử đây? Xin nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 Ngài Bảo Phúc [^1] và Ngài Trường Khánh [^2] đi chơi núi. Ngài Bảo Phúc lấy tay chỉ nói, “Đây chính là Diệu Phong Đỉnh.”
 

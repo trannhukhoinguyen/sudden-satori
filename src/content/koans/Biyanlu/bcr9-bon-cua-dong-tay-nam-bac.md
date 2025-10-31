@@ -20,7 +20,7 @@ Nếu không có con mắt nhìn thấu quan hay chỗ để chuyển thân, đ�
 
 Thử nói xem, thế nào là con mắt nhìn thấu quan và chỗ để chuyển thân. Xin thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Triệu Châu [^1], "Triệu Châu là gì?“
 >

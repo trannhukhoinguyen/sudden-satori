@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 >
 
-## CỬ:
+## CỬ - TẮC:
 
 > Triệu Châu dùng ba chuyển ngữ để dạy chúng:
 > 

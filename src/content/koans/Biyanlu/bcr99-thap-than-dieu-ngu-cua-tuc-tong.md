@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 > Thế giới không ẩn, xa gần hiển hiện, cổ kim biện rõ.
 > Thử nói xem, đây là cảnh giới của ai? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Túc Tông [^1] Hoàng Đế hỏi Huệ Trung Quốc Sư [^2], “_Thập thân điều ngự là gì_?”
 > Quốc Sư nói, “_Thí chủ bước trên đầu Tì Lô [^3] mà đi_”.

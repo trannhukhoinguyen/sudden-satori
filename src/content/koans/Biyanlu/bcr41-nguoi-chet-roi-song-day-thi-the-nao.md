@@ -21,7 +21,7 @@ Giống như thể sừng kỳ lân, hoa sen trong lửa.
 
 Vừa thấy kẻ siêu quần đã biết là động dao.Ai là tay hảo thủ? Xin nêu lên xem!
 
-## CỬ:
+## CỬ - TẮC:
 
 > Triệu Châu [^1] hỏi Đầu Tử [^2], “Kẻ đã chết ngắc rồi lại sống dậy thì như thế nào?”
 >

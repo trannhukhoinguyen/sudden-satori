@@ -16,7 +16,7 @@ Câu định càn khôn, vạn thế cùng theo. Cơ bắt hổ tê, ngàn thán
 
 Muốn rõ búa trùy hướng thượng, cần ống bễ của chuyên gia. Thử nói xem từ xưa đến nay còn có gia phong nữa không? Xin nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Động Sơn [^1], “_Khi lạnh với nóng đến, phải làm sao để tránh đây?_”
 >

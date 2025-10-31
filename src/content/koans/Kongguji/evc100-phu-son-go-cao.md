@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 > 
 > Chẳng ngại xinh đẹp. Có nạp tăng nào vượt qua tất cả chấp nhẫn chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

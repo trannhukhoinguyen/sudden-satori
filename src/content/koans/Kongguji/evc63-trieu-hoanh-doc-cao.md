@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Mỗi niệm là Đức Phật Thích Ca ra đời, lại có thể hội cổ thông kim. Từng bước Ngài Di Lặc hạ sanh, không tránh khỏi u đầu sứt trán. Gặp nhau khắp nơi chỗ suy tìm mà không biết.
+Mỗi niệm là Đức Phật Thích Ca ra đời, lại có thể hội cổ thông kim. Từng bước Ngài Di Lặc hạ sanh, không tránh khỏi u đầu sứt trán. Gặp nhau khắp nơi chỗ suy tìm mà không biết.
 
 BẢN TẮC
 Tăng hỏi Hòa thượng Sơn Nhu Triệu Hoành Trịnh Châu: Thế nào là Phật.
@@ -65,7 +63,7 @@ Có một chút uyển chuyển cho thời nay, hỏi gì bờ bắc băng tiêu
 Nhìn xa không rõ.
 Nhìn gần thì càng tỏ hơn.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -20,7 +20,7 @@ Chủ hầu có lúc không làm bạn. Điều này đều là thông lệ cổ
 
 Có ai không giữ gìn kiểm tra lại bản diện này chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

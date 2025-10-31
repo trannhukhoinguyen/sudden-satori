@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Ho hen tăng hắng đều là thần thông diệu dụng, nhướng mày chớp mắt thảy là pháp môn phát sự. Đi xuống dốc không nên chạy, có mau thì khó gặp. Thấu triệt kỳ huyền vi, nếu cho diệu đó là hội, người không có trí âm đáng tán thành chăng?
+Ho hen tăng hắng đều là thần thông diệu dụng, nhướng mày chớp mắt thảy là pháp môn phát sự. Đi xuống dốc không nên chạy, có mau thì khó gặp. Thấu triệt kỳ huyền vi, nếu cho diệu đó là hội, người không có trí âm đáng tán thành chăng?
 
 BẢN TẮC
 
@@ -95,7 +93,7 @@ Lâm Tuyền nói: Không thấy mới là thật thấy. Ai có thể đạt đ
 Người mù thêu đôi phụng,
 Bay lượn giữa trời xanh.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

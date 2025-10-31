@@ -24,7 +24,7 @@ Chỉ cần nói với người ấy rằng,
 
 Còn nếu như chưa được như thế, hãy xem gương người xưa.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, chỉ đừng so đo. Thế nào là đừng so đo?”
 >

@@ -30,7 +30,7 @@ Có lúc coi một cọng cỏ như thân vàng mười sáu trượng (của Ph
 
 Thử nói xem bằng vào nguyên lý nào mà nói như thế? Xin thử nêu ra đây.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Cuối mùa kiết hạ, Ngài Thúy Nham [^1] dạy chúng rằng,
 > “_Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. Thử nhìn xem lông mày của Thúy Nham có còn không?_”

@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Ngài Đan Hà dạy chúng: Hỏi đã có tông, đáp cũng như vậy. Chỉ dạy để tỏ ý sáng tâm. Thì không cần tìm kiếm bên há miệng, trừng mắt. Có ai ở trong chốn nóng bức làm cho mát mẻ được chăng?
+Hỏi đã có tông, đáp cũng như vậy. Chỉ dạy để tỏ ý sáng tâm. Thì không cần tìm kiếm bên há miệng, trừng mắt. Có ai ở trong chốn nóng bức làm cho mát mẻ được chăng?
 
 BẢN TẮC
 
@@ -99,7 +99,7 @@ Lời ngay trái tai chớ không tin.
 Chớ để có phụ ngài Lâm Tuyền.
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

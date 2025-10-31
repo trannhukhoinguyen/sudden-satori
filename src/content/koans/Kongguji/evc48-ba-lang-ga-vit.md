@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Ngựa gỗ hí gió. Trâu đất rống trăng.
 Trong chỗ vô ngôn mà hay lắm lời, ra khỏi thị phi lìa điểm đồng dị. Nói thế nào?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Ngưng hết muôn cơ, đều giao cho ngu si. Ngàn thánh không dẫn dắt chỉ ngại tổ điểm thêm. Vậy thì có Thiền Tăng nào nấu không chín, hầm không nhừ chăng?
+Ngưng hết muôn cơ, đều giao cho ngu si. Ngàn thánh không dẫn dắt chỉ ngại tổ điểm thêm. Vậy thì có Thiền Tăng nào nấu không chín, hầm không nhừ chăng?
 
 BẢN TẮC
 
@@ -62,7 +60,7 @@ Cho nên rợp phủ điển cố, khánh vây quanh. Kính ẩn thầm chiêm g
 Cuối cùng cũng các phương, khó giữ chân khách du phương. Đạo vườn lạnh Đạo Nguyên. Thản nhiên khách du phương tự nhiên. Tam sơn chiếu soi, khắp càn khôn vũ trụ. Sáng lạng, dừng ngồi khắp cảnh vật bao sát đời. Hải được mưa pháp, thấm nhuần người hữu tình. Tây bắc mây bay bên kia dãy núi. Nam bốn phương ai đều tía. Xô qua đây lại bởi do ai?
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

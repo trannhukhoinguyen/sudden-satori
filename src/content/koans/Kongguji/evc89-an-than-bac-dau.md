@@ -20,7 +20,7 @@ Chính chỗ dư luận trong dân gian không ngoài ngọc họ Biện và đ�
 
 Nếu đảm nhận ngay đó. Liền chấp nhận ngước mặt nhìn trời trong, có người đủ mắt chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

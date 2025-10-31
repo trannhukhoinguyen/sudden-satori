@@ -22,7 +22,7 @@ Thử nói xem lúc sóng rắng cuốn tận trời thì như thế nào?
 
 Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Hương Lâm [^1], “Thế nào là ý của Tổ Sư từ Tây thiên qua?”
 >

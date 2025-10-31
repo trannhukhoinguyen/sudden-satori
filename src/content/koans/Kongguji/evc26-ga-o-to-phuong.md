@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Chim cốt chưa ra khỏi tổ đã có chí chọc trời. Hổ con chưa dứt sữa lại có chí vật trâu. 
 Đây đều là phương tiện này, ngồi xem thắng bại, đừng nghiệm thắng thua đó là ai?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

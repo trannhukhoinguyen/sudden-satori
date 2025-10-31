@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Triệu Châu [^1], “Nghe nói hòa thượng có đích thân gặp ngài Nam Tuyền rồi phải không?”
 >

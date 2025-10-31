@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 
 Toàn thân là mắt cũng chẳng thấy. Toàn thân là tai nghe chẳng được. Toàn thân là miệng nói không được. Toàn thân là tâm chiếu không được. Tạm gác qua vấn đề “toàn thân” nếu như hốt nhiên không có mắt, làm sao các ông thấy được đây? Không có tai làm sao nghe được đây? Không có miệng , làm sao nói được đây? Không có tâm, làm sao chiếu được đây? Nếu như ở đây mà các ông có thể khai mở ra được một con đường, các ông có thể đồng tham học với các cổ Phật. Tạm gác vấn đề “ tham học” qua một bên, các ông tham học với ai đây?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Vân Nham hỏi Đạo Ngô, “Từ Bi Bồ Tát dùng nhiều mắt và tay như thế để làm gì?” 
 > 

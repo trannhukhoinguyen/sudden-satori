@@ -22,7 +22,7 @@ Nếu như các ông không buông bỏ, cả trời đất này cũng chẳng �
 
 Song thế nào là chỗ để xoay chuyển thoại đầu? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Vân Môn đưa gậy ra dạy chúng rằng, “Cây gậy đã hóa thành rồng, nuốt trọn cả trời đất rồi. Sơn hà đại địa, còn đâu mà có nữa?”
 

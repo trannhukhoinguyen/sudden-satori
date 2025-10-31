@@ -20,7 +20,7 @@ Thảng hoặc không lập đốn tiệm thì như thế nào? Người nhanh t
 
 Đúng vào lúc ấy, ai là người chủ động? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Trong nha môn ở Đinh Châu, ngài Phong Huyệt [^1] thượng đường nói, “_Tâm ấn của Tổ Sư giống như cái máy trong con trâu sắt, lấy đi thì ấn còn, trụ lại thì ấn phá. Còn như nếu không khử không trừ, thì ấn là đúng hay không ấn là đúng?_"
 >

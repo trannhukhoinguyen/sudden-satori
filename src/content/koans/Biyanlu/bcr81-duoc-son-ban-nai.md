@@ -18,7 +18,7 @@ Không phải thần thông diệu dụng, chẳng phải bổn thể như thiê
 
 Thử nói xem, bằng vào đâu mà đạt được sự kỳ đặc như vậy?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Dược Sơn, trên đất bằng cỏ thấp, có từng bầy nai, làm thế nào để bắn được con nai của loài nai? 
 > 

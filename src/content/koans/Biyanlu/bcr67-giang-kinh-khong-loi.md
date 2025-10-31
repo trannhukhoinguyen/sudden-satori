@@ -16,7 +16,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > _Lương Vũ Đế_ [^1] mời _Phó Đại Sĩ_ [^2] giảng Kinh Kim Cương.
 >

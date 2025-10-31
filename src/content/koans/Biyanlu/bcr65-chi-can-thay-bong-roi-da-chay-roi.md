@@ -18,7 +18,7 @@ Dù cho gậy rơi như mưa, hét vang tựa sấm, vẫn chưa đáng được
 
 Song thử nói xem, thế nào là việc của kẻ hướng thượng? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Một ngoại đạo hỏi Phật [^1], “_Không hỏi hữu ngôn, không hỏi vô ngôn_”
 >

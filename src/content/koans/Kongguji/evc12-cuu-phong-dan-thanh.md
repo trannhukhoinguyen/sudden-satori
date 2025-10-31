@@ -19,7 +19,7 @@ Trăng tròn trước cửa đâu cho ông tả được hoàn toàn.
 Lúc chưa hạ bút chỉ còn một chút ít, ai có thể phác họa lại được chăng?
 Thử đưa ra xem.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -14,9 +14,6 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng:
 Gốc cây làm gì? Cây thật dụng tạo ra bày nhiều mưu kế. Trước người mà sanh tuệ lửa đỏ đùa, giống như diệt trừ cuồng tình, loại bỏ vọng niệm. Làm sao chỉ dạy?
 
 BẢN TẮC
@@ -117,7 +114,7 @@ Thưa hỏi Thánh tăng,
 Sẽ biết được tung tích.
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -17,7 +17,7 @@ Cắt đứt các dòng, không còn một giọt.
 Mở miệng là sai, so đo là trái. Thử nói xem, thế nào là con mắt nhìn thấu quan? 
 Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Vân Môn có lời dạy rằng, “Mọi người ai cũng có quang minh cả. Lúc nhìn thì không thấy gì mà chỉ thấy tối om om. Thế nào là cái quang minh trong mọi người?” 
 > 

@@ -18,7 +18,7 @@ Trong câu vô tư, chỗ nào cũng có ý giết người.
 
 Song thử nói xem, rốt cuộc cổ nhân an nghỉ ở chỗ nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Một lần kia Mã Đại Sư [^1] tản bộ với ngài Bách Trượng [^2], thấy có bầy vịt trời bay qua, Mã Đại Sư hỏi, “_Cái gì vậy?_”
 >

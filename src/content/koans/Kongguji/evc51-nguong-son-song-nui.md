@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Văn ngắn gọn nghĩa phong phú, đều từ ngôi bút. Tỏ bày chơn tâm hoàn toàn từ lời ngay thẳng. Lưới vốn tuyên dương, lựa chọn điểm quan trọng. Mời nói thử xem.
+Văn ngắn gọn nghĩa phong phú, đều từ ngôi bút. Tỏ bày chơn tâm hoàn toàn từ lời ngay thẳng. Lưới vốn tuyên dương, lựa chọn điểm quan trọng. Mời nói thử xem.
 
 BẢN TẮC
 Ngài Đầu Tử cử, Hòa thượng Dũng ở Ngưỡng Sơn dạy chúng rằng: Một lời nói mà bao cả núi sông.
@@ -66,7 +64,7 @@ Kệ
 Một phong cảnh vững lặng
 Ý ngàn xưa rõ ràng
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

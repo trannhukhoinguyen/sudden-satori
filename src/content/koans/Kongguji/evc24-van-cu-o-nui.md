@@ -18,7 +18,7 @@ Thôi hết đi, dứt hết đi. Nên xa chốn ồn náo tìm nơi yên tĩnh 
 Lo gì không được an thiền. Niệm hiện tiền không bị chi phối ngoại cảnh, chớ bảo thế là hoàn toàn không. 
 Thế nên phải nhìn chăm chăm vào. Có lẽ có nguyên nhân, sợ y không tin, phải thủ tham cứu cho tường tận xem.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

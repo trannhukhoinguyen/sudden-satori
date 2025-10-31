@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Đại dụng hiện tiền, không giữ qui tắc. Bắt sống cầm giữ, không hao khí lực. Song thử nói xem, ai đã từng như thế được? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Đầu Tử, “Tất cả các âm thanh đều là âm thanh của Phật, phải không?” 
 > 

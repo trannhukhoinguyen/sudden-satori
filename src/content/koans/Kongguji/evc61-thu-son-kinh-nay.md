@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Trong sáu thành tựu chẳng nhiếp, trong bốn pháp ấn khó thấu. Rõ ràng cuốn lại không đến đầu, mở ra chẳng tới cuối. Sao chấp nhận dễ dàng cho người tùy hỷ.
+Trong sáu thành tựu chẳng nhiếp, trong bốn pháp ấn khó thấu. Rõ ràng cuốn lại không đến đầu, mở ra chẳng tới cuối. Sao chấp nhận dễ dàng cho người tùy hỷ.
 
 BẢN TẮC
 
@@ -109,7 +107,7 @@ Biết tung tích kinh này chăng? Ngài lấy phất tử đánh vào giườn
 – Thôi được rồi!
 
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -20,7 +20,7 @@ Nếu một hiểu ba tạm dẹp qua, làm cả thiên hạ líu lưỡi thì n
 
 Thử nói xem đó là việc của ai? Xin thử nêu lên xem sao.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Ba Lăng [^1], “Thế nào là tông của Đề Bà?” [^14]
 >

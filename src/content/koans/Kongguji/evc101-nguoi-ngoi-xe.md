@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Lúc một niệm động, vạn pháp đều có lỗi. 
 Lúc một niệm không sinh, muôn việc không ngăn ngại.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

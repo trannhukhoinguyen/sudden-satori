@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Ngài Đan Hà dạy chúng: Trên đỉnh núi xanh Hòa thượng Tư Đại thật là khẩu khí. Trong đồng hồng trần lão Chí Công tỏ bày lòng son. Nếu biết hoàn toàn tôi kỳ nói đến, thì nên buộc chặt đầu sào ba tấc. Ngay khi ấy lại nói được chăng?
+Trên đỉnh núi xanh Hòa thượng Tư Đại thật là khẩu khí. Trong đồng hồng trần lão Chí Công tỏ bày lòng son. Nếu biết hoàn toàn tôi kỳ nói đến, thì nên buộc chặt đầu sào ba tấc. Ngay khi ấy lại nói được chăng?
 
 BẢN TẮC
 Tăng hỏi Hòa thượng Chí ở Sùng Phước Ích Châu: Thế nào là lời thanh thoát?
@@ -52,7 +52,7 @@ Tuy người đã cạn lời, không tỏ mà thông đường thật là khó 
 Nửa đêm ánh sáng chưa từng hiện.
 Đến sáng đâu cho thấy một ít.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

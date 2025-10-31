@@ -15,7 +15,7 @@ Chỗ có Phật khôn được trụ, nếu trụ ắt đầu mọc sừng. Ch�
 
 Thử nói xem, nếu không như thế thì phải hành sử như thế nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Trường Khánh có lần nói, “Thà nói rằng A La Hán có tam độc chứ đừng nói là Như Lai có nhị chủng ngữ. 
 > 

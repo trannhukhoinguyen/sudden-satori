@@ -15,7 +15,7 @@ Một câu trước tiếng, ngàn thánh không truyền. Một sợi trước 
 
 Mắt chăm chú tai chăm chú, kim mao sư tử. Tạm gác những cái này qua một bên, thử nói xem, trâu trắng trên mặt đất rộng là gì?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Kinh Lăng Nghiêm nói, “Lúc tôi không thấy, tại sao ông không thấy cái chỗ không thấy của tôi.
 >

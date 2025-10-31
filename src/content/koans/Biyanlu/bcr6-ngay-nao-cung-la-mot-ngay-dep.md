@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Vân Môn Đại Sư [^1] nói: _Không hỏi ông về trước ngày 15, sau ngày 15 thử nói một câu xem?_
 >

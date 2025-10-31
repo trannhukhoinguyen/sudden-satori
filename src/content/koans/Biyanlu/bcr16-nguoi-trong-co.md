@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Tuy nhiên như thế hãy còn có chút (chấp trước). Nếu nói về sự việc căn bản, thì điều này chẳng có gì là nhằm nhò cả. Thế nào là sự việc căn bản? Xin thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Kính Thanh, “Đệ tử cắn, xin thầy mổ.”
 >

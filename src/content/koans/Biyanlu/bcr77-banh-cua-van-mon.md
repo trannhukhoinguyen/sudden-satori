@@ -24,7 +24,7 @@ Thử nói xem, làm sao để phân biệt đen trắng? Im lặng một hồi.
 
 Viên Ngộ mới nói,” Nếu có điều thì theo điều, không có điều thì theo lệ.”
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Vân Môn, ”Thế nào là lời nói siêu Phật siêu Tổ?”
 >

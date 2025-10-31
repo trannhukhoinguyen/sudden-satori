@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 > Nếu như hốt nhiên có người bước ra nói, “Suốt cả mùa hè mãi hỏi chỉ thị, tại sao lại chẳng từng nói?” Đợi khi nào ông ngộ rồi tôi sẽ nói cho ông.
 > Thử nói xem, đây là kỳ giáp mặt hay là có chỗ ưu điểm nào khác? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Ba Lăng [^1], “_Kiếm sắc là gì_?”
 > Ba Lăng nói, “_Từng nhánh san hô chống đỡ mặt trăng_”

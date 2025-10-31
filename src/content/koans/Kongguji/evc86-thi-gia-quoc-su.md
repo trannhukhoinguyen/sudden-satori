@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Siêng năng phụng trì, ít xuất nhập. Pháp luật là trên hết. Biết tôn ty, biết tiến thối mới là tác giả. Cần phải rõ ràng từng niệm, chính lúc lẩn tránh là khi bị quán thức dẫn dắt. Có điểm không hoàn hảo, mới kiểm điểm xem.
+Siêng năng phụng trì, ít xuất nhập. Pháp luật là trên hết. Biết tôn ty, biết tiến thối mới là tác giả. Cần phải rõ ràng từng niệm, chính lúc lẩn tránh là khi bị quán thức dẫn dắt. Có điểm không hoàn hảo, mới kiểm điểm xem.
 
 BẢN TẮC
 
@@ -90,7 +88,7 @@ Tuyết Phong Duyệt nói: Giống như cú đàm bị ngoại đạo khám ph�
 
 Lâm Tuyền nói, vừa bảo quên mất, chợt nhớ được. Thế Tôn gọi như thế, ngũ thông đáp như vậy. Hãy nói cùng với Quốc sư thị giả là đồng hay là khác. Người thứ ba việc chẳng thành, khi khác sẽ nói cho ông.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

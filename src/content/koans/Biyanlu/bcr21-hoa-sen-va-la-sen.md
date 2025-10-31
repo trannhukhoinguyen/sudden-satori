@@ -20,7 +20,7 @@ Nếu như phân biện được câu đặc biệt, thì nêu lên một là hi
 
 Nếu như chưa được như vậy, thì hãy tiếp tục lắng nghe phân xử.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Trí Môn, “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?”
 >

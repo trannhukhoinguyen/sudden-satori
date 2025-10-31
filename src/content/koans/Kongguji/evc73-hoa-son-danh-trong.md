@@ -14,9 +14,6 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng:
 Nhu thế cũng được, trên thuyền mua được cá đẹp. Không nhu thế cũng được, khó có thể sánh kịp trăng đáy nước hoa trong không. Một tiếng trống vang thấu trời, chưa biết có mấy người nghe được giống ta?
 
 BẢN TẮC
@@ -93,7 +90,7 @@ Ngài chỉ dạy ngay cho Trí Thông thế nên Sư nhận được. Không ch
 Chẳng giống chỗ mảng đá nhú mầm,
 Nhưng giống Sơ Sơn vào tháng chạp.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

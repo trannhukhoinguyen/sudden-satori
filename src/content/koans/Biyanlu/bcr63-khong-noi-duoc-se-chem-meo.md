@@ -16,7 +16,7 @@ Nơi mà con đường của ý thức không đạt đến được, đó lại
 
 Nếu điện chuyển sao bay, thì các ông có thể khuấy biển xô núi. Trong chúng hội há không có ai làm được như thế sao? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Một hôm ở tự viện của ngài Nam Tuyền [^1], tăng chúng của Đông đường và Tây đường tranh nhau một con mèo.
 >

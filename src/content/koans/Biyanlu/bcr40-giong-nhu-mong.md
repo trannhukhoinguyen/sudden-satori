@@ -20,7 +20,7 @@ Trẻ khôn mất nhịp, dù cho tung hoành ngang dọc cũng khó không bị
 
 Thử nói xem sai lầm ở chỗ nào? Xin nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Lục Hoàn đại phu lần kia nói chuyện với ngài Nam Tuyền [^1], nói rằng,
 >

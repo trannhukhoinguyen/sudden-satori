@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 > Đó chính là thần thông diệu dụng, cũng là diệu dụng của thần thông.
 > Người có mắt nên phân tích xem.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

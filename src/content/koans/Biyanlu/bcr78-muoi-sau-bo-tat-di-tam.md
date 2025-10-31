@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 ## THÙY
 
 
-## CỬ:
+## CỬ - TẮC:
 
 > Xưa có mười sáu vị Bồ Tát. Lúc đến giờ chư tăng đi tắm, các vị Bồ Tát ấy xếp hàng vào tắm.
 >

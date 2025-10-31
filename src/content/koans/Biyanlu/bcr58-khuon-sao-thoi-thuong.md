@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, chỉ đừng so đo, phải chăng là khuôn sáo của thiên hạ bây giờ?”
 >

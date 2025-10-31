@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Hỏi một đáp mười. Nêu một rõ ba. Thấy thỏ thả ưng, nhân gió thổi lửa, không tiếc lông mày. Điều này tạm để qua một bên. Lúc vào hang cọp thì như thế nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Lúc cây khô lá rụng thì như thế nào?
 >

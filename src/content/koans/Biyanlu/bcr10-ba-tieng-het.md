@@ -28,7 +28,7 @@ Nếu có nguyên tắc thì dựa vào nguyên tắc, nếu không có nguyên 
 
 Thử nêu ra xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Mục Châu [^1] hỏi ông tăng, “Ông mới từ đâu đến vậy?”
 >

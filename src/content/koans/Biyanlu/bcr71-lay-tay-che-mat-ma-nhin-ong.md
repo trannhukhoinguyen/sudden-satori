@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Bách Trượng [^1] lại hỏi Ngũ Phong [^2], “Không có cổ họng với miệng môi, làm thế nào để nói đây?”
 >

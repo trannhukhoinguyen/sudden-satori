@@ -16,7 +16,7 @@ Mười phương dứt bặt, ngàn mắt chợt mở. Một câu cắt dòng [^
 
 Còn có kẻ đồng sinh đồng tử chăng? Công án hiện thành, an bài không được, xin nêu các dây dưa của cổ nhân lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Định Thượng Tọa hỏi ngài Lâm Tế [^1], “Thế nào là đại ý của Phật Pháp?”
 >

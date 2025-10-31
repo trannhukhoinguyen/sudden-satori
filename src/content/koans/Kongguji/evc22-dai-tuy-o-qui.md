@@ -18,7 +18,7 @@ Tuy gặp nhau nói chuyện, nhưng ngại người bên cạnh cười.
 Thôi, chớ có khoe khoang “hiểu tâm biết bụng”, đều chỉ là thấy cảnh sanh tình.
 Lại bỏ hết được chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 
@@ -50,7 +50,9 @@ Sư ở tại am này hơn mười năm, chưa từng ra khỏi núi, nhưng dan
 
 Vị quan đứng đầu đất Thục rất kính phục. Nhiều lần sai sứ đến thỉnh cầu, Sư đều từ chối vì già bệnh. Vua ban hiệu Thần Chiếu Đại Sư.
 
-Một hôm, có vị Tăng ở am bên cạnh thấy một con rùa, nên hỏi Sư như văn dẫn trên. Sư để giày cỏ trên lưng rùa. Phải biết tông sư tùy cơ trả lời, phá trừ vọng mê, rõ tâm, thấy tánh. Không phải trói buộc người bằng ngôn từ. Chưa biết Ngài Đầu Tử làm sao nói được chỗ hội.
+Một hôm, có vị Tăng ở am bên cạnh thấy một con rùa, nên hỏi Sư như văn dẫn trên. Sư để giày cỏ trên lưng rùa. Phải biết tông sư tùy cơ trả lời, phá trừ vọng mê, rõ tâm, thấy tánh. Không phải trói buộc người bằng ngôn từ. 
+
+Chưa biết Ngài Đầu Tử làm sao nói được chỗ hội.
 
 ## TỤNG CỔ
 

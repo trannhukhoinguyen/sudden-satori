@@ -20,7 +20,7 @@ Trà Long Đàm chế ra, nước vàng tươi đuổi ma ngủ tránh xa. Dù l
 
 Có ai không để trà dính môi mà biết được vị chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

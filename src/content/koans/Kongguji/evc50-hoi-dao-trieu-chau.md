@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Thật văn không ghen ghét, thật võ không thô tháo. Nếu biết một lời tốt lý, cần gì phải nghiền ngẫm văn tự. Chỗ dứt khoát có nói được chăng?
+Thật văn không ghen ghét, thật võ không thô tháo. Nếu biết một lời tốt lý, cần gì phải nghiền ngẫm văn tự. Chỗ dứt khoát có nói được chăng?
 
 BẢN TẮC
 
@@ -59,7 +57,7 @@ Có như thế Chánh Thiên Kiếm Đới lý sự mới hiệp thông. Không 
 Không phải Triệu Châu thân chỉ dạy,
 Gặp đường hiểm chẳng phí công quanh co.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

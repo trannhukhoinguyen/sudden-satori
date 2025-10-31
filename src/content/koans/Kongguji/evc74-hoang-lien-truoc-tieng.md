@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Khi định nói về tâm, thì nhọc sức lắng nghe. Chỗ chưa mở miệng kỳ nhất nhiễu mây, không có một điều gì duyên vào, thì không đưa đến vô sự sanh sự. Có trái với lý này chăng?
+Khi định nói về tâm, thì nhọc sức lắng nghe. Chỗ chưa mở miệng kỳ nhất nhiễu mây, không có một điều gì duyên vào, thì không đưa đến vô sự sanh sự. Có trái với lý này chăng?
 
 BẢN TẮC
 Tăng hỏi Hòa thượng Hoàng Liên: Thế nào là một câu trước tiếng?
@@ -40,7 +38,7 @@ Muốn đạt được nguồn kia nên dò tìm chỗ sâu thẳm ấy. Như s�
 Mặt trời lên khỏi núi còn ẩn hiện.
 Trăng tròn trước cửa còn khuyết đầy.
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

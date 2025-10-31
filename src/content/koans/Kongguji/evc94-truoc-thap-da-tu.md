@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 > Có miệng khó nói được, không lời tâm tự biết, không nhọc múa lưỡi khua môi. 
 > Chỉ có ngôn từ xuất phát từ biện tánh, có rõ được chỗ một thước nước một trượng sóng chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

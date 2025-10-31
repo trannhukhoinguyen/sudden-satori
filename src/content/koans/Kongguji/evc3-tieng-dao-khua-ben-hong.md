@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 > Không cần mắt thấy tai nghe, biết rõ theo thanh đuổi sắc.
 > Hãy nói điểm nào là thủ đoạn cho người?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

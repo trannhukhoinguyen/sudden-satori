@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 > Vương Thái Phó vào Chiêu Khánh Tự để nấu trà. Lúc ấy Lăng Thượng Tọa đang cầm ấm trà cho ngài Minh Chiêu [^1].
 >

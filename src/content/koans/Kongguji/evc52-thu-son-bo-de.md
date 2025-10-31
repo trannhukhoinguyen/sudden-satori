@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Đại đạo Trường An thênh thang, quê hương đã hiện rõ rệt gần. Không đợi đi một bước ai có thể đến được?
+Đại đạo Trường An thênh thang, quê hương đã hiện rõ rệt gần. Không đợi đi một bước ai có thể đến được?
 
 BẢN TẮC
 Tăng hỏi Thủ Sơn: Thế nào là con đường đạt đến quả Bồ đề?
@@ -61,7 +59,7 @@ Kệ
 Phiêu bạt khắp chốn nhiều gian khổ
 Chớ bảo sơn tăng không nói trước
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

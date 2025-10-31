@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Toàn thân tuy tan nát, một vật trấn thường linh. Nếu thấy được tánh biết tâm, không khỏi dụng đầu u trán, lại thấy sau lưng chăng?
+Toàn thân tuy tan nát, một vật trấn thường linh. Nếu thấy được tánh biết tâm, không khỏi dụng đầu u trán, lại thấy sau lưng chăng?
 
 BẢN TẮC
 Tăng hỏi Động Sơn:
@@ -127,7 +125,7 @@ Cho nên ngài Thạch Đầu nói: Muốn biết người bất tử trong âm,
 Ở trong không mà nói có, ở trong có mà bảo không. Không phải trí âm thì khó hiểu được lý này, chẳng đồng ngôn ngữ thế gian. Dính chặt như gom hoa xếp gấm, tìm cầu nhân tài kiệt xuất. Dùng nét chữ để giữ lấy thanh qui. Phong cách cao vời ý thú siêu thoát. Câu văn hay lý tính sâu. Nói cái không nói nghe cái không nghe đều chẳng phải tông ta.
 
 Không nghe trong kinh Pháp Hoa nói sao: Dừng dùng không cần nói nữa. Pháp của Như Lai vi diệu khó lường, phải hội câu sau cùng. Lại tham cứu ba mươi năm.
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

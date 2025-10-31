@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 > Theo lời nói xác định ý chỉ tùy tình hình lúc ấy. Nhờ lời biết tông chớ bỏ qua. Có người nào thông minh thấu hiểu được câu hỏi này chính xác không?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

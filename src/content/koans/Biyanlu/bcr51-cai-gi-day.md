@@ -23,7 +23,7 @@ Dù cho có đạt đến chỗ giải thoát đơn độc đi nữa, vẫn chư
 
 Các ông đã nắm được chưa? Nếu chưa thì chỉ phải hiểu cái công án rõ ràng này. Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Lúc Ngài Tuyết Phong [^3] ở trong am, có hai ông tăng đến đảnh lễ.
 > Ngài Tuyết Phong thấy họ đến lấy tay đẩy cửa, có người ra nói, “Cái gì đây?”

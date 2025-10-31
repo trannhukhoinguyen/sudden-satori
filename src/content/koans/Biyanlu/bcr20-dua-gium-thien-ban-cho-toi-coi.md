@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 > Lập tức với một cơ một cảnh làm líu lưỡi tất cả người trong thiên hạ, khiến các ông không còn chỗ mà mon men đến gần.
 > Thử nói xem, xưa nay đã từng có ai như thế? Xin thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 Long Nha [^1] hỏi Thúy Vi [^2], “Thế nào là ý của Tổ Sư từ Tây Thiên qua?”
 

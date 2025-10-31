@@ -22,7 +22,7 @@ Như giờ đây thấy với không thấy, nghe với không nghe, nói với 
 
 Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Lãng Thiền Khách hỏi ngài Khâm Sơn [^1], “Lúc một mũi tên phá ba ải thì như thế nào?”
 >

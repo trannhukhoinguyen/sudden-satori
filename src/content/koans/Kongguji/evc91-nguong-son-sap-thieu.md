@@ -22,7 +22,7 @@ Chớ bảo cha hiền từ con ngỗ nghịch.
 
 Vốn chẳng phải ẩn đoan tình quên, có người nào rảnh rỗi kiểm nghiệm chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

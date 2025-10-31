@@ -16,7 +16,7 @@ tags:
 
 Ẩn mật toàn chân, lập tức thủ chứng. Lững thững chuyển vật, trực tiếp đảm đương. Còn việc như đá lửa điện chớp, cắt đứt lầm lạc, nắm đầu cọp đuôi cọp, đứng lừng lững như vách đá vạn trượng, những thứ ấy tạm gác qua một bên. Một con đường còn có chỗ vì người khác không? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Đạo Ngô [^1] và Tiệm Nguyên [^2] đến một nhà kia để điếu tang.
 > Tiệm Nguyên vỗ vào quan tài hỏi, “Sống sao chết sao?”

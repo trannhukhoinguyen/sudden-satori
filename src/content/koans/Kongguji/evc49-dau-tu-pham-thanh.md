@@ -18,7 +18,7 @@ Niệm trước niệm sau, luôn nhớ niệm hiện tại.
 Là thanh tịnh biết thanh tịnh, trong ấy có sự tinh thông.
 Có ai đủ con mắt thông suốt này chăng?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ:
+## CỬ - TẮC:
 
 Hòa Sơn [^1] dạy rằng, “Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần).
 

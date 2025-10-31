@@ -23,7 +23,7 @@ Thử nói xem là đen hay trắng? Cong hay thẳng?
 
 Đến chỗ này, phải phân biện như thế nào?
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Văn Thù [^1] hỏi Vô Trước, “_Thầy mới từ đâu đến vậy?_”
 >

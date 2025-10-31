@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Ý mà không có ý, thì ý này xấu xa thâm áo. Vị mà không có vị, thì vị này thường hàng. 
 Nếu biến cột cái mang thai, thì tin ngay rùa đá biết nói. Điều này có thật không?
 
-## CỬ - BẢN TẮC:
+## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 

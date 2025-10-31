@@ -21,7 +21,7 @@ Ngồi đầu cọp để nắm đuôi cọp, chưa phải là bậc chuyên gia
 
 Lúc người vượt qua sự tư lương đến thì như thế nào? Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Tam Thánh [^1] hỏi ngài Tuyết Phong [^2], “_Con cá vàng vượt ra khỏi lưới, không hiểu lấy gì để ăn?_”
 >

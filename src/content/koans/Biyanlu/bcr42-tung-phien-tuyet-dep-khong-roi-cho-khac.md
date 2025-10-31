@@ -20,7 +20,7 @@ Mặt trời rực rỡ trên không. Gió trong xào xạc dưới đất.
 
 Thử nói xem cổ nhân còn có chỗ lầm lẫn chăng? Xin nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Bàng Cư Sĩ [^1] từ giả Dược Sơn, Dược Sơn sai mười Thiền khách tiễn ra tận cổng.
 >

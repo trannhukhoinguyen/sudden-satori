@@ -18,7 +18,7 @@ Gương sáng treo cao, trong câu dẫn xuất ấn Tì Lô. Ở chỗ điền 
 
 Chỗ thần thông du hí, làm sao mà nương náu? Đã hiểu rõ chưa? Xin xem văn dưới đây.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Mỗi lúc đến giờ trai, Kim Ngưu hòa thượng ôm nồi cơm ra trước tăng đường múa rồi cười ha hả nói, “Các Bồ Tát mau ra ăn cơm!”
 

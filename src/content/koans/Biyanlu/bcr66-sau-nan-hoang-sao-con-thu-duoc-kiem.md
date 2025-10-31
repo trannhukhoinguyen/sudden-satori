@@ -15,7 +15,7 @@ tags:
 
 Giáp mặt đương cơ, đề cơ bẫy cọp; đánh thẳng đánh ngang, bầy sách lược bắt giặc. Sáng hợp tối hợp, buông cả nắm cả, biết chơi rắn độc- đều là việc của chuyên gia.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Ngài Nham Đầu [^1] hỏi ông tăng, “Từ đâu tới?”
 >

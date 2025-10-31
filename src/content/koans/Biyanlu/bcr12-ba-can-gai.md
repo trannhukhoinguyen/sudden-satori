@@ -22,7 +22,7 @@ Thử nói xem, đã không truyền thì tại sao lại có đến lắm công
 
 Để những người có mắt thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 > Có ông tăng hỏi ngài Động Sơn [^1], “_Phật là gì?_”
 >

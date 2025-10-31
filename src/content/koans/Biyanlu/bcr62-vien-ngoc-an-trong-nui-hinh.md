@@ -15,7 +15,7 @@ tags:
 > Bằng vào vô sư trí phát vô tác diệu dụng; bằng vào vô duyên từ [^2] làm thiện hữu vô điều kiện.
 > Ở trong một câu, có sát có hoạt; Ở trong một cơ, có buông có nắm. Thử nói xem, có ai từng được như thế. Thử nêu lên xem.
 
-## CỬ:
+## CỬ - TẮC:
 
 Vân Môn [^1] dạy chúng rằng, bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình [^3].
 
