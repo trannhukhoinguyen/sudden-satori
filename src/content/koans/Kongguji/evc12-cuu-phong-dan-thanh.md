@@ -23,17 +23,13 @@ Thử đưa ra xem.
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi Cửu Phong:
-– Một họa sĩ tài vì sao không họa được chơn mạo của Chí Công?
+> Tăng hỏi Cửu Phong: **Một họa sĩ tài vì sao không họa được chơn mạo của Chí Công?**
 
-Cửu Phong đáp:
-– Tăng Dao từ chối không vẽ chơn dung Chí Công.
+Cửu Phong đáp: **Tăng Dao từ chối không vẽ chơn dung Chí Công.**
 
-Tăng thưa:
-– Không biết ai làm chứng cho Tăng Dao?
+Tăng thưa: **Không biết ai làm chứng cho Tăng Dao?**
 
-Cửu Phong đáp:
-– Con rùa lẻ cột Tu Di.
+Cửu Phong đáp: **Con rùa lẻ cột Tu Di.**
 
 ## BÌNH XƯỚNG
 
@@ -42,19 +38,19 @@ Cửu Phong đáp:
 Thiền sư Đạo Kiền ở Cửu Phong Quận Đàm Châu, du học khắp nơi, nhưng được ngài Thạch Sương ấn chứng. 
 Giáo hóa ở Cửu Phong, độ chúng tài giỏi rất đông.
 
-Tăng hỏi: _Trong kinh nói đủ ba thứ ánh sáng mới thấy được, không đủ ba thứ sáng có thấy được chăng?_
+Tăng hỏi: **Trong kinh nói đủ ba thứ ánh sáng mới thấy được, không đủ ba thứ sáng có thấy được chăng?**
 
 Ngài Cửu Phong đáp: **Duyên thì có sai khác, nhưng thấy không mất**
 
-Tăng hỏi: _Đã không mất, trong tối vì sao không thấy vật?_
+Tăng hỏi: **Đã không mất, trong tối vì sao không thấy vật?**
 
 Ngài Cửu Phong đáp: **Tuy không thấy vật, lẽ nào không thấy tối**
 
-Tăng hỏi: _Bỏ ba duyên ra, thế nào là thấy chơn thật?_
+Tăng hỏi: **Bỏ ba duyên ra, thế nào là thấy chơn thật?**
 
 Ngài Cửu Phong đáp: **Ban ngày mà khắp nơi đều tối đen**
 
-Tăng hỏi: _Họa sĩ tài ba vì sao không vẽ được chơn dung của Chí Công?_
+Tăng hỏi: **Họa sĩ tài ba vì sao không vẽ được chơn dung của Chí Công?**
 
 Thiền sư Bảo Chí ở Kim Lăng, Sư họ Chu người Kim thành. 
 Sinh vào năm kỷ mùi niên hiệu Nguyên Hưng cuối đời Tấn (419). 
@@ -100,16 +96,13 @@ Biện Hòa người nước Sở dâng ngọc cho Sở Lệ Vương. Vua cho l�
 Đến khi Vũ Vương lên ngôi, Hòa lại đem dâng nữa, Vũ Vương giận chặt thêm một chân.
 Đến Sở Văn Vương lên ngôi, Biện Hòa ôm ngọc khóc dưới chân núi Kinh Sơn.
 
-Văn Vương gọi vào và bảo:
-– Ông bị chặt hai chân oán trách sao?
+Văn Vương gọi vào và bảo: **Ông bị chặt hai chân oán trách sao?**
 
-Biện Hòa thưa:
-– Không oán trách việc chặt chân, chỉ oán trách ngọc thật mà cho là đá thường. Việc trung thực mà cho là dối gạt nên khóc.
+Biện Hòa thưa: **Không oán trách việc chặt chân, chỉ oán trách ngọc thật mà cho là đá thường. Việc trung thực mà cho là dối gạt nên khóc.**
 
 Vua ra lệnh cho thợ chẻ đá ra, thì hiện ra ngọc thật.
 
-Văn Vương than rằng:
-– Than ôi! Nhị Tiên Vương xem thường chặt chân ông, chẳng chịu chẻ đá ra xem. Nay đúng là ngọc bích, là quốc bảo.
+Văn Vương than rằng: **Than ôi! Nhị Tiên Vương xem thường chặt chân ông, chẳng chịu chẻ đá ra xem. Nay đúng là ngọc bích, là quốc bảo.**
 
 Thầy Hàn Tử đem ví dụ này dụ cho chí đạo mọi người không nhìn thấy, lời nói không thể diễn đạt đến được, không thể suy lường bằng tinh thức. Thế nên làm cho trâu sắt ôm con nhảy vào biển cả, rùa đã lên trăng tha hồ mọc lông cánh. Đều dạy thấu nhiếp trao hết cương yếu tông môn.
 
