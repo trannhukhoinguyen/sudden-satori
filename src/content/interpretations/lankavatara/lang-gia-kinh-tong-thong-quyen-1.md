@@ -35,7 +35,7 @@ phải ngày đầu ăn thì chẳng tạo được luận
 
 đây nhưng đạo an vì ấy đã làm bật thiên
 
-cổ Con Nghe nói ông hám Sơn đức thanh'
+cổ Con Nghe nói ông **Hám Sơn Đức Thanh**'
 
 nhập đạo vượt qua sông loa cũng vì chết
 
