@@ -4,7 +4,7 @@ const CnLv36MasterDb = [
     name_en: 'Yinyuan Longqi',
     name_ja: 'Ingen Ryuki',
     name_zh: '隠元隆琦',
-    name_vi: 'Ân Nguyên Long Kỳ',
+    name_vi: 'Ẩn Nguyên Long Kỳ',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
