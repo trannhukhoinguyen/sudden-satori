@@ -53,7 +53,9 @@ Ngìn núi đều xanh biếc, muôn dòng có sóng triều. Chưa biết ngư�
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

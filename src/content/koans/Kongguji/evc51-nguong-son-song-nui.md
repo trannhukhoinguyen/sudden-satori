@@ -77,7 +77,9 @@ Một phong cảnh vững lặng
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

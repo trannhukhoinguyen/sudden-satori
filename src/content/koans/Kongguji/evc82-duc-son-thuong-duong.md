@@ -119,7 +119,9 @@ Không nghe nói: ngậm miệng kín lưỡi chính là phương pháp tu thân
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

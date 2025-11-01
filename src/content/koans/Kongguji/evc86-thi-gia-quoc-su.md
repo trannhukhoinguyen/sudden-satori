@@ -101,7 +101,9 @@ Lâm Tuyền nói, vừa bảo quên mất, chợt nhớ được. Thế Tôn g�
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

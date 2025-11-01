@@ -73,7 +73,9 @@ Dù cho hồ đá nổi giận, mặc dù thế sự cầm sáo nào, trụ cộ
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

@@ -76,7 +76,9 @@ Tạm thời dừng niệm ngay chỗ khảy nhẹ móng tay, mở toang lớp l
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

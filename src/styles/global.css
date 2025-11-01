@@ -476,3 +476,15 @@ hr {
 .details-summary {
   color: var(--color-accent-gold);
 }
+
+.markdown-columns-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
+
+.markdown-columns-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 0.6fr;
+  gap: 0.5rem;
+}

@@ -70,7 +70,9 @@ Gặp đường hiểm chẳng phí công quanh co.
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

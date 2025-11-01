@@ -120,7 +120,9 @@ Biết tung tích kinh này chăng? Ngài lấy phất tử đánh vào giườn
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

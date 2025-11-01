@@ -60,7 +60,9 @@ Ngài Lâm Tuyền phân tích như thế, lại hiểu chăng? Ngài xuống t�
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

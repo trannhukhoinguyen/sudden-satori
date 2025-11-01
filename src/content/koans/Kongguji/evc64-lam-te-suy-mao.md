@@ -62,7 +62,9 @@ Ngài đưa cây gậy lên nói: Cho thành một lời nói, mặc cho ông ch
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

@@ -51,8 +51,9 @@ Trăng tròn trước cửa còn khuyết đầy.
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
 
+</blockquote>
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:

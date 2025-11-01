@@ -138,7 +138,9 @@ Không nghe trong kinh Pháp Hoa nói sao: Dừng dùng không cần nói nữa.
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

@@ -86,7 +86,9 @@ Ngài Lý Phất, cũng một trận tuyết Hương Tích, Duy Ma che cười.
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

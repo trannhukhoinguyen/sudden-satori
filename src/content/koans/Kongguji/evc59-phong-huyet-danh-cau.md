@@ -78,7 +78,9 @@ Lâm Tuyền vì phương tiện làm thông dịch, theo văn cảnh nên truy�
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

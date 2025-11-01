@@ -72,7 +72,9 @@ Chớ bảo sơn tăng không nói trước
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

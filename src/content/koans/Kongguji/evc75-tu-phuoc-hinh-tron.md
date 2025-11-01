@@ -52,7 +52,9 @@ Ngài Lâm Tuyền nói: Bậc Nhan và Tí Kỳ không phải người khác. C
 
 ## TỤNG CỔ
 
-> 
+<blockquote>
+
+</blockquote>
 
 ## BÌNH XƯỚNG
 

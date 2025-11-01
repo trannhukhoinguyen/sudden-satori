@@ -1,6 +1,5 @@
 ---
 import type { PostTitleWithSlug } from "@/types.ts";
-import Search from "../page/Search.astro";
 
 const { collection, posts, titleList, listTitle } = Astro.props;
 
@@ -20,9 +19,9 @@ const letters = Object.keys(grouped).sort((a, b) =>
 const initial = letters.includes("A") ? "A" : letters[0];
 ---
 
-<h2 style="text-align: center">
+<h2 style="text-align: center; margin-top: 1rem">
   {listTitle}
-  <Search />
+  <input type="text" id="searchInput" placeholder="Gõ chữ để Tìm...">
 </h2>
 
 <div class="alphabet-container">
@@ -308,5 +307,34 @@ const initial = letters.includes("A") ? "A" : letters[0];
             // optional: focus for keyboard users
             btn.focus();
         });
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+      const searchInput = document.getElementById('searchInput');
+
+      searchInput.addEventListener('keyup', function() {
+        const filter = (searchInput.value || '').toUpperCase();
+
+        buttons.forEach((btn) => {
+          const btnLetter = (btn.textContent || btn.innerText)
+            .replace(/["'\s]/g, '')  // xóa dấu nháy đơn, đôi, và toàn bộ khoảng trắng
+            .toUpperCase();
+
+          if (filter) {
+            if (filter[0] === btnLetter) {
+              btn.style.display = '';
+              const letter = btn.dataset.letter;
+
+              groups.forEach((el) => {
+                el.style.display = el.dataset.group === letter ? "block" : "none";
+              });
+            } else {
+              btn.style.display = 'none';
+            }
+          } else {
+            btn.style.display = '';
+          }
+        })
+      });
     });
 </script>

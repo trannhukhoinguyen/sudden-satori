@@ -23,29 +23,22 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đầu Tử cử:
 
-> Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư: **phải làm việc gì để không bị rơi vào giai cấp** (thứ bậc)? (_nên làm việc cho tốt đâu cần hỏi đường trước_)
->
-> Tổ hỏi: **Ông từng làm việc gì**? (_bày hết tâm can_)
->
-> Hành Tư thưa: Thánh đế cũng chẳng làm. (_một viên hoàn đơn, chạm vào sắt thành vàng_)
->
-> Tổ bảo: vậy thì thuộc giai cấp nào? (_vì lòng từ bi chẳng tiếc hai cọng lông mày_)
->
-> Hành Tư thưa: Thánh đế còn không làm, rơi vào giai cấp nào? (_khi mê có tam giới, ngộ rồi mười phương không_)
->
-> Tổ dạy: Đúng thế! Đúng thế! (_thương con không biết nhơ_). Ông cố gắng giữ gìn. (_mong nghe pháp yếu_). 
-> 
-> Ta có bài kệ ấn chứng cho ông:
->
-> Đất tâm có các giống (_đều ở trong đó_)
-> 
-> Mưa khắp đều nảy mầm (_các pháp từ duyên sanh_)
-> 
-> Hoa đốn ngộ thật nở (_đều không sanh cành lá_)
-> 
-> Quả bồ đề tự thành (_phải biết vị ngọt trong vị đắng_)
+Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư: **phải làm việc gì để không bị rơi vào giai cấp** (thứ bậc)? (_nên làm việc cho tốt đâu cần hỏi đường trước_)
 
-(
+Tổ hỏi: **Ông từng làm việc gì**? (_bày hết tâm can_)
+
+Hành Tư thưa: Thánh đế cũng chẳng làm. (_một viên hoàn đơn, chạm vào sắt thành vàng_)
+
+Tổ bảo: vậy thì thuộc giai cấp nào? (_vì lòng từ bi chẳng tiếc hai cọng lông mày_)
+
+Hành Tư thưa: Thánh đế còn không làm, rơi vào giai cấp nào? (_khi mê có tam giới, ngộ rồi mười phương không_)
+
+Tổ dạy: Đúng thế! Đúng thế! (_thương con không biết nhơ_). Ông cố gắng giữ gìn. (_mong nghe pháp yếu_). 
+
+Ta có bài kệ ấn chứng cho ông:
+
+<blockquote>
+
 Đất tâm chứa các giống
 
 Mưa khắp đều nảy mầm
@@ -53,7 +46,7 @@ Mưa khắp đều nảy mầm
 Đốn ngộ hoa trí nở
 
 Thành tựu quả bồ đề
-)
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -86,13 +79,16 @@ Hoặc nhận được hay không nhận được, phải hỏi kỹ ngài Đầ
 
 ## TỤNG CỔ
 
-> Đánh Võ kiến hiện mây tan mất (Bày đảnh Vô kiến mây gom nhóm (nhìn thì mù))
->
-> Kiếp xưa cành linh không đợi xuân (Bày đảnh Vô kiến mây gom nhóm (Kiếp ngoại cành linh không đợi xuân (chỗ ba thứ ánh sáng chẳng chiếu, riêng có thể suy lường)))
->
-> Cõi ấy không ở điện không vương (Bày đảnh Vô kiến mây gom nhóm (Bên kia không ở điện Không vương (trong cõi nước vô lậu lưu giữ không ở)))
->
-> Sinh sống đâu cần theo ngày tháng (Đâu chịu nhổ cỏ hướng lên mặt trời (trong bóng trăng thấy thật khó))
+<blockquote>
+
+Đánh Võ kiến hiện mây tan mất
+
+Kiếp xưa cành linh không đợi xuân
+
+Cõi ấy không ở điện không vương
+
+Sinh sống đâu cần theo ngày tháng
+</blockquote>
 
 ## BÌNH XƯỚNG
 

@@ -1,20 +1,17 @@
 ---
 import type { Koan } from "@/types.ts";
-import koanTypes, {
-  koanDescription,
-} from "../../data/koans/KoanIntroduction.ts";
 
 const { koans, title } = Astro.props;
 
 // Nhóm công án theo chữ cái đầu tiên
-const grouped = koans.reduce((acc: Record<string, Koan[]>, k: any) => {
+let grouped = koans.reduce((acc: Record<string, Koan[]>, k: any) => {
     const letter = k?.title?.charAt(0).toUpperCase();
     acc[letter] = acc[letter] || [];
     acc[letter].push(k);
     return acc;
 }, {});
 
-const letters = Object.keys(grouped).sort((a, b) =>
+let letters = Object.keys(grouped).sort((a, b) =>
   a.localeCompare(b, "vi")
 );
 const initial = letters.includes("A") ? "A" : letters[0];
@@ -35,25 +32,30 @@ const initial = letters.includes("A") ? "A" : letters[0];
   </div>
 </section>
 
-<h2 style="text-align: center">{title}</h2>
-<div class="alphabet-container">
-  <div class="alphabet">
+<h2 style="text-align: center; margin-top: 1rem">
+  {title}
+  <input type="text" id="searchInput" placeholder="Gõ chữ để Tìm...">
+</h2>
+
+<div class="alphabet-container" id="alphabet-container">
+  <div class="alphabet" id="alphabet">
     {letters.map(letter => (
       <button
         class:list={{ active: letter === initial }}
         data-letter={letter}
+        id={letter}
       >
         {letter}
       </button>
     ))}
   </div>
 
-  <div class="koans">
+  <div class="koans" id="koans">
     {letters.map(letter => (
       <ul data-group={letter} style={`display: ${letter === initial ? 'block' : 'none'};`}>
         {(grouped[letter] || []).map((k: any) => (
             <li>
-              <a href={`/koans/${k.slug}`} class="koan-path" target="_blank">
+              <a href={`/koans/${k.slug}`} class="koan-path" id={k.slug} target="_blank">
                 {k.title?.toUpperCase()}
               </a>
           </li>
@@ -232,7 +234,7 @@ const initial = letters.includes("A") ? "A" : letters[0];
 
     .koans {
         .koan-path {
-            color: var(--color-accent-brown-dark);
+            color: var(--color-accent-maroon);
         }
 
         ul {
@@ -319,5 +321,34 @@ const initial = letters.includes("A") ? "A" : letters[0];
             // optional: focus for keyboard users
             btn.focus();
         });
+    });
+
+    document.addEventListener('DOMContentLoaded', function() {
+      const searchInput = document.getElementById('searchInput');
+
+      searchInput.addEventListener('keyup', function() {
+        const filter = (searchInput.value || '').toUpperCase();
+
+        buttons.forEach((btn) => {
+          const btnLetter = (btn.textContent || btn.innerText)
+            .replace(/["'\s]/g, '')  // xóa dấu nháy đơn, đôi, và toàn bộ khoảng trắng
+            .toUpperCase();
+
+          if (filter) {
+            if (filter[0] === btnLetter) {
+              btn.style.display = '';
+              const letter = btn.dataset.letter;
+
+              groups.forEach((el) => {
+                el.style.display = el.dataset.group === letter ? "block" : "none";
+              });
+            } else {
+              btn.style.display = 'none';
+            }
+          } else {
+            btn.style.display = '';
+          }
+        })
+      });
     });
 </script>
