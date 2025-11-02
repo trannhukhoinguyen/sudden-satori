@@ -12,6 +12,8 @@ import PostTags from "../../components/post/PostTags.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import PostImage from "../../components/post/PostImage.astro";
 import RelatedPostList from "../../components/postList/RelatedPostList.astro";
+import KoanModal from "../../components/post/KoanModal.astro";
+import Comment from "../../components/post/Comment.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
@@ -26,7 +28,7 @@ export async function getStaticPaths() {
       })
   );
 }
-
+const slug = Astro.params.slug;
 const { post, collection } = Astro.props;
 const { frontmatter, Content } = post as any;
 ---
@@ -58,10 +60,10 @@ const { frontmatter, Content } = post as any;
     <!-- ✅ TOC -->
     <TOC post={post} />
     <FloatingTOC post={post} />
-
+    <KoanModal id={slug} />
     <div class="post-content">
       <!-- ✅ Content -->
-      <Content />
+      <Content components={{ Comment: (props) => <Comment id={slug} {...props} /> }} />
     </div>
   </article>
 
