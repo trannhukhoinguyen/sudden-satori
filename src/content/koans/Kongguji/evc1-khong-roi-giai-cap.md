@@ -17,23 +17,23 @@ image: /images/koans/great-wave.webp
 
 > Hãy quên hết thế sự, đâu cần suy nghĩ nhiều.
 > Chỉ đập tan khối nghi, cần gì một câu huyền diệu.
-> Cửa huyền thông suốt, người đạt được diệu dụng tự tại đó là AI (người nào)?
+> Cửa huyền thông suốt, người đạt được diệu dụng tự tại đó là AI?
 
 ## CỬ - TẮC::
 
 📢 Ngài Đầu Tử cử:
 
-Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư: **phải làm việc gì để không bị rơi vào giai cấp** (thứ bậc)? (_nên làm việc cho tốt đâu cần hỏi đường trước_)
+Hòa thượng Hành Tư hỏi Lục Tổ Đại Sư: **phải làm việc gì để không bị rơi vào giai cấp**?
 
-Tổ hỏi: **Ông từng làm việc gì**? (_bày hết tâm can_)
+Tổ hỏi: **Ông từng làm việc gì**?
 
-Hành Tư thưa: Thánh đế cũng chẳng làm. (_một viên hoàn đơn, chạm vào sắt thành vàng_)
+Hành Tư thưa: **Thánh đế cũng chẳng làm.**
 
-Tổ bảo: vậy thì thuộc giai cấp nào? (_vì lòng từ bi chẳng tiếc hai cọng lông mày_)
+Tổ bảo: **Vậy thì thuộc giai cấp nào?**
 
-Hành Tư thưa: Thánh đế còn không làm, rơi vào giai cấp nào? (_khi mê có tam giới, ngộ rồi mười phương không_)
+Hành Tư thưa: **Thánh đế còn không làm, rơi vào giai cấp nào?**
 
-Tổ dạy: Đúng thế! Đúng thế! (_thương con không biết nhơ_). Ông cố gắng giữ gìn. (_mong nghe pháp yếu_). 
+Tổ dạy: **Đúng thế! Đúng thế!. Ông cố gắng giữ gìn.**
 
 Ta có bài kệ ấn chứng cho ông:
 
@@ -52,7 +52,7 @@ Thành tựu quả bồ đề
 
 📢 Ngài Lâm Tuyền nói:
 
-Xưa nay sự tu hành đều có thứ bậc, song căn cơ có mau (nhanh) chậm khó mà tương đồng (giống nhau).
+Xưa nay sự tu hành đều có thứ bậc, song căn cơ có mau chậm khó mà giống nhau.
 
 Bắt đầu từ kiến đạo, tu đạo, vô học đạo, đến Noãn, Đảnh, Thế Đệ Nhất, bậc Đẳng Giác Diệu Giác 
 Tất cả đều tu pháp môn phương tiện này đúng đắn, căn cơ viên đốn, đã hướng dẫn thật kỹ.
@@ -61,8 +61,12 @@ Lúc mới phát tâm liền chứng được bồ đề, khi nghiệm kỹ lạ
 Cho đến đức Như Lai không ra đời cũng không nhập Niết bàn, thì mới được tám phần. 
 Thế thì làm sao nói được một câu đầy đủ (thấu triệt)?
 
-Thiền tăng nhiều lời nói khó trúng (Nạp tăng giỏi biện luận khó có thể mà nói hết)
-Đông Tử vô ngôn diễn bày hay (Đồng Tử (bồ tát) không lời, khéo diễn bày)
+<blockquote>
+  
+Thiền tăng nhiều lời nói khó trúng
+
+Đông Tử vô ngôn diễn bày hay
+</blockquote>
 
 Hòa thượng Nam Nhạc Hoài Nhượng từng bảo với Mã đại sư rằng:
 
@@ -80,8 +84,8 @@ Hoặc nhận được hay không nhận được, phải hỏi kỹ ngài Đầ
 ## TỤNG CỔ
 
 <blockquote>
-
-Đánh Võ kiến hiện mây tan mất
+  
+Đảnh Vô kiến hiện mây tan mất
 
 Kiếp xưa cành linh không đợi xuân
 
@@ -103,11 +107,11 @@ Vì hư không không có thân, thân Như Lai cũng như thế.
 Vì sao? 
 Vì thân Như Lai là không thân, vì chúng sanh nên Ngài hiện thân này.
 
-Giống như khi đánh vỡ kiến hiện, còn tìm gì nữa? 
+Giống như khi đảnh vô kiến hiện, còn tìm gì nữa? 
 Nếu cũng mê như mây mờ, hôn như sương giăng. 
 Dù cho trước mắt cũng chẳng liên quan gì. 
 Huống nữa kiếp không về trước mắt không nương ý căn, giống như cành linh trổ hoa, đâu đợi xuân về mà phân cao thấp. 
-Đó là bản lai không điên mục, không còn khái niệm được mất. 
+Đó là bản lai không diện mục, không còn khái niệm được mất. 
 Vượt khỏi khen chê, phàm thánh không màng thứ bậc chẳng chấp, tự do tự tại.
 
 (“Thí như hư không khắp tất cả cõi sắc phi sắc, chẳng đến chẳng không đến. Vì cớ sao? Hư không không có hình tướng, thân Như Lai cũng lại như thế. 
@@ -117,12 +121,15 @@ Huống nữa Kiếp không về trước không nương ý căn, cành linh t�
 Là người xưa nay không mặt mũi, lìa chỗ được mất tình lượng. 
 Ra khỏi sự khen chê, phàm thánh chẳng lường, thứ bậc chẳng chấp, mặc tình tiêu sái.)
 
-Dù cho như thế, cũng chưa khỏi bị ngài Nam Tuyền bảo: “Phật Oai Âm Vương vẫn là con cháu của Vương Lão Sư.” Sao vậy?
+Dù cho như thế, cũng chưa khỏi bị ngài Nam Tuyền bảo: “**Phật Oai Âm Vương vẫn là con cháu của Vương Lão Sư**” Sao vậy?
 
-> Xưa nay Luân Vương đủ chí khí (Xưa nay chuyển luân đủ chí khí)
->
-> Không bày ấn báu vẫn tôn kính (Không lộ ấn báu tôn tự nhiên)
-> 
+<blockquote>
+  
+Xưa nay Luân Vương đủ chí khí
+
+Không bày ấn báu vẫn tôn kính
+</blockquote>
+
 <hr class="blog-rule" />
 
 ## NGUỒN
