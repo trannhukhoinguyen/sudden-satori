@@ -15,15 +15,15 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-> Còn phân biệt già trẻ, đẹp xấu, chưa ra khỏi sự bình phàm.
-> Xét nặng nhẹ, so cao thấp, chưa ra khỏi cân lường.
+> Còn phân biệt già trẻ, đẹp xấu, thì chưa ra khỏi sự bình phẩm.
+> Xét nặng nhẹ, so cao thấp, không ra khỏi cân lường.
 > Đã biết mắt trái nửa cân, suy ra mắt phải cũng 8 lạng, sợ y không tin, thử nhìn kỹ xem.
 
 ## CỬ - TẮC:
 
 📢 Ngài Đầu Tử cử:
 
-> Thạch Đầu đến chỗ ngài Hành Tư. Hành Tư hỏi: _Ông từ đâu đến?_
+Thạch Đầu đến chỗ ngài Hành Tư. Hành Tư hỏi: _Ông từ đâu đến?_
 
 Thạch Đầu thưa: _Từ Tào Khê đến_
 
@@ -72,21 +72,19 @@ Ngài đưa phất tử lên hỏi: _Ở Tào Khê có cây này không?_
 
 Còn bị Hy Thiên thưa: “_Chẳng những Tào Khê mà cả Tây Thiên cũng không có_”
 
-> Điều này nghĩa là kỹ nhất nói rõ ra, cơ quý ở điểm hợp nhau, ngay lúc đỉnh điểm điểm thẳng vào.
-
-Nên Ngài Hành Tư hỏi Hy Thiên đến Tây Thiên rồi chăng?
+> Điều này nghĩa là kỵ nhất nói rõ ra, cơ quý ở điểm hợp nhau, ngay lúc đỉnh điểm điểm thẳng vào, nên Ngài Hành Tư hỏi Hy Thiên đến Tây Thiên rồi chăng?
 
 Cũng có thể khen Hy Thiên là người thông minh, thế nên Hy Thiên thưa con có đến.
 
 Ngài Hành Tư thấy sự tình chưa hiểu nhau. Thế nên Ngài nói: “Chưa được thì nói nữa”
 
-Cho nên Hy Thiên có hội tương tục, kế tựu kế thừa: “Hòa thượng chớ hoàn toàn tin vào con, Ngài cũng nên nói đôi lời”
+Cho nên Hy Thiên cơ hội tương kế tựu kế thưa: “Hòa thượng chớ hoàn toàn tin vào con, Ngài cũng nên nói đôi lời”
 
 Thấy hiện tình bất phân thắng bại, cho nên Hy Thiên có nhã ý thân thiện.
 
 > Than ôi! Người xưa tâm như gương sáng, cơ tợ châu lăn. 
-> Trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp thành một.
-> Điều này há không phải thầm khế hợp với Phật lý ư?
+Trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp thành một.
+Điều này há không phải thầm khế hợp với Phật lý ư?
 
 ***
 
@@ -119,13 +117,16 @@ Mặc dù Ngài Thạch Đầu nửa ẩn nửa hiện, để cho con cháu đ�
 
 ## TỤNG CỔ
 
-> Phượng chúa ẩn mây trắng
->
-> Mặt trời hồng chiếu khắp
->
-> Một chòm sao lấp lánh
->
-> Tự tại chốn trời cao
+<blockquote>
+  
+Phượng chúa ẩn mây trắng
+
+Mặt trời hồng chiếu khắp
+
+Một chòm sao lấp lánh
+
+ Tự tại chốn trời cao
+</blockquote>
 
 ## BÌNH XƯỚNG
 
