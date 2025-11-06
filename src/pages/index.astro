@@ -16,7 +16,7 @@ const blogPosts = CONTENT_MAP['blogs'].posts?.slice(0, maxQuantity)?.map(post =>
   return {
     title: frontmatter?.title,
     frontmatter,
-    slug: toKebabCase(frontmatter?.title),
+    slug: '/blogs' + toKebabCase(frontmatter?.title),
   }
 });
 const bookPosts = CONTENT_MAP['books'].posts?.slice(0, maxQuantity)?.map(post => {
@@ -24,7 +24,7 @@ const bookPosts = CONTENT_MAP['books'].posts?.slice(0, maxQuantity)?.map(post =>
   return {
     title: frontmatter?.title,
     frontmatter,
-    slug: toKebabCase(frontmatter?.title),
+    slug: '/books' + toKebabCase(frontmatter?.title),
   }
 });
 const practicePosts = CONTENT_MAP['practices'].posts?.slice(0, maxQuantity)?.map(post => {
@@ -32,7 +32,7 @@ const practicePosts = CONTENT_MAP['practices'].posts?.slice(0, maxQuantity)?.map
   return {
     title: frontmatter?.title,
     frontmatter,
-    slug: toKebabCase(frontmatter?.title),
+    slug: '/practices' + toKebabCase(frontmatter?.title),
   }
 });
 
@@ -76,17 +76,12 @@ const description = "Xem " + title;
         <p class="blog-description">Sống từ đâu đến? Chết đi về đâu?</p>
 
         {practicePosts.length > 0 && (
-          <div class="blog-posts">
+          <div class="blog-posts" >
             {practicePosts.map(post => (
               <article class="blog-post-card">
                 <h3 class="blog-post-title">
                   <a href={post.slug}>{post.title}</a>
                 </h3>
-
-                <div class="blog-post-meta">
-                  <PostDateTime post={post} />
-                </div>
-
                 <PostTags frontmatter={post.frontmatter} />
               </article>
             ))}
@@ -112,11 +107,6 @@ const description = "Xem " + title;
                 <h3 class="blog-post-title">
                   <a href={post.slug}>{post.title}</a>
                 </h3>
-
-                <div class="blog-post-meta">
-                  <PostDateTime post={post} />
-                </div>
-
                 <PostTags frontmatter={post.frontmatter} />
               </article>
             ))}
@@ -142,11 +132,6 @@ const description = "Xem " + title;
                 <h3 class="blog-post-title">
                   <a href={post.slug}>{post.frontmatter.title}</a>
                 </h3>
-
-                <div class="blog-post-meta">
-                  <PostDateTime post={post} />
-                </div>
-
                 <PostTags frontmatter={post.frontmatter} />
               </article>
             ))}
@@ -529,6 +514,7 @@ const description = "Xem " + title;
 
   .blog-posts {
     display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: calc(var(--grid-unit) * 4);
     margin-bottom: calc(var(--grid-unit) * 6);
   }
