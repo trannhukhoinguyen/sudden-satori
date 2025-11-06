@@ -8,14 +8,14 @@ import PostCategories from "../components/post/PostCategories.astro";
 import PostDateTime from "../components/post/PostDateTime.astro";
 import PostTags from "../components/post/PostTags.astro";
 import PostImage from "../components/post/PostImage.astro";
+import { CONTENT_MAP } from "@/utils/getMarkdownContent";
 
 const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
 
-const allPosts = [...Object.values(mdPostsGlob), ...Object.values(mdxPostsGlob)] as any[];
-const sortedPosts = allPosts
-  .sort((a: any, b: any) => new Date(b.frontmatter.date).getTime() - new Date(a.frontmatter.date).getTime())
-  .slice(0, 3);
+const blogPosts = CONTENT_MAP['blogs'].posts;
+const bookPosts = CONTENT_MAP['books'].posts;
+const interpretationPosts = CONTENT_MAP['interpretations'].posts;
 
 const title = "Trang chủ";
 const description = "Xem " + title;
@@ -49,15 +49,15 @@ const description = "Xem " + title;
       <PostImage imageUrl={'/images/backgrounds/thien-dinh-cua-Phat.jpg'} imageAlt={'Thiền định của Phật - Tổ Sư Thiền'} />
     </section>
 
-    <!-- Blog Section -->
-    <section class="blog-section" id="blog">
+    <!-- Interpretation Section -->
+    <section class="blog-section" id="interpretations">
       <div class="container">
-        <h2 class="section-title">Bài viết</h2>
+        <h2 class="section-title">Sách</h2>
         <p class="blog-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
 
-        {sortedPosts.length > 0 && (
+        {interpretationPosts.length > 0 && (
           <div class="blog-posts">
-            {sortedPosts.map(post => (
+            {interpretationPosts.map(post => (
               <article class="blog-post-card">
                 <h3 class="blog-post-title">
                   <a href={post.url}>{post.frontmatter.title}</a>
@@ -78,7 +78,75 @@ const description = "Xem " + title;
         )}
 
         <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}blog`} class="btn btn-primary">Xem Blog Tổ sư thiền</a>
+          <a href={`${import.meta.env.BASE_URL}blogs`} class="btn btn-primary" target="_blank">Xem Thực Hành Tổ sư thiền</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Book Section -->
+    <section class="blog-section" id="books">
+      <div class="container">
+        <h2 class="section-title">Sách</h2>
+        <p class="blog-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
+
+        {bookPosts.length > 0 && (
+          <div class="blog-posts">
+            {bookPosts.map(post => (
+              <article class="blog-post-card">
+                <h3 class="blog-post-title">
+                  <a href={post.url}>{post.frontmatter.title}</a>
+                </h3>
+
+                <div class="blog-post-meta">
+                  <PostDateTime post={post} />
+
+                  <PostCategories frontmatter={post.frontmatter} showLabel={false} floatRight={true} />
+                </div>
+
+                <PostExcerpt frontmatter={post.frontmatter} />
+
+                <PostTags frontmatter={post.frontmatter} />
+              </article>
+            ))}
+          </div>
+        )}
+
+        <div class="blog-actions">
+          <a href={`${import.meta.env.BASE_URL}blogs`} class="btn btn-primary" target="_blank">Xem Sàch Tổ sư thiền</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section class="blog-section" id="blogs">
+      <div class="container">
+        <h2 class="section-title">Bài viết</h2>
+        <p class="blog-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
+
+        {blogPosts.length > 0 && (
+          <div class="blog-posts">
+            {blogPosts.map(post => (
+              <article class="blog-post-card">
+                <h3 class="blog-post-title">
+                  <a href={post.url}>{post.frontmatter.title}</a>
+                </h3>
+
+                <div class="blog-post-meta">
+                  <PostDateTime post={post} />
+
+                  <PostCategories frontmatter={post.frontmatter} showLabel={false} floatRight={true} />
+                </div>
+
+                <PostExcerpt frontmatter={post.frontmatter} />
+
+                <PostTags frontmatter={post.frontmatter} />
+              </article>
+            ))}
+          </div>
+        )}
+
+        <div class="blog-actions">
+          <a href={`${import.meta.env.BASE_URL}blogs`} class="btn btn-primary" target="_blank">Xem Blog Tổ sư thiền</a>
         </div>
       </div>
     </section>
