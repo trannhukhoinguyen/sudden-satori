@@ -22,7 +22,7 @@ image: /images/koans/great-wave.webp
 
 Tăng hỏi ngài Đầu Tử: **Lúc kiếp hỏa cháy mãi thì thế nào?**
 
-Đầu Tử đáp: **Còn chỗ lạnh cằm cằm.**
+Ngài Đầu Tử đáp: **Còn chỗ lạnh cằm cằm.**
 
 ## BÌNH XƯỚNG
 

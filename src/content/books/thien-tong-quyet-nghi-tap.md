@@ -149,7 +149,9 @@ Chữ “không” này, tôi thường thấy đồng đạo có các kiến gi
 Người chấp “không” cho rằng: “Ngài Triệu Châu nói “không” là muôn pháp vốn không, bổn tánh vốn không, có gì mà nghi?”. 
 
 Người chấp “có” nói: “Ngài Triệu Châu nói “không” là chỉ cho “có”, nói “không” là trong “không” tức “có”; vậy nghi điều gì?” 
+
 Người chấp “đoạn” bảo: “Ngài Triệu· Châu nói “không” là vạn hữu đều không, không có một cái gì để ta nắm bắt đựơc, cần gì phải nghi?”. 
+
 Còn người chấp “thường” lại bảo: “Ngài Triệu Châu nói “không” là chơn tánh thường còn, lặng yên bất động, nghi làm gì?”. 
 Ôi! Do kiến giải thiên lệch, nên mới có sai lầm này. 
 Nếu chủ trương chẳng cần dùng nghi tình mà được Vô thượng bồ-đề như thế, thì chỉ có Thiên sinh Di-lặc và Tự nhiên Thích-ca [^8] mới được mà thôi. 
@@ -926,4 +928,4 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 ## NGUỒN
 
-> ✨ <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">Bài gốc</a>
+> ✨ <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">thuvienhoasen</a>

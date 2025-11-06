@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS HƯNG HÓA TỒN TƯƠNG
 image: /images/koans/great-wave.webp
 ---
 
@@ -30,28 +30,30 @@ Ngài Hưng Hóa đáp: **Lượng dùng hằng ngày một bữa nửa cân.**
 
 Sư dẫn, Thiền sư Tôn Tướng ở Hưng Hóa phủ Ngụy, nối pháp ngài Lâm Tế. 
 
-Hưng Hóa ở trong hội Tam Thánh làm thủ tọa, thường nói: Ta về phương nam hành khước một phen. 
+Hưng Hóa ở trong hội Tam Thánh làm thủ tọa, thường nói: **Ta về phương nam hành khước một phen.** 
 
 Đầu gậy chưa từng dụng nhằm một người hội Phật pháp.
 
-Tam Thánh nghe được mới hỏi: Ông có con mắt gì mà nói thế?
+Tam Thánh nghe được mới hỏi: **Ông có con mắt gì mà nói thế?**
+
 Tôn Tướng hết.
-Tam Thánh nói: Phải là ông mới được.
+
+Tam Thánh nói: **Phải là ông mới được.**
 
 Gần đây có Thiền sư Phật Nhật Nghiêu từ Giang Tả đến thăm, nhưng ở Đại Thánh An. Một đêm đàm đạo cùng với Phật Giác Hội Đường.
 Khi ấy Quốc sư Viên Thông Thiên mới mười hai tuổi đứng hầu bên phải tòa.
 
 Phật Nhật nói: Sơn tăng từ phương nam đến, đầu gậy chưa từng gặp một người hội Phật pháp.
 
-Thông chấp tay thưa: Vì đầu gậy của Hòa thượng ngắn.
+Thông chấp tay thưa: **Vì đầu gậy của Hòa thượng ngắn.**
 
-Phật Nhật kinh ngạc nói: Mong người nay tiếp nối tông Lâm Tế của ta.
+Phật Nhật kinh ngạc nói: **Mong người nay tiếp nối tông Lâm Tế của ta.**
 
-Thông lại thưa: Vân Môn Lâm Tế há lại có hai ư?
+Thông lại thưa: **Vân Môn Lâm Tế há lại có hai ư?**
 
 Phật Nhật khen mãi không thôi.
 
-Ngài Lâm Tuyền nói: Vị Tăng này cho ứng phó với Tam Thánh không ngại phúc sức.
+Ngài Lâm Tuyền nói: **Vị Tăng này cho ứng phó với Tam Thánh không ngại phúc sức.**
 
 Sau này Ngài Đại Giác nghe được nói: Làm sao có duyên đưa đến của Đại Giác.
 Về sau, Hưng Hóa đến chỗ Ngài Đại Giác làm viện chủ. Một hôm ngài Đại Giác gọi viện chủ, ta nghe ông nói về phương nam một phen đi hành khước, đầu gậy chưa từng gặp một người hội Phật pháp.
@@ -63,7 +65,7 @@ Hưng Hóa hạ lăn hết. Đại Giác đánh hai lần.
 
 Hưng Hóa thưa: **Tôi ở chỗ sư huynh Tam Thánh học được câu chủ khách, cuối cùng bị sư huynh đánh bại rồi. Mong Ngài chỉ dạy pháp môn an lạc cho con.**
 
-Giác nói: Người mù này đến đây bị thua rồi, hãy cởi áo ra đánh một trận.
+Giác nói: **Người mù này đến đây bị thua rồi, hãy cởi áo ra đánh một trận.**
 
 Hưng Hóa lãnh hội ngay lời này, được ngộ lý ấn của tiên sư Lâm Tế ở chỗ Hoàng Bá.
 
@@ -120,6 +122,6 @@ Tướng quân biên ải lịnh càng nghiêm.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Xinghua-Cunjiang" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Xinghua-Cunjiang" target="_blank">🔗 TS HƯNG HÓA TỒN TƯƠNG</a>
 
 
