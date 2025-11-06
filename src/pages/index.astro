@@ -3,19 +3,38 @@ import Layout from '../layouts/Layout.astro';
 import rules from '@/data/rules.ts';
 import principles from '@/data/principles.ts';
 import gates from '@/data/gates.ts';
-import PostExcerpt from "../components/post/PostExcerpt.astro";
-import PostCategories from "../components/post/PostCategories.astro";
 import PostDateTime from "../components/post/PostDateTime.astro";
 import PostTags from "../components/post/PostTags.astro";
 import PostImage from "../components/post/PostImage.astro";
 import { CONTENT_MAP } from "@/utils/getMarkdownContent";
+import { toKebabCase } from "@/utils/dateUtils";
 
-const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
-const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
+const maxQuantity = 5;
 
-const blogPosts = CONTENT_MAP['blogs'].posts?.slice(0, 3);
-const bookPosts = CONTENT_MAP['books'].posts?.slice(0, 3);
-const practicePosts = CONTENT_MAP['practices'].posts?.slice(0, 3);
+const blogPosts = CONTENT_MAP['blogs'].posts?.slice(0, maxQuantity)?.map(post => {
+  const { frontmatter } = post as any;
+  return {
+    title: frontmatter?.title,
+    frontmatter,
+    slug: toKebabCase(frontmatter?.title),
+  }
+});
+const bookPosts = CONTENT_MAP['books'].posts?.slice(0, maxQuantity)?.map(post => {
+  const { frontmatter } = post as any;
+  return {
+    title: frontmatter?.title,
+    frontmatter,
+    slug: toKebabCase(frontmatter?.title),
+  }
+});
+const practicePosts = CONTENT_MAP['practices'].posts?.slice(0, maxQuantity)?.map(post => {
+  const { frontmatter } = post as any;
+  return {
+    title: frontmatter?.title,
+    frontmatter,
+    slug: toKebabCase(frontmatter?.title),
+  }
+});
 
 const title = "Trang chủ";
 const description = "Xem " + title;
@@ -61,16 +80,12 @@ const description = "Xem " + title;
             {practicePosts.map(post => (
               <article class="blog-post-card">
                 <h3 class="blog-post-title">
-                  <a href={post.url}>{post.frontmatter.title}</a>
+                  <a href={post.slug}>{post.title}</a>
                 </h3>
 
                 <div class="blog-post-meta">
                   <PostDateTime post={post} />
-
-                  <PostCategories frontmatter={post.frontmatter} showLabel={false} floatRight={true} />
                 </div>
-
-                <PostExcerpt frontmatter={post.frontmatter} />
 
                 <PostTags frontmatter={post.frontmatter} />
               </article>
@@ -95,16 +110,12 @@ const description = "Xem " + title;
             {bookPosts.map(post => (
               <article class="blog-post-card">
                 <h3 class="blog-post-title">
-                  <a href={post.url}>{post.frontmatter.title}</a>
+                  <a href={post.slug}>{post.title}</a>
                 </h3>
 
                 <div class="blog-post-meta">
                   <PostDateTime post={post} />
-
-                  <PostCategories frontmatter={post.frontmatter} showLabel={false} floatRight={true} />
                 </div>
-
-                <PostExcerpt frontmatter={post.frontmatter} />
 
                 <PostTags frontmatter={post.frontmatter} />
               </article>
@@ -129,16 +140,12 @@ const description = "Xem " + title;
             {blogPosts.map(post => (
               <article class="blog-post-card">
                 <h3 class="blog-post-title">
-                  <a href={post.url}>{post.frontmatter.title}</a>
+                  <a href={post.slug}>{post.frontmatter.title}</a>
                 </h3>
 
                 <div class="blog-post-meta">
                   <PostDateTime post={post} />
-
-                  <PostCategories frontmatter={post.frontmatter} showLabel={false} floatRight={true} />
                 </div>
-
-                <PostExcerpt frontmatter={post.frontmatter} />
 
                 <PostTags frontmatter={post.frontmatter} />
               </article>
