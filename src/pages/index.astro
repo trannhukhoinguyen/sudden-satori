@@ -13,9 +13,9 @@ import { CONTENT_MAP } from "@/utils/getMarkdownContent";
 const mdPostsGlob = import.meta.glob('../content/blogs/*.md', { eager: true });
 const mdxPostsGlob = import.meta.glob('../content/blogs/*.mdx', { eager: true });
 
-const blogPosts = CONTENT_MAP['blogs'].posts;
-const bookPosts = CONTENT_MAP['books'].posts;
-const interpretationPosts = CONTENT_MAP['interpretations'].posts;
+const blogPosts = CONTENT_MAP['blogs'].posts?.slice(0, 3);
+const bookPosts = CONTENT_MAP['books'].posts?.slice(0, 3);
+const practicePosts = CONTENT_MAP['practices'].posts?.slice(0, 3);
 
 const title = "Trang chủ";
 const description = "Xem " + title;
@@ -47,17 +47,17 @@ const description = "Xem " + title;
     <!-- Image Section -->
     <section class="image-area">
       <PostImage imageUrl={'/images/backgrounds/thien-dinh-cua-Phat.jpg'} imageAlt={'Thiền định của Phật - Tổ Sư Thiền'} />
+      <p class="blog-description">Sống từ đâu đến? Chết đi về đâu?</p>
     </section>
 
-    <!-- Interpretation Section -->
-    <section class="blog-section" id="interpretations">
+    <!-- Practice Section -->
+    <section class="blog-section" id="practices">
       <div class="container">
-        <h2 class="section-title">Sách</h2>
-        <p class="blog-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
+        <h2 class="section-title">Thực Hành</h2>
 
-        {interpretationPosts.length > 0 && (
+        {practicePosts.length > 0 && (
           <div class="blog-posts">
-            {interpretationPosts.map(post => (
+            {practicePosts.map(post => (
               <article class="blog-post-card">
                 <h3 class="blog-post-title">
                   <a href={post.url}>{post.frontmatter.title}</a>
@@ -87,7 +87,7 @@ const description = "Xem " + title;
     <section class="blog-section" id="books">
       <div class="container">
         <h2 class="section-title">Sách</h2>
-        <p class="blog-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
+        <p class="blog-description">Sống từ đâu đến? Chết đi về đâu?</p>
 
         {bookPosts.length > 0 && (
           <div class="blog-posts">
@@ -121,7 +121,7 @@ const description = "Xem " + title;
     <section class="blog-section" id="blogs">
       <div class="container">
         <h2 class="section-title">Bài viết</h2>
-        <p class="blog-description">Người không cùng muôn Pháp làm bạn là Người gì?</p>
+        <p class="blog-description">Sống từ đâu đến? Chết đi về đâu?</p>
 
         {blogPosts.length > 0 && (
           <div class="blog-posts">
@@ -155,9 +155,7 @@ const description = "Xem " + title;
     <section class="rules" id="rules">
       <div class="container">
         <h2 class="section-title">10 Chú Ý</h2>
-        <p class="section-description">
-          Người tham Tổ Sư Thiền phải chú ý những điều sau đây.
-        </p>
+        <p class="blog-description">Người tham Tổ Sư Thiền phải chú ý những điều sau đây.</p>
 
         <div class="rules-grid">
           {
