@@ -11,7 +11,7 @@ import Pagination from "@/components/page/Pagination.astro";
 import FlatTags from "@/components/post/FlatTags.astro";
 import BoxedPostList from "@/components/postList/BoxedPostList.astro";
 import OtherPostList from "@/components/postList/OtherPostList.astro";
-import { toKebabCase } from "@/utils/dateUtils";
+import { toKebabCase } from "@/utils/helper";
 
 export async function getStaticPaths() {
   return Object.keys(CONTENT_MAP).map((collection) => {
