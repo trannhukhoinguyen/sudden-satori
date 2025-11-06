@@ -25,7 +25,7 @@ Về sau, ngài Nam Dương Huệ Trung là đệ tử nối pháp của Lục t
 
 Khi ngài Tuệ trung thị tịch, cũng được an táng tại nơi này.
 
-Ngoài ra đệ tử nối pháp của thiền sư Qui Sơn Linh Hựu là Hương Nghiêm Trí Nhàn cũng từng trụ trì chùa này.
+Ngoài ra đệ tử nối pháp của thiền sư Quy Sơn Linh Hựu là Hương Nghiêm Trí Nhàn cũng từng trụ trì chùa này.
 
 <hr class="blog-rule" />
 

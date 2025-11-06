@@ -25,7 +25,7 @@ Có lúc gọi Nam là Bắc, thử nói xem đó là hữu tâm hay vô tâm?
 Người ấy là đạo nhân hay là thường nhân? Nếu như có thể thấu qua được chỗ này, các ông mới hiểu được ý hướng, cũng như hiểu được rằng cổ nhân có như thế hay không?
 Song thử nói xem, đây là thời tiết gì? Xin nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Trần Tháo Thượng Thư [^1] đến viếng Từ Phúc [^2].
 >
@@ -37,7 +37,7 @@ Song thử nói xem, đây là thời tiết gì? Xin nêu lên xem.
 
 Tuyết Đậu nói, "_Trần Tháo chỉ có một con mắt_"
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Thượng Thư Trần Tháo là người đồng thời với Bùi Hưu và Lý Cao.
 Phàm mỗi khi thấy có ông tăng nào đến cũng trước tiên mời thụ trai, rồi lại cho ba tăm đồng tiền để thử thách.
@@ -55,7 +55,7 @@ Trần Tháo cũng đã từng tham kiến Mục Châu [^6].
 Một hôm đến viếng Từ Phúc.
 Từ Phúc thấy Trần Tháo đến bèn vẽ một vòng tròn.
 
-Từ Phúc vốn là bậc tôn túc trong dòng của Qui Sơn- Ngưỡng Sơn.
+Từ Phúc vốn là bậc tôn túc trong dòng của Quy Sơn- Ngưỡng Sơn.
 Thầy ta bình thường thích lấy phương pháp” cảnh trí” ra tiếp thiên hạ.
 Cho nên vừa thấy Thượng Thư Trần Tháo đến bèn vẽ một vòng tròn. Song làm gì được?
 
@@ -81,7 +81,7 @@ Cho nên Tuyết Đậu mới đạp đổ tất cả mà tụng rằng:
 
 Tuyết Đậu lại nói, “Các nạp tăng trong thiên hạ nhảy không ra.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Châu chạy vòng vòng kêu như ngọc, ngựa bon lừa chạy lên thuyền sắt.”
 Khúc đầu của bài tụng của Tuyết Đậu chỉ tụng vòng tròn kia mà thôi.

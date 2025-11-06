@@ -195,7 +195,11 @@ const CnLv7MasterDb = [
     successors: ['Mingzhao Deqian'],
     disciples: ['Mingzhao Deqian', 'Daning Daokuan', 'Zingbing (845–919)'],
     image: '',
-    reference: ['https://pl.wikipedia.org/wiki/Luoshan_Daoxian', 'https://daophatkhatsi.vn/an-pham/dich-pham/thien-ngo-phan-6.html&page=1?yy=2025&mm=2'],
+    reference: ['https://pl.wikipedia.org/wiki/Luoshan_Daoxian',
+      'https://daophatkhatsi.vn/an-pham/dich-pham/thien-ngo-phan-6.html&page=1?yy=2025&mm=2',
+      'https://www.rongmotamhon.net/daouyen/Data/Ph_L/L9.htm',
+      'https://nigioikhatsi.net/thien/tu-nhien-nhu-vay.html'
+    ],
   },
   {
     id: '40.7.10',
@@ -455,6 +459,25 @@ const CnLv7MasterDb = [
     disciples: ['ingyang Qingrang'],
     image: '',
     reference: ['https://pl.wikipedia.org/wiki/Bajiao_Huiqing'],
+  },
+  {
+    id: '40.7.22',
+    name_en: 'Jingqing Daofu',
+    name_ja: 'kyōsei dōfu',
+    name_zh: '鏡清道怤',
+    name_vi: 'Kính Thanh Ðạo Phó',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['863', '937'],
+    records: '',
+    sect: [],
+    country: '🇨🇳',
+    place: '-',
+    teachers: ['Xuefeng Yicun'],
+    successors: [''],
+    disciples: [],
+    image: '',
+    reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/kinh-thanh-ao-pho-k1191.html'],
   },
 ]
 export default CnLv7MasterDb;

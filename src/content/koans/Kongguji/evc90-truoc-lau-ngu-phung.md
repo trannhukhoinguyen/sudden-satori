@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Có lúc đi bước đạp nhầm, có lúc mỗi mỗi lầm qua, cần biết một đường tôn quí. Há cho tùy tiện bước lên, có ai hay qua lại chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

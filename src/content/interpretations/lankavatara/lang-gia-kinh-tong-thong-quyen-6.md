@@ -1934,7 +1934,7 @@ Huệ nhãn hóa thức tưởng phân biệt có thể
 
 đến được sau
 
-các tổ Qui Sơn ngày nọ chỉ đám ruộng hỏi
+các tổ Quy Sơn ngày nọ chỉ đám ruộng hỏi
 
 ngưỡng Sơn thửa ruộng này sau Đậu này
 

@@ -20,7 +20,7 @@ Tìm xa không bằng tìm gần, thích hợp với già không hợp với ch�
 
 Lại đàm thường lượng chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

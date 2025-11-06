@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Ngưỡng Sơn [^1] hỏi một ông tăng, “_Ông mới từ đâu đến vậy?_”
 >
@@ -28,7 +28,7 @@ tags:
 >
 > Ngài Vân Môn nói, "**Những lời ấy là đều bởi vì từ bi, cho nên thầy ta mới có lời nói chuyện của kẻ ngã trên cỏ**"
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Chỗ cốt yếu thử người, mở miệng đã biết tiếng. Cổ nhân nói, “Có biết bao nhiêu là người cứ xoay chuyển trong ngữ mạch.”
 
@@ -48,13 +48,13 @@ Quả thật là nguy hiểm vời vợi, đến chỗ này rồi thì phải l�
 
 Vân Môn nói rằng, “Ông tăng kia đích thân từ Lô Sơn đến, tại sao (Ngưỡng Sơn) lại nói rằng “thầy chưa từng bao giờ đi chơi núi cả?”
 
-Một hôm Qui Sơn hỏi Ngưỡng Sơn, “Nếu như có các tăng sĩ ở các nơi đến, thầy dùng gì để thử họ?” Ngưỡng Sơn nói, “Đệ tử có cách để thử họ.”
+Một hôm Quy Sơn hỏi Ngưỡng Sơn, “Nếu như có các tăng sĩ ở các nơi đến, thầy dùng gì để thử họ?” Ngưỡng Sơn nói, “Đệ tử có cách để thử họ.”
 
 Ngưỡng Sơn nói, “ Bình thường đệ tử mỗi khi thấy có ông tăng nào đến, chỉ dơ phất trần lên rồi nói với ông ta rằng, “Ở các nơi có cái này không?”
 
 Nếu như ông ta nói gì, đệ tử chỉ nói với ông ta rằng, “ Cái này tạm gác qua một bên, cái kia thì như thế nào?”
 
-Qui Sơn nói, “Đó chính là răng và móng của những kẻ hướng thượng.”
+Quy Sơn nói, “Đó chính là răng và móng của những kẻ hướng thượng.”
 
 Há không nghe chuyện Mã Tổ hỏi Bách Trượng, “Ông từ đâu đến vậy?” Bách Trượng nói, “Từ dưới núi đến.”
 
@@ -108,7 +108,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Quên mất đường đã đến.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Ra cỏ vào cỏ, ai biết mà tìm?” Tuyết Đậu biết ý hướng của Ngưỡng Sơn.
 

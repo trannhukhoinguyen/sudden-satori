@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Một câu trước tiếng, ngàn thánh không truyền. Một sợi trước mặt, mãi mãi không dứt. Tự tại thánh thoát, tóc rối bời tai chăm chú. Thử nói xem là gì vậy? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Trí Môn, “Bát nhã thể là gì?” 
 > 
@@ -24,7 +24,7 @@ Một câu trước tiếng, ngàn thánh không truyền. Một sợi trước 
 > 
 > Trí Môn nói, “Con thỏ mang thai.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trí Môn nói, “Sò ngậm trăng sáng,” và “con thỏ mang thai,” đều mượn vào ý của trung thu. Tuy là thế, song ý của bậc cổ nhân này lại chẳng nằm nơi sò và thỏ. Trí Môn là bậc tôn túc trong chúng hội của Vân Môn, một câu của thầy ta đều phải gồm đủ cả ba câu, tức là câu bao gồm trời đất, câu cắt đứt các dòng (tư tưởng), và câu đuổi theo sóng nước. Hơn nữa lại khế hợp mà chẳng hề có an bài trước. Cho nên thầy ta mới đi vào chỗ nguy hiểm mà trả lời câu hỏi của ông tăng kia, để lộ một chút cái sắc bén của mình, Trí Môn quả thật là kỳ đặc. Tuy là thế song bậc cổ nhân này chẳng hề chơi với bóng sáng, chỉ chỉ ra một con đường để giúp các ông thấy mà thôi.
 
@@ -48,7 +48,7 @@ Tuyết Đậu cũng tụng ra như thế:
 >
 > Tung gậy chiến tranh với Thiền gia.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 "Một phiến hư không trên tình trần.” Chỉ với một câu này mà Tuyết Đậu tụng được rất là hay, tự nhiên là thấy được ý của cổ nhân. Sáu căn trong trẻo là cái gì vậy? Chỉ là một phiến hư minh ngưng tịch này mà thôi. Các ông không cần phải lên trời để tìm nó, cũng không cần cầu nó ở nơi người khác. Thường quang lúc nào cũng hiển hiện trước mắt chúng ta, ở ngay chỗ này đây nó cao vời vợi như thể vách đá vạn trượng, siêu việt trên ngôn ngữ và cảm thức.
 

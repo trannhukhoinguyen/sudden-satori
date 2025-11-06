@@ -97,7 +97,7 @@ Cũng vẫn nhiều đời trâm anh xưa nay tôn quý, bản chất thiên san
 
 Thời nay vì phương tiện nên phân chủ khách, nửa đêm sao tụ canh ba trăng tàn. Dãy Ngân Hà vắt ngang trời hẳn cao vời vợi. Đông cung trổi sáng của bắc hướng tàn. Buông rèm chầu chẳng thấy mặt vua Nghiêu. Ngắm điện ngọc khố trông vua Thuấn, ngay lúc này làm sao phụng thờ trọng ấn. Trở về quê nhà thì không còn cội gốc, đã niềm hoa rồi thì không được gọi tên.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -111,6 +111,7 @@ Thời nay vì phương tiện nên phân chủ khách, nửa đêm sao tụ can
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

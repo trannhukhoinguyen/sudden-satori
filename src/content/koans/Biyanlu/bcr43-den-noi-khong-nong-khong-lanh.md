@@ -16,7 +16,7 @@ Câu định càn khôn, vạn thế cùng theo. Cơ bắt hổ tê, ngàn thán
 
 Muốn rõ búa trùy hướng thượng, cần ống bễ của chuyên gia. Thử nói xem từ xưa đến nay còn có gia phong nữa không? Xin nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Động Sơn [^1], “_Khi lạnh với nóng đến, phải làm sao để tránh đây?_”
 >
@@ -26,7 +26,7 @@ Muốn rõ búa trùy hướng thượng, cần ống bễ của chuyên gia. Th
 >
 > Ngài Động Sơn nói, “_Lúc lạnh thì lạnh chết thầy, lúc nóng thì nóng chết thầy_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Hoàng Long Tân hòa thượng niệm rằng, “Động Sơn để cổ áo lên tay áo, khoét ngực áo dưới nách. Song ông tăng này không chịu thì làm sao bây giờ?” Lúc ấy có ông tăng bước ra hỏi, “ Thử nói xem phải chi trì như thế nào?” Mãi lâu sau Hoàng Long mới nói, “Thiền định chẳng cần phải sông núi, tâm niệm diệt hết lửa tự lạnh.” Các ông thử nói xem, bẫy rập của Đông Sơn rơi ở chỗ nào? Nếu hiểu rõ được các ông mới biết được phương pháp ngũ vị hồi hỗ, chính thiên tiếp người của tông phái Động Sơn. Đạt đến cảnh giới hướng thượng này các ông mới có thể như vậy mà không cần có sự sắp xếp gì cả. Tự nhiên khế hợp. Cho nên mới có câu nói, “Chính trung thiên, tam canh đêm đầu trước trăng sáng, đúng là gặp nhau không biết nhau. Vẫn thầm ôm mối hiềm ngày xưa. Thiên trung chính, sáng sớm bà lão gặp kính xưa, thấy rõ mặt mày lại không thật, cho nhận lầm đầu mình trong gương. Chính trung lai, trong không có lối xuất trần ai, chỉ cần dừng phạm húy hiện nay, cũng hơn thời trước đoạt khẩu tài. Thiên trung chí, hai kiếm chạm nhau chẳng cần tranh, hảo thủ cũng tựa sen trong lửa, hiển nhiên tự có khí ngập trời. Kiêm trong đáo, không vướng hữu vô ai dám họa, ai nấy đều muốn vượt thường lưu, rốt cuộc lại về ngồi trong tro.”
 
@@ -50,7 +50,7 @@ Tuyết Đậu lấy việc trong nhà của họ ra mà tụng:
 >
 > Hàn Lô lăng xăng chạy lên thềm.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trong Tào Động tông có xuất thế với không xuất thế, thõng tay với không thõng tay. Nếu không xuất thế mắt nhìn trời xanh. Nếu xuất thế thì đầu tro mặt bụi. “Mắt nhìn trời xanh” tức là “đỉnh cao vạn trượng”. “Đầu tro mặt bụi” tức là việc thõng tay. Có lúc “Đầu tro mặt bụi” là “ trên đỉnh vạn trượng”.Có lúc “đỉnh cao vạn trượng là “Đầu tro mặt bụi.” Có lúc thõng tay vào chợ với đại dụng một mình trên đỉnh cao là một. Trở về nguồn hiểu rõ tính cũng không khác với trí sai biệt. Ky nhất là hiểu theo lối lưỡng nguyên. Cho nên Tuyết Đậu nói, “Thõng tay vẫn giống đỉnh vạn trượng.” Không có chỗ nào để các ông bám víu cả.” Chính thiên hà tất phải an bài?” Khi đến chỗ dụng ắt tự nhiên như thế, chẳng ở nơi xếp đặt an bài. Đây là để tụng câu trả lời của Động Sơn.
 

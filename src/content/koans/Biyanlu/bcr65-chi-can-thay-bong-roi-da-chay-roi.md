@@ -18,7 +18,7 @@ Dù cho gậy rơi như mưa, hét vang tựa sấm, vẫn chưa đáng được
 
 Song thử nói xem, thế nào là việc của kẻ hướng thượng? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Một ngoại đạo hỏi Phật [^1], “_Không hỏi hữu ngôn, không hỏi vô ngôn_”
 >
@@ -30,7 +30,7 @@ Song thử nói xem, thế nào là việc của kẻ hướng thượng? Thử 
 >
 > Đức Phật nói, “_**Giống như ngựa tốt, chỉ cần thấy bóng roi cũng chạy rồi**_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Việc này nếu thuộc nơi ngôn ngữ, thì tam tạng mười hai phần giáo há là vô ngôn sao? Có người bảo vô ngôn là đúng. Vậy thì Tổ Sư phải mất công từ Tây Trúc qua để làm gì/ Còn như bao nhiêu công án từ xưa đến nay, rốt cuộc phải hiểu như thế nào? Công án này bị rất nhiều người dựa trên ngôn ngữ mà hiểu. Có người gọi là im lặng, có người gọi là ngồi im, có người gọi là mặc nhiên không đáp. May ma chẳng có gì là nhằm nhò cả. Có mấy ai từng rờ rẫm ra được công án này? Việc này kỳ thực không ở trong ngôn ngữ song cũng chẳng ngoài ngôn ngữ. Nếu như các ông chỉ hơi toan bàn cãi là các ông đã ngàn dặm vạn dặm cách xa rồi. Nhìn xem ngoại đạo kia sau khi tỉnh ngộ rồi, mới biết rằng sự việc không ở đây mà cũng chẳng ở kia, không ở phải mà cũng chẳng ở không phải. Thử nói xem là gì vậy?
 
@@ -40,7 +40,7 @@ Thúy Nham Chân nêu công án này lên, nói rằng, “Lục hợp cửu h�
 
 Ngoại đạo hiểu được bốn bộ kinh Vệ Đà[12]. tự cho mình là người toán tri, đi đâu cũng lôi cuốn thiên hạ vào việc nghị luận. Ngoại đạo đặt câuhỏi, toan làm líu lưỡi đức Phật. Đức Thế Tôn chẳng phí chút tơ hào khí lực nào, ngoại đạo lại tự tỉnh ngộ, tán than rằng, “Thế Tôn đại từ đại bi, khai mở mây mờ cho tôi, khiến tôi có được chỗ vào (đạo).” Thử nói xem, đâu là chỗ đại từ đại bi của Đức Phật? Một con mắt của Thế Tôn thấu suốt ba cõi, hai con ngươi của ngoại đạo quán năm tầng trời.
 
-Qui Sơn Chân Như nêu lên rằng, “Ngoại đạo giấu ngọc trong lòng, Thế Tôn tự đề lên cho. Sâm la hiển hiện, vạn tượng rõ ràng.”
+Quy Sơn Chân Như nêu lên rằng, “Ngoại đạo giấu ngọc trong lòng, Thế Tôn tự đề lên cho. Sâm la hiển hiện, vạn tượng rõ ràng.”
 
 Rốt cuộc ngoại đạo ngộ được cái gì? Giống như thể dồn con chó vào chân tường: đến chỗ cùng rồi thì nó phải quay lại mà nhảy cẫng lên. Nếu như các ông buông bỏ so đo với thị phi một lúc, tinh tấn kiên trì, tự nhiên triệt để.
 
@@ -68,7 +68,7 @@ Tuyết Đậu tụng rằng:
 >
 > Gọi về được, bung tay ba lần.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Cơ luân chưa từng chuyển, chuyển ắt chạy hai phía.” “Cơ” là linh cơ của ngàn bậc thánh, “ luân” là mệnh mạch từ xưa đến nay của các ông. Há không nghe cổ nhân nói, “ Linh cơ ngàn thánh không để gần, rồng sinh rồng con chớ tò mò. Triệu Châu đoạt được ngọc vô giá, Tần Chúa Tương Như đều táng thân.” Ngoại đạo nắm vững được chủ trì được, chưa từng bao giờ động cả. Tại sao vậy? Ngoại đạo nói, “ Không hỏi hữu ngôn, không hỏi vô ngôn.” Đó há không phải là chỗ toàn cơ sao?
 

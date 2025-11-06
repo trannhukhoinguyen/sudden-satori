@@ -8078,7 +8078,7 @@ biệt có hành thanhvân không được đấm
 
 trước Vì thế chẳng nên tu học
 
-các tổ Qui Sơn đang ngồi ngưỡng Sơn đi
+các tổ Quy Sơn đang ngồi ngưỡng Sơn đi
 
 vào tổ quy nói vịt con nói mau chớ rơi
 

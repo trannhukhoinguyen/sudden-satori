@@ -15,7 +15,7 @@ tags:
 
 Giáp mặt đương cơ, đề cơ bẫy cọp; đánh thẳng đánh ngang, bầy sách lược bắt giặc. Sáng hợp tối hợp, buông cả nắm cả, biết chơi rắn độc- đều là việc của chuyên gia.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Nham Đầu [^1] hỏi ông tăng, “Từ đâu tới?”
 >
@@ -41,7 +41,7 @@ Giáp mặt đương cơ, đề cơ bẫy cọp; đánh thẳng đánh ngang, b�
 >
 > Ngài Tuyết Phong đánh cho ba mươi gậy rồi đuổi ra.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Phàm gánh gói ômbát, nhổ cỏ ngóng gió, cũng phải có đôi mắt của (kẻ) hành cước mới được. Đôi mắt của ông tăng này tựa như sao chổi, song lại bị Nham Đầu khám phá, xuyên thành một chuỗi. Lúc ấy nếu như là một tay hảo hán, hoặc sát hoặc hoạt, vừa cử lên là phải nắm lấy chỗ dụng ngay. Ông tăng này mới lẩm cẩm, lại nói, “Thu được.” Nếu như các ông mà đi hành cước như thế nàu thế nào cũng bị Diêm Vương đòi tiền mãi lộ. Không hiểu ông tăng kia đi rách mất bao nhiêu đôi giầy cỏ để đến với Tuyết Phong. Nếu như lúc ấy mà ông ta có mắt chỉ một chút xíu thôi, chắc chắn là cũng liếc thấy được, há không khoái sao?
 
@@ -67,7 +67,7 @@ Tuyết Đậu tụng rằng:
 >
 > Được tiện nghi là mất tiện nghi.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Sau nạn Hoàng Sào từng thu kiếm, cười lớn phải cần chuyên gia hiểu.” Tuyết Đậu lập tức tụng việc ông tăng kia và Nham Đầu cười lớn. Chỉ chút này thôi mà chẳng ai trong thiên hạ rờ rẫm ra được cả. Thử nói xem, thầy ta cười cái gì? Phải là bậc chuyên gia mới biết được. Trong tiếng cười này có quyền có thực, có chiếu có dụng, có sát có hoạt.
 
@@ -89,6 +89,6 @@ Tuyết Đậu tụng rằng:
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-nham-dau-toan-hoat" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
+[^1]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
 
-[^2]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^2]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>

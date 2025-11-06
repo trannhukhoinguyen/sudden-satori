@@ -16,7 +16,7 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > _Lương Vũ Đế_ [^1] mời _Phó Đại Sĩ_ [^2] giảng Kinh Kim Cương.
 >
@@ -30,7 +30,7 @@ tags:
 >
 > Ngài _Chí Công_ nói, “_Đại Sĩ_ đã giảng xong kinh rồi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 _Lương Cao Tổ Vũ Đế_ họ Tiêu. Húy là Diên tên là Thúc Đạt. Lập được sự nghiệp lớn rồi tiếp ngôi của nhà Tề.
 
@@ -104,7 +104,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Đã phải vội vàng bỏ nước đi
 
-## BÌNH
+## BÌNH XƯỚNG
 
 > Không dựa thân này nơi song lâm
 >

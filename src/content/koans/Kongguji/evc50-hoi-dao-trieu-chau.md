@@ -57,7 +57,7 @@ Có như thế Chánh Thiên Kiếm Đới lý sự mới hiệp thông. Không 
 Không phải Triệu Châu thân chỉ dạy,
 Gặp đường hiểm chẳng phí công quanh co.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -71,6 +71,7 @@ Gặp đường hiểm chẳng phí công quanh co.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

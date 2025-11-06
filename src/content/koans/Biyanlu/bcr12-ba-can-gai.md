@@ -22,13 +22,13 @@ Thử nói xem, đã không truyền thì tại sao lại có đến lắm công
 
 Để những người có mắt thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Động Sơn [^1], “_Phật là gì?_”
 >
 > Ngài Động Sơn nói, “_Ba cân gai_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Công án bị khá nhiều người hiểu lầm. Quả là khó nhai bởi vì không có chỗ để cho các ông ghé miệng.
 
@@ -86,7 +86,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Ôi!
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu nhìn thấu hết, cho nên nói thẳng ra, “Kim ô cấp, ngọc thỏ tốc. ”Không khác với Động Sơn nói, “ ba cân gai”. Mặt trời mọc, mặt trăng lặn, ngày nào cũng vậy. Thiên hạ hay hiểu theo tri thức cảm quan mãi nói, “Kim ô là mắt trái, ngọc thỏ là mắt phải.” Vừa bị hỏi đã trợn trừng mắt nói, “Ở đây đây.” Song chẳng có nhằm nhò gì cả. Nếu như các ông hiểu như thế thì tông môn của Đạt Ma hẳn sẽ bị tận diệt mất. Cho nên mới có câu nói, “ Thả câu bốn biển, chỉ câu mãnh long. Huyền cơ đặc biệt, để tìm tri kỷ.” Tuyết Đậu là người đã vượt lên trên cõi vực của ngũ ấm[9], há lại có thứ kiến giải như thế sao ? Tuyết Đậu nhẹ nhàng đi vào những chỗ vi diệu nhất để vạch ra chút nào cho các ông thấy, cho nên mới thêm cước chú rằng,” Đáp khéo làm sao có sơ suất?” Động Sơn không hề trả lời ông tăng kia một cách lơ là, thầy ta giống như cái chuông được đánh, như thung lũng, đáp lại tiếng vang. Lớn nhỏ gì cũng dội lại. (Động Sơn cũng thế) đâu có giám khinh suất. Tuyết Đậu trong một lúc đột nhiên thổ lộ tâm can ra cho các ông xem. Tuyết Đậu có câu tụng tĩnh lặng xong khéo tương ứng: “ Gặp nhau thẳng mặt, không gì rắc rối, rồng rắng dễ phân, nạp tăng[10] khó lừa. Bóng trùy vang động, ánh bảo kiếm lạnh, bộ xương trực tiếp, mau ghé mắt xem!”
 

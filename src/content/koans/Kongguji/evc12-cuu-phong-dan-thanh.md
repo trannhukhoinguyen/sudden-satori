@@ -19,7 +19,7 @@ Trăng tròn trước cửa đâu cho ông tả được hoàn toàn.
 Lúc chưa hạ bút chỉ còn một chút ít, ai có thể phác họa lại được chăng?
 Thử đưa ra xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -77,10 +77,16 @@ Thì bàn lại diện mạo của Ngài Chí Công phi thường thì không th
 
 ## TỤNG CỔ
 
-> Ngọc quý Kinh Sơn họ Biện tìm.
+<blockquote>
+
+Ngọc quý Kinh Sơn họ Biện tìm.
+
 Tốt báu hoàn hảo không còn nhăn.
+
 Trâu sắt ôm con lội biển cả.
+
 Rùa đã lên trăng mọc vảy lông.
+</blockquote>
 
 ## BÌNH XƯỚNG
 

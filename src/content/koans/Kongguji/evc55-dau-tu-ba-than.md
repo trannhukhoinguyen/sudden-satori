@@ -63,7 +63,7 @@ Chợt giữa đêm khuya tiếng cười vang vọng trong hư không. Thế m�
 
 Tạm thời dừng niệm ngay chỗ khảy nhẹ móng tay, mở toang lớp lớp lâu các.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -77,6 +77,7 @@ Tạm thời dừng niệm ngay chỗ khảy nhẹ móng tay, mở toang lớp l
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

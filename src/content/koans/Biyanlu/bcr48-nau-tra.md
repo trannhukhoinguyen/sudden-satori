@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Vương Thái Phó vào Chiêu Khánh Tự để nấu trà. Lúc ấy Lăng Thượng Tọa đang cầm ấm trà cho ngài Minh Chiêu [^1].
 >
@@ -32,7 +32,7 @@ tags:
 
 Ngài Tuyết Đậu nói, “_Lúc ấy phải đạp đổ lò trà mới phải_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Muốn hiểu Phật tính phải quán thời tiết nhân duyên. Vương Thái Phó làm tri châu ở Tuyên Châu, học Thiền với Chiêu Khánh từ lâu. Một hôm lúc vào tự viện nhân khi Lãng Thượng Tọa đang nấu trà, Lãng Thượng Tọa lật ấm trà. Thái Phó cũng là tay chuyên gia, cho nên vừa thấy Lãng Thượng Tọa lật ấm trà đã hỏi, “ Dưới lò nấu trà có gì vậy?” Khi Lãng Thượng Tọa nói, “ Có thần hộ lò,” quả thật trong lời ấy có âm vọng. song làm gì được khi mà đầu đuôi mâu thuẫn, đánh mất tông chỉ, để mũi nhọn đâm vào tay. Như thế không những đã tự cô phụ mình mà còn động chạm đến người khác.
 
@@ -40,7 +40,7 @@ Tuy rằng đây không phải là một việc có được thua, song một kh
 
 Minh Chiêu nói, “Lãng Thượng Tọa ăn cơm của Chiêu Khánh lại đi ra ngoài song mà nhặt củi khô.” Củi khô đây tức là những nhánh cây bị lửa hoang đốt cháy. Minh Chiêu nói như thế là để giải minh rằng Lãng Thượng Tọa không đi đúng đường mà đi trệch lối. Lãng Thượng Tọa lại dồn thầy ta nói rằng, “Thế hòa thượng thì sao?” Minh Chiêu nói, “Thần được lời.” Minh Chiêu đã có xuất thân mà lại cũng không cô phụ câu hỏi của Lãng Thượng Tọa. Cho nên mới có câu nói rằng, “ Chó khôn cắn người không lộ răng.”
 
-Qui Sơn Triết Hòa Thượng nói, “ Vương Thái Phó giống y như Lạn Tương Như đoạt ngọc, đến nỗi râu ria chĩa ra khỏi hai bên mũ.” Minh Chiêu khó giấu được cái thông minh của mình, cho nên khó gặp được điểm tiện lợi. Nếu như tôi là Lãng Thượng Tọa, vừa trông thấy Vương Thái Phó rũ áo bỏ ra, là lập tức buông ấm trà xuống rồi ha hã cười lớn. Tại sao vậy? Thấy mà không giữ , ngàn năm khó gặp.
+Quy Sơn Triết Hòa Thượng nói, “ Vương Thái Phó giống y như Lạn Tương Như đoạt ngọc, đến nỗi râu ria chĩa ra khỏi hai bên mũ.” Minh Chiêu khó giấu được cái thông minh của mình, cho nên khó gặp được điểm tiện lợi. Nếu như tôi là Lãng Thượng Tọa, vừa trông thấy Vương Thái Phó rũ áo bỏ ra, là lập tức buông ấm trà xuống rồi ha hã cười lớn. Tại sao vậy? Thấy mà không giữ , ngàn năm khó gặp.
 
 Há không nghe Bảo Thọ hỏi Hồ Đinh Giảo, “Lâu nay vẫn nghe tiếng Hồ Đinh Giảo, phải chăng là người ấy?” Hồ nói, “Vâng” Bảo Thọ nói, “Thế có đóng đinh vào hư không được chăng?” Hồ nói, “Mời thầy đến phá cho.” Bảo Thọ bèn đánh. Hồ không chịu, Bảo Thọ nói, “Sau này sẽ có một ông thầy nói nhiều đến đã phá cho ông.” Sau đó Hồ gặp Triệu Châu, bèn thuật lại câu chuyện trên. Triệu Châu nói, “Tại sao ông lại bị thầy ta đánh?” Hồ nói, “Tôi không hiểu mình có lỗi ở chỗ nào?” Triệu Châu nói, “ chỉ có cái kẽ này mà ông cũng không làm gì được thì bảo thầy ta đến đánh phá hư không để làm gì?” Hồ bèn thôi không thắc mắc nữa. Triệu Châu bèn nói hộ, “Thử đóng đinh vào kẽ này xem.” Hồ bèn tĩnh ngộ.
 
@@ -68,7 +68,7 @@ Tụng rằng:
 >
 > Con sóng ngược dòng mấy bận về.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Đến hỏi như gió thổi, ứng cơ không thiện xảo.” Câu hỏi của Vương Thái Phó giống như thể múa rìu sinh gió.
 
@@ -102,16 +102,16 @@ Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12775/5/tac-thu-bon-muoi-tam-vuong-thai-pho-nau-tra
+> ✨ <a href="https://hoavouu.com/p16a12775/5/tac-thu-bon-muoi-tam-vuong-thai-pho-nau-tra" target="_blank">🔗 hoavouu</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43265/14-tac-44-tac-48
+> ✨ <a href="https://quangduc.com/p1241a43265/14-tac-44-tac-48" target="_blank">🔗 quangduc</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05" target="_blank">🔗 tuvien</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5" target="_blank">🔗 phatphapungdung</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html" target="_blank">🔗 TS MINH CHIÊU ĐỨC KHIÊM</a>
+[^1]: ⭐️ <a href="/masters/Mingzhao-Deqian" target="_blank">🔗 TS MINH CHIÊU ĐỨC KHIÊM</a>

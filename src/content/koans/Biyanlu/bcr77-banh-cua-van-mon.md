@@ -24,13 +24,13 @@ Thử nói xem, làm sao để phân biệt đen trắng? Im lặng một hồi.
 
 Viên Ngộ mới nói,” Nếu có điều thì theo điều, không có điều thì theo lệ.”
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Vân Môn, ”Thế nào là lời nói siêu Phật siêu Tổ?”
 >
 > Vân Môn nói, “Bánh.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Ông tăng hỏi Vân Môn, “Thế nào là lời nói siêu Phật siêu Tổ?” Vân Môn nói, “Bánh”.
 
@@ -92,7 +92,7 @@ Chỉ có Tuyết Đậu tụng là hay nhất, thử nêu bài tụng của th�
 >
 > Đến giờ thiên hạ vẫn ngu ngơ.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Siêu đàm Thiền khánh hỏi quá nhiều.” Các người học Thiền rất thích hỏi câu hỏi này. Há không nghe Vân Môn nói rằng, “Các ông gánh ngang cây gậy rồi nói rằng, ‘Tôi tham Thiền học đạo,’ rồi đi tìm đạo lý siêu Phật siêu Tổ. Tôi thử hỏi các ông, suốt cả ngày đi đứng nằm ngồi ỉa đái, khi ở quầy mua bán thịt dê trong chợ búa, có còn có đạo lý siêu Phật siêu Tổ chăng?” Kẻ nào nói được, thử bước ra xem. Còn nếu không có ai nói được, thì cứ mặc kệ ta muốn làm gì thì làm.” Rồi bước xuống khỏi tòa.
 

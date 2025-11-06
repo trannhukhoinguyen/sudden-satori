@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Có phong nhã thiền dứt hết phàm tình. Uy lực Phật, Tổ trừ sạch thánh giải. Có ai đủ bản lĩnh này chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

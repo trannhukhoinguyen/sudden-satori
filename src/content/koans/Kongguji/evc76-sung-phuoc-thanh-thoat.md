@@ -52,7 +52,7 @@ Tuy người đã cạn lời, không tỏ mà thông đường thật là khó 
 Nửa đêm ánh sáng chưa từng hiện.
 Đến sáng đâu cho thấy một ít.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -66,6 +66,7 @@ Nửa đêm ánh sáng chưa từng hiện.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

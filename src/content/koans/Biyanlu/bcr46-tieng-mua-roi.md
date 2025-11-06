@@ -16,7 +16,7 @@ Một trùy bèn siêu cả phàm thánh. Một lời có thể cởi trói bu�
 
 Tung hoành điệu dụng tạm gác qua một bên, đi trong một sát na thì thì như thế nào? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Kính Thanh [^1] hỏi ông tăng, “Ngoài cửa có tiếng gì vậy?”
 >
@@ -32,7 +32,7 @@ Tung hoành điệu dụng tạm gác qua một bên, đi trong một sát na th
 >
 > Kính Thanh nói, “Xuất thân thì còn dễ, thoát thể mới là khó”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Ngay chỗ này đây cũng cần phải hiểu. Cổ nhân ngỏ lời dạy, một cơ một cảnh đều là để tiếp dẫn người khác. Một hôm Kính Thanh hỏi ông tăng, “ Ngoài cửa có tiếng gì vậy?” Ông tăng nói, “ Tiếng mưa rơi.” Kính Thanh nói, “ Chúng sinh điên đảo, mê mờ rồi đuổi theo sự vật.” Rồi lại hỏi, “ Ngoài cửa có tiếng gì vậy?” Ông tăng nói, “ Tiếng chim tu hú.” Kính Thanh nói, “ Muốn tránh không gây nghiệp vô gián[2], đừng báng Như Lai chính pháp luân.” Một lần nọ Kính Thanh hỏi một ông tăng, “ Ngoài cửa có tiếng gì vậy” Ông tăng nói, “ Tiếng rắn ăn nhái.” Kính Thanh nói, “ Cứ bảo chúng sinh khổ, lại có khổ chúng sinh.” Những lời này với công án trên không khác nhau. Nếu như các tăng sĩ hiểu thấu được điểm này, thì trong đống thanh sắc vẫn được tự do. Còn nếu như không hiểu thấu được, hẳn sẽ bị thanh sắc trói buộc.
 
@@ -60,7 +60,7 @@ Tuyết đậu tụng rằng:
 >
 > Nam sơn bắc sơn mưa dạt dào.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Sảnh không, tiếng mưa rơi, chuyên gia cũng khó đáp.” Nếu như các ông gọi đó là tiếng mưa rơi, các ông mê mờ chính mình mà đuổi theo sự vật.
 
@@ -94,6 +94,6 @@ Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
+[^1]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
 
 [^3]: ⭐️

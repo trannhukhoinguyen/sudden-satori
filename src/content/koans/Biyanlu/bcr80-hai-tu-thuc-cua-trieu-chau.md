@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Triệu Châu, “Trẻ sơ sinh có thức thứ sáu hay không?” 
 > 
@@ -24,7 +24,7 @@ image: /images/koans/great-wave.webp
 > 
 > Ngài Đầu Tử nói, “Niệm niệm không ngừng chảy”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Thức thứ sáu này giáo tông lập làm căn bản. Sơn hà đại địa, trăng sao tinh tú nhân nơi nó mà sinh. Đến với tư cách tiên phong đi với tư cách điện hậu. Cổ nhân nói, “Tam giới duy tâm vạn pháp duy thức.” Nếu như người ta chứng được Phật địa, thì tâm thức chuyển thành bốn trí. 
 
@@ -44,7 +44,7 @@ Thạch Thất Thiện Đạo Hòa Thượng nói rằng, “Há các ông khôn
 
 Nam Tuyền nói, “Tôi mười tám tuổi mới biết sống.” Triệu Châu nói, “Tôi mười tám tuổi mới biết phá cửa tan nhà.” Lại nói, “Tôi ở phương Nam hai mươi năm, ngoài hai buổi cơm cháo ra, chỉ là tạp dụng tâm mà thôi.” Tào Sơn hỏi ông tăng, “Bồ Tát trong thiền định nghe tiếng hương tượng qua sông rõ ràng,’ chẳng hay câu ấy từ trong kinh nào vậy?” Ông tăng nói, “Kinh Niết Bàn.” Động Sơn hỏi, “Nghe trước khi nhập định hay sau khi nhập định?” Ông tăng nói, “Hòa thượng chẩy rồi.” Động Sơn nói, “Tiếp thu bên bãi sông.”
 
-Qui Sơn hỏi Ngưỡng Sơn, “ Tịch cảm thấy như thế nào?” Ngưỡng Sơn nói, “ Hòa thượng hỏi về chỗ kiến giải hay là chỗ hành giải của hắn? Nếu như hòa thượng hỏi về hành giải thì đệ tử không biết. Còn nếu như hòa thượng hỏi về kiến giải thì đó giống như đổ một bình nước vào một bình nước.” Nếu các ông có thể như vậy các ông mới có thể làm bậc thầy của một phương. Khi Triệu Châu nói, “Đánh cầu trên dòng nước chảy xiết,” thầy ta đã xoay chuyển một cách trơn tru. Nếu như các ông đánh cầu trên dòng nước chảy xiết, thì chỉ trong chớp mắt là nó đã lăn mất. Giống như Kinh Lăng Nghiêm nói, “ Nhìn dòng nước chảy xiết giống như thể êm đềm.” Cổ nhân nói, “Giống như trong dòng nước chảy xiết, nước chảy không ngừng, song các giọt nước chẳng hề biết nhau. Chư pháp cũng như vậy mà thôi.’ Lời đáp của Triệu Châu cũng ngụ ý giống như vậy.
+Quy Sơn hỏi Ngưỡng Sơn, “ Tịch cảm thấy như thế nào?” Ngưỡng Sơn nói, “ Hòa thượng hỏi về chỗ kiến giải hay là chỗ hành giải của hắn? Nếu như hòa thượng hỏi về hành giải thì đệ tử không biết. Còn nếu như hòa thượng hỏi về kiến giải thì đó giống như đổ một bình nước vào một bình nước.” Nếu các ông có thể như vậy các ông mới có thể làm bậc thầy của một phương. Khi Triệu Châu nói, “Đánh cầu trên dòng nước chảy xiết,” thầy ta đã xoay chuyển một cách trơn tru. Nếu như các ông đánh cầu trên dòng nước chảy xiết, thì chỉ trong chớp mắt là nó đã lăn mất. Giống như Kinh Lăng Nghiêm nói, “ Nhìn dòng nước chảy xiết giống như thể êm đềm.” Cổ nhân nói, “Giống như trong dòng nước chảy xiết, nước chảy không ngừng, song các giọt nước chẳng hề biết nhau. Chư pháp cũng như vậy mà thôi.’ Lời đáp của Triệu Châu cũng ngụ ý giống như vậy.
 
 Có ông tăng lại hỏi Đầu Tử, “Đánh cầu trên dòng nước chảy xiết có nghĩa là gì?” Đầu Tử đáp, “Niệm niệm không ngừng chảy.” Tự nhiên hết sức khế hợp với câu hỏi của ông tăng. Cổ nhân hành sử hết sức miên mật cho nên cách trả lời giống y hệt nhau. Lại chẳng bao giờ cần so đo, ngay khi các ông vừa hỏi là họ đã biết ý của các ông rồi. Mặc dù thức thứ sáu ở nơi đứa hài nhi hãy vẫn chưa còn có công dụng, song vẫn niệm niệm không ngừng trôi chảy giống như một dòng nước miên mật. Đậu Tử trả lời như thế, có thể nói là thầy ta hiểu thâm sâu ý của câu hỏi.
 
@@ -60,7 +60,7 @@ Tuyết Đậu tụng rằng:
 >
 > Rơi xuống không dừng, ai biết xem?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Lục thức vô công hỏi một câu.” Cổ nhân học đạo dưỡng tâm đến mức độ này gọi là công dụng trong chỗ vô công dụng. 
 

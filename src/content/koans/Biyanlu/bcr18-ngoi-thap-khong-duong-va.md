@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Túc Tông Hoàng Đế [^1] hỏi Huệ Trung quốc Sư [^2], “Trăm năm sau cần có vật gì?”
 >
@@ -49,7 +49,7 @@ image: /images/koans/great-wave.webp
 >
 > Tuyết Đậu bình rằng,” Nêu lên rồi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Túc Tông và Đại Tông đều là dòng dọi của Huyền Tông. Lúc còn là thái tử đều rất thích tham Thiền.
 
@@ -106,9 +106,9 @@ Sau đó Ngưỡng Sơn thuật lại chuyện kia và hỏi Đam Nguyên, “L�
 
 Đam Nguyên quát, “Đồ ngốc, làm gì có ai dưới giếng!”. Ngưỡng Sơn vẫn không hiểu ý chỉ.
 
-Sau này Ngưỡng Sơn hỏi Qui Sơn. Qui Sơn bèn gọi, “Huệ Tịch!”. Ngưỡng Sơn nói, “Dạ”
+Sau này Ngưỡng Sơn hỏi Quy Sơn. Quy Sơn bèn gọi, “Huệ Tịch!”. Ngưỡng Sơn nói, “Dạ”
 
-Qui Sơn nói, “Gã ra mất rồi!”. Ngưỡng Sơn do đó đâi ngộ, nói rằng, “Tôi ở nơi Đam Nguyên đạt được thể, ở nơi Qui Sơn đạt được dụng”
+Quy Sơn nói, “Gã ra mất rồi!”. Ngưỡng Sơn do đó đâi ngộ, nói rằng, “Tôi ở nơi Đam Nguyên đạt được thể, ở nơi Quy Sơn đạt được dụng”
 
 Chỉ một bài tụng của Đam Nguyên cũng đã khiến rất nhiều người hiểu lầm.
 
@@ -167,7 +167,7 @@ Tuyết Đậu rõ ràng một lúc tụng rõ cả, rốt cuộc chỉ là tụ
 >
 > Thiên cổ vạn cổ cho người xem.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu mở đầu nói, “ Tháp không vá, còn khó thấy.”
 

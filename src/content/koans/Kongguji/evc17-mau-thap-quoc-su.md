@@ -18,7 +18,7 @@ Chuẩn bị trước thì không còn lo.
 Đợi đến khi gặp được người đàn việt có tín tâm, tùy duyên nhận lãnh, thì sẽ kiến tạo nên ngôi tháp xuất cách bậc nhất.
 Gặp việc nghĩa thì làm hết mình, ai biết được người có bản chất nhân từ, kiến định này chăng? Có hiểu lý ấy không?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

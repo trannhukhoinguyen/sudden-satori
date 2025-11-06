@@ -18,7 +18,7 @@ Các phương pháp của tông môn chúng ta là như vậy, phá hai làm ba.
 
 Theo lệnh mà hành sự, tảo trừ tất cả các dấu vết. Thử nói xem, lúng túng ở chỗ nào? Thử nêu lên cho những người có mắt trên đỉnh đầu xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Huyền Sa dạy chúng rằng, “Các bậc lão túc ở khắp nơi đều nói về việc tiếp vật lợi sinh. Hốt nhiên gặp phải ba loại người bệnh phải tiếp họ như thế nào? 
 > 
@@ -26,7 +26,7 @@ Theo lệnh mà hành sự, tảo trừ tất cả các dấu vết. Thử nói 
 >
 > Có ông tăng hỏi Vân Môn về vấn đề trên, Vân Môn nói, “Ông lễ lậy đi cái đã.” Ông tăng lậy xong đứng dậy. Vân Môn lấy gậy thọc vào người ông tăng, ông tăng lui lại. Vân Môn nói, “Ông đâu có bị mù.” Rồi Vân Môn lại gọi ông ta bước đến gần, ông tăng bước đến gần. Vân Môn nói, “Ông đâu có bị điếc.” Vân Môn nói, “Ông có hiểu không?” Ông tăng nói, “Không hiểu.” Vân Môn nói, “Ông đâu có bị câm.” Ông tăng bèn tỉnh ngộ.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Huyền Sa tham Thiền đến mức độ cắt đứt tất cả các tính trần ý tưởng, tự tại thanh thoát, cho nên mới biết nói như vậy. Lúc ấy Thiền thịnh hành và các tự viện ngóng vọng lẫn nhau, Huyền Sa thường dạy chúng rằng, “Các bậc lão túc ở khắp nơi đều nói về việc tiếp vật lợi sinh. Hốt nhiên gặp phải ba loại người bệnh phải tiếp họ như thế nào? Gặp phải người mù thì dù mình có dơ trùy dựng phất trần họ cũng chẳng thấy. Gặp phải người điếc thì dù mình có nói về tam muội họ cũng chẳng nghe. Gặp phải người câm thì dù có boả họ nói họ cũng chẳng nói được. Vậy thì phải tiếp những người ấy như thế nào? Nếu như không tiếp được, hóa ra Phật pháp không linh nghiệm sao?” Người bây giờ mà hiểu theo lối mù điếc hay câm, rôt cuộc sẽ chẳng bao giờ mò mẫm cho ra. Cho nên mới có câu nói, “Đừng có chết trong ngôn ngữ.” Cần phải hiểu ý của Huyền Sa thì mới được.
 
@@ -64,7 +64,7 @@ Nghe Tuyết Đậu tụng rằng:
 >
 > Trùy sắt không lỗ.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Đui mù câm điếc, tuyệt dứt cơ nghi.” Tất cả những cái các ông thấy với không thấy, nghe với không nghe, nói với không nói, Tuyết Đậu một lúc quét sạch cả. Đến nỗi các kiến giải so đo theo kiểu đui mù câm điếc trong một lúc dứt bặt chẳng còn sử dụng được nữa. Sự việc hường thượng này có thể gọi là mù thật điếc thật câm thật vô cơ vô nghi.
 

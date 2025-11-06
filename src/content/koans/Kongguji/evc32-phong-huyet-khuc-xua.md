@@ -69,7 +69,7 @@ Thử xem cội đã mùa thu kết trái,
 Chẳng giống chày giã đêm trổ hoa.
 
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -84,6 +84,7 @@ Chẳng giống chày giã đêm trổ hoa.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

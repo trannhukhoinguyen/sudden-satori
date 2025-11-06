@@ -20,7 +20,7 @@ Trong rừng can qua, điểm định mạng sống của nạp tăng.
 
 Song thử nói xem, có được sức lực như thế, thì đạt được gì? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, miễn đừng so đo. Vừa có ngôn ngữ là có so đo rồi, hòa thượng giúp người như thế nào?”
 >
@@ -30,7 +30,7 @@ Song thử nói xem, có được sức lực như thế, thì đạt được g
 >
 > Triệu Châu nói, “Chỉ có ‘đạo lớn không khó, miễn đừng so đo’ mà thôi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Triệu Châu nói, “Chỉ có ‘đạo lớn không khó, miễn đừng so đo,’” giống như đá lửa điện chớp. Nắm buông sát hoạt, mới tự tại làm sao.
 
@@ -78,7 +78,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Đối đáp không lời đứng một chân.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Nước tưới không được, gió thổi không vào. Cọp bước rồng đi, quỉ kêu thần khóc.”
 

@@ -20,13 +20,13 @@ Nếu một hiểu ba tạm dẹp qua, làm cả thiên hạ líu lưỡi thì n
 
 Thử nói xem đó là việc của ai? Xin thử nêu lên xem sao.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Ba Lăng [^1], “Thế nào là tông của Đề Bà?” [^14]
 >
 > Ba Lăng nói, “Tuyết đầy trong chén bạc.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Công án này thường bị người ta hiểu lầm mà bảo rằng đây là tông của ngoại đạo. Đâu có gì là đúng.
 
@@ -130,7 +130,7 @@ Không biết phải hỏi trăng trên trời.
 
 Dưới lá cờ đỏ gió phất phơ.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tân Khai là tên của tự viện. “ Ghê gớm thật” là lời tán thán của Tuyết Đậu. Thử nói xem ghê gớm ở chỗ nào? “ Tất cả ngôn ngữ, đều là Phật Pháp.” Sưnúi tôi nói như thế có nghĩa là gì? Tuyết Đậu hé mở ra một chút khi thầy ta nói Ba Lăng ghê gớm thật. Sau đó thầy ta lại mở tung ra khi thầy ta nói, “ Biết trong chén bạc đầy tuyết.” Rồi lại cho các ông thêm cước chú rằng: “ Chín mươi sáu loại cần tự biết.” Song người ta phải có thua trước thì mới biết được ( thắng là thế nào). Nếu như các ông biết, thì cứ đi hỏi mặt trăng trên trời. Cổ nhân từng đáp câu hỏi này rằng, “Đi hỏi trăng trên trời.”
 

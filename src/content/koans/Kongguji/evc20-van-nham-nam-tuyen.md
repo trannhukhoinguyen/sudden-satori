@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 “Đường hẹp tối tăm, khiến cho khách lữ hành vất vả trong đêm. Cửa huyễn diệu khóa bằng vàng, thiện tăng lại đánh mất niềm tin. Có ai từng bị đóng nêm sắt mà biết đau chăng?”
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

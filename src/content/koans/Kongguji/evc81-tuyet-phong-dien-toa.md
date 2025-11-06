@@ -73,7 +73,7 @@ Nếu ai muốn học, cho uống nước trong buổi tiệc. Uống cho đủ 
 
 Ngài Lý Phất, cũng một trận tuyết Hương Tích, Duy Ma che cười.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -87,6 +87,7 @@ Ngài Lý Phất, cũng một trận tuyết Hương Tích, Duy Ma che cười.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

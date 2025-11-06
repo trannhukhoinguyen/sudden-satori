@@ -20,7 +20,7 @@ Thảng hoặc không lập đốn tiệm thì như thế nào? Người nhanh t
 
 Đúng vào lúc ấy, ai là người chủ động? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Trong nha môn ở Đinh Châu, ngài Phong Huyệt [^1] thượng đường nói, “_Tâm ấn của Tổ Sư giống như cái máy trong con trâu sắt, lấy đi thì ấn còn, trụ lại thì ấn phá. Còn như nếu không khử không trừ, thì ấn là đúng hay không ấn là đúng?_"
 >
@@ -44,11 +44,11 @@ Thảng hoặc không lập đốn tiệm thì như thế nào? Người nhanh t
 >
 > Phong Huyệt bèn bước xuống khỏi tòa.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Phong Huyệt là bậc tôn túc trong giòng của Lâm Tế. Thuở ban đầu Lâm Tế cũng ở trong chúng hội của Hoàng Bá. (Một hôm) lúc Lâm Tế đang trồng cây tùng, Hoàng Bá nói, “Trong chốn thâm sơn như vầy trồng nhiều tùng như thế để làm gì?” Lâm Tế nói, “Thứ nhất là để làm cảnh cho tự viện, thứ hai là để làm bảng hiệu cho người đời sau.” Nói xong bèn lấy xuổng bới đất. Hoàng Bá nói,” Tuy sự thật là thế, song ông cũng đã ăn hai chục gậy rồi.” Lâm Tế lại bới đất một lần nữa rồi thở hổn hển. Hoàng Bá nói, “Tông môn của chúng ta đến ông là có thể hưng thịnh trong đời vậy.”
 
-Quí Sơn Triết nói, “Lâm Tế giống như thể trên đất bằng gây sóng, tuy là như thế, nhưng mà chỉ khi nào người ta có thể bình tĩnh lúc lâm nguy mới đáng được gọi là bậc đại trượng phu chân chính.” Hoàng bá nói, “Tông môn của chúng ta đến ông là có thể hưng thinh trong đời vậy.” Tựa như thể thương con mà không biết xấu. sau đó Qui Sơn hỏi Ngưỡng Sơn, “Lúc ấy Hoàng Bá chỉ truyền cho một mình Lâm Tế hay còn có ai khác nữa?” Ngưỡng Sơn nói, “Có chứ, có điều thời đại xa xưa quá rồi cho nên đệ tử không muốn nói cho hòa thượng làm gì.” Qui Sơn nói, “Tuy là thế, song ta vẫn muốn biết, ông thử nói xem sao.” Ngưỡng Sơn nói, “Một người chỉ về phương nam, mệnh lệnh được thi hành ở Ngô Việt, gặp gió lớn mới hưng.” Đây chính là lời tiên tri về Phong Huyệt vậy.
+Quí Sơn Triết nói, “Lâm Tế giống như thể trên đất bằng gây sóng, tuy là như thế, nhưng mà chỉ khi nào người ta có thể bình tĩnh lúc lâm nguy mới đáng được gọi là bậc đại trượng phu chân chính.” Hoàng bá nói, “Tông môn của chúng ta đến ông là có thể hưng thinh trong đời vậy.” Tựa như thể thương con mà không biết xấu. sau đó Quy Sơn hỏi Ngưỡng Sơn, “Lúc ấy Hoàng Bá chỉ truyền cho một mình Lâm Tế hay còn có ai khác nữa?” Ngưỡng Sơn nói, “Có chứ, có điều thời đại xa xưa quá rồi cho nên đệ tử không muốn nói cho hòa thượng làm gì.” Quy Sơn nói, “Tuy là thế, song ta vẫn muốn biết, ông thử nói xem sao.” Ngưỡng Sơn nói, “Một người chỉ về phương nam, mệnh lệnh được thi hành ở Ngô Việt, gặp gió lớn mới hưng.” Đây chính là lời tiên tri về Phong Huyệt vậy.
 
 Phong Huyệt thoạt tiên tham học với Tuyết Phong trong năm năm. Có lần xin chỉ thị về câu chuyện sau đây: “Lâm Tế bước vào sảnh đường, các thủ tòa hai bên đều hét lên cùng một lượt. Có ông tăng hỏi Lâm Tế, “Còn có chủ khách nữa hay không?” Lâm Tế nói, “ Chủ khách hiển nhiên ra đó.” Phong Huyệt nói, “Đệ tử chưa hiểu ý nghĩa của công án này là như thế nào?” Tuyết Phong nói, “Thuở xưa ta với Nham Đầu và Khâm Sơn đi gặp Lâm Tế, giữa đường nghe tin rằng thầy ta đã thiên hóa. Nếu như ông muốn hiểu công án về chủ khách này, cần phải tham kiến các bậc tôn túc trong tông phái của thầy ta.”
 
@@ -86,7 +86,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Hét lên làm nước chảy ngược chiều.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu biết Phong Huyệt có tông phong như thế cho nên mới tụng rằng, “ Bắt được Lư Pha cỡi trâu sắt, thương giáp tam huyền khó chống cự.” Trong tông phái của Lâm Tế có tam huyền tam yếu. Trong một câu phải có đủ cả tam huyền, trong một huyền phải có đủ cả tam yếu. Có ông tăng hỏi Lâm Tế, “Thế nào là câu thứ nhất?” Lâm Tế nói, “ An tấm ấn mở điểm son hẹp, không để so đo chủ khách phân.” Thế nào là câu thứ nhì?” Lâm Tế nói, “Diệu biện há không dùng câu hỏi, phương tiện không phụ cơ cắt dòng.” Thế nào là câu thứ ba?” Lâm Tế nói, “Cứ nhìn người nộm trên sân khấu, kéo giựt đều nơi kẻ ở trong.”
 

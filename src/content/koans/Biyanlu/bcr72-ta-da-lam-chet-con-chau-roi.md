@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Bách Trượng lại hỏi Vân Nham, “Không có cổ họng với miệng môi, làm thế nào để nói đây?” 
 > 
@@ -23,7 +23,7 @@ image: /images/koans/great-wave.webp
 > 
 > Bách Trượng nói, “Ta đã làm chết con cháu rồi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vân Nham làm thị giả cho Bách Trượng suốt hai mươi năm. Sau đó cùng với Đạo Ngô đến gặp Dược Sơn. Dược Sơn hỏi, “Thầy ở trong chúng hội của Bách Trượng để làm cái gì?” Vân Nham nói, “Thấu thoát sinh tử.” Dược Sơn hỏi, “Thế đã thấu thoát được chưa?” Vân Nham nói, “Cái đó không có sinh tử.” Dược Sơn nói, “Ở với Bách Trượng hai mươi năm mà vẫn chưa trừ hết tập khí.” Vân Nham từ biệt Dược Sơn rồi đến tham kiến Nam Tuyền. Sau đó lại trở về với Dược Sơn nữa rồi mới khế ngộ.
 
@@ -43,7 +43,7 @@ Tuyết Đậu tụng rằng:
 >
 > Dưới núi Đại Hùng búng tay không.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Hòa thượng có cách chưa? Kim mao sư tử không ngồi xổm.” Tuyết Đậu dựa vào các dữ kiện mà kết thúc công án. Đúng thì đúng, song có điều kim mao sư tử vẫn cứ không ngồi xổm trên mặt đất. Lúc sư tử bắt mồi, nó giấu răng ẩn móng, rồi ngồi xổm trên mặt đất để mà chồm tới. Bất chấp con mồi to hay nhỏ, bao giờ sư tử cũng sử dụng toàn uy, muốn làm tròn công việc của mình.
 

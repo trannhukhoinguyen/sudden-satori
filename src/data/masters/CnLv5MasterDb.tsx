@@ -140,7 +140,12 @@ const CnLv5MasterDb = [
     successors: [''],
     disciples: [],
     image: 'https://terebess.hu/zen/mesterek/woodcut/38-3.jpg',
-    reference: ['https://terebess.hu/zen/muzhou.html'],
+    reference: ['https://terebess.hu/zen/muzhou.html',
+      'https://phatgiao.org.vn/tu-dien-phat-hoc-online/muc-chau-tran-ton-tuc-k1444.html',
+      'https://ngulucthien.com/thien-su-dao-minh/',
+      'https://quangduc.com/a46422/07-thien-su-tran-ton-tuc-hieu-dao-minh',
+      'https://hoavouu.com/a17587/07-thien-su-tran-ton-tuc-hieu-dao-minh',
+    ],
   },
   {
     id: '38.5.7',

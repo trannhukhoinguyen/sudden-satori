@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS TRƯỜNG KHÁNH HUỆ LĂNG
 image: /images/koans/great-wave.webp
 ---
 
@@ -16,11 +16,16 @@ image: /images/koans/great-wave.webp
 
 Gốc cây làm gì? Cây thật dụng tạo ra bày nhiều mưu kế. Trước người mà sanh tuệ lửa đỏ đùa, giống như diệt trừ cuồng tình, loại bỏ vọng niệm. Làm sao chỉ dạy?
 
-BẢN TẮC
-Tăng hỏi: Trường Khánh làm sao được điều chẳng nghi?
-Trường Khánh đưa hai tay ra.
+## CỬ - TẮC
 
-BÌNH XƯỚNG
+📢 Ngài Đầu Tử cử:
+
+Tăng hỏi: **Trường Khánh làm sao được điều chẳng nghi?**
+
+Ngài Trường Khánh đưa hai tay ra.
+
+## BÌNH XƯỚNG
+
 Thiền sư Huệ Lãng, Trường Khánh Phước Châu, quê ở Diêm Quan Hàng Châu họ Tôn, bẩm tánh từ bi, mười bảy tuổi xuất gia với Thiền sư Viên Thông ở Tô Châu, sau khi thọ giới cụ túc, sư du khắp các nơi cầu pháp, sau tham vấn Linh Vân hỏi: Thế nào là đại pháp Phật?
 Linh Vân đáp: Việc lửa chưa tắt, chuyện ngựa đã đến.
 Sư kết bạn thân với Tuyết Phong, Huyền Sa. Hai mươi năm, ngồi rách bảy cái bồ đoàn, không rõ việc này. Một hôm cuộn trầm chợt đại ngộ làm bài tụng:
@@ -73,13 +78,22 @@ Kể lại như thế thì lời này mới đầy đủ phần phú. Nhưng đ�
 Ngài Đầu Tử lược bớt chỉ để phần nổi bật nhất, bỏ bớt phần phụ. Nhưng đạt được điều u vi trong đàm cần cẩu là nhờ tiếng trên dây đàn.
 Này, các thiền giả, ở chỗ Trường Khánh dứt khoát thì học được đạo lý không còn hoài nghi mê hoặc. May gặp Phật! Tự trung truyền nghĩa này.
 
-TỤNG CỔ
-Ngài Lâm Tuyền nói:
+## TỤNG CỔ
+
+<blockquote>
 
 Một tàn vừa dấy khởi khắp nơi tiếp dẫn,
+
 Một chiếc lá rơi lạc coi vào thu.
+
 Phải thực sâu một tâm niệm sạch hết,
+
 Dừng (cả một) mảy bụi rơi vào mắt.
+</blockquote>
+
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
 
 Cho nên Lư Sơn Viễn Công nói:
 “Khởi đầu và cuối cùng từ đâu, có khởi diệt thì không có bờ mé. Đình đám một chút liền thành cảnh động, tình trạng này như thế núi đỏ. Nếu ở trong chỗ này thoát được mê hoặc một hợp nước cạn hết nước sông Giang Tây chăng?”
@@ -113,30 +127,6 @@ Bến đục cuồn cuộn chảy vào sông lớn, vẫn là con đường Trư
 Thưa hỏi Thánh tăng,
 Sẽ biết được tung tích.
 
-
-## CỬ - TẮC:
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-<blockquote>
-
-</blockquote>
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
-
 <hr class="blog-rule" />
 
 ## NGUỒN
@@ -147,6 +137,6 @@ Sẽ biết được tung tích.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Changqing-Huileng" target="_blank">🔗 TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
 
 

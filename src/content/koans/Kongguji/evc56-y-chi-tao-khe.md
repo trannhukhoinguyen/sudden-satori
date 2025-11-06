@@ -71,7 +71,7 @@ Ngài Lâm Tuyền cứ lặp lại cho người sau như thế. Nói cho gióng
 Lúc có chỉ khi thì tàng chỉ khí,
 Chỗ không phong lưu cũng phải phong trần.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -85,6 +85,7 @@ Chỗ không phong lưu cũng phải phong trần.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

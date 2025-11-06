@@ -22,14 +22,14 @@ Hôm qua như vậy, vấn đề không thể tránh được. Hôm nay mà cũn
 
 Nếu như là người mắt sáng, chẳng thể bị lừa chút nào. Nếu không như thế, thực chẳng khác gì nằm trong miệng hổ, khó mà không tán thân thất mạng. Thử nêu lên cho quí vị xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Tuyết Phong [^1] dạy chúng nói rằng:
 >
 > “_Gom cả trời đất lại, chỉ lớn bằng một hạt gạo.
 > Ném xuống trước mặt, nếu vẫn mê mờ không hiểu tôi sẽ đánh trống mời tất cả mọi người đến xem_"
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trường Khánh hỏi Vân Môn, “ Tuyết Phong nói như thế, còn có chỗ nào không xuất đầu lộ diện được không?” Vân Môn nói, “ Có”.
 
@@ -105,7 +105,7 @@ May thay những cái này chẳng có gì là nhằm nhò với vấn đề c�
 >
 > Trăm hoa xuân đến nở vì ai?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu đương nhiên thấy cổ nhân kia. Chỉ cần bắt mạch ông ta rồi tụng “đầu trâu mất, đầu ngựa hiện.”
 

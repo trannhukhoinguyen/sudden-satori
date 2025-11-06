@@ -16,7 +16,7 @@ Nơi mà con đường của ý thức không đạt đến được, đó lại
 
 Nếu điện chuyển sao bay, thì các ông có thể khuấy biển xô núi. Trong chúng hội há không có ai làm được như thế sao? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Một hôm ở tự viện của ngài Nam Tuyền [^1], tăng chúng của Đông đường và Tây đường tranh nhau một con mèo.
 >
@@ -24,7 +24,7 @@ Nếu điện chuyển sao bay, thì các ông có thể khuấy biển xô núi
 >
 > Chúng hội không ai nói được gì cả. Ngài Nam Tuyền bèn chặt con mèo ra làm đôi.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nhìn cái động tĩnh xuất nhập của bậc tông sư. Thử nói xem ý chỉ của thầy ta như thế nào? Chuyện chém mèo này được các tự viện khắp nơi bàn bạc sôi nổi.
 
@@ -62,7 +62,7 @@ Tuyết Đậu tụng rằng:
 >
 > Một dao hai mảnh kệ thiên kiến.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Hai bên đều làn Thiền giả mạo.” Tuyết Đậu không bị chết trong câu, song thầy ta cũng chẳng chịu chấp nhận lừa trước ngựa sau.
 

@@ -3978,7 +3978,7 @@ các tổ Bích trưởng vỗ tay cười nói tưởng
 
 là hồ sau đỏ hóa ra lại có đỏ rau Hồ
 
-các tổ Qui Sơn nêu lại thoại trước Hội
+các tổ Quy Sơn nêu lại thoại trước Hội
 
 ngưỡng Sơn ngưỡng Sơn nói hoàng bá
 

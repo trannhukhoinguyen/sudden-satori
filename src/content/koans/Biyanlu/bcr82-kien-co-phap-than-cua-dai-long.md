@@ -14,13 +14,13 @@ image: /images/koans/great-wave.webp
 
 Giây nơi đầu gậy, có mắt mới biết. Cơ biến đặc biệt, chuyên gia biện được. Song thử nói xem, giây nơi đầu gậy là gì? Cơ biến đặc biệt là gì? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Đại Long, “Sắc thân bại hoại, thế nào là kiên cố Pháp Thân?” 
 > 
 > Đại Long nói, “Hoa núi nở tựa gấm, nước khe trong như ngọc.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu như dựa vào ngôn ngữ để tìm hiểu ý nghĩa của công án này thì cũng giống như thể khua gậy đánh trăng. Chẳng có gì là nhằm nhò cả. Cổ nhân đã nói rõ rằng, “Nếu như muốn đạt được chỗ thân thiết, đừng đem câu hỏi đến hỏi. Tại sao vậy? Bởi vì câu hỏi nằm trong câu trả lời, câu trả lời nằm trong câu hỏi.”
 
@@ -58,7 +58,7 @@ Tuyết Đậu tụng rằng:
 >
 > Ba ngàn điều tội.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu tụng một cách công phu hết sức. Trước đây lúc tụng lời của Vân Môn, thầy ta nói, ”Câu hỏi đã có gốc, câu đáp cũng phải giống.” Bởi vì công án này không như thế, cho nên Tuyết Đậu nói, “Hỏi mà không biết, đáp vẫn không hiểu.” Câu trả lời của Đại Long chỉ liếc qua thôi cũng thấy là kỳ đặc hết sức. Câu trả lời của thầy ta rõ ràng đến mức những người hỏi thầy ta như vậy kể như đã thất bại ngay trước khi cất tiếng hỏi rồi. Với câu trả lời như thế, Đại Long có thể hạ thấp mình xuống để khế hợp với cơ nghi của ông tăng kia nói rằng, “Hoa núi nở tựa gấm, nước khe trong như ngọc.” Các ông bây giờ hiểu ý của Đại Long như thế nào? Câu trả lời của thầy ta chỉ cần liếc qua cũng thấy là kỳ đặc rồi.
 

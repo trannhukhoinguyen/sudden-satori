@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Nằm lại, được buông ra cũng thế mới là bản tay thân kỳ; làm đúng thì làm chủ được.
 Nếu còn phó trương thì tan mất. Khi kiểm nghiệm thấy kỳ lạ, cũng chỉ nói được một nửa.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -33,7 +33,7 @@ Nếu còn phó trương thì tan mất. Khi kiểm nghiệm thấy kỳ lạ, c
 
 📢 Ngài Đầu Tử nói:
 
-Thiền sư **Kế Triệt** ở Ba Tiêu là cháu đời thứ 4 của **Qui Sơn**, sau đầu tham vấn Ngài **Phong Huyệt**.
+Thiền sư **Kế Triệt** ở Ba Tiêu là cháu đời thứ 4 của **Quy Sơn**, sau đầu tham vấn Ngài **Phong Huyệt**.
 
 Ngài **Phong Huyệt** hỏi: **Thế nào là chánh pháp nhãn tạng?**
 

@@ -19,7 +19,7 @@ Chớ có hiển bày tài năng, đừng có khoe khoang, thảy đều bị Ng
 
 Có đảm tự nhiên như không có ai bên cạnh mình được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

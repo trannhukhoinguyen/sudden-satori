@@ -20,9 +20,9 @@ Nếu như phân biện được câu đặc biệt, thì nêu lên một là hi
 
 Nếu như chưa được như vậy, thì hãy tiếp tục lắng nghe phân xử.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
-> Có ông tăng hỏi ngài Trí Môn, “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?”
+> Có ông tăng hỏi ngài Trí Môn [^1], “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?”
 >
 > Trí Môn nói, “Hoa sen”.
 >
@@ -30,7 +30,7 @@ Nếu như chưa được như vậy, thì hãy tiếp tục lắng nghe phân x
 >
 > Trí Môn nói, “Lá sen.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Luận về việc ứng cơ tiếp vật, Trí Môn kể như cũng tới mức độ nào đó. Còn nếu luận về việc cắt đứt các dòng (kiến chấp) thì Trí Môn vượt xa hơn người khác đến ngàn dặm vạn dặm. song thử nói xem đóa hoa sen đã và chưa ngoi lên khỏi mặt nước này là một hay là hai? Nếu như thấy được như vậy là đã có được chỗ vào. Tuy thế song nếu bảo là một lập tức lầm lạc Phật tính mê mờ Chân như. Nếu bảo là hai, tâm cảnh đều chưa quên được, lạc vào con đường kiến giải (thiên chấp), biết bao giờ mới dứt?
 
@@ -52,15 +52,18 @@ Có ông tăng hỏi Giáp Sơn, “Lúc hoa sen chưa ngoi khỏi mặt nước
 
 Tuyết Đậu từ bi cùng tột, phá vỡ hết kiến chấp của người ta cho nên mới tụng như sau:
 
-> Hoa sen lá sen cho ngài biết
+<blockquote> 
+
+Hoa sen lá sen cho ngài biết
 
 Ngoi lên sao bằng lúc chưa ngoi?
 
 Giang Bắc Giang Nam hỏi Vương lão [^2]
 
 Một hồ nghi rồi một hồ nghi.
+</blockquote>
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Ngài Trí Môn vốn là người Chiết Giang, phấn khởi đến Tứ Xuyên để gặp Hương Lâm.
 
@@ -92,18 +95,18 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12745/5/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon
+> ✨ <a href="https://hoavouu.com/p16a12745/5/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon" target="_blank">🔗 hoavouu</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43259/8-tac-20-tac-22
+> ✨ <a href="https://quangduc.com/p1241a43259/8-tac-20-tac-22" target="_blank">🔗 quangduc</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">🔗 hoavouu</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">🔗 phatphapungdung</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-tri-mon-quang-to/" target="_blank">🔗 TS TRÍ MÔN QUANG TỘ</a>
+[^1]: ⭐️ <a href="/masters/Zhimen-Guangzuo" target="_blank">🔗 TS TRÍ MÔN QUANG TỘ</a>
 
-[^2]: ⭐️
+[^2]: **Vương lão**: người Trung Hoa đa số có họ Trương, Lý hay Vương. Thiền Sư Nam Tuyền Phổ Nguyện họ Vương và hay tự xưng là Vương Lão Sư. Ngày nay trong Thiền thường dùng chữ Vương Lão Sư để chỉ bậc thiện tri thức.

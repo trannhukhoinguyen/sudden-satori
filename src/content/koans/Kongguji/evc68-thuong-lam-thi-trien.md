@@ -78,7 +78,7 @@ Nhạn mùa đông về nam thừa hỏi khắp nơi tri thức. Gió thu theo n
 Gót chân chạm đất khó mỏi tim,
 Chớ theo muôn sông cùng nghìn núi.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -92,6 +92,7 @@ Chớ theo muôn sông cùng nghìn núi.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

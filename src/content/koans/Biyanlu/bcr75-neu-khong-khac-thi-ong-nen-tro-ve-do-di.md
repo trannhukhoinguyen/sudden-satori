@@ -19,7 +19,7 @@ tags:
 > 
 > Thử nói xem, lúc không rơi vào tân chủ, không vướng vào hồi hỗ thì như thế nào/ Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng từ chúng hội của Định Châu hòa thượng đến gặp Ô Cữu. 
 > 
@@ -53,7 +53,7 @@ tags:
 > 
 > Ô Cữu nói, “Chỉ như thế mà thôi, chỉ như thế mà thôi”.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Có ông tăng từ chúng hội của Định Châu hòa thượng đến gặp Ô Cữu. Ô Cữu cũng là bậc chuyên gia. Nếu như các ông hiểu được rằng ở chỗ này có một chỗ ra một chỗ vào cho hai người này thì ngàn vạn cũng chỉ là một mà thôi. Làm chủ cũng thế mà làm khách cũng thế, rốt cuộc hai người hợp thành một nhà để cùng khám phá vấn đề. Dù làm chủ hay làm khách, hỏi hay là đáp, hai người vốn vẫn là các chuyên gia.
 
@@ -87,7 +87,7 @@ Tuyết Đậu tụng như vầy đây:
 >
 > Trao cán cho người quá vô đoan.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 ”Gọi thì dễ, đuổi mới khó.” Đều là rơi vào cỏ. Tuyết Đậu từ bi rất mức thường nói, “Gọi rắn dễ, đuổi rắn khó.” Bây giờ nếu dùng một trái bầu rỗng thổi vào đó mà gọi rắn thì dễ, song lúc muốn đuổi rắn đi mới là khó. Cũng giống như trao gậy cho người khác thì dễ, song muốn đoạt lại rồi đuổi người ta đi thì lại khó. Cần phải có khả năng đặc biệt mới có thể đuổi người ta đi được.
 

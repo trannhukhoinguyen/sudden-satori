@@ -19,7 +19,7 @@ Gánh nước bửa củi đều là thần thông diệu dụng.
 Biến sông thành chín đều đạt đến quy định huyền diệu của sự giáo hóa. 
 Suốt ngày bận rộn việc ấy không sao ư? Chưa biết đó là ai?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -55,7 +55,7 @@ Thoáng chốc suy nhược bệnh đến, bệnh đến thì già tới. Già �
 
 Giáp Sơn tự phu giúp từng làm làm điển tọa. Tại sao cần nương tay người khác.
 
-Qui Sơn có hỏi: Hôm nay ăn rau gì? Ý chính muốn rửa sạch cho xong vọng tưởng. Uống nước nóng thì mọi người biết vị. 
+Quy Sơn có hỏi: Hôm nay ăn rau gì? Ý chính muốn rửa sạch cho xong vọng tưởng. Uống nước nóng thì mọi người biết vị. 
 
 Ông ấy để tâm bám nơi ngòi thùng cháo hủ dưa, chỗ mà đào khoáng lên, mảnh mướp không được. Thế nên ông ta nói năm xuân giống nhau. 
 

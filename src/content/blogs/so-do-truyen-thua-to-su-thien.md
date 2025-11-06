@@ -62,7 +62,7 @@ image: /images/koans/great-wave.webp
 
 - ⚡️ Lâm Tế thế thắng
 
-- 🎁 Qui Ngưỡng trao nhau
+- 🎁 Quy Ngưỡng trao nhau
 
 - 🌟 Tào Động đinh ninh
 

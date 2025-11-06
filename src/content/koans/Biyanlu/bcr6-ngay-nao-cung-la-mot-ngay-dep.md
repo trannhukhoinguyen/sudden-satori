@@ -14,13 +14,13 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Vân Môn Đại Sư [^1] nói: _Không hỏi ông về trước ngày 15, sau ngày 15 thử nói một câu xem?_
 >
 > Rồi tự trả lời: _Ngày nào cũng là một ngày đẹp_.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vân Môn Đại Sư thoạt đầu đến tham kiến Mục Châu. Lối dạy của mục Châu tựa như máy quay điện cuốn, thật khó mà bám víu. Bình thường cách đón tiếp người khác của Mục Châu là hễ bất cứ ai vừa bước vào là Mục Châu đã nắm lấy rồi nói, “ Nói, nói” Người kia vừa suy nghĩ, Mục Châu đã đẩy ra ngoài nói. “ Cái dùi xoáy thời nhà Tần!” Lúc Vân Môn đến gặp Mục Châu, lần thứ ba mới dám gõ cửa. Mục Châu hỏi “Ai” Vân Môn nói, “Văn Yển”.Mục Châu vừa hé cửa, Vân Môn đã nhào vào. Mục Châu giữ lại nói, “Nói, nói!” Vân Môn vừa suy nghĩ, bèn bị Mục Châu đẩy ra. Một chân của Vân Môn vẫn còn kẹt trong then cửa, Mục Châu đóng sầm cửa lại, làm gẫy mất chân Vân Môn. Vân Môn đau quá hét lên, song lập tức đại ngộ. Sau này những lời Vân Môn nói ra đều giống với Mục Châu. Sau đó Vân Môn còn ở trong nhà của Thượng Thư Trần Tháo ba năm.
 
@@ -68,7 +68,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Động đậy ta cho ba chục gậy!
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu tụng cổ bao giờ cũng được như vậy. Trước tiên bao giờ cũng lấy Kim Cương Bảo Kiếm múa một hồi, sau đó mới để lộ một chút phong qui.
 

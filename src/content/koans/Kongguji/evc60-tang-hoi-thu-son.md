@@ -78,7 +78,7 @@ Nếu hay nhường bước chính mình nhiếp phục thân tâm. Thuận theo
 Hướng nữa mầm linh sẵn có đất, đại ngộ không còn nhọc người biến hóa tạo ra vật tùy thời thao túng. Nếu ở đây hội được, thì biết mình không phải là tài năng, đường như rõ được thích nghi.
 
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -92,6 +92,7 @@ Hướng nữa mầm linh sẵn có đất, đại ngộ không còn nhọc ngư
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

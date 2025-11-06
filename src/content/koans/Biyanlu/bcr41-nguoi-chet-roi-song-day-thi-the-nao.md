@@ -21,13 +21,13 @@ Giống như thể sừng kỳ lân, hoa sen trong lửa.
 
 Vừa thấy kẻ siêu quần đã biết là động dao.Ai là tay hảo thủ? Xin nêu lên xem!
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Triệu Châu [^1] hỏi Đầu Tử [^2], “Kẻ đã chết ngắc rồi lại sống dậy thì như thế nào?”
 >
 > Đầu Tử nói, “Không được đi đêm, ban ngày hãy tới.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Triệu Châu hỏi Đầu Tử, “Kẻ đã chết ngắc rồi lại sống dậy thì như thế nào?” Đầu Tử trả lời, “Không được đi đêm, ban ngày hãy tới.” Thử nói xem đó là thời tiết gì vậy? Sao không lo đập vào phách đá, đó gọi là câu hỏi để thử chủ. Và cũng gọi là câu hỏi tâm hành. Người khắp nơi ai cũng ca ngợi Đầu Tử và Triệu Châu là có tài hung biện siêu quần. Tuy hai người là truyền nhân của hai dòng khác nhau, song thử nhìn xem cơ phong của họ mới ăn khớp làm sao.
 
@@ -55,7 +55,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Không hiểu ai biết rải cát bụi.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Trong sống có mắt giống như chết.” Tuyết Đậu là người biết cơ, cho nên mới dám tụng.
 

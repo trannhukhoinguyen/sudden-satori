@@ -19,7 +19,7 @@ Không có chỗ nào để gậm cắn: Tâm ấn của Tổ Sư có hình dán
 
 Việc dìu đục trên đất bằng tạm gác qua một bên. Không rơi vào những cơ duyên rối rấm thì như thế nào? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Nam Tuyền [^1], Qui Tông [^2] và Ma Cốc [^3] cùng đi tham bái Trung Quốc Sư [^4]. Đến nữa đường, Ngài Nam Tuyền vẽ một vòng tròn trên mặt đất rồi nói,”
 >
@@ -33,7 +33,7 @@ Việc dìu đục trên đất bằng tạm gác qua một bên. Không rơi v�
 >
 > Ngài Qui Tông nói, “Đó là tâm hành gì vậy?”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Lúc ấy Mã Tổ đang thịnh hóa ở Giang Tây, giáo lý của Thạch Đầu thì đang xiển dương ở Hồ Sương, còn giáo lý của Trung Quốc Sư thì hưng hóa ở Trường An.
 
@@ -67,7 +67,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 > Lại nói, “Lối Tào Khê bằng Phẳng. Tại sao lại dừng bước chân?”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Tên Do Cơ bắn khỉ, vòng cây trực tiếp sao!” Do Cơ là người đời Sở, họ Dương tên Thực, tự là Do Cơ.
 

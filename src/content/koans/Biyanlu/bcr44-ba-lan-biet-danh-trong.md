@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 Hòa Sơn [^1] dạy rằng, “Học tập gọi là “văn” (nghe). Tuyệt học gọi là “lân” (gần).
 
@@ -36,7 +36,7 @@ Hòa Sơn nói, “Biết đánh trống.”
 
 Hòa Sơn nói, “Biết đánh trống.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Hòa Sơn dạy rằng, “Học tập gọi là “văn”. Tuyệt học gọi là “lân”.
 
@@ -168,7 +168,7 @@ Sau đó Tuyết Đậu đưa ra một làn mối dựa vào lời dạy chúng 
 >
 > Ngọt thì ngọt hể đắng thì đắng!
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Qui Tông một hôm gọi tất cả chúng ra để kéo đá. Qui Tông hỏi vị duy na đi đâu vậy. Duy na nói, “Đi kéo đá.” Qui Tông nói, “Kéo đá thì tôi cùng kéo với ông, song đừng động vào cội cây ở giữa.”
 

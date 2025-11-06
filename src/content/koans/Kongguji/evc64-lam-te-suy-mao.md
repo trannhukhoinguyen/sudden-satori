@@ -49,7 +49,7 @@ Tụng này là kiếm Kim Cang Vương, lộ bày rõ ràng. Vừa mở miệng
 
 Ngài đưa cây gậy lên nói: Cho thành một lời nói, mặc cho ông chấp nhận một nửa hay không chấp nhận. Dựa vào sự lùi bước của y nên nói, đã hết cách vẫn không có một tư cách của thường dân.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -63,6 +63,7 @@ Ngài đưa cây gậy lên nói: Cho thành một lời nói, mặc cho ông ch
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

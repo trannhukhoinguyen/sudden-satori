@@ -369,7 +369,7 @@ const CnLv4MasterDb = [
     name_en: 'Wufeng Changguan',
     name_ja: 'Gohō Jōkan',
     name_zh: '五峰常觀',
-    name_vi: 'Ngũ Phong Thường Quan',
+    name_vi: 'Ngũ Phong Thường Quán',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
@@ -383,7 +383,11 @@ const CnLv4MasterDb = [
     successors: [''],
     disciples: [],
     image: '/',
-    reference: ['https://pl.wikipedia.org/wiki/Wufeng_Changguan'],
+    reference: [
+      'https://pl.wikipedia.org/wiki/Wufeng_Changguan',
+      'https://phatgiao.org.vn/tu-dien-phat-hoc-online/ngu-phong-thuong-quan-k14953.html',
+      'https://terebess.hu/zen/mesterek/WufengChangguan.html',
+    ],
   },
   {
     id: '37.4.21',

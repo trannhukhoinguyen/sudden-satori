@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Một hôm, ngài Trường Sa [^1] đi chơi núi. Lúc trở về đến cổng vị thủ tòa hỏi, “Hòa thượng đi đâu về thế?”
 >
@@ -30,7 +30,7 @@ tags:
 >
 > Tuyết Đậu bình rằng, “Cám ơn đã trả lời.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trường Sa Lộc Uyển Chiêu Hiền Đại Sư vốn là truyền thừa của Nam Tuyền, và là người đồng thời với Triệu Châu và Tử Hồ.
 
@@ -78,7 +78,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Ôi!
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Thử phân biện đen trắng xem công án này giống hay khác với công án sau đây:
 

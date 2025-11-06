@@ -19,7 +19,7 @@ Nếu như có nạp tăng nào bước ra nói, “trước mắt là Phật đ
 
 Thử nói xem, người ấy có mắt hay không? Nếu như các ông phân biện được người ấy, tôi công nhận rằng các ông đã thân cận được với cổ nhân rồi đấy.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Duy Nam Cật hỏi Văn Thù Sư Lợi, “Thế nào là Bồ Tát nhập nhị pháp môn?” 
 > 
@@ -29,7 +29,7 @@ Thử nói xem, người ấy có mắt hay không? Nếu như các ông phân b
 
 Tuyết Đậu nói, “Duy Ma Cật nói gì vậy?” Lại nói, “Khám phá ra rồi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Duy Ma Cật khiến các đại Bồ Tát mọi người nói về bất nhị pháp môn. Lúc ấy ba mươi hai vị Bồ Tát đều lấy nhị kiến hữu vi và vô vi, chân đế và nhị đế, họp lại thành một kiến và xem đó là bất nhị pháp môn. Cuối cùng Duy Ma Cật hỏi Văn Thù. Văn Thù nói,” Theo ý tôi thì ở nơi tất cả các pháp vô ngôn vô thuyết, vô thị vô thức, ly ngôn vấn đáp, đó chính là bất nhị pháp môn. ”Bởi vì ba mươi hai vị Bồ tát kia dùng ngôn ngữ để phủ nhận ngôn ngữ, Văn Thù mới lấy vô ngôn để phủ nhận ngôn ngữ. Một lúc quét sạch tất cả, không chấp nhận bất cứ gì, vì giải thích đó là bất nhị pháp môn. Đâu có dè rằng đó cũng giống như con rùa thiêng kéo lê cái đuôi để quét bụi, tuy quét sạch bụi song vẫn để lại dấu tích. Giống như cái chổi quét sạch bụi, song lại để lại vết chổi.
 
@@ -63,7 +63,7 @@ Tuyết Đậu đương nhiên là người dám xả bỏ tính mạng, cho nê
 >
 > Kim mao sư tử không chỗ tìm.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu nói, “Hét lão Duy Ma này.” Tại sao lại mở đầu bằng cách hét Duy Ma như thế? Tuyết Đậu từ đầu đã dùng ngay Kim Cương Vương Bảo Kiếm cắt đứt. Duy Ma cần phải bị đánh ba ngàn gậy buổi sáng, tám trăm gậy buổi chiều. Chử Phạn Duy Ma Cật (Vimalakìrti) dịch ra tiếng Trung Hoa là “Vô Cấu Xưng,” hay là “Tịnh Danh.” Cũng còn được gọi là Kim Túc Như Lai của thời quá khứ. Há không nghe có ông tăng hỏi Vân Cư Giản Hòa Thượng, “Đã là Kim Túc Như Lai,tại sao lại còn phải nghe Pháp trong hội của Thích Ca Như Lai?” Giản Hòa Thượng nói,”Bởi vì Duy Ma không tranh nhân ngã. Bậc đạo giải thoát không câu nệ việc ‘thành Phật” với lại không thành Phật.” Nếu như bảo rằng người ấy tu hành để cố gắng thành Phật thì lại càng chẳng có gì nhằm nhò cả.” Kinh Viên Giác nói, “ Lấy tâm luân hồi sinh kiến chấp luân hồi để mà vào biển lớn tịch diệt của Như Lai thì mãi mãi chẳng bao giờ được.”
 

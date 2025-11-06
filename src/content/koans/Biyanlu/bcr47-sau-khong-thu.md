@@ -16,13 +16,13 @@ Trời nói gì đâu? Bốn mùa lưu chuyển. Đất nói gì đâu? Vạn v�
 
 Song thử nói xem, phải ở đâu mới thấy được nạp tăng? Lìa khỏi ngôn ngữ hành động, đi đứng nằm ngồi, bóp chặt yết hầu miệng lưỡi, có thể phân biện được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Vân Môn [^1], “Pháp thân là gì?”
 >
 > Vân Môn nói, “Sáu không thu.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vân Môn nói, “ Sáu không thu,” quả thực khó hiểu hết sức. Dù cho có hiểu được nó trước khi có điểm triệu khởi lên, cũng vẫn cứ là việc thứ nhì.
 
@@ -86,7 +86,7 @@ Tuyết Đậu tụng rằng:
 >
 > Đêm đến về nghỉ nơi Nhũ Phong.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu khéo để lộ nhãn mục nơi không có kẻ hở. Tung lên cho thiên hạ thấy. Vân Môn nói, “Sáu không thu.” Tại sao Tuyết Đậu lại nói, “Một hai ba bốn năm sáu.” Cho đến nỗi Bích Nhãn Hồ Tăng (Bồ Đề Đạt Ma) cũng không đếm đến đó nỗi. Cho nên mới có câu nói, “Chỉ cho lão hồ biết, không cho lão hồ hiểu.” Phải là con cháu trong nhà họ mới có thể hiểu được. Vừa rồi mới nói rằng,” Vân Môn một lời một câu hợp với thời tiết.” Chỉ khi nào các ông hiểu thấu rồi, các ông mới nhận ra được rằng đạo không vốn ở nơi ngôn cú. Nếu như chưa được như thế, khó mà không đưa ra các kiến giải tri thức.
 

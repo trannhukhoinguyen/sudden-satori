@@ -18,11 +18,11 @@ Sấm sét trên không, bịt tai vô ích. Trên đầu óc phất cờ đỏ,
 
 Nếu không phải mắt biện tay rờ,làm sao có thể nắm được? Có một số người cúi đầu tư lương, dùng ý căn mà ức đạc. Đâu có biết rằng trước đầu mình thấy quỉ vô số. Thử nói xem, không rơi vào ý căn, không ôm giữ đắc thất, hốt nhiên có người nêu lên như thế để giúp các ông giác ngộ, các ông phải đối đáp như thế nào? Thử nêu lên xem
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Bàn Sơn [^1] dạy rằng, **Tam giới vô pháp, hà xứ cầu tâm?** [^14]
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Bàn Sơn Bảo Tích Hòa Thượng người U Châu thuộc miền bắc vốn là bậc tôn túc trong dòng của Mã Tổ.Sau đó có đào tạo ra được một người truyền thừa là Phổ Hóa.
 
@@ -65,19 +65,22 @@ Tam giới vô pháp, cầu tâm ở đâu? Nếu như toàn hiểu bằng kiế
 
 Chỗ thấy của Tuyết Đậu sâu xa hết sức, cho nên thầy ta mới tụng rằng:
 
-> Tam giới vô pháp,
->
-> Hà xứ cầu tâm?
->
-> Mây trắng là dù,
->
-> Suối chẩy là đàn.
->
-> Một khúc hai khúc không người hiểu,
->
-> Mưa tạnh hồ đêm nước thu sâu.
+<blockquote>  
 
-## BÌNH
+Tam giới vô pháp,
+
+Hà xứ cầu tâm?
+
+Mây trắng là dù,
+
+Suối chẩy là đàn.
+
+Một khúc hai khúc không người hiểu,
+
+Mưa tạnh hồ đêm nước thu sâu.
+</blockquote>
+
+## BÌNH XƯỚNG
 
 “Tam giới vô pháp, hà xứ cầu tâm?” Tuyết Đậu tụng giống như Hoa Nghiêm Cảnh Giới.
 
@@ -87,13 +90,16 @@ Tuyết Đậu đến bên cạnh (Bàn Sơn) mà nói thêm hai câu rằng, �
 
 Lúc Tô Đông Pha gặp Chiêu Giác có làm bài tụng rằng,
 
-> Tiếng suối chính là lưỡi rộng dài
->
-> Mầu núi phải chăng Thanh Tịnh Thân?
->
-> Đêm đến tám vạn bốn ngàn kế
->
-> Sau này làm sao nói cho người?
+<blockquote>  
+
+Tiếng suối chính là lưỡi rộng dài
+
+Mầu núi phải chăng Thanh Tịnh Thân?
+
+Đêm đến tám vạn bốn ngàn kế
+
+Sau này làm sao nói cho người?
+</blockquote> 
 
 Tuyết Đậu mượn suối chảy làm cái lưỡi dài, cho nên mới nói rằng, “Một khúc hai khúc không người hiểu.” Há không nghe Cửu Phong Xư Hòa Thượng nói, “
 
@@ -101,7 +107,7 @@ Có biết mệnh không? Suối chảy là mệnh, trạm tịch là thân. Ng�
 
 Khúc điệu này, phải là bậc tri âm mới lãnh hội nổi. Nếu như các ông không phải là người ấy, lắng tai nghe cũng vô ích mà thôi.
 
-Cổ nhân nói, “ Người điếc cũng hát được khúc Hồ[15], hay dở cao thấp chẳng nghe ra.”
+Cổ nhân nói, “ Người điếc cũng hát được khúc Hồ [^15], hay dở cao thấp chẳng nghe ra.”
 
 Vân Môn nói, “ Lúc công án được nêu lên mà các ông không lưu tâm, rồi các ông lại toan tư lương thì đến kiếp nào mới ngộ được?”
 
@@ -131,6 +137,8 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-ban-son-bao-tich/" target="_blank">🔗 TS BÀN SƠN BẢO TÍCH</a>
+[^1]: ⭐️ <a href="/masters/Panshan-Baoji" target="_blank">🔗 TS BÀN SƠN BẢO TÍCH</a>
 
 [^14]: ⭐️
+
+[^15]: ⭐️

@@ -7706,7 +7706,7 @@ của Vân Sơn vốn có chứa đau
 
 các tổ thiên đồng tụng rằng cây ngã dây
 
-khô hội Qui Sơn khá hạn cười to há chẳng
+khô hội Quy Sơn khá hạn cười to há chẳng
 
 mạnh trong cười có đau nhìn thấy được
 

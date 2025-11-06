@@ -93,7 +93,7 @@ Lâm Tuyền nói: Không thấy mới là thật thấy. Ai có thể đạt đ
 Người mù thêu đôi phụng,
 Bay lượn giữa trời xanh.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -107,6 +107,7 @@ Bay lượn giữa trời xanh.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

@@ -23,7 +23,7 @@ Thử nói xem là đen hay trắng? Cong hay thẳng?
 
 Đến chỗ này, phải phân biện như thế nào?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Văn Thù [^1] hỏi Vô Trước, “_Thầy mới từ đâu đến vậy?_”
 >
@@ -45,7 +45,7 @@ Thử nói xem là đen hay trắng? Cong hay thẳng?
 >
 > Ngài Văn Thù nói, “_Tiền tam tam, hậu tam tam_” [^11]
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vô Trước viếng Ngũ Đài Sơn, đến một chỗ hoang vu giữa đường.
 
@@ -123,7 +123,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Tiền tam tam với hậu tam tam.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Ngàn đỉnh chập chùng mầu xanh lơ, ai bảo Văn Thù cùng đối đàm?”
 

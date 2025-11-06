@@ -16,12 +16,13 @@ image: /images/koans/great-wave.webp
 > Nếu như hốt nhiên có người bước ra nói, “Suốt cả mùa hè mãi hỏi chỉ thị, tại sao lại chẳng từng nói?” Đợi khi nào ông ngộ rồi tôi sẽ nói cho ông.
 > Thử nói xem, đây là kỳ giáp mặt hay là có chỗ ưu điểm nào khác? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
-> Có ông tăng hỏi Ba Lăng [^1], “_Kiếm sắc là gì_?”
-> Ba Lăng nói, “_Từng nhánh san hô chống đỡ mặt trăng_”
+Có ông tăng hỏi Ba Lăng [^1], “**Kiếm sắc là gì?**”
 
-## BÌNH
+Ba Lăng nói, “**Từng nhánh san hô chống đỡ mặt trăng**”
+
+## BÌNH XƯỚNG
 
 Ba Lăng không động can qua, song trong bốn biển năm hồ lưỡi của biết bao nhiêu người bị rụng! Vân Môn tiếp thiên hạ chính bằng cách ấy.
 
@@ -77,7 +78,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Từng nhánh san hô chống mặt trăng
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “_Bình cái bất bình, khéo quá tựa vụng_”
 

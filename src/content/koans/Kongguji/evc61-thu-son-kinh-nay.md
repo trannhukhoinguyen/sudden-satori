@@ -107,7 +107,7 @@ Biết tung tích kinh này chăng? Ngài lấy phất tử đánh vào giườn
 – Thôi được rồi!
 
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -121,6 +121,7 @@ Biết tung tích kinh này chăng? Ngài lấy phất tử đánh vào giườn
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

@@ -17,7 +17,7 @@ Cầm chắc thế giới không hở chút nào, khiến cho tất cả mọi n
 
 Điểm sắt thành vàng điểm càng thành sắt, bỗng nắm bỗng buông, đó chính là cây gậy của nạp tăng. Làm líu lưỡi tất cả người trong thiên hạ cho đền nỗi họ không có chỗ mà thở ra, phải lùi lại ba ngàn dặm. Đó chính là khí chất của nạp tăng. Thử nói xem, nếu không như thế này thì rốt cuộc là người như thế nào? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng đến nơi của Đồng Phong Am Chủ rồi hỏi, “Ở chỗ này nếu hốt nhiên gặp cọp thì phải làm như thế nào?” 
 > 
@@ -27,7 +27,7 @@ Cầm chắc thế giới không hở chút nào, khiến cho tất cả mọi n
 >
 > Tuyết Đậu nói, “Kể ra thì cũng được, song hai tên ác tặc này chỉ biết bịt tai để ăn trộm chuông mà thôi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Từ tông phái Đại Hùng (của Bách Trượng Hoài Sản) sản xuất ra được bốn vị am chủ: Đại Mai, Bạch Vân, Hồ Khe và Đồng Phong.
 
@@ -63,7 +63,7 @@ Cuối cùng Tuyết Đậu cũng chỉ tụng ra như thế. Thử nói xem, r�
 >
 > Nắm đuôi cọp hề vuốt râu cọp.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Thầy mà không nắm, ngàn dặm suy nghĩ.” Chính vào lúc nguy hiểm ông tăng kia lại không sử dụng được. Lúc Đồng Phong nói, “ Thế ông làm gì được lão tăng nào?” Lẽ ra ông tăng phải trả miếng. Lúc ấy nếu như ông ta trổ được tài nghệ của mình ra, hẳn ông ta đã có lời cuối cùng. Hai người chỉ biết buông bỏ mà không biết thu vào. “Thấy mà không nắm” thì nó đã mây trắng ngoài ngàn dặm rồi. Tại sao còn phải nói “ngàn dặm suy nghĩ”?
 
@@ -71,7 +71,7 @@ Cuối cùng Tuyết Đậu cũng chỉ tụng ra như thế. Thử nói xem, r�
 
 “Há không thấy Đại Hùng sơn hạ hốt tương phùng? Âm thanh ánh sáng rung trời đất.” Một hôm Bách Trượng hỏi Hoàn Bá, “Từ đâu tới?” Hoàng Bá nói, “Đi hái nấm từ dưới núi tới.” Bách Trượng nói, “Có thấy cọp không?” Hoàng Bá bèn gầm lên như cọp. Bách Trượng bèn rút búa ở bên hông ra làm thế như thể đang chém. Hoàng Bá nắm chặt lấy roi đánh Bách Trượng. Chiều đến Bách Trượng thượng đường nói, “ Dưới núi Đại Hùng có một con cọp, các ông ra vào phải nên nhìn kỹ. Hôm nay chính lão tăng vừa bị nó cắn cho một miếng.”
 
-Sau đó Qui Sơn hỏi Ngưỡng Sơn, “Câu chuyện cọp của Hoàng Bá có nghĩa là gì?” Ngưỡng Sơn nói, “Thế tôn ý của hòa thượng thì như thế nào?” Ngưỡng Sơn nói, “Lúc ấy lẽ ra Bách Trượng phải chém một búa cho rồi, thì đâu có đến nỗi như bây giờ?” Ngưỡng Sơn nói, “Không phải như thế.” Qui Sơn nói, “Thế thầy nghĩ sao?” Ngưỡng Sơn nói, “Không những thầy ta cưỡi đầu cọp mà còn biết nắm đuôi cọp.” Qui Sơn nói, “Huệ Tịch quả thật có rất nhiều câu vời vợi quá.” Tuyết Đậu dẫn dụng để giải minh công án trên kia.
+Sau đó Quy Sơn hỏi Ngưỡng Sơn, “Câu chuyện cọp của Hoàng Bá có nghĩa là gì?” Ngưỡng Sơn nói, “Thế tôn ý của hòa thượng thì như thế nào?” Ngưỡng Sơn nói, “Lúc ấy lẽ ra Bách Trượng phải chém một búa cho rồi, thì đâu có đến nỗi như bây giờ?” Ngưỡng Sơn nói, “Không phải như thế.” Quy Sơn nói, “Thế thầy nghĩ sao?” Ngưỡng Sơn nói, “Không những thầy ta cưỡi đầu cọp mà còn biết nắm đuôi cọp.” Quy Sơn nói, “Huệ Tịch quả thật có rất nhiều câu vời vợi quá.” Tuyết Đậu dẫn dụng để giải minh công án trên kia.
 
 “Âm thanh ánh sáng rung trời đất.” Cái này chuyển biến tự tại. Tuyết Đậu muốn trong câu có con đường xuất thân. “Đại trượng phu có thấy hay không?” Các ông có thấy không? “Nắm đuôi cọp hề vuốt râu cọp.” Cần phải là phận sự của riêng mìn. Dù cho các ông có nắm đuôi cọp vuốt râu cọp, cũng khó tránh khỏi một lúc bị xỏ lỗ mũi.
 

@@ -19,7 +19,7 @@ Quán nó nơi chỗ thấp thì có thừa, bình nó nơi chỗ cao thì khôn
 
 Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Đan Hà hỏi một ông tăng, “Từ đâu tới?” Ông tăng nói, “Từ dưới chân núi” 
 > 
@@ -35,7 +35,7 @@ Thử nêu lên xem.
 > 
 > Bảo Phúc nói, “Chẳng lẽ tôi mù sao?”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Đăng Châu Đan Hà Thiên Nhiên thiền sư không biết là người gốc ở đâu. Thoạt đầu chuyên về Nho học, trên đường vào Trường An để ứng thí. Lúc nghĩ đêm ở khách điếm nằm mơ thấy ánh sáng trắng tràn đầy cả phòng. Có vị tầy bói nói rằng, “Đây là điềm lành của việc không hiểu tính không.” Ngẫu nhiên có một Thiền Khách hỏi, “Bậc nhân giả này chẳng hay đi đâu thế?” Đan Hà nói, “Đi thi để ra làm quan.” Thiền khách nói, “ Thi làm quan sao bằng thi làm Phật được?” Đan Hà hỏi, “Muốn thi làm Phật phải đi đâu cơ?” Thiền khách nói, “Giang Tây Mã Đại Sư xuất thế, đó chính là nơi để thi làm Phật, người nhân nên đến đó đi.”
 
@@ -69,7 +69,7 @@ Tuyết Đậu cũng dùng ý này để tụng:
 >
 > hiên thượng nhân gian chìm dưới dất.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Hết cơ không thành mù.” Trường Khánh nói, “Nếu như họ vận dụng hết tâm cơ ra thì có còn mù chăng?” 
 

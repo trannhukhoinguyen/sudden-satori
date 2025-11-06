@@ -20,13 +20,13 @@ Thử nói xem, trực tiếp đương đầu với cơ duyên, thuận nghịch
 
 Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Vân Môn [^1], “_Trần trần tam muội là gì?_” [^8]
 >
 > Ngài Vân Môn nói, “_Cơm trong bát, nước trong thùng_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Các ông có thể định được công án này chăng? Nếu được thì lỗ mũi của Vân Môn nằm trong tay các ông. Nếu không được thì lỗ mũi các ông nằm trong tay của Vân Môn. Vân Môn có câu chặt đinh cắt sắt, trong một câu này có đủ cả ba câu. Có người bị hỏi về công án này bèn nói. “Cơm trong bát, mỗi hạt đều tròn. Nước trong thùng, mỗi giọt đều ướt.” Nếu như các ông hiểu như thế, các ông không hiểu được chỗ vì người của Vân Môn.
 
@@ -48,7 +48,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 > Đều là con trưởng giả không khố.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trong bài tụng về “một lời đúng” của Vân Môn (Tắc 14) Tuyết Đậu nói, “Một lời đúng, quá siêu tuyệt! Đóng chốt vào tấm sắt không lỗ.”
 

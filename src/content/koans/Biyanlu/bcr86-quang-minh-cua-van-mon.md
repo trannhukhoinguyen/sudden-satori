@@ -17,7 +17,7 @@ Cắt đứt các dòng, không còn một giọt.
 Mở miệng là sai, so đo là trái. Thử nói xem, thế nào là con mắt nhìn thấu quan? 
 Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Vân Môn có lời dạy rằng, “Mọi người ai cũng có quang minh cả. Lúc nhìn thì không thấy gì mà chỉ thấy tối om om. Thế nào là cái quang minh trong mọi người?” 
 > 
@@ -25,7 +25,7 @@ Thử nêu lên xem.
 > 
 > Lại nói, “Việc tốt không bằng không”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trong phòng của mình Vân Môn có lời dạy để tiếp thiên hạ rằng, “Tất cả mọi người trong các ông đang đứng ngay đây, ai cũng có một ánh sáng rực rỡ xưa nay chưa từng dứt, vượt lên trên tri kiến. Tuy là qung minh, song lúc bị hỏi thì lại không hiểu. Như thế há không phải là tối o mom sao?” Dạy như thế suốt hai mươi năm mà chẳng có ai hiểu.
 
@@ -67,7 +67,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Cưỡi trâu ngược hề vào Phật điện.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Tự chiếu sáng một mình.” Từ ngay dưới chân chỗ các ông đứng vốn đã có ánh quang minh này; chỉ có điều cái dụng bình thường của các ông là tối mà thôi. Cho nên Vân Môn Đại Sư mới trải ánh sáng ra ngay trước mặt các ông. Song thử nói xem, cái quang minh của các ông là gì? “ Nhà bếp và cổng tam quan.” Đó chính là chỗ mà Vân Môn phô bầy cái quang minh cô độc này ra. Bàn Sơn nói, “Ánh trăng của tâm thì tròn và đơn độc, quang minh của nó nuốt trọn vạn tượng.” Đây đúng là chân thường độc lộ.
 

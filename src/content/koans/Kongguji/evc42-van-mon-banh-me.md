@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Mỗi lời thấy chân để. Chày giã gạo đêm nở hoa. Từng câu Tông siêu việt. 
 Cối say mùa thu kết trái. Chẳng có liên quan gì nhau, làm sao thế hội lời này?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

@@ -15,7 +15,7 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Nam Tuyền [^1] lại nêu câu chuyện trên ra để hỏi ngài Triệu Châu [^2].
 >
@@ -23,7 +23,7 @@ tags:
 >
 > Ngài Nam Tuyền nói, “Nếu như có ông ở đây, hẳn ông đã cứu được mèo rồi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Triệu Châu đúng là người thừa của Nam Tuyền. Nam Tuyề vừa nói đầu Triệu Châu đã hiểu đuôi, vừa nêu lên đã biết chỗ cốt yếu. Buổi tối Nam Tuyền lại nêu câu chuynệ trên ra để hỏi Triệu Châu. Triệu Châu là tay chuyên gia lão luyện, bèn cởi giầy cỏ ra đội lên đầu rồi bỏ đi. Nam Tuyền nói, “Nếu như có ông ở đó, hẳn ông đã cứu được mèo rồi.” Song thử nói xem, có phải là thật sự như vậy không? Nam Tuyền nói, “Nếu như các ông nói được thì tôi không chém.” Như đá lửa điện chớp. Triệu Châu bèn cởi giầy cỏ đội lên đầu rồi bỏ đi. Thầy tat ham câu sống chứ không tham câu chết. Ngày ngày đổi mới, lúc lúc đổi mới, ngay cả ngàn bậc thánh cũng chẳng di dịch được một tơ hào. Các ông phải vận dụng tất cả gia bảo của nhà mình ra, mới thấy được cái đại cơ đại dụng của thầy ta.Triệu Châu nói, “Ta là Pháp vương, tự tại nơi pháp.”
 
@@ -43,7 +43,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Về đến núi nhà bèn nghỉ ngơi.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Công án viên mãn hỏi Triệu Châu.” Khánh Tàng Chủ nói, “Giống như thể một người quyết định công án, tám gậy là tám gậy, mười ba gậy là mười ba gậy. (Nam Tuyền) kể như đã phán đoán xong xuôi rồi. Song lại vẫn nêu lên hỏi Triệu Châu.”
 

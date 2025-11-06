@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Ngưng hết muôn cơ, đều giao cho ngu si. Ngàn thánh không dẫn dắt chỉ ngại tổ điểm thêm. Vậy thì có Thiền Tăng nào nấu không chín, hầm không nhừ chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

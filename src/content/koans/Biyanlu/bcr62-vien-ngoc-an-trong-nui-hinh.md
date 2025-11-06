@@ -15,13 +15,13 @@ tags:
 > Bằng vào vô sư trí phát vô tác diệu dụng; bằng vào vô duyên từ [^2] làm thiện hữu vô điều kiện.
 > Ở trong một câu, có sát có hoạt; Ở trong một cơ, có buông có nắm. Thử nói xem, có ai từng được như thế. Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 Vân Môn [^1] dạy chúng rằng, bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình [^3].
 
 Cầm đèn giấy đi vào Phật điện, đem tam môn đến đặt trên đèn.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vân Môn nói, “Bên trong trời đất, ở giữa vũ trụ, có một viên ngọc, ẩn trong núi hình.” Thử nói xem, ý của Vân Môn là ở đầu cần câu hay ở trên đèn giấy? Đây là những lời dựa theo lời của Triệu Pháp Sư[3] trong Bảo Tàng Luận. Vân Môn dẫn ra để dạy chúng. Vào thời hậu Tấn Tăng Triệu ở trong vườn Diêu Tần viết luận. Lúc chép Kinh Duy Ma[4] Tăng Triệu mới biết rằng cái học của Lão Trang chưa tát cạn được cái vi diệu. Tăng Triệu mới lậy ngày La Thập làm thầy. Lại cùng tham học luôn cả với Bạt Đà Bà La (Buddhabhadra) Bồ Tát ở chùa Ngõa Quan, đem tâm ấn của tổ thứ hai mươi bảy từ Tây Trúc qua. Tăng Triệu đạt được chỗ hiểu thâm sâu. Một hôm Tăng Triệu gặp nạn, lúc sắp sửa bị hành hình, xin được hoãn bảy ngày để viết bộ Bảo Tàng Luận.
 
@@ -53,7 +53,7 @@ Tuyết Đậu tụng rằng:
 >
 > Hoa lau dưới trăng, hãy tự nhìn.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu hiểu được lời của Vân Môn, các ông mới thấy được chỗ vì người của Tuyết Đậu.
 

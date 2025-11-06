@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Bách Trượng [^1], Thế nào là sự việc kỳ đặc?”
 >
@@ -22,7 +22,7 @@ image: /images/koans/great-wave.webp
 >
 > Ông tăng lễ lậy, Bách Trượng bèn đánh.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Gặp cơ duyên có đủ mắt nhìn, chẳng màng nguy vong.
 
@@ -58,7 +58,7 @@ Song thử nói xem, lúc buông bỏ thì như thế nào? Thử xem tụng c�
 >
 > Nực cười người đến vuốt râu hùm.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu nhìn thấu được cho nên mới tụng ra. Thiên mã câu mỗi ngày đi nag2n dặm, chạy ngang chạy dọc bôn trì như bay cho nên mới gọi là thiên mã câu. Tuyết Đậu tụng Bách Trượng trong tổ vực chạy từ đông sang tây, từ tây sang đông, lúc đi lúc về, tung hoành ngang dọc không chút trở ngại, giống như thể thiên mã câu. Khéo bay nhảy, cho nên mới thấy được chỗ tự do. Đó là nhờ thầy ta đắc được đại cơ đại dụng từ Mã Tổ.
 

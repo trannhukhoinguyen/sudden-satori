@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 > Hứa Do rửa tai, Sào Phủ dắt trâu tránh, xóa dấu thành vết tích, muốn ẩn thì càng lộ. 
 > Từ đây trở thành công án, chẳng cần tìm hiểu nguyên nhân, suy nghĩ chẳng liên quan. Thử quyết đoán xem?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

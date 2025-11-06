@@ -17,13 +17,13 @@ Thấy thỏ thả ưng, nhanh nhẹn trong một lúc. Gom tất cả ngôn ng�
 
 Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Thế Tôn một hôm thăng tòa. Văn Thù đánh trùy nói, “Quan sát cho kỹ Pháp của bậc Pháp Vương, Pháp của bậc Pháp Vương là như vầy đây” 
 > 
 > Thế Tôn bèn xuống khỏi tòa.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trước khi đức Thế Tôn niêm hoa đã có ẩn ý này rồi.Kể từ lúc khởi đầu ở vườn Lộc Uyển cho đến lúc kết thúc ở sông Bạt đề, đức Thế Tôn đã sử dụng Kim Cương Vương Bảo Kiếm bao nhiêu lần? Lúc ấy nếu như có người nào có khí tức của bậc nạp tăng có thể siêu việt được, hẳn đã tránh được cái màn niêm hoa loạn xạ lúc cuối cùng kia. Lúc Thế Tôn đang im lặng, bị Văn Thù dồn cho bèn phải xuống khỏi tòa. Lúc ấy vẫn cứ có cái ẫn ý này. Thích Ca đóng cửa, Tịnh Danh (Duy Ma Cật) ngậm miệng đều giống như vậy, cho nên điều ấy đã được giải thích rồi. Cũng giống như việc Túc Tông hỏi Trung Quốc Sư về việc xây một ngôi tháp không đường nối, lại cũng giồng như ngoại đạo hỏi Phật rằng, “Không hỏi hữu ngôn, không hỏi vô ngôn.” Nhìn xem hành trang của những người hướng thượng, họ đã từng bao giờ vào hang ma mà sống đâu? Có người nói ý nghĩa nằm trong sự mặc nhiên, có người nói ý nghĩa nằm trong khoảng im lặng, lời nói minh giải việc không thể nói được, vô ngôn minh giải việc có thể nói được.
 
@@ -41,7 +41,7 @@ Cuối cùng, nhìn xem Tuyết Đậu thấy và tụng ra:
 >
 > Văn Thù hà tất đánh một trùy?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Chuyên gia nếu biết trong rừng thánh.” Bát vạn đại chúng trên Linh Sơn đều là các bậc thánh: Văn Thù, Phổ Hiền cho đến Di Lặc, chủ bạn đồng hội. 
 

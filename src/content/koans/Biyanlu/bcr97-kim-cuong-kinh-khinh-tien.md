@@ -17,11 +17,11 @@ Dù được trời đất đột biến, bốn phương tuyệt xướng, sấm
 
 Còn có ai biết xoay thiên quan chuyển địa trục chăng? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Kinh Kim Cương nói, “Nếu một người bị kẻ khác khinh rẻ, người ấy kiếp trước có tội chướng đáng bị đọa vào ác đạo, song vì kiếp này bị khinh rẻ, tội nghiệp kiếp trước bèn được tiêu trừ.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Kinh Kim Cương nói, “Nếu một người bị kẻ khác khinh rẻ, người ấy kiếp trước có tội chướng đáng bị đọa vào ác đạo , song vì kiếp này bị khinh rẻ, tội nghiệp kiếp trước bèn được tiêu trừ.” Theo lời giải thích bình thường thì đây là đề tài thường luận trong Kinh. Tuyết Đậu nêu lên để tụng ý nghĩa của đoạn kinh này, vì muốn đả phá lối giải thích lầm lạc của các nhà giáo tông. Chiêu Minh Thái Tử [1]nêu đoạn này lên cho rằng nó có công hiệu tiêu trừ nghiệp chướng.
 
@@ -93,7 +93,7 @@ Tuyết Đậu tụng để giải minh cái linh nghiệm của kinh:
 >
 > Lại nói, “Khám phá ra rồi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Ngọc sáng trong tay, có công được thưởng.” Nếu như có người trì kinh này một cách công nghiệm, ắt sẽ được thưởng viên ngọc. Người ấy được ngọc này, tự nhiên sẽ biết sử dụng. Hồ đến Hồ hiện, Hán đến Hán hiện, vạn tượng sâm la, tung hoành hiển hiện. Đó chính là có công huân. Pháp Nhãn nói, “Chứng được Phật địa mới gọi là trì kinh.” Hai câu đó là tụng hết công án rồi.
 

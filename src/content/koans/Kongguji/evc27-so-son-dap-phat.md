@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 Giống như cầu xin người khác, không bằng nương tựa chính mình. 
 Có ai nhận được điều này chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

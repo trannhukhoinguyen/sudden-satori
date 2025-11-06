@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 
 Toàn thân là mắt cũng chẳng thấy. Toàn thân là tai nghe chẳng được. Toàn thân là miệng nói không được. Toàn thân là tâm chiếu không được. Tạm gác qua vấn đề “toàn thân” nếu như hốt nhiên không có mắt, làm sao các ông thấy được đây? Không có tai làm sao nghe được đây? Không có miệng , làm sao nói được đây? Không có tâm, làm sao chiếu được đây? Nếu như ở đây mà các ông có thể khai mở ra được một con đường, các ông có thể đồng tham học với các cổ Phật. Tạm gác vấn đề “ tham học” qua một bên, các ông tham học với ai đây?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Vân Nham hỏi Đạo Ngô, “Từ Bi Bồ Tát dùng nhiều mắt và tay như thế để làm gì?” 
 > 
@@ -33,7 +33,7 @@ Toàn thân là mắt cũng chẳng thấy. Toàn thân là tai nghe chẳng đ�
 > 
 > Đạo Ngô nói, “Khắp thân là tay với mắt”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vân Nham và Đạo Ngô cùng tham học với Dược Sơn. Suốt bốn mươi năm Vân Nam chẳng bao giờ ngủ nằm. Tào Động tông chính là phát xuất từ Dược Sơn. Đạo Pháp thịnh hành từ ba người: Từ Vân Nham phát xuất ra Đông Sơn, từ Đạo Ngô phát xuất ra Thạch Sương, từ Thuyền Tử phát xuất ra Giáp Sơn. Đại Bi Bồ Tát (Quán Thế Âm) có tám vạn bốn ngàn cánh tay Đại Bi Bồ Tát có nhiều tay và mắt như thế. Các ông có chăng? Bách Trượng nói, “Tất cả ngữ ngôn văn tự đều uyển chuyển quay về nơi chính mình.”
 
@@ -75,7 +75,7 @@ Tuyết Đậu là bậc chuyên gia không còn chết trong ngôn ngữ nữa,
 >
 > Hét!
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Toàn thân đúng, khắp thân đúng.” Nói rằng đưa tay ra sau lưng mò gối là đúng, hay lấy tay rờ rẫm thân thể là đúng, nếu như có những kiến giải như thế, đều là vào hang ma mà sống cả. Rốt cuộc cả “toàn thân” lẫn “khắp thân” đều chẳng đúng. Nếu như các ông toan dùng tình thức để mà thấy ý nghĩa của lời nói vể Đại Bi Bồ Tát này, hẳng là các ông còn cách xa đến mười vạn dặm. Tuyết Đậu chơi được với một câu, cứu sống, nói rằng , “Niêm lên vẫn cách mười vạn dặm.”
 

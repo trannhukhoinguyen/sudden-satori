@@ -16,13 +16,13 @@ Muốn nói là nói, vô song trên đời. Muốn làm là làm, toàn cơ ch�
 
 Như đánh đá lửa, như ánh điện chớp. Gió táp lửa hực, thác lũ qua kiếm. Cầm kềm búa hướng thượng lên, khó tránh cùn nhụt líu lưỡi. Đề ra một con đường. Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Triệu Châu [^1], “Vạn pháp qui về một, một qui về đâu?”
 >
 > Triệu Châu nói, “Lúc ở Thanh Châu tôi có may một cái áo vải nặng bẩy cân.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu như “muốn đi là đi”, thì lập tức xỏ mũi tất cả các lão hòa thượng trong thiên hạ, chẳng ai làm gì được các ông. Lúc nước đến tự nhiên thành dòng. Nếu như các ông trù trừ, thì lão tăng ở dưới chân các ông Phật pháp vốn giản dị, không hề ở chỗ văn tự ngôn ngữ rườm rà. Có ông tăng hỏi Triệu Châu, “Vạn pháp qui về một, một qui về đâu?” Triệu Châu lại đáp, “Lúc ở Thanh Châu tôi có may một cái áo vải nặng bảy cân.” Nếu như các ông dựa vào ngôn ngữ mà phân biện, các ông nhận lầm điểm giữa cán cân. Nếu như không dựa vào ngôn ngữ mà phân biện, thì Triệu Châu nói như thế các ông làm được gì bây giờ? Công án này tuy khó thấy song dễ hiểu; tuy dễ hiểu song khó thấy. Khó như núi bạc tường sắt, dễ thì lập tức hiểu rõ. Không có chỗ để các ông cân nhắc thị phi. Cống án này giống như Phổ Hóa nói, “ Mai có trai hội trong Từ Bi Viện.”
 
@@ -44,7 +44,7 @@ Tuyết Đậu biết chỗ cốt yếu, cho nên mới làm tụng để giải
 >
 > Không mang gió mát, đem cho ai?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trong mười tám (cách đặt) câu hỏi, đây gọi là “câu hỏi gói trọn”. Tuyết Đậu nói, “Gói trọn sát lên mũi trùy cũ.”Gói trọn tất cả rồi đem nó qui về một. Ông tăng này muốn dồn Triệu Châu, song Triệu Châu quả thật là tay chuyên gia. Luôn luôn có con đường xuất thân ở những chỗ không thể nào xoay chuyển được. Dám mở cái miệng lớn, bèn nói, “ Lúc ở Thanh Châu tôi có may một có áo vải nặng bảy cân.” Tuyết Đậu nói, “ Cái áo bảy cân này có bao nhiêu người biết được?”
 

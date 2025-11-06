@@ -20,7 +20,7 @@ Thích hợp với giả dối không phù hợp chân thật.
 
 Uống công trả nợ khẩu nghiệp, đi thẳng vào chỗ ưa thích. Ai có thể nói được.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

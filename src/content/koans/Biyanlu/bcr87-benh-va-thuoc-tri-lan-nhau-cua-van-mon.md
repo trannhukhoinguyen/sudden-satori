@@ -22,11 +22,11 @@ Khi vạch ra một lối hướng thượng, ngay cả mắt Phật cũng khôn
 
 Dù cho ngàn thánh xuất hiện cũng cứ phải thối lui lại ba ngàn dặm. Còn có người đồng đắc đồng chứng không? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Vân Môn dạy chúng rằng, “Thuốc và bệnh trị lẫn nhau. Cả trời đất này là thuốc. Chính mình là gì?”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vân Môn nói, “Thuốc và bệnh trị lẫn nhau. Cả trời đất này là thuốc. Chính mình là gì?” Các ông còn có chỗ xuất thân chăng? Trong suốt hăm bốn giờ của MỘT NGÀY trầm tư về câu “sừng sững như vách đá vạn trượng.” Gậy của Đức Sơn rơi như mưa, tiếng hét của Lâm Tế vang tựa sấm, tạm gác những cái này qua một bên, Thích Ca tự là Thích Ca Di Lặc tự là Di Lặc. Những người chưa hiểu cốt yếu thường gọi đó là “thuốc và bệnh hợp nhau.” Đức Thế Tôn suốt bốn mươi chín năm trong hơn ba trăm chúng hội, đều tùy theo cơ duyên mà thiết lập giáo lý. Đây chính là tùy bệnh mà cho thuốc, đem quả ngọt mà đổi lấy trái bầu đắng. Đã rửa sạch nghiệp căn của các ông khiến các ông tự tại thánh thoát.
 
@@ -56,7 +56,7 @@ Khúc cuối Tuyết Đậu tụng một cách công phu nhất. Ý của thầy
 >
 > Mũi cao tận trời vẫn bị xỏ.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Cả trời đất là thuốc, cổ kim saolầm vậy?” Nếu như các ông gọi đó là thuốc thì tự cổ chí kim kể như các ông lầm lẫn cả rồi. Tuyết Đậu nói,” Có một loại người không biết cắt đứt gót chân của Đại Mai, chỉ nói rằng Đại Mai đi quá nhanh.” Tuyết Đậu biết cắt đứt gót chân của Đại Mai.
 

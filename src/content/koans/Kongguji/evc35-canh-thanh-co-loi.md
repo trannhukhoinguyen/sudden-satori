@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Ngang tài ngang sức, như đàn gặp tri âm. Đương nhiên xông thẳng vào cửa. 
 Hiểu rõ cách đàn nhịp điệu. Có người nào nghe tiếng đàn biết rõ điệu khúc, chẳng cần gõ nhịp chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

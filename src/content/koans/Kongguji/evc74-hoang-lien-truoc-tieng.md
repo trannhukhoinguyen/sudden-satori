@@ -38,7 +38,7 @@ Muốn đạt được nguồn kia nên dò tìm chỗ sâu thẳm ấy. Như s�
 Mặt trời lên khỏi núi còn ẩn hiện.
 Trăng tròn trước cửa còn khuyết đầy.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -52,6 +52,7 @@ Trăng tròn trước cửa còn khuyết đầy.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 ## BÌNH XƯỚNG

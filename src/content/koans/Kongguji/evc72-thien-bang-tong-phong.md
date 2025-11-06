@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Thấy sắc nghe tiếng đều là vọng, quên tình bỏ chấp chưa hẳn là chơn. Gần như khói u đầu sừng trán. Có nhận được hay chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

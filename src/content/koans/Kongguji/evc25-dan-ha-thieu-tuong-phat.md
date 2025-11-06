@@ -19,7 +19,7 @@ Khi nóng thì tìm mát chẳng có gì đặc biệt. Lúc lạnh tìm đến 
 Ở cõi tình phàm thánh đều quên, đâu cần luận bàn nhiều điều. 
 Có cớ gần mà họ không chịu, chỉ là chuốc họa vào thân chẳng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

@@ -10,7 +10,7 @@ tags:
 image: /images/koans/great-wave.webp
 ---
 
-## THÙY:
+## THÙY
 
 Trời đất hẹp; trăng sao tinh tú đồng thời tối ám.
 Dù cho là gậy giáng xuống như mưa sa, tiếng hét vang dội như sấm động, các ông vẫn chưa đảm đương được việc hướng thượng của tông môn.
@@ -21,7 +21,7 @@ Cả một kho giáo lý cũng không giải thích hết, các tăng sĩ thông
 Nói ra chữ “Phật” chẳng khác gì là lội trong nước bùn. Nói ra chữ “Thiền” cả mặt cũng là lúng túng.
 Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai nói, còn kẻ hậu học căn cơ thô thiển thì vẫn cần phải điều nghiên và hiểu thấu.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Triệu Châu [^1] dạy chúng nói, 
 
@@ -39,7 +39,7 @@ Ngài Triệu Châu nói “**Tôi cũng chẳng biết nữa**”.
 
 Ngài Triệu Châu nói, “**Hỏi về vấn đề là đủ rồi. Mau lạy rồi trở lui**” .
 
-## BÌNH:
+## BÌNH XƯỚNG
 
 Ngài Triệu Châu thường dẫn lời “**Đạo lớn không khó, miễn đừng so đo**” này.
 Đây vốn là từ bài Tín Tâm Minh” của Tam Tổ:
@@ -91,7 +91,7 @@ Người thời buổi này không hiểu, chỉ nói rằng Triệu Châu khôn
 
 Họ đâu có ngờ rằng sự việc lướt qua trước mặt họ mà họ không hay biết.
 
-## TỤNG: (Tuyết Đậu hòa thượng)
+## TỤNG (Tuyết Đậu hòa thượng)
 
 > Đạo lớn không khó
 >
@@ -113,7 +113,7 @@ Họ đâu có ngờ rằng sự việc lướt qua trước mặt họ mà họ
 >
 > So đo minh bạch bạn tự nhìn.
 
-## BÌNH:
+## BÌNH XƯỚNG
 
 Tuyết Đậu biết ý của Triệu Châu cho nên mới tụng rằng, “Đạo thật không khó”.
 

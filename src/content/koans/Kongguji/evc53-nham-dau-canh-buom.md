@@ -18,7 +18,7 @@ Thường ở bên bờ kia, chỉ muốn vượt hiểm nguy cắt đứt dòng
 
 Có ai ở chốn nước sâu thẳm thẳm buông câu thả mồi chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

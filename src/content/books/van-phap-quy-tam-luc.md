@@ -645,7 +645,7 @@ Lại nói: “A Nan! Nay các căn ông nếu nhổ xong xuôi rồi thì cái 
 
 ❓ Người căn tánh bậc thượng đốn tu như thế nào?
 
-📣 Hàng căn tánh bậc thượng, căn cơ bén nhạy đã huân tập hạt giống đạo từ trước. Khi một lời buông ra thì tâm địa người ấy liền mở suốt. Tuỳ trường hợp mà bảo nhiệm hầu trừ sạch dòng lưu thức. Niệm động chẳng tiếp tục, niệm không chẳng giữ, một tâm bình thản lặng lẽ tự hết. Lúc bấy giờ chạm mắt gặp duyên đều là diệu dụng. Ngài Qui Sơn nói: “Ông chỉ tâm không gá vật, thì vật nào có thể ngại ngươi”. Lại nói: “Mỗi niệm phan duyên, nhưng tâm tâm hằng tịnh. Viên dung khắp pháp giới, đốn chứng vô sanh”. Nếu như căn cơ ngu độn lại bày phương tiện để lần hồi trở về.
+📣 Hàng căn tánh bậc thượng, căn cơ bén nhạy đã huân tập hạt giống đạo từ trước. Khi một lời buông ra thì tâm địa người ấy liền mở suốt. Tuỳ trường hợp mà bảo nhiệm hầu trừ sạch dòng lưu thức. Niệm động chẳng tiếp tục, niệm không chẳng giữ, một tâm bình thản lặng lẽ tự hết. Lúc bấy giờ chạm mắt gặp duyên đều là diệu dụng. Ngài Quy Sơn nói: “Ông chỉ tâm không gá vật, thì vật nào có thể ngại ngươi”. Lại nói: “Mỗi niệm phan duyên, nhưng tâm tâm hằng tịnh. Viên dung khắp pháp giới, đốn chứng vô sanh”. Nếu như căn cơ ngu độn lại bày phương tiện để lần hồi trở về.
 
 ❓ Người đốn ngộ tiệm tu, nhơn đâu chứng đạo quá mau?
 
@@ -1591,13 +1591,13 @@ Gồm về hướng thượng.
 
 📣 Toàn thân hiện.
 
-4- TÔNG QUI NGƯỠNG
+4- TÔNG Quy Ngưỡng
 
-❓ Chủ trương Tông Qui Ngưỡng thế nào?
+❓ Chủ trương Tông Quy Ngưỡng thế nào?
 
 📣
 
-Qui ngưỡng gia phong
+Quy Ngưỡng gia phong
 Cơ dụng viên dung
 Thết trung nghiệm nhơn
 Cú năng hãm hổ.
@@ -1610,7 +1610,7 @@ Phụ tử hòa xướng
 
 DỊCH:
 
-Thói nhà Qui Ngưỡng
+Thói nhà Quy Ngưỡng
 Cơ dụng viên dung
 Trong thất nghiệm người
 Câu hay hãm hổ.
@@ -2076,7 +2076,7 @@ Nay thuật lời trong kinh Phật và lời của Tổ sư để ấn chứng 
 
 📃 Đại sư Phổ Ngạn nói: “Đại đạo rộng lớn, chỉ một chơn tâm. Thiện ác chớ nghĩ thần trong, vật hiện, lại có lo gì?”.
 
-📃 Hòa Thượng Qui Sơn nói: “Các pháp trong ngoài đều chẳng thật, từ tâm hóa sanh, tất cả đều giả danh. Mặc tình pháp tánh châu lưu (trôi khắp), chớ đoạn cũng chớ tiếp tục”.
+📃 Hòa Thượng Quy Sơn nói: “Các pháp trong ngoài đều chẳng thật, từ tâm hóa sanh, tất cả đều giả danh. Mặc tình pháp tánh châu lưu (trôi khắp), chớ đoạn cũng chớ tiếp tục”.
 
 📃 Hòa thượng Hoàng Bá nói: “Chỉ ngộ nhứt tâm lại không một pháp nhỏ có thể được. Đây tứ là chơn Phật. Phật cùng chúng sanh một tâm không khác. Chẳng bằng ngay nơi lời tự nhận giữ cái bổn pháp. Pháp nầy tức là tâm, ngoài tâm không pháp. Tâm nầy tức là pháp, ngoài pháp không tâm”.
 

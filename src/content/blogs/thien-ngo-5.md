@@ -461,7 +461,7 @@ Thạch thất Thiền đạo mắng ông ta: “Bồ tát Văn Thù nói, cha m
 
 Thiền đâu có đến nhiều hư huyễn như thế? Tâm bình thường là đạo. Sự huyền áo, kỳ ảo, thần diệu không có duyên với thiền:
 
-Tổ sư Qui Sơn Linh Hựu người khai sáng tông Qui Ngưỡng nghe nói Thiền sư Thạch Thất Thiện Đạo công hạnh thâm sâu, thiền cơ sắc bén, kiến thức hơn người, bèn phái đệ tử đắc ý của mình là Ngưỡng Sơn Huệ Tịch đến khảo nghiệm. Ngưỡng sơn hỏi: “Thế nào là Phật?”
+Tổ sư Quy Sơn Linh Hựu người khai sáng tông Quy Ngưỡng nghe nói Thiền sư Thạch Thất Thiện Đạo công hạnh thâm sâu, thiền cơ sắc bén, kiến thức hơn người, bèn phái đệ tử đắc ý của mình là Ngưỡng Sơn Huệ Tịch đến khảo nghiệm. Ngưỡng sơn hỏi: “Thế nào là Phật?”
 
 Thiện Đạo không đáp, chỉ đưa ra một nắm tay.
 
@@ -603,7 +603,7 @@ Vân Nham thật là từ Giang Tây thiền phong mạnh mẽ, đi đến Hồ 
 
 Thế là, Đạo Ngô vừa dỗ vừa khuyên, lại dẫn Vân Nham trở về Dược Sơn. Vân Nham đã cùng đường, đành quyết một lòng làm môn đệ tại Dược Sơn, toàn tâm toàn ý tu tập thiền Dược Sơn. Tâm ông như con khỉ hướng ngoại tìm cầu, nay đã an định trở lại, dưới sự gợi ý của đại sư Dược Sơn Duy Nghiễm. Ông đã dễ dàng ngộ nhập thiền đạo.
 
-Sau khi khai ngộ, Vân Nham lập tức cáo từ Sư phụ, Thiền sư Dược Sơn hỏi ông đi đâu? Ông nói đi đến gặp Sư huynh Qui Sơn Linh Hựu. Thiền sư Dược Sơn hỏi đến gặp để làm gì? Vân Nham thưa: “lúc con và Qui Sơn Linh Hựu cùng ở chỗ tiên sư Bách Trượng, con làm thị giả, Sư huynh Linh Hựu làm điển tòa (người quản lý nhà ăn), hai chúng con tâm đầu ý hợp, không xa rời nhau, cùng giúp đỡ cho Bách Trượng. Sau này, Sư Huynh Linh Hựu tâm khai được ngộ, phụng mệnh đi khai sáng ở núi Đại Qui. Lúc sắp chia tay, con có một nguyện vọng, nếu con cũng có thể ngộ triệt bản lai diện mục, nhất định phải nói rõ với Sư huynh việc này.”
+Sau khi khai ngộ, Vân Nham lập tức cáo từ Sư phụ, Thiền sư Dược Sơn hỏi ông đi đâu? Ông nói đi đến gặp Sư huynh Quy Sơn Linh Hựu. Thiền sư Dược Sơn hỏi đến gặp để làm gì? Vân Nham thưa: “lúc con và Quy Sơn Linh Hựu cùng ở chỗ tiên sư Bách Trượng, con làm thị giả, Sư huynh Linh Hựu làm điển tòa (người quản lý nhà ăn), hai chúng con tâm đầu ý hợp, không xa rời nhau, cùng giúp đỡ cho Bách Trượng. Sau này, Sư Huynh Linh Hựu tâm khai được ngộ, phụng mệnh đi khai sáng ở núi Đại Qui. Lúc sắp chia tay, con có một nguyện vọng, nếu con cũng có thể ngộ triệt bản lai diện mục, nhất định phải nói rõ với Sư huynh việc này.”
 
 Dược Sơn Duy Nghiễm im lặng, Vân Nham từ biệt xuống núi.
 
@@ -611,13 +611,13 @@ Trời sắp tối, Đạo Ngô Tông Trí đi đến phương trượng, Sư Ph
 
 Dược Sơn nói: “Mắt của nó tuy đã sáng, nhưng thiếu mài dũa, cho nên những tập khí hình thành từ ngày xưa vẫn còn, không thể phân biệt rõ ràng để đào thải, trừ bỏ sai trái giữ lại chân thật.”
 
-Đạo Ngô Tông Trí nghe lời này, xuất phát ngay trong đêm, ngày hôm sau, cuối cùng cũng đã đuổi kịp Vân Nham ngay trên ruộng vườn của chùa. Họ cùng đi đến núi Đại Qui. Qui Sơn Linh Hựu hỏi Vân Nham: “Bồ Đề lấy gì làm tòa?”
+Đạo Ngô Tông Trí nghe lời này, xuất phát ngay trong đêm, ngày hôm sau, cuối cùng cũng đã đuổi kịp Vân Nham ngay trên ruộng vườn của chùa. Họ cùng đi đến núi Đại Qui. Quy Sơn Linh Hựu hỏi Vân Nham: “Bồ Đề lấy gì làm tòa?”
 
-Bồ Đề tức là đại trí tuệ giác ngộ, Qui Sơn dường như là đang hỏi trí tuệ lấy gì làm cơ sở, cho nên suy nghĩ rồi trả lời rằng: “Đương nhiên lấy” vô vi” làm tòa.”
+Bồ Đề tức là đại trí tuệ giác ngộ, Quy Sơn dường như là đang hỏi trí tuệ lấy gì làm cơ sở, cho nên suy nghĩ rồi trả lời rằng: “Đương nhiên lấy” vô vi” làm tòa.”
 
-Thiền sư Qui Sơn Linh Hựu không cho là như vậy, mỉm cười. Vân Nham hỏi ngược lại Thiền sư Qui Sơn, Qui Sơn trả lời: “Ta thấy, Bồ Đề nên lấy các pháp không làm tòa.” Thiền sư Qui Sơn nói xong, lại hỏi Đạo Ngô: “Đại Thiền sư, ông nhận thức như thế nào?” Thiền sư Đạo Ngô nói: “Ngồi cũng nghe theo ông ngồi, nằm cũng theo ông nằm, có một người không ngồi cũng không nằm, nói mau! Nói mau!”
+Thiền sư Quy Sơn Linh Hựu không cho là như vậy, mỉm cười. Vân Nham hỏi ngược lại Thiền sư Quy Sơn, Quy Sơn trả lời: “Ta thấy, Bồ Đề nên lấy các pháp không làm tòa.” Thiền sư Quy Sơn nói xong, lại hỏi Đạo Ngô: “Đại Thiền sư, ông nhận thức như thế nào?” Thiền sư Đạo Ngô nói: “Ngồi cũng nghe theo ông ngồi, nằm cũng theo ông nằm, có một người không ngồi cũng không nằm, nói mau! Nói mau!”
 
-Thiền sư Qui Sơn chắp tay làm lễ mà lui ra. Vân Nham rõ ràng cảm giác được khoảng cách của mình. Lúc đó, Đạo Ngô nói với Vân Nham những điều sư phụ chưa yên tâm. Vân Nham nhanh chóng tỉnh ngộ, vội cùng Đạo Ngô trở về Dược Sơn, mãi đến lúc Đại sư Dược Sơn Duy Nghiễm viên tịch, ông vẫn luôn ở bên cạnh sư phụ.
+Thiền sư Quy Sơn chắp tay làm lễ mà lui ra. Vân Nham rõ ràng cảm giác được khoảng cách của mình. Lúc đó, Đạo Ngô nói với Vân Nham những điều sư phụ chưa yên tâm. Vân Nham nhanh chóng tỉnh ngộ, vội cùng Đạo Ngô trở về Dược Sơn, mãi đến lúc Đại sư Dược Sơn Duy Nghiễm viên tịch, ông vẫn luôn ở bên cạnh sư phụ.
 
 Từ đó về sau, Đạo Ngô và Vân Nham luôn luôn khuyến khích rèn luyện lẫn nhau, thường đối đáp trao đổi thiền cơ, đem thiền ý hoạt bát dung hòa vào trong cuộc sống, tung rải trên Dược Sơn.
 

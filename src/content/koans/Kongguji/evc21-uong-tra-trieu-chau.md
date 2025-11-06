@@ -20,11 +20,11 @@ Trà Long Đàm chế ra, nước vàng tươi đuổi ma ngủ tránh xa. Dù l
 
 Có ai không để trà dính môi mà biết được vị chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Triệu Châu vừa thấy Tăng đến liền hỏi: **Từng đến đây chưa?**
+> Triệu Châu [^1] vừa thấy Tăng đến liền hỏi: **Từng đến đây chưa?**
 >
 > Tăng đáp: **Chưa từng đến**
 >

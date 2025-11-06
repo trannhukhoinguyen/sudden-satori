@@ -18,7 +18,7 @@ Giáp Tý Ất Sửu, vàng trong biển không cần luyện. Mậu Thìn Kỷ 
 
 Nếu biết ngày nào cũng là ngày tốt, thì mỗi năm đều là năm lành. Nếu muốn dứt nghi chớ ông thì phải bấm đốt tay để tính.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

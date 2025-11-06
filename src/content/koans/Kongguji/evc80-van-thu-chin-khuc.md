@@ -63,7 +63,7 @@ Tuy là Hoàng Hà chín khúc, ai có thể lãnh ngộ thiên ngôn, núi ngò
 
 Cần phải biết thành. Thiên Phong đứng ngoài mây. Trước kia sương mờ, mỗi hành văn hạ từng kia mà không rõ ràng. Chẳng những thọ cái nguồn sống, lại vốn từ muôn vật, không dấy, không rời.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -77,6 +77,7 @@ Cần phải biết thành. Thiên Phong đứng ngoài mây. Trước kia sươ
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

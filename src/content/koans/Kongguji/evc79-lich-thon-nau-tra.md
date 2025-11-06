@@ -51,7 +51,7 @@ Quả nhiên bị ngài Đầu Tử xử phạt nên nói, nếu mà biết đư
 Lâm Tuyền tuy tâm tha thiết như thế,
 Hết lòng chỉ dạy bao nhiêu người biết.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -65,6 +65,7 @@ Hết lòng chỉ dạy bao nhiêu người biết.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

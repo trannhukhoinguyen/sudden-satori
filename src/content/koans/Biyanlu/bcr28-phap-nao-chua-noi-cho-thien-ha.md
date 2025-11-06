@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Nam Tuyền [^1] đến tham kiến Niết Bàn Hòa Thượng [^2] ở núi Bách Trượng.
 >
@@ -37,7 +37,7 @@ image: /images/koans/great-wave.webp
 >
 > Bách Trượng nói, “Tôi đã hết sức nói cho ông rồi”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Đến chỗ này chẳng cần “là tâm” hay “ không phải là tâm”, hoặc “không phải là tâm” hay “không không phải là tâm.”
 Tuy từ đầu đến chân không có một sợi lông mày, song như thế mà vẫn còn hơn.
@@ -115,7 +115,7 @@ Xin xem tụng của Tuyết Đậu:
 >
 > Nhếch được mũi lên mất luôn miệng
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Đức Thích Ca Mâu Ni xuất thế 49 năm chưa từng nói lấy một chữ.
 

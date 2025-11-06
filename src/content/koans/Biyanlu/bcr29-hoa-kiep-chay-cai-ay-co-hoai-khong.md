@@ -12,13 +12,11 @@ tags:
 
 ## THÙY
 
-Cá bơi nước đục, chim bay lông rụng. Biện rõ chủ khách, phân biệt tăng tục.
+> Cá bơi nước đục, chim bay lông rụng. Biện rõ chủ khách, phân biệt tăng tục.
+> Giống như gương sáng trên khung, ngọc sáng trong tay.
+> Hán hiện Hồ đến, tiếng trong hình rõ. Thử nói xem, tại sao như thế?
 
-Giống như gương sáng trên khung, ngọc sáng trong tay.
-
-Hán hiện Hồ đến, tiếng trong hình rõ. Thử nói xem, tại sao như thế?
-
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi, “Hỏa kiếp cháy suốt, đại thiên đều hoại. Chẳng hiểu cái này có bị hoại hay không?”
 >
@@ -28,9 +26,9 @@ Hán hiện Hồ đến, tiếng trong hình rõ. Thử nói xem, tại sao như
 >
 > Ngài Đại Tùy nói, “Cũng giống như những cái kia”.
 
-## BÌNH
+## BÌNH XƯỚNG
 
-Đại Tùy Pháp Chân Hòa Thượng là người truyền thừa của Đại An Thiền Sư. Vốn là người Diêm Đình Huyện, Đông Xuyên. Đã từng đi tham kiến với hơn sáu mươi vị thiện tri thức. Hồi trước làm đầu bếp trong chúng hội của Qui Sơn.Một hôm Qui Sơn hỏi, “Ông ở đây mấy năm rồi, mà vẫn chưa biết đặt ra một câu hỏi để tôi xem ông như thế nào?” Đại Tùy nói, “ Hòa thượng muốn kẻ hèn này phải hỏi như thế nào mới đúng?” Qui Sơn nói, “ Chẳng lẽ ông không biết hỏi chư Phật là gì sao? Đại Tùy bèn đưa tay ra che miệng Qui Sơn, Qui Sơn nói “ Sau này ông tìm một người để quét đất cũng không có.”
+Đại Tùy Pháp Chân Hòa Thượng là người truyền thừa của Đại An Thiền Sư. Vốn là người Diêm Đình Huyện, Đông Xuyên. Đã từng đi tham kiến với hơn sáu mươi vị thiện tri thức. Hồi trước làm đầu bếp trong chúng hội của Quy Sơn.Một hôm Quy Sơn hỏi, “Ông ở đây mấy năm rồi, mà vẫn chưa biết đặt ra một câu hỏi để tôi xem ông như thế nào?” Đại Tùy nói, “ Hòa thượng muốn kẻ hèn này phải hỏi như thế nào mới đúng?” Quy Sơn nói, “ Chẳng lẽ ông không biết hỏi chư Phật là gì sao? Đại Tùy bèn đưa tay ra che miệng Quy Sơn, Quy Sơn nói “ Sau này ông tìm một người để quét đất cũng không có.”
 
 Sau Đại Tùy trở về Đồng Xuyên. Thoạt tiên ở một sơn lộ nơi Bằng khẩu, nấu trà tiếp đãi người qua lại suốt ba năm. Sau đó mới xuất thế khia sơn tại Đại Tùy. Có ông tăng hỏi, “ Hỏa kiếp cháy suốt, đại thiên đều hoại. Chẳng hiểu cái này có bị hoại hay không?” Ông tăng chỉ biết dựa trên ý của giáo để đến hỏi mà thôi. Trong giáo nói, “ Thành trụ hoại không. Lúc tam tai kiếp khởi,sự hoại diệt lên đến tận tam Thiền thiên.” Ông tăng nguyên lai không hiểu ý hướng của câu nói này.
 
@@ -52,7 +50,7 @@ Thương thay một câu “giống như” kia,
 
 Vạn dặm thui thủi mình đi về.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu dựa vào cơ duyên mà tụng ra, trong câu có chỗ xuất thân. “Trong lửa tận kiếp đặt câu hỏi, nạp tăng vẫn vướng hai lờp quan.” Câu hỏi của ông tăng này kể từ đ2âu đã chỉ quan tâm đến “hoại” hay “không hoại”, đây chính là hai lớp quan. Nếu như là người có chỗ chứng đắc thì có nói “hoại hay không hoại”, người ấy vẫn có chỗ xuất thân như thường.
 

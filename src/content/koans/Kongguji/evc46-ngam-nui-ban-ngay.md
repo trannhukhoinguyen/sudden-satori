@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Nói không chơn thật, đưa ra không giống. Một thì một, hai thì hai. Mất miệng sờ nhằm lỗ mũi, không biết rơi vào đâu?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

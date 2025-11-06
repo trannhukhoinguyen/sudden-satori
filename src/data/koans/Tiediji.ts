@@ -16,7 +16,7 @@ export const TiedijiTitles: KoanTitle[] = [
   { title: "TIỆM NGUYÊN RÈM GIẤY", slug: "tdj013-" },
   { title: "BẠCH VÂN TRẮNG VÀ ĐEN", slug: "tdj014-" },
   { title: "ĐẠI TÙY TU BÊN TRONG", slug: "tdj015-" },
-  { title: "QUI SƠN THỜI GIAN", slug: "tdj016-" },
+  { title: "Quy Sơn THỜI GIAN", slug: "tdj016-" },
   { title: "ĐẠI TÙY CON RÙA", slug: "tdj017-" },
   { title: "LÂM TẾ TRỒNG TÙNG", slug: "tdj018-" },
   { title: "TRIỆU CHÂU VIẾNG CHÙA", slug: "tdj019-" },
@@ -31,7 +31,7 @@ export const TiedijiTitles: KoanTitle[] = [
   { title: "LONG NHA CẢNH GIỚI VÔ THƯỢNG", slug: "tdj006-" },
   { title: "NGƯỠNG SƠN CHÀO THẦY", slug: "tdj006-" },
   { title: "THÁI TÔNG NẰM MỘNG", slug: "tdj006-" },
-  { title: "QUI SƠN GỌI HAI TĂNG CHỨC", slug: "tdj006-" },
+  { title: "Quy Sơn GỌI HAI TĂNG CHỨC", slug: "tdj006-" },
   { title: "PHẦN DƯƠNG TRỪNG PHẠT HƯ KHÔNG", slug: "tdj006-" },
   { title: "DƯỢC SƠN VẤN ĐỀ", slug: "tdj006-" },
   { title: "TUYẾT PHONG THẤY PHẬT TÁNH", slug: "tdj006-" },
@@ -100,7 +100,7 @@ export const TiedijiTitles: KoanTitle[] = [
   { title: "THÂN PHẬT", slug: "tdj006-" },
   { title: "HƯU TỊNH DÙNG TRÒ CHƠI", slug: "tdj006-" },
   { title: "ĐẠI ĐIÊN BAO NHIÊU TUỔI", slug: "tdj006-" },
-  { title: "QUI SƠN PHƯƠNG TRƯỢNG", slug: "tdj006-" },
+  { title: "Quy Sơn PHƯƠNG TRƯỢNG", slug: "tdj006-" },
 ];
 
 /*

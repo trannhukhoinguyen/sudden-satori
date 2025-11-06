@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 ## THÙY
 
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Xưa có mười sáu vị Bồ Tát. Lúc đến giờ chư tăng đi tắm, các vị Bồ Tát ấy xếp hàng vào tắm.
 >
@@ -23,7 +23,7 @@ image: /images/koans/great-wave.webp
 > 
 > Cần phải dùi mài lắm mới có thể hiểu được.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trên Hội Lăng Nghiêm Bạt Đà Bà La Bồ Tát cùng với mười sáu Bồ Tát kia, mọi người đều tu Phạm hạnh, rồi mỗi người nói về chỗ chứng viên thông pháp môn của mình. Đây là một trong hai mươi lăm viên thông pháp môn. Mười sáu Bồ tát kia nhân vào giờ chư tăng tắm, xếp hàng vào tắm mà ngộ được thể tính của nước. Đã không rửa bụi mà cũng không rửa thân thể, thử nói xem họ rửa cái gì? Nếu như các ông hiểu được, thì các ông được an nhiên bên trong và đắc được vô sở hữu. Lúc ấy ngàn người vạn người cũng không thể đến gần các ông được. Có lời nói rằng, “Vô sở đắc mới là chân Bát Nhã; nếu như có sở đắc thì chỉ là tương tự Bát Nhã mà thôi.”
 
@@ -47,7 +47,7 @@ Tụng rằng:
 >
 > Đã tắm nước thơm, nhổ vào mặt.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Chỉ cần một tăng hiểu việc này.” Nhưng mà thử nói xem, hiểu việc gì cơ? 
 

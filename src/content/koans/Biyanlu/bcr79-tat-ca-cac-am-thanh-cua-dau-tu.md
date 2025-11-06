@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 Đại dụng hiện tiền, không giữ qui tắc. Bắt sống cầm giữ, không hao khí lực. Song thử nói xem, ai đã từng như thế được? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Đầu Tử, “Tất cả các âm thanh đều là âm thanh của Phật, phải không?” 
 > 
@@ -26,7 +26,7 @@ image: /images/koans/great-wave.webp
 > 
 > Ngài Đầu Tử bèn đánh ông tăng.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Ngài Đầu Tử thành thực chất phác, có biện tài xuất chúng. Mỗi khi có câu hỏi đặt ra, Đầu Tử vừa mở niệng là chúng ta đã thấy được lòng dạ của thầy ta. 
 
@@ -64,7 +64,7 @@ Tụng rằng:
 >
 > Trăm sông ào ào chảy ngược lại.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Đầu Tử Đầu Tử, cơ luân vô ngại” 
 

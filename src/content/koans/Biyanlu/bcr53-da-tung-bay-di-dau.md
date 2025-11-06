@@ -18,7 +18,7 @@ Trong câu vô tư, chỗ nào cũng có ý giết người.
 
 Song thử nói xem, rốt cuộc cổ nhân an nghỉ ở chỗ nào? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Một lần kia Mã Đại Sư [^1] tản bộ với ngài Bách Trượng [^2], thấy có bầy vịt trời bay qua, Mã Đại Sư hỏi, “_Cái gì vậy?_”
 >
@@ -32,7 +32,7 @@ Song thử nói xem, rốt cuộc cổ nhân an nghỉ ở chỗ nào? Thử nê
 >
 > Mã Đại Sư nói, “_Đã từng bay đi đâu?_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu dùng đôi mắt chính đáng mà nhìn thì Bách Trượng là người có chính nhãn, trong khi Mã Đại Sư không có gió lại gây sóng. Nếu như các ông muốn làm thầy của Phật và Tổ thì phải tham thủ Bách Trượng. Còn nếu như muốn tự cứu mình cũng chẳng được, thì tham thủ Mã Đại Sư. Nhìn xem các cổ nhân chưa từng bao giờ mà không có mặt ở Chỗ Này.
 
@@ -72,7 +72,7 @@ Tuyết Đậu tụng rằng:
 >
 > Nói, nói!
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu tụng ngay rằng, “Bầy vịt trời, biết về đâu?” Song thử nói xem có bao nhiêu? Mã Tổ thấy chúng nói với nhau.” Đâu là để tụng Mã Tổ hỏi Bách Trượng “ cái gì vậy” Và Bách Trượng nói, “Vịt trời.” “ Nói về mây núi cùng trăng biển.” Đây là để tụng việc Mã Tổ lại hỏi “bay đi đâu vậy?” Ý chỉ của Mã Đại Sư cho Bách Trượng quá là tự nhiên thoát thể. Bách Trượng vẫn như xưa không hiểu lại nói rằng, “ Bay đi rồi.” Sai gấp đôi.
 

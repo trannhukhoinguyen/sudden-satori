@@ -16,11 +16,11 @@ Một hạt bụi bay gom cả trời đất, một đóa hoa nở cả thế gi
 
 Hiện giờ phải cắt đứt hết các dây dưa. Sử dụng hết gia tài trong nhà ra mà ứng với hoàn cảnh, cao thấp trước sau không hề sai biệt. Lúc ấy mọi cái sẽ hiện thành, thảng hoặc chưa được như thế, xin xem văn dưới đây.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Câu Chi hòa thượng [^1] mỗi khi có ai hỏi gì chỉ dơ một ngón tay lên.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu như dựa vào ngón tay mà hiểu là phụ lòng Câu Chi; còn nếu không dựa vào ngón tay mà hiểu thì cũng tựa như đục sắt vậy. Hiểu cũng thế mà không hiểu cũng thế, cao cũng thế mà thấp cũng thế, đúng cũng thế mà sai cũng thế. Cho nên mới có câu nói, “Một hạt bụi bay gom cả trời đất, một đóa hoa nở cả thế giới khởi, một con sư tử trên đầu một sợi lông hiện ra trên hàng tỉ sợi lông.”[28]
 
@@ -66,7 +66,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Sóng đêm đẩy tới con rùa mù.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu rất là thông thạo văn chương. Thầy rất thích tụng các công án bí hiểm.” Thâm ái Câu Chi khéo dạy người,vũ trụ vốn không nào có ai?” Học giả ngày nay khen chê cổ nhân, hoặc chủ hoặc khách, một vấn một đáp, Tuyết Đậu nêu lên ngay cả, đó chính là cách giúp người khác của thầy ta. Cho nên mới nói, “ Thâm ái Câu Chi khéo dạy người.” Thử nói xem, tại sao Tuyết Đậu lại thương mến Câu Chi? kể từ tạo thiên lập địa đến nay từng có ai? Chỉ có một mình lão Câu Chi mà thôi. Nếu như là người khác thế nào cũng ôm đồm, chỉ có mình Câu Chi là có thể dùng một ngón tay Thiền cho đến khi già chết.
 

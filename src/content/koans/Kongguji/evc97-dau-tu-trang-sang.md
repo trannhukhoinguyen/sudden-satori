@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 > Nổi lên chìm xuống, cửa biển vừa mong ánh trăng hiện. 
 > Ngay nơi điểm này, có nạp tăng nào lià được thức tình, dứt đồng ý nghĩ hội được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

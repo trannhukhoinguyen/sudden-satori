@@ -47,7 +47,7 @@ Truyền trao cho vị Tăng này tột lý vi diệu, có khi nói lời quanh 
 
 Ngài Lâm Tuyền phân tích như thế, lại hiểu chăng? Ngài xuống tòa, hãy trở về ở ẩn đi, ngày khác thường lượng.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -61,6 +61,7 @@ Ngài Lâm Tuyền phân tích như thế, lại hiểu chăng? Ngài xuống t�
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

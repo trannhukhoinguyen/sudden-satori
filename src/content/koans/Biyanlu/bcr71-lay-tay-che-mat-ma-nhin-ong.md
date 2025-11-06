@@ -8,7 +8,7 @@ categories:
 tags:
   - BÍCH NHAM LỤC
   - TS BÁCH TRƯỢNG HOÀI HẢI
-  - TS NGŨ PHONG THƯỜNG QUAN
+  - TS NGŨ PHONG THƯỜNG QUÁN
 image: /images/koans/great-wave.webp
 ---
 
@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Bách Trượng [^1] lại hỏi Ngũ Phong [^2], “Không có cổ họng với miệng môi, làm thế nào để nói đây?”
 >
@@ -24,9 +24,9 @@ image: /images/koans/great-wave.webp
 >
 > Bách Trượng nói, “Ở chỗ không người tôi lấy tay che trên mắt mà nhìn ông.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
-Qui Sơn nắm vững bờ cõi, Ngũ Phong cắt đứt các dòng (tư tưởng). Chỉ một việc nhỏ này song phải là một kẻ dám đối diện thẳng với vấn đề mới có thể hiểu được. Không có chỗ để mà trù trừ. Ngũ Phong vận dụng (tâm cơ) một cách trực tiếp, lời đáp của thầy ta tấn tốc vời vợi. Không từ từ dễ dãi như Qui Sơn. Những kẻ học Thiền ngày nay chỉ núp dưới chiêu bài không thể qua mặt Ngũ Phong được. Cho nên mới có câu nói rằng, “Nếu như muốn đạt đến chỗ thân thiết, đừng đem câu hỏi ra hỏi.”
+Quy Sơn nắm vững bờ cõi, Ngũ Phong cắt đứt các dòng (tư tưởng). Chỉ một việc nhỏ này song phải là một kẻ dám đối diện thẳng với vấn đề mới có thể hiểu được. Không có chỗ để mà trù trừ. Ngũ Phong vận dụng (tâm cơ) một cách trực tiếp, lời đáp của thầy ta tấn tốc vời vợi. Không từ từ dễ dãi như Quy Sơn. Những kẻ học Thiền ngày nay chỉ núp dưới chiêu bài không thể qua mặt Ngũ Phong được. Cho nên mới có câu nói rằng, “Nếu như muốn đạt đến chỗ thân thiết, đừng đem câu hỏi ra hỏi.”
 
 Câu trả lời của Ngũ Phong thẳng thừng trực tiếp, quả thật là lanh lợi. Bách Trượng nói, “Ở chỗ không người tôi lấy tay che trên mắt mà nhìn ông.” Song thử nói xem, như vầy là chấp nhận hay không chấp nhận. Ngũ Phong? Là sát hay là hoạt? Thấy Ngũ Phong xoay chuyển một cách trơn tru như thế, Bách Trượng chỉ còn biết điểm nhận.
 
@@ -42,7 +42,7 @@ Tuyết Đậu tụng rằng:
 >
 > Bên trời vạn dặm cánh Ngạc bay.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 ”Hòa thượng cũng im đi.” Trong một câu Tuyết Đậu dồn các ông nói rằng, “trên trận rồng rắn xem mưu lược.” Như thế bầy ra hai trận đột xuất đột nhập. Tung hoành ngang dọc có cái khả năng của bậc tướng đánh trận. Người có đại mưu lược tha hồ đơn thương độc mã xuất nhập trong trận rồng rắn. Làm thế nào các ông có thể bao vây một người như thế được? Nếu như các ông không phải là người ấy, làm sao biết có thứ mưu lược như thế được?
 
@@ -66,4 +66,4 @@ Trong cả ba bài tụng này của Tuyết Đậu (tắc thứ 70,71 và 72) n
 
 [^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
 
-[^2]: ⭐️ <a href="https://pl.wikipedia.org/wiki/Wufeng_Changguan" target="_blank">🔗 TS NGŨ PHONG THƯỜNG QUAN</a>
+[^2]: ⭐️ <a href="/masters/Wufeng_Changguan" target="_blank">🔗 TS NGŨ PHONG THƯỜNG QUÁN</a>

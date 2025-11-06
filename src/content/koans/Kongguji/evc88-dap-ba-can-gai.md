@@ -18,7 +18,7 @@ Tam giác tròn sáng đáng được con mắt trên đàn môn. Tự lợi, th
 
 Nhưng có thể niệm niệm không quên, thì thấy mọi vật hiện lộ khắp nơi. Có phân biệt được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

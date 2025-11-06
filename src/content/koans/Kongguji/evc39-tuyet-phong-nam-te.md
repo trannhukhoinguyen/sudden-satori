@@ -18,7 +18,7 @@ Vừa ngẩng đầu mà hiểu được ý, đó là truyền cho vị tăng th
 
 Mở miệng thấy tâm chỉ có bác tác giả thông phường. Sợ ông không tin thử định tĩnh xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

@@ -233,12 +233,13 @@ Tăng lại hỏi: Thể nào là dụng của Bát-nhã?
 Trí Môn đáp: Thỏ mẹ mang thai. Tuyết Đậu14[14] có lời tụng:
 
 12[12] 金剛經纂要刊定記.
-13[13]Trí Môn Quang Tộ
-智 門 光 祚; C: zhìmén guāngzuò; J: chimon kōso; ?-1031;
+
+13[13]Trí Môn Quang Tộ 智 門 光 祚; C: zhìmén guāngzuò; J: chimon kōso; ?-1031;
+
 Thiền sư Trung Quốc, thuộc tông Vân Môn. Sư nối pháp Hương Lâm Trfing Viễn. Trong 30 người đệ tfi nối pháp của Sư thì Tuyết Ðậu Trọng Hiển là danh tiếng nhất.
 Sư là một trong nhfing Thiền sư đầu tiên làm kệ tán tụng nhfing lời dạy của các vị tiền nhân và trong lĩnh vực này thì Sư có một vị đệ tfi xuất sắc là Tuyết Ðậu nối dõi, người đã trứ tác Bích nham lục.
-14[14]Tuyết Đậu Trọng Hiển
-雪 竇 重 顯; C: xuědòu chóngxiǎn; J: setchō jūken; 980-1052;
+
+14[14]Tuyết Đậu Trọng Hiển 雪 竇 重 顯; C: xuědòu chóngxiǎn; J: setchō jūken; 980-1052;
 
 Nhất phiến hư ngưng tuyệt vị tình Nhân thiên tùng thử kiến Không Sinh
 Bạng hàm huyền thố thâm thâm ý
@@ -1703,8 +1704,8 @@ Bách Trượng bảo: ‘Giống hệt cỡi trâu tìm trâu.’ Sư hỏi: �
 Bách Trượng đáp: ‘Như người cỡi trâu về đến nhà.’ Sư hỏi: ‘Chẳng biết trước sau gìn giữ như thế nào?’ 
 Bách Trượng trả lời: ‘Như chú mục đồng cầm roi trông chừng, chẳng cho nó vào lúa mạ của người.’ 
 Sư nhân đây ngộ được ý chỉ.
-Khi Thiền sư Linh Hựu đến Qui Sơn khai sáng, Sư đích thân đến phụ tá và khi Linh Hựu tịch, Sư được chúng thỉnh ở lại trụ trì. 
-Vì thế mà Sư cũng thường được gọi là Qui Sơn Ðại An về cách thứ hai rồi đó!”
+Khi Thiền sư Linh Hựu đến Quy Sơn khai sáng, Sư đích thân đến phụ tá và khi Linh Hựu tịch, Sư được chúng thỉnh ở lại trụ trì. 
+Vì thế mà Sư cũng thường được gọi là Quy Sơn Ðại An về cách thứ hai rồi đó!”
 
 Trường Khánh trả lời: Thế nào là lời nói của Như Lai?
 
@@ -3387,8 +3388,8 @@ Có nghĩa là Đức Phật Nhiên Đăng thọ ký cho Thích-ca Mâu-ni sẽ 
 
 Thiền sư Huyền Sa hỏi Sư Cảnh Thanh: 83[83]
 
-83[83] Kính Thanh Đạo Phó Thiền Sư 鏡清道怤禪師 
-(868-937). 
+83[83] Kính Thanh Đạo Phó Thiền Sư 鏡清道怤禪師 (868-937). 
+
 Thiền sư Đạo Phó Thuận Đức. Thiền tăng đời Ngũ Đại, họ Trần, người xứ Vĩnh Gia (nay là Ôn Châu tỉnh Chiết Giang) Trung Quốc. 
 Sau khi xuất gia, sư du phương đến đất Mân, tham vấn Tuyết Phong Nghĩa Tồn, rất được ngài xem trọng. Khi ra hoằng pháp, sư trụ chùa Kính Thanh, Việt Châu (nay là huyện Thiệu Hưng tỉnh Chiết Giang). Ngô Việt Võ Túc Vương rất kính mộ, thỉnh sư trụ chùa Thiên Long và ban cho hiệu Thuận Đức Đại Sư.
 

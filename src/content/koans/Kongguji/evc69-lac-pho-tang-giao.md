@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Mở cửa chớm như, ngày đối mặt trăng sáng, mùa thu kết trái. Lạ tường ngôn lự, chớ được có suy lường. 
 Thư trước không an bài, lấp ngăn chật, đã đêm nở hoa. Cứu thật đến nay không nơi chốn. Có đạt được lý này chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

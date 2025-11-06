@@ -14,13 +14,13 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Vân Môn dạy chúng rằng, “Cổ Phật và cột trụ tương giao là cơ thứ mấy?” 
 > 
 > Rồi lại tự đáp, “Nam Sơn mây nổi, Bắc Sơn mưa rơi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vân Môn Đại sư đào tạo ra hơn tám mươi vị thiện tri thức. Sau khi thầy ta thiên hóa mười bảy năm, thiên hạ khai tháp để xem, thấy nhục thân thầy ta vẫn nghiêm nhiên như xưa. Vân Môn có chỗ thấy minh bạch, cơ cảnh tấn tốc. Phàm các thùy ngữ, biệt ngữ và đại ngữ của thầy ta thì trực tiếp và vời vợi. Công án này cũng giống như đá lửa điện chớp. Đúng là xuát quỉ nhập thần. Khánh Tàng Chủ nói, “Trong tạng giáo còn có được những lời như vậy chăng?”
 
@@ -52,7 +52,7 @@ Cho nên mới tụng rằng:
 >
 > Ai bảo vàng ròng giống như phân?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Mây Nam Sơn, mưa Bắc Sơn.” Tuyết Đậu mua mũ cho vừa đầu, ngóng gió để căng buồm. Trên lưỡi kiếm lại hạ cước chú cho các ông.
 

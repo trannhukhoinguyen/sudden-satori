@@ -17,7 +17,7 @@ tags:
 > Còn như trong môn hạ của các nạp tăng, một ngôn một cú, một cơ một cảnh, một xuất một nhập, một gặp một đối, phải thấy cho được chỗ nông sâu, phải thấy cho được chỗ tiến lùi.
 > Thử nói xem, phải dùng gì để thử đây? Xin nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 Ngài Bảo Phúc [^1] và Ngài Trường Khánh [^2] đi chơi núi. Ngài Bảo Phúc lấy tay chỉ nói, “Đây chính là Diệu Phong Đỉnh.”
 
@@ -35,7 +35,7 @@ Sau có người thuật lại cho Kính Thanh [^3].
 
 Kính Thanh nói, “_Nếu như không nhờ Tôn công (Bảo Phúc) thì hẳn chúng ta đã thấy đầu lâu đầy đồng rồi_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Bảo Phúc, Trường Khánh, Kính Thanh đều là những người truyền thừa của Tuyết Phong. Ba người này đồng kiến đồng văn đồng bắc đồng chứng đồng niêm đồng dụng. Một xuất một nhập cùng nhau đưa đối. Bởi vì họ là người của cùng một dòng, cho nên một người vừa nêu lên một điều gì là những người kia đã hiểu ngay ý hướng. Trong chúng hội của Tuyết Phong, thường là ba người này tham nhập vào các vấn đáp. Cổ nhân hành trụ tọa ngọa đều niệm nơi đạo này, cho nên (công án) vừa được nêu lên là họ đã hiểu ngay ý nghĩa.
 
@@ -63,7 +63,7 @@ Không nhờ Tôn công phân biện kỷ,
 
 Đầu lâu đầy đồng mấy ai hay?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Trên đỉnh Diệu Phong cỏ rậm rạp.”
 
@@ -95,8 +95,8 @@ Các ông có biết không? Mù!
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-bao-phuc-tung-trien/" target="_blank">🔗 TS BẢO PHÚC TÙNG TRIỂN</a>
+[^1]: ⭐️ <a href="/masters/Baofu-Congzhan" target="_blank">🔗 TS BẢO PHÚC TÙNG TRIỂN</a>
 
-[^2]: ⭐️ <a href="/masters/ts-truong-khanh-hue-lang/" target="_blank">🔗 TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
+[^2]: ⭐️ <a href="/masters/Changqing-Huileng" target="_blank">🔗 TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
 
-[^3]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
+[^3]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>

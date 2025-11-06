@@ -24,7 +24,7 @@ Chỉ cần nói với người ấy rằng,
 
 Còn nếu như chưa được như thế, hãy xem gương người xưa.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, chỉ đừng so đo. Thế nào là đừng so đo?”
 >
@@ -36,7 +36,7 @@ Còn nếu như chưa được như thế, hãy xem gương người xưa.
 >
 > Ông tăng kia không nói gì được.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Ông tăng hỏi Triệu Châu về câu “Đạo lớn không khó, chỉ đừng so đo.” trong Tín Tâm Minh của Tam Tổ (Tăng Sán). Ông ta nói thẳng ngay câu ấy ra. Có biết bao nhiêu là người hiểu lầm. Tại sao vậy? Theo họ thì đạo lớn không khó mà cũng không không khó, chỉ có điều đừng nên so đo mà thôi. Nếu như các ông hiểu như vậy, thì dù có một vạn năm nữa các ông cũng chẳng thấy được dù là trong mộng.
 
@@ -60,7 +60,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Trống vải dưới hiên.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu chú giải hai câu của Triệu Châu nói rằng, “Sâu tựa biển, kiên cố như núi.” Ông tăng nói, “Đó vẫn còn là so đo.” Cho nên Tuyết Đậu mới nói là ông ta giống như con muỗi bay lượn trong gió táp, con kiến đòi lay cột trụ sắt. Tuyết Đậu khen ngợi cái đại đảm của ông ta. Tại sao vậy? Đây là chỗ thụ dụng tột cùng của thiên hạ mà ông ta lại dám nói ra như thế. Triệu Châu cũng không buông tha ông ta; bèn nói, “Đồ nhà quê! So đo ở chỗ nào đâu?” Đây há không phải là gió táp với cột trụ sắt sao?
 

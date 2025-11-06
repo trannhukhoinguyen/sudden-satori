@@ -194,11 +194,11 @@ Nhà nông nói: “Mài dao không bỏ công chặt củi”.
 
 Hoặc là cơ duyên thật khéo, có lẽ là nhân duyên đã định, ban đầu chính bản thân Thiền sư Linh Vân Chí Cần hướng dẫn Thiền sư Trường Khánh Huệ Lăng đi tham bái Thiền sư Tuyết Phong đó là một vị tham thiền từ lâu mới khai ngộ. Huệ Lăng mất 20 năm khổ công tham cứu, thế mà ngài, lại “ngốc” hơn cả Huệ Lăng, tham cứu 30 năm đằng đẵng, ngồi rách không biết bao nhiêu là bồ đoàn, cuối cùng mới đổi lấy được sự hoát nhiên đại ngộ.
 
-Thiền sư Linh Vân Chí Cần ở Phúc Châu, người Trường Khê - Bổn Châu. Sau khi xuất gia, do ngưỡng mộ lá thứ nhất của Thiền Tông Trung Hoa – người sáng lập ra tông Qui Ngưỡng một tên tuổi rất nổi tiếng Đại sư Linh Hựu, nên không quản đường sá xa xôi hành cước đến núi Đại Qui ở Hồ Nam.
+Thiền sư Linh Vân Chí Cần ở Phúc Châu, người Trường Khê - Bổn Châu. Sau khi xuất gia, do ngưỡng mộ lá thứ nhất của Thiền Tông Trung Hoa – người sáng lập ra tông Quy Ngưỡng một tên tuổi rất nổi tiếng Đại sư Linh Hựu, nên không quản đường sá xa xôi hành cước đến núi Đại Qui ở Hồ Nam.
 
-Thiền sư Quy Sơn Linh Hựu kế thừa truyền thống “một ngày không làm, một ngày không ăn” của sư phụ Bách Trượng Hoài Hải, phụng hành tông phong lao động tức tu thiền, vì thế, Thiền sư Linh Vân Chí Cường được phân làm điển tòa lúc đó – dưới trướng của Thiền sư Trường Khánh Đại An, cày ruộng trồng lúa, thổi lửa nấu cơm. Cây cối trên núi Đại Qui từ xanh trở qua vàng, từ vàng lại trở xanh, hoa màu trên rẫy từ gieo trồng đến thu hoạch, thu hoạch rồi lại gieo trồng, mười năm, hai mươi năm qua đi, Đại sư Qui Sơn Linh Hựu đã sớm quảy gót về Tây Linh Vân vẫn bặt vô âm tín.
+Thiền sư Quy Sơn Linh Hựu kế thừa truyền thống “một ngày không làm, một ngày không ăn” của sư phụ Bách Trượng Hoài Hải, phụng hành tông phong lao động tức tu thiền, vì thế, Thiền sư Linh Vân Chí Cường được phân làm điển tòa lúc đó – dưới trướng của Thiền sư Trường Khánh Đại An, cày ruộng trồng lúa, thổi lửa nấu cơm. Cây cối trên núi Đại Qui từ xanh trở qua vàng, từ vàng lại trở xanh, hoa màu trên rẫy từ gieo trồng đến thu hoạch, thu hoạch rồi lại gieo trồng, mười năm, hai mươi năm qua đi, Đại sư Quy Sơn Linh Hựu đã sớm quảy gót về Tây Linh Vân vẫn bặt vô âm tín.
 
-Thiền sư Trường Khánh Đại An tiếp nhận đạo tràng của Qui Sơn, tiếp tục thiền phong Mục Ngưu của ngài (xem tùng thư “Thiền Đông Thiền Tây, Đại An Mục Ngưu”). Thiền sư Linh Vân đành phải tiếp tục tham “Thiền hoa màu” của ngài…
+Thiền sư Trường Khánh Đại An tiếp nhận đạo tràng của Quy Sơn, tiếp tục thiền phong Mục Ngưu của ngài (xem tùng thư “Thiền Đông Thiền Tây, Đại An Mục Ngưu”). Thiền sư Linh Vân đành phải tiếp tục tham “Thiền hoa màu” của ngài…
 
 Mười năm dần trôi, gió xuân lại xanh ngắt núi Đại Qui. Một hôm, Linh Vân Chí Cần lao động từ ruộng trở về, ngài ngẫu nhiên ngẩng đầu, bỗng phát hiện hoa đào trong sân chùa nở rộ, rực rỡ xán lạn, ngài hoát nhiên ngộ đạo! Bốn câu kệ này tự nhiên từ tâm mà tràn ra như thế:
 
@@ -678,7 +678,7 @@ Suốt đêm ngâm thơ thiền,
 
 Vượn xanh tự tương ứng.
 
-(Hà ý dục qui sơn?
+(Hà ý dục Quy Sơn?
 
 Đạo cao do thắng cảnh.
 

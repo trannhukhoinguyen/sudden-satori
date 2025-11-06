@@ -181,6 +181,7 @@ const CnLv8MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Mingzhao_Deqian',
       'https://phatgiao.org.vn/tu-dien-phat-hoc-online/minh-chieu-duc-khiem-k4536.html',
+      'https://phatgiao.org.vn/tu-dien-phat-hoc-online/doc-nhan-long-k33631.html',
       'https://tangthuphathoc.net/thuat_ngu/minh-chieu-duc-khiem-tu-dien-dao-uyen',
       'https://terebess.hu/zen/mesterek/mingzhao.pdf',
       'https://terebess.hu/zen/mesterek/MingzhaoDeqian.html'

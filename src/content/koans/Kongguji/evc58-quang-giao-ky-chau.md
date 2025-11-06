@@ -67,7 +67,7 @@ Ruộng mì vườn đồng xanh tươi mơn mởn, làm sao giấu kín đượ
 Một hội không lời bao vạn tượng.
 Nơi nào có hàm linh đều cảm tạ.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -81,6 +81,7 @@ Nơi nào có hàm linh đều cảm tạ.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

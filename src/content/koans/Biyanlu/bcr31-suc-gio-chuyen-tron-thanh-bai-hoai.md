@@ -22,7 +22,7 @@ Buông bỏ, gạch ngói tỏa sáng; nắm giữ, vàng ròng mất mầu. Cô
 
 Thử nói xem, họ bình luận việc gì vậy?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Ma Cốc [^1] chống gậy đến gặp ngài Chương Kính. Đi quanh giường Thiền ba vòng, rồi chống gậy đứng sừng sững đó.
 >
@@ -39,7 +39,7 @@ Thử nói xem, họ bình luận việc gì vậy?
 > Ngài Nam Tuyền nói, "**Chương Kính thì đúng, ông mới là không đúng.
 > Đây chính là cái bị sức gió chuyển, cuối cùng thế nào cũng bại hoại**"
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Cổ nhân hành cước khắp chốn tùng lâm, duy có việc này trong tâm niệm: chỉ muốn phân biện xem lão hòa thượng ngồi trên giường khắc kia có mắt hay không?
 
@@ -165,9 +165,9 @@ Nam Tuyền, Tuyết Đậu là những người như thế, cho nên mới dám
 >
 > Chuyên gia phải kiếm thuốc không bệnh.
 
-## BÌNH
+## BÌNH XƯỚNG
 
-Tụng này giống công án Đức Sơn gặp Qui Sơn.
+Tụng này giống công án Đức Sơn gặp Quy Sơn.
 
 Trước tiên đem công án ra bình thêm hai chuyển ngữ rồi xâu thành một chuỗi , sau đó mới tụng ra. “Đây sai kia sai, kỵ nhất đừng lấy.”
 

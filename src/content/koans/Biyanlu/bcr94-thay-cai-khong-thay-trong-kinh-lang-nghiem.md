@@ -15,7 +15,7 @@ Một câu trước tiếng, ngàn thánh không truyền. Một sợi trước 
 
 Mắt chăm chú tai chăm chú, kim mao sư tử. Tạm gác những cái này qua một bên, thử nói xem, trâu trắng trên mặt đất rộng là gì?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Kinh Lăng Nghiêm nói, “Lúc tôi không thấy, tại sao ông không thấy cái chỗ không thấy của tôi.
 >
@@ -23,7 +23,7 @@ Mắt chăm chú tai chăm chú, kim mao sư tử. Tạm gác những cái này 
 >
 > Nếu như các ông không thấy cái không thấy của tôi, tự nhiên nó không phải là một vật nữa, tại sao đó lại không phải là ông?”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Kinh Lăng Nghiêm nói, “Lúc tôi không thấy ,tại sao các ông không thấy cái chỗ không thấy của tôi.
 
@@ -75,7 +75,7 @@ Tuyết Đậu vượt ra ngoài con mắt của giáo mà tụng, thầy ta kh�
 >
 > Sát sát trần trần ở giữa đường.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Toàn với toàn bò đều chướng mắt.” Kinh Niết Bàn nói về một bọn người mù sờ voi rồi mỗi người đưa ra một thiển ý. Có ông tăng hỏi Ngưỡng Sơn, “Có người hỏi về Thiền về đạo Hòa Thượng bèn vẽ một vòng tròn rồi viết một chữ ‘bò’ trong ấy, ý của Hòa Thượng là như thế nào?” Ngưỡng Sơn nói, “Cái đó cũng chỉ là một việc vớ vẩn mà thôi, nếu như ông hiểu ngay được nó không phải là từ bên ngoài mà đến. Nếu như ông không hiểu ngay được, nhất định là ông không hiểu đâu. Tôi thử hỏi ông điều này, các bậc tôn túc ở các nơi chỉ ra trên người ông cái gì là Phật tính? Ông xem nó là cái có nói hay cái im lặng? Hay là cái không nói mà cũng chẳng im lặng? Hay các ông coi rằng tất cả là nó hay tất cả đều không là nó?Nếu như các ông coi ngôn ngữ là nó thì các ông cũng giống như người mù nắm đuôi con voi. Nếu như các ông coi im lặng là nó thì các ông cũng giống như người mù rờ tai con voi. Nếu như các ông coi không phải ngôn ngữ hay khôn phải im lặng là nó thì các ông cũng giống như người mù rờ vòi voi. Nếu như các ông coi tất cả là nó thì các ông giống như người mù rờ bốn chân con voi. Nếu như các ông coi tất cả đều không phải là nó thì các ông vứt bỏ con voi mà rơi vào không kiến. Những gì mà những người mù này cảm thấy thì chỉ là cùng một con voi mà họ mô tả khác nhau mà thôi. Nếu như các ông muốn khá hơn thì đừng có rờ voi, đừng nói kiến văn giác tri là nó mà cũng đừng nói là không phải.”
 

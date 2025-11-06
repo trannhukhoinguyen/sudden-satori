@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Vua Trang Tông thâu được, may gặp Hưng Hóa thương lượng. Đưa ra ba góc, đáng tiếc ép giác nhận lầm. Có ai biết thưởng thức chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

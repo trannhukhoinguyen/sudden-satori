@@ -69,17 +69,17 @@ Long Đàm nói đúng thầy đạo lý gì.
 Sư đem sớ sao chất một đống trước pháp đường châm lửa nói: Những lời biện luận thâm huyền tốt cùng, như một sợi lông để trong hư không. Thấu rõ hết thẹn chốt cuộc đời, no như giọt nước trong biển cả, rồi đốt sớ sao.
 Khi ấy, Sư lễ tạ già Long Đàm.
 
-Đến Qui Sơn, Sư mang đại lến pháp đường, đi từ đông qua tây, từ tây sang đông quay nhìn phương trượng nói: Có chăng, có chăng?
-Qui Sơn đang ngồi hoàn toàn không nhìn.
+Đến Quy Sơn, Sư mang đại lến pháp đường, đi từ đông qua tây, từ tây sang đông quay nhìn phương trượng nói: Có chăng, có chăng?
+Quy Sơn đang ngồi hoàn toàn không nhìn.
 Đức Sơn nói: Không, không.
 Sư ra đến cửa nói: Tuy nhiên như thế cũng không được xem thường. Phải đầy đủ oai nghi trở lại tham kiến.
 Vừa vào cửa Sư đưa tọa cụ lên nói: Kính chào Hòa thượng.
-Ngài Qui Sơn định lấy cây phất tử.
+Ngài Quy Sơn định lấy cây phất tử.
 Đức Sơn hất văng tay áo đi ra.
-Chiều đến, Qui Sơn hỏi thủ tọa: Vị Tăng mới đến hôm nay còn ở trong viện không?
+Chiều đến, Quy Sơn hỏi thủ tọa: Vị Tăng mới đến hôm nay còn ở trong viện không?
 Thủ tọa thưa: Khi ấy quay lưng tại pháp đường mang giày cỏ đi rồi.
 
-Qui Sơn nói: Người này về sau lên trên tòa, có thể làm rung động Phật pháp.
+Quy Sơn nói: Người này về sau lên trên tòa, có thể làm rung động Phật pháp.
 
 Đức Sơn trú ở Lễ Dương ba mươi năm, khi về đến núi Tương, Sư lập am nhỏ tại Đại Phù Sơn.
 
@@ -106,7 +106,7 @@ Nhọc chi nói quanh co.
 Không nghe nói: ngậm miệng kín lưỡi chính là phương pháp tu thân để nhặt. Đã không cẩn thận buổi đầu cũng vẫn giữ phút cuối. Cẩn thận gió bị thổi rối tinh thần, làm sao nói? Đợi thôi! Hay đợi lúc khác đến.
 
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -120,6 +120,7 @@ Không nghe nói: ngậm miệng kín lưỡi chính là phương pháp tu thân
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 > Biển sâu vạn trượng phải thấu tới đáy. Giếng sâu ngàn thước còn đến tận nguồn ấy.
 > Chỉ có việc vi diệu thâm mật này khó sáng tỏ, chợt gặp nạp tăng ở sau ót mất trên đảnh môn, làm sao chỉ dạy?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

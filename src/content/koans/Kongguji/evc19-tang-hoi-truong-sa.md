@@ -19,7 +19,7 @@ Bậc không chứng, không tu, thì đạt đến cảnh giới Phật Oai Âm
 Mong đừng hạ thấp danh vang ấy, chẳng cần tô điểm đàm môn phong. 
 Đã đưa ra thì dự rồi, ông có biết chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

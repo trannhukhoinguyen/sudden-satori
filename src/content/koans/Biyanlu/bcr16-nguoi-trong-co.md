@@ -16,17 +16,17 @@ image: /images/koans/great-wave.webp
 
 Tuy nhiên như thế hãy còn có chút (chấp trước). Nếu nói về sự việc căn bản, thì điều này chẳng có gì là nhằm nhò cả. Thế nào là sự việc căn bản? Xin thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
-> Có ông tăng hỏi Kính Thanh, “Đệ tử cắn, xin thầy mổ.”
+> Có ông tăng hỏi Kính Thanh [^1], “Đệ tử cắn, xin thầy mổ.”
 >
-> Kính Thanh [^1] nói, “Còn sống được không?”
+> Kính Thanh nói, “Còn sống được không?”
 >
 > Ông tăng nói, “Nếu không sống được thế nào cũng bị người ta chê cười.”
 >
 > Kính Thanh nói, “Ông cũng là một người trong cỏ.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Kính Thanh thừa tự Tuyết Phong và sống đồng thời với Bổn Nhân, Huyền Sa, Túc Sơn , và Thái Nguyên Phù. Lúc đầu gặp Tuyết Phong đắc được tông chỉ, sau đó thường dùng phương tiện cắn mổ để khai thị những kẻ hậu học. Thầy ta rất khéo thuyết pháp hợp với căn cơ của người nghe.
 
@@ -62,7 +62,7 @@ Cho nên Tuyết Đậu vì thích Kính Thanh nói “ người trong cỏ” m
 >
 > Thiên hạ nạp tăng mõ vô ích.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Cổ Phật có gia phong”, chỉ một câu đó thôi Tuyết Đậu đã tụng hết “công án” này rồi. Những kẻ thò mặt ra chẳng thể nào đến gần được. Nếu như đến gần được thì sẽ bị rơi từ đỉnhcao vạn trượng. Ngay khi các ông vừa thò đầu ra , là các ông đã rơi vào cỏ. Dù cho các ông có tung hoành được đinữa, cũng chẳng đáng để ra sức. Tuyết Đậu nói, “ Cổ Phật có gia phong.” Không phải bây giờ mới như thế.Lúc đức Thích Ca mới sinh ra, một tay chỉ trời, một tay chỉ đất, mắt nhìn bốn phương nói, “ Thiên thượng thiên hạ duy ngã độc tôn.” Vân Môn nói, “ Nếu như lúc đó ta mà thấy ông ta, ta sẽ đập cho một gậy chết tốt rồi ném cho chó ăn, để mong cho thiên hạ được thái bình.” Chỉ như vậy người ta mới trả lời thích đáng được. Cho nên các phương tiện cắn mổ đều là gia phong của cổ Phật.
 
@@ -92,4 +92,4 @@ Kính Thanh nói, “Ông cũng là người trong cỏ” Tuyết Đậu nói, 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-kinh-thanh-dao-pho/" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
+[^1]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>

@@ -20,7 +20,7 @@ Dù đã dứt hết suy nghĩ chưa hẳn không phải là bậc tác gia.
 >
 > Nếu biết dứt trừ nghi hoặc, đạt được cũng phải gặp bậc minh sư chứng nhận. Một câu đây đủ xin mời cứ xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

@@ -19,7 +19,7 @@ Bên sàn tùng xanh, khinh sương, ngạo tuyết.
 Chẳng bàn chuyện mắt thấy tai nghe, chỉ muốn cho tâm khai ý tỏ. 
 Có người nào lanh lợi chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

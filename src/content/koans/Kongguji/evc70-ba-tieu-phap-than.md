@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Gió mát trăng thanh khắp muôn nơi. Nếu nắm bắt được hư không, thì biết dùng ném đấy ném. Hãy nói ai có được hành động này?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 > Biện được sát hoạt trong ánh điện chớp, mới có thể tề bình mười phương, sừng sững như núi cao ngàn thước.
 > Biết đó là thời tiết gì chăng? Xin nêu lên thử xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 Liên Hoa Phong Am Chủ [^1] dơ gậy lên dạy chúng rằng, “_Cổ nhân đã đến đây, tại sao không chịu ở lại?_”
 
@@ -27,7 +27,7 @@ Rồi lại nói tiếp, “_Rốt cuộc như thế nào?_”
 
 Rồi lại tự trả lời, “_Vác gậy trên vai chẳng màng ai, đi thẳng lên trăm ngàn đỉnh cao_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Các ông có phán xét được Liên Hoa Phong Am Chủ chăng? Gót chân của thầy ta vẫn chưa chấm đất. Vào đầu thời đại của chúng ta (nhà Tống) thầy ta dựng am trên đỉnh Liên Hoa trên núi Thiên Thai. Các bậc cổ nhân sau khi đắc đạo, thường ở trong lều tranh hang đá, nấu rau dãi trong nồi mẻ mà sống qua ngày. Không cầu danh lợi, phóng khoáng tùy duyên. (Thỉnh thoảng) dạy một lời then chốt, chỉ vì muốn đền ơn Phật, Tổ và truyền tâm ấn của Phật.
 
@@ -65,7 +65,7 @@ Nước chảy hoa trôi quá bang bạc,
 
 Nhướng mắt lên nhìn đi về đâu?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu tụng hết sức là tuyệt, có chỗ chuyển than và không nệ vào một góc. Lập tức thầy ta nói, “ Bụi trần trong mắt đất trong tai.” Câu này tụng Liên Hoa Phong Am Chủ. Các nạp tăng đến chỗ này, trên không có gì để kính ngưỡng, dưới cắt đứt hết tự ngã, bất cứ lúc nào cũng như ngớ như ngẫn. Há không nghe Nam Tuyền nói, “ Những người học đạo mà như si độn thì thật là khó kiếm.” Pháp Đăng nói, “ Ai hiểu được ý này, khiến tôi nhớ Nam Tuyền.” Nam Tuyền lại nói, “ Bảy trăm cao tăng đều là những người hiểu Phật pháp. Chỉ có Lô hành giả là không hiểu Phật pháp, mà chỉ hiểu đạo, cho nên mới được y bát của (Ngũ Tổ)”. Thử nói xem Phật pháp và đạo cách nhau bao xa?
 

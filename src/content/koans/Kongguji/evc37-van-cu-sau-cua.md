@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Ngu ngây lặng lẽ, biết mình an ổn. La la tra đằng đằng, ai bảo trong bụng ngu tối. Không có người mê mờ chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -59,17 +59,17 @@ Ngài Lâm Tuyền nói:
 > Hay thay bậc cổ túc, một lời nói ra hợp với kinh điển.
 Thế nên kinh nói: Một xứ dùng được, thì sáu căn đều giải thoát.
 
-Về sau, Vân Nham đến gặp Ngài Qui Sơn.
+Về sau, Vân Nham đến gặp Ngài Quy Sơn.
 
-Qui Sơn hỏi: Nghe trưởng lão múa sư tử ở chỗ Dược Sơn phải không?
+Quy Sơn hỏi: Nghe trưởng lão múa sư tử ở chỗ Dược Sơn phải không?
 
 Vân Nham thưa: Phải.
 
-Qui Sơn hỏi: Lúc nào cũng múa có lúc nghỉ không?
+Quy Sơn hỏi: Lúc nào cũng múa có lúc nghỉ không?
 
 Vân Nham thưa: Cần múa thì múa, muốn nghỉ thì nghỉ.
 
-Qui Sơn hỏi: Lúc nghỉ sư tử ở chỗ nào?
+Quy Sơn hỏi: Lúc nghỉ sư tử ở chỗ nào?
 
 Vân Nham thưa: Nghỉ! Nghỉ!
 

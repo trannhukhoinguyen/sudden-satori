@@ -59,7 +59,7 @@ Kệ
 Phiêu bạt khắp chốn nhiều gian khổ
 Chớ bảo sơn tăng không nói trước
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -73,6 +73,7 @@ Chớ bảo sơn tăng không nói trước
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

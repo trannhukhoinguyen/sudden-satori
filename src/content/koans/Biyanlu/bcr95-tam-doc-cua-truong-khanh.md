@@ -15,7 +15,7 @@ Chỗ có Phật khôn được trụ, nếu trụ ắt đầu mọc sừng. Ch�
 
 Thử nói xem, nếu không như thế thì phải hành sử như thế nào? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Trường Khánh có lần nói, “Thà nói rằng A La Hán có tam độc chứ đừng nói là Như Lai có nhị chủng ngữ. 
 > 
@@ -31,7 +31,7 @@ Thử nói xem, nếu không như thế thì phải hành sử như thế nào? 
 >
 > Bảo Phúc nói, “Đi uống trà đi!”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Trường Khánh và Bảo Phúc lúc còn ở trong chúng hội của Tuyết Phong thường hay cảnh giác nhau và bàn luận với nhau. Một hôm cũng nhân lúc bình thường nói chuyện với nhau như thế, Trường Khánh nói, “ Thà nói rằng A La Hán có tam độc chứ đừng nói là Như Lai có nhị chủng ngữ.” Chữ Phạn A La Hán (arhat) có nghĩa là sát t85c, theo công năng mà có cái tên. A La Hán cắt đứt chín lần chín hay tám mươi mốt thứ phiền não, các lậu đã tận, Phạm hạnh đã lập, đó tức là vị A La Hán vô học ( không còn gì để học nữa) . Tam độc tức là tham sân và si, căn bổn phiền não. Một khi họ đã cắt đứt tám mươi mốt món phiền não thì tam độc có xá gì?
 
@@ -57,7 +57,7 @@ Tụng rằng:
 >
 > Tháng ba cửa Ngu bị điểm ngạch
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Đầu hề đệ nhất đệ nhị.” Nếu như người ta chỉ lo hiểu theo lối đệ nhất đệ nhị thì đúng là lăng xăng trong nước chết. 
 

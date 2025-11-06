@@ -23,7 +23,7 @@ Dù cho có đạt đến chỗ giải thoát đơn độc đi nữa, vẫn chư
 
 Các ông đã nắm được chưa? Nếu chưa thì chỉ phải hiểu cái công án rõ ràng này. Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Lúc Ngài Tuyết Phong [^3] ở trong am, có hai ông tăng đến đảnh lễ.
 > Ngài Tuyết Phong thấy họ đến lấy tay đẩy cửa, có người ra nói, “Cái gì đây?”
@@ -49,7 +49,7 @@ Các ông đã nắm được chưa? Nếu chưa thì chỉ phải hiểu cái c
 > Ngài Nham Đầu nói, “Mặc dù Tuyết Phong cùng sinh trong một dòng với ta, song không cùng chết trong một dòng với ta.
 > Nếu như ông muốn biết câu cuối cùng thì là cái này đây”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Phàm kẻ muốn chống đỡ tông môn, cần phải biện được cơ duyên mà mình đang đương đầu. Phải biết tiến thoái thị phi, phải rõ sát hoạt nắm buông. Nếu như mắt hốt nhiên mờ đi, đến đâu gặp câu hỏi bèn hỏi, gặp đáp bèn đáp, đâu có hay rằng lỗ mũi mình nằm trong tay người khác.Còn như Tuyết Phong và Nham Đầu là cùng học với Đức Sơn. Hai ông tăng kia đến tham kiến Tuyết Phong, chỗ hiểu biết chỉ đến mức đó mà thôi. Cho đến lúc gặp Nham Đầu, vẫn chưa thành tựu được một việc kia. Làm phiền hai vị tôn túc này một cách vô ích. Một hỏi một đáp một cầm một buông, mãi cho đến giờ thiên hạ vẫn lúng túng lầm lạc không phân biện được. Song thử nói xem lúng túng lầm lạc ở chỗ nào?
 
@@ -109,7 +109,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Đêm sau cùng ngắm tuyết ngàn đỉnh.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Câu cuối cùng , nói cho ông.” Tuyết Đậu tụng câu cuối cùng này, có ý ngật lực vì người khác.
 
@@ -157,6 +157,6 @@ Thử nói xem, đây là “vừa sáng vừa tối.” đồng sinh trong mộ
 
 [^2]: ⭐️
 
-[^3]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^3]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
 
-[^4]: ⭐️ <a href="/masters/ts-nham-dau-toan-hoat" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
+[^4]: ⭐️ <a href="/masters/Yantou-Quanhuo">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>

@@ -16,7 +16,7 @@ tags:
 
 Ẩn mật toàn chân, lập tức thủ chứng. Lững thững chuyển vật, trực tiếp đảm đương. Còn việc như đá lửa điện chớp, cắt đứt lầm lạc, nắm đầu cọp đuôi cọp, đứng lừng lững như vách đá vạn trượng, những thứ ấy tạm gác qua một bên. Một con đường còn có chỗ vì người khác không? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Đạo Ngô [^1] và Tiệm Nguyên [^2] đến một nhà kia để điếu tang.
 > Tiệm Nguyên vỗ vào quan tài hỏi, “Sống sao chết sao?”
@@ -53,7 +53,7 @@ Tuyết Đậu phê bình rằng, “Trời ơi, trời ơi!”
 
 Thái Nguyên Phù nói, “Linh cốt của các bậc tiên sư vẫn còn đó.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Đạo Ngô và Tiệm Nguyên đến một nhà kia để điếu tang. Tiệm Nguyên vỗ quan tài nói, “ Sống sao chết sao?” Đạo Ngô nói, “ Không bảo là sống mà cũng chẳng bảo là chết.” Nếu như nghe lời này mà hiểu ngay được cẩn ý, thì đó chính là khóa chốt để thoát sinh tử. Nếu chưa như thế được thì thường thường dễ bị lỡ mất.
 
@@ -89,7 +89,7 @@ Tuyết Đậu tụng rằng:
 >
 > Chiếc dép về Tây [^4] cũng mất rồi.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu rất khéo biết cách bỏ cước chú.Thầy ta là con cháu trong dòng của Vân Môn, có đủ cả búa kềm trong một câu đủ cả ba câu. Đối với những gì nói không được thầy ta nói rõ cả ra, những gì khai mở không được, thầy ta mở toang ra. Tụng ngay chỗ khẩn yếu ra rằng, “Thỏ ngựa có sừng, bò dê không sừng.” Thử nói xem tại sao thỏ ngựa có sừng, tại sao bò dê lại không có sừng? Chỉ khi nào hiểu thấu được câu chuyện trên các ông mới thấy được chỗ vì người của Tuyết Đậu.
 

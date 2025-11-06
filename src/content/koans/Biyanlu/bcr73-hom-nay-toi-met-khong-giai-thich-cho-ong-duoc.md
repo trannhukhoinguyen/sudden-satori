@@ -20,7 +20,7 @@ Vậy thì vô thuyết với vô thính vẫn còn là hơn. Còn như giờ đ
 
 Thử nêu lên cho những người có mắt nhìn thấu được quan kiện xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Mã Đại Sư, “Ly tứ cú tuyệt bách phi, xin thầy chỉ thẳng cho đệ tử ý chỉ của việc Tổ Sư từ Tây Trúc qua” 
 > 
@@ -42,7 +42,7 @@ Thử nêu lên cho những người có mắt nhìn thấu được quan kiện
 > 
 > Ông tăng thuật lại cho Mã Đại Sư nói, “Tạng đầu trắng, Hải đầu đen”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Về công án này , thuở xưa lúc sư núi tôi tham học với Chân Giác ở Thành Đô, Chân Giác nói, “Chỉ cần xem câu thứ nhất của Mã Tổ là lập tức hiểu ngay.” Thử nói xem, ông tăng kia hiểu mà đến hỏi hay không hiểu mà đến hỏi? Câu hỏi của ông ta quả thực là thâm sâu. Ly tứ cú (có nghĩa là lìa) hữu, vô, phi hữu phi vô, phi phi hữu, phi phi vô. Ly tứ cú là tuyệt được bách phi. Song nếu như các ông chỉ lo tạo nên những lý thuyết mà không hiểu thoại đầu, thì vỡ đầu mệt óc đi nữa cũng chẳng thấy được.
 
@@ -72,7 +72,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Thiên thượng nhân gian chỉ ta biết.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tạng đầu trắng, Hải đầu đen.” Thử nói xem có nghĩa là gì? Chỉ chút này thôi mà nạp tăng trong thiên hạ không nhảy ra khỏi được. 
 

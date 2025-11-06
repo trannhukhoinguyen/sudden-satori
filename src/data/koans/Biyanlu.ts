@@ -70,7 +70,7 @@ export const BiyanluTitles: KoanTitle[] = [
   { title: "PHÓ ĐẠI SĨ GIẢNG KINH XONG", slug: "bcr67-giang-kinh-khong-loi" },
   { title: "NGƯỠNG SƠN, ÔNG TÊN GÌ", slug: "bcr68-thay-ten-la-gi" },
   { title: "NAM TUYỀN VẼ VÒNG TRÒN", slug: "bcr69-nhu-vay-thi-thoi-khong-di-nua" },
-  { title: "QUI SƠN THỈNH HÒA THƯỢNG NÓI", slug: "bcr70-xin-de-hoa-thuong-noi-vay" },
+  { title: "Quy Sơn THỈNH HÒA THƯỢNG NÓI", slug: "bcr70-xin-de-hoa-thuong-noi-vay" },
   { title: "NGŨ PHONG HÒA THƯỢNG DẸP HẾT", slug: "bcr71-lay-tay-che-mat-ma-nhin-ong" },
   { title: "VÂN NHAM HÒA THƯỢNG CÓ", slug: "bcr72-ta-da-lam-chet-con-chau-roi" },
   { title: "MÃ TỔ TỨ CÚ BÁCH PHI", slug: "bcr73-hom-nay-toi-met-khong-giai-thich-cho-ong-duoc" },

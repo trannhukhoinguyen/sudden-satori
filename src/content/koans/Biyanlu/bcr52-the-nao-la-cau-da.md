@@ -14,7 +14,7 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Ngài Triệu Châu [^1], “Lâu nay nghe tiếng cầu đá của Triệu Châu, đến nơi lại chỉ thấy chiếc cầu khỉ.”
 >
@@ -24,7 +24,7 @@ tags:
 >
 > Ngài Triệu Châu nói, “Để lừa qua để ngựa qua.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nơi của Triệu Châu có chiếc cầu đá do Lý Ưng (thời Hậu Hán) xây. Cho đến nay vẫn nổi danh trong thiên hạ. Cầu khỉ là một chiếc cầu nhỏ chỉ gồm một khúc cây bắc qua dòng nước. Ông tăng kia cố tình giảm uy phong của Triệu Châu cho nên mới hỏi, “ Lâu nay nghe tiếng cầu đá của Triệu Châu, đến nơi lại chỉ thấy chiếc cầu khỉ.” Triệu Châu bèn nói, “Ông chỉ thấy cầu khỉ mà không thấy cầu đá.” Là dựa vào câu hỏi của ông tăng kia. Thoạt nghe có vẻ như đàm thoại bình thường, song Triệu Châu lại dùng để câu ông tăng. Ông tăng này quả nhiên mắc câu, cho nên bèn hỏi tiếp, “ Thế nào là cầu đá?” Triệu Châu nói, “Để lừa qua, để ngựa qua.” Quả thật là có chỗ xuất thân trong lời nói ấy. Triệu Châu không giống như Lâm Tế với Đức Sơn sữ dụng gậy và hét, mà chỉ dùng ngôn cú để sát hoạt mà thôi.
 
@@ -48,7 +48,7 @@ Tuyết Đậu tụng rằng:
 >
 > Biết nói”phóng tên” nhọc công thôi.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Không lập xa vời đạo mới cao”.
 Tuyết Đậu chỗ bình thường vì người của Triệu Châu.

@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 > Đưa chùy dụng phất tử đâu ngại khó nhọc. Giáo hóa chúng sanh là việc của chính mình. Người này có thấu mở buông thả và quyết định. Nói xem người đó là ai?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

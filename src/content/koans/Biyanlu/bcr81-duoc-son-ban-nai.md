@@ -18,7 +18,7 @@ Không phải thần thông diệu dụng, chẳng phải bổn thể như thiê
 
 Thử nói xem, bằng vào đâu mà đạt được sự kỳ đặc như vậy?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Dược Sơn, trên đất bằng cỏ thấp, có từng bầy nai, làm thế nào để bắn được con nai của loài nai? 
 > 
@@ -32,7 +32,7 @@ Thử nói xem, bằng vào đâu mà đạt được sự kỳ đặc như vậ
 
 Tuyết Đậu niệm rằng, “Ba bước tuy sống, năm bước phải chết.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Công án này trong Tào Động gọi là “mượn sự mà hỏi.” Cũng gọi là “câu hỏi để biện chủ nhân.” Loại công án này được dùng để minh giải cơ biến hiện tiền. Bình thường thì nai rất dễ bắn. Chỉ có con nai này thường mài sừng của nó nơi vách đá, cho nên sừng của nó sắc như thể kiếm. Nó dùng chính thân của mình ra mà che chở bầy nai khiến cho cọp cũng không đến gần được.
 
@@ -74,7 +74,7 @@ Cuối cùng Tuyết Đậu lại dùng lời của ông ta mà rụng rằng:
 
 > Tuyết Đậu lớn tiếng bảo xem tên!
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Nai của nai, ngài nhìn xem.” Các nạp tăng cần phải có mắt của con nai chúa có sứng của con nai chúa, phải có cơ quan phải có sách lược. Dù cho đó là mãnh hổ có cánh mèo rừng có sừng, con nai chúa vẫn giữ được thân mình không bị hại. Lúc ông tăng kia nằm xuống, có ý nói rằng, “Tôi chính là nai chúa.” Bắn một tên, chạy ba bước,” Dược Sơn nói, “Xem tên đây.” Ông tăng bèn nằm xuống. Dược Sơn nói, “Thị giả đâu kéo cái gã chết này ra ngoài xem.” Ông tăng này bèn bỏ đi. Hay lắm, nhưng mà ông ta chỉ đi được ba bước mà thôi.
 

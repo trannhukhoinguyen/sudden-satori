@@ -90,7 +90,7 @@ Ngài chỉ dạy ngay cho Trí Thông thế nên Sư nhận được. Không ch
 Chẳng giống chỗ mảng đá nhú mầm,
 Nhưng giống Sơ Sơn vào tháng chạp.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -104,6 +104,7 @@ Nhưng giống Sơ Sơn vào tháng chạp.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

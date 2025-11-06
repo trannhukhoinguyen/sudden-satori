@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 > Như muốn biết cội gốc, chỉ trừ thấy tánh biết tâm. 
 > Muốn biết nguyên nhân, thì phải nghiên cứu cùng tột, có nói được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

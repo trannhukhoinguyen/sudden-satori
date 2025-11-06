@@ -507,7 +507,7 @@ Cảnh giới của Thiền, chính là như vậy: đã bình thường lại k
 
 ### TẮC 24: TỰ NHIÊN NHƯ VẬY
 
-Thiền sư La Sơn Đạo Nhàn, họ Trần, người Trường Khê - Lãnh Trung (Phúc Kiến). Lúc còn nhỏ, ông xuất gia ở Qui Sơn, làm một tiểu Sa di thanh tịnh đáng yêu, chẳng u sầu chẳng buồn lo. Thời gian dần trôi, tiểu Sa di lớn thành một Tỳ kheo trẻ tuổi và cũng lớn dần tâm phiền não - sinh từ đâu đến? Chết đi về đâu?
+Thiền sư La Sơn Đạo Nhàn, họ Trần, người Trường Khê - Lãnh Trung (Phúc Kiến). Lúc còn nhỏ, ông xuất gia ở Quy Sơn, làm một tiểu Sa di thanh tịnh đáng yêu, chẳng u sầu chẳng buồn lo. Thời gian dần trôi, tiểu Sa di lớn thành một Tỳ kheo trẻ tuổi và cũng lớn dần tâm phiền não - sinh từ đâu đến? Chết đi về đâu?
 
 Dường như mỗi người đều phải trả lời câu hỏi này: sinh từ trong bụng mẹ ra, chết đi vào trong phần mộ. Nhưng trước khi cha mẹ chưa sinh, bạn ở đâu? Chết rồi, chết rồi, quả thật chết là hết, mọi việc xong xuôi? Bạn có thể trả lời sao?
 

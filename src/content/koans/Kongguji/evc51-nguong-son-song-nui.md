@@ -64,7 +64,7 @@ Kệ
 Một phong cảnh vững lặng
 Ý ngàn xưa rõ ràng
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -78,6 +78,7 @@ Một phong cảnh vững lặng
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

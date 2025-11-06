@@ -10,7 +10,7 @@ tags:
 image: /images/koans/great-wave.webp
 ---
 
-## THÙY:
+## THÙY
 
 Một cơ một cảnh, một lời một câu,phải tìm lối mà vào.
 Có một vết thương trên thịt, nó có thể thành hang thành động.
@@ -21,7 +21,7 @@ Như vậy cũng được mà không như vậy cũng được, thế thì quá 
 Như vậy cũng không được mà không như vậy cũng không được, thế thì quá đơn độc.
 Không theo hai con đường này, như thế nào mới đúng? Xin thử nêu ra xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 Mã Đại Sư [^1] không khỏe.
 
@@ -29,7 +29,7 @@ Mã Đại Sư [^1] không khỏe.
 
 - Đại sư nói, “Nhật diện Phật. Nguyệt diện Phật"
 
-## BÌNH:
+## BÌNH XƯỚNG
 
 Mã Đại Sư không khỏe. Viện Chủ hỏi, “Gần đây sức khỏe của Thầy ra sao?”.
 
@@ -59,7 +59,7 @@ Chỉ cái “_Nhật diện Phật. Nguyệt diện Phật_” này cũng hết
 
 Song bởi vì thầy ta đã thấy rõ, cho nên mới dùng hết sức bình sinh ra mà chú giải.Các vị có muốn thấy Tuyết Đậu không? Xin đọc đoạn văn dưới đây.’
 
-## TỤNG:
+## TỤNG
 
 > Nhật diện Phật, nguyệt diện Phật
 >
@@ -73,7 +73,7 @@ Song bởi vì thầy ta đã thấy rõ, cho nên mới dùng hết sức bình
 >
 > Nạp tăng mắt sáng chớ coi thường.
 
-## BÌNH:
+## BÌNH XƯỚNG
 
 Khi Tống Thần Tông còn tại vị (1086-1085) ông ta nghĩ rằng bài tụng này châm biếm quốc gia, cho nên không cho phép ghi vào Đại Tạng.
 

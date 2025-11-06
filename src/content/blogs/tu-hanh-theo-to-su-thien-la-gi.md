@@ -9,9 +9,9 @@ authors:
   - HT Thích Duy Lực
 ---
 
-## Giới thiệu
+## Lời Giới thiệu
 
-Chúng ta trở lại một khái niệm hết sức cơ bản : Tu hành theo Phật giáo là thế nào ? Phật giáo có rất nhiều kinh điển đáp ứng cho rất nhiều căn cơ trình độ khác nhau. Một tuyên thuyết phổ biến là Phật giáo có tới 84.000 pháp môn tức là cửa vào đạo hay phương pháp tu hành, cả phương tiện và cứu cánh đều khác nhau. Điều đó khiến cho hành giả nhiều lúc bối rối, không biết tu hành là thế nào.
+Chúng ta trở lại một khái niệm hết sức cơ bản: Tu hành theo Phật giáo là thế nào ? Phật giáo có rất nhiều kinh điển đáp ứng cho rất nhiều căn cơ trình độ khác nhau. Một tuyên thuyết phổ biến là Phật giáo có tới 84.000 pháp môn tức là cửa vào đạo hay phương pháp tu hành, cả phương tiện và cứu cánh đều khác nhau. Điều đó khiến cho hành giả nhiều lúc bối rối, không biết tu hành là thế nào.
 
 Có người cho là tu hành tại gia là giữ ngũ giới. Đối với người xuất gia, tỳ kheo tu hành là giữ 250 giới, đối với tỳ kheo ni tu hành là giữ 348 giới. Ngoài ra cả người tại gia và người xuất gia hàng ngày ăn chay, tụng kinh, gõ mõ, niệm Phật, niệm chú… đó là tu hành.
 
@@ -65,7 +65,7 @@ Trong Tổ Sư Thiền thì văn tự lời nói không được coi trọng qu�
 
 Thiếu Thất là nơi cư trú của Bồ Đề Đạt Ma, ở đó có chùa Thiếu Lâm nổi tiếng. Thiếu Thất Lục Môn là 6 cửa vào núi Thiếu Thất gồm có :
 
-A.《心經頌》Tâm Kinh Tụng. Bồ Đề Đạt Ma soạn ra bài tụng dựa vào Bát Nhã Ba La Mật Đa Tâm Kinh. Đoạn mở đầu như sau :
+**⚡️《心經頌》Tâm Kinh Tụng** Bồ Đề Đạt Ma soạn ra bài tụng dựa vào Bát Nhã Ba La Mật Đa Tâm Kinh. Đoạn mở đầu như sau :
 
 我本求心心自持 Ngã bổn cầu tâm tâm tự trì   Ta vốn cầu tâm tâm tự duy trì
 
@@ -83,16 +83,16 @@ A.《心經頌》Tâm Kinh Tụng. Bồ Đề Đạt Ma soạn ra bài tụng d�
 
 只這心心心是佛 Chỉ giá tâm tâm tâm thị Phật   Chỉ cái tâm này là Phật mà thôi
 
-B.《破相論》Phá Tướng Luận. Bồ Đề Đạt Ma phá sự chấp trước về hình tướng qua hình thức vấn đáp :
+**⚡️《破相論》Phá Tướng Luận** Bồ Đề Đạt Ma phá sự chấp trước về hình tướng qua hình thức vấn đáp :
 問曰：若復有人志求佛道者，當修何法最為省要？
 
-Hỏi : Nếu có người có chí cầu Phật đạo thì nên tu pháp nào là tỉnh giác nhất ?
+❓ Hỏi : Nếu có người có chí cầu Phật đạo thì nên tu pháp nào là tỉnh giác nhất ?
 
 答曰：唯觀心一法，總攝諸法，最為省要
 
 Đáp : Chỉ có một pháp là quán tâm, là nắm chung tất cả các pháp, đó là cách tỉnh giác nhất
 
-C.《二種入》Nhị Chủng Nhập còn có tên「達磨二入四行觀」Đạt Ma Nhị Nhập Tứ Hành Quán (2 cách vào đạo và 4 pháp hành quán của Đạt Ma).
+**⚡️《二種入》Nhị Chủng Nhập** còn có tên「達磨二入四行觀」Đạt Ma Nhị Nhập Tứ Hành Quán (2 cách vào đạo và 4 pháp hành quán của Đạt Ma).
 
 二種入：一是理入，二是行入 Nhị chủng nhập : Nhất thị lý nhập, nhị thị hành nhập. (2 cách vào đạo, một là dùng lý để vào, hai là dùng thực hành để vào. Dùng lý để vào, đó là Như Lai Thiền. Dùng thực hành để vào, đó là Tổ Sư Thiền. Tứ Hành Quán bao gồm :
 
@@ -106,7 +106,8 @@ Chúng sinh vô ngã, tịnh duyên nghiệp sở chuyển, khổ lạc tề th�
 四  稱法行 4/Xứng Pháp Hành (hành động tương xứng với pháp) 性淨之理，目之為法  Tính tịnh chi lý, mục chi vô pháp (tính lý của vạn pháp là thuần nhất, vô phân biệt nên mắt (người trí) xem như không có pháp, không có vật gì cả. Pháp là không nên hành giả không cần phải bị pháp sai khiến, cứ tùy duyên mà hành động, không cần phải lo buồn.
 
 Nguyên tử không phải là vật. Đó là nhận định của nhà khoa học Đức Werner Heisenberg : “Atoms and elementary particles…form a world of potentialities or possibilities, rather than one of things or facts…atoms are not things” (Nguyên tử và các hạt cơ bản…hình thành một thế giới tiềm thể hay có khả năng hiện hữu, chứ không phải một thế giới của vật thể hay sự vật có thật…Nguyên tử không phải là vật). Các hạt cơ bản của vật chất chỉ là hạt ảo. Nguyên tử cũng không phải là vật nên thế giới vật chất cũng chỉ là ảo hóa.
-D.《安心法門》An Tâm Pháp Môn, bài giảng này trích từ Liên Đăng Hội Yếu聯燈會要
+
+**⚡️《安心法門》An Tâm Pháp Môn**, bài giảng này trích từ Liên Đăng Hội Yếu聯燈會要
 
 迷時人逐法 Mê thời nhân trục pháp  Lúc mê người đuổi theo pháp
 
@@ -130,7 +131,7 @@ Chỉ vì có tâm phân biệt suy tính tự tâm mình tạo ra sự kiện h
 
 Tóm lại trong pháp môn an tâm này Đạt Ma nói tất cả các pháp đều là mộng huyễn không có thật, đều do tâm tưởng tượng ra (tự tâm hiện lượng 自心現量) nên người giác ngộ không đuổi theo pháp mà pháp đuổi theo người. Thí dụ ta không cần lao tâm khổ tứ kiếm tiền nhưng khi cần thì tiền tự đến với ta, bởi vì bản tâm có sức mạnh vô cùng lớn, có khả năng làm gì cũng được, khi ta đã phá bỏ chướng ngại giữa ta và tâm (câu thông) thì tâm biết ta cần gì và đáp ứng đúng lúc. Ý nghĩa của pháp môn an tâm là như vậy.
 
-E.《悟性論》Ngộ Tính Luận, bài giảng này do sa môn Thích Tông Kính釋宗鏡 ở chùa Hoa Nghiêm Du Châu渝州華嚴寺, khắc bản. Du Châu ngày nay thuộc thành phố Trùng Khánh.
+**⚡️《悟性論》Ngộ Tính Luận**, bài giảng này do sa môn Thích Tông Kính釋宗鏡 ở chùa Hoa Nghiêm Du Châu渝州華嚴寺, khắc bản. Du Châu ngày nay thuộc thành phố Trùng Khánh.
 
 夫道者；以寂滅為體。Phù đạo giả, dĩ tịch diệt vi thể  Đạo lấy tịch diệt  làm thể
 
@@ -142,7 +143,7 @@ E.《悟性論》Ngộ Tính Luận, bài giảng này do sa môn Thích Tông K
 
 得菩提道，故名為佛  Đắc bồ đề đạo, cố danh vi Phật  Chứng được đạo giác ngộ thì gọi là Phật
 
-F.《血脈論》Huyết Mạch Luận, bài giảng này cũng do sa môn Thích Tông Kính釋宗鏡 ở chùa Hoa Nghiêm Du Châu渝州華嚴寺, khắc bản. Du Châu ngày nay thuộc thành phố Trùng Khánh.
+**⚡️《血脈論》Huyết Mạch Luận**, bài giảng này cũng do sa môn Thích Tông Kính釋宗鏡 ở chùa Hoa Nghiêm Du Châu渝州華嚴寺, khắc bản. Du Châu ngày nay thuộc thành phố Trùng Khánh.
 
 三界混起，同歸一心，Tam giới hỗn khởi, đồng qui nhất tâm  Tam giới xuất hiện hỗn độn mênh mông đồng qui về một tâm. Ý nói tâm là nguồn gốc của tam giới.
 
@@ -182,11 +183,11 @@ Phái Thiền của Huệ Năng phát triển như một ngọn đuốc chói s�
 
 Thế hệ kế tiếp trong đời nhà Đường và đầu đời nhà Tống cũng đã sản sinh rất nhiều  những vị Thiền sư kiến tánh danh tiếng như  Mã Tổ Đạo Nhất (馬祖道一), Bách Trượng Hoài Hải (百丈懷海), Triệu Châu Tòng Thẩm (趙州從諗), Lâm Tế Nghĩa Huyền (臨濟義玄) … về sau chia ra 5 nhánh :
 
-Quy Ngưỡng tông 潙仰宗, do môn đệ của Thiền sư Bách Trượng Hoài Hải là Quy Sơn Linh Hựu 潙山靈祐 và đệ tử là Ngưỡng Sơn Huệ Tịch 仰山慧寂 sáng lập.
-Lâm Tế tông 臨濟宗, do Thiền sư Lâm Tế Nghĩa Huyền 臨濟義玄 sáng lập.
-Tào Động tông 曹洞宗, do hai thầy trò Thiền sư Động Sơn Lương Giới 洞山良价 và Tào Sơn Bản Tịch 曹山本寂 sáng lập.
-Vân Môn tông 雲門宗, do Thiền sư Vân Môn Văn Yển 雲門文偃, đệ tử của Thiền sư Tuyết Phong Nghĩa Tồn 雪峰義存 sáng lập
-Pháp Nhãn tông 法眼宗, do Thiền sư Pháp Nhãn Văn Ích 法眼文益, môn đệ của thiền sư La Hán Quế Sâm 羅漢桂琛 sáng lập.
+- **Quy Ngưỡng tông** 潙仰宗, do môn đệ của Thiền sư Bách Trượng Hoài Hải là Quy Sơn Linh Hựu 潙山靈祐 và đệ tử là Ngưỡng Sơn Huệ Tịch 仰山慧寂 sáng lập.
+- **Lâm Tế tông** 臨濟宗, do Thiền sư Lâm Tế Nghĩa Huyền 臨濟義玄 sáng lập.
+- **Tào Động tông** 曹洞宗, do hai thầy trò Thiền sư Động Sơn Lương Giới 洞山良价 và Tào Sơn Bản Tịch 曹山本寂 sáng lập.
+- **Vân Môn tông** 雲門宗, do Thiền sư Vân Môn Văn Yển 雲門文偃, đệ tử của Thiền sư Tuyết Phong Nghĩa Tồn 雪峰義存 sáng lập
+- **Pháp Nhãn tông** 法眼宗, do Thiền sư Pháp Nhãn Văn Ích 法眼文益, môn đệ của thiền sư La Hán Quế Sâm 羅漢桂琛 sáng lập.
 
 ## Cách tu hành theo Tổ Sư Thiền
 

@@ -19,7 +19,7 @@ Khi buông được chính là trụ.
 Nói khắp thiên hạ chẳng tốn một lời, chẳng động môi mà điều trọng yếu đã thông đạt. 
 Đùa bỡn như thế, có ai nói được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

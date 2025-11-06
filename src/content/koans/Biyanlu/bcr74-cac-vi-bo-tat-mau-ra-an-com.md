@@ -18,11 +18,11 @@ Gương sáng treo cao, trong câu dẫn xuất ấn Tì Lô. Ở chỗ điền 
 
 Chỗ thần thông du hí, làm sao mà nương náu? Đã hiểu rõ chưa? Xin xem văn dưới đây.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Mỗi lúc đến giờ trai, Kim Ngưu hòa thượng ôm nồi cơm ra trước tăng đường múa rồi cười ha hả nói, “Các Bồ Tát mau ra ăn cơm!”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Kim Ngưu là bậc tôn túc trong dòng của Mã Tổ. Mỗi lúc đến giờ trai là lại ôm nồi cơm ra trước tăng đường múa, rồi cười ha hả nói, “ Các Bồ Tát mau ra ăn cơm!” Thầy ta làm như thế suốt hai mươi năm, thử nói xem, ý của thầy ta ở chỗ nào? Nếu như chỉ để gọi tăng chúng ra ăn cơm, bình thường người ta có thể đánh mõ đánh trống để gọi cũng được rồi, hà cớ phải ôm nồi cơm ra làm lắm trò dấm dớ như thế? Phải chăng là thầy ta điên? Hay là thầy ta đề xướng kiến lập? Nếu như thầy ta đề xướng việc này, tại sao không leo lên bảo vương tòa mà lay giường dơ phất trần? Phải làm như vầy để làm gì?
 
@@ -44,7 +44,7 @@ Tuyết Đậu tụng rằng:
 >
 > Ngoài ba ngàn dặm vẫn nhìn ra.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Trong bóng mây trắng cười ha ha”. Trường Khánh nói, “Nhân thụ trai mà tán than.” Tuyết Đậu nói, “Hai tay cầm đến trao người ta.” Thử nói xem, phải chăng thầy ta chỉ đem cơm đến cho người ta ăn hay là còn có cái gì kỳ đặc hơn nữa? Nếu như các ông có thể hiểu được ngọn ngành của vấn đề này thì các ông đúng là dòng dõi của sư tử lông vàng. Nếu như họ là dòng dõi của sư tử lông vàng, thì Kim Ngưu hẳn đã không cần phải ôm nồi cơm ra trước tăng đường múa rồi cười ha hả, từ xa ngoài ba ngàn dặm họ hẳn đã thấy ra được chỗ sai lầm của thấy ta rồi.
 

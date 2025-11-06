@@ -14,17 +14,23 @@ image: /images/koans/great-wave.webp
 
 Lớn không bờ cõi, nhỏ như vi trần, nắm buông không phải là gì khác, cuộn mở đều ở nơi mình. Nếu như muốn cởi bỏ chỗ trói buộc dính dấp, ắt phải cắt đứt hết tông tích (của tâm hành) nuốt hết âm thanh (của ngôn ngữ). Mọi người thấy rõ bờ kia, ai nấy lừng lững ngàn trượng. Thử nói xem đó là cảnh giới của ai? Xin nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Tuyết Phong [^1] dạy chúng rằng: Nam sơn có một con rắn mũi rùa, các ông cần phải coi chừng.
+> 
 > Trường Khánh nói, “Hôm nay trong đại sảnh có người tang thân thất mạng.”
+> 
 > Có ông tăng thuật lại cho Huyền sa,
+> 
 > Huyền Sa nói, “Phải là Lăng huynh thì nới nói như thế được tuy nhiên tôi thì lại không như thế.”
+> 
 > Ông tăng hỏi, “Hòa thượng thì như thế nào?”
+> 
 > Huyền Sa nói, “Cần gì phải Nam Sơn.”
+> 
 > Vân Môn thì chỉ ném gậy xuống trước mặt Tuyết Phong làm ra vẻ sợ sệt. [^3]
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu như các ông muốn trải nó ra thì cứ việc trải nó ra, nếu như các ông muốn đả phá thì cứ việc đã phá [^4].
 
@@ -156,7 +162,7 @@ Tuyết Đậu chỉ vì thích cái khế hợp của Vân Môn với ý chỉ 
 >
 > Sư lớn tiếng quát rằng, “nhìn dưới chân!”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Tượng cốt vách cao người không đến, kẻ đến là tay bắt rắn.” Trên Tuyết Phong Sơn có vách Tượng Cốt. Tuyết Phong có cơ phong cao lừng lững, hiếm có người đạt đến được. Tuyết Đậu là người trong nhà (của Tuyết Phong) cùng lông cùng giống. Đồng thanh tương ứng đồng khí tương cầu, cần các tay thanh thạo chứng minh cho nhau.
 
@@ -190,7 +196,7 @@ Tuy rằng Trường Khánh, Huyền Sa và Vân Môn có thể bắt được r
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^1]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
 
 [^3]: ⭐️
 

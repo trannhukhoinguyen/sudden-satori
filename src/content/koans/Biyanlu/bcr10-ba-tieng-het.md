@@ -28,23 +28,23 @@ Nếu có nguyên tắc thì dựa vào nguyên tắc, nếu không có nguyên 
 
 Thử nêu ra xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
-> Mục Châu [^1] hỏi ông tăng, “Ông mới từ đâu đến vậy?”
->
-> Ông tăng bèn hét.
->
-> Mục Châu nói, “Lão tang bị ông hét một lần.”
->
-> Ông tăng lại hét nữa.
->
-> Mục Châu nói, “Ba bốn tiếng hét, sau đó thì sao?”
->
-> Ông tăng không nói gì được.
->
-> Mục Châu bèn đánh rồi nói, “Cái gã vô tích sự này.”
+Mục Châu [^1] hỏi ông tăng, “Ông mới từ đâu đến vậy?”
 
-## BÌNH
+Ông tăng bèn hét.
+
+Mục Châu nói, “Lão tang bị ông hét một lần.”
+
+Ông tăng lại hét nữa.
+
+Mục Châu nói, “Ba bốn tiếng hét, sau đó thì sao?”
+
+Ông tăng không nói gì được.
+
+Mục Châu bèn đánh rồi nói, “Cái gã vô tích sự này.”
+
+## BÌNH XƯỚNG
 
 Bất cứ ai muốn chống giữ tông môn của chúng ta đều cần phải có đôi mắt của bậc tông sư cũng như khả năng của bậc tông sư.
 
@@ -74,23 +74,30 @@ Song chỉ vì ông tăng này không nói gì được, cho nên mới bị lã
 
 Thử lắng nghe tụng của Tuyết Đậu xem:
 
-> Hai hét với ba hét,
->
-> Thành thạo biết cơ biến.
->
-> Nếu như cưỡi lưng cọp,
->
-> Cả hai thành ra mù.
->
-> Ai mù đâu?
->
-> Nêu lên cho cả thiên hạ xem!
+<blockquote> 
 
-## BÌNH
+Hai hét với ba hét,
+
+Thành thạo biết cơ biến.
+
+Nếu như cưỡi lưng cọp,
+
+Cả hai thành ra mù.
+
+Ai mù đâu?
+
+Nêu lên cho cả thiên hạ xem!
+</blockquote>  
+
+## BÌNH XƯỚNG
 
 Tuyết Đậu luôn luôn đặc biệt vì người khác. Nếu như không phải là một chuyên gia hẳn thầy ta đã chỉ hét lung tung.
 
-Có lúc một tiếng hét không dùng như một tiếng hét, có lúc một tiếng hét dùng như một tiếng hét, có lúc một tiếng hét như sư tử ngồi xổm, có lúc một tiếng hét như Kim Cương Bảo Kiếm.” Hưng Hóa nói, “Tôi thấy các ông dưới hiên đông cũng hét, dưới mái tây cũng hét, hét loạn xà ngầu để làm cái gì? Lâm Tế nói, “Tôi nghe nói các ông bắt chước tôi hét, tôi thử hỏi các ông, đông đường có ông tăng bước ra, tây đường có ông tăng bước ra, cả hai ông tăng đều hét một tiếng, ai là chủ ai là khách? Nếu như các ông không phân biệt được chủ khách, từ rày về sau đừng bắt chước tôi hét nữa.
+Có lúc một tiếng hét không dùng như một tiếng hét, có lúc một tiếng hét dùng như một tiếng hét, có lúc một tiếng hét như sư tử ngồi xổm, có lúc một tiếng hét như Kim Cương Bảo Kiếm.” 
+
+Hưng Hóa nói, “Tôi thấy các ông dưới hiên đông cũng hét, dưới mái tây cũng hét, hét loạn xà ngầu để làm cái gì? 
+
+Lâm Tế nói, “Tôi nghe nói các ông bắt chước tôi hét, tôi thử hỏi các ông, đông đường có ông tăng bước ra, tây đường có ông tăng bước ra, cả hai ông tăng đều hét một tiếng, ai là chủ ai là khách? Nếu như các ông không phân biệt được chủ khách, từ rày về sau đừng bắt chước tôi hét nữa.
 
 Cho nên Tuyết Đậu tụng rằng, “Thành thạo biết cơ biến.”
 
@@ -100,7 +107,7 @@ Thử nói xem, chỗ nào là chỗ ông tăng kia biết chỗ cơ biến?
 
 Lộc Môn Trí Thiền Sư phê bình ông tăng này rằng, “Người biết Pháp sự?” Nham Đậu nói,” Luận việc chiến, ai cũng nắm then chốt.”
 
-Hoàn Long Tâm nói, “Cùng tắc biến, biến tắc thông”.[29] Đây chính là chỗ mà các tổ sư làm cho người trong thiên hạ phải líu lưỡi.
+Hoàn Long Tâm nói, “Cùng tắc biến, biến tắc thông”. [^29] Đây chính là chỗ mà các tổ sư làm cho người trong thiên hạ phải líu lưỡi.
 
 Nếu như các ông là người hiểu cơ biến thì vừa nêu lên đã hiểu ngay chỗ cốt yếu.
 
@@ -144,12 +151,6 @@ Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-muc-chau-dao-minh/" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
+[^1]: ⭐️ <a href="/masters/Muzhou-Daoming" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
 
-⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/muc-chau-tran-ton-tuc-k1444.html" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
-
-⭐️ <a href="https://ngulucthien.com/thien-su-dao-minh/" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
-
-⭐️ <a href="https://quangduc.com/a46422/07-thien-su-tran-ton-tuc-hieu-dao-minh" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
-
-⭐️ <a href="https://hoavouu.com/a17587/07-thien-su-tran-ton-tuc-hieu-dao-minh" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
+[^29]: ⭐️ <a href="" target="_blank">🔗 </a>

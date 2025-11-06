@@ -12,15 +12,16 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Hỏi một đáp mười. Nêu một rõ ba. Thấy thỏ thả ưng, nhân gió thổi lửa, không tiếc lông mày. Điều này tạm để qua một bên. Lúc vào hang cọp thì như thế nào? Thử nêu lên xem.
+> Hỏi một đáp mười. Nêu một rõ ba. Thấy thỏ thả ưng, nhân gió thổi lửa, không tiếc lông mày. 
+> Điều này tạm để qua một bên. Lúc vào hang cọp thì như thế nào? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Lúc cây khô lá rụng thì như thế nào?
 >
 > Vân Môn [^1] nói, “Thể lộ kim phong.” [^11]
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu như vào được chỗ này, sẽ thấy được chỗ vì người của Vân Môn. Nếu như vẫn chưa như thế được, thì vẫn cứ chỉ nai mà bảo là ngựa như trước. Mắt đui tai điếc, ai là người đến cảnh giới này? Thử nói xem, Vân Môn có ý đáp câu hỏi của ông tăng kia, hay là có ý xướng họa với ông? Nếu như bảo là đáp câu hỏi của ông tăng,thì các ông quả là lầm lẫn bám vào điểm giữa của cán cân. Nếu như bảo là Vân Môn xướng họa với ông tăng, thì chẳng có gì là đúng cả. Nếu đã không như thế, thì cứu cánh là như thế nào? Nếu như các ông thấy rõ được, thì mũi của các nạp tăng cũng chẳng đáng để nắm. Còn nếu vẫn chưa như thế được, thì các ông vẫn cứ lạc vào hang mà như cũ.
 
@@ -50,7 +51,7 @@ Người thấy chăng Thiếu Lâm ngồi lâu khách chưa về,
 
 Hùng Nhĩ êm đềm một tùng lâm.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Cổ nhân nói, “Nghe lời phải hiểu tông, đừng tự lập qui củ.” Lời của cổ nhân không phải là bày ra một cách rỗng tuếch. Cho nên mới có câu nói, “Phàm khi hỏi về một việc gì, cũng cần phải có chút hiểu biết về đúng sai, Nếu như không biết tôn ti, mở miệng nói bừa, có ích lợi gì đâu?” Phàm mỗi khi nói ra một lời gì bày tỏ ra một điều gì, cần phải như kềm như kẹp, có câu có móc, phải tương tục bất đoan. Chỗ hỏi của ông tăng này có tông chỉ. Chỗ đáp của Vân Môn cũng thế. Vân Môn thường dùng ba câu mà tiếp thiên hạ, đây chính là cực tắc vậy.
 

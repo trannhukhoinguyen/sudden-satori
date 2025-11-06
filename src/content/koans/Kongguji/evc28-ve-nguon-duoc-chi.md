@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Thẳng đến cội nguồn, mục đích muốn nhân sinh mau hội. 
 Không lãng phí thời gian suy nghĩ chọn lựa, tìm cảnh. Có ai không động môi lưỡi nói được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

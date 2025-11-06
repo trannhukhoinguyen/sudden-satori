@@ -20,7 +20,7 @@ Tiếp nhận cơ hội hướng thượng, bàn đến sự siêu việt.
 Thử nói xem, từng có ai đến như thế?
 Có ai biết cốt yếu của việc này chăng? Xin nêu lên xem thử.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Hoàng Bá [^0] dạy chúng rằng, “_Các ông chỉ là những kẻ uống cặn rượu.
 > Hành cước như thế, ở đâu có ngày hôm nay?
@@ -30,7 +30,7 @@ Có ai biết cốt yếu của việc này chăng? Xin nêu lên xem thử.
 >
 > Ngài Hoàng Bá nói, “_Tôi đâu có bảo là không có Thiền, chỉ có điều không có những bậc thầy mà thôi_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Hoàng Bá thân cao bảy thước [^1], trên trán có cục thịt nhô ra trông như thể viên ngọc tròn. Bẩm sinh thông hiểu Thiền. có truyền thuyết nói rằng đã từng đồng hành với La Hán [^2].
 
@@ -158,7 +158,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Ba bận đích thân đụng móng vuốt.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Câu tụng này của Tuyết Đậu có vẻ như thực sự tán thán Hoàng Bá. Song người ta không được hiểu là tán thán thật.
 

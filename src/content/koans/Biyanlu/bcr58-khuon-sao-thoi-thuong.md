@@ -14,13 +14,13 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Triệu Châu, “Đạo lớn không khó, chỉ đừng so đo, phải chăng là khuôn sáo của thiên hạ bây giờ?”
 >
 > Triệu Châu nói, “Có người từng hỏi ta như thế, suốt năm năm nay ta vẫn chưa biết phải giải thích như thế nào?”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Triệu Châu bình sinh không dựa vào phương pháp dùng gậy và tiếng hét, song chỗ thụ dụng của thầy ta còn hơn cả phương pháp ấy. Câu hỏi của ông tăng này cũng hết sức là kỳ đặc, nếu như là ai khác ngoài Triệu Châu hẳn cũng hết sức mà khó trả lời cho ông ta. Bởi vì Triệu Châu là bậc chuyên gia cho nên chỉ nói với ông tăng kia rằng,” Có người từng hỏi ta như thế, suốt năm năm nay ta vẫn chưa biết phải giải thích như thế nào?” Câu hỏi cao lừng lững vạn trượng, câu đáp cũng chẳng từng coi nhẹ câu hỏi. Chỉ cần hiểu như thế, thì có thể nói (công án) là ở ngay đây đây. Nếu không hiểu, cũng dừng nên so đo.
 
@@ -44,7 +44,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Quạ bay thỏ chạy.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Triệu Châu nói, “Có người từng hỏi tôi như thế, suốt năm năm nay ta vẫn chưa biết phải giải thích như thế nào?”
 

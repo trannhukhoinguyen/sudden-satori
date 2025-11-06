@@ -21,7 +21,7 @@ Ngồi đầu cọp để nắm đuôi cọp, chưa phải là bậc chuyên gia
 
 Lúc người vượt qua sự tư lương đến thì như thế nào? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Tam Thánh [^1] hỏi ngài Tuyết Phong [^2], “_Con cá vàng vượt ra khỏi lưới, không hiểu lấy gì để ăn?_”
 >
@@ -31,7 +31,7 @@ Lúc người vượt qua sự tư lương đến thì như thế nào? Thử n�
 >
 > Ngài Tuyết Phong nói, “_Việc trụ trì của Lão tăng bề bộn vô cùng_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Phong và Tam Thánh tuy rằng một ra một vào, một xô một đẩy, song vẫn chưa phân thắng phụ. Thử nói xem hai vị tôn túc này có thứ mắt gì? Tam Thánh kể từ sau khi nhận yếu chỉ nơi Lâm Tế đi hành cước khắp các nơi, đến đâu cũng được đãi ngộ như khách quí. Nhìn xem cách thầy ta đặt câu hỏi. Biết bao nhiêu người rờ rẫm không ra! Không động chạm gì đến lý tính hay Phật pháp mà thầy ta lại chỉ hỏi, “Con cá vàng vượt ra khỏi lưới, không biết lấy gì để ăn?” Thử nói xem, ý của thầy ta như thế nào? Con cá vàng vượt ra khỏi lưới bình thường đã không còn ăn mồi của thiên hạ nữa, không biết lấy gì để ăn đây?
 
@@ -57,7 +57,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Trên trời cõi người mấy ai biết?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Cá vàng thoát lưới, đừng nói vương nước.” Ngũ Tổ nói, “Chỉ cần một câu tụng này thôi là kể cũng được.” Đã là con cá vàng vượt khỏi lưới làm sao có thể sống trong vũng nước được? Ắt là phải ở chỗ sóng cả dạt dào ba đào tận trời. Thử nói xem, trong suốt cả ngày nó biết lấy gì để ăn? Các ông hãy trở về phòng mà ngồi phân định cho ra. Tuyết Đậu nói, “ Việc này tùy mọi người niệm lộng.” Loài vật như con cá vàng này” dựng râu vẫy đuôi, thì quả là trời đầt dao động.
 
@@ -83,4 +83,4 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 [^1]: ⭐️ <a href="/masters/ts-tam-thanh-hue-nhien/" target="_blank">🔗 TS TAM THÁNH HUỆ NHIÊN</a>
 
-[^2]: ⭐️ <a href="/masters/ts-tuyet-phong-nghia-ton" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^2]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>

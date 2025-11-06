@@ -17,7 +17,7 @@ Kim Cương Bảo Kiếm chém thẳng xuống, mới biết xưa nay thiếu kh
 
 Thử nói xem, Kim Cương Bảo Kiếm là gì? Mở mắt ra đi, tôi để lộ lưỡi kiếm cho các ông xem!
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Lúc Thiên Bình hòa thượng đi hành cước có đến tham kiến Tây Viện. 
 >
@@ -49,7 +49,7 @@ Thử nói xem, Kim Cương Bảo Kiếm là gì? Mở mắt ra đi, tôi để 
 > Trưởng Lão nói, “Sai!” hai lần liên tiếp, rồi lại giữ tôi qua mùa hạ, để mà bàn luận. 
 > Không phải lúc đó tôi mới sai, ngay lúc khởi hành đi phương nam, tôi đã biết là sai rồi.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tử Minh thoạt tiên tham học với Đại Giác, sau đó thừa tự Bảo thụ. Một hôm hỏi, “Đập phá hóa thành thì như thế nào?” Bảo Thụ nói, “Kiếm sắc không chém người chết.” Tử Minh nói, “Cắt” Bảo Thụ bèn đánh. Tử Minh nói, “Cắt,” mười lần, Bảo Thụ cũng đánh mười lần và nói, “ Gã này không hiểu vội vã gì mà lại đem người chết ra chịu gậy đau như thế?” Rồi hét và đuổi Tử Minh ra ngoài. Lúc ấy có ông tăng hỏi Bảo Thủ , “Ông tăng vừa rồi hỏi câu hỏi kia có lý vô cùng, xin hòa thượng tiếp ông ta một cách khéo léo.” Bảo Thụ cũng đánh và đuổi ông tăng ra ngoài luôn. Thử nói xem, lúc Bảo Thụ đuổi ông tăng ra ngoài luôn. Thử nói xem, lúc Bảo Thụ đuổi ông tăng kia ra goài, chỉ bởi vì ông ta nói thị nói phi hay còn có lý do gì khác? Ý của thầy ta như thế nào? Sau này cả hai người kia (Tử Minh và ông tăng) đều thừa tự Bảo Thụ.
 
@@ -83,7 +83,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 Tuyết Đậu lại nói, “Nếu như có ông tăng bước ra nói, ‘Sai!’ Cái ‘sai” của Tuyết Đậu phải so sánh như thế nào với cái ‘sai’ của Thiên Bình.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Các Thiền gia, thích khinh bạc. Tham đầy một bụng dùng chẳng được.” Gã này hiểu thì có hiểu, chỉ có điều không sử dụng được. 
 

@@ -23,7 +23,7 @@ Phước vẽ một hình tròn để trả lời.
 BÌNH XƯỚNG
 Ngài Lâm Tuyền nói: Ngũ âm đồng hội nguyên, phải Thiên sư Như Bảo ở Tư Phước Kiết Châu, nói pháp Thiết sử Tư Phước. Tăng hỏi: Thế nào là khúc ca người xưa? Lương toại vẽ một hình tròn để đáp. Không phải hỏi ngài Như Bảo.
 
-Ngài Lương Toại là cháu đời thứ tư của ngài Qui Sơn. Cho dù âm có mặc luận, nhưng tiếng kia vẫn vang như sấm dậy đường xưa.
+Ngài Lương Toại là cháu đời thứ tư của ngài Quy Sơn. Cho dù âm có mặc luận, nhưng tiếng kia vẫn vang như sấm dậy đường xưa.
 
 Vị Tăng này không hiểu, điểm ngôn ngữ ấy hợp với đường tán. Nhà già đan sao mà chưa từng truyền tạm. Từ xưa đến nay huyền trời non đất, mới hiện bay sụ nghiệp mâu niệm.
 
@@ -39,7 +39,7 @@ Ai tin âm vang nơi ấy.
 
 Ngài Lâm Tuyền nói: Bậc Nhan và Tí Kỳ không phải người khác. Cho nên nói đàn không dây mà khải khúc. Đàn không dây mà hòa khúc với giọng thanh thoát. Tại nghe thì khó, nếu lòng mây mới biết nghe. Cho nên đêm khuya là thời điểm tốt đẹp nhất, hợp giúp cho ánh trăng tỏ rạng sang ngọn nhạc tài len một thanh âm độc đáo, như gió lướt nhẹ, ngọn tung, tưa như tiếng mưa rơi dưới khe.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -53,6 +53,7 @@ Ngài Lâm Tuyền nói: Bậc Nhan và Tí Kỳ không phải người khác. C
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

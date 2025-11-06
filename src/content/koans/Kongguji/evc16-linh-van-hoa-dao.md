@@ -17,7 +17,7 @@ image: /images/koans/great-wave.webp
 Sau khi chàng Lưu trồng, cành lá sum suê, hương thơm ngào ngạt. 
 Khi Vương Mẫu hái thu cả nhân lẫn quả, có ai thong dong ngắm cảnh trên đường về quê chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -28,7 +28,7 @@ Khi Vương Mẫu hái thu cả nhân lẫn quả, có ai thong dong ngắm cả
 > Từ ngày thấy được hoa đào nở
 > Mãi đến hôm nay chẳng còn nghi
 
-> Qui Sơn nói: “Được nhờ duyên, mãi mãi không mất. Ông hãy cố gắng giữ gìn”
+> Quy Sơn nói: “Được nhờ duyên, mãi mãi không mất. Ông hãy cố gắng giữ gìn”
 >
 > Huyền Sa nói: “Hay thì hay thật, nhưng chắc chắn Lão huynh chưa triệt ngộ”
 >

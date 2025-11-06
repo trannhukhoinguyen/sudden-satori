@@ -20,7 +20,7 @@ Muốn nung vàng ròng đã được luyện trăm lần, cần phải có lò 
 
 Thử nói xem, lúc đại dụng hiện tiền, phải lấy gì ra để thử đây?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi ngài Vân Môn [^1], “_Thế nào là thanh tịnh Pháp Thân?_”
 >
@@ -30,7 +30,7 @@ Thử nói xem, lúc đại dụng hiện tiền, phải lấy gì ra để th�
 >
 > Vân Môn nói, “_Kim Mao Sư Tử_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Các ông có hiểu chỗ hỏi của ông tăng với chỗ trả lời của Vân Môn chăng? Nếu hiểu được, thì hai miệng giống nhau chẳng có một lưỡi. Nếu không hiểu, khó tránh khỏi (là những kẻ có) đầu óc mít đặc.
 
@@ -60,7 +60,7 @@ Tuyết Đậu cũng là người trong ấy cho nên mới tụng ngay rằng:
 >
 > Kim Mao Sư Tử mọi người nhìn.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu ngồi vào chiếu đánh khúc đàn huyền diệu. Từng câu một phán đoán.
 

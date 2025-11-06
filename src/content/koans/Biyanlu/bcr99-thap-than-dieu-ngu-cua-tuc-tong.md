@@ -18,14 +18,14 @@ image: /images/koans/great-wave.webp
 > Thế giới không ẩn, xa gần hiển hiện, cổ kim biện rõ.
 > Thử nói xem, đây là cảnh giới của ai? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Túc Tông [^1] Hoàng Đế hỏi Huệ Trung Quốc Sư [^2], “_Thập thân điều ngự là gì_?”
 > Quốc Sư nói, “_Thí chủ bước trên đầu Tì Lô [^3] mà đi_”.
 > Túc Tông nói, “_Quả nhân không hiểu_”
 > Quốc Sư nói, “_Đừng nhận thanh tịnh Pháp thân của mình_”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Túc Tông Hoàng Đế lúc còn là Đông Cung (Thái Tử) đã tham học với Huệ Trung Quốc Sư rồi. Sau này lúc lên ngai vàng lại còn kính trọng Quốc Sư hơn nữa.Quốc Sư ra vào (cung) Túc Tông đều nghênh đón, đích thân mìnhcầm lộng che.
 
@@ -69,7 +69,7 @@ Tuyết Đậu tụng rằng:
 >
 > Chẳng biết ai vào hang rồng xanh?
 
-## BÌNH: 
+## BÌNH XƯỚNG 
 
 “Thầy của một nước chỉ cưỡng danh, chỉ mình Nam Dương lừng tiếng thơm.” Tụng này cũng như tán thán một hình ảnh. 
 

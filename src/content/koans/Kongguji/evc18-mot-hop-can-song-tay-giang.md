@@ -22,7 +22,7 @@ Vô thường đến đối mặt, liệu xoay xở thế nào?
 
 Có ai nhìn khắp rồi mà vẫn làm ngơ chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đan Hà cử:
 

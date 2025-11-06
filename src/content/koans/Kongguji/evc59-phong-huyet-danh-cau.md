@@ -65,7 +65,7 @@ Phong Huyệt dù nhổ kể lại rõ ràng. Nếu nhiều lời giống nhau, 
 
 Lâm Tuyền vì phương tiện làm thông dịch, theo văn cảnh nên truyền sai tin tức, lại hối chẳng. Ngày khác gặp người chỗ cũ có sai.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -79,6 +79,7 @@ Lâm Tuyền vì phương tiện làm thông dịch, theo văn cảnh nên truy�
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

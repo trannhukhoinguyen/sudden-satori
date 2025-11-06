@@ -14,13 +14,13 @@ tags:
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Triệu Châu [^1], “Nghe nói hòa thượng có đích thân gặp ngài Nam Tuyền rồi phải không?”
 >
 > Ngài Triệu Châu nói, “Trấn Châu sản xuất củ cải lớn.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Ông tăng này cũng là người tham Thiền từ lâu, trong câu hỏi của ông ta quả thật có mắt. Song Triệu Châu là một chuyên gia, cho nên mới đáp rằng, “Trần Châu sản xuất củ cải lớn.” Đây có thể gọi là lời nói chuyện vô vị làm nghẹn miệng người ta. Lão hán này giống y như kẻ cướp giữa ban ngày ban mặt. Các ông vừa mở miệng thầy ta đã móc mắt các ông rồi. Nếu như các ông là những kẻ đặc biệt anh linh, thì trong ánh đá lửa điện chớp kia, vừa nghe nêu lên, đã đứng dậy bỏ đi ngay. Còn nếu như vẫn giữ lại tư tưởng ngưng bặt cơ duyên, khó mà khỏi không tang thân thất mạng.
 
@@ -46,7 +46,7 @@ Kẻ trộm, kẻ trộm!
 
 Nắm ngay lỗ mũi của nạp tăng.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Trấn Châu sản xuất củ cải lớn.” Nếu như các ông coi đó là cực tắc, các ông đạ lầm lẫn rồi. Lúc các cổ nhân nắm tay lên núi cao, khó tránh khỏi tiếng cười của kẻ bàng quan. Thiên hạ ai cũng biết đây là lời cực tắc, song rốt cuộc lại chẳng biết chỗ cực tắc là chỗ nào. Cho nên Tuyết Đậu nói, “ Nạp tăng coi đó là nguyên tắc. Chỉ biết từ xưa cho đến nay, ngỗng trắng quạ đen sao phân được?” Tuy biết rằng người đời nay cũng trả lời như thế, người đời xưa cũng trả lời như thế, song đã bao giờ phân biệt được người trong với người ngoài chưa? Tuyết Đậu nói, “ Phải phân biệt ngỗng trắng quạ đen trong ánh đá lửa điện chớp thì mới được.”
 
@@ -72,7 +72,7 @@ Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý r
 
 [1] Đoạn này không có trang bản của Ito Yuten.
 
-[^2] Vương lão: người Trung Hoa đa số có họ Trương, Lý hay Vương. Thiền Sư Nam Tuyền Phổ Nguyện họ Vương và hay tự xưng là Vương Lão Sư. Ngày nay trong Thiền thường dùng chữ Vương Lão Sư để chỉ bậc thiện tri thức.
+
 
 [3] Trường Khánh Huệ Lăng, Huyền Sa Sư Bị và Vân Môn Văn Yển cả ba đều là truyền nhân của Tuyết Phong Nghĩa Tồn. Về tiểu sử xin xem thêm trong Cảnh Đức Truyền đăng lục cùng một dịch giả, sẽ xuất bản.
 

@@ -5836,7 +5836,7 @@ vậy
 
 a Huy sơn nhũ phonh Vân Nham cùng đứng
 
-hầu tổ cách trưởng Sư Hội Qui Sơn bỏ hết
+hầu tổ cách trưởng Sư Hội Quy Sơn bỏ hết
 
 ít hậu môi mép làm sao nói sơn đất bỏ
 
@@ -7672,7 +7672,7 @@ thì ẩn trăng sáng thì hiện tổ hội hỏi có
 
 tâm Xem ngưỡng sơn bằng tiếng đến trước
 
-stay nói thông qua đến Qui Sơn cũng nghị
+stay nói thông qua đến Quy Sơn cũng nghị
 
 đòi hạt châu này ngay đó không lời để
 

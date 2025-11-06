@@ -30,7 +30,7 @@ Có lúc coi một cọng cỏ như thân vàng mười sáu trượng (của Ph
 
 Thử nói xem bằng vào nguyên lý nào mà nói như thế? Xin thử nêu ra đây.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Cuối mùa kiết hạ, Ngài Thúy Nham [^1] dạy chúng rằng,
 > “_Cả một mùa hạ Thuý Nham đã nói chuyện với các huynh đệ. Thử nhìn xem lông mày của Thúy Nham có còn không?_”
@@ -41,7 +41,7 @@ Thử nói xem bằng vào nguyên lý nào mà nói như thế? Xin thử nêu 
 >
 > Ngài Vân Môn nói, “_Quan_”.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Người xưa học đạo sáng tham thiền chiều hỏi han, không có lúc nào là gián đoạn.
 
@@ -133,7 +133,7 @@ Tuyết Đậu xỏ chữ “quan” của Vân Môn cùng với những lời c
 >
 > Lông mày mọc dài.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nếu như Tuyết Đậu mà không từ bi như thế, tụng ta cho người khác thấy, thì làm sao được gọi là thiện tri thức? Cổ nhân hành xử như vậy , nhất nhất đều là cực chẳng đã. Người học Thiền sau này thường hay bám víu vào ngôn ngữ, sinh ra kiến giải theo tri thức cảm quan, cho nên mới không thấy được ý của cổ nhân. Nếu như có một người hốt nhiên bước ra, lật đổ giường Thiền, hét tan đại chúng, mình cũng chẳng trách hắn được.Dù là thế đi nữa, cũng cứ phải thực sự đạt đến mức độ này mới được.
 

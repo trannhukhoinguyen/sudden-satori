@@ -18,7 +18,7 @@ image: /images/koans/great-wave.webp
 > Có gậy có bóng đúng trừ tâm nghi ngờ của Khánh Hỷ, chỉ vì người trong cuộc mê, làm cho người thấy được nên cười. 
 > Thiền tăng đủ mắt có thể phân biệt được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

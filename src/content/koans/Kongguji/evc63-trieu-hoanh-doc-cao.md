@@ -63,7 +63,7 @@ Có một chút uyển chuyển cho thời nay, hỏi gì bờ bắc băng tiêu
 Nhìn xa không rõ.
 Nhìn gần thì càng tỏ hơn.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -77,6 +77,7 @@ Nhìn gần thì càng tỏ hơn.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

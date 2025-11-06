@@ -20,7 +20,7 @@ Trẻ khôn mất nhịp, dù cho tung hoành ngang dọc cũng khó không bị
 
 Thử nói xem sai lầm ở chỗ nào? Xin nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Lục Hoàn đại phu lần kia nói chuyện với ngài Nam Tuyền [^1], nói rằng,
 >
@@ -28,7 +28,7 @@ Thử nói xem sai lầm ở chỗ nào? Xin nêu lên xem.
 
 > Ngài Nam Tuyền chỉ vào đóa hoa ngoài sân, rồi gọi Lục đại phu mà nói rằng, “_Người bây giờ thấy đóa hoa này giống như thể một giấc mộng vậy_.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Lục Hoàn đại phu học với Nam Tuyền rất lâu.Bình thường hay lưu tâm nơi lý tính và đắm mình trong bộ Triệu Luân [^17].
 
@@ -102,7 +102,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Ai cùng hồ trong soi bóng lạnh.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Lời nói mê nhỏ của Nam Tuyền, lời nói mê lớn của Tuyết Đậu, tuy họ nằm mơ, song mơ một giấc mơ thật là đẹp.
 

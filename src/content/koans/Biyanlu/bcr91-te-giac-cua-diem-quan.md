@@ -18,7 +18,7 @@ Cần phải ứng đủ mười phương, rõ ràng tám hướng, đến thẳ
 
 Thử nói xem, còn có người cùng đắc cùng chứng cùng tử cùng sinh chăng? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Một hôm Diêm Quan gọi thị giả, “Đem cho tôi cái quạt sừng tê giác xem.”
 >
@@ -28,7 +28,7 @@ Thử nói xem, còn có người cùng đắc cùng chứng cùng tử cùng si
 >
 > Thị giả không trả lời được.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Một hôm Diêm Quan gọi thị giả, “Đem cái quạt sừng tê giác đến cho tôi xem.” Việc này tuy không thuộc nơi ngôn ngữ, song nếu như muốn thử cái ý khí bình sinh của một người lại cũng cứ cần phải mượn vào ngôn ngữ mà hiển thị. Vào ngày cuối cùng tháng cuối cùng, nếu như các ông vẫn còn ra sức được làm chủ tình thế được, thì dù cho có vạn cảnh đi nữa các ông vẫn có thể dững dưng nhìn mà chẳng bị đã động, đây có thể được gọi là công dụng không công dụng, sức mạnh không sức mạnh.
 
@@ -60,7 +60,7 @@ Tuyết Đậu lại nói, “Nếu như các ông muốn gió mát trở lại 
 Quạt đã gẫy rồi tôi muốn các ông đem tê giác lại cho tôi. Lúc ấy có ông tăng bước ra nói, “mời đại chúng vào cả tham Thiền đường đi.” 
 Tuyết Đậu hét nói, “Thả câu câu kình ngư lại bắt được nhái bén.” Rồi xuống khỏi tòa.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Chiếc quạt tê giác dùng từ lâu, hỏi đến té ra chẳng ai biết.” Ai cũng có một chiếc quạt sừng tê giác, suốt hăm bốn giờ một ngày đều được nó đắc lực, tại sao lúc hỏi đến lại chẳng ai biết? Thị giả, Đầu Tử cho đến Bảo Phúc chẳng một ai biết cả. Tuyết Đậu có biết không?
 

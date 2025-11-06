@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 >
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Triệu Châu dùng ba chuyển ngữ để dạy chúng:
 > 
@@ -23,7 +23,7 @@ image: /images/koans/great-wave.webp
 > 
 > Phật đất không độ được lửa
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Sau khi dạy ba chuyển ngữ xong, cuối cùng Triệu Châu nói, “Chân Phật ngồi trong nhà.” Câu nói náy hết sức là tế nhị. 
 
@@ -51,7 +51,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Có ai không giả tạo?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Phật bùn không qua nước, thần quang chiếu thiên địa. Một câu này cũng đủ tụng phân minh rồi; song thử nói xem tại sao thầy ta lại dẫn Thần Quang? 
 
@@ -85,7 +85,7 @@ Nếu ông giống người đá, phải hát họa lẫn nhau.” Nếu như c�
 >
 > Gió mát chốn nào không?
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Phật vàng không qua lò, người đến thăm Tử Hồ. Chỉ một câu cũng đủ kết thúc tụng rồi, tại sao Tuyết Đậu còn phải dẫn thêm câu “người đến thăm Tử Hồ” nữa? 
 
@@ -122,7 +122,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Mới hay cô phụ mình.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Phật gỗ không qua lửa, thường nghĩ ông phá lò.” Chỉ một câu là đủ tụng xong. 
 

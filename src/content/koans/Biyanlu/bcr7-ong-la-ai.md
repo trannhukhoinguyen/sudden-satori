@@ -20,13 +20,13 @@ Cho nên mới nói rằng, “Trời không che hết, đất không chở nổ
 Chỗ không có Phật, mình được tôn xưng,mới bắt đầu một sợi lông, phóng đại quang minh, tung hoành ngang dọc, tự tại trong sự vật, bất cứ cái gì đụng tay vào, không có cái gì là không phải. Thử nói xem, đạt được cái gì mà lại kỳ đặc như thế? Lại nói, “Đại chúng có hiểu không?” Ngựa mệt thuở trước không ai biết, chỉ nói công lao chum cả trời.
 Bây giờ tạm gác việc này qua một bên, công án của Tuyết Đậu thì như thế nào? Xin thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng (Huệ Siêu) hỏi Pháp Nhãn [^1], _Huệ Siêu xin hỏi hòa thượng, Phật là gì?_
 >
 > Pháp Nhãn nói, _Chú là Huệ Siêu_
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Pháp Nhãn có khả năng vừa đập vừa mổ, và lại biết sử dụng cái khả năng này cho nên mới đáp như thế được.
 Đó chính là siêu việt qua thanh sắc, đắc đại tự tại, túng đoạt sinh sát gì là ở nơi mình cả.
@@ -113,7 +113,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Kẻ mê vẫn múc nước hồ đêm.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu đúng là tay thông thạo. Những cái khó nhai khó nuốt, khó thâu khó nhập của cổ nhân, thầy ta đều tung ra cho người khác thấy, kỳ đặc hết sức.
 

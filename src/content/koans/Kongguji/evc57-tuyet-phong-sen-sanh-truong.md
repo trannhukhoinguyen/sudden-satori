@@ -59,7 +59,7 @@ Tuy núi vắng thẳm kết mây giăng. Đáng tiếc núi xuân chợt tỏa 
 Đều vì thời nay từng sai lầm,
 Làm cho ngày sau càng khó gặp.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -73,6 +73,7 @@ Làm cho ngày sau càng khó gặp.
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

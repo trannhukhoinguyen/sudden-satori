@@ -18,7 +18,7 @@ Tuy gặp nhau nói chuyện, nhưng ngại người bên cạnh cười.
 Thôi, chớ có khoe khoang “hiểu tâm biết bụng”, đều chỉ là thấy cảnh sanh tình.
 Lại bỏ hết được chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

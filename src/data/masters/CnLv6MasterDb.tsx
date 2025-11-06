@@ -269,8 +269,12 @@ const CnLv6MasterDb = [
     successors: [''],
     disciples: ['Luoshan Daoxian', 'Ruiyan Shiyan'],
     image: '/images/avatar.png',
-    reference: ['https://vi.m.wikipedia.org/wiki/Nham_%C4%90%E1%BA%A7u_To%C3%A0n_Ho%C3%A1t', 'https://en.m.wikipedia.org/wiki/Yantou_Quanhuo',
-    'https://hoavouu.com/p24a17601/20-thien-su-toan-khoat-o-nham-dau'],
+    reference: [
+      'https://vi.m.wikipedia.org/wiki/Nham_%C4%90%E1%BA%A7u_To%C3%A0n_Ho%C3%A1t',
+      'https://en.m.wikipedia.org/wiki/Yantou_Quanhuo',
+      'https://hoavouu.com/p24a17601/20-thien-su-toan-khoat-o-nham-dau',
+      'https://www.rongmotamhon.net/daouyen/Data/PH_N/N65.htm'
+    ],
   },
   {
     id: '39.6.13',
@@ -531,8 +535,11 @@ const CnLv6MasterDb = [
     successors: [''],
     disciples: [''],
     image: '/images/avatar.png',
-    reference: ['https://pl.wikipedia.org/wiki/Qinshan_Wensui', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/kham-son-van-thuy-k1102.html',
-      '/masters/ts-kham-son-van-thuy/'],
+    reference: [
+      'https://pl.wikipedia.org/wiki/Qinshan_Wensui',
+      'https://phatgiao.org.vn/tu-dien-phat-hoc-online/kham-son-van-thuy-k1102.html',
+      'https://www.rongmotamhon.net/daouyen/Data/PH_K/K22.htm'
+    ],
   },
   {
     id: '39.6.25',

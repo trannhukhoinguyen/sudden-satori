@@ -20,13 +20,13 @@ Thử nói xem, đao giết người là gì? Kiếm cứu người là gì?
 
 Thử nêu lên xem. Có ông tăng hỏi Vân Môn.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > “Không phải là tâm cơ trước mắt, cũng chẳng phải là sự việc trước mắt, lúc ấy thì như thế nào?”
 >
 > Vân Môn [^1] nói, “Một câu nói ngược.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Ông tang này quả là một tay thông thạo cho nên mới biết hỏi như thế. Câu hỏi thoạt tiên có vẻ như là hỏi thêm, song thật ra là để giải bày chỗ hiểu biết của mình. Đó cũng gọi là câu hỏi có ẩn tàng mũi nhọn trong ấy. Nếu như không phải là Vân Môn, khó có ai biết phải đối xử như thế nào với ông tăng này. Song có khả năng như Vân Môn thì khi có câu hỏi đặt ra không thể không trả lời. Tại sao vậy? Vị thầy thành thạo thì giống như thể một tấm gương sáng trên giá.
 
@@ -60,7 +60,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Bóng trăng trong dòng nước chảy xiết.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu quả là một tay thành thạo. Dưới câu thứ nhất lại nói thêm “phân từng tiết.”
 

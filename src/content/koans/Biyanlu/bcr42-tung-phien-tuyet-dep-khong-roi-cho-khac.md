@@ -20,7 +20,7 @@ Mặt trời rực rỡ trên không. Gió trong xào xạc dưới đất.
 
 Thử nói xem cổ nhân còn có chỗ lầm lẫn chăng? Xin nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Bàng Cư Sĩ [^1] từ giả Dược Sơn, Dược Sơn sai mười Thiền khách tiễn ra tận cổng.
 >
@@ -40,7 +40,7 @@ Sau đó Tuyết Đậu nói,
 
 > Lúc ông ta mới hỏi phải vo tuyết lại mà ném ông ta mới phải
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Bàng Cư Sĩ tham kiến Mã Tổ và Thạch Đầu, cả hai chỗ đều có tụng.
 
@@ -108,7 +108,7 @@ Tuyết Đậu tụng chỗ đánh của Bàng Cư Sĩ rằng:
 >
 > Bích nhãn hồ tăng chẳng biện được.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “_Vo tuyết ném, vo tuyết ném! Cơ quan lão Bàng không nắm được_”
 

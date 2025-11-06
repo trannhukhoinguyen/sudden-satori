@@ -14,9 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-
-
-Ngài Đan Hà dạy chúng: Thông thường có tướng đều thuộc hư vọng. Chỉ ra được các tướng chẳng phải tướng, may mà chỉ có Hòa thượng Lương Sơn ta. Sợ ông không tin lại mời nói xem.
+Thông thường có tướng đều thuộc hư vọng. Chỉ ra được các tướng chẳng phải tướng, may mà chỉ có Hòa thượng Lương Sơn ta. Sợ ông không tin lại mời nói xem.
 
 BẢN TẮC
 Hòa thượng Minh An Đại Dương hỏi Lương Sơn: Thế nào là đạo tràng vô tướng?
@@ -68,7 +66,7 @@ Cho nên đưa tay tiếp độ không tiếc đôi mày. Nhiều lần đưa ra
 
 Chỉ thông một chút thì tỏ cội nguồn, trên lộ trình tiến bước, mây mù ngập lối. Chợt nắng lên mây tan nhận ra diện mục, chỗ sâu kín không bày khì phách không tỳ vết. Bất ngờ bản thể chiếu sáng thoát xa căn trần. Nửa đêm mặt trời xuất hiện, bao nhiêu vầng hồng hiện trong ánh bình minh. Lại thấy chăng? Muốn tư duy về ngàn non vạn nước.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -82,6 +80,7 @@ Chỉ thông một chút thì tỏ cội nguồn, trên lộ trình tiến bư�
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

@@ -16,7 +16,7 @@ image: /images/koans/great-wave.webp
 
 Gương sáng trên đài có vật hiện rõ. Chuông lớn trên giá đánh vào tiếng ngân. Đo được cao thấp chính xác chăng?
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 

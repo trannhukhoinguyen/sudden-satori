@@ -20,13 +20,13 @@ Nếu không có con mắt nhìn thấu quan hay chỗ để chuyển thân, đ�
 
 Thử nói xem, thế nào là con mắt nhìn thấu quan và chỗ để chuyển thân. Xin thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Triệu Châu [^1], "Triệu Châu là gì?“
 >
 > Triệu Châu nói, “Đông môn, Nam môn, Tây môn, Bắc môn.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Phàm việc tham thiền hỏi đạo là để tự thấy rõ mình, song phải tránh so đđo ngôn ngữ.
 
@@ -111,7 +111,7 @@ Xin đọc tụng của Tuyết Đậu:
 >
 > Bao nhiêu trùy đập mở không ra.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Triệu Châu xử trí với hoàn cảnh giống như Kim Cương Bảo Kiếm. Ông vừa định suy nghĩ nói đã cắt mất đầu ông rồi. Nó lại thường móc mắt ông ngay trước mặt ông. Tuy nhiên ông tăng này dám vuốt râu cọp mà đặt một câu hỏi. Giống như không có chuyện lại đi bày vẽ ra chuyện như thể trong câu có vấn đề. Ông ta đã đặt vấn để ra, Triệu Châu cũng chẳng phụ lòng ông ta, cho nên cũng đáp lại vấn đề. Không phải thầy ta đặc biệt như thế, bởi vì thầy ta là người đã thấy suốt, cho nên mới biết hòa điệu với ông tăng kia, tựa như thể có an bài trước.
 

@@ -18,13 +18,13 @@ Trên lưỡi kiếm luận sát hoạt, nơi đầu gậy phân cơ nghi. Đi�
 
 Thử nói một câu mà tất cả sự việc trong vũ trụ dựa trên ấy xem. Thử nêu lên.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Phong Huyệt dạy rằng, "Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạt bụi, nước nhà suy vong.”
 
 📢 Tuyết Đậu dơ gậy lên nói, “**Có còn các nạp tăng đồng sinh đồng tử không?**”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Như Phong Huyệt dạy chúng rằng, “Lập một hạt bụi, nước nhà hưng thịnh. Không lập hạt bụi, nước nhà suy vong.” Thử nói xem, lập một hạt bụi là đúng hay không lập một hạt bụi là đúng? Đến chỗ này cần phải đại dụng hiện tiền mới được. Cho nên Phong Huyệt mới nói, “Dù cho các ông có hiểu được trước khi (công án) được nói lên, vẫn cứ là bị vướng kẹt trong vỏ, mê mờ trong gò bó; dù cho các ông vừa nghe nói một câu đã tinh thông ngay, vẫn chưa hẳn là tránh được các kiến giải điên cuồng trên đường.”
 
@@ -46,7 +46,7 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 >
 > Vạn dặm gió mát chỉ tự biết.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Vừa rồi nêu lên cả hai, ở đây lại chỉ nêu lên một phía, mà bỏ một phía. Bớt dài thêm ngắn, bỏ nặng theo nhẹ. 
 

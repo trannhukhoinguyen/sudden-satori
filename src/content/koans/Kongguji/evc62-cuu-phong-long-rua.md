@@ -60,7 +60,7 @@ Loan phụng trong lửa, trâu đất đầy biến, không chỗ nương tựa
 Dù cho hồ đá nổi giận, mặc dù thế sự cầm sáo nào, trụ cột lông đèn thấy đều chẳng khiếp sợ. 
 Đạt được ý này chăng? Chưa đủ cân lượng thấy rõ ràng, rốt cuộc qui về điểm thăng bằng.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -74,6 +74,7 @@ Dù cho hồ đá nổi giận, mặc dù thế sự cầm sáo nào, trụ cộ
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

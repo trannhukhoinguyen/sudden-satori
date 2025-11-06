@@ -19,7 +19,7 @@ Phải là một tay hoạt bát mới có thể mỗi câu đều tương hợp
 
 Song từ xưa đến giờ có ai được như thế? Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Ngài Ngưỡng Sơn hỏi Ngài Tam Thánh, "Thầy tên gì?”
 >
@@ -29,13 +29,13 @@ Song từ xưa đến giờ có ai được như thế? Thử nêu lên xem.
 >
 > Ngài Tam Thánh nói, “Tên tôi là Huệ Nhiên.” Ngài Ngưỡng Sơn cười ầm lên.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tam Thánh là bậc tôn túc trong dòng Lâm Tế. Từ nhỏ đã có khả năng xuất chúng. Thầy ta có đủ đại cơ đại dụng; lúc ở trong chúng hội, rất là hiên ngang lững lẫy, tên tuổi vang rền khắp nơi. Sau đó thầy ta từ giã Lâm Tế rồi đi vân du khắp miền Hoài Nam và Hải Châu. Các tự viện khắp nơi đều đãi Tam Thánh như thể khách quí. Tam Thánh đi từ bắc xuống nam, thoạt tiên đến gặp Tuyết Phong hỏi rằng, “Con cá vàng đã thoát lưới, chẳng hay lấy gì làm đồ ăn?” Tuyết Phong nói, “Đợi khi nào ông ra khỏi lưới tôi sẽ nói cho ông nghe.” Tam Thánh nói, “Là bậc thiện tri thức của một ngàn năm trăm người mà không nói được lấy một câu.” Tuyết Phong nói, “Việc trụ trì của lão tăng bề bộn quá.” Lúc Tuyết Phong và Tam Thánh đi về phía trang viên của Tự viện, giữa đường gặp một bầy khỉ, Tuyết Phong bèn nói,” Mỗi con đều mang một cổ kính.” Tam Thánh nói, “Bao nhiêu kiếp không có tên, cớ sao lại gọi là cổ kính?” Tuyết Phong nói, “Đã có tì vết rồi.” Tam Thánh nói, “Bậc thiện tri thức của một ngàn năm trăm người mà không nói lấy được một câu.” Tuyết Phong nói, “Có lỗi thật, việc trụ trì của lão tăng bề bộn quá.”
 
 Sau đó Tam Thánh đến gặp Ngưỡng Sơn. Ngưỡng Sơn rất yêu cái linh lợi của Tam Thánh cho nên để cho ngồi chỗ danh dự. Một hôm có vị quan nhân đến tham kiến Ngưỡng Sơn. Ngưỡng Sơn nói, “Quang ở chức vị nào vậy?” Vị quan nói, “Quan tòa.” Ngưỡng Sơn dơ phất trần lên nói, “Có xử được cái này không?” Vị quan kia không nói gì được. Mọi người trong chúng hội đều bình phẩm song chẳng ai khế hợp với ý của Ngưỡng Sơn cả. Lúc ấy Tam Thánh bệnh nằm trong Diên Thọ Đường; Ngưỡng Sơn sai thị giả đem lời ấy đến hỏi Tam Thánh. Tam Thánh nói, “Hòa thượng có việc rồi.” Ngưỡng Sơn lại sai thị giả đến hỏi, “Chưa rỏ là việc gì.” Tam Thánh nói, “Phạm nữa là không dung thứ đâu.” Ngưỡng Sơn rất là bằng lòng.
 
-Bách Trượng lúc ấy đã trao lại thiền bản và bồ đoàn cho Hoàng Bá, trụ trượng và phất trần cho Qui Sơn; Qui Sơn sau đó trao lại cho Ngưỡng Sơn. Ngưỡng Sơn rất là ưng ý với Tam Thánh, một hôm Tam Thánh từ biệt, Ngưỡng Sơn lấy trụ trượng và phất trần ra trao lạo cho Tam Thánh. Tam Thánh nói, “Kẻ hèn này đã có thầy rồi.” Ngưỡng Sơn hỏi rõ, thì ra đó là đệ tử của Lâm Tế.
+Bách Trượng lúc ấy đã trao lại thiền bản và bồ đoàn cho Hoàng Bá, trụ trượng và phất trần cho Quy Sơn; Quy Sơn sau đó trao lại cho Ngưỡng Sơn. Ngưỡng Sơn rất là ưng ý với Tam Thánh, một hôm Tam Thánh từ biệt, Ngưỡng Sơn lấy trụ trượng và phất trần ra trao lạo cho Tam Thánh. Tam Thánh nói, “Kẻ hèn này đã có thầy rồi.” Ngưỡng Sơn hỏi rõ, thì ra đó là đệ tử của Lâm Tế.
 
 Lúc Ngưỡng Sơn hỏi Tam Thánh, “Thầy tên gì?” Ngưỡng Sơn không thể nào mà lại chẳng biết tên Tam Thánh, tại sao lại vẫn cứ đi hỏi như thế? ấy là vì các bậc chuyên gia muốn thử thách thiên hạ để tìm hiểu họ cho rõ ràng. Một câu hỏi chỉ tựa như hỏi cho có rằng, “Thầy tên gì?” và lại hỏi một cách chẳng có gì so đo. Tại sao Tam Thánh không nói “Huệ Nhiên” mà lại đi nói “Huệ Tịch”? Nhìn xem những người có mắt, tự nhiên là không giống (những kẻ bình thường.) Tam Thánh hành sư như thế chẳng có gì là điên đảo tuy rằng thầy ta giựt cờ cướp trống. Ý của thầy ta ở ngoài ngôn ngữ của Ngưỡng Sơn. Những lời này không theo thường tình , rất khó mà rờ rẫm. Phương pháp của con người này có thể cứu sống thiên hạ, cho nên mới có câu nói, “Thầy ta tham câu sống mà không tham câu chết.” Nếu như tuân theo thường tình, ắt chẳng làm cho thiên hạ ngồi nghỉ được.
 
@@ -55,7 +55,7 @@ Tuyết Đậu tụng rằng:
 >
 > Chỉ là thiên cổ động bi phong.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Vừa thu vừa buông tông chỉ đâu?” Buông bỏ thay phiên đóng vai chủ và khách. Ngưỡng Sơn hỏi, “ Thầy tên gì?” Tam Thánh nói, “ Tên tôi là Huệ Tịch.” Đó là đều buông bỏ, Ngưỡng Sơn nói, “ Huệ Tịch là tôi.” Tam Thánh nói,” Tôi tên là Huệ Nhiên.” Đây là đều thu vào. Kỳ thực , đây là cái gọi là “ hô hoán chi cơ.” Thu vào thì mọi người đều thu vào, buông bỏ thì mọi người đều buông bỏ. Tuyết Đậu trong một lúc tụng hết cả. Ý thầy ta muốn nói rằng nếu không buông không thu không hổ tương với nhau thì ông là ông tôi là tôi.
 

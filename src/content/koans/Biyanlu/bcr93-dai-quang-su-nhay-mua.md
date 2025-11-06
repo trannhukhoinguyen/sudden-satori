@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 ...
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Đại Quang, “Trường Khánh nói, ‘Nhân thụ trai mà tán thán,’ có nghĩa là gì?” 
 > 
@@ -27,7 +27,7 @@ image: /images/koans/great-wave.webp
 > 
 > Đại Quang nói, “Con chồn hoang quỉ này!”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Hai mươi tám vị tổ Ấn Độ và sáu vị tổ Trung Hoa chỉ trao truyền cái này mà thôi, song các ông có hiểu cốt ý của nó không? Nếu các ông biết thì các ông tránh được lời này, còn nếu không thí vẫn chỉ là những con chồn hoang quỉ như cũ.
 
@@ -47,7 +47,7 @@ Tuyết Đậu tụng rằng:
 >
 > Biết bao người thường bị chìm đắm.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Tên trước còn nhẹ tên sau sâu.” Đại Quang nhảy múa là mũi tên trước. Thầy ta cũng lại nói, “Cái con chồn hoang quỉ này!” Đó là mũi tên sau. Từ xưa đến nay đó vẫn là răng với móng. “Ai bảo lá vàng là vàng ròng?” Ngưỡng Sơn dạy chúng rằng, “Các ông mỗi người phải tự hồi quang phản chiếu, đừng có ghi nhớ lời tôi. Các ông từ vô thủy kiếp đến nay quay lưng về ánh sáng mà cắm đầu vào bóng tối; gốc rễ của các vọng tưởng quá thâm sâu khó mà nhổ bạt ngay ra được. Cho nên tôi mới giả lập ra phương tiện để mà đoạt cái thô thức của các ông đi, giống như lấy lá vàng để dỗ trẻ con nín khóc.” Giống như lấy trái ngọt mà đổi lấy bầu đắng.
 

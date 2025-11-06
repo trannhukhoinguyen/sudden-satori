@@ -16,7 +16,7 @@ Mười phương dứt bặt, ngàn mắt chợt mở. Một câu cắt dòng [^
 
 Còn có kẻ đồng sinh đồng tử chăng? Công án hiện thành, an bài không được, xin nêu các dây dưa của cổ nhân lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Định Thượng Tọa hỏi ngài Lâm Tế [^1], “Thế nào là đại ý của Phật Pháp?”
 >
@@ -28,7 +28,7 @@ Còn có kẻ đồng sinh đồng tử chăng? Công án hiện thành, an bài
 >
 > Định Thượng Tọa mới cúi lậy, rồi hốt nhiên đại ngộ.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Nhìn xem thầy ta ra thẳng vào thẳng đi thẳng đến thẳng, đúng là Lâm Tế chính tông mới có tác dụng như thế. Nếu như thấu được, người ta có thể lật trời làm đất, tha hồ thụ dụng. Định Thượng Tọa chính là tay như thế, bị Lâm Tế tát cho một cái, vừa cúi lậy xong đã hiểu ngay ý hướng. Thầy ta là người phương Bắc, vốn hết sức là chất phác thẳng than. Đắc được rồi, sau đó không xuất thế nữa. Từ đó trở đi toàn sử dụng các cơ biến của Lâm Tế, quả thật là thánh thoát.
 
@@ -50,7 +50,7 @@ Cự linh dơ tay chẳng nhiều nhặn,
 
 Phân phá Hoa Sơn ngàn vạn trùng.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem đến tại sao phải thung dung?” Đại cơ đại dụng của Hoàng Bá chỉ có mình Lâm Tế là theo dấu chân được. Lúc đã nêu lên là không để người ta kịp nghĩ bàn, vừa tần ngần là các ông đã lạc vào âm giới. Kinh Lăng Nghiêm nói, “Ta đặt ngón tay, Hải Ấn phát quang, ông vừa sinh tâm, trần lao đã khởi.” “Cự linh dơ tay chẳng nhiều nhặn, phân phá Hoa Sơn ngàn vạn trùng.” Thần Cự Linh có đại thần lực, lấy tay chẻ Thái Sơn Hoa Sơn để nước chảy vào Hoàng Hà. Mối nghi của Định Thượng Tọa lớn như đồi núi, bị một cái tát của Lâm Tế làm tiêu tan hết cả.
 

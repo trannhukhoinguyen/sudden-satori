@@ -40,7 +40,7 @@ Mây mù giăng kín khó phân nam bắc. Mỗi tin rằng, một sắc hồn t
 
 Ngìn núi đều xanh biếc, muôn dòng có sóng triều. Chưa biết người nào có được tấm lòng rộng lượng này, còn nói: Thôi, ông không hiểu được lời ta.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -54,6 +54,7 @@ Ngìn núi đều xanh biếc, muôn dòng có sóng triều. Chưa biết ngư�
 ## TỤNG CỔ
 
 <blockquote>
+
 
 </blockquote>
 

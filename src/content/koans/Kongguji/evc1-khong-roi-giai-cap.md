@@ -19,7 +19,7 @@ image: /images/koans/great-wave.webp
 > Chỉ đập tan khối nghi, cần gì một câu huyền diệu.
 > Cửa huyền thông suốt, người đạt được diệu dụng tự tại đó là AI?
 
-## CỬ - TẮC::
+## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
@@ -96,9 +96,7 @@ Sinh sống đâu cần theo ngày tháng
 
 ## BÌNH XƯỚNG
 
-📢 Ngài Đầu Tử cử:
-
-Kinh Hoa Nghiêm: 
+📢 Kinh Hoa Nghiêm: 
 
 Giống như hư không bao trùm hết cả sắc và phi sắc, hư không chẳng đến mà có khắp nơi. 
 Vì cớ sao? 
@@ -114,12 +112,12 @@ Huống nữa kiếp không về trước mắt không nương ý căn, giống 
 Đó là bản lai không diện mục, không còn khái niệm được mất. 
 Vượt khỏi khen chê, phàm thánh không màng thứ bậc chẳng chấp, tự do tự tại.
 
-(“Thí như hư không khắp tất cả cõi sắc phi sắc, chẳng đến chẳng không đến. Vì cớ sao? Hư không không có hình tướng, thân Như Lai cũng lại như thế. 
+> Thí như hư không khắp tất cả cõi sắc phi sắc, chẳng đến chẳng không đến. Vì cớ sao? Hư không không có hình tướng, thân Như Lai cũng lại như thế. 
 Khắp tất cả chỗ khắp tất cả chúng sanh, khắp tất cả pháp, khắp tất cả cõi nước. Vì cớ sao? Vì thân Như Lai là không thân vậy. Vì chúng sanh nên hiện thân kia.”
 Như đảnh vô kiến đã bày, tìm kiếm làm gì. Nếu vậy mây mê mờ mịt, sương mù bủa giăng, chỗ vừa thấy càng thêm chẳng dính dáng.
 Huống nữa Kiếp không về trước không nương ý căn, cành linh tự trổ hoa, đâu cần khí xuân, mà phân thứ bậc ư. 
 Là người xưa nay không mặt mũi, lìa chỗ được mất tình lượng. 
-Ra khỏi sự khen chê, phàm thánh chẳng lường, thứ bậc chẳng chấp, mặc tình tiêu sái.)
+Ra khỏi sự khen chê, phàm thánh chẳng lường, thứ bậc chẳng chấp, mặc tình tiêu sái
 
 Dù cho như thế, cũng chưa khỏi bị ngài Nam Tuyền bảo: “**Phật Oai Âm Vương vẫn là con cháu của Vương Lão Sư**” Sao vậy?
 

@@ -14,13 +14,13 @@ image: /images/koans/great-wave.webp
 
 >
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Có ông tăng hỏi Vân Môn [^1], “Thế nào là giáo lý của cả một thời đại (của Phật)?
 >
 > Vân Môn nói, “Một lời đúng.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Các người học Thiền, nếu như muốn biết ý nghĩa của Phật tính, cần phải quán thời tiết nhân duyên.
 
@@ -70,7 +70,7 @@ Nếu không hiểu được, xin lắng nghe lời phân xử:
 >
 > Thiều Dương lão nhân [^19] được một sừng.
 
-## BÌNH
+## BÌNH XƯỚNG
 
 “Một lời đúng quá siêu tuyệt!’ Tuyết Đậu tán thán Vân Môn không xiết.
 

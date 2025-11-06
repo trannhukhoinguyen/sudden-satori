@@ -22,7 +22,7 @@ Như giờ đây thấy với không thấy, nghe với không nghe, nói với 
 
 Thử nêu lên xem.
 
-## CỬ - TẮC:
+## CỬ - TẮC
 
 > Lãng Thiền Khách hỏi ngài Khâm Sơn [^1], “Lúc một mũi tên phá ba ải thì như thế nào?”
 >
@@ -40,7 +40,7 @@ Thử nêu lên xem.
 >
 > Lãng Thiền Khách định cãi, Ngài Khâm Sơn đã đánh cho bảy gậy rồi nói, “Ta sẵn sang nghe gã này nghi ngờ trong ba mươi năm nữa.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Lãng Thiền Khách quả thật là một tay chiến tướng. Xoay trở trái phải trong tay Khâm Sơn, tránh rồi né vọt. Cuối cùng, đáng tiếc thay, cũng gẫy tên hết. Tuy thế đi nữa, “Lý tướng quân tuy có tiếng thơm song lại chẳng được phong hầu, cũng vô ích mà thôi.” Công án này có một lối ra một lối vào, một nắm giữ một buông tha. “đối cơ giáp mặt mà nêu lên, đối cơ giáp mặt thật nhanh.” Đều chẳng bị rơi vào hữu vô đắc thất. Đây gọi là “huyền cơ.” Nếu như thiếu chút sức mạnh thế nào cũng bị vấp ngã.
 
@@ -74,7 +74,7 @@ Tuyết Đậu tụng rằng:
 >
 > “Đại trượng phu tiên thiên làm tâm tổ.”
 
-## BÌNH
+## BÌNH XƯỚNG
 
 Mấy câu trong bài tụng này là rút từ một bài tụng của Qui Tông.
 
@@ -134,4 +134,4 @@ Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con ch�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-kham-son-van-thuy/" target="_blank">🔗 TS KHÂM SƠN VĂN THÚY</a>
+[^1]: ⭐️ <a href="/masters/Qinshan-Wensui/" target="_blank">🔗 TS KHÂM SƠN VĂN THÚY</a>
