@@ -2,6 +2,8 @@ export function toKebabCase(str: string): string {
   return str
     ?.normalize("NFD") // tách dấu khỏi ký tự (Ví dụ: "ấ" -> "a" + "̂")
     ?.replace(/[\u0300-\u036f]/g, "") // xoá toàn bộ dấu
+    ?.replace(/đ/g, "d")              // chuyển đ -> d
+    ?.replace(/Đ/g, "d")
     ?.toLowerCase()
     ?.trim()
     ?.replace(/[^a-z0-9\s-]/g, "") // xoá ký tự đặc biệt (chỉ giữ chữ, số, khoảng trắng, gạch ngang)
