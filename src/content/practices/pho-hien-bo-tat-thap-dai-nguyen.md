@@ -1,5 +1,5 @@
 ---
-title: "BỒ TÁT THẬP ĐẠI NGUYỆN"
+title: "PHỔ HIỀN BỒ TÁT THẬP ĐẠI NGUYỆN"
 meta_title: "THẬP ĐẠI NGUYỆN CỦA BỒ TÁT PHỔ HIỀN"
 description: "Thực hành theo THẬP ĐẠI NGUYỆN của BỒ TÁT PHỔ HIỀN"
 excerpt: "Phổ Hiền Bồ-tát nói với tất cả các Bồ-tát."
@@ -10,12 +10,34 @@ categories:
 tags:
   - ĐẠI NGUYỆN
   - BỒ TÁT PHỔ HIỀN
-author: "BỒ TÁT PHỔ HIỀN"
+videoIds:
+  - s4J7pCl9hz0
 ---
 
 Sau khi tán các công đức của Như Lai, Phổ Hiền Bồ-tát nói với tất cả các Bồ-tát tụ họp ở đó kể cả Sudhana:
 
-> Công đức của Như Lai thì vĩ đại đến mức không ai, bất chấp người ấy có thể nói bao lâu và liên tục đến mức nào mà người ấy có thể nói, cũng không thể thể bắt đầu mô tả một cach thích đáng được, và nếu các ông muốn thành tựu những công đức này các ông phải tu tập thập đại nguyện (mahāpraṇidhāna) này. Thập đại nguyện này là gì? Đó là 1. Kính lễ chư Phật; 2. Xưng tán chư Như Lai; 3. Quảng tu cúng dường chư Phật, nhất là “pháp cúng dường” (dharmapūja); 4. Sám hối nghiệp chướng; 5. Tùy hỷ công đức [có nghĩa là vui theo bất cứ công đức nào mà người khác đạt được. Chữ “tùy” trong thành ngữ “tùy hỉ” có nghĩa là “theo” hay “cùng” chứ không có nghĩa là “tùy ý.” Cho nên “tùy hỉ” là vui theo cái vui của người khác chứ không phải là tùy ý muốn của mình. NH]; 6. Thỉnh cầu Phật chuyển Pháp Luân; 7. Thỉnh cầu Phật trụ thế; 8. Luôn luôn học theo gương Phật; 9. Luôn luôn hòa thuận với chúng sinh; 10. Hồi hướng tất cả. Đây là thập đại nguyện,[266] và hành sử các nguyện này, Bồ-tát không biết lúc nào để ngưng nghỉ công việc, bởi vì công việc của Bồ-tát phải tiếp tục khi nào mà không gian vẫn trải ra mười phương, khi nào vẫn còn một chúng sinh trong vũ trụ cần được giải thoát, khi nào còn một tham ái cần phải diệt trừ, một Bồ-tát do đó làm việc không ngưng nghỉ, liên tục, không gián đoạn, bằng thân, khẩu, và ý, cho đến tận cùng của thế giới.[267]
+> Công đức của Như Lai thì vĩ đại đến mức không ai, bất chấp người ấy có thể nói bao lâu và liên tục đến mức nào mà người ấy có thể nói, cũng không thể thể bắt đầu mô tả một cach thích đáng được, và nếu các ông muốn thành tựu những công đức này các ông phải tu tập thập đại nguyện (mahāpraṇidhāna) này. Thập đại nguyện này là gì?
+> Đó là:
+>
+> 1. Kính lễ chư Phật;
+>
+> 2. Xưng tán chư Như Lai;
+>
+> 3. Quảng tu cúng dường chư Phật, nhất là “pháp cúng dường” (dharmapūja);
+>
+> 4. Sám hối nghiệp chướng;
+>    
+> 5. Tùy hỷ công đức [có nghĩa là vui theo bất cứ công đức nào mà người khác đạt được. Chữ “tùy” trong thành ngữ “tùy hỉ” có nghĩa là “theo” hay “cùng” chứ không có nghĩa là “tùy ý.” Cho nên “tùy hỉ” là vui theo cái vui của người khác chứ không phải là tùy ý muốn của mình. NH];
+>    
+> 6. Thỉnh cầu Phật chuyển Pháp Luân;
+>   
+> 7. Thỉnh cầu Phật trụ thế;
+> 
+> 8. Luôn luôn học theo gương Phật;
+>
+> 9. Luôn luôn hòa thuận với chúng sinh;
+>
+> 10. Hồi hướng tất cả. Đây là thập đại nguyện,[266] và hành sử các nguyện này, Bồ-tát không biết lúc nào để ngưng nghỉ công việc, bởi vì công việc của Bồ-tát phải tiếp tục khi nào mà không gian vẫn trải ra mười phương, khi nào vẫn còn một chúng sinh trong vũ trụ cần được giải thoát, khi nào còn một tham ái cần phải diệt trừ, một Bồ-tát do đó làm việc không ngưng nghỉ, liên tục, không gián đoạn, bằng thân, khẩu, và ý, cho đến tận cùng của thế giới.[267]
 
 ## Kính Lễ Chư Phật
 
