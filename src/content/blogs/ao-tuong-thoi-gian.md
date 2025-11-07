@@ -107,14 +107,15 @@ Hoặc như chính Einstein nói:
 
 > Những người như chúng ta, những kẻ tin vào Vật lý học, biết rằng sự phân biệt giữa quá khứ, hiện tại và tương lai chỉ là một ảo tưởng cố chấp dai dẳng.
 
+Truyền Bình: 
+
+> *Ảo giác đâu chỉ có *Thời gian*?*
+
 <hr class="blog-rule" />
 
-> Truyền Bình: *Ảo giác đâu chỉ có *Thời gian*?*
+## NGUỒN
 
-<hr class="blog-rule" />
+> ✨ <a href="https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html" target="_blank">🔗 thamtosuthien</a>
 
-## GHI CHÚ
+> ✨ <a href="https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/" target="_blank">🔗 duylucthien</a>
 
-> ✨ Nguồn: https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html
->
-> ✨ Nguồn: https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/

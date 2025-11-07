@@ -599,7 +599,7 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 > ✨ <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
 
-> ✨ Nguồn: <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
+> ✨ <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
 
 <hr class="blog-rule" />
 

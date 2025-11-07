@@ -103,4 +103,4 @@ Về phần câu nói của nhà sư, Tại sao người không có hơi thở t
 
 ## NGUỒN
 
-> ✨ Nguồn: https://thuvienhoasen.org/a20796/hai-an-dai-dinh
+> ✨ <a href="https://thuvienhoasen.org/a20796/hai-an-dai-dinh" target="_blank">🔗 thuvienhoasen</a>

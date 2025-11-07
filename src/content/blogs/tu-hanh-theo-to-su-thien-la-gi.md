@@ -210,6 +210,6 @@ Về sau Tổ Sư Thiền còn phát triển những phương pháp thực hành
 
 <hr class="blog-rule" />
 
-## GHI CHÚ
+## NGUỒN
 
-> ✨ Nguồn: https://duylucthien.wordpress.com/2020/06/17/tu-hanh-theo-to-su-thien-la-gi/
+> ✨ <a href="https://duylucthien.wordpress.com/2020/06/17/tu-hanh-theo-to-su-thien-la-gi/" target="_blank">🔗 duylucthien</a>

@@ -10,11 +10,6 @@ tags:
 author: "JANE DOBISZ"
 pdfUrl: /pdfs/practices/100-ngay-doc-cu.pdf
 videoPlaylist: PLA9UBIkBn5ulzhiOrsOTUBo4xV2RhQZC1
-videoIds: 
-  - u3fyx4XJS34
-  - be9fPdQMizI
-  - D5xi9vhu2zA
-  - UWB9ZxSI9z8
 ---
 
 ## GIỚI THIỆU ĐÔI NÉT VỀ TÁC GIẢ
@@ -64,10 +59,12 @@ không lệ thuộc tử sinh
 Điều đó là gì?
 </blockquote>
 
-(Hán thi)
+> Hán thi
 
 <hr class="blog-rule" />
 
-## GHI CHÚ
+## NGUỒN
 
-> ✨ Nguồn: <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">🔗 thuvienhoasen</a>
+> ✨ <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">🔗 thuvienhoasen</a>
+
+> 🎧 [Youtube]: videoIds: P1- u3fyx4XJS34, P2- be9fPdQMizI, P3- D5xi9vhu2zA, P4- UWB9ZxSI9z8
