@@ -14,14 +14,23 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Nước lớn thuyền cao, há học được tài phô trương của Ngoạ Luân sao? Gió lặng sóng yên không nên nhờ Ngài Thần Tú thường lau bụi trần. Thiền Tăng thông minh tự biết tung tích.
+> Nước lớn thuyền cao, há học được tài phô trương của Ngoạ Luân sao? 
+> Gió lặng sóng yên không nên nhờ Ngài Thần Tú thường lau bụi trần. 
+> Thiền Tăng thông minh tự biết tung tích.
 
-BẢN TẮC
+## CỬ - TẮC
+
+📢 Ngài Đầu Tử cử:
+
 Tăng hỏi Hòa thượng Ngưỡng Sơn Dũng: Ý chỉ Tào Khê thế nào?
+
 Sơn đáp: Khóa bầu không khí lạnh.
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền dẫn, Đường Trung Tông niên hiệu Thần Long năm đầu (706) vua ban chiếu: Trẫm thỉnh hai sư An và Tú vào cung cúng dường, lúc vô sự thì Trẫm nghiên cứu đạo Nhất Thừa.
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền dẫn: 
+
+Đường Trung Tông niên hiệu Thần Long năm đầu (706) vua ban chiếu: Trẫm thỉnh hai sư An và Tú vào cung cúng dường, lúc vô sự thì Trẫm nghiên cứu đạo Nhất Thừa.
 
 Hai Sư đều nhường rằng: Phương nam có Thiền sư Huệ Năng mật thọ y pháp của Đại sư Hoằng Nhẫn. Mong Bệ Hạ nên đến ngài Huệ Năng thưa hỏi.
 
@@ -55,45 +64,32 @@ Tiết Giản được chỉ dạy hoát nhiên đại ngộ, lễ tạ trở v�
 
 Ngài Lâm Tuyền nói: Chỗ bảo Đức Vua phân biệt tài tình. Thế nên nói có thiên nhân biết được trời người. Các ông nếu bảo Lâm Tuyền cho đây là ý chỉ Tào Khê. Giống như đem vó sò dong nước biển, đem trời bằng ống sáo. Nếu muốn thấy rõ ràng cần hỏi ngài Đầu Tử mới được.
 
-TỤNG CỔ
-Đồi núi chập chùng tới tận mây.
-Mây giăng kín tháp đường không lối.
-Văng vẳng tiếng tùng mãi ngàn năm.
-Suối chảy vạn năm không dấu mòn.
-
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói: Cao ngất chẳng thể vượt qua, sâu kín không sao nhìn tới. Nào cho nắm bắt, đâu cho đuổi tìm. Đã đối đãi không chôn thành tha thiết, đều là những sự bất ngờ khác thường.
-
-Đồi núi chập chùng cao vạn nhẫn thẳng tản trời xanh. Khe xưa suối ẩn chảy vòng quanh trong đêm vắng. Chùa tháp trên đỉnh núi mây phủ kín. Thổi cho bao cảnh đẹp tái hiện, cuối cùng cũng hiển bày huyền vi. Tiếng truyền răng xưa, giờ thổi tung reo vượt thấu mây xanh. Tầm tỹ vạn năm, nước khe cuối cùng chảy về biển cả.
-
-Ngài Lâm Tuyền cứ lặp lại cho người sau như thế. Nói cho gióng hiển chơn bát thêm càn, làm cho sự trang điểm không được sắc nét. Đáng mừng hay chẳng?
-
-Lúc có chỉ khi thì tàng chỉ khí,
-Chỗ không phong lưu cũng phải phong trần.
-
-## CỬ - TẮC
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
 ## TỤNG CỔ
 
 <blockquote>
 
+Đồi núi chập chùng tới tận mây.
 
+Mây giăng kín tháp đường không lối.
+
+Văng vẳng tiếng tùng mãi ngàn năm.
+
+Suối chảy vạn năm không dấu mòn.
 </blockquote>
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
+Cao ngất chẳng thể vượt qua, sâu kín không sao nhìn tới. Nào cho nắm bắt, đâu cho đuổi tìm. Đã đối đãi không chôn thành tha thiết, đều là những sự bất ngờ khác thường.
 
+Đồi núi chập chùng cao vạn nhẫn thẳng tản trời xanh. Khe xưa suối ẩn chảy vòng quanh trong đêm vắng. Chùa tháp trên đỉnh núi mây phủ kín. Thổi cho bao cảnh đẹp tái hiện, cuối cùng cũng hiển bày huyền vi. Tiếng truyền răng xưa, giờ thổi tung reo vượt thấu mây xanh. Tầm tỹ vạn năm, nước khe cuối cùng chảy về biển cả.
+
+Ngài Lâm Tuyền cứ lặp lại cho người sau như thế. Nói cho gióng hiển chơn bát thêm càn, làm cho sự trang điểm không được sắc nét. Đáng mừng hay chẳng?
+
+> Lúc có chỉ khi thì tàng chỉ khí,
+> 
+> Chỗ không phong lưu cũng phải phong trần.
 
 <hr class="blog-rule" />
 

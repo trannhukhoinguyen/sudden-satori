@@ -15,7 +15,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Gánh nước bửa củi đều là thần thông diệu dụng. 
+> Gánh nước bửa củi đều là thần thông diệu dụng. 
 Biến sông thành chín đều đạt đến quy định huyền diệu của sự giáo hóa. 
 Suốt ngày bận rộn việc ấy không sao ư? Chưa biết đó là ai?
 

@@ -14,16 +14,16 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Ngựa gỗ hí gió. Trâu đất rống trăng.
+> Ngựa gỗ hí gió. Trâu đất rống trăng.
 Trong chỗ vô ngôn mà hay lắm lời, ra khỏi thị phi lìa điểm đồng dị. Nói thế nào?
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi Hòa thượng Ba Lăng Hạo Giám: **Ý Tổ ý Giáo khác nhau hay giống?**
->
-> Ba Lăng đáp: **Vịt lạnh lên cây, gà lạnh xuống nước.**
+Tăng hỏi Hòa thượng Ba Lăng Hạo Giám: **Ý Tổ ý Giáo khác nhau hay giống?**
+
+Ba Lăng đáp: **Vịt lạnh lên cây, gà lạnh xuống nước.**
 
 ## BÌNH XƯỚNG
 
@@ -76,16 +76,23 @@ Hướng nữa đưa mỗi người phân biệt gà vịt. Đáng tiếc để 
 
 ## TỤNG CỔ
 
-> Hỏi nguyên nhân ý Tổ đồng hay khác.
+<blockquote>
+
+Hỏi nguyên nhân ý Tổ đồng hay khác.
+
 Lại phân cao thấp báo đáp Người.
+
 Nhờ tó đêm khuya người buông thả.
+
 Biết được mặt trời giữa ánh trăng.
+</blockquote>
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
 > Vừa nghe liền hiểu, ý sinh xanh đỏ.
+> 
 > Cỏ thủy không rễ, bậc hiền không quí.
 
 Lạc Phố lúc đứng hầu Lâm Tế, có một tọa chủ đến tham vấn Lâm Tế.

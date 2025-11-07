@@ -104,12 +104,9 @@ Du, nghĩa là không thực tế. Không thể dùng lời như vậy, ẩn m�
 Từ đó trời Hán hết mây, tất nhiên sương mù không hiện. Bãi biển còn cát cỏ nhiên có quanh. Núi đôi vế chiều vượn hú chốn khe sâu, sương rơi gió rét hạc kêu đỉnh tùng. 
 Chính ngay lúc này làm sao biết rõ.
 
-<blockquote>
-
-Cảnh ngoài thành không ngăn cách núi.
-
-Ánh trăng sảnh cùng dòng nước biếc.
-</blockquote>
+> Cảnh ngoài thành không ngăn cách núi.
+>
+> Ánh trăng sảnh cùng dòng nước biếc.
 
 <hr class="blog-rule" />
 

@@ -256,7 +256,7 @@ const CnLv6MasterDb = [
     name_en: 'Yantou Quanhuo',
     name_ja: 'Gantō Zenkatsu',
     name_zh: '巖頭全豁',
-    name_vi: 'Nham Đầu Toàn Hoát',
+    name_vi: 'NHAM ĐẦU TOÀN HOÁT',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',

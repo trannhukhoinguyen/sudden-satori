@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS NHAM ĐẦU TOÀN HOÁT
 image: /images/koans/great-wave.webp
 ---
 
@@ -14,17 +14,19 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Thường ở bên bờ kia, chỉ muốn vượt hiểm nguy cắt đứt dòng chảy, uống cạn giữ nguồn lặng, không chịu giăng buồm xuôi gió. 
-
-Có ai ở chốn nước sâu thẳm thẳm buông câu thả mồi chăng?
+> Thường ở bên bờ kia, chỉ muốn vượt hiểm nguy cắt đứt dòng chảy, uống cạn giữ nguồn lặng, không chịu giăng buồm xuôi gió. 
+>
+> Có ai ở chốn nước sâu thẳm thẳm buông câu thả mồi chăng?
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi ngài Nham Đầu: Lúc buồm xưa không kéo lên được thì thế nào?
-Nham Đầu đáp: Sau vườn lửa ăn cỏ.
-Sư niêm: Hàn Sơn ngủ nướng, Thập Đắc dậy muộn.
+Tăng hỏi ngài **Nham Đầu**: **Lúc buồm xưa không kéo lên được thì thế nào?**
+
+**Nham Đầu** đáp: **Sau vườn lửa ăn cỏ.**
+
+Ngài Đầu Tử niêm: Hàn Sơn ngủ nướng, Thập Đắc dậy muộn.
 
 ## BÌNH XƯỚNG
 
@@ -36,16 +38,22 @@ Vị Tăng này hỏi về đại ý, Nham Đầu tuy có khả năng thấu đ�
 
 Cho nên Nham Đầu cũng không cắt đứt các dòng, không theo mồi đuổi sóng. Nhưng lại đóng một cái nẹp trong chỗ nước đọng, còn nói sau vườn lửa ăn cỏ. Khi ăn nhớ cẩn thận chớ nhai lại. Chỉ sợ đưa đến kết quả nặng bụng phải tốn liều thuốc xổ cho tiêu hết.
 
-Không nên dựa vào cọc cột lửa thì tự nhiên không bị trói buộc. Ngài Đầu Tử sống an nhàn bình dị không kết của huyễn, quên yêu ghét, xa lo buồn và chỉ cần đẩy nhẹ là đến bờ. Nên nói Hàn Sơn ngủ nướng, Thập Đắc dậy muộn. Bất luận là ai, vườn trước hay vườn sau, ăn cỏ hay không ăn cỏ. Tuy như thế, chớ theo tiếng rống loài lừa, phải bàn luận kỹ một vận Hồ Gia.
+Không nên dựa vào cọc cột lửa thì tự nhiên không bị trói buộc. Ngài Đầu Tử sống an nhàn bình dị không kết của huyễn, quên yêu ghét, xa lo buồn và chỉ cần đẩy nhẹ là đến bờ. Nên nói Hàn Sơn ngủ nướng, Thập Đắc dậy muộn. 
 
-
+Bất luận là ai, vườn trước hay vườn sau, ăn cỏ hay không ăn cỏ. Tuy như thế, chớ theo tiếng rống loài lừa, phải bàn luận kỹ một vận Hồ Gia.
 
 ## TỤNG CỔ
 
-> Mây che sườn Tây đỉnh Đông sáng.
+<blockquote>
+
+Mây che sườn Tây đỉnh Đông sáng.
+
 Tiếng sáo vọng về đảo hướng nam.
+
 Mặt trời mọc trễ thấm ước y.
+
 Oanh hót cành liễu báo xuân về.
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -55,9 +63,13 @@ Sáng tối xen nhau, bằng nhau thì càng khó giác. Dựa vào sức tận 
 
 Mây che sườn Tây tràn lên đỉnh Đông. Hướng đến chỗ nửa sáng nửa tối, có lúc dường như thấy như không. Lý trơn thì lời lệch, lời có thì lý mất.
 
-Thế nên tiếng sáo cũ lao phía Nam sẽ vọng về, bên này bờ liễu thủ đông lắng nghe. Không biết thưởng thức thì không đạt ý khí, không có trí âm chẳng được sự vi diệu này. Có người hạ lạp bạng tai thật là khó hội, nghe tiếng băng mất mới biết được.
+Thế nên tiếng sáo cũ lao phía Nam sẽ vọng về, bên này bờ liễu thủ đông lắng nghe. 
+
+Không biết thưởng thức thì không đạt ý khí, không có trí âm chẳng được sự vi diệu này. Có người hạ lạp bạng tai thật là khó hội, nghe tiếng băng mất mới biết được.
 
 Tiếc rằng sắc trời xanh tươi, những ánh sáng ngon đen lay động. Gái gỗ hồn phiêu, người đá ngủ say. Chẳng những mặt trời chiếu đất mà còn gối đá ngủ mây.
+
+<blockquote>
 
 Sương khóc hoa đầu cành.
 
@@ -66,10 +78,12 @@ Gió lay nhẹ ngọn cây.
 Đá thấm ước áo vải,
 
 Thấm gối chốn mây bay.
+</blockquote>
 
 Khắp nơi mọi người đều biết. Giống như ngày xuân chim oanh liệng, ra khỏi hang sâu bay tận cây cao. Áo to vàng tiếng kèn trầm bổng. Khi vừa nghe điều quan trọng là đừng không nên đắm theo thinh sắc này. Bay qua mất rồi ai có thể rõ được chốn nằm. Hội được như thế, mới tin rằng:
 
 > Vượt qua sắc tuyệt chỉ có có huyền,
+> 
 > Ánh xuân hiển hiện nào bằng liễu mượt.
 
 <hr class="blog-rule" />
@@ -82,6 +96,6 @@ Khắp nơi mọi người đều biết. Giống như ngày xuân chim oanh li�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
 
 

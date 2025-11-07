@@ -61,12 +61,9 @@ Lúc mới phát tâm liền chứng được bồ đề, khi nghiệm kỹ lạ
 Cho đến đức Như Lai không ra đời cũng không nhập Niết bàn, thì mới được tám phần. 
 Thế thì làm sao nói được một câu đầy đủ (thấu triệt)?
 
-<blockquote>
-  
-Thiền tăng nhiều lời nói khó trúng
-
-Đông Tử vô ngôn diễn bày hay
-</blockquote>
+> Thiền tăng nhiều lời nói khó trúng
+> 
+> Đông Tử vô ngôn diễn bày hay
 
 Hòa thượng Nam Nhạc Hoài Nhượng từng bảo với Mã đại sư rằng:
 
@@ -121,12 +118,9 @@ Ra khỏi sự khen chê, phàm thánh chẳng lường, thứ bậc chẳng ch�
 
 Dù cho như thế, cũng chưa khỏi bị ngài Nam Tuyền bảo: “**Phật Oai Âm Vương vẫn là con cháu của Vương Lão Sư**” Sao vậy?
 
-<blockquote>
-  
-Xưa nay Luân Vương đủ chí khí
-
-Không bày ấn báu vẫn tôn kính
-</blockquote>
+> Xưa nay Luân Vương đủ chí khí
+>
+> Không bày ấn báu vẫn tôn kính
 
 <hr class="blog-rule" />
 

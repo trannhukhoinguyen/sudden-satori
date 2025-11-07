@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Niệm trước niệm sau, luôn nhớ niệm hiện tại.
+> Niệm trước niệm sau, luôn nhớ niệm hiện tại.
 Là thanh tịnh biết thanh tịnh, trong ấy có sự tinh thông.
 Có ai đủ con mắt thông suốt này chăng?
 
@@ -22,9 +22,9 @@ Có ai đủ con mắt thông suốt này chăng?
 
 📢 Ngài Đầu Tử cử:
 
-> Có vị Tăng hỏi ngài Đầu Tử: **Phàm thánh cách nhau bao nhiêu.**
->
-> Đầu Tử bước xuống giường thiền đứng.
+Có vị Tăng hỏi ngài Đầu Tử: **Phàm thánh cách nhau bao nhiêu.**
+
+Đầu Tử bước xuống giường thiền đứng.
 
 ## BÌNH XƯỚNG
 
@@ -62,10 +62,16 @@ Vì Tăng nầy nếu là khách Tiên Đà, thì đâu cần Ngài Văn Thù đ
 
 ## TỤNG CỔ
 
-> Nước chảy Côn Lôn sóng ngập trời.
+<blockquote>
+
+Nước chảy Côn Lôn sóng ngập trời.
+
 Trời cao đất thấp luyện cánh hay.
+
 Kẻ xuống giường thiền dứt núi mây.
+
 Dứt bặt phàm thánh biền đôi lặng.
+</blockquote>
 
 ## BÌNH XƯỚNG
 

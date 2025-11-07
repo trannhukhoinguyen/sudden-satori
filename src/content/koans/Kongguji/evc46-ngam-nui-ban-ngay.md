@@ -14,15 +14,15 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Nói không chơn thật, đưa ra không giống. Một thì một, hai thì hai. Mất miệng sờ nhằm lỗ mũi, không biết rơi vào đâu?
+> Nói không chơn thật, đưa ra không giống. Một thì một, hai thì hai. Mất miệng sờ nhằm lỗ mũi, không biết rơi vào đâu?
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi Vân Môn: **Thế nào là ý Tổ Sư từ Tây sang.**
->
-> Vân Môn đáp: **Ban ngày nên xem núi.**
+Tăng hỏi Vân Môn: **Thế nào là ý Tổ Sư từ Tây sang.**
+
+Vân Môn đáp: **Ban ngày nên xem núi.**
 
 ## BÌNH XƯỚNG
 
@@ -44,13 +44,18 @@ Lâm Tuyền nói: Thân Kim cang ngoài cửa cười Hòa Thượng. Vị Tăn
 
 Tim răng trong mũi, tim miệng sau ót, bất chợt dụng nhằm. Mới tin rằng tất cả trí là trí thanh tịnh không lầm. Không hai không hai phần, không sai khác không đồng. Đâu cần ban ngày xem núi, ngắm nước trước sông. Xem bên thềm, bên cây bìu mới. bây giờ nếu không nghiên cứu cội nguồn, tương lai chớ hỏi Ngài Di Lặc.
 
-
 ## TỤNG CỔ
 
-> Thần Nhiên từng hỏi Lão sư An.
+<blockquote>
+
+Thần Nhiên từng hỏi Lão sư An.
+
 Đầu giống Thiếu Dương truyền một câu.
+
 Ban ngày Hoa Sơn Tiên hứng núi.
+
 Đêm khuya vườn ướt, trăng bên thềm.
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -75,6 +80,7 @@ Ngài Lâm Tuyền nói: Tra xét quá tỉ mỉ. Tuy cho phép ông ta ban ngà
 Trong Thuật Chinh Ký của Quách Duyên Sinh ghi rằng: Hoa Sơn và Thủ Dương xưa kia là một ngọn núi. Thần sông Cư Linh che đôi đèo thông sông Hoàng Hà, Hoa Sơn chướng kỳ vẫn còn. Nhưng dù con đường đã rõ mà không chịu nhận. Như thế kể lại cho người sau, thì cũng giống như đêm khuya vườn ướt hứng ánh trăng bên thềm. Thì người đã không tai đâu cần lặng nghe, lại thấy chăng?
 
 > Giọt sương mù giữa trời trong,
+> 
 > Cười ngất Tương Dương Mạnh Hạo Nhiên.
 
 <hr class="blog-rule" />

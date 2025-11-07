@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS ĐẦU TỬ NGHĨA THANH
 image: /images/koans/great-wave.webp
 ---
 
@@ -14,16 +14,21 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Ba chính là một, một chính là ba. Ba và một không thể bảo trì nhau, phân rõ làm chi nam. Có ai luận bàn sâu về thật tướng và nói pháp yếu kiệt xuất chăng?
+> Ba chính là một, một chính là ba. Ba và một không thể bảo trì nhau, phân rõ làm chi nam. Có ai luận bàn sâu về thật tướng và nói pháp yếu kiệt xuất chăng?
 
-BẢN TẮC
+## CỬ - TẮC
+
+📢 Ngài Đầu Tử cử:
 
 Tăng hỏi Đầu Tử: Trong ba thân, thân nào nói pháp?
+
 Ngài Đầu Tử khảy móng tay.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói: Ba thân là pháp thân, báo thân, hóa thân.
+📢 Ngài Đầu Tử nói:
+
+> Ba thân là pháp thân, báo thân, hóa thân.
 Pháp thân Tỳ Lô Giá Na, Trung Hoa dịch là Biến khắp hết.
 Báo thân Lô Xá Na, Trung Hoa dịch là Mãn tịnh.
 Hóa thân Thích Ca Mâu Ni dịch là Năng Nhơn Tịch Mặc.
@@ -36,24 +41,39 @@ Không nghe nói sao, cõi nước thuyết chúng sanh thuyết, ba đời tấ
 
 Thơ Tăng Quán Hữu:
 
+<blockquote>
+
 Thập thiên đàn tía sáu bảy tầng.
+
 Hoa sen hồng ba bốn cánh.
+
 Thiên khách gặp nhau khảy móng tay,
+
 Tấm này có bao nhiêu người biết?
+</blockquote>
 
 Ngài Lâm Tuyền nói: Biết sử dụng để làm gì?
+
 Ngài Lâm Tuyền tuy nói như thế. Nhưng chúng ta không thể hiểu như vậy, không thể không hội như thế, rốt ráo thế nào, khảy móng tay một cái.
 
-TỤNG CỔ
+## TỤNG CỔ
+
+<blockquote>
 
 Ba thân nói pháp hỏi nguyên nhân.
+
 Khảy nhẹ móng tay thấu biển đào.
+
 Khoá vàng mở tháp mặt trời hiện.
+
 Đêm khuya núi xanh vọng tiếng cười.
+</blockquote>
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Lâm Tuyền nói: Trí âm không phải thường nhắc đến. Người thông đạt phải biết kinh sợ trong tối. Huống nữa cây trên rừng và cây trước sân mỗi cây đều tạo nên điệu tướng vô biên.
+📢 Ngài Lâm Tuyền nói:
+
+Trí âm không phải thường nhắc đến. Người thông đạt phải biết kinh sợ trong tối. Huống nữa cây trên rừng và cây trước sân mỗi cây đều tạo nên điệu tướng vô biên.
 
 Vượn kêu chim hót đều luận bàn viên âm bất nhị. Mọi thứ như thế, pháp nào cũng như vậy. Nếu hay ở lúc chưa hỏi, chớ chưa khảy móng tay biện rõ gia phong, biết một chút thì sao.
 
@@ -62,30 +82,6 @@ Mặc cho biển xanh mênh mông, đầu núi cao chót vót. Muốn hình đ�
 Chợt giữa đêm khuya tiếng cười vang vọng trong hư không. Thế mà không biết gật đầu, thủ đến trên đỉnh núi xanh cho nhập triền, nào ngại buông tay. Một câu hợp thời mỗi nơi xem!
 
 Tạm thời dừng niệm ngay chỗ khảy nhẹ móng tay, mở toang lớp lớp lâu các.
-
-## CỬ - TẮC
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-<blockquote>
-
-
-</blockquote>
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
 
 <hr class="blog-rule" />
 
@@ -97,6 +93,6 @@ Tạm thời dừng niệm ngay chỗ khảy nhẹ móng tay, mở toang lớp l
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>
 
 
