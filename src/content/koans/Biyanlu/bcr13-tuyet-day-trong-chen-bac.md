@@ -12,7 +12,7 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Mây đọng trên đồng, không che trời đất, Tuyết phủ hoa lau, khó phân dấu vết.
+> Mây đọng trên đồng, không che trời đất, Tuyết phủ hoa lau, khó phân dấu vết.
 
 Chỗ lạnh lạnh như băng tuyết, chỗ nhỏ nhỏ như bột gạo. Chổ sâu mắt Phật khó nhìn, chỗ kín ngoại ma khó dò.
 
@@ -22,9 +22,9 @@ Thử nói xem đó là việc của ai? Xin thử nêu lên xem sao.
 
 ## CỬ - TẮC
 
-> Có ông tăng hỏi Ba Lăng [^1], “Thế nào là tông của Đề Bà?” [^14]
->
-> Ba Lăng nói, “Tuyết đầy trong chén bạc.”
+Có ông tăng hỏi Ba Lăng [^1], “Thế nào là tông của Đề Bà?” [^14]
+
+Ba Lăng nói, “Tuyết đầy trong chén bạc.”
 
 ## BÌNH XƯỚNG
 
@@ -116,7 +116,9 @@ Nguyên lý này mà không có bậc thầy ấn thủ cho, biết dùng giáo 
 
 Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
-> Lão Tân Khai,
+<blockquote>
+
+Lão Tân Khai,
 
 Ghê gớm thật
 
@@ -129,6 +131,7 @@ Không biết phải hỏi trăng trên trời.
 Đề Bà Tông, Đề Bà Tông!
 
 Dưới lá cờ đỏ gió phất phơ.
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -140,13 +143,13 @@ Cuối bài tụng Tuyết Đậu phải khai mở ra lối thoát cho một câ
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12736/5/tac-thu-muoi-ba-chen-bac-cua-ba-lang
+> ✨ <a href="https://hoavouu.com/p16a12736/5/tac-thu-muoi-ba-chen-bac-cua-ba-lang" target="_blank">🔗 hoavouu.com</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43257/6-tac-13-tac-16
+> ✨ <a href="https://quangduc.com/p1241a43257/6-tac-13-tac-16" target="_blank">🔗 quangduc.com</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

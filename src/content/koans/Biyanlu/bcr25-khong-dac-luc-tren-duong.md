@@ -14,6 +14,7 @@ image: /images/koans/great-wave.webp
 
 > Cơ không rời vị, rơi vào biển độc. Lời không kinh quần, vướng vào tầm thường.
 > Hốt nhiên như ánh đá lửa phân biệt được tăng tục.
+> 
 > Biện được sát hoạt trong ánh điện chớp, mới có thể tề bình mười phương, sừng sững như núi cao ngàn thước.
 > Biết đó là thời tiết gì chăng? Xin nêu lên thử xem.
 
@@ -57,13 +58,16 @@ Tại sao sư núi tôi lại nói, “ Sau đầu thấy má, đừng nên qua 
 
 Nếu như các ông muốn biết ý hướng (của công án) xin xem tụng của Tuyết Đậu:
 
-> Bụi trần trong mắt đất trong tai,
+<blockquote>
+
+Bụi trần trong mắt đất trong tai,
 
 Trăm ngàn đỉnh cao không chịu ở.
 
 Nước chảy hoa trôi quá bang bạc,
 
 Nhướng mắt lên nhìn đi về đâu?
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -79,13 +83,13 @@ Tuyết Đậu chỉ thích Am Chủ nói, “ Vác gậy trên vai chẳng màn
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12749/5/tac-thu-hai-muoi-lam-lien-hoa-tru-truong
+> ✨ <a href="https://hoavouu.com/p16a12749/5/tac-thu-hai-muoi-lam-lien-hoa-tru-truong" target="_blank">🔗 hoavouu.com</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43260/9-tac-23-tac-25
+> ✨ <a href="https://quangduc.com/p1241a43260/9-tac-23-tac-25" target="_blank">🔗 quangduc.com</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">🔗 tuvien.com</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">🔗 phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

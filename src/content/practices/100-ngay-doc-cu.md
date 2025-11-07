@@ -9,6 +9,7 @@ tags:
   - Độc Cư
 author: "JANE DOBISZ"
 pdfUrl: /pdfs/practices/100-ngay-doc-cu.pdf
+videoPlaylist: PLA9UBIkBn5ulzhiOrsOTUBo4xV2RhQZC1
 ---
 
 ## GIỚI THIỆU ĐÔI NÉT VỀ TÁC GIẢ

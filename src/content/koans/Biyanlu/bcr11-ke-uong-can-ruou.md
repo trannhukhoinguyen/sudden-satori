@@ -13,7 +13,7 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Phật Tổ đại cơ, nắm cả trong tay. Mạng sống người trời, đều chịu sai sử.
+> Phật Tổ đại cơ, nắm cả trong tay. Mạng sống người trời, đều chịu sai sử.
 Một lời vẩn vơ, cũng làm kinh động quần chúng.
 Một cơ một cảnh, đánh tung xiềng xích.
 Tiếp nhận cơ hội hướng thượng, bàn đến sự siêu việt.
@@ -22,13 +22,13 @@ Có ai biết cốt yếu của việc này chăng? Xin nêu lên xem thử.
 
 ## CỬ - TẮC
 
-> Ngài Hoàng Bá [^0] dạy chúng rằng, “_Các ông chỉ là những kẻ uống cặn rượu.
-> Hành cước như thế, ở đâu có ngày hôm nay?
-> Có biết là trong xứ Trung Quốc này không có Thiền Sư chăng_?”
->
-> Lúc ấy có ông tăng bước ra nói, “_Thế những người hướng dẫn đồ chúng ở khắp các nơi thì sao_?”
->
-> Ngài Hoàng Bá nói, “_Tôi đâu có bảo là không có Thiền, chỉ có điều không có những bậc thầy mà thôi_”
+Ngài Hoàng Bá [^0] dạy chúng rằng, “_Các ông chỉ là những kẻ uống cặn rượu.
+Hành cước như thế, ở đâu có ngày hôm nay?
+Có biết là trong xứ Trung Quốc này không có Thiền Sư chăng_?”
+
+Lúc ấy có ông tăng bước ra nói, “_Thế những người hướng dẫn đồ chúng ở khắp các nơi thì sao_?”
+
+Ngài Hoàng Bá nói, “_Tôi đâu có bảo là không có Thiền, chỉ có điều không có những bậc thầy mà thôi_”
 
 ## BÌNH XƯỚNG
 
@@ -210,13 +210,13 @@ Hiện giờ còn ai muốn dơ móng vuốt ra chăng? Tôi đánh cho đấy!
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12734/5/tac-thu-muoi-mot-ke-uong-can-ruou-cua-hoang-ba
+> ✨ <a href="https://hoavouu.com/p16a12734/5/tac-thu-muoi-mot-ke-uong-can-ruou-cua-hoang-ba" target="_blank">🔗 hoavouu.com</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43256/5-tac-10-tac-12
+> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

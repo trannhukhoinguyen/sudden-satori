@@ -42,13 +42,16 @@ Sau đó có vị tăng thuộc nhà Đường tên là Cảnh Tôn làm bài th
 
 Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
-> Trong lửa tận kiếp đặt câu hỏi,
+<blockquote>
+
+Trong lửa tận kiếp đặt câu hỏi,
 
 Nạp tăng vẫn vướng hai lớp quan.
 
 Thương thay một câu “giống như” kia,
 
 Vạn dặm thui thủi mình đi về.
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -60,13 +63,13 @@ Tuyết Đậu dựa vào cơ duyên mà tụng ra, trong câu có chỗ xuất 
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12753/5/tac-thu-hai-muoi-chin-hoa-kiep-cua-dai-tuy
+> ✨ <a href="https://hoavouu.com/p16a12753/5/tac-thu-hai-muoi-chin-hoa-kiep-cua-dai-tuy" target="_blank">🔗 hoavouu.com</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43261/10-tac-26-tac-30
+> ✨ <a href="https://quangduc.com/p1241a43261/10-tac-26-tac-30" target="_blank">🔗 quangduc.com</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">🔗 tuvien.com</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">🔗 phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

@@ -12,7 +12,11 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Lớn không bờ cõi, nhỏ như vi trần, nắm buông không phải là gì khác, cuộn mở đều ở nơi mình. Nếu như muốn cởi bỏ chỗ trói buộc dính dấp, ắt phải cắt đứt hết tông tích (của tâm hành) nuốt hết âm thanh (của ngôn ngữ). Mọi người thấy rõ bờ kia, ai nấy lừng lững ngàn trượng. Thử nói xem đó là cảnh giới của ai? Xin nêu lên xem.
+> Lớn không bờ cõi, nhỏ như vi trần, nắm buông không phải là gì khác, cuộn mở đều ở nơi mình. 
+> 
+> Nếu như muốn cởi bỏ chỗ trói buộc dính dấp, ắt phải cắt đứt hết tông tích (của tâm hành) nuốt hết âm thanh (của ngôn ngữ). 
+> 
+> Mọi người thấy rõ bờ kia, ai nấy lừng lững ngàn trượng. Thử nói xem đó là cảnh giới của ai? Xin nêu lên xem.
 
 ## CỬ - TẮC
 
@@ -134,33 +138,36 @@ Vân Môn có khả năng bắt rắn, cũng như không phạm phải mũi nh�
 
 Tuyết Đậu chỉ vì thích cái khế hợp của Vân Môn với ý chỉ của Tuyết Phong cho nên mới tụng rằng:
 
-> Tượng cốt vách cao người không đến,
->
-> Kẻ đến phải là tay bắt rắn.
->
-> Thầy Lăng thầy Bị làm gì được?
->
-> Tang thân thất mạng đã bao người.
->
-> Thiều Dương [^6] biết,
->
-> Lại vạch cỏ,
->
-> Nam Bắc Đông Tây biết chỗ nào.
->
-> Hốt nhiên lại tung chiếc gậy ra,
->
-> Ném trưóc Tuyết Phong há hốc miệng.
->
-> Miệng há hốc hề giống điện chớp,
->
-> Nhíu đôi lông mày còn không thấy.
->
-> Giờ đây ẩn trên đỉnh Nhũ Phong,
->
-> Kẻ đến từng người thấy phương tiện.
->
-> Sư lớn tiếng quát rằng, “nhìn dưới chân!”
+<blockquote>
+
+ Tượng cốt vách cao người không đến,
+
+ Kẻ đến phải là tay bắt rắn.
+
+ Thầy Lăng thầy Bị làm gì được?
+
+ Tang thân thất mạng đã bao người.
+
+ Thiều Dương [^6] biết,
+
+ Lại vạch cỏ,
+
+ Nam Bắc Đông Tây biết chỗ nào.
+
+ Hốt nhiên lại tung chiếc gậy ra,
+
+ Ném trưóc Tuyết Phong há hốc miệng.
+
+ Miệng há hốc hề giống điện chớp,
+
+ Nhíu đôi lông mày còn không thấy.
+
+ Giờ đây ẩn trên đỉnh Nhũ Phong,
+
+ Kẻ đến từng người thấy phương tiện.
+
+ Sư lớn tiếng quát rằng, “nhìn dưới chân!”
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -184,13 +191,13 @@ Tuy rằng Trường Khánh, Huyền Sa và Vân Môn có thể bắt được r
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12746/5/tac-thu-hai-muoi-hai-con-ran-mui-rua-cua-tuyet-phong
+> ✨ <a href="https://hoavouu.com/p16a12746/5/tac-thu-hai-muoi-hai-con-ran-mui-rua-cua-tuyet-phong" target="_blank">🔗 hoavouu.com</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43259/8-tac-20-tac-22
+> ✨ <a href="https://quangduc.com/p1241a43259/8-tac-20-tac-22" target="_blank">🔗 quangduc.com</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">🔗 tuvien.com</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">🔗 phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

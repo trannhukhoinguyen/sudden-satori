@@ -1,26 +1,22 @@
 ---
-title: "CÁI TRỐNG KHÔNG CỦA ĐẠT MA TỔ SƯ"
+title: "CÁI TRỐNG KHÔNG CỦA Đạt Ma TỔ SƯ"
 description: ""
 excerpt: "Lương Vũ Đế hỏi Đạt Ma Đại Sư, 'Thế nào là sự thật cứu cánh siêu phàm?'. Đạt Ma nói, 'Trống không chẳng có gì là siêu phàm"
 categories:
   - Công án
 tags:
   - BÍCH NHAM LỤC
-  - Tổ BỒ ĐỀ ĐẠT MA
+  - Tổ BỒ ĐỀ Đạt Ma
   - TS BẢO CHÍ CÔNG
 image: /images/koans/great-wave.webp
 ---
 
 ## THÙY
 
-Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu.
-
-Chỉ 1 hiểu 3, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ.
-
-Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy.
-
-Vào giây phút đó, thử nói xem là hành tung của kẻ nào?
-Thử nhìn vào những lời dây dưa của Tuyết Đậu.
+> Thấy khói bên kia núi biết là có lửa, thấy sừng bên kia tường biết là có trâu. 
+> Chỉ một hiểu ba, thoáng nhìn đã rõ, đó cũng như chuyện cơm nước thường ngày của tăng sĩ. 
+> Còn như cắt đứt các dòng nhánh, hiện lên ở phương đông, chìm đi ở phương tây, tung hoàng nghịch thuận, tự tại cho hay lấy, vào giây phút đó, thử nói xem là hành tung của kẻ nào? 
+> Thử nhìn vào những lời dây dưa của Tuyết Đậu
 
 ## CỬ - TẮC
 
@@ -76,14 +72,14 @@ Một bên thì thiên hạ lo tạo ra những phức tạp, song cũng chẳng
 Cho nên mới có lời nói, “ Nếu như có thể tham hiểu một câu, thì có thể hàng vạn câu một lúc”.
 Lúc ấy đương nhiên người ta có thể thấu rõ, nắm vững. Cổ nhân nói, “Tan Xương nát thịt không đủ trả, hiểu được một câu vượt trăm ức.”
 
-Đạt ma đối diện trực tiếp với Vũ Đế, lận đận biết bao.
+Đạt Ma đối diện trực tiếp với Vũ Đế, lận đận biết bao.
 Vũ Đế không giác ngộ, lại còn dựa vào kiến chấp, nhân-ngã, hỏi thêm một câu, “Đối diện với Trẫm là ai?”
 Đạt Ma từ bi cùng tột, lạinói với Vũ Đế “Không biết”.
 Khiến cho Vũ Đế kinh hoàng đi, không hiểu Đạt Ma muốn nói gì . Đến mức này mà còn chấp có hay không thì đều chẳng nhằm.
 
 </div>
 
-## TỤNG (Đoan hòa thượng)
+## TỤNG
 
 Đoan hòa thượng có lời tụng rằng;
 
@@ -138,7 +134,7 @@ Rồi lại tán thán rằng,” Tâm mà không thì trong sát na chứng đ�
 
 Thử nói xem hiện giờ Đạt Ma ở đâu? Đi qua rồi mà cũng chẳng biết.
 
-## TỤNG (Tuyết Đậu hòa thượng)
+## TỤNG
 
 > Sự thật trống không
 >
@@ -224,9 +220,9 @@ Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lã
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">🔗 VUA LƯƠNG VŨ ĐẾ</a>
 
-[^2]: ⭐️ <a href="/masters/ton-gia-bo-de-dat-ma/" target="_blank">🔗 Tổ BỒ ĐỀ ĐẠT MA</a>
+[^2]: ⭐️ <a href="/masters/ton-gia-bo-de-dat-ma/" target="_blank">🔗 Tổ BỒ ĐỀ Đạt Ma</a>
 
-⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">🔗 Phim về Tổ BỒ ĐỀ ĐẠT MA</a>
+⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">🔗 Phim về Tổ BỒ ĐỀ Đạt Ma</a>
 
 [^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">🔗 TS BẢO CHÍ CÔNG</a>
 

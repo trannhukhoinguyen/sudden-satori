@@ -12,7 +12,7 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Trời đất hẹp; trăng sao tinh tú đồng thời tối ám.
+> Trời đất hẹp; trăng sao tinh tú đồng thời tối ám.
 Dù cho là gậy giáng xuống như mưa sa, tiếng hét vang dội như sấm động, các ông vẫn chưa đảm đương được việc hướng thượng của tông môn.
 Dù cho là chư Phật của ba đời, cũng chỉ có thể tự biết.
 Tổ Sư của các thế hệ cũng không thể đề cập rốt ráo được vấn đề.
@@ -23,7 +23,7 @@ Bậc thượng sĩ có công tu tập lâu dài chẳng cần phải đợi ai 
 
 ## CỬ - TẮC
 
-> Ngài Triệu Châu [^1] dạy chúng nói, 
+Ngài Triệu Châu [^1] dạy chúng nói, 
 
 “**Đạo lớn không khó miễn đừng so đo. 
 Vừa có ngôn ngữ lập tức có lựa chọn so đo.
@@ -91,7 +91,7 @@ Người thời buổi này không hiểu, chỉ nói rằng Triệu Châu khôn
 
 Họ đâu có ngờ rằng sự việc lướt qua trước mặt họ mà họ không hay biết.
 
-## TỤNG (Tuyết Đậu hòa thượng)
+## TỤNG
 
 > Đạo lớn không khó
 >

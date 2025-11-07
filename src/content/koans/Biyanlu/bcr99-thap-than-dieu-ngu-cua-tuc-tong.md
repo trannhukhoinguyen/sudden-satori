@@ -15,15 +15,19 @@ image: /images/koans/great-wave.webp
 
 > Rồng kêu sương nổi, cọp gầm gió sinh.
 > Trong tướng xuất thế vàng ngọc chạm nhau; thông phương tác lược mũi tên đụng nhau.
+> 
 > Thế giới không ẩn, xa gần hiển hiện, cổ kim biện rõ.
 > Thử nói xem, đây là cảnh giới của ai? Thử nêu lên xem.
 
 ## CỬ - TẮC
 
-> Túc Tông [^1] Hoàng Đế hỏi Huệ Trung Quốc Sư [^2], “_Thập thân điều ngự là gì_?”
-> Quốc Sư nói, “_Thí chủ bước trên đầu Tì Lô [^3] mà đi_”.
-> Túc Tông nói, “_Quả nhân không hiểu_”
-> Quốc Sư nói, “_Đừng nhận thanh tịnh Pháp thân của mình_”
+Túc Tông [^1] Hoàng Đế hỏi Huệ Trung Quốc Sư [^2], “_Thập thân điều ngự là gì_?”
+
+Quốc Sư nói, “_Thí chủ bước trên đầu Tì Lô [^3] mà đi_”.
+
+Túc Tông nói, “_Quả nhân không hiểu_”
+
+Quốc Sư nói, “_Đừng nhận thanh tịnh Pháp thân của mình_”
 
 ## BÌNH XƯỚNG
 
@@ -93,13 +97,13 @@ Tuyết Đậu hết mực tán thán Huệ Trung, hoàng kim cốt chỉ một 
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12831/5/tac-thu-chin-muoi-chin-thap-than-dieu-ngu-cua-tuc-tong
+> ✨ <a href="https://hoavouu.com/p16a12831/5/tac-thu-chin-muoi-chin-thap-than-dieu-ngu-cua-tuc-tong" target="_blank">🔗 hoavouu.com</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43277/26-tac-99-tac-100
+> ✨ <a href="https://quangduc.com/p1241a43277/26-tac-99-tac-100" target="_blank">🔗 quangduc.com</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10" target="_blank">🔗 tuvien.com</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10" target="_blank">🔗 phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

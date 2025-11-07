@@ -13,13 +13,14 @@ image: /images/koans/great-wave.webp
 ## THÙY
 
 > Hỏi một đáp mười. Nêu một rõ ba. Thấy thỏ thả ưng, nhân gió thổi lửa, không tiếc lông mày. 
+> 
 > Điều này tạm để qua một bên. Lúc vào hang cọp thì như thế nào? Thử nêu lên xem.
 
 ## CỬ - TẮC
 
-> Lúc cây khô lá rụng thì như thế nào?
->
-> Vân Môn [^1] nói, “Thể lộ kim phong.” [^11]
+Lúc cây khô lá rụng thì như thế nào?
+
+Vân Môn [^1] nói, “Thể lộ kim phong.” [^11]
 
 ## BÌNH XƯỚNG
 
@@ -35,7 +36,9 @@ Vân Môn thích cưỡi ngựa của kẻ trộm để đuổi kẻ trộm. Há
 
 Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
-> Hỏi đã có tông,
+<blockquote>
+
+Hỏi đã có tông,
 
 Đáp cũng toàn đồng.
 
@@ -50,6 +53,7 @@ Trời cao hề mưa bụi lãng đãng.
 Người thấy chăng Thiếu Lâm ngồi lâu khách chưa về,
 
 Hùng Nhĩ êm đềm một tùng lâm.
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -65,13 +69,17 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 
 ## NGUỒN
 
+> ✨ <a href="https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son" target="_blank">🔗 hoavouu.com</a>
+>
+> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
+>
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">🔗 tuvien.com</a>
+>
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">🔗 phatphapungdung.com</a>
+
 > ✨ https://hoavouu.com/p16a12751/5/tac-thu-hai-muoi-bay-the-lo-kim-phong-cua-van-mon
 >
 > ✨ Nguồn: https://quangduc.com/p1241a43261/10-tac-26-tac-30
->
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03
->
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3
 
 <hr class="blog-rule" />
 

@@ -12,23 +12,23 @@ image: /images/koans/great-wave.webp
 
 ## THÙY
 
-Kiến pháp tràng, lập tông chỉ, trên gấm bầy hoa.
-
-Tháo cương gỡ yên, thái bình thời tiết.
-
-Nếu như phân biện được câu đặc biệt, thì nêu lên một là hiểu ba.
-
-Nếu như chưa được như vậy, thì hãy tiếp tục lắng nghe phân xử.
+> Kiến pháp tràng, lập tông chỉ, trên gấm bầy hoa.
+>
+> Tháo cương gỡ yên, thái bình thời tiết.
+>
+> Nếu như phân biện được câu đặc biệt, thì nêu lên một là hiểu ba.
+>
+> Nếu như chưa được như vậy, thì hãy tiếp tục lắng nghe phân xử.
 
 ## CỬ - TẮC
 
-> Có ông tăng hỏi ngài Trí Môn [^1], “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?”
->
-> Trí Môn nói, “Hoa sen”.
->
-> Ông tăng lại hỏi, “Sau khi ngoi lên khỏi mặt nước rồi thì như thế nào?”
->
-> Trí Môn nói, “Lá sen.”
+ Có ông tăng hỏi ngài Trí Môn [^1], “Lúc hoa sen chưa ngoi lên khỏi mặt nước thì như thế nào?”
+
+ Trí Môn nói, “Hoa sen”.
+
+ Ông tăng lại hỏi, “Sau khi ngoi lên khỏi mặt nước rồi thì như thế nào?”
+
+ Trí Môn nói, “Lá sen.”
 
 ## BÌNH XƯỚNG
 

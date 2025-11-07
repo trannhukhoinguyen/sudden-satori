@@ -14,6 +14,7 @@ image: /images/koans/great-wave.webp
 
 > Chồng chất đồi núi,va tường phá vách, trữ ý dụng cơ, luôn luôn ấm ức.
 > Hoặc có một người bước ra lật đổ biển lớn, đá ngã Tu Di, hét tan mây trắng, đánh vỡ hư không.
+> 
 > Lập tức với một cơ một cảnh làm líu lưỡi tất cả người trong thiên hạ, khiến các ông không còn chỗ mà mon men đến gần.
 > Thử nói xem, xưa nay đã từng có ai như thế? Xin thử nêu lên xem.
 

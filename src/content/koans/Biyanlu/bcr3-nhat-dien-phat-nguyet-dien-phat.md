@@ -61,17 +61,20 @@ Song bởi vì thầy ta đã thấy rõ, cho nên mới dùng hết sức bình
 
 ## TỤNG
 
-> Nhật diện Phật, nguyệt diện Phật
->
-> Ngũ đế tam hoàng là cái gì?
->
-> Hai mươi năm nay bao tân khổ,
->
-> Vì mấy người bận vào hang rồng!
->
-> Cái mệt nhọc này đáng nói lại,
->
-> Nạp tăng mắt sáng chớ coi thường.
+<blockquote>
+
+ Nhật diện Phật, nguyệt diện Phật
+
+ Ngũ đế tam hoàng là cái gì?
+
+ Hai mươi năm nay bao tân khổ,
+
+ Vì mấy người bận vào hang rồng!
+
+ Cái mệt nhọc này đáng nói lại,
+
+ Nạp tăng mắt sáng chớ coi thường.
+</blockquote>
 
 ## BÌNH XƯỚNG
 

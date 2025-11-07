@@ -45,6 +45,7 @@ Hương Lâm từng gặp các tay thành thạo đến hỏi, cho nên mới c�
 ## TỤNG
 
 Tuyết Đậu nhân gió mà thổi thêm lửa vào tụng của thầy ta:
+
 <blockquote> 
 
 Một người hai người ngàn vạn người,
@@ -55,7 +56,6 @@ Xoay trái xoay phải theo sau đến,
 
 Tử Hồ muốn đánh Lưu Thiết Ma.
 </blockquote>  
-
 
 ## BÌNH XƯỚNG
 

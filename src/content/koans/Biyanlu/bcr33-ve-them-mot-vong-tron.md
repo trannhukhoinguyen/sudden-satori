@@ -13,16 +13,19 @@ tags:
 
 ## THÙY
 
-Đông Tây không biện
-Nam Bắc chẳng phân
+> Đông Tây không biện
+> 
+> Nam Bắc chẳng phân
 
-Từ sáng đến tối, từ tối đến sáng.
-Có thể bảo là người ấy ngủ chăng?
+> Từ sáng đến tối, từ tối đến sáng.
+> 
+> Có thể bảo là người ấy ngủ chăng?
 
-Có lúc đôi mắt như thể sao chổi, song có thể bảo là người ấy ngủ chăng?
-Có lúc gọi Nam là Bắc, thử nói xem đó là hữu tâm hay vô tâm?
+> Có lúc đôi mắt như thể sao chổi, song có thể bảo là người ấy ngủ chăng?
+> 
+> Có lúc gọi Nam là Bắc, thử nói xem đó là hữu tâm hay vô tâm?
 
-Người ấy là đạo nhân hay là thường nhân? Nếu như có thể thấu qua được chỗ này, các ông mới hiểu được ý hướng, cũng như hiểu được rằng cổ nhân có như thế hay không?
+> Người ấy là đạo nhân hay là thường nhân? Nếu như có thể thấu qua được chỗ này, các ông mới hiểu được ý hướng, cũng như hiểu được rằng cổ nhân có như thế hay không?
 Song thử nói xem, đây là thời tiết gì? Xin nêu lên xem.
 
 ## CỬ - TẮC
@@ -109,13 +112,13 @@ Nếu như người ta là một ông tăng, người ta hẳn sẽ không có k
 
 ## NGUỒN
 
-> ✨ https://hoavouu.com/p16a12758/5/tac-thu-ba-muoi-ba-tran-thuong-thu-vieng-tu-phuc
+> ✨ <a href="https://hoavouu.com/p16a12758/5/tac-thu-ba-muoi-ba-tran-thuong-thu-vieng-tu-phuc" target="_blank">🔗 hoavouu.com</a>
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43262/11-tac-31-tac-34
+> ✨ <a href="https://quangduc.com/p1241a43262/11-tac-31-tac-34" target="_blank">🔗 quangduc.com</a>
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04
+> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">🔗 tuvien.com</a>
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4
+> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">🔗 phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
