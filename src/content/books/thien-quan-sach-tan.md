@@ -2,45 +2,51 @@
 title: "Thiền Quan Sách Tấn"
 meta_title: "Thiền Quan Sách Tấn"
 description: ""
-excerpt: "Thiền... lại có cửa (quan) sao?"
+excerpt: "Thiền... mà lại có cửa (quan) sao?"
 showInHomepage: true
 categories:
   - Thực hành
   - Ngữ lục
 tags:
-  - TS VÂN THÊ CHÂU HOẲNG
+  - TS VÂN THÊ CHÂU HOẰNG
 authors: 
   - Vân Thê Châu Hoằng
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/thien-quan-sach-tan.pdf
+videoIds:
+  - sctL3Sj1OEc
 ---
 
 ## TỰA
 
-Thiền lại có cửa (quan) sao?
-Đạo vốn không có trong, ngoài, ra, vào; nhưng người hành đạo bởi có mê, ngộ nên bậc đại thiện tri thức giữ cửa không thể không có khi mở, đóng. Các Ngài giữ khóa chốt kỹ càng, tra hỏi nghiêm ngặt, khiến những kẻ loạn ngôn, tà ý muốn vượt qua bị cửa ngăn cản không thể thực hiện được mưu gian, cũng là cái kế giữ lâu dài vậy.
+Thiền mà lại có cửa (quan) sao?
+Đạo vốn không có trong, ngoài, ra, vào; nhưng người hành đạo bởi có mê, ngộ nên bậc đại thiện tri thức giữ cửa không thể không có khi mở, đóng. 
 
-Tôi khi mới xuất gia được gặp một pho sách để trong phòng tên THIỀN MÔN PHẬT TỔ CƯƠNG MỤC. Trong ấy ghi chép những lời tường thuật của các vị Tôn túc về sự tham học, tu chứng của mình. Nào lúc mới tham học khó khăn thấu hiểu, lúc thực hành công phu nhọc nhằn khổ sở, đến sau cùng bỗng nhiên thấu ngộ. Tôi đọc qua, lòng rất kính mộ, nguyện học theo gương các Ngài. Bộ sách này các nơi khác không thấy có. Kế tôi đọc bộ Ngũ đăng chư ngữ lục trong Tạp truyện, không luận những vị xuất gia hay tại gia có thật tham, thật ngộ, tôi đều góp nhặt thêm vào phần trước pho sách.
+Các Ngài giữ khóa chốt kỹ càng, tra hỏi nghiêm ngặt, khiến những kẻ loạn ngôn, tà ý muốn vượt qua bị cửa ngăn cản không thể thực hiện được mưu gian, cũng là cái kế giữ lâu dài vậy.
+
+Tôi khi mới xuất gia được gặp một pho sách để trong phòng tên THIỀN MÔN PHẬT TỔ CƯƠNG MỤC. Trong ấy ghi chép những lời tường thuật của các vị Tôn túc về sự tham học, tu chứng của mình. Nào lúc mới tham học khó khăn thấu hiểu, lúc thực hành công phu nhọc nhằn khổ sở, đến sau cùng bỗng nhiên thấu ngộ. 
+
+Tôi đọc qua, lòng rất kính mộ, nguyện học theo gương các Ngài. Bộ sách này các nơi khác không thấy có. Kế tôi đọc bộ Ngũ đăng chư ngữ lục trong Tạp truyện, không luận những vị xuất gia hay tại gia có thật tham, thật ngộ, tôi đều góp nhặt thêm vào phần trước pho sách.
 
 Tôi chọn rút những chuyện cốt yếu, xếp theo loại, biên thành tập lấy tên là THIỀN QUAN SÁCH TẤN. Ở nơi nào thì tôi để nó trên bàn, đi đâu thì mang theo trong bị, mỗi lần đọc cảm thấy kích lệ tâm chí, tinh thần khoáng đạt, như có một sức mạnh vô hình thúc đẩy gắng tiến.
 
 Có thể nói quyển sách này rất cần thiết đối với người chưa vượt qua khỏi cửa, nếu với kẻ vượt khỏi cửa đã xa thì đâu còn cần dùng ? Tuy nhiên, ngoài cửa này còn lớp cửa khác, chẳng qua giả mượn tiếng gà, tạm rời miệng cọp mà thôi. Được ít cho là đủ là người tăng thượng mạn. Sông chưa cùng, núi chưa tột vẫn phải gắng tiến. Chạy mau, đi mãi bao giờ vượt khỏi cái cửa đen tối sau cùng, chừng ấy sẽ chậm rãi nghỉ ngơi không muộn.
 
-<hr class="blog-rule" />
-
-### Niên hiệu Vạn Lịch năm thứ 28, đầu mùa Xuân - CHÙA VÂN THÊ - Sa môn CHÂU HOẰNG - Cẩn chí
+> Niên hiệu Vạn Lịch năm thứ 28, đầu mùa Xuân - CHÙA VÂN THÊ - Sa môn CHÂU HOẰNG - Cẩn chí
 
 <hr class="blog-rule" />
 
 ## RÚT GỌN LỜI DẠY CỦA CHƯ TỔ
 
-Phần này, tôi không biên những lời cao siêu của chư Tổ, chỉ rút những chỗ thực hành công phu khẩn thiết. Lại rút gọn những chuyện cốt yếu cho tiện hằng ngày đọc qua để kích lệ thân tâm.
-
 ### 1. Hoàng Bá Vận Thiền sư dạy Chúng
 
 Về trước tu tập nếu chưa thấu triệt, một phen lưỡi hái tử thần kề cổ, sẽ thấy trăm mối rối ren. Thế mà, có một bọn ngoại đạo vừa thấy người hạ thủ công phu, bèn cười lạt, bảo rằng: Còn có cái ấy nữa. Ta thử hỏi ông: Nếu khi thần chết đến, ông lấy cái gì để chống cự lại? Vậy lúc rảnh rang lo giải quyết cho xong, đến khi gấp rút được ít nhiều tỉnh lực. Chớ đợi khát nước mới lo đào giếng, khi tay chân co rút, đường trước mịt mờ, trăn trở rối loạn, khổ thay! Khổ thay! Bình nhựt chỉ học Tam muội ngoài môi, nói thiền, nói đạo, trách Phật, chê Tổ, đến lúc này tất cả buông xuôi. Chỉ tưởng dối với người, đâu ngờ ngày nay dối mình.
 
-Tôi khuyên hết thảy huynh đệ, lúc thân thể còn tráng kiện nên chọn lấy những điều mình đã hiểu, làm động cơ tu tiến thì rất dễ dàng. Tự các ông không chịu lập chí quyết chết thực tập công phu, chỉ nghĩ là khó thì lại càng thấy khó. Nếu là bậc trượng phu hãy khán công án. Có vị Tăng hỏi ngài Triệu Châu: "Con chó có Phật tánh không?" Ngài Triệu Châu đáp: "Không". Suốt 12 thời (24 tiếng đồng hồ) khán một chữ KHÔNG. Ngày tham, đêm tham, đi, đứng, ngồi, nằm, mặc áo, ăn cơm, đại tiểu tiện v.v… đều dồn hết tinh thần khán một chữ KHÔNG. Lâu ngày chầy tháng kết thành một khối, bỗng nhiên tâm hoa khai phát, ngộ được cái máy nhiệm mầu của Phật, Tổ, sẽ không còn ngờ vực câu nói của Lão Hòa thượng, thấu triệt đại ngộ. Tổ Đạt Ma từ Ấn Độ đến, không gió đã làm dậy sóng. Đức Thế Tôn đưa cành hoa cả hội đều ngơ ngác. Lý này, dù nói đến chết, cả ngàn vị Thánh còn chẳng biết thế nào, chưa tin được cái đạo quá kỳ đặc như thế. Việc này chỉ ngại người hữu tâm.
+Tôi khuyên hết thảy huynh đệ, lúc thân thể còn tráng kiện nên chọn lấy những điều mình đã hiểu, làm động cơ tu tiến thì rất dễ dàng. Tự các ông không chịu lập chí quyết chết thực tập công phu, chỉ nghĩ là khó thì lại càng thấy khó. 
+
+Nếu là bậc trượng phu hãy khán công án. Có vị Tăng hỏi ngài Triệu Châu: "Con chó có Phật tánh không?" Ngài Triệu Châu đáp: "Không". Suốt 12 thời (24 tiếng đồng hồ) khán một chữ KHÔNG. Ngày tham, đêm tham, đi, đứng, ngồi, nằm, mặc áo, ăn cơm, đại tiểu tiện v.v… đều dồn hết tinh thần khán một chữ KHÔNG. Lâu ngày chầy tháng kết thành một khối, bỗng nhiên tâm hoa khai phát, ngộ được cái máy nhiệm mầu của Phật, Tổ, sẽ không còn ngờ vực câu nói của Lão Hòa thượng, thấu triệt đại ngộ. 
+
+Tổ Đạt Ma từ Ấn Độ đến, không gió đã làm dậy sóng. Đức Thế Tôn đưa cành hoa cả hội đều ngơ ngác. Lý này, dù nói đến chết, cả ngàn vị Thánh còn chẳng biết thế nào, chưa tin được cái đạo quá kỳ đặc như thế. Việc này chỉ ngại người hữu tâm.
 
 ### 2. Triệu Châu Thẩm Thiền sư dạy Chúng
 
@@ -52,6 +58,8 @@ Phàm người học Bát nhã Bồ tát phải đủ đại căn cơ, đại tr
 
 ### 4. Đại Nghĩa Thiền sư răn dạy
 
+<blockquote>
+  
 Chớ có quên mình với tử tâm,
 
 Bệnh này khó trị thật quá thâm,
@@ -67,6 +75,7 @@ Xem thử kèo nhà, nó là gì?
 Nếu người tịnh tọa chẳng dụng công,
 
 Bao giờ mới được ngộ tâm không?
+</blockquote>
 
 ### 5. Vĩnh Minh Thọ Thiền sư răn dạy
 
@@ -110,23 +119,29 @@ Dọc đường quá nhọc nhằn nên công phu thối thất. Đến Thừa T
 
 Ngày mùng 6 tháng 3, tôi trong khi tọa thiền đề khởi chữ KHÔNG, bỗng ngài Thủ tọa vào thiền đường thắp hương, đụng hộp nhang khua lên tiếng, hốt nhiên như dưới đất động một tiếng, chợt ngộ được chính mình, thấu đạt được ý ngài Triệu Châu. Liền đắc ý một bài tụng:
 
-> Chớ bảo cuối đường cùng,
->
-> Dẫm ngược sóng là nước.
->
-> Lão Triệu Châu siêu quần,
->
+<blockquote>
+  
+Chớ bảo cuối đường cùng,
+
+Dẫm ngược sóng là nước.
+
+Lão Triệu Châu siêu quần,
+
 > Diện mục chỉ như thế.
+</blockquote>
 
 Nguyên văn:
 
-> Một hưng lộ đầu cùng
->
-> Đạp phiên ba thị thủy
->
-> Triệu Châu lão siêu quần
->
-> Diện mục chỉ như thị.
+<blockquote>
+  
+Một hưng lộ đầu cùng
+
+Đạp phiên ba thị thủy
+
+Triệu Châu lão siêu quần
+
+Diện mục chỉ như thị
+</blockquote>
 
 Khoảng mùa thu đến yết kiến các vị Đại lão: An Kiến, Tuyết Nham, Thối Tỉnh, Thạch Khanh, Hư Chu. Hư Chu khuyên trở về Hoàng Sơn. Tôi y lời trở về Hoàng Sơn.
 
@@ -188,27 +203,27 @@ Ngày 20 tháng 3, Ngài Tuyết Nham lên Thiền đường bảo: "Chư huynh 
 
 Tôi y lời dạy này thực hành, liền biết có công phu dị thường. Ngày thứ hai, cặp mắt muốn nhắm mà không thể nhắm. Ngày thứ ba, thân này như đi giữa hư không. Ngày thứ tư, không còn biết tới việc thế gian. Đêm ấy, đứng dựa lan can một chút, lặng nhiên không biết, kiểm điểm lại thoại đầu vẫn không mất. Trở vào lên bồ đoàn ngồi chợt nghe từ đầu đến chân tợ như đầu lâu chẻ vỡ, in tuồng dưới đáy giếng sâu muôn trượng được đưa lên hư không. Khi ấy, vui mừng vô hạn. Tôi đem việc này thuật lại Ngài Tuyết Nham. Ngài bảo: "Chưa phải". Lại trở về thực hành công phu, mong được pháp ngữ. Chuyến sau, Ngài bảo:
 
-"Nối dòng Phật, Tổ việc hướng thượng,
-
-Sau ót trước đây thiếu một chùy".
+> Nối dòng Phật, Tổ việc hướng thượng,
+>
+> Sau ót trước đây thiếu một chùy
 
 **Nguyên văn**:
 
-Thiệu long Phật, Tổ hướng thượng sự,
-
-Não hậu y tiền khiếm nhất chùy.
+> Thiệu long Phật, Tổ hướng thượng sự,
+>
+> Não hậu y tiền khiếm nhất chùy
 
 Trong tâm tự hỏi, tại sao lại "thiếu một chùy?" Không tin việc này, liền khởi nghi, không thể tự giải quyết được. Mỗi ngày chồng chập tọa thiền sắp được nửa năm. Một hôm, nhơn nhức đầu chưng thuốc, gặp Giác Xích Tỷ, tri khách, hỏi: "Thái tử Na Tra lóc thịt trả cho mẹ, cắt xương trả cho cha là sao?" Nghe hiểu mà không thể đáp, bỗng nhiên phá vỡ khối nghi.
 
 Sau đến tham học với ngài Mông Sơn. Sơn hỏi: "Tham thiền công phu đến chỗ nào là cùng tột?" Liền im lặng không biết mối manh. Sơn dạy: "Lại phải thực hành định lực công phu, gột sạch tập tục thế gian". Mỗi khi vào thất chỉ nhớ "thiếu một chùy". Một hôm, từ ban mai tọa thiền đến suốt đêm, dùng định lực dồn ép, liền được thấy u vi. Khi xuất định gặp Sơn, bèn thuật lại cảnh này. Sơn bảo: "Cái ấy là bản lai diện mục của ông". Vừa muốn nói, Sơn liền đóng cửa. Từ đây, công phu mỗi ngày càng đến chỗ mầu nhiệm. Bởi vì rời ngài Tuyết Nham sớm quá, nên thực hành công phu chưa từng đến chỗ tế mật. Rất may! Lại được gặp bậc Thầy khuôn mẫu, mới đạt đến chỗ này. Lâu nay nhờ thực hành công phu khẩn thiết cùng cực, nên hiện tại giờ giờ ngộ nhập, bước bước sạch trong. Một hôm, nhìn trên vách thấy bài Minh Tín Tâm của Tam tổ rằng:
 
-"Về nguồn được ý chỉ,
-
-Tùy chiếu mất chơn tông"
+> Về nguồn được ý chỉ,
+> Tùy chiếu mất chơn tông
 
 **Nguyên văn**:
 
-Qui căn đắc chỉ, Tùy chiếu thất Tông.
+> Qui căn đắc chỉ,
+> Tùy chiếu thất Tông
 
 Lại gọt thêm một lớp nữa. Ngài Mông Sơn bảo: "Việc này in như mài giũa hạt châu, càng giũa thì càng sáng, càng sáng thì càng trong sạch. Giũa một lần, hơn nhiều đời khác thực hành công phu". Nhưng, tuy nói vậy, chữ "thiếu" vẫn còn ở trong tâm. Một hôm trong định, chợt chạm đến chữ "thiếu", bỗng nhiên thân tâm rỗng rang, triệt xương thấu tủy, như tuyết đọng hốt nhiên chảy tan, siêu việt không còn ngăn ngại. Liền bước xuống đất tìm Mông Sơn thưa: "Tôi thiếu cái gì?" Sơn đánh ba cái, tôi lễ ba lễ. Sơn bảo: "Thiết Sơn chỉ một cái đó mà mấy năm rồi, đến nay mới liễu ngộ".
 
