@@ -2,6 +2,7 @@
 title: "THÔ TÂM DỤNG & MIÊN MẬT DỤNG"
 description: ""
 excerpt: "Như gói nhiều đậu nành trong bao, dù để ở đâu, bên trong ắt cũng lỏng lẻo, hễ mở bao ra thì đổ vãi đầy đất...."
+showInHomepage: true
 categories:
   - Thực hành
   - Ngữ lục

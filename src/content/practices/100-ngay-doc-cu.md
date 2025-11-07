@@ -1,8 +1,8 @@
 ---
 title: "100 NGÀY ĐỘC CƯ"
 description: ""
-excerpt: |
-  ""
+excerpt: ""
+showInHomepage: true
 categories:
   - Thực hành
 tags:
@@ -21,19 +21,34 @@ Jane Dobisz (Thiền sư Bon Yeon) là vị thầy hướng dẫn ở trung tâm
 
 ### Kiếp người
 
-> Đến tay không, đi tay không,
+<blockquote>  
+
+Đến tay không, đi tay không,
+
 nhân thiên là vậy
+
 Khi sinh ra, bạn từ đâu đến?
+
 Khi chết rồi, bạn đi đâu
+
 Sinh, xuất hiện như đám mây nổi
+
 Tử, biến đi cũng như mây
+
 Đám mây trôi nổi kia,
+
 tự bản chất cũng không hiện hữu
+
 Sinh-tử, đến-đi cũng như vậy
+
 Nhưng có một điều rõ rệt -
+> 
 thanh tịnh và trong sáng
+
 không lệ thuộc tử sinh
+> 
 Điều đó là gì?
+</blockquote>
 
 (Hán thi)
 
@@ -41,4 +56,4 @@ không lệ thuộc tử sinh
 
 ## GHI CHÚ
 
-> ✨ Nguồn: https://thuvienhoasen.org/a18975/100-ngay-doc-cu
+> ✨ Nguồn: <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">🔗 thuvienhoasen</a>

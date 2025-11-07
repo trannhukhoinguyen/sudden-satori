@@ -3,37 +3,47 @@ import Layout from '../layouts/Layout.astro';
 import rules from '@/data/rules.ts';
 import principles from '@/data/principles.ts';
 import gates from '@/data/gates.ts';
-import PostDateTime from "../components/post/PostDateTime.astro";
 import PostTags from "../components/post/PostTags.astro";
 import PostImage from "../components/post/PostImage.astro";
 import { CONTENT_MAP } from "@/utils/getMarkdownContent";
 import { toKebabCase } from "@/utils/helper";
 
-const maxQuantity = 5;
+const maxQuantity = 6;
+const tagLine1 = "Chẳng cùng muôn pháp làm bạn là người gì?";
+const tagLine2 = "Sống từ đâu đến? Chết đi về đâu?";
 
-const blogPosts = CONTENT_MAP['blogs'].posts?.slice(0, maxQuantity)?.map(post => {
-  const { frontmatter } = post as any;
-  return {
-    title: frontmatter?.title,
-    frontmatter,
-    slug: '/blogs' + toKebabCase(frontmatter?.title),
-  }
+const blogPosts = CONTENT_MAP['blogs'].posts
+  ?.slice(0, maxQuantity)
+  ?.map(post => {
+    const { frontmatter } = post as any;
+
+    return {
+      title: frontmatter?.title,
+      frontmatter,
+      slug: '/blogs/' + toKebabCase(frontmatter?.title),
+    }
 });
-const bookPosts = CONTENT_MAP['books'].posts?.slice(0, maxQuantity)?.map(post => {
-  const { frontmatter } = post as any;
-  return {
-    title: frontmatter?.title,
-    frontmatter,
-    slug: '/books' + toKebabCase(frontmatter?.title),
-  }
+const bookPosts = CONTENT_MAP['books'].posts
+  ?.filter(post => post.frontmatter.showInHomepage)
+  ?.map(post => {
+    const { frontmatter } = post as any;
+
+    return {
+      title: frontmatter?.title,
+      frontmatter,
+      slug: '/books/' + toKebabCase(frontmatter?.title),
+    }
 });
-const practicePosts = CONTENT_MAP['practices'].posts?.slice(0, maxQuantity)?.map(post => {
-  const { frontmatter } = post as any;
-  return {
-    title: frontmatter?.title,
-    frontmatter,
-    slug: '/practices' + toKebabCase(frontmatter?.title),
-  }
+const practicePosts = CONTENT_MAP['practices'].posts
+  ?.filter(post => post.frontmatter.showInHomepage)
+  ?.map(post => {
+    const { frontmatter } = post as any;
+
+    return {
+      title: frontmatter?.title,
+      frontmatter,
+      slug: '/practices/' + toKebabCase(frontmatter?.title),
+    }
 });
 
 const title = "Trang chủ";
@@ -66,14 +76,14 @@ const description = "Xem " + title;
     <!-- Image Section -->
     <section class="image-area">
       <PostImage imageUrl={'/images/backgrounds/thien-dinh-cua-Phat.jpg'} imageAlt={'Thiền định của Phật - Tổ Sư Thiền'} />
-      <p class="blog-description">Chẳng cùng muôn pháp làm bạn là người gì?</p>
+      <p class="blog-description">{tagLine1}</p>
     </section>
 
     <!-- Practice Section -->
     <section class="blog-section" id="practices">
       <div class="container">
         <h2 class="section-title">Thực Hành</h2>
-        <p class="blog-description">Sống từ đâu đến? Chết đi về đâu?</p>
+        <p class="blog-description">{tagLine2}</p>
 
         {practicePosts.length > 0 && (
           <div class="blog-posts" >
@@ -89,7 +99,7 @@ const description = "Xem " + title;
         )}
 
         <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}practices`} class="btn btn-primary" target="_blank">Xem Thực Hành Tổ sư thiền</a>
+          <a href={`${import.meta.env.BASE_URL}practices`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
         </div>
       </div>
     </section>
@@ -98,7 +108,7 @@ const description = "Xem " + title;
     <section class="blog-section" id="books">
       <div class="container">
         <h2 class="section-title">Sách</h2>
-        <p class="blog-description">Sống từ đâu đến? Chết đi về đâu?</p>
+        <p class="blog-description">{tagLine2}</p>
 
         {bookPosts.length > 0 && (
           <div class="blog-posts">
@@ -114,7 +124,7 @@ const description = "Xem " + title;
         )}
 
         <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}books`} class="btn btn-primary" target="_blank">Xem Sàch Tổ sư thiền</a>
+          <a href={`${import.meta.env.BASE_URL}books`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
         </div>
       </div>
     </section>
@@ -123,7 +133,7 @@ const description = "Xem " + title;
     <section class="blog-section" id="blogs">
       <div class="container">
         <h2 class="section-title">Bài viết</h2>
-        <p class="blog-description">Sống từ đâu đến? Chết đi về đâu?</p>
+        <p class="blog-description">{tagLine2}</p>
 
         {blogPosts.length > 0 && (
           <div class="blog-posts">
@@ -139,7 +149,7 @@ const description = "Xem " + title;
         )}
 
         <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}blogs`} class="btn btn-primary" target="_blank">Xem Blog Tổ sư thiền</a>
+          <a href={`${import.meta.env.BASE_URL}blogs`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
         </div>
       </div>
     </section>

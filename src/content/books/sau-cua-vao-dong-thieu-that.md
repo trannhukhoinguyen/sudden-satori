@@ -2,12 +2,12 @@
 title: SÁU CỬA VÀO ĐỘNG THIẾU THẤT
 description: ""
 excerpt: ''
+authors:
+  - TS BỒ ĐỀ ĐẠT MA
 categories:
   - Sách
 tags:
   - Tham Thiền
-  - TS BỒ ĐỀ ĐẠT MA
-authors:
   - TS BỒ ĐỀ ĐẠT MA
 pdfUrl: /pdfs/books/sau-cua-vao-dong-thieu-that.pdf
 image: /images/koans/great-wave.webp
@@ -2126,7 +2126,7 @@ Phật tức là tánh.
 Trừ tánh ấy ra, không Phật nào có được.
 Ngoài Phật, không tánh nào có được.
 
-*
+***
 
 Hỏi: Nếu không thấy tánh thì niệm Phật, tụng kinh, bố thí, giữ giới, tinh tấn, rộng ban điều phước lợi có thành Phật được không?
 
@@ -2163,7 +2163,7 @@ Cho nên đem tâm trụ trước ra thấy Phật, không đâu hứa có vậy
 
 Phật chẳng là Phật. Nếu không thấy được nghĩa ấy thì bất cứ lúc nào, bất cứ ở đâu, đều không tỏ được bổn tâm. Nếu không thấy tánh thì bất cứ lúc nào, bất cứ nghĩ gì hoặc không nghĩ gì, đều là kẻ đại tội, là người si, đắm giữ cái không vô ký, ngầy ngật như người say, chẳng rõ phân tốt xấu. Nếu muốn tu pháp vô tác, trước cần thấy tánh, sau đó tự nhiên dứt lo. Nếu không thấy tánh mà thành được Phật đạo, không đâu có được. Có người phá bỏ lẽ nhân quả, thẳng tay tạo nghiệp dữ, nói càn tất cả là không, tạo ác không gì hơn, hạng người ấy đọa địa ngục vô gián mãi mãi không hẹn ngày ra. Nếu là người trí, chớ có lối kiến giải như vậy.
 
-*
+***
 
 Hỏi: Nếu trong bất kỳ lúc nào, bất cứ cử chỉ hành động nào cũng đều là tự tâm, sao trong khi mang sắc thân vô thường này tôi không thấy được bổn tâm?
 
@@ -2189,6 +2189,7 @@ Tâm ấy từ vô số kiếp đến nay vẫn y như hiện giờ, chẳng sai
 
 Tâm ấy vi diệu khó thấy.
 Tâm ấy chẳng giống sắc tâm.
+
 Chính từ trong ánh sáng của tâm ấy ứng dụng lên tất cả hành động, tay đưa chân bước.
 Cũng như hỏi về số cát sông Hằng thì ai trả lời được, đành trơ như người gỗ. Cũng vậy, tâm là thọ dụng của chính ngươi, sao ngươi không biết lại đi hỏi người khác?
 
@@ -2240,7 +2241,7 @@ Tâm mình vốn không tịch. Tất cả tướng mạo đều là vọng tư�
 
 Nếu mống lòng thấy Phật, thấy pháp cùng các thứ tướng mạo của Phật, Bồ tát khởi lòng kính trọng, đó là tự mình đọa vào địa vị của chúng sanh.
 
-*
+***
 
 Hỏi: Tại sao không nên bái lạy chư Phật và Bồ tát?
 
@@ -2304,15 +2305,11 @@ Nếu thấy tâm mình là Phật thì không cần cắt tóc cạo râu.
 Hàng áo trắng (1) vẫn là Phật.
 Nếu không thấy tánh, cắt tóc cạo râu, vẫn là ngoại đạo.
 
-*
-
 Hỏi: Hàng áo trắng có vợ con, dâm dục không trừ, bằng vào đâu thành Phật được?
 
 Đáp: Tôi chỉ nói thấy tánh, chẳng nói dâm dục. Chỉ cần thấy được tánh mới vỡ lẽ rằng từ vô thỉ dâm dục vẫn là không tịch, chẳng có gì phải dối trá dứt trừ, mà cũng chẳng mắc vào dục lạc. Tại sao vậy? Vì tánh của mình vốn thanh tịnh, dù nó trụ ở sắc thân năm uẩn. Tánh ấy bổn lai thanh tịnh, không gì có thể nhuốm dơ được. Pháp thân bổn lai tự nó có, không do ai ban cho, không đói khát, không lạnh nóng, không bịnh, không ân ái, không bà con, không khổ vui, không xấu tốt, không dài ngắn, không mạnh yếu. Bổn lai không một vật nào khá được, vì chấp có sắc thân này nên mới có đủ tướng nóng lạnh, đói khát, chứng bịnh đủ thứ. Nếu chẳng chấp thì mặc tình đi đứng, được tự tại giữa dòng sống chết, chuyển vận tất cả pháp, cùng với thánh nhân tự tại vô ngại như nhau, không đâu chẳng an.
 
 ... Nếu thấy tánh, chiên đà la (2) cũng thành Phật được.
-
-*
 
 Hỏi: Chiên đà la gây nghiệp giết chóc, sao gọi là thành Phật được?
 
@@ -2340,28 +2337,50 @@ Tâm ấy chỉ mình Như lai lãnh hội được, kỳ dư không ai sánh t�
 
 Thân đã là vô tình, làm sao vận động được? Nếu tự tâm động, thì tất cả mọi ngữ ngôn, mọi hành vi cử động, mọi điều thấy nghe cảm biết đều là tâm động.
 
-*
+***
+
+<blockquote>
 
 Tâm động dụng động,
+
 Động tức là dụng.
+
 Ngoài động không tâm,
+
 Ngoài tâm không động.
+
 Động chẳng là tâm,
+
 Tâm chẳng là động.
+
 Động vốn không tâm,
+
 Tâm vốn không động.
+
 Động chẳng lìa tâm,
+
 Tâm chẳng lìa động.
+
 Động không tâm lìa,
+
 Tâm không động lìa.
+
 Động là tâm dụng,
+
 Dụng là tâm động.
+
 Tức động tức dụng,
+
 Chẳng động chẳng dụng.
+
 Dụng thể vốn không,
+
 Không vốn không động.
+
 Động dụng đồng tâm,
+
 Tâm vốn không động.
+</blockquote>
 
 Nên kinh nói: Động mà không có sở động.
 
@@ -2373,7 +2392,9 @@ Bởi vậy:
 - Suốt ngày đi, ngồi mà chưa từng đi, ngồi.
 - Suốt ngày hờn vui mà chưa từng hờn vui.
 
-Nên kinh nói: Lời nói làm cho đạo dứt, tâm động làm cho giác ngộ tiêu (ngôn ngữ đạo đoạn, tâm hành xứ diệt).
+Nên kinh nói: 
+
+> Lời nói làm cho đạo dứt, tâm động làm cho giác ngộ tiêu (ngôn ngữ đạo đoạn, tâm hành xứ diệt).
 Thấy, nghe, cảm, biết vốn tự nó viên tịch, cho đến mọi niềm giận vui cũng vậy.
 ... Nếu biết giận vui vẫn là tánh không thì chỉ cần đừng chấp tức thoát khỏi mọi nghiệp.
 Nếu tụng kinh mà không thấy tánh, điều ấy quyết không bằng vào đâu cả, mà nói mấy vẫn không cùng.
@@ -2383,30 +2404,48 @@ Nếu sợ lẽ chánh tà trên, chẳng qua chỉ đôi phần thôi vậy.
 
 Xin nói bài tụng vầy:
 
-1.- Ngô bổn lai tư thổ,
+<blockquote>
+
+Ngô bổn lai tư thổ,
+
 Truyền pháp cứu mê tình.
+
 Nhất hoa khai ngũ diệp,
+
 Kết quả tự nhiên thành.
 
 Ta cốt qua Trung thổ,
+
 Truyền pháp cứu mê tình.
+
 Một hoa năm cánh trổ,
+
 Tự nhiên trái kết thành. [^3]
 
-2.- Giang tra phân ngọc lãng,
+Giang tra phân ngọc lãng,
+
 Quảng cự khai kim tỏa.
+
 Ngũ khẩu tương cộng hành,
+
 Cửu thập vô bỉ ngã.
 
 Bè lau rẽ sóng ngọc,
+
 Đuốc sáp mở khóa vàng.
+
 Năm miệng cùng nhau bước,
+
 Chín mười không ta người. [^4]
+</blockquote>
 
 ### GHI CHÚ
 
-[^1]: Áo trắng: người tu tại nhà.
-[^2]: Chiên đà la: hạng hèn mạt ở Ấn độ, coi như thú vật, ai thấy cũng phải tránh sa sợ nhiễm dơ, chuyên sống về nghề hàng thịt, giết trâu bò.
-[^3]: Bài kệ này báo trước hậu vận của đạo Thiền. Một hoa (hoa Ấn độ) là Bồ Đề Đạt Ma; năm cánh (cánhTrung hoa) là năm vị tổ kế tiếp truyền tâm ấn Phật: Huệ Khả, Tăng Xán, Đạo Tín, Hoằng Nhẫn và Huệ Năng. Sau Huệ Năng là thời kỳ "tự nhiên trái kết thành", thiền phong lên như vũ bão với các Sư Huyền Giác, Thạch Đầu, Bàng Uẩn, Mã Tổ, Lâm Tế v.v... không học mà ngộ, không tu mà chứng.
-[^4]: Bài tụng này báo trước ngày Tổ Đạt Ma viên tịch. Ba câu chiết tự chữ NGÔ là ta, do chữ NGŨ (năm) - KHẨU (MIỆNG) thành chữ NGÔ (ta). Ý nói "ta" sẽ thâu thần vào cõi Niết bàn tịch diệt (vô bỉ ngã) vào ngày 9 (cửu) tháng 10 (thập), nhằm năm Bính Thìn (536) triều nhà Lương, năm Đại Thông thứ 2. Đó là ngày vía của Tổ Đạt Ma.
+[^1]: **Áo trắng**: người tu tại nhà
+
+[^2]: **Chiên đà la**: hạng hèn mạt ở Ấn độ, coi như thú vật, ai thấy cũng phải tránh sa sợ nhiễm dơ, chuyên sống về nghề hàng thịt, giết trâu bò.
+
+[^3]: **Bài kệ này** báo trước hậu vận của đạo Thiền. Một hoa (hoa Ấn độ) là Bồ Đề Đạt Ma; năm cánh (cánhTrung hoa) là năm vị tổ kế tiếp truyền tâm ấn Phật: Huệ Khả, Tăng Xán, Đạo Tín, Hoằng Nhẫn và Huệ Năng. Sau Huệ Năng là thời kỳ "tự nhiên trái kết thành", thiền phong lên như vũ bão với các Sư Huyền Giác, Thạch Đầu, Bàng Uẩn, Mã Tổ, Lâm Tế v.v... không học mà ngộ, không tu mà chứng.
+
+[^4]: **Bài tụng này** báo trước ngày Tổ Đạt Ma viên tịch. Ba câu chiết tự chữ NGÔ là ta, do chữ NGŨ (năm) - KHẨU (MIỆNG) thành chữ NGÔ (ta). Ý nói "ta" sẽ thâu thần vào cõi Niết bàn tịch diệt (vô bỉ ngã) vào ngày 9 (cửu) tháng 10 (thập), nhằm năm Bính Thìn (536) triều nhà Lương, năm Đại Thông thứ 2. Đó là ngày vía của Tổ Đạt Ma.
 

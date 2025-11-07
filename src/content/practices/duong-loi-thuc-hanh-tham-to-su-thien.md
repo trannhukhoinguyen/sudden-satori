@@ -3,6 +3,7 @@ title: "ĐƯỜNG LỐI THỰC HÀNH THAM TỔ SƯ THIỀN"
 meta_title: "ĐƯỜNG LỐI THỰC HÀNH THAM TỔ SƯ THIỀN"
 description: ""
 excerpt: ""
+showInHomepage: true
 categories:
   - Thực hành
 tags:
@@ -19,9 +20,9 @@ videoId: "Qw_1WB9AQ70"
 
 ## NGUỒN
 
-> ✨ https://thuvienhoasen.org/a9139/duong-loi-tham-to-su-thien
+> ✨ <a href="https://thuvienhoasen.org/a9139/duong-loi-tham-to-su-thien" target="_blank">🔗 thuvienhoasen</a>
 
-> ✨ https://phatphapungdung.com/sach-noi/duong-loi-thuc-hanh-tham-to-su-thien-63361.html
+> ✨ <a href="https://phatpahpungdung.com/sach-noi/duong-loi-thuc-hanh-tham-to-su-thien-63361.html" target="_blank">🔗 phatpahpungdung</a>
 
 <hr class="blog-rule" />
 

@@ -85,9 +85,7 @@ Tham thoại đầu không có gì để hiểu, để đạt, để nắm.
 
 ## NGUỒN
 
-> ✨ https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html
-
-> ✨ Nguồn:
+> ✨ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html" target="_blank">🔗 phatgiao.org.vn</a>
 
 <hr class="blog-rule" />
 

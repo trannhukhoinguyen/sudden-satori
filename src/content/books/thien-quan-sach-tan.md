@@ -2,7 +2,8 @@
 title: "Thiền Quan Sách Tấn"
 meta_title: "Thiền Quan Sách Tấn"
 description: ""
-excerpt: "Thiền lại có cửa (quan) sao? ...."
+excerpt: "Thiền... lại có cửa (quan) sao?"
+showInHomepage: true
 categories:
   - Thực hành
   - Ngữ lục

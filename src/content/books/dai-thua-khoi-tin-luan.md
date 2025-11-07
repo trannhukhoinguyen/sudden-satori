@@ -2,6 +2,7 @@
 title: "ĐẠI THỪA KHỞI TÍN LUẬN"
 description: ""
 excerpt: ""
+showInHomepage: true
 authors:
   - Tổ MÃ MINH (馬鳴, ASVAGHOSHA) hay A-na Bồ-đề (阿那菩提, Ānabodhi)
 categories:

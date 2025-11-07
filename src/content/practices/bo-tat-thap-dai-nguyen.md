@@ -2,7 +2,8 @@
 title: "BỒ TÁT THẬP ĐẠI NGUYỆN"
 meta_title: "THẬP ĐẠI NGUYỆN CỦA BỒ TÁT PHỔ HIỀN"
 description: "Thực hành theo THẬP ĐẠI NGUYỆN của BỒ TÁT PHỔ HIỀN"
-excerpt: "Phổ Hiền Bồ-tát nói với tất cả các Bồ-tát tụ họp ở đó: Công đức của Như Lai..."
+excerpt: "Phổ Hiền Bồ-tát nói với tất cả các Bồ-tát."
+showInHomepage: true
 image: "/images/koans/great-wave.webp"
 categories: 
   - Thực hành

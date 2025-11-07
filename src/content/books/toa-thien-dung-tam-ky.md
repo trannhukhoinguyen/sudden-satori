@@ -2,7 +2,8 @@
 title: "TỌA THIỀN DỤNG TÂM KÝ"
 meta_title: "TỌA THIỀN DỤNG TÂM KÝ"
 description: ""
-excerpt: "...."
+excerpt: ""
+showInHomepage: true
 categories:
   - Thực hành
 tags:

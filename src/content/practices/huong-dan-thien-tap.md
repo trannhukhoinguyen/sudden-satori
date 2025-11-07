@@ -84,13 +84,11 @@ Ngài Đại Ca-Diếp lúc bấy giờ đã trên trăm tuổi. Là vi�
 
 Đức Phật Thích Ca truyền pháp môn này cho Ngài Đại Ca-Diếp làm sơ tổ. Sơ Tổ truyền cho Tổ thứ hai là Ngài A-Nan-Đà. Ngài A-Nan-Đà lại truyền cho Tổ thứ ba là Ngài Thương-Na Hòa-Tu, và Ngài Thương-Na Hòa-Tu truyền tiếp cho vị Tổ thứ tư là Ngài Ưu-Ba Cấp-Đa. Cứ như thế “tâm pháp” được truyền thừa cho đến Ngài Bồ Đề Đạt-Ma, vị Tổ thứ 28 ở Ấn Độ. Ngài Bồ Đề Đạt-Ma nhận thấy căn-tánh dân Ấn lúc bấy giờ chưa thuần thục, trong khi căn tánh dân Trung Hoa thì chín mùi, đủ sức tiếp thọ Pháp Đại Thừa. Vì thế Tổ dùng đường biển đi qua Trung Hoa, và đến Quảng Châu vào năm 527 sau Tây lịch. Do đó Quảng Châu còn được gọi là “Tây Lai Sơ Địa”. Nhưng người Quảng Châu bấy giờ chưa có thể tiếp nhận Pháp Đại Thừa này liền vì họ không nhận biết Tổ là ai. Họ miệt thị gọi Ngài là “malacha” (quỷ la sát!). Một từ ngữ khinh miệt dùng để gọi người Ấn Độ. Người bèn đi Nam Kinh bổn ý là muốn độ Pháp Sư Thần Quang. Khi Pháp Sư Thần Quang giảng kinh ở Nam Kinh, biện tài của Ngài vô ngại đến nỗi chư thiên tán hoa trên trời xuống, và dưới đất sen vàng vụt mọc lên.
 
-– Tổ Bồ-Đề-Đạt-Ma hỏi Ngài Thần Quang:
+Tổ Bồ-Đề-Đạt-Ma hỏi Ngài Thần Quang: “Ông giảng kinh để làm gì?”
 
-“Ông giảng kinh để làm gì?”
+Ngài Thần Quang: “Tôi giảng để dạy người liễu sanh thoát tử”
 
--“Tôi giảng để dạy người liễu sanh thoát tử”
-
-– Ngài Bồ-Đề-Đạt-Ma lại hỏi: “Trong kinh toàn là giấy trắng mực đen, ông nương vào đâu liễu sanh thoát tử?”
+Ngài Bồ-Đề-Đạt-Ma lại hỏi: “Trong kinh toàn là giấy trắng mực đen, ông nương vào đâu liễu sanh thoát tử?”
 
 Nghe vậy Ngài Thần Quang bực mình lắm, nghĩ rằng ông râu này phỉ báng Tam Bảo. Nổi giận, Ngài cởi chuỗi tràng hạt bằng sắt nặng chình chịt ra quấn vào mặt Tổ, đánh gãy mất hai chiếc răng của Tổ. Ngày xưa, rất nhiều người biết võ công kể cả những thầy tu.. đã là thầy tu thì không được mang khí giới trong mình, cho nên nhiều thầy đeo chuỗi hạt bằng sắt để làm khí giới phòng thân, sử dụng nó như cây nhuyễn tiên để đối địch.
 
@@ -307,19 +305,34 @@ Khi tham Thiền đạt tới chỗ “không mình, không người, không ch�
 
 Từ vô lượng kiếp tới ngày nay, chúng ta thật may mắn gặp được pháp môn “đả Thiền-thất.” Do đó, chúng ta phải đặc biệt chuyên nhất, chí thành khẩn thiết, ra sức dụng công, đừng phung phí thời giờ quý báu, đừng nghĩ ngợi vẩn vơ về những chuyện ăn, mặc, hay chỗ ở; bởi “một chút thời gian là một chút mạng sống”-thời gian và sinh mạng đều quý báu như nhau:
 
+<blockquote>  
+
 Nhất thốn quang âm nhất thốn kim,
+
 Thốn kim nan mãi thốn quang âm,
+
 Thất lạc thốn kim dung dị đắc,
+
 Quang âm quá khứ nan tái tầm.
+</blockquote>
 
 Nghĩa là:
 
-Một tấc thời gian, một tấc vàng,
-Tấc vàng khó mua tấc thời gian,
-Tấc vàng rơi mất còn dễ kiếm,
-Thời gian trôi bẵng mới khó tìm.
+<blockquote>  
 
-Bài thơ trên nói lên giá trị quý báu của thời gian lúc bình thường, huống hồ là lúc đả thất-thời gian ấy còn đáng quý hơn nữa. Không ai biết được vào phút nào, giây nào mình sẽ khai ngộ; do đó, quý vị nên tranh thủ từng giây từng phút, đừng lãng phí. Hy vọng quý vị tham gia Thiền-thất đều dũng mãnh tinh tấn, không phóng dật, buông lung. Phải nhẫn chịu mọi thứ khổ thì mới đạt được an lạc. Chịu đựng được điều mà người khác khó thể chịu đựng, nhẫn nhịn được điều mà người khác khó thể nhẫn nhịn, đó mới là tinh thần tu Ðạo!
+Một tấc thời gian, một tấc vàng,
+
+Tấc vàng khó mua tấc thời gian,
+
+Tấc vàng rơi mất còn dễ kiếm,
+
+Thời gian trôi bẵng mới khó tìm.
+</blockquote>
+
+Bài thơ trên nói lên giá trị quý báu của thời gian lúc bình thường, huống hồ là lúc đả thất-thời gian ấy còn đáng quý hơn nữa. 
+Không ai biết được vào phút nào, giây nào mình sẽ khai ngộ; do đó, quý vị nên tranh thủ từng giây từng phút, đừng lãng phí. 
+Hy vọng quý vị tham gia Thiền-thất đều dũng mãnh tinh tấn, không phóng dật, buông lung. Phải nhẫn chịu mọi thứ khổ thì mới đạt được an lạc. 
+Chịu đựng được điều mà người khác khó thể chịu đựng, nhẫn nhịn được điều mà người khác khó thể nhẫn nhịn, đó mới là tinh thần tu Ðạo!
 
 > Giảng vào tháng 9 năm 1975 tại Chùa Kim Sơn
 
@@ -331,11 +344,17 @@ Vạn Phật Thánh Thành mỗi năm đều có tổ chức vài Thiền-thất
 
 Tư thế lúc ngồi cần phải ngay ngắn, thẳng lưng. Ðầu phải thẳng, không cúi xuống, không ngửa lui, không nghiêng trái, không quẹo phải. Sau đó, bắt tréo hai chân theo thế kiết-già-lấy chân trái bỏ lên đùi phải, kế đó lấy chân phải bỏ lên đùi trái-đó là tiêu chuẩn. Bởi vì tư thế kiết-già phu tọa khiến chúng ta dễ nhập Ðịnh, cho nên còn gọi là thế hàng ma tọa, thế kim-cang tọa, hay thế liên hoa tọa. Tư thế này có thể giúp tiêu trừ nghiệp chướng trong vô lượng kiếp, khiến liễu sanh thoát tử, tạo được vô lượng công đức.
 
-Lúc bắt đầu ngồi Thiền, quý vị cần phải luyện tập tư thế căn bản này. Kế đến, quý vị hãy điều chỉnh thân thể-mắt nhìn xuống chót mũi, từ mũi nhìn xuống miệng, từ miệng nhìn xuống tâm. Ðó là bí quyết để khống chế vọng tưởng. Sau đó mới điều hòa hơi thở-đừng mau, đừng chậm-hãy thở một cách tự nhiên. Lúc này quý vị mới tham cứu câu “Ai là kẻ niệm Phật?” Trải qua một thời gian lâu dài, việc tham Thiền sẽ có tác dụng.
+Lúc bắt đầu ngồi Thiền, quý vị cần phải luyện tập tư thế căn bản này. Kế đến, quý vị hãy điều chỉnh thân thể-mắt nhìn xuống chót mũi, từ mũi nhìn xuống miệng, từ miệng nhìn xuống tâm. 
+Ðó là bí quyết để khống chế vọng tưởng. Sau đó mới điều hòa hơi thở-đừng mau, đừng chậm-hãy thở một cách tự nhiên. 
+Lúc này quý vị mới tham cứu câu “Ai là kẻ niệm Phật?” Trải qua một thời gian lâu dài, việc tham Thiền sẽ có tác dụng.
 
-Việc dụng công tham Thiền cũng giống như “gà mẹ ấp trứng” vậy. Gà mẹ lúc nào cũng nghĩ đến gà con, cứ chuyên tâm hết lòng ấp trứng. Chẳng phải ấp được năm phút là chạy đi, rồi một lúc sau lại trở về ấp tiếp, ấp chưa tới năm phút lại chạy mất…; bởi làm như vậy thì vĩnh viễn không bao giờ trứng nở ra gà con đặng. Tham Thiền cũng thế-lúc nào cũng phải dụng công miên mật. Ðừng sợ đau lưng, đừng sợ nhức chân, đừng sợ khổ cực, đừng sợ gian nan. Hãy một lòng một dạ tham Thiền. Tham cái gì? Tham câu “Niệm Phật là ai?” Tham cho tới khi “sông cạn, núi cùng, nước dừng, đá hiện” thì lúc đó mới khai ngộ được.
+Việc dụng công tham Thiền cũng giống như “gà mẹ ấp trứng” vậy. Gà mẹ lúc nào cũng nghĩ đến gà con, cứ chuyên tâm hết lòng ấp trứng. 
+Chẳng phải ấp được năm phút là chạy đi, rồi một lúc sau lại trở về ấp tiếp, ấp chưa tới năm phút lại chạy mất…; bởi làm như vậy thì vĩnh viễn không bao giờ trứng nở ra gà con đặng. Tham Thiền cũng thế-lúc nào cũng phải dụng công miên mật. Ðừng sợ đau lưng, đừng sợ nhức chân, đừng sợ khổ cực, đừng sợ gian nan. Hãy một lòng một dạ tham Thiền. Tham cái gì? Tham câu “Niệm Phật là ai?” Tham cho tới khi “sông cạn, núi cùng, nước dừng, đá hiện” thì lúc đó mới khai ngộ được.
 
-Tham Thiền lại cũng giống như “rồng ấp ủ hạt châu.” Rồng lúc nào cũng ôm giữ bảo châu, chẳng hề lơ là hoặc không cẩn thận chú ý. Vì vậy, hạt châu ngày một sáng, còn rồng thì ngày đêm canh giữ hạt châu. Người tham Thiền cũng phải như thế-trong mỗi phút mỗi giây đều không khởi tạp niệm. Cổ nhân nói:
+Tham Thiền lại cũng giống như “rồng ấp ủ hạt châu.” Rồng lúc nào cũng ôm giữ bảo châu, chẳng hề lơ là hoặc không cẩn thận chú ý. 
+Vì vậy, hạt châu ngày một sáng, còn rồng thì ngày đêm canh giữ hạt châu. Người tham Thiền cũng phải như thế-trong mỗi phút mỗi giây đều không khởi tạp niệm. 
+
+Cổ nhân nói:
 
 “Nhất niệm bất sanh, toàn thể hiện.”
 
@@ -345,11 +364,17 @@ Nghĩa là khi một niệm không sanh khởi thì chân tâm, Phật-tánh hi�
 
 Hễ vọng niệm không sanh khởi thì lúc ấy toàn thể sẽ hiện rõ. Khi ngừng bặt vọng tưởng, quý vị sẽ có cơ hội thành tựu.
 
-Người tham Thiền không nên nghĩ đến việc thành Phật, đừng để tâm tới chuyện khai ngộ, cũng chớ nghĩ tới chuyện đắc trí huệ. Cứ nỗ lực dụng công, cần cù chăm chỉ tu hành. Khi thời gian chín muồi thì sẽ khai ngộ. Ở trong Thiền-đường, quý vị cứ ngồi Thiền, xong lại đi kinh hành, rồi ngồi tiếp, xong lại đi kinh hành, rồi ngồi tiếp, xong lại đi tiếp… Cứ như vậy, tu một thời gian lâu dài thì quý vị sẽ có cơ hội thành tựu, bởi vì “cửu tọa hữu Thiền,” ngồi lâu thì sẽ có Thiền.
+Người tham Thiền không nên nghĩ đến việc thành Phật, đừng để tâm tới chuyện khai ngộ, cũng chớ nghĩ tới chuyện đắc trí huệ. Cứ nỗ lực dụng công, cần cù chăm chỉ tu hành. 
+Khi thời gian chín muồi thì sẽ khai ngộ. Ở trong Thiền-đường, quý vị cứ ngồi Thiền, xong lại đi kinh hành, rồi ngồi tiếp, xong lại đi kinh hành, rồi ngồi tiếp, xong lại đi tiếp… 
+Cứ như vậy, tu một thời gian lâu dài thì quý vị sẽ có cơ hội thành tựu, bởi vì “cửu tọa hữu Thiền,” ngồi lâu thì sẽ có Thiền.
 
-Tham Thiền lại cũng giống như “mèo rình chuột.” Mèo phải định thần chú ý rình tại ổ chuột, chờ chuột chui ra là chụp ngay. Mèo không thể giải đãi; hễ tâm tán loạn thì không còn chú ý đặng. Người tham Thiền cũng thế-lúc nào cũng phải giữ chặt chánh niệm, không được sanh vọng niệm. Ðó là kiến thức vào Ðạo sơ cấp nhất của việc tham Thiền.
+Tham Thiền lại cũng giống như “mèo rình chuột.” Mèo phải định thần chú ý rình tại ổ chuột, chờ chuột chui ra là chụp ngay. Mèo không thể giải đãi; hễ tâm tán loạn thì không còn chú ý đặng. 
+Người tham Thiền cũng thế-lúc nào cũng phải giữ chặt chánh niệm, không được sanh vọng niệm. Ðó là kiến thức vào Ðạo sơ cấp nhất của việc tham Thiền.
 
-Người tu Ðạo chớ xuống Nam-sơn cũng chớ lên Bắc-hải mà tìm Ðạo. Ðạo vốn ở ngay thân ta. Nếu quý vị có thể ngồi kiết-già phu tọa, chuyên tâm chú ý tham Thiền, thì đó là Ðạo. Không nên có tâm thích chuyện cao siêu diệu vợi, hướng tâm ra ngoài tìm Ðạo; vì như thế thì vĩnh viễn không tìm ra được đâu. Nếu quý vị bỏ cái gần kề để chạy đi tìm cái xa xôi, thì tới đâu quý vị cũng gặp toàn chuyện khó khăn, phiền toái. Ðó là tự mình chuốc lấy rắc rối, tự mình rước khổ vào thân!
+Người tu Ðạo chớ xuống Nam-sơn cũng chớ lên Bắc-hải mà tìm Ðạo. Ðạo vốn ở ngay thân ta. Nếu quý vị có thể ngồi kiết-già phu tọa, chuyên tâm chú ý tham Thiền, thì đó là Ðạo. 
+Không nên có tâm thích chuyện cao siêu diệu vợi, hướng tâm ra ngoài tìm Ðạo; vì như thế thì vĩnh viễn không tìm ra được đâu. 
+Nếu quý vị bỏ cái gần kề để chạy đi tìm cái xa xôi, thì tới đâu quý vị cũng gặp toàn chuyện khó khăn, phiền toái. 
+Ðó là tự mình chuốc lấy rắc rối, tự mình rước khổ vào thân!
 
 > Thiền-thất, 12/1980
 
@@ -359,15 +384,27 @@ Người tu Ðạo chớ xuống Nam-sơn cũng chớ lên Bắc-hải mà tìm 
 
 “Tham” nghĩa là tìm-tìm xem ai là kẻ niệm Phật.
 
-“Tham thoại đầu” tức là nghiên cứu câu “Ai là người niệm Phật? Kẻ niệm Phật là ai?” Có câu:
+“Tham thoại đầu” tức là nghiên cứu câu “Ai là người niệm Phật? Kẻ niệm Phật là ai?” 
 
-> Ðại nghi, đại ngộ;
-> Tiểu nghi, tiểu ngộ;
-> Bất nghi, bất ngộ.
+Có câu:
 
-> (Nghi lớn, ngộ lớn;
-> Nghi nhỏ, ngộ nhỏ;
-> Không nghi, không ngộ.)
+<blockquote>  
+
+Ðại nghi, đại ngộ
+
+Tiểu nghi, tiểu ngộ
+
+Bất nghi, bất ngộ
+</blockquote>
+
+<blockquote>  
+
+Nghi lớn, ngộ lớn
+
+Nghi nhỏ, ngộ nhỏ
+
+Không nghi, không ngộ
+</blockquote>
 
 Khi tham thấu triệt câu thoại đầu “Ai là kẻ niệm Phật?” rồi, thì sự tham Thiền ấy chính là thanh Kim-cang-vương Bảo-kiếm chặt đứt hết mọi dục niệm, chỉ còn một niệm tham cứu câu thoại đầu mà thôi. Lúc mọi ý niệm đều ngừng bặt, bấy giờ, Ðạo-tâm sẽ bừng dậy.
 
@@ -377,11 +414,19 @@ Trước khi đả Thiền-thất thường có đả Phật-thất. Phật-th�
 
 Tìm cái “Ai” này có thể mất đến cả đại kiếp. Khi quý vị thấy những người tu hành lão luyện ngồi Thiền chẳng động đậy, chính là họ đang tìm cái “Ai” này vậy! Bởi vì chuyên tâm tham cứu cái “Ai” này nên mọi vọng tưởng đều ngưng bặt, thoát nhiên khai ngộ. Lúc ấy, trong bóng tối âm u bỗng xuất hiện ánh hào quang sáng chói, chuyện gì quý vị cũng thấy rõ cả. Rằng:
 
-> Mê thời thiên quyển thiểu,
-> Ngộ thời nhất tự đa.
+<blockquote>  
 
-> (Lúc mê, ngàn sách còn ít,
-> Ngộ rồi, một chữ cũng dư.)
+Mê thời thiên quyển thiểu,
+
+Ngộ thời nhất tự đa.
+</blockquote>
+
+<blockquote>  
+
+Lúc mê, ngàn sách còn ít,
+
+Ngộ rồi, một chữ cũng dư
+</blockquote>
 
 Ðó là đạo lý của việc tham cứu câu “Ai là kẻ niệm Phật?” Do đó, hễ người nào không khởi vọng tưởng thì người ấy có công phu. Người luôn khởi vọng tưởng thì bất cứ công phu gì cũng không thành cả. Ðó là điểm cốt tủy của việc tham Thiền.
 
@@ -391,13 +436,21 @@ Có câu: “Ðừng rời cái này!” Không rời cái gì? Tức là không
 
 Trong thời gian tham Thiền, quý vị phải đối diện với thực tế, khắc phục mọi hoàn cảnh, giữ chặt tông-chỉ. Phải nhớ rằng khổ đau là khởi đầu của an lạc. Tôi thường nói với quý vị là:
 
-“Chịu khổ thì hết khổ,
-Hưởng phước thì mất phước!”
+<blockquote>  
+
+Chịu khổ thì hết khổ
+
+Hưởng phước thì mất phước!
+</blockquote>
 
 Cổ nhân có dạy:
 
-“Họa là chỗ phước dựa vào,
-Phước là nơi họa cậy nương.”
+<blockquote>  
+
+Họa là chỗ phước dựa vào
+
+Phước là nơi họa cậy nương
+</blockquote>
 
 Theo sau chuyện hung xấu thường có điềm lành tới; bên cạnh chuyện yên ổn có thể sẽ có chuyện không may. Pháp thế gian thì luôn ở thế đối đãi như vậy. Từ bao kiếp lâu xa đến nay không biết chúng ta đã tạo bao nhiêu ác nghiệp, thế nên giờ đây chúng ta phải chịu quả báo. Nếu quý vị biết nỗ lực dụng công, dũng mãnh tinh tấn, trả sạch hết nghiệp thì sẽ thành tựu Ðạo-quả.
 
@@ -411,10 +464,19 @@ Khi tham Thiền, quý vị phải sáng tham như vậy, chiều cũng tham nh�
 
 Việc tham thoại đầu thì chỉ có một vọng tưởng, còn tạp niệm thì có vô số vọng tưởng. Do đó, chúng ta dùng phương pháp “dĩ độc công độc”-lấy một vọng tưởng “tham cứu thoại đầu” để khống chế tất cả các vọng tưởng khác-dần dần, từng vọng tưởng một sẽ bị tiêu diệt, không còn tái khởi. Lúc ấy, bất luận là cảnh giới gì đến quý vị cũng không còn bị mê hoặc; quý vị biết biện biệt rõ ràng thì không thể nào bị “tẩu hỏa nhập ma.” Người xưa nói:
 
-“Ninh khả thiên sanh bất ngộ,
-Bất khả nhất nhật trước ma.”
-(Thà rằng ngàn đời không ngộ,
-Chẳng để một ngày vướng ma.)
+<blockquote>  
+
+Ninh khả thiên sanh bất ngộ,
+
+Bất khả nhất nhật trước ma.
+</blockquote>
+
+<blockquote>  
+
+Thà rằng ngàn đời không ngộ,
+
+Chẳng để một ngày vướng ma.
+</blockquote>
 
 Khi tu Thiền-định, quý vị cần phải cẩn thận, dè dặt, chớ có cực đoan. Phải chánh đại quang minh, đừng để bọn ma quỷ có cơ hội hại quý vị. Khi quý vị có tạp niệm tức là quý vị mở cửa cho ma quỷ lọt vào! Do đó, tham thoại đầu chính là Pháp-bảo “đuổi ma”!
 
@@ -1363,4 +1425,4 @@ Tham thiền khi tới trình độ tinh diệu, không những vọng tưởng 
 
 ## NGUỒN
 
-> ✨ https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9
+> ✨ <a href="https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9" target="_blank">🔗 vanphatthanh</a>

@@ -2,6 +2,7 @@
 title: "SƠN AM TẠP LỤC"
 description: ""
 excerpt: ""
+showInHomepage: true
 authors:
   - TS VÔ UẨN THỨ TRUNG
 categories:

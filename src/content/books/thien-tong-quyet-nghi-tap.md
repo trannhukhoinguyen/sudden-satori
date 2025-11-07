@@ -3,6 +3,7 @@ title: "THIỀN TÔNG QUYẾT NGHI TẬP"
 meta_title: "THIỀN TÔNG QUYẾT NGHI TẬP"
 description: ""
 excerpt: ""
+showInHomepage: true
 categories:
   - Thực hành
   - Ngữ lục

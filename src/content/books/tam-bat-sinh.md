@@ -2,6 +2,7 @@
 title: "TÂM BẤT SINH"
 description: ""
 excerpt: ""
+showInHomepage: true
 authors:
   - TS BÀN KHUÊ VĨNH TRÁC
 categories:
