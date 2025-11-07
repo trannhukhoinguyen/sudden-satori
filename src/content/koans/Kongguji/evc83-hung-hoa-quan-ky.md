@@ -60,7 +60,9 @@ Về sau, Hưng Hóa đến chỗ Ngài Đại Giác làm viện chủ. Một h�
 Ông nương vào đạo lý nào mà nói như thế?
 
 Hưng Hóa hết. Giác cũng đánh.
+
 Hưng Hóa lại hét nữa. Ngài Đại Giác đánh.
+
 Hưng Hóa hạ lăn hết. Đại Giác đánh hai lần.
 
 Hưng Hóa thưa: **Tôi ở chỗ sư huynh Tam Thánh học được câu chủ khách, cuối cùng bị sư huynh đánh bại rồi. Mong Ngài chỉ dạy pháp môn an lạc cho con.**
@@ -100,17 +102,15 @@ Chợt nghe mùi hương thoảng trong lò, bỗng nghe tiếng trống rền l
 
 Gió tan màn sương sớm, bảng đồng chốn ao làn. Rừng cây lá đỏ trong nắng sớm, mãi ngắm nhìn thỏa thích. Bỏ giữa hoa khốc sương thu, chạy theo việc năm xưa. Tự tại bãi bờ cõi đất sạch trần duyên.
 
-Đêm khuya nổi lên đốm lửa chốn bãi cát
-Sáng ra bỏ liêu bên ao khói tự tiêu.
+> Đêm khuya nổi lên đốm lửa chốn bãi cát
+> 
+> Sáng ra bỏ liêu bên ao khói tự tiêu.
 
 Cho nên nói, tối sáng xen nhau, công bằng càng khó giác. Hết sức nên tìm cách tiến thối, khóa vàng đã giăng kín. Ngay lúc đó phải thật nhanh, lại có thể chậm trễ chăng.
 
-<blockquote>
-
-Vua hiển uy quyền chốn thiên hạ
-
-Tướng quân biên ải lịnh càng nghiêm.
-</blockquote>
+> Vua hiển uy quyền chốn thiên hạ
+>
+> Tướng quân biên ải lịnh càng nghiêm.
 
 <hr class="blog-rule" />
 

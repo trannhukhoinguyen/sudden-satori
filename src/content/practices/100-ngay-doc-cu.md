@@ -24,8 +24,6 @@ Cô chủ biên tờ The Whole World Is A Single Flower (Toàn thế giới ch�
 
 Jane sống ở vùng Boston cùng chồng và các con.
 
-(Muốn biết thêm chi tiết xin vào www.janedobisz.com.)
-
 ## THƠ CỦA TÁC GIẢ
 
 ### Kiếp người
@@ -67,4 +65,4 @@ không lệ thuộc tử sinh
 
 > ✨ <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">🔗 thuvienhoasen</a>
 
-> 🎧 [Youtube]: videoIds: P1- u3fyx4XJS34, P2- be9fPdQMizI, P3- D5xi9vhu2zA, P4- UWB9ZxSI9z8
+> 🎧 [Youtube videoIds]: videoIds: P1- u3fyx4XJS34, P2- be9fPdQMizI, P3- D5xi9vhu2zA, P4- UWB9ZxSI9z8
