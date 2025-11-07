@@ -10,11 +10,24 @@ tags:
 author: "JANE DOBISZ"
 pdfUrl: /pdfs/practices/100-ngay-doc-cu.pdf
 videoPlaylist: PLA9UBIkBn5ulzhiOrsOTUBo4xV2RhQZC1
+videoIds: 
+  - u3fyx4XJS34
+  - be9fPdQMizI
+  - D5xi9vhu2zA
+  - UWB9ZxSI9z8
 ---
 
 ## GIỚI THIỆU ĐÔI NÉT VỀ TÁC GIẢ
 
-Jane Dobisz (Thiền sư Bon Yeon) là vị thầy hướng dẫn ở trung tâm Thiền Massachusetts. Trong 25 năm cô ₫ã tu tập theo nhiều truyền thống Phật giáo khác nhau. Jane ₫ã mở nhiều khóa thiền tập tích cực 90 ngày ở Mỹ, Âu châu, và Nam Phi cho hằng trăm sinh viên khắp thế giới. Cô chủ biên tờ The Whole World Is A Single Flower (Toàn thế giới chỉ là một ₫óa hoa) của Thiền sư Sùng Sơn. Jane sống ở vùng Boston cùng chồng và các con.
+**Jane Dobisz** (Thiền sư Bon Yeon) là vị thầy hướng dẫn ở trung tâm Thiền Massachusetts. 
+
+Trong 25 năm cô ₫ã tu tập theo nhiều truyền thống Phật giáo khác nhau. 
+
+Jane ₫ã mở nhiều khóa thiền tập tích cực 90 ngày ở Mỹ, Âu châu, và Nam Phi cho hằng trăm sinh viên khắp thế giới. 
+
+Cô chủ biên tờ The Whole World Is A Single Flower (Toàn thế giới chỉ là một ₫óa hoa) của Thiền sư Sùng Sơn. 
+
+Jane sống ở vùng Boston cùng chồng và các con.
 
 (Muốn biết thêm chi tiết xin vào www.janedobisz.com.)
 
@@ -43,11 +56,11 @@ tự bản chất cũng không hiện hữu
 Sinh-tử, đến-đi cũng như vậy
 
 Nhưng có một điều rõ rệt -
-> 
+
 thanh tịnh và trong sáng
 
 không lệ thuộc tử sinh
-> 
+
 Điều đó là gì?
 </blockquote>
 

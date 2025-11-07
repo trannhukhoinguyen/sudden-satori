@@ -1,5 +1,6 @@
 ---
-import LogoYoutube from "./LogoYoutube.astro";
+import LogoYoutube from "../svg/LogoYoutube.astro";
+import YoutubeSVG from "../svg/YoutubeSVG.astro";
 
 // Get the frontmatter data
 const { frontmatter } = Astro.props;
@@ -56,8 +57,10 @@ const { frontmatter } = Astro.props;
                 target="_blank"
                 rel="noopener"
                 class="playlist-link"
+                title="Xem toàn bộ playlist trên YouTube"
               >
-                  Xem toàn bộ playlist trên YouTube
+                <YoutubeSVG />
+                <LogoYoutube />
               </a>
           </div>
     )
