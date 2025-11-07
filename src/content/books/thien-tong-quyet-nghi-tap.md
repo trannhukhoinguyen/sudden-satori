@@ -4,14 +4,16 @@ meta_title: "THIỀN TÔNG QUYẾT NGHI TẬP"
 description: ""
 excerpt: ""
 showInHomepage: true
+authors:
+  - TS ĐOẠN VÂN TRÍ TRIỆT
 categories:
   - Thực hành
   - Ngữ lục
 tags:
   - TS ĐOẠN VÂN TRÍ TRIỆT
-authors: 
-  - TS ĐOẠN VÂN TRÍ TRIỆT
 ---
+
+
 
 ## TỰA
 
