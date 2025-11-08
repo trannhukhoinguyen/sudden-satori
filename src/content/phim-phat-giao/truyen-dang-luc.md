@@ -1,6 +1,5 @@
 ---
 title: Truyền Đăng Lục
-title: Truyền Đăng Lục
 description: ""
 excerpt: ''
 categories:
