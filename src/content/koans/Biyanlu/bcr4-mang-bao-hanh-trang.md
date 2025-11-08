@@ -130,6 +130,6 @@ Nhìn xem người xưa thấy rốt ráo, hành rốt ráo dụng rốt ráo; q
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/deshan-xuanjian" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>
+[^1]: ⭐️ <a href="/masters/Deshan-Xuanjian" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>
 
 [^2]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">🔗 TS QUY SƠN LINH HỰU</a>

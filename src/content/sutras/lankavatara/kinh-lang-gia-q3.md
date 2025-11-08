@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Già - quyển III"
+title: "KINH LĂNG GIÀ - quyển III"
 description: ""
 excerpt: ""
 categories:

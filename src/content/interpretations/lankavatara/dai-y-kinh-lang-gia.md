@@ -1,16 +1,16 @@
 ---
-title: Đại ý Kinh Lăng Già
+title: Đại ý KINH LĂNG GIÀ
 description: ""
 authors: 
   - HT Thích Phổ Tuệ
 categories:
   - Luận
 tags:
-  - Kinh Lăng Già
+  - KINH LĂNG GIÀ
 image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 ---
 
-### Tại sao gọi là Kinh Lăng Già?
+### Tại sao gọi là KINH LĂNG GIÀ?
 
 Đó là huyền diệu của chư Phật ở màu nhiệm cả của các kinh, được ví dụ rộng rãi, những ý nói rõ được những nghĩa sâu như không sinh không diệt, chẳng có chẳng không, đoạn tuyệt cả hai, đi lại, lìa cả đoạn thường hai chấp.
 Bởi vì **nghĩa đế thứ I** được quý báu màu nhiệm cao nhất, biết cảnh trước mắt là như trò rối lẫn lộn giả danh khác nhau, sinh tử Niết bàn là như nhau, điều mà ngài Đại Tuệ cần trình bày trước nhất, chính ý đức Phật cần phát biểu.
@@ -27,7 +27,7 @@ Hiểu rõ danh và tướng đều là giả trá bởi mê vọng thường �
 > Vào cả Như Lai tạng tới cửa giải thoát
 
 Đó là trích bài tựa ở kinh Đại thừa nhập Lăng Già "bản dịch đời nhà Đường?”.
-Kinh Lăng Già gồm có 4 bản dịch bây giờ còn có 3:
+KINH LĂNG GIÀ gồm có 4 bản dịch bây giờ còn có 3:
 
 [^1]: 4 quyển Lăng Già A bạt đa la bảo kinh đời Lưu Tống, Ngài Cầu Na Bạt đà la dịch.
 
@@ -260,7 +260,7 @@ Kết hợp giải thích. Y vào phép lục hợp mà giải thích nay hợp 
 
 3. Dựa cả năng sở mà giải thích, thì nhập suốt cả giáo, lý, hành, quả cho nên thắng. Lăng Già tên của thành chỉ tên chỗ nhập thời kém dựa chỗ hơn mà rõ chỗ kém, vào Lăng Già, thời giải thích y chủ.
 
-4. Nhập Lăng Già thông giáo, lý, hành, quả cho nên thắng. Kinh chỉ là giáo “năng thuyên” cho nên kém dựa vào “thắng” mà rõ được yếu kém vào Kinh Lăng Già cũng là y thích.
+4. Nhập Lăng Già thông giáo, lý, hành, quả cho nên thắng. Kinh chỉ là giáo “năng thuyên” cho nên kém dựa vào “thắng” mà rõ được yếu kém vào KINH LĂNG GIÀ cũng là y thích.
 
 5. Đại thừa suốt giáo, lý, hành, quả cho nên thắng Kinh chỉ là giáo năng thuyên thanh danh, văn cú. Cho nên yếu kém, dựa vào thắng mà rõ được yếu kém. Kinh Đại thừa cũng là y sĩ thích.
 

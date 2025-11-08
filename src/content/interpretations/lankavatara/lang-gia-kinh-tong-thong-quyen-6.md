@@ -6,7 +6,7 @@ authors:
 categories:
   - Luận
 tags:
-  - Kinh Lăng Già
+  - KINH LĂNG GIÀ
   - Tông Thông
 image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 videoId: cfNHpVPv6TA

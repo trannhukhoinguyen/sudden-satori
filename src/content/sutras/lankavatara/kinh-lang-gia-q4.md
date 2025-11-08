@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Già - quyển IV"
+title: "KINH LĂNG GIÀ - quyển IV"
 description: ""
 excerpt: ""
 categories:
@@ -1035,7 +1035,7 @@ Hãy chú ý nghe và khéo ghi nhớ, Ta sẽ vì ngươi mà thuyết.
 > Trong các Kinh Đại Thừa,
 > Như Phược Tượng, Đại Vân.
 > Cho đến Kinh Niết Bàn,
-> Và Kinh Lăng Già nàî
+> Và KINH LĂNG GIÀ nàî
 > Ta đều khuyến người tu,
 > Nên đoạn dứt ăn thịt.
 > Bồ Tát và Thanh Văn,

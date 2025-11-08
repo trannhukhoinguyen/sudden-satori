@@ -1335,7 +1335,7 @@ Tiểu Đường đưa góc ca sa lên
 
 Sa nói: Không có can hệ
 
-Sư nói: Huyền Sa Tông nhất ở Phúc Châu húy là Sư bị mang giầy cỏ áo và ăn rau tự sống Tuyết Phong khổ hạnh thường gọi Ngài là Bị Đầu Đà. Thế gian truyền rằng: Huyền Sa không ra khỏi núi bảo vệ thân mạng không qua sông, nhân bị thương ngón chân than: Thân này chẳng có cái đau từ đâu đến. Thân này là khổ hoàn toàn không có sống mãi. Đạt Ma không đến Đông Độ, Nhị Tổ không đến Tây Thiên, bèn trở về nhân đọc Kinh Lăng Già mà phát minh tâm yếu cho nên ứng cơ phù hợp với Kinh bèn đến Tuyết Phong hỏi về lấy lòng nhân không nhường nhịn.
+Sư nói: Huyền Sa Tông nhất ở Phúc Châu húy là Sư bị mang giầy cỏ áo và ăn rau tự sống Tuyết Phong khổ hạnh thường gọi Ngài là Bị Đầu Đà. Thế gian truyền rằng: Huyền Sa không ra khỏi núi bảo vệ thân mạng không qua sông, nhân bị thương ngón chân than: Thân này chẳng có cái đau từ đâu đến. Thân này là khổ hoàn toàn không có sống mãi. Đạt Ma không đến Đông Độ, Nhị Tổ không đến Tây Thiên, bèn trở về nhân đọc KINH LĂNG GIÀ mà phát minh tâm yếu cho nên ứng cơ phù hợp với Kinh bèn đến Tuyết Phong hỏi về lấy lòng nhân không nhường nhịn.
 
 Phong nói: Bị Đầu Đà lại đến với người. Xuất thân ở đất Mãn thẩm rõ, bảo Công Vương Diên Bân đều tiếp lễ đón Sư, chúng thường tám, chín trăm người. Huyền Sa đến huyện Bồ Điền mọi người đều cung đón. Ngày nọ hỏi trưởng lão trưởng lão Tiểu Đường: Hôm qua ồn ào náo vậy ông đi hướng nào.
 

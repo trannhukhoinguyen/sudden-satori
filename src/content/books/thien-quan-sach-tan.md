@@ -559,7 +559,7 @@ Bích Phong Kim Thiền sư tham học với Ngài Phổ Vân Hải. Phổ Vân 
 
 ### 24. **Giữ độn công phu**
 
-Vô Tế Thiền sư lúc mới thực hành công phu không đọc đến bốn quyển Kinh Lăng Già, và những bản Ngữ lục cũng không xem. Ngài cam chịu mù tối chuyên ròng thực hành độn công phu. Thế mà sau này, Ngài vẫn được đại ngộ
+Vô Tế Thiền sư lúc mới thực hành công phu không đọc đến bốn quyển KINH LĂNG GIÀ, và những bản Ngữ lục cũng không xem. Ngài cam chịu mù tối chuyên ròng thực hành độn công phu. Thế mà sau này, Ngài vẫn được đại ngộ
 
 <hr class="blog-rule" />
 

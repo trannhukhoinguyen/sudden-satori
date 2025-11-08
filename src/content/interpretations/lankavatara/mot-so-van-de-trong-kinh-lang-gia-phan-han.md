@@ -1,5 +1,5 @@
 ---
-title: Một Số Vấn Đề Trong Kinh Lăng Già Phạn Hán
+title: Một Số Vấn Đề Trong KINH LĂNG GIÀ Phạn Hán
 description: ""
 authors: 
   - Phước Nguyên
@@ -7,7 +7,7 @@ videoId: vwOi8UCTCp0
 categories:
   - Luận
 tags:
-  - Kinh Lăng Già
+  - KINH LĂNG GIÀ
 image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 ---
 

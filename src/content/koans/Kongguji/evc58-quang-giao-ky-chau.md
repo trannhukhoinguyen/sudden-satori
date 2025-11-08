@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS QUẢNG GIÁO CHÍ
 image: /images/koans/great-wave.webp
 ---
 
@@ -14,14 +14,21 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Trí vô sư, trí tự nhiên không thể suy lường. Tâm phân biệt, tâm thủ xả rất khó dứt bỏ. Có người nào tìm được tung tích chăng?
+> Trí vô sư, trí tự nhiên không thể suy lường. Tâm phân biệt, tâm thủ xả rất khó dứt bỏ. Có người nào tìm được tung tích chăng?
 
-BẢN TẮC
-Tăng hỏi Hòa thượng Quảng Giáo Chí ở Tân Châu: Là vật gì mà học nhơn chẳng biết?
-Chí nói: Sống ở Kỳ Châu.
+## CỬ - TẮC
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói: Có một vật có trước trời đất. Không hình thể vốn vắng lặng hay làm chủ muôn vật, không suy tàn theo thời gian.
+📢 Ngài Đầu Tử cử:
+
+Tăng hỏi Hòa thượng Quảng Giáo Chí ở Tân Châu: **Là vật gì mà học nhơn chẳng biết?**
+
+Chí nói: **Sống ở Kỳ Châu.**
+
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói: 
+
+Có một vật có trước trời đất. Không hình thể vốn vắng lặng hay làm chủ muôn vật, không suy tàn theo thời gian.
 
 Ngài Lâm Tuyền nói: Đưa ra như thế hội hay không hội. Nếu nói hội được, nhưng vì tinh thức còn chỉ có một niệm ngộ, thì đâu thể vượt qua được mê mờ thuở xưa. Nếu nói không hội thì uổng phí một đời, đến khi nào mới tỏ ngộ được. Hãy nói một câu ngay điểm bắt đầu.
 
@@ -47,14 +54,24 @@ Không giống như Ngài Quảng Giáo trả lời. Đợi đến khi nói là 
 
 Biết và không biết, hội hay không hội, mặc cho mọi người suy đoán. Ngoài ý này ra, ngài Đầu Tử sẽ rơi chỗ vô.
 
-TỤNG CỔ
-Trướng rủ rèm che rêu xanh biếc.
-Linh vắng không lắc chẳng người hầu.
-Ai chống gậy trúc đến hỏi nhau.
-Đáp lại vườn đồng ruộng mì xanh.
+## TỤNG CỔ
 
-BÌNH XƯỚNG
-Ngài Lâm Tuyền nói: Chánh tông Tào Động muốn mở đường tôn quý, để làm sáng tỏ đạo huyền diệu sâu xa, nhìn thì không thấy, lắng tai thì không có tiếng. Nếu ở ngôi báu chí tôn thấy đều run sợ, trong ngoài đều hòa hợp.
+<blockquote>
+
+Trướng rủ rèm che rêu xanh biếc.
+
+Linh vắng không lắc chẳng người hầu.
+
+Ai chống gậy trúc đến hỏi nhau.
+
+Đáp lại vườn đồng ruộng mì xanh.
+</blockquote>
+
+## BÌNH XƯỚNG
+
+📢 Ngài Lâm Tuyền nói:
+
+Chánh tông Tào Động muốn mở đường tôn quý, để làm sáng tỏ đạo huyền diệu sâu xa, nhìn thì không thấy, lắng tai thì không có tiếng. Nếu ở ngôi báu chí tôn thấy đều run sợ, trong ngoài đều hòa hợp.
 
 Giống như các sao đều hướng về Bắc Đẩu, trăm sông đổ về biển Đông. Thế nên dù cho lâu rỗng gác phượng, trăng mờ ánh chiếu. Chỉ trách người trong đó tại sao đạp lên, đồng rêu xanh tươi tốt sáu năm thăm u. Nên nói huông báu đến phúng khói mây hợp. Vắng lặng rêm buông không lộ nhàn.
 
@@ -64,32 +81,9 @@ Lặp đi lặp lại chống gậy trúc phương tiện giáo hóa. Vị Tăng
 
 Ruộng mì vườn đồng xanh tươi mơn mởn, làm sao giấu kín được ý xuân. Tuy nhiên như thế.
 
-Một hội không lời bao vạn tượng.
-Nơi nào có hàm linh đều cảm tạ.
-
-## CỬ - TẮC
-
-📢 Ngài Đầu Tử cử:
-
+> Một hội không lời bao vạn tượng.
 > 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-<blockquote>
-
-
-</blockquote>
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
+> Nơi nào có hàm linh đều cảm tạ.
 
 <hr class="blog-rule" />
 

@@ -1,17 +1,19 @@
 ---
 title: "MẠN ĐÀM TÂM KINH"
 description: ""
-videoId: A9yQQSOy4hc
 categories:
   - Luận
 tags:
   - Kinh Kim Cang Bát Nhã
+videoIds:
+  - cqlk-4E9_4RA
 ---
 
 ## GIỚI THIỆU
 
 Tâm Kinh chỉ có 260 chữ cô đọng lại những giáo lý tinh túy trong Kinh **Đại Bát Nhã**, trong đó có đủ tư tưởng _Đại Thừa_ và _Tiểu Thừa_ Phật giáo.
 Trong số ngàn vạn quyển kinh, **Tâm Kinh** là bộ kinh chữ ít nhất, ý nghĩa sâu xa nhất.
+
 Trong văn tự gọn gàng rõ rệt đó, đã nói lên lý Bát Nhã giai không, phủ định tất cả phân biệt tâm, đồng thời cũng chỉ bày ra **tự tánh** của con người, _Bổn Diệu Chân Thanh Tịnh_, có đủ tất cả _Trí Huệ Công Đức_.
 Phàm tất cả pháp trên cuộc đời này đều do chân tâm mà có, cho nên gọi là **Tâm Kinh**.
 
@@ -189,7 +191,11 @@ Do đó, không còn cái gọi là khổ nạn, vận không may, những cái 
 
 ## KẾT LUẬN
 
-Hiểu được những thứ này thì sẽ không còn bị lão, tử trói buộc mà đau khổ ưu phiền. Đau khổ của nhân sinh, biết được nguyên nhân của khổ, tiến hành tu tập trị liệu để tiêu trừ khổ, đạt đến cảnh giới cuối cùng Vô ngã vô khổ. Bốn giai đoạn này chúng ta gọi đó là Khổ, Tập, Diệt, Đạo. Khi thấu hiểu được bản chất của sanh mạng là sanh sanh không ngừng; sanh tử giao nhau biến chuyển. Dung nhập vào quá trình sanh sẽ không còn có vấn đề Sanh, Lão, Bệnh, Tử; cũng không có cái gọi là vấn đề Khổ, Tập, Diệt, Đạo nữa.
+Hiểu được những thứ này thì sẽ không còn bị lão, tử trói buộc mà đau khổ ưu phiền. Đau khổ của nhân sinh, biết được nguyên nhân của khổ, tiến hành tu tập trị liệu để tiêu trừ khổ, đạt đến cảnh giới cuối cùng Vô ngã vô khổ. 
+
+Bốn giai đoạn này chúng ta gọi đó là Khổ, Tập, Diệt, Đạo. Khi thấu hiểu được bản chất của sanh mạng là sanh sanh không ngừng; sanh tử giao nhau biến chuyển. 
+
+Dung nhập vào quá trình sanh sẽ không còn có vấn đề Sanh, Lão, Bệnh, Tử; cũng không có cái gọi là vấn đề Khổ, Tập, Diệt, Đạo nữa.
 Có thể hiểu được lý này xem ra rất thông minh, kỳ thật, làm gì có chỗ nào thông minh chứ.
 
 Cái lý này đã rất rõ ràng bày ra đó mà, chỉ do con người mê mờ không nhìn thấy. Có thể thực hành đạo lý này xem ra như được chỗ cao thâm, sự thật làm gì có được cái chi.
@@ -203,5 +209,8 @@ Vì vậy, tâm của Ngài như hồ nước từ đục từ từ lắng xuố
 
 Tất cả bậc giác ngộ ở quá khứ, hiện tại, vị lai cũng đều y theo trí huệ có thể đạt đến Bỉ ngạn mà đạt được quả giác ngộ tối cao.
 Thoát ra khỏi những cái phát ra từ thân tâm cái nhìn sai lệch và huyễn tưởng mà đạt đến Bỉ ngạn.
-Cho nên, chúng ta nên biết trí huệ đạt đến Bỉ ngạn là phương pháp vĩ đại, là phương pháp đại triệt đại ngộ, là phương pháp chí cao vô thượng, là phương pháp siêu tuyệt không sánh. Nó có thể tiêu trừ tất cả những cái nhìn sai lệch mà sanh ra vọng tưởng và đau khổ. Phương pháp này là chân thật, có thể thực hành. Mọi người đều có thể áp dụng, nhân đó mà đạt đến Bỉ ngạn.
-...
+Cho nên, chúng ta nên biết trí huệ đạt đến Bỉ ngạn là phương pháp vĩ đại, là phương pháp đại triệt đại ngộ, là phương pháp chí cao vô thượng, là phương pháp siêu tuyệt không sánh. 
+
+Nó có thể tiêu trừ tất cả những cái nhìn sai lệch mà sanh ra vọng tưởng và đau khổ. 
+
+Phương pháp này là chân thật, có thể thực hành. Mọi người đều có thể áp dụng, nhân đó mà đạt đến Bỉ ngạn.

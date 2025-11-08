@@ -12,6 +12,7 @@ const globMap = {
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}', { eager: true }),
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}', { eager: true }),
   precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}', { eager: true }),
+  films: import.meta.glob('../content/films/**/*.{md,mdx}', { eager: true }),
 
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
@@ -28,6 +29,7 @@ const globMapLazy = {
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}'),
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}'),
   precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}'),
+  films: import.meta.glob('../content/films/**/*.{md,mdx}'),
 
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
@@ -42,6 +44,7 @@ const collections = {
   books: "books",
   practices: "practices",
   precepts: "precepts",
+  films: "films",
 
   masters: "masters",
   speeches: "speeches",

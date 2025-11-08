@@ -222,7 +222,7 @@ Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lã
 
 [^2]: ⭐️ <a href="/masters/ton-gia-bo-de-dat-ma/" target="_blank">🔗 Tổ BỒ ĐỀ Đạt Ma</a>
 
-⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">🔗 Phim về Tổ BỒ ĐỀ Đạt Ma</a>
+⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">🔗 Phim Phật Giáo về Tổ BỒ ĐỀ Đạt Ma</a>
 
 [^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">🔗 TS BẢO CHÍ CÔNG</a>
 

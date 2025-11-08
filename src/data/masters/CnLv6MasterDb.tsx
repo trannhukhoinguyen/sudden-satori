@@ -431,7 +431,7 @@ const CnLv6MasterDb = [
     name_en: 'Nanta Guangyong',
     name_ja: 'Nantō Kōyū',
     name_zh: '南塔光涌',
-    name_vi: 'Nam Tháp Quang Dũng',
+    name_vi: 'NAM THÁP QUANG DŨNG',
     other_name_vi: '',
     nickname_vi: '',
     original_name_vi: '',

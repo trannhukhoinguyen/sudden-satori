@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Già - quyển II"
+title: "KINH LĂNG GIÀ - quyển II"
 description: ""
 excerpt: ""
 categories:

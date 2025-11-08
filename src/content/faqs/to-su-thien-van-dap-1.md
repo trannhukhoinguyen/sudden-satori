@@ -10,5 +10,3 @@ tags:
 ---
 
 
-
-<hr class="blog-rule" />

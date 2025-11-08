@@ -59,6 +59,7 @@ export const config: SiteConfig = {
     "interpretations",
 
     "precepts",
+    "films",
     "sutras",
     "koans",
 
@@ -77,10 +78,11 @@ export const config: SiteConfig = {
 
     interpretations: "Luận giải",
     precepts: "Luật",
+    films: "Phim Phật Giáo",
 
     /*NHÓM KINH*/
     sutras: "Kinh",
-    lankavatara: "Kinh Lăng Già",
+    lankavatara: "KINH LĂNG GIÀ",
     surangama: "Kinh Lăng Nghiêm",
     diamond: "Kinh Kim Cang",
 
@@ -109,9 +111,10 @@ export const config: SiteConfig = {
 
     interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",
     precepts: "Xem Luật liên quan đến Tổ Sư Thiền",
+    films: "Xem Phim Phật Giáo liên quan đến Tổ Sư Thiền",
 
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
-    lankavatara: "Xem Kinh Lăng Già liên quan đến Tổ Sư Thiền",
+    lankavatara: "Xem KINH LĂNG GIÀ liên quan đến Tổ Sư Thiền",
     surangama: "Xem Kinh Lăng Nghiêm liên quan đến Tổ Sư Thiền",
 
     koans: "Xem các Công án Tổ Sư Thiền",

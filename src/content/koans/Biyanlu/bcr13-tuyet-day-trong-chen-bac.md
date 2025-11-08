@@ -34,7 +34,7 @@ Tổ thứ 15 Đề Bà vốn cũng đã từng là một trong các ngoại đ�
 
 Long Thụ cảm kích sâu xa mới truyền tâm ấn của Phật cho Đề Bà làm tổ thứ mười lăm.
 
-**Kinh Lăng Già** nói, “Phật dạy tâm làm tông, vô môn làm pháp môn.”
+**KINH LĂNG GIÀ** nói, “Phật dạy tâm làm tông, vô môn làm pháp môn.”
 
 Mã Tổ nói, “Phàm có ngôn cú thì là tông của Đề Bà, chí lấy đó làm chủ mà thôi.”
 

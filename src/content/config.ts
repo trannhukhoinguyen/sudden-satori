@@ -188,6 +188,20 @@ const precepts = defineCollection({
   }),
 });
 
+const films = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/phim-phat-giao" }),
+  schema: z.object({
+    type: z.string().default("films"),
+    schemaType: z.string().default("Video"),
+    title: z.string().default("Phim Phật Giáo"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
 export const collections = {
   blogs,
   places,
@@ -201,4 +215,5 @@ export const collections = {
   faqs,
   health,
   precepts,
+  films,
 };
