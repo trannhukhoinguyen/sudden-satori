@@ -189,7 +189,7 @@ const precepts = defineCollection({
 });
 
 const films = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/phim-phat-giao" }),
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/films" }),
   schema: z.object({
     type: z.string().default("films"),
     schemaType: z.string().default("Video"),
