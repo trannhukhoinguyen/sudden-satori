@@ -11,6 +11,7 @@ categories:
   - Ngữ lục
 tags:
   - TS ĐOẠN VÂN TRÍ TRIỆT
+image: /images/books/21-gates.jpg
 ---
 
 
