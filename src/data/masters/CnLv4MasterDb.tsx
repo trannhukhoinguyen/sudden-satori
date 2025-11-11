@@ -23,7 +23,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.2',
-    hasContent: true,
     name_en: 'Yunyan Tansheng',
     name_zh: '雲巖曇晟',
     name_ja: 'Ungan Donjō',
@@ -45,7 +44,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.3',
-    hasContent: true,
     name_en: 'Longtan Chongxin',
     name_ja: 'Ryūtan Sōshin',
     name_zh: '龍潭崇信',
@@ -67,7 +65,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.4',
-    hasContent: true,
     name_en: 'Guishan Lingyou',
     name_ja: 'Isan Reiyû',
     name_zh: '潙山靈祐',
@@ -113,7 +110,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.6',
-    hasContent: true,
     name_en: 'Cuiwei Wuxue',
     name_ja: 'Suibi Mugaku',
     name_zh: '翠微無學',
@@ -136,11 +132,10 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.7',
-    hasContent: true,
     name_en: 'Huangbo Xiyun',
     name_ja: 'Obaku Kiun',
     name_zh: '黃蘖希運',
-    name_vi: 'Hoàng Bá Hy Vận',
+    name_vi: 'Hoàng Bá Hi Vận',
     other_name_vi: '',
     nickname_vi: 'Đoạn Tế',
     birth_death_time: ['', '850'],
@@ -176,7 +171,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.10',
-    hasContent: true,
     name_en: 'Helin Xuansu',
     name_ja: 'Gakurin Genso',
     name_zh: '鶴林玄素',
@@ -235,7 +229,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.13',
-    hasContent: true,
     name_en: 'Zhaozhou Congshen',
     name_ja: '趙州従シン Jōshū Jūshin',
     name_zh: '趙州從諗',
@@ -258,7 +251,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.14',
-    hasContent: true,
     name_en: 'Changsha Jingcen',
     name_ja: 'Chōsha Keijin',
     name_zh: '長沙景岑',
@@ -391,7 +383,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.21',
-    hasContent: true,
     name_en: 'Zhenzhou Puhua',
     name_ja: 'Jinshu Fuke',
     name_zh: '鎮州普化',
@@ -413,7 +404,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.22',
-    hasContent: true,
     name_en: 'Chuanzi Decheng',
     name_ja: 'Senji Tokujō',
     name_zh: '船字德誠',
@@ -456,7 +446,6 @@ const CnLv4MasterDb = [
   },
   {
     id: '37.4.24',
-    hasContent: true,
     name_en: 'Zihu Lizong',
     name_ja: 'Shiko Rishō',
     name_zh: '子湖利蹤',

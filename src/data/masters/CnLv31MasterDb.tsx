@@ -1,7 +1,6 @@
 const CnLv31MasterDb = [
   {
     id: '64.31.1',
-    hasContent: true,
     name_en: 'Wuming Huijing',
     name_ja: 'Mumyō Ekyō',
     name_zh: '無明慧經',
@@ -19,7 +18,7 @@ const CnLv31MasterDb = [
     successors: ['Wuyi Yuanlai', 'Huitai Yuanjing', 'Yuanjue Yuanxian'],
     disciples: ['Wuyi Yuanlai', 'Huitai Yuanjing', 'Yuanjue Yuanxian'],
     image: '/images/avatar.png',
-    reference: ['', 'https://londonchanmeditation.org/lineage/'],
+    reference: ['https://londonchanmeditation.org/lineage/'],
   },
   {
     id: '64.31.2',
@@ -41,6 +40,27 @@ const CnLv31MasterDb = [
     disciples: ['Xiaoyan Debao'],
     image: '/images/avatar.png',
     reference: [''],
+  },
+  {
+    id: '64.31.3',
+    name_en: 'Cizhou Fangnian',
+    name_ja: '',
+    name_zh: '慈舟方念',
+    name_vi: 'Vô Minh Huệ Kinh',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['-', '1594'],
+    epoch: '',
+    records: '',
+    sect: ['Caodong'],
+    country: '🇨🇳',
+    place: '-',
+    teachers: ['Huanxiu Changrun'],
+    successors: ['Yunmen Yuancheng'],
+    disciples: ['Yunmen Yuancheng'],
+    image: '/images/avatar.png',
+    reference: ['https://terebess.hu/zen/mesterek/shengyen.html', 'https://londonchanmeditation.org/lineage/'],
   },
 ]
 export default CnLv31MasterDb;

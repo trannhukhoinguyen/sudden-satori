@@ -1,11 +1,10 @@
 const CnLv6MasterDb = [
   {
     id: '39.6.1',
-    hasContent: true,
     name_en: 'Caoshan Benji',
     name_ja: 'Sōzan Honjaku',
     name_zh: '曹山本寂',
-    name_vi: 'Tào Sơn Bản Tịch',
+    name_vi: 'TÀO SƠN BẢN TỊCH',
     nickname_vi: 'Nguyên Chứng',
     original_name_vi: '',
     worship_tower: 'Phúc Viên',
@@ -22,11 +21,10 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.2',
-    hasContent: true,
     name_en: 'Xinghua Cunjiang',
     name_ja: 'Kōke Zonshō',
     name_zh: '興化存奬',
-    name_vi: 'Hưng Hóa Tồn Tương',
+    name_vi: 'HƯNG HÓA TỒN TƯƠNG',
     other_name_vi: 'Hưng Hóa Tồn Tưởng',
     nickname_vi: 'Quảng Tế',
     original_name_vi: '',
@@ -48,11 +46,10 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.3',
-    hasContent: true,
     name_en: 'Sansheng Huiran',
     name_ja: 'Sanshō Enen',
     name_zh: '三聖慧然',
-    name_vi: 'Tam Thánh Huệ Nhiên',
+    name_vi: 'TAM THÁNH HUỆ NHIÊN',
     other_name_vi: '',
     nickname_vi: '',
     original_name_vi: '',
@@ -74,7 +71,7 @@ const CnLv6MasterDb = [
     name_en: 'Muzhou Chen Cao',
     name_zh: '睦州陳操',
     name_ja: 'Muzhou Chen Cao',
-    name_vi: 'Mục Châu Trần Tháo',
+    name_vi: 'MỤC CHÂU TRẦN THÁO',
     other_name_vi: '',
     nickname_vi: 'Thượng thư Trần Tháo',
     original_name_vi: '',
@@ -112,11 +109,10 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.6',
-    hasContent: true,
     name_en: 'Jiufeng Daoqian',
     name_ja: 'Kyūhō Dōken',
     name_zh: '九峰道虔',
-    name_vi: 'Cửu Phong Ðạo Kiền',
+    name_vi: 'CỬU PHONG ÐẠO KIỀN',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
@@ -133,11 +129,10 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.7',
-    hasContent: true,
     name_en: 'Xuefeng Yicun',
     name_ja: 'Seppō Gison',
     name_zh: '雪峰义存',
-    name_vi: 'Tuyết Phong Nghĩa Tồn',
+    name_vi: 'TUYẾT PHONG NGHĨA TỒN',
     other_name_vi: '',
     nickname_vi: '',
     original_name_vi: '',
@@ -185,11 +180,10 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.9',
-    hasContent: true,
     name_en: 'Yunju Daoying',
     name_ja: 'Ungo Dōyō',
     name_zh: '雲居道膺',
-    name_vi: 'Vân Cư Đạo Ưng',
+    name_vi: 'VÂN CƯ ĐẠO ƯNG',
     other_name_vi: '',
     nickname_vi: '',
     original_name_vi: '',
@@ -210,11 +204,10 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.10',
-    hasContent: true,
     name_en: 'Baoshou Yanzhao',
     name_ja: 'Hōju Enshō',
     name_zh: '寶壽延沼',
-    name_vi: 'Bảo Thọ Diên Chiểu',
+    name_vi: 'BẢO THỌ DIÊN CHIỂU',
     other_name_vi: '',
     nickname_vi: '',
     original_name_vi: '',
@@ -252,7 +245,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.12',
-    hasContent: true,
     name_en: 'Yantou Quanhuo',
     name_ja: 'Gantō Zenkatsu',
     name_zh: '巖頭全豁',
@@ -281,7 +273,7 @@ const CnLv6MasterDb = [
     name_en: 'Luopu Yuan’an',
     name_ja: 'Rakuho Gen’an',
     name_zh: '洛浦元安',
-    name_vi: 'Lạc Phố Nguyên An',
+    name_vi: 'LẠC PHỐ NGUYÊN AN',
     other_name_vi: 'Lạc Phổ Nguyên An',
     nickname_vi: '',
     original_name_vi: '',
@@ -299,7 +291,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.14',
-    hasContent: true,
     name_en: 'Yungai Zhiyuan',
     name_ja: 'Yungai Zhiyuan',
     name_zh: '雲蓋志元',
@@ -320,7 +311,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.15',
-    hasContent: true,
     name_en: 'Yongquan Jingxin',
     name_ja: 'Yongquan Jingxin',
     name_zh: '湧泉景欣',
@@ -341,7 +331,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.16',
-    hasContent: true,
     name_en: 'Phúc Thuyền Hồng Tiến',
     name_ja: 'Phúc Thuyền Hồng Tiến',
     name_zh: '',
@@ -382,7 +371,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.18',
-    hasContent: true,
     name_en: 'Yuezhou Qianfeng',
     name_ja: 'Esshū Kempō',
     name_zh: '越州乾峰',
@@ -403,7 +391,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.19',
-    hasContent: true,
     name_en: 'Weifu Dajue',
     name_ja: 'Weifu Dajue',
     name_zh: '魏府大覺',
@@ -427,7 +414,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.20',
-    hasContent: true,
     name_en: 'Nanta Guangyong',
     name_ja: 'Nantō Kōyū',
     name_zh: '南塔光涌',
@@ -451,7 +437,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.21',
-    hasContent: true,
     name_en: 'Xita Guangmu',
     name_ja: 'Saitō Kōboku',
     name_zh: '西塔光穆',
@@ -474,7 +459,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.22',
-    hasContent: true,
     name_en: 'Wuzhu Wenxi',
     name_ja: 'Mujaku Bunki',
     name_zh: '無著文喜',
@@ -497,7 +481,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.23',
-    hasContent: true,
     name_en: 'Miàoxìn',
     name_ja: 'Myōshin',
     name_zh: '妙信',
@@ -543,7 +526,6 @@ const CnLv6MasterDb = [
   },
   {
     id: '39.6.25',
-    hasContent: true,
     name_en: 'Qinglin Shiqian',
     name_ja: 'Seirin Shiken',
     name_zh: '青林師虔',

@@ -45,7 +45,7 @@ const KoMasterDb = [
   },
   {
     id: '40.7.10.K',
-    hasContent: true,
+    
     name_en: 'Longhua Lingzhao',
     other_name_en: 'Lingzhao Buna',
     name_ja: 'Longhua Lingzhao',

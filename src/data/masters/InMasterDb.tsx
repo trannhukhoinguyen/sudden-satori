@@ -1,7 +1,6 @@
 const InMasterDb = [
   {
     id: '0',
-    hasContent: true,
     name_en: 'Shakyamuni Buddha',
     name_ja: 'Shakyamuni Buddha',
     name_zh: '释迦牟尼 佛',
@@ -23,7 +22,6 @@ const InMasterDb = [
   },
   {
     id: '1',
-    hasContent: true,
     name_en: 'Mahakasyapa',
     name_ja: 'Makakashō',
     name_zh: '摩訶迦葉',
@@ -45,7 +43,6 @@ const InMasterDb = [
   },
   {
     id: '2',
-    hasContent: true,
     name_en: 'Ananda',
     name_ja: 'Ananda',
     name_zh: '阿難陀',
@@ -67,7 +64,6 @@ const InMasterDb = [
   },
   {
     id: '3',
-    hasContent: true,
     name_en: 'Sanakavasa',
     name_ja: 'Shōnawashu',
     name_zh: '商那和修',
@@ -89,7 +85,6 @@ const InMasterDb = [
   },
   {
     id: '4',
-    hasContent: true,
     name_en: 'Upagupta',
     name_ja: 'Ubakikuta',
     name_zh: '優婆掬多',
@@ -111,7 +106,6 @@ const InMasterDb = [
   },
   {
     id: '5',
-    hasContent: true,
     name_en: 'Dhrtaka',
     name_ja: 'Daitaka',
     name_zh: '提多迦',
@@ -133,7 +127,6 @@ const InMasterDb = [
   },
   {
     id: '6',
-    hasContent: true,
     name_en: 'Miccaka',
     name_ja: 'Mishaka',
     name_zh: '彌遮迦',
@@ -155,7 +148,6 @@ const InMasterDb = [
   },
   {
     id: '7',
-    hasContent: true,
     name_en: 'Vasumitra',
     name_ja: 'Bashumitsu',
     other_name_ja: 'Bashumitta',
@@ -179,7 +171,6 @@ const InMasterDb = [
   },
   {
     id: '8',
-    hasContent: true,
     name_en: 'Buddhanandi',
     name_ja: 'Buddanandai',
     name_zh: '浮陀難提',
@@ -201,7 +192,6 @@ const InMasterDb = [
   },
   {
     id: '9',
-    hasContent: true,
     name_en: 'Buddhamitra',
     name_ja: 'Buddamitta',
     name_zh: '浮陀密多',
@@ -223,7 +213,6 @@ const InMasterDb = [
   },
   {
     id: '10',
-    hasContent: true,
     name_en: 'Parsvika',
     name_ja: 'Barishiba',
     other_nname_ja: 'Kyōsonja',
@@ -247,7 +236,6 @@ const InMasterDb = [
   },
   {
     id: '11',
-    hasContent: true,
     name_en: 'Punyayasas',
     name_ja: 'Funayasha',
     name_zh: '富那夜奢',
@@ -703,7 +691,6 @@ const InMasterDb = [
   },
   {
     id: '28',
-    hasContent: true,
     name_en: 'Bodhidharma',
     other_name_en: 'Bodaidaruma',
     name_ja: '達磨 だるま Daruma',
@@ -722,7 +709,6 @@ const InMasterDb = [
   },
   {
     id: '31.2',
-    hasContent: true,
     name_en: 'Vinitaruci',
     other_name_en: 'Miexi',
     name_ja: '',

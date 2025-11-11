@@ -111,7 +111,7 @@ export const KonggujiTitles: KoanTitle[] = [
 * Nguyên văn: Lâm Tuyền Lão Nhân Bình Xướng Đầu Tử Thanh Hòa Thượng Tụng Cổ Không Cốc Tập
 * (林泉老人評唱投子清和尚頌古空谷集, Rinsenrōjinhyōshōtōsuseioshōjukokūkokushū).
 * TS. Đầu Tử Nghĩa Thanh (投子義清) thâu lục 100 tắc cơ duyên của cổ nhân, thêm vào lời tụng cổ cho mỗi tắc,
-* sau đó TS. Đơn Hà Tử Thuần (丹霞子淳) còn thêm vào lời dạy chúng và trước ngữ,
+* sau đó TS. Đan Hà Tử Thuần (丹霞子淳) còn thêm vào lời dạy chúng và trước ngữ,
 * kế đến TS. Lâm Tuyền Tùng Luân (林泉從倫) ghi lời bình xướng
 * https://www.rongmotamhon.net/xem-kinh_lam-tuyen-lao-nhon-binh_ddplklkd_muc-luc.html
 * */

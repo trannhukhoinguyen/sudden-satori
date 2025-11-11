@@ -1,7 +1,6 @@
 const CnLv1MasterDb = [
   {
     id: '34.1.1',
-    hasContent: true,
     name_en: 'Qingyuan Xingsi',
     name_ja: 'Seigen Gyōshi',
     name_vi: 'Thanh Nguyên Hành Tư',
@@ -24,7 +23,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.2',
-    hasContent: true,
     name_en: 'Nanyang Huizhong',
     name_ja: "Nan'yō Echū",
     name_zh: '南陽慧忠',
@@ -47,7 +45,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.3',
-    hasContent: true,
     name_en: 'Nanyue Huairang',
     name_ja: 'Nangaku Ejõ',
     name_zh: '南嶽懐譲',
@@ -71,7 +68,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.4',
-    hasContent: true,
     name_en: 'Heze Shenhui',
     name_ja: "Kataku Jinne",
     name_zh: '荷澤神會',
@@ -122,7 +118,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.6',
-    hasContent: true,
     name_en: 'Yongjia Xuanjue',
     other_name_en: 'Yisu',
     name_zh: '永嘉玄覺',
@@ -186,7 +181,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.10',
-    hasContent: true,
     name_en: 'Biandan Xiaoliao',
     name_ja: 'Hentan Goryo',
     name_zh: '匾擔曉了',
@@ -229,7 +223,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.12',
-    hasContent: true,
     name_en: 'Hongzhou Fada',
     name_ja: '',
     name_zh: '洪州法达',
@@ -356,7 +349,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.18',
-    hasContent: true,
     name_en: 'Daixiao Lingtao',
     name_ja: '',
     name_zh: '曹谿令韜',
@@ -928,7 +920,7 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.49',
-    hasContent: true,
+    
     name_en: 'Niutou Huifang',
     name_ja: 'Niutou Huifang',
     name_zh: '牛頭 慧方',
@@ -950,7 +942,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.50',
-    hasContent: true,
     name_en: 'Mengshan Daoming',
     other_name_en: 'Huiming',
     name_ja: 'Myo',
@@ -973,7 +964,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.51',
-    hasContent: true,
     name_en: 'Zizhou Chuji',
     name_ja: 'Shishū Shojaku',
     name_zh: '淄州處寂',
@@ -1028,7 +1018,6 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.54',
-    hasContent: true,
     name_en: 'Sikong Benjing',
     name_ja: 'Shikū Honjō',
     name_zh: '司空本净',

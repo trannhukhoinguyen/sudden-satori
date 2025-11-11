@@ -1,7 +1,6 @@
 const CnLv32MasterDb = [
   {
     id: '65.32.1',
-    hasContent: true,
     name_en: 'Wuyi Yuanlai',
     other_name_en: 'Boshan Yuanlai',
     name_ja: 'Mui Genrai',
@@ -26,7 +25,6 @@ const CnLv32MasterDb = [
   },
   {
     id: '65.32.2',
-    hasContent: true,
     name_en: 'Huitai Yuanjing',
     name_ja: 'Maidai Genkyō',
     name_zh: '晦臺元鏡',
@@ -48,7 +46,6 @@ const CnLv32MasterDb = [
   },
   {
     id: '65.32.3',
-    hasContent: true,
     name_en: 'Yuanjue Yuanxian',
     other_name_en: 'Gushan Yuanxian',
     name_ja: 'Yōkaku Genken',

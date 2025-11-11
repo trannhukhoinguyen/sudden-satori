@@ -1,7 +1,6 @@
 const CnLv60MasterDb = [
   {
     id: '93.60.1',
-    hasContent: true,
     name_en: '',
     name_ja: '',
     name_zh: '',

@@ -24,7 +24,7 @@ Giáo pháp của đức Phật vốn như vậy, linh hoạt nhạy bén, hợp
 
 Tiểu Văn Hỷ làm Sa di đuổi quạ nhưng lại hoàn toàn không như người trồng lúa đi dọa nạt chim quạ, trông coi lúa mạch - gọi là đuổi quạ chẳng qua chỉ là lần đầu tiên đức Phật vì đứa trẻ đáng thương mà mở ra một con đường phương tiện xuất gia mà thôi. Tiểu Văn Hỷ thì đi theo Thiền sư Quốc Thanh học rộng hiểu nhiều, học chữ đọc sách, lại ở trong trường tư thục học tập khá nhiều. Chính vì như thế, ngày xưa nhiều trẻ em con nhà nghèo học nhờ ở trong chùa (Phạm Trọng Yêm nhà văn học lớn, nhà chính trị lớn, nhà quân sự lớn, cha chết mẹ tái giá bèn ở trong chùa học nhờ, sau này thi đỗ Tiến sĩ).
 
-Cảnh đẹp không lâu bền, pháp nạn Hội Xương đến gần, Văn Thù và hơn hai mươi vạn Tăng ni trong cả nước cũng vậy, bị bức bách hoàn tục. Đầu trọc nhưng không phải Hoà thượng, người để tóc cũng không phải là người thế tục. Văn Hỷ dấu tài ở trong hồng trần mà đạo tâm càng kiên cố. Sau hơn một năm, những người làm Sa di giống như Văn Hỷ trong lịch sử có Lý Thế Dân, gọi là Đường Tuyên Tông làm Hoàng đế, chấn hưng Phật giáo. Văn Hỷ xuống tóc lại tại chùa Tế Phong ở Diêm Quang Triết Giang , trở về Thiền môn.
+Cảnh đẹp không lâu bền, pháp nạn Hội Xương đến gần, Văn Thù và hơn hai mươi vạn Tăng ni trong cả nước cũng vậy, bị bức bách hoàn tục. Đầu trọc nhưng không phải Hoà thượng, người để tóc cũng không phải là người thế tục. Văn Hỷ dấu tài ở trong hồng trần mà đạo tâm càng kiên cố. Sau hơn một năm, những người làm Sa di giống như Văn Hỷ trong lịch sử có Lý Thế Dân, gọi là Đường Tuyên Tông làm Hoàng đế, chấn hưng Phật giáo. Văn Hỷ xuống tóc lại tại chùa Tế Phong ở Diêm Quang Chiết Giang , trở về Thiền môn.
 
 Lúc đó, Thiền sư Tánh Không rất nổi tiếng trú trì tại núi Đại Từ ở Hàng Châu, Văn Hỷ đến bái yết. Thiền sư Tánh Không nói: “Ngươi đọc kinh sách nhiều năm, vì sao không đi vân du trong tùng lâm chín châu, tham vấn chư tôn túc trong thiên hạ?”.
 
@@ -127,7 +127,7 @@ Một hôm, trong chùa có một vị Tăng lang thang áo xống rách nát, m
 
 Ngưỡng Sơn Huệ Tịch bình tĩnh quan sát kỹ lưỡng rồi nói với Văn Hỉ : “ Người đã thành thục rồi, nên xuống núi hoằng hóa đi.”
 
-Thế là Văn Hỉ trở về Triết Giang, trụ trì chùa Long Tuyền.
+Thế là Văn Hỉ trở về Chiết Giang, trụ trì chùa Long Tuyền.
 
 Tại pháp đường có một vị tăng hỏi: “Thế nào là tướng của Niết Bàn?”
 
@@ -160,11 +160,11 @@ Nhục thân của Thiền sư Văn Hỷ không hư hoại, an táng nhiều nam
 Thiền cơ liên tiếp: RỒNG RẮN LẪN LỘN, PHÀM THÁNH Ở CHUNG
 
 Thiền sư Hoằng Bá Hy Vận là người Phúc Châu, tuổi nhỏ đã xuất gia làm một tiểu sa di. Sau khi thọ giới Ngài bắt đầu ra ngoài vân du. 
-Mục tiêu thứ nhất của Ngài là núi Thiên thai ở Triết Giang.
+Mục tiêu thứ nhất của Ngài là núi Thiên thai ở Chiết Giang.
 
 Núi Thiên Thai là nơi Phật giáo sản sanh tông phái thứ nhất ở Trung Quốc – nơi đất lành phát sanh ra tông Thiên Thai. Đại sư Trí Khải (538 – 597) – đời xưng là Đại sư Trí Giả – tổ sư khai tông Tông Thiên Thai, từng ở nơi nay tu thiền, khế nhập Pháp Hoa tam muội, tâm khai đắc ngộ. Đại sư Trí Giả là một trong những Tăng nhân trước thuật phong phú nhất của Trung Quốc, viết tổng cộng được 29 bộ, 151 quyển. Chùa Quốc Thanh là tự viện quan trọng nhất của núi Thiên Thai vốn là chỗ tu thiền của Đại sư Trí Khải, năm thứ mười tám triều đại Khai Hoàng (598 TL) Phổ Vương Dương Quảng theo di nguyện của Đại sư Trí Khải mà kiến lập thuộc tổ đình của tông Thiên Thai.
 
-Lúc đó, Hoàng Bá Hy Vận sở dĩ muốn hướng đến núi Thiên Thai là vì trong chùa Quốc Thanh có hai vị Tăng kỳ diệu: Hàn Sơn và Thập Đắc (xem tùng thư Thiền Cơ Đốn Sự tắc 24 đến 26). Suốt hành trình, ngài cứ đi mãi, không nghỉ, cuối cùng cũng đến được chân núi Thiên Thai.
+Lúc đó, Hoàng Bá Hi Vận sở dĩ muốn hướng đến núi Thiên Thai là vì trong chùa Quốc Thanh có hai vị Tăng kỳ diệu: Hàn Sơn và Thập Đắc (xem tùng thư Thiền Cơ Đốn Sự tắc 24 đến 26). Suốt hành trình, ngài cứ đi mãi, không nghỉ, cuối cùng cũng đến được chân núi Thiên Thai.
 
 Nhưng thấy trên núi thông tốt tươi đều đặn, cỏ cây um tùm, núi cao hùng tráng, cửa ngõ an lành, là thứ quý hiếm trong biển núi nghèo, đẹp đẽ tráng lệ, như cảnh tiên vậy. Hoa đỉnh phong nhô lên từ biển 1138 mét, các núi chụm lại với nhau, thế núi cao và dốc đứng cô lập, úp trong mây mù hư không như ẩn như hiện giống như một đang dãi mây vậy. Không biết rốt cuộc là nó có hay không, là rời rạc hay liên kết? Càng không thể biết nó có thông lên rơi thần tiên không hay là quê hương của mây trắng…
 
@@ -186,13 +186,13 @@ Muốn biết con đường mây,
 
 (chùa Hàn Sơn)
 
-Hoàng Bá Hy Vận cố gắng leo lên đỉnh Thiên Thai, xuyên qua rừng cây tươi tốt, rậm rạp dưới chân núi. Ngài gặp một người tướng mạo kỳ dị. Rời nhà vân du đến chân trời, Tăng nhân trong thiên hạ là một nhà. Nơi núi hoang gặp nhau tức là có duyên. Lúc chuyện trò bàn luận, hai người đều cảm thấy rất hoà hợp, dường như đôi bạn thân lâu ngày không gặp vậy. Duyên phận giữa người và người chính là kỳ quái như vậy, có một số người vừa gặp như đã quen lâu, thân mật không giới hạn. Mà có một số người gần nhau suốt đời lại như xa lạ. Hoàng Bá Hy Vận phát hiện hai mắt của vị Tăng kỳ lạ này tinh quang ánh lên, thu nhiếp hồn phách người ta. Có thể thấy công phu tu hành của ông ta không như người phàm.
+Hoàng Bá Hi Vận cố gắng leo lên đỉnh Thiên Thai, xuyên qua rừng cây tươi tốt, rậm rạp dưới chân núi. Ngài gặp một người tướng mạo kỳ dị. Rời nhà vân du đến chân trời, Tăng nhân trong thiên hạ là một nhà. Nơi núi hoang gặp nhau tức là có duyên. Lúc chuyện trò bàn luận, hai người đều cảm thấy rất hoà hợp, dường như đôi bạn thân lâu ngày không gặp vậy. Duyên phận giữa người và người chính là kỳ quái như vậy, có một số người vừa gặp như đã quen lâu, thân mật không giới hạn. Mà có một số người gần nhau suốt đời lại như xa lạ. Hoàng Bá Hi Vận phát hiện hai mắt của vị Tăng kỳ lạ này tinh quang ánh lên, thu nhiếp hồn phách người ta. Có thể thấy công phu tu hành của ông ta không như người phàm.
 
 Hai người nói chuyện thiền bàn luận đạo lý, vừa đi vừa nói, bất giác đã leo qua một ngọn núi cao, lồng lộn gào thét, chảy ngang thành sông. Sức nước lũ trong núi rất kinh người, đá lớn ngàn cân nó cuốn đi như viên nhỏ, huống hồ là người.
 
-Hoàng Bá Hy Vận tự nhiên không muốn mạo hiểm lội qua, ông lấy gay trúc chống chóng trên đất, lấy nón trên đầu xuống, quán sát tình hình nước lũ. Vị Tăng kỳ lạ kia nói: “con khe nhỏ nhoi này sao đủ để ý”.
+Hoàng Bá Hi Vận tự nhiên không muốn mạo hiểm lội qua, ông lấy gay trúc chống chóng trên đất, lấy nón trên đầu xuống, quán sát tình hình nước lũ. Vị Tăng kỳ lạ kia nói: “con khe nhỏ nhoi này sao đủ để ý”.
 
-Hoàng Bá Hy Vận nói, nước trong khe núi thiên biến vạn hoá, nông sâu khó lường. Vị Tăng kia không hề để ý, nói rằng: “không ướt chân”.
+Hoàng Bá Hi Vận nói, nước trong khe núi thiên biến vạn hoá, nông sâu khó lường. Vị Tăng kia không hề để ý, nói rằng: “không ướt chân”.
 
 Hoàng Bá bỗng nhiên cảm nhận được sự sắc sảo như núi cao dốc đứng, làn sóng trào dâng vậy: Lũ to bất ngờ, sóng trắng cuồn cuộn ngất trời, lại nói không ướt chân, thật là tràn đầy thiền ý! Đúng rồi, tự tánh của chúng ta không lay động, dù cho nước lũ (phiền não) bean ngoài cuồn cuộn, cũng không thể làm ướt nó nửa phân.
 

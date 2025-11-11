@@ -22,8 +22,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.2',
-    hasContent: true,
-    isEminent: true,
     name_en: 'Yaoshan Weiyan',
     name_ja: 'Yakusan Igen',
     name_zh: '藥山惟儼',
@@ -45,7 +43,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.3',
-    hasContent: true,
     name_en: 'Tianhuang Daowu',
     name_ja: 'Tennō Dōgō',
     name_zh: '天皇道悟',
@@ -67,7 +64,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.4',
-    hasContent: true,
     name_en: 'Dadian Baotong',
     name_ja: 'Daiten Hōtsū',
     name_zh: '大顛寶通',
@@ -92,7 +88,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.5',
-    hasContent: true,
     name_en: 'Danxia Tianran',
     name_ja: 'Ranka Rennen',
     other_name_ja: 'Tanka Tennen',
@@ -115,7 +110,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.6',
-    hasContent: true,
     name_en: 'Baizhang Huaihai',
     name_ja: 'Hyakujō Ekai',
     name_zh: '百丈懷海',
@@ -201,7 +195,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.11',
-    hasContent: true,
     name_en: 'Ehu Dayi',
     name_ja: 'Gako Taigi',
     name_zh: '鵝湖大義',
@@ -223,7 +216,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.12',
-    hasContent: true,
     name_en: 'Damei Fachang',
     name_ja: 'Daibai Hōjō',
     name_zh: '大梅法常',
@@ -246,7 +238,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.13',
-    hasContent: true,
     name_en: 'Dazhu Huihai',
     name_ja: 'Daishū Ekai',
     name_zh: '大珠慧海',
@@ -292,7 +283,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.15',
-    hasContent: true,
     name_en: 'Nanquan Puyuan',
     nickname_en: 'Wang laoshi',
     name_ja: 'Nansen Fugan',
@@ -401,7 +391,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.21',
-    hasContent: true,
     name_en: 'Zhangjing Huaihui',
     name_ja: 'Shōkei Eki',
     name_zh: '章敬懷暉',
@@ -425,7 +414,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.22',
-    hasContent: true,
     name_en: 'Panshan Baoji',
     name_ja: 'Banzan Hōshaku',
     name_zh: '盤山寳積, ',
@@ -449,7 +437,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.23',
-    hasContent: true,
     name_en: 'Guizong Zhichang',
     name_ja: 'Kisu Chijô',
     name_zh: '归宗智常',
@@ -494,7 +481,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.25',
-    hasContent: true,
     name_en: 'Tanzhou Dachuan',
     name_ja: 'Tanzhou Dachuan',
     name_zh: '潭州大川',
@@ -516,7 +502,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.26',
-    hasContent: true,
     name_en: 'Pangyun Jushi',
     other_name_en: 'Layman Pangyun',
     name_ja: 'Hōun koji',
@@ -541,7 +526,6 @@ const CnLv3MasterDb = [
   },
   {
     id: '36.3.27',
-    hasContent: true,
     name_en: 'Yanguan Qian',
     name_ja: 'Engan Saian',
     other_name_ja: 'Enkan Seian',

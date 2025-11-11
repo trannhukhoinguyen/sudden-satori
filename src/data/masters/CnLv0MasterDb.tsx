@@ -157,7 +157,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '32.2',
-    hasContent: true,
     name_en: 'Niutou Farong',
     name_ja: 'Gozu Hōyū',
     name_zh: '牛頭 法融',
@@ -242,7 +241,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.3',
-    hasContent: true,
     name_en: 'Yuquan Shenxiu',
     name_ja: 'Jinshū',
     name_zh: '玉泉 神秀',
@@ -281,7 +279,6 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.5',
-    hasContent: true,
     name_en: 'Zizhou Zhishen',
     name_zh: '智詵',
     name_ja: 'Shishū Chishin',

@@ -1,7 +1,6 @@
 const CnLv24MasterDb = [
   {
     id: '57.24.1',
-    hasContent: true,
     name_en: 'Tianru Weize',
     name_ja: 'Tenjo Isoku',
     name_zh: '天如惟則',

@@ -116,7 +116,7 @@ const CnLv8MasterDb = [
     name_ja: 'Haryō Kōkan',
     name_zh: '巴陵顥鋻',
     other_name_zh: '巴陵顥鑒, 巴陵顥鑑',
-    pinyin: 'Pa-ling Hao-chien',
+    name_wade_giles: 'Pa-ling Hao-chien',
     name_vi: 'Ba Lăng Hạo Giám',
     birth_death_time: ['', ''],
     records: '',

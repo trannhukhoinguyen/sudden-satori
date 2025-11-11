@@ -50,7 +50,7 @@ Nam Viện đưa cây gậy lên.
 
 Sư nói: Chỗ đúng cùm dui, gậy mù. Con sẽ cướp gậy và đánh Hòa Thượng, chớ bảo con không thưa trước.
 
-Nam Viện ném gậy nói: Ngày nay bị Tử Thuần Triết Giang mặt vàng tha cho một lần.
+Nam Viện ném gậy nói: Ngày nay bị Tử Thuần Chiết Giang mặt vàng tha cho một lần.
 
 Sư nói: Hòa thượng giống như người đi khất thực không được thực phẩm mà nói không đói.
 

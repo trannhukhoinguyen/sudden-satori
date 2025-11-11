@@ -66,6 +66,35 @@ const JpMasterDb = [
     wiki: [''],
   },
   {
+    id: '52.19.7',
+    name_en: 'Dōgen Kigen',
+    name_ja: 'Dōgen Kigen',
+    name_zh: '道元希玄',
+    name_wade_giles: '',
+    name_vi: 'ĐẠO NGUYÊN HI HUYỀN',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['26/1/1200', '22/9/1253'],
+    epoch: '',
+    records: '',
+    sect: ['Caodong'],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Tiantong Rujing'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [
+      'https://pl.wikipedia.org/wiki/D%C5%8Dgen',
+      'https://en.wikipedia.org/wiki/D%C5%8Dgen',
+      'https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_Nguy%C3%AAn_Hi_Huy%E1%BB%81n',
+      'https://terebess.hu/zen/dogen',
+      'https://terebess.hu/zen/dogen/Selfportrait.html',
+      'https://giacngo.vn/cuoc-doi-khong-huyen-thoai-cua-vi-to-su-dong-thien-noi-tieng-nuoc-nhat-post14414.html',
+    ],
+  },
+  {
     id: '54.21.4',
     name_en: 'Enni Benen',
     name_ja: 'Enni Benen',
@@ -131,7 +160,7 @@ const JpMasterDb = [
   },
   {
     id: '71.38.1',
-    hasContent: true,
+    
     name_en: 'Bankei Yotaku',
     other_name_en: 'Bankei Yōtaku, Bankei kokushi',
     name_ja: 'Bankei Yōtaku',
@@ -155,7 +184,7 @@ const JpMasterDb = [
   },
   {
     id: '72.39.1',
-    hasContent: true,
+    
     name_en: 'Hakuin Ekaku',
     name_ja: 'Hakuin Ekaku',
     name_zh: '白隠慧鶴',

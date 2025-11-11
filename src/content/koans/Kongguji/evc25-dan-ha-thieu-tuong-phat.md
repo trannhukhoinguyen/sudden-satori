@@ -7,7 +7,7 @@ categories:
 tags:
   - KHÔNG CỐC TẬP
   - TS ĐAN HÀ TỬ THUẦN
-  - TS ĐƠN HÀ TỬ THUẦN
+  - TS ĐAN HÀ TỬ THUẦN
 image: /images/koans/great-wave.webp
 ---
 

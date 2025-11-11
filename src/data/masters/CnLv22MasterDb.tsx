@@ -1,7 +1,6 @@
 const CnLv22MasterDb = [
   {
     id: '55.22.1',
-    hasContent: true,
     name_en: 'Gaofeng Yuanmiao',
     name_ja: 'Kōhō Genmyō',
     name_zh: '高峰原妙',
@@ -24,7 +23,6 @@ const CnLv22MasterDb = [
   },
   {
     id: '55.22.2',
-    hasContent: true,
     name_en: 'Huanyuan Fuyu',
     name_ja: 'Huanyuan Fuyu',
     name_zh: '還源福遇',
@@ -45,7 +43,6 @@ const CnLv22MasterDb = [
   },
   {
     id: '55.22.3',
-    hasContent: true,
     name_en: 'Ruiyan Wenbao',
     name_ja: '',
     name_zh: '方山文寶',

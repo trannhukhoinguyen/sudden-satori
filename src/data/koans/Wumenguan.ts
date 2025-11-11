@@ -54,12 +54,12 @@ export const WumenguanTitles: KoanTitle[] = [
   { title: "MỘT ĐƯỜNG CỦA CÀN PHONG", slug: "/koans/vmq48-mot-duong-cua-Can-Phong" },
 ];
 
+/*
 const Wumenguan: Koan[] = [
   {
-    id: 1,
-    title: "...",
-    main: "...",
+
   },
 ];
 
 export default Wumenguan
+*/

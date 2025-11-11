@@ -1,7 +1,6 @@
 const CnLv9MasterDb = [
   {
     id: '42.9.1',
-    hasContent: true,
     name_en: 'Shoushan Xingnian',
     other_name_en: 'Shoushan Shengnian',
     name_ja: 'Kōke Zonshō',
@@ -25,7 +24,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.2',
-    hasContent: true,
     name_en: 'Fayan Wenyi',
     name_ja: 'Hōgen Buneki',
     name_zh: '法眼文益',
@@ -51,7 +49,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.3',
-    hasContent: true,
     name_en: 'Zhimen Guangzuo',
     name_ja: 'Chimon Kōso',
     name_zh: '智門光祚',
@@ -116,7 +113,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.6',
-    hasContent: true,
     name_en: 'Lianhua Fengxiang',
     name_ja: 'Renge Hôshô',
     name_zh: '蓮華峰祥',
@@ -160,7 +156,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.8',
-    hasContent: true,
     name_en: 'Wuzu Shijie',
     name_ja: 'Goso Shikai',
     name_zh: '五祖師戒',
@@ -182,7 +177,6 @@ const CnLv9MasterDb = [
   },
   {
     id: '42.9.9',
-    hasContent: true,
     name_en: 'Fuyan Liangya',
     name_ja: 'Fuyan Liangya',
     name_zh: '福巖良雅',

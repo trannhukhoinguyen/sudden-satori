@@ -1,7 +1,6 @@
 const CnLv58MasterDb = [
   {
     id: '91.58.1',
-    hasContent: true,
     name_en: 'Deqing Yanche',
     other_name_en: 'Xuyun, Hsu Yun, Xuyun Xingche',
     name_ja: '',
@@ -30,7 +29,6 @@ const CnLv58MasterDb = [
   },
   {
     id: '91.58.2',
-    hasContent: true,
     name_en: 'Laiguo Miaoshu',
     other_name_en: 'Miaoshu Laiguo, Lai-Ko',
     name_ja: 'Raika Myōju',
@@ -58,7 +56,6 @@ const CnLv58MasterDb = [
   },
   {
     id: '91.58.3',
-    hasContent: true,
     name_en: 'Yuexi Xinyuan',
     name_ja: '',
     name_zh: '月溪心圓',

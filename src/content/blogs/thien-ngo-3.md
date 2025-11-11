@@ -524,7 +524,7 @@ Linh Mặc một chân còn ở trong cửa, một chân đã bước ra ngoài 
 
 Dưới sự kích phát của đại sư Thạch Đầu, Linh Mặc quay nhìn một cái, đã lãnh ngộ rõ ràng ‘cái này’ của mình xưa nay. Việc anh ta làm đầu tiên sau khi khai ngộ là lập tức bẻ gãy cây gậy mà mình dùng để đi hành cước - Từ đó không đi vân du tham vấn nữa, đạo tràng của Thiền sư Thạch Đầu chính là quê nhà tâm linh, chính là chỗ trở về nhà ngồi an ổn.
 
-Năm đầu niên hiệu Trinh Nguyên đời nhà Đường (785 Tây lịch), Thiền sư Linh Mặc trú trì tại đạo tràng Bạch Sa gần núi Thiên Thai ở Triết Giang, sau này quan sát sứ ở Việt Châu bị sự sắc bén của Ngài thuyết phục nên cung thỉnh Ngài đến Ngũ Tiết Sơn ở Vụ Châu (nay là Kim Hoa) hoằng hoá. Trong sử gọi Ngài là “Ngũ Tiết Linh Mặc”.
+Năm đầu niên hiệu Trinh Nguyên đời nhà Đường (785 Tây lịch), Thiền sư Linh Mặc trú trì tại đạo tràng Bạch Sa gần núi Thiên Thai ở Chiết Giang, sau này quan sát sứ ở Việt Châu bị sự sắc bén của Ngài thuyết phục nên cung thỉnh Ngài đến Ngũ Tiết Sơn ở Vụ Châu (nay là Kim Hoa) hoằng hoá. Trong sử gọi Ngài là “Ngũ Tiết Linh Mặc”.
 
 Một hôm, tại pháp đường, một vị đệ tử hỏi rằng: “Cái gì lớn hơn trời đất?”.
 

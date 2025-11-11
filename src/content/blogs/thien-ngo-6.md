@@ -187,7 +187,7 @@ Hà thời cộng đáo thiên thai lí,
 
 Thân tại phù vân xứ xứ nhàn.) (Đường, Lưu Trường Khanh)
 
-Thiền sư Vân Cái Chí Nguyên thật giống như đám mây nổi trôi tự do tự tại, từ Triết Giang trôi đến Vi Châu, rồi từ Vi Châu nhởn nhơ trôi nổi đến núi Vân Cư ở Giang Tây.
+Thiền sư Vân Cái Chí Nguyên thật giống như đám mây nổi trôi tự do tự tại, từ Chiết Giang trôi đến Vi Châu, rồi từ Vi Châu nhởn nhơ trôi nổi đến núi Vân Cư ở Giang Tây.
 
 Núi Vân Cư, ở phía nam ngọn núi Khuông Lô, phía đông cái hồ lớn ở Phàn Dương, núi non trùng điệp. Chu vi ngang dọc 300 dặm; núi non muôn vẻ, cao to sừng sững vút tận tầng xanh. Càng thần kỳ hơn đó là sau khi bạn leo lên đỉnh núi, mở ra trước mắt bạn một cánh đồng bằng phẳng bao la bát ngát, mà bốn bề đều có núi bao quanh, thiên nhiên tạo nên một thành quách bằng núi cao. Ở đây, tùng trúc gọi gió, ruộng vườn mục ca, mây trắng vỗ vào mặt, điện vũ nguy nga. Núi Vân Cư trên trời, núi ở trên trời mây; trên núi lại có núi, núi ở trên đỉnh cao. Thảo nào mấy trăm năm sau nữa, đến đời nhà Tống, khi Cư Sĩ Đông Pha đến núi Vân Cư thăm Thiền sư Phật Ấn, kinh ngạc mà rằng:
 

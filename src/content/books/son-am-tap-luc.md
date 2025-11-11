@@ -17,7 +17,7 @@ pdfUrl: /pdfs/books/son-am-tap-luc.pdf
 ## TÁC GIẢ & TÁC PHẨM
 
 Thiền sư **Vô Uấn** (1309 - 1386), tự **Thứ Trung** hiệu Không Thất. 
-Thầy họ Trần, người huyện Lâm Hải, tỉnh Triết Giang, nối pháp Thiền sư Diệu Đạo, hiệu Trúc Nguyên. 
+Thầy họ Trần, người huyện Lâm Hải, tỉnh Chiết Giang, nối pháp Thiền sư Diệu Đạo, hiệu Trúc Nguyên. 
 
 Thầy trụ trì qua các ngôi chùa nổi tiếng như: Linh Nham, Thụy Nham.
 Người học tin tưởng hướng về, tông phong chấn hưng mạnh mẽ. 
@@ -2072,7 +2072,7 @@ giam giữ ở nhà Ngũ Mạch.
 
 8560
 Hòa thượng Tuyết Nham ở Ngưỡng Sơn người Vụ Châu (nay
-thuộc vùng Kim Hoa, tỉnh Triết Giang, Trung Quốc) lập chí cao vời,
+thuộc vùng Kim Hoa, tỉnh Chiết Giang, Trung Quốc) lập chí cao vời,
 nếu không phải người hợp ý nguyện thì không qua lại. Lúc nhỏ
 đến vết kiến Thiền sư Vô Chuẩn ở Kính Sơn. Gặp lúc đúc chuông,
 Vô Chuẩn bảo thầy làm lời sớ, thầy làm bài kệ:
@@ -3169,7 +3169,7 @@ gia. Vợ ông dắt con đến báo với quan, vì thế Thọ Mai Phong chố
 từ. Quang cùng Vạn Hộ, Hoàn Giả Đô chơi với nhau rất thân,
 họ khuyên nên bỏ trốn.
 Quang liền ẩn tránh rồi tự cắt tóc, đắp y Tăng già lê, băng qua
-Triết Giang, đi đến Cụ Khu rồi lên Khuôn Phụ tham học hết những
+Chiết Giang, đi đến Cụ Khu rồi lên Khuôn Phụ tham học hết những
 bậc Tôn túc có đạo đức. Trải qua 10 năm, Quang trở về yết kiến
 Thọ, nhưng ngài đã qua đời. Nghe Hòa thượng Vô Kiến ở Vô
 Đảnh đạo hạnh thanh cao, thầy mang những điều nghi ngờ trong
@@ -3771,7 +3771,7 @@ chút ít, đòi nước nóng tắm rửa xong, thay áo viết bài kệ, rồ
 
 ***
 
-Tống Vô Dật người huyện Dư Diêu tỉnh Triết Giang, biệt hiệu là
+Tống Vô Dật người huyện Dư Diêu tỉnh Chiết Giang, biệt hiệu là
 Dong Am, tính tình rộng lượng thương người, đoan chính cương
 quyết. Từ lâu, ông theo học với hai tiên sinh Dương Liêm Phu và
 Trần Chúng Trọng. Ông hiểu rành về kinh điển, học vấn lại

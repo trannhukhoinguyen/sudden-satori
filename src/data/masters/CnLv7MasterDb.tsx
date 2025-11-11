@@ -23,7 +23,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.2',
-    hasContent: true,
     name_en: 'Heshan Wuyin',
     name_ja: 'Kasan Muin',
     other_name_ja: 'Kazan Muin',
@@ -47,7 +46,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.3',
-    hasContent: true,
     name_en: 'Xuansha Shibei',
     name_ja: 'Gensha Shibi',
     name_zh: '玄沙師備',
@@ -68,7 +66,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.4',
-    hasContent: true,
     name_en: 'Yunmen Wenyan',
     name_ja: 'Ummon Bunen',
     name_zh: '雲門文偃',
@@ -92,7 +89,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.5',
-    hasContent: true,
     name_en: 'Baofu Congzhan',
     name_ja: 'Hōfuku Jūten',
     name_zh: '保福從展',
@@ -203,7 +199,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.10',
-    hasContent: true,
     name_en: 'Ruiyan Shiyan',
     name_ja: 'Zuigan Shigen',
     name_zh: '瑞巖師彦',
@@ -225,7 +220,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.11',
-    hasContent: true,
     name_en: 'Huguo Shoucheng',
     other_name_en: 'Shoucheng Jingguo',
     name_ja: 'Gokoku Shuchō',
@@ -250,7 +244,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.12',
-    hasContent: true,
     name_en: 'Gushan Shenyan',
     name_ja: 'Gushan Shenyan',
     name_zh: '鼓山神晏',
@@ -271,7 +264,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.13',
-    hasContent: true,
     name_en: 'Cuiyan Lingcan',
     name_ja: 'Suigan Reisan',
     other_name_ja: 'Yōmyō',
@@ -293,7 +285,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.14',
-    hasContent: true,
     name_en: 'Taiyuan Fu',
     name_ja: 'Taigen Fu',
     name_zh: '翠巖令參',
@@ -314,7 +305,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.15',
-    hasContent: true,
     name_en: 'Caoshan Huixia',
     name_ja: 'Sōzan Eka',
     name_zh: '中曹山慧霞',
@@ -335,7 +325,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.16',
-    hasContent: true,
     name_en: 'Jingfeng Congzhi',
     name_ja: 'Jingfeng Congzhi',
     name_zh: '金峰從志',
@@ -356,7 +345,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.17',
-    hasContent: true,
     name_en: 'Lumen Zhenchan',
     other_name_en: 'Lumen Chuzhen',
     name_ja: 'Lumen Zhenchan',
@@ -379,7 +367,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.18',
-    hasContent: true,
     name_en: 'Heyu Kuanghui',
     name_ja: 'Heyu Kuanghui',
     name_zh: '荷玉光慧',
@@ -420,7 +407,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.20',
-    hasContent: true,
     name_en: 'Zifu Rubao',
     name_ja: 'Shifuku Nyohō',
     name_zh: '资福如宝',
@@ -441,7 +427,6 @@ const CnLv7MasterDb = [
   },
   {
     id: '40.7.21',
-    hasContent: true,
     name_en: 'Bajiao Huiqing',
     name_ja: 'Bashō Esei',
     name_zh: '芭蕉慧清',

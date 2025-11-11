@@ -24,7 +24,7 @@ const InMasterDb = [
   },
   {
     id: '88.101.2.V',
-    hasContent: true,
+    
     name_en: 'Weili Juekai',
     name_ja: 'Weili Juekai',
     name_zh: '釋惟力 覺開',

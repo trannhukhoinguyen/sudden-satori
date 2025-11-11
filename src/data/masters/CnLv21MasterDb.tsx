@@ -1,7 +1,6 @@
 const CnLv21MasterDb = [
   {
     id: '54.21.1',
-    hasContent: true,
     name_en: 'Xueyan Zuqin',
     other_name_en: 'Xueyan Huilang',
     name_ja: 'Seggan Sokin',
@@ -28,7 +27,6 @@ const CnLv21MasterDb = [
   },
   {
     id: '54.21.2',
-    hasContent: true,
     name_en: 'Lingyin Wentai',
     name_ja: 'Lingyin Wentai',
     name_zh: '靈隱文泰',
@@ -88,6 +86,30 @@ const CnLv21MasterDb = [
     disciples: [''],
     image: '/images/avatar.png',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/doan-kieu-dieu-luan-k3915.html'],
+  },
+  {
+    id: '54.21.5',
+    name_en: 'Dongling Yongyu',
+    name_ja: 'Tōryō Eiyo',
+    name_zh: '東嶺永玉',
+    other_name_zh: '東陵永璵, 東陵永興',
+    name_vi: 'ĐÔNG LĨNH VĨNH NGỌC',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1285?', '1365'],
+    records: '',
+    sect: ['Caodong'],
+    country: '🇨🇳',
+    place: 'came to Japan in 1351, in Kyoto residing in monasteries such as Tenryū-ji天龍寺 and Nanzen-ji南禅寺.',
+    teachers: ['Dongming Huiji'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [
+      'https://zen-branding.komazawa-u.ac.jp/en/contents/1569/',
+      'https://zen-branding.komazawa-u.ac.jp/en/contents/1569/',
+    ],
   },
 ]
 export default CnLv21MasterDb;
