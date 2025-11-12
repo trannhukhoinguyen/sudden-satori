@@ -21,9 +21,9 @@ Bạch Thế Tôn nguyện xin phân biệt rốt ráo tướng năm pháp tự 
 
 Phật Bảo Đại Huệ 
 lắng nghe lắng nghe Hãy kéo nhớ Nhị
-Đại Huệ bạch vật Tinh Vân lắng nghe phật
+Đại Huệ bạch vật Tinh Vân lắng nghe 
 
-Bảo Đại Huệ phân biệt rõ các tướng năm
+Phật Bảo Đại Huệ phân biệt rõ các tướng năm
 
 pháp tự tính thức hay chủng vô ngã đó là
 
