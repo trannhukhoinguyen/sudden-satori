@@ -567,6 +567,166 @@ Thế nào dòng Cam-giá?
 Xin bậc Vô thượng nói.
 </blockquote>
 
+Dòng Cam-giá là dòng Cồ-đàm. Bản chú xưa dẫn kinh Bổn Hạnh nói: Hồi kiếp ban sơ, vua Đại Mao Thảo tu thành vua tiên, bị thợ săn bắn nhầm, máu chảy trên đất sanh ra hai cây mía, hấp thụ ánh mặt trời bèn tách ra, một thành đồng nam một thành đồng nữ. Xem thấy tướng lập dòng nam tên Thiện Sanh, liền làm lễ quán lãnh làm vua dòng Cam-giá, đồng nữ tên Thiện Hiền là vương phi thứ nhất. Dòng họ Thích, Cồ-đàm tức là dòng dõi này. Đại Huệ hỏi dòng Cam-giá nhân gì mà có.
+
+<blockquote>
+
+Thế nào là tiên Trường Khổ?
+
+Kia dạy bảo thế nào? [^16]
+
+
+Như Lai vì sao hiện,
+
+Tất cả thời nơi chốn?
+
+
+Các thứ danh sắc loại.
+
+Tới thẳng tứ vây quanh.
+
+
+Vì sao không ánh mặt trời?
+
+Vì sao cầm ăn thịt?
+
+
+Ẩn các thứ môn thịt.
+
+Nhân gì mà ăn thịt?
+</blockquote>
+
+Từ câu “Ai sanh các bảo tánh” đến đây là hỏi sự bất đồng của vạn vật trong trời đất; thánh phàm khác biệt, tâm hành dục không phải một, đây đều do nhân gì mà có? 
+
+Lời hỏi không thứ lớp, nhưng ý không ngoài việc này. Nếu xem phẩm Vấn Minh trong Hoa Nghiêm, ắt là biết quy thú trong đây vậy.
+
+<blockquote>
+
+Thế nào hình nhật nguyệt?
+
+Tu-di và Liên hoa?
+
+
+Cõi thẳng tướng sú tứ
+
+Thế giới nghiêng, đứng, úp
+
+
+Như vòng trời Đế Thích
+
+Hoặc các thứ trân bảo
+
+
+Không hầu, trống lưng eo
+
+Hình trạng các thứ hoa
+
+
+Hoặc là sáng trời trăng
+
+Như thế nhiều vô lượng
+</blockquote>
+
+Đây là hỏi cõi Phật an lập hình trạng chẳng đồng.
+Phẩm Hoa Tạng thế giới diễn tả điều này rất rộng, cho nên kết luận nói:
+“Như thế nhiều vô lượng.”
+Nhân-đà-la (Indra) Trung Hoa dịch là lưới, lúc lưới đế vương, nghĩa là cung điện Đế-thích có lưới bằng các trân bảo, tủy trăm ngàn lớp mà không chướng ngại nhau, dung nhiếp xen ẩn, ánh sáng giao thoa la liệt. Thế giới cũng như vậy.
+
+<blockquote>
+
+Thế nào là Hóa Phật?
+
+Thế nào là Báo Phật?
+
+
+Thế nào Như như Phật?
+
+Thế nào Trí huệ Phật?
+</blockquote>
+
+Đây hỏi Phật chỉ là Nhất chân, vì sao mà danh nghĩa chẳng đồng?
+
+Tùy cơ ứng hiện khắp nơi là Hóa Phật. Báo đáp nhân xưa là Báo Phật. Thể tánh không hai là Chân như Phật. Bốn giác hiển chiếu là Trí huệ Phật, nhưng thể tánh như trí huệ là Pháp thân, danh nghĩa tuy bốn chủng đều bá thân.
+
+<blockquote>
+
+Thế nào ở Dục giới,
+
+Không thành Đẳng chánh giác?
+
+
+Cớ sao Sắc cứu cánh,
+
+Lìa dục được Bồ-đề?
+</blockquote>
+
+Phật đã hiện thân cùng chịu khổ như dân chúng, vì sao không ở Dục giới thành Phật mà ở cõi trời Hữu đảnh, chỗ ly dục mà thành đạo Bồ-đề?
+
+<blockquote>
+
+Thiện Thệ nhập Niết-bàn
+
+Ai sẽ giữ chánh pháp?
+
+
+Thiên sư trụ bao lâu?! [^17]
+
+Chánh pháp trụ mấy năm?
+</blockquote>
+
+Đây hỏi bậc pháp chủ trụ thế lâu mau, và sau khi diệt độ ai sẽ giữ gìn chánh pháp.
+Giữ chánh pháp là lưu truyền chánh pháp nhân tang.
+
+<blockquote>
+
+Tát-đàm cùng với kiến.
+
+Mỗi thứ lại có mấy?
+
+
+Tỳ-ni, Phần Tỳ-kheo.
+
+Thế nào? Nhân duyên gì?
+</blockquote>
+
+Đây là hỏi sự sai biệt của pháp.
+
+Tát-đàm, Trung Hoa và Ấn Độ đều nêu, Tát là biện, Đàm Trung Hoa dịch là Thí, nghĩa là Phật dùng các pháp cho khắp chúng sanh, nên gọi là Tát-đàm.
+Bốn pháp là: Pháp nhân, đối trị, đệ nhất nghĩa, thế tục.
+Tông Chỉ Quán nói rõ. Kiến là căn cơ được rõ ràng.
+Mỗi căn cơ lại có mấy loại.
+Tỳ-ni, Trung Hoa dịch là Luật. Tỳ-kheo Phần là 250 giới Tỳ-kheo.
+Hỏi Tỳ-ni như thế nào. Vì sao lại nói Phần Tỳ-kheo?
+
+<blockquote>
+
+Các Tối thẳng tứ kia.
+
+Duyên giác và Thanh văn.
+
+
+Nhân gì trăm biến dị;
+
+Thế nào trăm vô thọ?
+
+
+Thế nào thế tục thông?
+
+Thế nào xuất thế gian?
+
+
+Thế nào là Thất địa?
+
+Cúi xin vì giảng nói.
+</blockquote>
+
+Đây hỏi về người và pháp trong ba thừa nhân gì mà sai biệt.
+
+Đường dịch: “Tất cả các Phật tử, Độc giác và Thanh văn, thế nào chuyển sở y. 
+Thế nào được thế thông. Thế nào được xuất thế. 
+Lại do vì nhân gì. Tâm trụ trong Thất địa.”
+Căn cứ theo đó thì biết hai câu ‘Trăm biến dị, trăm vô thọ,’ nghĩa là Bồ-tát Sơ địa nhân gì có thể hiện thân ở trăm cõi Phật, được trăm món Tam muội.
+...
 
 <hr class="blog-rule" />
 
@@ -602,9 +762,9 @@ Xin bậc Vô thượng nói.
 
 [^15]: ⭐️ Ngụy dịch: Dạy những người nào tu, khiến trụ những pháp nào.
 
-[^16]: ⭐️
+[^16]: ⭐️ Đường dịch: Tiên nhân thường khổ hạnh, là dạy bảo những ai.
 
-[^17]: ⭐️
+[^17]: ⭐️ Hai bản dịch đều nói: Thiên sư là Thế Tôn.
 
 [^18]: ⭐️
 
