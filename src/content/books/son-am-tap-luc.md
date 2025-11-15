@@ -4,12 +4,12 @@ description: ""
 excerpt: ""
 showInHomepage: true
 authors:
-  - TS VÔ UẨN THỨ TRUNG
+  - TS THỨ TRUNG VÔ UẨN
 categories:
   - Sách
 tags:
   - LUẬN
-  - TS VÔ UẨN THỨ TRUNG
+  - TS THỨ TRUNG VÔ UẨN
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/son-am-tap-luc.pdf
 ---
@@ -4028,14 +4028,25 @@ Không biết vì sao hàng Sa môn lại xem giới là lời văn vô ích mà
 Đau xót thay!
 - Dâng hạt châu ở Ngũ Đài
 
-LỜI CUỐI SÁCH
+## LỜI CUỐI SÁCH
 
 Quyển Sơn Am Tạp Lục ghi lại những việc do ngài Vô Uấn đã nghe thấy lúc bình sanh khi Ngài ở am tranh trên núi Thụy Nham.
 Những việc ghi trong đó hoặc lành hoặc dữ, đều thẳng thắn không che giấu, đúng là quyển sách lịch sử hay của hàng xuất gia. 
 Về sự việc có liên quan đến Tông giáo thì không thể không chép, nhưng chép mà phù hợp với dư luận chung của thiên hạ thì càng đáng mừng. 
 Quyển sách này lưu hành, sẽ cùng các tác phẩm Lâm Gian Lục, Thảo Am Lục truyền lại đến vô cùng.
-Ngày trăng tròn tháng hai,
-Mùa Xuân năm Canh Ngọ, niên hiệu Hồng Vũ
-Trụ trì Chùa Thiên Hy, Thủ Nhân kính ghi
+
+> Ngày trăng tròn tháng hai, Mùa Xuân năm Canh Ngọ, niên hiệu Hồng Vũ Trụ trì Chùa Thiên Hy, **Thủ Nhân** kính ghi
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: ⭐️ <a href="/masters/Shuzhong-Wuyun" target="_blank">TS THỨ TRUNG VÔ UẨN</a>
+
+<hr class="blog-rule" />
+
+## NGUỒN
+
+> ✨ <a href="https://sachweb.com/publishview/sonamtapluc_id880/sonamtapluc_id880.aspx#" target="_blank">🔗 NXB Tổng Hợp TP.HCM</a>
 
 
