@@ -1,0 +1,22 @@
+---
+import PostImage from "../post/PostImage.astro";
+const { title, subtitle, description, images } = Astro.props;
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">{title}</h1>
+    <p class="hero-subtitle">{subtitle}</p>
+    <p class="hero-description">{description}</p>
+    <hr class="hero-rule" />
+    <div class="hero-images">
+      {
+        images.map((imageUrl, imageAlt, tagLine) => (
+          <PostImage imageUrl={imageUrl} imageAlt={imageAlt} />
+          <span class="blog-description">{tagLine}</span>
+        ))
+      }
+    </div>
+  </div>
+</section>

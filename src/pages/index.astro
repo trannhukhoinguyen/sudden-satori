@@ -7,6 +7,8 @@ import PostTags from "../components/post/PostTags.astro";
 import PostImage from "../components/post/PostImage.astro";
 import { CONTENT_MAP } from "@/utils/getMarkdownContent";
 import { toKebabCase } from "@/utils/helper";
+import Hero from "../components/ui/Hero.astro";
+import HeroCustomized from "../components/ui/HeroCustomized.astro";
 
 const maxQuantity = 6;
 const tagLine1 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -57,21 +59,53 @@ const description = "Xem " + title;
 >
   <div class="landing-page">
 
+    <!-- HeroCustomized Section -->
+    <HeroCustomized
+      title="GIỚI THIỆU HT.TS. THÍCH DUY LỰC"
+      subTitle="HT.TS. Thích Duy Lực"
+      description="HT.TS. Thích Duy Lực"
+      images={[
+        {
+          imageUrl: "/images/masters/Weili_Juekai.jpg",
+          imageAlt: "HT. Thích Duy Lực",
+          tagLine: "HT. Thích Duy Lực",
+        },
+        {
+          imageUrl: "/images/masters/Weili_Juekai.jpg",
+          imageAlt: "HT. Thích Duy Lực",
+          tagLine: "HT. Thích Duy Lực",
+        },
+      ]}
+    />
+
     <!-- Hero Section -->
-    <section class="hero">
-      <div class="hero-content">
-        <h1 class="hero-title">TỔ SƯ THIỀN</h1>
-        <p class="hero-subtitle">Tham Thoại Đầu - Khởi Nghi Tình</p>
-        <p class="hero-description">Kiến tánh thành Phật</p>
-        <hr class="hero-rule" />
-        <div class="hero-actions">
-          <a href="/sutras" class="btn btn-secondary">Xem Kinh</a>
-          <a href="/koans" class="btn btn-secondary">Xem Công án</a>
-          <a href="/blogs" class="btn btn-secondary">Xem Blog Tổ sư thiền</a>
-          <a href="#rules" class="btn btn-primary" title="10 Chú ý khi thực hành Tổ Sư Thiền">10 Chú Ý</a>
-        </div>
-      </div>
-    </section>
+    <Hero
+      title="TỔ SƯ THIỀN"
+      subTitle="Tham Thoại Đầu - Khởi Nghi Tình"
+      description="Kiến tánh thành Phật"
+      actions={[
+        {
+          href: "/sutras",
+          text: "Xem Kinh",
+          class: "btn-btn-secondary",
+        },
+        {
+          href: "/koans",
+          text: "Xem Công án",
+          class: "btn-btn-secondary",
+        },
+        {
+          href: "/blogs",
+          text: "Xem Blog Tổ sư thiền",
+          class: "btn-btn-secondary",
+        },
+        {
+          href: "#rules",
+          text: "10 Chú Ý",
+          class: "btn-primary",
+        },
+      ]}
+    />
 
     <!-- Image Section -->
     <section class="image-area">

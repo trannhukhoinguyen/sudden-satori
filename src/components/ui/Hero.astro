@@ -1,0 +1,20 @@
+---
+const { title, subtitle, description, actions } = Astro.props;
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">{title}</h1>
+    <p class="hero-subtitle">{subtitle}</p>
+    <p class="hero-description">{description}</p>
+    <hr class="hero-rule" />
+    <div class="hero-actions">
+      {
+        actions
+        && actions?.length > 0
+        && actions?.map(({ href, text, className = "btn-secondary" }) => <a href={href} class={`btn ${className}`}>{text}</a>)
+      }
+    </div>
+  </div>
+</section>
