@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS THẠCH ĐẦU HY THIÊN
+  - TS THẠCH ĐẦU HI THIÊN
   - TS THANH NGUYÊN HÀNH TƯ
 image: /images/koans/great-wave.webp
 ---
@@ -45,42 +45,42 @@ Hành Tư bảo: _Nói cho ông không ngại, chỉ sợ sau này không có ng
 
 📢 Ngài Đầu Tử nói:
 
-Thiền sư Hy Thiên ở Thạch Đầu Nam Nhạc.
-Lúc còn Sa Di, khi Lục Tổ sắp tịch, Hy Thiên hỏi Tổ: _Sau này Ngài trăm tuổi, con chưa biết nương vào ai?_
+Thiền sư HI THIÊN ở Thạch Đầu Nam Nhạc.
+Lúc còn Sa Di, khi Lục Tổ sắp tịch, HI THIÊN hỏi Tổ: _Sau này Ngài trăm tuổi, con chưa biết nương vào ai?_
 
 Tổ dạy ông: _Tầm tư di._
 
-Sau khi Tổ viên tịch, hằng ngày Hy Thiên ngồi thiền tĩnh lặng quên cả sinh hoạt.
+Sau khi Tổ viên tịch, hằng ngày HI THIÊN ngồi thiền tĩnh lặng quên cả sinh hoạt.
 
 Đệ Nhất Tòa hỏi: _Thầy ông đã tịch, ông ngồi không như thế làm gì?_
 
-Hy Thiên thưa: _Con vâng lời Lục Tổ, cho nên ngồi tĩnh lặng._
+HI THIÊN thưa: _Con vâng lời Lục Tổ, cho nên ngồi tĩnh lặng._
 
 Thủ Tọa nói: _Ông có sư huynh Hòa thượng **Hành Tư** ở tại **Thanh Nguyên** Kiết Châu, ông có nhân duyên với Ngài. Tổ dạy rất rõ, vì ông hiểu lầm._
 
-Hy Thiên nghe nói thế, đảnh lễ tháp **Lục Tổ** đến tham lễ Ngài **Hành Tư**.
+HI THIÊN nghe nói thế, đảnh lễ tháp **Lục Tổ** đến tham lễ Ngài **Hành Tư**.
 
 ***
 
 Ngài Hành Tư hỏi: _Ông từ đâu đến?_
 
-Hy Thiên thưa: _Con từ Tào Khê đến._
+HI THIÊN thưa: _Con từ Tào Khê đến._
 
 Ngài đưa phất tử lên hỏi: _Ở Tào Khê có cây này không?_
 
-> Mặc dù là treo cà chua bán cà pháo. May gặp người tinh thông, nên lừa Hy Thiên không được.
+> Mặc dù là treo cà chua bán cà pháo. May gặp người tinh thông, nên lừa HI THIÊN không được.
 
-Còn bị Hy Thiên thưa: “_Chẳng những Tào Khê mà cả Tây Thiên cũng không có_”
+Còn bị HI THIÊN thưa: “_Chẳng những Tào Khê mà cả Tây Thiên cũng không có_”
 
-> Điều này nghĩa là kỵ nhất nói rõ ra, cơ quý ở điểm hợp nhau, ngay lúc đỉnh điểm điểm thẳng vào, nên Ngài Hành Tư hỏi Hy Thiên đến Tây Thiên rồi chăng?
+> Điều này nghĩa là kỵ nhất nói rõ ra, cơ quý ở điểm hợp nhau, ngay lúc đỉnh điểm điểm thẳng vào, nên Ngài Hành Tư hỏi HI THIÊN đến Tây Thiên rồi chăng?
 
-Cũng có thể khen Hy Thiên là người thông minh, thế nên Hy Thiên thưa con có đến.
+Cũng có thể khen HI THIÊN là người thông minh, thế nên HI THIÊN thưa con có đến.
 
 Ngài Hành Tư thấy sự tình chưa hiểu nhau. Thế nên Ngài nói: “Chưa được thì nói nữa”
 
-Cho nên Hy Thiên cơ hội tương kế tựu kế thưa: “Hòa thượng chớ hoàn toàn tin vào con, Ngài cũng nên nói đôi lời”
+Cho nên HI THIÊN cơ hội tương kế tựu kế thưa: “Hòa thượng chớ hoàn toàn tin vào con, Ngài cũng nên nói đôi lời”
 
-Thấy hiện tình bất phân thắng bại, cho nên Hy Thiên có nhã ý thân thiện.
+Thấy hiện tình bất phân thắng bại, cho nên HI THIÊN có nhã ý thân thiện.
 
 > Than ôi! Người xưa tâm như gương sáng, cơ tợ châu lăn. 
 Trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp thành một.
@@ -88,7 +88,7 @@ Trong lãnh vực hỏi và đáp đem thế pháp và Phật pháp dung hợp t
 
 ***
 
-Vào đời Đường Niên Hiệu Thiên Bảo năm đầu, Hy Thiên tìm đến Hoành Sơn Nam Tự.
+Vào đời Đường Niên Hiệu Thiên Bảo năm đầu, HI THIÊN tìm đến Hoành Sơn Nam Tự.
 Phía đông của chùa có một tảng đá giống như cái đài, sư cất am trên đó.
 Từ đây, có tên là Hòa thượng Thạch Đầu.
 
@@ -154,6 +154,6 @@ Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4683-tsthachdau" target="_blank">🔗 TS THẠCH ĐẦU HY THIÊN</a>
+[^1]: ⭐️ <a href="/masters/Shitou-Xiqian" target="_blank">🔗 TS THẠCH ĐẦU HI THIÊN</a>
 
-[^2]: ⭐️ <a href="/masters/ts-thanh-nguyen-hanh-tu/" target="_blank">🔗 TS THANH NGUYÊN HÀNH TƯ</a>
+[^2]: ⭐️ <a href="/masters/Qingyuan-Xingsi" target="_blank">🔗 TS THANH NGUYÊN HÀNH TƯ</a>

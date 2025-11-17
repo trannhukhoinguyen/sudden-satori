@@ -119,4 +119,4 @@ Tuyết Đậu nói, “Thiên thượng nhân gian chìm dưới đất.”
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-don-ha-thien-nhien/" target="_blank">🔗 TS ĐAN HÀ THIÊN NHIÊN (ĐƠN HÀ THIÊN NHIÊN)</a>
+[^1]: ⭐️ <a href="/masters/Danxia-Tianran" target="_blank">🔗 TS ĐAN HÀ THIÊN NHIÊN (ĐƠN HÀ THIÊN NHIÊN)</a>

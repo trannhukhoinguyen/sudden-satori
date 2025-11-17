@@ -1717,7 +1717,7 @@ sẽ hạ sinh ngày Tuyền nói trên trời
 
 không Di Lặc dưới chồng không Di Lặc
 
-thầy Vân cưa ứng hỏi tội Đồng Sơn trên
+thầy Vân Cư ứng hỏi tội Động Sơn trên
 
 trời không Di Lặc Dưới đất không Di Lặc
 

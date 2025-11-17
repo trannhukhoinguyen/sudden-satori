@@ -142,7 +142,7 @@ Hiện giờ chẳng cần hồ trong mà cũng chẳng phải đợi trời sư
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-nam-tuyen-pho-nguyen/" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^1]: ⭐️ <a href="/masters/Nanquan-Puyuan" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>
 
 [^17]: ⭐️
 

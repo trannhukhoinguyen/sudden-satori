@@ -504,11 +504,11 @@ Mã Tổ nghiêm túc nói: “Ta đã sớm nói cho ngươi rồi, sư phụ x
 
 Vậy thì, xin Sư phụ chỉ cho con vị Tông sư có duyên với con đó đi!”
 
-Mã Tổ gật gật đầu nói: “từ đây đi lên phía Tây bảy trăm dặm, liền đến Nam Nhạc Hằng Sơn. Trên một tảng đá lớn ở Hằng Sơn, có Hoà thượng Hy Thiên đang ở trên đó. Mọi người đều gọi Ngài là Đại sư Thạch Đầu. Ngươi đi tìm ông ta, nhất định có thu hoạch lớn”.
+Mã Tổ gật gật đầu nói: “từ đây đi lên phía Tây bảy trăm dặm, liền đến Nam Nhạc Hằng Sơn. Trên một tảng đá lớn ở Hằng Sơn, có Hoà thượng HI THIÊN đang ở trên đó. Mọi người đều gọi Ngài là Đại sư Thạch Đầu. Ngươi đi tìm ông ta, nhất định có thu hoạch lớn”.
 
 Linh Mặc như con tuấn mã được cởi dây cương, ngước mặt lên trời hét một tiếng lớn rồi phủi bụi mà đi.
 
-Linh mặc đi suốt ngày đêm, năm ngày đã đi hết lộ trình bảy trăm dặm, đến được chân núi Hằng Sơn. Nhưng, trước khi tham bái Thạch Đầu Hy Thiên, anh ta tự nhủ: “Nếu như một lời tương khế, ta sẽ ở lại; Nếu như hai bên không khế hợp thì ta liền đi!”
+Linh mặc đi suốt ngày đêm, năm ngày đã đi hết lộ trình bảy trăm dặm, đến được chân núi Hằng Sơn. Nhưng, trước khi tham bái THẠCH ĐẦU HI THIÊN, anh ta tự nhủ: “Nếu như một lời tương khế, ta sẽ ở lại; Nếu như hai bên không khế hợp thì ta liền đi!”
 
 Thiền sư ngày xưa chính vì có khí khái này nên việc khai ngộ kiến tánh không thể có chút khách khí. Linh Mặc chưa đặt hành lý xuống, giày cỏ vẫn chưa cởi, lên thẳng pháp đường – tiết kiệm thời gian để lúc cần đi khỏi phải phí sức. Anh ta lễ bái rồi, chẳng nói lời nào, lẳng lặng đứng qua một bên.
 
@@ -724,7 +724,7 @@ Vu Tướng Công dường như suy nghĩ, dường như có chút tỏ ngộ, l
 
 Từ đó, ông ta đổi khuôn mặt La sát thành lòng dạ Bồ tát, chính thức lễ bái dưới toà Thiền sư Tử Ngọc, học Phật, tham thiền, dần dần ngộ đạo, hết lòng hộ trì Phật giáo.
 
-Đệ tử của Tổ sư Thạch Đầu Hy Thiên - Đại sư Dược Sơn Duy Nghiễm sau khi biết được việc này không tiếc nuối than rằng: “Aí chà, đáng tiếc, hán tử họ Vu sống vùi trong núi Tử Ngọc rồi!”.
+Đệ tử của Tổ sư THẠCH ĐẦU HI THIÊN - Đại sư Dược Sơn Duy Nghiễm sau khi biết được việc này không tiếc nuối than rằng: “Aí chà, đáng tiếc, hán tử họ Vu sống vùi trong núi Tử Ngọc rồi!”.
 
 Vu Tướng Công nghe câu này, lập tức từ Hồ Bắc đi ngược xuống Hồ Nam, lên núi Dược Sơn, đến bái kiến Đại sư Duy Nghiễm. Dược Sơn Duy nghiễm hỏi: “Nghe nói Tướng Công làm Phật sự lớn ở núi Tử Ngọc, phải không?”
 

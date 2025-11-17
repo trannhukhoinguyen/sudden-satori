@@ -111,7 +111,7 @@ Sương nói: Một hạt này từ đâu sinh ra.
 
 Quy Sơn cười lớn trở về phương trượng tối đến Thượng đường nói: Đại chúng! Trong hạt gạo có trùng.
 
-Sau đó tham vấn Đạo Ngô hỏi? Chạm mắt là bồ đề ta gọi sa di Thêm Tịnh Bình Thủy, ta nêu như trước. Sương ở nơi Đạo Ngô hai hạ rồi được thọ ấn khả bị nguy ở Cối Xương lưu lạc nơi Đàm Châu Lưu Dương Đào Gia, sáng dạo chơi chiều ở Đại Trong ban đầu (20) có vị Tăng từ Đồng Sơn đến nêu Động Sơn đầu Thu cuối Hạ huynh đệ hoặc Đông hoặc Tây, phải đi nơi vạn dặm không tấc cỏ. Hồi lâu nói: Chỉ như nơi vạn dặm không tấc cỏ làm sao đi?
+Sau đó tham vấn Đạo Ngô hỏi? Chạm mắt là bồ đề ta gọi sa di Thêm Tịnh Bình Thủy, ta nêu như trước. Sương ở nơi Đạo Ngô hai hạ rồi được thọ ấn khả bị nguy ở Cối Xương lưu lạc nơi Đàm Châu Lưu Dương Đào Gia, sáng dạo chơi chiều ở Đại Trong ban đầu (20) có vị Tăng từ Động Sơn đến nêu Động Sơn đầu Thu cuối Hạ huynh đệ hoặc Đông hoặc Tây, phải đi nơi vạn dặm không tấc cỏ. Hồi lâu nói: Chỉ như nơi vạn dặm không tấc cỏ làm sao đi?
 
 Sương nói: Ra cửa lại là cỏ. Tăng lại nêu cho Động Sơn nghe, Sơn nói: Đây là lời của 1500 thiện tri thức. Lại trong nước Đại Đường có được mấy người.
 

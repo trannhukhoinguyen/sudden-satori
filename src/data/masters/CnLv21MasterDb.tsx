@@ -23,7 +23,6 @@ const CnLv21MasterDb = [
     reference: ['https://vi.wikipedia.org/wiki/Tuy%E1%BA%BFt_Nham_T%E1%BB%95_Kh%C3%A2m',
       'https://terebess.hu/zen/mesterek/XueyanZuqin.html', 'http://www.thuongchieu.net/index.php/phapthoai/suphu/4162-thiensutuyetkham'
     ],
-    youtubeId: ['KpoUcjH7bRM'],
   },
   {
     id: '54.21.2',
@@ -110,6 +109,29 @@ const CnLv21MasterDb = [
       'https://zen-branding.komazawa-u.ac.jp/en/contents/1569/',
       'https://zen-branding.komazawa-u.ac.jp/en/contents/1569/',
     ],
+  },
+  {
+    id: '54.21.6',
+    name_en: 'Lanxi Daolong',
+    name_ja: 'Rankei Dōryu',
+    other_name_ja: 'Dōryu Daikaku',
+    name_zh: '蘭溪道隆',
+    name_vi: 'Lan Khê Ðạo Long',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1213', '24/7/1278'],
+    epoch: '',
+    records: '',
+    sect: ['Linji', 'Yangqi'],
+    country: '🇨🇳',
+    place: '-',
+    teachers: ['Wuming Huixin'],
+    successors: [''],
+    disciples: [
+      'Yakuō Tokken', 'Gio', 'Chōkei', 'Muin Emban', 'Mukyū Tokusen', 'Chidon Kūshō', 'Tōkei Tokugo'
+    ],
+    image: '/images/avatar.png',
+    reference: ['https://pl.wikipedia.org/wiki/Lanxi_Daolong'],
   },
 ]
 export default CnLv21MasterDb;

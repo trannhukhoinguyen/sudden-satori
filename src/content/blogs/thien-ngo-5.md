@@ -393,11 +393,11 @@ Thiện Đạo cảm thấy kỳ lạ: rõ ràng là Sư phụ gọi ta, làm sa
 
 “Con muốn thọ giới không phải là có việc sao!” Thiền sư Khoáng lại nói: “việc tâm chưa sạch, tích tụ thành núi. Con đã xuất gia nhiều năm trong chùa, lại đủ mười tám ròi, có thể tùy nghi một tí, cho phép con đi thọ giới thôi”.
 
-Trong lòng Thiện Đạo vui mừng reo thành tiếng, lập tức chạy về liêu phòng của mình chuẩn bị hành lý. Sáng sớm ngày hôm sau, ông liền đến Sư phụ từ biệt ra đi. Thiền sư Khoáng dặn đi dặn lại rằng: “lúc con thọ giới trở về, nhất định phải đến Nam Nhạc Hằng Sơn để lễ bái Sư phụ của ta – lão Hòa thượng Thạch Đầu Hy Thiên. Ơ đó tự sẽ có điều tốt cho con”.
+Trong lòng Thiện Đạo vui mừng reo thành tiếng, lập tức chạy về liêu phòng của mình chuẩn bị hành lý. Sáng sớm ngày hôm sau, ông liền đến Sư phụ từ biệt ra đi. Thiền sư Khoáng dặn đi dặn lại rằng: “lúc con thọ giới trở về, nhất định phải đến Nam Nhạc Hằng Sơn để lễ bái Sư phụ của ta – lão Hòa thượng THẠCH ĐẦU HI THIÊN. Ơ đó tự sẽ có điều tốt cho con”.
 
-Thiện Đạo thọ giới xong, nghe lời sư phụ dặn dò, đến tham yết Tổ sư Đại sư Thạch Đầu. Đại sư Thạch Đầu Hy Thiên rất hoan hỉ với đồ tôn này, bèn giữ ông ở lại bên cạnh, dẫn dắt thường xuyên.
+Thiện Đạo thọ giới xong, nghe lời sư phụ dặn dò, đến tham yết Tổ sư Đại sư Thạch Đầu. Đại sư THẠCH ĐẦU HI THIÊN rất hoan hỉ với đồ tôn này, bèn giữ ông ở lại bên cạnh, dẫn dắt thường xuyên.
 
-Một hôm, lúc Thiện Đạo theo hầu Thạch Đầu Hy Thiên vân du trên núi, Đại sư Thạch Đầu bỗng nhiên chỉ cây trước mặt hỏi: “Con đến chặt ngã cây trước mặt cho ta, để nó khỏi cản đường ta.”
+Một hôm, lúc Thiện Đạo theo hầu THẠCH ĐẦU HI THIÊN vân du trên núi, Đại sư Thạch Đầu bỗng nhiên chỉ cây trước mặt hỏi: “Con đến chặt ngã cây trước mặt cho ta, để nó khỏi cản đường ta.”
 
 Tổ sư Thiền Tông xưa, nói im động tĩnh, không gì là không phải thiền; trong một hôm mượn việc chỉ vật, tùy lúc khai thị, thiền yếu. Đại sư Thạch Đầu bảo Thiện Đạo chặt cây, chính là gợi ý việc trước mắt. Thiện Đạo ngẩng đầu đưa mắt, nhìn cây nhỏ trước mặt, nói: “Con không đem giới đao đi theo”.
 
@@ -407,7 +407,7 @@ Giới đao là một trong 8 vật tùy thân Tỳ Kheo mang theo để dùng v
 
 “Đầu kia”, trên biểu hiện giống như đang nói cán dao, trên thực tế lại như “cái này, cái kia, bên này bên kia” mà Thiền sư thường nói, những thứ này đều đại biểu cho tự tánh, Phật tánh … không thể nói, không hình không tướng. Cho nên, Thiện Đạo cũng đang thỉnh Tổ sư Thạch Đầu chỉ thị tự tánh.
 
-Thạch Đầu Hy Thiên lại nói: “con dùng đầu kia làm gì?”.
+THẠCH ĐẦU HI THIÊN lại nói: “con dùng đầu kia làm gì?”.
 
 Đầu này, đầu kia đều là tác dụng của tự tánh, hà tất phải thêm phân biệt sai quấy? Mà tự tánh, chính ngay trong những sự việc hằng ngày như “rút dao, chặt cây” thể hiện ra tác dụng của nó; tự tánh chính ngay trong tác dụng, không thể đem nó chặt thành hai được!
 

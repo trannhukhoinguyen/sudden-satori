@@ -47,13 +47,16 @@ Ngài Lâm Tuyền nói, còn có chỗ dụng tâm thì rơi vào sai lầm, d�
 
 ## TỤNG CỔ
 
-> Lúc mây trắng che núi xanh xưa,
-> 
-> Trúc vương lan khói bày mấy cành.
-> 
-> Thất trống đêm khuya trăng thu chiếu,
-> 
-> Nhạn đã về xa gần cánh ba.
+<blockquote>
+
+Lúc mây trắng che núi xanh xưa,
+
+Trúc vương lan khói bày mấy cành.
+
+Thất trống đêm khuya trăng thu chiếu,
+
+Nhạn đã về xa gần cánh ba.
+</blockquote>
 
 ## BÌNH XƯỚNG
 

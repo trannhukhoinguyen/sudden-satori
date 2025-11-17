@@ -966,7 +966,7 @@ việc hướng vào trong vô tận rồi tuyên bố
 
 tính tàu chẳng phải tránh lộn vậy
 
-Tra cước bị tăng hội Thiện sư Vân cưa
+Tra cước bị tăng hội Thiện sư Vân Cư
 
 ứng vừa mới sinh Cái gì Chẳng biết có
 

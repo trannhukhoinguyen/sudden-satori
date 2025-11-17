@@ -73,4 +73,4 @@ Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem �
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-lam-te-nghia-huyen/" target="_blank">🔗 TS LÂM TẾ NGHĨA HUYỀN</a>
+[^1]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">🔗 TS LÂM TẾ NGHĨA HUYỀN</a>

@@ -14,11 +14,15 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Sự đã đạt đến chỗ rốt ráo, phải nhọc đến chống gậy trúc, mang giày cỏ. Lý đạt đến chỗ huyền vi, đâu cần bình bát trăng tích trượng mây. Có người không ra khỏi cửa biết hết việc thiên hạ. Ông lại biết chăng?
+> Sự đã đạt đến chỗ rốt ráo, phải nhọc đến chống gậy trúc, mang giày cỏ. 
+Lý đạt đến chỗ huyền vi, đâu cần bình bát trăng tích trượng mây. 
+Có người không ra khỏi cửa biết hết việc thiên hạ. Ông lại biết chăng?
 
-BẢN TẮC
+## CỬ - TẮC
 
-Ngài Đầu Tử cũ, Tăng hỏi Hòa thượng Thượng Lam Siêu, sau khi Thiện Tài gặp Ngài Văn Thù vì sao phải đi về phương nam.
+📢 Ngài Đầu Tử cử:
+
+Tăng hỏi Hòa thượng Thượng Lam Siêu, sau khi Thiện Tài gặp Ngài Văn Thù vì sao phải đi về phương nam.
 
 Lam nói: Người học phải nương vào nhập thất.
 
@@ -37,9 +41,10 @@ Ngài im lặng giây lâu nói:
 Tóc bạc cả đầu xa chốn thẳm,
 Nửa đêm thông mây vào phố chợ.
 
-BÌNH XƯỚNG
+## BÌNH XƯỚNG
 
-Ngài Đầu Tử nói:
+📢 Ngài Đầu Tử nói:
+
 Không đi vạn dặm, không đọc vạn quyển sách. Chẳng xem kinh thi công bộ, báo rằng thấy nghe đều quý, lượng trí rộng lớn, mỏi là năng lực. Thế pháp còn huống nữa bậc nhân mà giải thoát diệu đạo vô thượng thì gian xuất thế gian chốn thừa của ta ư? Nếu chẳng phải đủ thần thông du hý, phẫn tâm tam muội, được đại tổng trí, có đại oai lực, thì làm sao có thể trải qua một trăm mười một môn thành để tham vấn năm mươi lăm bậc thiện tri thức.
 
 Thiện Tài lúc mới sanh, nhà ông có trân bảo bị ẩn giấu đều xuất hiện, cho nên đặt tên như thế.
@@ -58,16 +63,24 @@ Tuy Ngài Văn Thù chỉ dạy tham vấn khắp nơi, thật ra môn đại gi
 
 Lại hỏi Thiện Tài có bậc tri thức nào không tham vấn. Nếu có bản lĩnh gặp mặt trình nhau, thì không cần im lặng giây lâu. Tuy là tóc bạc cả đầu tạm xa chốn rừng núi, nửa đêm xuyên mây dạo phố chợ, tình cờ gặp nhau bàn luận việc gì. Mặc dù biển xanh biến đổi, cuối cùng chẳng giao tiếp với anh.
 
-TỤNG CỔ
+## TỤNG CỔ
 
-Mặt trời lên chiếu khắp muôn nơi.
-Côn Lôn khởi nguồn cho các dòng.
-Núi xuân mây quyện gió bạc ngàn.
-Nhạn về phương nam trời sang thu.
+<blockquote>
 
-BÌNH XƯỚNG
+Mặt trời lên chiếu khắp muôn nơi
 
-Ngài Đầu Tử nói: Trong pháp môn giải thoát ngàn ánh sáng chiếu soi. Trong tấm bồ đề một điểm khó dối.
+Côn Lôn khởi nguồn cho các dòng
+
+Núi xuân mây quyện gió bạc ngàn
+
+Nhạn về phương nam trời sang thu
+</blockquote>
+
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử nói: 
+
+Trong pháp môn giải thoát ngàn ánh sáng chiếu soi. Trong tấm bồ đề một điểm khó dối.
 
 Mênh mông thay! Rộng lớn thay! Mặt trời trí huệ xoay vần sáng ngời rực rỡ. Chốn không sâu xa rộng lớn, hiển hách mù trùm khắp cao thấp, chiếu soi xưa nay không gián đoạn.
 
@@ -75,32 +88,9 @@ Côn Lôn là nơi bất cạn nguồn của trăm sông. Hoa Tạng là nguyên
 
 Nhạn mùa đông về nam thừa hỏi khắp nơi tri thức. Gió thu theo nhịp dao động càn khôn. Bấy giờ nếu không dùng ngôn ngữ thì làm sao nói?
 
-Gót chân chạm đất khó mỏi tim,
-Chớ theo muôn sông cùng nghìn núi.
-
-## CỬ - TẮC
-
-📢 Ngài Đầu Tử cử:
-
+> Gót chân chạm đất khó mỏi tim,
 > 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
-## TỤNG CỔ
-
-<blockquote>
-
-
-</blockquote>
-
-## BÌNH XƯỚNG
-
-📢 Ngài Lâm Tuyền nói:
-
-
+> Chớ theo muôn sông cùng nghìn núi.
 
 <hr class="blog-rule" />
 

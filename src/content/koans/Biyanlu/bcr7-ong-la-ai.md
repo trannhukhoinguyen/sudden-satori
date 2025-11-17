@@ -161,7 +161,7 @@ Giống như Tàng chủ Khánh hỏi, “Thế nào là “ba bực sóng cao c
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-phap-nhan-van-ich/" target="_blank">🔗 TS PHÁP NHÃN VĂN ÍCH</a>
+[^1]: ⭐️ <a href="/masters/Fayan-Wenyi" target="_blank">🔗 TS PHÁP NHÃN VĂN ÍCH</a>
 
 [^18]:
 

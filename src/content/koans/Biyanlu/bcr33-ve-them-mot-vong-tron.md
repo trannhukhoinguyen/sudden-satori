@@ -124,9 +124,9 @@ Nếu như người ta là một ông tăng, người ta hẳn sẽ không có k
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-tran-thao/" target="_blank">THƯỢNG THƯ TRẦN THÁO</a>
+[^1]: ⭐️ <a href="/masters/Muzhou-Chencao" target="_blank">THƯỢNG THƯ TRẦN THÁO</a>
 
-[^2]: ⭐️ <a href="/masters/ts-tu-phuc/" target="_blank">🔗 TS TỪ PHÚC</a>
+[^2]: ⭐️ <a href="/masters/Zifu-Rubao" target="_blank">🔗 TS TƯ PHƯỚC NHƯ BẢO</a>
 
 [^6]: ⭐️ Mục Châu Đạo Minh
 

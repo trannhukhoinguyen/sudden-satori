@@ -102,9 +102,12 @@ Phật nói đó là thông còn lại ông mới hội ta.
 📢 Ngài Lâm Tuyền nói: Hòa thượng lại hội chăng?
 
 📢 Ngài Vân Cái Bổn nói: Phật gọi như thế, tiên nhơn đáp như thế. Vậy thế nào là thông kia?
+
 Ngài im lặng giây lâu nói:
-Thiếu nữ đã về nơi xa xôi,
-Anh chàng ngơ ngẩn còn ho lửa.
+
+> Thiếu nữ đã về nơi xa xôi,
+> 
+> Anh chàng ngơ ngẩn còn ho lửa.
 
 📢 Ngài Lâm Tuyền nói:
 

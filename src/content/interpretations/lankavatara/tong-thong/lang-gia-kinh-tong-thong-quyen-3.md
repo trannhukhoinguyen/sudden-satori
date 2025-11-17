@@ -8108,7 +8108,7 @@ thấy Động Sơn trầm ngâm ngày nha mối với
 
 xà Lê thừa đương cái miệng ấy cần thẩm
 
-sự tinh tế Đồng Sơn vẫn còn hoài nghi về
+sự tinh tế Động Sơn vẫn còn hoài nghi về
 
 sau loại qua nước thấy bóng của mình
 

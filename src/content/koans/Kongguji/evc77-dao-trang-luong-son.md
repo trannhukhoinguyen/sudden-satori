@@ -14,21 +14,33 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Thông thường có tướng đều thuộc hư vọng. Chỉ ra được các tướng chẳng phải tướng, may mà chỉ có Hòa thượng Lương Sơn ta. Sợ ông không tin lại mời nói xem.
+> Thông thường có tướng đều thuộc hư vọng. 
+Chỉ ra được các tướng chẳng phải tướng, may mà chỉ có Hòa thượng Lương Sơn ta. 
+Sợ ông không tin lại mời nói xem.
 
-BẢN TẮC
-Hòa thượng Minh An Đại Dương hỏi Lương Sơn: Thế nào là đạo tràng vô tướng?
-Lương Sơn chỉ tượng Quan Âm nói: Tượng này là Ngô Sử Sĩ vẽ.
+## CỬ - TẮC
 
-Đại Dương định hỏi thêm.
-Lương Sơn liền nói tiếp: Cái này có tướng, thế nào là vô tướng?
+📢 Ngài Đầu Tử cử:
+
+Hòa thượng Minh An Đại Dương hỏi Lương Sơn: **Thế nào là đạo tràng vô tướng?**
+
+Lương Sơn chỉ tượng Quan Âm nói: **Tượng này là Ngô Sử Sĩ vẽ**
+
+Đại Dương định hỏi thêm. Lương Sơn liền nói tiếp: **Cái này có tướng, thế nào là vô tướng?**
+
 Đại Dương tỉnh ngộ ngay lời này, lễ bái liền trở về chỗ đứng.
 
-Lương Sơn hỏi: Sao không nói một câu.
-Đại Dương thưa: Nói thì không ngại, chỉ sợ ghi lại trên giấy.
-Sơn cười vang: Lời này còn ghi trên đá. Quả nhiên sau này khắc lại trên bia.
+Lương Sơn hỏi: **Sao không nói một câu**
 
-Ngài Đầu Tử niêm: Song đạo xưa nay người thực hành thật gian nan. Lên núi dường như chẳng còn khó khăn, người đến đó không đúng lúc, nếu không hỏi người đi trước thì không thể vào được.
+Đại Dương thưa: **Nói thì không ngại, chỉ sợ ghi lại trên giấy.**
+
+Sơn cười vang: **Lời này còn ghi trên đá. Quả nhiên sau này khắc lại trên bia.**
+
+## BÌNH XƯỚNG
+
+📢 Ngài Đầu Tử nói:
+
+Song đạo xưa nay người thực hành thật gian nan. Lên núi dường như chẳng còn khó khăn, người đến đó không đúng lúc, nếu không hỏi người đi trước thì không thể vào được.
 
 Cho nên ngộ thì chính mình, nhưng ấn chứng phải nhớ thầy, thay nhau ấn chứng nối tiếp huệ mạng Phật. Người này cùng đường nên hỏi lối đi, chúng ta phải tận lực chỉ ra dấu tích. Vách núi cao không có lối vào, không còn sức để tiến và thoái.
 
@@ -52,43 +64,30 @@ Tuy là đạo từ ngàn xưa đến nay, người thực hành khó lường t
 
 Phải có sự hiểu biết tư chất vượt trội hơn người, đó là ưu thế của bậc thầy mẫu mực tiếp nối mạng mạch Phật pháp. Nhờ vào sự chỉ dạy thì hiểu biết thông suốt, nhưng hiện tại thì mất cơ trí. Thế nên mong nhờ sự hướng dẫn.
 
-TỤNG CỔ
-Đường cùng vực thẳm hỏi sơn ông.
-Chi chi sườn tây dẫn núi đông.
-Muốn đến sương mù đỉnh núi dày đặc.
-Quay lại mặt trời chiều đỉnh đầu.
-
-Ngài Lâm Tuyền nói: Cây khô trước núi tuy nhiều đường sai khác, trong diện không vướng vốn không nhầm lẫn. Muốn thấy sắc nghe tiếng, há không quên đầu nhận bóng.
-
-Cho nên nhiều lần thưa hỏi, tha thiết tham vấn, may gặp tông sư không quên phó chúc. Tiếp nối huệ mạng Phật làm ruộng cốt trong Phật pháp. Vì tất cả chúng sanh mở trói buộc để sáng tâm thấy tánh.
-
-Cho nên đưa tay tiếp độ không tiếc đôi mày. Nhiều lần đưa ra chỉ dạy cho người khác, tuy là sườn đông núi nam tam phần bờ này ranh giới kia. Nên có kiếp xưa thời nay, chánh diện đã đi, vì bản thể chân thật không nhận một mảy trần.
-
-Chỉ thông một chút thì tỏ cội nguồn, trên lộ trình tiến bước, mây mù ngập lối. Chợt nắng lên mây tan nhận ra diện mục, chỗ sâu kín không bày khì phách không tỳ vết. Bất ngờ bản thể chiếu sáng thoát xa căn trần. Nửa đêm mặt trời xuất hiện, bao nhiêu vầng hồng hiện trong ánh bình minh. Lại thấy chăng? Muốn tư duy về ngàn non vạn nước.
-
-## CỬ - TẮC
-
-📢 Ngài Đầu Tử cử:
-
-> 
-
-## BÌNH XƯỚNG
-
-📢 Ngài Đầu Tử nói:
-
-
 ## TỤNG CỔ
 
 <blockquote>
 
+Đường cùng vực thẳm hỏi sơn ông
 
+Chi chi sườn tây dẫn núi đông
+
+Muốn đến sương mù đỉnh núi dày đặc
+
+Quay lại mặt trời chiều đỉnh đầu.
 </blockquote>
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
+Cây khô trước núi tuy nhiều đường sai khác, trong diện không vướng vốn không nhầm lẫn. Muốn thấy sắc nghe tiếng, há không quên đầu nhận bóng.
 
+Cho nên nhiều lần thưa hỏi, tha thiết tham vấn, may gặp tông sư không quên phó chúc. Tiếp nối huệ mạng Phật làm ruộng cốt trong Phật pháp. Vì tất cả chúng sanh mở trói buộc để sáng tâm thấy tánh.
+
+Cho nên đưa tay tiếp độ không tiếc đôi mày. Nhiều lần đưa ra chỉ dạy cho người khác, tuy là sườn đông núi nam tam phần bờ này ranh giới kia. Nên có kiếp xưa thời nay, chánh diện đã đi, vì bản thể chân thật không nhận một mảy trần.
+
+Chỉ thông một chút thì tỏ cội nguồn, trên lộ trình tiến bước, mây mù ngập lối. Chợt nắng lên mây tan nhận ra diện mục, chỗ sâu kín không bày khì phách không tỳ vết. Bất ngờ bản thể chiếu sáng thoát xa căn trần. Nửa đêm mặt trời xuất hiện, bao nhiêu vầng hồng hiện trong ánh bình minh. Lại thấy chăng? Muốn tư duy về ngàn non vạn nước.
 
 <hr class="blog-rule" />
 

@@ -50,17 +50,19 @@ Sư thường bảo với đồ chúng học rằng: Một hạt muối là hế
 
 Sau này, nghe thiên phương Nam hưng thịnh, Sư tức giận bèn nói: Người xuất gia ngàn kiếp học các loại Phật pháp, muôn kiếp học các tạng kinh điển, không được thành Phật, không được thành đạo, không được thành pháp, không được thành Tăng. Nay ta đi khắp thiên hạ làm thang tầm người, này ta tính đến phía nam học thiền.
 
-Thế là Sư quay gánh Thanh Long Sớ Sao khỏi đất Thục, lên đường đến Lễ Dương, Sư gặp một bà già bán bánh. Lúc dừng chân nghỉ mua bánh điểm tâm, bà già hỏi Sư: Đại đức gánh đây là vạn tự gì?
+Thế là Sư quay gánh Thanh Long Sớ Sao khỏi đất Thục, lên đường đến Lễ Dương, Sư gặp một bà già bán bánh. 
 
-Đức Sơn đáp: Thanh Long Sớ Sao.
+Lúc dừng chân nghỉ mua bánh điểm tâm, bà già hỏi Sư: **Đại đức gánh đây là vạn tự gì?**
 
-Bà hỏi: Ngài giảng kinh gì?
+Đức Sơn đáp: **Thanh Long Sớ Sao.**
 
-Đức Sơn đáp: Giảng Kinh Kim Cang.
+Bà hỏi: **Ngài giảng kinh gì?**
 
-Bà già hỏi: Tôi có một câu hỏi Ngài, nếu đáp được thì tôi cúng bánh điểm tâm. Nếu không đáp được, xin mời đi nơi khác.
+Đức Sơn đáp: **Giảng Kinh Kim Cang.**
 
-Kinh Kim Cang nói: Tâm quá khứ không thể có, tâm hiện tại không hiện hữu, tâm vị lai thì chưa đến. Chưa biết Thượng tọa điểm tâm nào?
+Bà già hỏi: **Tôi có một câu hỏi Ngài, nếu đáp được thì tôi cúng bánh điểm tâm. Nếu không đáp được, xin mời đi nơi khác.**
+
+Kinh Kim Cang nói: **Tâm quá khứ không thể có, tâm hiện tại không hiện hữu, tâm vị lai thì chưa đến. Chưa biết Thượng tọa điểm tâm nào?**
 
 Đức Sơn không đáp được.
 

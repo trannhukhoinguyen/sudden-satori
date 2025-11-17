@@ -11,7 +11,7 @@ const CnLv18MasterDb = [
     birth_death_time: ['1107/1118', '1186'],
     epoch: '',
     records: '',
-    sect: [],
+    sect: ['Linji', 'Yangqi'],
     country: '🇨🇳',
     place: '-',
     teachers: ['Yingan Tanhua'],

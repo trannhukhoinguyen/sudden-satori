@@ -89,6 +89,6 @@ Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-tam-thanh-hue-nhien/" target="_blank">🔗 TS TAM THÁNH HUỆ NHIÊN</a>
+[^1]: ⭐️ <a href="/masters/Sansheng-Huiran" target="_blank">🔗 TS TAM THÁNH HUỆ NHIÊN</a>
 
 [^2]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>

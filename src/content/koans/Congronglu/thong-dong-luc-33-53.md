@@ -233,7 +233,7 @@ Vân Am nói: Điều này rất dể hiểu. Lúc ấy có Đồng Tử vừa q
 
 Vân Am lại hỏi: Thế nào là Phật tánh của ông?
 
-Đồng Sơn nhìn hai bên xụ mặt liền đi.
+Động Sơn nhìn hai bên xụ mặt liền đi.
 
 Am nói: không phải phiền não trụ địa, nếu có thể hiểu thì lập tức thành Phật, Đồng Tử thất vọng và suy nghĩ, không khác vô minh, Tăng trụ địa phiền não, nghiệp thức mịt mờ cũng đồng.
 
@@ -901,7 +901,7 @@ Sơn: Nửa chịu nửa không chịu Tăng: Sao không chịu hoàn tòan.
 
 Sơn: Nếu ta chịu hoàn toàn thì cô phụ Tiên sư
 
-Vạn Tùng nói: Vân Nham ở với Bách Trượng 20 năm lại nối pháp nơi Dược Sơn. Đồng Sơn phát khởi tung tích Nam Tuyền, lại nối pháp với Vân Nham giống như chăm mạ trở thành Tăng tốt tươi, thầm có căn khí linh lợi, được Phù Dung ca ngợi trọng tông phái. Đến Thiên Đồng Văn vẻ mới hoàn bị, cái nào là văn vẻ đầy đủ. Tụng rằng:
+Vạn Tùng nói: Vân Nham ở với Bách Trượng 20 năm lại nối pháp nơi Dược Sơn. Động Sơn phát khởi tung tích Nam Tuyền, lại nối pháp với Vân Nham giống như chăm mạ trở thành Tăng tốt tươi, thầm có căn khí linh lợi, được Phù Dung ca ngợi trọng tông phái. Đến Thiên Đồng Văn vẻ mới hoàn bị, cái nào là văn vẻ đầy đủ. Tụng rằng:
 
 Đâu biết nói như thế
 

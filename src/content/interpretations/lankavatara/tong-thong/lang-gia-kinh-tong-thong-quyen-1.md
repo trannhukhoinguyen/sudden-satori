@@ -9022,7 +9022,7 @@ thế gian nhận đến xuất thế gian thượng
 
 thượng đeo chẳng phải như sau là phải
 
-các tổ Đồng Sơn dậy chú biết có người
+các tổ Động Sơn dậy chú biết có người
 
 hướng thượng phật mới có phần Đối Đáp
 

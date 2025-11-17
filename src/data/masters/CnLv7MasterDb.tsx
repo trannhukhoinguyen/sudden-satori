@@ -202,7 +202,7 @@ const CnLv7MasterDb = [
     name_en: 'Ruiyan Shiyan',
     name_ja: 'Zuigan Shigen',
     name_zh: '瑞巖師彦',
-    name_vi: 'Thụy Nham Sư Ngạn',
+    name_vi: 'THỤY NHAM SƯ NGẠN',
     other_name_vi: 'Thoại Nham Sư Ngạn',
     nickname_vi: '',
     worship_tower: '',
@@ -216,7 +216,7 @@ const CnLv7MasterDb = [
     successors: [''],
     disciples: [],
     image: '',
-    reference: ['https://nigioikhatsi.net/thien/le-lay-chinh-minh.html', '/masters/ts-thuy-nham-su-ngan/'],
+    reference: ['https://nigioikhatsi.net/thien/le-lay-chinh-minh.html'],
   },
   {
     id: '40.7.11',

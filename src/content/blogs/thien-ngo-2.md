@@ -324,7 +324,7 @@ Sử sách ngàn năm ghi công đức, bia miệng ngàn đời ở lòng ngư�
 
 ### TẮC 7: THIỀN NHÂN LANH LỢI
 
-Vào thời kỳ nhà Đường hưng thịnh, bắt đầu từ khi tông phong mạnh mẽ to lớn của Lục Tổ Huệ Năng như bão táp đột tiến, lôi cuốn cả nước đi theo. Lúc Mã Tổ Đạo Nhất đang phát triển thiền phong mạnh mẽ ở Giang Tây, “Tuyển Phật Trường” đang phát đạt, Đại sư Thạch Đầu Hy Thiên mặc nhiên sừng sững trên đỉnh Nam Nhạc Hành Sơn, biển rộng thuyền là đường, núi cao người là đỉnh. Vị triết nhân vĩ đại này rõ ràng đem thiền đặt ở một cao độ chưa từng có.
+Vào thời kỳ nhà Đường hưng thịnh, bắt đầu từ khi tông phong mạnh mẽ to lớn của Lục Tổ Huệ Năng như bão táp đột tiến, lôi cuốn cả nước đi theo. Lúc Mã Tổ Đạo Nhất đang phát triển thiền phong mạnh mẽ ở Giang Tây, “Tuyển Phật Trường” đang phát đạt, Đại sư THẠCH ĐẦU HI THIÊN mặc nhiên sừng sững trên đỉnh Nam Nhạc Hành Sơn, biển rộng thuyền là đường, núi cao người là đỉnh. Vị triết nhân vĩ đại này rõ ràng đem thiền đặt ở một cao độ chưa từng có.
 
 Cùng lúc đó, tại kinh đô phồn hoa - Trường An, có một vị đạo cao đức trọng, Ngài đã có gần một trăm năm tu tập thiền định, nhặt Thái sơn như Hồng Mao, vốc nước lên được trăng sáng, đem sương thiền ngọt ngào nhẹ nhàng rải khắp đầu đường cuối ngõ, cho đến trong hoàng cung quý phủ. Ngài chính là Quốc sư Huệ Trung ở Nam Dương.
 

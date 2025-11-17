@@ -184,4 +184,4 @@ Tiếp được con rùa mù thì làm được gì?
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/ts-cau-chi/" target="_blank">🔗 TS CÂU CHI</a>
+[^1]: ⭐️ <a href="/masters/Jinhua-Juzhi" target="_blank">🔗 TS CÂU CHI</a>

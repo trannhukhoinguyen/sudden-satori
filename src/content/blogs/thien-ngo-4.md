@@ -86,7 +86,7 @@ Câu trả lời của Lão Tăng vi diệu đến cao tuyệt: “Xuân thu kh�
 
 Hay cho hai chữ ‘không biết’, trong nháy mắt, gở ngàn cân trong vô hình, hoà sấm chớp ở chín tầng mây.
 
-Biết thì nói biết, không biết thì nói không biết, có cái biết, ắt có cái không biết, mà không biết tức là không có cái gì mà không biết – Tác phẩm ‘Bát Nhã Vô Tri Luận’ rất huy hoàng nổi tiếng của Pháp sư Tăng Triệu đã giải thích điều này rất tinh diệu. Tông Tào Động là một tông trong Thiền tông rất coi trọng kinh giáo lý luận, từ Tổ sư gia của Thiền sư Động Sơn - Đại sư Thạch Đầu Hy Thiên đã rất để tâm nghiên cứu “Triệu Luận”. Do đó, Động Sơn cũng thâm đắc tam muội ở trong đó, hỏi rằng: “Tại sao không biết?”.
+Biết thì nói biết, không biết thì nói không biết, có cái biết, ắt có cái không biết, mà không biết tức là không có cái gì mà không biết – Tác phẩm ‘Bát Nhã Vô Tri Luận’ rất huy hoàng nổi tiếng của Pháp sư Tăng Triệu đã giải thích điều này rất tinh diệu. Tông Tào Động là một tông trong Thiền tông rất coi trọng kinh giáo lý luận, từ Tổ sư gia của Thiền sư Động Sơn - Đại sư THẠCH ĐẦU HI THIÊN đã rất để tâm nghiên cứu “Triệu Luận”. Do đó, Động Sơn cũng thâm đắc tam muội ở trong đó, hỏi rằng: “Tại sao không biết?”.
 
 Lão Tăng nói: “Ta không phải từ trời người đến”.
 

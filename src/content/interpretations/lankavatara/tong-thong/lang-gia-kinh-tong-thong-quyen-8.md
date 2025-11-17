@@ -5293,7 +5293,7 @@ trí dường như nhu từ xưa Phật tổ còn khó
 
 nhắn địa ngục thiên đường há mục như
 
-ngay chỗ đáp của tổ Đồng Sơn thì chẳng
+ngay chỗ đáp của tổ Động Sơn thì chẳng
 
 nhận không bóng thiên đường địa ngục mà
 

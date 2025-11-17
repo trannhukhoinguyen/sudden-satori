@@ -469,7 +469,7 @@ Tuyết Đậu nói: Lúc ấy mới lễ bái, giả sử đánh gãy xương s
 
 Nếu không phải Hoát Công, thật khó gánh vác.
 
-Phật Quả trình bày: Người bên cạnh đủ mắt lại nói: Chỉ biết có 1 mà không biết có 2 chổ thấy của Vạn Tùng không phải vậy. Phật quả nói: Người bên cạnh Đồng Sơn tuy đủ mắt, cũng không thấy đâu đúc vuông. Vì Động Sơn cố gánh vác trách nhiệm, vu oan Nham Đầu cần phát minh lúc đầu lễ bái, có quyền có thực, quả nhiên lửa đến trên đầu Nham Đầu, nhanh chóng xông vào nói: Lão Động Sơn này không biết tốt xấu, lúc đó ta một tay nâng lên, một tay đè xuống, mới bắt đầu đốt đèn, ăn cơm, 2 nhà rõ ràng không biết.
+Phật Quả trình bày: Người bên cạnh đủ mắt lại nói: Chỉ biết có 1 mà không biết có 2 chổ thấy của Vạn Tùng không phải vậy. Phật quả nói: Người bên cạnh Động Sơn tuy đủ mắt, cũng không thấy đâu đúc vuông. Vì Động Sơn cố gánh vác trách nhiệm, vu oan Nham Đầu cần phát minh lúc đầu lễ bái, có quyền có thực, quả nhiên lửa đến trên đầu Nham Đầu, nhanh chóng xông vào nói: Lão Động Sơn này không biết tốt xấu, lúc đó ta một tay nâng lên, một tay đè xuống, mới bắt đầu đốt đèn, ăn cơm, 2 nhà rõ ràng không biết.
 
 Hòa Thượng Bảo Minh Dung làm bài tụng rằng: “Suối bằng thỏ chạy phóng qua chim xanh, bài tụng này là hỏi về lối vào đạo, vừa nâng lên thì cám dổ đôi mắt”. Bài tụng này nói Nham Sơn hét Nham Đầu lễ bái, tay độc đoạt người đến mua. Bài tụng này nói Động Sơn cố chấp vào giá cả lợi lộc, cân lạng làm sao chưa rõ ràng? Chính là Vạn Tùng hỏi, muốn được cân lạng rõ ràng chăng?
 

@@ -6,7 +6,7 @@ categories:
   - Công án
 tags:
   - KHÔNG CỐC TẬP
-  - TS 
+  - TS ĐẠI TÙY PHÁP CHÂN
 image: /images/koans/great-wave.webp
 ---
 
@@ -14,7 +14,7 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Tuy gặp nhau nói chuyện, nhưng ngại người bên cạnh cười.
+> Tuy gặp nhau nói chuyện, nhưng ngại người bên cạnh cười.
 Thôi, chớ có khoe khoang “hiểu tâm biết bụng”, đều chỉ là thấy cảnh sanh tình.
 Lại bỏ hết được chăng?
 
@@ -22,11 +22,11 @@ Lại bỏ hết được chăng?
 
 📢 Ngài Đầu Tử cử:
 
->  Hòa thượng Đại Tùy đang đi với một vị Tăng, thấy một con rùa.
-> 
->  Tăng hỏi Ngài: **Tất cả chúng sanh da bọc xương, vì sao chúng sanh này xương bọc da?**
->
->  Ngài để giày cỏ trên lưng con rùa. Vị Tăng không đáp được.
+Hòa thượng Đại Tùy [^1] đang đi với một vị Tăng, thấy một con rùa.
+
+Tăng hỏi Ngài: **Tất cả chúng sanh da bọc xương, vì sao chúng sanh này xương bọc da?**
+
+Ngài để giày cỏ trên lưng con rùa. Vị Tăng không đáp được.
 
 ## BÌNH XƯỚNG
 
@@ -86,4 +86,4 @@ Nên biết về sau thật khó gặp.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Dasui-Fazhen" target="_blank">🔗 TS ĐẠI TÙY PHÁP CHÂN</a>
