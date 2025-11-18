@@ -137,7 +137,7 @@ Song các ông phải đưa mắt mà nhìn cho nhanh mới được, nếu như
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Panshan-Baoji" target="_blank">🔗 TS BÀN SƠN BẢO TÍCH</a>
+[^1]: ⭐️ <a href="/masters/Panshan-Baoji" target="_blank">📌 TS BÀN SƠN BẢO TÍCH</a>
 
 [^14]: ⭐️
 

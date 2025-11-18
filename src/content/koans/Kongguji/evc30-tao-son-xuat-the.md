@@ -101,4 +101,4 @@ Lâm Tế nói: Tuy thế sau này nếu phân tích rõ ràng phải thận tr�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>

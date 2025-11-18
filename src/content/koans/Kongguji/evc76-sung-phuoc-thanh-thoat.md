@@ -92,6 +92,6 @@ Tuy người đã cạn lời, không tỏ mà thông đường thật là khó 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

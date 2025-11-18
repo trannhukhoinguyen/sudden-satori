@@ -136,4 +136,4 @@ Nếu gặp sư núi tôi đây hẳn đã không như thế. “Trường sa v�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam" target="_blank">🔗 TS TRƯỜNG SA CẢNH SẦM</a>
+[^1]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4834-tscanhsam" target="_blank">📌 TS TRƯỜNG SA CẢNH SẦM</a>

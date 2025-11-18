@@ -113,6 +113,6 @@ Thuận tay cầm lấy nhắc cân xa rồi lặng. Chớ tìm trên cán cân,
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Dongshan-Shouchu'" target="_blank">🔗 TS ĐỘNG SƠN THỦ SƠ</a>
+[^1]: ⭐️ <a href="/masters/Dongshan-Shouchu'" target="_blank">📌 TS ĐỘNG SƠN THỦ SƠ</a>
 
 

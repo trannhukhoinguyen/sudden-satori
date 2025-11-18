@@ -106,4 +106,4 @@ Chớ để trói nhốt hám thiết lửa.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>

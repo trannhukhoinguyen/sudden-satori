@@ -203,7 +203,7 @@ Tuy rằng Trường Khánh, Huyền Sa và Vân Môn có thể bắt được r
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^1]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">📌 TS TUYẾT PHONG NGHĨA TỒN</a>
 
 [^3]: ⭐️
 

@@ -118,7 +118,7 @@ Tuyết Đậu nói, “ Kỳ thực việc này làm sao có thể phân phó �
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>
 
 [^5]: ⭐️
 

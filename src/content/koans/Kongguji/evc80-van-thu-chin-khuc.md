@@ -100,6 +100,6 @@ Cần phải biết thành. Thiên Phong đứng ngoài mây. Trước kia sươ
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS </a>
 
 

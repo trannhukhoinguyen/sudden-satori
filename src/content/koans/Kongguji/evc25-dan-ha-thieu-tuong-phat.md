@@ -108,4 +108,4 @@ Tiếc thay bỉ mày mê lần lượt che.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Danxia-Zichun" target="_blank">🔗 TS ĐAN HÀ TỬ THUẦN</a>
+[^1]: ⭐️ <a href="/masters/Danxia-Zichun" target="_blank">📌 TS ĐAN HÀ TỬ THUẦN</a>

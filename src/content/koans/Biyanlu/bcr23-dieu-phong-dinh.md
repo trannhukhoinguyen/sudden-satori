@@ -98,8 +98,8 @@ Các ông có biết không? Mù!
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baofu-Congzhan" target="_blank">🔗 TS BẢO PHÚC TÙNG TRIỂN</a>
+[^1]: ⭐️ <a href="/masters/Baofu-Congzhan" target="_blank">📌 TS BẢO PHÚC TÙNG TRIỂN</a>
 
-[^2]: ⭐️ <a href="/masters/Changqing-Huileng" target="_blank">🔗 TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
+[^2]: ⭐️ <a href="/masters/Changqing-Huileng" target="_blank">📌 TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
 
-[^3]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
+[^3]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">📌 TS KÍNH THANH ĐẠO PHÓ</a>

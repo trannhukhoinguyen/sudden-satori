@@ -60,10 +60,15 @@ Huyền Giác nói: Ông hiểu được một chút.
 📢 Ngài Lâm Tuyền nói: Nhờ họa mà được phước. Lại nói nếu ở trong đây thượng lượng được thì biết Huyền Sa.
 
 Lâm Tuyền nói, muốn biết chăng?
+
 Tăng hỏi Pháp Nhãn: Quốc sư gọi thị giả ý gì?
+
 Pháp Nhãn nói: Hãy đi lúc khác đến.
+
 Lâm Tuyền nói: Cảm ơn Hòa thượng không tiếc lòng từ bi.
+
 Vân Cư Tích nói: Pháp Nhãn nói như thế, rõ ý Quốc sư hay không rõ ý Quốc sư.
+
 Lâm Tuyền nói: Không Sanh chẳng hiểu ý chỉ kim cang. Làm cho khắp nơi khởi nghi.
 
 Tăng hỏi Triệu Châu: **Quốc sư gọi thị giả có ý gì?**
@@ -128,6 +133,6 @@ Con cóc! Con cóc! Chỉ có lắm lời, ta nói long vương không phải no
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Nanyang-Huizhong" target="_blank">🔗 TS NAM DƯƠNG HUỆ TRUNG</a>
+[^1]: ⭐️ <a href="/masters/Nanyang-Huizhong" target="_blank">📌 TS NAM DƯƠNG HUỆ TRUNG</a>
 
 

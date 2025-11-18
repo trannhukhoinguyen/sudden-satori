@@ -98,4 +98,4 @@ Hải được mưa pháp, thấm nhuần người hữu tình. Tây bắc mây 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunju-Daoying" target="_blank">🔗 TS VÂN CƯ ĐẠO ƯNG</a>
+[^1]: ⭐️ <a href="/masters/Yunju-Daoying" target="_blank">📌 TS VÂN CƯ ĐẠO ƯNG</a>

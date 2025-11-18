@@ -123,4 +123,4 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">🔗 TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: ⭐️ <a href="/masters/Mazu-Daoyi" target="_blank">📌 TS MÃ TỔ ĐẠO NHẤT</a>

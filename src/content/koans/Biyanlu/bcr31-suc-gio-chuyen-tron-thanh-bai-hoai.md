@@ -221,11 +221,11 @@ Dù cho là tay chuyên gia đi nữa, lúc không có bệnh cũng nên tìm ch
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4775-tsbaotriet" target="_blank">🔗 TS MA CỐC BẢO TRIỆT</a>
+[^1]: ⭐️ <a href="/masters/Mayu-Baoche" target="_blank">📌 TS MA CỐC BẢO TRIỆT</a>
 
-[^2]: ⭐️ <a href="/masters/Nanquan-Puyuan" target="_blank">🔗 TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^2]: ⭐️ <a href="/masters/Nanquan-Puyuan" target="_blank">📌 TS NAM TUYỀN PHỔ NGUYỆN</a>
 
-[^3]: ⭐️ <a href="/masters/Zhangjing-Huaihui" target="_blank">🔗 TS CHƯƠNG KÍNH HOÀI UẨN / HOÀI HUY</a>
+[^3]: ⭐️ <a href="/masters/Zhangjing-Huaihui" target="_blank">📌 TS CHƯƠNG KÍNH HOÀI UẨN / HOÀI HUY</a>
 
 http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355
 

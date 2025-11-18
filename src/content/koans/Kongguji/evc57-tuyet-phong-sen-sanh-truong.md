@@ -88,6 +88,6 @@ Tuy núi vắng thẳm kết mây giăng. Đáng tiếc núi xuân chợt tỏa 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

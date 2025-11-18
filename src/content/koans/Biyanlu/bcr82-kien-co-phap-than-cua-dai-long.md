@@ -90,4 +90,4 @@ Cuối cùng, các ông phải làm sao mới được cơ? “Nước có hiế
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Lanxi-Daolong" target="_blank">🔗 TS LAN KHÊ ĐẠI LONG</a>
+[^1]: ⭐️ <a href="/masters/Lanxi-Daolong" target="_blank">📌 TS LAN KHÊ ĐẠI LONG</a>

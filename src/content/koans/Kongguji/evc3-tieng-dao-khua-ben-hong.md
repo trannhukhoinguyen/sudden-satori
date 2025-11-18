@@ -16,18 +16,18 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 > Đồng hành nhưng không thân, chính mình tùy nghi.
-> Không cần mắt thấy tai nghe, biết rõ theo thanh đuổi sắc.
-> Hãy nói điểm nào là thủ đoạn cho người?
+Không cần mắt thấy tai nghe, biết rõ theo thanh đuổi sắc.
+Hãy nói điểm nào là thủ đoạn cho người?
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Dược Sơn [^1] đi dạo núi với Vân Nham [^2], tiếng đao khua bên hông.
->
-> Vân Nham hỏi tiếng gì thế?
->
-> Dược Sơn rút đao ra làm thế chém.
+Dược Sơn [^1] đi dạo núi với Vân Nham [^2], tiếng đao khua bên hông.
+
+Vân Nham hỏi tiếng gì thế?
+
+Dược Sơn rút đao ra làm thế chém.
 
 ## BÌNH XƯỚNG
 
@@ -59,13 +59,13 @@ Nếu ông không tin, hãy xem bài tụng ngài Đầu Tử hết lòng khen n
 
 <blockquote>
   
-> Một mình Đại bàng qua ao trời.
->
-> Sư tử sanh con xóa dấu mòn.
->
-> Chốn Côn Lôn cũng phải trở về.
->
-> Một tiếng rống thu phục tất cả.
+Một mình Đại bàng qua ao trời
+
+Sư tử sanh con xóa dấu mòn
+
+Chốn Côn Lôn cũng phải trở về
+
+Một tiếng rống thu phục tất cả
 </blockquote>
   
 ## BÌNH XƯỚNG
@@ -82,13 +82,10 @@ Không bị trói buộc vọng cảnh sáu trần.
 
 Thế nên Dược Sơn dùng duyên dưỡng tử hết mình giúp đỡ. Dù ở đảo Côn Lôn cũng tìm cách về.
 Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chuyển, chính lúc ấy làm sao biết? Chao ôi!
-
-<blockquote>
   
-Tuy tuốt gươm ra khó vào vỏ.
-
-Chớ để cô phụ ngài Văn Thù.
-</blockquote>
+> Tuy tuốt gươm ra khó vào vỏ.
+>
+> Chớ để cô phụ ngài Văn Thù.
   
 <hr class="blog-rule" />
 
@@ -100,6 +97,6 @@ Chớ để cô phụ ngài Văn Thù.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">🔗 TS DƯỢC SƠN DUY NGHIỄM</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">📌 TS DƯỢC SƠN DUY NGHIỄM</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">🔗 TS VÂN NHAM ĐÀM THẠNH</a>
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">📌 TS VÂN NHAM ĐÀM THẠNH</a>

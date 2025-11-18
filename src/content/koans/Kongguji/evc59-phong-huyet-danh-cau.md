@@ -96,6 +96,6 @@ Lâm Tuyền vì phương tiện làm thông dịch, theo văn cảnh nên truy�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

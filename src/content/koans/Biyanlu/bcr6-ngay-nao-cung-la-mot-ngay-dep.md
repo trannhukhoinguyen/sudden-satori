@@ -192,4 +192,4 @@ Tuyết Đậu lại nói, “Đừng động đậy!” Động đậy thì nh�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>

@@ -91,6 +91,6 @@ Dù cho hồ đá nổi giận, mặc dù thế sự cầm sáo nào, trụ cộ
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

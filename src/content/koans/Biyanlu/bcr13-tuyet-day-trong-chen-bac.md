@@ -155,7 +155,7 @@ Cuối bài tụng Tuyết Đậu phải khai mở ra lối thoát cho một câ
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baling-Haojian" target="_blank">🔗 TS BA LĂNG HẠO GIÁM</a>
+[^1]: ⭐️ <a href="/masters/Baling-Haojian" target="_blank">📌 TS BA LĂNG HẠO GIÁM</a>
 
 [^14]: ⭐️
 

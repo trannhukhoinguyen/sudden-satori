@@ -111,6 +111,6 @@ Thiền tăng thông minh chớ theo tiếng đuổi sắc hướng bên này b�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

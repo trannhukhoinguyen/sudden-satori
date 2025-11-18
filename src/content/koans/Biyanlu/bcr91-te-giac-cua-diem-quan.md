@@ -94,4 +94,4 @@ Thử nói xem, rốt cuộc là như thế nào? Các ông cử chỉ nên vô 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4779-thiensutean" target="_blank">🔗 TS DIÊM QUAN TỀ AN</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4779-thiensutean" target="_blank">📌 TS DIÊM QUAN TỀ AN</a>

@@ -104,4 +104,4 @@ Muốn tìm đúng thôi, thôi chẳng đến.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunju-Daoying" target="_blank">🔗 TS VÂN CƯ ĐẠO ƯNG</a>
+[^1]: ⭐️ <a href="/masters/Yunju-Daoying" target="_blank">📌 TS VÂN CƯ ĐẠO ƯNG</a>

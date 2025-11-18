@@ -141,6 +141,6 @@ Hãy thỉnh thiên tạng đủ mắt thường ngoạn thử xem. Lại hay ch
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">🔗 TS DƯỢC SƠN DUY NGHIỄM</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">📌 TS DƯỢC SƠN DUY NGHIỄM</a>
 
-[^2]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4794-sadicao" target="_blank">🔗 TS SA DI CAO</a>
+[^2]: ⭐️ <a href="http://www.thuongchieu.net/index.php/phapthoai/suphu/4794-sadicao" target="_blank">📌 TS SA DI CAO</a>

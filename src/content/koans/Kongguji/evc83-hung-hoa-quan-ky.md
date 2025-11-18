@@ -122,6 +122,6 @@ Cho nên nói, tối sáng xen nhau, công bằng càng khó giác. Hết sức 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Xinghua-Cunjiang" target="_blank">🔗 TS HƯNG HÓA TỒN TƯƠNG</a>
+[^1]: ⭐️ <a href="/masters/Xinghua-Cunjiang" target="_blank">📌 TS HƯNG HÓA TỒN TƯƠNG</a>
 
 

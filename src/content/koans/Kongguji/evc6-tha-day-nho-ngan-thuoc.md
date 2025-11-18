@@ -213,6 +213,6 @@ Tụng bản lão tụng:
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jiashan-Shanhui" target="_blank">🔗 TS GIÁP SƠN THIỆN HỘI</a>
+[^1]: ⭐️ <a href="/masters/Jiashan-Shanhui" target="_blank">📌 TS GIÁP SƠN THIỆN HỘI</a>
 
-[^2]: ⭐️ <a href="/masters/Chuanzi-Dechengh" target="_blank">🔗 TS THUYỀN TỬ ĐỨC THÀNH</a>
+[^2]: ⭐️ <a href="/masters/Chuanzi-Dechengh" target="_blank">📌 TS THUYỀN TỬ ĐỨC THÀNH</a>

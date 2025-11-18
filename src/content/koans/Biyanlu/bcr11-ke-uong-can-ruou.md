@@ -222,6 +222,6 @@ Hiện giờ còn ai muốn dơ móng vuốt ra chăng? Tôi đánh cho đấy!
 
 ## GHI CHÚ
 
-[^0]: ⭐️ <a href="/masters/Huangbo-Xiyun" target="_blank">🔗 TS HOÀNG BÁ HI VẬN</a>
+[^0]: ⭐️ <a href="/masters/Huangbo-Xiyun" target="_blank">📌 TS HOÀNG BÁ HI VẬN</a>
 
 [^1]:

@@ -87,6 +87,6 @@ Như Lai vàng theo lời này thọ nhận bình. Không bao lâu Như Lai thà
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

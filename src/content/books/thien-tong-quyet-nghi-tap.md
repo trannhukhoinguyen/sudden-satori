@@ -762,6 +762,14 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 > (**HẾT**)
 
+> (Ban Dịch Thuật Hán Tạng Pháp Âm)
+
+<hr class="blog-rule" />
+
+## NGUỒN
+
+> ✨ <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">thuvienhoasen</a>
+
 <hr class="blog-rule" />
 
 ## GHI CHÚ
@@ -926,10 +934,3 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 [^80]: ⭐️ **Như như**: chân thật tướng của vạn sự vạn vật bình đẳng không hai, gọi là như như. Đoạn tế tâm yếu ghi: “Vô tâm là không có tất cả tâm. Thể như như bên trong như gỗ đá không lay không động; bên ngoài như hư không không bít không ngại, không năng sở không chỗ nơi, không tướng mạo không được mất”. (Theo TĐTTHV, tr. 541).
 
-> (Ban Dịch Thuật Hán Tạng Pháp Âm)
-
-<hr class="blog-rule" />
-
-## NGUỒN
-
-> ✨ <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">thuvienhoasen</a>

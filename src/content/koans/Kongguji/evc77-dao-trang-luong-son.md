@@ -99,6 +99,6 @@ Chỉ thông một chút thì tỏ cội nguồn, trên lộ trình tiến bư�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

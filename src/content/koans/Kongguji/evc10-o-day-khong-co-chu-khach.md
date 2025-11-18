@@ -101,4 +101,4 @@ Sờ tay lên mặt nói: "_Hãy dừng lại!_"
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jiashan-Shanhui" target="_blank">🔗 TS GIÁP SƠN THIỆN HỘI</a>
+[^1]: ⭐️ <a href="/masters/Jiashan-Shanhui" target="_blank">📌 TS GIÁP SƠN THIỆN HỘI</a>

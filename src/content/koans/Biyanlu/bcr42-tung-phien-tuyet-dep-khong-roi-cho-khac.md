@@ -158,4 +158,4 @@ Ngay cả Bích Nhãn Hồ tăng (Bồ Đề Đạt Ma) mà cũng khó phân bi�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4782-banguan" target="_blank">🔗 TS BÀNG LONG UẨN</a>
+[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4782-banguan" target="_blank">📌 TS BÀNG LONG UẨN</a>

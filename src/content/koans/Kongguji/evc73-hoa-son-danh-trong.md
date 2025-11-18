@@ -151,6 +151,6 @@ Ngài chỉ dạy ngay cho Trí Thông thế nên Sư nhận được. Không ch
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Heshan-Wuyin" target="_blank">🔗 TS HÒA SƠN VÔ ÂN </a>
+[^1]: ⭐️ <a href="/masters/Heshan-Wuyin" target="_blank">📌 TS HÒA SƠN VÔ ÂN </a>
 
 

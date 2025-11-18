@@ -114,4 +114,4 @@ Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Mingzhao-Deqian" target="_blank">🔗 TS MINH CHIÊU ĐỨC KHIÊM</a>
+[^1]: ⭐️ <a href="/masters/Mingzhao-Deqian" target="_blank">📌 TS MINH CHIÊU ĐỨC KHIÊM</a>

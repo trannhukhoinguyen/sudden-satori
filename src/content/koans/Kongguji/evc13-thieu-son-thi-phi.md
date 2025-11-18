@@ -164,4 +164,4 @@ Như muôn động ngàn non xanh biếc chập chùng. Buộc chặt đôi già
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS THIỀU SƠN HOÀNG PHỔ (韶山寰普)</a>
+[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS THIỀU SƠN HOÀNG PHỔ (韶山寰普)</a>

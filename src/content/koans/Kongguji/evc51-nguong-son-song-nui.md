@@ -112,4 +112,4 @@ Kệ
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Nanta-Guangyong" target="_blank">🔗 TS NAM THÁP QUANG DŨNG</a>
+[^1]: ⭐️ <a href="/masters/Nanta-Guangyong" target="_blank">📌 TS NAM THÁP QUANG DŨNG</a>

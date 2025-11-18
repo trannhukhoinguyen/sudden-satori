@@ -21,4 +21,4 @@ pdfUrl: /pdfs/speeches/Quy-Son-ngu-luc.pdf
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">🔗 TS QUY SƠN LINH HỰU</a>
+[^1]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">📌 TS QUY SƠN LINH HỰU</a>

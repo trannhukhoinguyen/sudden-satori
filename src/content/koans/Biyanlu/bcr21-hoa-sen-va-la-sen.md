@@ -107,6 +107,6 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Zhimen-Guangzuo" target="_blank">🔗 TS TRÍ MÔN QUANG TỘ</a>
+[^1]: ⭐️ <a href="/masters/Zhimen-Guangzuo" target="_blank">📌 TS TRÍ MÔN QUANG TỘ</a>
 
 [^2]: **Vương lão**: người Trung Hoa đa số có họ Trương, Lý hay Vương. Thiền Sư Nam Tuyền Phổ Nguyện họ Vương và hay tự xưng là Vương Lão Sư. Ngày nay trong Thiền thường dùng chữ Vương Lão Sư để chỉ bậc thiện tri thức.

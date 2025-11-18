@@ -20,11 +20,13 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đầu Tử cử:
 
-> Hòa thượng U Thế đánh chuông thượng đường, đại chúng vừa vân tập, Ngài hỏi: Ai là người đánh chuông?
+Hòa thượng U Thế đánh chuông thượng đường, đại chúng vừa vân tập, Ngài hỏi: Ai là người đánh chuông?
+
 Tăng thưa: Duy Na.
+
 U Thế nói: Lại gần đây.
-Tăng đến gần.
-U Thế đánh, rồi về phương trượng nằm.
+
+Tăng đến gần. U Thế đánh, rồi về phương trượng nằm.
 
 ## BÌNH XƯỚNG
 
@@ -67,13 +69,16 @@ Lại biết nhà đông không rõ, nhà tây chịu tai ương chăng? Lời t
 
 ## TỤNG CỔ
 
-> Gặp nhau trên đường hỏi nguyên nhân
->
-> Tắc lòng chẳng thuận báo đáp người
-> 
-> Dù về phương trượng dối dạy người
-> 
-> Cuối cùng tự ngượng ngùng hổ thẹn
+<blockquote>
+
+Gặp nhau trên đường hỏi nguyên nhân
+
+Tắc lòng chẳng thuận báo đáp người
+
+Dù về phương trượng dối dạy người
+
+Cuối cùng tự ngượng ngùng hổ thẹn
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -107,4 +112,4 @@ Lại biết nhà đông không rõ nhà tây nên chịu tai ương chăng? Ch�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS U THÊ ĐẠO U</a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS U THÊ ĐẠO U</a>

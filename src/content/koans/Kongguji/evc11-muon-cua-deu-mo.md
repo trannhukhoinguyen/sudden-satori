@@ -135,10 +135,10 @@ Nếu hội được như thế thì tốt lành làm sao!
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yungai-Zhiyuan" target="_blank">🔗 TS VÂN CÁI CHÍ NGUYÊN (雲蓋志元)</a>
+[^1]: ⭐️ <a href="/masters/Yungai-Zhiyuan" target="_blank">📌 TS VÂN CÁI CHÍ NGUYÊN (雲蓋志元)</a>
 
-⭐️ <a href="https://nigioikhatsi.net/thien/khong-ai-biet-ong-ta.html" target="_blank">🔗 TS VÂN CÁI CHÍ NGUYÊN</a>
+⭐️ <a href="https://nigioikhatsi.net/thien/khong-ai-biet-ong-ta.html" target="_blank">📌 TS VÂN CÁI CHÍ NGUYÊN</a>
 
-[^2]: ⭐️ <a href="/masters/Shishuang-Qingzhu" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^2]: ⭐️ <a href="/masters/Shishuang-Qingzhu" target="_blank">📌 TS THẠCH SƯƠNG KHÁNH CHƯ</a>
 
-⭐️ <a href="https://terebess.hu/zen/mesterek/ShishuangQingzhu.html" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+⭐️ <a href="https://terebess.hu/zen/mesterek/ShishuangQingzhu.html" target="_blank">📌 TS THẠCH SƯƠNG KHÁNH CHƯ</a>

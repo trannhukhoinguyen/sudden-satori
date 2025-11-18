@@ -1,5 +1,6 @@
 ---
 title: "CHÁNH PHÁP NHÃN TẠNG"
+meta_title: "Chánh Pháp Nhãn Tạng"
 description: ""
 excerpt: ""
 showInHomepage: true
@@ -27,14 +28,14 @@ Ngày nay, Phật Giáo Thiền Tào Động của sư là tông phái đông ng
 
 <hr class="blog-rule" />
 
-## GHI CHÚ
-
-[^1]: ⭐️ <a href="/masters/Dogen-Kigen" target="_blank">TS ĐẠO NGUYÊN HI HUYỀN</a>
-
-<hr class="blog-rule" />
-
 ## NGUỒN
 
 > ✨ <a href="https://thuvienhoasen.org/a28880/chanh-phap-nhan-tang" target="_blank">🔗 thuvienhoasen</a>
 
 > ✨ <a href="https://gnosisvn.org/2021/10/14/chanh-phap-nhan-tang/" target="_blank">🔗 gnosisvn.org</a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: ⭐️ <a href="/masters/Dogen-Kigen" target="_blank">TS ĐẠO NGUYÊN HI HUYỀN</a>

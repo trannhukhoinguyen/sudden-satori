@@ -1,6 +1,6 @@
 ---
 title: "TỌA THIỀN DỤNG TÂM KÝ"
-meta_title: "TỌA THIỀN DỤNG TÂM KÝ"
+meta_title: "Tọa Thiền Dụng Tâm Ký"
 description: ""
 excerpt: ""
 showInHomepage: true
@@ -20,8 +20,6 @@ pdfUrl: /pdfs/books/toa-thien-dung-tam-ky.pdf
 ## GIỚI THIỆU THIỀN SƯ OÁNH SƠN
 
 Thiền sư Oánh Sơn là Tổ khai sơn chùa Tổng Trì núi Chư Nhạc, là cháu nối pháp đời thứ tư của Thiền sư Đạo Nguyên khai Tổ tông Tào Động ở Nhật Bản. Sư tục danh là Thiệu Cẩn, họ Đằng Nguyên, hiệu Oánh Sơn, sanh ngày mùng 8 tháng 10 niên hiệu Văn Vĩnh thứ năm. Thuở nhỏ, Sư có tư cách lạ thường, lớn lên không thích ở trần tục. Năm mười ba tuổi, Sư xuất gia với Hòa thượng Cô Vân chùa Vĩnh Bình
-
-
 
 ## TIỂU SỬ
 
@@ -120,10 +118,10 @@ Sau khi xuất định, không để ý mà vẫn hiện oai nghi, được vậ
 
 ## NGUỒN
 
-> https://www.thienlam.org/news/HT-Thich-Thanh-Tu-22/Toa-Thien-Dung-Tam-Ky-126/
+> ✨ <a href="https://www.thienlam.org/news/HT-Thich-Thanh-Tu-22/Toa-Thien-Dung-Tam-Ky-126/" target="_blank">thienlam.org</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://vi.m.wikipedia.org/wiki/O%C3%A1nh_S%C6%A1n_Thi%E1%BB%87u_C%E1%BA%A9n" target="_blank">🔗 TS OÁNH SƠN THIỆU CẨN</a>
+[^1]: ⭐️ <a href="/masters/Keizan-Jokin" target="_blank">📌 TS OÁNH SƠN THIỆU CẨN</a>

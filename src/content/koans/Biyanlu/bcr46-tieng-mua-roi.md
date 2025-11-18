@@ -102,6 +102,6 @@ Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
+[^1]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">📌 TS KÍNH THANH ĐẠO PHÓ</a>
 
 [^3]: ⭐️

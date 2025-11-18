@@ -22,12 +22,11 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đầu Tử cử:
 
-> Hòa thượng Đức Sơn thượng đường nói: Đi đến tận cùng, đến nỗi ba đời chư Phật miệng treo trên vách. 
-> 
-> Còn có một người cười ha hả. Nếu biết được người này, thì việc tham học đã xong.
->
-> Ngài Đầu Tử niêm: Tuy nhiên như thế, Đức Sơn giống như giấu hết trăng trời Sở, nhưng vẫn còn sao đất Hán.
+Hòa thượng Đức Sơn thượng đường nói: Đi đến tận cùng, đến nỗi ba đời chư Phật miệng treo trên vách. 
 
+Còn có một người cười ha hả. Nếu biết được người này, thì việc tham học đã xong.
+
+Ngài Đầu Tử niêm: Tuy nhiên như thế, Đức Sơn giống như giấu hết trăng trời Sở, nhưng vẫn còn sao đất Hán.
 
 ## BÌNH XƯỚNG
 
@@ -63,33 +62,39 @@ Tham cứu cho tường tận rõ ràng, không nên vội vàng.
 
 ## TỤNG CỔ
 
-> Người mù vào đường tối gặp ghềnh
-> 
-> Trời lặn bỏ lau tạm lên lại
-> 
-> Đâu giống ngồi đã nửa đêm
-> 
-> Khói cho vua Thuấn nhường ngôi nghỉ
-> 
-> Cần biết hoa nở chẳng liên quan cậy
-> 
-> Lúc không hành cước đã chạm đường
-> 
-> Hôm qua gió nổi đường Trường An
-> 
-> Vốn là Côn Luân trong bản đồ
+<blockquote>
+
+Người mù vào đường tối gặp ghềnh
+
+Trời lặn bỏ lau tạm lên lại
+
+Đâu giống ngồi đã nửa đêm
+
+Khói cho vua Thuấn nhường ngôi nghỉ
+
+Cần biết hoa nở chẳng liên quan cậy
+
+Lúc không hành cước đã chạm đường
+
+Hôm qua gió nổi đường Trường An
+
+Vốn là Côn Luân trong bản đồ
+</blockquote>
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
-> Mây đen chẳng biết trời sớm tối
-> 
-> Tuyết dày khó dò đường thấp cao
-> 
-> Chánh trung diệu hiệp ai hiểu được
-> 
-> Muốn sống ngàn núi chỉ mình mê
+<blockquote>
+
+Mây đen chẳng biết trời sớm tối
+
+Tuyết dày khó dò đường thấp cao
+
+Chánh trung diệu hiệp ai hiểu được
+
+Muốn sống ngàn núi chỉ mình mê
+</blockquote>
 
 Đâu chỉ ban đêm mắt mù vào đường đá gập ghềnh. Sau của lúc sáng tỏ, tinh trần bị chôn vùi. Mặt trời lặn không cam chịu gác chèo ở bờ lau, chợt làn khói tan tỉnh giấc mộng. Đâu như một mình gái gõ đưa thoi cho đến canh ba. Nào giống người đã nửa đêm ngủ một mình không gối quế.
 
@@ -115,4 +120,4 @@ Sư lớn tiếng nói: Chớ nói mớ!
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Deshan-Xuanjian" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>
+[^1]: ⭐️ <a href="/masters/Deshan-Xuanjian" target="_blank">📌 TS ĐỨC SƠN TUYÊN GIÁM</a>

@@ -14,15 +14,15 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Vua Trang Tông thâu được, may gặp Hưng Hóa thương lượng. Đưa ra ba góc, đáng tiếc ép giác nhận lầm. Có ai biết thưởng thức chăng?
+> Vua Trang Tông thâu được, may gặp Hưng Hóa thương lượng. Đưa ra ba góc, đáng tiếc ép giác nhận lầm. Có ai biết thưởng thức chăng?
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi Hòa thượng Ngưỡng Sơn Dũng: **Thế nào là pháp thân báu?**
+Tăng hỏi Hòa thượng Ngưỡng Sơn Dũng: **Thế nào là pháp thân báu?**
 
-> Dũng đáp: **Trăm chim hót líu lo trên cành. Phụng hoàng đâu chịu đồng chung cảnh.**
+Dũng đáp: **Trăm chim hót líu lo trên cành. Phụng hoàng đâu chịu đồng chung cảnh.**
 
 ## BÌNH XƯỚNG
 
@@ -75,24 +75,30 @@ Văn Môn lễ bái.
 📢 Ngài Lâm Tuyền nói: 
 
 > Thận trọng cân nhắc tường tận thật là xít sao. Thị mới biết được không bị trói vào cột lửa. 
-> Vì đồng trân bảo phi phàm, cho nên ít gặp người đặc biệt. Nếu chẳng phải Ngưỡng Sơn chặn con mắt trời rồng. 
-> Xem bình đẳng không phân tiện quý, tâm tư thuần thiết, diễn bày ra tất cả, rõ ràng minh bạch. 
-> Đưa ra để thức tỉnh cho ông nên nói,
+Vì đồng trân bảo phi phàm, cho nên ít gặp người đặc biệt. Nếu chẳng phải Ngưỡng Sơn chặn con mắt trời rồng. 
+Xem bình đẳng không phân tiện quý, tâm tư thuần thiết, diễn bày ra tất cả, rõ ràng minh bạch. 
+Đưa ra để thức tỉnh cho ông nên nói,
 
 Trăm chim líu lo hót trên cành, phụng hoàng đâu chịu đồng chung cảnh.
 
 Như Ngưỡng Sơn nói như thế, vẫn còn là ngọc Biện Hòa. Cũng chỉ là châu Túy Hầu, vẫn là chi đông về tây, cũng là lấy không tạo có.
 
 > Ba Tư biến man biết bằng giả,
+> 
 > Không cần thì nghiệm lại đã vàng.
-
 
 ## TỤNG CỔ
 
-> Hạc ẩn trên cây từng sườn núi,
+<blockquote>
+
+Hạc ẩn trên cây từng sườn núi,
+
 Phượng rời Đan sơn sống với chim loan.
+
 Biện bích để dời việc ngọc âm,
+
 Tịnh Danh đầu nhọc bàn luận nhiều.
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -130,4 +136,4 @@ Chao ôi!
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>

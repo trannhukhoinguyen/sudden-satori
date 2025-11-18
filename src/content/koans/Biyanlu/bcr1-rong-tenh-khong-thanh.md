@@ -220,10 +220,10 @@ Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lã
 
 [^1]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">🔗 VUA LƯƠNG VŨ ĐẾ</a>
 
-[^2]: ⭐️ <a href="/masters/Bodhidharma" target="_blank">🔗 Tổ BỒ ĐỀ ĐẠT MA</a>
+[^2]: ⭐️ <a href="/masters/Bodhidharma" target="_blank">📌 Tổ BỒ ĐỀ ĐẠT MA</a>
 
 ⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">🔗 Phim Phật Giáo về Tổ BỒ ĐỀ Đạt Ma</a>
 
 [^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">🔗 TS BẢO CHÍ CÔNG</a>
 
-⭐️ <a href="http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355" target="_blank">🔗 TS BẢO CHÍ CÔNG</a>
+⭐️ <a href="http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355" target="_blank">📌 TS BẢO CHÍ CÔNG</a>

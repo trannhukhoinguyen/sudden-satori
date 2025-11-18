@@ -21,4 +21,4 @@ pdfUrl: /pdfs/speeches/Phuong-Hoi-ngu-luc.pdf
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yangqi-Fanghui" target="_blank">🔗 TS DƯƠNG KỲ PHƯƠNG HỘI</a>
+[^1]: ⭐️ <a href="/masters/Yangqi-Fanghui" target="_blank">📌 TS DƯƠNG KỲ PHƯƠNG HỘI</a>

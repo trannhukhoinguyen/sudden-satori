@@ -21,4 +21,4 @@ pdfUrl: /pdfs/speeches/Hoang-Long-ngu-luc.pdf
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Huanglong-Huinan" target="_blank">🔗 TS HOÀNG LONG HUỆ NAM</a>
+[^1]: ⭐️ <a href="/masters/Huanglong-Huinan" target="_blank">📌 TS HOÀNG LONG HUỆ NAM</a>

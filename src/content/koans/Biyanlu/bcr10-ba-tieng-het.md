@@ -151,6 +151,6 @@ Thử nói coi, các ông xem như thế nào? Nhắm mắt cũng được, mở
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Muzhou-Daoming" target="_blank">🔗 TS MỤC CHÂU ĐẠO MINH</a>
+[^1]: ⭐️ <a href="/masters/Muzhou-Daoming" target="_blank">📌 TS MỤC CHÂU ĐẠO MINH</a>
 
-[^29]: ⭐️ <a href="" target="_blank">🔗 </a>
+[^29]: ⭐️ <a href="" target="_blank">📌</a>

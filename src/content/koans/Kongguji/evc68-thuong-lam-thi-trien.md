@@ -102,6 +102,6 @@ Nhạn mùa đông về nam thừa hỏi khắp nơi tri thức. Gió thu theo n
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

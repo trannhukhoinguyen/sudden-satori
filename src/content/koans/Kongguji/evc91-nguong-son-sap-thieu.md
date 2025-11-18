@@ -16,12 +16,9 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 > Trong lời có tiếng vang, chẳng phải người tri âm khó rõ. 
->
-> Trong câu trinh cơ, chỉ người đủ mắt có thể hiểu. 
->
-> Chớ bảo cha hiền từ con ngỗ nghịch. 
->
-> Vốn chẳng phải ẩn đoan tình quên, có người nào rảnh rỗi kiểm nghiệm chăng?
+Trong câu trinh cơ, chỉ người đủ mắt có thể hiểu. 
+Chớ bảo cha hiền từ con ngỗ nghịch. 
+Vốn chẳng phải ẩn đoan tình quên, có người nào rảnh rỗi kiểm nghiệm chăng?
 
 ## CỬ - TẮC
 
@@ -160,8 +157,8 @@ Làm sao mà trúng khớp được, là phải nhớ được lời Nam Sơn, n
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yangshan-Huiji" target="_blank">🔗 TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: ⭐️ <a href="/masters/Yangshan-Huiji" target="_blank">📌 TS NGƯỠNG SƠN HUỆ TỊCH</a>
 
-[^2]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">🔗 TS QUY SƠN LINH HỰU</a>
+[^2]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">📌 TS QUY SƠN LINH HỰU</a>
 
 

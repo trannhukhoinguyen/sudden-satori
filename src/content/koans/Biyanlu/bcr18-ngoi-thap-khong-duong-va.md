@@ -195,8 +195,8 @@ Rồi lại nói tiếp, “Hàng lớp lớp, bóng chập chùng. Thiên cổ 
 
 [^1]: ⭐️ <a href="/masters/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4669-tshuetrung" target="_blank">🔗 TS NAM DƯƠNG HUỆ TRUNG</a>
+[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4669-tshuetrung" target="_blank">📌 TS NAM DƯƠNG HUỆ TRUNG</a>
 
-[^3]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/dam-nguyen-ung-chan-k703.html" target="_blank">🔗 TS ĐAM NGUYÊN ỨNG CHÂN</a>
+[^3]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/dam-nguyen-ung-chan-k703.html" target="_blank">📌 TS ĐAM NGUYÊN ỨNG CHÂN</a>
 
-⭐️ <a href="https://ngulucthien.com/thien-su-ung-chan/" target="_blank">🔗 TS ĐAM NGUYÊN ỨNG CHÂN</a>
+⭐️ <a href="https://ngulucthien.com/thien-su-ung-chan/" target="_blank">📌 TS ĐAM NGUYÊN ỨNG CHÂN</a>

@@ -729,14 +729,14 @@ Quyển sách này lưu hành, sẽ cùng các tác phẩm Lâm Gian Lục, Th�
 
 <hr class="blog-rule" />
 
-## GHI CHÚ
-
-[^1]: ⭐️ <a href="/masters/Shuzhong-Wuyun" target="_blank">TS THỨ TRUNG VÔ UẨN</a>
-
-<hr class="blog-rule" />
-
 ## NGUỒN
 
 > ✨ <a href="https://sachweb.com/publishview/sonamtapluc_id880/sonamtapluc_id880.aspx#" target="_blank">🔗 NXB Tổng Hợp TP.HCM</a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: ⭐️ <a href="/masters/Shuzhong-Wuyun" target="_blank">TS THỨ TRUNG VÔ UẨN</a>
 
 

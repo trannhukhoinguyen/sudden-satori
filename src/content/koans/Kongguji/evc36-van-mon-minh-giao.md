@@ -100,4 +100,4 @@ Chỗ bảo người trí ẩn ít người phụ ẩn nhiều, ông ta cũng l�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>

@@ -108,6 +108,6 @@ Tác giả thiên khách tối ky chần chờ, nạp tăng thông minh cần ph
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fengxue-Yanzhao" target="_blank">🔗 TS PHONG HUYỆT DIÊN CHIỂU</a>
+[^1]: ⭐️ <a href="/masters/Fengxue-Yanzhao" target="_blank">📌 TS PHONG HUYỆT DIÊN CHIỂU</a>
 
 

@@ -137,6 +137,6 @@ Tùy nhiên như thế có mấy người thông minh qua được cửa này. L
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS </a>
 
 

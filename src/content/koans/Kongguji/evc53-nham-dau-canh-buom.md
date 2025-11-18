@@ -96,6 +96,6 @@ Khắp nơi mọi người đều biết. Giống như ngày xuân chim oanh li�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
+[^1]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">📌 TS NHAM ĐẦU TOÀN HOÁT</a>
 
 

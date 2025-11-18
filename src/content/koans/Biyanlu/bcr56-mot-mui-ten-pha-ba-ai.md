@@ -142,4 +142,4 @@ Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con ch�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Qinshan-Wensui/" target="_blank">🔗 TS KHÂM SƠN VĂN THÚY</a>
+[^1]: ⭐️ <a href="/masters/Qinshan-Wensui/" target="_blank">📌 TS KHÂM SƠN VĂN THÚY</a>

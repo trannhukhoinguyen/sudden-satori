@@ -102,7 +102,7 @@ Sau đó sự truyền thừa từ vị tổ này cho vị tổ khác, kể cả
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>
 
 [^21]: ⭐️
 

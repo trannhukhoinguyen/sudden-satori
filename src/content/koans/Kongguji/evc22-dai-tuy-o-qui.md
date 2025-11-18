@@ -86,4 +86,4 @@ Nên biết về sau thật khó gặp.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Dasui-Fazhen" target="_blank">🔗 TS ĐẠI TÙY PHÁP CHÂN</a>
+[^1]: ⭐️ <a href="/masters/Dasui-Fazhen" target="_blank">📌 TS ĐẠI TÙY PHÁP CHÂN</a>

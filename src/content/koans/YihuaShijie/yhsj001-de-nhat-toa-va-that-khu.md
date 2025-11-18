@@ -55,6 +55,6 @@ Lúc ấy Cửu Phong vỗ vai tử thi và nói:
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jiufeng-Daoqian" target="_blank">🔗 TS CỬU PHONG ĐẠO KIỀN</a>
+[^1]: ⭐️ <a href="/masters/Jiufeng-Daoqian" target="_blank">📌 TS CỬU PHONG ĐẠO KIỀN</a>
 
-[^2]: ⭐️ <a href="/masters/Shishuang-Qingzhu" target="_blank">🔗 TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^2]: ⭐️ <a href="/masters/Shishuang-Qingzhu" target="_blank">📌 TS THẠCH SƯƠNG KHÁNH CHƯ</a>

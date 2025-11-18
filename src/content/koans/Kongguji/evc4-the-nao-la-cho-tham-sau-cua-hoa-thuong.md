@@ -15,17 +15,17 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 > Tìm hiểu sâu xa lấy khinh làm trọng.
-> Gặp mặt chào nhau, tiếp đón kính trọng.
-> Đó chính là thần thông diệu dụng, cũng là diệu dụng của thần thông.
-> Người có mắt nên phân tích xem.
+Gặp mặt chào nhau, tiếp đón kính trọng.
+Đó chính là thần thông diệu dụng, cũng là diệu dụng của thần thông.
+Người có mắt nên phân tích xem.
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi Đạo Ngô [^1]: _Thế nào là chỗ thâm sâu của hòa thượng?_
->
-> Ngài Đạo Ngô bước xuống giường thiền chào kiểu dáng nữ nhân nói: Cám ơn ông từ xa đến thăm, không dám để chờ lâu.
+Tăng hỏi Đạo Ngô [^1]: **Thế nào là chỗ thâm sâu của hòa thượng?**
+
+Ngài Đạo Ngô bước xuống giường thiền chào kiểu dáng nữ nhân nói: **Cám ơn ông từ xa đến thăm, không dám để chờ lâu.**
 
 ## BÌNH XƯỚNG
 
@@ -63,13 +63,16 @@ Ngài Đầu Tử biết rõ ý này.
 
 ## TỤNG CỔ
 
-> Ly long đầy biển, mây lành trời cao.
->
-> Bốn phương đồng tông, vạn dòng về biển.
->
-> Người gõ đến hỏi việc Tây cung.
->
-> Về tặng Đông Viên một quả đào.
+<blockquote>
+
+Ly long đầy biển, mây lành trời cao
+
+Bốn phương đồng tông, vạn dòng về biển
+
+Người gõ đến hỏi việc Tây cung
+
+Về tặng Đông Viên một quả đào
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -95,13 +98,16 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 
 Đã bày tỏ hết lòng, chớ có quên đâu nhận bóng. Có hội chăng?
 
-> Lúc trăng rằm giai nhân cầu nguyện
->
-> Áo xiêm thả thuốt mấy ai hay
->
-> Chàng Lưu đi rồi xuân vắng chủ
->
-> Trái chín ngát hương biết tặng ai
+<blockquote>
+
+Lúc trăng rằm giai nhân cầu nguyện
+
+Áo xiêm thả thuốt mấy ai hay
+
+Chàng Lưu đi rồi xuân vắng chủ
+
+Trái chín ngát hương biết tặng ai
+</blockquote>
 
 <hr class="blog-rule" />
 
@@ -113,4 +119,4 @@ Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4789-tsdaongo2/" target="_blank">🔗 TS ĐẠO NGÔ VIÊN TRÍ</a>
+[^1]: ⭐️ <a href="/masters/Daowu-Yuanzhi" target="_blank">📌 TS ĐẠO NGÔ VIÊN TRÍ</a>

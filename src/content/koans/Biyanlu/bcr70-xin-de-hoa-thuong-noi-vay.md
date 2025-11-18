@@ -97,15 +97,15 @@ Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm n
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">🔗 TS QUY SƠN LINH HỰU</a>
+[^1]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">📌 TS QUY SƠN LINH HỰU</a>
 
-[^2]: ⭐️ <a href="/masters/Wufeng-Changguan" target="_blank">🔗 TS NGŨ PHONG THƯỜNG QUÁN</a>
+[^2]: ⭐️ <a href="/masters/Wufeng-Changguan" target="_blank">📌 TS NGŨ PHONG THƯỜNG QUÁN</a>
 
-[^3]: ⭐️ <a href="/masters/Yunyan-Tansheng" target="_blank">🔗 TS VÂN NHAM ĐÀM THẠNH</a>
+[^3]: ⭐️ <a href="/masters/Yunyan-Tansheng" target="_blank">📌 TS VÂN NHAM ĐÀM THẠNH</a>
 
-[^4]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^4]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS BÁCH TRƯỢNG HOÀI HẢI</a>
 
-[^5]: ⭐️ <a href="/masters/Luoshan-Daoxian" target="_blank">🔗 TS LA SƠN ĐẠO NHÀN</a>
+[^5]: ⭐️ <a href="/masters/Luoshan-Daoxian" target="_blank">📌 TS LA SƠN ĐẠO NHÀN</a>
 
 <hr class="blog-rule" />
 

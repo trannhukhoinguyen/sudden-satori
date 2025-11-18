@@ -156,4 +156,4 @@ Nếu thức hết tình quên thì có hiệu lực.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Xinghua-Cunjiang" target="_blank">🔗 TS HƯNG HÓA TỒN TƯƠNG</a>
+[^1]: ⭐️ <a href="/masters/Xinghua-Cunjiang" target="_blank">📌 TS HƯNG HÓA TỒN TƯƠNG</a>

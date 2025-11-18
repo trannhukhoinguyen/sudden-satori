@@ -111,6 +111,6 @@ Biết tung tích kinh này chăng? Ngài lấy phất tử đánh vào giườn
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

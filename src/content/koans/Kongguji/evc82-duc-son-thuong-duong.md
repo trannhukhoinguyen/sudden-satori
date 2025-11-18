@@ -167,6 +167,6 @@ Không nghe nói:
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Deshan-Xuanjian" target="_blank">🔗 TS ĐỨC SƠN TUYÊN GIÁM</a>
+[^1]: ⭐️ <a href="/masters/Deshan-Xuanjian" target="_blank">📌 TS ĐỨC SƠN TUYÊN GIÁM</a>
 
 

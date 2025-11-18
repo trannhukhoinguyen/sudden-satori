@@ -1,0 +1,156 @@
+---
+import PostImage from "../post/PostImage.astro";
+const { title, subtitle, description, places } = Astro.props;
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <h1 class="hero-title">{title}</h1>
+    <p class="hero-subtitle">{subtitle}</p>
+    <p class="hero-description">{description}</p>
+    <hr class="hero-rule" />
+    <div class="hero-images">
+      {
+        places
+        && places.length > 0
+        && places.map((imageUrl, imageAlt, tagLine) => (<div>
+            <PostImage imageUrl={imageUrl} imageAlt={imageAlt} />
+            <span class="blog-description">{tagLine}</span>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+    .image-area {
+        text-align: center;
+        padding: calc(var(--grid-unit) * 12) 0 calc(var(--grid-unit) * 8);
+        background: linear-gradient(135deg, var(--color-surface) 0%, var(--color-background) 100%);
+    }
+
+    .hero {
+        text-align: center;
+        padding: calc(var(--grid-unit) * 12) 0 calc(var(--grid-unit) * 8);
+        background: linear-gradient(135deg, var(--color-surface) 0%, var(--color-background) 100%);
+    }
+
+    .hero-content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0 var(--content-padding);
+    }
+
+    .hero-title {
+        font-family: var(--font-heading-primary),serif;
+        font-size: 4.5rem;
+        font-weight: 700;
+        color: var(--color-accent-goldenrod);
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        line-height: 0.9;
+        margin-bottom: calc(var(--grid-unit) * 2);
+    }
+
+    .hero-subtitle {
+        font-family: var(--font-heading-secondary),serif;
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: var(--color-text-muted);
+        text-transform: uppercase;
+        letter-spacing: 0.2em;
+        margin-bottom: calc(var(--grid-unit) * 3);
+    }
+
+    .hero-description {
+        font-size: 1.375rem;
+        line-height: 1.6;
+        color: var(--color-text-primary);
+        margin-bottom: calc(var(--grid-unit) * 4);
+        max-width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hero-rule {
+        height: 6px;
+        background-color: var(--color-accent-goldenrod);
+        border: none;
+        width: 150px;
+        margin: 0 auto calc(var(--grid-unit) * 4);
+    }
+
+    .hero-actions {
+        display: flex;
+        gap: calc(var(--grid-unit) * 2);
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .btn {
+        font-family: var(--font-heading-secondary),serif;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        padding: calc(var(--grid-unit) * 1.5) calc(var(--grid-unit) * 3);
+        border-radius: 4px;
+        transition: all 0.3s ease;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 0.95rem;
+    }
+
+    .btn-primary {
+        background-color: var(--color-accent-goldenrod);
+        color: white;
+        border: 2px solid var(--color-accent-goldenrod);
+    }
+
+    .btn-primary:hover,
+    .btn-primary:focus {
+        background-color: transparent;
+        color: var(--color-accent-gold);
+        transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+        background-color: transparent;
+        color: var(--color-text-primary);
+        border: 2px solid var(--color-border);
+    }
+
+    .btn-secondary:hover,
+    .btn-secondary:focus {
+        background-color: var(--color-text-primary);
+        color: var(--color-background);
+        transform: translateY(-2px);
+    }
+
+    /* Dark mode button styles */
+    :global([data-theme="dark"]) .btn-primary {
+        background-color: var(--color-accent-goldenrod);
+        color: white;
+        border-color: var(--color-accent-goldenrod);
+    }
+
+    :global([data-theme="dark"]) .btn-primary:hover,
+    :global([data-theme="dark"]) .btn-primary:focus {
+        background-color: transparent;
+        color: var(--color-accent-gold);
+    }
+
+    :global([data-theme="dark"]) .btn-secondary {
+        background-color: transparent;
+        color: var(--color-text-primary);
+        border-color: var(--color-border);
+    }
+
+    :global([data-theme="dark"]) .btn-secondary:hover,
+    :global([data-theme="dark"]) .btn-secondary:focus {
+        background-color: var(--color-accent-gold);
+        color: white;
+        border-color: var(--color-accent-gold);
+    }
+</style>

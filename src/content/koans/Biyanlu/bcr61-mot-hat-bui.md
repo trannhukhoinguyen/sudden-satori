@@ -80,4 +80,4 @@ Một miệng nuốt luôn tất cả mọi người. Cho nên mới nói rằng
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fengxue-Yanzhao" target="_blank">🔗 TS PHONG HUYỆT DIÊN CHIỂU</a>
+[^1]: ⭐️ <a href="/masters/Fengxue-Yanzhao" target="_blank">📌 TS PHONG HUYỆT DIÊN CHIỂU</a>

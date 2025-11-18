@@ -157,6 +157,6 @@ Thử nói xem, đây là “vừa sáng vừa tối.” đồng sinh trong mộ
 
 [^2]: ⭐️
 
-[^3]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^3]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">📌 TS TUYẾT PHONG NGHĨA TỒN</a>
 
-[^4]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
+[^4]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">📌 TS NHAM ĐẦU TOÀN HOÁT</a>

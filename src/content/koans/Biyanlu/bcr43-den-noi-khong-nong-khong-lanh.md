@@ -82,4 +82,4 @@ Còn như các ông, có biết chỗ vì người của Động Sơn chăng? M�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">🔗 TS ĐỘNG SƠN LƯƠNG GIỚI</a>
+[^1]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">📌 TS ĐỘNG SƠN LƯƠNG GIỚI</a>

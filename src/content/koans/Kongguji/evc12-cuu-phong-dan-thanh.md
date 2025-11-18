@@ -122,4 +122,4 @@ Thầy Hàn Tử đem ví dụ này dụ cho chí đạo mọi người không n
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jiufeng-Daoqian" target="_blank">🔗 TS CỬU PHONG ĐẠO KIỀN</a>
+[^1]: ⭐️ <a href="/masters/Jiufeng-Daoqian" target="_blank">📌 TS CỬU PHONG ĐẠO KIỀN</a>

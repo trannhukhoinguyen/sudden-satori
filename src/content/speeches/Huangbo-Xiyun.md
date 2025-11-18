@@ -21,4 +21,4 @@ pdfUrl: /pdfs/speeches/truyen-tam-phap-yeu.pdf
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Huangbo-Xiyun" target="_blank">🔗 TS HOÀNG BÁ HI VẬN</a>
+[^1]: ⭐️ <a href="/masters/Huangbo-Xiyun" target="_blank">📌 TS HOÀNG BÁ HI VẬN</a>

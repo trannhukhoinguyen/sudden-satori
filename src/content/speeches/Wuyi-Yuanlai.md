@@ -23,4 +23,4 @@ videoId: "BhBzYAp5pe4"
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Wuyi-Yuanlai" target="_blank">🔗 TS VÔ DỊ NGUYÊN LAI (BÁC SƠN)</a>
+[^1]: ⭐️ <a href="/masters/Wuyi-Yuanlai" target="_blank">📌 TS VÔ DỊ NGUYÊN LAI (BÁC SƠN)</a>

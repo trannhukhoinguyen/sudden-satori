@@ -16,8 +16,8 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 > Còn phân biệt già trẻ, đẹp xấu, thì chưa ra khỏi sự bình phẩm.
-> Xét nặng nhẹ, so cao thấp, không ra khỏi cân lường.
-> Đã biết mắt trái nửa cân, suy ra mắt phải cũng 8 lạng, sợ y không tin, thử nhìn kỹ xem.
+Xét nặng nhẹ, so cao thấp, không ra khỏi cân lường.
+Đã biết mắt trái nửa cân, suy ra mắt phải cũng 8 lạng, sợ y không tin, thử nhìn kỹ xem.
 
 ## CỬ - TẮC
 
@@ -154,6 +154,6 @@ Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shitou-Xiqian" target="_blank">🔗 TS THẠCH ĐẦU HI THIÊN</a>
+[^1]: ⭐️ <a href="/masters/Shitou-Xiqian" target="_blank">📌 TS THẠCH ĐẦU HI THIÊN</a>
 
-[^2]: ⭐️ <a href="/masters/Qingyuan-Xingsi" target="_blank">🔗 TS THANH NGUYÊN HÀNH TƯ</a>
+[^2]: ⭐️ <a href="/masters/Qingyuan-Xingsi" target="_blank">📌 TS THANH NGUYÊN HÀNH TƯ</a>

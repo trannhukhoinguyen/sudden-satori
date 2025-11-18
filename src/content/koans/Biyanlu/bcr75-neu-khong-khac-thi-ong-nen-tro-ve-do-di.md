@@ -127,6 +127,6 @@ Lúc Ô Cữu trao cán (gậy) cho ông tăng kia, phải chăng là quá vô �
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS ĐỊNH CHÂU</a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS ĐỊNH CHÂU</a>
 
-[^2]: ⭐️ <a href="/masters/" target="_blank">🔗 TS Ô CỮU</a>
+[^2]: ⭐️ <a href="/masters/" target="_blank">📌 TS Ô CỮU</a>

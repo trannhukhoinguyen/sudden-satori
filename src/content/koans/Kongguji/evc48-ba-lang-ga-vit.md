@@ -160,6 +160,6 @@ Nếu biết là gà và vịt thì không cần nhọc sức tim, không cần 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baling-Haojian" target="_blank">🔗 TS BA LĂNG HẠO GIÁM</a>
+[^1]: ⭐️ <a href="/masters/Baling-Haojian" target="_blank">📌 TS BA LĂNG HẠO GIÁM</a>
 
 

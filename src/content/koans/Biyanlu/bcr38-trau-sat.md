@@ -108,4 +108,4 @@ Trong một câu của Phong Huyệt đã có đầy đủ cả thương giáp c
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fengxue-Yanzhao" target="_blank">🔗 TS PHONG HUYỆT DIÊN CHIỂU</a>
+[^1]: ⭐️ <a href="/masters/Fengxue-Yanzhao" target="_blank">📌 TS PHONG HUYỆT DIÊN CHIỂU</a>

@@ -93,6 +93,6 @@ Tạm thời dừng niệm ngay chỗ khảy nhẹ móng tay, mở toang lớp l
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>
+[^1]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">📌 TS ĐẦU TỬ NGHĨA THANH</a>
 
 

@@ -86,4 +86,4 @@ Nham Đầu nói, “ Khước từ sự vật là thượng, đuổi theo sự 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">📌 TS BÁCH TRƯỢNG HOÀI HẢI</a>

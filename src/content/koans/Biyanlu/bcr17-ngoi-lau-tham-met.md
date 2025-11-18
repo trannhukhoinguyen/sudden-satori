@@ -81,4 +81,4 @@ Nếu như các ông định tìm chổ hiểu trong ngôn ngữ thì cũng gi�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Xianglin-Chengyuan" target="_blank">🔗 TS HƯƠNG LÂM TRỪNG VIỄN</a>
+[^1]: ⭐️ <a href="/masters/Xianglin-Chengyuan" target="_blank">📌 TS HƯƠNG LÂM TRỪNG VIỄN</a>

@@ -135,4 +135,4 @@ Cây bá trước sân hiện sự an lành chẳng ngại kiếp trước kiế
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>

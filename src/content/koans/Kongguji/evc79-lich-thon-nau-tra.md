@@ -102,6 +102,6 @@ Quả nhiên bị ngài Đầu Tử xử phạt nên nói, nếu mà biết đư
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS </a>
 
 

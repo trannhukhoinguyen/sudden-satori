@@ -91,7 +91,7 @@ Trăng sáng phản chiếu hoa lau, hoa lau phản chiếu trăng sáng. Chính
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>
 
 [^2]: ⭐️
 

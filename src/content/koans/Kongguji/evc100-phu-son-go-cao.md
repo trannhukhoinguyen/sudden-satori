@@ -151,8 +151,9 @@ Cho nên tạm mượn lời phụ họa chi bày, để nếu cao đoan đại 
 
 Hãy nói ngay đây hội được chăng?
 
-Chỗ ở trên đất bằng nổi gò cao.
-Hao tốn công phu thật tầm tìm.
+> Chỗ ở trên đất bằng nổi gò cao
+> 
+> Hao tốn công phu thật tầm tìm
 
 <hr class="blog-rule" />
 
@@ -164,4 +165,4 @@ Hao tốn công phu thật tầm tìm.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fushan-Fayuan" target="_blank">🔗 TS PHÙ SƠN PHÁP VIỄN</a>
+[^1]: ⭐️ <a href="/masters/Fushan-Fayuan" target="_blank">📌 TS PHÙ SƠN PHÁP VIỄN</a>

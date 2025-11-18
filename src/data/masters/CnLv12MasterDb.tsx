@@ -5,7 +5,7 @@ const CnLv12MasterDb = [
     name_ja: 'Yōgi Hōe',
     name_zh: '楊岐方會',
     name_wade_giles: '',
-    name_vi: 'Dương Kỳ Phương Hội',
+    name_vi: 'DƯƠNG KỲ PHƯƠNG HỘI',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',

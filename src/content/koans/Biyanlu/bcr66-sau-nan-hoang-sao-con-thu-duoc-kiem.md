@@ -97,6 +97,6 @@ Tuyết Đậu tụng rằng:
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">🔗 TS NHAM ĐẦU TOÀN HOÁT</a>
+[^1]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">📌 TS NHAM ĐẦU TOÀN HOÁT</a>
 
-[^2]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">🔗 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^2]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">📌 TS TUYẾT PHONG NGHĨA TỒN</a>

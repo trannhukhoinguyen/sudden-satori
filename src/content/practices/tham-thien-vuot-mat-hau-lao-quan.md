@@ -74,7 +74,7 @@ Hành giả trở nên vô sự nhân (người không việc), đi đứng nằ
 
 👉 Đây là công án vượt khỏi ý niệm “Phật – không Phật”, “ngộ – không ngộ”, để hành giả chặt đứt cả dấu vết của ngộ.
 
-[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/dong-son-thu-so-k3953.html" target="_blank">🔗 TS ĐỘNG SƠN THỦ SƠ</a>
+[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/dong-son-thu-so-k3953.html" target="_blank">📌 TS ĐỘNG SƠN THỦ SƠ</a>
 
 #### 🧘‍♂️ Cách hành trì vượt Mạt Hậu Lao Quan
 

@@ -189,6 +189,6 @@ Sẽ biết được tung tích.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Changqing-Huileng" target="_blank">🔗 TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
+[^1]: ⭐️ <a href="/masters/Changqing-Huileng" target="_blank">📌 TS TRƯỜNG KHÁNH HUỆ LĂNG</a>
 
 

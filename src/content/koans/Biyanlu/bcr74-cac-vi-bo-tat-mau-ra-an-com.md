@@ -74,4 +74,4 @@ Cổ nhân nói, “Quan sát trước khi cơ biến khởi lên thì các ơng
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">🔗 TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: ⭐️ <a href="/masters/Mazy-Daoyi" target="_blank">📌 TS MÃ TỔ ĐẠO NHẤT</a>

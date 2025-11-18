@@ -176,6 +176,6 @@ Không nghe trong kinh Pháp Hoa nói sao: Dừng dùng không cần nói nữa.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS </a>
 
 

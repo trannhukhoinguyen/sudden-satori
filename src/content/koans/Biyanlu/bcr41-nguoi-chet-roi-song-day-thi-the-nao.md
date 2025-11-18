@@ -109,6 +109,6 @@ Thử nói xem, làm sao có thể tránh được?
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">🔗 TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">📌 TS TRIỆU CHÂU TÙNG THẨM</a>
 
-[^2]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">🔗 TS ĐẦU TỬ NGHĨA THANH</a>
+[^2]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">📌 TS ĐẦU TỬ NGHĨA THANH</a>

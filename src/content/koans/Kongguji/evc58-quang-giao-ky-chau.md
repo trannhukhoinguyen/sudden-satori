@@ -95,6 +95,6 @@ Ruộng mì vườn đồng xanh tươi mơn mởn, làm sao giấu kín đượ
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

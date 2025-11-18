@@ -121,4 +121,4 @@ Chớ nhận lầm.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">🔗 TS ĐẠI DƯƠNG TUỆ KIÊN</a>
+[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS ĐẠI DƯƠNG TUỆ KIÊN</a>

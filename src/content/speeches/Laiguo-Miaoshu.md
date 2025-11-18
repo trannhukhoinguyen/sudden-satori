@@ -21,4 +21,4 @@ pdfUrl: /pdfs/speeches/thien-that-khai-thi-luc.pdf
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Laiguo-Miaoshu" target="_blank">🔗 TS LAI QUẢ DIỆU THỌ</a>
+[^1]: ⭐️ <a href="/masters/Laiguo-Miaoshu" target="_blank">📌 TS LAI QUẢ DIỆU THỌ</a>

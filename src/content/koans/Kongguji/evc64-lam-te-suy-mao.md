@@ -79,6 +79,6 @@ Ngài đưa cây gậy lên nói: Cho thành một lời nói, mặc cho ông ch
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">🔗 TS LÂM TẾ NGHĨA HUYỀN</a>
+[^1]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">📌 TS LÂM TẾ NGHĨA HUYỀN</a>
 
 

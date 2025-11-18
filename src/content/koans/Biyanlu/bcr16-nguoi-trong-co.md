@@ -92,4 +92,4 @@ Kính Thanh nói, “Ông cũng là người trong cỏ” Tuyết Đậu nói, 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">🔗 TS KÍNH THANH ĐẠO PHÓ</a>
+[^1]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">📌 TS KÍNH THANH ĐẠO PHÓ</a>

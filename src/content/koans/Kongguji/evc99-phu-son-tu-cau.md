@@ -23,13 +23,13 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi Hòa thượng Phù Sơn: _Thầy xuống khúc gia phong của ai, tiếp nối tông phong nào?_
->
-> Phù Sơn đáp: **Ông già tám mươi chơi đá cầu**
->
-> Tăng thưa: _Như thế thì một câu khác hẳn tổ sư. Binh khí tam huyền chấn động cả từng lâm_
->
-> Phù Sơn nói: **Lý Lăng vốn là thần của triều Hán**
+Tăng hỏi Hòa thượng Phù Sơn: _Thầy xuống khúc gia phong của ai, tiếp nối tông phong nào?_
+
+Phù Sơn đáp: **Ông già tám mươi chơi đá cầu**
+
+Tăng thưa: _Như thế thì một câu khác hẳn tổ sư. Binh khí tam huyền chấn động cả từng lâm_
+
+Phù Sơn nói: **Lý Lăng vốn là thần của triều Hán**
 
 📢  Đầu Tử niêm: **Nước sâu cá yên ổn, lá rụng tóe tan tác**
 
@@ -118,15 +118,18 @@ Sơ Sơn đáp: Là câu bên này.
 Linh Tuyền hỏi: Thế nào là câu bên kia?
 
 Sơ Sơn đáp:
-Trâu đá rống vượt sương mùa xuân.
-Linh tước không sống rừng vô ảnh.
+
+> Trâu đá rống vượt sương mùa xuân
+> 
+> Linh tước không sống rừng vô ảnh
 
 Lâm Tuyền nói: Bên trong không xuống lên được, mấy ai là tri âm.
 
 Hạc đứng bên trên rừng tùng chờ mãi chim nhạn biên ải xa về. Thấy sắc nghe tiếng đều là vọng. Trăng khuya vọng nghe tiếng chày giã làm kinh động mây. Mặc cho nhà ai suy tư sầu lo. Ngay lúc này làm sao xử lý.
 
-Đừng nhàn ba tấc lưỡi,
-Tiêu tuy chín đoạn trường.
+> Đừng nhàn ba tấc lưỡi
+> 
+> Tiêu tuy chín đoạn trường
 
 <hr class="blog-rule" />
 
@@ -138,4 +141,4 @@ Tiêu tuy chín đoạn trường.
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fushan-Fayuan" target="_blank">🔗 TS PHÙ SƠN PHÁP VIỄN</a>
+[^1]: ⭐️ <a href="/masters/Fushan-Fayuan" target="_blank">📌 TS PHÙ SƠN PHÁP VIỄN</a>

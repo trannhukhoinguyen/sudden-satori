@@ -86,6 +86,6 @@ Có như thế Chánh Thiên Kiếm Đới lý sự mới hiệp thông. Không 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

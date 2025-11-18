@@ -64,12 +64,6 @@ const { frontmatter, Content } = post as any;
 
     <div class="post-content">
       <!-- ✅ Content -->
-      {(collection === "koans" || frontmatter.type === "koans") && (
-        <>
-          <!-- Modal tự dùng slug làm id -->
-          <KoanModal id={slug} />
-        </>
-      )}
       <Content />
     </div>
   </article>

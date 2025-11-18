@@ -14,16 +14,16 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Lúc một niệm động, vạn pháp đều có lỗi. 
+> Lúc một niệm động, vạn pháp đều có lỗi. 
 Lúc một niệm không sinh, muôn việc không ngăn ngại.
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Có vị Tăng hỏi Ngài Vân Môn: _Thế nào là ý Tổ Sư từ Tây sang?_
->
-> Ngài Vân Môn đáp: **Người ngồi xe**
+ Có vị Tăng hỏi Ngài Vân Môn: _Thế nào là ý Tổ Sư từ Tây sang?_
+
+ Ngài Vân Môn đáp: **Người ngồi xe**
 
 ## BÌNH XƯỚNG
 
@@ -73,4 +73,4 @@ Các ông nếu ngộ được chỗ “ngồi xe” này, thì mới biết t�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>

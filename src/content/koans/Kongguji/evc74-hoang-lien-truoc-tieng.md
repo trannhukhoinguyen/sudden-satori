@@ -67,6 +67,6 @@ Muốn đạt được nguồn kia nên dò tìm chỗ sâu thẳm ấy. Như s�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

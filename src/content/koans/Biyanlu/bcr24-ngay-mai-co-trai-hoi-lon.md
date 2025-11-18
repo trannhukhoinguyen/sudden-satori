@@ -88,6 +88,6 @@ Nhìn họ xem, một người nằm xuống một người liền bỏ đi. N�
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Liu-Tiemo" target="_blank">🔗 TS LƯU THIẾT MA</a>
+[^1]: ⭐️ <a href="/masters/Liu-Tiemo" target="_blank">📌 TS LƯU THIẾT MA</a>
 
-[^2]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">🔗 TS QUY SƠN LINH HỰU</a>
+[^2]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">📌 TS QUY SƠN LINH HỰU</a>

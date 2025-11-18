@@ -101,6 +101,6 @@ Ngài Lâm Tuyền cứ lặp lại cho người sau như thế. Nói cho gióng
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">🔗 TS </a>
+[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
 
 

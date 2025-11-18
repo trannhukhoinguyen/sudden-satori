@@ -102,6 +102,6 @@ Muốn bay đi, lại giữ lại.” Tuyết Đậu dựa vào dữ kiện mà 
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4689-tsdaonhat" target="_blank">🔗 TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: ⭐️ <a href="/masters/Mazy-Daoyi" target="_blank">📌 TS MÃ TỔ ĐẠO NHẤT</a>
 
-[^2]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">🔗 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^2]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">📌 TS BÁCH TRƯỢNG HOÀI HẢI</a>

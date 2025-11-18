@@ -118,7 +118,7 @@ Hàn San Thi có bài như sau:
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">🔗 TS VÂN MÔN VĂN YỂN</a>
+[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>
 
 [1] Xin xem chú thích số 7 của tắc thứ bốn mươi.
 
