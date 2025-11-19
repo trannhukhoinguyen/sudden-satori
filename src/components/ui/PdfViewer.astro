@@ -1,127 +1,132 @@
 ---
-const { pdfUrl } = Astro.props;
+const { pdfUrl, title = "PDF Viewer" } = Astro.props;
 const isPdf = pdfUrl.toLowerCase().endsWith(".pdf");
 ---
 
 <style>
-  @keyframes pulse {
-    0% { opacity: 1 }
-    50% { opacity: 0.4 }
-    100% { opacity: 1 }
-  }
+    @keyframes pulse {
+        0% { opacity: 1 }
+        50% { opacity: 0.4 }
+        100% { opacity: 1 }
+    }
 
-  .pdf-icon {
-    width: auto;
-    height: 1.4rem;
-    color: var(--color-accent-red);
-    cursor: pointer;
-    margin-left: 0.5rem;
-    transition: transform 0.2s;
+    .pdf-icon {
+        width: auto;
+        height: 1.4rem;
+        color: var(--color-accent-red);
+        cursor: pointer;
+        margin-left: 0.5rem;
+        transition: transform 0.2s;
+        animation: pulse 3s infinite;
+    }
+    .pdf-icon:hover {
+        transform: scale(1.3);
+    }
 
+    .pdf-modal-overlay {
+        position: fixed;
+        inset: 0;
+        background: var(--color-background-overlay);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1000;
+    }
 
-    animation: pulse 3s infinite;
-  }
-  .pdf-icon:hover {
-    transform: scale(1.3);
-  }
+    .pdf-modal {
+        background: var(--color-background);
+        border-radius: 8px;
+        width: 90%;
+        max-width: 900px;
+        height: 90%;
+        display: flex;
+        flex-direction: column;
+    }
 
-  /* Modal overlay */
-  .pdf-modal-overlay {
-    position: fixed;
-    inset: 0;
-    background: var(--color-background-overlay);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
-  }
+    .pdf-modal-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0.5rem 1rem;
+        background: var(--color-background);
+        border-bottom: 1px solid var(--color-border);
+    }
 
-  /* Modal content */
-  .pdf-modal {
-    background: var(--color-background);
-    border-radius: 8px;
-    width: 90%;
-    max-width: 900px;
-    height: 90%;
-    display: flex;
-    flex-direction: column;
-  }
+    .pdf-modal-header button {
+        background: var(--color-accent-goldenrod);
+        color: var(--color-text-primary);
+        border: none;
+        border-radius: 4px;
+        padding: 0.25rem 0.5rem;
+        cursor: pointer;
+    }
 
-  .pdf-modal-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0.5rem 1rem;
-    background: var(--color-background);
-    border-bottom: 1px solid var(--color-border);
-  }
+    .pdf-modal iframe {
+        flex: 1;
+        border: none;
+    }
 
-  .pdf-modal-header button {
-    background: var(--color-accent-goldenrod);
-    color: var(--color-text-primary);
-    border: none;
-    border-radius: 4px;
-    padding: 0.25rem 0.5rem;
-    cursor: pointer;
-  }
-
-  .pdf-modal iframe {
-    flex: 1;
-    border: none;
-  }
+    /* Hide modal initially */
+    [data-pdf-modal] {
+        display: none;
+    }
 </style>
 
-<!-- Trigger icon -->
-<div title="Xem PDF">
-  <svg class="pdf-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" id="pdf-trigger">
-    <path fill="currentColor" d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
-    <text x="6" y="18" font-size="8" fill="white">PDF</text>
-  </svg>
-</div>
+<!-- WRAPPER để tránh đụng chạm global -->
+<div data-pdf-wrapper>
+  <!-- Trigger icon -->
+  <div data-pdf-trigger title="Xem PDF">
+    <svg class="pdf-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
+      <text x="6" y="18" font-size="8" fill="white">PDF</text>
+    </svg>
+  </div>
 
-<!-- Modal -->
-<div class="pdf-modal-overlay" id="pdf-modal" style="display:none;">
-  <div class="pdf-modal">
-    <div class="pdf-modal-header">
-      <span>📄 PDF Viewer</span>
-      <div>
-        <a href={pdfUrl} target="_blank" rel="noopener">
-          <button>Xem trong tab mới</button>
-        </a>
+  <!-- Modal -->
+  <div class="pdf-modal-overlay" data-pdf-modal>
+    <div class="pdf-modal">
+      <div class="pdf-modal-header">
+        <span>📄 {title}</span>
+        <div>
+          <a href={pdfUrl} target="_blank" rel="noopener">
+            <button>Xem tab mới</button>
+          </a>
 
-        {isPdf && (
-          <>
-            <a href={pdfUrl} download><button>Tải về</button></a>
-            <button id="doc-print">In</button>
-          </>
-        )}
+          {isPdf && (
+            <>
+              <a href={pdfUrl} download><button>Tải về</button></a>
+            </>
+          )}
 
-        <button id="pdf-close">✖</button>
+          <button data-pdf-close>✖</button>
+        </div>
       </div>
-    </div>
 
-    {isPdf ? (
-      <iframe src={pdfUrl}></iframe>
-    ) : (
-      <div class="doc-modal-content" id="doc-content">⏳ Đang tải...</div>
-    )}
+      {isPdf ? (
+        <iframe src={pdfUrl}></iframe>
+      ) : (
+        <div class="doc-modal-content">⏳ Đang tải...</div>
+      )}
+    </div>
   </div>
 </div>
 
 <script>
-  const trigger = document.getElementById("pdf-trigger");
-  const modal = document.getElementById("pdf-modal");
-  const closeBtn = document.getElementById("pdf-close");
+  const wrapper = document.currentScript.closest("[data-pdf-wrapper]");
+  const trigger = wrapper.querySelector("[data-pdf-trigger]");
+  const modal = wrapper.querySelector("[data-pdf-modal]");
+  const closeBtn = wrapper.querySelector("[data-pdf-close]");
 
-  trigger?.addEventListener("click", () => {
+  trigger.addEventListener("click", () => {
     modal.style.display = "flex";
   });
 
-  closeBtn?.addEventListener("click", () => {
+  closeBtn.addEventListener("click", () => {
     modal.style.display = "none";
   });
 
-  modal?.addEventListener("click", (e) => {
-    if (e.target === modal) modal.style.display = "none"; // click outside closes
+  modal.addEventListener("click", (e) => {
+    // click outside modal content
+    if (e.target === modal) modal.style.display = "none";
   });
 </script>

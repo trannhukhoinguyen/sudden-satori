@@ -1,0 +1,110 @@
+---
+const { src, title = "PDF", modalId } = Astro.props;
+// Safer check
+const isPdf = typeof src === "string" && src?.toLowerCase?.().endsWith?.(".pdf");
+---
+<style>
+    .pdf-trigger {
+        display: inline-flex;
+        align-items: center;
+        gap: .4rem;
+        cursor: pointer;
+        color: var(--color-accent-red);
+        margin-left: .5rem;
+        text-decoration: none;
+    }
+    .pdf-trigger svg { height: 1.25rem; transition: transform .15s; }
+    .pdf-trigger:hover svg { transform: scale(1.15); }
+
+    /* CSS-only modal using :target */
+    .pdf-modal {
+        position: fixed;
+        inset: 0;
+        display: none; /* hidden by default */
+        justify-content: center;
+        align-items: center;
+        z-index: 99999; /* VERY high so header can't cover it */
+        background: rgba(0,0,0,0.55);
+        padding: 2rem;
+    }
+
+    /* when targetted, show modal */
+    .pdf-modal:target {
+        display: flex;
+    }
+
+    .pdf-modal-dialog {
+        background: var(--color-background);
+        width: 100%;
+        max-width: 1000px;
+        height: 90vh;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+
+    .pdf-modal-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: .6rem 1rem;
+        border-bottom: 1px solid var(--color-border);
+        background: var(--color-background);
+        gap: .5rem;
+    }
+
+    .pdf-modal-header .actions { display:flex; gap:.5rem; align-items:center; }
+
+    .pdf-modal-header a.button,
+    .pdf-modal-header .close-btn {
+        background: var(--color-accent-goldenrod);
+        color: var(--color-text-primary);
+        border: none;
+        border-radius: 6px;
+        padding: .25rem .5rem;
+        text-decoration: none;
+        cursor: pointer;
+        font-size: .95rem;
+    }
+
+    .pdf-frame { flex: 1; border: none; width: 100%; height: 100%; }
+
+    /* small screens */
+    @media (max-width:600px) {
+        .pdf-modal { padding: 1rem; }
+        .pdf-modal-dialog { height: 85vh; }
+    }
+</style>
+
+<!-- trigger opens modal via hash -->
+<a class="pdf-trigger" href={"#" + modalId} aria-controls={modalId} title={`Xem ${title}`}>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true">
+    <path fill="currentColor" d="M6 2h9l5 5v15a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
+    <text x="6" y="18" font-size="8" fill="white">PDF</text>
+  </svg>
+  <span class="sr-only">{title}</span>
+</a>
+
+<!-- modal element — id must match hash -->
+<div id={modalId} class="pdf-modal" role="dialog" aria-modal="true" aria-label={title}>
+  <div class="pdf-modal-dialog">
+    <div class="pdf-modal-header">
+      <div>{title}</div>
+      <div class="actions">
+        <a class="button" href={src} target="_blank" rel="noopener">Mở tab mới</a>
+        {isPdf && <a class="button" href={src} download> Tải về </a>}
+        <!-- close: navigate back to top (or other safe anchor). Using href="#" closes modal.
+             If your header is in-page with id, you may prefer href="#top" -->
+        <a class="close-btn" href="#" title="Đóng">✖</a>
+      </div>
+    </div>
+
+    {isPdf ? (
+      <iframe class="pdf-frame" src={src} title={title}></iframe>
+    ) : (
+      <div style="padding:1rem;">Tập tin không phải PDF hoặc không hợp lệ.</div>
+    )}
+  </div>
+</div>

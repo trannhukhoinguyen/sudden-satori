@@ -1,33 +1,49 @@
 ---
 import { calculateReadingTime, extractTextFromMarkdown } from "../../utils/reading-time";
-import PdfViewer from "../ui/PdfViewer.astro";
+import PdfViewer from "../ui/PdfViewerNoJs.astro";
 import SpeechViewer from "../ui/SpeechViewer.astro";
-
 
 const { post } = Astro.props;
 
 const rawContent = post.body || post.rawContent?.() || "";
 const plainText = extractTextFromMarkdown(rawContent);
 const readingTime = calculateReadingTime(plainText);
+
+// Build array of PDF data (only data here — no JSX)
+const pdfItems = [];
+
+// helper to create a stable-ish id per url (safe in frontmatter)
+const makeId = (url, idx) =>
+  `pdf-${(url || "").replace(/[^a-z0-9]/gi, '')?.slice(0,30) || 'x'}-${idx}`;
+
+let idx = 0;
+if (post.frontmatter.pdfUrl) {
+  pdfItems.push({ src: post.frontmatter.pdfUrl, title: `PDF`, id: makeId(post.frontmatter.pdfUrl, ++idx) });
+}
+if (post.frontmatter.pdfUrl2) {
+  pdfItems.push({ src: post.frontmatter.pdfUrl2, title: `PDF`, id: makeId(post.frontmatter.pdfUrl2, ++idx) });
+}
+if (Array.isArray(post.frontmatter.pdfUrls) && post.frontmatter.pdfUrls.length) {
+  post.frontmatter.pdfUrls.forEach((url) => {
+    pdfItems.push({ src: url, title:  `PDF`, id: makeId(url, ++idx) });
+  });
+}
 ---
-
 <span class="post-reading-time">
-    ⌛️
-    {readingTime}
+  ⌛️ {readingTime}
 
-    <!-- PDF Viewer -->
-    {
-        post.frontmatter.pdfUrl && <PdfViewer pdfUrl={post.frontmatter.pdfUrl} title={post.frontmatter.title} />
-    }
-    {
-        post.frontmatter.pdfUrl2 && <PdfViewer pdfUrl={post.frontmatter.pdfUrl2} title={post.frontmatter.title} />
-    }
-    {
-        post.frontmatter.pdfUrls
-        && post.frontmatter.pdfUrls?.length
-        && post.frontmatter.pdfUrls?.map((pdfUrl, index) => <PdfViewer pdfUrl={pdfUrl} title={post.frontmatter.title + ` ${index + 1}`} key={index} />)
-    }
-    {
-        post.frontmatter.type === 'masters' && post.frontmatter.speechUrl && <SpeechViewer speechUrl={post.frontmatter.speechUrl} title={post.frontmatter.title} />
-    }
+  { /* render viewers in the template (allowed) */ }
+  {
+    pdfItems.map((p, i) => (
+      <PdfViewer
+        src={p.src}
+        title={p.title + (pdfItems.length > 1 ? ` (${i + 1})` : "")}
+        modalId={p.id}
+      />
+    ))
+  }
+
+  {post.frontmatter.type === "masters" && post.frontmatter.speechUrl && (
+    <SpeechViewer speechUrl={post.frontmatter.speechUrl} title={post.frontmatter.title} />
+  )}
 </span>
