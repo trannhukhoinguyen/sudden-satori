@@ -1138,7 +1138,8 @@ Thế nào người tu hành
 
 Hai câu này thuộc câu Thế nào tu hành thoái.
 
-Dục giới sao không giác A-ca-ni-tra thành
+Dục giới sao không giác 
+A-ca-ni-tra thành
 Đây thuộc bốn câu Thế nào ở Dục giới không thành Đẳng chánh giác, A-ca-ni-tra Trung Hoa dịch là trời Sắc cứu cánh.
 
 Thế nào tục thần thông
@@ -1147,13 +1148,16 @@ Thuộc câu Thế nào thế tục thông.
 Thế nào là Tỳ-kheo
 Thuộc hai câu Thế nào Tỳ-ni, Tỳ-kheo.
 
-Thế nào là hóa Phật, Thế nào là báo Phật
-Thế nào Phật như như Phật bình đẳng trí huệ
+Thế nào là hóa Phật, 
+Thế nào là báo Phật
+Thế nào Phật như như 
+Phật bình đẳng trí huệ
 Thế nào là chúng tăng.
 
 Thuộc câu Tăng-già có mấy bậc.
 
-Phật tử hỏi như thế Đàn, trống eo lưng, hoa
+Phật tử hỏi như thế 
+Đàn, trống eo lưng, hoa
 Cõi nước lịa ánh sáng.
 
 Thuộc mười câu Thế nào hình nhật nguyệt trở xuống.
@@ -1161,17 +1165,22 @@ Thuộc mười câu Thế nào hình nhật nguyệt trở xuống.
 Tám địa đó có bảy
 Thuộc câu Thế nào là Thất địa.
 
-Chỗ hỏi đều như thật Câu này và nhiều câu kia¹
-Phật tử chớ cẩn hỏi Mỗi mỗi tướng tương ưng
+Chỗ hỏi đều như thật 
+Câu này và nhiều câu kia¹
+Phật tử chớ cẩn hỏi 
+Mỗi mỗi tướng tương ưng
 Xa lìa các lỗi chấp.
 
 Năm câu này là khen lời hỏi của Đại Huệ xứng lý và không lỗi.
 
 Nhưng ý hỏi của Đại Huệ có thứ lớp có chủ định, mà Thế Tôn lập lại, đại khái tổng quát những lời ấy, không theo thứ tự, và lập lại cũng không hết. Nên kết luận rằng “Đây và các câu khác”, ý nói rằng chỗ hỏi của Phật tử mỗi mỗi đều cùng thật lý tương ưng, xa lìa các lỗi kiến chấp. Nhưng tuy thế mà pháp ly ngôn thuyết, nay ở chỗ không lời bày lời cho nên câu kết sau đây nói:
 
-Tất-đàn lìa ngôn thuyết Ta nay sẽ hiển bày
-Thứ lớp dựng lập câu Phật tử khéo lóng nghe
-Trăm lẻ tám câu trên Như chỗ chư Phật nói.
+Tất-đàn lìa ngôn thuyết 
+Ta nay sẽ hiển bày
+Thứ lớp dựng lập câu 
+Phật tử khéo lóng nghe
+Trăm lẻ tám câu trên 
+Như chỗ chư Phật nói.
 
 Sáu câu này là kết luận lập lại nghĩa câu hỏi, hứa sẽ nói và dặn lóng nghe, mở đường cho ý đáp ở sau.
 
