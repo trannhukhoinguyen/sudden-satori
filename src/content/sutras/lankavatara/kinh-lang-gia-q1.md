@@ -13,7 +13,9 @@ videoId: vwOi8UCTCp0
 videoStart: 1071
 ---
 
-## MỤC LỤC [🔗](/sutras/kinh-lang-gia-gioi-thieu-va-muc-luc)
+## MỤC LỤC  
+
+[🔗](/sutras/kinh-lang-gia-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 
