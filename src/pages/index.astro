@@ -9,6 +9,8 @@ import { CONTENT_MAP } from "@/utils/getMarkdownContent";
 import { toKebabCase } from "@/utils/helper";
 import Hero from "../components/ui/Hero.astro";
 import HeroCustomized from "../components/ui/HeroCustomized.astro";
+import HeroPlaces from "../components/ui/HeroPlaces.astro";
+import pagodas from "../data/pagodas";
 
 const maxQuantity = 6;
 const tagLine1 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -59,7 +61,7 @@ const description = "Xem " + title;
 >
   <div class="landing-page">
 
-<!--    &lt;!&ndash; HeroCustomized Section &ndash;&gt;
+    <!-- HeroCustomized Section -->
     <HeroCustomized
       title="GIỚI THIỆU HT.TS. THÍCH DUY LỰC"
       subTitle="HT.TS. Thích Duy Lực"
@@ -76,21 +78,15 @@ const description = "Xem " + title;
           tagLine: "HT. Thích Duy Lực",
         },
       ]}
-    />-->
+    />
 
-    <!--    &lt;!&ndash; HeroCustomized Section &ndash;&gt;
+        <!-- HeroCustomized Section -->
         <HeroPlaces
           title="THIỀN ĐƯỜNG TỔ SƯ THIỀN"
           subTitle="TỔ SƯ THIỀN"
           description="TỔ SƯ THIỀN"
-          places={[
-            {
-              imageUrl: "/images/",
-              imageAlt: "TV. QUY SƠN",
-              name: "TV. QUY SƠN",
-            },
-          ]}
-        />-->
+          places={pagodas}
+        />
 
     <!-- Hero Section -->
     <Hero

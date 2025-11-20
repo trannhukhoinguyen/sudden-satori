@@ -17,7 +17,7 @@ export default defineConfig({
     AutoImport({
       imports: [
         {
-          "@/components/blocks": ["Poem", "Quote", "Block"],
+
         },
       ],
     }),

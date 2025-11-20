@@ -1,5 +1,6 @@
 ---
 import PostImage from "../post/PostImage.astro";
+
 const { title, subtitle, description, places } = Astro.props;
 ---
 
@@ -12,13 +13,33 @@ const { title, subtitle, description, places } = Astro.props;
     <hr class="hero-rule" />
     <div class="hero-images">
       {
-        places
-        && places.length > 0
-        && places.map((imageUrl, imageAlt, tagLine) => (<div>
-            <PostImage imageUrl={imageUrl} imageAlt={imageAlt} />
-            <span class="blog-description">{tagLine}</span>
+        places.length > 0 ? (
+          <hr class="blog-rule" />
+          <h2 class="blog-title-medium">{title}</h2>
+          <div class="related-posts">
+            {
+              places?.map((title, image) => {
+                return (
+                  <article class="related-post-card">
+                    <h4 class="related-post-title">
+                      <a href={`/`}>
+                        {title}
+                      </a>
+                    </h4>
+
+                    <div class="related-post-meta">
+                      <PostImage imageUrl={image} imageAlt={title} />
+                    </div>
+
+                    <div class="related-post-meta">
+                      ...
+                    </div>
+                  </article>
+                )
+              })
+            }
           </div>
-        ))
+        ) : ''
       }
     </div>
   </div>
