@@ -103,12 +103,14 @@ const { frontmatter } = Astro.props;
         height: 500px; /* fix chiều cao */
         border-radius: 8px;
         overflow: hidden;
+        margin-block: calc(var(--grid-unit) * 2);
     }
 
     .video-container iframe {
         width: 100%;
         height: 100%;
         border: 0;
+        margin-block: calc(var(--grid-unit) * 1);
     }
 
     /* Link xem playlist */
@@ -120,30 +122,12 @@ const { frontmatter } = Astro.props;
         font-weight: bold;
     }
 
-    /* Khi dưới 768px (mobile) thì hiện link */
+    /* Khi dưới 768px (mobile)
+    /* Mobile breakpoint */
     @media (max-width: 768px) {
         .playlist-link {
             display: block;
         }
-    }
-
-
-    .video-container {
-        position: relative;
-        width: 100%;
-        height: 500px; /* default desktop */
-        border-radius: 8px;
-        overflow: hidden;
-    }
-
-    .video-container iframe {
-        width: 100%;
-        height: 100%;
-        border: 0;
-    }
-
-    /* Mobile breakpoint */
-    @media (max-width: 768px) {
         .video-container {
             height: auto;
             aspect-ratio: 16 / 9;
