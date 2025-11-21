@@ -9,8 +9,9 @@ categories:
     - Sức khỏe
 tags:
     - HẢI THƯỢNG LÃN ÔNG
-pdfUrl: https://drive.google.com/file/d/1U22Q9o4WzSisRpxgPVZV953FW3u0V9JH/preview
-pdfUrl2: https://drive.google.com/file/d/1QW-Td0KSpLBk40qdWVyZnZQriMPq6A_8/preview
+pdfUrls: 
+    - https://drive.google.com/file/d/1U22Q9o4WzSisRpxgPVZV953FW3u0V9JH/preview
+    - https://drive.google.com/file/d/1QW-Td0KSpLBk40qdWVyZnZQriMPq6A_8/preview
 ---
 
 

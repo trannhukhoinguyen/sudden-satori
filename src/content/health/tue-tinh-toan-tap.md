@@ -9,7 +9,8 @@ categories:
     - Sức khỏe
 tags:
     - TUỆ TĨNH
-pdfUrl: https://drive.google.com/file/d/1akzGiPt9uhEUC3pBWVqTAlZsWGO1MAbf/preview
+pdfUrls: 
+  - https://drive.google.com/file/d/1akzGiPt9uhEUC3pBWVqTAlZsWGO1MAbf/preview
 ---
 
 <hr class="blog-rule" />

@@ -72,9 +72,9 @@ Một tiếng rống thu phục tất cả
 
 📢 Ngài Lâm Tuyền nói:
 
-Biển cả ở phương Bắc có một loài cá tên côn.
+Biển cả ở phương Bắc có một loài cá tên **Côn**.
 Thân nó to lớn không biết mấy ngàn dặm, nó biến thành chim bằng.
-Lưng chim bằng dài không biết mấy ngàn dặm, nó bay trông mạnh mẽ, đôi cánh nó như mây phủ khắp trời.
+Lưng chim Bằng dài không biết mấy ngàn dặm, nó bay trông mạnh mẽ, đôi cánh nó như mây phủ khắp trời.
 Chim đó vượt biển sang Nam Ninh, Nam Ninh là ao trời.
 
 Những bậc trí sẽ lãnh hội được thí dụ này, muốn cho Nạp Tử hiểu rõ biển tánh mênh mông, bay hót tự tại, không bị giới hạn trong nhà lửa Tam Giới.
@@ -83,9 +83,9 @@ Không bị trói buộc vọng cảnh sáu trần.
 Thế nên Dược Sơn dùng duyên dưỡng tử hết mình giúp đỡ. Dù ở đảo Côn Lôn cũng tìm cách về.
 Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chuyển, chính lúc ấy làm sao biết? Chao ôi!
   
-> Tuy tuốt gươm ra khó vào vỏ.
+> Tuy tuốt gươm ra khó vào vỏ
 >
-> Chớ để cô phụ ngài Văn Thù.
+> Chớ để cô phụ ngài Văn Thù
   
 <hr class="blog-rule" />
 

@@ -1,0 +1,113 @@
+---
+import GoogleMap from "@/components/ui/GoogleMap.astro";
+
+const {
+  name= "",
+  titleName= "Thượng tọa",
+  abbot= "",
+  phone= "",
+  image= "",
+  showSchedule= true,
+  scheduleTitle= "Thời khóa",
+  scheduleSubTiTle= "Thiền Thất",
+  scheduleTime= "",
+  scheduleRepeat= "Hàng Tháng",
+  dayTimeArray= [
+    '4:00 - 6:00',
+    '8:0 - 11:00',
+    '13:00 - 17:00',
+    '18:30 - 20:30',
+  ],
+  address= "",
+  mapEmbed= "",
+} = Astro.props;
+
+// Kiểm tra xem slot có nội dung không
+const hasContent = Astro.slots.default;
+---
+
+<style>
+    .wrap {
+        display: grid;
+        gap: 1.5rem;
+        margin: 2rem 0;
+    }
+
+    /* Khi có nội dung → chia 2 cột */
+    .with-content {
+        grid-template-columns: 280px 1fr;
+    }
+
+    /* Khi không có nội dung → 1 cột full */
+    .no-content {
+        grid-template-columns: 1fr;
+    }
+
+    @media(max-width: 860px){
+        .with-content {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .sidebar {
+        padding: 1rem;
+        border-radius: 12px;
+    }
+
+    img {
+        width: 100%;
+        border-radius: 10px;
+        margin: 0.8rem 0 1.2rem 0;
+    }
+</style>
+
+<div class={`wrap ${hasContent ? "with-content" : "no-content"}`}>
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+
+    {image && <img src={image} alt={abbot} />}
+
+    <h4>🔔 Trụ trì</h4>
+    <p>{titleName}</p>
+    <h3>{abbot}</h3>
+
+    {phone && <p class="text-accent"><strong>📞</strong>{" " + phone}</p>}
+
+    <hr />
+
+    {
+      showSchedule
+      && scheduleTime
+      && dayTimeArray
+      &&
+      <h4>📆 {scheduleTitle} {scheduleSubTiTle}</h4>
+      <h5>{scheduleTime} (ÂL) {scheduleRepeat}</h5>
+      <ul>
+        <li>Khuya: <b>{dayTimeArray[0]}</b></li>
+        <li>Sáng: <b>{dayTimeArray[1]}</b></li>
+        <li>Chiều: <b>{dayTimeArray[2]}</b></li>
+        <li>Tối: <b>{dayTimeArray[3]}</b></li>
+      </ul>
+
+      <hr />
+    }
+
+    <h4>🍁 Địa chỉ</h4>
+    <p class="text-accent">{address}</p>
+
+    {
+      mapEmbed
+      &&
+      <GoogleMap
+        embed={mapEmbed}
+      />
+    }
+  </div>
+
+  <!-- MAIN CONTENT (nếu có) -->
+  {hasContent && (
+    <div>
+      <slot />
+    </div>
+  )}
+</div>

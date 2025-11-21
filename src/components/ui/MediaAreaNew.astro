@@ -1,0 +1,203 @@
+---
+import {
+  getVideoId,
+  isActiveVideo,
+  loadYoutubePlaylist
+} from "@/utils/youtube";
+
+const { frontmatter } = Astro.props;
+
+// Detect active video from URL (?v=xyz)
+const activeVideoId = typeof Astro.url === "string" ? getVideoId(Astro.url) : getVideoId(String(Astro.url ?? ""));
+
+// If playlist available → fetch playlist metadata
+let playlistData = null;
+if (frontmatter?.videoPlaylist) {
+  playlistData = await loadYoutubePlaylist(frontmatter.videoPlaylist);
+}
+---
+<div class="media-area-wrapper">
+
+  <!-- 1) SINGLE VIDEO -->
+  {frontmatter?.videoId && !frontmatter?.videoPlaylist ? (
+    <div class="video-frame">
+      <iframe
+        src={`https://www.youtube.com/embed/${frontmatter.videoId}?start=${frontmatter.videoStart ?? 0}`}
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </div>
+  ) : null}
+
+  <!-- 2) MULTIPLE VIDEOS -->
+  {frontmatter?.videoIds && !frontmatter?.videoPlaylist ? (
+    frontmatter.videoIds.map((id, idx) => (
+      <div class="video-frame" key={idx}>
+        <iframe
+          src={`https://www.youtube.com/embed/${id}?start=${frontmatter.videoStarts?.[idx] ?? 0}`}
+          title={`${frontmatter.title ?? ""} - ${idx + 1}`}
+          allowfullscreen
+        ></iframe>
+      </div>
+    ))
+  ) : null}
+
+  <!-- 3) PLAYLIST MODE (Sidebar) -->
+  {playlistData ? (
+    <div class="playlist-layout">
+      <div class="video-frame">
+        <iframe
+          src={
+            activeVideoId
+              ? `https://www.youtube.com/embed/${activeVideoId}?list=${playlistData.listId}`
+              : `https://www.youtube.com/embed/videoseries?list=${playlistData.listId}`
+          }
+          allowfullscreen
+        ></iframe>
+      </div>
+
+      <aside class="playlist-sidebar">
+        {playlistData.videos.map((vid) => (
+          <a
+            href={`?v=${vid.id}`}
+            class={`playlist-item ${isActiveVideo(activeVideoId, vid.id) ? "active" : ""}`}
+            key={vid.id}
+          >
+            <img src={vid.thumbnail} alt={vid.title} />
+            <div class="meta">
+              <p class="title">{vid.title}</p>
+              {isActiveVideo(activeVideoId, vid.id) ? <span class="tag">Đang xem</span> : null}
+            </div>
+          </a>
+        ))}
+      </aside>
+    </div>
+  ) : null}
+
+  <!-- 4) AUDIO SINGLE -->
+  {frontmatter?.audioUrl ? (
+    <div class="audio-block">
+      <h3>🎧</h3>
+      <audio controls>
+        <source src={frontmatter.audioUrl} />
+      </audio>
+    </div>
+  ) : null}
+
+  <!-- 5) AUDIO MULTIPLE -->
+  {frontmatter?.audioUrls ? (
+    frontmatter.audioUrls.map((url, i) => (
+      <div class="audio-block" key={i}>
+        {i === 0 ? <h3>🎧</h3> : null}
+        <p>Bài {i + 1}</p>
+        <audio controls src={url}></audio>
+      </div>
+    ))
+  ) : null}
+
+</div>
+
+<style>
+    .media-area-wrapper {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .video-frame {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #000;
+    }
+
+    .video-frame iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+
+    .playlist-layout {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .playlist-sidebar {
+        border-left: none;
+        border-top: 1px solid #ddd;
+        padding-top: 1rem;
+        overflow-x: auto;
+        overflow-y: hidden;
+        flex-direction: row;
+        gap: 1rem;
+    }
+
+    .playlist-item {
+        display: flex;
+        gap: 12px;
+        padding: 8px;
+        border-radius: 8px;
+        text-decoration: none;
+        color: inherit;
+        transition: background 0.18s;
+    }
+
+    .playlist-item:hover {
+        background: #f4f4f4;
+    }
+
+    .playlist-item.active {
+        background: #ffe0a977;
+    }
+
+    .playlist-item img {
+        width: 120px;
+        border-radius: 6px;
+        flex-shrink: 0;
+    }
+
+    .meta .title {
+        font-size: 0.95rem;
+        font-weight: 600;
+    }
+
+    .meta .tag {
+        display: inline-block;
+        margin-top: 4px;
+        color: #c33;
+        font-size: 0.8rem;
+        font-weight: bold;
+    }
+
+    .audio-block {
+        display: flex;
+        flex-direction: column;
+    }
+
+    @media (max-width: 768px) {
+        .playlist-layout {
+        }
+
+        .playlist-sidebar {
+            width: 100%;
+            border-left: none;
+            border-top: 1px solid #ddd;
+            padding-top: 1rem;
+            overflow-x: auto;
+            overflow-y: hidden;
+            flex-direction: row;
+            gap: 1rem;
+        }
+
+        .playlist-item {
+            flex-direction: column;
+            min-width: 240px;
+        }
+
+        .playlist-item img {
+            width: 100%;
+        }
+    }
+</style>

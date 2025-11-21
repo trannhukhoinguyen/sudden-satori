@@ -31,6 +31,7 @@
 }
 
 .blog-description {
+    text-align: center;
     font-size: 1.25rem;
     line-height: 1.6;
     color: var(--color-text-secondary);
@@ -186,6 +187,7 @@
     }
 
     .blog-description {
+        text-align: center;
         font-size: 1.125rem;
     }
 

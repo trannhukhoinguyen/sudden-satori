@@ -1,0 +1,63 @@
+---
+
+
+const {
+  src= "",
+  href= "",
+  alt= "",
+} = Astro.props;
+
+// Kiểm tra xem slot có nội dung không
+const hasContent = Astro.slots.default;
+---
+
+<style>
+    .wrap {
+        display: grid;
+        gap: 2rem;
+        margin: 2rem 0;
+    }
+
+    /* Khi có nội dung → chia 2 cột */
+    .with-content {
+        grid-template-columns: 350px 1fr;
+    }
+
+    /* Khi không có nội dung → 1 cột full */
+    .no-content {
+        grid-template-columns: 1fr;
+    }
+
+    @media(max-width: 860px){
+        .with-content {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    .sidebar {
+        padding: 1rem;
+        border-radius: 12px;
+    }
+
+    img {
+        width: 100%;
+        border-radius: 10px;
+        margin: 0.8rem 0 1.2rem 0;
+    }
+</style>
+
+<div class={`wrap ${hasContent ? "with-content" : "no-content"}`}>
+  <!-- SIDEBAR -->
+  <div class="sidebar">
+    {src && <img src={src} alt={alt} />}
+
+    <a href={href} target="_blank">➡️️ Xem đầy đủ Tiểu sử</a>
+  </div>
+
+  <!-- MAIN CONTENT (nếu có) -->
+  {hasContent && (
+    <div>
+      <slot />
+    </div>
+  )}
+</div>

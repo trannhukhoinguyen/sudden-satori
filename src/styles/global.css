@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Signika:wght@300..700&display=swap');
+
 :root {
   /* Monotone Palette */
   --color-white: #ffffff;
@@ -192,6 +194,7 @@
   --font-heading-secondary: 'Roboto Condensed', sans-serif;
   --font-body: 'Work Sans', sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
+  --font-accent: 'Bungee Spice', sans-serif;
 
   /* Layout */
   --grid-unit: 8px;
@@ -487,4 +490,14 @@ hr {
   display: grid;
   grid-template-columns: 1fr 1fr 0.6fr;
   gap: 0.5rem;
+}
+
+.tag-line-accent {
+  font-family: var(--font-accent), sans-serif !important;
+  text-align: center;
+}
+
+.text-accent {
+  color: var(--color-accent);
+  font-weight: 500;
 }

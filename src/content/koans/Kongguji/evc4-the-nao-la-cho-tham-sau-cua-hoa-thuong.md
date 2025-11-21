@@ -42,34 +42,34 @@ Sau, ngài Thanh Nguyên Hành Tư phân làm 3: Tào Động, Vân Môn, Pháp 
 Tào Khê một phái phân làm 5, điều này đúng với lời huyền ký của Sơ Tổ “Một hoa nở năm cánh”.
 Nói chung điển tắc truyền pháp không có khác nhau, nhưng trên phương diện xây dựng tông phong không đồng.
 
-Như dáng nữ nhân lễ là cơ dụng của tông Quy Ngưỡng.
+Như dáng nữ nhân lễ là cơ dụng của tông **Quy Ngưỡng**.
 
 Tông môn này có 97 tướng hình tròn, còn có 6 pháp phương tiện diệu dụng hợp lẫn nhau:
 
 - 1 Viên Tướng,
 - 2 Nghĩa Hải,
-- 3 Âm Cơ,
-- 4 Đa tự học,
-- 5 Ý ngữ,
-- 6 Mặc luận.
+- 3 Ám Cơ,
+- 4 Đa Tự Học,
+- 5 Ý Ngữ,
+- 6 Mặc Luận
 
-Nay điểm đáp của Đạo Ngô thuộc về Âm Cơ và Mặc luận, nghĩa là gặp mặt chào nhau.
-Chính là của huyền thiết áo đã truyền trao nhau rồi.
+Nay điểm đáp của Đạo Ngô thuộc về **Ám Cơ** và **Mặc Luận**, nghĩa là gặp mặt chào nhau.
+Chính là của huyền thâm áo đã truyền trao nhau rồi.
 
 Chỗ nói rộng nhiều bí ẩn khó nhận ra.
-Chánh nhân mà lại thì trở thành bày vẽ, đã bị người thấy được.
-Vậy thì thước y là đúng hay phạt y là phải.
+Chánh nhân nhìn lại thì trở thành bày vẽ, đã bị người thấy được.
+Vậy thì thưởng y là đúng hay phạt y là phải.
 Ngài Đầu Tử biết rõ ý này.
 
 ## TỤNG CỔ
 
 <blockquote>
 
-Ly long đầy biển, mây lành trời cao
+Ly long đáy biển, mây lành trời cao
 
 Bốn phương đồng tông, vạn dòng về biển
 
-Người gõ đến hỏi việc Tây cung
+Người gỗ đến hỏi việc Tây cung
 
 Về tặng Đông Viên một quả đào
 </blockquote>
@@ -78,31 +78,31 @@ Về tặng Đông Viên một quả đào
 
 📢 Ngài Lâm Tuyền nói:
 
-Rồng thuận theo mây, hổ xuôi chịu gió, quy luật của sự vật thường nương vào nhau hoàn toàn không ngăn ngại.
+Rồng thuận theo mây, hổ xuôi chìu gió, quy luật của sự vật thường nương vào nhau hoàn toàn không ngăn ngại.
 
 Cho dù đứng trên đỉnh núi cao ngất, ngại gì chót mũi chạm trời.
 
-Đi tận đáy biển sâu, nhận rõ gót chân chạm đất.
+Đi tận đáy biển sâu, nhận rõ gót chân chấm đất.
 
-Không chỉ sáu của mờ, ngay cả ngã tư đường cũng không có dấu vết.
+Không chỉ sáu cửa mờ, ngay cả ngã tư đường cũng không có dấu vết.
 
 Nếu hiểu được như vậy, thì đâu còn tính lường sâu hay cạn.
 
-Mặc cho các duyên lăng động, đâu lo vạn dòng không về biển cả.
+Mặc cho các duyên lắng đọng, đâu lo vạn dòng không về biển cả.
 
 Mặc cho ở bốn phương xa xăm, vẫn hết lòng hỗ trợ một mối.
 
-Thế nhưng cung cấm nhiều lớp nên khó thấy nghe, người đã gài gỗ truyền tin tức sai.
+Thế nhưng cung cấm nhiều lớp nên khó thấy nghe, người đá gái gỗ truyền tin tức sai.
 
-Bất ngờ được chiếu vua ban, thời nay ngài gì nơi heo lánh.
+Bất ngờ được chiếu vua ban, thời nay ngại gì nơi heo lánh.
 
-Đã bày tỏ hết lòng, chớ có quên đâu nhận bóng. Có hội chăng?
-
+Đã bày tỏ hết lòng, chớ có quên đầu nhận bóng. Có hội chăng?
+    
 <blockquote>
 
 Lúc trăng rằm giai nhân cầu nguyện
 
-Áo xiêm thả thuốt mấy ai hay
+Áo xiêm tha thướt mấy ai hay
 
 Chàng Lưu đi rồi xuân vắng chủ
 
