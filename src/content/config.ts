@@ -32,6 +32,20 @@ const places = defineCollection({
   }),
 });
 
+const pagodas = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/pagodas" }),
+  schema: z.object({
+    type: z.string().default("places"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Thiền đường"),
+    description: z.string().optional(),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    image: z.string().optional(),
+  }),
+});
+
 const books = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/books" }),
   schema: z.object({
@@ -205,6 +219,7 @@ const films = defineCollection({
 export const collections = {
   blogs,
   places,
+  pagodas,
   books,
   koans,
   sutras,
