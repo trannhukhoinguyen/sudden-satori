@@ -78,10 +78,16 @@ Im lặng giây lâu nói: Biết nhau chăng? Trên bàn cân điểm thăng b�
 
 ## TỤNG CỔ
 
-> Ai cũng biết ba năm một năm nhuận.
-Có kẻ lo mơ chẳng nhớ rõ.
-Đêm qua nhạn về biển ái xa.
-> Gió bắc thổi gãy cây dưới trăng.
+<blockquote>
+
+Ai cũng biết ba năm một năm nhuận
+
+Có kẻ lo mơ chẳng nhớ rõ
+
+Đêm qua nhạn về biển ái xa
+
+Gió bắc thổi gãy cây dưới trăng
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -107,7 +113,7 @@ Thuận tay cầm lấy nhắc cân xa rồi lặng. Chớ tìm trên cán cân,
 
 ## NGUỒN
 
-> ✨ ...
+✨ > ✨ <a href="" target="_blank">🔗 </a>
 
 <hr class="blog-rule" />
 

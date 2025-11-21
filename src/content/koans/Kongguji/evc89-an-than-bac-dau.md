@@ -94,10 +94,16 @@ Vì muốn ông hiểu trí không thể biết được chỗ biết. Thức kh
 
 ## TỤNG CỔ
 
-> Núi Nam Nhạc cao Bắc Nhạc thấp.
-Người ra đi ngàn lệ ngập ngừng.
-Sao Hỏa đêm qua về ngưu đầu.
-Soi thấy người Tây Cù chẳng biết.
+<blockquote>
+
+Núi Nam Nhạc cao Bắc Nhạc thấp
+
+Người ra đi ngàn lệ ngập ngừng
+
+Sao Hỏa đêm qua về ngưu đầu
+
+Soi thấy người Tây Cù chẳng biết
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -120,7 +126,7 @@ Uổng công gắng tìm cầu.
 
 ## NGUỒN
 
-> ✨ ...
+✨ > ✨ <a href="" target="_blank">🔗 </a>
 
 <hr class="blog-rule" />
 

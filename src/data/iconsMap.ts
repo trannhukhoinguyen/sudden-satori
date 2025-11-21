@@ -17,6 +17,12 @@ const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     categorized: '🚩',
   },
 
+  pagodas: {
+    'Giới thiệu': '⛩️',
+    'Chưa phân loại': '⚡️',
+    categorized: '☀️',
+  },
+
   masters: {
     'Giới thiệu': '💫',
     'Chưa phân loại': '⭐️',

@@ -76,10 +76,16 @@ Thật là đáng thương thành khẩn một lòng ngưỡng vọng uy đức.
 
 ## TỤNG CỔ
 
-> Thâm cung cấm điện nhiều lớp thành,
-Mái hiên buông rèm còn sắc tía.
-Rêu xanh phủ kín tiếp thánh triều,
-> Mọi người chỉ đường chớ chần chờ.
+<blockquote>
+
+Thâm cung cấm điện nhiều lớp thành
+
+Mái hiên buông rèm còn sắc tía
+
+Rêu xanh phủ kín tiếp thánh triều
+
+Mọi người chỉ đường chớ chần chờ
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -102,7 +108,7 @@ Tác giả thiên khách tối ky chần chờ, nạp tăng thông minh cần ph
 
 ## NGUỒN
 
-> ✨ ...
+✨ > ✨ <a href="" target="_blank">🔗 </a>
 
 <hr class="blog-rule" />
 

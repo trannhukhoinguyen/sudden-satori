@@ -85,23 +85,29 @@ Có 4 thứ phân biệt rõ:
 
 Lâm Tuyền tuy là có tạo chi tiết, ý muốn cắt đứt dây rễ, đánh tan hang ổ. 
 
-> Dùng nêm đẩy nêm, lấy độc trị độc
-> 
-> Cửa không khóa mộng như đã biết nhau
-> 
-> Nhớ mãi không quên nên mỗi đêm ăn
-> 
-> Chỗ tụng Đầu Tử chỗ tạo cảnh bội
+<blockquote>
+
+Dùng nêm đẩy nêm, lấy độc trị độc
+
+Cửa không khóa mộng như đã biết nhau
+
+Nhớ mãi không quên nên mỗi đêm ăn
+
+Chỗ tụng Đầu Tử chỗ tạo cảnh bội
+</blockquote>
 
 ## TỤNG CỔ
 
-> Cỏ non mơn mởn bên lối nhỏ
-> 
-> Nước suối trong núi xanh biêng biếc
-> 
-> Văn nào tả nổi nước sông Vị
-> 
-> Kẻ danh vọng thẹn với Trang Chu
+<blockquote>
+
+Cỏ non mơn mởn bên lối nhỏ
+
+Nước suối trong núi xanh biêng biếc
+
+Văn nào tả nổi nước sông Vị
+
+Kẻ danh vọng thẹn với Trang Chu
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -159,7 +165,7 @@ Hãy nói ngay đây hội được chăng?
 
 ## NGUỒN
 
-> ✨ ...
+✨ > ✨ <a href="" target="_blank">🔗 </a>
 
 <hr class="blog-rule" />
 

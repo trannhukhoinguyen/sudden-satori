@@ -14,7 +14,7 @@ pdfUrl2: https://drive.google.com/file/d/1QW-Td0KSpLBk40qdWVyZnZQriMPq6A_8/previ
 ---
 
 
-<hr className="blog-rule" />
+<hr class="blog-rule" />
 
 ## NGUỒN
 
@@ -22,7 +22,7 @@ pdfUrl2: https://drive.google.com/file/d/1QW-Td0KSpLBk40qdWVyZnZQriMPq6A_8/previ
 
 > ✨ <a href="https://yhoccotruyenqd.vn/kien-thuc-yhct/Tac-pham-kinh-dien/hai-thuong-y-tong-tam-linh-34.html" target="_blank">yhoccotruyenqd</a>
 
-<hr className="blog-rule" />
+<hr class="blog-rule" />
 
 ## GHI CHÚ
 

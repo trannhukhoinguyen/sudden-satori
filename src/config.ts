@@ -64,6 +64,7 @@ export const config: SiteConfig = {
     "koans",
 
     "places",
+    "pagodas",
     "practices",
 
     "masters",
@@ -96,6 +97,7 @@ export const config: SiteConfig = {
     equanimityBook: "Thong Dong Lục", // Shoyoroku
 
     places: "Địa danh",
+    pagodas: "Thiền đường",
     practices: "Thực hành",
     zongjinglus: "Tông Cảnh Lục",
 
@@ -126,6 +128,7 @@ export const config: SiteConfig = {
     equanimityBook: "Xem các Công án Thong Dong Lục Tổ Sư Thiền",
 
     places: "Xem các Địa danh",
+    pagodas: "Xem các Thiền đường",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
     zongjinglus: "Xem Tông Cảnh Lục",
 

@@ -50,10 +50,16 @@ Nếu các ông khéo xoay đầu lại, thì sẽ thấy người lái xe chín
 
 ## TỤNG CỔ
 
-> Trời đất một vòng quay,
-Muôn tượng đồng xe chuyển.
-Người ngồi xe chưa tỉnh,
-Ai hay chính mình xoay.
+<blockquote>
+
+Trời đất một vòng quay
+
+Muôn tượng đồng xe chuyển
+
+Người ngồi xe chưa tỉnh
+
+Ai hay chính mình xoay
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -67,7 +73,7 @@ Các ông nếu ngộ được chỗ “ngồi xe” này, thì mới biết t�
 
 ## NGUỒN
 
-> ✨ ...
+✨ > ✨ <a href="" target="_blank">🔗 </a>
 
 <hr class="blog-rule" />
 

@@ -38,13 +38,16 @@ Tuyết Đậu sau khi đã nêu cả hai, lại dơ gậy lên nói, “Còn c�
 
 Hãy xem Tuyết Đậu bày vẽ dây dưa:
 
-> Lão quê có thể không nhướng mày,
->
-> Mong rằng nhà nước được vững mạnh.
->
-> Mưu thần mãnh tướng giờ đâu hết?
->
-> Vạn dặm gió mát chỉ tự biết.
+<blockquote>
+
+Lão quê có thể không nhướng mày
+
+Mong rằng nhà nước được vững mạnh
+
+Mưu thần mãnh tướng giờ đâu hết?
+
+Vạn dặm gió mát chỉ tự biết
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -70,11 +73,11 @@ Một miệng nuốt luôn tất cả mọi người. Cho nên mới nói rằng
 
 > ✨ https://hoavouu.com/p16a12790/5/tac-thu-sau-muoi-mot-mot-hat-bui-cua-phong-huyet
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43268/17-tac-57-tac-62
+> ✨ : https://quangduc.com/p1241a43268/17-tac-57-tac-62
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-07
+> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-07
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
+> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
 
 <hr class="blog-rule" />
 

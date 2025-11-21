@@ -111,7 +111,7 @@ Thế nên nói người hết đã bày, người nhận y Như Lai xuất hi�
 
 ## NGUỒN
 
-> ✨ ...
+✨ > ✨ <a href="" target="_blank">🔗 </a>
 
 <hr class="blog-rule" />
 

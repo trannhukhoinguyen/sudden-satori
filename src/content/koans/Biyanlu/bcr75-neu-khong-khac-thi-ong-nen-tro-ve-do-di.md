@@ -117,11 +117,11 @@ Lúc Ô Cữu trao cán (gậy) cho ông tăng kia, phải chăng là quá vô �
 
 > ✨ https://hoavouu.com/p16a12805/5/tac-thu-bay-muoi-lam-o-cuu-hoi-phap-dao
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43271/20-tac-73-tac-76
+> ✨ : https://quangduc.com/p1241a43271/20-tac-73-tac-76
 >
-> ✨ Nguồn: http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-08
+> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-08
 >
-> ✨ Nguồn: https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/8
+> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/8
 
 <hr class="blog-rule" />
 

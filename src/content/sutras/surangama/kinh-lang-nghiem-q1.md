@@ -483,7 +483,7 @@ Do đó, Phật bảo đại chúng rằng:
 
 <hr class="blog-rule" style="" />
 
-> ✨ Nguồn: ...
+> ✨ : ...
 
 <hr class="blog-rule" />
 

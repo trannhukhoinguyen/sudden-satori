@@ -79,7 +79,7 @@ Tụng của Tuyết Đậu về công án này là cùng một loại với t�
 
 > ✨ https://hoavouu.com/p16a12751/5/tac-thu-hai-muoi-bay-the-lo-kim-phong-cua-van-mon
 >
-> ✨ Nguồn: https://quangduc.com/p1241a43261/10-tac-26-tac-30
+> ✨ : https://quangduc.com/p1241a43261/10-tac-26-tac-30
 
 <hr class="blog-rule" />
 

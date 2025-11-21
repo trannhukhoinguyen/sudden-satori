@@ -24,4 +24,4 @@ translators:
 
 ## NGUỒN
 
-> ✨ Nguồn: https://thuvienhoasen.org/a36279/thien-tong-va-gioi-luat-phat-giao-thanh-thi-va-phat-giao-trong-nui
+> ✨ : https://thuvienhoasen.org/a36279/thien-tong-va-gioi-luat-phat-giao-thanh-thi-va-phat-giao-trong-nui
