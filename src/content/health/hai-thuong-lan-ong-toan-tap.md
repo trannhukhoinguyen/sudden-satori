@@ -19,12 +19,12 @@ pdfUrls:
 
 ## NGUỒN
 
-> ✨ <a href="https://vi.wikipedia.org/wiki/H%E1%BA%A3i_Th%C6%B0%E1%BB%A3ng_y_t%C3%B4ng_t%C3%A2m_l%C4%A9nh" target="_blank">Wikipedia</a>
+> 🔗 <a href="https://vi.wikipedia.org/wiki/H%E1%BA%A3i_Th%C6%B0%E1%BB%A3ng_y_t%C3%B4ng_t%C3%A2m_l%C4%A9nh" target="_blank">Wikipedia</a>
 
-> ✨ <a href="https://yhoccotruyenqd.vn/kien-thuc-yhct/Tac-pham-kinh-dien/hai-thuong-y-tong-tam-linh-34.html" target="_blank">yhoccotruyenqd</a>
+> 🔗 <a href="https://yhoccotruyenqd.vn/kien-thuc-yhct/Tac-pham-kinh-dien/hai-thuong-y-tong-tam-linh-34.html" target="_blank">yhoccotruyenqd</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️
+[^1]: 📝

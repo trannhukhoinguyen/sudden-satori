@@ -119,24 +119,16 @@ Lại nói, “Khám phá ra rồi.” Đó là Tuyết Đậu khám phá Cồ �
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12829/tac-thu-chin-muoi-bay-kim-cuong-kinh-khinh-tien" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43276/25-tac-96-tac-98" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
-
-> ✨ https://hoavouu.com/p16a12829/5/tac-thu-chin-muoi-bay-kim-cuong-kinh-khinh-tien
->
-> ✨ : https://quangduc.com/p1241a43276/25-tac-96-tac-98
->
-> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10
->
-> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ 
+[^1]: 📝 

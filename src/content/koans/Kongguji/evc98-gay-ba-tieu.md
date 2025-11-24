@@ -95,13 +95,13 @@ Bèn vác ngang cây gậy nói:
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Bajiao-Huiqing" target="_blank">📌 TS BA TIÊU HUỆ THANH</a>
+[^1]: 📝 <a href="/masters/Bajiao-Huiqing" target="_blank">TS BA TIÊU HUỆ THANH</a>
 
 
 

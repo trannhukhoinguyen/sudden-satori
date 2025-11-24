@@ -724,10 +724,10 @@ Những năm gần dây, thiền viện Bá Lâm giống như quê hương tâm 
 
 ## NGUỒN
 
-> ✨ <a href="https://daophatkhatsi.vn/thien-ngo-phan-8.html" target="_blank">🔗</a>
+> 🔗 <a href="https://daophatkhatsi.vn/thien-ngo-phan-8.html" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ 
+[^1]: 📝 

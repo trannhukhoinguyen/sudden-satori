@@ -822,10 +822,10 @@ Ma dã như liệt Phật giả như).
 
 ## NGUỒN
 
-> ✨ <a href="https://daophatkhatsi.vn/thien-ngo-phan-3.html" target="_blank">🔗</a>
+> 🔗 <a href="https://daophatkhatsi.vn/thien-ngo-phan-3.html" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ 
+[^1]: 📝 

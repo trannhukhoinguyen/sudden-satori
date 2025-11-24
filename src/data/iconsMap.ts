@@ -25,7 +25,7 @@ const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
 
   masters: {
     'Giới thiệu': '💫',
-    'Chưa phân loại': '⭐️',
+    'Chưa phân loại': '📝',
     categorized: '🌟',
   },
 

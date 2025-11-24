@@ -3,7 +3,6 @@ title: "TỌA THIỀN DỤNG TÂM KÝ"
 meta_title: "Tọa Thiền Dụng Tâm Ký"
 description: ""
 excerpt: ""
-showInHomepage: true
 categories:
   - Thực hành
 tags:
@@ -15,6 +14,7 @@ authors:
 image: /images/koans/great-wave.webp
 videoId: MZSh7XxjQU4
 pdfUrl: /pdfs/books/toa-thien-dung-tam-ky.pdf
+showInHomepage: true
 ---
 
 ## GIỚI THIỆU THIỀN SƯ OÁNH SƠN
@@ -118,10 +118,10 @@ Sau khi xuất định, không để ý mà vẫn hiện oai nghi, được vậ
 
 ## NGUỒN
 
-> ✨ <a href="https://www.thienlam.org/news/HT-Thich-Thanh-Tu-22/Toa-Thien-Dung-Tam-Ky-126/" target="_blank">thienlam.org</a>
+> 🔗 <a href="https://www.thienlam.org/news/HT-Thich-Thanh-Tu-22/Toa-Thien-Dung-Tam-Ky-126/" target="_blank">thienlam.org</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Keizan-Jokin" target="_blank">📌 TS OÁNH SƠN THIỆU CẨN</a>
+[^1]: 📝 <a href="/masters/Keizan-Jokin" target="_blank">TS OÁNH SƠN THIỆU CẨN</a>

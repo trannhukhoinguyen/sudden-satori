@@ -122,24 +122,16 @@ Nếu như là bậc đại trượng phu, thì tâm vẫn cứ còn là con ch�
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12784/tac-thu-nam-muoi-sau-mot-mui-ten-pha-ba-ai-cua-van-mon" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43267/16-tac-53-tac-56" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-06" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
-
-> ✨ https://hoavouu.com/p16a12784/5/tac-thu-nam-muoi-sau-mot-mui-ten-pha-ba-ai-cua-van-mon
->
-> ✨ : https://quangduc.com/p1241a43267/16-tac-53-tac-56
->
-> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-06
->
-> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Qinshan-Wensui/" target="_blank">📌 TS KHÂM SƠN VĂN THÚY</a>
+[^1]: 📝 <a href="/masters/Qinshan-Wensui/" target="_blank">TS KHÂM SƠN VĂN THÚY</a>

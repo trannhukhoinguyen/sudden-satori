@@ -523,7 +523,9 @@ La Sơn Đạo Nhàn trèo đèo lội suối từ Phúc Kiến mà đến Giang
 
 Nhưng, bất luận thế nào La Sơn cũng không có cách gì bài trừ toàn bộ những mối hoài nghi lo lắng khiến người ta đau đầu nát óc này, không thể không tiếp tục chịu đựng sự dày vò vô cùng đau khổ.
 
-Ông chưa thể khế nhập thiền cơ của Đại sư Thạch Sương đành phải mang vác cả khối nghi hoặc nặng nề to lớn từ Hồ Nam đi bộ đến Ngạc Châu Hồ Bắc (nay là Vũ Hán) tham bái Đại sư Nham Đầu. Nham Đầu là đệ tử lớn của Đức Sơn Tuyên Giám, lại là người vô cùng ngưỡng mộ tông phong của Tổ sư Lâm Tế, từng được cao túc của Lâm Tế là Thượng Tọa Định dẫn dắt, có thể nói là người đạt được một cách sâu xa chân đế của “Đức Sơn Bổng, Lâm Tế Hát”. Nên biết, ngay cả sư đệ của ngài là Đại sư Tuyết Phong Nghĩa Tồn danh tiếng hiển hách trong lịch sử Thiền Tông cũng rỗng rang triệt ngộ dưới sự bức bách cơ phong mạnh mẽ của Ngài. La Sơn Đạo Nhàn đứng trước mặt Đại sư Nham Đầu, cũng hỏi như trước: “Lúc đi ở không yên thì làm tế nào?”
+Ông chưa thể khế nhập thiền cơ của Đại sư Thạch Sương đành phải mang vác cả khối nghi hoặc nặng nề to lớn từ Hồ Nam đi bộ đến Ngạc Châu Hồ Bắc (nay là Vũ Hán) tham bái Đại sư Nham Đầu. 
+
+Nham Đầu là đệ tử lớn của Đức Sơn Tuyên Giám, lại là người vô cùng ngưỡng mộ tông phong của Tổ sư Lâm Tế, từng được cao túc của Lâm Tế là Thượng Tọa Định dẫn dắt, có thể nói là người đạt được một cách sâu xa chân đế của “Đức Sơn Bổng, Lâm Tế Hát”. Nên biết, ngay cả sư đệ của ngài là Đại sư Tuyết Phong Nghĩa Tồn danh tiếng hiển hách trong lịch sử Thiền Tông cũng rỗng rang triệt ngộ dưới sự bức bách cơ phong mạnh mẽ của Ngài. La Sơn Đạo Nhàn đứng trước mặt Đại sư Nham Đầu, cũng hỏi như trước: “Lúc đi ở không yên thì làm tế nào?”
 
 Nói thực thì, trước khi sắp lên núi, ông đã sớm chuẩn bị tốt để chịu gậy chịu hét rồi. Thế mà, Đại sư Nham Đầu đã không to tiếng la hét lại không thưởng cho ông những gậy tối đầu tối mặt, mà lại nhẹ nhàng nói: “Tùy nó đi ở, để ý nó làm gì?”
 
@@ -691,10 +693,10 @@ Cành cây lay động, làm kinh động vô số những con bươm bướm đ
 
 ## NGUỒN
 
-> ✨ <a href="https://daophatkhatsi.vn/thien-ngo-phan-6.html" target="_blank">🔗</a>
+> 🔗 <a href="https://daophatkhatsi.vn/thien-ngo-phan-6.html" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ 
+[^1]: 📝 

@@ -16,4 +16,4 @@ videoIds:
 
 ## GHI CHÚ
 
-⭐️ Xem thêm tại <a href="/interpretations/diamond/man-dam-tam-kinh" target="_blank">🔗 MẠN ĐÀM TÂM KINH</a>
+[^1]: 📝 Xem thêm tại <a href="/interpretations/diamond/man-dam-tam-kinh" target="_blank">MẠN ĐÀM TÂM KINH</a>

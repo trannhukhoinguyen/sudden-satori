@@ -170,12 +170,12 @@ Không nghe trong kinh Pháp Hoa nói sao: Dừng dùng không cần nói nữa.
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS </a>
+[^1]: 📝 <a href="/masters/" target="_blank">TS </a>
 
 

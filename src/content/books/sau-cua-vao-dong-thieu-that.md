@@ -1,13 +1,15 @@
 ---
 title: SÁU CỬA VÀO ĐỘNG THIẾU THẤT
+meta_title: Sáu cửa vào động thiếu thất
 description: ""
 excerpt: ''
-authors:
-  - TS BỒ ĐỀ ĐẠT MA
 categories:
   - Sách
 tags:
+  - LUẬN
   - Tham Thiền
+  - TS BỒ ĐỀ ĐẠT MA
+authors:
   - TS BỒ ĐỀ ĐẠT MA
 pdfUrl: /pdfs/books/sau-cua-vao-dong-thieu-that.pdf
 image: /images/koans/great-wave.webp
@@ -1349,7 +1351,7 @@ Và kệ nói rằng:
 
 ## NGUỒN
 
-> ✨ https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that
+> 🔗 https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that
 
 ## CỬA THỨ BA - NHỊ CHỦNG NHẬP
 

@@ -165,10 +165,10 @@ Hãy nói ngay đây hội được chăng?
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fushan-Fayuan" target="_blank">📌 TS PHÙ SƠN PHÁP VIỄN</a>
+[^1]: 📝 <a href="/masters/Fushan-Fayuan" target="_blank">TS PHÙ SƠN PHÁP VIỄN</a>

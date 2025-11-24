@@ -139,7 +139,7 @@
 .post-content :global(pre) {
     background-color: #000000;
     color: #ffffff;
-    padding: calc(var(--grid-unit) * 3);
+    padding: calc(var(--grid-unit) * 2);
     margin: calc(var(--grid-unit) * 4) 0;
     border-radius: 8px;
     overflow-x: auto;

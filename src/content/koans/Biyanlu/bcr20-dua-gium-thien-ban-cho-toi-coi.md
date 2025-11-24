@@ -254,23 +254,23 @@ Thử nói xem, đó là cảnh giới của Văn Thù, cảnh giới của Ph�
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12743/5/tac-thu-hai-muoi-long-nha-va-y-cua-to-su-tu-tay-thien-qua" target="_blank">🔗 hoavouu</a>
+> 🔗 <a href="https://hoavouu.com/a12743/tac-thu-hai-muoi-long-nha-va-y-cua-to-su-tu-tay-thien-qua" target="_blank">hoavouu</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43259/8-tac-20-tac-22" target="_blank">🔗 quangduc</a>
+> 🔗 <a href="https://quangduc.com/p1241a43259/8-tac-20-tac-22" target="_blank">quangduc</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 hoavouu</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">hoavouu</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">phatphapungdung</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Longya-Judun" target="_blank">📌 TS LONG NHA CƯ ĐỘN</a>
+[^1]: 📝 <a href="/masters/Longya-Judun" target="_blank">TS LONG NHA CƯ ĐỘN</a>
 
-[^2]: ⭐️ <a href="/masters/Cuiwei-Wuxue" target="_blank">📌 TS THÚY VI VÔ HỌC</a>
+[^2]: 📝 <a href="/masters/Cuiwei-Wuxue" target="_blank">TS THÚY VI VÔ HỌC</a>
 
-[^3]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">📌 TS LÂM TẾ NGHĨA HUYỀN</a>
+[^3]: 📝 <a href="/masters/Linji-Yixuan" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
 
 [^32] “Tử thủy”.
 

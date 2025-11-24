@@ -22,7 +22,16 @@ Bạch Thế Tôn Các thức có mấy chủng sinh trụ diệt
 Đức Phật bảo:
 Này Đại Huệ, về cách thức có hai chủng sinh trụ Diệt Ừ cháu phải chỗ hiểu biết suy lường được về cách thức có hai chủng sinh anh lưu trú sinh và tướng sinh anh có hai trụ lưu trú trụ và tướng trụ anh có hai chủng viện lưu trú Việt và tướng Việt Ồ
 
-Thông rằng
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+
 
 108 câu trên Như Lai chỉ Tab bằng một
 
@@ -638,7 +647,16 @@ sợ Duyên nghĩa là cảnh giới phân biệt
 
 các cái thấy nơi tự Tâm
 
-Ồ thông rằng ở trước nói hiện thức và
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước nói hiện thức và
 
 phân biệt sự tích lần lượt làm nhân cho
 
@@ -844,7 +862,16 @@ chẳng khác gì luận chất đoạn kiến của
 
 ngoại đạo
 
-Ồ thông rằng ở trước nói các thức có ba
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước nói các thức có ba
 
 chủ tướng và nói lượt có 3 chủng thức
 
@@ -1486,7 +1513,16 @@ nhấp nghĩa thấy có thấy không Rồi lập ra
 
 luận thuyết
 
-Ồ thông rằng ba đời trước Phật dụng tính
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ba đời trước Phật dụng tính
 
 tượng tính Đệ Nhất nghĩa tâm mà thành
 
@@ -2042,7 +2078,16 @@ cắn phá ta vậy quanh co mê muội vô trí
 
 rối xưng là nhất thiết trí
 
-Ồ thông rằng
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+
 
 nhưng ở trước Ngoại Đạo nói các ấm giới
 
@@ -2328,7 +2373,16 @@ Hằng trụ chẳng xạ Ngụy dịch tư duy quan
 
 sát sự sinh Khởi mê từ tâm như vậy
 
-Ồ thông rằng ngoại đạo không hiểu sợ
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ngoại đạo không hiểu sợ
 
 cảnh giới của từ tâm hiện bài như huyện
 
@@ -2876,7 +2930,16 @@ lập thế nên Đại Huệ đối với Thiện Tất
 
 Đạt phải nên tu học
 
-Ồ thông rằng tổng kết đoạn văn trên như
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tổng kết đoạn văn trên như
 
 sau liệt âm ý ý thức thứ lớp chuyển thân
 
@@ -3126,7 +3189,16 @@ Tát trong núi này thuận với tiêu vật quá
 
 khứ mà diễn thuyết biển sống vạn thức và
 
-cảnh giới pháp thân thông rằng đây Hỏi
+cảnh giới pháp thân 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đây Hỏi
 
 Mẹ năm pháp 3 từ tính và tạm thức ở
 
@@ -3292,7 +3364,16 @@ a-lại-da thức nhi Dòng nước chảy xiết
 
 Sinh Khởi sóng chuyển khóc
 
-Ồ thông rằng bốn duyên đó là duyên Căn
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bốn duyên đó là duyên Căn
 
 riêng sắc nhiên thức và duyên muốn thấy
 
@@ -3706,7 +3787,16 @@ dẫn diệt mà nhập tam-muội vì chủng tự
 
 tập khí dẫn diệt vì không còn bám vào
 
-các cạnh gọi là thất nghiệp Ồ thông rằng
+các cạnh gọi là thất nghiệp Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+
 
 ở trước nói về sống chuyển thức sinh còn
 
@@ -3886,7 +3976,16 @@ lòng với những phân biệt nên tự âm có sự
 
 nhìn nhận và hiểu biết như vậy
 
-Ồ thông rằng ở trước nói rõ tập khí Y tế
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước nói rõ tập khí Y tế
 
 rất khó biết chính là sự y tế của tam
 
@@ -4634,7 +4733,16 @@ lập họ Dũng thân là hiện thức chúng sinh
 
 các nghiệp hiện nơi kia như Gióng hiện
 
-nơi biển thông rằng Bồ Tát Đại Huệ nhân
+nơi biển 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ nhân
 
 đức Phật dạy âm ý ý thức Tuy tên gọi sai
 
@@ -5500,7 +5608,16 @@ tự giác tháng trí cho nên Đại Huệ 3
 
 Tướng tháng chí thoại xuyên tu học
 
-Ồ thông rằng tướng vô sở hữu do tu đoạn
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tướng vô sở hữu do tu đoạn
 
 mà thành tựu ngoại đạo nghị thừa cũng tô
 
@@ -6564,7 +6681,16 @@ nước vì các vật Tử thuyết pháp tu hành
 
 quan sát tự Tâm
 
-Ồ thông rằng ở trước thì Ngoại Đạo làm
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước thì Ngoại Đạo làm
 
 chất cho là tất cả pháp như thỏ không sự
 
@@ -6826,7 +6952,16 @@ dịch không hàng nơi ngoại đạo
 
 tiện thuyết cảnh giới của tự giác
 
-Ồ thông rằng sắp thị và tâm không Chỉ
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ sắp thị và tâm không Chỉ
 
 một chữ không đây đã Hiện toàn bộ cảnh
 
@@ -7134,7 +7269,16 @@ tính không tính áp kiến vọng tưởng được
 
 ánh sáng nhớ sôi luyện từ diện
 
-Ồ thông rằng Bồ Tát Đại Huệ lúc đầu hỏi
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ lúc đầu hỏi
 
 thế nào thanh tịnh niệm thế nào niệm
 
@@ -7892,7 +8036,16 @@ Bổn Nguyện nên không chứng môn tịch diện
 
 cùng thì lạc của tam muội
 
-Ồ thông rằng ở trước nói Pháp Thân Phật
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước nói Pháp Thân Phật
 
 chẳng phải cảnh giới chấp trước ngã
 
@@ -8160,7 +8313,16 @@ tướng chấp trước tính vọng tưởng chữ tín
 
 của thanhvân
 
-Ồ thông rằng ngoài đảo chất có tác giả
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ngoài đảo chất có tác giả
 
 xinh như chất cho là hết thẩy Vi Trần do
 
@@ -8642,7 +8804,16 @@ nghị bàn cách xa cảnh giới tự giác Khánh
 
 chị khi họ không nên lập luận như thế
 
-Ồ thông rằng thường không thể nghĩ bàn
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ thường không thể nghĩ bàn
 
 của ngoại đạo sợ nghị không thành bởi họ
 
@@ -8968,7 +9139,7 @@ Luân chuyển không ngừng tất cả như thế
 
 đều do họ chưa thể chuyển thức nên bị
 
-đứt chuyển ừ ừ
+đứt chuyển 
 
 các thiền sư vô nghiệp Bảo đệ tử Huệ âm
 
@@ -9070,7 +9241,16 @@ sinh trụ và Diệt Từ đó Khởi phân biệt có
 
 không
 
-Ồ thông rằng tất cả pháp không Sinh tức
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tất cả pháp không Sinh tức
 
 là tâm cảnh giới vô sở hữu đây là Pháp
 
@@ -9512,7 +9692,16 @@ thanhvân thừa và ngoại đạo chưa ra khỏi
 
 học Tả bỏ át kiến đây
 
-Ồ thông rằng các biệt vô giáo chủ tính
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ các biệt vô giáo chủ tính
 
 gọi là không chủ tính loại này kêu mầm
 
@@ -9966,7 +10155,16 @@ a-lại-da thức
 
 ráo sẽ đặt thân Như Lai
 
-Ồ thông rằng tại sao ngoài ba thừa lập
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tại sao ngoài ba thừa lập
 
 rim bất định chữ tín
 
@@ -10556,4 +10754,4 @@ tình cả để từ và chúng sanh ra điều tròn
 
 thành Phật đạo
 
-ừ ừ
+

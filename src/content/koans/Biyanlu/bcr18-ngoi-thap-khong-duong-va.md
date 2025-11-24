@@ -181,22 +181,24 @@ Rồi lại nói tiếp, “Hàng lớp lớp, bóng chập chùng. Thiên cổ 
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12741/5/tac-thu-muoi-tam-tuc-tong-thinh-phap" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12741/tac-thu-muoi-tam-tuc-tong-thinh-phap" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43258/7-tac-17-tac-19" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43258/7-tac-17-tac-19" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
+[^1]: 📝 <a href="/masters/Tang-Suzong" target="_blank">HĐ TÚC TÔNG</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4669-tshuetrung" target="_blank">📌 TS NAM DƯƠNG HUỆ TRUNG</a>
+[^2]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
 
-[^3]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/dam-nguyen-ung-chan-k703.html" target="_blank">📌 TS ĐAM NGUYÊN ỨNG CHÂN</a>
+[^3]: 📝 <a href="/masters/Danyuan-Yingzhen" target="_blank">TS ĐAM NGUYÊN ỨNG CHÂN</a>
 
-⭐️ <a href="https://ngulucthien.com/thien-su-ung-chan/" target="_blank">📌 TS ĐAM NGUYÊN ỨNG CHÂN</a>
+🔗 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/dam-nguyen-ung-chan-k703.html" target="_blank">TS ĐAM NGUYÊN ỨNG CHÂN</a>
+
+🔗 <a href="https://ngulucthien.com/thien-su-ung-chan/" target="_blank">TS ĐAM NGUYÊN ỨNG CHÂN</a>

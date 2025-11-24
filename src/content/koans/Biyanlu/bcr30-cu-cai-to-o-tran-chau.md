@@ -59,23 +59,21 @@ Công án đến đây là đã tụng hết, Tuyết Đậu lại đưa ra ý r
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12754/5/tac-thu-ba-muoi-cu-cai-cua-trieu-chau" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12754/tac-thu-ba-muoi-cu-cai-cua-trieu-chau" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43261/10-tac-26-tac-30" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43261/10-tac-26-tac-30" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">📌 TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: 📝 <a href="/masters/Zhaozhou-Congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
-[1] Đoạn này không có trang bản của Ito Yuten.
-
-
+[1] Đoạn này không có trang bản của Ito Yuten
 
 [3] Trường Khánh Huệ Lăng, Huyền Sa Sư Bị và Vân Môn Văn Yển cả ba đều là truyền nhân của Tuyết Phong Nghĩa Tồn. Về tiểu sử xin xem thêm trong Cảnh Đức Truyền đăng lục cùng một dịch giả, sẽ xuất bản.
 

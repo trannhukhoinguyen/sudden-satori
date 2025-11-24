@@ -15,10 +15,10 @@ pdfUrl: /pdfs/speeches/Nguong-Son-ngu-luc.pdf
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yangshan-Huiji" target="_blank">📌 TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: 📝 <a href="/masters/Yangshan-Huiji" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>

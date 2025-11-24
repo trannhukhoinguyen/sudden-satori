@@ -75,24 +75,16 @@ Ai bảo vàng ròng giống như phân? Trương Nhị Trần Dư bặt tin t�
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12814/tac-thu-tam-muoi-ba-co-phat-va-cot-tru-cua-van-mon" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43273/22-tac-82-tac-85" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-09" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
-
-> ✨ https://hoavouu.com/p16a12814/5/tac-thu-tam-muoi-ba-co-phat-va-cot-tru-cua-van-mon
->
-> ✨ : https://quangduc.com/p1241a43273/22-tac-82-tac-85
->
-> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-09
->
-> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/9
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/9" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>
+[^1]: 📝 <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>

@@ -649,10 +649,10 @@ Mà tất cả những điều này, cho đến tất cả các sáng tạo mớ
 
 ## NGUỒN
 
-> ✨ <a href="https://daophatkhatsi.vn/thien-ngo-phan-4.html" target="_blank">🔗</a>
+> 🔗 <a href="https://daophatkhatsi.vn/thien-ngo-phan-4.html" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ 
+[^1]: 📝 

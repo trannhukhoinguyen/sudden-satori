@@ -7,9 +7,13 @@ categories:
   - Thực hành
   - Ngữ lục
 tags:
+  - THAM THIỀN PHỔ THUYẾT
   - TS LAI QUẢ
 image: /images/koans/great-wave.webp
-author: "Thiền Sư Lai Quả"
+authors: 
+  - "Thiền Sư Lai Quả"
+videoIds:
+  - 2w4xF8bRWow
 ---
 
 ## THÔ TÂM LÀ GÌ?
@@ -58,10 +62,15 @@ Bằng không, há người chẳng bằng vật ư!
 
 ## NGUỒN
 
-> ✨ <a href="/practices/tham-thien-pho-thuyet" target="_blank">Trích “Tham Thiền Phổ Thuyết” (Thiền Sư Lai Quả). Việt Dịch: HT. Thích Duy Lực – Định Huệ</a>
+> 🔗 <a href="https://taidayvabaygio.org/tho-tam-dung-mien-mat-dung-lai-qua-thien-su.html" target="_blank">taidayvabaygio.org</a>
+
+> 🔗 <a href="https://thuvienhoasen.org/a16771/tham-thien-pho-thuyet" target="_blank">thuvienhoasen.org</a>
+
+> 🎈 Trích - <a href="/books/tham-thien-pho-thuyet" target="_blank">THAM THIỀN PHỔ THUYẾT</a>
+
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ ...
+[^1]: 📝 ...

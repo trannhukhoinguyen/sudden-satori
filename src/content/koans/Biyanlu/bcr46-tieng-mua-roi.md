@@ -48,60 +48,59 @@ Kính Thanh há không biết đó là tiếng mưa rơi sao? Tại sao lại v�
 
 Tuyết đậu tụng rằng:
 
-> Sảnh không, tiếng mưa rơi,
+> Sảnh không, tiếng mưa rơi
 >
-> Chuyên gia cũng khó đáp.
+> Chuyên gia cũng khó đáp
 >
-> Nếu nói từng nhập lưu,
+> Nếu nói từng nhập lưu
 >
-> Vẫn như xưa không hiểu.
+> Vẫn như xưa không hiểu
 >
-> Hiểu không hiểu,
+> Hiểu không hiểu
 >
-> Nam sơn bắc sơn mưa dạt dào.
+> Nam sơn bắc sơn mưa dạt dào
 
 ## BÌNH XƯỚNG
 
-Sảnh không, tiếng mưa rơi, chuyên gia cũng khó đáp.” Nếu như các ông gọi đó là tiếng mưa rơi, các ông mê mờ chính mình mà đuổi theo sự vật.
+"Sảnh không, tiếng mưa rơi, chuyên gia cũng khó đáp” 
+
+Nếu như các ông gọi đó là tiếng mưa rơi, các ông mê mờ chính mình mà đuổi theo sự vật.
 
 Nếu như không gọi đó là tiếng mưa rơi, thì các ông phải xoay chuyển sự vật như thế nào đây?
 
 Đến chỗ này, dù là bậc chuyên gia đi nữa cũng khó mà trả lời.
 
-Cho nên cổ đức nói, “Hiểu biết bằng thầy, giảm nữa đức thầy. Hiểu cao hơn thầy, mới đáng truyền thụ.”
+Cho nên cổ đức nói, “Hiểu biết bằng thầy, giảm nữa đức thầy. Hiểu cao hơn thầy, mới đáng truyền thụ”
 
-Nam Viện cũng nói, “ Dưới gậy vô sinh nhẫn [^3], gặp cơ không nhường thầy.”
+Nam Viện cũng nói, “Dưới gậy vô sinh nhẫn [^3], gặp cơ không nhường thầy”
 
-“Nếu nói từng nhập lưu, như xưa vẫn không hiểu.”
+“Nếu nói từng nhập lưu, như xưa vẫn không hiểu”
 
 Như trong kinh Lăng Nghiêm nói, “Thoạt đầu Quán Thế Âm Bồ Tát nhập lưu ở chỗ nghe, quên các đối tượng đã nghe.
 
-Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.” Nếu như bảo đó là tiếng mưa rơi thì không đúng, mà bảo là không phải tiếng mưa rơi cũng không đúng, mà bảo là không phải tiếng mưa rơi cũng không đúng. Hai câu đầu tụng hai tiếng kêu ba tiếng hét, Tuyết Đậu hiểu cơ biến. Câu tụng này nếu như bảo rằng đó là vào đống thanh sắc thì không đúng, nếu họi là thanh sắc thì vẫn như xưa chẳng hiểu ý của thầy ta. Cũng như dùng ngón tay chỉ mặt trăng, mặt trăng không phải là ngón tay. “Hiểu không hiểu, Nam sơn bắc sơn mưa dạt dào.”
+Chỗ vào đã tịch tĩnh, hai tướng đồng tính liễu nhiên vô sinh.” 
+Nếu như bảo đó là tiếng mưa rơi thì không đúng, mà bảo là không phải tiếng mưa rơi cũng không đúng, mà bảo là không phải tiếng mưa rơi cũng không đúng. 
+
+Hai câu đầu tụng hai tiếng kêu ba tiếng hét, Tuyết Đậu hiểu cơ biến. 
+Câu tụng này nếu như bảo rằng đó là vào đống thanh sắc thì không đúng, nếu họi là thanh sắc thì vẫn như xưa chẳng hiểu ý của thầy ta. 
+Cũng như dùng ngón tay chỉ mặt trăng, mặt trăng không phải là ngón tay. “Hiểu không hiểu, Nam sơn bắc sơn mưa dạt dào.”
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12773/tac-thu-bon-muoi-sau-tieng-mua-roi-cua-kinh-thanh" target="_blank">**TẮC 46** - hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43265/14-tac-44-tac-48" target="_blank">**TẮC 46** - quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05" target="_blank">**TẮC 46** - tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
-
-> ✨ https://hoavouu.com/p16a12773/5/tac-thu-bon-muoi-sau-tieng-mua-roi-cua-kinh-thanh
->
-> ✨ : https://quangduc.com/p1241a43265/14-tac-44-tac-48
->
-> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05
->
-> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5" target="_blank">**TẮC 46** - phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jingqing-Daofu" target="_blank">📌 TS KÍNH THANH ĐẠO PHÓ</a>
+[^1]: 📝 <a href="/masters/Jingqing-Daofu" target="_blank">TS KÍNH THANH ĐẠO PHÓ</a>
 
-[^3]: ⭐️
+[^3]: 📝

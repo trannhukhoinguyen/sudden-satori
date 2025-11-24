@@ -15,10 +15,10 @@ pdfUrl: /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">📌 TS ĐỘNG SƠN LƯƠNG GIỚI</a>
+[^1]: 📝 <a href="/masters/Dongshan-Liangjie" target="_blank">TS ĐỘNG SƠN LƯƠNG GIỚI</a>

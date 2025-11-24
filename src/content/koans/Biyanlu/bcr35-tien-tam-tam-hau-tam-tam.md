@@ -143,20 +143,20 @@ Sau đó Vô Trước ở trên Ngũ Đài Sơn làm điển tòa.Mỗi lần V�
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12760/5/tac-thu-ba-muoi-lam-van-thu-va-vo-truoc" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12760/tac-thu-ba-muoi-lam-van-thu-va-vo-truoc" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43263/12-tac-35-tac-38" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43263/12-tac-35-tac-38" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/van-thu-su-loi/" target="\_blank"BỒ TÁT VĂN THÙ</a>
+[^1]: 📝 <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/van-thu-su-loi/" target="\_blank"BỒ TÁT VĂN THÙ</a>
 
-⭐️ <a href="https://phatgiao.org.vn/van-thu-su-loi-bo-tat-la-ai-d39646.html" target="\_blank"BỒ TÁT VĂN THÙ</a>
+📝 <a href="https://phatgiao.org.vn/van-thu-su-loi-bo-tat-la-ai-d39646.html" target="\_blank"BỒ TÁT VĂN THÙ</a>
 
-[^2]: ⭐️ <a href="/masters/Wuzhu-Wenxi " target="_blank">📌 TS VÔ TRƯỚC VĂN HỈ</a>
+[^2]: 📝 <a href="/masters/Wuzhu-Wenxi" target="_blank">TS VÔ TRƯỚC VĂN HỈ</a>

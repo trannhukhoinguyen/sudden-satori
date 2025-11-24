@@ -148,12 +148,12 @@ Dù như thế, một điểm linh minh thông cả vũ trụ, đâu còn giới
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shitou-Xiqian" target="_blank">📌 TS THẠCH ĐẦU HI THIÊN</a>
+[^1]: 📝 <a href="/masters/Shitou-Xiqian" target="_blank">TS THẠCH ĐẦU HI THIÊN</a>
 
-[^2]: ⭐️ <a href="/masters/Qingyuan-Xingsi" target="_blank">📌 TS THANH NGUYÊN HÀNH TƯ</a>
+[^2]: 📝 <a href="/masters/Qingyuan-Xingsi" target="_blank">TS THANH NGUYÊN HÀNH TƯ</a>

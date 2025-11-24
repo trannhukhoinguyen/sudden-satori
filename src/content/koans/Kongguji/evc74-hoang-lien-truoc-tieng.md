@@ -61,12 +61,12 @@ Muốn đạt được nguồn kia nên dò tìm chỗ sâu thẳm ấy. Như s�
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
+[^1]: 📝 <a href="/masters/Baizhang-Huaihai" target="_blank">TS </a>
 
 

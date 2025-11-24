@@ -206,24 +206,24 @@ Nhưng mà thử nói xem, rốt cuộc là chuyện gì đây? “Chỉ cho lã
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p26a12723/4/tac-thu-nhat-cai-trong-khong-cua-dat-ma" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12723/tac-thu-nhat-cai-trong-khong-cua-dat-ma" target="_blank">**TẮC 1** - hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43253/2-tac-01-tac-03" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43253/2-tac-01-tac-03" target="_blank">**TẮC 1** - quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">**TẮC 1** - tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">**TẮC 1** - phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">🔗 VUA LƯƠNG VŨ ĐẾ</a>
+[^1]: 📝 <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-luong-vu-de/" target="_blank">VUA LƯƠNG VŨ ĐẾ</a>
 
-[^2]: ⭐️ <a href="/masters/Bodhidharma" target="_blank">📌 Tổ BỒ ĐỀ ĐẠT MA</a>
+[^2]: 📝 <a href="/masters/Bodhidharma" target="_blank">Tổ BỒ ĐỀ ĐẠT MA</a>
 
-⭐️ <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">🔗 Phim Phật Giáo về Tổ BỒ ĐỀ Đạt Ma</a>
+📝 <a href="https://blog.phapthihoi.org/dat-ma-to-su/" target="_blank">Phim Phật Giáo về Tổ BỒ ĐỀ Đạt Ma</a>
 
-[^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">🔗 TS BẢO CHÍ CÔNG</a>
+[^3]: 📝 <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
 
-⭐️ <a href="http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355" target="_blank">📌 TS BẢO CHÍ CÔNG</a>
+📝 <a href="http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355" target="_blank">TS BẢO CHÍ CÔNG</a>

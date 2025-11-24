@@ -61,16 +61,16 @@ Tuyết Đậu tụng rằng, “Đoạn tế toàn cơ theo dấu chân, đem �
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12757/5/tac-thu-ba-muoi-hai-phat-phap-dai-y-cua-lam-te" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12757/tac-thu-ba-muoi-hai-phat-phap-dai-y-cua-lam-te" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43262/11-tac-31-tac-34" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43262/11-tac-31-tac-34" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Linji-Yixuan" target="_blank">📌 TS LÂM TẾ NGHĨA HUYỀN</a>
+[^1]: 📝 <a href="/masters/Linji-Yixuan" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>

@@ -16,37 +16,37 @@ image: /images/koans/great-wave.webp
 📢 Ngài Đan Hà dạy chúng:
 
 > Xem mầm biết đất, biết ngọn, lời nói, cho đến nay mới được thành lập.
-> Tự cận đến sau sao tìm ra?
+Tự cận đến sau sao tìm ra?
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Vân Nham ban đầu tham vấn Dược Sơn. Dược Sơn hỏi: _Từ đâu đến?_
->
-> Vân Nham thưa: _Từ Bá Trượng đến_
->
-> Dược Sơn hỏi: _Bá Trượng dạy pháp gì?_
->
-> Vân Nham thưa: _Có lúc dạy một câu đủ trăm vị_
->
-> Dược Sơn nói: _Mặn là vị mặn, lạt là vị lạt, không mặn không lạt là vị bình thường. Làm gì có một câu đủ trăm vị. Hiện tại việc sanh tử thế nào?_
->
-> Vân Nham thưa: _20 năm không có sanh tử_
->
-> Dược Sơn nói: _20 năm sống với Bá Trượng tất khi về sẽ thành hội_
->
-> Dược Sơn hỏi: _Huynh Hải dạy pháp gì?_
->
-> Vân Nham thưa: _Có khi ngồi ngoài câu tình thi, ngoài đàm chẳng liên quan_
->
-> Dược Sơn hỏi: _Còn pháp gì nữa không?_
->
-> Vân Nham thưa: _Có khi thượng đường xong, đại chúng vừa giải tán. Ngài gọi đại chúng. Đại chúng quay đầu nhìn. Ngài nói “Là cái gì?”_
->
-> Dược Sơn bảo: _Sao không nói sớm?_
->
-> Vân Nham ngộ ngay lời này.
+Vân Nham ban đầu tham vấn Dược Sơn. Dược Sơn hỏi: _Từ đâu đến?_
+
+Vân Nham thưa: _Từ Bá Trượng đến_
+
+Dược Sơn hỏi: _Bá Trượng dạy pháp gì?_
+
+Vân Nham thưa: _Có lúc dạy một câu đủ trăm vị_
+
+Dược Sơn nói: _Mặn là vị mặn, lạt là vị lạt, không mặn không lạt là vị bình thường. Làm gì có một câu đủ trăm vị. Hiện tại việc sanh tử thế nào?_
+
+Vân Nham thưa: _20 năm không có sanh tử_
+
+Dược Sơn nói: _20 năm sống với Bá Trượng tất khi về sẽ thành hội_
+
+Dược Sơn hỏi: _Huynh Hải dạy pháp gì?_
+
+Vân Nham thưa: _Có khi ngồi ngoài câu tình thi, ngoài đàm chẳng liên quan_
+
+Dược Sơn hỏi: _Còn pháp gì nữa không?_
+
+Vân Nham thưa: _Có khi thượng đường xong, đại chúng vừa giải tán. Ngài gọi đại chúng. Đại chúng quay đầu nhìn. Ngài nói “Là cái gì?”_
+
+Dược Sơn bảo: _Sao không nói sớm?_
+
+Vân Nham ngộ ngay lời này.
 
 ## BÌNH XƯỚNG
 
@@ -135,12 +135,12 @@ Sao vậy?
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">📌 TS DƯỢC SƠN DUY NGHIỄM</a>
+[^1]: 📝 <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">TS DƯỢC SƠN DUY NGHIỄM</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">📌 TS VÂN NHAM ĐÀM THẠNH</a>
+[^2]: 📝 <a href="/masters/Yunyan-Tansheng" target="_blank">TS VÂN NHAM ĐÀM THẠNH</a>

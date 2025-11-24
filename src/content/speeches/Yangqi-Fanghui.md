@@ -15,10 +15,10 @@ pdfUrl: /pdfs/speeches/Phuong-Hoi-ngu-luc.pdf
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yangqi-Fanghui" target="_blank">📌 TS DƯƠNG KỲ PHƯƠNG HỘI</a>
+[^1]: 📝 <a href="/masters/Yangqi-Fanghui" target="_blank">TS DƯƠNG KỲ PHƯƠNG HỘI</a>

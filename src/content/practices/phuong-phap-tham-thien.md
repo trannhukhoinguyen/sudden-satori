@@ -251,16 +251,16 @@ Hạng kế đó, cần phải phát khởi chí hướng, thống thiết nhớ
 
 ## NGUỒN
 
-> ✨ <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi.htm" target="_blank">🔗 thamthienyeuchi 1</a>
+> 🔗 <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi.htm" target="_blank">thamthienyeuchi 1</a>
 
-> ✨ <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi-02.htm" target="_blank">🔗 thamthienyeuchi 2</a>
+> 🔗 <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi-02.htm" target="_blank">thamthienyeuchi 2</a>
 
-> ✨ <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi-03.htm" target="_blank">🔗 thamthienyeuchi 3</a>
+> 🔗 <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi-03.htm" target="_blank">thamthienyeuchi 3</a>
 
-> ✨ <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi-04.htm" target="_blank">🔗 thamthienyeuchi 4</a>
+> 🔗 <a href="https://nigioikhatsi.net/viet/thien/thamthienyeuchi-04.htm" target="_blank">thamthienyeuchi 4</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ 
+[^1]: 📝 

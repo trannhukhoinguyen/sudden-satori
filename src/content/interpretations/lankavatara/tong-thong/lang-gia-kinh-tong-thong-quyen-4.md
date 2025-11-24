@@ -816,7 +816,16 @@ thì đó đều do cả ngu vọng nói chẳng phải
 
 lời bậc thánh Tuyên thuyết
 
-Ồ thông rằng nhân ở trên nói niết-bàn
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhân ở trên nói niết-bàn
 
 chẳng phải thường chẳng phải đoạn tức là
 
@@ -1718,7 +1727,16 @@ huyện không thật như điện Chớp trên nên
 
 nói như huyện
 
-Ồ thông rằng ở trên đã nói hoặc loạn tức
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trên đã nói hoặc loạn tức
 
 là chân thật chân thật nên chẳng phải
 
@@ -2068,7 +2086,16 @@ sát như huyện thị nơi Tưởng không vận
 
 tưởng
 
-Ồ thông rằng đã nói tất cả tính tức là
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đã nói tất cả tính tức là
 
 nói có sinh Sao lại nói không sinh đã
 
@@ -2476,7 +2503,16 @@ sai khác Phàm phu ngu chấp trước như voi
 
 Lũng buồn sâu
 
-Ồ thông rằng Ngân Bồ Tát Đại Huệ nghe
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Ngân Bồ Tát Đại Huệ nghe
 
 rằng không sinh và như huyện là hai
 
@@ -2778,7 +2814,16 @@ sinh căng chưa thuần thục chẳng phải vì
 
 người đã thuần thục mà thuyết
 
-Ồ thông rằng ở trên núi dang Cửu Văn
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trên núi dang Cửu Văn
 
 Thân cốt để thông Đạt Đệ Nhất nghĩa Đế
 
@@ -3502,7 +3547,16 @@ thiệu ấy là 3 kết sai bịp dần dần vượt
 
 qua mà tiến lên thì đắt quả a-la-hán Ồ
 
-thông rằng như trên đã nói thì do hoặc
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ như trên đã nói thì do hoặc
 
 loạn Hiếu sinh Khởi chủng tính thanhvân
 
@@ -4156,7 +4210,16 @@ thân kiến vì kia Nếu như vậy thì chẳng
 
 ra khỏi Ba còi
 
-Ồ thông rằng thế nào là đoạn trường giới
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ thế nào là đoạn trường giới
 
 thủ kết nói giới thuộc đó là người thì
 
@@ -4434,7 +4497,16 @@ tham dục thế gian chẳng phải đoạn vui
 
 thích hướng đến huyết bạn
 
-Ồ thông rằng Tham có rất nhiều lời nhưng
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Tham có rất nhiều lời nhưng
 
 ở đây Đức và chỉ nêu ra các tham của sắc
 
@@ -4520,7 +4592,16 @@ tiền chẳng phải thấy do tượng hư vọng
 
 phân biệt do thấy rõ tướng thiền tu hành
 
-thông rằng bậc dựa lưu đoạn tham hướng
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bậc dựa lưu đoạn tham hướng
 
 đến niết bàn nhưng vẫn còn chưa chứng
 
@@ -4614,7 +4695,16 @@ vào việc kết đoạn trừ cho nên gọi là bậc
 
 bất hoàn
 
-Ồ thông rằng bật bớt Hoàn nên đoạn hết
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bật bớt Hoàn nên đoạn hết
 
 chính phẩm tư hoạch của địa thứ nhất ở
 
@@ -4856,7 +4946,16 @@ lượng của từ tâm thì không đúng vì có
 
 sau vì còn tâm lượng
 
-thông rằng ở trên đã thuyết Sông về bốn
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trên đã thuyết Sông về bốn
 
 quả nhưng bốn quả đây chẳng phải là quả
 
@@ -5054,7 +5153,16 @@ thuyền và duyên đoạn hoặc thấy chân đế
 
 giải thoát
 
-thông rằng bài kể tục trong phần 5 chỗ
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bài kể tục trong phần 5 chỗ
 
 Tính vô giá nở trước đầu tuần bốn quả
 
@@ -5636,7 +5744,16 @@ sáng trong Nghiêm chứng được tam muội tự
 
 giác tháng lạc tránh Thọ
 
-Ồ thông rằng thành tựu khai tướng giác
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ thành tựu khai tướng giác
 
 ấy là thứ lớp thành tựu cả hai câu chiếu
 
@@ -5830,7 +5947,16 @@ sinh
 
 đường dịch trụ chỗ như thật thành tướng
 
-không sinh thông rằng nhân ở trên nói
+không sinh 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhân ở trên nói
 
 ngoại đạo chấp vào bốn đại chủng từ đó
 
@@ -6514,7 +6640,16 @@ thuyết đó là vọng tưởng thức Diệt tôi
 
 viết bạn
 
-Ồ thông rằng nhưng ở trên nói nói pháp
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhưng ở trên nói nói pháp
 
 tịch Tĩnh đoạn nhất các kiến chấp của
 
@@ -6730,7 +6865,16 @@ tâm hiện ra hoặc sinh hoặc diện cũng như
 
 vậy Vì vậy khi ý rất nhiệt thì phải cứt
 
-cũng diệt thông rằng đức Phật dạy thất
+cũng diệt 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đức Phật dạy thất
 
 vọng tưởng nhiệt gọi là niết bàn
 
@@ -7424,7 +7568,16 @@ cứng thận nóng động tất cả tính vọng
 
 tưởng như thế gọi là vọng tưởng về tướng
 
-Ồ thông rằng vòng tưởng về sự việc được
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ vòng tưởng về sự việc được
 
 thuyết gì ở trên sự việc mà chắc bán Có
 
@@ -7500,7 +7653,16 @@ lời đó là vui say theo các thứ vàng bạc
 
 chân bạo thì gọi là vọng tưởng về lợi
 
-Ồ thông rằng cả phòng phu trong thế gian
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ cả phòng phu trong thế gian
 
 trị thâm đấm nên ông Trần Như danh tiếng
 
@@ -7558,7 +7720,16 @@ lấy ác kiến như vậy Phân biệt tự tính
 
 đây quyết định chẳng phải khác
 
-Ồ thông rằng vọng tưởng về từ tín tức là
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ vọng tưởng về từ tín tức là
 
 từ tính của vọng tưởng vậy ở đây nhằm
 
@@ -7648,7 +7819,16 @@ duyên là có là không và Tưởng rằng có
 
 các tướng nhân sinh thì gọi là quận
 
-tưởng về nhân thông rằng ngoại đạo lượng
+tưởng về nhân 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ngoại đạo lượng
 
 xét cho rằng tất cả pháp đều có nhân
 
@@ -7790,7 +7970,16 @@ thành nhụy dịch ở trong năm ấm ấp lấy
 
 tướng Nhã Nhã sở nối pháp hư vọng
 
-Ồ thông rằng ở trước trong 108 câu có
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước trong 108 câu có
 
 câu thành có bao nhiêu dụng
 
@@ -7854,7 +8043,16 @@ không Rồi xin chấp trước đây gọi là vọng
 
 tưởng vệ sinh
 
-Ồ thông rằng ngoài đào chẳng hiểu các
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ngoài đào chẳng hiểu các
 
 pháp vượt ngoài có tính không tính chỉ ở
 
@@ -7940,7 +8138,16 @@ chặng sinh chưa từng có các duyên mà
 
 trước có thể tính chẵn từ nhân mà Khởi
 
-thông rằng kẻ Vọng Phu chỉ bám vào hoặc
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ kẻ Vọng Phu chỉ bám vào hoặc
 
 dụng của sáu thức từ đó theo đuổi ngoại
 
@@ -8028,7 +8235,16 @@ tưởng về tương tục
 
 thuộc nhau như cây kim cùng sợ chị
 
-thông rằng trước nói vọng tưởng về không
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trước nói vọng tưởng về không
 
 xinh là đoạn kiến đây nói vọng tưởng về
 
@@ -8128,7 +8344,16 @@ tháo hóa ra nghị dịch như người phương
 
 tiện thắt dây làm gút thắt rồi lại mở
 
-thông rằng 11 chủng vọng tưởng trước
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ 11 chủng vọng tưởng trước
 
 thuộc chất kiến của phòng phu và ngoại
 
@@ -8392,7 +8617,16 @@ vô sở hữu tối Thắng Trí Huệ Bình Đặng
 
 Xuân
 
-Ồ thông rằng trong 12 vọng tưởng chỗ rốt
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trong 12 vọng tưởng chỗ rốt
 
 ráo mỡ bụng tưởng đến được là trứng Lý
 
@@ -8524,7 +8758,16 @@ tức lại Duyên khởi kia khởi đủ thứ vọng
 
 tưởng Duyên Khởi thành vọng tưởng
 
-Ồ thông rằng ở trước bốn câu kệ tụng nói
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước bốn câu kệ tụng nói
 
 rộng về ý chị của trói buộc và giải
 
@@ -8742,7 +8985,16 @@ rất láo phải đồ các vọng tưởng rốt sau
 
 Tuyết Thanh Tịnh đây Gọi đệ nhất Nghĩa
 
-Ồ thông rằng trên nói vô sở hữu tối thân
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trên nói vô sở hữu tối thân
 
 bình đẳng trí tuệ sinh chỗ nói bình đẳng
 
@@ -9084,7 +9336,16 @@ vọng kiến vọng kế Chồng vọng Kế xử lý 2
 
 vòng tượng đây là tính viên thành thật
 
-Ồ thông rằng trong đoạn bài tuần 12
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trong đoạn bài tuần 12
 
 tướng tự tính vốn Tưởng chung cùng với
 
@@ -9434,7 +9695,16 @@ giác Phạm Thiên Vương biết rõ được chỉ
 
 trời như lai thế nên gọi lại nhất thừa
 
-Ồ thông rằng ở bài kể trước nói rốt sau
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở bài kể trước nói rốt sau
 
 Chí Thanh Tịnh tức là chí thanh tịnh Đệ
 
@@ -10026,7 +10296,16 @@ thí như người say rượu rượu Thanh sau
 
 mới tỉnh kia giáp được pháp ấy Đắc thân
 
-Phật vô thượng Thông rằng ở kệ đây tuy
+Phật vô thượng 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở kệ đây tuy
 
 chỉ tụng về tướng nhất thừa nhưng tự
 

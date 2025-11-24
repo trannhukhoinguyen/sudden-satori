@@ -170,7 +170,7 @@ const CnLv7MasterDb = [
     disciples: ['Xingyang Guijing'],
     image: '',
     reference: ['https://pl.wikipedia.org/wiki/Xiyuan_Siming', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/tay-vien-tu-minh-k16819.html',
-    'https://hoavouu.com/p16a12830/12/tac-thu-chin-muoi-tam-hai-cai-sai-cua-thien-binh-hoa-thuong'],
+    'https://hoavouu.com/a12830/tac-thu-chin-muoi-tam-hai-cai-sai-cua-thien-binh-hoa-thuong'],
   },
   {
     id: '40.7.9',

@@ -63,12 +63,12 @@ Bậc Nhan và Tử Kỳ không phải người khác. Cho nên nói đàn khôn
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Zifu-Rubao" target="_blank">📌 TS TƯ PHƯỚC NHƯ BẢO</a>
+[^1]: 📝 <a href="/masters/Zifu-Rubao" target="_blank">TS TƯ PHƯỚC NHƯ BẢO</a>
 
 

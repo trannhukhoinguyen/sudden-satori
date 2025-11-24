@@ -90,22 +90,22 @@ Sau đó sự truyền thừa từ vị tổ này cho vị tổ khác, kể cả
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12738/5/tac-thu-muoi-lam-mot-cau-noi-nguoc-cua-van-mon" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12738/tac-thu-muoi-lam-mot-cau-noi-nguoc-cua-van-mon" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43257/6-tac-13-tac-16" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43257/6-tac-13-tac-16" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>
+[^1]: 📝 <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>
 
-[^21]: ⭐️
+[^21]: 📝
 
-[^22]: ⭐️
+[^22]: 📝
 
-[^23]: ⭐️
+[^23]: 📝

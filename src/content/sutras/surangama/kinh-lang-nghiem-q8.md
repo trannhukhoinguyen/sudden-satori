@@ -408,10 +408,10 @@ Như ngươi hỏi về những quả báo ác nghiệp của Bửu Liên Hươn
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ ...
+[^1]: 📝 ...

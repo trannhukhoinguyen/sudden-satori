@@ -82,26 +82,18 @@ Muốn bay đi, lại giữ lại.” Tuyết Đậu dựa vào dữ kiện mà 
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12781/tac-thu-nam-muoi-ba-vit-troi-cua-ma-dai-su" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43267/16-tac-53-tac-56" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-06" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
-
-> ✨ https://hoavouu.com/p16a12781/5/tac-thu-nam-muoi-ba-vit-troi-cua-ma-dai-su
->
-> ✨ : https://quangduc.com/p1241a43267/16-tac-53-tac-56
->
-> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-06
->
-> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/6" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Mazy-Daoyi" target="_blank">📌 TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: 📝 <a href="/masters/Mazy-Daoyi" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>
 
-[^2]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">📌 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^2]: 📝 <a href="/masters/Baizhang-Huaihai/" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>

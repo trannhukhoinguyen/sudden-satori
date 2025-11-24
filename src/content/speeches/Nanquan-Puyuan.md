@@ -15,10 +15,10 @@ pdfUrl: /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Nanquan-Puyuan" target="_blank">📌 TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^1]: 📝 <a href="/masters/Nanquan-Puyuan" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>

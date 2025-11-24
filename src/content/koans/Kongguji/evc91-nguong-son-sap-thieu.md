@@ -151,14 +151,14 @@ Làm sao mà trúng khớp được, là phải nhớ được lời Nam Sơn, n
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yangshan-Huiji" target="_blank">📌 TS NGƯỠNG SƠN HUỆ TỊCH</a>
+[^1]: 📝 <a href="/masters/Yangshan-Huiji" target="_blank">TS NGƯỠNG SƠN HUỆ TỊCH</a>
 
-[^2]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">📌 TS QUY SƠN LINH HỰU</a>
+[^2]: 📝 <a href="/masters/Guishan-Lingyou" target="_blank">TS QUY SƠN LINH HỰU</a>
 
 

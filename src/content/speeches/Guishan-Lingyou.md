@@ -15,10 +15,10 @@ pdfUrl: /pdfs/speeches/Quy-Son-ngu-luc.pdf
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">📌 TS QUY SƠN LINH HỰU</a>
+[^1]: 📝 <a href="/masters/Guishan-Lingyou" target="_blank">TS QUY SƠN LINH HỰU</a>

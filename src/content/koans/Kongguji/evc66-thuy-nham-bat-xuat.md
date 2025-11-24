@@ -176,12 +176,12 @@ Trở về quê nhà thì không còn cội gốc, đã niềm hoa rồi thì kh
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Ruiyan-Shiyan" target="_blank">📌 TS THỤY NHAM SƯ NGẠN</a>
+[^1]: 📝 <a href="/masters/Ruiyan-Shiyan" target="_blank">TS THỤY NHAM SƯ NGẠN</a>
 
 

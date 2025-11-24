@@ -98,10 +98,10 @@ Muốn tìm đúng thôi, thôi chẳng đến.
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunju-Daoying" target="_blank">📌 TS VÂN CƯ ĐẠO ƯNG</a>
+[^1]: 📝 <a href="/masters/Yunju-Daoying" target="_blank">TS VÂN CƯ ĐẠO ƯNG</a>

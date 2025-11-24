@@ -81,12 +81,12 @@ Như Lai vàng theo lời này thọ nhận bình. Không bao lâu Như Lai thà
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS </a>
+[^1]: 📝 <a href="/masters/Baizhang-Huaihai" target="_blank">TS </a>
 
 

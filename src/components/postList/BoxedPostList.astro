@@ -14,6 +14,7 @@ const {
     page,
 } = Astro.props;
 
+const noPost ="📂 Danh sách trống";
 const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
 const groupsBySpecialTag = posts?.map((post: any) => post.frontmatter?.tags && post.frontmatter?.tags[0]);
 const groupsSorted = [
@@ -83,5 +84,5 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
 
         <ABCLinkedTitleList collection={collection} posts={posts} titleList={titleList} listTitle={"DANH SÁCH BÀI VIẾT"} />
 
-    ) : <p>Danh sách trống</p>
+    ) : <p>{noPost}</p>
 }

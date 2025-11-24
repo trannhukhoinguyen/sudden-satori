@@ -3,17 +3,17 @@ title: "CHÁNH PHÁP NHÃN TẠNG"
 meta_title: "Chánh Pháp Nhãn Tạng"
 description: ""
 excerpt: ""
-showInHomepage: true
-authors:
-  - TS ĐẠO NGUYÊN HI HUYỀN
 categories:
   - Sách
 tags:
   - LUẬN
   - TS ĐẠO NGUYÊN HI HUYỀN
+authors:
+  - TS ĐẠO NGUYÊN HI HUYỀN
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/chanh-phap-nhan-tang.pdf
 videoPlaylist: PLcLP3ibx6jnMIdbVEcGa5jLc2bj7I41Yh
+showInHomepage: true
 ---
 
 ## TÁC GIẢ & TÁC PHẨM
@@ -30,12 +30,12 @@ Ngày nay, Phật Giáo Thiền Tào Động của sư là tông phái đông ng
 
 ## NGUỒN
 
-> ✨ <a href="https://thuvienhoasen.org/a28880/chanh-phap-nhan-tang" target="_blank">🔗 thuvienhoasen</a>
+> 🔗 <a href="https://thuvienhoasen.org/a28880/chanh-phap-nhan-tang" target="_blank">thuvienhoasen</a>
 
-> ✨ <a href="https://gnosisvn.org/2021/10/14/chanh-phap-nhan-tang/" target="_blank">🔗 gnosisvn.org</a>
+> 🔗 <a href="https://gnosisvn.org/2021/10/14/chanh-phap-nhan-tang/" target="_blank">gnosisvn.org</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Dogen-Kigen" target="_blank">TS ĐẠO NGUYÊN HI HUYỀN</a>
+[^1]: 📝 <a href="/masters/Dogen-Kigen" target="_blank">TS ĐẠO NGUYÊN HI HUYỀN</a>

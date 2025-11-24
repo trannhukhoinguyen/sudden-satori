@@ -26,9 +26,9 @@ Jane sống ở vùng Boston cùng chồng và các con.
 
 ## THƠ CỦA TÁC GIẢ
 
-### Kiếp người
+<blockquote> 
 
-<blockquote>  
+<span class="poem-title">KIẾP NGƯỜI</b> 
 
 Đến tay không, đi tay không,
 
@@ -55,14 +55,15 @@ thanh tịnh và trong sáng
 không lệ thuộc tử sinh
 
 Điều đó là gì?
+
+<span class="poem-author-or-source">(Hán thi)</b>
 </blockquote>
 
-> Hán thi
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-> ✨ <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">🔗 thuvienhoasen</a>
+> 🔗 <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">thuvienhoasen</a>
 
 > 🎧 [Youtube videoIds]: videoIds: P1- u3fyx4XJS34, P2- be9fPdQMizI, P3- D5xi9vhu2zA, P4- UWB9ZxSI9z8

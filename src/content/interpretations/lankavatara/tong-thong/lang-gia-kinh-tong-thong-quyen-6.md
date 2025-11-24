@@ -698,7 +698,16 @@ tính được Duyên tự chứng trụ giác quan
 
 sát xa lìa cá thấy tướng sử có không
 
-Ồ thông rằng chỗ Nghi của bồ-tát Đại Huệ
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ chỗ Nghi của bồ-tát Đại Huệ
 
 cho rằng không đúng cái Đức Thế Tôn rơi
 
@@ -1082,7 +1091,16 @@ hay các bác là trống rộng không có tự
 
 tính
 
-Ồ thông rằng tiếp theo văn trên nói công
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tiếp theo văn trên nói công
 
 ấy được sinh ra từ sự đối đãi Thì cái
 
@@ -1290,7 +1308,16 @@ huyện Như Mộng thì sinh hại sợ mà xa lìa
 
 Đại thừa
 
-thông rằng chẳng nên lập bông tất cả
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ chẳng nên lập bông tất cả
 
 pháp chặng sinh vì rơi vào cái thấy
 
@@ -1424,7 +1451,16 @@ chẳng tát tượng trong kia về nhân sinh
 
 người giáp thầy trừ Diệt
 
-Ồ thông rằng tất cả pháp chặng Sinh tức
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tất cả pháp chặng Sinh tức
 
 là tất cả pháp không tự tính tức là tất
 
@@ -1818,7 +1854,16 @@ Nếu năng hoại được kia tâm ấp thấy bình
 
 đẳng
 
-Ồ thông rằng phần Trung tụng trước thì
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ phần Trung tụng trước thì
 
 nói không nên lập tông tất cả pháp dặn
 
@@ -2046,7 +2091,16 @@ cũng chẳng phải tí lẽ là vô Trí vì có
 
 việc không thể biết được
 
-Ồ thông rằng nhân phần kể trên nói hình
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhân phần kể trên nói hình
 
 thành nên ba cõi không có sự tự tính cho
 
@@ -2452,7 +2506,16 @@ là tạ tế áo dạ trẻ các công lò trí tuệ
 
 cũng là tài trí
 
-Ồ thông rằng đối với các sự Phan Duyên
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đối với các sự Phan Duyên
 
 trí huyệt quan sát mà không hỏi tướng
 
@@ -2602,7 +2665,16 @@ tịnh tướng thông tử vong chẳng khéo phân
 
 biệt
 
-Ồ thông rằng ở trước nói rằng cái trí
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước nói rằng cái trí
 
 bất khám Đắc ấy không phải vọng tưởng mà
 
@@ -2786,7 +2858,16 @@ ngôn thuyết thuyết để giải server tông
 
 miệng người tu hành
 
-Ồ thông rằng tự tân phonh và thuyết
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tự tân phonh và thuyết
 
 thông hãng nhiên chẳng phải hàng phòng
 
@@ -3046,7 +3127,16 @@ khỏi sinh già bệnh chết UB khổ não rối
 
 hoặc mê loạn à
 
-Ồ thông rằng tông thông và thuyết thông
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tông thông và thuyết thông
 
 hàng Phạm Phú hoại đạo chẳng rõ biết 2
 
@@ -3564,7 +3654,16 @@ sinh mộng tưởng chẳng sinh thì nhập vào
 
 Đây gọi là giải thoát
 
-Ồ thông rằng Bồ Tát Đại Huệ hỏi rằng các
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hỏi rằng các
 
 thứ luận thuyết của ngoại đầu chấp trước
 
@@ -4914,7 +5013,16 @@ tác đời này đời khác Thầy ấy đều thế
 
 luận Thông
 
-Ồ thông rằng đức thế tôn biết rằng ngoại
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đức thế tôn biết rằng ngoại
 
 đạo không có tự thông luận nên lần nữa
 
@@ -5114,7 +5222,16 @@ niết-bàn
 
 gọi là biết bạn
 
-thông rằng nhân văn trên Bồ Tát Đại Huệ
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhân văn trên Bồ Tát Đại Huệ
 
 nha Phật dạy rằng nước bạn hư không và
 
@@ -5852,7 +5969,16 @@ bàn là không khác nên tượng mạnh nhất
 
 bào
 
-thông rằng
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+
 
 hoặc có ngoại đạo quan niệm viết bạn là
 
@@ -6130,7 +6256,16 @@ không có chỗ lập như vọng tưởng kia tâm
 
 đều không được biết bạn
 
-Ồ thông rằng ở trước chỉ nêu cữ đại diện
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước chỉ nêu cữ đại diện
 
 21 luận thuyết niết bàn của ngoại đạo
 
@@ -6584,7 +6719,16 @@ danh Nếu lìa nơi ngôn thuyết cũng không
 
 có Sở thuyết
 
-thông rằng đây tụng về 21 thứ kiến thiết
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đây tụng về 21 thứ kiến thiết
 
 bạn của ngoại đạo nói ở trên mỗi mỗi
 

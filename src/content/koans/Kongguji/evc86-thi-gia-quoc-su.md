@@ -127,12 +127,12 @@ Con cóc! Con cóc! Chỉ có lắm lời, ta nói long vương không phải no
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Nanyang-Huizhong" target="_blank">📌 TS NAM DƯƠNG HUỆ TRUNG</a>
+[^1]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
 
 

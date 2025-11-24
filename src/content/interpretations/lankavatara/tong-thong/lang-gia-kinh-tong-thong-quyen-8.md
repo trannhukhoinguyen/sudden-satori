@@ -1115,7 +1115,16 @@ và vọng tưởng tự tính hai thứ tướng Chấn
 
 trí và như như ấy tức là tướng Thành
 
-Ồ thông rằng ở bài kệ tổn trước nói năm
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở bài kệ tổn trước nói năm
 
 pháp này thâu nhịp cả ba tự tính 8 thức
 
@@ -1483,7 +1492,16 @@ chúng sinh an lạc không có não loạn lại
 
 không sai khác
 
-Ồ thông rằng pháp thân như lai không thể
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ pháp thân như lai không thể
 
 ví dụ nhân vật thường ví dụ rằng ba đời
 
@@ -1719,7 +1737,16 @@ Thành Thục Chú sang nên chiếu khắp tất
 
 cả đại trú trong cõi chưa vậy
 
-Ồ thông rằng các hệ chân như Pháp Thân
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ các hệ chân như Pháp Thân
 
 trạm hoài có thể thì có dụng nên lấy
 
@@ -2667,7 +2694,16 @@ hình ảnh khác nhau nên sắc nay dẫn dừng
 
 điều này ta gọi là phát sắc Na
 
-thông rằng Bồ Tát Đại Huệ Ngân Nga Đức
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ Ngân Nga Đức
 
 Phật nói Pháp Thân Như Lai như cát sông
 
@@ -4643,7 +4679,16 @@ không nhiễu loạn ý cho nên họ không thể
 
 giác ngộ
 
-Ồ thông rằng ở văn trên nói Trâu ký cho
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở văn trên nói Trâu ký cho
 
 hàng thanhvân không gì chẳng phải để
 
@@ -4887,7 +4932,16 @@ trụ địa đoạn sạch nên tất cả nội không
 
 còn sót thừa
 
-Ồ thông rằng Vân trên nói là như lai
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Vân trên nói là như lai
 
 không niệm Lợi không quán xác mà diễn
 
@@ -6227,7 +6281,16 @@ thợ săn ăn thịt hoặc sinh nữ res trong
 
 các loại ăn thịt lại đọa vào loại súc
 
-như la sát mèo chồn Ồ thông rằng trong
+như la sát mèo chồn Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trong
 
 văn trường Hàn nghĩa rút gọn còn trong
 

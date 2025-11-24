@@ -71,7 +71,16 @@ tí nắm giữ tất cả câu nghĩa như lai cũng
 
 như vậy người Trí Huệ nên biết
 
-Ồ thông Rằng Như Lai Chánh đẳng Chánh
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Như Lai Chánh đẳng Chánh
 
 Giác từ tính như như tức là pháp thân
 
@@ -407,7 +416,16 @@ sinh và không tự tính cũng nên biết như
 
 thế
 
-Ồ thông Rằng câu nghĩa tất cả Như Lai
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ câu nghĩa tất cả Như Lai
 
 chậm rơi trong pháp 4 câu sau phải dùng
 
@@ -819,7 +837,16 @@ cùng với sợ chứng chẳng phải không khác
 
 vậy
 
-Ồ thông rằng ở trên đối pháp thân cùng
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trên đối pháp thân cùng
 
 với năm ấm chẳng phải khác Chẳng phải
 
@@ -1251,7 +1278,16 @@ khỏi tất cả loại dáng quán sát ngã thông
 
 ấy gọi là chán quá chẳng hủy Đại Đạo Sư
 
-Ồ thông rằng bài Kệ đây tổng tụng về
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bài Kệ đây tổng tụng về
 
 Chánh đẳng Chánh Giác say lìa các loại
 
@@ -2517,7 +2553,16 @@ chẳng nên nhất gọi chất trước theo lời
 
 nói vì chân thật lìa Văn Tự
 
-Ồ thông rằng phần kinh trên nói các đại
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ phần kinh trên nói các đại
 
 bồ-tát ý nghĩa dẫn Lương Văn Tự Làm sao
 
@@ -3205,7 +3250,16 @@ có kinh chị giáp từ tâm hiện được thì
 
 vẫn tưởng trạng sinh ăn ổn khoái lạc rất
 
-hạnh biệt Đời Ồ thông rằng nhưng ở trên
+hạnh biệt Đời Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhưng ở trên
 
 nói bậc đại đức đa văn dẫn theo kinh
 
@@ -3859,7 +3913,16 @@ dứt luận không nhân rộng chuyện khiếu
 
 ngoại đạo kinh sợ
 
-Ồ thông rằng phần kinh trên Phật nói
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ phần kinh trên Phật nói
 
 thấy vô tướng Thắng vượt chẳng phải cái
 
@@ -4145,7 +4208,16 @@ luận không nhân đức thế tôn lại dùng kệ
 
 không nhân kia thuộc lượng sinh diệt
 
-kiến chấp từ đây diệt thông rằng đức thế
+kiến chấp từ đây diệt 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đức thế
 
 tôn dựng lập cái nghĩa không sinh về
 
@@ -6455,7 +6527,16 @@ cội trên dưới ta nói điều là tâm lìa
 
 khỏi Cát Tâm Pháp lại không thể nắm bắt
 
-thông rằng trong phần kinh bằng văn xuôi
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trong phần kinh bằng văn xuôi
 
 ở trước đã phát xong 7 luận chất vô
 
@@ -6731,7 +6812,16 @@ giác không thể nhập nệm nệm diệt tận
 
 định của địa thứ bảy vì không có trí
 
-phương tiện khéo léo thông rằng nhân
+phương tiện khéo léo 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhân
 
 phần trên nghi vấn rằng chặn xin chẳng
 
@@ -7429,7 +7519,16 @@ tục xa lìa tất cả cảnh giới ở đây chính
 
 tả pháp tịch Diệt
 
-Ồ thông rằng văn trên nói ngoài tự tâm
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ văn trên nói ngoài tự tâm
 
 hiện lượng kỹ thuật không có hoặc sinh
 
@@ -7729,7 +7828,16 @@ một là địa 8 D9 là địa 7 Địa 7 là địa 8
 
 là địa 60 thận có thứ lớp
 
-Ồ thông rằng đây vốn là chỗ Bồ Tát Đại
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đây vốn là chỗ Bồ Tát Đại
 
 Huệ Thơ hội đức phật về thứ lớp nối nhau
 
@@ -9475,7 +9583,16 @@ phải chỗ hành trì của hàng ngoại đạo
 
 nghị thừa chấp trước vào băng Tự
 
-Ồ thông rằng theo văn trên nói tìm một
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ theo văn trên nói tìm một
 
 khi đã Tịnh sạch cặn thức cũng gọi là
 

@@ -638,10 +638,10 @@ Triển khai song thủ, đại nghĩa mặc khế.)
 
 ## NGUỒN
 
-> ✨ <a href="https://daophatkhatsi.vn/thien-ngo-phan-2.html" target="_blank">🔗</a>
+> 🔗 <a href="https://daophatkhatsi.vn/thien-ngo-phan-2.html" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ 
+[^1]: 📝 

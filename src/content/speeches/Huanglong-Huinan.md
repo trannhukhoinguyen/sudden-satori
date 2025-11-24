@@ -15,10 +15,10 @@ pdfUrl: /pdfs/speeches/Hoang-Long-ngu-luc.pdf
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Huanglong-Huinan" target="_blank">📌 TS HOÀNG LONG HUỆ NAM</a>
+[^1]: 📝 <a href="/masters/Huanglong-Huinan" target="_blank">TS HOÀNG LONG HUỆ NAM</a>

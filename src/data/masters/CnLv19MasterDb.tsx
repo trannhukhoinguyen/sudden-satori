@@ -118,7 +118,6 @@ const CnLv19MasterDb = [
     name_en: 'Zhiweng Deju',
     name_ja: '',
     name_zh: '智翁德矩',
-    name_wade_giles: '',
     name_vi: 'TRÍ ÔNG ĐỨC CỦ',
     other_name_vi: '',
     nickname_vi: '',

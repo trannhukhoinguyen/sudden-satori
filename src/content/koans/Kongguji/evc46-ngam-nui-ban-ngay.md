@@ -87,10 +87,10 @@ Trong Thuật Chinh Ký của Quách Duyên Sinh ghi rằng: Hoa Sơn và Thủ 
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunmen-Wenyan" target="_blank">📌 TS VÂN MÔN VĂN YỂN</a>
+[^1]: 📝 <a href="/masters/Yunmen-Wenyan" target="_blank">TS VÂN MÔN VĂN YỂN</a>

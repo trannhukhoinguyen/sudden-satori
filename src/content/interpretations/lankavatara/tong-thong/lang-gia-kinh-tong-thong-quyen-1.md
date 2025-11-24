@@ -47,7 +47,7 @@ khám Sơn khi ngủ ở lôi Dương chẳng phải
 
 tôi nói với hắn Sơn thật lòng tán pháo
 
-tâm ý thậm hợp Ừ từ năm quý tỵ tôi ẩn
+tâm ý thậm hợp  từ năm quý tỵ tôi ẩn
 
 trong am nhỏ sao núi luật Xem các bản
 
@@ -177,7 +177,7 @@ thể không dốc lòng in kinh này vậy kính
 
 tinh thuật lại ngọn nguồn dặn dò ghi
 
-chép cốt để người có mắt xem sôi Ồ thế
+chép cốt để người có mắt xem sôi  thế
 
 thì trong mộng lại nói Mộng Sau đây là
 
@@ -331,7 +331,16 @@ muôn Phương cốt để người người gắn chí nôi theo bậc Tài Đ�
 
 </div>
 </fieldset>
+<h5>💥 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
 <h5>💥 THÔNG rằng</h5>
+
+</h5>
 
 Bộ Kinh Lăng giả a bạc Đà La Bảo tông thông đời Tống Tam tạm đại sư cầu na bạc Đà La người nước Thiên Trúc dịch lần thứ nhất đời Nguyên hụi Tam Tạng Pháp Sư Bồ
 
@@ -365,7 +374,7 @@ Ngô trứng mới có thể lên được để tiêu biểu Pháp môn tâm đ
 Xưa kia sư, Động Sơn cùng bật sư bá dạo núi thấy có lá rau trôi theo Dòng Suối chảy Động Sơn nói núi sau không có người sau có rau trôi theo dòng nước hay là nơi đây có đạo nhân 
 Họ cùng nhau phát cỏ men theo suối được Khoảng vài cây số chợt thấy một vị sư hình dáng khô gầy giống màu khác thường từ núi đi xuống bàn để hành lý xuống hỏi thăm vì ấy hỏi nói đây không đường các vị từ đâu đến
 
-Động Sơn nói không đường hãy để đó hòa thượng tự đóng vào sư đó ta nhận Ừ mai nước đến động sớm hỏi hòa thượng trụ nối này bao lâu rồi sư đáp tung Thu giận tương cam Động Sơn hỏi hòa thượng trụ
+Động Sơn nói không đường hãy để đó hòa thượng tự đóng vào sư đó ta nhận  mai nước đến động sớm hỏi hòa thượng trụ nối này bao lâu rồi sư đáp tung Thu giận tương cam Động Sơn hỏi hòa thượng trụ
 
 trước hay núi có trước sư đáp dẫn biết
 
@@ -822,7 +831,7 @@ nghĩa cứu kiến dạy và sự chứng cấp các
 
 pháp Tam Muội
 
-Ừ ông không nên say đắm khi luận chân
+ ông không nên say đắm khi luận chân
 
 cãi Nói bạc ông chẳng nên khởi cắt kiến
 
@@ -1060,7 +1069,7 @@ nhi muốn hỏi Hãy nhanh chóng thưa hội ta
 
 sẽ bị ông phân biệt giải thích đầy đủ
 
-như nguyện Khiến ông Hoan hị Ừ ông hãy
+như nguyện Khiến ông Hoan hị  ông hãy
 
 khéo vùng Trí Huệ tư duy quan sát lìa
 
@@ -1492,7 +1501,7 @@ Pháp thuộc không ở một con phải tạ cho
 
 và phương pháp sư
 
-Ừ nếu rõ được tính tâm thì cảm nhận địa
+ nếu rõ được tính tâm thì cảm nhận địa
 
 phân biệt mà cũng lìa ngôn thuyết
 
@@ -1508,7 +1517,25 @@ Tống Dịch tất cả Chư Phật thuyết tâm
 
 nguy dịch hỏi đáp
 
-Ồ thông rằng toàn bộ kinh này có 100.000
+<fieldset style="margin-block: 8px">
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+
+</div>
+</fieldset>
+<h5>💥 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+</h5>
+
+Toàn bộ kinh này có 100.000
 
 bài kệ một triệu Câu 36 triệu lời và 150
 
@@ -1524,7 +1551,7 @@ cho tất cả chú vật điều chứng tâm này
 
 nên gọi là tất cả yêu vật thuyết Tâm
 
-Ừ để sứ đạt ma nói với nghị tổ
+ để sứ đạt ma nói với nghị tổ
 
 ta có 4 quyển kinh Lăng già và giao phó
 
@@ -1588,7 +1615,7 @@ tức là sắc
 
 ai biết sắc vốn không thì đang sinh thức
 
-chặng sinh Ừ nếu sợ được ý đây thì có
+chặng sinh  nếu sợ được ý đây thì có
 
 thể tùy thời mặc áo ăn cơm nuôi dưỡng
 
@@ -1622,7 +1649,7 @@ chúng đại bồ-tát từ vô số hội phật khác
 
 tam muội lực Thần Thông Du chị tự tại
 
-bồ-tát Đại Huệ làm thượng thủ Ồ thông
+bồ-tát Đại Huệ làm thượng thủ  thông
 
 rằng đoạn này Văn nón gọn mà ý nghĩa sâu
 
@@ -1662,7 +1689,7 @@ Muội vô thế tự tại thì chẳng thể đến
 
 được
 
-Ừ để có thể tham dự được một thời pháp
+ để có thể tham dự được một thời pháp
 
 này các bậc bồ-tát thấy điều từ vô lượng
 
@@ -1804,11 +1831,11 @@ phương chư phật đều ở trước mắt các ông
 
 có thấy không
 
-Ừ nếu nói thấy thì tâm thấy hay mặc thấy
+ nếu nói thấy thì tâm thấy hay mặc thấy
 
 ý cho nên nói tất cả pháp trọng sinh tất
 
-cả pháp chặn Diệt Ừ nếu thấu suốt như
+cả pháp chặn Diệt  nếu thấu suốt như
 
 thế Chư Phật thường hiện tiền
 
@@ -1844,7 +1871,7 @@ bạn Tâm Như nhiên không gặp hóa ra thấy
 
 nghe
 
-Ừ nếu lìa Tâm mặc cầu giải thoát khác
+ nếu lìa Tâm mặc cầu giải thoát khác
 
 người xưa gọi là kẻ bỏ nguồn mê đuổi
 
@@ -1900,7 +1927,7 @@ Tĩnh như vậy lìa xin việc được gọi danh
 
 chặng thụ đời này đời sau tình
 
-Ồ thông Trần Bồ Tát Đại Huệ khéo thấu
+ thông Trần Bồ Tát Đại Huệ khéo thấu
 
 suốt nghĩa cảnh giới tự Âm hiện
 
@@ -1996,7 +2023,7 @@ ra giả được lọc sạch chỉ còn con người
 
 chân thật
 
-Ừ nếu lấy đây khoán Phật thì tịch diệt
+ nếu lấy đây khoán Phật thì tịch diệt
 
 hiện tiền vốn tự vô sinh Vốn đã chẳng
 
@@ -2130,7 +2157,16 @@ hỏi ta sẽ vì các ông thuyết cảnh giới tự
 
 giác
 
-thông rằng đứng tối tôn trong trời người
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đứng tối tôn trong trời người
 
 tức là
 
@@ -2226,7 +2262,16 @@ nào Tịnh suy lượng thế nào Khởi My hoặc
 
 thế nào thỉnh mê hoặc
 
-Ồ thông rằng Khởi suy lượng tức là kiến
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Khởi suy lượng tức là kiến
 
 suy hoặc cho nên Thịnh suy lượng tức lạ
 
@@ -2410,7 +2455,7 @@ dù chỉ một câu ai buồn ai giải thoát đây
 
 mà nằm ngay vỡ nát được mới biết Đại Huệ
 
-vốn là người trong nhà Ừ từ tứ tổ đạo
+vốn là người trong nhà  từ tứ tổ đạo
 
 tính mới 14 tuổi đến Hội Tam tổ rằng
 
@@ -2576,7 +2621,16 @@ thần thông cùng cam muội tự tại thế nào
 
 tâm tam-muội tối Thắng vì con thuyết
 
-thông rằng
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+
 
 lược lời hỏi của bồ-tát Đại Huệ Đó là
 
@@ -2708,7 +2762,7 @@ ngoài đảo tướng đó chập cháy nhau thì
 
 tại sao đời vị lai phân vô số bộ váy
 
-thiết bị Lai có 18 bộ sai khác à Ồ thông
+thiết bị Lai có 18 bộ sai khác à  thông
 
 rằng ở trên nói thành tựu tâm tam-muội
 
@@ -2836,7 +2890,7 @@ anh nói biến đổi cũng được nói không
 
 biến đổi cũng được
 
-Ừ nếu chưa thấy tính nghe nói chân như
+ nếu chưa thấy tính nghe nói chân như
 
 biến đổi liên cho là biến đổi nói không
 
@@ -3018,7 +3072,16 @@ gian thế nào lìa văn tự thế nào như hoa
 
 không đường dịch sao được như hư không
 
-thế nào liền phân biệt thông rằng tướng
+thế nào liền phân biệt 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tướng
 
 thế gian tức là vô tướng đều là dựng lập
 
@@ -3110,7 +3173,16 @@ gì là hay vô ngã thì là nghỉ Diễm tình
 
 có mấy chủng các chí mấy giới chúng sinh
 
-tính thông rằng chân như pháp giới pháp
+tính 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ chân như pháp giới pháp
 
 tính tính trạng hư dối tính trạng biến
 
@@ -3158,7 +3230,7 @@ ban đầu được nhân không Rồi đến pháp
 
 không tức Lại trứng hai thứ vô ngã
 
-Ừ bắt đầu phiền não chướng thanh tịnh
+ bắt đầu phiền não chướng thanh tịnh
 
 rồi đến sợ trí trưởng Thanh Tịch gọi là
 
@@ -3252,7 +3324,16 @@ chúng Tín Minh Sứ cùng kỹ thuật Do đâu
 
 mà hiểu vậy
 
-Ồ thông rằng ba cõi chỉ là tâm hữu tình
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ba cõi chỉ là tâm hữu tình
 
 cùng vô tình đều là vật trong Vũ Minh
 
@@ -3362,7 +3443,7 @@ rằng ở Việt Châu có viên ngọc châu lớn
 
 tròn đáng trong suốt tự tại không dị
 
-nhân ngại Ừ nếu ngộ được trâu này thì
+nhân ngại  nếu ngộ được trâu này thì
 
 vàng bạc many còn chẳng được xếp vào
 
@@ -3378,7 +3459,16 @@ là luật đường dịch đạo lý máy giảm động
 
 giải thích mấy sai biệt
 
-Ồ thông rằng yada còn gọi là cúng Tùng
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ yada còn gọi là cúng Tùng
 
 gồm những bài ca tụng Em có cô Khởi có
 
@@ -3388,7 +3478,7 @@ số loại chặn giống nhau nhưng không gì
 
 chẳng phải diễn nói Pháp Âm
 
-Ừ lý lẽ tức là đạo lý lý ấy để kia quý ở
+ lý lẽ tức là đạo lý lý ấy để kia quý ở
 
 chỗ thân hàng cho nên người luận sợi dị
 
@@ -3420,7 +3510,7 @@ Em chỉ suy ngậm hiểu biết chừng nửa câu
 
 mà đã hô hoán hội một lời
 
-Ừ nếu lãnh thầy ấp Đường ngôn ngữ bậc
+ nếu lãnh thầy ấp Đường ngôn ngữ bậc
 
 nhất dấu với tâm hàng Việt đến cảnh giới
 
@@ -3504,7 +3594,7 @@ gọi là vua thuộc dòng sắt đến lợi chuyên
 
 bảo hộ tài bảo cho các tiểu vương
 
-Ừ nếu là chuyển luân Vương thì có đầy đủ
+ nếu là chuyển luân Vương thì có đầy đủ
 
 bài báo phi hành từ tài trong 4 đại Châu
 
@@ -3538,7 +3628,7 @@ nói đến 80 vị thiên thần báo mới vị càng
 
 này đều do nguồn tưởng trôi chảy cùng
 
-ngăn ngại mà thành ra cái tin Diệu Ừ từ
+ngăn ngại mà thành ra cái tin Diệu  từ
 
 cõi trời tứ thiên vương chợ xuống các
 
@@ -3588,7 +3678,7 @@ khi khởi tham ái nhỏ như đầu sò lông mà
 
 chị chẳng được
 
-Ừ thì sinh thiết trụ một hạt gạo một sợi
+ thì sinh thiết trụ một hạt gạo một sợi
 
 chỉ đeo phải mang lông đội sừng kéo cày
 
@@ -3642,7 +3732,16 @@ khi mà cùng các dị học mỗi mọi có mấy
 
 thứ
 
-Ồ thông rằng bật giải thoát là vô học
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bật giải thoát là vô học
 
 bậc tu hành là khổ học đệ tử thanhvân vô
 
@@ -3726,7 +3825,7 @@ thừa vi phạm Phú đuổi theo cảnh sinh tâm
 
 theo trong khởi vui mừng nhằm án
 
-Ừ nếu muốn không Cạnh phải quên Tâm quên
+ nếu muốn không Cạnh phải quên Tâm quên
 
 Tâm tức cảnh không cảnh không tức câm
 
@@ -3754,7 +3853,7 @@ tâm có mấy thứ riêng biệt
 
 có Bao Chủng
 
-Ừ thế nào thi thiết lượng đường dịch thế
+ thế nào thi thiết lượng đường dịch thế
 
 nào chị giả nói cuối sinh tối Thắng
 
@@ -3762,7 +3861,16 @@ thuyết thế nào không gió mày thế nào
 
 niệm thông minh
 
-Ồ thông rằng tâm và tính chỉ một mệt
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tâm và tính chỉ một mệt
 
 thôi nhưng căn cứ văn sau thì có 7 chủng
 
@@ -3860,7 +3968,16 @@ rất sao gọi dòng Cam Giá
 
 nguyện vô thượng tôn thuyết
 
-Ồ thông rằng đoạn này hỏi về nhân quả
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đoạn này hỏi về nhân quả
 
 tức là chỗ cảm Thọ Nghiệp báo của cuộc
 
@@ -4062,7 +4179,7 @@ sáng chói địa Nhật Nguyệt như thế Hãy vô
 
 lượng
 
-Ồ thông Trần Kinh Hoa Nghiêm nói
+ thông Trần Kinh Hoa Nghiêm nói
 
 vì chúng tự sai khác nên xinh quá chẳng
 
@@ -4072,7 +4189,7 @@ vì muôn nào hàng nhiệt nên có vô lượng
 
 cõi Phật
 
-Ừ từ lời hội thế nào không gió mài cho
+ từ lời hội thế nào không gió mài cho
 
 đến đây đều hỏi chỗ cảm nghiệp báo của
 
@@ -4150,7 +4267,7 @@ sáng rừng cây mà chẳng nhờ ánh sáng của
 
 mặt trời mặt trăng
 
-Ừ thế giới như vậy vô lượng vô biên rồng
+ thế giới như vậy vô lượng vô biên rồng
 
 như Bồ Tát Phổ Hiền đã nêu trong ấy có
 
@@ -4188,7 +4305,7 @@ việc ta vậy Trăng
 
 giới ta bà lấy âm thanh làm phật sự
 
-Ừ thế giới Hương Tích lấy hương thơm của
+ thế giới Hương Tích lấy hương thơm của
 
 cơm làm phật sự
 
@@ -4238,7 +4355,16 @@ gìn chánh pháp thầy trời trụ bao lâu
 
 chánh pháp chủ bao lâu
 
-Ồ thông rằng tùy lời hóa hẹn gọi là hóa
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tùy lời hóa hẹn gọi là hóa
 
 vật ứng hợp với những công đức tu hành ở
 
@@ -4304,7 +4430,7 @@ sinh trao lại trong ngày rồi sau mới
 
 nhập diệt
 
-Ừ thứ lớp của các việc thì hiện nay mỗi
+ thứ lớp của các việc thì hiện nay mỗi
 
 mọi cố định nghiệp chặng thể khác vậy
 
@@ -4328,7 +4454,7 @@ chí nếu 13 thân không có từ tính tức gọi
 
 là bố trí bộ đề lắng nghe ta nói kệ
 
-Ừ từ tín đủ 3 thân ứng rượu Thành bố trí
+ từ tín đủ 3 thân ứng rượu Thành bố trí
 
 chẳng lìa Duyên thấy nghe siêu nhiên lên
 
@@ -4402,7 +4528,7 @@ tướng người dịch thế nào được không biến
 
 nhân nào châm tịch Tĩnh
 
-Ừ thế nào hết tục thông thế nào xuất thế
+ thế nào hết tục thông thế nào xuất thế
 
 gian thế nào là 7 Địa đường dịch tâm trụ
 
@@ -4418,7 +4544,16 @@ thế nào
 
 thuyết khi phương luận
 
-Ồ thông rằng kích đạn là khắp thí Có 4
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ kích đạn là khắp thí Có 4
 
 loại 1 thế giới cất Đạm là khiến người
 
@@ -4586,7 +4721,16 @@ Cang thị các núi vô lượng bảo Trang
 
 Nghiêm tiên đặc bà vô số
 
-Ồ thông rằng kêu loto gọi là sợ Ấn Độ
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ kêu loto gọi là sợ Ấn Độ
 
 Những gì cần đoạn đã đoàn
 
@@ -4740,7 +4884,7 @@ vọng kiến Nếu - liền đó vô sinh tiền
 
 nhất bạn không tưởng rõ ràng không thể
 
-có vốn mà các pháp của tư Ừ chị bác có
+có vốn mà các pháp của tư  chị bác có
 
 đầu đã trả lời toàn bộ câu hỏi của
 
@@ -4854,7 +4998,7 @@ thức Vông ạ Pháp có 5 vô ngã hay vô ngã
 
 pháp năm Pháp
 
-Ừ từ tính tưởng sở tưởng từ tính tức ba
+ từ tính tưởng sở tưởng từ tính tức ba
 
 từ tính cùng với hai chủng kiến các thừa
 
@@ -5006,7 +5150,7 @@ gần đó gọi là không sinh không diệt được
 
 tự tại vậy
 
-Ừ từ Phật các ba-la-mật đến đây đều lên
+ từ Phật các ba-la-mật đến đây đều lên
 
 trộn mực nghiệm sâu xa
 
@@ -5296,7 +5440,7 @@ thể vô tướng kia có thể nhận biết há
 
 liệu hoài các tướng mà riêng có cái gọi
 
-là vô tướng Như Ừ thế thì tính tướng
+là vô tướng Như  thế thì tính tướng
 
 liên lạc tất cả đều là cảnh giới của từ
 
@@ -5382,7 +5526,7 @@ nào Như Huyễn Mộng
 
 Du nay Hoàng Khắc Ái
 
-Ừ thế nào núi trời tiên càng tháp bà
+ thế nào núi trời tiên càng tháp bà
 
 Trang Nghiêm
 
@@ -5408,7 +5552,7 @@ tác thế nào đoạn cát tưởng thế nào Tam
 
 Muội khởi phát ba cõi là ai ở đâu và
 
-thân gì Ừ thế nào Không chúng sinh mà
+thân gì  thế nào Không chúng sinh mà
 
 nói có ta người thế nào thuyết thế tục
 
@@ -5416,13 +5560,13 @@ cuối sinh phân biệt dòng đường nhụy điều
 
 không dịch câu này thế nào tướng đã hỏi
 
-cùng chỗ Hỏi Phi Ngã Ừ thế nào là thai
+cùng chỗ Hỏi Phi Ngã  thế nào là thai
 
 sản và cô Lượng thân khác thế nào đoàn
 
 thường kiến
 
-Ừ thế nào tâm được định lời nói và các
+ thế nào tâm được định lời nói và các
 
 trí giới dụng tính Phật Tử
 
@@ -5434,7 +5578,7 @@ lại thế nào Thế nào là ăn uống
 
 ăn uống ở trước chị ái dục ăn uống ở đây
 
-nhỉ ăn thịt Ồ thông minh mà Thì thiết
+nhỉ ăn thịt  thông minh mà Thì thiết
 
 thế nào cây dây sắn chỗ hội tối thánh tử
 
@@ -5476,7 +5620,16 @@ những con vật khéo lắng nghe chăm đẹp 8
 
 câu tin như chồi tiêu Phật thuyết
 
-Ồ thông rằng ở đây Đức Thế Tôn thật ân
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở đây Đức Thế Tôn thật ân
 
 cần lắng nghe toàn bộ lời thứ hỏi không
 
@@ -5520,7 +5673,7 @@ là sợ Hành Thiện Phạm phu nghiệp thuộc
 
 tục Đế
 
-Ừ nếu thanh tịnh các giác Đoạn Trừ các
+ nếu thanh tịnh các giác Đoạn Trừ các
 
 tưởng hiện tưởng diệt rồi nhập vào cam
 
@@ -5600,7 +5753,7 @@ hư dối của ngoại đạo cho là vô tướng tức
 
 là lìa các tướng
 
-Ừ nếu lìa tướng mà nói vô tướng tức là
+ nếu lìa tướng mà nói vô tướng tức là
 
 ngoan
 
@@ -6124,7 +6277,7 @@ bao phổ núi cao mơ móc thơm hoa cỏ chẳng
 
 phạm đến Hóa môn ngàn núi điều bầy chảy
 
-Ừ nếu chẳng biết chỗ phê thì ham rộng
+ nếu chẳng biết chỗ phê thì ham rộng
 
 không người hỏi rồng Buồn biển cả sau
 
@@ -6340,7 +6493,7 @@ khéo câu Tỉnh câu trọc ngoại tình câu
 
 thành câu chặt và thành câu ví dụ câu
 
-chậm phải ví dụ Ừ ông rằng Bồ Tát Đại
+chậm phải ví dụ  ông rằng Bồ Tát Đại
 
 Huệ hỏi phần giới luật tỳ kheo nhân
 
@@ -6456,7 +6609,7 @@ nghe kinh cầu đệ tử câu chẳng phải đệ tử
 
 câu thầy câu chậm phải thầy
 
-Ừ ông rằng Bồ Tát Đại Huệ hội đệ tử Có
+ ông rằng Bồ Tát Đại Huệ hội đệ tử Có
 
 mấy loại sau là ai và lê lại hỏi thiền
 
@@ -6552,7 +6705,16 @@ tuyệt đỉnh đường Dịch câu không ảnh
 
 tưởng câu chẳng phải không ảnh tượng
 
-thông rằng Bồ Tát Đại Huệ hỏi thế nào là
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hỏi thế nào là
 
 chủng tính không trục và tâm lượng lại
 
@@ -6678,7 +6840,7 @@ tính 3 thường kia vốn chẳng khoản vậy
 
 kinh câu nguyện câu chẳng nguyện câu 3
 
-luận câu chẳng phải Ba lùn Ồ thông Trần
+luận câu chẳng phải Ba lùn  thông Trần
 
 Bồ Tát Đại Huệ hỏi sao chuyện nêu 3 thừa
 
@@ -6896,7 +7058,16 @@ lạc câu chẳng phải hiện pháp lạc câu cõi
 
 nước câu chẳng phải cõi nước
 
-Ồ thông Rằng câu tự chứng tháng trí tức
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ câu tự chứng tháng trí tức
 
 là Đức như-lai nói về cảnh giới tự giác
 
@@ -7072,7 +7243,7 @@ Thế Tôn cách Bồ Tát Đại Huệ chỗ hỏi chưa
 
 đến núi tôi nghi bao gồm sốt nhiều ích
 
-và sốt nặng nhạc Ừ từ mọi thứ bao vi
+và sốt nặng nhạc  từ mọi thứ bao vi
 
 trần cho đến tầng 3 lá được tạo thành từ
 
@@ -7216,7 +7387,7 @@ lệnh hoàn vũ Thái Bình giáng sinh oan
 
 giọng gậy phép học tiếng rồi chúng tòa
 
-Ừ nếu đối với bộ phận mà ngày Đại Huệ đã
+ nếu đối với bộ phận mà ngày Đại Huệ đã
 
 nêu có được chút tin tức mới hay tất cả
 
@@ -7236,7 +7407,16 @@ công sởáo nghệ thuật Minh cứ câu chẳng
 
 phải công xạo kỹ thuật Minh tự Cầu Gió
 
-câu chẳng phải gió thông rằng Bồ Tát Đại
+câu chẳng phải gió 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại
 
 Huệ hỏi thế nào không gió mây thế nào
 
@@ -7302,7 +7482,16 @@ phải thi tiếp câu tự tính tôi chẳng phải
 
 tự tính đường Dịch câu thể tính câu
 
-chẳng phải thể tính thông rằng Bồ Tát
+chẳng phải thể tính 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát
 
 Đại Huệ hỏi thế nào gọi là địa tự tính
 
@@ -7388,7 +7577,7 @@ nào có phật độ chúng sinh nơi nào có
 
 chúng sinh được mặc đồ tại sao tới vi
 
-tính của phạm pháp tự như như Ừ nếu khởi
+tính của phạm pháp tự như như  nếu khởi
 
 cái thấy tự nhiên như thì lạc vào ngoài
 
@@ -7454,11 +7643,20 @@ dịch vòng lửa câu càng phát bà câu chẳng
 
 phải càng Thác Bà
 
-Ồ thông rằng Bồ Tát Đại Huệ hội nhân nào
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hội nhân nào
 
 như huyện Mậu
 
-Hình như thằng càng Thác Bà Ừ thế giang
+Hình như thằng càng Thác Bà  thế giang
 
 như Dương Diệm như bóng trăng đấy nước
 
@@ -7714,7 +7912,16 @@ dục mà được giải thoát
 
 a kinh câu kiếm câu chẳng phải kiếm
 
-Ồ thông rằng Bồ Tát Đại Huệ hỏi thế nào
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hỏi thế nào
 
 khởi cất kiến thế nào thối cát kiến ở
 
@@ -7824,7 +8031,7 @@ ba-la-mật mấy giới chúng sinh tính
 
 ba-la-mật gọi là đến bờ kia cũng là sáu
 
-Độ Ừ bố thí đồ chị với độ nhận nhiệt độ
+Độ  bố thí đồ chị với độ nhận nhiệt độ
 
 int Ấn Độ tiền định độ và trí tuệ độ
 
@@ -7864,7 +8071,7 @@ cả pháp độ tất cả tâm ngã đã không tất
 
 cả tâm ngã nào dùng tất cả Pháp
 
-Ừ thế mới biết sáu ba-la-mật và các giới
+ thế mới biết sáu ba-la-mật và các giới
 
 Cắm rốt chỉ làm việc bên của cửa hóa độ
 
@@ -7880,7 +8087,16 @@ a kinh ôm mặt trời mặt trăng tinh tú cầu
 
 chẳng phải mặt trời mặt trăng tinh tú
 
-thông rằng Bồ Tát Đại Huệ hỏi tinh tú và
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hỏi tinh tú và
 
 Nhật Nguyệt ở trong kinh cũng chưa trả
 
@@ -7902,7 +8118,7 @@ của chúng chỉ thấy hoa sen nở khác mà
 
 phân ra ngày đêm cho nên gọi là thời Vân
 
-Ừ từ trời đây trở lên thân của các chư
+ từ trời đây trở lên thân của các chư
 
 thiên đều phát ánh sáng nên không ngờ
 
@@ -8036,7 +8252,16 @@ trong tay ta đích thị cầm cắt một đại
 
 a kinh câu chuyện câu chẳng phải chị
 
-đường dịch Y Phương thông rằng Bồ Tát
+đường dịch Y Phương 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát
 
 Đại Huệ hỏi thiết nào y quân luật ở
 
@@ -8378,9 +8603,18 @@ biết cái này ấy chẳng phải vậy
 
 ở kinh Châu hiện đâu chẳng phải hiện
 
-Ồ thông rằng Bồ Tát Đại Huệ hỏi
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
 
-Ừ tại vì sao Như Lai hiện tất cả thời
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hỏi
+
+ tại vì sao Như Lai hiện tất cả thời
 
 cội một việc Phật Giáo hóa tam thiên đại
 
@@ -8474,7 +8708,7 @@ người sống chút thân trên đường người
 
 sống vô số người chết
 
-Ừ Cái gì là cái đường người sống vô số
+ Cái gì là cái đường người sống vô số
 
 người chết cái gì là trên đường người
 
@@ -8494,7 +8728,16 @@ nói làm vua lập team hát thật có sao
 
 ở kinh Châu báo Câu chẳng phải báo
 
-Ồ thông rằng Bồ Tát Đại Huệ hội gì sinh
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hội gì sinh
 
 tính các báo many trân châu thầy
 
@@ -8536,7 +8779,7 @@ của Châu đây là sáng chói thế gian chưa
 
 chối sáng chói của tâm là trên hết
 
-Ừ cái sáng của Châu đây chẳng thể tự
+ cái sáng của Châu đây chẳng thể tự
 
 chiếu cần phải có ánh sáng trí tuệ ánh
 
@@ -8546,7 +8789,7 @@ sáng trí huệ liền biết đó là dâu đã biết
 
 báo ấy bảo dẫn tự làm báo
 
-Ừ nếu điện trâu ấy trâu trật tự là dâu
+ nếu điện trâu ấy trâu trật tự là dâu
 
 dâu giống từ biết nhau đứt cầm yếu phải
 
@@ -8716,7 +8959,7 @@ vì sao tổ động sơn lại nói cùng với đây
 
 như sau là mặt Sơn
 
-Ừ tớ nói chẳng lộ định thì khê như sao
+ tớ nói chẳng lộ định thì khê như sao
 
 là chủ mặt Sơn tổ nói chẳng phải tướng
 
@@ -8734,7 +8977,16 @@ tướng nào có ngăn ngại được
 
 kinh Châu vị câu chẳng phải Việt
 
-Ồ thông rằng Bồ Tát Đại Huệ chưa hỏi đến
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ chưa hỏi đến
 
 vị nhưng chỗ hội bắt lấy cầm thú Bạn ăn
 
@@ -8786,7 +9038,7 @@ Dịch câu lạc câu thân câu trọng phải
 
 thân
 
-Ồ thông Trần Bồ Tát Đại Huệ hội sao gọi
+ thông Trần Bồ Tát Đại Huệ hội sao gọi
 
 sợ phát sinh tăng tiến hộ Trì thân Đây ý
 
@@ -8974,7 +9226,16 @@ không dịch câu này câu nhân quả câu
 
 chẳng phải nhân quả câu sắc của cắn câu
 
-chậm phải sắc đủ cảnh thông rằng Bồ Tát
+chậm phải sắc đủ cảnh 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát
 
 Đại Huệ hội thế nào Thấy tục thông đây
 
@@ -9060,7 +9321,16 @@ câu trọng phải rừng cây dây dẫn cấu tạo
 
 câu chẳng phải tạo đường dịch chủng
 
-chủng thông rằng Bồ Tát Đại Huệ hỏi sao
+chủng 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ hỏi sao
 
 gọi 6 tiết nhất sao gọi là rừng cây sao
 
@@ -9130,7 +9400,7 @@ mời hai thời sai khiến lão tăng sai
 
 khiến được 12 thời
 
-Ừ rồi nói các vấn đề Trái Đứng lâu có
+ rồi nói các vấn đề Trái Đứng lâu có
 
 việc thì thương lượng không việc thì
 
@@ -9168,7 +9438,16 @@ phải thuyết đường Dịch câu quyết định
 
 câu chẳng phải quyết định
 
-Ồ thông rằng Bồ Tát Đại huyện sướng lời
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại huyện sướng lời
 
 hội có Sau đại Mâu Ni tuyên bố lời như
 
@@ -9408,7 +9687,7 @@ thì lão tăng chẳng vào địa ngục rút Lưỡi
 
 Thế các ông
 
-Ừ nếu có 100 một pháp để dạy cắt ông nói
+ nếu có 100 một pháp để dạy cắt ông nói
 
 các vật có Pháp có ba cõi để ra đều là
 
@@ -9530,7 +9809,16 @@ a kinh Meta Huệ
 
 các bồ-tát cần phải tu học
 
-Ồ thông rằng Tóm lại khẩu xét toàn bộ
+ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Tóm lại khẩu xét toàn bộ
 
 văn tên chỉ có 104 câu trong đó bốn câu
 

@@ -18,7 +18,16 @@ Kinh:
 
 Bây giờ Đức Thế Tôn bảo bồ tát Đại Huệ, Đại Huệ Thanh nay sẽ thuyết tướng Trung quả tướng phân biệt của thí sinh thân lắng nghe lắng nghe Hãy khéo nhớ nghĩ Đại Huệ bạch Phật rằng lần thay Đức Thế Tôn cuối sinh lãnh Thọ Phật Bảo Đại Huệ có 3 chủng nhí xinh thân 3 chủng ấy là gì đó là xinh thân do Tam Muội tránh Thọ lạc thí sinh thân do giáp được tính tự tính các pháp thí sinh thân chủng loại đồng sinh vô tát thành người tu hành chứng nhập sơ địa thứ lớp tăng tiến lên các địa thì được 3 chủng thân này
 
-Thông rằng:
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+:
 
 Ở trước trong quyển thứ 3, Đức Phật nói rằng Bồ Tát thành tựu bốn pháp thì trở thành bậc tu hành đại phương tiện cho đến chủ địa thứ 8 ta lìa tướng tâm lý ý thức năm pháp 3 tự tính hay Vông ạ thì được thí sinh thân thí như ý đi nhanh chóng không bị nhăn ngại
 
@@ -168,7 +177,16 @@ cạnh tâm hiện điều không có sở hữu
 
 kinh Đây gọi là ý sinh thân do Tam Muội
 
-tránh thợ lạc Ồ thông rằng hàng thập địa
+tránh thợ lạc Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ hàng thập địa
 
 bồ-tát thì từ xơ địa đến địa thứ bảy ý
 
@@ -594,7 +612,16 @@ ma hay nghiện này Tam Mao đề tự tại mỗi
 
 mỗi thí sinh thân hoa trang nghiêm tự
 
-tại Ồ thông rằng ở chương trước trong
+tại Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở chương trước trong
 
 đoạn nói về 5 chỗ Tính vô gián kể rằng
 
@@ -780,7 +807,16 @@ nhập 12 sứ đoạn nhất hai cân bạn ấy thì
 
 gọi là giết da hại mẹ
 
-Ồ thông rằng ở trước đã nêu 5 dụng tính
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước đã nêu 5 dụng tính
 
 vô gián và tu hành vô giám được thí sinh
 
@@ -1000,7 +1036,16 @@ tụ vì đoạn rốt ráo chúng nên gọi là phá
 
 tăng
 
-Ồ thông rằng ở đây tâm tức là các
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở đây tâm tức là các
 
 tỳ-kheo không tướng gả Dạ không tính
 
@@ -1136,7 +1181,16 @@ Trừ rốt ráo 7 chúng thức vật kia đơn
 
 dịch 8 thức thân phận đó gọi là ác tâm
 
-làm thân phận ra máu thông rằng bề không
+làm thân phận ra máu 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bề không
 
 giác ngộ tất cả kiến phần tướng vọng đều
 
@@ -1302,7 +1356,16 @@ tri thức mới thoát khỏi mộng tưởng tương
 
 tục trong các cõi
 
-thông rằng chân như thực tế vốn không
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ chân như thực tế vốn không
 
 gián đoạn này trong chân Như hiện năm
 
@@ -1498,7 +1561,16 @@ Phật các sự là la-hán ấn tượng hợp là
 
 canh thứ lớp đoạn vô giám gọi đó nằm vô
 
-gián chẳng vào ngục vô Trạch thông rằng
+gián chẳng vào ngục vô Trạch 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+
 
 Kẻ Gây tạo nghiệp năm vô gián bên ngoài
 
@@ -1640,7 +1712,16 @@ Khi ấy Đức Thế Tôn Muốn tuyên lại nghĩa
 
 tượng đây gọi tri giác vật
 
-Ồ thông rằng theo yếu trị của Kinh Pháp
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ theo yếu trị của Kinh Pháp
 
 Hoa thì Đức Phật ra đời 11 đại sự nhân
 
@@ -1818,7 +1899,16 @@ dùng để gọi tất cả tiêu vật tự tính chữ
 
 kia không có sai khác Đây gọi là mình
 
-đặt về chữ Ồ thông rằng Phật giác tức
+đặt về chữ Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Phật giác tức
 
 lập pháp thân pháp thân thiện một mà
 
@@ -2024,7 +2114,16 @@ phục chúng sinh ở các cõi sai khác nên
 
 thì hiện vô lượng sắc thân sai khác Đây
 
-gọi là bình đẳng về thân Ồ thông rằng
+gọi là bình đẳng về thân Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+
 
 Pháp Thân sắc thân tướng Hạo nhằm chỉ 3
 
@@ -2154,7 +2253,16 @@ nên Như Lai ứng cúng đẳng Chánh Giác ở
 
 giữa đại chúng sướng lời như vậy
 
-Ồ thông rằng 37 pháp bộ đề phần đó là
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ 37 pháp bộ đề phần đó là
 
 bốn niệm xứ 4 tránh cần 4 thần túc năm
 
@@ -2448,7 +2556,16 @@ Văn Tự
 
 ngôn ngữ và phân biệt lia tướng danh từ
 
-Ồ thông rằng ở trên nói tê giác vật của
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trên nói tê giác vật của
 
 tất cả Chư Phật Như Lai đều không sai
 
@@ -2602,7 +2719,16 @@ chẳng thuyết một chữ cũng chẳng đã
 
 thuyết sẽ thiết
 
-Ồ thông rằng sau nói là Pháp bản trụ
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ sau nói là Pháp bản trụ
 
 không do ngôn thuyết tức là pháp tính
 
@@ -2728,7 +2854,16 @@ kêu vật cùng với ta thấy không có sai
 
 khác
 
-Ồ thông rằng ở trước đã nói chữ Đặng Nhữ
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước đã nói chữ Đặng Nhữ
 
 đẳng thân động pháp đặt thì chưa từng
 
@@ -2828,7 +2963,16 @@ pháp không Chẳng phải cứu kính mà xinh
 
 tưởng cứu kính
 
-thông rằng nhưng ở trên Bồ Tát Đại Huệ
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhưng ở trên Bồ Tát Đại Huệ
 
 nghe dậy tao là phật quá khứ thì dường
 
@@ -2966,7 +3110,16 @@ nói như thế tức là nói thế gian không
 
 nhân
 
-Ồ thông rằng nếu sợ các pháp thế gian
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nếu sợ các pháp thế gian
 
 vốn tự nó không sinh đương có đó mà
 
@@ -3134,7 +3287,16 @@ gọi là bị hủy hoại là kẻ chấp không có
 
 tương ấy vẹn
 
-Ồ thông rằng chỗ nói cái thấy không ấy
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ chỗ nói cái thấy không ấy
 
 đó là người thế gian Thọ lấy tham sân si
 
@@ -3532,7 +3694,16 @@ không có sự có thấy như như như
 
 cảnh giới hiện tháng
 
-Ồ thông rằng ở trong bài tượng đây Hiển
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trong bài tượng đây Hiển
 
 bày tính tướng tịch Tĩnh vắng lặng chẳng
 
@@ -3678,7 +3849,16 @@ xinh cũng lại không Chỗ nhiệt quán đây
 
 đều không tịch có không đều xa lìa
 
-Ồ thông rằng trong lời của kể tổn đây
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trong lời của kể tổn đây
 
 nói người thế gian lương vào có bạc
 
@@ -3878,7 +4058,16 @@ hiểu biết sai lầm hạnh phục Tà ma ngoại
 
 đạo phát sinh ánh sáng trí tuệ
 
-Ồ thông rằng ở phần trên nói không sinh
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở phần trên nói không sinh
 
 không diệt có và không thấy điều gì à Đó
 
@@ -4038,7 +4227,16 @@ Huệ ông và các Bồ Tát khác cần phải tu
 
 học
 
-Ồ thông rằng 9 bộ đây nằm trong 12 bộ 39
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ 9 bộ đây nằm trong 12 bộ 39
 
 Bộ Tiểu thừa không có Phương Quảng vô
 
@@ -4152,7 +4350,16 @@ tác giả từ cái sinh cá cảnh thầy đều như
 
 Huyễn Mộng
 
-Ồ thông rằng ở trong văn trường hạn thì
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trong văn trường hạn thì
 
 tách riêng tông thông và thuyết thông để
 
@@ -4430,7 +4637,16 @@ thật có chắp trước nơi Ngọ và Ngọ sợ cho
 
 nên gọi là hư vọng phân biệt
 
-Ồ thông rằng nhưng ở trên nói quán bọn
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhưng ở trên nói quán bọn
 
 Tưởng thế gian như Huyễn Mộng cây chuối
 
@@ -4672,7 +4888,16 @@ như thật thoát khỏi các thứ vọng tưởng
 
 nơi tự Tâm
 
-Ồ thông rằng Bồ Tát Đại Huệ nhân đức thế
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ nhân đức thế
 
 tôn nói vọng tưởng không thật từ chắc
 
@@ -5404,7 +5629,16 @@ pháp giới mỗi mỗi thí sinh thân ta
 
 thuyết là tâm lượng
 
-Ồ thông rằng ở trên thì nói tận tượng
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trên thì nói tận tượng
 
 cái nghĩa giác được từ tấm hiện lượng
 
@@ -5732,7 +5966,16 @@ mà thắng tiếng Đây gọi là đài Bồ Tát
 
 khéo léo về nghĩa
 
-Ồ thông rằng ở trước Bồ Tát Đại Huệ hội
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước Bồ Tát Đại Huệ hội
 
 thế nào là tất cả tính không sinh và như
 
@@ -6148,7 +6391,16 @@ không Chẳng thật như kia thấy cũng chẳng
 
 phải không có
 
-Ồ thông rằng ở trên nói rằng khéo léo
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trên nói rằng khéo léo
 
 nên ngữ nghĩa mà kỳ thật phải khéo thông
 
@@ -6822,7 +7074,16 @@ Giáp tưởng tùy chuyện vô sở hữu cùng
 
 Thắng bình đẳng trí vệ sinh
 
-Ồ thông rằng kệ tổng tay hoàn toàn nói
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ kệ tổng tay hoàn toàn nói
 
 về tướng thức và tính trí ngoài thức
 
@@ -7004,7 +7265,16 @@ thanhvân thể chấp trước có các Pháp Như
 
 Lai trí vô cấu về Liễu Đạt duy tâm
 
-Ồ thông rằng trong kinh bằng văn xuôi đã
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trong kinh bằng văn xuôi đã
 
 phân biện tướng thức chỉ có 3 nhưng chỉ
 
@@ -7552,7 +7822,16 @@ như vọng tưởng kia xem Duyên khởi thế
 
 gian như thận càng Tháp Bà
 
-thông rằng ngoại đạo chẳng thông được ý
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ngoại đạo chẳng thông được ý
 
 chị như huyện nên xin Khởi chính thứ
 
@@ -8098,7 +8377,16 @@ sinh khá được đường dịch tất cả các pháp
 
 hoặc có hoặc không tìm thể tính đó không
 
-thể có được thông rằng người chấp trước
+thể có được 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ người chấp trước
 
 tương tục thì bấm nếu các tướng tương
 
@@ -8330,7 +8618,16 @@ trước thì có tương tục ba hòa hợp Duyên
 
 thích nhất thấy ba giải thoát thì tất cả
 
-tương tục không sinh Ồ thông rằng tất cả
+tương tục không sinh Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tất cả
 
 11 thứ tương tục ở trước hoặc tướng hoặc
 
@@ -8500,7 +8797,16 @@ tơ mà từ chối ngu hu mộng tưởng đối
 
 tương tục chẳng quan sát
 
-Thông rằng chân thật ấy tức là chân như
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ chân thật ấy tức là chân như
 
 thực tế bạn lai vắng lặng trong ấy làm
 

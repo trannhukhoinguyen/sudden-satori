@@ -2,15 +2,15 @@
 title: "ĐỐN NGỘ NHẬP ĐẠO YẾU MÔN"
 description: ""
 excerpt: ""
-authors:
-  - TS ĐẠI CHÂU HUỆ HẢI
-translators:
-  - HT THÍCH THANH TỪ
 categories:
   - Sách
 tags:
   - LUẬN
   - TS ĐẠI CHÂU HUỆ HẢI
+authors:
+  - TS ĐẠI CHÂU HUỆ HẢI
+translators:
+  - HT THÍCH THANH TỪ
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/don-ngo-nhap-dao-yeu-mon.pdf
 videoId: rMZUfz1C6pI

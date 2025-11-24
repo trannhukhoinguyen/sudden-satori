@@ -3,11 +3,11 @@ title: "Thiền Quan Sách Tấn"
 meta_title: "Thiền Quan Sách Tấn"
 description: ""
 excerpt: "Thiền... mà lại có cửa (quan) sao?"
-showInHomepage: true
 categories:
+  - Sách
+tags:
   - Thực hành
   - Ngữ lục
-tags:
   - TS VÂN THÊ CHÂU HOẰNG
 authors: 
   - Vân Thê Châu Hoằng
@@ -15,6 +15,7 @@ image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/thien-quan-sach-tan.pdf
 videoIds:
   - sctL3Sj1OEc
+showInHomepage: true
 ---
 
 ## TỰA
@@ -597,12 +598,12 @@ Ngài Hiếp Tôn Giả 80 tuổi mới xuất gia. Những vị Tăng thiếu n
 
 ## NGUỒN
 
-> ✨ <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
+> 🔗 <a href="https://thuvienhoasen.org/images/file/XBJYpp1G0QgQAApq/thienquansachtan.pdf" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (PDF)</a>
 
-> ✨ <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
+> 🔗 <a href="ttps://thientruclam.info/ht-thich-thanh-tu/thien-quan-sach-tan" target="_blank">ZEN ENCOURAGEMENT TO ADVANCE (Read Online)</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunqi-Zhuhong" target="_blank">📌 TS VÂN THÊ CHÂU HOẲNG</a>
+[^1]: 📝 <a href="/masters/Yunqi-Zhuhong" target="_blank">TS VÂN THÊ CHÂU HOẲNG</a>

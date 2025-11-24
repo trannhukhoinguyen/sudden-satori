@@ -154,30 +154,28 @@ Thử nói xem, hiện giờ thầy ta ở đâu?
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12735/5/tac-thu-muoi-hai-ba-can-gai-cua-dong-son" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12796/tac-thu-sau-muoi-bay-luong-vu-de-moi-giang-kinh" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43256/5-tac-10-tac-12" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43269/18-tac-63-tac-67" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-02" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-07" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/2" target="_blank">🔗 phatphapungdung.com</a>
-
-> ✨ https://hoavouu.com/p16a12796/5/tac-thu-sau-muoi-bay-luong-vu-de-moi-giang-kinh
->
-> ✨ : https://quangduc.com/p1241a43269/18-tac-63-tac-67
->
-> ✨ : http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-07
->
-> ✨ : https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://vi.wikipedia.org/wiki/L%C6%B0%C6%A1ng_V%C5%A9_%C4%90%E1%BA%BF" target="_blank">LƯƠNG VŨ ĐẾ</a>
+[^1]: 📝 <a href="/masters/Liang-Wudi" target="_blank">LƯƠNG VŨ ĐẾ</a>
 
-[^2]: ⭐️ <a href="https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_Hu%E1%BB%87" target="_blank">PHÓ ĐẠI SĨ</a>
+[^2]: 📝 <a href="/masters/Fu-Daishi" target="_blank">PHÓ ĐẠI SĨ</a>
 
-[^3]: ⭐️ <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">📌 TS BẢO CHÍ CÔNG</a>
+[^3]: 📝 <a href="/masters/Baozhi-Gong" target="_blank">TS BẢO CHÍ CÔNG</a>
 
-http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355
+🔗 <a href="https://vi.wikipedia.org/wiki/L%C6%B0%C6%A1ng_V%C5%A9_%C4%90%E1%BA%BF" target="_blank">LƯƠNG VŨ ĐẾ</a>
+
+🔗 <a href="https://vi.wikipedia.org/wiki/Thi%E1%BB%87n_Hu%E1%BB%87" target="_blank">PHÓ ĐẠI SĨ</a>
+
+🔗 <a href="https://blog.phapthihoi.org/cao-tang-di-truyen-sau-nhi-to-bao-chi-chi-cong/" target="_blank">TS BẢO CHÍ CÔNG</a>
+
+🔗 <a href="http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355" target="_blank">TS BẢO CHÍ CÔNG</a>

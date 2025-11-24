@@ -92,7 +92,16 @@ tiến đến cảnh giới sợ hàng đài Bồ Tát
 
 các ông cần phải tu học
 
-Ồ thông rằng bồ tát tại Huệ ở trước đã
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bồ tát tại Huệ ở trước đã
 
 hỏi về Pháp Môn phân biệt năm pháp 3 từ
 
@@ -1880,7 +1889,16 @@ nói không vô sinh không hay lìa tượng tự
 
 tính
 
-thông rằng đức phật ở trước nói xa địa
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đức phật ở trước nói xa địa
 
 hết thể khiến chắc có không tất cả pháp
 
@@ -2006,7 +2024,16 @@ tướng chân trụ cho nên nói tất cả Tính
 
 tướng là không Đây gọi là tưởng không
 
-Ồ thông rằng căn cứ theo kinh đại bát
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ căn cứ theo kinh đại bát
 
 nhã nói thì có 20 không Đó là nội không
 
@@ -2222,7 +2249,16 @@ Khởi liền hả ngã sợ Đây gọi là hàng
 
 không
 
-thông rằng bên ngoài là tướng không bên
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bên ngoài là tướng không bên
 
 trong là tính không Nhưng khoảng Trung
 
@@ -2372,7 +2408,16 @@ lời nói Đây gọi là tất cả pháp luyện
 
 ngôn thuyết không
 
-thông rằng sức bọ hàng thức đều có thể
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ sức bọ hàng thức đều có thể
 
 diễn tả bằng nói tăng phân biệt chẵn lìa
 
@@ -2854,7 +2899,16 @@ thái khác cho nên gọi là không có từ
 
 tính
 
-Ồ thông rằng trước đã nói tất cả pháp
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trước đã nói tất cả pháp
 
 không không xin rồi Sao lại còn yêu là
 
@@ -3964,7 +4018,16 @@ là chưa Thế thì siêng năng cầu tự chứng
 
 thậm chí
 
-Ồ thông rằng ngoại đạo quán ngoài có
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ngoại đạo quán ngoài có
 
 tính không tính tức là có rồi trở lại
 
@@ -4554,7 +4617,16 @@ không khác biệt mà mua vô vọng tưởng
 
 chúng sai khác Đây gọi là pháp nội Duyên
 
-Ồ thông rằng Bồ Tát Đại Huệ đã lãnh hỏi
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ đã lãnh hỏi
 
 Khéo quá ngoài có tính không tính tức là
 
@@ -5092,7 +5164,16 @@ nhân duyên tạo áp hòa hợp lìa kiến dần
 
 dần sinh và sinh ngây
 
-Ồ thông rằng luận về tướng Duyên tức là
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ luận về tướng Duyên tức là
 
 duyên làm phương tiện khiến sinh luận về
 
@@ -5570,7 +5651,16 @@ chấp Học khí vô Thủy Thế luận mà xinh
 
 tưởng
 
-Ồ thông rằng Bồ Tát Đại Huệ Ngân Nga Đức
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ Ngân Nga Đức
 
 Thế Tôn ở trước nói kể tất cả muốn chẳng
 
@@ -5918,7 +6008,16 @@ thật thì chẳng như vậy thế nên chẳng
 
 phải khác hay không khác
 
-Ồ thông rằng vọng tưởng do năm thức thức
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ vọng tưởng do năm thức thức
 
 sáu bảy tám sinh là nhân của ngôn thuyết
 
@@ -6086,7 +6185,16 @@ về kinh tế nên Đại Huệ phải địa tướng
 
 ngôn thuyết các thứ vào tưởng
 
-thông rằng Bồ Tát Đại Huệ nghe rằng vì
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ nghe rằng vì
 
 kia làm nhân sinh tướng nên chẳng phải
 
@@ -6520,7 +6628,16 @@ vô-thượng chánh-đẳng bồ đề khiến Tất cả
 
 chúng sinh được an lạc đầy đủ sung mãn
 
-Ồ thông rằng nhân văn kiêm tim Bồ Tát
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhân văn kiêm tim Bồ Tát
 
 Đại Huệ viết được ngôn thuyết và vọng
 
@@ -6662,7 +6779,16 @@ các thứ tướng bên ngoài cho là thật Có
 
 rồi sinh phân biệt hư vọng
 
-thông rằng người rõ tiếp tự tâm hiện
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ người rõ tiếp tự tâm hiện
 
 lượng thì thế các pháp bên ngoài không
 
@@ -6832,7 +6958,16 @@ phải không thường vô nhà thầu Nhiếp lạnh
 
 thọ các kiến hi vọng
 
-Ồ thông rằng trên nói tập nhân các vọng
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ trên nói tập nhân các vọng
 
 tưởng chấp trước chặng đồng không thể
 
@@ -6940,7 +7075,16 @@ phải không thường vô thường chẳng thể rõ
 
 biết tự tâm hiện lượng
 
-Ồ thông rằng kẻ say mê cảnh giới sắt Nếu
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ kẻ say mê cảnh giới sắt Nếu
 
 đắm vào dục thế gian thì như Nay Khát
 
@@ -7082,7 +7226,16 @@ khác đồng chặng đồng có không Chẳng phải
 
 có chẳng phải không thường vô thường
 
-Ồ thông rằng năm thức đầu chuyển đối đại
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ năm thức đầu chuyển đối đại
 
 với trần bà Hiền Chị có thức thứ 62
 
@@ -7194,7 +7347,16 @@ Rồi chim đỏ nơi luận dựng lập và bác bỏ
 
 do ác kiến ấy sẽ đọa vào địa ngục
 
-Ồ thông rằng ở nơi thức thứ bảy sinh thì
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở nơi thức thứ bảy sinh thì
 
 thấy là có ở nơi thức thứ bảy diệt thì
 
@@ -7576,7 +7738,16 @@ có mà nói có sự sinh riêng nơi có sinh
 
 đó mà nói có sự diện
 
-Ồ thông rằng đức Phật nói quả nếp bạc
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đức Phật nói quả nếp bạc
 
 bất sinh bất diệt thức Ánh tiêu sạch trí
 
@@ -7874,7 +8045,16 @@ nách từ giác tháng trí trụ An Lạc Tam
 
 Muội mà phân biệt hiện vậy
 
-Ồ thông rằng từ nội trứng thánh trí vốn
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ từ nội trứng thánh trí vốn
 
 địa hay pháp tự tính mà người nghị thừa
 
@@ -8156,7 +8336,16 @@ chẳng thấy nên chủ về chỗ Hóa phật
 
 thuyết pháp thôi vậy
 
-Ồ thông rằng tất cả đều là tự tâm hiện
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tất cả đều là tự tâm hiện
 
 lượng thì hóa thân Phật đầy đủ tướng
 
@@ -8274,7 +8463,16 @@ phải có chẳng phải không thường vô
 
 thường mà Khởi kiến chấp
 
-thông rằng thân của hóa vật hiện ra đã
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ thân của hóa vật hiện ra đã
 
 chẳng phải thật có thì âm thanh thuyết
 
@@ -8396,7 +8594,16 @@ trụ Diệp tính một khác có anh đọc trận
 
 đồng
 
-Ồ thông rằng tất cả pháp đều là tự tâm
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ tất cả pháp đều là tự tâm
 
 hiện lượng thí như quả đất rộ không có
 
@@ -8538,7 +8745,16 @@ không thường vô thượng mà hí luận chấp
 
 trước không thật kiến lập
 
-thông rằng bốn câu một khác có Không của
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ bốn câu một khác có Không của
 
 ngoại đạo đều là các pháp hiến luận
 
@@ -8642,7 +8858,16 @@ phải có chẳng phải không thường vô
 
 thường
 
-thông rằng có 3 loại hoại đạo không
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ có 3 loại hoại đạo không
 
 giống nhau một Ngoại Đạo ngoài Phật pháp
 
@@ -8874,7 +9099,16 @@ như thế biết các pháp thật thì không ổn
 
 biết
 
-thông rằng cân bằng văn xuôi có 12 Vụ dù
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ cân bằng văn xuôi có 12 Vụ dù
 
 chống nắng nêu ra hai lần nên chỉ còn 11
 
@@ -9048,7 +9282,16 @@ sống nắng nóng vô lượng sắt hiện bài như
 
 mộng không chụp có
 
-Ồ thông rằng đoạn trước lấy như huyện
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đoạn trước lấy như huyện
 
 mập quán sát 3 còi thì bác gọi chẳng có
 
@@ -9332,7 +9575,16 @@ lập
 
 thừa và tướng các địa
 
-Ồ thông rằng Bồ Tát Đại Huệ ở trước hỏi
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ Bồ Tát Đại Huệ ở trước hỏi
 
 về tướng thượng thượng Tân Tiến dần lên
 
@@ -9454,7 +9706,16 @@ Dịch thứ lớp dần tiến đến vô tưởng nhiệt
 
 định đây gọi là ngu sợ Hạnh Thiện
 
-thông rằng thứ lớp kiếm lập
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ thứ lớp kiếm lập
 
 108 câu khiến từ sạch hay chướng là
 
@@ -9550,7 +9811,16 @@ nghĩa tướng địa dần dần tâm Tiến đây gọi
 
 là quán sát nghĩa Thiện
 
-thông rằng đây là sự tu tập thiền định
+
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ đây là sự tu tập thiền định
 
 của hàng bồ-tát thừa vậy
 
@@ -9730,7 +10000,16 @@ trí trụ 3 thứ Lạc thành tựu cho chúng
 
 sanh không thể nghị bàn Đây gọi là Như
 
-Lai Thiện Ồ thông rằng hai cách thức
+Lai Thiện Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ hai cách thức
 
 thiền trên Tuy nói tu hành chính thành
 
@@ -9826,7 +10105,16 @@ tất cả cõi chưa bật dùng tay bức thư
 
 nghệ cùng lúc to a vẫn đầu Thuận nhập
 
-tướng Chân Như Ồ thông rằng nhu khu
+tướng Chân Như Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ nhu khu
 
 Thiện Đoạn Trừ vọng tưởng toàn Bồ Tát
 
@@ -10006,7 +10294,16 @@ bạn tức là cảnh giới không tính của các
 
 pháp
 
-Ồ thông rằng ở Vân trước Bồ Tát Đại Huệ
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở Vân trước Bồ Tát Đại Huệ
 
 Ngân Nghe Phật dạy bậc Nội chứng tự giác
 
@@ -10142,7 +10439,16 @@ thích gần cảnh ồn áo không kín chấp điên
 
 giác nét bạn
 
-Ồ thông rằng ở trước đã hiển thị cảnh
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước đã hiển thị cảnh
 
 giới nét bàn chân thực mà ở đây lại phần
 
@@ -10546,7 +10852,16 @@ thần lực thì được thấy tiêu vật như lai
 
 nếu không như vậy thì chẳng thể gặp
 
-Ồ thông rằng ở trước Nói trước Phật ở
+Ồ 
+<fieldset>
+<legend><h4>⚡️ KINH</h4></legend>
+<div style="color: var(--color-accent-darkorange)">
+
+</div>
+</fieldset>
+<h5>💥 THÔNG rằng</h5>
+
+ ở trước Nói trước Phật ở
 
 Mười Phương còi nước dùng Tây bất tương
 

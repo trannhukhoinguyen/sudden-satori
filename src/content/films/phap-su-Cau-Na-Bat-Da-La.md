@@ -58,12 +58,12 @@ Một Bà-la-môn ngoại đạo cao tuổi, là đệ tử cuối cùng của �
 
 ## GHI CHÚ
 
-[^1]: ⭐️ Xem thêm tại <a href="/sutras/lankavatara/kinh-lang-gia-gioi-thieu-va-muc-luc.mdx" target="_blank">🔗 KINH LĂNG GIÀ</a>
+[^1]: 📝 Xem thêm tại <a href="/sutras/lankavatara/kinh-lang-gia-gioi-thieu-va-muc-luc.mdx" target="_blank">KINH LĂNG GIÀ</a>
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-> ✨ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/cau-na-bat-da-la-k423.html" target="_blank">🔗 phatgiao.org.vn</a>
+> 🔗 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/cau-na-bat-da-la-k423.html" target="_blank">phatgiao.org.vn</a>
 >
-> ✨ <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/cau-na-bat-da-la/" target="_blank">🔗 phapthihoi.org</a>
+> 🔗 <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/cau-na-bat-da-la/" target="_blank">phapthihoi.org</a>

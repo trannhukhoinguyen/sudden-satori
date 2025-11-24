@@ -145,12 +145,12 @@ Ngài chỉ dạy ngay cho Trí Thông thế nên Sư nhận được. Không ch
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Heshan-Wuyin" target="_blank">📌 TS HÒA SƠN VÔ ÂN </a>
+[^1]: 📝 <a href="/masters/Heshan-Wuyin" target="_blank">TS HÒA SƠN VÔ ÂN </a>
 
 

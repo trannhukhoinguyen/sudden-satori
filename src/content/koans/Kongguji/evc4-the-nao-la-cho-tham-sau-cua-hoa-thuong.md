@@ -113,10 +113,10 @@ Trái chín ngát hương biết tặng ai
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Daowu-Yuanzhi" target="_blank">📌 TS ĐẠO NGÔ VIÊN TRÍ</a>
+[^1]: 📝 <a href="/masters/Daowu-Yuanzhi" target="_blank">TS ĐẠO NGÔ VIÊN TRÍ</a>

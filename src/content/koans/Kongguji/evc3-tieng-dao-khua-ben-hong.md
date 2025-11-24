@@ -91,12 +91,12 @@ Không nghe nói sao, núi xanh luôn tiến bước, mặt trời không di chu
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4704-tsduocson" target="_blank">📌 TS DƯỢC SƠN DUY NGHIỄM</a>
+[^1]: 📝 <a href="/masters/Yaoshan-Weiyan" target="_blank">TS DƯỢC SƠN DUY NGHIỄM</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">📌 TS VÂN NHAM ĐÀM THẠNH</a>
+[^2]: 📝 <a href="/masters/Yunyan-Tansheng" target="_blank">TS VÂN NHAM ĐÀM THẠNH</a>

@@ -53,18 +53,18 @@ Vân Nham nói, “Hòa thượng đã có cách nói chưa?” thầy ta chỉ 
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12802/5/tac-thu-bay-muoi-hai-bach-truong-hoi-van-nham" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12802/tac-thu-bay-muoi-hai-bach-truong-hoi-van-nham" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43270/19-tac-68-tac-72" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43270/19-tac-68-tac-72" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-08" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-08" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/8" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/8" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">📌 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^1]: 📝 <a href="/masters/Baizhang-Huaihai" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4785-thiensudamthanh" target="_blank">📌 TS VÂN NHAM ĐÀM THẠNH</a>
+[^2]: 📝 <a href="/masters/Yunyan-Tansheng" target="_blank">TS VÂN NHAM ĐÀM THẠNH</a>

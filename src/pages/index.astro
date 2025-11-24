@@ -10,6 +10,7 @@ import { toKebabCase } from "@/utils/helper";
 import Hero from "../components/ui/Hero.astro";
 import HeroCustomized from "../components/ui/HeroCustomized.astro";
 import BioWithImage from "../components/ui/BioWithImage.astro";
+import HTTDL from "../components/special/HTTDL.astro";
 
 const maxQuantity = 6;
 const tagLine1 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -102,11 +103,7 @@ const description = "Xem " + title;
       alt= "TS. THÍCH DUY LỰC"
       href= "/masters/Weili-Juekai"
     >
-      <h2>Tiểu sử Hòa thượng Thích Duy Lực</h2>
-      <p>Sư họ LA húy DŨ hiệu DUY LỰC, tự GIÁC KHAI, sanh ngày 05 tháng 05 năm 1923 tại làng Long Tuyền, huyện Bình Thủy tỉnh Cần Thơ, Việt Nam. Cha La Xương và mẹ Lưu Thị, làm nghề nông.</p>
-      <p>Năm lên 7 tuổi, theo cha về quê sống tại làng Long Yên, huyện Phong Thuận phủ Triều Châu tỉnh Quảng Đông Trung Quốc. Sau khi tốt nghiệp phổ thông cấp 1, thì Sư phải nghỉ học theo cha trở lại Việt Nam sinh sống, lúc đó Sư được 16 tuổi (1938). Trú tại tỉnh Cần Thơ.
-      <p>Sư thường tranh thủ tự học trong lúc rỗi rảnh. Đến năm 26 tuổi (1948), thi đậu bằng giáo viên Hoa văn, từng cộng tác biên soạn cho tờ báo Viễn Đông tiếng Hoa tại Chợ Lớn và được mời dạy ở các trường tiểu học tỉnh Tà-Keo Cao Miên (Nay là Campuchia), trường Khải Trí ở Cần Thơ, Trường Cái Vồn ở Vĩnh Long trong thời gian 10 năm. Năm 1958, sau khi thi lấy bằng Đông y sĩ cấp 1, Sư được mời làm đông y sĩ cho tiệm thuốc Tế Ngươn Đường Cà mau, Minh Nguyệt Cư Sĩ Lâm tỉnh Cần Thơ để khám bệnh miễn phí cho dân trong thời gian 8 năm.</p>
-      <p>Trong tủ sách của Cư Sĩ Lâm có bộ Kinh Tục Tạng gồm 150 quyển, lúc đầu Sư định đọc hết toàn bộ, nhưng trải qua một năm chỉ xem được 7 quyển, sau quyết định chỉ xem phần Thiền tông. Lúc đó Sư theo Pháp sư DIỆU DUYÊN tham học Tổ Sư Thiền (Ngài Diệu Duyên đã nhiều năm thân cận Lai Quả Thiền Sư và Hư Vân Thiền Sư, và Ngài tịch vào năm 1976 tại Chùa Thảo Đường).</p>
+      <HTTDL />
     </BioWithImage>
 
     <!-- Practice Section -->
@@ -272,13 +269,13 @@ const description = "Xem " + title;
 
   .image-area {
     text-align: center;
-    padding: calc(var(--grid-unit) * 12) 0 calc(var(--grid-unit) * 8);
+    padding: calc(var(--grid-unit) * 1) 0 calc(var(--grid-unit) * 1);
     background: linear-gradient(135deg, var(--color-surface) 0%, var(--color-background) 100%);
   }
 
   .hero {
     text-align: center;
-    padding: calc(var(--grid-unit) * 12) 0 calc(var(--grid-unit) * 8);
+    padding: calc(var(--grid-unit) * 1) 0 calc(var(--grid-unit) * 1);
     background: linear-gradient(135deg, var(--color-surface) 0%, var(--color-background) 100%);
   }
 

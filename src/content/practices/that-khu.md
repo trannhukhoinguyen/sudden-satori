@@ -85,10 +85,10 @@ Tham thoại đầu không có gì để hiểu, để đạt, để nắm.
 
 ## NGUỒN
 
-> ✨ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html" target="_blank">🔗 phatgiao.org.vn</a>
+> 🔗 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-that-khu-k42432.html" target="_blank">phatgiao.org.vn</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank">📌 TS THẠCH SƯƠNG KHÁNH CHƯ</a>
+[^1]: 📝 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thach-suong-khanh-chu-k5301.html" target="_blank">TS THẠCH SƯƠNG KHÁNH CHƯ</a>

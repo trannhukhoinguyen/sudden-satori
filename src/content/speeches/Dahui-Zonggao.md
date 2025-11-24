@@ -15,10 +15,10 @@ pdfUrl: /pdfs/speeches/Dai-Hue-ngu-luc.pdf
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Dahui-Zonggao" target="_blank">📌 TS ĐẠI HUỆ TÔNG CẢO</a>
+[^1]: 📝 <a href="/masters/Dahui-Zonggao" target="_blank">TS ĐẠI HUỆ TÔNG CẢO</a>

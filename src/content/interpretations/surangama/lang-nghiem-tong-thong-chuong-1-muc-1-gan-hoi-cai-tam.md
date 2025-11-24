@@ -13,7 +13,7 @@ videoId: e5qP5EZ9BUY
 videoStart: 1071
 ---
 
-<h2>📋 MỤC LỤC ➥ <a href="/interpretations/lang-nghiem-tong-thong-muc-luc">🔗</a></h2>
+<h2>📋 MỤC LỤC ➥ <a href="/interpretations/lang-nghiem-tong-thong-muc-luc"></a></h2>
 
 <hr class="blog-rule" />
 
@@ -655,7 +655,7 @@ Dầu còn chỉ một cái ý Vô Trước, bèn là hỏng hết vậy.
 
 #### GHI CHÚ
 
-[^1]: ⭐️
+[^1]: 📝
 
 <hr class="blog-rule" />
 

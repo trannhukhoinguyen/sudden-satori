@@ -92,10 +92,10 @@ Hải được mưa pháp, thấm nhuần người hữu tình. Tây bắc mây 
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yunju-Daoying" target="_blank">📌 TS VÂN CƯ ĐẠO ƯNG</a>
+[^1]: 📝 <a href="/masters/Yunju-Daoying" target="_blank">TS VÂN CƯ ĐẠO ƯNG</a>

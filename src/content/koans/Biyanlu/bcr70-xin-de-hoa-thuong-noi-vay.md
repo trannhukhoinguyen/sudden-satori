@@ -85,27 +85,27 @@ Lời của Tuyết Đậu uyển chuyển bàng bạc. Lúc mùa xuân, trăm n
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12799/5/tac-thu-bay-muoi-qui-son-dung-hau-bach-truong" target="_blank">🔗 hoavouu</a>
+> 🔗 <a href="https://hoavouu.com/a12799/tac-thu-bay-muoi-qui-son-dung-hau-bach-truong" target="_blank">hoavouu</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43270/19-tac-68-tac-72" target="_blank">🔗 quangduc</a>
+> 🔗 <a href="https://quangduc.com/p1241a43270/19-tac-68-tac-72" target="_blank">quangduc</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-07" target="_blank">🔗 tuvien</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-07" target="_blank">tuvien</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7" target="_blank">🔗 phatphapungdung</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/7" target="_blank">phatphapungdung</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Guishan-Lingyou" target="_blank">📌 TS QUY SƠN LINH HỰU</a>
+[^1]: 📝 <a href="/masters/Guishan-Lingyou" target="_blank">TS QUY SƠN LINH HỰU</a>
 
-[^2]: ⭐️ <a href="/masters/Wufeng-Changguan" target="_blank">📌 TS NGŨ PHONG THƯỜNG QUÁN</a>
+[^2]: 📝 <a href="/masters/Wufeng-Changguan" target="_blank">TS NGŨ PHONG THƯỜNG QUÁN</a>
 
-[^3]: ⭐️ <a href="/masters/Yunyan-Tansheng" target="_blank">📌 TS VÂN NHAM ĐÀM THẠNH</a>
+[^3]: 📝 <a href="/masters/Yunyan-Tansheng" target="_blank">TS VÂN NHAM ĐÀM THẠNH</a>
 
-[^4]: ⭐️ <a href="/masters/Baizhang-Huaihai" target="_blank">📌 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^4]: 📝 <a href="/masters/Baizhang-Huaihai" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>
 
-[^5]: ⭐️ <a href="/masters/Luoshan-Daoxian" target="_blank">📌 TS LA SƠN ĐẠO NHÀN</a>
+[^5]: 📝 <a href="/masters/Luoshan-Daoxian" target="_blank">TS LA SƠN ĐẠO NHÀN</a>
 
 <hr class="blog-rule" />
 

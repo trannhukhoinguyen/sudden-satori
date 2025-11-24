@@ -67,12 +67,12 @@ Ngài Lâm Tuyền phân tích như thế, lại hiểu chăng? Ngài xuống t�
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Dasui-Fazhen" target="_blank">📌 TS ĐẠI TÙY PHÁP CHÂN</a>
+[^1]: 📝 <a href="/masters/Dasui-Fazhen" target="_blank">TS ĐẠI TÙY PHÁP CHÂN</a>
 
 

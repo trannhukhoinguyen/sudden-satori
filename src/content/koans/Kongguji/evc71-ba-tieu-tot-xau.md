@@ -100,12 +100,12 @@ Tự biết tất cả giống như đàn chuyên nghiệp, đổi xứ giống 
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS BA TIÊU KẾ TRIỆT</a>
+[^1]: 📝 <a href="/masters/" target="_blank">TS BA TIÊU KẾ TRIỆT</a>
 
 

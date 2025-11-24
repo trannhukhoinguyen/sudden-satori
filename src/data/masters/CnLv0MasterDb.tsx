@@ -253,10 +253,12 @@ const CnLv0MasterDb = [
     place: 'Jade Spring Temple (玉泉寺) - Yuquan Tiantai (玉泉天台), Yuquan Mountain (玉泉山), Jingxi Prefecture (荆溪府), within the scope of Dangyang, Hubei Province',
     teachers: ['Daman Hongren'],
     successors: [''],
-    disciples: ['Dōsen (道璿)', 'Tung Sơn Huệ Tịch (嵩山慧寂)', 'Kinh Triệu Nghĩa Phước (京兆 義福)', 'Yìfú', 'Kính Hiền', 'Pǔjì', 'Huệ Minh'],
+    disciples: ['Dōsen (道璿)', 'Tung Sơn Huệ Tịch (嵩山慧寂)',
+      'Laoshan Yifu', 'Kính Hiền', 'Xiangmo Zang', 'Huệ Minh', 'Songshan Jingxian', ' Jiangma Zang', 'Yushan Huifu'
+    ],
     image: 'https://upload.wikimedia.org/wikipedia/en/2/2d/Shenxiu-invert.jpg',
-    reference: [''],
-    wiki: [''],
+    reference: ['https://pl.wikipedia.org/wiki/Yuquan_Shenxiu'],
+    wiki: ['https://pl.wikipedia.org/wiki/Yuquan_Shenxiu'],
   },
   {
     id: '33.4',

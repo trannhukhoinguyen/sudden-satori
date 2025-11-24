@@ -129,10 +129,10 @@ Cây bá trước sân hiện sự an lành chẳng ngại kiếp trước kiế
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>
+[^1]: 📝 <a href="/masters/Shaoshan-Huanpu" target="_blank">TS </a>

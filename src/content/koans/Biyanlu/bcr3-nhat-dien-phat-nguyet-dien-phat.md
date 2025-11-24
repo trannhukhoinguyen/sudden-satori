@@ -111,16 +111,16 @@ Dù cho ông có là ông tăng mắt sáng có mắt trên trán và đạo bù
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p26a12725/4/tac-thu-ba-ma-su-bat-an" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12725/tac-thu-ba-ma-su-bat-an" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43253/2-tac-01-tac-03" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43253/2-tac-01-tac-03" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Mazu-Daoyi" target="_blank">📌 TS MÃ TỔ ĐẠO NHẤT</a>
+[^1]: 📝 <a href="/masters/Mazu-Daoyi" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>

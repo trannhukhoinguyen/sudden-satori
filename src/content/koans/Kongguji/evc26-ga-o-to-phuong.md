@@ -111,10 +111,10 @@ Thế nên nói người hết đã bày, người nhận y Như Lai xuất hi�
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>
+[^1]: 📝 <a href="/masters/Shaoshan-Huanpu" target="_blank">TS </a>

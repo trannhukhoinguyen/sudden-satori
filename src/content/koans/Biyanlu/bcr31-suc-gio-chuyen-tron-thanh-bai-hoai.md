@@ -209,24 +209,20 @@ Dù cho là tay chuyên gia đi nữa, lúc không có bệnh cũng nên tìm ch
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12756/5/tac-thu-ba-muoi-mot-ma-coc-chong-gay" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12756/tac-thu-ba-muoi-mot-ma-coc-chong-gay" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43262/11-tac-31-tac-34" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43262/11-tac-31-tac-34" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Mayu-Baoche" target="_blank">📌 TS MA CỐC BẢO TRIỆT</a>
+[^1]: 📝 <a href="/masters/Mayu-Baoche" target="_blank">TS MA CỐC BẢO TRIỆT</a>
 
-[^2]: ⭐️ <a href="/masters/Nanquan-Puyuan" target="_blank">📌 TS NAM TUYỀN PHỔ NGUYỆN</a>
+[^2]: 📝 <a href="/masters/Nanquan-Puyuan" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
 
-[^3]: ⭐️ <a href="/masters/Zhangjing-Huaihui" target="_blank">📌 TS CHƯƠNG KÍNH HOÀI UẨN / HOÀI HUY</a>
-
-http://thuongchieu.net/index.php?option=com_content&view=article&id=1026:bai-37--kho-v-tng-chi-cong&catid=44:vn-thin-rng-ngc&Itemid=355
-
-[^4]: ⭐️
+[^3]: 📝 <a href="/masters/Zhangjing-Huaihui" target="_blank">TS CHƯƠNG KÍNH HOÀI UẨN / HOÀI HUY</a>

@@ -135,7 +135,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   .site-header {
     background-color: var(--color-surface);
     border-bottom: 2px solid var(--color-border);
-    padding: calc(var(--grid-unit) * 3) 0;
+    padding: calc(var(--grid-unit) * 2) 0;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -238,7 +238,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     background: var(--color-background);
     border: 2px solid var(--color-border);
     border-radius: 8px;
-    padding: calc(var(--grid-unit) * 3);
+    padding: calc(var(--grid-unit) * 2);
     margin-bottom: calc(var(--grid-unit) * 5);
   }
 
@@ -283,7 +283,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     border-radius: 8px;
     border: 1px solid var(--color-border);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    padding: calc(var(--grid-unit) * 3) calc(var(--grid-unit) * 4) calc(var(--grid-unit) * 4) calc(var(--grid-unit) * 4);
+    padding: calc(var(--grid-unit) * 2) calc(var(--grid-unit) * 4) calc(var(--grid-unit) * 4) calc(var(--grid-unit) * 4);
   }
 
   .search-results:empty {
@@ -291,7 +291,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   }
 
   .search-results-header {
-    padding: calc(var(--grid-unit) * 3) calc(var(--grid-unit) * 4);
+    padding: calc(var(--grid-unit) * 2) calc(var(--grid-unit) * 4);
     margin: calc(var(--grid-unit) * -3) calc(var(--grid-unit) * -4) calc(var(--grid-unit) * 3) calc(var(--grid-unit) * -4);
     border-bottom: 1px solid var(--color-border);
     background: var(--color-surface);
@@ -600,7 +600,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
   .mobile-nav-link {
     display: block;
-    padding: calc(var(--grid-unit) * 3) calc(var(--grid-unit) * 4);
+    padding: calc(var(--grid-unit) * 2) calc(var(--grid-unit) * 4);
     font-family: var(--font-heading-secondary),serif;
     font-weight: 700;
     font-size: 1.25rem;

@@ -110,12 +110,12 @@ Như cách sử dụng của Đức Sơn, Lâm Tế với phương thức ngài 
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Touzi-Yiqing" target="_blank">📌 TS ĐẦU TỬ NGHĨA THANH</a>
+[^1]: 📝 <a href="/masters/Touzi-Yiqing" target="_blank">TS ĐẦU TỬ NGHĨA THANH</a>
 
 

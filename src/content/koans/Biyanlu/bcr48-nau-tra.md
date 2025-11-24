@@ -102,16 +102,16 @@ Những lời nói của Lãng Thượng Tọa và Minh Chiêu tựa như chết
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12775/5/tac-thu-bon-muoi-tam-vuong-thai-pho-nau-tra" target="_blank">🔗 hoavouu</a>
+> 🔗 <a href="https://hoavouu.com/a12775/tac-thu-bon-muoi-tam-vuong-thai-pho-nau-tra" target="_blank">hoavouu</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43265/14-tac-44-tac-48" target="_blank">🔗 quangduc</a>
+> 🔗 <a href="https://quangduc.com/p1241a43265/14-tac-44-tac-48" target="_blank">quangduc</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05" target="_blank">🔗 tuvien</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05" target="_blank">tuvien</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5" target="_blank">🔗 phatphapungdung</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5" target="_blank">phatphapungdung</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Mingzhao-Deqian" target="_blank">📌 TS MINH CHIÊU ĐỨC KHIÊM</a>
+[^1]: 📝 <a href="/masters/Mingzhao-Deqian" target="_blank">TS MINH CHIÊU ĐỨC KHIÊM</a>

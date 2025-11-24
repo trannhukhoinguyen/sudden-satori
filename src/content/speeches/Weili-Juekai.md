@@ -23,10 +23,10 @@ videoIds:
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Weili-Juekai" target="_blank">📌 TS DUY LỰC GIÁC KHAI</a>
+[^1]: 📝 <a href="/masters/Weili-Juekai" target="_blank">TS DUY LỰC GIÁC KHAI</a>

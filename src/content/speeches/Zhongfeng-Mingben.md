@@ -18,10 +18,10 @@ videoId: plJmknVMv3c
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Zhongfeng-Mingben" target="_blank">📌 TS TRUNG PHONG MINH BỔN</a>
+[^1]: 📝 <a href="/masters/Zhongfeng-Mingben" target="_blank">TS TRUNG PHONG MINH BỔN</a>

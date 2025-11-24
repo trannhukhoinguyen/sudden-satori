@@ -176,10 +176,10 @@ Há chẳng phải đã có đủ con mắt như vậy sao?
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Shaoshan-Huanpu" target="_blank">📌 TS </a>
+[^1]: 📝 <a href="/masters/Shaoshan-Huanpu" target="_blank">TS </a>

@@ -6,7 +6,8 @@ categories:
   - Ngữ Lục
 tags: 
   - TS TRIỆU CHÂU TÙNG THẨM
-pdfUrl: /pdfs/speeches/Trieu-Chau-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Trieu-Chau-ngu-luc.pdf
 ---
 
 #### 0.
@@ -3717,7 +3718,8 @@ Một ông tăng hỏi :
 > Phật vàng chẳng độ lò, 
 > Phật gỗ chẳng độ lửa, 
 > Phật bùn chẳng độ nước,
-> chân Phật ở nơi mình.
+> Chân Phật ở nơi mình.
+> 
 > Bồ Đề, Niết Bàn, Như Lai, Phật tánh chỉ là quần áo để che thân, là lòng bác ái. 
 > Chúng ta tìm thực tại ở đâu ? Tâm chẳng sanh thì vạn pháp chẳng sanh. 
 > Cứ ngồi và quán chuyện này 20, 30 năm nếu ông không hiểu thì cứ chặt đầu tôi đi. 
@@ -3733,6 +3735,7 @@ Một ông tăng hỏi :
 > Nếu ông không muốn là con của không vương thì đừng sanh tâm. 
 > Khi thế giới này không còn, thì còn thực tại. 
 > Khi thế giới này bị hủy hoại, thì thực tại này không bị phá hủy. 
+> 
 > Hãy nhìn tôi, tôi chỉ là tôi. 
 > Chân ngã chỉ đơn giản là vậy. 
 > Ở ngay đây, còn đi tìm ở nơi đâu chứ? 
@@ -3743,10 +3746,10 @@ Một ông tăng hỏi :
 
 ## NGUỒN
 
-> ✨
+> 🔗 <a href="https://thuvienhoasen.org/a18386/trieu-chau-ngu-luc" target="_blank">thuvienhoasen.org</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">📌 TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: 📝 <a href="/masters/Zhaozhou-Congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>

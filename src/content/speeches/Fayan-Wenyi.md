@@ -1083,14 +1083,18 @@ Sư đáp: Ông rất hiểu
 
 Tăng hỏi: Từ xa lần theo tâm tiếng mà đến, thỉnh sư tiếp nhận.
 
+***
+
+
+
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-> ✨
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Fayan-Wenyi" target="_blank">📌 TS PHÁP NHÃN VĂN ÍCH</a>
+[^1]: 📝 <a href="/masters/Fayan-Wenyi" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>

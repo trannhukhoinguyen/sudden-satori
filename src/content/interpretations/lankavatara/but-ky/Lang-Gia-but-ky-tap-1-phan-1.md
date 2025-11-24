@@ -1259,86 +1259,86 @@ Câu thí, câu phi thí. Câu đệ tử, câu phi đệ tử. Câu sự, câu
 
 ## GHI CHÚ
 
-[^1]: ⭐️ **Lục chủng thành tựu**: Pháp, văn, thời, chủ, xứ, chúng.
+[^1]: 📝 **Lục chủng thành tựu**: Pháp, văn, thời, chủ, xứ, chúng.
 
-[^2]: ⭐️ **Hai bản dịch**: Bản Ngụy, ngài Bồ-đề Lưu-chi. Bản Đường, ngài Thật-xoa Nan-đà. (Chính bản, đời Tống, ngài Cầu-na-bạt-đà-la.)
+[^2]: 📝 **Hai bản dịch**: Bản Ngụy, ngài Bồ-đề Lưu-chi. Bản Đường, ngài Thật-xoa Nan-đà. (Chính bản, đời Tống, ngài Cầu-na-bạt-đà-la.)
 
-[^3]: ⭐️ **Tạp Hoa**: Một tên khác của kinh Hoa Nghiêm
+[^3]: 📝 **Tạp Hoa**: Một tên khác của kinh Hoa Nghiêm
 
-[^4]: ⭐️ Kiến chấp tà chánh có 8: Gồm chánh kiến có tứ cú, tà kiến có tứ cú, thành ra 8.
+[^4]: 📝 Kiến chấp tà chánh có 8: Gồm chánh kiến có tứ cú, tà kiến có tứ cú, thành ra 8.
 
-[^5]: ⭐️ Cảnh bị chấp có 100: Cảnh giới là đối tượng bị chấp, gồm 10 cõi (tứ thánh lục phàm) trong mỗi cõi lại có 10, nên 10×10 = 100.
+[^5]: 📝 Cảnh bị chấp có 100: Cảnh giới là đối tượng bị chấp, gồm 10 cõi (tứ thánh lục phàm) trong mỗi cõi lại có 10, nên 10×10 = 100.
 
-[^6]: ⭐️ Đường dịch: Thế nào khỏi kế độ. Thế nào tịnh kế độ. Thế nào khỏi mê hoặc. Thế nào tịnh mê hoặc. (Kể đó là suy nghĩ tinh toán).
+[^6]: 📝 Đường dịch: Thế nào khỏi kế độ. Thế nào tịnh kế độ. Thế nào khỏi mê hoặc. Thế nào tịnh mê hoặc. (Kể đó là suy nghĩ tinh toán).
 
-[^7]: ⭐️ Tất cả đều phi: [❓ Tăng hỏi Mã Tổ: Hòa thượng vì cái gì nói tức tâm tức Phật? 📢 Sư đáp: · Vì để dỗ con nít khóc. ❓ Con nít rịn nỗi thế nào? 📢 Phi tâm phi Phật ❓ Người trụ được hai thứ này rồi, phải dạy thế nào? 📢 Nói với y là “Phi vật”]
+[^7]: 📝 Tất cả đều phi: [❓ Tăng hỏi Mã Tổ: Hòa thượng vì cái gì nói tức tâm tức Phật? 📢 Sư đáp: · Vì để dỗ con nít khóc. ❓ Con nít rịn nỗi thế nào? 📢 Phi tâm phi Phật ❓ Người trụ được hai thứ này rồi, phải dạy thế nào? 📢 Nói với y là “Phi vật”]
 
-[^8]: ⭐️ Đường dịch: Thế nào chư hữu khởi.
+[^8]: 📝 Đường dịch: Thế nào chư hữu khởi.
 
-[^9]: ⭐️ Hai ngã: Phân biệt ngã chấp và Câu sanh ngã chấp.
+[^9]: 📝 Hai ngã: Phân biệt ngã chấp và Câu sanh ngã chấp.
 
-[^10]: ⭐️ 🖋 Bản Ngụy: Pháp lại có mấy loại? Giải nghĩa có mấy loại? 🖋 Bản Đường: Đạo lý mấy bất đồng? Giải thích mấy sai biệt?
+[^10]: 📝 🖋 Bản Ngụy: Pháp lại có mấy loại? Giải nghĩa có mấy loại? 🖋 Bản Đường: Đạo lý mấy bất đồng? Giải thích mấy sai biệt?
 
-[^11]: ⭐️ Bản Ngụy: Nhân gì có gió mưa?
+[^11]: 📝 Bản Ngụy: Nhân gì có gió mưa?
 
-[^12]: ⭐️ Bản Đường: Lục thời nhiếp. Cựu chú: bên Ấn Độ hai tháng thành một tiết, một năm chia 6 tiết. Ngoại đạo có lục tiết sư.
+[^12]: 📝 Bản Đường: Lục thời nhiếp. Cựu chú: bên Ấn Độ hai tháng thành một tiết, một năm chia 6 tiết. Ngoại đạo có lục tiết sư.
 
-[^13]: ⭐️ Nhất xiển-đề: (Nhất xiển: Tin; Đề: Bất cụ) nghĩa là người tin bất cụ (lòng tin không đủ).
+[^13]: 📝 Nhất xiển-đề: (Nhất xiển: Tin; Đề: Bất cụ) nghĩa là người tin bất cụ (lòng tin không đủ).
 
-[^14]: ⭐️ Hai bản dịch: Tu hành tận tới.
+[^14]: 📝 Hai bản dịch: Tu hành tận tới.
 
-[^15]: ⭐️ Ngụy dịch: Dạy những người nào tu, khiến trụ những pháp nào.
+[^15]: 📝 Ngụy dịch: Dạy những người nào tu, khiến trụ những pháp nào.
 
-[^16]: ⭐️ Đường dịch: Tiên nhân thường khổ hạnh, là dạy bảo những ai.
+[^16]: 📝 Đường dịch: Tiên nhân thường khổ hạnh, là dạy bảo những ai.
 
-[^17]: ⭐️ Hai bản dịch đều nói: Thiên sư là Thế Tôn.
+[^17]: 📝 Hai bản dịch đều nói: Thiên sư là Thế Tôn.
 
-[^18]: ⭐️ **Bốn môn**: Bốn vấn đề chính là năm pháp, ba tự tánh, tâm thức, hai vô ngã. **Mười cõi**: Tứ thánh và lục phàm.
+[^18]: 📝 **Bốn môn**: Bốn vấn đề chính là năm pháp, ba tự tánh, tâm thức, hai vô ngã. **Mười cõi**: Tứ thánh và lục phàm.
 
-[^19]: ⭐️ Song trần: Bụi ở cửa sổ.
+[^19]: 📝 Song trần: Bụi ở cửa sổ.
 
-[^20]: ⭐️ Thố mao đầu trần: Bụi đầu lông thỏ.
+[^20]: 📝 Thố mao đầu trần: Bụi đầu lông thỏ.
 
-[^21]: ⭐️ Dương mao đầu trần: Bụi đầu lông dê.
+[^21]: 📝 Dương mao đầu trần: Bụi đầu lông dê.
 
-[^22]: ⭐️ Ngưu mao đầu trần: Bụi ở đầu lông trâu (tức lớn hơn các hạt bụi trên).
+[^22]: 📝 Ngưu mao đầu trần: Bụi ở đầu lông trâu (tức lớn hơn các hạt bụi trên).
 
-[^23]: ⭐️ Bản Đường: Thế nào các diệu sơn, tiên-thát-bà trang nghiêm
+[^23]: 📝 Bản Đường: Thế nào các diệu sơn, tiên-thát-bà trang nghiêm
 
-[^24]: ⭐️
+[^24]: 📝
 
-[^25]: ⭐️
+[^25]: 📝
 
-[^26]: ⭐️
+[^26]: 📝
 
-[^27]: ⭐️
+[^27]: 📝
 
-[^20]: ⭐️
+[^20]: 📝
 
-[^21]: ⭐️
+[^21]: 📝
 
-[^22]: ⭐️
+[^22]: 📝
 
-[^19]: ⭐️
+[^19]: 📝
 
-[^20]: ⭐️
+[^20]: 📝
 
-[^21]: ⭐️
+[^21]: 📝
 
-[^22]: ⭐️
+[^22]: 📝
 
-[^19]: ⭐️
+[^19]: 📝
 
-[^20]: ⭐️
+[^20]: 📝
 
-[^21]: ⭐️
+[^21]: 📝
 
-[^22]: ⭐️
+[^22]: 📝
 
-[^19]: ⭐️
+[^19]: 📝
 
-[^20]: ⭐️
+[^20]: 📝
 
-[^21]: ⭐️
+[^21]: 📝
 
-[^22]: ⭐️
+[^22]: 📝

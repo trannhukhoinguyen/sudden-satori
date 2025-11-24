@@ -70,7 +70,6 @@ const JpMasterDb = [
     name_en: 'Dōgen Kigen',
     name_ja: 'Dōgen Kigen',
     name_zh: '道元希玄',
-    name_wade_giles: '',
     name_vi: 'ĐẠO NGUYÊN HI HUYỀN',
     other_name_vi: '',
     nickname_vi: '',

@@ -11,6 +11,7 @@ import PostDateTime from "../post/PostDateTime.astro";
 const { posts, page } = Astro.props;
 
 const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
+const noPost ="📂 Danh sách trống";
 ---
 
 {
@@ -41,5 +42,5 @@ const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typ
                             )
                     })}
             </div>
-    ) : <p>Chưa có bài viết {categoryName} nào.</p>
+    ) : <p>{noPost}</p>
 }

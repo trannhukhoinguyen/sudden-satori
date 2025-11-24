@@ -104,12 +104,12 @@ Lại nói: khám phá rồi.
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Zhaozhou-Congshen" target="_blank">📌 TS TRIỆU CHÂU TÙNG THẨM</a>
+[^1]: 📝 <a href="/masters/Zhaozhou-Congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
 

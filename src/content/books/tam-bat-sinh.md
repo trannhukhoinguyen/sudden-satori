@@ -2,17 +2,17 @@
 title: "TÂM BẤT SINH"
 description: ""
 excerpt: ""
-showInHomepage: true
-authors:
-  - TS BÀN KHUÊ VĨNH TRÁC
 categories:
   - Sách
 tags:
   - LUẬN
   - TS BÀN KHUÊ VĨNH TRÁC
+authors:
+  - TS BÀN KHUÊ VĨNH TRÁC
 image: /images/koans/great-wave.webp
 pdfUrl: /pdfs/books/tam-bat-sinh.pdf
 videoPlaylist: PLJhUBezoFJ-3lFkC0KYPMN5f1v4e8hHWm
+showInHomepage: true
 ---
 
 ## TÁC GIẢ & TÁC PHẨM
@@ -57,16 +57,16 @@ Lối giảng dạy của Bankei cho ta thấy rằng không cần phải làm n
 
 ## NGUỒN
 
-> ✨ <a href="https://thuvienhoasen.org/a17038/tam-bat-sinh" target="_blank">🔗 thuvienhoasen</a>
+> 🔗 <a href="https://thuvienhoasen.org/a17038/tam-bat-sinh" target="_blank">thuvienhoasen</a>
 
-> ✨ <a href="https://terebess.hu/zen/mesterek/BankeiHaskel.pdf" target="_blank">🔗 terebess.hu</a>
+> 🔗 <a href="https://terebess.hu/zen/mesterek/BankeiHaskel.pdf" target="_blank">terebess.hu</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Bankei-Yotaku" target="_blank">TS BÀN KHUÊ VĨNH TRÁC</a>
+[^1]: 📝 <a href="/masters/Bankei-Yotaku" target="_blank">TS BÀN KHUÊ VĨNH TRÁC</a>
 
-[^2]: ⭐️ <a href="https://terebess.hu/zen/mesterek/Peter-Haskel.html" target="_blank">🔗 PETER HASKEL</a>
+[^2]: 📝 <a href="https://terebess.hu/zen/mesterek/Peter-Haskel.html" target="_blank">PETER HASKEL</a>
 
-[^3]: ⭐️ <a href="https://vi.wikipedia.org/wiki/Th%C3%ADch_n%E1%BB%AF_Tr%C3%AD_H%E1%BA%A3i" target="_blank">🔗 NS THÍCH NỮ TRÍ HẢI</a>
+[^3]: 📝 <a href="https://vi.wikipedia.org/wiki/Th%C3%ADch_n%E1%BB%AF_Tr%C3%AD_H%E1%BA%A3i" target="_blank">NS THÍCH NỮ TRÍ HẢI</a>

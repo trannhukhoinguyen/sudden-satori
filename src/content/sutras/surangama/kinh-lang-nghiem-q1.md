@@ -483,10 +483,12 @@ Do đó, Phật bảo đại chúng rằng:
 
 <hr class="blog-rule" style="" />
 
-> ✨ : ...
+## NGUỒN
+
+> 🔗
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ ...
+[^1]: 📝 ...

@@ -97,20 +97,20 @@ Tuyết Đậu hết mực tán thán Huệ Trung, hoàng kim cốt chỉ một 
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12831/5/tac-thu-chin-muoi-chin-thap-than-dieu-ngu-cua-tuc-tong" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12831/tac-thu-chin-muoi-chin-thap-than-dieu-ngu-cua-tuc-tong" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43277/26-tac-99-tac-100" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43277/26-tac-99-tac-100" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/vua-duong-tuc-tong-king-tang-shu-tsung/" target="_blank">HĐ TÚC TÔNG</a>
+[^1]: 📝 <a href="/masters/Tang-Suzong" target="_blank">HĐ TÚC TÔNG</a>
 
-[^2]: ⭐️ <a href="http://thuongchieu.net/index.php/phapthoai/suphu/4669-tshuetrung" target="_blank">📌 TS NAM DƯƠNG HUỆ TRUNG</a>
+[^2]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
 
-[^3]: ⭐️ “Tì Lô” nguyên chữ là “Tì Lô Xá Na” là chữ người Trung Hoa dùng để phiên âm chữ Phạn “Vairocana,” có nghĩa là chân thân của Phật. Các tông phái Phật giáo giải thích chữ này theo nhiều cách khác nhau. Song thông thường thi “Tì Nô Xá Na” thường được dùng để chỉ Pháp Thân Phật.
+[^3]: 📝 “Tì Lô” nguyên chữ là “Tì Lô Xá Na” là chữ người Trung Hoa dùng để phiên âm chữ Phạn “Vairocana,” có nghĩa là chân thân của Phật. Các tông phái Phật giáo giải thích chữ này theo nhiều cách khác nhau. Song thông thường thi “Tì Nô Xá Na” thường được dùng để chỉ Pháp Thân Phật.

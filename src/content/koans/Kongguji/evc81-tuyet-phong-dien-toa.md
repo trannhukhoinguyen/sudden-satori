@@ -124,14 +124,14 @@ Ngài Lý Phất, cũng một trận tuyết Hương Tích, Duy Ma che cười.
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Xuefeng-Yicun" target="_blank">📌 TS TUYẾT PHONG NGHĨA TỒN</a>
+[^1]: 📝 <a href="/masters/Xuefeng-Yicun" target="_blank">TS TUYẾT PHONG NGHĨA TỒN</a>
 
-[^2]: ⭐️ <a href="/masters/Dongshan-Liangjie" target="_blank">📌 TS ĐỘNG SƠN LƯƠNG GIỚI</a>
+[^2]: 📝 <a href="/masters/Dongshan-Liangjie" target="_blank">TS ĐỘNG SƠN LƯƠNG GIỚI</a>
 
 

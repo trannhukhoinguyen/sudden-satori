@@ -1,5 +1,5 @@
 ---
-title: "Có phải THỜI GIAN chỉ là ảo giác?"
+title: "CÓ PHẢI THỜI GIAN CHỈ LÀ ẢO GIÁC?"
 description: ""
 excerpt: "Chúng ta có xu hướng tin rằng vận mệnh thì không cố định và rằng tất cả THỜI GIAN đã qua đều bị trôi vào quên lãng, nhưng liệu sự vận động đó có thể chỉ là một ảo giác không?"
 categories:
@@ -32,7 +32,7 @@ Barbour và các phóng viên có thể đã không còn bất kỳ mối liên 
 
 Barbour tin rằng người ta không thể nắm giữ được _Thời gian_ bởi vì nó không tồn tại.
 
-## KHÁI NIỆM VŨ TRỤ KHÔNG _Thời gian_
+## KHÁI NIỆM VŨ TRỤ KHÔNG THỜI GIAN
 
 Trong khi điều này không phải là một giả thuyết mới, nó chưa từng phổ biến như Thuyết tương đối của Einstein hay Lý thuyết dây.
 
@@ -57,7 +57,7 @@ Với một sự hòa trộn giữa đơn giản và phức tạp như thế, ý
 
 Tất cả các con số đều tồn tại đồng thời, và không thể nghĩ rằng con số 1 tồn tại trước con số 20.
 
-## NHẬN THỨC HÃO HUYỀN CỦA CON NGƯỜI VỀ _Thời gian_
+## NHẬN THỨC HÃO HUYỀN CỦA CON NGƯỜI VỀ THỜI GIAN
 
 Tại điểm này của sự tranh luận, chắc chắn là một độc giả có thể hỏi:
 
@@ -78,7 +78,7 @@ và rằng những lát bánh đằng trước và đằng sau chỉ tồn tại
 
 Ý tưởng này sẽ nghe có vẻ buồn cười đối với người quan sát cái bánh, người ấy biết rằng tất cả các lát bánh đều đồng thời tồn tại.
 
-## VÍ DỤ VỀ CÁI "TÔI" CHỦ QUAN
+## VÍ DỤ VỀ CÁI TÔI CHỦ QUAN
 
 Lấy một ví dụ, bạn có thể nói rằng “tôi” không phải là cùng một người với kẻ đã bắt đầu viết câu văn này.
 
@@ -106,11 +106,11 @@ Ngay cả các chuyên gia đồng bộ _Thời gian_ trên thế giới cũng b
 
 Rõ ràng là, sự thay thế duy nhất là hãy chìm vào một “ảo tưởng tạm thời” của sự vô tận này, biết rằng có một _Không gian_ nơi mà quá khứ của chúng ta vẫn tồn tại và những gì chúng ta làm sẽ không hề thay đổi.
 
-Hoặc như chính Einstein nói:
+💬 Hoặc như chính Einstein nói:
 
 > Những người như chúng ta, những kẻ tin vào Vật lý học, biết rằng sự phân biệt giữa quá khứ, hiện tại và tương lai chỉ là một ảo tưởng cố chấp dai dẳng.
 
-Truyền Bình: 
+💬 Truyền Bình: 
 
 > *Ảo giác đâu chỉ có *Thời gian*?*
 
@@ -118,7 +118,7 @@ Truyền Bình:
 
 ## NGUỒN
 
-> ✨ <a href="https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html" target="_blank">🔗 thamtosuthien</a>
+> 🔗 <a href="https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html" target="_blank">thamtosuthien.net</a>
 
-> ✨ <a href="https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/" target="_blank">🔗 duylucthien</a>
+> 🔗 <a href="https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/" target="_blank">duylucthien.wordpress.com</a>
 

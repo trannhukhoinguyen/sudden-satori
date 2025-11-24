@@ -90,12 +90,12 @@ Khắp nơi mọi người đều biết. Giống như ngày xuân chim oanh li�
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Yantou-Quanhuo" target="_blank">📌 TS NHAM ĐẦU TOÀN HOÁT</a>
+[^1]: 📝 <a href="/masters/Yantou-Quanhuo" target="_blank">TS NHAM ĐẦU TOÀN HOÁT</a>
 
 

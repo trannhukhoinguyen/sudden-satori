@@ -13,6 +13,7 @@ const posts = Object.entries(CONTENT_MAP)
     .filter(post => post?.frontmatter.title !== notIncludedPostTitle);
 
 const categoryName = config.categoryNames[type as keyof typeof config.categoryNames] || type;
+const noPost ="📂 Danh sách trống";
 ---
 
 
@@ -37,5 +38,5 @@ const categoryName = config.categoryNames[type as keyof typeof config.categoryNa
           )
         })}
       </div>
-    ) : <p>Chưa có bài viết {categoryName} nào.</p>
+    ) : <p>{noPost}</p>
 }

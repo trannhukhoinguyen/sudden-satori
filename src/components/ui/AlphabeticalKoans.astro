@@ -21,10 +21,6 @@ const introTitle = "Giới thiệu Công án";
 
 <h2 style="text-align: center; margin-top: 1rem">
   {title}
-  <!-- INTRO Viewer -->
-  {
-    pageUrl && <PdfViewer pdfUrl={pageUrl} title={introTitle} />
-  }
   <input type="text" id="searchInput" placeholder="Gõ chữ để Tìm...">
 </h2>
 
@@ -125,7 +121,7 @@ const introTitle = "Giới thiệu Công án";
 
     //
     .koans h1 {
-      margin-top: 2rem;
+      margin-block: 2rem;
       font-family: 'Norican', cursive;
       color: saddlebrown;
       position: relative;

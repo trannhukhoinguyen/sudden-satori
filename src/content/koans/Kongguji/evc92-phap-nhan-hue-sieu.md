@@ -14,18 +14,17 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Tìm xa chẳng bằng tìm gần, uống phí tiền giày cỏ. 
-
+> Tìm xa chẳng bằng tìm gần, uống phí tiền giày cỏ. 
 Thích hợp với giả dối không phù hợp chân thật. 
-
 Uống công trả nợ khẩu nghiệp, đi thẳng vào chỗ ưa thích. Ai có thể nói được.
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Tăng hỏi Ngài Pháp Nhãn: Thế nào là Phật?
-Pháp Nhãn đáp: Ông là Huệ Siêu.
+Tăng hỏi Ngài Pháp Nhãn: **Thế nào là Phật?**
+
+Pháp Nhãn đáp: **Ông là Huệ Siêu**
 
 ## BÌNH XƯỚNG
 
@@ -131,12 +130,12 @@ Tùy nhiên như thế có mấy người thông minh qua được cửa này. L
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/" target="_blank">📌 TS </a>
+[^1]: 📝 <a href="/masters/Fayan-Wenyi" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>
 
 

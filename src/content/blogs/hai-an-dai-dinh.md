@@ -2,7 +2,7 @@
 title: "HẢI ẤN ĐẠI ĐỊNH"
 description: "Chương Hải Ấn Đại Định - CHÁNH PHÁP NHÃN TẠNG"
 excerpt: |
-  "Hải Ấn Đại Định, hay như đôi khi được dịch, “Định phản chiếu trong đại dương”, là định từ đó kinh Hoa Nghiêm khởi lên, phát hiện một cách thình lình quang cảnh bao la của sự giác ngộ của Phật"
+  "HẢI ẤN ĐẠI ĐỊNH, hay như đôi khi được dịch, “Định phản chiếu trong đại dương”, là định từ đó kinh Hoa Nghiêm khởi lên, phát hiện một cách thình lình quang cảnh bao la của sự giác ngộ của Phật"
 categories:
   - Bài viết
 tags:
@@ -19,7 +19,7 @@ Theo Mã Tổ, Đạo Nguyên trích kinh theo cách này : “Chỉ bởi sự 
 
 Kinh mà Đạo Nguyên đã trích còn tiếp tục nói rằng những yếu tố không loan báo sự sanh khởi và biến mất của chúng. Điều này giống như nói rằng chúng không có tự tánh. Ý niệm những hiện tượng sanh và diệt dựa trên tư tưởng phân biệt. Theo Luận Đại Thừa Khởi Tín, phổ thông trong cả Thiền tông và Hoa Nghiêm tông, tỉnh giác có hai mặt : tỉnh giác của Chân Như và tỉnh giác của sanh tử. Mê lầm là bị giam nhốt trong cái sau, trong tư tưởng phân biệt, nó tách biệt những sự vật thành những thực thể biệt lập và như thế nó là một cách tri giác theo đường thẳng, liên tiếp, làm ra những bắt đầu và kết thúc. Nó là mê lầm khi nó được tin – ngấm ngầm hay công khai – rằng nó là tất cả hiện hữu, là cách độc nhất của sự thấy, là diễn tả chân thật của thực tại. Loại tỉnh giác này có bản chất hạn hẹp và loại trừ, tạo ra phân rẽ và xung đột. Để đặt nó vào một viễn cảnh rộng lớn hơn, tỉnh giác về Chân Như (cái như vậy, không có sự hào nhoáng của ý niệm) được trau dồi trong Phật giáo. Rốt ráo, giác ngộ bao gồm cả hai mặt, khiến người ta không bị bắt buộc lầm cho rằng tư tưởng và phân biệt phát hiện toàn thể thực tại, cũng không trở nên bất lực không thể có tri giác có trật tự và lý luận suy diễn.
 
-Phần cuối của đoạn kinh này gợi ý phương pháp đạt đến tổng hợp này : “Khoảnh khắc trước, khoảnh khắc tiếp theo – mỗi khoảnh khắc tiếp nối không chờ đợi cái kế tiếp : yếu tố trước, yếu tố tiếp theo, những yếu tố không chờ đợi nhau. Đây gọi là hải ấn đại định.” Từ “khoảnh khắc” cũng có thể dịch là “tư tưởng” (chữ “niệm” trong tiếng Trung Hoa), và trong những bản văn Sanskrit từ “khoảnh khắc-tư tưởng” hay “khoảnh khắc tâm thức” thường được tìm thấy. Điểm chánh yếu là, như nó được áp dụng trong thiền định của Thiền, có vẻ là cái tỉnh giác về dòng những khoảnh khắc mà không bám níu, không dừng lại để trói buộc, đóng khung chúng thành những cơ cấu hay hình ảnh chấp chặt. Khi chú ý không bị vướng mắc hay trụ vào bất kỳ vật gì đặc trưng hóa một cách ý niệm, tỉnh giác toàn khắp vẫn nguyên là tự do và không bị chướng ngại, như thế dòng những sự kiện phản chiếu rõ ràng và thanh thản trong đó. Trong phần sau của tiểu luận Đạo Nguyên tiếp tục nêu ra thêm những trích dẫn và ám chỉ từ những kinh điển và ngữ lục để khai triển những minh giải về tánh giác và những cách thức củng cố thiền định để đạt đến cái thức về toàn thể tức thời.
+Phần cuối của đoạn kinh này gợi ý phương pháp đạt đến tổng hợp này: “Khoảnh khắc trước, khoảnh khắc tiếp theo – mỗi khoảnh khắc tiếp nối không chờ đợi cái kế tiếp : yếu tố trước, yếu tố tiếp theo, những yếu tố không chờ đợi nhau. Đây gọi là hải ấn đại định.” Từ “khoảnh khắc” cũng có thể dịch là “tư tưởng” (chữ “niệm” trong tiếng Trung Hoa), và trong những bản văn Sanskrit từ “khoảnh khắc-tư tưởng” hay “khoảnh khắc tâm thức” thường được tìm thấy. Điểm chánh yếu là, như nó được áp dụng trong thiền định của Thiền, có vẻ là cái tỉnh giác về dòng những khoảnh khắc mà không bám níu, không dừng lại để trói buộc, đóng khung chúng thành những cơ cấu hay hình ảnh chấp chặt. Khi chú ý không bị vướng mắc hay trụ vào bất kỳ vật gì đặc trưng hóa một cách ý niệm, tỉnh giác toàn khắp vẫn nguyên là tự do và không bị chướng ngại, như thế dòng những sự kiện phản chiếu rõ ràng và thanh thản trong đó. Trong phần sau của tiểu luận Đạo Nguyên tiếp tục nêu ra thêm những trích dẫn và ám chỉ từ những kinh điển và ngữ lục để khai triển những minh giải về tánh giác và những cách thức củng cố thiền định để đạt đến cái thức về toàn thể tức thời.
 
 ## Hải Ấn Đại Định
 
@@ -63,17 +63,61 @@ Cái này được xem là cái ấn đóng lên nước. Hơn nữa, chúng ta 
 
 Một nhà sư hỏi Tổ Tào Sơn, “Con biết trong kinh có nói đại dương không lưu giữ xác chết – cái gì là đại dương ?” Tào Sơn nói, “Nó chứa mọi cái hiện hữu” 
 
-Nhà sư nói, “Tại sao nó không lưu giữ xác chết ?” Tào Sơn nói, “Người không có hơi thở thì không dính mắc.” Nhà sư nói, “Bởi vì nó chứa mọi cái hiện hữu, tại sao người không có hơi thở thì không dính mắc ?” Tào Sơn nói, “Thực ra không phải vô số cái hiện hữu là không có hơi thở.” [^16]
+Nhà sư nói, “Tại sao nó không lưu giữ xác chết ?” Tào Sơn nói, “Người không có hơi thở thì không dính mắc” 
 
-Tào Sơn này là huynh đệ của Vân Cư ; ở đây thông điệp cốt lõi của Tào Sơn thật là chính xác. Cái con biết trong kinh có nói ám chỉ lời dạy chân thật của Phật và chư Tổ; đó không phải là những lời dạy của người phàm, người thánh, đó không phải là lời dạy nhỏ giáo truyền. Đại dương không chứa một xác chết – cái gọi là đại dương này thì không phải là một đại dương bên trong hay một đại dương bên ngoài, và không thể giống như tám biển. Nhưng cái ấy không phải là cái học trò hỏi. Người này chỉ nhận biết cái gì không phải là đại dương, nó không nhận biết cái gì là đại dương. Dù người ta cứ nói chúng là biển, nhưng chúng không được gọi là đại dương. Đại dương không nhất thiết là một vực sâu với nước mặn hay cái gì đó. Nhiều yếu tố phải kết hợp để tạo thành. Làm sao đại dương chỉ là nước sâu ? Vì lý do đó, hỏi đại dương là gì là nói đến đại dương bởi vì đại dương thì cả trời và người chưa biết đến. Về phần không chứa một xác chết, không chứa phải là khi ánh sáng đến, đánh ánh sáng ; khi bóng tối đến, đánh bóng tối. [^17] 
+Nhà sư nói, “Bởi vì nó chứa mọi cái hiện hữu, tại sao người không có hơi thở thì không dính mắc ?” Tào Sơn nói, “Thực ra không phải vô số cái hiện hữu là không có hơi thở.” [^16]
+
+Tào Sơn này là huynh đệ của Vân Cư ; ở đây thông điệp cốt lõi của Tào Sơn thật là chính xác. 
+
+Cái con biết trong kinh có nói ám chỉ lời dạy chân thật của Phật và chư Tổ; đó không phải là những lời dạy của người phàm, người thánh, đó không phải là lời dạy nhỏ giáo truyền. 
+
+Đại dương không chứa một xác chết – cái gọi là đại dương này thì không phải là một đại dương bên trong hay một đại dương bên ngoài, và không thể giống như tám biển. 
+
+Nhưng cái ấy không phải là cái học trò hỏi. 
+
+Người này chỉ nhận biết cái gì không phải là đại dương, nó không nhận biết cái gì là đại dương. 
+
+Dù người ta cứ nói chúng là biển, nhưng chúng không được gọi là đại dương. Đại dương không nhất thiết là một vực sâu với nước mặn hay cái gì đó. 
+
+Nhiều yếu tố phải kết hợp để tạo thành. Làm sao đại dương chỉ là nước sâu ? Vì lý do đó, hỏi đại dương là gì là nói đến đại dương bởi vì đại dương thì cả trời và người chưa biết đến. 
+
+Về phần không chứa một xác chết, không chứa phải là khi ánh sáng đến, đánh ánh sáng; khi bóng tối đến, đánh bóng tối. [^17] 
 
 Xác chết là tro hỏa táng ; nó là biết bao lần gặp gỡ mùa xuân mà không đổi tâm. Xác chết là cái gì chưa có ai từng thấy – đó là lý do không biết.
 
-Câu nói của Tào Sơn nó chứa mọi cái hiện hữu nói đến đại dương. Sự diễn tả của thông điệp cốt lõi này không nói rằng một vật gì nó là người chứa mọi cái hiện hữu; nó đang chứa mọi cái hiện hữu. Nó không nói rằng đại dương chứa mọi cái hiện hữu ; nói ‘nó chứa tất cả những cái hiện hữu’ chỉ đơn giản là đại dương. Dù không được biết như là một vật, trong lúc này nó là mọi cái hiện hữu. Khi chứa đựng, dù là một trái núi, nó không chỉ là đứng trên đỉnh cao nhất ; dù là nước, nó không chỉ là đi dưới đáy biển sâu nhất. Nắm lấy là phải giống cái này, buông bỏ là phải giống cái này. Đại dương của Phật tánh, đại dương của kho tàng Tỳ Lô Giá Na, chỉ là mọi cái hiện hữu.
+Câu nói của Tào Sơn nó chứa mọi cái hiện hữu nói đến đại dương. Sự diễn tả của thông điệp cốt lõi này không nói rằng một vật gì nó là người chứa mọi cái hiện hữu; nó đang chứa mọi cái hiện hữu. 
 
-Dù bề mặt của đại dương không thấy được, không có nghi ngờ gì về hành động bơi lội cùng với nó. Chẳng hạn trong sự phát biểu của Tafuku về một lùm tre, dù nếu đó là một nhánh thẳng, hai nhánh cong, ba nhánh bốn nhánh là đà, [^18] dù nếu đó là hành động khiến mọi cái hiện hữu bị bỏ lỡ, tại sao ngài không nói nó là ngàn nhánh cong, vạn nhánh cong, tại sao ngài không nói ngàn lùm, vạn lùm ? Chúng ta chớ quên nguyên lý rằng chỉ duy nhất một lùm tre hiện hữu theo cách đó. Câu nói của Tào Sơn, nó chứa mọi cái hiện hữu thì vẫn là mọi cái hiện hữu.(19)
+Nó không nói rằng đại dương chứa mọi cái hiện hữu; nói ‘nó chứa tất cả những cái hiện hữu’ chỉ đơn giản là đại dương. Dù không được biết như là một vật, trong lúc này nó là mọi cái hiện hữu. 
 
-Về phần câu nói của nhà sư, Tại sao người không có hơi thở thì không dính mắc ? – khi nó là khuôn mặt của sự nghi ngờ sai lầm, nó phải là cái này là hành động gì của tâm thức ? Khi cho đến giờ tôi vẫn nghi ngờ người bạn này, thì chỉ gặp cho đến giờ tôi vẫn nghi ngờ người bạn này. Trong chỗ nào là tại sao người không có hơi thở thì không dính mắc, là tại sao nó không lưu giữ một xác chết. Ở đây chính xác là bởi vì nó chứa mọi cái hiện hữu, tại sao nó không lưu giữ một xác chết ? Chúng ta cần biết rằng chứa không phải là sự dính mắc ; chứa không phải là sự lưu giữ. Dù cho mọi cái hiện hữu là một xác chết, phải là vô số năm không lưu giữ. Nó phải là sự diễn đạt duy nhất của ông sư già này về không dính mắc. Điều Tào Sơn cố gắng nói với câu thực ra không phải vô số cái hiện hữu là không có hơi thở là dù mọi cái hiện hữu không có hơi thở hay không, người ta phải không dính mắc. Cho dù một xác chết là một xác chết, bao giờ có sự thực hành tương tự với học hỏi từ vô số cái hiện hữu, nó phải chứa, nó phải đang chứa. Tiến trình trước và tiến trình tiếp theo, chúng là mọi cái hiện hữu, có hiệu quả của chúng – điều này thì không phải không có hơi thở. Nó là cái được gọi là một người mù dẫn một nhóm người mù. Nguyên lý một người mù dẫn một nhóm người mù là, đúng ra, một người mù dẫn một người mù, một nhóm người mù dẫn một nhóm người mù. Khi một nhóm người mù dẫn một nhóm người mù, đó là cái chứa mọi cái hiện hữu thì được chứa bởi cái chứa mọi cái hiện hữu. Trong Đạo Lớn người ta tiếp tục du hành, nếu nó không là mọi cái hiện hữu, sự thực hành không thành hiện thực. Đây là hải ấn đại định.
+Khi chứa đựng, dù là một trái núi, nó không chỉ là đứng trên đỉnh cao nhất; dù là nước, nó không chỉ là đi dưới đáy biển sâu nhất. Nắm lấy là phải giống cái này, buông bỏ là phải giống cái này. 
+
+Đại dương của Phật tánh, đại dương của kho tàng Tỳ Lô Giá Na, chỉ là mọi cái hiện hữu.
+
+Dù bề mặt của đại dương không thấy được, không có nghi ngờ gì về hành động bơi lội cùng với nó. 
+
+Chẳng hạn trong sự phát biểu của Tafuku về một lùm tre, dù nếu đó là một nhánh thẳng, hai nhánh cong, ba nhánh bốn nhánh là đà, [^18] dù nếu đó là hành động khiến mọi cái hiện hữu bị bỏ lỡ.
+
+Tại sao ngài không nói nó là ngàn nhánh cong, vạn nhánh cong, Tại sao ngài không nói ngàn lùm, vạn lùm? 
+
+Chúng ta chớ quên nguyên lý rằng chỉ duy nhất một lùm tre hiện hữu theo cách đó. Câu nói của Tào Sơn, nó chứa mọi cái hiện hữu thì vẫn là mọi cái hiện hữu.(19)
+
+Về phần câu nói của nhà sư, Tại sao người không có hơi thở thì không dính mắc? 
+
+– khi nó là khuôn mặt của sự nghi ngờ sai lầm, nó phải là cái này là hành động gì của tâm thức? Khi cho đến giờ tôi vẫn nghi ngờ người bạn này, thì chỉ gặp cho đến giờ tôi vẫn nghi ngờ người bạn này. 
+
+Trong chỗ nào là tại sao người không có hơi thở thì không dính mắc, là tại sao nó không lưu giữ một xác chết. 
+
+Ở đây chính xác là bởi vì nó chứa mọi cái hiện hữu, tại sao nó không lưu giữ một xác chết ? Chúng ta cần biết rằng chứa không phải là sự dính mắc; chứa không phải là sự lưu giữ. 
+
+Dù cho mọi cái hiện hữu là một xác chết, phải là vô số năm không lưu giữ. Nó phải là sự diễn đạt duy nhất của ông sư già này về không dính mắc. 
+
+Điều Tào Sơn cố gắng nói với câu thực ra không phải vô số cái hiện hữu là không có hơi thở là dù mọi cái hiện hữu không có hơi thở hay không, người ta phải không dính mắc. 
+
+Cho dù một xác chết là một xác chết, bao giờ có sự thực hành tương tự với học hỏi từ vô số cái hiện hữu, nó phải chứa, nó phải đang chứa. 
+
+Tiến trình trước và tiến trình tiếp theo, chúng là mọi cái hiện hữu, có hiệu quả của chúng – điều này thì không phải không có hơi thở. Nó là cái được gọi là một người mù dẫn một nhóm người mù. 
+
+Nguyên lý một người mù dẫn một nhóm người mù là, đúng ra, một người mù dẫn một người mù, một nhóm người mù dẫn một nhóm người mù. Khi một nhóm người mù dẫn một nhóm người mù, đó là cái chứa mọi cái hiện hữu thì được chứa bởi cái chứa mọi cái hiện hữu. Trong Đạo Lớn người ta tiếp tục du hành, nếu nó không là mọi cái hiện hữu, sự thực hành không thành hiện thực. Đây là hải ấn đại định.
 
 <hr class="blog-rule" />
 
@@ -103,4 +147,4 @@ Về phần câu nói của nhà sư, Tại sao người không có hơi thở t
 
 ## NGUỒN
 
-> ✨ <a href="https://thuvienhoasen.org/a20796/hai-an-dai-dinh" target="_blank">🔗 thuvienhoasen</a>
+> 🔗 <a href="https://thuvienhoasen.org/a20796/hai-an-dai-dinh" target="_blank">thuvienhoasen</a>

@@ -161,12 +161,12 @@ Không nghe nói:
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Deshan-Xuanjian" target="_blank">📌 TS ĐỨC SƠN TUYÊN GIÁM</a>
+[^1]: 📝 <a href="/masters/Deshan-Xuanjian" target="_blank">TS ĐỨC SƠN TUYÊN GIÁM</a>
 
 

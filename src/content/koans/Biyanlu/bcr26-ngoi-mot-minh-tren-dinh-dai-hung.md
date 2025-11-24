@@ -74,16 +74,16 @@ Nham Đầu nói, “ Khước từ sự vật là thượng, đuổi theo sự 
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12750/5/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12750/tac-thu-hai-muoi-sau-bac-truong-ngoi-mot-minh-tren-dinh-dai-hung" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43261/10-tac-26-tac-30" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43261/10-tac-26-tac-30" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Baizhang-Huaihai/" target="_blank">📌 TS BÁCH TRƯỢNG HOÀI HẢI</a>
+[^1]: 📝 <a href="/masters/Baizhang-Huaihai/" target="_blank">TS BÁCH TRƯỢNG HOÀI HẢI</a>

@@ -151,16 +151,16 @@ Mãi tới khúc cuối mói nói, “Trường Khánh biết rõ, lông mày m�
 
 ## NGUỒN
 
-> ✨ <a href="https://hoavouu.com/p16a12730/5/tac-thu-tam-thuy-nham-day-do-chung-cuoi-ha" target="_blank">🔗 hoavouu.com</a>
+> 🔗 <a href="https://hoavouu.com/a12730/tac-thu-tam-thuy-nham-day-do-chung-cuoi-ha" target="_blank">hoavouu.com</a>
 >
-> ✨ <a href="https://quangduc.com/p1241a43255/4-tac-07-tac-09" target="_blank">🔗 quangduc.com</a>
+> 🔗 <a href="https://quangduc.com/p1241a43255/4-tac-07-tac-09" target="_blank">quangduc.com</a>
 >
-> ✨ <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">🔗 tuvien.com</a>
+> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">tuvien.com</a>
 >
-> ✨ <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">🔗 phatphapungdung.com</a>
+> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/thuy-nham-k44421.html" target="_blank">📌 TS THÚY NHAM LINH THAM</a>
+[^1]: 📝 <a href="/masters/Cuiyan-Lingcan" target="_blank">TS THÚY NHAM LINH THAM</a>

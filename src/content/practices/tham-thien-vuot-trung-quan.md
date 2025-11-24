@@ -72,7 +72,7 @@ Thiền sư Hư Vân gọi đây là giai đoạn "cưỡi lừa tìm lừa", ng
 
 👉 Đây là công án dùng để cắt đứt giải thích, phá trừ sự hiểu sai về "ý nghĩa", "ngôn ngữ", "lý trí".
 
-[^1]: ⭐️ <a href="/masters/Bodhidharma" target="_blank">ĐẠT MA TỔ SƯ</a>
+[^1]: 📝 <a href="/masters/Bodhidharma" target="_blank">ĐẠT MA TỔ SƯ</a>
 
 #### 🧘‍♂️ Cách hành trì vượt Trùng Quan
 

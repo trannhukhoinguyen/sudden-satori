@@ -95,10 +95,10 @@ Sờ tay lên mặt nói: "_Hãy dừng lại!_"
 
 ## NGUỒN
 
-✨ > ✨ <a href="" target="_blank">🔗 </a>
+> 🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: ⭐️ <a href="/masters/Jiashan-Shanhui" target="_blank">📌 TS GIÁP SƠN THIỆN HỘI</a>
+[^1]: 📝 <a href="/masters/Jiashan-Shanhui" target="_blank">TS GIÁP SƠN THIỆN HỘI</a>

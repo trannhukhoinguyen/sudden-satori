@@ -11,7 +11,8 @@ const {
     page,
 } = Astro.props;
 
-const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
+const noPost ="📂 Danh sách trống";
+const categoryName = "config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type";
 const groupsBySpecialTag = posts?.map((post: any) => post.frontmatter?.tags[0]);
 const groupsSorted = [
     groupsBySpecialTag.find((group: string) => group === 'Giới thiệu'),
@@ -69,5 +70,5 @@ const postsGroupedBySpecialTag = groupsSorted
             <Pagination page={page} totalPages={totalPagesBySpecialTag} category={posts[0].frontmatter.type}/>)}
        )
 
-    ) : <p>Chưa có bài viết {categoryName} nào.</p>
+    ) : <p>{noPost}</p>
 }
