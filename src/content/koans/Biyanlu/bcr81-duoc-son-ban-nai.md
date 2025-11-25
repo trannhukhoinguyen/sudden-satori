@@ -76,11 +76,29 @@ Cuối cùng Tuyết Đậu lại dùng lời của ông ta mà rụng rằng:
 
 ## BÌNH XƯỚNG
 
-“Nai của nai, ngài nhìn xem.” Các nạp tăng cần phải có mắt của con nai chúa có sứng của con nai chúa, phải có cơ quan phải có sách lược. Dù cho đó là mãnh hổ có cánh mèo rừng có sừng, con nai chúa vẫn giữ được thân mình không bị hại. Lúc ông tăng kia nằm xuống, có ý nói rằng, “Tôi chính là nai chúa.” Bắn một tên, chạy ba bước,” Dược Sơn nói, “Xem tên đây.” Ông tăng bèn nằm xuống. Dược Sơn nói, “Thị giả đâu kéo cái gã chết này ra ngoài xem.” Ông tăng này bèn bỏ đi. Hay lắm, nhưng mà ông ta chỉ đi được ba bước mà thôi.
+“Nai của nai, ngài nhìn xem.” Các nạp tăng cần phải có mắt của con nai chúa có sứng của con nai chúa, phải có cơ quan phải có sách lược. 
 
-“Năm bước nếu sống, thành bầy đuổi cọp.” Tuyết Đậu nói, “Chỉ e rằng trong vòng năm bước là ông ta chết mất. Nếu như lúc ấy mà ông ta có thể nhảy ra được năm bước mà vẫn còn sống, thì ông ta hẳn đã có thể kết hợp được bầy lũ để mà đuổi cọp rồi.” Sừng của con nai chúa sắc bén như mũi thương, ngay cả cọp trông thấy cũng phải sợ mà bỏ chạy. Đây là con nai chúa, thường lãnh đạo bầy nai đuổi cọp qua núi khác.
+Dù cho đó là mãnh hổ có cánh mèo rừng có sừng, con nai chúa vẫn giữ được thân mình không bị hại. 
 
-Cuối cùng Tuyết Đậu tụng Dược Sơn ngay lúc ấy có chỗ xuất thân “Mắt chính xưa nay cho thợ săn.” Dược Sơn giống như một thợ săn biết bắn, còn ông tăng kia thì giống như con nai. Tuyết Đậu lúc ấy nhận thượng đường thuật lại lời này, cuối cùng kết luận trong vài lời, nói lớn một câu rằng, “Xem tên!” Lúc ấy kẻ đứng hay người ngồi gì cũng chẳng động đậy được.
+Lúc ông tăng kia nằm xuống, có ý nói rằng, “Tôi chính là nai chúa.” Bắn một tên, chạy ba bước,” Dược Sơn nói, “Xem tên đây.” Ông tăng bèn nằm xuống. 
+
+Dược Sơn nói, “Thị giả đâu kéo cái gã chết này ra ngoài xem.” Ông tăng này bèn bỏ đi. Hay lắm, nhưng mà ông ta chỉ đi được ba bước mà thôi.
+
+“Năm bước nếu sống, thành bầy đuổi cọp.” Tuyết Đậu nói, “Chỉ e rằng trong vòng năm bước là ông ta chết mất. 
+
+Nếu như lúc ấy mà ông ta có thể nhảy ra được năm bước mà vẫn còn sống, thì ông ta hẳn đã có thể kết hợp được bầy lũ để mà đuổi cọp rồi” 
+
+Sừng của con nai chúa sắc bén như mũi thương, ngay cả cọp trông thấy cũng phải sợ mà bỏ chạy. 
+
+Đây là con nai chúa, thường lãnh đạo bầy nai đuổi cọp qua núi khác.
+
+Cuối cùng Tuyết Đậu tụng Dược Sơn ngay lúc ấy có chỗ xuất thân “Mắt chính xưa nay cho thợ săn.” 
+
+Dược Sơn giống như một thợ săn biết bắn, còn ông tăng kia thì giống như con nai. 
+
+Tuyết Đậu lúc ấy nhận thượng đường thuật lại lời này, cuối cùng kết luận trong vài lời, nói lớn một câu rằng, “Xem tên!” 
+
+Lúc ấy kẻ đứng hay người ngồi gì cũng chẳng động đậy được.
 
 <hr class="blog-rule" />
 

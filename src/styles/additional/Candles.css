@@ -50,7 +50,7 @@
 .gg28 .candle1__stick, .candle2__stick {
   position: absolute;
   left: 50%;
-  top: 0%;
+  top: 0;
   width: 3px;
   height: 15px;
   background: #673C63;
@@ -67,7 +67,7 @@
 .gg28 .candle1__eyes, .candle2__eyes {
   position: absolute;
   left: 50%;
-  top: 0%;
+  top: 0;
   width: 35px;
   height: 30px;
   transform: translate(-50%, 0%);
@@ -198,7 +198,6 @@
   display: block;
   width: 16px;
   height: 20px;
-  background-color: red;
   border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
   background: #FF9800;
   transform: translate(-50%, -50%);

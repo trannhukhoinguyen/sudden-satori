@@ -84,7 +84,7 @@ const CnLv2MasterDb = [
  'Tử Âm Duy Kiến', 'Việt Châu Duy Hiến', 'Vân Thủy Tĩnh Tông',
  'Vân Tú Thần Giám', 'Vương Cốc Hạnh Minh', 'Xứ Châu Pháp Tạng',
     ],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://terebess.hu/zen/mazu.html'],
   },
   {
@@ -104,7 +104,7 @@ const CnLv2MasterDb = [
     teachers: ['Nanyang Huizhong'],
     successors: [''],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -123,7 +123,7 @@ const CnLv2MasterDb = [
     teachers: ['Heze Shenhui'],
     successors: ['Kinh Nam Duy Trung'],
     disciples: ['Kinh Nam Duy Trung'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -141,7 +141,7 @@ const CnLv2MasterDb = [
     teachers: ['Heze Shenhui'],
     successors: [''],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -160,7 +160,7 @@ const CnLv2MasterDb = [
     teachers: ['Songshan Puji'],
     successors: [''],
     disciples: ['Hành Biểu (行表)'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Daoxuan', 'https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1o_Tuy%C3%AAn'],
   },
   {
@@ -178,7 +178,7 @@ const CnLv2MasterDb = [
     teachers: ['Songshan Puji'],
     successors: [''],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Nanyue_Mingzan'],
   },
   {
@@ -195,7 +195,7 @@ const CnLv2MasterDb = [
     teachers: ['Jingzhong Zhixian - Chùjì (普寂)'],
     successors: [''],
     disciples: ['Wúzhù (無住)'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -212,7 +212,7 @@ const CnLv2MasterDb = [
     teachers: ['Phá Táo Đọa (破竈墮)'],
     successors: [''],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -229,7 +229,7 @@ const CnLv2MasterDb = [
     teachers: ['Niutou Huifang'],
     successors: ['Niutou Zhiwei'],
     disciples: ['Niutou Zhiwei'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Niutou_Fazhi'],
   },
   {
@@ -246,7 +246,7 @@ const CnLv2MasterDb = [
     teachers: ['Songshan Puji'],
     successors: [''],
     disciples: ['Chí Chân (志眞)'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -264,7 +264,7 @@ const CnLv2MasterDb = [
     teachers: ['Zizhou Chuji'],
     successors: [''],
     disciples: ['Jingzhong Shenhui', 'Baotang Wuzhu', 'Sang-shi', 'Tongchuan Ji'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Jingzhong_Wuxiang', 'https://terebess.hu/zen/mesterek/Musang.html'],
   },
   {
@@ -281,7 +281,7 @@ const CnLv2MasterDb = [
     teachers: ['Lục Hợp Đại Giác'],
     successors: [''],
     disciples: ['Thái sơn Minh Luyện'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -300,7 +300,7 @@ const CnLv2MasterDb = [
     teachers: ['Songshan Puji'],
     successors: [''],
     disciples: [''],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [
       'https://wwzc.org/master-list-masters/', 'https://terebess.hu/zen/mesterek/ferguson.html',
       'https://deerpark.app/reader/T2076/4', 'https://www.shidianguji.com/zh/book/SK2139/chapter/1l9o8x8bz7zty',

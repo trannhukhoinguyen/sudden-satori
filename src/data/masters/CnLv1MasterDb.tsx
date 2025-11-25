@@ -62,7 +62,7 @@ const CnLv1MasterDb = [
     successors: ['Mazu Daoyi'],
     disciples: ['Mazu Daoyi', 'Nam Nhạc Thường Hoạt', 'Trí Đạt', 'Thản Nhiên', 'Triều Châu Thần Chiếu',
       'Dương châu Nghiêm Lăng', 'Tân La Bản Như', 'Huyền Thịnh', 'Đông Vụ Pháp Không'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
     wiki: [''],
   },
@@ -112,7 +112,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
     wiki: [''],
   },
@@ -136,7 +136,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
     wiki: [''],
   },
@@ -155,7 +155,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -176,7 +176,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -197,7 +197,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://terebess.hu/english/master.html','https://wwzc.org/book/export/html/267', 'https://ngulucthien.com/thien-su-hieu-lieu/'],
   },
   {
@@ -218,7 +218,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -239,7 +239,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -260,7 +260,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -281,7 +281,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -302,7 +302,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -323,7 +323,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -344,7 +344,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -365,7 +365,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -386,7 +386,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -422,7 +422,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -440,7 +440,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: [''],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -461,7 +461,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: ['Linh Vân'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -479,7 +479,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -497,7 +497,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -515,7 +515,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -533,7 +533,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: [],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -551,7 +551,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: [],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -569,7 +569,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -587,7 +587,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -605,7 +605,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -623,7 +623,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -641,7 +641,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -659,7 +659,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -677,7 +677,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -695,7 +695,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -713,7 +713,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -731,7 +731,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -749,7 +749,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -767,7 +767,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -785,7 +785,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -803,7 +803,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -821,7 +821,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -841,7 +841,7 @@ const CnLv1MasterDb = [
     teachers: ['Yuquan Shenxiu'],
     successors: ['Huiyun'],
     disciples: ['Huiyun'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Laoshan_Yifu'],
   },
   {
@@ -862,7 +862,7 @@ const CnLv1MasterDb = [
       'Daoxuan', 'Nanyue Mingzan', 'Jingzou Shizang',
       'Duy Chính (惟政)', 'Hongzheng', 'Yi Xing (685–727)', 'Taejo Chigong (703–779) Korea', 'Lingzhuo (691–746)',
     ],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://terebess.hu/zen/mesterek/Puji.html', 'https://pl.wikipedia.org/wiki/Songshan_Puji'],
   },
   {
@@ -880,7 +880,7 @@ const CnLv1MasterDb = [
     teachers: ['Huệ An'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -898,7 +898,7 @@ const CnLv1MasterDb = [
     teachers: ['Huệ An (慧安)'],
     successors: ['-'],
     disciples: ['Tuấn Cực (峻極)'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -920,7 +920,7 @@ const CnLv1MasterDb = [
     teachers: ['Zizhou Chiji'],
     successors: ['-'],
     disciples: ['Wúxiàng (無相)'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -942,7 +942,7 @@ const CnLv1MasterDb = [
     teachers: ['Niutou Zhiyan'],
     successors: ['Niutou Fazhi'],
     disciples: ['Niutou Fazhi'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -964,7 +964,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng', 'Daman Hongren'],
     successors: [''],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -982,7 +982,7 @@ const CnLv1MasterDb = [
     teachers: ['Zizhou Zhishen'],
     successors: ['Jingzhong Wuxiang'],
     disciples: ['Jingzhong Wuxiang', 'Chengyuan (712-802)'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Zizhou_Chuji'],
   },
   {
@@ -1000,7 +1000,7 @@ const CnLv1MasterDb = [
     teachers: ['Định Lâm Tuệ Cương'],
     successors: [''],
     disciples: ['Cao bưu Đàm Ảnh'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -1018,7 +1018,7 @@ const CnLv1MasterDb = [
     teachers: ['Thượng Nguyên Trí Thành'],
     successors: [''],
     disciples: ['Như Độ'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -1036,7 +1036,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.m.wikipedia.org/wiki/Sikong_Benjing'],
   },
   {
@@ -1054,7 +1054,7 @@ const CnLv1MasterDb = [
     teachers: ['Yuquan Shenxiu'],
     successors: [''],
     disciples: [''],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Songshan_Jingxian'],
   },
   {
@@ -1072,7 +1072,7 @@ const CnLv1MasterDb = [
     teachers: ['Yuquan Shenxiu'],
     successors: [''],
     disciples: [''],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://pl.wikipedia.org/wiki/Xiangmo_Zang'],
   },
 ]

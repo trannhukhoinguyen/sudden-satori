@@ -83,13 +83,23 @@ Chớ so sánh từ Tây vượt sa mạc qua Đông độ đến Thiếu thất
 Từ xưa đến nay khắp trong trời đất. Chánh nhân nhìn kỹ lại, có việc nào không phải là đích thân truyền. Chợt nghe đâu đêm nhận về Song Lĩnh, hạc kêu ở Thiên Phong. Trong rừng thanh sắc thay nhau dính mắc.
 
 Ngài Đan Hà nói:
-Vốn là người câu cá trên thuyền.
-Chớt cạo râu tóc mặc ca sa.
-Địa vị Phật Tổ lưu truyền mãi.
-Đêm khuya vẫn ngồi ở bờ lau.
-Lại một mùa hoa lau, trăng sáng bạt ngàn bãi hoa lau.
-Thuyền trăng một mạch suối thẳng mãi.
-Tín rằng người chở đúng ý hay.
+
+<blockquote>
+
+Vốn là người câu cá trên thuyền
+
+Chớt cạo râu tóc mặc ca sa
+
+Địa vị Phật Tổ lưu truyền mãi
+
+Đêm khuya vẫn ngồi ở bờ lau
+
+Lại một mùa hoa lau, trăng sáng bạt ngàn bãi hoa lau
+
+Thuyền trăng một mạch suối thẳng mãi
+
+Tín rằng người chở đúng ý hay
+</blockquote>
 
 <hr class="blog-rule" />
 

@@ -113,11 +113,16 @@ Lại xem ngài Đầu Tử đặc biệt dùng gì để nấu trà điểm tâ
 
 ## TỤNG CỔ
 
-> Thấy Tăng đến, hỏi từng đến chưa,
-Có người đến rồi, lại bay không đến.
+<blockquote>
 
-Đều mời uống trà, thật lòng trân trọng,
-Mây xanh thẫm đổi, rêu xanh hay biết.
+Thấy Tăng đến, hỏi từng đến chưa
+
+Có người đến rồi, lại bay không đến
+
+Đều mời uống trà, thật lòng trân trọng
+
+Mây xanh thẫm đổi, rêu xanh hay biết
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -152,7 +157,6 @@ Chỉ vì tối sáng, màu sắc thay đổi,
 một câu thiên viên làm sao nói hết?
 
 Đợi uống trà xong sẽ nói với ông.
-
 
 <hr class="blog-rule" />
 

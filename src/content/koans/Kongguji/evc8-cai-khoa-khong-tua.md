@@ -35,14 +35,19 @@ image: /images/koans/great-wave.webp
 > Đến chiếu Quy Sơn thượng đường bảo: Trong gạo giã chúng hãy xem kỹ.
 
 Về sau đến tham vấn Ngài Đạo Ngô, Sư hỏi: Thế nào là bồ đề?
+
 Đạo Ngô gọi Sa Di. Sa Di đáp dạ. Đạo Ngô bảo: Nước vào tịnh bình.
 
 Đạo Ngô im lặng giây lâu hỏi lại Thạch Sương: Vừa rồi ngươi hỏi điều gì?
-Thạch Sương định nhắc lại. Đạo Ngô đứng dậy đi ra.
+
+Thạch Sương định nhắc lại. 
+Đạo Ngô đứng dậy đi ra.
 Thạch Sương ngộ ngay điềm này.
 
 Đạo Ngô sắp viên tịch dạy chúng: Trong tâm ta có một điều từ lâu nên thành bệnh, ai có thể trừ bỏ được?
+
 Thạch Sương thưa: Tâm vật đều không, trừ bỏ càng thêm bệnh.
+
 Đạo Ngô khen: Lành thay! Lành thay!
 
 Thạch Sương lánh sự phức tạp cuộc đời ở phương thọ tại Lưu Dương, sáng đi tối về, mọi người không thể biết.
@@ -51,8 +56,11 @@ Sau này nhớ câu đáp của Động Sơn, hằng đi chỗ đâu thu hạ v�
 Thạch Sương thưa: Ra khỏi cửa đã thành cô, được khen rồi. Sau này được vua ban tử y nhưng Sư không nhận.
 
 Ngày Sư khai pháp, Tăng hỏi: Chơn thân lại có xuất thế chăng?
+
 Sư đáp: Không xuất thế.
+
 Hỏi: Thế nào là chơn thân?
+
 Sư đáp: Cái khóa không tua hai đầu lay động.
 
 Đem lời này ứng hợp với cái khóa không tua hai đầu lay động mà người xưa gọi là chân cơ.
@@ -61,37 +69,46 @@ Cái chơn chánh bất lự lý ấy há dễ thấy được sao? Chỗ này c
 
 ## TỤNG CỔ
 
-> Canh ba trăng chiếu sáng hai núi.
->
-> Đường xưa xa vắng rêu xanh phủ.
->
-> Khóa vàng lay động không tay chạm.
->
-> Thỏ trong trăng thường lướt giữa sông xanh.
+<blockquote>
+
+Canh ba trăng chiếu sáng hai núi
+
+Đường xưa xa vắng rêu xanh phủ
+
+Khóa vàng lay động không tay chạm
+
+Thỏ trong trăng thường lướt giữa sông xanh
+</blockquote>
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Lâm Tuyền nói:
 
-> Động Sơn từng phấn đấu Thiên Chúc. Vị là Chánh Trung Thiên.
+Động Sơn từng phấn đấu Thiên Chúc. Vị là Chánh Trung Thiên.
 
-> Trăng sáng đầu đêm đến canh ba
->
-> Chỗ lạ gặp nhau không biết nhau
->
-> Canh cánh trong lòng mối nghi xưa
+<blockquote>
+
+Trăng sáng đầu đêm đến canh ba
+
+Chỗ lạ gặp nhau không biết nhau
+
+Canh cánh trong lòng mối nghi xưa
+</blockquote>
 
 Hãy nói mối nghi ngờ xưa và nay là gì? Cuối cùng đều buông hết. Mạc vàng trong mắt đường nhiên thế.
 
 Thơ Cảnh Vĩ thời Đường:
 
-> Nắng chiều xuống làng quê
->
-> Lòng buồn biết nói cùng ai
->
-> Không người đi đường xưa
->
-> Gió thu lùa đồng lúa
+<blockquote>
+
+Nắng chiều xuống làng quê
+
+Lòng buồn biết nói cùng ai
+
+Không người đi đường xưa
+
+Gió thu lùa đồng lúa
+</blockquote>
 
 Thơ phải đủ sáu nghĩa: phong phú, tỉ, hứng, nhã, tụng, cổ. Dùng tỉ hứng cùng loại để dụ cho chí đạo. Than ôi! Người trong cõi trần này không ai sống lâu dài, chỉ có lúa nếp mà thôi.
 

@@ -14,27 +14,30 @@ image: /images/koans/great-wave.webp
 
 📢 Ngài Đan Hà dạy chúng:
 
-Chim cốt chưa ra khỏi tổ đã có chí chọc trời. Hổ con chưa dứt sữa lại có chí vật trâu. 
+> Chim cốt chưa ra khỏi tổ đã có chí chọc trời. Hổ con chưa dứt sữa lại có chí vật trâu. 
 Đây đều là phương tiện này, ngồi xem thắng bại, đừng nghiệm thắng thua đó là ai?
 
 ## CỬ - TẮC
 
 📢 Ngài Đầu Tử cử:
 
-> Lạc Phố ban đầu đến tham vấn ngài Giáp Sơn.
-> Giáp Sơn bảo: **Gà nương tổ phượng không cùng loại hãy đi ra.**
-> Lạc Phố thưa: **Con từ xa nghe đạo phong của Ngài, xin Ngài tiếp độ con một lần.**
-> Ngài Giáp Sơn nói: **Trước mắt không có Xà Lê, ở đây cũng không có Lão Tăng.**
-> 
-> Lạc Phố hết. Giáp Sơn nói: 
-> **Chó có vội vàng. Nên biết rằng mây trắng thì đồng, núi khe mỗi mỗi khác nhau. Cắt đứt hết đầu lưỡi thiên hạ. Làm sao dạy người không lười biếng nói.**
->
-> Lạc Phố không đáp được. Giáp Sơn đánh.
->
-> Sư niệm: Đến trong đây làm sao nói được một câu, đạt được thì đồng thân chung một hơi thở. Liền đáp thay:
->
+Lạc Phố ban đầu đến tham vấn ngài Giáp Sơn.
+Giáp Sơn bảo: **Gà nương tổ phượng không cùng loại hãy đi ra.**
+
+Lạc Phố thưa: **Con từ xa nghe đạo phong của Ngài, xin Ngài tiếp độ con một lần.**
+
+Ngài Giáp Sơn nói: **Trước mắt không có Xà Lê, ở đây cũng không có Lão Tăng.**
+
+Lạc Phố hết. Giáp Sơn nói: **Chó có vội vàng. Nên biết rằng mây trắng thì đồng, núi khe mỗi mỗi khác nhau. Cắt đứt hết đầu lưỡi thiên hạ. Làm sao dạy người không lười biếng nói.**
+
+Lạc Phố không đáp được. Giáp Sơn đánh.
+
+Sư niệm: **Đến trong đây làm sao nói được một câu, đạt được thì đồng thân chung một hơi thở** 
+
+Liền đáp thay:
+
 > Mắt mù thêu đôi phượng
-> 
+>
 > Bay vút thấu trời xanh
 
 ## BÌNH XƯỚNG
@@ -66,28 +69,47 @@ Lâm Tuyền nói: Chỉ ngại rằng không phải ngọc. Nếu đúng là ng
 Giáp Sơn nói: Gà nương tổ phượng không đồng loại, hãy đi ra.
 
 Lâm Tuyền nói: Phải kiểm điểm lại không thể bỏ qua.
+
 Lạc Phố thưa: Từ xa nghe đạo phong của thầy, xin thầy tiếp độ một lần.
+
 Lâm Tuyền nói: Thể ngăn núi đến bên núi cao lạ lùng. Tiếng muôn dòng chảy về biển thầy đều tiêu mất.
+
 Giáp Sơn nói: Trước mắt không Xà Lê, ở đây không có Lão Tăng.
+
 Lâm Tuyền nói: Đã hết lòng vì người.
-Lạc Phố hết.
-Lâm Tuyền nói: Cảnh quen khó quên, mặc cho y là hết.
+
+Lạc Phố hét.
+
+Lâm Tuyền nói: Cảnh quen khó quên, mặc cho y là hét.
+
 Giáp Sơn nói: Đừng! Đừng! Chó có vội vàng. Mây trắng thì đồng, nhưng núi sông khác biệt. Cắt đứt lưỡi thiên hạ thì được, nhưng làm sao dạy người không lười biếng nói.
+
 Lâm Tuyền nói: Gần đây có một điều khoản mới. Chớ thuyết phục me đen làm nhãn đáp đến.
+
 Lạc Phố đút suy nghĩ.
+
 Lâm Tuyền nói: Sao không ngay điểm đó hết một tiếng.
+
 Giáp Sơn đánh.
+
 Lâm Tuyền nói: Trong đó núi khe vốn không khác.
+
 Lạc Phố nhân đây hết lòng tin phụng.
 
 Lâm Tuyền nói: Điểm gặp duyên của thầy và trò như hạt cải đầu kim. Chỗ thấy của Lâm Tuyền chỉ đến đây. Để xem Ngài Hoa Nghiêm làm sao phán xét.
 
 ## TỤNG CỔ
 
-> Người đã không bạn nương vào núi.
-Mây phủ đình hồng lạnh đá xanh.
-Hết tan đỉnh Tam phong kiếp triệu.
-Đưa y Kim Lan trước mặt trời xem.
+<blockquote>
+
+Người đã không bạn nương vào núi
+
+Mây phủ đình hồng lạnh đá xanh
+
+Hết tan đỉnh Tam phong kiếp triệu
+
+Đưa y Kim Lan trước mặt trời xem
+</blockquote>
 
 ## BÌNH XƯỚNG
 
@@ -104,8 +126,6 @@ Tiếng hét của Lạc Phố trong lần tham kiến ngài Giáp Sơn, đến 
 Xưa kia, Ngài Ca-Diếp-Ba đem y giả lẽ Kim Lan của Đức Như Lai phó chúc vào núi Kê Túc, dời ngài Di Lặc để truyền lại. Núi có ba đỉnh, như gà có ba ngón chân nên tên là Kê Túc.
 
 Thế nên nói người hết đã bày, người nhận y Như Lai xuất hiện. Đường ngôn ngữ dứt không còn quá khứ, hiện tại, vị lai. Lại biết cha con Lạc Phố, Giáp Sơn hợp nhau điểm này. Nếu chiếu thấu suốt thế thì không còn điểm tựa, toàn thể hợp với đại đạo.
-
-
 
 <hr class="blog-rule" />
 

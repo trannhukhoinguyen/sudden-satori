@@ -386,7 +386,7 @@ const CnLv3MasterDb = [
     teachers: ['Cao Bưu Đàm Ảnh'],
     successors: [''],
     disciples: ['Dương châu Tỉnh Thái'],
-    image: '/images/unknown-zen-master.jpg',
+    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
