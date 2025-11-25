@@ -196,7 +196,6 @@ const CnLv10MasterDb = [
     teachers: ['Wenshu Yingzhen'],
     successors: ['Fori Qisong'],
     disciples: ['Fori Qisong'],
-    image: '/images/square/meta-image-square-1.jpg',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/dong-son-hieu-thong-k3950.html'],
   },
   {
@@ -217,7 +216,6 @@ const CnLv10MasterDb = [
     teachers: ['Wuzu Shijie'],
     successors: [''],
     disciples: [],
-    image: '/images/square/meta-image-square-1.jpg',
     reference: [''],
   },
   {
@@ -238,7 +236,6 @@ const CnLv10MasterDb = [
     teachers: ['Wuzu Shijie'],
     successors: ['Yuwang Huailian'],
     disciples: ['Yuwang Huailian'],
-    image: '/images/square/meta-image-square-1.jpg',
     reference: ['/masters/0-ts-lac-dam-hoai-trung/',
       'https://tuvienquangduc.com.au/Thien/124thienluan2-1a.html'],
   },
