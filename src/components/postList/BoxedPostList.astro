@@ -82,7 +82,7 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
 {
   titleList?.length > 0 ? (
 
-        <ABCLinkedTitleList collection={collection} posts={posts} titleList={titleList} listTitle={"DANH SÁCH BÀI VIẾT"} />
+        <ABCLinkedTitleList collection={collection} posts={posts} titleList={titleList} listTitle={`DANH SÁCH ${categoryName}`} />
 
     ) : <p>{noPost}</p>
 }

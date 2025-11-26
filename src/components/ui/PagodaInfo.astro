@@ -8,7 +8,7 @@ const {
   phone= "",
   image= "",
   showSchedule= true,
-  scheduleTitle= "Thời khóa",
+  scheduleTitle= "Thời khóa Tu",
   scheduleSubTiTle= "Thiền Thất",
   scheduleTime= "",
   scheduleRepeat= "Hàng Tháng",
@@ -18,6 +18,7 @@ const {
     '13:00 - 17:00',
     '18:30 - 20:30',
   ],
+  duration,
   address= "",
   mapEmbed= "",
 } = Astro.props;
@@ -77,17 +78,25 @@ const hasContent = Astro.slots.default;
 
     {
       showSchedule
-      && scheduleTime
-      && dayTimeArray
       &&
-      <h4>📆 {scheduleTitle} {scheduleSubTiTle}</h4>
-      <h5>{scheduleTime} (ÂL) {scheduleRepeat}</h5>
+      <h4>📆 {scheduleTitle}</h4>
+      <h4>{scheduleSubTiTle}</h4>
+      <h5>{scheduleTime && scheduleTime + ' (ÂL)'} {scheduleSubTiTle !== "Hàng Ngày" && scheduleRepeat}</h5>
       <ul>
         <li>Khuya: <b>{dayTimeArray[0]}</b></li>
         <li>Sáng: <b>{dayTimeArray[1]}</b></li>
         <li>Chiều: <b>{dayTimeArray[2]}</b></li>
         <li>Tối: <b>{dayTimeArray[3]}</b></li>
       </ul>
+
+      <hr />
+    }
+
+    {
+      duration
+      &&
+      <h4>⏰ Giờ mở Của</h4>
+      <p class="text-accent">{duration} (Hàng Ngày)</p>
 
       <hr />
     }

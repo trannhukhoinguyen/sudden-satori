@@ -50,7 +50,7 @@ export const config: SiteConfig = {
   base: import.meta.env.BASE_URL,
 
   // số bài trên 1 trang (dùng cho phân trang, recentPosts,...)
-  postsPerPage: 5,
+  postsPerPage: 6,
 
   collections: [
     "health",

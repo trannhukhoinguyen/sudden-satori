@@ -54,6 +54,22 @@ const { frontmatter } = Astro.props;
     }
 
     {
+        // YouTube playlist
+        frontmatter?.videoPlaylists?.length &&
+      frontmatter?.videoPlaylists?.map((videoPlaylist: any, index: number) => (
+          <div class="video-container playlist">
+              <iframe
+                src={`https://www.youtube.com/embed/videoseries?list=${videoPlaylist}`}
+                title={`${frontmatter.title} - ${index + 1}`}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                width="100%"
+              ></iframe>
+          </div>
+      ))
+    }
+
+    {
         // Single audio
         frontmatter?.audioUrl && (
           <div>

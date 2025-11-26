@@ -157,7 +157,7 @@ const masters = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    image: z.string().optional().default("/images/square/meta-image-square-1.jpg"),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/square/meta-image-square-1.jpg"),
   }),
 });
 
@@ -217,6 +217,16 @@ const films = defineCollection({
   }),
 });
 
+const gallery = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/gallery" }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string().optional(),
+      cover: image(),
+    }),
+});
+
 export const collections = {
   blogs,
   places,
@@ -232,4 +242,5 @@ export const collections = {
   health,
   precepts,
   films,
+  gallery,
 };

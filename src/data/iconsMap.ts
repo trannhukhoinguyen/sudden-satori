@@ -42,9 +42,9 @@ const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
   },
 
   practices: {
-    'Giới thiệu': '🎨',
+    'Giới thiệu': '🎯',
     'Chưa phân loại': '🧩',
-    categorized: '🎯',
+    categorized: '⏰',
   },
 
   blogs: {
