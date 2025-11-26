@@ -96,7 +96,7 @@ const hasContent = Astro.slots.default;
       duration
       &&
       <h4>⏰ Giờ mở Của</h4>
-      <p class="text-accent">{duration} (Hàng Ngày)</p>
+      <p class="text-accent">{duration} {duration !== "Cả Ngày" && "Hàng Ngày"}</p>
 
       <hr />
     }

@@ -10,17 +10,27 @@ import ICONS_MAP, { type CollectionType } from "@/data/iconsMap";
 import FlatTags from "../../components/post/FlatTags.astro";
 import OtherPostList from "../../components/postList/OtherPostList.astro";
 import BoxedPostList from "../../components/postList/BoxedPostList.astro";
+import { PostTitleWithSlug } from "../../types";
+import { toKebabCase } from "../../utils/helper";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) => {
     const posts = data.posts;
     const totalPages = Math.ceil(posts.length / config.postsPerPage);
+    const titleList: PostTitleWithSlug[] = posts?.map(post => {
+      const { frontmatter } = post as any;
+      return {
+        title: frontmatter?.title,
+        slug: toKebabCase(frontmatter?.title),
+        }
+      });
 
     return Array.from({ length: totalPages }, (_, i) => ({
       params: { collection, page: String(i + 1) },
       props: {
         collection,
         posts,
+        titleList,
         page: i + 1,
         totalPages,
         pageNum: parseInt(String(i + 1)),
@@ -32,6 +42,7 @@ export async function getStaticPaths() {
 const {
   collection,
   posts,
+  titleList,
   page,
   totalPages,
   pageNum
@@ -60,6 +71,7 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
         ICONS_MAP[collection]
             ? <BoxedPostList
                 collection={collection}
+                titleList={titleList}
                 posts={posts}
                 page={page}
                 icons={ICONS_MAP[collection]}
