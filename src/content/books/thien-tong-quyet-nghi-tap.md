@@ -9,6 +9,7 @@ categories:
   - Thực hành
   - Ngữ lục
 tags:
+  - QUYẾT NGHI & LẬP CHÍ
   - TS ĐOẠN VÂN TRÍ TRIỆT
 image: /images/books/21-gates.jpg
 showInHomepage: true
