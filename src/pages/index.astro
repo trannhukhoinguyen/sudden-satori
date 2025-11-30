@@ -15,8 +15,8 @@ import HTTDL from "../components/special/HTTDL.astro";
 const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
 const tagLine1 = "Khi chưa có trời đất, ta là cái gì?";
-const tagLine2 = "Muôn pháp về một, một về chổ nào?";
-const tagLine3 = " Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?";
+const tagLine2 = "Muôn pháp về một, một về chỗ nào?";
+const tagLine3 = "Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?";
 const tagLine4 = "Sanh từ đâu đến, chết đi về đâu?";
 const tagLine5 = "Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì?";
 
@@ -163,7 +163,6 @@ const description = "Xem " + title;
     <section class="blog-section" id="blogs">
       <div class="container">
         <h2 class="section-title">Bài viết</h2>
-        <p class="blog-description tag-line-accent">{tagLine3}</p>
 
         {blogPosts.length > 0 && (
           <div class="blog-posts">
@@ -181,6 +180,8 @@ const description = "Xem " + title;
         <div class="blog-actions">
           <a href={`${import.meta.env.BASE_URL}blogs`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
         </div>
+
+        <p class="blog-description tag-line-accent">{tagLine3}</p>
       </div>
     </section>
 
@@ -205,10 +206,9 @@ const description = "Xem " + title;
     <!-- Principle Section -->
     <section class="typography-showcase">
       <div class="container">
-        <h2 class="section-title">2 Tâm Niệm</h2>
-        <p class="blog-description tag-line-accent">{tagLine5}</p>
+        <h2 class="section-title">HAI Tâm Niệm</h2>
         <p class="typography-description">
-          Muốn đạt đến kiến tánh giải thoát, hành giả tham tổ sư thiền cần phải thực hành đúng theo cơ bản như sau.
+          Muốn đạt đến kiến tánh giải thoát, hành giả tham tổ sư thiền cần phải thực hành đúng theo cơ bản như sau
         </p>
 
         <div class="typography-samples">
@@ -227,6 +227,8 @@ const description = "Xem " + title;
             </div>)
           }
         </div>
+
+        <p class="blog-description tag-line-accent">{tagLine5}</p>
       </div>
     </section>
 
