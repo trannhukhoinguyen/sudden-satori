@@ -5,7 +5,7 @@ description: ""
 excerpt: ''
 categories:
   - FAQ
-  - Ngữ Lục
+  - VẤN ĐÁP
 tags:
   - TS THÍCH DUY LỰC
 videoIds:
