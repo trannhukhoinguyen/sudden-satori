@@ -64,8 +64,8 @@ const rules: rule[] = [
   {
     id: 8,
     title: "KHÔNG LỌT VÔ KÝ",
-    description: "Tham thiền nên tránh lọt vào \"Vô ký-không\". Pháp môn khác chỉ cầu được dứt niệm, nhưng tham thiền trái lại không cho dứt niệm tức là nghi tình phải luôn luôn tiếp tục, không cho gián đoạn. / " +
-        "Nếu không có nghi tình cũng không có vọng tưởng thì lọt vào Vô ký-không là một thứ thiền bệnh, Tổ Sư gọi là \"ngâm nước chết\", mặc dù lúc ấy cảm thấy được thanh thanh tịnh tịnh, trong mình cảm thấy nhẹ nhàng nhưng chấp lấy cái đó thì vĩnh viễn không được kiến tánh, chẳng thà có nghi tình, có vọng tưởng còn tốt hơn. Vậy tham thiền nếu chưa đến thoại đầu chớ nên bỏ câu thoại. Có người bỏ câu thoại vẫn còn nghi tình cho là tốt, thực thì không đúng vì có thể bị gián đoạn một khoảng thời gian lâu mà tự mình không hay, lại cũng dễ bị lọt vào vô Ký không nữa."
+    description: "Tham thiền nên tránh lọt vào \"Vô ký không\". Pháp môn khác chỉ cầu được dứt niệm, nhưng tham thiền trái lại không cho dứt niệm tức là nghi tình phải luôn luôn tiếp tục, không cho gián đoạn. / " +
+        "Nếu không có nghi tình cũng không có vọng tưởng thì lọt vào Vô ký không là một thứ thiền bệnh, Tổ Sư gọi là \"ngâm nước chết\". Mặc dù lúc ấy cảm thấy được thanh thanh tịnh tịnh, trong mình cảm thấy nhẹ nhàng nhưng chấp lấy cái đó thì vĩnh viễn không được kiến tánh, chẳng thà có nghi tình, có vọng tưởng còn tốt hơn. Vậy tham thiền nếu chưa đến thoại đầu chớ nên bỏ câu thoại. Có người bỏ câu thoại vẫn còn nghi tình cho là tốt, thực thì không đúng vì có thể bị gián đoạn một khoảng thời gian lâu mà tự mình không hay, lại cũng dễ bị lọt vào Vô ký không nữa."
   },
   {
     id: 9,
