@@ -4,7 +4,8 @@ description: ""
 categories:
   - Luận
 tags:
-  - Kinh Kim Cang Bát Nhã
+  - Kinh Kim Cang
+image: /images/backgrounds/wide/sun-down.jpg
 videoIds:
   - cqlk-4E9_4RA
 ---

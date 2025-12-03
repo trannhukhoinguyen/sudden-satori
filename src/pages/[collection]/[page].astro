@@ -7,9 +7,10 @@ import Pagination from "../../components/page/Pagination.astro";
 import { CONTENT_MAP } from "../../utils/getMarkdownContent";
 import { config } from "@/config";
 import ICONS_MAP, { type CollectionType } from "@/data/iconsMap";
-import FlatTags from "../../components/post/FlatTags.astro";
+import TagFilterButtons from "../../components/post/TagFilterButtons.astro";
 import OtherPostList from "../../components/postList/OtherPostList.astro";
 import BoxedPostList from "../../components/postList/BoxedPostList.astro";
+import MasterBoxedPostList from "../../components/postList/MasterBoxedPostList.astro";
 import { PostTitleWithSlug } from "../../types";
 import { toKebabCase } from "../../utils/helper";
 
@@ -66,23 +67,33 @@ const description = `${config.categoryDescriptions[collection as keyof typeof co
       <hr class="blog-rule" />
     </header>
 
+    <div>
+      <!-- All Collection Tags Section -->
+      <!--<TagFilterButtons collection={collection} />-->
+    </div>
+
 <!-- Post List Section -->
     {posts.length > 0 ? (
         ICONS_MAP[collection]
-            ? <BoxedPostList
-                collection={collection}
-                titleList={titleList}
-                posts={posts}
-                page={page}
-                icons={ICONS_MAP[collection]}
-            />
+            ? collection === "masters"
+              ? <MasterBoxedPostList
+                  collection={collection}
+                  titleList={titleList}
+                  posts={posts}
+                  page={page}
+                  icons={ICONS_MAP[collection]}
+              />
+              : <BoxedPostList
+                  collection={collection}
+                  titleList={titleList}
+                  posts={posts}
+                  page={page}
+                  icons={ICONS_MAP[collection]}
+                />
             : <OtherPostList posts={posts} page={page} />
 
          <!-- Pagination Section -->
         <Pagination page={pageNum} totalPages={totalPages} category={collection} />
-
-<!-- All Collection Tags Section -->
-        <FlatTags collection={collection} />
 
     ) : (
         <div class="no-posts">

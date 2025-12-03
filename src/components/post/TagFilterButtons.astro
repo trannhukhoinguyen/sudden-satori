@@ -1,0 +1,64 @@
+---
+import "@/styles/additional/TagFilterButtons.css";
+import { TAG_MAP } from "@/utils/getMarkdownContent";
+
+const { collection } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+let allTags = [];
+
+if (!collection) {
+  // trang /badges
+  allTags = Object.entries(TAG_MAP);
+} else {
+  // trang category
+  const flat = TAG_MAP[collection]?.flatTags || [];
+  allTags = flat.map(tag => [
+    tag,
+    {
+      posts: TAG_MAP[collection].posts.filter(p =>
+        p.frontmatter.tags?.includes(tag)
+      )
+    }
+  ]);
+}
+const type = "tag";
+---
+
+{
+  !collection
+    ?   <div class="alphabet-list">
+    { allTags.map(([badge, { posts }]) => (
+      <button @click="" class="alphabet">
+        <span class="button-text-accent">{badge}</span>
+        ({posts.length} bài viết)
+      </button>
+    )) }
+    { allTags.length === 0 && (<div class="no-badge"><p>Chưa có ${type} nào.</p></div>) }
+  </div>
+
+    :   <div class="alphabet-list">
+    {allTags.map(([badge, { posts }]) => (
+      <button @click="" class="alphabet">
+        <span class="button-text-accent">{badge}</span>
+        ({posts.length} bài viết)
+      </button>
+    ))}
+  </div>
+}
+
+<script>
+  const buttons = document.querySelectorAll("#tag-buttons .alphabet");
+
+  document.addEventListener("DOMContentLoaded", () => {
+    buttons.forEach(btn => {
+      btn.addEventListener("click", () => {
+        const tag = btn.dataset.tag;
+        // gửi event cho component cha
+        window.dispatchEvent(
+          new CustomEvent("tag:selected", { detail: { tag } })
+        );
+      });
+    });
+  });
+</script>

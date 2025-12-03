@@ -7,6 +7,7 @@ categories:
 tags:
   - Tông Cảnh Lục
   - TS VĨNH MINH DIÊN THỌ
+image: /images/backgrounds/wide/grey-mountain.jpg  
 ---
 
 Tông Cảnh Lục (中文：宗鏡錄, Zōngjìng lù) thường được gọi là Record of the Source Mirror hoặc Record of the Mirror of the Source, đôi khi còn được dịch là Records of the Mirror of Principle

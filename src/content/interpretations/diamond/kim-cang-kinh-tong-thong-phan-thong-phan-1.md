@@ -6,9 +6,12 @@ authors:
 categories:
   - Luận
 tags:
-  - Kinh Kim Cang Bát Nhã
+  - Kinh Kim Cang Tông Thông
   - Tông Thông
+image: /images/backgrounds/wide/sun-down.jpg
 pdfUrl: /pdfs/kinh-kim-cang-tong-thong.pdf
+videoIds:
+  - czqowMgrPic
 ---
 
 NAM NHẠC SƠN TRƯƠNG KIM GIẢN TĂNG PHỤNG NGHI THUẤN TRƯNG THIẾT ĐỀ.

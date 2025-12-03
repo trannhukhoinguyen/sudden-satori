@@ -7,7 +7,7 @@ categories:
 tags: 
   - Kinh Viên Giác
   - HT Thích Duy Lực
-draft: false
+image: /images/backgrounds/wide/silver-1.png
 pdfUrl: /pdfs/sutras/kinh-Vien-Giac.pdf
 videoId: Hn5d-QS9B8o
 ---

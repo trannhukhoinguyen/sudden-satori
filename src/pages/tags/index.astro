@@ -4,7 +4,8 @@ import { TAG_MAP } from "../../utils/getMarkdownContent";
 import AllBadges from "../../components/post/AllBadges.astro";
 
 const title = "🎏 Tag";
-const type = "tags";
+const type = "tag";
+const path = "tags";
 const description = "Xem tất cả Tag";
 const allTags = Object.entries(TAG_MAP);
 ---
@@ -16,6 +17,6 @@ const allTags = Object.entries(TAG_MAP);
       <hr class="page-rule" />
     </header>
 
-    <AllBadges allBadges={allTags} type={type} />
+    <AllBadges allBadges={allTags} path={path} type={type} />
   </div>
 </Layout>

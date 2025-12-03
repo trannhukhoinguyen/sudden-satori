@@ -7,7 +7,7 @@ categories:
   - Luận
 tags:
   - KINH LĂNG GIÀ
-image: /images/backgrounds/unknown-zen-master-on-sea.jpg
+image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 videoId: vwOi8UCTCp0
 ---
 

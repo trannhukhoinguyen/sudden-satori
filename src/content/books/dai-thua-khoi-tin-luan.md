@@ -10,7 +10,7 @@ categories:
 tags:
   - LUẬN
   - Tổ MÃ MINH
-image: /images/books/waterfall.jpg
+image: /images/backgrounds/wide/white-3.jpg
 pdfUrl: /pdfs/books/dai-thua-khoi-tin-luan.pdf
 videoIds: 
   - 6cwvOQJVDpE

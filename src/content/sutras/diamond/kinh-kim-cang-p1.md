@@ -7,8 +7,10 @@ categories:
 tags: 
   - Kinh Kim Cang Bát Nhã
   - HT Thích Duy Lực
+image: /images/backgrounds/wide/sun-down.jpg
 pdfUrl: /pdfs/sutras/kinh-Kim-Cang.pdf
-videoId: jSTiO_SVmr8
+videoIds: 
+  - jSTiO_SVmr8
 ---
 
 ## MỤC LỤC 

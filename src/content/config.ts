@@ -157,7 +157,7 @@ const masters = defineCollection({
     excerpt: z.string().optional(),
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/square/meta-image-square-1.jpg"),
+    image: z.union([z.string(), z.object({}).passthrough()]).optional().default("/images/unknown-zen-master.jpg"),
   }),
 });
 

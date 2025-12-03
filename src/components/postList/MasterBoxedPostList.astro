@@ -56,8 +56,10 @@ const postsGroupedBySpecialTag = groupsSorted
 
                         <!-- Image Section -->
                         <section class="image-area">
-                            <PostImage imageUrl={post.frontmatter.image} imageAlt={post.frontmatter.title}
-                                       height="100px"/>
+                            <PostImage
+                              imageUrl={post.frontmatter.image ?? '/images/unknown-zen-master.jpg'}
+                              imageAlt={post.frontmatter.title}
+                              height="100px"/>
                         </section>
 
                         <div class="boxed-post-meta">

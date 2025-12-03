@@ -4,10 +4,10 @@ description: ""
 excerpt: ""
 categories:
   - Kinh
-image: /images/backgrounds/unknown-zen-master-on-sea.jpg
 tags: 
   - Kinh Thủ Lăng Già
   - HT Thích Duy Lực
+image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 pdfUrl: /pdfs/sutras/kinh-Lang-Gia.pdf
 videoId: vwOi8UCTCp0
 videoStart: 10054

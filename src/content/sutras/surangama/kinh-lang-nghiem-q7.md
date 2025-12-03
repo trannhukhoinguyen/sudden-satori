@@ -7,6 +7,7 @@ categories:
 tags: 
   - Kinh Thủ Lăng Nghiêm
   - HT Thích Duy Lực
+image: /images/backgrounds/wide/zen-space.jpeg
 pdfUrl: /pdfs/sutras/kinh-Lang-Nghiem.pdf
 pdfUrl2: /pdfs/sutras/chu-Lang-Nghiem-mobile.pdf
 videoId: "MeKCZ_DuSjk"

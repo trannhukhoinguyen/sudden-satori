@@ -8,5 +8,6 @@ categories:
   - VẤN ĐÁP
 tags:
   - TS THÍCH DUY LỰC
+image: /images/two-unknown-zen-masters.jpg
 videoPlaylist: PLloP8X4QBlxO_CQlB6GpBUvlr5vVvgR-N
 ---

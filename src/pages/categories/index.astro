@@ -4,7 +4,8 @@ import { CATEGORY_MAP } from "../../utils/getMarkdownContent";
 import AllBadges from "../../components/post/AllBadges.astro";
 
 const title = "📦 Category";
-const type = "categories";
+const type = "category";
+const path = "categories";
 const description = "Xem tất cả Category";
 const allCategories = Object.entries(CATEGORY_MAP);
 ---
@@ -16,6 +17,6 @@ const allCategories = Object.entries(CATEGORY_MAP);
       <hr class="page-rule" />
     </header>
 
-    <AllBadges allBadges={allCategories} type={type} />
+    <AllBadges allBadges={allCategories} type={type} path={path} />
   </div>
 </Layout>

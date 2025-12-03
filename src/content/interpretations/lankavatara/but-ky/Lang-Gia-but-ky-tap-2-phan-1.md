@@ -10,6 +10,7 @@ categories:
 tags:
   - KINH LĂNG GIÀ
   - Bút Ký
+image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 ---
 
 
