@@ -7,6 +7,7 @@ categories:
 tags:
   - Video Khoa Học
 videoPlaylist: PLA7qBSMZgp0wzdyePf5E4gXbQCL8QaZef
+videoSrc: https://youtube.googleapis.com/embed/?autohide=1&amp;ps=docs&amp;enablecastapi=0&amp;hl=en&amp;partnerid=30&amp;post_message_origin=https%3A%2F%2Fdrive.google.com&amp;origin=https%3A%2F%2Fdrive.google.com&amp;hbenv=apps-elements&amp;enablejsapi=1
 ---
 
 ## DANH SÁCH VIDEO KHOA HỌC THUYẾT MINH TÁNH KHÔNG
