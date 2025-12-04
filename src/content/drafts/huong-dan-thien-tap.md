@@ -1425,4 +1425,4 @@ Tham thiền khi tới trình độ tinh diệu, không những vọng tưởng 
 
 ## NGUỒN
 
-> 🔗 <a href="https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9" target="_blank">vanphatthanh</a>
+🔗 <a href="https://vanphatthanh.org/huong-dan-thien-tap/#HDThien9" target="_blank">vanphatthanh</a>

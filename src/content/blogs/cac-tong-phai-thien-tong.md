@@ -204,7 +204,7 @@ Tham chiếu: Cảnh Đức truyền đăng lục (景德传灯录卷十九), T�
 
 ## NGUỒN
 
-> 🔗 <a href="https://www.daophatngaynay.com/vn/en/tai-lieu/tu-dien-tham-khao/33106-tu-dien-phat-hoc-van-a-z-2010-muc-tu-ngay-0212023.html" target="_blank">daophatngaynay.com</a>
+🔗 <a href="https://www.daophatngaynay.com/vn/en/tai-lieu/tu-dien-tham-khao/33106-tu-dien-phat-hoc-van-a-z-2010-muc-tu-ngay-0212023.html" target="_blank">daophatngaynay.com</a>
 
 <hr class="blog-rule" />
 

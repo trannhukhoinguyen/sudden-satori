@@ -212,4 +212,4 @@ Về sau Tổ Sư Thiền còn phát triển những phương pháp thực hành
 
 ## NGUỒN
 
-> 🔗 <a href="https://duylucthien.wordpress.com/2020/06/17/tu-hanh-theo-to-su-thien-la-gi/" target="_blank">duylucthien</a>
+🔗 <a href="https://duylucthien.wordpress.com/2020/06/17/tu-hanh-theo-to-su-thien-la-gi/" target="_blank">duylucthien</a>

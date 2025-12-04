@@ -731,7 +731,7 @@ Quyển sách này lưu hành, sẽ cùng các tác phẩm Lâm Gian Lục, Th�
 
 ## NGUỒN
 
-> 🔗 <a href="https://sachweb.com/publishview/sonamtapluc_id880/sonamtapluc_id880.aspx#" target="_blank">NXB Tổng Hợp TP.HCM</a>
+🔗 <a href="https://sachweb.com/publishview/sonamtapluc_id880/sonamtapluc_id880.aspx#" target="_blank">NXB Tổng Hợp TP.HCM</a>
 
 <hr class="blog-rule" />
 

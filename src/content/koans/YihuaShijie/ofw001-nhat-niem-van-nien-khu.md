@@ -49,7 +49,7 @@ Lúc ấy Cửu Phong vỗ vai tử thi và nói:
 
 ## NGUỒN
 
-> 🔗 <a href="https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html" target="_blank">thamtosuthien.net</a>
+🔗 <a href="https://thamtosuthien.net/bai-viet/tong-chi-cua-thien-27.html" target="_blank">thamtosuthien.net</a>
 
 <hr class="blog-rule" />
 

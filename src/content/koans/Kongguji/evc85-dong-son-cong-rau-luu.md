@@ -170,7 +170,7 @@ Không nghe trong kinh Pháp Hoa nói sao: Dừng dùng không cần nói nữa.
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

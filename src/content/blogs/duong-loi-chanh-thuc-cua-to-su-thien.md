@@ -71,5 +71,5 @@ Từ đầu sào trăm thước tiến thêm một bước nữa là kiến tán
 
 ## NGUỒN
 
-> 🔗 <a href="https://tosuthien.com/2022/03/31/duong-loi-thuc-hanh-tham-to-su-thien/" target="_blank">tosuthien</a>
+🔗 <a href="https://tosuthien.com/2022/03/31/duong-loi-thuc-hanh-tham-to-su-thien/" target="_blank">tosuthien</a>
 

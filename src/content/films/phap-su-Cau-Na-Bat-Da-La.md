@@ -64,6 +64,6 @@ Một Bà-la-môn ngoại đạo cao tuổi, là đệ tử cuối cùng của �
 
 ## NGUỒN
 
-> 🔗 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/cau-na-bat-da-la-k423.html" target="_blank">phatgiao.org.vn</a>
+🔗 <a href="https://phatgiao.org.vn/tu-dien-phat-hoc-online/cau-na-bat-da-la-k423.html" target="_blank">phatgiao.org.vn</a>
 >
-> 🔗 <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/cau-na-bat-da-la/" target="_blank">phapthihoi.org</a>
+🔗 <a href="https://blog.phapthihoi.org/tu-dien-phat-giao/cau-na-bat-da-la/" target="_blank">phapthihoi.org</a>

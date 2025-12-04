@@ -129,7 +129,7 @@ Nếu hội được như thế thì tốt lành làm sao!
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

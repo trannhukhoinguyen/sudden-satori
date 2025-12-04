@@ -64,6 +64,6 @@ không lệ thuộc tử sinh
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a18975/100-ngay-doc-cu" target="_blank">thuvienhoasen</a>
 
 > 🎧 [Youtube videoIds]: videoIds: P1- u3fyx4XJS34, P2- be9fPdQMizI, P3- D5xi9vhu2zA, P4- UWB9ZxSI9z8

@@ -7,6 +7,21 @@ const { frontmatter } = Astro.props;
 ---
 
 <div class="mb-8 space-y-6">
+  {
+    // Single video NOT YOUTUBE
+        frontmatter?.videoSrc && (
+      <div class="video-container">
+        <iframe
+          src={frontmatter.videoSrc}
+          title={frontmatter.title}
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          width="100%"
+        ></iframe>
+      </div>
+    )
+  }
+
     {
         // Single video
         frontmatter?.videoId && (
@@ -54,7 +69,7 @@ const { frontmatter } = Astro.props;
     }
 
     {
-        // YouTube playlist
+        // YouTube playlists
         frontmatter?.videoPlaylists?.length &&
       frontmatter?.videoPlaylists?.map((videoPlaylist: any, index: number) => (
           <div class="video-container playlist">

@@ -62,9 +62,9 @@ Bằng không, há người chẳng bằng vật ư!
 
 ## NGUỒN
 
-> 🔗 <a href="https://taidayvabaygio.org/tho-tam-dung-mien-mat-dung-lai-qua-thien-su.html" target="_blank">taidayvabaygio.org</a>
+🔗 <a href="https://taidayvabaygio.org/tho-tam-dung-mien-mat-dung-lai-qua-thien-su.html" target="_blank">taidayvabaygio.org</a>
 
-> 🔗 <a href="https://thuvienhoasen.org/a16771/tham-thien-pho-thuyet" target="_blank">thuvienhoasen.org</a>
+🔗 <a href="https://thuvienhoasen.org/a16771/tham-thien-pho-thuyet" target="_blank">thuvienhoasen.org</a>
 
 > 🎈 Trích - <a href="/books/tham-thien-pho-thuyet" target="_blank">THAM THIỀN PHỔ THUYẾT</a>
 

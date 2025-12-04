@@ -95,13 +95,13 @@ Nếu như không có tiếng gì thì mới qua sông được. Nếu như các
 
 ## NGUỒN
 
-> 🔗 <a href="https://hoavouu.com/a12745/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon" target="_blank">hoavouu</a>
+🔗 <a href="https://hoavouu.com/a12745/tac-thu-hai-muoi-mot-hoa-sen-cua-tri-mon" target="_blank">hoavouu</a>
 >
-> 🔗 <a href="https://quangduc.com/p1241a43259/8-tac-20-tac-22" target="_blank">quangduc</a>
+🔗 <a href="https://quangduc.com/p1241a43259/8-tac-20-tac-22" target="_blank">quangduc</a>
 >
-> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">hoavouu</a>
+🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-03" target="_blank">hoavouu</a>
 >
-> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">phatphapungdung</a>
+🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/3" target="_blank">phatphapungdung</a>
 
 <hr class="blog-rule" />
 

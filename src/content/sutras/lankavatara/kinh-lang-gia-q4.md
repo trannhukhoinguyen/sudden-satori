@@ -1088,7 +1088,7 @@ Hãy chú ý nghe và khéo ghi nhớ, Ta sẽ vì ngươi mà thuyết.
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

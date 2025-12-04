@@ -222,13 +222,13 @@ Thử nói xem ý của thầy ta ở chỗ nào? Đừng có nói là người 
 
 ## NGUỒN
 
-> 🔗 <a href="https://hoavouu.com/a12724/tac-thu-nhi-chi-dao-vo-nan-cua-trieu-chau" target="_blank">**TẮC 2** - hoavouu.com</a>
+🔗 <a href="https://hoavouu.com/a12724/tac-thu-nhi-chi-dao-vo-nan-cua-trieu-chau" target="_blank">**TẮC 2** - hoavouu.com</a>
 >
-> 🔗 <a href="https://quangduc.com/p1241a43253/2-tac-01-tac-03" target="_blank">**TẮC 2** - quangduc.com</a>
+🔗 <a href="https://quangduc.com/p1241a43253/2-tac-01-tac-03" target="_blank">**TẮC 2** - quangduc.com</a>
 >
-> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">**TẮC 2** - tuvien.com</a>
+🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-01" target="_blank">**TẮC 2** - tuvien.com</a>
 >
-> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">**TẮC 2** - phatphapungdung.com</a>
+🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/1" target="_blank">**TẮC 2** - phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

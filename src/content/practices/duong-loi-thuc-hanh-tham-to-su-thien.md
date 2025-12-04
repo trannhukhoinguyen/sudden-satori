@@ -56,11 +56,11 @@ Cái sát na lìa ý thức đó gọi là Kiến tánh thành Phật, tức là
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a9139/duong-loi-tham-to-su-thien" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a9139/duong-loi-tham-to-su-thien" target="_blank">thuvienhoasen</a>
 
-> 🔗 <a href="https://phatpahpungdung.com/sach-noi/duong-loi-thuc-hanh-tham-to-su-thien-63361.html" target="_blank">phatpahpungdung</a>
+🔗 <a href="https://phatpahpungdung.com/sach-noi/duong-loi-thuc-hanh-tham-to-su-thien-63361.html" target="_blank">phatpahpungdung</a>
 
-> 🔗 <a href="https://tosuthien.net/" target="_blank">tosuthien.net</a>
+🔗 <a href="https://tosuthien.net/" target="_blank">tosuthien.net</a>
 
 <hr class="blog-rule" />
 

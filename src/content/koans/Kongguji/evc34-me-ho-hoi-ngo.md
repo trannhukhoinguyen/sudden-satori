@@ -134,7 +134,7 @@ Cho dù điệu ngộ này hiện ra cũng không hai dạng.
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

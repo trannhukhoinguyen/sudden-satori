@@ -3746,7 +3746,7 @@ Một ông tăng hỏi :
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a18386/trieu-chau-ngu-luc" target="_blank">thuvienhoasen.org</a>
+🔗 <a href="https://thuvienhoasen.org/a18386/trieu-chau-ngu-luc" target="_blank">thuvienhoasen.org</a>
 
 <hr class="blog-rule" />
 

@@ -775,9 +775,9 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">thuvienhoasen</a>
 
-> 🔗 <a href="https://tangthuphathoc.net/thien-tong-quyet-nghi-tap/" target="_blank">tangthuphathoc.net</a>
+🔗 <a href="https://tangthuphathoc.net/thien-tong-quyet-nghi-tap/" target="_blank">tangthuphathoc.net</a>
 
 <hr class="blog-rule" />
 

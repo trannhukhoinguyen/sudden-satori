@@ -129,7 +129,7 @@ Cơ rô, ý này chăng?
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

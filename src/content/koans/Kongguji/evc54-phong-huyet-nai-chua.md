@@ -112,7 +112,7 @@ Chính ngay lúc này làm sao biết rõ.
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

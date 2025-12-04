@@ -81,7 +81,7 @@ Như Lai vàng theo lời này thọ nhận bình. Không bao lâu Như Lai thà
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

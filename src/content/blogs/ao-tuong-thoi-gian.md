@@ -118,7 +118,7 @@ Rõ ràng là, sự thay thế duy nhất là hãy chìm vào một “ảo tư�
 
 ## NGUỒN
 
-> 🔗 <a href="https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html" target="_blank">thamtosuthien.net</a>
+🔗 <a href="https://thamtosuthien.net/suu-tam/co-phai-thoi-gian-chi-la-ao-giac-25.html" target="_blank">thamtosuthien.net</a>
 
-> 🔗 <a href="https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/" target="_blank">duylucthien.wordpress.com</a>
+🔗 <a href="https://duylucthien.wordpress.com/2013/04/20/y-nghia-cua-thoi-gian/" target="_blank">duylucthien.wordpress.com</a>
 

@@ -118,7 +118,7 @@ Sau khi xuất định, không để ý mà vẫn hiện oai nghi, được vậ
 
 ## NGUỒN
 
-> 🔗 <a href="https://www.thienlam.org/news/HT-Thich-Thanh-Tu-22/Toa-Thien-Dung-Tam-Ky-126/" target="_blank">thienlam.org</a>
+🔗 <a href="https://www.thienlam.org/news/HT-Thich-Thanh-Tu-22/Toa-Thien-Dung-Tam-Ky-126/" target="_blank">thienlam.org</a>
 
 <hr class="blog-rule" />
 

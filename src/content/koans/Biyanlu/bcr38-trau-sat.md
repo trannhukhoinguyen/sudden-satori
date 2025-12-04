@@ -96,13 +96,13 @@ Trong một câu của Phong Huyệt đã có đầy đủ cả thương giáp c
 
 ## NGUỒN
 
-> 🔗 <a href="https://hoavouu.com/a12763/tac-thu-ba-muoi-tam-trau-sat-cua-phong-huyet" target="_blank">hoavouu.com</a>
+🔗 <a href="https://hoavouu.com/a12763/tac-thu-ba-muoi-tam-trau-sat-cua-phong-huyet" target="_blank">hoavouu.com</a>
 >
-> 🔗 <a href="https://quangduc.com/p1241a43263/12-tac-35-tac-38" target="_blank">quangduc.com</a>
+🔗 <a href="https://quangduc.com/p1241a43263/12-tac-35-tac-38" target="_blank">quangduc.com</a>
 >
-> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">tuvien.com</a>
+🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-04" target="_blank">tuvien.com</a>
 >
-> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">phatphapungdung.com</a>\
+🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/4" target="_blank">phatphapungdung.com</a>\
 
 <hr class="blog-rule" />
 

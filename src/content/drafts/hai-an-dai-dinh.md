@@ -147,4 +147,4 @@ Nguyên lý một người mù dẫn một nhóm người mù là, đúng ra, m�
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a20796/hai-an-dai-dinh" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a20796/hai-an-dai-dinh" target="_blank">thuvienhoasen</a>

@@ -105,13 +105,13 @@ Nhưng mà có gì là nhằm nhò đâu? Đâu có biết rằng hai cái sai n
 
 ## NGUỒN
 
-> 🔗 <a href="https://hoavouu.com/a12830/tac-thu-chin-muoi-tam-hai-cai-sai-cua-thien-binh-hoa-thuong" target="_blank">hoavouu.com</a>
+🔗 <a href="https://hoavouu.com/a12830/tac-thu-chin-muoi-tam-hai-cai-sai-cua-thien-binh-hoa-thuong" target="_blank">hoavouu.com</a>
 >
-> 🔗 <a href="https://quangduc.com/p1241a43276/25-tac-96-tac-98" target="_blank">quangduc.com</a>
+🔗 <a href="https://quangduc.com/p1241a43276/25-tac-96-tac-98" target="_blank">quangduc.com</a>
 >
-> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10" target="_blank">tuvien.com</a>
+🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-10" target="_blank">tuvien.com</a>
 >
-> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10" target="_blank">phatphapungdung.com</a>
+🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/10" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

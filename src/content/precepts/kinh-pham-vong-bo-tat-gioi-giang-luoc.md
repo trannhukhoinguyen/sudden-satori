@@ -475,4 +475,4 @@ Nếu mình ăn ngũ tân, hộ pháp thần thấy hôi nên không ủng hộ,
 
 ## NGUỒN
 
-> 🔗 <a href="https://thegioiphatgiao.org/luat/gioi-bo-tat-pham-vong/kinh-pham-vong-bo-tat-gioi-giang-luoc-ht-thich-duy-luc.html" target="_blank">thegioiphatgiao</a>
+🔗 <a href="https://thegioiphatgiao.org/luat/gioi-bo-tat-pham-vong/kinh-pham-vong-bo-tat-gioi-giang-luoc-ht-thich-duy-luc.html" target="_blank">thegioiphatgiao</a>

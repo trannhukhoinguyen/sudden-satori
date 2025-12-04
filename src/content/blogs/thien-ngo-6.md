@@ -693,7 +693,7 @@ Cành cây lay động, làm kinh động vô số những con bươm bướm đ
 
 ## NGUỒN
 
-> 🔗 <a href="https://daophatkhatsi.vn/thien-ngo-phan-6.html" target="_blank"></a>
+🔗 <a href="https://daophatkhatsi.vn/thien-ngo-phan-6.html" target="_blank"></a>
 
 <hr class="blog-rule" />
 

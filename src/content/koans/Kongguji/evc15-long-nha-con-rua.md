@@ -152,7 +152,7 @@ Thiền nhân có mắt, nên cẩn thận.
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

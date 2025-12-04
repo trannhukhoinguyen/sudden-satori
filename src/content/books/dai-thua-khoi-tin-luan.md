@@ -24,9 +24,9 @@ Theo truyền thống cho biết, tác giả là đại sư kiêm thi hào ngư�
 
 ## NGUỒN
 
-> 🔗 <a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_th%E1%BB%ABa_kh%E1%BB%9Fi_t%C3%ADn_lu%E1%BA%ADn" target="_blank">wikipedia</a>
+🔗 <a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_th%E1%BB%ABa_kh%E1%BB%9Fi_t%C3%ADn_lu%E1%BA%ADn" target="_blank">wikipedia</a>
 
-> 🔗 <a href="https://thuvienhoasen.org/a26756/luan-dai-thua-khoi-tin" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a26756/luan-dai-thua-khoi-tin" target="_blank">thuvienhoasen</a>
 
 <hr class="blog-rule" />
 

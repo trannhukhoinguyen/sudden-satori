@@ -116,7 +116,7 @@ Thầy Hàn Tử đem ví dụ này dụ cho chí đạo mọi người không n
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

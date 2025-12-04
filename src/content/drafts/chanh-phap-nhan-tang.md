@@ -30,9 +30,9 @@ Ngày nay, Phật Giáo Thiền Tào Động của sư là tông phái đông ng
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a28880/chanh-phap-nhan-tang" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a28880/chanh-phap-nhan-tang" target="_blank">thuvienhoasen</a>
 
-> 🔗 <a href="https://gnosisvn.org/2021/10/14/chanh-phap-nhan-tang/" target="_blank">gnosisvn.org</a>
+🔗 <a href="https://gnosisvn.org/2021/10/14/chanh-phap-nhan-tang/" target="_blank">gnosisvn.org</a>
 
 <hr class="blog-rule" />
 

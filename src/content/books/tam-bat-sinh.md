@@ -57,9 +57,9 @@ Lối giảng dạy của Bankei cho ta thấy rằng không cần phải làm n
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a17038/tam-bat-sinh" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a17038/tam-bat-sinh" target="_blank">thuvienhoasen</a>
 
-> 🔗 <a href="https://terebess.hu/zen/mesterek/BankeiHaskel.pdf" target="_blank">terebess.hu</a>
+🔗 <a href="https://terebess.hu/zen/mesterek/BankeiHaskel.pdf" target="_blank">terebess.hu</a>
 
 <hr class="blog-rule" />
 

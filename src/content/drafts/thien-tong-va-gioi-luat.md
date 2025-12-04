@@ -249,7 +249,7 @@ Dựa trên những công trình nghiên cứu của tôi trong những năm qua
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a36279/thien-tong-va-gioi-luat-phat-giao-thanh-thi-va-phat-giao-trong-nui" target="_blank">thuvienhoasen.org</a>
+🔗 <a href="https://thuvienhoasen.org/a36279/thien-tong-va-gioi-luat-phat-giao-thanh-thi-va-phat-giao-trong-nui" target="_blank">thuvienhoasen.org</a>
 
 <hr class="blog-rule" />
 

@@ -154,7 +154,7 @@ Nếu biết là gà và vịt thì không cần nhọc sức tim, không cần 
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

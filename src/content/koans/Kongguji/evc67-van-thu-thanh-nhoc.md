@@ -118,7 +118,7 @@ Lâm Tuyền nói: Không thấy mới là thật thấy. Ai có thể đạt đ
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

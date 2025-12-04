@@ -105,7 +105,7 @@ Thiền tăng thông minh chớ theo tiếng đuổi sắc hướng bên này b�
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

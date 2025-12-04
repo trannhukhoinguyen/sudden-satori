@@ -151,7 +151,7 @@ Làm sao mà trúng khớp được, là phải nhớ được lời Nam Sơn, n
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

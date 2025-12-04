@@ -98,13 +98,13 @@ Hàn San Thi có bài như sau:
 
 ## NGUỒN
 
-> 🔗 <a href="https://hoavouu.com/a12777/tac-thu-nam-muoi-tran-tran-tam-muoi-cua-van-mon" target="_blank">hoavouu.com</a>
+🔗 <a href="https://hoavouu.com/a12777/tac-thu-nam-muoi-tran-tran-tam-muoi-cua-van-mon" target="_blank">hoavouu.com</a>
 >
-> 🔗 <a href="https://quangduc.com/p1241a43266/15-tac-49-tac-52" target="_blank">quangduc.com</a>
+🔗 <a href="https://quangduc.com/p1241a43266/15-tac-49-tac-52" target="_blank">quangduc.com</a>
 >
-> 🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05" target="_blank">tuvien.com</a>
+🔗 <a href="http://tuvien.com/to_su_thien/index.php?id=bichnhamluc-mangiac-05" target="_blank">tuvien.com</a>
 >
-> 🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5" target="_blank">phatphapungdung.com</a>
+🔗 <a href="https://phatphapungdung.com/phap-bao/bich-nham-luc-cua-thien-su-phat-qua-vien-ngo-thich-man-giac-dich-164035.html/5" target="_blank">phatphapungdung.com</a>
 
 <hr class="blog-rule" />
 

@@ -105,7 +105,7 @@ Biết tung tích kinh này chăng? Ngài lấy phất tử đánh vào giườn
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

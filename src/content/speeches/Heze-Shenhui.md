@@ -339,9 +339,9 @@ Lục Tổ đáp: **Nói tức trước Phật rồi sau pháp. Nghe thì trư�
 
 ## NGUỒN
 
-> 🔗 <a href="https://thuvienhoasen.org/a37968/ha-trach-than-hoi-ngu-luc" target="_blank">thuvienhoasen.org</a>
+🔗 <a href="https://thuvienhoasen.org/a37968/ha-trach-than-hoi-ngu-luc" target="_blank">thuvienhoasen.org</a>
 
-> 🔗 <a href="https://quangduc.com/a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su" target="_blank">quangduc.com</a>
+🔗 <a href="https://quangduc.com/a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su" target="_blank">quangduc.com</a>
 
 <hr class="blog-rule" />
 

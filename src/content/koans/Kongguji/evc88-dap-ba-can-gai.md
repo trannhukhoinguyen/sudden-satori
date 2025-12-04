@@ -113,7 +113,7 @@ Thuận tay cầm lấy nhắc cân xa rồi lặng. Chớ tìm trên cán cân,
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

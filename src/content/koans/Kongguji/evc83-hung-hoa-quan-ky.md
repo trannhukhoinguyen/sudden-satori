@@ -116,7 +116,7 @@ Cho nên nói, tối sáng xen nhau, công bằng càng khó giác. Hết sức 
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

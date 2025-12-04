@@ -73,7 +73,7 @@ Các ông nếu ngộ được chỗ “ngồi xe” này, thì mới biết t�
 
 ## NGUỒN
 
-> 🔗 <a href="" target="_blank"></a>
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
