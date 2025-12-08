@@ -12,6 +12,8 @@ tags:
   - QUYẾT NGHI & LẬP CHÍ
   - TS ĐOẠN VÂN TRÍ TRIỆT
 image: /images/books/21-gates.jpg
+videoIds:
+  - AdqTRVVbjoo
 showInHomepage: true
 ---
 
@@ -94,12 +96,12 @@ Thầy tôi là hòa thượng Vân Phong [^3] dạy tham câu: “Muôn pháp v
 
 Sau đó, tôi cùng với huynh Quang kết bạn đi đến am Hà Đường Chủ ở phủ Quỳ. 
 Nơi đây rất yên tịnh, nên tôi quyết định chọn làm chỗ dừng chân. 
-Tự ở trước tượng Phật đốt hương phát nguyện, lập hạn quyết tử trong ba năm, đồng thời phát thệ rằng: “Nếu tôi giải đãi, ham muốn ngồi nằm, mong cầu an ổn, thân chạm giường ghế thì cam chịu đọa vào địa ngục Vô Gián[^4] không có ngày ra”.
+Tự ở trước tượng Phật đốt hương phát nguyện, lập hạn quyết tử trong ba năm, đồng thời phát thệ rằng: “Nếu tôi giải đãi, ham muốn ngồi nằm, mong cầu an ổn, thân chạm giường ghế thì cam chịu đọa vào địa ngục Vô Gián [^4] không có ngày ra”.
 
 Từ đó, ngày đêm thiền hành, trừ hai thời cơm cháo mới ngồi, các việc khác như uống trà nước cũng không dừng chân. 
-Bạn đạo, thí chủ đến thăm ❓, cũng không tiếp đãi, nói năng thiểu giảm, luôn đề cử câu: “Muôn pháp về một, một về đâu?”. 
+Bạn đạo, thí chủ đến thăm hỏi, cũng không tiếp đãi, nói năng thiểu giảm, luôn đề cử câu: “Muôn pháp về một, một về đâu?”. 
 Chỉ để tâm vào chữ “một” này, hết sức tha thiết, đề khởi nghi tình. 
-Có lúc đắc lực, tâm như bầu trời trong xanh, không gợn một áng mây, chỉ biết nghi tình nơi chữ· “một”. 
+Có lúc đắc lực, tâm như bầu trời trong xanh, không gợn một áng mây, chỉ biết nghi tình nơi chữ “một”. 
 
 Trong tâm linh hoạt, như hạt châu lăn ngang dọc trong mâm không ngăn ngại. 
 Đến trạng thái này không biết có thân đi trên đất, cũng chẳng biết có việc động, tĩnh, lạnh, nóng ở thế gian. Xoay thân, cúi ngước, đại tiểu tiện đều không có tâm tính toán, phân biệt, chỉ theo nghi tình ấy mà thuận chân bước đi; ăn cơm ăn cháo tiện tay nắm muỗng, buông đũa; lại chẳng biết trong cơm ăn có vị cay, chua, mặn, lạt. Đến đây mới biết là công phu chuyên tâm một chỗ, chỉ có niệm tịnh nối nhau.
