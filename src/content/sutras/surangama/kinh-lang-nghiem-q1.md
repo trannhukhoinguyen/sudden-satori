@@ -10,7 +10,7 @@ tags:
 image: /images/backgrounds/wide/zen-space.jpeg
 pdfUrl: /pdfs/sutras/kinh-lang-nghiem.pdf
 pdfUrl2: /pdfs/sutras/chu-lang-nghiem-mobile.pdf
-videoId: "MeKCZ_DuSjk"
+videoId: MeKCZ_DuSjk
 videoStart: "55"
 ---
 
