@@ -482,14 +482,14 @@ Do đó, Phật bảo đại chúng rằng:
 
 [^5]: Theo đúng pháp môn thực hành, có tu có chứng, mới được gọi là tu hành.
 
-<hr class="blog-rule" style="" />
+<hr class="blog-rule" />
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 
 ## GHI CHÚ
 
-[^1]: 📝 ...
+[^1]: 
