@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Nghiêm - Quyển X"
+title: "KINH LĂNG NGHIÊM - Quyển X"
 description: ""
 excerpt: ""
 categories:

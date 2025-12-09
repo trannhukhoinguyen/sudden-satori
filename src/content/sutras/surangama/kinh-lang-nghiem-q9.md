@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Nghiêm - Quyển IX"
+title: "KINH LĂNG NGHIÊM - Quyển IX"
 description: ""
 excerpt: ""
 categories:

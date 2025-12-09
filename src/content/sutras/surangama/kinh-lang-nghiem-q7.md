@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Nghiêm - Quyển VII"
+title: "KINH LĂNG NGHIÊM - Quyển VII"
 description: ""
 excerpt: ""
 categories:

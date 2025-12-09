@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Nghiêm - Quyển VIII"
+title: "KINH LĂNG NGHIÊM - Quyển VIII"
 description: ""
 excerpt: ""
 categories:

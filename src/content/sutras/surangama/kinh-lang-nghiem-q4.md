@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Nghiêm - Quyển IV"
+title: "KINH LĂNG NGHIÊM - Quyển IV"
 description: ""
 excerpt: ""
 categories:

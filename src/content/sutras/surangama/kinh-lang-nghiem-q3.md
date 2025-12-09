@@ -1,5 +1,5 @@
 ---
-title: "Kinh Lăng Nghiêm - Quyển III"
+title: "KINH LĂNG NGHIÊM - Quyển III"
 description: ""
 excerpt: ""
 categories:
