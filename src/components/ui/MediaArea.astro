@@ -27,7 +27,7 @@ const { frontmatter } = Astro.props;
         frontmatter?.videoId && (
           <div class="video-container">
               <iframe
-                src={`https://www.youtube.com/embed/${frontmatter.videoId}?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
+                src={`https://www.youtube.com/embed/${frontmatter.videoId || frontmatter.videoBackup}?start=${frontmatter.videoStart ? frontmatter.videoStart : 0}`}
                 title={frontmatter.title}
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen
