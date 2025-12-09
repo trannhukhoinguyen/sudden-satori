@@ -5,7 +5,7 @@ excerpt: ""
 categories:
   - Kinh
 tags: 
-  - Kinh Thủ Lăng Già
+  - Kinh Lăng Già
   - HT Thích Duy Lực
 image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 pdfUrl: /pdfs/sutras/kinh-Lang-Gia.pdf
