@@ -1,5 +1,5 @@
 ---
-title: Pháp sư Cầu Na Bạt Đà La
+title: Pháp sư CẦU NA BẠT ĐÀ LA
 description: ""
 excerpt: ''
 categories:
