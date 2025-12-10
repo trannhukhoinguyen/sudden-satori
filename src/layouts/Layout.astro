@@ -198,6 +198,8 @@ const schema = {
   </body>
 </html>
 
+      
+
 <!-- Include this in your Astro layout, e.g. src/layouts/Base.astro -->
 <script>
   const KOAN_KEY = 'koan_selected_question';
@@ -209,7 +211,7 @@ const schema = {
     'Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?',
     'Sanh từ đâu đến, chết đi về đâu?',
     'Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì?',
-    'Chẳng cùng muôn pháp làm bạn, là người gì?'
+    'Chẳng cùng muôn pháp làm bạn là người gì?'
   ];
 
   function shouldSuppress() {
@@ -225,7 +227,7 @@ const schema = {
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
           <h3>Chọn một câu thoại đầu</h3>
           <form id="koan-form">
-            ${koans.map((k,i)=>`<label style='display:block;margin:8px 0;color: red;'>
+            ${koans.map((k,i)=>`<label style='display:block;margin:8px 0;'>
               <input required type='radio' name='koan' value='${i}'> ${k}
             </label>`).join('')}
             <button type="submit" style="margin-top:12px;width:100%;padding:8px;">OK</button>
@@ -243,31 +245,8 @@ const schema = {
     });
   }
 
-  function showReminderModal(koanIndex) {
-    const wrapper = document.createElement('div');
-    wrapper.innerHTML = `
-      <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
-        <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
-          <p style="color: red;"><strong>${koans[koanIndex]}</strong></p>
-          <p style="color: red;">NHỚ CHIẾU CỐ THOẠI ĐẦU (Hỏi & Nhìn vào chỗ Không biết)</pstyle>
-          <button id="suppress" style="margin-top:12px;width:100%;padding:8px;">Dừng hiện modal 1 giờ tới (TINH TẤN LÊN!)</button>
-          <button id="close" style="margin-top:12px;width:100%;padding:8px;">VẪN NHẮC NHỞ TÔI!</button>
-        </div>
-      </div>`;
-    document.body.appendChild(wrapper);
-
-    wrapper.querySelector('#close').onclick = () => wrapper.remove();
-
-    wrapper.querySelector('#suppress').onclick = () => {
-      const until = Date.now() + 1 * 60 * 60 * 1000; // 24h
-      localStorage.setItem(KOAN_SUPPRESS, until.toString());
-      wrapper.remove();
-    };
-  }
-
   let userInteracted = false;
   window.addEventListener('click', () => { userInteracted = true; }, { once: true });
-
 
   function speak(text) {
     if (!window.speechSynthesis) return;
@@ -319,6 +298,10 @@ const schema = {
     }
   });
 </script>
+
+  
+
+
 
 <style>
   .site-wrapper {
