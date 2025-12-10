@@ -45,7 +45,7 @@ Chỉ được lựa một câu không cho lựa hai câu và sau khi quyết đ
 
 1. Khi chưa có trời đất, ta là cái gì?
 
-2. Muôn pháp về một, một về chổ nào?
+2. Muôn pháp về một, một về chỗ nào?
 
 3. Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?
 
