@@ -240,7 +240,7 @@ const schema = {
       e.preventDefault();
       const index = wrapper.querySelector('input[name="koan"]:checked').value;
       localStorage.setItem(KOAN_KEY, index);
-      speak(koans[index]);
+      // speak(koans[index]);
       wrapper.remove();
     });
   }
