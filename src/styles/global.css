@@ -278,7 +278,7 @@ h1 {
   font-family: var(--font-heading-primary), serif;
   font-size: 2.5rem;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.3;
   letter-spacing: 0.15em;
   margin-bottom: calc(var(--grid-unit) * 12);
 }
