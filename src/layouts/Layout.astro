@@ -201,7 +201,7 @@ const schema = {
       
 
 <!-- Include this in your Astro layout, e.g. src/layouts/Base.astro -->
-<script is:client>
+<script>
   const KOAN_KEY = 'koan_selected_question';
   const KOAN_SUPPRESS = 'koan_suppress_until';
 
@@ -246,7 +246,7 @@ const schema = {
   }
 
   let userInteracted = false;
-  window.addEventListener('click', () => { userInteracted = true; }, { once: true });
+  // window.addEventListener('click', () => { userInteracted = true; }, { once: true });
 
   function speak(text) {
     if (!window.speechSynthesis) return;
