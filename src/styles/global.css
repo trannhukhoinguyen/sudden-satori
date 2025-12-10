@@ -280,7 +280,7 @@ h1 {
   font-weight: 700;
   line-height: 1.1;
   letter-spacing: 0.15em;
-  margin-bottom: calc(var(--grid-unit) * 4);
+  margin-bottom: calc(var(--grid-unit) * 12);
 }
 
 h2 {
