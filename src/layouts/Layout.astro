@@ -238,6 +238,7 @@ const schema = {
       e.preventDefault();
       const index = wrapper.querySelector('input[name="koan"]:checked').value;
       localStorage.setItem(KOAN_KEY, index);
+      speak(koans[index]);
       wrapper.remove();
     });
   }
@@ -262,6 +263,47 @@ const schema = {
       localStorage.setItem(KOAN_SUPPRESS, until.toString());
       wrapper.remove();
     };
+  }
+
+  let userInteracted = false;
+  window.addEventListener('click', () => { userInteracted = true; }, { once: true });
+
+
+  function speak(text) {
+    if (!window.speechSynthesis) return;
+    if (!userInteracted) return; // prevent autoplay block
+    const msg = new SpeechSynthesisUtterance(text);
+    msg.lang = 'vi-VN';
+    window.speechSynthesis.speak(msg);
+  }(koans[koanIndex]);
+    showReminderModal(koanIndex) {
+    const wrapper = document.createElement('div');
+    wrapper.innerHTML = `
+      <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
+        <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
+          <p><strong>${koans[koanIndex]}</strong></p>
+          <p>NHỚ CHIẾU CỐ THOẠI ĐẦU (Hỏi & Nhìn vào chỗ Không biết)</p>
+          <button id="suppress" style="margin-top:12px;width:100%;padding:8px;">Tạm dừng hiện modal trong 24 giờ khi truy cập web (Hãy tinh tấn đi!)</button>
+          <button id="close" style="margin-top:12px;width:100%;padding:8px;">Đã rõ</button>
+        </div>
+      </div>`;
+    document.body.appendChild(wrapper);
+
+    wrapper.querySelector('#close').onclick = () => wrapper.remove();
+
+    wrapper.querySelector('#suppress').onclick = () => {
+      const until = Date.now() + 24 * 60 * 60 * 1000; // 24h
+      localStorage.setItem(KOAN_SUPPRESS, until);
+      wrapper.remove();
+    };
+  }
+
+  // --- Text-to-Speech helper ---
+  function speak(text) {
+    if (!window.speechSynthesis) return;
+    const msg = new SpeechSynthesisUtterance(text);
+    msg.lang = 'vi-VN';
+    window.speechSynthesis.speak(msg);
   }
 
   window.addEventListener('DOMContentLoaded', () => {
