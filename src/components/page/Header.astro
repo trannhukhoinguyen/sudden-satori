@@ -28,44 +28,40 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
       <nav class="main-navigation" role="navigation" aria-label="Main navigation">
         <ul class="nav-list">
           <li><a href={base} class="nav-link" title="Trang chủ">🛖</a></li>
-          <li><a href={base + "blogs"} class="nav-link">📜 Blog</a></li>
+          <li><a href={base + "wordpress"} class="nav-link" title="Duy Lực Thiền">
+            <img class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></img>️
+          </a></li>
+          <li><a href={base + "faqs"} class="nav-link">HỎI ĐÁP</a></li>
           <li class="dropdown">
-            <a href={base + "sutras"} class="nav-link">📙 KINH</a>
+            <a href={base + "sutras"} class="nav-link">KINH</a>
             <ul class="dropdown-menu">
               <li><a href={base + "sutras/kinh-lang-nghiem-gioi-thieu-va-muc-luc"}>☀️ Lăng Nghiêm</a></li>
               <li><a href={base + "sutras/kinh-lang-gia-gioi-thieu-va-muc-luc"}>☀️ Lăng Già</a></li>
               <li><a href={base + "sutras/kinh-kim-cang"}>☀️ Kim Cang</a></li>
-              <li><a href={base + "sutras/kinh-phap-bao-dan-gioi-thieu-va-muc-luc"}>☀️ Pháp Bảo Đàn</a></li>
-<!--              <li><a href={base + "sutras/kinh-vien-giac"}>☀️ Viên Giác</a></li>
-              <li><a href={base + "sutras/kinh-duy-ma-cat-gioi-thieu-va-muc-luc"}>☀️ Duy Ma Cật</a></li>-->
+              <li><a href={base + "sutras/kinh-phap-bao-dan"}>☀️ Pháp Bảo Đàn</a></li>
+              <li><a href={base + "sutras/kinh-vien-giac"}>☀️ Viên Giác</a></li>
+              <!--              <li><a href={base + "sutras/kinh-duy-ma-cat-gioi-thieu-va-muc-luc"}>☀️ Duy Ma Cật</a></li>-->
             </ul>
           </li>
           <li class="dropdown">
-            <a href="#" class="nav-link">⚡️HÀNH & GIẢI</a>
+            <a href="#" class="nav-link">HÀNH & GIẢI</a>
             <ul class="dropdown-menu">
               <li><a href={base + "practices"} title="Thực hành">⚡️Hành</a></li>
               <li><a href={base + "interpretations"} title="Luận giải">📖 Giải</a></li>
               <li><a href={base + "koans"} title="Công án">🪨 Nan đề</a></li>
-              <li><a href={base + "faqs"}>🙋🏻‍♂️ Hỏi đáp</a></li>
               <li><a href={base + "books"}>📚 Sách</a></li>
             </ul>
           </li>
           <li class="dropdown">
-            <a href="#" class="nav-link">🌟 THIỀN SƯ</a>
+            <a href="#" class="nav-link">THIỀN SƯ</a>
             <ul class="dropdown-menu">
               <li><a href={base + "masters"}>🌟 Thiền sư</a></li>
-              <li><a href={base + "authors"}>✍️ Tác giả</a></li>
               <li><a href={base + "speeches"}>💬 Ngữ Lục</a></li>
             </ul>
           </li>
-          <li><a href={base + "pagodas"} class="nav-link">⛩ THIỀN ĐƯỜNG</a></li>
-<!--          <li class="dropdown">
-            <a href="#" class="nav-link">🌅 THIỀN MÔN</a>
-            <ul class="dropdown-menu">
-              <li><a href={base + "pagodas"}>⛩ Thiền đường</a></li>
-              <li><a href={base + "places"}>🗻 Địa danh</a></li>
-            </ul>
-          </li>-->
+          <li><a href={base + "pagodas"} class="nav-link">THIỀN ĐƯỜNG</a></li>
+          <li><a href={base + "places"} class="nav-link" title="ĐỊA DANH">🧭</a></li>
+
          <!-- <li class="dropdown">
             <a href={base + "koans"} class="nav-link">📙 CÔNG ÁN</a>
             <ul class="dropdown-menu">
@@ -83,6 +79,8 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
             <a href="#" class="nav-link">KHÁC</a>
             <ul class="dropdown-menu">
               <li><a href={base + "about"}>❓ Tổ sư thiền?</a></li>
+              <li><a href={base + "blogs"}>📜 Blog</a></li>
+              <li><a href={base + "authors"}>✍️ Tác giả</a></li>
               <li><a href={base + "categories"}>📦 Category</a></li>
               <li><a href={base + "tags"}>🎏 Tag</a></li>
               <!--<li><a href={base + "health"} title="Thuốc nam">🌿️ Sức khoẻ</a></li>-->
@@ -110,6 +108,9 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
   <ul class="mobile-nav-list">
     <li><a href={base} class="mobile-nav-link" title="Trang chủ">🛖</a></li>
     <li><a href={base + "about"} class="mobile-nav-link">Tổ sư thiền?</a></li>
+    <li><a href={base + "wordpress"} class="nav-link" title="Duy Lực Thiền">
+      <img class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></img>️
+    </a></li>
     <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 Kinh</a></li>
   <!--  <li><a href={base + "koans"} class="mobile-nav-link" title="Công án">🪨 Công án</a></li> -->
     <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">⚡️ Thực hành</a></li>
@@ -776,6 +777,12 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
     .search-toggle {
       padding: calc(var(--grid-unit) * 0.5);
     }
+  }
+
+  img.wordpress-logo {
+    margin: 0;
+    height: 20px;
+    border: none;
   }
 </style>
 

@@ -20,14 +20,24 @@ Thọ giới, là một việc quan trọng nhất của một Tăng nhân. Nói
 
 Vốn dĩ, từ Hằng Sơn đến Giang Lăng có thể đi thuyền qua sông Tương xuôi dòng mà xuống đi ngang qua Hồ Động Đình 800 dặm, vào Trường Giang ngược dòng mà lên, tất có thể đến. Thế nhưng, chiếc thuyền tiền của này, một người xuất gia không có đồng tiền trong lưng há có thể thuê được sao! Vì thế, Sa di Cao vẫn phải dùng đôi chân chậm chạp của ông bước thấp bước cao, từng bước từng bước, để lần dò trên con đường vạn dặm kia. Ông qua sông Liên, vượt qua sông Tư, chẳng phải ngày một ngày hai mà từ trên đỉnh Nam Nhạc bên bờ sông Tương đến được dưới chân Dược Sơn ở Cảnh Nội - Vũ Lăng ( nay là Thường Đức) bên bờ sông Nguyên. Ông đang men theo một con suối nhỏ quanh co uốn lượn, tràn ngập ánh sáng thâm u và vang lên khúc nhạc thanh tĩnh, bỗng nhiên, trong con suối nhỏ phía trước truyền lại một giọng ngâm:
 
+<blockquote> 
+
 Vũ Lăng dòng sông hẹp
+
 Thuyền chèo vào rừng hoa
+
 Chớ bảo trong suối thẳm
+
 Thần tiên biết bao xa
+
 Nước về gặp chướng xanh
+
 Mây qua suối xanh râm
+
 Ngồi đây nghe vượn hú
+
 Tâm bỏ ngoài trần lao
+</blockquote>
 
 Một lão ông, chèo một chiếc xuồng con, xuôi dòng mà trôi. Người trong núi hoang mà có thể thuận miệng xướng lên một bài thơ “Vũ Lăng Phiếm Thuyền” của Mạnh Hạo Nhiên, hơn nữa, tình này cảnh này, không những phù hợp với ý của bài thơ, mà còn xảo diệu hơn là khế hợp với thiền ý ở trong thơ! Do đó chúng ta có thể thấy, lão ông này chẳng bình thường chút nào. Điều làm cho ta bất ngờ hơn đó là, ông lại hướng con thuyền nhỏ chèo đến chỗ Sa di Cao, dừng lại trước mặt Sa di, hỏi: “Nạp tử đi đâu vậy?”.
 
@@ -41,10 +51,16 @@ Sa di Cao bỗng nhiên cảm nhận thiền ý cuồn cuộn táp vào mặt, �
 
 Đợi ông bình tĩnh lại, ở đó chỉ còn hình bóng của ông lão! Ông lão và ngay cả chiếc xuồng con cũng thế, đều như huyễn hóa, mất tiêu không còn tông tích. Thế nhưng, Sa di Cao dường như lại nghe được một chuỗi âm thanh ngâm tụng như có như không:
 
+<blockquote> 
+
 Một cọng cỏ giữa núi
+
 Lập tức thành thuốc hay
+
 Cứu người và giết người
+
 Đều là thiền trọng yếu
+</blockquote>
 
 Bồ tát Văn Thù bảo Thiện Tài Đồng Tử đi hái thuốc, Thiện Tài lại về tay không, nói: “Theo con thấy, đồi núi mênh mông đều là thuốc, Bồ Tát bảo con hái cái gì?” Bồ Tát Văn Thù nói, là thuốc thì ngươi cứ hái về. Thiện Tài Đồng Tử tùy tiện hái một bó cỏ hoang, Bồ Tát Văn Thù đưa cỏ hoang lên nói: “Thuốc này cũng có thể giết người, cũng có thể cứu người.”
 
@@ -158,6 +174,8 @@ Người kia nghe rồi cảm thấy chỉ giản đơn vậy sao! Liền vui v�
 
 Ba điều này còn có thể đơn giản hóa thành một câu nói: Chớ làm các điều ác. Nếu thêm một câu khác nữa thì đó là: Làm các việc lành, bạn chính là một vị đại Bồ Tát rồi.
 
+<blockquote> 
+
 Chớ làm các điều ác
 
 Gắng làm các việc lành
@@ -165,11 +183,14 @@ Gắng làm các việc lành
 Giữ tâm ý trong sạch
 
 Đó là lời Phật dạy.
+</blockquote>
 
 ### TẮC 22 : KHÔNG AI BIẾT ÔNG TA
 
 Thiền sư Chí Nguyên Viên Tịnh ở núi Vân Cái Đàm Châu là pháp tôn của Thiền sư Đạo Ngô Tông Trí, người kế thừa pháp của Thiền sư Thạch Sương Khánh Gia. 
 Sau khi ông xuất gia thọ giới, bắt đầu cuộc sống Vân Du.
+
+<blockquote> 
 
 Thiền môn qua lại chốn núi xanh,
 
@@ -185,11 +206,16 @@ Vạn lí thiên phong tại diệm sơn.
 
 Hà thời cộng đáo thiên thai lí,
 
-Thân tại phù vân xứ xứ nhàn.) (Đường, Lưu Trường Khanh)
+Thân tại phù vân xứ xứ nhàn.
+
+(Đường, Lưu Trường Khanh)
+</blockquote>
 
 Thiền sư Vân Cái Chí Nguyên thật giống như đám mây nổi trôi tự do tự tại, từ Chiết Giang trôi đến Vi Châu, rồi từ Vi Châu nhởn nhơ trôi nổi đến núi Vân Cư ở Giang Tây.
 
 Núi Vân Cư, ở phía nam ngọn núi Khuông Lô, phía đông cái hồ lớn ở Phàn Dương, núi non trùng điệp. Chu vi ngang dọc 300 dặm; núi non muôn vẻ, cao to sừng sững vút tận tầng xanh. Càng thần kỳ hơn đó là sau khi bạn leo lên đỉnh núi, mở ra trước mắt bạn một cánh đồng bằng phẳng bao la bát ngát, mà bốn bề đều có núi bao quanh, thiên nhiên tạo nên một thành quách bằng núi cao. Ở đây, tùng trúc gọi gió, ruộng vườn mục ca, mây trắng vỗ vào mặt, điện vũ nguy nga. Núi Vân Cư trên trời, núi ở trên trời mây; trên núi lại có núi, núi ở trên đỉnh cao. Thảo nào mấy trăm năm sau nữa, đến đời nhà Tống, khi Cư Sĩ Đông Pha đến núi Vân Cư thăm Thiền sư Phật Ấn, kinh ngạc mà rằng:
+
+<blockquote> 
 
 Bước từng bước đến cửa Triệu Châu,
 
@@ -206,10 +232,26 @@ Hang đá tháng năm ngời nhan Phật,
 Muốn tâm sự cùng mây trắng,
 
 Róc rách dưới cầu khe nước xanh.
+</blockquote>
 
-(Nhất hành hành đáo Triệu Châu quan, quái để sơn đầu cánh hữu sơn. Nhất phiến lâu đài tủng thiên thượng, sổ thanh chung cổ lạc nhân gian.
+<blockquote> 
 
-Bạo hoa phi tuyết tẩm tăng nhãn, nham huyệt lưu quang ánh Phật nhan. Dục dữ bạch vân luận tâm sự, bích khê kiều hạ thủy sàn sàn.)
+Nhất hành hành đáo Triệu Châu quan, 
+
+quái để sơn đầu cánh hữu sơn.
+
+Nhất phiến lâu đài tủng thiên thượng, 
+
+sổ thanh chung cổ lạc nhân gian.
+
+Bạo hoa phi tuyết tẩm tăng nhãn, 
+
+nham huyệt lưu quang ánh Phật nhan.
+
+Dục dữ bạch vân luận tâm sự, 
+
+bích khê kiều hạ thủy sàn sàn.
+</blockquote>
 
 Đương thời, người trú trì trên núi Vân Cư là Tổ sư Đạo Ưng, một vị cao Tăng của Tông Tào Động. Thiền sư Chí Nguyên đến phương trượng, chưa kịp lễ bái liền vội vàng hỏi: “Chí Nguyên con bôn ba khắp nơi, nhưng tự tánh lại không sáng được. Con nay đã hết cách rồi, xin hỏi, ngay lúc này, con nên làm như thế nào?”
 

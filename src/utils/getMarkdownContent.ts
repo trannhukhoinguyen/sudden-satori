@@ -4,6 +4,7 @@
 const globMap = {
   health: import.meta.glob('../content/health/**/*.{md,mdx}', { eager: true }),
   blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}', { eager: true }),
+  wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}', { eager: true }),
   places: import.meta.glob('../content/places/**/*.{md,mdx}', { eager: true }),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}', { eager: true }),
   books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
@@ -22,6 +23,7 @@ const globMap = {
 const globMapLazy = {
   health: import.meta.glob('../content/health/**/*.{md,mdx}'),
   blogs: import.meta.glob('../content/blogs/**/*.{md,mdx}'),
+  wordpress: import.meta.glob('../content/wordpress/**/*.{md,mdx}'),
   places: import.meta.glob('../content/places/**/*.{md,mdx}'),
   pagodas: import.meta.glob('../content/pagodas/**/*.{md,mdx}'),
   books: import.meta.glob('../content/books/**/*.{md,mdx}'),
@@ -42,6 +44,7 @@ const globMapLazy = {
 const collections = {
   health: "health",
   blogs: "blogs",
+  wordpress: "wordpress",
   places: "places",
   pagodas: "pagodas",
   books: "books",

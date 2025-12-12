@@ -78,10 +78,16 @@ Văn Hỷ lại một lần nữa cảm nhận được cơ phong cuồn cuộn 
 
 Bát Nhã tức là đại trí tuệ, mà Bồ tát Văn Thù nhờ trí tuệ mà nổi tiếng! Văn Hỷ rỗng rang đại ngộ. Lão ông kia tức là Bồ tát Văn Thù hiển hóa! đối mặt lại nhầm lẫn, không thể gặp lại nữa, ông vội vàng đảnh lễ Đồng Tử, khẩn cầu cho mình ít lời trước khi rời khỏi. Đồng Tử liền nói bài kệ:
 
-“Trên mặt không sân cúng dường đủ,
+<blockquote> 
+
+Trên mặt không sân cúng dường đủ,
+
 Trong miệng không sân nhả hương thơm,
+
 Trong lòng không sân là trân bảo,
-Không cấu không nhiễm là chân thường”.
+
+Không cấu không nhiễm là chân thường
+</blockquote>
 
 Nói xong Đồng Tử Quân Đề chỉ chùa Kim Cang Bát Nhã sau lưng Văn Hỷ, Văn Hỷ vội vàng quay đầu. Ngôi chùa hùng vĩ hoa lệ kia đã không còn thấy dấu vết gì nữa. Đợi Văn Hỷ quay người lại thì Đồng Tử Quân Đề kia cũng đã mất tông tích. Một vùng núi hoang mênh mông, một vùng đất sạch sẽ trắng toát. Dường như chùa kia, người kia, cảnh kia chẳng qua đều là huyễn mộng, họ đều chưa hề tồn tại vậy! Nhưng mà, trong lòng Văn Hỷ cuối cùng đã lưu lại trăm mối thương cảm, vô cùng buồn bã và tự hối hận khiến người ta sợ hãi trong lòng…
 
@@ -89,21 +95,37 @@ Từ ngàn dặm vì ngươi mà đến, gặp mặt rồi không biết là ng�
 
 Thế mà, đến khi ông ngẩng đầu lên, một đám mây trắng từ phương đông bay đến, che phủ tất cả không còn dấu vết. Sau này khi Thiền sư Độc Nhãn Long Minh Chiêu đọc đến công án này, tâm có sở ngộ, thuận miệng ngâm bài tụng:
 
-“Sa giới mênh mông còn già lam,
+<blockquote> 
+
+Sa giới mênh mông còn già lam,
+
 Khắp nơi Văn Thù đang luận đàm,
+
 Ngay lời không biết mở mắt Phật,
-Quay đầu chỉ thấy núi xanh thôi”.
+
+Quay đầu chỉ thấy núi xanh thôi
+</blockquote>
 
 Ngàn năm mộng huyễn huyễn ngàn năm, ngàn năm thương cảm ngàn năm dài, ngàn năm sau, Đại sư Hư Vân đến Ngũ Đài có thơ rằng:
 
-“Núi đẹp thần sắc tự trời ban,
+<blockquote> 
+
+Núi đẹp thần sắc tự trời ban,
+
 Ngàn vạn Bồ tát trụ Ngũ Đài,
+
 Tuyết chứa ngàn năm Tăng nhập định,
+
 Mây lành một đám bay nhỡn nhơ.
+
 Cõi thanh lương sắc vàng kỳ dị,
+
 Vui vì Mạn Thù trí tuệ tài,
+
 Trước sau ba ba là nhiều ít?
-Văn Hỷ hành cước chưa hề đến”.
+
+Văn Hỷ hành cước chưa hề đến
+</blockquote>
 
 Già lam, là tên gọi khác của chùa chiền Phật giáo; Mạn Thù là tên gọi khác của Bồ tát Văn Thù. 
 Đúng như Đại sư Hư Vân đã nói, Thiền sư Văn Hỷ sau khi cắm tích trượng ở Ngũ Đài Sơn mấy năm, công phu tu tập tiến bộ nhiều. 
@@ -168,6 +190,8 @@ Lúc đó, Hoàng Bá Hi Vận sở dĩ muốn hướng đến núi Thiên Thai 
 
 Nhưng thấy trên núi thông tốt tươi đều đặn, cỏ cây um tùm, núi cao hùng tráng, cửa ngõ an lành, là thứ quý hiếm trong biển núi nghèo, đẹp đẽ tráng lệ, như cảnh tiên vậy. Hoa đỉnh phong nhô lên từ biển 1138 mét, các núi chụm lại với nhau, thế núi cao và dốc đứng cô lập, úp trong mây mù hư không như ẩn như hiện giống như một đang dãi mây vậy. Không biết rốt cuộc là nó có hay không, là rời rạc hay liên kết? Càng không thể biết nó có thông lên rơi thần tiên không hay là quê hương của mây trắng…
 
+<blockquote> 
+
 Người đời tìm đàng mây,
 
 Đàng xa xôi không dấu,
@@ -185,6 +209,8 @@ Muốn biết con đường mây,
 Đông mây tại hư không.
 
 (chùa Hàn Sơn)
+</blockquote>
+
 
 Hoàng Bá Hi Vận cố gắng leo lên đỉnh Thiên Thai, xuyên qua rừng cây tươi tốt, rậm rạp dưới chân núi. Ngài gặp một người tướng mạo kỳ dị. Rời nhà vân du đến chân trời, Tăng nhân trong thiên hạ là một nhà. Nơi núi hoang gặp nhau tức là có duyên. Lúc chuyện trò bàn luận, hai người đều cảm thấy rất hoà hợp, dường như đôi bạn thân lâu ngày không gặp vậy. Duyên phận giữa người và người chính là kỳ quái như vậy, có một số người vừa gặp như đã quen lâu, thân mật không giới hạn. Mà có một số người gần nhau suốt đời lại như xa lạ. Hoàng Bá Hi Vận phát hiện hai mắt của vị Tăng kỳ lạ này tinh quang ánh lên, thu nhiếp hồn phách người ta. Có thể thấy công phu tu hành của ông ta không như người phàm.
 
@@ -228,10 +254,16 @@ Với tất cả mọi người lúc này mới rõ, ông ta tức là nhập di
 
 “Trước lúc gần đi, ta có mấy lời muốn nói với các Ông: “Thiền sư Pháp Minh dùng thần sắc trịnh trọng trước nay chưa hề có để nói với tất cả mọi người, liền đó ông ngâm tụng bốn câu kệ:
 
+<blockquote> 
+
 Bình sáng túng túng trong mê say
+
 Mê say lại thây phân biết bày
+
 Sáng nay tỉnh rượu nơi chốn ấy
+
 Bên bờ dương liễu gió mai trăng tàn
+</blockquote>
 
 Dù thế nào nữa chúng ta cũng không ngờ rằng, ông suốt ngày say mèm, tự nhiên lại có thể xuất khẩu thành thơ, lại còn dự đoán đến việc chưa đến, từ trong khẩu khí của bài kệ, ông bình thường như say như dại, vậy mà đều là đóng kịch mà thôi! Kỳ thực, điều mà khiến người ta khó tin là mặt này Thiền sư Pháp Minh nở nụ cười ý vị sâu xa, thần bí, nhẹ nhàng ra đi!
 
@@ -265,6 +297,8 @@ Câu trả lời cơ phong như thế, giống như con công múa trong ráng �
 
 Hạt tuyết trong lò lửa, vô cùng đẹp đẽ, vô cùng kì lạ, lại đem ý cảnh thiền; phong vận thiền nâng lên đến chỗ đến tột cùng! 1000 năm sau chúng ta vẫn có thể lãnh hội thiền ý linh động…
 
+<blockquote> 
+
 Hạt tuyết trong lò than,
 
 Băng kết trong ngọn lửa.
@@ -280,6 +314,7 @@ Ngư ông câu trên đảo.
 Giày tuyết đỉnh trơ đỉnh không trắng,
 
 Mưa ướt măng đá măng phải sanh.
+</blockquote>
 
 Những lời lạ lùng như thế chỉ có thể xuất hiện nơi miệng Thiền sư. Nó nhờ ý tưởng siêu việt đẹp đẽ khác thường, sáng tạo ra ý cảnh ngược đơì nhưng lại hợp với tư duy của thiền, có sức hấp dẫn kì lạ nhiếp phục hồn phách người ta, khiến cho người không ngừng nảy sinh tư tưởng kì diệu, do không tự chủ mà sanh ý tưởng miên man.
 
@@ -679,6 +714,8 @@ Cuối cùng, hoàng đế bị ngài làm cho tức giận quá, đích thân h
 
 Khen rằng:
 
+<blockquote> 
+
 Xương kia cứng như thép
 
 Khí kia như cầu vồng
@@ -686,6 +723,7 @@ Khí kia như cầu vồng
 Bạn thiền thật chân tình
 
 Ân nghĩa đầy hư không.
+</blockquote>
 
 Thiền sư Thâm và Thiền sư Trí Minh đều là đệ tử dưới trướng của Đại sư Vân Môn Văn Yển, hai người họ tham thiền gần nhau, giúp nhau trong lao tác, vân du cùng nhau, kết thành đôi bạn thiền thâm sâu. Thiền sư Thâm dưới sự hướng dẫn của Đại sư Vân Môn đã sớm tâm khai đạt ngộ , thoát phàm thành Thánh; mà Trí minh lại giống như một cái trứng đá, bất luận là Sư Phụ chuyển hóa thế nào, vẫn không động tĩnh gì. Thiền sư Thâm lại không vì thế mà bỏ người bạn “ngu ngốc” này, ngược lại luôn luôn gợi ý cho ông, với ý muốn giúp ông khế nhập thiền cơ huyền diệu.
 

@@ -2,7 +2,7 @@
 
 ---
 
-<div class="back-to-top-wrapper">
+<div class="back-to-top-wrapper" title="Lên đầu trang">
     <div class="back-to-top-container">
         <a href="#top" aria-label="back_to_top" class="back-to-top-btn">
             <svg
@@ -31,6 +31,19 @@
         </a>
     </div>
 </div>
+
+<script>
+    document.addEventListener("scroll", () => {
+        const btn = document.querySelector(".back-to-top-btn");
+        if (!btn) return;
+
+        if (window.scrollY > 300) {
+            btn.style.opacity = "1";
+        } else {
+            btn.style.opacity = "0";
+        }
+    });
+</script>
 
 <style>
     /* wrapper = sticky bottom bar */

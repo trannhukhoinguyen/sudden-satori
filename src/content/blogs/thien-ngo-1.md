@@ -494,17 +494,20 @@ Thiên Đồng Chánh Giác và Đại Huệ Tông Cảo lệ thuộc hai tông 
 
 Chính cặp đối thủ luận chiến nhiều năm này mà quan hệ cá nhân lại rất tốt đẹp. Đại Huệ Tông Cảo khi kịch liệt phê bình tệ đoan “mặc chiếu thiền” đồng thời lại rất tán dương nó có công trạng đặc biệt đối với tư tưởng “khởi tử hồi sanh” của tông Tào Động. Nên trước khi Thiên Đồng Chánh Giác lâm chung, lại gửi thư cho Đại Huệ Tông Cảo, mời Ngài đến chủ trì hậu sự cho mình. Điều hứng thú là hai vị lại coi đối phương của mình là người bạn tri kỷ đích thực của chính mình! Bạn có biết, sau khi Thiên Đồng Chánh Giác viên tịch, Đại Huệ tông Cảo đã làm một bài kệ tán thán trước di ảnh của Ngài:
 
-> Lò lửa lớn nấu Phật nấu Tổ,
->
-> Kiềm búa dữ nung Thánh nung phàm,
->
-> Hưng khởi Tào Động vốn bị chôn vùi,
->
-> Cứu nguy nan khi đã hết phương đường,
->
-> Đó chính là cái dùi tổ Thiên Đồng,
->
-> Tri âm Diệu Hỷ có ai bằng không?
+<blockquote> 
+
+Lò lửa lớn nấu Phật nấu Tổ,
+
+Kiềm búa dữ nung Thánh nung phàm,
+
+Hưng khởi Tào Động vốn bị chôn vùi,
+
+Cứu nguy nan khi đã hết phương đường,
+
+Đó chính là cái dùi tổ Thiên Đồng,
+
+Tri âm Diệu Hỷ có ai bằng không?
+</blockquote>
 
 <hr class="blog-rule" />
 

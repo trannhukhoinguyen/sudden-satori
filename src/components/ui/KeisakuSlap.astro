@@ -1,0 +1,130 @@
+---
+
+---
+
+<div id="keisaku"></div>
+<div id="crack-overlay"></div>
+
+<script is:client>
+  function playKeisaku() {
+    const k = document.getElementById('keisaku');
+    const crack = document.getElementById('crack-overlay');
+
+    // Random hướng: top, bottom, left, right
+    const directions = ['top', 'bottom', 'left', 'right'];
+    const dir = directions[Math.floor(Math.random() * directions.length)];
+
+    // reset animation
+    k.style.animation = 'none';
+    crack.style.opacity = '0';
+
+    // set vị trí ban đầu theo hướng
+    switch (dir) {
+      case 'top':
+        k.style.top = '-200px';
+        k.style.left = '40%';
+        k.style.animation = 'hit-from-top 0.5s ease-out forwards';
+        break;
+      case 'bottom':
+        k.style.bottom = '-200px';
+        k.style.left = '40%';
+        k.style.animation = 'hit-from-bottom 0.5s ease-out forwards';
+        break;
+      case 'left':
+        k.style.left = '-300px';
+        k.style.top = '40%';
+        k.style.animation = 'hit-from-left 0.5s ease-out forwards';
+        break;
+      case 'right':
+        k.style.right = '-300px';
+        k.style.top = '40%';
+        k.style.animation = 'hit-from-right 0.5s ease-out forwards';
+        break;
+    }
+
+    // tiếng "bốp"
+    const hit = new Audio('/audios/broken-glass.mp3');
+    hit.play();
+
+    // tiếng hét Thiền sư
+    const yell1 = new Audio('/audios/yell1.mp3');
+    const yell2 = new Audio('/audios/yell2.mp3');
+    yell1.play();
+    setTimeout(() => {
+      yell2.play();
+    }, 1600);
+
+    // hiệu ứng vỡ kính
+    crack.style.backgroundImage = "url('/images/crack.png')"; // file ảnh vỡ kính
+    crack.style.opacity = '1';
+
+    // rung cửa sổ
+    document.body.style.animation = 'screenShake 0.3s';
+
+    setTimeout(() => {
+      document.body.style.animation = '';
+      crack.style.opacity = '0';
+    }, 600);
+  }
+
+  // chạy 1 lần sau click để tránh autoplay block
+  window.addEventListener(
+    'click',
+    () => playKeisaku(),
+    { once: true }
+  );
+
+</script>
+
+<style>
+    #keisaku {
+        position: fixed;
+        width: 260px;
+        height: 40px;
+        background: #8b5a2b;
+        border-radius: 5px;
+        opacity: 0;
+        z-index: 99999;
+        transform-origin: left center;
+    }
+
+    /* Overlay vỡ kính */
+    #crack-overlay {
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        background-size: cover;
+        opacity: 0;
+        z-index: 99998;
+        transition: opacity 0.2s ease-out;
+    }
+
+    /* rung màn hình */
+    @keyframes screenShake {
+        0% { transform: translate(0, 0); }
+        20% { transform: translate(-10px, 0); }
+        40% { transform: translate(10px, 0); }
+        60% { transform: translate(-5px, 0); }
+        80% { transform: translate(5px, 0); }
+        100% { transform: translate(0, 0); }
+    }
+
+    /* bảng đánh từ nhiều hướng */
+    @keyframes hit-from-top {
+        0% { opacity: 1; transform: translateY(-400px) rotate(20deg); }
+        100% { transform: translateY(230px) rotate(80deg); }
+    }
+    @keyframes hit-from-left {
+        0% { opacity: 1; transform: translateX(-400px) rotate(-30deg); }
+        100% { transform: translateX(250px) rotate(20deg); }
+    }
+    @keyframes hit-from-right {
+        0% { opacity: 1; transform: translateX(400px) rotate(30deg); }
+        100% { transform: translateX(-250px) rotate(-40deg); }
+    }
+    @keyframes hit-from-bottom {
+        0% { opacity: 1; transform: translateY(400px) rotate(-20deg); }
+        100% { transform: translateY(-250px) rotate(60deg); }
+    }
+
+</style>

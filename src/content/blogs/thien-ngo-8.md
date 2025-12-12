@@ -28,7 +28,11 @@ Dưới sự khiêu khích của người hái dẻ, Thanh Khoát phát khởi c
 
 Nghe lời này, người hái dẻ liền cười, chắp tay nói: “Thế còn không uống trà đi!”
 
-Thanh Khoát và Xung Húc, hai vị thiền tăng mới tỉnh ngộ, người hái dẻ trước mắt đây chính là am chủ Khế Như. Ba người đi đến hang cây, uống trà, đàm luận thiền. Trà núi thanh khiết, uống vào hơi say, cảm thấy như nước suối, như mây trắng, yên tĩnh chảy, nhẹ nhàng trôi; cao tăng luận đạo như tiên, hạc hót trên tầng mây, như bảy sắc cầu vòng nhảy múa trên nền trời, khiến người ngây ngất, như mê như say. Thiền sư Thanh Khoát và thượng tọa Xung Húc ngồi hai bên trái phải, không hay không biết đã đến đầu đêm. Trong lúc vô ý Thanh Khoát nháy mắt nhìn ra bên ngoài, trời ạ, chỉ thấy bên ngoài sài, lang, hổ, báo lũ lượt đi đến trước am, hoặc nhẹ nhàng đi quanh cây lớn một vòng, hoặc tự tại nằm trên đất, tự nhiên mà thuần phục. Nên Thiền sư Thanh Khoát làm một bài thơ phú khen rằng:
+Thanh Khoát và Xung Húc, hai vị thiền tăng mới tỉnh ngộ, người hái dẻ trước mắt đây chính là am chủ Khế Như. Ba người đi đến hang cây, uống trà, đàm luận thiền. 
+
+Trà núi thanh khiết, uống vào hơi say, cảm thấy như nước suối, như mây trắng, yên tĩnh chảy, nhẹ nhàng trôi; cao tăng luận đạo như tiên, hạc hót trên tầng mây, như bảy sắc cầu vòng nhảy múa trên nền trời, khiến người ngây ngất, như mê như say. Thiền sư Thanh Khoát và thượng tọa Xung Húc ngồi hai bên trái phải, không hay không biết đã đến đầu đêm. Trong lúc vô ý Thanh Khoát nháy mắt nhìn ra bên ngoài, trời ạ, chỉ thấy bên ngoài sài, lang, hổ, báo lũ lượt đi đến trước am, hoặc nhẹ nhàng đi quanh cây lớn một vòng, hoặc tự tại nằm trên đất, tự nhiên mà thuần phục. Nên Thiền sư Thanh Khoát làm một bài thơ phú khen rằng:
+
+<blockquote> 
 
 Làm không bằng không làm, ai biết sự ở đi.
 
@@ -37,14 +41,18 @@ Bữa ăn như chưa no, nhà nhà không nhờ vả.
 Không đạo nên khó phục, tay không chớ tranh giành,
 
 Rồng hét mây nổi dậy, hai ba tiếng tiêu nhàn.
+</blockquote>
 
-(Hành bất đẳng nhàn hành, thùy tri khứ trú tình.
+<blockquote> 
+
+Hành bất đẳng nhàn hành, thùy tri khứ trú tình.
 
 Nhất xan do vị bảo, vạn hộ vật liêu sinh.
 
 Phi đạo ưng nan phục, không quyền mạc dự tranh.
 
-Long ngâm vân khởi xứ, nhàn tiêu lưỡng tam thanh.)
+Long ngâm vân khởi xứ, nhàn tiêu lưỡng tam thanh.
+</blockquote>
 
 Thanh Khoát và Xung Húc hai người cảm thấy hang cây của am chủ Khế Như cũng rất nhỏ bé chật hẹp liền làm một ngôi am cỏ tại núi Đại Chương , mời Ngài đến ở. Dưới sự chỉ giáo của Khế Như, mặc dầu thiền sư Thanh Khoát có chỗ sở đắc nhưng trong lòng luôn cảm thấy có sự ngưng trệ, giống như xem hoa trong sương, ngắm trăng trong nước, mơ mơ hồ hồ, mông lung mờ mịt,không rõ ràng xác thực; lại thấy toàn thân như bôi một lớp keo, dính chặt như hồ, không nhanh nhẹn, không thoải mái, thật khiến cho người ta phiền muộn.
 
@@ -120,6 +128,8 @@ Một vị thiền giả, nếu không có thể đạt được không làm mà
 
 Thiền sư Thanh Khoát duyên đời sắp hết, muốn ẩn vào núi sâu đợi ngày nhập diệt, liền di chúc kệ:
 
+<blockquote> 
+
 Người đời không nói đường đi khó,
 
 Đường xa vạn dặm trong gang tấc.
@@ -127,14 +137,18 @@ Người đời không nói đường đi khó,
 Tạm biệt cây gai bên nước suối
 
 Người về biển biếc ta về non
+</blockquote>
 
-(Thế nhân hưu thuyết lộ hành nan,
+<blockquote> 
+
+Thế nhân hưu thuyết lộ hành nan,
 
 Điểu đạo dương trường chỉ xích gian.
 
 Trân trọng trữ khê khê bạn thủy,
 
-Nhữ qui thương hải nga Quy Sơn.)
+Nhữ qui thương hải nga Quy Sơn.
+</blockquote>
 
 Lập tức, ngài nhường chức trụ trì, rời chùa Bảo Phúc, đến tháp Quý Hồ cất một am cỏ. Lúc sắp nhập diệt, ngài nói với đệ tử: “Sau khi ta chết, đem thi thể ta vứt cho sâu, kiến, để chúng có một bữa ăn ngon, no, tiết kiệm được việc xây tháp, chôn cất”.
 
@@ -192,6 +206,8 @@ Từ đó, Triệu Kế Vĩnh bắt đầu nuôi bò cạp với số lượng l
 
 Thiền sư Long Tế Thiệu Tu, nguyên xuất gia với Thiền sư Huệ Lăng tại chùa Trường Khánh tỉnh Phúc Châu. Năm nọ, một tỳ kheo trẻ từ Chiết Giang vân du đến chùa Trường Khánh xin ngủ nhờ. Ông là Đại sư Văn Ích rất nổi tiếng, khai sáng tông Pháp Nhãn sau này. Pháp Nhãn Văn Ích hào hoa phong nhã, bụng đầy gấm vóc; Long Tế Thiệu Tu tâm hồn khoáng đãng, cử chỉ tự tại; còn một vị nữa là thiền sư Pháp Tiến, ba người tuổi tác xấp xỉ, tính tình gần giống nhau, đều là những thiền khách đầy ý chí. Tự nhiên trở thành bạn tốt. Họ tham thiền ở dưới trướng của thiền sư Trường Khánh Huệ Lăng đã lâu, cơ duyên chưa khế hợp, không thể ngộ nhập. Thế là, sau khi giải hạ, nhân mùa thu mát mẽ ba người bạn tốt cùng nhau tham học kết bạn đi vân du đó đây.
 
+<blockquote> 
+
 Chùa Phật cô trang giữa vách núi,
 
 Ta đến cảnh thơ càng tương quan.
@@ -199,14 +215,18 @@ Ta đến cảnh thơ càng tương quan.
 Bên động cây rung khỉ xuống suối,
 
 Trong mây lay động Tăng lên núi.
+</blockquote>
 
-(Phật thi cô trang thiên chướng gian,
+<blockquote> 
+
+Phật thi cô trang thiên chướng gian,
 
 Ngã lai thi cảnh cường tương quan.
 
 Nham biên thọ động hầu hạ giản,
 
-Vân lí tích động tăng thướng sơn.)
+Vân lí tích động tăng thướng sơn.
+</blockquote>
 
 Thiệu Tu và hai người bạn tham thiền cùng thong thả vân du, họ vào núi sâu viếng chùa cổ, vào am cỏ thăm lão tăng, không hay khong biết cây cỏ đã ngã sang màu vàng, lá bay lác đác. Mùa đông lặng lẽ đến. Lúc họ đi qua Chương Châu, một trận tuyết lớn trên trời giáng xuống, trời đất mịt mờ, đi lại trở ngại. Họ đến thiền viện Địa Tạng phía Tây Chương Dương, xin ngủ nhờ, định đợi tuyết dừng rồi vân du tiếp.
 
@@ -242,13 +262,16 @@ Thiệu Tu bị hai người họ cười nhạo đỏ cả mặt, ông vừa x�
 
 Pháp Nhãn Văn Ích không cười đùa nữa, trịnh trọng hỏi ông ta: “Chúng ta cùng tham bái Đại sư Trường Khánh Huệ Lăng, ông lại xuất gia ở chùa Trường Khánh, tham thiền lâu năm, một bài kệ ngài nói:
 
-“Trong vạn tượng riêng lộ tự thân,
+<blockquote> 
+
+Trong vạn tượng riêng lộ tự thân,
 
 Riêng ta tự nhận mới biết gần.
 
 Ngày xưa lầm lỡ tìm giữa đường,
 
-Ngày nay nhìn lại băng trong lửa.”
+Ngày nay nhìn lại băng trong lửa.
+</blockquote>
 
 “Trong vạn tượng riêng lộ tự thân là ra khỏi vạn tượng hay không ra khỏi vạn tượng?”
 
@@ -338,6 +361,8 @@ Thiền sư Thiệu Tu nói: “Là ai đang hỏi như vậy?”
 
 Thiền sư Thiệu Tu học rộng văn hay, có trước tác “Quần Kinh Lược Yếu” và hơn 60 bài thơ tụng truyền lại cho đời. Như:
 
+<blockquote> 
+
 Gió động tâm cây lay,
 
 Mây sanh thổi bụi trần.
@@ -377,6 +402,7 @@ Các duyên chỉ tánh biết.
 Vốn không người mê ngộ,
 
 Chỉ cần hôm nay thôi.
+</blockquote>
 
 ### Liên quan đến Thiền cơ: Câu Chuyện Nguyên Hiểu
 
@@ -454,29 +480,53 @@ Tổ thứ tư của Thiền Tông là đại sư Đạo Tín. “Tục Cao Tăn
 
 Tóm lại, Truyền pháp của Tổ thứ năm Thiền Tông, chủ yếu vẫn là truyền thiền học của Phật giáo Ấn Độ. Từ ngài Đạt Ma cho đến ngài Hoằng Nhẫn đều là những nhân vật quá độ từ thiền học đến thiền tông. Kiến lập Thiền Tông đích thực là những vị bắt đầu từ ngài Huệ Năng trở đi. Ngài Hoằng Nhẫn truyền pháp cho Huệ Năng. Ngài Huệ Năng, đời xưng là Lục Tổ Thiền Tông. Liên quan đến thân thế của ngài Huệ Năng trong “Huệ Năng Truyện” ở sách Cao Tăng Truyện đời nhà Tống, “Lục Tổ Đại Sư Duyên Khởi Ngoại Ký” của Pháp Hải đều có ghi chép lại. Đại sư Huệ Năng (638-713) họ Lư, phụ thân Ngài nguyên làm quan ở Phạm Dương, sau bị đày đến Tân Châu Lĩnh Nam (nay là huyện Tân Hưng tỉnh Quảng Đông). Đại sư Huệ Năng xuất thân như vậy. Không lâu sau đó, phụ thân qua đời ngay nơi bị lưu đày, ngài nhờ vào sự “thủ chí cúc dưỡng” của mẹ. Huệ Năng lớn lên, mưu sanh bằng nghề đốn củi để , phụng dưỡng mẹ già. Vì gia đình Huệ Năng lụn bại, từ nhỏ Ngài đã không được học hành, những Ngài lại rất thông minh, rất có khả năng lãnh hội Phật pháp. Theo truyện chép lại : Một hôm Ngài đang bán củi ở chợ, nghe người ta tụng đọc kinh Kim Cang, lập tức “có sự tỉnh ngộ”, bèn hỏi khách đang tụng kinh gì, người khách nói ông ta học được từ Hòa thượng Ngũ Tổ Hoằng Nhẫn. Ngài liền từ biệt mẫu thân, giã từ Lãnh Nam đến núi Bằng Mộ Hoàng Mai ở Kỳ Châu-Tỉnh Hồ Bắc lễ bái Hòa thượng Ngũ Tổ Hoằng Nhẫn. Lúc Ngài vừa gặp Hòa thượng Hoằng Nhẫn, thầy trò hỏi đáp đã đem lại ấn tượng tốt cho đại sư Hoằng Nhẫn. Lúc đó, Hòa thượng Hoằng Nhẫn nói với Ngài: “Người Lĩnh Nam, là mọi rợ làm sao có thể làm Phật?” Huệ Năng trả lời thẳng thắn, mạnh mẽ: “Người có Nam có Bắc, Phật tánh không có Nam Bắc, mọi rợ và Hòa thượng khác nhau, nhưng Phật tánh đâu sai khác!” Đại sư Hoằng Nhẫn nghe xong, nhìn thấu Ngài là bậc rất có “căn khí”, bèn cho ở lại, bảo Ngài làm việc ở trong phòng giã gạo của chùa. Sau khi làm việc được khoảng 8 tháng, đại sư Hoằng Nhẫn muốn truyền pháp cho đệ tử. Bảo đệ tử trình kệ tụng lên, để khảo sát sự cao thấp trong cảnh giới chứng ngộ của đệ tử. Đệ tử lớn của đại sư Hoằng Nhẫn là Thần Tú được công nhận là người kế thừa pháp trong tương lai. Ngài viết một bài kệ tụng:
 
-“Thân là cây bồ đề,
-Tâm là đài gương sáng,
-Giờ giờ thường lau chùi,
-Đừng để dính bụi bặm.”
+<blockquote> 
 
-(Thân thị bồ đề thọ,
+Thân là cây bồ đề,
+
+Tâm là đài gương sáng,
+
+Giờ giờ thường lau chùi,
+
+Đừng để dính bụi bặm.
+</blockquote>
+
+<blockquote> 
+
+Thân thị bồ đề thọ,
+
 Tâm như minh cảnh đài,
+
 Thời thời cần phất thức,
-Mạc sử hữu trần ai.)
+
+Mạc sử hữu trần ai.
+</blockquote>
 
 Trình lên cho đại sư Hoằng Nhẫn thẩm duyệt. Bài kệ tụng này rõ ràng thừa nhận sự tồn tại khách quan của “thân” và “tâm”, trái ngược với quan niệm Chân Như Bản Thể luận của Phật giáo, hiển nhiên là cảnh giới chứng ngộ chưa cao. Nhưng Thần Tú là đệ tử lớn lại không tiện công khai nói ra.
 
 Đại sư Huệ Năng nghe đọc bài hệ tụng của Thần Tú, cũng thấy cảnh giới ngộ của Thần Tú chưa cao, bèn nhờ người viết bài hệ tụng của mình ra trình cho đại sư Hoằng Nhẫn.
 
-“Bồ đề vốn không cây,
-Tâm không phải gương sáng,
-Phật tánh thường thanh tịnh,
-Chỗ nào dính bụi bặm.”
+<blockquote> 
 
-(Bồ đề bổn vô thọ,
-Minh cảnh diệc phi đài,
+Bồ đề vốn không cây,
+
+Tâm không phải gương sáng,
+
 Phật tánh thường thanh tịnh,
-Hà xứ nhiễm trần ai.)
+
+Chỗ nào dính bụi bặm.
+</blockquote>
+
+<blockquote> 
+
+Bồ đề bổn vô thọ,
+
+Minh cảnh diệc phi đài,
+
+Phật tánh thường thanh tịnh,
+
+Hà xứ nhiễm trần ai.
+</blockquote>
 
 Đại sư Hoằng Nhẫn thấy cảnh giới ngộ của tác giả bài hệ tụng này rất cao, liền quyết định truyền pháp cho Ngài, nhưng biết đệ tử sẽ tranh đấu kịch liệt để kế thừa Pháp, sợ có người sẽ hại Huệ Năng, nên chỉ có thể lén truyền pháp y vào ban đêm, và bảo Huệ Năng ngay trong đêm phải trốn đi. Thế là Huệ Năng tiếp thọ pháp y, ngay trong đêm từ Hoàng Mai trốn trở về Lĩnh Nam. Đến Lĩnh Nam ẩn náu ở đó suốt 19 năm, sau này, nghe nói, nhân Huệ Năng nghe hai người tranh cãi “Sự lay động của gió và phướn”, mỗi người đều cho mình là đúng, không phân thắng bại, Huệ Năng bèn nói chen vào : “không phải phướn động, gió động, mà tự tâm người động”. Được Thiền sư Ấn Tông khen ngợi, và được biết chuyện Huệ Năng nhận pháp y, nên dưới sự chủ trì của Thiền sư Ấn Tông, Huệ Năng được xuống tóc, thọ giới - Huệ Năng chính thức xuất gia. Ít lâu sau, Huệ Năng chính thức đến Tào Khê (nay huyện Khúc Giang tỉnh Quảng Đông) mở đạo tràng truyền bá giáo pháp. Huệ Năng còn được xưng là “Tào Khê đại sư” cũng do đây mà ra vậy. Huệ Năng ở Lĩnh Nam lập tông truyền giáo, đối lập với Thần Tú ở Hoàng Mai. Thần Tú ở phía Bắc nên gọi là “Bắc Tông”; Huệ Năng ở phía Nam nên gọi là “Nam Tông”. Huệ Năng truyền giáo tại Tào Khê, hoằng truyền Thiền tông tới hơn 30 năm, viên tịch năm 76 tuổi. Mấy mươi năm truyền giáo, Huệ Năng hoằng dương giáo nghĩa, xác lập toàn bộ tông chỉ tư tưởng của Thiền tông, những lời lẽ truyền giáo của Ngài sau này được đệ tử thu tập lại thành một quyển gọi là “Đàn Kinh”. Nhờ sư khai sáng của Ngài Huệ Năng, Thiền tông mới chính thức thành lập ở Trung Quốc, tông chỉ độc đáo của Thiền tông, như tư tưởng cơ bản của luận Chân Như Phật Tánh, phương pháp tu hành sáng tâm thấy tánh, không lập văn tự, tự lực tự độ, đốn ngộ thành Phật… mới được đề xuất thành hệ thống, cho nên ngài Huệ Năng mới thực sự là người sáng lập Thiền tông. Nhưng lúc ngài Huệ Năng còn tại thế, sự truyền bá của Thiền tông vẫn chỉ hạn chế ở vùng Lĩnh Nam. Sau khi ngài qua đời, Thần Hội đệ tử của ngài mới anh dũng xông ra, đem Thiền tông phía Nam truyền xuống phía Bắc. Thiền tông của Huệ Năng mới được truyền bá rộng rãi và cuối cùng thay thế luôn cả Bắc tông. Sau này trở thành Nam Tông nhất thống thiên hạ. Huệ Năng là một người lao động không biết chữ, lại khai sáng ra một tông phái thịnh hành trong xã hội phong kiến Trung Quốc hơn cả 1000 năm, đây là một sự kiện hiếm thấy, thể hiện rõ nét sự thần kỳ phi phàm của Thiền tông. Huệ Năng dùng trí tuệ đặc biệt của mình dung hợp tư tưởng đông tây thành một mối, khai sáng ra tông phái Phật giáo thực sự mang sắc thái Trung Quốc, thành tích và công lao của Ngài trong lịch sử thật bất hủ. Sau khi Huệ Năng lập tông, mọi người vân tập, đệ tử kế thừa pháp có hơn 40 người như Hành Tư, Hoài Nhượng, Thần Hội, Huyền Giác, Huệ Trung, Pháp Hải… Trong đó đặc biệt có hai vị Nam Nhạc Hoài Nhượng và Thanh Nguyên Hành Tư hoằng truyền thịnh hành nhất.
 

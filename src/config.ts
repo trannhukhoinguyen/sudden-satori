@@ -54,7 +54,10 @@ export const config: SiteConfig = {
 
   collections: [
     "health",
+
     "blogs",
+    "wordpress",
+
     "books",
     "interpretations",
 
@@ -75,6 +78,7 @@ export const config: SiteConfig = {
   categoryNames: {
     health: "Sức khỏe & Bài thuốc",
     blogs: "Bài viết",
+    wordpress: "Duy Lực Thiền",
     books: "Sách",
 
     interpretations: "Luận giải",
@@ -109,6 +113,7 @@ export const config: SiteConfig = {
   categoryDescriptions: {
     health: "Xem Bài viết làm sáng tỏ về Sức khỏe & Bài thuốc",
     blogs: "Xem Bài viết làm sáng tỏ về Phật Pháp",
+    wordpress: "Xem Bài viết Duy Lực Thiền",
     books: "Xem Sách về Phật Pháp",
 
     interpretations: "Xem Luận giải các Kinh liên quan đến Tổ Sư Thiền",

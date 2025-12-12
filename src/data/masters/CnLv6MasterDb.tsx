@@ -354,7 +354,7 @@ const CnLv6MasterDb = [
     name_ja: 'Sozan Kyōnin',
     name_zh: '疏山匡仁',
     name_vi: 'Sơ Sơn Khuôn Nhân',
-    other_name_vi: 'Sớ Sơn',
+    other_name_vi: 'Sớ Sơn Khuôn Nhân',
     nickname_vi: '',
     worship_tower: '',
     birth_death_time: ['837', '909'],

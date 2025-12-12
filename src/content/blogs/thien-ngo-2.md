@@ -618,6 +618,8 @@ Thiền sư Bách Trượng Niết Bàn đối diện với những cặp mắt 
 
 Ánh mặt trời đỏ rực từ sau lưng Ngài chiếu ngang qua khảm lên hình dáng của Ngài những kim quang xán lạn, giống như thân thể Ngài đang phóng ra hào quang thần kỳ vậy! Các đệ tử ngẩng đầu nhìn thần thái vừa vui vẻ vừa ôn hoà, vừa hiền từ vừa thần thánh của Sư phụ, tâm linh cảm thấy xúc động mạnh mẽ, bỗng nhiên hiểu ra lao động tức là tu thiền, sinh hoạt tức là chân đế của Phật pháp. Khen rằng:
 
+<blockquote> 
+
 Nam Tuyền Duy Chính xách nước kéo bùn,
 
 Một vùng thất bại, thấu lộ thiền cơ,
@@ -625,14 +627,18 @@ Một vùng thất bại, thấu lộ thiền cơ,
 Mở ruộng tu hành, hình hai mà một ,
 
 Dang rộng hai tay, đại nghĩa mặc khế.
+</blockquote>
 
-(Nam Tuyền Duy Chính, đới thủy đà nê.
+<blockquote> 
+
+Nam Tuyền Duy Chính, đới thủy đà nê.
 
 Nhất trường bại quyết, thấu lộ thiền cơ.
 
 Khai điền tu hành, hình nhị thực nhất.
 
-Triển khai song thủ, đại nghĩa mặc khế.)
+Triển khai song thủ, đại nghĩa mặc khế.
+</blockquote>
 
 <hr class="blog-rule" />
 

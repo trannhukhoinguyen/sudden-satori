@@ -34,6 +34,8 @@ Trong 20 năm Huệ Lăng đã ngồi rách 7 chiếc bồ đoàn! Có thể th�
 
 Một hôm, lúc ông đang cuốn tấm rèm cửa lên, bỗng nhiên nhìn thấy bên ngoài là cả một thế giới mới toanh tràn đầy sức sống, trong lòng tự rỗng rang đại ngộ, bốn câu hệ này ào ào tuôn ra:
 
+<blockquote> 
+
 Rộng lớn thay, rộng lớn thay,
 
 Kéo rèm lên thấy thiên hạ,
@@ -41,6 +43,7 @@ Kéo rèm lên thấy thiên hạ,
 Có người hỏi hiểu tông gì?
 
 Đưa phất trần đánh vào miệng.
+</blockquote>
 
 Kỳ diệu quá, Kỳ diệu quá! Cảnh giới sau khi khai ngộ lại diệu kỳ không thể tả như vậy, cho nên, nếu bạn mở miệng để hỏi, liền đưa phất trần đánh vào miệng bạn!
 
@@ -52,21 +55,27 @@ Huyền Sa Sư Bị lại nói: “Không thể ấn chứng vội vàng như th
 
 Đến lúc tiểu tham ban tối. Huệ Lăng cũng tham dự như thường lệ, đi theo chúng Tăng lên thưa hỏi sư phụ, Tuyết Phong nói với ông: “Sư huynh Huyền Sa Sư Bị không chấp nhận bài kệ của ngươi, nếu ngươi thực sự đã chứng ngộ, thì ngay trước mặt đại chúng hãy nói ra.” Huệ Lăng lại có bài kệ tụng rằng:
 
-“Trong vạn tượng một mình ta đi,
+<blockquote> 
+
+Trong vạn tượng một mình ta đi,
 
 Chỉ ta thừa nhận ta mới biết.
 
 Ngày xưa lầm lỡ tìm trong đó,
 
-Ngày nay thấy rõ lửa trong băng.”
+Ngày nay thấy rõ lửa trong băng
+</blockquote>
 
-(vạn tượng chi trung độc lộ thân,
+<blockquote> 
+
+Vạn tượng chi trung độc lộ thân,
 
 Duy nhân tự khẳng nãi phương thân.
 
 Tích thời mậu hướng đồ trung mích,
 
-Kim nhật khán lai hỏa lí băng.)
+Kim nhật khán lai hỏa lí băng
+</blockquote>
 
 Sâm la vạn tượng, tự tánh như vậy, chỉ có ta thừa nhận, mới có thể khế nhập đại đạo. Vì thế, ngày xưa cứ đến đi qua lại tìm cầu “Tổ sư Tây lai ý” từ bên ngoài, thậm chí “ngồi rách bảy chiếc bồ đoàn” cũng đều là cành lá trên ngọn mà thôi, chứ chưa đạt đến gốc của nó được; Ngày nay hiểu ra, chữ nghĩa tìm hiểu, thậm chí công phu tọa thiền đều là người đứng giữa đường mà tìm kiếm vườn nhà. Mà sau khi khai ngộ, lại thấy tất cả những điều này giống như băng ở trong lửa, hư huyễn không thật, hoàn toàn không thể có!”
 
@@ -202,21 +211,27 @@ Thiền sư Trường Khánh Đại An tiếp nhận đạo tràng của Quy Sơ
 
 Mười năm dần trôi, gió xuân lại xanh ngắt núi Đại Qui. Một hôm, Linh Vân Chí Cần lao động từ ruộng trở về, ngài ngẫu nhiên ngẩng đầu, bỗng phát hiện hoa đào trong sân chùa nở rộ, rực rỡ xán lạn, ngài hoát nhiên ngộ đạo! Bốn câu kệ này tự nhiên từ tâm mà tràn ra như thế:
 
+<blockquote> 
+
 Ba mươi năm đi tìm kiếm khách,
 
 Mấy độ lá rơi rồi nảy lộc.
 
 Từ sau thấy được hoa đào nở,
 
-Mãi đến bây giờ càng rõ hơn.
+Mãi đến bây giờ càng rõ hơn
+</blockquote>
 
-(tam thập niên lai tầm kiếm khách,
+<blockquote> 
+
+Tam thập niên lai tầm kiếm khách,
 
 Kỷ hồi lạc diệp hựu trừu chi,
 
 Tự tùng nhất kiếnđào hoa hậu,
 
-Trực chí như kim cánh bất nghi.)
+Trực chí như kim cánh bất nghi
+</blockquote>
 
 Nếu không có ba mươi năm công phu tựa hồ như lãng phí ấy, thì ngài có ở cả đời trong rừng đào ấy, cũng coi như là ngày ngày xem hoa đào, dù cho ngày ngày đều ăn hoa đào thì cũng không thể rỗng rang đại ngộ được.
 
@@ -558,6 +573,8 @@ Nhà thơ tăng sĩ Kiểu Nhiên (khoảng 720 – 793 Tây lịch), so với T
 
 Sau niên hiệu Chí Đức đời nhà Đường, Kiểu Nhiên cư trú lâu dài ở chùa Diệu Hỷ núi Trữ ở Ngô Hưng (nay là ranh giới giữa Tây Bắc tỉnh Chiết Giang và Nghi Hưng tỉnh Giang Tô), cùng với nhà thơ tăng sĩ Lĩnh Triệt, nhà đại thư pháp Nhan Chân Khanh, nhà đại văn học Vĩ Ưng Vật…xướng hoạ qua lại, kết thành bạn bè thi ca. Vì vậy, thiền sư Kiểu Nhiên để lại cho lịch sử, không chỉ là công án và ngữ lục truyền thống mà còn có 10 quyển thơ ý vị: “Trữ Sơn Tập” (cũng gọi là Kiểu Nhiên Tập), mang phong cách độc đáo, phong vận đặc biệt của ngài. Bình luận thơ của ngài có địa vị nổi bật trong lịch sử phê bình văn học của Trung Quốc đó là “hình thức thơ”, “nghị luận thơ”, “bình thơ”; trước đời Đường, nó là một trước tác có ảnh hưởng sâu rộng nhất trong lịch sử bình luận thơ.
 
+<blockquote> 
+
 Mưa lất phất mái hiên,
 
 Ao nhuốm màu xanh ngắt.
@@ -573,8 +590,11 @@ Nhà tối tiếng trúc vào.
 Buổi sáng ngắm không chán,
 
 Ngâm nga gởi yên lành.
+</blockquote>
 
-(Phiến vũ phất thiềm doanh,
+<blockquote> 
+
+Phiến vũ phất thiềm doanh,
 
 Phiền khâm tứ toà thanh.
 
@@ -588,9 +608,12 @@ U gian nhập trúc thanh.
 
 Triêu quán thú vô hạn,
 
-Cao vịnh kí nhàn tình.)
+Cao vịnh kí nhàn tình.
+</blockquote>
 
 Mùa hạ năm nọ, Kiểu Nhiên cùng bạn bè leo lên lầu Quán Nông, mưa bay mịt mù bao phủ cánh đồng hoang, cây cối lay động trong gió nhẹ, nếu thiền tâm không sáng suốt, làm sao có thể cảm nhận được cây mai khô lặng lẽ rơi rụng.
+
+<blockquote> 
 
 Dời nhà tuy đến thành,
 
@@ -607,8 +630,11 @@ Muốn đi hỏi nhà Tây.
 Bảo đi vào trong núi,
 
 Quay về lúc xế chiều.
+</blockquote>
 
-(Di gia tuy đới quách,
+<blockquote> 
+
+Di gia tuy đới quách,
 
 Dạ kinh nhập tang sàng.
 
@@ -622,11 +648,14 @@ Dục khứ vấn Tây gia.
 
 Báo đạo sơn trung khứ,
 
-Qui thời mỗi nhật tà.)
+Qui thời mỗi nhật tà.
+</blockquote>
 
 Kiểu Nhiên tràn đầy hứng thú tìm thăm người bạn là Lục Hồng Tiệm, nhưng thật không may, người bạn đi vắng, gặp phải cảnh nhà cửa đóng.
 
 Thế mà chúng ta không những không cảm thấy sự thất vọng trong thơ của Ngài, mà ý cảnh trong thơ ngược lại, nhân thăm bạn không gặp mà càng tăng thêm vẻ thanh đạm u tĩnh, tái hiện sống động thiền hứng của tác giả trong cuộc sống ẩn dật sông núi.
+
+<blockquote> 
 
 Trăng lạnh bóng tùng như ngọc rơi,
 
@@ -635,18 +664,24 @@ Trăng lạnh bóng tùng như ngọc rơi,
 Sáng sớm nhẹ nhàng lướt trên sương,
 
 Nguyện cùng sông núi đến tuổi già.
+</blockquote>
 
-(Tùng nguyệt ảnh hàn sanh bích lạc,
+<blockquote> 
+
+Tùng nguyệt ảnh hàn sanh bích lạc,
 
 Thạch tuyền thanh loạn phún sàn viên.
 
 Minh triêu cánh nhiếp tầng tiêu khứ,
 
-Thệ cộng yên hà đáo lão nhàn.)
+Thệ cộng yên hà đáo lão nhàn.
+</blockquote>
 
 Ai nói tăng sĩ thân như cây khô, tâm như tro tàn? Họ tự có tình cảm vừa đặc biệt vừa sâu sắc nữa. Đương nhiên tình cảm của họ mang đậm phong thái khí tiết của tùng trúc, trăng hoa mây núi. Thế là, dưới ngòi bút của Kiểu Nhiên, tùng cô lẻ nhưng cao ngạo, trúc già mà đầy khí tiết, trăng thanh mà lạnh lùng, mây trắng mà tinh khiết. Ngài kế thừa truyền thống thơ sơn thuỷ. Lại còn thêm linh hồn siêu nhiên của thiền, cuối cùng trở thành phong cách độc đáo của dòng thơ “Thanh Cảnh”. Anh hưởng đó kéo dài cho đến dòng thơ Giang Tây đời Tống.
 
 Nhưng mà Kiểu Nhiên rốt cuộc vẫn là một Tăng sĩ, là Thiền sư, do đó trong thơ của Ngài càng có nhiều cảnh giới của Thiền, sự tu tập của Thiền. Cảnh giới Thiền như:
+
+<blockquote> 
 
 Xưa nay Hồ Thượng thắng nhân gian,
 
@@ -662,9 +697,12 @@ Viễn ái phù vân độc tự hoàn,
 
 Cô nguyệt không thiên kiến tâm địa,
 
-Liêu liêu nhất thuỷ kính trung sơn.)
+Liêu liêu nhất thuỷ kính trung sơn.
 
 (Tiễn Duy Kinh thượng nhân trở về Đỗng Đình)
+</blockquote>
+
+<blockquote> 
 
 Ý nào muốn về núi?
 
@@ -677,8 +715,11 @@ Trăng tàn biết chứng tâm.
 Suốt đêm ngâm thơ thiền,
 
 Vượn xanh tự tương ứng.
+</blockquote>
 
-(Hà ý dục Quy Sơn?
+<blockquote> 
+
+Hà ý dục Quy Sơn?
 
 Đạo cao do thắng cảnh.
 
@@ -688,14 +729,16 @@ Nguyệt tận tri tâm chứng.
 
 Vĩnh dạ xuất thiền ngâm,
 
-Thanh viên tự tương ưng.)
+Thanh viên tự tương ưng.
 
 (Tiễn Thanh Lương thượng nhân)
+</blockquote>
 
 Có lẽ do hai bài thơ này đều viết cho hai vị cao Tăng tham thiền chứng ngộ, tâm linh sắc bén mà Kiểu Nhiên càng đề cập nhiều đến cảnh giới tu tập thiền. Trong thiền định treo vầng trăng tâm, sáng suốt rõ ràng như tấm gương trong, vắng lặng mà thường chiếu, chiếu sáng mà thường vắng lặng.
 
 Mã Tổ Đạo Nhất nói: “Phàm thấy được sắc, đều là thấy tâm; tâm không phải từ tâm nhờ sắc mà có”. Chính vì thế, “hoa đốm hư không tức tánh giác”, “trăng tàn” mà biết “tâm chứng” – sắc chẳng khác không, không chẳng khác sắc, sắc tức là không, không tức là sắc.
 
+<blockquote> 
 Chùa cổ trên Hàn Sơn,
 
 Chuông xa đưa theo gió.
@@ -707,8 +750,11 @@ Vang đến tận hư không.
 Thiền tăng suốt đêm dài,
 
 An nhiên tâm trong cảnh.
+</blockquote>
 
-(Cổ tự Hàn Sơn thượng,
+<blockquote> 
+
+Cổ tự Hàn Sơn thượng,
 
 Viễn chung dương hảo phong.
 
@@ -718,7 +764,7 @@ Hưởng tận sương thiên không.
 
 Vĩnh dạ nhất thiền tử,
 
-Lãnh nhiên tâm cảnh trung.)
+Lãnh nhiên tâm cảnh trung.
 
 ### Liên quan đến thiền cơ: Thiền Và Thơ
 
@@ -738,6 +784,8 @@ Chính tu dưỡng thiền, thể nghiệm thiền và lãnh ngộ về thiền 
 
 Đồng thời, theo đà hưng thịnh của thiền tông, để trình bày và giải thích những điều thiền không thể nói, không thể bàn, các vị Tổ sư đã dùng nhiều bài kệ, thơ tụng để “đi đường vòng nói chuyện thiền”. Thế là, trong biển lớn thi ca sanh ra một đoá hoa kì lạ – thơ thiền. Thiền giả có khí khái dám chết dám sống, dám phá dám lập, đặc biệt có trí tụê lớn, “hạt cải chứa cả núi Tu di, một sợi lông hoá hiện cả đại thiên”. Hơn nữa sau khi thiền khai ngộ, trên tinh thần đạt đến tự do tuyệt đối, khí chất của họ chuyển biến thành nhẹ nhàng, thanh thoát, hào phóng gần với khí chất của thi nhân; điều chủ yếu hơn là phương thức tư duy thông thường của họ đã chuyển hoá thành tư duy linh cảm trực giác: “Tâm rỗng rang ngưng tư duy, suy nghĩ tinh vi mà thành lời, nhốt trời đất trong hình thể, nén vạn vật dưới đầu bút”, cho nên khong cần phải giống thi nhân “làm thơ mới nghiêng về nói chuyện sầu” như thế, tuỳ tay niêm luật, nên bài thơ rất hay:
 
+<blockquote> 
+
 Muốn biết đạo của ta
 
 Không trái tính vạn vật
@@ -745,6 +793,7 @@ Không trái tính vạn vật
 Biển lớn mặc cá bơi
 
 Trời rộng tuỳ chim lượn.
+</blockquote>
 
 Đầu tiên đề ra rõ ràng trạng thái thiền định và trạng thái tinh thần sáng tác thơ ca là tương tức tương dung. Đó là học trò của Kiểu Nhiên – nhà văn học lớn Lưu Vũ Dương.
 
@@ -760,6 +809,8 @@ Nhà thiên tài bình thơ Nghiêm Vũ lần đầu tiên đã phát biểu: �
 
 Từ đó, thơ và thiền kết hợp với nhau càng chặt chẽ hơn:
 
+<blockquote> 
+
 Học thơ sẽ như thiền buổi đầu,
 
 Chưa ngộ thì tham vấn mọi nơi.
@@ -769,6 +820,9 @@ Một sớm ngộ rồi mắt tuệ mở,
 Tin rằng niêm luật sẽ thành chương.
 
 (Hàn Câu tặng Triệu Bá Ngư)
+</blockquote>
+
+<blockquote> 
 
 Học thơ hoàn toàn giống tham thiền,
 
@@ -779,6 +833,9 @@ Trực tiếp tự mình đều hiểu được,
 Thanh nhàn niêm luật mới siêu nhiên.
 
 (Ngô Khải “Học làm thơ”)
+</blockquote>
+
+<blockquote> 
 
 Muốn xem luật giống tham thiền,
 
@@ -789,6 +846,9 @@ Quan tâm thoáng chốc liền chứng ngộ,
 Hiểu rồi câu chữ liền siêu nhiên.
 
 (Tái Phúc Cổ “Luận Thơ Thập Tuyệt”)
+</blockquote>
+
+<blockquote> 
 
 Học thơ giống như học tham thiền,
 
@@ -799,6 +859,7 @@ Chút sắt thành vàng như hư vọng,
 Núi cao nước chảy vẫn như nguyên.
 
 (Cung Tương “Học Thơ”)
+</blockquote>
 
 ### TẮC 28: LỄ LẠY CHÍNH MÌNH
 

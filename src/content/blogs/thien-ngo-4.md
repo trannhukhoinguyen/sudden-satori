@@ -125,10 +125,16 @@ Cảnh giới của Thiền chính hài hoà như thế, đẹp đẽ như thế
 Trong lòng Ngài vô cùng cảm kích, cùng sư Bá Mật làm lễ cáo từ. 
 Họ đi được một lúc, nghe trên đỉnh cao chót vót phía sau lưng, trong khoảng không mây trắng phiêu bồng, truyền đến một tràng ngâm tụng như có như không, như gần như xa:
 
-“Ba gian nhà tranh xưa nay ở,
+<blockquote> 
+
+Ba gian nhà tranh xưa nay ở,
+
 Một đạo thần quang vạn đạo nhàn,
+
 Chớ đem thị phi để bàn Ngã
-Phù sanh xuyên đục không liên quan”
+
+Phù sanh xuyên đục không liên quan
+</blockquote>
 
 Nhưng nơi am cỏ đã cháy lên ánh lửa bừng bừng.
 
@@ -347,13 +353,18 @@ Một người đoan chánh như thế, đương nhiên sẽ không mất đi m�
 
 Nước trà đậm ngon! Bếp trà bên đường này, Thiền sư Pháp Chân vừa nấu đó mà đã được ba năm. Một lần nọ, ngài vào trong núi sâu hái trà hoang, vô ý phát hiện ra một ngôi chùa cổ - chùa Đại Tuỳ. Ở đây, dãy núi bao quanh, các núi khoe sắc, rừng sâu rậm rạp, nước suối trong mát, thật là một đạo tràng tĩnh tu tuyệt hảo.
 
+<blockquote> 
+
 Mây núi mấy ngàn trùng điệp điệp
 
 Hang sâu đường xa chẳng bóng người
 
 Suối trong xanh nhiều thắng cảnh
 
-Đến đây chim hót hợp lòng người. (Chùa Hàn Sơn)
+Đến đây chim hót hợp lòng người.
+
+(Chùa Hàn Sơn)
+</blockquote>
 
 Càng thần kỳ hơn đó là trong chùa có một cây cổ thụ, chu vi đến bốn trượng, thân cây nghiêng về phía Nam có một miệng hang, vừa vặn như một con đường tự nhiên hình thành một cửa nhỏ, trong lỗ trống của cây, rộng rãi bằng phẳng, không phải giả tu sức, mà là chỗ ở kỳ diệu tự nhiên hình thành. Thiền sư Pháp Chân dời đến ở đó, tên nó là: “Mộc Thiền Am”. Từ đó, pháp hiệu của Ngài cũng tự nhiên đổi thành “Đại Tuỳ Pháp Chân”.
 
@@ -495,13 +506,16 @@ Thế mà, đợi đến lúc Thiền tăng kia ngược dòng Trường Giang m
 
 Mấy trăm năm sau, Cao Tăng Vân Môn Tuyết Đậu lại ngâm tụng công án rằng:
 
+<blockquote> 
+
 Lập mối nghi trong ánh lửa kiếp hoả,
 
 Nạp Tăng do đắm hai cửa lớn,
 
 Đáng tiếc một câu theo ông ta,
 
-Vạn dặm xa xôi về một mình”.
+Vạn dặm xa xôi về một mình
+</blockquote>
 
 ### Liên quan đến thiền cơ: Thành Trụ Hoại Không
 

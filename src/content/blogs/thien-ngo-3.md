@@ -756,9 +756,11 @@ Thiền sư Tử Ngọc nói ra một câu tuyệt xuất thiên cổ:
 
 “Núi xanh không ngăn mây trắng bay!”.
 
-### Liên quan đến thiền cơ: Hư Vân Giáo Hoá Căn Nguyên
+### Liên quan đến thiền cơ: Hư Vân Giáo Hoá Lý Căn Nguyên
 
-Thiền sư Tử Ngọc dùng trí tuệ và cơ trí của thiền giả để nhiếp phục Thái thú Tương Dương Vu Địch Tướng Công cường bạo hung ác, dường như có phần mang sắc thái truyền kì. Nếu nói, thời gian ngàn năm ngăn cách sự giao lưu trực tiếp giữa chúng ta và người xưa, vậy thì câu chuyện Đại sư Hư Vân cao tăng thời cận đại giáo hoá dẫn dắt tướng quân Căn Nguyên, có thể khiến chúng ta tai nghe mắt thấy phong thái truyền thừa liền một mạch từ xưa đến nay của các Thiền sư.
+Thiền sư Tử Ngọc dùng trí tuệ và cơ trí của thiền giả để nhiếp phục Thái thú Tương Dương Vu Địch Tướng Công cường bạo hung ác, dường như có phần mang sắc thái truyền kì. 
+
+Nếu nói, thời gian ngàn năm ngăn cách sự giao lưu trực tiếp giữa chúng ta và người xưa, vậy thì câu chuyện Đại sư Hư Vân cao tăng thời cận đại giáo hoá dẫn dắt tướng quân Căn Nguyên, có thể khiến chúng ta tai nghe mắt thấy phong thái truyền thừa liền một mạch từ xưa đến nay của các Thiền sư.
 
 Cuối triều nhà Minh, xã hội rối ren, phong khí ngày càng xuống dốc, trong cửa Phật tự nhiên cũng long xà hỗn tạp, cho nên khó tránh khỏi có một số người giới luật lỏng lẻo, hành vi bại hoại. Một viên phân chuột cũng đủ làm thối một nồi canh ngon. Vì thế, sau khi dân quốc kiến lập, khắp nơi trong cả nước sự tình đuổi Tăng phá chùa thỉnh thoảng xảy ra.
 
@@ -782,41 +784,55 @@ Lão Hoà thượng Hư Vân không khỏi mỉm cười, nói: “Xưa nay đ�
 
 Trên mặt Lý tướng quân mây vẹt sương tan.
 
-Ngày hôm sau, ông ta đích thân đến Thiền tự Chúc Thánh, nơi ở của lão Hoà thượng Hư Vân để thăm viếng, và theo chúng tăng tụng kinh ăn chay, tham thiền và còn bái Hoà thượng Hư Vân làm Thầy, khẩn cầu Đại sư truyền Tam quy cho ông ta (quy y Phật, quy y Pháp, quy y Tăng), trở thành một vị cư sĩ thành tín. Lúc sắp xuống núi, tướng quân Lý Căn Nguyên làm một bài thơ tặng ân sư:
+Ngày hôm sau, ông ta đích thân đến Thiền tự Chúc Thánh, nơi ở của lão Hoà thượng Hư Vân để thăm viếng, và theo chúng tăng tụng kinh ăn chay, tham thiền và còn bái Hoà thượng Hư Vân làm Thầy, khẩn cầu Đại sư truyền Tam quy cho ông ta (quy y Phật, quy y Pháp, quy y Tăng), trở thành một vị cư sĩ thành tín. 
 
-“Lau bay ngày mưa mát,
+Lúc sắp xuống núi, tướng quân Lý Căn Nguyên làm một bài thơ tặng ân sư:
+
+<blockquote> 
+
+Lau bay ngày mưa mát,
 
 Đá vang đêm gió mây,
 
 Sách xưa ngàn vạn quyển,
 
-Cổ tích mực bao vây.”
+Cổ tích mực bao vây.
+</blockquote>
 
-(Lô phi thanh trú vũ,
+<blockquote> 
+
+Lô phi thanh trú vũ,
 
 Thạch hưởng dạ đằng phong.
 
 Tàn thư thiên vạn quyển,
 
-Cổ tích mặc oanh oanh.)
+Cổ tích mặc oanh oanh.
+</blockquote>
 
 Lão Hoà thượng Hư Vân cũng có một bài kệ tặng lại:
 
-“Ba cõi bất an là hầm lửa
+<blockquote> 
+
+Ba cõi bất an là hầm lửa
 
 Ở đâu an ổn để an cư
 
 Như Lai thị ngã nghĩa chân thật
 
-Ma ma Phật Phật đều như nhau”.
+Ma ma Phật Phật đều như nhau
+</blockquote>
 
-(Tam giới vô an thị hỏa trạch,
+<blockquote> 
+
+Tam giới vô an thị hỏa trạch,
 
 Cánh vu hà xứ khả an cư.
 
 Như Lai thị ngã chân thật nghĩa,
 
-Ma dã như liệt Phật giả như).
+Ma dã như liệt Phật giả như
+</blockquote>
 
 <hr class="blog-rule" />
 

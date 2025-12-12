@@ -104,6 +104,53 @@ const description = "Xem " + title;
       <HTTDL />
     </BioWithImage>
 
+    <!-- Rule Section -->
+    <section class="rules" id="rules">
+      <div class="container">
+        <h2 class="section-title">10 Chú Ý</h2>
+        <p class="blog-description tag-line-accent">{tagLine4}</p>
+        <p class="blog-description">Người tham Tổ Sư Thiền phải chú ý những điều sau đây</p>
+
+        <div class="rules-grid">
+          {
+            rules?.map(rule => <div class="rule-card">
+              <h3 class="rule-title">{ rule.title }</h3>
+              <p class="rule-description">{ rule.description }</p>
+            </div>)
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- Principle Section -->
+    <section class="typography-showcase">
+      <div class="container">
+        <h2 class="section-title">HAI Tâm Niệm</h2>
+        <p class="typography-description">
+          Muốn đạt đến kiến tánh giải thoát, hành giả tham tổ sư thiền cần phải thực hành đúng theo cơ bản như sau
+        </p>
+
+        <div class="typography-samples">
+          {
+            principles?.map(principle => <div class="type-sample">
+              <h4 class="sample-h1">{ principle.title }</h4>
+              <p class="type-meta">
+                {
+                  principle.description?.includes(' / ')
+                    ? principle.description
+                      ?.split(' / ')
+                      ?.map(line => <p>{line}</p>)
+                    : principle.description
+                }
+              </p>
+            </div>)
+          }
+        </div>
+
+        <p class="blog-description tag-line-accent">{tagLine5}</p>
+      </div>
+    </section>
+
     <!-- Practice Section -->
     <section class="blog-section" id="practices">
       <div class="container">
@@ -179,81 +226,6 @@ const description = "Xem " + title;
       </div>
     </section>
 
-    <!-- Rule Section -->
-    <section class="rules" id="rules">
-      <div class="container">
-        <h2 class="section-title">10 Chú Ý</h2>
-        <p class="blog-description tag-line-accent">{tagLine4}</p>
-        <p class="blog-description">Người tham Tổ Sư Thiền phải chú ý những điều sau đây</p>
-
-        <div class="rules-grid">
-          {
-            rules?.map(rule => <div class="rule-card">
-              <h3 class="rule-title">{ rule.title }</h3>
-              <p class="rule-description">{ rule.description }</p>
-            </div>)
-          }
-        </div>
-      </div>
-    </section>
-
-    <!-- Principle Section -->
-    <section class="typography-showcase">
-      <div class="container">
-        <h2 class="section-title">HAI Tâm Niệm</h2>
-        <p class="typography-description">
-          Muốn đạt đến kiến tánh giải thoát, hành giả tham tổ sư thiền cần phải thực hành đúng theo cơ bản như sau
-        </p>
-
-        <div class="typography-samples">
-          {
-            principles?.map(principle => <div class="type-sample">
-              <h4 class="sample-h1">{ principle.title }</h4>
-              <p class="type-meta">
-                {
-                  principle.description?.includes(' / ')
-                      ? principle.description
-                          ?.split(' / ')
-                          ?.map(line => <p>{line}</p>)
-                      : principle.description
-                }
-              </p>
-            </div>)
-          }
-        </div>
-
-        <p class="blog-description tag-line-accent">{tagLine5}</p>
-      </div>
-    </section>
-
-    <!-- 3 Satori Gates Section -->
-<!--    <section class="typography-showcase">
-      <div class="container">
-        <h2 class="section-title">TAM QUAN</h2>
-        <p class="typography-description">
-          3 cửa ải <b>Sơ Quan</b> (初關), <b>Trùng Quan</b> (重關), và <b>Mạt Hậu Lao Quan</b> (末後牢關)
-          là những cột mốc then chốt trong tiến trình tu chứng của <b>Tổ Sư Thiền</b> (祖師禪) - <b>Thiền Tông</b>,
-          liên quan mật thiết đến pháp tu <b>Tham Thoại Đầu</b> và <b>Giữ Nghi Tình</b>.
-        </p>
-
-        <div class="typography-samples">
-          {
-            gates?.map(gate => <div class="type-sample">
-              <h4 class="sample-h1">{ gate.title }</h4>
-              <p class="type-meta">
-                {
-                  gate.description?.includes(' / ')
-                      ? gate.description
-                          ?.split(' / ')
-                          ?.map(line => <p>{line}</p>)
-                      : gate.description
-                }
-              </p>
-            </div>)
-          }
-        </div>
-      </div>
-    </section>-->
   </div>
 </Layout>
 

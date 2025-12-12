@@ -108,4 +108,6 @@ Chính vì thực tại (Reality) là như vậy nó mới phong phú vô cùng,
 
 ## NGUỒN
 
+🔗 <a href="https://duylucthien.wordpress.com/2022/01/10/metaverse-va-the-luu-bo-tuong/" target="_blank">duylucthien.wordpress.com</a>
+
 🔗 <a href="https://thuvienhoasen.org/a37979/metaverse-va-the-luu-bo-tuong" target="_blank">thuvienhoasen.org</a>
