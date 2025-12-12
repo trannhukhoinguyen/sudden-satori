@@ -10,8 +10,6 @@ tags:
 authors: 
   - Truyền Bình
   - thuvienhoasen.org
-videoIds:
-  - Ez1-8dccLwg
 ---
 
 Tánh Không với hàm ý bản thể của thế giới, vạn vật đều là không, nghĩa là không có thật, không có thực thể, không có tự tánh riêng biệt, tất cả các pháp, dù là vật chất hay tinh thần đều chỉ là nhân duyên giả hợp, chỉ là ý thức (Vạn pháp duy thức), đều là do Tâm tạo ( Tam giới duy tâm) chứ không phải là thật. Tánh Không có ý nghĩa cốt tuỷ trong Đạo Phật, nó khiến cho Phật giáo khác với các tôn giáo khác, cũng không giống với Khoa học và nhiều trường phái triết học khác. Đến đây hẳn độc giả cảm thấy rất thắc mắc, rất nghi ngờ vì cảm thấy quá đỗi phi lý, không thể hiểu nổi, không thể tin nổi. Chẳng lẽ cái nhà ta đang ở, cái xe ta đang sử dụng, cơm ăn áo mặc hàng ngày là không có thật sao ?
