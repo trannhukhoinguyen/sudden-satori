@@ -27,7 +27,7 @@
     wrapper.innerHTML = `
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
-          <h3>Chọn một câu thoại đầu</h3>
+          <h3 style="text-align: center">Xin Chọn một câu thoại đầu</h3>
           <form id="koan-form">
             ${koans.map((k,i)=>`<label class="tag-line-accent" style='display:block;margin:8px 0'>
               <input required type='radio' name='koan' value='${i}'> ${k}
@@ -52,8 +52,9 @@
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
           <h2 class="tag-line-accent" style="color: red"><strong>${koans[koanIndex]}</strong></h2>
-          <p style="color: red">NHỚ CHIẾU CỐ THOẠI ĐẦU (Hỏi & Nhìn vào chỗ KHÔNG BIẾT)</p>
-          <button id="suppress" style="margin-top:12px;width:100%;padding:8px;">Tạm ẩn modal trong 1 giờ tới (Tinh tấn lên!)</button>
+          <h3 style="text-align: center">NHỚ CHIẾU CỐ THOẠI ĐẦU</h3>
+          <h4 style="text-align: center"><em>(Hỏi & Nhìn vào chỗ KHÔNG BIẾT)</em></p>
+          <button id="suppress" style="margin-top:12px;width:100%;padding:8px;">Tạm ẩn modal trong 1 giờ tới (TINH TẤN LÊN!)</button>
           <button id="close" style="margin-top:12px;width:100%;padding:8px;background:darkred;color:white">Đã rõ</button>
         </div>
       </div>`;

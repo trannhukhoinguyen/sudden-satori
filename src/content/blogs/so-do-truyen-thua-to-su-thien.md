@@ -1,5 +1,5 @@
 ---
-title: "TRUYỀN THỪA TỔ SƯ THIỀN (THIỀN TÔNG)"
+title: "SƠ ĐỒ TRUYỀN THỪA TỔ SƯ THIỀN"
 description: "Từ Phật Thích Ca truyền đến nay..."
 excerpt: "TS Thạch Sương nói: Cái khóa không tua hai đầu lay động"
 categories:
