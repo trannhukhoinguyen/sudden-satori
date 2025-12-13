@@ -17,7 +17,7 @@ showInHomepage: true
 
 ## TÁC GIẢ & TÁC PHẨM
 
-Thiền sư Bankei (Bankei Yōtaku) tên Việt là Bàn Khuê Vĩnh Trác (1622–1693), cũng được gọi là Bàn Khuê Quốc sư (Bankei kokushi), là một vị thiền sư Nhật Bản, thuộc tông Lâm Tế, hệ phái Diệu Tâm tự (myōshin-ji). Sư là một trong những Thiền sư danh tiếng nhất trong lịch sử Phật giáo Nhật Bản với tư cách là người đã phổ biến thiền học đến lớp quần chúng. Ngài đã sáng lập thiền tự Ryòmonji (Long môn) ở Aboshi thuộc tỉnh Banshù.
+Thiền sư Bankei (Bankei Yōtaku) tên Việt là Bàn Khuê Vĩnh Trác (1622-1693), cũng được gọi là Bàn Khuê Quốc sư (Bankei kokushi), là một vị thiền sư Nhật Bản, thuộc tông Lâm Tế, hệ phái Diệu Tâm tự (myōshin-ji). Sư là một trong những Thiền sư danh tiếng nhất trong lịch sử Phật giáo Nhật Bản với tư cách là người đã phổ biến thiền học đến lớp quần chúng. Ngài đã sáng lập thiền tự Ryòmonji (Long môn) ở Aboshi thuộc tỉnh Banshù.
 
 Ngay cả vào thời đại của ngài, pháp thiền của Bankei cũng được xem như một sự cố bất thường, không giống bất cứ giáo lý nào người ta đã từng biết đến. Lúc đầu, điều này làm họ hoảng sợ vì họ không biết những gì ngài giảng dạy có phải là đạo Phật hay không, khoan nói có phải thiền hay không. Thời ấy nhà nước ra hình phạt nghiêm khắc những ai có quan hệ đến bất cứ người nào giảng đạo Chúa hay bất cứ tà đạo nào khác.
 Tuy vậy, vào cuối đời ngài, Bankei đã trở thành một nhân vật có thể nói là nổi tiếng. Nhiều người hành hương đến từ mọi góc của nước Nhật để nghe ngài nói chuyện, thính chúng tràn ngập đến độ phải được sắp xếp thành từng đoàn riêng vào nghe giảng.

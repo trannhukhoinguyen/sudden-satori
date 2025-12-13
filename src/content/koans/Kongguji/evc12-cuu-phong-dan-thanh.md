@@ -57,10 +57,10 @@ Sinh vào năm kỷ mùi niên hiệu Nguyên Hưng cuối đời Tấn (419).
 Sư xuất gia từ thuở nhỏ ở Kinh đô chùa Đạo Lâm, lẽ Tăng Kiệm làm thầy, tu theo pháp thiền, chỗ ở không nhất định, ăn uống không chừng mực, tóc dài mấy tất. 
 Thường đi chân không, tay cầm tích trượng, trên đầu tích trượng treo một cái kéo và chiếc gương một tấc, và một mảnh lụa hai ba tấc.
 
-Nhà Tề khoảng niên hiệu Kiến Nguyên (479–482), sư để lộ chút thần thông, hoặc là mấy ngày không ăn mà vẫn không đói. 
+Nhà Tề khoảng niên hiệu Kiến Nguyên (479-482), sư để lộ chút thần thông, hoặc là mấy ngày không ăn mà vẫn không đói. 
 Từng nói với mọi người những điều khó hiểu, nhưng ứng rõ điều Sư nói, phần nhiều thuộc sấm ký. Các bậc sĩ thứ ở kinh đô đều cung kính tôn thờ Sư.
 
-Sau đến khoảng niên hiệu Thiên Giám đời Lương (502–519), vua càng thêm kính trọng là một trong những bậc hiền thánh ứng hóa. 
+Sau đến khoảng niên hiệu Thiên Giám đời Lương (502-519), vua càng thêm kính trọng là một trong những bậc hiền thánh ứng hóa. 
 Vì có nhiều thân biến khác thường, phàm thánh không lường được. Cho nên mới hỏi câu, Tăng Dao từ chối vẽ Chí Công.
 
 Tăng Dao là người nước Ngô, là bậc danh họa đương thời. 

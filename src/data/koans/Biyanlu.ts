@@ -113,7 +113,7 @@ export const BiyanluTitles: KoanTitle[] = [
 * Lúc đó là năm Tuyên hòa thứ 7 (1125).
 * Các Tắc, trước hết là thùy thị (những lời ngắn gọn, sáng sủa nêu rõ điểm chủ yếu), kế đó nêu ra công án chính, tiếp đến là cổ tụng (bài kệ tụng xưa), dưới mỗi câu có thêm trứ ngữ (lời bàn ngắn) và tiểu sử của người nêu ra công án, rồi đến bình xướng (lời giải thích) cơ phong, tự làm tụng và bình xướng tổng quát.
 * Khi ngài Viên ngộ làm lời bình xướng ở viện Linh tuyền trên núi Giáp thuộc châu Lễ, trên tấm biển nơi nhà Phương trượng của ngài, ngài đề hai chữ Bích nham.
-* Hai chữ này có xuất xứ từ câu thơ của Thiền sư Thiện hội – người khai sáng núi Giáp – bày tỏ cảnh giới ngộ đạo của mình như sau:
+* Hai chữ này có xuất xứ từ câu thơ của Thiền sư Thiện hội - người khai sáng núi Giáp - bày tỏ cảnh giới ngộ đạo của mình như sau:
 * Viên bảo nhi qui thanh chương hậu Điểu hàm hoa lạc Bích nham: "(Nghĩa đen: Vượn bồng con về sau non xanh, Chim ngậm hoa rơi trước núi biếc)",
 * */
 

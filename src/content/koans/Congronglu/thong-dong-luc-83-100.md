@@ -177,7 +177,7 @@ Hoặc nói sông Tương phía Nam lời nói phía Bắc Phù Sơn Viễn Lụ
 
 Tăng hỏi Tân La Đại Lãnh: Thế nào tất cả chỗ đều thanh tịnh?
 
-– Trồng cành Quỳnh tấc tấc là báu Chiết cành mai phiến phiến đều hương
+- Trồng cành Quỳnh tấc tấc là báu Chiết cành mai phiến phiến đều hương
 
 Hòa Thượng Đan Hà Thuần làm bài tụng:
 
@@ -375,7 +375,7 @@ Sớ Sơn ngay đó ngộ đạo, bèn nói: Quy Sơn vốn trong cái cười c
 
 Sư nói: Thiền sư Sớ Sơn Quang nhân ở Phủ Châu tham học nơi
 
-Động Sơn và hỏi khi chưa có lời nói xin Sư chỉ dạy – Động Sơn nói: Không vâng không người chịu – Có mài không?
+Động Sơn và hỏi khi chưa có lời nói xin Sư chỉ dạy - Động Sơn nói: Không vâng không người chịu - Có mài không?
 
 • Xà Lê nay mài được không?
 
@@ -1091,7 +1091,7 @@ Kiếm dài tựa ngoài trời, Tăng hỏi Lâm Tế:
 
 Thế nào là kiếm thổi lông?
 
-– Việc họa, việc họa.
+- Việc họa, việc họa.
 
 Không thấy nói Dấm của Đức Sơn biết ăn biết chua. Cái dụng của Lâm Tế vượt trội Hoằng Bá, truyền đến cũng không yếu. Trúc Am nói: đánh vào mặt 3 loi, đánh vào lưng đấm, người khắp đại địa không biết đau, chỉ có một người biết đau, còn chịu bác sĩ. Không thấy Lâm Tế nói: Như cây chổi quét.
 

@@ -15,7 +15,7 @@ image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
 
 # NHẤT THIẾT PHẬT NGỮ TÂM
 
-## CHƯƠNG MỘT – PHẦN ĐẦU
+## CHƯƠNG MỘT - PHẦN ĐẦU
 
 Dùng Tâm đặt tên cho phẩm là dùng nhất tâm làm tông. Nghĩa là tịch diệt gọi là nhất tâm, tức là tánh tự tánh thanh tịnh đệ nhất nghĩa tâm. 
 Tất cả chư Phật đều chứng tâm này, vì chúng sanh khai thị cũng chỉ thẳng tâm này, nên nói “Tất cả chư Phật dạy về tâm.”
@@ -176,7 +176,7 @@ Thế nên biết hai cái này là vọng kiến phân biệt.
 > Người thấy như thật gọi là chánh kiến, nếu thấy khác gọi là tà kiến; nếu phân biệt hai bên gọi là nhị thủ, đều là hư vọng, không được tịch diệt.
 > Tịch diệt gọi là Nhất tâm, Nhất tâm gọi là Như Lai tạng, bậc Như Lai tạng nhập cảnh giới trí huệ tự thân, được tam-muội Vô sanh pháp nhẫn, nên bài kệ này khen Phật “Có không cả hai đều lìa”, rất sâu xa.
 
-Hai kiến chấp có – không là cái gai của pháp thân. Cảnh giới tự giác thánh trí không gì khác là chỉ biết đây, lìa đây (có không) mà thôi, lại không có thật pháp có thể được. 
+Hai kiến chấp có - không là cái gai của pháp thân. Cảnh giới tự giác thánh trí không gì khác là chỉ biết đây, lìa đây (có không) mà thôi, lại không có thật pháp có thể được. 
 Thật là tông thú chí cực của kinh này vậy. 
 
 Người tu hành biết chỗ này thì có thể gọi là hành vô hành, chứng vô chứng. 
@@ -184,7 +184,7 @@ Tâm còn một niệm về hành, chứng chưa quên thì lại rơi vào đâ
 Huống gì đem ngôn ngữ văn tự phân biệt chỗ là được ư?
 
 Người tu quán nếu quán được như vậy mới gọi là biết thật tướng các pháp. 
-Như thế, các lời hỏi của Đại Huệ sau này, đều là hai pháp có – không, đức Thế Tôn đều khiến phải bỏ lìa mà thôi, nên đáp “Tất cả đều phi”. 
+Như thế, các lời hỏi của Đại Huệ sau này, đều là hai pháp có - không, đức Thế Tôn đều khiến phải bỏ lìa mà thôi, nên đáp “Tất cả đều phi”. 
 Lìa đây bỏ đây chẳng phải tự giác thánh trí là gì?
 
 🔔 Bài kệ cuối, ngài Lưu-chi nói: 
@@ -255,7 +255,7 @@ Thế nào thấy si hoặc?
 Thế nào hoặc tăng trưởng? [^6]
 </blockquote>
 
-Đây y cứ chung trên nhất-tâm có ra hai nẻo sanh diệt – mê ngộ mà hỏi.
+Đây y cứ chung trên nhất-tâm có ra hai nẻo sanh diệt - mê ngộ mà hỏi.
 
 Đại Huệ thưa thỉnh về nghĩa trăm lẻ tám, lời đầu tiên liền hỏi bốn câu này, bởi nguồn chân nhất tâm, thánh phàm bình đẳng, trọn không có tướng sai biệt. 
 
@@ -270,7 +270,7 @@ Ngộ nhất tâm thì vọng tưởng tức thành chánh trí, danh tướng l
 Bởi đều là việc bên mê ngộ, nên kinh nói:
 “Theo lưu chuyển thì vọng thấy sanh tử; chân lưu chuyển vọng thấy Niết-bàn”.
 
-Đó là Đại Huệ y cứ theo đối đãi giữa mê ngộ trong cửa sanh diệt mà hỏi, nên trước đem tịnh niệm – không tịnh niệm, kiến hoặc – chẳng kiến hoặc để gãy đầu mối, mà chỗ chỉ ra về sau đều là tướng sai biệt ở trong mê ngộ.
+Đó là Đại Huệ y cứ theo đối đãi giữa mê ngộ trong cửa sanh diệt mà hỏi, nên trước đem tịnh niệm - không tịnh niệm, kiến hoặc - chẳng kiến hoặc để gãy đầu mối, mà chỗ chỉ ra về sau đều là tướng sai biệt ở trong mê ngộ.
 
 Phật một bề y nhất tâm chân như mà đáp, cho nên sau đó, ban đầu lập lại lời hỏi, và liền bảo rằng:
 “Hoặc sanh hoặc chẳng sanh, Niết-bàn và không tướng, lưu chuyển không tự tánh”.
@@ -311,21 +311,21 @@ Vô thọ là chỉ chung tam thừa vô học. Phật tử riêng chỉ Bồ-t�
 Giải thoát là Niết-bàn, buộc là sanh tử, nghĩa là ai bị trói trong sanh tử, ai giải thoát trong Niết-bàn. 
 Niết-bàn chỉ cho Phật giới.
 
-1 – Những gì cảnh giới thiện?
-2 – Tại sao có ba thừa?
-3 – Cúi mong vì giải nói.
-4 – Duyên khởi chỗ nào sanh?
-5 – Thế nào tác, sở tác?
-6 – Thế nào đồng dị thuyết?
-7 – Thế nào là tăng trưởng? [^8]
-8 – Thế nào Vô sắc định?
-9 – Và cùng diệt chánh thọ?
-10 – Thế nào là tưởng diệt?
-11 – Vì sao từ định giác?
-12 – Thế nào là tạo các sanh?
-13 – Tiến đi và giữ thân?
-14 – Thế nào hiện phân biệt?
-15 – Thế nào sanh các địa?
+1 - Những gì cảnh giới thiện?
+2 - Tại sao có ba thừa?
+3 - Cúi mong vì giải nói.
+4 - Duyên khởi chỗ nào sanh?
+5 - Thế nào tác, sở tác?
+6 - Thế nào đồng dị thuyết?
+7 - Thế nào là tăng trưởng? [^8]
+8 - Thế nào Vô sắc định?
+9 - Và cùng diệt chánh thọ?
+10 - Thế nào là tưởng diệt?
+11 - Vì sao từ định giác?
+12 - Thế nào là tạo các sanh?
+13 - Tiến đi và giữ thân?
+14 - Thế nào hiện phân biệt?
+15 - Thế nào sanh các địa?
 
 Mười lăm câu này là hỏi riêng về tướng sai biệt trong chín cõi.
 
@@ -859,8 +859,8 @@ Những câu hỏi trên đây của Đại Huệ trừ chỗ chấp, chỉ lấ
 
 * Sau đây Thế Tôn lập lại mà đáp. Trước lập lại sau đáp.
 
-C₂ – Đáp
-D₁ – Lặp lại
+C₂ - Đáp
+D₁ - Lặp lại
 
 <blockquote>
 
@@ -1237,7 +1237,7 @@ Nếu như số câu khó hợp với số 108 thì theo ngụ ý của tôi că
 
 ¹ Cảnh bị chấp là chỉ cho 10 cõi thánh phàm, mỗi cõi có đủ 10; 10×10 = 100.
 
-D₂ – Đáp
+D₂ - Đáp
 Câu bất sanh câu sanh¹
 Câu thường câu vô thường
 Câu tướng câu vô tướng².

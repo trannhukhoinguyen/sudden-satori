@@ -14,7 +14,7 @@ author: ""
 image: "/images/koans/great-wave.webp"
 ---
 
-Ba cửa ải Sơ Quan 初關, Trùng Quan 重關, và Mạt Hậu Lao Quan 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của Tổ Sư Thiền (祖師禪), đặc biệt nổi bật trong dòng Thiền Tông Đông Sơn – Lâm Tế – Tào Động, liên quan mật thiết đến pháp tu Tham Thoại Đầu và Giữ Nghi Tình.
+Ba cửa ải Sơ Quan 初關, Trùng Quan 重關, và Mạt Hậu Lao Quan 末後牢關 là những cột mốc then chốt trong tiến trình tu chứng của Tổ Sư Thiền (祖師禪), đặc biệt nổi bật trong dòng Thiền Tông Đông Sơn - Lâm Tế - Tào Động, liên quan mật thiết đến pháp tu Tham Thoại Đầu và Giữ Nghi Tình.
 
 Các thiền sư như Hư Vân, Thạch Sương Khánh Chư, Đại Huệ Tông Cảo, Hoàng Bá, Triệu Châu, Lâm Tế thường nhắc đến ba cửa này.
 Trong Thiền Tông Trung Hoa, ba cửa ải này tương ứng với ba giai đoạn tu:
@@ -25,13 +25,13 @@ Trong Thiền Tông Trung Hoa, ba cửa ải này tương ứng với ba giai đ
 
 |    **Cửa Ải**    |            **Mục tiêu**            |  **Pháp khí**  |                 **Biểu hiện**                  |
 | :--------------: | :--------------------------------: | :------------: | :--------------------------------------------: |
-|     Sơ Quan      |        Kiến tánh – Ngộ nhập        | Sát Nhân Kiếm  |     Phá ngã chấp, đạt nghi tình tuyệt hậu      |
-|    Trùng Quan    | Mài giũa ngộ – hành giải tương ưng | Hoạt Nhân Kiếm |          Không trụ pháp, vào ra tự do          |
-| Mạt Hậu Lao Quan |  Triệt ngộ – vượt khỏi chứng ngộ   |    Vô Kiếm     | Vô sở đắc, sống đạo, không vướng bóng dáng ngộ |
+|     Sơ Quan      |        Kiến tánh - Ngộ nhập        | Sát Nhân Kiếm  |     Phá ngã chấp, đạt nghi tình tuyệt hậu      |
+|    Trùng Quan    | Mài giũa ngộ - hành giải tương ưng | Hoạt Nhân Kiếm |          Không trụ pháp, vào ra tự do          |
+| Mạt Hậu Lao Quan |  Triệt ngộ - vượt khỏi chứng ngộ   |    Vô Kiếm     | Vô sở đắc, sống đạo, không vướng bóng dáng ngộ |
 
 <hr class="blog-rule" />
 
-## TRÙNG QUAN 重關 – CỬA ẢI THỨ HAI
+## TRÙNG QUAN 重關 - CỬA ẢI THỨ HAI
 
 ### 💠 Nghĩa:
 
@@ -41,7 +41,7 @@ Trong Thiền Tông Trung Hoa, ba cửa ải này tương ứng với ba giai đ
 
 ### 💠 Nội dung:
 
-Còn gọi là "Hoạt nhân kiếm" 活人劍 – lưỡi kiếm cứu người sống, vì hành giả vào ra sinh tử tự do, cứu độ chúng sanh mà không rơi vào hai bên.
+Còn gọi là "Hoạt nhân kiếm" 活人劍 - lưỡi kiếm cứu người sống, vì hành giả vào ra sinh tử tự do, cứu độ chúng sanh mà không rơi vào hai bên.
 
 Hành giả cần làm sạch hết vi tế vô minh, loại bỏ những tàn dư của thức tình, tập khí, phân biệt, để sống thực tại rốt ráo.
 
@@ -82,8 +82,8 @@ Tham thoại đầu sâu hơn
 
 Hành xử trong đời sống với tâm vô trụ
 
-Chặt chẽ với tập khí – phiền não vi tế
+Chặt chẽ với tập khí - phiền não vi tế
 
 Có thể dùng các công án nghịch lý (công án phi logic) để tiếp tục phá chấp câu trả lời.
 
-Thời kỳ này gọi là “thành nhân chi học” – làm người chân thật, sống đúng với Đạo.
+Thời kỳ này gọi là “thành nhân chi học” - làm người chân thật, sống đúng với Đạo.

@@ -104,20 +104,20 @@ Tịnh Danh đầu nhọc bàn luận nhiều.
 
 📢 Ngài Lâm Tuyền nói:
 
-– Có một cây tùng cao trên núi cao khe sâu. Trên đỉnh cao sao không sợ có quanh. Tuy là như thế, cũng phải dè phòng dưới gốc cây là khoảng đất trống. Huống nữa là phượng Cửu Bảo sống ở Đan sơn, chẳng những báo điềm lành chim loan chốn nêm làm bạn.
+- Có một cây tùng cao trên núi cao khe sâu. Trên đỉnh cao sao không sợ có quanh. Tuy là như thế, cũng phải dè phòng dưới gốc cây là khoảng đất trống. Huống nữa là phượng Cửu Bảo sống ở Đan sơn, chẳng những báo điềm lành chim loan chốn nêm làm bạn.
 
 Đây đều là trong biến hóa mờ mờ bóng sáng tạm thời. Vốn chẳng theo lối định ý chi theo ngôn ngữ phán tông. Tạm thời nói mới với ông ta trước mặt người sĩ.
 
 Sơ Tổ Đạt Ma Đại Sĩ ta chín năm quay mặt vào vách. Nếu cao cuồng yếu tố trong việc trước kiếp không cho ông. Thế mà vẫn bị người chê Bích Quán Bà La Môn.
 
 Quả thực chim sống ở núi rừng dễ, người ra khó phi khó. Lại kiểm nghiệm của sĩ Tịnh Danh. Tiếng Phạn là Duy Ma Cật, Trung Hoa dịch là Vô Cấu, cũng gọi là Tịnh Danh, hỏi ngài Văn Thù Sư Lợi:
-– Thế nào là Bồ Tát vào pháp môn bất nhị.
+- Thế nào là Bồ Tát vào pháp môn bất nhị.
 
 Văn Thù Sư Lợi đáp:
-– Theo ý tôi đối với tất cả pháp không nói không thuyết, không chỉ bày, không biết, là tất cả đáp, đó là vào pháp môn bất nhị.
+- Theo ý tôi đối với tất cả pháp không nói không thuyết, không chỉ bày, không biết, là tất cả đáp, đó là vào pháp môn bất nhị.
 
 Lúc đó Văn Thù Sư Lợi hỏi Duy Ma Cật rằng:
-– Chúng tôi mỗi người đã nói rồi. Nhơn Giả phải nói thế nào là Bồ Tát vào pháp môn bất nhị.
+- Chúng tôi mỗi người đã nói rồi. Nhơn Giả phải nói thế nào là Bồ Tát vào pháp môn bất nhị.
 
 Duy Ma Cật im lặng. Nay cần gì phải luận bàn nhiều, lẽ tuy không nói lời nào. Thế mà trăm ngàn vạn ức vàng như sấm. Từ xưa đến nay khiến trời động đất. Cứ lại như thế, chưa biết pháp thân quý ở chỗ nào.
 

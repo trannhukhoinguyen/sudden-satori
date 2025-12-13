@@ -40,7 +40,7 @@ vắng lặng 34. Đại Triệt Đại Ngộ
 14.Tiếng chuông từ đâu đến? 43. Đâu Suất - Ba cổng
 15.Mang âm thanh lại đây 44. Giải thoát sanh tử
 16.Bao nhiêu bước tới đây? 45. Nhạn kêu đêm vắng
-17.Lấy gì tẩy sạch tâm? 46. Cao Phong – Ba cổng
+17.Lấy gì tẩy sạch tâm? 46. Cao Phong - Ba cổng
 18.Phó Đai sĩ giảng Kinh 47. Tức Như Như Phật
  Kim Cương 48. Phật-Tổ ở đâu?
 19.Làm thế nào tẩy sạch bụi? 49. Tại sao nói xấu ta?
@@ -220,13 +220,13 @@ vắng lặng 34. Đại Triệt Đại Ngộ
 326.Mã Tổ không khỏe 357.Sùng Sơn- Chủ Khách
 327.Mỗi ngày là ngày tốt 358.Kệ Lục Tổ
 328.Trần Thượng thư 359.Đầu Lục Tổ
- gặp Tư Phước 360.Sùng Sơn – Phật Thật
+ gặp Tư Phước 360.Sùng Sơn - Phật Thật
 329.Lông mày Thúy Nham 361.Đâu là Bồ Đề Đạt Ma?
-330.Triệu Châu – Bốn cổng 362.Rơi tro trên thân Phật
-331.Mục Châu hỏi Tăng 363.Cổ Phong – Chuột ăn
+330.Triệu Châu - Bốn cổng 362.Rơi tro trên thân Phật
+331.Mục Châu hỏi Tăng 363.Cổ Phong - Chuột ăn
 332. Chén bạc Ba Lăng thức ăn mèo
 333.Người trong cỏ 364. Sùng Sơn - Ba người
-334.Bách Trượng trên đỉnh cùng đi Đại Hùng 365.Sùng Sơn – Muôn Pháp về Một
+334.Bách Trượng trên đỉnh cùng đi Đại Hùng 365.Sùng Sơn - Muôn Pháp về Một
 335.Thân bày gió Thu
 */
 

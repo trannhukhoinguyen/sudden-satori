@@ -42,83 +42,83 @@ Thiều Sơn đáp: Bước lùi sau xem.
 Tôn Bố Nạp đến thăm Sư, gặp nhau ở dưới núi. Tôn hỏi: Đường Thiều Sơn đi hướng nào?
 
 Sư chỉ tay nói:
-– Ồ! Đi về hướng xa thăm thẳm ấy.
+- Ồ! Đi về hướng xa thăm thẳm ấy.
 
 Tôn đến gần Sư nói:
-– Từ lâu nghe danh Thiếu Sơn, chỉ có thế thôi sao?
+- Từ lâu nghe danh Thiếu Sơn, chỉ có thế thôi sao?
 
 Thiếu Sơn đáp:
-– Đúng thì đúng, nhưng Xà Lê còn việc gì?
+- Đúng thì đúng, nhưng Xà Lê còn việc gì?
 
 Tôn nói:
-– Còn một điều định hỏi, nhưng Sư có trả lời không?
+- Còn một điều định hỏi, nhưng Sư có trả lời không?
 
 Thiếu Sơn nói:
-– Xem ra ông không phải là Kim Nha, làm sao biết bản cung Uất Trì.
+- Xem ra ông không phải là Kim Nha, làm sao biết bản cung Uất Trì.
 
 Tôn thưa:
-– Phụng hoàng bay vút lên trời, ngại gì chim sẻ chốn rừng hoang.
+- Phụng hoàng bay vút lên trời, ngại gì chim sẻ chốn rừng hoang.
 
 Thiếu Sơn đáp:
-– Trồng về bên hiên mặc anh đánh, thử trình gia phong giống lão tăng.
+- Trồng về bên hiên mặc anh đánh, thử trình gia phong giống lão tăng.
 
 Tôn đáp:
-– Một câu vượt qua ngàn thăm, như rừng không sánh với vầng trăng.
+- Một câu vượt qua ngàn thăm, như rừng không sánh với vầng trăng.
 
 Thiếu Sơn đáp:
-– Dù ông vượt khỏi ngoài Oai Âm. So với Thiếu Sơn chỉ nửa thăng đường.
+- Dù ông vượt khỏi ngoài Oai Âm. So với Thiếu Sơn chỉ nửa thăng đường.
 
 Tôn thưa:
-– Lỗi ở chỗ nào?
+- Lỗi ở chỗ nào?
 
 Thiếu Sơn đáp:
-– Lời xuất cách mọi người đều biết.
+- Lời xuất cách mọi người đều biết.
 
 Tôn nói:
-– Như thế thì đâu khác ngọc trong bùn, chưa rửa sạch.
+- Như thế thì đâu khác ngọc trong bùn, chưa rửa sạch.
 
 Thiếu Sơn nói:
-– Học trò Lỗ Ban uống công trình bày.
+- Học trò Lỗ Ban uống công trình bày.
 
 Tôn thưa:
-– Học trò thì như thế, không biết ý thầy thế nào?
+- Học trò thì như thế, không biết ý thầy thế nào?
 
 Thiếu Sơn nói:
-– Ban đem ngọc núi ném thoi, dệt lụa ở nhà tây.
+- Ban đem ngọc núi ném thoi, dệt lụa ở nhà tây.
 
 Tôn nói:
-– Đó là gia phong của Hòa thượng chăng?
+- Đó là gia phong của Hòa thượng chăng?
 
 Thiếu Sơn nói:
-– Nông phu làm đồng hố nước, chẳng phải thợ làm.
+- Nông phu làm đồng hố nước, chẳng phải thợ làm.
 
 Tôn nói:
-– Như thế vẫn là văn tự, thế nào là gia phong của Hòa thượng?
+- Như thế vẫn là văn tự, thế nào là gia phong của Hòa thượng?
 
 Thiếu Sơn đáp:
-– Thân ở trong vũ trụ, ai là người vượt ra?
+- Thân ở trong vũ trụ, ai là người vượt ra?
 
 Tôn không đáp được, nên theo sư về núi.
 
 Và tiếp đãi nhau xong, Sư gọi Tôn đến gần nói:
-– Xà Lê có ý chỉ xung thiên, Lão Tăng có kẻ xuyên qua đất. Xà Lê kiếm trọn biển cả, Lão Tăng lưng gánh Tu Di. Xà Lê cầm kiếm đưa lên, Lão Tăng nghênh thương đối gặp. Một đường hướng thường nói mau, nói nhanh.
+- Xà Lê có ý chỉ xung thiên, Lão Tăng có kẻ xuyên qua đất. Xà Lê kiếm trọn biển cả, Lão Tăng lưng gánh Tu Di. Xà Lê cầm kiếm đưa lên, Lão Tăng nghênh thương đối gặp. Một đường hướng thường nói mau, nói nhanh.
 
 Tôn nói:
-– Gương sáng trên đầu thỉnh thầy soi.
+- Gương sáng trên đầu thỉnh thầy soi.
 
 Thiếu Sơn nói:
-– Chẳng soi.
+- Chẳng soi.
 
 Tôn nói:
-– Vì sao không soi?
+- Vì sao không soi?
 
 Thiếu Sơn nói:
-– Nước cạn không có cá, uống công thả câu.
+- Nước cạn không có cá, uống công thả câu.
 
 Tôn không đáp được. Sư đánh.
 
 Ngài Lâm Tuyền nói:
-– Thần thông như trên chẳng có chút nào tương đồng. Thiếu Sơn quen gặp đại định nào sợ tán quán. Hướng nữa vị tăng này đem chuyện phải chuyện quấy, câu có câu không uống công đến ấn chứng. Bị ông ta đem một mảnh mây trắng trùm lại. Sao vậy?
+- Thần thông như trên chẳng có chút nào tương đồng. Thiếu Sơn quen gặp đại định nào sợ tán quán. Hướng nữa vị tăng này đem chuyện phải chuyện quấy, câu có câu không uống công đến ấn chứng. Bị ông ta đem một mảnh mây trắng trùm lại. Sao vậy?
 
 Chớ đem thị phi đến tranh luận với ta, giải thích kiếp phù sinh chẳng liên quan gì. Ngoài ý vị này hãy xem ngài Đầu Tử giải thích.
 

@@ -31,7 +31,7 @@ Toàn thân là tay mắt
 
 Sư nói: Lý Tường hỏi Nga Hồ: Đại Bi dùng ngàn tay ngàn mắt làm gì?
 
-– Nay Hòa Thượng dụng công thế nào?
+- Nay Hòa Thượng dụng công thế nào?
 
 Ngày xưa có Sơn nhân không có mắt xem bói, mưa qua bùn giữa đường mang giầy trắng vào chợ. Có người hỏi:
 
@@ -49,7 +49,7 @@ Tam Thánh nói: Vân Cư hai mươi năm nói được so với Hưng Hóa lộ
 
 Tăng hỏi Giác Phạm: Như các Lão Túc dạy có giống hay khác?
 
-– Phật bảo nhận Tỳ kheo độn tụng “chổi quét” Ngày nọ, Tỳ kheo độn đại ngộ được đại biện tài. Do đó mới biết tâm của bậc tiên đức là vì chúng sinh. Thiên Đồng phần thượng là thế nào?
+- Phật bảo nhận Tỳ kheo độn tụng “chổi quét” Ngày nọ, Tỳ kheo độn đại ngộ được đại biện tài. Do đó mới biết tâm của bậc tiên đức là vì chúng sinh. Thiên Đồng phần thượng là thế nào?
 
 Tụng rằng:
 
@@ -295,7 +295,7 @@ Tăng hỏi Thanh Lâm: Lối tắt của học nhân là thế nào?
 
 • Mạng căn ông mất
 
-• Khi không đương đầu thì thế nào?- Cũng không có chỗ tránh – Chính lúc như thế thì thế nào?
+• Khi không đương đầu thì thế nào?- Cũng không có chỗ tránh - Chính lúc như thế thì thế nào?
 
 • Thì mất.
 
@@ -547,7 +547,7 @@ Xuân Vạn Tùng nói:
 
 Trung Quốc Sư hỏi Tử Lân cúng dường Phật là nghĩa gì?
 
-– Là nghĩa giác
+- Là nghĩa giác
 
 Quốc Sư nói: Phật từng mê không? Tử Lân: Không từng mê Quốc Sư Dụng giác làm gì?
 
@@ -889,7 +889,7 @@ Tăng: Thế nào là đuôi?
 
 • Tăng: Có đầu không đuôi thời thế nào?- Cửu Phong: Đầu là không quý
 
-• Tăng: Có đuôi không đầu thơì thế nào- Cửu Phong tuy no mà không có sức – Tăng: Được đầu lẫn đuôi gọi thế nào?
+• Tăng: Có đuôi không đầu thơì thế nào- Cửu Phong tuy no mà không có sức - Tăng: Được đầu lẫn đuôi gọi thế nào?
 
 • Phong: Con cháu đắc lực trong nhà bất hòa
 

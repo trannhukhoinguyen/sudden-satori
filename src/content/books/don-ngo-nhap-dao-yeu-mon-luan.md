@@ -38,7 +38,7 @@ Mùa An Cư 1974
 ## LỜI DỊCH GIẢ
 
 Quyển Đốn Ngộ Nhập Đạo Yếu Môn là một quyển luận nhỏ, nếu căn cứ phần lượng mà nói thì không thấm vào đâu đối với tam tạng giáo điển, nếu nhìn vào phẩm mà bàn là một viên ngọc quý vô giá của Thiền tông nói riêng, của Phật giáo Đại thừa nói chung. Vì thế, sau khi xem nó, Mã Tổ bảo chúng “Việt Châu có Đại Châu tròn sáng thấu suốt tự tại không ngại”. Đành rằng Mã Tổ nói Đại Châu là ngầm ý chỉ Thiền sư Tuệ Hải, song sự thâm ngộ của Thiền sư Tuệ Hải được bày hiện dưới mắt Mã Tổ qua quyển luận nhỏ này.
-Tên Đốn Ngộ Nhập Đạo Yếu Môn nghĩa là “Cửa trọng yếu chóng ngộ vào đạo”. Người tu hành muốn được mau ngộ tất nhiên phải bước vào cửa này, chớ không còn cửa nào khác. Bởi vì cửa này là cửa tiến thẳng vào thẳng không quanh co, không mượn nhiều phương tiện. Tiến thẳng vào thẳng cái gì ? – Tiến thẳng đến vô sanh, vào thẳng Phật tánh. Những pháp tu khác hầu hết đều chỉ dạy từ từ, từ thấp lên cao, từ cạn vào sâu. Duy pháp Đốn Ngộ này : “Ngay nơi sanh diệt nhận vô sanh, ngay nơi phàm phu thấy được Phật tánh”. Ta hãy nghe trong đây định nghĩa Thiền định : “Vọng niệm chẳng sanh là Thiền. Ngồi thấy bản tánh là Định”. Thiền không có nghĩa là ngồi, mà trong bốn oai nghi tâm đều thanh tịnh sáng suốt không có một vọng niệm dấy khởi. Định không có nghĩa chú tâm vào một cảnh, mà thấy được bản tánh của mình. Bản tánh tức là Phật tánh hay chân tâm. Bản tánh không sanh không diệt, nên tâm không chạy theo cảnh sanh diệt. Định ấy mới thật chân định.
+Tên Đốn Ngộ Nhập Đạo Yếu Môn nghĩa là “Cửa trọng yếu chóng ngộ vào đạo”. Người tu hành muốn được mau ngộ tất nhiên phải bước vào cửa này, chớ không còn cửa nào khác. Bởi vì cửa này là cửa tiến thẳng vào thẳng không quanh co, không mượn nhiều phương tiện. Tiến thẳng vào thẳng cái gì ? - Tiến thẳng đến vô sanh, vào thẳng Phật tánh. Những pháp tu khác hầu hết đều chỉ dạy từ từ, từ thấp lên cao, từ cạn vào sâu. Duy pháp Đốn Ngộ này : “Ngay nơi sanh diệt nhận vô sanh, ngay nơi phàm phu thấy được Phật tánh”. Ta hãy nghe trong đây định nghĩa Thiền định : “Vọng niệm chẳng sanh là Thiền. Ngồi thấy bản tánh là Định”. Thiền không có nghĩa là ngồi, mà trong bốn oai nghi tâm đều thanh tịnh sáng suốt không có một vọng niệm dấy khởi. Định không có nghĩa chú tâm vào một cảnh, mà thấy được bản tánh của mình. Bản tánh tức là Phật tánh hay chân tâm. Bản tánh không sanh không diệt, nên tâm không chạy theo cảnh sanh diệt. Định ấy mới thật chân định.
 Pháp tu Đốn Ngộ này thật đơn giản, mà rất siêu việt. Vì lời dạy rất bình dị nằm gọn trong một vài câu là đủ tu giải thoát. Như một câu trong đây : “Việc đến chẳng nhận, tất cả chỗ không tâm”. Mới đọc qua chúng ta thấy nó rất tầm thường, song nhận xét kỹ sẽ thấy nó hiện đầy đủ “Như Lai Thanh Tịnh Thiền” hay “Kim Cang Tam-muội ”, “Pháp Hoa Tam-muội” v.v… Thật vậy, “Việc đến chẳng nhận” tức là tám gió thổi chẳng động. Bởi vì việc lợi, việc suy, việc hủy nhục, việc đề
 
 cao, việc khen ngợi, việc chê bai, việc khổ, việc vui đến, tâm đều không chấp nhận. Do tâm không chấp nhận nên không động, mà luôn luôn an nhiên trước mọi cảnh. Thế không phải Đại định là cái gì ? “Tất cả chỗ không tâm”, tức là trong mọi trường hợp, mọi thời gian không khi nào phóng tâm chạy theo ngoại cảnh. Tâm không theo cảnh là tâm như như hay là Đại Bát-nhã. Thế là đầy đủ Như Lai Thiền rồi.
@@ -358,15 +358,15 @@ Người tu Bồ-tát thừa tức là Đại thừa. Chứng Bồ-tát thừa r
 
 Nay nói định, chẳng luận nói cùng chẳng nói, vẫn thường định. Vì sao ? Vì khi dùng tánh định nói năng phân biệt thì nói năng phân biệt cũng là định. Nếu khi dùng tâm Không để quán sắc, thì lúc quán sắc cũng không. Nếu khi chẳng quán sắc, chẳng nói chẳng phân biệt cũng không. Cho đến thấy nghe hiểu biết cũng như thế. Vì cớ sao ? Vì tự tánh không thì đối tất cả chỗ đều không. Không thì không chấp, không chấp là đồng dùng. Bởi Bồ-tát thường dùng pháp đẳng không (cả thảy đều không) như thế nên được đến cứu cánh. Cho nên nói “định tuệ đồng nhau gọi là giải thoát”.
 
-Tôi lại vì ông nói thí dụ để hiển bày, khiến ông tỉnh tỉnh, được hiểu dứt nghi. Ví như gương sáng khi chiếu soi hình tượng, ánh sáng của gương có động chăng ? – Chẳng động. Lúc chẳng chiếu cũng động chăng ? – Chẳng động. Tại sao ? - Vì gương sáng dùng ánh sáng vô tình chiếu, nên khi chiếu chẳng động, khi chẳng chiếu cũng chẳng động. Vì sao ? Bởi trong vô tình không có động, cũng không có chẳng động.
+Tôi lại vì ông nói thí dụ để hiển bày, khiến ông tỉnh tỉnh, được hiểu dứt nghi. Ví như gương sáng khi chiếu soi hình tượng, ánh sáng của gương có động chăng ? - Chẳng động. Lúc chẳng chiếu cũng động chăng ? - Chẳng động. Tại sao ? - Vì gương sáng dùng ánh sáng vô tình chiếu, nên khi chiếu chẳng động, khi chẳng chiếu cũng chẳng động. Vì sao ? Bởi trong vô tình không có động, cũng không có chẳng động.
 
 ❓ Lại như ánh sáng mặt trời khi chiếu thế gian, ánh sáng có động chăng ? 
 
-– Chẳng động. 
+- Chẳng động. 
 
 ❓ Nếu khi chẳng chiếu có động chăng ? 
 
-– Chẳng động. 
+- Chẳng động. 
 
 ❓ Vì sao ? 
 

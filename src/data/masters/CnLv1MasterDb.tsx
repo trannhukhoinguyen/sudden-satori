@@ -328,7 +328,7 @@ const CnLv1MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: '婺州金華 (Wuzhou – Vũ Châu, Kinh Hoa)',
+    place: '婺州金華 (Wuzhou - Vũ Châu, Kinh Hoa)',
     teachers: ['Dajian Huineng'],
     successors: ['-'],
     disciples: [],
@@ -821,7 +821,7 @@ const CnLv1MasterDb = [
     successors: ['-'],
     disciples: [
       'Daoxuan', 'Nanyue Mingzan', 'Jingzou Shizang',
-      'Duy Chính (惟政)', 'Hongzheng', 'Yi Xing (685–727)', 'Taejo Chigong (703–779) Korea', 'Lingzhuo (691–746)',
+      'Duy Chính (惟政)', 'Hongzheng', 'Yi Xing (685-727)', 'Taejo Chigong (703-779) Korea', 'Lingzhuo (691-746)',
     ],
     reference: ['https://terebess.hu/zen/mesterek/Puji.html', 'https://pl.wikipedia.org/wiki/Songshan_Puji'],
   },

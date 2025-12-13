@@ -849,7 +849,7 @@ Tăng hỏi Ngưỡng Sơn: Hòa Thượng có biết
 
 Phật không?
 
-– Tùy phần.
+- Tùy phần.
 
 Tăng bèn đi quanh bên phải một vòng rồi nói là chữ gì?
 
@@ -1281,7 +1281,7 @@ Thanh nói: không
 
 Thị giả: Tôn ý Hòa Thượng thế nào?
 
-– Một giọt nước mực hai chỗ thành rồng
+- Một giọt nước mực hai chỗ thành rồng
 
 Thành cướp giống như thành tựu. Sợ thành lưu bố bại nhục môn Phong
 
@@ -1295,7 +1295,7 @@ An nói: Hư không không treo kiếm, thỏ ngọc không mang vây, nghe truy
 
 Khiên hỏi: Đây là chỗ nào?
 
-– Ông đến đất Thục hỏi Nham Quân Bình
+- Ông đến đất Thục hỏi Nham Quân Bình
 
 Chính như lời này, Quân Bình nói: Con ngày tháng có khác tinh, Phạm ngưu Đẩu, nhân lời ghi, Hán Thư chép, Trương Khiên cùng sông hồ, nói phụng sứ xa, thật không có lời Thiên Hà, chỉ nói về muôn vật. Có người mang lương thực cho phù sai đến Thiên Hà thấy trâu uống nước. Trượng Phu hỏi Quân Bình khách tinh Phạm Ngưu đẩu tức là người này. Bài tụng này Long Nhã dùng thời để phóng qua, sau khi phóng qua chớ làm chủ tể.
 

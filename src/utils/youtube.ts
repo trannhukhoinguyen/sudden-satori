@@ -1,6 +1,6 @@
 // utils/youtube.ts
 // YouTube playlist parser WITHOUT API KEY
-// Supports modern YouTube HTML (2024–2025)
+// Supports modern YouTube HTML (2024-2025)
 
 export interface YoutubePlaylistItem {
   id: string;

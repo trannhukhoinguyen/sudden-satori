@@ -102,7 +102,7 @@ const CnLv18MasterDb = [
     records: '',
     sect: ['Caodong'],
     country: '🇨🇳',
-    place: 'trụ trì tại Vạn Thọ Tự – Tô Châu',
+    place: 'trụ trì tại Vạn Thọ Tự - Tô Châu',
     teachers: ['Mingji Huizuo'],
     successors: ['Zhiweng Deju'],
     disciples: ['Zhiweng Deju'],

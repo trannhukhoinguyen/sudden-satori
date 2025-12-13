@@ -172,7 +172,7 @@ Thiền sư Văn Hỉ nói: “trời xanh tối tăm, không bay phía trên tr
 Quốc Vương Ngô Việt rất kính phục Thiền sư Văn Hỷ, ban cho Ngài ca sa tía, phong hiệu là “Thiền sư Vô Trước”.
 
 Thiền sư Vô Trước Văn Hỷ gần viên tịch, vào nửa đêm Ngài dạy các đệ tử: ‘Ba cõi tâm tận, tức là Niết bàn”. 
-Nói xong kiết già ngồi ngay, nhẹ nhàng ra đi – Ngài lấy tính mạng cuối cùng của mình trực tiếp hiển bày thực tướng Niết bàn.
+Nói xong kiết già ngồi ngay, nhẹ nhàng ra đi - Ngài lấy tính mạng cuối cùng của mình trực tiếp hiển bày thực tướng Niết bàn.
 
 Thế mà Thiền sư Vô Trước Văn Hỷ đã viên tịch nhưng truyền kỳ vẫn chưa dứt. 
 Sau nhiều name, năm thứ hai niên hiệu Thiên Phúc nước Ngô Việt, một đội quân ào ạt, phản quân tướng lĩnh, binh lính phóng túng cướp bóng, ngay tháp mộ của Thiền sư Văn Hỷ an táng ở núi Linh Ẩn cũng chưa thể may mắn thoát khỏi. Loạn binh phá của tháp, bỗng nhiên nhìn thấy một vị lão Hoà thượng ngồi ngay ngắn trong tháp. Ngài, giống như nhập vào trong thiền định thâm sâu, tựa hồ như chỉ một tiếng khánh vang lên, Ngài liền có thể xuất định, đứng dậy…
@@ -184,7 +184,7 @@ Thiền cơ liên tiếp: RỒNG RẮN LẪN LỘN, PHÀM THÁNH Ở CHUNG
 Thiền sư Hoằng Bá Hy Vận là người Phúc Châu, tuổi nhỏ đã xuất gia làm một tiểu sa di. Sau khi thọ giới Ngài bắt đầu ra ngoài vân du. 
 Mục tiêu thứ nhất của Ngài là núi Thiên thai ở Chiết Giang.
 
-Núi Thiên Thai là nơi Phật giáo sản sanh tông phái thứ nhất ở Trung Quốc – nơi đất lành phát sanh ra tông Thiên Thai. Đại sư Trí Khải (538 – 597) – đời xưng là Đại sư Trí Giả – tổ sư khai tông Tông Thiên Thai, từng ở nơi nay tu thiền, khế nhập Pháp Hoa tam muội, tâm khai đắc ngộ. Đại sư Trí Giả là một trong những Tăng nhân trước thuật phong phú nhất của Trung Quốc, viết tổng cộng được 29 bộ, 151 quyển. Chùa Quốc Thanh là tự viện quan trọng nhất của núi Thiên Thai vốn là chỗ tu thiền của Đại sư Trí Khải, năm thứ mười tám triều đại Khai Hoàng (598 TL) Phổ Vương Dương Quảng theo di nguyện của Đại sư Trí Khải mà kiến lập thuộc tổ đình của tông Thiên Thai.
+Núi Thiên Thai là nơi Phật giáo sản sanh tông phái thứ nhất ở Trung Quốc - nơi đất lành phát sanh ra tông Thiên Thai. Đại sư Trí Khải (538 - 597) - đời xưng là Đại sư Trí Giả - tổ sư khai tông Tông Thiên Thai, từng ở nơi nay tu thiền, khế nhập Pháp Hoa tam muội, tâm khai đắc ngộ. Đại sư Trí Giả là một trong những Tăng nhân trước thuật phong phú nhất của Trung Quốc, viết tổng cộng được 29 bộ, 151 quyển. Chùa Quốc Thanh là tự viện quan trọng nhất của núi Thiên Thai vốn là chỗ tu thiền của Đại sư Trí Khải, năm thứ mười tám triều đại Khai Hoàng (598 TL) Phổ Vương Dương Quảng theo di nguyện của Đại sư Trí Khải mà kiến lập thuộc tổ đình của tông Thiên Thai.
 
 Lúc đó, Hoàng Bá Hi Vận sở dĩ muốn hướng đến núi Thiên Thai là vì trong chùa Quốc Thanh có hai vị Tăng kỳ diệu: Hàn Sơn và Thập Đắc (xem tùng thư Thiền Cơ Đốn Sự tắc 24 đến 26). Suốt hành trình, ngài cứ đi mãi, không nghỉ, cuối cùng cũng đến được chân núi Thiên Thai.
 
@@ -289,7 +289,7 @@ Thiền sư Khoáng cũng không khách khí: “Xin mời”
 
 Đại sư Thạch Đầu Hi Thiên không trả lời mà thỏng một chân xuống
 
-Năm đó, sư phụ của Thạch Đầu Hi Thiên – Thanh Nguyên Hành Tư, cũng thỏng một chân xuống để biểu thị sự chấp nhận đối với sự khai ngộ của Hi Thiên. Thiền sư Khoáng thấy tình cảnh này, vội năm vóc gieo sát đất, quỳ xuống đảnh lễ . Thế mà, Thiền sư Thạch Đầu vẫn chưa bỏ qua nói “Người lãnh ngộ được đạo lý gì mà lễ bái như vậy?”
+Năm đó, sư phụ của Thạch Đầu Hi Thiên - Thanh Nguyên Hành Tư, cũng thỏng một chân xuống để biểu thị sự chấp nhận đối với sự khai ngộ của Hi Thiên. Thiền sư Khoáng thấy tình cảnh này, vội năm vóc gieo sát đất, quỳ xuống đảnh lễ . Thế mà, Thiền sư Thạch Đầu vẫn chưa bỏ qua nói “Người lãnh ngộ được đạo lý gì mà lễ bái như vậy?”
 
 Thiền sư Khoáng mỉm cười, nói: “Theo con thấy giống như hạt tuyết trong lò lửa”.
 
@@ -326,7 +326,7 @@ Vị tăng này lại đi quanh thiền sàng một vòng, chỉ hiển thị b�
 
 Ý của Thiền sư Khoáng là ông rất cứng nhắc, giáo điều, không hiểu lời người xưa. Vị tăng này không phục, tự cho rằng mình có sở đắc, bèn quay người đi ra ngoài. Thiền sư Khoáng kêu ông, ông không quay đầu, tiếp tục đi ra ngoài.
 
-Ông làm như, vậy tự có đạo lí của ông. Ông cho rằng bản thân tham thiền có ngộ, cho nên phải tự đưa ra chủ trương. Thế mà tâm thiền linh động, không chấp mê mà cũng không chấp ngộ, không có gì đắc mà cũng không có gì không đắ. Vị tăng này chổi cùn cũng quí, đem cái ngộ được của mình dấu kỹ trong lòng, cho đến che đậy mà toát ra mùi hôi. Các vị tổ sư gọi tình huống này là “đảnh môn cang thiền” – không biết vận dụng linh hoạt, tùy nơi mà chuyển mình.
+Ông làm như, vậy tự có đạo lí của ông. Ông cho rằng bản thân tham thiền có ngộ, cho nên phải tự đưa ra chủ trương. Thế mà tâm thiền linh động, không chấp mê mà cũng không chấp ngộ, không có gì đắc mà cũng không có gì không đắ. Vị tăng này chổi cùn cũng quí, đem cái ngộ được của mình dấu kỹ trong lòng, cho đến che đậy mà toát ra mùi hôi. Các vị tổ sư gọi tình huống này là “đảnh môn cang thiền” - không biết vận dụng linh hoạt, tùy nơi mà chuyển mình.
 
 Thiền sư Khoáng mắt tuệ sáng rõ, nhìn đúng căn bệnh đang tồn tại của ông, áp dụng thủ thuật chêm khử chêm nên bảo rằng: “kẻ này khi còn nhỏ học ở đâu?”
 
@@ -378,7 +378,7 @@ Thiền sư Khoáng và Lý Hành Bà cùng cười ha hả. Cười xong Thiề
 
 ### Liên quan đến thiền cơ: Thiền Cơ Diệu Kì Không Thể Nói Được
 
-Thiền sư Giản ở Cao Đình – Hoàn Dương, từ bờ Hán Giang Hồ Bắc đi thẳng xuống phía Nam, đến ven bờ sông Nguyên ở vũ Lăng – Hồ Nam (nay là Thường Đức). trong chốn thiền lâm thịnh hành câu truyền: “gậy Đức Sơn khua mất vía phàm Thánh ma quỷ”. Ông đến tham bái đại sư Tuyên Giám Đức Sơn.
+Thiền sư Giản ở Cao Đình - Hoàn Dương, từ bờ Hán Giang Hồ Bắc đi thẳng xuống phía Nam, đến ven bờ sông Nguyên ở vũ Lăng - Hồ Nam (nay là Thường Đức). trong chốn thiền lâm thịnh hành câu truyền: “gậy Đức Sơn khua mất vía phàm Thánh ma quỷ”. Ông đến tham bái đại sư Tuyên Giám Đức Sơn.
 
 Vừa may, ông vừa đến bên bờ sông lớn dưới chân núi Đức Sơn, đại sư Đức Sơn Tuyên Giám lại đúng lúc xuất hiện bên bờ sông bên bờ sông bên kia. Đại sư Đức Sơn không phải đến để qua sông, mà là dọc theo bờ đê bên kia sông đi xuống phía dưới dạo chơi. Thiền sư Giản nghĩ rằng, đợi mình qua đến bờ bên kia mới đuổi theo thì không kịp nữa. Thế là, ông liền đứng bên này sông gọi lớn: “đại Hòa thượng Đức Sơn, đại Hòa thượng Đức Sơn!”
 
@@ -392,7 +392,7 @@ Một phụ nữ xây dựng một căn nhà nhỏ tinh xảo đẹp đẽ nơi 
 
 Nháy mắt đã hai mươi năm trôi qua, người phụ nữ trở thành một bà lão. Một hôm, bà bảo đứa cháu gái mới mười sáu tuổi đi đưa cơm, và cúi xuống dặn dò bên tai chuyến này phải như thế.
 
-Tiểu nữ đưa cơm đến cho Thiền tăng, ngay bản thân cũng cùng đưa đến cửa – cô ôm chặt vị Tăng, như lời bà nội đã dặn đi dặn lại hỏi: “ngay lúc này ông nghĩ như thế nào?”.
+Tiểu nữ đưa cơm đến cho Thiền tăng, ngay bản thân cũng cùng đưa đến cửa - cô ôm chặt vị Tăng, như lời bà nội đã dặn đi dặn lại hỏi: “ngay lúc này ông nghĩ như thế nào?”.
 
 Vị tăng kia có định lực ung dung nói: “cây khô dựa núi lạnh, ba đông cũng chưa có hơi ấm”.
 
@@ -412,7 +412,7 @@ Chuyện giữa một người nam và một đại cô nương, trời biết �
 
 ### TẮC 19: TRĂNG TRÒN RỒI KHUYẾT
 
-Thiền sư Thạch Thất Thiện Đạo vốn là một cô nhi lang thang khắp nơi chẳng có ai quan tâm, cậu không thương, bà cũng ghét, năm ông mười tuổi, Thiền sư Trường Tư Khoáng gặp ông trên phố, dẫn ông về chùa. Thế là, ông xuất gia làm một tiểu sa di đuổi quạ. Năm tháng qua mau, thời gian tám năm để một “sa di đuổi quạ” bé nhỏ tôi luyện trở thành một “ứng pháp sa di” – không lâu nữa tức có thể chính thức tham dự những sinh hoạt trong cuộc sống của người xuất gia. Một hôm, Thiện Đạo nói với Sư phụ: “Đệ tử muốn đi thọ giới”.
+Thiền sư Thạch Thất Thiện Đạo vốn là một cô nhi lang thang khắp nơi chẳng có ai quan tâm, cậu không thương, bà cũng ghét, năm ông mười tuổi, Thiền sư Trường Tư Khoáng gặp ông trên phố, dẫn ông về chùa. Thế là, ông xuất gia làm một tiểu sa di đuổi quạ. Năm tháng qua mau, thời gian tám năm để một “sa di đuổi quạ” bé nhỏ tôi luyện trở thành một “ứng pháp sa di” - không lâu nữa tức có thể chính thức tham dự những sinh hoạt trong cuộc sống của người xuất gia. Một hôm, Thiện Đạo nói với Sư phụ: “Đệ tử muốn đi thọ giới”.
 
 Trường Tư Khoáng nói: “con thọ giới để làm gì?”
 
@@ -428,7 +428,7 @@ Thiện Đạo cảm thấy kỳ lạ: rõ ràng là Sư phụ gọi ta, làm sa
 
 “Con muốn thọ giới không phải là có việc sao!” Thiền sư Khoáng lại nói: “việc tâm chưa sạch, tích tụ thành núi. Con đã xuất gia nhiều năm trong chùa, lại đủ mười tám ròi, có thể tùy nghi một tí, cho phép con đi thọ giới thôi”.
 
-Trong lòng Thiện Đạo vui mừng reo thành tiếng, lập tức chạy về liêu phòng của mình chuẩn bị hành lý. Sáng sớm ngày hôm sau, ông liền đến Sư phụ từ biệt ra đi. Thiền sư Khoáng dặn đi dặn lại rằng: “lúc con thọ giới trở về, nhất định phải đến Nam Nhạc Hằng Sơn để lễ bái Sư phụ của ta – lão Hòa thượng THẠCH ĐẦU HI THIÊN. Ơ đó tự sẽ có điều tốt cho con”.
+Trong lòng Thiện Đạo vui mừng reo thành tiếng, lập tức chạy về liêu phòng của mình chuẩn bị hành lý. Sáng sớm ngày hôm sau, ông liền đến Sư phụ từ biệt ra đi. Thiền sư Khoáng dặn đi dặn lại rằng: “lúc con thọ giới trở về, nhất định phải đến Nam Nhạc Hằng Sơn để lễ bái Sư phụ của ta - lão Hòa thượng THẠCH ĐẦU HI THIÊN. Ơ đó tự sẽ có điều tốt cho con”.
 
 Thiện Đạo thọ giới xong, nghe lời sư phụ dặn dò, đến tham yết Tổ sư Đại sư Thạch Đầu. Đại sư THẠCH ĐẦU HI THIÊN rất hoan hỉ với đồ tôn này, bèn giữ ông ở lại bên cạnh, dẫn dắt thường xuyên.
 
@@ -438,7 +438,7 @@ Tổ sư Thiền Tông xưa, nói im động tĩnh, không gì là không phải
 
 Giới đao là một trong 8 vật tùy thân Tỳ Kheo mang theo để dùng vá áo là dao nhỏ hình bán nguyệt, để dùng vá áo, cắt tóc, bổ dưa. Vì đức Phật không cho phép chặt tất cả các cây cỏ, cho nên dao Tỳ kheo mang theo gọi là “Dao giới”. Đồng thời, dao giới rất bén, có thể chém đứt tất cả phiền não vì thế nó ngoài giá trị thực dụng ra, cũng có ý nghĩa trên tinh thần. Đã là đức Phật cấm chỉ vô cớ phát chặt cây cỏ, Đại sư Thạch Đầu bảo Thiện Đạo đi chặt cây trước mặt chắc có ý vị khác, mà dao giới đã là vật tùy thân của Tỳ Kheo, Thiền Đạo vừa mới thọ giới, lại nói mình không mang theo, cũng có một ý thú khác.
 
-Đại sư Thạch Đầu rút dao giới của mình ra, nhưng lại đưa cho Thiện Đạo – bảo ông đón lấy lưỡi dao! Thiện Đạo vô cùng thông minh lanh lợi. Vừa nhìn đã biết Tổ sư đang chỉ thị thiền yếu, tâm ông cũng theo đó mà linh động, nhạy bén hỏi rằng: “vì sao không đưa đầu kia?”
+Đại sư Thạch Đầu rút dao giới của mình ra, nhưng lại đưa cho Thiện Đạo - bảo ông đón lấy lưỡi dao! Thiện Đạo vô cùng thông minh lanh lợi. Vừa nhìn đã biết Tổ sư đang chỉ thị thiền yếu, tâm ông cũng theo đó mà linh động, nhạy bén hỏi rằng: “vì sao không đưa đầu kia?”
 
 “Đầu kia”, trên biểu hiện giống như đang nói cán dao, trên thực tế lại như “cái này, cái kia, bên này bên kia” mà Thiền sư thường nói, những thứ này đều đại biểu cho tự tánh, Phật tánh … không thể nói, không hình không tướng. Cho nên, Thiện Đạo cũng đang thỉnh Tổ sư Thạch Đầu chỉ thị tự tánh.
 
@@ -450,7 +450,7 @@ Thiện Đạo ngay lập tức đại triệt đại ngộ!
 
 Cuối cùng ông hiểu rõ Sư phụ - Thiền sư Trường Tư Khoáng đã suy nghĩ rất nhiều khi bảo ông đến Hằng Sơn.
 
-Thiện Đạo bái biệt Sư tổ Thạch Đầu, thẳng đường lên phía Bắc, trở về Trường Tư – Đàm Châu. Thiền sư Khoáng hỏi ông: “phải chăng con đã ghé qua Nam Nhac? Gặp lão Hòa thượng Thạch Đầu chưa?”
+Thiện Đạo bái biệt Sư tổ Thạch Đầu, thẳng đường lên phía Bắc, trở về Trường Tư - Đàm Châu. Thiền sư Khoáng hỏi ông: “phải chăng con đã ghé qua Nam Nhac? Gặp lão Hòa thượng Thạch Đầu chưa?”
 
 Thiện Đạo thưa: “đến thì đã đến rồi, chỉ là chưa từng thong báo danh hiệu”.
 
@@ -464,7 +464,7 @@ Thiện Đạo chắp tay thi lễ, cung kính thưa: “con làm sao dám chố
 
 Đây chính là thiền giả đích thực, sức nuốt núi sông như hổ, lễ khiêm nhường cũng như đất. Ta là Pháp vương, trên trời dưới đất chỉ có ta là trên hết; thế mà, trời đất và ta cùng một gốc, vạn vật và ta cùng một loại, ta và sâu kiến bình đẳng. Ta dọc ngang trong trời đất, ta hơn Phật vượt Tổ, trước mặt ta chưa từng có thần tiên thượng đế gì cả; đồng thời, ta thuận theo tất cả quy luật của tự nhiên, ta tuân thủ lễ nghi thường tình của thế gian, ta chỉ là một người bình thường tự nhiên như vậy thôi…
 
-Thiền sư Thiện Đạo sanh không nhằm thời, lúc ông vừa đủ lông đủ cánh, sắp muốn bay vút tận trời xanh, gặp ngay cuộc vận động tiêu diệt Phật giáo của Đưòng Vũ Tông. Chùa chiền trong cả nước mười phần phá hết chín, hai mươi sáu vạn Tăng Ni bị cưỡng bức hoàn tục. Thiền sư Thiện Đạo cũng không thể may mắn thoát khỏi, trên đầu trọc nay lại phải để tóc. Một năm sau, Đường Vũ Tông diễn xong trò điên cuồng cuối cùng, vì uống thuốc độc trong đơn dược của các đạo sĩ nên qua đời. Đường Tuyên Tông người đã từng làm Sa di trong tòng lâm Thiền tông lên ngôi, mở ra một giai đoạn thái bình thịnh thế của triều đại nhà Đường cuối cùng. Sống sót sau tai nạn lớn, hàng loạt Thiền sư khai ngộ từ trong rừng sâu núi thẳm đi ra, gánh vác sứ mạng chấn hưng Phật giáo, nhiều Tăng ni cũng đã trở về chùa. Thế nhưng Thiền sư Thiện Đạo lại không xuống tóc trở lại, ở núi Thạch Thất huyện Đàm Châu Du nơi từng ẩn cư làm một hành giả – người lao khổ nhất, thấp hèn nhất trong tự viện. Ong cũng như Lục Tổ năm nọ vậy, mỗi ngày đều đạp chày giã gạo cúng dường Tăng chúng cả chùa.
+Thiền sư Thiện Đạo sanh không nhằm thời, lúc ông vừa đủ lông đủ cánh, sắp muốn bay vút tận trời xanh, gặp ngay cuộc vận động tiêu diệt Phật giáo của Đưòng Vũ Tông. Chùa chiền trong cả nước mười phần phá hết chín, hai mươi sáu vạn Tăng Ni bị cưỡng bức hoàn tục. Thiền sư Thiện Đạo cũng không thể may mắn thoát khỏi, trên đầu trọc nay lại phải để tóc. Một năm sau, Đường Vũ Tông diễn xong trò điên cuồng cuối cùng, vì uống thuốc độc trong đơn dược của các đạo sĩ nên qua đời. Đường Tuyên Tông người đã từng làm Sa di trong tòng lâm Thiền tông lên ngôi, mở ra một giai đoạn thái bình thịnh thế của triều đại nhà Đường cuối cùng. Sống sót sau tai nạn lớn, hàng loạt Thiền sư khai ngộ từ trong rừng sâu núi thẳm đi ra, gánh vác sứ mạng chấn hưng Phật giáo, nhiều Tăng ni cũng đã trở về chùa. Thế nhưng Thiền sư Thiện Đạo lại không xuống tóc trở lại, ở núi Thạch Thất huyện Đàm Châu Du nơi từng ẩn cư làm một hành giả - người lao khổ nhất, thấp hèn nhất trong tự viện. Ong cũng như Lục Tổ năm nọ vậy, mỗi ngày đều đạp chày giã gạo cúng dường Tăng chúng cả chùa.
 
 Tuy ông ở chung với những hành giả không nhập lưu, nhưng các cao tăng đại đức mến danh từ trước mà đến tham vấn vẫn lũ lượt không dứt. Mỗi khi có vị tăng đến, ông liền chống thiền trượng nói: “ba đời chư Phật, đều từ đây mà đến.” Người ứng đối rất ít khi có thể đạt đến sự khế nhập, đạt được sự chấp nhận của ông.
 
@@ -472,7 +472,7 @@ Tuy ông ở chung với những hành giả không nhập lưu, nhưng các cao
 
 Đương thời, đệ tử của Đại sư Lâm Tế - Tam Thánh Huệ Nhiên đang vân du đhương Nam bèn dùng câu nói thiền này đối đáp với Thiện Đạo, Thiện Đạo cười ha hả, nói: “Lời đọc bại hoại của người là câu nói của Trường Sa”.
 
-Thiền sư Hạnh Sơm Giám Hồng nghe Tam Thánh Huệ Nhiên thất cơ bèn chạy đến mấy ngàn dặm, từ phương Bắc xa xôi –Trác Châu – Hà Bắc tự đến Thạch Thất. Thiền sư Thiện Đạo nghe nói Hạnh Sơn không quản ngàn dặm xa xôi mà đến, bèn xuống núi đón ông ta. Rất nhiều tăng chúng cũng theo Ngài đi ra ngoài cửa núi. Thiền sư Hạnh Sơn Giám Hồng từ xa thấy như vậy, bèn lặng lẽ đi đường vòng, lén vào gian nhà mà Thiện Đạo thường giã gạo, đạp cối gạo “thùng thùng”.
+Thiền sư Hạnh Sơm Giám Hồng nghe Tam Thánh Huệ Nhiên thất cơ bèn chạy đến mấy ngàn dặm, từ phương Bắc xa xôi -Trác Châu - Hà Bắc tự đến Thạch Thất. Thiền sư Thiện Đạo nghe nói Hạnh Sơn không quản ngàn dặm xa xôi mà đến, bèn xuống núi đón ông ta. Rất nhiều tăng chúng cũng theo Ngài đi ra ngoài cửa núi. Thiền sư Hạnh Sơn Giám Hồng từ xa thấy như vậy, bèn lặng lẽ đi đường vòng, lén vào gian nhà mà Thiện Đạo thường giã gạo, đạp cối gạo “thùng thùng”.
 
 Chúng ta thấy, Thiền sư ngày xưa chính là sắc sảo và hoạt bát như thế.
 
@@ -506,7 +506,7 @@ Nắm tay của Thiện Đạo trở thành bàn tay.
 
 Ngưỡng Sơn Huệ Tịch hỏi lần thứ ba: Phật và Đạo cách nhau bao nhiêu?
 
-“Đạo” được nói đến trong Phật giáo hoàn toàn không phải là đạo gia hay đạo giáo, Thứ nhất, đạo là chân đế của nhân sanh vũ trụ, thứ hai đạo là phép tắt để đạt đến giác ngộ, phương pháp, đường lối, cảnh giới và quá trình tu hành, thứ ba, đạo cũng là Bồ Đề – dịch ý là trí tuệ giác ngộ vô thượng.
+“Đạo” được nói đến trong Phật giáo hoàn toàn không phải là đạo gia hay đạo giáo, Thứ nhất, đạo là chân đế của nhân sanh vũ trụ, thứ hai đạo là phép tắt để đạt đến giác ngộ, phương pháp, đường lối, cảnh giới và quá trình tu hành, thứ ba, đạo cũng là Bồ Đề - dịch ý là trí tuệ giác ngộ vô thượng.
 
 Thiền sư Thiện Đạo đưa ra một cánh tay, đầu tiên mở ra thành bàn tay, tiếp tục nắm lại thành nắm tay, sau đó trả lời: “Đạo như duỗi cánh tay, Phật như co thành nắm.”
 
@@ -544,11 +544,11 @@ Một vầng trăng trên trời, cũng là cảnh giới thiền, lúc hiện t
 
 Hai mươi năm trước, ông tốt nghiệp từ một ngôi trường khảo cổ chuyên nghiệp, vừa bước khỏi ngưỡng cửa đại học liền may mắn được đi theo đoàn khảo cổ do sở nghiên cứu tổ chức đi đến một vùng sa mạc lớn. Ở đó, nơi hoang mạc mênh mông này, dưới lớp đất cát mênh mang có một đô thành, huy hoàng tráng lệ. Sự huy hoàng của nó đến nay vẫn còn xán lạn trong các loại sử sách.
 
-Khảo cổ, nghe ra có vẻ lãng mạn, như truyền kỳ, thực tế thì rất khô khan, đặc biệt là đi tìm nền văn minh thất lạc trong sa mạc lớn, chẳng khác gì mò kim đáy biển. Mặc dù họ trăm ngàn lao khổ, mãi đến lúc gần kết thúc hoạt động khảo cổ lần này, vẫn chưa có phát hiện gì lớn lao cả. Vào hoàng hôn ngày nọ, sau khi công việc kết thúc, ông đi dạo một mình quanh trại. Trong lúc bất ngờ, bàn chân đá lên một vật màu vàng chói lọi từ trong cát hoang – Trời ạ! Đây là một cái mũ vua được làm bằng vàng!
+Khảo cổ, nghe ra có vẻ lãng mạn, như truyền kỳ, thực tế thì rất khô khan, đặc biệt là đi tìm nền văn minh thất lạc trong sa mạc lớn, chẳng khác gì mò kim đáy biển. Mặc dù họ trăm ngàn lao khổ, mãi đến lúc gần kết thúc hoạt động khảo cổ lần này, vẫn chưa có phát hiện gì lớn lao cả. Vào hoàng hôn ngày nọ, sau khi công việc kết thúc, ông đi dạo một mình quanh trại. Trong lúc bất ngờ, bàn chân đá lên một vật màu vàng chói lọi từ trong cát hoang - Trời ạ! Đây là một cái mũ vua được làm bằng vàng!
 
 Đạp rách giày thép tìm kiếm khắp nơi, được rồi hoàn toàn không phí công vô ích! Anh ta, chàng trai lần đầu tiên ra khỏi căn nhà tranh này trong lúc vô ý tìm được mũ vua đã chấm lên một dấu chấm tròn đầy cho toàn bộ hoạt động của cả đoàn khảo cổ.
 
-Thế nhưng trong sự viên mãn đó cũng có một vài điều đáng tiếc – trên chóp mũ chỗ cần đính ngọc thạch lại trống không. Đó chính là bộ phận quí nhất trên mũ vua kia bị thiếu.
+Thế nhưng trong sự viên mãn đó cũng có một vài điều đáng tiếc - trên chóp mũ chỗ cần đính ngọc thạch lại trống không. Đó chính là bộ phận quí nhất trên mũ vua kia bị thiếu.
 
 Những năm tháng sau đó, để tìm kiếm viên ngọc quí kia bổ khuyết cho phần thiếu sót ở bộ phận trung tâm trên, ông luôn tranh thủ tất cả mọi cơ hội để đến đó, kiếm tìm, lục lọi cực khổ. Thời gian hai mươi năm nhẹ nhàng qua mau, tuy ông không tìm thấy viên đá quí thất lạc đó, nhưng trong quá trình tìm kiếm nó, trong vô tình hay hữu ý ông đã phát hiện ra nhiều văn vật trân quí và có nhiều manh mối lịch sử có giá trị cao cấp, ông cũng nhờ đó mà trác việt thành gia, trở thành người có quyền uy xây dựng lớn nhất trên phương diện này. Ông đạt được địa vị học thuật cao quí và sự tôn trọng của những người đồng hành.
 

@@ -4,7 +4,7 @@ meta_title: "KHO BÁU NHÀ THIỀN"
 description: ""
 excerpt: |
   "Đạo vốn vô ngôn; do ngôn mà hiển đạo, thế nên có mạn lục, có bảo huấn, có bút ngữ, có võ khố.
-  Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 – 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích."
+  Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 - 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích."
 categories:
   - Sách
 tags:
@@ -17,7 +17,7 @@ authors:
 
 Đạo vốn vô ngôn; do ngôn mà hiển đạo, thế nên có mạn lục, có bảo huấn, có bút ngữ, có võ khố.
 
-Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 – 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích.
+Nay đây, có Hòa thượng Văn Thủ, tự Nhất Ty (1607 - 1648) người nước Nhật Bản, lúc đầu ở ẩn nơi Tây Cương thuộc đất Lạc Tây, về sau Ngài về núi Đan mai danh ẩn tích.
 
 Tuy nhiên, các hàng xuất gia khắp chốn hải hồ tìm đến bên Ngài kết am tranh tu học số đông không kể xiết.
 
@@ -2233,4 +2233,4 @@ Trong bộ Thiền Học Đại Thành, nguyên tác chữ Hán, thì tập Truy
 >
 > Thành Hội Phật Giáo TP. Hồ Chí Minh xuất bản 1997 PL. 2541
 >
-> Việt Dịch: HT. Thích Duy Lực – Định Huệ
+> Việt Dịch: HT. Thích Duy Lực - Định Huệ

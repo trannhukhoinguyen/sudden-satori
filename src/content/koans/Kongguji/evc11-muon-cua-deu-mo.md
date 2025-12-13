@@ -25,75 +25,75 @@ Dù đã dứt hết suy nghĩ chưa hẳn không phải là bậc tác gia.
 📢 Ngài Đầu Tử cử:
 
 > Hòa thượng Vân Cái hỏi Thạch Sương:
-– Không hỏi vạn cửa đóng, chỉ hỏi vạn cửa mở thì thế nào?
+- Không hỏi vạn cửa đóng, chỉ hỏi vạn cửa mở thì thế nào?
 
 Thạch Sương đáp:
-– Việc trong nhà thế nào?
+- Việc trong nhà thế nào?
 
 Vân Cái không đáp được, đến nửa năm sau mới nói:
-– Không người tiếp được ý.
+- Không người tiếp được ý.
 
 Thạch Sương bảo:
-– Nói rất hay, nhưng chỉ được tám phần.
+- Nói rất hay, nhưng chỉ được tám phần.
 
 Vân Cái thưa:
-– Còn Hòa thượng thì thế nào?
+- Còn Hòa thượng thì thế nào?
 
 Thạch Sương đáp:
-– Không người biết được ý.
+- Không người biết được ý.
 
 ## BÌNH XƯỚNG
 
 📢 Ngài Đầu Tử nói:
 
 Thiền sư Chí Nguyên ở núi Vân Cái, Đàm Châu. Lúc đi du phương hỏi Vân Cư:
-– Lúc Chí Nguyên hết cách thì làm sao?
+- Lúc Chí Nguyên hết cách thì làm sao?
 
 Vân Cư đáp:
-– Chỉ vì công phu Xá Lê chưa thành. Sư không lễ bái, đến chỗ Thạch Sương, Sư cũng hỏi như thế.
+- Chỉ vì công phu Xá Lê chưa thành. Sư không lễ bái, đến chỗ Thạch Sương, Sư cũng hỏi như thế.
 
 Thạch Sương đáp:
-– Chẳng những Xá Lê, Lão Tăng cũng không ứng phó được.
+- Chẳng những Xá Lê, Lão Tăng cũng không ứng phó được.
 
 Sư nói:
-– Vì sao Hòa thượng hết cách?
+- Vì sao Hòa thượng hết cách?
 
 Thạch Sương đáp:
-– Lão Tăng nếu có cách đưa cho ông cũng không ứng phó được. Sư lễ bái và xin vào thất.
+- Lão Tăng nếu có cách đưa cho ông cũng không ứng phó được. Sư lễ bái và xin vào thất.
 
 Sau Thạch Sương thượng đường, có vị Tăng hỏi:
-– Vạn cửa đều đóng thì không hỏi, lúc vạn cửa đều mở thì thế nào?
+- Vạn cửa đều đóng thì không hỏi, lúc vạn cửa đều mở thì thế nào?
 
 Đáp:
-– Việc trong nhà thế nào?
+- Việc trong nhà thế nào?
 
 Nửa năm sau vị Tăng mới nói:
-– Không người tiếp được ý.
+- Không người tiếp được ý.
 
 Thạch Sương bảo:
-– Nói rất hay nhưng chỉ được tám phần.
+- Nói rất hay nhưng chỉ được tám phần.
 
 Tăng thưa:
-– Hòa thượng thì thế nào?
+- Hòa thượng thì thế nào?
 
 Thạch Sương đáp:
-– Không người biết được ý.
+- Không người biết được ý.
 
 Sư biết được lẽ đại thẩm, Thạch Sương nói… Thạch Sương không nói.
 
 Sư thưa:
-– Nếu không nói con đánh Hòa thượng.
+- Nếu không nói con đánh Hòa thượng.
 
 Thạch Sương nói:
-– Không người biết được ý.
+- Không người biết được ý.
 
 Sư ngộ ngay lời này.
 
 Thúy Nham Thủ Chi nói:
-– Trước bước không đến, sau thì quá trọn.
+- Trước bước không đến, sau thì quá trọn.
 
 Lâm Tuyền nói:
-– Chạy thì chạy mau, ngồi thì ngồi liền.
+- Chạy thì chạy mau, ngồi thì ngồi liền.
 
 Tổ Đăng Lục ghi Tăng hỏi Thạch Sương, không phải Vân Cái hỏi. Nhưng trong bản tùng cổ này thì ghi là Vân Cái hỏi. Thiết nghĩ lúc sao chép không rõ ràng. Nhờ sự phân tích này để người học biết rõ hơn.
 

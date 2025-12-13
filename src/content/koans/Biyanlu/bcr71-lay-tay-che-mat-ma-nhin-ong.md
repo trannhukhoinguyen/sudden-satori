@@ -1,6 +1,6 @@
 ---
 title: "BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI"
-meta_title: "BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI – Công án Tổ Sư Thiền (Thiền Tông)"
+meta_title: "BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI - Công án Tổ Sư Thiền (Thiền Tông)"
 description: "Công án Thiền nổi tiếng BÁCH TRƯỢNG VÀ KHÔNG VỚI CỔ HỌNG VỚI MIỆNG MÔI, khai mở ý nghĩa sâu xa trong truyền thống Tổ Sư Thiền (Thiền Tông)"
 excerpt: ""
 categories:

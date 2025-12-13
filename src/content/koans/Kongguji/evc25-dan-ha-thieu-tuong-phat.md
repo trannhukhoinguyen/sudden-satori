@@ -53,7 +53,7 @@ Cạo tóc xong, Ngài dạy giới cho Sư. Sư bịt tai ra đi.
 
 Ở với ngài Thạch Đầu tu luyện nhiều năm, về sau, Sư nối pháp ngài Thạch Đầu.
 
-Đời Đường khoảng niên hiệu Nguyên Hòa (806–821).
+Đời Đường khoảng niên hiệu Nguyên Hòa (806-821).
 Sư đến Lạc Kinh, Long Môn, Hương Sơn. Sau lại đến chùa Huệ Lâm gặp lúc trời rét, Sư đem tượng Phật gỗ ra đốt.
 
 Viện chủ trách: Tại sao Sư đốt tượng Phật gỗ của tôi?

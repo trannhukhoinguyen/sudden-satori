@@ -18,7 +18,7 @@ Sự ra đi không trở lại của Chí Thành làm cho Đại sư Thần Tú 
 
 Ban đêm ở chùa Bảo Lâm rất yên tĩnh, chỉ có suối Tào Khê ở trước chùa, không biết mệt mỏi hát khúc tiểu dạ trong xanh cho núi non trầm mặc. Một bóng đen mặc đồ đi đêm, giống như một âm hồn nhanh nhẹn lặng lẽ lướt qua hàng rào, nhẹ nhàng đi xuyên qua mái hiên chánh điện, tiếp cận với phương trượng - ở đó chính là nơi Đại sư Huệ Năng đang yên giấc!
 
-Bóng đen bí mật, đương nhiên là sát thủ đến hành thích – Trương Hành Xương!
+Bóng đen bí mật, đương nhiên là sát thủ đến hành thích - Trương Hành Xương!
 
 Trương Hành Xương lặng lẽ đứng một hồi lâu trước cửa phương trượng, dường như đang suy nghĩ làm thế nào để vào trong thất. Lúc anh ta đưa tay lên sửa lại mặt nạ bảo vệ, trong lúc vô ý khuỷu tay đụng nhẹ phải tấm cửa lớn, không ngờ cánh cửa kia lại bị mở ra!
 
@@ -28,7 +28,7 @@ Trên đời lại có những điều may mắn vậy sao?
 
 Đúng là trời đã giúp ta! Trương Hành Xương không nghĩ ngợi nhiều, rút cây dao nhọn sắc bén ra, lách mình đi chậm vào trong thất…
 
-Trong phương trượng vẫn một vùng tĩnh mặc hiền hoà, chỉ có tiếng thở đều đều từ góc phòng vẳng lại. Trương Hành Xương đưa dao lên cao, lặng lẽ mò đến bên giường, nhắm đến phần cổ của người nằm trên giường độc ác đâm xuống – người nằm trên giường vẫn không hề phản ứng gì.
+Trong phương trượng vẫn một vùng tĩnh mặc hiền hoà, chỉ có tiếng thở đều đều từ góc phòng vẳng lại. Trương Hành Xương đưa dao lên cao, lặng lẽ mò đến bên giường, nhắm đến phần cổ của người nằm trên giường độc ác đâm xuống - người nằm trên giường vẫn không hề phản ứng gì.
 
 Chẳng biết vì sao mà mọi việc lại rất thuận lợi như thế, hay chỉ là ảo giác, Trương Hành Xương cảm thấy mũi dao đâm xuống có cái gì đó rất khác thường. Anh ta chẳng kể ba bảy hai mươi mốt gì cả, liên tiếp đâm xuống hai nhát nữa. Lúc đó, người vốn phải chết trên giường lại mở miệng nói: “Chánh kiếm không làm việc tà, tà kiếm không làm việc chánh, dao của ngươi là con dao tà ác, vĩnh viễn không thể giết được ta”.
 
@@ -178,7 +178,7 @@ Năm đó, vị đệ tử quan trọng nhất của Lục Tổ Huệ Năng là 
 
 Người mà chư Tổ sư huyền ký chính là Mã Tổ Đạo Nhất. Thiền sư Đạo Nhất quê ở Thập Phương tỉnh Tứ Xuyên, ho Mã, cho nên người đời sau tôn xưng Ngài là ‘Mã Tổ’.
 
-Ngày xưa, các vị tăng ở Tứ Xuyên có một truyền thống tốt đẹp, sau khi xuất gia thọ giới, luôn phải khắc phục trăm ngàn mối gian nan nguy hiểm, phải xông pha vào những tầng tầng lớp lớp chướng ngại của núi Ba sông Thục, băng qua các thung lũng vây kín của Tứ Xuyên, xuôi về Hạ Giang (người Ba Thục gọi tên vùng đất rộng lớn từ Tam Hiệp trở xuống) vân du tham học, luyện tập thiền đạo –
+Ngày xưa, các vị tăng ở Tứ Xuyên có một truyền thống tốt đẹp, sau khi xuất gia thọ giới, luôn phải khắc phục trăm ngàn mối gian nan nguy hiểm, phải xông pha vào những tầng tầng lớp lớp chướng ngại của núi Ba sông Thục, băng qua các thung lũng vây kín của Tứ Xuyên, xuôi về Hạ Giang (người Ba Thục gọi tên vùng đất rộng lớn từ Tam Hiệp trở xuống) vân du tham học, luyện tập thiền đạo -
 
 Sông ra khỏi Tam Hiệp mênh mông cuồn cuộn, nghìn dặm băng băng, chảy xuôi về biển không hề trở lại. Tăng rời Tứ Xuyên, chân trời góc bể sáng rõ mọi điều, ngộ triệt đại đạo mới về quê hương.
 
@@ -268,7 +268,7 @@ Mã Tổ Đạo Nhất nói: “Chị đem cái trứng gà đến đây, treo n
 
 Trứng gà chắc chắn có thể phát ra âm thanh, nhưng nó phải trải qua sự ấp ủ cho chuyển hoá trứng mới trở thành gà con, khi sắp phá vỏ mà ra tong đó mới phát ra âm thanh. Nhưng mà trong thiên hạ làm gì có trứng gà chưa từng ấp mà phát ra âm thanh? Đây có thể là Phật pháp đúng đắn? không phải là yêu pháp tà ma ngoại đạo chứ?
 
-Chị dâu không nghĩ như vậy, cô rất tin tưỏng lời của người em, làm đúng theo như thế. Sau khi Mã Tổ đi rồi, cô ta nghe ngóng rất nhiều năm, nhưng chưa hề nghe được âm thanh trong trứng gà. Mặc dù mọi người bàn tán xôn xao, người nhà cũng nói cô ta tẩu hoả nhập ma rồi, cô vẫn không để ý, không nản lòng, mỗi ngày đều toàn tâm chú ý nghe ngóng như vậy. Một hôm, ngay trong lúc cô toàn tâm lắng lòng chăm chú lắng nghe, sợi dây nhỏ treo trứng gà bị đứt, trứng cứ thế rơi xuống đất – “tách” trứng gà vỡ vụn!
+Chị dâu không nghĩ như vậy, cô rất tin tưỏng lời của người em, làm đúng theo như thế. Sau khi Mã Tổ đi rồi, cô ta nghe ngóng rất nhiều năm, nhưng chưa hề nghe được âm thanh trong trứng gà. Mặc dù mọi người bàn tán xôn xao, người nhà cũng nói cô ta tẩu hoả nhập ma rồi, cô vẫn không để ý, không nản lòng, mỗi ngày đều toàn tâm chú ý nghe ngóng như vậy. Một hôm, ngay trong lúc cô toàn tâm lắng lòng chăm chú lắng nghe, sợi dây nhỏ treo trứng gà bị đứt, trứng cứ thế rơi xuống đất - “tách” trứng gà vỡ vụn!
 
 Đồng thời lúc đó, dường như có tiếng sấm vô thanh đang vang dội trong linh hồn sâu thẳm của cô ấy, tánh linh lâu ngày bị vây khốn đã phá vỡ cái vỏ trứng vô hình. Chị dâu đại triệt đại ngộ.
 
@@ -394,7 +394,7 @@ Nam Tuyền phổ Nguyện cười nói: “Ông là người tu hành nhiều n
 
 Nam Tuyền Phổ Nguyện dùng những sự vật bình thường như thế để gợi ý cho Đệ tử làm cho họ thấy đạo ngay trong cuộc sống. Phương pháp này của Ngài bình thường giản dị nhưng lại giúp cho nhiều thiền giả nhạy bén lanh lợi, đạt được lợi ích vô cùng. Trong lịch sử có danh xưng ‘cổ Phật’ của Ngài Triệu Châu Tùng Thâm, cũng chính là người hoát nhiên đại ngộ dưới sự điểm hoá ‘tâm bình thường là đạo’ của Ngài.
 
-Sau một bữa trưa có gió đông mát mẻ thổi đến, Nam Tuyền cầm liềm lên núi cắt cỏ tranh – chuẩn bị mùa xuân năm tới sửa sàng mái nhà tranh. Ánh nắng mùa thu lên cao, ấm áp và thoải mái, cỏ tranh đầy núi vắng nổi lên oằn xuống theo gió, nghiễm nhiên như sóng cuộn dâng trào. Nam Tuyền cúi mình cắt cỏ tranh bị cỏ trên núi cao lay động biến thành một con thuyền nhỏ nhoi….
+Sau một bữa trưa có gió đông mát mẻ thổi đến, Nam Tuyền cầm liềm lên núi cắt cỏ tranh - chuẩn bị mùa xuân năm tới sửa sàng mái nhà tranh. Ánh nắng mùa thu lên cao, ấm áp và thoải mái, cỏ tranh đầy núi vắng nổi lên oằn xuống theo gió, nghiễm nhiên như sóng cuộn dâng trào. Nam Tuyền cúi mình cắt cỏ tranh bị cỏ trên núi cao lay động biến thành một con thuyền nhỏ nhoi….
 
 Lúc bạn tập trung chú ý thì lao động cũng giàu tình thơ ý hoạ như thế.
 
@@ -438,7 +438,7 @@ Một hôm, một vị Thiền tăng hành cước đến am cỏ, sau khi chào
 
 Nam Tuyền đi rồi, vị Tăng kia toạ thiền hết hai cây hương. Đã gần trưa rồi, anh ta làm theo lời dặn của Nam Tuyền, bắt đầu nhóm lửa nấu cơm. Ai ngờ, anh ta ăn no rồi, không những không đem cơm lên núi cho Nam Tuyền , ngược lại còn đem chén bát, nồi niêu, vò hũ của Nam Tuyền đập vỡ hết. Sau đó anh ta yên tâm nằm ngủ ngon lành trên giường của Nam Tuyền.
 
-Đáng thương cho Nam Tuyền, ở trên núi vung mạnh cuốc khai khẩn đất hoang hơn nửa ngày, bụng đói đến nỗi da đã đụng đến xương sống. Ngài trông trái ngóng phải, nhìn mặt trời đã chuyển về hướng Tây nhưng vẫn không nhìn thấy bóng dáng của vị Tăng kia đem cơm đến. Đói khát và lo lắng đã kéo Nam Tuyền về đến am tranh. Thế là Ngài thấy toàn là tiếng lanh canh lách cách – trong trí Ngài hiện lên một cách linh hoạt cảnh những đồ dùng hằng ngày của Ngài biến thành một đống bừa bãi. Ngài quay đầu lại, thấy trước mắt vị Tăng kia tự tại cứ thế nằm trên giường của mình chìm trong giấc nồng say.
+Đáng thương cho Nam Tuyền, ở trên núi vung mạnh cuốc khai khẩn đất hoang hơn nửa ngày, bụng đói đến nỗi da đã đụng đến xương sống. Ngài trông trái ngóng phải, nhìn mặt trời đã chuyển về hướng Tây nhưng vẫn không nhìn thấy bóng dáng của vị Tăng kia đem cơm đến. Đói khát và lo lắng đã kéo Nam Tuyền về đến am tranh. Thế là Ngài thấy toàn là tiếng lanh canh lách cách - trong trí Ngài hiện lên một cách linh hoạt cảnh những đồ dùng hằng ngày của Ngài biến thành một đống bừa bãi. Ngài quay đầu lại, thấy trước mắt vị Tăng kia tự tại cứ thế nằm trên giường của mình chìm trong giấc nồng say.
 
 Nam Nhạc ngáp một cái, cũng leo lên giường, nằm bên cạnh vị Tăng kia, nhắm mắt ngủ. Không ngờ vị Tăng kia lại leo lên chẳng thèm để ý đến Nam Nhạc bên cạnh, đứng dậy đi ra khỏi am tranh, không để lại tông tích gì.
 
@@ -448,7 +448,7 @@ Từ đó, Nam Nhạc rời khỏi am cỏ, xuống núi hoằng pháp, viết l
 
 ### Liên quan đến thiền cơ: Bà Lão Hiểu Thiền
 
-Nam Tuyền Phổ Nguyện và Ma Cốc Bảo Triệt vẫn từng đi Hàng Châu tham yết một vị quốc sư khác – Kính Sơn Quốc Nhất - Lần đó, kết bạn cùng với hai Ngài là một sư đệ khác - Đại Từ Hoàn Trung - họ đi đến nửa đường, gặp một bà lão tóc rối mặt dơ đang gặt lúa nước.
+Nam Tuyền Phổ Nguyện và Ma Cốc Bảo Triệt vẫn từng đi Hàng Châu tham yết một vị quốc sư khác - Kính Sơn Quốc Nhất - Lần đó, kết bạn cùng với hai Ngài là một sư đệ khác - Đại Từ Hoàn Trung - họ đi đến nửa đường, gặp một bà lão tóc rối mặt dơ đang gặt lúa nước.
 
 Ma Cốc Bảo Triệt bước lên trước hỏi thăm bà lão đường đi: “Đường đến Kính Sơn đi như thế nào?”
 
@@ -564,7 +564,7 @@ Nam tuyền theo sau làm bộ ngơ ngác nói: “Ý của ngươi ta không hi
 
 Thiền sư Duy Chính nói: “Ta đã nói với ngươi quá nhiều rồi mà”.
 
-Câu nói này thật là đã nói quá nhiều – cũng như rùa linh dấu đuôi, càng muốn che cáng lòi ra, phải ăn ba mươi gậy!
+Câu nói này thật là đã nói quá nhiều - cũng như rùa linh dấu đuôi, càng muốn che cáng lòi ra, phải ăn ba mươi gậy!
 
 Hoá ra, hai vị đại tông sư này đang ra sức biểu diễn cho chúng ta. Sau này, đến thời đại nhà Tống, Thiền sư Tuyết Đậu Trọng Hiển của Thiền tông Vân Môn khen công án này rằng:
 
@@ -598,13 +598,13 @@ Quay mặt về hướng Nam, làm sao có thể nhìn sao Bắc Đẩu? Làm sa
 
 ### Liên quan đến thiền cơ: Mở Đất Ngộ Đạo
 
-Trong sách cổ của Thiền tông, có hai thuyết liên quan đến Thiền sư Bách Trượng Duy Chính. Theo các sử sách như ‘Ngũ Đường Tập’ được tập thành vào thời Ngũ Đại (thành sách vào năm thứ mười niên hiệu Bảo Đại thời Nam Đường – năm 952 Tây lịch) và ‘Ngũ Đăng Hội Nguyên’ (thành sách vào giữa năm Nam Tống) nói Ngài là đệ tử của Mã Tổ Đạo Nhất, nhưng ‘Bích Nham Lục’ vào thời Bắc Tống (thành sách vào năm thứ bảy niên hiệu Tuyên Hoà thời Tống Huy Tông), ‘Lâm Gian Lục’ của Huệ Hồng Giác Phạm, đều nói Ngài là vị trú trì đời thứ hai ở núi Bách Trượng - tức môn nhân của Bách Trượng Hoài Hải. Hơn nữa, họ đều cho rằng Bách Trượng Hoài Chính và Bách Trượng Niết Bàn là một người. Huệ Hồng Giác Phạm chuyên môn nêu ra những văn bia do một văn nhân đời nhà Đường là Hoàng Vũ Dực soạn viết, ghi chép rất tỉ mỉ. Đồng thời văn bia này là do một trong những nhà thư pháp vĩ đại nhất trong lịch sử Trung Quốc là Liễu Công Thúc viết, nổi tiếng xưa nay cho nên càng làm tăng thêm sức thuyết phục của nó.
+Trong sách cổ của Thiền tông, có hai thuyết liên quan đến Thiền sư Bách Trượng Duy Chính. Theo các sử sách như ‘Ngũ Đường Tập’ được tập thành vào thời Ngũ Đại (thành sách vào năm thứ mười niên hiệu Bảo Đại thời Nam Đường - năm 952 Tây lịch) và ‘Ngũ Đăng Hội Nguyên’ (thành sách vào giữa năm Nam Tống) nói Ngài là đệ tử của Mã Tổ Đạo Nhất, nhưng ‘Bích Nham Lục’ vào thời Bắc Tống (thành sách vào năm thứ bảy niên hiệu Tuyên Hoà thời Tống Huy Tông), ‘Lâm Gian Lục’ của Huệ Hồng Giác Phạm, đều nói Ngài là vị trú trì đời thứ hai ở núi Bách Trượng - tức môn nhân của Bách Trượng Hoài Hải. Hơn nữa, họ đều cho rằng Bách Trượng Hoài Chính và Bách Trượng Niết Bàn là một người. Huệ Hồng Giác Phạm chuyên môn nêu ra những văn bia do một văn nhân đời nhà Đường là Hoàng Vũ Dực soạn viết, ghi chép rất tỉ mỉ. Đồng thời văn bia này là do một trong những nhà thư pháp vĩ đại nhất trong lịch sử Trung Quốc là Liễu Công Thúc viết, nổi tiếng xưa nay cho nên càng làm tăng thêm sức thuyết phục của nó.
 
 Người viết không phải là học giả, không có hứng thú khảo chứng gì. Sở dĩ tôi đưa ra một đoạn lịch sử lằng nhằng này là vì Hoà thượng Bách Trượng Niết Bàn có một công án ‘khai điền đại nghĩa’ rất đặc sắc.
 
 Theo tài liệu ghi chép, Ngài xuất gia từ nhỏ, vì Ngài lấy việc trì tụng ‘kinh Niết bàn’ làm thời khoá hằng ngày, trước nay chưa hề nói pháp danh của mình cho nên mọi người gọi Ngài là ‘Hoà thượng Niết Bàn’ (nhìn ở góc độ này có lẽ Duy Chính mới là pháp danh chính thức của Ngài). Sau này, khi Thiền sư Bách Trượng Hoài Hải đã viên tịch, Ngài tiếp tục đảm nhận chức trú trì chùa Bách Trượng thay Ngài Hoài Hải, vì thế gọi là Bách Trượng Niết Bàn. Trong quá trình khởi công xây dựng tòng lâm trên núi Bách Trượng, Hoà thượng Niết Bàn bỏ công sức ra nhiều nhất, công lao rất to lớn.
 
-Ngài là trú trì ở trong Tòng lâm Thiền tông chính là tượng trưng cho Phật, nhưng Ngài lại chưa từng thuyết giảng Phật pháp cũng không khai thị Thiền yếu, mỗi ngày chỉ dẫn dắt cho các đệ tử lao động cực nhọc – khai hoang trồng trọt, xây dựng chùa chiền. Nhưng phải biết các Thiền tăng bỏ nhà xuất gia là vì liễu sanh thoát tử, thành Phật làm Tổ chứ không phải đến để làm thợ gạch ngói cho bạn! Nên hiểu rõ rằng người ta không quản dặm trường xa xôi đến quy y với bạn là vì tâm địa ngộ triệt nhân sinh, tuyệt đối không phải đến để làm anh nông dân! Phải làm thợ gạch ngói, anh nông dân thì người ta còn xuất gia làm gì?
+Ngài là trú trì ở trong Tòng lâm Thiền tông chính là tượng trưng cho Phật, nhưng Ngài lại chưa từng thuyết giảng Phật pháp cũng không khai thị Thiền yếu, mỗi ngày chỉ dẫn dắt cho các đệ tử lao động cực nhọc - khai hoang trồng trọt, xây dựng chùa chiền. Nhưng phải biết các Thiền tăng bỏ nhà xuất gia là vì liễu sanh thoát tử, thành Phật làm Tổ chứ không phải đến để làm thợ gạch ngói cho bạn! Nên hiểu rõ rằng người ta không quản dặm trường xa xôi đến quy y với bạn là vì tâm địa ngộ triệt nhân sinh, tuyệt đối không phải đến để làm anh nông dân! Phải làm thợ gạch ngói, anh nông dân thì người ta còn xuất gia làm gì?
 
 Thế là có một ngày, sau bữa điểm tâm, các đệ tử không chuẩn bị các công cụ lao động như thường lệ nữa, mà đánh trống thỉnh chuông, tề tập tại pháp đường - thỉnh Hoà thượng thăng toà, tuyên giảng Phật pháp. Trước tình hình như vậy, Hoà thượng Bách Trượng Niết Bàn đành đến pháp đường, bước lên toà sư tử cao cao. Một vị Thiền tăng từ trong đại chúng bước ra, thưa rằng: “Đại ý của Phật pháp là gì?”
 

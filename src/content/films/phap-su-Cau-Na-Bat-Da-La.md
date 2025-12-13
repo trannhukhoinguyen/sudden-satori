@@ -24,7 +24,7 @@ Pháp sư **Cầu Na Bạt Đà La** là một cao tăng, một vị cao tăng d
 
 - Tên tiếng Phạn: गुणभद्र, **Gunabhadra**; 
 
-- Tên Trung giản thể: **求那跋陀罗**; phồn thể: 求那跋陀羅; bính âm: Qiúnàbátuóluó; Wade–Giles: Ch'iu-na-pa-t'o-lo
+- Tên Trung giản thể: **求那跋陀罗**; phồn thể: 求那跋陀羅; bính âm: Qiúnàbátuóluó; Wade-Giles: Ch'iu-na-pa-t'o-lo
 
 - Tên Hán Việt: **Công Đức Hiền** (功徳賢)
 
@@ -40,7 +40,7 @@ Pháp sư **Cầu Na Bạt Đà La** là một cao tăng, một vị cao tăng d
 > 
 > Sư tiến hành dịch nhiều kinh luận Đại, Tiểu thừa nhất khi sư ở chùa Kì Hoàn tại Kiến Khang và Tân tự ở Hình Châu. 
 > 
-> Trong số hơn 30 bản dịch của sư, tác phẩm quan trọng nhất là **Tạp A-hàm kinh, Thắng Man kinh**, và **Nhập Lăng-già kinh** [^1] sang **Hán ngữ** – bản dịch thứ hai sau bản của **Đàm Vô Sấm** (**Dharmakṣema**, phiên nghĩa Hán Việt: **Pháp Phong**). 
+> Trong số hơn 30 bản dịch của sư, tác phẩm quan trọng nhất là **Tạp A-hàm kinh, Thắng Man kinh**, và **Nhập Lăng-già kinh** [^1] sang **Hán ngữ** - bản dịch thứ hai sau bản của **Đàm Vô Sấm** (**Dharmakṣema**, phiên nghĩa Hán Việt: **Pháp Phong**). 
 > 
 > Các tác phẩm của sư gây ảnh hưởng nhiều đến tư tưởng Phật giáo Đông Á. Sư được vương triều ở Hồ Nam kính trọng.
 

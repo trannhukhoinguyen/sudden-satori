@@ -66,7 +66,7 @@ Chưa biết Ngài Đầu Tử làm sao nói được chỗ hội.
 
 📢 Ngài Lâm Tuyền nói:
 
-Nếu theo nhân định quả, theo nghiệp thọ sanh: vảy, cánh, da, lông, thai, noãn, thấp, hóa – phân loại rõ ràng. Điều này đều do mê chơn chấp vọng, sanh ra tưởng điên đảo. Chẳng ngộ gốc không, cho nên chịu luân hồi. Xem khắp tất cả chúng sanh chìm đắm trong sanh tử, đâu chỉ trăm nhà mà thôi!
+Nếu theo nhân định quả, theo nghiệp thọ sanh: vảy, cánh, da, lông, thai, noãn, thấp, hóa - phân loại rõ ràng. Điều này đều do mê chơn chấp vọng, sanh ra tưởng điên đảo. Chẳng ngộ gốc không, cho nên chịu luân hồi. Xem khắp tất cả chúng sanh chìm đắm trong sanh tử, đâu chỉ trăm nhà mà thôi!
 
 Đức Thế Tôn dùng vô duyên từ, phát khởi lòng đại bi. Ban rải tâm từ, nuôi lớn mầm chủng tử, làm cho tâm hoa khai phát, quả trí viên thành. Phóng ánh sáng từ ái, chiếu trời soi đất, thấu cổ vượt kim.
 

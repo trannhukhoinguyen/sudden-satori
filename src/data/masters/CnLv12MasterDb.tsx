@@ -39,8 +39,8 @@ const CnLv12MasterDb = [
     teachers: ['Shishuang Chuyuan'],
     successors: [''],
     disciples: ['Baofeng Kewen', 'Huitang Zuxin', 'Donglin Changcong', 'Xuefeng Daoyuan', 'Baoben Huiyuan',
-      'Huangbo Weisheng - 黃蘗惟勝 (Northern Song Dynasty)', 'Letan Hongying - 泐潭洪英 (1012–1070)', 'Yunju Yuanyou - 雲居元祐 (1027–1092)',
-      'Guishan Huaixiu (Dagui Hauixiu) - 大溈懷秀 (Northern Song Dynasty)', 'Yungai Shouzhi (1025–1115)', 'Huilin Dexun (1107-1110)',
+      'Huangbo Weisheng - 黃蘗惟勝 (Northern Song Dynasty)', 'Letan Hongying - 泐潭洪英 (1012-1070)', 'Yunju Yuanyou - 雲居元祐 (1027-1092)',
+      'Guishan Huaixiu (Dagui Hauixiu) - 大溈懷秀 (Northern Song Dynasty)', 'Yungai Shouzhi (1025-1115)', 'Huilin Dexun (1107-1110)',
       'Fuyan Cigan (Nanyue Cikan)', 'Guizong Zhizhi - 歸宗志芝 (Northern Song Dynasty)'
     ],
     image: '/images/avatar.png',

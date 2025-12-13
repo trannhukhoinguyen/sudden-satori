@@ -210,7 +210,7 @@ const CnLv16MasterDb = [
     records: '',
     sect: ['Caodong'],
     country: '🇨🇳',
-    place: 'trụ trì tại Chúc Từ Tự – Hàng Châu, Chiết Giang',
+    place: 'trụ trì tại Chúc Từ Tự - Hàng Châu, Chiết Giang',
     teachers: ['Hongzhi Zhengjue'],
     successors: ['Mingji Huizuo'],
     disciples: ['Mingji Huizuo'],

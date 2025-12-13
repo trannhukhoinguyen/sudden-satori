@@ -41,7 +41,7 @@ const CnLv11MasterDb = [
     place: '-',
     teachers: ['Tiantai Deshao'],
     successors: [''],
-    disciples: ['Zhaoming Jin - Triều Minh Viện Tân (朝明院津)', 'Fuyang Zimeng - Phú Dương Tử Bàng (富陽子蒙)', 'Chŏgyŏn Yŏngjun (930–1018) - Korea'],
+    disciples: ['Zhaoming Jin - Triều Minh Viện Tân (朝明院津)', 'Fuyang Zimeng - Phú Dương Tử Bàng (富陽子蒙)', 'Chŏgyŏn Yŏngjun (930-1018) - Korea'],
     image: '',
     reference: [
       'https://en.wikipedia.org/wiki/Yongming_Yanshou',

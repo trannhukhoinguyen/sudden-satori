@@ -419,7 +419,7 @@ Thần sách quân là đội quân tinh nhuệ nhất của vương triều nh�
 
 Thử nghĩ, ngay vận mệnh của đế vương đều là không đoán chắc được như thế, thì tất cả thế gian há không phải đều như mộng huyễn sao? Những gì là quan cao lộc lớn, gì là rạng danh tổ tông, đều là mây khói trước mắt. Thế là, năm ông 27 tuổi, ông đã sớm bắt đầu nảy sinh tư tưởng ẩn dật xuất thế, lặng lẽ vào núi Chung Nam, đảnh lễ Thiền sư Quảng Độ thế phát xuất gia.
 
-Giữa năm Thiên Phúc đời nhà Đường (901 – 904), Thiền sư Thiện Tĩnh bắt đầu vân du xuống Hồ Tương ở phía Nam, tham yết Thiền sư Lạc Phổ Nguyên An. 
+Giữa năm Thiên Phúc đời nhà Đường (901 - 904), Thiền sư Thiện Tĩnh bắt đầu vân du xuống Hồ Tương ở phía Nam, tham yết Thiền sư Lạc Phổ Nguyên An. 
 
 Lạc Phổ từng là thị giả của Đại sư Lâm Tế, cuộc pháp chiến rầm rộ giữa ngài và Thiền sư Đức Sơn Tuyên Giám truyền khắp tòng lâm, cuối cùng Ngài kế thừa y bát của Đại sư Hiệp Sơn. Thiện Tĩnh mến mộ danh tiếng, đi đến núi Lạc Phổ ở Chi Dương Lễ Thủy, một lời liền khế nhập nguồn tâm, trăm sông cũng là một mặt trăng đó. Thiền sư Lạc Phổ Nguyên An nhận ông là đệ tử ruột, ngầm truyền tâm ấn.
 

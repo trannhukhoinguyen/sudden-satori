@@ -23,22 +23,22 @@ Gặp việc nghĩa thì làm hết mình, ai biết được người có bản
 📢 Ngài Đầu Tử cử:
 
 > Vua Đường Túc Tông hỏi Quốc Sư Huệ Trung:
-– Sau khi Thầy thị tịch phải làm điều gì?
+- Sau khi Thầy thị tịch phải làm điều gì?
 
 Quốc Sư đáp:
-– Xây cho Lão Tăng một cái tháp thật kín.
+- Xây cho Lão Tăng một cái tháp thật kín.
 
 Vua bảo:
-– Xin Thầy cho xem bản mẫu.
+- Xin Thầy cho xem bản mẫu.
 
 Quốc Sư im lặng giây lâu rồi hỏi:
-– Bệ Hạ có hội chăng?
+- Bệ Hạ có hội chăng?
 
 Vua nói:
-– Không hội.
+- Không hội.
 
 Quốc Sư bảo:
-– Ta đã truyền pháp cho đệ tử Đam Nguyên, vị ấy đã thấu hiểu việc này. Bệ Hạ nên hỏi nơi đó.
+- Ta đã truyền pháp cho đệ tử Đam Nguyên, vị ấy đã thấu hiểu việc này. Bệ Hạ nên hỏi nơi đó.
 
 ## BÌNH XƯỚNG
 
@@ -55,38 +55,38 @@ Sư ở tại viện phía tây chùa Thiên Phước.
 Một lần, Vua Túc Tông thỉnh Sư trắc nghiệm Tam Tạng Pháp sư. Tam Tạng vừa gặp Sư, liền lễ bái rồi đứng sang bên phải.
 
 Quốc Sư hỏi:
-– Ông có được tha tâm thông chăng?
+- Ông có được tha tâm thông chăng?
 
 Tam Tạng thưa:
-– Không dám.
+- Không dám.
 
 Quốc Sư bảo:
-– Vậy ông nói xem, hiện giờ Lão Tăng đang ở đâu?
+- Vậy ông nói xem, hiện giờ Lão Tăng đang ở đâu?
 
 Tam Tạng thưa:
-– Hòa thượng là Thầy một nước, sao lại ở trên cầu Tây Xuyên xem đò đua?
+- Hòa thượng là Thầy một nước, sao lại ở trên cầu Tây Xuyên xem đò đua?
 
 Quốc Sư im lặng giây lâu, rồi lại hỏi tiếp:
-– Hiện giờ Lão Tăng đang ở đâu?
+- Hiện giờ Lão Tăng đang ở đâu?
 
 Tam Tạng thưa:
-– Hòa thượng là Thầy một nước, sao lại đứng trên cầu Thiên Tân xem khỉ đùa?
+- Hòa thượng là Thầy một nước, sao lại đứng trên cầu Thiên Tân xem khỉ đùa?
 
 Quốc Sư lại hỏi:
-– Vậy ông nói xem, Lão Tăng đang ở đâu?
+- Vậy ông nói xem, Lão Tăng đang ở đâu?
 
 Tam Tạng mờ mịt, không đáp được.
 Sư quở:
-– Đồ hồ tinh! Tha tâm thông của ông ở đâu rồi?
+- Đồ hồ tinh! Tha tâm thông của ông ở đâu rồi?
 
 Tam Tạng lúng túng, thất sắc trước mặt mọi người.
 
 Đến lúc sắp tịch, Sư từ biệt Đức Vua. Vua hỏi:
-– Sau khi Sư tịch, phải làm sao?
+- Sau khi Sư tịch, phải làm sao?
 
 Nếu chẳng phải bậc thánh từ bi nhân hậu, thì đâu được vua đối đãi trọng hậu như thế?
 Quốc Sư cũng chẳng phụ lòng vua, nên khi sắp đi, Ngài tận tình thức tỉnh vua lần cuối, nên bảo:
-– Kiến tạo cho Lão Tăng một tháp không kẽ hở.
+- Kiến tạo cho Lão Tăng một tháp không kẽ hở.
 
 Đâu ngờ rằng, lúc chưa nói đã vọng động biết bao điều. Dù rằng vua nói “không hội”, nhưng trong ấy vẫn chất chứa sự thân thiết sâu xa.
 
@@ -98,10 +98,10 @@ Khi ấy, Sơn tăng cũng chẳng hội được.
 Sư đã phó chúc cho đệ tử, lại bảo vua nên hỏi Đam Nguyên. Quả nhiên, về sau vua hỏi Đam Nguyên.
 
 Đam Nguyên im lặng giây lâu rồi hỏi:
-– Thánh thượng hội chăng?
+- Thánh thượng hội chăng?
 
 Vua nói:
-– Không hội.
+- Không hội.
 
 Đam Nguyên liền thuật kệ rằng:
 
@@ -111,7 +111,7 @@ Dưới cây không bóng, hợp đồng thuyền.
 Trên điện lưu ly, không tri thức.
 
 Ngài Lâm Tuyền nói:
-– Đứng nghiêm chỉnh, cúi đầu, rất khó nhìn thẳng lên.
+- Đứng nghiêm chỉnh, cúi đầu, rất khó nhìn thẳng lên.
 Dù rằng một cây kim chẳng lọt qua cửa ái, nhưng ngại gì xe ngựa vẫn tự do lưu thông.
 Hãy để cho người một con đường, xin mời các vị luận bàn xem.
 
@@ -137,7 +137,7 @@ Vua muốn hỏi cho rõ nghi tình này.
 Khi ấy, Tôn giả Ma Noa La cũng dự hội. Ba chúng đều không giải thích được. Tôn giả liền giải thích cho vua: sự xuất hiện của ngôi tháp ấy là nhờ phước lực của Đức Vua.
 
 Vua nghe xong than:
-– Bậc chí thánh khó gặp, niềm vui đời người chẳng lâu dài.
+- Bậc chí thánh khó gặp, niềm vui đời người chẳng lâu dài.
 
 Vua truyền ngôi cho Thái tử, rồi xuất gia với Tổ. Chỉ bảy ngày đã chứng quả. Tôn giả tận tình chỉ dạy.
 

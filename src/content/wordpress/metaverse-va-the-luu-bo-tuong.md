@@ -40,7 +40,7 @@ Thay đổi một cái tên mới để khẳng định sự quan tâm tới **m
 
 **Metaverse** được xây dựng quanh ý tưởng tạo ra các thế giới ảo cực kì chân thật, gia tăng trải nghiệm của người dùng. Ví dụ bạn sẽ có thể sử dụng hình ảnh 3D của mình phân thân theo phương thức toàn ảnh để có mặt tại văn phòng, tại một buổi hòa nhạc với bạn bè hoặc trong phòng khách với bố mẹ, trong khi thực tế bạn không có mặt ở đó  nhưng mọi người đều thấy và tưởng là bạn có mặt và trò chuyện với bạn y hệt như bạn đang ở đó, chỉ khi họ bắt tay hay ôm bạn mới biết là bạn không hiện hữu ở đó.
 
-CEO của Niantic, John Hanke phát biểu rằng : “Chúng tôi tin rằng có thể áp dụng công nghệ để gia tăng “tính thực tế” của AR – Khuyến khích tất cả mọi người tương tác, kết nối nhiều hơn với thế giới xung quanh. Công nghệ chỉ nên được sử dụng để gia tăng trải nghiệm cốt lõi chứ không dùng để thay thế trải nghiệm của chúng ta ngoài đời thật”
+CEO của Niantic, John Hanke phát biểu rằng : “Chúng tôi tin rằng có thể áp dụng công nghệ để gia tăng “tính thực tế” của AR - Khuyến khích tất cả mọi người tương tác, kết nối nhiều hơn với thế giới xung quanh. Công nghệ chỉ nên được sử dụng để gia tăng trải nghiệm cốt lõi chứ không dùng để thay thế trải nghiệm của chúng ta ngoài đời thật”
 
 Mặt khác, tuy nói là thế giới ảo nhưng mọi kết nối và tương tác trong **Metaverse** lại là thật. Cũng vì vậy, cần có một nền kinh tế của **Metaverse** được lưu trữ bởi một hệ thống minh bạch, không bị thâu tóm hay kiểm soát. Và tất nhiên, chỉ có tiền điện tử cùng với công nghệ Blockchain mới là phương tiện phù hợp nhất để lưu trữ tài chính trong **Metaverse**. Do đó, tiền điện tử chính là nhân tố quan trọng để xây dựng nên **Metaverse** với nền kinh tế an toàn, hiện đại và minh bạch.
 

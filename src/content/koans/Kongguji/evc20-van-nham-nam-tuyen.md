@@ -43,39 +43,39 @@ Nam Tuyền nói: Chỗ Trí không đến được cũng nói tới. Nếu đã
 Thiền sư Tông Trí tức Đạo Ngô Đàm Châu, người Dụ Chương. Hải Hội, Trường Nương, Hòa thượng Bàn Sơn đều kính phục. Sau đến pháp hội Dược Sơn, Sư được thâm tâm ấn chứng.
 
 Một hôm, Dược Sơn hỏi:
-– Ông đi đâu về?
+- Ông đi đâu về?
 Đạo Ngô thưa:
-– Đạo núi.
+- Đạo núi.
 Dược Sơn bảo:
-– Không rời núi, hãy nói mau!
+- Không rời núi, hãy nói mau!
 Đạo Ngô thưa:
-– Trên núi, qua bà lão gùi tuyết; dưới khe, cá lội không cùng.
+- Trên núi, qua bà lão gùi tuyết; dưới khe, cá lội không cùng.
 
 Sau đó, Đạo Ngô từ tạ Dược Sơn, đến yết kiến Nam Tuyền. Nam Tuyền hỏi:
-– Xá-lợi tên gì? Trong lời bình thường mà đã bày cốt tủy giáo pháp.
+- Xá-lợi tên gì? Trong lời bình thường mà đã bày cốt tủy giáo pháp.
 Đạo Ngô thưa:
-– Tông Trí.
+- Tông Trí.
 
 Đạo Ngô tuy còn trẻ, nhưng Trường Xà vẫn kính trọng. Mọi tín nhân chân chính đều vui vẻ, không dùng thủ đoạn nhỏ nhen.
 
 Sư thường sống trong chánh niệm. Trong chánh niệm, cùng người thì an nhiên, khi một mình thì càng tinh chuyên chánh hạnh, không để tâm dong ruổi. Vì vậy Nam Tuyền mới bảo rằng:
-– Nếu nói ra thì mọc sừng.
+- Nếu nói ra thì mọc sừng.
 
 Ba hôm sau, Nam Tuyền thấy Đạo Ngô và Vân Nham may vá áo quần ở hậu đường, bèn hỏi:
-– Trí đầu, hôm trước ta đã hỏi: “Chỗ Trí không thể nói đến, nếu nói thì mọc sừng, vậy nên hiểu thế nào?” Giả như nay ta không cho ông nói, thì ông làm sao?
+- Trí đầu, hôm trước ta đã hỏi: “Chỗ Trí không thể nói đến, nếu nói thì mọc sừng, vậy nên hiểu thế nào?” Giả như nay ta không cho ông nói, thì ông làm sao?
 
 Buông tay một cái, liền sa lầy vũng bùn. Nếu chặn ngay từ đầu, thì tất cả không còn đường thoát. Thế nên cả hai kéo nhau vào Tăng đường.
 
 Nam Tuyền nói:
-– Chính mình lùi bước trong muôn người vẫn là một.
+- Chính mình lùi bước trong muôn người vẫn là một.
 
 Rồi Nam Tuyền cùng về phương trượng.
 
 Lâm Tuyền nói:
-– Xem ra Bá Nha và Tử Kỳ chẳng phải chỉ qua hạn bầu sương.
+- Xem ra Bá Nha và Tử Kỳ chẳng phải chỉ qua hạn bầu sương.
 
 Lại nói:
-– Tuy mọi người đem bầu múc nước biển, biển có cạn sâu, nhưng vẫn tính toán mơ hồ.
+- Tuy mọi người đem bầu múc nước biển, biển có cạn sâu, nhưng vẫn tính toán mơ hồ.
 
 Nếu muốn hỏi đến tận gốc lời, thì phải vào cảnh đập vỡ, lụt tràn. Lời có cạn sâu, đạo vốn căn bản. Đầu Tử ắt sẽ rõ biết.
 

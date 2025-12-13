@@ -21,7 +21,7 @@ const CnLv2MasterDb = [
     disciples: ['Yaoshan Weiyan', 'Kinh triệu Thi Lợi', 'Tianhuang Daowu', 'Danxia Tianran', 'Dadian Baotong',
       'Chiêu Đề tại Đà châu Tuệ Lãng', 'Trường sa Chấn Lãng Hưng quốc', 'Tanzhou Dachuan',
       'Phần châu Thạch Thê', 'Pháp môn tại Phụng tường Phật Đà', 'Đàm châu Hoa Lâm', 'Triều châu Đại Điên',
-      'Đàm châu Khoáng – Trường Tỳ', 'Thủy Không', 'Hải lăng Đại Biện', 'Chử Kinh', 'Hành châu Đạo Tiên',
+      'Đàm châu Khoáng - Trường Tỳ', 'Thủy Không', 'Hải lăng Đại Biện', 'Chử Kinh', 'Hành châu Đạo Tiên',
       'Hán châu Thường Thanh', 'Phước châu Toái Thạch', 'Thương châu Thương Lãnh', 'Thường châu Nghĩa Hưng',
     ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Shitou_Xiqian.jpg/220px-Shitou_Xiqian.jpg',

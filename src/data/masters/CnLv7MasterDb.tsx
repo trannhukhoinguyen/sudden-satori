@@ -189,7 +189,7 @@ const CnLv7MasterDb = [
     place: '-',
     teachers: ['Yantou Quanhuo'],
     successors: ['Mingzhao Deqian'],
-    disciples: ['Mingzhao Deqian', 'Daning Daokuan', 'Zingbing (845–919)'],
+    disciples: ['Mingzhao Deqian', 'Daning Daokuan', 'Zingbing (845-919)'],
     image: '',
     reference: ['https://pl.wikipedia.org/wiki/Luoshan_Daoxian',
       'https://daophatkhatsi.vn/an-pham/dich-pham/thien-ngo-phan-6.html&page=1?yy=2025&mm=2',
