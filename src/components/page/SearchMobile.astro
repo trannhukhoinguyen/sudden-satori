@@ -508,7 +508,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
                     <a href="${base + 'tags/' + tag.toLowerCase().replace(/[\/\s]+/g, '-')}"> 
                         <span class="badge badge-label badge-tag">${tag}</span> 
                     </a>
-                  </span>`).join(''}
+                  </span>`).join('')}
               </div> 
             </div>
           ` : ''
