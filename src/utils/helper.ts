@@ -10,3 +10,10 @@ export function toKebabCase(str: string): string {
     ?.replace(/\s+/g, "-") // thay khoảng trắng bằng gạch ngang
     ?.replace(/-+/g, "-"); // gộp nhiều dấu "-" liên tiếp thành một
 }
+
+export function cleanSlug(input: string) {
+  return input
+    .replace(/[{}]/g, '')
+    .toLowerCase()
+    .replace(/[\/\s]+/g, '-')
+}
