@@ -8,10 +8,11 @@ import PostDateTime from "../../components/post/PostDateTime.astro";
 import PostExcerpt from "../../components/post/PostExcerpt.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
+import { cleanSlug } from "../../utils/helper";
 
 export async function getStaticPaths() {
   return Object.entries(CATEGORY_MAP).map(([category, { posts }]) => {
-    const categorySlug = category.toLowerCase().replace(/[\/\s]+/g, "-");
+    const categorySlug = cleanSlug(category);
     return {
       params: { category: categorySlug },
       props: { category, posts }

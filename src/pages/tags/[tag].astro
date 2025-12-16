@@ -7,10 +7,11 @@ import PostExcerpt from "../../components/post/PostExcerpt.astro";
 import PostDateTime from "../../components/post/PostDateTime.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import Breadcrumbs from "../../components/ui/Breadcrumbs.astro";
+import { cleanSlug } from "../../utils/helper";
 
 export async function getStaticPaths() {
   return Object.entries(TAG_MAP).map(([tag, { posts }]) => {
-    const tagSlug = tag.toLowerCase().replace(/[\/\s]+/g, "-");
+    const tagSlug = cleanSlug(tag);
     return {
       params: { tag: tagSlug },
       props: { tag, posts }
