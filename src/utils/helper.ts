@@ -13,6 +13,7 @@ export function toKebabCase(str: string): string {
 
 export function cleanSlug(input: string) {
   return input
+    ?.replace(/[{}]/g, '')      // ⬅️ diệt %7B %7D tận gốc
     ?.normalize('NFD')
     ?.replace(/[\u0300-\u036f]/g, '') // ❗ bỏ dấu
     ?.replace(/đ/g, "d")              // chuyển đ -> d

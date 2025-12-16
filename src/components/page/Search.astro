@@ -347,6 +347,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
 
 <script>
   import Fuse from "fuse.js";
+  import { cleanSlug } from "../../utils/helper";
   const base = `${import.meta.env.BASE_URL || ''}`;
 
   // Hamburger menu functionality
@@ -495,7 +496,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <div class="badge-list"> 
                 <span class="badges-label" title="Categories">📦</span> 
                  ${post.categories.map((cat: string) => `<span class="badge-label badge-category badge-item">                                                                    
-                    <a href="${base + 'categories/' + cat.toLowerCase().replace(/[\/\s]+/g, '-')}"> 
+                    <a href="${base}categories/${cleanSlug(cat)}"> 
                         <span class="badge badge-label badge-tag">${cat}</span> 
                     </a>
                   </span>`).join('')}
@@ -512,7 +513,7 @@ const { base = '' } = Astro.site ? { base: import.meta.env.BASE_URL } : { base: 
               <div class="badge-list"> 
                 <span class="badges-label" title="Tag">🎏</span> 
                  ${post.tags.map((tag: string) => `<span class="badge-label badge-category badge-item">                                                                    
-                    <a href="${base + 'tags/' + tag.toLowerCase().replace(/[\/\s]+/g, '-')}"> 
+                    <a href="${base}tags/${cleanSlug(tag)}"> 
                         <span class="badge badge-label badge-tag">${tag}</span> 
                     </a>
                   </span>`).join('')}
