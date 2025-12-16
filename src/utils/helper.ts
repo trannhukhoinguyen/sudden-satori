@@ -13,11 +13,13 @@ export function toKebabCase(str: string): string {
 
 export function cleanSlug(input: string) {
   return input
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // ❗ bỏ dấu
-    .replace(/[{}]/g, '')
-    .toLowerCase()
-    .trim()
-    .replace(/[^\w\s-]/g, '')
-    .replace(/[\s\/]+/g, '-')
+    ?.normalize('NFD')
+    ?.replace(/[\u0300-\u036f]/g, '') // ❗ bỏ dấu
+    ?.replace(/đ/g, "d")              // chuyển đ -> d
+    ?.replace(/[{}]/g, '')
+    ?.toLowerCase()
+    ?.trim()
+    ?.replace(/[^\w\s-]/g, '')
+    ?.replace(/[\s\/]+/g, '-')
+    ?.replace(/-+/g, "-"); // gộp nhiều dấu "-" liên tiếp thành một
 }
