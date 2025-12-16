@@ -5,12 +5,6 @@ import { config } from "../config.ts";
 export type CollectionType = typeof config.collections[number];
 
 const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
-  koans: {
-    'Giới thiệu': '🪨',
-    'Chưa phân loại': '🧨💣💥🤯',
-    categorized: '⚡️',
-  },
-
   places: {
     'Giới thiệu': '📍️️',
     'Chưa phân loại': '🏁',

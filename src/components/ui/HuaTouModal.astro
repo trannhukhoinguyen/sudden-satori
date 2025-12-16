@@ -4,10 +4,10 @@
 
 <!-- Include this in your Astro layout, e.g. src/layouts/Base.astro -->
 <script>
-  const KOAN_KEY = 'koan_selected_question';
-  const KOAN_SUPPRESS = 'koan_suppress_until';
+  const HUATOU_KEY = 'huatou_selected_question';
+  const HUATOU_SUPPRESS = 'huatou_suppress_until';
 
-  const koans = [
+  const huatous = [
     'Khi chưa có trời đất, ta là cái gì?',
     'Muôn pháp về một, một về chỗ nào?',
     'Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?',
@@ -17,7 +17,7 @@
   ];
 
   function shouldSuppress() {
-    const ts = localStorage.getItem(KOAN_SUPPRESS);
+    const ts = localStorage.getItem(HUATOU_SUPPRESS);
     if (!ts) return false;
     return Date.now() < Number(ts);
   }
@@ -28,9 +28,9 @@
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
           <h3 style="text-align: center">Xin Chọn một câu thoại đầu</h3>
-          <form id="koan-form">
-            ${koans.map((k,i)=>`<label class="tag-line-accent" style='display:block;margin:8px 0'>
-              <input required type='radio' name='koan' value='${i}'> ${k}
+          <form id="huatou-form">
+            ${huatous.map((k,i)=>`<label class="tag-line-accent" style='display:block;margin:8px 0'>
+              <input required type='radio' name='huatou' value='${i}'> ${k}
             </label>`).join('')}
             <button type="submit" style="margin-top:12px;width:100%;padding:8px;">OK</button>
           </form>
@@ -38,20 +38,20 @@
       </div>`;
     document.body.appendChild(wrapper);
 
-    wrapper.querySelector('#koan-form').addEventListener('submit', e => {
+    wrapper.querySelector('#huatou-form').addEventListener('submit', e => {
       e.preventDefault();
-      const index = wrapper.querySelector('input[name="koan"]:checked').value;
-      localStorage.setItem(KOAN_KEY, index);
+      const index = wrapper.querySelector('input[name="huatou"]:checked').value;
+      localStorage.setItem(HUATOU_KEY, index);
       wrapper.remove();
     });
   }
 
-  function showReminderModal(koanIndex) {
+  function showReminderModal(huatouIndex) {
     const wrapper = document.createElement('div');
     wrapper.innerHTML = `
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
-          <h2 class="tag-line-accent" style="color: red"><strong>${koans[koanIndex]}</strong></h2>
+          <h2 class="tag-line-accent" style="color: red"><strong>${huatous[huatouIndex]}</strong></h2>
           <h3 style="text-align: center">NHỚ CHIẾU CỐ THOẠI ĐẦU</h3>
           <h4 style="text-align: center"><em>(Hỏi & Nhìn vào chỗ KHÔNG BIẾT)</em></p>
           <button id="suppress" style="margin-top:12px;width:100%;padding:8px;">Tạm ẩn modal trong 1 giờ tới (TINH TẤN LÊN!)</button>
@@ -64,13 +64,13 @@
 
     wrapper.querySelector('#suppress').onclick = () => {
       const until = Date.now() + 1 * 60 * 60 * 1000; // 24h
-      localStorage.setItem(KOAN_SUPPRESS, until.toString());
+      localStorage.setItem(HUATOU_SUPPRESS, until.toString());
       wrapper.remove();
     };
   }
 
   window.addEventListener('DOMContentLoaded', () => {
-    const saved = localStorage.getItem(KOAN_KEY);
+    const saved = localStorage.getItem(HUATOU_KEY);
 
     if (!saved) {
       showInitialModal();

@@ -76,22 +76,6 @@ const books = defineCollection({
   }),
 });
 
-/*NHÓM CÔNG ÁN*/
-const koans = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/koans" }),
-  schema: z.object({
-    type: z.string().default("koans"),
-    schemaType: z.string().default("Article"),
-    title: z.string().default("Công án"),
-    description: z.string().optional(),
-    date: z.coerce.date().default(TODAY),
-    excerpt: z.string().optional(),
-    categories: z.array(z.string()).default([]),
-    tags: z.array(z.string()).default([]),
-    image: z.string().optional(),
-  }),
-});
-
 /*NHÓM KINH*/
 const sutras = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/sutras" }),
@@ -249,7 +233,6 @@ export const collections = {
   places,
   pagodas,
   books,
-  koans,
   sutras,
   interpretations,
   practices,

@@ -10,7 +10,6 @@ const globMap = {
   books: import.meta.glob('../content/books/**/*.{md,mdx}', { eager: true }),
 
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}', { eager: true }),
-  koans: import.meta.glob('../content/koans/**/*.{md,mdx}', { eager: true }),
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}', { eager: true }),
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}', { eager: true }),
   precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}', { eager: true }),
@@ -29,7 +28,6 @@ const globMapLazy = {
   books: import.meta.glob('../content/books/**/*.{md,mdx}'),
 
   interpretations: import.meta.glob('../content/interpretations/**/*.{md,mdx}'),
-  koans: import.meta.glob('../content/koans/**/*.{md,mdx}'),
   practices: import.meta.glob('../content/practices/**/*.{md,mdx}'),
   sutras: import.meta.glob('../content/sutras/**/*.{md,mdx}'),
   precepts: import.meta.glob('../content/precepts/**/*.{md,mdx}'),
@@ -58,7 +56,6 @@ const collections = {
 
   sutras: "sutras",
   interpretations: "interpretations",
-  koans: "koans",
 } as const;
 
 type CollectionName = keyof typeof collections;

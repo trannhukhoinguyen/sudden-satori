@@ -13,7 +13,6 @@ import PostTags from "../../components/post/PostTags.astro";
 import ItemReadAll from "../../components/post/ItemReadAll.astro";
 import PostImage from "../../components/post/PostImage.astro";
 import RelatedPostList from "../../components/postList/RelatedPostList.astro";
-import KoanModal from "../../components/post/KoanModal.astro";
 
 export async function getStaticPaths() {
   return Object.entries(CONTENT_MAP).flatMap(([collection, data]) =>
@@ -88,21 +87,3 @@ const { frontmatter, Content } = post as any;
     margin: 0 auto;
   }
 </style>
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    const buttons = document.querySelectorAll('openModalBtn-koan');
-
-    buttons.forEach((btn) => {
-      const slug = btn.dataset.slug; // lấy định danh
-      const section = document.querySelector(`#binhXuong-${slug}`);
-      if (!section) return;
-
-      btn.addEventListener("click", () => {
-        const isHidden =
-          section.style.display === "none" || !section.style.display;
-        section.style.display = isHidden ? "block" : "none";
-      });
-    });
-  });
-</script>

@@ -64,7 +64,6 @@ export const config: SiteConfig = {
     "precepts",
     "films",
     "sutras",
-    "koans",
 
     "places",
     "pagodas",
@@ -91,15 +90,6 @@ export const config: SiteConfig = {
     surangama: "Kinh Lăng Nghiêm",
     diamond: "Kinh Kim Cang",
 
-    /*NHÓM CÔNG ÁN*/
-    koans: "Công án",
-    blueCliffRecord: "Bích Nham Lục",
-    gatelessGate: "Vô Môn Quan",
-    emptyValleyCollection: "Không Cốc Tập",
-    vacantHallCollection: "Hư Đường Tập", //
-    ironFlute: "Thiết Địch Đảo Xuy - Tiếng Sáo Thép", // Tetteki Tosui
-    equanimityBook: "Thong Dong Lục", // Shoyoroku
-
     places: "Địa danh",
     pagodas: "Thiền đường",
     practices: "Thực hành",
@@ -123,14 +113,6 @@ export const config: SiteConfig = {
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
     lankavatara: "Xem KINH LĂNG GIÀ liên quan đến Tổ Sư Thiền",
     surangama: "Xem Kinh Lăng Nghiêm liên quan đến Tổ Sư Thiền",
-
-    koans: "Xem các Công án Tổ Sư Thiền",
-    blueCliffRecord: "Xem các Công án Bích Nham Lục Tổ Sư Thiền",
-    gatelessGate: "Xem các Công án Vô Môn Quan Tổ Sư Thiền",
-    emptyValleyCollection: "Xem các Công án Không Cốc Tập Tổ Sư Thiền",
-    vacantHallCollection: "Xem các Công án Hư Đường Tập Tổ Sư Thiền",
-    ironFlute: "Xem các Công án Tiếng Sáo Thép Tổ Sư Thiền",
-    equanimityBook: "Xem các Công án Thong Dong Lục Tổ Sư Thiền",
 
     places: "Xem các Địa danh",
     pagodas: "Xem các Thiền đường",

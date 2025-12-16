@@ -14,18 +14,6 @@ export interface TreeNode {
     children: TreeNode[];
 }
 
-export interface KoanTitle {
-    id?: number;
-    title: string;
-    slug: string;
-}
-
-export interface Koan {
-    id?: number;
-    title: string;
-    main: string;
-}
-
 export interface PostTitleWithSlug {
     title: string;
     slug: string;
