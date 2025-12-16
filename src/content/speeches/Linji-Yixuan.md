@@ -6,7 +6,10 @@ categories:
   - Ngữ Lục
 tags:
   - TS LÂM TẾ NGHĨA HUYỀN
-pdfUrl: /pdfs/speeches/Lam-Te-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Lam-Te-ngu-luc.pdf
+videoIds:
+  - GHLkGdTgSC8
 ---
 
 #### 0.
@@ -15,7 +18,7 @@ pdfUrl: /pdfs/speeches/Lam-Te-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

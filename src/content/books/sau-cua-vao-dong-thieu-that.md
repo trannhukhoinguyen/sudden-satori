@@ -11,7 +11,8 @@ tags:
   - TS BỒ ĐỀ ĐẠT MA
 authors:
   - TS BỒ ĐỀ ĐẠT MA
-pdfUrl: /pdfs/books/sau-cua-vao-dong-thieu-that.pdf
+pdfUrls: 
+  - /pdfs/books/sau-cua-vao-dong-thieu-that.pdf
 image: /images/koans/great-wave.webp
 ---
 
@@ -1351,7 +1352,7 @@ Và kệ nói rằng:
 
 ## NGUỒN
 
-> 🔗 https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that
+🔗 <a href="https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that" target="_blank">thuvienhoasen.org</a>
 
 ## CỬA THỨ BA - NHỊ CHỦNG NHẬP
 
@@ -2440,6 +2441,12 @@ Năm miệng cùng nhau bước,
 
 Chín mười không ta người. [^4]
 </blockquote>
+
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="https://thuvienhoasen.org/a8701/sau-cua-vao-dong-thieu-that" target="_blank">thuvienhoasen.org</a>
 
 ### GHI CHÚ
 

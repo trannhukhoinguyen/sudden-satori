@@ -10,7 +10,8 @@ tags:
   - GIẢNG GIẢI
   - TS THÍCH DUY LỰC
 author: "JANE DOBISZ"
-pdfUrl: /pdfs/precepts/kinh-pham-vong-bo-tat-gioi-giang-luoc.pdf
+pdfUrls: 
+  - /pdfs/precepts/kinh-pham-vong-bo-tat-gioi-giang-luoc.pdf
 ---
 
 🖋 Thiền Sư **Thích Duy Lực** Từ Ân Thiền Đường, Santa Ana Hoa Kỳ

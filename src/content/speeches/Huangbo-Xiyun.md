@@ -6,7 +6,10 @@ categories:
   - Ngữ Lục
 tags: 
   - TS HOÀNG BÁ HI VẬN
-pdfUrl: /pdfs/speeches/truyen-tam-phap-yeu.pdf
+pdfUrls: 
+  - /pdfs/speeches/truyen-tam-phap-yeu.pdf
+videoIds:
+  - z7N7rVGTQBI
 ---
 
 
@@ -15,7 +18,7 @@ pdfUrl: /pdfs/speeches/truyen-tam-phap-yeu.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

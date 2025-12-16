@@ -6,7 +6,10 @@ categories:
   - Ngữ Lục
 tags: 
   - TS QUY SƠN LINH HỰU
-pdfUrl: /pdfs/speeches/Quy-Son-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Quy-Son-ngu-luc.pdf
+videoIds:
+  - QCIfVw1-h7M
 ---
 
 
@@ -15,7 +18,7 @@ pdfUrl: /pdfs/speeches/Quy-Son-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

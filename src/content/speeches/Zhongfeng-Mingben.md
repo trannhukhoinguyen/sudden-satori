@@ -9,8 +9,10 @@ categories:
 tags:
   - TS TRUNG PHONG MINH BỔN
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/speeches/Trung-Phong-phap-ngu.pdf
-videoId: plJmknVMv3c
+pdfUrls: 
+  - /pdfs/speeches/Trung-Phong-phap-ngu.pdf
+videoIds: 
+  - plJmknVMv3c
 ---
 
 
@@ -18,7 +20,7 @@ videoId: plJmknVMv3c
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

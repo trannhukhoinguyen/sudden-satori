@@ -6,7 +6,10 @@ categories:
   - Ngữ Lục
 tags: 
   - TS ĐỘNG SƠN LƯƠNG GIỚI
-pdfUrl: /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
+videoIds:
+  - bUt2hyrKQRw
 ---
 
 
@@ -15,7 +18,7 @@ pdfUrl: /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

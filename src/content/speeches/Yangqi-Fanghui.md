@@ -6,7 +6,8 @@ categories:
   - Ngữ Lục
 tags: 
   - TS DƯƠNG KỲ PHƯƠNG HỘI
-pdfUrl: /pdfs/speeches/Phuong-Hoi-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Phuong-Hoi-ngu-luc.pdf
 ---
 
 
@@ -15,7 +16,7 @@ pdfUrl: /pdfs/speeches/Phuong-Hoi-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

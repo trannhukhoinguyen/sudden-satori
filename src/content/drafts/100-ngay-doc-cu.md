@@ -8,7 +8,8 @@ categories:
 tags:
   - Độc Cư
 author: "JANE DOBISZ"
-pdfUrl: /pdfs/practices/100-ngay-doc-cu.pdf
+pdfUrls: 
+  - /pdfs/practices/100-ngay-doc-cu.pdf
 videoPlaylist: PLA9UBIkBn5ulzhiOrsOTUBo4xV2RhQZC1
 ---
 

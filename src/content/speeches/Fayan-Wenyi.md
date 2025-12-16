@@ -6,7 +6,8 @@ categories:
   - Ngữ Lục
 tags: 
   - TS PHÁP NHÃN VĂN ÍCH
-pdfUrl: /pdfs/speeches/Phap-Nhan-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Phap-Nhan-ngu-luc.pdf
 ---
 
 📀 **1. Hai chữ thanh sắc làm sao qua được?**
@@ -1091,7 +1092,7 @@ Tăng hỏi: Từ xa lần theo tâm tiếng mà đến, thỉnh sư tiếp nh�
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

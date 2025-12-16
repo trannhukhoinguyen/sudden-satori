@@ -12,7 +12,8 @@ tags:
 authors: 
   - Vân Thê Châu Hoằng
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/books/thien-quan-sach-tan.pdf
+pdfUrls: 
+  - /pdfs/books/thien-quan-sach-tan.pdf
 videoIds:
   - sctL3Sj1OEc
 showInHomepage: true

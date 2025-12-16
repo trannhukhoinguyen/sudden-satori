@@ -9,15 +9,14 @@ tags:
   - TS HÀ TRẠCH THẦN HỘI
 videoStart: 94
 videoIds:
-  - J6UoXqrHRoE
+  - aHyr9N0ykwM
 ---
 
 ## ĐÔN HOÀNG XUẤT THỔ HÀ TRẠCH THẦN HỘI THIỀN SƯ NGỮ LỤC
 
 [^1]
 
-📝 Hiệu đính bởi:  ****Suzuki Teitarō** 鈴木貞太郎**
-- **Kōda Rentarō** 公田連太郎
+📝 Hiệu đính bởi:  ****Suzuki Teitarō** 鈴木貞太郎** - **Kōda Rentarō** 公田連太郎
 
 📝 Dịch bởi: ****Như Hạnh****
 

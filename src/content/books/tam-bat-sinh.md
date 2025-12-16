@@ -10,7 +10,8 @@ tags:
 authors:
   - TS BÀN KHUÊ VĨNH TRÁC
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/books/tam-bat-sinh.pdf
+pdfUrls: 
+  - /pdfs/books/tam-bat-sinh.pdf
 videoPlaylist: PLJhUBezoFJ-3lFkC0KYPMN5f1v4e8hHWm
 showInHomepage: true
 ---

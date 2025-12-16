@@ -6,7 +6,8 @@ categories:
   - Ngữ Lục
 tags: 
   - TS NGƯỠNG SƠN HUỆ TỊCH
-pdfUrl: /pdfs/speeches/Nguong-Son-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Nguong-Son-ngu-luc.pdf
 ---
 
 
@@ -15,7 +16,7 @@ pdfUrl: /pdfs/speeches/Nguong-Son-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

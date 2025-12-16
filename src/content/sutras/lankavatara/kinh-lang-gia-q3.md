@@ -8,7 +8,8 @@ tags:
   - Kinh Lăng Già
   - HT Thích Duy Lực
 image: /images/backgrounds/wide/cloudy-mountain-peak.jpg
-pdfUrl: /pdfs/sutras/kinh-lang-gia.pdf
+pdfUrls: 
+  - /pdfs/sutras/kinh-lang-gia.pdf
 videoId: vwOi8UCTCp0
 videoStart: 10054
 ---

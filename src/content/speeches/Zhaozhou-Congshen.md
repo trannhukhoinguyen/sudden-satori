@@ -8,6 +8,8 @@ tags:
   - TS TRIỆU CHÂU TÙNG THẨM
 pdfUrls: 
   - /pdfs/speeches/Trieu-Chau-ngu-luc.pdf
+videoIds:
+  - EXhXiz5oYnc
 ---
 
 #### 0.

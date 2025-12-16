@@ -9,8 +9,9 @@ categories:
 tags:
   - TS DUY LỰC GIÁC KHAI
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/faqs/Duy-Luc-ngu-luc-1.pdf
-pdfUrl2: /pdfs/faqs/Duy-Luc-ngu-luc-2.pdf
+pdfUrls: 
+  - /pdfs/faqs/Duy-Luc-ngu-luc-1.pdf
+  - /pdfs/faqs/Duy-Luc-ngu-luc-2.pdf
 videoIds: 
   - tgMrcAvFRY4
   - u7PjRCkg1cE
@@ -23,7 +24,7 @@ videoIds:
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

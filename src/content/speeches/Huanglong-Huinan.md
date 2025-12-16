@@ -6,7 +6,8 @@ categories:
   - Ngữ Lục
 tags: 
   - TS HOÀNG LONG HUỆ NAM
-pdfUrl: /pdfs/speeches/Hoang-Long-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Hoang-Long-ngu-luc.pdf
 ---
 
 
@@ -15,7 +16,7 @@ pdfUrl: /pdfs/speeches/Hoang-Long-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

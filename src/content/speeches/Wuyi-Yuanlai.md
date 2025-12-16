@@ -8,8 +8,10 @@ categories:
   - Thực hành
 tags:
   - TS VÔ DỊ NGUYÊN LAI (BÁC SƠN)
-pdfUrl: /pdfs/speeches/tham-thien-canh-ngu.pdf
-videoId: "BhBzYAp5pe4"
+pdfUrls: 
+  - /pdfs/speeches/tham-thien-canh-ngu.pdf
+videoIds: 
+  - BhBzYAp5pe4
 ---
 
 
@@ -17,7 +19,7 @@ videoId: "BhBzYAp5pe4"
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

@@ -3,14 +3,14 @@ title: "BÁCH TRƯỢNG NGỮ LỤC"
 description: "THIỀN SƯ BÁCH TRƯỢNG HOÀI HẢI NGỮ LỤC"
 excerpt: "THIỀN SƯ BÁCH TRƯỢNG HOÀI HẢI NGỮ LỤC"
 categories: 
-    - Ngữ Lục
+  - Ngữ Lục
 tags: 
-    - TS BÁCH TRƯỢNG HOÀI HẢI
+  - TS BÁCH TRƯỢNG HOÀI HẢI
 pdfUrls: 
-    - /pdfs/speeches/Bach-Truong-ngu-luc.pdf
-    - /pdfs/speeches/Bach-Truong-quang-luc.pdf
+  - /pdfs/speeches/Bach-Truong-ngu-luc.pdf
+  - /pdfs/speeches/Bach-Truong-quang-luc.pdf
 videoIds:
-    - RFhGmMxOP6I
+  - RFhGmMxOP6I
 ---
 
 HOÀI HẢI THIỀN SƯ

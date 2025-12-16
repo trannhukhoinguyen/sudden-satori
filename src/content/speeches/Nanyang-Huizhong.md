@@ -7,9 +7,6 @@ categories:
   - Ngữ Lục
 tags: 
   - TS NAM DƯƠNG HUỆ TRUNG
-videoStart: 94
-videoIds:
-  - J6UoXqrHRoE
 ---
 
 🗯 Sư hỏi Thiền khách: Từ đâu tới?
@@ -319,7 +316,7 @@ Tăng Linh Giác ở Thường Châu hỏi: Phát tâm xuất gia, vốn nghĩ c
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

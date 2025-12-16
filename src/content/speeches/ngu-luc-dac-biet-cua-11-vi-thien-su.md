@@ -5,58 +5,55 @@ categories:
   - Ngữ Lục
 tags: 
   - TS NAM DƯƠNG HUỆ TRUNG
-videoStart: 24
-videoIds:
-  - J6UoXqrHRoE
 ---
 
 ## QUẢNG NGỮ CỦA QUỐC SƯ TUỆ TRUNG Ở NAM DƯƠNG
 
-1. Quảng ngữ của Quốc sư Tuệ Trung ở Nam Dương (NAM DƯƠNG HUỆ TRUNG) [^1] [📝](/speeches/Nanyang-Huizhong)
+1. Quảng ngữ của Quốc sư Tuệ Trung ở Nam Dương (NAM DƯƠNG HUỆ TRUNG) [^1]
 
 ## QUẢNG NGỮ CỦA ĐẠI SƯ THẦN HỘI Ở LẠC KINH
 
-2. Quảng ngữ của Đại sư Hà Trạch Thần Hội ở Lạc Kinh (HÀ TRẠCH THẦN HỘI) [^2] [📝](/speeches/Heze-Shenhui)
+2. Quảng ngữ của Đại sư Hà Trạch Thần Hội ở Lạc Kinh (HÀ TRẠCH THẦN HỘI) [^2]
 
 ## QUẢNG NGỮ CỦA THIỀN SƯ ĐẠI TỊCH ĐẠO NHẤT GIANG TÂY
 
-3. Quảng ngữ của Thiền sư Đại Tịch Đạo Nhất ở Giang Tây (MÃ TỔ Đạo Nhất) [^3] [📝](/speeches/Mazu-Daoyi)
+3. Quảng ngữ của Thiền sư Đại Tịch Đạo Nhất ở Giang Tây (MÃ TỔ Đạo Nhất) [^3]
 
 ## QUẢNG NGỮ CỦA HÒA THƯỢNG DUY NGHIỄM Ở DƯỢC SƠN LỄ CHÂU
 
-4. Quảng ngữ của Hòa thượng Dược Sơn Duy Nghiễm ở Lễ Châu (DƯỢC SƠN DUY NGHIỄM) [^4] [📝](/speeches/Yaoshan-Weiyan)
+4. Quảng ngữ của Hòa thượng Dược Sơn Duy Nghiễm ở Lễ Châu (DƯỢC SƠN DUY NGHIỄM) [^4]
 
 ## QUẢNG NGỮ CỦA THIỀN SƯ TUỆ HẢI Ở VIỆT CHÂU
 
-5. Quảng ngữ của Hòa thượng Đại Châu Tuệ Hải ở Việt Châu (ĐẠI CHÂU TUỆ HẢI) [^5] [📝](/speeches/Dazhu-Huihai)
+5. Quảng ngữ của Hòa thượng Đại Châu Tuệ Hải ở Việt Châu (ĐẠI CHÂU TUỆ HẢI) [^5]
 
 ## QUẢNG NGỮ CỦA QUỐC SƯ ĐẠI ĐẠT VÔ NGHIỆP Ở PHẦN CHÂU
 
-6. Quảng ngữ của Quốc sư Đại Đạt Vô Nghiệp ở Phần Châu (PHẦN CHÂU VÔ NGHIỆP) [^6] [📝](/speeches/Fenzhou-Wuye)
+6. Quảng ngữ của Quốc sư Đại Đạt Vô Nghiệp ở Phần Châu (PHẦN CHÂU VÔ NGHIỆP) [^6]
 
 ## QUẢNG NGỮ CỦA HÒA THƯỢNG PHỔ NGUYỆN Ở NAM TUYỀN TRÌ CHÂU
 
-7. Quảng ngữ của Hòa thượng Nam Tuyền Phổ Nguyện ở Trì Châu (NAM TUYỀN PHỔ NGUYỆN) [^7] [📝](/speeches/Nanquan-Puyuan)
+7. Quảng ngữ của Hòa thượng Nam Tuyền Phổ Nguyện ở Trì Châu (NAM TUYỀN PHỔ NGUYỆN) [^7]
 
 ## QUẢNG NGỮ CỦA THIẾN SƯ TÙNG THẨM VIỆN QUÁN ÂM TRIỆU CHÂU
 
-8. Quảng ngữ của Hòa thượng Tùng Thẩm ở Triệu Châu (TRIỆU CHÂU TÙNG THẨM) [^8] [📝](/speeches/Zhaozhou-Congshen)
+8. Quảng ngữ của Hòa thượng Tùng Thẩm ở Triệu Châu (TRIỆU CHÂU TÙNG THẨM) [^8]
 
 ## QUẢNG NGỮ CỦA HÒA THƯỢNG NGHĨA HUYỀN Ở TRẤN PHỦ LÂM TẾ
 
-9. Quảng ngữ của Hòa thượng Lâm Tế Nghĩa Huyền ở Trấn Châu (LÂM TẾ NGHĨA HUYỀN) [^9] [📝](/speeches/Linji-Yixuan)
+9. Quảng ngữ của Hòa thượng Lâm Tế Nghĩa Huyền ở Trấn Châu (LÂM TẾ NGHĨA HUYỀN) [^9]
 
 ## QUẢNG NGỮ CỦA THIỀN SƯ HUYỀN SA TÔNG NHẤT
 
-10. Quảng ngữ của Đại sư Huyền Sa Tông Nhất Sư Bị (HUYỀN SA SƯ BỊ) [^10] [📝](/speeches/Xuansha-Shibei)
+10. Quảng ngữ của Đại sư Huyền Sa Tông Nhất Sư Bị (HUYỀN SA SƯ BỊ) [^10]
 
 ## QUẢNG NGỮ CỦA HÒA THƯỢNG LA HÁN QUẾ SÂM Ở CHƯƠNG CHÂU
 
-11. Quảng ngữ của Hòa thượng La Hán Quế Sâm ở Chương Châu (LA HÁN QUẾ SÂM) [^11] [📝](/speeches/Luohan-Guichen)
+11. Quảng ngữ của Hòa thượng La Hán Quế Sâm ở Chương Châu (LA HÁN QUẾ SÂM) [^11]
 
 ## QUẢNG NGỮ CỦA THIỀN SƯ ĐẠI PHÁP NHÃN VĂN ÍCH
 
-12. Quảng ngữ của Đại Thiền sư Pháp Nhãn Văn Ích (PHÁP NHÃN VĂN ÍCH) [^12] [📝](/speeches/Fayan-Wenyi)
+12. Quảng ngữ của Đại Thiền sư Pháp Nhãn Văn Ích (PHÁP NHÃN VĂN ÍCH) [^12]
 
 <hr class="blog-rule" />
 
@@ -65,38 +62,38 @@ videoIds:
 Sư thị chúng rằng:
 
 > Đạo không cần tu, nhưng chớ có làm ô nhiễm.
-> Sao gọi là ô nhiễm? Chỉ cần có tâm sanh tử tạo tác thú hướng thì đó đều là ô nhiễm.
-> Nếu muốn lãnh hội ngay đạo ấy, thì tâm bình thường là đạo.
-> Ấy là tâm bình thường thì không tạo tác, không đúng sai, không nắm buông, không đoạn hay thường, không phàm không Thánh.
->
+Sao gọi là ô nhiễm? Chỉ cần có tâm sanh tử tạo tác thú hướng thì đó đều là ô nhiễm.
+Nếu muốn lãnh hội ngay đạo ấy, thì tâm bình thường là đạo.
+Ấy là tâm bình thường thì không tạo tác, không đúng sai, không nắm buông, không đoạn hay thường, không phàm không Thánh.
+
 > Kinh chép: Không phải hạnh phàm phu mà cũng không phải hạnh hiền Thánh mà là hạnh Bồ-tát.
-> Chỉ như nay đây, đi, đứng, nằm, ngồi, ứng cơ, tiếp vật đều là đạo.
-> Đạo là pháp giới. Cho đến hằng hà sa số diệu dụng đều không ngoài pháp giới.
-> Nếu không phải thế thì tại sao nói là tâm địa pháp môn, sao lại nói là vô tận chứng.
-> Tất cả mọi pháp đều là tâm pháp.
-> Tất cả mọi danh đều là tâm danh. Muôn pháp đều từ tâm sanh.
-> Tâm là gốc rễ của muôn pháp.
->
+Chỉ như nay đây, đi, đứng, nằm, ngồi, ứng cơ, tiếp vật đều là đạo.
+Đạo là pháp giới. Cho đến hằng hà sa số diệu dụng đều không ngoài pháp giới.
+Nếu không phải thế thì tại sao nói là tâm địa pháp môn, sao lại nói là vô tận chứng.
+Tất cả mọi pháp đều là tâm pháp.
+Tất cả mọi danh đều là tâm danh. Muôn pháp đều từ tâm sanh.
+Tâm là gốc rễ của muôn pháp.
+
 > Kinh chép: Hễ thức tâm là đạt nguồn gốc. Do đó mới gọi là Sa-môn. Danh bằng nhau, nghĩa bằng nhau, tất cả mọi pháp đều bằng nhau, thuần nhất không tạp nhạp.
-> Nếu được trong pháp môn tùy thời mà tự tại, kiến lập pháp giới.
-> Nếu lập chân như, đều là chân như. Nếu lập lý thì tất cả mọi pháp đều là lý.
-> Nếu lập sự thì tất cả mọi pháp đều là sự.
-> Đưa lên một thì ngàn cái theo, lý sự không khác, đều là diệu dụng, lại cũng không khác lý, ấy đều là do sự hồi chuyển của tâm.
-> Ví như ánh trăng có như số (nhược can), trăng thật không có như số.
-> Nước các nguồn có như số, tánh của nước không có như số. Tuệ vô ngại không có như số.
-> Mọi thứ thành lập, đều do một tâm cả. Gầy dựng nên cũng được, mà dẹp bỏ cũng được.
-> Tất cả đều là diệu dụng. Diệu dụng đều là ở chính mình, chẳng phải rời chân thật mà có chỗ thành lập.
-> Tức chỗ chân lập đều là thể của chính mình. Nếu không phải như thế, thì là người nào?
-> Tất cả mọi pháp đều là Phật pháp. Chư pháp thì giải thoát. Giải thoát ấy là chân như.
-> Chư pháp không ngoài chân như. Đi, đứng, nằm, ngồi là dụng không thể nghĩ bàn, không đợi tới thời tiết.
->
+Nếu được trong pháp môn tùy thời mà tự tại, kiến lập pháp giới.
+Nếu lập chân như, đều là chân như. Nếu lập lý thì tất cả mọi pháp đều là lý.
+Nếu lập sự thì tất cả mọi pháp đều là sự.
+Đưa lên một thì ngàn cái theo, lý sự không khác, đều là diệu dụng, lại cũng không khác lý, ấy đều là do sự hồi chuyển của tâm.
+Ví như ánh trăng có như số (nhược can), trăng thật không có như số.
+Nước các nguồn có như số, tánh của nước không có như số. Tuệ vô ngại không có như số.
+Mọi thứ thành lập, đều do một tâm cả. Gầy dựng nên cũng được, mà dẹp bỏ cũng được.
+Tất cả đều là diệu dụng. Diệu dụng đều là ở chính mình, chẳng phải rời chân thật mà có chỗ thành lập.
+Tức chỗ chân lập đều là thể của chính mình. Nếu không phải như thế, thì là người nào?
+Tất cả mọi pháp đều là Phật pháp. Chư pháp thì giải thoát. Giải thoát ấy là chân như.
+Chư pháp không ngoài chân như. Đi, đứng, nằm, ngồi là dụng không thể nghĩ bàn, không đợi tới thời tiết.
+
 > Kinh chép: Chốn chốn, nơi nơi tức là có Phật.
-> Phật là đấng năng nhân, có đầy trí tuệ, thiện cơ tình, có thể phá tất cả nghi hoặc của chúng sanh, rời khỏi mọi trói buộc của có và không.
-> Phàm Thánh tình tận, nhân pháp đều không, chuyển vô đẳng luân vượt khỏi số lượng, những điều làm đều không trở ngại, sự lý cùng thông.
-> Như trời kéo mây, bỗng có rồi không, chẳng lưu lại dấu tích ngăn vướng, giống như họa nước thành văn, không sanh không diệt.
-> Đó là đại tịch diệt. Tại ràng rịt gọi là Như Lai tạng.
-> Ra khỏi ràng rịt là đại Pháp thân.
-> Pháp thân vô cùng, thể không tăng có thể to, có thể nhỏ, có thể vuông, có thể tròn, ứng vật hiện hình như trăng trong nước, vận dụng làu làu, không lập rễ gốc, không trọn hữu vi, mà cũng không trụ vô vi. Hữu vi là gia dụng của vô vi. Vô vi là chỗ gia y của hữu vi. Không trụ nơi nương tựa, nên gọi là như trống trơn không có chi nương tựa. Nghĩa tâm sanh diệt. Nghĩa tâm chân như. Tâm chân như là ví dụ như gương sáng chiếu hình. Kính dụ cho tâm. Hình dụ chư pháp. Nếu tâm thể thủ pháp, tức thiệp nhân duyên ngoài, tức là nghĩa sanh diệt. Nếu tâm không thể thủ chư pháp thì là nghĩa chân như. Bậc Thanh văn nghe thấy Phật tánh. Bậc Bồ-tát mắt thấy Phật tánh, liễu đạt vô nhị, gọi là tánh bình đẳng. Tánh không có sai khác, nhưng dụng thì không giống nhau. Tại mê gọi là thức. Tại ngộ gọi là trí. Thuận lý là ngộ. Thuận sự là mê. Mê tức là mê bổn tâm của chính mình. Ngộ tức là ngộ bổn tánh của chính mình. Một khi ngộ là ngộ mãi, không mê trở lại. Như mặt trời khi mọc rồi là không hòa hiệp với tối nữa. Mặt trời trí tuệ khi mọc ra là không cùng với cái tối của phiền não cùng chung đụng. Liễu đạt tâm cùng cảnh giới thì vọng tưởng không sanh ra vậy. Vọng tưởng khi đã không sanh tức là nhẫn vô sanh diệt. Vốn có, nay có, không cần tu đạo tọa Thiền. Không tu không tọa, tức là Thiền Như Lai thanh tịnh. Như nay đây mà thấy lý này chân chánh, chẳng tạo chư nghiệp, tùy phận mà sống qua cuộc đời, một y, một bát, ngồi đứng theo mình, giới hạnh tăng trưởng, chứa góp nơi tịnh nghiệp, chỉ cần hay được như thế, lo gì không thông. Đứng lâu rồi, tạm biệt mọi người.
+Phật là đấng năng nhân, có đầy trí tuệ, thiện cơ tình, có thể phá tất cả nghi hoặc của chúng sanh, rời khỏi mọi trói buộc của có và không.
+Phàm Thánh tình tận, nhân pháp đều không, chuyển vô đẳng luân vượt khỏi số lượng, những điều làm đều không trở ngại, sự lý cùng thông.
+Như trời kéo mây, bỗng có rồi không, chẳng lưu lại dấu tích ngăn vướng, giống như họa nước thành văn, không sanh không diệt.
+Đó là đại tịch diệt. Tại ràng rịt gọi là Như Lai tạng.
+Ra khỏi ràng rịt là đại Pháp thân.
+Pháp thân vô cùng, thể không tăng có thể to, có thể nhỏ, có thể vuông, có thể tròn, ứng vật hiện hình như trăng trong nước, vận dụng làu làu, không lập rễ gốc, không trọn hữu vi, mà cũng không trụ vô vi. Hữu vi là gia dụng của vô vi. Vô vi là chỗ gia y của hữu vi. Không trụ nơi nương tựa, nên gọi là như trống trơn không có chi nương tựa. Nghĩa tâm sanh diệt. Nghĩa tâm chân như. Tâm chân như là ví dụ như gương sáng chiếu hình. Kính dụ cho tâm. Hình dụ chư pháp. Nếu tâm thể thủ pháp, tức thiệp nhân duyên ngoài, tức là nghĩa sanh diệt. Nếu tâm không thể thủ chư pháp thì là nghĩa chân như. Bậc Thanh văn nghe thấy Phật tánh. Bậc Bồ-tát mắt thấy Phật tánh, liễu đạt vô nhị, gọi là tánh bình đẳng. Tánh không có sai khác, nhưng dụng thì không giống nhau. Tại mê gọi là thức. Tại ngộ gọi là trí. Thuận lý là ngộ. Thuận sự là mê. Mê tức là mê bổn tâm của chính mình. Ngộ tức là ngộ bổn tánh của chính mình. Một khi ngộ là ngộ mãi, không mê trở lại. Như mặt trời khi mọc rồi là không hòa hiệp với tối nữa. Mặt trời trí tuệ khi mọc ra là không cùng với cái tối của phiền não cùng chung đụng. Liễu đạt tâm cùng cảnh giới thì vọng tưởng không sanh ra vậy. Vọng tưởng khi đã không sanh tức là nhẫn vô sanh diệt. Vốn có, nay có, không cần tu đạo tọa Thiền. Không tu không tọa, tức là Thiền Như Lai thanh tịnh. Như nay đây mà thấy lý này chân chánh, chẳng tạo chư nghiệp, tùy phận mà sống qua cuộc đời, một y, một bát, ngồi đứng theo mình, giới hạnh tăng trưởng, chứa góp nơi tịnh nghiệp, chỉ cần hay được như thế, lo gì không thông. Đứng lâu rồi, tạm biệt mọi người.
 
 <hr class="blog-rule" />
 
@@ -110,8 +107,24 @@ Sư đáp: **Cái mà ta cần luận bàn tuy nằm trong đó, nhưng nguyên 
 
 Hỏi: **Không liễu ngộ phiền não trong thân thì thế nào?**
 
-Sư nói: **Phiền não có tướng trạng gì đâu. Ta cần ông xét xem. Vả có một số người hướng trên mặt tờ giấy mà ký trì lời lẽ. Phần lớn bọn họ đều bị kinh luận mê hoặc. Ta chưa từng xem kinh luận, sách vở. Ông chỉ vì mê sự mà làm mất đi tự gia bất định. Do đó mà có tâm sanh tử, chưa học được một lời, nửa câu, một kinh, một luận là liền nói nào là Bồ-đề, Niết-bàn thể nhiếp, không nhiếp. Nếu hiểu như thế, tức là sanh tử. Nếu chẳng bị được mất kia trói buộc, liền không còn sanh tử.**
-- Ông thấy Luật sư nói nào là Ni Tát Kì [^1] Đột Cát La vốn là gốc sanh tử. Tuy nhiên dù là như thế, cùng sanh tử cũng không thể được. Trên từ chư Phật, dưới đến loài sâu kiến đều có dài ngắn, tốt xấu, lớn nhỏ không giống nhau. Nếu mà không từ bên ngoài tới thì nơi nào có ngươi rảnh rỗi đào địa ngục mà chờ ông. Nếu ông muốn biết con đường địa ngục, thì giờ đây chảo dầu sôi nung nóng là địa ngục đấy. Còn nếu muốn biết con đường quỷ đói thì nay hư nhiều thật ít không khiến người ta tin tưởng là đường quỷ đói đây. Muốn biết con đường súc sanh thì hãy xem nay không biết nhân nghĩa, không biết thân sơ gì cả là đường súc sanh đấy. Há cần mang lông, đội sừng, bị mổ cắt treo ngược. Muốn biết trời, người, là hiện nay đang thanh tịnh uy nghi trì bát là trời người đấy. Bảo nhiệm thì không đọa các con đường, thì thứ nhất không được bỏ cái này, vì cái này không phải dễ được. Nên hướng trên đỉnh núi cao cao mà đứng, dưới biển sâu sâu mà đi. Các nơi đó không dễ thực hành, cần phải có tương ưng. Như nay đây xuất đầu ra đều là người lắm chuyện, tìm một gã si độn còn chưa thể được. Đừng chỉ ghi nhớ vào lời lẽ trong sách vở mà cho đó là kiến tri của mình. Thấy kẻ không hiểu biết là sanh lòng khinh mạn. Những người như thế đều là bọn xiển đề ngoại đạo. Tâm này không như thế, phải nên xem xét kỹ. Nói như thế là chuyện bên lề của ba giới, không phải chuyện dưới nạp y luống để qua. Đến chỗ đó phải nên vi tế, không nên cho đó là chuyện tầm thường. Nên biết thế. Tạm biệt!
+Sư nói: 
+
+> **Phiền não có tướng trạng gì đâu. Ta cần ông xét xem. Vả có một số người hướng trên mặt tờ giấy mà ký trì lời lẽ. 
+Phần lớn bọn họ đều bị kinh luận mê hoặc. 
+Ta chưa từng xem kinh luận, sách vở. Ông chỉ vì mê sự mà làm mất đi tự gia bất định. 
+Do đó mà có tâm sanh tử, chưa học được một lời, nửa câu, một kinh, một luận là liền nói nào là Bồ-đề, Niết-bàn thể nhiếp, không nhiếp. Nếu hiểu như thế, tức là sanh tử. 
+Nếu chẳng bị được mất kia trói buộc, liền không còn sanh tử.**
+Ông thấy Luật sư nói nào là Ni Tát Kì [^1] Đột Cát La vốn là gốc sanh tử. Tuy nhiên dù là như thế, cùng sanh tử cũng không thể được. 
+Trên từ chư Phật, dưới đến loài sâu kiến đều có dài ngắn, tốt xấu, lớn nhỏ không giống nhau. 
+Nếu mà không từ bên ngoài tới thì nơi nào có ngươi rảnh rỗi đào địa ngục mà chờ ông. Nếu ông muốn biết con đường địa ngục, thì giờ đây chảo dầu sôi nung nóng là địa ngục đấy. 
+Còn nếu muốn biết con đường quỷ đói thì nay hư nhiều thật ít không khiến người ta tin tưởng là đường quỷ đói đây. 
+Muốn biết con đường súc sanh thì hãy xem nay không biết nhân nghĩa, không biết thân sơ gì cả là đường súc sanh đấy. Há cần mang lông, đội sừng, bị mổ cắt treo ngược. 
+Muốn biết trời, người, là hiện nay đang thanh tịnh uy nghi trì bát là trời người đấy. 
+Bảo nhiệm thì không đọa các con đường, thì thứ nhất không được bỏ cái này, vì cái này không phải dễ được. Nên hướng trên đỉnh núi cao cao mà đứng, dưới biển sâu sâu mà đi. 
+Các nơi đó không dễ thực hành, cần phải có tương ưng. Như nay đây xuất đầu ra đều là người lắm chuyện, tìm một gã si độn còn chưa thể được. 
+Đừng chỉ ghi nhớ vào lời lẽ trong sách vở mà cho đó là kiến tri của mình. Thấy kẻ không hiểu biết là sanh lòng khinh mạn. Những người như thế đều là bọn xiển đề ngoại đạo. 
+Tâm này không như thế, phải nên xem xét kỹ. Nói như thế là chuyện bên lề của ba giới, không phải chuyện dưới nạp y luống để qua. 
+Đến chỗ đó phải nên vi tế, không nên cho đó là chuyện tầm thường. Nên biết thế. Tạm biệt!
 
 [^1]: Ni Tát Kì là bỏ cả tài sản để bố thí.
 
@@ -122,15 +135,15 @@ Sư nói: **Phiền não có tướng trạng gì đâu. Ta cần ông xét xem.
 Sư thượng đường nói:
 
 > Chư vị may thay đều là người vô sự.
-> Khổ tử tạo tác để rồi mang gông cùm mà vào địa ngục để làm gì chứ?
-> Mỗi ngày từ sáng sớm đến khuya, chạy đôn chạy đáo bảo rằng: ‘Tôi tham Thiền, học đạo, lãnh hội Phật pháp’.
-> Như thế đó thì hóa ra chẳng ăn nhập gì hết mà thôi. Đó chẳng qua là rượt đuổi thanh sắc mà chạy rong, chẳng có lúc nào ngơi nghỉ.
-> Bần đạo đây nghe Hòa thượng Mã đại sư ở Giang Tây nói: ‘Bảo tàng nhà ông bất cứ món gì cũng đầy đủ sử dụng tự tại, chẳng cần cầu bên ngoài’.
-> Ta đây từ đó nhất thời nghỉ ngơi, tài sản quí báu mang theo mình mà xài, có thể nói rất là vui sướng. Không có pháp nào để nắm.
-> Không có pháp nào để buông. Không thấy tướng sanh diệt của một pháp nào.
-> Không thấy tướng tới lui của bất cứ một pháp nào.
-> Khắp mười phương giới không có bất cứ một vi trần nào là không phải trân bảo của chính mình.
-> Chỉ cần chính các vị quán sát tự tâm thì nhất thể tam bảo thường hiện tiền, chẳng có chi phải nghi lự. Đừng tìm tòi suy nghĩ, dừng tìm cầu. Ấy là do tâm tánh bổn lai thanh tịnh vậy. Kinh Hoa Nghiêm nói: ‘Mọi pháp đều không sanh. Mọi pháp đều không diệt. Nếu hay nghĩ như thế, thì chư Phật thường hiện tiền’. Lại kinh Tịnh Danh nói: ‘Quán thật tướng của thân thế nào thì quán Phật cũng thế ấy’. Nếu không theo thanh sắc mà động niệm, nếu không rượt đuổi tướng mạo mà kiến giải, thì sẽ tự nhiên mà vô sự vậy. Xin chớ đứng lâu, tạm biệt nhé!
+Khổ tử tạo tác để rồi mang gông cùm mà vào địa ngục để làm gì chứ?
+Mỗi ngày từ sáng sớm đến khuya, chạy đôn chạy đáo bảo rằng: ‘Tôi tham Thiền, học đạo, lãnh hội Phật pháp’.
+Như thế đó thì hóa ra chẳng ăn nhập gì hết mà thôi. Đó chẳng qua là rượt đuổi thanh sắc mà chạy rong, chẳng có lúc nào ngơi nghỉ.
+Bần đạo đây nghe Hòa thượng Mã đại sư ở Giang Tây nói: ‘Bảo tàng nhà ông bất cứ món gì cũng đầy đủ sử dụng tự tại, chẳng cần cầu bên ngoài’.
+Ta đây từ đó nhất thời nghỉ ngơi, tài sản quí báu mang theo mình mà xài, có thể nói rất là vui sướng. Không có pháp nào để nắm.
+Không có pháp nào để buông. Không thấy tướng sanh diệt của một pháp nào.
+Không thấy tướng tới lui của bất cứ một pháp nào.
+Khắp mười phương giới không có bất cứ một vi trần nào là không phải trân bảo của chính mình.
+Chỉ cần chính các vị quán sát tự tâm thì nhất thể tam bảo thường hiện tiền, chẳng có chi phải nghi lự. Đừng tìm tòi suy nghĩ, dừng tìm cầu. Ấy là do tâm tánh bổn lai thanh tịnh vậy. Kinh Hoa Nghiêm nói: ‘Mọi pháp đều không sanh. Mọi pháp đều không diệt. Nếu hay nghĩ như thế, thì chư Phật thường hiện tiền’. Lại kinh Tịnh Danh nói: ‘Quán thật tướng của thân thế nào thì quán Phật cũng thế ấy’. Nếu không theo thanh sắc mà động niệm, nếu không rượt đuổi tướng mạo mà kiến giải, thì sẽ tự nhiên mà vô sự vậy. Xin chớ đứng lâu, tạm biệt nhé!
 
 Hôm đó đại chúng phổ tập không chịu giải tán. Sư nói: **Các vị vì sao mà nán lại không chịu lui về. Bần đạo dùng phép giáp mặt mà trình bày, các vị có chịu thôi nghỉ chăng? Có chuyện gì nghi ngại, đừng dụng lầm tâm, uổng phí khí lực. Nếu có nghi tình gì thì mặc tình quí vị tự ý hỏi ngay.**
 
@@ -442,7 +455,9 @@ Trong Chánh pháp của ta không có hai thứ kiến giải đó. Nếu luậ
 
 Lại hỏi: **Chân pháp, ảo pháp, phi pháp, phi phi pháp, mỗi thứ đều có chủng tánh không?**
 
-Sư đáp: **Ôi, pháp tuy không có chủng tánh nhưng ứng vật đều hiện hình. Tâm ảo thì nhất thiết đều ảo. Nếu có một pháp nào không ảo thì tuy ảo mà có định. 
+Sư đáp: 
+
+> **Ôi, pháp tuy không có chủng tánh nhưng ứng vật đều hiện hình. Tâm ảo thì nhất thiết đều ảo. Nếu có một pháp nào không ảo thì tuy ảo mà có định. 
 Tâm không thì tất cả đều không. Nếu có một pháp nào chẳng không, không nghĩa chẳng lập. Lúc mê người rượt đuổi pháp, lúc ngộ pháp do người. Như sum la vạn tượng kia tới không là cùng. 
 Trăm sông cùng mọi dòng chảy tới biển là cùng. Tất cả mọi hiền Thánh đến Phật là cùng. Mười hai phần giáo, năm bộ Tỳ-ni, ngũ Vi Đà luận, tới tâm là cùng. 
 Tâm ấy là gốc diệu của tổng trì, là nguồn lớn của vạn pháp, cũng gọi là Đại Trí Tuệ Tạng, Niết-bàn vô trụ… có trăm ngàn tên gọi, đều là tên gọi khác của tâm.**
@@ -1088,21 +1103,21 @@ Tăng hỏi : **Từ xa lần theo tâm tiếng mà đến, thỉnh sư tiếp n
 Sư hỏi:
 
 > Cái mà ông tìm là tâm tiếng gì? Là tăng thanh hay là tục thanh? Là phàm thanh hay Thánh thanh?
-> Có cho lãnh hội không? Nếu thế thật không lãnh hội đấy.
-> Này các vị thượng tọa rầm rĩ là thanh, rầm rĩ là sắc.
-> Thanh sắc chẳng ra làm sao cả. Không nên cho đó là nhàn rỗi.
-> Này các thượng tọa, nếu lãnh hội được tức là chân thật.
-> Còn nếu không lãnh hội thì đó là ảo hóa.
-> Nếu mà lãnh hội tức là ảo hóa.
-> Nếu không lãnh hội, đó là chân thật.
->
+Có cho lãnh hội không? Nếu thế thật không lãnh hội đấy.
+Này các vị thượng tọa rầm rĩ là thanh, rầm rĩ là sắc.
+Thanh sắc chẳng ra làm sao cả. Không nên cho đó là nhàn rỗi.
+Này các thượng tọa, nếu lãnh hội được tức là chân thật.
+Còn nếu không lãnh hội thì đó là ảo hóa.
+Nếu mà lãnh hội tức là ảo hóa.
+Nếu không lãnh hội, đó là chân thật.
+
 > Người xưa cũng hướng về các vị thượng tọa nói: ‘Chỉ có ta là biết được’.
-> Trừ điều đó ra thì chẳng có chỗ tính toán. Này các vị thượng tọa, thành hay không thành từ đâu mà ra.
-> Phải cùng chẳng phải từ đâu mà ra. Lý không sự thì chẳng hiển. Sự không lý thì chẳng tiêu.
-> Sự lý không hai, không sự không lý. Không lý không sự, chú giải như thế với chư thượng tọa.
-> Nếu mà cũng chẳng hiểu, thì không chi bằng y theo lời xưa mà thôi.
-> Người xưa thấy các thượng tọa bách ban chẳng được, cho nên phải rủ lòng hướng các vị mà nói, tương văn trì Phật Phật, sao lại chẳng văn văn.
-> Không có chuyện gì nữa, tạm biệt!
+Trừ điều đó ra thì chẳng có chỗ tính toán. Này các vị thượng tọa, thành hay không thành từ đâu mà ra.
+Phải cùng chẳng phải từ đâu mà ra. Lý không sự thì chẳng hiển. Sự không lý thì chẳng tiêu.
+Sự lý không hai, không sự không lý. Không lý không sự, chú giải như thế với chư thượng tọa.
+Nếu mà cũng chẳng hiểu, thì không chi bằng y theo lời xưa mà thôi.
+Người xưa thấy các thượng tọa bách ban chẳng được, cho nên phải rủ lòng hướng các vị mà nói, tương văn trì Phật Phật, sao lại chẳng văn văn.
+Không có chuyện gì nữa, tạm biệt!
 
 <hr class="blog-rule" />
 
@@ -1114,48 +1129,26 @@ Sư hỏi:
 
 ## GHI CHÚ
 
-[^1]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^1]: 📝 <a href="/speeches/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
 
-[^2]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^2]: 📝 <a href="/speeches/Heze-Shenhui" target="_blank">TS HÀ TRẠCH THẦN HỘI</a>
 
-[^3]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^3]: 📝 <a href="/speeches/Mazu-Daoyi" target="_blank">TS MÃ TỔ ĐẠO NHẤT</a>
 
-[^4]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^4]: 📝 <a href="/speeches/Yaoshan-Weiyan" target="_blank">TS DƯỢC SƠN DUY NGHIỄM</a>
 
-[^5]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^5]: 📝 <a href="/speeches/Dazhu-Huihai" target="_blank">TS ĐẠI CHÂU TUỆ HẢI</a>
 
-[^6]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^6]: 📝 <a href="/speeches/Fenzhou-Wuye" target="_blank">TS PHẦN CHÂU VÔ NGHIỆP</a>
 
-[^7]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^7]: 📝 <a href="/speeches/Nanquan-Puyuan" target="_blank">TS NAM TUYỀN PHỔ NGUYỆN</a>
 
-[^8]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^8]: 📝 <a href="/speeches/Zhaozhou-Congshen" target="_blank">TS TRIỆU CHÂU TÙNG THẨM</a>
 
-[^9]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^9]: 📝 <a href="/speeches/Linji-Yixuan" target="_blank">TS LÂM TẾ NGHĨA HUYỀN</a>
 
-[^10]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^10]: 📝 <a href="/speeches/Xuansha-Shibei" target="_blank">TS HUYỀN SA SƯ BỊ</a>
 
-[^11]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
+[^11]: 📝 <a href="/speeches/Luohan-Guichen" target="_blank">TS LA HÁN QUẾ SÂM</a>
 
-[^12]: 📝 <a href="/masters/Nanyang-Huizhong" target="_blank">TS NAM DƯƠNG HUỆ TRUNG</a>
-
-2. Quảng ngữ của Đại sư Hà Trạch Thần Hội ở Lạc Kinh (HÀ TRẠCH THẦN HỘI) [^2] [📝](/speeches/Heze-Shenhui)
-
-3. Quảng ngữ của Thiền sư Đại Tịch Đạo Nhất ở Giang Tây (MÃ TỔ Đạo Nhất) [^3] [📝](/speeches/Mazu-Daoyi)
-
-4. Quảng ngữ của Hòa thượng Dược Sơn Duy Nghiễm ở Lễ Châu (DƯỢC SƠN DUY NGHIỄM) [^4] [📝](/speeches/Yaoshan-Weiyan)
-
-5. Quảng ngữ của Hòa thượng Đại Châu Tuệ Hải ở Việt Châu (ĐẠI CHÂU TUỆ HẢI) [^5] [📝](/speeches/Dazhu-Huihai)
-
-6. Quảng ngữ của Quốc sư Đại Đạt Vô Nghiệp ở Phần Châu (PHẦN CHÂU VÔ NGHIỆP) [^6] [📝](/speeches/Fenzhou-Wuye)
-
-7. Quảng ngữ của Hòa thượng Nam Tuyền Phổ Nguyện ở Trì Châu (NAM TUYỀN PHỔ NGUYỆN) [^7] [📝](/speeches/Nanquan-Puyuan)
-
-8. Quảng ngữ của Hòa thượng Tùng Thẩm ở Triệu Châu (TRIỆU CHÂU TÙNG THẨM) [^8] [📝](/speeches/Zhaozhou-Congshen)
-
-9. Quảng ngữ của Hòa thượng Lâm Tế Nghĩa Huyền ở Trấn Châu (LÂM TẾ NGHĨA HUYỀN) [^9] [📝](/speeches/Linji-Yixuan)
-
-10. Quảng ngữ của Đại sư Huyền Sa Tông Nhất Sư Bị (HUYỀN SA SƯ BỊ) [^10] [📝](/speeches/Xuansha-Shibei)
-
-11. Quảng ngữ của Hòa thượng La Hán Quế Sâm ở Chương Châu (LA HÁN QUẾ SÂM) [^11] [📝](/speeches/Luohan-Guichen)
-
-12. Quảng ngữ của Đại Thiền sư Pháp Nhãn Văn Ích (PHÁP NHÃN VĂN ÍCH) [^12] [📝](/speeches/Fayan-Wenyi)
+[^12]: 📝 <a href="/speeches/Fayan-Wenyi" target="_blank">TS PHÁP NHÃN VĂN ÍCH</a>

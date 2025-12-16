@@ -6,7 +6,8 @@ categories:
   - Ngữ Lục
 tags: 
   - TS VÂN MÔN VĂN YỂN
-pdfUrl: /pdfs/speeches/Van-Mon-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Van-Mon-ngu-luc.pdf
 ---
 
 
@@ -15,7 +16,7 @@ pdfUrl: /pdfs/speeches/Van-Mon-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

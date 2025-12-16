@@ -10,7 +10,8 @@ tags:
 authors:
   - TS THỨ TRUNG VÔ UẨN
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/books/son-am-tap-luc.pdf
+pdfUrls: 
+  - /pdfs/books/son-am-tap-luc.pdf
 showInHomepage: true
 ---
 

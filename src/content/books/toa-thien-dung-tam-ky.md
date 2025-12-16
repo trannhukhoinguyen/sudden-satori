@@ -13,7 +13,8 @@ authors:
   - TS OÁNH SƠN THIỆU CẨN
 image: /images/koans/great-wave.webp
 videoId: MZSh7XxjQU4
-pdfUrl: /pdfs/books/toa-thien-dung-tam-ky.pdf
+pdfUrls: 
+  - /pdfs/books/toa-thien-dung-tam-ky.pdf
 showInHomepage: true
 ---
 

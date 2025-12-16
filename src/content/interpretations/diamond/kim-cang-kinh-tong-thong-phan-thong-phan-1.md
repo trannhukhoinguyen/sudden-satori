@@ -9,7 +9,8 @@ tags:
   - Kinh Kim Cang Tông Thông
   - Tông Thông
 image: /images/backgrounds/wide/sun-down.jpg
-pdfUrl: /pdfs/kinh-kim-cang-tong-thong.pdf
+pdfUrls: 
+  - /pdfs/kinh-kim-cang-tong-thong.pdf
 videoIds:
   - czqowMgrPic
 ---

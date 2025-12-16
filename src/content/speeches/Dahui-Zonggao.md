@@ -6,7 +6,10 @@ categories:
   - Ngữ Lục
 tags: 
   - TS ĐẠI HUỆ TÔNG CẢO
-pdfUrl: /pdfs/speeches/Dai-Hue-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Dai-Hue-ngu-luc.pdf
+videoIds:
+  - 73Tf24W5F30
 ---
 
 
@@ -15,7 +18,7 @@ pdfUrl: /pdfs/speeches/Dai-Hue-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

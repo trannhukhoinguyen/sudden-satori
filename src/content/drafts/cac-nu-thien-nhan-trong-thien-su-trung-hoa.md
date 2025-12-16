@@ -7,7 +7,8 @@ categories:
 tags:
   - Thiền sư
   - Sách
-pdfUrl: /pdfs/masters/nu-thien-nhan-trong-thien-su-trung-hoa.pdf
+pdfUrls: 
+  - /pdfs/masters/nu-thien-nhan-trong-thien-su-trung-hoa.pdf
 ---
 
 <hr class="blog-rule" />

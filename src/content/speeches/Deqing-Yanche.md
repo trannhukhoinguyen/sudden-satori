@@ -6,7 +6,8 @@ categories:
   - Ngữ Lục
 tags: 
   - TS HƯ VÂN DIỄN TRIỆT
-pdfUrl: /pdfs/speeches/Hu-Van-phap-ngu.pdf
+pdfUrls: 
+  - /pdfs/speeches/Hu-Van-phap-ngu.pdf
 ---
 
 
@@ -14,7 +15,7 @@ pdfUrl: /pdfs/speeches/Hu-Van-phap-ngu.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

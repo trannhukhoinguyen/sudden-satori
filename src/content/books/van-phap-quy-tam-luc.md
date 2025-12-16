@@ -10,7 +10,8 @@ tags:
   - LUẬN
   - TS TỔ NGUYÊN SIÊU MINH
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/books/van-phap-quy-tam-luc.pdf
+pdfUrls: 
+  - /pdfs/books/van-phap-quy-tam-luc.pdf
 ---
 
 - Tác giả: Thiền Sư **Tổ Nguyên Siêu Minh**

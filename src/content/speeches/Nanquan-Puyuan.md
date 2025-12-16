@@ -6,7 +6,10 @@ categories:
   - Ngữ Lục
 tags: 
   - TS NAM TUYỀN PHỔ NGUYỆN
-pdfUrl: /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
+pdfUrls: 
+  - /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
+videoIds:
+  - nHBy_kjLL7k
 ---
 
 
@@ -15,7 +18,7 @@ pdfUrl: /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
 
 ## NGUỒN
 
-> 🔗
+🔗 <a href="" target="_blank"></a>
 
 <hr class="blog-rule" />
 

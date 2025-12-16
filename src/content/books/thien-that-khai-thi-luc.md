@@ -2,7 +2,8 @@
 title: "THIỀN THẤT KHAI THỊ LỤC"
 description: "THIỀN SƯ LAI QUẢ DIỆU THỌ NGỮ LỤC"
 excerpt: "THIỀN SƯ LAI QUẢ DIỆU THỌ NGỮ LỤC"
-categories: 
+categories:
+  - Sách
   - Ngữ Lục
 tags: 
   - TS LAI QUẢ DIỆU THỌ
@@ -18,7 +19,7 @@ videoIds:
 
 ## NGUỒN
 
-🔗 <a href="" target="_blank"></a>
+🔗 <a href="https://thuvienhoasen.org/a16780/thien-that-khai-thi-luc" target="_blank">thuvienhoasen.org</a>
 
 <hr class="blog-rule" />
 

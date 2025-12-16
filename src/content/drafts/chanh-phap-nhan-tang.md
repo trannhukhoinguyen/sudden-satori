@@ -11,7 +11,8 @@ tags:
 authors:
   - TS ĐẠO NGUYÊN HI HUYỀN
 image: /images/koans/great-wave.webp
-pdfUrl: /pdfs/books/chanh-phap-nhan-tang.pdf
+pdfUrls: 
+  - /pdfs/books/chanh-phap-nhan-tang.pdf
 videoPlaylist: PLcLP3ibx6jnMIdbVEcGa5jLc2bj7I41Yh
 showInHomepage: true
 ---
