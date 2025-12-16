@@ -13,7 +13,11 @@ export function toKebabCase(str: string): string {
 
 export function cleanSlug(input: string) {
   return input
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // ❗ bỏ dấu
     .replace(/[{}]/g, '')
     .toLowerCase()
-    .replace(/[\/\s]+/g, '-')
+    .trim()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/[\s\/]+/g, '-')
 }
