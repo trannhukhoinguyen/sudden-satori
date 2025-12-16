@@ -58,7 +58,7 @@ const CnLv58MasterDb = [
     id: '91.58.3',
     name_en: 'Yuexi Xinyuan',
     name_ja: '',
-    name_zh: '月溪心圓',
+    name_zh: '月溪心源',
     name_vi: 'Nguyệt Khê Tâm Viên',
     nickname_vi: '',
     worship_tower: '',
