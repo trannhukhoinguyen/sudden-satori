@@ -1,5 +1,6 @@
 ---
 import "@/styles/badge/badgeList.css";
+import { cleanSlug } from "../../utils/helper";
 
 const { frontmatter, showLabel = true, floatRight = false } = Astro.props;
 const base = import.meta.env.BASE_URL;
@@ -14,7 +15,7 @@ const base = import.meta.env.BASE_URL;
                     }
 
                     {
-                        frontmatter.categories.map((category: string) => <a href={`${base}categories/${category.toLowerCase().replace(/[\/\s]+/g, '-')}`}>
+                        frontmatter.categories.map((category: string) => <a href={`${base}categories/${cleanSlug(cat)}`}>
                                     <span class="badge badge-label badge-category">{category}</span>
                                 </a>
                         )
