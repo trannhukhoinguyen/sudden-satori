@@ -4,9 +4,11 @@ description: ""
 categories:
   - Bài viết
 tags:
-  - Tổ Sư Thiền
-  - Định nghĩa
-author: HT Thích Duy Lực
+  - TỔ SƯ THIỀN
+  - ĐỊNH NGHĨA
+  - PHƯƠNG PHÁP
+authors: 
+  - HT Thích Duy Lực
 ---
 
 ## Tổ Sư Thiền là gì?
@@ -72,4 +74,8 @@ Từ đầu sào trăm thước tiến thêm một bước nữa là kiến tán
 ## NGUỒN
 
 🔗 <a href="https://tosuthien.com/2022/03/31/duong-loi-thuc-hanh-tham-to-su-thien/" target="_blank">tosuthien</a>
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="" target="_blank"></a>
 

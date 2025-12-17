@@ -22,7 +22,7 @@ const CnLv57MasterDb = [
   },
   {
     id: '90.57.2',
-    name_en: 'Tienan ',
+    name_en: 'Tieyan ',
     name_ja: '',
     name_zh: '',
     name_vi: 'Thiết Nham',
@@ -34,7 +34,7 @@ const CnLv57MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: '-',
+    place: 'Đá Tiên Hoa (Xianhua) trên núi Niushou',
     teachers: [''],
     successors: ['Yuexi Xinyuan'],
     disciples: ['Yuexi Xinyuan'],
