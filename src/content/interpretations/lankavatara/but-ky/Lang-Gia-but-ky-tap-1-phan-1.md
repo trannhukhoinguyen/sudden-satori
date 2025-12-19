@@ -311,23 +311,23 @@ Vô thọ là chỉ chung tam thừa vô học. Phật tử riêng chỉ Bồ-t�
 Giải thoát là Niết-bàn, buộc là sanh tử, nghĩa là ai bị trói trong sanh tử, ai giải thoát trong Niết-bàn. 
 Niết-bàn chỉ cho Phật giới.
 
-1 - Những gì cảnh giới thiện?
-2 - Tại sao có ba thừa?
-3 - Cúi mong vì giải nói.
-4 - Duyên khởi chỗ nào sanh?
-5 - Thế nào tác, sở tác?
-6 - Thế nào đồng dị thuyết?
-7 - Thế nào là tăng trưởng? [^8]
-8 - Thế nào Vô sắc định?
-9 - Và cùng diệt chánh thọ?
-10 - Thế nào là tưởng diệt?
-11 - Vì sao từ định giác?
-12 - Thế nào là tạo các sanh?
-13 - Tiến đi và giữ thân?
-14 - Thế nào hiện phân biệt?
-15 - Thế nào sanh các địa?
+1. Những gì cảnh giới thiện?
+2. Tại sao có ba thừa?
+3. Cúi mong vì giải nói.
+4. Duyên khởi chỗ nào sanh?
+5. Thế nào tác, sở tác?
+6. Thế nào đồng dị thuyết?
+7. Thế nào là tăng trưởng? [^8]
+8. Thế nào Vô sắc định?
+9. Và cùng diệt chánh thọ?
+10. Thế nào là tưởng diệt?
+11. Vì sao từ định giác?
+12. Thế nào là tạo các sanh?
+13. Tiến đi và giữ thân?
+14. Thế nào hiện phân biệt?
+15. Thế nào sanh các địa?
 
-Mười lăm câu này là hỏi riêng về tướng sai biệt trong chín cõi.
+15 câu này là hỏi riêng về tướng sai biệt trong 9 cõi.
 
 Ba câu đầu hỏi hành tướng ba thừa nhân đâu mà có. 
 Duyên khởi (4) là hỏi chánh pháp. Hai câu sau (5,6) hỏi tà kiến của ngoại đạo nhân đâu mà khởi. 
@@ -909,11 +909,18 @@ Nghĩa là thế gian, xuất thế gian này đều là pháp vọng kiến lư
 
 Do lời hỏi trước hoặc so lược hoặc thiếu sót. Thế Tôn bổ túc mà nêu ra, cũng là xen nhau phát minh. Nhưng lời đức Phật tuy tiện nên lẫn lộn không theo loại, mà ý ấy tự trọn vẹn.
 
+<blockquote>
+
 Chư Phật, Ba-la-mật.
+
 Phật tử và Thanh văn.
+
 Duyên giác các ngoại đạo.
+
 Và cùng Vô sắc hạnh.
+
 Các thứ việc như thế.
+</blockquote>
 
 Đây là tóm gọn những câu hỏi của Đại Huệ.
 
@@ -921,23 +928,40 @@ Nghĩa là tuy hỏi nhiều không ngoài nhân quả của nhân pháp trong m
 
 Ngoại đạo là gồm hết người và tam đồ, vì tà hạnh của ngoại đạo là nhân của tam đồ, đây đều là người. Ba-la-mật là pháp của tự thánh. Vô sắc hạnh là gồm cả pháp của ngoại đạo và lục phàm. Nhân quả, y báo, chánh báo đều đầy đủ cho nên nói “Các thứ việc như thế”. Ý rằng chỗ hỏi của Đại Huệ không ngoài đây. Phần sau mỗi mỗi thuật lại lời kia.
 
+<blockquote>
+
 Núi Tu-di, biển cả,
+
 Châu, đảo, cõi nước, đất,
+
 Tinh tú và trời trăng.
+
 Ngoại đạo, thiên, tu-la.
+</blockquote>
 
 Đây là thuộc về câu hỏi chư thiên có mấy thứ, thể nào gọi là địa, tinh tú và trăng sao, lặp lại ý chỉ ba cõi sáu phàm.
 
+<blockquote>
+
 Giải thoát tự tại thông,
+
 Lực, thiền, tam-ma-đề,
+
 Định và như ý túc,
+
 Giác chi và đạo phẩm
+
 Các thiền định vô lượng.
+</blockquote>
 
 Đây thuộc về câu hỏi Thế nào nói Giác chi với Bồ-đề phần. Xen vào rộng thêm ba mươi bảy phẩm trợ đạo thuộc pháp tự thánh.
 
+<blockquote>
+
 Các ấm thân qua lại
+
 Chánh thọ, Diệt tận định
+</blockquote>
 
 Thuộc câu Và cùng diệt chánh thọ hai câu.
 
@@ -945,16 +969,22 @@ Tam-muội khởi tâm nói
 
 Thuộc câu Nhân gì từ định giác bốn câu.
 
+<blockquote>
+
 Tâm, ý và cùng thức,
+
 Pháp vô ngã có năm,
+
 Tự tánh tướng, chỗ tướng,
+
 Và cùng hiện hai chấp,
+
 Thừa và các chúng tánh.
+</blockquote>
 
 Thuộc về câu Thế nào gọi là tạng đến nghĩa phi ngã, tám câu tổng hợp lại bốn môn.
 
 Vàng bạc, ma-ni, v.v…
-
 Thuộc về câu Ai sanh các bảo tánh.
 
 Nhất-xiển-đề đại chúng
@@ -982,6 +1012,7 @@ Và cùng tác sở tác.
 
 Thuộc câu Tất-đàn và kiến chấp, Đường dịch là
 “Thế nào nhân, thí dụ, tương ưng thành Tất-đàn”.
+
 Nghĩa là tứ Tất-đàn đều nhân thí dụ mà thành cho nên gồm ý mà nói lược; Tác, sở tác đều thuộc vọng kiến.
 
 Tòng lâm, mê hoặc, thông,
@@ -990,47 +1021,69 @@ Tâm lượng chẳng hiện hữu.
 Câu trên thuộc câu Thế nào thế tục thông nghĩa là tâm tướng tà kiến của chúng sanh dày đặc như rừng.
 Câu sau thuộc về hỏi Thế nào xuất thế gian. Bản dịch…
 
-Đường: “Các rừng cùng với mê hoặc, lý chân thật như thế, chỉ có tâm không cảnh giới”. Bản dịch Ngụy: “Tưởng mê hoặc như thật, chỉ là tâm, không có cảnh giới”. 
+Bản Đường: “Các rừng cùng với mê hoặc, lý chân thật như thế, chỉ có tâm không cảnh giới”. 
+Bản dịch Ngụy: “Tưởng mê hoặc như thật, chỉ là tâm, không có cảnh giới”. 
 
 Đây là trùng lặp để nêu ra ý nghĩa vậy.
 
-Các địa không đến nhau
-Thuộc câu Nhân gì qua các địa.
+Các địa không đến nhau Thuộc câu Nhân gì qua các địa.
+
+<blockquote>
 
 Trăm biển trăm vô thọ,
+
 Luận y phương công xảo,
+
 Kỹ thuật các minh xứ,
+
 Theo văn có thể biết.
+</blockquote>
 
 Sau đây từ Các núi Tu-di, đất cho đến mao không mi mao… là chỗ Đại Huệ hỏi không tới, đức Thế Tôn chỉ ra để nêu lên.
 
-Các núi, Tu-di, dạ,
-Chúng sanh thượng trung hạ,
-Mỗi thân mấy vi trần.
-Mỗi cõi có mấy trần,
-Mỗi cung số có mấy?
-Xạ bộ Câu-lư-xá,
-Nửa Do-diên, Do-diên,
-Thố mao, song trần, rận.
-Dương mao, khoáng mạch trần
+<blockquote>
 
-Bảy cực vi trần thành một song trần [^19], bảy song trần thành một thố mao đầu trần [^20], 
-thố mao đầu trần thành một dương mao đầu trần [^21], bảy dương mao đầu trần thành một ngưu mao đầu trần [^22].
-bảy ngưu mao đầu trần thành một con rận, bảy con rận thành một con chí, bảy con chí thành một hạt cải, 
-bảy hạt cải thành đại mạch, bảy đại mạch thành một lóng tay, bảy lóng tay thành nửa thước, 
-hai nửa thước thành một thước, hai thước thành một khuỷu tay, bốn khuỷu tay thành một cung, 
-năm cung thành một trượng, 20 trượng thành một tức, 80 tức thành một câu-lư-xá (Krosa), 
-80 câu-lư-xá thành một đo tuần, do diên là do tuần. Đây căn cứ lời chú xưa theo Phạn ngữ.
+Các núi, Tu-di, dạ,
+
+Chúng sanh thượng trung hạ,
+
+Mỗi thân mấy vi trần.
+
+Mỗi cõi có mấy trần,
+
+Mỗi cung số có mấy?
+
+Xạ bộ Câu-lư-xá,
+
+Nửa Do-diên, Do-diên,
+
+Thố mao, song trần, rận.
+
+Dương mao, khoáng mạch trần
+</blockquote>
+
+Bảy cực vi trần thành một song trần [^19], bảy song trần thành một thố mao đầu trần [^20],  thố mao đầu trần thành một dương mao đầu trần [^21], bảy dương mao đầu trần thành một ngưu mao đầu trần [^22].
+bảy ngưu mao đầu trần thành một con rận, bảy con rận thành một con chí, bảy con chí thành một hạt cải,  bảy hạt cải thành đại mạch, bảy đại mạch thành một lóng tay, bảy lóng tay thành nửa thước, 
+hai nửa thước thành một thước, hai thước thành một khuỷu tay, bốn khuỷu tay thành một cung, năm cung thành một trượng, 20 trượng thành một tức, 80 tức thành một câu-lư-xá (Krosa), 80 câu-lư-xá thành một đo tuần, do diên là do tuần. Đây căn cứ lời chú xưa theo Phạn ngữ.
+
+<blockquote>
 
 Bát-tha mấy khoáng mạch?
+
 Độc long, na-khư-lê,
+
 Cho đến tần-bà-la
 
 A-la mấy khoáng mạch?
+
 Lặc-xoa và cử-lợi,
+
 Mỗi cái bao nhiêu số.
+</blockquote>
 
 Bát-tha (Prastha) là một thăng, a-la là một đấu, độc long (Drona) là một hộc (10 đấu = 1 hộc), na-giả-lợi (Khsa) là 10 hộc, lặc-xoa (Laksh) là một vạn, cử lợi (Koti) là 1 ức, tần-bà-la (Vinivana) là một triệu, nghĩa là bao nhiêu khoáng mạch thành một thăng, bao nhiêu khoáng mạch thành một đấu, mấy thứ kia cũng vậy.
+
+<blockquote>
 
 Có bao nhiêu A-nậu,
 Gọi là xá-lê-sa-bà.
@@ -1042,8 +1095,11 @@ Bao nhiêu đa-na thành ca-lê-sa-na.
 Bao nhiêu ca-lê-sa-na thành một ba-la.
 Tưởng tích tụ như thế.
 Mấy ba-la một di-lậu?
+</blockquote>
 
 A-nậu cũng là trần (bụi), xá-lê-sa-bà là hạt cải, lại-đề là hạt cỏ, ma-sa là hạt đậu, đà-na (Dharan) là thù (24 thù = 1 lạng), ca-lê-sa-na (Karska) là lạng, ba-la (Pala) là cân, di-lậu là núi Tu-di. Nghĩa là bao nhiêu ký-lô hạt bụi thành núi Tu-di. Bản Đường: “Bao nhiêu ký-lô thành Tu-di”. Những điều này căn cứ chú xưa.
+
+<blockquote>
 
 Những thứ đó đáng hỏi,
 Thanh văn, Bích chi Phật,
@@ -1057,6 +1113,7 @@ Phật và tôi thắng trí
 Sao không hỏi chỗ này?
 Gió có mấy a-nậu
 Lỗ chân lông, lông mày.
+</blockquote>
 
 Từ Các núi Tu-di, đất đai đến đây cộng có 38 câu, so sánh ra 32 việc đều là chỗ Đại Huệ hỏi chưa tới. 
 
@@ -1067,6 +1124,8 @@ Cho nên Thế Tôn đặc biệt tiêu biểu để nêu ra, và trách tại s
 Tin chắc rằng chỗ thấy biết của Phật, biết hết số giọt mưa trong cõi Diêm-phù-đề. Hiện tiện từng hạng gà công, hạc trắng qua đen đều biết rõ nguyên nhân. Nhưng núi Tu-di là chỉ sổ lược tướng chung của y báo, còn cung bộ, vị trần là tướng riêng. Hàng thánh nhân trong ba thừa thân có lớn nhỏ, thân là tướng chung của chánh báo, nhưng số lượng vị trần mao không là tướng riêng. Ý trách Đại Huệ chỉ biết tướng tổng quát của các pháp, không biết tướng riêng. Thế là chỉ biết tướng chung mà không đạt tứ tướng, đó là mê tự tâm hiện lượng lắm vậy. Cho nên dùng trí sâu xa vi tế để phát minh việc này.
 
 Văn sau lại nêu câu hỏi Đại Huệ.
+
+<blockquote>
 
 Vua Tự tại, hộ tài
 Thế nào vua thứ hộ,
@@ -1091,14 +1150,19 @@ Ai cột, ai giải thoát
 Biến hóa và ngoại đạo,
 Thế nào như thật tác
 Và phi hữu vô nhân.
+</blockquote>
 
 Chỗ xưa, bốn nhân đây thuộc về thế nào câu dị thuyết ở trên.
+
+<blockquote>
 
 Thế nào hiện rồi diệt
 Thế nào tịnh các giác,
 Và chuyển các sở tác.
+</blockquote>
 
-Thuộc về câu Thế nào tịnh niệm kia, thế nào niệm tạng trưởng.
+Thuộc về câu Thế nào tịnh niệm kia, 
+thế nào niệm tạng trưởng.
 
 Thuộc về thế nào thấy rồi hoàn.
 Thế nào các giác chuyển
@@ -1113,6 +1177,7 @@ Mà nói có tôi, ta.
 
 Thuộc 4 câu thế nào kiến lập…
 Cuối xin rộng phân biệt.
+
 Hai bản dịch đều không có câu này.
 
 Chỗ hỏi tướng thế nào,
@@ -1136,7 +1201,7 @@ Giới, chúng tánh, Phật tử
 Thuộc hai câu Ai sanh các ngôn ngữ, và hai câu
 Các trí có mấy thứ, bao nhiêu giới, tánh chúng sanh.
 
-Thế nào thành và luận
+Thế nào thành và luận?
 Thuộc câu Thành có mấy thứ, thế nào gọi là luận.
 
 Thế nào thấy đệ tử
@@ -1155,20 +1220,21 @@ Thế nào cây cất dựng (dây leo)
 Thuộc hai câu Thế nào là rừng cây, thế nào là cỏ rậm.
 
 Chỗ hỏi Tối thắng tử
-Thế nào các cõi nước
+
+Thế nào các cõi nước?
 Thuộc câu Hình tướng các cõi nước, đây cũng thuộc
 về ý của câu Cớ gì sát độ hóa.
 
 Tiên nhân trường khổ hạnh
 Đây thuộc hai câu Thế nào trường khổ tiên.
 
-Thế nào là tộc tánh
+Thế nào là tộc tánh?
 Đây thuộc bốn câu Thế nào là Thích chúng.
 
 Theo thầy nào thọ học
 Thuộc hai câu Thiên sư dùng pháp gì.
 
-Thế nào là nhỏ hẹp
+Thế nào là nhỏ hẹp?
 Thế nào người tu hành
 
 Hai câu này thuộc câu Thế nào tu hành thoái.
@@ -1177,33 +1243,47 @@ Dục giới sao không giác
 A-ca-ni-tra thành
 Đây thuộc bốn câu Thế nào ở Dục giới không thành Đẳng chánh giác, A-ca-ni-tra Trung Hoa dịch là trời Sắc cứu cánh.
 
-Thế nào tục thần thông
+Thế nào tục thần thông?
 Thuộc câu Thế nào thế tục thông.
 
-Thế nào là Tỳ-kheo
+Thế nào là Tỳ-kheo?
 Thuộc hai câu Thế nào Tỳ-ni, Tỳ-kheo.
 
-Thế nào là hóa Phật, 
+<blockquote>
+
+Thế nào là hóa Phật,
+
 Thế nào là báo Phật
-Thế nào Phật như như 
+
+Thế nào Phật như như
+
 Phật bình đẳng trí huệ
-Thế nào là chúng tăng.
+
+Thế nào là chúng tăng?
 
 Thuộc câu Tăng-già có mấy bậc.
 
-Phật tử hỏi như thế 
+Phật tử hỏi như thế
+
 Đàn, trống eo lưng, hoa
+
 Cõi nước lịa ánh sáng.
+</blockquote>
 
 Thuộc mười câu Thế nào hình nhật nguyệt trở xuống.
 
 Tám địa đó có bảy
+
 Thuộc câu Thế nào là Thất địa.
 
 Chỗ hỏi đều như thật 
+
 Câu này và nhiều câu kia¹
+
 Phật tử chớ cẩn hỏi 
+
 Mỗi mỗi tướng tương ưng
+
 Xa lìa các lỗi chấp.
 
 Năm câu này là khen lời hỏi của Đại Huệ xứng lý và không lỗi.
@@ -1211,10 +1291,15 @@ Năm câu này là khen lời hỏi của Đại Huệ xứng lý và không l�
 Nhưng ý hỏi của Đại Huệ có thứ lớp có chủ định, mà Thế Tôn lập lại, đại khái tổng quát những lời ấy, không theo thứ tự, và lập lại cũng không hết. Nên kết luận rằng “Đây và các câu khác”, ý nói rằng chỗ hỏi của Phật tử mỗi mỗi đều cùng thật lý tương ưng, xa lìa các lỗi kiến chấp. Nhưng tuy thế mà pháp ly ngôn thuyết, nay ở chỗ không lời bày lời cho nên câu kết sau đây nói:
 
 Tất-đàn lìa ngôn thuyết 
+
 Ta nay sẽ hiển bày
+
 Thứ lớp dựng lập câu 
+
 Phật tử khéo lóng nghe
+
 Trăm lẻ tám câu trên 
+
 Như chỗ chư Phật nói.
 
 Sáu câu này là kết luận lập lại nghĩa câu hỏi, hứa sẽ nói và dặn lóng nghe, mở đường cho ý đáp ở sau.
@@ -1260,14 +1345,12 @@ Câu trụ dị, câu chẳng trụ dị. Câu sát-na, câu chẳng sát-na. C�
 
 Đây cũng ba câu trước là lời Phật tự dẹp bỏ.
 
-Do ở trước, phần đầu đoạn văn lặp lại nói: “Sanh với bất sanh; Niết-bàn, không, sát-na; tiến đến vô tự tánh”. Ý Thế Tôn rằng: Trước nhân Đại Huệ chấp có thế gian, xuất thế gian; sanh trụ dị diệt mới hỏi, cho nên ta đem cú nghĩa này phá tình chấp kia, chẳng phải thật pháp. Vì trong lý chân như vốn vô ngôn thuyết, nên đáp: “Đây cũng đều phi”. Nghĩa là chẳng những không có sanh, mà trụ dị diệt đều bất khả đắc. Sát-na là…
+Do ở trước, phần đầu đoạn văn lặp lại nói: “Sanh với bất sanh; Niết-bàn, không, sát-na; tiến đến vô tự tánh”. 
+Ý Thế Tôn rằng: Trước nhân Đại Huệ chấp có thế gian, xuất thế gian; sanh trụ dị diệt mới hỏi, cho nên ta đem cú nghĩa này phá tình chấp kia, chẳng phải thật pháp. 
+Vì trong lý chân như vốn vô ngôn thuyết, nên đáp: “Đây cũng đều phi”. Nghĩa là chẳng những không có sanh, mà trụ dị diệt đều bất khả đắc. 
 
-¹ Bản Ngụy: Ly tự tánh kiến, chẳng ly tự tánh kiến. Không kiến, bất không kiến. Bản Đường: Câu tự tánh, câu phi tự tánh.
-
-¹ Đường dịch: Câu sanh câu bất sanh.
-² Ngụy dịch: Sanh kiến bất sanh kiến, thường kiến vô thường kiến, tướng kiến vô tướng kiến.
-
-sanh diệt. Ở trên câu thường tức chỉ Niết-bàn¹. Trước nói tiến đến vô tự tánh, song nói “tiến đến” cũng như nói “rốt ráo”. Bởi pháp thế xuất thế rốt ráo đều vô tự tánh. Đây nói “Câu lìa tự tánh cũng trọn bất khả đắc” cho nên đều nói phi.
+Sát-na là sanh diệt. Ở trên câu thường tức chỉ Niết-bàn¹. Trước nói tiến đến vô tự tánh, song nói “tiến đến” cũng như nói “rốt ráo”. 
+Bởi pháp thế xuất thế rốt ráo đều vô tự tánh. Đây nói “Câu lìa tự tánh cũng trọn bất khả đắc” cho nên đều nói phi.
 
 Đây là lời tự dẹp của Phật, sau đây là lời phá dẹp chỗ chấp của Đại Huệ.
 
@@ -1275,20 +1358,211 @@ Câu đoạn câu bất đoạn. Câu biên câu phi biên. Câu trung câu phi 
 
 Đây quả trách chung pháp tà chánh của thế và xuất thế.
 
-Câu thường vô thường ở trước là Niết-bàn chân thường và sanh tử vô thường. Câu thường ô đoạn này là hai kiến chấp đoạn thường của ngoại đạo, nghĩa là xác định câu “chết là thường, chẳng thường” đều bị khiến trách. Trung là pháp trung đạo Nhất thừa xuất thế. Biên là không hữu nhị biên, là pháp xuất thế Tam thừa. Đoạn thường là pháp tà kiến của thế gian ngoại đạo. Trong lý chân như phàm thánh chẳng lập, mê ngộ đều không, nên đều nói phi.
+Câu thường vô thường ở trước là Niết-bàn chân thường và sanh tử vô thường. 
+Câu thường ô đoạn này là hai kiến chấp đoạn thường của ngoại đạo, nghĩa là xác định câu “chết là thường, chẳng thường” đều bị khiến trách. 
+
+Trung là pháp trung đạo Nhất thừa xuất thế. Biên là không hữu nhị biên, là pháp xuất thế Tam thừa. 
+Đoạn thường là pháp tà kiến của thế gian ngoại đạo. 
+Trong lý chân như phàm thánh chẳng lập, mê ngộ đều không, nên đều nói phi.
 
 Câu duyên, câu phi duyên. Câu nhân, câu phi nhân.
 Câu phiền não, câu phi phiền não. Câu ái, câu phi ái.
-Câu phương tiện, câu phi phương tiện. Câu xảo, câu phi xảo².
+Câu phương tiện, câu phi phương tiện. Câu xảo, câu phi xảo². 
 Câu tịnh, câu phi tịnh. Câu thành, câu phi thành.
-Câu thí, câu phi thí. Câu đệ tử, câu phi đệ tử. Câu sự, câu
+Câu thí, câu phi thí. Câu đệ tử, câu phi đệ tử. 
+Câu sự, câu phi sự. Câu chúng tánh, câu phi chúng tánh. 
+Câu Tam thừa, câu phi Tam thừa. Câu sở hữu, câu phi sở hữu¹.
+Câu nguyện, câu phi nguyện. Câu tam luân, câu phi tam luân. 
+Câu tướng, câu phi tướng². Câu hữu phẩm, câu phi hữu phẩm³. 
+Câu cấu, câu phi cấu. Câu duyên tự thánh tri hiện pháp lạc, câu phi hiện pháp lạc. 
+Câu hiện pháp lạc, câu phi hiện pháp lạc. Câu sát độ, câu phi sát độ.
+Câu a-nậu, câu phi a-nậu⁴. Câu thủy, câu phi thủy. 
+Câu cụng, câu phi cụng. Câu thật, câu phi thật⁵. Câu số, câu phi số.
+
+Hai bản dịch đều không có câu này. 
+Bản chú xưa dùng chữ “số” này thêm vào thượng thanh, chẳng phải vậy. 
+Bởi câu số trên là lặp lại A-nậu. 
+Sau đây Thế Tôn thêm vào 32 câu, đều là toản số. 
+Câu số sau, là trong lý chân như vốn không có những số lượng này, chính là Tất cả câu số, câu chẳng phải số.
+
+Câu minh, câu phi minh⁸. Câu hư không, câu phi hư không. 
+Câu văn, câu phi văn. Câu công xảo kỹ thuật minh xứ, câu phi công xảo kỹ thuật minh xứ. 
+Câu phong, câu phi phong. Câu địa, câu phi địa. 
+Câu tâm, câu phi tâm. Câu thi thiết, câu phi thi thiết. 
+Câu tự tánh, câu phi tự tánh. phi tự tánh¹. Câu ấm, câu phi ấm. Câu chúng sanh, câu phi chúng sanh. 
+Câu huệ, câu phi huệ. Câu Niết-bàn, câu phi Niết-bàn. 
+Câu nhĩ diệm, câu phi nhĩ diệm². Câu ngoại đạo, câu phi ngoại đạo. 
+Câu hoang loạn, câu phi hoang loạn. Câu huyễn, câu phi huyễn. 
+Câu mộng, câu phi mộng. Câu diệm, câu phi diệm³. 
+Câu tướng, câu phi tướng. Câu luân, câu phi luân⁴. 
+Câu Càn-thát-bà, câu phi Càn-thát-bà. Câu thiện, câu phi thiện. 
+Câu ấm thực, câu phi ấm thực. Câu dâm dục, câu phi dâm dục. 
+Câu kiến, câu phi kiến. Câu Ba-la-mật, câu phi Ba-la-mật.
+Câu giới, câu phi giới. Câu nhất nguyệt tinh tú, câu phi nhất nguyệt tinh tú. 
+Câu đế, câu phi đế. Câu quả, câu phi quả. 
+Câu diệt khởi, câu phi diệt khởi⁵. Câu trị, câu phi trị⁶.
+
+Lời đáp có ba câu “tướng”. 
+Cựu chú cho rằng tướng trước là tướng của danh tướng, kế là tướng của tiểu tướng, đây là tướng của chiêm tướng vì có ý phương minh trùm ở văn trước, như vậy không đúng.
+Vì chiêm tướng là nằm chung trong ngũ minh, mà câu y phương này để đáp riêng câu hỏi trước về y phương, dụ cho pháp ứng cơ của Phật, chẳng phải y phương của thế tục. 
+Phần giải thích trước đây đủ rõ ràng, đây ắt không phải tướng của chiêm tướng.
+
+Bởi nghĩa hỏi của Đại Huệ có ba loại câu về tướng, nên ở đây đáp theo thứ lớp. 
+Ban đầu hỏi: Có sao sát độ, hóa tướng và ngoại đạo… là hỏi chung việc danh tướng của phàm thánh, y chánh trong muội cõi nhân gì mà có. 
+Cho nên ban đầu đáp Câu tướng câu vô tướng, ý nói rằng tướng y chánh phàm thánh ấy vốn tự vô tướng.
+
+Kế hỏi: Thế nào kiến lập tướng? Nghĩa là tâm đã vô tướng, tại sao lại dựng lập ra tướng ngã, nhân, chúng sanh, thọ mạng? 
+Cho nên đây đáp Câu tướng nêu bày là câu chẳng phải tướng nêu bày, nếu tức là nghĩa kiến lập; nơi kiến lập ấy cũng vốn không có tướng kiến lập.
+
+Sau lại hỏi chúng sanh sanh các nẻo, tướng thể nào, loại tượng nào. Tướng là hình trạng của chúng sanh; tượng là vẻ mặt, dáng người. 
+Ở đây đáp ý rằng: Chúng sanh vốn không có tướng chúng sanh, làm gì có chi phần? 
+Cho nên đáp Câu tướng câu chẳng phải tướng chi phần. 
+Đoạn sau đây tức chỉ cho chi phần vậy.
+
+Câu chi, câu phi chi¹. Câu công xảo minh xứ, câu phi công xảo minh xứ². 
+Câu thiên, câu phi thiên. Câu mê, câu phi mê. Câu hiện, câu phi hiện. 
+Câu hộ, câu phi hộ. Câu tộc, câu phi tộc³. Câu tiên, câu phi tiên. 
+Câu vương, câu phi vương. Câu nhiếp thọ, câu phi nhiếp thọ. 
+Câu thật, câu phi thật. Câu ký, câu phi ký. 
+Câu nhất xiển-đề, câu phi nhất xiển-đề. 
+Câu nữ nam bất nam, câu phi nữ nam bất nam. 
+Câu vi, câu phi vi. Câu sụ, câu phi sụ. 
+Câu thân, câu phi thân. Câu giác, câu phi giác. 
+Câu động, câu phi động. Câu căn, câu phi căn. 
+Câu hữu vi, câu phi hữu vi. Câu vô vi, câu phi vô vi. 
+Câu nhân quả, câu phi nhân quả. Câu sắc cứu cánh, câu phi sắc cứu cánh. 
+Câu tiết, câu phi tiết¹. Câu tùng thọ cát đẳng, câu phi tùng thọ cát đẳng. 
+Câu tạp, câu phi tạp². Câu thuyết, câu phi thuyết. 
+Câu Tỳ-ni, câu phi Tỳ-ni. Câu xử, câu phi xử.
+Câu tự, câu phi tự³.
+
+Trên đây đứng về mặt nhất tâm chân như để đáp 108 câu đã xong.
+
+Song sợ dì đều đáp rằng phi, nghĩa là trong tánh chân như vốn không có các sở câu này. 
+
+Luận Khởi Tín nói rằng: 
+
+“Nên biết tự tánh chân như chẳng phải tướng hữu chẳng phải tướng vô, chẳng phải hữu tướng chẳng phải vô tướng, chẳng phải cả tướng hữu tướng vô, chẳng phải tướng một tướng khác, chẳng phải phi tướng một tướng khác, chẳng phải cả hai tướng một tướng khác.
+Từ xưa đến nay tất cả pháp nhiễm và tất cả vọng tâm phân biệt của chúng sanh đều chẳng tương ưng. 
+Tức là chân tâm này thường hằng bất biến đầy đủ pháp tịnh, cũng không tưởng có để chấp thủ, vì cảnh giới ly niệm chỉ có chứng mới tương ưng”. 
+
+Cho nên ở đây đáp rằng:
+
+“Tất cả đều phi”, mà đoạn văn trước đã mỗi mỗi đều lặp lại lời ấy, rồi ở đây lại mỗi mỗi ghép thêm câu hỏi và bác bỏ kia là phi. 
+Bởi văn thể Tây vực như vậy, phàm có hỏi thì phải lặp lại lời hỏi và đáp đó. 
+Lời tuy dường như phiền phức nhưng nghĩa thật ngắn gọn, đều chỉ
+trở về chỗ đệ nhất nghĩa để lý ngôn thuyết. 
+Bởi vậy trên đây một câu liền lặp lại câu hỏi, kế đó một câu có chữ phi để bác bỏ. 
+Bồ-tát Mã Minh lấy yếu chỉ 100 bộ kinh Đại thừa như Lăng-già… để làm Luận Khởi Tín. 
+Chỗ lập nghĩa trong luận, chia một tâm thành hai phương diện. 
+Nay cũng theo tôn chỉ của luận, sau đây dẫn rất nhiều.
+
+Đại Huệ, 108 câu này các Phật trước đã nói, ông và các Đại bồ-tát cần phải tu học.
+
+Đây là kết luận khuyên tu học.
+Trước nói: Trên đây 108 câu, như chư Phật đã nói, ắt tất cả đều phi. 
+Nên câu kết này nói: 108 câu này là chư
+Phật quá khứ đã nói, ông và các Bồ-tát nên cần tu học.
+
+* Phần đầu trực chỉ nhất tâm chân như để hiển bày cõi duy tâm đã xong¹.
+
+B₂. Chỉ bày nhất tâm sanh diệt để hiển vạn pháp
+duy thức, có 8
+
+C₁. Nói rõ nhân căn cứ của chân vọng chỉ rộng
+tâm thức để hiển tướng nhân duyên sanh
+diệt, có 2
+
+D₁. Lược nói duy thức để phân biệt tà chánh,
+có 2
+
+E₁. Rõ chân duy thức để biện biệt tông
+tà, có 3
+
+G₁. Hiển chân duy thức
+
+Lúc bấy giờ, Bồ-tát Đại Huệ lại bạch Phật rằng:
+
+Thưa Thế Tôn, các thức có mấy thứ sanh trụ diệt. 
+Phật bảo Đại Huệ: Các thức có hai thứ sanh trụ diệt, chẳng phải chỗ suy nghĩ biết được.
+
+Từ đây đến hết bộ kinh là đứng về phương diện tâm sanh diệt để hiển bày vạn pháp duy thức, song đầu tiên dùng pháp để hiển chân duy thức lượng.
+
+Hỏi: 
+
+Bồ-tát Đại Huệ nhân Phật đáp 108 câu tất cả đều phi, bèn khởi lên hỏi các thức có mấy thứ sanh trụ diệt đó là sao?
+
+Đáp: 
+
+Căn cứ ngài Mã Minh, lấy yếu chỉ kinh này tạo Luận Khởi Tín, nương một pháp tâm lập ra hai phương diện, là phương diện tâm chân như và phương diện tâm sanh diệt. 
+Y cứ vào phương diện thứ hai lại có nghĩa giác và bất giác; y cứ vào nghĩa bất giác khởi lên ba tế sáu thô… gồm nhiếp hết pháp thế và xuất thế, chỉ thẳng nhất tâm là cội nguồn của mê ngộ. Cho nên kinh
+này nói năm pháp ba tự tánh đều không, tám thức hai vô ngã đều trừ. 
+Năm pháp là danh, tướng, vọng tưởng, chánh trí, như như; ba tự tánh là vọng tưởng, duyên khởi, viên thành. 
+Vì y cứ nhất tâm mà có sự sai khác giữa mê ngộ, cho nên có tám thức. 
+Do mê nhất tâm mà chuyển chánh trí, như như thành danh, tướng, vọng tưởng, thế là tất cả pháp đều là vọng tưởng duyên khởi.
+Ngộ nhất tâm mà chuyển danh, tướng, vọng tưởng làm chánh trí, như như, gọi là Viên thành.¹
+
+Phẩm này tên là “Phật ngự tâm” nghĩa là tịch diệt nhất tâm gọi là chân như. 
+
+Luận² nói: “Tâm chân như ấy tức là nhất pháp giới đại tổng tướng pháp môn thể, nghĩa là tâm tánh bất sanh bất diệt, tất cả các pháp chỉ nương vọng niệm có sai biệt, nếu lìa tâm niệm thì  không có tất cả tướng cảnh giới”. 
+
+Thế mới biết từ trước các câu hỏi của Đại Huệ là căn cứ trên việc trong cảnh giới danh, tướng, vọng tưởng… cho nên mới có các thứ pháp thế và xuất thế, thành 108 kiến chấp. 
+Mà Thế Tôn chỉ thẳng nguồn chân nhất tâm, lìa tướng ngôn thuyết, lìa tướng danh tự, lìa tướng tâm duyên, nên lập lại lời hỏi rồi bác bỏ rằng “Tất cả đều phi”. 
+Thế là tất cả các lời kinh ở đoạn trước chính là đứng về phương diện nhất tâm chân như. Nếu đứng về phương diện chân
+
+
+
+## Chú thích:
+
+¹ Bản Đường: Đây và nghĩa các câu khác.
+
+¹ Bản Ngụy: Ly tự tánh kiến, chẳng ly tự tánh kiến. Không kiến, bất không kiến.
+Bản Đường: Câu tự tánh, câu phi tự tánh.
+
+¹ Bản Đường dịch: Câu sanh câu bất sanh.
+² Bản Ngụy dịch: Sanh kiến bất sanh kiến, thường kiến vô thường kiến, tướng kiến vô tướng kiến.
 
 ¹ Bản Ngụy nói: Ly tự tánh kiến, chẳng ly tự tánh kiến.
 ² Bản Đường: Câu thiện xảo, câu phi thiện xảo.
 
-> ¹ Bản Đường: Đây và nghĩa các câu khác.
+Bản Đường: Câu chi phần.
 
+Bản Đường không có câu này.
 
+Bản Đường: Câu chúng tộc.
+
+Bản Ngụy: Câu tiêu tướng, câu phi tiêu tướng.
+
+Bản Đường: Câu hữu câu phi hữu. Câu vô câu phi vô.
+
+Bản Đường dịch: Câu tự chứng thánh trí, câu phi tự chứng thánh trí.
+
+Bản Đường: Câu phi trần.
+
+Bản Đường: Câu đại chúng, câu phi đại chúng.
+
+Bản Đường: Câu toán số, câu phi toán số.
+
+Bản Đường: Câu thần thông, câu phi thần thông.
+
+Bản Ngụy: Tịch tịnh kiến phi tịch tịnh kiến.
+
+Bản Đường dịch: Câu thể tánh, câu phi thể tánh.
+
+Bản Đường dịch: Câu sơ trí, câu phi sơ trí.
+
+2 bản dịch đều nói: Câu đường diệm.
+
+Bản Đường dịch: Câu hòa luân, câu phi hòa luân.
+
+Bản Đường: Câu diệt, câu phi diệt. Câu khởi, câu phi khởi.
+
+Bản Đường: Câu y phương câu tướng, câu phi tướng.
+
+¹ Từ phần đầu kinh đến câu kết luận này là ở trong phạm vi nhất tâm chân như, vì thế Phật không giải thích, chỉ đáp “Phi”. Cần lưu ý!
+
+¹ Chỗ khác nói là: Biến kế, Y tha, Viên thành.
+² Chữ Luận trong hầu hết bản này là chỉ cho Luận Đại Thừa Khởi Tín.
 
 <hr class="blog-rule" />
 
