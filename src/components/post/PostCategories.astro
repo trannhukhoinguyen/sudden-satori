@@ -15,7 +15,7 @@ const base = import.meta.env.BASE_URL;
                     }
 
                     {
-                        frontmatter.categories.map((category: string) => <a href={`${base}categories/${cleanSlug(cat)}`}>
+                        frontmatter.categories.map((category: string) => <a href={`${base}categories/${cleanSlug(category)}`}>
                                     <span class="badge badge-label badge-category">{category}</span>
                                 </a>
                         )
