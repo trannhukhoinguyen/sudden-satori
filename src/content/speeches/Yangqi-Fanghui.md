@@ -1,5 +1,5 @@
 ---
-title: "PHƯƠNG HỘI NGỮ LỤC"
+title: "DƯƠNG KỲ PHƯƠNG HỘI NGỮ LỤC"
 description: "THIỀN SƯ DƯƠNG KỲ PHƯƠNG HỘI NGỮ LỤC"
 excerpt: "THIỀN SƯ DƯƠNG KỲ PHƯƠNG HỘI NGỮ LỤC"
 categories: 

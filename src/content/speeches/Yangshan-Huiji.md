@@ -1,7 +1,7 @@
 ---
 title: "NGƯỠNG SƠN NGỮ LỤC"
-description: ""
-excerpt: "...."
+description: "THIỀN SƯ NGƯỠNG SƠN HUỆ TỊCH NGỮ LỤC"
+excerpt: "THIỀN SƯ NGƯỠNG SƠN HUỆ TỊCH NGỮ LỤC"
 categories: 
   - Ngữ Lục
 tags: 

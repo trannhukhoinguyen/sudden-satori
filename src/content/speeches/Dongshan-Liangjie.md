@@ -1,5 +1,5 @@
 ---
-title: "ĐỘNG SƠN NGỮ LỤC"
+title: "ĐỘNG SƠN LƯƠNG GIỚI NGỮ LỤC"
 description: "THIỀN SƯ ĐỘNG SƠN LƯƠNG GIỚI NGỮ LỤC"
 excerpt: "THIỀN SƯ ĐỘNG SƠN LƯƠNG GIỚI NGỮ LỤC"
 categories: 

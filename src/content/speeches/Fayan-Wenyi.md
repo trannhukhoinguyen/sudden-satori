@@ -1,5 +1,5 @@
 ---
-title: "PHÁP NHÃN NGỮ LỤC"
+title: "PHÁP NHÃN VĂN ÍCH NGỮ LỤC"
 description: "THIỀN SƯ PHÁP NHÃN VĂN ÍCH NGỮ LỤC"
 excerpt: "THIỀN SƯ PHÁP NHÃN VĂN ÍCH NGỮ LỤC"
 categories: 

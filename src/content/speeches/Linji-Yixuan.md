@@ -1,7 +1,7 @@
 ---
 title: "LÂM TẾ NGỮ LỤC"
-description: ""
-excerpt: "...."
+description: "THIỀN SƯ LÂM TẾ NGHĨA HUYỀN NGỮ LỤC"
+excerpt: "THIỀN SƯ LÂM TẾ NGHĨA HUYỀN NGỮ LỤC"
 categories: 
   - Ngữ Lục
 tags:

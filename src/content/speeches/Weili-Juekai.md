@@ -1,7 +1,7 @@
 ---
 title: "DUY LỰC NGỮ LỤC"
-description: ""
-excerpt: ""
+description: "THIỀN SƯ DUY LỰC GIÁC KHAI NGỮ LỤC"
+excerpt: "THIỀN SƯ DUY LỰC GIÁC KHAI NGỮ LỤC"
 authors:
   - TS DUY LỰC GIÁC KHAI
 categories:

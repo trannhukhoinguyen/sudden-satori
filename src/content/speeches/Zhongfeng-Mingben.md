@@ -1,7 +1,7 @@
 ---
 title: "TRUNG PHONG PHÁP NGỮ"
-description: ""
-excerpt: ""
+description: "THIỀN SƯ TRUNG PHONG MINH BỔN NGỮ LỤC"
+excerpt: "THIỀN SƯ TRUNG PHONG MINH BỔN NGỮ LỤC"
 authors:
   - TS TRUNG PHONG MINH BỔN
 categories:

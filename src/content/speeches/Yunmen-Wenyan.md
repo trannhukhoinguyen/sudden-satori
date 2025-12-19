@@ -1,7 +1,7 @@
 ---
 title: "VÂN MÔN NGỮ LỤC"
-description: ""
-excerpt: "...."
+description: "THIỀN SƯ VÂN MÔN VĂN YỂN NGỮ LỤC"
+excerpt: "THIỀN SƯ VÂN MÔN VĂN YỂN NGỮ LỤC"
 categories: 
   - Ngữ Lục
 tags: 

@@ -1,5 +1,5 @@
 ---
-title: "BÁCH TRƯỢNG NGỮ LỤC"
+title: "BÁCH TRƯỢNG HOÀI HẢI NGỮ LỤC"
 description: "THIỀN SƯ BÁCH TRƯỢNG HOÀI HẢI NGỮ LỤC"
 excerpt: "THIỀN SƯ BÁCH TRƯỢNG HOÀI HẢI NGỮ LỤC"
 categories: 

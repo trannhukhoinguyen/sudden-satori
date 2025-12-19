@@ -1,7 +1,7 @@
 ---
 title: "TRIỆU CHÂU NGỮ LỤC"
-description: ""
-excerpt: "...."
+description: "THIỀN SƯ TRIỆU CHÂU TÙNG THẨM NGỮ LỤC"
+excerpt: "THIỀN SƯ TRIỆU CHÂU TÙNG THẨM NGỮ LỤC"
 categories: 
   - Ngữ Lục
 tags: 

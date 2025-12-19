@@ -1,7 +1,7 @@
 ---
-title: "PHÁP NGỮ THIỀN SƯ HƯ VÂN"
-description: ""
-excerpt: "...."
+title: "PHÁP NGỮ THIỀN SƯ HƯ VÂN DIỄN TRIỆT"
+description: "THIỀN SƯ HƯ VÂN DIỄN TRIỆT NGỮ LỤC"
+excerpt: "THIỀN SƯ HƯ VÂN DIỄN TRIỆT NGỮ LỤC"
 categories: 
   - Ngữ Lục
 tags: 

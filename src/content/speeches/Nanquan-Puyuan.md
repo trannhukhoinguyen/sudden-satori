@@ -1,5 +1,5 @@
 ---
-title: "NAM TUYỀN NGỮ LỤC"
+title: "NAM TUYỀN PHỔ NGUYỆN NGỮ LỤC"
 description: "THIỀN SƯ NAM TUYỀN PHỔ NGUYỆN NGỮ LỤC"
 excerpt: "THIỀN SƯ NAM TUYỀN PHỔ NGUYỆN NGỮ LỤC"
 categories: 

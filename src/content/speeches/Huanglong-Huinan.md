@@ -1,5 +1,5 @@
 ---
-title: "HOÀNG LONG NGỮ LỤC"
+title: "HOÀNG LONG HUỆ NAM NGỮ LỤC"
 description: "THIỀN SƯ HOÀNG LONG HUỆ NAM NGỮ LỤC"
 excerpt: "THIỀN SƯ HOÀNG LONG HUỆ NAM NGỮ LỤC"
 categories: 

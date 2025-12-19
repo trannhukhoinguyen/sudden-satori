@@ -1,7 +1,7 @@
 ---
 title: "THAM THIỀN CẢNH NGỮ"
-description: ""
-excerpt: ""
+description: "THIỀN SƯ BÁC SƠN NGUYÊN LAI NGỮ LỤC"
+excerpt: "THIỀN SƯ BÁC SƠN NGUYÊN LAI NGỮ LỤC"
 authors:
   - TS VÔ DỊ NGUYÊN LAI (BÁC SƠN)
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "QUY SƠN NGỮ LỤC"
+title: "QUY SƠN LINH HỰU NGỮ LỤC"
 description: "THIỀN SƯ QUY SƠN LINH HỰU NGỮ LỤC"
 excerpt: "THIỀN SƯ QUY SƠN LINH HỰU NGỮ LỤC"
 categories: 

@@ -1,5 +1,5 @@
 ---
-title: "ĐẠI HUỆ NGỮ LỤC"
+title: "ĐẠI HUỆ TÔNG CẢO NGỮ LỤC"
 description: "THIỀN SƯ ĐẠI HUỆ TÔNG CẢO NGỮ LỤC"
 excerpt: "THIỀN SƯ ĐẠI HUỆ TÔNG CẢO NGỮ LỤC"
 categories: 
