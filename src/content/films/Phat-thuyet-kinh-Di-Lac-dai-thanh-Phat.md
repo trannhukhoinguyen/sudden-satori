@@ -8,6 +8,6 @@ tags:
   - Phim Phật Giáo
   - Phật Thuyết Kinh Di Lặc Đại Thành Phật
 videoIds:
-  - 9u8vKZV7R5Q
+  - BHnsyHikoBE
 ---
 
