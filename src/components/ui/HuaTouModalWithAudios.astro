@@ -1,9 +1,8 @@
-<!-- Include this in your Astro layout, e.g. src/layouts/Base.astro -->
-<script>
-    const KOAN_KEY = 'koan_selected_question';
-    const KOAN_SUPPRESS = 'koan_suppress_until';
+<script is:inline>
+    const HUATOU_KEY = 'huatou_selected_question';
+    const HUATOU_SUPPRESS = 'huatou_suppress_until';
 
-    const koans = [
+    const huatous = [
         { text: 'Khi chưa có trời đất, ta là cái gì?', audio: '/audios/thoai-dau/Khi chưa có trời đất, ta là cái gì.m4a' },
         { text: 'Muôn pháp về một, một về chỗ nào?', audio: '/audios/thoai-dau/Muôn pháp về một, một về chỗ nào.m4a' },
         { text: 'Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?', audio: '/audios/thoai-dau/Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao.m4a' },
@@ -11,11 +10,30 @@
         { text: 'Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì?', audio: '/audios/thoai-dau/Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì.m4a' },
         { text: 'Chẳng cùng muôn pháp làm bạn là người gì?', audio: '/audios/thoai-dau/Chẳng cùng muôn pháp làm bạn, là người gì.m4a' }
     ];
+    /* ------------------ AUDIO PRELOAD ------------------ */
+    const audioCache = {};
 
+    function preloadAudios() {
+        huatous.forEach((h, i) => {
+            const a = new Audio(h.audio);
+            a.preload = 'auto';
+            audioCache[i] = a;
+        });
+    }
+
+    function playHuatou(index) {
+        const audio = audioCache[index];
+        if (!audio) return;
+
+        audio.currentTime = 0;
+        audio.volume = 1;
+        audio.play().catch(() => {});
+    }
+
+    /* ------------------ MODAL LOGIC ------------------ */
     function shouldSuppress() {
-        const ts = localStorage.getItem(KOAN_SUPPRESS);
-        if (!ts) return false;
-        return Date.now() < Number(ts);
+        const ts = localStorage.getItem(HUATOU_SUPPRESS);
+        return ts && Date.now() < Number(ts);
     }
 
     function showInitialModal() {
@@ -23,78 +41,58 @@
         wrapper.innerHTML = `
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
-          <h3>Chọn một câu thoại đầu</h3>
-          <form id="koan-form">
-            ${koans.map((k,i)=>`<label style='display:block;margin:8px 0;'>
-              <input required type='radio' name='koan' value='${i}'> ${k}
-            </label>`).join('')}
-            <button type="submit" style="margin-top:12px;width:100%;padding:8px;">OK</button>
+          <h3 style="text-align:center">Xin chọn một câu thoại đầu</h3>
+          <form id="huatou-form">
+            ${huatous.map((h,i)=>`
+              <label style="display:block;margin:8px 0">
+                <input required type="radio" name="huatou" value="${i}"> ${h.text}
+              </label>`).join('')}
+            <button type="submit" style="margin-top:12px;width:100%">OK</button>
           </form>
         </div>
       </div>`;
         document.body.appendChild(wrapper);
 
-        wrapper.querySelector('#koan-form').addEventListener('submit', e => {
+        wrapper.querySelector('#huatou-form').onsubmit = e => {
             e.preventDefault();
-            const index = wrapper.querySelector('input[name="koan"]:checked').value;
-            localStorage.setItem(KOAN_KEY, index);
-            playKoanAudio(Number(index));
-            wrapper.remove();
-        });
-    }
-
-    let userInteracted = false;
-    window.addEventListener('click', () => { userInteracted = true; }, { once: true });
-
-    function playKoanAudio(index) {
-        const src = koans[index]?.audio;
-        if (!src) return;
-
-        // dừng audio cũ nếu có
-        if (window.__koanAudio) {
-            window.__koanAudio.pause();
-            window.__koanAudio.currentTime = 0;
-        }
-
-        const audio = new Audio(src);
-        audio.volume = 1.0;
-        audio.play().catch(() => {});
-        window.__koanAudio = audio;
-    }(koans[koanIndex]);
-
-    showReminderModal(koanIndex) {
-        const wrapper = document.createElement('div');
-        wrapper.innerHTML = `
-      <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
-        <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
-          <p><strong>${koans[koanIndex]}</strong></p>
-          <p>NHỚ CHIẾU CỐ THOẠI ĐẦU (Hỏi & Nhìn vào chỗ Không biết)</p>
-          <button id="suppress" style="margin-top:12px;width:100%;padding:8px;">Tạm dừng hiện modal trong 24 giờ khi truy cập web (Hãy tinh tấn đi!)</button>
-          <button id="close" style="margin-top:12px;width:100%;padding:8px;">Đã rõ</button>
-        </div>
-      </div>`;
-        document.body.appendChild(wrapper);
-
-        wrapper.querySelector('#close').onclick = () => wrapper.remove();
-
-        wrapper.querySelector('#suppress').onclick = () => {
-            const until = Date.now() + 24 * 60 * 60 * 1000; // 24h
-            localStorage.setItem(KOAN_SUPPRESS, until);
+            const index = Number(wrapper.querySelector('input[name="huatou"]:checked').value);
+            localStorage.setItem(HUATOU_KEY, index.toString());
+            playHuatou(index);
             wrapper.remove();
         };
     }
 
+    function showReminderModal(index) {
+        const wrapper = document.createElement('div');
+        wrapper.innerHTML = `
+      <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
+        <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
+          <h2 style="color:red;text-align:center">${huatous[index].text}</h2>
+          <h3 style="text-align:center">NHỚ CHIẾU CỐ THOẠI ĐẦU</h3>
+          <p style="text-align:center"><em>(Hỏi & Nhìn vào chỗ KHÔNG BIẾT)</em></p>
+          <button id="suppress" style="width:100%;margin-top:10px">Tạm ẩn 1 giờ</button>
+          <button id="close" style="width:100%;margin-top:10px;background:darkred;color:white">Đã rõ</button>
+        </div>
+      </div>`;
+        document.body.appendChild(wrapper);
+
+        playHuatou(index);
+
+        wrapper.querySelector('#close').onclick = () => wrapper.remove();
+        wrapper.querySelector('#suppress').onclick = () => {
+            localStorage.setItem(HUATOU_SUPPRESS, (Date.now() + 3600000).toString());
+            wrapper.remove();
+        };
+    }
+
+    /* ------------------ BOOT ------------------ */
     window.addEventListener('DOMContentLoaded', () => {
-        const saved = localStorage.getItem(KOAN_KEY);
+        preloadAudios();
 
-        if (!saved) {
-            showInitialModal();
-            return;
-        }
+        const saved = localStorage.getItem(HUATOU_KEY);
+        if (!saved) return showInitialModal();
 
-        if (!shouldSuppress()) {
-            playKoanAudio(Number(saved));
-            showReminderModal(Number(saved));
-        }
+        playHuatou(Number(saved));
+        if (!shouldSuppress()) showReminderModal(Number(saved));
     });
 </script>
