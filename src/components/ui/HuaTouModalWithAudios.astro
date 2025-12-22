@@ -1,0 +1,105 @@
+<!-- Include this in your Astro layout, e.g. src/layouts/Base.astro -->
+<script>
+    const KOAN_KEY = 'koan_selected_question';
+    const KOAN_SUPPRESS = 'koan_suppress_until';
+
+    const koans = [
+        { text: 'Khi chưa có trời đất, ta là cái gì?', audio: '/audios/thoai-dau/Khi chưa có trời đất, ta là cái gì.m4a' },
+        { text: 'Muôn pháp về một, một về chỗ nào?', audio: '/audios/thoai-dau/Muôn pháp về một, một về chỗ nào.m4a' },
+        { text: 'Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao?', audio: '/audios/thoai-dau/Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của ta ra sao.m4a' },
+        { text: 'Sanh từ đâu đến, chết đi về đâu?', audio: '/audios/thoai-dau/Sanh từ đâu đến, chết đi về đâu.m4a' },
+        { text: 'Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì?', audio: '/audios/thoai-dau/Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì.m4a' },
+        { text: 'Chẳng cùng muôn pháp làm bạn là người gì?', audio: '/audios/thoai-dau/Chẳng cùng muôn pháp làm bạn, là người gì.m4a' }
+    ];
+
+    function shouldSuppress() {
+        const ts = localStorage.getItem(KOAN_SUPPRESS);
+        if (!ts) return false;
+        return Date.now() < Number(ts);
+    }
+
+    function showInitialModal() {
+        const wrapper = document.createElement('div');
+        wrapper.innerHTML = `
+      <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
+        <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
+          <h3>Chọn một câu thoại đầu</h3>
+          <form id="koan-form">
+            ${koans.map((k,i)=>`<label style='display:block;margin:8px 0;'>
+              <input required type='radio' name='koan' value='${i}'> ${k}
+            </label>`).join('')}
+            <button type="submit" style="margin-top:12px;width:100%;padding:8px;">OK</button>
+          </form>
+        </div>
+      </div>`;
+        document.body.appendChild(wrapper);
+
+        wrapper.querySelector('#koan-form').addEventListener('submit', e => {
+            e.preventDefault();
+            const index = wrapper.querySelector('input[name="koan"]:checked').value;
+            localStorage.setItem(KOAN_KEY, index);
+            playKoanAudio(Number(index));
+            wrapper.remove();
+        });
+    }
+
+    let userInteracted = false;
+    window.addEventListener('click', () => { userInteracted = true; }, { once: true });
+
+    function playKoanAudio(index) {
+        const src = koans[index]?.audio;
+        if (!src) return;
+        const audio = new Audio(src);
+        audio.volume = 1.0;
+        audio.play().catch(() => {});
+    } {
+        if (!window.speechSynthesis) return;
+        if (!userInteracted) return; // prevent autoplay block
+        const msg = new SpeechSynthesisUtterance(text);
+        msg.lang = 'vi-VN';
+        window.speechSynthesis.speak(msg);
+    }(koans[koanIndex]);
+    showReminderModal(koanIndex) {
+        const wrapper = document.createElement('div');
+        wrapper.innerHTML = `
+      <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
+        <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
+          <p><strong>${koans[koanIndex]}</strong></p>
+          <p>NHỚ CHIẾU CỐ THOẠI ĐẦU (Hỏi & Nhìn vào chỗ Không biết)</p>
+          <button id="suppress" style="margin-top:12px;width:100%;padding:8px;">Tạm dừng hiện modal trong 24 giờ khi truy cập web (Hãy tinh tấn đi!)</button>
+          <button id="close" style="margin-top:12px;width:100%;padding:8px;">Đã rõ</button>
+        </div>
+      </div>`;
+        document.body.appendChild(wrapper);
+
+        wrapper.querySelector('#close').onclick = () => wrapper.remove();
+
+        wrapper.querySelector('#suppress').onclick = () => {
+            const until = Date.now() + 24 * 60 * 60 * 1000; // 24h
+            localStorage.setItem(KOAN_SUPPRESS, until);
+            wrapper.remove();
+        };
+    }
+
+    // --- Text-to-Speech helper ---
+    function speak(text) {
+        if (!window.speechSynthesis) return;
+        const msg = new SpeechSynthesisUtterance(text);
+        msg.lang = 'vi-VN';
+        window.speechSynthesis.speak(msg);
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
+        const saved = localStorage.getItem(KOAN_KEY);
+
+        if (!saved) {
+            showInitialModal();
+            return;
+        }
+
+        if (!shouldSuppress()) {
+            playKoanAudio(Number(saved));
+            showReminderModal(Number(saved));
+        }
+    });
+</script>

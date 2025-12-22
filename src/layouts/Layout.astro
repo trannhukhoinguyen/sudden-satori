@@ -22,6 +22,7 @@ import SEO from '../components/page/SEO.astro';
 import BackToTop from '../components/ui/BackToTop.astro';
 import KeisakuSlap from "../components/ui/KeisakuSlap.astro";
 import HuaTouModal from "../components/ui/HuaTouModal.astro";
+import HuaTouModalWithAudios from "../components/ui/HuaTouModalWithAudios.astro";
 
 
 import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../config';
@@ -48,7 +49,7 @@ const {
   description,
   excerpt,
   showSidebar = true,
-  image = '/images/backgrounds/thien-dinh-cua-Phat.jpg',
+  image = '/images/backgrounds/Buddha-zen.jpg',
   type,
   publishedTime,
   modifiedTime,
@@ -187,7 +188,9 @@ const schema = {
 
     <!--<KeisakuSlap />-->
 
-    <HuaTouModal />
+<!--    <HuaTouModal />-->
+
+    <HuaTouModalWithAudios />
 
     <main class="main-content" class:list={{ 'with-sidebar': showSidebar }}>
     <div class="content">
