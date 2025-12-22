@@ -49,16 +49,19 @@
     function playKoanAudio(index) {
         const src = koans[index]?.audio;
         if (!src) return;
+
+        // dừng audio cũ nếu có
+        if (window.__koanAudio) {
+            window.__koanAudio.pause();
+            window.__koanAudio.currentTime = 0;
+        }
+
         const audio = new Audio(src);
         audio.volume = 1.0;
         audio.play().catch(() => {});
-    } {
-        if (!window.speechSynthesis) return;
-        if (!userInteracted) return; // prevent autoplay block
-        const msg = new SpeechSynthesisUtterance(text);
-        msg.lang = 'vi-VN';
-        window.speechSynthesis.speak(msg);
+        window.__koanAudio = audio;
     }(koans[koanIndex]);
+
     showReminderModal(koanIndex) {
         const wrapper = document.createElement('div');
         wrapper.innerHTML = `
@@ -79,14 +82,6 @@
             localStorage.setItem(KOAN_SUPPRESS, until);
             wrapper.remove();
         };
-    }
-
-    // --- Text-to-Speech helper ---
-    function speak(text) {
-        if (!window.speechSynthesis) return;
-        const msg = new SpeechSynthesisUtterance(text);
-        msg.lang = 'vi-VN';
-        window.speechSynthesis.speak(msg);
     }
 
     window.addEventListener('DOMContentLoaded', () => {
