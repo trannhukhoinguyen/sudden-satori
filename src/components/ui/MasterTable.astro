@@ -1,87 +1,235 @@
 ---
-const { data, headRows } = Astro.props;
+import masterData from "../../data/masters/AllMasterDb.tsx";
 ---
 
 <section class="table">
-  <input type="text" id="searchInput" placeholder="Search table...">
-  <table id="myTable">
+  <h2 class="title-accent-centered">BẢNG DANH SÁCH THIỀN SƯ</h2>
+
+  <div class="toolbox"                                                                                                                  >
+    <input type="text" id="inpValue" placeholder="Type here to filter the table below by name or country.." />
+    <button id="btnClear">Clear (hoặc click ESC)</button>
+
+<!--    <div class="control-panel">
+
+      <label class="label"><input id="rbName" type="checkbox" name="checkbox" checked/>
+        India</label>
+
+      <label class="label"><input id="rbCountry" type="checkbox" name="checkbox" />
+        China</label>
+
+      <label class="label"><input id="cbCaseSns" type="checkbox" name="checkbox" />
+        Japan</label>
+
+      <label class="label"><input id="rbCountry" type="checkbox" name="checkbox" />
+        Vietnam</label>
+
+      <label class="label"><input id="cbCaseSns" type="checkbox" name="checkbox" />
+        Korea</label>
+
+    </div>-->
+  </div>
+
+  <table>
     <thead>
-      <tr>
-        { headRows?.map((key: string) => <th>{key.toUpperCase()}</th>) }
-      </tr>
+    <tr>
+      <th class="table-head">ID</th>
+      <th class="table-head">Tên</th>
+      <th class="table-head">Nước</th>
+      <th class="table-head">Thầy</th>
+      <th class="table-head">Trò</th>
+    </tr>
     </thead>
     <tbody>
-      {
-        data
-            ?.map((tr: any) => <tr>
-              { Object.values(tr)?.map((value: any) => <td>{value}</td>) }
-            </tr>
-        )
-      }
+
+    {
+        masterData?.length
+        && masterData?.map((master: any) => <tr>
+          <td class="table-data">{ master.id }</td>
+          <td class="table-data">{ master.name_en }</td>
+          <td class="table-data">{ master.country }</td>
+          <td class="table-data">{ master.teachers?.join(', ') }</td>
+          <td class="table-data">{ master.disciples?.join(', ') }</td>
+        </tr>)
+    }
+
     </tbody>
   </table>
+
+  <div class="pagination" id="pagination"></div>
 </section>
 
 <style>
 .table {
   position: relative;
   font-family: sans-serif;
-  padding: 20px;
+  padding: 4px;
   overflow: scroll;
-}
 
-#myTable {
-  margin-top: 48px;
-  overflow: scroll;
-}
+  .toolbox {
+    text-align: center;
+    padding: 5px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 2px;
+    margin-bottom: 20px;
+  }
 
-.table #searchInput {
-  position: fixed;
-  //width: 100%;
-  padding: 8px;
-  box-sizing: border-box;
-}
+  .info-panel p {
+    font-size: 12px;
+  }
 
-.table table {
-  width: 100%;
-  border-collapse: collapse;
-}
+  a {
+    text-decoration: none;
+    font-size: 12px;
+  }
 
-.table th, td {
-  border: 1px solid var(--color-border);
-  padding: 8px;
-  text-align: left;
-}
+  #inpValue {
+    width: 90%;
 
-.table th {
-  background-color: var(--color-background);
+    margin: 10px 2px 2px 10px;
+    padding: 5px;
+    border: 1px solid #eee;
+  }
+
+  .control-panel {
+    padding: 5px;
+  }
+
+  label {
+    display: inline-block;
+    color: var(--color-accent-maroon);
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+
+  th {
+    background-color: var(--color-text-title-accent);
+    padding: 5px;
+    color: var(--color-accent-maroon);
+  }
+
+  tr {
+    border-bottom: 1px solid #ddd;
+  }
+
+  tr th:first-child {
+    //width: 70%;
+  }
+
+  td {
+    padding: 5px;
+  }
+
+  .pagination button {
+    margin: 3px;
+    padding: 5px 8px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+  }
+
+  .pagination button.active {
+    background: #007bff;
+    color: white;
+  }
 }
 </style>
 
 <script is:inline>
-document.addEventListener('DOMContentLoaded', function() {
-  const searchInput = document.getElementById('searchInput');
-  const table = document.getElementById('myTable');
-  const tr = table.getElementsByTagName('tr');
+  // ===== Controls =====
+  const btnClear = document.getElementById("btnClear");
+  const inpValue = document.getElementById("inpValue");
+  const rbName = document.getElementById("rbName");
+  const rbCountry = document.getElementById("rbCountry");
+  const cbCaseSns = document.getElementById("cbCaseSns");
 
-  searchInput.addEventListener('keyup', function() {
-    const filter = searchInput.value.toUpperCase();
+  // ===== Table rows =====
+  const table = document.querySelector("table tbody");
+  const rows = Array.from(table.querySelectorAll("tr"));
 
-    for (let i = 1; i < tr.length; i++) { // Start from 1 to skip table header
-      let rowVisible = false;
-      const td = tr[i].getElementsByTagName('td');
-      for (let j = 0; j < td.length; j++) {
-        const cell = td[j];
-        if (cell) {
-          const textValue = cell.textContent || cell.innerText;
-          if (textValue.toUpperCase().indexOf(filter) > -1) {
-            rowVisible = true;
-            break; // Found a match in this row, no need to check other cells
-          }
-        }
-      }
-      tr[i].style.display = rowVisible ? '' : 'none';
-    }
+  // ===== Pagination =====
+  const rowsPerPage = 10;
+  let currentPage = 1;
+
+  // ===== Events =====
+  btnClear.addEventListener("click", () => {
+    inpValue.value = "";
+    applyFilter();
   });
-});
+
+  cbCaseSns.addEventListener("click", applyFilter);
+  rbName.addEventListener("click", applyFilter);
+  rbCountry.addEventListener("click", applyFilter);
+
+  inpValue.addEventListener("keyup", e => {
+    if (e.key === "Escape") inpValue.value = "";
+    applyFilter();
+  });
+
+  // ===== Filter logic =====
+  function applyFilter() {
+    const caseFlag = cbCaseSns.checked ? "" : "i";
+    const pattern = new RegExp(inpValue.value, caseFlag);
+    const tdNum = rbName.checked ? 0 : 1;
+
+    rows.forEach(row => {
+      const td = row.getElementsByTagName("td")[tdNum];
+      row.dataset.match = td && td.innerHTML.search(pattern) > -1
+          ? "true"
+          : "false";
+    });
+
+    currentPage = 1; // reset page khi filter đổi
+    paginate();
+  }
+
+  // ===== Pagination logic =====
+  function paginate() {
+    const matchedRows = rows.filter(r => r.dataset.match === "true");
+    const pageCount = Math.ceil(matchedRows.length / rowsPerPage);
+
+    // hide all
+    rows.forEach(r => (r.style.display = "none"));
+
+    // show current page
+    const start = (currentPage - 1) * rowsPerPage;
+    const end = start + rowsPerPage;
+
+    matchedRows.slice(start, end).forEach(r => {
+      r.style.display = "";
+    });
+
+    buildPagination(pageCount);
+  }
+
+  // ===== Pagination buttons =====
+  function buildPagination(pageCount) {
+    const paginationEl = document.getElementById("pagination");
+    paginationEl.innerHTML = "";
+
+    if (pageCount <= 1) return;
+
+    for (let p = 1; p <= pageCount; p++) {
+      const btn = document.createElement("button");
+      btn.textContent = p;
+      if (p === currentPage) btn.classList.add("active");
+
+      btn.addEventListener("click", () => {
+        currentPage = p;
+        paginate();
+      });
+
+      paginationEl.appendChild(btn);
+    }
+  }
+
+  // ===== Init =====
+  rows.forEach(r => (r.dataset.match = "true"));
+  paginate();
 </script>
+

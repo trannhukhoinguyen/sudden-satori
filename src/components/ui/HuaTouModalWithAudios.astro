@@ -44,7 +44,7 @@
           <h3 style="text-align:center">Xin chọn một câu thoại đầu</h3>
           <form id="huatou-form">
             ${huatous.map((h,i)=>`
-              <label style="display:block;margin:8px 0">
+              <label class="tag-line-accent" style="display:block;margin:8px 0">
                 <input required type="radio" name="huatou" value="${i}"> ${h.text}
               </label>`).join('')}
             <button type="submit" style="margin-top:12px;width:100%">OK</button>
@@ -67,9 +67,9 @@
         wrapper.innerHTML = `
       <div style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:9999;">
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
-          <h2 style="color:red;text-align:center">${huatous[index].text}</h2>
-          <h3 style="text-align:center">NHỚ CHIẾU CỐ THOẠI ĐẦU</h3>
-          <p style="text-align:center"><em>(Hỏi & Nhìn vào chỗ KHÔNG BIẾT)</em></p>
+          <h2 class="tag-line-accent" style="color: red"><strong>${huatous[index].text}</strong></h2>
+          <h3 style="text-align: center">NHỚ CHIẾU CỐ THOẠI ĐẦU</h3>
+          <h4 style="text-align: center"><em>(Hỏi & Nhìn vào chỗ KHÔNG BIẾT)</em></p>
           <button id="suppress" style="width:100%;margin-top:10px">Tạm ẩn 1 giờ</button>
           <button id="close" style="width:100%;margin-top:10px;background:darkred;color:white">Đã rõ</button>
         </div>

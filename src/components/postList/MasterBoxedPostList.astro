@@ -4,6 +4,7 @@ import {config} from "@/config";
 import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
+import MasterTable from "../ui/MasterTable.astro";
 
 const {
     posts,
@@ -74,3 +75,5 @@ const postsGroupedBySpecialTag = groupsSorted
 
     ) : <p>{noPost}</p>
 }
+
+<MasterTable />

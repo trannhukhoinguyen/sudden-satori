@@ -29,9 +29,10 @@
         <div style="background:white;padding:20px;border-radius:12px;max-width:450px;width:90%;">
           <h3 style="text-align: center">Xin Chọn một câu thoại đầu</h3>
           <form id="huatou-form">
-            ${huatous.map((k,i)=>`<label class="tag-line-accent" style='display:block;margin:8px 0'>
-              <input required type='radio' name='huatou' value='${i}'> ${k}
-            </label>`).join('')}
+            ${huatous.map((k,i)=>`
+                <label class="tag-line-accent" style='display:block;margin:8px 0'>
+                  <input required type='radio' name='huatou' value='${i}'> ${k}
+                </label>`).join('')}
             <button type="submit" style="margin-top:12px;width:100%;padding:8px;">OK</button>
           </form>
         </div>
