@@ -37,7 +37,6 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
       <th class="table-head">Tên Việt</th>
       <th class="table-head">Nước</th>
       <th class="table-head">Thầy</th>
-      <th class="table-head">Trò</th>
     </tr>
     </thead>
     <tbody>
@@ -50,7 +49,6 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
           <td data-label="Tên Việt" class="table-data">{ master.name_vi }</td>
           <td data-label="Nước" class="table-data">{ master.country }</td>
           <td data-label="Thầy" class="table-data">{ master.teachers?.join(', ') }</td>
-          <td data-label="Trò" class="table-data">{ master.disciples?.join(', ') }</td>
         </tr>)
     }
 
@@ -139,6 +137,70 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
     background: #cc9c04;
     color: white;
   }
+
+  #pagination .dots {
+      display: flex;
+      align-items: center;
+      padding: 0 6px;
+      color: #777;
+      font-weight: 600;
+      user-select: none;
+  }
+    #pagination {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;                 /* khoảng cách giữa các nút */
+        margin-top: 16px;
+        justify-content: center;  /* căn giữa */
+    }
+
+    #pagination button {
+        min-width: 44px;          /* chuẩn touch mobile */
+        height: 44px;
+        padding: 0 12px;
+
+        border-radius: 6px;
+        border: 1px solid #ccc;
+
+        background: #fff;
+        color: #333;
+
+        font-size: 14px;
+        font-weight: 500;
+
+        cursor: pointer;
+        transition: all 0.2s ease;
+    }
+
+    /* Hover */
+    #pagination button:hover {
+        background: #f0f0f0;
+    }
+
+    /* Active page */
+    #pagination button.active {
+        background: #007bff;
+        color: #fff;
+        border-color: #007bff;
+    }
+
+    /* Disabled (nếu có dùng Prev / Next) */
+    #pagination button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+    }
+
+    @media (max-width: 480px) {
+        #pagination {
+            gap: 10px;
+        }
+
+        #pagination button {
+            min-width: 48px;
+            height: 48px;
+            font-size: 15px;
+        }
+    }
 }
 </style>
 
@@ -146,9 +208,6 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
   // ===== Controls =====
   const btnClear = document.getElementById("btnClear");
   const inpValue = document.getElementById("inpValue");
-  const rbName = document.getElementById("rbName");
-  const rbCountry = document.getElementById("rbCountry");
-  const cbCaseSns = document.getElementById("cbCaseSns");
 
   // ===== Table rows =====
   const table = document.querySelector("table tbody");
@@ -161,34 +220,11 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
   // ===== Events =====
   btnClear.addEventListener("click", () => {
     inpValue.value = "";
-    applyFilter();
   });
-
-  cbCaseSns.addEventListener("click", applyFilter);
-  rbName.addEventListener("click", applyFilter);
-  rbCountry.addEventListener("click", applyFilter);
 
   inpValue.addEventListener("keyup", e => {
     if (e.key === "Escape") inpValue.value = "";
-    applyFilter();
   });
-
-  // ===== Filter logic =====
-  function applyFilter() {
-    const caseFlag = cbCaseSns.checked ? "" : "i";
-    const pattern = new RegExp(inpValue.value, caseFlag);
-    const tdNum = rbName.checked ? 0 : 1;
-
-    rows.forEach(row => {
-      const td = row.getElementsByTagName("td")[tdNum];
-      row.dataset.match = td && td.innerHTML.search(pattern) > -1
-          ? "true"
-          : "false";
-    });
-
-    currentPage = 1; // reset page khi filter đổi
-    paginate();
-  }
 
   // ===== Pagination logic =====
   function paginate() {
@@ -216,19 +252,63 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
 
     if (pageCount <= 1) return;
 
-    for (let p = 1; p <= pageCount; p++) {
+    const maxVisible = 5;
+    const half = Math.floor(maxVisible / 2);
+
+    let start = Math.max(2, currentPage - half);
+    let end = Math.min(pageCount - 1, currentPage + half);
+
+    // Điều chỉnh khi gần đầu
+    if (currentPage <= half + 1) {
+      start = 2;
+      end = Math.min(pageCount - 1, maxVisible + 1);
+    }
+
+    // Điều chỉnh khi gần cuối
+    if (currentPage >= pageCount - half) {
+      start = Math.max(2, pageCount - maxVisible);
+      end = pageCount - 1;
+    }
+
+    // Page 1
+    addPageButton(1);
+
+    // Dấu ...
+    if (start > 2) addDots();
+
+    // Các page giữa
+    for (let p = start; p <= end; p++) {
+      addPageButton(p);
+    }
+
+    // Dấu ...
+    if (end < pageCount - 1) addDots();
+
+    // Page cuối
+    addPageButton(pageCount);
+
+    // ===== helpers =====
+    function addPageButton(page) {
       const btn = document.createElement("button");
-      btn.textContent = p;
-      if (p === currentPage) btn.classList.add("active");
+      btn.textContent = page;
+      if (page === currentPage) btn.classList.add("active");
 
       btn.addEventListener("click", () => {
-        currentPage = p;
+        currentPage = page;
         paginate();
       });
 
       paginationEl.appendChild(btn);
     }
+
+    function addDots() {
+      const span = document.createElement("span");
+      span.textContent = "…";
+      span.className = "dots";
+      paginationEl.appendChild(span);
+    }
   }
+
 
   // ===== Init =====
   rows.forEach(r => (r.dataset.match = "true"));
