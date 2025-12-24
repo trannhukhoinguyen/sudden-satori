@@ -29,11 +29,12 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
     </div>-->
   </div>
 
-  <table class="rwd-table">
+  <table>
     <thead>
     <tr>
       <th class="table-head">ID</th>
       <th class="table-head">Tên</th>
+      <th class="table-head">Tên Việt</th>
       <th class="table-head">Nước</th>
       <th class="table-head">Thầy</th>
       <th class="table-head">Trò</th>
@@ -44,8 +45,9 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
     {
         masterData?.length
         && masterData?.map((master: any) => <tr>
-          <td class="table-data">{ master.id }</td>
+          <td data-label="ID" class="table-data">{ master.id }</td>
           <td data-label="Tên" class="table-data">{ master.name_en }</td>
+          <td data-label="Tên Việt" class="table-data">{ master.name_vi }</td>
           <td data-label="Nước" class="table-data">{ master.country }</td>
           <td data-label="Thầy" class="table-data">{ master.teachers?.join(', ') }</td>
           <td data-label="Trò" class="table-data">{ master.disciples?.join(', ') }</td>
@@ -134,62 +136,9 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
   }
 
   .pagination button.active {
-    background: #007bff;
+    background: #cc9c04;
     color: white;
   }
-
-/* ===== Desktop (default) ===== */
-.rwd-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.rwd-table th,
-.rwd-table td {
-  padding: 8px 10px;
-  border: 1px solid #ddd;
-}
-
-/* ===== Mobile ===== */
-@media (max-width: 768px) {
-  .rwd-table thead {
-    display: none;
-  }
-
-  .rwd-table,
-  .rwd-table tbody,
-  .rwd-table tr,
-  .rwd-table td {
-    display: block;
-    width: 100%;
-  }
-
-  .rwd-table tr {
-    margin-bottom: 12px;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    padding: 6px 0;
-  }
-
-  .rwd-table td {
-    display: flex;
-    justify-content: space-between;
-    padding: 6px 10px;
-    border: none;
-    border-bottom: 1px solid #eee;
-  }
-
-  .rwd-table td:last-child {
-    border-bottom: none;
-  }
-
-  .rwd-table td::before {
-    content: attr(data-label);
-    font-weight: 600;
-    color: #555;
-  }
-}
-
 }
 </style>
 
