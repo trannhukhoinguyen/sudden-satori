@@ -220,12 +220,27 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
   // ===== Events =====
   btnClear.addEventListener("click", () => {
     inpValue.value = "";
+    applyFilter();
   });
 
   inpValue.addEventListener("keyup", e => {
     if (e.key === "Escape") inpValue.value = "";
+    applyFilter();
   });
+  // ===== Filter logic =====
+  function applyFilter() {
+    const pattern = new RegExp(inpValue.value, "i");
 
+    rows.forEach(row => {
+      const td = row.getElementsByTagName("td")[1];
+      row.dataset.match = td && td.innerHTML.search(pattern) > -1
+        ? "true"
+        : "false";
+    });
+
+    currentPage = 1; // reset page khi filter đổi
+    paginate();
+  }
   // ===== Pagination logic =====
   function paginate() {
     const matchedRows = rows.filter(r => r.dataset.match === "true");
