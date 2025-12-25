@@ -62,7 +62,7 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
   font-family: sans-serif;
   padding: 4px;
   width: 100%;
-  overflow: scroll;
+  overflow-x: hidden;   /* chặn kéo ngang */
 
   .toolbox {
     text-align: center;
@@ -122,6 +122,11 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
 
   td {
     padding: 5px;
+
+    word-break: break-word;
+    overflow-wrap: anywhere;
+    max-width: 100%;
+    white-space: normal;
   }
 
   .pagination button {
@@ -200,6 +205,46 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
             font-size: 15px;
         }
     }
+
+  @media (max-width: 640px) {
+    table,
+    thead,
+    tbody,
+    th,
+    tr,
+    td {
+      display: block;
+      width: 100%;
+    }
+
+    thead {
+      display: none; /* ẩn header */
+    }
+
+    tr {
+      margin-bottom: 12px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      padding: 8px;
+      background: #fff;
+    }
+
+    td {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 6px 0;
+      border: none;
+      font-size: 14px;
+    }
+
+    td::before {
+      content: attr(data-label);
+      font-weight: 600;
+      color: #555;
+      flex-shrink: 0;
+    }
+  }
 }
 </style>
 
