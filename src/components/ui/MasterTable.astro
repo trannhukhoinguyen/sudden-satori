@@ -32,7 +32,6 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
   <table>
     <thead>
     <tr>
-      <th class="table-head">ID</th>
       <th class="table-head">Tên</th>
       <th class="table-head">Tên Việt</th>
       <th class="table-head">Nước</th>
@@ -44,7 +43,6 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
     {
         masterData?.length
         && masterData?.map((master: any) => <tr>
-          <td data-label="ID" class="table-data">{ master.id }</td>
           <td data-label="Tên" class="table-data">{ master.name_en }</td>
           <td data-label="Tên Việt" class="table-data">{ master.name_vi }</td>
           <td data-label="Nước" class="table-data">{ master.country }</td>
@@ -63,6 +61,7 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
   position: relative;
   font-family: sans-serif;
   padding: 4px;
+  width: 100%;
   overflow: scroll;
 
   .toolbox {
@@ -227,6 +226,7 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
     if (e.key === "Escape") inpValue.value = "";
     applyFilter();
   });
+
   // ===== Filter logic =====
   function applyFilter() {
     const pattern = new RegExp(inpValue.value, "i");
@@ -323,7 +323,6 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
       paginationEl.appendChild(span);
     }
   }
-
 
   // ===== Init =====
   rows.forEach(r => (r.dataset.match = "true"));
