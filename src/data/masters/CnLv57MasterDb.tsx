@@ -34,7 +34,7 @@ const CnLv57MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: 'Đá Tiên Hoa (Xianhua) trên núi Niushou',
+    place: 'Đá Tiên Hoa (Xianhua) trên núi Niushou (Ngưu Đầu Sơn)',
     teachers: [''],
     successors: ['Yuexi Xinyuan'],
     disciples: ['Yuexi Xinyuan'],

@@ -21,6 +21,11 @@ const {
   duration,
   address= "",
   mapEmbed= "",
+
+  // NEW LIST PARTS
+  needs = [],          // Chùa đang cần gì
+  directions = [],     // Phương hướng hoàn thiện
+  retreats = [],       // Kế hoạch khóa tu
 } = Astro.props;
 
 // Kiểm tra xem slot có nội dung không
@@ -103,6 +108,36 @@ const hasContent = Astro.slots.default;
 
     <h4>🍁 Địa chỉ</h4>
     <p class="text-accent">{address}</p>
+
+    <!-- CHÙA ĐANG CẦN GÌ -->
+    {needs.length > 0 && (
+      <div class="section">
+        <div class="section-title">🙏 Chùa đang cần</div>
+        <ul>
+          {needs.map(item => <li>{item}</li>)}
+        </ul>
+      </div>
+    )}
+
+    <!-- PHƯƠNG HƯỚNG HOÀN THIỆN -->
+    {directions.length > 0 && (
+      <div class="section">
+        <div class="section-title">🛠 Phương hướng hoàn thiện</div>
+        <ul>
+          {directions.map(item => <li>{item}</li>)}
+        </ul>
+      </div>
+    )}
+
+    <!-- KẾ HOẠCH KHÓA TU -->
+    {retreats.length > 0 && (
+      <div class="section">
+        <div class="section-title">🧘‍♂️ Kế hoạch khóa tu</div>
+        <ul>
+          {retreats.map(item => <li>{item}</li>)}
+        </ul>
+      </div>
+    )}
 
     {
       mapEmbed
