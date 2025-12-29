@@ -5,6 +5,7 @@ export interface Props {
     description?: string;
     excerpt?: string;
     image?: string;
+    logo?: string;
     type?: 'website' | 'article';
     publishedTime?: string;
     modifiedTime?: string; // thêm để hỗ trợ SEO bài viết cập nhật
@@ -20,6 +21,7 @@ const {
     description = SITE_DESCRIPTION,
     excerpt,
     image = '/images/backgrounds/Buddha-zen.jpg',
+    logo = '/favicon.ico',
     type = 'website',
     publishedTime,
     modifiedTime,
