@@ -1,15 +1,27 @@
 ---
 import masterData from "../../data/masters/AllMasterDb.tsx";
+import { toKebabCase } from "@/utils/helper";
+import {toSlug} from "../../utils/helper";
+
+const masterPosts = import.meta.glob('../content/masters/*.mdx', { eager: true });
+const masterSlugSet = new Set(
+    Object.keys(masterPosts).map(path =>
+        path.split('/').pop()?.replace('.mdx', '')
+    )
+);
 ---
 
 <section class="table">
   <h2 class="title-accent-centered">BẢNG DANH SÁCH THIỀN SƯ</h2>
 
   <div class="toolbox"                                                                                                                  >
-    <input type="text" id="inpValue" placeholder="Type here to filter the table below by name or country.." />
+    <input type="text" id="inpValue" placeholder="Tìm kiếm" />
     <button id="btnClear">Clear (hoặc click ESC)</button>
 
 <!--    <div class="control-panel">
+
+      <label class="label"><input id="rbName" type="checkbox" name="checkbox" checked/>
+        Có bài viết</label>
 
       <label class="label"><input id="rbName" type="checkbox" name="checkbox" checked/>
         India</label>
@@ -42,12 +54,28 @@ import masterData from "../../data/masters/AllMasterDb.tsx";
 
     {
         masterData?.length
-        && masterData?.map((master: any) => <tr>
-          <td data-label="Tên" class="table-data">{ master.name_en }</td>
-          <td data-label="Tên Việt" class="table-data">{ master.name_vi }</td>
-          <td data-label="Nước" class="table-data">{ master.country }</td>
-          <td data-label="Thầy" class="table-data">{ master.teachers?.join(', ') }</td>
-        </tr>)
+        && masterData?.map((master: any) => {
+          const slug = toSlug(master.name_en);
+          const hasPost = masterSlugSet.has(slug);
+          return  hasPost
+              ? <tr>
+                <td data-label="Tên" class="table-data">
+                  <a href={`/masters/${master.name_en?.split(' ')?.join('-')}`} target="_blank">{master.name_en}</a>
+                </td>
+                <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
+                <td data-label="Nước" class="table-data">{master.country}</td>
+                <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
+              </tr>
+              :  <tr>
+            <td data-label="Tên" class="table-data">
+              { master.name_en }
+            </td>
+            <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
+            <td data-label="Nước" class="table-data">{master.country}</td>
+            <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
+          </tr>
+        }
+      )
     }
 
     </tbody>

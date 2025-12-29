@@ -24,3 +24,11 @@ export function cleanSlug(input: string) {
     ?.replace(/[\s\/]+/g, '-')
     ?.replace(/-+/g, "-"); // gộp nhiều dấu "-" liên tiếp thành một
 }
+
+export function toSlug(name = '') {
+  return name
+      .toLowerCase()
+      .normalize('NFD')                 // bỏ dấu
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/\s+/g, '-');
+}

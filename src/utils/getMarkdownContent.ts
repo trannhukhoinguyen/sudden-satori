@@ -177,6 +177,7 @@ export {
   CONTENT_MAP,
   CATEGORY_MAP,
   TAG_MAP,
+  globMap,
   globMapLazy,
   collections,
 };
