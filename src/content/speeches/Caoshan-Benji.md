@@ -70,96 +70,119 @@ Soi chiếu chẳng lệch nghiêng.
 
 Tăng hỏi: Thế nào là đạo quân thần hợp?
 
-Sư đáp: Rõ ràng không nội ngoại
+Sư đáp: 
 
+Rõ ràng không nội ngoại
 Hòa hợp trên dưới đồng.
 
-- Sư lại dạy:
+Sư lại dạy:
 
 > Theo Quân thần, Thiên chánh để luận bàn, thì vì chẳng muốn phạm tội bất trung cho nên thần chỉ khen vua chứ không dám có lời chê bai.
-> Đó là ý chỉ của Tông ta.
+Đó là ý chỉ của Tông ta.
 
 Hãy nghe kệ của ta:
 
-> Người học trước tiên biết Tự tông
->
-> Chớ xen chơn tế với ngoan không.
->
-> Chơn thể diệu minh tri xúc chạm
->
-> Sức tại gặp duyên chẳng mượn Trung.
->
-> Xuất ngôn cần phải thiêu chẳng cháy
->
-> Hạnh ẩn nên với cổ nhơn đồng
->
-> Không thân, có việc qua đường hiểm
->
-> Không việc, không thân lạc thủy chung.
+<blockquote>
+
+Người học trước tiên biết Tự tông
+
+Chớ xen chơn tế với ngoan không.
+
+Chơn thể diệu minh tri xúc chạm
+
+Sức tại gặp duyên chẳng mượn Trung.
+
+Xuất ngôn cần phải thiêu chẳng cháy
+
+Hạnh ẩn nên với cổ nhơn đồng
+
+Không thân, có việc qua đường hiểm
+
+Không việc, không thân lạc thủy chung.
+</blockquote>
 
 Sư lại làm bài tụng Ngũ tướng:
 
-1.◓ Thường dân được phong Tể tướng.
+1.◓ 
+
+<blockquote>
+
+Thường dân được phong Tể tướng.
 
 Việc ấy chẳng lạ gì
 
 Bao đời đã tôn quí
 
 Chẳng nói lúc hàn vi
+</blockquote>
 
-2.◒ Nửa đêm ngay chánh vị
+2.◒ 
+
+<blockquote>
+
+Nửa đêm ngay chánh vị
 
 Sáng tỏ tại quân thần
 
 Chưa rời cung Đâu-suất
 
 Trên tuyết lộ gà đen
+</blockquote>
 
-3.ž Băng kết trong lò lửa
+3.ž
+
+<blockquote>
+
+Băng kết trong lò lửa
 
 Hoa thông tháng chín bay
 
 Trên nước trâu đất rống
 
 Theo gió ngựa gỗ kêu
+</blockquote>
 
-4.○ Ngày mới giáng Vương cung
+4.○ 
+
+<blockquote>
+
+Ngày mới giáng Vương cung
 
 Thỏ ngọc chẳng thể rời
 
 Chưa đạt vô công dụng
 
 Trời người sao quá chậm
+</blockquote>
 
-5.● Mịt mờ ẩn sự lí
+5.● 
+
+<blockquote>
+
+Mịt mờ ẩn sự lí
 
 Tín hiệu cũng chẳng bày
 
 Oai Âm Vương không biết
 
 Di-lặc há rõ rành.
+</blockquote>
 
 ---
 
-Khi hành cước, Sư hỏi thiền sư Ô Thạch Quán:
+Khi hành cước, Sư hỏi thiền sư Ô Thạch Quán: **Thế nào là Pháp môn chủ của Tỳ-lô sư?**
 
-- Thế nào là Pháp môn chủ của Tỳ-lô sư?
+Sư: **Nếu ta nói cho ông, tức là có một cái riêng biệt!**
 
-Sư: Nếu ta nói cho ông, tức là có một cái riêng biệt!
+Sư thưa lại với ngài Động Sơn, ngài Động Sơn nói: **Thật là câu thoại rất hay, nhưng thiếu lời hỏi tiếp theo! Sao ông không hỏi “vì sao chẳng nói?”**
 
-Sư thưa lại với ngài Động Sơn, ngài Động Sơn nói:
+Sư đến Ô Thạch, lặp lại lời ngài Động Sơn. Ô Thạch nói: **Nếu cho rằng ta không nói, thì miệng ta câm mất; nếu cho rằng ta nói, thì lưỡi ta cứng mất.**
 
-- Thật là câu thoại rất hay, nhưng thiếu lời hỏi tiếp theo! Sao ông không hỏi “vì sao chẳng nói?”
-
-Sư đến Ô Thạch, lặp lại lời ngài Động Sơn. Ô Thạch nói:
-
-- Nếu cho rằng ta không nói, thì miệng ta câm mất; nếu cho rằng ta nói, thì lưỡi ta cứng mất. Sư trở về thuật lại cho ngài Động Sơn, ngài Động Sơn thầm chấp nhận Ô Thạch.
+Sư trở về thuật lại cho ngài Động Sơn, ngài Động Sơn thầm chấp nhận Ô Thạch.
 
 ---
 
-Thiền sư Vân Môn hỏi Sư:
-
-- Thế nào là hạnh Sa-môn?
+Thiền sư Vân Môn hỏi Sư: Thế nào là hạnh Sa-môn?
 
 Sư đáp: Là ăn lúa mạ của thường trụ.
 
@@ -309,6 +332,8 @@ Chỉ Y tạm biệt rồi thị tịch.
 
 Sư làm bài tụng:
 
+<blockquote>
+
 Giác tánh viên minh không tướng thân
 
 Chớ đem tri kiến luận xa gần
@@ -323,7 +348,10 @@ Thức chia, trăm mối mất bản chân
 
 Trong câu, như thế toàn liễu ngộ
 
-Rõ ràng vô sự, Tích thời nhân! (Người bản lai)
+Rõ ràng vô sự, Tích thời nhân! 
+
+(Người bản lai)
+</blockquote>
 
 ---
 
@@ -1081,6 +1109,8 @@ Sư bèn quát: Loại tớ trai tớ gái này!
 
 Nam Châu Soái là Nam Bình Chung vương nghe tin Sư đạo đức danh vang nên hết lòng dùng lễ kính thỉnh, nhưng Sư từ chối, làm bài thơ Đại Mai Sơn Cư gởi cho sứ đem về dâng cho Vương:
 
+<blockquote>
+
 Cây khô xơ xác gởi hàn lâm
 
 Bao độ xuân sang chẳng đổi tâm
@@ -1088,10 +1118,13 @@ Bao độ xuân sang chẳng đổi tâm
 Tiều lão thấy qua còn chẳng đoái
 
 Việc chi người Dĩnh khổ công tầm.
+</blockquote>
 
 ---
 
 Sư làm bài kệ Tứ Cấm:
+
+<blockquote>
 
 Chớ đi đường tâm xứ
 
@@ -1100,10 +1133,13 @@ Chẳng mặc áo bản lai
 Không nên xem chân thật
 
 Rất kỵ lúc chưa sanh.
+</blockquote>
 
 ---
 
 Sư làm kệ dạy bảo đệ tử:
+
+<blockquote>
 
 Từ duyên ngộ được chóng tương ưng
 
@@ -1112,6 +1148,7 @@ Theo thể tiêu trừ chậm tận tường
 Chớp mắt xưa nay không xứ sở
 
 Thầy ta tạm nói chẳng nghĩ lường.
+</blockquote>
 
 ---
 
@@ -1163,10 +1200,6 @@ Thiền sư Vĩnh Gia nói: “Mờ mờ mịt mịt chiêu ương họa”.
 > Đáp: Biết rõ tức được, cần tránh làm gì? Không chỉ không tránh Bồ-đề, Niết-bàn, phiền não, vô minh mà các việc thô trọng thế gian cũng chẳng cần phải tránh.
 Tránh tức đồng với biến dịch, cho đến thành Phật, thành Tổ, Bồ-đề, Niết-bàn, các tai họa này không nhỏ.
 Vì sao như thế? Chỉ vì biến dịch. Nếu không biến dịch, ngay đó tự do tự tại nơi cảnh mới được.
-
-<hr class="blog-rule" />
-
-
 
 <hr class="blog-rule" />
 
