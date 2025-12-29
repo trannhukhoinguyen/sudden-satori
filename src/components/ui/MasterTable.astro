@@ -57,10 +57,10 @@ const masterSlugSet = new Set(
         && masterData?.map((master: any) => {
           const slug = toSlug(master.name_en);
           const hasPost = masterSlugSet.has(slug);
-          return  hasPost
+          return hasPost
               ? <tr>
                 <td data-label="Tên" class="table-data">
-                  <a href={`/masters/${master.name_en?.split(' ')?.join('-')}`} target="_blank">{master.name_en}</a>
+                  <a href={`/masters/${master.name_en?.split(' ')?.join('-')}`} target="_blank" class="table-data">{master.name_en}</a>
                 </td>
                 <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
                 <td data-label="Nước" class="table-data">{master.country}</td>
@@ -155,6 +155,10 @@ const masterSlugSet = new Set(
     overflow-wrap: anywhere;
     max-width: 100%;
     white-space: normal;
+  }
+
+  .table-data {
+    color: var(--color-accent-maroon);
   }
 
   .pagination button {
