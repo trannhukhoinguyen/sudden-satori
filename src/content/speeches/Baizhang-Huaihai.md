@@ -13,9 +13,7 @@ videoIds:
   - RFhGmMxOP6I
 ---
 
-HOÀI HẢI THIỀN SƯ
-
-BÁ TRƯỢNG QUẢNG LỤC
+HOÀI HẢI THIỀN SƯ - BÁ TRƯỢNG QUẢNG LỤC
 
 Dịch giả: Thích Duy Lực
 
