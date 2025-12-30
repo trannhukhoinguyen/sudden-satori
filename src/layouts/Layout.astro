@@ -167,6 +167,11 @@ const schema = {
     <link rel="icon" href="/favicon.ico" sizes="48x48" type="image/x-icon">
     <link rel="shortcut icon" href="/favicon.ico" sizes="48x48" type="image/x-icon">
 
+    <!--PWA manifest-->
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#d4af37" />
+    <script> if ('serviceWorker' in navigator) { navigator.serviceWorker.register('/pwa-sw.js') } </script>
+
     <script is:inline src="/theme-init.js"></script>
 
     <!-- JSON-LD Schema -->

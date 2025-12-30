@@ -8,18 +8,8 @@ tags:
   - TỔ BỒ ĐỀ ĐẠT MA
 ---
 
-Mục Lục
 
-NGỮ LỤC BỒ ĐỀ ĐẠT MA –  I
-
-NGỮ LỤC BỒ ĐỀ ĐẠT MA –  II
-
-NGỘ TÁNH LUẬN
-
-—o0o—
-
-NGỮ LỤC BỒ ĐỀ ĐẠT MA –  I
-BỐN QUÁN HẠNH VÀO ĐẠO CỦA ĐẠI THỪA
+## NGỮ LỤC BỒ ĐỀ ĐẠT MA – BỐN QUÁN HẠNH VÀO ĐẠO CỦA ĐẠI THỪA
 
 Muốn vào Đạo có nhiều đường, tóm lại không ra ngoài hai đường: Lý Nhập và Hạnh Nhập.
 
@@ -35,16 +25,9 @@ Vô Sở Cầu Hạnh: Người đời ở trong cơn mê dài, dẫy đầy s�
 
 Xứng Pháp Hạnh: Lý thể các pháp tự tánh thanh tịnh. Trong đó, mọi vật đều là không, không nhiễm, không trước, không chủ, không khách. Kinh dạy: “Pháp không chúng sanh, nên lìa chúng sanh cấu, pháp không có ngã, nên lìa ngã cấu.” Người trí nếu tin hiểu lý này, có thể thuận với Phật Pháp mà tu hành. Bản thể của pháp là không, nên xả thí thân mạng, tài sản mà tâm không luyến tiếc. Hiểu rõ ba không, không nương không bám, dẹp dần trần cấu, giáo hóa chúng sanh mà không mắc vào hình tướng. Đó là tự hành, mà lại có thể lợi người, lại có thể trang nghiêm đạo Bồ Đề. Hạnh bố thí với năm hạnh khác (sáu ba la mật) cũng đều đầy đủ. Giải trừ vọng tưởng, tu hành lục độ (2), nhưng không thấy chỗ tu, gọi là Xứng Pháp Hạnh.
 
-Chú thích:
 
-(1) Khách trần: Bụi bặm từ bên ngoài. Theo Kinh Lăng Nghiêm, khách trần là những thứ từ bên ngoài tác dụng vào tâm thức chúng ta.
+## NGỮ LỤC BỒ ĐỀ ĐẠT MA – NGỘ TÁNH LUẬN
 
-(2) Lục độ: 1/ Bố thí, 2/ Trì giới, 3/ Nhẫn nhục, 4/ Tinh tấn, 5/ Thiền định, 6/ Trí Huệ.
-
-—o0o—
-
-NGỮ LỤC BỒ ĐỀ ĐẠT MA –  II
-NGỘ TÁNH LUẬN
 Đạo lấy tịch diệt làm thể, Tu lấy lìa tướng làm chỗ về. Do đó Kinh dạy: “Tịch diệt là bồ đề, diệt các tướng vậy.” Phật có nghĩa là giác ngộ. Người có tâm giác ngộ thì đạt được đạo Bồ Đề, gọi là Phật. Kinh dạy: “Lìa hết thảy các tướng gọi là Phật.” Như thế biết rằng có tướng là tướng không hình tướng, không thể dùng mắt thấy, chỉ có thể dùng trí mà biết. Nếu có người nghe pháp này mà sinh được một niệm tin người này đã phát khởi Đại Thừa, vượt ra ba cõi.
 
 Ba cõi là tham, sân, si. Ngược lại với tham sân si là giới, định, huệ, gọi là vượt ra ba cõi. Tham, sân và si cũng không có tính chân thật, chỉ là nương nơi chúng sanh mà gọi. Nếu có thể phản chiếu, khi nhận rõ sẽ thấy tánh của tham sân si tức là tánh Phật. Ngoài tham sân si không có tánh Phật nào khác. Kinh dạy: “Chư Phật từ xưa đến nay thường ở trong ba độc nuôi lớn Pháp trong sạch, mà thành đấng Thế Tôn.” Ba độc là tham, sân và si.
@@ -133,7 +116,23 @@ Kinh dạy: “Thấy các tướng không phải là tướng, tức thấy Nh�
 
 Tám vạn bốn ngàn phiền não là gốc rễ của bịnh. Người phàm đương sống sợ chết, khi no lo đói, đó là mê mờ lớn. Cho nên Thánh nhân không để tâm vào chuyện đã qua, không lo chuyện tương lai, không tham luyến chuyện hiện tại, niệm niệm đều hướng về đạo. Nếu chưa ngộ chân lý lớn lao này, thì nên sớm tìm vị thiện trí thức của trời người, đừng để mất cả hai.
 
+<hr class="blog-rule" />
+
+## NGUỒN
+
+🔗 <a href="https://phatphapungdung.com/ngu-luc-bo-de-dat-ma-132855.html" target="_blank"> phatphapungdung.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝 <a href="/masters/Bodhidharma-28" target="_blank">TỔ BỒ ĐỀ ĐẠT MA</a>
+
 Chú thích:
+
+(1) Khách trần: Bụi bặm từ bên ngoài. Theo Kinh Lăng Nghiêm, khách trần là những thứ từ bên ngoài tác dụng vào tâm thức chúng ta.
+
+(2) Lục độ: 1/ Bố thí, 2/ Trì giới, 3/ Nhẫn nhục, 4/ Tinh tấn, 5/ Thiền định, 6/ Trí Huệ.
 
 (1) Bồ Tát (Bodhisatva): Tên đầy đủ là Bồ Đề Tát Đỏa, Tàu dịch là Giác hữ tình, là chúng sanh có tâm cầu đạo, là những vị cầu chứng được quả Phật.
 
@@ -168,15 +167,3 @@ Chú thích:
 (16) Nghiệp (Karma): Những hành động thịện, ác, không thiện không ác do thân, miệng, ý tạo ra. Những hành động này là nghiệp nhân tạo ra những nghiệp quả là vui, khổ, không vui không khổ trong ba cõi.
 
 (17) Nhất xiển đề (Iechantika – Bất tín): Người không tin Phật Pháp, do đó không có tính thành Phật.
-
-<hr class="blog-rule" />
-
-## NGUỒN
-
-🔗 <a href="https://phatphapungdung.com/ngu-luc-bo-de-dat-ma-132855.html" target="_blank"> phatphapungdung.com </a>
-
-<hr class="blog-rule" />
-
-## GHI CHÚ
-
-[^1]: 📝 <a href="/masters/Bodhidharma-28" target="_blank">TỔ BỒ ĐỀ ĐẠT MA</a>
