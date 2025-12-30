@@ -1,0 +1,90 @@
+---
+
+---
+
+<div id="pwa-popup" class="pwa-popup hidden">
+    <div class="box">
+        <h3>📲 Cài Tổ Sư Thiền</h3>
+        <p>Mở nhanh mỗi ngày – không cần cài app</p>
+
+        <div class="actions">
+            <button id="pwa-install-btn">Cài ngay</button>
+            <button id="pwa-close-btn">Để sau</button>
+        </div>
+    </div>
+</div>
+
+<style>
+    .pwa-popup {
+        position: fixed;
+        bottom: 16px;
+        left: 16px;
+        right: 16px;
+        z-index: 9999;
+    }
+
+    .box {
+        background: #fff8e1;
+        border-radius: 16px;
+        padding: 20px;
+        text-align: center;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    }
+
+    .actions {
+        margin-top: 16px;
+        display: flex;
+        gap: 12px;
+        justify-content: center;
+    }
+
+    button {
+        font-size: 18px;
+        padding: 10px 18px;
+        border-radius: 12px;
+        border: none;
+    }
+
+    #pwa-install-btn {
+        background: #f9a825;
+        color: white;
+    }
+
+    #pwa-close-btn {
+        background: #ddd;
+    }
+    .hidden {
+        display: none;
+    }
+</style>
+
+
+<!-- Include this in your Astro layout, e.g. src/layouts/Base.astro -->
+<script is:inline>
+    let deferredPrompt;
+
+    const isPWA = window.matchMedia('(display-mode: standalone)').matches;
+    const dismissed = localStorage.getItem('pwa-dismissed');
+
+    if (!isPWA && !dismissed) {
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            document.getElementById('pwa-popup').classList.remove('hidden');
+        });
+    }
+
+    document.getElementById('pwa-close-btn')?.addEventListener('click', () => {
+        localStorage.setItem('pwa-dismissed', '1');
+        document.getElementById('pwa-popup').remove();
+    });
+
+    document.getElementById('pwa-install-btn')?.addEventListener('click', async () => {
+        if (!deferredPrompt) return;
+        deferredPrompt.prompt();
+        await deferredPrompt.userChoice;
+        localStorage.setItem('pwa-dismissed', '1');
+        document.getElementById('pwa-popup').remove();
+    });
+</script>
+

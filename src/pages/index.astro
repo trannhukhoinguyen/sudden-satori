@@ -9,6 +9,7 @@ import { toKebabCase } from "@/utils/helper";
 import Hero from "../components/ui/Hero.astro";
 import BioWithImage from "../components/ui/BioWithImage.astro";
 import HTTDL from "../components/special/HTTDL.astro";
+import InstallPWA from "../components/ui/InstallPWA.astro";
 
 const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -72,17 +73,32 @@ const description = "Xem " + title;
         {
           href: "/faqs",
           text: "Hỏi Đáp với Hòa thượng Thích Duy Lực",
-          class: "btn-btn-secondary",
+          class: "btn-secondary",
         },
         {
           href: "/practices",
           text: "Thực Hành",
-          class: "btn-btn-secondary",
+          class: "btn-third",
         },
         {
           href: "#rules",
           text: "Chú Ý",
           class: "btn-primary",
+        },
+      ]}
+    />
+
+    <!-- Hero Section -->
+    <InstallPWA />
+    <Hero
+      title="📲 Cài trang này ra MÀN HÌNH ĐIỆN THOẠI"
+      subTitle="Dùng như app – không tốn dung lượng"
+      description="không cần Google Play / App Store"
+      actions={[
+        {
+          href: "/faqs",
+          text: "Hỏi Đáp với Hòa thượng Thích Duy Lực",
+          class: "btn-guideline",
         },
       ]}
     />

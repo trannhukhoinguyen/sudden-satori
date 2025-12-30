@@ -1,0 +1,91 @@
+---
+const siteName = "Tổ Sư Thiền";
+---
+
+<section class="pwa-install" id="pwa-install">
+    <h2 id="pwa-installation-title">📲 Cài Tổ Sư Thiền ra màn hình điện thoại</h2>
+    <p class="subtitle">
+        Mở nhanh – Dùng như app – Không cần App Store
+    </p>
+
+    <div class="platforms">
+        <!-- ANDROID -->
+        <div class="platform android" data-platform="android">
+            <h3>🟢 ANDROID</h3>
+            <ol>
+                <li>Bấm dấu <strong>⋮ (3 chấm đứng)</strong></li>
+                <li>Chọn <strong>Thêm vào Màn hình chính</strong></li>
+                <li>Bấm <strong>Thêm</strong></li>
+            </ol>
+        </div>
+
+        <!-- IOS -->
+        <div class="platform ios" data-platform="ios">
+            <h3>🍎 IPHONE</h3>
+            <ol>
+                <li>Bấm nút <strong>Chia sẻ</strong> 📤</li>
+                <li>Chọn <strong>Thêm vào Màn hình chính</strong></li>
+                <li>Bấm <strong>Thêm</strong></li>
+            </ol>
+            <p class="note">⚠️ Phải mở bằng Safari</p>
+        </div>
+    </div>
+</section>
+
+<style>
+    .pwa-install {
+        background: #fff8e1;
+        border-radius: 16px;
+        padding: 24px;
+        margin: 32px 0;
+        font-size: 18px;
+    }
+
+    .pwa-install h2 {
+        font-size: 26px;
+        margin-bottom: 8px;
+    }
+
+    .subtitle {
+        font-size: 18px;
+        color: #555;
+        margin-bottom: 24px;
+    }
+
+    .platforms {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .platform {
+        background: white;
+        border-radius: 12px;
+        padding: 16px;
+    }
+
+    .platform h3 {
+        font-size: 22px;
+        margin-bottom: 12px;
+    }
+
+    .platform ol {
+        padding-left: 20px;
+    }
+
+    .platform li {
+        margin-bottom: 10px;
+        line-height: 1.4;
+    }
+
+    .note {
+        color: #c62828;
+        margin-top: 8px;
+    }
+
+    @media (min-width: 768px) {
+        .platforms {
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+</style>

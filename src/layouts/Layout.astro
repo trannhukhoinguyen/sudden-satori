@@ -263,3 +263,54 @@ const schema = {
 </style>
 
 
+<script is:inline>
+    const title = installSection.querySelector('h2#pwa-installation-title');
+
+    if (isAndroid && title) {
+    title.innerText = "📲 Cài Tổ Sư Thiền cho điện thoại Android";
+  }
+
+    if (isIOS && title) {
+    title.innerText = "📲 Cài Tổ Sư Thiền cho iPhone";
+  }
+
+    (function () {
+    const ua = navigator.userAgent || navigator.vendor || window.opera;
+
+    const isAndroid = /android/i.test(ua);
+    const isIOS = /iphone|ipad|ipod/i.test(ua);
+    const isPWA = window.matchMedia('(display-mode: standalone)').matches;
+
+    const installSection = document.getElementById('pwa-install');
+    if (!installSection) return;
+
+    // Nếu đã cài PWA → ẩn hoàn toàn
+  if (isPWA) {
+      installSection.style.display = 'none';
+      return;
+    }
+
+    const androidBlock = installSection.querySelector('[data-platform="android"]');
+    const iosBlock = installSection.querySelector('[data-platform="ios"]');
+
+    // Android
+  if (isAndroid && androidBlock && iosBlock) {
+      iosBlock.style.display = 'none';
+    }
+
+    // iOS
+  if (isIOS && androidBlock && iosBlock) {
+      androidBlock.style.display = 'none';
+    }
+
+    // Desktop → có thể ẩn hết hoặc giữ cả 2
+  if (!isAndroid && !isIOS) {
+      // 👉 chọn 1 trong 2 dòng dưới:
+
+      // Ẩn toàn bộ
+    // installSection.style.display = 'none';
+
+    // Hoặc giữ cả 2 (khuyến nghị nếu desktop có người trẻ)
+  }
+  })();
+    </script>
