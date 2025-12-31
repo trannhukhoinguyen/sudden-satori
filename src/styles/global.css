@@ -502,6 +502,7 @@ hr {
 .text-accent {
   color: var(--color-accent);
   font-weight: 500;
+  margin-inline: 4px;
 }
 .title-accent-centered {
   color: var(--color-accent);
