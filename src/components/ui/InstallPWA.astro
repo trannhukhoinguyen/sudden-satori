@@ -5,13 +5,16 @@ const siteName = "Tổ Sư Thiền";
 <section class="pwa-install" id="pwa-install" data-hide-in-pwa>
     <h2  id="pwa-installation-title">📲 Cài Tổ Sư Thiền ra màn hình điện thoại</h2>
     <p class="subtitle">
-        Mở nhanh – Dùng như app – Không cần cài đặt từ Google Play / App Store
+        Mở nhanh – Dùng như app – Không cần cài đặt từ <b class="green">Google Play</b> / <b class="red">App Store</b>
     </p>
 
     <div class="platforms">
         <!-- ANDROID -->
         <div class="platform android" data-platform="android">
-            <h3>🅰️ ANDROID</h3>
+            <h3 class="green">
+                <img src="/icons/android-icon.png" style="display: inline; height: 16px; margin-inline: 4px" alt="android icon"/>
+                ANDROID
+            </h3>
             <ol>
                 <li>Bấm dấu <strong>⋮</strong> (3 chấm đứng)</li>
                 <li>Chọn <strong>Thêm vào Màn hình chính (Add to Homepage)</strong></li>
@@ -21,16 +24,19 @@ const siteName = "Tổ Sư Thiền";
 
         <!-- IOS -->
         <div class="platform ios" data-platform="ios">
-            <h3>🍏 iOS</h3>
+            <h3 class="red">
+                <img src="/icons/ios-icon.png" style="display: inline; height: 16px; margin-inline: 4px" alt="ios icon"/>
+                iOS
+            </h3>
             <ol>
                 <li>Bấm nút <strong>Chia sẻ (Share)</strong> 📤</li>
                 <li>Chọn <strong>Thêm vào Màn hình chính (Add to Homepage)</strong></li>
                 <li>Bấm <strong>Thêm (Add)</strong></li>
             </ol>
-            <div class="note">
+            <p class="note">
                 ⚠️ Phải mở bằng trình duyệt <b>Safari</b>
-                <img src="/icons/safari-icon.png" style="height: 16px" alt="safari icon"/>
-            </div>
+                <img src="/icons/safari-icon.png" style="display: inline; height: 16px; margin-inline: 4px" alt="safari icon"/>
+            </p>
         </div>
     </div>
 </section>
@@ -72,6 +78,14 @@ const siteName = "Tổ Sư Thiền";
         margin-bottom: 4px;
     }
 
+    .green {
+        color: var(--color-accent-green);
+    }
+
+    .red {
+        color: var(--color-accent-red);
+    }
+
     .platform ol {
         padding-left: 20px;
     }
@@ -83,7 +97,6 @@ const siteName = "Tổ Sư Thiền";
     }
 
     .note {
-        display: inline-flex;
         font-size: 18px;
         color: var(--color-accent-red);
         margin-top: 8px;
