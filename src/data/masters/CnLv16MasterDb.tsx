@@ -18,7 +18,7 @@ const CnLv16MasterDb = [
     successors: ['Yingan Tanhua'],
     disciples: ['Yingan Tanhua'],
     image: '/images/avatar.png',
-    reference: ['',],
+    reference: ['https://terebess.hu/zen/mesterek/HuqiuShaolong.html',],
   },
   {
     id: '49.16.2',

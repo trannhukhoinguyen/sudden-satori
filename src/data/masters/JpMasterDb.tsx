@@ -24,7 +24,7 @@ const JpMasterDb = [
   {
     id: '37.4.8',
     name_en: 'Tối Trừng',
-    name_ja: 'Tối Trừng',
+    name_ja: '',
     name_zh: '最澄',
     name_vi: 'Tối Trừng',
     other_name_vi: '',
@@ -46,7 +46,7 @@ const JpMasterDb = [
   {
     id: '50.17.5',
     name_en: 'Duệ Sơn Giác A',
-    name_ja: 'Duệ Sơn Giác A',
+    name_ja: '',
     name_zh: 'Duệ Sơn Giác A ',
     name_vi: 'Duệ Sơn Giác A',
     other_name_vi: '',

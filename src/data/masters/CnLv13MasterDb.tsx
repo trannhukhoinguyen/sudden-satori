@@ -18,7 +18,7 @@ const CnLv13MasterDb = [
     successors: ['Wuzu Fayan'],
     disciples: ['Wuzu Fayan'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_V%C3%A2n_Th%E1%BB%A7_%C4%90oan',],
+    reference: ['https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_V%C3%A2n_Th%E1%BB%A7_%C4%90oan', 'https://terebess.hu/zen/baiyun.html'],
   },
   {
     id: '46.13.2',

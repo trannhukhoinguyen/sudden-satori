@@ -20,7 +20,7 @@ const CnLv9MasterDb = [
     disciples: ['Fenyang Shanzhao', 'Shexian Guixing', 'Guyin Yuncong', 'Sanjiao Zhisong',
       'Guanghui Yuanlian', 'Shending Hongyin', 'Shoushan Huaizhi' ],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/Th%E1%BB%A7_S%C6%A1n_T%E1%BB%89nh_Ni%E1%BB%87m', 'https://pl.wikipedia.org/wiki/Shoushan_Xingnian'],
+    reference: ['https://vi.wikipedia.org/wiki/Th%E1%BB%A7_S%C6%A1n_T%E1%BB%89nh_Ni%E1%BB%87m', 'https://pl.wikipedia.org/wiki/Shoushan_Xingnian' , 'https://terebess.hu/zen/shoushan.html'],
   },
   {
     id: '42.9.2',

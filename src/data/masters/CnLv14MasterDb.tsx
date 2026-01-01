@@ -19,7 +19,7 @@ const CnLv14MasterDb = [
     successors: ['Yuanwu Keqin'],
     disciples: ['Yuanwu Keqin', 'Kaifu Daoning', 'Foyan Qingyuan'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/Ng%C5%A9_T%E1%BB%95_Ph%C3%A1p_Di%E1%BB%85n', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/ngu-to-phap-dien-k1576.html'],
+    reference: ['https://vi.wikipedia.org/wiki/Ng%C5%A9_T%E1%BB%95_Ph%C3%A1p_Di%E1%BB%85n', 'https://phatgiao.org.vn/tu-dien-phat-hoc-online/ngu-to-phap-dien-k1576.html', 'https://terebess.hu/zen/wuzu.html'],
   },
   {
     id: '47.14.2',

@@ -20,7 +20,7 @@ const CnLv15MasterDb = [
       'Foxing Fatai', 'Cunpu Chanren', 'Xiangyun Tanyi', 'Xiatang Huiyuan'
     ],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/Vi%C3%AAn_Ng%E1%BB%99_Kh%E1%BA%AFc_C%E1%BA%A7n',],
+    reference: ['https://vi.wikipedia.org/wiki/Vi%C3%AAn_Ng%E1%BB%99_Kh%E1%BA%AFc_C%E1%BA%A7n', 'https://terebess.hu/zen/Yuanwu.html'],
   },
   {
     id: '48.15.2',

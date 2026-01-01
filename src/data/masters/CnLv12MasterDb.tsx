@@ -18,7 +18,7 @@ const CnLv12MasterDb = [
     successors: ['Baiyun Shouduan'],
     disciples: ['Baiyun Shouduan', 'Baoning Renyong'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_K%C3%AC_Ph%C6%B0%C6%A1ng_H%E1%BB%99i',],
+    reference: ['https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_K%C3%AC_Ph%C6%B0%C6%A1ng_H%E1%BB%99i', 'https://terebess.hu/zen/yangqi.html'],
     youtubeId: [''],
   },
   {

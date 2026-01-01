@@ -18,7 +18,7 @@ const CnLv17MasterDb = [
     successors: ['Mian Xianjie'],
     disciples: ['Mian Xianjie', 'Hoà Sơn Tâm Giám'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/%E1%BB%A8ng_Am_%C4%90%C3%A0m_Hoa',],
+    reference: ['https://vi.wikipedia.org/wiki/%E1%BB%A8ng_Am_%C4%90%C3%A0m_Hoa', 'https://terebess.hu/zen/mesterek/YinganTanhua.html'],
   },
   {
     id: '50.17.2',

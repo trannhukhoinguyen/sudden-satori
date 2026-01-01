@@ -14,7 +14,7 @@ const CnLv8MasterDb = [
     successors: ['Shoushan Xingnian'],
     disciples: ['Shoushan Xingnian'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/Phong_Huy%E1%BB%87t_Di%C3%AAn_Chi%E1%BB%83u', 'https://pl.wikipedia.org/wiki/Fengxue_Yanzhao',],
+    reference: ['https://vi.wikipedia.org/wiki/Phong_Huy%E1%BB%87t_Di%C3%AAn_Chi%E1%BB%83u', 'https://pl.wikipedia.org/wiki/Fengxue_Yanzhao', 'https://terebess.hu/zen/fengxue.html'],
 
   },
   {

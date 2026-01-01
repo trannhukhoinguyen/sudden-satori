@@ -112,7 +112,8 @@ const CnLv5MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://vi.wikipedia.org/wiki/L%C3%A2m_T%E1%BA%BF_Ngh%C4%A9a_Huy%E1%BB%81n',
       'https://quangduc.com/p157a72140/quyen-12-lam-te-nghia-huyen-vi-to-cua-lam-te-tong-',
-      'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su'],
+      'https://quangduc.com/p157a72156/quyen-28-cac-ngu-luc-dac-biet-cua-11-vi-thien-su', 'https://terebess.hu/zen/linji-eng.html'
+    ],
   },
   {
     id: '38.5.6',
