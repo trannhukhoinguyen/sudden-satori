@@ -3,19 +3,40 @@ import type { PostTitleWithSlug } from "@/types.ts";
 
 const { collection, posts, titleList, listTitle } = Astro.props;
 
-// Nhóm công án theo chữ cái đầu tiên
-const grouped = titleList.reduce((acc: Record<string, PostTitleWithSlug[]>, k: any) => {
-    const path = posts?.find(p => p.frontmatter?.title === k?.title)?.file.split("/").pop()?.replace(/\.(md|mdx)$/, "");
-    k['path'] = path;
-    const letter = k?.title?.charAt(0).toUpperCase();
-    acc[letter] = acc[letter] || [];
-    acc[letter].push(k);
-    return acc;
-}, {});
+/* Build O(1) lookup */
+const postPathMap = new Map<string, string>();
+for (const p of posts ?? []) {
+  const title = p.frontmatter?.title;
+  if (!title) continue;
+
+  const slug = p.file
+      .split("/")
+      .pop()
+      ?.replace(/\.(md|mdx)$/, "");
+
+  if (slug) postPathMap.set(title, slug);
+}
+
+/* Group by first letter */
+const grouped = titleList.reduce(
+    (acc: Record<string, PostTitleWithSlug[]>, k: any) => {
+      const letter = k?.title?.charAt(0)?.toUpperCase();
+      if (!letter) return acc;
+
+      (acc[letter] ||= []).push({
+        ...k,
+        path: postPathMap.get(k.title)
+      });
+
+      return acc;
+    },
+    {}
+);
 
 const letters = Object.keys(grouped).sort((a, b) =>
-  a.localeCompare(b, "vi")
+    a.localeCompare(b, "vi")
 );
+
 const initial = letters.includes("A") ? "A" : letters[0];
 ---
 
