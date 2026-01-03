@@ -566,7 +566,7 @@ const CnLv0MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: '-',
+    place: 'Thái Hành Sơn (太行山)',
     teachers: ['Huyền Trách'],
     successors: [''],
     disciples: [''],

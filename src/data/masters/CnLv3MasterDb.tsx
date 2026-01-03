@@ -332,7 +332,7 @@ const CnLv3MasterDb = [
     name_ja: '',
     name_zh: '淨衆神會',
     name_vi: 'Tĩnh Trung Thần Hội',
-    other_name_vi: '',
+    other_name_vi: 'Cảnh Trung Thần Huy',
     nickname_vi: '',
     worship_tower: '',
     birth_death_time: ['720', '794'],
