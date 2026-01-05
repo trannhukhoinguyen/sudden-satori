@@ -439,7 +439,7 @@ const CnLv0MasterDb = [
     records: '',
     sect: ['Northern'],
     country: '🇨🇳',
-    place: 'Jade Spring Temple (玉泉寺) - Yuquan Tiantai (玉泉天台), Yuquan Mountain (玉泉山), Jingxi Prefecture (荆溪府), within the scope of Dangyang, Hubei Province',
+    place: 'Jade Spring Temple (玉泉寺) - Yuquan Tiantai (玉泉天台), Yuquan Mountain (玉泉山), Jingxi Prefecture (荆溪府), within the scope of Dangyang, Hubei Province, Núi Đương Dương, Giang Lăng',
     teachers: ['Daman Hongren'],
     successors: [''],
     disciples: ['Dōsen (道璿)', 'Tung Sơn Huệ Tịch (嵩山慧寂)',
