@@ -9,7 +9,7 @@ const CnLv60MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: '-',
+    place: '',
     teachers: [''],
     successors: [''],
     disciples: [],

@@ -12,7 +12,7 @@ const MgMasterDb = [
     records: '',
     sect: ['Caodong'],
     country: '🇲🇳',
-    place: '-',
+    place: '',
     teachers: ['Wansong Xingxiu'],
     successors: [''],
     disciples: [''],

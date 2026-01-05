@@ -12,7 +12,7 @@ const CnLv33MasterDb = [
     records: '',
     sect: ['Linji', 'Yangqi'],
     country: '🇨🇳',
-    place: '-',
+    place: '',
     teachers: ['Xiaoyan Debao'],
     successors: [''],
     disciples: [],

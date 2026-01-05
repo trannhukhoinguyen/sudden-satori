@@ -37,7 +37,7 @@ const CnLv32MasterDb = [
     records: '',
     sect: ['Caodong'],
     country: '🇨🇳',
-    place: '-',
+    place: '',
     teachers: ['Wuming Huijing'],
     successors: [''],
     disciples: [],

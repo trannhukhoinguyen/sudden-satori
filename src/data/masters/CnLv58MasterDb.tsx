@@ -66,7 +66,7 @@ const CnLv58MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: '-',
+    place: '',
     teachers: ['Tieyan'],
     successors: [''],
     disciples: [],
