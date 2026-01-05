@@ -162,6 +162,7 @@ const CnLv1MasterDb = [
     name_vi: 'Giang Tây Chí Triệt',
     other_name_vi: '',
     nickname_vi: '',
+    original_name_vi: 'Trương Hành Xương',
     worship_tower: '',
     birth_death_time: ['', ''],
     epoch: '',

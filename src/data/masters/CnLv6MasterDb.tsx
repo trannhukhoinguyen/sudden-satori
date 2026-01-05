@@ -162,7 +162,7 @@ const CnLv6MasterDb = [
     name_en: 'Niaoke Daolin',
     name_ja: 'Chōka Dōrin',
     name_zh: '鳥窠道林',
-    name_vi: 'Điểu Khoa Đạo Lâm',
+    name_vi: 'Điểu Khòa Đạo Lâm',
     other_name_vi: 'Đạo Lâm Ô Khòa',
     nickname_vi: '',
     worship_tower: '',
