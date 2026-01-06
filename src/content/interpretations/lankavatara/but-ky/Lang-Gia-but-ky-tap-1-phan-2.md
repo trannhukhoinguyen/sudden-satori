@@ -302,7 +302,7 @@ Nếu thức lưu chú diệt thì lưu chú tú vô thủy phải đoạn diệ
 Đây chính là làm sáng tỏ trở lại đoạn văn trước nói về Nghiệp tướng diệt, Chân tướng không diệt. 
 Cái bất diệt này, Bảo Cảnh gọi rằng Chân thường lưu chú. 
 
-Ngoại đạo nói tám thức diệt một lần, vì không biết đệ bát A-lại-da là sanh nhân, lại đưa ra riêng có một pháp làm sanh nhân. 
+Ngoại đạo nói 8 thức diệt một lần, vì không biết đệ bát A-lại-da là sanh nhân, lại đưa ra riêng có một pháp làm sanh nhân. 
 Nên sau đây Phật chỉ ra cái chấp lầm ấy.
 
 Đại Huệ, ngoại đạo nói lưu chú sanh nhân, chẳng phải nhân; thức, sắc, ánh sáng tập hợp mà sanh mà lại có nhân khác. 
@@ -317,12 +317,166 @@ Tắc giả là gì? Họ chấp Thắng tánh, Trượng phu, Tự tại, Thờ
 
 Đây chính là ngoại đạo không biết Duy thức là nhân sanh khởi các pháp, bên ngoài lập riêng thành Thắng tánh… làm nhân sanh khởi. 
 Đó là dị nhân vậy. Ngoại đạo Ấn Độ chấp tuy nhiều thứ, tóm lại không ra ngoài hai kiến chấp đoạn, thường. 
-Căn cứ vào chỗ bác phá của Thức Luận có bảy lỗi chấp, mà trong đây Thế Tôn chỉ đưa ra năm lỗi chấp. 
+Căn cứ vào chỗ bác phá của Thức Luận có 7 lỗi chấp, mà trong đây Thế Tôn chỉ đưa ra 5 lỗi chấp. 
 
 7 lỗi chấp trong luận là:
 
-Số luận sư chấp 25 Minh đề. 
-Nghĩa là từ Thần ngã làm Minh sở chủ tể, từ Minh sanh Giác, từ Giác sanh Ngã tâm, từ Ngã tâm sanh Ngũ trần, từ Ngũ trần …
+1. Số luận sư chấp 25 Minh đế. 
+Nghĩa là từ Thần ngã làm Minh sở chủ tể, từ Minh sanh Giác, từ Giác sanh Ngã tâm, từ Ngã tâm sanh Ngũ trần, từ Ngũ trần sanh Ngũ đại, từ Ngũ đại sanh 11 căn, cộng lại 25 pháp, dùng Thần ngã làm Thắng tánh. 
+Chữ Thắng diệu trong đây tức là Thần ngã của họ.
+
+2. Thắng luận sư chấp Lục cú làm nhân sanh, nghĩa là Thật, Đức, Nghiệp, Đại hữu, Hòa hợp, Đồng dị. 
+Vọng chấp 6 thứ này đều có thật tánh, rồi tất cả pháp đều từ Lục cú này sanh. 
+Lại từ trong Thật chấp có 9 pháp là địa, thủy, hỏa, phong, không, thời, phương… hòa hợp. 
+Lại chấp Cực vi (nguyên tử) lập thành cõi thế gian, cho nên chấp Cực vi thường trụ bất diệt. 
+Chữ Thời cùng Vi trần trong đoạn này tức là kiến chấp của phái Thắng luận.
+
+3. Có ngoại đạo chấp trời Đại tự tại, thể thật, trùm khắp, thường, hay sanh ra các pháp. 
+Chữ Tự tại trong đoạn này tức là chỗ chấp của phái ngoại đạo ấy.
+
+4. Có 7 giáo phái ngoại đạo chấp Đại phạm, Thời, Phương, Bản tế, Tự nhiên, Hư không, Ngã... 
+7 pháp như vậy thường trụ thật hữu, đầy đủ các công năng, sanh tất cả pháp. 
+Chữ Trượng phu trong đoạn này tức Đại phạm kia, nghĩa là Đại phạm thiên hay sanh tất cả. 
+Chữ Thời trong đây cũng là Thời trong chín pháp của Thật cú.
+
+5. & 6. Có hai Thanh luận sư chấp âm thanh là thường, có thể làm định lượng, trình bày biểu hiện cho các pháp. 
+Một, Đợi duyên sanh; hai, Đợi duyên hiện. Nghĩa là âm thanh là thường, nhờ định có thể tiêu biểu tất cả các pháp.
+
+7. Thuận thế ngoại đạo chấp Tứ đại là thật, là thường hay sanh hữu tình. 
+Nghĩa là Cực vi là có thật, là thường trụ, có thể sanh các vật chất lớn. 
+Chữ Vi trần trong đoạn này cũng là chấp Cực vi.
+
+Chuẩn theo 7 phái này mà Thế Tôn chỉ đưa ra năm phái còn thiếu hai phái Thanh luận sư. 
+Phần sau sẽ thêm vào ở đoạn nói về nhân duyên hai tự tánh. 
+Song các phẩm loại của ngoại đạo tuy nhiều lối chấp về pháp “Có” không qua 4 thứ: 
+Quyết định là một như Số luận…; quyết định là khác như Thắng luận; cũng một cũng khác như Vô tâm ngoại đạo...; chẳng một chẳng khác như Tà mạng ngoại đạo…
+
+Đây đều không đạt được đạo lý Duy thức chánh vọng chẳng khác chẳng một mà vọng chấp nhất định một nhất định khác, rồi tạo thành những nghị luận rối ren, ngang ngạnh khởi lên nhị kiến chấp Đoạn, Thường. 
+
+Trong đây nêu riêng hai tà kiến nhất định một, khác mà Phật đã dụ trù dùng thí dụ khối đất và vi trần chẳng một chẳng khác để phá dẹp. Vì hai thứ này đều là Đoạn kiến. 
+Tại sao? Nếu bảo quyết định là một, ắt khi bày thức diệt thì thức thứ tám cũng diệt theo, thế là rơi vào Đoạn kiến. 
+
+Nếu bảo quyết định là khác, thì đã lập tương tục diệt riêng còn dị nhân (nhân khác), đã lập nhân khác át là tám thức vô nhân, cũng là Đoạn kiến. 
+Song Thế Tôn đã chỉ như Thắng tánh… năm thứ, ở đây cho là Đoạn kiến, ở trong luận đều cho là Thường kiến. 
+
+Vì sao? Bên kia chấp thường, tức trong đây là đoạn. 
+Vì sao? Vì ngoại đạo không biết đạo lý duy thức chân thường, bên cho tám thức đều là đoạn diệt, rồi riêng chấp có dị pháp sẽ làm chân thường. 
+
+Như thế, phía họ đã chấp dị pháp là thường, thì thức tánh chân thường bốn hữu trở lại là đoạn diệt. 
+Đó là lý do ở chỗ họ chấp thường mà ở đây lại rơi vào đoạn diệt. 
+Chính là dùng vô thường làm thường, đem thường làm vô thường, thật là kiến chấp điên đảo. 
+Nghĩa này sâu huyền ít người biết.
+
+Lại nữa này Đại Huệ, có bảy loại tánh tự tánh. 
+Đó là: Tập tánh tự tánh, Tánh tự tánh, Tướng tánh tự tánh, Đại chúng tánh tự tánh, Nhân tánh tự tánh, Duyên tánh tự tánh, Thành tánh tự tánh.
+
+Đoạn này đưa ra các luận chấp hư vọng mà ngoại đạo dùng làm tôn chỉ.
+
+Bản Ngụy nói: 
+Ngoại đạo chấp có 7 loại tự tánh. Xét trong bản ấy có hai chữ ngoại đạo, thế là do đoạn trước nói: 
+“Ngoại đạo cho rằng các pháp không từ Thức sanh, mà từ nguyên nhân khác, nên họ vọng lập Thắng diệu... hết thảy 5 nguyên nhân. 
+Các nguyên nhân này có thật, thường trụ, từ đó phát sanh các pháp”. 
+Xem như vậy thì 5 Nguyên Nhân Đầu Tiên ở đoạn trước là chỉ cho pháp được công nhận, còn 7 loại tự tánh này là đưa ra 7 giáo nghĩa để thành lập 5 pháp trên. 
+Nhưng 7 thứ này đều là vọng chấp, vì đứng ngoài thức mà riêng có tự tánh.
+
+Theo bộ Thức Luận giải nghĩa:
+
+1. Tập tánh tự tánh: Tập là nhóm hợp chung lại, chỉ cho phái Số luận lập nên 25 pháp. Thức luận nói: Bởi vì pháp Đại… là do ba việc hợp thành. Lại nói thêm: Các pháp như Đại… do nhiều việc hợp thành, như quân lính, rừng cây… Phái ấy chấp Năm đại, Mười một căn là do ba yếu tố: Mình sở, Giác tâm và Năm trần, hợp lại để sanh khởi, nên nói Tập tánh tự tánh.
+
+2. Tánh tự tánh: Luận chấp này lập Thắng tánh làm tự tánh.
+
+3. Tướng tánh tự tánh: Tướng là sắc chất ngăn ngại. Chỉ cho phái Thắng luận lập nên Lục cú. Phái này cho rằng sáu yếu tố là Thật, Đức, Nghiệp, Đại hữu, Hòa hợp, Đồng dị và các sắc chất Cực vi của tự thể là nguyên nhân đầu tiên sanh khởi vạn vật.
+
+4. Đại chúng tánh tự tánh: Chỉ cho phái Thuận thế thành lập Tứ đại là Thường trụ, hay sanh khởi vạn vật. Tức là đoạn trên nói “Vi trần sanh khởi sắc thọ”.
+
+5. và 6. Nhân tánh tự tánh và Duyên tánh tự tánh là hai lập thuyết của phái Thanh luận sư. 
+Một thuyết nói: “Đợi duyên sanh”, cho âm thanh là nguyên nhân sanh pháp, chỉ dùng một mình âm thanh làm nhân, nên gọi là Nhân tánh làm tự tánh. 
+Thuyết thứ hai nói: “Đợi duyên hiển”, cho Duyên (điều kiện) phát ra âm thanh là nguyên nhân sanh pháp, nên gọi là Duyên tánh làm tự tánh.
+
+7. Thành tánh tự tánh: Chỉ cho lối chấp “Hòa hợp cú” trong Lục cú, chấp các pháp hòa hợp mà thành, nên gọi là Thành tánh tự tánh.
+
+7 loại tự tánh này trọn không ra ngoài Tứ cú, cho các pháp là Tự sanh, Tha sanh, Cộng sanh, Vô nhân sanh. 
+Bởi vì nếu chấp Nhân tánh làm tự tánh là chấp Tự sanh; chấp Đại chúng tánh làm tự tánh, Duyên tánh làm tự tánh là chấp Tha sanh; chấp Tập tánh làm tự tánh, Tướng tánh làm tự tánh, Thành tánh làm tự tánh là chấp Cộng sanh; chấp Tánh làm tự tánh là chấp Vô nhân sanh. 
+
+Tóm lại không ngoài hai kiến chấp Đoạn và Thường, đều là vọng tưởng tà chấp, chẳng phải là Đệ nhất nghĩa của ta. Cho nên đoạn văn tiếp theo đây nói: “Ta có bảy loại Đệ nhất nghĩa”.
+
+Phần trên trình bày về các tôn chỉ tà chấp đã xong.
+
+Phần tiếp sau đây nêu lên bảy loại thánh nghĩa để phân biệt với tà kiến, có hai phần. Phần đầu: Nêu chánh nghĩa.
+
+E₂ – Nêu bảy thứ thánh nghĩa để biện biệt tà kiến, có 2
+G₁ – Nêu chánh nghĩa
+
+Lại nữa này Đại Huệ! Có bảy loại Đệ nhất nghĩa. 
+Đó là: Cảnh giới tâm, Cảnh giới huệ, Cảnh giới trí, Cảnh giới kiến, Cảnh giới vượt qua nhị kiến, Cảnh giới vượt qua đất chấp, Cảnh giới do Như Lai thân chứng. 
+Này Đại Huệ! Đây là Tánh tự tánh đệ nhất nghĩa Tâm của các đức Như Lai Ứng cúng Đẳng chánh giác trong ba đời.
+
+Tánh đệ nhất nghĩa Tâm làm tự tánh để thành tựu pháp thế gian, pháp xuất thế gian, pháp xuất thế gian thượng thượng. 
+Bậc Thánh huệ nhân vào trong các tự tướng cộng tưởng mà kiến lập Như. Chỗ lập luận của Như Lai không giống các lối lập luận ác kiến của ngoại đạo.
+
+Đoạn này đưa ra chánh giáo lượng của Như Lai, dùng Đệ nhất nghĩa làm tông, khác với luận chấp ác kiến của ngoại đạo.
+
+Bản Ngụy dịch: Ta có bảy loại Đệ nhất nghĩa...
+7 loại cảnh giới ta nêu lên đây, là cảnh giới Đệ nhất nghĩa Tâm làm Tự tánh, mà chư Phật Ứng cúng Đẳng chánh giác trong ba đời, dùng Tự tánh đệ nhất nghĩa Tâm này mà thành tựu pháp thế gian, pháp xuất thế tối thượng của Như Lai. 
+Đó cũng chính là chỗ kiến lập Như của các Thánh huệ nhân, đã chứng Tự tướng Cộng tướng.
+
+Chữ Như nghĩa là xứng hợp. Nghĩa là chỗ kiến lập của ta là kiến lập xứng tánh, khác với luận ác kiến của ngoại đạo. 
+Chữ Nhập nghĩa là chứng. Tự tướng là Nhất tâm chân như. Cộng tướng là Nhân duyên của tám thức. 
+Nghĩa là ta đã chứng nhập Duy tâm Duy thức, dùng đây kiến lập nên pháp môn tối thượng của thế gian và xuất thế gian. 
+Không thể so sánh ta với các ngoại đạo vọng lập các Nguyên nhân khác làm căn nguyên sanh các pháp, nên nói khác với lập luận ác kiến của ngoại đạo.
+
+G₂. Trách lỗi ngoại đạo
+
+Đại Huệ! Thế nào là luận ác kiến ngoại đạo? Nghĩa là từ cảnh giới vọng tưởng mà thấy. 
+Họ không biết, không hiểu rõ về giới hạn hiện bày của tự tâm.
+
+Đoạn này giải thích lại vì sao trên kia nói là ngoại đạo ác kiến.
+
+Phật dạy: Bảy thứ cảnh giới Đệ nhất nghĩa của ta, là do sức quán sát của bậc Thánh huệ nhân, do sức trí kiến chân thật. 
+Còn ác kiến của ngoại đạo kia, là cái thấy tùy thuộc vào cảnh giới vọng tưởng của họ, do không hiểu giới hạn của vọng tưởng tự tâm hiện, nên tạo ra bảy loại tà chấp đoan biên cho đó là nhất định Một, nhất định Khác, mà chẳng thông suốt.
+
+Đại Huệ, phàm phu ngu si đối với tánh vô tánh tự tánh đệ nhất nghĩa, tạo luận nhị kiến.
+
+Đây tổng kết thành ngoại đạo ác kiến, ở trong đệ nhất nghĩa làm luận nhị kiến.
+
+Ngụy dịch: Các phàm phu ngu si dùng cái không thật thế cho đó là Đệ nhất nghĩa, làm luận nhị kiến. 
+Nghĩa là do không thấu đạt các pháp vô tánh mà vọng lập tự tánh, theo vọng kiến điên đảo ngu si, nên ở trong Đệ nhất nghĩa làm luận nhị kiến.
+
+Đoạn trước từ câu “Các ngoại đạo làm luận như thế”, đến đoạn này là nêu chung nhị kiến về một khác đoạn thường không chân thật để lập chánh Duy thức lượng đã xong. 
+
+Sau đây quy trách lỗi chấp nhị kiến của ngoại đạo, cả nhân lẫn quả đều “không chân thật. Do họ không biết duy tâm sở hiện nên vọng chấp là có là không, thành lỗi hí luận đoạn diệt. 
+Sau đó chỉ dạy đầy đủ về Duy tâm quán môn, muốn người tu y cứ tâm bất sanh diệt, thấu rõ cảnh giới duy tâm như huyễn mà tu quán, ắt sẽ được hai quả chuyển y thường trụ.
+
+* Phần trên nêu ra bảy loại thánh nghĩa để phân biệt với tà kiến xong.
+
+* Phần dưới trình bày nhân tà để nêu nhân chánh, chia hai phần.
+
+E₃. Chánh thức trình bày nhân tà để nêu nhân chánh, có 2
+
+G₁. Trình bày nhân tà
+
+Lại nữa này Đại Huệ! Nay ta sẽ nói về sự diệt trừ vọng tưởng quả khổ trong ba cõi, sự diệt trừ nghiệp duyên Vô tri và Ái, sự nhận thức cảnh giới huyễn do tự tâm hiện.
+
+Đây tiếp theo đoạn trên nói ngoại đạo không thấu đạt cảnh giới duy tâm như huyễn, vọng tạo nhị kiến nên đối với khổ trong ba cõi không thể diệt trừ. 
+Nay sắp chỉ cho người tu hành về pháp môn duy tâm như huyễn để làm đường tu chánh, nên nêu lên việc này trước tiên.
+
+Đường dịch: Nếu biết rõ cảnh như huyễn tự tâm hiện thì diệt trừ vọng tưởng khổ của ba cõi và vô tri ái nghiệp duyên diệt.
+
+Khổ ba cõi tức quả khổ trong ba cõi. Các quả khổ này đều từ vọng tưởng mà có cho nên nói vọng tưởng quả khổ ba cõi. 
+Vô tri tức căn bản vô minh, là động cơ phát nghiệp. 
+Ái tức tham ái, là nuôi lớn vô minh. Hai cái này là nghiệp nhân của ba cõi 25 loài, gọi là Hoặc. 
+Nghiệp duyên tức là từ hai vọng hoặc Vô tri và Ái mà kết nghiệp sanh tử, ràng buộc không thể xuất ly, nên nói Nghiệp duyên. 
+Bởi vì nghiệp nhân khổ quả này chẳng thể tiêu diệt, đều do không thấu đạt tất cả cảnh giới duy tâm sở hiện, chỉ theo vọng kiến lưu chuyển.
+
+Ngoại đạo tuy có tâm xuất khổ, mà không biết bí yếu xuất khổ, và chỗ tu hành chỉ nương hai kiến chấp đoạn thường mà thôi, duy tâm chiếu kiến làm tâm nương tựa lộn xộn. 
+Họ căn cứ vào các kiến chấp này, chấp sau pháp hư vọng, vì nhân địa đó không chân thật nên kết quả lầm lạc, uổng công tu cực khổ mà không thật chứng.
+
+Ý Phật nói rằng nếu người tu hành hiểu được cảnh như huyễn duy tâm hiện, thì nhân quả trong ba cõi ngay đó tiêu diệt. 
+Cho nên từ đây về sau đến câu Dời xưng lời của bậc Nhất thế trí, là trách chung nhị kiến ngoại đạo không chân thật. Từ Nếu các Sa-môn khác về sau đến Tự tất-đàn là thiện căn nên học chỉ chung về duy tâm quán môn.
+
+Này Đại Huệ! Lại có các Sa-môn, Bà-la-môn chấp “có, không” làm nhân quả cho mọi hiện hữu; chấp sự vật tồn tại tùy thuộc thời gian, chấp sự vật (uẩn, xứ, giới) tùy thuộc điều kiện, chấp sự vật có rồi mất hẳn.
+
+
 
 <hr class="blog-rule" />
 
