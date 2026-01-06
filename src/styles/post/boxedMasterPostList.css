@@ -1,0 +1,37 @@
+.boxed-post-list-title-medium {
+  color: var(--color-accent-gold);
+}
+
+.boxed-master-post-list {
+  display: grid;
+  gap: calc(var(--grid-unit) * 4);
+  margin-bottom: calc(var(--grid-unit) * 6);
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  width: 100vw;
+  height: 100vh;
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    max-height: 500px;
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, .5);
+  }
+
+  img {
+    max-height: 300px;
+    margin-bottom: 10px;
+  }
+
+  .card h2, .card h4, .card .descp {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+  }
+
+  .descp {
+    text-align: justify;
+    text-justify: inner-word;
+  }
+}
+

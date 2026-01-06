@@ -516,5 +516,24 @@ const CnLv5MasterDb = [
       'Ông đến sống tại Tiệm Nguyên Sơn ở Đàm Châu (潭州, Tỉnh Hồ Nam) và nỗ lực cử xướng Thiền phong của mình tại đây.'
     ],
   },
+  {
+    id: '38.5.25',
+    name_en: 'Jianyuan Zhongxing',
+    name_ja: '',
+    name_zh: '漸源仲興',
+    name_vi: 'Phật Quật Duy Tắc',
+    other_name_vi: '',
+    birth_death_time: ['', ''],
+    epoch: '',
+    records: '',
+    sect: [],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Niutou Huizhong'],
+    successors: ['Yunju Zhi'],
+    disciples: ['Yunju Zhi'],
+    image: '/images/avatar.png',
+    reference: ['https://ngulucthien.com/thien-su-duy-tac/'],
+  },
 ]
 export default CnLv5MasterDb;

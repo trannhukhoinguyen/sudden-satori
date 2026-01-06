@@ -1373,7 +1373,7 @@ Sở tác vô chướng ngại.
 
 - Thế nào là TẤT CẢ PHÁP ĐỆ NHẤT NGHĨA THÁNH TRÍ ĐẠI KHÔNG? Vì người đắc Tự Giác Thánh Trí thì tất cả kiến chấp tập khí đều không, ấy gọi là Tất Cả Pháp Đệ Nhất Nghĩa Thánh Trí Đại Không.
 
-- Thế nào BÆ BÆ KHÔNG? Nghĩa là ở nơi kia chẳng có cái không kia, gọi là Bỉ Bỉ Không.
+- Thế nào BỈ BỈ KHÔNG? Nghĩa là ở nơi kia chẳng có cái không kia, gọi là Bỉ Bỉ Không.
 
 - Đại Huệ! Ví như người mẹ của Lộc Tử là nữ cư sĩ Tỳ Xá, vì xây dựng Tịnh xá cho Tỳ Kheo ở, chẳng nuôi voi, ngựa, trâu, dê... Nay nói Bỉ Không, chẳng phải nơi kia không có chúng Tỳ Kheo, cũng chẳng phải Tịnh xá trống rỗng không, cũng chẳng phải Tỳ Kheo tánh không, cũng chẳng phải chỗ khác không có voi, ngựa, nghĩa là tự tướng của tất cả pháp, cái kia, ở nơi kia chẳng có cái kia, ấy gọi là Bỉ Bỉ Không. nói chung trong bảy thứ Không, Bỉ Bỉ Không là cái không rất thô, ngươi nên xa lìa.
 

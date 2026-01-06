@@ -177,9 +177,9 @@ Hay thay cho “Minh Viễn” - nếu không lùi lại một cự li nhất đ
 
 Thôi Thị, phu nhân của Mân Soái là một thiền giả tại gia, Bà sai đặc sứ đem đến tặng Thiền sư Trường Khánh Huệ Lăng một ít y áo. Đặc sứ thưa: “Phu nhân bảo con xin đặc sứ một bức thư trả lời”.
 
-Năm đó, Thiền sư Linh Vân lấy một chiếc giày làm thư, mà nay Thiền sư Huệ Lăng lại càng rút gọn hơn, chỉ nói:” Ngươi nhắn lại với phu nhân: thu nhận hồi âm”.
+Năm đó, Thiền sư Linh Vân lấy một chiếc giày làm thư, mà nay Thiền sư Huệ Lăng lại càng rút gọn hơn, chỉ nói: ”Ngươi nhắn lại với phu nhân: thu nhận hồi âm”.
 
-Đặc sứ sững sờ trong giây lát, rồi lập tức hiểu ra câu nói: “thu nhận hồi âm” này chính là thư hồi âm, ông ta vâng lời, trở về thưa lại với phu nhân. Ngày hôm sau, Thiền sư đến phủ đại soái, phu nhân thưa: “Cám ơn thư hồi âm của Đặc sứ ngày hôm qua”. Thiền sư Trường Khánh Huệ Lăng tự nhiên nổi phong ba, đột nhiên đưa cánh tay ra, nói:” Xin đem thư hồi âm ngày hôm qua của lão tăng ra đây xem xem”.
+Đặc sứ sững sờ trong giây lát, rồi lập tức hiểu ra câu nói: “thu nhận hồi âm” này chính là thư hồi âm, ông ta vâng lời, trở về thưa lại với phu nhân. Ngày hôm sau, Thiền sư đến phủ đại soái, phu nhân thưa: “Cám ơn thư hồi âm của Đặc sứ ngày hôm qua”. Thiền sư Trường Khánh Huệ Lăng tự nhiên nổi phong ba, đột nhiên đưa cánh tay ra, nói: ”Xin đem thư hồi âm ngày hôm qua của lão tăng ra đây xem xem”.
 
 Phu nhân là người rất cừ, xòe hai bàn tay ra, đại soái thấy tình cảnh đó, phát khởi thiền hứng, hỏi: “Phu nhân vừa trình thư, có vừa ý Đại sư không? Trường Khánh Huệ Lăng trả lời: “Vẫn tàm tạm”
 
@@ -243,7 +243,7 @@ Thiền sư Linh Vân trả lời: Núi xanh vẫn bất động, mây trôi c�
 
 “Khi quân vương xuất trận thì như thế nào? “ Đệ tử hỏi:
 
-Thiền sư Linh Vân trả lời:” Ngoài cửa Minh Xuân, không hỏi Trường An”
+Thiền sư Linh Vân trả lời: ”Ngoài cửa Minh Xuân, không hỏi Trường An”
 
 Được triều kiến Thiên tử thì như thế nào? Đệ tử hỏi:
 
@@ -265,7 +265,7 @@ Một vị đệ tử khác của Thiền sư Tuyết Phong là một trong nh�
 
 Thiền sư Linh Vân trả lời: “Như cây cột mang thai”
 
-Kiểu Nhiên hỏi dồn:” Sau khi đã phân chia thì như thế nào?’
+Kiểu Nhiên hỏi dồn: ”Sau khi đã phân chia thì như thế nào?’
 
 Thiền sư Linh Vân trả lời: “ Cũng như đám mây trên trời xanh”.
 
@@ -279,7 +279,7 @@ Thiền sư Linh Vân trả lời: “Tựa như gương luôn sáng”
 
 Kiểu Nhiên lĩnh ngộ rồi, gật gật đầu, lại hỏi lần nữa: “hướng thượng vẫn còn có việc nữa sao?” Thiền sư Linh Vân nói có, ông lập tức hỏi dồn: “Thế nào là việc hướng thượng?”
 
-Thiền sư Linh Vân trả lời:” Đợi ngươi đánh vỡ tấm gương này, sẽ gặp lại ngươi”.
+Thiền sư Linh Vân trả lời: ”Đợi ngươi đánh vỡ tấm gương này, sẽ gặp lại ngươi”.
 
 ### TẮC 26 : BẢO PHÚC BỐN LẦN LỪA NGƯỜI
 

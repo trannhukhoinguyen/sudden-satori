@@ -154,7 +154,7 @@ Gọi là tri giác Phật.
 
 ### Phật bảo Đại Huệ:
 
-- Do bốn thứ bình đẳng nên Như Lai Ưng Cúng Chánh Đẳng Giác, nơi đại chúng nói lời như thế : "Khi ấy Ta làm Phật Câu Lưu Tôn, Phật Câu Na Hàm Mâu Ni, Phật Ca Diếp".
+- Do bốn thứ bình đẳng nên Như Lai Ứng Cúng Chánh Đẳng Giác, nơi đại chúng nói lời như thế : "Khi ấy Ta làm Phật Câu Lưu Tôn, Phật Câu Na Hàm Mâu Ni, Phật Ca Diếp".
 
 - Thế nào là BỐN THỨ BÌNH ĐẲNG? Ấy là Tự đẳng, Ngữ đẳng, Pháp đẳng và Thân đẳng. Vì bốn thứ bình đẳng này, nên Như Lai Ứng Cúng Đẳng Chánh Giác ở trong chúng nói lời như thế.
 
@@ -178,7 +178,9 @@ Vì Phật tử thuyết pháp.
 
 ### Đại Huệ bồ tát lại bạch Phật rằng:
 
-- Như Thế Tôn sở thuyết :" Ta từ đêm kia đắc Tối Chánh Giác, cho đến đêm kia nhập Niết Bàn, ở nơi khoảng giữa đó chẳng thuyết một chữ, cũng chẳng phải đã thuyết, chẳng phải sẽ thuyết, nói "chẳng thuyết là Phật thuyết". Thế Tôn! Như lai Ứng Cúng Đẳng Chánh Giác vì sao nói "Chẳng thuyết tức là Phật thuyết?".
+- Như Thế Tôn sở thuyết: 
+
+> Ta từ đêm kia đắc Tối Chánh Giác, cho đến đêm kia nhập Niết Bàn, ở nơi khoảng giữa đó chẳng thuyết một chữ, cũng chẳng phải đã thuyết, chẳng phải sẽ thuyết, nói "chẳng thuyết là Phật thuyết". Thế Tôn! Như lai Ứng Cúng Đẳng Chánh Giác vì sao nói "Chẳng thuyết tức là Phật thuyết?"
 
 ### Phật bảo Đại Huệ:
 

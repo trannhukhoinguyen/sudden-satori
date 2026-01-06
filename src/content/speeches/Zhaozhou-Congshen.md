@@ -1881,7 +1881,7 @@ Nếu người đó bảo: Tôi không hỏi chuyện này, thì ông đáp: V�
       -Là hai lời.
 
 256.  Một ông tăng hỏi :
-      -Có lời nói :” Đấng Thế tôn là bậc toàn hảo “ thầy thấy thế nào?
+      -Có lời nói : ”Đấng Thế tôn là bậc toàn hảo “ thầy thấy thế nào?
       -Điên khùng!
 
 257.  Một ông tăng hỏi :

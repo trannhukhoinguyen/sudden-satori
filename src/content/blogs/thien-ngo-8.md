@@ -315,9 +315,9 @@ Sau này Thiền sư Thiệu Tu một mình đến ở ẩn tại chùa Long T�
 
 Có một vị Tăng hỏi: “Thấy sắc liền thấy tâm, hiển lộ là sắc, thế nào là tâm?”
 
-Long Tế Thiệu Tu nói:” Thật may ngươi chưa lãnh hội, đừng lừa dối người đã rõ”.
+Long Tế Thiệu Tu nói: ”Thật may ngươi chưa lãnh hội, đừng lừa dối người đã rõ”.
 
-Thiền tăng không hiểu, lại hỏi:” Làm sao ra khỏi ba cõi?”
+Thiền tăng không hiểu, lại hỏi: ”Làm sao ra khỏi ba cõi?”
 
 Thiền sư Thiệu Tu: “Nếu là ba cõi, thì tùy ngươi ra khỏi”
 
