@@ -140,7 +140,7 @@ const CnLv1MasterDb = [
   {
     id: '34.1.8',
     name_en: 'Jizhou Zhicheng',
-    name_ja: 'Jizhou Zhicheng',
+    name_ja: '',
     name_zh: '吉州志誠',
     name_vi: 'Cát Châu Chí Thành',
     birth_death_time: ['', ''],
