@@ -154,6 +154,7 @@ const CnLv4MasterDb = [
   {
     id: '37.4.9',
     name_en: 'Niutou Huizhong',
+    name_wade_giles: '',
     name_ja: 'Gozu Echū',
     name_zh: '牛頭慧忠',
     name_vi: 'Ngưu Đầu Tuệ Trung',
@@ -166,7 +167,7 @@ const CnLv4MasterDb = [
     place: 'Ngưu Đầu Sơn',
     teachers: ['Niutou Zhiwei'],
     successors: [''],
-    disciples: ['Thiên thai Duy Tắc Phật Quật', 'Thái Bạch Quán Tông', 'Kim Lăng Huệ Thiệp'],
+    disciples: ['Futuyu Weize', 'Taibai Guanzong', 'Jinling Huìshe'],
     image: '/images/avatar.png',
     reference: [''],
   },
