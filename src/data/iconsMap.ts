@@ -48,9 +48,11 @@ const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
   },
 
   symptoms: {
-    'Giới thiệu': '‍😵',
-    'Chưa phân loại': '😵',
-    categorized: '🤢',
+    'Giới thiệu': '‍🌀',
+    'Chưa phân loại': '🌀',
+    categorized: '🌀',
+    'TRIỆU CHỨNG TỐT': '✅',
+    'THIỀN BỆNH': '❌',
   },
 
   wordpress: {

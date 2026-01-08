@@ -190,7 +190,7 @@ const CnLv13MasterDb = [
     name_en: 'Letan Hongying',
     other_name_en: 'Baofeng Hongying',
     name_ja: 'Letan Hongying',
-    name_zh: '泐潭洪英, ',
+    name_zh: '泐潭洪英',
     name_vi: 'Lặc Đàm Hồng Anh',
     other_name_vi: 'Bảo Phong Hồng Anh',
     nickname_vi: '',

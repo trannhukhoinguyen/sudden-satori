@@ -168,7 +168,7 @@ const CnLv9MasterDb = [
     records: '',
     sect: ['Yunmen'],
     country: '🇨🇳',
-    place: 'Wuzushan (五祖山) (Phùng mậu sơn, Đông Sơn), Hoàng Mai district (黃梅), Hubei province) & Đại Ngu Sơn (大愚山), Cao An district (高安縣, Jiangxi province) ',
+    place: 'Wuzushan (五祖山) (Phùng mậu sơn, Đông Sơn), Hoàng Mai district (黃梅), Hubei province) & Đại Ngu Sơn (大愚山), Cao An district (高安縣, Jiangxi province)',
     teachers: ['Shuangquan Shikuang'],
     successors: ['Dongshan Zibao'],
     disciples: ['Dongshan Zibao', 'Letan Huaicheng (泐潭懷澄)'],

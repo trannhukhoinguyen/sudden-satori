@@ -1,5 +1,5 @@
 ---
-import "@/styles/post/boxedPostList.css";
+import "@/styles/post/boxedMasterPostList.css";
 import {config} from "@/config";
 import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
@@ -21,14 +21,13 @@ const groupsBySpecialTag = posts?.map((post: any) => post.frontmatter?.tags[0]);
 const groupsSorted = [
     groupsBySpecialTag.find((group: string) => group === 'Giới thiệu'),
     groupsBySpecialTag.find((group: string) => group === 'Chưa phân loại'),
-    ...groupsBySpecialTag.filter((group: string) => !['Giới thiệu', 'Chưa phân loại'].includes(group)),
+    ...groupsBySpecialTag.filter((group: string) => !['Giới thiệu', 'Chưa phân loại']?.includes(group)),
 ];
-const postsGroupedBySpecialTag = groupsSorted
-    .slice((page-1)*config.postsPerPage, page*config.postsPerPage)
+const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
     ?.filter((group: string | undefined): group is string => !!group) // bỏ undefined
     ?.map((group: string) => ({
             group: group,
-            postsGrouped: posts.filter((post: any) => post.frontmatter?.tags[0] === group),
+            postsGrouped: posts.filter((post: any) => post.frontmatter?.tags?.length && post.frontmatter?.tags[0] === group),
     }))
     .filter((g) => g.postsGrouped.length > 0); // bỏ group không có bài;
 ---
@@ -42,34 +41,52 @@ const postsGroupedBySpecialTag = groupsSorted
 
             return (<h2 class="boxed-post-list-title-medium">
                 {
-                    ['Giới thiệu', 'Chưa phân loại'].includes(postGrouped.group)
+                    ['Giới thiệu', 'Chưa phân loại']?.includes(postGrouped.group)
                         ? icons[postGrouped.group]
                         : icons['categorized']
                 }
                 {postGrouped.group}
             </h2>
-            <div class="boxed-post-list">
+            <div class="boxed-master-post-list">
                 {postGrouped.postsGrouped
                     ?.slice((page-1)*config.postsPerPage, page*config.postsPerPage)
-                    ?.map((post: any) => <article class="boxed-post-card">
+                    ?.map((post: any) =>
+                        <div class="card">
+                          <PostImage
+                            imageUrl={post.frontmatter.image ?? '/images/unknown-zen-master.jpg'}
+                            imageAlt={post.frontmatter.title}
+                          />
+                          <h3 class="boxed-post-title">
+                            <a href={`/masters/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
+                              {post.frontmatter.title}
+                            </a>
+                          </h3>
+                          <!--<h4 style="display: inline-block; position: relative">{ post.frontmatter.sect }</h4>-->
+                          <div class="descp">
+                            <PostExcerpt frontmatter={post.frontmatter}/>
+                          </div>
+                        </div>
+
+<!--                      <article class="boxed-post-card">
                         <h4 class="boxed-post-title">
                             <a href={`/masters/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
                                 {post.frontmatter.title}
                             </a>
                         </h4>
 
-                        <!-- Image Section -->
+                        &lt;!&ndash; Image Section &ndash;&gt;
                         <section class="image-area">
-                            <PostImage
-                              imageUrl={post.frontmatter.image ?? '/images/unknown-zen-master.jpg'}
-                              imageAlt={post.frontmatter.title}
-                              height="100px"/>
+                      <PostImage
+                      imageUrl={post.frontmatter.image ?? '/images/unknown-zen-master.jpg'}
+                      imageAlt={post.frontmatter.title}
+                      height="100px"/>
                         </section>
 
                         <div class="boxed-post-meta">
                             <PostExcerpt frontmatter={post.frontmatter}/>
                         </div>
-                    </article>)}
+                    </article>-->
+                    )}
             </div>
 
                     <!-- Pagination Section -->

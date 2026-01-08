@@ -6,7 +6,7 @@
     margin-bottom: calc(var(--grid-unit) * 6);
 }
 .post-title {
-    font-family: var(--font-heading-primary);
+    font-family: var(--font-heading-primary), serif;
     font-size: 3rem;
     font-weight: 900;
     color: var(--color-accent-gold);

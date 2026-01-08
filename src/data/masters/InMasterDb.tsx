@@ -465,7 +465,7 @@ const InMasterDb = [
     id: '23',
     name_en: 'Haklenayaśas',
     name_ja: 'Kakurokuna (Kakurokunayasha)',
-    name_zh: '鶴勒那 (鶴勒那夜奢) ',
+    name_zh: '鶴勒那 (鶴勒那夜奢)',
     name_vi: 'Hạc-Lặc-Na',
     birth_death_time: ['', ''],
     sect: [],

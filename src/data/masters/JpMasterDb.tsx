@@ -45,9 +45,9 @@ const JpMasterDb = [
   },
   {
     id: '50.17.5',
-    name_en: 'Duệ Sơn Giác A',
+    name_en: '',
     name_ja: '',
-    name_zh: 'Duệ Sơn Giác A ',
+    name_zh: '',
     name_vi: 'Duệ Sơn Giác A',
     other_name_vi: '',
     nickname_vi: '',

@@ -1,6 +1,5 @@
 ---
 title: "HÀ TRẠCH THẦN HỘI NGỮ LỤC"
-meta_title: "Nam Dương Huệ Trung ngữ lục"
 description: "THIỀN SƯ HÀ TRẠCH THẦN HỘI NGỮ LỤC"
 excerpt: "THIỀN SƯ HÀ TRẠCH THẦN HỘI NGỮ LỤC"
 categories: 

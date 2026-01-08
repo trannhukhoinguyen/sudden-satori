@@ -3,7 +3,7 @@ const InMasterDb = [
     id: '32.101.1.V',
     name_en: 'Zhongshan Faxian',
     name_ja: 'Shūszen Hōken',
-    name_zh: '眾善法賢 ',
+    name_zh: '眾善法賢',
     other_name_zh: '众善法贤',
     name_vi: 'Chúng Thiện Pháp Hiền',
     other_name_vi: '',

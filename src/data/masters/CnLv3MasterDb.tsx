@@ -400,7 +400,7 @@ const CnLv3MasterDb = [
     id: '36.3.22',
     name_en: 'Panshan Baoji',
     name_ja: 'Banzan Hōshaku',
-    name_zh: '盤山寳積, ',
+    name_zh: '盤山寳積',
     name_vi: 'Bàn Sơn Bảo Tích',
     other_name_vi: '',
     nickname_vi: 'Ngưng Tịch',

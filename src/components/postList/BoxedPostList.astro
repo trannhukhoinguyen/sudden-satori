@@ -27,7 +27,7 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
     ?.filter((group: string | undefined): group is string => !!group) // bỏ undefined
     ?.map((group: string) => ({
             group: group,
-            postsGrouped: posts.filter((post: any) => post.frontmatter?.tags && post.frontmatter?.tags[0] === group),
+            postsGrouped: posts.filter((post: any) => post.frontmatter?.tags?.length && post.frontmatter?.tags[0] === group),
     }))
     .filter((g) => g.postsGrouped.length > 0); // bỏ group không có bài;
 ---
@@ -41,7 +41,7 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
 
             return (<h2 class="boxed-post-list-title-medium">
             {
-                ['Giới thiệu', 'Chưa phân loại'].includes(postGrouped.group)
+                Object.keys(icons)?.includes(postGrouped.group)
                     ? icons[postGrouped.group]
                     : icons['categorized']
             }

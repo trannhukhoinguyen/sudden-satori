@@ -426,7 +426,10 @@ const CnLv0MasterDb = [
     place: '',
     teachers: ['Niutou Farong'],
     successors: ['Niutou Huifang'],
-    disciples: ['Niutou Huifang', 'Cảnh Đàm ở Đông đô', 'Chí Trường ở Tương châu', 'Đoan Phục ở Ích châu', 'Quy Nhân ở Long quang', 'Biện Tài ở Tương dương', 'Pháp Tuấn ở Hán nam', 'Mẫn Cổ ở Tây xuyên'],
+    disciples: [
+      'Niutou Huifang', 'Cảnh Đàm ở Đông đô', 'Chí Trường ở Tương châu', 'Đoan Phục ở Ích châu',
+      'Quy Nhân ở Long quang', 'Biện Tài ở Tương dương', 'Pháp Tuấn ở Hán nam', 'Mẫn Cổ ở Tây xuyên'
+    ],
     reference: [''],
   },
   {
@@ -434,7 +437,8 @@ const CnLv0MasterDb = [
     name_en: 'Yuquan Shenxiu',
     name_ja: 'Jinshū',
     name_zh: '玉泉 神秀',
-    name_vi: 'Ngọc Tuyền Thần Tú ',
+    name_vi: 'Ngọc Tuyền Thần Tú',
+    other_name_vi: 'Bắc Tông Thần Tú',
     birth_death_time: ['605/606', '706'],
     epoch: '',
     records: '',
@@ -443,7 +447,7 @@ const CnLv0MasterDb = [
     place: 'Jade Spring Temple (玉泉寺) - Yuquan Tiantai (玉泉天台), Yuquan Mountain (玉泉山), Jingxi Prefecture (荆溪府), within the scope of Dangyang, Hubei Province, Núi Đương Dương, Giang Lăng',
     teachers: ['Daman Hongren'],
     successors: [''],
-    disciples: ['Dōsen (道璿)', 'Tung Sơn Huệ Tịch (嵩山慧寂)',
+    disciples: ['Dōsen (道璿)', 'Tung Sơn Huệ Tịch (嵩山慧寂)', 'Duliang Quanzhi',
       'Laoshan Yifu', 'Xiangmo Zang', 'Huệ Minh', 'Songshan Jingxian', 'Jiangma Zang', 'Yushan Huifu'
     ],
     image: 'https://upload.wikimedia.org/wikipedia/en/2/2d/Shenxiu-invert.jpg',
@@ -466,7 +470,7 @@ const CnLv0MasterDb = [
     place: 'Tung Nhạc, Hà Nam',
     teachers: ['Daman Hongren'],
     successors: [''],
-    disciples: ['Phá Táo Đọa', 'Đạo Lượng', 'Nguyên Khuê'],
+    disciples: ['Songyue Pozao Duo', 'Songyue Daoliang', 'Nguyên Khuê'],
     reference: ['https://zh.wikipedia.org/zh-hant/%E5%B5%A9%E5%B6%BD%E6%85%A7%E5%AE%89',
       'https://pl.wikipedia.org/wiki/Lao%E2%80%99an_Hui%E2%80%99an',
       'https://thuvienhoasen.org/tudien?k=Hu%E1%BB%87%20An'],
@@ -491,9 +495,9 @@ const CnLv0MasterDb = [
   },
   {
     id: '33.6',
-    name_en: 'Thượng Nguyên Trí Thành',
+    name_en: '',
     name_ja: '',
-    name_zh: 'Thượng Nguyên Trí Thành',
+    name_zh: '',
     name_vi: 'Thượng Nguyên Trí Thành',
     birth_death_time: ['', ''],
     epoch: '',

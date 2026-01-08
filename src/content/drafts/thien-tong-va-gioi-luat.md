@@ -19,7 +19,7 @@ translators:
 
 - Nguyên Hiệp dịch
 
-## Giới thiệu
+## GIỚI THIỆU
 
 Những năm gần đây tôi có công bố một số bài viết về mối liên hệ giữa Thiền tông sơ kỳ và giới luật, cả giới Thanh văn thuộc Luật tạng truyền thống lẫn giới Bồ-tát. Ban đầu tôi nghĩ rằng việc nghiên cứu vấn đề này là quan trọng bởi vì nó liên quan đến việc phát triển các luật lệ của Thiền tông được gọi là “thanh quy” (清規). Nhưng khi nghiên cứu của tôi được tiến hành, tôi bắt đầu nhận thấy rằng điều này cũng liên quan đến những vấn đề hoàn toàn cốt yếu đối với chính sự tồn tại của Thiền tông, và hơn nữa nó nắm giữ chìa khóa giúp chúng ta có thể hiểu về mối liên hệ giữa Phật giáo và nhà nước ở Trung Quốc.[2] Dựa vào những nghiên cứu trước đây của tôi về những vấn đề này, trong bài viết này tôi sẽ nỗ lực trình bày tóm tắt suy nghĩ của tôi về mối liên hệ giữa sự phát triển Thiền tông và giới luật.
 

@@ -2,7 +2,7 @@ const CnLv14MasterDb = [
   {
     id: '47.14.1',
     name_en: 'Wuzu Fayan',
-    other_name_en: 'Qingyuan ',
+    other_name_en: 'Qingyuan',
     name_ja: 'Goso Hōen',
     name_zh: '五祖法演',
     name_vi: 'Ngũ Tổ Pháp Diễn',
