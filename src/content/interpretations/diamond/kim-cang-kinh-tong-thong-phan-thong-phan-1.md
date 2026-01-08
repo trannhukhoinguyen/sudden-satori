@@ -941,7 +941,7 @@ Chân thân của Như Lai vốn không sinh diệt, thường trụ trạm nhi�
 Nhập thần vào thai mẹ, nên mặc vào mình lớp tướng phàm cách biệt nầy.
 Nên nói nếu thấy các tướng là chẳng phải tướng, tức là thấy Như Lai.
 
-📣 Có bài tụng rằng:
+📣📣📣 Có bài tụng rằng:
 
 Phàm tướng diệt thời tánh bất diệt. 
 Chân như giác thể ly trần ai,
@@ -1254,7 +1254,7 @@ Chẳng vướng dây leo
 Trăng ngang trời không. 
 Mây trắng tự lìa.
 
-📣 Ngài Đan Hà có bài tụng rằng:
+📣📣📣 Ngài Đan Hà có bài tụng rằng:
 
 Vân tự cao phi thuỷ tự lưu,
 Hải thiên không khoát dạng hư chu 
@@ -1516,7 +1516,7 @@ Sau, Sư đến pháp hội của Thiền sư Phong Huyệt và được cử l�
 
 Tăng hỏi: Thọ trì như thế nào? Thủ Sơn đáp: Đừng nhiễm ô!
 
-📣 Đầu Tử 45[45] tụng rằng:
+📣📣📣 Đầu Tử 45[45] tụng rằng:
 
 Thuỷ xuất Côn Lôn sơn khởi vân, Điếu nhân tiều phụ muội lai nhân, Chỉ tri hồng lãng nham loan khoát Bất khẳng phao ti khí phủ thanh.”
 

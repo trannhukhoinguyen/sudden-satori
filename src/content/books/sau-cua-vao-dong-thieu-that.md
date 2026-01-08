@@ -1019,17 +1019,17 @@ Vạn đại cổ kim thường
 
 ❓: Nếu có người dốc lòng cầu đạo, thì nên tu theo pháp nào mới thực là cực kỳ tỉnh yếu?
 
-📣: Chỉ nói pháp quán tâm thâu nhiếp trọn các pháp mới thực là cực kỳ tỉnh yếu.
+📣📣📣: Chỉ nói pháp quán tâm thâu nhiếp trọn các pháp mới thực là cực kỳ tỉnh yếu.
 
 ❓: Sao một pháp nhiếp trọn các pháp được?
 
-📣: Tâm là gốc của muôn pháp. Tất cả các pháp, duy một tâm sanh. Nếu hiểu được tâm ắt muôn pháp sẵn đủ trong đó, ví như cây lớn có đủ cành nhánh trái bông, nhưng tất cả đều do một gốc sanh ra, nếu chặt gốc ắt cây chết. Nếu hiểu tâm tu đạo ắt được tỉnh lực nên dễ thành. Không hiểu tâm tu đạo ắt nhọc công vô ích. Mới biết tất cả việc lành dữ đều tự tâm. Cầu gì khác ở ngoài tâm, rốt không đâu có được.
+📣📣📣: Tâm là gốc của muôn pháp. Tất cả các pháp, duy một tâm sanh. Nếu hiểu được tâm ắt muôn pháp sẵn đủ trong đó, ví như cây lớn có đủ cành nhánh trái bông, nhưng tất cả đều do một gốc sanh ra, nếu chặt gốc ắt cây chết. Nếu hiểu tâm tu đạo ắt được tỉnh lực nên dễ thành. Không hiểu tâm tu đạo ắt nhọc công vô ích. Mới biết tất cả việc lành dữ đều tự tâm. Cầu gì khác ở ngoài tâm, rốt không đâu có được.
 
 ***
 
 ❓: Sao bảo quán tâm là xong hết?
 
-📣: Đại Bồ tát khi hành sau pháp Bát nhã Ba la mật đa thấy bốn đại năm ấm vốn không vô ngã; thấy rõ do khởi dụng nên có hai tâm sai khác nhau.
+📣📣📣: Đại Bồ tát khi hành sau pháp Bát nhã Ba la mật đa thấy bốn đại năm ấm vốn không vô ngã; thấy rõ do khởi dụng nên có hai tâm sai khác nhau.
 
 Thế nào là hai?
 Một là tịnh tâm: tâm trong sạch.
@@ -1056,7 +1056,7 @@ Nói quán tâm tức xong hết là vậy.
 
 ❓: Trên nói tất cả công đức của tánh chân như Phật đều lấy giác làm gốc, còn tâm vô minh, chẳng hay lấy gí làm gốc?
 
-📣: Tâm vô minh có tám vạn bốn ngàn phiền não, tình dục, với vô số điều dữ, đều do ba độc nên lấy đó làm gốc.
+📣📣📣: Tâm vô minh có tám vạn bốn ngàn phiền não, tình dục, với vô số điều dữ, đều do ba độc nên lấy đó làm gốc.
 
 Ba độc ấy tức tham, sân si vậy.
 
@@ -1068,7 +1068,7 @@ Người cầu giải thoát có thể chuyển ba độc thành ba giới tụ 
 
 ❓: Sáu đường ba cõi rộng lớn bao la, nếu chỉ quán tâm thì sao thoát được những khổ đau không cùng tận?
 
-📣: Nghiệp báo trong ba cõi chỉ do một tâm sanh. Nếu từ gốc đã vô tâm thì ở trong ba cõi mà như xa lìa ba cõi.
+📣📣📣: Nghiệp báo trong ba cõi chỉ do một tâm sanh. Nếu từ gốc đã vô tâm thì ở trong ba cõi mà như xa lìa ba cõi.
 
 Ba cõi ấy, tức là ba độc vậy.
 Tham làm ra cõi dục.
@@ -1081,7 +1081,7 @@ Do ba độc ấy gây nghiệp nặng nhẹ, quả báo chẳng đồng, chia r
 
 ❓: Thế nào là nhẹ nặng chia làm sáu nẻo?
 
-📣: Chúng sanh chẳng rõ chánh nhân, mê tâm tu thiện, chưa thoát ba cõi, thác sanh ở ba nẻo tội nhẹ.
+📣📣📣: Chúng sanh chẳng rõ chánh nhân, mê tâm tu thiện, chưa thoát ba cõi, thác sanh ở ba nẻo tội nhẹ.
 
 Thế nào là ba nẻo nhẹ?
 - Ấy là mê tu mười điều thiện, vọng cầu vui sướng, chưa thoát cõi tham, thì sanh nẻo trời.
@@ -1100,7 +1100,7 @@ Thế nào là ba nẻo nhẹ?
 
 ❓: Như lời Phật dạy: "Ta đã trải qua ba đại A tăng kỳ kiếp, chịu vô số khổ nhọc mới thành được Phật đạo" sao nay nói chỉ quán tâm thì chế được ba độc là giải thoát?
 
-📣: Lời Phật nói ra không hề hư dối. A tăng kỳ kiếp tức là tâm ba độc. Người Hồ (1) nói: "A tăng kỳ" (2), người Hán nói "bất khả số", nghĩa là đếm không xuể.
+📣📣📣: Lời Phật nói ra không hề hư dối. A tăng kỳ kiếp tức là tâm ba độc. Người Hồ (1) nói: "A tăng kỳ" (2), người Hán nói "bất khả số", nghĩa là đếm không xuể.
 Từ trong tâm ba độc ấy, có đủ thứ niệm ác nhiều như cát sông Hằng. Ở mỗi mỗi niệm ấy là một kiếp, vậy là có hằng ha số kiếp đếm không xuể, nên nói ba đại a tăng kỳ.
 
 Tánh chân như bị ba độc che khuất. Nếu chẳng vượt lên tâm đại hằng hà sa độc ác ấy thì làm sao giải thoát được.Nếu nay chuyển được ba độc tham sân si làm ba món giải thoát, đó gọi là vượt qua ba đại a tăng kỳ kiếp.
@@ -1111,7 +1111,7 @@ Chúng sanh ở thời đại cùng mạt này, căn trí ngu si, cùn lụt, kh
 
 ❓: Các đại Bồ tát nhờ giữ ba giới tu tịnh thực hành sáu độ, mới thànhPhật đạo. Sao nay nói người học chỉ cần quán tâm chẳng tu giới hạnh, thì thành Phật thế nào được?
 
-📣: Ba giới tu tịnh tức là tâm chế phục ba độc:
+📣📣📣: Ba giới tu tịnh tức là tâm chế phục ba độc:
 
 Chế phuc tâm ba độc thành vô lượng thiện tụ.
 Nói "tụ" là nói "hội" vậy.
@@ -1124,7 +1124,7 @@ Sáu căn thanh tịnh, chẳng nhuốm sáu trần, tức qua sông phiền nã
 
 ❓: Như kinh nói, ba giới tụ tịnh tức là "Nguyện thề đoạn tất cả điều dữ, thề tu tất cả điều lành, thề độ tất cả chúng sanh", nay nói chỉ cần chế ngự tâm ba độc, há chẳng trái với nghĩa văn sao?
 
-📣: Lời Phật nói kinh là lời chân thực. Nhân đối với ba độc, chư Bồ tát tu hành trong thời quá khứ phát ba thệ nguyện là:
+📣📣📣: Lời Phật nói kinh là lời chân thực. Nhân đối với ba độc, chư Bồ tát tu hành trong thời quá khứ phát ba thệ nguyện là:
 
 - Nguyện đoạn tất cả điều dữ, nên luôn giữ giới đối xử với tham độc.
 - Nguyện tu tất cả điều lành, nên luôn tập định đối xử với sân độc.
@@ -1143,7 +1143,7 @@ Ba giới tụ tịnh tự nhiên thành tựu.
 
 ❓: Như kinh nói, sáu ba la mật cũng gọi là sáu độ, tức là: bố thí, trì giới, nhẫn nhục, tinh tấn, thiền định và trí huệ. Nay nói sáu căn thanh tịnh gọi là ba la mật, thì hiểu sao cho xuôi? Còn phép sáu độ, nghĩa ấy thế nào?
 
-📣: Muốn tu sáu độ, nên tịnh sáu căn hàng sáu tên giặc:
+📣📣📣: Muốn tu sáu độ, nên tịnh sáu căn hàng sáu tên giặc:
 
 - Xả được tên giặc mắt, lìa hết cảnh sắc, gọi là bố thí.
 - Cấm được tên giặc tai, không buông lỏng theo thanh trần, gọi là trì giới.
@@ -1157,7 +1157,7 @@ Ba giới tụ tịnh tự nhiên thành tựu.
 
 ❓: Kinh nói: khi còn là Bồ tát, Thích Ca Như Lai từng uống ba đấu sáu thăng nhũ mi (4) mới thành Phật đạo. Vậy, trước nhờ uống sữa, sau chứng quả Phật, há phải nhờ quán tâm mà được giải thoát ru?
 
-📣: Nên thành thực nhận rằng, lời xưa nói "nhân vì uống sữa mới được thành Phật" chẳng hề luống dối. Nói Phật uống sữa, cần phân biệt hai thứ sữa. Sữa Phật uống chẳng phải là sữa vẩn đục của thế gian mà chính là sữa của pháp chân như thanh tịnh.
+📣📣📣: Nên thành thực nhận rằng, lời xưa nói "nhân vì uống sữa mới được thành Phật" chẳng hề luống dối. Nói Phật uống sữa, cần phân biệt hai thứ sữa. Sữa Phật uống chẳng phải là sữa vẩn đục của thế gian mà chính là sữa của pháp chân như thanh tịnh.
 
 Nói ba đấu, tức ba giới tụ tịnh.
 Nói sáu thăng, tức sáu ba la mật.
@@ -1174,7 +1174,7 @@ Theo lời kinh nói, bò ấy chẳng ở vùng cao, chẳng ở vùng thấp, 
 
 ❓: Như kinh nói, Phật khiến chúng sanh xây dựng già lam, đúc tạc hình tượng, đốt hương rắc hoa, chong đèn sáng mãi, đêm ngày sáu cữ, nhiễu tháp hành đạo, lễ bái chay lạt, đủ thứ công đức mới thành Phật đạo. Nếu chỉ lấy phép quán tâm thâu nhiếp các hạnh, nói như vậy e có ngoa chăng?
 
-📣: Phật nói kinh dùng vô số phương tiện, nhắm vào tất cả chúng sanh căn trí cùn lụt, ươn hèn, không đủ sức lãnh hội nghĩa sâu, nên mượn pháp hữu vi làm tỉ dụ cho pháp vô vi.
+📣📣📣: Phật nói kinh dùng vô số phương tiện, nhắm vào tất cả chúng sanh căn trí cùn lụt, ươn hèn, không đủ sức lãnh hội nghĩa sâu, nên mượn pháp hữu vi làm tỉ dụ cho pháp vô vi.
 
 Nếu không tu nội hạnh mà chỉ cầu ở ngoài, mong làm thánh, cầu được phước, không đâu có được.
 
@@ -1267,7 +1267,7 @@ Nếu không làm theo lý pháp ấy mà chỉ chấp trước cầu ngoài, tr
 
 ❓: Như lời kinh nói: "Dốc lòng niệm Phật, chắc được vãng sanh qua cõi Cực Lạc phương Tây, chỉ cần theo một cửa ấy tức được thành Phật", sao còn nói quán tâm để cầu giải thoát là gì?
 
-📣: Phàm nói niệm Phật, cốt cần niệm chánh. Rõ nghĩa là chánh, không rõ nghĩa là tà. Niệm chánh chắc được vãng sanh, niệm tà sao qua đó được?
+📣📣📣: Phàm nói niệm Phật, cốt cần niệm chánh. Rõ nghĩa là chánh, không rõ nghĩa là tà. Niệm chánh chắc được vãng sanh, niệm tà sao qua đó được?
 Nói "Phật" là nói "giác", tức tỉnh biết, tỉnh biết để thấy rõ chân tâm, đừng khiến niệm dữ lừng lên.
 
 Nói "niệm" là nói "ức", tức gìn nhớ: gìn nhớ giữ giới hạnh, chẳng quên tinh tấn. Có hiểu như vậy mói gọi là niệm. Cho nên niệm cốt ở tâm, chẳng ở lời nói.

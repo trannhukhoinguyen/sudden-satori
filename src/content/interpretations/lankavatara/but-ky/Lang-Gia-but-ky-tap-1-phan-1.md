@@ -143,7 +143,7 @@ Quán Mâu-ni tịch tĩnh
 
 Nhị diệm là Phạn ngữ, dịch là sở tri, lại dịch là trí chướng. “Tất cả không Niết-bàn”. 
 
-Ngụy dịch: Không và có, cái hai đều lìa. Chữ “tất cả” để chỉ cho chỗ sanh tử là pháp có, Niết-bàn là pháp không. 
+(Ngụy dịch: Không và có, cái hai đều lìa. Chữ “tất cả” để chỉ cho chỗ sanh tử là pháp có, Niết-bàn là pháp không. )
 
 Chữ “không” trong câu kệ để chỉ cho cả hai sanh tử và Niết-bàn đều không. 
 
@@ -413,7 +413,7 @@ Thế nào khỏi Hữu kiến?
 
 Mười hai câu này là hỏi chung thế giới chúng sanh đều là pháp hữu tướng, nhân gì mà có sanh diệt, bất sanh diệt, thường với vô thường, chơn vọng chẳng đồng vậy.
 
-Hai câu đầu, bản Ngụy dịch: Thế nào gọi là không, thế nào niệm chẳng dừng? Đây là hỏi thế giới y báo vì sao mà có thành, trụ, hoại, không; riêng đưa lên hoại, không mà gồm thành, trụ. 
+(Hai câu đầu, bản Ngụy dịch: Thế nào gọi là không, thế nào niệm chẳng dừng? Đây là hỏi thế giới y báo vì sao mà có thành, trụ, hoại, không; riêng đưa lên hoại, không mà gồm thành, trụ. )
 
 Câu “Thế nào thai tạng sanh” hỏi chúng sanh, chánh báo thế nào mà có sanh tử trôi lăn; nếu sanh đẻ thâu nhiếp tử vậy. 
 
@@ -421,7 +421,7 @@ Câu “Thế nào thể bất động” nghĩa bao quát ở trên là hiện 
 
 Chữ “thể” là chỉ thế gian hữu tình và vô tình. 
 
-Bốn câu kế tự “Nhân gì như huyễn mộng”, bản Đường dịch: “Thế nào các thế gian, như huyễn lại như mộng…” ý muốn nói rằng, chúng sanh thế giới, các pháp hữu vi hiện nay thật có, vì sao nói như huyễn… chẳng thật? Hai câu “Nhân gì nói Giác chi cùng với Bồ-đề phần” nghĩa thế nào là giác ngộ các pháp thế gian chẳng thật thường thì thường trụ, ấy là chánh trí. Giác chi, Bồ-đề chỉ chung chánh trí. Hai câu “Thế nào quốc độ loạn, thế nào khỏi hữu kiến”, nghĩa là thế nào thấy các pháp thế gian là thật có vô thường, gọi là hữu kiến. Loạn là sanh diệt không dừng, hữu kiến là vọng tưởng phân biệt.
+Bốn câu kế tự “Nhân gì như huyễn mộng”, (bản Đường dịch: “Thế nào các thế gian, như huyễn lại như mộng…”) ý muốn nói rằng, chúng sanh thế giới, các pháp hữu vi hiện nay thật có, vì sao nói như huyễn… chẳng thật? Hai câu “Nhân gì nói Giác chi cùng với Bồ-đề phần” nghĩa thế nào là giác ngộ các pháp thế gian chẳng thật thường thì thường trụ, ấy là chánh trí. Giác chi, Bồ-đề chỉ chung chánh trí. Hai câu “Thế nào quốc độ loạn, thế nào khỏi hữu kiến”, nghĩa là thế nào thấy các pháp thế gian là thật có vô thường, gọi là hữu kiến. Loạn là sanh diệt không dừng, hữu kiến là vọng tưởng phân biệt.
 
 Trên đây hỏi chung về danh, tướng, vọng tưởng, chánh trí.
 
@@ -444,7 +444,7 @@ Thế nào thị hư không?
 
 Sáu câu này hỏi về như như.
 
-Bản Đường dịch: Thế nào biết thế gian. Thế nào lìa văn tự. Thế nào như không hoa. Chẳng sanh cũng chẳnh diệt. 
+(Bản Đường dịch: Thế nào biết thế gian. Thế nào lìa văn tự. Thế nào như không hoa. Chẳng sanh cũng chẳnh diệt. )
 
 Ý nói rằng thế nào ngộ được các pháp sanh diệt của thế gian đương thể là như như? Lìa tướng ngôn thuyết, lìa tướng danh tự, như hoa đốm trong hư không, chẳng sanh chẳng diệt, xa lìa mọi vọng tưởng phân biệt, cùng như hư không, tức là chân như vậy.
 
@@ -488,7 +488,7 @@ Sau đây từ “Ai sanh các bảo tánh” trở xuống cho đến hết câ
 
 Ai sanh các bảo tánh?
 
-Châu ma-ni v.v…
+Châu ma-ni
 
 Ai sanh các ngôn ngữ?
 
@@ -513,39 +513,51 @@ Ba cái trước là học vấn kỹ thuật bên ngoài, hai cái sau là nộ
 <blockquote>
 
 Già-đà có mấy thứ?
+
 Trường tụng và đoản cú.
 
 Thành ra bao nhiêu thứ?
+
 Thế nào gọi là luận? [^10]
 
 Thế nào sanh ăn uống?
+
 Và sanh các ái dục?
 
 Thế nào gọi là vua?
+
 Chuyển luân và Tiểu vương?
 
 Thế nào gọi hủ quốc?
+
 Chủ thiên có mấy loại?
 
 Thế nào gọi là địa?
+
 Tinh tú và trời trăng?
 
 Bậc tu hành giải thoát
+
 Là có bao nhiêu bậc?
 
 Đệ tử có mấy loại?
+
 Thế nào A-xà-lê?
 
 Phật lại có bao nhiêu?
+
 Lại có mấy loại sanh?
 
 Ma và các dị học.
+
 Kia mỗi thứ bao nhiêu?
 
 Tự tánh cùng với tâm.
+
 Kia mỗi thứ mấy loại?
 
 Thế nào thì thiết lượng?
+
 Xin bậc tới thẳng nói.
 </blockquote>
 
@@ -569,36 +581,47 @@ Bản dịch Đường nói “Niệm trí nhân gì mà có”. Đây cũng thu
 <blockquote>
 
 Thế nào là rừng cây?
+
 Thế nào là cỏ rậm?
 
 Thế nào voi, ngựa, nai?
+
 Thế nào mà bắt giữ?
 
 Thế nào là nhỏ hẹp?
+
 Nhân gì mà nhỏ hẹp?
 
 Thế nào lục tiết nhiếp? [^12]
+
 Thế nào Nhất xiển-đề? [^13]
 
 Nam nữ và chặng nam?
+
 Đây do thế nào sanh?
 
 Thế nào tu hành thối?
+
 Thế nào tu hành sanh? [^14]
 
 Thiền sư dùng pháp gì?
+
 Kiến lập những người nào? [^15]
 
 Chúng sanh sanh các nẻo,
+
 Tướng gì, tướng loại gì?
 
 Thế nào là tài phủ?
+
 Nhân gì đến tài phủ?
 
 Thế nào là Thích chủng?
+
 Nhân gì có Thích chúng?
 
 Thế nào dòng Cam-giá?
+
 Xin bậc Vô thượng nói.
 </blockquote>
 
@@ -610,21 +633,17 @@ Thế nào là tiên Trường Khổ?
 
 Kia dạy bảo thế nào? [^16]
 
-
 Như Lai vì sao hiện,
 
 Tất cả thời nơi chốn?
-
 
 Các thứ danh sắc loại.
 
 Tới thẳng tứ vây quanh.
 
-
 Vì sao không ánh mặt trời?
 
 Vì sao cầm ăn thịt?
-
 
 Ẩn các thứ môn thịt.
 
@@ -641,21 +660,17 @@ Thế nào hình nhật nguyệt?
 
 Tu-di và Liên hoa?
 
-
 Cõi thẳng tướng sú tứ
 
 Thế giới nghiêng, đứng, úp
-
 
 Như vòng trời Đế Thích
 
 Hoặc các thứ trân bảo
 
-
 Không hầu, trống lưng eo
 
 Hình trạng các thứ hoa
-
 
 Hoặc là sáng trời trăng
 
@@ -793,7 +808,10 @@ Lại là nhân duyên gì?
 
 Đây là hỏi sự sai biệt của Tăng-già, và pháp ứng cơ không phải một.
 
-Hoại Tăng là người không giữ đủ giới. Luận y phương chẳng phải y phương của thế tục, mà nói Phật là bậc y vương của ba cõi, lời thuyết pháp tùy cơ lập bày như tùy bệnh cho thuốc nên gọi là luận y phương. Kinh Đại Bát Niết Bàn có thầy thuốc cũ, thầy thuốc mới. Pháp Hoa có dụ về thầy thuốc. Đường dịch: “Thuyết giảng rộng luận y phương” là biết đây nói về Phật pháp. Từ câu “Thế nào là Hóa Phật” đến đây là hỏi chung Tam bảo nhân gì mà có sai biệt.
+Hoại Tăng là người không giữ đủ giới. Luận y phương chẳng phải y phương của thế tục, mà nói Phật là bậc y vương của ba cõi, lời thuyết pháp tùy cơ lập bày như tùy bệnh cho thuốc nên gọi là luận y phương. 
+Kinh Đại Bát Niết Bàn có thầy thuốc cũ, thầy thuốc mới. Pháp Hoa có dụ về thầy thuốc. 
+(Đường dịch: “Thuyết giảng rộng luận y phương” là biết đây nói về Phật pháp. )
+Từ câu “Thế nào là Hóa Phật” đến đây là hỏi chung Tam bảo nhân gì mà có sai biệt.
 
 <blockquote>
 
@@ -824,7 +842,10 @@ Phân biệt nói tâm lượng?
 </blockquote>
 
 
-Đây là nhân trước nói về pháp sai biệt, nên lại hỏi về sự bất đồng giữa tà chánh, quyền thật. Doanh thường-ngã là tà tông ngoại đạo. Vô ngã là chánh pháp của Phật. Tâm lượng là tâm sở vọng tưởng phân biệt. Ý rằng vì sao nói đoạn, thường và ngã là tà tông, vì sao nói vô ngã là chánh pháp. Nhưng vô ngã đã là chân thật, vì sao không trước sau chi nói về pháp chân thật đó, mà lại vì chúng sanh nói pháp tâm sở vọng tưởng không thật?
+Đây là nhân trước nói về pháp sai biệt, nên lại hỏi về sự bất đồng giữa tà chánh, quyền thật. 
+Doanh thường-ngã là tà tông ngoại đạo. Vô ngã là chánh pháp của Phật. 
+Tâm lượng là tâm sở vọng tưởng phân biệt. Ý rằng vì sao nói đoạn, thường và ngã là tà tông, vì sao nói vô ngã là chánh pháp. 
+Nhưng vô ngã đã là chân thật, vì sao không trước sau chi nói về pháp chân thật đó, mà lại vì chúng sanh nói pháp tâm sở vọng tưởng không thật?
 
 <blockquote>
 
@@ -853,14 +874,21 @@ Tiên Đạt-bà sung mãn
 
 Đây hỏi về chúng Bát bộ vì sao không ở nhân gian thiên thượng mà ở trong núi Thiết-vi bảy lớp vàng.
 
-Đường dịch: “Tiên nhân Càn-thát-bà, tất cả đều sung mãn. Đây đều nhân duyên gì. Nguyện Phật vì con nói”.
+(Đường dịch: “Tiên nhân Càn-thát-bà, tất cả đều sung mãn. Đây đều nhân duyên gì. Nguyện Phật vì con nói”.)
 
-Những câu hỏi trên đây của Đại Huệ trừ chỗ chấp, chỉ lấy những chữ vân hà, hà nhân, hà cố, hà đẳng, thuyết làm nghĩa thì có 130 câu hơn. Ý nghĩa trong đó không ra ngoài mười cõi bốn môn [^18]. Mà lời đáp của Phật, chỉ nhất tâm chân như thôi một pháp chẳng lập cho nên mỗi mỗi đều nói “phi”. Nếu y sanh diệt môn duy thức kiến lập thời y chí toàn kinh đều là câu đáp riêng cho lời hỏi này thôi. Tuy kinh truyền sang chữ Hán, nhưng lời văn trong bốn quyển này nói về năm pháp, ba tự tánh, tâm thiện thức, hai vô ngã, chỉ thú khai hợp danh nghĩa của bốn môn này đã đủ. Người đọc xem văn hiểu ý, tự sẽ chứng đắc.
+Những câu hỏi trên đây của Đại Huệ trừ chỗ chấp, chỉ lấy những chữ vân hà, hà nhân, hà cố, hà đẳng, thuyết làm nghĩa thì có 130 câu hơn. 
+Ý nghĩa trong đó không ra ngoài mười cõi bốn môn [^18].
+Mà lời đáp của Phật, chỉ nhất tâm chân như thôi một pháp chẳng lập cho nên mỗi mỗi đều nói “phi”. 
+Nếu y sanh diệt môn duy thức kiến lập thời y chí toàn kinh đều là câu đáp riêng cho lời hỏi này thôi. 
+
+Tuy kinh truyền sang chữ Hán, nhưng lời văn trong 4 quyển này nói về năm pháp, 3 tự tánh, tâm thiện thức, 2 vô ngã, chỉ thú khai hợp danh nghĩa của 4 môn này đã đủ. 
+Người đọc xem văn hiểu ý, tự sẽ chứng đắc.
 
 * Sau đây Thế Tôn lập lại mà đáp. Trước lập lại sau đáp.
 
-C₂ - Đáp
-D₁ - Lặp lại
+#### C₂ - Đáp
+
+#### D₁ - Lặp lại
 
 <blockquote>
 
@@ -886,7 +914,14 @@ Chư Phật tâm đệ nhất
 
 Một bài kệ đầu, bản dịch Đường nói: “Lúc bấy giờ đức Thế Tôn nghe chỗ thưa thỉnh về pháp môn tối thượng Đại thừa Phật tâm vi diệu”.
 
-Về chỗ hỏi của Đại Huệ là tướng sai biệt y báo chánh báo trong mười cõi, chính là cảnh giới phân biệt vọng kiến của hàng Tam thừa, phàm phu, ngoại đạo. Thật là Bồ-tát Đại Huệ nhân đó mà khởi nghi. Bởi không biết các pháp như thế nhân gì mà có, cho nên đưa ra những câu hỏi này. Song người kết tập liên chỉ là pháp môn tối thượng Phật tâm vi diệu. Vì sao? Kinh Kim Cang Bát-Nhã nói: Tất cả thiện tâm đều do pháp vô vi mà có sai biệt, huống chi chúng sanh mười giới. Nghĩa là tất cả phân biệt đều là phân biệt tự tâm, nếu phân biệt chẳng sanh ngay đó tức là tự giác thánh trí của chư Phật. Cho nên những câu hỏi nhân quả tà chánh, y báo chánh báo của thánh phàm, tự tánh thường trụ, đều tức là Phật tâm vi diệu, chẳng phải con mắt trí thầy rõ thì làm sao nêu được chỗ này? Thế nên đặt vào phần mở đầu như vậy.
+Về chỗ hỏi của Đại Huệ là tướng sai biệt y báo chánh báo trong mười cõi, chính là cảnh giới phân biệt vọng kiến của hàng Tam thừa, phàm phu, ngoại đạo. 
+Thật là Bồ-tát Đại Huệ nhân đó mà khởi nghi. Bởi không biết các pháp như thế nhân gì mà có, cho nên đưa ra những câu hỏi này. 
+Song người kết tập liên chỉ là pháp môn tối thượng Phật tâm vi diệu. 
+Vì sao? Kinh Kim Cang Bát-Nhã nói: 
+Tất cả thiện tâm đều do pháp vô vi mà có sai biệt, huống chi chúng sanh mười giới. 
+Nghĩa là tất cả phân biệt đều là phân biệt tự tâm, nếu phân biệt chẳng sanh ngay đó tức là tự giác thánh trí của chư Phật. 
+Cho nên những câu hỏi nhân quả tà chánh, y báo chánh báo của thánh phàm, tự tánh thường trụ, đều tức là Phật tâm vi diệu, chẳng phải con mắt trí thầy rõ thì làm sao nêu được chỗ này? 
+Thế nên đặt vào phần mở đầu như vậy.
 
 <blockquote>
 
@@ -901,7 +936,8 @@ Tiến đến vô tự tánh
 
 Nghĩa là tuy hỏi nhiều thứ, không ra ngoài sanh và vô sanh, Niết-bàn, không tướng vậy. Sát-na là sanh diệt lưu chuyển. 
 
-Tiến đến là cứu cánh. Đường dịch: “Hoặc sanh hoặc chẳng sanh. Niết-bàn và không tướng. Lưu chuyển không tự tánh”. 
+Tiến đến là cứu cánh. 
+(Đường dịch: “Hoặc sanh hoặc chẳng sanh. Niết-bàn và không tướng. Lưu chuyển không tự tánh”.)
 
 Nghĩa là thế gian, xuất thế gian này đều là pháp vọng kiến lưu chuyển sanh diệt, mỗi mỗi rốt ráo vốn không tự tánh. 
 
@@ -924,9 +960,13 @@ Các thứ việc như thế.
 
 Đây là tóm gọn những câu hỏi của Đại Huệ.
 
-Nghĩa là tuy hỏi nhiều không ngoài nhân quả của nhân pháp trong mười cõi. Phật, Phật tử, Thanh văn, Duyên giác là tự thánh. Vô sắc gồm sáu trời thiền đạo. 
+Nghĩa là tuy hỏi nhiều không ngoài nhân quả của nhân pháp trong mười cõi. 
+Phật, Phật tử, Thanh văn, Duyên giác là tự thánh. Vô sắc gồm sáu trời thiền đạo. 
 
-Ngoại đạo là gồm hết người và tam đồ, vì tà hạnh của ngoại đạo là nhân của tam đồ, đây đều là người. Ba-la-mật là pháp của tự thánh. Vô sắc hạnh là gồm cả pháp của ngoại đạo và lục phàm. Nhân quả, y báo, chánh báo đều đầy đủ cho nên nói “Các thứ việc như thế”. Ý rằng chỗ hỏi của Đại Huệ không ngoài đây. Phần sau mỗi mỗi thuật lại lời kia.
+Ngoại đạo là gồm hết người và tam đồ, vì tà hạnh của ngoại đạo là nhân của tam đồ, đây đều là người. 
+Ba-la-mật là pháp của tự thánh. Vô sắc hạnh là gồm cả pháp của ngoại đạo và lục phàm. 
+Nhân quả, y báo, chánh báo đều đầy đủ cho nên nói “Các thứ việc như thế”. 
+Ý rằng chỗ hỏi của Đại Huệ không ngoài đây. Phần sau mỗi mỗi thuật lại lời kia.
 
 <blockquote>
 
@@ -1062,9 +1102,9 @@ Thố mao, song trần, rận.
 Dương mao, khoáng mạch trần
 </blockquote>
 
-Bảy cực vi trần thành một song trần [^19], bảy song trần thành một thố mao đầu trần [^20],  thố mao đầu trần thành một dương mao đầu trần [^21], bảy dương mao đầu trần thành một ngưu mao đầu trần [^22].
-bảy ngưu mao đầu trần thành một con rận, bảy con rận thành một con chí, bảy con chí thành một hạt cải,  bảy hạt cải thành đại mạch, bảy đại mạch thành một lóng tay, bảy lóng tay thành nửa thước, 
-hai nửa thước thành một thước, hai thước thành một khuỷu tay, bốn khuỷu tay thành một cung, năm cung thành một trượng, 20 trượng thành một tức, 80 tức thành một câu-lư-xá (Krosa), 80 câu-lư-xá thành một đo tuần, do diên là do tuần. Đây căn cứ lời chú xưa theo Phạn ngữ.
+7 cực vi trần thành một song trần [^19], bảy song trần thành một thố mao đầu trần [^20], thố mao đầu trần thành một dương mao đầu trần [^21], 7 dương mao đầu trần thành một ngưu mao đầu trần [^22].
+7 ngưu mao đầu trần thành một con rận, 7 con rận thành 1 con chí, 7 con chí thành một hạt cải,  bảy hạt cải thành đại mạch, bảy đại mạch thành một lóng tay, bảy lóng tay thành nửa thước, 
+2 nửa thước thành một thước, 2 thước thành một khuỷu tay, 4 khuỷu tay thành một cung, năm cung thành một trượng, 20 trượng thành một tức, 80 tức thành một câu-lư-xá (Krosa), 80 câu-lư-xá thành một đo tuần, do diên là do tuần. Đây căn cứ lời chú xưa theo Phạn ngữ.
 
 <blockquote>
 

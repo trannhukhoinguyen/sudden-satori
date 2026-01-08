@@ -7,13 +7,12 @@ export interface SiteConfig {
     avatar?: string;
   };
   social: {
-    facebook?: string;
-    youtube?: string;
+    facebook1?: string;
+    facebook2?: string;
+    youtube1?: string;
+    youtube2?: string;
     bookcase?: string;
     bookcase2?: string;
-    tosuthien1: string;
-    masterSite: string;
-    zenSite: string;
   };
   siteUrl: string;
   base: string;
@@ -27,22 +26,21 @@ export interface SiteConfig {
 export const config: SiteConfig = {
   title: "TỔ SƯ THIỀN",
   description:
-      "Tổ Sư Thiền là đường lối Tham Thiền chánh thức của Tổ Sư truyền xuống từ Đức Phật Thích Ca. " +
-      "Khi công phu & nghi tình thành khối được gọi là đến Thoại Đầu, tiến thêm một bước nữa là Kiến Tánh, " +
-      "đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ. ",
+      "Tổ Sư Thiền là Đường Lối Tham Thiền chánh thức của Tổ Sư truyền xuống từ Đức Phật Thích Ca. " +
+      "Khi công phu & Nghi Tình thành khối được gọi là đến Thoại Đầu, tiến thêm một bước nữa là Kiến Tánh, " +
+      "đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ.",
   author: {
     name: "TỔ SƯ THIỀN",
     bio: "Nhất Thiết Phật Ngữ Tâm",
     // avatar: "/images/avatar.jpg" // Uncomment and add your avatar image to public/images/
   },
   social: {
-    facebook: "https://www.facebook.com/Nhohoivanhin/",
-    youtube: "https://www.youtube.com/c/tongphongtosuthien",
+    facebook1: "https://www.facebook.com/Nhohoivanhin/",
+    facebook2: "https://www.facebook.com/hien.thichphap/",
+    youtube1: "https://www.youtube.com/c/tongphongtosuthien",
+    youtube2: "https://www.youtube.com/c/tosuthien",
     bookcase: "https://pubhtml5.com/bookcase/wuxzq/",
     bookcase2: "https://pubhtml5.com/bookcase/cunen/",
-    tosuthien1: "https://tosuthien.vercel.app",
-    masterSite: "https://patriarchalzen.vercel.app/",
-    zenSite: "https://tosuthien.com#col-2057150686"
   },
   siteUrl: "https://tosuthien.org",
 
@@ -56,6 +54,7 @@ export const config: SiteConfig = {
     "health",
 
     "blogs",
+    "symptoms",
     "wordpress",
 
     "books",
@@ -77,6 +76,7 @@ export const config: SiteConfig = {
   categoryNames: {
     health: "Sức khỏe & Bài thuốc",
     blogs: "Bài viết",
+    symptoms: "Triệu chứng",
     wordpress: "Duy Lực Thiền",
     books: "Sách",
 
@@ -87,13 +87,13 @@ export const config: SiteConfig = {
     /*NHÓM KINH*/
     sutras: "Kinh",
     lankavatara: "KINH LĂNG GIÀ",
-    surangama: "Kinh Lăng Nghiêm",
-    diamond: "Kinh Kim Cang",
+    surangama: "KINH LĂNG NGHIÊM",
+    diamond: "KINH KIM CANG",
+    lotus: "KINH PHÁP HOA",
 
     places: "Địa danh",
     pagodas: "Thiền đường",
     practices: "Thực hành",
-    zongjinglus: "Tông Cảnh Lục",
 
     masters: "Thiền sư",
     speeches: "Ngữ lục",
@@ -103,6 +103,7 @@ export const config: SiteConfig = {
   categoryDescriptions: {
     health: "Xem Bài viết làm sáng tỏ về Sức khỏe & Bài thuốc",
     blogs: "Xem Bài viết làm sáng tỏ về Phật Pháp",
+    symptoms: "Xem Bài viết làm sáng tỏ về Triệu chứng",
     wordpress: "Xem Bài viết Duy Lực Thiền",
     books: "Xem Sách về Phật Pháp",
 
@@ -112,12 +113,13 @@ export const config: SiteConfig = {
 
     sutras: "Xem Kinh liên quan đến Tổ Sư Thiền",
     lankavatara: "Xem KINH LĂNG GIÀ liên quan đến Tổ Sư Thiền",
-    surangama: "Xem Kinh Lăng Nghiêm liên quan đến Tổ Sư Thiền",
+    surangama: "Xem KINH LĂNG NGHIÊM liên quan đến Tổ Sư Thiền",
+    diamond: "Xem KINH KIM CANG liên quan đến Tổ Sư Thiền",
+    lotus: "Xem KINH PHÁP HOA liên quan đến Tổ Sư Thiền",
 
     places: "Xem các Địa danh",
     pagodas: "Xem các Thiền đường",
     practices: "Xem các bài Thực hành Tổ Sư Thiền",
-    zongjinglus: "Xem Tông Cảnh Lục",
 
     masters: "Xem Thiền sư",
     speeches: "Xem Ngữ lục",

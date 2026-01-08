@@ -683,7 +683,7 @@ Duy có Ông A Nan trước đã nhận lời mời riêng, đi xa chưa về, k
 <h5>💥 THÔNG rằng</h5>
 Vua Ba Tư Nặc cùng các vị trưởng giả, cư sĩ đồng thời cùng dự lễ Trai Tăng, sao ân cần như vậy? Vì công đức Trai Tăng rất lợi ích. Phật có thuyết cho Ông Cấp Cô Độc về quả báo của bố thí: hoặc là bố thí nhiều mà quả báo ít, hoặc là bố thí ít mà quả báo nhiều. Cúng dường cho ngàn vị Phật, không bằng cúng dường cho một vị Tịnh Hạnh. Cho đến cúng dường trăm ngàn vị Phật không bằng cúng dường cho một Đạo Nhân Vô Tâm.
 
-📣 Kinh 42 Chương nói rằng:
+📣📣📣 Kinh 42 Chương nói rằng:
 **Phật dạy: 
 Cho một trăm người ác ăn không bằng cho một người thiện ăn. 
 Cho một ngàn người thiện ăn không bằng cho một người giữ Ngũ Giới ăn. 
@@ -703,7 +703,7 @@ Trăm ngàn chư Phật có lỗi gì? Người đạo nhân Vô Tâm có đức
 
 Tổ đáp: **Một mảnh mây trắng qua trước hang. Biết bao chim chóc lạc ổ về.** 
 
-📣 Ngài Đơn Hà tụng rằng:
+📣📣📣 Ngài Đơn Hà tụng rằng:
 
 > Thập Đắc bơ thờ không tỏ hiểu
 > 
@@ -753,7 +753,7 @@ Dùng cháo xong, Tổ Tuyền hỏi thầy Điển Tòa: Hành giả đâu rồ
 
 Tổ Tuyền bèn đập nát cái nồi.
 
-📣 Ngài Sớ Sơn tụng rằng:
+📣📣📣 Ngài Sớ Sơn tụng rằng:
 
 > Một mình bày cháo khoe anh tuấn
 > 
@@ -777,7 +777,7 @@ Như Ông Cam Chi mới đáng gọi là có thể cúng dường đạo nhân V
 
 5️⃣ là, phá chỗ phân biệt của Nhị Thừa.
 
-📣 Đức Duy Ma Cật nói rằng: 
+📣📣📣 Đức Duy Ma Cật nói rằng: 
 > Nơi ăn mà bình đẳng, thì nơi pháp cũng bình đẳng. 
 Chẳng luận sang hèn, dơ sạch đều chứng Bồ Đề. 
 Đó là viên thành vô lượng công đức của tất cả chúng sanh. 
@@ -810,7 +810,7 @@ Tăng hỏi: Thế nào là con người đó?
 
 Ngài đáp: Cho ta một đồng tiền!
 
-📣 Ngài có bài kệ:
+📣📣📣 Ngài có bài kệ:
 
 > Một bát cơm ngàn nhà
 > 
@@ -853,7 +853,7 @@ Khi ấy, trên đỉnh Thế Tôn phóng ra ánh sáng rực rỡ Vô Úy, tron
 </div>
 </fieldset>
 <h5>💥 THÔNG rằng</h5>
-📣 Bộ Hiệp Luận nói:
+📣📣📣 Bộ Hiệp Luận nói:
 Đức Phật thương xót chúng sanh bị trôi lăn trong Tam Giới đều do mắc vào Dục. 
 Trong các thứ Dục, chỉ có cái Dâm Dục là nặng hơn hết, nên bộ kinh này mở đầu bằng việc cô Ma Đăng Già. 
 Để nhấn mạnh là nếu bị chìm đắm vào đó là một hoạn nạn lớn, mà diệt trừ được lại là một lợi ích lớn. 
@@ -871,11 +871,11 @@ Lại nữa, Quán Thế Âm Bồ Tát tự kể về ba mươi hai Ứng Thân 
 
 Đó là gặp cơ hội thì dặn dò kỹ lưỡng vậy. Bộ Luận này quả đã uốn nắn cho ngay ngắn toàn thể mạch lạc của kinh, dặn dò kỹ lưỡng, tỏ liễu sâu xa chỗ mở dạy của bộ kinh mà lấy việc dứt lìa cái Dâm Dục làm đầu, khiến cho người ta sợ hãi đến dựng tóc gáy, lạnh xương sống. Tuy nhiên, người chứng Thật Trí, thì thấy tất cả Thanh, Sắc đều như huyễn như mộng, việc dữ kia chẳng có bóng dáng nào cả ở trong ấy.
 
-📣 Kinh 42 Chương nói:
+📣📣📣 Kinh 42 Chương nói:
 
 - Người nhiều Ái Dục như kẻ cầm đuốc đi ngược gió, tất phải bị cháy tay. Thiên Thần dâng Ngọc Nữ để thử Phật, muốn xem đạo ý Ngài ra sao.
 
-📣 Phật nói:
+📣📣📣 Phật nói:
 
 - Cái bao da chứa đồ dơ kia đến đây làm gì. Hãy đi đi! Ta chẳng dùng đến. Vị Thiên Thần rất kính trọng, thưa hỏi ý đạo. Phật dạy cho, liền đắc quả Tu Đà Hoàn.
 
