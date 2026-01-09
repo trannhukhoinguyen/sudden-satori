@@ -44,7 +44,7 @@ const masterSlugSet = new Set(
   <table>
     <thead>
     <tr>
-      <th class="table-head">Tên</th>
+      <th class="table-head">Tên Anh</th>
       <th class="table-head">Tên Việt</th>
       <th class="table-head">Tên Trung</th>
       <th class="table-head">Tông phái</th>
@@ -60,20 +60,21 @@ const masterSlugSet = new Set(
           const hasPost = masterSlugSet.has(slug);
           return hasPost
               ? <tr>
-                <td data-label="Tên" class="table-data">
+                <td data-label="Tên Anh" class="table-data">
                   <a href={`/masters/${master.name_en?.split(' ')?.join('-')}`} target="_blank" class="table-data">{master.name_en}</a>
                 </td>
                 <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
-                <td data-label="Nước" class="table-data">{master.country}</td>
+<td data-label="Tên Trung" class="table-data">{master.name_zh}</td>
+                <td data-label="Tông phái" class="table-data">{master.sect?.join(', ')}</td>
                 <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
               </tr>
               :  <tr>
-            <td data-label="Tên" class="table-data">
+            <td data-label="Tên Anh" class="table-data">
               { master.name_en }
             </td>
             <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
-            <td data-label="Tên Việt" class="table-data">{master.name_zh}</td>
-              <td data-label="Thầy" class="table-data">{master.sect?.join(', ')}</td>
+            <td data-label="Tên Trung" class="table-data">{master.name_zh}</td>
+              <td data-label="Tông phái" class="table-data">{master.sect?.join(', ')}</td>
             <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
           </tr>
         }
