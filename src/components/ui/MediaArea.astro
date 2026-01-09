@@ -37,7 +37,31 @@ const { frontmatter } = Astro.props;
     )
     }
 
+  <div class="video-grid" data-video-grid>
     {
+// Multiple videos
+      frontmatter?.videoIds?.length &&
+      frontmatter.videoIds.map((id: any, index: number) => (
+        <div
+          class={`video-single-container ${index === 0 ? "active" : ""}`}
+          data-video-item
+        >
+          <iframe
+            src={`https://www.youtube.com/embed/${id}?start=${
+              frontmatter.videoStarts?.length
+                ? frontmatter.videoStarts[index]
+                : 0
+            }`}
+            title={`${frontmatter.title} - ${index + 1}`}
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      ))
+    }
+  </div>
+
+<!--    {
         // Multiple videos
         frontmatter?.videoIds?.length &&
           frontmatter?.videoIds?.map((id: any, index: number) => (
@@ -51,7 +75,7 @@ const { frontmatter } = Astro.props;
                 ></iframe>
             </div>
           ))
-    }
+    }-->
 
     {
         // YouTube playlist
@@ -135,6 +159,7 @@ const { frontmatter } = Astro.props;
         .video-container iframe {
             min-height: 500px;
         }
+    }
 
     /* Khi dưới 768px (mobile)
     /* Mobile breakpoint */
@@ -150,4 +175,48 @@ const { frontmatter } = Astro.props;
 
         }
     }
+
+    /* VIDEO GRID LIKE YOUTUBE */
+    .video-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+        gap: 1rem;
+    }
+
+    /* video nhỏ */
+    .video-single-container iframe {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+        border-radius: 12px;
+    }
+
+    /* video active chiếm full ngang */
+    .video-single-container.active {
+        grid-column: 1 / -1;
+    }
+
+    .video-single-container.active iframe {
+        min-height: 420px;
+    }
+
 </style>
+
+
+<script client:load>
+  const grid = document.querySelector("[data-video-grid]");
+  if (grid) {
+    const items = grid.querySelectorAll("[data-video-item]");
+
+    items.forEach((item) => {
+      item.addEventListener("click", () => {
+        items.forEach((i) => i.classList.remove("active"));
+        item.classList.add("active");
+
+        item.scrollIntoView({
+          behavior: "smooth",
+          block: "nearest"
+        });
+      });
+    });
+  }
+</script>

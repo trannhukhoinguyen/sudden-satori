@@ -173,7 +173,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: [''],
     disciples: [],
-    reference: [''],
+    reference: ['https://ngulucthien.com/thien-su-chi-thanh/'],
   },
   {
     id: '34.1.10',
