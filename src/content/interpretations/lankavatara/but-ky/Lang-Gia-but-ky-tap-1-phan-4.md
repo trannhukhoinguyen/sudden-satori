@@ -1,5 +1,5 @@
 ---
-title: "Lăng Già Bút Ký - Tập 1 - Phần 3"
+title: "Lăng Già Bút Ký - Tập 1 - Phần 4"
 description: ""
 authors:
   - Đại Sư HÁM SƠN
