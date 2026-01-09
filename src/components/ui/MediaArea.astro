@@ -38,27 +38,29 @@ const { frontmatter } = Astro.props;
     }
 
   <div class="video-grid" data-video-grid>
-    {
+      {
 // Multiple videos
       frontmatter?.videoIds?.length &&
-      frontmatter.videoIds.map((id: any, index: number) => (
-        <div
-          class={`video-single-container ${index === 0 ? "active" : ""}`}
-          data-video-item
-        >
-          <iframe
-            src={`https://www.youtube.com/embed/${id}?start=${
-              frontmatter.videoStarts?.length
-                ? frontmatter.videoStarts[index]
-                : 0
-            }`}
-            title={`${frontmatter.title} - ${index + 1}`}
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-          ></iframe>
-        </div>
-      ))
-    }
+          frontmatter.videoIds.map((id: any, index: number) => (
+              <div
+                  class={`video-single-container`}
+                  data-video-item
+              >
+                <div class="video-inner">
+                  <iframe
+                      src={`https://www.youtube.com/embed/${id}?start=${
+                          frontmatter.videoStarts?.length
+                              ? frontmatter.videoStarts[index]
+                              : 0
+                      }`}
+                      title={`${frontmatter.title} - ${index + 1}`}
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowfullscreen
+                  ></iframe>
+                </div>
+              </div>
+          ))
+      }
   </div>
 
 <!--    {
@@ -184,25 +186,37 @@ const { frontmatter } = Astro.props;
     }
 
     /* video nhỏ */
-    .video-single-container iframe {
-        width: 100%;
-        aspect-ratio: 16 / 9;
-        border-radius: 12px;
+    .video-single-container {
+      cursor: pointer;
     }
 
-    /* video active chiếm full ngang */
+    /* CÁI NÀY QUYẾT ĐỊNH CÓ PHÓNG HAY KHÔNG */
     .video-single-container.active {
-        grid-column: 1 / -1;
+      grid-column: 1 / -1;
     }
 
-    .video-single-container.active iframe {
-        min-height: 420px;
+    /* ép chiều cao để grid bung */
+    .video-inner {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+    }
+
+    /* iframe fill container */
+    .video-inner iframe {
+      width: 100%;
+      height: 100%;
+      border-radius: 12px;
+    }
+
+    /* khi active thì cao hơn */
+    .video-single-container.active .video-inner {
+      min-height: 420px;
     }
 
 </style>
 
 
-<script client:load>
+<script>
   const grid = document.querySelector("[data-video-grid]");
   if (grid) {
     const items = grid.querySelectorAll("[data-video-item]");
@@ -216,6 +230,11 @@ const { frontmatter } = Astro.props;
           behavior: "smooth",
           block: "nearest"
         });
+
+        const iframe = item.querySelector("iframe");
+        if (iframe && !iframe.src.includes("autoplay=1")) {
+          iframe.src += "&autoplay=1";
+        }
       });
     });
   }
