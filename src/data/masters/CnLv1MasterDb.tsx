@@ -90,7 +90,9 @@ const CnLv1MasterDb = [
     ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/4/48/HezeShenhuiDrawing.jpg',
     image2: 'https://terebess.hu/zen/Shenhui.jpg',
-    reference: ['https://terebess.hu/zen/shenhui.html', ],
+    reference: ['https://terebess.hu/zen/shenhui.html',
+      'https://ngulucthien.com/dong-ha-trach-than-hoi/', 'https://ngulucthien.com/thien-su-than-hoi-tt/', 'https://ngulucthien.com/hien-tong-ky/'
+    ],
     wiki: ['https://en.wikipedia.org/wiki/Shenhui'],
   },
   {
@@ -213,7 +215,7 @@ const CnLv1MasterDb = [
     teachers: ['Dajian Huineng'],
     successors: [''],
     disciples: [],
-    reference: [''],
+    reference: ['https://ngulucthien.com/thien-su-tri-hoang/'],
   },
   {
     id: '34.1.12',
@@ -601,9 +603,9 @@ const CnLv1MasterDb = [
   },
   {
     id: '34.1.33',
-    name_en: '',
+    name_en: 'Taixiang',
     name_ja: '',
-    name_zh: '',
+    name_zh: '泰祥',
     name_vi: 'Thái Tường',
     birth_death_time: ['', ''],
     epoch: '',

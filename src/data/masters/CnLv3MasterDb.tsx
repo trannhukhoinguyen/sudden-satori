@@ -1,7 +1,7 @@
 const CnLv3MasterDb = [
   {
     id: '36.3.1',
-    name_en: 'Kinh Nam Duy Trung',
+    name_en: 'Jingnan Weizhong',
     name_ja: '',
     name_zh: '荊南惟忠',
     name_vi: 'Kinh Nam Duy Trung',

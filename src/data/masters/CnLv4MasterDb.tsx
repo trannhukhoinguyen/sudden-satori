@@ -188,10 +188,13 @@ const CnLv4MasterDb = [
     place: 'Nhuận Châu',
     teachers: ['Niutou Zhiwei'],
     successors: ['Jingshan Faqin'],
-    disciples: ['Jingshan Faqin', 'Ngô Trung Pháp Kính', 'Wuxing Fahai - Ngô Hưng Pháp Hải', 'Tử Sơn Hạo Nhiên',
-      'Kim Hoa Đàm Ích', 'Ngô Môn Viên Cảnh', 'Wuzhou Fajing', 'Longan Ruhai', 'Chao\'an', 'Fali', 'Huiduan'],
+    disciples: ['Jingshan Faqin',
+      'Wuxing Fahai', 'Wuzhou Fajing', 'Longan Ruhai',
+      'Ngô Trung Pháp Kính', 'Tử Sơn Hạo Nhiên', 'Kim Hoa Đàm Ích', 'Ngô Môn Viên Cảnh',
+      'Chao\'an', 'Fali', 'Huiduan'
+    ],
     image: '/images/avatar.png',
-    reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/hac-lam-huyen-to-k4041.html'],
+    reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/hac-lam-huyen-to-k4041.html', 'https://ngulucthien.com/thien-su-huyen-to/'],
   },
   {
     id: '37.4.11',

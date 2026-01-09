@@ -21,7 +21,6 @@ videoIds:
 
 ### GIỚI THIỆU
 
-
 Lịch sử Thiền Tông Trung Quốc hầu như gắn liền với cái tên Huệ Năng (638-713) 慧能, mà theo truyền thống thì ông là tổ thứ sáu, Lục Tổ của dòng Thiền sáng lập bởi Bodhihama, Bồ-đề-đạt-ma 菩提達摩. Giáo lý của Huệ Năng được ghi lại trong Pháp Bảo Đàn Kinh 法寶檀經, trong đó chứa đựng những giáo lý có tính cách rất là cách mạng về phương pháp tu tập Thiền chẳng hạn như truyền vô tướng giới, nhấn mạnh vào đốn ngộ và chủ trương đồng nhất định 定và huệ 慧. Chương mở đầu Đàn Kinh có tính cách tự truyện. Huệ Năng thuật lại về gốc gác của mình và cơ duyên như thế nào mà ông được công nhận là Lục Tổ, người chính thức thừa kế, theo ngôn ngữ Thiền là được chính thức và trực tiếp trao truyền tâm ấn bởi Ngũ Tổ Hoằng Nhẫn (601-674) 弘忍, bậc đạo sư lừng danh thuở ấy.
 
 Đây là những giai thoại của Thiền Tông Trung Quốc mà hầu như người nào có đọc sách về Thiền cũng rất quen thuộc. Có một chi tiết rất “thơ mộng” là Huệ Năng là một người mù chữ xuất thân quê mùa mà thắng lướt được một vị sư huynh đức độ và tài năng là Thần Tú (606-706) 神秀để nhận chức vị Lục Tổ. Đây là một trong các chủ đề chính của Đàn Kinh. Cũng theo kinh này thì Thiền của Huệ Năng theo đúng với nguyên tắc, “giáo ngoại biệt truyền, bất lập văn tự, trực chỉ nhân tâm, kiến tính thành Phật.” Lại cũng theo Đàn Kinh, vấn đề Huệ Năng được thừa nhận là Lục Tổ không được ổn thỏa lắm với đa số đồ đệ của Hoằng Nhẫn, nhất là các tăng và tục ủng hộ Thần Tú. Hoằng Nhẫn cũng biết như vậy cho nên khuyên Huệ Năng phải trở về Lĩnh Nam ẩn dật một thời gian. Sau đó Thần Tú ở phương Bắc được triều đình trọng vọng và tôn ông là người thừa kế chính thức của Hoằng Nhẫn.
@@ -332,6 +331,337 @@ Lục Tổ đáp: **Thường sanh tâm thanh tịnh thì trong định có tu�
 
 Lục Tổ đáp: **Nói tức trước Phật rồi sau pháp. Nghe thì trước pháp rồi sau Phật. Nếu luận Phật và pháp vốn nguồn gốc, nhất thiết từ trong tâm chúng sanh mà ra.**
 
+<hr class="blog-rule" />
+
+Hiển Tông Ký là tác phẩm của thiền sư Thần Hội. Trong Tạng kinh ghi là Hiển Tông Ký 顯宗記, bản Đôn Hoàng ghi là “Đốn ngộ vô sanh Bát-nhã tụng 頓悟無生般若頌”.
+Hiển Tông Ký, Hiển là hiển bày, Tông là Thiền tông, Ký là ghi. 
+Hiển Tông Ký là ghi lại những lời dạy về Thiền tông của thiền sư Thần Hội.
+Còn “Đốn ngộ vô sanh Bát-nhã tụng” là bài tụng về phương pháp tu đốn ngộ để được trí Bát-nhã vô sanh.
+Hai tên tuy khác nhưng chủ đích không khác.
+
+## HIỂN TÔNG KÝ
+
+<blockquote> 
+
+Vô niệm là tâm, Vô tác là gốc
+
+Chân không là thể, Diệu hữu là dụng
+
+Chân như vô niệm,
+
+Chẳng phải tưởng niệm mà hay biết được thật tướng.
+
+Vô sanh mà khởi sắc tâm thành năng kiến.
+
+Vô niệm mà niệm tức niệm chân như.
+
+Vô sanh mà sanh, là sanh thật tướng.
+
+Vô trụ mà trụ, thường trụ Niết-bàn.
+
+Không làm mà làm tức vượt qua bờ kia.
+
+Như như bất động, động dụng vô cùng.
+
+Niệm niệm không mong cầu, cầu vốn vô niệm.
+
+Bồ-đề không đắc, tịnh ngũ nhãn đắc ba thân.
+
+Bát-nhã vô tri, vận lục không hoằng tứ trí.
+
+Thế nên biết tức định mà không định,
+
+tức huệ mà không huệ, tức hành mà không hành.
+
+Tánh bình đẳng như hư không, thể cùng với pháp giới.
+
+Sáu độ từ đây được tròn đầy.
+
+Đạo phẩm khi này không thiếu sót.
+
+Nên biết, ngã pháp thể là không, có không cả hai đều bặt.
+
+Tâm vốn không tạo tác, chỗ chí đạo thường vô niệm.
+
+Không nhớ, không nghĩ, không cầu, không chứng đắc,
+
+Không đây, không kia, không đi, không lại.
+
+Thể ngộ được tam minh, tâm thông bát giải thoát.
+
+Công thành tựu mười lực, giàu có thất giác chi.
+
+Nhập cửa bất nhị được lý nhất thừa.
+
+Mầu nhiệm trong mầu nhiệm tức diệu pháp thân.
+
+Trời trong các trời, là trí huệ Kim Cang.
+
+Lặng lẽ thường yên tịnh, ứng dụng vô cùng.
+
+Tuy dụng mà vẫn thường không, tuy không mà vẫn thường dụng.
+
+Dụng mà chẳng có tức là chân không.
+
+Không mà chẳng không liền thành diệu hữu.
+
+Diệu hữu tức là Đại Bát-nhã,
+
+Chân Không là Niết-bàn thanh tịnh.
+
+Bát Nhã là nhân Niết-bàn.
+
+Niết-bàn là quả của Bát-nhã.
+
+Bát nhã không thấy mà hay thấy Niết-bàn.
+
+Niết-bàn không sanh mà hay sanh Bát-nhã.
+
+Niết-bàn và Bát-nhã tên khác mà thể đồng,
+
+Tùy nghĩa đặt tên là pháp vô định tướng.
+
+Niết bàn hay sanh Bát-nhã là chân thật pháp thân.
+
+Bát nhã hay thấy Niết-bàn là Tri kiến Phật.
+
+Biết là biết cái tâm lặng lẽ,
+
+Thấy tức thấy tánh vô sanh.
+
+Thấy biết rõ ràng chẳng phải một, chẳng phải khác,
+
+tuy có động tĩnh, nó thường diệu.
+
+Sự lý vẫn lặng lẽ như như, mọi chỗ đều thông suốt,
+
+là sự lý không chướng ngại nhau.
+
+Sáu căn không nhiễm là công phu của định huệ.
+
+Sáu thức chẳng sanh là sức của như như.
+
+Tâm mà như thì bặt cảnh, cảnh mất thì tâm không.
+
+Tâm cảnh cả hai đều bặt, thể dụng cả hai đều không khác,
+
+Chơn như vắng lặng trí huệ không cùng.
+
+Như nước phân thành ngàn mặt trăng
+
+mà hay thấy nghe hiểu biết,
+
+Thấy nghe hiểu biết mà thường vắng lặng.
+
+Không tức không tướng, tịch tức không sanh.
+
+Chẳng bị thiện ác trói cột, chẳng bị tịnh loạn nhiếp thuộc.
+
+Chẳng chán sanh tử, chẳng ưa Niết-bàn.
+
+Không chẳng hay không, có chẳng hay có,
+
+Đi đứng nằm ngồi tâm chẳng lay động.
+
+Trong tất cả thời được vô đắc.
+
+Ba đời chư Phật, đều dạy như vậy.
+
+Bồ tát từ bi nối tiếp nhau mà truyền thọ.
+
+Từ Thế Tôn diệt độ, phương tây hai tám vị Tổ
+
+đều truyền tâm vô trụ này, đồng nói tri kiến Phật.
+
+Tổ Đạt-ma đến cõi này làm Sơ tổ trao truyền đến giờ không dứt.
+
+Đều truyền bí giáo cốt tìm được người,
+
+như ngọc của vua trọn không trao cho người tầm thường.
+
+Phước đức trí huệ hai thứ trang nghiêm.
+
+Hạnh giải tương ứng mới hay kiến lập.
+
+Y là niềm tin của pháp, pháp là chủ của y.
+
+Y và pháp truyền nhau, không có pháp khác.
+
+Trong truyền tâm ấn, ấn hợp bổn tâm.
+
+Ngoài truyền ca-sa, biểu trưng tông chỉ.
+
+Chẳng y chẳng truyền pháp, không pháp không được nhận y.
+
+Y là pháp tín, pháp là pháp không sanh.
+
+Không sanh là không có hư vọng,
+
+không hư vọng là tâm vắng lặng.
+
+Thấy cái vắng lặng là thấy pháp thân.
+
+Thấy pháp thân là chân thật giải thoát.
+</blockquote>
+
+## HIỂN TÔNG KÝ (âm Hán Việt)
+
+<blockquote> 
+
+Vô niệm vi tông, vô tác vi bổn.
+
+Chơn không vi thể, diệu hữu vi dụng.
+
+Phù chơn như vô niệm,
+
+phi tưởng niệm nhi năng tri thật tướng.
+
+Vô sanh khởi sắc tâm nhi năng kiến.
+
+Vô niệm niệm giả tức niệm chân như.
+
+Vô sanh sanh giả, tức sanh thật tướng.
+
+Vô trụ nhi trụ, thường trụ niết bàn.
+
+Vô hành nhi hành, tức siêu bỉ ngạn.
+
+Như như bất động, động dụng vô cùng.
+
+Niệm niệm vô cầu, cầu bổn vô niệm.
+
+Bồ đề vô đắc tịnh ngũ nhãn nhi liễu tam thân.
+
+Bát nhã vô tri, vận lục thông nhi hoằng tứ trí.
+
+Thị tri tức định vô định, tức huệ vô huệ, tức hành vô hành.
+
+Tánh đẳng hư không, thể đồng pháp giới.
+
+Lục độ tự tư viên mãn.
+
+Đạo phẩm ư thị vô khuy.
+
+Thị tri ngã pháp thể không, hữu vô song dẫn.
+
+Tâm bổn vô tác, đạo thường vô niệm.
+
+Vô niệm vô tư, vô cầu vô đắc.
+
+Bất bỉ bất thử, bất khứ bất lai.
+
+Thể ngộ tam minh tâm thông bát giải.
+
+Công thành thập lực, phú hữu thất trân.
+
+Nhập bất nhị môn, hoạch nhất thừa lý.
+
+Diệu trung chi diệu, tức diệu pháp thân.
+
+Thiên trung chi thiên, nãi Kim cang huệ.
+
+Trạm nhiên thường tịch, ứng dụng vô phương.
+
+Dụng nhi thường không, không nhi thường dụng.
+
+Dụng nhi bất hữu, tức thị chân không.
+
+Không nhi bất vô, tiện thành diệu hữu.
+
+Diệu hữu tức Ma Ha Bát Nhã.
+
+Chân không tức thanh tịnh niết bàn.
+
+Bát nhã thị niết bàn chi nhân.
+
+Niết Bàn thị bát nhã chi quả.
+
+Bát nhã vô kiến, năng kiến niết bàn.
+
+Niết bàn vô sanh, năng sanh bát nhã.
+
+Niết bàn bát nhã danh dị thể đồng.
+
+Tùy nghĩa lập danh, cố vân pháp vô định tướng.
+
+Niết bàn năng sanh bát nhã tức danh chân thật pháp thân.
+
+Bát nhã năng kiến niết bàn cố hiệu Như lai tri kiến.
+
+Tri tức tri tâm không tịch.
+
+Kiến tức kiến tánh vô sanh.
+
+Tri kiến phân minh, bất nhất bất dị.
+
+Cố năng động tịnh, thường diệu lý sự giai như như,
+
+tức xứ xứ năng thông đạt, tức lý sự vô ngại.
+
+Lục căn bất nhiễm tức định huệ chi công.
+
+Lục thức bất sanh, tức như như chi lực.
+
+Tâm như cảnh tạ, cảnh diệt tâm không.
+
+Tâm cảnh song vong thể dụng bất dị.
+
+Chơn như tánh tịch, huệ giám vô cùng.
+
+Như thủy phân thiên nguyệt năng kiến văn giác tri.
+
+Kiến văn giác tri, nhi thường niệm tịnh.
+
+Không tức vô tướng, tịch tức vô sanh.
+
+Bất bị thiện ác sở câu.
+
+Bất bị tĩnh loạn sở nhiếp.
+
+Bất yểm sanh tử, bất nhạo niết bàn.
+
+Vô bất năng vô, hữu bất năng hữu.
+
+Hành trụ tọa ngọa tâm bất động diêu.
+
+Nhất thiết thời trung hoạch vô sở đắc.
+
+Tam thế chư Phật, giáo chỉ như tư.
+
+Tức bồ tát từ bi đệ tương truyền thọ.
+
+Tự Thế Tôn diệt hậu, tây thiên nhị thập bát tổ,
+
+cộng truyền vô trụ chi tâm, đồng thuyết như lai tri kiến.
+
+Chi ư đại ma quật thử vi sơ đệ đại tương thừa ư kim bất tuyệt.
+
+Sở truyền bí giáo, yếu tạ đắc nhơn.
+
+Như vương kế châu, chung bất vọng dữ.
+
+Phước đức trí huệ nhị chủng trang nghiêm.
+
+Hạnh giải tương ưng phương năng kiến lập.
+
+Y vi pháp tín, pháp thị y tông.
+
+Duy chỉ y pháp tương truyền cánh vô biệt pháp.
+
+Nội truyền tâm ấn, ấn khế bổn tâm.
+
+Ngoại truyền ca sa, tương biểu tông chỉ.
+
+Phi y bất truyền ư pháp, phi pháp bất thọ ư y.
+
+Y thị pháp tín chi y. Pháp thị vô sanh chi pháp.
+
+Vô sanh tức vô hư vọng, nãi thị không tịch chi tâm.
+
+Tri không tịch nhi liễu pháp thân,
+
+Liễu pháp thân nhi chơn giải thoát.
+</blockquote>
 
 <hr class="blog-rule" />
 
