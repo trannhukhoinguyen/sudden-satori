@@ -177,13 +177,9 @@ CHÁNH VĂN
 KIM CANG BÁT-NHÃ BA-LA- MẬT-ĐA KINH TÔNG THÔNG
 ☸
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 
@@ -283,13 +279,9 @@ Lúc ấy đến giờ thọ trai, Đức Thế Tôn đắp y, mang bát vào th
 Trong thành, các vị tỷ- khưu khất thực theo thứ tự rồi trở về tinh xá. 
 Thọ trai xong, các vị thu dọn y bát, rửa chân, trải tòa ra ngồi.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Bộ Kinh Bát-nhã nầy tất cả gồm 600 quyển, gồm 16 hội giảng kinh ở 4 nơi. 
@@ -410,13 +402,9 @@ thượng Bồ-đề, nên trụ tâm như thế nào, hàng phục tâm như th
 “Nếu có thiện nam, tín nữ lòng lành, phát tâm Bồ-đề, nên trụ tâm như thế này, nên hàng phục tâm như thế này.”
 “Bạch Thế Tôn! Xin nguyện lắng nghe.”
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Tu-bồ-đề22 [22] vốn là Đông Phương
@@ -540,13 +528,9 @@ Nhược khởi chúng sinh kiến, Hoàn đồng trước tướng cầu.
 
 Nghĩa là: Không Sinh (Tu-bồ-đề ) vừa mới hỏi, Thiện Thệ (Như Lai) liền ứng theo căn cơ mà đáp, ban đầu trả lời cách an trụ, tiếp đến chỉ bày cách tu. Các loài chúng sinh từ thai trứng, ẩm thấp, biến hoá mà sinh ra, đều gồm chung là loài hàm linh có từ bi trí tuệ. Nếu khởi cái thấy có chúng sinh tức là cũng như chấp tướng mà cầu [Như Lai]”.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Đoạn nầy chính là để đáp lại câu hỏi của Tu-bồ-đề. Hỏi rằng trong an trụ đều đã gồm cả hàng phục, nay chỉ nêu lên hàng phục là sao? Vì Vô thượng bồ-đề vốn không có tướng trạng, vốn lìa xa năng sở. Người phát bồ-đề tâm muốn có được tính thường trụ nầy, đạt được tâm không thối thất, [phải
@@ -686,13 +670,9 @@ Ban đầu lược nêu lên
 Muốn biết thực bố thí
 Hư không khắp mười phương.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Bồ-tát vì muốn làm lợi ích cho chúng sinh nên tu tập lục độ vạn hạnh; trong lục độ ba-la-mật-đa thì Bát-nhã độ đứng hàng đầu. 
@@ -814,13 +794,9 @@ Phóng xả hành tướng mà được chút phần tự do.
 Hai bậc tôn túc nầy, làm rõ thêm ý chỉ của dừng trụ, mới biết tông chỉ tối cao của Tào Động. Hai cực đoan đều chẳng lập, cũng chẳng an trụ nơi trung đạo, đó chính là huyết mạch chân thật của Bát-nhã.
 Trên là phần đối đáp. Sau đây là phần truy theo dấu tích để trừ nghi.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Phần vấn đáp ở trên, là để khiển trừ mối nghi của Tu-bồ-đề, hiển bày huyết mạch chính tông của Như Lai. Độ khắp chúng sinh, gom về biển Như Lai tạng, tu hạnh vô tướng đồng như pháp thân chư Phật. Bình đẳng với hư không pháp giới, trụ niết-bàn
@@ -887,13 +863,9 @@ Tám mươi vẻ đẹp phụ.
 Có thân chẳng giác thể,
 Chẳng tướng chẳng chân hình.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Pháp thân của Như Lai, đến mà chưa từng đến, nên gọi là Như Lai, hàng phàm phu thấy ngài có đến nên chấp cho là có tướng, hàng Nhị thừa thấy không có tới, nên cho là không có tướng, nên họ trụ nơi cái không, lấy đó mà tu nhân. Hàng Bồ-tát đã biết rõ báo thân hoá thân đều không thật có, đã lìa xa cái kiến chấp của hàng phàm phu; đã biết pháp thân chẳng phải là không, là lìa xa kiến chấp của hàng Nhị thừa; chỉ thú hướng Phật thừa, nhưng vẫn còn ưa thích ở pháp. Nay nghe khi tu lục độ, từ sáu trần cho đến bồ-đề niết-bàn đều không nên trụ trước vào hết thảy các pháp ấy, vậy lấy gì làm thứ lớp mà chứng pháp thân? Đức Phật dùng pháp thân để ví như tướng, tức từ tướng mà có thể thấy được Như Lai; pháp thân nếu lìa tướng (mà có), tức là lìa tướng ắt thấy Phật Như Lai. Pháp thân tức là tướng cũng không đúng, pháp lìa tướng cũng không phải. Cho nên chẳng nên trụ nơi pháp mà tu chứng pháp thân. Pháp thân chẳng phải tướng, ắt thấy nó chưa từng đến đi. Pháp thân lìa xa các tướng ắt thấy nó chưa từng chẳng đến đi, nên nói là (thấy tướng) tức thấy Như Lai. 
@@ -1103,13 +1075,9 @@ Ngộ lý há cần nơm? 37[37]
 Trung lưu còn chìm đắm Sao còn luận nhị biên?
 Hữu vô nếu chọn một. Liền ô nhiễm đất tâm.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Đoạn kinh nầy bao quát trọn cả chỉ thú của bộ kinh. 
@@ -1380,13 +1348,9 @@ Tạo duyên lành bậc thánh
 Phải nương thuyền Bát-nhã. 
 Để vào biển vô vi.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Pháp vi diệu vô trụ của Như Lai rất lớn không thể suy lường đến được. Nói đến phương diện thật tế, cũng không thể nào đạt được. Chỉ vì lợi lạc quần sanh mà chư Phật không phương ngại hiện bày vô số hình tướng âm thanh ngôn thuyết. Phàm mỗi người ai đã nghe thấy được rồi, thảy đều có được lợi ích. Thật ra trên bình diện pháp tánh, vốn lìa hẳn các phân biệt, không do sự tác ý, được tức là chẳng chứng đắc; nói tức là chẳng nói, đó tức là trung đạo đệ nhất nghĩa đế. Tu-bồ-đề (Không Sanh) chỉ hiểu được bờ mé bên ngoài của pháp thân, nên cho rằng Như Lai vô đắc vô thuyết, hết thảy hiền thánh đều do nơi pháp vô vi mà có sai biệt. Thế tôn mới chỉ ra việc hướng thượng của pháp thân, vốn chẳng quan ngại vì chư Phật đều do đây mà lưu xuất, pháp vô thượng bồ-đề cũng từ đây mà
@@ -1612,13 +1576,9 @@ Chẳng còn khởi tham sân
 Chẳng bi, cũng chẳng trí 
 Thản nhiên, chỉ thuần chân.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Trên đã tin rằng pháp vô vi không thể nắm bắt, không thể diễn nói được, vốn là lời nói của Tu-bồ-đề, tại sao ngay lời mình đã nói rồi lại sinh nghi? Vì Phật pháp chư Phật nói ra, tức vốn chẳng phải Phật pháp, nói vậy chính là để phá trừ pháp vô vi. Các người ấy muốn tiêu tán các pháp để quy về không (vô), chư Phật liền hiện khởi các pháp như là không chỉ bày cái thật có (hữu) của nó, tức là pháp vô vi cũng không hiện bày tính thực hữu của nó. Cho nên Tu-bồ-đề nghi rằng nếu các pháp vô vi cũng là vô tự tánh, thì các bậc hiền thánh, như các bậc đã chứng bốn quả Thanh văn, mỗi mỗi đều có sai biệt, mỗi vị đều có chỗ sở đắc, tại sao khi đã chứng đạt quả vị rồi, lại nói đó chẳng phải là quả ? Chư Phật cho rằng quả vị chưa từng là không, chỉ do không tự mình tác chứng, tức là không thấy có quả vị để chứng đắc. Cho nên mới dùng phạm trù tứ quả có hay không để khởi niệm gạn hỏi. Tu-bồ-đề vốn đã tự biết là chẳng có khởi niệm, đã không khởi niệm, làm sao tướng của quả lại có được? Nhưng đã tin những điều Như Lai nói là Phật pháp, tức chẳng phải là Phật pháp, đó chính là diệu pháp vô trụ.
@@ -1857,13 +1817,9 @@ Chẳng luận phước hay trí
 Trước phải rời tham sân Trang nghiêm, dứt năng sở Vô ngã cùng vô nhân
 Đoạn, thường đều chẳng nhiễm Thông thoát hẳn hồng trần.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Tu-bồ-đề nói rằng tất cả các bậc hiền thánh đều do pháp nầy (pháp vô vi)
@@ -1955,13 +1911,9 @@ Bốn đại thành tướng núi. Từ bi là Phật nhân
 Có hình thì chẳng lớn
 Không tướng mới là chân.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Tu-bồ-đề hỏi làm sao để an trụ, làm sao hàng phục tâm? Đó là muốn có sự tu chứng để chứng đắc Vô thượng bồ- đề. Thế tôn nói rằng Vô thượng bồ-đề không có được nhờ vào tu chứng.Vì nếu tu chứng được, thì chẳng phải tự tánh xưa nay vốn là thiên chân Phật. Nếu do tu tập lục độ vạn hạnh mà thành tựu (quốc độ chính báo) báo độ, tức gọi là ánh sáng vàng ròng trang nghiêm tịnh độ. Nếu thành tựu báo thân, là thành tựu thân lô-xá-na ngàn trượng, rốt ráo đều do nghiệp lực gìn giữ mà được, đều là quả báo hữu lậu hữu vi, không so sánh được với quả báo vốn thanh tịnh bản nhiên vô lậu vô vi. Cho nên ý kinh ở trên nói thanh tịnh bản nhiên là chân thực thanh tịnh. Thân thanh tịnh bản nhiên chân thật là thân to lớn, nên nói rằng thân Phật to lớn sung mãn khắp cả pháp
@@ -2183,13 +2135,9 @@ Bốn câu kệ trong kinh Chẳng nên được lìa thân Người ngu thấy 
 Pháp tánh chẳng sau trước. Chẳng giữa, chẳng cũ mới. Vì không, vô thật tướng
 Do đâu thấy ngã, nhân?
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Tu-bồ-đề nghe Đức Phật tán thán, dù ở nơi nào có kinh nầy, tức nơi ấy là có chư Phật, sẽ được trời người cúng dường như là tháp miếu thờ Phật; và sự thù thắng của kinh nầy, người nào thọ trì sẽ được phước đức rất lớn. Nhân đó Tu-bồ-đề thưa hỏi Đức Phật, kinh nầy tên gọi là gì để phụng trì. Đức Phật dùng Bát-nhã ba-la-mật-đa, độ thù thắng nhất trong lục độ, để đặt tên cho kinh nầy. Gọi là Kim cang Bát-nhã, với nghĩa là có thể đoạn sạch. Cùng với nghĩa Bát-nhã để khiển trừ, vì đó là pháp môn tối thượng vô cùng quý báu vô cùng sùng kính. Tên kinh là tối thắng vì là nhân ưu việt để cho tất cả chúng sinh đều
@@ -2383,13 +2331,9 @@ Trong có mười danh xưng Cao thấp duyên vọng thức Thứ lớp đều 
 Trong không cầu tiếng vang Chân như sao được mất?
 Mới được gọi viên thành.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Đoạn nầy tán thán phước đức trì kinh rất lớn, có nghĩa là được phước đức thanh tịnh, đó chẳng phải là phước đức của thế gian. Thọ trì bốn câu kệ trong kinh nầy phước đức cũng rất lớn. Chỉ ghi nhớ đọc tụng giảng nói, mà lại được phước đức như vậy sao! Quý là ở tín tâm, quý là tại tu hành. Như vậy mà lãnh thọ, như vậy mà tu hành, không dính mắc vào 32 tướng, tức là đạt được thật tướng. Có khác gì với Phật? Không dính mắc vào bốn tướng: nhân, ngã, chúng sinh, thọ giả, tức không bị ràng buộc trong thế giới nhân quả trời người. Chỉ có người ra ngoài ba cõi, thì mới đủ sức để suy tính về phước đức trong thế giới. Riêng với Phật là chẳng khác, nên phước huệ đều tròn đủ. Trời người chẳng ai không ngưỡng vọng. 
@@ -2541,13 +2485,9 @@ Siêng năng ba đại kiếp Chẳng một niệm mệt buồn Nếu thường 
 Như Lai nói rằng: Tất cả các tướng
 tức chẳng phải tướng. Lại nói: Tất cả chúng sanh, tức chẳng phải chúng sanh.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Văn trên đã nói rằng Kim cang Bát- nhã ba-la-mật-đa là đệ nhất trong các ba-la-mật, hoặc nói rằng bố thí là đệ nhất, vì bố thí hàm nhiếp cả các độ khác. 
@@ -2656,13 +2596,9 @@ Lời chân thật, không vọng.
 Rốt ráo chẳng khác sai 
 Xưa nay tánh tướng đồng.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Mỗi lần đọc kinh nầy, thấy Như Lai đều nói hết thảy các tướng đều là chẳng phải tướng, lại nói tất cả chúng sinh đều chẳng phải là chúng sinh, những lời ấy đều lìa ngôn thuyết. Sợ người ta nghi đó là lời luống dối nên kinh nói lời nói của Như Lai là chân chánh v .v... Do pháp nầy chẳng thực chẳng hư. Chính vì không thật, nên không thấy có các tướng để được, không thấy có chúng sinh để độ. Chính vì không hư giả, nên chưa từng
@@ -2790,13 +2726,9 @@ Có bệnh nên dùng thuốc
 Hết bệnh thuốc chẳng dùng Theo hai lý không nầy
 Giải thoát, nhập vô dư.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Văn trên đã nói pháp mà Như Lai chứng được, pháp ấy vốn chẳng thực chẳng hư dối. Lục tổ Huệ Năng nói rằng: Không thật có là do pháp thể
@@ -2926,13 +2858,9 @@ Tu thành rừng công đức
 
 Đều không thú tịch ý Chỉ tu tâm thuần thục Hành từ bi rộng lớn Dụng trí thật cao sâu Lợi người tức lợi mình Quả thánh nhỏ sẽ thành.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Như Lai rất tán thán kinh nầy, ví kinh như mặt trời chiếu sáng, thấy rõ các thứ màu sắc. Đó là phát ra các trí huệ xuất thế gian. Hàng Thanh văn Duyên giác không thể nhìn thấy được. Chỉ có hàng Bồ-tát, trí bi cùng vận hành mới có thể đảm đương gánh vác được. Nếu có người có thể thọ trì đọc tụng kinh nầy, chẳng trái nghịch bản tâm, là người trong nhiều đời
@@ -3142,13 +3070,9 @@ Phật của Như Lai vượt hơn bội phần, trăm phần chẳng theo kịp
 “Tu-bồ-đề! Nếu thiện nam tín nữ vào đời mạt pháp thọ trì đọc tụng kinh này được nhiều công đức, nếu Như Lai nói ra đầy đủ sẽ có người nghe qua sanh tâm cuồng loạn, nghi ngờ chẳng tin.
 “Tu-bồ-đề! Nên biết rằng, nghĩa kinh này không thể nghĩ bàn, quả báo cũng không thể nghĩ bàn.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Chân như tuy cùng khắp mọi nơi, nhưng cần phải nhờ tu trì mới được. Không thể không do tu tập mà chứng đắc được. Nói tu tập chính là huân tập
@@ -3270,13 +3194,9 @@ Dụng trí lời chân thật
 Đồ sinh tạm nói ngã 
 Chứng lý tức vô nhân.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Tu-bồ-đề lại đứng lên thưa hỏi, đoạn trước đã nói về nhân vô ngã, đoạn nầy nói về pháp vô ngã. 
@@ -3345,13 +3265,9 @@ Phật nói: “Đúng vậy, đúng vậy!
 Tu-bồ-đề! Thật không có pháp Như Lai được Vô thượng Chánh đẳng Chánh giác.
 Tu-bồ-đề! Nếu như có pháp Như Lai được Vô thượng Chánh đẳng Chánh giác, Phật Nhiên Đăng hẳn đã không thọ ký cho Như Lai: ‘Ông về sau sẽ thành Phật hiệu Thích-ca Mâu-ni.’ 
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Tu-bồ-đề chính vì mối nghi có ngã quá vi tế! Ban đầu nghi rằng trong an trụ và hàng phục còn có ngã, lấy cái trí hàng phục làm ngã. 
@@ -3423,13 +3339,9 @@ Tu-bồ-đề! Thật không có pháp mà Như Lai chứng đắc Vô thượng
 
 Tu-bồ-đề nói: “Bạch Thế Tôn, Như Lai nói rằng thân người to lớn tức chẳng phải là thân lớn, nên gọi là thân lớn.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Văn trên nói rằng Như Lai do vô sở đắc nên được Đức Phật Nhiên Đăng thọ ký. 
@@ -3580,13 +3492,9 @@ Dịch Việt: Tu-bồ-đề, Bồ Tát nào vững tin các pháp vô ngã là 
 Người, pháp đối đãi nhau Hai tướng vốn đồng nhau Pháp không, nhân là vọng Nhân không, pháp cũng lìa. Nhân pháp đều là thật
 Thọ ký chẳng giả hư Hết thảy đều như huyễn Sao còn nói có không?
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Văn trước có nói rằng Bồ-tát phát tâm bồ-đề, tức là còn pháp gọi là bồ- đề để chứng đắc, đến đây thật là chẳng có pháp phát bồ-đề tâm. 
@@ -3771,13 +3679,9 @@ Tương lai sinh chẳng sinh
 Thường quán sát như vậy
 Chân vọng thản nhiên trôi.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Văn trước có nói Đức Phật tất biết người nầy, tất thấy người nầy. 
@@ -3906,13 +3810,9 @@ Như Lai chẳng nói phước diền lớn.
 Dùng tâm sáng suốt để cúng dường
 Uy quang chiếu khắp cõi ta-bà.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Trước Tu-bồ-đề có nói rằng phước đức ấy tức chẳng phải tánh phước đức, nên Như Lai nói đó là phước đức nhiều. Do vì tánh phước đức không nằm trong số lượng, nên chẳng phải là nhiều ít để luận bàn. Nói phước nhiều, là chỉ đề cập đến
@@ -3962,13 +3862,9 @@ Lý vốn chẳng đồng, khác Nhân, pháp đều khiển trừ, Sắc, tâm 
 
 Mới gọi chứng bồ-đề. Thật do lìa các tướng.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 Phó Đại sĩ vốn là hoá thân của Bồ-tát Di-lặc, đáp ứng cho căn cơ chúng sinh ở cõi ta bà nầy mà nói ra nghĩa Kim cang Bát-nhã thậm thâm, thật là mấu chốt90[90] của kinh nầy. Yếu chỉ của kinh ‘Các tướng chẳng phải là tướng’ chẳng những lập lại ba lần, mà lại rất nhiều lần, há không có ý gì hay sao? Do Tu-bồ-đề đã chứng đắc nhân không, nên 32 tướng tức chẳng phải tướng. Để nói rõ ngoài việc chứng pháp thân. Đến đây lại chứng được pháp không, nên biết chẳng phải tướng mới gọi là tướng, để nói rõ việc
@@ -4068,13 +3964,9 @@ Kim Cang Bát-nhã. Vua Diêm-la cung kính chắp tay mời ngồi. Thỉnh Lin
 Vua Diêm-la nói: Tôi nhớ trong kinh nầy thiếu mất một đoạn, cũng như tràng hoa mà không liền nhau. 
 Bản kinh gốc hiện còn trên thạch bia trong chùa Chung Ly tại Hào Châu. Ông có thể đến đó để xem lại rồi phổ biến rộng trong nhân gian. Linh U được trở về lại nước Nguỵ, tâu lại việc đã nghe, nên nhập thêm đoạn nầy vào trong kinh.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Không thể bằng thân tướng mà thấy được Như Lai, cũng Không thể lìa thân tướng mà thấy được Như Lai. Chẳng phải thân chính là thân, đó là
@@ -4172,13 +4064,9 @@ Trong pháp đâu có phân biệt.
 Trên phương diện lý thể thì chẳng có thân sơ.
 Phân biệt ta, người đều trừ sạch. Thức tình cao thấp đều không còn. Nhận rõ được tánh bình đẳng nầy, Đều thể nhập vô dư niết-bàn.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Trong mối nghi ở đoạn 12 và 13, Như
@@ -4260,13 +4148,9 @@ Tạm dịch:
 Đem trân bảo bố thí Nhiều như cát sông Hằng Chẳng bằng quán vô ngã, Rõ vọng mới được chân.
 Muốn chứng vô sinh nhẫn Cần phải lìa tham sân Nhân pháp đều vô ngã Thong dong thoát sáu trần.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 
@@ -4341,13 +4225,9 @@ Tu-bồ-đề! Như Lai dạy rằng có ngã,
 tức chẳng phải có ngã, nhưng phàm phu cho là có ngã.
 “Tu-bồ-đề! Phàm phu, Như Lai dạy rằng chẳng phải phàm phu.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Mối nghi nầy tuy lấy bình đẳng mà nghi việc độ sinh, thật do độ sinh mà hiển bày tính bình đẳng.
@@ -4467,13 +4347,9 @@ Là ngã rất linh trường Chẳng phải tướng sắc thanh
 
 Tâm thức sao suy lường? Nhìn, thì chẳng thấy được Ngộ lý, thể sáng trong.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Văn trên nói pháp giới bình đẳng, là nói chẳng có pháp giới, chẳng có chúng sinh. Như Lai nói phàm phu tức chẳng phải phàm phu. Đã chẳng có tướng chúng sinh để được, chẳng có chúng sinh, há chẳng có Như Lai hay sao! Tuy nhiên, các tướng là cảnh giới sở hiện của Như Lai, nên đó được gọi là chẳng phải tướng tức là tướng. Đã có thể dùng vô tướng để hiển bày các tướng, thì cũng có thể dùng các tướng để hiển bày vô tướng. Tương tự như vậy mà quán sát, cũng như có thể theo tướng để biết được
@@ -4603,13 +4479,9 @@ Thế nào là Bồ-tát chẳng thọ nhận
 phước đức?”
 “Tu-bồ-đề! Bồ-tát có làm việc phước đức đều chẳng nên tham trước. Nên nói là chẳng thọ nhận phước đức. 
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Tu-bồ-đề chỉ một chiều hiểu về lý không, một chiều nói rằng không thể bằng 32 tướng mà thấy Như Lai được. Đức Phật xác nhận ý nầy và nói: Nếu nhờ vào tướng mà thấy được Như Lai, thì Chuyển luân thánh vương cũng là Phật. Rồi ngài liền nói
@@ -4704,13 +4576,9 @@ Nghĩa là: Với Phước đức trí huệ của Như Lai tròn đầy làm t�
 Tu-bồ-đề! Nếu có người nói: Như Lai
 có đến, hoặc có đi, hoặc có ngồi, hoặc có nằm. Người ấy thật chẳng hiểu nghĩa ta thuyết dạy. Vì sao vậy? Như Lai đó, chẳng từ đâu mà đến, cũng chẳng đi về đâu, nên gọi là Như Lai.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Như Lai đã không do từ các sắc tướng mà thấy được, cũng không thể nói rằng đó là đoạn diệt, là chẳng trụ sinh tử, chẳng trụ niết-bàn, thường từ chân như mà đến để cứu độ chúng sinh. 
@@ -4822,13 +4690,9 @@ Cũng đều giống như vậy. Cái gì sau, gì trước?
 Trong cảnh giới của sự Đều dung thông một thể Lý tức trừ hai bên Muốn nhập vô sanh lộ
 Nên biết được bổn nguyên.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Không nên theo hình tướng để thấy Như Lai, tợ như cùng với hoá thân là khác. Trên phương diện fháp thân thì không nói đến tướng đoạn diệt, đó là tợ như đồng nhất với hoá thân. Hoá thân có đến đi, pháp thân thường chẳng động. Trong đó thật chẳng có tướng đồng nhất hay dị biệt, nên Đức Phật mới dùng ý niệm pháp giới để
@@ -4936,13 +4800,9 @@ sao vậy? Thế Tôn nói rằng kiến giải ngã, nhân, chúng sanh, thọ 
 Tu-bồ-đề! Người phát tâm Vô thượng Chánh đẳng Chánh giác, đối với hết thảy các pháp, nên thấy biết như thế này, tin hiểu như thế này, chẳng sanh khởi pháp tướng.
 “Tu-bồ-đề! Chỗ nói là pháp tướng, Như Lai dạy rằng chẳng phải pháp tướng, gọi là pháp tướng.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông rằng:
 Văn trước Tu-bồ-đề có nói ngã tướng tức chẳng phải ngã tướng, cho đến chúng sinh tướng, nhân tướng, thọ giả tướng. Lìa tất cả các tướng tức gọi là
@@ -5003,13 +4863,9 @@ Tu-bồ-đề! Nếu có người dùng bảy
 món báu đầy khắp trong vô số a-tăng- kỳ thế giới mà bố thí. Lại có những kẻ nam người nữ lòng lành phát tâm Bồ- đề, giữ lấy kinh này, thậm chí chỉ được bốn câu kệ, thọ trì đọc tụng, vì người diễn thuyết, phước đức này hơn phước bố thí kia.
 Thế nào là vì người diễn thuyết? Chẳng chấp giữ nơi tướng, như như chẳng động.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Thông viết:
 
@@ -5109,13 +4965,9 @@ Nguy thuý như sương, bọt Như mây ảnh điện quang
 
 Dù qua tám vạn kiếp, Rốt ráo lạc vào không.
 
-<fieldset>
-<legend><h4>⚡️ KINH</h4></legend>
-<div style="color: var(--color-accent-darkorange)">
+<SutraFieldset>
 
-</div>
-</fieldset>
-<h5>💥 THÔNG rằng</h5>
+</SutraFieldset>
 
 Kinh nầy gọi là Kim cang Bát-nhã, 10 dụ thậm thâm trên chính là ý chỉ căn bản của kinh nầy. 
 Nến nói quán sát tất cả nghiệp như là huyễn, tất cả pháp như là sóng nắng, tất cả tánh như là trăng trong nước, sắc đẹp như không, âm thanh hay như tiếng vang, quán sát cõi nước chư Phật như thành càn- thát-bà.117[117] Quán sát Phật sự như mộng, pháp thân như ảnh, báo thân như tượng, pháp thân như huyễn hoá. Chỉ trừ dụ âm thanh hay như tiếng vang, còn lại liệt vào chín ví dụ. Tuy

@@ -1,5 +1,7 @@
 ---
-
+const {
+    explainTitle = "THÔNG rằng"
+} = Astro.props;
 ---
 
 <fieldset style="margin-block: 8px">
@@ -8,4 +10,4 @@
         <slot />
     </div>
 </fieldset>
-<h5>💥 GIẢI</h5>
+<h5>💥 { explainTitle }</h5>
