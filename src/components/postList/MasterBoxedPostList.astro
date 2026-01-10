@@ -6,6 +6,7 @@ import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
 import MasterTable from "../ui/MasterTable.astro";
 import ABCLinkedTitleList from "@/components/ui/ABCLinkedTitleList.astro"
+import { getPostDetail } from "../../utils/helper";
 
 const {
     collection = "masters",
@@ -15,21 +16,10 @@ const {
     page,
 } = Astro.props;
 
-const noPost ="📂 Danh sách trống";
-const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
-const groupsBySpecialTag = posts?.map((post: any) => post.frontmatter?.tags[0]);
-const groupsSorted = [
-    groupsBySpecialTag.find((group: string) => group === 'Giới thiệu'),
-    groupsBySpecialTag.find((group: string) => group === 'Chưa phân loại'),
-    ...groupsBySpecialTag.filter((group: string) => !['Giới thiệu', 'Chưa phân loại']?.includes(group)),
-];
-const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
-    ?.filter((group: string | undefined): group is string => !!group) // bỏ undefined
-    ?.map((group: string) => ({
-            group: group,
-            postsGrouped: posts.filter((post: any) => post.frontmatter?.tags?.length && post.frontmatter?.tags[0] === group),
-    }))
-    .filter((g) => g.postsGrouped.length > 0); // bỏ group không có bài;
+const { noPost } = getPostDetail(posts);
+const { noItem } = getPostDetail(posts);
+const { categoryName } = getPostDetail(posts);
+const { postsGroupedBySpecialTag } = getPostDetail(posts);
 ---
 
 {
@@ -100,9 +90,14 @@ const postsGroupedBySpecialTag = Array.from(new Set(groupsSorted))
 {
     titleList?.length > 0 ? (
 
-    <ABCLinkedTitleList collection={collection} posts={posts} titleList={titleList} listTitle={`DANH SÁCH ${categoryName}`} />
+    <ABCLinkedTitleList
+        collection={collection}
+        posts={posts}
+        titleList={titleList}
+        listTitle={`DANH SÁCH ${categoryName}`}
+    />
 
-        ) : <p>{noPost}</p>
+        ) : <p>{noItem}</p>
 }
 
 <MasterTable />

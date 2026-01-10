@@ -7,11 +7,11 @@ import PostReadMore from "../post/PostReadMore.astro";
 import PostTags from "../post/PostTags.astro";
 import PostTitle from "../post/PostTitle.astro";
 import PostDateTime from "../post/PostDateTime.astro";
+import {getPostDetail} from "../../utils/helper";
 
 const { posts, page } = Astro.props;
 
-const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
-const noPost ="📂 Danh sách trống";
+const { noPost } = getPostDetail(posts);
 ---
 
 {

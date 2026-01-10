@@ -1,3 +1,5 @@
+import { config } from "../config.ts";
+
 export function toKebabCase(str: string): string {
   return str
     ?.normalize("NFD") // tách dấu khỏi ký tự (Ví dụ: "ấ" -> "a" + "̂")
@@ -31,4 +33,43 @@ export function toSlug(name = '') {
       .normalize('NFD')                 // bỏ dấu
       .replace(/[\u0300-\u036f]/g, '')
       .replace(/\s+/g, '-');
+}
+
+export function getPostDetail(posts: any) {
+  const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
+  const noPost = `📂 Chưa có bài viết ${categoryName} nào`;
+  const noItem = `📂 Danh sách ${categoryName} trống`;
+
+  /* Group posts by first tag – O(n) */
+  const postGroupMap = new Map<string, any[]>();
+
+  for (const post of posts ?? []) {
+    const tag = post.frontmatter?.tags?.[0];
+    if (!tag) continue;
+
+    (postGroupMap.get(tag) ?? postGroupMap.set(tag, []).get(tag)!).push(post);
+  }
+
+  /* Sort groups with priority */
+  const priorityGroups = ['Giới thiệu', 'Chưa phân loại'];
+
+  const sortedGroups = [
+    ...priorityGroups.filter(g => postGroupMap.has(g)),
+    ...Array.from(postGroupMap.keys()).filter(
+        g => !priorityGroups.includes(g)
+    ),
+  ];
+
+  /* Final structure */
+  const postsGroupedBySpecialTag = sortedGroups.map(group => ({
+    group,
+    postsGrouped: postGroupMap.get(group)!,
+  }));
+
+  return {
+    noPost,
+    noItem,
+    categoryName,
+    postsGroupedBySpecialTag,
+  }
 }
