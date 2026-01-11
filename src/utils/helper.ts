@@ -36,7 +36,7 @@ export function toSlug(name = '') {
 }
 
 export function getPostDetail(posts: any) {
-  const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
+  const categoryName = config.categoryNames[posts[0]?.frontmatter?.type as keyof typeof config.categoryNames] || posts[0]?.frontmatter?.type;
   const noPost = `📂 Chưa có bài viết ${categoryName} nào`;
   const noItem = `📂 Danh sách ${categoryName} trống`;
 

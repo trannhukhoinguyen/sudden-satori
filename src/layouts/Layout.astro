@@ -81,7 +81,7 @@ const articleSchema = schemaType === 'Article' ? {
     "name": SITE_TITLE,
     "logo": {
       "@type": "ImageObject",
-      "url": new URL('/favicon.svg', SITE_URL || Astro.site).toString()
+      "url": new URL('/favicon.png' || '/favicon.ico', SITE_URL || Astro.site).toString()
     }
   },
   "mainEntityOfPage": {
@@ -100,7 +100,7 @@ const orgSchema = {
   "@type": "Organization",
   "name": "Tổ Sư Thiền",
   "url": SITE_URL || 'https://tosuthien.org',
-  "logo": new URL('/favicon.svg', SITE_URL || Astro.site).toString(),
+  "logo": new URL('/favicon.png' || '/favicon.ico', SITE_URL || Astro.site).toString(),
   "sameAs": [
     "https://www.facebook.com/tosuthien2024/",
     "https://www.youtube.com/@tosuthien_org/playlists"
