@@ -7,6 +7,9 @@ import Pagination from "../page/Pagination.astro";
 import ABCLinkedTitleList from "@/components/ui/ABCLinkedTitleList.astro"
 import { getPostDetail } from "../../utils/helper";
 
+const url = Astro.url;
+const querySrc = url.searchParams.get('src');
+
 const {
     collection,
     posts,
@@ -20,6 +23,12 @@ const { noItem } = getPostDetail(posts);
 const { categoryName } = getPostDetail(posts);
 const { postsGroupedBySpecialTag } = getPostDetail(posts);
 ---
+
+{
+  querySrc
+   ? <iframe class="pdf-frame" src={querySrc} title={title}></iframe>
+   : ''
+}
 
 {
     posts.length > 0 ? (
