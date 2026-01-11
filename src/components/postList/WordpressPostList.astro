@@ -1,0 +1,85 @@
+---
+import "@/styles/post/boxedPostList.css";
+import {config} from "@/config";
+import PostExcerpt from "../post/PostExcerpt.astro";
+import PostImage from "../post/PostImage.astro";
+import Pagination from "../page/Pagination.astro";
+import ABCLinkedTitleList from "@/components/ui/ABCLinkedTitleList.astro"
+import { getPostDetail } from "../../utils/helper";
+
+const url = Astro.url;
+const querySrc = url.searchParams.get('src');
+const {
+    collection,
+    posts,
+    titleList,
+    icons,
+    page,
+} = Astro.props;
+
+const { noPost } = getPostDetail(posts);
+const { noItem } = getPostDetail(posts);
+const { categoryName } = getPostDetail(posts);
+const { postsGroupedBySpecialTag } = getPostDetail(posts);
+---
+
+{
+  querySrc
+   ? <iframe class="pdf-frame" src={querySrc} title={title}></iframe>
+   : ''
+}
+
+{
+    posts.length > 0 ? (
+        postsGroupedBySpecialTag?.map((postGrouped: any) => {
+
+            // Page & TotalPages
+            const totalPagesBySpecialTag = Math.ceil(postGrouped?.postsGrouped?.length / config.postsPerPage);
+
+            return (<h2 class="boxed-post-list-title-medium">
+            {
+                Object.keys(icons)?.includes(postGrouped.group)
+                    ? icons[postGrouped.group]
+                    : icons['categorized']
+            }
+            {postGrouped.group}
+        </h2>
+        <div class="boxed-post-list">
+            {postGrouped.postsGrouped
+                ?.slice((page-1)*config.postsPerPage, page*config.postsPerPage)
+                ?.map((post: any) => <article class="boxed-post-card">
+                    <h4 class="boxed-post-title">
+                        <a href={`/${post.frontmatter.type}/${post.file.split("/").pop()?.replace(/\.(md|mdx)$/, "")}`}>
+                            {post.frontmatter.title}
+                        </a>
+                    </h4>
+
+                    <!-- Image Section -->
+                    <section class="image-area">
+                        <PostImage
+                            imageUrl={post.frontmatter.image ?? '/images/backgrounds/wide/brown-4.png'}
+                            imageAlt={post.frontmatter.title}
+                            width="100%"
+                        />
+                    </section>
+
+                    <div class="boxed-post-meta">
+                        <PostExcerpt frontmatter={post.frontmatter}/>
+                    </div>
+                </article>)}
+        </div>
+
+                <!-- Pagination Section -->
+        <Pagination page={page} totalPages={totalPagesBySpecialTag} category={posts[0].frontmatter.type}/>)}
+       )
+
+    ) : <p>{noPost}</p>
+}
+
+{
+  titleList?.length > 0 ? (
+
+        <ABCLinkedTitleList collection={collection} posts={posts} titleList={titleList} listTitle={`DANH SÁCH ${categoryName}`} />
+
+    ) : <p>{noItem}</p>
+}
