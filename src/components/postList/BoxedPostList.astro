@@ -9,6 +9,7 @@ import { getPostDetail } from "../../utils/helper";
 
 const url = Astro.url;
 const querySrc = url.searchParams.get('src');
+const queryTitle = url.searchParams.get('title');
 
 const {
     collection,
@@ -26,7 +27,7 @@ const { postsGroupedBySpecialTag } = getPostDetail(posts);
 
 {
   querySrc
-   ? <iframe class="pdf-frame" src={querySrc} title={title}></iframe>
+   ? <iframe class="pdf-frame" src={querySrc} title={queryTitle}></iframe>
    : ''
 }
 
