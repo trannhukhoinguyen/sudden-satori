@@ -110,7 +110,7 @@ const CnLv13MasterDb = [
     place: 'Baoning Temple (宝宁寺/寶寧寺/Bǎoníng Sì), Yuelu District of Changsha, Hunan',
     teachers: ['Yangqi Fanghui'],
     successors: [''],
-    disciples: ['Thọ Thánh Trí Uyên (壽聖智淵)', 'Thọ Thánh Sở Văn (壽聖楚文)', 'Bảo Tích Tông Ánh (寶積宗映)', 'Cảnh Phước Nhật Dư (景福日余)'],
+    disciples: ['Thọ Thánh Trí Uyên (壽聖智淵)', 'Thọ Thánh Sở Văn (壽聖楚文)', 'Bảo Tích Tông Ánh (寶積宗映)', 'Cảnh Phúc Nhật Dư (景福日余)'],
     image: '/images/avatar.png',
     reference: ['https://pl.wikipedia.org/wiki/Bao%E2%80%99eng_Renyong',],
   },

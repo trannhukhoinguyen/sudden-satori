@@ -1,10 +1,9 @@
-
-
 import ViMasterDb from "@/data/masters/ViMasterDb.tsx";
 import InMasterDb from "@/data/masters/InMasterDb.tsx";
 import JpMasterDb from "@/data/masters/JpMasterDb.tsx";
 import KoMasterDb from "@/data/masters/KoMasterDb.tsx";
 
+import CnOutsideMasterDb from "@/data/masters/CnOutsideMasterDb.tsx";
 import CnLv0MasterDb from "@/data/masters/CnLv0MasterDb.tsx";
 import CnLv1MasterDb from "@/data/masters/CnLv1MasterDb.tsx";
 import CnLv2MasterDb from "@/data/masters/CnLv2MasterDb.tsx";
@@ -53,6 +52,7 @@ export const ViMasters = ViMasterDb
 export const JpMasters = JpMasterDb
 export const KoMasters = KoMasterDb
 export const CnMasters = [
+  CnOutsideMasterDb,
   CnLv0MasterDb,
   CnLv1MasterDb,
   CnLv2MasterDb,
