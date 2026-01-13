@@ -13,7 +13,7 @@ const CnLv3MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: '',
+    place: 'Kinh Nam',
     teachers: ['Cizhou Faru'],
     successors: ['Toại Châu Đạo Viên'],
     disciples: ['Toại Châu Đạo Viên'],

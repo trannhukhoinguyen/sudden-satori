@@ -305,7 +305,7 @@ Dường như Phương Biện đã hiểu ra được điều gì, Lục Tổ xo
 
 Giống như được tưới nước đề hồ lên đỉnh đầu, những cảm giác từ trước tới nay chưa từng thể nghiệm này từ trên đỉnh từ từ chảy vào ruộng tâm của Phương Biện, giống như chủng tử Bồ đề ở trong tâm của Phương Biện đang nở một đoá hoa sen mát mẽ, linh diệu. Lục Tổ Huệ Năng giải tấm y ca sa đang đắp trên mình xuống trân trọng tặng cho Phương Biện. Phương Biện đón lấy y ca sa, cảm động quá nên chẳng biết làm thế nào nữa, hai hàng nước mắt nóng hổi như dòng suối nhỏ tuôn trào vì sung sướng, biết ơn. Phương Biện đi ra khỏi phương trượng đi lên đại điện, dùng giới đao (con dao nhỏ các vị Tăng mang theo) cắt y ca sa mà Lục tổ cho thành ba phần: một phần đắp lên tượng của Ngài Huệ Năng, một phần dấu vào trong người, còn một phần dùng vỏ cây cọ, cẩn thận nghiêm túc bọc lại rồi chôn sâu xuống đất. Sau đó, anh ta chắp tay quỳ xuống chỗ đất đó ngước mặt lên trời phát nguyện: “Sau này nếu có ai đào được y ca sa này, người đó chính là tái sanh của Ta, Ta sẽ trú trì chùa Bảo Lâm này, trùng hưng chùa chiền, hoằng truyền chánh pháp”.
 
-Nhiều năm sau, vào năm thứ tám niên hiệu Gia Hộ triều đại nhà Tống, có một vị Thiền sư tên là Duy Quang, trú trì chùa Bảo Lâm . Để trùng tu đại điện, lúc đào móng làm chùa, đã đào được y Tổ truyền lại vẫn còn mới như in…
+Nhiều năm sau, vào năm thứ VIII niên hiệu Gia Hộ triều đại nhà Tống, có một vị Thiền sư tên là Duy Quang, trú trì chùa Bảo Lâm . Để trùng tu đại điện, lúc đào móng làm chùa, đã đào được y Tổ truyền lại vẫn còn mới như in…
 
 ### Liên quan đến thiền cơ: Vẽ Ma
 

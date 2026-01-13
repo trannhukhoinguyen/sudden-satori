@@ -96,7 +96,7 @@ Bài kệ ở cuối quyển hai nói VÔ THỪA và chẳng kiến lập THỪA
 
 "Ba cửa Giải Thoát" tại sao chẳng thể chứng đắc pháp Ngũ Vô Gián? Vì pháp đã Không, Vô tướng, Vô nguyện thì năng sở đều bặt, dĩ nhiên không có kẻ năng chứng để chứng cái pháp sở chứng, thì làm sao có sự chứng đắc ư?
 
-Nói về THẦN LỰC BIẾN HÓA, cũng như năm trăm vị Tỳ Kheo trong hội Linh Sơn, đã đắc bốn thứ thiền định và năm thứ thần thông, nhưng chưa đắc Vô Sanh Pháp Nhẫn, nhờ sức thần thông của Túc Mạng Trí, mỗi mỗi tự thấy quá khứ giết cha hại mẹ và tạo nhiều tội nặng khác, nên trong tâm tự hoài nghi, do đó chẳng thể chứng nhập pháp thâm sâu. Cho nên, Văn Thù bồ tát thừa oai thần Phật, bèn dùng tay cầm gươm bén bức bách Như Lai (dụ cho ác tâm làm thân Phật chảy máu, cũng là một phương tiện để độ năm trăm vị Tỳ Kheo).
+Nói về THẦN LỰC BIẾN HÓA, cũng như năm trăm vị Tỳ Kheo trong hội Linh Sơn, đã đắc bốn thứ thiền định và 5 thứ Thần thông, nhưng chưa đắc Vô Sanh Pháp Nhẫn, nhờ sức thần thông của Túc Mạng Trí, mỗi mỗi tự thấy quá khứ giết cha hại mẹ và tạo nhiều tội nặng khác, nên trong tâm tự hoài nghi, do đó chẳng thể chứng nhập pháp thâm sâu. Cho nên, Văn Thù bồ tát thừa oai thần Phật, bèn dùng tay cầm gươm bén bức bách Như Lai (dụ cho ác tâm làm thân Phật chảy máu, cũng là một phương tiện để độ năm trăm vị Tỳ Kheo).
 
 ### Khi ấy, Thế Tôn bảo Văn Thù bồ tát rằng :
 

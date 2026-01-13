@@ -1196,7 +1196,7 @@ Hương chánh pháp ấy kể năm thứ:
 - Bốn là hương giải thoát: gọi thế vì nó có thể dứt tất cả mê mờ trói buộc.
 - Năm là hương giải thoát tri kiến: gọi thế là vì lúc nào nó cũng quán chiếu sáng soi, suốt thông không ngại.
 
-Đó là năm thứ hương, gọi là hương tối thượng, thế gian không gì sánh được.
+Đó là 5 thứ hương, gọi là hương tối thượng, thế gian không gì sánh được.
 
 Khi còn tại thế, Phật khiến các đệ tử lấy lửa trí huệ đốt thứ hương báu không giá ấy để dâng cúng chư Phật mười phương. Chúng sanh ngày nay không rõ nghĩa chân thật của Như lai, đem lửa ngoài đốt gỗ trầm của thế tục, xông thứ hương vật chất lên mong phước cầu thánh, thì sao được ư?
 
@@ -1231,7 +1231,7 @@ Nói "trai" là chay, tức nói "tề" là sắp xếp vậy: sắp xếp thân
 
 Nói "trì" là giữ, tức nói "hộ" là giúp: ở nơi giới hạnh cứ theo pháp mà hộ trì, ngoài cấm sáu tình, trong ngăn ba độc, siêng năng tỉnh xét, thân tâm thanh tịnh. Có hiểu như vậy mới là chay lạt.
 
-Còn ăn cũng có năm thứ ăn:
+Còn ĂN cũng có 5 thứ ĂN:
 
 - Một là ăn thức vui của pháp - pháp hỷ thực - đó tức là y giữ chánh pháp, vui mừng vâng làm.
 

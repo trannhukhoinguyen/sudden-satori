@@ -811,7 +811,7 @@ Hãy chú ý nghe và khéo ghi nhớ, Ta sẽ vì ngươi mà thuyết.
 
 - Đại Huệ! Nói TẤT CẢ PHÁP là những pháp thiện, bất thiện, vô ký, hữu vi vô vi, thế gian, xuất thế gian, có tội, vô tội, hữu lậu vô lậu, thọ bất thọ...
 
-- Đại Huệ! Lược thuyết tâm, ý, ý thức và tập khí, là nhân của năm thứ thọ ấm, cũng là tập khí của tâm, ý, ý thức nuôi dưỡng phàm phu sanh vọng tưởng thiện và bất thiện.
+- Đại Huệ! Lược thuyết tâm, ý, ý thức và tập khí, là nhân của 5 thứ Thọ ấm, cũng là tập khí của tâm, ý, ý thức nuôi dưỡng phàm phu sanh vọng tưởng thiện và bất thiện.
 
 - Đại Huệ! Người tu Tam muội, Tam muội chánh thọ, hiện pháp lạc trụ, gọi là Thánh Hiền, thuộc về pháp thiện vô lậu.
 

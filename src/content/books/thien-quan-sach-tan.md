@@ -34,7 +34,7 @@ Tôi chọn rút những chuyện cốt yếu, xếp theo loại, biên thành t
 
 Có thể nói quyển sách này rất cần thiết đối với người chưa vượt qua khỏi cửa, nếu với kẻ vượt khỏi cửa đã xa thì đâu còn cần dùng ? Tuy nhiên, ngoài cửa này còn lớp cửa khác, chẳng qua giả mượn tiếng gà, tạm rời miệng cọp mà thôi. Được ít cho là đủ là người tăng thượng mạn. Sông chưa cùng, núi chưa tột vẫn phải gắng tiến. Chạy mau, đi mãi bao giờ vượt khỏi cái cửa đen tối sau cùng, chừng ấy sẽ chậm rãi nghỉ ngơi không muộn.
 
-> Niên hiệu Vạn Lịch năm thứ 28, đầu mùa Xuân - CHÙA VÂN THÊ - Sa môn CHÂU HOẰNG - Cẩn chí
+> Niên hiệu Vạn Lịch năm thứ XXVIII, đầu mùa Xuân - CHÙA VÂN THÊ - Sa môn CHÂU HOẰNG - Cẩn chí
 
 <hr class="blog-rule" />
 

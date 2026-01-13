@@ -1148,7 +1148,7 @@ Cứu thế phương tiện thuyết.
 
 - Đại Huệ! Chuyển cái tướng năng nhiếp, sở nhiếp của Tạng thức mà phàm phu đọa vào nhị kiến của sanh, trụ, diệt, hy vọng tất cả tánh có sanh, sanh những vọng tưởng hữu và phi hữu, chẳng phải Thánh Hiền vậy.
 
-- Lại nữa, Đại Huệ! Có năm thứ chủng tánh Vô gián. Thế nào là năm? Ấy là : Thanh Văn thừa Vô gián chủng tánh, Duyên Giác thừa Vô gián chủng tánh, Như Lai thừa Vô gián chủng tánh, Bất định chủng tánh và Các biệt chủng tánh (ngoại đạo chủng tánh).
+- Lại nữa, Đại Huệ! Có 5 thứ Chủng tánh Vô gián. Thế nào là năm? Ấy là : Thanh Văn thừa Vô gián chủng tánh, Duyên Giác thừa Vô gián chủng tánh, Như Lai thừa Vô gián chủng tánh, Bất định chủng tánh và Các biệt chủng tánh (ngoại đạo chủng tánh).
 
 - Thế nào là _THANH VĂN THỪA VÔ GIÁN CHỦNG TÁNH_? Nếu có người nghe nói đến ấm, giới, nhập, tự cộng tướng, lúc ấy lỗ chân lông toàn thân cảm thấy nhẹ nhàng yên vui và ham tu trí tướng, chẳng tu tướng duyên khởi phát ngộ, khởi tâm đoạn dứt tập khí phiền não, nhưng chẳng đoạn, chẳng độ bất tư nghì biến dịch sanh tử, chỉ độ phần đoạn sanh tử, cho là sanh tử của ta đã hết, phạm hạnh đã lập, sau này chẳng thọ sanh nữa, như thật biết tu tập nhân vô ngã, cho đến chứng đắc Niết Bàn của Thanh Văn, ấy gọi là Thanh Văn Thừa Vô Gián Chủng Tánh.
 
@@ -1166,7 +1166,7 @@ Cứu thế phương tiện thuyết.
 
 - Đại Huệ! _CÁC BIỆT VÔ GIÁN_ là: Những chúng sanh còn chấp thật kiến giác như ngã, nhơn, chúng sanh, thọ mạng, tăng trưởng thiện căn, sĩ phu v.v... mà cầu chứng Niết Bàn. Lại nghe lời thuyết pháp của ngoại đạo, cho tất cả tánh đều có kẻ tác, nói đó là Niết Bàn, cho như thế là giác ngộ, đối với pháp Vô Ngã chẳng có phần, nên họ không thể giải thoát. Ấy là những người tu Thanh Văn thừa mà thuộc về ngoại đạo Vô Gián chủng tánh, chẳng xuất luân hồi mà cho là xuất, ấy gọi là Các Biệt Vô Gián Chủng Tánh.
 
-- Đại Huệ! Người sơ **Trị Địa** [^5] nói kiến lập chủng tánh là vì muốn siêu nhập Vô Sở Hữu Địa, nên có sự kiến lập này. Người tự tu tự giác, phải dứt sạch tập khí phiền não, thấy pháp Vô Ngã, từ đắc Tam muội của Thanh Văn, cho đến năm thứ chủng tánh kia, cuối cùng đều sẽ chứng đắc Pháp Thân Tối Thắng của Như Lai.
+- Đại Huệ! Người sơ **Trị Địa** [^5] nói kiến lập chủng tánh là vì muốn siêu nhập Vô Sở Hữu Địa, nên có sự kiến lập này. Người tự tu tự giác, phải dứt sạch tập khí phiền não, thấy pháp Vô Ngã, từ đắc Tam muội của Thanh Văn, cho đến 5 thứ Chủng tánh kia, cuối cùng đều sẽ chứng đắc Pháp Thân Tối Thắng của Như Lai.
 
 ### Khi ấy, Thế Tôn muốn lặp lại nghĩa này mà thuyết kệ rằng:
 

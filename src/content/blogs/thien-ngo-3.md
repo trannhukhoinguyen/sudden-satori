@@ -150,7 +150,15 @@ Vào một năm nọ, lúc hai vị đang trên đường vân du đến Lô Sơ
 
 Bồ tát Địa Tạng Vương bảo: “Ta không xuống địa ngục, ai xuống địa ngục?”, chính là bản thâộtàn tâm toàn ý làm lạc thảo.
 
-Thiền sư Trí Thường trú trong chùa Quy Tông rất nổi tiếng. Chùa Quy Tông là chùa xưa nhất ở Lô Sơn, nằm gần suối Ngọc Liêm dưới chân núi Kim Luân phía Nam Lô Sơn. Nó vốn là biệt thự của Vương Hữu Quân - Vương Hy Chi nhà thư pháp vĩ đại nhất trong lịch sử Trung Quốc. Năm thứ sáu niên hiệu Hàm Khang đời Đông Tấn (340 Tây lịch). Vương Hy Chi, một tín đồ thuần thành của Phật giáo, mở rộng xây dựng thành một ngôi chùa. Cung thỉnh Ngài Phật Đà Da Xá là một nhà phiên dịch kinh điển Phật giáo rất nổi tiếng một Cao tăng Ấn Độ, vào trú trì. Trong thời nhà Tống, em của Tô Đông Pha - Tô Triệt - cũng tôn sùng Thiền tông như Tô Đông Pha, từng có bài thi phú:
+Thiền sư Trí Thường trú trong chùa Quy Tông rất nổi tiếng. Chùa Quy Tông là chùa xưa nhất ở Lô Sơn, nằm gần suối Ngọc Liêm dưới chân núi Kim Luân phía Nam Lô Sơn. 
+
+Nó vốn là biệt thự của Vương Hữu Quân - Vương Hy Chi nhà thư pháp vĩ đại nhất trong lịch sử Trung Quốc. 
+
+Năm thứ VI niên hiệu Hàm Khang đời Đông Tấn (340 Tây lịch). Vương Hy Chi, một tín đồ thuần thành của Phật giáo, mở rộng xây dựng thành một ngôi chùa. 
+
+Cung thỉnh Ngài Phật Đà Da Xá là một nhà phiên dịch kinh điển Phật giáo rất nổi tiếng một Cao tăng Ấn Độ, vào trú trì. 
+
+Trong thời nhà Tống, em của Tô Đông Pha - Tô Triệt - cũng tôn sùng Thiền tông như Tô Đông Pha, từng có bài thi phú:
 
 Đến nghe Quy Tông chuông sớm hôm,
 
@@ -346,7 +354,7 @@ Lúc này Ngài Quy Tông mới gật gật đầu nói: “Chỉ có bổn ph�
 
 Tạo nên cảnh lao động trét tường, động tác đưa bùn kịp thời, chuẩn xác như vậy cũng chính là sự lý giải đối với thiền chính xác nhất và cũng nói lên rằng Bạch Cư Dị đã khế nhập nhất hành tam muội trong sinh hoạt hằng ngày, chứng đạt sâu sắc tinh tuý của Phật pháp.
 
-Dưới chân núi phía Tây Bắc Lô Sơn còn có một ngôi chùa rất hiển hách, nổi tiếng - chùa Đông Lâm. Chùa này do một vị cao tăng trứ danh của Trung Quốc là Đại sư Trí Viễn xây dựng vào năm thứ sáu niên hiệu Thái Nguyên đời Đông Tấn (381 Tây lịch). Tại đây, Đại sư Trí Viễn đã sáng lập ra Liên Xã (Bạch Liên Xã), tuyên dương chỉ dạy pháp môn Di Đà Tịnh Độ, làm cho chùa trở thành một trong tám tông phái lớn của Phật giáo Trung Quốc - là nơi phát nguồn của tông Tịnh Độ. Cũng chính ở đây, danh sĩ Đào Uyên Minh và Đại sư Huệ Viễn đã kết thành bạn bè thâm hậu và để lại một điển cố “Hổ Khê Tam Tiếu” rất nổi tiếng, dí dỏm, hứng thú, cao nhã, truyền tụng cho đến ngày nay.
+Dưới chân núi phía Tây Bắc Lô Sơn còn có một ngôi chùa rất hiển hách, nổi tiếng - chùa Đông Lâm. Chùa này do một vị cao tăng trứ danh của Trung Quốc là Đại sư Trí Viễn xây dựng vào năm thứ VI niên hiệu Thái Nguyên đời Đông Tấn (381 Tây lịch). Tại đây, Đại sư Trí Viễn đã sáng lập ra Liên Xã (Bạch Liên Xã), tuyên dương chỉ dạy pháp môn Di Đà Tịnh Độ, làm cho chùa trở thành một trong tám tông phái lớn của Phật giáo Trung Quốc - là nơi phát nguồn của tông Tịnh Độ. Cũng chính ở đây, danh sĩ Đào Uyên Minh và Đại sư Huệ Viễn đã kết thành bạn bè thâm hậu và để lại một điển cố “Hổ Khê Tam Tiếu” rất nổi tiếng, dí dỏm, hứng thú, cao nhã, truyền tụng cho đến ngày nay.
 
 Lúc Thiền sư Trí Thường trú trì chùa Quy Tông, chùa Đông Lâm là một chùa giảng kinh - lấy việc tuyên dương diễn giảng kinh luận làm tông chỉ. Vị toạ chủ chùa này đã từng bị Thiền sư Quy Tông dùng thiền cơ sắc bén mạnh mẽ chèn ép đến nỗi chán chường thê thảm. Ngày hôm đó, lại có một vị Pháp sư rất có trình độ về kinh giáo đến tìm, thị giả nói: “Sư phụ con không có trong chùa, Ngài đang cuốc đất ngoài đồng”.
 
@@ -422,17 +430,33 @@ Vạn kiếp nghi tình dứt”.
 
 Điển hình nhất là cư sĩ Thái Bảo Lưu Bỉnh Trung một trọng thần thuộc Nguyên Triều Khai Quốc.
 
-Lưu Bỉnh Trung (1216 - 1274 Tây lịch) là người ở Hình Châu (nay là Hình Đài tỉnh Hà Bắc) tự là Trọng Hối, nguyên tên là Lưu Khản. Năm ông mười bảy tuổi, làm Tiết độ Sứ phủ lệnh sử Hình Đài, lấy tiền lương phụng dưỡng cha mẹ. Sau đó, ông ném bút từ chức mà đi, ông theo Thiền sư Thiên Ninh Chiếu xuất gia làm Tăng, pháp hiệu là Tử Thông. Nhờ có nhiều huệ căn từ kiếp trước, Tử Thông nhanh chóng khám phá ra bản lai diện mục, hiển bày đại trí huệ vốn có, làm một Hoà thượng Ký thất (thư ký).
+Lưu Bỉnh Trung (1216 - 1274 Tây lịch) là người ở Hình Châu (nay là Hình Đài tỉnh Hà Bắc) tự là Trọng Hối, nguyên tên là Lưu Khản. 
 
-Lúc đó, Tống - Kim giằng co nhau, chiến tranh loạn lạc nhiều năm, máu nhuộm đỏ đất, nước sôi lửa bỏng, dân không thể sống được. Tử Thông, với trí tuệ siêu việt của một thiền giả dự đoán rằng người có thể nhanh chóng kết thúc chiến tranh, thống nhất đất nước chính là Mông Cổ quật cường, mạnh mẽ, không biết sợ ở phương Bắc; Mà trong số nhiều thân vương của Mông Cổ, mà người hùng tài đại lược, có hoài bão lớn lao chính là Hốt Tất Liệt. Thế là, Thiền sư Tử thông cầm gậy mang bát, xuất hiện trong quân trường của Hốt Tất Liệt.
+Năm ông 17 tuổi, làm Tiết độ Sứ phủ lệnh sử Hình Đài, lấy tiền lương phụng dưỡng cha mẹ. Sau đó, ông ném bút từ chức mà đi, ông theo Thiền sư Thiên Ninh Chiếu xuất gia làm Tăng, pháp hiệu là Tử Thông. 
 
-Vài ba câu của Ngài đã làm cho một trong những vị Đế vương vĩ đại nhất trong lịch sử Trung Quốc, năm vóc sát đất nghe lời theo kế. Từ đó về sau, tất cả những kế hoạch cơ mật của Hốt Tất Liệt, ngay cả đăng lâm ngôi vị, thống nhất thiên hạ, phần lớn đều xuất phát từ sự tính toán mưu lược của vị Thiền sư này.
+hờ có nhiều huệ căn từ kiếp trước, Tử Thông nhanh chóng khám phá ra bản lai diện mục, hiển bày đại trí huệ vốn có, làm một Hoà thượng Ký thất (thư ký).
 
-Sau khi Hốt Tất Liệt (Thế Tổ) lên ngôi, Ngài lập tức thúc giục triều đình lập ra Tuyên phủ ty, chuyên an ủi bá tánh dị tộc trong thiên hạ, cho họ an cư lạc nghiệp. Đại quân Mông Cổ thẳng tiến vào Giang Nam, với sự can dự mạnh mẽ của Ngài, Hốt Tất Liệt đã sửa đổi thói xấu giết dân trong thành sau khi chiếm đóng, lấy việc không giết hại làm công đức. Phàm đánh thành bắt địch, đều giữ lại mạng sống không tính toán nhiều.
+Lúc đó, Tống - Kim giằng co nhau, chiến tranh loạn lạc nhiều năm, máu nhuộm đỏ đất, nước sôi lửa bỏng, dân không thể sống được. 
 
-Thậm chí, hiện nay người Bắc Kinh đều cảm kích vị Thiền sư này, bởi vì lấy thành Bắc Kinh làm đại đô đầu tiên, cũng nhờ sự quy hoạch và đốc thúc của Ngài mà xây dựng nên. Đến năm thứ tám niên hiệu Nguyên (1271 Tây lịch), Ngài chế định ra triều nghi quan chế hoàn toàn mới mẽ, tấu thỉnh Hốt Tất Liệt chính thức xây dựng quốc hiệu là “Đại Nguyên” - Từ chế độ đến tên gọi là triều đại Nguyên đều do Ngài mà có.
+Tử Thông, với trí tuệ siêu việt của một thiền giả dự đoán rằng người có thể nhanh chóng kết thúc chiến tranh, thống nhất đất nước chính là Mông Cổ quật cường, mạnh mẽ, không biết sợ ở phương Bắc; 
 
-Đến tháng tám năm thứ hai niên hiệu Nguyên, vị đại thần địa vị cao tột này vẫn là một Thiền sư mặc áo Tăng, ăn chay, ở giản dị, đã viết ra bài kệ rằng:
+Mà trong số nhiều thân vương của Mông Cổ, mà người hùng tài đại lược, có hoài bão lớn lao chính là Hốt Tất Liệt. Thế là, Thiền sư Tử thông cầm gậy mang bát, xuất hiện trong quân trường của Hốt Tất Liệt.
+
+Vài ba câu của Ngài đã làm cho một trong những vị Đế vương vĩ đại nhất trong lịch sử Trung Quốc, năm vóc sát đất nghe lời theo kế. 
+
+Từ đó về sau, tất cả những kế hoạch cơ mật của Hốt Tất Liệt, ngay cả đăng lâm ngôi vị, thống nhất thiên hạ, phần lớn đều xuất phát từ sự tính toán mưu lược của vị Thiền sư này.
+
+Sau khi Hốt Tất Liệt (Thế Tổ) lên ngôi, Ngài lập tức thúc giục triều đình lập ra Tuyên phủ ty, chuyên an ủi bá tánh dị tộc trong thiên hạ, cho họ an cư lạc nghiệp. 
+
+Đại quân Mông Cổ thẳng tiến vào Giang Nam, với sự can dự mạnh mẽ của Ngài, Hốt Tất Liệt đã sửa đổi thói xấu giết dân trong thành sau khi chiếm đóng, lấy việc không giết hại làm công đức. 
+
+Phàm đánh thành bắt địch, đều giữ lại mạng sống không tính toán nhiều.
+
+Thậm chí, hiện nay người Bắc Kinh đều cảm kích vị Thiền sư này, bởi vì lấy thành Bắc Kinh làm đại đô đầu tiên, cũng nhờ sự quy hoạch và đốc thúc của Ngài mà xây dựng nên. 
+
+Đến năm thứ VIII niên hiệu Nguyên (1271 Tây lịch), Ngài chế định ra triều nghi quan chế hoàn toàn mới mẽ, tấu thỉnh Hốt Tất Liệt chính thức xây dựng quốc hiệu là “Đại Nguyên” - Từ chế độ đến tên gọi là triều đại Nguyên đều do Ngài mà có.
+
+Đến tháng tám năm thứ II niên hiệu Nguyên, vị đại thần địa vị cao tột này vẫn là một Thiền sư mặc áo Tăng, ăn chay, ở giản dị, đã viết ra bài kệ rằng:
 
 “Ta không phụ đời, đời há phụ Ta,
 
@@ -440,7 +464,9 @@ Ta ở trong đời, như trăng trong nước,
 
 Như hoa trên trời, hoa rụng trăng lặn, là cái gì? Đốt!”
 
-Vị Thiền giả vì muốn dẹp bằng chiến loạn, thống nhất giang san mà không tiếc làm một thảo khấu, lấy giết để ngăn việc giết, lấy chiến tranh để dừng chiến tranh. Sau khi cứu độ được vô số tính mạng, kiến lập công huân bất hũ, xây dựng hoà bình, cuối cùng cũng có thể an trú Niết bàn. Ngài ném bút lông, kiết già phu toạ, an nhiên mà đi.
+Vị Thiền giả vì muốn dẹp bằng chiến loạn, thống nhất giang san mà không tiếc làm một thảo khấu, lấy giết để ngăn việc giết, lấy chiến tranh để dừng chiến tranh. 
+
+Sau khi cứu độ được vô số tính mạng, kiến lập công huân bất hũ, xây dựng hoà bình, cuối cùng cũng có thể an trú Niết bàn. Ngài ném bút lông, kiết già phu toạ, an nhiên mà đi.
 
 ### TẮC 11: VỪA QUAY ĐẦU NHÌN LINH QUANG CHỢT HIỆN
 

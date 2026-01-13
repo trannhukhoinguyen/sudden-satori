@@ -24,10 +24,10 @@ Thầy trụ trì qua các ngôi chùa nổi tiếng như: Linh Nham, Thụy Nha
 Người học tin tưởng hướng về, tông phong chấn hưng mạnh mẽ. 
 
 Sau đó Thầy lui về ở nơi Tùng Nham. 
-Năm thứ 7 niên hiệu Hồng Vũ (1374), Thầy lấy cớ già bệnh từ chối lời mời sang nước Nhật, rồi đến ở chùa Thiên Giới. 
+Năm thứ VII niên hiệu Hồng Vũ (1374), Thầy lấy cớ già bệnh từ chối lời mời sang nước Nhật, rồi đến ở chùa Thiên Giới. 
 Tống Cảnh Liêm là vị quan ở viện Hàn lâm có hiệu là cư sĩ Vô Tướng, do mến mộ đạo đức của Thầy, nên thường đến thăm hỏi bàn Thiền. 
 
-Năm thứ 17 niên hiệu Hồng Vũ, đệ tử của Thầy là Cư Đảnh đón Thầy về Thúy Sơn để phụng dưỡng. 
+Năm thứ XVII niên hiệu Hồng Vũ, đệ tử của Thầy là Cư Đảnh đón Thầy về Thúy Sơn để phụng dưỡng. 
 2 năm sau Thầy thị tịch.
 
 Quyển Sơn Am Tạp Lục được soạn thành vào những năm cuối đời, khi Thầy cất am tranh ẩn cư trên núi Thái Bạch. 

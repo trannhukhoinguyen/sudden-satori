@@ -187,7 +187,7 @@ Mân Soái hỏi dồn: “Không biết ý chỉ của Đại sư như thế n�
 
 Thiền sư Trường Khánh Huệ Lăng im lặng khá lâu, nhưng mà sự im lặng ấy như tiếng sét kinh thiên động địa, lúc này, vô thanh hơn có thanh. Đại soái rỗng rang tỉnh ngộ, cảm kích nói: “Thật là không thể nghĩ bàn được? Phật pháp của Đại sư vô cùng sâu xa!”
 
-Tháng 5 năm thứ ba niên hiệu Trường Hưng đời Hậu Đường (932 Tây lịch), Thiền sư Trường Khánh Huệ Lăng an nhiên quy tịch, hưởng thọ 79 tuổi.
+Tháng 5 năm thứ III niên hiệu Trường Hưng đời Hậu Đường (932 Tây lịch), Thiền sư Trường Khánh Huệ Lăng an nhiên quy tịch, hưởng thọ 79 tuổi.
 
 ### Liên quan đến thiền cơ: Mài Dao Không Bỏ Công Chặt Củi.
 
@@ -325,7 +325,7 @@ Tâm có sự sắc sảo của nó, một mảy may cũng có thể ngộ đạ
 
 Thiền sư Trường Sanh Kiểu Nhiên vội nói: “Câu vừa rồi là do ngẫu nhiên thôi.”
 
-Năm thứ tư niên hiệu Trinh Minh đời Hậu Lương (918 Tây lịch), thứ sử Vương Công ở Đàm Châu sáng lập ra thiền uyển Phúc Kiến, nghênh đón Thiền sư Tùng Triển đến trú trì. Hôm đăng đàn thuyết pháp trong buổi đầu tiên nhậm chức ấy, Vương Công quỳ lễ thỉnh ba lần, tự thân dìu đỡ Thiền sư Tùng Triển mới thăng tòa.
+Năm thứ IV niên hiệu Trinh Minh đời Hậu Lương (918 Tây lịch), thứ sử Vương Công ở Đàm Châu sáng lập ra thiền uyển Phúc Kiến, nghênh đón Thiền sư Tùng Triển đến trú trì. Hôm đăng đàn thuyết pháp trong buổi đầu tiên nhậm chức ấy, Vương Công quỳ lễ thỉnh ba lần, tự thân dìu đỡ Thiền sư Tùng Triển mới thăng tòa.
 
 Từ đó, ngài luôn hoằng pháp lợi sanh ở thiền viện Bảo Phúc, nên mọi người xưng là “Bảo Phúc”.
 
@@ -531,7 +531,14 @@ Tuyết Phong không đáp mà hỏi lại: “Người trì kinh có thể gán
 
 Trường Sanh Kiểu Nhiên không nói lời nào, ôm sư phụ Tuyết Phong đến đặt trên giường thiền - gánh vác Như Lai một cách chân chánh - chúng sanh giác ngộ tức là Phật, Đại sư Tuyết Phong cũng chính là Như Lai.
 
-Chốn tòng lâm của Thiền tông, làm việc tức là tu thiền. Do vậy, ngày hôm sau, mọi người đều phổ thỉnh như thường lệ. Sở dĩ, Thiền tông tập trung lao động thì gọi là ‘phổ thỉnh’, nghĩa là: trên dưới quân bình sức lực, không có ngoại lệ, đều phải tham gia. Do đó, Đại sư Tuyết Phong mặc dầu là bậc đạo sư hướng dẫn 1500 người, rất được mọi người quý trọng, cũng theo lẽ thường tham gia ‘phổ thỉnh’. Ngài vác một bó củi, đi được nữa đường thì gặp một người đệ tử, liền vứt bó củi xuống. Người đệ tử đang lom khom nhặt bó củi lên, Tuyết Phong lạnh lùng đá anh ta một cái, anh ta ngã sấp trên đường. Về đến phương trượng, Tuyết Phong nói với Kiểu Nhiên: “Hôm nay ta đá ngã vị Tăng này, thật vui quá!”
+Chốn tòng lâm của Thiền tông, làm việc tức là tu thiền. Do vậy, ngày hôm sau, mọi người đều phổ thỉnh như thường lệ. 
+
+Sở dĩ, Thiền tông tập trung lao động thì gọi là ‘phổ thỉnh’, nghĩa là: trên dưới quân bình sức lực, không có ngoại lệ, đều phải tham gia. 
+Do đó, Đại sư Tuyết Phong mặc dầu là bậc đạo sư hướng dẫn 1500 người, rất được mọi người quý trọng, cũng theo lẽ thường tham gia ‘phổ thỉnh’. 
+
+Ngài vác một bó củi, đi được nữa đường thì gặp một người đệ tử, liền vứt bó củi xuống. Người đệ tử đang lom khom nhặt bó củi lên, Tuyết Phong lạnh lùng đá anh ta một cái, anh ta ngã sấp trên đường. 
+
+Về đến phương trượng, Tuyết Phong nói với Kiểu Nhiên: “Hôm nay ta đá ngã vị Tăng này, thật vui quá!”
 
 Trường Sanh Kiểu Nhiên nói: “Đại hoà thượng, ngài nên vào Niết Bàn đường thay anh ta mới được”.
 
@@ -569,7 +576,9 @@ Thiền sư Trường Sanh Kiểu Nhiên nói: “Văn tự viết ở trên gi�
 
 Thống soái đất Phúc Kiến bị sự chứng ngộ sâu rộng của Trường Sanh Kiểu Nhiên thuyết phục, nên xưng ngài là “thiền chủ Đại sư”.
 
-Nhà thơ tăng sĩ Kiểu Nhiên (khoảng 720 - 793 Tây lịch), so với Trường Sanh Kiểu Nhiên thì sớm hơn 100 năm. Ngài gốc ở Hội Khể tỉnh Chiết Giang (nay là Thiệu Hưng), có một thuyết nói là quê ở Hồ Châu (nay là huyện Trường Hưng, Chiết Giang), dòng họ Tạ, tự Thanh Trú, là cháu đời thứ 10 của Tạ Linh Vận, thi nhân nổi tiếng thời Nam Triều. Người này xuất thân là một công tử danh môn vọng tộc, vào năm thứ nhất niên hiệu Thiên Bảo ông thi tiến sĩ nhưng không đỗ, hạ quyết tâm trốn vào chùa làm một thiền tăng vân du mây nước. Tu tập thiền đã làm rạng rỡ ánh sáng tự tánh của ông, sự chứng ngộ của thiền, càng khiến ông ở trên nền móng căn bản thể chứng chân đế của nhân sinh vũ trụ. Cho nên ông mới có thể thoải mái phóng bút, hứng thú linh hoạt, thầy xưa mà không lún bùn xưa, hợp với pháp mà không hạn chế nơi pháp, từ đó sáng tạo ra dòng thi ca “Thanh Cảnh” ảnh hưởng đến văn đàn thi ca cả hàng ngàn năm nay.
+Nhà thơ tăng sĩ Kiểu Nhiên (khoảng 720 - 793 Tây lịch), so với Trường Sanh Kiểu Nhiên thì sớm hơn 100 năm. Ngài gốc ở Hội Khể tỉnh Chiết Giang (nay là Thiệu Hưng), có một thuyết nói là quê ở Hồ Châu (nay là huyện Trường Hưng, Chiết Giang), dòng họ Tạ, tự Thanh Trú, là cháu đời thứ 10 của Tạ Linh Vận, thi nhân nổi tiếng thời Nam Triều. 
+
+Người này xuất thân là một công tử danh môn vọng tộc, vào năm thứ I niên hiệu Thiên Bảo ông thi tiến sĩ nhưng không đỗ, hạ quyết tâm trốn vào chùa làm một thiền tăng vân du mây nước. Tu tập thiền đã làm rạng rỡ ánh sáng tự tánh của ông, sự chứng ngộ của thiền, càng khiến ông ở trên nền móng căn bản thể chứng chân đế của nhân sinh vũ trụ. Cho nên ông mới có thể thoải mái phóng bút, hứng thú linh hoạt, thầy xưa mà không lún bùn xưa, hợp với pháp mà không hạn chế nơi pháp, từ đó sáng tạo ra dòng thi ca “Thanh Cảnh” ảnh hưởng đến văn đàn thi ca cả hàng ngàn năm nay.
 
 Sau niên hiệu Chí Đức đời nhà Đường, Kiểu Nhiên cư trú lâu dài ở chùa Diệu Hỷ núi Trữ ở Ngô Hưng (nay là ranh giới giữa Tây Bắc tỉnh Chiết Giang và Nghi Hưng tỉnh Giang Tô), cùng với nhà thơ tăng sĩ Lĩnh Triệt, nhà đại thư pháp Nhan Chân Khanh, nhà đại văn học Vĩ Ưng Vật…xướng hoạ qua lại, kết thành bạn bè thi ca. Vì vậy, thiền sư Kiểu Nhiên để lại cho lịch sử, không chỉ là công án và ngữ lục truyền thống mà còn có 10 quyển thơ ý vị: “Trữ Sơn Tập” (cũng gọi là Kiểu Nhiên Tập), mang phong cách độc đáo, phong vận đặc biệt của ngài. Bình luận thơ của ngài có địa vị nổi bật trong lịch sử phê bình văn học của Trung Quốc đó là “hình thức thơ”, “nghị luận thơ”, “bình thơ”; trước đời Đường, nó là một trước tác có ảnh hưởng sâu rộng nhất trong lịch sử bình luận thơ.
 

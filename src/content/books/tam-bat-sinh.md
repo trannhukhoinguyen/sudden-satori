@@ -35,7 +35,7 @@ Không cần gì phải kiếm cho được cái tâm Phật, vì nó vẫn luô
 Việc ấy rất dễ nếu họ biết cách, và thiền sư cốt ở đấy để chỉ cho họ.
 Đấy là thông điệp mà Bankei mang lại cho chúng ta.
 
-Khi mở kỳ kiết thất lớn tại Long môn vào mùa đông năm thứ ba Genroku (1690), có 1.683 tu sĩ ghi danh trong sổ danh bạ, thiền sư Bankei bước lên pháp tòa và bảo đại chúng tăng tục:
+Khi mở kỳ kiết thất lớn tại Long môn vào mùa đông năm thứ III Genroku (1690), có 1.683 tu sĩ ghi danh trong sổ danh bạ, thiền sư Bankei bước lên pháp tòa và bảo đại chúng tăng tục:
 
 <blockquote> 
 

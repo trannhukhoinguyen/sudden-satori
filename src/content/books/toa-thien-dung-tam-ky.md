@@ -30,7 +30,7 @@ Từ đây về sau, Sư chuyên cần hóa đạo, khai sáng chùa Thành Mãn
 
 Hai năm sau, Sư vâng lệnh Vua tổ chức đạo tràng xuất thế cho tông Tào Động, được Vua ban thưởng tử y. Sư truyền pháp tịch cho môn đệ là Nga Sơn Thiệu Thạc, rồi lui về chùa Vĩnh Quang.
 
-Niên hiệu Chánh Trung năm thứ hai vào tháng 8, Sư có chút bệnh. Ngày 15, Sư sai Thị giả tập họp đồ chúng để dặn bảo. Dặn bảo xong, Sư cầm viết biên bài kệ rồi ngồi kiết-già thị tịch. Kệ rằng:
+Niên hiệu Chánh Trung năm thứ II vào tháng 8, Sư có chút bệnh. Ngày 15, Sư sai Thị giả tập họp đồ chúng để dặn bảo. Dặn bảo xong, Sư cầm viết biên bài kệ rồi ngồi kiết-già thị tịch. Kệ rằng:
 
 > Tự canh tự chủng nhàn điền địa,
 Kỷ độ mại lai, mãi khứ tân,

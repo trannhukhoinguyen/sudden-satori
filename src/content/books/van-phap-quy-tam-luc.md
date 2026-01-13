@@ -52,7 +52,7 @@ Mười điều danh tướng gồm có: một là cảnh tỉnh kẻ thế tụ
 
 Tôi thừa hưởng căn lành rất ít, chợt thấy được một góc chỗ chí đạo, cho nên trình bày cái thấy hẹp hòi của tôi. Xin các bậc cao minh phủ chính cho, thật tôi chẳng phải ức kiến mà chỉ thuận theo Phật thừa. Nếu như có người học đời sau, xem quyển lục này có sai, tôi xin tha thiết sám hối những lỗi lầm về pháp của tôi. Nếu hợp với thành tâm, trên y lời dạy mà vâng làm, ngày kia sẽ đồng đến hội Long Hoa thọ ký thành Phật có phần.
 
-- Ngày Phật thành đạo, tháng 12, đời vua _Khang Hi năm thứ 15_, nhà _Đại Thanh (T.L 1676)_
+- Ngày Phật thành đạo, tháng 12, đời vua _Khang Hi năm thứ XV_, nhà _Đại Thanh (T.L 1676)_
 
 - Thiền Sư _Tổ Nguyên Siêu Minh_
 
@@ -286,33 +286,57 @@ DỊCH:
 
 Phật giáo thượng thừa, kiến tánh vô vi, trạm như thái hư, thể đống pháp giới, chẳng phải âm dương, chẳng ra vào, dẫn nó không trước, dắt nó không sau, đưa nó không lên, đè nó không xuống từ xưa nó thường sáng, đến nay nó chẳng mê. Tuy không hình tướng mà hay khởi báo thân, hoá thân. Không những chỉ hiện một thân mà có thể hiện trăm ngàn ức thân. Độ thoát chúng sanh như hằng sa, thành tựu muôn đức trang nghiêm. Kẻ căn cơ thiển bạc ôm khối nghi ngờ nào thể tín thọ?
 
-❓ Đạo tôi có nói rằng tu tánh chẳng tu mạng, muôn kiếp âm linh khó nhập thánh.
+❓❓❓ Đạo tôi có nói rằng tu tánh chẳng tu mạng, muôn kiếp âm linh khó nhập thánh.
 
-Sư đáp: Lý của mạng học, đại khái có sai khác, nếu chẳng tham cứu cho sâu, sợ e làm lầm người hậu học. Sơn Tăng chẳng tiếc lời cùng ông bàn luận chỗ vi tể của nó:
+📣📣📣 Sư đáp: 
+
+Lý của mạng học, đại khái có sai khác, nếu chẳng tham cứu cho sâu, sợ e làm lầm người hậu học. 
+Sơn Tăng chẳng tiếc lời cùng ông bàn luận chỗ vi tể của nó:
 
 Hai chữ tu mạng có Lý mạng và Khí mạng. Lý mạng có hai nghĩa, khí mạng cũng có hai loại. Tôi trước nói rõ về khí mạng, sau trở lại bàn về lý mạng.
 
 Khí mạng loại một là “Cổ bổn khai quan” (giữa chặt gốc mở cửa quan), thường nghiêng về tịnh toạ, phản chiếu lại huyệt khí hải, giữ cho chơn ý chẳng tán, trong lặng chẳng chấp trước, lâu ngày chầy tháng, tinh đầy khí tròn, nội thân như lửa, mau mau kích động, điều hòa cho quân bình hơi thở nơi mũi, mau đề lên cốc đạo, nên dùng ý dẫn nó, gọi là hái thuốc (thái dược). Tiên nói: “Khi can quí sanh phải mau hái, mong xa thường chẳng nổi” (Quí sanh tu cấp thái, vọng viễn bất kham thường). Chỉ khoảng một thoáng, tinh khí xoay trở lên, từ trong vĩ lư có tiếng lụp bụp, ở giữa qua giáp cốt, thẳng thấu ngọc chẩm, ra sức vận lên xông đến đảnh môn, khí kia cuộn xuống, dùng mũi dẫn nó, tự nhiên biến thành cam lộ, mùi vị thơm ngọt, nuốt xuống trùng lâu, rơi vào huỳnh phòng. Đấy gọi là “trữu hậu phi kim tinh”, lại còn gọi là “bế nhâm khai đốc mạch” (đóng mạch nhâm khai mạch đốc). Từ đây khí nơi đơn điền ấm, thần khí chan hoà, da thịt tươi nhuận, tứ chi sảng khoái, mặt tươi trở lại như trẻ thơ, tuổi thọ dài lâu.
 
-Lấy đây mà xét, thuật kéo dài sanh mạng này dù cho sống lâu ngàn tuổi, rốt lại rồi cũng tan nát. Chẳng ngộ được tâm tánh trở lại đoạ vào các cõi. Nếu bảo thuật này có thể thành Thánh là mê hoặc người sau, thật là lời dối gạt to tát.
+Lấy đây mà xét, thuật kéo dài sanh mạng này dù cho sống lâu ngàn tuổi, rốt lại rồi cũng tan nát. Chẳng ngộ được tâm tánh trở lại đoạ vào các cõi. 
+Nếu bảo thuật này có thể thành Thánh là mê hoặc người sau, thật là lời dối gạt to tát.
 
 Khí mạng loại hai là “ngưng khí qui căn”. Người ở bụng mẹ theo sự hô hấp cửa mẹ cho đến lúc sanh ra, cắt đứt cuống rún, một điểm khí phàm nương ở đơn điền, giống như một bộ rùa, phun nuốt ngươn khí, một ngày đêm thở tới lui mười ba ngàn năm trăm hơi thở, đều từ miệng mũi tuôn ra ngoài, không thể về gốc mà qui về khí huyệt, nên tuổi thọ chẳng dài, sắc thân chẳng vững chắc. Phải ở chỗ đi đứng, ngồi nằm chiếu soi trở lại và thường nạp vào khí hải. Khí hải trụ thì hình sanh, thần ngưng thì khí trụ. Thần khí kết thành gọi là dương thần. Lâu ngày xuất hình, rong chơi khắp thiên hạ, tuỳ công phu sâu cạn mà ngôi vị chẳng đồng. Quả báo hết trở lại thế gian làm người, nếu tạo nghiệp ác sẽ đoạ tam đồ. Dối nói đạo này liễu thoát luôn hồi, chẳng tu đạo này khó vào thánh vị, chưa khỏi người chí chê cười.
 
-❓ Hai môn học về khí mạng Ngài phân biệt quá rõ ràng. Lý mạng có hai nghĩa xin ngài chỉ rõ luôn.
+❓❓❓ Hai môn học về khí mạng Ngài phân biệt quá rõ ràng. Lý mạng có hai nghĩa xin ngài chỉ rõ luôn.
 
-📣📣📣 Lý mạng có hai nghĩa là tại triền và xuất triền. Tại triền thì lấy tình làm mạng. Xuất triền khởi động là tán mạng, dứt tình là tu mạng. Xuất triền hợp với hư là chí mạng, lại gọi là phục mạng. Nhà Nho gọi là Phục mạng. Phật gọi là pháp giới. Đây là cái học của Đại thừa, có thể bảo là lý trung đạo. Nương vào đây mà tu chứng gọi đó là LÝ MẠNG. Nếu nương vào khí mạng, chẳng ngộ lý mạng rốt lại thành không, chẳng phải đạo lớn.
+📣📣📣 Lý mạng có hai nghĩa là tại triền và xuất triền. Tại triền thì lấy tình làm mạng. 
+Xuất triền khởi động là tán mạng, dứt tình là tu mạng. 
+Xuất triền hợp với hư là chí mạng, lại gọi là phục mạng. Nhà Nho gọi là Phục mạng. 
+Phật gọi là pháp giới. Đây là cái học của Đại thừa, có thể bảo là lý trung đạo. 
+Nương vào đây mà tu chứng gọi đó là LÝ MẠNG. 
+Nếu nương vào khí mạng, chẳng ngộ lý mạng rốt lại thành không, chẳng phải đạo lớn.
 
-❓ Các bậc Thầy trong Đạo Tiên có nói: Người thấy tánh chẳng biết mệnh kia, nên khi cuối cùng về chỗ nào? Và chưa rõ, biết mệnh lý hay là khí?
+❓❓❓ Các bậc Thầy trong Đạo Tiên có nói: Người thấy tánh chẳng biết mệnh kia, nên khi cuối cùng về chỗ nào? Và chưa rõ, biết mệnh lý hay là khí?
 
-📣📣📣 Người kiến tánh tự biết thiên mệnh, rốt sau rõ ràng cùng với hư hợp thể. Nho nói: “Cùng lý tận tánh là do tột ở mệnh”. Đạo Phật nói: “Tại triền gọi Như lai tạng, ra khỏi triền gọi phá giới tánh”. Nếu luyện khí mạng rời thần nương khí kết là chỗ về của ta, thì chưa khỏi báo hết trở lại rơi vào các cõi. Nên biết, thiên mệnh mới là lý gốc.
+📣📣📣 Người kiến tánh tự biết thiên mệnh, rốt sau rõ ràng cùng với hư hợp thể. 
+Nho nói: “Cùng lý tận tánh là do tột ở mệnh”. 
+Đạo Phật nói: “Tại triền gọi Như lai tạng, ra khỏi triền gọi phá giới tánh”. 
+Nếu luyện khí mạng rời thần nương khí kết là chỗ về của ta, thì chưa khỏi báo hết trở lại rơi vào các cõi. 
+Nên biết, thiên mệnh mới là lý gốc.
 
-❓ Một âm một dương gọi là chánh đạo, âm dương có lẻ vạn vật chẳng sanh, do đâu lại nói không âm không dương. Nếu không âm dương có khác gì ngoan không?
+❓ Một âm một dương gọi là chánh đạo, âm dương có lẻ vạn vật chẳng sanh, do đâu lại nói không âm không dương. 
+Nếu không âm dương có khác gì ngoan không?
 
-📣📣📣 Động là dương, tịnh là âm, lưỡng nghi tứ tượng, ngũ hành là việc sau khi phân của thái cực. Tánh là lý trước vô cực. Trong thái cực âm dương còn chưa phân huống là vô cực lại có âm dương hay sao? Ngoan không gọi là vô linh, còn hữu linh thì chẳng phải ngoan. Kẻ hậu học chẳng ngộ lầm sanh đoạn kiến. Đạo Phật nói: “Như như chẳng động rõ ràng thường biết”. Đạo Nho nói: “Tịch nhiên chẳng động, có cảm liền thông”. Đạo gia nói: “thân tâm chẳng động về sau có vô cực chơn cơ”. Tam giáo dạy học trò lý kia không hai. Nếu ngộ chơn không thì rỗng rang mầu nhiệm chẳng mê.
+📣📣📣 Động là dương, tịnh là âm, lưỡng nghi tứ tượng, ngũ hành là việc sau khi phân của thái cực. 
+Tánh là lý trước vô cực. 
+Trong thái cực âm dương còn chưa phân huống là vô cực lại có âm dương hay sao? 
+Ngoan không gọi là vô linh, còn hữu linh thì chẳng phải ngoan. 
+Kẻ hậu học chẳng ngộ lầm sanh đoạn kiến. 
+Đạo Phật nói: “Như như chẳng động rõ ràng thường biết”. Đạo Nho nói: “Tịch nhiên chẳng động, có cảm liền thông”. 
+Đạo gia nói: “thân tâm chẳng động về sau có vô cực chơn cơ”. 
+Tam giáo dạy học trò lý kia không hai. Nếu ngộ chơn không thì rỗng rang mầu nhiệm chẳng mê.
 
-❓ Đạo tôi dạy song tu một đời bay bổng, Đạo Phật tu một bên chưa khỏi thân hình suy bại. Nếu như đạo thành thì khá, nếu không được như vậy thì trở lại chưa khỏi cái khổ đầu thai dời đổi?
+❓ Đạo tôi dạy song tu một đời bay bổng, Đạo Phật tu một bên chưa khỏi thân hình suy bại. 
+Nếu như đạo thành thì khá, nếu không được như vậy thì trở lại chưa khỏi cái khổ đầu thai dời đổi?
 
-📣📣📣 Ông chỉ thấy một đời bay bổng, chẳng biết bao kiếp khác gieo trồng bồi đắp. Ông Mã đơn Dương, Khưu trường Xuân của Đạo gia ba đời làm bè bạn, mười đời tu hành, một phen ra đời trở lại liền đốn ngộ chánh đạo. Nay thấy kẻ lợi căn một đời đã xong, ấy đều do những kiếp xa xưa tích chứa công hạnh, cho nên giới đây mới được hiện đời thành Chơn, chớ chấp một bên mà quyết định nơi hiện đời.
+📣📣📣 Ông chỉ thấy một đời bay bổng, chẳng biết bao kiếp khác gieo trồng bồi đắp. 
+Ông Mã đơn Dương, Khưu trường Xuân của Đạo gia 3 đời làm bè bạn, 10 đời tu hành, một phen ra đời trở lại liền đốn ngộ chánh đạo. 
+Nay thấy kẻ lợi căn một đời đã xong, ấy đều do những kiếp xa xưa tích chứa công hạnh, cho nên giới đây mới được hiện đời thành Chơn, chớ chấp một bên mà quyết định nơi hiện đời.
 
 ❓ Cái học về khí mạng là ngụy không phải chơn thật. Theo lời nói này thì mạng thuật kia vô dụng sao?
 
@@ -320,17 +344,36 @@ Khí mạng loại hai là “ngưng khí qui căn”. Người ở bụng mẹ 
 
 ❓ “Nê thủy kim đơn, hoàng bạch diệu thuật”, chưa biết lý kia là tà hay chánh?
 
-📣📣📣 Tiền tài, sắc dục, danh lợi, ăn uống, ngủ nghỉ là năm điều căn bản của địa ngục. Năm dục chẳng không sanh tử chẳng dứt. Người chơn thật học đạo phải cắt ân đoạn ái, trì giới minh tâm mới có thể chứng lý. Không biết, lại dùng “mỹ nữ thái chiến”, tổn người bổ mình, không chỉ đại tán lương tâm, mà ngày kia khó thoát khỏi hỏa ngục. Phật nói: “Tham dâm chúng sanh, ác nghiệp càng nhiều, báo nhỏ thì mắc nhiều bệnh hoạn, báo lớn thì nằm giường hỏa”.
-
-Lại có một bọn mang nghiệp si quá lắm, tham tài thủ lợi “Thiêu mao luyện hống”. Có người hỏi tại sao vậy? Đáp là học đạo. Người xưa muốn bỏ lòng tham, còn đem tiền của bỏ xuống biển. Nay trở lại dùng chì thiết bảo đó là tu hành. Thật là quỉ quyệt lạ. Khá tiếc cho bọn tham tài hiểu sắc tự nhẩy vào con đường khổ của tam đồ!
+📣📣📣 Tiền tài, sắc dục, danh lợi, ăn uống, ngủ nghỉ là năm điều căn bản của địa ngục. 5 dục chẳng không sanh tử chẳng dứt. 
+Người chơn thật học đạo phải cắt ân đoạn ái, trì giới minh tâm mới có thể chứng lý. 
+Không biết, lại dùng “mỹ nữ thái chiến”, tổn người bổ mình, không chỉ đại tán lương tâm, mà ngày kia khó thoát khỏi hỏa ngục. 
+Phật nói: “Tham dâm chúng sanh, ác nghiệp càng nhiều, báo nhỏ thì mắc nhiều bệnh hoạn, báo lớn thì nằm giường hỏa”.
+Lại có một bọn mang nghiệp si quá lắm, tham tài thủ lợi “Thiêu mao luyện hống”. Có người hỏi tại sao vậy? 
+Đáp là học đạo. Người xưa muốn bỏ lòng tham, còn đem tiền của bỏ xuống biển. 
+Nay trở lại dùng chì thiết bảo đó là tu hành. Thật là quỷ quyệt lạ. 
+Khá tiếc cho bọn tham tài hiểu sắc tự nhẩy vào con đường khổ của tam đồ!
 
 ❓ Ngài Đại thánh Lão Tử hóa làm người ẤN thành Phật. Há chẳng biết Thích ca đó là đồ đệ của Lão Tử ư?
 
-📣📣📣 Phật đản sanh vào năm Giáp Dần đời Châu Chiêu Vương năm thứ mười bảy. Tịch vào năm Nhâm Thân vào đời Mục Vương năm thứ mười ba. Trải qua vua Cung, vua Ý, vua Hiếu, vua Di, vua Lệ, vua Tuyên, vua U, vua Bình, vua Hoàng, vua Trang, vua Hi, vua Huệ, vua Nhượng, vua Hạng, vua Khuôn, vua Định, cộng cả thảy mười sáu đời vua. Phật diệt độ sau bao trăm bốn mươi năm (340), nhằm đời vua Định Vương năm thứ mười ba mới sanh Lão Tử. Trải qua dòng cát thời gian, Phật pháp bao trùm khắp cõi xa, mở mang khắp năm xứ Ấn Độ và những nước lân cận. Thiên hạ nghe Phật pháp đã quá hơn năm trăm năm (500), dối tạo ra Lão Tử hóa người Ấn thành Phật. Đấy là vào đời Tấn Huệ Đế, do Vương Phù nguy tạ. Ấy là hành động khi dối thánh hiền, tự vào địa ngục rút lưỡi, tội kia làm sao cứu được?
+📣📣📣 Phật đản sanh vào năm Giáp Dần đời Châu Chiêu Vương năm thứ XVII. Tịch vào năm Nhâm Thân vào đời Mục Vương năm thứ XIII. 
 
-Đạo sĩ nói: Đời vua Địch Vương năm thứ ba là sanh Lão Tử hậu thiên. Còn Lão Tử tiên thiên thì hóa ra người Ấn thành Phật là có?
+Trải qua vua Cung, vua Ý, vua Hiếu, vua Di, vua Lệ, vua Tuyên, vua U, vua Bình, vua Hoàng, vua Trang, vua Hi, vua Huệ, vua Nhượng, vua Hạng, vua Khuôn, vua Định, cộng cả thảy mười sáu đời vua. 
 
-Sư đáp: Lúc hỗn độn chưa phân, nguyên khí tự nhiên mập mờ khó biết. Tự nhiên nguyên khí này là tiên thiên. Khi thái cực đã chia, thiên địa mới phân, muôn vật phát sinh gọi đó là hậu thiên. Tiên thiên vốn không hình, hậu thiên mới có tượng. Phật sanh vào đời vua Chiêu Vương cách sự khai mở của trời đất quá xa, thế nào cái vô hình của tiên thiên lại đi giáo hóa cái hữu tượng của hậu thiên? Thật là lời nói không có lập trường vững, người nghe không khỏi bịt mũi.
+Phật diệt độ sau bao trăm bốn mươi năm (340), nhằm đời vua Định Vương năm thứ XIII mới sanh Lão Tử. 
+Trải qua dòng cát thời gian, Phật pháp bao trùm khắp cõi xa, mở mang khắp năm xứ Ấn Độ và những nước lân cận. 
+
+Thiên hạ nghe Phật pháp đã quá hơn năm trăm năm (500), dối tạo ra Lão Tử hóa người Ấn thành Phật. 
+Đấy là vào đời Tấn Huệ Đế, do Vương Phù nguy tạ. 
+
+Ấy là hành động khi dối thánh hiền, tự vào địa ngục rút lưỡi, tội kia làm sao cứu được?
+
+Đạo sĩ nói: Đời vua Địch Vương năm thứ III là sanh Lão Tử hậu thiên. Còn Lão Tử tiên thiên thì hóa ra người Ấn thành Phật là có?
+
+Sư đáp: Lúc hỗn độn chưa phân, nguyên khí tự nhiên mập mờ khó biết. Tự nhiên nguyên khí này là tiên thiên. Khi thái cực đã chia, thiên địa mới phân, muôn vật phát sinh gọi đó là hậu thiên. 
+
+Tiên thiên vốn không hình, hậu thiên mới có tượng. Phật sanh vào đời vua Chiêu Vương cách sự khai mở của trời đất quá xa, thế nào cái vô hình của tiên thiên lại đi giáo hóa cái hữu tượng của hậu thiên? 
+
+Thật là lời nói không có lập trường vững, người nghe không khỏi bịt mũi.
 
 ❓ Ngài nói giáo lý của tôi môn khí mạng là ngoại thuật, Tâm thức tương y là Nhị thừa. Vậy còn có lý Đại thừa có thể tu không?
 
@@ -2159,7 +2202,7 @@ Cho đến sách của Đạo gia, chỉ có Đạo Đức kinh, Thanh Tịnh ki
 
 Chùa Phổ Độ, Thừa công (ông Thừa) (16) nhơn tham thiền ngộ đạo, mà còn thông cả sách Nho và sách Đạo. Thực là hay ở trên một từng cao tột, nên thấy được rõ ràng. Ngài đã trước tác quyển Duy Tâm Tập và Kệ Niệm Phật là gì (niệm Phật thị thuỳ?) hầu dẫn đạo cho quần mê, tận tình bày tỏ. Thật là ngọn đèn trong nhà tối. Tôi thì ít thấy ít biết, ấn chứng dưới toà, đáng được một gậy chăng?
 
-- Tháng Xuân Vương, năm thứ 34 đời cua Quang Tự
+- Tháng Xuân Vương, năm thứ XXXIV đời cua Quang Tự
 
 - Đổng Hư Tử, tên quang Phất kính ghi (T.L 1908)
 

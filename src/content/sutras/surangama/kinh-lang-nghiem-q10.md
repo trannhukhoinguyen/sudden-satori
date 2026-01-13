@@ -89,7 +89,7 @@ videoStart: "23240"
 
 9. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu-Hậu-Vô [^22] khởi tâm so đo, người ấy bị đọa vào bảy thứ Đoạn Diệt Luận: hoặc chấp cái thân diệt, hoặc dục tận diệt, hoặc khổ tận diệt, hoặc cực lạc diệt, hoặc cực xả diệt, xoay chuyển như thế tận cùng bảy nơi, cái thân hiện tiền khi tiêu diệt rồi chẳng còn sanh nữa, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ chín trong ngũ ấm chấp sau khi chết đoạn diệt, lập Tâm Điên Đảo Luận.
 
-10. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu Hậu Hữu [^23] khởi tâm so đo, người ấy bị đọa vào năm thứ Niết Bàn Luận: hoặc nhận dục giới là nơi Chánh Chuyển Y, vì thấy cảnh viên minh nên tâm sanh ái mộ, hoặc nhận sơ thiền vì tánh không còn lo, hoặc nhận nhị thiền, vì tâm không còn khổ, hoặc nhận tam thiền, vì rất vui đẹp, hoặc nhận tứ thiền vì khổ vui đều mất, chẳng bị luân hồi sanh diệt vậy. Mê lầm cõi trời hữu lậu cho là quả vô vi, năm nơi an ổn ấy là nơi Thắng Tịnh Y, xoay chuyển ở năm chỗ này, cho là cứu cánh, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ mười trong ngũ ấm chấp năm thứ Niết Bàn, lập Tâm Điên Đảo Luận.
+10. Trong lúc thiền định, chánh tâm kiên cố, ma chẳng được dịp quấy phá. Quán xét cùng tột cội gốc của sanh diệt, ở nơi Hậu Hậu Hữu [^23] khởi tâm so đo, người ấy bị đọa vào 5 thứ Niết Bàn Luận: hoặc nhận dục giới là nơi Chánh Chuyển Y, vì thấy cảnh viên minh nên tâm sanh ái mộ, hoặc nhận sơ thiền vì tánh không còn lo, hoặc nhận nhị thiền, vì tâm không còn khổ, hoặc nhận tam thiền, vì rất vui đẹp, hoặc nhận tứ thiền vì khổ vui đều mất, chẳng bị luân hồi sanh diệt vậy. Mê lầm cõi trời hữu lậu cho là quả vô vi, năm nơi an ổn ấy là nơi Thắng Tịnh Y, xoay chuyển ở năm chỗ này, cho là cứu cánh, do so đo này, lạc vào ngoại đạo, mê lầm tánh Bồ Đề, ấy gọi là ngoại đạo thứ mười trong ngũ ấm chấp năm thứ Niết Bàn, lập Tâm Điên Đảo Luận.
 
 - A Nan! Mười thứ thiền định cuồng giải trên đều do Hành Ấm và dụng tâm giao tranh lẫn nhau mà hiện ra, chúng sanh ngu mê chẳng tự xét kỹ, gặp nhân duyên này, mà chẳng tự biết, nhận sự mê lầm cho là giải thoát, tự nói chứng thánh, thành đại vọng ngữ, đọa ngục A-Tỳ.
 
@@ -129,7 +129,7 @@ videoStart: "23240"
 
 A Nan nghe Phật dạy bảo, liền từ chỗ ngồi đứng dậy, đảnh lễ kính vâng, ghi nhớ chẳng sót, lại bạch Phật rằng:
 
-- Như lời Phật dạy, trong tướng ngũ ấm, năm thứ hư vọng vốn là bản tâm, chúng con bình thường chưa được Như Lai khai thị tỷ mỷ như thế. Lại ngũ ấm này là tiêu trừ một lượt hay theo thứ lớp mà diệt trừ? Năm lớp này đến đâu là bờ bến? Xin Như Lai phát lòng đại từ, khiến tâm và mắt của đại chúng được trong sáng, và làm đạo nhãn tương lai cho tất cả chúng sanh trong đời mạt pháp.
+- Như lời Phật dạy, trong tướng ngũ ấm, 5 thứ Hư vọng vốn là bản tâm, chúng con bình thường chưa được Như Lai khai thị tỷ mỷ như thế. Lại ngũ ấm này là tiêu trừ một lượt hay theo thứ lớp mà diệt trừ? Năm lớp này đến đâu là bờ bến? Xin Như Lai phát lòng đại từ, khiến tâm và mắt của đại chúng được trong sáng, và làm đạo nhãn tương lai cho tất cả chúng sanh trong đời mạt pháp.
 
 Phật bảo A Nan:
 
@@ -151,7 +151,7 @@ Phật bảo A Nan:
 
 > Vậy nên hiện nay cái Kiến, Văn, Giác, Tri của ngươi, hòa hợp với tập khí vi tế, thành mường tượng hư vô nơi tánh Trạm Liễu, gọi là tướng vi tế của Điên Đảo Vọng Tưởng thứ năm.
 
-> A Nan! Ngũ ấm này do năm thứ vọng tưởng kể trên mà thành.
+> A Nan! Ngũ ấm này do 5 thứ Vọng tưởng kể trên mà thành.
 
 > Nay ngươi muốn biết bờ bến sâu cạn, thì Sắc với Không là bờ bến của Sắc Ấm; Xúc với Lìa là bờ bến của Thọ Ấm; Nhớ với Quên là bờ bến của Tưởng Ấm, Diệt với Sanh là bờ bến của Hành Ấm; Trạm nhập hợp Trạm, là bờ bến của Thức Ấm.
 

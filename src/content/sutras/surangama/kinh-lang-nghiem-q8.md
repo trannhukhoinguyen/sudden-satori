@@ -261,7 +261,7 @@ Phật bảo A Nan:
 
 - Bảy là Oán Tập giao hiềm (hiềm khích), phát nơi sân hận, thế nên có sự quăng đá, ném gạch, hộp nhốt, cũi nhốt, rọ nhốt, đãy bọc, như người hiểm độc ôm ấp điều dữ. Hai tập khí nuốt nhau, mới sanh những việc ném, quăng, nắm, bắt, đánh, bắn, tóm, siết v.v. Mười phương Như Lai xem sự thù oán, đồng như Quỷ Vi Hại, Bồ Tát xem thù oán như uống rượu độc.
 
-- Tám là Kiến Tập giao minh (kẻ thông minh ham kiến chấp), như năm thứ ác kiến và các nghiệp tà ngộ, vì kiến giải khác nhau nên chống trái lẫn nhau, ví như người lạ đi đường qua lại gặp nhau, cãi cọ thưa kiện, nên có các cấp quan lại, nắm giữ hồ sơ văn bản đối chứng. Hai tập khí giao xen, thế nên mới có Thiện Ác Đồng Tử tay cầm hồ sơ văn bản, điều tra bằng chứng cụ thể, khám hỏi, tra khảo, thẩm vấn v.v... Mười phương Như Lai xem những ác kiến đồng như hầm độc, Bồ Tát xem những kiến chấp hư vọng như vào hố độc.
+- Tám là Kiến Tập giao minh (kẻ thông minh ham kiến chấp), như 5 thứ Ác kiến và các nghiệp tà ngộ, vì kiến giải khác nhau nên chống trái lẫn nhau, ví như người lạ đi đường qua lại gặp nhau, cãi cọ thưa kiện, nên có các cấp quan lại, nắm giữ hồ sơ văn bản đối chứng. Hai tập khí giao xen, thế nên mới có Thiện Ác Đồng Tử tay cầm hồ sơ văn bản, điều tra bằng chứng cụ thể, khám hỏi, tra khảo, thẩm vấn v.v... Mười phương Như Lai xem những ác kiến đồng như hầm độc, Bồ Tát xem những kiến chấp hư vọng như vào hố độc.
 
 - Chín là Uổng Tập (vu vạ) giao xen, phát nơi vu khống phỉ báng; thế nên có hợp sơn, hợp thạch, cối nghiền, cối xay, như kẻ gièm pha vu oan người lương thiện. Hai tập khí bài xích lẫn nhau, mới sanh những việc áp giải, đè đập, ép huyết v.v. Mười phương Như Lai xem sự vu vạ đồng như cọp gièm pha, Bồ Tát xem sự vu vạ như bị sấm sét.
 

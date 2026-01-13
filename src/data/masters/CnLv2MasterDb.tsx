@@ -262,5 +262,21 @@ const CnLv2MasterDb = [
       'https://cbetaonline.dila.edu.tw/zh/T51n2078_009',
     ],
   },
+  {
+    id: '35.2.15',
+    name_en: 'Jingxuan Yixing',
+    name_ja: '',
+    name_zh: '敬玄一行',
+    name_vi: 'Kính Huyền Nhất Hạnh',
+    birth_death_time: ['683/685', '727'],
+    records: '',
+    sect: [],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Songshan Puji'],
+    successors: [''],
+    disciples: [''],
+    reference: ['https://ngulucthien.com/hoa-thuong-nhat-hanh/'],
+  },
 ]
 export default CnLv2MasterDb;
