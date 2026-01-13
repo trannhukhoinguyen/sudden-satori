@@ -11,6 +11,8 @@ import BioWithImage from "../components/ui/BioWithImage.astro";
 import HTTDL from "../components/special/HTTDL.astro";
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
+import RetreatSlider from '@/components/RetreatSlider.astro';
+import { retreatSliderEvents } from '@/data/retreat-events';
 
 const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -65,6 +67,10 @@ const description = "Xem " + title;
 >
   <div class="landing-page">
 
+
+    <!-- Slider Section -->
+    <RetreatSlider events={retreatSliderEvents} />
+
     <!-- Hero Section -->
     <Hero
       title="TỔ SƯ THIỀN"
@@ -88,10 +94,6 @@ const description = "Xem " + title;
         },
       ]}
     />
-
-    <!-- Hero Section -->
-    <InstallPWA />
-    <!--<PWAPopup />-->
 
     <!-- Image Section -->
     <section class="image-area">
@@ -230,6 +232,10 @@ const description = "Xem " + title;
       </div>
     </section>
 
+
+    <!-- Hero Section -->
+    <InstallPWA />
+    <!--<PWAPopup />-->
   </div>
 </Layout>
 
