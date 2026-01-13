@@ -38,7 +38,7 @@ export const config: SiteConfig = {
   social: {
     facebook1: "https://www.facebook.com/Nhohoivanhin/",
     facebook2: "https://www.facebook.com/hien.thichphap/",
-    youtube1: "https://www.youtube.com/c/tongphongtosuthien",
+    youtube1: "https://www.youtube.com/@Tham-ToSuThien",
     youtube2: "https://www.youtube.com/channel/UCbubYpJSuQvlGfpTlLmNIsQ",
     youtube3: "https://www.youtube.com/@tosuthien_org",
     bookcase: "https://pubhtml5.com/bookcase/wuxzq/",
