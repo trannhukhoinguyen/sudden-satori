@@ -11,6 +11,7 @@ export interface SiteConfig {
     facebook2?: string;
     youtube1?: string;
     youtube2?: string;
+    youtube3?: string;
     bookcase?: string;
     bookcase2?: string;
   };
@@ -38,7 +39,8 @@ export const config: SiteConfig = {
     facebook1: "https://www.facebook.com/Nhohoivanhin/",
     facebook2: "https://www.facebook.com/hien.thichphap/",
     youtube1: "https://www.youtube.com/c/tongphongtosuthien",
-    youtube2: "https://www.youtube.com/c/tosuthien",
+    youtube2: "https://www.youtube.com/channel/UCbubYpJSuQvlGfpTlLmNIsQ",
+    youtube3: "https://www.youtube.com/@tosuthien_org",
     bookcase: "https://pubhtml5.com/bookcase/wuxzq/",
     bookcase2: "https://pubhtml5.com/bookcase/cunen/",
   },
