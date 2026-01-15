@@ -53,9 +53,5 @@ const hasContent = Astro.slots.default;
   </div>-->
 
   <!-- MAIN CONTENT (nếu có) -->
-  {hasContent && (
-    <div>
-      <slot />
-    </div>
-  )}
+  {hasContent && <slot />}
 </div>
