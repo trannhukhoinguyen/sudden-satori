@@ -346,7 +346,7 @@ const CnLv1MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: 'Tử Kim Sơn còn gọi là Tưởng Sơn, Chung Sơn, Thần Liệt Sơn. Chung Sơn (鐘山) là một núi lớn phía đông gần thành Nam Kinh (Kim Lăng) tại Giang Tô, từng là trung tâm hành đạo của nhiều thiền sư đời Đường – Tống',
+    place: 'Tử Kim Sơn còn gọi là Tưởng Sơn, Chung Sơn, Thần Liệt Sơn. Chung Sơn (鐘山) là một núi lớn phía đông gần thành Nam Kinh (Kim Lăng) tại Giang Tô, từng là trung tâm hành đạo của nhiều thiền sư đời Đường - Tống',
     teachers: ['Niutou Farong'],
     successors: [''],
     disciples: [],

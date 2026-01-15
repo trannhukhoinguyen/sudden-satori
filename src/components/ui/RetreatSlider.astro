@@ -1,10 +1,20 @@
 ---
+import {
+    upcomingEvents,
+    cyclicalEvents,
+} from '@/data/events/upcoming-events';
+import { getTodayLunar } from '@/utils/lunar';
+import { getTodayLunarEvents } from '@/utils/filterLunarEvents';
+
+const lunarToday = getTodayLunar();
+const todayEvents = getTodayLunarEvents(cyclicalEvents, lunarToday);
+
 const { events = [] } = Astro.props;
 ---
 
 <section class="retreat-slider" data-retreat-slider>
     <ul class="slider-track">
-        {events.map((event) => (
+        {todayEvents.map((event) => (
                 <li class="slide">
                     <span class="title">{event.title}</span>
                     <span class="time">
@@ -14,7 +24,7 @@ const { events = [] } = Astro.props;
         ))}
 
         <!-- duplicate để scroll vô hạn -->
-        {events.map((event) => (
+        {todayEvents.map((event) => (
                 <li class="slide clone">
                     <span class="title">{event.title}</span>
                     <span class="time">

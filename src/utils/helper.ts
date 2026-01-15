@@ -40,7 +40,7 @@ export function getPostDetail(posts: any) {
   const noPost = `📂 Chưa có bài viết ${categoryName} nào`;
   const noItem = `📂 Danh sách ${categoryName} trống`;
 
-  /* Group posts by first tag – O(n) */
+  /* Group posts by first tag - O(n) */
   const postGroupMap = new Map<string, any[]>();
 
   for (const post of posts ?? []) {

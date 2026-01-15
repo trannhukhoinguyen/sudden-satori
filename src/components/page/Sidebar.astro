@@ -2,6 +2,7 @@
 import { CATEGORY_MAP, TAG_MAP, CONTENT_MAP } from "../../utils/getMarkdownContent";
 import "@/styles/sidebar.css";
 import PostTitle from "../post/PostTitle.astro";
+import NotificationBoard from "./NotificationBoard.astro";
 
 const { collection } = Astro.props;
 
@@ -64,3 +65,5 @@ const base = import.meta.env.BASE_URL;
       </section>
   )}
 </div>
+
+<NotificationBoard />

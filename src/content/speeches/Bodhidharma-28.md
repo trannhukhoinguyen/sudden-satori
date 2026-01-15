@@ -9,7 +9,7 @@ tags:
 ---
 
 
-## NGỮ LỤC BỒ ĐỀ ĐẠT MA – BỐN QUÁN HẠNH VÀO ĐẠO CỦA ĐẠI THỪA
+## NGỮ LỤC BỒ ĐỀ ĐẠT MA - BỐN QUÁN HẠNH VÀO ĐẠO CỦA ĐẠI THỪA
 
 Muốn vào Đạo có nhiều đường, tóm lại không ra ngoài hai đường: Lý Nhập và Hạnh Nhập.
 
@@ -26,7 +26,7 @@ Vô Sở Cầu Hạnh: Người đời ở trong cơn mê dài, dẫy đầy s�
 Xứng Pháp Hạnh: Lý thể các pháp tự tánh thanh tịnh. Trong đó, mọi vật đều là không, không nhiễm, không trước, không chủ, không khách. Kinh dạy: “Pháp không chúng sanh, nên lìa chúng sanh cấu, pháp không có ngã, nên lìa ngã cấu.” Người trí nếu tin hiểu lý này, có thể thuận với Phật Pháp mà tu hành. Bản thể của pháp là không, nên xả thí thân mạng, tài sản mà tâm không luyến tiếc. Hiểu rõ ba không, không nương không bám, dẹp dần trần cấu, giáo hóa chúng sanh mà không mắc vào hình tướng. Đó là tự hành, mà lại có thể lợi người, lại có thể trang nghiêm đạo Bồ Đề. Hạnh bố thí với năm hạnh khác (sáu ba la mật) cũng đều đầy đủ. Giải trừ vọng tưởng, tu hành lục độ (2), nhưng không thấy chỗ tu, gọi là Xứng Pháp Hạnh.
 
 
-## NGỮ LỤC BỒ ĐỀ ĐẠT MA – NGỘ TÁNH LUẬN
+## NGỮ LỤC BỒ ĐỀ ĐẠT MA - NGỘ TÁNH LUẬN
 
 Đạo lấy tịch diệt làm thể, Tu lấy lìa tướng làm chỗ về. Do đó Kinh dạy: “Tịch diệt là bồ đề, diệt các tướng vậy.” Phật có nghĩa là giác ngộ. Người có tâm giác ngộ thì đạt được đạo Bồ Đề, gọi là Phật. Kinh dạy: “Lìa hết thảy các tướng gọi là Phật.” Như thế biết rằng có tướng là tướng không hình tướng, không thể dùng mắt thấy, chỉ có thể dùng trí mà biết. Nếu có người nghe pháp này mà sinh được một niệm tin người này đã phát khởi Đại Thừa, vượt ra ba cõi.
 
@@ -158,7 +158,7 @@ Chú thích:
 
 (12) Mười Hai nhập (Mười hai xứ): Sáu căn: mắt, tai, mũi, lưỡi, thân, ý, và sáu trần: sắc, thanh, hương, vị. xúc, pháp.
 
-(13) Bồ đề (Bodhi – Đạo, Giác): Đạo là thông suốt, Giác là giác ngộ.
+(13) Bồ đề (Bodhi - Đạo, Giác): Đạo là thông suốt, Giác là giác ngộ.
 
 (14) Ba môn giải thoát: Không, Vô Tướng, Vô tác.
 
@@ -166,4 +166,4 @@ Chú thích:
 
 (16) Nghiệp (Karma): Những hành động thịện, ác, không thiện không ác do thân, miệng, ý tạo ra. Những hành động này là nghiệp nhân tạo ra những nghiệp quả là vui, khổ, không vui không khổ trong ba cõi.
 
-(17) Nhất xiển đề (Iechantika – Bất tín): Người không tin Phật Pháp, do đó không có tính thành Phật.
+(17) Nhất xiển đề (Iechantika - Bất tín): Người không tin Phật Pháp, do đó không có tính thành Phật.

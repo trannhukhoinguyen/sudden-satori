@@ -39,6 +39,12 @@ const masterSlugSet = new Set(
         Korea</label>
 
     </div>-->
+
+
+    <div class="download-actions">
+      <button id="btnExcel" title="Export page hiện tại (10 dòng)">⬇ Excel</button>
+      <button id="btnPdf" title="Export page hiện tại (10 dòng)">⬇ PDF</button>
+    </div>
   </div>
 
   <table>
@@ -84,7 +90,19 @@ const masterSlugSet = new Set(
     </tbody>
   </table>
 
+  <button onclick="currentPage--; paginate()">Prev</button>
   <div class="pagination" id="pagination"></div>
+  <button onclick="currentPage++; paginate()">Next</button>
+
+  <label for="rowsPerPage" class="sr-only">
+    Số record mỗi trang
+  </label>
+
+  <select id="rowsPerPage" onchange="rowsPerPage = +this.value; paginate()">
+    <option value="10">10</option>
+    <option value="20">20</option>
+    <option value="50">50</option>
+  </select>
 </section>
 
 <style>
@@ -102,6 +120,24 @@ const masterSlugSet = new Set(
     border: 1px solid #ddd;
     border-radius: 2px;
     margin-bottom: 20px;
+
+    .download-actions {
+      margin-top: 8px;
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .download-actions button {
+      min-width: 120px;
+      height: 40px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      background: #fff;
+      cursor: pointer;
+      font-weight: 500;
+    }
   }
 
   .info-panel p {
@@ -281,6 +317,11 @@ const masterSlugSet = new Set(
 }
 </style>
 
+
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jspdf-autotable@3.5.29/dist/jspdf.plugin.autotable.min.js"></script>
+
 <script is:inline>
   // ===== Controls =====
   const btnClear = document.getElementById("btnClear");
@@ -293,6 +334,24 @@ const masterSlugSet = new Set(
   // ===== Pagination =====
   const rowsPerPage = 10;
   let currentPage = 1;
+
+  function paginate() {
+      const matchedRows = allRows.filter(r => r.dataset.match === "true");
+      const pageCount = Math.ceil(matchedRows.length / rowsPerPage);
+
+      // Ẩn tất cả
+    allRows.forEach(r => (r.style.display = "none"));
+
+      // Hiển thị 10 record của page hiện tại
+    const start = (currentPage - 1) * rowsPerPage;
+      const end = start + rowsPerPage;
+
+      matchedRows.slice(start, end).forEach(r => {
+          r.style.display = "";
+          });
+
+      buildPagination(pageCount);
+    }
 
   // ===== Events =====
   btnClear.addEventListener("click", () => {
@@ -405,5 +464,93 @@ const masterSlugSet = new Set(
   // ===== Init =====
   rows.forEach(r => (r.dataset.match = "true"));
   paginate();
+
+//Download
+function getCurrentPageRows() {
+    const matchedRows = rows.filter(r => r.dataset.match === "true");
+
+    const start = (currentPage - 1) * rowsPerPage;
+    const end = start + rowsPerPage;
+
+    return matchedRows.slice(start, end);
+    }
+
+//Download Excel
+document.getElementById("btnExcel").addEventListener("click", () => {
+    const pageRows = getCurrentPageRows();
+
+    if (!pageRows.length) return;
+
+    const data = pageRows.map(row => {
+    const cells = row.querySelectorAll("td");
+    return {
+        "Tên Anh": cells[0]?.innerText || "",
+        "Tên Việt": cells[1]?.innerText || "",
+        "Tên Trung": cells[1]?.innerText || "",
+        "Tông phái": cells[2]?.innerText || "",
+        "Thầy": cells[3]?.innerText || ""
+    };
+    });
+
+    const worksheet = XLSX.utils.json_to_sheet(data);
+    const workbook = XLSX.utils.book_new();
+
+    XLSX.utils.book_append_sheet(
+        workbook,
+        worksheet,
+        `Page ${currentPage}`
+        );
+
+    XLSX.writeFile(
+        workbook,
+        `danh-sach-thien-su-page-${currentPage}.xlsx`
+        );
+    });
+
+// Download PDF
+document.getElementById("btnPdf").addEventListener("click", () => {
+    const pageRows = getCurrentPageRows();
+    if (!pageRows.length) return;
+
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF("l", "pt", "a4");
+
+    const body = pageRows.map(row => {
+    const cells = row.querySelectorAll("td");
+    return [
+        cells[0]?.innerText || "",
+        cells[1]?.innerText || "",
+        cells[2]?.innerText || "",
+        cells[3]?.innerText || "",
+        cells[4]?.innerText || "",
+        ];
+    });
+
+    doc.text(
+        `BẢNG DANH SÁCH THIỀN SƯ - Page ${currentPage}`,
+        40,
+        40
+        );
+
+    doc.autoTable({
+        head: [[
+          "Tên Anh",
+          "Tên Việt",
+          "Tên Trung",
+          "Tông phái",
+          "Thầy",
+        ]],
+        body,
+        startY: 60,
+        styles: {
+            fontSize: 9,
+            cellPadding: 4,
+            overflow: "linebreak"
+            },
+        margin: { left: 40, right: 40 }
+        });
+
+    doc.save(`danh-sach-thien-su-page-${currentPage}.pdf`);
+    });
 </script>
 

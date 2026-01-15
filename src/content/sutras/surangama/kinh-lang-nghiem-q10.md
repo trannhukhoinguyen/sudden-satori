@@ -15,7 +15,9 @@ videoId: "MeKCZ_DuSjk"
 videoStart: "23240"
 ---
 
-## MỤC LỤC [🔗](/sutras/kinh-lang-nghiem-gioi-thieu-va-muc-luc)
+## MỤC LỤC 
+
+➥ [🔗](/sutras/kinh-lang-nghiem-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 

@@ -45,7 +45,8 @@
     "astro-auto-import": "^0.4.4",
     "date-fns": "^4.1.0",
     "fuse.js": "^7.1.0",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "lunar-javascript": "^1.7.7"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.3",

@@ -3,7 +3,7 @@ title: "Vạn Pháp Quy Tâm Lục"
 description: ""
 excerpt: ""
 authors:
-  - TS Tổ Nguyên Siêu Minh
+  - TS TỔ NGUYÊN SIÊU MINH
 categories:
   - Sách
 tags:
@@ -58,7 +58,9 @@ Tôi thừa hưởng căn lành rất ít, chợt thấy được một góc ch�
 
 <hr class="blog-rule" />
 
-## Chương I - CẢNH TỈNH KẺ TỤC MÊ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c1)
+## Chương I - CẢNH TỈNH KẺ TỤC MÊ 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c1)
 
 ❓ Tôi muốn thường ăn chay, có công đức chăng?
 
@@ -180,11 +182,15 @@ Nếu là thiện nên làm, còn ác thì mau cải đổi. Sự đổi ác the
 
 <hr class="blog-rule" />
 
-## CHƯƠNG II - PHẬT NHO LUẬN LÝ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c2)
+## CHƯƠNG II - PHẬT NHO LUẬN LÝ 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c2)
 
 <hr class="blog-rule" />
 
-## CHƯƠNG III - THÍCH, ĐẠO BIỆN LUẬN LẼ THIỆT HƠN [🔗](/books/ZenTreasures/kho-bau-nha-thien-c3)
+## CHƯƠNG III - THÍCH, ĐẠO BIỆN LUẬN LẼ THIỆT HƠN 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c3)
 
 ❓ Giáo lý của tôi vào giáo lý của Đạo Phật đại khái chẳng đồng nhau.
 
@@ -200,51 +206,86 @@ Sư hỏi: Thế nào là ly cung tập định, thế nào là thuỷ phủ c�
 
 Đạo sĩ đáp: Ly cung tập định là ngưng tâm chẳng động để giữ thần. Thuỷ phủ cầu huyền là luyện tinh hoá khí để được hình thể kiên cố (cố hình). Hình và thần đều diệu thì cùng với Đạo hợp lẽ chơn.
 
-Sư nói: Đạo Phật chỉ tu một bên, chẳng luyện tinh hoá khí để được hình thể kiên cố hầu giữ mạng. Ông lại chẳng biết “Ly cung tập định” và “tâm tức tương y” (tâm và hơi thở nương nhau) là pháp của hàng Nhị thừa. Luyện tinh nơi thuỷ phủ hoá khí đi ngược trở lên, thông với huyền quan được hình thể kiên cố. Đó là thuật để kéo dài tuổi thọ.
+Sư nói: Đạo Phật chỉ tu một bên, chẳng luyện tinh hoá khí để được hình thể kiên cố hầu giữ mạng. 
+Ông lại chẳng biết “Ly cung tập định” và “tâm tức tương y” (tâm và hơi thở nương nhau) là pháp của hàng Nhị thừa. Luyện tinh nơi thuỷ phủ hoá khí đi ngược trở lên, thông với huyền quan được hình thể kiên cố. 
 
-Phật giáo thượng thừa khi đốn ngộ tâm tánh, thấy sơn hà đại địa, vạn vật, thân tâm đều là hình bóng hư huyễn ở trong Tánh, nên không cớ gì nương huyễn mà tu bóng. Như vậy há chẳng lầm to ư? Người xưa nói: “Bậc tiên còn trước nơi hình thần, nên chẳng thể xả bỏ”. Hơn nữa hình thần là những vọng tưởng từ chơn tánh hiển hiện ra, chẳng phải chơn thật. Khá cười cho Đạo giáo, những bậc cao nhơn xua nay chẳng ngộ được chánh giác lầm hiểu cho là chí lý, mê vọng dùng “tâm tức tương y” cho là tu Tánh. Luyện tinh hoá khí để được hình thể kiên cố cho là tu Mạng. Tất cả là để được hình thân đều diệu. Như vậy cùng với bản tánh quá xa vời!
+Đó là thuật để kéo dài tuổi thọ.
+
+Phật giáo thượng thừa khi đốn ngộ tâm tánh, thấy sơn hà đại địa, vạn vật, thân tâm đều là hình bóng hư huyễn ở trong Tánh, nên không cớ gì nương huyễn mà tu bóng. 
+Như vậy há chẳng lầm to ư? Người xưa nói: “Bậc tiên còn trước nơi hình thần, nên chẳng thể xả bỏ”. Hơn nữa hình thần là những vọng tưởng từ chơn tánh hiển hiện ra, chẳng phải chơn thật.
+
+Khá cười cho Đạo giáo, những bậc cao nhơn xua nay chẳng ngộ được chánh giác lầm hiểu cho là chí lý, mê vọng dùng “tâm tức tương y” cho là tu Tánh. 
+Luyện tinh hoá khí để được hình thể kiên cố cho là tu Mạng. Tất cả là để được hình thân đều diệu. Như vậy cùng với bản tánh quá xa vời!
 
 Đạo sĩ nói: Bọn môn đồ của âm ma, không thể song tu mà trở lại vọng báng Đạo tôi là Nhị thừa. Ông phải biện cho rõ tâm tôi mới phục.
 
-Sư nói: Người học đạo Tiên khởi đầu từ chúng sanh, tuy biết sanh tử là việc quá khổ, nhưng chẳng ngộ được đạo lý Nhất thừa tối thượng. Lầm chấp bề trong của sắc thân, vọng lấy tâm thịt bên trong, cho là có một thần tánh gọi là chơn hông, tên khác là xá nữ. Ngưng thần chẳng động làm như vậy là “ly cung tập định”. Tinh khí trong thân gọi là chơn công, tên khác là anh nhi. Luyện tinh hoá khí, làm như vậy gọi là “thuỷ phủ cầu huyền”. Cái ý là chơn thổ, lại gọi là hoàng bà. Như phương pháp tập định, cần phải nghiêng về tịnh toạ: dùng ý điều tức (hơi thở), nhiếp thân chẳng cho động, làm như vậy gọi là Phục hổ. Ngưng thần hợp với khí, tâm định chẳng động, làm như vậy gọi là Hàng long. Thân tâm ý hợp là trở về thổ phủ, lặng yên chẳng động gọi là tu tánh.
+Sư nói: Người học đạo Tiên khởi đầu từ chúng sanh, tuy biết sanh tử là việc quá khổ, nhưng chẳng ngộ được đạo lý Nhất thừa tối thượng. 
+Lầm chấp bề trong của sắc thân, vọng lấy tâm thịt bên trong, cho là có một thần tánh gọi là chơn hông, tên khác là xá nữ. Ngưng thần chẳng động làm như vậy là “ly cung tập định”. 
 
-Trương Tử Dương nói: “Chơn thổ giữ chơn công, chơn công chế chơn hống. Công Hống qui thổ phủ, thân tâm lặng yên chẳng động”. Đạo gia nhận đấy là “tâm tức tương y” dối bảo Đaọ Phật là thiên tu (tu một bên). Há chẳng hiểu lầm về chi lý tối thượng ư?
+Tinh khí trong thân gọi là chơn công, tên khác là anh nhi. Luyện tinh hoá khí, làm như vậy gọi là “thuỷ phủ cầu huyền”. 
+Cái ý là chơn thổ, lại gọi là hoàng bà. Như phương pháp tập định, cần phải nghiêng về tịnh toạ: dùng ý điều tức (hơi thở), nhiếp thân chẳng cho động, làm như vậy gọi là Phục hổ. 
 
-Đâu không biết rằng mỗi người vốn có đủ một tâm tánh rộng lớn, bao trùm cả thái hư, chẳng có chẳng không, cũng chẳng bên trong bên ngoài. Vốn tự bất động chẳng cần tập định. Vô cớ lại đem cái huyễn thức trong thân, rồi dùng huyễn ngưng huyễn gọi là tu tánh. Thật là kẻ nhận giặc làm con, mà cho là “chơn tánh bổn cụ”. Tóm lại, như vậy nếu tu thành công, chẳng lìa Dục giới, một mai định lực hết trở lại đoạ xuống hạ giới!
+Ngưng thần hợp với khí, tâm định chẳng động, làm như vậy gọi là Hàng long. Thân tâm ý hợp là trở về thổ phủ, lặng yên chẳng động gọi là tu tánh.
 
-❓ ❓ “Ly cung tập định”. Sư đã nói, xin bàn luôn về “thuỷ phủ cầu huyền”?
+Trương Tử Dương nói: “Chơn thổ giữ chơn công, chơn công chế chơn hống. Công Hống qui thổ phủ, thân tâm lặng yên chẳng động”. 
+Đạo gia nhận đấy là “tâm tức tương y” dối bảo Đaọ Phật là thiên tu (tu một bên). Há chẳng hiểu lầm về chi lý tối thượng ư?
 
-📣📣📣 📣📣📣 Thủy phủ cầu huyền: Tiết ngữ tinh khí, trong suốt 12 giờ, phản chiếu nơi rún trong một tấc 3 phân, gọi là khí hải. Chỉ giữ mà chẳng cho dính mắc, chỉ chiếu mà chẳng trụ. Thân tâm định lâu, cung Khảm và cung Ly đều giao nhau, tâm hỏa giáng xuống, thận thủy bay lên, tinh đầy khí tròn, lúc ấy trong nội thân như lửa, cuối giờ Hợi đầu giờ Tý khí động nơi vĩ lư, bèn dùng ý hút đưa vào trong giáp tích, thẳng qua ngọc chẩm, trên đến thiên cốc, trở lại hóa thành kim dịch, mùi vị thơm ngọt, nuốt xuống trùng lâu, rơi nơi huỳnh đình, gọi là “Càn khôn giao cấu” xong. Một điểm rơi vào huỳnh đình, từ đây điều hòa thông suốt, tứ chi khoan khoái, ttất cả hơi thở đều chảy khắp, tươi nhuận tạng phủ, mặt trở lại tươi trẻ như bé thơ, tuổi thọ dài lâu. Cổ Tiên xưa có kệ rằng:
+Đâu không biết rằng mỗi người vốn có đủ một tâm tánh rộng lớn, bao trùm cả thái hư, chẳng có chẳng không, cũng chẳng bên trong bên ngoài. 
+Vốn tự bất động chẳng cần tập định. Vô cớ lại đem cái huyễn thức trong thân, rồi dùng huyễn ngưng huyễn gọi là tu tánh. Thật là kẻ nhận giặc làm con, mà cho là “chơn tánh bổn cụ”. 
 
-> Pháp thủy năng triền hữu bi quan
->
-> Tiêu diêu nhật dạ khiển luân hoàn
->
-> Vu trung ủng trệ sanh chư bệnh
->
-> Tài quyết thông lưu tiện trú nhan.
+Tóm lại, như vậy nếu tu thành công, chẳng lìa Dục giới, một mai định lực hết trở lại đoạ xuống hạ giới!
+
+❓❓❓ Hỏi:
+
+“Ly cung tập định”. Sư đã nói, xin bàn luôn về “thuỷ phủ cầu huyền”?
+
+📣📣📣 Đáp:
+
+Thủy phủ cầu huyền: Tiết ngữ tinh khí, trong suốt 12 giờ, phản chiếu nơi rún trong một tấc 3 phân, gọi là khí hải. Chỉ giữ mà chẳng cho dính mắc, chỉ chiếu mà chẳng trụ. 
+
+Thân tâm định lâu, cung Khảm và cung Ly đều giao nhau, tâm hỏa giáng xuống, thận thủy bay lên, tinh đầy khí tròn, lúc ấy trong nội thân như lửa, cuối giờ Hợi đầu giờ Tý khí động nơi vĩ lư, bèn dùng ý hút đưa vào trong giáp tích, thẳng qua ngọc chẩm, trên đến thiên cốc, trở lại hóa thành kim dịch, mùi vị thơm ngọt, nuốt xuống trùng lâu, rơi nơi huỳnh đình, gọi là “Càn khôn giao cấu” xong. Một điểm rơi vào huỳnh đình, từ đây điều hòa thông suốt, tứ chi khoan khoái, ttất cả hơi thở đều chảy khắp, tươi nhuận tạng phủ, mặt trở lại tươi trẻ như bé thơ, tuổi thọ dài lâu. Cổ Tiên xưa có kệ rằng:
+
+<blockquote> 
+
+Pháp thủy năng triền hữu bi quan
+
+Tiêu diêu nhật dạ khiển luân hoàn
+
+Vu trung ủng trệ sanh chư bệnh
+
+Tài quyết thông lưu tiện trú nhan.
+</blockquote>
 
 DỊCH:
 
-> Tự cửa màu nước pháp thường dâng
->
-> Suốt ngày nhàn nhã khiến xoay vần
->
-> Bên trong ngăn trệ muôn ngàn bệnh
->
-> Vừa khơi chảy suốt mặt mày hàn.
+<blockquote> 
+
+Tự cửa màu nước pháp thường dâng
+
+Suốt ngày nhàn nhã khiến xoay vần
+
+Bên trong ngăn trệ muôn ngàn bệnh
+
+Vừa khơi chảy suốt mặt mày hàn.
+</blockquote>
 
 Ngô Tiên lại nói:
 
-> Khi qui ngươn hải thọ vô cùng
->
-> Thử thuật vi kim dịch luyện hình.
+<blockquote> 
+
+Khi qui ngươn hải thọ vô cùng
+
+Thử thuật vi kim dịch luyện hình.
+</blockquote>
 
 DỊCH:
 
-> Khi về ngươn hải thọ vô cùng,
->
-> Thuật này là kim dịch luyện hình.
+<blockquote> 
+
+Khi về ngươn hải thọ vô cùng,
+
+Thuật này là kim dịch luyện hình.
+</blockquote>
 
 Tập định là “ngọc phù bảo thần”, hình và thần đều diệu thì với Đạo hợp lý chơn. Một mai công quả đầy đủ, tùy phước sâu cạn, nếu người hành rộng rãi thì tạm ở nơi Bồng đảo, hoặc trụ nơi động thiên, ở đó ba bốn trăm năm, hay hai ba ngàn năm, rồi sanh trở lại nhơn gian, tích chứa công hạnh, bồi dưỡng phước huệ, một ngày nào đó công quả sâu dày, Thượng đế đến gọi, tùy hàng sắp chỗ đứng, Tiên quan chẳng đồng. Nếu y đây mà tu thì đồng như trong Đạo Phật, đại khái như ở Trịnh châu vọng cầu cửa Tào, xa càng xa vậy.
 
@@ -501,7 +542,9 @@ Thật là lời nói không có lập trường vững, người nghe không kh
 
 <hr class="blog-rule" />
 
-## CHƯƠNG IV - ĐỐN NGỘ TU CHỨNG [🔗](/books/ZenTreasures/kho-bau-nha-thien-c4)
+## CHƯƠNG IV - ĐỐN NGỘ TU CHỨNG 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c4)
 
 Tăng hỏi: Thế nào là Tông?
 
@@ -753,7 +796,9 @@ Thượng Thơ Ôn Tháo hỏi ngài Khuê Phong rằng: “Người ngộ lý m
 
 <hr class="blog-rule" />
 
-## CHƯƠNG V - GIÁO THỪA SAI BIỆT [🔗](/books/ZenTreasures/kho-bau-nha-thien-c5)
+## CHƯƠNG V - GIÁO THỪA SAI BIỆT 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c5)
 
 ❓ Ở trên ngài đã khai thị một cách rộng rãi về pháp môn Đốn ngộ, kẻ học muộn nầy thấy đã quá rõ ràng. Nhưng còn vài điểm sai biệt trong giáo lý xin ngài nhỏ nhặt khai thị trở lại cho.
 
@@ -1063,7 +1108,9 @@ Nếu mê muội thì thức thứ tám khởi lên cái tên là báo tàng. Th
 
 <hr class="blog-rule" />
 
-## CHƯƠNG VII - 5 TÔNG PHÁI THIỀN [🔗](/books/ZenTreasures/kho-bau-nha-thien-c7)
+## CHƯƠNG VII - 5 TÔNG PHÁI THIỀN 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c7)
 
 Tăng hỏi: Ngài Đạt Ma từ Ấn sang “chỉ thẳng nhứt tâm”. Do đâu từ đời Lục Tổ về sau lại chia làm năm phái? Mỗi nhà riêng lập môn đình và bày ra những tướng lạ sai khác nhau?
 
@@ -1803,7 +1850,9 @@ Sư nói thâm: Giáo ngoại biệt truyền, Tông chỉ hướng thượng, q
 
 <hr class="blog-rule" />
 
-## CHƯƠNG VIII -12 MA LÀM LOẠN CHÁNH ĐỊNH [🔗](/books/ZenTreasures/kho-bau-nha-thien-c8)
+## CHƯƠNG VIII -12 MA LÀM LOẠN CHÁNH ĐỊNH 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c8)
 
 Sư nói: Ngộ đạo tu thiền chẳng phải là việc nhỏ. Những loại ma trong, ma ngoài làm não loạn chánh định, một chút không chủ tể, liền tham trước cảnh ái, do cảnh kích động mà rơi vào lưới ma. Vốn là nhơn lành mà trở lại phải chuốc quả ác. Kẻ sơ học đời sau hãy cẩn thận và đề phòng vậy.
 
@@ -1855,7 +1904,9 @@ Phiền thì đuổi theo ngoại cảnh, não thì sanh ở nội tâm. Ngườ
 
 <hr class="blog-rule" />
 
-## CHƯƠNG IX - DẪN CHỨNG LỜI KINH [🔗](/books/ZenTreasures/kho-bau-nha-thien-c9)
+## CHƯƠNG IX - DẪN CHỨNG LỜI KINH 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c9)
 
 Muôn pháp về tâm hỏi đáp rõ ràng.
 Bậc thượng căn vừa xem qua liền ngộ bản tâm, kẻ trung hạ căn ngu độn nghi ngờ bài báng chẳng tin, nên dẫn lời kinh của Phật để chứng minh hầu đoạn trừ những nghi hoặc, tin một cách thành thật chẳng lầm.
@@ -2141,7 +2192,9 @@ Nay thuật lời trong kinh Phật và lời của Tổ sư để ấn chứng 
 
 <hr class="blog-rule" />
 
-## CHƯƠNG X - KHUYÊN IN BỐ THÍ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c10)
+## CHƯƠNG X - KHUYÊN IN BỐ THÍ 
+
+➥ [🔗](/books/ZenTreasures/kho-bau-nha-thien-c10)
 
 Sự phu diễn chánh pháp công đức vượt hơn hằng sa. Lưu truyền chí lý, phúc lợi hơn hư không lớn. Hằng sa vô số, hư không lớn vô ngần. Việc lợi sanh thí pháp công đức vượt hơn hai thí dụ nầy - Cớ sao công đức vô lượng như vậy? - Một là làm cho người chưa tin trở thành chánh tín, nhiếp về một niệm chẳng dong ruổi tìm cầu bên ngoài. Hai là khiến người đã tin giúp thành quán lực, lý và hạnh kiên cố, mau chứng bồ đề, giống như đi xe rộng lớn. Dựng lập Bảo Phường (tàng kinh các). Như đi thuyền chắc chắn đến bờ giác.
 
@@ -2208,4 +2261,12 @@ Chùa Phổ Độ, Thừa công (ông Thừa) (16) nhơn tham thiền ngộ đ�
 
 <hr class="blog-rule" />
 
-> Bài gốc: https://quangduc.com/a32603/van-phap-qui-tam-luc
+## NGUỒN
+
+🔗 <a href="https://quangduc.com/a32603/van-phap-qui-tam-luc" target="_blank"> quangduc.com </a>
+
+<hr class="blog-rule" />
+
+## GHI CHÚ
+
+[^1]: 📝

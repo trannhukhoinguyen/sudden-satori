@@ -16,7 +16,7 @@ videoStart: 1071
 
 ## MỤC LỤC  
 
-[🔗](/sutras/kinh-lang-gia-gioi-thieu-va-muc-luc)
+➥ [🔗](/sutras/kinh-lang-gia-gioi-thieu-va-muc-luc)
 
 <hr class="blog-rule" />
 

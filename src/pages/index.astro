@@ -8,11 +8,12 @@ import { CONTENT_MAP } from "@/utils/getMarkdownContent";
 import { toKebabCase } from "@/utils/helper";
 import Hero from "../components/ui/Hero.astro";
 import BioWithImage from "../components/ui/BioWithImage.astro";
-import HTTDL from "../components/special/HTTDL.astro";
+import HtmlBlocks from "../components/ui/HtmlBlocks.astro";
+import HTTDL from "../components/htmlData/HTTDL.astro";
+import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANCE.astro";
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
 import RetreatSlider from '@/components/ui/RetreatSlider.astro';
-import { retreatSliderEvents } from '@/data/retreat-events';
 
 const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
@@ -67,8 +68,11 @@ const description = "Xem " + title;
 >
   <div class="landing-page">
 
-    <!-- Slider Section -->
-    <!--<RetreatSlider events={retreatSliderEvents} />-->
+    <!-- Upcoming Events Slider -->
+    <RetreatSlider />
+
+    <!-- Cyclical Events Slider -->
+    <!--<RetreatSlider events={cyclicalEvents} />-->
 
     <!-- Hero Section -->
     <Hero
@@ -109,9 +113,14 @@ const description = "Xem " + title;
       <HTTDL />
     </BioWithImage>
 
+    <!-- HtmlBlocks Section -->
+    <HtmlBlocks>
+      <LANKA_SUTRA_IMPORTANCE />
+    </HtmlBlocks>
+
     <!-- Hero Section -->
     <InstallPWA />
-    <!--<PWAPopup />-->
+    <PWAPopup />
 
     <!-- Rule Section -->
     <section class="rules" id="rules">

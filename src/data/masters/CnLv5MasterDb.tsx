@@ -609,7 +609,7 @@ const CnLv5MasterDb = [
     epoch: '',
     sect: ['Niutou (Oxhead)'],
     country: '🇨🇳',
-    place: 'Ngô Trung → vùng trung tâm đất Ngô, thuộc Giang Tô – Chiết Giang thời Đường',
+    place: 'Ngô Trung → vùng trung tâm đất Ngô, thuộc Giang Tô - Chiết Giang thời Đường',
     teachers: ['Helin Xuansu'],
     successors: [''],
     disciples: [''],
