@@ -323,15 +323,15 @@ Nếu có tâm hiếu thuận như thế, thì trên dưới hòa kính và cha 
 
 Đây là đạo hiếu kính tốt đẹp ở thế gian, cũng đâu có khác lẽ trời? Nếu lại thêm trì trai, giữ giới, niệm Phật, tham thiền, cầu pháp Đại thừa để liễu sinh thoát tử, thì thật là đại hiếu, đại thiện, thuộc về đạo xuất thế gian. Bốn ân đã báo 📢, ba cõi đã cứu giúp thì lo gì không báo 📢 công ơn cha mẹ một đời sao? Dưới đây giải thích năm giới phối hợp với năm thường. (Ngũ thường của Nho giáo)
 
-1️⃣. Không sát sinh nên gọi là nhân
+①. Không sát sinh nên gọi là nhân
 
-2️⃣. Không trộm cắp nên gọi là nghĩa
+②. Không trộm cắp nên gọi là nghĩa
 
-3️⃣. Không tà dâm nên gọi là lễ
+③. Không tà dâm nên gọi là lễ
 
-4️⃣. Không uống rượu nên gọi là trí
+④. Không uống rượu nên gọi là trí
 
-5️⃣. Không vọng ngữ nên gọi là tín.
+⑤. Không vọng ngữ nên gọi là tín.
 
 Bốn chúng đã muốn niệm Phật, tham thiền, nên kiên trì giữ gìn năm giới này. Về giới tà dâm, trong giáo lý của Đức Phật cho rằng hai chúng tại gia không thể giữ gìn trọn vẹn, nên chỉ nói giới tà dâm, để tùy thuận tu hành. Kinh Lăng-nghiêmghi: “Người đời không cầu xuất gia, không thể xả bỏ ân ái đối với thê thiếp, nhưng tâm không nên khởi tà dâm. Nếu tâm lặng trong sáng tỏ, khi mạng chung được sinh về cõi trời Tứ Thiên Vương. Nếu có thể giữ gìn trọn vẹn, không phạm, tinh tấn niệm Phật, khi lâm chung chắc chắn sẽ hóa sinh trong hoa sen ở cõi Cực Lạc, quyết không nghi ngờ”. Giới dâm dục này hai chúng xuất gia không dám trái phạm. Những người xuất gia thoát ly thế tục, đầu tròn áo vuông, nhập thánh siêu phàm, gọi là Tăng bảo. Nói là “bảo”, bởi vì như châu ma-ni trong sáng, khiến người thấy thì mắt thanh tịnh, nghe thì tai thanh tịnh, nói đến thì lưỡi thanh tịnh, chạm đến thì thân thanh tịnh, còn gọi là Phúc· điền tăng. Nếu có người tán thán, cúng dường thì được phúc· báu vô lượng. Thí như một hạt giống gieo xuống ruộng tốt, thì thu hoạch vạn hạt, cho nên Tăng bảo là ruộng phúc tốt cho chúng sinh. Do đó, người xuất gia, khởi tâm động niệm liền gọi là phá giới, kể cả giới tà dâm.
 
@@ -530,13 +530,16 @@ Sư nói: **Nếu người nào lãnh hội ba câu này thì đã phân biệt 
 
 Sư tụng kệ:
 
-> Tam huyền Tam yếu thật khó phân
-> 
-> Được ý quên lời đạo dễ gần
-> 
-> Một câu thấu suốt trùm vạn tượng
-> 
-> Tiết trùng dương [^50] đến cúc tươi nhuần
+<blockquote>
+
+Tam huyền Tam yếu thật khó phân
+
+Được ý quên lời đạo dễ gần
+
+Một câu thấu suốt trùm vạn tượng
+
+Tiết trùng dương [^50] đến cúc tươi nhuần
+</blockquote>
 
 **Lãnh hội chăng? Nếu lãnh hội được thì không phải là nạp tăng nóng tính. Còn về nhân duyên Tam huyền, Ông lãnh hội được chăng?
 Chỉ cần lãnh hội được ý chỉ của người xưa thì tự tâm sáng tỏ, lại được biến thông cùng khắp, 
@@ -552,29 +555,38 @@ Lại nói: Nếu muốn tỏ ngộ việc này, chỉ cần đạt chỉ thú T
 
 Bậc đại trượng phu chớ tự cô phụ, gặp việc không thông, không ích lợi gì cho người. Ta nói cho ông và mọi người nghe:
 
-1️⃣ **Huyền thứ I**
+① **Huyền thứ I**
 
-> Pháp giới rộng vô biên,
->
-> Sum la và vạn tượng
->
-> Đều hiện đủ trong gương.
+<blockquote>
 
-2️⃣ **Huyền thứ II**
+Pháp giới rộng vô biên,
 
-> Thích-ca ❓ A-nan,
->
-> A-nan theo việc 📢,
->
-> Bình bát thể vuông tròn.
+Sum la và vạn tượng
 
-3️⃣ **Huyền thứ III**
+Đều hiện đủ trong gương.
+</blockquote>
 
-> Chỉ hiện trước vua xưa,
->
-> Ngoài tứ cú bách phi [^53],
->
-> Lư Thị [^54] ❓ Phong Can [^55].
+② **Huyền thứ II**
+
+<blockquote>
+
+Thích-ca ❓ A-nan,
+
+A-nan theo việc 📢,
+
+Bình bát thể vuông tròn.
+</blockquote>
+
+③ **Huyền thứ III**
+
+<blockquote>
+
+Chỉ hiện trước vua xưa,
+
+Ngoài tứ cú bách phi [^53],
+
+Lư Thị [^54] ❓ Phong Can [^55].
+</blockquote>
 
 Sư nói: “Đây là bài tụng về Tam huyền. Còn thế nào là ý thú Tam huyền? Dầu cho ông phân biệt rõ ràng đi nữa, cùng chỉ hiểu một cách sai lầm, không căn cứ. Ta từng gần gũi hòa thượng và đã nghe dạy: “Ví như dùng lời hư dối, lừa gạt người khác, có ngày ăn gậy sắt, chớ bảo rằng ta không nói trước”.
 
@@ -588,13 +600,16 @@ Vị Tăng ❓ Lâm Tế: “Có chủ, có khách không?” 📣📣📣: “C
 
 Sư làm kệ rằng:
 
-> Hai vị Thủ tọa đều tác gia
+<blockquote>
+
+Hai vị Thủ tọa đều tác gia
 
 Trong đây đạo lý có phân ra.
 
 Chủ khách rõ ràng như gương sáng
 
 Tông sư mắt nhặm thấy không hoa [^56]
+</blockquote>
 
 Cư sĩ Vô Tận nói với tôi rằng: “Phần Dương [^57] là đích tôn năm đời của Lâm Tế, người học trong thiên hạ đều tôn sùng, xem đề cương thì rất sâu rộng, nhưng chỉ bàn về Tam huyền, Tam yếu. Ngày nay pháp phái này đều cho Tam huyền, Tam yếu là lời lập ra cho một giai đoạn, không có ích cho đạo, nhưng đối với các pháp không sinh dị kiến.
 
@@ -633,13 +648,16 @@ Thế nào là Thập trí đồng chân? Ta nêu ra cho các thượng tọa [^
 
 Ngày nay, hầu hết các tùng lâm đều sợ pháp môn này, không muốn nghe. Vì sao phải nói đến? Chư phương [^64] chỉ thích những kiến giải bình thường, chấp chặt vào đó, không chịu buông, chỉ muốn truyền trao mà không tin có liễu ngộ. Giá như ngài Phần Dương sống lại, đích thân phân tích thì họ cũng cho là sai. Thuở xưa, ngài A-nan kinh hành vào ban đêm, nghe đồng tử tụng bài kệ:
 
-> Nếu người sống trăm tuổi
->
-> Không thấy được con hạc
->
-> Chẳng bằng sống một ngày
->
-> Mà được thấy con hạc.
+<blockquote>
+
+Nếu người sống trăm tuổi
+
+Không thấy được con hạc
+
+Chẳng bằng sống một ngày
+
+Mà được thấy con hạc
+</blockquote>
 
 A-nan liền dạy đồng tử nên đọc là: Thấy rõ Phật pháp chớ chẳng phải thấy được con hạc. Đồng tử trở về thưa với thầy của mình.
 
@@ -648,13 +666,16 @@ Nói chỉ thú Tam huyền, Thập trí cho người học bây giờ thì khá
 
 Khi ấy, cư sĩ Vô Tận than rằng: “Như vậy, chỉ thú này há chẳng phải là phương tiện sao?”. Ta liền làm kệ:
 
-> Thập trí đồng chân toàn diện mục
->
-> Trong đó nhất trí là cội nguồn
->
-> Nếu như thấy được Phần Dương lão
->
-> Bổ tách Tam huyền trở thành hai.
+<blockquote>
+
+Thập trí đồng chân toàn diện mục
+
+Trong đó nhất trí là cội nguồn
+
+Nếu như thấy được Phần Dương lão
+
+Bổ tách Tam huyền trở thành hai
+</blockquote>
 
 Lại ❓: “Bốn tân chủ [^65] cũng là pháp môn do Lâm Tế kiến lập ư?”
 
@@ -698,6 +719,8 @@ Lại ❓: Chủ khách gặp nhau có lời gì?
 
 Giới đảnh lễ xin y chỉ. Lão tăng cười và nói:
 
+<blockquote>
+
 Xưa nay an trú mái ba gian
 
 Một đạo thần quang [^68] muôn cảnh nhàn
@@ -705,6 +728,7 @@ Một đạo thần quang [^68] muôn cảnh nhàn
 Chớ đem thị phi cùng ta nói
 
 Thế gian đàm luận chẳng tương quan.
+</blockquote>
 
 Ngay đó, Am chủ đốt am rồi đi vào trong núi sâu. Về sau Lương Giới trụ ở núi này.
 
@@ -740,15 +764,20 @@ Cả hai ở lại một ngày rồi cùng nhau đến Sơ Sơn [^74], dùng cơ
 
 Thượng Lam lấy tay vẽ lên bàn và nói với tôi rằng: “Trên gáy kinh nhất định ghi chữ dĩ (以), là nghĩa gì?”.
 
-Tôi liền vẽ một vòng tròn và gạch ngang rồi nói: “Là nghĩa này”. Thượng Lam ngạc nhiên. Tôi làm bài kệ:
+Tôi liền vẽ một vòng tròn và gạch ngang rồi nói: “Là nghĩa này”. 
+Thượng Lam ngạc nhiên. 
+Tôi làm bài kệ:
 
-_ Chữ dĩ (以) không thành, bát (八)· cũng sai [^75]
+<blockquote>
+
+Chữ dĩ (以) không thành, bát (八)· cũng sai [^75]
 
 Pháp thân say ngủ, chẳng che ngăn
 
 Nạp tăng đối diện tên không biết
 
 Trăm người trước mắt gọi chẳng hay
+</blockquote>
 
 Thượng Lam trở về thuật lại cho Thế Anh, Thế Anh vỗ tay nói: “Ai là thi tăng [^76] cũng có thể biết nghĩa của từ ngữ ư ?”.
 
@@ -800,7 +829,7 @@ Tôi sống ở đời đã trải qua nhiều gian khổ, đó là do nghiệp 
 
 Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để truyền trao cho người hầu diệt nghiệp chướng đời trước của mình, chứ chẳng phải cầu việc khác.
 
-> (**HẾT**)
+[**HẾT**]
 
 > (Ban Dịch Thuật Hán Tạng Pháp Âm)
 
@@ -808,9 +837,9 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 ## NGUỒN
 
-🔗 <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank">thuvienhoasen</a>
+🔗 <a href="https://thuvienhoasen.org/a16369/thien-tong-quyet-nghi-tap" target="_blank"> thuvienhoasen </a>
 
-🔗 <a href="https://tangthuphathoc.net/thien-tong-quyet-nghi-tap/" target="_blank">tangthuphathoc.net</a>
+🔗 <a href="https://tangthuphathoc.net/thien-tong-quyet-nghi-tap/" target="_blank"> tangthuphathoc.net </a>
 
 <hr class="blog-rule" />
 
@@ -818,13 +847,13 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 [^1]: 📝 **Tây Thục**: tỉnh Tứ Xuyên, Trung Quốc.
 
-[^2]: 📝 **Ngũ dục**: 5 thứ ham muốn. ⚠️ Ngũ dục còn gọi là ngũ diệu dục, diệu ngũ dục, ngũ diệu sắc: 5 thứ ham muốn sinh ra từ sự nhiễm trước 5 trần cảnh: **sắc, thanh, hương, vị, xúc**, tức là: 1️⃣. **Sắc**: ham muốn sắc đẹp của thế gian. 2️⃣. **Thinh**: ham muốn âm thanh. 3️⃣. **Hương**: ham muốn· mùi hương thơm. 4️⃣. **Vị**: ham muốn những thức ăn ngon. 5️⃣. **Xúc**: ham muốn sự xúc chạm. Trái với ngũ dục thô ở cõi Dục này là 5 dục của cõi Sắc và Vô Sắc, được gọi là thanh khiết ngũ dục (5 dục trong sạch). [Theo kinh Phật di giáo, luận Đại trí độ 17, 37; Ma-ha chỉ quán 4, phần cuối]. ⚠️ Ngũ dục: tài dục, sắc dục, ẩm thực dục, danh dục và thùy miên dục. 1️⃣. **Tài**: ham muốn của cải. 2️⃣. **Sắc**: ham muốn sắc đẹp thế gian. 3️⃣. **Ẩm thực**: ham muốn sự ăn uống. 4️⃣. **Danh**: ham muốn tiếng tăm. 5️⃣. **Thụy miên**: ham muốn sự ngủ nghỉ. [Theo: Hoa nghiêm kinh tùy sở diễn nghĩa sao 27, Đại Minh tam tạng pháp số 24. (Theo TĐPHHQ, tập 3, tr. 2948)]
+[^2]: 📝 **Ngũ dục**: 5 thứ ham muốn. ⚠️ Ngũ dục còn gọi là ngũ diệu dục, diệu ngũ dục, ngũ diệu sắc: 5 thứ ham muốn sinh ra từ sự nhiễm trước 5 trần cảnh: **sắc, thanh, hương, vị, xúc**, tức là: ①. **Sắc**: ham muốn sắc đẹp của thế gian. ②. **Thinh**: ham muốn âm thanh. ③. **Hương**: ham muốn· mùi hương thơm. ④. **Vị**: ham muốn những thức ăn ngon. ⑤. **Xúc**: ham muốn sự xúc chạm. Trái với ngũ dục thô ở cõi Dục này là 5 dục của cõi Sắc và Vô Sắc, được gọi là thanh khiết ngũ dục (5 dục trong sạch). [Theo kinh Phật di giáo, luận Đại trí độ 17, 37; Ma-ha chỉ quán 4, phần cuối]. ⚠️ Ngũ dục: tài dục, sắc dục, ẩm thực dục, danh dục và thùy miên dục. ①. **Tài**: ham muốn của cải. ②. **Sắc**: ham muốn sắc đẹp thế gian. ③. **Ẩm thực**: ham muốn sự ăn uống. ④. **Danh**: ham muốn tiếng tăm. ⑤. **Thụy miên**: ham muốn sự ngủ nghỉ. [Theo: Hoa nghiêm kinh tùy sở diễn nghĩa sao 27, Đại Minh tam tạng pháp số 24. (Theo TĐPHHQ, tập 3, tr. 2948)]
 
 [^3]: 📝 **Hòa thượng Vân Phong** (1219-1293): pháp hiệu của thiền sư Diệu Cao thuộc phái Đại Huệ, tông Lâm Tế, sống vào đời Nguyên, quê ở Trường Lạc, Phúc Châu. Sư là đệ tử nối pháp của Yển Khê Quảng Văn ở chùa Tịnh Từ, núi Kính Sơn, Hàng Châu. (Theo TĐPHHH, tập 2, tr. 1099)
 
-[^4]: 📝 **Địa ngục Vô Gián**: địa ngục thứ tám trong tám địa ngục nóng, nằm dưới lòng đất Nam Thiệm-bộ châu, cách· mặt đất 20.000 do-tuần, sâu rộng cũng 20.000 do-tuần. Hễ người nào phạm một trong năm tội nghịch thì khi chết phải đọa vào địa ngục này. Vô gián có 5 nghĩa: 1️⃣. **Thú quả vô gián**: sau khi mạng chung thì đọa thẳng vào mà không qua thân trung ấm. 2️⃣. **Thụ khổ vô gián**: thụ khổ liên tục. 3️⃣. **Thời vô gián**: trong thời gian một kiếp tương tục không gián đoạn. 4️⃣. **Mạng vô gián**: thọ mạng không gián đoạn trong một kiếp . 5️⃣. **Thân hình vô gián**: thân hình người tội đầy chật trong ngục, không có khoảng cách. (Theo TĐPHHH, tập 7, tr. 6076)
+[^4]: 📝 **Địa ngục Vô Gián**: địa ngục thứ tám trong tám địa ngục nóng, nằm dưới lòng đất Nam Thiệm-bộ châu, cách· mặt đất 20.000 do-tuần, sâu rộng cũng 20.000 do-tuần. Hễ người nào phạm một trong năm tội nghịch thì khi chết phải đọa vào địa ngục này. Vô gián có 5 nghĩa: ①. **Thú quả vô gián**: sau khi mạng chung thì đọa thẳng vào mà không qua thân trung ấm. ②. **Thụ khổ vô gián**: thụ khổ liên tục. ③. **Thời vô gián**: trong thời gian một kiếp tương tục không gián đoạn. ④. **Mạng vô gián**: thọ mạng không gián đoạn trong một kiếp . ⑤. **Thân hình vô gián**: thân hình người tội đầy chật trong ngục, không có khoảng cách. (Theo TĐPHHH, tập 7, tr. 6076)
 
-[^5]: 📝 **4 ân**: gồm nhiều nghĩa: 1️⃣. Ân mẹ, cha, Như Lai, pháp sư thuyết pháp. (Theo kinh Chính pháp niệm). 2️⃣. Ân cha mẹ, chúng sinh, quốc vương, Tam bảo. (Theo kinh Đại thừa bản sinh tâm địa quán 2). 3️⃣. Ân sư trưởng, cha mẹ, quốc vương, thí chủ. 4️⃣. Ân thiên hạ, quốc vương, tôn sư, cha mẹ. (Theo TĐPHHQ, tập 7,· tr. 4705).
+[^5]: 📝 **4 ân**: gồm nhiều nghĩa: ①. Ân mẹ, cha, Như Lai, pháp sư thuyết pháp. (Theo kinh Chính pháp niệm). ②. Ân cha mẹ, chúng sinh, quốc vương, Tam bảo. (Theo kinh Đại thừa bản sinh tâm địa quán 2). ③. Ân sư trưởng, cha mẹ, quốc vương, thí chủ. ④. Ân thiên hạ, quốc vương, tôn sư, cha mẹ. (Theo TĐPHHQ, tập 7,· tr. 4705).
 
 [^6]: 📝 **Bách Gia Chư Tử** là các bậc hiền triết Trung Quốc như· ngài Trang Tử, Liệt Tử, Dương Tử, Mặc Tử, Hàn Phi Tử, Thận Tử, Hoài Nam Tử, Tuân Tử v.v....
 
@@ -834,7 +863,7 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 [^9]: 📝 Hành giả. Còn gọi hành nhân, tu hành nhân, là những người tu hành Phật đạo. Hai mươi lăm hành giả trong kinh Lăng-nghiêm là những vị bồ-tát và a-la-hán, mỗi vị đều có viên thông, tất cả gồm hai mươi lăm viên thông: sáu căn, sáu trần, sáu thức, bảy đại. Trong đó, nhĩ căn viên thông là tối thượng. (Theo TĐPHHQ, tập 7, tr. 6032).
 
-[^10]: 📝 **Khán**: gồm nhiều nghĩa: 1️⃣. **Chuyên tâm xem xét**: nghiên cứu tới lui một cơ ngữ nào đó của cổ nhân. Tiết Chân Như Phương Thiền sư trong NĐHN q.12 ghi: “Thiền sư ·Phương ở viện Chân Như thuộc Chân Châu đến tham học nơi ngài Lang Da, chỉ khán công án “Cây bách”. 2️⃣. **Ra mắt, thăm hỏi**: Minh Giác Ngữ Lục q.2 ghi: “Sư ở Minh Châu, có lần ra mắt học sĩ. Đang ngồi, học sĩ ❓: Ông thương lượng cùng trưởng lão Thanh về công án “Triệu Châu khám phá bà già” quả thật có chỗ khám phá không?” Tiết Động Sơn hòa thượng trong Tổ Đường Tập q.6 ghi: Tăng ❓: “Người chẳng bịnh có ❓ thăm hòa thượng không?”. Sư 📢: “Ta ❓ thăm hắn thì có phần đúng hơn. Hắn nào có ngó ngàng gì đến ta?”. 3️⃣. **Tiếp đãi, khoản đãi**: Tiết Đan Hà hòa thượng trong Tổ Đường tập q.4 ghi: “Sư đến Lạc Kinh để tham vấn quốc sư Huệ Trung. Vừa gặp thị giả, Sư liền ❓: “Hòa thượng có ở nhà không?”. Thị giả 📢 : “Có, nhưng chẳng tiếp khách”. Vân Môn quảng lục q.6 ghi: “Khách đến cần phải tiếp đãi, trộm đến cần phải đuổi đi”. 4️⃣. **Coi sóc, lo liệu**: Tiết Động Sơn hòa thượng trong Tổ Đường tập q.6 ghi: “Nhân có hai vị tăng cùng đi đến Động Sơn. Một người bị bịnh nằm nghỉ ở Niết-bàn đường, người còn lại coi sóc y ta. Một hôm, người bịnh gọi bạn đồng hành, nói: Tôi muốn đi. Khi ấy cả hai cùng ra đi”. 5️⃣. **Coi chừng, đề phòng**: hàm ngữ khí dặn dò, cảnh tỉnh. Tiết Trung Thừa Lô Hàng cư sĩ trong NĐHN q.18 ghi: Cư sĩ Lô Hàng Trung Thừa đang ngồi quanh lò sưởi với ngài Viên Thông. Cư sĩ bảo: “Nhân duyên của các nhà chẳng nhọc đưa ra. Một câu thẳng tắt thỉnh Sư chỉ dạy?”. Sư Thông vái chào và nghiêm giọmg bảo: “Coi chừng lửa”, cư sĩ vội vén áo, chợt đại ngộ. Tiết Khâm Sơn Văn Thúy Thiền Sư trong Liên đăng hội yếu q.22 ghi: “Đồng An không có tâm tốt, cần phải đề phòng mới được”. (Theo TĐTTHV, tr. 343).
+[^10]: 📝 **Khán**: gồm nhiều nghĩa: ①. **Chuyên tâm xem xét**: nghiên cứu tới lui một cơ ngữ nào đó của cổ nhân. Tiết Chân Như Phương Thiền sư trong NĐHN q.12 ghi: “Thiền sư ·Phương ở viện Chân Như thuộc Chân Châu đến tham học nơi ngài Lang Da, chỉ khán công án “Cây bách”. ②. **Ra mắt, thăm hỏi**: Minh Giác Ngữ Lục q.2 ghi: “Sư ở Minh Châu, có lần ra mắt học sĩ. Đang ngồi, học sĩ ❓: Ông thương lượng cùng trưởng lão Thanh về công án “Triệu Châu khám phá bà già” quả thật có chỗ khám phá không?” Tiết Động Sơn hòa thượng trong Tổ Đường Tập q.6 ghi: Tăng ❓: “Người chẳng bịnh có ❓ thăm hòa thượng không?”. Sư 📢: “Ta ❓ thăm hắn thì có phần đúng hơn. Hắn nào có ngó ngàng gì đến ta?”. ③. **Tiếp đãi, khoản đãi**: Tiết Đan Hà hòa thượng trong Tổ Đường tập q.4 ghi: “Sư đến Lạc Kinh để tham vấn quốc sư Huệ Trung. Vừa gặp thị giả, Sư liền ❓: “Hòa thượng có ở nhà không?”. Thị giả 📢 : “Có, nhưng chẳng tiếp khách”. Vân Môn quảng lục q.6 ghi: “Khách đến cần phải tiếp đãi, trộm đến cần phải đuổi đi”. ④. **Coi sóc, lo liệu**: Tiết Động Sơn hòa thượng trong Tổ Đường tập q.6 ghi: “Nhân có hai vị tăng cùng đi đến Động Sơn. Một người bị bịnh nằm nghỉ ở Niết-bàn đường, người còn lại coi sóc y ta. Một hôm, người bịnh gọi bạn đồng hành, nói: Tôi muốn đi. Khi ấy cả hai cùng ra đi”. ⑤. **Coi chừng, đề phòng**: hàm ngữ khí dặn dò, cảnh tỉnh. Tiết Trung Thừa Lô Hàng cư sĩ trong NĐHN q.18 ghi: Cư sĩ Lô Hàng Trung Thừa đang ngồi quanh lò sưởi với ngài Viên Thông. Cư sĩ bảo: “Nhân duyên của các nhà chẳng nhọc đưa ra. Một câu thẳng tắt thỉnh Sư chỉ dạy?”. Sư Thông vái chào và nghiêm giọmg bảo: “Coi chừng lửa”, cư sĩ vội vén áo, chợt đại ngộ. Tiết Khâm Sơn Văn Thúy Thiền Sư trong Liên đăng hội yếu q.22 ghi: “Đồng An không có tâm tốt, cần phải đề phòng mới được”. (Theo TĐTTHV, tr. 343).
 
 [^11]: 📝 **Tứ chúng**: Còn gọi là tứ bối, tứ bộ chúng, tứ bộ đệ tử, bốn chúng: tì-kheo, tì-kheo-ni, ưu-bà-tắc và ưu-bà-di hoặc chỉ cho bốn chúng xuất gia: tì-kheo, tì-kheo-ni, sa-di, sa-di-ni. (Theo TĐPHHQ, tập 5, tr. 4727).
 
@@ -862,9 +891,9 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 [^23]: 📝 **Tứ không thiên**: Tứ Vô sắc, bốn Không xứ của cõi Vô Sắc: Không Vô Biên xứ, Thức Vô Biên xứ, Vô Sở Hữu xứ, Phi Tưởng Phi Phi Tưởng xứ. (Theo TĐPHHQ, tập 5, tr. 4797).
 
-[^24]: 📝 **Bách pháp**: một trăm pháp hữu vi, vô vi theo chủ trương của tông Duy thức. 1️⃣. **Tâm** pháp có 8 pháp. 2️⃣. **Tâm sở hữu** pháp có 51 pháp gồm: _5 biến hành, 5 biệt cảnh, 11 thiện, 6 phiền não, 20 tùy phiền não, 4 bất định_. 3️⃣. **Sắc** pháp có 11 pháp. 4️⃣. **Bất tương ưng hành** pháp có 24 pháp. 5️⃣. **Vô vi** pháp có 6 pháp. (Theo TĐPHHQ, tập 1, tr. 221).
+[^24]: 📝 **Bách pháp**: một trăm pháp hữu vi, vô vi theo chủ trương của tông Duy thức. ①. **Tâm** pháp có 8 pháp. ②. **Tâm sở hữu** pháp có 51 pháp gồm: _5 biến hành, 5 biệt cảnh, 11 thiện, 6 phiền não, 20 tùy phiền não, 4 bất định_. ③. **Sắc** pháp có 11 pháp. ④. **Bất tương ưng hành** pháp có 24 pháp. ⑤. **Vô vi** pháp có 6 pháp. (Theo TĐPHHQ, tập 1, tr. 221).
 
-[^25]: 📝 **Thập huyền**: 10 môn huyền biểu thị tướng của sự sự vô ngại pháp giới, xuất xứ từ bộ Hoa nghiêm kinh tùy sớ diễn nghĩa sao của ngài Trừng Quán. Nếu thông đạt nghĩa này có thể nhập vào biển vi diệu của kinh Hoa nghiêm, nên gọi là Huyền môn; mười môn này làm duyên cho nhau sinh khởi, nên gọi là duyên khởi. Mười môn tương tức tương nhập, tác dụng lẫn nhau mà không chướng ngại, nên gọi là vô ngại. Gồm: 1️⃣. Đồng thời cụ túc tương ưng môn. 2️⃣. Quảng hiệp tự tại vô ngại môn. 3️⃣. Nhất đa tương dung bất đồng môn. 4️⃣. Chư pháp tương tức tự tại môn. 5️⃣. Ẩn mật hiển liễu câu thành môn. 6️⃣. Vi tế tương dung an lập môn. 7️⃣. Nhân-đà-la võng pháp giới môn. 8️⃣. Thác sự hiển pháp sinh giải môn. 9️⃣. Thập thế cách pháp dị thành môn. 🔟. Chủ bạn viên minh cụ đức môn. (Theo TĐPHHQ, tập 6, tr. 5229).
+[^25]: 📝 **Thập huyền**: 10 môn huyền biểu thị tướng của sự sự vô ngại pháp giới, xuất xứ từ bộ Hoa nghiêm kinh tùy sớ diễn nghĩa sao của ngài Trừng Quán. Nếu thông đạt nghĩa này có thể nhập vào biển vi diệu của kinh Hoa nghiêm, nên gọi là Huyền môn; mười môn này làm duyên cho nhau sinh khởi, nên gọi là duyên khởi. Mười môn tương tức tương nhập, tác dụng lẫn nhau mà không chướng ngại, nên gọi là vô ngại. Gồm: ①. Đồng thời cụ túc tương ưng môn. ②. Quảng hiệp tự tại vô ngại môn. ③. Nhất đa tương dung bất đồng môn. ④. Chư pháp tương tức tự tại môn. ⑤. Ẩn mật hiển liễu câu thành môn. ⑥. Vi tế tương dung an lập môn. ⑦. Nhân-đà-la võng pháp giới môn. ⑧. Thác sự hiển pháp sinh giải môn. ⑨. Thập thế cách pháp dị thành môn. ⑩. Chủ bạn viên minh cụ đức môn. (Theo TĐPHHQ, tập 6, tr. 5229).
 
 [^26]: 📝 **Thập tín**: mười tâm mà mười giai vị đầu tiên trong năm mươi hai giai vị bồ-tát tu hành; mười tâm này thuộc về Tín vị, có công năng giúp cho hành giả thành tựu tín hạnh. Phẩm hiền thánh danh tự, kinh Bồ-tát anh lạc bản nghiệp, quyển thượng ghi mười tâm là: tín tâm, niệm tâm, tinh tấn tâm, định tâm, huệ tâm, giới tâm, hồi hướng tâm, hộ pháp tâm, xả tâm, nguyện tâm. (Theo TĐPHHQ, tập 6, tr. 5321).
 
@@ -902,11 +931,11 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 [^43]: 📝 **Thủy mẫu thiền**: loại thiền không có hoạt dụng.
 
-[^44]: 📝 **Tam huyền, Tam yếu**: ba huyền môn và ba yếu tố dùng để tiếp dẫn người học của thiền sư Lâm Tế Nghĩa Huyền, nhằm kích thích hành giả phát khởi nghi tình. Tam huyền là: 1️⃣. Thể trung huyền: câu nói hoàn toàn không trau chuốt, là câu nói được biểu hiện y cứ vào chân tướng và đạo lý của tất cả sự vật. 2️⃣. Cú trung huyền: lời nói chân thật, không dính dáng đến tình thức phân biệt, tức không câu nệ nơi lời nói mà ngộ được chỗ huyền áo của nó. 3️⃣. Huyền trung huyền (Dụng trung huyền): câu nói huyền diệu, lìa tất cả những sự trói buộc, đối đãi về luận lý và ngữ cú. Tam yếu là: 1️⃣. trong lời nói không có phân biệt tạo tác, 2️⃣. nghìn thánh vào chỗ huyền áo, 3️⃣. đường ngôn ngữ dứt. (Theo TĐPHHQ, tập 5, tr. 4111).
+[^44]: 📝 **Tam huyền, Tam yếu**: ba huyền môn và ba yếu tố dùng để tiếp dẫn người học của thiền sư Lâm Tế Nghĩa Huyền, nhằm kích thích hành giả phát khởi nghi tình. Tam huyền là: ①. Thể trung huyền: câu nói hoàn toàn không trau chuốt, là câu nói được biểu hiện y cứ vào chân tướng và đạo lý của tất cả sự vật. ②. Cú trung huyền: lời nói chân thật, không dính dáng đến tình thức phân biệt, tức không câu nệ nơi lời nói mà ngộ được chỗ huyền áo của nó. ③. Huyền trung huyền (Dụng trung huyền): câu nói huyền diệu, lìa tất cả những sự trói buộc, đối đãi về luận lý và ngữ cú. Tam yếu là: ①. trong lời nói không có phân biệt tạo tác, ②. nghìn thánh vào chỗ huyền áo, ③. đường ngôn ngữ dứt. (Theo TĐPHHQ, tập 5, tr. 4111).
 
 [^45]: 📝 **Hành cước**: còn gọi là du phương, du hành, vân thủy. Nghĩa là tăng lữ không có chỗ ở nhất định, hoặc vì tìm kiếm danh sư hoặc vì tự mình tu trì, hoặc vì giáo hóa kẻ khác, mà đi chu du bốn phương. tăng du phương gọi là hành cước tăng.· (Theo TĐTTHV, tr. 269).
 
-[^46]: 📝 **Nhân duyên**: có 2 nghĩa: 1️⃣. Thiền tông cho cơ ngữ hoặc hành vi động tác thị cơ, ứng cơ là nhân duyên, ý nghĩa giống như công án. 2️⃣. Giáo môn cho rằng những tư tưởng ngôn hạnh có thể dẫn đến quả báo là nhân duyên, tức là nhân trong nhân quả báo ứng. (Theo TĐTTHV, tr. 507).
+[^46]: 📝 **Nhân duyên**: có 2 nghĩa: ①. Thiền tông cho cơ ngữ hoặc hành vi động tác thị cơ, ứng cơ là nhân duyên, ý nghĩa giống như công án. ②. Giáo môn cho rằng những tư tưởng ngôn hạnh có thể dẫn đến quả báo là nhân duyên, tức là nhân trong nhân quả báo ứng. (Theo TĐTTHV, tr. 507).
 
 [^47]: 📝 **Đại sự nhân duyên**: cảm ứng một việc lớn. Tam tạng pháp số ghi: “Nhất tức là nhất thật tướng, vì thể tính của nhất thật tướng rộng lớn nên gọi là “đại”; nghi thức mà Như Lai xuất thế độ sinh gọi là “sự”. Chúng sinh vốn có nhất thật tướng này mà khéo thành cơ cảm Phật, nên gọi là “nhân”. Như Lai đã chứng nhất thật tướng này mà khởi ứng độ sinh nên gọi là “duyên”. Tất cả Như Lai xuất hiện ở đời đều vì khai thị thật tướng vốn có của chúng sinh, khiến tất cả được ngộ nhập tri kiến Phật. Lìa việc này thì chẳng phải là bản hoài xuất thế của Như Lai. Một việc lớn (Nhất đại sự), chỉ việc chuyển mê khai ngộ”. Luận theo các kinh thì đại sự trong kinh Pháp hoa là tri kiến Phật, kinh Niết-bàn là Phật tính, kinh Vô Lượng Thọ là vãng sinh Cực lạc. Phẩm Phương tiện, kinh Pháp hoa, ghi: “Chư Phật chỉ vì một đại sự nhân duyên mà xuất hiện ở đời ” (Theo TĐPHHQ, tập 2, tr. 1307).
 
@@ -916,7 +945,7 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 [^50]: 📝 **Tiết trùng dương** nhằm ngày 9 tháng 9.
 
-[^51]: 📝 **Kế sống (hoạt kế)**: 1️⃣. Nghề nghiệp mưu sinh, công việc. Trong các trước tác Thiền tông, phần nhiều dùng từ này để dụ cho thiền pháp hoặc hành vi cơ dụng. Mật am ngữ lụcghi: “Vuông tròn không dùng đến cơ mưu, dài vắn chớ đem nói nín tìm. Một chiếc búa cũng là nghề nghiệp chân chính, suy nghĩ· chi làm phí thời gian”. 2️⃣. Công cụ, gia sản sinh sống. Chương Khuông Ngộ thiền sư trong CĐTĐL q.17 ghi: “❓: Thế nào là đóng cửa tạo xe? Sư 📢: Gia sản không có gì cả”. (Theo TĐTTHV, tr. 298).
+[^51]: 📝 **Kế sống (hoạt kế)**: ①. Nghề nghiệp mưu sinh, công việc. Trong các trước tác Thiền tông, phần nhiều dùng từ này để dụ cho thiền pháp hoặc hành vi cơ dụng. Mật am ngữ lụcghi: “Vuông tròn không dùng đến cơ mưu, dài vắn chớ đem nói nín tìm. Một chiếc búa cũng là nghề nghiệp chân chính, suy nghĩ· chi làm phí thời gian”. ②. Công cụ, gia sản sinh sống. Chương Khuông Ngộ thiền sư trong CĐTĐL q.17 ghi: “❓: Thế nào là đóng cửa tạo xe? Sư 📢: Gia sản không có gì cả”. (Theo TĐTTHV, tr. 298).
 
 [^52]: 📝 **Vương lão sư**: thiền sư Phổ Nguyện ở Nam Tuyền Trì Châu, họ Vương, thừa pháp ngài Mã Tổ , hoằng đạo ở Nam Tuyền, thường được xưng là Vương lão sư.· (Theo PHĐTĐ của Đinh Phúc Bảo).
 
@@ -944,7 +973,7 @@ Cho nên, có ý muốn soạn cuốn Phật tổ chỉ quyết chi ý, để tr
 
 [^64]: 📝 **Chư phương**: thiền sư ở các nơi hoặc chỉ cho thiền viện. (Theo TĐTTHV, tr. 110).
 
-[^65]: 📝 **Bốn tân chủ**: 4 câu này để đo lường cơ phong, tiếp dẫn người học của thiền sư Lâm Tế Nghĩa Huyền. Trong đó, tân là vị khách đến tham vấn, chủ là vị thầy. Tứ tân chủ gồm có: **1️⃣. Tân khán chủ**: người khách xem xét thấy rõ ông chủ, như tiếng hét của người học chân chính là đưa ra cái chậu đựng keo. Thiện tri thức chẳng biết là cảnh bèn dính mắc cảnh đó mà làm dáng làm điệu, liền bị người học hét thêm tiếng nữa, thiện tri thức chẳng chịu buông xuống. Ấy là bệnh tuyệt vọng chẳng thể trị. 2️⃣. Chủ khán tân: người chủ nhìn tường tận được khách, như thiện tri thức chẳng đưa ra vật gì, tùy chỗ ❓ của người học liền đoạt, người học bị đoạt thà chết chẳng chịu buông. 3️⃣. Chủ khán chủ: người chủ nhìn lại mình, như có người học đưa một cảnh thanh tịnh ra trước mắt thiện tri thức, thiện tri thức biết là cảnh, liền quăng vào hầm sâu. Người học nói: “Tốt lắm thiện tri thức”. Thiện tri thức liền nói: “Ngốc thay! Chẳng biết tốt xấu”. Người học bèn lễ bái. 4️⃣. Tân khán tân: người khách nhìn rõ về họ, như có người học bị còng tay còng cổ ra trước mắt thiện tri thức. Thiện tri thức lại còng thêm một lớp, người học hoan hỷ, hai bên đều chẳng biết. (Theo TĐTTHV, tr. 923).
+[^65]: 📝 **Bốn tân chủ**: 4 câu này để đo lường cơ phong, tiếp dẫn người học của thiền sư Lâm Tế Nghĩa Huyền. Trong đó, tân là vị khách đến tham vấn, chủ là vị thầy. Tứ tân chủ gồm có: **①. Tân khán chủ**: người khách xem xét thấy rõ ông chủ, như tiếng hét của người học chân chính là đưa ra cái chậu đựng keo. Thiện tri thức chẳng biết là cảnh bèn dính mắc cảnh đó mà làm dáng làm điệu, liền bị người học hét thêm tiếng nữa, thiện tri thức chẳng chịu buông xuống. Ấy là bệnh tuyệt vọng chẳng thể trị. ②. Chủ khán tân: người chủ nhìn tường tận được khách, như thiện tri thức chẳng đưa ra vật gì, tùy chỗ ❓ của người học liền đoạt, người học bị đoạt thà chết chẳng chịu buông. ③. Chủ khán chủ: người chủ nhìn lại mình, như có người học đưa một cảnh thanh tịnh ra trước mắt thiện tri thức, thiện tri thức biết là cảnh, liền quăng vào hầm sâu. Người học nói: “Tốt lắm thiện tri thức”. Thiện tri thức liền nói: “Ngốc thay! Chẳng biết tốt xấu”. Người học bèn lễ bái. ④. Tân khán tân: người khách nhìn rõ về họ, như có người học bị còng tay còng cổ ra trước mắt thiện tri thức. Thiện tri thức lại còng thêm một lớp, người học hoan hỷ, hai bên đều chẳng biết. (Theo TĐTTHV, tr. 923).
 
 [^66]: 📝 **Tình kiến**: tục tình vọng kiến. Bích nham lục q.1 ghi: “Tuyết Đậu sợ người ta chạy theo tình kiến. Vì thế rút hẳn chốt cửa, bày kiến giải của mình, nói: “Thôi nhớ nhau, gió mát khắp nơi bao giờ ngưng”. (Theo TĐTTHV, tr. 814).
 

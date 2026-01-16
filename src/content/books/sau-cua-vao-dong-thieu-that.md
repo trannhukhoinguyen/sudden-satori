@@ -77,17 +77,17 @@ Chính cái pháp không pháp ấy, đức Phật đã mật truyền cho tôn 
 
 Vậy thực chất của sáu cửa là gì? Đó là:
 
-1️⃣- **Tâm kinh tụng**: tụng về bộ Bát nhã Tâm kinh
+①- **Tâm kinh tụng**: tụng về bộ Bát nhã Tâm kinh
 
-2️⃣- **Phá tướng luận**: luận về phép phá tướng
+②- **Phá tướng luận**: luận về phép phá tướng
 
-3️⃣- **Nhị chủng nhập**: hai đường vào đạo
+③- **Nhị chủng nhập**: hai đường vào đạo
 
-4️⃣- **An tâm pháp môn**: phép an tâm
+④- **An tâm pháp môn**: phép an tâm
 
-5️⃣- **Ngộ tánh luận**: luận về phép thấy tánh thành Phật
+⑤- **Ngộ tánh luận**: luận về phép thấy tánh thành Phật
 
-6️⃣- **Huyết mạch luận**: luận về mạch máu của đạo Phật
+⑥- **Huyết mạch luận**: luận về mạch máu của đạo Phật
 
 <fieldset>
 <legend><h4>Cửa thứ 1</h4></legend>

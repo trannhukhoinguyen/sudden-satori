@@ -88,17 +88,17 @@ image: /images/koans/great-wave.webp
 
 ✨ TAM HUYỀN
 
-Tăng hỏi: _Thế nào là câu thứ 1️⃣_?
+Tăng hỏi: _Thế nào là câu thứ ①_?
 
-1️⃣ Sư nói: “**Ấn khai tam yếu điểm son hẹp, chưa cho suy nghĩ chủ khách phân**”.
+① Sư nói: “**Ấn khai tam yếu điểm son hẹp, chưa cho suy nghĩ chủ khách phân**”.
 
-Hỏi: _Thế nào là câu thứ 2️⃣_?
+Hỏi: _Thế nào là câu thứ ②_?
 
-2️⃣ Sư nói: “**Diệu giải chẳng cho vấn vô trước (chấp trước), phương tiện đâu phụ (cô phụ) triệt lưu cơ**”.
+② Sư nói: “**Diệu giải chẳng cho vấn vô trước (chấp trước), phương tiện đâu phụ (cô phụ) triệt lưu cơ**”.
 
-Hỏi: _Thế nào là câu thứ 3️⃣_?
+Hỏi: _Thế nào là câu thứ ③_?
 
-3️⃣ Sư nói: “**Hãy xem trên đài hát múa rối, kéo dây đều do người bên trong**”.
+③ Sư nói: “**Hãy xem trên đài hát múa rối, kéo dây đều do người bên trong**”.
 
 Lại nói: “**Một cú ngữ phải đủ tam huyền môn, một huyền môn phải đủ tam yếu, có quyền có thực, các ngươi làm sao lãnh hội!**”.
 
@@ -108,7 +108,7 @@ Thủ Sơn Tỉnh Niệm Thiền sư (đời thứ 5 phái Lâm Tế) trong Cổ
 
 Còn Từ Minh Sở Viên Thiền Sư (đời thứ 7 phái Lâm Tế) vì Tăng hỏi Tam huyền Tam yếu mà thuyết tụng rằng:
 
-1️⃣ Đệ nhất huyền
+① Đệ nhất huyền
 
 > Tam thế chư Phật tính nói chi?
 >
@@ -116,7 +116,7 @@ Còn Từ Minh Sở Viên Thiền Sư (đời thứ 7 phái Lâm Tế) vì Tăng
 >
 > Ngồi không lại thành đọa đoạn kiến.
 
-2️⃣ Đệ nhị huyền
+② Đệ nhị huyền
 
 > Lanh lợi nạp Tăng mắt chưa sáng,
 >
@@ -124,7 +124,7 @@ Còn Từ Minh Sở Viên Thiền Sư (đời thứ 7 phái Lâm Tế) vì Tăng
 >
 > Nhướng mày nháy mắt càng cách xa.
 
-3️⃣ Đệ tam huyền
+③ Đệ tam huyền
 
 > Vạn tượng sum la vũ trụ rộng.
 >
@@ -134,7 +134,7 @@ Còn Từ Minh Sở Viên Thiền Sư (đời thứ 7 phái Lâm Tế) vì Tăng
 
 ✨ TAM YẾU
 
-1️⃣ Đệ nhất yếu
+① Đệ nhất yếu
 
 > Thánh phàm nói chi diệu,
 >
@@ -142,7 +142,7 @@ Còn Từ Minh Sở Viên Thiền Sư (đời thứ 7 phái Lâm Tế) vì Tăng
 >
 > Mở mắt điên đảo nhiều.
 
-2️⃣ Đệ nhị yếu
+② Đệ nhị yếu
 
 > Đánh kiểng gọi đỉnh núi,
 >
@@ -150,7 +150,7 @@ Còn Từ Minh Sở Viên Thiền Sư (đời thứ 7 phái Lâm Tế) vì Tăng
 >
 > Đa văn kêu ngoài cửa.
 
-3️⃣ Đệ tam yếu
+③ Đệ tam yếu
 
 > Ngồi nằm khiến người chê.
 >
@@ -169,7 +169,7 @@ https://thuvienhoasen.org/a41572/tu-lieu-gian-cua-to-lam-te-nguyen-the-dang
 >
 > Có khi Nhân Cảnh đều chẳng Đoạt.
 
-1️⃣ Tăng hỏi thế nào là **Đoạt Nhân chẳng Đoạt Cảnh**?
+① Tăng hỏi thế nào là **Đoạt Nhân chẳng Đoạt Cảnh**?
 
 Sư đáp:
 
@@ -177,7 +177,7 @@ Sư đáp:
 >
 > Hài nhiều tóc dài trắng như tơ
 
-2️⃣ Hỏi thế nào là **Đoạt Cảnh chẳng Đoạt Nhân**?
+② Hỏi thế nào là **Đoạt Cảnh chẳng Đoạt Nhân**?
 
 Sư đáp:
 
@@ -185,7 +185,7 @@ Sư đáp:
 >
 > Tướng quân biên thùy chẳng thấy nghe
 
-3️⃣ Hỏi thế nào là **Nhân Cảnh đều Đoạt**?
+③ Hỏi thế nào là **Nhân Cảnh đều Đoạt**?
 
 Sư đáp:
 
@@ -193,7 +193,7 @@ Sư đáp:
 >
 > Tự cô độc ở một nơi
 
-4️⃣ Hỏi thế nào là **Nhân Cảnh đều chẳng Đoạt**?
+④ Hỏi thế nào là **Nhân Cảnh đều chẳng Đoạt**?
 
 Sư đáp:
 
@@ -406,13 +406,13 @@ Gia phong của Pháp Nhãn Tông có **Lục Tướng** và **Tứ Liệu Giả
 
 - **Tứ Liệu Giản** tức là:
 
-1️⃣ Văn văn (phóng)
+① Văn văn (phóng)
 
-2️⃣ Văn bất văn (thu)
+② Văn bất văn (thu)
 
-3️⃣ Bất văn văn (minh)
+③ Bất văn văn (minh)
 
-4️⃣ Bất văn bất văn (ám)
+④ Bất văn bất văn (ám)
 
 <hr class="blog-rule" />
 
@@ -440,21 +440,21 @@ Gia Phong của Vân Môn thẳng tắt, thường dùng:
 
 - Vân Môn **Bát Yểu**:
 
-1️⃣ Huyền
+① Huyền
 
-2️⃣ Tùng
+② Tùng
 
-3️⃣ Chơn Yếu
+③ Chơn Yếu
 
-4️⃣ Đoạt
+④ Đoạt
 
-5️⃣ Hoặc
+⑤ Hoặc
 
-6️⃣ Quá
+⑥ Quá
 
-7️⃣ Tán
+⑦ Tán
 
-8️⃣ Xuất
+⑧ Xuất
 
 🌟 Ngài Vân Môn là “Hàm cái triệt lưu”, nói gia phong nhà họ giống như nước sông đang chảy gấp mà đột nhiên dừng lại.
 
@@ -470,7 +470,7 @@ Văn Yểm có tự làm bài kệ rằng:
 
 🌟 Đệ tử Ngài Vân Môn là Viên Minh Thiền sư có bài tụng ba câu của Vân Môn rằng:
 
-1️⃣ Hàm Cái Càn Khôn:
+① Hàm Cái Càn Khôn:
 
 > Càn khôn và vạn tượng,
 >
@@ -480,7 +480,7 @@ Văn Yểm có tự làm bài kệ rằng:
 >
 > Mỗi mỗi chẳng đúng sai.
 
-2️⃣ Triệt Đoạn Chúng Lưu:
+② Triệt Đoạn Chúng Lưu:
 
 > Đầy núi đầy biển lại,
 >
@@ -490,7 +490,7 @@ Văn Yểm có tự làm bài kệ rằng:
 >
 > Ngói bể băng tiêu ngay.
 
-3️⃣ Tùy Ba Trục Lãng:
+③ Tùy Ba Trục Lãng:
 
 > Cách hỏi đủ biện tài,
 >
