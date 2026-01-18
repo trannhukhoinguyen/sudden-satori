@@ -12,7 +12,7 @@ tags:
 authors:
   - TS LAI QUẢ DIỆU THỌ
 pdfUrls: 
-  - /pdfs/books/THAM-THIEN-PHO-THUYET-full.pdf
+  - /pdfs/books/tham-thien-pho-thuyet-full.pdf
 videoIds:
   - UZAYoxugxNc
 ---
