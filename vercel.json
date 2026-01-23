@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/favicon.ico",
+      "source": "/favicon-new.ico",
       "headers": [
         {
           "key": "Cache-Control",
