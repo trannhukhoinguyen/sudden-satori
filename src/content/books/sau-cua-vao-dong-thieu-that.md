@@ -2054,7 +2054,7 @@ Phật trước Phật sau đều lấy tâm truyền qua tâm, chẳng lập v�
 
 Hỏi: Nếu chẳng lập văn tự thì lấy gì làm tâm?
 
-Đáp: Ngươi hỏi ta, tức đó là tâm ngươi.
+📣📣📣 Đáp: Ngươi hỏi ta, tức đó là tâm ngươi.
 
 Ta đáp ngươi, tức đó là tâm ta.
 Ta đáp ngươi, tức đó là tâm ta.
