@@ -5,15 +5,18 @@ import PostExcerpt from "../post/PostExcerpt.astro";
 import PostImage from "../post/PostImage.astro";
 import Pagination from "../page/Pagination.astro";
 import MasterTable from "../ui/MasterTable.astro";
+import ABCLinkedTitleList from "@/components/ui/ABCLinkedTitleList.astro"
 
 const {
+    collection = "masters",
     posts,
+    titleList = "Danh sách tiểu sử các Thiền sư",
     icons,
     page,
 } = Astro.props;
 
 const noPost ="📂 Danh sách trống";
-const categoryName = "config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type";
+const categoryName = config.categoryNames[posts[0].frontmatter.type as keyof typeof config.categoryNames] || posts[0].frontmatter.type;
 const groupsBySpecialTag = posts?.map((post: any) => post.frontmatter?.tags[0]);
 const groupsSorted = [
     groupsBySpecialTag.find((group: string) => group === 'Giới thiệu'),
@@ -74,6 +77,15 @@ const postsGroupedBySpecialTag = groupsSorted
        )
 
     ) : <p>{noPost}</p>
+}
+
+
+{
+    titleList?.length > 0 ? (
+
+    <ABCLinkedTitleList collection={collection} posts={posts} titleList={titleList} listTitle={`DANH SÁCH ${categoryName}`} />
+
+        ) : <p>{noPost}</p>
 }
 
 <MasterTable />
