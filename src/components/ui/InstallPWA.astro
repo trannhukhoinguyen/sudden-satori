@@ -3,7 +3,10 @@ const siteName = "Tổ Sư Thiền";
 ---
 
 <section class="pwa-install" id="pwa-install">
-    <h2 id="pwa-installation-title">📲 Cài Tổ Sư Thiền ra màn hình điện thoại</h2>
+    <h2
+        id="pwa-installation-title"
+        data-hide-in-pwa
+    >📲 Cài Tổ Sư Thiền ra màn hình điện thoại</h2>
     <p class="subtitle">
         Mở nhanh – Dùng như app – Không cần App Store
     </p>
@@ -87,6 +90,12 @@ const siteName = "Tổ Sư Thiền";
     @media (min-width: 768px) {
         .platforms {
             grid-template-columns: 1fr 1fr;
+        }
+    }
+    /* Nếu đang ở PWA → ẩn */
+    @media (display-mode: standalone) {
+        [data-hide-in-pwa] {
+            display: none !important;
         }
     }
 </style>
