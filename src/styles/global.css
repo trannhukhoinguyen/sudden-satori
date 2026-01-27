@@ -195,7 +195,7 @@
   --font-heading-secondary: 'Roboto Condensed', sans-serif;
   --font-body: 'Work Sans', sans-serif;
   --font-mono: 'JetBrains Mono', monospace;
-  --font-accent: 'Bungee Spice', sans-serif;
+  --font-accent: 'Bungee Spice', 'Bungee', system-ui, sans-serif;
 
   /* Layout */
   --grid-unit: 8px;
