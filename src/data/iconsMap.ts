@@ -35,6 +35,12 @@ const ICONS_MAP: Record<CollectionType, Record<string, string>> = {
     categorized: '📢',
   },
 
+  ancientSpeeches: {
+    'Giới thiệu': '🔊',
+    'Chưa phân loại': '🔈',
+    categorized: '📢',
+  },
+
   practices: {
     'Giới thiệu': '🎯',
     'Chưa phân loại': '🧩',
