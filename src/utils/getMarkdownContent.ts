@@ -57,7 +57,7 @@ const collections = {
 
   masters: "masters",
   speeches: "speeches",
-  ancientSpeeches: "ancientSpeeches",
+  ancientSpeeches: "ancient-speeches",
   faqs: "faqs",
 
   sutras: "sutras",
