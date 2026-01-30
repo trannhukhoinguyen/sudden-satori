@@ -160,6 +160,23 @@ const speeches = defineCollection({
   }),
 });
 
+const ancientSpeeches = defineCollection({
+  loader: glob({
+    pattern: "**/[^_]*.{md,mdx}",
+    base: "./src/content/ancient-speeches",
+  }),
+  schema: z.object({
+    type: z.string().default("ancientSpeeches"),
+    schemaType: z.string().default("Article"),
+    title: z.string().default("Cổ Tôn Túc Ngữ lục"),
+    description: z.string().optional(),
+    date: z.coerce.date().default(TODAY),
+    excerpt: z.string().optional(),
+    categories: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+  }),
+});
+
 const masters = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/masters" }),
   schema: z.object({
@@ -254,6 +271,7 @@ export const collections = {
   practices,
   masters,
   speeches,
+  ancientSpeeches,
   faqs,
   health,
   precepts,

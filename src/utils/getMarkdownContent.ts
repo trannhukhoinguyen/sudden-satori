@@ -18,6 +18,7 @@ const globMap = {
 
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
+  ancientSpeeches: import.meta.glob('../content/ancientSpeeches/**/*.{md,mdx}', { eager: true }),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}', { eager: true }),
 };
 const globMapLazy = {
