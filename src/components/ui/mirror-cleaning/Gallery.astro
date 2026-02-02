@@ -98,7 +98,7 @@ const { images, class: className } = Astro.props;
   import { gsap } from "gsap";
   import { Draggable } from "gsap/Draggable";
   import { InertiaPlugin } from "gsap/InertiaPlugin";
-  import { addResizeObserver } from "../utils/observers";
+  import { addResizeObserver } from "../../../utils/observers.ts";
 
   gsap.registerPlugin(Draggable, InertiaPlugin);
 
