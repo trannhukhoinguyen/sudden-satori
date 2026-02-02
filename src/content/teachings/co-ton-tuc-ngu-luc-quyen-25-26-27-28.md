@@ -8,2257 +8,1686 @@ tags:
   - CỔ TÔN TÚC NGỮ LỤC
 ---
 
-cổ tôn tú ngữ lục quyển đệ nhị thập ngũ
+cổ tôn tú ngữ lục quyển chi nhị thập ngũ
 
-triệu châu chân tế thiền sư ngữ lục tinh hành trạng quyển thượng nam nhạc hạ tứ thế tự nam toàn nguyện
-sư tức nam toàn môn nhân dã tục tính hác thị bản tào châu hác hương nhân dã huý tùng
-thẩm trấn phủ hữu đáp kí vân sư đắc thất bá giáp tử dư trực vũ vương vi mộc tị
-địa thư lai mộc thực thảo y tăng nghi bất dị sư sơ tùy bản sư hành cước đáo nam
-toàn bản sư tiên nhân sự liễu sư phương nãi nhân sự nam toàn tại phương trượng nội ngoạ thứ
-kiến sư lai sâm tiện vấn cận li thập ma xứ sư vân thụy tượng viện nam toàn vân hoàn
-kiến thụy tượng ma sư vân thụy tượng tức bất kiến tức kiến ngoạ như lai nam toàn nãi khởi
-vấn nễ thị hữu chủ sa di vô chủ sa di sư đối vân hữu chủ sa di toàn vân
-na cá thị nễ chủ sư vân mạnh xuân do hàn phục duy hòa thượng tôn thể khởi cư vạn
-phúc toàn nãi hoán duy na vân thử sa di biệt xứ an bài sư thụ giới hậu văn thụ
-nghiệp sư tại tào châu tây trụ hộ quốc viện nãi quy viện tỉnh cận đáo hậu bản sư linh
-hác thị vân quân gia chi tử du phương dĩ hồi kì gia thân thuộc hân dịch bất dĩ kì
-hậu lai nhật hàm vãng quan yên sư văn chi nãi vân tục trần ái võng vô hữu liễu kì
-dĩ từ xuất gia bất nguyện tái kiến nãi ư thị dạ kết thúc tiền mại kì hậu tự huề
-bình tích biến lịch chư phương thường tự vị viết thất tuế đồng nhi thắng ngã giả ngã tức vấn
-y bá tuế lão ông bất cập ngã giả ngã tức giáo tha niên chí bát thập phương trụ triệu
-châu thành đông quan âm viện khứ thạch kiếu thập lí dĩ lai trụ trì khô cảo chí hiệu cổ
-nhân tăng đường vô tiền hậu giá toàn doanh trai thực thằng sàng nhất cước chiết dĩ thiêu đoạn/đoán tân
-dụng thằng hệ chi mỗi hữu biệt chế tân giả sư bất hứa dã trụ trì tứ thập niên lai
-vị thường tê nhất phong thư cáo kì đàn việt nhân hữu nam phương tăng lai cử vấn tuyết phong
-cổ giản hàn toàn thời như hà tuyết phong vân trừng mục bất kiến để học vân ẩm giả như
-hà phong vân bất tùng khẩu nhập sư văn chi viết bất tùng khẩu nhập tùng tị khổng lí nhập
-kì tăng khước vấn sư cổ giản hàn toàn thời như hà sư vân khổ học vân ẩm giả như
-hà sư vân tử tuyết phong văn sư thử ngữ tán vân cổ phật cổ phật tuyết phong hậu nhân
-thử bất đáp thoại hĩ quyết hậu nhân hà bắc yên vương lĩnh binh thu trấn phủ kí đáo giới
-thượng hữu quan khí tượng giả tấu viết triệu châu hữu thánh nhân sở cư chiến tất bất thắng yên
-triệu nhị vương nhân triển diên hội câu tức giao phong nãi vấn triệu chi kim địa thượng sĩ hà
-nhân hoặc viết hữu giảng hoa nghiêm kinh đại sư tiết hành cô mạc nhược tuế đại hạn hàm mệnh
-vãng đài sơn kì đảo đại sư vị hồi cam dịch như tả nãi viết khủng vị tận thiện hoặc
-vân thử khứ nhất bá nhị thập lí hữu triệu châu quan âm viện hữu thiền sư niên lạp cao
-mạc đạo nhãn minh bạch thiêm viết thử khả ưng triệu hồ nhị vương thuế giá quan yên kí giới
-viện nội sư nãi đoan toạ bất khởi yên vương vấn viết nhân vương tôn da pháp vương tôn da
-sư vân nhược tại nhân vương nhân vương trung tôn nhược tại pháp vương pháp vương trung tôn yên vương
-duy nhiên hĩ sư lương cửu trung gian vấn a na cá thị trấn phủ đại vương triệu vương ưng
-nặc đệ tử duyên triệu châu thuộc trấn phủ dĩ biểu tri trùng chi lễ sư vân lão tăng hạm tại sơn hà bất cập xu
-diện tu du tả hữu thỉnh sư vi đại vương thuyết pháp sư vân đại vương tả hữu đa tranh
-giáo lão tăng thuyết pháp nãi ước linh tả hữu thối sư thân bạn thời hữu sa di văn viễn
-cao thanh vân khải đại vương bất thị giả cá tả hữu đại vương nãi vấn thị thập ma tả
-hữu đối viết đại vương tôn huý đa hòa thượng sở dĩ bất cảm thuyết pháp yên vương nãi vân
-thỉnh thiền sư khứ huý thuyết pháp sư vân cố tri đại vương nẵng kiếp quyến thuộc câu thị oan
-gia ngã phật thế tôn nhất xưng danh hiệu tội diệt phúc sinh đại vương tiên tổ tài hữu nhân
-xúc trước danh tự tiện sinh sân nộ sư từ bi phi quyện thuyết pháp đa thời nhị vương kê
-thủ tán thán trân kính vô tận lai nhật tương hồi yên vương hạ tiên phong sứ văn sư bất
-khởi lăng thần nhập viện trách sư ngạo cang quân hầu sư văn chi nãi xuất nghênh tiếp tiên phong
-nãi vấn viết tạc nhật kiến nhị vương lai bất khởi kim nhật kiến mỗ giáp lai nhân hà khởi
-tiếp sư vân đãi đô nha đắc tự đại vương lão tăng diệc bất khởi tiếp tiên phong linh sư
-thử ngữ tái tam bái nhi khứ tầm hậu triệu vương phát sứ thủ sư cung dưỡng kí giới thành
-môn hạp thành uy nghi nghênh chi nhập nội sư tài hạ bảo liễn vương nãi thiết bái thỉnh sư
-thượng điện chính vị nhi toạ sư lương cửu dĩ thủ chước ngạch vân giai hạ lập giả thị hà
-quan trường tả hữu vân thị chư viện tôn tú tinh đại sư đại đức sư vân tha các thị
-nhất phương hoá chủ nhược tại giai hạ lão tăng diệc khởi vương nãi mệnh thượng điện thị nhật trai
-diên tương bãi tăng quan bài định tùng thượng chí hạ nhất nhân nhất vấn nhất nhân vấn phật pháp
-sư kí vọng kiến nãi vấn tác thập ma vân vấn phật pháp sư vân giá lí dĩ toạ khước
-lão tăng na lí vấn thập ma pháp nhị tôn bất tịnh hoá thử nãi ngữ chi từ dã vương nãi linh chỉ
-kì thời quốc hậu dữ vương câu tại tả hữu thị lập quốc hậu vân thỉnh thiền sư vi đại
-vương ma đỉnh thụ kí sư dĩ thủ ma đại vương đỉnh vân nguyện đại vương dữ lão tăng tề
-niên thị thời nghênh sư quyền tại cận viện trú bạc hoạch thời soát địa kiến tạo thiền cung sư
-văn chi linh nhân vị vương viết nhược động trước nhất hành thảo lão tăng khước quy triệu châu kì
-thời đậu hành quân nguyện xả quả viên nhất sở trực nhất vạn ngũ thiên quán hiệu vi chân tế
-thiền viện diệc vân đậu gia viên dã sư nhập viện hậu hải chúng vân trăn thị thời triệu vương
-lễ phụng yên vương tùng u châu tấu đáo mệnh phục trấn phủ cụ uy nghi nghênh tiếp sư kiên
-nhượng bất thụ tả hữu dư sương chí sư diện tiền vân đại vương vi thiền sư phật pháp cố
-kiên thỉnh sư trước thử y sư vân lão tăng vi phật pháp cố sở dĩ bất trước thử y
-tả hữu vân thả khán đại vương diện sư vân hựu can tục quan thập ma sự nãi cung tự
-thủ y quải thân thượng lễ hạ tái tam sư duy tri ưng nặc nhi dĩ sư trụ triệu châu
-nhị niên tương tạ thế thời vị đệ tử viết ngô khứ thế chi hậu phần thiêu liễu bất dụng
-tịnh đào xá lợi tông sư đệ tử bất đồng phù tục thả thân thị ảo xá lợi hà sinh
-tư bất khả dã linh tiểu sư tống bật tử nhất chi dữ triệu vương truyền ngữ vân thử thị
-lão tăng nhất sinh dụng bất tận để sư ư mậu tử tuế thập nhất nguyệt thập nhật đoan toạ
-nhi chung vu thời đậu gia viên đạo tục xa mã số vạn dư nhân ai thanh chân động ư
-thời tận tống chung chi lễ cảm thán chi khấp vô dị kim quan nặc thể ư câu thi hĩ
-mạc bất cao doanh nhạn đáp đặc thụ phong bi thụy hiệu viết chân tế thiền sư quang tổ chi
-đáp hậu đường bảo đại thập nhất niên mạnh hạ nguyệt tuần hữu tam nhật hữu học giả tư văn
-đông đô đông viện huệ thông thiền sư triệu châu tiên nhân hành hoá quyết do tác lễ nhi thối
-nãi thụ bút lục chi
-sư vấn nam toàn như hà thị đạo toàn vân bình thường tâm thị đạo sư vân hoàn khả thú
-hướng bất toàn vân nghĩ tức quai sư vân bất nghĩ tranh tri thị đạo toàn vân đạo bất thuộc
-tri bất tri tri thị vọng giác bất tri thị vô kí nhược chân đạt bất nghi chi đạo do
-như thái hư khuếch nhiên đãng hoát khởi khả cường thị phi dã sư ư ngôn hạ đốn ngộ huyền
-chỉ tâm như lãng nguyệt
-nam toàn thượng đường sư vấn minh đầu hợp ám đầu hợp toàn tiện quy phương trượng sư tiện hạ
-đường vân giá lão hòa thượng bí ngã nhất vấn trực đắc vô ngôn khả đối thủ tòa vân mạc
-đạo hòa thượng vô ngữ tự thị thượng tòa bất hội sư tiện đả hựu vân giá bổng hợp thị
-đường đầu lão hán khiết sư vấn nam toàn tri hữu để nhân hướng thập ma xứ khứ toàn vân
-sơn tiền đàn việt gia tác nhất đầu thuỷ cổ ngưu khứ sư vân tạ hòa thượng chỉ thị toàn
-vân tạc dạ tam canh nguyệt đáo song sư tại nam toàn tác lô đầu đại chúng phổ thỉnh trạch
-thái sư tại đường nội khiêu cứu hoả cứu hoả đại chúng nhất thời đáo tăng đường tiền sư nãi
-quan khước tăng đường môn đại chúng vô đối toàn nãi phao toả thi tùng song nội nhập đường trung
-sư tiện khai môn sư tại nam toàn đán lâu thượng đả thuỷ thứ kiến nam toàn quá tiện bão
-trụ huyền khước cước vân tướng cứu tướng cứu nam toàn thượng thê vân nhất nhị tam tứ ngũ
-sư thiểu thời gian khước khứ lễ tạ vân đích lai tạ hòa thượng tướng cứu nam toàn đông tây
-lưỡng đường tranh miêu nhi toàn lai đường nội đề khởi miêu nhi vân đạo đắc tức bất trảm đạo
-bất đắc tức trảm khước đại chúng hạ ngữ giai bất khế toàn ý đương thời tức trảm khước miêu
-nhi liễu chí vãn gian sư tùng ngoại quy lai vấn tấn thứ toàn nãi cử tiền thoại liễu vân
-nễ tác ma sinh cứu đắc miêu nhi sư toại tương nhất chích hài đái tại đầu thượng xuất khứ
-toàn vân tử nhược tại cứu đắc miêu nhi sư vấn nam toàn dị tức bất vấn như hà thị
-loại toàn dĩ lưỡng thủ thác địa sư tiện đạp đảo khước quy niết bàn đường nội khiêu hối hối
-toàn văn nãi linh nhân khứ vấn hối cá thập ma sư vân hối bất thặng dữ lưỡng đạp nam
-toàn tùng dục thất lí quá kiến dục đầu thiêu hoả vấn vân tác thập ma vân thiêu dục toàn
-vân kí thủ lai hoán thuỷ cổ ngưu dục dục đầu ưng nặc chí vãn gian dục đầu nhập phương
-trượng toàn vấn tác thập ma vân thỉnh thuỷ cổ ngưu khứ dục toàn vân tương đắc thằng sách lai
-bất dục đầu vô đối sư lai vấn tấn toàn toàn cử tự sư sư vân mỗ giáp hữu ngữ
-toàn tiện vân hoàn tương đắc thằng sách lai ma sư tiện cận tiền mạch tị tiện duệ toàn vân
-thị tức thị thái thô sinh sư vấn nam toàn li tứ cú tuyệt bá phi ngoại thỉnh sư đạo
-toàn tiện quy phương trượng sư vân giá lão hòa thượng mỗi thường khẩu ba ba địa cập kì vấn
-trước nhất ngôn bất thố thị giả vân mạc đạo hòa thượng vô ngữ hảo sư tiện đả nhất chưởng
-nam toàn tiện yểm khước phương trượng môn tiện bả hôi vi khước vấn tăng vân đạo đắc tức khai
-môn đa hữu nhân hạ ngữ tịnh bất khế toàn ý sư vân thương thiên thương thiên toàn tiện khai
-môn sư vấn nam toàn vân tâm bất thị phật trí bất thị đạo hoàn hữu quá dã vô toàn
-vân hữu sư vân quá tại thập ma xứ thỉnh sư đạo toàn toại cử sư tiện xuất khứ
-sư thượng đường vị chúng viết thử sự đích đích một lượng đại nhân xuất giá lí bất đắc lão
-tăng đáo quy sơn tăng vấn như hà thị tổ sư tây lai ý quy sơn vân dữ ngã tương
-sàng tử lai nhược thị tông sư tu dĩ bản phân sự tiếp nhân thuỷ đắc thời hữu tăng vấn
-như hà thị tổ sư tây lai ý sư vân đình tiền bách thụ tử học vân hòa thượng mạc
-tương cảnh thị nhân sư vân ngã bất tương cảnh thị nhân vân như hà thị tổ sư tây lai
-ý sư vân đình tiền bách thụ tử sư hựu vân lão tăng cửu thập niên tiền kiến mã tổ
-đại sư hạ bát thập dư viên thiện tri thức cá cá câu thị tác gia bất tự như kim
-tri thức chi mạn thượng sinh chi mạn đại đô thị khứ thánh dao viễn nhất đại bất như nhất
-đại chỉ như nam toàn tầm thường đạo tu hướng dị loại trung hành thả tác ma sinh hội như
-kim hoàng khẩu tiểu nhi hướng thập tự nhai đầu thuyết cát đằng bác phạn sàng mịch lễ bái tụ
-tam ngũ bá chúng vân ngã thị thiện tri thức nễ thị học nhân tăng vấn như hà thị thanh
-tịnh già lam sư vân a giác nữ tử như hà thị già lam trung nhân sư vân a giác
-nữ tử hữu dựng vấn thừa văn hòa thượng thân kiến nam toàn thị phủ sư vân trấn châu xuất
-đại la bặc đầu vấn hòa thượng sinh duyên thập ma xứ sư dĩ thủ chỉ vân tây biên canh
-hướng tây vấn pháp vô biệt pháp như hà thị pháp sư vân ngoại không nội không nội ngoại không
-vấn như hà thị phật chân pháp thân sư vân canh hiềm thập ma vấn như hà thị tâm địa
-pháp môn sư vân cổ kim bảng dạng vấn như hà thị tân trung chủ sư vân sơn tăng bất
-vấn phụ vấn như hà thị chủ trung tân sư vân lão tăng vô trượng nhân vấn như hà thị
-nhất thiết pháp thường trụ sư vân lão tăng bất huý tổ kì tăng tái vấn sư vân kim nhật
-bất đáp thoại
-sư thượng đường vân huynh đệ mạc cửu lập hữu sự thương lượng vô sự hướng y bát hạ toạ
-cùng lí hảo lão tăng hành cước thời trừ nhị thời trai dục thị tạp dụng tâm lực xứ dư
-ngoại canh vô biệt dụng tâm xứ dã nhược bất như thử xuất gia đại viễn tại vấn vạn vật
-trung hà vật tối kiên sư vân tướng mạ nhiêu nhữ tiếp chuỷ tướng thoá nhiêu nhữ bát thuỷ vấn
-hiểu dạ bất đình thời như hà sư vân tăng trung vô dữ ma lưỡng thuế bá tính vấn như
-hà thị nhất cú sư vân nhược thủ trước nhất cú lão khước nễ sư hựu vân nhược nhất sinh
-bất li tùng lâm bất ngữ thập niên ngũ tái vô nhân hoán nễ tác á hán dĩ hậu phật
-dã bất nại nễ hà nễ nhược bất tín tiệt thủ lão tăng đầu khứ
-sư thượng đường vân huynh đệ nễ chính tại đệ tam oan lí sở dĩ đạo đãn cải cựu thời
-hành lí xứ mạc cải cựu thời nhân cộng nễ các tự gia xuất gia tỉ lai vô sự canh
-vấn thiền vấn đạo tam thập nhị thập nhân tụ đầu lai vấn kháp tự khiếm y thiền đạo tướng
-tự nễ hoán tác thiện tri thức ngã thị đồng thụ khảo lão tăng bất thị hí hảo khủng đái
-luy tha cổ nhân sở dĩ đông đạo tây thuyết vấn thập nhị thời trung như hà dụng tâm sư
-vân nễ bí thập nhị thời sứ lão tăng sứ đắc thập nhị thời nễ vấn na cá thời vấn
-như hà thị triệu châu chủ nhân công sư đốt vân giá dũng hán học nhân ưng nặc sư
-vân như pháp dũng trước vấn như hà thị học nhân bản phân sự sư vân thụ dao điểu
-tán ngư kinh thuỷ hồn vấn như hà thị thiểu thần để nhân sư vân lão tăng bất như nễ
-học vân bất chiêm thắng sư vân nễ nhân thập ma thiểu thần vấn chí đạo vô nan duy hiềm
-giản trạch thị thời nhân khoà quật sư vân tằng hữu vấn ngã trực đắc ngũ niên phân sơ bất
-đắc hữu quan nhân vấn đan hà thiêu mộc phật viện chủ vi thập ma mi tu đoạ lạc sư
-vân quan nhân trạch trung biến sinh tác thục thị thập ma nhân vân sở sứ sư vân khước thị
-tha hảo thủ tăng vấn tì mục tiên nhân chấp thiện tài thủ kiến vi trần phật thời như hà
-sư toại chấp tăng thủ vân nễ kiến cá thập ma hữu ni vấn như hà thị sa môn hành
-sư vân mạc sinh nhi ni vân hòa thượng vật giao thiệp sư vân ngã nhược cộng nễ đả giao
-thiệp kham tác thập ma vấn như hà thị triệu châu chủ nhân công sư vân điền xá nô vấn
-như hà thị vương sách tiên đà bà sư vân nễ đạo lão tăng yếu cá thập ma vấn như
-hà thị huyền trung huyền sư vân thuyết thập ma huyền trung huyền thất trung thất bát trung bát vấn
-như hà thị tiên đà bà sư vân tĩnh xứ tát bà ha vấn như hà thị pháp phi pháp
-sư vân đông tây nam bắc học vân như hà hội khứ sư vân thượng hạ tứ duy vấn như
-hà thị huyền trung huyền sư vân giá tăng nhược tại hợp niên thất thập tứ ngũ vấn vương sách
-tiên đà bà thời như hà sư mạch khởi đả cung xoa thủ vấn như hà thị đạo sư vân
-bất cảm bất cảm vấn như hà thị pháp sư vân sắc sắc nhiếp nhiếp vấn triệu châu khứ trấn
-phủ đa thiểu sư vân tam bá học vân trấn phủ lai triệu châu đa thiểu sư vân bất cách
-vấn như hà thị huyền trung huyền sư vân huyền lai đa thiểu thời dã học vân huyền lai cửu
-hĩ sư vân lại ngộ lão tăng kị hợp huyền sát giá lũ sinh vấn như hà thị học nhân
-tự kỉ sư vân hoàn kiến đình tiền bách thụ tử ma
-sư thượng đường vân nhược thị cửu sâm để nhân mạc phi chân thật mạc phi cắng cổ cắng kim
-nhược thị tân nhập chúng để nhân dã tu cứu lí thuỷ đắc mạc sấn giả biên tam bá ngũ
-bá nhất thiên bàng biên nhị chúng tùng lâm xưng đạo hảo cá trụ trì kị hồ vấn trước phật
-pháp kháp tự sao sa tác phạn tướng tự vô khả thí vi vô khả hạ khẩu khước ngôn tha
-phi ngã thị diện hách xích địa lương do thế gian xuất phi pháp ngữ chân thật dục minh giả
-ý mạc cô phụ lão tăng vấn tại trần vi chư thánh thuyết pháp tổng thuộc phi đáp vị thẩm
-hòa thượng như hà thị nhân sư vân thập ma xứ kiến lão tăng học vân thỉnh hòa thượng thuyết
-sư vân nhất đường sư tăng tổng bất hội giá tăng ngữ thoại biệt hữu nhất tăng vấn thỉnh hòa
-thượng thuyết sư vân nễ thuyết ngã thính vấn chân hoá vô tích vô sư đệ tử thời như hà
-sư vân thùy giáo nễ lai vấn học vân canh bất thị biệt nhân sư tiện đả chi vấn thử
-sự như hà ban sư vân ngã quái nễ học vân như hà ban đắc sư vân ngã quái nễ
-bất ban học vân hoàn bảo nhâm phủ sư vân bảo nhâm bất bảo nhâm tự khán vấn như hà
-thị vô tri giải để nhân sư vân thuyết thập ma sự vấn như hà thị tây lai ý sư
-hạ thiền sàng học vân mạc tiện thị phủ sư vân lão tăng vị hữu ngữ tại vấn phật pháp
-cửu viễn như hà dụng tâm sư vân nễ kiến tiền hán hậu hán bả lãm thiên hạ lâm chung
-thời bán tiền dã vô phân vấn thời nhân dĩ trân bảo vi quý sa môn dĩ hà vi quý
-sư vân cấp hợp thủ khẩu học vân hợp khẩu hoàn đắc dã vô sư vân khẩu nhược bất hợp
-tranh năng ban đắc vấn như hà thị triệu châu nhất cú sư vân bán cú dã vô học vân
-khởi vô hòa thượng tại sư vân lão tăng bất thị nhất cú vấn như hà đắc bất bí chư
-cảnh hoặc sư thùy nhất túc tăng tiện xuất hài sư thu khởi túc tăng vô ngữ hữu tục quan
-vấn phật tại nhật nhất thiết chúng sinh quy y phật phật diệt độ hậu nhất thiết chúng sinh quy
-y thập ma xứ sư vân vị hữu chúng sinh học vân hiện vấn thứ sư vân canh mịch thập
-ma phật vấn hoàn hữu bất báo tứ ân tam hữu giả dã vô sư vân hữu học vân như
-hà thị sư vân giá sát phụ hán toán nễ chỉ thiểu thử nhất vấn vấn như hà thị hòa
-thượng ý sư vân vô thí thiết xứ
-sư thượng đường vân huynh đệ đãn cải vãng tu lai nhược bất cải đại hữu trước nễ xứ tại
-lão tăng tại thử gian tam thập dư niên vị tằng hữu nhất cá thiền sư đáo thử gian thiết
-hữu lai nhất tú nhất thực cấp tẩu quá thả sấn nhuyễn noãn xứ khứ dã vấn hốt ngộ thiền
-sư đáo lai hướng y đạo thập ma sư vân thiên quân chi nỗ bất vi hề thử nhi phát
-cơ sư vân huynh đệ nhược tùng nam phương lai giả tức dữ hạ tái nhược tùng bắc phương lai
-tức dữ trang tái sở dĩ đạo cận thượng nhân vấn đạo tức thất đạo cận hạ nhân vấn đạo
-giả tức đắc đạo huynh đệ chính nhân thuyết tà pháp tà pháp diệc tùy chính tà nhân thuyết chính
-pháp chính pháp diệc tùy tà chư phương nan kiến dị thức ngã giả lí dị kiến nan thức vấn
-thiện ác hoặc bất đắc để nhân hoàn độc thoát dã vô sư vân bất độc thoát học vân vi
-thập ma bất độc thoát sư vân chính tại thiện ác lí ni vấn li khước thượng lai thuyết xứ
-thỉnh hòa thượng chỉ thị sư đốt vân ổi phá thiết bình ni tương thiết bình thiêm thuỷ lai thỉnh
-hòa thượng đáp thoại sư tiếu chi vấn thế giới biến vi hắc huyệt vị thẩm thử cá lạc tại
-hà lộ sư vân bất chiêm học vân bất chiêm thị thập ma nhân sư vân điền xá nô vấn
-vô ngôn vô ý thuỷ xưng đắc cú kí thị vô ngôn hoán thập ma tác cú sư vân cao
-nhi bất nguy mãn nhi bất dật học vân tức kim hòa thượng thị mãn thị dật sư vân tranh
-nại nễ vấn ngã vấn như hà thị linh giả sư vân tịnh địa thượng a nhất đôi thỉ học
-vân thỉnh hòa thượng đích chỉ sư vân mạc não loạn lão tăng vấn pháp thân vô vi bất đoạ
-chư số hoàn hứa đạo dã vô sư vân tác ma sinh đạo học vân dữ ma tức bất đạo
-dã sư tiếu chi vấn như hà thị phật như hà thị chúng sinh sư vân chúng sinh tức thị
-phật phật tức thị chúng sinh học vân vị thẩm lưỡng cá na cá thị chúng sinh sư vân vấn
-vấn vấn đại đạo vô căn như hà tiếp xướng sư vân nễ tiện tiếp xướng vô căn hựu tác
-ma sinh sư vân kí thị vô căn thập ma xứ hệ truyện nễ vấn chính tu hành để nhân
-mạc bí quỷ thần trắc đắc dã vô sư vân trắc đắc vân quá tại thập ma xứ sư vân
-quá tại mịch xứ vân dữ ma tức bất tu hành dã sư vân tu hành vấn cô nguyệt đương
-không quang tùng hà sinh sư vân nguyệt tùng hà sinh vấn thừa hòa thượng hữu ngôn đạo bất thuộc
-tu đãn mạc nhiễm ô như hà thị bất nhiễm ô sư vân kiểm hào nội ngoại vân hoàn tự
-kiểm hào dã vô sư vân kiểm hào vân tự kỉ hữu thập ma quá tự kiểm hào sư vân
-nễ hữu thập ma sự
-sư thượng đường vân thử sự như minh châu tại chưởng hồ lai hồ hiện hán lai hán hiện lão
-tăng bả nhất chi thảo tác trượng lục kim thân dụng bả trượng lục kim thân tác nhất chi thảo
-dụng phật tức thị phiền não phiền não tức thị phật vấn phật dữ thùy nhân vi phiền não sư
-vân dữ nhất thiết nhân vi phiền não vân như hà miễn đắc sư vân dụng miễn tác ma
-sư thị chúng vân lão tăng thử gian tức dĩ bản phân sự tiếp nhân nhược giáo lão tăng tùy
-y căn cơ tiếp nhân tự hữu tam thừa thập nhị phân giáo tiếp tha liễu dã nhược thị bất
-hội thị thùy quá dư dĩ hậu ngộ trước tác gia hán dã đạo lão tăng bất cô tha đãn
-hữu nhân vấn dĩ bản phân sự tiếp nhân vấn tùng thượng chí kim tức tâm thị phật bất tức
-tâm hoàn hứa học nhân thương lượng dã vô sư vân tức tâm thả trí thương lượng cá thập ma
-vấn cổ kính bất ma hoàn chiếu dã vô sư vân tiền sinh thị nhân kim sinh thị quả vấn
-tam đao vị lạc thời như hà sư vân sâm sâm địa vân lạc hậu như hà sư vân huýnh
-huýnh địa vấn như hà thị xuất tam giới để nhân sư vân lung tráo bất đắc vấn ngưu đầu
-vị kiến tứ tổ bá điểu hàm hoa cung dưỡng kiến hậu vi thập ma bá điểu bất hàm hoa
-cung dưỡng sư vân ưng thế bất ưng thế vấn bạch vân tự tại thời như hà sư vân tranh
-tự xuân phong xứ xứ nhàn vấn như hà thị lộ địa bạch ngưu sư vân nguyệt hạ bất dụng
-sắc vân thực đạm hà vật sư vân cổ kim tước bất trước vân thỉnh sư đáp thoại sư vân
-lão tăng hợp dữ ma
-sư thị chúng vân nghĩ tâm tức sai tăng tiện vấn bất nghĩ tâm thời như hà sư đả tam
-hạ vân mạc thị lão tăng cô phụ xà lê ma vấn phàm hữu vấn đáp lạc tại ý căn
-bất lạc ý căn sư như hà đối sư vân vấn học vân tiện thỉnh sư đạo sư vân mạc
-hướng giả lí thị phi vấn long nữ thân hiến phật vị thẩm tương thập ma hiến sư dĩ lưỡng
-thủ tác hiến thế
-sư thị chúng vân thử gian phật pháp đạo nan tức dị đạo dị tức nan biệt xứ nan kiến
-dị thức lão tăng giả lí tức dị kiến nan thức nhược năng hội đắc thiên hạ hoành hành hốt
-hữu nhân vấn thập ma xứ lai nhược hướng y đạo tùng triệu châu lai hựu báng triệu châu nhược
-đạo bất tùng triệu châu lai hựu mai một tự kỉ chư nhân thả tác ma sinh đối tha tăng
-vấn xúc mục thị báng hòa thượng như hà đắc bất báng khứ sư vân nhược đạo bất báng tảo
-thị báng liễu dã vấn như hà thị chính tu hành lộ sư vân giải tu hành tức đắc nhược
-bất giải tu hành tức sâm sai lạc tha nhân quả lí hựu vân ngã giáo nễ đạo nhược hữu
-vấn thời đãn hướng y đạo triệu châu lai hốt vấn triệu châu thuyết thập ma pháp đãn hướng y
-đạo hàn tức ngôn hàn nhiệt tức ngôn nhiệt nhược canh vấn đạo bất vấn giả cá sự đãn vân
-vấn thập ma sự nhược tái vấn triệu châu thuyết thập ma pháp tiện hướng y đạo hòa thượng lai
-thời bất giao truyền ngữ thượng tòa nhược yếu tri triệu châu sự đãn tự khứ vấn thủ vấn bất
-cố tiền hậu thời như hà sư vân bất cố tiền hậu thả trí nễ vấn a thùy
-sư thị chúng vân ca diệp truyền dữ a nan thả đạo đạt ma truyền dữ thập ma nhân vấn
-thả như nhị tổ đắc tuỷ hựu tác ma sinh sư vân mạc báng nhị tổ sư hựu vân đạt
-ma dã hữu ngữ tại ngoại giả đắc bì tại lí giả đắc cốt thả đạo canh tại lí giả
-đắc thập ma vấn như hà thị đắc tuỷ để đạo lí sư vân đãn thức thủ bì lão tăng
-giả lí tuỷ dã bất lập vân như hà thị tuỷ sư vân dữ ma bì dã mô vị trước
-vấn dữ ma đường đường khởi bất thị hòa thượng chính vị sư vân hoàn tri hữu bất khẳng giả
-ma học vân dữ ma tức biệt hữu vị sư vân thùy thị biệt giả học vân thùy thị bất
-biệt giả sư vân nhất nhâm khiêu vấn thượng thượng nhân nhất bát tiện chuyển hạ hạ nhân lai thời
-như hà sư vân nhữ thị thượng thượng hạ hạ vân thỉnh hòa thượng đáp thoại sư vân thoại vị
-hữu chủ tại vân mỗ giáp thất thiên lí lai mạc tác tâm hành sư vân cứ nễ giả nhất
-vấn tâm hành mạc bất đắc ma thử tăng nhất tú tiện khứ vấn bất thiệu bàng lai giả như
-hà sư vân thùy học vân huệ diên sư vân vấn thập ma học vân bất thiệu bàng lai giả
-sư dĩ thủ mô chi vấn như hà thị nạp y hạ sự sư vân mạc tự man vấn chân
-như phàm thánh giai thị mộng ngôn như hà thị chân ngôn sư vân canh bất đạo giả lưỡng cá
-học vân lưỡng cá thả trí như hà thị chân ngôn sư vân úm khẩu bộ lâm khẩu phát vấn như hà
-thị triệu châu sư vân đông môn tây môn nam môn bắc môn vấn như hà thị định sư vân
-bất định học vân vi thập ma bất định sư vân hoạt vật hoạt vật vấn bất tùy chư hữu
-thời như hà sư vân hợp dữ ma học vân mạc tiện thị học nhân bản phân sự sư vân
-tùy dã tùy dã vấn cổ nhân tam thập niên nhất trương cung lưỡng hạ tiến chỉ xạ đắc bán
-cá thánh nhân kim nhật thỉnh sư toàn xạ sư tiện khởi khứ
-sư thị chúng vân chí đạo vô nan duy hiềm giản trạch tài hữu ngôn ngữ thị giản trạch thị
-minh bạch lão tăng khước bất tại minh bạch lí thị nễ hoàn hộ tích dã vô vấn hòa thượng
-kí bất tại minh bạch lí hựu hộ tích cá thập ma sư vân ngã diệc bất tri học vân
-hòa thượng kí bất tri vi thập ma đạo bất tại minh bạch lí sư vân vấn sự tức đắc
-lễ bái liễu thối
-sư thị chúng vân pháp bản bất sinh kim tắc vô diệt canh bất yếu đạo tài ngữ thị sinh
-bất ngữ thị diệt chư nhân thả tác ma sinh thị bất sinh bất diệt để đạo lí vấn tảo
-thị bất sinh bất diệt ma sư vân giả hán chỉ nhận đắc cá tử ngữ vấn chí đạo vô
-nan duy hiềm giản trạch tài hữu ngôn ngữ thị giản trạch hòa thượng như hà thị nhân sư vân
-hà bất tận dẫn cổ nhân ngữ học vân mỗ giáp chỉ đạo đắc đáo giá lí sư vân chỉ
-giá chí đạo vô nan duy hiềm giản trạch
-thượng đường vân khán kinh dã tại sinh tử lí bất khán kinh dã tại sinh tử lí chư nhân
-thả tác ma sinh xuất đắc khứ tăng tiện vấn chỉ như câu bất lưu thời như hà sư vân
-thật tức đắc nhược bất thật tranh năng xuất đắc sinh tử vấn lợi kiếm phong đầu khoái thời như
-hà sư vân lão tăng thị lợi kiếm khoái tại thập ma xứ vấn đại nan đáo lai như hà
-hồi tị sư vân kháp hảo
-thượng đường lương cửu đại chúng tổng lai dã vị đối vân tổng lai dã sư vân canh đãi nhất
-nhân lai tức thuyết thoại tăng vân hậu vô nhân lai tức thuyết tự hòa thượng sư vân đại nan
-đắc nhân
-sư thị chúng vân tâm sinh tức chủng chủng pháp sinh tâm diệt tức chủng chủng pháp diệt nễ chư
-nhân tác ma sinh tăng nãi vấn chỉ như bất sinh bất diệt thời như hà sư vân ngã hứa
-nễ giả nhất vấn sư nhân sâm thứ vân minh hựu vị minh đạo hôn dục hiểu nễ tại a
-na đầu tăng vân bất tại lưỡng đầu sư vân dữ ma tức tại trung gian dã vân nhược tại
-trung gian tức tại lưỡng đầu sư vân giá tăng đa thiểu thời tại lão tăng giả lí tác dữ
-ma ngữ thoại bất xuất đắc tam cú lí nhiên trực nhiêu xuất đắc dã tại tam cú lí nễ
-tác ma sinh tăng vân mỗ giáp sứ đắc tam cú sư vân hà bất tảo dữ ma đạo vấn
-như hà thị thông phương sư vân li khước kim cương thiền
-sư thị chúng vân nạp tăng gia trực tu toạ đoạn/đoán báo hoá phật đầu thuỷ đắc vấn toạ đoạn/đoán
-báo hoá phật đầu thị thập ma nhân sư vân phi nễ cảnh giới
-sư thị chúng vân đại đạo chỉ tại mục tiền yếu thả nan đổ tăng nãi vấn mục tiền hữu
-hà hình đoạn linh học nhân đổ sư vân nhâm nễ giang nam giang bắc học vân hòa thượng khởi
-vô phương tiện vi nhân sư vân đích lai vấn thập ma vấn nhập pháp giới lai hoàn tri hữu
-dã vô sư vân thùy nhập pháp giới học vân dữ ma tức nhập pháp giới bất tri khứ dã
-sư vân bất thị hàn hôi tử mộc hoa cẩm thành hiện bá chủng hữu học vân mạc thị nhập
-pháp giới xứ dụng dã vô sư vân hữu thập ma giao thiệp vấn nhược thị thật tế lí địa
-thập ma xứ đắc lai sư vân canh thỉnh xà lê tuyên nhất biến vấn vạn cảnh câu khởi hoàn
-hữu hoặc bất đắc giả dã vô sư vân hữu học vân như hà thị hoặc bất đắc giả sư
-vân nễ hoàn tín hữu phật pháp phủ học vân tín hữu phật pháp cổ nhân đạo liễu như hà
-thị hoặc bất đắc giả sư vân vi thập ma bất vấn lão tăng học vân vấn liễu dã sư
-vân hoặc dã vấn vị thẩm cổ nhân dữ kim nhân hoàn hữu cận dã vô sư vân tướng cận
-tức tướng cận bất đồng nhất thể học vân vi thập ma bất đồng sư vân pháp thân bất thuyết
-pháp học vân pháp thân bất thuyết pháp hòa thượng vi nhân dã vô sư vân ngã hướng huệ lí
-đáp thoại học vân tranh đạo pháp thân bất thuyết pháp sư vân ngã hướng huệ lí cứu nễ a
-gia tha chung bất xuất đầu vấn học nhân đạo bất tướng kiến thời hoàn hồi hỗ dã vô sư
-vân trắc đắc hồi hỗ học vân trắc tha bất đắc hồi hỗ cá thập ma sư vân bất dữ
-ma thị nễ tự kỉ học vân hòa thượng hoàn thụ trắc dã vô sư vân nhân tức chuyển cận
-đạo tức chuyển viễn dã học vân hòa thượng vi thập ma tự ẩn khứ sư vân ngã kim hiện
-cộng nễ ngữ thoại học vân tranh đạo bất chuyển sư vân hợp dữ ma trước
-sư thị chúng vân giáo hoá đắc để nhân thị kim sinh sự giáo hoá bất đắc để nhân thị
-đệ tam sinh oan nhược bất giáo hoá khủng đoạ khước nhất thiết chúng sinh giáo hoá diệc thị oan
-thị nễ hoàn giáo hoá dã vô tăng vân giáo hoá sư vân nhất thiết chúng sinh hoàn kiến nễ
-dã vô học vân bất kiến sư vân vi thập ma bất kiến học vân vô tướng sư vân tức
-kim hoàn kiến lão tăng phủ học vân hòa thượng bất thị chúng sinh sư vân tự tri tội quá
-tức đắc
-sư thị chúng vân long nữ tâm thân hiến tận thị tự nhiên sự vấn kí thị tự nhiên hiến
-thời vi thập ma sư vân nhược bất hiến tranh tri tự nhiên
-sư thị chúng vân bát bá cá tác phật hán mịch nhất cá đạo nhân nan đắc vấn chỉ như
-vô phật vô nhân xứ hoàn hữu tu hành dã vô sư vân trừ khước giả lưỡng cá hữu bá
-thiên vạn ức học vân đạo nhân lai thời tại thập ma xứ sư vân nễ dữ ma tức bất
-tu hành dã kì tăng lễ bái sư vân đại hữu xứ trước nễ tại vấn bạch vân bất lạc
-thời như hà sư vân lão tăng bất hội thượng tượng học vân khởi vô tân chủ sư vân lão
-tăng thị chủ xà lê thị tân bạch vân tại thập ma xứ vấn đại xảo nhược chuyết thời như
-hà sư vân tang khước đống lương tài
-sư thị chúng vân phật chi nhất tự ngô bất hỉ văn vấn hòa thượng hoàn vi nhân dã vô
-sư vân vi nhân học vân như hà vi nhân sư vân bất thức huyền chỉ đồ lao niệm tĩnh
-học vân kí thị huyền tác ma sinh thị chỉ sư vân ngã bất bả bản học vân giả cá
-thị huyền như hà thị chỉ sư vân đáp nễ thị chỉ
-sư thị chúng vân các tự hữu thiền các tự hữu đạo hốt hữu nhân vấn nễ tác ma sinh
-thị thiền thị đạo tác ma sinh kì đối tha tăng nãi vấn kí các hữu thiền đạo tùng thượng
-chí kim ngữ thoại vi thập ma sư vân vi nễ du hồn học vân vị thẩm như hà vi
-nhân sư nãi thối thân bất ngữ
-sư thị chúng vân bất đắc nhàn quá niệm phật niệm pháp tăng nãi vấn như hà thị học nhân
-tự kỉ niệm sư vân niệm giả thị thùy học vân vô bạn sư sất giả lư
-thượng đường thị chúng vân nhược thị đệ nhất cú dữ tổ phật vi sư đệ nhị cú dữ nhân
-thiên vi sư đệ tam cú tự cứu bất liễu hữu tăng vấn như hà thị đệ nhất cú sư
-vân dữ tổ phật vi sư sư hựu vân đại hảo tùng đầu khởi học nhân tái vấn sư vân
-hựu khước nhân thiên khứ dã
-sư thị chúng vân thị tha bất thị bất tương lai lão tăng bất thị bất kì đối tăng vân
-hòa thượng tương thập ma kì đối sư trường hu nhất thanh vân hòa thượng tương giá cá kì đối
-mạc cô phụ học nhân dã vô sư vân nễ đích lai khẳng ngã ngã tức cô phụ nễ nhược
-bất khẳng ngã ngã tức bất cô phụ nễ
-sư thị chúng vân lão tăng kim dạ đáp thoại khứ dã giải vấn giả xuất lai hữu tăng tài
-xuất lễ bái sư vân tỉ lai phao chuyên dẫn ngọc chỉ đắc cá kích tử vấn cẩu tử hoàn
-hữu phật tính dã vô sư vân vô học vân thượng chí chư phật hạ chí nghĩ tử giai hữu
-phật tính cẩu tử vi thập ma vô sư vân vi y hữu nghiệp thức tính tại vấn như hà
-thị pháp thân sư vân ưng thân vân học nhân bất vấn ưng thân sư vân nễ đãn quản ưng
-thân vấn lãng nguyệt đương không thời như hà sư vân xà lê danh thập ma học vân mỗ giáp
-sư vân lãng nguyệt đương không tại thập ma xứ vấn chính đương nhị bát thời như hà sư vân
-đông đông tây tây học vân như hà thị đông đông tây tây sư vân mịch bất trước vấn học
-nhân toàn bất hội thời như hà sư vân ngã canh bất hội vân hòa thượng hoàn tri hữu dã
-vô sư vân ngã bất thị mộc đầu tác ma bất tri vân đại hảo bất hội sư bác chưởng
-tiếu chi vấn như hà thị đạo nhân sư vân ngã hướng đạo thị phật nhân vấn phàm hữu ngôn
-cú cử thủ động túc tận lạc tại học nhân võng trung li thử ngoại thỉnh sư đạo sư vân
-lão tăng trai liễu vị khiết trà mã đại phu vấn hòa thượng hoàn tu hành dã vô sư vân
-lão tăng nhược tu hành tức hoạ sự vân hòa thượng kí bất tu hành giáo thập ma nhân tu
-hành sư vân đại phu thị tu hành để nhân vân mỗ giáp hà danh tu hành sư vân nhược
-bất tu hành tranh đắc phốc tại nhân vương vị trung Ủy đắc lai xích đống hồng địa vô hữu
-giải xuất kì đại phu nãi hạ lệ bái tạ
-sư thị chúng vân xà lê bất thị bất tương lai lão tăng bất thị bất kì đối hựu vân
-xà lê mạc kình quyền hợp chưởng lão tăng bất tương thiền sàng bật tử đối vấn tư ức bất
-cập xứ như hà sư vân quá giả biên lai vân quá giả biên lai tức thị cập xứ như
-hà thị tư bất cập xứ sư thụ khởi thủ vân nễ hoán tác thập ma vân hoán tác thủ
-hòa thượng hoán tác thập ma sư vân bá chủng danh tự ngã diệc đạo vân bất cập hòa thượng
-bá chủng danh tự thả hoán thập ma sư vân dữ ma tức nễ tư ức bất cập xứ tăng
-lễ bái sư vân giáo nễ tư ức đắc cập giả vân như hà thị sư vân thích ca giáo
-tổ sư giáo thị nễ sư vân tổ dữ phật cổ nhân đạo liễu dã như hà thị tư ức
-bất cập xứ sư tái cử chỉ vân hoán tác thập ma tăng lương cửu sư vân hà bất đương
-đầu đạo trước canh nghi thập ma vấn như hà thị hòa thượng gia phong sư vân lão tăng nhĩ
-bội cao thanh vấn tăng tái vấn sư vân nễ vấn ngã gia phong ngã khước thức nễ gia phong
-vấn vạn cảnh câu khởi thời như hà sư vân vạn cảnh câu khởi vân nhất vấn nhất đáp thị
-khởi như hà thị bất khởi sư vân thiền sàng thị bất khởi để tăng tài lễ bái thứ sư
-vân kí đắc vấn đáp vân kí đắc sư vân thí cử khán tăng nghĩ cử sư vấn vấn như
-hà thị mục tiền phật sư vân điện lí để vân giả cá thị tướng mạo phật như hà thị
-phật sư vân tức tâm thị vân tức tâm do thị hạn lượng như hà thị phật sư vân vô
-tâm thị học vân hữu tâm vô tâm hoàn hứa học nhân giản dã vô sư vân hữu tâm vô
-tâm tổng bí nễ giản liễu dã canh giáo lão tăng đạo thập ma tức đắc vấn viễn viễn đầu
-sư vị thẩm gia phong như hà sư vân bất thuyết tự nhân học vân vi thập ma bất thuyết
-tự nhân sư vân thị ngã gia phong học vân hòa thượng kí bất thuyết tự nhân tranh nại tứ
-hải lai đầu sư vân nễ thị hải ngã bất thị hải học vân vị thẩm hải nội sự như
-hà sư vân lão tăng điếu đắc nhất cá vấn tổ phật cận bất đắc để thị thập ma nhân
-sư vân bất thị tổ phật học vân tranh nại cận bất đắc hà sư vân hướng nễ đạo bất
-thị tổ phật bất thị chúng sinh bất thị vật đắc ma học vân thị thập ma sư vân nhược
-hữu danh tự tức thị tổ phật chúng sinh dã học vân bất khả chỉ dữ ma khứ dã sư
-vân tốt vị dữ nễ khứ tại vấn như hà thị bình thường tâm sư vân hồ lang dã can
-thị vấn tác hà phương tiện tức đắc văn ư vị văn sư vân vị văn thả trí nễ tằng
-văn cá thập ma lai vấn thừa giáo hữu ngôn tùy sắc ma ni châu như hà thị bản sắc
-sư triệu tăng danh tăng ưng nặc sư vân quá giả biên lai tăng tiện quá hựu vấn như hà
-thị bản sắc sư vân thả tùy sắc tẩu vấn bình thường tâm để nhân hoàn thụ giáo hoá dã
-vô sư vân ngã bất lịch tha môn hộ học vân dữ ma tắc mạc trầm khước na biên nhân
-ma sư vân đại hảo bình thường tâm vấn như hà thị học nhân bảo nhâm để vật sư vân
-tận vị lai tế giản bất xuất vấn như hà thị đại tu hành để nhân sư vân tự lí
-cương duy thị vấn học nhân tài đáo tổng bất tri môn hộ đầu sự như hà sư vân thượng
-tòa danh thập ma học vân huệ nam sư vân đại hảo bất tri vấn học nhân dục học hựu
-báng ư hòa thượng như hà đắc bất báng khứ sư vân nễ danh thập ma học vân đạo hạo
-sư vân tĩnh xứ khứ giả mễ độn tử vấn như hà thị hòa thượng đại ý sư vân vô
-đại vô tiểu học vân mạc tiện thị hòa thượng đại ý ma sư vân nhược hữu tiêm hào vạn
-kiếp bất như vấn vạn pháp bản nhàn nhi nhân tự náo thị thập ma nhân ngữ sư vân xuất
-lai tiện tử vấn bất thị phật bất thị vật bất thị chúng sinh giá cá thị đoạn/đoán ngữ như
-hà thị bất đoạn/đoán ngữ sư vân thiên thượng thiên hạ duy ngã độc tôn vấn như hà thị tì
-lô viên tướng sư vân lão tăng tự tiểu xuất gia bất tằng nhãn hoa học vân hòa thượng hoàn
-vi nhân dã vô sư vân nguyện nễ trường kiến tì lô viên tướng vấn phật tổ tại nhật phật
-tổ tướng truyền phật tổ diệt hậu thập ma nhân truyền sư vân cổ kim tổng thị lão tăng phân
-thượng học vân vị thẩm truyền cá thập ma sư vân cá cá tổng thuộc sinh tử vân bất khả
-mai một khước tổ sư dã sư vân truyền cá thập ma vấn phàm thánh câu tận thời như hà
-sư vân nguyện nễ tác đại đức lão tăng thị chướng phật tổ hán vấn viễn văn triệu châu đáo
-lai vi thập ma bất kiến sư vân lão tăng tội quá vấn lãng nguyệt đương không vị thẩm thất
-trung sự như hà sư vân lão tăng tự xuất gia bất tằng tác hoạt kế học vân dữ ma
-tức hòa thượng bất vi kim thời dã sư vân tự tật bất năng cứu yên năng cứu chư tật
-học vân tranh nại học nhân vô y hà sư vân y tức đạp trước địa bất y tức nhất
-nhâm đông tây vấn tại tâm tâm bất trắc thời như hà sư vân trắc a thùy học vân trắc
-tự kỉ sư vân vô lưỡng cá vấn bất kiến biên biểu thời như hà sư chỉ tịnh bình vân
-thị thập ma học vân tịnh bình sư vân đại hảo bất kiến biên biểu vấn như hà thị quy
-căn sư vân nghĩ tức sai vấn bất li ngôn cú như hà đắc độc thoát sư vân li ngôn
-cú thị độc thoát học vân đích lai vô nhân giáo mỗ giáp lai sư vân nhân thập ma đáo
-thử học vân hòa thượng hà bất giản xuất sư vân ngã tảo cá giản liễu dã vấn phi tâm
-bất tức trí thỉnh hòa thượng nhất cú sư vân lão tăng lạc nễ hậu vấn như hà thị tất
-cánh sư vân tất cánh học vân na cá tất cánh thị sư vân lão tăng thị tất cánh nễ
-bất giải vấn giả thoại học vân bất thị bất vấn sư vân tất cánh tại thập ma xứ vấn
-bất quải thốn ti thời như hà sư vân bất quải thập ma học vân bất quải thốn ti sư
-vân đại hảo bất quải thốn ti vấn như cứu đầu nhiên để nhân như hà sư vân tiện học
-học vân thập ma xứ sư vân mạc chiêm tha vị thứ vấn không kiếp trung a thùy vi chủ
-sư vân lão tăng tại lí hứa toạ học vân thuyết thậm ma pháp sư vân thuyết nễ vấn để
-vấn thừa cổ hữu ngôn hư minh tự chiếu như hà thị tự chiếu sư vân bất xưng tha chiếu
-học vân chiếu bất trước xứ như hà sư vân nễ thoại đoạ dã vấn như hà thị đích sư
-vân nhất niệm vị khởi thời vấn như hà thị pháp vương sư vân châu lí đại vương thị vân
-hòa thượng bất thị sư vân nễ nghĩ tạo phản khứ đô lai nhất cá vương bất nhận vấn như
-hà thị phật tâm sư vân nễ thị tâm ngã thị phật phụng bất phụng tự khán học vân sư
-tức bất vô hoàn phụng đắc dã vô sư vân nễ giáo hoá ngã khán vấn tam thân trung na
-cá thị bản lai thân sư vân quyết nhất bất khả vấn vị thẩm thử độ thùy vi tổ sư
-sư vân đạt ma lai giá biên tổng thị học vân hòa thượng thị đệ kỉ tổ sư vân ngã
-bất lạc vị thứ học vân tại thập ma xứ sư vân tại nễ nhĩ lí vấn bất khí bản
-bất trục mạt như hà thị chính đạo sư vân đại hảo xuất gia nhi học vân học nhân tùng
-lai bất tằng xuất gia sư vân quy y phật quy y pháp học vân vị thẩm hữu gia khả
-xuất dã vô sư vân trực tu xuất gia học vân hướng thập ma xứ an bài tha sư vân
-thả hướng gia lí toạ vấn minh nhãn nhân kiến nhất thiết hoàn kiến sắc dã vô sư vân đả
-khước trước học vân như hà đả đắc sư vân mạc dụng lực học vân bất dụng lực như hà
-đả đắc sư vân nhược dụng lực tức quai vấn tổ phật đại ý hợp vi thập ma nhân sư
-vân chỉ vi kim thời học vân tranh nại bất đắc hà sư vân thùy chi quá học vân như
-hà thừa đương sư vân như kim vô nhân thừa đương đắc học vân dữ ma tức vô y ỷ
-dã sư vân hựu bất khả vô khước lão tăng vấn liễu sự để nhân như hà sư vân chính
-đại tu hành học vân vị thẩm hòa thượng hoàn tu hành dã vô sư vân trước y khiết phạn
-học vân trước y khiết phạn tầm thường sự vị thẩm tu hành dã vô sư vân nễ thả đạo
-ngã mỗi nhật tác thập ma tồi lang trung vấn đại thiện tri thức hoàn nhập địa ngục dã vô
-sư vân lão tăng mạt thượng nhập tồi vân kí thị đại thiện tri thức vi thập ma nhập địa
-ngục sư vân lão tăng nhược bất nhập tranh đắc kiến lang trung vấn hào hi hữu sai thời như
-hà sư vân thiên địa huyền cách vân hào hi vô sai thời như hà sư vân thiên địa huyền
-cách vấn như hà thị bất thụy để nhãn sư vân phàm nhãn nhục nhãn hựu vân tuy vị đắc
-thiên nhãn nhục nhãn lực như thị học vân như hà thị thụy để nhãn sư vân phật nhãn pháp
-nhãn thị thụy để nhãn vấn đại dữu lĩnh đầu sấn đắc cập vi thập ma đề bất khởi sư
-niêm khởi nạp y vân nễ thậm xứ đắc giả cá lai học vân bất vấn giả cá sư vân
-dữ ma tức đề bất khởi vấn bất hợp bất tán như hà ban sư vân nễ hữu nhất cá
-ngã hữu nhất cá vân giả cá thị hợp như hà thị tán sư vân nễ tiện hợp vấn như
-hà thị bất thác lộ sư vân thức tâm kiến tính thị bất thác lộ vấn minh châu tại chưởng
-hoàn chiếu dã vô sư vân chiếu tức bất vô hoán thập ma tác châu vấn linh miêu vô căn
-thời như hà sư vân nễ tùng thập ma xứ lai vân thái nguyên lai sư vân đại hảo vô
-căn vấn học nhân nghĩ tác phật thời như hà sư vân đại sát phí lực sinh vân bất phí
-lực thời như hà sư vân dữ ma tức tác phật khứ dã vấn học nhân hôn độn tại nhất
-phù trầm như hà đắc xuất sư chỉ cứ toạ vân mỗ giáp thật vấn hòa thượng sư vân nễ
-thậm xứ tác nhất phù nhất trầm vấn bất tại phàm bất tại thánh như hà miễn đắc lưỡng đầu
-lộ sư vân khứ khước lưỡng đầu lai đáp nễ tăng bất thẩm sư vân bất thẩm tùng thập ma
-xứ khởi tại giả lí thời tùng lão tăng khởi tại thị lí thời tùng thập ma xứ khởi vân
-hòa thượng vi thập ma bất định sư vân ngã giáo nễ hà bất đạo kim nhật hảo phong vấn
-như hà thị đại xiển đề để nhân sư vân lão tăng đáp nễ hoàn tín phủ vân hòa thượng
-trùng ngôn na cảm bất tín sư vân mịch cá xiển đề nhân nan đắc vấn đại vô tàm quý
-để nhân thập ma xứ trước đắc sư vân thử gian trước bất đắc vân hốt nhiên xuất đầu tranh
-hướng sư vân tương thủ khứ vấn dụng xứ bất hiện thời như hà sư vân dụng tức bất vô
-hiện thị thùy vấn không kiếp trung hoàn hữu nhân tu hành dã vô sư vân hoán thập ma tác
-không kiếp vân vô nhất vật thị sư vân giả cá thuỷ xưng tu hành hoán thập ma tác không
-kiếp vấn như hà thị xuất gia sư vân bất lí cao danh bất cầu cấu hoại vấn bất chỉ
-nhất pháp như hà thị hòa thượng pháp sư vân lão tăng bất thuyết mão sơn pháp vân kí bất
-thuyết mão sơn pháp như hà thị hòa thượng pháp sư vân hướng nễ đạo bất thuyết mão sơn pháp
-vân mạc giả cá tiện thị dã vô sư vân lão tăng vị tằng tương giả cá thị nhân vấn
-như hà thị mục tiền độc thoát nhất lộ sư vân vô nhị diệc vô tam vân mục tiền hữu
-lộ hoàn hứa học nhân tấn tiền dã vô sư vân dữ ma tức thiên lí vạn lí vấn như
-hà thị tì lô hướng thượng sự sư vân lão tăng tại nễ cước để vân hòa thượng vi thập
-ma tại học nhân cước để sư vân nễ nguyên lai bất tri hữu hướng thượng sự vấn như hà
-thị hợp đầu sư vân thị nễ bất hợp đầu vân như hà thị bất hợp đầu sư vân tiền
-cú ban thủ vấn như hà thị hòa thượng đích đích ý sư vân chỉ chỉ bất tu thuyết ngã
-pháp diệu nan tư vấn trừng trừng tuyệt điểm thời như hà sư vân đoạ khanh lạc tiệm vân hữu
-thập ma quá sư vân nễ quật trước dữ ma nhân vấn vị thẩm xuất gia thệ cầu vô thượng
-bồ đề thời như hà sư vân vị xuất gia bí bồ đề sứ kí xuất gia sứ đắc bồ
-đề hữu tú tài kiến sư thủ trung trụ trượng nãi vân phật bất đoạt chúng sinh nguyện thị phủ
-sư vân thị tú tài vân mỗ giáp tựu hòa thượng khí thủ thủ trung trụ trượng đắc phủ sư
-vân quân tử bất đoạt nhân sở hảo tú tài vân mỗ giáp bất thị quân tử sư vân lão
-tăng diệc bất thị phật sư nhân xuất ngoại kiến bà tử sáp điền vân hốt ngộ mãnh hổ tác
-ma sinh bà vân vô nhất pháp khả đương tình sư vân bà tử vân sư vân do
-hữu giả cá tại hữu tú tài từ khứ vân mỗ giáp tại thử quát nạo hòa thượng đa thời
-vô khả báo đáp hòa thượng đãi tha nhật tác nhất đầu lư lai báo đáp hòa thượng sư vân
-giáo lão tăng tranh đắc an sư đáo đạo ngô xứ tài nhập tăng đường ngô vân nam toàn nhất
-chích tiến lai sư vân khán tiến ngô vân quá dã sư vân trung dã vấn bá hài câu hội
-tán nhất vật trấn trường linh thời như hà sư vân kim triêu hựu phong khởi vấn tam thừa thập
-nhị phân giáo tức bất vấn như hà thị tổ sư tây lai ý sư vân thuỷ cổ ngưu sinh
-nhi dã hảo khán thủ vân vị thẩm thử ý như hà sư vân ngã diệc bất tri vấn vạn
-quốc lai triêu thời như hà sư vân phùng nhân bất đắc hoán vấn thập nhị thời trung như hà
-đào thải sư vân nại hà thuỷ trược tây thuỷ lưu cấp vân hoàn đắc kiến văn thù dã vô
-sư vân giả mông đồng hán thập ma xứ khứ lai vấn như hà thị đạo trường sư vân nễ
-tùng đạo trường lai nễ tùng đạo trường khứ thoát thể thị đạo trường hà xứ canh bất thị vấn
-manh nha vị phát thời như hà sư vân khứu trước tức não liệt vân bất khứu thời như hà
-sư vân vô giả nhàn công phu vấn như hà số lượng sư vân nhất nhị tam tứ ngũ vân
-số lượng bất câu để sự như hà sư vân nhất nhị tam tứ ngũ vấn thập ma thế giới
-tức vô trú dạ sư vân tức kim thị trú thị dạ vân bất vấn tức kim sư vân tranh
-nại lão tăng hà vấn ca diệp thượng hành y bất đạp tào khê lộ thập ma nhân đắc phi
-sư vân hư không bất xuất thế đạo nhân đô bất tri vấn như hà thị hồn nhi bất tạp
-sư vân lão tăng thái thực trường trai vân hoàn đắc siêu nhiên dã vô sư vân phá trai dã
-vấn như hà thị cổ nhân chi ngôn sư vân đế thính đế thính vấn như hà thị học nhân
-bản phân sự sư vân dữ ma hiềm thập ma vấn vạn pháp quy nhất nhất quy hà sở sư
-vân ngã tại thanh châu tác nhất lĩnh bố sam trùng thất cân vấn như hà thị xuất gia nhi
-sư vân bất triêu thiên tử phụ mẫu phản bái vấn địch diện sự như hà sư vân nễ thị
-địch diện hán
+quân châu đại ngu chi hòa thượng ngữ lục
+sư thái nguyên vương thị tử thăng tòa tăng vấn như hà thị hòa thượng gia phong sư vân nhất
+ngôn dĩ xuất tứ mã nan truy vấn như hà thị thành lí phật sư vân thập tự nhai đầu
+thạch tràng tử vấn như hà thị vi nhân nhất cú sư vân tứ giác lục trương tấn vân ý
+chỉ như hà sư vân bát ao cửu đột vấn bất lạc tam thốn thời như hà sư vân kiền
+tam trường khôn lục đoản tấn vân ý chỉ như hà sư vân thiết kị địa doanh hư vấn tích
+nhật linh sơn phân bán tòa nhị sư tướng kiến sự như hà sư vân kí đắc ma tăng lương
+cửu sư đả thiền sàng nhất hạ vân đa niên vô khước dã sư vân thả trụ thả trụ nhược
+hướng ngôn trung thủ tắc cú lí minh cơ dã tự mê đầu nhận ảnh nhược dã cử xướng tông
+thừa đại tự nhất trường mị ngữ tuy nhiên như thị quan bất dong châm tư thông xa mã phóng
+nhất tuyến đạo hữu cá cát đằng xứ sư toại đả thiền sàng nhất hạ vân tam thế chư phật
+tận giai đầu thống thả đạo đại chúng hoàn hữu miễn đắc để ma nhược nhất nhân miễn đắc vô
+hữu thị xứ nhược miễn bất đắc hải ấn phát quang sư nãi thụ khởi bật tử vân giả cá
+thị ấn na cá thị quang giả cá thị quang na cá thị ấn sế điện chi cơ đồ lao
+trữ tư hội ma lão tăng thuyết mộng thả đạo mộng kiến cá thập ma nam kha thập canh nhược
+bất hội thính thủ nhất tụng bắc ẩu quải tu di trượng đầu thiêu nhật nguyệt lâm toàn hảo thương
+lượng hạ mạt thu phong thiết
+khai đường thăng tòa tăng chính tuyên sơ bạch đôi bãi hữu tăng vấn đại dụng hiện tiền bất tồn
+quỹ tắc thỉnh sư huy kiếm sư vân điểm nhãn tri nhân ý khán thủ linh hành thời tấn vân
+não hậu xuyên sư vân trai hậu chung vấn như hà thị phật pháp đại ý sư vân suy thiên
+khái địa vấn tâm pháp vô hình như hà điêu trác sư vân nhất đinh lưỡng đinh tấn vân vị
+hiểu giả như hà lĩnh hội sư vân thấu thất thấu bát vấn như hà thị đại ngu cảnh sư
+vân tứ diện phong loan tú duyên giang nhất đái thanh tấn vân như hà thị cảnh trung nhân sư
+vân mãn thành công tử quý lâm hạ đạo nhân thê vấn niêm đôi thụ bật tức bất vấn đương
+cơ nhất cú sự như hà sư vân tiêu đầu liệu diện tấn vân lôi âm dĩ triệt thanh vân
+ngoại hướng thượng cực tắc hựu như hà sư vân thả lĩnh tiền thoại nãi vân vấn thoại thả trụ
+tịnh danh đỗ khẩu do thiệp phồn từ đạt ma tây lai bình khi hán địa phóng nhất tuyến đạo
+khứ dã phóng cá cát đằng xứ sở dĩ lí trường giả vân hữu tình chi bản đồng trí hải
+dĩ hoàn nguyên bão thức hàm lưu tổng pháp thân nhi vi thể chư nhân giả kí thị tổng pháp
+thân nhi vi thể hoàn tri đạo tu di thôn khước pháp thân pháp thân thôn khước tu di ma
+chư nhân giả triêu tịch dữ cổ phật đồng sâm dữ chư phương lão hòa thượng đồng sâm sơn tăng
+kim nhật dữ đại chúng đồng sâm thả đạo sâm cá thập ma như thị định đương đắc thả nhận
+đắc cá trước y khiết phạn do khứ nạp tăng bán nguyệt trình tại nhược định đương bất đắc lai
+niên canh hữu tân điều tại não loạn xuân phong tốt vị hưu
+thượng đường tăng vấn như hà thị đạo sư vân bát hộc tứ ẩu tấn vân như hà thị đạo
+trung nhân sư vân chử dục sáp phạn vấn bảo kiếm vị xuất hạp thời như hà sư vân thiết
+kị đạo trước tấn vân xuất hạp hậu như hà sư vân thiên ma não liệt nãi vân cử nhất
+bộ tu di ngập hải thuỷ đằng ba bất cử nhất bộ phóng vi trần quốc độ trợ nhất
+thiết chư phật xuất hưng ư thế chuyển đại pháp luân hoàn tín đắc ma nhược tín đắc tây cù
+da ni khiết phạn khứ
+thượng đường tăng vấn như hà thị tổ sư tây lai ý sư vân bạch nhật thiêu địa miên dạ
+gian chích địa ngoạ vấn kí thị thanh tịnh pháp thân vi thập ma khước táo dục sư vân đầu
+xuất đầu một tấn vân vi thập ma như thử sư vân chỉ vi như thử vấn cổ kính vị
+ma thời như hà sư vân chiếu phá thiên hạ nhân độc lâu tấn vân ma hậu như hà sư
+vân hắc tự tất
+thượng đường tăng vấn hồng chung tài kích đại chúng vân trăn tổ ý tây lai khí sư thùy thị
+sư vân lục đinh lục giáp tấn vân vị hiểu giả như hà lĩnh hội sư vân hội tức thác
+vấn mã sư vị kiến nhượng sư thời như hà sư vân khẩn tấn vân kiến hậu như hà sư
+vân thiết vấn như hà thị phật sư vân cứ giải xứng đôi sư vân đức sơn nhập môn tiện
+bổng lâm tế nhập môn tiện ái nhất bổng nhất ái nhược song phong nhi hỗ xuất tân chủ vị
+ban tê tê nhi vạn lí hương quan chiếu dụng song hành nghĩ nghĩ nhi thiên sai tắc lộ chư
+thượng tòa đáo giả lí như hà thoại hội nãi vân bổng ái tề thí tảo dĩ xa cổ kim
+giai tán xuất chu già nhị đồ bất thiệp bằng hà thuyết nam hải ba tư tấn tượng nha
+thượng đường tăng vấn đặc đặc thượng lai thân tam bái khí sư phân phó trụ trượng tử sư vân
+khoa tấn vân nhẫm ma tắc công bất hư thí dã sư vân trùng nhân thỉnh thủ tòa khai đường
+tăng vấn thừa hòa thượng hữu ngôn nhất nhân ngộ đạo tam giới bình trầm thủ tòa ngộ đạo tam
+giới hoàn trầm dã vô sư vân bất yêm bất ức tấn vân nhất ngôn tài xuất đại địa toàn
+thu sư vân lạc tam lạc tứ sư nãi vân vi chúng kiệt lực cái vi ca sa đồng kiên
+nhất xứ khiết phạn mạc thị nhân các phi nhất điều đồng oa khiết phạn ma thử thị phân kiến
+hoàn tri đạo tam thế chư phật cộng phi nhất điều sở dĩ thích ca thân trường trượng lục lưu
+hạ ca sa dữ di lặc di lặc thân trường thiên xích phi đắc kháp hảo hà cố như thử
+cái vi trường giả trường pháp thân đoản giả đoản pháp thân yếu đắc dị hội ma cổ phật dữ
+lộ trụ tướng giao phật điện dữ thiên vương đấu ngạch nhược dã bất hội đạn trùng giao sách
+thượng đường vân hữu thời nhất ái chỉ tác nhất ái dụng hữu thời nhất ái tác thám can ảnh
+thảo hữu thời nhất ái như cứ địa sư tử hữu thời nhất ái như kim cương vương bảo kiếm
+nhược thị kim cương vương bảo kiếm bất cảm chính nhãn thứ trước thứ trước tức tang thân thất mệnh
+nãi hữu tụng vân bất thị can tương chú na quan tứ khí xuy hạp nội thanh xà hống phùng
+yêu nhâm tiện huy nhược đắc toàn đề giả đương cơ khởi thất thời tì lô kinh đắc tẩu đại
+chúng tận toàn mi
+thượng đường vân đại ngu tướng tiếp đại hùng tôn ngũ hồ vân thuỷ cạnh đầu bôn cạnh đầu bôn
+hữu hà môn kích tiến ninh tri khô mộc tồn khô mộc tồn nhất niên hoàn tằng lưỡng độ xuân
+lưỡng độ xuân trướng lí chân châu tản dữ nhân tản dữ nhân tư lượng dã thị mộ tây tần
+cử tăng vấn phần châu hòa thượng như hà thị tiếp sơ cơ cú châu vân nhữ thị hành cước
+tăng như hà thị ban nạp tăng cú tây phương nhật xuất mão như hà thị chính linh hành cú
+thiên lí đặc lai trình cựu diện như hà thị lập kiền khôn cú bắc câu lô châu trường canh
+mễ thực giả vô tham diệc vô sân sư vân tương thử tứ cú ngữ dĩ nghiệm thiên hạ nạp
+tăng tử tế tư lượng tương thử tứ cú ngữ bí thiên hạ nạp tăng nhất thời khám phá
+quân châu phủ chủ lí mật gián thỉnh tựu thượng lam khai đường nãi niêm hương vân cung vi kim
+thượng hoàng đế vạn tuế thái hậu thiên thu hựu niêm hương vân thử nhất biện hương phụng vi phủ
+chủ mật gián kị hạp quận quan liêu thường cư lộc vị thử nhất biện hương phụng vi thí chủ
+đàn na tại diên long tượng sư nãi vân hoàn hữu nhân uy đắc lạc xứ ma nhược uy đắc
+tùy cơ lợi vật ưng hoá vô phương thiên thượng nhân gian xuất một quyển thư túng hoành tự tại
+nhược dã vị uy lạc xứ thích ca lão tử tam thế chư phật nhị thập bát tổ thiên hạ
+lão hòa thượng nhất thời phao tại lô trung tùng thính lão tăng cát đằng thời hữu tăng vấn như
+hà thị phật sư vân hoàn kí đắc ma tăng vân nhược bất thỉnh ích tranh tri như thị sư
+kích thiền sàng nhất hạ vân tảo thị vô khước liễu tăng vân phóng hòa thượng nhất tuyến đạo sư
+vân nhất nhâm đào triệu bột đào vấn như hà thị hồng châu cảnh đáp vân đằng vương các hạ thiên phong
+tú nhụ tử đình tiền bạc vụ sinh tăng vân như hà thị cảnh trung nhân đáp vân xuất nhập
+xao kim đăng chu y đối cẩm bình vấn như hà thị thuý nham cảnh sư vân hồng đán thao
+thao cấp sơn cao thế cận nhân vấn như hà thị cảnh trung nhân sư vân triêu khứ mộ quy
+sư phục vân vấn thoại thả chỉ sơn tăng đạo bạc nhân vi tố vô đức hành thao thừa mật
+gián chư quan liêu đồng thân kiên thỉnh thăng ư thử tòa thượng đáp hoàng ân quốc tộ vĩnh an
+pháp luân thường chuyển thả đạo pháp luân tác ma sinh chuyển dục đắc hội ma tu di sơn thượng
+đảo phiên thân khước lai đường trung điệp túc toạ a a a thị thập ma phạn la lí toạ
+khước thụ ngạ hòa nê hợp thuỷ dữ ma quá thượng sĩ văn chi khẩu liệt liệt thần dĩ khẩu liệt liệt thần dĩ hạ sĩ văn chi
+khẳng khả tử tế tư lượng khước thành khẩu quá yếu hội ma nhất lục tam tứ nhị trực ngôn
+khúc thất nhất đào lí hoả trung khai hoàng hôn hậu nhật xuất cửu lập tôn quan phục duy trân trùng
+thượng đường vân thuý nham lộ cốt đồ lao trữ tư hựu vân thuý nham lộ hiểm hiến cử bộ
+thiệp thiên khê canh hữu hồng nguyên thuỷ thao thao tại lĩnh tây kích thiền sàng hạ tòa
+thượng đường vân tiều phụ diêm sài y vương ban giá dược đa bệnh thậm tiện hạ tòa
+thượng đường cử tuyết đậu hòa thượng vân nhất vấn nhất đáp tổng vị hữu sự tại giả nhiêu tận
+đại địa kiền khôn thảo mộc tùng lâm tận vi nạp tăng dị khẩu đồng âm trí bá thiên vấn
+nan bất tiêu lão tăng đàn chỉ nhất hạ tịnh nãi cao đê phổ ưng tiền hậu vô sai sư
+vân thuý nham tức bất nhiên tận kiền khôn đại địa vi trần hoá vi nạp tăng các trí nhất
+vấn vấn vấn các biệt khước hướng y đạo nễ hứa đa nạp tăng bì hạ hoàn hữu huyết ma
+thượng đường vân vi chúng kiệt lực hoạ xuất tư môn tiện hạ tòa
+thượng đường vân đôi chung kích cổ tụ tập chư thượng tòa thượng lai hạ khứ tử thừa phụ nghiệp
+trám sát đa thiểu nhân
+thượng đường cử bàn sơn tụng vân quang phi chiếu cảnh cảnh diệc phi tồn quang cảnh câu vô phục
+thị hà vật sư nãi thụ khởi bật tử vân vi trần chư phật quang minh tổng tại giá lí
+chiếu phá nễ chư nhân tâm can ngũ tạng tì vị can đảm nạp tăng diện tiền bất đắc đạo
+trước thiết nghi kị khẩu kích thiền sàng hạ tòa
+tiểu sâm thị chúng vân nhất kích hưởng linh lung huyên oanh vũ trụ thông tri âm tài trắc nhĩ
+hạng vũ quá giang đông dữ ma hội kháp nhận đắc lư an kiếu tác a gia hạ hạm
+tiểu sâm thị chúng vân tăng trung hữu kì nhân tục sĩ trung diệc hữu kì nhân thánh triêu dương
+ức thị lang hữu tụng vân bát giác ma bàn không lí tẩu kim mao sư tử biến tác cẩu
+nghĩ dục tạng thân bắc ẩu trung ưng tu hợp chưởng nam thần hậu sư vân yếu hội ma nhất
+kệ bá chư phương tắc đoạn/đoán nạp tăng khẩu hạ tòa
+thượng đường vân hữu cú vô cú như đằng ỷ thụ thụ đảo đằng khô kháp nhận đắc cá đảo
+căn xứ
+thượng đường vân vụ quyển vân thu giang sơn huýnh tú bất thương vật nghĩa ba tư khứ mạo
+thượng đường vân thô ngôn cập tế ngữ giai quy đệ nhất nghĩa chư thượng tòa mỗi nhật thượng lai
+lão tăng thuyết mộng cuống hách chư nhân tuy nhiên như thị tử thừa phụ nghiệp trám sát đa thiểu
+nhân hạ tòa
+thượng đường vân thập địa kinh tâm nhị thừa võng trắc đồng đầu thiết ngạch kích thiền sàng hạ tòa
+thượng đường vân đoan nhiên cứ toạ độ cước mãi ngoa tả thị hữu cố bất chuẩn nhất tiền
+thượng đường cử tiên thuý nham vân ngã nhất hạ dữ sư tăng đông thuyết tây thoại nễ khán ngã
+mi mao tại ma bảo phúc vân tác tặc nhân tâm hư sư vân hà cố như thị đắc nhân
+nhất ngưu hoàn nhân nhất mã hạ tòa
+thượng đường vân đại dương hải để bài ban vị tùng đầu đệ nhị mấn mao ban vi thập ma
+bất đạo đệ nhất mấn mao ban yếu hội ma kim nhị ngân ti thành ngọc lộ cao tăng bất
+toạ phụng hoàng đài hạ tòa
+thượng đường vân thụ cùng tam tế hoành biến thập phương niêm khởi dã đế thích tâm kinh phóng hạ
+dã địa thần đảm chiến bất niêm bất phóng hoán tác thập ma tự vân hà mô hạ tòa
+thượng đường vân nhược hữu tiên đà giả canh bất đãi hào quang hạ tòa
+thượng đường vân tam thế chư phật bất tri hữu li nô bạch cổ khước tri hữu nãi niêm khởi
+bật tử vân li nô bạch cổ tổng tại giá lí phóng quang động địa hà vị như thử lưỡng
+đoạn bất đồng hạ tòa
+thượng đường vân đức sơn nhập môn tiện bổng lâm tế nhập môn tiện ái thuý nham giá lí tức
+bất nhiên tam môn tiền hảo dữ tam thập bổng hà vị như thử bổng ái tề thí tảo dĩ
+xa cổ kim giai tán tuyệt chu già nhị đồ bất thiệp bằng hà thuyết nam hải ba tư hiến
+tượng nha hạ tòa
+thượng đường vân đại chúng tập định hiện thành công án dã thị đả xà bất biện hạ tòa
+thượng đường niêm khởi hương hạp vân minh đầu ám hợp đạo đắc thiên hạ hoành hành nhược đạo bất
+đắc thả hợp khước hạ tòa
+thượng đường vân sa lí vô du sự khả ai thuý nham tước phạn Ủy anh hài tha thời hảo
+ác tri đoan đích thuỷ giác tùng tiền mãn diện hôi kích thiền sàng hạ tòa
+nhân quân châu trương nhất lang đáo thượng đường vân cửu tư trương xứ sĩ tướng biệt thập dư nguyệt
+kim nhật thượng sơn lai thiết bát chử sơn quyết quy khứ đáo quân dương đãn thỉnh dữ ma thuyết
+thượng đường tăng vấn nhất thiết hữu vi pháp như mộng ảo bào ảnh chân thật sự thỉnh sư cử
+sư vân lưỡng đoạn bất đồng hướng hạ văn trường vấn mãn thân thị nhãn khẩu tại thập ma xứ
+sư vân tam đào tăng vân học nhân bất hội đặc thân thỉnh ích sư vân chương để từ thu
+bãi ca vận hướng xuân sinh sư nãi vân vân thu vụ quyển giang sơn bạch hạo nhật ngưng ba
+hựu đa đồ hạ tòa
+niêm cổ
+cử ngoại đạo vấn phật bất vấn hữu ngôn bất vấn vô ngôn thế tôn cứ toạ ngoại đạo vân
+thế tôn đại từ đại bi khai ngã mê vân linh ngã đắc nhập sư vân đại tiểu thế tôn
+bí ngoại đạo đương diện đồ hồ chỉ như ngoại đạo vân linh ngã đắc nhập yếu thả bất tằng
+mộng kiến kí bất tằng mộng kiến vi thập ma ngộ khứ a nan vấn ca diệp phật truyền kim
+lan ngoại biệt truyền cá thập ma ca diệp triệu a nan nan ưng nặc ca diệp vân đảo khước
+môn tiền sa can trước sư vân thiên niên vô ảnh thụ kim thời một để ngoa ngũ thông tiên
+nhân vấn phật vân phật hữu lục thông ngã hữu ngũ thông như hà thị na nhất thông phật triệu
+ngũ thông tiên nhân tiên nhân ưng nặc phật vân na nhất thông nễ vấn ngã sư vân ngũ thông
+tiên nhân như thị vấn phật như thị đáp yếu thả bất hội na nhất thông tổ sư vấn đồng
+tử vân nhữ tùng hà lai tử vân ngã tâm phi vãng tổ vân nễ trụ hà sở tử vân
+ngã tâm phi chỉ tổ vân nhữ vô định dã tử vân chư phật diệc nhiên tổ vân nễ phi
+chư phật tử vân chư phật diệc phi sư vân tổ sư nhất vấn đồng tử nhất đáp tổng khiếm
+hội tại như kim chư nhân tác ma sinh hội kế tân quốc vương trượng kiếm vấn sư tử tôn
+giả vân sư đắc uẩn không phủ giả vân dĩ đắc uẩn không vương vân hoàn li sinh tử phủ
+giả vân dĩ li sinh tử vương vân kí li sinh tử đương thí ngã đầu giả vân thân phi
+ngã hữu khởi huống ư đầu vương trảm chi bạch nhũ cao số xích vương tí tự lạc sư vân
+đương thời tôn giả dẫn cảnh vương tiện cử nhận đương nhẫm ma thời hữu nhân xuất lai gián đắc
+trụ ma chí kim vô nhân đoạn/đoán thử công án như kim nạp tăng tác ma sinh đoạn/đoán phó đại
+sĩ vân dạ dạ bão phật miên triêu triêu hoàn cộng khởi khởi toạ trấn tướng tùy như thân ảnh
+tướng tự dục thức phật khứ xứ chỉ giá ngữ thanh thị huyền sa vân đại tiểu phó đại sĩ
+chỉ nhận đắc cá chiêu chiêu linh linh sư vân nhận dữ bất nhận lai niên canh hữu tân điều
+tại não loạn xuân phong tốt vị hưu bảo công linh nhân truyền ngữ tư đại hòa thượng vân hà
+bất hạ sơn lai giáo hoá chúng sinh nhất hướng mục thị vân hán tác thập ma tư vân tam
+thế chư phật bí ngã nhất khẩu thôn tận hà xứ canh hữu chúng sinh khả độ sư vân tư
+đại chỉ kiến trùy đầu lợi bất kiến tạc đầu phương lâm tế kiến tăng lai thụ khởi bật tử
+tăng tiện lễ bái tế tiện đả sư vân giá tăng hữu lí bất thân tử nhi bất điếu như
+kim thả tác ma sinh dữ giá tăng xuất khí tư hòa thượng vấn thần hội tùng thập ma xứ
+lai hội vân tào khê lai tư vân nễ tại tào khê đắc hà ý chỉ hội chân thân nhi
+lập tư vân do đái ngoã lịch tại hội vân hòa thượng giá lí mạc hữu chân kim dữ nhân
+ma tư vân thiết hữu hướng thập ma xứ trước sư vân chân kim ngoã lịch thác hạ danh ngôn
+như kim hoán tác thập ma tư hòa thượng linh thạch đầu tống thư dữ nhượng hòa thượng hồi lai
+dữ nễ nhất cá phủ tử trụ sơn thạch đầu tài đáo tiện vấn bất cầu chư thánh bất
+trùng kỉ linh thời như hà nhượng vân tử vấn thái cao sinh hà bất hướng hạ vấn đầu vân
+ninh khả vĩnh kiếp thụ trầm luân bất tùng chư thánh cầu giải thoát tiện quy khứ tư vân thư
+đạt phủ đầu vân thư diệc bất đạt tín diệc bất thông khứ nhật mông hòa thượng hứa cá
+phủ tử tiện thỉnh tư thùy hạ nhất túc đầu tiện lễ bái sư vân tư hòa thượng thùy túc
+thạch đầu lễ bái xuất khứ yếu thả bất đắc tha phủ tử thả đạo hậu lai thạch đầu
+dụng cá thập ma ngũ duệ đáo thạch đầu tiện vấn nhất ngôn tướng khế tức trụ nhất ngôn bất
+khế tức khứ thạch đầu cứ toạ duệ vân dữ ma tắc bất tướng khế dã tiện xuất thạch đầu
+triệu vân xà lê duệ hồi thủ đầu vân tùng sinh chí lão chỉ thị giá cá hồi đầu tác
+ma duệ hốt nhiên đại ngộ tiện ảo chiết trụ trượng đỗng sơn vân đương thời nhược bất thị ngũ
+duệ tiên sư dã đại nan thừa đương tuy nhiên như thị do thiệp đồ tại sư vân thạch đầu
+cứ toạ ngũ duệ tiện khứ thạch đầu triệu tha khước thành đa sự
+hữu ni sâm lâm tế yếu khai đường đàm không khám vân nễ hữu ngũ chướng bất đắc khai đường
+ni vân long nữ thành phật hữu kỉ chướng không vân long nữ hiện thập bát biến nễ thí biến
+khán ni vân bất thị dã hồ tinh biến cá thập ma không tiện đả số hạ sư vân thả
+đạo ni cụ nhãn ma chỉ đam đắc cá đoạn/đoán quán sách thả tác ma sinh hội tăng vấn dược
+sơn học nhân hữu nghi thỉnh sư quyết sơn vân vãn gian thượng lai vi xà lê quyết nghi chí
+vãn thượng đường đại chúng tập định sơn vân kim nhật quyết nghi tăng tại ma kì tăng tiện xuất
+lai sơn hạ tòa bả trụ vân đại chúng giá tăng hữu nghi dữ nhất suy tiện quy phương trượng
+sư vân dược sơn quyết nghi độ thượng gia nê nhiên tuy như thị giá tăng dã bất đắc cô
+phụ dược sơn dược sơn tầm thường bất vi sư tăng thuyết thoại viện chủ bạch vân đường trung sư
+tăng cửu tư hòa thượng thị hối sơn vân đôi chung trước đại chúng tập định tiện quy phương trượng
+viện chủ tùy hậu vấn vân hòa thượng hứa vi đại chúng thuyết thoại vi thập ma nhất ngôn bất
+thố sơn vân kinh hữu kinh sư luận hữu luận sư tranh quái đắc lão tăng sư vân dược sơn
+quy phương trượng đương sơ viện chủ quái dược sơn bất vi tha thuyết thoại khả vị ngộ tha tam
+quân
+dược sơn thị chúng vân trí bất đáo xứ thiết kị đạo trước đạo trước tức đầu giác sinh đạo
+ngô tiện xuất khứ vân nham vấn dược sơn trí sư huynh vi thập ma bất chi đối hòa thượng
+sơn vân khước thị trí đầu di hội đắc nễ khứ vấn thủ vân nham khước khứ vấn sư huynh
+đích lai vi thập ma bất chi đối hòa thượng ngô vân ngã kim nhật đầu thống nễ vấn thủ
+hòa thượng vân nham thiên hoá liễu ngô vân vân nham bất tri hữu hối bất đương sơ hướng y
+đạo tuy nhiên như thị yếu thả bất vi dược sơn chi tử sư vân vân nham bất tri hữu
+hối bất đương sơ hướng y đạo chỉ như đạo ngô dữ ma đạo hoàn hữu dã vô đại từ
+hòa thượng vân lão tăng nhất sinh bất hội đáp thoại chỉ giải thức bệnh thời hữu tăng xuất lai
+đại từ tiện quy phương trượng sư vân giá tăng xuất lai đại từ tiện quy phương trượng tịnh vô
+cá đạo lí thập ma xứ thị thức bệnh xứ như kim dã tu tử tế tăng sâm nhữ châu
+nam viện tài đáo diện tiền tăng vân bại dã viện dẫn trụ trượng hướng tăng diện tiền tăng vô
+ngữ viện tiện đả sư vân giá tăng chỉ tri đỉnh thượng sinh quang bất tri cước hạ hữu thứ
+quan hòa thượng kiến tân đáo lai tác miến dẫn thứ dĩ dẫn thị chi kì tăng tiện khứ quan
+chí vãn gian vấn thủ tòa tân đáo tại thập ma xứ tòa vân đương thời tiện khứ quan vân
+thị tức thị kì đắc nhất quyết sư vân quan hòa thượng đạo tha đắc nhất quyết đại tự áp
+lương vi tiện hà cố vi tha bỉ thử thị xuất gia nhi nam toàn niêm khởi quyết thái vấn
+am sơn giá cá đại hảo cung dưỡng sơn vân phi đãn giả cá bá vị trân tu tha diệc
+bất cố toàn vân tuy nhiên như thị tổng tu thường quá sư vân am sơn dữ ma đạo hoàn
+miễn đắc ma nhược miễn đắc khứ vị cụ nhãn tại nhược miễn bất đắc hựu vi tiền ngôn lỗ
+tổ kiến tăng lai tiện diện bích sư vân lỗ tổ hà lao như thử bất dụng diện bích nhược
+hữu tăng lai vân kiến thập ma tri thời hảo đặng ẩn phong tại tương châu phá uy nghi đường
+chỉ trước sấn y niêm tĩnh đôi vân đạo đắc tức bất đả đạo bất đắc tức đả chúng giai
+mặc nhiên phong tiện đả sư vân thử ngữ hữu khám phá xứ thả đạo khám phá a thùy lâm
+tế thượng đường hữu tăng xuất lập tế tiện ái tăng lễ bái tế tiện đả sư vân lâm tế
+dã đại chính như kim tác ma sinh hội tăng vấn đỗng sơn thời thời cần bật thức mạc sứ
+hữu khánh ai vi thập ma bất đắc tha y bát sơn vân trực đạo bản lai vô nhất vật
+dã vị đắc tha y bát tại sư vân tổng bất đắc tha y bát dữ phật đồng sâm thả
+đạo sâm đắc a thùy đồng quang đế vấn hưng hoá trẫm thu đắc trung nguyên chi bảo chỉ thị
+vô nhân thù giá hoá vân như hà thị bệ hạ trung nguyên chi bảo đế dẫn thủ triển phốc
+đầu cước hoá vân quân vương chi bảo thùy cảm thù giá sư vân hưng hoá hạ nhất trước ngữ
+khả vị mính đính như kim tác ma sinh đoạn/đoán linh vân ngộ đào hoa tụng tam thập niên lai
+tầm kiếm khách kỉ hồi lạc diệp hựu trừu chi tự tùng nhất kiến đào hoa hậu trực chí như
+kim canh bất nghi toại cử tự quy sơn sơn vân tùng duyên đắc nhập vĩnh vô thối thất nhữ
+thiện hộ trì hựu cử tự huyền sa sa vân đế đương thậm đế đương cảm bảo lão huynh vị
+triệt tại sư vân hữu nhân như kim vấn huyền sa ý tác ma sinh thả đạo giá cá nhân
+hoàn triệt dã vị lâm tế thượng đường hữu tăng xuất lai tế tiện ái tăng diệc ái tiện lễ
+bái tế tiện đả tăng vô ngữ sư vân lâm tế dã thái tâm thô hảo thể thị giá tăng
+nhược thị kim thời nạp tăng thả tác ma sinh xuất khí địa tạng vấn tăng thập ma xứ lai
+tăng vân nam phương lai tạng vân nam phương hữu hà ngôn giáo thị đồ tăng vân bỉ trung kim
+tiết tuy quý nhãn lí trước bất đắc tạng vân ngã đạo tu di sơn tại nễ nhãn lí sư
+vân thả đạo địa tạng hoàn miễn đắc giá tăng nhãn ma tăng vấn triệu châu đại nhĩ tam tạng
+đệ tam độ mịch quốc sư bất kiến vị thẩm tại thập ma xứ châu vân tại đại nhĩ tam
+tạng tị khổng lí sư vân chỉ như tam tạng hoàn miễn đắc quốc sư tị khổng ma quốc sư
+tam hoán thị giả thị giả tam ưng quốc sư vân tương vi ngô cô phụ nhữ thùy tri nhữ
+cô phụ ngô sư vân quốc sư dữ thị giả tổng khiếm hội tại như kim tác ma sinh hội
+khâm sơn vấn đức sơn vân thiên hoàng dã dữ ma đạo long đàm dã dữ ma đạo vị thẩm
+đức sơn như hà đạo đức sơn vân nễ thí cử thiên hoàng long đàm để khâm sơn nghĩ nghị
+đức sơn tiện đả sư vân khâm sơn chỉ cố kì tiền bất cố kì hậu như kim tác ma
+sinh dữ khâm sơn xuất khí thạch củng vi lạp nhân sấn nhất lộc tùng mã tổ am tiền quá
+vấn vân hoàn kiến ngã lộc ma tổ vân nễ thị thậm nhân củng vân ngã thị lạp nhân tổ
+vân nễ hội xạ ma củng vân giải xạ tổ vân nhất tiến xạ kỉ cá củng vân nhất tiến
+xạ nhất cá tổ vân nễ bất giải xạ củng vân hòa thượng mạc giải xạ phủ tổ vân ngã
+giải xạ củng vân nhất tiến xạ kỉ cá tổ vân nhất tiến xạ nhất quần củng vân bỉ thử
+sinh mệnh hà dụng xạ tha tổ vân nễ kí như thị hà bất tự xạ củng vân nhược giáo
+mỗ giáp tự xạ trực thị vô hạ thủ xứ tổ vân giá hán vô minh phiền não đốn yết
+củng ư thị dĩ đao đoạn/đoán phát tại am trung chấp thị sư vân mã tổ nhất tiến xạ nhất
+quần do vị hội xạ sơn tăng nhất tiến xạ xuẩn động hàm linh vô bất trung giả tuy nhiên
+như thị chỉ đạo nhất bán lưu nhất bán dữ hậu nhân đạo đại thiền phật sâm ngưỡng sơn kiều
+nhất túc vân thích ca lão tử diệc như thị tây thiên nhị thập bát tổ diệc như thị hòa
+thượng diệc như thị mỗ giáp diệc như thị ngưỡng sơn đả tứ đằng điều sư vân thử bất đắc
+tác thưởng bất đắc tác phạt như kim tác ma sinh hội hương nghiêm thị chúng vân như nhân thượng
+thụ khẩu hàm thụ chi cước bất đạp thụ thủ bất phàn chi hốt hữu cá nhân vấn tây lai
+ý nghĩ dục chú tha hựu tang thân thất mệnh bất đối tha hựu vi tha sở vấn sư vân
+vấn giả đáp giả câu bất miễn tang thân thất mệnh như kim nạp tăng tác ma sinh hội huyền
+sa thị chúng vân chư phương lão tú tận đạo tiếp vật lợi sinh hốt ngộ tam chủng bệnh nhân
+tác ma sinh tiếp hoạn manh giả niêm chuy thụ bật tha hựu bất kiến hoạn lung giả ngữ ngôn
+tam muội tha hựu bất văn hoạn á giả giáo y thuyết hựu thuyết bất đắc thả đạo tác ma
+sinh tiếp nhược tiếp thử nhân bất đắc phật pháp vô linh nghiệm sư vân tảo tri đăng thị hoả
+phạn thục dã đa thời huyền sa thượng đường chúng tập định dĩ trụ trượng nhất thời sấn hạ hướng
+thị giả đạo ngã kim nhật hiểm nhập địa ngục nhược tiến xạ giả vân thả hỉ hòa thượng tái
+phục nhân thân sư vân đại tiểu huyền sa tiền bất chí thôn hậu bất chí điếm thả tác ma
+sinh đạo đắc xuất thân lộ long nha vấn thuý vi như hà thị tổ sư tây lai ý vi
+vân dữ ngã quá thiền bản lai nha thủ thiền bản vi tiếp đắc tiện đả nha vân đả tức
+nhâm đả yếu thả vô tổ sư ý hựu vấn lâm tế như hà thị tổ sư tây lai ý
+tế vân dữ ngã quá bồ đoàn lai nha thủ bồ đoàn tế tiếp đắc tiện đả nha vân đả
+tức nhâm đả yếu thả vô tổ sư ý hậu trụ long nha tăng vấn hòa thượng na thời vấn
+nhị tôn tú tổ sư ý thử nhị tôn tú đạo minh dã vị nha vân minh tức minh hĩ
+chỉ thị vô tổ sư ý sư vân đương sơ như thị như kim nạp tăng bì hạ hoàn hữu
+huyết ma nam toàn quy tông ma cốc lễ bái quốc sư đáo bán lộ nam toàn ư địa thượng
+hoạch nhất viên tướng vân đạo đắc tức khứ quy tông nhập nội toạ ma cốc tác nữ nhân bái
+toàn vân dữ ma tắc bất khứ dã tông vân thị thập ma tâm hành sư vân đương sơ nhược
+kiến mỗi nhân đả nhất bổng thả đắc thiên hạ thái bình pháp đăng hòa thượng thị chúng vân mỗ
+giáp bản dục cư sơn tạng chuyết dưỡng đạo quá thời nại duyên tiên sư hữu bất liễu để công
+án xuất lai liễu khước thời hữu tăng vấn như hà thị tiên sư bất liễu công án đăng đả
+nhất trụ trượng vân tổ nỉ bất liễu ương cập nhi tôn tăng vân mỗ giáp hữu thập ma quá
+đăng vân quá tại ngã ương cập nễ sư vân vi chúng kiệt lực hoạ xuất tư môn long nha
+vấn đức sơn học nhân thu đắc mạc kiếm nghĩ thủ sư đầu thời như hà sơn vân nễ
+hướng thập ma xứ hạ thủ nha chỉ địa hậu đáo đỗng sơn tài nhân sự liễu tiện cử tiền
+thoại đỗng sơn duệ trụ trượng vân hoàn ngã đức sơn đầu lai nha vô ngữ đỗng sơn tiện đả
+sư vân đương đoạn/đoán bất đoạn/đoán như kim tác ma sinh đoạn/đoán vân cư tề hòa thượng vấn tăng tùng
+thập ma xứ lai tăng vân đường trung lai cư vân hà đắc tự man sư vân nhược bất như
+thị tranh tri như thị phong can dục du ngũ đài vị hàn sơn thập đắc vân nễ nhược cộng
+ngã du đài tiện thị ngã đồng lưu nễ nhược bất cộng ngã du đài bất thị ngã đồng lưu
+hàn sơn vân nễ khứ du đài tác thập ma can vân lễ bái văn thù sơn vân nễ bất
+thị ngã đồng lưu sư vân phong can đại tự ban tài ngộ tiêu dực quy sơn vấn ngưỡng sơn
+thậm xứ lai ngưỡng sơn vân điền trung lai quy sơn vân điền trung đa thiểu nhân ngưỡng sơn sáp
+thiêu xoa thủ nhi lập quy sơn vân nam sơn đại hữu nhân ngải mão ngưỡng sơn bạt thiêu tiện
+hành sư vân chỉ đắc nhất quyết chư nhân biệt hữu hội xứ ma nam toàn nhất nhật lưỡng đường
+tranh miêu nhi toàn toại đề khởi vân đạo đắc tức bất trảm chúng vô ngữ toàn tiện trảm hậu
+cử tự triệu châu châu tương thảo hài đái đầu thượng xuất khứ toàn vân tử nhược tại cứu đắc
+miêu nhi sư vân đại tiểu triệu châu chỉ khả tự cứu tăng vấn lục tổ hoàng mai ý chỉ
+thập ma nhân đắc tổ vân hội phật pháp nhân đắc tăng vân hòa thượng hoàn đắc phủ tổ vân
+bất đắc tăng vân hòa thượng vi thập ma bất đắc tổ vân ngã bất hội phật pháp sư vân
+hội đắc nhị đầu bất hội tam thủ tác ma sinh đạo đắc xuất thân lộ tăng vấn triệu châu
+cẩu tử hoàn hữu phật tính dã vô châu vân vô tăng vân nhất thiết chúng sinh giai hữu phật
+tính vi thập ma cẩu tử vô phật tính châu vân tha hữu nghiệp thức tính tại sư vân thuyết
+hữu thuyết vô dã hảo lưỡng thể nhất tái như kim tác ma sinh đạo vân cái vấn thạch sương
+vạn hộ câu bế tức bất vấn vạn hộ câu khai thời như hà sương vân đường trung sự tác
+ma sinh cái vân vô nhân tiếp đắc cừ sương vân đạo dã sát đạo chỉ đạo đắc bát cửu
+thành cái vân khước thỉnh sư đạo sương vân vô nhân thức đắc cừ sư vân tiên hành bất đáo
+mạt hậu thái quá khiêu tử hồ hòa thượng dạ ư tăng đường tiền khiêu tróc tặc đại chúng giai
+kinh hữu nhất tăng đường trung xuất tử hồ lan hung bả trụ vân tróc đắc dã tróc đắc dã
+tăng vân mỗ giáp bất thị hồ vân thị tức thị chỉ thị nễ bất khẳng thừa đương sư vân
+tử hồ mãi mạo tướng đầu triệu châu nhất nhật tuyết lí ngoạ khiêu vân tướng cứu tướng cứu hữu
+nhất tăng diệc lai biên ngoạ châu tiện khởi khứ sư vân giá tăng tại triệu châu quyển lí hoàn
+hữu nhân xuất đắc ma đỗng sơn phổ thỉnh thứ tuần liêu kiến nhất tăng bất xuất sơn vân nễ
+hà bất xuất phổ thỉnh tăng vân mỗ giáp bất an sơn vân nễ tầm thường an thời hựu kỉ
+tằng khứ sư vân thả đạo thử tăng kỉ tằng bất khứ bàng cư sĩ vấn đại mai hòa thượng
+cửu hưởng đại mai vị thẩm mai tử thục dã vị mai vân nễ hướng thập ma xứ hạ khẩu
+sĩ vân bá tạp toái mai vân hoàn ngã hồ lai sư vân thử nhị nhân tiền bất chí thôn
+hậu bất chí điếm lỗ tổ kiến tăng lai tiện diện bích nam toàn vân ngã tầm thường bất dục
+hướng sư tăng đạo vị cụ bào thai dĩ tiền hội thủ thượng bất đắc nhất cá bán cá lỗ
+tổ dữ ma lư niên khứ sư vân đại ngu giá lí tức bất nhiên vị cụ bào thai dĩ
+tiền hội đắc đả chiết nễ yêu trung ấp hòa thượng kiến tăng lai nãi bác khẩu tác hòa hòa
+thanh ngưỡng sơn lai ấp diệc bác khẩu sơn tùng đông quá tây ấp hựu bác khẩu sơn tùng tây
+quá đông ấp hựu bác khẩu sơn đương diện nhi lập ấp vân nễ tùng hà đắc sơn vân tùng
+quy sơn đắc sơn khước vấn ấp sư tùng hà đắc ấp vân ngã tùng chương kính đắc sư vân
+khán lưỡng cá lão hòa thượng khả sát lậu đậu đối diện tướng man da vân sầu nhân mạc hướng
+sầu nhân thuyết đạt ma lâm thuận thế thời vị nhị tổ vân nễ tại ngô thân biên đắc cá
+thập ma tổ lễ bái y vị lập ma vân nhữ đắc ngô tuỷ sư vân nhị tổ bí đạt
+ma đồ hồ đạo đắc tuỷ bì dã vị mộng kiến nhân thập ma thiệu tự tổ sư vị bí
+ma nham thường trì nhất xoa kiến tăng lai nãi vân đạo đắc dã xoa hạ tử đạo bất đắc
+dã xoa hạ tử hậu đại thiền phật lai đào hướng bí nham hoài lí nham tiện mô đại thiền
+bội tam hạ đại thiền khởi lai chước thủ vân tam thiên lí ngoại trám ngã lai sư vân hoàn
+hữu trám xứ dã vô phi đãn trám tha đại thiền phật đại ngu kim nhật dã trám đại chúng
+thượng lai da vân lôi thanh hạo đại vũ điểm toàn vô ngưỡng sơn hữu tăng lai từ sơn dĩ
+thủ hoạch nhất hoạch kì tăng bất khứ sơn hựu hoạch nhất hoạch kì tăng nãi khứ sư vân tiền
+vi thập ma bất khứ hậu vi thập ma khước khứ yếu hội ma đặc vi chú phá tiền nhất
+hoạch dữ hậu nhất hoạch đô thành lưỡng hoạch phật tại nhật hữu nhất nữ tử toàn nhiễu thế tôn
+tam táp nãi nhập định thế tôn lai văn thù xuất thử nữ tử định văn thù tận kì thần
+lực bất năng xuất đắc nữ tử định thế tôn vân hạ phương khứ tứ thập nhị hằng hà sa
+quốc hữu võng minh bồ tát năng xuất thử nữ tử định vu thời võng minh chí nữ tiền đàn
+chỉ tam hạ nữ tử tùng định nhi xuất sư vân văn thù thị thất phật chi sư vi thập
+ma xuất nữ tử định bất đắc võng minh cụ thập ma thần lực khước xuất đắc yếu hội ma
+tăng đầu tự lí tú tặc nhập bất lương gia văn thù vấn vô trước cận li thập ma xứ
+trước vân nam phương thù vân nam phương phật pháp như hà trụ trì trước vân mạt pháp tỉ khâu
+thiểu phụng giới luật thù vân đa thiểu chúng trước vân hoặc tam bá hoặc ngũ bá trước khước vấn
+thử gian phật pháp như hà trụ trì thù vân long xà hồn tạp phàm thánh đồng cư trước vân
+đa thiểu chúng thù vân tiền tam tam dữ hậu tam tam sư vân văn thù đạo tiền tam tam
+hậu tam tam tác ma sinh hội yếu hội ma thiên niên vô ảnh thụ kim thời một để ngoa
+cổ nhân đạo ngã hữu nhất cú tử đãi độc ngưu sinh nhi tức hướng nhữ đạo sư vân ngã
+tức bất nhiên độc ngưu sinh nhi dã bất hướng nễ đạo hà cố như thị nhược hướng nễ đạo
+hà xứ canh hữu vương lão sư đạo ngô văn triệu châu lai ngô thủ báo bì côn trước tương
+cát liệu trượng ư tam môn hạ kiều nhất túc châu tài đáo ngô tiện xướng nặc châu vân tiểu
+tâm phục sự trước ngô hựu xướng nặc sư vân hữu nhân kiến đắc thử nhị nhân lạc xứ bất
+phương cụ nhãn nhược bất tri lạc xứ vị cụ nhãn tại nãi kích thiền sàng nhất hạ vân nhược
+dã bất hội đả dữ tam bá đức sơn tiểu sâm thị chúng vân kim dạ bất đáp thoại hữu
+vấn thoại giả tam thập bổng hữu tăng xuất lễ bái đức sơn tiện đả tăng vân mỗ giáp thoại
+dã vị vấn hòa thượng vi thập ma đả mỗ giáp đức sơn vân nễ thị thậm xứ nhân tăng
+vân tân la nhân sơn vân vị đạp thuyền huyền hảo dữ tam thập bổng sư vân thời nhân tận
+đạo đức sơn tác gia dụng đắc hảo nhược dữ ma hoàn tằng mộng kiến ma đại ngu đạo đức
+sơn bí giá tăng nhất suy trực đắc ngoã giải băng tiêu tuy nhiên như thị kim nhật mịch nhất
+cá tôn tú dã đại nan đắc phổ nhãn bồ tát nhập định biến quan tam thiên đại thiên thế
+giới mịch phổ hiền bồ tát bất kiến vị thẩm phổ hiền tại thập ma xứ phật ngôn nhữ đãn
+ư tĩnh tam muội trung khởi nhất niệm tất kiến phổ hiền tại không trung thừa lục nha bạch tượng
+sư vân chư nhân giả thả tác ma hội phổ nhãn suy đảo thế tôn thế tôn suy đảo phổ
+nhãn nễ thả đạo phổ hiền tại thập ma xứ
+kiếm tụng
+huy nhật lưu quang thế hoàn tằng kết chúng nghi xuy mao hoành vũ trụ nghĩ bả khước thí vi
+miết khởi hòa căn khứ đài mâu tảo dĩ trì đầu cơ tu đắc diệu hà xứ mịch mâu ni
 
-> cổ tôn tú ngữ lục quyển đệ nhị thập ngũ chung
-
-lư sơn thê hiền bảo giác thiền viện trụ trì truyền pháp tứ tử sa môn
-trừng thị trùng tường định
+> cổ tôn tú ngữ lục quyển chi nhị thập ngũ chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển đệ nhị thập lục
+cổ tôn tú ngữ lục quyển chi nhị thập lục
 
-triệu châu chân tế thiền sư ngữ lục chi dư
-sư thượng đường thị chúng vân kim phật bất độ lô mộc phật bất độ hoả nê phật bất độ
-thuỷ chân phật nội lí toạ bồ đề niết bàn chân như phật tính tận thị thiếp thể y phục
-diệc danh phiền não bất vấn tức vô phiền não thật tế lí địa thập ma xứ trước nhất tâm
-bất sinh vạn pháp vô cữu đãn cứu lí nhi toạ nhị tam thập niên nhược bất hội tiệt thủ
-lão tăng đầu khứ mộng ảo không hoa đồ lao bả tróc tâm nhược bất dị vạn pháp diệc như
-kí bất tùng ngoại đắc canh câu thập ma như dương tướng tự canh loạn thập vật an khẩu trung
-tác ma lão tăng kiến dược sơn hòa thượng đạo hữu nhân vấn trước đãn giáo hợp thủ cẩu khẩu
-lão tăng diệc đạo hợp thủ cẩu khẩu thủ ngã thị cấu bất thủ ngã thị tịnh nhất tự lạp
-cẩu tướng tự chuyên dục đắc vật khiết phật pháp hướng thập ma xứ trước nhất thiên nhân vạn nhân
-tận thị mịch phật hán tử mịch nhất cá đạo nhân vô nhược dữ không vương vi đệ tử mạc
-giáo tâm bệnh tối nan y vị hữu thế giới tảo hữu thử tính thế giới hoại thời thử tính
-bất hoại tùng nhất kiến lão tăng hậu canh bất thị biệt nhân chỉ thị cá chủ nhân công giả
-cá canh hướng ngoại mịch tác ma dữ ma thời mạc chuyển đầu hoán diện tức thất khước dã vấn
-như hà thị phật hướng thượng nhân sư vân chỉ giả khiên canh ngưu để thị vấn như hà thị
-cấp sư vân lão tăng dữ ma đạo nễ tác ma sinh vân bất hội sư vân hướng nễ đạo
-cấp cấp trước ngoa thuỷ thượng lập tẩu mã đáo trường an ngoa đầu do vị thấp vấn tứ sơn
-tướng bức thời như hà sư vân vô lộ thị triệu châu vấn cổ điện vô vương thời như hà
-sư hài khẩu sắc nhất thanh vân dữ ma tức thần khải bệ hạ sư vân tặc thân dĩ lộ vấn
-hòa thượng niên đa thiểu sư vân nhất quán số châu số bất tận vấn hòa thượng thừa tự thập
-ma nhân sư vân tùng thẩm vấn ngoại phương hốt hữu nhân vấn triệu châu thuyết thập ma pháp như
-hà kì đối sư vân diêm quý mễ tiện vấn như hà thị phật sư vân nễ thị phật ma
-vấn như hà thị xuất gia sư vân tranh đắc kiến lão tăng vấn phật tổ bất đoạn/đoán xứ như
-hà sư vân vô di lậu vấn bản nguyên thỉnh sư chỉ thị sư vân bản nguyên vô bệnh vân
-liễu xứ như hà sư vân liễu nhân tri vân dữ ma thời như hà sư vân dữ ngã an
-danh tự trước vấn thuần nhất vô tạp thời như hà sư vân đại sát hảo nhất vấn vấn vô
-vi tịch tĩnh để nhân mạc lạc tại trầm không dã vô sư vân lạc tại trầm không vân cứu
-cánh như hà sư vân tác lư tác mã vấn như hà thị tổ sư tây lai ý sư vân
-sàng cước thị vân mạc tiện thị dã vô sư vân thị tức thoát thủ khứ vấn trừng trừng tuyệt
-điểm thời như hà sư vân lão tăng giả lí bất trước khách tác hán vấn phụng phi bất đáo
-thời như hà sư vân khởi tự hà lai vấn thật tế lí địa bất thụ nhất trần thời như
-hà sư vân nhất thiết tổng tại lí hứa vấn như hà thị nhất cú sư ưng nặc tăng tái
-vấn sư vân ngã bất hoạn lung vấn sơ sinh hài tử hoàn cụ lục thức dã vô sư vân
-cấp lưu thuỷ thượng đả cầu tử vấn đầu đầu đáo lai thời như hà sư vân do giác lão
-tăng bá bộ vấn như hà thị hòa thượng gia phong sư vân lão tăng tự tiểu xuất gia đẩu
-tẩu phá hoạt kế vấn thỉnh hòa thượng li tứ cú đạo sư vân lão tăng thường tại lí hứa
-vấn biển thước y vương vi thập ma hữu bệnh sư vân biển thước y vương bất li sàng chấm
-hựu vân nhất trích cam lộ phổ nhuận đại thiên vấn như hà thị lộ địa bạch ngưu sư vân
-giả súc sinh vấn như hà thị đại nhân tướng sư trắc mục thị chi vân do thị cách giai
-xu phụ tại sư vân lão tăng vô công phu xu đắc giả nhàn hán tăng vấn tài hữu tâm
-niệm lạc tại nhân thiên trực vô tâm niệm lạc tại quyến thuộc thời như hà sư vân phi đãn
-lão tăng tác gia diệc đáp nễ bất đắc vấn phàm hữu thí vi tận lạc tao phách thỉnh sư
-bất thí vi đáp sư sất ni vân tương thuỷ lai thiêm đỉnh tử phí vấn như hà thị ban
-nhược ba la mật sư vân ma ha ban nhược ba la mật vấn như hà thị giảo nhân sư
-tử sư vân quy y phật quy y pháp quy y tăng mạc giảo lão tăng vấn li khước ngôn
-cú thỉnh sư đạo sư hài tốc vấn như hà đắc bất báng cổ nhân bất phụ ân khứ sư
-vân xà lê tác ma sinh vấn như hà thị nhất cú sư vân đạo thập ma vấn như hà
-thị nhất cú sư vân lưỡng cú vấn duy phật nhất nhân thị thiện tri thức như hà sư vân
-ma ngữ vấn như hà thị bồ đề sư vân giả cá thị xiển đề vấn như hà thị đại
-nhân tướng sư vân hảo cá nhi tôn vấn tịch tịch vô y thời như hà sư vân lão tăng
-tại nễ bội hậu vấn như hà thị già lam sư vân biệt canh hữu thập ma vân như hà
-thị già lam trung nhân sư vân lão tăng dữ xà lê vấn nhị long tranh châu thùy thị đắc
-giả sư vân lão tăng chỉ quản khán vấn như hà thị li nhân quả để nhân sư vân bất
-nhân xà lê vấn lão tăng thật bất tri vấn chúng manh mô tượng các thuyết dị đoan như hà
-thị chân tượng sư vân vô giả tự thị bất tri vấn như hà thị đệ nhất cú sư hài
-tốc vân mạc tiện thị phủ sư vân lão tăng hài tốc dã bất đắc vấn đại hải hoàn nạp
-chúng lưu dã vô sư vân đại hải đạo bất tri vân nhân thập ma bất tri sư vân chung
-bất đạo ngã nạp chúng lưu vấn như hà thị tì lô sư sư vân tì lô tì lô vấn
-chư phật hoàn hữu sư dã vô sư vân hữu vân như hà thị chư phật sư sư vân a
-di đà phật a di đà phật vấn như hà thị học nhân sư sư vân vân hữu xuất sơn
-thế thuỷ vô đầu giản thanh vân bất vấn giả cá sư vân thị nễ sư bất nhận vấn chư
-phương tận hướng khẩu lí đạo hòa thượng như hà thị nhân sư cước căn đả hoả lô thị chi
-vân mạc tiện thị dã vô sư vân kháp nhận đắc lão tăng cước căn vấn bất hành đại đạo
-thời như hà sư vân giả phiến tư diêm hán vân khước hành đại đạo thời như hà sư vân
-hoàn ngã công nghiệm lai vấn như hà thị bản lai thân sư vân tự tùng thức đắc lão tăng
-hậu chỉ giá hán canh bất biệt vân dữ ma tức dữ hòa thượng cách sinh khứ dã sư vân
-phi đãn kim sinh thiên sinh vạn sinh diệc bất thức lão tăng vấn như hà thị tổ sư tây
-lai ý sư vân đông bích thượng quải hồ lô đa thiểu thời dã vấn phương viên bất tựu thời
-như hà sư vân bất phương bất viên vân dữ ma thời như hà sư vân thị phương thị viên
-vấn đạo nhân tướng kiến thời như hà sư vân trình tất khí vấn đế vi thập ma quan bất
-đắc sư vân đế tức bất vô quan tức bất đắc vân tất cánh như hà sư vân thất đế
-vấn hành hựu bất đáo vấn hựu bất đáo thời như hà sư vân đáo dĩ bất đáo đạo nhân
-khán như thế thoá vân kì trung sự như hà sư thoá địa vấn như hà thị tổ sư tây
-lai ý sư vân như nễ bất hoán tác tổ sư ý do vị tại vân bản lai để như
-hà sư vân tứ mục tướng đổ canh vô đệ nhị chủ tể vấn bất cụ hình nghi hoàn hội
-dã vô sư vân tức kim hoàn hội ma vấn như hà thị đại vô tàm quý để nhân sư
-vân giai cụ bất khả tư nghị vấn học nhân nghĩ hướng nam phương học ta tử phật pháp khứ
-như hà sư vân nễ khứ nam phương kiến hữu phật xứ cấp tẩu quá vô phật xứ bất đắc
-trụ vân dữ ma tức học nhân vô y dã sư vân liễu nhứ liễu nhứ vấn như hà thị
-cấp thiết xứ sư vân nhất vấn nhất đáp vấn bất tịch tam thốn hoàn giả kim thời dã vô
-sư vân ngã tùy nễ đạo nễ tác ma sinh hội vấn như hà thị hòa thượng gia phong sư
-vân mang mang vũ trụ nhân vô số vân thỉnh hòa thượng bất đáp thoại sư vân lão tăng hợp
-dữ ma vấn nhị long tranh châu thùy thị đắc giả sư vân thất giả vô khuy đắc giả vô
-dụng vấn như hà thị đại nhân tướng sư vân thị thập ma hữu tục sĩ hiến ca sa vấn
-phi dữ ma y phục mạc cô phụ cổ nhân dã vô sư phao hạ bật tử vân thị cổ
-thị kim vấn như hà thị sa môn hành sư vân triển thủ bất triển cước vấn ngưu đầu vị
-kiến tứ tổ thời như hà sư vân bão sài bão thuỷ vân kiến hậu như hà sư vân bão
-sài bão thuỷ vấn như hà thị học nhân tự kỉ sư vân khiết dục liễu dã vị vân khiết
-dục dã sư vân tẩy bát vu khứ vấn như hà thị tì lô sư sư vân bạch đà lai
-dã vị vân lai dã sư vân khiên khứ uỷ thảo vấn như hà thị vô sư trí sư vân
-lão tăng bất tằng giáo xà lê vấn như hà thị thân thiết nhất cú sư vân thoại đoạ dã
-vấn bất tá khẩu hoàn hứa thương lượng dã vô sư vân chính thị thời vân tiện thỉnh sư thương
-lượng sư vân lão tăng bất tằng xuất vấn nhị tổ đoạn/đoán tí đương vi hà sự sư vân phấn
-cốt toái thân vân cung dưỡng thập ma nhân sư vân lai giả cung dưỡng vấn vô biên thân bồ
-tát vi thập ma bất kiến như lai đỉnh tướng sư vân nễ thị xà lê vấn trú thị nhật
-quang dạ thị hoả quang như hà thị thần quang sư vân nhật quang hoả quang vấn như hà thị
-kháp vấn xứ sư vân thác vân như hà thị bất vấn xứ sư vân hướng tiền nhất cú lí
-ban thủ vấn như hà thị đại nhân tướng sư dĩ thủ mô diện xoa thủ liễm dong vấn như
-hà thị vô vi sư vân giả cá thị hữu vi vấn như hà thị tổ sư tây lai ý
-sư vân lan trung thất khước ngưu vấn học nhân viễn lai thỉnh hòa thượng chỉ thị sư vân tài
-nhập môn tiện hảo mạch diện thoá vấn như hà thị trực tiệt nhất lộ sư vân hoài nam thuyền
-tử đáo dã vị vân học nhân bất hội sư vân thả hỉ đáo lai vấn bách thụ tử hoàn
-hữu phật tính dã vô sư vân hữu vân kỉ thời thành phật sư vân đãi hư không lạc địa
-vân hư không kỉ thời lạc địa sư vân đãi bách thụ tử thành phật vấn như hà thị tây
-lai ý sư vân nhân thập ma hướng viện lí mạ lão tăng vân học nhân hữu hà quá sư
-vân lão tăng bất năng tựu viện lí mạ đắc xà lê vấn như hà thị tây lai ý sư
-vân bản xỉ sinh mao vấn bần tử lai tương thập ma quá dữ sư vân bất bần vân tranh
-nại mịch hòa thượng hà sư vân chỉ thị thủ bần vấn vô biên thân bồ tát vi thập ma
-bất kiến như lai đỉnh tướng sư vân như cách la hộc vấn chư thiên cam lộ thập ma nhân
-đắc khiết sư vân tạ nễ tương lai vấn siêu quá kiền khôn để nhân như hà sư vân đãi
-hữu dữ ma nhân tức báo lai vấn như hà thị già lam sư vân tam môn phật điện vấn
-như hà thị bất sinh bất diệt sư vân bản tự bất sinh kim diệc vô diệt vấn như hà
-thị triệu châu chủ sư vân đại vương thị vấn cấp thiết xứ thỉnh sư đạo sư vân tuy thị
-tiểu sự tu thị lão tăng tự khứ thuỷ đắc vấn như hà thị trượng lục kim thân sư vân
-dịch bất đả lĩnh vân học nhân bất hội sư vân bất hội thỉnh nhân tài vấn học nhân hữu
-nghi thời như hà sư vân đại nghi tiểu nghi học vân đại nghi sư vân đại nghi đông bắc
-giác tiểu nghi tăng đường hậu vấn như hà thị phật hướng thượng nhân sư hạ thiền sàng thượng hạ
-quan chiêm tướng vân giả hán như hứa trường đại tiệt tác tam quyết dã đắc vấn thập ma hướng
-thượng hướng hạ ni vấn như hà thị mật mật ý sư dĩ thủ kháp chi vân hòa thượng do
-hữu giả cá tại sư vân thị nễ hữu giả cá
-sư thị chúng vân lão tăng tam thập niên tiền tại nam phương hoả lô đầu hữu cá vô tân
-chủ thoại trực chí như kim vô nhân cử trước vấn hòa thượng thụ đại vương như thị cung dưỡng
-tương thập ma báo đáp sư vân niệm phật vân bần tử dã giải niệm phật sư vân hoán thị
-giả tương nhất tiền dữ y vấn như hà thị hòa thượng gia phong sư vân bình phong tuy phá
-cốt cách do tồn vấn như hà thị bất thiên chi nghĩa sư vân nễ đạo giá dã áp tử
-phi tùng đông khứ tây khứ vấn như hà thị tây lai ý sư vân thập ma xứ đắc giả
-tiêu tức lai vấn như hà thị trần trung nhân sư vân bố thí trà diêm tiền lai vấn đại
-nhĩ tam tạng đệ tam độ mịch quốc sư bất kiến vị thẩm quốc sư tại thập ma xứ sư
-vân tại tam tạng tị khổng lí vấn manh quy trực phù mộc khổng thời như hà sư vân bất
-thị ngẫu nhiên sự vấn cửu cư nham cốc thời như hà sư vân hà bất ẩn khứ vấn như
-hà thị phật pháp đại ý sư vân lễ bái trước tăng nghĩ tấn thoại thứ sư hoán sa di
-văn viễn văn viễn đáo sư sất vân đích lai khứ thập ma xứ lai vấn như hà thị tự
-gia bản ý sư vân lão tăng bất dụng ngưu đao vấn cửu hưởng triệu châu thạch kiếu đáo lai
-chỉ kiến lược bột tử sư vân xà lê chỉ kiến lược bột tử bất kiến triệu châu thạch kiếu
-vân như hà thị thạch kiếu sư vân quá lai quá lai hựu vân độ lư độ mã vấn hòa
-thượng tính thập ma sư vân thường châu hữu vân giáp tử đa thiểu sư vân tô châu hữu
-thượng đường vân tài hữu thị phi phân nhiên thất tâm hoàn hữu đáp thoại phân dã vô hữu tăng
-xuất mô thị giả nhất hạ vân hà bất kì đối hòa thượng sư tiện quy phương trượng hậu thị
-giả thỉnh ích đích lai tăng thị hội bất hội sư vân toạ để kiến lập để lập để kiến
-toạ để vấn như hà thị đạo sư vân tường ngoại để vân bất vấn giả cá sư vân vấn
-thập ma đạo vân đại đạo sư vân đại đạo thông trường an vấn bát trần kiến phật thời như
-hà sư vân bát trần tức bất vô kiến phật tức bất đắc vấn như hà thị vô tật chi
-thân sư vân tứ đại ngũ âm vấn như hà thị xiển đề sư vân hà bất vấn bồ đề
-vân như hà thị bồ đề sư vân chỉ giả tiện thị xiển đề sư hữu thời quật chỉ vân
-lão tăng hoán tác quyền nễ chư nhân hoán tác thập ma tăng vân hòa thượng hà đắc tương cảnh
-thị nhân sư vân ngã bất tương cảnh thị nhân nhược tương cảnh thị xà lê tức mai một xà
-lê khứ dã vân tranh nại giả cá hà sư tiện trân trùng vấn nhất vấn nhất đáp tổng lạc
-thiên ma ngoại đạo thiết sứ vô ngôn hựu phạm tha khuông võng như hà thị triệu châu gia phong
-sư vân nễ bất giải vấn vân thỉnh hòa thượng đáp thoại sư vân nhược cứ nễ hợp khiết nhị
-thập bổng
-sư thị chúng vân tài hữu thị phi phân nhiên thất tâm hoàn hữu đáp thoại phân dã vô hữu
-tăng xuất tương sa di đả nhất chưởng tiện xuất khứ sư tiện quy phương trượng chí lai nhật vấn
-thị giả tạc nhật giả sư tăng tại thập ma xứ thị giả vân đương thời tiện khứ dã sư
-vân tam thập niên lộng mã kị bí lư tử phốc vấn dữ ma lai để nhân sư hoàn tiếp
-dã vô sư vân tiếp vân bất dữ ma lai để nhân sư hoàn tiếp dã vô sư vân tiếp
-vân dữ ma lai tùng sư tiếp bất dữ ma lai sư như hà tiếp sư vân chỉ chỉ bất
-tu thuyết ngã pháp diệu nan tư trấn phủ đại vương vấn sư tôn niên hữu kỉ cá xỉ tại
-sư vân chỉ hữu nhất cá nha đại vương vân tranh khiết đắc vật sư vân tuy nhiên nhất cá
-hạ hạ giảo trước vấn như hà thị học nhân châu sư vân cao thanh vấn tăng lễ bái sư
-vân bất giải vấn hà bất đạo cao hạ tức bất vấn như hà thị học nhân châu hà bất
-dữ ma vấn tăng tiện tái vấn sư vân kị hợp phóng quá giả hán vấn nhị biên tịch tịch
-sư như hà xiển dương sư vân kim niên vô phong ba vấn đại chúng vân tập hợp đàm hà
-sự sư vân kim nhật duệ mộc đầu thụ tăng đường vân mạc chỉ giả cá tiện thị tiếp học
-nhân dã vô sư vân lão tăng bất giải song lục bất giải trường hành vấn như hà thị chân
-thật nhân thể sư vân xuân hạ thu đông vân dữ ma tức học nhân nan hội sư vân nễ
-vấn ngã chân thật nhân thể vấn như hà thị phật pháp đại ý sư vân nễ danh thập ma
-vân mỗ giáp sư vân hàm nguyên điện lí kim cốc viên trung vấn như hà thị thất phật sư
-sư vân yếu miên tức miên yếu khởi tức khởi vấn đạo phi vật ngoại vật ngoại phi đạo như
-hà thị vật ngoại đạo sư tiện đả vân hòa thượng mạc đả mỗ giáp dĩ hậu thác đả nhân
-khứ tại sư vân long xà dị ban nạp tử nan man sư kiến đại vương nhập viện bất khởi
-dĩ thủ tự bác tất vân hội ma đại vương vân bất hội sư vân tự tiểu xuất gia kim
-dĩ lão kiến nhân vô lực hạ thiền sàng vấn như hà thị trung ngôn sư vân nễ nương xú
-lậu vấn tùng thượng chí kim bất vô để nhân như hà sư vân bất khả đắc hệ tâm thường
-tư niệm thập phương nhất thiết phật vấn như hà thị trung ngôn sư vân khiết thiết bổng vấn như
-hà thị phật hướng thượng sự sư tiện mô chưởng đại tiếu vấn nhất đăng nhiên bá thiên đăng nhất
-đăng vị thẩm tùng thập ma xứ phát sư tiện địch xuất nhất chích lí hựu vân tác gia tức
-bất dữ ma vấn vấn quy căn đắc chỉ tùy chiếu thất tông thời như hà sư vân lão tăng
-bất đáp giả thoại vân thỉnh hòa thượng đáp thoại sư vân hợp dữ ma vấn như hà thị bất
-tư xứ sư vân khoái đạo khoái đạo vấn dạ thăng đâu suất trú giáng diêm phù kì trung vi
-thập ma ma ni bất hiện sư vân đạo thập ma tăng tái vấn sư vân tì bà thi phật
-tảo lưu tâm trực chí như kim bất đắc diệu vấn phi tư lượng xứ như hà sư vân tốc
-đạo tốc đạo vấn như hà thị y trung bảo sư vân giả nhất vấn hiềm thập ma vân giả
-cá thị vấn như hà thị bảo sư vân dữ ma tức y dã thất khước vấn vạn lí vô
-điếm thời như hà sư vân thiền viện lí tú vấn cẩu tử hoàn hữu phật tính dã vô sư
-vân gia gia môn tiền thông trường an vấn địch diện tướng trình hoàn tận đại ý dã vô sư
-vân đê khẩu vân thu bất đắc xứ như hà sư vân hướng nễ đạo đê khẩu vấn như hà
-thị mục tiền nhất cú sư vân lão tăng bất như nễ vấn xuất lai để thị thập ma nhân
-sư vân phật bồ tát vấn linh thảo vị sinh thời như hà sư vân khứu trước tức não liệt
-vân bất khứu thời như hà sư vân như đồng lập tử hán vân hoàn hứa học nhân hòa hợp
-phủ sư vân nhân lai mạc hướng y đạo vấn tổ ý dữ giáo ý đồng biệt sư vân tài
-xuất gia vị thụ giới đáo xứ vấn nhân vấn như hà thị thánh sư vân bất phàm vân như
-hà thị phàm sư vân bất thánh vân bất phàm bất thánh thời như hà sư vân hảo cá thiền
-tăng vấn lưỡng kính tướng hướng na cá tối minh sư vân xà lê nhãn bì cái tu di sơn
-vấn học nhân cận nhập tùng lâm khí sư chỉ thị sư vân thương thiên thương thiên vấn tiền cú
-dĩ vãng hậu cú nan minh thời như hà sư vân hoán tác tức bất khả vân thỉnh sư phân
-sư vân vấn vấn vấn cao tuấn nan thượng thời như hà sư vân lão tăng bất hướng cao phong
-đỉnh vấn bất dữ vạn pháp vi lữ giả thị thập ma nhân sư vân phi nhân vấn thỉnh sư
-tông thừa trung đạo nhất cú tử sư vân kim nhật vô tiền dữ trường quan vấn học nhân bất
-biệt vấn thỉnh sư bất biệt đáp sư vân kì quái vấn tam thừa giáo ngoại như hà tiếp nhân
-sư vân hữu thử thế giới lai nhật nguyệt bất tằng hoán vấn tam xứ bất thông như hà li
-thức sư vân thức thị phân ngoại vấn chúng cơ lai thấu vị thẩm kì trung sự như hà sư
-vân ngã nhãn bản chính bất thuyết kì trung sự vấn tịnh địa bất chỉ thị thập ma nhân sư
-vân nễ vị thị kì trung nhân tại vân như hà thị kì trung nhân sư vân chỉ dã vấn
-như hà thị vạn pháp chi nguyên sư vân đống lương triện trụ vân học nhân bất hội sư vân
-củng ẩu xoa thủ bất hội vấn nhất vật bất tương lai thời như hà sư vân phóng hạ trước
-vấn lộ phùng đạt đạo nhân bất tương ngữ mặc đối vị thẩm tương thập ma đối sư vân nhân
-tùng trần châu lai bất đắc hứa châu tín vấn khai khẩu thị hữu vi như hà thị vô vi
-sư dĩ thủ thị chi vân giả cá thị vô vi vân giả cá thị hữu vi như hà thị
-vô vi sư vân vô vi vân giả cá thị hữu vi sư vân thị hữu vi
-sư thị chúng vân phật chi nhất tự ngô bất hỉ văn vấn hòa thượng hoàn vi nhân dã vô
-sư vân phật phật vấn tận khước kim thời như hà thị đích đích xứ sư vân tận khước kim
-thời mạc vấn na cá vân như hà thị đích sư vân hướng nễ đạo mạc vấn vân như hà
-đắc kiến sư vân đại vô ngoại tiểu vô nội vấn li tứ cú tuyệt bá phi thời như hà
-sư vân lão tăng bất nhận đắc tử vân giả cá thị hòa thượng phân thượng sự sư vân kháp
-thị vân thỉnh hòa thượng chỉ thị sư vân li tứ cú tuyệt bá phi bả thập ma chỉ thị
-vấn như hà thị hòa thượng gia phong sư vân nội vô nhất vật ngoại vô sở cầu vấn như
-hà thị quy căn đắc chỉ sư vân đáp nễ tức quai vấn như hà thị nghi tâm sư vân
-đáp nễ tức quai dã vấn xuất gia để nhân hoàn tác tục phủ sư vân xuất gia tức thị
-tòa chủ xuất dữ bất xuất lão tăng bất quản vân vi thập ma bất quản sư vân dữ ma
-tức xuất gia dã vấn vô sư đệ tử thời như hà sư vân vô lậu trí tính bản tự
-cụ túc hựu vân thử thị vô sư đệ tử vấn bất kiến biên biểu thời như hà sư vân
-nhân thập ma dữ ma vấn trừng nhi bất thanh hồn nhi bất trược thời như hà sư vân bất
-thanh bất trược vân thị thập ma sư vân dã khả lân sinh vân như hà thị thông phương sư
-vân li khước kim cương thiền vấn như hà thị nang trung bảo sư vân hiềm thập ma vân dụng
-bất cùng thời như hà sư vân tự gia để hoàn trùng phủ hựu vân dụng giả tức trùng bất
-dụng tức khinh vấn như hà thị tổ sư đích đích ý sư thế thoá vân kì trung sự như
-hà sư hựu thoá địa vấn như hà thị sa môn hành sư vân li hành vấn chân hưu chi
-xứ thỉnh sư chỉ sư vân chỉ tức bất hưu vấn vô vấn thời như hà sư vân quai thường
-ngữ vấn tứ sơn tướng bức thời như hà sư vân vô xuất tích vấn đáo giả lí đạo bất
-đắc thời như hà sư vân bất đắc đạo vân như hà đạo sư vân đạo bất đắc xứ vấn
-đãn hữu ngôn cú tận bất xuất đỉnh như hà thị đỉnh ngoại sự sư hoán sa di văn viễn
-văn viễn ưng nặc sư vân kim nhật tảo vãn dã vấn như hà thị tì lô sư sư vân
-mạc ác khẩu vấn chí đạo vô nan duy hiềm giản trạch như hà đắc bất giản trạch sư vân
-thiên thượng thiên hạ duy ngã độc tôn vân thử do thị giản trạch sư vân điền xá nô thập
-ma xứ thị giản trạch vấn như hà thị tam giới ngoại nhân sư vân tranh nại lão tăng tại
-tam giới nội vấn tri hữu bất hữu để nhân như hà sư vân nễ nhược canh vấn tức cố
-vấn lão tăng
-sư thị chúng vân hướng nam phương xu tùng lâm khứ mạc tại giả lí tăng tiện vấn hòa thượng
-giả lí thị thậm xứ sư vân ngã giả lí thị sài lâm vấn như hà thị tì lô sư
-sư vân tính thị đệ tử vấn quy căn đắc chỉ thời như hà sư vân thái hoảng mang sinh
-vân bất thẩm sư vân bất thẩm tùng thậm xứ khởi lưu tướng công nhập viện kiến sư tảo địa
-vấn đại thiện tri thức vi thập ma khước tảo trần sư vân tùng ngoại lai vấn lợi kiếm xuất
-hạp thời như hà sư vân hắc vân chính vấn chi thời như hà ban bạch sư vân vô giả
-nhàn công phu vân xoa thủ hướng nhân tiền tranh nại hà sư vân tảo vãn kiến nễ xoa thủ
-vân bất xoa thủ thời như hà sư vân thùy thị bất xoa thủ giả vấn như hà thị sa
-môn đắc lực xứ sư vân nễ thập ma xứ bất đắc lực vấn như hà thị hòa thượng thị
-học nhân xứ sư vân mục tiền vô học nhân vân dữ ma tức bất xuất thế dã sư tiện
-trân trùng vấn tổ ý dữ giáo ý đồng biệt sư tác quyền an đầu thượng vân hòa thượng do
-hữu giả cá tại sư tá hạ mạo tử vân nễ đạo lão tăng hữu cá thập ma vấn tâm
-bất đình bất trụ thời như hà sư vân thị hoạt vật thị giả cá chính bí tâm thức sứ
-tại vân như hà đắc bất bí tâm thức sứ sư tiện đê đầu vấn đạo tùng hà sinh sư
-vân giả cá tức sinh dã đạo bất thuộc sinh diệt vân mạc thị thiên nhiên dã vô sư vân
-giả cá thị thiên nhiên đạo tức bất dữ ma vấn tổ ý dữ giáo ý đồng biệt sư vân
-hội đắc tổ ý tiện hội giáo ý vấn như hà thị dị loại trung hành sư vân úm khẩu bộ
-lâm úm khẩu bộ lâm vấn cao tuấn nan thượng thời như hà sư vân lão tăng tự trụ phong đỉnh
-vân tranh nại tào khê lộ trắc hà sư vân tào khê thị ác vân kim thời vi thập ma
-bất đáo sư vân thị cừ cao tuấn vấn như hà thị bảo nguyệt đương không sư vân tắc khước
-lão tăng nhĩ vấn hào hi hữu sai thời như hà sư vân thô vân ưng cơ thời như hà
-sư vân quật vấn như hà thị sa môn hành sư triển thủ bật y vấn tổ phật mệnh bất
-đoạn/đoán xứ như hà sư vân vô nhân tri vấn vị thẩm quyền cơ hoán tác thập ma sư vân
-hoán tác quyền cơ vấn học nhân cận nhập tùng lâm bất hội khí sư chỉ thị sư vân vị
-nhập tùng lâm canh thị bất hội vấn tùng thượng cổ đức tương hà thị nhân sư vân bất nhân
-nễ vấn lão tăng dã bất tri hữu cổ đức vân thỉnh sư chỉ thị sư vân lão tăng bất
-thị cổ đức vấn phật hoa vị phát như hà ban đắc chân thật sư vân thị chân thị thật
-vân thị thập ma nhân phân thượng sự sư vân lão tăng hữu phân xà lê hữu phân vấn như
-hà thị phật sư vân nễ thị thập ma nhân vấn mạch trực lộ thời như hà sư vân mạch
-trực lộ vấn như hà thị huyền trung bất đoạn/đoán huyền sư vân nễ vấn ngã thị bất đoạn/đoán huyền
-vấn phật hoa vị phát thời như hà ban đắc chân thật sư vân dĩ phát dã vân vị thẩm
-thị chân thị thật sư vân chân tức thật thật tức chân vấn hoàn hữu bất báo tứ ân tam
-hữu giả dã vô sư vân hữu vân như hà thị sư vân giả cô ân phụ đức hán vấn
-bần tử lai tương thập ma vật dữ tha sư vân bất khiếm thiểu vấn như hà thị triệu châu
-chính chủ sư vân lão tăng thị tùng thẩm hữu bà tử vấn bà thị ngũ chướng chi thân như
-hà miễn đắc sư vân nguyện nhất thiết nhân sinh thiên nguyện bà bà vĩnh trầm khổ hải vấn lãng
-nguyệt đương không thời như hà sư vân do thị giai hạ hán vân thỉnh sư tiếp thượng giai sư
-vân nguyệt lạc liễu lai tướng kiến
-sư hữu thời thị chúng vân lão tăng sơ đáo dược sơn thời đắc nhất cú tử trực chí như
-kim câu câu địa bão sư nhân tại thất toạ thiền thứ chủ sự báo đại vương lai lễ bái
-đại vương lễ bái liễu tả hữu vấn độ vương lai vi thập ma bất khởi sư vân nễ bất
-hội lão tăng giả lí hạ đẳng nhân lai xuất tam môn tiếp trung đẳng nhân lai hạ thiền sàng
-tiếp thượng đẳng nhân lai thiền sàng thượng tiếp bất khả hoán đại vương tác trung đẳng hạ đẳng nhân
-dã khủng quật đại vương đại vương hoan hỉ tái tam thỉnh nhập nội cung dưỡng sư nhân vấn chu
-viên ngoại nễ hoàn mộng kiến lâm tế dã vô viên ngoại thụ khởi quyền sư vân na biên kiến
-ngoại vân giả biên kiến sư vân thập ma xứ kiến lâm tế viên ngoại vô đối sư vấn chu
-viên ngoại thập ma xứ lai vân phi lai phi khứ sư vân bất thị lão nha phi lai phi
-khứ
-sư thị chúng vân tài hữu thị phi phân nhiên thất tâm hoàn hữu đáp thoại phân dã vô hậu
-hữu tăng cử tự lạc phố lạc phố khấu xỉ hựu cử tự vân cư vân cư vân hà tất
-tăng cử tự sư sư vân nam phương đại hữu nhân tang thân thất mệnh tăng vân thỉnh hòa thượng
-cử sư tài cử tăng tiện chỉ bàng tăng vân giả cá sư tăng khiết khước phạn liễu tác thập
-ma ngữ thoại sư hưu khứ sư nhân khán kim cương kinh thứ tăng tiện vấn nhất thiết chư phật
-cập chư phật a nậu bồ đề giai tùng thử kinh xuất như hà thị thử kinh sư vân kim
-cương ban nhược ba la mật kinh như thị ngã văn nhất thời phật tại xá vệ quốc tăng vân
-bất thị sư vân ngã tự lí kinh dã bất đắc nhân tăng từ khứ sư vân xà lê xuất
-ngoại hốt hữu nhân vấn hoàn kiến triệu châu phủ nễ tác ma sinh kì đối vân chỉ khả đạo
-kiến sư vân lão tăng thị nhất đầu lư nễ tác ma sinh kiến tăng vô ngữ sư vấn tân
-đáo tùng thập ma xứ lai vân nam phương lai sư vân hoàn tri hữu triệu châu quan ma vân
-tu tri hữu bất thiệp quan giả sư sất vân giả phiến tư diêm hán hựu vân huynh đệ triệu
-châu quan dã nan quá vân như hà thị triệu châu quan sư vân thạch kiếu thị hữu tăng tùng
-tuyết phong lai sư vân thượng tòa mạc trụ thử gian lão tăng giả lí chỉ thị tị nan sở
-tại phật pháp tận tại nam phương vân phật pháp khởi hữu nam bắc sư vân trực nhiêu nễ tùng
-tuyết phong tuyết phong lai dã chỉ thị cá đam bản hán vân vị thẩm na biên sự như hà
-sư vân nễ nhân thậm dạ lai tuy sàng vân đạt hậu như hà sư vân hựu thị a thỉ
-thị chúng vân ngã thử gian hữu xuất quật sư tử diệc hữu tại quật sư tử chỉ thị nan
-đắc sư tử nhi thời hữu tăng đàn chỉ đối chi sư vân thị thập ma vân sư tử nhi
-sư vân ngã hoán tác sư tử nhi tảo thị tội quá nễ canh hành địch đạp sư vấn tân
-đáo li thập ma xứ vân li tuyết phong sư vân tuyết phong hữu thập ma ngôn cú thị nhân
-vân hòa thượng tầm thường đạo tận thập phương thế giới thị sa môn nhất chích nhãn nễ đẳng chư
-nhân hướng thập ma xứ a sư vân xà lê nhược hồi kí cá thiêu tử khứ sư nhân xả
-y biểu đại chúng thứ tăng tiện vấn hòa thượng tổng xả khước liễu dụng cá thập ma khứ sư
-triệu vân hồ châu tử tăng ưng nặc sư vân dụng cá thập ma
-sư thị chúng vân vị hữu thế giới tảo hữu thử tính thế giới hoại thời thử tính bất hoại
-tăng vấn như hà thị thử tính sư vân ngũ uẩn tứ đại vân thử do thị hoại như hà
-thị thử tính sư vân tứ đại ngũ uẩn định châu hữu nhất tòa chủ đáo sư vấn tập hà
-nghiệp vân kinh luật luận bất thính tiện giảng sư cử thủ thị chi hoàn giảng đắc giả cá ma
-tòa chủ mang nhiên bất tri sư vân trực nhiêu nễ bất thính tiện giảng đắc dã chỉ thị cá
-giảng kinh luận hán nhược thị phật pháp vị tại vân hòa thượng tức kim ngữ thoại mạc tiện thị
-phật pháp phủ sư vân trực nhiêu nễ vấn đắc đáp đắc tổng thuộc kinh luận phật pháp vị tại
-chủ vô ngữ sư vấn nhất hành giả tùng thập ma xứ lai vân bắc viện lai sư vân na
-viện hà tự giả viện hành giả vô đối hữu tăng tại biên lập sư linh đại hành giả ngữ
-tăng đại vân tùng na viện lai sư tiếu chi sư hựu linh văn viễn đại chi văn viễn vân
-hành giả hoàn thị bất thủ sư ngữ thoại sư vấn tòa chủ sở tập hà nghiệp vân giảng duy
-ma kinh sư vân duy ma kinh bộ bộ thị đạo trường tòa chủ tại thập ma xứ chủ vô
-đối sư linh toàn ích đại tòa chủ ngữ toàn ích vân chỉ giả nhất vấn khả thức đạo trường
-ma sư vân nễ thân tại đạo trường lí tâm tại thập ma xứ tốc đạo thủ vân hòa thượng
-bất thị mịch học nhân tâm sư vân thị vân chỉ giả nhất vấn nhất đáp thị thập ma sư
-vân lão tăng bất tại tâm sở lí pháp quá nhãn nhĩ tị thiệt thân ý nhi tri giải vân
-kí bất tại tâm số lí hòa thượng vi thập ma mịch sư vân vi nễ đạo bất đắc vân
-pháp quá nhãn nhĩ tị thiệt thân ý nhi bất giải tác ma sinh đạo bất đắc sư vân khiết
-ngã thế thoá sư vấn tăng nễ tằng khán pháp hoa kinh ma vân tằng khán sư vân kinh trung
-đạo nạp y tại không nhàn giả danh a luyện nhược cuống hoặc thế gian nhân nễ tác ma sinh
-hội tăng nghĩ lễ bái sư vân nễ phi nạp y lai phủ vân phi lai sư vân mạc hoặc
-ngã vân như hà đắc bất hoặc khứ sư vân tự tác hoạt kế mạc thủ lão tăng ngữ sư
-vấn tòa chủ sở tập hà nghiệp vân giảng duy ma kinh sư vân na cá thị duy ma tổ
-phụ vân mỗ giáp thị sư vân vi thập ma khước vi nhi tôn truyền ngữ chủ vô đối
-sư nhất nhật thượng đường tăng tài xuất lễ bái sư nãi hợp chưởng trân trùng hựu nhất nhật tăng
-lễ bái sư vân hảo hảo vấn vân như hà thị thiền sư vân kim nhật thiên âm bất đáp
-thoại vấn tân đáo tùng hà phương lai vân vô phương diện lai sư nãi chuyển bội tăng tương toạ
-cụ tùy sư chuyển sư vân đại hảo vô phương diện vấn tân đáo tùng thập ma xứ lai vân
-nam phương lai sư vân tam thiên lí ngoại phùng mạc hí vân bất tằng sư vân trích dương hoa
-trích dương hoa phong can đáo ngũ đài sơn hạ kiến nhất lão nhân can vân mạc thị văn thù
-dã vô lão nhân vân bất khả hữu nhị văn thù dã can tiện lễ bái lão nhân bất kiến
-hữu tăng cử tự sư sư vân phong can chỉ cụ nhất chích nhãn sư nãi linh văn viễn tác
-lão nhân ngã tác phong can sư vân mạc thị văn thù dã vô viễn vân khởi hữu nhị văn
-thù dã sư vân văn thù văn thù sư vấn nhị tân đáo thượng tòa tằng đáo thử gian phủ
-vân bất tằng đáo sư vân khiết trà khứ hựu vấn na nhất nhân tằng đáo thử gian phủ vân
-tằng đáo sư vân khiết trà khứ viện chủ vấn hòa thượng bất tằng đáo giáo y khiết trà khứ
-tức thả trí tằng đáo vi thập ma giáo y khiết trà khứ sư vân viện chủ viện chủ ưng
-nặc sư vân khiết trà khứ sư đáo vân cư vân cư vân lão lão đại đại hà bất mịch
-cá trụ xứ sư vân thập ma xứ trụ đắc vân cư vân tiền diện hữu cổ tự cơ sư
-vân dữ ma tức hòa thượng tự trụ thủ sư hựu đáo thù du thù du vân lão lão đại
-đại hà bất mịch cá trụ xứ khứ sư vân thập ma xứ trụ đắc thù du vân lão lão
-đại đại trụ xứ dã bất thức sư vân tam thập niên lộng mã kị kim nhật khước bí lư
-phốc sư hựu đáo thù du phương trượng thượng hạ quan chiêm thù du vân bình địa khiết giao tác
-thập ma sư vân chỉ vi tâm thô sư nhất nhật tương trụ trượng thượng thù du pháp đường thượng
-đông tây lai khứ du vân tác thập ma sư vân thám thuỷ du vân ngã giả lí nhất trích
-dã vô thám cá thập ma sư tương trượng tử ỷ bích tiện hạ khứ đài sơn lộ thượng hữu
-nhất bà tử yếu vấn tăng tăng vấn đài sơn lộ hướng thập ma xứ khứ vân mạch trực khứ
-tăng tài hành bà vân hựu dữ ma khứ dã sư văn tiện khứ vấn đài sơn lộ hướng thập
-ma xứ khứ vân mạch trực khứ sư tài hành bà vân hựu dữ ma khứ dã sư quy cử
-tự đại chúng vân bà tử bí lão tăng khám phá liễu dã sư kiến tăng lai cáp hoả thị
-chi vân hội ma tăng vân bất hội sư vân nễ bất đắc hoán tác hoả lão tăng đạo liễu
-dã sư cáp khởi hoả vân hội ma vân bất hội sư khước vân thử khứ thư châu hữu đầu
-tử sơn hòa thượng nễ khứ lễ bái vấn thủ nhân duyên tướng khế bất dụng canh lai bất tướng
-khế khước lai kì tăng tiện khứ tài đáo đầu tử hòa thượng xứ đầu tử nãi vấn cận li
-thập ma xứ vân li triệu châu đặc lai lễ bái hòa thượng đầu tử vân triệu châu lão nhân
-hữu hà ngôn cú tăng nãi cụ cử tiền thoại đầu tử nãi hạ thiền sàng hành tam ngũ bộ
-khước toạ vân hội ma tăng vân bất hội đầu tử vân nễ quy cử tự triệu châu kì tăng
-khước quy cử tự sư sư vân hoàn hội ma vân vị hội sư vân dã bất giác đa dã
-đỗng sơn vấn tăng thập ma xứ lai vân chưởng hài lai sơn vân tự giải y tha vân y
-tha sơn vân tha hoàn chỉ xà lê dã vô tăng vô đối sư đại vân nhược duẫn tức bất
-vi phổ hoá khiết sinh thái lâm tế kiến vân phổ hoá đại tự nhất đầu lư phổ hoá tiện
-tác lư minh lâm tế tiện hưu khứ phổ hoá vân lâm tế tiểu tư nhi chỉ cụ nhất chích
-nhãn sư đại vân đãn dữ bản phân thảo liệu bảo thọ vấn hồ đinh giảo mạc tiện thị hồ
-đinh giảo phủ vân bất cảm bảo vân hoàn đinh đắc hư không ma vân thỉnh đả phá hư không
-lai bảo thọ tiện đả khước vân tha hậu hữu đa khẩu a sư dữ nễ điểm phá tại hồ
-đinh giảo hậu cử tự sư sư vân nễ nhân thập ma bí tha đả vân bất tri quá tại
-thập ma xứ sư vân chỉ giả nhất phúng thượng bất nại hà canh giáo tha đả phá đinh giảo
-tiện hội sư hựu vân thả đinh giả nhất phúng sư nhân hành lộ thứ kiến nhất bà tử vấn
-hòa thượng trụ tại thập ma xứ sư vân triệu châu đông viện tây sư cử vấn tăng vân nễ
-đạo sứ na cá tây tự nhất tăng vân đông tây tự nhất tăng vân y tê tự sư vân
-nễ lưỡng nhân tổng tác đắc diêm thiết phán quan sư dữ thị lang du viên kiến thỏ tẩu quá
-thị lang vấn hòa thượng thị đại thiện tri thức thỏ tử kiến vi thập ma tẩu sư vân lão
-tăng hảo sát sư nhân kiến tăng tảo địa thứ toại vấn dữ ma tảo hoàn đắc tịnh khiết dã
-vô vân chuyển tảo chuyển đa sư vân khởi vô bát trần giả dã vân thùy thị bát trần giả
-sư vân hội ma vân bất hội sư vân vấn thủ vân cư khứ kì tăng nãi khứ vấn vân
-cư như hà thị bát trần giả vân cư vân giả hạt hán sư vấn tăng nễ tại thử gian
-đa thiểu thời dã tăng vân thất bát niên sư vân hoàn kiến lão tăng ma vân kiến sư vân
-ngã tác nhất đầu lư nễ tác ma sinh kiến vân nhập pháp giới kiến sư vân ngã tương vi
-nễ hữu thử nhất trước uổng khiết liễu như hứa đa phạn tăng vân thỉnh hòa thượng đạo sư vân
-nhân thập ma bất đạo hướng thảo liệu lí kiến sư vấn thái đầu kim nhật khiết sinh thái thục
-thái thái đầu đề khởi nhất hành thái sư vân tri ân giả thiểu phụ ân giả đa hữu tục
-hành giả đáo viện thiêu hương sư vấn tăng y tại na lí thiêu hương lễ bái ngã hựu cộng
-nễ tại giả lí ngữ thoại chính dữ ma thời sinh tại na đầu tăng vân hòa thượng thị thập
-ma sư vân dữ ma tức tại na đầu dã vân dữ ma dĩ thị tiên dã sư tiếu chi
-sư dữ tiểu sư văn viễn luận nghĩa bất đắc chiêm thắng chiêm thắng giả du hồ bính sư vân
-ngã thị nhất đầu lư viễn vân ngã thị lư trụ sư vân ngã thị lư phẩn viễn vân ngã
-thị phẩn trung huỷ sư vân nễ tại bỉ trung tác ma viễn vân ngã tại bỉ trung quá hạ
-sư vân bả tương hồ bính lai sư nhân nhập nội hồi lộ thượng kiến nhất tràng tử vô nhất
-tiệt tăng vấn vân tràng tử nhất tiệt thượng thiên khứ dã nhập địa khứ dã sư vân dã bất
-thượng thiên dã bất nhập địa vân hướng thập ma xứ khứ sư vân phốc lạc dã sư toạ thứ
-nhất tăng tài xuất lễ bái sư vân trân trùng tăng thân vấn thứ sư vân hựu thị dã sư
-nhân tại diêm tiền lập kiến yên tử ngữ sư vân giả yên tử nam nam địa kiều nhân ngôn
-ngữ tăng vân vị thẩm tha hoàn cam dã vô sư vân y hi tự khúc tài kham thính hựu
-bí phong xuy biệt điều trung hữu tăng từ khứ sư vân thập ma xứ khứ vân mân trung khứ
-sư vân mân trung đại hữu binh mã nễ tu hồi tị vân hướng thậm xứ hồi tị sư vân
-kháp hảo hữu tăng thượng sâm thứ kiến sư nạp y cái đầu toạ thứ tăng tiện thối sư vân
-xà lê mạc đạo lão tăng bất kì đối sư vấn tăng tùng thập ma xứ lai vân nam phương
-lai sư vân cộng thập ma nhân vi bạn vân thuỷ cổ ngưu sư vân hảo cá sư tăng nhân
-thập ma dữ súc sinh vi bạn vân bất dị cố sư vân hảo cá súc sinh vân tranh khẳng
-sư vân bất khẳng thả tùng hoàn ngã bạn lai sư vấn tăng đường trung hoàn hữu tổ sư dã
-vô vân hữu sư vân hoán lai dữ lão tăng tẩy cước đường trung hữu nhị tăng tướng suy bất
-khẳng tác đệ nhất tòa chủ sự bạch hòa thượng sư vân tổng giáo tha tác đệ nhị tòa vân
-giáo thùy tác đệ nhất tòa sư vân trang hương trước vân trang hương liễu dã sư vân giới hương
-định hương sư vấn tăng li thập ma xứ vân li kinh trung sư vân nễ hoàn tùng đồng quan
-quá ma vân bất lịch sư vân kim nhật tróc đắc giả phiến tư diêm hán nhân tống vong tăng
-sư vân chỉ thị nhất cá tử nhân đắc vô lượng nhân tống hựu vân hứa đa tử hán tống
-nhất cá sinh hán thời hữu tăng vấn thị tâm sinh thị thân sinh sư vân thân tâm câu bất
-sinh vân giả cá tác ma sinh sư vân tử hán hữu tăng kiến miêu nhi vấn vân mỗ giáp
-hoán tác miêu nhi vị thẩm hòa thượng hoán tác thập ma sư vân thị nễ hoán tác miêu nhi
-nhân trấn châu đại vương lai phóng sư thị giả lai báo sư vân đại vương lai sư vân đại
-vương vạn phúc thị giả vân vị tại phương đáo tam môn hạ sư vân hựu đạo đại vương lai
-dã nhân thượng đông ti triệu văn viễn văn viễn ưng nặc sư vân đông ti thượng bất khả dữ
-nễ thuyết phật pháp dã nhân tại điện thượng quá nãi hoán thị giả thị giả ưng nặc sư vân
-hảo nhất điện công đức thị giả vô đối sư nhân đáo lâm tế phương thuỷ tẩy cước lâm tế
-tiện vấn như hà thị tổ sư tây lai ý sư vân chính trực tẩy cước lâm tế nãi cận
-tiền trắc linh sư vân nhược hội tiện hội nhược bất hội canh mạc đạm trụ tác ma lâm tế
-bật tụ khứ sư vân tam thập niên hành cước kim nhật vi nhân thác hạ chú cước sư nhân
-đáo thiên đài quốc thanh tự kiến hàn sơn thập đắc sư vân cửu hưởng hàn sơn thập đắc đáo
-lai chỉ kiến lưỡng đầu thuỷ cổ ngưu hàn sơn thập đắc tiện tác ngưu đấu sư vân sất sất
-hàn sơn thập đắc giảo xỉ tướng khán sư tiện quy đường nhị nhân lai đường nội vấn sư đích
-lai nhân duyên tác ma sinh sư nãi a a đại tiếu nhất nhật nhị nhân vấn sư thập ma
-xứ khứ lai sư vân lễ bái ngũ bá tôn giả lai nhị nhân vân ngũ bá đầu thuỷ cổ
-ngưu nễ tôn giả sư vân vi thập ma tác ngũ bá đầu thuỷ cổ ngưu khứ sơn vân thương
-thiên thương thiên sư a a đại tiếu sư hành cước thời kiến nhị am chủ nhất nhân tác a
-giác đồng sư vấn tấn nhị nhân thù bất cố lai nhật tảo thần a giác đồng tương nhất sanh
-phạn lai phóng địa thượng phân tác tam phân am chủ tương tịch tử cận tiền toạ a giác đồng
-diệc tương tịch cận tiền tướng đối toạ diệc bất hoán sư sư nãi diệc tương tịch tử cận tiền
-toạ a đồng mục cố ư sư am chủ vân mạc ngôn xâm tảo khởi canh hữu dạ hành nhân
-sư vân hà bất giáo chiếu giá hành giả am chủ vân tha thị nhân gia nam nữ sư vân
-kị hợp phóng quá a đồng tiện khởi cố thị am chủ vân đa khẩu tác ma a đồng tùng
-thử nhập sơn bất kiến sư nhân khán kinh thứ sa di văn viễn nhập lai sư nãi tương kinh
-trắc thị chi sa di nãi xuất khứ sư tùy hậu bả trụ vân tốc đạo tốc đạo văn viễn
-vân a di đà phật a di đà phật sư tiện quy phương trượng nhân sa di đồng hành sâm
-sư hướng thị giả đạo giáo y khứ thị giả hướng hành giả đạo hòa thượng giáo khứ hành giả
-tiện trân trùng sư vân sa di đồng hành đắc nhập môn thị giả tại môn ngoại sư hành cước
-thời đáo nhất tôn tú viện tài nhập môn tướng kiến tiện vân hữu ma hữu ma tôn tú thụ
-khởi quyền đầu sư vân thuỷ tiên thuyền nan bạc tiện xuất khứ hựu đáo nhất viện kiến tôn tú
-tiện vân hữu ma hữu ma tôn tú thụ khởi quyền đầu sư vân năng túng năng đoạt năng thủ
-năng toát lễ bái tiện xuất khứ sư nhất nhật niêm số châu vấn tân la trường lão bỉ trung
-hoàn hữu giả cá dã vô vân hữu sư vân hà tự giả cá vân bất tự giả cá sư
-vân kí hữu vi thập ma bất tự vô ngữ sư tự đại vân bất kiến đạo tân la đại
-đường vấn tân đáo thập ma xứ lai vân nam phương lai sư thụ khởi chỉ vân hội ma vân
-bất hội sư vân động chỉ vạn phúc bất hội sư hành cước thời vấn đại từ ban nhược dĩ
-hà vi thể từ vân ban nhược dĩ hà vi thể sư tiện a a đại tiếu nhi xuất đại
-từ lai nhật kiến sư tảo địa thứ vấn ban nhược dĩ hà vi thể sư phóng hạ tảo trửu
-a a đại tiếu nhi khứ đại từ tiện quy phương trượng sư đáo bá trượng bá trượng vấn tùng
-thập ma xứ lai vân nam toàn lai bá trượng vân nam toàn hữu hà ngôn cú thị nhân sư
-vân hữu thời đạo vị đắc chi nhân diệc tu tiễu nhiên khứ bá trượng sất chi sư dong ngạc
-nhiên bá trượng vân đại hảo tiễu nhiên sư tiện tác vũ nhi xuất sư đáo đầu tử xứ đối
-toạ trai đầu tử tương chưng bính dữ sư khiết sư vân bất khiết bất cửu hạ hồ bính đầu
-tử giáo sa di độ dữ sư sư tiếp đắc bính khước lễ sa di tam bái đầu tử mặc
-nhiên nhân tăng tả sư chân trình sư sư vân nhược tự lão tăng tức đả sát ngã nhược bất
-tự tức thiêu khước sư nhân dữ văn viễn hành thứ nãi dĩ thủ chỉ nhất phiến địa vân giá
-lí hảo tạo nhất cá tuần phô tử văn viễn tiện khứ bỉ trung lập vân bả tương công nghiệm
-lai sư tiện đả nhất quắc viễn vân công nghiệm phân minh quá sư vấn tân đáo cận li thậm
-xứ vân đài sơn sư vân hoàn kiến văn thù dã vô tăng triển thủ sư vân triển thủ phả
-đa văn thù nan đổ vân chỉ thủ khí cấp sát nhân sư vân bất đổ vân trung nhạn yên
-tri sa tắc hàn vấn viễn viễn đầu sư thỉnh sư nhất tiếp sư vân tôn tẫn môn hạ nhân
-thập ma toàn quy tăng bật tụ xuất khứ sư vân tương vi đương vinh chiết tha song túc sư
-dữ thủ tòa khán thạch kiếu nãi vấn thủ tòa thị thập ma nhân tạo vân lí ưng tạo sư
-vân tạo thời hướng thập ma xứ hạ thủ tòa vô đối sư vân tầm thường thuyết thạch kiếu vấn
-trước hạ thủ xứ dã bất tri hữu tân la viện chủ thỉnh sư trai sư đáo môn thủ vấn
-thử thị thập ma viện vân tân la viện sư vân ngã dữ nễ cách hải vấn tăng thập ma
-xứ lai vân vân cư lai sư vân vân cư hữu thập ma ngôn cú vân hữu tăng vấn linh
-dương quải giác thời như hà vân cư vân lục lục tam thập lục sư vân vân cư sư huynh
-do tại tăng khước vấn vị thẩm hòa thượng tôn ý như hà sư vân cửu cửu bát thập nhất
-hữu nhất bà tử nhật vãn nhập viện lai sư vân tác thập ma bà vân kí tú sư vân
-giả lí thị thập ma sở tại bà a a đại tiếu nhi khứ sư xuất ngoại phùng kiến nhất
-cá bà tử đề nhất cá lam tử sư tiện vấn thập ma xứ khứ vân thâu triệu châu duẩn
-khứ sư vân hốt kiến triệu châu hựu tác ma sinh bà tử cận tiền đả nhất chưởng sư nhân
-kiến viện chủ tống sinh phạn nha tử kiến tiện tổng phi khứ sư vân nha tử nhi kiến nễ
-vi thập ma khước phi khứ viện chủ vân phạ mỗ giáp sư vân thị thập ma ngữ thoại sư
-đại vân vi mỗ giáp hữu sát tâm tại sư vấn tăng thập ma xứ lai vân giang tây lai
-sư vân triệu châu trước tại thập ma xứ tăng vô đối sư tùng điện thượng quá kiến nhất tăng
-lễ bái sư đả nhất bổng vân lễ bái dã thị hảo sự sư vân hảo sự bất như vô
-sư nhân sâm đồng quan đồng quan vấn sư vân nễ hoàn tri hữu đồng quan ma sư vân tri
-hữu đồng quan vân hữu công nghiệm giả tức đắc quá vô công nghiệm giả bất đắc quá sư vân
-hốt ngộ loan giá lai thời như hà quan vân dã tu kiểm điểm quá vân nễ yếu tạo phản
-sư đáo bảo thọ bảo thọ kiến sư lai toại nãi bội diện nhi toạ sư tiện triển toạ cụ
-bảo thọ khởi lập sư tiện xuất khứ sư tại nam toàn thời toàn khiên nhất đầu thuỷ cổ ngưu
-nhập tăng đường nội tuần đường nhi chuyển thủ tòa nãi hướng ngưu bội thượng tam bác toàn tiện hưu
-khứ sư hậu tương nhất thúc thảo an thủ tòa diện tiền thủ tòa vô đối hữu tú tài kiến
-sư nãi tán thán sư vân hòa thượng thị cổ phật sư vân tú tài thị tân như lai hữu
-tăng vấn như hà thị niết bàn sư vân ngã nhĩ trùng tăng tái vấn sư vân ngã bất hại
-nhĩ lung nãi hữu tụng đằng đằng đại đạo giả đối diện niết bàn môn đãn toạ niệm vô tế
-lai niên xuân hựu xuân hữu tăng vấn sinh tử nhị lộ thị đồng thị biệt sư nãi hữu tụng
-đạo nhân vấn sinh tử sinh tử nhược vi luận song lâm nhất trì thuỷ lãng nguyệt diệu kiền khôn
-hoán tha cú thượng thức thử thị lộng tinh hồn dục hội cá sinh tử điên nhân thuyết mộng xuân
-hữu tăng vấn chư phật hữu nan hoả diễm lí tạng thân hòa thượng hữu nan hướng thập ma xứ
-tạng thân sư nãi hữu tụng cừ thuyết phật hữu nan ngã thuyết cừ hữu tai đãn khán ngã tị
-nan hà xứ hữu tướng tùy hữu vô bất thị thuyết khứ lai phi khứ lai vi nễ thuyết nan
-pháp đối diện thức đắc lai
+thư châu pháp hoa sơn cử hòa thượng ngữ yếu
+sư nhập viện thượng đường thị chúng vân phu đệ nhất nghĩa đế phi trí biện sở thuyên tâm cơ
+sở trắc giáo ngoại biệt truyền bất lập văn tự kí đáo giá lí phục thả như hà trực tu
+toạ đoạn/đoán tì lô bất tồn phàm thánh hoàn năng như thị ma nhược dã vị năng sơn tăng trùng
+thuyết kệ ngôn khứ dã bất kết tì lô ấn na hoằng cổ phật tâm minh nguyệt chiếu u cốc
+hàn đào trợ dạ châm chư nhân uy tất ma các hi phát vấn vấn tích nhật linh sơn phân
+bán tòa sư kim đăng trắc ý như hà sư vân nễ thừa đương đắc ma vấn như hà thị
+pháp hoa cảnh sư vân hậu bất câu tiền như hà thị cảnh trung nhân sư vân tam nhật hậu
+khán vấn tổ ý tây lai sự thỉnh sư trực chỉ trần sư vân tiệt nhĩ ngoạ nhai tăng vân
+kiến giả tận toàn mi sư vân phi công cảnh giới vấn bất lạc kim thời thỉnh sư đạo sư
+vân lạc vấn như hà thị phật sư vân lô nha xuyên tất tăng vân như hà thị đạo sư
+vân thất túng bát hoành tăng vân như hà thị đạo trung nhân sư vân khẩn đầu tăng vân
+như hà thị hòa thượng gia phong sư vân quảng ngạch chiên đà la vấn như hà thị tổ sư
+tây lai ý sư vân chu thần hạo xỉ tăng vân học nhân bất hội sư vân tà trụy tao
+thủ vấn ngưu đầu vị kiến tứ tổ thời vi thập ma bá điểu hàm hoa sư vân quả thục
+viên nhu trùng tăng vân kiến hậu vi thập ma bất hàm hoa sư vân sơ lâm điểu bất quá
+vấn tuyết phú thiên sơn thời như hà sư vân tiều nhân mê cổ lộ ngư phụ toả cô chu
+vấn khả lai bạch vân lí giáo nễ tử chi ca như hà thị tử chi ca sư vân bất
+thị ngô âm thiết tu hán ngữ vấn số nhật bất văn sư hối ngữ kim triêu thăng tòa ý
+như hà sư vân nhất niên xuân tận nhất niên xuân sư nãi vân phu sâm học tu cụ trạch
+pháp nhãn bất đắc man han nhược đắc chính nhãn tinh minh nhất thiết vô trệ bất kiến cổ nhân
+đạo nhất cú ngữ trung tu cụ tam huyền nhất huyền trung tu cụ tam yếu cổ nhân nhẫm ma
+đạo ý tại ư hà vương trạch nhũ tố phi áp loại
+thượng đường vân tức tâm tức phật hoàng diệp chỉ đề phi tâm phi phật nghiệm bệnh thí phương nễ
+đạo đáo giá lí tác ma sinh
+thượng đường vân nghĩ trước tức đoá sinh kiều tiến bất nghĩ trước tức tam thiên lí ngoại
+thượng đường vân bạch mi bất triển thủ trường an lộ thản nhiên quy đường khiết trà khứ
+thượng đường vân thích ca bất xuất thế đạt ma bất tây lai phật pháp biến thiên hạ đàm huyền
+khẩu bất khai
+thượng đường vân nhược khai khẩu hựu thành tăng ngữ bất khai khẩu khứ hựu thành thặng ngữ nãi vân
+kim luân thiên tử lai thảo điếm gia phong biệt
+thượng đường vân bồ đề li ngôn thuyết tùng lai vô đắc nhân tuy nhiên như thị bất miễn khẩu
+quá
+thượng đường vân tâm bất thị phật trí bất thị đạo thả đạo thị thập ma khắc chu cầu kiếm
+giao trụ điều huyền
+thượng đường vân tam thừa thập nhị phân giáo chỉ thị cá dược phương thả đạo trị thập ma bệnh
+nãi vân phụ mẫu duyên sinh khẩu
+thượng đường vân chung minh cổ hưởng nha minh thước táo vi nễ chư nhân thuyết ban nhược giảng niết
+bàn liễu dã chư nhân hoàn tín đắc cập ma quan âm thế chí hướng chư nhân diện tiền tác
+đại thần thông nhược tín bất cập khước vãng tha phương cứu khổ lợi sinh khứ dã
+thượng đường vân tam thế chư phật khẩu quải bích thượng thiên hạ lão hòa thượng tác ma sinh thố
+thủ nễ chư nhân đáo chư phương tác ma sinh cử sơn tăng nhẫm ma đạo dã thị cửu nhật
+hoa lai thần ái nhất ái
+thượng đường vân cổ nhân hữu nhất chuyển bất liễu để nhân duyên cử tự đại chúng phân minh kí
+thủ
+thượng đường vân chư cao đức tùng lâm quy củ triêu vãn nhị thời thượng lai tướng kiến nhất hồi
+tức bất khả nhược ước phật pháp sự trần kiếp lai vị tằng muội tuy nhiên như thị bại chủng
+thả bất phát nha
+thượng đường vân đại chúng hội ma sư tử nhất trích nhũ năng phá bát hộc lư nhũ kí đắc
+tăng vấn lão tú như hà thị phật đối vân bất phong bất thụ đại chúng hội ma nhược bất
+hội trùng hạ chú cước khứ dã bất phong bất thụ dĩ cức loan
+thượng đường vân cổ nhân đạo ngã nhược nhất hướng cử dương tông thừa pháp đường lí thảo thâm nhất
+trượng bất khả vi xà lê toả khước tăng đường môn khứ dã tuy nhiên như thị dã thị ô
+quy lục địa lộng trần hành
+thượng đường cử cổ nhân đạo nhất trần khởi đại địa thu sư vân nhất diệp lạc thiên hạ thu
+thượng đường cử nam toàn vân đạo cá như như tảo thị biến dã kim thời sư tăng tu hướng
+dị loại trung hành thuỷ đắc thả đạo tác ma sinh thị dị loại trung hành nãi vân thạch ngưu
+trường ngoạ tam xuân vụ mộc mã tê thời thu hậu toàn
+thượng đường cử tăng vấn tào sơn như hà thị nhất bất lão sơn vân khô mộc tăng vân như
+hà thị nhất lão sơn vân bất phù trì hữu tăng cử tự cửu phong phong vân tam tùng lục
+nghĩa chư thượng tòa hội ma ái tha niên thiểu phụ tu thị bạch đầu nhi
+thượng đường vân ngữ tiêm dã phản thường hợp đạo luận đốn dã bất lưu trẫm tích trực nhiêu luận
+kì đốn phản kì thường dã thị ức nhi vi chi
+khai lô thị chúng vân nhất nhị tam tứ ngũ nhâm quân điên đảo cử lộ trụ dữ đăng lung
+hà tằng thành phật tổ bất tích mi mao giả trực hạ tiện đạo thủ tăng vấn vị thẩm đạo
+cá thập ma sư vân khiết kỉ khinh trang ngoại bình vu cộng thuế bào tăng vân chính đương dữ
+ma thời như hà sư vân dạ thiền cô nguyệt lãnh thần triêu phiến vân cao tăng nghĩ nghị sư
+vân hội ma tăng vân bất hội sư toại tác tụng thị chi vân tam thập ngũ thập hà tu
+canh cử phương viên biến thông khứ trừ phật tổ tha vị chương danh dư bất năng thủ tăng vấn
+như hà thị tân trung tân sư vân khai khẩu tuy vô lực thổ khí khước tàm hoàng tăng vân
+như hà thị tân trung chủ sư vân nhất điều tân trúc trượng tam sự cựu ma y tăng vân
+như hà thị chủ trung tân sư vân sơn đột ngột hà nhân cố thản nhiên thục khả văn tăng vân
+như hà thị chủ trung chủ sư vân vạn nhận tề khai đổ thiên phong lộ xuất nhan tăng vấn
+như hà thị đoạt nhân bất đoạt cảnh sư vân xuân sinh hạ trường thu thu đông tạng tăng vân
+như hà thị đoạt cảnh bất đoạt nhân sư vân nhất triêu quyền tại thủ khán thủ linh hành thời
+tăng vân như hà thị nhân cảnh lưỡng câu đoạt sư vân hoàn trung thiên tử quý tắc ngoại tương
+quân hùng tăng vân như hà thị nhân cảnh câu bất đoạt sư vân nhất đẳng kiền khôn nhật nguyệt
+câu minh vấn như hà thị phật sư vân thủ bất như cước tăng vân như hà thị chư phật
+gia phong sư vân hoang điền canh bất bãi hựu bí biệt nhân tranh vấn tự cổ cập kim bất
+tùng nhân đắc lục tổ hoàng mai truyền cá thập ma sư vân đức sơn bổng tăng vân truyền hậu
+như hà sư vân na dụng lâm tế ái vấn như hà thị phật sư vân tử vân thường phủng
+túc hắc vụ ủng thân hành vấn pháp thân vô hình như hà kiến lập sư vân cổ miếu hương
+lô vấn ngưu đầu vị kiến tứ tổ thời như hà sư vân tân man cổ tử đông đông hưởng
+tăng vân kiến hậu như hà cựu cổ bì khoan đả bất minh vấn sinh tử sự đại thỉnh sư
+tướng cứu sư vân đỗng đình hồ lí thất khước hang vấn như hà thị bản nguyên sư vân sơn
+cao phong tuấn vấn ngữ bất đầu cơ thỉnh sư đề xướng sư vân sơn tạng hải nạp vấn cửu
+cư nham cốc nhất vật toàn vô thời như hà sư vân cước sấu thảo hài khoan vấn bất phạm
+nhất thiết thỉnh sư đề cương sư vân lung nhân viễn thính vấn tự tri đương tác phật vị thẩm
+thập ma nhân chứng cứ sư vân chí công tiễn đao vấn như hà thị thân thiết nhất cú sư
+vân lục tổ thị tân châu nhân vấn như hà thị tối sơ nhất cú sư vân phụ mẫu vị
+sinh tiền vấn như hà thị bất động tôn sư vân kim nhật tao phùng vấn như hà thị thấu
+pháp thân cú sư vân tam cá miêu nhi nhất cá nanh tăng vân như hà thị pháp thân sư
+vân vô quá ư thử vấn bất động căn nguyên như hà tiếp vật sư vân ác hổ bất như
+thiện miêu nhi vấn tổ ý giáo ý thị đồng thị biệt sư vân xích thuỷ cầu châu tôn tân
+đả ngoã tăng nhập thất thứ sư thùy ngữ vân trùng chỉnh điếu can hoành hải thượng phao câu vị
+tất ái ngư thôn tăng vân đa niên khô mộc kim nhật trùng sinh sư tự đại vân hồng ti
+khúc lí vô kim khánh bích kì ca ngoại hữu văn quan tăng vân thùy hạ lục ti trùng trước
+nhị tất nhiên điếu đắc đại kim ngư tăng nhập thất triển tòa cụ thuỷ thu sư vân nhất triển
+nhất thu pháp pháp giai chu nghĩ dục canh vấn trước thậm lai do toại vấn hội ma tăng vân
+bất hội sư tiện đả vấn kí thị thiện tri thức vi thập ma sự dưỡng sinh sát sinh sư
+vân sinh giả tự sinh tử giả tự tử vị vũ tiên kinh chập chỉ yếu tiểu xà tri vấn
+sư xướng thùy gia khúc tông phong tự a thùy sư vân tạng đầu bạch hải đầu hắc tăng vân
+phần dương đích tử lâm tế nhi tôn khứ dã sư vân mạc loạn châm trùy vấn pháp hoa chuyên
+sứ thân tam thỉnh tổ ý tây lai sự nhược hà sư vân thiên tình đạo lộ kiền vấn đức
+sơn bổng lâm tế ái ý chỉ như hà sư vân tiệt thiệt tam phân tăng vân tứ hải truyền
+dương khứ dã sư vân khổ thống thâm tăng vấn như hà thị tân trung tân sư vân minh nhiên
+độ hiểu xuân tăng vân như hà thị tân trung chủ sư vân mạc man khuy môn hộ tăng vân
+như hà thị chủ trung tân sư vân uy tang tế phiêu luân tăng vân như hà thị chủ trung
+chủ sư vân quang hàn tinh ẩu hi vấn như hà thị đoạt nhân bất đoạt cảnh sư vân bạch
+cúc sạ khai trùng nhật noãn bá niên công tử bất phùng xuân tăng vân như hà thị đoạt cảnh
+bất đoạt nhân sư vân đại địa tuyệt tiêu tức tiêu nhiên độc nhâm chân vấn như hà thị nhân
+cảnh lưỡng câu đoạt sư vân thảo hoang nhân biến sắc phàm thánh lưỡng tề vong vấn như hà thị
+nhân cảnh câu bất đoạt sư vân thanh phong bạn minh nguyệt dã lão tiếu tướng thân tăng vấn thừa
+cổ hữu ngôn tu di vi đôi hư không vi cổ hoàn hứa học nhân đả dã vô sư vân
+vô nễ hạ thủ xứ tăng vân canh bất thỉnh đôi sư vân ngã bất năng đả đắc nễ toại
+tụng vân diêm quan hữu cổ cao đê ban vu bắc nam toàn tiện chỉnh tề bội diện tu lai
+đường độ kích đương đầu bất tiến bắc ba đề nhập ba cấp ma yêu hạ kiếm xuất tắc tu
+dụng tự gia tài trân trùng lão sư bất oanh phá ngã tại giang đông quân tại tây tăng vấn
+học nhân vị ngộ đại cơ thỉnh sư nhất ái sư vân thị thập ma cơ tăng vân đại cơ
+sư vân nhược thị đại cơ tranh thụ nhất ái tăng tiện ái sư vân nhất đàm lục thuỷ lưỡng
+xứ hồng ba tăng hữu tụng vân cao đề tổ ấn tức cuồng cơ toạ ngoạ ưng tu giám giả
+tri khước bí minh sư toàn đả phá ngoại cầu phật tổ khởi vi kì vấn thừa sư hữu ngôn
+nhất vật bất tương lai phóng hạ cá thập ma ý chỉ như hà sư vân nễ thị liễu nhân
+phóng hạ cá thập ma tăng vân phật pháp vô đa tử sư vân khiếm ngã phách tích bổng nễ
+tác ma sinh tăng vân nguyên lai vô hứa đa ban như kim khước tác mô dạng sư dĩ tụng
+thị vân nhữ tích cao phi ngã tức hưu thử sinh vô hỉ diệc vô ưu vân khai nhâm đãi
+phong xuy tán lưu thủ bích đàm nguyệt chính thu tăng vấn triệu châu đông môn tây môn nam môn
+bắc môn ý chỉ như hà sư vân hữu vấn hữu đáp tăng vân bất vấn bất đáp thời như
+hà sư vân khước bí nễ đạo trước dĩ tụng thị chi vân tứ ban câu dĩ tức lục chủng
+khởi năng phân ỷ nam nhàn độ nhật bàng bắc biệt vô môn xảo ngữ tùng giáo thiết huyền từ
+man cộng luận huýnh xuất uy âm ngoại bất đáo thị phi bôn tăng vấn như hà thị vân gian
+nhất khiếu sư vân khai trương bế hợp toại dĩ tụng thị chi vân vân môn nhất khiếu toạ gian
+tâm bả đoạn/đoán du nhân canh mạc tầm nhâm thị hữu thùy cư bích thượng dã giáo vô sự phóng
+tri âm tăng vấn như hà thị bản lai tông sư vân mật thất bất thông phong khước vấn nễ
+tác ma sinh hội tăng vân xuân nhật anh đào đoá đoá hồng tăng vân như hà thị bản lai
+tông sư vân bất vấn bất đáp tăng vân khởi vô phương tiện sư vân minh minh hướng nễ đạo
+tăng vân tạ sư phương tiện sư vân nhữ mạc thụ phương tiện tăng vân quan bất dong châm tư
+thông xa mã sư vân thiên sơn đôi hạo ngọc vạn mộc chiết hàn mai toại dĩ tụng thị chi
+kim cổ thậm hữu phương tiện thị vật đầu đầu lộ hiện thản nhiên vạn dạng thiên ban đột ô
+vô quá hữu diệm vị ngộ thả tu bảo tích ngộ liễu tiện sinh áp tiện trung hạ cấp cấp
+trước nhãn thượng sĩ thùy năng cố hễ nhân tăng sâm hữu tụng yếu tiếp chư nhân hướng thượng pha
+tả thủ đề huề hữu thủ quá thái dương diệm lí phân bát tự nam hải ba tư bất giác
+đa tăng vấn yếu tiếp chư nhân tức bất vấn như hà thị hướng thượng pha sư vân song ngoại
+nguyệt triệt hiểu thất trung đăng canh minh tăng vân tả thủ đề huề tức bất vấn như hà thị
+hữu thủ quá sư vân phóng khai phi tại thủ khước bế bất tùng tha tăng vân thái dương ảnh
+lí tức bất vấn như hà thị phân bát tự sư vân bạc chủ năng tạng bảo thanh cân cái
+đỉnh môn tăng vấn như hà thị tây lai đích đích ý sư vân dữ ngã thủ bật tử lai
+tăng quá bật dữ sư sư tiện đả tăng ư thử hữu tỉnh toại dĩ tụng trình mông sư nhất
+bật thái đa đoan đả phá tùng lai mãn đỗ ham biệt xứ bất năng cầu diệu giải mục tiền
+khước đổ tự gia nhan tăng vấn cửu tại đồ trung thỉnh sư nhất tiếp sư vân hư không hối
+vô nhai ngạn hải nguyệt viên thời biệt hữu thiên tăng vân bất hội sư vân khước thị chân
+cá toại dĩ tụng thị chi học đạo như hành lộ đồ trung vị đắc hưu trực đáo trường an
+nhật phương năng kiến thánh du lĩnh nam cần hòa thượng hữu tụng thị bản thiền nhân vân lâm diệp
+thuỷ kinh thu du vân xuất u cốc thiền nhân tích loạn phi vãng phục bất vãng phục vãng phục
+bất vãng phục lục lục tam thập lục sư nhân kiến nãi vấn tác ma sinh thị vãng phục bất
+vãng phục bản vân lịch lịch kiền khôn ngoại đích đích vũ trụ trung sư vân tác ma sinh thị
+lục lục tam thập lục bản vân kim nhật kí nhiên phiền đạo dụng đắc sư thản đãng chí vô
+vi sư du viên kiến thiên diệp liên trì nãi vấn tăng vân trì tại giá lí liên tại thậm
+xứ tăng vân bạch lang khởi thời ưng nan kiến vị đổ ba trừng biệt khước phùng sư vân minh
+hướng thượng sự tăng khước vấn sư trì tại thử liên tại thậm xứ sư vân vị chí nhật tạng
+thanh trúc nhị vi ngoại thời lai thấu hướng bích ba tâm tăng toại dĩ tụng trình tứ hải ưng nan kiến
+ngũ hồ dị đắc tồn lục ba hoàn hữu nguyệt bạch lang hốt thành văn đoá đoá phân thiên diệp
+số chu cộng nhất căn cửu tại trì trung trường thùy nhân chiết thượng bàn vấn thất tinh quang thể
+thiên tương hiểu bất phạm hoàng phong thí đạo khán sư vân tương quân mã đề hồng tăng vân thác
+sư tiện đả tăng vân chước nhiên sư vân thất bổng đối thập tam tăng lễ bái sư hư hư
+vấn pháp hoa tằng diễn phần dương chỉ bạch vân kim nhật sự như hà sư vân thùy tri tịch
+mạo hạ nguyên thị tích sầu nhân vấn li châu trục nguyệt tức bất vấn long kiếm xung tinh sự
+nhược hà sư vân hàn quang cấp cấp vấn vạn lí vô vân tức bất vấn nhất điều sương nhận
+sự như hà sư vân thùy cảm động trước tăng lễ bái sư vân tiểu từ phương đại từ tiện
+đả vấn trí thức bất đáo xứ thời như hà sư vân tam môn bất tằng khai tăng vân thùy
+thị tri âm giả sư vân khẩu tự tị khổng vấn bảo kiếm vị xuất hạp thời như hà sư
+vân trụ tăng vân xuất hạp hậu như hà sư vân điểm tăng lễ bái sư vân tam tam vấn
+như hà thị phật sư vân ba tư ỷ dạ đài vấn cổ nhân đạo thừa ngôn giả tang trệ
+cú giả mê học nhân tổng bất nhẫm ma thời như hà sư vân điểm kiểm thiệt đầu khán tăng
+vân quan bất dong châm tư thông xa mã sư vân linh lị nhân nan đắc vấn minh nguyệt hải
+vân già bất đắc thư quang trực thấu thuỷ tinh cung thời như hà sư vân đả phá liễu lai
+tướng kiến vấn phật thân sung mãn ư pháp giới vị thẩm hướng thập ma xứ hành lí sư vân
+mi mao trùng đa thiểu tăng vân bất li đương xứ thường đam nhiên sư vân trệ xác mê phong
+vấn bất lạc ngôn thuyên thỉnh sư đoan đích sư vân thiết môn lộ hiểm vấn li long hàm nguyệt
+tức thả trí long kiếm xung thiên thí dụng khán sư vân sơn hà ngập nhật nguyệt ẩu hôn
+tăng lễ bái sư hư hư tăng vấn như hà thị phật sư vân lão tăng đương môn vô xỉ
+tăng vân vi thập ma như thử sư vân chỉ vi lão tăng báng phật
+tiểu sâm thị chúng vân chư thượng tòa thiền tăng gia dĩ tịch trụ vi bản phu hành cước giả
+bất tại quan châu ngoạn phủ khán sơn môn cảnh trí quá thời vi thập ma sự cái vi sinh
+tử sự đại tùng thượng cổ nhân phàm đáo sở tại kiến nhất cá thôn viện chủ dã tu vấn
+quá như kim vãn học vãng vãng sa quá bất khẳng đệ tướng bác vấn kí đắc long nha vấn
+đức sơn học nhân trượng mạc kiếm nghĩ thủ sư đầu thời như hà đức sơn tiện dẫn cảnh
+nha vân sư đầu lạc dã đức sơn tiện hưu chư thượng tòa mạc thị đức sơn vô cơ phong
+ma vi đương biệt hữu đạo lí nãi vân đức sơn dẫn cảnh long nha kiếm
+tiểu sâm thị chúng vân chư thượng tòa phật pháp hữu thập ma sự dã mạc kiến lão hòa thượng
+đạo vô sự tiện vô sự khứ pháp thân vô vi bất đoạ chư số cổ đức đạo bất tín
+phật bồ đề thị tắc giải không đệ nhất sở dĩ đạo thuyết phật thuyết tổ đàm huyền đàm diệu
+giai thuộc tăng giảm ngữ kí nhiên như thị chư nhân hựu hướng thập ma xứ sâm tu cụ hành
+cước nhãn thuỷ đắc nãi niêm trụ trượng vân hữu nhân đạo đắc ma xuất lai tướng kiến hữu ma
+hữu ma chúng vô đối sư vân lão tăng kim nhật thất lợi sư nhân nhập huyền khán quan sầm
+viên ngoại vấn văn thù kị sư tử phổ hiền kị tượng vương hòa thượng vi thập ma bất thừa
+kị sư vân viện trung vô ngoại vân đạt ma thừa lô độ long khánh giang hòa thượng đả kiệu
+hựu thả hà phương sư vân sơn tăng bất niết quái sư phóng quận chủ lang trung vân xá đệ
+đồn điền bất hội tổ sư đạo sư vân đồn điền tuy bất hội hình bộ hựu thả tiêu cách
+bất đồng trung vân tuy nhiên như thị nại hà tâm trung vị đạt sư vân văn thể dĩ chương
+trung vân bất cảm sư vân tranh cảm mai một trung hựu vân kim thời sâm học nhân hảo giáo
+tha kiến đức sơn sư vân kiến hậu như hà trung đại tiếu sư vân đối đổ bất thí thiên
+sứ ngưu thái bảo nhập tự cử lí đô uý pháp thân tụng thỉnh sư chỉ thị sư vân thiên
+sứ thậm xứ nhân sự sứ vân đông kinh thành lí nhân đông kinh thành lí thuyết thoại tây kinh
+thành lí ưng nặc sứ vân bất hội khí sư chỉ thị sư vân trương công khiết tửu lí công
+tuý chung quỳ giải vũ thập bác tử sứ vân đệ tử túc sinh đa hạnh tác lễ nhi khứ
+thích điện thừa nhập tự du sơn hành thứ kiến túc chủng toại vấn hoàng để thị bạch để thị
+sư vân túc thích công linh nhân tha phá sư vân kim nhật tao bì bác thích vân dã tu
+điểm kiểm sư vân kim nhật thất lợi thích đáo thanh toàn hựu vấn toàn vi thập ma thái hồn
+sư vân tạc nhật sơn trung đại hội thích vân kim nhật sự tác ma sinh sư vân náo tùng
+hà xứ lai vương học sĩ đồng vận sứ đáo viện sư vân thỉnh học sĩ kì ưng vận sứ
+thuyết thoại sơn tăng chỉ tri lâm hạ sự học vân vị thẩm lâm hạ sự như hà sư vân
+khổ ích thái túc mễ phạn hựu vân thiên đả bất phòng gia
+hành lục
+sư chí kinh nam phân kim thiện hòa thượng xứ vấn hồi hỗ bất hồi hỗ sư vân tổng bất
+nhẫm ma kim vân vi thập ma khiết phúc xương bổng sư vân nhất gia hữu sự bá gia mang
+kim vân vi thập ma thoát không man ngữ sư vân sự bất nhật qua khởi kim vân nhập thuỷ kiến
+trường nhân sư vân điều cầm trừng thái cổ trác cú thể toàn chân toại trình tụng vân hồi hỗ
+bất nhượng tiền đương đầu hộ để nhàn hãn phùng lâm tế ái sa quá lão đức sơn thế sự
+tùng tha đáo điểu đạo tuyệt nhân phàn thích thảng thiên nhiên khiếu toạ đoạn/đoán triệu châu quan đáo công
+an viễn hòa thượng xứ vấn tác ma sinh thị già lam sư vân thâm sơn tạng độc hổ tiên
+thảo lộ quần xà viễn vân tác ma sinh thị già lam trung nhân sư vân thanh tùng cái bất
+đắc hoàng diệp khởi năng già viễn vân đạo thập ma sư vân thiểu niên ngoạn tận thiên biên nguyệt
+lạo đảo phù tang vật nhật đầu viễn vân nhất cú lưỡng cú vân khai nguyệt lộ tác ma sinh
+sư vân chiếu phá phật tổ sư đáo kinh nam diên thọ hiền hòa thượng vấn hải kiệt nhân vong
+tác ma sinh sư vân độc xà bất giảo nhân hiền vân vi thập ma như thử sư vân phong
+dẫn khê vân đoạn/đoán toàn xung thạch kính tà sư đáo giáp sơn nhập chân thủ tòa thất chân vân
+hoàn kiến ma sư vân vạn sự toàn vô chân vân hoàn bất kiến ma sư vân thiên ban giai
+tại thủ sư toại vấn thủ tòa vị kiến trừng tán thánh thời như hà tòa vân hồ nam giang
+tây sư vân kiến hậu như hà tòa vân giang tây hồ nam sư vân khước cộng thủ tòa nhất
+ban tòa vân đả thảo yếu xà kinh sư vân mỗ giáp chung bất niết quái ngẫu thuật tụng trình
+đồng vãng thiều dương lộ hành lai huýnh thả thù nam đài do bất cố bắc nhạc khởi năng câu
+hữu ngữ thâm tạng khước vô ngôn tiên lộ châu tuy nhiên danh đắc miễn thanh dĩ chân tây cù
+sư đáo thần đỉnh đỉnh vấn nhất đoá phong loan thượng độc thụ bất thành lâm tác ma sinh sư
+vân thuỷ phân hồng thụ tiên giản nhiễu bích toàn thâm đỉnh vân tác ma sinh thị hồi hỗ chi
+cơ sư vân manh nhân khước vô nhãn tụng vân thiên hiểu bất minh hải ngoạn châu tình vô đột
+xuất bội kình thư liệt hình trì bộ sầu trường lộ tuyệt niệm hoàn đồng thượng thái hư sư đáo
+phúc nghiêm thừa hòa thượng vấn tác ma sinh thị viên dong tướng sư vân mộc nhân lĩnh thượng hưu
+tướng đổ thạch nữ khê biên canh mạc phùng sư toại vấn như hà thị hòa thượng viên dong tướng
+nghiêm vân lão bệnh tầm thường phát lúng chủng vô giác thời sư vân dong tức bất vấn như hà
+thị viên nghiêm vân pháp giới quảng vô biên sư vân viên tức bất vấn như hà thị dong nghiêm
+vân tiêu khước liễu dã nghiêm toại vấn bất dong bất viên thời như hà sư vân hư không vô
+bội diện điểu đạo tuyệt đông tây toại trình tụng vân dật nguyệt lưu ba quán tử vi giao la
+hồng bột hải tâm phi viên dong diệu tướng quyền thí thiết thích thảng vô môn thuyết hướng thùy sư
+tại phúc nghiêm nhập huệ chiếu thất vấn thừa cổ hữu ngôn li nô bạch cổ khước tri hữu tam
+thế chư phật vi thập ma bất tri hữu chiếu vân chỉ vi thái tinh tinh sư vân li nô
+bạch cổ vi thập ma khước tri hữu chiếu vân tranh quái đắc y sư khước vấn như hà thị
+phúc nghiêm cảnh chiếu vân tâu toàn thu hạc chí thiền thụ dạ viên quá chiếu khước vấn tác ma
+sinh thị nam nhạc cảnh sư vân phong hưu lâm tự trực vân tĩnh nguyệt di tân chiếu vân tác
+ma sinh thị cảnh trung nhân sư vân thảo sắc thanh tùy bộ lam quang bích chiếu y sư đáo
+thạch sương nhập từ minh thất minh vân tác ma sinh thị hướng thượng nhất khiếu sư vân nhị khiếu
+câu minh sương vân hoàn kiến thất thập nhị phong ma sư vân hữu thậm yểm xứ sương vân đạo
+thập ma sư vân kim nhật xúc ngỗ hòa thượng sương tiện đả sư vân tác ma sinh sương vân
+tương vị thu ba mãnh tương nguyên lai thị tiểu tiểu trường hành sư vân nhã đạm trình thu sắc
+hinh hương phún nguyệt hoa toại trình tụng vân thu ba mãnh tương bỉ phương kì thế liệt phiên tư
+ác kiếm quy tắc ngoại tùng giáo khoa dũng hoàn trung tranh cảm đấu long uy phóng khai cấp
+trước kim nha khiếu canh bế na trá ủng tiết kì tô vũ anh hùng năng thấu xuất trương lương
+tang khước mục tiền cơ đáo đại ngu chi hòa thượng xứ vấn cổ nhân kiến đào hoa ý tác
+ma sinh sư vân khúc bất tạng trực ngu vân na cá thả tùng giả cá tác ma sinh sư
+vân đại nhai thập đắc kim tứ lân tranh đắc tri ngu vân thượng tòa hoàn tri ma sư vân
+lộ phùng kiếm khách tu trình kiếm bất thị thi nhân mạc hiến thi ngu vân tác gia thi khách
+sư vân nhất điều hồng tuyến lưỡng nhân khiên ngu vân huyền sa đạo đế đương thậm đế đương hựu
+tác ma sinh sư vân hải khô chung kiến để nhân tử bất tri tâm ngu vân khước thị sư
+vân lâu các lăng vân thế phong loan điệp thuý tằng toại trình tụng vân phụng phản tự đằng tiêu
+hán khứ linh vân đào thụ lão nha thê cổ kim hưu tụng đào hoa ý thiên thượng nhân gian
+bất khả bồi sư đáo lô sơn la hán tổ ấn đại sư xứ tức cử tụng vân bắc ẩu
+tạng thân sự dĩ chương pháp thân tùng thử lộ đường đường vân môn trám sát tha gia tử trực
+chí như kim loạn độ lượng nãi vân lão tăng đương thời tác thử tụng trực đắc thiên hạ lão
+hòa thượng bất khẳng thượng tòa tác ma sinh sư vân tranh cảm ấn vân tác ma sinh sư vân
+lăng thần thăng bảo tòa ưng bất nhượng nam năng toại trình tụng vân bắc ẩu tạng thân sự thản
+nhiên pháp thân vô trạng thấu hà biên hậu nhân bất hiểu tiền nhân ý thuỷ để xanh thuyền tróc
+nguyệt thiên sư đáo thê hiền nhập thất vấn như hà thị phật hiền vân trương tam lí tứ sư
+vân ý chỉ như hà hiền vân hồ bính thảo thậm hiệp toại trình tụng vân khứ đoản cầu trường
+bản bất di tha nhân dữ nhữ vị vi kì tuy nhiên câu đắc ta ta bão chung cửu hà
+tằng miễn đắc cơ sư đáo tổ phong giới hòa thượng xứ nhập thất giới vấn tác ma sinh thị
+tuyệt ki bán để nhân sư vân ba thủ bả mã lung giới vân khước thị tác gia sư vân
+bội biên đả bất trước giới vân vi thập ma khước thượng lai hạ khứ sư vân hòa thượng hướng
+thậm xứ kiến thượng lai hạ khứ giới tiện đả sư vân nhất ngôn vô biệt lộ thiên cổ bất
+lai nhân toại trình tụng vân trực thượng do nan đáo hồi lai chuyển canh trì nhược ngôn thiền dữ
+lí đặc địa cách tu di sư đáo tô châu thuý phong tố hòa thượng xứ nhập định cử tăng
+vấn phong huyệt như hà thị phật huyệt vân tê phong mộc mã duyên vô bán bội giác nê ngưu
+thống hạ tiên phong vấn bội tiên nhất cú tác ma sinh đạo sư vân phiên thân sư tử uy
+hùng đại tranh cảm đương đầu lộ trảo nha phong vân phóng nễ nhất tuyến đạo sư vân thất điên
+bát đảo phong vân thu sư vân liễu đáo thuý phong hiển hòa thượng xứ vấn ngưu khiết thảo thảo
+khiết ngưu sư vân hồi đầu nhất tựu vĩ uyển chuyển vạn trùng quan phong vân ưng tri bất bội
+diện tu giáo tại mục tiền sư vân nghiệm tại mục tiền phong vân tự lĩnh xuất khứ sư đáo
+hàng châu hưng giáo nhập thất cử tăng vấn nhất hòa thượng như hà thị phật nhất vân trần quất
+bì sư toại vấn ý chỉ như hà giáo vân miêu nhi đầu thượng tước nhi khoà sư toại trình
+tụng vân vấn phật sư ngôn đáp quất bì canh vô nhất pháp khả tướng vi mi mao phiên khởi
+ưng nan kiến bội hướng chung giáo thị dữ phi phục tụng vân thốn thảo mật tạng sư tử đa
+miêu nhi đầu thượng tước nhi khoà nghĩ dục khuynh khoà bất tang mệnh trực tùy dao tử quá tân
+la đáo hàng châu tây am am chủ tằng kiến minh kiều cử nhất tụng vân tuyệt đỉnh tây phong
+thượng tuấn cơ thùy cảm đương siêu nhiên phàm thánh ngoại miết khởi lưỡng trùng quang sư vấn như hà
+thị lưỡng trùng quang chủ vân nguyệt tùng đông xuất nhật hướng tây một sư vân am chủ vị kiến
+minh kiều thời như hà chủ vân mãn khuynh du nan tận kiến hậu như hà đa tâm dị đắc
+kiền sư đáo lang da vấn thượng tòa cận li thậm xứ sư vân lưỡng chiết lang vân thuyền lai
+lục lai sư vân thuyền lai lang vân thuyền tại thậm ma xứ sư vân bộ hạ lang vân bất
+thiệp trình đồ nhất cú tác ma sinh đạo sư vân đỗ soạn trường lão như ma tự túc tiện
+bật tụ nhi khứ lang toại vấn thị giả thử thị thập ma nhân giả vân cử thượng tòa lang
+vân mạc thị cử sư thúc ma đương thời tiên sư giáo ngã tầm kiến y toại thân hạ đán
+quá đường vấn thượng tòa mạc thị cử sư thúc ma mạc quái mỗ giáp đích lai tướng xúc ngỗ
+sư thúc ái phục vấn trường lão hà thời đáo phần dương lang vân nhẫm ma thời đáo sư vân
+ngã tại chiết giang tảo văn nễ danh nguyên lai kiến giải chỉ như thử hà đắc danh bá hoàn
+vũ da toại tác lễ
+tụng thủ sơn tây lai ý
+phong xuy nhật chích thiểu nhân tri đỉnh ngưỡng tiên hiền đối thử cơ nhiêu quân khoáng kiếp sinh tiền
+hội xuyên nhĩ hồ tăng dã trứu mi
+thấu pháp thân nhị tụng
+nhân vấn thấu pháp thân tùy nghi vi chỉ trần đại địa như giao tất trường giang ba túc tần
+tu di khởi vũ thiên đế bất nguyệt dần nhất nhân chi lực bất như bá nhân
+cương tông
+lưỡng nhận giao phong sự hiểm hi sa trường lục nguyệt tuyết hoa phi như kim canh nghĩ viên chân
+thật bạch mi ưng giáo nhập tố vi
 thập nhị thời ca
-kê minh sửu sầu kiến khởi lai hoàn lậu đậu quần tử biển sam cá dã vô ca sa hình
-tướng ta ta hữu côn vô yêu khố vô khẩu đầu thượng thanh hôi tam ngũ ẩu tỉ vọng tu
-hành lợi tế nhân thùy tri biến tác bất lựu
-bình đán dần hoang thôn phá viện thật nan luận giải trai dục mễ toàn vô lạp không đối nhàn
-song dữ khích trần duy tước táo vật nhân thân độc toạ thời văn lạc diệp tần thùy đạo xuất
-gia tăng ái đoạn/đoán tư lượng bất giác lệ triêm cân
-nhật xuất mão thanh tịnh khước phiên vi phiền não hữu vi công đức bí trần mạn vô hạn điền
-địa vị tằng tảo toàn mi đa xưng tâm thiểu phả nại đông thôn hắc hoàng lão cung lợi bất
-tằng tương đắc lai phóng lư khiết ngã đường tiền thảo
-thực thời thần yên hoả đồ lao vọng tứ lân man đầu cơ kỉ truy tử tiền niên biệt kim nhật tư
-lượng không yết tân trì niệm thiểu ta thán tần nhất bá gia trung vô thiện nhân lai giả kì
-đạo mịch trà khiết bất đắc trà sàng khứ hựu sân
-ngu trung tị tước phát thùy tri đáo như thử vô đoan bí thỉnh tác thôn tăng quật nhục cơ
-thê thụ dục tử hồ trương tam hắc lí tứ cung kính bất tằng sinh ta tử đích lai hốt
-nhĩ đáo môn đầu duy đạo tá trà kiêm tá chỉ
-nhật nam ngọ trà phạn luân hoàn vô định độ hành khước nam gia đáo bắc gia quả chí bắc
-gia bất suy chú khổ sa diêm đại mạch thố thục thử mễ phạn tê oa cự duy xưng cung
-dưỡng bất đẳng nhàn hòa thượng đạo tâm tu kiên cố
-nhật dật vị giả hồi bất tiễn quang âm địa tằng văn nhất bão vô bá cơ kim nhật lão
-tăng thân tiện thị bất tập thiền bất luận nghĩa phô cá phá tịch nhật lí thụy tưởng liệu thượng
-phương đâu suất thiên dã vô như thử nhật chích bội
-bô thời thân dã hữu thiêu hương lễ bái nhân ngũ cá lão bà tam cá anh nhất song diện
-tử hắc thuân thuân du ma trà thật thị trân kim cương bất dụng khổ trương cân nguyện ngã lai
-niên tàm mạch thục la hầu la nhi dữ nhất văn
-nhật nhập dậu trừ khước hoang lương canh hà thủ vân thuỷ cao lưu định uy vô lịch tự sa
-di trấn thường hữu xuất cách ngôn bất đáo khẩu uổng tục mâu ni tử tôn hậu nhất điều trụ
-trượng thô lê bất đãn đăng sơn kiêm đả cẩu
-hoàng hôn tuất độc toạ nhất gian không ám thất dương diễm đăng quang vĩnh bất phùng nhãn tiền thuần
-thị kim châu tất chung bất văn hư độ nhật duy văn lão thử náo thu bằng hà canh
-đắc hữu tâm tình tư lượng niệm cá ba la mật
-nhân định hợi môn tiền minh nguyệt thùy nhân ái hướng lí duy sầu ngoạ khứ thời vật cá y
-thường trước thậm cái lưu duy na triệu ngũ giới khẩu đầu thuyết thiện thậm kì quái nhâm nễ sơn
-tăng nang khánh không vấn trước đô duyên tổng bất hội
-bán dạ tử tâm cảnh hà tằng đắc tạm chỉ tư lượng thiên hạ xuất gia nhân tự ngã trụ
-trì năng hữu kỉ độ tháp sàng phá lô trúc nhị phế lão du mộc chấm toàn vô bí tôn tượng bất
-thiêu an tức hương hôi lí duy văn ngưu phẩn khí
-kiến khởi đáp nãi hữu tụng
-bản tự viên thành hà lao điệp thạch danh mạc điêu tuyên dữ ngô huyền cách nhược nhân tá vấn
-chung bất chỉ hoạ
-nhân kiến chư phương kiến giải dị đồ nãi hữu tụng
-triệu châu nam thạch kiếu bắc quan âm viện lí hữu di lặc tổ sư di hạ nhất chích lí
-trực chí như kim mịch bất đắc
-nhân ngư cổ hữu tụng
-tứ đại do lai tạo hoá công hữu thanh toàn quý lí đầu không mạc quái bất dữ phàm phu
-thuyết chỉ vi cung thương điều bất đồng
-nhân liên hoa hữu tụng
-kì dị căn miêu đái tuyết tiên bất tri hà đại biệt tây thiên ứ nê thâm tiên nhân bất
-thức xuất thuỷ phương tri thị bạch liên
-phụ triệu vương dữ sư tác chân tán
-bích khê chi nguyệt thanh kính trung đầu ngã sư ngã hoá thiên hạ triệu châu
-khốc triệu châu hòa thượng nhị thủ
-sư li vịnh vĩnh ti nhân kỉ thuỷ động vương hầu tâm ấn quang tiềm chủ vĩ thu bích lạc vụ mai tùng lĩnh
-nguyệt thương minh lang phú tế nhân chu nhất đăng sạ diệt ba tuần hỉ song nhãn trùng hôn đạo
-lữ sầu túng thị liễu nhiên vân ngoại khách mỗi chiêm bình kỉ lệ hoàn lưu
-phật nhật tây khuynh tổ ấn huy châu trầm đan chiểu nguyệt trầm huy ảnh phu trượng thất lô yên
-thảm phong khởi thiền đường tùng vận vi chích lí sạ lai lưu hoá tích ngũ thiên hà xứ hựu
-phùng quy giải không đệ tử tuyệt bi hỉ do tự san nhiên đối tuyết vi
-lư sơn thê hiền bảo giác thiền viện trụ trì truyền pháp tứ tử sa môn
-trừng thị trùng tường định
+dạ bán tử y dư tĩnh tòa hàn đường lí nguyệt viên nhật mãn bất tằng khuy phương sóc do
+lai ngộ cung chuỷ
+kê minh sửu sâm la vạn tượng quy nguyên thủ nhất thanh thanh hậu cửu cù văn niên quang nhâm
+nễ xâm bồ liễu
+bình đán dần ô quy xuyên phá độc lâu môn sơn bá bất tri hà xứ khứ phù tang thiên
+tử tiếu hân hân
+nhật xuất mão thiên môn vạn hộ trình cơ xảo chức thành thục cẩm dữ ngô lăng đáo đầu thành
+hoại hành tướng nạo
+thực thời thần thô tế tương lai bất áp hân hàn tắc trước y cơ khiết phạn đồ trung vãng
+vãng vấn sơ thân
+ngu trung tị hoa tạng dĩ khai kiến từ thị kinh khởi tì lô đỉnh thượng nhân bác thủ a
+a hoàn hội lí
+chính trung ngọ phảng phí kiền thành do vị hứa kim luân thiên tử hạ diêm phù di khước tây
+thiên tác đông độ
+nhật dật vị thạch thất lão tăng thiền vị khởi môn tiền thời hữu vấn tân nhân lâu chí kình
+quyền tiên chỉ thị
+bô thời thân sài môn bất yểm khứ lai nhân thạch thất đan hà man phí lực lịch lịch phân
+minh chân bất chân
+nhật nhập dậu thời kích sơ chung mãn lâm hống tự tha sảng muội các phương viên cương bí thời
+nhân phân hảo xú
+hoàng hôn tuất tài chúc ngân hang hôn ám thất hối bạc sơn đồng tốc báo lai kim ô tảo
+hướng tây phương xuất
+nhân định hợi đẩu tẩu hoại y tuyến trường tại bất tiện la hoàn cẩm tú bào ca diệp sư
+huynh tướng tiếu đãi
 
-> cổ tôn tú ngữ lục quyển đệ nhị thập lục chung
+> cổ tôn tú ngữ lục quyển chi nhị thập lục chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển đệ nhị thập thất
+cổ tôn tú ngữ lục quyển chi nhị thập thất
 
-vân môn khuông chân thiền sư quảng lục thượng
-môn nhân minh thức đại sư tứ tử thủ kiên tập
-đối cơ
-sư thượng đường lương cửu vân phu xướng đạo chi cơ cố nan hài phẫu nhược dã nhất ngôn tướng
-khế do thị đa đồ huống phục đao đao hữu hà sở ích nhiên thả giáo thừa chi trung các
-hữu thù phân luật vi giới học kinh vi định học luận vi tuệ học tam tạng ngũ thừa ngũ
-thời bát giáo các hữu sở quy nhiên nhất thừa viên đốn dã đại nan minh trực hạ minh đắc
-dữ nạp tăng thiên địa huyền thù nhược hướng nạp tăng môn hạ cú lí trình cơ đồ lao trữ
-tư môn đình xao khái thiên sai vạn biệt nghĩ dục tấn bộ hướng tiền quá tại tầm đà thiệt
-đầu lộ bố tùng thượng lai sự hợp tác ma sinh hướng giả lí đạo viên đạo đốn đắc ma
-giả biên na biên đắc ma mạc thác hội hảo mạc kiến dữ ma đạo tiện hướng bất viên bất
-đốn xứ bốc độ giả lí dã tu thị cá nhân thuỷ đắc mạc tương y sư ngữ tướng tự
-ngữ trắc độ ngữ đáo xứ trình trung tương vi tự kỉ kiến giải mạc thác hội kì như kim
-hữu thập ma sự đối chúng quyết trạch khán thời hữu châu chủ hà công lễ bái vấn viết đệ
-tử thỉnh ích sư vân mục tiền vô dị thảo hữu quan vấn phật pháp như thuỷ trung nguyệt thị
-bất sư vân thanh ba vô thấu lộ tấn vân hòa thượng tùng hà đắc sư vân tái vấn phục
-hà lai tấn vân chính dữ ma thời như hà sư vân trùng điệp quan sơn lộ hữu quan vấn
-thiên tử vi nhiễu hà giả vi đích sư vân hoá hạ trụ trì dĩ phụng lai vấn vấn kim
-nhật khai diên tương hà chỉ giáo sư vân lai phong thâm ban tấn vân mạc kì giả tiện thị
-ma sư vân thác vấn tùng thượng cổ đức dĩ tâm truyền tâm kim nhật thỉnh sư tương hà thí
-thiết sư vân hữu vấn hữu đáp tấn vân dữ ma tắc bất hư thí thiết dã sư vân bất
-vấn bất đáp vấn phàm hữu ngôn cú giai thị thác như hà thị bất thác sư vân đương phong
-nhất cú khởi tự hà lai tấn vân mạc kì giả tiện thị dã vô sư vân mạc thác vấn
-như hà thị tát trụ chi cơ sư vân hưởng tấn vân hoàn ưng dã vô sư vân thả hoãn
-hoãn vấn như hà thị học nhân đích đích sự sư vân thống lĩnh nhất vấn vấn như hà thị
-giáo ngoại biệt truyền nhất cú sư vân đối chúng vấn tương lai sư vân mạc đạo kim nhật man
-chư nhân hảo ức bất đắc dĩ hướng chư nhân tiền tác nhất trường lang tịch hốt bí minh nhãn
-nhân kiến thành nhất trường tiếu cụ như kim tị bất đắc dã thả vấn nhữ chư nhân tùng lai
-hữu thập ma sự khiếm thiểu thập ma hướng nhữ đạo vô sự dĩ thị tướng mai một dã tu
-đáo giá cá điền địa thuỷ đắc diệc mạc sấn khẩu loạn vấn tự kỉ tâm lí hắc mạn mạn
-địa minh triêu hậu nhật đại hữu sự tại nễ nhược căn tư trì hồi thả hướng cổ nhân kiến
-hoá môn đầu đông thứ tây thứ khán thị thập ma đạo lí nễ dục đắc hội ma đô duyên
-thị nễ tự gia vô lượng kiếp lai vọng tưởng nùng hậu nhất kì văn nhân thuyết trước tiện sinh
-nghi tâm vấn phật vấn pháp vấn hướng thượng vấn hướng hạ cầu mịch giải hội chuyển một giao thiệp
-nghĩ tâm tức sai huống phục hữu ngôn mạc thị bất nghĩ tâm thị ma canh hữu thập ma sự
-trân trùng vấn như hà thị vân môn nhất khúc sư vân lạp nguyệt nhị nhị thập tấn vân xướng
-giả như hà sư vân thả hoãn hoãn vấn như hà thị tổ sư tây lai ý sư vân nhật
-lí khán sơn vấn như hà thị hòa thượng gia phong sư vân cửu vũ bất tình tấn vân như
-hà thị cửu vũ bất tình sư vân sái nhật lương trước vấn như hà thị bất đái trẫm sư vân
-thiên đài phổ thỉnh nam nhạc du sơn vấn như hà thị hướng thượng nhất lộ sư vân cửu cửu
-bát thập nhất vấn như hà thị học nhân tự kỉ sư vân du sơn ngoạn thuỷ tấn vân như
-hà thị hòa thượng tự kỉ sư vân lại ngộ duy na bất tại vấn như hà thị giáo chủ
-sư vân thái vô lễ sinh vấn như hà thị nhất đại thời giáo sư vân đối nhất thuyết vấn
-như hà thị chính pháp nhãn sư vân phổ vấn như hà thị đoan toạ niệm thật tướng sư vân
-hà lí thất tiền hà lí lộc vấn như hà thị sa môn hành sư vân hội bất đắc tấn
-vân vi thập ma hội bất đắc sư vân kì thủ hội bất đắc vấn như hà thị tầm thường
-chi dụng sư vân thả na lí cát đằng khứ vấn như hà thị giáo ý sư vân nễ khán
-thập ma kinh tăng vân ban nhược kinh sư vân nhất thiết trí trí thanh tịnh hoàn mộng kiến vị
-tăng vân nhất thiết trí trí thanh tịnh thả trí như hà thị giáo ý sư vân tâm bất phụ
-nhân diện vô tàm sắc phóng nễ tam thập bổng vấn như hà báo đắc tứ ân tam hữu khứ
-sư vân bão đầu khốc thương thiên vấn như hà thị chính pháp nhãn sư vân dục phạn khí vấn
-như hà thị tam muội sư vân đáo lão tăng nhất vấn hoàn ngã nhất cú lai vấn như hà
-thị chư phật xuất thân xứ sư vân đông sơn thuỷ thượng hành vấn khí sư chỉ cá nhập lộ
-sư vân khiết dục khiết phạn
-sư thị chúng vân ngã sự bất hoạch dĩ hướng nễ chư nhân đạo trực hạ vô sự tảo thị
-tướng mai một dã canh dục đạp bộ hướng tiền tầm ngôn trục cú cầu mịch giải hội thiên sai
-vạn biệt quảng thiết vấn nan doanh đắc nhất trường khẩu cốt khứ đạo chuyển viễn hữu thập ma yết
-thời kì thử cá sự nhược tại ngôn ngữ thượng tam thừa thập nhị phân giáo khởi thị vô ngôn
-ngữ nhân thập ma đạo giáo ngoại biệt truyền nhược tùng học giải cơ trí kì như thập địa thánh
-nhân thuyết pháp như vân như vũ do bí ha trách kiến tính như cách la hộc dĩ thử cố
-tri nhất thiết hữu tâm thiên địa huyền thù tuy nhiên như thị nhược thị đắc để nhân đạo hoả
-hà tằng thiêu khẩu chung nhật thuyết sự vị thường quải trước thần xỉ vị tằng đạo trước nhất tự
-chung nhật trước y khiết phạn vị tằng xúc trước nhất lạp mễ quải trước nhất lũ ti tuy nhiên
-như thử do thị môn đình chi thuyết tu thị thật đắc dữ ma thuỷ đắc nhược ước nạp tăng
-môn hạ cú lí trình cơ đồ lao trữ tư trực nhiêu nhất cú hạ thừa đương đắc do thị
-hạp thụy hán thời hữu tăng vấn như hà thị nhất cú sư vân cử vấn như hà thị thuyết
-thời mặc sư vân thanh cơ lịch chưởng tấn vân như hà thị mặc thời thuyết sư vân a tấn
-vân bất mặc bất thuyết thời như hà sư tương bổng sấn tăng vấn như hà thị vân môn kiếm
-sư vân tổ vấn như hà thị chư phật xuất thân xứ sư vân canh thỉnh nhất vấn vấn như
-hà thị lộ địa bạch ngưu sư vân địch cơ vô cải lộ tấn vân phóng trước thập ma xứ
-sư vân tái cử bất du trần vấn như hà thị trần trần tam muội sư vân dũng lí thuỷ
-bát lí phạn vấn như hà thị nhất như thể huyền sư vân khiếm nễ nhất vấn vấn như hà
-thị huyền trung đích sư vân chú độ tấn vân như hà tức thị sư vân tốc thối tốc thối phương
-tha biệt nhân vấn vấn như hà thị phi tư lượng xứ sư vân thức tình nan trắc vấn tạc
-bích thâu quang thời như hà sư vân kháp vấn nhất ngôn đạo tận thời như hà sư vân liệt
-phá tấn vân hòa thượng tác ma sinh hạ thủ niêm xuyết sư vân niêm thủ phẩn ki tảo trửu
-lai vấn như hà cử xướng tức đắc bất phụ lai cơ sư vân đạo thập ma tấn vân hoàn
-khả lai ý dã vô sư vân thả hoãn hoãn sư vân tam thừa thập nhị phân giáo hoành thuyết
-thụ thuyết thiên hạ lão hòa thượng túng hoành thập tự thuyết dữ ngã niêm châm phong hứa thuyết để
-đạo lí lai khán dữ ma đạo tảo thị tử mã y tuy nhiên như thị hữu kỉ cá đáo
-thử cảnh giới bất cảm vọng nễ ngôn trung hữu hưởng cú lí tạng phong thuấn mục thiên sai phong
-điềm lang tĩnh phục duy thượng hưởng vấn như hà thị thấu pháp thân cú sư vân bắc ẩu lí
-tạng thân vấn như hà thị bản lai tông sư vân bất vấn bất đáp vấn như hà thị tam
-giới duy tâm vạn pháp duy thức sư vân ngã kim nhật bất đáp thoại tấn vân vi thập ma
-bất đáp thoại sư vân lư niên hội ma vấn như hà thị xuy mao kiếm sư vân cách hựu
-vân tí vấn như hà thị nội ngoại quang sư vân hướng thập ma xứ vấn học vân như hà
-minh đạt sư vân hốt nhiên hữu nhân vấn nễ tác ma sinh đạo tấn vân minh đạt hậu như
-hà sư vân minh tức thả trí hoàn ngã đạt lai vấn như hà thị thiết cấp nhất cú sư
-vân cật vấn như hà thị bản lai tâm sư vân cử khởi phân minh vấn như hà thị nạp
-tăng khổng khiếu sư vân phóng quá nhất trước tấn vân thỉnh sư đạo sư vân đối ngưu đàn cầm
-vấn như hà thị đại thừa tu hành sư vân nhất khạp tại thủ vấn như hà thị nhất thiết
-trí trí thanh tịnh sư vân tăng đường nhập phật điện vấn như hà thị bất quải thần vẫn nhất
-cú sư vân hợp thủ cẩu khẩu vấn như hà thị hải ấn tam muội sư vân nễ đãn lễ
-bái vấn trước đãi ngã đông hành tây hành vấn như hà chuyển động tức đắc bất lạc giai cấp
-sư vân nam ẩu thất bắc ẩu bát
-thượng đường vân chư huynh đệ tận thị chư phương sâm tầm tri thức quyết trạch sinh tử đáo xứ
-khởi vô lão tú thùy từ phương tiện chi từ hoàn hữu thấu bất đắc để cú ma xuất lai
-cử khán đãi lão hán dữ nhữ đại gia thương lượng hữu ma hữu ma thời hữu tăng xuất nghĩ
-thân vấn thứ sư vân khứ khứ tây thiên lộ điều điều thập vạn dư tiện hạ tòa vấn như
-hà thị đương kim thí thiết sư vân đạo tức bất nan giám tùng hà lai vấn như hà thị
-bất thụy để nhãn sư vân bất tỉnh vấn như hà thị bất phạm chi linh sư vân na cá
-sư tăng hoàn kiến ma vấn như hà thị đại nhân tướng sư nãi kình quyền vấn như hà thị
-học nhân cấp thiết xứ sư vân nễ phạ ngã bất tri vấn như hà thị phật pháp đại ý
-sư vân nhất phật nhị bồ tát vấn như hà thị tuyết lĩnh nê ngưu hống sư vân sơn hà
-tẩu tấn vân như hà thị vân môn mộc mã tê sư vân thiên địa hắc vấn như hà thị
-huynh đệ thiêm thập tự sư vân ngã cộng nễ thuyết cát đằng vấn như hà thị hòa thượng vi
-nhân nhất cú sư vân tâm bất phụ nhân diện vô tàm sắc tốc lễ tam bái vấn như hà
-thị thiên nhiên chi sự sư vân đạp bộ hướng tiền tác thập ma vấn như hà thị giáo ý
-sư vân cật liệu thiệt đầu canh tương nhất vấn lai vấn như hà thị thất túng bát hoành sư
-vân phóng nễ nhất trước
-thượng đường vân cử nhất tắc ngữ giáo nhữ trực hạ thừa đương tảo thị tản thỉ trước nễ đầu
-thượng dã trực nhiêu niêm nhất mao đầu tận đại địa nhất thời minh đắc dã thị oan nhục tác
-sang tuy nhiên như thử dã tu thị thật đáo giả cá điền địa thuỷ đắc nhược vị thả bất
-đắc lược hư khước tu thối bộ hướng tự kỉ cước căn hạ suy tầm khán thị thập ma đạo
-lí thật vô ti phát hứa dữ nhữ tác giải hội dữ nhữ tác nghi hoặc huống nhữ đẳng thả
-các các đương nhân hữu nhất đoạn sự đại dụng hiện tiền canh bất phiền nhữ nhất hào đầu khí
-lực tiện dữ tổ phật vô biệt tự thị nhữ chư nhân tín căn tiên bạc ác nghiệp nùng hậu
-đột nhiên khởi đắc như hứa đa đầu giác đam bát nang thiên hương vạn lí thụ quật tác ma
-thả nhữ chư nhân hữu thập ma bất túc xứ đại trượng phu hán a thùy vô phân độc tự
-thừa đương thượng do bất trước tiện bất khả thụ nhân khi man thủ nhân xứ phân tài kiến lão
-hòa thượng khai khẩu tiện hảo bả đặc thạch mạch khẩu tắc tiện thị thỉ thượng thanh dăng tướng tự
-đấu táp tương khứ tam cá ngũ cá tụ đầu thương lượng khổ quật huynh đệ cổ nhân nhất kì
-vi nhữ chư nhân bất nại hà sở dĩ thùy nhất ngôn bán cú thông nễ nhập lộ tri thị
-ban sự niêm phóng nhất biên tự trước ta tử cân cốt khởi bất thị hữu thiểu hứa tướng thân
-xứ khoái dữ khoái dữ thời bất đãi nhân xuất tức bất bảo nhập tức canh hữu thập ma thân
-tâm nhàn biệt xứ dụng thiết tu tại ý trân trùng
-thượng đường lương cửu vân xúc mục bất hội đạo vận túc yên tri lộ tăng vấn như hà thị
-xúc mục bồ đề sư vân dữ ngã niêm khước phật điện vấn như hà thị tối sơ nhất cú
-sư vân cửu cửu bát thập nhất tăng tiện lễ bái sư vân cận tiền lai tăng tiện cận tiền
-sư tiện đả vấn như hà thị thật học để sự sư vân đại hảo tiêu tức tấn vân tất
-cánh thị thùy gia chi tử sư vân lạp nguyệt nhị thập ngũ vấn thừa giáo hữu ngôn nhất thiết
-trí trí thanh tịnh thời như hà sư tiện thoá chi tấn vân cổ nhân phương tiện hựu tác ma
-sinh sư vân lai lai tiệt khước nhữ cước căn hoán khước nhữ độc lâu bát vu lí niêm khước
-thi trợ niêm khước tị khổng lai tấn vân thậm xứ hữu hứa đa ban sư vân giả lược hư
-hán tiện đả vấn như hà thị thiền sư vân thị tấn vân như hà thị đạo sư vân đắc
-vấn như hà thị nhất thiết pháp giai thị phật pháp sư vân tam gia thôn lí lão bà doanh
-cù dật lộ hội ma học vân bất hội sư vân phi đãn nhữ bất hội đại hữu nhân bất
-hội tại vấn học nhân tộc tộc địa thương lượng cá thập ma sư vân đại chúng cửu lập
-thượng đường vân tận kiền khôn nhất thời tương lai trước nễ nhãn tiệp thượng nễ chư nhân văn dữ
-ma đạo bất cảm vọng nhữ xuất lai tính táo đả lão tăng nhất quắc thả hoãn hoãn tử tế
-khán thị hữu thị vô thị cá thậm ma đạo lí trực nhiêu nễ hướng giá lí minh đắc nhược
-ngộ nạp tăng môn hạ hảo chuy cước chiết nhược thị cá nhân văn đạo thập ma xứ hữu lão
-tú xuất thế tiện hảo mạch diện thoá ô ngã nhĩ mục nhữ nhược bất thị cá thủ cước tài
-văn nhân cử tiện thừa đương đắc tảo lạc đệ nhị cơ dã nhữ bất khán tha đức sơn hòa
-thượng tài kiến tăng nhập môn duệ trụ trượng tiện sấn mục châu hòa thượng kiến tăng lai tiện vân
-hiện thành công án phóng nễ tam thập bổng tự dư chi bối hợp tác ma sinh nhược thị nhất
-ban lược hư hán thực nhân nùng thoá kí đắc nhất đôi nhất đam áp đả đinh thiên cửu đáo xứ trì sính
-lư thần mã tư khoa ngã giải vấn thập chuyển ngũ chuyển thoại nhiêu nễ tùng triêu vấn chí dạ
-đáp đáo dạ luận kiếp hoàn mộng kiến ma thập ma xứ thị dữ nhân trước lực xứ tự giá
-ban để hữu nhân quật nạp tăng trai dã đạo đắc phạn khiết hữu thập ma cộng ngữ xứ tha
-nhật diêm la vương diện tiền bất thủ nễ khẩu giải thuyết chư huynh đệ nhược thị đắc để nhân
-tha gia y chúng khiển nhật nhược vị đắc thiết mạc lược hư bất đắc dong dị quá thời đại
-tu tử tế cổ nhân đại hữu cát đằng tướng vi xứ kì như tuyết phong hòa thượng đạo tận
-đại địa thị nễ giáp sơn hòa thượng đạo bá thảo đầu thượng tiến thủ lão tăng náo thị lí
-thức thủ thiên tử lạc phố hòa thượng vân nhất trần tài khởi đại địa toàn thu nhất mao đầu
-sư tử toàn thân tổng thị nễ bả thủ phiên phú tư lượng khán nhật cửu tuế thâm tự nhiên
-hữu cá nhập lộ thử cá sự vô nễ thế đại xứ mạc phi các tại đương nhân phân thượng
-lão hòa thượng xuất thế kì vi nễ tác cá chứng minh nễ nhược hữu cá nhập lộ thiểu hứa
-lai do diệc muội nhữ bất đắc nhược thật vị đắc phương tiện bát nễ tức bất khả huynh đệ
-nhất đẳng thị đạp phá thảo hài hành cước phao khước sư trường phụ mẫu trực tu trước ta tử
-nhãn tình thuỷ đắc nhược vị hữu cá nhập đầu xứ ngộ trước bản sắc giảo trư cẩu thủ cước
-bất tích tính mệnh nhập nê nhập thuỷ tướng vi hữu khả giảo tước trát thượng mi mao cao quải
-bát nang thập niên nhị thập niên biện thủ xuất đầu mạc sầu bất thành biện trực thị kim sinh
-vị đắc lai sinh diệc bất thất khước nhân thân hướng thử môn trung diệc nãi tỉnh lực bất hư
-cô phụ bình sinh diệc bất cô phụ thí chủ sư trường phụ mẫu trực tu tại ý mạc không
-quá thời du châu lạp huyền hoành đam trụ trượng nhất thiên lí nhị thiên lí tẩu giá biên kinh
-đông na biên quá hạ hảo sơn hảo thuỷ kham thủ tính đa trai cung dị đắc y bát khổ
-quật khổ quật đồ tha nhất ẩu mễ thất khước bán niên lương như thử hành cước hữu thập ma
-lợi ích tín tâm đàn việt nhất bả thái nhất lạp mễ chẩm ma sinh tiêu đắc trực tu tự
-khán vô nhân thế đại thời bất đãi nhân nhất nhật nhãn quang lạc địa tiền đầu tương hà để
-nghĩ mạc nhất tự lạc thang bàng thủ cước mang loạn vô nễ lược hư thuyết đại thoại xứ
-mạc tương đẳng nhàn không quá thời quang nhất thất nhân thân vạn kiếp bất phục bất thị tiểu sự
-mạc cứ mục tiền tục tử thượng vân triêu văn đạo tịch tử khả hĩ huống ngã sa môn hợp
-lí tiễn hà sự đại tu nỗ lực trân trùng vấn như hà thị chư phật xuất thân xứ sư
-vân phật tiền trang hương phật hậu hợp chưởng vấn thập nhị thời trung như hà đắc bất bí chư
-cảnh hoặc khứ sư vân tam môn đầu hợp chưởng vấn tứ diện sâm sâm như hà thị linh thụ
-sư vân phong minh vũ tức tấn vân như hà thị linh thụ chi điều sư vân sái nhật lương bì
-thảo vấn như hà thị xúc mục bồ đề sư vân niêm khước lộ trụ học vân lộ trụ khởi
-can tha sự sư vân lư niên hội ma vấn đề hồ thượng vị vi thập ma phiên thành độc
-dược sư vân chú độ vấn như hà thị hoạt sư vân tâm bất phụ nhân học vân như hà thị
-sát sư vân tam nhật hậu bất đắc xướng y học vân bất sát bất hoạt thời như hà sư
-dĩ trụ trượng sấn xuất vấn học nhân dữ ma lai thỉnh sư thật thuyết sư vân tri vấn kim
-cương vi thập ma đảo địa sư vân bất trước lực vấn sát phụ sát mẫu phật tiền sám hối
-sát phật sát tổ hướng thập ma xứ sám hối sư vân lộ vấn bất khởi nhất niệm hoàn hữu
-quá dã vô sư vân tu di sơn vấn như hà thị hòa thượng gia phong sư vân hữu độc
-thư nhân lai báo vấn học nhân hữu nghi thỉnh sư bất trách tùng thượng tông thừa sự tác ma
-sinh sư vân tam bái bất hư vấn sinh tử đáo lai như hà bài khiển sư vân tại thập
-ma xứ vấn như lai duy nhất thuyết vô nhị thuyết như hà thị như lai thuyết sư vân na
-cá sư tăng hà bất vấn vấn ám trung như hà ban chủ sư vân vụ nguyên thị thập ma
-nhân toạ vấn học nhân thật vấn thỉnh sư thật đáp sư vân nễ tác ma sinh ban tấn vân
-chính đương dữ ma thời như hà sư vân đích vấn tùng thượng cổ đức dĩ hà vi đích sư
-vân khán thủ thiệt đầu
-thượng đường vân chư hòa thượng tử mạc vọng tưởng thiên thị thiên địa thị địa sơn thị sơn thuỷ
-thị thuỷ tăng thị tăng tục thị tục lương cửu vân dữ ngã niêm án sơn lai khán tiện hữu
-tăng vấn học nhân kiến sơn thị sơn kiến thuỷ thị thuỷ thời như hà sư vân tam môn vi
-thập ma tùng giá lí quá tấn vân dữ ma tắc bất vọng tưởng khứ dã sư vân hoàn ngã
-thoại đầu lai
-thượng đường lương cửu vân hoàn hữu nhân đạo đắc ma đạo đắc để xuất lai chúng vô ngữ sư
-niêm trụ trượng vân đích lai thị cá tiểu thỉ khanh như kim thị cá đại thỉ khanh hạ tòa
-vấn vạn pháp quy nhất nhất tức bất vấn như hà thị vạn pháp sư vân nễ lai giá lí
-thuyết cát đằng man ngã vấn thánh tăng vi thập ma bí đại trùng giảo sư vân dữ thiên hạ
-nhân tác bảng dạng vấn thập nhị thời trung như hà dụng tâm tức đắc bất phụ ư thượng lai
-sư vân tỉnh lực tấn vân tỉnh lực sự như hà sư vân tỉnh thủ tiền thoại vấn vạn cơ
-bất đáo xứ như hà tri hữu sư vân cai đắc ma tấn vân nhật dụng sự như hà sư
-vân nhất tiến đáo tân la đại hán quốc lí thuyết cát đằng vấn học nhân nghĩ thân nhất vấn
-hoàn hứa dã vô sư vân phật bất đoạt chúng sinh sở nguyện vấn như hà cử xướng tức đắc
-bất phụ lai cơ sư vân thống lĩnh nhất vấn vấn thiên thánh công viên minh nhiên thời như hà
-kích trác sư vân cú lí minh nhân vấn tam giới trung hà vật thắng ư phật sư vân thông
-nễ nhất vấn vấn trích diệp tầm chi tức bất vấn như hà thị trực tiệt căn nguyên sư vân
-tốc lễ tam bái vấn kỉ sự vị minh như hà chỉ thị sư vân bất tị lai cơ hoàn
-đương đắc ma vấn tận kì cơ lai sư hoàn tiếp dã vô sư vân nhất vấn bất thác học
-vân nhất vấn thả trí sư hoàn tiếp bất sư vân tế khán tiền thoại vấn tì lô hướng thượng
-tức bất vấn hư không thỉnh sư lưu ta tử sư vân bả khước nhữ ân hầu nễ tác ma
-sinh đạo vấn như hà thị học nhân tự kỉ sư vân nhất xoa nhất trát tấn vân mạc tiện
-thị bất sư vân tô lỗ tô lỗ
-thượng đường vân kim nhật dữ chư nhân cử nhất tắc ngữ đại chúng tủng thính lương cửu hữu tăng
-xuất lễ bái nghĩ thân vấn thứ sư dĩ trụ trượng sấn vân tự giá ban diệt hồ chủng trường
-liên sàng thượng nạp phạn a sư kham thập ma cộng ngữ xứ giá ban đả dã hán dĩ
-trụ trượng nhất thời sấn hạ vấn đại chúng vân tập hợp đàm hà sự sư vân hướng hạ văn
-trường phó tại lai nhật tấn vân tiện dữ ma khứ thời như hà sư vân đoạ tấn vân thập
-ma xứ thị đoạ sư vân trường liên sàng thượng bão khiết phạn liễu thoát không vọng ngữ vấn linh
-sơn nhất hội hà tự kim nhật sư vân ngôn trung hữu hưởng học vân đương kim sự tác ma
-sinh sư vân bất phiền tái vấn vấn dĩ tự bất thành bát tự bất thị vị thẩm thị thập
-ma tự sư vân cửu cửu bát thập nhất tấn vân học nhân bất hội thỉnh sư chỉ thị sư
-vân ngã hựu cô nễ thập ma xứ vấn tùng thượng cổ đức đắc cá thập ma tiện xưng tôn
-quý sư vân ái vấn bất ái đáp tấn vân dữ ma tắc bất giả hòa thượng thiệt đầu tước
-khứ dã sư vân uý ẩu tiên trà dao bất đồng vấn hòa thượng vi nhân ngữ thoại hoàn hữu
-vị đạo trước để cú dã vô sư vân thuyết bất cập tấn vân vi thập ma như thử sư
-vân kì vi như thử vấn đại bác manh để nhân lai sư hoàn tiếp dã vô sư phóng thân
-đảo vấn như hà thị vân môn sơn sư vân canh phong định huyệt vấn nha xỉ xao khái giai
-lạc danh ngôn như hà đắc bất lạc cổ nhân tung sư vân thông cơ tự ban vấn như hà
-thị hòa thượng gia phong sư vân bì khô cốt sấu vấn như hà thị đạo sư vân thất điên
-bát đảo tấn vân vi thập ma như thử sư vân nhất bất đắc hướng nhị bất đắc khai vấn
-ám thất đắc minh thời như hà sư vân lãng châu thử khứ đa thiểu
-thượng đường vân nhất ngôn tài cử thiên sai đồng triệt cai quát vi trần do thị hoá môn chi
-thuyết nhược thị nạp tăng hợp tác ma sinh nhược tương tổ ý phật ý giá lí thương lượng tào
-khê nhất lộ bình trầm hoàn hữu nhân đạo đắc ma đạo đắc để xuất lai thời hữu tăng vấn
-như hà thị siêu phật việt tổ chi đàm sư vân hồ bính tấn vân giá cá hữu thập ma
-giao thiệp sư vân chước nhiên hữu thập ma giao thiệp sư nãi vân nễ vật khả tác liễu kiến
-nhân đạo trước tổ sư ý tiện vấn siêu phật việt tổ chi đàm nễ thả hoán thập ma tác
-phật hoán thập ma tác tổ tức thuyết siêu phật việt tổ chi đàm tiện vấn cá xuất tam giới
-nễ bả tương tam giới lai hữu thập ma kiến văn giác tri cách ngại trước nễ hữu thậm thanh
-sắc pháp dữ nhữ khả liễu liễu cá thập ma oản dĩ na cá vi sai thù chi kiến tha
-cổ thánh vật nại nễ hà hoành thân vi vật đạo cá cử thể toàn chân vật vật địch thể
-bất khả đắc ngã hướng nhữ đạo trực hạ vô sự tảo thị tướng mai một liễu dã nễ nhược
-thật vị đắc cá nhập đầu xứ thả trung độc tự sâm tường trừ khước trước y khiết phạn a
-thỉ tống tuy canh hữu thập ma sự vô đoan khởi đắc như hứa đa ban vọng tưởng tác thập
-ma canh hữu nhất ban để như đẳng nhàn tướng tự tụ đầu cử đắc cá cổ nhân thoại thức
-tính kí trì vọng tưởng bốc độ đạo ngã hội phật pháp liễu dã kì quản thuyết cát đằng thủ
-tính quá nhật canh hiềm bất xưng ý thiên hương vạn lí phao khước phụ mẫu sư tư tác giá
-khứ tựu giá cá đả dã hán hữu thập ma tử cấp hành cước khứ dĩ trụ trượng tiện
-sấn hạ vấn phụ mẫu bất thính bất đắc xuất gia như hà đắc xuất gia sư vân tiên tấn
-vân học nhân bất hội sư vân thâm vấn tùng thượng lai sự thỉnh sư đề cương sư vân triêu
-khán đông nam mộ khán tây bắc tấn vân tiện dữ ma hội thời như hà sư vân đông gia
-điểm đăng tây gia ám toạ vấn đương kim nhất cú thỉnh sư đạo sư vân phóng nễ nhất tuyến
-đạo hoàn ngã nhất cú lai vấn bất thiệp liêm tiêm thỉnh sư đạo sư vân nhất phạ nhữ bất
-vấn nhị phạ nhữ bất cử tam đáo lão tăng bột đào tứ đáo nễ thối hậu tốc đạo tốc
-đạo tăng tiện lễ bái sư tiện đả vấn vạn cơ tang tận thời như hà sư vân dữ ngã
-niêm phật điện lai dữ nhữ thương lượng tấn vân khởi can tha sự sư đốt vân giá lược hư
-hán vấn mục tiền đãng tận thời như hà sư vân nhiệt phát tác ma kì tăng lễ bái nhi
-thối sư vân thả lai thả lai tăng cận tiền sư tiện bổng vân giá lược hư hán ngã
-vấn như hà thị pháp vương chủ sư vân xoa thủ trước vấn manh quy trực phù mộc khổng thời
-như hà sư vân lão tăng xoa thủ khứ dã
-thượng đường vân cố tri thời vận kiêu li đại can tượng quý cận nhật sư tăng bắc khứ ngôn
-lễ văn thù nam khứ vị du hoành nhạc dữ ma hành cước danh tự tỉ khâu hư tiêu tín
-thí khổ tai khổ tai vấn trước hắc tất tướng tự kì quản thủ tính quá nhật thiết hữu tam
-cá lưỡng cá cuồng học đa văn kí trì thoại lộ đáo xứ mịch tướng tự ngữ cú ấn khả
-lão tú khinh hốt thượng lưu tác bạc phúc nghiệp tha nhật diêm la vương đinh đinh chi thời mạc
-đạo vô nhân hướng nhữ đạo nhược thị sơ tâm hậu học trực tu bãi động tinh thần mạc không
-kí thuyết đa hư bất như thiểu thật hướng hậu kì thị tự trám hữu thập ma sự cận tiền
-vấn học nhân chính tại mê đồ thỉnh sư nhất tiếp sư vân đạo thập ma vấn như hà thị
-giáo ý sư vân đáp do vị liễu tấn vân hòa thượng thập ma xứ đáp sư vân tương vị
-nhữ linh lợi vấn như hà thị nạp tăng chính nhãn sư vân na cá sư tăng cận tiền lai
-kì tăng cận tiền sư đốt vân khứ vấn như hà hội đắc hòa thượng nhất cú sư vân lạp
-nguyệt nhị thập ngũ vấn giáo trung tức bất vấn như hà thị tông môn trung sự sư vân kí
-hữu lai vấn tốc lễ tam bái vấn tuyệt tiêu tức xứ như hà lí tiễn sư vân tam thập
-niên hậu tấn vân kì kim như hà sư vân mạc loạn thống vấn tính nguyên hoàn hữu ngữ dã
-vô sư vân mạc vấn vấn phật bệnh tổ bệnh tương hà y sư vân thẩm tức hài tấn vân
-tương hà y sư vân hạnh hữu lực vấn bá bộ xuyên dương thỉnh sư chỉ đích sư vân đáp
-giá thoại khứ dã vấn ngôn thuyên bất cập xứ như hà thể hội sư vân đối chúng khoái lễ
-tam bái vấn linh phinh chi tử như hà tấn bộ sư vân mục tiền bất ban tấn vân khởi
-vô tôn quý sư vân bất giác đa tấn vân tác ma sinh sư vân tác ma sinh vấn phàm
-hữu ngôn thuyết giai thị cát đằng như hà thị bất cát đằng sư vân đại hữu nhân kiến nhữ
-vấn vấn cấp cấp tướng đầu thỉnh sư chỉ giáo sư vân tác ma sinh đạo tấn vân bất hội
-thỉnh sư đạo sư vân tác ma
-thượng đường vân đại chúng nhữ đẳng hoàn hữu vận châu châm ma nhược hữu thí tương lai khán hữu
-ma hữu ma chúng vô đối sư vân nhược vô tán phi y thường khứ dã tiện hạ tòa
-thượng đường đại chúng tập định nãi dĩ trụ trượng chỉ vân kiền khôn đại địa vi trần chư phật
-tổng tại lí hứa tranh phật pháp mịch thắng phụ hoàn hữu nhân gián đắc ma nhược vô nhân gián
-đắc đãi lão tăng dữ nhữ gián khán thời hữu tăng vân thỉnh hòa thượng gián sư vân giá dã
-hồ tinh vấn tận đại địa nhân lai sư như hà tiếp sư vân đề cương hữu lộ tấn vân
-mạc kì giá tiện thị chỉ thị bất sư vân hợp thủ cẩu khẩu vấn thời trung bất minh như
-hà đắc bất lạc duyên trần khứ sư vân bế môn khốc thương thiên vấn thập nhị thời trung như
-hà thể tất sư vân bất nan ban tấn vân hoàn hữu học nhân nhập đầu xứ dã vô sư
-vân tế khán tiền thoại vấn linh sơn nhất hội ca diệp thân văn vị thẩm văn cá thập ma
-cú sư vân bất tị lai phong tốc đạo tốc đạo tấn vân thị thập ma cú sư vân sế
-điện chi cơ đồ lao trữ tư vấn thiên thánh bất truyền cổ kim bất lịch như hà thị hòa
-thượng tiếp nhân nhất cú sư vân xúc ngỗ lão huynh đắc ma tấn vân như hà thị tiếp nhân
-nhất cú sư vân tác ma vấn hữu hà kính yếu linh học nhân tâm tức sư vân phóng nễ
-tam thập bổng vấn mục tiền thản nhiên thời như hà sư vân hải thuỷ tại nhữ đầu thượng tấn
-vân hoàn trước đắc dã vô sư vân hướng giá lí thoát không vọng ngữ vấn thí chủ thiết trai
-tương hà báo đáp sư vân lượng tài bổ chức tấn vân bất hội sư vân bất hội tức khiết
-phạn vấn như hà thị hướng thượng sự sư vân tiệt khước nhữ đỗ trường hoán khước thi trợ niêm
-tương bát vu lai khán tăng vô đối sư vân giá lược hư hán vấn như hà thị phật pháp
-đại ý sư vân lai phong hữu lộ vấn như hà thị học nhân chuyển thân xứ sư vân lợi
-vấn nhất khẩu thôn tận thời như hà sư vân ngã tại nhữ đỗ lí tấn vân hòa thượng vi
-thập ma tại học nhân đỗ lí sư vân hoàn ngã thoại đầu lai
-thượng đường lương cửu vân kì giá cá đái luy sát nhân tiện hạ tòa
-thượng đường vân đạo tức đạo liễu dã thời hữu tăng xuất lễ bái dục thân vấn thứ sư niêm
-trụ trượng tiện đả vân thức thập ma hảo ác giá nhất ban đả dã hán tổng tự giá
-cá tăng tranh tiêu đắc thí chủ tín thí ác nghiệp chúng sinh tổng tại giá lí mịch thập ma
-kiền thỉ quyết giảo dĩ trụ trượng nhất thời sấn hạ vấn ngưu đầu vị kiến tứ tổ thời như
-hà sư vân gia gia quan thế âm tấn vân kiến hậu như hà sư vân hoả lí tức liêu
-thôn đại trùng vấn như hà thị thiền sư vân niêm khước nhất tự đắc ma vấn phù tang kha
-bạn nhật luân vị xuất thời như hà sư vân tri vấn bội sở đầu ngô thời như hà sư
-vân diện nam khán bắc ẩu vấn lục quốc vị ninh thời như hà sư vân thiên lí hà minh
-tấn vân tranh nại bất minh hà sư vân lại ngộ đích lai đạo liễu vấn như hà thị bản
-nguyên sư vân thụ thập ma nhân cung dưỡng vấn như hà thị trực tiệt nhất lộ sư vân chủ
-sơn hậu tấn vân tạ sư chỉ thị sư viết hợp thủ bì đại vấn tào khê đích chỉ thỉnh
-sư thùy thị sư vân tam thập niên hậu vấn mật thất huyền cung thời như hà sư vân đảo
-tấn vân cung trung sự tác ma sinh sư vân trùng vấn vạn cơ thổ bất xuất thời như hà
-sư vân đại chúng bất nặc tấn vân do thị học nhân nghi xứ tại sư vân ngữ phú tiền
-cơ khứ vấn yếu cấp tướng ưng duy ngôn bất nhị thời như hà sư vân đối chúng cử đại
-chúng khả bất tri tấn vân như hà thừa đương sư vân lư niên vấn nhất sinh tích ác giả
-bất tri thiện nhất sinh tích thiện giả bất tri ác thử ý như hà sư vân chúc vấn viễn
-viễn đầu sư sư ý như hà sư vân thất cửu lục thập tam tấn vân học nhân cận li
-hoành châu sư ái vân thị nễ thảo hài căn đoạn/đoán tăng vân trân trùng sư ái vân tĩnh xứ
-tát bà ha vấn như hà thị học nhân tự kỉ sư vân nhất phật nhị bồ tát
-thượng đường vân nhữ đẳng chư nhân giai thị hà nam hải bắc lai các các tận hữu sinh duyên
-sở tại hoàn tự tri đắc ma thí xuất lai cử khán lão hán dữ nhữ chứng minh hữu ma
-hữu ma nhữ nhược bất tri lão hán man nhữ khứ dã nhữ dục đắc thức ma sinh duyên nhược
-tại hướng bắc bắc hữu triệu châu hòa thượng ngũ đài văn thù tổng tại giá lí sinh duyên nhược
-tại hướng nam nam hữu tuyết phong ngoạ long tây viện cổ sơn tổng tại giá lí nhữ dục đắc
-thức ma hướng giá lí thức thủ nhược bất kiến mạc lược hư kiến ma kiến ma nhược bất kiến
-thả khán lão hán kị phật điện xuất khứ dã trân trùng vấn lục quốc vị ninh thời như hà
-sư vân vân kình vũ sắc vấn thượng vô phàn ngưỡng hạ vô kỉ cung thời như hà sư vân
-tạng thân nhất cú tác ma sinh đạo tăng tiện lễ bái sư vân phóng quá nhất trước trí tương
-nhất vấn lai tăng vô ngữ sư vân giá tử hà mạc vấn như hà thị sắc tức thị không
-sư vân trụ trượng xao nhữ tị khổng vấn như hà thị hòa thượng phi thời vi nhân nhất cú
-sư vân tảo triêu khiên lê vãn gian duệ ba vấn tam thừa ngũ tính tức bất vấn như hà
-thị nạp tăng môn hạ sự sư vân nhật thế sảo vãn tốc lễ tam bái vấn cửu trực vi
-thập ma bất thức sư vân trắc vấn như hà thị tâm sư vân tâm tấn vân bất hội sư
-vân bất hội tấn vân cứu cánh như hà sư đốt vân tĩnh xứ đông hành tây hành vấn tam
-giới duy tâm vạn pháp duy thức thời như hà sư vân thiệt căn lí tạng thân tấn vân tạng
-thân hậu như hà sư vân tô tô tô lỗ vấn như hà thị đồ trung thụ dụng sư vân
-thất cửu lục thập tam tấn vân như hà thị thế đế lưu bố sư vân giang tây hồ nam
-tân la bột hải vấn mật thất bất thông phong thời như hà sư vân hưởng lộ minh phong tấn
-vân như hà thị mật thất trung nhân sư vân tái trần nan ban vấn trực dữ ma lai thời
-như hà sư vân chiếu tùng hà lập tấn vân bất khứ bất lai thời như hà sư vân tiền
-ngữ đạo thập ma vấn tấn hướng vô môn thời như hà sư vân tam thiên bát bá
-thượng đường vân phóng nễ hoành thuyết thụ thuyết tùng triêu chí mộ vô nhân tắc nễ khẩu bất phóng
-nễ thuyết hựu tác ma sinh
-thượng đường đại chúng tập lương cửu mạch niêm trụ trượng vân khán khán bắc uất đạn việt nhân kiến
-nhữ ban sài bất dị tại trung đình lí tướng phốc cung dưỡng nễ canh vi nễ niệm ban nhược
-kinh vân nhất thiết trí trí thanh tịnh vô nhị vô nhị phân vô biệt vô đoạn/đoán cố tăng tiện
-vấn như hà thị nhất thiết trí trí thanh tịnh sư vân tây thiên trảm đầu tiệt tí giá lí
-tự lĩnh xuất khứ vấn quải tích u nham thời như hà sư vân tại thập ma xứ vấn như
-hà thị thâm trung tiên sư vân sơn hà đại địa tấn vân như hà thị tiên trung thâm sư
-vân đại địa sơn hà tấn vân như hà thị thâm sư vân triêu đáo tây thiên mộ quy đường
-độ vấn ca diệp nhập định thời như hà sư vân nặc đắc ma tấn vân hoàn kiến thập phương
-bất sư vân hảo thủ thấu bất xuất vấn chân như đam tịch diệu tuyệt vô môn thời như hà
-sư vân tự cơ hồi chiếu tấn vân kì giá lí như hà sư vân mạc thác vấn thiên ban
-phương tiện dụ dẫn quy nguyên vị thẩm nguyên trung sự như hà sư vân hữu vấn hữu đáp tốc
-đạo tương lai tăng ưng nặc sư vân điều dao dã vấn như hà thị vân môn kiếm sư vân
-yết tấn vân dụng giả như hà sư vân tô lỗ tô lỗ vấn như hà thị tổ sư tây
-lai ý sư vân một tức đạo tấn vân bất hội sư vân tráng nhất vấn vấn năng thuyên biểu
-lí thời như hà sư vân phong bất nhập tấn vân biểu lí sự như hà sư vân thác vấn
-vạn cơ câu bãi thời như hà sư vân trủng thượng sinh chi thảo vấn quan thân vô kỉ quan
-ngoại diệc nhiên thời như hà sư vân nhiệt phát tác ma tấn vân dữ ma tắc băng tiêu ngoã
-giải khứ dã sư tiện đả vấn long môn hữu ý tấn thuỷ vô năng thời như hà sư vân
-lai cơ tức dị tái cử hoàn nan tấn vân chính dữ ma thời như hà sư vân khoái
-thượng đường vân ngã khán nhữ chư nhân nhị tam cơ trung thượng bất năng cấu đắc không phi nạp
-y hà ích nễ hoàn hội ma ngã vi nhữ chú phá cửu hậu đáo chư phương nhược kiến lão
-tú cử nhất chỉ thụ nhất bật tử vân thị thiền thị đạo duệ trụ trượng đả phá đầu tiện
-hành nhược bất như thử tận lạc thiên ma quyến thuộc hoại diệt ngô tông nhữ nhược thật bất hội
-thả hướng cát đằng xã lí khán ngã tầm thường hướng nhữ đạo vi trần sa độ trung tam thế
-chư phật tây thiên nhị thập bát tổ đường độ lục tổ tận tại trụ trượng đầu thuyết pháp thần
-thông biến hiện thanh ưng thập phương nễ hoàn hội ma nhược bất hội thả mạc lược hư tuy nhiên
-như thử thả đế đương thật kiến dã vị trực nhiêu đáo thử điền địa dã vị mộng kiến nạp
-tăng sa di tại tam gia thôn lí bất phùng nhất nhân sư mạch niêm trụ trượng hoạch địa nhất
-hạ vân tổng tại giá lí hựu hoạch nhất hạ vân tổng tại giá lí xuất khứ dã trân trùng
-vấn cổ nhân diện bích ý chỉ như hà sư vân niệm thất hựu vân định vấn bá bất hội
-để nhân lai sư như hà tiếp sư vân thoại đoạ dã tấn vân thập ma xứ thị thoại đoạ
-sư vân thất bổng đối thập tam vấn thừa cổ hữu ngôn liễu tức nghiệp chướng bản lai không vị
-liễu hoàn tu thường tú trái vị thẩm nhị tổ thị liễu vị liễu sư vân xác vấn tùng thượng
-cổ đức tướng truyền hà sự sư vân tốc lễ tam bái vấn như hà thị vân môn nhất lộ
-sư vân thân tấn vân như hà tức thị sư vân điên ngôn đảo ngữ tác ma vấn thừa cổ
-hữu ngôn nghĩ tâm tức sai như hà đắc bất sai sư vân hồng cơ lịch chưởng tấn vân hậu
-nhân tái vấn tác ma sinh sư vân trì phong nan cải vấn tam thân trung a na thân thuyết
-pháp sư vân yếu vấn như hà thị thích ca thân sư vân kiền thỉ quyết vấn thỉnh sư đề
-cương tông môn sư vân nam hữu tuyết phong bắc hữu triệu châu vấn đại triệt để nhân kiến nhất
-thiết pháp thị không bất sư vân tô lỗ tô lỗ vấn chung nhật thiết thiết bất đắc cá nhập
-lộ khí sư chỉ cá nhập lộ sư vân đương cơ hữu lộ vấn như hà thị siêu phật việt
-tổ chi đàm sư vân bồ châu ma hoàng ích châu phụ tử vấn như hà thị giáo ý sư
-vân liêu khởi lai tác ma sinh đạo tấn vân tiện thỉnh sư đạo sư vân đối ngưu đàn cầm
-vấn huyền cơ nhất lộ như hà thể hội sư vân tam thập niên hậu vấn quách thị song phu
-đương biểu hà sự sư vân ngôn tấn vân vị thẩm sư ý như hà sư vân khẩn tiễu thảo
-hài vấn bất thị huyền cơ diệc phi mục kích thời như hà sư vân đảo nhất thuyết vấn kiếp
-hoả đỗng nhiên thời như hà sư vân canh mộng kiến thập ma
-thượng đường vân thiên thân bồ tát vô đoan biến tác nhất điều trất mộc lật trụ trượng nãi hoạch địa
-nhất hạ vân trần sa chư phật tận tại giá lí thuyết cát đằng khứ tiện hạ tòa
-thượng đường vân ngã cộng nhữ bình triển ngộ nhân thức nhân dữ ma lão bà thuyết thoại thượng tự
-bất hội mỗi nhật bão phạn khiết liễu thượng lai hạ khứ mịch thập ma oản giá dã hồ đội
-trượng hướng giá lí tác thập ma dĩ trụ trượng nhất thời sấn hạ vấn sơ thu hạ mạt tiền
-trình hốt hữu nhân vấn như hà kì đối sư vân đại chúng thối hậu tấn vân quá tại thập
-ma xứ sư vân hoàn ngã cửu thập nhật phạn tiền lai vấn học nhân cận đáo pháp tịch vị
-thẩm gia phong sự như hà sư vân bất lịch nhất vấn tác ma sinh đạo vấn thập phương quốc
-độ trung duy hữu nhất thừa pháp như hà thị nhất thừa pháp sư vân hà bất biệt vấn tấn
-vân tạ sư chỉ thị sư tiện ái vấn thừa cổ hữu ngôn nhất trần biến hàm nhất thiết trần
-như hà thị nhất trần sư vân khí liệu thiệt đầu canh tương nhất vấn lai vấn học nhân bất
-vấn sư hoàn đáp dã vô sư vân tương nhữ khẩu quải bích thượng bất đắc vấn nhất thiết tầm
-thường thời như hà sư vân tuy nhiên thỉ xú khí huân ngã ngã thả vấn nễ trú hành tam
-thiên dạ hành bát bá nễ bát vu lí thập ma xứ trước tăng vô đối sư vân thoát không
-vọng ngữ hán vấn như hà thị giáo nhãn sư vân tốc lễ tam bái vấn thừa cổ hữu ngôn
-ngưu đầu hoành thuyết thụ thuyết bất tri hữu hướng thượng quan tử như hà thị hướng thượng quan
-tử sư vân đông sơn tây lĩnh thanh vấn như hà thị lộ địa bạch ngưu sư vân quy
-y phật quy y pháp quy y tăng tấn vân bạch ngưu hà tại sư đốt chi vấn thụ điêu
-diệp lạc thời như hà sư vân thể lộ kim phong vấn như hà thị bố đại lí chân châu
-sư vân thuyết đắc ma vấn như hà thị tổ tông đích tử sư vân ngôn trung hữu hưởng
-thượng đường vân phu học ban nhược bồ tát tu thức đắc chúng sinh bệnh tức thức đắc học ban
-nhược bồ tát bệnh hoàn hữu nhân giản đắc ma xuất lai đối chúng giản khán chúng vô ngữ nãi
-vân nhược giản bất đắc mạc phương ngã đông hành tây hành
-thượng đường vân ngã kim nhật cộng nhữ thuyết cát đằng thỉ hôi tuy hoả nê trư giới cẩu bất
-thức hảo ác thỉ khanh lí tác hoạt kế sở dĩ đạo tận kiền khôn đại địa tam thừa thập
-nhị phân giáo tam thế chư phật thiên hạ lão sư ngôn giáo nhất thời hướng nhữ nhãn tiệp thượng
-hội thủ khứ nhiêu nhữ tiện hướng giá lí nhất thời minh đắc diệc thị bất trước tiện hán vô
-đoan đào nhập thỉ khanh khả trung ư ngã nạp tăng môn hạ quá đả cước chiết thời hữu tam
-tăng xuất nhất thời lễ bái sư vân nhất trạng lĩnh quá vấn như hà đắc tốc siêu tam giới
-khứ sư vân như hà đắc tốc siêu tam giới khứ tấn vân thị sư vân thị tức hưu vấn
-chung nhật mang mang thời như hà sư vân địch cơ vô hưởng lộ tấn vân tác ma sinh sư
-vân thuyết bất đắc vấn nhất bãi tịnh tận thời như hà sư vân tranh nại lão tăng hà tấn
-vân thử thị hòa thượng phân thượng sư vân giá lược hư hán vấn như hà thị đạo sư vân
-thấu xuất nhất tự tấn vân thấu xuất hậu như hà sư vân thiên lí đồng phong vấn cổ nhân
-đạo tri hữu cực tắc sự như hà thị cực tắc sự sư vân tranh nại tại lão tăng thủ
-lí hà tấn vân mỗ giáp vấn cực tắc sự sư tiện bổng vân ẩu ẩu chính đương bát phá
-tiện đạo thỉnh ích giá ban để đáo xứ đãn tri loạn thống cận tiền lai ngã vấn nễ tầm
-thường tại trường liên sàng thượng thương lượng hướng thượng hướng hạ siêu phật việt tổ nễ đạo thuỷ cổ
-ngưu hoàn hữu siêu phật việt tổ đích đạo lí ma tăng vân đích lai dĩ hữu nhân vấn liễu
-dã sư vân giá cá thị trường liên sàng thượng học đắc để bất yếu hữu tiện ngôn hữu vô
-tiện ngôn vô tăng vân nhược hữu canh phi mao đái giác tác ma sư vân tương tri nễ kì
-thị học ngữ chi lưu hựu vân lai lai ngã canh vấn nễ chư nhân hoành đam trụ trượng đạo
-ngã sâm thiền học đạo tiện mịch cá siêu phật việt tổ để đạo lí ngã thả vấn nễ thập
-nhị thời trung hành trụ toạ ngoạ a thỉ tống tuy chí ư mão khanh lí trùng tử thị tứ
-mại mãi dương nhục án đầu hoàn hữu siêu phật việt tổ để đạo lí ma đạo đắc để xuất
-lai nhược vô mạc phương ngã đông hành tây hành tiện hạ tòa sư kiến tăng nhập lai tiện vân
-ngoã giải băng tiêu tăng vân học nhân hữu thập ma quá sư vân thất bổng đối thập tam vấn
-như hà thị tây lai ý sư vân trường liên sàng thượng hữu dục hữu phạn vấn thừa cổ hữu
-ngôn đạo vô hoành kính lập giả giai nguy như hà thị đạo sư vân phổ thỉnh khán vấn như
-hà thị tam thừa giáo ngoại nhất cú sư vân xà lê nhất vấn lão tăng bột đào tam thiên
-lí tấn vân tạ sư chỉ thị sư vân trụ trụ nễ đạo lão tăng thoại tác ma sinh tăng
-vô đối sư vân tam thập niên hậu lai dữ nhữ tam thập bổng vấn đại chúng vân tập hợp
-đàm hà sự sư vân nhữ ốc lí lão gia vấn tào khê nhất cú hạp quốc tri văn
-vị thẩm vân môn nhất cú thập ma nhân đắc văn sư vân xà lê bất văn tấn vân học
-nhân thân cận đắc bất sư vân tử tế trì trù khán
-thượng đường vân như lai minh tinh hiện thời thành đạo hữu tăng vấn như hà thị minh tinh hiện
-thời thành đạo sư vân cận tiền lai cận tiền lai tăng cận tiền sư dĩ trụ trượng đả sấn
-thượng đường hữu tăng xuất lễ bái vân thỉnh sư đáp thoại sư triệu đại chúng đại chúng cử đầu
-sư tiện hạ tòa
-thượng đường lương cửu hữu tăng xuất lễ bái sư vân thái trì sinh tăng ưng nặc sư vân giá
-tất dũng
-thượng đường vân hữu giải vấn thoại giả trí tương nhất vấn lai tăng xuất lễ bái vân thỉnh sư
-giám sư vân phao điếu điếu côn kình điếu đắc cá hà mạc tăng vân hòa thượng mạc thác sư
-vân triêu tẩu tam thiên mộ tẩu bát bá tác ma sinh tăng vô ngữ sư tiện đả
-thượng đường tăng vấn như hà thị bản nguyên sư niêm khởi trụ trượng vân nhược thị đề khởi tức
-hướng thượng khứ dã tăng hựu vấn như hà thị bản nguyên sư vân nam thiệm bộ châu bắc uất
-đạn việt vấn phổ hiền vi thập ma kị tượng văn thù vi thập ma kị sư tử sư vân
-ngã dã vô tượng dã vô sư tử thả kị phật điện xuất tam môn khứ dã vấn như hà
-thị giáo ý sư vân sơn hà đại địa hựu vân chính hảo ban do thị khúc thuyết giáo ý
-nhược ước đề cương tức vị tại vấn nhất thiết trí thông vô chướng ngại thời như hà sư vân
-tảo địa bát thuỷ tướng công lai vấn tùy lưu nhận đắc tính thời như hà sư vân đông đường
-nguyệt lãng tây đường ám vấn như hà thị tam thừa giáo ngoại biệt truyền để sự sư vân nễ
-nhược bất vấn ngã tức bất đáp nễ nhược vấn ngã tức triêu đáo tây thiên mộ quy đường độ
-tăng vân khí sư chỉ thị sư vân nhất bất thành nhị bất thị vấn như hà thị tổ sư
-tây lai ý sư vân thanh thiên bạch nhật nghệ ngữ tác ma vấn như hà thị phật pháp đại
-ý sư vân nhật lí kì lân khán bắc ẩu vấn học nhân đáo giá lí vi thập ma đạo
-bất đắc sư vân dã hồ quật lí toạ vấn bất lạc cổ kim thị hà khúc điều sư duệ
-trụ trượng tiện hạ tòa vấn như hà thị phật pháp đại ý sư vân diện nam khán bắc ẩu
-vấn cổ nhân trảm xà ý chỉ như hà sư tiện đả vấn như hà thị hòa thượng gia phong
-sư vân xà lê thụ giới thái tảo vấn như hà thị tân trung chủ sư vân kị nhất vấn
-tấn vân như hà thị chủ trung chủ sư vân nghĩa thủ trước tấn vân tân chủ tướng khứ đa
-thiểu sư vân như nhãn như mục tấn vân hợp đàm hà sự sư vân tam cửu nhị thập thất
-vấn tự đáo hòa thượng pháp tịch bất hội khí sư chỉ thị sư vân tiệt khước nễ đầu đắc
-ma vấn khí sư chỉ thị linh học nhân đốn tức hôn mê sư vân tương châu mễ tác ma
-giá vấn nhị tôn tướng kiến thời như hà sư vân bất thị ngẫu nhiên
-thượng đường vân thiên đế thích dữ thích ca lão tử tại trung đình lí tướng tranh phật pháp thậm
-náo tiện hạ tòa
-vấn như hà thị tào khê đích đích ý sư vân lão tăng ái sân bất ái hỉ tấn vân
-vi thập ma như thử sư vân lộ phùng kiếm khách tu trình kiếm bất thị thi nhân bất hiến
-thi vấn nhị tôn tướng kiến cộng đàm hà sự sư vân bất quyết tức đạo vấn nhân thiên giao
-tiếp kì ý như hà sư vân đối chúng trình cơ
-thượng đường vân hòa thượng tử thả tu minh thủ nạp tăng tị khổng thả tác ma sinh thị nạp
-tăng tị khổng nãi vân ma ha ban nhược ba la mật kim nhật đại phổ thỉnh tiện hạ tòa
-vấn như hà thị tây lai ý sư vân sơn hà đại địa tấn vân hướng thượng canh hữu sự
-dã vô sư vân hữu tấn vân như hà thị hướng thượng sự sư vân thích ca lão tử tại
-tây thiên văn thù bồ tát cư đông độ vấn phụ mẫu câu tang thời như hà sư vân câu
-tang thả trí na cá thị nễ phụ mẫu tăng vân khổ thống thâm sư vân chước nhiên chước nhiên
-vấn như hà thị đại thí chủ sư vân đối cơ bất ban vấn triệt để minh mông để nhân
-lai sư như hà chửng tế sư vân lưỡng trùng công án nhất trạng lĩnh quá vấn thuyết giáo đương
-vi hà nhân sư vân cận tiền lai cao thanh vấn tăng cận tiền vấn sư tiện đả vấn hòa
-thượng niên đa thiểu sư vân thất cửu lục thập bát tấn vân vi thập ma thất cửu lục thập
-bát sư vân ngã vi nễ giảm khước ngũ niên
-thượng đường vân hòa thượng tử trực nhiêu nễ đạo hữu thập ma sự do thị đầu thượng an đầu
-tuyết thượng gia sương quan mộc lí trát nhãn cứu ban thượng canh trước ngải tước giá cá thị nhất
-trường lang tịch bất thiểu dã nễ hợp tác ma sinh các tự mịch cá thác sinh xứ hảo mạc
-không du châu lạp huyền kì dục niết nạch nhàn ngôn ngữ đãi lão hòa thượng khẩu động tiện vấn
-thiền vấn đạo hướng thượng hướng hạ như hà nhược hà đại quyển sao tương khứ chú độ hướng bì đại
-lí bốc độ đáo xứ hoả lô biên tam cá ngũ cá tụ đầu cử khẩu nam nam địa tiện
-đạo giá cá thị công tài ngữ giá cá thị tựu xứ đả xuất ngữ giá cá thị sự thượng
-đạo để ngữ giá cá thị thể ngữ thể nhữ ốc lí lão gia lão nương sàng khước phạn liễu
-kì quản thuyết mộng tiện đạo ngã hội phật pháp liễu dã tương tri dữ ma hành cước lư niên
-đắc hưu yết ma canh hữu nhất ban để tài văn thuyết cá hưu yết xứ tiện hướng âm giới
-lí bế mục hợp nhãn lão thử khổng lí tác hoạt kế hắc sơn hạ tòa quỷ thú lí thể
-đương tiện đạo ngã đắc cá nhập lộ dã hoàn mộng kiến ma giá ban để đả sát vạn cá
-hữu thập ma tội quá hoán tác đả để bất ngộ tác gia chí cánh kì thị cá lược hư
-hán nễ nhược thật hữu cá kiến xứ niêm tương lai cộng nhữ thương lượng mạc không quá bất thức
-hảo ác tổng tổng địa tụ đầu thuyết cát đằng mạc giáo lão tăng kiến tróc lai khám
-bất tướng đương đôi chiết yêu mạc ngôn bất đạo nhữ bì hạ hoàn hữu huyết ma đáo xứ tự
-dục thụ quật tác ma giá diệt hồ chủng tận thị dã hồ quần đội tổng tại giá lí tác
-ma dĩ trụ trượng nhất thời sấn hạ vấn thập phương bạc già phạm nhất lộ niết bàn môn như
-hà thị nhất lộ niết bàn môn sư vân ngã đạo bất đắc tấn vân hòa thượng vi thập ma
-đạo bất đắc sư vân thị nễ cử thoại tức đắc vấn như hà thị pháp thuyết sư vân đại
-chúng cửu lập tốc lễ tam bái tấn vân như hà thị tùy ý thuyết sư vân thần thời hữu
-dục trai thời hữu phạn như hà thị tùy nghi thuyết sư vân tam đức lục vị thí phật cập
-tăng như hà thị phương tiện thuyết sư vân thị nhữ tị khổng trùng tam cân bán như hà thị
-đại bi thuyết sư vân quy y phật pháp tăng vấn sinh tử căn nguyên tức bất vấn như hà
-thị mục tiền tam muội sư vân cật liệu thiệt đầu tam thiên lí tấn vân kim nhật đắc ngộ
-hòa thượng dã sư vân phóng nễ tam thập bổng vấn khí sư chỉ thị sư vân thượng đại nhân
-khâu ất kỉ tấn vân học nhân bất hội sư vân hoá tam thiên thất thập sĩ vấn bất li
-tam đức lục vị hoàn hữu phật pháp dã vô sư vân kì phạ nễ bất vấn tấn vân thỉnh
-sư đạo sư vân tam đức lục vị thí phật cập tăng
-thượng đường vân nhãn tiệp hoành cắng thập phương mi mao thượng thấu kiền khôn hạ thấu hoàng toàn tu
-di sơn tắc khước nhữ ân hầu hoàn hữu hội xứ ma nhược hội đắc duệ thủ chiêm ba quốc
-cộng tân la quốc đấu ngạch
-thượng đường vân giang tây tức thuyết quân thần phụ tử hồ nam tức thuyết tha bất dữ ma ngã
-thử gian tức bất như thử lương cửu vân nhữ hoàn kiến bích ma
-thượng đường vân khứ khứ đệ tướng độn trí hữu thập ma liễu thời khước vấn chúng vân ngã dữ
-ma đạo hoàn hữu quá ma vấn như hà thị tổ sư tây lai ý sư vân nhất bất đắc
-vấn tấn vân nặc sư đốt vân thoại dã bất lĩnh vấn kim nhật cung dưỡng la hán la hán
-hoàn lai dã vô sư vân nhữ nhược bất vấn ngã tức bất đạo tấn vân thỉnh sư đạo sư
-vân tam môn đầu hợp chưởng phật điện lí trang hương vấn như hà thị nạp tăng bản phân sự
-sư vân nam hữu tuyết phong bắc hữu triệu châu tấn vân thỉnh hòa thượng bất phồn từ sư vân
-bất đắc thất khước vấn học vân nặc sư tiện đả vấn thừa cổ hữu ngôn hội tức sự đồng
-nhất gia bất hội tức li nha phách xỉ như hà đắc sự đồng nhất gia sư vân loạn tẩu
-tác ma
-thượng đường vân tùng thượng lai thả thị cá thập ma sự như kim ức bất đắc dĩ thả hướng
-nhữ chư nhân đạo tận đại địa hữu thập ma vật dữ nhữ vi đối vi duyên nhược hữu châm
-phong dữ nhữ vi cách vi ngại dữ ngã niêm tương lai hoán thập ma tác phật tác tổ hoán
-thập ma tác sơn hà đại địa nhật nguyệt tinh thần tương thập ma vi tứ đại ngũ uẩn ngã
-dữ ma đạo hoán tác tam gia thôn lí lão bà thuyết thoại hốt nhiên ngộ trước bản sắc hành
-cước hán văn dữ ma đạo bả cước duệ hướng giai hạ hữu thập ma tội quá tuy nhiên như
-thử cứ cá thập ma đạo lí tiện dữ ma mạc sấn khẩu khoái hướng giá lí loạn đạo tu
-thị cá hán thuỷ đắc hốt nhiên bí lão hán cước căn hạ tầm trước vật khứ xứ đả cước
-chiết hữu thập ma tội quá kí dữ ma như kim hoàn hữu vấn tông thừa trung thoại ma đãi
-lão hán đáp nhất chuyển liễu đông hành tây hành hữu tăng nghĩ vấn thứ sư dĩ trụ trượng phách
-khẩu đả tiện hạ tòa vấn sư tử tần thân thời như hà sư vân tần thân thả trí thí
-hao hống khán tăng ưng nặc sư vân giá cá thị lão thử đề
-thượng đường vân ngã hữu nhất cú ngữ bất cảm vọng nễ hội hoàn hữu nhân cử đắc ma lương
-cửu vân tương vị hồ tu xích canh hữu xích tu hồ tiện hạ tòa
-thượng đường vân bất đắc dĩ thả tác tử mã y hướng nhữ đạo thị cá thập ma thị đông
-thị tây thị nam thị bắc thị hữu thị vô thị kiến thị văn thị hướng thượng thị hướng hạ
-thị dữ ma thị bất dữ ma giá cá hoán tác tam gia thôn lí lão bà thuyết thoại thị
-nễ hữu kỉ cá đáo thử cảnh giới tướng đương tức tướng đương bất tướng đương tĩnh xứ tát bà
-ha tiện hạ tòa
-thượng đường vân chư phương lão hòa thượng đạo tu tri hữu thanh sắc ngoại nhất đoạn sự tự giá
-cá ngữ thoại cuống nhân gia nam nữ tam gian pháp đường lí độc tự vọng tưởng vị tằng
-mộng kiến ngã bản sư tông chỉ tại tác ma sinh tiêu đắc tha tín thí lạp nguyệt tam thập
-nhật cá cá tu thường tha thuỷ đắc nhâm nhữ bột đào khứ thị nễ chư nhân các tự nỗ
-lực trân trùng vấn mục tiền vô nhất pháp hoàn miễn đắc sinh tử bất sư vân nễ lư niên
-vị miễn đắc tại vấn như hà thị đạo sư vân khứ tấn vân học nhân bất hội khí sư
-đạo sư vân xà lê công nghiệm phân minh hà tại trùng phán vấn duy ma nhất mặc hoàn đồng
-thuyết dã vô sư vân thống lĩnh nhất vấn tấn vân dữ ma tắc đồng thuyết dã sư vân đích
-lai đạo thập ma vấn như hà thị thanh tịnh pháp thân sư vân hoa dược lan tấn vân tiện
-dữ ma hội thời như hà sư vân kim mao sư tử
-thượng đường nhân văn chung minh nãi vân thế giới dữ ma quảng khoát vi thập ma chung thanh phi
-thất điều
-thượng đường vân bất khả tuyết thượng gia sương khứ dã trân trùng tiện hạ tòa
-thượng đường vân chư phương lão ngốc nô khúc mộc thiền sàng thượng toạ địa cầu danh cầu lợi vấn
-phật đáp phật vấn tổ đáp tổ a thỉ tống tuy dã tam gia thôn lí lão bà truyền khẩu
-linh tướng tự thức cá thập ma hảo ác tổng tự giá ban để thuỷ dã nan tiêu
-thượng đường vân nhân nhân tự hữu quang minh tại khán thời bất kiến ám hôn hôn tiện hạ tòa
-sư nhập kinh tại thụ xuân điện thánh thượng vấn như hà thị thiền sư vân hoàng đế hữu sắc
-thần tăng đối sư tại văn đức điện phó trai hữu cúc thường thị vấn linh thụ quả tử thục
-dã vị sư vân thập ma niên trung đắc tín đạo sinh
-thượng đường vân nễ chư nhân vô đoan tẩu lai giá lí mịch thập ma lão tăng kì giải khiết
-phạn a thỉ biệt giải tác thập ma nễ chư phương hành cước sâm thiền vấn đạo ngã thả vấn
-nễ chư phương sâm đắc để sự tác ma sinh thí cử khán hựu vân trung gian nhữ ốc
-lí lão gia đắc ma hướng lão hán đốt đồn hậu mịch đắc ta tử khẩu đệ thoá tước tương vi
-tự kỉ tiện đạo ngã giải thiền giải đạo nhiêu nễ niệm đắc nhất đại tạng giáo nghĩ tác ma
-sinh khứ cổ nhân sự bất đắc dĩ kiến nễ loạn tẩu hướng nhữ đạo bồ đề niết bàn thị
-mai một nễ thị đinh quyết hệ khước nễ hựu kiến nễ bất hội hướng nhữ đạo phi bồ đề
-niết bàn tri thị ban sự tảo thị bất trước tiện dã hựu canh mịch tha chú giải giá ban
-để diệt hồ chủng tộc tùng thượng lai tổng tự giá ban hà xứ đáo kim nhật ngã hướng tiền
-hành cước thời hữu nhất ban nhân dữ ngã chú giải tha thị bất ác tâm bí ngã nhất nhật
-thứ kiến thị nhất trường tiếu cụ thị ngã tam ngũ niên bất tử giá ban diệt hồ chủng để
-nhất phủ đả chiết cước như kim chư phương đại hữu xuất thế nữu niết nễ hà bất khứ bỉ
-trung tại giá lí mịch thập ma kiền thỉ quyết sư tiện hạ địa dĩ trụ trượng nhất thời đả
-sấn hạ khứ vấn như hà thị vạn pháp nhất quyết sư vân mạc giáo thất khước vấn vấn tử
-trung đắc hoạt thời như hà sư vân triêu hành tam thiên dạ hành bát bá vấn đại chúng vân
-tập hợp đàm hà sự sư vân kim nhật phóng hạ linh hành khứ dã tăng lễ bái sư tiện
-đả vấn như hà thị học nhân tự kỉ sư vân phạ ngã bất tri vấn như hà thị thấu
-pháp thân cú sư vân hải yến hà thanh đạo sĩ vấn thị thính vô thanh vô hình lão quân
-thuyết liễu dã vân môn nhất cú thỉnh sư chỉ thị sư vân điều nhiên tây thiên lộ sĩ vô
-ngữ sư nghĩ hạ tòa sĩ vân tái thỉnh sư cử dương tông chỉ sư vân đạo đắc để xuất
-lai chúng vô đối sư vân dữ ma tắc cô phụ thỉnh chủ khứ dã tiện hạ tòa
-thượng đường đại chúng tập định sư nãi niêm khởi trụ trượng vân bất đắc dĩ thả hướng giá lí
-hội thủ khán khán tam môn tại lộ trụ thượng tiện hạ tòa
-thập nhị thời ca
-dạ bán tử ngu phu thuyết tướng tự kê minh sửu si nhân phủng quy thủ
-bình đán dần hiểu hà nhân nhật xuất mão hàn tình khô cốt giảo
-thực thời thần lịch lịch minh cơ thị ngộ chân ngu trung tị khứ lai nam bắc tử
-nhật nam ngọ nhận hướng đồ trung khổ nhật vị hạ phùng thuyết hàn khí
-bô thời thân trương tam lí tứ hội ngôn chân nhật nhập dậu hằng cơ hà đắc thủ
-hoàng hôn tuất khán kiến thời quang thùy thụ quật nhân định hợi trực đắc phân minh trầm khổ hải
-kệ tụng
-vân môn tủng thế bạch vân đê thuỷ cấp du ngư bất cảm thê nhập hộ dĩ tri lai kiến
-giải hà lao canh cử lịch trung nê
-dược bệnh tướng trị học lộ y phù li mô bích tiểu nhi hí u cốc bất ngữ thùy nhân
-trắc quản giải sư thừa thục bất tri
-khang thị viên hình trệ bất minh ma thâm hư tang kích hàn băng phụng vũ triển thời siêu bích
-hán tấn phong bát bác nghĩ hà bằng
-thị cơ thị đối đối cơ mê tịch cơ cơ viễn viễn cơ thê tịch nhật nhật trung thùy hữu
-quải nhân để để sự cách tình mê
-thái dương dật mục cực huyền vi thùy nhân thuyết đạo ngã cừ phi cú trung hữu lộ nhân giai
-hưởng địch diện nan tao đệ nhất cơ
-quán tuế y sơn nhân sự hi tùng hạ tướng phùng thoại đạo kì phong tiền nhất cú siêu điều
-ngữ nghĩ vấn như hà lịch kiếp vi
-ngoạn cổ tùng cao vân bất tề hồng thương hạc bão kỉ niên thê phẫu cốc hoà noãn đồng thời thù hữu
-dị vũ trương đằng hán bích tiêu đê
-vạn tượng sâm la cực tế vi tố thoại đương nhân khước đạo phi tướng phùng tướng kiến a a
-tiếu cố trữ đình cơ phục thị thùy
-thoại tận đồ trung sự ngôn đa hà tỉnh cơ quý nhân ngôn thị diệu thượng sĩ kiến tri khuy
-đại đạo hà tằng thảo vô đoan nhập hoang thảo quyển lai phục quyển khứ bất giác hư sinh lão
-thượng bất kiến thiên hạ bất kiến địa tắc khước ân hầu hà xứ xuất khí tiếu ngã giả đa
-sái ngã giả thiểu
-tang thời quang đằng lâm hoang đồ nhân ý trệ cơ uông
-cử bất cố tức sai hỗ nghĩ tư lượng hà kiếp ngộ
-đốt đốt đốt lực vi hi thiền tử nhạ trung mi thùy
-trừu cố tụng giám di
-vân môn khuông chân thiền sư quảng lục quyển đệ thập lục
+phật nhãn thiền sư ngữ lục tự
+dự chương từ phủ soạn
+phật nhãn thiền sư chi ngữ thị giả đạo hân sở lục thượng đường tiểu sâm phổ thuyết thùy thị
+thùy đại tâm yếu kệ tụng tụng cổ phàm bát chủng cái số thập vạn ngôn kì nghĩa tắc nhất
+dã sở vị phật ngữ tâm vi tông vô môn vi pháp môn dã đạn truyền trực chỉ giả dã
+kim viên đỉnh phương bào giả thục phi cầu thử đạo bính bật cao tòa giả thục phi truyền thử
+pháp nhiên vị chi trực yên nhi phản minh yên nhi phản muội trực nhi bất kì thiền
+sư chi ngôn hồ minh nhi bất muội kì thiền sư chi đạo hồ quan kì phản phú đinh ninh
+du thành khổ khẩu tư diệc cần hĩ kì ý quả hà vi tai học giả khả bất khô tâm
+yên phu thiền sư chi thuyết thật vô thuyết vô thị dã thị vi chân thuyết thính giả chi văn
+dã thật vô văn vô đắc thị vi chân văn chân thuyết tự ngôn dư luận chi thượng tồn chân
+văn chí âm hi thanh chi thường tại bất tác văn tự chi giải bất sinh chỉ bút chi kiến
+giả quan chi hữu hạ hĩ
+sư xuyên thử tự túc dĩ tiêu bảng thử lục hĩ lão hủ bất khả canh trùng thuyết kệ
+ngôn dã cụ trạch pháp nhãn nhân nhất nhất ban thủ hồ hải lữ cần vân
 
-> cổ tôn tú ngữ lục quyển đệ nhị thập thất chung
+***
+
+thư châu long môn phật nhãn hòa thượng ngữ lục
+trụ nam khang vân cư tự pháp thiện ngộ biên
+phật nhãn thanh viễn thiền sư lâm cung lí thị tử sư sơ trụ thư châu thiên ninh khai đường
+nhật đề hình học sĩ quyền quận thừa nghị thiêu hương độ sơ dữ sư tiếp đắc thị đại chúng
+vân thiên bất năng cái địa bất năng tái lậu duệ thiên cơ ngôn ngôn kham ái thả đạo như
+hà thị kham ái chi ngôn lương cửu vân phân minh kí thủ cử tự tác gia toại độ dữ
+biểu bạch tuyên bãi sư chỉ pháp tòa vân cổ thánh đạo vi pháp lai da vi sàng tòa lai
+da ngã vi pháp lai phi vi sàng tòa sư đốt vân thị hà ngôn dư tiện thăng tòa niêm
+hương vân thử nhất biện hương chú diên kim thượng hoàng đế bệ hạ phục nguyện long đồ vĩnh cố
+phụng lịch trường tân bát biểu xưng thần tứ duy ca hoá thứ niêm hương vân thử nhất biện hương
+phụng vi đề hình học sĩ quyền quận thừa nghị kị hạp quận tôn quan phục nguyện gia thanh ái
+trước thiện chánh nhật tân tần thừa vũ lộ chi ân toạ thính diêm mai chi chiếu thứ niêm hương
+vân thử nhất biện hương hoàn tri lạc xứ ma dục ẩn di lộ cuồng hối dũ minh bản dục
+phao trịch nham a hồn vu sa thạch khổ vi chư nhân đôi bức bất miễn tế thuyết lai do
+phụng vi ngã tiên kì châu hoàng mai đông sơn diễn thiền sư nhất lô nhiệt khước dụng bồi pháp
+nhũ chi ân liêu biểu hoá nghi tuy nhiên ân đại nan thù vị miễn phao tam phóng nhị toại
+phu toạ sơn cốc hòa thượng bạch đôi vân pháp diên long tượng chúng đương quan đệ nhất nghĩa sư
+vân quan tức bất nhất nhất tức bất quan đệ nhất nghĩa môn kim tại hà sở vấn đáp bất lục sư
+vân thái a hoành án tiệt vạn cơ ư chưởng ác chi trung bảo giám đương đài hiện quần tượng
+ư vô tâm chi biểu hữu duyên tức ưng cố vấn đáp dĩ túng hoành bất linh nhi hành nãi
+ngôn tượng nhi hãn trắc ảnh hưởng chi sĩ tư hà túc vân sở dĩ phật phó phật tổ phó
+tổ canh vô ti phát chi dị khởi hữu đông tây chi thù bất lập giai thê đạn truyền thị
+sự nhược phi linh căn đốn ngộ đại dụng hiện tiền vị miễn nghiệp hoặc hải thâm vọng trần tự
+cách toại niêm khởi bật tử thị chúng vân hoàn kiến ma nhược kiến kiến cá thập ma nhược kiến
+cá bật tử chính thị phàm phu nhược ngôn bất kiến thử thị bật tử như hà thuyết bất kiến
+để đạo lí đạo nhân đáo thử tu thị thốn lượng bất khả khinh tâm thủ ư lưu chuyển thành
+phi tiểu sự thật tại ngộ minh sở dĩ thánh nhân đắc thử sự mạc bất thống tam giới lĩnh
+tứ sinh hiệu linh thánh phàm phù điên chửng vật đại chúng tùng thượng chư thánh nhập thử môn trung
+các các khải ngộ lao sinh phá chư trần vọng kí đắc linh sơn hội thượng tứ thập cửu niên
+thuyết bất tận mạt hậu phân phó ẩm quang thiểu lâm cửu niên chi gian tất cánh độc hứa nhị
+tổ nhĩ hậu quang phân chấn đán đạo mãn hoàn trung lâm tế đức sơn uy hành lôi điện giai
+vi thượng tổ bất liễu trí linh ương cập tử tôn toại cử bật tử vân đại chúng tùng thượng
+hứa đa hiền thánh như kim tổng tại sơn tăng bật tử đầu thượng các các toạ đại liên hoa
+thuyết vi diệu pháp giao quang tướng la như bảo ti võng hoàn tín đắc cập ma nhược tín đắc
+cập sơn tăng xuất thế nhất kì chi sự dĩ đắc chu viên kì hoặc vị nhiên bất miễn tự
+thông tiêu tức khứ dã thập tự lộ đầu xuy ngọc địch đàm vân khinh nhật chính thanh thu cửu
+lập
+thượng đường thế tôn niêm hoa ca diệp vi tiếu thân thiết thân thiết tỉnh yếu tỉnh yếu nhãn mục
+định động liệu liệu điệu điệu vi báo tiên sinh mạc đả chi nhiễu hà dã văn bất gia điểm
+hạ tòa
+thượng đường vân đạt ma vị lai thử độ thời tu tín sự nguyên chân thật nhị tổ lễ tam
+bái nhi lập bất đắc man hữu thương lượng đại chúng hà cố nhân đáo vu kim nghi tình bất
+tức lương cửu viết tảo tri đăng thị hoả phạn thục dĩ đa thời trực nhiêu nhẫm ma tín đắc
+cập do thị thác thừa đương tự dư nhất thiết hà túc luận chi quy đường
+thượng đường kì quái tầm thường đạo xuất môn tiện tác hoàn hương kế trực chí như kim kế vị
+thành thành tai thị ngôn dã khởi bất kiến tăng vấn cổ đức học nhân dục quy hương thời như
+hà cổ đức viết tử phụ mẫu biến thân hồng lạn ngoạ tại kinh cức lâm trung tử quy hà
+xứ viết nhẫm ma tắc bất quy dã cổ đức viết khước tu quy khứ hữu cá tuyệt lương phương
+tử dữ nễ tăng viết tiện thỉnh cổ đức viết nhị thời thượng đường bất đắc giảo phá nhất lạp
+mễ đại chúng kinh cức lâm trung hồng lạn tận vô lộ hoàn hương nhị thời đường nội tuyệt lương
+phương khước tu quy khứ sở dĩ sơn tăng nhị thập niên phi vân sất nguyệt vị thuỷ du phương
+thập lai niên tiếp vật lợi sinh hà thường xuất thế chư nhân giai bả phụ mẫu khế khoán luận
+lượng tổ nghiệp điền viên tựu xích thuỷ dĩ cầu châu châu trầm xích thuỷ hướng kinh sơn nhi mịch
+ngọc ngọc ẩn kinh sơn thuyết đạo xích thuỷ vô châu kinh sơn vô ngọc thị cuống hô nễ thuyết
+đạo xích thuỷ hữu châu kinh sơn hữu ngọc diệc thị cuống hô nễ sơn tăng hữu thời hoạ phương
+thành viên chỉ nam thành bắc hà cố như thử cái vi chư nhân xướng hoàn hương khúc tử khúc
+điều bất viên thục lộ nan vô hương đàm vị cải phi chỉ nam chi bất diệu dã như hà
+đắc khúc điều viên khứ khởi bất kiến đạo bình khuy hồng lạn xứ sướng sát tử bình sinh hạ
+tòa
+thượng đường lương cửu vân sơn tăng kim nhật dữ chư nhân đồng sâm nhất cá chân thiện tri thức
+tiện hạ tòa
+thượng đường tăng vấn đức sơn nhập môn tiện bổng lâm tế nhập môn tiện ái vị thẩm sư như
+hà tiếp nhân sư vân bất khuy bất khiếm tấn vân tiện nhẫm ma khứ thời như hà sư vân
+đệ nhất bất đắc đoá căn sư phục vân quang âm thúc hốt biến hoá mật di thuỷ kiến vọng
+triêu hựu dĩ niệm nhật chư nhân hoàn tri quang âm bất biến hoá nhật nguyệt bất thiên lưu ma
+khoái tu cứu thủ tích nhật lục tổ đại sư tác cư sĩ thời ẩn ư quảng châu pháp tính
+tự ấn tông pháp sư tịch hạ ngộ dạ lang vũ gian hữu nhị tăng phong phan cạnh biện vị
+tận quyết lí tổ sư niếp bộ nhi vị viết khả dong tục sĩ đắc dự cao luận bất trực
+dĩ phi phong phan động nhân giả tâm động cáo chi đại chúng kì như dạ lai phong khởi thả
+đạo thị phong động bất thị phong động nhược đạo bất thị phong động như thử xúc liêm động hộ
+bá độ dương trần tác ma sinh bất thị phong động hoàn đoạn/đoán đắc xuất ma sơn tăng đạo dã
+bất thị phong động dã bất thị phan động dã bất thị tâm động hữu nhân thức đắc ma thanh
+sơn vô hạn hảo do đạo bất như quy trân trùng
+thượng đường lưỡng ngạn lô hoa nhất diệp chu lương phong thâm dạ nguyệt như câu ti luân thiên xích
+thung/dong phao phóng quy đáo gia sơn tức tiện hưu
+thượng đường cử tăng vấn triệu châu vạn pháp quy nhất nhất quy hà xứ châu vân ngã tại thanh
+châu tác nhất lĩnh bố sam trùng thất cân đại chúng chí âm tuyệt vận diệu khúc phi thanh thông
+thân bất quải thốn ti xích thể toàn vô kị huý chư nhân thiết mạc niêm cơ kỉ truy thị chỉ trực
+tu tiệt đoạn/đoán thiệt đầu phóng hạ thân tâm tự nhiên khoái hoạt nhãn nhược bất thụy chư mộng tự
+trừ tâm nhược bất dị phục danh hà vật khoái hoạt khoái hoạt quy đường khiết trà hạ tòa
+thượng đường nhược hữu nhất nhân phát chân quy nguyên thập phương hư không tất giai tiêu vẫn tùng tiền
+tiên thánh khởi bất phát chân quy nguyên như hà thập phương hư không chí kim thượng tại hựu vân
+âu diệt không bản vô huống phục chư tam hữu ảo âu kí diệt hư không vẫn vô tam hữu
+chúng sinh tùng tư điễn tụy tứ sinh cửu loại như hà đắc vô hựu vân thanh tịnh bản nhiên
+vân hà hốt sinh sơn hà đại địa kí sinh sơn hà đại địa như hà đắc phục thanh tịnh
+bản nhiên kí phục thanh tịnh bản nhiên vân hà khước kiến sơn hà đại địa đại chúng như hà
+tức thị lương cửu viết thuỷ tự trúc biên lưu khứ lãnh phong tùng hoa lí quá lai hương hảo
+đại ca quy đường
+kết hạ thượng đường huy qua phật nhật bất tây lưu chiếu triệt nhân gian đỗng cửu u tùng thử
+an cư vô nhất sự hưu tương huyền diệu quải tâm đầu
+ngũ tổ diễn hòa thượng thiên hoá di thư chí thượng đường tạc triêu lục nguyệt nhị thập lục vô
+giác thiết ngưu sinh tứ túc hao hống nhất thanh nhân vị tri hám động thiên quan tinh địa trục
+chích lí hựu tây quy xướng bãi hồ gia khúc khả lân mạt hậu thái phân minh vô hạn thanh
+thanh biến khê cốc ngã tiên sư xuất thế tứ thập dư niên ư thư kì nhị quận tứ toạ
+cự sa thùy từ khổ khẩu tiếp vật lợi sinh vị thường thiểu hạ ư nhị thập ngũ nhật tảo
+thăng tòa cáo chúng chí vãn tịnh phát quy phương trượng nhị thập lục nhật tảo an nhiên trường vãng
+tự thuỷ cập mạt tùng sơ chí chung tận thiện tận mĩ chân thiện tri thức thanh viễn thiểm thừa
+đề huấn thống thương khả lượng cổ nhân đạo tương thử thâm tâm phụng trần sa thị tắc danh vi
+báo phật ân tích nhật đại mai thiên hoá thượng đường văn ngô thử thanh nãi vân tức thử vật
+phi tha vật nhữ thiện hộ trì ngô đương thệ hĩ ngã tiên sư thượng đường cáo chúng vân phú
+hiềm thiên khẩu thiểu bần hận nhất thân đa dĩ kim hào cổ ti hào vô sai chư nhân hoàn
+tri đại mai đông sơn nhị lão tử khứ xứ ma nhược tri đắc tắc bất cô phụ tiên sư
+nhược dã vị tri hữu hàn thử hề xúc nhân thọ hữu quỷ thần hề đố nhân phúc hạ tòa
+thượng đường trác trụ trượng nhất hạ ái nhất ái vân bổng ái tề thí cổ phật tông tam huyền
+tam yếu tuyệt hồ tung bạch vân tiêu tán thanh sơn tại minh nguyệt lô hoa đối lục hồng hựu
+trác trụ trượng nhất hạ ái nhất ái hạ tòa
+giải hạ thượng đường dĩ nhất lạp giới tử kích tu la quật ư trung yến toạ cửu tuần chân
+lục hoàn tích trượng đăng tu di lô trực thượng an cư tam nguyệt ỷ trường tùng nhi tự thệ
+lâm lục thuỷ dĩ kinh hành chu du đán ấp tắc động chỉ tiêu tiêu y xứ tùng lâm tắc
+uy nghi tế tế khởi luận thành hoàng tụ lạc ninh phân thắng địa bảo phòng tâm nguyệt cô viên
+thần châu bính hoán lục môn hư tĩnh vạn pháp hàm như như thử hộ sinh khởi hữu sinh chi
+khả hộ như thử trì luật khởi hữu luật nhi khả trì nang nội lạp nhân thông thân tuyết lãnh
+thành kham khánh hạ hỉ hà như tai
+ngô cư sĩ vi sư long môn sang thản nhiên am thỉnh thượng đường tịnh danh cư sĩ tại gia
+nhân bất nhị môn thâm nhập giả thân nhất bát thượng phương hương tích phạn liêu liêu thiên cổ chuyển
+thông tân đại chúng duy ma pháp lực cư sĩ thần thông đoạn/đoán diệu hỉ thế giới lai vu thử
+trung trì hương tích phật phạn tất bão chúng hội tam vạn nhị thiên sư tử tòa bản nhĩ trang
+nghiêm thập phương tam thế chư như lai hiện tiền chứng cứ khán tha tác nhất trường phật sự chân
+cá hi kì giai bất tư nghị chi công huân tự tâm chi thần lực giả dã công minh cư
+sĩ hi phong ma cật tiếp tích bàng công đại tỉnh ảo thân cửu xu chính giác nguyện diên bình
+tích tu kiến am vũ toại nhĩ lai thử tụ tập thiền đồ kí đắc tích nhật lâm tế tài
+tùng thứ hoàng bách vấn vân thâm sơn lí tài hứa đa tùng tác thập ma tế vân nhất dữ
+sơn môn tác cảnh trí nhị dữ hậu nhân tác tiêu bảng đạo liễu dĩ sừ đầu đả địa lưỡng
+hạ bách vân ngô tông đáo tử đại hành vu thế đại chúng lâm tế sở tài giả tùng khả
+vị căn bàn sa giới diệp phú di lô tam hiền thập thánh vi khế tức chi phương chư phật
+tổ sư vi tác chỉ chi địa cố đắc hậu đại tử tôn xương thịnh vĩnh mậu tông chi tự
+cổ cập kim miên miên bất đoạn/đoán như kim chúng trung nhược hữu nhất viên thiền khách xuất lai đạo
+thâm sơn lí dụng khởi am tác thập ma sơn tăng dã kì hướng y đạo nhất dữ sơn môn
+tác cảnh trí nhị dữ hậu nhân tác tiêu bảng thả đạo dữ tha cổ nhân tướng khứ đa thiểu
+đại chúng nhất dữ sơn môn tác cảnh trí kiến giả đốn siêu vô học địa nhị dữ hậu nhân
+tác tiêu bảng phàm thánh ngộ mê giai nhất dạng nhược thị tùng lâm hướng thượng quan hữu nhân đạp
+trước hỉ vô lượng hạ tòa
+thượng đường thiểu thất vô ngôn ngữ tào khê hữu tiêu tức khả lân môn đại khai nhi nhân bất
+năng nhập thương long đắc vân vũ mãnh hổ sinh vũ dực đãn giải tự thừa đương hà lao vấn
+tri thức
+thượng đường tăng vấn kiếp hoả đỗng nhiên đại thiên câu hoại vị thẩm thử cá hoại bất hoại sư
+vân hắc tất dũng lí hoàng kim sắc tấn vân thỉnh sư đáp thoại sư vân nhàn ngôn ngữ sư
+phục vân cổ nhân đạo ngã hữu thời dương mi thuấn mục hữu thời bất dương mi thuấn mục hữu
+thời dương mi thuấn mục thị hữu thời dương mi thuấn mục bất thị như kim nhân bất uy đắc
+liễu tiện biệt tác giải hội thuyết đạo đắc để nhân đạo thị dã đắc bất thị dã đắc vấn
+y tác ma sinh thị đắc để nhân tiện đạo tha phân thượng bất thuyết đắc dữ bất đắc đắc
+dã hảo bất đắc dã hảo nãi trường hư nhất thanh viết hữu thập ma cộng ngữ xứ kì như
+cổ nhân đạo nhẫm ma dã bất đắc bất nhẫm ma dã bất đắc nhẫm ma bất nhẫm ma tổng
+bất đắc hựu tác ma sinh tha tiện đạo thử thị bật tích ngữ bật nễ ốc lí lão gia
+lão nương hựu vấn y thử thị bật tích ngữ bất bật tích ngữ như hà tiện đạo nhẫm ma
+dã đắc bất nhẫm ma dã đắc nhẫm ma bất nhẫm ma tổng đắc thử hoán tác thật đầu ngữ
+thật nễ ốc lí lão gia lão nương sư phục hu lưỡng thanh viết hữu thập ma cộng ngữ xứ
+phu vi nạp tăng tu tác nạp tăng thuyết thoại nễ đẳng hợp tác ma sinh mạc đạo long môn
+bất khẳng ngã mai một ngã tâm hành ngã áp lương ngã long môn nhẫm ma thị yếu nễ đáo
+bất yếu nễ đáo dã tu tử tế khán tường hảo trân trùng
+thượng đường tổng kí bất đắc thiên hoa mãn cách túng hữu thiên ngôn bất như nhất mặc hạ tòa
+thượng đường tích huyền sa đại sư thị chúng vân chư phương tầm thường tận đạo tiếp vật lợi sinh
+hốt ngộ tam chủng bệnh nhân như hà tiếp đắc hoạn manh giả lai niêm đôi thụ bật tha hựu
+bất kiến hoạn lung giả lai hướng tha thuyết tha hựu bất văn hoạn á giả lai giáo y thuyết
+hựu thuyết bất đắc nhược tiếp thử tam nhân bất đắc phật pháp vô linh nghiệm sư vân hảo chư
+huynh đệ hoàn tri chân thật tướng vi xứ ma sơn tăng bất tích mi mao vi chư nhân thuyết
+phá kì như chư nhân tầm thường hữu song nhãn hựu hà tằng kiến lai hữu song nhĩ hựu hà
+tằng văn lai hữu phiến thiệt hựu hà tằng thuyết lai kí vô thuyết vô văn vô kiến hà xứ
+hữu sắc thanh hương vị lai tuy nhiên như thị hựu năng hữu kỉ nhân đáo giả ban điền địa
+sở dĩ đạo mộc kĩ cơ thạch nữ nhi tam đông dương khí thịnh lục nguyệt giáng sương thời hữu
+ngữ phi can thiệt vô ngôn thiết yếu từ hội ngã tối hậu cú xuất thế thiểu nhân tri ngọ
+trai thần dục vô dư sự trản mính lô hương thoại đạo kì hạ tòa
+thượng đường phổ quang minh điện tại nhân gian phàm thánh giao la tuyệt vãng hoàn nhược hướng nhất trần
+thân đắc kiến hào quang chiếu xứ phụng từ nhan
+thượng đường tích nhật bá trượng đại trí thiền sư tái sâm mã tổ thị lập thứ tổ cử bật
+tử trượng vân tức thử dụng li thử dụng tổ quải khước bật tử vấn vân nễ tha hậu khai
+lưỡng phiến bì tương hà vi nhân trượng thủ bật tử thụ khởi tổ vân tức thử dụng li thử
+dụng trượng quải bật tử ư cựu xứ tổ tiện ái bá trượng trực đắc tam nhật nhĩ lung đại
+chúng thuyết thậm tam nhật nhĩ lung trực đắc long môn đả cổ thượng đường đại chúng tận giai vân
+tập tăng đường thôn phật điện lộ trụ đảo quải đăng lung thiên cao địa hậu nguyệt bạch phong
+thanh vũ thuận phong điều hà thanh hải yến cơ tắc cộng quân xan khổ thái hạt tắc dữ tử
+ẩm hàn toàn trực nhiêu thiên ngoại vũ hoa phi tranh tự quy đường khiết trà khứ hạ tòa
+thượng đường đài sơn lộ thượng quá khách toàn hi phá táo đường tiền cảm ân vô địa tuyết mai
+đình bách băng toả yển khê tuy tại nam phương hoả lô đầu bất nhập tha gia tê úng lí
+khán khán lạp nguyệt tam thập nhật tiện thị mạnh xuân do hàn nễ đẳng chư nhân các tu nỗ
+lực hướng tiền thiết kị tự sinh thối quật hạ tòa
+thượng đường sơn tăng đích tại tẩm đường trung pháp đường thượng vô sơn tăng tẩm đường thượng hữu sơn
+tăng hạ chí pháp đường pháp đường thượng hữu sơn tăng tẩm đường thượng vô sơn tăng hữu tắc tâm
+ngoại hữu pháp vô tắc tâm pháp bất chu chư thượng tòa tại y bát hạ văn đả cổ tiện
+thượng pháp đường pháp đường thượng thiêm đắc thượng tòa y bát hạ giảm khước thượng tòa thiêm tắc thành
+tăng giảm tắc thành diệt diệt cố lạc đoạn/đoán tăng cố lạc thường hành cước nhân như hà đắc li
+hữu li vô li thường li đoạn/đoán sinh tử nghi tình đại nan thấu thoát thử thị như lai thanh
+tịnh tâm yếu nghi tu quyết trạch bất khả đẳng nhàn quang cảnh thiên lưu động như phi tiến phù
+thế như thử nhân sinh kỉ hà bỉ thử xuất gia tam giới nghịch lữ trúc hộ mao đường thục
+vi kì chủ lãnh đạm cộng cư tịch mịch đồng trụ hà cố hà tân hà ưu hà lự hạ
+tòa
+hành giả lạc phát thượng đường lộ trụ đa niên xuất gia đăng lung cửu dĩ lạc phát phật điện
+kiên trì cấm giới tam môn cận đắc hưu yết đại sự bản lai bình đẳng vô trước thanh lương
+mãn nguyệt độ tận thảo mộc tùng lâm nhất tự dương hòa tề phát hạ tòa
+nguyên nhật thượng đường vạn vật hàm tân luận cố hương đài mâu nguyên thị cựu gia nương tiên xuân
+hoa phát hinh hương viễn vật ngoại sơn hà nhật nguyệt trường tăng vấn tích nhật bạt đà tôn giả
+vấn pháp chiếu đại sư vị thẩm dữ kim nhật thị đồng thị biệt sư vân cổ chi kim chi
+tấn vân tài tùng nhân lão nan truyền bát lô lão khu khu nhập lĩnh nam sư vân nễ thí
+cử cổ nhân để khán tấn vân trù khố tam môn chung lâu phật điện sư vân nhẫm ma hựu
+tranh đắc tấn vân hốt ngộ thất thủ bát cước để nhân lai hựu tác ma sinh sư vân tiệt
+đoạn/đoán cước căn đạo tương nhất cú lai tấn vân tạc nhật hữu nhân tùng thư châu khứ sư vân
+diệc thị du du giả phục cử tăng vấn bá trượng như hà thị kì đặc sự trượng vân độc
+toạ đại hùng phong tăng lễ bái trượng tiện đả sư vân thác đả nhân tăng vấn đức sơn như
+hà thị kì đặc sự sơn vân ngã tông vô ngữ cú diệc vô nhất pháp dữ nhân sư vân
+do giác ta tử tăng vấn la sơn như hà thị kì đặc sự la sơn vân đạo thập ma
+sư vân thành hà đạo lí đại chúng cổ nhân câu đầu trước nhị ý tại đắc ngư như kim
+tẩy cước thượng thuyền năng hữu kỉ cá hoặc nhược nhân vấn long môn như hà thị kì đặc sự
+sơn tăng hướng y đạo thử khứ thái hồ bất viễn nhẫm ma thuyết thoại hữu thậm kì đặc hựu
+hướng y đạo chỉ xích thị đường lê đại chúng hoàn hội ma đẳng nhàn như bất hội tu tác
+đẳng nhàn khán hạ tòa
+thượng đường thân trung hữu sinh lão bệnh tử niệm thượng hữu sinh trụ dị diệt quốc độ hữu thành
+trụ hoại không thử thập nhị chủng sự thậm năng kì đặc phàm phu bất thức vi chi phiêu lưu
+như lai xuất thế chỉ xuất niết bàn diệu tâm thường lạc/nhạc/nhạo ngã tịnh thí như hoàn đan nhất lạp
+điểm thiết thành kim chí lí nhất ngôn chuyển phàm thành thánh thử thập nhị chủng kì thị nhất pháp
+hiện định như kim lịch lịch thính pháp giả thị hoàn tín đắc cập ma nãi vân nguyệt trung đan
+quế thiên cấm lãnh tuyết lí hàn mai độc phóng hương hạ tòa
+thượng đường ngộ thời thử sự nguyên lai dị mê hậu tư môn thật đại nan xứ xứ lục dương
+kham hệ mã gia gia môn khẩu thấu trường an
+thượng đường tam nguyệt sơ tam nhị nguyệt nhị bất hoại giả danh đàm đại nghĩa chúng sinh dịch dịch
+sấn quang âm đạo lưu sở dĩ vi hư khí nhị nguyệt niệm cửu tam nguyệt nhất ma ha ban
+nhược ba la mật giả sứ đa văn đạt cổ kim lịch kiếp hà tằng dị kim nhật kim nhật
+sự tác ma sinh lương cửu viết hà canh kim nhật
+thượng đường tùng thượng chư thánh kiến nhân lạc/nhạc/nhạo trước trần lao bất cầu xuất li toại sinh lân
+chi tâm cáo chi viết nễ tùy thanh trục sắc danh viết cuồng nhân đại chúng hảo ngôn ngữ tàm
+quý chư thánh nhẫm ma đạo tuy nhiên như thị dĩ thị đả khai bố đại bất năng chiết hợp
+đắc long môn kim nhật đảo để khuynh xuất hữu nhân đắc giả vĩnh tức hi cầu nãi niêm trụ
+trượng trác nhất hạ vân khởi bất thị thanh nễ tầm thường tác ma sinh tùy hựu cử khởi trụ
+trượng viết khởi bất thị sắc nễ tầm thường tác ma sinh trục hoàn hội ma nhược năng tùy trục
+nguyên vô phọc tiện thị tùng lâm liễu đạt nhân cửu lập
+dục phật thượng đường như lai diệu sắc thân chân thật nan tạng phú bất quải bản lai y khởi
+trước nương sinh khố vô ưu thụ hạ giáng sinh thời nam bắc đông tây hành thất bộ hành thất
+bộ độ tận chúng sinh vô sở độ kim thần tứ nguyệt sơ bát ngã phật như lai giáng sinh
+chi nhật thiên hạ tinh lam tiên thang dục phật phật tắc tùng chư nhân dục thả đạo như hà
+thị phật yếu tri ma phật danh như lai thường tại bất diệt hữu nhân kiến đắc sơn tăng canh
+bất đao đao nhược vô nhân kiến đắc sơn tăng trùng thuyết kệ ngôn tạc nhật như lai thùy pháp
+vũ kim triêu pháp vũ tẩy như lai liễu nhiên nhất vị vô sai biệt vân ngoại thanh sơn đoá
+đoá khai dục báo như lai thâm ân điện thượng trùng tân dục quá hạ tòa
+kết hạ thượng đường long môn kết hạ thắng chư phương đại địa sơn hà vi cử dương nhược hướng
+cửu tuần sâm đắc thấu canh vô phật pháp khả thương lượng
+thượng đường vạn cổ trường không nhất triêu phong nguyệt cổ nhân nhẫm ma cáo báo đại hảo ngôn thuyên
+khởi khả dĩ nhất triêu phong nguyệt muội khước vạn cổ trường không khởi khả dĩ vạn cổ trường không
+bất minh nhất triêu phong nguyệt thử thị quảng đại thâm pháp tự tại chi tông nhược dã minh đắc
+hà xứ canh hữu nhất ti đầu thặng pháp lai cửu lập
+thượng đường tam nhật bất tướng kiến mạc tác cựu thời khán sơn tăng cận lai phi tích nhân dã
+thiên thị thiên địa thị địa sơn thị sơn thuỷ thị thuỷ tăng thị tăng tục thị tục biệt dã
+phi tích nhân dã hữu nhân vấn vị thẩm dĩ tiền như hà sơn tăng vãng thời thiên thị thiên
+địa thị địa sơn thị sơn thuỷ thị thuỷ tăng thị tăng tục thị tục sở dĩ mê tình ủng
+tế ế chướng tâm nguyên như kim biệt dã hoặc hữu nhân xuất lai đạo mỗ giáp diệc như hòa
+thượng thiên thị thiên địa thị địa sơn thị sơn thuỷ thị thuỷ tăng thị tăng tục thị tục hoàn
+đắc phủ bất khả trực thị vị tại hoàn hữu giản ban đắc ma nhược giản đắc thị thượng tòa
+đạo nhãn viên minh nhược giản bất đắc ti trúc huyên thiên thuyền thượng lạc/nhạc/nhạo ỷ la chiếu thuỷ ngạn
+biên nhân trân trùng
+thượng đường tăng vấn đạo viễn hồ tai xúc sự nhi chân như hà thị đạo sư vân đỉnh thượng
+bát xích ngũ tấn vân vị thẩm thử lí như hà sư vân phương viên thất bát thốn tấn vân
+hướng thượng nhất lộ hoàn hứa học nhân hội dã vô sư vân bất luận hướng thượng hướng hạ khước
+hứa nễ hội tấn vân nhẫm ma tắc đương xứ xuất sinh tùy xứ diệt tận sư vân đa thiểu
+nhân nhẫm ma thác hội tấn vân tác gia tông sư thiên nhiên hữu tại tiện lễ bái sư vân
+vị tằng dữ thượng tòa cộng hành tại sư phục vân thân thiết trung trực thị thân thiết tỉnh yếu
+trung trực thị tỉnh yếu hoàn hội đắc ma chư nhân tận thị phát chí thám huyền ý cầu xuất
+li sơn tăng giá lí chung bất niêm kim cử cổ thủ thị xả phi hoặc loạn chư nhân nễ
+nhược bất lai sơn tăng dã vô khả đắc thuyết nễ nhược thượng lai sơn tăng bất miễn tại nễ
+thân thượng cát nhất khối tử tự dữ nễ hoàn tri thống dương ma hốt nhiên tri đắc khả vị
+thân thiết dã nhược bất tri lai do tiện đạo giả nhất khối tử na lí đắc lai đắc nhẫm
+ma hương đắc nhẫm ma xú đắc nhẫm ma sinh đắc nhẫm ma thục hoàn uy đắc ma bất li
+đương xứ thường đam nhiên mịch tức tri quân bất khả kiến trân trùng
+thượng đường liễu tri nhất vạn sự tất thích ca di lặc hân kim nhật đãn đắc tâm an thị
+xứ an vô tai vô nan vô kim tích yếu tri phật pháp căn nguyên kí thủ ngũ nguyệt sơ
+nhất hạ tòa
+đoan ngọ thượng đường kim nhật đoan ngọ thế gian nhân đinh đào phù thư môn khổn sứ vạn tà
+bất khuy kì hộ bá quỷ bất nhập kì môn thế gian nhân hựu sứ châm thiêu cứu thái dược
+đăng sơn sứ vạn bệnh bất can kì thể dịch lệ bất nhập kì thân toại thất thanh khiêu viết
+a khẩu da khẩu da a khẩu da khẩu da tận đại địa nhân thiêu phá bì nhục giáo sơn tăng thụ vô hạn
+khổ thống tích sở đại phu dĩ trung ngôn bất dụng trầm vu tương giang hậu nhân ai chi dĩ
+trúc đồng thịnh phạn hệ ngũ sắc ti tế chi phong tục chí kim lưu truyền bất đoạn/đoán toại ẩu
+thổ số thanh viết thế gian nhân khiết khước mễ tống giáo lão tăng trướng phá đỗ bì đại chúng
+biệt nhân thiêu cứu biệt nhân khiết vật vi thập ma long môn trường lão thụ thống thụ bão vị
+năng tình vô duyên lự sự xuất kiến văn ư thử môn trung toại vi hí luận khởi bất kiến
+tiên thánh hữu ngôn viết hoài châu ngưu khiết hoà ích châu mã đỗ trướng thiên hạ mịch y nhân
+cứu trư tả bác thượng hà dã viễn tẩu bất như cận bồ bặc cửu lập
+thượng đường nhập đắc long môn sự sự kì văn thanh kiến sắc bất tư nghị sơn thanh thuỷ lục
+duyên hà sự tận thị chư nhân lực sứ chi
+thượng đường trác trụ trượng vân hoàn câu đắc ma mạc đạo kim nhật do giác ta tử trực tu
+hướng vô mô sách xứ khuynh tưu đảo nhạc câu đắc thuỷ đắc sơn tăng nhẫm ma đạo khả sát
+bất thức hảo ác tuy nhiên như thị trực nhiêu nễ câu đắc ngã canh vấn nễ tùng tiền sát
+đạo dâm vọng tội ẩm tửu thực nhục tội giáo thập ma nhân hoàn hựu trác trụ trượng vân kim
+cương tác xú phật thụ hương du
+đông sơn hòa thượng kị thần thượng đường tiên sư đương niên mạt hậu cú dữ nhân bì hạ thiêu
+xuất thứ thí như lục nguyệt nhật trung băng tiêu dung xứ xứ giai tướng tự hậu lai thính hưởng
+các lưu truyền canh gia nhất nhị dữ tam tứ cá trung thục thị vô nhĩ nhân minh kiến khứ
+lai bất sinh tử tiên sư lão hòa thượng mỗ phụng thị nhật cửu đa mông khổ khẩu đề tề
+truy viễn chi thành hà khả vô dã liêu thiết tiểu cung chư nhân thả đạo tiên sư hoàn lai
+dã vô nhược đạo lai nhập diệt thập dư niên như hà kiến đắc lai để đạo lí nhược đạo
+bất lai hựu dụng thiết trai tác thập ma đạo lai dã hữu giáo ngoa đạo bất lai dã hữu
+giáo ngoa nhược vi đắc vô giáo ngoa khứ hoàn tri đắc ma tam cá hồn lôn thiết tuấn hãm
+nhất song vô phúng mộc man đầu cửu lập
+thượng đường đại chúng hoặc hữu nhân hoán thượng tòa thượng tòa tiện ưng thiết sứ bất ưng tâm trung
+dã tu lĩnh lãm kim thời học nhân tiện đạo ưng để thị dã lĩnh lãm để thị dã nhược
+như thử hội tiện thị nhập địa ngục hán tử thị tức thả trí thả đạo diện tiền thị a
+thùy hoán nễ thị hữu nhân hoán da thị vô nhân hoán da hoàn tài đoạn/đoán đắc ma nhược thị
+hữu nhân hoán sơn tinh quỷ mị hoán nễ thời thiên ma ngoại đạo hoán nễ thời như hà ban
+bạch nhược đạo vô nhân hoán nễ hựu bất lung bất sĩ như hà đắc vô nhân hoán giả cá
+thị thập nhị thời trung sinh tử lộ đầu sự chư nhân minh đắc ma hữu nhân hoán sinh mê
+loạn vô nhân hoán tao hệ bán nhược năng hành sinh tử đoạn/đoán vạn lưỡng kim chung bất hoán hạ
+tòa
+giải hạ thượng đường tì mục tiên nhân chấp thiện tài thủ đốn kiến quá khứ vi trần chư phật
+cập kì phóng thủ uyển nhiên y cựu long môn trường lão lĩnh chư đại chúng viên ư thử địa
+kết túc an cư cập kì giải hạ uyển nhiên y cựu thiện tài y cựu xứ vi trần chư
+phật hàm nhiếp hữu quy đại chúng y cựu xứ tam nguyệt cửu tuần liễm thu vô tích hoàn hội
+ma mao đoan tạng sa hải giới tử nạp tu di bất li kiến văn duyên siêu nhiên đăng thập
+địa tứ sinh lục đạo tức tâm tự tính tam đồ bát nan phổ hiện sắc thân cư hoa tạng
+hải chi trung trụ bất tư nghị chi nội như tư chi chỉ nãi ngô bối chi thường phân nhĩ
+hoàn tín đắc cập ma
+thượng đường kim nhật thất nguyệt nhị thập giải hạ lai hựu thị ngũ nhật dã nễ thiền tăng gia
+tận đạo ngã hội dã thả đạo kim nhật thị thất nguyệt nhị thập bất thị thất nguyệt nhị thập
+hoặc nhược đương thử nhất vấn ư phật pháp trung như hà kì đối hữu để sư tăng đạo nễ
+hà bất vấn bản phân sự giả cá thị thế gian nhật nguyệt đại chúng na cá thị thế gian
+nhật nguyệt hựu khởi hữu bất quản để pháp hựu hữu sư tăng đạo bất động thế gian nhất tinh
+tử tựu thượng tiện minh thủ nhẫm ma sự kim nhật thất nguyệt nhị thập dã đại chúng na lí
+thị bất động để nhất tinh tử đắc an lạc/nhạc/nhạo để nhân chung bất tác giả ban khứ tựu sơn
+tăng vấn nễ kim nhật thị thất nguyệt nhị thập bất thị thất nguyệt nhị thập hữu nhân minh đắc
+ma cổ nhân vân thế gian sự minh bất đắc phật pháp đại viễn tại giả lí nhược phân sơ
+bất thượng nhất thiết xứ ngại tắc sát nhân hoàn tri ma đại hoả tụ trung nan trước thủ thanh
+lương địa nội dị an thân cửu lập
+thượng đường cử tăng vấn vân cư như hà thị đạo trung nhân đối vân như tử nhân thủ đạo
+trung nhân tướng kiến thời như hà đối vân như tử nhân nhãn đại chúng tác ma sinh thị như
+tử nhân thủ sư niêm trụ trượng vân bất chấp tróc chẩm sinh thị như tử nhân nhãn sư phách
+khai nhãn vân bất chiếu chúc nễ chư nhân hảo hội thủ kì như tiền nhật tống vong tăng sơn
+tăng đạo nhất đội tử hán tống cá hoạt hán hữu nhân hội nhẫm ma thuyết thoại ma chẩm sinh
+thị nhất đội tử hán sư vân di thân bất di bộ chẩm sinh thị nhất cá hoạt hán sư
+vân vạn cơ câu bất đáo hậu sinh huynh đệ sơ thu hạ mạt hà bất hao hống nhất thanh
+bích lập thiên nhận linh ngã tri đạo nễ thị cá nhân hướng hoạt trung minh thủ tử cú tử
+trung minh thủ hoạt cú nhược bất nhiên giả cầu sinh bất đắc sinh cầu tử bất đắc tử khiết
+tân khổ dã trực tu hao hống nhất thanh hạ tòa
+thượng đường tăng vấn đạo tại thung/dong khai khẩu thi thành tự điểm đầu thời như hà sư điểm đầu
+số hạ tăng vân kim nhật đắc ngộ dã sư vân mạc loạn khai khẩu sư phục vân chư nhân
+mỗi nhật hành thiên hành vạn bất thị bất đáo hà cố khước bất phân hiểu kì vi tín chi
+bất cập nhược tín đắc cập tắc bất hành nhi đáo dã thập phương thế giới sự bất đãi tư
+lượng nhất thời hiểu liễu đắc chư nhân mỗi nhật thuyết thiên thuyết vạn bất thị thuyết bất đáo hà
+cố khước bất phân hiểu diệc thị tín chi bất cập nhược dã tín đắc cập tắc thật vô sở
+thuyết dã tam thế như lai sở thuyết chi pháp bất đãi tư lượng nhất thời hiểu liễu đắc đại
+chúng hoàn đáo nhẫm ma điền địa dã vị ngã thử tông môn kì luận chứng ngộ bất luận hội
+giải nhược thị vi sinh tử để nhân tu cầu thân chứng nhược thị nhân ngã sâm học chi nhân
+sỉ vi bất hội tu cầu mịch giải hội đáo xứ mịch tướng tự ngữ cú đệ tướng ấn chứng
+diệt hồ chủng tộc dĩ hậu hồ loạn giáo hoại nhân gia nam nữ ngã thử môn trung đô vô
+thị sự hoàn tri ma lung nhân dã xướng hồ già khúc hảo ác cao đê tự bất văn
+thượng đường thế nhân tận đạo lộ hành nan bản phân chân kim nhập hoả khán luyện khứ luyện lai
+kim thể tịnh nhất đôi đả tác ngọc lan can
+thỉnh hoá chủ thượng đường nhất can nhất lạp nhất soa y cấp thuỷ than đầu hạ điếu ti câu
+thượng cẩm lân dong dị đắc lô hoa thâm xứ nguyệt minh quy cử cổ nhân vấn tam tôn tú
+nhị long tranh châu thùy thị đắc giả nhất vân đắc tức thất nhất vân lão tăng kì quản khán
+nhất vân thùy thị bất đắc giả sư viết đắc tức thất trước mang tác thập ma lão tăng kì
+quản khán khán tế thập ma sự mạt hậu nhất tắc ngữ thùy thị bất đắc giả nhược nhân hội
+đắc tổ sư ngôn cú nhất đại tạng giáo tự nhiên bất nghi khứ hoàn minh đắc ma thùy thị
+bất đắc giả phi thủ diệc phi xả mã tái lư đà thời tiện thị quy lai dã hạ tòa
+thượng đường đả động long môn cổ hoán khởi thiết tuấn hãm thỉnh quân nhất giảo phá sơn tăng khởi
+tướng trám tiên sư tằng đắc lực tư vị kim bất giảm nhược dã bất nại hà hảo cá thiết
+tuấn hãm
+thượng đường cử trường sa hòa thượng vân ngã nhược nhất hướng cử dương tông giáo pháp đường tiền thảo
+thâm nhất trượng thành tai thị ngôn dã huyền sa hòa thượng vân nhân nhữ điên đảo tri kiến phương
+hữu vãng lai thành tai thị ngôn dã long môn tầm thường kiến nhữ chư nhân nhẫm ma sở dĩ
+hướng nhữ đạo bất nhẫm ma nễ tu thị bất nhẫm ma thuỷ đắc chư nhân bất nhẫm ma long
+môn sở dĩ hướng nhữ đạo nhẫm ma nễ tu thị nhẫm ma thuỷ đắc chư nhân đạo nhẫm ma
+bất nhẫm ma long môn sở dĩ đạo phi nhẫm ma phi bất nhẫm ma nễ tu thị phi nhẫm
+ma phi bất nhẫm ma thuỷ đắc chư nhân phi nhẫm ma phi bất nhẫm ma long môn sở dĩ
+đạo nhẫm ma bất nhẫm ma nễ tu nhẫm ma bất nhẫm ma thuỷ đắc đại chúng tình vong trí
+hiện bệnh khứ dược trừ khởi bất thị cá thoát sái nạp tăng long môn tầm thường hoàn hữu nhất
+cú tử đáo chư nhân phân thượng ma bất kiến tăng vấn mã đại sư li tứ cú tuyệt bá
+phi thỉnh sư trực chỉ tây lai ý đại sư vân ngã kim nhật vô tâm tình nhữ khứ vấn
+thủ trí tạng tăng vấn trí tạng tạng vân kim nhật đầu đông nhữ khứ vấn thủ hải huynh tăng
+hựu khứ vấn hải hải vân ngã đáo giả lí khước bất hội tăng cử tự mã đại sư sư
+vân tạng đầu bạch hải đầu hắc đại chúng thuyết bạch đạo hắc lí thậm phân minh chư nhân hoàn
+kiến mã đại sư ma cửu lập dã thái vô đoan
+thượng đường vân nhược luận thử sự như trung thu dạ vọng viên nguyệt tướng tự tịnh vô vân ế
+nhân giai kiến chi nam diêm phù đề vô sở bất chiếu chư nhân các tại tha hương dị đán
+các hữu phụ mẫu gia sơn nễ đạo bỉ trung hoàn hữu ma sơn xuyên khê cốc huýnh tuyệt vô
+nhân đáo xứ bỉ trung hoàn hữu ma hựu tranh đắc vô lai nhân các tự vị đắc kiến thị
+nguyệt nhiên thử mãn nguyệt bất thử phương lai bất bỉ phương khứ nhược thử phương lai bỉ tắc vô
+dã nhược bỉ phương khứ thử hà cố kiến chi tứ duy thượng hạ diệc phục như thị sở dĩ
+đạo tịnh an thiên khí thiên khí giai viên nhất đạo trừng giang nhất nguyệt cô oánh tích hữu nhân
+chỉ nguyệt vấn nam toàn hòa thượng hà thời đắc nhẫm ma khứ nam toàn viết vương lão sư nhị
+thập niên tiền diệc tằng nhẫm ma lai đại chúng hướng nễ đạo thử sự vô nễ bốc độ xứ
+vô nễ danh mạc xứ như kim thiền hòa gia tận đạo ngã hội đắc dã thập ma xứ thị
+chiếu bất trước thả vấn nễ chiếu đắc trước để sự thượng tòa tiền sinh tự hà thú trung lai
+thử thân một hậu phục sinh hà xứ tác thiên da nhân da địa ngục da ngạ quỷ da tác
+súc sinh da nhược bất uy tri không nhiên hữu thử ngữ yếu tác hà dụng mã đại sư nhất
+nhật ngoạn nguyệt thứ nhị tam đệ tử thị tòa đại sư viết chính đương nhẫm ma thời như hà
+tây đường viết đại hảo cung dưỡng bá trượng viết đại hảo tu hành nam toàn bật tụ nhi khứ
+đại sư viết kinh quy tạng thiền quy hải duy hữu phổ nguyện độc siêu vật ngoại khán tha như
+tư luận lượng dã đại kì quái đại sư trí thử nhất vấn chư đại sĩ trực đắc tức kình
+bổ tị vọng tác toàn nhân tắc hác di phong quý tựu bình thản hoàn khế đắc mã đại sư
+thử nhất vấn ma uy tất đắc ma lương cửu viết hạnh vô thiên chiếu xứ cương hữu bất minh
+thời
+thượng đường tổ sư vân diệc mạc ái thánh tăng phàm hội đắc phàm phu pháp tiện thị thánh nhân
+pháp thức đắc thánh nhân pháp tức thị phàm phu pháp tận tri đạo phàm thánh bất nhị vi thập
+ma phàm phu phiêu lưu chư thánh giải thoát hựu đạo diệc mạc phao mê tựu ngộ như kim ngộ
+để thị hướng lai mê để như kim mê để thị hướng lai ngộ để tận tri đạo mê ngộ
+bất nhị vi thập ma mê giả y tiền Ủng tắc ngộ giả y cựu tinh tinh chư nhân hoàn
+ban minh đắc ma phàm thánh ngộ mê như thấu liễu đỗng nhiên minh kiến bản lai nhân cảm vấn
+đại chúng như hà thị bản lai nhân tầm thường sư tăng gia đạo thập ma xứ bất kiến bản
+lai nhân lư thần tiên sinh khởi thị tứ châu đại thánh hựu đạo cừ vô diện mục thậm xứ
+phùng cừ viễn thuỷ bất cứu cận hoả li thử nhị đồ như hà thị bản lai nhân lương cửu
+vân thiết sứ văn lai ngộ tranh như tự đắc thân hạ tòa
+thượng đường tích vô trước hòa thượng du ngũ đài lễ bái văn thù đáo sơn hạ đầu nhất tự
+tú ngộ nhất lão tăng kì đãi thứ vấn vô trước viết thượng nhân tự hà nhi lai vô trước
+viết nam phương lai lão tăng viết nam phương phật pháp cận nhật như hà vô trước viết mạt pháp
+tỉ khâu thiểu phụng giới luật tăng viết đa thiểu chúng trước viết hoặc tam bá hoặc ngũ bá trước
+vấn hòa thượng thử gian phật pháp như hà trụ trì tăng viết phàm thánh đồng cư long xà hồn
+tạp trước viết đa thiểu chúng tăng viết tiền tam tam hậu tam tam trước bất tỉnh toại linh đồng
+tử dĩ lưu li trản điểm trà độ dữ trước toại vấn viết nam phương hoàn hữu giả cá ma
+trước vân vô viết kí vô tương thập ma khiết trà trước hựu bất tỉnh phục linh đồng tử tống
+xuất môn ngoại trước quan tự vô ngạch nãi vấn đồng tử thử tự nhân hà vô ngạch đồng tử
+chỉ bội hậu kim cương trước hồi cố hốt nhiên bất kiến đồng tử chỉ kiến thân tại nhất lâm
+trung đại chúng vô trước viễn viễn du ngũ đài lễ bái văn thù cập hồ thân kiến yếu thả
+bất thức thành thật khổ tai thị cố minh chiêu hòa thượng tụng vân khuếch chu sa giới thánh già
+lam mãn mục văn thù tiếp thoại đàm ngôn hạ bất tri khai phật nhãn hồi đầu kì kiến thuý
+sơn nham tuyết đậu hòa thượng diệc hữu tụng vân thiên phong bàn quật sắc như lam thùy vị văn
+thù thị đối đàm kham tiếu thanh lương đa thiểu chúng tiền tam tam dữ hậu tam tam đại chúng
+thử nhị tụng thông cổ triệt kim mĩ tắc mĩ hĩ yếu thả bất kiến văn thù sơn tăng kim
+vi chư nhân tụng xuất nãi vân thanh sơn môn ngoại bạch vân phi lục thuỷ khê biên dẫn khách
+quy mạc quái toạ lai tần khuyến tửu tự tùng biệt hậu kiến quân hi hạ tòa
+thượng đường kháo trụ trượng kiên thượng vị chúng viết hảo tiếu hảo tiếu nãi a a nhi tiếu tạc
+nhật hữu lưỡng nhân cộng thuyết nhất kiện sự dữ sơn tăng sơn tăng văn đắc nhất dạ tiếu đắc
+trường đỗ thống hựu a a nhi tiếu đại chúng yếu tri ma hữu nhất nhân vân kim nhật thị
+sơ tam quan lịch thượng tả lai thôn lí nhân đạo thị sơ tứ nãi thôn hạ lịch đầu vấn
+lão tăng đạo thị sơ tam ma sơn tăng hướng đạo thị sơ tam thị quan lịch ma sơn tăng
+vân thị quan lịch thôn lí vị chi sơ tứ thị thôn hạ lịch đầu ma sơn tăng vân sơ
+tứ thị thôn hạ lịch đầu kì nhân điểm đầu hựu hữu nhất nhân vân kim nhật thị sơ tứ
+quan lịch thượng tả lai thôn lí nhân đạo thị sơ tam nãi thôn hạ lịch đầu trường lão như
+hà sơn tăng hướng y đạo thị sơ tứ sơ tam thị thôn hạ lịch đầu kì nhân điểm đầu
+lưỡng nhân tướng kiến cụ thuyết kì sự nhất nhân vân trường lão hướng ngã đạo thị sơ tam nhất
+nhân vân trường lão hướng ngã đạo thị sơ tứ lưỡng nhân toại lai kiến sơn tăng vân kim nhật
+thị sơ tam thị sơ tứ sơn tăng văn đắc tiếu sát lưỡng nhân vân trường lão bất yếu cốt
+vịnh vĩnh thuẫn hảo hảo phân minh thuyết sơn tăng hướng đạo nhữ tự bất phân minh hà xứ thị cốt vịnh vĩnh thuẫn
+đại chúng hội đắc thử ý ma sơn tăng kiến y bất hiểu dã bất nại hà chúng trung thiền
+tăng đạo trường lão như hà minh cổ tập chúng liễu dã bất thuyết ta phật pháp cập tổ sư
+tây lai ý khước lí hội thế gian nhàn nhật tử thử thị thế nhân tình kiến sơn tăng văn
+liễu vấn y đạo thế gian hữu thập ma nhàn nhật tử hựu na cá thị tình kiến bả lai
+khán y nguyên lai bất hội kiến y bất hội canh tác cá tụng tử cử tự y tụng đạo
+ngôn thân sự diệc thân vô nguỵ diệc vô chân ngu tục xưng vi ngã tà đồ hoán tác thần
+thị ngã hà tằng ngã ngôn thần khởi thị thần nhân sinh tu đặc đạt nãi đề trụ trượng hạ
+thiền sàng viết trượng lục tử kim thân tòa tiền hựu vị chúng viết dã bất quật trước nễ
+thượng đường tăng vấn đại dụng hiện tiền bất tồn quỹ tắc thời như hà sư vân thùy tín nễ
+tăng tiện ái sư vân canh tấn nhất bộ khán tăng vân hạnh hữu nhất cung tam hạ tiến đương
+cơ yếu xạ bất bình nhân sư vân thiểu niên tằng quyết long xà trận lạo đảo hoàn đồng trĩ
+tử ca tăng hựu ái sư vân nguyên lai kì thị dã hồ tinh tăng lễ bái sư vân hà
+tằng đại dụng hiện tiền sư phục vân cổ lai hữu nhất nhân nam toàn hòa thượng chư nhân hoàn
+thức phủ nhược thức đắc nhất sinh bất không quá hảo nam toàn hòa thượng mạc giáo kiến nhi bất
+thức hoàn thức ma tằng hữu nhất tục sĩ vấn viết đệ tử gia trung hữu phiến thạch dã tằng
+toạ dã tằng ngoạ như kim dục tuyên tác phật bất tri hoàn đắc phủ nam toàn vân đắc mạc
+bất đắc ma bất đắc hữu nhân minh đắc thử chỉ dã vô nam toàn đạo đắc long môn vân
+hảo cá phật nam toàn đạo bất đắc long môn vân hảo phiến thạch hoàn kiến phủ thị tha đạo
+đệ tử gia trung tác ma sinh thuyết gia gia tại thập ma xứ chư nhân giả thân tùng gia
+lí lai gia trung hà sở hữu trì thử nhất phiến thạch quảng đại kiên thả cửu linh sơn tằng
+hiến phật đế thích liêu cử thủ tâm trung xuất hà vật an lạc/nhạc/nhạo tinh trường thọ hạ tòa
+
+> cổ tôn tú ngữ lục quyển chi nhị thập thất chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển đệ nhị thập bát
+cổ tôn tú ngữ lục quyển chi nhị thập bát
 
-vân môn khuông chân thiền sư quảng lục trung
-môn nhân minh thức đại sư tứ tử thủ kiên tập
-thất trung ngữ yếu
-sư thị chúng vân tận thập phương thế giới kiền khôn đại địa dĩ trụ trượng nhất hoạ bá tạp
-toái tam thừa thập nhị phân giáo đạt ma tây lai phóng quá tức bất khả nhược bất phóng quá
-bất tiêu nhất ái
-sư thị chúng vân tây thiên nhị thập bát tổ đường độ lục tổ thiên hạ lão hòa thượng tổng
-tại trụ trượng đầu thượng trực nhiêu hội đắc thích thảng phân minh kì tại bán đồ nhược bất phóng
-quá tận thị dã hồ tinh sư nhất nhật vân cổ lai lão tú giai vi từ bi chi cố
-hữu lạc thảo chi đàm tùy ngữ thức nhân nhược thị xuất thảo chi đàm tức bất dữ ma nhược
-dữ ma tiện hữu trùng thoại hội ngữ bất kiến ngưỡng sơn hòa thượng vấn tăng cận li thậm xứ
-tăng vân lư sơn ngưỡng sơn vân tằng du ngũ lão phong ma tăng vân bất tằng du ngưỡng sơn
-vân xà lê bất tằng du sơn sư vân thử ngữ giai vi từ bi chi cố hữu lạc thảo
-chi đàm sư hữu thời vân nhược ngôn tức tâm tức phật quyền thả nhận nô tác lang sinh tử
-niết bàn kháp tự trảm đầu mịch hoạt nhược thuyết phật thuyết tổ phật ý tổ ý đại tự tương
-mộc tử hoán khước nễ nhãn tình tướng tự cử cổ vân văn thanh ngộ đạo kiến sắc minh
-tâm sư vân tác ma sinh thị văn thanh ngộ đạo kiến sắc minh tâm nãi vân quan thế âm
-bồ tát tương tiền lai mãi hồ bính phóng hạ thủ vân nguyên lai kì thị man đầu sư hữu
-thời vân đăng lung thị nễ tự kỉ bả bát vu sàng phạn phạn bất thị nễ tự kỉ hữu
-tăng tiện vấn phạn thị tự kỉ thời như hà sư vân giả dã hồ tinh tam gia thôn lí
-hán phục vân lai lai bất thị nễ đạo phạn thị tự kỉ tăng vân thị sư vân lư niên
-mộng kiến tam gia thôn lí hán sư hữu thời vân chân không bất hoại hữu chân không bất dị
-sắc tăng tiện vấn tác ma sinh thị chân không sư vân hoàn văn chung thanh ma tăng vân thử
-thị chung thanh sư vân lư niên mộng kiến ma cử sơ sơn hòa thượng vấn tăng thập ma xứ
-lai tăng vân lĩnh trung lai sơn vân tằng đáo tuyết phong ma tăng vân tằng đáo sơn vân ngã
-dĩ tiền đáo thời thị sự bất túc như kim tác ma sinh tăng vân như kim túc dã sơn
-vân dục túc phạn túc tăng vô ngữ sư vân dục túc phạn túc cử phu thượng tòa sâm tuyết
-phong phong văn nãi tập chúng phu đáo pháp đường thượng cố thị tuyết phong tiện hạ khán tri sự
-minh nhật khước thượng lễ bái vân mỗ giáp tạc nhật xúc ngỗ hòa thượng phong vân tri thị ban
-sự tiện hưu thời hữu tăng vấn sư tác ma sinh thị xúc ngỗ hòa thượng xứ sư tiện đả
-cử tăng vấn tư phúc cổ nhân niêm đôi thụ bật ý chỉ như hà phúc vân cổ nhân dữ
-ma na tăng vân niêm đôi thụ bật hựu tác ma sinh phúc tiện ái xuất sư vân cổ nhân
-thị thập ma nhãn mục tăng vân hòa thượng tác ma sinh sư vân lư niên hội ma tăng vô
-đối sư phục triệu tăng lai lai tăng cận tiền sư dĩ bật tử mạch khẩu đả cử tam bình
-tụng vân tức thử kiến văn phi kiến văn sư vân hoán thập ma tác kiến văn vô dư thanh
-sắc khả trình quân sư vân hữu thập ma khẩu đầu thanh sắc cá trung nhược liễu toàn vô sự
-sư vân hữu thập ma sự thể dụng vô phương phân bất phân sư vân ngữ thị thể thể thị
-ngữ phục niêm khởi trụ trượng vân trụ trượng thị thể đăng lung thị dụng thị phân bất phân bất
-kiến đạo nhất thiết trí trí thanh tịnh cử nhất tú giác vân ảo hoá không thân tức pháp thân
-sư niêm khởi trụ trượng vân tận đại địa bất thị pháp thân cử tăng vấn triệu châu mỗ giáp
-sạ nhập tùng lâm khí sư chỉ thị châu vân khiết dục liễu dã vị tăng vân khiết dục liễu
-dã châu vân tẩy bát vu khứ sư vân thả đạo hữu chỉ thị vô chỉ thị nhược đạo hữu
-chỉ thị hướng tha đạo thập ma nhược đạo vô chỉ thị giả tăng hà đắc ngộ khứ cử tăng
-vấn tuyết phong khí sư chỉ thị phong vân thị thập ma kì tăng ư ngôn hạ đại ngộ sư
-vân tuyết phong hướng y đạo thập ma sư hữu thời vân bình địa thượng tử nhân vô số quá
-đắc kinh cức lâm thị hảo thủ tăng vân dữ ma tắc đường trung đệ nhất tòa hữu trường xứ
-dã sư vân tô lỗ tô lỗ cử vô tình thuyết pháp hốt văn chung thanh vân thích ca lão
-tử thuyết pháp dã mạch niêm khởi trụ trượng vấn tăng giả cá thị thập ma tăng vân trụ trượng
-tử sư vân lư niên mộng kiến sư nhất nhật vân tam gia thôn lí mại bốc đông bốc tây
-bốc hốt nhiên bốc trước dã bất định tăng tiện vấn hốt nhiên bốc trước thời như hà sư vân
-phục duy sư hữu thời vân đại dụng hiện tiền bất tồn quỹ tắc tăng tiện vấn như hà thị
-đại dụng hiện tiền sư nãi niêm trụ trượng cao thanh xướng vân thích ca lão tử lai dã sư
-hữu thời dĩ trụ trượng đả hoả lô nhất hạ đại chúng nhãn mục định động sư nãi vân hoả
-lô bột đào thượng tam thập tam thiên kiến ma kiến ma chúng vô ngữ sư vân vô trí nhân
-tiền mạc thuyết đả nễ đầu phá bá liệt sư hữu thời vân khán khán pháp thân biến tác đăng
-lung siêu phật việt tổ chi đàm tùng nễ cước căn hạ quá dã tăng vân cước căn hạ nhận
-đắc thời như hà sư vân độn trí sát ngã tăng vân dữ ma tắc huýnh nhiên bất tại giả
-lí dã sư vân thập vạn bát thiên cử bàn sơn ngữ vân quang cảnh câu vô phục thị hà
-vật sư vân trực nhiêu dữ ma đạo do tại bán đồ vị thị thấu thoát nhất lộ tăng tiện
-vấn như hà thị thấu thoát nhất lộ sư vân thiên đài hoa đỉnh triệu châu thạch kiếu cử ngưỡng
-sơn vân như lai thiền tức hứa sư huynh hội tăng tiện vấn như hà thị như lai thiền sư
-vân thượng đại nhân hựu niêm khởi phiến tử vân ngã hoán tác phiến tử nễ hoán tác thập ma
-tăng vô ngữ sư vân phiến tử thượng thuyết pháp đăng lung lí tạng thân tác ma sinh tăng khước
-vấn như hà thị hòa thượng thiền sư sất vân nguyên lai kì tại giả lí cử tuyết phong hoán
-tăng cận tiền lai tăng cận tiền phong vân khứ sư cử liễu vấn tăng nễ tác ma sinh đạo
-đắc xoa thủ cú nễ nhược đạo đắc xoa thủ cú tức kiến tuyết phong cử tam tổ vân nhất
-tâm bất sinh vạn pháp vô cữu sư vân kì giả lí ngộ liễu nãi niêm khởi trụ trượng vân
-kiền khôn đại địa hữu thập ma quá cử nhất tú giác vân nhất thiết số cú phi số cú
-dữ ngô linh giác hà giao thiệp sư vân hành trụ tòa ngoạ bất thị linh giác hoán thập ma
-tác số cú cử bàn sơn vân quang cảnh câu vô phục thị hà vật sư vân đông hải lí
-tạng thân tu di sơn thượng tẩu mã phục dĩ trụ trượng đả sàng nhất hạ đại chúng nhãn mục
-định động nãi niêm trụ trượng sấn tán vân tương vị linh lợi giả tất dũng cử tăng vấn kiền
-phong thập phương bạc già phạm nhất lộ niết bàn môn vị thẩm lộ đầu tại thập ma xứ phong
-dĩ trụ trượng hoạch vân tại giả lí sư niêm khởi phiến tử vân phiến tử bột đào thượng tam
-thập tam thiên trúc trước đế thích tị khổng đông hải lí ngư đả nhất bổng vũ tự bồn khuynh
-tướng tự hội ma sư hữu thời vân chư phương niêm đôi thụ bật vân hội ma đãn vân mạc
-áp lương vi tiện khước vân thị thị đãi y nghĩ nghị tiện đả cử giáo vân tâm sinh chủng
-chủng pháp sinh tâm diệt chủng chủng pháp diệt nãi niêm khởi trụ trượng vân trùng đa thiểu tăng vân
-bán cân sư vân lư niên mộng kiến cử giáp sơn ngữ vân bá thảo đầu thượng tiến thủ lão
-tăng sư hợp chưởng vân bất thẩm bất thẩm hựu dĩ trụ trượng chỉ lộ trụ vân giáp sơn biến
-tác lộ trụ dã khán khán cử ngưỡng sơn vấn tăng cận li thậm xứ tăng vân hướng nam sơn
-niêm khởi trụ trượng vân bỉ trung hoàn thuyết giả cá ma tăng vân bất thuyết sơn vân bất thuyết
-giả cá hoàn thuyết na cá ma tăng vân bất thuyết sơn triệu đại đức sâm đường khứ kì tăng
-tiện khứ sơn phục triệu kì tăng tăng ưng nặc sơn vân cận tiền lai tăng cận tiền sơn tiện
-đả sư vân ngưỡng sơn nhược vô hậu ngữ tranh thức đắc nhân cử tuyết phong hoán tăng cận tiền
-lai tăng cận tiền phong vân thậm xứ khứ tăng vân phổ thỉnh khứ phong vân khứ sư vân thử
-thị tùy ngữ thức nhân cử sâm đồng khế vân hồi hỗ bất hồi hỗ sư vân tác ma sinh
-thị bất hồi hỗ nãi dĩ thủ chỉ bản đầu vân giả cá thị bản đầu tác ma sinh thị
-hồi hỗ sư vân hoán thập ma tác bản đầu cử kiến văn giác tri vô chướng ngại thanh hương
-vị xúc thường tam muội sư vân nhất thiết xứ bất thị tam muội hành thời bất thị tam muội
-hữu xứ vân thanh hương vị xúc thể tại nhất biên thanh hương vị xúc tại nhất biên kiến giải
-thiên khô cử giáp sơn toạ thứ đỗng sơn đáo lai vân tác ma sinh giáp sơn vân kì dữ
-ma sư đại đỗng sơn vân bất phóng quá hựu tác ma sinh đại giáp sơn tiện ái sư hựu
-niêm giáp sơn vân kì dữ ma nguyên lai kì tại hà mạc quật lí hựu vân kì dữ ma
-dã nan đắc cử tổ sư kệ vân pháp pháp bản lai pháp sư vân hành trụ toạ ngoạ bất
-thị bản lai pháp nhất thiết xứ bất thị bản lai pháp kì như sơn hà đại địa dữ nễ
-nhật tịch trước y khiết phạn hữu thập ma quá hựu vân pháp bản pháp vô pháp sư niêm khởi
-trụ trượng vân bất thị bản vô pháp cử phó đại sĩ tụng vân không thủ bả sừ đầu bộ
-hành kị thuỷ ngưu sư vân thị nễ tùng hướng bắc kị nhất đầu thuỷ cổ ngưu đáo giá lí
-nãi niêm khởi trụ trượng vân bất kiến đạo thiên đầu vạn đầu đáo giá lí đãn thức thủ nhất
-đầu cử bảo công vân như ngã thân không chư pháp không thiên phẩm vạn loại tất giai đồng sư
-vân nễ lập bất kiến lập hành bất kiến hành tứ đại ngũ uẩn bất khả đắc hà xứ kiến
-hữu sơn hà đại địa lai thị nễ mỗi nhật bả bát vu sàng phạn hoán thập ma tác phạn
-hà xứ canh hữu nhất lạp mễ lai cử nhất thiết thanh thị phật thanh nhất thiết sắc thị phật
-sắc sư niêm khởi bật tử vân thị thập ma nhược đạo thị bật tử tam gia thôn lí lão
-bà thiền dã bất hội cử nam phương thiền khách vấn quốc sư thử gian phật pháp như hà quốc
-sư vân thân tâm nhất như thân ngoại vô dư sư vân sơn hà đại địa hà xứ hữu dã
-sư hữu thời vân yếu thức tổ sư ma dĩ trụ trượng chỉ vân tổ sư tại nễ đầu thượng
-bột đào yếu thức tổ sư nhãn tình ma tại nễ cước căn hạ hựu vân giá cá thị tế
-quỷ thần trà phạn nhiên tuy như thử quỷ thần dã vô áp túc sư hữu thời vân nhược thuyết
-bồ đề niết bàn chân như giải thoát thị thiêu phong hương cung dưỡng nễ nhược thuyết phật thuyết tổ
-thị thiêu hoàng thục hương cung dưỡng nễ nhược thuyết siêu phật việt tổ chi đàm thị thiêu bình hương
-cung dưỡng nễ quy y phật pháp tăng hạ khứ sư nhất nhật niêm khởi trụ trượng cử giáo vân
-phàm phu thật vị chi hữu nhị thừa tích vị chi vô duyên giác vị chi ảo hữu bồ tát
-đương thể tức không nãi vân nạp tăng kiến trụ trượng đãn hoán tác trụ trượng hành đãn hành toạ
-đãn toạ tổng bất đắc động trước cử giáp sơn ngữ vân bá thảo đầu thượng tiến thủ lão tăng
-náo thị lí thức thủ thiên tử hựu vân nhất trần tài khởi đại địa toàn thu cử tuyết phong
-vân tam thế chư phật hướng hoả diễm thượng chuyển đại pháp luân sư vân hoả diễm vi tam thế
-chư phật thuyết pháp tam thế chư phật lập địa thính sư nhân khiết trà liễu niêm khởi trản tử
-vân tam thế chư phật thính pháp liễu tận toàn tùng trản tử để hạ khứ dã kiến ma kiến
-ma nhược bất hội thả hướng đa niên lịch nhật lí hội thủ cử bàn sơn ngữ vân quang phi
-chiếu cảnh cảnh diệc phi tồn quang cảnh câu vô phục thị hà vật sư vân tận đại địa thị
-quang hoán thập ma tác tự kỉ nễ nhược thức đắc quang khứ cảnh diệc bất khả đắc hữu thập
-ma thỉ quang cảnh quang cảnh kí bất khả đắc phục thị hà vật hựu vân thử thị cổ nhân
-từ bi chi cố trùng thoại hội ngữ giả lí thích thảng phân minh khứ phóng quá tức bất khả
-nhược bất phóng quá phục cử thủ vân tô lô tô lô cử phó đại sĩ vân thiền hà tùy
-lang tĩnh định thuỷ trục ba thanh sư niêm trụ trượng chỉ đăng lung vân hoàn kiến ma nhược ngôn
-kiến thị phá phàm phu nhược ngôn bất kiến hữu nhất song nhãn tại nễ tác ma sinh hội lương
-cửu phục niêm trụ trượng vân tận đại địa bất thị lang sư hữu thời niêm trụ trượng đả sàng
-nhất hạ vân nhất thiết thanh thị phật thanh nhất thiết sắc thị phật sắc nễ bả bát vu sàng
-phạn thời hữu cá bát vu kiến hành thời hữu cá hành kiến toạ thời hữu cá toạ kiến giả
-ban để tác dữ ma khứ tựu bả bổng nhất thời sấn tán sư hữu thời niêm khởi bật tử
-vân giả lí đắc cá nhập xứ khứ niết quái dã nhật bản quốc lí thuyết thiền tam thập tam
-thiên hữu cá nhân xuất lai hoán vân ẩu ẩu đặc xá nhi đam gia quá trạng cử cổ nhân
-đạo nhất xứ bất thông lưỡng xứ thất công lưỡng xứ bất thông xúc đồ thành trệ sư niêm khởi
-trụ trượng vân sơn hà đại địa tam thế chư phật tận tại trụ trượng đầu thượng hữu thậm trệ
-ngại như kim minh dã ám hướng thập ma xứ khứ kì giả minh tiện thị ám nhất thiết chúng
-sinh kì bí sắc không minh ám cách ngại tiện kiến hữu sinh diệt chi pháp cử nhất tú giác
-vân lục ban thần dụng không bất không nhất khoã viên quang sắc phi sắc sư niêm khởi bật tử
-vân giả cá thị viên quang thị sắc phi sắc hoán thập ma tác sắc dữ ngã niêm tương lai
-khán cử giáp sơn vân bá thảo đầu thượng tiến thủ lão tăng náo thị lí thức thủ thiên tử
-sư vân hà mạc nhập nễ nhĩ đoá lí độc xà xuyên nễ nhãn tình trung thả hướng cát đằng
-xứ hội thủ cử thập phương bạc già phạm nhất lộ niết bàn môn sư vân nễ nhược bất thức
-đại thực quốc lí nhân tại nễ nhãn tiệp lí mại hương dược cử ban nhược kinh vân vô nhị
-vô nhị phân vô biệt vô đoạn/đoán cố sư nãi chỉ lộ trụ vân dữ ban nhược kinh tướng khứ
-đa thiểu cử kinh vân kinh thư chú thuật nhất thiết văn tự ngữ ngôn giai dữ thật tướng bất
-tướng vi bội sư niêm trụ trượng vân giả cá thị thập ma nhược đạo thị trụ trượng nhập địa
-ngục bất thị trụ trượng thị thập ma sư nhất nhật niêm bật tử súc nhất hạ vân nhật nguyệt
-tinh thần phốc lạc địa thượng kiến ma lương cửu khởi thân vân cận hậu đột trước nễ nhãn tình
-cử thập phương bạc già phạm nhất lộ niết bàn môn sư vân giả cá thị ốc thượng đầu thị
-thiên thủ lí thị trụ trượng tác ma sinh thị niết bàn môn sư hữu thời vân đàn chỉ khánh
-khái dương mi thuấn mục niêm đôi thụ bật hoặc tức viên tướng tận thị liêu câu đáp sách phật
-pháp lưỡng tự vị tằng đạo trước đạo trước tức tản thỉ tản tuy cử ngoã quan sâm đức sơn
-ngoã quan vi thị giả đồng nhập sơn chước mộc đức sơn tương nhất oản thuỷ dữ ngoã quan quan
-tiếp đắc tiện khiết khước sơn vân hội ma quan vân bất hội sơn hựu tương nhất oản thuỷ dữ
-ngoã quan quan tiếp đắc hựu khiết khước sơn vân hội ma quan vân bất hội sơn vân hà bất
-thành sỉ thủ na bất hội để quan vân bất hội hựu thành sỉ cá thập ma sơn vân tử
-đại tự cá thiết quyết ngoã quan trụ viện hậu tuyết phong khứ phóng trà thoại thứ phong vân đương
-thời tại đức sơn hội lí chước mộc nhân duyên tác ma sinh quan vân tiên sư đương thời khẳng
-ngã phong vân hòa thượng li tiên sư thái tảo kì thời diện tiền hữu nhất oản thuỷ phong vân
-tương thuỷ lai quan tiện quá dữ tuyết phong phong tiếp đắc tiện bát khước sư đại vân mạc áp
-lương vi tiện nhân trai thứ tương hồ bính nhất giảo vân giảo trước đế thích tị khổng đế thích
-hại thống phục dĩ trụ trượng chỉ vân tại nễ chư nhân cước căn hạ biến tác thích ca lão
-tử kiến ma kiến ma diêm la vương văn thuyết a a đại tiếu vân giả cá sư tăng tướng
-đương khứ bất nại nễ hà nhược bất tướng đương tổng tại ngã thủ lí sư hữu thời dĩ trụ
-trượng đả sàng nhất hạ vân nễ nhược thị cá hán hốt nhiên giả lí văn thanh ngộ liễu nhất
-thiết sơn hà đại địa nhật nguyệt tinh thần hữu thập ma quá cử lạc phố vân nhất trần tài
-khởi đại địa toàn thu sư vân điểu khoà niêm bố mao tiện hữu nhân ngộ khứ nhân khiết trà
-thứ cử nhất tú giác vân tam thân tứ trí thể trung viên bát giải lục thông tâm địa ấn
-sư vân khiết trà thời bất thị tâm địa ấn nãi niêm trụ trượng vân thả hướng giả lí hội
-thủ cử tăng vấn tuyết phong như hà thị xúc mục bồ đề phong vân hảo cá lộ trụ hữu
-xứ vân hoàn kiến lộ trụ ma sư niêm khởi trụ trượng vân hữu để thể thượng hội sự kiến
-lộ trụ chi hoán tác lộ trụ hữu xứ đạo bất kiến hữu lộ trụ kiến giải thiên khô kiến
-lộ trụ đãn hoán tác lộ trụ kiến trụ trượng đãn hoán tác trụ trượng hữu thập ma quá cử
-tăng vấn linh vân phật vị xuất thế thời như hà linh vân thụ khởi bật tử tăng vân xuất
-thế hậu như hà vân diệc thụ bật tử sư vân tiền đầu khước thật hậu để đả bất trước
-hựu vân bất thuyết xuất bất xuất hà xứ hữu nhất vấn thời tiết kì như tuyết phong hạ mạt
-ư tăng đường tiền toạ chúng tài tập phong niêm khởi trụ trượng vân giả cá vi trung hạ căn
-nhân tiện hữu tăng vấn hốt ngộ thượng thượng nhân lai thời như hà phong niêm khởi trụ trượng sư
-vân ngã bất tự tuyết phong đả phá lang tịch tăng tiện vấn vị thẩm hòa thượng như hà sư
-tiện đả cử tăng vấn huyền sa như hà thị học nhân tự kỉ sa vân thị nễ tự kỉ
-sư vân một lượng đại nhân bí ngữ mạch lí chuyển khước hữu tăng vấn như hà thị học nhân
-tự kỉ sư vân hốt nhiên lộ thượng hữu nhân hoán nạp tăng trai nễ dã tùy lệ đắc phạn
-khiết sư nhân trai thứ niêm khởi hồ bính vân ngã kì cung dưỡng giang tây lưỡng chiết nhân bất
-cung dưỡng hướng bắc nhân tăng vân vi thập ma kì cung dưỡng giang tây lưỡng chiết nhân bất cung
-dưỡng hướng bắc nhân sư vân thiên hàn nhật đoản lưỡng nhân cộng nhất oản cử quốc sư vân nam
-phương phật pháp bán sinh bán diệt thử gian thân tâm nhất như thân ngoại vô dư sư vân hoán
-thập ma tác thân tâm nhất như hựu vân nhữ đẳng yếu thức quốc sư để ma tự đại vân
-bất khả cô phụ quốc sư khứ dã cử túc tông đế thỉnh quốc sư khán hí quốc sư vân
-hữu thập ma thân tâm khán hí đế tái thỉnh quốc sư vân hạnh tự hảo hí sư vân long
-đầu xà vĩ cử quốc sư tam hoán thị giả thị giả tam ưng quốc sư vân tương vị ngô
-cô phụ nễ thùy tri nễ cô phụ ngô sư vân tác ma sinh thị ngô cô phụ nễ xứ
-nễ nhược hội đắc dã thị vô đoan hựu vân tác ma sinh thị thị giả cô phụ quốc sư
-xứ sư vân phấn cốt toái thân vị báo đắc cử dược sơn vấn tăng thập ma xứ lai tăng
-vân hồ nam lai sơn vân đỗng đình hồ thuỷ mãn dã vị tăng vân vị mãn sơn vân hứa
-đa thời vũ thuỷ vi thập ma vị mãn vân nham đại vân đam đam địa đỗng sơn đại vân
-thập ma kiếp trung tằng khiếm thiểu sư vân kì tại giá lí cử tuyết phong vân phạn la biên
-toạ ngạ tử nhân lâm hà hạt tử hán huyền sa vân phạn la lí toạ ngạ tử hán thuỷ
-lí một đầu tẩm hạt tử hán sư vân thông thân thị phạn thông thân thị thuỷ cử tăng vấn
-tư phúc cổ nhân niêm đôi thụ bật ý chỉ như hà phúc vân a sư vân tuyết thượng gia
-sương cử tăng vấn tư phúc vân như hà thị nhất trần nhập chính thụ phúc tác nhập định thế
-tăng vân như hà thị chư trần tam muội khởi phúc vân nễ vấn a thùy sư vân giá a
-sư thoại đoạ dã bất tri hựu vân tiền đầu tảo thị cát đằng hựu đạo nễ vấn a thùy
-cử thù du thượng đường vân nễ chư nhân mạc hướng hư không lí đinh quyết thời hữu linh hư
-thượng tòa xuất chúng vân hư không thị quyết thù du tiện đả hư vân hòa thượng mạc thác đả
-mỗ giáp du tiện quy phương trượng sư vân thỉ thượng gia tiêm tăng vân hòa thượng đích lai dữ
-ma đạo na sư vân đôi chung tạ hưởng đắc cá hà mạc xuất lai cử tăng vấn đầu tử
-mật nham ý chỉ như hà tử vân tu thị dữ ma nhân thuỷ đắc triệu châu vân hà bất
-dữ tha bản phân thảo liệu sư vấn tăng tác ma sinh thị bản phân thảo liệu tăng nghĩ nghị
-sư tiện đả cử cổ vân tịch tịch không hình ảnh sư triển lưỡng thủ vân sơn hà đại địa
-hà xứ đắc dã hựu vân nhất thiết trí thông vô chướng ngại sư vân trụ trượng tẩu đáo tây
-thiên khước quy tân la quốc lí nãi xao sàng vân giá cá thị nễ tị khổng cử tăng vấn
-giáp sơn như hà thị đạo sơn vân thái dương dật mục vạn lí bất quải phiến vân sư vân
-bất hoán tác nhất cú bất hoán tác pháp thân thị thập ma tăng vấn như hà thị học nhân
-tự kỉ sư vân lão tăng nhập nê nhập thuỷ tăng vân mỗ giáp phấn cốt toái thân khứ dã
-sư ái vân đại hải thuỷ tại nễ đầu thượng tốc đạo tốc đạo tăng vô ngữ sư đại vân
-dã tri hòa thượng khủng mỗ giáp bất thật sư hữu thời vân trực đắc kiền khôn đại địa vô
-tiêm hào quá hoạn do thị chuyển cú bất kiến nhất sắc thuỷ thị bán đề trực đắc như thử
-canh tu tri hữu toàn đề thời tiết sư hữu thời vân bào ảo đồng vô ngại nhất thiết xứ
-bất thị ảo nhất thiết xứ bất thị vô ngại sư hữu thời vân hoành thuyết thụ thuyết bồ đề
-niết bàn chân như phật tính tổng thị hướng hạ thương lượng trực đắc niêm đôi thụ bật thời tiết
-diệc thị hoành thuyết thụ thuyết đối tiền đầu do giác ta tử tăng vấn thỉnh sư hướng thượng đạo
-sư vân đại chúng cửu lập tốc lễ tam bái cử sùng thọ vấn tăng hoàn kiến đăng lung ma
-tăng vô ngữ sư đại vân suy đảo đăng lung cử triệu châu vấn tăng thập ma xứ khứ tăng
-vân trích trà khứ sư vân bế khẩu cử pháp thân thuyết pháp thanh thanh thuý trúc tận thị pháp
-thân vị thị đề cương niêm xuyết thời tiết cử hữu vi vô tam thế vô vi hữu tam thế
-hữu vi thị đoạn/đoán diệt pháp hà xứ đắc tam thế vô vi hữu tam thế bất thị thủ tịch
-xứ pháp cử thật học thị cát đằng ngôn cú niêm đôi thụ bật thời tiết ư thật học do
-tại bán đồ cử tam chủng nhân nhất nhân nhân thuyết đắc ngộ nhất nhân nhân hoán đắc ngộ đệ
-tam nhân kiến cử tiện hồi khứ nễ đạo tiện hồi khứ ý tác ma sinh phục vân dã hảo
-dữ tam thập bổng cử pháp thân khiết phạn tảo thị oan nhục tác sang tương vị hợp hữu dữ
-ma thuyết thoại cử tăng vấn vân cư đam nhiên thời như hà cư vân bất lưu sư vân bất
-lưu thuyết thập ma đam nhiên hựu vân thử thị tiệt thiết chi ngôn cử dược bệnh tướng trị tận
-đại địa thị dược na cá thị nễ tự kỉ sư vân ngộ tiện tức quý tăng vân khí sư
-chỉ thị sư bác thủ nhất hạ niêm khởi trụ trượng vân tiếp thủ trụ trượng tử tăng tiếp đắc
-ao tác lưỡng tiệt sư vân trực nhiêu dữ ma dã hảo dữ tam thập bổng cử thuý nham hạ
-mạt thượng đường vân ngã nhất hạ dĩ lai dữ sư tăng thuyết thoại khán thuý nham mi mao tại
-ma bảo phúc vân tác tặc nhân tâm hư trường khánh vân sinh dã sư vân quan sư hữu thời
-vân bất cảm vọng nễ hữu nghịch thuỷ chi ba thả bất thuận thuỷ chi ý dã nan đắc nãi
-cử lương toại sơ sâm ma cốc cốc kiến lai tiện khứ sừ thảo lương toại đáo sừ thảo xứ
-cốc đô bất cố tiện quy phương trượng bế khước môn lương toại liên tam nhật khứ xao môn chí
-đệ tam nhật tài xao môn ma cốc vấn a thùy lương toại vân hòa thượng mạc man lương toại
-nhược bất lai lễ bái hòa thượng kị bí kinh luận trám quá nhất sinh sư vân tiện hữu nghịch
-thuỷ chi ba như kim đắc nhập thị thuận thuỷ chi ý diệc hoán tác song phóng thời tiết hựu
-vân ma cốc vấn a thùy lương toại đạo mạc man lương toại bất thị thức phá ma cốc tướng
-kiến thời tiết nhược bất lai lễ bái hòa thượng kị bí kinh luận trám quá nhất sinh diệc tri
-hữu trám nhân xứ tự hậu lương toại quy kinh từ hoàng đế cập tả hữu nhai đại sư đại
-đức tái tam tướng lưu trà diên thứ lương toại vân chư nhân tri xứ lương toại tổng tri lương
-toại tri xứ chư nhân bất tri sư vân tác ma sinh thị lương toại tri xứ cử tâm kinh
-vân vô nhãn nhĩ tị thiệt thân ý sư vân vi nễ hữu cá nhãn kiến sở dĩ ngôn vô
-bất khả như kim kiến thời bất khả thuyết vô dã nhiên tuy như thử kiến nhất thiết hữu thập
-ma quá nhất thiết bất khả đắc hữu thập ma thanh hương vị xúc pháp cử quang minh tịch chiếu
-biến hà sa vấn tăng khởi bất thị trương chuyết tú tài ngữ tăng vân thị sư vân thoại đoạ
-dã cử tăng từ thạch sương sương vấn thuyền khứ lục khứ tăng vân ngộ thuyền tức thuyền ngộ lục
-tức lục sương vân ngã đạo bán đồ sảo nan tăng vô ngữ sư đại vân tam thập niên hậu
-thử thoại đại hành hựu vân lâm hành nhất cú vĩnh kiếp bất vô cử sinh pháp sư vân xao
-không tác hưởng kích mộc vô thanh sư dĩ trụ trượng không trung xao vân a da da hựu xao
-bản đầu vân tác thanh ma tăng vân tác thanh sư vân giá tục hán hựu xao bản đầu vân
-hoán thập ma tác thanh cử tăng vấn thạch sương giáo trung hoàn hữu tổ sư ý ma sương vân
-hữu tăng vân như hà thị giáo trung tổ sư ý sương vân mạc hướng quyển trung cầu sư đại
-vân bất đắc cô phụ lão tăng khước hướng thỉ khanh lí toạ địa tác thập ma cử thạch sương
-vân tu tri hữu giáo ngoại biệt truyền nhất cú tăng vấn như hà thị giáo ngoại biệt truyền nhất
-cú sương vân phi cú sư vân phi cú thuỷ thị cú cử đỗng sơn vân tu tri hữu phật
-hướng thượng sự tăng vấn như hà thị phật hướng thượng sự sơn vân phi phật sư vân danh bất
-đắc trạng bất đắc sở dĩ ngôn phi cử đỗng sơn vân trần trung bất nhiễm trượng phu nhi sư
-vân trụ trượng đãn hoán tác trụ trượng nhất thiết đãn hoán tác nhất thiết cử pháp thân thanh tịnh
-nhất thiết thanh sắc tận thị liêm tiêm ngữ thoại bất thiệp liêm tiêm tác ma sinh thị thanh tịnh
-hựu vân tác ma sinh thị pháp thân sư vân lục bất thu hựu vân tam thập tam thiên nhị
-thập bát tú cử cổ vân như ngã thân không chư pháp không thiên phẩm vạn loại tất giai đồng
-sư vân thân bất khả đắc nhất thiết chư pháp khởi thị hữu dã sở dĩ cổ nhân đạo vô
-tình hữu phật tính hựu vân vô tình bất hoán tác pháp thân thuyết pháp sư hữu thời vân quang
-bất thấu thoát hữu lưỡng ban bệnh nhất thiết xứ bất minh diện tiền hữu vật thị nhất hựu thấu
-đắc nhất thiết pháp không ẩn ẩn địa tự hữu cá vật tướng tự diệc thị quang bất thấu thoát
-hựu pháp thân diệc hữu lưỡng ban bệnh đắc đáo pháp thân vi pháp chấp bất vô kỉ kiến do
-tồn toạ tại pháp thân biên thị nhất trực nhiêu thấu đắc pháp thân khứ phóng quá tức bất khả
-tử tế điểm kiểm lai hữu thập ma khí tức diệc thị bệnh cử tăng vấn quốc sư như hà
-thị bản thân lô xá na quốc sư vân dữ lão tăng quá tịnh bình lai tăng thủ tịnh bình
-chí quốc sư vân khước an cựu xứ trước tăng tống an cựu xứ hựu lai vấn như hà thị
-bản thân lô xá na quốc sư vân cổ phật quá khứ cửu hĩ sư vân vô trẫm tích cử
-tăng vấn quán khê cửu hưởng quán khê đáo lai kì kiến cá âu ma trì khê vân nễ kì
-kiến âu ma trì thả bất thức quán khê tăng vân như hà thị quán khê khê vân phách tiến
-cấp sư vân hà bất dữ đệ nhất cơ kì đối cử vi giam quân kiến trướng tử hoạch ngưu
-để thụ vấn tăng ngưu để thụ thụ để ngưu vô đối sư đại vân quy y phật pháp tăng
-cử lão tú vấn tăng văn thuyết tuyết phong hữu cầu tử thoại thị bất tăng vân bất kiến thuyết
-trước tú vân văn thuyết hữu tăng vân kì thị sư tăng loạn cử tú vân bất loạn cử để
-sự tác ma sinh vô đối sư đại vân mỗ giáp tân đáo vị tằng sâm đường cử phật vấn
-ngoại đạo nhữ nghĩa dĩ hà vi tông sư đại ngoại đạo vân giả lão hòa thượng ngã thức đắc
-nễ dã ngoại đạo vân dĩ nhất thiết bất thụ vi tông đại phật vân phóng quá nhất trước phật
-vân nhữ dĩ nhất thiết bất thụ vi tông da đại ngoại đạo vân giả cù đàm mạc giáo thất
-khước vấn cử tuyết phong vân tận đại địa thị nễ tương vị biệt canh hữu sư vân bất kiến
-lăng nghiêm kinh vân chúng sinh điên đảo mê kỉ trục vật nhược năng chuyển vật tức đồng như lai
-cử giáo vân chư pháp tịch diệt tướng bất khả dĩ ngôn tuyên sư vân kiến định như kim thuyết
-thoại hà xứ hữu thuyết bất thuyết bất kiến đạo khứ bất đáo khứ lai bất đáo lai cử nhất
-thiết chân như hàm nhất thiết sư vân hoán thập ma tác sơn hà đại địa hựu vân thị chư
-pháp không tướng bất sinh bất diệt bất cấu bất tịnh sư hoặc niêm trụ trượng thị chúng vân trụ
-trượng tử hoá vi long thôn khước kiền khôn liễu dã sơn hà đại địa thậm xứ đắc lai sư
-hoặc hoạch viên tướng vân hoàn hữu nhân xuất đắc ma cử giáo vân thị pháp trụ pháp vị thế
-gian tướng thường trụ sư vân thích ca lão tử thậm xứ khứ dã cử tăng vấn đầu tử như
-hà thị thử kinh tử vân duy ma pháp hoa hựu vấn trần trung bất nhiễm trượng phu nhi thời
-như hà tử vân bất trước sư vân bất hoán tác pháp thân bất hoán tác đệ nhất nghĩa diệc
-vi thuyết pháp diệc vi thuyết chân không sư nhân trai thứ niêm khởi thi trợ vân ngã bất cung
-dưỡng nam tăng kì cung dưỡng bắc tăng thời hữu tăng vấn vi thập ma bất cung dưỡng nam tăng
-sư vân ngã yếu độn trí y tăng vân vi thập ma kì cung dưỡng bắc tăng sư vân nhất
-tiến lưỡng đoá hữu tăng niêm vấn kì như tiền ý tác ma sinh sư vân hảo tức đồng vinh
-sư hoặc thời dĩ trụ trượng đả lộ trụ nhất hạ vân tam thừa thập nhị phân giáo thuyết đắc
-trước ma tự vân thuyết bất trước phục vân đốt giả dã hồ tinh tăng vấn kì như sư ý
-tác ma sinh sư vân trương công khiết tửu lí công tuý cử cổ vân hữu kinh nhân chi cú
-tăng vấn như hà thị kinh nhân chi cú sư vân hưởng cử quốc sư vân ngữ tiêm dã phản
-thường hợp đạo luận đốn dã bất lưu trẫm tích sư vân niêm đôi thụ bật đàn chỉ thời tiết
-nhược kiểm điểm lai dã vị thị vô trẫm tích sư hữu thời niêm trụ trượng vân kiền khôn đại
-địa sát hoạt tổng tại giá lí tăng tiện vấn như hà thị sát sư vân thất điên bát đảo
-tăng vân như hà thị hoạt sư vân yếu tác phạn đầu tăng vân bất sát bất hoạt thời như
-hà sư tiện khởi vân ma ha ban nhược ba la mật sư hữu thời vân ngộ nhân tức đồ
-trung thụ dụng nãi niêm khởi trụ trượng vân trụ trượng bất thị đồ thuyết thoại bất thị đồ cử
-pháp thân khiết phạn ảo hoá không thân tức pháp thân sư vân kiền khôn đại địa hà xứ hữu
-dã vật vật bất khả đắc dĩ không sàng không nhược ước điểm kiểm lai tương vị hợp hữu dữ
-ma thuyết thoại cử ưng hoá phi chân phật diệc phi thuyết pháp giả sư viết ưng hoá chi thân
-thuyết tức thị pháp thân thuyết diệc hoán tác địch thể toàn chân dĩ pháp thân khiết pháp thân hựu
-vân phạn bất thị pháp thân trụ trượng bất thị pháp thân sư hữu thời vân tông môn thất túng
-bát hoành sát hoạt lâm thời tăng tiện vấn như hà thị sát sư vân đông khứ xuân lai tăng
-vân đông khứ xuân lai thời như hà sư vân hoành đam trụ trượng đông tây nam bắc nhất nhâm
-đả dã
-thị chúng vân nhâm nễ hoành thuyết thụ thuyết vị thị tông môn miêu duệ nhược cứ tông môn miêu
-duệ thị thậm nhiệt oản minh tam thừa thập nhị phân giáo thuyết mộng đạt ma tây lai thuyết mộng
-nhược hữu lão tú khai đường vi nhân thuyết pháp tương lợi đao sát khước bá thiên vạn cá hữu
-thập ma quá hựu vân tương vị hợp hữu dữ ma thuyết thoại để đạo lí sư nhất nhật vân
-niêm đôi thụ bật đàn chỉ dương mi nhất vấn nhất đáp tịnh bất đương hướng thượng tông thừa tăng
-tiện vấn như hà thị hướng thượng tông thừa sư vân địa hạ diêm phù đại gia tổng đạo đắc
-kì như náo thị lí toạ triêu thời trư nhục án đầu mão khanh lí trùng tử hoàn hữu siêu
-phật việt tổ chi đàm ma tăng vân hữu để bất khẳng sư vân hữu để bất khẳng bất khả
-thương lượng thời tiện hữu bất thương lượng thời tiện vô dã nhược ước na cá ngữ thoại thể thượng
-hội sự trực ngôn vị đáo kiến giải thiên khô sư hữu thời vân ngã tầm thường đạo nhất thiết
-thanh thị phật thanh nhất thiết sắc thị phật sắc tận đại địa thị pháp thân uổng tác cá phật
-pháp trung kiến như kim kiến trụ trượng đãn hoán tác trụ trượng kiến ốc đãn hoán tác ốc sư
-hữu thời vân tác nhi vô tác dụng nhi vô dụng nãi niêm khởi trụ trượng vân bất thị dụng
-nhi vô dụng hoán thập ma tác trụ trượng cử đan hà vân bá hài câu hội tán nhất vật
-trấn trường linh sư vân trụ trượng bất khả bất linh dã hoán thập ma tác bá hài thậm xứ
-đắc lai cử nhất thiết hiền thánh giai dĩ vô vi pháp nhi hữu sai biệt sư vân trụ trượng
-bất thị vô vi pháp nhất thiết bất thị vô vi pháp cử chí công vân kê minh sửu nhất
-khoã viên quang minh dĩ cửu sư vân não hậu tức bất vấn nễ tam thiên lí ngoại đạo tương
-nhất cú lai cử mục châu hoán tăng triệu châu khiết trà nhập thuỷ chi nghĩa tuyết phong cổn cầu
-quy tông duệ thạch kinh đầu dĩ tự quốc sư thuỷ oản la hán thư tự chư phật xuất thân
-xứ đông sơn thuỷ thượng hành tổng thị hướng thượng thời tiết
-thị chúng vân trực đắc xúc mục vô trệ đạt đắc danh thân cú thân nhất thiết pháp không sơn
-hà đại địa thị danh danh diệc bất khả đắc hoán tác tam muội tính hải câu bị do thị
-vô phong táp táp chi ba trực đắc vô tri ư giác giác tức phật tính hĩ hoán tác vô
-sự nhân canh tu tri hữu hướng thượng nhất khiếu tại sư hữu thời vân nhất thiết xứ vô bất
-thị thuyết pháp đả chung đả cổ thời bất khả bất thị nhược dữ ma nhất thiết xứ diệc bất
-thị hữu nhất thiết xứ diệc bất thị vô hựu vân bất khả thuyết thời tức hữu bất thuyết thời
-tiện vô dã nhược ước đề xướng tức vị tại vi nhân môn trung tức đắc cử sinh tử niết
-bàn hợp thành nhất khối nãi niêm khởi phiến tử vân thị thập ma bất thị hợp thành nhất khối
-đắc dữ ma bất linh lợi trực nhiêu dữ ma dã thị quỷ quật lí tác hoạt kế cử tăng
-vấn nam toàn ngưu đầu vị kiến tứ tổ thời vi thập ma bá điểu hàm hoa hiến toàn vân
-bộ bộ đạp phật giai thê tăng vân kiến hậu vi thập ma bất hàm hoa hiến toàn vân trực
-nhiêu bất lai do giác vương lão sư nhất tuyến đạo sư vân nam toàn kì giải bộ bộ đăng
-cao bất giải tùng không phóng hạ tăng vân như hà thị bộ bộ đăng cao sư vân hương tích
-thế giới tăng vân như hà thị tùng không phóng hạ sư vân điền câu tắc hác sư hữu thời
-vân nhược vấn phật pháp lưỡng tự đông tây nam bắc thất túng bát hoành triêu đáo tây thiên mộ
-quy đường độ tuy nhiên như thử hướng hậu bất đắc thác cử cử tổ sư kệ vân tâm tùy
-vạn cảnh chuyển chuyển xứ thật năng u tăng vấn như hà thị chuyển xứ thật năng u sư vân
-cật liệu thiệt đầu lão tăng đảo tẩu tam thiên lí hựu vấn như hà thị tùy lưu nhận đắc
-tính sư vân man đầu cơ kỉ truy tử ma ha ban nhược ba la mật cử huyền sa dữ vi giam
-quân trà thoại thứ quân vân chiêm ba quốc nhân ngữ thoại sảo nan ban hà huống ngũ thiên phạm
-ngữ hoàn hữu nhân ban đắc ma huyền sa đề khởi thác tử vân thức đắc giá cá tức ban
-đắc sư vân huyền sa hà dụng phồn từ hựu vân đích lai đạo thập ma hựu vân hữu thập
-ma nan ban cử cổ nhân vân dĩ không danh triệu không sắc sư vân trụ trượng bất thị không
-danh triệu đắc bất thị không sắc hoán thập ma tác trụ trượng bất thị không danh nhân nam toàn
-thị chúng vân tự tiểu dưỡng nhất đầu thuỷ cổ ngưu nghĩ hướng khê đông phóng bất miễn thực tha
-quốc vương thuỷ thảo nghĩ hướng khê tây phóng bất miễn thực tha quốc vương thuỷ thảo bất như tùy
-xứ nạp ta ta tha tổng bất kiến phục hữu tăng cử tự sư sư vân nam toàn thuỷ cổ
-ngưu tùy xứ nạp ta ta nễ đạo tại ngưu nội nạp ngưu ngoại nạp trực nhiêu nễ hướng giá
-lí thuyết đắc nạp xứ phân minh ngã canh vấn nễ sách ngưu tại hậu trường khánh vân nễ đạo
-cổ nhân tiền đầu vi nhân hậu đầu vi nhân cử vương đại vương hướng tuyết phong đạo nghĩ cái
-nhất sở phật điện khứ như hà phong vân đại vương hà bất cái thủ nhất sở không vương điện
-đại vương vân thỉnh sư dạng tử phong triển lưỡng thủ sư vân nhất cử tứ thập cửu cử báo
-từ tán long nha kệ vân nhật xuất liên sơn nguyệt viên đương hộ bất thị vô thân bất dục
-toàn lộ hữu tăng vấn thỉnh sư toàn lộ long nha bát khai trướng tử vân hoàn kiến ma tăng
-vân bất kiến nha vân tương nhãn lai hậu báo từ văn cử vân long nha kì đạo đắc nhất
-bán sư linh tăng cử ngã dữ nễ đạo kì tăng tiện cử sư vân ngã bất phương dữ nễ
-đạo sư hữu thời vân chư phương tận hướng thằng mặc lí thoát xuất ngã giả lí tức bất nhiên
-tăng vấn vị thẩm hòa thượng như hà sư vân thảo hài tam thập văn mãi cử lãm chân thành
-lập sắc tướng uyển nhiên nhất thiết pháp bất thiên tăng tiện vấn tác ma sinh thị bất thiên sư
-vân hoàn kiến đăng lung ma tăng vân kiến sư vân tĩnh xứ tát bà ha
-thị chúng vân nễ đẳng chư nhân mỗi nhật thượng lai hạ khứ vấn tấn tức bất vô nhược quá
-thuỷ thời tương thập ma quá hữu cửu trụ tăng đối vân bộ sư thâm hỉ chi cử tăng từ
-đại tùy tùy vấn thập ma xứ khứ tăng vân nga mi lễ bái phổ hiền khứ tùy niêm khởi
-bật tử vân văn thù phổ hiền tổng tại giả lí kì tăng hoạ nhất viên tướng phao hướng bội
-hậu khước triển lưỡng thủ tùy vân thị giả tương nhất thiếp trà lai dữ giả tăng sư cử liễu
-vân ngã tức bất dữ ma hữu tăng vân hòa thượng hựu như hà sư vân tây thiên trảm đầu
-tiệt tí giả lí tự lĩnh xuất khứ cử hoàng bách nhất nhật cử thủ tác niết thế vân thiên
-hạ lão hòa thượng tổng tại giả lí ngã nhược phóng nhất tuyến đạo tùng nhữ thất túng bát hoành
-nhược bất phóng quá bất tiêu nhất niết tăng vấn phóng nhất tuyến đạo thời như hà bách vân thất
-túng bát hoành hựu vấn bất phóng quá bất tiêu nhất niết thời như hà bách vân phổ phục hữu
-tăng vấn sư như hà thị thất túng bát hoành sư vân niệm lão tăng niên lão tăng vân như
-hà thị phổ sư vân thiên quang hồi chiếu tăng vân như hà thị thiên quang hồi chiếu sư vân
-cách tí thiểu nhân tri sư hữu thời vân nhất khoã viên quang minh dĩ cửu hoàn hữu nhân vấn
-ma tăng tiện vấn như hà thị nhất khoã viên quang minh dĩ cửu sư vân tây thiên trảm đầu
-tiệt tí hựu vân trừ khước tu di sơn niêm khước phật điện tích sư nhất nhật phi ca sa
-vân ngã đẩu tẩu pháp thân dã tổng vô đối sư vân nhữ vấn ngã tăng tiện vấn hòa thượng
-đẩu tẩu pháp thân ý chỉ như hà sư vân ngã dã tri nễ thân cử huyền sa thị chúng
-vân chư phương lão tú tận đạo tiếp vật lợi sinh hốt ngộ tam chủng bệnh nhân lai tác ma
-sinh tiếp hoạn manh giả niêm đôi thụ bật tha hựu bất kiến hoạn lung giả ngữ ngôn tam muội
-tha hựu bất văn hoạn á giả giáo y thuyết hựu thuyết bất đắc thả tác ma sinh tiếp nhược
-tiếp thử nhân bất đắc phật pháp vô linh nghiệm hữu tăng thỉnh ích sư sư vân nễ lễ bái
-trước tăng lễ bái khởi sư dĩ trụ trượng tiện trất tăng thối hậu sư vân nễ bất thị hoạn
-manh phục hoán cận tiền tăng cận tiền sư vân nễ bất thị hoạn lung nãi thụ khởi trụ trượng
-vân hoàn hội ma tăng vân bất hội sư vân nễ bất thị hoạn á kì tăng ư thử hữu
-tỉnh cử cổ vân nhất ngôn tài cử đại địa toàn thu sư vân thả đạo thị thập ma ngôn
-tự vân xuân điểu đề thời tây lĩnh thượng toại linh tăng nễ vấn ngã tăng tiện vấn thị thập
-ma ngôn sư vân y cử mã đại sư vân nhất thiết ngữ ngôn thị đề bà tông dĩ thử
-cá vi chủ sư vân hảo ngữ kì thị vô nhân vấn tăng tiện vấn như hà thị đề bà
-tông sư vân tây thiên cửu thập lục chủng nễ thị tối hạ chủng cử triệu pháp sư vân chư
-pháp bất dị giả bất khả tục phù tiệt hạc di nhạc doanh hác nhiên hậu vi vô dị giả
-tai sư vân trường giả thiên nhiên trường đoản giả thiên nhiên đoản hựu vân thị pháp trụ pháp vị
-thế gian tướng thường trụ nãi niêm khởi trụ trượng vân trụ trượng bất thị thường trụ pháp cử cổ
-vân nhất niệm kiếp thu nhất thiết trí sư niêm khởi trụ trượng vân kiền khôn đại địa tổng tại
-thượng đầu nhược thấu đắc khứ trụ trượng dã bất kiến hữu trực nhiêu dữ ma dã thị bất trước
-tiện cử tu bồ đề thuyết pháp đế thích vũ hoa tôn giả vấn viết thử hoa tùng thiên đắc
-da đế viết phất dã tùng địa đắc da đế viết phất dã tùng nhân đắc da đế viết phất
-dã tùng hà đắc da đế thích cử thủ tôn giả vân như thị như thị sư vân đế thích
-cử thủ xứ tác ma sinh dữ nễ tứ đại ngũ uẩn thích ca lão tử đồng biệt cử thế
-tôn sơ sinh hạ nhất thủ chỉ thiên nhất thủ chỉ địa chu hành thất bộ mục cố tứ phương
-vân thiên thượng thiên hạ duy ngã độc tôn sư vân ngã đương thời nhược kiến nhất bổng đả sát
-dữ cẩu tử khiết khước quý đồ thiên hạ thái bình cử hoà sơn thị chúng vân hữu tác gia
-chiến tương ma xuất lai thời hữu tăng xuất vân vị thẩm bỉ trung hoàn hữu dã vô sư vân
-cách cử tăng vấn tuyết phong phật vị xuất thế thời như hà phong hoành án trụ trượng nhi toạ
-sư vân thường cử đức sơn vấn duy na hữu kỉ nhân tân đáo na vân bát nhân sơn vân
-hoán điển tòa lai nhất thời sinh án quá sư niêm vân canh thuyết thập ma sinh án quá cử
-tuyết phong khám tăng thập ma xứ khứ tăng vân thức đắc tức tri khứ xứ phong vân nễ thị
-liễu sự nhân loạn tẩu tác thập ma tăng vân mạc đồ ô nhân hảo phong vân ngã tức đồ
-ô nễ cổ nhân xuy bố mao tác ma sinh dữ ngã thuyết lai khán tăng vân tàn sưu
-phạn dĩ hữu nhân khiết liễu dã sư biệt tiền ngữ vân trúc trước tiện tác thỉ xú khí đại
-hậu ngữ vân tương vị thị toàn thiên dao tử nguyên lai thị tử thuỷ lí hà mạc cử thiều
-sơn khám tăng vân mạc tiện thị đa khẩu bạch đầu nhân ma nhân vân bất cảm sơn vân hữu
-đa thiểu khẩu nhân vân biến thân thị sơn vân đại tiểu nhị sự hướng thậm xứ a nhân vân
-hướng thiều sơn khẩu lí a sơn vân hữu thiều sơn khẩu tức hướng thiều sơn khẩu lí a vô
-thiều sơn khẩu hướng thậm xứ a nhân vô ngữ sơn tiện đả sư đại vân giá thoại đoạ a
-sư phóng nễ tam thập bổng hựu đại vân tương vị thị sư tử nhi hựu vân thiều sơn kim
-nhật ngoã giải băng tiêu cử tăng đáo tào khê hữu thủ y bát thượng tòa đề khởi y vân
-thử thị đại dữu lĩnh đầu đề bất khởi để tăng vân vi thập ma tại thượng tòa thủ lí
-tòa vô ngữ sư vân bỉ bỉ bất liễu sư đại vân viễn hưởng bất như thân đáo hựu vân
-tương vị thị sư tử nhi cử mục châu vấn tăng mạc tiện thị thanh hoa nghiêm ma tăng vân
-bất cảm châu vân mộng kiến hoa nghiêm ma tăng vô ngữ sư vân môn tiền đại lang tịch sinh
-cử hồ nam báo từ thùy ngữ vân ngã hữu nhất cú tử biến đại địa tăng tiện vấn như
-hà thị biến đại địa để cú từ vân vô không khuyết sư vân bất hợp dữ ma đạo biệt
-vân hà bất am ngoại vấn cử nam toàn thị chúng vân tạc dạ tam canh văn thù phổ hiền
-tướng đả các dữ nhị thập bổng biếm hướng nhị thiết vi sơn triệu châu xuất chúng vân hòa thượng
-bổng giáo thùy khiết toàn vân vương lão sư hữu thập ma quá châu tiện lễ bái sư đại vân
-thâm lĩnh hòa thượng từ bi mỗ giáp quy y bát hạ đắc cá an lạc/nhạc/nhạo cử sùng thọ kiến
-tăng tố hồ bính thứ cách song vấn vân nễ hoàn kiến ngã ma tăng vân bất kiến thọ vân
-hoàn ngã hồ bính tiền lai tăng vô ngữ sư đại vân hòa thượng lễ bái bính lô hảo cử
-tăng vấn triệu châu như hà thị diệu phong đỉnh châu vân bất đáp nễ giả thoại tăng vân vi
-thập ma bất đáp châu vân ngã nhược đáp lạc tại bình địa sư đại vân câu chi hòa thượng
-cử trường khánh kiến tăng lai vân hà đắc vô lễ sư đại vân mỗ giáp tội quá hựu vân
-giáp thần ất tị cử trường khánh vấn tú tài vân phật giáo vân chúng sinh nhật dụng nhi bất
-tri nho thư diệc vân nhật dụng nhi bất tri bất tri cá thập ma tú tài vân bất tri
-đại đạo sư vân chước nhiên bất tri cử tăng vấn mục châu linh sơn hoàn hữu xà bất châu
-vân giả khâu dẫn sư đại vân bạch cốt liên sơn cử trường khánh niêm trụ trượng vân thức đắc
-giá cá nhất sinh sâm học sự tất sư vân thức đắc giá cá vi thập ma bất trụ cử
-vân nham tảo địa thứ đạo ngô vân hà đắc thái khu khu sinh nham vân tu tri hữu bất
-khu khu giả ngô vân dữ ma tắc đệ nhị nguyệt dã nham thụ khởi tảo trửu vân giá cá
-thị đệ kỉ nguyệt ngô bật tụ xuất khứ sư vân nô kiến tì ân cần cử ngưỡng sơn vấn
-tục quan vân quan cư hà vị quan vân suy quan sơn nãi thụ khởi bật tử vân hoàn suy
-đắc giá cá ma quan vô ngữ sư đại vân cửu hưởng hòa thượng cử tăng đáo thuý nham trực
-nham bất tại nãi hạ khán chủ sự chủ sự vân sâm kiến hòa thượng dã vị tăng vân vị
-chủ sự khước chỉ cẩu tử vân yếu kiến hòa thượng đãn lễ bái giả cẩu tử tăng vô ngữ
-hậu thuý nham quy văn thử ngữ vân tác ma sinh đạo miễn đắc dữ ma vô ngữ sư đại
-vân dục quan kì sư tiên quan đệ tử cử tòa chủ tựu hoa nghiêm giảng thỉnh thuý nham trai
-nham vân sơn tăng hữu cá vấn tòa chủ nhược đạo đắc tức trai nham tiện niêm khởi hồ bính
-vân hoàn cụ pháp thân ma chủ vân cụ pháp thân nham vân dữ ma tắc khiết pháp thân dã
-chủ vô ngữ bản giảng tòa chủ đại vân hữu thập ma quá nham bất khẳng đông sứ vân nặc
-nặc sư đại vân đặc tạ hòa thượng giáng trùng không diên cử tuyết phong thị chúng vân thế giới
-khoát nhất trượng cổ kính khoát nhất trượng thế giới khoát nhất xích cổ kính khoát nhất xích huyền sa
-chỉ diện tiền hoả lô vân hoả lô khoát đa thiểu phong vân tự cổ kính khoát sa vân giá
-lão hán cước căn vị điểm địa tại hậu đông sứ niêm vấn tăng vi phục cổ kính trí hoả
-lô dữ ma đại hoả lô trí cổ kính dữ ma đại tây viện vân dữ ma vấn nhân dã
-vị khả tại sư vân sưu phạn nê trà lô cử tăng vấn vân cư sơn hà đại địa tùng
-hà nhi hữu cư vân tùng vọng tưởng hữu tăng vân dữ mỗ giáp tưởng xuất nhất đĩnh kim đắc
-ma cư tiện hưu khứ tăng bất khẳng sư văn đắc vân dĩ thị cát đằng bất năng chiết hợp
-đắc đãi y đạo tưởng xuất nhất đĩnh kim đắc ma niêm trụ trượng tiện đả cử mân trung vi
-giam quân tầm thường kiến tăng vân mỗ giáp đãi quan mãn xuất giang tây hồ nam trí nhất vấn
-vấn sát giang tây hồ nam lão tú tăng vân giam quân tác ma sinh vấn quân vân bất lao
-thủ cước tăng vô ngữ sư đại vân thoại đoạ dã hựu vân phục duy thượng hưởng cử vương thái
-phó vấn bắc viện vân cổ nhân đạo phổ hiện sắc thân biến hành tam muội phật pháp vi thập
-ma bất đáo bắc câu lô châu viện vân kì vi biến hành sở dĩ bất đáo sư vân như
-pháp trí nhất vấn lai cử vương thái uý nhập phật điện chỉ bát vu vấn tăng giá cá thị
-thập ma bát tăng vân dược sư bát uý vân kì văn hữu giáng long bát tăng vân đãi hữu
-long tức giáng uý vân hốt ngộ nã vân hoạch lang lai hựu tác ma sinh tăng vân tha diệc
-bất cố uý vân thoại đoạ dã huyền sa vân tận nễ thần lực tẩu hướng thập ma xứ khứ
-bảo phúc vân quy y phật pháp tăng bá trượng tác phú bát thế sư vân tha nhật sinh thiên
-mạc cô phụ lão tăng cử địa tạng vấn sùng thọ nễ cửu hậu tương thập ma lợi tế ư
-nhân thọ vân vô bất lợi tế tạng vân vô nhất pháp đắc lợi tế sư vân trực nhiêu dữ
-ma dã hảo khiết bổng hựu vân đương thời đãn hoán cận tiền lai dĩ hậu giáo y vô du điểu
-trụ xứ cử toàn châu vương thái phó vấn tăng thượng tòa trụ thậm xứ tăng vân bán nguyệt sơn
-phó vân hốt ngộ nguyệt đầu nguyệt vĩ hựu tác ma sinh tăng vô ngữ sư đại vân tương vị
-dữ ma canh hữu dữ ma cử long nha tầm thường đạo vân cư sư huynh đắc đệ nhị cú
-ngã đắc đệ nhất cú tây viện vân kì như long nha dữ ma đạo hoàn phù đắc dã vô
-sư vân tu lễ bái vân cư thuỷ đắc tây viện vân bàng quan giả sẩn cử sùng thọ vấn
-tăng hoàn kiến đăng lung ma tăng vân kiến thọ vân lưỡng cá sư đại vân tam đầu lưỡng diện
-hựu vân thất cá bát cá
+thư châu long môn phật nhãn hòa thượng ngữ lục
+trụ nam khang vân cư tự pháp thiện ngộ biên
+thánh tiết thượng đường hoàng đế dĩ thiên hạ vi gia triệu dân vi tử phụ tử nhất thể thiên
+hạ nhất gia vương ái ư dân dân kính ư vương ái kính kí đồng vương đạo vô ngoại sở
+dĩ phật ngôn như dân đắc vương hựu vân như dân chi vương thả vương ngoại vô dân dân ngoại
+vô vương vương tại dân ngoại dân bất thụ tứ dân tại vương ngoại vương đạo bất quảng như hà
+viết dân vô tri viết dân như hà viết vương thánh thần viết vương kim thượng hoàng đế chí thần
+chí thánh vi dân phụ mẫu thiên ninh giáng đản chi tiết nhật nguyệt tinh thần liên châu hợp bích
+giang hà hoài tế kích trược dương thanh kiền khôn tạo hoá thảo mộc trùng ngư trình tường thụy hiển
+kì đặc giai hoàng đế chí đức chi sở cảm trí dã phục nguyện nam sơn tỉ thọ bắc nhạc
+tề linh vĩnh vĩnh vạn niên vô cùng vô cực toại hạ thiền sàng tác vũ viết hội ma sơn
+tăng vũ đạo dương trần vạn tuế vạn tuế vạn vạn tuế hạ tòa
+thượng đường niêm khởi trụ trượng trác nhất hạ vân viên minh liễu tri bất do tâm niệm để tử
+yếu đạo đoạ khanh lạc tiệm tất cánh như hà nãi kháo trụ trượng hạ tòa
+thượng đường cử tích hữu nhất tú tài kiến trường sa hòa thượng khán thiên phật danh kinh vấn viết
+hứa đa phật kì văn kì danh vị thẩm cư hà quốc độ trường sa viết hoàng hạc lâu tồi
+hạo đề hậu tú tài hoàn tằng đề phủ đối viết bất tằng trường sa viết vô sự đề nhất
+thiên hảo tú tài võng thố đại chúng tú tài vấn phật cư hà quốc độ trường sa vi thập
+ma khước nhẫm ma đạo tú tài tầm thường trào phong vịnh nguyệt vi thập ma trường sa diện tiền
+nhất từ bất thố nhược thị hoàng hạc lâu hữu thập ma nan đề xứ thính thủ sơn tăng đề
+phá toại vân dong nhan thậm kì diệu quang minh chiếu thập phương ngã đích tằng cung dưỡng kim phục
+hoàn thân cận hạ tòa
+thượng đường bình đán dần cuồng cơ nội hữu đạo nhân thân đại chúng nhị lục thời trung chiết toàn
+phủ ngưỡng hành lai tẩu khứ thuyết thị thuyết phi phân nam thuyết bắc vận dụng thí vi khai đạn
+triển bát khiết dục khiết phạn tận thị cuồng cơ thả đạo na cá thị đạo nhân thân lương cửu
+vân bích lạc hữu tình không trướng vọng dao đài vô lộ khả truy tầm hạ tòa
+thượng đường đích lai sơn tăng mộng tại tẩm đường thượng văn pháp cổ toại hạ đường giai mộng kiến
+chư nhân thượng lai cận tiền vấn tấn tiện đăng pháp tòa thị giả thiêu hương liễu như kim chính
+tại mộng trung chi nhân thí trần mộng sự nễ đẳng chư nhân hoàn mộng kiến ma nhược chân kiến
+đắc thị vi giác nhân bất tỉnh mộng hương uyển nhĩ trầm một hoàn hữu nhất pháp dữ nễ vi
+đối ma bất kiến cổ nhân đạo mục tiền vô pháp ý tại mục tiền bất thị mục tiền pháp
+phi nhĩ mục chi sở đáo khả bất thị kì đặc hoàn mộng kiến ma thích ca như lai đạo
+như ngụ thời nhân tâm túng tinh minh dục hà nhân duyên thủ mộng trung vật toại niêm khởi bật
+tử xao thiền sàng vân thị thập ma hoàn văn ma phục thụ khởi bật tử vân hoàn kiến ma
+lương cửu vân nhân gian thiên thượng chư tri thức tranh tự long môn mộng đắc thân hạ tòa
+thượng đường tăng vấn cổ giả đạo chư phật bất xuất thế tứ thập cửu niên thuyết chư phật kí
+bất xuất thế vi thập ma tứ thập cửu niên thuyết sư vân nễ nghi lai đa thiểu thời dã
+tấn vân tổ sư bất tây lai thiểu lâm hữu diệu quyết tổ sư kí bất tây lai vi thập
+ma thiểu lâm hữu diệu quyết sư vân tri ân giả thiểu phụ ân giả đa tấn vân nhẫm ma
+tắc nhất nhân truyền hư vạn nhân truyền thật sư vân hư xứ tác ma sinh truyền lai tấn vân
+nhâm tùng thương hải biến chung bất vi quân thông sư vân lễ bái trước sư phục vân thuỷ tự
+chích lí tây quy quyển y nam mại không văn tiêu tức lưu lạc nhân gian cổ vãng kim lai
+đệ tướng kính thụ đại tự nhất nhân truyền hư vạn nhân truyền thật sơn tăng bệnh đa am dược
+tính niên lão biến thành tinh bất thị khắc bác cổ nhân miễn kiến hỗ tướng mai một chư nhân
+ưng thị tùng tiền giác xúc vãng nhật kiến tri tùng nhân biên thỉnh ích đắc lai ngôn ngữ trung
+cử thời trung đích xuất nhập du hí tắc bất vô cứu cánh chân thật đại sự vạn bất khả
+đắc đãn năng tình vong lí tang kế tận đồ cùng vô thí thiết xứ dụng tâm chính thị tác
+công phu xứ sơn tăng tầm thường kì đạo khiết trà khứ kim nhật dã đạo khiết trà khứ hội
+tận chư phương ngũ vị thiền hà tự sơn tăng khiết trà khứ hạ tòa
+thượng đường nghĩ tư lượng hà kiếp ngộ bất tư lượng chung mãng lỗ dục tư bất tư đạp phá
+thời vạn lí vô vân thường hiển lộ thường hiển lộ diệu dụng hằng sa phi đán mộ chư thiền
+bá chính hảo hưu chinh bãi chiến vĩnh tức can qua bàng thuỷ ỷ sơn thành tựu đại sự huống
+thị nhân sinh dị lão thọ mệnh kỉ hà hoặc nhược sinh tử hiện tiền tất cánh tương hà chi
+chuẩn bất kiến cổ đức đạo nhược bất an thiền tĩnh lự đáo giả lí tổng tu mang nhiên cửu
+lập
+thượng đường lai lai khứ khứ khứ lai thời khứ khứ lai lai li giác tri liễu đắc khứ lai
+vô quái ngại phương tri trần kiếp bất tư nghị sở dĩ đạo lai vô sở lai khứ vô sở
+khứ khứ lai chi tế sinh tử chiêu nhiên tiền niệm sinh thị lai hậu niệm diệt thị khứ cầu
+kì lai khứ liễu bất khả đắc nãi chí tiền sinh hậu sinh kim niên khứ niên canh vô ti
+hào thiên biến chi tướng như tư hội đắc thuỷ tuyệt khứ lai đãn dĩ chúng sinh bội giác hợp
+trần khứ lai luân chuyển cẩu năng đỗng đạt phục hữu hà sự tích thạch đầu đại sư nhất nhật
+vấn bàng cư sĩ tử cận nhật như hà cư sĩ viết tốt thuyết bất cập nãi trình nhất tụng
+nhật dụng sự vô biệt duy ngô tự ngẫu hài đầu đầu phi thủ xả xứ xứ vật trương quai
+chu tử thùy vi hiệu khâu sơn tuyệt điểm ai thần thông tinh diệu dụng vận thuỷ cập ban sài
+thạch đầu mặc nhiên hứa chi hậu tạo giang tây vấn mã đại sư bất muội bản lai nhân thỉnh
+sư cao trước nhãn đại sư trực hạ thứ sĩ vân nhất đẳng một huyền cầm duy sư đàn đắc
+diệu đại sư trực thượng thứ đại chúng nhược bất thị mã đại sư bí tha nhất vấn bá tạp
+toái chư nhân hoán thập ma tác bản lai nhân nhược vô bản lai nhân tác ma sinh nhãn kiến
+sắc nhĩ văn thanh chủng chủng thí vi vận chuyển chư nhân hoàn kiến bản lai nhân ma như kim
+tận đạo bản lai nhân vô hình vô tướng bất tằng trước y khiết phạn bất sinh bất tử như
+thử hội đắc tranh hợp bản lai nhân yếu tri ma chư nhân tổng thị bản lai nhân nhất đoạn
+sinh tử biến hoá phiền não vô minh hựu như hà tiêu khiển thính thủ nhất tụng dữ tử giai
+hành kim nhật lộ như quân cộng khán bản lai nhân đồng danh đồng tính đồng hình đoạn vô tử
+vô sinh vô sắc trần tất cánh như hà thiết kị hoán tác bản lai nhân hạ tòa
+thượng đường cử tăng vấn đỗng sơn sơ hòa thượng như hà thị phật đối vân ma tam cân đại
+chúng hữu nhẫm nhất kiện sự hà cố vô nhân tri đắc đỗng sơn kiến nhân bất tri liễu toại
+tự tụng viết thất bảo hoạ ngưu đầu hoàng kim vi điểm ngạch xuân tình nhị tam nguyệt nông nhân
+giai thủ tắc hàn thực hảo tân chính thiết tiền tam tứ bá chư nhân giả thử nhất chuyển nhân
+duyên tận vị thô ngôn cập tế ngữ giai quy đệ nhất nghĩa hựu vân lâm cơ ưng dụng nhất
+thiết tầm thường như tư hội giải mai một cổ nhân yếu kiến đỗng sơn lão tử ma hồng hộc
+nhất cử thiên lí phi toàn vân dao tử dữ thiên tề phụng hoàng bất thị phàm gian vật vi
+thụy vi tường tự hữu thời cửu lập
+sư đáo chân thừa thỉnh thượng đường chân thừa cử thạch sương biến giới bất tằng tạng ngữ sư vân
+biến giới bất tạng toàn thể lộ ti hào hữu kiến sự hoàn sai hội trung thùy thị tiên đà
+khách bất động tiêm trần tiện đáo gia chân thật đáo gia chi giả đắc ý vô ngôn linh sính
+tại ngoại chi nhân tùy tình khởi giải tình giải kí khởi danh tướng thị hưng ngôn ý lưỡng vô
+thập phương hàm sướng khởi bất kiến đích lai đường đầu dĩ phổ cáo đại chúng như hà canh linh
+sơn dã xưng đề cái vi diệu chỉ u thâm nhân nan đỗng đạt hà dã kí tri chỉ xích
+chi gian vi thập ma khước đạo bất đổ sư nhan kí ngôn biến giới biến không như hà canh
+vân bất tằng tạng phú hoàn kiến lạc tiết xứ ma nhược kiến đắc tiện kiến thạch sương lão tử
+tuyết phong đại sư diệc tri long môn sơn tăng dữ chân thừa trường lão hựu thử nhất chúng thiền
+hòa tổng hữu phân thập xứ sơn tăng vị li bản viện bất đáo thử trung thời chân thừa vô
+nhất nhân long môn trường lão sơn tăng li bản viện độ hoang sơn lai đáo chân thừa chư nhân
+nhất nhất tướng kiến thử gian hữu nhất nhân long môn trường lão nhược hữu nhất nhân long môn trường
+lão ư pháp thành tăng nhược vô nhất nhân long môn trường lão ư pháp thành giảm giảm cố lạc
+đoạn/đoán tăng cố lạc thường kí đoạ đoạn/đoán thường khởi vân chính kiến nhất tự thượng tòa vị xuất gia
+thời vô nhất nhân thượng tòa kí xuất gia hậu hữu nhất nhân thượng tòa nễ chư nhân như hà
+tài đoạn/đoán đắc tâm địa an lạc/nhạc/nhạo khứ hoàn tài ban đắc ma hướng thử hữu cá nhập xứ canh
+hữu thập ma sự dã hoặc nhược vị minh lương cửu viết bất giải tác khách cửu lập
+thượng đường độc tự toạ phương tín tây lai hữu đạt ma độc tự hành bất dụng hồng liên túc
+hạ sinh độc tự ngữ phân minh hướng thùy thùy khẳng hứa độc tự sâm sa sa trần trần thị
+chỉ nam tướng phùng tướng vấn cùng đoan đích mạc đạo sơn tăng giải phóng ham
+đoan sư ông kị thần thượng đường tích nhân dĩ thừa bạch vân khứ thử địa không dư lục thuỷ
+lưu lục thuỷ nhất khứ bất phục phản bạch vân thiên tái không du du hồ nam cựu thuyết lão
+dương kì thất khước kim mao sư tử nhi giang nam giang bắc vô mịch xứ long môn kim nhật
+thuận phong xuy thuận phong xuy la la lí thuỷ cấp phong cao hạ điếu ki
+thượng đường điểu tùng không lí phi nhân hướng tâm trung trụ nhân tử tâm uyển nhiên điểu một không
+hà dự nhân sinh nhất quá điểu thử tâm thật khả cứ đãn tự liễu kì tâm vô lao vấn
+lai khứ sở dĩ tu bồ đề vấn thế tôn vân hà trụ thế tôn đáp viết như thị trụ
+noãn sinh thai sinh thấp sinh hoá sinh hữu sắc vô sắc hữu tưởng vô tưởng đẳng giai linh nhập
+vô dư niết bàn nhi diệt độ chi nhi thật vô hữu nhất chúng sinh thật diệt độ giả hoàn
+hội đắc ma tam giới vạn pháp thật vô ti hào sinh diệt động tĩnh chi tướng kì do mê
+thử quyết định hoặc vi sắc thân chi nội sở dĩ chất ngại danh sắc lĩnh nạp viết thụ tư
+duy viết tưởng thiên lưu viết hành phân biệt viết thức giai do tự tâm chi sở thành lập vi
+bất tri thử danh vi ngũ âm toại thành sắc tâm nhị pháp bất kiến đạo chiếu kiến ngũ uẩn
+giai không độ nhất thiết khổ ách hiện tiền ngũ âm chi thân vi hữu da vi vô da nhược
+năng như thị kiến đắc thật vô sinh tử đẳng sự hoặc vị nhiên giả khởi vô khứ lai hữu
+nhất tắc vô sinh tử nhân duyên cử tự đại chúng tích tiêm nguyên đồng đạo ngô điếu uý nãi
+phủ quan vấn đạo ngô viết sinh da tử da đạo ngô viết sinh dã bất đạo tử dã bất
+đạo tiêm nguyên bất tỉnh hậu văn tăng niệm liên kinh ưng dĩ tỉ khâu thân đắc độ giả tức
+hiện tỉ khâu thân nhi vi thuyết pháp hốt nhiên tỉnh đắc toại chí thạch sương huề thiêu pháp đường
+thượng tùng đông quá tây tùng tây quá đông thạch sương viết tác thập ma tiêm nguyên viết mịch tiên
+sư linh cốt thạch sương viết hồng ba hạo miểu bạch lang thao thiên mịch thập ma tiên sư linh
+cốt tiêm nguyên viết tiên sư linh cốt do tại đại chúng hoàn kiến đắc ma niêm khởi trụ trượng
+viết giả cá thị trụ trượng tử na cá thị linh cốt giả cá thị linh cốt na cá thị
+trụ trượng tử toại trác nhất hạ vân trường an dạ dạ gia gia nguyệt ảnh lạc hàn đàm kỉ
+cá tri
+thượng đường nhược luận thử sự như nhân mãi điền địa tướng tự tứ chí giới bạn nhất thời phân
+minh kết khế liễu dã duy hữu trung gian thụ tử do thuộc ngã tại đại chúng kí thị tứ
+chí phân minh kết khế tử dã vi thập ma trung gian thụ tử do thuộc tha bất kiến đạo
+thiên niên điền bát bá chủ nhược thức đắc trung gian thụ tử canh sừ nhâm nễ canh sừ bố
+chủng nhâm nễ bố chủng khai hoa nhâm nễ khai hoa kết tử nhâm nễ kết tử nhược vô trung
+gian thụ tử tranh hoán tác thường trụ lương cửu vân tác ma sinh tự vân cao xứ cao bình
+đê xứ đê bình
+thượng đường vân long môn biệt vô kì diệu cương vị đạn truyền tâm yếu khởi duy tiên thuỷ vô
+ngư bát thế toàn vô khổng khiếu nhị thời triển bát khai đạn trục nhật a thỉ tống tuy vạn
+sự dữ nhân nhất ban tử tế khán lai hảo tiếu kí thị vạn sự dữ nhân nhất ban vi
+thập ma xưng thiện tri thức lương cửu vân ngã dã lí hội bất xuất
+thượng đường kim chi tùng lâm thiên hạ đa hữu cầu nhất nhân hội vô tình thuyết pháp tắc vô
+mạc đạo hội đắc thảo nhất nhân cử thử thoại diệc nan đắc hà dã tu thị tằng thân văn
+thuyết pháp lai phương khả cử thị như vị tằng thân văn túng hữu cử thị kì ích trần lao
+ư kì tuệ mệnh vô sở tư ích đại chúng hội kí thiểu cử vưu nan tùng lâm tuy hữu
+nhật điêu tàn nhược dục minh tư chỉ ưng tu li niệm khán nhất nhân như lĩnh giải đại chúng
+tận tâm an kí thị nhất nhân lĩnh giải vi thập ma đại chúng tận tâm an nhược bất như
+thử tranh xưng xuất li chi môn
+thượng đường cử chí công viết ngã kiến thế gian chi nhân các chấp nhất ban dị kiến kì tri
+bàng ngao cầu bính bất giải phản bản quan miến bính tắc tùng lai thị miến tạo tác do nhân
+bá biến đại chúng hội ma li nô bạch cổ niệm ma ha miêu nhi cẩu tử trường tướng kiến
+chư thiền khách tiến bất tiến nhược ngôn tự tính bản viên minh đại tự môn không truy thiểm điện
+tri đắc ma hàm nguyên điện thượng canh mịch trường an từ thị cung trung nguyện sinh nội viện
+thượng đường tăng vấn thiên xích ti luân trực hạ thùy nhất ba tài động vạn ba tùy như hà
+thị nhất ba sư vân nễ tầm thường như hà thôn thổ tăng vân như hà thị chúng ba sư
+vân trước y khiết phạn hữu thậm nan tăng vân câu đầu nhất cú thỉnh sư đạo sư vân nễ
+tự đạo thủ tăng vân hùng hùng giang thượng thùy luân giả can thượng thời thời hữu cẩm lân sư
+vân một giao thiệp sư phục vân chư nhân giả vô quá thử thời dã trường nhẫm ma diệc hữu
+bất nhẫm ma thời thiền học nhân đạo vô hữu bất nhẫm ma thời thuyết cá nhẫm ma dĩ thị
+bất nhẫm ma dã nhẫm ma thời danh vi đắc niệm bất nhẫm ma thời danh vi thất niệm như
+kim vấn chư nhân vi thường thất niệm diệc hữu bất thất niệm thời thiền học nhân đạo thường danh
+đắc niệm thời thuyết cá đắc niệm dĩ thị thất niệm liễu dã yếu tri đắc nhẫm ma đãn liễu
+thủ bất nhẫm ma thời yếu minh đắc niệm đãn thức thủ thất niệm thời cố tiên đức đạo nhẫm
+ma nhẫm ma hựu vân bất nhẫm ma bất nhẫm ma hảo kì quái chư cao đức thị dĩ thích
+ca như lai hựu vân đắc niệm thất niệm vô phi giải thoát thành pháp phá pháp câu danh niết
+bàn địa ngục thiên cung giai vi tịnh độ nễ đẳng hoàn tri đắc nhất đoạn chân thật sự phủ
+nhược tri đắc vĩnh siêu chung thuỷ chi hoạn thập nhị thời trung tự nhiên an lạc/nhạc/nhạo vô sự dã
+hạ tòa
+thượng đường vân bất động long môn nội hành sâm cổ phật cơ thân phùng cừ diện mục khẳng thoại
+tự dong nghi phàm thánh tâm bình đẳng cao đê lộ thản di đan hà thiêu mộc phật viện chủ
+lạc tu mi hà cố linh hạ tòa
+thượng đường cử lục tổ đại sư tại đại dữu lĩnh đầu thị minh thượng tòa viết bất tư thiện
+bất tư ác chính đương nhẫm ma thời a na cá thị minh thượng tòa bản lai diện mục minh
+tức đại ngộ đại chúng hoàn hội giả thoại ma chính đương nhẫm ma thời lịch kiếp bất tằng mê
+bộ bộ siêu tam giới quy gia đốn tuyệt nghi
+thượng đường cử tăng vấn trung quốc sư như hà thị bản thân lô xá na sư viết dữ ngã
+quá tịnh bình lai kì tăng quá tịnh bình sư viết khước tương cựu xứ trước kì tăng tống khứ
+cựu xứ tái lai vấn như hà thị bản thân lô xá na sư viết cổ phật quá khứ cửu
+hĩ thử nhất tắc pháp môn nhược phi chứng nhập mạc hiểu tông du nhược túng tâm viên chung thành
+giải hội tầm thường tận đạo thậm xứ lai bất thị lô xá na canh bất thức liễu tái vấn
+khởi bất thị quá khứ cửu hĩ hựu đạo quốc sư tự thụ dụng tam muội tái tam nhược vấn
+lô xá na tự thị cổ phật quá khứ cửu hĩ hựu vân như hà thị bản thân lô xá
+na lương cửu xứ hảo hội thủ nhược bất uy tri toại lạc thảo hướng nễ đạo dữ ngã quá
+tịnh bình lai như tư giải hội đãn túng tâm viên bất kiến quốc sư vân đắc chi ư tâm
+y lan tác chiên đàn chi thụ thất chi ư chỉ cam lộ nãi tật nhập/chấp lê chi viên yếu tri
+ma thái dương môn hạ nhật nhật tam thu minh nguyệt đường tiền thời thời cửu hạ đại chúng như
+hà thị lô xá na quy đường khiết trà khứ hạ tòa
+thượng đường tích triệu châu hòa thượng phóng am chủ vấn viết hữu ma hữu ma am chủ thụ khởi
+quyền đầu triệu châu viết thuỷ tiên bất thị bạc thuyền xứ bật tụ nhi xuất hựu phóng nhất am
+chủ vấn viết hữu ma hữu ma am chủ thụ khởi quyền đầu triệu châu viết năng túng năng đoạt
+năng sát năng hoạt lễ tam bái nhi khứ sư vân am chủ nhất ban thụ khởi quyền đầu triệu
+châu hà cố khẳng nhất cá bất khẳng nhất cá thả đạo đắc thất tại thập ma xứ triệu châu
+tự khởi tự đảo khám phá đa thiểu a sư am chủ toạ đoạn/đoán yếu tân quá liễu đa thiểu
+hàn thử yếu thức triệu châu ma bác thiền sàng hữu giác vân thức thủ triệu châu yếu thức nhị
+am chủ ma bác thiền sàng tả giác vân thức thủ am chủ hoàn hữu nhân điểm kiểm đắc thất
+xứ xuất ma lương cửu vân dị khai chung thuỷ khẩu nan bảo tuế hàn tâm hạ tòa
+ngô cư sĩ thỉnh thượng đường thân thị phật thân tu tín lục căn thanh tịnh hành danh phật hành
+cố tri tam nghiệp viên minh thân tịnh tắc cấu vô sở sinh hành minh tắc ám vô sở khởi
+cấu sinh do hồ mê tịnh tịnh tác cấu nhi mạc giác mạc tri ám khứ tất do đắc minh
+minh tức ám nhi nan tín nan giải sở dĩ chư thánh thường gia bí quần sinh tự khí di
+cẩu dị lự ư khả tác chi sơ cức tình hướng ngộ vi chi hậu thân khai trí dược ngưỡng
+khấu từ quan tha tâm tuệ nhãn dĩ đỗng tri trùng tội tú oan giai khả sám bồ tát bi
+nguyện biến mãn sa bà chúng sinh ai đầu vô bất minh cảm thị tri minh ám cộng thể cấu
+tịnh đồng nguyên phàm phu hữu thành phật chi kì đại sĩ hữu độ sinh chi phân cẩu bất như
+thử vạn thiện đồ hưng công đạt cư sĩ dữ như đạo nhân đỗng minh bào ảo liễu ngộ phù
+sinh cộng nhập sơn lai cứu minh tư sự kim thần thỉnh sơn tăng thăng tòa thuyết pháp kí đắc
+tích nhật bùi hưu phóng hoa lâm hòa thượng vấn viết sư hoàn hữu thị giả phủ lâm viết hữu
+nhất lưỡng cá hưu viết tại thập ma xứ lâm nãi hoán đại không bất không thời nhị hổ tự
+am hậu hao hống nhi xuất hưu đổ chi kinh quý lâm ngữ nhị hổ viết hữu khách thả khứ
+nhị hổ hao hống nhi khứ hưu vấn viết sư tác hà hành nghiệp cảm đắc như tư lâm nãi
+lương cửu viết hội ma hưu vân bất hội lâm vân sơn tăng thường niệm quan âm đại chúng hội
+tha thử cá ý chỉ ma thường niệm quan âm lực phục mãnh thú đạo nhãn thông minh vạn duyên
+hà hữu lương tai đại sĩ thời thời thùy thủ niệm tư tại tư an lạc/nhạc/nhạo trường thọ hạ tòa
+thượng đường vĩnh gia nhất tú nhi ngộ toại viết kỉ hồi sinh kỉ hồi tử sinh tử du du
+vô định chỉ tự tùng đốn ngộ liễu vô sinh ư chư vinh nhục hà ưu hỉ đại chúng thuyết
+hữu sinh tử diệc thị ngôn thuyên thuyết vô sinh tử diệc thị ngôn thuyên kí thiệp ngôn thuyên tắc
+thị sự tích thả sự thô dị hiển lí diệu nan chương cố ngôn cận nhi chỉ viễn như hà
+dĩ chí cận chi ngôn minh kì chí viễn chi chỉ bất kì nan tai tiên thánh đạo đắc chỉ
+vô ngôn di sự quan lí hậu nhân bất hiểu tiện nãi sự ngoại tầm lí ngôn ngoại cầu chỉ
+thí như dĩ thủ toát ma hư không đồ tự bì lao chung vô sở ích yếu tri đắc lực
+dụng ý xứ ma tu tức sự vô sự tức ngôn vô ngôn ngộ nhập phương thân giải hội bất
+đắc nhược như thị ẩn hiển thí vi thần dụng nan trắc dã bất kiến tăng vấn thủ sơn như
+hà thị phật pháp đại ý thủ sơn viết sở vương thành bạn nhữ thuỷ đông lưu tiện hữu nhân
+ngộ khứ quy đường
+thượng đường ngũ sắc đăng quang sảnh sở thành đãn trừ kì sảnh mạc trừ trần nhược ngôn bản nhãn
+hà tằng sảnh nãi thị lâm hà hạt tử nhân
+thượng đường tăng vấn kiếp hoả uy âm tiền biệt hữu nhất hồ thiên ngữ lâu khán xạ lạp bất
+thị ngải mao điền nãi đề khởi toạ cụ vân vị thẩm giả cá hoán tác thập ma sư vân
+chính kiến ngải mao điền tăng tiện ái sư vân do tác chủ tại sư phục vân kì nghi thuyết
+nhất cú hữu nhân hội đắc khứ do giác ta tử hoặc nhược vô nhân hội đắc sơn tăng khước
+thành vọng ngữ tư lượng liễu bất như thả hưu các tự đại gia đường trung khiết trà tự do
+tự tại miễn kiến tha thời dị nhật bí nhân thứ phá hà dã tương quân tự hữu gia thanh
+tại bất đắc phong hầu dã thị nhàn khiết đồ khứ hạ tòa
+thượng đường cử nam toàn hòa thượng vị chúng viết vương lão sư mại thân khứ dã hữu nhân mãi
+ma thời hữu nhất tăng vân mỗ giáp mãi sư viết hảo nhất viên thiền khách nam toàn vân bất
+tác quý bất tác tiện nễ tác ma sinh mãi kì tăng vô đối sư vân ố tiếu sát nhân
+hữu số tôn tú vi thử tăng trước ngữ triệu châu đạo minh niên dữ hòa thượng tác nhất lĩnh
+bố sam nhất nhân đạo thành hà đạo lí nhất nhân đạo hòa thượng thuộc mỗ giáp hậu lai tuyết
+đậu đạo biệt xứ dong hòa thượng bất đắc đại chúng hứa đa tôn tú tranh đầu cạnh mãi dã
+yếu vận xuất tự kỉ gia tài vương lão sư giao quan vị thành bất cảm hồ loạn phân phó
+giả ban hành hoá cổ kim diệc thiểu kiến chi long môn kim nhật diệc mại thân khứ dã nhiên
+tắc hữu quý hữu tiện tiện tắc phân văn bất trực quý tắc kim ngọc nan giai nễ mãi dã
+thuộc nễ nễ bất mãi dã thuộc nễ nhược thức đắc long môn long môn dữ nễ tác đạo bạn
+hữu nhân xứ vô nhân xứ khởi tâm động niệm tổng tri đắc nễ thiện tắc linh nhữ hành ác
+tắc linh nhữ chỉ túng kinh tam đồ lịch bát nan nhất bộ bất tướng xả li thường dữ nễ
+tác đạo bạn nễ nhược bất thức long môn long môn dữ nễ tác oan gia giáo nễ xuất gia
+sứ nhữ hành cước linh nhữ tầm sư khiển nhữ thể cứu toại giáo nễ bất hội linh nhữ mang
+nhiên linh nhữ cầu mịch giải hội linh nhữ xảo tác đạo lí toại linh tịnh diệu quốc độ nhi
+tác độ thạch sơn hà thường lạc/nhạc/nhạo pháp thân nhi tác vô minh phiền não thành bất tự tại thường
+sinh thối thất nhất bộ bất phóng xả thường dữ nễ tác oan gia đại chúng long môn thuộc nễ
+chư nhân lai đa thời thức đắc thị đạo bạn bất thức thị oan gia hoàn hữu nhân minh đắc
+thử chỉ ma nãi niêm trụ trượng điểm nhất hạ viết nhất đạo bạn nhị oan gia thông nghịch thuận
+biến hà sa nhãn thị không ế thị hoa đắc long môn đạo vô nhai toại phóng hạ trụ trượng
+tử vân thiểu mại lộng quy đường khứ
+thượng đường lạp nguyệt phiến tử công huân tuyệt hạo hạo lương phong động liêu quyết khởi chỉ diễm chưng
+lục nguyệt thiên tạm thời dữ quân giải phiền nhiệt hạ tòa
+ngũ tổ hòa thượng đáo thượng đường tào khê đại sư truyền y quy lĩnh nam hậu lai nhượng hòa
+thượng đắc pháp thụ dữ mã đại sư mã đại sư tiếp đắc bá trượng bá trượng đắc hoàng bách
+hoàng bách đắc lâm tế lâm tế đắc hưng hoá hưng hoá đắc nam viện nam viện đắc phong huyệt
+phong huyệt đắc thủ sơn thủ sơn đắc phần dương phần dương đắc từ minh đại sư từ minh đại
+sư tiếp đắc nhất nhân dương kì hòa thượng như kim dữ đà đắc để sự khán thử lão tử
+vân ngã giả lí như náo thị lí thượng can tử tướng tự thị nhân giai kiến man nễ nhãn
+đắc ma dương kì lão hậu lai tiếp đắc đoan hòa thượng nhất nhân thử lão tử tằng trụ thử
+sơn lai hữu tụng viết hải để châu động thời vân trung nguyệt hoàn hiện lương dạ vô cuồng phong
+thanh quang đô nhất phiến đoan sư ông hậu lai tiếp đắc tiên sư nhất nhân tiên sư hữu ngôn
+viết kì tùng giảo phá nhất cá thiết tuấn hãm trực đắc bá vị cụ túc thử lão tử sở
+dĩ nhất sinh khẩu ngạnh hảo thuyết ngạnh thoại phục tự tiên sư phó chúc chi hậu đại pháp truyền
+trì dĩ lai mạt hậu đông sơn nhất thời phân phó kim ngũ tổ đường đầu hòa thượng thử nhật
+hạnh đối nhân thiên quảng chúng thỉnh bất lận từ bi trùng vi hiển dương sứ tiên tông hữu cứ
+ngô đạo ích minh mạc bất đại hạnh
+thượng đường bào ảo đồng vô ngại như hà bất liễu ngộ nhãn lí đồng nhân xuy khiêu tử đạt
+pháp tại kì trung phi kim diệc phi cổ lục chích đầu tử mãn bồn hồng đại chúng thời nhân
+vi thập ma toạ địa khán dương châu bát vu trước bính tân phiên dạng ngưu thượng kị ngưu tiếu
+sát nhân
+thượng đường chư nhân vị đáo long môn sơn tương đạo long môn tại thế gian kí đáo long môn
+tâm tự tại am tùng bật bật thuỷ sàn sàn chư nhân hoàn thức long môn sơn ma nhược dã
+bất thức vị miễn sơn thanh thuỷ lục bá niên quang âm năng hữu kỉ hứa vị hồi quang đạt
+bản dĩ tiền đô thành mộng ảo toại niêm trụ trượng vân lục đạo chúng sinh tạo tội tạo nghiệp
+tam thế chư phật thành phật tác tổ tận tại sơn tăng trụ trượng đầu thượng chư nhân hoàn kiến
+ma trác nhất hạ vân bá tạp toái liễu dã phục triển thủ vân bả tương ti hào hứa lai
+hựu trác nhất hạ vân thủ chấp dạ minh phù kỉ cá tri thiên hiểu hạ tòa
+thượng đường giải trĩ đồng lan ban giả si huân du cộng xứ tu phân úc chư nhân giả đắc
+để nhân chung bất tự dị ư nhân nhi tùng tiền thiên thánh tất sở xưng tán thật hữu dị
+ư nhân xứ thí như nhị nhân đồng bào thai cộng phụ mẫu đồng xá đồng học đồng nhất sư
+thụ chí ư ẩm thực ngữ ngôn chi gian tất vô hữu dị nhất nhật đồng nhập thí viện đồng
+nhất đề mục nhi nhất nhân đắc đệ nhất nhân lạc đệ cập đệ giả vĩnh dị dân thứ lạc
+đệ giả nãi thị thường nhân thị nhị nhân sơ vô cải dị nhi quý tiện cao đê hữu dị
+kháp như đắc dữ bất đắc sơ vô hữu dị nhi nhất nhân đắc chi vị tề chư thánh nhất
+nhân mê chi toại tác phàm phu nhân tuy bất thù mê ngộ liêu viễn đại chúng khả bất kinh
+bố giả tai sở dĩ hương lâm hòa thượng vân lão tăng nhị thập niên tiền kiến dữ ngã nhất
+ban nhất bối nhân tận giai đắc đạo ngã nhật dạ tư lượng tha đắc cá thập ma tiện như
+thử khứ ngã nhị thập niên trung thường khán hậu lai dã đắc nhẫm ma nễ khán tha tiên đức
+khổ thiết chi ngôn thật khả thủ tín khởi khả thủ chu đồ tang nhật nguyệt các nghi thể tất
+dĩ hậu dã tu đắc khứ bất lao cửu lập hạ tòa
+thượng đường long môn tam nguyệt bán đại cổ thanh thanh hoán hoán đắc nhất thời lai đặc địa sinh
+mê loạn đại chúng kí thị hoán đắc nhất thời lai vi thập ma đặc địa sinh mê loạn thử
+đoạn hảo nhân duyên chư nhân chẩm sinh đoạn/đoán bất giải đoạn/đoán chuyển mê loạn nhược giải đoạn/đoán giác nhất
+bán lương cửu viết nhân duyên nhất đoạn vô nhân đoạn/đoán lưu dữ chư phương cộng đoạn/đoán khán
+thượng đường thu đắc bản danh độ điệp đạp biến tự kỉ sơn xuyên văn hữu long môn trường lão
+tẩu lai học đạo sâm thiền nhẫm ma tinh tinh hán tử như hà lập địa hạp miên hốt nhiên
+thụy tỉnh nhãn khai nguyên lai thiên sinh tự nhiên sư nãi thất thanh viết ố thảo sát ngã thảo
+sát ngã hoàng thiên hoàng thiên tầm sát ngã tuy nhiên như thị tri thị ban sự tiện hưu trực
+tu vận xuất tự kỉ gia tài mạc tự câu ư tiểu tiết sâm đường
+thượng đường thả đạo sơn tăng tức kim hoàn hữu vi nhân xứ ma nhược hữu vi nhân xứ tức
+mai một sơn tăng nhược vô vi nhân xứ tức mai một thượng tòa bỉ thử xuất gia nhi mạc
+đệ tướng mai một hảo yếu tri ma sơn tăng tương nễ bản phân sự cử tự nễ chư nhân
+hà bất ư nễ bản phân sự thượng thức thủ thức đắc ma nhược đạo tiện thị mỗ giáp bản
+phân sự dã như hướng nhãn tình thượng hạ nhất đinh tướng tự nhược đạo ngã tuy hữu bản phân
+sự thật vị liễu tri nễ hựu phi thập ma y phục đại chúng kí thị nhẫm ma nhân thức
+thủ nhẫm ma sự cửu lập hựu hề vi trân trùng
+thượng đường tăng vấn nạp tu di ư giới trung trịch đại thiên ư phương ngoại nạp tăng môn hạ
+tổng dụng bất trước học nhân dục sứ nê ngưu canh cự hải tu di giá thiết thuyền sư hoàn
+hứa dã vô sư vân thập tự túng hoành nhất nhâm hành thủ tăng vân đạp phá trừng đàm nguyệt
+xuyên khai bích lạc thiên sư vân do vị tri nạp tăng phân thượng sự tại tăng vân hữu ý
+khí thời thiêm ý khí bất phong lưu xứ dã phong lưu sư vân hồng châu yêu đái sư phục
+vân xuân quang tiêm tận hạ cảnh tương lâm du du chi đồ tham sinh quá nhật ngã kim vấn
+nễ chư nhân tùng tảo chí dạ niệm niệm bất trụ thị hữu tư lượng thị vô tư lượng nhân
+nhân tất vị thị hữu tư lượng ngã thả vấn nễ tác ma sinh tư lượng hà bất thức thủ
+nễ chư nhân tư lượng liễu tùy nhi hưng tác vận vi dã ngã vấn nễ tác ma sinh hưng
+tác hà bất thức thủ nễ chư nhân ư hưng tác thời khởi chủng chủng ngôn thuyết thả tác ma
+sinh ngôn thuyết hà bất thức thủ đô duyên thị tự gia tiên mê liễu kì quản tùy xứ lưu
+lang sở dĩ đạo đạo nguyên bất viễn tính hải phi dao đãn hướng kỉ cầu mạc tùng ngoại mịch
+mịch tức bất đắc đắc diệc bất chân như tại hư không thối chí hà sở hoàn khẳng ma nễ
+chư nhân tại ngã giả lí hoặc tạm kinh đông hạ hoặc cửu thiệp diễm lương nhược đáo biệt xứ
+nhân vấn long môn sự bất khả chỉ đông hoạch tây loạn hữu sở thuyết khước thành khi võng dã
+các tương vi sự các tương vi sự nhân thành tứ kệ tư vô tư tư vạn tà nhất chính
+bất thức huyền chỉ đồ lao niệm tĩnh tác vô tác tác quán sắc thông thanh thuỷ trung diêm vị
+bất kiến kì hình ngôn vô ngôn ngôn bất phí thần thiệt vị thuyết chi pháp lâm trung chi diệp
+long môn lạo đảo cáo báo chư nhân kí nhiên như thị hà cố nhân tuần
+hiền tịch đầu nạp sơ thượng đường nhất diệp phiêu biều thuỷ thượng quy cô tô xuân sắc chiếu nham
+phi toạ thiền phiến thạch trùng lai khán khước tiếu sơn vân bật tiển y sở dĩ trầm không trệ
+tịch chi sĩ danh vi tham trước tiểu thừa hồn thế đồng trần chi nhân vị chi viên thông chi
+lữ bất xả đạo pháp nhi hiện phàm phu sự khởi thị thực chủng ư không hiện tiền nhật dụng
+thị đại tổng trì môn nhất nhất thân đắc kì lực như tư chi chỉ sự khả lượng tai tích
+nhật hoàng mai tán tịch đạo tại lão lô toạ chiết liên sàng hồ nam tống mộc thủ thịnh cổ kim bảng
+dạng tác giả đồng tri tấn chỉ hợp nghi động tĩnh khả pháp huống long môn tân hưng bảo xã
+ý tại cầu nhân chúng thủ đào kim thùy thị đắc giả hữu ma hữu ma linh nhân tư bá
+trượng giải đạp mã câu hành sâm
+thượng đường đỗ thuận văn thù sự khả tri định quang như lai lão đại tùy trương tam lí tứ
+hà vương triệu vấn nễ cừ kim thị a thùy triền thị mại ngư vô tấn thú án đầu phân
+nhục lộ toàn cơ nam nhi toả tử hoàng kim cốt khổ thống vô minh đoạ ô nê
+kết hạ thượng đường đăng long môn hạ vô phàm khách bất giả phong lôi tự hữu kì tam nguyệt
+tấn tu tùng thử thuỷ kinh hành yến toạ khả tư nghị tam nguyệt an cư cửu tuần cấm túc
+bẩm như lai chi giáo chỉ nãi thích tử chi thanh quy kiếu bột tân lương nhân gian thiên thượng
+hoặc thùy thủ nhập triền giả vị thường li ư thử tòa quan tâm nhập định giả diệc thường du
+hồ thập phương thử khởi khả dĩ hữu tâm tri khởi khả dĩ vô tâm hội cẩu năng như thị
+hà sinh nhi bất hộ hà túc nhi bất cấm phú bí vạn linh quảng ích quần phẩm hoặc bất
+do tư đạo giả ngô mạt như chi hà dã hạ tòa
+thượng đường kim thời học giả bất cứu phật ngữ kì cứu tổ sư ngữ thù bất tri tổ sư
+ngữ tức thị phật ngữ mạc như thử giản trạch khước thành dụ phật pháp khứ kì như vân môn
+đại sư thị chúng viết nhân nhân tận hữu quang minh tại khán thời bất kiến ám hôn hôn tác
+ma sinh thị quang minh tự đại vân tam môn phật điện trù khố tăng đường hựu vân hảo sự
+bất như vô giả cá thị tổ sư ngữ thị tha đạo tam môn phật điện trù khố tăng đường
+chư nhân tầm thường khán thời thị khán thị bất khán nhược khán tha đạo khán thời bất kiến ám
+hôn hôn như hà đắc thành quang minh kí thị quang minh liễu hựu đạo hảo sự bất như vô
+tác ma sinh hựu bất yếu khứ thả như lăng nghiêm hội thượng thuyết cá hối muội vi không không
+hối ám trung kết ám vi sắc sắc tạp vọng tưởng tưởng tướng vi thân tụ duyên nội dao thú
+ngoại bôn dật hôn nhiễu nhiễu tướng dĩ vi tâm tính nhất mê vi tâm quyết định hoặc vi sắc
+thân chi nội bất tri sắc thân ngoại kị sơn hà hư không đại địa hàm thị diệu minh chân
+tinh diệu tâm trung sở hiện vật giả cá thuyết thoại thậm thị tử tế thả đạo dữ vân môn
+đạo để sự tướng khứ đa thiểu mạc kì minh tổ sư ngữ bất cứu phật ngữ hữu nhân viết
+ngã diệc bất dụng phật ngữ bất dụng tổ sư ngữ kì dụng tự ngữ tổ sư ngữ phật ngữ
+thượng bất yếu canh dụng tự ngữ hựu đạo ngã tông vô ngữ bất dụng ngôn ngữ hữu ngữ thượng
+bất thị huống vô ngữ da mạc tác mộng tùng triêu chí dạ phật pháp tác nhất biên tổ sư
+ngữ tác nhất biên hữu ngữ tác nhất biên vô ngữ tác nhất biên vọng tưởng tác nhất biên vô
+vọng tưởng tác nhất biên nhược nhẫm ma chân khả vị khán thời bất kiến ám hôn hôn dã cửu
+lập
+thượng đường thập phương thế giới long môn tự đại địa sơn hà thị học đồ tùy thuận chúng duyên
+thành giải thoát toán lai toàn bất phí công phu
+thượng đường cử tăng vấn triệu châu học nhân sạ nhập tùng lâm khí sư chỉ thị triệu châu viết
+khiết dục liễu dã vị tăng vân khiết dục liễu dã châu vân tẩy bát vu khứ kì tăng ngôn
+hạ tiện ngộ đại chúng sơn tăng kim triêu khiết dục dã tẩy bát vu kì thị bất ngộ kí
+thị vi thiện tri thức vi thập ma khước bất ngộ hoàn hội ma khởi khả hoán chung tác úng
+chung bất chỉ lộc vi mã thiện nhân nan phạm thuỷ ngân vô giả lãnh địa hốt nhiên thứ phá
+quản thủ nhất thời phóng hạ
+thượng đường long môn nhược vi tác đoan ngọ đả động chúng nhân đồ độc cổ độc lâu phá hậu
+khiển thùy văn giám giác tận thời cảm ngôn phổ thị vị nam sơn miết tị xà hảo cá đại
+hùng bạch ngạch hổ khả lân khai nhãn mịch nhãn nhân hách nhật quang trung tầm nhập lộ
+thượng đường phiêu phiêu dao dao dương liễu hoa hồng hồng xích xích viễn thiên hà quật quật khúc khúc
+long môn lộ tích tích tĩnh tĩnh dã tăng gia thượng bất tâm đầu hoài thắng giải thùy năng kiếp
+ngoại toán hà sa hưu lương phương tử trai kiêm dục nhâm vận hoàn hương khổ sáp trà hảo đại
+ca khiết trà khứ
+thượng đường thất thất tứ thập cửu diện nam khán bắc ẩu tử khứ dữ sinh lai nê ngưu đại
+hao hống sở dĩ thích ca lão tử vị li đâu suất dĩ giáng vương cung vị xuất mẫu thai
+độ nhân dĩ tất như thử tắc tì lô cảnh giới chỉ tại nhân gian niết bàn diệu tâm canh
+ư hà mịch tích nhật na trá thái tử tích nhục hoàn mẫu tích cốt hoàn phụ nhiên hậu hiện
+bản thân vận đại thần thông đại chúng nhục kí hoàn mẫu cốt kí hoàn phụ dụng thập ma vi
+thân học đạo nhân đáo giả lí nhược kiến đắc khứ khả vị khuếch thanh ngũ uẩn thôn tận thập
+phương thính thủ nhất tụng cốt hoàn phụ nhục hoàn mẫu hà giả thị thân phân minh thính thủ sơn
+hà quốc độ hiện toàn khu thập phương thế giới tại lí hứa vạn kiếp thiên sinh tuyệt khứ lai
+sơn tăng thử thuyết phi ngôn ngữ hạ tòa
+thượng đường mô chưởng đại tiếu lương cửu viết đại chúng tiếu cá thập ma sơn tăng tiếu cổ vãng
+kim lai nhất thiết nhân hữu miết địa hữu bất miết địa bất miết địa chi nhân như hắc địa
+số úng hữu thậm phân hiểu miết địa chi nhân tiện tự hồi đầu chuyển não đông vấn tây vấn
+thí như y cẩm dạ du vấn lai vấn khứ vấn khứ vấn lai hốt nhiên như trú kiến nhật
+tiện vân thí như hữu mục nhật quang minh chiếu kiến chủng chủng sắc đa thiểu phân minh tuy nhiên
+như thử canh tu tri hữu hướng thượng sự mạt hậu cú thuỷ đắc bãi sâm đại chúng thuỷ ư
+miết địa chung ư bãi sâm cổ vãng kim lai mạc quá như thử sơn tăng sở dĩ tiếu tha
+kháp như xuân mộng tướng tự chư nhân hoàn tằng mộng kiến ma mạc đạo vô sự pháp nhĩ thiên
+chân hảo khởi bất kiến đại dữu lĩnh đầu tằng cản thượng thiểu thất nham tiền lập đáo yêu khởi
+đắc bất ngộ ư nhân hảo đại ca khiết trà khứ hạ tòa
+hành giả thế phát thượng đường sơn tăng nhân nhi độ đắc tiểu sư nhất nhân toại niêm khởi trụ
+trượng thị chúng vân kiến ma pháp danh sùng mộc tục tính cát lương cửu hựu vân nhĩ kí đầu
+ngô xuất gia kim vi nhữ thụ tam quy ngũ giới nãi vân sùng mộc quy y phật quy y
+pháp quy y tăng dĩ vi nhữ tác tam quy kim vi nhữ phiên thập tà thụ ngũ giới nhữ
+đương thính thụ sở vị thân khẩu ý dã thân hữu tam quá vị sát đạo dâm ý hữu tam
+quá vị tham khuể si khẩu hữu tứ quá vọng ngôn ỷ ngữ lưỡng thiệt ác khẩu tác thử thập
+giả danh vi thập ác vô thử thập giả danh vi thập thiện nhữ kim ư tam nghiệp môn trung
+bẩm thụ giới pháp sở vị bất sát bất đạo bất vọng bất dâm bất ẩm tửu thị ngũ giới
+tướng nhữ y ngô giáo tín thụ phụng hành phục trác trụ trượng nhất hạ vân sùng mộc văn ngô
+giáo huấn nãi cáo ngô viết hòa thượng sở thuyết đãn sùng mộc tùng lai vô thân khẩu ý diệc
+bất tri hà dĩ vi trì phạm túng văn tam quy ngã bất tri hà giả danh phật pháp tăng
+văn ngũ giới tướng tùng hà thụ trì tuy phiền hòa thượng như thử sùng mộc tịnh vô lĩnh lãm
+xứ sư phóng hạ trụ trượng viết thử chân ngô đệ tử dã thị chân quy y dã chân thụ
+đắc giới dã sở dĩ tích nhân vân hòa thượng hà bất súc nhất sa di lão tú vân hữu
+vô nhãn nhĩ giả vi ngô tầm nhất nhân lai chính thị thử ý dã hảo đắc lực tiểu sư
+đại chúng hội đắc phủ niêm khởi trụ trượng vân phù quá đoạn/đoán kiếu thuỷ bạn quy minh nguyệt thôn
+cửu lập
+thượng đường tổng biệt đồng dị kiêm thành hoại kì thị sơn tăng dữ chúng nhân cao quảng tu di
+nhập giới tử vô biên sa hải tại vi trần trú phục dạ thu phục xuân cảnh tịch tâm dung
+sự sự chân thất bảo đại xa kí như thử khứ lai ngữ mặc mạc nhân tuần thiền hòa tử
+văn thuyết liễu a a đại tiếu đạo ngã hội dã ngã hội dã sư nãi a a tiếu vân
+nễ hội dã thả đạo tây thiên na lan đà tự hậu cô phong đỉnh thượng như kim hữu thập
+ma nhân tại bỉ trung tu hành kiến ma kiến ma hạ tòa
+thượng đường triệu châu đạo cá tẩy bát khứ kì tăng hoát nhĩ tri quy điểu khoà xuy khởi bố
+mao thị giả đương hạ đắc chỉ vi phục thị tựu y minh phá vi phục thị thổ lộ hướng
+y diệc bất thị tựu y minh phá diệc bất thị thổ lộ hướng y đại chúng hội ma bản
+hữu chi tính vi thập ma bất hội vi tứ diện lân hòa thượng quải chân hư không vô tướng
+bất cự chư tướng phát huy bảo kính vô hình khởi ngại quần hình đốn hiện tướng dữ hình nhi
+thường nguỵ không dữ kính nhi thường chân cố tức nguỵ tức chân bất sinh bất diệt đại chúng hoặc
+nhược hư không đốn tiêu vẫn bảo kính bất lâm đài quang cảnh câu vong phục thị hà vật lục
+thập tam niên tức thả trí thả đạo tức kim tứ diện lão tử tại thập ma xứ toại niêm
+khởi chân vân sinh nhai hà sở hữu kim cổ dữ nhân truyền
+thượng đường hạ dĩ bán sơn trung tảo vãn bất thậm nhiệt tri sự tì tán ngoại vô dạng thủ
+tòa đại chúng khang hưu tây am thủ tòa đán mộ lưu từ pháp lạc/nhạc/nhạo vô lượng sơn môn nội
+ngoại ung túc biểu lí an dụ niết bàn sơn pháp tính hải khởi dong thủ chứng tạo nghệ nghĩ
+nghị ư kì gian tai tại phu sơn tăng dữ chư nhân đăng cao nhi lí thâm bất khả toạ
+thủ an dật nhi vô sở đắc dã các nghi tất sát tích hữu nhất thiền khách thân cận nhất
+lão tú thậm cần lão tú mỗi kiến lai tức huy thủ viết vị tại vị tại thả khứ như
+thị kinh cửu kì tăng trung dạ tư duy viết tịnh bất mông nhất ngôn khai thị kì quản đạo
+ngã vị tại giáo ngã chẩm sinh nại hà tư lượng lai tư lượng khứ hốt nhiên tỉnh đắc hoan
+hỉ vô lượng chí minh nhật thượng khứ kiến lão tú lão tú kiến lai tiện điểm đầu viết thị
+dã thị dã đại chúng giả cá tiện thị đạt ma đại sư sở truyền tông chỉ thả như hà
+tiện kiến đắc lương cửu vân điểu cảm điểu cảm điểu thủ không trì ngư tùng cước hạ quá điểu cảm điểu cảm tổng
+bất tri quy đường
+ngũ tổ kị thần thượng đường triệu châu bất kiến nam toàn sơn tăng bất thức ngũ tổ điềm qua
+triệt đế tự điềm khổ hồ liên căn tự khổ
+thượng đường đạt ma đại sư nhập trung quốc chí kim kỉ thiên niên đắc kì đạo giả thậm chúng
+lĩnh kì chỉ giả thật đa đại tự nhất nhân truyền hư vạn nhân truyền thật đại chúng lưu ngôn
+chỉ ư trí giả chư nhân tam thập niên hậu mạc đạo kiến long môn lai
+thượng đường tiên thánh đạo pháp tính hải trung thân nhận đắc thụ khởi bật tử vân hoàn hữu nhận
+đắc để ma lương cửu vân nhận đắc dã tại pháp tính hải trung nhận bất đắc dã tại pháp
+tính hải trung đại chúng kí tổng tại pháp tính hải trung hà cố khước hữu nhận đắc nhận bất
+đắc thả đạo thử lí như hà mỗi thường huynh đệ đạo hà xứ bất thị pháp tính hải sơn
+tăng trực thị bất khẳng nễ đạo bệnh tại hà xứ hữu nhân đạo bệnh tại hữu đạo lí xứ
+sơn tăng vấn y như hà đắc vô đạo lí khứ đà đạo trân trùng tiện xuất hoặc đạo kim
+nhật thất lai nhật bát đại chúng nhược tổng nhẫm hội như hà kiến đắc cổ nhân đạo pháp tính
+hải trung thân nhận đắc khứ mạc tương nhàn học giải mai một tổ sư tâm
+giải hạ thượng đường tôn giả kiêu trần như cửu tuần tối thân thiết lão thiểu hạnh tướng y thượng
+hạ giai hoan duyệt chiêm thính li văn kiến thừa lãm diệc siêu tuyệt tứ hải ngũ hồ nhân vật
+vị chân cơ duệ
+thượng đường tích ngưỡng sơn hạ mạt lễ bái quy sơn quy sơn vấn viết tử kim hạ tác hà
+sở vụ ngưỡng sơn vân khai đắc nhất phiến điền chủng đắc nhất la túc quy sơn vân tử kim
+hạ dã bất không quá ngưỡng sơn khước vấn hòa thượng kim hạ tác hà sở vụ quy sơn vân
+trú nhật nhất xan tảo thần nhất dục ngưỡng sơn vân hòa thượng kim hạ diệc bất không quá ngôn
+liễu thối hậu thổ thiệt quy sơn vân tử hà đắc tự trì bạch nhận đoạn/đoán kì mệnh căn ngưỡng
+sơn bật tụ tiện xuất đại chúng quy sơn phụ tử tầm thường tướng kiến du hí thần thông bất
+đồng tiểu tiểu hoàn hữu tri đắc để ma nhược vô sơn tăng dữ chư nhân thuyết khán khai nhất
+phiến điền mật mật miên miên lưỡng đốn dục phạn kì đạo tự biện sơn tăng nhất hạ dữ chư
+nhân tướng kiến tự thị chư nhân bất tiến nhược hoặc tiến thành nhất phiến thị thập ma nhất phiến
+khán thủ đương môn tiến
 
-> cổ tôn tú ngữ lục quyển đệ nhị thập bát chung
+> cổ tôn tú ngữ lục quyển chi nhị thập bát chung
 
 <hr class="blog-rule" />
 
