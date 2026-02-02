@@ -248,13 +248,15 @@ Nếu ngoài cây có hương đó là hương của vật khác, nếu ngoài t
 
 Trong tâm có ba độc (10) gọi là cõi nước dơ xấu (quốc độ uế ố). Trong tâm không có ba độc thì là cõi nước thanh tịnh. 
 Kinh dạy: “Nếu làm cho cõi nước không trong sạch, đầy những dơ xấu, các đức Phật Thế Tôn xuất hiện trong đó là việc chưa từng có”. 
-Bất tịnh, dơ xấu thuộc về vô minh và ba độc. Chư Phật Thế Tôn thuộc về tâm thanh tịnh giác ngộ.
+Bất tịnh, dơ xấu thuộc về vô minh và ba độc. 
+Chư Phật Thế Tôn thuộc về tâm thanh tịnh giác ngộ.
 
 Hết thảy ngữ ngôn không gì chẳng là Phật Pháp. Nếu suốt ngày thường nói mà chẳng nói một lời đó là đạo. 
 Nếu suốt ngày không nói mà có điều để nói, đó là phi đạo. 
 Do đó Như Lai nói mà không nương nơi yên lặng, yên lặng mà không nương nơi nói, nói cũng không rời yên lặng. 
 Người ngộ được sự nói nín như vậy là ở trong tam muội (11). 
-Nếu khi biết mà nói, nói là giải thoát. Nếu không biết, không nói cũng là trói buộc. Do đó, lời nói nếu rời tướng trạng thì nói là giải thoát. 
+Nếu khi biết mà nói, nói là giải thoát. Nếu không biết, không nói cũng là trói buộc. 
+Do đó, lời nói nếu rời tướng trạng thì nói là giải thoát. 
 Yên lặng mà dính vào tướng trạng, yên lặng cũng là trói buộc. 
 Tính của văn tự vốn là giải thoát, văn tự không có gì trói buộc, trói buộc vốn không can hệ gì với văn tự.
 
@@ -282,7 +284,7 @@ Khi thấy nước thì quên cá, khi thấy Phật thì quên tâm.
 Nếu không quên tâm thì sẽ bị tâm lôi kéo, nếu không quên nước thì sẽ bị nước làm mê.
 
 Chúng sanh và Bồ đề (13) cũng như băng với nước.
-Vì bị ba độc đốt cháy nên là chúng sanh, khi ba độc được ba môn giải thoát (14) rữa sạch thì là Bồ đề. 
+Vì bị ba độc đốt cháy nên là chúng sanh, khi ba độc được ba môn giải thoát (14) rửa sạch thì là Bồ đề. 
 Mùa lạnh đông lại là băng, mùa Hạ chảy là nước.
 Bỏ băng thì không còn nước. 
 Nếu bỏ chúng sanh thì không có Bồ đề nào bên ngoài. 
@@ -293,28 +295,63 @@ Vì mê cho rằng cảnh khác nhau nên có tên chúng sanh và Bồ đề.
 Khi rắn thành rồng không đổi vãy, phàm chuyển thành Thánh không thay đổi mặt, chỉ tỏ rõ tâm bằng trí tuệ ở bên trong, soi chiếu thân bằng giới hạnh bên ngoài.
 
 Chúng sanh độ Phật, Phật độ chúng sanh, gọi là bình đẳng. 
-Chúng sanh độ Phật, tức là phiền não sinh giác ngộ. Phật độ chúng sanh tức là giác ngộ diệt trừ phiền não. Nên biết rằng chẳng phải không có phiền não, chẳng phải không có giác ngộ. Không thể không có phiền não mà có giác ngộ, không thể không có giác ngộ mà hết phiền não. Khi mê Phật độ chúng sanh, khi ngộ chúng sanh độ Phật. Vì sao? Phật không tự thành mà đều do chúng sanh độ. Chư Phật lấy vô minh làm cha, lấy tham ái làm mẹ. Vô minh, tham ái đều là tên gọi khác của chúng sanh. Chúng sanh với vô minh như tay trái với tay phải, thảy không khác biệt.
+Chúng sanh độ Phật, tức là phiền não sinh giác ngộ. 
+Phật độ chúng sanh tức là giác ngộ diệt trừ phiền não. 
+Nên biết rằng chẳng phải không có phiền não, chẳng phải không có giác ngộ. 
+Không thể không có phiền não mà có giác ngộ, không thể không có giác ngộ mà hết phiền não. 
+Khi mê Phật độ chúng sanh, khi ngộ chúng sanh độ Phật. 
+Vì sao? Phật không tự thành mà đều do chúng sanh độ. 
+Chư Phật lấy vô minh làm cha, lấy tham ái làm mẹ. 
+Vô minh, tham ái đều là tên gọi khác của chúng sanh. Chúng sanh với vô minh như tay trái với tay phải, thảy không khác biệt.
 
 Khi mê ở bờ bên này, khi ngộ ở bờ bên kia. 
-Nếu biết tâm là Không, không thấy tướng, thì rời cả mê và ngộ. Khi rời mê ngộ thì cũng không có bờ bên kia.
-Như Lai không ở bờ bên này cũng không ở bờ bên kia, cũng không ở giữa giòng. Giữa giòng là Tiểu thừa. Bờ bên này là phàm phu. Bờ bên kia là Bồ đề.
+Nếu biết tâm là Không, không thấy tướng, thì rời cả mê và ngộ.
+Khi rời mê ngộ thì cũng không có bờ bên kia.
+Như Lai không ở bờ bên này cũng không ở bờ bên kia, cũng không ở giữa giòng.
+Giữa giòng là Tiểu thừa. 
+Bờ bên này là phàm phu. 
+Bờ bên kia là Bồ đề.
 
 Phật có ba thân là Hóa thân, Báo thân và Pháp thân (15). 
-Hóa thân cũng được gọi là Ứng thân. Khi chúng sanh hiện tạo tác việc lành là Hóa thân, hiện tu trí tuệ là Báo thân, hiện giác ngộ vô vi là Pháp thân. Thường hiện bay đi mười phương theo ý muốn mà cứu tế là Hóa Thân Phật, chặt đứt nghi ngờ tức thị hiện Thánh Đạo ở núi Tuyết, đó là Báo Thân Phật, không nói, không thuyết, không làm, không đắc, trạm nhiên thường trụ, đó là Pháp Thân Phật. Nhưng nói cho đến cùng thì một thân Phật còn không có, huống gì là có ba. Nói có ba chỉ là dựa trên sự biết của con người.
+Hóa thân cũng được gọi là Ứng thân. Khi chúng sanh hiện tạo tác việc lành là Hóa thân, hiện tu trí tuệ là Báo thân, hiện giác ngộ vô vi là Pháp thân. 
+Thường hiện bay đi mười phương theo ý muốn mà cứu tế là Hóa Thân Phật, chặt đứt nghi ngờ tức thị hiện Thánh Đạo ở núi Tuyết, đó là Báo Thân Phật, không nói, không thuyết, không làm, không đắc, trạm nhiên thường trụ, đó là Pháp Thân Phật. Nhưng nói cho đến cùng thì một thân Phật còn không có, huống gì là có ba. Nói có ba chỉ là dựa trên sự biết của con người.
 
-Người có ba hạng là thượng trung và hạ. Người hạ trí lầm nuôi nguồn phúc, lầm thấy Hóa thân Phật. Người trung trí lầm phá phiền não, lầm thấy Báo Thân Phật. Người thượng trí lầm chứng Bồ Đề, lầm thấy Pháp Thân Phật. Người thượng thượng trí, nội chiếu tròn lặng, hiểu rõ tâm tức là Phật, không nuơng vào tâm mà chứng Phật Trí, biết ba thân và vạn pháp đều không thể với cũng không thể bàn. Đó là tâm giải thoát, thành tựu đạo lớn. Kinh dạy: “Phật không thuyết Pháp, không độ chúng sanh, không chứng Bồ Đề.” Đó là điều tôi muốn nói.
+Người có ba hạng là thượng trung và hạ. Người hạ trí lầm nuôi nguồn phúc, lầm thấy Hóa thân Phật. 
+Người trung trí lầm phá phiền não, lầm thấy Báo Thân Phật. 
+Người thượng trí lầm chứng Bồ Đề, lầm thấy Pháp Thân Phật. 
+Người thượng thượng trí, nội chiếu tròn lặng, hiểu rõ tâm tức là Phật, không nuơng vào tâm mà chứng Phật Trí, biết ba thân và vạn pháp đều không thể với cũng không thể bàn. 
+Đó là tâm giải thoát, thành tựu đạo lớn. 
+Kinh dạy: “Phật không thuyết Pháp, không độ chúng sanh, không chứng Bồ Đề.” Đó là điều tôi muốn nói.
+Chúng sanh tạo nghiệp (16), nghiệp không tạo chúng sanh. 
+Đời này tạo nghiệp, đời sau nhận quả, không thể tránh khỏi. 
+Chỉ có người nào nơi thân này không tạo nghiệp thì mới không thọ báo. 
+Kinh dạy: “Các nghiệp không tạo, tự nhiên đắc đạo”. 
+Đó là lời vu vơ hay sao!? 
+Người tạo ra nghiệp, không thể tạo ra người. 
+Người khi tạo nghiệp, nghiệp và người cùng sinh.
+Người khi không tạo nghiệp, nghiệp và người cùng diệt. 
+Do đó biết rằng nghiệp là do người tạo ra, người do nghiệp sinh ra.
+Người nếu không tạo nghiệp thì nghiệp không không còn lý do sinh người. 
+Cũng như người có thể hoằng (truyền) đạo, đạo không thể hoằng người.
 
-Chúng sanh tạo nghiệp (16), nghiệp không tạo chúng sanh. Đời này tạo nghiệp, đời sau nhận quả, không thể tránh khỏi. Chỉ có người nào nơi thân này không tạo nghiệp thì mới không thọ báo. Kinh dạy: “Các nghiệp không tạo, tự nhiên đắc đạo.” Đó là lời vu vơ hay sao!? Người tạo ra nghiệp, không thể tạo ra người. Người khi tạo nghiệp, nghiệp và người cùng sinh. Người khi không tạo nghiệp, nghiệp và người cùng diệt. Do đó biết rằng nghiệp là do người tạo ra, người do nghiệp sinh ra. Người nếu không tạo nghiệp thì nghiệp không không còn lý do sinh người. Cũng như người có thể hoằng (truyền) đạo, đạo không thể hoằng người.
+Ngày nay còn phàm phu nên thường tạo nghiệp, nói lời hư dối rằng không có quả báo. 
+Làm sao tránh khỏi khổ báo? Tâm trước tạo, tâm sau chịu báo, làm sao thoát được? 
+Tâm niệm trước không tạo thì tâm niệm sau không chịu quả. Đừng hiểu lầm nghiệp báo.
 
-Ngày nay còn phàm phu nên thường tạo nghiệp, nói lời hư dối rằng không có quả báo. Làm sao tránh khỏi khổ báo? Tâm trước tạo, tâm sau chịu báo, làm sao thoát được? Tâm niệm trước không tạo thì tâm niệm sau không chịu quả. Đừng hiểu lầm nghiệp báo.
+Kinh dạy: “Dù tin có Phật mà bảo rằng Phật khổ hạnh, đó là tà kiến. 
+Dù tin có Phật mà bảo rằng Phật có phước báo kim thương mã mạch (giàu sang), đó là đức tin chưa đủ, gọi là nhất xiển đề (17).”
 
-Kinh dạy: “Dù tin có Phật mà bảo rằng Phật khổ hạnh, đó là tà kiến. Dù tin có Phật mà bảo rằng Phật có phước báo kim thương mã mạch (giàu sang), đó là đức tin chưa đủ, gọi là nhất xiển đề (17).”
+Người hiểu được Pháp Thánh là Thánh nhân, người hiểu pháp phàm là phàm nhân. 
+Chỉ người bỏ pháp phàm để theo pháp Thánh tức là phàm phu thành Thánh nhân. Người ngu ở thế gian chỉ muốn cầu Thánh nhân ở xa, không tin rằng tâm trí tuệ là Thánh nhân. 
+Kinh dạy: “Nơi người không có trí tuệ, đừng thuyết kinh này.” Kinh cũng dạy: “Tâm là Pháp.” 
+Người không có trí không tin nơi tâm này, cho rằng hiểu được Pháp là thành Thánh nhân, chỉ muốn tìm học bên ngoài, ham thích tượng Phật, hào quang, hương sắc các sự trong không trung, đều rơi vào tà kiến, mất tâm trong cuồng loạn.
 
-Người hiểu được Pháp Thánh là Thánh nhân, người hiểu pháp phàm là phàm nhân. Chỉ người bỏ pháp phàm để theo pháp Thánh tức là phàm phu thành Thánh nhân. Người ngu ở thế gian chỉ muốn cầu Thánh nhân ở xa, không tin rằng tâm trí tuệ là Thánh nhân. Kinh dạy: “Nơi người không có trí tuệ, đừng thuyết kinh này.” Kinh cũng dạy: “Tâm là Pháp.” Người không có trí không tin nơi tâm này, cho rằng hiểu được Pháp là thành Thánh nhân, chỉ muốn tìm học bên ngoài, ham thích tượng Phật, hào quang, hương sắc các sự trong không trung, đều rơi vào tà kiến, mất tâm trong cuồng loạn.
+Kinh dạy: “Thấy các tướng không phải là tướng, tức thấy Như Lai.” 
+Tám vạn bốn ngàn pháp môn thảy đều do một tâm mà khởi. Nếu tâm tướng trong lặng như hư không, tức ra khỏi thân tâm.
 
-Kinh dạy: “Thấy các tướng không phải là tướng, tức thấy Như Lai.” Tám vạn bốn ngàn pháp môn thảy đều do một tâm mà khởi. Nếu tâm tướng trong lặng như hư không, tức ra khỏi thân tâm.
-
-Tám vạn bốn ngàn phiền não là gốc rễ của bịnh. Người phàm đương sống sợ chết, khi no lo đói, đó là mê mờ lớn. Cho nên Thánh nhân không để tâm vào chuyện đã qua, không lo chuyện tương lai, không tham luyến chuyện hiện tại, niệm niệm đều hướng về đạo. Nếu chưa ngộ chân lý lớn lao này, thì nên sớm tìm vị thiện trí thức của trời người, đừng để mất cả hai.
+Tám vạn bốn ngàn phiền não là gốc rễ của bịnh. Người phàm đương sống sợ chết, khi no lo đói, đó là mê mờ lớn. 
+Cho nên Thánh nhân không để tâm vào chuyện đã qua, không lo chuyện tương lai, không tham luyến chuyện hiện tại, niệm niệm đều hướng về đạo. 
+Nếu chưa ngộ chân lý lớn lao này, thì nên sớm tìm vị thiện trí thức của trời người, đừng để mất cả hai.
 
 <hr class="blog-rule" />
 
@@ -328,15 +365,13 @@ Tám vạn bốn ngàn phiền não là gốc rễ của bịnh. Người phàm 
 
 [^1]: 📝 <a href="/masters/Bodhidharma-28" target="_blank">TỔ BỒ ĐỀ ĐẠT MA</a>
 
-Chú thích:
-
 (1) Khách trần: Bụi bặm từ bên ngoài. Theo Kinh Lăng Nghiêm, khách trần là những thứ từ bên ngoài tác dụng vào tâm thức chúng ta.
 
 (2) Lục độ: 1/ Bố thí, 2/ Trì giới, 3/ Nhẫn nhục, 4/ Tinh tấn, 5/ Thiền định, 6/ Trí Huệ.
 
 (1) Bồ Tát (Bodhisatva): Tên đầy đủ là Bồ Đề Tát Đỏa, Tàu dịch là Giác hữ tình, là chúng sanh có tâm cầu đạo, là những vị cầu chứng được quả Phật.
 
-(2) Năm uẩn (Skandha): Uẩn xưa dịch là ấm, có nghĩa là tích tập. Năm uẩn là năm yếu tố tích tập thành con người, đó là: Sắc uẩn: yếu tố vật chất; Thọ uẩn: yếu tố cảm nhận của tâm đối trước ngoại cảnh; Tưởng uẩn: Yếu tố tạo ra sự tưởng tượng của tâm trước ngoại cảnh; Hành uẩn: Yếu tố tạo ra ý muốn, ý chí, phát sinh tham, sân, si của tâm đối trước ngoại cảnh; Thức uẩn: Yếu tố phân biệt, suy nghĩ của tâm đối trước ngoại cảnh.
+(2) Năm uẩn (Skandha): Uẩn xưa dịch là ấm, có nghĩa là tích tập. Năm uẩn là năm yếu tố tích tập thành con người, đó là: - Sắc uẩn: yếu tố vật chất; - Thọ uẩn: yếu tố cảm nhận của tâm đối trước ngoại cảnh; - Tưởng uẩn: Yếu tố tạo ra sự tưởng tượng của tâm trước ngoại cảnh; - Hành uẩn: Yếu tố tạo ra ý muốn, ý chí, phát sinh tham, sân, si của tâm đối trước ngoại cảnh; - Thức uẩn: Yếu tố phân biệt, suy nghĩ của tâm đối trước ngoại cảnh.
 
 (3) Pháp Bình Đẳng: Pháp vượt ngoài mọi phân biệt, sai biệt. Chính giác của Như Lai không phân biệt cao, thấp, sâu, cạn nên gọi là Bình đẳng giác. Bình Đẳng Tính Trí là một trong bốn Trí của chư Phật. Khi giác ngộ, Mạt Na Thức chuyển thành Bình Đẳng Tính Trí, là Trí không còn đói đãi, phân biệt.
 
