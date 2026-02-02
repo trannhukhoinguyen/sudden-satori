@@ -9,8 +9,7 @@ tags:
 pdfUrls: 
   - /pdfs/speeches/Bach-Truong-ngu-luc.pdf
   - /pdfs/speeches/Bach-Truong-quang-luc.pdf
-videoIds:
-  - RFhGmMxOP6I
+videoId: RFhGmMxOP6I
 ---
 
 HOÀI HẢI THIỀN SƯ - BÁ TRƯỢNG QUẢNG LỤC

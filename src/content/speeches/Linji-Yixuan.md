@@ -8,8 +8,7 @@ tags:
   - TS LÂM TẾ NGHĨA HUYỀN
 pdfUrls: 
   - /pdfs/speeches/Lam-Te-ngu-luc.pdf
-videoIds:
-  - GHLkGdTgSC8
+videoId: GHLkGdTgSC8
 ---
 
 #### 0.

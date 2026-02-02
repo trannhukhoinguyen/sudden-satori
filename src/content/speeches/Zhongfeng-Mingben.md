@@ -11,8 +11,7 @@ tags:
 image: /images/koans/great-wave.webp
 pdfUrls: 
   - /pdfs/speeches/Trung-Phong-phap-ngu.pdf
-videoIds: 
-  - plJmknVMv3c
+videoId: plJmknVMv3c
 ---
 
 

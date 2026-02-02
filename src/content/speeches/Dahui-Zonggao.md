@@ -8,8 +8,7 @@ tags:
   - TS ĐẠI HUỆ TÔNG CẢO
 pdfUrls: 
   - /pdfs/speeches/Dai-Hue-ngu-luc.pdf
-videoIds:
-  - 73Tf24W5F30
+videoId: 73Tf24W5F30
 ---
 
 

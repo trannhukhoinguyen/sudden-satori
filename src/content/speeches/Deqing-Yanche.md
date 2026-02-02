@@ -8,6 +8,12 @@ tags:
   - TS HƯ VÂN DIỄN TRIỆT
 pdfUrls: 
   - /pdfs/speeches/Hu-Van-phap-ngu.pdf
+videoIds: 
+  - 7WaV-7UFAeQ
+  - ak0qT1_pzks
+  - yJRqjjX2WIQ
+  - iokCTixYntE
+  - MiAHbTeHlBw
 ---
 
 

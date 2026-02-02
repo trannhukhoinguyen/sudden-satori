@@ -8,8 +8,7 @@ tags:
   - TS NAM TUYỀN PHỔ NGUYỆN
 pdfUrls: 
   - /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
-videoIds:
-  - nHBy_kjLL7k
+videoId: nHBy_kjLL7k
 ---
 
 

@@ -7,8 +7,7 @@ categories:
 tags: 
   - TS HÀ TRẠCH THẦN HỘI
 videoStart: 94
-videoIds:
-  - aHyr9N0ykwM
+videoId: aHyr9N0ykwM
 ---
 
 ## ĐÔN HOÀNG XUẤT THỔ HÀ TRẠCH THẦN HỘI THIỀN SƯ NGỮ LỤC

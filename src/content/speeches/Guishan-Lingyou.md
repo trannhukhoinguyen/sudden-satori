@@ -8,8 +8,7 @@ tags:
   - TS QUY SƠN LINH HỰU
 pdfUrls: 
   - /pdfs/speeches/Quy-Son-ngu-luc.pdf
-videoIds:
-  - QCIfVw1-h7M
+videoId: QCIfVw1-h7M
 ---
 
 

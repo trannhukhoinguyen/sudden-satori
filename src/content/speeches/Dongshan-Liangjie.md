@@ -8,8 +8,7 @@ tags:
   - TS ĐỘNG SƠN LƯƠNG GIỚI
 pdfUrls: 
   - /pdfs/speeches/Nam-Tuyen-ngu-luc.pdf
-videoIds:
-  - bUt2hyrKQRw
+videoId: bUt2hyrKQRw
 ---
 
 
