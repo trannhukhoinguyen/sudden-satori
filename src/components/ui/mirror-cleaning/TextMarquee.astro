@@ -76,8 +76,8 @@ const { texts, direction, class: className = "" } = Astro.props;
 </style>
 
 <script>
-  import { addResizeObserver } from "../utils/observers";
-  import { addIntersectingTicker } from "../utils/globalTicker";
+  import { addResizeObserver } from "../../../utils/observers.ts";
+  import { addIntersectingTicker } from "../../../utils/globalTicker.ts";
 
   class TextMarquee extends HTMLElement {
     x = 0;

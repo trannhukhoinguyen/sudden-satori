@@ -16,7 +16,7 @@ const { colors = defaultColors } = Astro.props;
 <sy-gradient-bg data-colors={JSON.stringify(colors)}></sy-gradient-bg>
 
 <script>
-  import { addIntersectingTicker } from "../utils/globalTicker";
+  import { addIntersectingTicker } from "../../../utils/globalTicker.ts";
 
   class GradientBackground extends HTMLElement {
     step = 0;
