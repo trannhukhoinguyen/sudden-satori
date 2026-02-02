@@ -160,13 +160,13 @@ const speeches = defineCollection({
   }),
 });
 
-const ancientSpeeches = defineCollection({
+const teachings = defineCollection({
   loader: glob({
     pattern: "**/[^_]*.{md,mdx}",
-    base: "./src/content/ancient-speeches",
+    base: "./src/content/teachings",
   }),
   schema: z.object({
-    type: z.string().default("ancientSpeeches"),
+    type: z.string().default("teachings"),
     schemaType: z.string().default("Article"),
     title: z.string().default("Cổ Tôn Túc Ngữ lục"),
     description: z.string().optional(),
@@ -271,7 +271,7 @@ export const collections = {
   practices,
   masters,
   speeches,
-  ancientSpeeches,
+  teachings,
   faqs,
   health,
   precepts,

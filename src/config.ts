@@ -72,7 +72,7 @@ export const config: SiteConfig = {
 
     "masters",
     "speeches",
-    "ancientSpeeches",
+    "teachings",
     "faqs",
   ],
 
@@ -100,7 +100,7 @@ export const config: SiteConfig = {
 
     masters: "Thiền sư",
     speeches: "Ngữ lục",
-    ancientSpeeches: "Cổ Tôn Túc Ngữ lục",
+    teachings: "Cổ Tôn Túc Ngữ lục",
     faqs: "FAQ - Hỏi đáp",
   },
 
@@ -127,7 +127,7 @@ export const config: SiteConfig = {
 
     masters: "Xem Thiền sư",
     speeches: "Xem Ngữ lục",
-    ancientSpeeches: "Xem Cổ Tôn Túc Ngữ lục",
+    teachings: "Xem Cổ Tôn Túc Ngữ lục",
     faqs: "Xem Hỏi đáp",
   },
 

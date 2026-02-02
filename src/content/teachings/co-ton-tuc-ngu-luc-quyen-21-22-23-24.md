@@ -8,7 +8,7 @@ tags:
   - CỔ TÔN TÚC NGỮ LỤC
 ---
 
-cổ tôn tú ngữ lục quyển chi nhị thập nhất
+Cổ Tôn Túc Ngữ Lục quyển chi nhị thập nhất
 
 thư châu bạch vân sơn hải hội diễn hòa thượng ngữ lục
 thượng đường vân phong hòa nhật noãn cổ phật gia phong liễu lục đào hồng tổ sư ba tị nhãn
@@ -472,11 +472,11 @@ thị li nhân nhãn trung huyết
 thượng đường vân trọng xuân tiêm noãn mẫu đan sinh noãn tử yến toàn thân hoàng oanh khai nhãn cộng
 thưởng phương xuân tam bôi lưỡng trản duy hữu bạch vân nhất sinh đam bản
 
-> cổ tôn tú ngữ lục quyển chi nhị thập nhất chung
+> Cổ Tôn Túc Ngữ Lục quyển chi nhị thập nhất chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi nhị thập nhị
+Cổ Tôn Túc Ngữ Lục quyển chi nhị thập nhị
 
 hoàng mai đông sơn diễn hòa thượng ngữ lục
 môn nhân duy khánh biên
@@ -954,7 +954,7 @@ nhất tùng nhất trúc nhất khê vân thời hữu thanh phong bạn nguy�
 vũ huýnh nhiên cư giả bất tri xuân
 hoàng mai đông sơn diễn hòa thượng ngữ lục chung
 
-> cổ tôn tú ngữ lục quyển chi nhị thập nhị chung
+> Cổ Tôn Túc Ngữ Lục quyển chi nhị thập nhị chung
 
 phụ lục tự văn tam thủ
 cái văn ngôn ngữ đạo đoạn/đoán nhi vị thuỷ vô ngôn tâm pháp song vong nhi suất tướng truyền pháp
@@ -984,7 +984,7 @@ thánh nhị niên thập nhất nguyệt sơ thập nhật ngô quận chu nguy
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi nhị thập tam
+Cổ Tôn Túc Ngữ Lục quyển chi nhị thập tam
 
 nhữ châu diệp huyền quảng giáo tỉnh thiền sư ngữ lục
 sư sơ khai đường nhật tài thăng pháp tòa đại chúng vân tập sư niêm hương thị chúng vân thử
@@ -1516,11 +1516,11 @@ thượng đường hữu tụng
 tứ thập ngũ niên tại tiên châu phàm thánh túng hoành nhâm quân du hữu nhân tá vấn như hà
 sự dạ chí tam canh đáo nhai châu
 
-> cổ tôn tú ngữ lục quyển chi nhị thập tam chung
+> Cổ Tôn Túc Ngữ Lục quyển chi nhị thập tam chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi nhị thập tứ
+Cổ Tôn Túc Ngữ Lục quyển chi nhị thập tứ
 
 đàm châu thần đỉnh sơn đệ nhất đại nhân thiền sư ngữ lục
 thần đỉnh thiền sư danh hồng nhân tương thuỷ hỗ thị tử tự du phương nhất nạp dĩ độ hàn
@@ -1883,19 +1883,13 @@ môn nhân tả chân cầu tán
 thần đỉnh chân thùy nhân tả ngô chi tướng nhất như dã chân tướng kí nhĩ thu thiên nguyệt dạ
 chiêm chi tả chi ma ha ban nhược
 
-> cổ tôn tú ngữ lục quyển chi nhị thập tứ chung
+> Cổ Tôn Túc Ngữ Lục quyển chi nhị thập tứ chung
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmtsggp_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmcltqm_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="hhttps://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmdtqgl_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmdmlqk_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
+🔗 <a href="https://www.rongmotamhon.net/xem-kinh_co-ton-[tu-tuc]-ngu_ddqdglgt_muc-luc.html" target="_blank"> rongmotamhon.net </a>
 
 <hr class="blog-rule" />
 

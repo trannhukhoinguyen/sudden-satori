@@ -8,7 +8,7 @@ tags:
   - CỔ TÔN TÚC NGỮ LỤC
 ---
 
-cổ tôn tú ngữ lục quyển chi thập thất
+Cổ Tôn Túc Ngữ Lục quyển chi thập thất
 
 vân môn khuông chân thiền sư quảng lục
 môn nhân minh thức đại sư tứ tử thủ kiên tập
@@ -430,11 +430,11 @@ cú lai đại vân sơ tam thập nhất trung cửu hạ thất sư vấn tăn
 thùy khiết đại vân kị dữ hòa thượng tác tiếu cụ nhất nhật vân tam nhật bất tướng kiến bất
 đắc tác cựu thời khán tác ma sinh đại vân thiên
 
-> cổ tôn tú ngữ lục quyển chi thập thất chung
+> Cổ Tôn Túc Ngữ Lục quyển chi thập thất chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi thập bát
+Cổ Tôn Túc Ngữ Lục quyển chi thập bát
 
 vân môn khuông chân thiền sư quảng lục hạ
 môn nhân minh thức đại sư tứ tử thủ kiên tập
@@ -1132,11 +1132,11 @@ linh thác nghênh chân thân phó quyết lưu nội đình cung dưỡng du n
 cải tự vi đại giác thụy đại từ vân khuông chân hoằng minh thiền sư
 trụ phúc châu cổ sơn viên giác tông diễn hào khám
 
-> cổ tôn tú ngữ lục quyển chi thập bát chung
+> Cổ Tôn Túc Ngữ Lục quyển chi thập bát chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi thập cửu
+Cổ Tôn Túc Ngữ Lục quyển chi thập cửu
 
 viên châu dương kì sơn phổ thông thiền viện hội hòa thượng ngữ lục
 giang ninh phủ bảo ninh thiền viện tự pháp tiểu sư nhân dũng biên
@@ -1591,11 +1591,11 @@ ngữ bất tri dương kì tự tác mộng hậu hoàn giác dã vị nhược
 linh trùng hành minh nhãn để nhân thí tương thử lục khán nguyên hữu tam niên lập xuân nhật vô
 vi tử dương kiệt thư ư vọng hải lâu
 
-> cổ tôn tú ngữ lục quyển chi thập cửu chung
+> Cổ Tôn Túc Ngữ Lục quyển chi thập cửu chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi nhị thập
+Cổ Tôn Túc Ngữ Lục quyển chi nhị thập
 
 thư châu bạch vân sơn hải hội diễn hòa thượng sơ trụ tứ diện sơn ngữ lục
 sâm học tài lương biên
@@ -2146,19 +2146,13 @@ sinh thị chân thuyết bát lang bát lại nhược tín bất cập bạch 
 nhân hội nhị yếu long thần tri nãi niêm khởi pháp y vân giả cá chân hồng sắc cương nhiên
 đạo thị phi
 
-> cổ tôn tú ngữ lục quyển chi nhị thập chung
+> Cổ Tôn Túc Ngữ Lục quyển chi nhị thập chung
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmtsggp_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmcltqm_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="hhttps://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmdtqgl_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmdmlqk_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
+🔗 <a href="https://www.rongmotamhon.net/xem-kinh_co-ton-[tu-tuc]-ngu_ddqdglgt_muc-luc.html" target="_blank"> rongmotamhon.net </a>
 
 <hr class="blog-rule" />
 

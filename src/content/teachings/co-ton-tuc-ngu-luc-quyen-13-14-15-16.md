@@ -8,7 +8,7 @@ tags:
   - CỔ TÔN TÚC NGỮ LỤC
 ---
 
-cổ tôn tú ngữ lục quyển chi thập tam
+Cổ Tôn Túc Ngữ Lục quyển chi thập tam
 
 triệu châu chân tế thiền sư ngữ lục tinh hành trạng quyển thượng nam nhạc hạ tứ thế tự nam toàn nguyện
 sư tức nam toàn môn nhân dã tục tính hác thị bản tào châu hác hương nhân dã huý tùng
@@ -533,13 +533,13 @@ vân ngã tại thanh châu tác nhất lĩnh bố sam trùng thất cân vấn 
 sư vân bất triêu thiên tử phụ mẫu phản bái vấn địch diện sự như hà sư vân nễ thị
 địch diện hán
 
-> cổ tôn tú ngữ lục quyển chi thập tam chung
+> Cổ Tôn Túc Ngữ Lục quyển chi thập tam chung
 
 lư sơn thê hiền bảo giác thiền viện trụ trì truyền pháp tứ tử sa môn trừng thị trùng tường định
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi thập tứ
+Cổ Tôn Túc Ngữ Lục quyển chi thập tứ
 
 triệu châu chân tế thiền sư ngữ lục chi dư
 sư thượng đường thị chúng vân kim phật bất độ lô mộc phật bất độ hoả nê phật bất độ
@@ -1104,11 +1104,11 @@ phùng quy giải không đệ tử tuyệt bi hỉ do tự san nhiên đối tu
 lư sơn thê hiền bảo giác thiền viện trụ trì truyền pháp tứ tử sa môn
 trừng thị trùng tường định
 
-> cổ tôn tú ngữ lục quyển chi thập tứ chung
+> Cổ Tôn Túc Ngữ Lục quyển chi thập tứ chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi thập ngũ
+Cổ Tôn Túc Ngữ Lục quyển chi thập ngũ
 
 vân môn khuông chân thiền sư quảng lục thượng
 môn nhân minh thức đại sư tứ tử thủ kiên tập
@@ -1750,11 +1750,11 @@ cử bất cố tức sai hỗ nghĩ tư lượng hà kiếp ngộ
 trừu cố tụng giám di
 vân môn khuông chân thiền sư quảng lục quyển đệ thập lục
 
-> cổ tôn tú ngữ lục quyển chi thập ngũ chung
+> Cổ Tôn Túc Ngữ Lục quyển chi thập ngũ chung
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển chi thập lục
+Cổ Tôn Túc Ngữ Lục quyển chi thập lục
 
 vân môn khuông chân thiền sư quảng lục trung
 môn nhân minh thức đại sư tứ tử thủ kiên tập
@@ -2257,19 +2257,13 @@ sư vân tu lễ bái vân cư thuỷ đắc tây viện vân bàng quan giả s
 tăng hoàn kiến đăng lung ma tăng vân kiến thọ vân lưỡng cá sư đại vân tam đầu lưỡng diện
 hựu vân thất cá bát cá
 
-> cổ tôn tú ngữ lục quyển chi thập lục chung
+> Cổ Tôn Túc Ngữ Lục quyển chi thập lục chung
 
 <hr class="blog-rule" />
 
 ## NGUỒN
 
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmtsggp_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmcltqm_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="hhttps://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmdtqgl_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
-
-🔗 <a href="https://www.rongmotamhon.net/xem-kinh_ten-kinh_qqmdmlqk_doi-chieu.html" target="_blank"> rongmotamhon.net </a>
+🔗 <a href="https://www.rongmotamhon.net/xem-kinh_co-ton-[tu-tuc]-ngu_ddqdglgt_muc-luc.html" target="_blank"> rongmotamhon.net </a>
 
 <hr class="blog-rule" />
 
