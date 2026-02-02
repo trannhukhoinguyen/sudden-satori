@@ -9,6 +9,8 @@ import { analyzer } from "vite-bundle-analyzer";
 import { env } from "./src/env";
 
 export default defineConfig({
+  site: 'https://tosuthien.org',
+  base: '/slider',
   server: {
     // This will allow all hosts to be used in development. Not only localhost.
     allowedHosts: true,
@@ -21,7 +23,6 @@ export default defineConfig({
   adapter: vercel({
     imageService: true,
   }),
-  site: env().SITE_URL,
   markdown: {
     rehypePlugins: [rehypeSanitize(defaultSchema)],
   },
