@@ -1,0 +1,23 @@
+---
+interface Props {
+  href: string;
+  class?: string;
+}
+
+const { href, class: customClass } = Astro.props;
+
+const defaultClasses =
+  "text-sm font-medium transition-colors text-white hover:text-primary";
+
+const currentPath = Astro.url.pathname;
+
+const isActive = currentPath === href || currentPath.startsWith(`${href}/`);
+
+const finalClasses = [customClass || defaultClasses, isActive && "active"]
+  .filter(Boolean)
+  .join(" ");
+---
+
+<a href={href} class={finalClasses}>
+  <slot />
+</a>

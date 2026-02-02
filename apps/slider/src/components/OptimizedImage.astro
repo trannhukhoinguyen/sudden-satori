@@ -1,0 +1,139 @@
+---
+import type { LocalImageProps, RemoteImageProps } from "astro:assets";
+import { Image } from "astro:assets";
+import type { ImageMetadata, ImageQuality } from "astro";
+import { ASSETS_IMAGES_PREFIX } from "@/consts";
+
+interface Props {
+  /**
+   * Image source - supports multiple formats:
+   * - Direct string paths: automatically detects if file exists in src/assets/images/ (optimized) or public/ (static)
+   * - ImageMetadata: imported from src/assets/images/ (optimized)
+   * - Promise<ImageMetadata>: for dynamic imports (optimized)
+   * - Remote URLs: https://... (remote, not optimized)
+   * - Data URLs: data:image/... (remote, not optimized)
+   */
+  src: string | ImageMetadata | Promise<{ default: ImageMetadata }>;
+  alt: string;
+  width?: number;
+  height?: number;
+  quality?: ImageQuality;
+  widths?: number[];
+  sizes?: string;
+  class?: string;
+  inferSize?: boolean;
+}
+
+const assetModules = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/assets/images/{*,**/*}.{avif,gif,jpeg,jpg,png,webp,svg}",
+);
+
+const {
+  src,
+  width,
+  height,
+  inferSize,
+  class: className,
+  ...restProps
+} = Astro.props;
+
+// Create commonProps with proper typing
+const commonProps = {
+  ...restProps,
+  quality: restProps.quality ?? 90,
+  "class:list": className ? [className] : undefined,
+} satisfies Omit<Props, "src" | "width" | "height" | "inferSize" | "class"> & {
+  "class:list"?: string[];
+  quality: ImageQuality;
+};
+
+// Create image props with unified logic
+const imageProps = createImageProps(
+  resolveSource(src),
+  commonProps,
+  width,
+  height,
+  inferSize,
+);
+
+function createImageProps(
+  rawSrc: ReturnType<typeof resolveSource>,
+  props: typeof commonProps,
+  width: number | undefined,
+  height: number | undefined,
+  inferSize?: boolean,
+): RemoteImageProps | LocalImageProps {
+  // Handle local images (ImageMetadata | Promise<{default: ImageMetadata}>)
+  if (typeof rawSrc !== "string") {
+    return {
+      ...props,
+      src: rawSrc,
+      width,
+      height,
+    } as LocalImageProps;
+  }
+
+  // Handle remote images (string)
+  const useInferSize = inferSize ?? (!width || !height);
+
+  // For remote images without dimensions, set inferSize: true
+  if (!width || !height) {
+    return {
+      ...props,
+      src: rawSrc,
+      inferSize: true,
+    } as RemoteImageProps;
+  }
+
+  // For remote images with dimensions, include them
+  return {
+    ...props,
+    src: rawSrc,
+    width,
+    height,
+    inferSize: useInferSize,
+  } as RemoteImageProps;
+}
+
+function resolveSource(
+  rawSrc: Props["src"],
+): RemoteImageProps["src"] | LocalImageProps["src"] {
+  if (typeof rawSrc !== "string") {
+    // Already ImageMetadata or Promise<ImageMetadata>
+    return rawSrc;
+  }
+
+  if (isRemotePath(rawSrc) || rawSrc.startsWith("data:")) {
+    // Remote URLs and data URLs remain as strings (remote image)
+    return rawSrc;
+  }
+
+  const normalizedPath = normalizeAssetPath(rawSrc);
+  const loader = assetModules[normalizedPath];
+
+  if (loader) {
+    // Found in src/assets/images/ → Dynamic Import Mode (optimized)
+    return loader();
+  }
+
+  // Not found in src/assets/images/ → Public Path Mode (static)
+  // This includes:
+  // - Files in public/ directory
+  // - Absolute paths that don't exist in assets
+  return rawSrc;
+}
+
+function normalizeAssetPath(path: string) {
+  const value = path.startsWith("/") ? path : `/${path}`;
+  if (value.startsWith(ASSETS_IMAGES_PREFIX)) {
+    return value;
+  }
+
+  return `${ASSETS_IMAGES_PREFIX}${value}`;
+}
+
+function isRemotePath(value: string) {
+  return /^(?:https?:)?\/\//i.test(value);
+}
+---
+<Image {...imageProps} />

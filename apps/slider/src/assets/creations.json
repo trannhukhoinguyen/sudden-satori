@@ -1,0 +1,50 @@
+[
+  {
+    "collection": "Fruity Mood Crew",
+    "description": "Playful fruit pals for LINE — stickers and emojis made for everyday moods and chats.",
+    "items": [
+      {
+        "name": "Fruity Life Stickers Vol.1",
+        "description": "Cheerful fruit characters expressing everyday emotions - from the shy Banana-san to the sassy Ichigo-chan. Perfect for fun, daily chats!",
+        "cover": "https://stickershop.line-scdn.net/stickershop/v1/product/31905320/LINEStorePC/main.png?v=1",
+        "link": "https://store.line.me/stickershop/product/31905320/en?from=sticker"
+      },
+      {
+        "name": "Autumn Delights",
+        "description": "Embrace the cozy warmth and vibrant beauty of autumn with Mama Orange and her adorable fruit babies!",
+        "cover": "https://stickershop.line-scdn.net/stickershop/v1/product/32020948/LINEStorePC/main.png?v=1",
+        "link": "https://store.line.me/stickershop/product/32020948/en?from=sticker"
+      },
+      {
+        "name": "Cozy Winter Fun",
+        "description": "Step into a joyful winter wonderland with this adorable Orange Jam sticker set!",
+        "cover": "https://stickershop.line-scdn.net/stickershop/v1/product/32168063/LINEStorePC/main.png?v=1",
+        "link": "https://store.line.me/stickershop/product/32168063/en?from=sticker"
+      },
+      {
+        "name": "Watermelon Mama's Daily Life",
+        "description": "Super adorable Watermelon Mama is here! With her glasses and apron, she's every family's superhero mom!",
+        "cover": "https://stickershop.line-scdn.net/stickershop/v1/product/31984876/LINEStorePC/main.png?v=1",
+        "link": "https://store.line.me/stickershop/product/31984876/en?from=sticker"
+      },
+      {
+        "name": "Orange Buddy's Amusing Expressions",
+        "description": "This sticker pack stars the lively and adorable \"Orange Buddy,\" capturing a series of its vivid and entertaining moments.",
+        "cover": "https://stickershop.line-scdn.net/stickershop/v1/product/32046263/LINEStorePC/main.png?v=1",
+        "link": "https://store.line.me/stickershop/product/32046263/en?from=sticker"
+      },
+      {
+        "name": "Starfruit Expressions Pack",
+        "description": "This is a set of emoji stickers featuring a cute cartoon starfruit character.",
+        "cover": "https://stickershop.line-scdn.net/sticonshop/v1/product/693a2a8b90cb9127a369c89e/iPhone/main.png?v=1",
+        "link": "https://store.line.me/emojishop/product/693a2a8b90cb9127a369c89e/en"
+      },
+      {
+        "name": "Cute Orange Emoticons",
+        "description": "A vibrant collection of adorable orange-themed emojis! These charming citrus characters express a range of moods.",
+        "cover": "https://stickershop.line-scdn.net/sticonshop/v1/product/692005ce015cb339ae4ca734/iPhone/main.png?v=1",
+        "link": "https://store.line.me/emojishop/product/692005ce015cb339ae4ca734/en"
+      }
+    ]
+  }
+]

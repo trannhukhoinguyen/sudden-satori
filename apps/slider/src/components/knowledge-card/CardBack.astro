@@ -1,0 +1,39 @@
+---
+import CardContainer from "./CardContainer.astro";
+import StructureDisplay from "./StructureDisplay.astro";
+import type { ArticleData, CardTheme, PakoContent } from "./types";
+export interface Props {
+  articleData: ArticleData;
+  pakoContent: PakoContent | null;
+  url?: string;
+  cardStyles: React.CSSProperties;
+  cardTheme: CardTheme;
+  tags?: string[];
+}
+const {
+  articleData,
+  pakoContent = null,
+  cardStyles = {},
+  cardTheme = {},
+  tags = [],
+} = Astro.props;
+---
+
+<div class="flip-card-back" id="backCard">
+  <CardContainer
+    articleData={articleData}
+    cardStyles={cardStyles}
+    cardTheme={cardTheme}
+    tags={tags}
+  >
+    <div class="mb-4">
+      {
+        pakoContent && pakoContent.structureText && (
+          <div class="px-4">
+            <StructureDisplay structureText={pakoContent.structureText} />
+          </div>
+        )
+      }
+    </div>
+  </CardContainer>
+</div>

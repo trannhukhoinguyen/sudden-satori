@@ -1,0 +1,74 @@
+---
+import CardLink from "./CardLink.astro";
+
+const { references = [], tools = [] } = Astro.props;
+---
+
+<div
+  class="fixed inset-0 bg-black/50 flex items-center justify-center z-50"
+  role="dialog"
+  aria-modal="true"
+>
+  <div
+    class="bg-white rounded-lg p-6 max-w-md md:max-w-2xl w-full mx-4 max-h-[80vh] knowledge-card-modal flex flex-col"
+    role="document"
+  >
+    <div class="flex justify-between items-center mb-4">
+      <h3 id="links-modal-title" class="text-lg font-semibold text-gray-800">
+        Related links
+      </h3>
+      <button
+        type="button"
+        id="links-modal-close-btn"
+        class="cursor-pointer text-xl hover:opacity-70 transition-opacity text-gray-600"
+        aria-label="Close dialog"
+      >
+        ×
+      </button>
+    </div>
+    <div
+      class="space-y-4 grid grid-cols-1 md:grid-cols-2 gap-6 overflow-y-auto pr-2 flex-1 min-h-0"
+    >
+      {
+        references && references.length > 0 && (
+          <div>
+            <h4 class="font-medium mb-3 text-gray-800">Related literature</h4>
+            <div class="space-y-3">
+              {references.map((ref: { title: string; url: string }) => (
+                <div class="text-sm">
+                  <CardLink title={ref.title} url={ref.url} />
+                </div>
+              ))}
+            </div>
+          </div>
+        )
+      }
+
+      {
+        tools && tools.length > 0 && (
+          <div>
+            <h4 class="font-medium mb-3 text-gray-800">Related tools</h4>
+            <div class="space-y-3">
+              {tools.map((tool: { title: string; url: string }) => (
+                <div class="text-sm">
+                  <CardLink title={tool.title} url={tool.url} />
+                </div>
+              ))}
+            </div>
+          </div>
+        )
+      }
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", function () {
+    const closeBtn = document.getElementById("links-modal-close-btn");
+    closeBtn?.addEventListener("click", function (e) {
+      e.stopPropagation();
+      const event = new CustomEvent("close-links-modal", { bubbles: true });
+      closeBtn.dispatchEvent(event);
+    });
+  });
+</script>

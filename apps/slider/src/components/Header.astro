@@ -1,0 +1,163 @@
+---
+import { Search } from "lucide-react";
+import BetaBadge from "@/components/BetaBadge.astro";
+import OptimizedImage from "@/components/OptimizedImage.astro";
+import { getNavigationItems, SITE_TITLE } from "../consts";
+import HeaderLink from "./HeaderLink.astro";
+
+const visibleMenuItems = getNavigationItems();
+---
+
+<header
+  class="sticky top-0 z-50 w-full border-b border-teahouse-primary/10 bg-teahouse-bg/95 backdrop-blur supports-[backdrop-filter]:bg-teahouse-bg/60"
+>
+  <div class="container flex h-16 items-center justify-between">
+    <div class="flex items-center gap-6 md:gap-8">
+      <a href="/" class="flex items-center space-x-2 md:ml-0 ml-4">
+        <OptimizedImage
+          src="/logo.webp"
+          alt="mona"
+          width={40}
+          height={40}
+          class="h-10 w-10"
+        />
+        <div>
+          <div
+            class="font-noto-serif text-xl font-bold text-teahouse-dark font-['Noto_Serif_SC',_'Noto_Serif_SC_Fallback',_serif]"
+          >
+            {SITE_TITLE}
+          </div>
+          <div class="flex justify-end mt-1">
+            <BetaBadge />
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="flex items-center gap-4">
+      <button
+        id="mobile-menu-button"
+        class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-slate-300 hover:text-primary hover:bg-teahouse-primary/10 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-teahouse-primary"
+        aria-controls="mobile-menu"
+        aria-expanded="false"
+      >
+        <span class="sr-only">Open Menu</span>
+        <svg
+          class="block h-6 w-6"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          aria-hidden="true"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16"></path>
+        </svg>
+        <svg
+          class="hidden h-6 w-6"
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+          aria-hidden="true"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M6 18L18 6M6 6l12 12"></path>
+        </svg>
+      </button>
+      <nav class="hidden gap-8 md:flex items-center">
+        {
+          visibleMenuItems.map((item) => (
+            <HeaderLink href={item.href}>{item.label}</HeaderLink>
+          ))
+        }
+      </nav>
+    </div>
+    <div class="hidden md:block">
+      <a
+        href="/search"
+        class="inline-flex items-center gap-2 px-3 py-2 text-sm font-medium hover:text-primary transition-colors text-white"
+      >
+        <Search className="w-4 h-4" />
+        Search
+      </a>
+    </div>
+  </div>
+
+  <div class="md:hidden" id="mobile-menu">
+    <div
+      class="hidden px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-teahouse-bg border-t border-slate-800"
+    >
+      {
+        visibleMenuItems.map((item) => (
+          <a
+            href={item.href}
+            class="block px-3 py-2 rounded-md text-base font-medium text-white hover:text-primary"
+          >
+            {item.label}
+          </a>
+        ))
+      }
+      <div class="px-3 py-2">
+        <a
+          href="/search"
+          class="flex items-center gap-2 py-2 rounded-md text-base font-medium text-white hover:text-primary"
+        >
+          <Search className="w-4 h-4" />
+          Search
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const mobileMenuButton = document.getElementById("mobile-menu-button");
+    const mobileMenu = document.getElementById("mobile-menu");
+    const menuContent = mobileMenu?.querySelector("div");
+    const menuIcon = mobileMenuButton?.querySelector("svg:first-of-type");
+    const closeIcon = mobileMenuButton?.querySelector("svg:last-of-type");
+
+    if (
+      mobileMenuButton &&
+      mobileMenu &&
+      menuContent &&
+      menuIcon &&
+      closeIcon
+    ) {
+      mobileMenuButton.addEventListener("click", function () {
+        const isExpanded =
+          mobileMenuButton.getAttribute("aria-expanded") === "true";
+
+        if (isExpanded) {
+          menuContent.classList.add("hidden");
+          mobileMenuButton.setAttribute("aria-expanded", "false");
+          menuIcon.classList.remove("hidden");
+          closeIcon.classList.add("hidden");
+        } else {
+          menuContent.classList.remove("hidden");
+          mobileMenuButton.setAttribute("aria-expanded", "true");
+          menuIcon.classList.add("hidden");
+          closeIcon.classList.remove("hidden");
+        }
+      });
+
+      const menuItems = menuContent.querySelectorAll("a");
+      menuItems.forEach((item) => {
+        item.addEventListener("click", function () {
+          menuContent.classList.add("hidden");
+          mobileMenuButton.setAttribute("aria-expanded", "false");
+          menuIcon.classList.remove("hidden");
+          closeIcon.classList.add("hidden");
+        });
+      });
+    }
+  });
+</script>

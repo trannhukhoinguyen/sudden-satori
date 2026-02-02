@@ -1,0 +1,47 @@
+:root {
+  --scrolling-tags-transition: all 0.2s ease;
+  --scrolling-tags-hover-scale: 1.05;
+  --scrolling-tags-active-scale: 0.98;
+  --scrolling-tags-z-index: 4;
+}
+
+.tags-bg {
+  overflow: hidden;
+}
+
+.tags-bg .tag-track {
+  pointer-events: auto;
+}
+
+.tags-bg .tag {
+  transition: var(--scrolling-tags-transition);
+  pointer-events: auto;
+  cursor: pointer;
+  position: relative;
+  z-index: var(--scrolling-tags-z-index);
+  user-select: none;
+}
+
+.tags-bg .tag:hover,
+.tags-bg .tag.tag-hovered {
+  color: hsl(var(--primary));
+  transform: scale(var(--scrolling-tags-hover-scale));
+  opacity: 1;
+}
+
+.tags-bg .tag:active {
+  transform: scale(var(--scrolling-tags-active-scale));
+  background-color: hsl(var(--primary) / 0.9);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tags-bg .tag {
+    transition: none;
+  }
+
+  .tags-bg .tag:hover,
+  .tags-bg .tag.tag-hovered,
+  .tags-bg .tag:active {
+    transform: none;
+  }
+}

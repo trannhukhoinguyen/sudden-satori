@@ -1,0 +1,230 @@
+---
+import { getCollection, getEntry } from "astro:content";
+import sitemap from "sitemap-ext:config";
+import CardCover from "@/components/knowledge-card/CardCover.astro";
+import KnowledgeCard from "@/components/knowledge-card/KnowledgeCard.astro";
+import { SITE_TITLE } from "@/consts";
+import {
+  createCardStyles,
+  getTemplateKey,
+  loadPako,
+  parseCardContent,
+} from "@/lib/utils";
+import { KNOWLEDGE_CARD_THEME } from "@/themes/knowledge-card-themes";
+import MainLayout from "../../layouts/MainLayout.astro";
+
+// add all cards to sitemap
+sitemap(async ({ addToSitemap }) => {
+  const cards = await getCollection("cards");
+
+  addToSitemap(
+    cards.map((card) => ({
+      slug: card.id,
+    })),
+  );
+});
+
+const { slug } = Astro.params;
+if (slug === undefined) {
+  return new Response(null, {
+    status: 400,
+    statusText: "Bad Request: Slug is missing",
+  });
+}
+
+const card = await getEntry("cards", slug);
+if (!card) {
+  return Astro.redirect("/404");
+}
+
+const cardContent = parseCardContent(card.body);
+const cardParsedData = cardContent?.parsedData ? cardContent.parsedData : null;
+
+let pakoContent:
+  | {
+      pakoValue: string;
+      structureText: {
+        root: string;
+        branches: Array<{
+          title: string;
+          subBranches: Array<{ title: string; leaves: string[] }>;
+        }>;
+      };
+      cleanedText: string;
+    }
+  | undefined;
+if (cardParsedData?.mermaidMarkdown) {
+  pakoContent = await loadPako(cardParsedData.mermaidMarkdown);
+}
+
+// Get all cards for navigation and recommendations
+const allCards = await getCollection("cards");
+const currentCardTags = card.data.tags;
+
+// Sort cards by publication date (newest first) for navigation
+const sortedCards = allCards.sort(
+  (a, b) =>
+    new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime(),
+);
+
+// Find current card's position and get prev/next cards
+const currentIndex = sortedCards.findIndex((c) => c.id === card.id);
+const prevCard =
+  currentIndex > 0
+    ? {
+        id: sortedCards[currentIndex - 1].id,
+        title: sortedCards[currentIndex - 1].data.title,
+        template: sortedCards[currentIndex - 1].data.template,
+      }
+    : undefined;
+const nextCard =
+  currentIndex < sortedCards.length - 1
+    ? {
+        id: sortedCards[currentIndex + 1].id,
+        title: sortedCards[currentIndex + 1].data.title,
+        template: sortedCards[currentIndex + 1].data.template,
+      }
+    : undefined;
+
+// Get cards with matching tags (exclude current card)
+const matchingCards = allCards.filter(
+  (c) =>
+    c.id !== card.id &&
+    c.data.tags?.some((tag: string) => currentCardTags?.includes(tag)),
+);
+
+// Pick random 4 cards
+const shuffled = matchingCards.sort(() => Math.random() - 0.5);
+const recommendedCards = shuffled.slice(0, 4).map((c) => ({
+  id: c.id,
+  title: c.data.title,
+  template: c.data.template,
+}));
+
+const getJsonContent = () => {
+  const content = card.body;
+  if (!content) return "";
+
+  if (cardContent) {
+    return `\`\`\`json\n${cardContent.rawJson}\n\`\`\``;
+  }
+  return content;
+};
+
+const jsonContent = getJsonContent();
+
+// Extract metadata for OG image
+const getCardMetadata = () => {
+  if (cardContent?.parsedData) {
+    const cardData = cardContent.parsedData;
+    let description = cardData.description;
+    return {
+      title: cardData.title || card.data.title,
+      description: description,
+    };
+  }
+
+  return { title: card.data.title, description: "Knowledge card" };
+};
+
+const { title: cardTitle, description } = getCardMetadata();
+const ogImageUrl = new URL("/og-enhanced", Astro.url);
+let cardDescription = description;
+if (description.length > 50) {
+  let truncated = description.substring(0, 50);
+  // If the last character is punctuation, remove it
+  const punctuationRegex = /[，。！？；：""''（）【】、]/;
+  if (punctuationRegex.test(truncated.slice(-1))) {
+    truncated = truncated.slice(0, -1);
+  }
+  cardDescription = `${truncated}...`;
+}
+ogImageUrl.searchParams.append("type", "card");
+ogImageUrl.searchParams.append("id", card.id);
+ogImageUrl.searchParams.append("th", card.data.template || "blackWhite");
+const origin = Astro.url.origin;
+---
+
+<MainLayout
+  title={`${cardTitle} | ${SITE_TITLE}`}
+  type="article"
+  section="Card"
+  keywords={card.data.title}
+  description={cardDescription}
+  image={ogImageUrl.toString()}
+>
+  <div class="container mx-auto px-4 py-8 min-h-[80vh]">
+    <div class="max-w-6xl mx-auto">
+      <div class="mb-16 relative mx-auto" style="max-width:800px;">
+        <!-- Previous Card Preview -->
+        {
+          prevCard && (
+            <div class="xl:absolute xl:-left-65 xl:top-[66%] xl:-translate-y-1/2 xl:w-80 mx-auto xl:h-80 cursor-pointer transition-all duration-500 hover:scale-105 opacity-60 z-1 transform mb-8 xl:mb-0 xl:-rotate-6">
+              <div class="text-center mb-2 opacity-100 xl:hidden block">
+                <span class="text-xs text-gray-700 bg-white/90 px-3 py-1 rounded-full inline-block min-w-[100px] backdrop-blur-sm shadow-sm">
+                  Previous Card
+                </span>
+              </div>
+              <a href={`/cards/${prevCard.id}`} class="block">
+                <CardCover
+                  title={prevCard.title}
+                  template={prevCard.template}
+                  size="small"
+                />
+              </a>
+            </div>
+          )
+        }
+        <div class="xl:relative xl:z-10">
+          <KnowledgeCard
+            articleData={cardParsedData}
+            url={`${origin}/cards/${card.id}`}
+            cardStyles={createCardStyles(getTemplateKey(card.data.template))}
+            cardTheme={KNOWLEDGE_CARD_THEME[getTemplateKey(card.data.template)]}
+            tags={card.data.tags}
+            pakoContent={pakoContent}
+            outputValue={jsonContent}
+            isFlipped={false}
+          />
+        </div>
+        <!-- Next Card Preview -->
+        {
+          nextCard && (
+            <div class="xl:absolute xl:-right-65 xl:top-[66%] xl:-translate-y-1/2 xl:w-80 sm:w-full mx-auto xl:h-80 cursor-pointer transition-all duration-500 hover:scale-105 opacity-60 z-1 transform mt-10 xl:mt-0 xl:rotate-6">
+              <div class="text-center mb-2 opacity-100  xl:hidden block">
+                <span class="text-xs text-gray-700 bg-white/90 px-3 py-1 rounded-full inline-block min-w-[100px] backdrop-blur-sm shadow-sm">
+                  Next Card
+                </span>
+              </div>
+              <a href={`/cards/${nextCard.id}`} class="block">
+                <CardCover
+                  title={nextCard.title}
+                  template={nextCard.template}
+                  size="small"
+                />
+              </a>
+            </div>
+          )
+        }
+      </div>
+
+      {
+        recommendedCards.length > 0 && (
+          <div class="mt-16">
+            <h2 class="text-2xl font-bold mb-6 text-center">Related Cards</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+              {recommendedCards.map((recCard) => (
+                <a href={`/cards/${recCard.id}`}>
+                  <CardCover
+                    title={recCard.title}
+                    template={recCard.template}
+                  />
+                </a>
+              ))}
+            </div>
+          </div>
+        )
+      }
+    </div>
+  </div>
+</MainLayout>

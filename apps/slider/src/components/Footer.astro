@@ -1,0 +1,42 @@
+---
+import OptimizedImage from "@/components/OptimizedImage.astro";
+---
+
+<footer class="border-t border-slate-800 bg-slate-950">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+    <div class="py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-2 text-sm text-slate-500">
+        <OptimizedImage
+          src="/logo.webp"
+          alt="Mona"
+          width={120}
+          height={40}
+          class="h-6 w-auto"
+        />
+        <span>© {new Date().getFullYear()} Mona. Learn from What We Build.</span>
+      </div>
+
+      <div class="flex items-center gap-2">
+        <a
+          href='/doodles'
+          class="text-slate-500 transition-colors hover:text-emerald-400 text-sm"
+        >
+          Doodles 
+        </a>
+        <span aria-hidden="true" class="text-slate-700 px-2">|</span>
+        <a
+          href='/rss.xml'
+          target="_blank"
+        >
+          <OptimizedImage
+            src="/rss.svg"
+            alt="RSS"
+            width={20}
+            height={20}
+            class="w-5 h-5 invert"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>

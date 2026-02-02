@@ -1,0 +1,156 @@
+---
+import { getCollection } from "astro:content";
+import BlogsPage from "@/components/blog/BlogsPage.astro";
+import CardsPage from "@/components/knowledge-card/CardsPage.astro";
+import type { Slide } from "@/components/slide/SlideCard.astro";
+import SlidesPage from "@/components/slide/SlidesPage.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+import { paginate } from "../lib/pagination";
+import MainLayout from "./MainLayout.astro";
+
+interface Props {
+  collectionType: "blogs" | "cards" | "slides";
+  title: string;
+  description: string;
+  defaultLimit: number;
+}
+
+const { collectionType, title, description, defaultLimit } = Astro.props;
+
+const page = Number(Astro.url.searchParams.get("page")) || 1;
+const limit = Number(Astro.url.searchParams.get("limit")) || defaultLimit;
+const tag = Astro.url.searchParams.get("tag");
+
+const sourceItems = await getCollection(collectionType);
+
+const tags = sourceItems.flatMap((item) => item.data.tags || []);
+const tagCounts = tags.reduce(
+  (acc, currentTag) => {
+    acc[currentTag] = (acc[currentTag] || 0) + 1;
+    return acc;
+  },
+  {} as Record<string, number>,
+);
+
+const tagList = Object.entries(tagCounts)
+  .sort(([, a], [, b]) => (b as number) - (a as number))
+  .map(([tag, count]) => ({
+    tag,
+    count: count as number,
+    size: Math.max(
+      1,
+      Math.min(
+        4,
+        Math.ceil(
+          ((count as number) * 4) /
+            Math.max(...(Object.values(tagCounts) as number[])),
+        ),
+      ),
+    ),
+  }));
+
+let allItems: typeof sourceItems;
+if (tag) {
+  allItems = sourceItems.filter((item) => item.data.tags?.includes(tag));
+} else {
+  allItems = sourceItems;
+}
+
+const sortedItems = allItems.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const paginatedItems = paginate(sortedItems, page, limit);
+const pageTitle = `${title} - Page ${page} | ${SITE_TITLE}`;
+
+const items = paginatedItems.items.map((item) => {
+  if (collectionType === "blogs") {
+    return {
+      id: item.id,
+      ...item.data,
+    };
+  } else {
+    const { ...itemDataWithoutId } = item.data;
+    return {
+      id: item.id,
+      ...itemDataWithoutId,
+    };
+  }
+});
+---
+
+<MainLayout title={pageTitle} description={SITE_DESCRIPTION}>
+  <h1 class="text-3xl font-bold">{title}</h1>
+  <p class="my-2 text-muted-foreground dark:text-gray-400">
+    {description}
+  </p>
+
+  {
+    collectionType === "blogs" && (
+      <BlogsPage blogs={items} allTags={tagList} tag={tag || ""} />
+    )
+  }
+  {
+    collectionType === "cards" && (
+      <CardsPage cards={items} tags={tagList} tag={tag || ""} />
+    )
+  }
+  {
+    collectionType === "slides" && (
+      <SlidesPage slides={items as Slide[]} tags={tagList} tag={tag || ""} />
+    )
+  }
+
+  <nav class="mt-12" aria-label="Pagination">
+    <div class="flex justify-between items-center">
+      {
+        page > 1 && (
+          <a
+            href={`/${collectionType}?page=${page - 1}&limit=${limit}${tag ? `&tag=${tag}` : ""}`}
+            class="inline-flex items-center px-4 py-2 text-sm font-medium border rounded-md transition-colors border-slate-400 text-slate-400 hover:text-emerald-400"
+          >
+            <svg
+              class="w-5 h-5 mr-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M15 19l-7-7 7-7"
+              />
+            </svg>
+            Previous
+          </a>
+        )
+      }
+      <span class="text-sm text-muted-foreground">
+        {page} / {paginatedItems.totalPages} Pages
+      </span>
+      {
+        paginatedItems.hasMore && (
+          <a
+            href={`/${collectionType}?page=${page + 1}&limit=${limit}${tag ? `&tag=${tag}` : ""}`}
+            class="inline-flex items-center px-4 py-2 text-sm font-medium border rounded-md border-slate-400 text-slate-400 hover:text-emerald-400 transition-colors"
+          >
+            Next
+            <svg
+              class="w-5 h-5 ml-2"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              />
+            </svg>
+          </a>
+        )
+      }
+    </div>
+  </nav>
+</MainLayout>

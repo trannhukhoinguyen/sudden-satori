@@ -1,0 +1,296 @@
+---
+import { randomUUID } from "node:crypto";
+import {
+  EmailShareButton,
+  LinkedInShareButton,
+  TwitterShareButton,
+} from "astro-social-share";
+import { Mail, Share2 } from "lucide-react";
+import { CopyButton } from "./copy-button";
+
+interface Props {
+  url: string;
+  title: string;
+  description?: string;
+  isPopup?: boolean;
+  variant?: "default" | "slide";
+  idPrefix?: string;
+}
+
+const props = Astro.props as Props;
+const {
+  url,
+  title,
+  description,
+  isPopup = false,
+  variant = "default",
+  idPrefix,
+} = props;
+
+const shareDescription = description ?? title;
+const isSlideVariant = variant === "slide";
+
+const resolvedIdPrefix = idPrefix ?? `share-${randomUUID()}`;
+const containerId = `${resolvedIdPrefix}-container`;
+const buttonId = `${resolvedIdPrefix}-toggle`;
+
+const containerClass = [
+  "flex",
+  "items-center",
+  isSlideVariant
+    ? "gap-2 flex-row justify-start md:flex-col md:justify-center md:gap-3 slide-share-group"
+    : "gap-4 justify-end",
+  isPopup
+    ? "absolute -bottom-14 right-0 bg-white h-10 md:h-12 px-4 rounded-md shadow-lg border border-slate-200 popup-share-group"
+    : "",
+]
+  .filter(Boolean)
+  .join(" ");
+
+const copyTextColor = isSlideVariant || isPopup ? "text-black" : "text-white";
+const copyBackground = (() => {
+  if (isSlideVariant) {
+    return "w-10 h-10 md:w-12 md:h-12 bg-white rounded-xl shadow-lg border border-gray-200 hover:shadow-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center";
+  }
+  if (isPopup) {
+    return "bg-white rounded-xl transition-all duration-200 flex items-center justify-center";
+  }
+  return undefined;
+})();
+const copyIconSize = isSlideVariant ? "w-4 h-4 md:w-5 md:h-5" : "w-4 h-4";
+const mailIconClass = isSlideVariant ? "w-4 h-4 md:w-5 md:h-5" : "w-4 h-4";
+const shareButtonClass = [
+  "astro-social-share",
+  "inline-flex",
+  "items-center",
+  "justify-center",
+  "transition-all",
+  "duration-200",
+  isSlideVariant ? "md:[&_svg]:!h-5 md:[&_svg]:!w-5" : "",
+]
+  .filter(Boolean)
+  .join(" ");
+---
+
+{isPopup && (
+  <button
+    id={buttonId}
+    type="button"
+    class={`cursor-pointer w-10 h-10 md:w-12 md:h-12 rounded-xl transition-all duration-200 flex items-center justify-center group ${
+      isSlideVariant
+        ? "bg-white shadow-lg border border-gray-200 hover:shadow-xl hover:bg-gray-50"
+        : "bg-white shadow-lg border border-gray-200 hover:shadow-xl hover:bg-gray-50"
+    }`}
+    aria-haspopup="true"
+    aria-controls={containerId}
+    aria-expanded="false"
+  >
+    <Share2 className="w-4 h-4 md:w-5 md:h-5 text-gray-600 group-hover:text-gray-800" />
+  </button>
+)}
+
+<div
+  id={containerId}
+  class={containerClass}
+  data-popup-share={isPopup ? "true" : undefined}
+  data-variant={variant}
+  data-open={isPopup ? "false" : undefined}
+  tabindex={isPopup ? -1 : undefined}
+  hidden={isPopup ? true : undefined}
+>
+  <CopyButton
+    content={url}
+    textColor={copyTextColor}
+    background={copyBackground}
+    iconSize={copyIconSize}
+    client:load
+  />
+  <div class={`${shareButtonClass} twitter-share`}>
+    <TwitterShareButton url={url} description={title} />
+  </div>
+  <div class={shareButtonClass}>
+    <LinkedInShareButton url={url} title={title} description={shareDescription} />
+  </div>
+  <div class={`${shareButtonClass} mail-share`}>
+    <EmailShareButton title={title} description={shareDescription}>
+      <Mail className={mailIconClass} />
+    </EmailShareButton>
+  </div>
+</div>
+
+<slot name="astro-social-share-css">
+  <style is:global>
+    .astro-social-share {
+      margin: 0;
+      height: unset;
+      display: inline-flex;
+    }
+
+    .astro-social-share a {
+      text-decoration: none;
+      margin-right: 0;
+    }
+
+    .astro-social-share a:not(:first-child) {
+      margin-left: 16px;
+    }
+
+    .twitter-share {
+      margin-right: 0 !important;
+      margin-left: 0 !important;
+    }
+
+    .mail-share svg{
+      fill: unset !important; 
+    }
+
+    .astro-social-share svg {
+      height: 16px;
+      width: 16px;
+      fill: white;
+      transition: fill 150ms ease;
+    }
+
+    .astro-social-share svg.lucide,
+    .astro-social-share svg.lucide * {
+      fill: none !important;
+    }
+
+    .astro-social-share svg.lucide {
+      stroke: white;
+      transition: stroke 150ms ease;
+    }
+
+    [data-popup-share="true"] .astro-social-share svg,
+    [data-variant="slide"] .astro-social-share svg {
+      fill: black;
+    }
+
+    [data-popup-share="true"] .astro-social-share svg.lucide,
+    [data-variant="slide"] .astro-social-share svg.lucide {
+      stroke: black;
+    }
+
+    .astro-social-share a:hover svg,
+    .astro-social-share a:focus-visible svg {
+      fill: oklch(55.1% 0.027 264.364);
+    }
+
+    .astro-social-share a:hover svg.lucide,
+    .astro-social-share a:focus-visible svg.lucide {
+      stroke: oklch(55.1% 0.027 264.364);
+    }
+
+    .slide-share-group .astro-social-share {
+      flex-direction: column;
+      gap: 0.75rem;
+      margin: 0;
+    }
+
+    .slide-share-group .astro-social-share a {
+      margin: 0;
+      width: 40px;
+      height: 40px;
+      border-radius: 12px;
+      border: 1px solid rgba(226, 232, 240, 1);
+      background: rgba(255, 255, 255, 0.95);
+      box-shadow: 0 12px 32px rgba(2, 6, 23, 0.22);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: transform 180ms ease, box-shadow 180ms ease;
+    }
+
+    @media (min-width: 768px) {
+      .slide-share-group .astro-social-share svg {
+        height: 18px;
+        width: 18px;
+      }
+
+      .slide-share-group .astro-social-share a {
+        width: 48px;
+        height: 48px;
+      }
+    }
+
+    @media (max-width: 767px) {
+      .slide-share-group {
+        gap: 0.75rem;
+      }
+
+      .slide-share-group .astro-social-share {
+        flex-direction: row;
+        gap: 0.75rem;
+      }
+    }
+
+    .popup-share-group {
+      display: none;
+    }
+
+    .popup-share-group[data-open="true"] {
+      display: flex;
+    }
+  </style>
+</slot>
+
+{isPopup && (
+  <script is:inline>
+    (() => {
+      const currentScript = document.currentScript;
+      if (!(currentScript instanceof HTMLScriptElement)) return;
+      const panelCandidate = currentScript.previousElementSibling;
+      const toggleCandidate = panelCandidate ? panelCandidate.previousElementSibling : null;
+      const panel = panelCandidate instanceof HTMLElement ? panelCandidate : null;
+      const toggle = toggleCandidate instanceof HTMLElement ? toggleCandidate : null;
+      if (!toggle || !panel) {
+        return;
+      }
+
+      const showPanel = () => {
+        panel.hidden = false;
+        panel.removeAttribute("hidden");
+        panel.setAttribute("data-open", "true");
+        panel.focus();
+        toggle.setAttribute("aria-expanded", "true");
+      };
+
+      const hidePanel = () => {
+        panel.hidden = true;
+        panel.setAttribute("hidden", "");
+        panel.setAttribute("data-open", "false");
+        toggle.setAttribute("aria-expanded", "false");
+      };
+
+      toggle.addEventListener("click", (event) => {
+        event.preventDefault();
+        event.stopPropagation();
+        if (panel.hidden) {
+          showPanel();
+        } else {
+          hidePanel();
+        }
+      });
+
+      toggle.addEventListener("keydown", (event) => {
+        if (event.key === "Escape" && !panel.hidden) {
+          hidePanel();
+        }
+      });
+
+      panel.addEventListener("keydown", (event) => {
+        if (event.key === "Escape") {
+          hidePanel();
+          toggle.focus();
+        }
+      });
+
+      panel.addEventListener("focusout", (event) => {
+        const next = event.relatedTarget;
+        if (!(next instanceof Node && panel.contains(next))) {
+          hidePanel();
+        }
+      });
+    })();
+  </script>
+)}

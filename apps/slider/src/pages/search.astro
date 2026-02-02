@@ -1,0 +1,170 @@
+---
+import { SITE_TITLE } from "@/consts";
+import MainLayout from "../layouts/MainLayout.astro";
+---
+
+<MainLayout
+  title={`Search | ${SITE_TITLE}`}
+  description="Search through cards, blogs, and slides"
+>
+  <div class="container mx-auto px-4 py-8">
+    <div class="max-w-4xl mx-auto">
+      <h1 class="text-3xl font-bold text-teahouse-dark mb-8">Search</h1>
+
+      <div id="search-container">
+        <!-- Pagefind search will be initialized here -->
+      </div>
+
+      <div class="mt-6 text-sm text-white">
+        <p>
+          Search through our collection of knowledge cards, blog articles, and
+          presentation slides.
+        </p>
+        <p class="mt-2">
+          Try searching for topics like "AI", "development", "deployment", or
+          any technology you're interested in.
+        </p>
+      </div>
+    </div>
+  </div>
+</MainLayout>
+
+<script is:inline type="module">
+  document.addEventListener("DOMContentLoaded", async () => {
+    try {
+      // Load pagefind as ES module
+      const pagefind = await import("/_pagefind/pagefind.js");
+
+      // Initialize search
+      await pagefind.init();
+
+      // Create search interface
+      const searchContainer = document.getElementById("search-container");
+      if (!searchContainer) return;
+
+      // Create search input
+      const searchInput = document.createElement("input");
+      searchInput.type = "text";
+      searchInput.placeholder = "Search for cards, blogs, and slides...";
+      searchInput.className =
+        "w-full px-4 py-3 text-lg border border-slate-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 mb-4";
+
+      // Create results container
+      const resultsContainer = document.createElement("div");
+      resultsContainer.id = "search-results";
+
+      searchContainer.appendChild(searchInput);
+      searchContainer.appendChild(resultsContainer);
+
+      // Search function
+      let debounceTimeout;
+      const performSearch = async (query) => {
+        if (!query.trim()) {
+          resultsContainer.innerHTML = "";
+          return;
+        }
+
+        resultsContainer.innerHTML =
+          '<div class="text-center py-8 text-slate-500">Searching...</div>';
+
+        try {
+          const results = await pagefind.search(query);
+
+          if (results.results.length === 0) {
+            resultsContainer.innerHTML =
+              '<div class="text-center py-8 text-slate-500">No results found</div>';
+            return;
+          }
+
+          const resultsHTML = await Promise.all(
+            results.results.slice(0, 10).map(async (result) => {
+              const data = await result.data();
+              const cleanUrl = data.url.replace(/\.html$/, "");
+              const type = data.meta?.type || "page";
+              const typeColor =
+                type === "card"
+                  ? "bg-blue-100 text-blue-800"
+                  : type === "blog"
+                    ? "bg-green-100 text-green-800"
+                    : "bg-yellow-100 text-yellow-800";
+
+              return `
+              <div class="bg-white rounded-lg shadow-sm border border-slate-200 p-6 hover:shadow-md transition-shadow mb-4">
+                <div class="flex items-center gap-3 mb-3">
+                  <span class="inline-block px-2 py-1 text-xs font-medium rounded ${typeColor}">
+                    ${type.toUpperCase()}
+                  </span>
+                </div>
+                <h3 class="text-xl font-semibold mb-2">
+                  <a href="${cleanUrl}" class="text-slate-900 hover:text-emerald-600 transition-colors">
+                    ${data.meta?.title || data.title}
+                  </a>
+                </h3>
+                <div class="text-slate-600 mb-3 leading-relaxed">
+                  ${data.excerpt}
+                </div>
+                ${
+                  data.meta?.keywords
+                    ? `
+                  <div class="flex flex-wrap gap-2">
+                    ${data.meta.keywords
+                      .split(", ")
+                      .map(
+                        (tag) =>
+                          `<span class="px-2 py-1 text-xs bg-slate-100 text-slate-600 rounded">${tag}</span>`
+                      )
+                      .join("")}
+                  </div>
+                `
+                    : ""
+                }
+              </div>
+            `;
+            })
+          );
+
+          resultsContainer.innerHTML = `
+          <div class="mb-4 text-sm text-white">
+            Found ${results.results.length} results
+          </div>
+          ${resultsHTML.join("")}
+        `;
+        } catch (error) {
+          console.error("Search error:", error);
+          resultsContainer.innerHTML =
+            '<div class="text-center py-8 text-red-500">Search failed. Please try again.</div>';
+        }
+      };
+
+      // Handle input
+      searchInput.addEventListener("input", (e) => {
+        const query = e.target.value;
+        clearTimeout(debounceTimeout);
+        debounceTimeout = setTimeout(() => {
+          performSearch(query);
+        }, 300);
+      });
+
+      // Check for URL params
+      const urlParams = new URLSearchParams(window.location.search);
+      const initialQuery = urlParams.get("q");
+      if (initialQuery) {
+        searchInput.value = initialQuery;
+        performSearch(initialQuery);
+
+        urlParams.delete("q");
+        const newUrl = urlParams.toString()
+          ? `${window.location.pathname}?${urlParams.toString()}`
+          : window.location.pathname;
+        window.history.replaceState({}, "", newUrl);
+      }
+    } catch (error) {
+      console.error("Failed to load pagefind:", error);
+      const searchContainer = document.getElementById("search-container");
+      if (searchContainer) {
+        searchContainer.innerHTML =
+          '<div class="text-center py-8 text-red-500">Search functionality is currently unavailable. Please try again later.</div>';
+      }
+    }
+  });
+</script>

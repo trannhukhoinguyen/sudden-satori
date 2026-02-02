@@ -1,0 +1,131 @@
+---
+import { createCardStyles } from "@/lib/utils";
+import "@/styles/card.css";
+import {
+  DEFAULT_KNOWLEDGE_CARD_THEME,
+  KNOWLEDGE_CARD_THEME,
+} from "@/themes/knowledge-card-themes";
+import type { CardCoverProps } from "./types";
+
+const { title, template, size = "medium" } = Astro.props as CardCoverProps;
+
+const cardTheme =
+  KNOWLEDGE_CARD_THEME[template] ||
+  KNOWLEDGE_CARD_THEME[DEFAULT_KNOWLEDGE_CARD_THEME];
+const cardStyles = createCardStyles(template);
+---
+
+<div
+  class={`card-cover w-full h-64 shadow-lg rounded-2xl border-0 cursor-pointer ${cardTheme.backgroundClass}`}
+  style={cardStyles}
+>
+  <div
+    class={`card-cover-content relative z-10 h-full ${size === "small" ? "p-2" : "p-6"}`}
+  >
+    <div class="card-cover-inner">
+      <div class="flex items-start gap-4 w-full">
+        <div class="card-cover-decorative-line"></div>
+        <div class="flex-1 min-w-0">
+          <h3 class={`card-cover-title ${size === "small" ? "text-sm" : ""}`}>
+            {title}
+          </h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .card-cover {
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .card-cover:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+
+  .card-cover-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .card-cover-inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .card-cover-decorative-line {
+    background-color: var(--card-decorative-line-color);
+    width: 4px;
+    height: 50px;
+    border-radius: 2px;
+    flex-shrink: 0;
+    opacity: 0.8;
+    transition: all 0.3s ease;
+  }
+
+  .card-cover:hover .card-cover-decorative-line {
+    height: 60px;
+    opacity: 1;
+  }
+
+  .card-cover-title {
+    color: var(--card-title-color);
+    font-size: clamp(18px, 3vw, 24px);
+    font-weight: 600;
+    font-family: var(
+      --card-title-font-family,
+      "Inter",
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "Segoe UI",
+      "Roboto",
+      "Helvetica",
+      "Arial",
+      sans-serif
+    );
+    letter-spacing: -0.3px;
+    line-height: 1.3;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (max-width: 768px) {
+    .card-cover-title {
+      font-size: clamp(16px, 4vw, 20px);
+      line-height: 1.4;
+    }
+
+    .card-cover-decorative-line {
+      height: 40px;
+      width: 3px;
+    }
+
+    .card-cover:hover .card-cover-decorative-line {
+      height: 50px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .card-cover-title {
+      font-size: clamp(14px, 4vw, 18px);
+      -webkit-line-clamp: 4;
+    }
+  }
+</style>

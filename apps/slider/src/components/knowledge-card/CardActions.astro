@@ -1,0 +1,139 @@
+---
+import { Link } from "lucide-react";
+import OptimizedImage from "@/components/OptimizedImage.astro";
+import { MERMAID_LIVE_BASE_URL } from "../../consts";
+import { CopyButton } from "../copy-button";
+import ShareButtons from "../ShareButtons.astro";
+
+const {
+  isFlipped: initialFlipped,
+  articleData,
+  outputValue,
+  pakoContent,
+  url,
+} = Astro.props;
+
+let isFlipped = initialFlipped;
+---
+
+<div
+  id="card-actions-root"
+  class="absolute -top-3 right-1 md:top-26 md:right-[-80px] md:-translate-y-1/2 flex flex-row md:flex-col space-x-2 md:space-x-0 md:space-y-3 z-30"
+  data-flipped={isFlipped}
+>
+  <button
+    type="button"
+    class="cursor-pointer w-10 h-10 md:w-12 md:h-12 bg-white rounded-xl shadow-lg border border-gray-200 hover:shadow-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center group"
+    title="Links"
+    id="card-links-btn"
+  >
+    <Link
+      className="w-4 h-4 md:w-5 md:h-5 text-gray-600 group-hover:text-gray-800"
+    />
+  </button>
+
+  <button
+    type="button"
+    class="cursor-pointer w-10 h-10 md:w-12 md:h-12 bg-white rounded-xl shadow-lg border border-gray-200 hover:shadow-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center group"
+    title="Mermaid chart"
+    id="card-mermaid-btn"
+    data-pakocontent={JSON.stringify(pakoContent)}
+    data-baseurl={MERMAID_LIVE_BASE_URL}
+    style="display: {isFlipped ? 'none' : ''}"
+  >
+    <OptimizedImage
+      src="/cards/mermaid.svg"
+      alt="Mermaid"
+      width={20}
+      height={20}
+      class="w-4 h-4 md:w-5 md:h-5"
+    />
+  </button>
+
+  <div id="copy-front-btn">
+    <CopyButton
+      content={articleData?.mermaidMarkdown
+        ? "```json\n" + JSON.stringify({ ...articleData }, null, 2) + "\n```"
+        : outputValue}
+      textColor="text-black"
+      background="w-10 h-10 md:w-12 md:h-12 bg-white rounded-xl shadow-lg border border-gray-200 hover:shadow-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center"
+      iconSize="w-4 h-4 md:w-5 md:h-5"
+      client:load
+    />
+  </div>
+  <div id="copy-back-btn">
+    <CopyButton
+      content={articleData?.mermaidMarkdown}
+      textColor={"text-black"}
+      background="w-10 h-10 md:w-12 md:h-12 bg-white rounded-xl shadow-lg border border-gray-200 hover:shadow-xl hover:bg-gray-50 transition-all duration-200 flex items-center justify-center"
+      iconSize="w-4 h-4 md:w-5 md:h-5"
+      client:load
+    />
+  </div>
+  <ShareButtons
+    url={url}
+    title={articleData.title}
+    description={articleData.description}
+    isPopup={true}
+  />
+</div>
+<script is:inline>
+  let isFlipped =
+    document
+      .getElementById("card-actions-root")
+      ?.getAttribute("data-flipped") === "true";
+
+  window.addEventListener("card-flip", function (e) {
+    isFlipped = e.detail;
+    document
+      .getElementById("card-actions-root")
+      ?.setAttribute("data-flipped", isFlipped ? "true" : "false");
+    updateActionButtonsDisplay(isFlipped);
+  });
+
+  setTimeout(() => {
+    updateActionButtonsDisplay(isFlipped);
+  }, 0);
+
+  // Mermaid button
+  const mermaidBtn = document.getElementById("card-mermaid-btn");
+  mermaidBtn?.addEventListener("click", function (e) {
+    e.stopPropagation();
+    const pakoContent = JSON.parse(mermaidBtn.dataset.pakocontent);
+    if (pakoContent?.pakoValue) {
+      const mermaidUrl = `${mermaidBtn.dataset.baseurl}/edit#pako:${pakoContent.pakoValue}`;
+      window.open(mermaidUrl, "_blank");
+    }
+  });
+
+  // Links button
+  document.addEventListener("DOMContentLoaded", function () {
+    const linksBtn = document.getElementById("card-links-btn");
+    linksBtn?.addEventListener("click", function (e) {
+      e.stopPropagation();
+      const event = new CustomEvent("show-links-modal", {
+        detail: { show: true },
+        bubbles: true,
+      });
+      linksBtn.dispatchEvent(event);
+    });
+  });
+
+  function updateActionButtonsDisplay(isFlipped) {
+    const mermaidBtn = document.getElementById("card-mermaid-btn");
+    const linksBtn = document.getElementById("card-links-btn");
+    const copyFrontBtn = document.getElementById("copy-front-btn");
+    const copyBackBtn = document.getElementById("copy-back-btn");
+    if (isFlipped) {
+      mermaidBtn && (mermaidBtn.style.display = "");
+      linksBtn && (linksBtn.style.display = "none");
+      copyFrontBtn && (copyFrontBtn.style.display = "none");
+      copyBackBtn && (copyBackBtn.style.display = "");
+    } else {
+      mermaidBtn && (mermaidBtn.style.display = "none");
+      linksBtn && (linksBtn.style.display = "");
+      copyFrontBtn && (copyFrontBtn.style.display = "");
+      copyBackBtn && (copyBackBtn.style.display = "none");
+    }
+  }
+</script>

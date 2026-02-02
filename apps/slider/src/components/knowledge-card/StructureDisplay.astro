@@ -1,0 +1,224 @@
+---
+export interface SubBranch {
+  title: string;
+  leaves: string[];
+}
+export interface Branch {
+  title: string;
+  subBranches: SubBranch[];
+}
+export interface StructureText {
+  root: string;
+  branches: Branch[];
+}
+export interface Props {
+  structureText: StructureText;
+}
+const { structureText } = Astro.props;
+---
+
+{
+  structureText &&
+  structureText.branches &&
+  structureText.branches.length > 0 ? (
+    <section
+      class="structure-display-container"
+      aria-labelledby="structure-title"
+    >
+      <div class="container mx-auto px-3">
+        <div data-structure-root>
+          <div
+            class="structure-branch-source grid gap-4 sm:grid-cols-2 xl:grid-cols-3"
+            data-branch-source
+          >
+            {structureText.branches.map((branch, index) => {
+              return (
+                <div
+                  class="structure-branch-card flex flex-col"
+                  data-branch-card
+                  data-branch-index={index}
+                >
+                  <div class="transition-all duration-300 bg-white/50 border-slate-100 w-full rounded-lg border shadow-sm">
+                    <div class="p-3 pb-0 flex items-start justify-between gap-3">
+                      <div class="branch-card-title text-sm font-semibold transition-colors">
+                        {branch.title}
+                      </div>
+                    </div>
+                    <div class="flex-1 flex flex-col justify-between p-3 pt-0">
+                      <div class="text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
+                        <div class="space-y-3">
+                          {branch.subBranches.map((subBranch) => {
+                            const subBranchClass =
+                              subBranch.leaves.length > 0
+                                ? "sub-branch-container bg-white/70 rounded-md p-2 border border-slate-200"
+                                : "sub-branch-container";
+                            return (
+                              <div class={subBranchClass}>
+                                <div class="flex items-center gap-2 mb-2">
+                                  <div class="w-1.5 h-1.5 bg-blue-500 rounded-full flex-shrink-0" />
+                                  <h4 class="font-semibold text-slate-800 dark:text-slate-100 text-sm leading-tight text-left">
+                                    {subBranch.title}
+                                  </h4>
+                                </div>
+                                {subBranch.leaves.length > 0 && (
+                                  <div class="ml-4 space-y-1.5">
+                                    {subBranch.leaves.map((leaf) => (
+                                      <div class="flex items-start gap-2.5 leaf-item">
+                                        <span class="text-left text-sm leading-relaxed text-slate-600 dark:text-slate-300">
+                                          <span class="font-bold">-</span>{" "}
+                                          {leaf}
+                                        </span>
+                                      </div>
+                                    ))}
+                                  </div>
+                                )}
+                              </div>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+          <div
+            class="structure-columns grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3"
+            data-structure-columns
+            hidden
+          />
+        </div>
+      </div>
+    </section>
+  ) : (
+    <div class="structure-display-container">
+      <div class="text-sm text-center py-8">No Mindmap Data</div>
+    </div>
+  )
+}
+
+<script is:inline type="module">
+  const ROOT_SELECTOR = "[data-structure-root]";
+  const BREAKPOINTS = [
+    { width: 1536, columns: 4 },
+    { width: 1024, columns: 3 },
+    { width: 640, columns: 2 },
+  ];
+
+  const getColumnCount = (width) => {
+    for (const point of BREAKPOINTS) {
+      if (width >= point.width) {
+        return point.columns;
+      }
+    }
+    return 1;
+  };
+
+  const initStructureColumns = (root) => {
+    if (root.dataset.structureColumnsInitialized === "true") {
+      return;
+    }
+    root.dataset.structureColumnsInitialized = "true";
+
+    const source = root.querySelector("[data-branch-source]");
+    const container = root.querySelector("[data-structure-columns]");
+    if (!source || !container) {
+      return;
+    }
+
+    const cards = Array.from(source.children);
+    if (!cards.length) {
+      return;
+    }
+
+    let currentColumns = 0;
+
+    const render = (width) => {
+      const columnsCount = getColumnCount(width);
+      if (columnsCount === currentColumns) {
+        return;
+      }
+      currentColumns = columnsCount;
+
+      const fragment = document.createDocumentFragment();
+      const columns = Array.from({ length: columnsCount }, () => {
+        const column = document.createElement("div");
+        column.className = "structure-column flex flex-col gap-4";
+        fragment.appendChild(column);
+        return column;
+      });
+
+      cards.forEach((card, index) => {
+        columns[index % columnsCount].appendChild(card);
+      });
+
+      container.innerHTML = "";
+      container.style.setProperty(
+        "grid-template-columns",
+        `repeat(${columnsCount}, minmax(0, 1fr))`
+      );
+      container.appendChild(fragment);
+      container.hidden = false;
+      source.hidden = true;
+      source.setAttribute("aria-hidden", "true");
+    };
+
+    const initialWidth =
+      root.getBoundingClientRect().width || window.innerWidth;
+    render(initialWidth);
+
+    let resizeObserver;
+    const resizeHandler = () =>
+      render(root.getBoundingClientRect().width || window.innerWidth);
+
+    if ("ResizeObserver" in window) {
+      resizeObserver = new ResizeObserver((entries) => {
+        for (const entry of entries) {
+          render(entry.contentRect.width || window.innerWidth);
+        }
+      });
+      resizeObserver.observe(root);
+    } else {
+      window.addEventListener("resize", resizeHandler, { passive: true });
+    }
+
+    const cleanup = () => {
+      if (resizeObserver) {
+        resizeObserver.disconnect();
+      } else {
+        window.removeEventListener("resize", resizeHandler);
+      }
+
+      cards.forEach((card) => {
+        source.appendChild(card);
+      });
+      source.hidden = false;
+      source.removeAttribute("aria-hidden");
+
+      container.hidden = true;
+      container.innerHTML = "";
+      delete root.dataset.structureColumnsInitialized;
+    };
+
+    document.addEventListener("astro:beforeunload", cleanup, { once: true });
+  };
+
+  const initAll = () => {
+    document
+      .querySelectorAll(ROOT_SELECTOR)
+      .forEach((root) => initStructureColumns(root));
+  };
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initAll, { once: true });
+  } else {
+    initAll();
+  }
+
+  const GLOBAL_FLAG = "__structureColumnsGlobalListener";
+  if (!window[GLOBAL_FLAG]) {
+    document.addEventListener("astro:page-load", initAll);
+    window[GLOBAL_FLAG] = true;
+  }
+</script>

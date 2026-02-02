@@ -1,0 +1,94 @@
+---
+interface AdjacentContent {
+  previous?: {
+    id: string;
+    title: string;
+  };
+  next?: {
+    id: string;
+    title: string;
+  };
+}
+
+interface Props {
+  adjacentContent: AdjacentContent;
+  contentType: "blogs" | "slides" | "cards" | "doodles";
+}
+
+const { adjacentContent, contentType } = Astro.props;
+const { previous, next } = adjacentContent;
+
+// Return nothing if no navigation available
+if (!previous && !next) {
+  return null;
+}
+---
+
+<nav
+  class="mt-12 mb-8 border-t border-slate-800"
+  aria-label="Content Navigation"
+>
+  <div class="flex justify-between items-stretch pt-8 gap-4">
+    {
+      previous ? (
+        <a
+          href={`/${contentType}/${previous.id}`}
+          class="block !no-underline flex-1 max-w-sm"
+        >
+          <div class="flex items-start justify-start px-4 py-3 text-sm font-medium border rounded-md transition-colors border-slate-400 text-slate-400 hover:text-emerald-400 hover:border-emerald-400 h-full">
+            <svg
+              class="w-5 h-5 mr-2 flex-shrink-0 mt-0.5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M15 19l-7-7 7-7"
+              />
+            </svg>
+            <div class="min-w-0">
+              <div class="text-xs opacity-70">Previous</div>
+              <div class="font-medium break-words">{previous.title}</div>
+            </div>
+          </div>
+        </a>
+      ) : (
+        <div class="flex-1 max-w-sm" />
+      )
+    }
+
+    {
+      next ? (
+        <a
+          href={`/${contentType}/${next.id}`}
+          class="block text-right !no-underline flex-1 max-w-sm"
+        >
+          <div class="flex items-start justify-end px-4 py-3 text-sm font-medium border rounded-md transition-colors border-slate-400 text-slate-400 hover:text-emerald-400 hover:border-emerald-400 h-full">
+            <div class="min-w-0">
+              <div class="text-xs opacity-70">Next</div>
+              <div class="font-medium break-words">{next.title}</div>
+            </div>
+            <svg
+              class="w-5 h-5 ml-2 flex-shrink-0 mt-0.5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M9 5l7 7-7 7"
+              />
+            </svg>
+          </div>
+        </a>
+      ) : (
+        <div class="flex-1 max-w-sm" />
+      )
+    }
+  </div>
+</nav>

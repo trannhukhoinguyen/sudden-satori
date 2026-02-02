@@ -1,0 +1,28 @@
+---
+import { ExternalLink } from "lucide-react";
+import { isValidUrl } from "./types";
+
+const { title, url } = Astro.props;
+---
+
+{
+  url ? (
+    <a
+      href={isValidUrl(url) ? url : undefined}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="card-a-link cursor-pointer flex items-center gap-2 transition-all duration-300 w-full border-0 bg-transparent p-0 text-blue-600 hover:underline"
+      style="color: var(--card-link-color); text-decoration: none;"
+    >
+      <span class="truncate flex-1 text-left">{title}</span>
+      <ExternalLink
+        className="w-4 h-4 flex-shrink-0"
+        style={{ color: "var(--card-link-color)" }}
+      />
+    </a>
+  ) : (
+    <span class="flex items-center gap-2 transition-all duration-300 w-fit">
+      {title}
+    </span>
+  )
+}

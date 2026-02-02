@@ -1,0 +1,67 @@
+---
+import { getCollection } from "astro:content";
+import OptimizedImage from "@/components/OptimizedImage.astro";
+import { SITE_TITLE } from "@/consts";
+import MainLayout from "@/layouts/MainLayout.astro";
+import { formatDate } from "@/lib/utils";
+
+const doodles = (await getCollection("doodles"))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .map((entry) => ({
+    id: entry.id,
+    ...entry.data,
+  }));
+
+const pageTitle = `Doodles | ${SITE_TITLE}`;
+const pageDescription =
+  " A running log of Mona releases, experiments, and announcements.";
+---
+
+<MainLayout title={pageTitle} description={pageDescription}>
+  <section class="mx-auto flex max-w-4xl flex-col gap-10 py-10">
+    <header class="space-y-4">
+      <h1 class="text-3xl font-bold text-white md:text-4xl">Mona Pulse</h1>
+    </header>
+
+    {
+      doodles.length === 0 ? (
+        <p class="text-white/70">No doodles yet. Check back soon.</p>
+      ) : (
+        <ol class="relative border-l pl-8">
+          {
+            doodles.map((doodle) => (
+              <li class="relative mb-10 last:mb-0" aria-label={doodle.title}>
+                <div
+                  class="absolute -left-12 -top-3 mt-1 flex h-8 w-8 items-center justify-center rounded-full bg-teahouse-bg"
+                  aria-hidden="true"
+                >
+                  <OptimizedImage
+                    src="/activity.svg"
+                    alt=""
+                    width={20}
+                    height={20}
+                    class="h-5 w-5 invert"
+                  />
+                </div>
+                <div class="space-y-3">
+                  <time class="block text-xs font-semibold uppercase tracking-[0.3em] text-white/60">
+                    {formatDate(doodle.pubDate).toUpperCase()}
+                  </time>
+                  <a
+                    href={`/doodles/${doodle.id}`}
+                    class="text-lg font-semibold text-white transition-colors hover:text-primary md:text-xl"
+                  >
+                    {doodle.title}
+                  </a>
+                  <p class="text-sm text-white/70 md:text-base">
+                    {doodle.description}
+                  </p>
+                </div>
+              </li>
+            ))
+          }
+        </ol>
+      )
+    }
+  </section>
+</MainLayout>

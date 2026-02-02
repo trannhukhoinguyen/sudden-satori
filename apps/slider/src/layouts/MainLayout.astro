@@ -1,0 +1,86 @@
+---
+import { z } from "astro:content";
+import { cn } from "@/lib/utils";
+import type { SlideMetadata } from "@/schemas/slide";
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import { Toaster } from "../components/ui/sonner";
+
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  className?: string;
+  keywords?: string;
+  robots?: string;
+  author?: string;
+  type?: "website" | "article" | "product";
+  publishedTime?: string;
+  modifiedTime?: string;
+  section?: string;
+  tags?: string[];
+  revealTheme?: z.infer<typeof SlideMetadata>["theme"];
+}
+
+const {
+  title,
+  description,
+  image,
+  className,
+  keywords,
+  robots,
+  author,
+  type,
+  publishedTime,
+  modifiedTime,
+  section,
+  tags,
+  revealTheme,
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" class="mona">
+  <head>
+    <BaseHead
+      title={title}
+      description={description}
+      image={image}
+      keywords={keywords}
+      robots={robots}
+      author={author}
+      type={type}
+      publishedTime={publishedTime}
+      modifiedTime={modifiedTime}
+      section={section}
+      tags={tags}
+    />
+    {
+      revealTheme && (
+        <link
+          rel="stylesheet"
+          href={`https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.2.1/theme/${revealTheme}.css`}
+        />
+      )
+    }
+  </head>
+  <body>
+    <div class="flex min-h-screen flex-col bg-teahouse-bg">
+      <Header />
+      <main class="flex-1">
+        <div class={cn(className ? className : "container p-4 md:p-6 mx-auto")}>
+          <slot />
+        </div>
+      </main>
+      <Footer />
+    </div>
+    <Toaster client:load />
+    <script is:inline type="module">
+      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+      mermaid.initialize({ startOnLoad: true });
+    </script>
+  </body>
+</html>

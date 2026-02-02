@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /user/
+
+# Allow specific endpoints for SEO
+Allow: /rss.xml
+Allow: /sitemap-index.xml
+
+# Sitemap locations
+Sitemap: https://www.mymona.xyz/sitemap-index.xml

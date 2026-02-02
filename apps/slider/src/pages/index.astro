@@ -1,0 +1,132 @@
+---
+import { getCollection } from "astro:content";
+import BlogCard from "@/components/blog/BlogCard.astro";
+import CardCover from "@/components/knowledge-card/CardCover.astro";
+import HeroSection from "@/components/landing-page/HeroSection.astro";
+import LatestSection from "@/components/landing-page/LatestSection.astro";
+import ProductSection from "@/components/ProductSection.astro";
+import SlideCard from "@/components/slide/SlideCard.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "@/consts";
+import MainLayout from "@/layouts/MainLayout.astro";
+
+const allPosts = (await getCollection("blogs"))
+  .map((post) => ({
+    id: post.id,
+    title: post.data.title,
+    description: post.data.description,
+    pubDate: post.data.pubDate,
+    tags: post.data.tags,
+    updatedDate: post.data.updatedDate,
+    author: post.data.author,
+    metadata: post.data.metadata,
+  }))
+  .sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+
+const allCards = (await getCollection("cards"))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .map((card) => ({
+    id: card.id,
+    title: card.data.title,
+    template: card.data.template,
+    tags: card.data.tags,
+  }));
+
+const allSlides = (await getCollection("slides"))
+  .filter((slide) => slide.data.pubDate) // Filter out slides without pubDate
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .map((slide) => ({
+    id: slide.id,
+    title: slide.data.title,
+    description: slide.data.description,
+    author: slide.data.author,
+    transition: slide.data.transition,
+    theme: slide.data.theme,
+    pubDate: slide.data.pubDate,
+    tags: slide.data.tags,
+  }));
+
+const allTags = [
+  ...allPosts.flatMap((post) => post.tags || []),
+  ...allCards.flatMap((card) => card.tags || []),
+  ...allSlides.flatMap((slide) => slide.tags || []),
+];
+const uniqueTags = [...new Set(allTags)];
+
+const posts = allPosts.slice(0, 3);
+const cards = allCards.slice(0, 6);
+const slides = allSlides.slice(0, 6);
+
+// Get active doodle
+const now = new Date();
+const activeDoodleEntry = (await getCollection("doodles"))
+  .filter((doodle) => doodle.data.pubDate <= now && doodle.data.endDate >= now)
+  .sort((a, b) => {
+    return b.data.pubDate.valueOf() - a.data.pubDate.valueOf();
+  })[0];
+
+const activeDoodle = activeDoodleEntry
+  ? {
+      ...activeDoodleEntry.data,
+      href: `/doodles/${activeDoodleEntry.id}`,
+    }
+  : undefined;
+---
+
+<MainLayout
+  title={`Home | ${SITE_TITLE}`}
+  description={SITE_DESCRIPTION}
+  className="w-full p-0"
+>
+  <HeroSection uniqueTags={uniqueTags} doodle={activeDoodle} />
+
+  <div class="px-4 md:px-6">
+    <LatestSection
+      title="Articles"
+      accentColor="text-nebula"
+      description="Fresh insights and lessons from our recent explorations."
+      viewAllHref="/blogs"
+      viewAllText="View All Articles"
+      viewAllButtonWidth="165px"
+    >
+      {posts.map((blog) => <BlogCard blog={blog} />)}
+    </LatestSection>
+
+    <ProductSection />
+
+    <LatestSection
+      title="Cards"
+      accentColor="text-solar"
+      description="Check out our quick notes and summaries"
+      viewAllHref="/cards"
+      viewAllText="View All Cards"
+      viewAllButtonWidth="154px"
+    >
+      {
+        cards.map((card) => (
+          <a href={`/cards/${card.id}`}>
+            <CardCover title={card.title} template={card.template} />
+          </a>
+        ))
+      }
+    </LatestSection>
+
+    <ProductSection />
+
+    <LatestSection
+      title="Slides"
+      accentColor="text-cosmic"
+      description="Interactive presentations crafted for developers."
+      viewAllHref="/slides"
+      viewAllText="View All Slides"
+      viewAllButtonWidth="155px"
+    >
+      {
+        slides.map((slide) => (
+          <a href={`/slides/${slide.id}`}>
+            <SlideCard slide={slide} />
+          </a>
+        ))
+      }
+    </LatestSection>
+  </div>
+</MainLayout>

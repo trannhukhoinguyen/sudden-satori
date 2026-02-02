@@ -1,0 +1,32 @@
+---
+import creationsData from "@/assets/creations.json";
+import { ProductCard } from "@/components/ProductCard";
+import { SITE_DESCRIPTION, SITE_TITLE } from "@/consts";
+import MainLayout from "@/layouts/MainLayout.astro";
+import type { ProductCollection } from "@/types/product";
+
+const pageTitle = `Creations | ${SITE_TITLE}`;
+const collections = creationsData as ProductCollection[];
+---
+
+<MainLayout title={pageTitle} description={SITE_DESCRIPTION}>
+  <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+    <div class="space-y-12">
+      {
+        collections.map((collection) => (
+          <div>
+            <div class="mb-6">
+              <h2 class="mb-2 text-2xl font-bold text-white">{collection.collection}</h2>
+              <p class="text-slate-400">{collection.description}</p>
+            </div>
+            <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+              {collection.items.map((product) => (
+                <ProductCard product={product} />
+              ))}
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</MainLayout>

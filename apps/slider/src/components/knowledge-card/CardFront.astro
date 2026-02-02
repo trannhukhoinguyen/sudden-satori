@@ -1,0 +1,43 @@
+---
+import CardContainer from "./CardContainer.astro";
+import type { ArticleData, CardTheme } from "./types";
+export interface Props {
+  articleData: ArticleData;
+  url?: string;
+  cardStyles: React.CSSProperties;
+  cardTheme: CardTheme;
+  tags?: string[];
+}
+const { articleData, cardStyles = {}, cardTheme = {}, tags = [] } = Astro.props;
+---
+
+<div class="flip-card-front" id="frontCard">
+  <CardContainer
+    articleData={articleData}
+    cardStyles={cardStyles}
+    cardTheme={cardTheme}
+    tags={tags}
+  >
+    <div class="flex px-6">
+      <div class="flex-1 space-y-6">
+        <div class="card-description text-left">
+          {articleData.description} ✨
+        </div>
+        <div class="card-section-title text-left">Article Points:</div>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {
+            articleData.keyPoints &&
+              articleData.keyPoints.map((point: any, index: number) => (
+                <div class="flex items-start gap-3">
+                  <div class="card-number flex-shrink-0">{index + 1}</div>
+                  <div class="card-key-point pt-1 leading-relaxed min-w-0 text-left">
+                    {point}
+                  </div>
+                </div>
+              ))
+          }
+        </div>
+      </div>
+    </div>
+  </CardContainer>
+</div>

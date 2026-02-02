@@ -1,0 +1,204 @@
+---
+import { getImage } from "astro:assets";
+import { getCollection, getEntry } from "astro:content";
+import { posix } from "node:path";
+import sitemap from "sitemap-ext:config";
+import { ImageViewer } from "@/components/image-viewer";
+import ContentNavigation from "@/components/navigation/ContentNavigation.astro";
+import ShareButtons from "@/components/ShareButtons.astro";
+import { SlideViewer } from "@/components/slide/slide-viewer";
+import { SITE_TITLE } from "@/consts";
+import MainLayout from "@/layouts/MainLayout.astro";
+import { getAdjacentContent } from "@/lib/navigation";
+import { formatDate } from "@/lib/utils";
+
+// add all slides to sitemap
+sitemap(async ({ addToSitemap }) => {
+  const slides = await getCollection("slides");
+
+  addToSitemap(
+    slides.map((slide) => ({
+      slug: slide.id,
+    })),
+  );
+});
+
+const { slug } = Astro.params;
+if (slug === undefined) {
+  return new Response(null, {
+    status: 400,
+    statusText: "Bad Request: Slug is missing",
+  });
+}
+
+const slide = await getEntry("slides", slug);
+
+if (!slide) {
+  return Astro.redirect("/404");
+}
+
+// Get navigation data
+const allSlides = await getCollection("slides");
+const adjacentContent = getAdjacentContent(allSlides, slide.id);
+
+const ogImageUrl = new URL("/og-enhanced", Astro.url);
+const description = slide.data.description;
+if (description.length > 50) {
+  let truncated = description.substring(0, 50);
+  // If the last character is punctuation, remove it
+  const punctuationRegex = /[，。！？；：""''（）【】、]/;
+  if (punctuationRegex.test(truncated.slice(-1))) {
+    truncated = truncated.slice(0, -1);
+  }
+}
+ogImageUrl.searchParams.append("type", "slide");
+ogImageUrl.searchParams.append("id", slide.id);
+ogImageUrl.searchParams.append("th", slide.data.theme);
+const origin = Astro.url.origin;
+
+const slideImageModules = import.meta.glob(
+  "@/content/slides/**/*.{png,jpg,jpeg,webp}",
+  {
+    eager: true,
+    import: "default",
+  },
+);
+
+const filePath = slide.filePath; // e.g. src/content/slides/2025-09/my-slide.md
+const localImagePaths =
+  (slide.rendered?.metadata?.localImagePaths as Array<string>) ?? [];
+const imageMap = new Map<string, { webp: string; fallback: string }>();
+
+for (const rel of localImagePaths) {
+  if (!filePath) {
+    console.warn(`File path not available for slide: ${slide.id}`);
+    continue;
+  }
+  const absolute = posix.join(posix.dirname(filePath), rel);
+  const mod = slideImageModules[`/${absolute}`] as ImageMetadata;
+  if (!mod) {
+    console.warn(`Image not found: ${absolute}`);
+    continue;
+  }
+
+  const webp = await getImage({ src: mod, format: "webp" });
+  imageMap.set(rel, {
+    webp: webp.src,
+    fallback: mod.src,
+  });
+}
+
+const escapeRegExp = (value: string) =>
+  value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+let slideMarkdownWithResolvedImages = slide.body ?? "";
+
+if (imageMap.size > 0) {
+  const escapedKeys = [...imageMap.keys()].map(escapeRegExp).join("|");
+  const pattern = new RegExp(`(!\\[[^\\]]*]\\()(${escapedKeys})(\\))`, "g");
+
+  slideMarkdownWithResolvedImages = slideMarkdownWithResolvedImages.replace(
+    pattern,
+    (_, prefix, relPath, suffix) => {
+      const meta = imageMap.get(relPath);
+      return meta
+        ? `${prefix}${meta.webp}${suffix}`
+        : `${prefix}${relPath}${suffix}`;
+    },
+  );
+}
+
+const coverMD = `## ${slide.data.title}\n${slide.data.author}\n\n${formatDate(slide.data.pubDate)}`;
+---
+
+<MainLayout
+  title={`${slide.data.title} | ${SITE_TITLE}`}
+  description={slide.data.description}
+  type="article"
+  author={slide.data.author}
+  publishedTime={slide.data.pubDate.toISOString()}
+  section="Slides"
+  tags={slide.data.tags}
+  revealTheme={slide.data.theme}
+  keywords={slide.data.tags?.join(", ")}
+  image={ogImageUrl.toString()}
+>
+  <div class="slide-container">
+    <div class="slide-share">
+      <ShareButtons
+        url={`${origin}/slides/${slide.id}`}
+        title={slide.data.title}
+        description={slide.data.description}
+        isPopup={false}
+        variant="slide"
+      />
+    </div>
+    <SlideViewer
+      client:only="react"
+      content={`${coverMD}\n---\n${slideMarkdownWithResolvedImages}`}
+      theme={slide.data.theme}
+      transition={slide.data.transition}
+      controls={slide.data.controls}
+      progress={slide.data.progress}
+    />
+    <ImageViewer
+      selector=".slide-container .slides img"
+      observe=".slide-container"
+      client:load
+    />
+  </div>
+  <div class="container mx-auto p-4">
+    <ContentNavigation adjacentContent={adjacentContent} contentType="slides" />
+  </div>
+</MainLayout>
+
+<style>
+  .slide-container {
+    width: 95%;
+    height: 80vh;
+    min-height: 600px;
+    margin: 0 auto;
+    position: relative;
+    contain: layout style;
+    padding-top: 24px;
+  }
+
+  .slide-share {
+    position: absolute;
+    top: 2rem;
+    right: -4rem;
+    z-index: 20;
+    display: flex;
+  }
+
+  .slide-container :global(.reveal) {
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  .slide-container :global(img) {
+    margin: 0 auto;
+    display: block;
+  }
+
+  @media (max-width: 767px) {
+    .slide-container {
+      height: 70vh;
+      min-height: 480px;
+    }
+
+    .slide-share {
+      top: 0rem;
+      right: 1rem;
+      left: auto;
+      z-index: 20;
+      background: transparent;
+      padding: 0.25rem;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .slide-container :global(img) {
+      max-height: 400px;
+    }
+  }
+</style>

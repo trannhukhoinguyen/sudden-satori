@@ -1755,7 +1755,7 @@ vân môn khuông chân thiền sư quảng lục quyển đệ thập lục
 
 <hr class="blog-rule" />
 
-cổ tôn tú ngữ lục quyển đệ nhị thập lục
+cổ tôn tú ngữ lục quyển đệ nhị thập
 
 vân môn khuông chân thiền sư quảng lục trung
 môn nhân minh thức đại sư tứ tử thủ kiên tập

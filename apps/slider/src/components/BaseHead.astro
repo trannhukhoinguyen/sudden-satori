@@ -1,0 +1,240 @@
+---
+// Import the global.css file here so that it is included on
+// all pages through the use of the <BaseHead /> component.
+import { SITE_TITLE } from "../consts";
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  keywords?: string;
+  robots?: string;
+  author?: string;
+  type?: "website" | "article" | "product";
+  publishedTime?: string;
+  modifiedTime?: string;
+  section?: string;
+  tags?: string[];
+}
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+
+const {
+  title,
+  description,
+  image = "/og.webp",
+  keywords,
+  robots = "index, follow",
+  author,
+  type = "website",
+  publishedTime,
+  modifiedTime,
+  section,
+  tags = [],
+} = Astro.props;
+
+const absoluteImageUrl = image?.startsWith("http")
+  ? image
+  : new URL(image, Astro.url).toString();
+
+// Generate structured data
+const articleStructuredData =
+  type === "article"
+    ? {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        headline: title,
+        description: description,
+        image: absoluteImageUrl,
+        url: Astro.url.toString(),
+        datePublished: publishedTime,
+        dateModified: modifiedTime || publishedTime,
+        author: {
+          "@type": "Person",
+          name: author || SITE_TITLE,
+        },
+        publisher: {
+          "@type": "Organization",
+          name: SITE_TITLE,
+          logo: {
+            "@type": "ImageObject",
+            url: new URL("/logo.webp", Astro.site).toString(),
+          },
+        },
+        mainEntityOfPage: {
+          "@type": "WebPage",
+          "@id": Astro.url.toString(),
+        },
+        ...(section && { articleSection: section }),
+        ...(tags.length > 0 && { keywords: tags.join(", ") }),
+      }
+    : null;
+
+const websiteStructuredData =
+  type === "website"
+    ? {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        name: title,
+        description: description,
+        url: Astro.url.toString(),
+        potentialAction: {
+          "@type": "SearchAction",
+          target: {
+            "@type": "EntryPoint",
+            urlTemplate: new URL(
+              "/blogs?search={search_term_string}",
+              Astro.site,
+            ).toString(),
+          },
+          "query-input": "required name=search_term_string",
+        },
+      }
+    : null;
+
+const productStructuredData =
+  type === "product"
+    ? {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        name: title,
+        description: description,
+        image: absoluteImageUrl,
+        url: Astro.url.toString(),
+        brand: {
+          "@type": "Brand",
+          name: SITE_TITLE,
+        },
+        publisher: {
+          "@type": "Organization",
+          name: SITE_TITLE,
+          logo: {
+            "@type": "ImageObject",
+            url: new URL("/logo.webp", Astro.site).toString(),
+          },
+        },
+      }
+    : null;
+---
+
+<!-- Global Metadata -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="robots" content={robots} />
+<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+<link rel="sitemap" href="/sitemap-index.xml" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title={SITE_TITLE}
+  href={new URL("rss.xml", Astro.site)}
+/>
+<meta name="generator" content={Astro.generator} />
+{keywords && <meta name="keywords" content={keywords} />}
+{author && <meta name="author" content={author} />}
+
+<!-- Font preloads -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap"
+  rel="stylesheet"
+  media="print"
+/>
+<noscript>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap"
+    rel="stylesheet"
+  />
+</noscript>
+
+<!-- Resource hints -->
+<link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+<link rel="dns-prefetch" href="https://www.google-analytics.com" />
+<link href="/logo.webp" as="image" type="image/webp" />
+<link href="/og.webp" as="image" type="image/webp" />
+
+<!-- Canonical URL -->
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Primary Meta Tags -->
+<title>{title}</title>
+<meta name="title" content={title} />
+<meta name="description" content={description} />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content={type} />
+<meta property="og:url" content={Astro.url} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={absoluteImageUrl} />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content={title} />
+<meta property="og:image:type" content="image/png" />
+{
+  type === "article" && publishedTime && (
+    <meta property="article:published_time" content={publishedTime} />
+  )
+}
+{
+  type === "article" && modifiedTime && (
+    <meta property="article:modified_time" content={modifiedTime} />
+  )
+}
+{
+  type === "article" && author && (
+    <meta property="article:author" content={author} />
+  )
+}
+{
+  type === "article" && section && (
+    <meta property="article:section" content={section} />
+  )
+}
+{
+  type === "article" &&
+    tags.map((tag) => <meta property="article:tag" content={tag} />)
+}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content={Astro.url} />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={absoluteImageUrl} />
+<meta name="twitter:image:alt" content={title} />
+<meta name="twitter:image:width" content="1200" />
+<meta name="twitter:image:height" content="630" />
+
+<!-- Structured Data -->
+{
+  articleStructuredData && (
+    <script
+      type="application/ld+json"
+      is:inline
+      set:html={JSON.stringify(articleStructuredData)}
+    />
+  )
+}
+
+{
+  websiteStructuredData && (
+    <script
+      type="application/ld+json"
+      is:inline
+      set:html={JSON.stringify(websiteStructuredData)}
+    />
+  )
+}
+
+{
+  productStructuredData && (
+    <script
+      type="application/ld+json"
+      is:inline
+      set:html={JSON.stringify(productStructuredData)}
+    />
+  )
+}

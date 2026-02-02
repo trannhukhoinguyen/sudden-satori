@@ -1,0 +1,235 @@
+---
+import CardActions from "./CardActions.astro";
+import CardBack from "./CardBack.astro";
+import CardFront from "./CardFront.astro";
+import LinksModal from "./LinksModal.astro";
+import type { ArticleData, CardTheme, PakoContent } from "./types";
+
+export interface Props {
+  articleData: ArticleData;
+  url?: string;
+  cardStyles?: React.CSSProperties;
+  cardTheme?: CardTheme;
+  tags?: string[];
+  pakoContent?: PakoContent;
+  isFlipped?: boolean;
+  outputValue?: string;
+}
+
+const {
+  articleData,
+  url = "",
+  cardStyles = {},
+  cardTheme = { backgroundClass: "" },
+  tags = [],
+  pakoContent = null,
+  isFlipped = false,
+  outputValue = "",
+} = Astro.props;
+---
+
+<link rel="stylesheet" href="/src/styles/card.css" />
+
+<div class="text-center">
+  <div
+    id="flip-card-container"
+    class="perspective-[1000px] cursor-pointer bg-transparent w-full"
+  >
+    <div
+      class:list={[
+        "flip-card-inner",
+        "relative",
+        "w-full",
+        "text-center",
+        "transition-transform",
+        "duration-[800ms]",
+        "ease-[cubic-bezier(0.175,0.885,0.32,1.275)]",
+        "[transform-style:preserve-3d]",
+        isFlipped && "flipped",
+      ]}
+      id="flip-card-inner"
+      data-flipped={isFlipped ? "true" : "false"}
+    >
+      <CardFront
+        articleData={articleData}
+        url={url}
+        cardStyles={cardStyles}
+        cardTheme={cardTheme}
+        tags={tags}
+      />
+      <CardBack
+        articleData={articleData}
+        url={url}
+        cardStyles={cardStyles}
+        cardTheme={cardTheme}
+        tags={tags}
+        pakoContent={pakoContent}
+      />
+    </div>
+    <div id="card-actions">
+      <CardActions
+        isFlipped={isFlipped}
+        articleData={articleData}
+        outputValue={outputValue}
+        url={url}
+        pakoContent={pakoContent}
+      />
+    </div>
+    <div id="links-modal" style="display: none;">
+      <LinksModal
+        references={articleData?.references}
+        tools={articleData?.tools}
+      />
+    </div>
+  </div>
+
+  <script is:inline type="module">
+    // flip card
+    document.addEventListener("DOMContentLoaded", function () {
+      const flipCardInner = document.getElementById("flip-card-inner");
+      const flipCardContainer = document.getElementById("flip-card-container");
+      if (!flipCardInner || !flipCardContainer) return;
+      let isFlipped = flipCardInner.dataset.flipped === "true";
+      const flipCardFront = flipCardInner.querySelector(".flip-card-front");
+      const flipCardBack = flipCardInner.querySelector(".flip-card-back");
+      const heightAnimatedElements = [flipCardContainer, flipCardInner];
+      let heightTransitionCleanup = null;
+      flipCardInner.classList.toggle("flipped", isFlipped);
+
+      function clearHeightAnimation() {
+        if (heightTransitionCleanup) {
+          flipCardContainer.removeEventListener(
+            "transitionend",
+            heightTransitionCleanup
+          );
+          heightTransitionCleanup = null;
+        }
+        heightAnimatedElements.forEach((el) => {
+          el.classList.remove("card-height-anim");
+          el.style.removeProperty("height");
+        });
+      }
+
+      function getActiveCard() {
+        return isFlipped ? flipCardBack : flipCardFront;
+      }
+
+      function measureActiveHeight() {
+        const activeCard = getActiveCard();
+        if (!(activeCard instanceof HTMLElement)) return null;
+        const rectHeight = activeCard.getBoundingClientRect().height;
+        const scrollHeight = activeCard.scrollHeight;
+        const height = Math.max(rectHeight, scrollHeight);
+        return Number.isFinite(height) && height > 0 ? Math.ceil(height) : null;
+      }
+
+      function prepareHeightAnimation() {
+        clearHeightAnimation();
+        const currentHeight = flipCardContainer.offsetHeight;
+        if (!currentHeight) return null;
+        heightAnimatedElements.forEach((el) => {
+          el.style.height = `${currentHeight}px`;
+        });
+        return currentHeight;
+      }
+
+      function animateToActiveHeight(startHeight) {
+        const targetHeight = measureActiveHeight();
+        if (!targetHeight) {
+          clearHeightAnimation();
+          return;
+        }
+
+        const resolvedStartHeight =
+          typeof startHeight === "number"
+            ? startHeight
+            : flipCardContainer.offsetHeight;
+
+        if (
+          !resolvedStartHeight ||
+          Math.abs(targetHeight - resolvedStartHeight) < 1
+        ) {
+          clearHeightAnimation();
+          return;
+        }
+
+        heightAnimatedElements.forEach((el) => {
+          el.classList.add("card-height-anim");
+        });
+
+        requestAnimationFrame(() => {
+          heightAnimatedElements.forEach((el) => {
+            el.style.height = `${targetHeight}px`;
+          });
+        });
+
+        const handleTransitionEnd = (event) => {
+          if (event.propertyName !== "height") return;
+          clearHeightAnimation();
+        };
+
+        heightTransitionCleanup = handleTransitionEnd;
+        flipCardContainer.addEventListener(
+          "transitionend",
+          handleTransitionEnd
+        );
+      }
+
+      function syncFlippedState({ animate = false, startHeight = null } = {}) {
+        flipCardInner.setAttribute(
+          "data-flipped",
+          isFlipped ? "true" : "false"
+        );
+        window.dispatchEvent(
+          new CustomEvent("card-flip", { detail: isFlipped })
+        );
+        if (animate) {
+          requestAnimationFrame(() => animateToActiveHeight(startHeight));
+        } else {
+          clearHeightAnimation();
+        }
+      }
+
+      flipCardInner.addEventListener("click", function (e) {
+        e.stopPropagation();
+        const startHeight = prepareHeightAnimation();
+        isFlipped = !isFlipped;
+        flipCardInner.classList.toggle("flipped", isFlipped);
+        syncFlippedState({ animate: true, startHeight });
+      });
+
+      flipCardContainer.addEventListener("click", function (e) {
+        e.stopPropagation();
+      });
+
+      // add key support
+      document.addEventListener("keydown", function (e) {
+        if (e.code === "Space" || e.code === "Enter") {
+          e.preventDefault();
+          const startHeight = prepareHeightAnimation();
+          isFlipped = !isFlipped;
+          flipCardInner.classList.toggle("flipped", isFlipped);
+          syncFlippedState({ animate: true, startHeight });
+        }
+      });
+
+      // control links modal
+      const linksModalEl = document.getElementById("links-modal");
+      document
+        .getElementById("card-actions")
+        ?.addEventListener("show-links-modal", function () {
+          if (linksModalEl) {
+            linksModalEl.style.display = "block";
+          }
+        });
+      linksModalEl?.addEventListener("close-links-modal", function () {
+        linksModalEl.style.display = "none";
+      });
+      syncFlippedState();
+
+      document.addEventListener("astro:beforeunload", () => {
+        clearHeightAnimation();
+      });
+    });
+  </script>
+</div>

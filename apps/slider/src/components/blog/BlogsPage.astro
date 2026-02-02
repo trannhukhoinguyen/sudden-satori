@@ -1,0 +1,25 @@
+---
+import TagFilter from "../TagFilter.astro";
+import BlogCard, { type Blog } from "./BlogCard.astro";
+
+interface Tag {
+  tag: string;
+  count?: number;
+  size: number;
+}
+
+interface Props {
+  blogs: Blog[];
+  allTags: Tag[];
+  tag?: string | null;
+}
+
+const { blogs, allTags, tag } = Astro.props;
+---
+
+<div>
+  <TagFilter tags={allTags} currentTag={tag} type="blogs" />
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-4">
+    {blogs.map((blog) => <BlogCard blog={blog} />)}
+  </div>
+</div>

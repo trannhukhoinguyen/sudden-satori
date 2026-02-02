@@ -1,0 +1,98 @@
+---
+export interface Tag {
+  tag: string;
+  count?: number;
+  size: number;
+}
+
+interface Props {
+  tags: Tag[];
+  currentTag?: string | null;
+  type?: "blogs" | "cards" | "slides";
+  usedFor?: "list" | "detail";
+}
+
+const {
+  tags: allTags,
+  currentTag: tag,
+  type = "blogs",
+  usedFor = "list",
+} = Astro.props;
+
+const selectedTags = tag ? [tag] : [];
+---
+
+<div class="flex flex-wrap gap-2 w-fit" data-tag-filter>
+  {
+    usedFor === "list" && (
+      <a
+        href={`/${type}`}
+        class={`inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-8 !px-3 ${
+          selectedTags.length === 0
+            ? "text-primary border border-primary hover:text-primary hover:border-primary"
+            : "border border-slate-400 text-slate-400 hover:!text-primary hover:!border-primary"
+        }`}
+      >
+        All
+      </a>
+    )
+  }
+  {
+    allTags.map((tagItem) => (
+      <a
+        href={`/${type}?tag=${tagItem.tag}`}
+        class={`inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-8 !px-3 !no-underline ${
+          selectedTags.includes(tagItem.tag)
+            ? "text-primary border border-primary hover:text-primary hover:border-primary bg-black"
+            : "border border-slate-400 text-slate-400 hover:!text-primary hover:!border-primary bg-black"
+        }`}
+      >
+        {tagItem.tag}
+        {tagItem.count && `(${tagItem.count})`}
+      </a>
+    ))
+  }
+</div>
+
+<script>
+  // Mobile expand/collapse functionality
+  document.addEventListener("DOMContentLoaded", () => {
+    const tagContainer = document.querySelector("[data-tag-filter]");
+    if (!tagContainer) return;
+
+    tagContainer.addEventListener("click", (evt) => {
+      evt.stopPropagation();
+    });
+
+    const allTags = tagContainer.querySelectorAll('a[href*="tag="]');
+    const isMobile = window.innerWidth < 768;
+
+    if (isMobile && allTags.length > 8) {
+      // Hide tags beyond first 8
+      allTags.forEach((tag, index) => {
+        if (index >= 8) {
+          (tag as HTMLElement).style.display = "none";
+        }
+      });
+
+      // Add expand button
+      const expandBtn = document.createElement("button");
+      expandBtn.className =
+        "inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 h-8 !px-3 border border-slate-400 text-slate-400 hover:text-primary hover:border-primary";
+      expandBtn.textContent = "Expand More";
+      expandBtn.onclick = () => {
+        const isExpanded = expandBtn.textContent === "Collapse";
+        allTags.forEach((tag, index) => {
+          if (index >= 8) {
+            (tag as HTMLElement).style.display = isExpanded
+              ? "none"
+              : "inline-flex";
+          }
+        });
+        expandBtn.textContent = isExpanded ? "Expand More" : "Collapse";
+      };
+
+      tagContainer.appendChild(expandBtn);
+    }
+  });
+</script>

@@ -1,0 +1,42 @@
+---
+import { formatDate } from "@/lib/utils";
+import { SlideViewer } from "./slide-viewer";
+
+export interface Slide {
+  id: string;
+  title: string;
+  author?: string;
+  description?: string;
+  tags?: string[];
+  pubDate: Date;
+  theme: string;
+  transition: string;
+}
+
+interface Props {
+  slide: Slide;
+}
+
+const { slide } = Astro.props;
+
+const slideContent = `
+## ${slide.title}${slide.author ? `\n\n*${slide.author}*` : ""}\n\n${formatDate(slide.pubDate)}`;
+---
+
+<div
+  class="group hover:shadow-lg transition-all duration-300 cursor-pointer w-full flex flex-col rounded-2xl border bg-card text-card-foreground shadow"
+>
+  <div
+    class="w-full h-48 p-0 relative rounded-2xl overflow-hidden slide-preview"
+  >
+    <SlideViewer
+      content={slideContent}
+      theme={slide.theme}
+      transition={slide.transition}
+      controls={false}
+      progress={false}
+      preview={true}
+      client:load
+    />
+  </div>
+</div>

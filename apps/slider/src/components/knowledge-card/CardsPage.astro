@@ -1,0 +1,30 @@
+---
+import TagFilter from "../TagFilter.astro";
+import CardCover from "./CardCover.astro";
+import type { CardsPageProps } from "./types";
+
+const { cards, tags, tag } = Astro.props as CardsPageProps;
+---
+
+<div>
+  <TagFilter tags={tags} currentTag={tag} type="cards" />
+  <div
+    class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mt-4"
+  >
+    {
+      cards.map((card) => (
+        <a href={`/cards/${card.id}`}>
+          <CardCover title={card.title} template={card.template} />
+        </a>
+      ))
+    }
+  </div>
+
+  {
+    cards.length === 0 && (
+      <div class="text-center py-12">
+        <div class="text-gray-500 text-lg">No cards found</div>
+      </div>
+    )
+  }
+</div>

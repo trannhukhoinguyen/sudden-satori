@@ -1,0 +1,39 @@
+---
+import TagFilter from "../TagFilter.astro";
+import SlideCard, { type Slide } from "./SlideCard.astro";
+
+interface Tag {
+  tag: string;
+  count?: number;
+  size: number;
+}
+
+interface Props {
+  slides: Slide[];
+  tags: Tag[];
+  tag: string;
+}
+
+const { slides, tags, tag } = Astro.props;
+---
+
+<div>
+  <TagFilter tags={tags} currentTag={tag} type="slides" />
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-4">
+    {
+      slides.map((slide) => (
+        <a href={`/slides/${slide.id}`}>
+          <SlideCard slide={slide} />
+        </a>
+      ))
+    }
+  </div>
+
+  {
+    slides.length === 0 && (
+      <div class="text-center py-12">
+        <div class="text-gray-500 text-lg">No slides found</div>
+      </div>
+    )
+  }
+</div>
