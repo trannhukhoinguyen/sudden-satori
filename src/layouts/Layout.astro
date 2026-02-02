@@ -27,6 +27,7 @@ import HuaTouModalWithAudios from "../components/ui/HuaTouModalWithAudios.astro"
 
 import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../config';
 import ScrollToBottom from "../components/ui/ScrollToBottom.astro";
+import SmoothScroll from "../../apps/mirror-cleaning/src/components/SmoothScroll.astro";
 export interface Props {
   title: string;
   meta_title?: string;
@@ -195,6 +196,8 @@ const schema = {
     />
   </head>
   <body>
+    <a href="#main" class="skip-link">{t("accessibility.skip-to-content")}</a>
+
     <div id="top"></div>
 
     <div class="site-wrapper">
@@ -221,6 +224,8 @@ const schema = {
       </div>
 
     <div id="bottom"></div>
+
+    <SmoothScroll />
   </body>
 </html>
 
@@ -267,6 +272,25 @@ const schema = {
       order: 2;
       padding-top: calc(var(--grid-unit) * 1);
     }
+  }
+
+
+    .skip-link {
+    background: var(--color-brand-1);
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: min-content;
+      white-space: nowrap;
+    padding: 0.5rem;
+    position: absolute;
+    transform: translateY(-100%);
+    transition: transform 0.3s ease;
+      z-index: 100;
+  }
+
+    .skip-link:focus {
+    transform: translateY(0%);
   }
 </style>
 

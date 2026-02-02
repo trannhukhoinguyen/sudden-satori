@@ -1,0 +1,153 @@
+---
+import type { Link } from "../types";
+import Button from "./Button.astro";
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  cta?: Link;
+}
+
+const { title, subtitle, cta } = Astro.props;
+---
+
+<div class="sy-hero-home">
+  <div class="bg"></div>
+  <div class="u-container container">
+    <div class="inner">
+      <div class="content">
+        <h1 class="u-heading title" data-sy-reveal="words">{title}</h1>
+        {
+          subtitle ? (
+            <p class="u-text subtitle" data-sy-reveal="lines">
+              {subtitle}
+            </p>
+          ) : null
+        }
+        {cta ? <Button {...cta} arrow class="cta" /> : null}
+      </div>
+      <div data-gl-place></div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .sy-hero-home {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .bg {
+    &:before,
+    &:after {
+      content: "";
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    &:before {
+      background: linear-gradient(
+        40deg,
+        var(--color-bg) 0%,
+        2.76008%,
+        rgb(255, 237, 220) 5.52017%,
+        9.87983%,
+        rgb(252, 221, 187) 14.2395%,
+        17.7994%,
+        rgb(248, 190, 160) 21.3592%,
+        24.4337%,
+        rgb(240, 168, 150) 27.5081%,
+        30.2589%,
+        rgb(231, 150, 151) 33.0097%,
+        35.5987%,
+        rgb(222, 136, 162) 38.1877%,
+        40.7767%,
+        rgb(211, 132, 177) 43.3657%,
+        46.6019%,
+        rgb(200, 136, 198) 49.8382%,
+        53.3981%,
+        rgb(198, 155, 219) 56.9579%,
+        60.356%,
+        rgb(203, 181, 234) 63.754%,
+        67.475%,
+        rgb(213, 201, 242) 71.196%,
+        75.0531%,
+        rgb(224, 220, 248) 78.9101%,
+        83.5457%,
+        rgb(242, 241, 255) 88.1812%,
+        94.0906%,
+        var(--color-bg) 100%
+      );
+      background-position: center;
+      mask: linear-gradient(0deg, rgba(0, 0, 0, 0) 1%, rgba(0, 0, 0, 1) 100%);
+    }
+
+    &:after {
+      backdrop-filter: blur(5px);
+    }
+  }
+
+  .inner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 9rem 0 10rem;
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+
+    @media (--mq-tablet) {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+
+  .title {
+    --fs: 4.5rem;
+    --lh: 1;
+    max-width: 5.7em;
+
+    @media (--mq-phone) {
+      --fs: 3.5rem;
+    }
+  }
+
+  .subtitle {
+    --fs: var(--font-size-lg);
+    max-width: 25em;
+    margin-top: 1.5rem;
+  }
+
+  .cta {
+    margin-top: 2rem;
+  }
+
+  [data-gl-place] {
+    --d: 1;
+    --s: 24rem;
+    margin-top: -2rem;
+
+    @media (--mq-desktop-lg) {
+      --s: 22rem;
+    }
+
+    @media (--mq-tablet) {
+      margin: 0;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      margin: 0 auto;
+      right: 0;
+      width: 20rem;
+      transform: translateY(-60%);
+    }
+
+    @media (--mq-tablet-sm) {
+      --s: 20rem;
+    }
+  }
+</style>
