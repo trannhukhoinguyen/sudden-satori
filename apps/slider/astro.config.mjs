@@ -6,7 +6,6 @@ import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 import rehypeSanitize, { defaultSchema } from "rehype-sanitize";
 import { analyzer } from "vite-bundle-analyzer";
-import { env } from "./src/env";
 
 export default defineConfig({
   site: 'https://tosuthien.org',

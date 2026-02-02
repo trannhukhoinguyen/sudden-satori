@@ -28,6 +28,8 @@
     ]
   },
   "dependencies": {
+    "@tosuthien/ui": "workspace:*",
+
     "@astrojs/react": "^4.4.2",
     "astro": "^5.16.9",
     "clsx": "^2.1.1",

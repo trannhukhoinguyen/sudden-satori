@@ -24,6 +24,8 @@
     "format": "biome format --write",
     "prepare": "husky"
   },
+  "@tosuthien/ui": "workspace:*",
+
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "^4.3.6",
