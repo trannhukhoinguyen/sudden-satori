@@ -4,6 +4,7 @@ import { config } from '../config';
 import Faqs from "../../apps/mirror-cleaning/src/components/Faqs.astro";
 import TextMarquee from "../../apps/mirror-cleaning/src/components/TextMarquee.astro";
 import StepsTimeline from "../../apps/mirror-cleaning/src/components/StepsTimeline.astro";
+import StepsTimelineImage from "../../apps/mirror-cleaning/src/components/StepsTimelineImage.astro";
 import Plans from "../../apps/mirror-cleaning/src/components/Plans.astro";
 import GLPlaces from "../../apps/mirror-cleaning/src/components/GlPlaces.astro";
 import GalleryText from "../../apps/mirror-cleaning/src/components/GalleryText.astro";
@@ -22,7 +23,18 @@ import logo6 from "../assets/logoipsum-378.svg";
 import logo7 from "../assets/logoipsum-346.svg";
 import logo8 from "../assets/logoipsum-331.svg";
 
-const { title, description, author, social } = config;
+import buffaloPainting1 from "../assets/images/10-buffalo-paintings/buffalo-painting-1.png";
+import buffaloPainting2 from "../assets/images/10-buffalo-paintings/buffalo-painting-2.png";
+import buffaloPainting3 from "../assets/images/10-buffalo-paintings/buffalo-painting-3.png";
+import buffaloPainting4 from "../assets/images/10-buffalo-paintings/buffalo-painting-4.png";
+import buffaloPainting5 from "../assets/images/10-buffalo-paintings/buffalo-painting-5.png";
+import buffaloPainting6 from "../assets/images/10-buffalo-paintings/buffalo-painting-6.png";
+import buffaloPainting7 from "../assets/images/10-buffalo-paintings/buffalo-painting-7.png";
+import buffaloPainting8 from "../assets/images/10-buffalo-paintings/buffalo-painting-8.png";
+import buffaloPainting9 from "../assets/images/10-buffalo-paintings/buffalo-painting-9.png";
+import buffaloPainting10 from "../assets/images/10-buffalo-paintings/buffalo-painting-10.png";
+
+const { title, description } = config;
 ---
 
 <Layout title={title} description={description}>
@@ -48,19 +60,78 @@ const { title, description, author, social } = config;
       title="How it works"
       items={[
         {
+          time: "500",
           title: "Set up in minutes",
           text: "Create your workspace, invite your team, and configure projects effortlessly—no complex onboarding or technical setup required.",
         },
         {
+          time: "500",
           title: "Collaborate without friction",
           text: "Centralize communication, assets, and tasks in one place so everyone stays aligned and productive.",
         },
         {
+          time: "500",
           title: "Deliver measurable results",
           text: "Track progress in real time, optimize workflows, and ship projects faster with complete visibility.",
         },
       ]}
   />
+
+    <StepsTimelineImage
+            title="Image"
+            items={[
+                {
+                    title: "Tìm trâu",
+                    text: "1",
+                    image: buffaloPainting1,
+                },
+                {
+                    title: "Thấy dấu",
+                    text: "2",
+                    image: buffaloPainting2,
+                },
+                {
+                    title: "Thấy trâu",
+                    text: "3",
+                    image: buffaloPainting3,
+                },
+                {
+                    title: "Bắt trâu",
+                    text: "4",
+                    image: buffaloPainting4,
+                },
+                {
+                    title: "Chăn trâu",
+                    text: "5",
+                    image: buffaloPainting5,
+                },
+                {
+                    title: "Cưỡi trâu về nhà",
+                    text: "6",
+                    image: buffaloPainting6,
+                },
+                {
+                    title: "Quên trâu còn người",
+                    text: "7",
+                    image: buffaloPainting7,
+                },
+                {
+                    title: "Người, trâu đều quên",
+                    text: "8",
+                    image: buffaloPainting8,
+                },
+                {
+                    title: "Trở về nguồn cội",
+                    text: "9",
+                    image: buffaloPainting9,
+                },
+                {
+                    title: "Thõng tay vào chợ",
+                    text: "10",
+                    image: buffaloPainting10,
+                },
+            ]}
+    />
 
   <GalleryText
       title="Designed for teams that value clarity and speed"
