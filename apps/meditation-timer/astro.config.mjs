@@ -3,6 +3,9 @@ import react from '@astrojs/react';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
+  site: 'https://tosuthien.org',
+  base: '/meditation-timer',
+
   integrations: [react()],
   vite: { plugins: [tailwindcss()] },
   server: {

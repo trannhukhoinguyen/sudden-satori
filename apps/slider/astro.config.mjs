@@ -11,6 +11,7 @@ import { env } from "./src/env";
 export default defineConfig({
   site: 'https://tosuthien.org',
   base: '/slider',
+
   server: {
     // This will allow all hosts to be used in development. Not only localhost.
     allowedHosts: true,
