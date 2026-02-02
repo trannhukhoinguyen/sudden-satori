@@ -129,7 +129,7 @@ const { logoUrl, logoAlt, links } = Astro.props;
 </style>
 
 <script>
-  import { addResizeObserver } from "../utils/observers";
+  import { addResizeObserver } from "../../../utils/observers.ts";
 
   class Footer extends HTMLElement {
     connectedCallback() {
