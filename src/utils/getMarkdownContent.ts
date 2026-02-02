@@ -18,7 +18,7 @@ const globMap = {
 
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}', { eager: true }),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}', { eager: true }),
-  ancientSpeeches: import.meta.glob('../content/ancientSpeeches/**/*.{md,mdx}', { eager: true }),
+  ancientSpeeches: import.meta.glob('../content/ancient-speeches/**/*.{md,mdx}', { eager: true }),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}', { eager: true }),
 };
 const globMapLazy = {
@@ -38,6 +38,7 @@ const globMapLazy = {
 
   masters: import.meta.glob('../content/masters/**/*.{md,mdx}'),
   speeches: import.meta.glob('../content/speeches/**/*.{md,mdx}'),
+  ancientSpeeches: import.meta.glob('../content/ancient-speeches/**/*.{md,mdx}'),
   faqs: import.meta.glob('../content/faqs/**/*.{md,mdx}'),
 };
 
@@ -56,6 +57,7 @@ const collections = {
 
   masters: "masters",
   speeches: "speeches",
+  ancientSpeeches: "ancient-speeches",
   faqs: "faqs",
 
   sutras: "sutras",
