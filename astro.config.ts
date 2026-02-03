@@ -4,7 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import AutoImport from "astro-auto-import";
 import vercel from "@astrojs/vercel";   // 🔥 Thêm adapter
-import starcard from "@/utils/qr/starcard.js";
+import starcard from "./src/utils/qr/starcard.js";
 
 // https://astro.build/config
 export default defineConfig({
