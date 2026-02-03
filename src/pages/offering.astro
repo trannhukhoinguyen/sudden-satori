@@ -1,8 +1,31 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Info from "../components/qr/Info.astro";
+import LegalSection from "../components/qr/LegalSection.astro";
+import type {LegalField} from "../components/qr/LegalSection.astro";
+import TouchLink from "../components/qr/TouchLink.astro";
+import Iconify from "../components/qr/Iconify.astro";
+import Field from "../components/qr/Field.astro";
+import Section from "../components/qr/Section.astro";
+import {toIconifyNameSimpleIcons} from "../utils/qr/iconify";
+import {site} from "virtual:starcard/config";
 
 const title = 'Offering';
 const description = 'Cúng dường';
+
+const profile = site.profile;
+const vCardProfile = {
+  firstName: profile.firstName,
+  middleName: profile.middleName,
+  lastName: profile.lastName,
+  title: profile.title,
+  company: profile.company,
+  companyUrl: profile.companyUrl,
+  email: profile.email,
+  phone: profile.phone,
+  homePage: profile.homePage,
+  location: profile.location,
+};
 ---
 
 <Layout title={title} description={description}>
@@ -13,7 +36,60 @@ const description = 'Cúng dường';
     </header>
 
     <div class="content-section">
+      <Info
+          phone={profile.phone}
+          email={profile.email}
+          homePage={profile.homePage}
+          location={profile.location}
+          profile={vCardProfile}
+          vcard={profile.vcard}
+      />
+      {
+        profile.sections
+            ?.slice()
+            .sort((a, b) => (a.order ?? 0) - (b.order ?? 0))
+            .map((section) => {
+              const sectionIconifyName = toIconifyNameSimpleIcons(section.icon);
 
+              return (
+                  <Section title={section.title}>
+                    {sectionIconifyName && (
+                        <Iconify
+                            slot="icon"
+                            name={sectionIconifyName}
+                            title={section.title}
+                        />
+                    )}
+                    <div class="flex flex-col flex-nowrap gap-4">
+                      {section.items
+                          ?.slice()
+                          .sort((a, b) => (a.order ?? 0) - (b.order ?? 0))
+                          .map((item) => {
+                            const iconifyName = toIconifyNameSimpleIcons(item.icon);
+                            return (
+                                <Field>
+                                  {item.url && <TouchLink href={item.url} />}
+                                  {iconifyName && (
+                                      <span slot="icon">
+													<Iconify name={iconifyName} title={item.url ?? ""} />
+												</span>
+                                  )}
+                                </Field>
+                            );
+                          })}
+                    </div>
+                  </Section>
+              );
+            })
+      }
+      {
+          profile.legal && (
+              <LegalSection
+                  title={profile.legal.title}
+                  records={profile.legal.items as LegalField[]}
+              />
+          )
+      }
 
     </div>
   </div>

@@ -1,0 +1,19 @@
+---
+export interface Props {
+	title?: string | null | undefined;
+	value?: string | null | undefined;
+}
+
+const { title, value } = Astro.props;
+---
+
+<div class="flex flex-row flex-nowrap justify-start items-start gap-6 text-lg">
+	<div
+		class="w-32 flex-shrink-0 font-medium text-font-secondary overflow-hidden text-ellipsis whitespace-nowrap"
+	>
+		{title || ""}
+	</div>
+	<div class="flex-1 font-extralight text-font-primary break-words">
+		{value || ""}
+	</div>
+</div>

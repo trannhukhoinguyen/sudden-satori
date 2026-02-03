@@ -1,0 +1,31 @@
+---
+import Separator from "./Seperator.astro";
+
+export interface Props {
+	title?: string;
+	seperator?: boolean;
+}
+
+const { title, seperator = true } = Astro.props as Props;
+---
+
+<section
+	class="flex-1 flex flex-row flex-nowrap justify-center content-stretch items-center"
+>
+	<div
+		class="relative lg:px-[clamp(10%,10vw,50%)] flex-1 flex flex-col flex-wrap justify-start content-center items-center gap-12"
+	>
+		{seperator && <Separator />}
+		{
+			title && (
+				<div class="w-full lg:w-[80%] text-2xl md:text-4xl  flex flex-row flex-nowrap justify-start content-center items-center gap-8">
+					<div class="size-6 md:size-8 text-font-secondary pt-1 opacity-50">
+						<slot name="icon" />
+					</div>
+					<h2 class="font-normal">{title}</h2>
+				</div>
+			)
+		}
+		<div class="w-full lg:w-[80%]"><slot /></div>
+	</div>
+</section>

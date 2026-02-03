@@ -1,0 +1,155 @@
+---
+import CompanyIcon from "./icons/Company.astro";
+
+export interface Props {
+	name?: string;
+	title?: string;
+	company?: string;
+	companyUrl?: string;
+	avatarUrl?: string;
+	avatarRounded?: "none" | "sm" | "md" | "lg" | "xl" | "full";
+}
+
+const {
+	name,
+	title,
+	company,
+	companyUrl,
+	avatarUrl,
+	avatarRounded = "xl",
+} = Astro.props as Props;
+
+const avatarRoundedSize = {
+	none: "0",
+	sm: "1rem",
+	md: "2rem",
+	lg: "3rem",
+	xl: "5rem",
+	full: "99999rem",
+};
+
+const roundedSize = avatarRoundedSize[avatarRounded];
+---
+
+<section
+	class="flex-1 flex flex-row flex-nowrap justify-center content-stretch items-center"
+>
+	<div
+		class="persona__body lg:px-[clamp(10%,15vw,50%)] flex-1 flex flex-row flex-nowrap justify-start content-center items-start gap-12"
+	>
+		<div class="flex items-center justify-end">
+			{
+				avatarUrl && (
+					<div class="inline-flex items-center justify-center rounded-full overflow-hidden [background:linear-gradient(134deg,var(--avatar-circle-color-primary),var(--avatar-circle-color-secondary))]">
+						<img
+							src={avatarUrl}
+							alt={name}
+							loading="eager"
+							decoding="async"
+							fetchpriority="high"
+							class={`size-[max(16vh,25cqw)] max-h-[300px] max-w-[300px] min-h-[250px] min-w-[250px] rounded-[${roundedSize}] aspect-square object-cover`}
+						/>
+					</div>
+				)
+			}
+		</div>
+		<div class="persona__text">
+			<div>
+				{
+					name && (
+						<h1 class="persona__name mt-4 leading-[1.2] font-medium lg:font-bold tracking-tight text-font-primary">
+							{name}
+						</h1>
+					)
+				}
+				{
+					title && (
+						<p class="persona__title mt-4 leading-[1.2] font-light text-font-secondary">
+							{title}
+						</p>
+					)
+				}
+				{
+					company && !companyUrl && (
+						<h2 class="persona__company flex flex-row flex-nowrap items-center mt-12 leading-[1.2] font-light text-font-primary">
+							<CompanyIcon class="size-10 mr-4 text-font-secondary opacity-50" />
+							{company}
+						</h2>
+					)
+				}
+				{
+					company && companyUrl && (
+						<a
+							href={companyUrl}
+							target="_blank"
+							class="persona__company flex flex-row flex-nowrap items-center mt-12 leading-[1.2] font-light text-font-primary"
+						>
+							<CompanyIcon class="size-10 mr-4 text-font-secondary opacity-65" />{" "}
+							{company}
+						</a>
+					)
+				}
+			</div>
+		</div>
+	</div>
+
+	<style>
+		.persona__name {
+			word-spacing: 1rem;
+		}
+
+		@media (aspect-ratio > 1/1) {
+			.persona__body {
+				flex-direction: row;
+				justify-content: center;
+				align-items: center;
+				gap: 5rem;
+				padding-top: 2rem;
+				padding-bottom: 2rem;
+				box-sizing: border-box;
+			}
+			.persona__name {
+				font-size: clamp(1.75rem, 8cqw, 3rem);
+			}
+			.persona__title {
+				font-size: clamp(1rem, 2cqw, 2rem);
+			}
+
+			.persona__company {
+				font-size: clamp(1.5rem, 4cqw, 2.1rem);
+				justify-content: start;
+			}
+
+			.persona__text {
+				text-align: left;
+				justify-content: center;
+			}
+		}
+
+		@media (aspect-ratio <= 1/1) {
+			.persona__body {
+				flex-direction: column;
+				justify-content: center;
+				align-content: stretch;
+				align-items: center;
+				gap: 2rem;
+				padding: clamp(1.25rem, 2.5cqw, 1.75rem);
+			}
+
+			.persona__text {
+				text-align: center;
+			}
+
+			.persona__name {
+				font-size: clamp(2rem, 6cqw, 2.5rem);
+			}
+			.persona__title {
+				font-size: clamp(1.25rem, 2.5cqw, 1.75rem);
+			}
+			.persona__company {
+				font-size: clamp(1.5rem, 4cqw, 2.1rem);
+				justify-content: center;
+			}
+		}
+	</style>
+</section>

@@ -4,6 +4,7 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import AutoImport from "astro-auto-import";
 import vercel from "@astrojs/vercel";   // 🔥 Thêm adapter
+import starcard from "@/utils/qr/starcard.js";
 
 // https://astro.build/config
 export default defineConfig({
@@ -37,6 +38,72 @@ export default defineConfig({
 
     // Always integrate mdx() in the last position
     mdx(),
+
+    starcard({
+      meta: {
+        title: "Offering",
+        description: "Short bio or tagline",
+        keywords: ["astro-template", "profile", "vcard", "portfolio"],
+        favicon: "/favicon.svg",
+      },
+      profile: {
+        displayName: "Your Name",
+        firstName: "Your",
+        middleName: "",
+        lastName: "Name",
+        title: "Full‑stack Developer",
+        company: "Your Company",
+        companyUrl: "https://company.example",
+        avatarUrl: "https://github.com/your-avatar.png",
+        avatarRounded: "full",
+        email: "you@example.com",
+        phone: "+123456789",
+        homePage: "https://example.com",
+        location: "City, Country",
+        vcard: true,
+        sections: [
+          {
+            order: 1,
+            id: "socials",
+            title: "Socials",
+            icon: "chatbot",
+            items: [
+              {
+                id: "github",
+                icon: "github",
+                url: "https://github.com/you",
+              },
+            ],
+          },
+          {
+            order: 1,
+            id: "presence",
+            title: "Presence",
+            icon: "chromewebstore",
+            items: [
+              {
+                id: "youtube",
+                icon: "youtube",
+                url: "https://www.youtube.com/@your-channel",
+              },
+            ],
+          },
+          {
+            order: 3,
+            id: "support",
+            title: "Support",
+            icon: "buymeacoffee",
+            items: [
+              {
+                id: "buymeacoffee",
+                icon: "buymeacoffee",
+                url: "https://buymeacoffee.com/you",
+              },
+            ],
+          },
+        ],
+      },
+    }),
   ],
 
   markdown: {

@@ -1,0 +1,145 @@
+---
+import Section from "@/components/Section.astro";
+import LinkDialog from "@/components/LinkDialog.astro";
+import Field from "@/components/Field.astro";
+import PhoneIcon from "@/components/icons/Phone.astro";
+import EmailIcon from "@/components/icons/Email.astro";
+import WebsiteIcon from "@/components/icons/Web.astro";
+import LocationIcon from "@/components/icons/Location.astro";
+import VcardIcon from "@/components/icons/Vcard.astro";
+import { formatPhoneIntl } from "@/utils/qr/phone";
+import { buildVCard, type Profile } from "@/utils/qr/vcard";
+
+export interface Props {
+	phone?: string;
+	email?: string;
+	homePage?: string;
+	location?: string;
+	vcard?: boolean;
+	profile?: Profile;
+}
+
+const { phone, email, homePage, location, profile, vcard } =
+	Astro.props as Props;
+const vcardString = profile ? buildVCard(profile, "3.0") : null;
+const phoneIntl = phone ? (formatPhoneIntl(phone) ?? phone) : null;
+---
+
+<Section seperator={false}>
+	<div
+		class="w-full flex flex-row flex-wrap justify-start content-center items-start gap-12"
+	>
+		<div class="flex-1 flex flex-col justify-start gap-4">
+			{
+				phoneIntl && (
+					<Field>
+						<a href={`tel:${phone}`} aria-label={`Call ${phoneIntl}`}>
+							{phoneIntl}
+						</a>
+						<span slot="icon">
+							<PhoneIcon />
+						</span>
+					</Field>
+				)
+			}
+			{
+				email && (
+					<Field>
+						<a href={`mailto:${email}`} aria-label={`Email ${email}`}>
+							{email}
+						</a>
+						<span slot="icon">
+							<EmailIcon />
+						</span>
+					</Field>
+				)
+			}
+			{
+				homePage && (
+					<Field>
+						<a
+							target="_blank"
+							href={homePage}
+							rel="noopener noreferrer"
+							aria-label={`Open website ${homePage}`}
+						>
+							{homePage}
+						</a>
+						<span slot="icon">
+							<WebsiteIcon />
+						</span>
+					</Field>
+				)
+			}
+			{
+				location && (
+					<Field>
+						<a
+							target="_blank"
+							href={`https://maps.google.com/?q=${encodeURIComponent(location)}`}
+							rel="noopener noreferrer"
+							aria-label={`Open map for ${location} in Google Maps`}
+						>
+							{location}
+						</a>
+						<span slot="icon">
+							<LocationIcon />
+						</span>
+					</Field>
+				)
+			}
+		</div>
+		{
+			vcard && (
+				<div
+					class="flex-1 self-end flex justify-center items-end"
+					data-dialog-scope
+				>
+					<button
+						type="button"
+						class="w-36 cursor-pointer"
+						data-open-dialog
+						aria-label="Open QR code to save contact"
+						aria-haspopup="dialog"
+					>
+						<VcardIcon />
+					</button>
+					{vcardString && vcard && (
+						<LinkDialog
+							value={vcardString}
+							isLink={false}
+							title="Scan to save contact"
+						/>
+					)}
+				</div>
+			)
+		}
+	</div>
+</Section>
+<script is:inline>
+	(() => {
+		if (window.__DIALOG_DELEGATE_BOUND__) return;
+		window.__DIALOG_DELEGATE_BOUND__ = true;
+
+		document.addEventListener(
+			"click",
+			function (ev) {
+				const target = ev.target;
+				const btn =
+					target && target.closest
+						? target.closest("[data-open-dialog]")
+						: null;
+				if (!btn) return;
+
+				const scope = btn.closest("[data-dialog-scope]");
+				const dlg = scope ? scope.querySelector("dialog") : null;
+
+				if (dlg && typeof dlg.showModal === "function") {
+					ev.preventDefault();
+					dlg.showModal();
+				}
+			},
+			{ passive: false }
+		);
+	})();
+</script>
