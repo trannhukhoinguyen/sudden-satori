@@ -40,7 +40,6 @@ const ProfileSchema = z.object({
 	avatarUrl: z.string().url().optional(),
 	avatarRounded: z.enum(["none", "sm", "md", "lg", "xl", "full"]).optional(),
 	email: z.string().email().optional(),
-	phone: z.string().optional(),
 	homePage: z.string().url().optional(),
 	location: z.string().optional(),
 	vcard: z.boolean().default(false),

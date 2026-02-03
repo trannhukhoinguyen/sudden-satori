@@ -20,7 +20,6 @@ declare module "virtual:starcard/config" {
 			avatarUrl?: string;
 			avatarRounded?: "none" | "sm" | "md" | "lg" | "xl" | "full";
 			email?: string;
-			phone?: string;
 			homePage?: string;
 			location?: string;
 			vcard: boolean;

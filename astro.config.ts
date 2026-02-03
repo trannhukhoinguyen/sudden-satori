@@ -57,7 +57,6 @@ export default defineConfig({
         avatarUrl: "https://github.com/your-avatar.png",
         avatarRounded: "full",
         email: "you@example.com",
-        phone: "+123456789",
         homePage: "https://example.com",
         location: "City, Country",
         vcard: true,

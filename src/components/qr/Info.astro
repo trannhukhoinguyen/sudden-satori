@@ -2,16 +2,13 @@
 import Section from "@/components/Section.astro";
 import LinkDialog from "@/components/LinkDialog.astro";
 import Field from "@/components/Field.astro";
-import PhoneIcon from "@/components/icons/Phone.astro";
 import EmailIcon from "@/components/icons/Email.astro";
 import WebsiteIcon from "@/components/icons/Web.astro";
 import LocationIcon from "@/components/icons/Location.astro";
 import VcardIcon from "@/components/icons/Vcard.astro";
-import { formatPhoneIntl } from "@/utils/qr/phone";
 import { buildVCard, type Profile } from "@/utils/qr/vcard";
 
 export interface Props {
-	phone?: string;
 	email?: string;
 	homePage?: string;
 	location?: string;
@@ -19,10 +16,9 @@ export interface Props {
 	profile?: Profile;
 }
 
-const { phone, email, homePage, location, profile, vcard } =
+const { email, homePage, location, profile, vcard } =
 	Astro.props as Props;
 const vcardString = profile ? buildVCard(profile, "3.0") : null;
-const phoneIntl = phone ? (formatPhoneIntl(phone) ?? phone) : null;
 ---
 
 <Section seperator={false}>
@@ -30,18 +26,6 @@ const phoneIntl = phone ? (formatPhoneIntl(phone) ?? phone) : null;
 		class="w-full flex flex-row flex-wrap justify-start content-center items-start gap-12"
 	>
 		<div class="flex-1 flex flex-col justify-start gap-4">
-			{
-				phoneIntl && (
-					<Field>
-						<a href={`tel:${phone}`} aria-label={`Call ${phoneIntl}`}>
-							{phoneIntl}
-						</a>
-						<span slot="icon">
-							<PhoneIcon />
-						</span>
-					</Field>
-				)
-			}
 			{
 				email && (
 					<Field>

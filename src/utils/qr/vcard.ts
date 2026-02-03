@@ -8,7 +8,6 @@ export type Profile = {
 	companyUrl?: string;
 	avatarUrl?: string;
 	email?: string;
-	phone?: string;
 	homePage?: string;
 	location?: string; // e.g., "Prague, Czech Republic"
 };
@@ -59,7 +58,6 @@ export function buildVCard(
 		companyUrl,
 		avatarUrl,
 		email,
-		phone,
 		homePage,
 		location,
 	} = profile;
@@ -87,12 +85,6 @@ export function buildVCard(
 		if (version === "3.0")
 			lines.push(`EMAIL;TYPE=INTERNET:${esc(email, version)}`);
 		else lines.push(`EMAIL:${esc(email, version)}`);
-	}
-
-	if (phone) {
-		if (version === "3.0")
-			lines.push(`TEL;TYPE=CELL,VOICE:${esc(phone, version)}`);
-		else lines.push(`TEL;TYPE=cell,voice:${esc(phone, version)}`);
 	}
 
 	if (avatarUrl) {
