@@ -1,12 +1,12 @@
 ---
-import Section from "@/components/Section.astro";
-import LinkDialog from "@/components/LinkDialog.astro";
-import Field from "@/components/Field.astro";
-import EmailIcon from "@/components/icons/Email.astro";
-import WebsiteIcon from "@/components/icons/Web.astro";
-import LocationIcon from "@/components/icons/Location.astro";
-import VcardIcon from "@/components/icons/Vcard.astro";
-import { buildVCard, type Profile } from "@/utils/qr/vcard";
+import Section from "./Section.astro";
+import LinkDialog from "./LinkDialog.astro";
+import Field from "./Field.astro";
+import EmailIcon from "./icons/Email.astro";
+import WebsiteIcon from "./icons/Web.astro";
+import LocationIcon from "./icons/Location.astro";
+import VcardIcon from "./icons/Vcard.astro";
+import { buildVCard, type Profile } from "../../utils/qr/vcard";
 
 export interface Props {
 	email?: string;
