@@ -47,7 +47,7 @@ export default defineConfig({
         favicon: "/favicon.svg",
       },
       profile: {
-        displayName: "Your Name",
+        displayName: "Cúng dường các chùa Tổ Sư Thiền",
         firstName: "Your",
         middleName: "",
         lastName: "Name",
@@ -60,47 +60,7 @@ export default defineConfig({
         homePage: "https://example.com",
         location: "City, Country",
         vcard: true,
-        sections: [
-          {
-            order: 1,
-            id: "socials",
-            title: "Socials",
-            icon: "chatbot",
-            items: [
-              {
-                id: "github",
-                icon: "github",
-                url: "https://github.com/you",
-              },
-            ],
-          },
-          {
-            order: 1,
-            id: "presence",
-            title: "Presence",
-            icon: "chromewebstore",
-            items: [
-              {
-                id: "youtube",
-                icon: "youtube",
-                url: "https://www.youtube.com/@your-channel",
-              },
-            ],
-          },
-          {
-            order: 3,
-            id: "support",
-            title: "Support",
-            icon: "buymeacoffee",
-            items: [
-              {
-                id: "buymeacoffee",
-                icon: "buymeacoffee",
-                url: "https://buymeacoffee.com/you",
-              },
-            ],
-          },
-        ],
+        sections: [],
       },
     }),
   ],
