@@ -8,10 +8,22 @@ interface Props {
     text?: string
 }
 const { facebookPostUrl } = Astro.props;
-const postWidth = 1000;
+const postWidth = '1000';
 
 const momoQrSrc = "/images/qr/momo.jpg";
 const bankQrSrc = "/images/qr/vietinbank.jpg";
+
+const pagodasForOffering = [
+    { title: 'Chùa Pháp Thành I', link: '/pagodas/chua-Phap-Thanh-I', description: 'Q.6', },
+    { title: 'Chùa Phật Đà', link: '/pagodas/chua-Phat-Da', description: 'Q.3', },
+    { title: 'Chùa Thiên Trì', link: '/pagodas/chua-Thien-Tri', description: 'Q. Bình Chánh', },
+    { title: 'Chùa Liên Hoa', link: '/pagodas/chua-Lien-Hoa-Q11', description: 'Q.11', },
+    { title: 'Chùa Liên Hoa', link: '/pagodas/chua-Lien-Hoa-Binh-Chanh', description: 'Q. Bình Chánh', },
+    { title: 'Thiền Viện Duy Lực', link: '/pagodas/thien-vien-Duy-Luc', description: 'Đồng Nai', },
+    { title: 'Thiền Tự Quy Sơn', link: '/pagodas/thien-tu-Quy-Son', description: 'BRVT', },
+    { title: 'Thiền đường Liễu Quán I', link: '/pagodas/thien-duong-Lieu-Quan-I', description: 'BRVT', },
+    { title: 'Chùa Tam Bảo', link: '/pagodas/chua-Tam-Bao', description: 'Đồng Tháp', },
+]
 ---
 
 <style>
@@ -36,7 +48,7 @@ const bankQrSrc = "/images/qr/vietinbank.jpg";
             background: #f7f7f7;
         }
         button.submit-button {
-            margin: 12px;
+            margin-block: 12px;
             background: var(--color-accent-maroon);
             color: white;
             border: none;
@@ -48,12 +60,12 @@ const bankQrSrc = "/images/qr/vietinbank.jpg";
         }
 
         .input-label-message {
-            margin: 12px;
+            margin-block: 12px;
             text-align: center;
         }
 
         .thank-you-message {
-            margin: 12px;
+            margin-block: 12px;
             color: var(--color-accent-gold);
             text-align: center;
         }
@@ -68,8 +80,8 @@ const bankQrSrc = "/images/qr/vietinbank.jpg";
         }
     }
 
-    .donation-section, .my-qr-box {
-        margin-top: 24px;
+    .donation-section, .donation-info-section, .my-qr-box {
+        margin-block: 24px;
         padding-top: 16px;
         border-top: 1px solid #e5e5e5;
 
@@ -91,7 +103,7 @@ const bankQrSrc = "/images/qr/vietinbank.jpg";
         }
 
         .fb-fallback {
-            margin: 12px;
+            margin-block: 12px;
             font-size: 14px;
             color: #666;
             background: #fafafa;
@@ -101,13 +113,13 @@ const bankQrSrc = "/images/qr/vietinbank.jpg";
         }
 
         .fb-fallback a {
-            margin: 12px;
+            margin-block: 12px;
             color: #000;
             text-decoration: underline;
         }
 
         .fb-post {
-            margin: 12px;
+            margin-block: 12px;
         }
 
         @media (min-width: 480px) {
@@ -119,31 +131,57 @@ const bankQrSrc = "/images/qr/vietinbank.jpg";
     }
 </style>
 
-<section class="donation-section">
-    <header class="donation-header">
-        <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
-        <p>Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
-    </header>
+<div class="my-qr-box">
+    <section class="donation-section">
+        <header class="donation-header">
+            <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
+            <p>Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
+        </header>
 
-    <!-- Fallback -->
-    <div id="fb-fallback" class="fb-fallback">
-        <p>
-            Bài viết Facebook đang được tải.
-            Nếu không hiển thị, xin vui lòng
-            <a href={facebookPostUrl} target="_blank">
-                xem trực tiếp tại Facebook
-            </a>.
-        </p>
-    </div>
+        <!-- Fallback -->
+        <div id="fb-fallback" class="fb-fallback">
+            <p>
+                Bài viết Facebook đang được tải.
+                Nếu không hiển thị, xin vui lòng
+                <a href={facebookPostUrl} target="_blank">
+                    xem trực tiếp tại Facebook
+                </a>.
+            </p>
+        </div>
 
-    <!-- Facebook embed -->
-    <div
-        class="fb-post"
-        data-href={facebookPostUrl}
-        data-width={postWidth}
-        data-show-text="true"
-    ></div>
-</section>
+        <!-- Facebook embed -->
+        <div
+                class="fb-post"
+                data-href={facebookPostUrl}
+                data-show-text="true"
+        ></div>
+    </section>
+</div>
+
+<div class="my-qr-box">
+    <section class="donation-info-section">
+        <header class="donation-header">
+            <h3 class="donation-header-title">MỘT SỐ NGÔI CHÙA TRONG TÔNG PHONG TỔ SƯ THIỀN</h3>
+        </header>
+
+        <div class="receiving-info-area">
+            <ul>
+                {
+                    pagodasForOffering
+                        ?.map(pagoda =>
+                                <li><a
+                                        href={pagoda.link}
+                                        target="_blank"
+                                ><b>{pagoda.title}</b>
+                                    - {pagoda.description}
+                                </a></li>
+                        )
+                }
+                <li>...</li>
+            </ul>
+        </div>
+    </section>
+</div>
 
 <div class="my-qr-box">
     <header class="donation-header">
@@ -159,7 +197,8 @@ const bankQrSrc = "/images/qr/vietinbank.jpg";
             <li>Số tài khoản: <b>3618081982</b></li>
             <li>Chủ tài khoản: <b>Phan Ngọc Dao</b> (Ni sư <em>Thích nữ Vạn Hữu</em>)</li>
             <li>Tên ngân hàng: <b>Ngân hàng Quân Đội (MB Bank)</b>, </li>
-            <li>Chi nhán: <b>Phòng giao dịch Quận 6 (cũ)</b></li>
+            <li>Chi nhánh: <b>Phòng giao dịch Quận 6 (cũ)</b></li>
+            <li>Trụ trì: Chùa <b>Pháp Thành</b> toạ lạc tại <b>192/32/4, đường Phạm Văn Chí, phường 4, Quận 6</b></li>
         </ul>
     </div>
 
