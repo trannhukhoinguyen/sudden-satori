@@ -1,0 +1,246 @@
+---
+interface Props {
+    momoPhone?: string
+    bankCode?: string
+    bankAccount?: string
+    bankName?: string
+    facebookPostUrl?: string
+    text?: string
+}
+const { facebookPostUrl } = Astro.props;
+const postWidth = 1000;
+
+const momoQrSrc = "/images/qr/momo.jpg";
+const bankQrSrc = "/images/qr/vietinbank.jpg";
+---
+
+<style>
+    .dynamic-qr-box, .my-qr-box {
+        max-width: 100%;
+        border: 1px solid #ddd;
+        padding: 16px;
+        border-radius: 12px;
+        font-family: system-ui, sans-serif;
+
+        .amount-buttons {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+            margin: 12px 0;
+        }
+        button {
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            cursor: pointer;
+            background: #f7f7f7;
+        }
+        button.submit-button {
+            margin: 12px;
+            background: var(--color-accent-maroon);
+            color: white;
+            border: none;
+            float: right;
+        }
+        img {
+            width: 100%;
+            margin-top: 16px;
+        }
+
+        .input-label-message {
+            margin: 12px;
+            text-align: center;
+        }
+
+        .thank-you-message {
+            margin: 12px;
+            color: var(--color-accent-gold);
+            text-align: center;
+        }
+    }
+
+    .my-qr-box {
+        .my-qr-image-area {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    .donation-section, .my-qr-box {
+        margin-top: 24px;
+        padding-top: 16px;
+        border-top: 1px solid #e5e5e5;
+
+        .donation-header h4 {
+            margin: 12px;
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        .donation-header p {
+            margin: 12px;
+            font-size: 14px;
+            color: #555;
+            line-height: 1.5;
+        }
+
+        .donation-header .donation-header-title {
+            text-align: center;
+        }
+
+        .fb-fallback {
+            margin: 12px;
+            font-size: 14px;
+            color: #666;
+            background: #fafafa;
+            padding: 12px;
+            border: 1px dashed #ccc;
+            border-radius: 6px;
+        }
+
+        .fb-fallback a {
+            margin: 12px;
+            color: #000;
+            text-decoration: underline;
+        }
+
+        .fb-post {
+            margin: 12px;
+        }
+
+        @media (min-width: 480px) {
+            .donation-section {
+                padding-left: 8px;
+                padding-right: 8px;
+            }
+        }
+    }
+</style>
+
+<section class="donation-section">
+    <header class="donation-header">
+        <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
+        <p>Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
+    </header>
+
+    <!-- Fallback -->
+    <div id="fb-fallback" class="fb-fallback">
+        <p>
+            Bài viết Facebook đang được tải.
+            Nếu không hiển thị, xin vui lòng
+            <a href={facebookPostUrl} target="_blank">
+                xem trực tiếp tại Facebook
+            </a>.
+        </p>
+    </div>
+
+    <!-- Facebook embed -->
+    <div
+        class="fb-post"
+        data-href={facebookPostUrl}
+        data-width={postWidth}
+        data-show-text="true"
+    ></div>
+</section>
+
+<div class="my-qr-box">
+    <header class="donation-header">
+        <h3 class="donation-header-title">TÀI KHOẢN NHẬN CÚNG DƯỜNG</h3>
+    </header>
+
+    <div class="receiving-info-area">
+        <p>
+            Mọi sự phát tâm ủng hộ, xin Quý vị gửi vào:
+            (Xin Quý vị ghi rõ Tên, Pháp danh (nếu có), Phật sự cuối năm hoặc viết tắt PSCN)
+        </p>
+        <ul>
+            <li>Số tài khoản: <b>3618081982</b></li>
+            <li>Chủ tài khoản: <b>Phan Ngọc Dao</b> (Ni sư <em>Thích nữ Vạn Hữu</em>)</li>
+            <li>Tên ngân hàng: <b>Ngân hàng Quân Đội (MB Bank)</b>, </li>
+            <li>Chi nhán: <b>Phòng giao dịch Quận 6 (cũ)</b></li>
+        </ul>
+    </div>
+
+    <div class="my-qr-image-area">
+        <h4>HOẶC</h4>
+        <img src={momoQrSrc} alt={"Momo"} width="100" height="auto" />
+        <img src={bankQrSrc} alt={"Vietinbank"} width="100" height="auto" />
+    </div>
+
+    <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
+</div>
+
+<!--<div class="dynamic-qr-box">
+    <h3 class="input-label-message">Nhập số tiền bạn muốn gửi đi nhé!</h3>
+
+    <input
+            id="amount"
+            type="number"
+            placeholder="VD: 50000"
+            style="width:100%; padding:10px; font-size:16px"
+    />
+
+    <div class="amount-buttons">
+        <button data-value="5000">5.000</button>
+        <button data-value="10000">10.000</button>
+        <button data-value="50000">50.000</button>
+        <button data-value="100000">100.000</button>
+        <button data-value="200000">200.000</button>
+        <button data-value="500000">500.000</button>
+    </div>
+
+    <button class="submit-button" id="submit">Tạo QR</button>
+
+    <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
+
+    <div id="result"></div>
+</div>-->
+
+<script>
+    const paymentQRProps = {
+        momoPhone: "0989784241",
+
+        bankCode: "CTG",
+        bankAccount: "107867147195",
+        bankName: "Vietinbank"
+    };
+
+    const amountInput = document.getElementById("amount") as HTMLInputElement
+    const result = document.getElementById("result") as HTMLDivElement
+
+    document.querySelectorAll("[data-value]").forEach(btn => {
+        if (btn instanceof HTMLButtonElement) {
+            amountInput.value = btn.dataset.value ?? ""
+        }
+    })
+
+    document.getElementById("submit")!
+        .addEventListener("click", () => {
+            const amount = Number(amountInput.value)
+            if (!amount || amount <= 0) return
+
+            const momoQR = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=momo://?phone=${paymentQRProps.momoPhone}&amount=${amount}`
+
+            const bankQR = `https://img.vietqr.io/image/${paymentQRProps.bankCode}-${paymentQRProps.bankAccount}-qr_only.png?amount=${amount}&addInfo=Thanh%20toan`
+
+            result.innerHTML = `
+              <p><strong>MoMo</strong></p>
+              <img src="${momoQR}" alt="MoMo QR" />
+        
+              <p><strong>${paymentQRProps.bankName}</strong></p>
+              <img src="${bankQR}" alt="Bank QR" />
+            `
+        })
+</script>
+
+<script is:inline>
+if (!document.getElementById("facebook-jssdk")) {
+    const script = document.createElement("script")
+    script.id = "facebook-jssdk"
+    script.src =
+        "https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v18.0"
+    document.body.appendChild(script)
+    }
+</script>

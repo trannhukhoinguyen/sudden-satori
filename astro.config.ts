@@ -4,7 +4,6 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import AutoImport from "astro-auto-import";
 import vercel from "@astrojs/vercel";   // 🔥 Thêm adapter
-import starcard from "./src/utils/qr/starcard.js";
 
 // https://astro.build/config
 export default defineConfig({
@@ -38,31 +37,6 @@ export default defineConfig({
 
     // Always integrate mdx() in the last position
     mdx(),
-
-    starcard({
-      meta: {
-        title: "Offering",
-        description: "Short bio or tagline",
-        keywords: ["astro-template", "profile", "vcard", "portfolio"],
-        favicon: "/favicon.svg",
-      },
-      profile: {
-        displayName: "Cúng dường các chùa Tổ Sư Thiền",
-        firstName: "Your",
-        middleName: "",
-        lastName: "Name",
-        title: "Full‑stack Developer",
-        company: "Your Company",
-        companyUrl: "https://company.example",
-        avatarUrl: "https://github.com/your-avatar.png",
-        avatarRounded: "full",
-        email: "you@example.com",
-        homePage: "https://example.com",
-        location: "City, Country",
-        vcard: true,
-        sections: [],
-      },
-    }),
   ],
 
   markdown: {
