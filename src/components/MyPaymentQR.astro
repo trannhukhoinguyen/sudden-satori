@@ -34,6 +34,12 @@ const pagodasForOffering = [
         padding: 16px;
         border-radius: 12px;
         font-family: system-ui, sans-serif;
+        display: flex;
+        gap: 16px;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
 
         .amount-buttons {
             display: grid;
@@ -55,9 +61,11 @@ const pagodasForOffering = [
             border: none;
             float: right;
         }
+
         img {
-            width: 100%;
-            margin-top: 16px;
+            width: 200px;        /* hoặc 120px / 160px tùy bạn */
+            height: auto;
+            max-width: 100%;
         }
 
         .input-label-message {
@@ -99,7 +107,7 @@ const pagodasForOffering = [
             line-height: 1.5;
         }
 
-        .donation-header .donation-header-title {
+        .donation-header-title {
             text-align: center;
         }
 
@@ -133,12 +141,9 @@ const pagodasForOffering = [
 </style>
 
 <div class="my-qr-box">
+    <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
+    <p class="donation-header-title">Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
     <section class="donation-section">
-        <header class="donation-header">
-            <h3 class="donation-header-title">THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG</h3>
-            <p>Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
-        </header>
-
         <!-- Fallback -->
         <div id="fb-fallback" class="fb-fallback">
             <p>
@@ -206,8 +211,8 @@ const pagodasForOffering = [
 
     <div class="my-qr-image-area">
         <h4>HOẶC</h4>
-        <img src={momoQrSrc} alt={"Momo"} width="100" height="auto" />
-        <img src={bankQrSrc} alt={"Vietinbank"} width="100" height="auto" />
+        <img src={momoQrSrc} alt={"Momo"} width="auto" height="50" />
+        <img src={bankQrSrc} alt={"Vietinbank"} width="auto" height="50" />
     </div>
 
     <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
