@@ -10,6 +10,7 @@ import Hero from "../components/ui/Hero.astro";
 import BioWithImage from "../components/ui/BioWithImage.astro";
 import HtmlBlocks from "../components/ui/HtmlBlocks.astro";
 import HTTDL from "../components/htmlData/HTTDL.astro";
+import ZEN_GATE_ENCOURAGE from "../components/htmlData/ZEN_GATE_ENCOURAGE.astro";
 import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANCE.astro";
 import InstallPWA from "../components/ui/InstallPWA.astro";
 import PWAPopup from "../components/ui/PWAPopup.astro";
@@ -69,7 +70,7 @@ const description = "Xem " + title;
   <div class="landing-page">
 
     <!-- Upcoming Events Slider -->
-    
+
 
     <!-- Cyclical Events Slider -->
     <!--<RetreatSlider events={cyclicalEvents} />-->
@@ -114,6 +115,13 @@ const description = "Xem " + title;
     >
       <HTTDL />
     </BioWithImage>
+
+    <hr class="blog-rule" />
+
+    <!-- HtmlBlocks Section -->
+    <HtmlBlocks>
+      <ZEN_GATE_ENCOURAGE />
+    </HtmlBlocks>
 
     <hr class="blog-rule" />
 
