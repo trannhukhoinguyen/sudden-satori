@@ -498,33 +498,33 @@ Sở dĩ họ dong ruổi hành cước là vì giải quyết những chỗ sâ
 
 Vị tăng ❓: Thế nào là câu tiếp dẫn người sơ cơ?
 
-📣📣📣: Ông là vị tăng hành cước.
+📣: Ông là vị tăng hành cước.
 
 ❓: Thế nào là câu phân biệt nạp tăng?
 
-📣📣📣: Mặt trời mọc ở hướng tây vào giờ mão.
+📣: Mặt trời mọc ở hướng tây vào giờ mão.
 
 ❓ tiếp: Thế nào là câu Chính lệnh hành [^48]?
 
-📣📣📣: Nghìn dặm mang đến để trình mặt mũi xưa nay.
+📣: Nghìn dặm mang đến để trình mặt mũi xưa nay.
 
 ❓: Thế nào là câu thành lập trời đất?
 
-📣📣📣: Lúa Bắc-cu-lô châu, người ăn thì không giận cũng không vui.
+📣: Lúa Bắc-cu-lô châu, người ăn thì không giận cũng không vui.
 
 Sư nói: Chỉ đem bốn chuyển ngữ [^49] này mà nghiệm nạp tăng trong thiên hạ. Cho nên, vừa thấy ông đưa ra thì đã biết rồi.
 
 Tăng ❓: Thế nào là chỗ dụng công của người học?
 
-📣📣📣: Gia Châu đánh pho tượng lớn.
+📣: Gia Châu đánh pho tượng lớn.
 
 ❓: Thế nào là chỗ chuyển thân của người học?
 
-📣📣📣: Thiểm Phủ tắm trâu sắt.
+📣: Thiểm Phủ tắm trâu sắt.
 
 ❓: Thế nào là chỗ thân thiết của người học?
 
-📣📣📣: Tây Hà vờn sư tử.
+📣: Tây Hà vờn sư tử.
 
 Sư nói: **Nếu người nào lãnh hội ba câu này thì đã phân biệt được Tam huyền. Lại còn có Tam yếu, cần phải biết rõ, không nên bỏ qua.** 
 
@@ -549,7 +549,7 @@ Do đó ngài Nam Tuyền nói: “Vương lão sư [^52] hơn 80 tuổi mới h
 
 Tăng ❓ tiếp: Người xưa 80 tuổi mới hiểu kế sống, nhưng chưa biết tạo kế sống gì?
 
-📣📣📣: Hai con trâu đực, hai sừng không cong.
+📣: Hai con trâu đực, hai sừng không cong.
 
 Lại nói: Nếu muốn tỏ ngộ việc này, chỉ cần đạt chỉ thú Tam huyền, lúc ấy thọ dụng tự tại, nhà mình khóai lạc, sung sướng một đời.
 
@@ -596,7 +596,7 @@ Ngay đây tỏ ngộ thì xà-lê không có phần, toàn là phần của lã
 
 Lại nói hai vị Thủ tọa ở hai nhà tăng, một hôm gặp nhau cùng hét. 
 
-Vị Tăng ❓ Lâm Tế: “Có chủ, có khách không?” 📣📣📣: “Chủ khách rõ ràng”. 
+Vị Tăng ❓ Lâm Tế: “Có chủ, có khách không?” 📣: “Chủ khách rõ ràng”. 
 
 Sư làm kệ rằng:
 
@@ -683,39 +683,39 @@ Tôi 📢: “Đó là phương tiện mà chư Phật trong ba đời và các 
 
 Giới nói: Hãy gác lại việc không có đường, Am chủ từ đâu vào?
 
-📣📣📣: Ta chưa hề du phương.
+📣: Ta chưa hề du phương.
 
 Giới ❓: Am chủ ở đây bao lâu rồi?
 
-📣📣📣: Không can hệ đến ngày tháng.
+📣: Không can hệ đến ngày tháng.
 
 Giới tiếp: Am chủ trụ ở đây trước hay núi này trụ trước?
 
-📣📣📣: Không biết.
+📣: Không biết.
 
 Giới gạn lại: Vì sao không biết?
 
-📣📣📣: Ta chẳng từng từ cõi trời người lại.
+📣: Ta chẳng từng từ cõi trời người lại.
 
 Giới ❓: Được đạo lý gì mà trụ núi này?
 
-📣📣📣: Ta thấy hai con trâu đất chọi nhau rồi chìm xuống biển [^67], mãi đến ngày nay không có tin tức.
+📣: Ta thấy hai con trâu đất chọi nhau rồi chìm xuống biển [^67], mãi đến ngày nay không có tin tức.
 
 Mật Sư Bá và Lương Giới đầy đủ oai nghi lễ bái rồi ❓: Thế nào là khách trong chủ?
 
-📣📣📣: Núi xanh mây trắng phủ
+📣: Núi xanh mây trắng phủ
 
 Lại ❓: Thế nào là chủ trong chủ?
 
-📣📣📣: Lâu năm không ra khỏi cửa.
+📣: Lâu năm không ra khỏi cửa.
 
 ❓ tiếp: Chủ khách xa nhau bao lâu?
 
-📣📣📣: Sóng trên dòng Trường giang.
+📣: Sóng trên dòng Trường giang.
 
 Lại ❓: Chủ khách gặp nhau có lời gì?
 
-📣📣📣: Ban ngày gió mát thổi.
+📣: Ban ngày gió mát thổi.
 
 Giới đảnh lễ xin y chỉ. Lão tăng cười và nói:
 
@@ -734,7 +734,7 @@ Ngay đó, Am chủ đốt am rồi đi vào trong núi sâu. Về sau Lương G
 
 Giới ❓ vị tăng: Ai là chủ nhân ông của ngươi?
 
-📣📣📣: Người đang trả lời đó!
+📣: Người đang trả lời đó!
 
 Giới ngửa mặt than thở: “Đây gọi là việc của kẻ tôi tớ, vì sao nhận là chính mình? Đây là điềm Phật pháp suy vi. 
 Chủ trong khách còn chưa rõ, huống gì chủ trong chủ?”
@@ -743,7 +743,7 @@ Tăng ❓: Thế nào là chủ trong chủ?
 
 Giới nói: Ngươi tự nói xem!
 
-📣📣📣: Nói được tức là chủ trong khách. Thế nào là chủ trong chủ?
+📣: Nói được tức là chủ trong khách. Thế nào là chủ trong chủ?
 
 Giới im lặng một lúc [^69] rồi nói: “Không ngại nói cho ngươi nghe, nhưng giữ cho tương tục cũng rất khó.
 
@@ -813,7 +813,7 @@ Kinh Bát-nhã ghi: “Vì không hai, không hai phần, không sai biệt, kh�
 
 Tướng lưỡi rộng dài đến cõi trời Phạm, đâu có thể dùng ý thức biết được? Ngài Huyền Tráng đến Tây Trúc gặp luận sư Giới Hiền, lúc đó Giới Hiền đã 106 tuổi, được mọi người kính ngưỡng tôn là Chính Pháp Tạng.
 
-Ngài Huyền Tráng cung kính làm lễ, đến bên luận sư, luận sư mời ngồi, rồi ❓: “Từ đâu đến?” 📣📣📣: “Từ Trung Quốc đến, muốn học các bộ luận như Du-già v.v”....
+Ngài Huyền Tráng cung kính làm lễ, đến bên luận sư, luận sư mời ngồi, rồi ❓: “Từ đâu đến?” 📣: “Từ Trung Quốc đến, muốn học các bộ luận như Du-già v.v”....
 
 Lúc đó luận sư rơi lệ gọi đệ tử là Giác Hiền đến và ❓: “Cơn mộng trước đây của ta như thế nào?”
 

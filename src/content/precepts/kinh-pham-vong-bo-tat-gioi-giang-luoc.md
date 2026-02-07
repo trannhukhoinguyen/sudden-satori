@@ -329,24 +329,24 @@ Nếu thường trụ Tam bảo bị hủy hoại thì không thể hy vọng ng
 
 Nếu có nhân duyên tổ chức thành Tăng đoàn, rồi Tăng đoàn tổ chức thành luật của Tăng đoàn mới bảo vệ được giới. Luật là bảo vệ giới, giới là bảo vệ mình; ở trong luật gồm có giới, mà giới không thể gồm có luật.
 
-❓❓❓  Hỏi:
+❓  Hỏi:
 
 > Trước khi thọ giới Bồ Tát thì phải nghe giảng giới Bồ Tát. 
 > Tại sao khi tụng giới lại không cho người chưa thọ giới Bồ Tát nghe?
 
-📣📣📣 Đáp:
+📣 Đáp:
 
 > Phải cho nghe hết. Tụng giới Tỳ Kheo và Tỳ Kheo Ni không cho nghe đối với người chưa thọ giới này. 
 > Còn giới Bồ Tát thì tất cả mọi người đều được nghe. 
 > Kinh Phạm Võng nói: “Tất cả ma, quỷ, huỳnh môn, súc sanh,… nghe được lời Pháp sư mà lãnh thọ”, huống chi là người! Nếu thọ được thì phải được nghe.
 
-❓❓❓  Hỏi:
+❓  Hỏi:
 
 > Ở trong Tăng vấn hòa có hỏi: “Trong đây có ai chưa thọ giới Bồ Tát và không thanh tịnh ra chưa? 
 > Trả lời: Trong đây chưa ai thọ giới Bồ Tát, hoặc đã ra rồi”. 
 > Như vậy, chứng tỏ người chưa thọ giới Bồ Tát không được nghe giới Bồ Tát?
 
-📣📣📣 Đáp:
+📣 Đáp:
 
 > Đó là việc sai lầm, lúc bạch tứ Yết ma tức là tác pháp để làm việc. Lúc Yết ma có thể người không có quan hệ thì không cho nghe. 
 > Vì Yết ma có thể trị tội Tăng sĩ, tức là theo tội để phán tội Tăng sĩ; không cho những người có quan hệ, như cư sĩ để biết tội của Tăng sĩ do Tăng đoàn xử. 

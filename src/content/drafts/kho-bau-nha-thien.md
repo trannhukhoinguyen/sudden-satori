@@ -43,45 +43,45 @@ Tuy nhiên, chìa vàng khóa ngọc nay về tay ai, chớ nói Tân La tại H
 
 ## Chương 1 - Học đạo cần phải sanh lòng tin quyết định 
 
-#### 📣📣📣 Phật dạy:
+#### 📣 Phật dạy:
 
 Lòng tin là gốc đạo; là mẹ các công đức, nuôi lớn hết thảy các pháp lành, dứt trừ lưới nghi, ra khỏi dòng ái, mở bày đạo Vô Thượng Niết bàn.
 
 Lại nói: Lòng tin hay tăng trưởng trí công đức. Lòng tin hay đưa người đến địa vị Như Lai.
 
-#### 📣📣📣 Kinh nói: Lòng tin hay dứt hẳn gốc phiền não.
+#### 📣 Kinh nói: Lòng tin hay dứt hẳn gốc phiền não.
 
 Lại bảo: Lòng tin có khả năng làm cho người mau chứng được môn Giải thoát.
 
-#### 📣📣📣 Hòa thượng Cao Phong Diệu nói:
+#### 📣 Hòa thượng Cao Phong Diệu nói:
 
 Bậc thượng như Phật như Tổ vượt lên bờ bên kia, chuyển bánh xe pháp lớn nhiếp vật lợi sanh, không có một vị nào chẳng do từ trong một chữ TIN nầy nên chẳng thành Thánh đạo, lại bị rơi vào địa ngục.
 
-#### 📣📣📣 Hoa Nghiêm Quán nói:
+#### 📣 Hoa Nghiêm Quán nói:
 
 Có tin mà không hiểu thì tăng trưởng vô minh. Có hiểu mà không tin thì thêm lớn tà kiến. Tin hiểu thông suốt mới là gốc của sự tu hành.
 
 Lại nói: Có lòng tin mà không tin pháp giới thì lòng tin ấy là tà.
 
-#### 📣📣📣 Thiền sư Đại Hụê nói:
+#### 📣 Thiền sư Đại Hụê nói:
 
 Đủ chánh tín, lập chánh chí, đấy là nền tảng để thành Phật làm Tổ.
 
-#### 📣📣📣 Ngài Xá Lợi Phất nói:
+#### 📣 Ngài Xá Lợi Phất nói:
 
 Dùng lòng tin được vào, chứ chẳng phải do phần trí của tôi.
 
-#### 📣📣📣 Luận Trí Độ nói:
+#### 📣 Luận Trí Độ nói:
 
 Phật dạy, nếu người có lòng tin thì có thể vào trong biển pháp lớn của ta, có thể được quả Sa môn, không uổng cạo tóc, nhuộm áo. Nếu người không có lòng tin thì không thể vào biển pháp lớn của ta, như cây khô chẳng sanh hoa quả, chẳng đắc quả Sa môn, dẫu có cạo tóc, nhuộm áo, đọc các kinh điển, có khả năng hỏi, có khả năng đáp đi nữa, ở trong Phật pháp cũng chỉ vô ích không được chi cả. Do vì nghĩa này nên trong Phật pháp trước hết phải lấy lòng tin làm căn bản.
 
-#### 📣📣📣 Kinh nói:
+#### 📣 Kinh nói:
 
 Biển lớn Phật pháp do lòng tin mà vào được.
 
 ## Chương 2 - Học đạo cần phải tin được sanh tử là việc lớn
 
-#### 📣📣📣 Quốc sư Vô Nghiệp nói:
+#### 📣 Quốc sư Vô Nghiệp nói:
 
 Chỉ vì cơm ăn áo mặc mà dối Hiền lừa Thánh, cầu được thí chủ mang cơm áo đến; bậc có con mắt trí hụê biết được tâm người, coi đó như ăn máu mủ, rồi phải đền trả lại cho người.
 
@@ -90,7 +90,7 @@ Lại nói: Lúc lâm chung còn một mảy lông tình phàm lượng thánh c
 Người học Phật ngày nay lấy sự tích tập học hỏi nhiều ngày làm công phu, chẳng ra ngoài tám chữ: “ghi nhớ, ức tưởng, kiến giải, trí huệ”.
 Những thứ này nếu như nhất thời mất đi thì lấy cái gì đối địch với sanh tử? Người học Phật chân chánh đâu chẳng lo lắng ư!
 
-#### 📣📣📣 Thiền sư Đại Hụê nói:
+#### 📣 Thiền sư Đại Hụê nói:
 
 Như tôi lúc chưa ngủ, điều Phật ngợi khen thì y theo đó mà làm, điều Phật quở trách tôi chẳng dám phạm.
 Trước kia y chỉ nơi thầy, tự thực hiện công phu được chút sở đắc thì lúc tỉnh thức đều được thọ dụng.
@@ -103,7 +103,7 @@ Ngài Diệu Hỷ từ năm 20 đến năm 36 tuổi trong lòng ôm một mối
 Người học đạo ngày nay ban đầu không có chánh niệm sợ sanh tử, chỉ đem tâm chí thô thiển tham thiền học đạo, mới được chút ít kiến giải đã cho là đủ.
 Than ôi! Cổ kim khác nhau là chổ này vậỵ.
 
-#### 📣📣📣 Sách Nhân Thiên Bảo Giám chép:
+#### 📣 Sách Nhân Thiên Bảo Giám chép:
 
 Thiền sư **Trí** ở núi _Vân Cái_, _Hồ Nam_, ban đêm ngồi trong phương trượng bỗng nghe mùi cháy khét và tiếng gông xiềng, liền thấy có một người mang gong có lửa, ngọn lửa còn cháy bập bùng không dứt, cái đuôi gong tựa vào then cửa.
 
@@ -127,7 +127,7 @@ Nhân đó, Kinh Công mới sửa nhà thành chùa để truy tiến phước 
 
 Danh Thần Ngôn Hạnh Lục
 
-#### 📣📣📣 Thiền sư Sơn Am Thứ Trung nói:
+#### 📣 Thiền sư Sơn Am Thứ Trung nói:
 
 Ngài Nghĩa Đoạn Nhai ở núi Thiên Mục, Hàng Châu, gặp ngài Cao Phong nhận được y chỉ, người quy hướng rất đông.
 Sau khi chết, Nhai báo mộng sanh vào nhà họ Tề ở Ngô Hưng; về sau làm tăng tên Thoại Ứng tự Bảo Đàm, từ nhỏ đến lớn mỗi ngày thọ người lễ bái cúng dường.
@@ -153,25 +153,25 @@ Tôi nói: “Công đức kinh này rất lớn, chẳng thể thí dụ đư�
 
 (Sơn Am Tạp Lục)
 
-#### 📣📣📣 Thiền sư Huyền Sa Bị nói:
+#### 📣 Thiền sư Huyền Sa Bị nói:
 
 Ngày nay nếu chẳng được liễu đạt thì sáng mai vào thai lừa bụng kéo cày chở nặng hàm thiết mang yên cối xay mài giã, nấu đốt trong nước sôi lửa bỏng không phải là dễ chịu, phải nên sợ hãi!
 
-#### 📣📣📣 Tôn giả Cưu Ma Đa La nói:
+#### 📣 Tôn giả Cưu Ma Đa La nói:
 
 Quả thiện ác có ba thời. Kẻ phàm phu chỉ thấy người nhân từ yểu mạng, kẻ hung bạo sống lâu, kẻ ác nghịch gặp điều lành, người trung nghĩa mắc điều dữ, bèn cho rằng không có nhân quả tội phước, mà chẳng biết rằng nhân quả theo nhau như bóng theo hình, như vang theo tiếng không sai một mảy, dẫu cho trải qua trăm nghìn muôn kiếp cũng chẳng tiêu mòn.
 
-#### 📣📣📣 Kinh nói:
+#### 📣 Kinh nói:
 
 Giả sử trải qua trăm nghìn kiếp, nghiệp tạo tác cũng chẳng mất. Lúc nhân duyên hội ngộ thì quả báo đến phải tự chịu.
 
-#### 📣📣📣 Quốc sư Vô Nghiệp nói:
+#### 📣 Quốc sư Vô Nghiệp nói:
 
 Than ôi! Được thân người như đất dính móng tay, mất thân người như đất khắp quả đất. Thật đau đớn thay!
 
 ## Chương 3 - Học đạo cần phải chẳng phạm phép tắc của Phật Tổ
 
-#### 📣📣📣 Trí Luận nói:
+#### 📣 Trí Luận nói:
 
 Học tập sách sở bên ngoài Phật pháp như cầm dao cắt bùn, bùn không đứt mà dao bị cùn lụt. Lại như gió ánh mặt trời khiến cho mắt người ta bị tối.
 
@@ -179,7 +179,7 @@ Tăng lữ ngày nay chưa hiểu được nửa bổn kinh, một quyển lục
 
 Xin thưa cùng hàng đạo lưu là, vật chứa có giới hạn, tuổi đời có số lượng, hãy giữ gìn dao chớ có cắt bùn, chớ đọc các sách thơ văn ngoại điển, nếu may mắn có gặp được văn tự của Phật Tổ, công phu nếu có sức thừa thì nên xem các lời dạy ấy.
 
-#### 📣📣📣 Thiền sư Trí Giác nói:
+#### 📣 Thiền sư Trí Giác nói:
 
 Nếu chẳng bỏ dâm thì dứt hết thảy hạt giống thanh tịnh. Nếu chẳng bỏ rượu thì dứt hết thảy hạt giống trí huệ. Nếu chẳng bỏ trộm cắp thì dứt hết thảy hạt giống phước đức. Nếu chẳng bỏ ăn thịt thì dứt hết thảy hạt giống từ bi.
 
@@ -705,17 +705,17 @@ Hội Nguyên
 
 ## Chương 11 - Học đạo cần phải tu tập tọa thiề
 
-#### 📣📣📣 Đàn Kinh của Lục Tổ chép:
+#### 📣 Đàn Kinh của Lục Tổ chép:
 
 Sao gọi là tọa thiền? Ngoài đối với hết thảy cảnh giới thiện ác tâm niệm không khởi gọi là tọa, trong thấy tự tánh chẳng động gọi là thiền.
 
 Sao gọi là thiền định? Ngoài lìa tướng gọi là thiền, trong chẳng loạn gọi là định. Nếu thấy các cảnh mà tâm không loạn, ấy là thật định.
 
-#### 📣📣📣 Kinh Tịnh Danh nói:
+#### 📣 Kinh Tịnh Danh nói:
 
 Tức thời hoát nhiên trở lại được bản tâm.
 
-#### 📣📣📣 Ngữ Lục của Bàng cư sĩ chép:
+#### 📣 Ngữ Lục của Bàng cư sĩ chép:
 
 Tâm như tức là tọa, cảnh như tức là thiền, như như thảy chẳng gá, đại đạo chẳng trong ngoài, nếu người hiểu như thế, lúc ngủ như không ngủ.
 
@@ -787,7 +787,7 @@ Siêu phàm vượt thánh thì cần phải lặng hết các duyên, ngồi ch
 
 ## Chương 12 - Học đạo cần phải kiến tánh minh tâm
 
-#### 📣📣📣 Đại sư Đạt Ma bảo Nhị Tổ:
+#### 📣 Đại sư Đạt Ma bảo Nhị Tổ:
 
 - Ông chỉ cần ngoài dứt các duyên, trong không nghĩ tưởng, tâm như tường vách thì có thể vào đạo.
 
@@ -813,13 +813,13 @@ Nhị Tổ thưa:
 
 - Đây là tâm thể của chư Phật đã truyền, chớ có hồ nghi.
 
-#### 📣📣📣 Tông Môn Thống Yếu
+#### 📣 Tông Môn Thống Yếu
 
 Phật bảo A nan:
 
 Ta thường nói: Thân ông, tâm ông đều là vật hiện trong diệu minh chân tinh diệu tâm, tại sao các ông lại bỏ mất cái bổn diệu viên diệu minh tâm bảo minh diệu tánh ấy mà nhóm họp các duyên dao động bên trong, đuổi theo cái tướng mờ tối nhiễu loạn bên ngoài rồi cho đó là tâm tánh? Một khi mê nó làm tâm thì chắc chắn lầm cho là ở trong sắc thân, mà chẳng biết ngoài sắc thân cho đến núi sông, hư không, đất đai đều là vật trong diệu minh chân tâm, ví như bỏ trăm ngàn biển cả trong trẻo để nhận một bọt nước cho đó là toàn thể biển cả mênh mông.
 
-#### 📣📣📣 Kinh Lăng Nghiêm
+#### 📣 Kinh Lăng Nghiêm
 
 Vua Dị Kiến hỏi Tôn giả Ba La Đề:
 
@@ -2089,7 +2089,7 @@ Thiền sư Viên Ngộ nói:
 
 Tâm Yếu
 
-#### 📣📣📣 Thiền sư Hưng Thiện Duy Khoan được vua Hiến Tông thỉnh vào cung.
+#### 📣 Thiền sư Hưng Thiện Duy Khoan được vua Hiến Tông thỉnh vào cung.
 
 - Quan Thị lang Bạch Cư Dị từng hỏi rằng: Đã gọi là Thiền sư, tại sao thuyết pháp?
 
@@ -2139,7 +2139,7 @@ Từ lâu tập sách này hoàn thành đến chương Nơi Hoàn Toàn Thôi N
 
 Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: “Bốn oan nghi trong núi” để trình bày cái chí của mình như sau:
 
-#### 📣📣📣 Đi trong núi
+#### 📣 Đi trong núi
 
 > Thẳng đường chim chân trần đầu trụi
 >
@@ -2149,7 +2149,7 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 >
 > Cùng ai chiếc gậy thầm kinh nhau kìa!
 
-#### 📣📣📣 Đứng trong núi
+#### 📣 Đứng trong núi
 
 > Chỉ hằng biết chiều chiều sớm sớm
 >
@@ -2159,7 +2159,7 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 >
 > Nộ cuồng thét tiếng vang trời đáp ngay.
 
-#### 📣📣📣 Ngồi trong núi
+#### 📣 Ngồi trong núi
 
 > Tu Di nọ một tòa ngồi dựa
 >
@@ -2169,7 +2169,7 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 >
 > Đem manh y rách khâu lần cho vui.
 
-#### 📣📣📣 Nằm trong núi
+#### 📣 Nằm trong núi
 
 > Bụng no nê đánh khò một giấc
 >
@@ -2181,7 +2181,7 @@ Tôi vỗ tay cười ha hả. Ông Tăng ấy mù tịt. Tôi làm bài kệ: �
 
 Phụ dịch âm chữ Hán:
 
-#### 📣📣📣 Sơn trung hành
+#### 📣 Sơn trung hành
 
 > Xích cước tiêm đầu điểu đạo bình
 >
@@ -2189,7 +2189,7 @@ Phụ dịch âm chữ Hán:
 >
 > Quy lai trượng tử ám tương kinh.
 
-#### 📣📣📣 Sơn trung trụ
+#### 📣 Sơn trung trụ
 
 > Chỉ thức tùng triêu hựu đáo mộ
 >
@@ -2197,7 +2197,7 @@ Phụ dịch âm chữ Hán:
 >
 > Vạn nhạc thiên phong nổ lực nộ.
 
-#### 📣📣📣 Sơn trung tọa
+#### 📣 Sơn trung tọa
 
 > Kháo thủ Tu Di na nhất tọa
 >
@@ -2205,7 +2205,7 @@ Phụ dịch âm chữ Hán:
 >
 > Thời bả nạp y dục bổ phá.
 
-#### 📣📣📣 Sơn trung ngoạ
+#### 📣 Sơn trung ngoạ
 
 > Bảo câu câu địa tiêu nhất cá
 >
