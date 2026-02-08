@@ -13,6 +13,7 @@ const postWidth = '1000';
 const momoQrSrc = "/images/qr/momo.jpg";
 const bankQrSrc = "/images/qr/vietinbank.jpg";
 const facebookPostSrc = "/images/qr/facebook-post.avif";
+const thanksFacebookCommentSrc = "/images/qr/thanks-facebook-comment.avif";
 
 const pagodasForOffering = [
     { title: 'Chùa Pháp Thành I', link: '/pagodas/chua-Phap-Thanh-I', description: 'Q.6', },
@@ -145,6 +146,12 @@ const pagodasForOffering = [
     <p class="donation-header-title">Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
     <section class="donation-section">
         <!-- Fallback -->
+        <div id="thanks-fb-comment" class="fb-fallback">
+            <h4 class="donation-header-title">LỜI NGỎ CẢM ƠN</h4>
+            <img src={thanksFacebookCommentSrc} alt={"LỜI NGỎ CẢM ƠN"} width="300" height="auto" />
+        </div>
+
+        <!-- Fallback -->
         <div id="fb-fallback" class="fb-fallback">
             <p>
                 Bài viết Facebook đang được tải.
@@ -153,7 +160,7 @@ const pagodasForOffering = [
                     <h3>xem trực tiếp tại Facebook</h3>
                 </a>.
             </p>
-            <img src={facebookPostSrc} alt={"Momo"} width="300" height="auto" />
+            <img src={facebookPostSrc} alt={"THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG"} width="300" height="auto" />
         </div>
 
         <!-- Facebook embed -->

@@ -81,7 +81,7 @@ const CnLv5MasterDb = [
     successors: ['Nanta Guangyong'],
     disciples: ['Nanta Guangyong', 'Wuzhu Wenxi', 'Xita Guangmu', 'Miaoxin', 'Wŏnnang Taet’ong', 'Sunji Yoo'],
     image: '/images/avatar.png',
-    reference: ['https://pl.wikipedia.org/wiki/Yangshan_Huiji'],
+    reference: ['https://pl.wikipedia.org/wiki/Yangshan_Huiji', 'https://www.youtube.com/watch?v=XX7OVf435jQ'],
   },
   {
     id: '38.5.5',

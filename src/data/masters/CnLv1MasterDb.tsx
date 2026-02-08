@@ -18,7 +18,7 @@ const CnLv1MasterDb = [
     successors: ['Shitou Xiqian'],
     disciples: ['Shitou Xiqian'],
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Qingyuan_Xingsi.jpg',
-    reference: [''],
+    reference: ['https://www.youtube.com/watch?v=Kuv6Uz0BvbY'],
     wiki: [''],
   },
   {

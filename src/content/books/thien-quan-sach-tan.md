@@ -335,11 +335,11 @@ Giả sử Đức Văn Thù phóng hào quang kim sắc đến xoa trên đảnh
 
 Hoàng đế Tống Hiếu Tôn hỏi: "Làm sao thoát khỏi vòng sanh tử?"
 
-Đáp: "Không ngộ Đạo Đại thừa trọn không thể thoát khỏi".
+📣 ĐÁP: "Không ngộ Đạo Đại thừa trọn không thể thoát khỏi".
 
 Hỏi: Làm sao được ngộ?
 
-Đáp: "Tánh bản hữu dùng năm tháng mài nó, sẽ được ngộ".
+📣 ĐÁP: "Tánh bản hữu dùng năm tháng mài nó, sẽ được ngộ".
 
 ### 28. Đoạn Ngạn Hòa thượng dạy Chúng
 

@@ -128,7 +128,8 @@ const CnLv3MasterDb = [
     disciples: ['Huangbo Xiyun', 'Guishan Lingyou', 'Baizhang Niepan / Fazheng', 'Guishan Da’an',
       'Wufeng Changguan', 'Guling Shencan', 'Guannan Daochang'],
     image: '/images/avatar.png',
-    reference: ['https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i' , 'https://terebess.hu/zen/baizhang.html'],
+    reference: ['https://vi.wikipedia.org/wiki/B%C3%A1ch_Tr%C6%B0%E1%BB%A3ng_Ho%C3%A0i_H%E1%BA%A3i' ,
+      'https://terebess.hu/zen/baizhang.html', 'https://www.youtube.com/watch?v=iUQ0Jc_3ZcU'],
   },
   {
     id: '36.3.7',

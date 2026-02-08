@@ -1263,7 +1263,7 @@ Thế Tôn muốn khiến cho thế tục tỏ lòng nhún thấp mới dạy l�
 
 Nếu không làm theo lý pháp ấy mà chỉ chấp trước cầu ngoài, trong ắt buông lung theo tham si, mãi gây nghiệp dữ, ngoài ắt nhọc nhằn thân tướng mà chẳng ích gì, đội lốt uy nghi, không thẹn với thánh, dối gạt với phàm, chẳng khỏi luân hồi, há thành công đức được sao?
 
-*
+***
 
 ❓: Như lời kinh nói: "Dốc lòng niệm Phật, chắc được vãng sanh qua cõi Cực Lạc phương Tây, chỉ cần theo một cửa ấy tức được thành Phật", sao còn nói quán tâm để cầu giải thoát là gì?
 
@@ -1424,23 +1424,37 @@ Bổn thể của Pháp vốn không tham lẫn, cho nên dù đem thân mạng 
 Kệ rằng:
 
 Ngoại tức chư duyên,
+
 Nội tâm vô đoạn.
+
 Tâm như tường bích,
+
 Khả dĩ nhập đạo.
+
 Minh Phật tâm tông,
+
 Đẳng vô sai ngộ.
+
 Hành giải tương ưng,
+
 Danh chi viết tổ.
 
 NGHĨA
 
 Ngoài bứt muôn duyên,
+
 Trong bặt nghĩ tưởng.
+
 Tâm như tường vách,
+
 Mới là vào đạo.
+
 Sáng Phật tâm tông, (4)
+
 Thảy không sai ngộ.
+
 Lấy hiểu hợp nhau,
+
 Ấy gọi là Tổ.
 
 ### GHI CHÚ
@@ -1462,9 +1476,13 @@ Lấy hiểu hợp nhau,
 
 Chỉ một chút phân biệt cân nhắc của tâm là tự nơi mình mọi hiện tượng đều là mộng cả. Nếu nhận biết tâm mình vốn tịch diệt, không đâu là chỗ niệm, đó gọi là chánh giác.
 
-Hỏi: Sao gọi là hiện lượng của tâm mình?
+❓ HỎI: 
 
-Đáp: Khi thấy các pháp lá "có": có, nhưng chẳng phải tự nó có, nhân suy lường nên cho là có.
+Sao gọi là hiện lượng của tâm mình?
+
+📣 ĐÁP:
+
+Khi thấy các pháp lá "có": có, nhưng chẳng phải tự nó có, nhân suy lường nên cho là có.
 Khi thấy các pháp là "không": không, nhưng chẳng phải tự nó không, nhân suy lường nên cho là không.
 Nói rộng ra thì tất cả đều như vậy cả, toàn do tâm mình suy lường ra mà cho là có, cho là không.
 Còn người nào trót gây đủ thứ tội mà tự thấy vị pháp vương của chính mình, tức được giải thoát.
@@ -1476,16 +1494,24 @@ Nếu đem pháp vào pháp giới, đó là người si.
 Hễ thấy có thi vi, rốt cũng không ra được tâm pháp giới.
 Tại sao vậy? Vì thể của tâm tức là pháp giới vậy.
 
-Hỏi: Người đời học hỏi đủ thứ, tại sao không được đạo?
+❓ HỎI:
 
-Đáp: Vì người ấy còn tự thấy mình nên không được đạo. "Mình" ấy tức "Ta" vậy.
+Người đời học hỏi đủ thứ, tại sao không được đạo?
+
+📣 ĐÁP:
+
+Vì người ấy còn tự thấy mình nên không được đạo. "Mình" ấy tức "Ta" vậy.
 
 Bậc chí nhân gặp khổ chẳng lo, gặp vui chẳng mừng, vì không thấy có mình trong đó. Sở dĩ không biết khổ vui, vì quên mất mình trong hư vô.
 Chính mình, mình còn quên, thì còn cái gì nữa mà chẳng quên được?
 
-Hỏi: Các pháp đã là không thì dựa vào gì mà tu đạo?
+❓ HỎI:
 
-Đáp: Nếu có dựa vào gì, thì cần tu đạo.
+Các pháp đã là không thì dựa vào gì mà tu đạo?
+
+📣 ĐÁP:
+
+Nếu có dựa vào gì, thì cần tu đạo.
 Nếu không có gì để dựa, tức chẳng cần tu đạo.
 "Cái gì" tức "cái ta". Nếu không có cái ta thì đối với sự vật chẳng sanh lòng phải quấy.
 
@@ -1588,7 +1614,7 @@ Hàng tiểu thừa mỗi mỗi đều hướng về định.
 Vượt lên cái lầm hiếu động của phàm phu và hiếu định ngồi thiền của tiểu thừa mới gọi là đại tọa thiền.
 Nếu có được sức lãnh hội ấy thì chẳng cần lìa mà tướng tướng tự cởi bỏ, chẳng cần trị mà bịnh bịnh tự trừ, ấy đều là định lực của phép đại thiền.
 
-*
+***
 
 Phàm đem tâm cầu pháp, ấy là mê.
 Chẳng đem tâm cầu pháp, ấy là ngộ.
@@ -1601,7 +1627,7 @@ Chẳng đối xử với vô minh gọi là trí huệ lớn.
 Chỗ không phiền não gọi là Bát Niết bàn.
 Chỗ không tướng gọi là bờ bên kia.
 
-*
+***
 
 Khi mê thì có bờ bên này.
 Khi ngộ thì không bờ bên này.
@@ -1610,18 +1636,18 @@ Tại sao vậy?
 - Vì giác được phép tối thượng thừa thì tâm chẳng trụ bên này cũng chẳng trụ bên kia, nên lìa được cả hai bờ bên này và bên kia.
   Nếu thấy bờ bên kia khác với bờ này, người ấy tâm chưa có thiền định.
 
-*
+***
 
 Phiền não gọi là chúng sanh.
 Tỏ ngộ gọi là Bồ đề.
 Đó chẳng phải giống nhau mà cũng chẳng phải khác nhau, chỉ vì mê ngộ mà cách biệt nhau.
 
-*
+***
 
 Khi mê thì thấy có thế gian cần thoát ra.
 Khi ngộ thì không có thế gian nào để thoát ra cả.
 
-*
+***
 
 Trong pháp bình đẳng chẳng thấy phàm khác với thánh.
 Kinh nói: Pháp bình đẳng ấy phàm phu không thể vào, bậc thánh cũng không thể hành được.
@@ -2052,9 +2078,13 @@ Ba cõi dấy lên cùng về một tâm.
 Phật trước Phật sau đều lấy tâm truyền qua tâm, chẳng lập văn tự.Ba cõi dấy lên cùng về một tâm.
 Phật trước Phật sau đều lấy tâm truyền qua tâm, chẳng lập văn tự.
 
-Hỏi: Nếu chẳng lập văn tự thì lấy gì làm tâm?
+❓ HỎI:
 
-📣 Đáp: Ngươi hỏi ta, tức đó là tâm ngươi.
+Nếu chẳng lập văn tự thì lấy gì làm tâm?
+
+📣 ĐÁP: 
+
+Ngươi hỏi ta, tức đó là tâm ngươi.
 
 Ta đáp ngươi, tức đó là tâm ta.
 Ta đáp ngươi, tức đó là tâm ta.
@@ -2131,13 +2161,19 @@ Ngoài Phật, không tánh nào có được.
 
 ***
 
-Hỏi: Nếu không thấy tánh thì niệm Phật, tụng kinh, bố thí, giữ giới, tinh tấn, rộng ban điều phước lợi có thành Phật được không?
+❓ HỎI:
 
-Đáp: Không được.
+Nếu không thấy tánh thì niệm Phật, tụng kinh, bố thí, giữ giới, tinh tấn, rộng ban điều phước lợi có thành Phật được không?
+
+Đáp:
+
+Không được.
 
 Lại hỏi: Sao không được?
 
-Đáp: Nếu có chút pháp nào chứng được thì đó là pháp hữu vi - pháp nhân quả, pháp thọ báo, pháp luân hồi. Không sáng tỏ lẽ sống chết, đời thuở nào thành được Phật đạo?
+📣 ĐÁP:
+
+Nếu có chút pháp nào chứng được thì đó là pháp hữu vi - pháp nhân quả, pháp thọ báo, pháp luân hồi. Không sáng tỏ lẽ sống chết, đời thuở nào thành được Phật đạo?
 
 Thành Phật cần thấy tánh.
 
@@ -2168,23 +2204,41 @@ Phật chẳng là Phật. Nếu không thấy được nghĩa ấy thì bất c
 
 ***
 
-Hỏi: Nếu trong bất kỳ lúc nào, bất cứ cử chỉ hành động nào cũng đều là tự tâm, sao trong khi mang sắc thân vô thường này tôi không thấy được bổn tâm?
+❓ HỎI:
 
-Đáp: Bổn tâm luôn ở trước mắt, tại ngươi không chịu thấy?
+Nếu trong bất kỳ lúc nào, bất cứ cử chỉ hành động nào cũng đều là tự tâm, sao trong khi mang sắc thân vô thường này tôi không thấy được bổn tâm?
 
-Hỏi: Tâm ở trước mất sao tôi không thấy?
+📣 ĐÁP:
 
-Sư hỏi: Ngươi thường nằm mộng chứ?
+Bổn tâm luôn ở trước mắt, tại ngươi không chịu thấy?
 
-Đáp: Thường nằm mộng.
+❓ HỎI:
 
-Hỏi: Trong khi ngươi nằm mộng thì đó là bổn thân ngươi chứ?
+Tâm ở trước mất sao tôi không thấy?
 
-Đáp: Đúng là bổn thân tôi.
+Sư hỏi:
 
-Lại hỏi: Lời nói và việc làm của ngươi trong lúc ấy có khác hay chẳng khác với chính ngươi?
+Ngươi thường nằm mộng chứ?
 
-Đáp: Chẳng khác.
+📣 ĐÁP:
+
+Thường nằm mộng.
+
+❓ HỎI:
+
+Trong khi ngươi nằm mộng thì đó là bổn thân ngươi chứ?
+
+📣 ĐÁP:
+
+Đúng là bổn thân tôi.
+
+❓ HỎI:
+
+Lời nói và việc làm của ngươi trong lúc ấy có khác hay chẳng khác với chính ngươi?
+
+📣 ĐÁP:
+
+Chẳng khác.
 
 Sư nói: Nếu chẳng khác thì thân ấy tức là pháp thân ngươi, pháp thân ấy tức là bổn tâm ngươi.
 
@@ -2248,7 +2302,9 @@ Nếu mống lòng thấy Phật, thấy pháp cùng các thứ tướng mạo c
 
 Hỏi: Tại sao không nên bái lạy chư Phật và Bồ tát?
 
-Đáp: Các loài thiên ma ba tuần, a tu la cũng có thể dùng phép thần thông tạo ra tướng mạo Bồ tát, biến hóa đủ cách, toàn là ngoại đạo, nào phải là Phật đâu.
+📣 ĐÁP:
+
+Các loài thiên ma ba tuần, a tu la cũng có thể dùng phép thần thông tạo ra tướng mạo Bồ tát, biến hóa đủ cách, toàn là ngoại đạo, nào phải là Phật đâu.
 Phật là tự tâm, chớ lầm bái lạy.
 Phật là tiếng của nước Tây Thiên Trúc (Ấn Độ), tại đây (Trung Quốc) gọi là giác tánh.
 Giác tức là linh giác: ứng đối với cơ duyên, tiếp xúc với sự vật (ứng cơ tiếp vật). Ngẩng mày nheo mắt, cử động tay chân, đều do tánh linh giác của chính mình.

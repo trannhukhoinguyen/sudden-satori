@@ -24,7 +24,7 @@ const CnLv58MasterDb = [
     disciples: ['Fohui Kuanyin'],
     image: '/images/avatar.png',
     reference: ['https://en.m.wikipedia.org/wiki/Xuyun', 'https://terebess.hu/zen/mesterek/Xuyun.html',
-      'https://www.dharmasite.net/HuVanHoaThuongHoaTruyen/bookcover.htm'],
+      'https://www.dharmasite.net/HuVanHoaThuongHoaTruyen/bookcover.htm', 'https://www.youtube.com/watch?v=XVfU8Xe2j6Y'],
   },
   {
     id: '91.58.2',

@@ -410,7 +410,10 @@ const CnLv0MasterDb = [
       'Qingyuan Xingsi', 'Shitou Xiqian', 'Nanyue Huairang', 'Biandan Xiaoliao', 'Hongzhou Fada', 'Jizhou Zhicheng'
     ],
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Huineng.jpg/220px-Huineng.jpg',
-    reference: [''],
+    reference: [
+      'https://www.youtube.com/watch?v=hl4CbBMRZFk', 'https://www.youtube.com/watch?v=TIbq1E3c3XQ',
+      'https://www.youtube.com/watch?v=QPKPRvGpb2A', 'https://www.youtube.com/watch?v=iDA_Guy5224',
+    ],
   },
   {
     id: '33.2',
