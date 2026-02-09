@@ -1946,7 +1946,8 @@ Nay thuật lời trong kinh Phật và lời của Tổ sư để ấn chứng 
 
 > Đệ nhất nghĩa đế chỉ là tâm. Vô vàn tướng bên ngoài, tất cả đều không có.
 > Kẻ phu kia chấp trước vào ác kiến, khi dối tự tha, không thấy rõ được chỗ trụ như thật của hết thảy các pháp.
-> Đại Huệ! Hết thảy các pháp như thật, ấy nghĩa là hay liễu đạt lý duy tâm sở hiện
+> Đại Huệ!
+> Hết thảy các pháp như thật, ấy nghĩa là hay liễu đạt lý duy tâm sở hiện
 
 📒 Kinh **Tứ Thập Nhị Chương** nói:
 

@@ -1157,7 +1157,7 @@ Hội Nguyên
 
 Thiền sư Hối Đường Tâm, trong thất, Ngài thường đưa nắm tay lên hỏi Tăng: “Nói là nắm tay thì phạm, chẳng nói là nắm tay thì trái, vậy nói là cái gì?
 
-Thiền sư Đại Huệ, trong thất, thường đưa cây trúc bề lên hỏi Tăng: “Nói là trúc bề thì phạm, chẳng nói là trúc bề thì trái, chẳng được nói, chẳng đưọc không nói. Nói mau! Nói mau!”
+Thiền sư Đại Huệ - trong thất, thường đưa cây trúc bề lên hỏi Tăng: “Nói là trúc bề thì phạm, chẳng nói là trúc bề thì trái, chẳng được nói, chẳng đưọc không nói. Nói mau! Nói mau!”
 
 Hòa thượng Hương Nghiêm dạy chúng:
 
