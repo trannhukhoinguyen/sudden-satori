@@ -337,7 +337,7 @@ Thế nào là căn bản? Năm giới là căn bản. Thế nào là đầu cu�
 Thuận là tùy thuận nét mặt và ý thích hợp lý của cha mẹ, làm những việc không trái ý cha mẹ. 
 Nếu có tâm hiếu thuận như thế, thì trên dưới hòa kính và cha mẹ an lòng.
 
-Đây là đạo hiếu kính tốt đẹp ở thế gian, cũng đâu có khác lẽ trời? Nếu lại thêm trì trai, giữ giới, niệm Phật, tham thiền, cầu pháp Đại thừa để liễu sinh thoát tử, thì thật là đại hiếu, đại thiện, thuộc về đạo xuất thế gian. Bốn ân đã báo 📢, ba cõi đã cứu giúp thì lo gì không báo 📢 công ơn cha mẹ một đời sao? Dưới đây giải thích năm giới phối hợp với năm thường. (Ngũ thường của Nho giáo)
+Đây là đạo hiếu kính tốt đẹp ở thế gian, cũng đâu có khác lẽ trời? Nếu lại thêm trì trai, giữ giới, niệm Phật, tham thiền, cầu pháp Đại thừa để liễu sinh thoát tử, thì thật là đại hiếu, đại thiện, thuộc về đạo xuất thế gian. Bốn ân đã báo 📢, ba cõi đã cứu giúp thì lo gì không báo 📢 công ơn cha mẹ một đời sao? Dưới ✅ <b>Đây giải thích</b> năm giới phối hợp với năm thường. (Ngũ thường của Nho giáo)
 
 ①. Không sát sinh nên gọi là nhân
 

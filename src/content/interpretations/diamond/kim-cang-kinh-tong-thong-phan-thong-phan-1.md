@@ -4710,7 +4710,7 @@ Hoá thân Phật đến đi Như Lai thường bất động Ở trong pháp gi
 
 Chẳng đống nhất, dị biệt.
 Từ câu Vì sao vậy?... đến... nên gọi là vi trần. Đây lấy vi trần dụ cho Ứng thân không có tánh dị biệt. Nếu biết nghiền nát thế giới ra thành vi trần, thì vi trần đều là thế giới, ắt vi trần là vô thật tánh, nên gọi là chẳng phải vi trần, chẳng phải thạt là vi trần. Lìa hẳn tánh kế chấp mà nói vi trần, thì đó là không vi trần, nên gọi là vi trần. Dụ nầy là hoàn toàn từ pháp thân khởi nên Ứng thân. Ứng thân tức là Pháp thân, làm sao còn có tánh dị biệt?
-Từ câu Thế Tôn! ... đến...phàm phu tham chấp nơi sự việc. Đây giải thích thế giới, dụ cho pháp thân chẳng phải là tánh đồng nhất. Nếu biết vi trần là
+Từ câu Thế Tôn! ... đến...phàm phu tham chấp nơi sự việc. ✅ <b>Đây giải thích</b> thế giới, dụ cho pháp thân chẳng phải là tánh đồng nhất. Nếu biết vi trần là
 
 thế giới, chẳng phải tuy từ đó mà khởi vi trần, đó là không vi trần, mà còn có thể khởi nên cả thế giới, đó là không thế giới. Khi thế giới toàn là vi trần, thì thế giới chẳng có thật tánh, nên gọi là phi thế giới. Lìa hẳn tánh kế chấp mà nói thế giới, thì đó là không vi trần, nên gọi là thế giới. Di-lặc Bồ- tát có kệ rằng:
 Thế giới tác vi trần Thử dụ thị bỉ nghĩa Vi trần toái vi mạt

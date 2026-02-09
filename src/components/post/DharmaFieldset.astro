@@ -1,11 +1,12 @@
 ---
 const {
-    explainTitle
+    title,
+    explainTitle,
 } = Astro.props;
 ---
 
 <fieldset style="margin-block: 8px">
-    <legend><h4>⚡️ KINH</h4></legend>
+    <legend><h4>⚡️ {title}</h4></legend>
     <div style="color: var(--color-accent-darkorange)">
         <slot />
     </div>
