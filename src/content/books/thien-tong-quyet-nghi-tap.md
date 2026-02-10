@@ -14,8 +14,7 @@ tags:
 image: /images/books/21-gates.jpg
 pdfUrls:
   - /pdfs/books/thien-tong-quyet-nghi-tap.pdf
-videoIds:
-  - AdqTRVVbjoo
+videoId: AdqTRVVbjoo
 showInHomepage: true
 ---
 
@@ -88,7 +87,7 @@ Lúc mới tu học, tôi đã trải qua nhiều gian nan, nhưng suy xét tậ
 Vào thời tráng niên khỏe mạnh, làm việc hơn người, công phu dõng mãnh, nhưng khó đạt đến chỗ rốt ráo. 
 Nay thật tình bảo cùng bạn đạo, phân tích nguyên do. Đạo do người hoằng truyền, không luận tăng hay tục.
 
-<b style="font-weight: 900; font-size: 2rem">⚡️⛩⚡️</b>
+<center>⚡️⛩⚡️</center>
 
 ## 2. Ly trần tinh tấn môn (Tinh tấn lìa trần)
 
@@ -117,7 +116,7 @@ Như chúng ta muốn cầu đạo vi diệu vô thượng để báo đền b�
 
 Hai ví dụ trên là muốn để cho người học tin sâu việc này, không được nghi ngờ, công phu thấu đáo mới có chỗ tương ưng; đồng thời lấy điều này làm qui tắc cho việc thực hiện công phu đắc lực.
 
-<b style="font-weight: 900; font-size: 2rem">⚡️⛩⚡️</b>
+<center>⚡️⛩⚡️</center>
 
 ## 3. Khước bộ phục thăng môn (Lùi bước rồi lại tiến)
 
@@ -133,7 +132,7 @@ Bấy giờ người ấy phấn chấn quyết chí tiến bước đến nơi,
 Việc thế gian đều như thế. Nay nêu ra ví dụ tiến, thoái này nhằm vào chỗ hạ thủ công phu không đắc lực khiến cho đắc lực. 
 Thật ra, sợ hàng hậu học đời sau nửa chừng chán bỏ, cho nên lấy việc này để khuyên gắng thêm!
 
-<b style="font-weight: 900; font-size: 2rem">⚡️⛩⚡️</b>
+<center>⚡️⛩⚡️</center>
 
 
 ## 4. Thối đọa sách lệ môn (Khuyến tấn khích lệ khi tâm thoái lui)
@@ -143,7 +142,7 @@ Sau đây nói rõ lại chữ “thoái” này khiến cho người học nh�
 
 Thoái là thoái tâm Bồ-đề, thoái tâm bền lâu, thoái tâm tinh tấn, không muốn lễ Phật, không muốn tu đạo, không muốn tham kiến thiện tri thức, không muốn thân gần bạn đạo, không muốn đề khởi thoại đầu, chỉ thích nhàn rỗi buông lung. Nếu khi niệm thoái này phát khởi (là do dụng tâm quá độ, hoặc là nghiệp chướng sâu dày, căn lành yếu kém) thì chúng ta phải luôn luôn đến trước tượng Phật, bồ-tát chí thành đảnh lễ, đốt một nén hương, tỏ bày tội lỗi, cầu xin sám hối, rồi dõng mãnh đề khởi thoại đầu. Niệm này như nước sôi làm tan băng giá. Bấy giờ chỉ thuần một niệm tịnh, người học cần phải biết rõ. Khi tôi mới gặp niệm thoái này, liền đốt hương tỏ bày sám hối, cầu Phật thương xót phù hộ, rồi liền đề khởi thoại đầu, niệm thoái này lập tức tiêu diệt. Đây là việc tôi đã trải nghiệm, xin ghi ra đây để sách tấn hàng hậu học.
 
-<b style="font-weight: 900; font-size: 2rem">⚡️⛩⚡️</b>
+<center>⚡️⛩⚡️</center>
 
 ## 5. Giải đãi khích lệ môn (Khuyên người giải đãi nên siêng năng)
 
@@ -158,7 +157,7 @@ Tôi để tâm vào câu thoại đầu, quyết khởi nghi tình, không cầ
 Một khi nghi tình phát khởi, niệm này liền tiêu. 
 Những điều đã nói ở trên, đều không vì mục đích nào khác, chỉ nhằm quyết đoán chỗ hạ thủ công phu cho người học, để tâm thanh tịnh, hoạt bát không có một niệm nào khác, bỏ hết những điều hiểu biết trước kia, từ học ❓, từ lời Phật dạy, lời Tổ nói, lời Bách gia chư tử[^6], ngay lúc ấy tình thức bít kín, tâm thánh phàm dứt bặt. Đến đây tham thoại đầu, hoặc tham chữ “không” (vô), hoặc đề cử câu: “Muôn pháp về một, một về chỗ nào” đều được. Một khi đảm đương thì phải phấn chấn, ra sức tiến thẳng đến trước, không quay đầu lại, về đến tận nhà, ngồi an ổn, mới là lúc an lạc thật sự.
 
-<b style="font-weight: 900; font-size: 2rem">⚡️⛩⚡️</b>
+<center>⚡️⛩⚡️</center>
 
 ## 6. Chấp ngại quyết nghi môn (Khuyên người chấp trước nên khởi nghi tình)
 
@@ -180,7 +179,7 @@ Thí như những người có nghệ thuật tinh xảo ở thế gian, chưa a
 Một chữ nghi này là tâm suy nghĩ dụng mưu, nghĩa đồng nhưng tên lại khác. 
 Như trong hội Lăng-nghiêm, hai mươi lăm hành giả [^9] được viên thông, mỗi vị đều có nghi, nên mới chứng ngộ, việc này ai cũng biết, chẳng cần giải thích rõ.
 
-<b style="font-weight: 900; font-size: 2rem">⚡️⛩⚡️</b>
+<center>⚡️⛩⚡️</center>
 
 
 ## 7. Thất chính cứu cánh môn (Cứu cánh sai lầm)
@@ -462,7 +461,7 @@ Tôi khắc cốt ghi tâm, đến nay không dám quên.
 Những lời dặn dò việc đời, răn nhắc công phu, chi tiết từng điều có thứ tự, nếu ghi chép hết lời nhỏ nhặt ra thì rất nhiều. 
 Ở đây, lược ghi vào cuối sách này vậy.
 
-<b style="font-weight: 900; font-size: 2rem">⚡️⛩⚡️</b>
+<center>⚡️⛩⚡️</center>
 
 ## 21. Phục trừng giải nọa, chỉ cảnh, tức mê (Lại răn nhắc sự giải đãi, dừng cảnh, dứt mê)
 
