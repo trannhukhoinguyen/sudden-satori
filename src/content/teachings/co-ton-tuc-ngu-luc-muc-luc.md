@@ -10,7 +10,7 @@ tags:
 
 ## GIỚI THiỆU
 
-Cổ Tôn Túc Ngữ Yếu
+### Cổ Tôn Túc Ngữ Yếu
 
 (古尊宿語要, Kosonshukugoyō): 4 quyển, do Trách Tàng Chủ (賾藏主, tức Tăng Đĩnh Thủ Trách [僧挺守賾]) biên tập. 
 
@@ -18,14 +18,14 @@ Từ thời nhà Đường cho đến thời nhà Tống, ngoài việc truyền
 
 Nội dung của nó gồm các Ngữ Lục của 20 bậc Thiền tượng kiệt xuất được thâu tóm trong 4 quyển:
 
-Quyển I có
+### Quyển I
 
 (1) Trì Châu Nam Tuyền Phổ Nguyện Hòa Thượng Ngữ Lục (池州南泉普願和尚語錄, Chishūnanzenoshōgoroku) của Nam Tuyền Phổ Nguyện (南泉普願),
 (2) Đầu Tử Hòa Thượng Ngữ Lục (投子和尚語錄, Tōsuoshōgoroku) của Đầu Tử Đại Đồng (投子大同),
 (3) Mục Châu Hòa Thượng Ngữ Lục (睦州和尚語錄, Bokushūoshōgoroku) của Mục Châu Đạo Túng (睦州道蹤),
 (4) Triệu Châu Chơn Tế Thiền Sư Ngữ Lục (趙州眞濟禪師語錄, Jōshūshinzaizenjigoroku) của Triệu Châu Tùng Thẩm (趙州從諗);
 
-Quyển II có
+### Quyển II
 
 (5) Nhữ Châu Nam Viện Ngung Hòa Thượng Ngữ Lục (汝州南院顒和尚語錄, Joshūnaningyōoshōgoroku) của Nam Viện Huệ Ngung (南院慧顒),
 (6) Nhữ Châu Thủ Sơn Niệm Hòa Thượng Ngữ Lục (汝州首山念和尚語錄, Joshūshuzannenoshōgoroku) của Thủ Sơn Tỉnh Niệm (首山省念),
@@ -34,7 +34,7 @@ Quyển II có
 (9) Bính Châu Thừa Thiên Tung Thiền Sư Ngữ (幷州承天嵩禪師語, Benshūshōtensūzenjigo) của Thừa Thiên Trí Tung (承天智嵩),
 (10) Thạch Môn Sơn Từ Chiếu Thiền Sư Phụng Nham Tập (石門山慈照禪師鳳巖集, Sekimonzanjishōzenjihōganshū) của Cốc Ẩn Uẩn Thông (谷隱蘊聰);
 
-Quyển III có
+### Quyển III
 
 (11) Thư Châu Pháp Hoa Sơn Cử Hòa Thượng Ngữ Yếu (舒州法華山擧和尚語要, Joshūhokkezankyooshōgoroku) của Pháp Hoa Toàn Cử (華山全擧),
 (12) Quân Châu Đại Ngu Chi Hòa Thượng Ngữ Lục (筠州大愚芝和尚語錄, Kinshūdaigushioshōgoyō) của Đại Ngu Thủ Chi (大愚守芝),
@@ -43,7 +43,7 @@ Quyển III có
 (15) Đàm Châu Đạo Ngô Chơn Thiền Sư Ngữ Yếu (潭州道吾眞禪師語要, Tanshūdōgoshinzenjigoyō) của Đạo Ngô Ngộ Chơn (道吾悟眞),
 (16) Đại Tùy Thần Chiếu Thiền Sư Ngữ Yếu (大隨神照禪師語要, Daizuishinshōzenjigoyō) của Đại Tùy Pháp Chơn (大隨法眞);
 
-Quyển IV có
+### Quyển IV
 
 (17) Tử Hồ Sơn Đệ Nhất Đại Thần Lực Thiền Sư Ngữ Lục (子湖第一代神力禪師語錄, Shikozandaiichidaijinrikizenjigoroku) của Tử Hồ Lợi Túng (子湖利蹤),
 (18) Cổ Sơn Tiên Hưng Thánh Quốc Sư Hòa Thượng Pháp Đường Huyền Yếu Quảng Tập (鼓山興聖國師和尚法堂玄要廣集, Kuzanzenkōshōkokuoshōhottōgenyōkōshū) của Cổ Sơn Thần Yến (鼓山神晏),
@@ -62,7 +62,9 @@ Bản nhà Tống (tức bản trùng san của Giác Tâm) có truyền bản c
 
 <hr class="blog-rule" />
 
-Cổ Tôn Túc Ngữ Lục có nghĩa là:
+### Cổ Tôn Túc Ngữ Lục 
+
+có nghĩa là:
 
 (古尊宿語錄, Kosonshukugoroku): 48 quyển, do **Tăng Đĩnh Thủ Trách** (僧挺守賾) nhà Tống biên tập, san hành vào năm thứ 45 (1617) niên hiệu Vạn Lịch (萬曆). Bộ Cổ Tôn Túc Ngữ Yếu (古尊宿語要) 4 quyển được cư sĩ Giác Tâm (覺心) tái san hành vào năm thứ 3 (1267) niên hiệu Hàm Thuần (咸淳). 
 
@@ -116,85 +118,81 @@ Dường như ông có ý muốn thâu tập cho được 100 Ngữ Lục, nhưn
 
 ### QUYỂN 10: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-10)
 
-### QUYỂN 11: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-5)
+### QUYỂN 11: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-11)
 
-### QUYỂN 12: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-6)
+### QUYỂN 12: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-12)
 
-### QUYỂN 13: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-1)
+### QUYỂN 13: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-13)
 
-### QUYỂN 14: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-2)
+### QUYỂN 14: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-14)
 
-### QUYỂN 15: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 15: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-15)
 
-### QUYỂN 16: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-4)
+### QUYỂN 16: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-16)
 
-### QUYỂN 17: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-5)
+### QUYỂN 17: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-17)
 
-### QUYỂN 18: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-6)
+### QUYỂN 18: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-18)
 
-### QUYỂN 19: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-1)
+### QUYỂN 19: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-19)
 
-### QUYỂN 20: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-2)
+### QUYỂN 20: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-20)
 
-### QUYỂN 21: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 21: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-21)
 
-### QUYỂN 22: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 22: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-22)
 
-### QUYỂN 23: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-4)
+### QUYỂN 23: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-23)
 
-### QUYỂN 24: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-5)
+### QUYỂN 24: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-24)
 
-### QUYỂN 25: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-6)
+### QUYỂN 25: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-25)
 
-### QUYỂN 26: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-1)
+### QUYỂN 26: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-26)
 
-### QUYỂN 27: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-2)
+### QUYỂN 27: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-27)
 
-### QUYỂN 28: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 28: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-28)
 
-### QUYỂN 29: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-4)
+### QUYỂN 29: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-29)
 
-### QUYỂN 30: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-5)
+### QUYỂN 30: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-30)
 
-### QUYỂN 6: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-6)
+### QUYỂN 31: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-31)
 
-### QUYỂN 7: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-1)
+### QUYỂN 32: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-32)
 
-### QUYỂN 8: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-2)
+### QUYỂN 33: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-33)
 
-### QUYỂN 9: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 34: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-34)
 
-### QUYỂN 10: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-4)
+### QUYỂN 35: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-35)
 
-### QUYỂN 11: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-5)
+### QUYỂN 36: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-36)
 
-### QUYỂN 12: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-6)
+### QUYỂN 37: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-37)
 
-### QUYỂN 13: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-1)
+### QUYỂN 38: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-38)
 
-### QUYỂN 14: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-2)
+### QUYỂN 39: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-39)
 
-### QUYỂN 15: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 40: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-40)
 
-### QUYỂN 16: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-4)
+### QUYỂN 41: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-41)
 
-### QUYỂN 17: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-5)
+### QUYỂN 42: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-42)
 
-### QUYỂN 18: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-6)
+### QUYỂN 43: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-43)
 
-### QUYỂN 19: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-1)
+### QUYỂN 44: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-44)
 
-### QUYỂN 20: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-2)
+### QUYỂN 45: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-45)
 
-### QUYỂN 21: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 46: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-46)
 
-### QUYỂN 22: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-3)
+### QUYỂN 47: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-47)
 
-### QUYỂN 23: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-4)
-
-### QUYỂN 24: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-5)
-
-### QUYỂN 50: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-6)
+### QUYỂN 48: [🔗](/teachings/co-ton-tuc-ngu-luc-quyen-48)
 
 <hr class="blog-rule" />
 
