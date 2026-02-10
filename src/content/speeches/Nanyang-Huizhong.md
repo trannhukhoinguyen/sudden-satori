@@ -336,7 +336,7 @@ Sư nạt: Dã hồ tinh! Tha tâm thông ở chỗ nào?
 
 Tam Tạng lặng câm. [^1]
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Một hôm, Sư gọi: Thị giả!
 
@@ -346,7 +346,7 @@ Sư gọi như thế ba lần, thị giả cũng dạ ba lần.
 
 Sư bảo: Tưởng là ta cô phụ ngươi, nào ngờ ngươi cô phụ ta.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Nam Tuyền đến tham vấn, Sư hỏi: Ở đâu đến?
 
@@ -360,7 +360,7 @@ Sư bảo: Cái sau lưng.
 
 Nam Tuyền bèn lui ra.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Ma Cốc đến tham vấn, đi nhiễu quanh giường thiền của Sư ba vòng, rồi chống tích trượng đứng trước Sư.
 
@@ -370,7 +370,7 @@ Ma Cốc lại chống tích trượng.
 
 Sư nạt: Dã hồ tinh! Đi ra!
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Sư thường dạy chúng: Người học Thiền tông nên theo lời Phật, lấy Nhất thừa liễu nghĩa khế hợp với nguồn tâm của mình, kinh không liễu nghĩa chẳng nên phối hợp. 
 
@@ -411,12 +411,12 @@ Tăng thưa: Ngồi thiền quán tịnh là làm gì?
 
 Sư bảo: Chẳng cấu chẳng tịnh, đâu cần khởi tâm quán tướng tịnh.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Tăng hỏi: Thiền sư thấy mười phương hư không là Pháp thân chăng?
 Sư bảo: Lấy tâm tưởng nhận, đó là thấy điên đảo.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Tăng hỏi: Tâm tức là Phật, lại cần tu vạn hạnh chăng?
 
@@ -425,7 +425,7 @@ Sư bảo: Chư Thánh đều đủ hai thứ trang nghiêm (phước tuệ) đ�
 Sư lại nói: Nay tôi đáp những câu hỏi của ông cùng kiếp không hết, nói nhiều cách đạo càng xa. 
 Cho nên nói: “Thuyết pháp có sở đắc, đây là dã can kêu; thuyết pháp không sở đắc, ấy gọi là sư tử rống.”
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Có người cư sĩ ở Nam Dương tên Trương Phần đến hỏi: Được nghe Hòa thượng nói “vô tình thuyết pháp”, con chưa hiểu được ý này, xin Hòa thượng từ bi chỉ dạy.
 
@@ -436,7 +436,7 @@ Trương Phần thưa: Chỉ nhằm hiện nay trong phương tiện của hữu
 Sư bảo: Hiện nay trong tất cả động dụng, nhưng hai dòng phàm thánh trọn không có ít phần khởi diệt, là ra khỏi thức, không thuộc có không, rõ ràng thấy giác, chỉ nghe không có tình thức buộc chấp kia. 
 Sở dĩ, Lục Tổ nói: “Sáu căn đối cảnh phân biệt mà không phải thức.”
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Có vị tăng đến tham lễ.
 
@@ -452,7 +452,7 @@ Sư bảo: Là gì?
 
 Tăng không đáp được.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Có người hỏi Sư: Thế nào là giải thoát?
 
@@ -462,7 +462,7 @@ Thưa: Làm sao đoạn được?
 
 Sư bảo: Đã nói với ông các pháp không đến nhau, đoạn cái gì?
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Vua Túc Tông hỏi: Thầy được pháp gì?
 
@@ -504,7 +504,7 @@ Ngư Quân Dung hỏi: Thầy ở núi Bạch Nhai, trong mười hai giờ tu t
 
 Sư gọi một đứa trẻ đến, vò đầu nó, bảo: Tỉnh tỉnh hẳn vậy tỉnh tỉnh. Rõ ràng hẳn vậy rõ ràng. Về sau chớ bị người gạt.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Sư cùng Tử Lân Cung Phụng luận nghĩa. Sư thăng tòa, Cung Phụng hỏi: Thỉnh Thầy lập nghĩa, đệ tử phá.
 
@@ -515,7 +515,7 @@ Cung Phụng thưa: Là nghĩa gì?
 Sư bảo: Quả nhiên chẳng thấy, chẳng phải cảnh giới của ông.
 Liền hạ tòa.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Một hôm, Sư hỏi Tử Lân Cung Phụng: Phật là nghĩa gì?
 
@@ -537,7 +537,7 @@ Phụng thưa: Hư không đâu thể đem được!
 
 Sư bảo: Hư không còn không thể đem được, hỏi thật tướng làm gì?
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Sư thấy duyên quá độ sắp mãn, giờ Niết-bàn sắp đến, bèn từ giã vua Đại Tông trở về núi.
 
@@ -605,13 +605,13 @@ Tăng thưa: **Chỗ nào là chỗ con đi vào con đường tà?**
 
 Sư bảo: **Không nghe trong kinh nói, nếu lấy sắc thấy ta, lấy âm thanh cầu ta, người này hành đạo tà, không thể thấy Như Lai.**
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Sư thấy tăng đến, đưa tay vẽ vòng tròn, trong đó viết một chữ nhật. 
 
 Tăng không đáp được.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Sư hỏi thiền sư Bổn Tịnh: **Ông về sau thấy lời kỳ đặc, thế nào là tịnh?**
 
@@ -619,7 +619,7 @@ Thiền sư Bổn Tịnh đáp: **Không một niệm ái tâm.**
 
 Sư bảo: **Là việc trong nhà của ông.**
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Tăng hỏi: **Thế nào là đại ý Phật pháp?**
 

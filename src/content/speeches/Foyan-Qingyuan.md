@@ -1109,7 +1109,7 @@ Chúng đi tuần đường xong, Sư lại bảo: Có người nào hội chăn
 Lại nói: Hội được chăng?
 Chúng không đáp. Sư nói: Kẻ si! Kẻ si!
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Di thư của Hòa thượng Tử Tâm ở Hoàng Long đưa đến, Sư thượng đường, nói:
 

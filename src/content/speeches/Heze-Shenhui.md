@@ -14,9 +14,9 @@ videoId: aHyr9N0ykwM
 
 [^1]
 
-📝 Hiệu đính bởi:  ****Suzuki Teitarō** 鈴木貞太郎** - **Kōda Rentarō** 公田連太郎
+📝 Hiệu đính bởi:  <center>⚙️⚙️⚙️</center>*Suzuki Teitarō** 鈴木貞太郎** - **Kōda Rentarō** 公田連太郎
 
-📝 Dịch bởi: ****Như Hạnh****
+📝 Dịch bởi: <center>⚙️⚙️⚙️</center>*Như Hạnh<center>⚙️⚙️⚙️</center>*
 
 ### GIỚI THIỆU
 

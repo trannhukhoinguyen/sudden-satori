@@ -1084,7 +1084,7 @@ Sư đáp: Ông rất hiểu
 
 Tăng hỏi: Từ xa lần theo tâm tiếng mà đến, thỉnh sư tiếp nhận.
 
-***
+<center>⚙️⚙️⚙️</center>
 
 
 

@@ -544,7 +544,7 @@ vô hình vô bản diệc vô danh nhật dụng khu khu bất tạm đình đ�
 bất thức túng hoành tự tại chuyển phân minh quyền thời lai kí quân gia trạch vạn chủng thiên
 ban thị sự năng nhận thủ đương lai chân bản tính nhất thời phao khí sự giai hành
 
-***
+<center>⚙️⚙️⚙️</center>
 
 âu mân cổ sơn tiên hưng thánh quốc sư hòa thượng pháp đường huyền yếu quảng tập tự
 phu thích ca tây hiện trương giáo võng ư đa môn đạt ma đông lai chỉ nhân tâm ư kính
@@ -1114,7 +1114,7 @@ vô hình vô bản diệc vô danh nhật dụng khu khu bất tạm đình đ�
 bất thức túng hoành tự tại chuyển phân minh quyền thời lai kí quân gia trạch vạn chủng thiên
 ban thị sự năng nhận thủ đương lai chân bản tính nhất thời phao khí sự giai hành
 
-***
+<center>⚙️⚙️⚙️</center>
 
 âu mân cổ sơn tiên hưng thánh quốc sư hòa thượng pháp đường huyền yếu quảng tập tự
 phu thích ca tây hiện trương giáo võng ư đa môn đạt ma đông lai chỉ nhân tâm ư kính
@@ -1473,7 +1473,7 @@ tụng
 chúng thủ đào kim đắc giả thùy tiêm trần trất ngại khởi năng vi hồng ba hạo miểu hoàng kim
 viễn nhất sự vô thành không thủ quy
 
-***
+<center>⚙️⚙️⚙️</center>
 
 trí môn tộ thiền sư ngữ lục tự
 lợi sinh cơ yếu xả bi trí vô dĩ lập ngôn sướng đạo quỹ vi tồn trung hạ vô dĩ

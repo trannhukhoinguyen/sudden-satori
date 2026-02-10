@@ -996,7 +996,7 @@ hoặc thời vân mỗ giáp tắc bất nhẫm ma đạo hựu vân hòa thư�
 giả kích dương huyền cực dã bất tại đa tấn ngữ tam lưỡng chuyển nhi dĩ quý đắc sinh nhân
 tín bất chí lưu đãng thủ tiếu tục tử dã
 
-***
+<center>⚙️⚙️⚙️</center>
 
 phật nhãn thiền sư ngữ lục tự
 phật nhãn lão sư tự đắc pháp đông sơn tam toạ đạo trường nhị thập dư niên hành tổ linh
@@ -1362,7 +1362,7 @@ sư tịnh bất thụ kinh thất nhật hậu sư tự quắc khẩu linh chí
 cổ giá lưỡng phiến bì chí kim vô nhân y đắc lão tăng khẩu ư thị trai tiền thăng tòa
 từ chúng nghiễm nhiên đoan toạ cáo chung
 
-***
+<center>⚙️⚙️⚙️</center>
 
 đại tùy khai sơn thần chiếu thiền sư ngữ lục tự khai phong quách ngưng thuật
 nguyên đức thượng nhân tự thục khế đại tùy lão lục dục khánh nang tư lũ bản ư hàng quảng
@@ -1741,7 +1741,7 @@ sư vân mạc lạc không phủ vi vân chân không bất không thuý vi h�
 sấm hĩ phật lí hà tằng lí chân không hữu bất không đại đồng cư tịch trụ phu diễn ngã
 sư tông
 
-***
+<center>⚙️⚙️⚙️</center>
 
 đầu tử hòa thượng ngữ lục tự sơn dã tẩu cư tố thuật
 đầu tử hòa thượng vương hoá thư châu đồng thành đầu tử sơn tịch trụ viện sư sơ sâm thuý

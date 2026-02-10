@@ -33,7 +33,7 @@ Bố Nạp hỏi: **Chẳng thọ thực là đọa gì?**
 
 Sư đáp: **Là Tôn quí đọa**
 
-***
+<center>⚙️⚙️⚙️</center>
 
 Có vị tăng hỏi Sư về yếu chỉ của Ngũ vị quân thần, Sư trả lời:
 

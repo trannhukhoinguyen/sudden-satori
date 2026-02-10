@@ -760,7 +760,7 @@ giả quan chi hữu hạ hĩ
 sư xuyên thử tự túc dĩ tiêu bảng thử lục hĩ lão hủ bất khả canh trùng thuyết kệ
 ngôn dã cụ trạch pháp nhãn nhân nhất nhất ban thủ hồ hải lữ cần vân
 
-***
+<center>⚙️⚙️⚙️</center>
 
 thư châu long môn phật nhãn hòa thượng ngữ lục
 trụ nam khang vân cư tự pháp thiện ngộ biên
