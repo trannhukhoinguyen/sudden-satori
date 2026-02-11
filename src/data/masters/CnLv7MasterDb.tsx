@@ -244,7 +244,7 @@ const CnLv7MasterDb = [
   {
     id: '40.7.12',
     name_en: 'Gushan Shenyan',
-    name_ja: 'Gushan Shenyan',
+    name_ja: '',
     name_zh: '鼓山神晏',
     name_vi: 'Cổ Sơn Thần Án',
     other_name_vi: 'Cổ Sơn Thần Yến',
