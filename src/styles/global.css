@@ -278,11 +278,11 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: var(--font-heading-primary), serif;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   font-weight: 700;
   line-height: 1.3;
   letter-spacing: 0.15em;
-  margin-bottom: calc(var(--grid-unit) * 12);
+  margin-bottom: calc(var(--grid-unit) * 4);
 }
 
 h2 {
@@ -291,6 +291,7 @@ h2 {
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: 0.1em;
+  color: var(--color-accent-orange);
 }
 
 h3 {

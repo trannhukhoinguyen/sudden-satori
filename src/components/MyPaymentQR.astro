@@ -10,8 +10,8 @@ interface Props {
 const { facebookPostUrl } = Astro.props;
 const postWidth = '1000';
 
-const momoQrSrc = "/images/offering/momo.jpg";
-const bankQrSrc = "/images/offering/vietinbank.jpg";
+const momoQrSrc = "/images/offering/momo.avif";
+const bankQrSrc = "/images/offering/vietinbank.avif";
 const facebookPostSrc = "/images/offering/facebook-post.avif";
 const thanksFacebookCommentSrc = "/images/offering/thanks-facebook-comment.avif";
 
@@ -63,8 +63,13 @@ const pagodasForOffering = [
             float: right;
         }
 
-        img {
-            width: 200px;        /* hoặc 120px / 160px tùy bạn */
+        img .w-full {
+            width: 100%;
+            height: auto;
+        }
+
+        img .w-250 {
+            width: 250px;        /* hoặc 120px / 160px tùy bạn */
             height: auto;
             max-width: 100%;
         }
@@ -146,9 +151,9 @@ const pagodasForOffering = [
     <p class="donation-header-title">Các bạn có thể xem thông báo chính thức từ chùa tại bài đăng bên dưới.</p>
     <section class="donation-section">
         <!-- Fallback -->
-        <div id="thanks-fb-comment" class="fb-fallback">
-            <h4 class="donation-header-title">LỜI NGỎ CẢM ƠN</h4>
-            <img src={thanksFacebookCommentSrc} alt={"LỜI NGỎ CẢM ƠN"} width="300" height="auto" />
+        <div id="fb-post" class="fb-fallback">
+            <h4 class="donation-header-title">THÔNG BÁO</h4>
+            <img class="w-full" src={facebookPostSrc} alt={"THÔNG BÁO"} />
         </div>
 
         <!-- Fallback -->
@@ -160,15 +165,12 @@ const pagodasForOffering = [
                     <h3>xem trực tiếp tại Facebook</h3>
                 </a>.
             </p>
-            <img src={facebookPostSrc} alt={"THÔNG TIN NƠI TIẾP NHẬN CÚNG DƯỜNG"} width="300" height="auto" />
         </div>
-
-        <!-- Facebook embed -->
-        <div
-                class="fb-post"
-                data-href={facebookPostUrl}
-                data-show-text="true"
-        ></div>
+        <!-- Fallback -->
+        <div id="thanks-fb-comment" class="fb-fallback">
+            <h4 class="donation-header-title">LỜI NGỎ CẢM ƠN</h4>
+            <img class="w-full" src={thanksFacebookCommentSrc} alt={"LỜI NGỎ CẢM ƠN"} />
+        </div>
     </section>
 </div>
 
@@ -218,8 +220,8 @@ const pagodasForOffering = [
 
     <div class="my-qr-image-area">
         <h4>HOẶC</h4>
-        <img src={momoQrSrc} alt={"Momo"} width="auto" height="50" />
-        <img src={bankQrSrc} alt={"Vietinbank"} width="auto" height="50" />
+        <img class="w-250" src={momoQrSrc} alt={"Momo"} width="300" />
+        <img class="w-250" src={bankQrSrc} alt={"Vietinbank"} width="300" />
     </div>
 
     <h3 class="thank-you-message">XIN CHÂN THÀNH CẢM ƠN!</h3>
@@ -248,7 +250,7 @@ const pagodasForOffering = [
             const amount = Number(amountInput.value)
             if (!amount || amount <= 0) return
 
-            const momoQR = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=momo://?phone=${paymentQRProps.momoPhone}&amount=${amount}`
+            const momoQR = `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=momo://?phone=${paymentQRProps.momoPhone}&amount=${amount}`
 
             const bankQR = `https://img.vietqr.io/image/${paymentQRProps.bankCode}-${paymentQRProps.bankAccount}-qr_only.png?amount=${amount}&addInfo=Thanh%20toan`
 
