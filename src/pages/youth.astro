@@ -1,21 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import rules from '@/data/rules.ts';
-import principles from '@/data/principles.ts';
-import PostTags from "../components/post/PostTags.astro";
-import PostImage from "../components/post/PostImage.astro";
-import { CONTENT_MAP } from "@/utils/getMarkdownContent";
-import { toKebabCase } from "@/utils/helper";
-import Hero from "../components/ui/Hero.astro";
-import BioWithImage from "../components/ui/BioWithImage.astro";
 import HtmlBlocks from "../components/ui/HtmlBlocks.astro";
-import HTTDL from "../components/htmlData/HTTDL.astro";
-import ZEN_GATE_ENCOURAGE from "../components/htmlData/ZEN_GATE_ENCOURAGE.astro";
-import LANKA_SUTRA_IMPORTANCE from "../components/htmlData/LANKA_SUTRA_IMPORTANCE.astro";
-import InstallPWA from "../components/ui/InstallPWA.astro";
-import PWAPopup from "../components/ui/PWAPopup.astro";
+import ZEN_AND_YOUTH from "../components/htmlData/ZEN_AND_YOUTH.astro";
 
-const maxQuantity = 6;
 const tagLine0 = "Chẳng cùng muôn pháp làm bạn là người gì?";
 const tagLine1 = "Khi chưa có trời đất, ta là cái gì?";
 const tagLine2 = "Muôn pháp về một, một về chỗ nào?";
@@ -23,41 +10,7 @@ const tagLine3 = "Trước khi cha mẹ chưa sanh, mặt mũi bổn lai của t
 const tagLine4 = "Sanh từ đâu đến, chết đi về đâu?";
 const tagLine5 = "Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì?";
 
-const blogPosts = CONTENT_MAP['blogs'].posts
-  ?.slice(0, maxQuantity)
-  ?.map(post => {
-    const { frontmatter } = post as any;
-
-    return {
-      title: frontmatter?.title,
-      frontmatter,
-      slug: '/blogs/' + toKebabCase(frontmatter?.title),
-    }
-});
-const bookPosts = CONTENT_MAP['books'].posts
-  ?.filter(post => post.frontmatter.showInHomepage)
-  ?.map(post => {
-    const { frontmatter } = post as any;
-
-    return {
-      title: frontmatter?.title,
-      frontmatter,
-      slug: '/books/' + toKebabCase(frontmatter?.title),
-    }
-});
-const practicePosts = CONTENT_MAP['practices'].posts
-  ?.filter(post => post.frontmatter.showInHomepage)
-  ?.map(post => {
-    const { frontmatter } = post as any;
-
-    return {
-      title: frontmatter?.title,
-      frontmatter,
-      slug: '/practices/' + toKebabCase(frontmatter?.title),
-    }
-});
-
-const title = "Trang chủ";
+const title = "Tổ Sư Thiền và Tuổi Trẻ";
 const description = "Xem " + title;
 ---
 
@@ -68,188 +21,11 @@ const description = "Xem " + title;
 >
   <div class="landing-page">
 
-    <!-- Hero Section -->
-    <Hero
-      title="TỔ SƯ THIỀN"
-      subTitle="Tham Thoại Đầu - Khởi Nghi Tình"
-      description="Kiến tánh thành Phật"
-      actions={[
-        {
-          href: "/faqs",
-          text: "Hỏi Đáp với Hòa thượng Thích Duy Lực",
-          class: "btn-secondary",
-        },
-        {
-          href: "/practices",
-          text: "Thực Hành",
-          class: "btn-third",
-        },
-        {
-          href: "#rules",
-          text: "Chú Ý",
-          class: "btn-primary",
-        },
-      ]}
-    />
-
-    <!-- Image Section -->
-    <section class="image-area">
-      <PostImage imageUrl={'/images/backgrounds/Buddha-zen.jpg'} imageAlt={'Thiền định của Phật - Tổ Sư Thiền'} />
-      <p class="blog-description tag-line-accent">{tagLine0}</p>
-    </section>
-
-    <hr class="blog-rule" />
-
-    <!-- BioWithImage Section -->
-    <BioWithImage
-      src= "/images/masters/Weili_Juekai.jpg"
-      alt= "TS. THÍCH DUY LỰC"
-      href= "/masters/Weili-Juekai"
-    >
-      <HTTDL />
-    </BioWithImage>
-
-    <hr class="blog-rule" />
-
-    <!-- HtmlBlocks Section -->
-<!--    <HtmlBlocks>
-      <ZEN_GATE_ENCOURAGE />
-    </HtmlBlocks>-->
-
-    <hr class="blog-rule" />
-
     <!-- HtmlBlocks Section -->
     <HtmlBlocks>
-      <LANKA_SUTRA_IMPORTANCE />
+      <ZEN_AND_YOUTH />
     </HtmlBlocks>
 
-    <hr class="blog-rule" />
-
-    <!-- Hero Section -->
-    <InstallPWA />
-    <PWAPopup />
-
-    <!-- Rule Section -->
-    <section class="rules" id="rules">
-      <div class="container">
-        <h2 class="section-title">10 Chú Ý</h2>
-        <p class="blog-description tag-line-accent">{tagLine4}</p>
-        <p class="blog-description">Người tham Tổ Sư Thiền phải chú ý những điều sau đây</p>
-
-        <div class="rules-grid">
-          {
-            rules?.map(rule => <div class="rule-card">
-              <h3 class="rule-title">{ rule.title }</h3>
-              <p class="rule-description">{ rule.description }</p>
-            </div>)
-          }
-        </div>
-      </div>
-    </section>
-
-    <!-- Principle Section -->
-    <section class="typography-showcase">
-      <div class="container">
-        <h2 class="section-title">HAI Tâm Niệm</h2>
-        <p class="typography-description">
-          Muốn đạt đến kiến tánh giải thoát, hành giả tham tổ sư thiền cần phải thực hành đúng theo cơ bản như sau
-        </p>
-
-        <div class="typography-samples">
-          {
-            principles?.map(principle => <div class="type-sample">
-              <h4 class="sample-h1">{ principle.title }</h4>
-              <p class="type-meta">
-                {
-                  principle.description?.includes(' / ')
-                    ? principle.description
-                      ?.split(' / ')
-                      ?.map(line => <p>{line}</p>)
-                    : principle.description
-                }
-              </p>
-            </div>)
-          }
-        </div>
-
-        <p class="blog-description tag-line-accent">{tagLine5}</p>
-      </div>
-    </section>
-
-    <!-- Practice Section -->
-    <section class="blog-section" id="practices">
-      <div class="container">
-        <h2 class="section-title">Thực Hành</h2>
-        <p class="blog-description tag-line-accent">{tagLine1}</p>
-
-        {practicePosts.length > 0 && (
-          <div class="blog-posts" >
-            {practicePosts.map(post => (
-              <article class="blog-post-card">
-                <h3 class="blog-post-title">
-                  <a href={post.slug}>{post.title}</a>
-                </h3>
-                <PostTags frontmatter={post.frontmatter} />
-              </article>
-            ))}
-          </div>
-        )}
-
-        <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}practices`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
-        </div>
-      </div>
-    </section>
-
-    <!-- Book Section -->
-    <section class="blog-section" id="books">
-      <div class="container">
-        <h2 class="section-title">Sách</h2>
-        <p class="blog-description tag-line-accent">{tagLine2}</p>
-
-        {bookPosts.length > 0 && (
-          <div class="blog-posts">
-            {bookPosts.map(post => (
-              <article class="blog-post-card">
-                <h3 class="blog-post-title">
-                  <a href={post.slug}>{post.title}</a>
-                </h3>
-                <PostTags frontmatter={post.frontmatter} />
-              </article>
-            ))}
-          </div>
-        )}
-
-        <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}books`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
-        </div>
-      </div>
-    </section>
-
-    <!-- Blog Section -->
-    <section class="blog-section" id="blogs">
-      <div class="container">
-        <h2 class="section-title">Bài viết</h2>
-        <p class="blog-description tag-line-accent">{tagLine3}</p>
-
-        {blogPosts.length > 0 && (
-          <div class="blog-posts">
-            {blogPosts.map(post => (
-              <article class="blog-post-card">
-                <h3 class="blog-post-title">
-                  <a href={post.slug}>{post.frontmatter.title}</a>
-                </h3>
-                <PostTags frontmatter={post.frontmatter} />
-              </article>
-            ))}
-          </div>
-        )}
-
-        <div class="blog-actions">
-          <a href={`${import.meta.env.BASE_URL}blogs`} class="btn btn-primary" target="_blank">Xem Tất cả</a>
-        </div>
-      </div>
-    </section>
   </div>
 </Layout>
 
