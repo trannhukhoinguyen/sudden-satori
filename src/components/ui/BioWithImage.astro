@@ -5,6 +5,7 @@ const {
   src= "",
   href= "",
   alt= "",
+  playlist = "",
 } = Astro.props;
 
 // Kiểm tra xem slot có nội dung không
@@ -52,7 +53,10 @@ const hasContent = Astro.slots.default;
     {src && <img src={src} alt={alt} />}
 
     <a href={href} target="_blank">➡️️ Xem đầy đủ Tiểu sử</a>
-  </div>
+    {playlist && (
+     <a href={playlist} target="_blank">➡️️ TỪ NGHI TỚI NGỘ</a>
+    )}
+</div>
 
   <!-- MAIN CONTENT (nếu có) -->
   {hasContent && (
