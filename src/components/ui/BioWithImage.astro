@@ -43,6 +43,11 @@ const hasContent = Astro.slots.default;
         border-radius: 10px;
         margin: 0.8rem 0 1.2rem 0;
     }
+
+    .accent-gold-text {
+     color: var(--color-accent-gold);
+     font-weight: 900;
+    }
 </style>
 
 <div class={`wrap ${hasContent ? "with-content" : "no-content"}`}>
@@ -55,7 +60,7 @@ const hasContent = Astro.slots.default;
     </p>
     {playlist && (
      <p>
-      <a href={playlist} target="_blank">➡️️ TỪ NGHI TỚI NGỘ</a>
+      <a class="accent-gold-text" href={playlist} target="_blank">➡️️ TỪ NGHI TỚI NGỘ</a>
      </p>
     )}
 </div>
