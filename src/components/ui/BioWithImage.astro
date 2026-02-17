@@ -1,6 +1,4 @@
 ---
-
-
 const {
   src= "",
   href= "",
@@ -52,9 +50,13 @@ const hasContent = Astro.slots.default;
   <div class="sidebar">
     {src && <img src={src} alt={alt} />}
 
-    <a href={href} target="_blank">➡️️ Xem đầy đủ Tiểu sử</a>
+    <p>
+     <a href={href} target="_blank">➡️️ Xem đầy đủ Tiểu sử</a>
+    </p>
     {playlist && (
-     <a href={playlist} target="_blank">➡️️ TỪ NGHI TỚI NGỘ</a>
+     <p>
+      <a href={playlist} target="_blank">➡️️ TỪ NGHI TỚI NGỘ</a>
+     </p>
     )}
 </div>
 
