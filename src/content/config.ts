@@ -160,9 +160,9 @@ const speeches = defineCollection({
   }),
 });
 
-const teachings = defineCollection({
+/*const teachings = defineCollection({
   loader: glob({
-    pattern: "**/[^_]*.{md,mdx}",
+    pattern: "**!/[^_]*.{md,mdx}",
     base: "./src/content/teachings",
   }),
   schema: z.object({
@@ -175,7 +175,7 @@ const teachings = defineCollection({
     categories: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
   }),
-});
+});*/
 
 const masters = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/masters" }),
@@ -271,10 +271,11 @@ export const collections = {
   practices,
   masters,
   speeches,
-  teachings,
+  // teachings,
   faqs,
   health,
   precepts,
   films,
+
   gallery,
 };
