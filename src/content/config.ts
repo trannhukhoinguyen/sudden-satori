@@ -248,15 +248,15 @@ const films = defineCollection({
   }),
 });
 
-const gallery = defineCollection({
-  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: "./src/content/gallery" }),
+/*const gallery = defineCollection({
+  loader: glob({ pattern: "**!/[^_]*.{md,mdx}", base: "./src/content/gallery" }),
   schema: ({ image }) =>
     z.object({
       title: z.string(),
       description: z.string().optional(),
       cover: image(),
     }),
-});
+});*/
 
 export const collections = {
   blogs,
@@ -277,5 +277,5 @@ export const collections = {
   precepts,
   films,
 
-  gallery,
+  // gallery,
 };

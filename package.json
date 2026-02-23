@@ -32,6 +32,11 @@
     "typography"
   ],
   "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@fancyapps/ui": "^6.0.32",
+    "smartypants": "^0.2.2",
+    "typescript": "^5.9.2",
+
     "@astrojs/mdx": "^4.3.0",
     "@astrojs/rss": "^4.0.12",
     "@astrojs/sitemap": "^3.3.0",
@@ -52,6 +57,13 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
+    "@biomejs/biome": "^2.2.4",
+    "husky": "^9.1.7",
+    "sharp": "^0.34.4",
+    "stylelint": "^16.24.0",
+    "stylelint-config-astro": "^1.0.4",
+    "stylelint-config-standard": "^39.0.0",
+
     "@astrojs/check": "^0.9.3",
     "@iconify-json/simple-icons": "^1.2.53",
     "@iconify/utils": "^3.0.2",

@@ -34,6 +34,9 @@
       "@/types/*": ["src/types/*"],
       "@/utils/*": ["src/utils/*"],
       "@/*": ["src/*"],
-    }
+    },
+
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
   },
 }
