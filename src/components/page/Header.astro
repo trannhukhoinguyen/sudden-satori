@@ -30,7 +30,13 @@ const zenDailyTimerDomain = "https://zen-meditation.vercel.app";
         <ul class="nav-list">
           <li><a href={base} class="nav-link" title="Trang chủ">🛖</a></li>
           <li><a href={base + "faqs"} class="nav-link">HỎI ĐÁP</a></li>
-          <li><a href={base + "gallery"} class="nav-link">HOÀI NIỆM</a></li>
+          <li class="dropdown">
+            <a class="nav-link">HÌNH ẢNH</a>
+            <ul class="dropdown-menu">
+              <li><a href={base + "hoai-niem-an-su"}>HOÀI NIỆM ÂN SƯ</a></li>
+              <li><a href={base + "gallery"}>HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
+            </ul>
+          </li>
           <li class="dropdown">
             <a href={base + "sutras"} class="nav-link">KINH</a>
             <ul class="dropdown-menu">
@@ -110,12 +116,13 @@ const zenDailyTimerDomain = "https://zen-meditation.vercel.app";
   <ul class="mobile-nav-list">
     <li><a href={base} class="mobile-nav-link" title="Trang chủ">🛖</a></li>
     <li><a href={base + "about"} class="mobile-nav-link">Tổ sư thiền?</a></li>
-    <li><a href={base + "gallery"} class="mobile-nav-link">HOÀI NIỆM</a></li>
+    <li><a href={base + "hoai-niem-an-su"} class="mobile-nav-link">HOÀI NIỆM ÂN SƯ</a></li>
+    <li><a href={base + "gallery"} class="mobile-nav-link">HÌNH ẢNH THIỀN ĐƯỜNG</a></li>
     <li><a href={base + "wordpress"} class="mobile-nav-link" title="Duy Lực Thiền">
       <img class="wordpress-logo" alt="Duy Lực Thiền" src="/images/wordpress-logo.png"></img> DUY LỰC THIỀN
     </a></li>
     <li><a href={base + "sutras"} class="mobile-nav-link" title="Kinh">📙 Kinh</a></li>
-    <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">⚡️ Thực hành</a></li>
+    <li><a href={base + "practices"} class="mobile-nav-link" title="Thực hành">⚡️Thực hành</a></li>
     <li><a href={base + "masters"} class="mobile-nav-link" title="Thiền sư">🌟 Thiền sư</a></li>
     <li><a href={base + "speeches"} class="mobile-nav-link" title="Ngữ Lục">💬 Ngữ Lục</a></li>
     <li><a href={base + "teachings"} class="mobile-nav-link" title="Cổ Tôn Túc Ngữ lục">💬 Cổ Tôn Túc Ngữ lục</a></li>
