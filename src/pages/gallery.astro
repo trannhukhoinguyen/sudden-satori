@@ -2,6 +2,7 @@
 import { Image } from "astro:assets";
 import PhotoGridLayout from "../layouts/PhotoGridLayout.astro";
 import "@fancyapps/ui/dist/fancybox/fancybox.css";
+import Layout from "../layouts/Layout.astro";
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
   "../images/thien-duong/*.{jpg,jpeg,png,webp,avif}",
@@ -14,6 +15,7 @@ const description = "HÌNH ẢNH THIỀN ĐƯỜNG";
 <PhotoGridLayout
   title={title}
   description={description}
+  images={images}
 >
   <section class="justified-gallery" id="photoswipe">
     {
