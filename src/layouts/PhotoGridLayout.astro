@@ -132,7 +132,7 @@ const pageTitle = Astro.url.pathname === "/" ? title : `${title} · ${SITE_TITLE
       canonical={canonical}
     />
 
-    {images.map(img => (
+    {resolvedImages.map(img => (
         <meta
       property="og:image"
       content={new URL(img.src, SITE_URL).toString()}
