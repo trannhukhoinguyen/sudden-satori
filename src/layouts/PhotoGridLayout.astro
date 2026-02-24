@@ -20,8 +20,9 @@ export interface Props {
   excerpt?: string;
   showSidebar?: boolean;
   image?: string;
-  images?: string[];
-  type?: 'website' | 'article';
+  images: Record<string, () => Promise<any>>;
+  aboutType?: 'Thing' | 'Person' | 'Event' | 'Place';
+  type?: 'website' | 'article' | 'collectionPage';
   publishedTime?: string;
   modifiedTime?: string;
   canonical?: string;
@@ -36,53 +37,59 @@ const {
   description,
   excerpt,
   image = '/images/backgrounds/Buddha-zen.jpg',
-  images,
+  images = [],
   type,
   publishedTime,
   canonical,
+  aboutType,
 } = Astro.props;
 
 
 const canonicalURL = canonical || new URL(Astro.url.pathname, SITE_URL || Astro.site).toString();
 const metaDescription = description || excerpt || SITE_DESCRIPTION;
+const resolvedImages = await Promise.all(
+    Object.entries(images).map(async ([_path, image]) => {
+      const { default: imageData } = await image();
 
-const websiteSchema = {
-  "@type": "WebSite",
-  "@id": `${SITE_URL}#website`,
-  "url": SITE_URL,
-  "name": SITE_TITLE,
-  "description": SITE_DESCRIPTION,
-  "publisher": {
-    "@id": `${SITE_URL}#organization`
-  },
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": `${SITE_URL}/search?q={search_term_string}`,
-    "query-input": "required name=search_term_string"
-  }
-};
+      return {
+        src: imageData.src,
+        width: imageData.width,
+        height: imageData.height
+      };
+    })
+);
 
 // GallerySchema schema
-const gallerySchema = {
-  "@context": "https://schema.org",
+const gallerySchema = images?.length ? {
   "@type": "CollectionPage",
-  "@id": `${canonicalURL}#gallery`,
+  "@id": `${canonicalURL}#collection`,
+  "url": canonicalURL,
   "name": title,
   "description": metaDescription,
-  "url": canonicalURL,
-  "hasPart": images.map(img => ({
+
+  "isPartOf": {
+    "@id": `${SITE_URL}#website`
+  },
+
+  // 👇 ĐẶT Ở ĐÂY
+  "about": {
+    "@type": aboutType || "Thing",
+    "name": title
+  },
+
+  "hasPart": resolvedImages.map(img => ({
     "@type": "ImageObject",
     "contentUrl": new URL(img.src, SITE_URL).toString(),
-    "name": img.title,
-    "description": img.alt
+    "width": img.width,
+    "height": img.height
   }))
-};
+} : null;
 
 // Gộp schema vào @graph
 const schema = {
   "@context": "https://schema.org",
   "@graph": [
-    gallerySchema,
+    ...(gallerySchema ? [gallerySchema] : [])
   ]
 };
 
@@ -125,14 +132,12 @@ const pageTitle = Astro.url.pathname === "/" ? title : `${title} · ${SITE_TITLE
       canonical={canonical}
     />
 
-    {
-      image && (
-        <>
-          <meta property="og:image" content={image.src} />
-          <meta property="og:image:alt" content={image.alt} />
-        </>
-      )
-    }
+    {images.map(img => (
+        <meta
+      property="og:image"
+      content={new URL(img.src, SITE_URL).toString()}
+      />
+      ))}
   </head>
   <body>
 
