@@ -60,5 +60,28 @@ const CnLv34MasterDb = [
     image: '/images/avatar.png',
     reference: [''],
   },
+  {
+    id: '67.34.4',
+    name_en: 'Poan Jingdeng',
+    name_ja: '',
+    name_zh: '破闇淨燈',
+    name_vi: 'Phá Ám Tịnh Đăng',
+    other_name_vi: '',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1603', '1659'],
+    records: '',
+    sect: [''],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Ruibai Mingxue'],
+    successors: ['Guqiao Zhixian'],
+    disciples: ['Guqiao Zhixian'],
+    image: '/images/avatar.png',
+    reference: [
+        'https://terebess.hu/zen/mesterek/shengyen.html',
+        'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',
+    ],
+  },
 ]
 export default CnLv34MasterDb;

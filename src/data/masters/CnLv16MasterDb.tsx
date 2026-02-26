@@ -242,5 +242,27 @@ const CnLv16MasterDb = [
       'https://vi.wikipedia.org/wiki/Thi%C3%AAn_%C4%90%E1%BB%93ng_T%C3%B4ng_Gi%C3%A1c',
     ],
   },
+  {
+    id: '49.16.12',
+    name_en: 'Zide Huihui',
+    name_ja: '',
+    name_zh: '自得慧暉',
+    name_vi: 'Tự Đắc Huệ Huy',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1097', '1183'],
+    epoch: '',
+    records: '',
+    sect: ['Caodong'],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Hongzhi Zhengjue'],
+    successors: [''],
+    disciples: [''],
+    image: '/images/avatar.png',
+    reference: [
+      'https://terebess.hu/zen/mesterek/shengyen.html',
+    ],
+  },
 ]
 export default CnLv16MasterDb;

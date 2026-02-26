@@ -125,7 +125,7 @@ const CnLv18MasterDb = [
     country: '🇨🇳',
     place: 'trụ trì tại Thiên Đồng Cảnh Đức Thiền Tự, Minh Châu',
     teachers: ['Xuedou Zhijian'],
-    successors: ['Wuwai Yiyuan', 'Dōgen Kigen'],
+    successors: ['Wuwai Yiyuan', 'Daoyuan'],
     disciples: ['Wuwai Yiyuan', 'Dōgen Kigen'],
     image: '/images/masters/Tiantong_Rujing.jpg',
     reference: [

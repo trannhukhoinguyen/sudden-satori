@@ -2,7 +2,7 @@ const CnLv30MasterDb = [
   {
     id: '63.30.1',
     name_en: 'Yunkong Changzhong',
-    name_ja: 'Yunkong Changzhong',
+    name_ja: '',
     name_zh: '蘊空常忠',
     name_vi: 'Uẩn Không Thường Trung',
     other_name_vi: '',
@@ -60,7 +60,11 @@ const CnLv30MasterDb = [
     successors: ['Cizhou Fangnian'],
     disciples: ['Cizhou Fangnian'],
     image: '/images/avatar.png',
-    reference: ['https://terebess.hu/zen/mesterek/shengyen.html', 'https://londonchanmeditation.org/lineage/'],
+    reference: [
+        'https://terebess.hu/zen/mesterek/shengyen.html',
+      'https://londonchanmeditation.org/lineage/',
+      'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',
+    ],
   },
 ]
 export default CnLv30MasterDb;

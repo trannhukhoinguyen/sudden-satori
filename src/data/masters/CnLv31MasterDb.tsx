@@ -46,7 +46,7 @@ const CnLv31MasterDb = [
     name_en: 'Cizhou Fangnian',
     name_ja: '',
     name_zh: '慈舟方念',
-    name_vi: 'Vô Minh Huệ Kinh',
+    name_vi: 'Từ Châu Phương Niệm',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
@@ -60,7 +60,11 @@ const CnLv31MasterDb = [
     successors: ['Yunmen Yuancheng'],
     disciples: ['Yunmen Yuancheng'],
     image: '/images/avatar.png',
-    reference: ['https://terebess.hu/zen/mesterek/shengyen.html', 'https://londonchanmeditation.org/lineage/'],
+    reference: [
+        'https://terebess.hu/zen/mesterek/shengyen.html',
+      'https://londonchanmeditation.org/lineage/',
+      'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng'
+    ],
   },
 ]
 export default CnLv31MasterDb;

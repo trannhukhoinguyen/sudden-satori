@@ -67,11 +67,14 @@ const JpMasterDb = [
   },
   {
     id: '52.19.7',
-    name_en: 'Dōgen Kigen',
+    name_en: 'Daoyuan Xixuan',
+    other_name_en: 'Yongping Daoyuan',
     name_ja: 'Dōgen Kigen',
+    other_name_ja: 'Eihei Dōgen',
     name_zh: '道元希玄',
+    other_name_zh: '永平道元',
     name_vi: 'ĐẠO NGUYÊN HI HUYỀN',
-    other_name_vi: '',
+    other_name_vi: 'Đạo Nguyên Hy Huyền, Vĩnh Bình Đạo Nguyên',
     nickname_vi: '',
     worship_tower: '',
     birth_death_time: ['26/1/1200', '22/9/1253'],
@@ -159,7 +162,7 @@ const JpMasterDb = [
   },
   {
     id: '71.38.1',
-    
+
     name_en: 'Bankei Yotaku',
     other_name_en: 'Bankei Yōtaku, Bankei kokushi',
     name_ja: 'Bankei Yōtaku',
@@ -183,7 +186,7 @@ const JpMasterDb = [
   },
   {
     id: '72.39.1',
-    
+
     name_en: 'Hakuin Ekaku',
     name_ja: 'Hakuin Ekaku',
     name_zh: '白隠慧鶴',

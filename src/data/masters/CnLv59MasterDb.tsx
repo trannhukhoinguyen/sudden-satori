@@ -18,7 +18,9 @@ const CnLv59MasterDb = [
     successors: [''],
     disciples: [],
     image: '/images/avatar.png',
-    reference: ['https://phatgiao.org.vn/trung-quoc-thien-su-duc-lam-vien-tich-d18587.html#google_vignette'],
+    reference: [
+        'https://phatgiao.org.vn/trung-quoc-thien-su-duc-lam-vien-tich-d18587.html#google_vignette'
+    ],
   },
 ]
 export default CnLv59MasterDb;

@@ -39,5 +39,27 @@ const CnLv33MasterDb = [
     image: '/images/avatar.png',
     reference: ['https://phatgiao.org.vn/tu-dien-phat-hoc-online/huyen-huu-chanh-truyen-k4231.html'],
   },
+  {
+    id: '66.33.3',
+    name_en: 'Ruibai Mingxue',
+    name_ja: '',
+    name_zh: '瑞白明雪',
+    name_vi: 'Thụy Bạch Minh Tuyết',
+    nickname_vi: '',
+    worship_tower: '',
+    birth_death_time: ['1584', '1641'],
+    records: '',
+    sect: [''],
+    country: '🇨🇳',
+    place: '',
+    teachers: ['Yunmen Yuancheng'],
+    successors: ['Poan Jingdeng'],
+    disciples: ['Poan Jingdeng'],
+    image: '/images/avatar.png',
+    reference: [
+        'https://terebess.hu/zen/mesterek/shengyen.html',
+        'https://vi.wikipedia.org/wiki/T%C3%A0o_%C4%90%E1%BB%99ng_t%C3%B4ng',
+    ],
+  },
 ]
 export default CnLv33MasterDb;

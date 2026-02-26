@@ -1,22 +1,22 @@
-const CnLv38MasterDb = [
+const CnLv52MasterDb = [
   {
-    id: '71.38.2',
-    name_en: 'Minxiu Fuyi',
+    id: '85.52.1',
+    name_en: 'Dongchu Denglang',
     name_ja: '',
-    name_zh: '敏修福毅',
-    name_vi: 'Mẫn Tu Phúc Nghị',
+    name_zh: '',
+    name_vi: 'Đông Sơ Đăng Lãng',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
-    birth_death_time: ['', '1790'],
+    birth_death_time: ['1908', '1977'],
     epoch: '',
     records: '',
     sect: [''],
     country: '🇨🇳',
     place: '',
-    teachers: ['Shuoan Xingzai'],
-    successors: ['Biyan Xiangjie'],
-    disciples: ['Biyan Xiangjie'],
+    teachers: ['Zhiguang Wenjue'],
+    successors: ['Huikong Shengyen'],
+    disciples: ['Huikong Shengyen', 'Mingshan Chuanxin'],
     image: '/images/avatar.png',
     reference: [
         'https://terebess.hu/zen/mesterek/shengyen.html',
@@ -24,4 +24,4 @@ const CnLv38MasterDb = [
     ],
   }
 ]
-export default CnLv38MasterDb; // 71.38.1 (Bankei Yōtaku - JP)
+export default CnLv52MasterDb;

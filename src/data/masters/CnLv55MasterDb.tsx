@@ -4,7 +4,7 @@ const CnLv55MasterDb = [
     name_en: 'Langhui Shirong',
     name_ja: 'Rōki Riji',
     name_zh: '朗辉事融',
-    name_vi: '',
+    name_vi: 'Lãng Huy Sự Dung',
     other_name_vi: '',
     nickname_vi: '',
     worship_tower: '',
