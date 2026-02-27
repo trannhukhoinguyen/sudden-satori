@@ -55,7 +55,7 @@ const CnLv3MasterDb = [
     records: '',
     sect: [],
     country: '🇨🇳',
-    place: '',
+    place: 'Chùa Thiên Hoàng, Kinh Châu',
     teachers: ['Shitou Xiqian', 'Jingshan Faqin'],
     successors: ['Longtan Chongxin'],
     disciples: ['Longtan Chongxin'],
