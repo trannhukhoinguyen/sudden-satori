@@ -630,7 +630,7 @@ Một vùng thất bại, thấu lộ thiền cơ,
 
 Mở ruộng tu hành, hình hai mà một ,
 
-Dang rộng hai tay, đại nghĩa mặc khế.
+Dang rộng hai tay, đại nghĩa mặc khế
 </blockquote>
 
 <blockquote> 
@@ -641,7 +641,7 @@ Nhất trường bại quyết, thấu lộ thiền cơ.
 
 Khai điền tu hành, hình nhị thực nhất.
 
-Triển khai song thủ, đại nghĩa mặc khế.
+Triển khai song thủ, đại nghĩa mặc khế
 </blockquote>
 
 <hr class="blog-rule" />

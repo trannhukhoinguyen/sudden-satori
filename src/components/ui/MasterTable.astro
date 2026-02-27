@@ -1,7 +1,6 @@
 ---
 import masterData from "../../data/masters/AllMasterDb.tsx";
-import { toKebabCase } from "@/utils/helper";
-import {toSlug} from "../../utils/helper";
+import { toSlug } from "../../utils/helper";
 
 const masterPosts = import.meta.glob('../content/masters/*.mdx', { eager: true });
 const masterSlugSet = new Set(
@@ -20,22 +19,22 @@ const masterSlugSet = new Set(
 
 <!--    <div class="control-panel">
 
-      <label class="label"><input id="rbName" type="checkbox" name="checkbox" checked/>
+      <label class="label"><input id="hasContent" type="checkbox" name="checkbox" checked/>
         Có bài viết</label>
 
-      <label class="label"><input id="rbName" type="checkbox" name="checkbox" checked/>
+      <label class="label"><input id="India" type="checkbox" name="checkbox"/>
         India</label>
 
-      <label class="label"><input id="rbCountry" type="checkbox" name="checkbox" />
+      <label class="label"><input id="China" type="checkbox" name="checkbox" />
         China</label>
 
-      <label class="label"><input id="cbCaseSns" type="checkbox" name="checkbox" />
+      <label class="label"><input id="Japan" type="checkbox" name="checkbox" />
         Japan</label>
 
-      <label class="label"><input id="rbCountry" type="checkbox" name="checkbox" />
+      <label class="label"><input id="Vietnam" type="checkbox" name="checkbox" />
         Vietnam</label>
 
-      <label class="label"><input id="cbCaseSns" type="checkbox" name="checkbox" />
+      <label class="label"><input id="Korea" type="checkbox" name="checkbox" />
         Korea</label>
 
     </div>-->
@@ -64,13 +63,14 @@ const masterSlugSet = new Set(
         && masterData?.map((master: any) => {
           const slug = toSlug(master.name_en);
           const hasPost = masterSlugSet.has(slug);
+
           return hasPost
               ? <tr>
                 <td data-label="Tên Anh" class="table-data">
-                  <a href={`/masters/${master.name_en?.split(' ')?.join('-')}`} target="_blank" class="table-data">{master.name_en}</a>
+                  <a href={`/masters/${slug}`} target="_blank" class="table-data">{master.name_en}</a>
                 </td>
                 <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
-<td data-label="Tên Trung" class="table-data">{master.name_zh}</td>
+                <td data-label="Tên Trung" class="table-data">{master.name_zh}</td>
                 <td data-label="Tông phái" class="table-data">{master.sect?.join(', ')}</td>
                 <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
               </tr>
@@ -80,7 +80,7 @@ const masterSlugSet = new Set(
             </td>
             <td data-label="Tên Việt" class="table-data">{master.name_vi}</td>
             <td data-label="Tên Trung" class="table-data">{master.name_zh}</td>
-              <td data-label="Tông phái" class="table-data">{master.sect?.join(', ')}</td>
+            <td data-label="Tông phái" class="table-data">{master.sect?.join(', ')}</td>
             <td data-label="Thầy" class="table-data">{master.teachers?.join(', ')}</td>
           </tr>
         }

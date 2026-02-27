@@ -822,7 +822,7 @@ Lau bay ngày mưa mát,
 
 Sách xưa ngàn vạn quyển,
 
-Cổ tích mực bao vây.
+Cổ tích mực bao vây
 </blockquote>
 
 <blockquote> 
@@ -833,7 +833,7 @@ Thạch hưởng dạ đằng phong.
 
 Tàn thư thiên vạn quyển,
 
-Cổ tích mặc oanh oanh.
+Cổ tích mặc oanh oanh
 </blockquote>
 
 Lão Hoà thượng Hư Vân cũng có một bài kệ tặng lại:

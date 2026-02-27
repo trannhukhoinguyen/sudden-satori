@@ -36,7 +36,7 @@ const CnLv5MasterDb = [
     teachers: ['Yunyan Tansheng'],
     successors: ['Yunju Daoying', 'Caoshan Benji'],
     disciples: ['Yunju Daoying', 'Caoshan Benji', 'Sushan Kuangren', 'Jiufeng Puman', 'Baoji Xiujing', 'Tiantong Weiqi',
-      'Longya Judun', 'Qinshan Wensui', 'Yuezhou Qianfeng', 'Qinglin Shiqian', 'Jingdiao Xianzu', 'Yuezhou Qianfeng'],
+      'Longya Judun', 'Qinshan Wensui', 'Yuezhou Qianfeng', 'Qinglin Shiqian', 'Jingdiao Xianzu'],
     image: 'https://terebess.hu/zen/mesterek/Ma-Yuan_Dongshan.jpg',
     reference: ['https://hoavouu.com/a39664/ngu-luc-thien-su-dong-son-ngo-ban', 'https://pl.wikipedia.org/wiki/Dongshan_Liangjie',
       'https://drive.google.com/file/d/1SvmWiqhC8prbUZrvXV7WqnI7dVaddd98/view',
