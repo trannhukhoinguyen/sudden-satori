@@ -2,11 +2,12 @@
 import masterData from "../../data/masters/AllMasterDb.tsx";
 import { toSlug } from "../../utils/helper";
 
-const masterPosts = import.meta.glob('../content/masters/*.mdx', { eager: true });
+const masterPosts = import.meta.glob('/src/content/masters/**/*.{md,mdx}', { eager: true });
 const masterSlugSet = new Set(
-    Object.keys(masterPosts).map(path =>
-        path.split('/').pop()?.replace('.mdx', '')
-    )
+    Object.keys(masterPosts).map(path => {
+      const filename = path.split('/').pop() || '';
+      return filename.replace(/\.(md|mdx)$/, '');
+    })
 );
 ---
 
@@ -63,7 +64,7 @@ const masterSlugSet = new Set(
         && masterData?.map((master: any) => {
           const slug = toSlug(master.name_en);
           const hasPost = masterSlugSet.has(slug);
-
+          console.log("masterData", masterData);
           return hasPost
               ? <tr>
                 <td data-label="Tên Anh" class="table-data">
